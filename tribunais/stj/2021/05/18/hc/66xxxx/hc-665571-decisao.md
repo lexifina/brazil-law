@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado(fl. 3.046):
+Recurso em Sentido Estrito Justiça Pública Organização criminosa Decretação da prisão preventiva Necessidade Materialidade comprovada e indícios suficientes de autoria Crime apenado com pena máxima superior a quatro anos Hipótese do artigo 313, inciso I, do Código de Processo Penal Periculosidade concreta dos acusados demonstrada pelas provas coligidas aos autos Os recorridos dedicaram-se por anos à consecução de fraudes fiscais e lavagem de capitais, ensejando prejuízos bilionários ao erário Continuidade das atividades criminosas após a deflagração da investigação criminal Presença dos requisitos ensejadores da prisão cautelar Recurso provido, com determinação.
+Consta dos autos que os pacientes foram denunciados, juntamente com outros quatorze réus,pela prática do delito previsto no art. 2º da Lei 12.850/2013, que causou prejuízo de R$ 2.800.854.461,00 ao erário.
+Destaca que o pedido de prisão preventiva formulado ao Juízo de origem foi indeferido e, interposto recurso pelo Ministério Público, o Tribunal de origem deu-lhe provimento, decretando a prisão preventiva dospacientes e de outros três corréus.
+Alega a defesa ausência de contemporaneidade das prisões e que os pacientes já vinham cumprindo há dois anos e meio as medidas cautelares impostas pelo Juízo de piso. Aduz negativa de autoria, condições pessoais favoráveis e ausência de fundamentação idônea no decreto preventivo.
+Destaca a pandemia do novo coronavírus em reforço à pretensão de afastar a ordem de prisão.
+Aponta que a saúde de todos está fragilizada, e que a paciente Renata é mãe de criança menor de 12 anos.
+Requer, liminarmente, sejarevogadaa prisão preventiva decretada no acórdão que deu provimento ao recurso em sentido estrito interposto pelo MP-SP. No mérito, que seja confirmada a liminar, fixando-se, caso seja necessário, medidas cautelares diversas.
+Inicialmente, cumpre ressaltar que as alegações de ausência de contemporaneidade, fundamentação inidônea do decreto preventivo, e a excepcionalidade da pandemia da Covid-19 já foram trazidas a esta Corte superior nos autos do HC 649796/SP, cujo pedido liminar foi indeferido em decisão publicada no DJe de 11/3/2021. Tratando-se de mera reiteração de pedido, as alegações não serão conhecidas.
+Quanto às alegações de saúde fragilizada e condição materna, tais matérias não foram apreciadas pela instância de origem, e igualmente serão conhecidas por este Sodalício, sob pena de indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC 126.604/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/12/2020, DJe 16/12/2020).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
