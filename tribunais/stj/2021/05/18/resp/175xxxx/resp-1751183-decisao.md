@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por CLARINDO GONCALVES DE MELO e LUCIDIO JORGE IAQUINTO em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fls. 184):
+Agravo de Instrumento. Mandato. Prestação de serviços advocatícios. Ação de cobrança com indenizatória por danos morais e materiais. Quantia recebida por advogado sem repasse ao mandante. Fase de cumprimento de sentença. Prescrição intercorrente. Necessidade de paralisação do processo. Desídia da parte não demonstrada. Decisão mantida. Recurso improvido
+No julgamento do primeiro recurso especial interposto pelos recorrentes foi reconhecida a violação do art. 535 do Código de Processo Civil de 1973, em decisão singular de minha relatoria, tendo sido determinado o retorno dos autos para novo julgamento dos embargos de declaração.
+O Tribunal de Justiça do Estado de São Paulo acolheu os embargos de declaração, sem alteração do julgado, em acórdão, assim ementado (e-STJ, fls. 695):
+Embargos de Declaração. Acórdão anulado pelo C. STJ, para a análise expressa quanto à ocorrência, ou não, da prescrição intercorrente. Agravo de Instrumento. Mandato. Prestação de serviços advocatícios. Ação de cobrança com indenizatória por danos morais e materiais. Quantia recebida por advogado sem repasse ao mandante. Fase de cumprimento de sentença. Prescrição intercorrente. Necessidade de paralisação do processo. Desídia da parte não demonstrada. Desnecessidade de prequestionamento. Embargos conhecidos e acolhidos para aclarar o julgado, sem alteração do dispositivo
+Nas razões do seu recurso especial, os recorrentes apontam a violação dos arts. 489 e 1.022, II, do Código de Processo Civil, em virtude da omissão quanto ao error in judicando, pois foi informada a existência de bens passíveis de penhora; a ausência de decisão de cunho suspensivo no processo original e a ocorrência da prescrição intercorrente por desídia da parte em não impulsionar o processo.
+Afirmou a exis tência de prequestionamento ficto, nos termos do art. 1.025 do CPC/2015.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso está prejudicado.
+Consta, no sítio eletrônico do Tribunal de origem, a homologação de acordo entre as partes e a certificação do trânsito em julgado, aos 5/9/2019, in verbis:
+Vistos. Homologo para que produza seus jurídicos e legais efeitos, o acordo celebrado a fls. 1144/45, nos autos da execução que Izilda Cristina Martins Cordeiro move contra Lucidio Jorge Iaquinto, e, assim, JULGO EXTINTO o processo, com fundamento no artigo 924, inciso III, do Código de Processo Civil. Inexistindo interesse recursal, certifique a Serventia, desde logo, o trânsito em julgado. Oportunamente, arquivem-se os autos, comunicando ao Distribuidor. Publique-se, registre-se e intime-se.
+Nos termos da jurisprudência desta Corte, a superveniência da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória. C onfira-se:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM CONTRA DELIBERAÇÃO QUE, EM RECUPERAÇÃO JUDICIAL, MANTEVE A RECUPERANDA NA POSSE DO IMÓVEL DADO EM GARANTIA FIDUCIÁRIA - DECISÃO MONOCRÁTICA QUE JULGOU PREJUDICADO O RECLAMO ANTE O ACORDO DE REESCALONAMENTO DA DÍVIDA FIRMADO ENTRE AS PARTES.
+1. Ocorreu a perda superveniente do interesse recursal ante a homologação do plano de recuperação judicial, tendo as partes integrantes da Cédula de Crédito Bancário firmado aditivo a tal título para o reescalonamento da dívida, encerrando-se a discussão acerca da suspensão do procedimento extrajudicial de consolidação do imóvel, objeto do recurso.
+Eventual inadimplemento do aditivo contratual de reescalonamento da dívida já foi mitigado pela prorrogação do prazo de cumprimento da obrigação.
+2. Agravo interno desprovido.
+(RCD no AREsp 1643224/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 01/09/2020, DJe 17/09/2020)
+Em face do exposto, nos termos do art. 34, XI, do RISTJ, julgo prejudicado o recurso especial.
+Intimem-se.
