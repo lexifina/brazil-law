@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de embargos de declaração, opostos por NOEL LAZARO TAUFIC e MARIA REGINA DE OLIVEIRA TAUFIC em face de decisão monocrática da lavra deste signatário, acostada às fls. 471-474 (e-STJ), que deu parcial provimento ao reclamo para reconhecer a existência de negativa de prestação jurisdicional no acórdão e determinar o retorno ao Tribunal de origem para sanar a omissão apontada.
+Nos presentes aclaratórios, os embargantes sustentam, em síntese, omissão na decisão embargada, alegando que não houve enfrentamento da tese de omissão quanto ao cerceamento de defesa.
+Sem impugnação.
+É o relatório.
+Decido.
+1. Nos estreitos lindes do art. 1.022, incisos I, II e III, do Código de Processo Civil, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão.
+No caso, as razões dos embargos revelam tão somente o intuito de reapreciação da causa e a sua insatisfação com o resultado da decisão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Nesse sentido, precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARATER PROTELATÓRIO. MAJORAÇÃO DA MULTA. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Inexistentes as hipóteses do art. 535 do CPC/73, e 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. Inexistindo a alegada omissão no acórdão embargado, mostra-se incabível o acolhimento dos aclaratórios. Precedentes.
+4. Embargos de declaração rejeitados. (EDcl no AgRg na PET no CC 133.509/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/05/2016, DJe 18/05/2016)  grifou-se
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. REITERAÇÃO DE EMBARGOS DECLATÓRIOS ADUZINDO AS MESMAS TESES, JÁ APRECIADAS. ELEVAÇÃO DA MULTA APLICADA E CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. POSSIBILIDADE. EMBARGOS REJEITADOS. MULTA.
+1. Depreende-se do art. 535, I e II, do CPC que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador. Eles não se prestam, portanto, ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso, inexistem omissões ou contradições a serem sanadas, pois todas as teses da parte já foram apreciadas. O que se observa é o resistente inconformismo com a decisão exarada, contrária aos interesses da parte, circunstância a justificar a certificação do trânsito em julgado e a elevação da multa aplicada nos termos do art. 538 do CPC para 5%, ante a insistente oposição de embargos declaratórios aduzindo as mesmas questões.
+3. Embargos de declaração rejeitados, com aplicação de multa e determinação de certificação do trânsito em julgado. (EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015)  grifou-se
+Com efeito, não há qualquer omissão a ser sanada.
+A decisão embargada foi suficientemente clara nas suas razões ao dar provimento ao recurso em razão do acolhimento da tese de negativa de prestação jurisdicional, tendo em vista a ausência de manifestação, pelo Tribunal de origem, sobre da tese relativa ao excesso de execução correspondente aos alugueres dos meses de dezembro/08 até março/09.
+Assim constou da decisão ora embargada (e-STJ, fl. 471-474):
+1. Os recorrentes apontam violação aos artigos arts. 165, 458 e 535 do CPC/73, sustentando omissão, pelo Tribunal de origem, em analisar teses relevantes ao deslinde da controvérsia, quais sejam: (i) os alugueres relativos aos meses de dezembro/08 até março/09 não eram devidos; (ii) cerceamento de defesa pelo indeferimento de produção de prova oral e pericial.
+Infere-se que referidas teses foram postas à apreciação da Corte local nas razões da apelação (fls. 279-292, e-STJ) e através dos embargos de declaração (fls. 378-388, e-STJ).
+O Tribunal local, quando do julgamento dos recursos, limitou-se a apreciar as controvérsias relacionadas à nulidade da sentença fundada na existência de cláusula arbitral, ao apontado cerceamento de defesa; à certeza, liquidez e exigibilidade do título executivo e ao excesso de execução.
+Entretanto, quanto à tese de que os alugueres relativos aos meses de dezembro/08 até março/09 não eram devidos, não houve enfrentamento no julgamento do apelo e o órgão julgador concluiu não haver qualquer vício a ser sanado por meio de embargos de declaração, razão pela qual não acolheu o reclamo.
+Constata-se, portanto, que no caso sub judice, a parte apresentou a alegação em momento oportuno (razões da apelação e embargos de declaração). Todavia, não se vislumbra no acórdão recorrido, a apreciação da referida tese, relevante ao deslinde da controvérsia, consistente em embargos de devedor fundado em suposto excesso de cobrança em processo executivo.
+(..)
+Com efeito, deve ser reconhecida a apontada violação aos supracitados dispositivos, impondo-se a decretação de nulidade do acórdão que julgou os aclaratórios (fls. 391-394, e-STJ), determinando-se a baixa dos autos ao Tribunal de origem, para novo julgamento do recurso, a fim de que seja sanada a omissão relacionada aos alugueres referentes aos meses de dezembro/08 até março/09, como entender de direito, com a prolação de novo acórdão, motivado e fundamentado, em embargos de declaração.
+2. Do exposto, com amparo no artigo 932 do NCPC c/c a Súmula 568/STJ, conheço do agravo para dar parcial provimento ao recurso especial para anular o julgamento dos embargos de declaração (fls. 391-394, e-STJ) e determinar o retorno dos autos ao Tribunal de origem a fim de que seja suprido o vício apontado, mediante a análise da tese relativa ao excesso de execução correspondente aos alugueres dos meses de dezembro/08 até março/09 , como entender de direito.
+Deste modo, não se vislumbra quaisquer das máculas do artigo 1.022 do CPC/15 na decisão monocrática de fls. 471-474 (e-STJ), pois da leitura do acórdão recorrido é possível extrair que o Tribunal de origem afastou a tese de cerceamento de defesa (e-STJ, fl. 354):
+Os apelantes calcam o pedido no fato de não lhes haver sido dada oportunidade de comprovar suas alegações. Ora, não há que se falar em cerceamento de defesa dos recorrentes, visto que presente se mostrava, a hipótese do art. 330, I, do CPC, a justificar o julgamento antecipado da lide.
+Houve, portanto, expressa manifestação pela Corte estadual sobre a tese de cerceamento de defesa.
+Assim, restou claro na decisão embargada que a única omissão que deve ser sanada pelo Tribunal se refere à análise da tese relativa ao excesso de execução correspondente aos alugueres dos meses de dezembro/08 até março/09 .
+2. Do exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
