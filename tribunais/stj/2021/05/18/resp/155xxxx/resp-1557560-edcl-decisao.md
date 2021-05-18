@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Taki Athanassios Cordas contra decisão por meio da qual, reconsiderando decisão anterior, dei provimento ao recurso especial interposto pelo ora embargado, Banco Bradesco S/A, para afastar a conclusão de que é injustificável a incidência do Coeficiente de Equiparação Salarial - CES, por ausência de previsão legal, assim como a de que é ilegal o sistema de amortização mediante a aplicação da Tabela Price, adotada sem a análise da prova pericial realizada, determinando que os autos retornem ao Tribunal de origem a fim de que profira novo julgamento, observados os parâmetros da jurisprudência desta Corte.
+Assiste razão ao embargante ao afirmar que foi omisso o julgado quanto à alegação de que o seguimento do recurso especial é obstado pela Súmula 284/STF, por ausência de indicação do artigo de lei supostamente violado e de realização do cotejo analítico do dissídio jurisprudencial (contrarrazões ao recurso especial, fl. 1.379/e-STJ), vício que passo a suprir, sem, todavia, atribuir efeitos modificativos ao julgado.
+Isso porque, em caso de dissídio notório, situação destes autos, os requisitos para conhecimento do recurso especial pela divergência jurisprudencial comportam temperamento. Nesse sentido:
+RECURSO ESPECIAL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE CORRETAGEM IMOBILIÁRIA. PREQUESTIONAMENTO E DISSÍDIO NOTÓRIO COM A JURISPRUDÊNCIA FIRMADA NO ÂMBITO DO STJ. ADMISSIBILIDADE DO RECURSO. RELAÇÃO DE CONSUMO. INFORMAÇÃO ADEQUADA E CLARA. DIREITO BÁSICO DO CONSUMIDOR. PACTUAÇÃO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL INTERMEDIADA POR CORRETOR DE IMÓVEIS. DESISTÊNCIA MOTIVADA, ANTES DA ASSINATURA DA ESCRITURA. COBRANÇA DE COMISSÃO DE CORRETAGEM. INVIABILIDADE. ART. 725 DO CC. INTERPRETAÇÃO QUE DEMANDA HARMONIZAÇÃO COM O ART. 723 DO MESMO DIPLOMA, 6º DO CDC E 20 DA LEI N. 6.530/1978.
+1. Tratando-se de dissídio notório com a jurisprudência firmada no âmbito do próprio Superior Tribunal de Justiça, admite-se a mitigação dos requisitos exigidos para a interposição do recurso pela alínea "c" do permissivo constitucional, especialmente quando os elementos contidos no recurso são suficientes para se concluir que os julgados confrontados conferiram tratamento jurídico distinto à similar situação fática.
+(..)
+(REsp 1364574/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/10/2017, DJe 30/11/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL NOTÓRIO. REQUISITOS FORMAIS. FLEXIBILIZAÇÃO. INAPLICABILIDADE DO ENUNCIADO N.º 284/STF. MULTA DO ART. 475-J DO CPC. DEVIDA.
+1. Possível o conhecimento do recurso especial interposto com arrimo na alínea "c" do permissivo constitucional, quando, além de notório, é perfeitamente inteligível o dissídio jurisprudencial suscitado.
+(..)
+(AgInt no REsp 1456140/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18/08/2016, DJe 23/08/2016)
+Não há, pois, que se falar em incidência da Súmula 284/STF ao caso dos autos.
+Em face do exposto, acolho os embargos de declaração, apenas para sanar omissão, sem alteração no resultado do julgamento.
+Intimem-se.
