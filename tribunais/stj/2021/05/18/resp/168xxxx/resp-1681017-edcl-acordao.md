@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, acolher em parte os embargos de declaração, sem efeito modificativo, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a).
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino (Presidente) e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO A SÚMULA 343/STF. OMISSÃO. NÃO OCORRÊNCIA. DESISTÊNCIA DO RECURSO ESPECIAL.OMISSÃO. OCORRÊNCIA. EMBARGOS PARCIALMENTE ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2.Não se constata o vício alegado pela embargante, uma vez que devidamente esclarecida que a jurisprudência desta Corte Superior tem limitado a aplicação da Súmula 343/STF aos casos em que a eventual divergência de interpretação se verifica nos Tribunais de apelação, afastando-a, contudo, quando a orientação for pacificada no âmbito do STJ.
+3. Na hipótese, verifica-se a existência de omissão apenas em relação à questão da desistência.
+4. Embargos de declaração parcialmente acolhidos, sem efeitos modificativos.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por Iracema Oliveira Pacheco - inventariante - a acórdão proferido pela Terceira Turma desta Corte assim ementado (e-STJ, fl. 532):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. POSSIBILIDADE. SÚMULA N. 343/STF. NÃO INCIDÊNCIA. SISTEMA FINANCEIRO DE HABITAÇÃO. AUSÊNCIA DE COBERTURA PELO FCVS. RESPONSABILIDADE DO MUTUÁRIO. PRECEDENTES. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. ANÁLISE DE CONTRATO E PROVAS. NÃO OCORRÊNCIA. AGRAVO INTERNO IMPROVIDO. 1. Quando a jurisprudência, ainda que vacilante, tiver evoluído para sua pacificação, a ação rescisória pode ser provida, afastando-se o óbice previsto na Súmula 343/STF. Precedentes. 2. Inexistindo previsão de cobertura pelo Fundo de Compensação de Variações Salariais (FCVS), exige-se do mutuário o pagamento do resíduo do saldo devedor existente até a liquidação final, conforme pactuado no contrato. Precedente em recurso repetitivo. 3. Não há falar em incidência das Súmulas 5 e 7/STJ para modificar a conclusão delineada no aresto impugnado, porquanto prescindível o reexame de contrato e do conjunto de fatos e provas dos autos. 4. Agravo interno improvido.
+Em suas razões (e-STJ, fls. 673-678), aembargante sustenta que o acórdão foi omisso, argumentando que não houve violação aos dispositivos legais apontados no recurso especial.
+Argumenta não ter sido apreciado o fato de que os recursos apresentados como paradigmas foram proferidos após a decisão que a embargada pretende rescindir, havendo, desse modo, clara violação à Súmula 343/STF.
+Acrescentou que a parte embargada pediu desistência do recurso especial à época interposto, em virtude da confirmação do resultado da sentença rescindenda pelo TRF da 5ª Região.
+Apresentada impugnação (e-STJ, fls. 681-682).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO A SÚMULA 343/STF. OMISSÃO. NÃO OCORRÊNCIA. DESISTÊNCIA DO RECURSO ESPECIAL.OMISSÃO. OCORRÊNCIA. EMBARGOS PARCIALMENTE ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2.Não se constata o vício alegado pela embargante, uma vez que devidamente esclarecida que a jurisprudência desta Corte Superior tem limitado a aplicação da Súmula 343/STF aos casos em que a eventual divergência de interpretação se verifica nos Tribunais de apelação, afastando-a, contudo, quando a orientação for pacificada no âmbito do STJ.
+3. Na hipótese, verifica-se a existência de omissão apenas em relação à questão da desistência.
+4. Embargos de declaração parcialmente acolhidos, sem efeitos modificativos.
+VOTO
+Os aclaratórios merecem parcial acolhimento.
+Com efeito, nos termos do art. 1.022 do CPC/2015, são cabíveis embargos de declaração para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto sobre o qual deveria se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Confiram-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1011452/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/06/2020, DJe 05/08/2020)
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. ADICIONAL DE QUALIFICAÇÃO. REQUISITOS PARA PERCEPÇÃO. ART. 56, INCISO III, §§ 4 E 5º, DA LEI 11.907/09. AUSÊNCIA DE REGULAMENTAÇÃO. IMPERTINÊNCIA DOS DISPOSITIVOS LEGAIS APONTADOS COMO VIOLADOS. INCAPACIDADE DE INFIRMAR O ARESTO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO NÃO COMBATIDO. SÚMULA 283/STF. SÚMULA 126/STJ. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DAS HIPÓTESES PREVISTAS DO ART. 1.022 DO CPC/2015. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA.
+1. Nos termos do art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Não são cabíveis os embargos de declaração cujo objetivo é ver reexaminada e decidida a controvérsia de acordo com tese distinta.
+3. O acórdão embargado foi categórico ao afirmar que o Tribunal a quo, ao entender pela necessidade de regulamentação da Lei 11.907/2009 para a concessão da Gratificação de Qualificação aos detentores de curso de graduação, não analisou a tese de que a regulamentação da matéria está prevista na LDB - Lei de Diretrizes e Bases da Educação Nacional.
+4. Também não discutiu a instância de origem o preenchimento pelo autor dos requisitos previstos no art. 56, inciso III, §§ 4 e 5º, da Lei 11.907/09 para a concessão da Gratificação de Qualificação, porquanto considerou aquele Tribunal que o pagamento da vantagem estava condicionado à regulamentação pelo Executivo, conforme expresso no § 6º do mesmo dispositivo legal, o que ocorreu apenas em fevereiro de 2013.
+5. Os artigos de lei apontados como violados são considerados impertinentes quando não possuem comandos legais suficientes para afastar a tese adotada no acórdão regional.
+6. Não foi rebatido (Súmula 283/STF), tampouco impugnado por meio de recurso extraordinário (Súmula 126/STJ), o fundamento da Corte de origem, no sentido de que o poder regulamentar "trata-se de verdadeira prerrogativa da Administração Pública a definição desses critérios, e o Poder Judiciário não pode vir substituir a vontade da Administração. Assim, a sentença vergastada, ao fazê-lo, de fato viola a separação de Poderes." (fl. 292, e-STJ).
+Embargos de declaração acolhidos sem efeitos modificativos.
+(EDcl no AgInt no REsp 1589590/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 16/08/2016, DJe 23/08/2016).
+Nesse contexto, acerca da alegada omissão quanto à violação a Súmula 343/STF,não se constata o vício alegado pela embargante, uma vez que devidamente esclarecida que a jurisprudência desta Corte Superior tem limitado a aplicação da mencionada súmulaaos casos em que a eventual divergência de interpretação se verifica nos Tribunais de apelação, afastando-a, contudo, quando a orientação for pacificada no âmbito do STJ.
+No mais, concernente a omissão em relação ao pedido de desistência da parte embargada a recurso interposto na ação originária, com razão a embargante.
+Contudo, sobre a questão objeto de discussão, observa-se que o Tribunal local não emitiu pronunciamento a respeito, razão pela qualnão há como o STJ analisar matéria que não foi enfrentada pela instância de origem, sob pena de indevida supressão de instância.
+Diante do exposto, acolho parcialmente os embargos de declaração apenas para integrar ao acórdão recorrido os fundamentos adicionais acima expostos, sem atribuição de efeitos infringentes.
+É como voto.
