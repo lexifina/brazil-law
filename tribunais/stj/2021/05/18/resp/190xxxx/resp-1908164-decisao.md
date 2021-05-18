@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJPR assim ementado (e-STJ fls. 749/750):
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA DE ADIMPLEMENTO CONTRATUAL - CONTRATO DE PARTICIPAÇÃO FINANCEIRA EM INVESTIMENTO NO SERVIÇO TELEFÔNICO - PRETENSÃO DOS AUTORES/ACIONISTAS AO RECEBIMENTO DE DIFERENÇA DE AÇÕES A QUE TERIAM DIREITO - AGRAVO RETIDO - INTERESSE DE AGIR PRESENTE - INAPLICABILIDADE DA SÚMULA 389/STJ - CORRETA APLICAÇÃO DO ARTIGO 355 DO CPC/73 - FATOS CONSTITUTIVOS SUFICIENTEMENTE COMPROVADOS - AGRAVO NÃO PROVIDO - APELAÇÃO: INOCORRÊNCIA DE DECISÃO EXTRA PETITA - INÉPCIA DA INICIAL AFASTADA - ILEGITIMIDADE PASSIVA - PRELIMINAR AFASTADA - APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR E INVERSÃO DO ÔNUS DA PROVA - POSSIBILIDADE - CONTRATOS CELEBRADOS SOB O REGIME PEX - INDIFERENÇA PARA FINS DE RETRIBUIÇÃO DE DIREITO ACIONÁRIO - EMISSÃO DE AÇÕES REALIZADA EM MOMENTO DIVERSO AO DA INTEGRALIZAÇÃO, DE MODO LESIVO AO CONSUMIDOR - RECEBIMENTO - DIFERENÇAS - POSSIBILIDADE - MATÉRIA JÁ PACIFICADA NO SUPERIOR TRIBUNAL DE JUSTIÇA - CONVERSÃO DA OBRIGAÇÃO DE FAZER EM INDENIZAÇÃO - DOBRA ACIONÁRIA DEVIDA - PEDIDOS SUBSIDIÁRIOS DEVIDOS - JUROS DE MORA - TERMO INICIAL - CITAÇÃO - GRUPAMENTO ACIONÁRIO QUE DEVE SER OBSERVADO - COMPLEXIDADE DOS CÁLCULOS QUE EXIGE LIQUIDAÇÃO POR ARBITRAMENTO - ART. 509, I DO NCPC - SENTENÇA REFORMADA EM PARTE - AGRAVO RETIDO NÃO PROVIDO - RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO.
+Os embargos declaratórios foram rejeitados (e-STJ fls. 1.627/1.642).
+Nas razões recursais (e-STJ fls. 798/817), fundamentadas no art. 105, III, "a" e "c", da CF, as recorrentes alegam dissídio jurisprudencial e violação dos arts. 1.022 e 1.026, § 2º, do CPC/2015, 485, VI, § 3º,do CPC/2015, 100, § 1º, e 170, § 1º, da Lei n. 6.404/1976.
+Sustentam: (a) negativa de prestação jurisdicional, (b) ilegitimidade passiva em relação à dobra acionária, (c)falta de interesse de agir da parte recorrida pelo não esgotamento da via administrativa com o pagamento da taxa pelo serviço (Súmula n. 389/STJ), (d) os embargos de declaração não teriam caráter protelatório,(e)inaplicabilidade do CDC e (f) ausência de preclusão de matéria de ordem pública consistente na prescrição.
+Aduzem, ainda, divergência quanto à aplicabilidade da Súmula n. 389/STJ, tanto às ações cautelares quanto às ordinárias.
+Não foram apresentadas contrarrazões (e-STJ fl. 1.855).
+Juízo positivo de admissibilidade (e-STJ fls. 1.908/1.909).
+É o relatório.
+Decido.
+O recurso merece provimento.
+O Tribunal de origem apreciou todas as questões relevantes ao deslinde da controvérsia, nos limites do que lhe foi submetido. Portanto, não há falar em violação do art. 535 do CPC/1973.
+Inexiste negativa de prestação jurisdicional quando o Colegiado de origem analisa de forma fundamentada as questões submetidas a exame, apenas não adotando a tese defendida pela parte.
+A caracterização do interesse de agir em ações que objetivam a exibição de documentos societários exige a demonstração da prova do requerimento formal na via administrativa e o comprovante do pagamento da taxa de serviço, quando a empresa o demandar (art. 100, § 1º, da Lei n. 6.404/1976), conforme assentado por esta Corte, em recurso submetido ao regime do art. 543 do CPC/1973:
+PROCESSUAL CIVIL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTO. RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. FORNECIMENTO DE DOCUMENTOS COM DADOS SOCIETÁRIOS. RECUSA. RECURSO À COMISSÃO DE VALORES MOBILIÁRIOS. LEI N. 6.404/1976, ART. 100, § 1º. AUSÊNCIA DO COMPROVANTE DE RECOLHIMENTO DA "TAXA DE SERVIÇO". RECURSO ESPECIAL REPETITIVO. LEI N. 11.672/2008. RESOLUÇÃO/STJ N. 8, DE 07.08.2008. APLICAÇÃO.
+I. Falta ao autor interesse de agir para a ação em que postula a obtenção de documentos com dados societários, se não logra demonstrar:
+a) haver apresentado requerimento formal à ré nesse sentido;
+b) o pagamento pelo custo do serviço respectivo, quando a empresa lhe exigir, legitimamente respaldada no art. 100, parágrafo, 1º da Lei 6.404/1976.
+II. Julgamento afetado à 2a. Seção com base no Procedimento da Lei n. 11.672/2008 e Resolução/STJ n. 8/2008 (Lei de Recursos Repetitivos).
+III. Recurso especial não conhecido.
+(REsp n. 982.133/RS, Relator Ministro ALDIR PASSARINHO JUNIOR, SEGUNDA SEÇÃO, julgado em 10/9/2008, DJe 22/9/2008.)
+Além disso, aplica-se o entendimento da Súmula n. 389/STJ aos pedidos de exibição incidental dos contratos de prestação de serviços de telefonia com cláusula de participação financeira. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTOS. CONTRATOS DE PRESTAÇÃO DE SERVIÇOS DE TELEFONIA COM CLÁUSULA DE PARTICIPAÇÃO FINANCEIRA. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. AUSÊNCIA DE PAGAMENTO DO CUSTO DO SERVIÇO. FALTA DE INTERESSE DE AGIR. SÚMULA Nº 389/STJ. INCIDÊNCIA. ÔNUS PROBATÓRIO. ART. 333, INCISO I, DO CPC/1973.
+1. É firme na jurisprudência de ambas as Turmas integrantes da Segunda Seção o entendimento de que a Súmula nº 389/STJ é aplicável aos pedidos de exibição incidental dos chamados contratos de prestação de telefonia com cláusula de participação financeira.
+2. A não comprovação da prévia existência de requerimento formal apresentado pelo autor da demanda visando obter os contratos de prestação de serviços de telefonia com cláusula de participação financeira revela sua falta de interesse de agir, impondo a extinção do feito sem resolução meritória. A determinação de exibição incidental desses documentos nessa hipótese (de não comprovação da apresentação do imprescindível requerimento prévio) constitui verdadeira ofensa ao art. 333, inciso I, do CPC/1973. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.331.352/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/11/2016, DJe 1º/12/2016.)
+O Tribunal de origem, em descompasso com o entendimento desta Corte, reconheceu o interesse de agir da parte recorrida, conforme se extrai do seguinte excerto (e-STJ fl. 455):
+Outrossim, em que pese a disposição contida no art. 100, §1º da lei 6.404/76, o acesso ao Poder Judiciário não é condicionado, conforme dispõe o art. 5º, inciso XXXV, da Constituição Federal de 1988
+(..)
+Desta feita, não se pode exigir o esgotamento de "instâncias" administrativas, diante da expressa previsão constitucional, no"sentido de que a lei não excluirá da apreciação do Poder Judiciário, diga-se, qualquer lesão ou ameaça a direito.
+Ademais, não se trata o presente feito de cautelar de exibição de documentos, ou seja, não serefere o pedido de exibição à pretensão singular da apelante, mas, sim, meio, por intermédio doqual, pretendem os apelados demonstrarem seu direito, (decorrente de contrato)firmado com a empresa sucedida, sendo, por certo, aplicável ao caso corrente o disposto no art. 6º, inciso VIII, da Lei nº 8.078/90, possibilitando "a facilitação da defesa de seus direitos".
+(..)
+Outrossim, não há que se falar em aplicação da Súmula 389, do Superior Tribunal de Justiça, porque o caso não se refere a medida cautelar deexibição de documentos em face de sociedade anônima, tal qual exigido no dispositivo, a saber:
+Contudo, como o Tribunal de origem reconheceu o interesse de agir motivado na desnecessidade de prévio requerimento administrativo e de pagamento da taxa do serviço, não foi analisado o efetivo cumprimento dos aludidos requisitos do interesse na propositura da ação com pedido de exibição incidental, os quais não podem ser examinados diretamente nesta instância, por implicar indevido reexame fático-probatório, nos termos da Súmula n. 7/STJ.
+É necessário, assim, o retorno dos autos à origem para a aferição desses elementos fáticos à luz do entendimento desta Corte sobre a matéria, ficando prejudicado o exame das alegações restantes.
+Ficam prejudicadas as demais questões trazidas no especial.
+Diante do exposto, DOU PARCIAL PROVIMENTO ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem, para que decida acerca do interesse de agir da autora, à luz da Súmula n. 389/STJ.
+Publique-se e intimem-se.
