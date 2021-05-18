@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de KAIQUE DOS SANTOS OLIVEIRA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO (HC n. 0805413-73.2021.8.10.0000).
+Consta dos autos que o paciente foi preso preventivamente pela suposta prática dos delitos previstos nos arts. 33 e 35, ambos da Lei n. 11.343/2006 (tráfico de drogas e associação para o mesmo fim) e no art. 330 do Código Penal (desobediência), tendo em vista a apreensão deum tablete demaconha, uma trouxa da mesma substância, umabalança de precisão,um trituradore vários saquinhos plásticos cortados(e-STJ fls. 22/27, sem especificação nos autos acerca das respectivas massas).
+Irresignada, a defesa impetrou prévio writ na Corte estadual. Contudo, o Desembargador relator do writ originário indeferiu o pedido de medida liminar (e-STJ fls. 17/21).
+Nesta instância, a defesa alega carência de fundamentação idônea a amparar a segregação provisória, destacando ser pequena a quantidade de drogas apreendidas.
+Ademais, sustenta que a prisão preventiva teria sido decretada de ofício pelo Juízo de primeiro grau.
+Assim, requer"aconcessão da liminar aventada, para relaxar a prisão pelos motivos expostos, nãoentendendo desta forma Vossa Excelência, que revogue a prisão preventiva do paciente, emvirtude de não estarem presentes os requisitos do art. 312, não se opondo este a ideia de fixaçãode medidas cautelares diversas da prisão do art. 319 do CPP.No mérito,  pede  a confirmação da medida liminar"(e-STJ fl. 11).
+É, em síntese, o relatório.
+Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caberhabeas corpusante decisão que indefere liminar- enunciado 691 da Súmula do Supremo Tribunal Federal, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido.(AgRg no HC n. 349.925/RJ, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido.(AgRg no HC n. 345.456/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016)
+No caso, entendo que a questão necessita de averiguação mais profunda pelo Tribunal estadual, que deverá apreciar a argumentação dowritoriginário e as provas juntadas no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e deincidir em patente desprestígio às instâncias ordinárias.
+De mais a mais, não vislumbro a ocorrência de manifesta ilegalidade oudeteratologiahábeis a permitir o afastamento do óbice processual em questão. Nessa linha, confiram-se os seguintes fundamentos consignados no decreto prisional (e-STJ fls. 22/25):
+Importa narrar que foram apreendidos com os flagranteados: 01 tablete demaconha; 01 trouxa de maconha; R$13,00 (treze reais) em notas de R$2,00 (doisreais) e R$5,00 (cinco reais); 01 balança de precisão; 01 triturador; 02 celulares damarca SANSUNG; Vários saquinhos plásticos cortados; 01 relógio dourado; 01 cordãocor de ouro; 01 motocicleta marca HONDA CG, cor prata, placa ECN 0768.
+ ..
+Por outro lado analisando o "periculum libertatis" entendo que a liberdadedos réus, no presente momento processual representa sério risco à ordem pública,ante os detalhes coligidos de como a atividade ilícita era desenvolvida, em queapreendido com os flagrados, materiais indicativos de intenso tráfico e comconsiderável quantidade de drogas. (Grifei.)
+Ademais, conforme informações prestadas pelo Juízo de piso, registradas no decisum ora apontado como ato coator, "em 09 de abril de 2021, foiexarada Decisão indeferindo o Pedido de Revogação da prisão cautelar, em conformidade com o parecer expedido peloMinistério Público Estadual" (e-STJ fl. 15).
+Nesse cenário, é importante consignar que, em princípio, "no que concerne à decretação da prisão preventiva, de ofício, pelo d. juízo de primeiro grau, insta constar que o posterior requerimento da autoridade policial pela segregação cautelar ou manifestação do Ministério Público favorável à medida cautelar extrema suprem o vício da inobservância da formalidade de prévio requerimento, corroborando a higidez do feito e ausência de nulidade processual"(AgRg no RHC n. 136.708/MG, relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/3/2021, DJe 29/3/2021).
+Concluo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art.210 do Regimento Interno do Superior Tribunal de Justiça,indefiro liminarmente ohabeas corpus.
+Publique-se. Intimem-se.
