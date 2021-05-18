@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por Decio Viegas de Oliveira contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafia acórdão prolatado pelo Tribunal de Justiça do Rio de Janeiro assim ementado (e-STJ, fl. 564):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA AJUIZADA EM FACE DOS TITULARES DE CARTÓRIOS DO DISTRITO DE RESENDE, PRETENDENDO SUPRIR ATOS NOTARIAIS NÃO SUBSCRITOS NOS LIVROS REGISTRAIS. EXTINÇÃO DO FEITO SEM JULGAMENTO DE MÉRITO, SOB O FUNDAMENTO DE QUE A PRETENSÃO DEVERIA SER DEDUZIDA EM SEDE DE JURISDIÇÃO VOLUNTÁRIA, POR MEIO DO PROCEDIMENTO DE DÚVIDA A QUE SE REFERE O ART. 109 DA LEI DE REGISTROS PÚBLICOS. SENTENÇA QUE SE REFORMA EM SEDE RECURSAL. PARTICULARES QUE NÃO PODEM SER PREJUDICADOS POR ILICITUDES PRATICADAS PELO OFICIAL DO TABELIONATO QUE FUNCIONAVA À ÉPOCA DOS FATOS NA SERVENTIA EM QUE OS ATOS FORAM PRATICADOS. DECLARAÇÃO DE VALIDADE DOS ATOS E SEUS RESPECTIVOS REGISTROS QUE SE IMPÕE. PRINCÍPIO DA CONFIANÇA LEGÍTIMA. APELO A QUE SE DÁ PROVIMENTO PARA JULGAR PROCEDENTE O PLEITO AUTORAL.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 356-359).
+Nas razões do recurso especial (e-STJ, fls. 372-381), o recorrente alegou a violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015; 109 e 110 da Lei n. 6.015/1973; 22 e 30 da Lei n. 8.935/1994; e 927 do Código Civil de 2002.
+Sustentou, em síntese, a falta de prestação jurisdicional e de fundamentação; a ilegitimidade passiva, uma vez que o recorrente se encontra totalmente desligado da serventia e, portanto, não pode praticar ato determinado no acórdão recorrido e que não pode validar ato praticado por outrem.
+Foram apresentadas contrarrazões (e-STJ, fls. 407-416).
+O Tribunal local não admitiu o processamento do recurso especial ante a ausência de violação dos arts. 489 e 1.022 do CPC/2015 e a impossibilidade de reexame de provas, incidindo a Súmula n. 7/STJ (e-STJ, fls. 418-424).
+Brevemente relatado, decido.
+Com efeito, os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, conforme dispõe o art. 1.022 do CPC/2015.
+Assim, no que diz respeito à negativa de prestação jurisdicional, com razão o recorrente, porquanto, apesar de ter sido instado a se manifestar sobre a ilegitimidade do recorrente pelo fato de que se encontra totalmente desligado da serventia e que não pode praticar o ato determinado no acórdão recorrido, o Tribunal não sanou o vício.
+A propósito, oportuno citar os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA C/C DANOS MORAIS. CONFISSÃO FICTA DA AUTORA. CLÁUSULA LIMITATIVA. ÔNUS DA PROVA. TEMAS RELEVANTES PARA O JULGAMENTO DA LIDE. AUSÊNCIA DE PRONUNCIAMENTO. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questões relevantes, apontadas em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 535 do CPC/1973, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 798.810/PR, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/03/2021, DJe 03/03/2021)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OCORRÊNCIA. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Assiste razão à recorrente, no que toca à alegada violação ao art. 1.022 do CPC/2015.
+2. De fato, a recorrente apresentou questões jurídicas relevantes, sobretudo quando afirma que o Agravo que estava a impedir o prosseguimento da execução da sentença foi julgado em 20.3.2003 e, assim, ante a ausência de recurso com efeito suspensivo, a execução deveria ter sido promovida até, no máximo, 20.2.2008, o que não foi realizado, motivo pelo qual entende que a pretensão executória foi atingida pelo lustro prescricional. Apesar de provocado por meio de Embargos de Declaração, o Tribunal a quo não apreciou a questão.
+3. Neste contexto, diante da referida omissão, se apresenta violado o art. 1.022 do CPC/2015, o que impõe a anulação do acórdão que julgou os Embargos Declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos Embargos.
+4. Recurso Especial provido.
+(REsp n. 1.730.814/PE, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 8/5/2018, DJe 2/8/2018).
+Desse modo, o Tribunal a quo deixou de sanar as omissões sobre as questões federais suscitadas nos autos, as quais são relevantes para o deslinde da controvérsia, impondo-se, assim, o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração.
+Por todo o exposto, conheço do agravo para dar provimento ao recurso especial a fim de, reconhecendo a existência de omissão na decisão, anular o acórdão que julgou os embargos de declaração de fls. 356-359 (e-STJ) e determinar que outro seja proferido, sanando-se o vício, como entender de direito.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ILEGITIMIDADE PASSIVA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OCORRÊNCIA. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA SUPRIR A OMISSÃO APONTADA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
