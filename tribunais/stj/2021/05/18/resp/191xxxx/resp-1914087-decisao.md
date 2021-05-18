@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão que negou provimento ao recurso de apelação defensivo.
+Sustenta o recorrente violação dosarts. 44, § 3º, 59, 64, I, 68 do CP, por alegadafalta de fundamentação para a negativa do benefício da substituição das penas.
+Alega que,apesar de reincidente, nos termos do art. 44, § 3º, do CP, tem o recorrente direito à substituição da sua pena privativa por penas alternativas, pois sua pena anterior não foi no mesmo delito de posse de armas e as circunstâncias judiciais do art. 59 foram todas favoráveis, bem como a natureza do fato praticado (não "houve violência ou grave ameaça) e a fixação da pena base foi em seu mínimo legal, tornam socialmente recomendáveis a substituição da pena(fl. 198).
+Requer o provimento do recurso para que seja concedida a substituição das penas reclusivas por restritivas de direitos.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelodesprovimento do recurso.
+Cinge-se a controvérsia à análise da tese de falta de fundamentação para o indeferimento do benefício da substituição das penas.
+Acerca da questão, o Tribunal de origem assim se pronunciou (fl. 265),in verbis:
+Conquanto não reincidente específico, é o apelante reincidente, fato incontroverso, por ele admitido (fls. 106) e atestado através do registro de antecedentes de fls. 29/33, envergando condenação em 15 (quinze) anos, passada em julgado, pela prática do crime de homicídio qualificado, nos autos da ação penal nº 0999901-85.9999.815.0731.
+De fato, não desponta socialmente recomendável, tampouco minimamente adequada e suficiente para a prevenção ou repressão da conduta criminosa a pretendida substituição, considerando a natureza hedionda do crime anterior que gerou a reincidência, homicídio qualificado pelo motivo fútil - inequivocamente mais grave do que o ora sob julgamento -, inobstante pelo crime de posse de arma, cometido sem violência ou grave ameaça, o apelante tenha sido condenado no mínimo legal..
+Com efeito, o art. 44, II, do Código Penal não admite a substituição da pena privativa de liberdade por restritiva de direitos ao réu reincidente em crime doloso, sendo que a recidiva, isoladamente, não tem o condão de afastar a aplicação da medida, tendo em vista que o § 3º oferece a possibilidade de concessão da benesse para os casos em que se entenda socialmente recomendável a medida e a reincidência não se tenha operado em virtude da prática do mesmo crime.
+Na espécie, consoante se verifica da sentença confirmada em 2º Grau, foi negado o benefício do art. 44 do CP, tendo em vista não apenas sua condição de reincidente, mas o fato de que oantecedentecriminaldo apelante refere-se a delito bem mais grave, consistente no delito de homicídio qualificado por motivo fútil, razão pela qual reputou-sea medida não socialmente recomendável.
+Nesse contexto, tem-se por devidamente fundamentado o indeferimento da benesse, inexistindo, pois, ilegalidade a ser sanada na via do especial. A propósito:
+HABEAS CORPUS. ART. 16, PARÁGRAFO ÚNICO, INCISO IV, DA LEI N.º 10.826/2003. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. IMPOSSIBILIDADE. REQUISITOS DO ART. 44 DO CÓDIGO PENAL NÃO PREENCHIDOS. RÉU REINCIDENTE EM CRIME DOLOSO. HABEAS CORPUS DENEGADO.
+1. "Embora a reincidência genérica não tenha o condão de, por si só, impedir a benesse pleiteada, faz-se necessário que se evidenciem, no caso concreto, os demais requisitos elencados no dispositivo legal" (HC 126.174/MS, 5.ª Turma, Rel. Min. FELIX FISCHER, DJe de 28/08/2009).
+2. Na espécie, a substituição da pena privativa de liberdade por restritiva de direitos não se apresenta socialmente recomendável, uma vez que o Paciente, embora não seja reincidente específico, foi anteriormente condenado pelos crimes previstos nos arts. 33, da Lei de Tóxicos, e 157, do Código Penal.
+3. Habeas Corpus denegado (HC 246.092/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 19/03/2013, DJe 26/03/2013).
+Ante o exposto, nego provimento ao recurso especial.
+Intimem-se.
+Publique-se.
