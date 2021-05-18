@@ -1,0 +1,47 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. PLEITO PARA ABSOLVIÇÃO. COMPROVADO O VÍNCULO DE ESTABILIDADE E PERMANÊNCIA. INVESTIGAÇÃO POLICIAL DETALHADA. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVAS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Agravante flagrada, em contexto de associação para o tráfico, em posse de 3 pés de maconha com peso de 109g (cento e nove gramas), além de sementes da mesma planta.
+2. A Corte estadual, após toda a análise do conjunto fático-probatório amealhado aos autos, concluiu pela existência de elementos concretos e coesos que revelaram o tráfico de drogas e o vínculo associativo. Mostra-se inviável a absolvição da agravante sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+3. "No processo penal brasileiro vigora o princípio do livre convencimento, em que o julgador, desde que de forma fundamentada, pode decidir pela condenação, não cabendo na angusta via do writ o exame aprofundado de prova no intuito de reanalisar as razões e motivos pelos quais as instâncias anteriores formaram convicção pela prolação de decisão repressiva em desfavor do paciente" (HC n. 267.027/DF, relator Ministro Jorge Mussi, Quinta Turma DJe 22/5/2013).
+4. A prova da responsabilização penal não está adstrita exclusivamente à análise da simples ocorrência dos fatos, mas sim a uma análise pormenorizada de todos os elementos circunstanciais que envolvem o fato delituoso, o que foi observado no presente caso.
+5. Se o Tribunal de origem, em cognição ampla e exauriente, concluiu pela induvidosa autoria e materialidade dos delitos, a condenação da agravante era medida que se impunha, não existindo, portanto, nenhuma ilegalidade ou teratologia a ser reparada.
+6. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental manejado contra decisão de minha lavra que não conheceu da ordem de habeas corpus.
+Depreende-se dos autos que a agravante foi condenada a 9 anos e 4 meses de reclusão, no regime inicial fechado, negado o direito de recorrer em liberdade pela prática do delito inscrito no art. 33 da Lei n. 11.343/2006 (tráfico de drogas, e-STJ fl. 184).
+Segundo a acusação, a agravante foi flagrada, em contexto de associação para o tráfico, em posse de 3 pés de maconha com peso de 109g (cento e nove gramas), além de sementes da mesma planta (e-STJ fl. 133).
+Interposta apelação, foi mantida a condenação (e-STJ fls. 186/212).
+Perante o Superior Tribunal de Justiça a defesa alegou que não ficou comprovada a traficância de drogas, mas sim a condição de usuária da agravante (e-STJ fl. 6).
+Acrescentou não haver indícios de associação para o tráfico (e-STJ fl. 10).
+Às e-STJ fls. 215/217 deneguei a ordem de habeas corpus, ao argumento de que "a condenação baseou-se em elementos robustos, não deixando dúvidas acerca da autoria e da materialidade do delito".
+No presente agravo regimental, a defesa obtempera que "a Agravante, ao tempo da investigação era namorada do corréu, o que justifica as várias mensagens trocas. O relacionamento da Jovem primária com o corréu não pode e não deve servir de fundamento para imputar um delito tão grave como o de associação ao tráfico. Ademais, trata-se de apreensão de pé de maconha poucas gramas, não de porções fracionadas, ou preparadas para o comércio espúrio do tráfico, quando muito para o consumo pessoal, que merece registro, vem sendo amplamente concedida a autorização do cultivo para questões medicinais. Além de se tratar de droga menos nociva" (e-STJ fl. 388).
+Diante disso, pede a reconsideração da decisão agravada ou, caso assim não se entenda, a sua submissão ao colegiado da Sexta Turma.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Como se vê do relatório, almeja a agravante a absolvição do delito tipificado no art. 35 da Lei de Drogas.
+Conforme esclarecido na decisão agravada, o Tribunal local, após a ponderação acerca dos elementos probatórios colhidos em observância aos princípios do devido processo legal substancial, do contraditório e da ampla defesa, entendeu estarem devidamente comprovadas tanto a autoria quanto a materialidade do delito imputado à paciente.
+A propósito, colaciono, novamente, o seguinte trecho da sentença de primeiro grau (e-STJ fls. 167/168):
+Na espécie, estão presentes todos os requisitos configuradores do delito autônomo de associação para o tráfico, conforme os depoimentos das testemunhas acima colacionados, sobretudo do Delegado de Polícia Víctor Fernando Cangane Biroli e dos policiais civis Rodrigo Oliveira Freitas e Marco Rodrigo Antonio, os quais foram corroborados pela transcrição das mensagens de texto e áudio entre os réus RAPHAELA e VINICIUS RICARDO, conforme Relatório de Investigações acostados a fls. 81/83 e 158/188.
+Corrobora a prova oral as mensagens de texto encontradas no celular da ré RAPHAELA para o destinatário VINICIUS (fls. 82), conforme segue:  ..  Outrossim, o laudo pericial (fls. 582/600) de degravação do celular  55 18 996759967, pertencente ao réu VINICIUS RICARDO, constatou diversas trocas de mensagens de texto e áudio entre ele e a namorada RAPHAELA, conforme a seguir:  ..  Ademais, não só as conversas travadas entre os réus, mas também as mensagens de texto e áudio enviadas aos destinatários "Fer", Vinicius Roberto Gonçalves e Talita Keila Alves (já transcritas acima) indicam que RAPHAELA e VINICIUS RICARDO agiam em conjunto na guarda, comercialização e distribuição da substancia entorpecente, sendo que RAPHAELA intermediava ativamente a mercancia de drogas do namorado VINICIUS para outras pessoas (cf. Mensagens de texto e áudio transcritas na fundamentação acima).
+Com efeito, restou comprovado nos autos a reunião de esforços entre os réus, sendo, portanto, evidente que havia entre o réus uma verdadeira "societas sceleris", tudo a demonstrar que RAPHAELA estava associada a VINICIUS na prática criminosa.
+Das provas produzidas, denota-se que os réus formalizaram vínculo associativo para a prática do espúrio comércio, de modo que ocorria ente eles a estabilidade e habitualidade na venda de drogas.
+Com efeito, é notável a existência de uma associação organizada, estável e duradoura, reunida com a finalidade específica de formar um vínculo associativo de fato voltado para a traficância, estando patente o "animus associativo".
+Portanto, demonstradas a autoria e materialidade dos delitos, bem como a ausência de qualquer circunstância que exclua os crimes ou isente os agentes de pena, mostra-se de rigor a procedência da pretensão acusatória, nos termos da fundamentação. (Grifei.)
+Ora, as provas carreadas aos autos são firmes e seguras no sentido de proclamar o real envolvimento da agravante no delito de associação para tráfico.
+O dolo específico, consistente no ânimo associativo, é manifesto diante das circunstâncias fáticas acima delineadas que revelam com clareza o ajuste prévio no sentido da formação de um vínculo associativo de fato, de caráter estável e permanente.
+Destarte, para a configuração do delito não se faz necessária a apreensão de grande quantidade de droga, mas sim que a intenção dos agentes seja a de manter uma associação duradoura, com efetiva divisão de tarefas, o que foi comprovado nos autos.
+As circunstâncias fáticas delineadas revelam o ajuste prévio, no sentido da formação de um vínculo associativo de fato, para a consecução de um fim comum, qual seja, a prática da mercancia ilícita.
+Tal ponderação não revelou qualificação jurídica desarrazoada dos fatos, motivo pelo qual não há que se falar em constrangimento ilegal passível de correção em habeas corpus.
+Relembro que "no processo penal brasileiro vigora o princípio do livre convencimento, em que o julgador, desde que de forma fundamentada, pode decidir pela condenação, não cabendo na angusta via do writ o exame aprofundado de prova no intuito de reanalisar as razões e motivos pelos quais as instâncias anteriores formaram convicção pela prolação de decisão repressiva em desfavor do paciente" (HC n. 267.027/DF, relator Ministro Jorge Mussi, Quinta Turma DJe 22/5/2013).
+A prova da responsabilização penal não está adstrita exclusivamente à análise da simples ocorrência dos fatos, mas sim a uma análise pormenorizada de todos os elementos circunstanciais que envolvem o fato delituoso, o que foi observado no presente caso.
+Se o Tribunal de origem, em cognição ampla e exauriente, concluiu pela induvidosa autoria e materialidade do delito, a condenação da agravante era medida que se impunha, não existindo, portanto, nenhuma ilegalidade ou teratologia a ser reparada.
+Tal o contexto, nego provimento ao agravo regimental.
+Revogo a decisão concessiva de liminar de e-STJ fls. 215/217.
+Julgo prejudicado o pedido de reconsideração de e-STJ fls. 411/415.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
