@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. SONEGAÇÃO FISCAL. SUBSTITUIÇÃO DA PENA CORPORAL. DISCRICIONARIEDADE DO JULGADOR.AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. FIXAÇÃO DEVALOR MÍNIMO PARA A REPARAÇÃO DOS DANOS CAUSADOS PELO CRIME. POSSIBILIDADE. DECISÃO MANTIDA.
+1. Não existe espaço para que seja apontado constrangimento ilegal, pois ambas as alternativas são passíveis de serem aplicadas e não existe a melhor e a pior, mas, sim, aquela que o Magistrado entender ser devida no caso em análise. É uma discricionariedade do Julgador.
+2. Agravo regimental improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental em habeas corpus interposto por Zigomar Paulo Fraron contra a decisão de minha Relatoria, que denegou a ordem de habeas corpus. Esta, a ementa da decisão (fl. 559):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. SONEGAÇÃO FISCAL. SUBSTITUIÇÃO DA PENA CORPORAL. DISCRICIONARIEDADE DO JULGADOR. AUSÊNCIA DE ILEGALIDADE. FIXAÇÃO DE VALOR MÍNIMO PARA A REPARAÇÃO DOS DANOS CAUSADOS PELO CRIME. POSSIBILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
+Sustenta o agravante que não pode o Magistrado fixar duas penas restritivas de direito quando poderia ser mais benéfico ao paciente o reconhecimento de uma pena restritiva de direito e multa.
+Requer, assim, seja a pena do paciente substituída por multa e uma restritiva de direitos, além do afastamento do valor mínimo fixado a título de reparação dos danos ao Erário (fls. 563/573).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. SONEGAÇÃO FISCAL. SUBSTITUIÇÃO DA PENA CORPORAL. DISCRICIONARIEDADE DO JULGADOR. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. FIXAÇÃO DE VALOR MÍNIMO PARA A REPARAÇÃO DOS DANOS CAUSADOS PELO CRIME. POSSIBILIDADE. DECISÃO MANTIDA.
+1. Não existe espaço para que seja apontado constrangimento ilegal, pois ambas as alternativas são passíveis de serem aplicadas e não existe a melhor e a pior, mas, sim, aquela que o Magistrado entender ser devida no caso em análise. É uma discricionariedade do Julgador.
+2. Agravo regimental improvido.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Consta dos autos que o paciente foi denunciado como incurso no delito de sonegação fiscal, art. 1º, I e II, da Lei n. 8.137/1990, c/c o art. 71 do Código Penal, por diversas vezes (fls. 18/23). Na sentença, o paciente foi condenado pela prática do delito do art. 1º, I e II, da Lei n. 8.137/1990, por sete vezes (art. 71 do Código Penal), à pena de 3 anos, 10 meses e 20 dias de reclusão, em regime aberto, e 77 dias-multa, substituída por duas restritivas de direitos (prestação de serviços à comunidade e limitação de fim de semana (fls. 319/321).
+Não obstante as razões regimentais de ser mais prejudicial ao paciente a substituição por duas penas restritivas de direito do que uma restritiva de direito e multa, razão não lhe assiste. Com efeito, compete ao julgador a escolha do modo de aplicação da benesse legal, nos termos do art. 44, § 2º, do Código Penal. Ademais, como bem mencionado na decisão, não é socialmente recomendável a aplicação da multa substitutiva em crimes cujo tipo penal prevê multa cumulativa com a pena privativa de liberdade (HC n. 573.093/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/6/2020). Nesse sentido:
+ ..
+3. O art. 44, § 2º, do Código Penal dispõe que, "Na condenação igual ou inferior a um ano, a substituição pode ser feita por multa ou por uma pena restritiva de direitos; se superior a um ano, a pena privativa de liberdade pode ser substituída por uma pena restritiva de direitos e multa ou por duas restritivas de direitos." Nessa toada, este Superior Tribunal de Justiça - STJ tem entendido que fixada a pena corporal nos patamares delineados no art. 44, § 2º, do Código Penal, compete ao julgador a escolha do modo de aplicação da benesse legal. De mais a mais, a jurisprudência do STJ considera não ser socialmente recomendável a aplicação da multa substitutiva em crimes cujo o tipo penal prevê multa cumulativa com a pena privativa de liberdade. Precedentes.
+ ..
+(AgRg no HC n. 462.531/SC, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 3/5/2019)
+Não existe espaço para que seja apontado constrangimento ilegal, pois ambas as alternativas são passíveis de serem aplicadas, e não existe a melhor e a pior, mas, sim, aquela que o Magistrado entender ser devida no caso em análise. É uma discricionariedade do Julgador. As particularidades fáticas do processo e subjetivas do acusado foram analisadas, e a pena foi fixada, portanto não há ausência de fundamentação.
+Quanto ao pedido de afastamento da condenação à reparação do dano, adoto como razões de decidir parte do parecer ministerial (fls. 551/557):
+ ..  não há o que corrigir, tendo em vista que a possibilidade de o Estado utilizar-se de título executivo próprio para cobrança de dívidas tributárias, não tem o condão de afastar a condenação à reparação de danos, nos termos do art. 387, IV do CPP, pois a responsabilização pessoal do autor do ilícito pelo dano (art. 91, I, do Código Penal - CP) é devida em caso de esvaziamento do patrimônio da pessoa jurídica.
+Assim, deve ser mantida a fixação do valor mínimo de reparação para que se forme titulo executivo judicial contra o paciente, caso seja infrutífera a execução fiscal contra a pessoa jurídica, na espécie, no valor dos tributos sonegados, totalizando R$ 256.932,16 (duzentos e cinquenta e seis mil e novecentos e trinta e dois reais e dezesseis centavos) -, devendo-se ressalvar, apenas, que não é cabível a dupla cobrança  .. .
+Ante o exposto, nego provimento ao agravo regimental.
