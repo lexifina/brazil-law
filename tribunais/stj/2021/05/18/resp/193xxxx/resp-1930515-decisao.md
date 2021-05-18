@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto contra oacórdãodo TJSP, oqual recebeu aseguinteementa(e-STJ fl. 759):
+APELAÇÃO - Ação de indenização securitária - Seguro habitacional- Competência da Justiça Estadual - Matéria já decidida em sede de recurso de agravo de instrumento - Impossibilidade de rediscussão - Preclusão consumativa - Não conhecimento - Preliminares de ilegitimidade passiva "ad causam" e prescrição ânua bem afastadas na decisão de saneamento - Vícios de construção - Cláusula do contrato de seguro que prevê exclusão da cobertura de tais riscos - Prova pericial que indica que os danos são decorrentes de vícios da construção - Aplicação do art. 784 do CC- Precedentes - Sentença reformada - Recurso provido na parte que dele se conhece.
+Nas razões do recurso especial (e-STJ fls. 767/776), fundamentado no art.105, III, "a" e "c", da CF, orecorrente alegou, além de dissídio jurisprudencial, ofensa aos arts. 373, I, 489 e 1.022 do CPC/2015 por negativa de prestação jurisdicional.
+Afirmou a existência de cobertura do seguro habitacional por vícios de construção.
+Foram apresentadas contrarrazões (e-STJ fls. 779/804).
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos.Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+No mais,"esta Corte pacificou o entendimento de que, nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice" (AgInt no REsp n. 1.603.731/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/10/2016, DJe de 18/10/2016).
+No caso, extraem-se as seguintes razões de decidir do aresto impugnado (e- STJ fls. 761/762):
+No mérito, o recurso merece provimento.
+O laudo pericial ressalta que os danos existentes, "são decorrentes de vícios da construção", ou seja,de uma execução inadequada, quer por uso de material indevido, quer por "mão de obra" incapacitada ou por técnica imprópria, resultando numa baixa qualidade final, causando patologias que interferem na solidez da obra, comprometendo a estabilidade e a durabilidade do imóvel" (fls. 585).
+Como se verifica da descrição de fls. 94, os riscos cobertos pelo SH/SFH (apólice pública - ramo 66) estão previstos na Cláusula 3ª das Condições Particulares para Riscos de Danos Físicos:
+(..)
+Ressalte-se que não há qualquer abusividade da referida cláusula contratual, considerando que o próprio Código Civil, em seu art. 784, exclui a garantia sobre o dano causado por vício intrínseco da coisa.
+O TJSP, com amparo nos elementos de prova insertos nos autos - notadamente em laudo pericial -, interpretados à luz do contrato de financiamento imobiliário firmado entre as partes, concluiuser indevido o dever de indenizar, ante a ausência de cobertura securitária que contemplasse os riscos apontados, os quais seriam provenientes de inobservância de normas técnicas, falhas construtivas, má qualidade de materiais e de mão de obra empregados.
+Para alterar as conclusões do acórdão impugnado, no que se refere à existência de previsão contratual de cobertura dos danos apontados, exigiria o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7 do STJ.
+Além do mais, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e demonstração da divergência, mediante cotejo analítico entre o acórdão recorrido e os paradigmas, de modo a verificar as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a parte recorrente não se desincumbiu.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20%(vinte por cento)o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
