@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO DOMICILIAR. INOVAÇÃO RECURSAL. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. AGRAVO NÃO PROVIDO.
+1. Constitui inovação processual, inadmissível em agravo, o apontamento de tese não aduzida na inicial do habeas corpus.
+2. A segregação preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+3. Com apoio nessas premissas e observadas as alterações no CPP determinadas pela Lei n. 13.964/2019, constata-se que são bastantes as ponderações invocadas pelo Juízo singular para embasar a ordem de constrição do acusado, pois ressaltou a gravidade do delito - bem como a periculosidade do indivíduo - e o risco de reiteração delitiva do agente, ao mencionar a quantidade de drogas encontradas com o réu - mais de 2 kg de crack e pouco mais de 1 g de maconha - e lembrar que o insurgente ostenta condenação por crime da mesma natureza.
+4. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+LUCIANO ADALBERTO PEREIRA agrava de decisão em que deneguei a ordem pleiteada.
+No regimental, a defesa reitera que o paciente é primário e entende que não foi demonstrada a periculosidade do acusado a autorizar a imposição da custódia preventiva. Afirma que as condições das penitenciárias brasileiras não resguardam a dignidade do acusado e que não é possível a alimentação correta na penitenciária, razão pela qual o insurgente faria jus à prisão domiciliar.
+Requer a submissão do feito ao órgão colegiado, a fim de que seja conhecido o agravo e concedida a ordem.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO DOMICILIAR. INOVAÇÃO RECURSAL. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. AGRAVO NÃO PROVIDO.
+1. Constitui inovação processual, inadmissível em agravo, o apontamento de tese não aduzida na inicial do habeas corpus.
+2. A segregação preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+3. Com apoio nessas premissas e observadas as alterações no CPP determinadas pela Lei n. 13.964/2019, constata-se que são bastantes as ponderações invocadas pelo Juízo singular para embasar a ordem de constrição do acusado, pois ressaltou a gravidade do delito - bem como a periculosidade do indivíduo - e o risco de reiteração delitiva do agente, ao mencionar a quantidade de drogas encontradas com o réu - mais de 2 kg de crack e pouco mais de 1 g de maconha - e lembrar que o insurgente ostenta condenação por crime da mesma natureza.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A despeito dos esforços perpetrados pelo agravante, não constato fundamentos suficientes a infirmar a decisão refutada, cuja conclusão mantenho.
+De início, cabe destacar que as considerações relativas à necessidade de colocação do agravante em prisão domiciliar foram trazidas à impetração somente por ocasião do agravo regimental. Dessa forma, por constituir essa tese inovação recursal, não se pode dela conhecer.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Apoiado nessas premissas, percebo, no presente caso, que são bastantes as ponderações invocadas pelo Juízo singular para embasar a ordem de segregação do acusado, pois ressaltou a quantidade de drogas encontradas com o réu - mais de 2 kg de crack e pouco mais de 1 g de maconha - e lembrou que o insurgente ostenta condenação por crime da mesma natureza.
+Assevero que, segundo a compreensão desta Casa de Justiça, a menção à quantidade de entorpecentes revela a gravidade do delito e a periculosidade do agente e, por esses motivos, justifica idoneamente a necessidade de imposição da custódia processual. Nesse sentido:
+ ..
+2. A decretação ou a manutenção da prisão preventiva depende da demonstração categórica de um ou mais dos requisitos do art. 312 do Código de Processo Penal. Para isso, o Julgador deve consignar, expressamente, elementos reais e concretos indicadores de que o indiciado ou acusado, solto, colocará em risco a ordem pública ou econômica, a instrução criminal ou a aplicação da lei penal.
+3. Independentemente de se cuidar de ato praticado sem violência ou ameaça, a gravidade concreta da conduta foi ressaltada no decreto de prisão, pois no ato o Juiz de primeiro grau referiu-se à apreensão de grande quantia de entorpecente ilícito. Essa circunstância, por si só, impede o reconhecimento da ilegalidade do título prisional, notadamente porque o Superior Tribunal de Justiça, em diversos julgados, reputou válida a prisão processual de agentes com os quais foi apreendida expressiva quantidade de droga, por revelar a periculosidade do segregado e a gravidade concreta do crime.
+ ..
+(AgRg no HC n. 656.050/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 29/4/2021)
+Além disso, esta Corte tem reiterados julgados na compreensão de que a reincidência do réu e a existência de maus antecedentes autorizam a imposição da segregação cautelar com o intuito de se evitar a reiteração delitiva. Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. ROUBO IMPRÓPRIO.
+PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. MODUS OPERANDI. AMEAÇA DE MORTE. REITERAÇÃO DELITIVA. OUTRAS ANOTAÇÕES CRIMINAIS POR CRIMES PATRIMONIAIS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade.
+3. No caso, a decisão que impôs a prisão preventiva destacou que responde a outras duas ações penais pela prática de crimes patrimoniais, evidenciando sua reiterada atividade delitiva. Assim, faz-se necessária a segregação provisória como forma de acautelar a ordem pública.
+4. A prática do delito de roubo impróprio com ameaça de morte à vítima demonstra a periculosidade do agente e evidencia a necessidade da segregação como forma de acautelar a ordem pública.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 136.467/BA, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 30/4/2021)
+À vista do exposto, nego provimento ao agravo regimental.
