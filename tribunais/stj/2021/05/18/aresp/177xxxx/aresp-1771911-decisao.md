@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. CONTRATO DE ADMINSTRAÇÃO DE IMÓVEIS. PROPRIETÁRIO. IMOBILIÁRIA. RELAÇÃO DE CONSUMO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MENOR. APLICAÇÃO.
+I. O contrato de administração de imóvel entabulado entre a imobiliária e o proprietário do imóvel caracteriza relação de consumo, a qual justifica a desconsideração da personalidade jurídica quando da insolvência da pessoa jurídica para o pagamento de suas obrigações, somada à má administração da empresa, ou, como no caso, quando represente obstáculo ao ressarcimento de prejuízo causado ao consumidor. Precedentes.
+2. Agravo conhecido em parte e não provido.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta o agravante violação dos artigos 256, 1.015 e 1.022 do Código de Processo Civil e 28 do Código de Defesa do Consumidor, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração, sem suprimento da omissão relativa à aventada nulidade na citação da executada.
+Defende que ocorreu nulidade na citação, visto que gerou deficiência na defesa e prematura desconsideração da personalidade jurídica em desfavor do agravante.
+Afirma que não se esgotaramas tentativas de localização da executada, haja vista o Juízo exequente não requisitar informações aos órgãos públicos e concessionárias de serviço público acerca do endereço atual da empresa devedora.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+De início, no tocante à preliminar, não observo omissão no acórdão, senão julgamento contrário aos interesses do agravante, o que não autoriza, por si só, o acolhimento de embargos de declaração nem sua rejeição importa em violação à sua norma de regência.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, havendo fundamentação quanto à ausência de interesse da parte autora e à motivação suficiente do Juízo de 1º grau na prestação jurisdicional, revelando que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+Na presente hipótese, a Corte local entendeu que não havia nulidade a ser sanada, conforme se extrai dos seguintes excertos (fl. 413, e-STJ):
+Pois bem, em que pese a alegação feita em sede de contestação, a pesquisa de bens efetuada via BACENJUD demonstrou que a executada não possui relacionamento com instituições financeiras (ID 23240624) e, quando tentou-se a penhora de bens localizados no estabelecimento da executada, o oficial de justiça responsável pela diligência certificou que a executada não é conhecida no local onde deveria funcionar seu stand de vendas (ID 25802011), o que leva a crer que ela não continua desempenhando suas atividades comerciais.
+Dessa forma, existem nos autos elementos suficientes para crer que, embora a empresa executada conste como ativa na Receita Federal, ela não realiza mais suas atividades comerciais e obtenha lucros em razão destas. Assim, inócua a tentativa de penhora de faturamento.
+Essa argumentação não foi refutada no recurso e, por outro lado, ausente localização de bens da executada, a considerar que a sociedade empresária é formada unicamente pelo sócio arrolado (..)
+Anoto que a desconstituição da conclusão do acórdão recorrido, na forma pretendida, demandaria o reexame do acervo fático dos autos, procedimento que, em sede de especial, encontra o óbice da Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+(..)
+3. A análise da alegada nulidade da citação demandaria o revolvimento do contexto fático dos autos, vedado em recurso especial por óbice da Súmula 7 do STJ.
+4. A incidência do referido óbice também impede a análise do dissídio jurisprudencial, o que inviabiliza o conhecimento do recurso pela alínea c do permissivo constitucional.
+(..)
+7. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1585241/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 3/8/2020)
+Quanto ao outro ponto, o acórdão estadual adotou como fundamento o artigo 28 do Código de Defesa do Consumidor, consignando que a sociedade vinha sendo usada como obstáculo ao recebimento do crédito, daí a desconsideração da personalidade jurídica da executada (fls. 413-414, e-STJ):
+(..) plausível, a princípio, confusão patrimonial, o que até viabilizaria o acesso ao acervo de bens pessoais do sócio para satisfazer o débito vindicado, se presente o encerramento irregular da sociedade e ausentes bens da empresa capazes de satisfazer o crédito exequendo, o que, inclusive segundo a jurisprudência, pode configurar o abuso da personalidade jurídica, caracterizado em regra do Código Civil não só pelo desvio de finalidade, mas também pela confusão patrimonial.
+Contudo, aqui o cumprimento de sentença diz respeito à ação de rescisão de contrato de administração de imóvel e cobrança de valores que deveriam ser repassados ao contratante. Logo, sequer há falar em necessidade de preenchimento dos requisitos previstos no art. 50 do Código Civil, pois o negócio entre o agravado e a referida pessoa jurídica executada configurou evidente relação de consumo.
+(..)
+Destarte, impõe-se a aplicação da teoria menor da desconsideração de personalidade, prevista no art. 28, caput e § 5º, do Código de Defesa do Consumidor. E, conforme a teoria em comento, não se exigem incursões sobre o desvio de personalidade ou abuso de direito, mas sim a observância da insolvência da pessoa jurídica para o pagamento de suas obrigações, somada à má administração da empresa, ou do fato de a personalidade jurídica representar um obstáculo ao ressarcimento de prejuízos causados ao consumidor.
+De modo que, da leitura do excerto supracitado, percebe-se que as conclusões alcançadas pela Corte local estão em consonância com a orientação desta Corte Superior, como se depreende do seguinte precedente:
+AGRAVO INTERNO NO AGRAVO. EXECUÇÃO. DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA DO BANCO, DETERMINADA A INCLUSÃO DOS SÓCIOS NO POLO PASSIVO DA DEMANDA ORIGINÁRIA EM FASE DE EXECUÇÃO.
+1. A alegada negativa de prestação jurisdicional não se vislumbra, uma vez rebatido, pela Corte estadual, o argumento de que omisso o acórdão quanto à necessidade de apresentação de quadro societário atualizado do executado e de prévia oitiva das pessoas chamadas a responder pelo débito.
+2. No que diz respeito à aventada ilegitimidade passiva ad causam do ora agravante (sob o argumento de não ser mais sócio do banco executado, tendo se retirado e renunciado ao cargo de diretor em maio de 1999), constata-se que o óbice da Súmula 7/STJ inviabiliza o exame da controvérsia.
+3. Nos termos da jurisprudência do STJ: (i) "sob a égide do CPC/73, a desconsideração da personalidade jurídica pode ser decretada sem a prévia citação dos sócios atingidos, aos quais se garante o exercício postergado ou diferido do contraditório e da ampla defesa"; e (ii) "de acordo com a Teoria Menor, a incidência da desconsideração se justifica: a) pela comprovação da insolvência da pessoa jurídica para o pagamento de suas obrigações, somada à má administração da empresa (art. 28, caput, do CDC); ou b) pelo mero fato de a personalidade jurídica representar um obstáculo ao ressarcimento de prejuízos causados aos consumidores, nos termos do § 5º do art. 28 do CDC" (REsp 1.735.004/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 26.06.2018, DJe 29.06.2018).
+4. A Corte estadual atestou o fato de a personalidade jurídica representar um obstáculo ao ressarcimento de prejuízos causados aos consumidores, razão pela qual considerou incidente a teoria menor da desconsideração da personalidade jurídica à espécie, o que encontra amparo na jurisprudência desta Corte.
+5. Agravo interno não provido.
+(AgInt no AREsp 1575588/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 5/3/2020)
+Ademais, contrariar a conclusão do Tribunal de origem, novamente demandaria inevitável reexame do acervo probatório, procedimento que encontra óbice no verbete 7 da Súmula desta Corte.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MENOR. ART. 28 DO CDC. OBSTÁCULOS VERIFICADOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VIOLAÇÃO AO ARTIGO 1.022, DO CPC/15. OMISSÃO. AUSENTE. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 1495470/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 13/12/2019)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
