@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por D. MATER - MADEIREIRA, contra decisão monocrática proferidaàs fls. 441/449 (e-STJ), da lavra deste signatário, a qual conheceudo agravo (art. 1.042, do CPC/15) manejado pelo ora insurgente para, de pronto, negar provimento ao recurso especial.
+Irresignado (fls. 451/454, e-STJ), o recorrente opõe os presentes embargos declaratórios, no qual aponta a ocorrência de omissão a macular a decisão recorrida. Assevera que apesar do decidido, nem todos os lançamentos apontados como inconsistentes na inicial seriam provenientes de contrato de mútuo, razão pela qual não haveria que se falar em falta de interesse de agir na presente demanda.
+Impugnação às fls. 458/465 (e-STJ).
+É o relatório.
+Decido.
+Sem impugnação (certidão de fls. 868, e-STJ).
+É o breve relatório.
+Decido.
+Os aclaratórios não merecem acolhida.
+1. Segundo preceitua a regra inserta no artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração apenas são cabíveis quando constar, na decisãorecorrida, obscuridade, contradição ou omissão em ponto sobre o qualdeveria ter se pronunciado, bem como na hipótese de erro material.
+De acordo com o entendimento jurisprudencial consolidado por esta Corte Superior, configura omissão relevante e impugnável por meio de embargos de declaração a não apreciação, pela manifestação jurisdicional, de tese ou matéria expressamente suscitada pela parte e cujo exame, caso realizado, poderia alterar o resultado da controvérsia.
+Na espécie, o decisum embargado não padece do referido vício processual.
+Depreende-se das razões de fls. 451/454 (e-STJ), que apretexto de alegar a ocorrência de omissão a macular a decisão hostilizada, o embargante reafirma a tese deduzida no recurso especial, notadamente quanto ao fato de o Tribunal a quo não ter analisado, pormenorizadamente, a higidez de todos os 136 lançamentos bancários enumerados na petição inicial. Vale dizer,longe de apontar vícios de fundamentação no decisum embargado, pretende o insurgente, em verdade, rediscutir o acerto da decisão recorrida, não se revelando os embargos declaratórios meio processual adequado para tanto.
+Conforme restou decidido, não se vislumbra a alegada ofensa ao art. 489, § 1º, do CPC/15,na medida em que a Corte de origem, ao apreciar os recursos interpostos pela parte, dirimiu a controvérsia e decidiu as questões postas à apreciaçãode forma ampla e fundamentada, sem omissões, expondo os motivos para o desprovimento do recurso interposto, consoante se extrai dos seguintes trechos do julgado hostilizado (fls. 208/211, e-STJ):
+A r. sentença fundamentou-se nos seguintes argumentos:
+Como é cediço, a propositura de qualquer ação requer a presença dos pressupostos processuais e das condições da ação, onde se destaca o interesse de agir e a legitimidade para a causa.
+Para o manejo de uma ação, com o objetivo de provocação do judiciário a uma manifestação positiva, é necessário que a parte autora preencha determinadas condições da ação que, por sua vez, estão atreladas ao interesse de agir e à legitimidade para a causa (artigos 17 e 485, VI, do CPC).
+O interesse de agir é, mormente, fundado no binômio necessidade/utilidade da provocação a um provimento de mérito.
+Embora a função jurisdicional do Estado seja indispensável para manter a paz e a ordem na sociedade, "não lhe convém acionar o aparato judiciário sem que dessa atividade se possa extrair algum resultado útil. É preciso, pois, sob esse prisma, que, em cada caso concreto, a prestação jurisdicional solicitada seja necessária e adequada" (PELEGRINI, Ada, et all. Teoria geral do processo. São Paulo: Malheiros,14ª ed, pág. 257).
+No caso dos autos, a parte autora ajuizou ação de exigir contas com o objetivo de compelir o banco requerido a prestar esclarecimentos acerca de 136 lançamentos realizados em sua conta corrente, os quais totalizam o montante de R$ 127.560,14 (cento e vinte e sete mil, quinhentos e sessenta reais e quatorze centavos), ao argumento de que se tratam de rubricas desconhecidas e de que é impossível identificar a sua origem.
+Como é cediço, a ação de prestação de contas tem por objetivo liquidar a relação jurídica existente entre as partes no seu aspecto econômico de tal forma que se determine, com exatidão, a existência ou não de um saldo fixado, no caso positivo, o seu montante, com efeito de condenação judicial contra aparte que se qualifica como devedora (THEODORO JÚNIOR, Humberto. Curso de Direito Processual Civil. Vol. III, 23ª ed., Rio de Janeiro: Forense, p. 85).
+É uma pretensão complexa, já que seu procedimento é dividido em duas fases, conforme as disposições do artigo 550 do Código de Processo Civil, in verbis:
+(..)
+Ou seja, na primeira fase se analisa o dever de prestar contas e na segunda se apura o montante devido, caso verificada a existência de saldo.
+É certo que "a ação de prestação de contas pode ser proposta pelo titular de conta corrente bancária", conforme o entendimento sumulado pelo c. Superior Tribunal de Justiça no Enunciado n. 259.
+Todavia, a propositura de ação de exigir contas pelos correntistas não pode ser vulgarizada, ao simples argumento de que as instituições financeiras, por administrarem recursos alheios, devem prestar contas a respeito de toda e qualquer movimentação levada a efeito nas respectivas contas correntes.
+(..)
+No caso dos autos, a parte autora, correntista do banco requerido, de fato, determinou o período (01.03.2011 a 17.11.2011) e especificou os lançamentos que pretende ver esclarecidos, em um total de136 registros.
+Porém, a parte se coloca em uma posição muito cômoda, cingindo-se a alegar, de forma genérica, que desconhece a origem de todos os 136 lançamentos realizados e que é impossível identificá-la.
+À toda evidência, a parte autora promove uma verdadeira inversão de raciocínio.
+Ora, a petição inicial foi instruída com os extratos bancários que demonstram todos lançamentos realizados pelo requerido, sendo que esses são um mecanismo de fácil compreensão, análise e acompanhamento da movimentação bancária, a fim de permitir que o correntista fiscalize todos os atos que são lançados.
+Por óbvio, poderá o correntista questionar algum lançamento específico e postular eventual prestação de contas. Contudo, não basta um questionamento genérico, fundado na alegação de suposto desconhecimento da origem e de suposta impossibilidade de conhecê-la, como no caso dos autos.
+Somente o correntista "inconformado com os lançamentos feitos em sua conta corrente, sem condições de conhecer a natureza e origem dos registros constantes dos extratos bancários que recebe, tem legítimo interesse de propor a ação de prestação contas" (REsp. 184.284/SP).
+A situação que se afigura na hipótese dos autos é completamente diversa, pois a análise dos extratos acostados aos autos evidencia que a autora contratou empréstimos junto à instituição financeira. Tanto é assim que as rubricas questionadas, em sua grande maioria, possuem a descrição "parcela finanemprest" e "encargos emprest c/c", ou seja, não há como acolher a alegação da requerente de que desconhece a origem e a natureza dos registros, pois, à toda evidência, tratam-se de lançamentos derivados dos contratos firmados.
+Não há dúvidas de que a autora contratou os produtos e serviços ofertados pelo banco requerido e, agora, move ação de prestação de contas ao simples argumento de desconhecer a origem de 136 débitos lançados em sua conta, sem, ao menos, se dar ao trabalho de indicar, de forma concreta e objetiva, quais as supostas inconsistências dos débitos, em face dos contratos celebrados.
+Conforme o já destacado acima, a parte inverte a lógica, e pretende impor ao banco requerido o ônus de demonstrar a (in)existência de irregularidades nos lançamentos realizados, quando, na verdade, a alegação ou comprovação da existência de alguma irregularidade na sua movimentação bancária, capaz de justificar o ajuizamento de ação de exigir contas, é do correntista.
+(..)
+Por todas essas razões, o acolhimento da preliminar suscitada e a extinção do feito, sem julgamento do mérito, é medida que se impõe.
+Pelo apurado nos autos, a exordial requer a prestação de contas especificadaem período determinado,136 lançamentos constantes do extrato de conta corrente.
+A questão é tênue no tocante à abrangência do pedido, pois ao titular de conta corrente é assegurado o direito de requerer a prestação de contas, porém, para os contratos de mútuo e financiamento não é reconhecido ao devedor este direito.
+Ao se esmiuçar o pedido e analisar os lançamentos a que se quer melhor conhecer, verifica-se que o foco é exclusivamente naqueles que dizem respeito ao financiamento estabelecido com o apelado. Portanto, não se trata da averiguação da movimentação da conta corrente e sim, de maneira tangenciada, do mútuo contratado.
+E neste sentido, há julgado em recurso repetitivo no sentido de que "Nos contratos de mútuo e financiamento, o devedor não possui interesse de agir para a ação de prestação de contas" (AgInt no AREsp 1101926/RJ), o que descaracteriza o interesse autoral e revela que o remédio judicial para a pretensão exordial não deve ser o da ação de prestação de contas.
+Portanto, à mingua de máculas na decisão hostilizada, fica a parte embargante advertida que o próximo recurso procrastinatório poderá serapenado com a multa de litigância de má-fé, dado, sobretudo, o teor destes embargos.
+2. Ante o exposto, rejeito os embargos de declaração.
+Quanto à petição de fls. 469/476 (e-STJ), nada a deferir, na medida em que meras alegações unilaterais de terceiros não têm o condão de autorizar a suspensão vindicada, devendo o interessadoapresentar suas postulações perante instância e juízo próprios.
+Publique-se.
+Intimem-se.
