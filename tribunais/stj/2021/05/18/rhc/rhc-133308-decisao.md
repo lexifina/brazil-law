@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar,interposto por EDSON BRUNO RODRIGUES ou EDSON BRUNO RODRIGUES GONÇALVEScontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO no julgamento do HC n. 0803441-05.2020.8.10.0000.
+Extrai-se dos autos que o recorrente foi preso preventivamentepor ter supostamente praticado odelitotipificadonoart. 157, § 2º, inciso II, e §2º-A, inciso I, do Código Penal (roubo majorado).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdãoassim ementado:
+"PENAL. PROCESSO PENAL. HABEAS CORPUS. ROUBO MAJORADOPELO CONCURSO DE PESSOAS E PELO EMPREGO DE ARMA DEFOGO (ARTIGO 157, §2º, II E §2º-A, I, DO CÓDIGO PENAL). PRISÃOPREVENTIVA. ALEGAÇÃO DE EXCESSO DE PRAZO PARA O FIM DAINSTRUÇÃO PROCESSUAL. INOCORRÊNCIA. GRAVIDADECONCRETA. MODUS OPERANDI. CONSTRANGIMENTO ILEGALNÃO CONFIGURADO. ORDEM CONHECIDA E DENEGADA.
+1) O prazo para a conclusão da instrução criminal não é fatal e improrrogável, de modo que a complexidade da causa e a gravidade em concreto do delito podem justificar uma possível demora na formação da culpa.
+2) In casu, entendo que não está configurado o excesso de prazo alegado pelo impetrante, pois as circunstâncias do caso não denotam ser o tempo da prisão irrazoável e desproporcional, sobretudo pelo fato da gravidade em concreto do delito imputado justificar uma possível demora na formação da culpa, assim como a autoridade coatora informou que houve a necessidade de expedição de cartas precatórias para as comarcas de Pinheiro e da Capital, para o fim da oitiva da vítima e das testemunhas.
+3) Ademais, incide no caso o enunciado 64 da súmula de jurisprudência do Superior Tribunal de Justiça, pois, como bem ressaltou a eminente Procuradora de Justiça, "o próprio paciente contribuiu de modo substancial para a demora, uma vez que, citado para a apresentação de defesa prévia, deixou transcorrer o prazo sem oferecer manifestação, forçando a que o Juízo de base encaminhasse os autos à Defensoria Pública Estadual, que somente protocolou a peça faltante em 05/02/2020".
+4) Ordem concedida e denegada"(fl. 303).
+No presente recurso, alega excesso de prazo para a formação da culpa, porquanto a custódia cautelar perdura por mais de 191 sem que a instrução tenha sido encerrada.
+Sustenta que o decreto prisional carece de fundamentação idônea.Aponta suficiência, no caso concreto, da aplicação de medidas cautelares alternativas ao cárcere.
+Requer, assim, em liminar e no méritoo relaxamento ou revogação da prisão preventiva, ainda que mediante imposição de medidas cautelares previstas no art. 319 do Código de Processo Penal.
+A liminar foi indeferida às fls. 338/340. Informações prestadas às fls. 344/347. O Ministério Público Federal opinou pelo desprovimento do recursoem parecer acostado às fls. 352/353.
+É o relatório.
+Decido.
+O presente recursoestá prejudicado.
+Isso porque, de acordo com as informações obtidas na página eletrônica do Tribunal de origem, observa-se que, em 5/11/2020, nos autos da Ação Penal n.143-04.2019.8.10.0055, o recorrente foi condenadoà pena de 9 anos e4mesesde reclusão, em regime inicial fechado, e ao pagamento de 247 dias-multa, pela prática dodelitoprevistonoart. 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal,tendo sido mantida a custódia cautelar com base em fundamentos diversos daqueles utilizados na decisão da preventiva.
+In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar do réu, agregando fundamentos novos ao decreto prisional, consoante se extrai do seguinte trecho do julgado, in verbis:
+Nego ao acusado o direito de recorrer em liberdade uma vez que entendo persistentes os motivos que fundamentaram a prisão preventiva decretada por este Juízo, bem como o fato de que, com a fixação da pena, há a possibilidade de risco à aplicação da lei penal em razão de eventual risco de fuga do condenado.
+Nesse contexto, verifica-se que, diante da alteração do cenário fático-processual, consubstanciada no advento de novo título judicial decorrente da sentença condenatória proferida em desfavor do ora recorrente, fica superada a alegação trazida na impetração que ataca os fundamentos na manutenção da prisão preventiva por ocasião do decreto preventivo.
+Ademais, conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelar, devem ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, sob pena de se incidir em indevida supressão de instância.
+No mesmo sentido é a jurisprudência deste Tribunal:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVOS FUNDAMENTOS A EMBASAR A CUSTÓDIA. WRIT PREJUDICADO. APELAÇÃO DEFENSIVA. EXECUÇÃO PROVISÓRIA. AGRAVO DESPROVIDO.
+1. A superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar. 2. Além disso, é possível a execução provisória da pena após a confirmação da sentença condenatória pelo Tribunal de origem quando exaurida a jurisdição ordinária.
+3. Agravo regimental desprovido.
+(AgRg no HC 461.932/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 19/08/2019).
+Noutro giro, proferida sentença condenatória, está superada a alegação de excesso de prazo para a formação da culpa, uma vez que entregue a prestação jurisdicional, incidindo ao caso a Súmula 52 deste Superior Tribunal de Justiça, que prevê: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
