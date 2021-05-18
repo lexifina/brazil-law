@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial em virtude da incidência das Súmulas n. 283 do STF e 211 do STJ (e-STJ fls. 327/332).
+O acórdão do Tribunal a quo está assim ementado (e-STJ fl. 264):
+APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. ACIDENTE DE TRÂNSITO ENTRE ÔNIBUS E MOTOCICLETA, RESULTANDO NA MORTE DO CONDUTOR DESTA E EM DANOS À INTEGRIDADE FÍSICA DO AUTOR, QUE SE ENCONTRAVA NA GARUPA DO MOTOCICLO. RESPONSABILIDADE CIVIL. PEDIDOS DE PENSIONAMENTO E COMPENSAÇÃO MORAL, ALÉM DE OUTRAS VERBAS INDENIZATÓRIAS. SENTENÇA DE IMPROCEDÊNCIA. O Juiz pode indeferir as provas que reputa desnecessárias ao deslinde da controvérsia, tendo ele considerado que as provas produzidas seriam suficientes à solução da lide. Agravo retido rejeitado. Comprovação de que o motorista do coletivo deixou de observar normas contidas no Código de Trânsito Brasileiro. Violação do disposto nos artigos 28, 29, incido III, alínea c, e 40, inciso I, do referido diploma legal. Perícia médica indeferida. Condutor do coletivo que deu causa ao acidente. Responsabilidade objetiva da Ré, concessionária de serviço público. CRFB, art. 37, § 6º. Extensão da obrigação e respectivas verbas indenizatórias pedidas que deverão ser definidas em liquidação, após a realização de prova pericial médica para aferição dos danos causados ao Autor. Art. 491 do CPC. AGRAVO RETIDO DESPROVIDO. RECURSO DE APELAÇÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 282/289).
+Nas razões do recurso especial (e-STJ fls. 291/301), interposto com base no art. 105, III, "a", da CF, a recorrente apontou ofensa aos arts. 10 do CPC/2015e 414,§ 1º, do CPC/1973. Sustentou, em síntese, violação do princípio da não surpresa e equívoco na valoração de testemunha tão somente por não ter sido contraditada, o que sequer seria possível no presente caso.
+Afirmou que não se poderia alterar o resultado do julgamento apenas com base no depoimento de um única testemunha, que faltou, inclusive, com a verdade.
+No agravo (e-STJ fls. 346/350), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta às fls. 363/379(e-STJ).
+É o relatório.
+Decido.
+O Tribunal estadual, em seu voto, afirmou que a conclusão do julgado não se baseou unicamente no depoimento prestado pelatestemunha CLAUDINEI, mas em todo o conjunto de provas, como câmeras, testemunhas, registro de ocorrência e prontuário,in verbis(e-STJ fls.285/286):
+Ocorre que da análise do conjunto probatório produzido - imagens gravadas pela câmera instalada no coletivo, testemunhas, registro de ocorrência e prontuários - restou evidenciado que o condutor do ônibus não observou os deveres de cuidado e infringiu normas de trânsito.
+Daí porque a reforma da sentença não foi amparada somente no testemunho de CLAUDIONEI, sendo absolutamente extemporânea a manifestação do Réu contra o teor de tal depoimento nestes embargos de declaração. Confira-se trecho da fundamentação do acórdão:
+"As provas carreadas aos autos permitem concluir que o acidente ocorreu tal como relatado pelo Autor.
+Com efeito, em seu depoimento (fls. 144 e 145), o motorista do coletivo da Ré afirma "(..) que a moto saiu de uma rua morta à direita em direção a outra rua cortando a via de acesso; que tudo ocorreu muito rápido; que a moto bateu na quina do lado direito frontal do ônibus" que "(..) trafegava em velocidade baixa porque antes da rua do acidente há um quebra molas bem alto(..)"
+As imagens gravadas pela câmera instalada no coletivo mostram que o motorista trafegava em velocidade incompatível com o necessário cuidado que deveria despender em seu deslocamento na via, não tendo realizado sequer curta parada quando da passagem por sobre o quebra -molas. As imagens mostram que nem o quebra-molas foi suficiente para que reduzisse, adequadamente, a velocidade com que trafegava, de modo a compatibilizá-la com as condições locais.
+Das imagens também se nota que o condutor do coletivo não utilizou os faróis, indispensáveis para que o condutor da motocicleta o percebesse, já que era noite, 23h 40min, conforme o Registro da Ocorrência.
+Seu próprio depoimento demonstra que desprezou o cuidado indispensável à segurança do trânsito, por considerar que a rua transversal, de onde saiu a motocicleta, era uma "rua morta". Assim, não manteve velocidade reduzida nem acendeu os faróis.
+O descumprimento do dever de segurança está, assim, configurado, em inequívoca violação ao disposto nos artigos 28 e40, inciso 1, do Código de Trânsito Brasileiro (CTB).
+No entanto, a parte agravante deixou de atacar esse argumento, limitando-se, no recurso especial, a discorrer, de forma genérica, sobre a impossibilidade de alterar o resultando de um julgamento apenas com base em um único depoimento testemunhal.
+Incide, portanto,a Súmula n. 283/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
