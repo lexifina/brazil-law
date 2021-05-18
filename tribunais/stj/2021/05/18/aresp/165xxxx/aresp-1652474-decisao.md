@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por DELZAN LOGISTICA EIRELI - EM RECUPERAÇÃO JUDICIAL, DELZAN LOGISTICA EIRELI - EPP - EM RECUPERAÇÃO JUDICIAL e TRANSPORTADORA DELZAN EIRELIcontra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"RECUPERAÇÃO JUDICIAL - Agravo interposto contra a decisão judicial que concedeu a recuperação judicial, sob alegação de previsão abusiva no deságio, prazo de pagamento, atualização monetária, onerosidade excessiva e inexistência de pagamento por mais de quatro anos Créditos de instituições financeiras que correspondem a 97,27% da classe III e a 96,57% de todos os créditos arrolados pela devedora - Ausência de justificativa à não inclusão de seis credores na classe IV, entre sete quirografários fornecedores presentes - Universo de credores instituições financeiras constituído por seis credores presentes, sendo que cinco rejeitaram o plano - Ausência dos requisitos legais - Necessidade de apresentação de novo plano - Voto do Relator que dá provimento ao recurso para apresentação de novo plano que exclua as cláusulas havidas como inaplicáveis, justifique a não classificação de pequenas sociedades limitadas como credoras ME/EPP e preveja o voto dos credores instituições financeiras em categoria separada dos demais credores. Dispositivo: deram provimento ao recurso" (fl. 103 e-STJ).
+No recurso especial, foi alegada, além de divergência jurisprudencial, violação dos arts. 35, I, "a", 45, §1º e § 2º, e 56 da Lei nº 11.101/2005. Defende, em síntese, que não há falar em novo plano de recuperação judicial.
+Com as contrarrazões, o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+O Ministério Público Federal, em seu parecer, opinou pelo desprovimento do recurso especial (fls. 243/246 e-STJ).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Na hipótese dos autos, o Tribunal de origem consignou:
+"A errata constante da ata apresentada pelo Administrador Judicial, nesse ponto (fl. 2.719, na origem), é confusa e, de todo modo, essas cláusulas devem ser afastadas.
+Quanto ao prazo, deságio e termos para atualização monetária, reconhece-se que se trata de impor pesado sacrifício aos credores e, portanto, interessa saber se a aprovação se dá por uma real maioria de credores.
+O que se verifica nos autos é que se trata quase que exclusivamente de recuperação judicial voltada à classe III e mais especificamente a credores instituições financeiras que somam 96,57% de todos créditos submetidos à recuperação, sendo que do universo de 7 instituições financeiras indicadas em fl. 75, seis compareceram e, aparentemente, somente um (a Caixa Econômica Federal) votou a favor do plano.
+Importa, portanto, entender como esses credores instituições financeiras encontram-se submetidos a um elevado deságio e longoperíodo de pagamento, sem considerar que o processo recuperatório, no caso em exame, está sendo utilizado como revisão de contratos bancários.
+Se considerado o evidente objetivo do devedor reduzir a dívida bancária, uma vez que 96,57% de sua dívida total pertence a bancos temos assim, que a maioria dos credores dessa categoria (5, entre 6 presentes ou 83,33%) rejeitou o plano.
+Pela contagem pelo total de crédito essa maioria que rejeitou o plano soma R$ 2.534.625,50 (fl. 66) ou 37,63% dos credores dessa categoria de um total de R$ 6.736.436,99, fl. 45.
+Assim, considerado apenas o montante teria sido atingido o quórum para aprovação do plano, nesse raciocínio de isolar os credores instituições financeiras.
+Porém, não conseguiria, por esse mesmo método, aprovação no sistema de dupla maioria, porque a maioria dos credores dessa categoria presentes (5 entre 6) desaprovou o plano.
+Esta Câmara Reservada deve refletir sobre a aplicação adequada desse importante instrumento de recuperação de empresa. Trata-se de um meio judicial de estímulo da atividade empresarial e não pode ser utilizado para outros objetivos que não aqueles previstos no art. 47 da LREF ou mediante estratégias na composição de créditos e deliberações assembleares que visam apenas a aprovação dos interesses de devedores, em detrimento da verdadeira maioria e do interesse dos credores.
+Assim, pelo meu voto, dou provimento ao recurso e determino a apresentação de um novo plano que exclua as cláusulas havidas como inaplicáveis, justifique a não classificação de pequenas sociedades limitadas como credoras ME/EPP e preveja o voto dos credores instituições financeiras em categoria separada dos demais credores" (fls. 106/107 e-STJ).
+Com efeito, rever a conclusão firmada pelas instâncias ordináriasdemandaria a análise de circunstâncias fático-probatórias dos autos, o que inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Registre-se, ademais, que, consoante iterativa jurisprudência desta Corte,a necessidade do reexame da matéria fática impede a admissão do recursoespecial tanto pela alínea "a", quanto pela alínea "c" do permissivoconstitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários sucumbenciais, conforme determina o artigo 85, § 11, do Código de Processo Civil de 2015, haja vista a ausência de condenação em honorários nas instâncias ordinárias.
+Publique-se.
+Intimem-se.
