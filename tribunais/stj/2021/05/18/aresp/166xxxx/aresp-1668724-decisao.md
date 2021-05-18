@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 83do STJ (e-STJ fls. 759/775).
+O acórdão recorrido está assim ementado (e-STJ fl. 573):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. BRASIL TELECOM.IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA.VALOR DA EXECUÇÃO R$ 341.106,00 VALORES DEPOSITADOS. AMORTIZAÇÃO.SUBMISSÃO AO PLANO RECUPERACIONAL.
+Tendo em vista o estipulado no Plano de Recuperação Judicial, assim como, que não houve ainda o trânsito em julgado da impugnação ao cumprimento de sentença, o valor da condenação deverá ser apurado, no seu total, sem a amortização da quantia que garantiu o juízo, pois o valor total é que irá constar na certidão para habilitação.No ponto, recurso parcialmente provido.
+CONHECIMENTO PARCIAL. LEVANTAMENTO DE VALORES PELA EXECUTADA.
+Quanto ao pedido de levantamento do depósito judicial que garante o feito, em favor da devedora, nada foi determinado, sendo necessário o pronunciamento do magistrado acerca do tema para que a matéria possa ser apreciada por este Tribunal de Justiça, sob pena de supressão de instância.Desta forma, não conheço do recurso quanto ao pleito de liberação de valores em favor da OI S.A.
+AGRAVO DE INSTRUMENTO CONHECIDO EM PARTE E, NESTA, PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 636/644).
+No especial (e-STJ fls. 653/670), fundamentado no art. 105, III, "a", da CF, a recorrente alegou ofensa ao art. 1.022 do CPC/2015, por negativa de prestação jurisdicional.
+Apontouafronta aos arts. 6º, caput, 7º, § 1º, 9º, II, 10º, §6º, 49, caput, 51, III, 52, III, 61, 62 e 63 da Lei n.º 11.101/2005, sustentando, em síntese, que "o interesse em promover a habilitação do crédito após a homologação do Quadro Geral de Credores (QGC) é EXCLUSIVO do credor preterido e não do devedor, não havendo falar em imposição/obrigatoriedade, sendo-lhe facultada a sua habilitação posterior, bem como a execução individual do crédito após o fim da recuperação judicial, se assim desejar" (e-STJ fl. 663).
+No agravo (e-STJ fls. 780/793), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentadapela recorrida (e-STJ fls. 828/836).
+É o relatório.
+Decido.
+A irresignação referente à afronta ao art. 1.022 do CPC/2015 merece prosperar em parte.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+Nos aclaratórios, aembargante suscitou a tese de que a habilitação retardatária do crédito é uma faculdade do credor preterido, não sendo lícita a sua imposição.
+Contudo, a Corte local deixou de se manifestar acerca da alegada questão, limitando-se a afirmar que "o fundamento de que a questão acerca da possibilidade de amortização dos valores incontroversos foi corretamente analisada e decidida"(e-STJ fl. 633).
+Nesse contexto, diante da omissão no acórdão recorrido, impõe-se o provimento do recurso especial, para que o Tribunal a quo se pronuncie sobre a questão, sanando assim o vício apontado. Nesse sentido é a firme jurisprudência desta Corte, como se depreende, por exemplo, do seguinte julgado:
+PROCESSO CIVIL. DIREITO DAS OBRIGAÇÕES. NOVAÇÃO. POSSIBILIDADE DE ANÁLISE DO NEGÓCIO JURÍDICO ANTECEDENTE. MITIGAÇÃO DO PRINCÍPIO PACTA SUNT SERVANDA. SÚMULA 286 DO STJ. VIOLAÇÃO DO ART. 535 DO CPC CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. 1. A violação do art. 535 do CPC configurou-se, no caso dos autos, uma vez que, a despeito da oposição de embargos de declaração, nos quais os recorrentes apontam a existência de omissões, mormente no tocante à possibilidade de exame judicial de supostas ilegalidades substanciais nos contratos celebrados anteriormente à alegada novação com a instituição financeira (fls. 1.052-1.053), o Tribunal não se manifestou de forma satisfatória sobre o apontado vício, consoante se infere do voto condutor às fls. 1.061-1.066. 2. A novação, conquanto modalidade de extinção de obrigação em virtude da constituição de nova obrigação substitutiva da originária, não tem o condão de impedir a revisão dos negócios jurídicos antecedentes, máxime diante da relativização do princípio do pacta sunt servanda, engendrada pela nova concepção do Direito Civil, que impõe o diálogo entre a autonomia privada, a boa-fé e a função social do contrato. Inteligência da Súmula 286 do STJ. 3. Recurso especial provido para determinar o retorno dos autos ao Tribunal de origem.
+(REsp n. 866.343/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/6/2011, DJe 14/6/2011.)
+Diante do exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial para determinar a remessa dos autos ao Tribunal de origem, a fim de sanar a omissão apontada.
+Publique-se e intimem-se.
