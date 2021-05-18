@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial com pedido de efeito suspensivo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, interposto por CAIXA ECONÔMICA FEDERAL (CEF) E EMPRESA GESTORA DE ATIVOS S.A. (ENGEA) contra acórdão proferido pelo Tribunal de Justiça do Estado do Cearáassim ementado:
+"DIREITO CIVIL. SFH. REVISÃO. TABELA PRICE. "AMORTIZAÇÃO ANTES DA ATUALIZAÇÃO DO SALDO DEVEDOR. JUROS CAPITALIZADOS. ANATOCISMO CARACTERIZADO. TR. REAJUSTE DO SALDO DEVEDOR. LEGALIDADE. PLANO DE EQUIVALÊNCIA SALARIAL. DESCUMPRIMENTO. SEGURO HABITACIONAL. REVISÃO.
+1. A utilização da "Tabela Price" não gera por si só o fenômeno do anatocismo. Ocorre, porém, o anatocismo, nos contratos do SFH, quando a prestação não consegue amortizar o valor total dos juros mensais, ou seja, os juros não amortizados são incorporados ao saldo devedor, onde sofrem a nova incidência de juros.
+2. Tendo sido constatado pelo Laudo que houve a ocorrência de anatocismo (amortização negativa), deverá este ser afastado para determinar a não incidência de juros sobre o resíduo negativo não coberto pela prestação pura.
+3. Osaldo devedor deve primeiro ser reajustado para que depois se proceda à amortização da dívida.
+4. Descumprimento do contrato pela CEF, no que diz respeito ao reajuste das prestações mensais pelo Plano de Equivalência Salarial-PES/CP constatado pelo Laudo Pericial.
+5. A TR deve ser utilizada como índice de correção do saldo devedor do contrato de mútuo regido pelo PES, quando o pacto estabelecer" que a atualização dos depósitos da caderneta de poupança será o parâmetro dos reajustes das prestações. Necessidade de quea forma de correção dos recursos captados seja a mesma dosrecursos aplicados, para que se obtenha o justo equilíbrio entre a captação e a aplicação. Descabido, pois, o pedido de substituição da TR por qualquer outro índice.
+6. A Terceira Turma firmou-se no sentido de que devem ser revisadas as prestações do seguro, quando for evidente o descumprimento da equivalência salarial em relação às prestações, tal como ocorre no caso. Apelação da CEF não provida, e doParticular provida, em parte, apenas no que tange à revisão das parcelas do seguro habitacional." (fls. 384/385, e-STJ).
+Em virtude do provimento do REsp nº 1.457.409/CE, anulando o acórdão proferido em sede de embargos de declaração,o Tribunal estadual proferiu novo julgamento, sintetizado nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO. JULGAMENTO ANULADO PELO STJ. OMISSÃO. SISTEMA FINANCEIRO DE HABITAÇÃO- SFH. REVISÃO CONTRATUAL. REAJUSTE DA PRESTAÇÃO ESEGURO PELO PES/CP. EMBARGOS DE DECLARAÇÃO PROVIDOS.
+1. Retorno dos autosa essa Eg. Turma Julgadora, por determinação do ColendoSTJ, que conheceu do recurso especial interposto pela Caixa Econômica Federal, anulando o acórdão proferido em sede de embargos declaratórios, para que fosse proferido novo julgamento, em razão de omissão quanto ao índice de correção a ser adotado para o reajuste do seguro habitacional, se odefinido pela SUSEP ou aquele utilizado no PES como fator de correção.
+2. O reajuste do seguro habitacional obrigatório, sendo este de natureza acessória, deve obedecer à mesma regra de reajuste das prestações do financiamento, no caso, o percentual de reajuste da categoria profissional do mutuário PES/CP, conforme expressamente previsto no contrato. Precedentes deste Tribunal (AC 200984000013073, DESEMBARGADOR FEDERAL JOSÉ MARIA LUCENA, TRF5 PRIMEIRA TURMA, DJE: 14/05/2015; AC 200881000113482, DESEMBARGADOR FEDERAL FERNANDO BRAGA, TRF5.- SEGUNDA TURMA, DJE: 23/01/2015).
+3. Embargos de declaração providos, para afastar a omissão reconhecida pelo STJ, integrando o Acórdão embargadoapenas quanto à definição do índice de correção a ser adotado no reajuste do seguro, sendo este o percentual de reajuste da categoria profissional do mutuárioPES/CP." (fls. 462/463, e-STJ)
+Em suas razões, as recorrentes, além de divergência jurisprudencial, apontam a violação dos arts. 6º, §1º, da Lei de Introdução do Código Civil;586 do Código Civil;20, 32 e 36 do Decreto-Lei nº 73/66, e 14 da Lei nº 4.380/1964.
+Sustentam que: i) ao modificar a "sistemática contratualmente prevista", o Tribunal de origem acabou por ferir o ato jurídico perfeito; ii) é impossível a utilização do PES para correção do seguro previsto para o contrato de financiamento habitacional, pois o seguro habitacional deve ser atualizado de acordo com normas editadas pela SUSEP, e não pela vontade das partes.
+Sem aapresentação das contrarrazões (fl. 485, e-STJ), o recurso foi admitido na origem (fl. 486,e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De fato, verifica-se que as matérias versadas nos dispositivos legaisapontados como violados no recurso especial não foramobjeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Sobre o tema:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO QUINQUENAL. ALCANCE DAS PARCELAS VENCIDAS ANTERIORMENTE AO QUINQUÊNIO QUE PRECEDE O AJUIZAMENTO DA AÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo interno não provido" (AgInt no AREsp 1.097.857/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/11/2017 - grifou-se).
+Observe-se ainda que, de acordo com a jurisprudência deste Superior Tribunal, a admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC/2015, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC/2015, o que nem sequer foi alegado nocaso dos autos.
+Sobre o tema:
+"CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA.
+01. Inviável o recurso especial na parte em que a insurgência recursal não estiver calcada em violação a dispositivo de lei, ou em dissídio jurisprudencial..
+02. Avaliar o alcance da quitação dada pelos recorridos e o que se apurou a título de patrimônio líquido da empresa, são matérias insuscetíveis de apreciação na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+03. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos de declaração.
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+05. O pedido de abertura de inventário interrompe o curso do prazo prescricional para todas as pendengas entre meeiro, herdeiros e/ou legatários que exijam a definição de titularidade sobre parte do patrimônio inventariado.
+06. Recurso especial não provido" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/4/2017 - grifou-se).
+A par disso, nenhuma das normas contidas nos artigos invocados pelas recorrentes oferecem suporte fático para a discussão proposta, haja vista quenão deliberam acerca do índice de correção aplicável ao contrato.
+Ademais, tendo o acórdão recorrido consignado que o índice de reajuste da categoria profissional do mutuário PES/CP foi expressamente previsto no contrato, não se vislumbra a alegada violação do ato jurídico perfeito.
+É de se ter presente que esta Corte Superior toma os fatos assim como delineados pelas instâncias ordinárias, sendo defeso, no recurso especial, o reexame dos elementos de convicção dos autos, inclusive a partir de uma nova interpretação do contrato firmado entre as partes, a teor dos óbices contidos nas Súmulas nºs 5 e 7/STJ.
+Nesse contexto, partindo-se da premissa fática assentada pelo acórdão recorrido, a linha argumentativa desenvolvida no apelo nobre se revela incapaz de evidenciar a ofensa, pelo Tribunal de origem, da legislação federal invocada. Logo, a fundamentação recursal é absolutamente deficiente, o que atrai a incidência dos óbices contidos nas Súmulas nºs 283 e 284/STF.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE SEGURO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ausentes os vícios do art. 535 do CPC, rejeitam-se os embargos de declaração.
+2. Considera-se deficiente a fundamentação quando o conteúdo normativo dos dispositivos tidos como violados não são capazes de amparar a discussão posta a desate e/ou os argumentos invocados no recurso não demonstram como o acórdão recorrido violou o artigo arrolado, o que importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Agravo interno não provido" (AgInt no AREsp 892.216/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/11/2017 - grifou-se).
+Ante o exposto, não conheço do recurso especial.
+Não tendo havido arbitramento de honorários advocatícios na origem, inaplicável a majoração prevista noart. 85, § 11, do Código de Processo Civil de 2015.
+Publique-se.
+Intimem-se.
