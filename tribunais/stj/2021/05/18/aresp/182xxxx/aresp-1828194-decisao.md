@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo emrecurso especial interposto em face de decisão que inadmitiu o recurso especial pela incidência da Súmula 83/STJ.
+Sustenta o recorrente violação dos arts. 44,§3º, do CP por falta de fundamentação para a negativa do benefício da substituição das penas.
+Alega queo posicionamento adotado nas instâncias inferiores afronta diretamente o disposto no art. 44, §3º, do Código Penal. Isso porque tal dispositivo legal permite a substituição da pena privativa de liberdade imposta ao condenado, ainda que reincidente, desde que atendidos dois requisitos cumulativos: a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime(fl. 278).
+Requer o provimento do recurso para que seja concedida a substituição das penas reclusivas por restritivas de direitos.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelodesprovimento do recurso.
+O agravo é tempestivo e rebate os fundamentos da decisão agravada, pelo que passa-se ao exame do mérito recursal.
+Cinge-se a controvérsia à análise da tese de falta de fundamentação para o indeferimento do benefício da substituição das penas.
+Acerca da questão, o Tribunal de origem assim se pronunciou (fl. 265),in verbis:
+Todavia, em análise aos .autos , verifico que não perece prosperar a pretensão do apelante, uma vez que este não preenche nenhum dos requisitos, sequer o objetivo, pois é de fato, reincidente, com condenação transitada em julgado. Dessa forma, acertada a sentença do juízo de 1º grau, uma vez que a Súmula, STJ nº 269 dispõe que "é admissível a adoção do regime prisional semi - aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais", já havendo um tratamento mais benéfico, uma vez que a letra fria da lei garante regimes mais brandos para o "não reincidente".
+A reincidência não se deu por crime da mesma natureza, mas sim pela prática de crime patrimonial, sem violência ou grave ameaça (diversa do roubo majorado). Seja como for, a substituição pretendida não deve ocorrer, pois entendo que qualquer que seja a espécie de reincidência, por si só, afasta o caráter pedagógico da medida e não produziria nenhum efeito para evitar a prática de novos delitos.
+Todos os antecedentes criminais do apelante são por crimes contra o patrimônio (fls: 165/167), de modo que sofrer maior repressão penal.
+Com efeito, o art. 44, II, do Código Penal não admite a substituição da pena privativa de liberdade por restritiva de direitos ao réu reincidente em crime doloso, sendo que a recidiva, isoladamente, não tem o condão de afastar a aplicação da medida, tendo em vista que o § 3º oferece a possibilidade de concessão da benesse para os casos em que se entenda socialmente recomendável a medida e a reincidência não se tenha operado em virtude da prática do mesmo crime.
+Na espécie, consoante se verifica da sentença confirmada em 2º Grau, foi negado o benefício do art. 44 do CP, tendo em vista não apenas sua condição de reincidente, mas o fato de que todos os antecedentes criminais do apelante referem-se a delitos contra o patrimônio, razão pela qual reputou-sea medida não socialmente recomendável.
+Nesse contexto, tem-se por devidamente fundamentado o indeferimento da benesse, inexistindo, pois, ilegalidade a ser sanada na via do especial. A propósito:
+HABEAS CORPUS. ART. 16, PARÁGRAFO ÚNICO, INCISO IV, DA LEI N.º 10.826/2003. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. IMPOSSIBILIDADE. REQUISITOS DO ART. 44 DO CÓDIGO PENAL NÃO PREENCHIDOS. RÉU REINCIDENTE EM CRIME DOLOSO. HABEAS CORPUS DENEGADO.
+1. "Embora a reincidência genérica não tenha o condão de, por si só, impedir a benesse pleiteada, faz-se necessário que se evidenciem, no caso concreto, os demais requisitos elencados no dispositivo legal" (HC 126.174/MS, 5.ª Turma, Rel. Min. FELIX FISCHER, DJe de 28/08/2009).
+2. Na espécie, a substituição da pena privativa de liberdade por restritiva de direitos não se apresenta socialmente recomendável, uma vez que o Paciente, embora não seja reincidente específico, foi anteriormente condenado pelos crimes previstos nos arts. 33, da Lei de Tóxicos, e 157, do Código Penal.
+3. Habeas Corpus denegado (HC 246.092/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 19/03/2013, DJe 26/03/2013).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+Publique-se.
