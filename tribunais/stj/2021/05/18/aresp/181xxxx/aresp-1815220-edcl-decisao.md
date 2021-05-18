@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por GLOBENET CABOS SUBMARINOS S.A. contra a decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+3. Ao apreciar o presente agravo em recurso especial, a r. decisão embargada corretamente deixou de conhecer o recurso especial, bem como decidiu que os honorários advocatícios de sucumbência fossem majorados em atenção ao art. 85, § 11, do CPC.
+4. Entretanto, a r. decisão embargada incorreu em obscuridade ao dispor que os honorários devem ser majorados "em 15% sobre o valor já arbitrado nas instâncias de origem". Isso porque, permissa venia, não ficou claro se o percentual de 15% deve ser cumulado com a condenação anterior (15%  15%), resultando em honorários de 30% que, em razão do limite legal previsto no art. 85, § 2º, estariam limitados a honorários de 20% sobre o valor da causa atualizado, ou deve ser calculado tomando-se a condenação anterior como base de cálculo (15%x15%  15%), resultando em honorários de 17,25% sobre o valor da causa atualizado (fls. 621).
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A propósito, a questão objeto destes embargos foi assim julgada:
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita (fls. 618).
+Portanto, os honorários advocatícios de sucumbência foram majorados em 15% do montante fixado pelas instâncias ordinárias. Ou seja, tendo os honorários sido arbitrados em 15% do valor atualizado da causa pelo TJRJ, o acréscimo em 15% desse valor acarretará em uma condenação final de 17,25% do valor atualizado da causa a título de honorários advocatícios de sucumbência.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
