@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto pelaCOFESA - COMERCIAL FERREIRA SANTOS LTDA. contra decisão de inadmissibilidade do recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+AÇÃO ANULATÓRIA DE DÉBITO FISCAL - Auto de Infração Creditamento indevido de ICMS - Operação realizada com base em notas fiscais emitidas em favor de empresa irregular - Simulação de existência do estabelecimento da empresa compradora - Processo de fiscalização - Incumbia a parte autora comprovar a efetiva operação - Não demonstração - Recurso provido.
+Opostos embargos de declaração, esses foram rejeitados.
+No recurso especial, a parte indicou, além de dissídio jurisprudencial, ofensa ao art. 136 do CTN. Sustentou, em resumo, que, contrariamente ao registrado no acórdão recorrido, o próprio Fisco teria reconhecido sua boa-fé no que concerne às notas fiscais posteriormente consideradas inidôneas, razão pela qual o creditamento de ICMS deveria ser considerado válido.
+A Presidência da Seção de Direito Público do TJSP inadmitiu o apelo excepcional com base na Súmula 7 do STJ.
+Irresignado, o contribuinte interpõe o presente agravo, insurgindo-se contra o obstáculo imposto ao trâmite do recurso especial.
+Passo a decidir.
+Cuidam os autos de ação anulatória de débito tributário, em que o contribuinte pretende desconstituir auto de infração lavrado em razão de constatação de suposto creditamento indevido de ICMS decorrente da constatação da inidoneidade das notas fiscais apresentadas pela empresa vendedora.
+O magistrado de primeiro grau julgou procedente o pleito autoral.
+Interposta apelação pela municipalidade, essa foi provida pelo Tribunal local, ao fundamento de que a pessoa jurídica autoranão logrou demonstrar a validade do creditamento de ICMS, não se desonerando de seu encargo probatório. Consignou que não ficou comprovada a efetiva entrada de mercadorias no seu estabelecimento a possibilitar o reconhecimento da regularidade do creditamento pretendido. Registrou, ainda, que "sob a ótica da atividade empresarial desempenhada pela apelada, não existe nenhumaprova de pedidos por e-mail ou similar, extratos bancários ou contrato de venda e compra das mercadorias" (e-STJ fl. 372).
+Por fim, anotou o seguinte (e-STJ fl. 373):
+Verifica-se, portanto, que a operação já nasceu inválida, uma vez que as notas fiscais que deram origem a estes créditos foram emitidas a favor de contribuinte que sequer existia. Pressupõe-se, assim, que a venda de mercadorias calcadas nas referidas notas não existiu, dando origem a crédito indevido.
+Pois bem.
+A Primeira Seção, quando do julgamento do REsp 1.148.444/MG, realizado pelo rito dos recursos repetitivos, firmou a tese de que "o comerciante de boa-fé que adquire mercadoria, cuja nota (emitida pela empresa vendedora) posteriormente seja declarada inidônea, pode engendrar o aproveitamento do crédito do ICMS pelo princípio da não cumulatividade, uma vez demonstrada a veracidade da compra e venda efetuada, porquanto o ato declaratório da inidoneidade somente produz efeitos a partir de sua publicação". (Grifos acrescidos).
+No caso dos autos, ficou assentado no acórdão recorrido que a autora não logrou demonstrar a veracidade das operações de compra e venda documentadas pelas notas fiscais declaradas inidôneas. Assim, a revisão desse entendimento, por demandar reexame de prova, encontra óbice na Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
