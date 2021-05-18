@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo contra inadmissão de recurso especial interposto porNOBRE SEGURADORA DO BRASIL S. A.O apelo extremo, com fulcro no art. 105, inciso III, alínea"a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Pauloassim ementado:
+"APELAÇÕES - RESPONSABILIDADE CIVIL - LAQUEADURA DE TROMPAS NÃO CONSENTIDA - Sentença de parcial procedência - Condenação em dano moralno valor de R$ 30.000,00 - Insurgência da autora - Majoração da condenação - Rejeição - Valor proporcional às circunstâncias do caso concreto - Insurgência do réu e litisdenunciada - Sentença contrária à prova pericial - Laudo conclusivo pelo adequado procedimento médico - Rejeição - Questão delimitada à falta de autorização para o procedimento- Risco iminente não caracterizado pelo laudo - Não cabimento da exceção prevista no §2º, art. 10, da Lei 9.263/97 - Sentença mantida - NEGARAM PROVIMENTO AOS RECURSOS"(e-STJ fl. 1046).
+Os embargos de declaração foram acolhidos,com efeitos modificativos, para que os juros moratórios sejam contados a partir da citação.
+Nas razões do recurso especial, arecorrente alegaviolação dos artigos944 do Código Civil e 8º do Código de Processo Civil de 2015.
+Pleiteia a redução do valor fixado a título de danos morais.
+Apresentadas contrarrazões (e-STJ fls. 1114/1117), o recurso foi inadmitido. Daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+A respeito dos danos morais, verifica-se inviável a pretensão recursal de reduzir o valor arbitrado a título de indenização.
+O Superior Tribunal de Justiça firmou entendimento no sentido de que o exame do valor fixado a título de danos morais somente é admissível em hipóteses excepcionais, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido: AgRg no REsp 971.113/SP, Quarta Turma, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 8/3/2010; AgRg no REsp 675.950/SC, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 3/11/2008; AgRg no Ag 1.065.600/MG, Terceira Turma, Rel. Min. MASSAMI UYEDA, DJe de 20/10/2008.
+Inexistem, entretanto, tais circunstâncias no presente caso, em que não se pode afirmar desarrazoado o arbitramento da indenização pelos danos morais no valor de R$ 30.000,00 (trinta mil reais).
+Não se pode dizer que a referida quantia destoa dos parâmetros adotados por esta Corte em precedentes análogos, ao revés, revela-se perfeitamente adequada diante das especificidades do caso concreto, sendo inarredável, assim, a aplicação à espécie do óbice inserto no mencionado verbete sumular nº 7/STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO MORAL. SÚMULA Nº 7/STJ. INOCORRÊNCIA. QUANTUM IRRISÓRIO. DEMORA EM PROCEDIMENTO MÉDICO. NECESSIDADE DE PARTO POR CESARIANA.RECONHECIMENTO TARDIO. MORTE DA CRIANÇA NO VENTRE MATERNO. QUANTUM INDENIZATÓRIO. CRITÉRIOS DE ARBITRAMENTO EQUITATIVO PELO JUIZ.MÉTODO BIFÁSICO. VALORIZAÇÃO DO INTERESSE JURÍDICO LESADO E CIRCUNSTÂNCIAS DO CASO. DECISÃO MANTIDA.
+1. Nos termos da jurisprudência pacífica do STJ, é possível a modificação do quantum indenizatório quando os danos morais forem flagrantemente irrisórios ou exorbitantes, hipótese verificada na espécie à luz do método bifásico, inexistindo razão para aplicar a Súmula nº 7/STJ. Precedentes do STJ.
+2. O método bifásico, como parâmetro para a aferição da indenização por danos morais, atende às exigências de um arbitramento equitativo, pois, além de minimizar eventuais arbitrariedades, evitando a adoção de critérios unicamente subjetivos pelo julgador, afasta a tarifação do dano, trazendo um ponto de equilíbrio pelo qual se consegue alcançar razoável correspondência entre o valor da indenização e o interesse jurídico lesado, bem como estabelecer montante que melhor corresponda às peculiaridades do caso. 3. Na primeira fase, o valor básico ou inicial da indenização é arbitrado tendo-se em conta o interesse jurídico lesado, em conformidade com os precedentes jurisprudenciais acerca da matéria (grupo de casos).
+4. Na segunda fase, ajusta-se o valor às peculiaridades do caso com base nas suas circunstâncias (gravidade do fato em si, culpabilidade do agente, culpa concorrente da vítima, condição econômica das partes), procedendo-se à fixação definitiva da indenização, por meio de arbitramento equitativo pelo juiz.
+5. Irrisório, no caso, os danos morais em R$ 10 mil, devendo ser elevados para R$ 90 mil, mantido o julgado de origem quanto à correção monetária, juros de mora e honorários advocatícios. Recurso especial provido.
+6. Agravo interno não provido"(AgInt no REsp 1608573/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2019, DJe 23/08/2019).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários advocatícios foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para 17,5% (dezessete e meiopor cento) em favor do advogado da recorrida, observada a assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
