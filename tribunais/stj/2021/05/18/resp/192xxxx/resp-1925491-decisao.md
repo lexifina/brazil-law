@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por EMERSON PEREIRA BATISTA, fundamentado no art. 105, III, alínea "a", da Constituição Federal, em oposição a acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia.
+Nas razões recursais, o recorrente aponta violação dosarts. 118, § 2º, e 143, ambos da Lei de Execução Penal.
+Afirma que a Corte de origem não poderia ter reconhecido a falta grave sem a realização de audiência de justificação, para a ouvida do reeducando, sob pena de nulidade absoluta da decisão.
+Requer o provimento do recurso, "a fim de que seja reconhecida a nulidade do decisum, por violar o Artigo 118, § 2º, da Lei de Execuções Penais" (e-STJ, fl. 79).
+Contrarrazões apresentadas (e-STJ, fls. 81-87) e admitido o apelo excepcional (e-STJ, fls. 88-89) os autos foram remetidos a este Tribunal.
+O Ministério Público Federal opinapelo provimento do recurso especial (e-STJ, fls. 99-105)
+É o relatório.
+Decido.
+Consoante se verifica dos autos, o Tribunal a quo manteve a decisão do Juízo de Primeiro Grau que homologou a falta grave, determinando a regressão de regime, a alteração da data-base para progressão de regime e a perda de 1/3 (um terço) dos dias remidos, com base nos seguintes fundamentos (e-STJ, fl. 61):
+"O recurso será analisado sob essa perspectiva, isto é, a ausência de designação prévia de audiência de justificação para a regressão do regime prisional por conta de nova condenação transitada em julgado no decorrer da execução.
+In casu, sobressai da decisão recorrida que o reconhecimento da falta grave pelo magistrado a quo decorreu da prática de novo crime (art. 180, do CP - Autos n. 0010496-90.2019.8.22.0501), durante a execução de pena. A nova condenação transitou em julgado em 10/5/2019 (ID n. 8769629 - Pág. 4).
+Nesse contexto, torna-se desnecessária a designação de audiência de justificação, visto que a nova condenação transitada em julgado (Autos n. 0010496-90.2019.8.22.0501) fixou ao agravante o regime semiaberto e a oitiva do mesmo no processo de execução penal não teria o condão de mudar esta imposição da sentença condenatória. Além disso, não há que se falar em cerceamento de defesa, uma vez que o agravante exerceu, no processo criminal que culminou em sua nova condenação, a plenitude do contraditório e da ampla defesa."
+Com efeito, o acórdão impugnadofoi proferido em desacordo com o entendimento consolidado no Superior Tribunal de Justiça, no sentido de que é prescindível a realização de audiência de justificação judicial se o apenado já tiver sido ouvido em procedimento administrativo disciplinar, no qual foram observados os direitos à ampla defesa e ao contraditório, e não houver regressão de regime.
+Sobre o tema, confiram-se os seguintes precedentes:
+"HABEAS CORPUS. PROCESSUAL PENAL E EXECUÇÃO PENAL. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. RECONHECIMENTO DE FALTA GRAVE. REGRESSÃO DE REGIME. AUDIÊNCIA DE JUSTIFICAÇÃO. NECESSIDADE. DECISÃO DE PERDA DE DIAS REMIDOS CONCRETAMENTE FUNDAMENTADA. ORDEM PARCIALMENTE CONCEDIDA.
+1. A Quinta e a Sexta Turmas do Superior Tribunal de Justiça já se manifestaram no sentido de que é prescindível a realização de audiência de justificação no procedimento administrativo disciplinar para apuração de falta grave apenas na hipótese em que não houver a determinação de regressão definitiva de regime.
+2. No caso, foi determinada a regressão definitiva do regime prisional do Paciente pelo Juízo da Execução Penal, motivo pelo qual seria imprescindível a prévia oitiva do Apenado em audiência de justificação no âmbito do Procedimento Administrativo Disciplinar instaurado para a apuração de falta grave, conforme disposto no art. 118, § 2.º, da Lei de Execução Penal.
+3. De acordo com o entendimento desta Corte, a perda de até 1/3 (um terço) dos dias remidos, em razão da prática de falta grave, exige fundamentação concreta, consoante determina a LEP, nos arts. 57 e 127, o que se verifica na hipótese.
+4. Ordem parcialmente concedida para, tão somente, cassar a decisão exarada pelo Juízo das Execuções Penais na parte em que determinou a regressão de regime do Paciente sem a realização de audiência de justificação no âmbito do Procedimento Administrativo Disciplinar instaurado em seu desfavor, bem como do Acórdão que a confirmou."
+(HC 465.730/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/02/2019, DJe 20/02/2019, com destaque).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL E EXECUÇÃO PENAL. FALTA GRAVE. AUDIÊNCIA DE JUSTIFICAÇÃO PARA OITIVA DO REEDUCANDO ANTES DA HOMOLOGAÇÃO JUDICIAL. DESNECESSIDADE. PRÉVIA OITIVA NA FASE ADMINISTRATIVA. AUSÊNCIA DE REGRESSÃO DE REGIME. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que, quando não houver a regressão de regime prisional, é dispensável a realização de nova oitiva do reeducando em Juízo se este já foi ouvido no curso do procedimento administrativo para a apuração da falta grave.
+2. Agravo regimental não provido."
+(AgRg no REsp 1543302/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/06/2018, DJe 02/08/2018).
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE. DESOBEDIÊNCIA AOS AGENTES PENITENCIÁRIOS. CONFIGURAÇÃO: ART. 50, VI, C/C ART. 39, II E V, DA LEP. APURAÇÃO MEDIANTE REGULAR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. AUSÊNCIA DE OITIVA JUDICIAL DO SENTENCIADO. INEXISTÊNCIA DE OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA E CONTRADITÓRIO. PERDA DOS DIAS REMIDOS NO PERCENTUAL MÁXIMO. RECURSO NÃO PROVIDO.
+ ..
+2. Este Tribunal possui orientação no sentido ser ""desnecessária a realização de audiência de justificação para homologação de falta grave, se ocorreu a apuração da falta disciplinar em regular procedimento administrativo, no qual foi assegurado, ao reeducando, o contraditório e ampla defesa, inclusive com a participação da defesa técnica" (HC 333.233/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 6/11/2015).
+3. Ressalte-se, por oportuno, que o artigo 118 da LEP exige a oitiva prévia do apenado apenas nos casos de regressão definitiva de regime prisional, o que não é a hipótese dos autos.
+ .. ."
+(AgRg no HC 440.695/SP, rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, j. 5/6/2018, DJe 12/6/2018, grifou-se).
+Na espécie, verifica-se que o apenado foi regredido para o regime semiaberto e perdeu parte dos dias remidos (e-STJ, fl.5).
+Ante o exposto, com fundamento no art. 557, § 1º-A, do CPC, e no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, a fim de cassar a decisão do magistrado de primeiro grau, que ordenou a regressão de regime do recorrente sem a realização de audiência de justificação, assim como o respectivo acórdão, determinando que outra seja proferida, observando-se, contudo, a prévia ouvida judicial do sentenciado.
+Publique-se. Intimem-se.
