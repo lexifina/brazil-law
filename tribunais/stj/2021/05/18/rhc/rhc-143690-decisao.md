@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por TIAGO JUSTINO DA SILVA desafiando acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SULno Habeas Corpus n. 5093484-76.2020.8.21.7000.
+Depreende-se dos autos que o recorrente foi preso em flagrante (convertida a prisão em preventiva) pela prática, em tese, do delito inscrito no art. 33 da Lei n. 11.343/2006 (tráfico de drogas) em virtude da apreensão de 25 pedras de crack (e-STJ fl. 46).
+Contra o decreto prisional impetrou a defesa habeas corpus no Tribunal de origem, que denegou a ordem.
+Daí o presente recurso ordinário, no qual sustenta a defesa a ilegalidade da custódia preventiva, por falta de fundamentação idônea, notadamente em virtude da quantidade inexpressiva de entorpecente apreendido.
+Diante dessas considerações, pede "a concessão da liminar e, ao final, o provimento do presente Recurso Ordinário Constitucional, a fim de que seja concedida a ordem de habeas corpus, para fins de revogar a prisão preventiva do paciente, ora recorrente" (e-STJ fl. 66).
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pelo provimento do recurso.
+É o relatório.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+Na hipótese, foram estes os fundamentos invocados para a imposição da prisão preventiva (e-STJ fls. 45/46):
+A manutenção da prisão cautelar do flagrado se faz necessária, uma vez que se trata, em tese, de infração penal de natureza grave, cuja prática, como é cediço, coloca em risco a saúde da população, impulsiona e mantém inúmeras outras atividades criminosas, inclusive com violência e grave ameaça contra pessoa, gerando medo e insegurança a toda e qualquer comunidade em que se estabeleça esse tipo de conduta, padecendo de notória, ampla e maciça repulsa pública, impondo-se, portanto, a manutenção da segregação cautelar do flagrado, a fim de que seja assegurada a ordem pública, evitando-se que solto volte a delinquir, haja vista que as medidas cautelares alternativas à prisão não se mostram passíveis de aplicação no caso em tela.
+Ademais, não se trata de fato isolado na vida do flagrado, que possui condenação por sentença penal transitada em julgado pela prática do crime de roubo, conforme se pode verificar da certidão judicial criminal anexada ao evento 3; e encontrava-se com ofício de captura da SUSEPE pendente decumprimento. (Grifei)
+No presente caso, vê-se que a prisão foi decretada em decorrência da contumácia delitiva do ora acusado, que possui condenação criminal pelo crime de roubo. É inequívoco, dessa forma, o risco de que,solto, perpetre novas condutas ilícitas.
+Dessa forma, justifica-se a imposição da prisão preventiva do recorrente, pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública.
+Nesse sentido, os seguintes precedentes desta Corte:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. FURTO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+ ..
+4. A jurisprudência desta Corte de Justiça é firme ao asseverar que a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar.
+5. O Juízo de primeiro grau destacou que o recorrente registra em sua folha de antecedentes a prática de outros delitos, já havendo sido preso anteriormente, o que reforça a necessidade de sua prisão provisória.
+6. Configurada a dedicação aparentemente habitual ao cometimento de crimes e o descumprimento de medida cautelar imposta em oportunidade pretérita, a substituição pleiteada pela defesa não constitui instrumento eficaz para obstar a reiteração delitiva, o que se mostra atingível apenas mediante a custódia preventiva do réu.
+7. Recurso não provido.(RHC 76.929/MG, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/11/2016, DJe 29/11/2016, grifei.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADMISSIBILIDADE. PRECEDENTES. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO, IMPEDIR/DIFICULTAR A REGENERAÇÃO NATURAL DE VEGETAÇÃO EM ÁREA DE PRESERVAÇÃO PERMANENTE E PORTE ILEGAL DE ARMA DE FOGO E MUNIÇÕES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. JUSTIFICATIVA IDÔNEA. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. As circunstâncias do flagrante indicam atuação intensiva no tráfico de drogas, em razão da quantidade de arbustos plantados para comercialização (25 mil pés de maconha), bem como a ousadia do paciente, que, segundo a acusação, cultivava a droga em área de preservação ambiental permanente. Além do entorpecente, foram apreendidas armas e munições. Ademais, há risco concreto de reiteração criminosa, diante dos maus antecedentes e da reincidência do acusado.
+ ..
+5. Habeas Corpus não conhecido. (HC 389.098/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/05/2017, DJe 31/05/2017, grifei.)
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
