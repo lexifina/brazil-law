@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (art. 1.042 do CPC/2015) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de federal e incidência da Súmula n. 282 do STF(e-STJ fls. 522/524).
+O acórdão recorrido está assim ementado (e-STJ fl. 466) :
+EMENTA: APELAÇÃO CÍVEL PLANO DE SAÚDE Preliminar de ilegitimidade ativa afastada Ação julgada procedente para determinar o restabelecimento do plano de saúde das agravadas Alegação de violação de coisa julgada, em virtude de processo anterior no qual restou determinada a rescisão do plano de saúde e inclusão das agravadas em plano de saúde contratado pela empresa estipulante com a Dix/Amil Manutenção das beneficiárias, após o trânsito em julgado da referida decisão por cinco anos Proibição do venire contra factum proprium Verba honorária reduzida, de rigor - Recurso provido em parte.
+No especial (e-STJ fls. 474/505), fundamentado no art. 105, III, "a", da CF, a recorrente alegou ofensa aos arts. 17, 500, 505, 506, 507 e 508 do CPC/2015, por inobservância da coisa julgada e por afastar a ilegitimidade da parte recorrida.
+Indicou ainda afronta aos arts.186, 188, 248, 757, 760e 927 do CC/2002,sustentando, em síntese, que o plano de saúde coletivo possibilita a rescisão unilateral do contrato.
+Afirma aausência de dever de oferta de planos individuais à parte recorrida, ante o impedimentode operar e comercializar plano individual.
+No agravo (e-STJ fls. 729/754), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pelas recorridas (e-STJ fls. 761/770).
+É o relatório.
+Decido.
+Ao afastar a ilegitimidade ativa, o Tribunal de origem se manifestou no seguinte sentido(e-STJ fl. 468):
+4. Afasto, inicialmente, a preliminar de ilegitimidade ativa. Isto porque as dependentes são beneficiárias do plano de saúde e possuem interesse na reativação do plano rescindido ou na sua inclusão em plano individual ou familiar, sendo de especial relevância que os artigos 30 e 31 da Lei nº 9.656/98 revelam que a manutenção do plano de saúde é extensiva aos familiares do aposentado ou demitido, sendo garantida a permanência destes.
+Para alterar taisfundamentos, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Quanto aos arts. 500, 505, 506, 507 e 508 do CPC/2015, o TJSP consignou que(e-STJ fls. 608/609):
+8. Decerto que, não obstante tenha o processo nº 0077083-09.2011.8.26.0002 transitado em julgado em meados de agosto de 2013, a seguradora, por mais de 5 anos, quedou-se inerte ao permitir a permanência dos segurados no plano de saúde coletivo empresarial extinto até novembro de 2018, recebendo a respectiva contraprestação pelos serviços prestados.
+9. Tal conduta gerou uma expectativa de direito nas apeladas e se traduz em venire contra factum proprium, indo de encontro com o princípio da boa-fé objetiva posto que se esperava da seguradora um comportamento que não fosse incompatível com comportamento anterior, o qual perdurou por mais de 5 anos, não sendo crível que venha alegar não mais ser possível a manutençãodo plano de saúde das apeladas tal qual o fez por considerável lapso de tempo, sendo certo, ainda, que não cabe à ANS aplicar qualquer punição à operadora apelante que busca o cumprimento de decisão judicial.
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. Um dos fundamentos centrais do acórdão impugnado é a conclusão de que a seguradora, por mais de 5 (cinco) anos, quedou-se inerte ao permitir a permanência dos segurados no plano de saúde coletivo empresarial, de tal forma a geraruma expectativa de direito. Tal ponto, apto, por si só, a sustentar o juízo emitido, não foi rebatido nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Além disso, dissentir das conclusões do acórdão impugnado implicariareexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto nas Súmulan. 7 do STJ.
+Oconteúdo dos arts. 186,188 e 927 do CC/2002 não foi analisado pela Corte local. Incidente, portanto, a Súmula n. 282/STFpor falta de prequestionamento.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20%(vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
