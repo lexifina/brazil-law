@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO DIRIGIDA CONTRA DECISÃO DE DESEMBARGADOR RELATOR QUE INDEFERIU PEDIDO LIMINAR NO TRIBUNAL DE ORIGEM. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento firmado pelo Supremo Tribunal Federal e pelo Superior Tribunal de Justiça é no sentido de não se admitir habeas corpus contra decisão denegatória de pedido liminar proferida em outra impetração na Instância de origem, nos termos da Súmula n. 691/STF.
+2. Na hipótese, não há ilegalidade flagrante capaz de autorizar a superação do referido óbice, pois, conforme a jurisprudência desta Corte Superior, o reconhecimento da incompetência do Juízo não acarreta, por si só, a nulidade da decisão que decretou a prisão preventiva, pois o Juízo competente, ao receber o feito, poderá ratificar a referida decisão.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por GEOVANE FEBRONIO DOS SANTOS contra decisão do Presidente do Superior Tribunal de Justiça que indeferiu liminarmente habeas corpus em razão do óbice da Súmula n. 691/STF.
+Nas razões do agravo regimental, sustenta-se que o referido óbice processual deve ser afastado no caso em apreço, pois a prisão preventiva do Agravante foi inicialmente decretada por autoridade judicial manifestamente incompetente.
+A esse respeito, assevera que "é nula de pleno direito qualquer decisão exarada por autoridade judiciária incompetente" (fl. 192).
+Requer, desse modo, o provimento do agravo regimental, a fim de que seja relaxada a prisão do Agravante.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO DIRIGIDA CONTRA DECISÃO DE DESEMBARGADOR RELATOR QUE INDEFERIU PEDIDO LIMINAR NO TRIBUNAL DE ORIGEM. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento firmado pelo Supremo Tribunal Federal e pelo Superior Tribunal de Justiça é no sentido de não se admitir habeas corpus contra decisão denegatória de pedido liminar proferida em outra impetração na Instância de origem, nos termos da Súmula n. 691/STF.
+2. Na hipótese, não há ilegalidade flagrante capaz de autorizar a superação do referido óbice, pois, conforme a jurisprudência desta Corte Superior, o reconhecimento da incompetência do Juízo não acarreta, por si só, a nulidade da decisão que decretou a prisão preventiva, pois o Juízo competente, ao receber o feito, poderá ratificar a referida decisão.
+3. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+O recurso não comporta provimento.
+Como se sabe, o entendimento firmado pelo Supremo Tribunal Federal e pelo Superior Tribunal de Justiça é no sentido de não se admitir habeas corpus contra decisão denegatória de pedido liminar proferida em outra impetração na Instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n. 691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, ao Superior Tribunal de Justiça (HC 541.515/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 04/02/2020, DJe 17/02/2020; AgRg no HC 558.161/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/03/2020, DJe 10/03/2020; HC 543.255/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/03/2020, DJe 12/03/2020; AgRg no HC 506.812/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 01/07/2019, v.g.).
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, deve-se preponderar a necessidade de se garantir a efetividade da prestação da tutela jurisdicional de urgência para que flagrante constrangimento ilegal ao direito de liberdade possa ser cessado - tarefa a ser desempenhada caso a caso.
+Todavia, esse atalho processual não pode ser ordinariamente usado, senão em situações em que se evidenciar decisão absolutamente teratológica e desprovida de qualquer razoabilidade, na medida em que força o pronunciamento adiantado da Instância Superior, subvertendo a regular ordem do processo.
+Na hipótese, não verifico, prima facie, ilegalidade patente que autorize a mitigação da Súmula n. 691 do Supremo Tribunal Federal, cuja essência vem sendo reiteradamente ratificada por julgados desta Corte.
+De fato, ao contrário do que sustenta o Agravante, a jurisprudência desta Corte Superior é firme no sentido de que "o reconhecimento da incompetência do Juízo não acarreta, por si só, a nulidade da decisão que decretou a prisão preventiva do acusado, pois o Juízo competente, ao receber o feito, pode ratificar a referida decisão, o que efetivamente ocorreu na hipótese" (RHC 125.358/GO, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 26/05/2020, DJe 03/06/2020, sem grifos no original).
+No mesmo sentido:
+"PROCESSUAL PENAL E PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. MEDIDA DECRETADA POR AUTORIDADE INCOMPETENTE. RATIFICAÇÃO POSTERIOR PELO JUÍZO COMPETENTE. SEGREGAÇÃO CAUTELAR FUNDAMENTADA. ILEGALIDADE. AUSÊNCIA. RECURSO IMPROVIDO.
+1. O Juízo competente quando do recebimento da denúncia ratificou a custódia cautelar anteriormente decretada por autoridade incompetente. A jurisprudência desta Corte Superior consolidou o entendimento no sentido de que o reconhecimento da incompetência do Juízo não enseja por si só a nulidade das decisões cautelares, já que a autoridade competente, ao receber o feito, pode ratificar essas decisões.
+ .. " (RHC 95.589/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/12/2018, DJe 17/12/2018, sem grifos no original).
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSO PENAL. RECEPTAÇÃO QUALIFICADA E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA DECRETADA POR JUÍZO DECLARADO, POSTERIORMENTE, INCOMPETENTE. NULIDADE. NÃO OCORRÊNCIA. AUSÊNCIA DE RATIFICAÇÃO EXPRESSA DA PRISÃO PREVENTIVA PELO JUÍZO COMPETENTE. DESNECESSIDADE. RATIFICAÇÃO IMPLÍCITA. ADMISSIBILIDADE. REVOGAÇÃO DA PRISÃO PREVENTIVA. PLEITO NÃO ANALISADO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. RECURSO CONHECIDO EM PARTE, E, NA PARTE CONHECIDA, DESPROVIDO.
+1. A conversão da prisão em flagrante em preventiva, bem como a sua manutenção, poderá ocorrer perante o juízo aparente, ou seja, aquele que, diante das informações coletadas até o momento, aparenta ser o competente para a ação penal, razão pela qual, ainda que constatado, posteriormente, a sua incompetência para o processo e julgamento da causa, não restará invalidado, automaticamente, o decreto prisional.
+2. Constatada a incompetência do juízo, os autos devem ser remetidos ao Juízo competente, que pode ratificar ou não os atos já praticados. Por outro lado, a ratificação dos atos praticados pelo Juízo incompetente pode ser implícita, ou seja, por meio da prática de atos que impliquem a conclusão de que o Magistrado validou os referidos atos. Precedentes.
+ .. " (RHC 79.598/GO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/04/2017, DJe 28/04/2017, sem grifos no original).
+Ressalte-se que, no caso em apreço, conforme noticia o próprio Agravante, os autos já foram encaminhados ao Juízo competente (fls. 195-196), a quem caberá a análise acerca da ratificação ou não dos atos judiciais pretéritos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
