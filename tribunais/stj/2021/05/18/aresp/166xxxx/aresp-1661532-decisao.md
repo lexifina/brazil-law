@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 968/977) interposto contra decisão da Presidência do STJ (e-STJ fls. 965/966) que não conheceu do agravo nos próprios autos, por falta de impugnação de fundamento da decisão do Tribunal de origem (e-STJ fls. 938/939) que inadmitiu o recurso especial.
+Em suas razões, o agravante alega ter impugnado todos os fundamentos da decisão agravada.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A agravada apresentou impugnação (e-STJ fls. 980/991).
+É o relatório.
+Decido.
+Razão assiste ao agravante.
+Com efeito, o agravo nos próprios autos (e-STJ fls. 942/958) refutou adequadamente os fundamentos da monocrática que negou seguimento ao especial.
+Desse modo, reconsidero a decisão agravada, proferida pela Presidência do STJ, e passo a novo exame do recurso.
+O acórdão recorrido está assim ementado (e-STJ fl. 779):
+AÇÃO RESCISÓRIA. RECURSO INTEMPESTIVO.INTERRUPÇÃO DO PRAZO PARA O AJUIZAMENTO DO FEITO RESCISÓRIO. INOCORRÊNCIA. DECADÊNCIA RECONHECIDA.
+A interposição de recurso intempestivo não tem o condão de interromper o prazo para o ajuizamento de ação rescisória, sob pena de perpetuar o exercício do direito processual, circunstância atentatória à segurança jurídica (precedentes desta Corte e do STJ).
+AÇÃO RESCISÓRIA EXTINTA, COM RESOLUÇÃO DO MÉRITO.
+Os embargos de declaração opostos pelo agravante foram rejeitados (e-STJ fls. 822/832), mas os aclaratórios opostos pela agravada foram acolhidos para determinar "que passe a constar da sua parte dispositiva a reversão a título de multa, em favor da requerida, da importância do depósito de 5% sobre o valor da causa (art. 974, parágrafo único c/c o art. 968, II, parte final, do CPC), e a condenação do requerente ao pagamento das despesas processuais e de honorários advocatícios, estes fixados em R$2.000,00 (dois mil reais) (art. 82, § 2º, c/c art. 85, § 8º, do CPC)" (e-STJ fls. 869/875).
+O recurso especial (e-STJ fls. 882/906), fundamentado no art. 105, inc. III, alínea "a", da CF, apontou ofensa aos arts. 489, § 1º, VI, e 1.022, II, do CPC/2015. Argumentou que o Tribunal de origem "não analisou a possibilidade de aplicação da súmula 401 do Superior Tribunal de Justiça, e nem dos precedentes invocados pelo Recorrente no decorrer da demanda, restando omisso ponto pelo qual deveria pronunciar-se" (e-STJ fl. 892).
+Sustentou ainda contrariedade aos arts. 975 do CPC/2015 e 495 do CPC/1973. Defendeu que "o prazo bienal da ação rescisória tem início com o trânsito em julgado da última decisão proferida no processo originário, ainda que seja ela decisão que negue seguimento a recurso intempestivo" (e-STJ fl. 898).
+Foram apresentadas contrarrazões (e-STJ fls. 922/931).
+Não há falar em violação dos arts. 489, § 1º, VI, e 1.022, II, do CPC/2015, pois o Tribunal de origem se pronunciou, de forma clara e fundamentada, sobre todas as questões relacionadas ao termo inicial do prazo decadencial para a propositura da ação rescisória. Confira-se (e-STJ fls. 776/778):
+Observo, de início, que a presente ação rescisória não preenche requisito objetivo de admissibilidade, consubstanciado na sua tempestividade.
+Com efeito, o artigo 975 do Código de Processo Civil dispõe o seguinte:
+Art. 975. O direito à rescisão se extingue em 2 (dois) anos contados do trânsito em julgado da última decisão proferida no processo. (destaquei).
+Nessa linha de pensamento, deve a ação rescisória ser ajuizada no prazo de 2 (dois) anos (art. 975 do CPC), contados da data do trânsito em julgado da última decisão proferida no processo, ou seja, do provimento jurisdicional que se almeja desconstituir, de forma que, uma vez ultrapassado o referido lapso temporal, fatal e improrrogável, impõe-se o reconhecimento da decadência do direito de propor o pleito rescisório.
+No caso em exame, deve ser reconhecida a decadência do direito do requerente, pelos fundamentos a seguir expostos.
+Com efeito, o demandante acostou ao caderno digital certidão de trânsito em julgado de Agravo Regimental em Recurso Especial, emitida pelo Superior Tribunal de Justiça em 20.03.2018, afirmando estar preenchido o pressuposto de admissibilidade concernente à tempestividade do feito rescisório em análise.
+Observo, entretanto, que o requerente interpôs recurso de apelação contra a sentença rescindenda no dia 18 de fevereiro de 2015, o qual deixou de ser conhecido, em virtude da sua intempestividade (fl. 151 dos autos físicos), razão pela qual interpôs sucessivos recursos perante este Sodalício e o Superior Tribunal de Justiça, culminando na referida decisão proferida em sede de Agravo Regimental em Recurso Especial, cujo trânsito em julgado ocorreu em março de 2018.
+A jurisprudência perfilhada pelo Superior Tribunal de Justiça e por esta Corte, por sua vez, adota o posicionamento segundo o qual a interposição de recurso inadmissível ou intempestivo não tem o condão de interromper o prazo decadencial para a propositura de ação rescisória, sob pena de perpetuar o exercício do direito processual, e atentar contra o princípio da segurança jurídica, constitucionalmente consagrado, senão vejamos:
+(..)
+Entendo, destarte, ter ocorrido a decadência do direito pretendido pelo requerente, pois s.s.deveria ter interposto recurso de apelação até o dia 13/02/2015, entretanto, o fez intempestivamente, no dia 18/02/2015, razão pela qual transcorreram mais de 02 (dois) anos entre a data em que se operaria o trânsito em julgado da sentença rescindenda (13.02.2015), e a data do ajuizamento da presente ação rescisória, em 16.10.2018 (movimentação nº 78).
+Assim sendo, uma vez não ajuizada a presente ação rescisória no prazo previsto em lei, o reconhecimento da decadência do direito pretendido pelo autor é medida que se impõe.
+Ante o exposto, julgo extinto, com resolução do mérito, o presente feito rescisório, tendo em vista a ocorrência da decadência do direito pretendido pelo requerente (art. 487, II, do CPC).
+Ressalte-se que a adoção de posicionamento contrário aos interesses da parte não se confunde com obscuridade, contradição, omissão ou negativa de prestação jurisdicional.
+De outro lado, o trecho do acórdão recorrido aqui transcrito demonstra que a conclusão da Corte local encontra-se em consonância com a jurisprudência do STJ de que "o recurso intempestivo não possui o condão de suspender ou interromper o prazo para interposição de outro recurso, razão pela qual a decisão que atesta sua intempestividade não é apta a postergar o termo final do trânsito em julgado, que ocorre imediatamente no dia seguinte após expirado o prazo para interposição do recurso intempestivo" (AgInt no AREsp n. 1476097/MG, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 6/2/2020, DJe 11/2/2020). Confira-se a ementa do referido julgado:
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. RECURSO INTEMPESTIVO. DESISTÊNCIA EM RECURSO SUBSEQÜENTE, EM RAZÃO DA INTEMPESTIVIDADE. AJUIZAMENTO POSTERIOR DE AÇÃO RESCISÓRIA. CONDIÇÃO DE PROCEDIBILIDADE PREENCHIDA. INÍCIO DO PRAZO BIENAL. BOA-FÉ. DESNECESSIDADE DE AGUARDAR HOMOLOGAÇÃO DE DESISTÊNCIA. PARTICULARIDADES QUE IMPEDEM APLICAÇÃO DOS ERESP Nº 1.352.730/AM. PRECEDENTES.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Nos termos da jurisprudência do STJ, o recurso intempestivo não possui o condão de suspender ou interromper o prazo para interposição de outro recurso, razão pela qual a decisão que atesta sua intempestividade não é apta a postergar o termo final do trânsito em julgado, que ocorre imediatamente no dia seguinte após expirado o prazo para interposição do recurso intempestivo (AgRg no AgRg no RE nos EDcl no AgRg nos EAREsp 822.343/MG, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 15/8/2018, DJe 22/8/2018).
+3. Nos casos em que a parte interpõe recurso intempestivo e, posteriormente, postula desistência em recurso subseqüente em razão da intempestividade, não é prematuro o ajuizamento da ação rescisória, a fim de se privilegiar a parte de boa-fé, como no caso em debate, de modo a evitar que o aguardo pela certificação do trânsito em julgado implicasse decadência.
+4. Agravo interno a que se nega provimento.
+Também nesse sentido, o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. TERMO INICIAL DO PRAZO DECADENCIAL. ÚLTIMO PRONUNCIAMENTO JUDICIAL DO QUAL NÃO CAIBA RECURSO. SÚMULA 401/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos moldes da Súmula 401 desta Corte, "o prazo decadencial da ação rescisória só se inicia quando não for cabível qualquer recurso do último pronunciamento judicial".
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que o prazo decadencial para a propositura de ação rescisória se inicia com o trânsito em julgado da decisão proferida no último recurso interposto, ainda que dele não se tenha conhecido, salvo se identificada hipótese de flagrante intempestividade, erro grosseiro ou má-fé, o que não ficou caracterizado na hipótese.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 887.897/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/11/2019, DJe 18/12/2019.)
+Diante do exposto, DOU PROVIMENTO ao agravo interno, para RECONSIDERAR a decisão de fls. 965/966 (e-STJ), CONHECER do agravo e NEGAR PROVIMENTO ao recurso especial.
+Mantidos os honorários majorados pela decisão ora agravada.
+Publique-se e intimem-se.
