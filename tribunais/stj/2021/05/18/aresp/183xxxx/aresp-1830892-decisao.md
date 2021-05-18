@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manejado por Ana Claudia Romãocontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 274):
+Ação de indenização. Alegação de dano moral pela má prestação de serviço e atendimento indevido por preposta da ré. Danos morais não verificados. Inadimplemento contratual que, no caso, não se mostra apto a gerar dano moral passível de indenização. Autora que não logrou demonstrar que o evento tenha produzido dano em sua esfera íntima. Ofensa produzida por preposta da ré que restou superada por aceitação de benefício no serviço prestado. Recurso da ré provido.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC (fls. 300/307).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 14, § 3º, I, da Lei 8.078/90e1.022, I e II,do CPC. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo restou omisso acerca das questões neles suscitadas; (II)o Tribunal a quo reconheceu"que a CLARO confessou ter prestado serviços inconsistentes e com falhas" (fl. 325); e (III) "reiteradas e indevidas suspensões das prestação de serviço de internet ("telecomunicações"), portanto, serviço de natureza essencial na forma do artigo 10, inciso VII, da Lei Federal nº 7.783/89 e as ofensas dirigidas à Recorrente, quando de suas reclamações, que queria unicamente cancelar os serviços, ensejam compensação por danos morais" (fl. 325).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que a insurgência não merece prosperar.
+Verifica-se, inicialmente, não ter ocorrido ofensa aoart. 1.022, I e II,do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Por sua vez, o Tribunal local, soberano no reexame dos elementos de instruem o caderno processual,assentou não estar caracterizado, na espécie, o dano moral indenizável, nos seguintes termos (fls. 277/281):
+Não se discute, por admitido pela ré, que houve prestação inadequada do serviço contratado.
+Mas isso se enquadra no viver em sociedade. Ressalvadas hipóteses excepcionais, o simples descumprimento contratual não gera dano moral indenizável.
+O que poderia gerar dano moral, mas não gera na hipótese, foi a atitude da atendente da ré, que, como dito, ultrapassou os limites da civilidade e da urbanidade.
+Esse foi o segundo ponto narrado pela autora que lhe teria causado dano moral.
+Contudo, esse atendimento inadequado, foi relevado pela própria autora, e ela o disse na inicial:  ..
+Isso significa dizer que a autora simplesmente aceitou a oferta mais vantajosa da ré, a título de reparar o atendimento inadequado da preposta da demandada e desistiu mesmo de cancelar o contrato, ainda que tivesse havido má prestação do serviço.
+Está claro na inicial.
+O entendimento corrente nesta Câmara é de que, ressalvados casos excepcionais, o descumprimento contratual não enseja automaticamente dano moral indenizável.  ..
+Vale dizer, o mero dissabor não pode ser alçado ao patamar de dano moral, mas somente aquela agressão que exacerba a naturalidade dos fatos da vida, causando fundadas aflições ouangústias no espírito de quem a ela se dirige.
+Nesse contexto, é certo que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, de modo a asseverar que se encontram presentes, na espécie, os elementos ensejadores do dever de indenizar, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 10% (dezpor cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
