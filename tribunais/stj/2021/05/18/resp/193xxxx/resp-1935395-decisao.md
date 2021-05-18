@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial, com pedido de liminar, interposto por HEBER DAILAN MARTINS - ESPÓLIO,com fulcro no artigo105, inciso III, alíneas "a"e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territóriosassim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. INDENIZAÇÃO SECURITÁRIA. INVALIDEZ FUNCIONAL POR DOENÇA. NEGATIVA. DOENÇA PREEXISTENTE À ASSINATURA DO CONTRATO. COMPROVAÇÃO. Nos termos do enunciado nº 609, da Súmula do Superior Tribunal de Justiça, a recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado. A despeito disso, é dever do segurado inserir informações verdadeiras no ato da contratação do seguro, da qual é parte integrante a proposta de adesão a contrato de seguro de vida, em razão dos princípios da probidade e boa-fé (artigos 422, 765 e 766, do Código Civil). É legítima a negativa da seguradora ao pagamento de indenização securitária se estiver comprovado nos autos que o segurado tinha ciência de doença preexistente grave que lhe acometia antes da assinatura do contrato e não a informou na Declaração Pessoal de Saúde" (fl. 257 e-STJ).
+No recurso especial, foi alegada, além de divergência jurisprudencial, violação do artigo 4º da Lei nº 12.842/2013 sob o argumento, em síntese, de que
+"Manter o v. Acórdão é dar guarida a flagrante ofensa à Lei do Ato Médico, bem como à precedente que contraria a real intenção dos ínclitos Julgadores desta Corte Superior, porque tratar um segurado, que fez a contratação do seguro prestamista vinculado ao financiamento proposto, como pessoa que teria agido de má-fé, mesmo não possuindo doença no momento da contratação, e sem que lhe fosse oportunizada análise da sua condição de saúde na ocasião, é trazer para o consumidor ônus excessivo, diante da boa-fé esperada e porque não poderia deliberar sobre qualquer disposição contratual ou obrigações conexas"(fl. 265 e-STJ).
+Pugna, ainda, pela aplicação da Súmula nº 609/STJ que dispõe que "A recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado".
+Contrarrazões juntadas (fls. 281/294 e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+Observa-se, de pronto, que oartigo 4º da Lei nº 12.842/2013 não se encontra prequestionadopelo acórdão recorrido, o que enseja a aplicação da Súmula nº 282/STF para obstar o recurso especial.
+Quanto ao dissídio jurisprudencial, não foi devidamente demonstrado, haja vista que deixaram de ser observadas as regras contidas nos artigos 1.029, § 1º, do Código de Processo Civil de 2015 e do 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, mais especificamente na parte em que exigem a realização de cotejo analítico entre os arestos confrontados.
+Ora, não se pode considerar caracterizada qualquer divergência jurisprudencial se a parte recorrente deixa de evidenciar minimamente a similitude de base fática entre os arestos confrontados e a solução divergente adotada em cada caso.
+Esclareça, ainda, quea indicação da Súmula nº 609/STJ, por si só, não é suficiente para se dar por caracterizado o dissídio jurisprudencial e que, nos termos da Súmula nº 518/STJ, é incabível recurso especial para apontar violação de enunciado sumular.
+Ante o exposto, não conheço do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 11% (onze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 13% (treze por cento) em favor do advogado da parte recorrida, nos termos do artigo85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Fica, assim, prejudicado o pedido de liminar.
+Publique-se.
+Intimem-se.
