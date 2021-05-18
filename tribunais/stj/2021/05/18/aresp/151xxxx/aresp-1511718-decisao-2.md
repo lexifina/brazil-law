@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto porCOMPANHIA DE GÁS DE SÃO PAULO - COMGÁScontra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo (e-STJ fls. 3011-3012):
+Apelação. Ação de indenização e Oposição. Autora contratada para realização de obras de infraestrutura para fornecimento distribuição de gás encanado. Autora (empreiteira) sub-contratou outra empresa para execução dos serviços. Sub-empreiteira cedeu o crédito pretendido na ação para a opoente. Pedido de indenização fundado na alegação de culpa da contratante. Sentença que julgou procedente a ação e oposição.
+Reforma da sentença. Contrato aditado com prorrogação do prazo para cumprimento da obrigação pactuada. Ausência de culpa da contratante. Inexistência de desequilíbrio no contrato com enriquecimento ilícito da contratante. Empreitada por preço unitário. Pagamento dos serviços executados. Pretensão de indenização por culpa ou oneração excessiva no contrato, inexistente. E da essência do contrato por preço unitário a imprecisão. Imprecisão na espécie que não caracteriza culpa. Empreiteira com experiência no ramo. Contrato com previsão de adicional por despesas extraordinárias consensualmente ajustado em aditamento ao contrato, com aumento de 25% ao valor inicial contratado. Ausência de vulnerabilidade da empreiteira, que tinha poder de negociação das cláusulas. Empreiteira que adequou a mão de obra à redução de ritmo da execução dos serviços. Ajustada a prorrogação do prazo sem alteração do valor da remuneração. Cláusula expressa estabelecendo que não seria cabível indenização. Necessidade da aquiescência da contratante para recebimento de acréscimos (art. 619 do CC).
+Oposição apresentada pela cessionária (Finaliza). Legitimidade. Presentes as condições da ação. Conhecimento da oposição. Recurso da Comgás provido para julgar improcedente a oposição.
+Recurso da opoente para aumentar o valor da indenização e a data da correção, improvido.
+Pelos mesmos fundamentos da improcedência da oposição também deve ser julgada improcedente a ação. (Ausência do crédito), Recurso da opoente improvida Agravos retidos. Improvido o agravo interposto pela COMGÁS e provido o agravo interposto pela COEST.
+Recurso de apelação da ré COMGÁS provido. Recurso de apelação da opoente FINALIZA improvido.
+Recurso de apelação da autora e oposta COEST improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 3085-3091).
+Nas razões de seu recurso especial, a parte recorrente sustenta vulneração ao art. 85, §§ 2º e 6º, do CPC. Afirma que, apesar de estar perfeitamente delineado nos autos o proveito econômico em discussão (R$ 6.206.778,29, valor utilizado na sentença, que julgou procedente a demanda condenatória proposta em face da COMGÁS), o Tribunal Estadual utilizou o valor da causa (estimado em R$1.000.000,00) como base de cálculo dos honorários sucumbenciais. Aduz que, embora correto o acórdão que deu provimento ao apelo da Comgas para julgar improcedente a ação e a oposição, equivocou-se quando da fixação da verba honorária, e, mesmo depois dos embargos de declaração opostos, manteve o valor da causa como base de cálculo e não o proveito econômico que deve prevalecer mesmo em casos de improcedência.
+Foram apresentadas contrarrazões (e-STJ fls. 3198-3203).
+Sobreveio juízo negativo de admissibilidade do Tribunal de origem (e-STJ fls. 3276-3277), o que ensejou a interposição do presente agravo.
+É o relatório. Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+A irresignação não merece prosperar.
+Inicialmente, registro que o acórdão recorrido foi publicado já sob a vigência da Lei 13.105/2015, razão por que o juízo de admissibilidade é realizado na forma deste novo édito, conforme Enunciado Administrativo nº 3/STJ.
+Com relação aos honorários de sucumbência, a Corte Estadual asseverou que (e-STJ fl. 3027):
+Em razão do princípio da sucumbência, na ação de indenização, fica a ré COEST condenada ao pagamento das custas e despesas processuais, e honorários advocatícios no importe de 12% do valor atualizado da causa, em observância ao art. 85 e incisos do CPC/2015 (art. 20, § 3º, do CPC/73). Já quanto aos autos da oposição, em obediência ao princípio da causalidade, fica a opoente FINALIZA condenada ao pagamento das custas e despesas processuais a que deu causa, e honorários advocatícios de 10% do valor atualizado da oposição, em observância ao art. 85 e incisos do CPC/2015 (art. 20, § 30 do CPC/73), valor esse a ser repartido entre ambos opostos (COMGÁS e COEST).
+No acórdão dos embargos de declaração, a pretensão da parte foi afastada (e-STJ fls. 3089):
+Inicialmente é de se afastar as alegações da Comgás. A decisão colegiada reformou a sentença de primeiro grau para julgar improcedente a ação. Diante disso o valor dos honorários, foram fixados consoante artigo 85 do Código de Processo Civil, considerando o valor atribuído causa, tanto na ação como na oposição. A pretensão de fixação dos honorários com base em proveito econômico não merece guarida.
+Nesse quadro. quanto à apontada violação ao art. 85, §§ 2º e 6º, do CPC, o recurso especial não pode ser conhecido, pois, sobre a matéria de que trata essa norma, não houve emissão de juízo pelo acórdão recorrido sob o enfoque dado pela parte, mesmo com a oposição dos embargos de declaração, porquanto a Corte Estadual se limitou-se a afirmar que a pretensão não merece guarida, fazendo incidir a orientação disposta na Súmula 211/STJ.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE DESPESAS COM REMOÇÃO E ESTADIA DE VEÍCULO EM PÁTIO PRIVADO. VEÍCULO OBJETO DE CONTRATO DE FINANCIAMENTO, COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA.INSTÂNCIAS ORDINÁRIAS ASSENTARAM QUE O RECOLHIMENTO FOI DECORRENTE DE AÇÃO MOVIDA PELO CREDOR. CREDOR RESPONSÁVEL PELAS DESPESAS DE ESTADIA. PRECEDENTES. VIOLAÇÕES DO CÓDIGO DE TRÂNSITO BRASILEIRO.INCIDÊNCIA EM CASO DE PENALIDADE POR INFRAÇÃO ADMINISTRATIVA. O QUE NÃO É O CASO DOS AUTOS. REVISÃO. SÚMULA 7/STJ.
+ ..
+3. Persistindo a omissão, como no presente caso, e sendo relevante, no seu entender, para a solução da controvérsia, deveria a parte ora recorrente ter apontado, nas razões do recurso especial, afronta ao art. 1.022 do CPC/2015, sob pena de perseverar o óbice da ausência de prequestionamento, providência a que se furtou. Incide, portanto, na espécie o óbice da Súmula 211/STJ.
+4. Não há falar-se em prequestionamento ficto porquanto a incidência do art. 1.025 do CPC, segundo a jurisprudência desta Corte Superior, exige que no recurso especial seja indicada violação ao art. 1.022 do CPC, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+ ..
+8. Agravo interno não provido.
+(AgInt no REsp 1817294/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/04/2021, DJe 26/04/2021)
+Destarte, inviável a pretensão da recorrente.
+Por fim, deixo de majorar os honorários advocatícios na forma prevista no art. 85, § 11, do CPC/2015, porquanto não houve prévia fixação na origem em desfavor do recorrente.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para, desde logo, não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AÇÃO DE INDENIZAÇÃO E OPOSIÇÃO. CONTRATO DE EMPREITADA. DISPOSITIVO SUPOSTAMENTE VIOLADO. AUSÊNCIA DE PREQUESTIONAMENTO SOB O ENFOQUE DADO PELA PARTE. SÚMULA 211/STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
