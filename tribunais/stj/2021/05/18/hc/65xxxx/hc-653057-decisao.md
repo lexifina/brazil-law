@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor deAndriele Muller dos Santos, no qual se aponta como órgão coator o Tribunal de Justiça do Rio Grande do Sul (Apelação n. 70084416395 - CNJ n. 0079998-12.2020.8.21.7000 - fls. 425/436).
+Consta do autos que o Juízo de Direito da 2ª Vara Criminal da comarca de Carazinho/RS condenou a paciente à pena de 7 anos de reclusão, a ser cumprida inicialmente em regime fechado, além do pagamento de 500 dias-multa, pela prática do crime de tráfico de drogas (92 g de maconha - fl. 426) - (Ação penal n. 009/2.19.0003216-2 - CNJ n. 0005901-96.2019.8.21.0009 - fls. 298/317).
+O Tribunal de origem, por sua vez, deu parcial provimento à apelação interposta pela defesa, a fim de reduzir a reprimenda para 6 anos de reclusão, mantidas as demais cominações da sentença.
+Pretende a defesa, em suma, quea agravante do art. 61, I, do Código Penal, corresponda a 1/6 da pena-base(fl. 5).
+Liminar indeferida (fls. 455/456),o Ministério Público Federal, na pessoa doSubprocurador-Geral da RepúblicaNívio de Freitas Silva Filho,opinou pelo não conhecimento do writ, em parecer assim ementado (fl. 462):
+HABEAS CORPUS. SUBSTITUTIVO. IMPOSSIBILIDADE.TRÁFICO DE DROGAS. DOSIMETRIA. REINCIDÊNCIA.APLICAÇÃO DE FRAÇÃO DIVERSA DE 1/6 NA SEGUNDA FASE COMPATÍVEL COM O ENTENDIMENTO DESSE STJ.
+1. Essa Corte da Cidadania entende ser admissível o aumento da reincidência em patamar diverso de 1/6, observado os critérios de razoabilidade e proporcionalidade, consoante ocorre na espécie.
+2. Ademais, segundo esse eg. STJ, "O ordenamento jurídico não estabelece um critério matemático para a majoração da pena, na segunda fase da dosimetria, tampouco as circunstâncias agravantes ou atenuantes denotam qualquer baliza objetiva nesse sentido. Apenas previu o legislador que a incidência daquelas hipóteses sempre alteraria a reprimenda, agravando-a ou atenuando-a."
+3. Parecer pelo não conhecimento do writ.
+É o relatório.
+Com efeito, na segunda fase da dosimetria, o Juízo de primeiro grau asseverou que,presentea agravante da reincidência, haja vista a acusada ostentar uma condenação transitada em julgado no Processo n. 009/2.16.0003465-8 (fl. 138), anteriormente ao fato em análise, agravo a reprimenda em 1 (um) ano, remanescendo a pena provisória em 6 (seis) anos de reclusão para cada delito (fl. 314).
+Entretanto, esta Corte tem entendido que um aumento em fração superior a 1/6, por ocasião da incidência da agravante da reincidência, exige fundamentação idônea, o que não ocorreu, no caso.
+Ora, em se tratando de atenuantes e agravantes, a lei não estabelece os percentuais de fração de diminuição e de aumento que devem ser utilizados. Em decorrência, a jurisprudência desta Corte firmou-se no sentido de que a fração de 1/6, mínima prevista para as majorantes e minorantes, deve guiar o julgador no momento da dosimetria da pena, de modo que, em situações específicas, é permitido o aumento superior a 1/6, desde que haja fundamentação concreta. 2. Na hipótese dos autos, a fração de 1/3, utilizada para agravar a pena na segunda fase da dosimetria, lastreou-se apenas no fato de pesar contra o acusado um único título condenatório transitado em julgado, caracterizador da agravante, fundamentação inidônea e que não se alinha à jurisprudência desta Corte Superior. Precedentes.(AgRg no AREsp n. 1.413.531/GO, de minha relatoria, Sexta Turma, DJe 3/5/2019 - grifo nosso).
+Nesse sentido, confiram-se:
+DIREITO PENAL. HABEAS CORPUS. ART. 157, § 2º, I E II, C.C. ART. 70, TODOS DO CÓDIGO PENAL. DOSIMETRIA. PRIMEIRA FASE.FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DE ILEGALIDADE. SEGUNDA FASE. AGRAVANTE DA REINCIDÊNCIA. QUANTUM DE AUMENTO. LIVRE CONVENCIMENTO MOTIVADO. AUSÊNCIA DE FUNDAMENTAÇÃO PARA EXASPERAÇÃO ACIMA DE 1/6. CONSTRANGIMENTO ILEGAL EVIDENCIADO.TERCEIRA FASE. MAJORANTES. QUANTUM DE ACRÉSCIMO.FUNDAMENTAÇÃO CONCRETA. ORDEM CONCEDIDA EM PARTE.
+ ..
+2. É permitido ao julgador mensurar com discricionariedade o quantum de aumento da pena a ser aplicado, desde que seja observado o princípio do livre convencimento motivado. Na espécie, o magistrado exasperou a pena em 1/5 (um quinto), no tocante à agravante da reincidência, sem apresentar qualquer peculiaridade, o que torna imprescindível a redução para fração de 1/6 (um sexto).
+ ..
+4. Ordem parcialmente concedida, a fim de reduzir a pena do paciente para 9 (nove) anos, 11 (onze) meses e 23 (vinte e três) dias de reclusão, mais 23 (vinte e três) dias-multa, mantidos os demais termos da condenação.
+(HC n. 402.812/SC, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 18/9/2017 - grifo nosso).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.INADEQUAÇÃO. ROUBO, SEQUESTRO E RESISTÊNCIA. DOSIMETRIA.PERSONALIDADE. VIOLAÇÃO DA SÚMULA 444/STJ. CULPABILIDADE.MOTIVAÇÃO CONCRETA DECLINADA. REINCIDÊNCIA. REDUÇÃO DO ÍNDICE DE INCREMENTO DA PENA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+4. Quanto ao aumento da pena intermediária, o Código Penal olvidou-se de estabelecer limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas.Assim, a jurisprudência reconhece que compete ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso, escolher a fração de aumento ou redução de pena, em observância aos princípios da razoabilidade e da proporcionalidade. Todavia, a aplicação de fração superior a 1/6 exige motivação concreta e idônea. No caso, considerando a existência de apenas um título condenatório a ser sopesado como reincidência, nada justifica o incremento da pena intermediária em 1/5, devendo, portanto, ser adotado o patamar de 1/6.
+5. Writ não conhecido. Ordem concedida, de ofício, a fim de afastar o incremento das penas-base pela personalidade e limitar o incremento pela reincidência a 1/6, determinando ao Juízo das Execuções que proceda ao novo cálculo dosimétrico.
+(HC n. 447.247/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 26/6/2020 - grifo nosso).
+Assim, estabelecida a pena-base no mínimo legal, aumento, na segunda etapa, a pena em 1/6, tendo em vista o reconhecimento da agravante da reincidência, fixando-a definitivamente em 5 anos e 10 meses de reclusão, além do pagamento de 583 dias-multa, em virtude da ausência de causas de diminuição e de aumento.
+Mantenho o regime fechado para o início do cumprimento da pena, devido à reincidência dapaciente.
+Ante o exposto, concedo a ordema fim de fixar a reprimenda dapaciente em 5 anos e 10 meses de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 583 dias-multa.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS.DOSIMETRIA. SEGUNDA FASE. REINCIDÊNCIA. AUMENTO DE 1/5. INEXISTÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. REDUÇÃO PARA 1/6. NECESSIDADE. PRECEDENTES.
+Ordem concedidanos termos do dispositivo.
