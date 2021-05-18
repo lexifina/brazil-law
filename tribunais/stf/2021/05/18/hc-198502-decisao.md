@@ -1,0 +1,17 @@
+DECISÃO
+AUTUAÇÃO – RETIFICAÇÃO.
+HABEAS CORPUS – ATO PRATICADO PELO PLENO – VERBETE Nº 606 DA SÚMULA – INADEQUAÇÃO.
+    1. O assessor Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O ministro Alexandre de Moraes, no inquérito nº 4.781/DF, determinou a prisão em flagrante do paciente, deputado federal Daniel Lúcio da Silveira, ocorrida em 16 de fevereiro último, ante os crimes dos artigos 17 (tentar mudar, com emprego de violência ou grave ameaça, a ordem, o regime vigente ou o Estado de Direito), 18 (tentar impedir, com emprego de violência ou grave ameaça, o livre exercício de qualquer dos Poderes da União ou dos Estados), 22, incisos I e IV (fazer, em público, propaganda de processos violentos ou ilegais para alteração da ordem política ou social e de qualquer dos crimes previstos nesta Lei), 23, incisos I, II e IV (incitar a subversão da ordem política ou social, a animosidade entre as Forças Armadas, destas com as classes sociais ou as instituições civis ou a prática de qualquer dos crimes versados na Lei de Segurança Nacional), e 26 (caluniar ou difamar o Presidente do Supremo Tribunal Federal) da Lei nº 7.170/1983.
+    O Relator, ministro Alexandre de Moraes, na petição nº 9.456/DF, em 14 de março de 2021, substituiu a custódia por medidas cautelares alternativas, consistentes em recolhimento domiciliar com monitoramento eletrônico, proibição de ter contato com investigados nos inquéritos nº 4.781/DF e 4.828/DF, de acessar as redes sociais YouTube, Facebook, Instagram e Twitter, de receber visitas e conceder entrevista sem prévia autorização judicial.
+    O Pleno, na Sessão de 28 de abril último, ao receber a denúncia contra o paciente, referendou a decisão, mantendo as medidas impostas – petição nº 9.456/DF.
+    O impetrante sustenta insubsistentes os fundamentos dos atos que implicaram a prisão em flagrante e a fixação de cautelares diversas.
+    Requer a expedição de alvará de soltura e o afastamento das cautelares.
+    Este habeas corpus foi distribuído a Vossa Excelência por prevenção, considerada a reclamação nº 43.701, mediante a qual apontada contrariedade, pelo ministro Alexandre de Moraes, nos inquéritos nº 4.781, 4.828 e na petição nº 8.964, ao verbete vinculante nº 14 da Súmula. Em 5 de outubro de 2020, Vossa Excelência negou seguimento à reclamação.
+    2. Ante o referendo, pelo Plenário, do pronunciamento que resultou nas medidas cautelares, retifiquem a autuação para constar, como coator, em lugar do Relator do inquérito nº 4.781, o Supremo Tribunal Federal.
+    Praticado pelo Colegiado Maior o ato atacado, não há órgão em patamar judicante superior, mostrando-se inadmissível a impetração – verbete nº 606 da Súmula do Supremo: “Não cabe habeas corpus originário para o Tribunal Pleno de decisão de Turma, ou do Plenário, proferida em habeas corpus ou no respectivo recurso”.
+    3. Extingo o processo, sem exame do mérito.
+    4. Publiquem.
+Brasília, 18 de maio de 2021.
+Ministro MARCO AURÉLIO
+Relator
