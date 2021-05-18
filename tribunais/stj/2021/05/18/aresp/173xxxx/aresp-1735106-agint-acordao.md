@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a).
+Os Srs. Ministros Moura Ribeiro, Paulo de Tarso Sanseverino (Presidente) e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Nancy Andrighi.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AGRAVO DE INSTRUMENTO.1.PEQUENA PROPRIEDADE RURAL,TRABALHADA PELA FAMÍLIA COM ESCOPO DE GARANTIRSUA SUBSISTÊNCIA. IMÓVEL DADO EM GARANTIA DE DÍVIDA. IMPENHORABILIDADE. PRECEDENTES DO STJ.2.VIOLAÇÃO AO ART. 113 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF.PREQUESTIONAMENTO IMPLÍCITO NÃO VERIFICADO. 3. AGRAVO INTERNO IMPROVIDO.
+1.Com efeito, esta Corte Superior entende que "o imóvel que se enquadra como pequena propriedade rural, indispensável à sobrevivência do agricultor e de sua família, é impenhorável, consoante disposto no parágrafo 2º do artigo 4º da Lei n. 8.009/1990, norma cogente e de ordem pública que tem por escopo a proteção do bem de família, calcado no direito fundamental à moradia" (EDcl nos EDcl no AgRg no AREsp 222.936/SP, Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/02/2014), ainda que dada pelos proprietários em garantia hipotecária para financiamento da atividade produtiva.
+2. Incidemas Súmulas282 e 356 do STF, na espécie, porquanto ausente o prequestionamento.
+2.1.O entendimento jurisprudencial desta Corte é de que se têm como prequestionados os dispositivos legais de forma implícita, ou seja, ainda que não referidos diretamente, quando o acórdão recorrido emite juízo de valor fundamentado acerca da matéria por eles regida, o que não se verifica no caso.
+3. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto porCooperativa de Crédito, Poupança e Investimento Regiões das Culturas - SICREDI das Culturas RS/MG contra decisão desta relatoria assim ementada (e-STJ, fl. 407):
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AGRAVO DE INSTRUMENTO.1.PEQUENA PROPRIEDADE RURAL,TRABALHADA PELA FAMÍLIA COM ESCOPO DE GARANTIRSUA SUBSISTÊNCIA. IMÓVEL DADO EM GARANTIA DE DÍVIDA. IMPENHORABILIDADE. PRECEDENTES DO STJ.2.VIOLAÇÃO AO ART. 113 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF.3.AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões do agravo interno (e-STJ, fls. 419-430), a agravante afirma que houve o prequestionamento do art. 113 do CC, ainda que implicitamente.
+Aduz ser aplicável à pequena propriedade rural o disposto no art. 3º, V, da Lei n. 8.009/1990, e, tendo em vista que, no caso dos autos, o imóvel foi oferecido em garantia pela entidade familiar, deveria ser reconhecida a penhorabilidade do bem.
+Pleiteia, ao final, o provimento do recurso.
+Impugnação apresentada às fls. 433-442 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AGRAVO DE INSTRUMENTO.1.PEQUENA PROPRIEDADE RURAL,TRABALHADA PELA FAMÍLIA COM ESCOPO DE GARANTIRSUA SUBSISTÊNCIA. IMÓVEL DADO EM GARANTIA DE DÍVIDA. IMPENHORABILIDADE. PRECEDENTES DO STJ.2.VIOLAÇÃO AO ART. 113 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF.PREQUESTIONAMENTO IMPLÍCITO NÃO VERIFICADO. 3. AGRAVO INTERNO IMPROVIDO.
+1.Com efeito, esta Corte Superior entende que "o imóvel que se enquadra como pequena propriedade rural, indispensável à sobrevivência do agricultor e de sua família, é impenhorável, consoante disposto no parágrafo 2º do artigo 4º da Lei n. 8.009/1990, norma cogente e de ordem pública que tem por escopo a proteção do bem de família, calcado no direito fundamental à moradia" (EDcl nos EDcl no AgRg no AREsp 222.936/SP, Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/02/2014), ainda que dada pelos proprietários em garantia hipotecária para financiamento da atividade produtiva.
+2. Incidemas Súmulas282 e 356 do STF, na espécie, porquanto ausente o prequestionamento.
+2.1.O entendimento jurisprudencial desta Corte é de que se têm como prequestionados os dispositivos legais de forma implícita, ou seja, ainda que não referidos diretamente, quando o acórdão recorrido emite juízo de valor fundamentado acerca da matéria por eles regida, o que não se verifica no caso.
+3. Agravo interno improvido.
+VOTO
+Reexaminando os autos, não se vislumbram razões para o provimento deste agravo interno.
+De início, conforme destacado na decisão que julgou o recurso especial interposto pela ora agravante, faz-se necessário consignar queesta Corte Superior entende que "o imóvel que se enquadra como pequena propriedade rural, indispensável à sobrevivência do agricultor e de sua família, é impenhorável, consoante disposto no parágrafo 2º do artigo 4º da Lei n. 8.009/1990, norma cogente e de ordem pública que tem por escopo a proteção do bem de família, calcado no direito fundamental à moradia" (EDcl nos EDcl no AgRg no AREsp 222.936/SP, Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/02/2014), ainda que dada pelos proprietários em garantia hipotecária para financiamento da atividade produtiva.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AGRAVO DE INSTRUMENTO.IMPENHORABILIDADE DE BEM IMÓVEL. PEQUENA PROPRIEDADE RURAL. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão da Corte Estadual encontra-se em harmonia com a jurisprudência desta Corte Superior, no sentido de que "o imóvel que se enquadra como pequena propriedade rural, indispensável à sobrevivência do agricultor e de sua família, é impenhorável, consoante disposto no parágrafo 2º do artigo 4º da Lei n.8.009/1990, norma cogente e de ordem pública que tem por escopo a proteção do bem de família, calcado no direito fundamental à moradia". (EDcl nos EDcl no AgRg no AREsp 222936/SP, de minha relatoria, QUARTA TURMA, DJe de 26/02/2014).
+2. As conclusões do Tribunal de origem em relação à impenhorabilidade do bem imóvel por se enquadrar no conceito de pequena propriedade rural, assim como a existência de indícios de que o bem é explorado em regime de economia familiar; não podem ser revistas por esta Corte Superior, pois demandaria necessariamente o reexame de fatos e provas dos autos, o que é vedado em sede de recurso especial, ante o óbice da Súmula 7 deste Tribunal.
+3. A jurisprudência desta Corte Superior também possui entendimento no sentido de que: a impenhorabilidade da pequena propriedade rural não exige que o débito exequendo seja oriundo da atividade produtiva, tampouco que o imóvel sirva de moradia ao executado e à sua família. (REsp 1591298/RJ, Rel. Min. MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 14/11/2017, DJe 21/11/2017).
+4. Agravo interno não provido.
+(AgInt no AREsp 1355381/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/06/2020, DJe 30/06/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DIREITO CIVIL E PROCESSUAL CIVIL. PEQUENA PROPRIEDADE RURAL OFERECIDA EM GARANTIA HIPOTECÁRIA. IMPENHORABILIDADE. AGRAVO PROVIDO. PROVIMENTO DO RECURSO ESPECIAL. RECONHECIMENTO DA IMPENHORABILIDADE DO PEQUENO IMÓVEL RURAL.
+1. A pequena propriedade rural trabalhada pela entidade familiar é impenhorável, mesmo quando oferecida em garantia hipotecária pelos respectivos proprietários. Precedentes.
+2. A impenhorabilidade da pequena propriedade rural não exige que o débito exequendo seja oriundo da atividade produtiva, tampouco que o imóvel sirva de moradia ao executado e à sua família. Precedentes.
+3. Agravo interno provido para dar provimento ao recurso especial.
+(AgInt no REsp 1177643/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/11/2019, DJe 19/12/2019)
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PEQUENA PROPRIEDADE RURAL. FUNDAMENTOS CONSTITUCIONAL E LEGAL. AUSÊNCIA DE INTERPOSIÇÃO SIMULTÂNEA DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. CARACTERIZAÇÃO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. GARANTIA HIPOTECÁRIA. CÉDULA RURAL PIGNORATÍCIA E HIPOTECÁRIA. FINANCIAMENTO DA ATIVIDADE PRODUTIVA.IMPENHORABILIDADE. ARTS. 649, INCISO VIII, DO CPC DE 1973, E 5º, INCISO XXVI, DA CF/88. PROVIMENTO.
+1. É inviável o recurso especial se a parte deixa de impugnar, pela via processual adequada, fundamento constitucional do acórdão recorrido (Súmula 126 do STJ).
+2. Recurso especial cuja pretensão demanda reexame de matéria fática da lide, o que encontra óbice na Súmula 7 do STJ.
+3. A pequena propriedade rural, trabalhada pela família, é impenhorável, ainda que dada pelos proprietários em garantia hipotecária para financiamento da atividade produtiva. Artigos 649, inciso VIII, do Código de Processo Civil anterior, e 5º, inciso XXVI, da Constituição Federal.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1176108/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/09/2018, DJe 25/09/2018)
+RECURSO ESPECIAL. DIREITO CIVIL. IMPENHORABILIDADE. PEQUENA PROPRIEDADE RURAL. REQUISITOS E ÔNUS DA PROVA.
+1. A proteção da pequena propriedade rural ganhou status Constitucional, tendo-se estabelecido, no capítulo voltado aos direitos fundamentais, que a referida propriedade, "assim definida em lei, desde que trabalhada pela família, não será objeto de penhora para pagamento de débitos decorrentes de sua atividade produtiva, dispondo a lei sobre os meios de financiar o seu desenvolvimento" (art. 5º, XXVI). Recebeu, ainda, albergue de diversos normativos infraconstitucionais, tais como: Lei nº 8.009/90, CPC/1973 e CPC/2015.
+2. O bem de família agrário é direito fundamental da família rurícola, sendo núcleo intangível - cláusula pétrea -, que restringe, justamente em razão da sua finalidade de preservação da identidade constitucional, uma garantia mínima de proteção à pequena propriedade rural, de um patrimônio mínimo necessário à manutenção e à sobrevivência da família.
+3. Para fins de proteção, a norma exige dois requisitos para negar constrição à pequena propriedade rural: i) que a área seja qualificada como pequena, nos termos legais; e ii) que a propriedade seja trabalhada pela família.
+4. É ônus do pequeno proprietário, executado, a comprovação de que o seu imóvel se enquadra nas dimensões da pequena propriedade rural.
+5. No entanto, no tocante à exigência da prova de que a referida propriedade é trabalhada pela família, há uma presunção de que esta, enquadrando-se como diminuta, nos termos da lei, será explorada pelo ente familiar, sendo decorrência natural do que normalmente se espera que aconteça no mundo real, inclusive, das regras de experiência (NCPC, art. 375).
+6. O próprio microssistema de direito agrário (Estatuto da Terra;
+Lei 8.629/1993, entre outros diplomas) entrelaça os conceitos de pequena propriedade, módulo rural e propriedade familiar, havendo uma espécie de presunção de que o pequeno imóvel rural se destinará à exploração direta pelo agricultor e sua família, haja vista que será voltado para garantir sua subsistência.
+7. Em razão da presunção juris tantum em favor do pequeno proprietário rural, transfere-se ao exequente o encargo de demonstrar que não há exploração familiar da terra, para afastar a hiperproteção da pequena propriedade rural.
+8. Recurso especial não provido.
+(REsp 1408152/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/12/2016, DJe 02/02/2017)
+Na hipótese dos autos, o acórdão recorrido asseverou que o imóvel dado em garantia hipotecária se enquadra no conceito de pequena propriedade rural, assim como, de acordo com as informações constantes nos autos, o bem é explorado em regime de economia familiar, por meio do qual o executado obtém a renda necessária para seu sustento (e-STJ, fls. 205-218).
+Assim, considerando que a decisão recorrida encontra-se em consonância com a jurisprudência desta Corte Superior, não merece reforma.
+No tocante ao art. 113 do CC, verifica-se que seu conteúdo normativo não foi objeto de apreciação pelo Tribunala quo. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incidem ao caso os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+É nesse sentido o entendimento desta Corte:
+AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO DE VIZINHANÇA. DISPOSITIVOS LEGAIS SUSCITADOS COMO VIOLADOS. HIPÓTESES EM QUE CABÍVEIS O AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. ART. 526 DO CÓDIGO DE PROCESSO CIVIL DE 1973. COMPROVANTE DE INTERPOSIÇÃO DO AGRAVO DE INSTRUMENTO. NÃO APRESENTAÇÃO. AUSÊNCIA DE PREJUÍZO. INSTAURAÇÃO DO PROCESSO PELO RITO ORDINÁRIO. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo Tribunal de origem, a questão federal suscitada. Incidem as Súmulas n. 282 e 356 do STF.
+2. A jurisprudência desta Corte firmou o entendimento no sentido de que, "o decreto da inadmissibilidade do agravo de instrumento, em razão do descumprimento da providência prevista no artigo 526 do CPC de 1973, condiciona-se à constatação do prejuízo da parte agravada" (AgInt no REsp 1.458.972/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 4.12.2018, DJe de 12.12.2018).
+3. A jurisprudência do STJ já decidiu que é possível a instauração de processo pelo rito ordinário, em hipótese de cabimento do rito sumário, desde que não ocorra prejuízo para a parte adversa.
+4. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1351630/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/08/2020, DJe 14/08/2020)
+Ressalte-se, oportunamente, que o entendimento jurisprudencial desta Corte
+é de que se têm como prequestionados os dispositivos legais de forma implícita, ou seja, ainda que não referidos diretamente, quando o acórdão recorrido emite juízo de valor fundamentado acerca da matéria por eles regida, o que não se verifica no caso.
+Desse modo, não há razões que justifiquem o acolhimento da pretensão recursal, razão pela qual permanece incólume o entendimento firmado na decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
