@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTALEMHABEAS CORPUS.ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS.DECISÃO MONOCRÁTICA AMPARADA EM PERMISSIVOS LEGAIS E REGIMENTAIS. PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA DE AFRONTA. DETRAÇÃO. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL. REGIME DIVERSO DO FECHADO. NÃO CABIMENTOAUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1."A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC n. 485.393/SC, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 28/3/2019) - (AgRg no HC n. 631.226/SC, Ministro Reynaldo Soares Da Fonseca, Quinta Turma, DJe 17/12/2020).
+2.Oagravantenão apresentouargumentos novos capazes de infirmar aqueles que alicerçaram a decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto porRafael Henrique de Oliveiracontra a decisão que denegou a ordem dohabeas corpusimpetrado em seu favor. Eis a ementa da decisão(fl. 312):
+HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. DIREITO DE RECORRER EM LIBERDADE. QUESTÃO ENFRENTADA NO RHC N. 137.562/MG. DETRAÇÃO. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL. REGIME DIVERSO DO FECHADO. NÃO CABIMENTO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
+O agravante repisa as alegações apresentadas nohabeas corpus, destacando queo julgamento monocrático do writ violou o princípio constitucional da colegialidade, pois,caso o presente HC tivesse sido levado a julgamento pelo col. Órgão colegiado, a decisão final sobre o acerto (ou não) dos argumentos deduzidos pelo Recorrente poderia ter sido em outro sentido(fl. 316).
+Requer o provimento do agravo regimental, reconsiderando-se a decisão, para que seja concedida a ordem de habeas corpus.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTALEMHABEAS CORPUS.ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS.DECISÃO MONOCRÁTICA AMPARADA EM PERMISSIVOS LEGAIS E REGIMENTAIS. PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA DE AFRONTA. DETRAÇÃO. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL. REGIME DIVERSO DO FECHADO. NÃO CABIMENTOAUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1."A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC n. 485.393/SC, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 28/3/2019) - (AgRg no HC n. 631.226/SC, Ministro Reynaldo Soares Da Fonseca, Quinta Turma, DJe 17/12/2020).
+2.Oagravantenão apresentouargumentos novos capazes de infirmar aqueles que alicerçaram a decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos.
+3. Agravo regimental improvido.
+VOTO
+A irresignação não merece guarida.
+Inicialmente, assevero que a prolação de decisão monocrática pelo ministro relator está autorizada tanto pelo Regimento Interno do Superior Tribunal de Justiça quanto pelo Código de Processo Civil.
+Além disso, temas decididos monocraticamentesempre poderão ser levados ao Colegiadopor meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental.
+Com efeito, nos termos da jurisprudência desta Corte, "A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC n. 485.393/SC, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 28/3/2019) - (AgRg no HC n. 631.226/SC, Ministro Reynaldo Soares Da Fonseca,Quinta Turma, DJe 17/12/2020).
+De outro lado, quanto ao mérito, o agravante não apresentou argumentos novoscapazes de infirmar aqueles que alicerçaram a decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos.
+Conforme ficou consignado na decisão impugnada, quanto à detração,o Tribunal a quo decidiu nos termos da jurisprudência doSuperior Tribunal de Justiça, segundo a qual, o abatimento do tempo de prisão provisória do total da condenação decretada no processo-crime é providência que competirá ao Juízo da execução após o trânsito em julgado e o início efetivo do cumprimento da pena, consoante dicção do art. 66, III, c, da Lei n. 7.210/1984. Nesse sentido:AgRg no RHC n. 139.888/SP, Ministro Felix Fischer, Quinta Turma, DJe 2/3/2021.
+Noutro ponto, observa-se que a aplicação do regime prisionalnão está, necessariamente, ligada à quantidade da pena privativa de liberdade aplicada, sendo imprescindível que se considerem as outras circunstâncias do delito praticado, o que, de fato, aconteceu no caso dos autos (fl. 19).
+Ante o exposto,nego provimentoao agravo regimental.
