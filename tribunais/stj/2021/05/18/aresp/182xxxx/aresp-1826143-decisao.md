@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO CIVIL PÚBLICA DANO MORAL COLETIVO PRETENSÃO À CONDENAÇÃO DO RÉU AO PAGAMENTO DE INDENIZAÇÃO POR DANO MORAL COLETIVO POR ESTACIONAR MOTOCICLETA EM VAGA RESERVADA A PESSOA COM DEFICIÊNCIA IMPROCEDÊNCIA MERA INFRAÇÃO DE TRÂNSITO NÃO CONFIGURA TRANSGRESSÃO DE GRANDE MAGNITUDE CAPAZ DE PROVOCAR INTENSOS SOFRIMENTOS E GRAVES PERTURBAÇÕES NA ORDEM SOCIAL DANO MORAL DIFUSO NÃO CARACTERIZADO PRECEDENTES MANTIDA A SENTENÇA DE IMPROCEDÊNCIA RECURSO NÃO PROVIDO.
+Quanto à primeira controvérsia, alega violação dos arts. 41 da Lei n. 10.741/03 e 7º da Lei n. 10.098/2000, no que concerne à ocorrência do dano moral difuso em razão do estacionamento dos veículos do recorrido de maneira indevida em vagas exclusivas para idosos e pessoas com deficiência, trazendo o(s) seguinte(s) argumento(s):
+De primeiro, cumpre ressaltar que o v. acórdão reconheceu a necessidade de proteção aos portadores de deficiência:
+Ora, não há dúvidas sobre a necessidade de se garantir ampla acessibilidade às pessoas portadoras de deficiência, máxime à luz dos princípios da igualdade e da dignidade da pessoa humana.
+ ..
+Assim, diante da violação, pelo recorrido, ao disposto nos artigos 41 da Lei 10.741/03 e 7ª da Lei 10.098/2000, tem-se o reconhecimento do ilícito praticado, nos termos do artigo 186 e 927 do Código Civil, diante do uso indevido de vaga de estacionamento destinada a pessoas com deficiência ou a pessoa idosa.
+ ..
+Nisto, temos caracterizado a ocorrência do dano moral difuso, já que o comportamento ilegal desencadeado pelo recorrido atingiu a um volume indeterminado de pessoas, que são pessoas com deficiência ou idosos que poderiam, no momento em que o veículo do recorrido se utilizava indevidamente da vaga, querer estacionar no local A conduta do recorrido agrediu, de modo totalmente injusto e intolerável, o ordenamento jurídico e os valores éticos fundamentais da sociedade em si considerada, provocando uma repulsa e indignação na consciência coletiva, que gera um dano moral (fls. 156-157).
+Quanto à segunda controvérsia, alega violação dos arts. 186 e 927 do Código Civil e do art. 1º da Lei n. 7.347/85, no que concerne ao cabimento de indenização no âmbito civil em razão da ocorrência de danos morais coletivos, trazendo o(s) seguinte(s) argumento(s):
+O fato dele já ter sido sancionado no âmbito administrativo não impede que haja a sua condenação na esfera civil diante da independência das esferas.
+ ..
+Assim, a suficiência ou não da multa aplicada no âmbito administrativo não influi no âmbito civil, por terem as sanções aspectos diferentes. A multa administrativa tem como finalidade o sancionamento pela infração de trânsito, enquanto que, o ressarcimento no âmbito civil visa à penalização do agente pela agressão a bens e valores jurídico da sociedade. No caso, a consequência da conduta praticada está diretamente atrelada ao risco de perecimento de direito fundamentais.
+ ..
+Ademais, a sanção administrativa não se mostra suficiente, o que se verifica pelo quantidade de autuações realizadas pelo órgão de trânsito (fls. 13/19). A mera multa administrativa não se mostra suficiente para a cessação de um comportamento que viola os direitos de indivíduos que já são vulneráveis e merecem proteção da sociedade (fls. 157-158).
+É, no essencial, o relatório. Decido.
+Quanto à primeira e à segunda controvérsias, na espécie, o acórdão recorrido assim decidiu:
+Entretanto, no presente caso, não configurado dano moral coletivo, o qual somente se caracteriza em situações de transgressões de grande magnitude, capazes de provocar intensos sofrimentos e graves perturbações na ordem extrapatrimonial da coletividade atingida, gerando, com isso, severa intranquilidade social.
+Logo, a mera infringência a norma de trânsito não é suficiente para sua caracterização.
+ ..
+No presente caso, consta que o réu estacionou sua motocicleta uma única vez em vaga reservada a pessoa portadora de deficiência (fls. 16 e 26).
+Assim, suficientes as penalidades impostas pelo Código de Trânsito Brasileiro multa e remoção do veículo (art. 180, inciso XX).
+Mera infração de trânsito individual não tem o condão de provocar intenso sofrimento à coletividade dos portadores de deficiência do Município. Não há falar em grave transgressão apta a provocar intranquilidade social.
+Ademais, descabido responsabilizar o réu pelas demais infrações de trânsito similares praticadas no Município.
+A tutela de direitos coletivos deve se voltar contra lesões de grande magnitude, praticadas por agentes capazes de provocar intensos prejuízos à coletividade sob pena, inclusive, de se banalizar o instituto da ação civil pública
+Em resumo, improcedente o pleito indenizatório - fls. 136-137. (Grifo no original.)
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1637445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1647046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
