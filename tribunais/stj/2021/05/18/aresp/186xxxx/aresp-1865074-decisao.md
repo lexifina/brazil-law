@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por BOA VISTA SERVIÇOS S.A. contra decisão que inadmitiu o recurso especial porincidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 308/313).
+O acórdão recorrido está assim ementado (e-STJ fl. 171):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DE CANCELAMENTO DE REGISTRO CREDITÍCIO C/C INDENIZAÇÃO POR DANOS MORAIS. ARTIGO 43, §2º DO CDC. NOTIFICAÇÃO PRÉVIA ENVIADA POR E-MAIL . INVALIDADE, NO CASO CONCRETO.CANCELAMENTO DO REGISTRO. DANOS MORAIS CONFIGURADOS.
+1. O e. STJ no julgamento do Recurso Especial 1061134/RS, assentou entendimento de que (a) os órgãos mantenedores de cadastros possuem legitimidade passiva para as ações que buscam a reparação dos danos morais e materiais decorrentes da inscrição, sem prévia notificação, do nome de devedor em seus cadastros restritivos, inclusive quando os dados utilizados para a negativação são oriundos do CCF do Banco Central ou de outros mantidos por entidades diversas e (b) a ausência de prévia comunicação ao consumidor da inscrição do seu nome em cadastros de proteção ao crédito, prevista no art. 43 , §2º do CDC; enseja o direito à compensação por danos morais, salvo quando preexista inscrição desabonadora regularmente realizada.
+2. A remessa de e-mail, no caso concreto, não serve para comprovar a realização da notificação prévia acerca da inclusão do nome da parte autora em cadastro de inadimplentes. Não há prova nos autos de que o e-mail para o qual foi remetido a correspondência eletrônica pertença à parte autora, tampouco de que ela tenha anuído com esta forma de comunicação de eventuais pendências financeiras.
+3. Danos morais presumidos (in re ipsa), prescindindo de prova de prejuízo, tendo em vista o indevido apontamento do nome da autora em cadastro de inadimplentes, causando-lhe lesão à honra e reputação. Quantum indenizatório fixado em R$ 1.000,00 (mil reais), em atenção às peculiaridades do caso concreto e aos critérios estabelecidos pela doutrina e jurisprudência.
+4. Sentença reformada para julgar procedente a demanda. Sucumbência redimensionada.
+APELAÇÃO PROVIDA.
+Os embargos de declaração foram rejeitados (e-STJ fls. 207/211).
+No especial (e-STJ fls. 217/233), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial, ofensa aos arts. 373, II, do CPC/2015 e 43, § 2º, do CDC, sustentando que "restou comprovado nos autos o cumprimento dos deveres legais pela entidade arquivista com o envio da comunicação prévia ao consumidor, para o endereço fornecido ao credor do aponte, não subsistindo motivos para a responsabilização"(e-STJ fl. 223).
+No agravo (e-STJ fls. 327/335), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela parte recorrida (e-STJ fls.351/356).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 168/169):
+No caso concreto, conforme comprovado nos autos (evento 1, certidão negativa 3), há um registro creditício em nome da parte autora, divulgado em 12/10/2018, referente à pendência financeira no valor de R$ 200,90, vencida em 10/09/2018, figurando como credor Omni S/A.
+Em defesa, a parte demandada trouxe aos autos cópia de mensagem eletrônica (e- mail) supostamente enviada para a parte autora, no dia 03/10/2018.
+Ocorre, todavia, que ainda que vivamos em uma sociedade cada vez mais tecnológica e dependente dos meios eletrônicos de comunicação - o processo eletrônico, por exemplo, demonstra bem o avanço tecnológico inexorável inclusive no âmbito do Poder Judiciário - a comunicação remetida exclusivamente por e-mail, no caso concreto, não serve para comprovar oatendimento ao disposto no artigo 43, parágrafo segundo, do Código de Defesa do Consumidor.
+Isso porque não se tem certeza de que o e-mail para o qual foi remetido a correspondência eletrônica (m_calazans@terra.com.br) pertence à parte autora (o e-mail sequer lembra o nome da parte demandante, Oraide Zottis), tampouco há prova nos autos de que esta tenha anuído com esta forma de comunicação de eventuais pendências financeiras.
+(..)
+Assim, não tendo a parte ré comprovado o envio da notificação prévia, ônus que lhe incumbia, a teor do art. 373, II, do Código de Processo Civil, mostra-se ilícita a inscrição creditícia, sendo plenamente possível o cancelamento do registro e a fixação de danos morais, os quais são presumidos no caso (in re ipsa), ou seja, prescindem de prova ou demonstração de prejuízo concreto.
+Para alterar tais fundamentos e reconhecer que ficou comprovado o envio da notificação prévia, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Em relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e demonstração da divergência, mediante cotejo analítico entre o acórdão recorrido e os paradigmas, de modo a verificar as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Deixo de majorar os honorários em favor da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, pois, na origem, a verba honorária foi estabelecida no percentual legal máximo.
+Publique-se e intimem-se.
