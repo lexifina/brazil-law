@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MARIA FRANCISCA MONTEIRO DA SILVA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Piauí (HC n. 0751861-74.2021.8.18.0000).
+A paciente teve a prisão em flagrante convertida em preventivae foi denunciada por suposta prática do delito descrito no art. 155, § 4º, IV, do Código Penal, em continuidade delitiva.
+O decreto prisional fundou-se na necessidade de garantia da ordem pública. Destacou-se que a paciente responde a outros processos pelo mesmo crime. Impetrado writ na origem, o desembargador relator indeferiu o pedido de liminar.
+A defesa alega que a paciente é tecnicamente primária, não possuindo condenações transitadas em julgado.
+Aduz que a paciente está grávidade 8 meses, sendo a gravidez de riscoem razão de pré-eclâmpsia em gestação anterior.
+Discorre sobre a pandemia de covid-19 para sustentar a desproporcionalidade da manutenção da medida de segregação cautelar.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva da paciente. Subsidiariamente, a revogação da preventiva com a aplicação de medidas cautelares diversas do cárcere.
+É o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+O entendimento pacificado pelo STJ é que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade ou de tetralogia da decisão singular. Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.
+ ..  (HC n. 486.900/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2019.)
+Assim, somente se admite, "em casos excepcionais e em circunstâncias fora do ordinário,  admite-se  o temperamento na aplicação da Súmula n. 691 do Supremo Tribunal. Essa excepcionalidade fica demonstrada nos casos em que se patenteie flagrante ilegalidade ou contrariedade a princípios constitucionais ou legais na decisão questionada" (HC n. 120.274/ES, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 20/6/2014), o que não ficou evidenciado na hipótese dos autos.
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular, porquanto, com o indeferimento do pedido de liminar formulado no habeas corpus originário, a decisão que decretara a prisão preventiva da paciente e indeferira o pedido de substituição da segregação cautelar pela domiciliar foimantida pelas razões seguintes (fl. 23):
+Em sede de Habeas Corpus, a concessão de medida liminar não está expressamente prevista no ordenamento jurídico, contudo, tem ampla aplicabilidade na jurisprudência pátria. Em sendo assim, tal possibilidade mostra-se viável, quando o pedido está amparado com prova pré-constituída que demonstre o "periculum in mora" e o "fumus boni iuris". Compulsando os autos, verifico que o pedido liminar confunde-se com o próprio mérito da impetração, haja vista o caráter satisfativo do direito buscado em juízo. Vale enfocar, nesse sentido, que é pacífico na doutrina e na jurisprudência pátria que o habeas corpus é um instrumento processual de rito especial e célere, o que o faz necessitar de prova pré-constituída, não permitindo, portanto, qualquer dilação probatória. Desta feita, não vislumbro, de uma análise prévia, os requisitos para a concessão em caráter liminar da medida pretendida, razão pela qual a indefiro, por considerar a necessidade de uma melhor elucidação dos fatos apresentados.
+Inafastável, portanto, a incidência da Súmula n. 691 do STF
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
