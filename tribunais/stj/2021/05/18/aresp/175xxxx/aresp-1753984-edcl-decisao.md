@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARCIA DA SILVA PRATA, contra decisão monocrática deste signatário, acostada às fls. 1136-1141, e-STJ.
+Em suas razões (fls. 1146-1148, e-STJ), a embargante apontou a existência de erro material e de omissão no julgado recorrido, ao argumento de que não houve pronunciamento acerca do ponto relativo à contrariedade ao art. 373, inciso I, do CPC/15.
+Sem impugnação.
+É o relatório.
+Decido.
+1. Os aclaratórios comportam acolhimento, uma vez constatado erro material e omissão no julgado.
+1.1 Com efeito, na esteira do artigo 1.022 do CPC, os embargos de declaração objetivam suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão ou acórdão.
+Nas razões dos presentes aclaratórios, a embargante deduziu a ocorrência dos seguintes erros materiais (fls. 1146-1147, e-STJ):
+"No que tange ao 1º erro material, ele encontra-se presente no segundo parágrafo da fl. 1136, que segue abaixo transcrito:
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Rio de Janeiro, assim ementado (fls. 949-950, e-STJ):
+Pelo que se depreende do texto acima transcrito, V. Exa. consigna que o Recurso Especial interposto pelo ora embargante deu-se com fulcro nas alíneas "a" e "c" do permissivo constitucional, entretanto, permissa vênia, tal afirmação deverá ser corrigida, porque a referida peça recursal teve como base apenas a alínea "a" do artigo 105, III, da Constituição Federal, não tendo sido mencionada a alínea "c".
+Outrossim, convém destacar que a decisão de fls. também possui um segundo erro material, que se encontra no primeiro parágrafo da fl. 1138, que segue abaixo transcrito:
+"No que se refere à violação ao art. 489, §1º, do CPC/15, a parte afirma que a sentença não apresentou relatório completo, o que ensejaria sua nulidade. "
+Excelência, o trecho supracitado também merece ser corrigido, e, posteriormente, analisado de forma adequada, visto que a ora embargante não mencionou na peça recursal o §1º, do artigo 489 do CPC, mas sim, o inciso I do referido artigo."
+Razão lhe assiste, no ponto.
+Dessa forma, devem ser corrigidos os erros materiais apontados. Assim, onde constou na deliberação agravada "alíneas "a" e "c" deve constar "alínea "a" (fl. 1136, e-STJ), bem como onde constou "violação ao art. 489, §1º, do CPC/15" deve constar "violação ao art. 489, inciso I, do CPC/15" (fl. 1138, e-STJ).
+No entanto, a ocorrência de tais erros materiais não modificam o julgado, pois a ocorrência destas supostas omissões foi analisada e afastada na decisão de fls. 1136-1141, e-STJ.
+1.2Com relação a omissão relativa a apontada ofensa ao art. 373 do CPC/15, verifica-se que também assiste razão a embargante, pois - de fato - a decisão singular deixou de analisar tal questão.
+No particular, incide o teor da Súmula 7/STJ, visto que a jurisprudência deste Tribunal é firme no sentido de que não é possível aferir a violação ao art. 373 do CPC/15 sem incursão no arcabouço fático probatório dos autos, o que não é cabível em sede de recurso especial.
+Nesse sentido, precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NOTA PROMISSÓRIA. VÍCIO DE CONSENTIMENTO. DOLO. ALEGADA VIOLAÇÃO AO ART. 373 DO CPC/2015. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.  ..  2. "A Jurisprudência do STJ entende que não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (REsp 1665411/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 05/09/2017, DJe 13/09/2017). 3. Agravo interno a que se nega provimento. (AgInt no AREsp 1199439/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/03/2018, DJe 09/03/2018)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. FALHA NA PRESTAÇÃO DE SERVIÇO DA CONCESSIONÁRIA DE ENERGIA ELÉTRICA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. SÚMULA 7/STJ. ÔNUS DA PROVA. ART. 333 DO CPC/73. NECESSIDADE DE REEXAME DO CONTEÚDO FÁTICO-PROBATÓRIO. AGRAVO INTERNO IMPROVIDO.  ..  IV. Na forma da jurisprudência do STJ, "não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (STJ, REsp 1.602.794/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017). Em igual sentido: STJ, AgInt no REsp 1.651.346/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 21/06/2017. V. Agravo interno improvido. (AgInt no AREsp 1145076/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 07/12/2017, DJe 15/12/2017)
+Inafastável, portanto, o teor da Súmula 7/STJ, no ponto.
+2. Do exposto, acolho os embargos de declaração, sem efeitos infringentes, tão somente para corrigir os erros materiais e suprir a omissão apontada, nos termos da fundamentação supra, a qual passa a integrar a decisão de fls. 1136-1141, e-STJ.
+Publique-se.
+Intime-se.
