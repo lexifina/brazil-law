@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a).
+Os Srs. Ministros Moura Ribeiro, Paulo de Tarso Sanseverino (Presidente) e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Nancy Andrighi.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. 1.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. DANO MORAL. CONFIGURAÇÃO. REEXAME. INCIDÊNCIA DA SÚMULA 7/STJ. 3. DANO MATERIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. 4. HONORÁRIOS SUCUMBENCIAIS. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 5. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Modificar o entendimento do Tribunal local, acerca da configuração do dano moral, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+3.A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4.Os honorários sucumbenciais foram fixados em patamar que observou os princípios da razoabilidade e da proporcionalidade, de acordo com as peculiaridades do caso. Rever o entendimento do acórdão a quo demandaria a incursão na seara probatória, o que é vedado pela Súmula 7/STJ.
+5. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto porBV FINANCEIRA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO contra decisão desta relatoria assim ementada (e-STJ, fl. 518):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AÇÃO DECLARATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS.1.RECONSIDERAÇÃO DA DECISÃO. NOVO EXAME DO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO REALIZADA.2.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.3.DANO MORAL. CONFIGURAÇÃO. REEXAME. INCIDÊNCIA DA SÚMULA 7/STJ.4.DANO MATERIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF.5.HONORÁRIOS SUCUMBENCIAIS. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.6.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL, MEDIANTE JUÍZO DE RECONSIDERAÇÃO.
+Nas razões do agravo interno (e-STJ, fls. 534-539), a agravante afirma a existência de violação aos arts. 489 e 1.022 do CPC/2015, além de aduzirque devem ser afastados os óbices das Súmulas 7/STJ, 283 e 284/STF.
+Pleiteia, ao final, a reconsideração da decisão ou o julgamento do recurso pelo Colegiado.
+Impugnação apresentada às fls. 543-548 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. 1.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. DANO MORAL. CONFIGURAÇÃO. REEXAME. INCIDÊNCIA DA SÚMULA 7/STJ. 3. DANO MATERIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. 4. HONORÁRIOS SUCUMBENCIAIS. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 5. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Modificar o entendimento do Tribunal local, acerca da configuração do dano moral, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+3.A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4.Os honorários sucumbenciais foram fixados em patamar que observou os princípios da razoabilidade e da proporcionalidade, de acordo com as peculiaridades do caso. Rever o entendimento do acórdão a quo demandaria a incursão na seara probatória, o que é vedado pela Súmula 7/STJ.
+5. Agravo interno improvido.
+VOTO
+Reexaminando os autos, não se vislumbram razões para o provimento deste agravo interno.
+De início, conforme destacado na decisão que julgou o recurso especial interposto pela ora agravante, faz-se necessárioesclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Outrossim, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+No que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Desse modo, tendo o Tribunal de origem motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte estadual não se pronunciou sobre o pleito da ora insurgente, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão da parte.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. LEGITIMIDADE PASSIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. TÍTULO DE CRÉDITO.PROTESTO INDEVIDO. DANO MORAL IN RE IPSA. SÚMULA N. 83 DO STJ.DECISÃO MANTIDA.
+1. A Corte"a quo" pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em princípio, poderiam infirmar a conclusão adotada pelo Juízo, não havendo falar em ausência de prestação jurisdicional. O julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza negativa de prestação jurisdicional, tampouco viola os arts. 1.022 e 489 do CPC/2015.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ). O Tribunal de origem asseverou que: (i) o título levado a apontamento estava quitado, (ii) a nota fiscal estava em nome da recorrente, (iii) apesar da cessão do crédito a terceiros, a duplicata foi emitida após tal contratação, e (iv) a certidão de protesto comprova que a recorrente não é parte estranha à lide.
+Desse modo, concluiu a Corte local que a "inserção, de forma indevida, gera automaticamente o constrangimento ao consumidor, pois atribui a pecha de mau pagador àquele que, até prova em contrário, honra seus compromissos financeiros e negociais pontualmente".
+Alterar esse entendimento demandaria o reexame das provas, o que é vedado em recurso especial.
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, na hipótese de protesto indevido de título ou de inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa - independentemente de prova. Aplicação da Súmula n. 83 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1679481/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020)
+No mais, relativamente à configuração dos danos morais, o TJMGassim consignou (e-STJ, fls. 373-379, sem grifo no original):
+Analisando os autos, verifica-se ter o apelado ajuizado esta ação declaratória de inexistência de débito c/c indenização por danos morais ao argumento de o apelante ter indevidamente mantido o seu nome nos cadastros do SCR - Sistema de Informação de Crédito do Banco Central, mesmo após ter quitado o contrato de financiamento celebrado entre as partes.
+Conforme demonstrado às if. 39/191 dos autos, o apelado, antes desta ação, ajuizou ação revisional de contrato bancário com pedido liminar contra o apelante, alegando abusividade na cobrança de alguns encargos contratuais, e requereu o depósito judicial das parcelas do financiamento no valor de R$856,89, o que foi deferido pelo juiz Ricardo Torres de Oliveira, que também determinou o sobrestamento dos efeitos da mora (f. 71).
+Posteriormente, as partes na referida ação revisional celebraram acordo (if. 118/121), por meio do qual pactuaram quitação total do financiamento, com sentença homologatória às fls. 123, e levantamento do alvará em favor do banco (credor fiduciário) à f. 154, em 2310112014.
+Entretanto, apesar de ter ocorrido a quitação do contrato, o apelante manteve o nome do apelado no SCR por pelo menos mais de 9 meses, debalde a intimação do juiz para proceder á respectiva regularização(f. 182).
+Assim, passa-se, pois, à verificação se a manutenção do nome do apelado no SCR configurou o dano moral passível de compensação.
+Com relação ao SCR - Sistema de Informação de Crédito do Banco Central o STJ já teve a oportunidade de se manifestar a respeito e fez as seguintes considerações:
+ ..
+Dessa forma, o SCR possui natureza de órgão de cadastro de inadimplentes.
+Também entende o STJ ser a inscrição ou a manutenção indevida no Cadastro do SCR geradora de danos morais in re ipsa, nos termos da ementa abaixo mencionada:
+ ..
+O apelante não Contesta a afirmação do apelado no sentido de ter o nome deste permanecido por mais de 9 meses indevidamente inscrito no SCR, argumentando, apenas, que pelo fato de aludido cadastro não consistir em cadastro de inadimplentes, não houve prejuízo ao apelado.
+Contudo, nos termos do exposto nesta fundamentação, segundo o entendimento do STJ, o SCR também é considerado um cadastro restritivo de crédito, motivo pelo qual a inscrição ou manutenção indevida do nome do consumidor configura o dano moral Inre ipsa, ou seja, prescinde da comprovação do dano efetivo, por ser ele presumido.
+Caracterizada, portanto, situação ensejadora do dano moral, passa-se à análise do valor fixado na sentença.
+Dessarte, depreende-se que o Colegiado estadualjulgou a lide com base no substrato fático-probatório dos autos - configuração do dano moral em virtude da manutenção do nome da parte recorrida no SCR. A revisão do julgado importa necessariamente no reexame de provas, o que é vedado em âmbito de recurso especial, ante o óbice do enunciado n. 7 da Súmula deste Tribunal.
+Além disso, concernente ao dano material, o Tribunala quoassim se manifestou (e-STJ, fls. 381-382, sem grifo no original):
+Com relação aos danos materiais, verifica-se ter o juiz singular condenado o apelante ao pagamento de R$66.470,00 referente às despesas feitas pelo apelado para alugar um veículo e poder prestar o serviço de taxista, tendo em vista não poder adquirir o seu próprio veículo em decorrência de estar o seu nome inscrito no SCR.
+Ao recorrer, o apelante fez as seguintes Considerações acerca dos danos materiais:
+ ..
+Observa-se, pois, tero apelante feito alegações genéricas acerca da ausência de danos materiais, não impugnando as provas utilizadas pelo juiz singular para reconhecer a existência dos referidos danos, quais sejam, o contrato de locação de veículo (ff. 31/32) e os recibos dos valores pagos pelo aluguel (if. 33137, 2531262 e 2781282).
+Ademais, ao contestar a petição inicial o apelante não requereu a limitação dos danos materiais à data de 13/09/2014, o que caracteriza nítida inovação recursal.
+Inclusive, ao contrário do mencionado pelo apelante, o juiz singular em nenhum momento considerou o dia 13/09/2014 como sendo o termo final da comprovação de manutenção indevida do nome do apelante no SCR, afirmando apenas que pelo menos até a data da propositura da ação, ou seja, 13/09/2014, o nome do apelado permanecia no SCR.
+Assim, deverá ser mantida a indenização referente aos danos materiais.
+Com efeito, atentando-se ao argumento trazido pela insurgente e aos fundamentos destacados e adotados pela Corte estadual, verifica-se que estes não foram objetos de impugnação específica nas razões do recurso especial, e a manutenção de argumentos que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+Por fim, concernente à pretensão de redução da monta relativa à verba honorária arbitrada nas instâncias ordinárias, também não há como suplantar a Súmula 7/STJ.
+Convém ressaltar que, de acordo com a orientação deste Tribunal de Uniformização, em virtude do quantitativo da verba honorária decorrer de uma análise específica dos fatos ocorridos durante a marcha processual, na qual o julgador avalia o trabalho desenvolvido pelo patrono e a complexidade da causa, a fim de fixar o percentual que considera correto, não cabe ao Superior Tribunal de Justiça revisar a quantia estabelecida, exceto quando constatada sua manifesta insignificância ou excessividade apta a afastar o referido óbice.
+Vejam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER.AÇÃO INDENIZATÓRIA POR DANOS PATRIMONIAIS E MORAIS. REDUÇÃO DO QUANTUM INDENIZATÓRIO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Rever as conclusões do acórdão recorrido no sentido de que a agravante tem obrigação de efetuar a transferência da propriedade do veículo, objeto da ação ajuizada na origem, incluindo o pagamento de eventuais débitos pendentes; e acolher a pretensão recursal no tocante à ilegitimidade passiva da agravante, impossibilidade do cumprimento da obrigação, ausência de comprovação dos danos morais e alegada inviabilidade do valor arbitrado por danos extrapatrimoniais; demandaria, necessariamente, reexame do acervo fático-probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+2. O STJ firmou orientação no sentido de que somente é admissível o exame do valor fixado a título de indenização por danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade, o que na espécie, não ocorreu.
+3. Em sede de recurso especial, não é possível rever os critérios adotados pelo julgador na fixação dos honorários advocatícios, por importar o reexame de matéria fático-probatória. A incidência da Súmula 7/STJ somente pode ser afastada quando o valor fixado for exorbitante ou irrisório, o que não ocorre no caso dos autos.
+4. Agravo interno não provido.
+(AgInt no AREsp 1551393/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/06/2020, DJe 30/06/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE DISTRIBUIÇÃO DE BEBIDAS CUMULADA COM PERDAS E DANOS. ONEROSIDADE EXCESSIVA.
+ ..
+7. A revisão de indenização por danos morais só é possível em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade e da proporcionalidade. Ausentes tais hipóteses, incide o óbice da Súmula 7 do STJ, a impedir o conhecimento do recurso.
+8. Do mesmo modo, "a revisão dos honorários advocatícios, salvo se excessivos ou ínfimos, não pode ocorrer na instância especial, pois envolve reexame de circunstâncias fáticas" (AgInt no AREsp 1.009.704/SC, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 09.03.2017, DJe 24.03.2017).
+9. Agravo interno não provido.
+(AgInt no REsp 1.334.294/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 4/5/2020, DJe 12/5/2020)
+Desse modo, não há razões que justifiquem o acolhimento da pretensão recursal, razão pela qual permanece incólume o entendimento firmado na decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
