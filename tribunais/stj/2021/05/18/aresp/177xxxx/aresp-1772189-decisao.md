@@ -1,0 +1,34 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por MARCELO TOMAZINI, contra decisão do Tribunal de Justiça de São Pauloque não admitiu recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO. CONSÓRCIO DE IMÓVEL. Pedido de danos materiais e morais provocados pela má prestação dos serviços bancários. Inadimplemento contratual por culpa da ré, Administradora de Consórcios, reconhecida em sentença transitada em julgado. Danos morais. Em regra o inadimplemento contratual não dá azo a padecimento moral. Situação dos autos peculiar. Consorciado contemplado mediante lanço vencedor que, todavia, não obteve a carta de crédito por entrave tecnológico. Valores que somente vieram a ser pagos após acionamento do Poder Judiciário. Crédito que seria utilizado para aquisição de imóvel. Consorciado que, mesmo contemplado, foi obrigado a contrair outro financiamento para satisfazer a sua pretensão. Situação concreta que extrapola da esfera do mero aborrecimento. Danos morais reconhecidos. Indenização arbitrada em R$ 15.000,00. Honorários advocatícios contratuais. Verba corretamente não reconhecida. Jurisprudência consolidada do egrégio Superior Tribunal de Justiça. Ação julgada improcedente. Sentença reformada em parte.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos artigos 389, 395 e 404 do CC,ao argumento de que faz jusao recebimento dos valores desembolsados a título de honoráriosadvocatícios. Apontou, ainda, a ocorrência de dissídio jurisprudencial.Por fim, requereu o provimento do presente recurso especial.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+O recurso não merece guarida.
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a mera contratação de advogado para defesa judicial de interesses da parte não enseja, por si só, dano material passível de indenização, porque inerente ao exercício regular dos direitos constitucionais de contraditório, ampla defesa e acesso à Justiça.
+A propósito:
+RECURSOS ESPECIAIS. PROCESSUAL CIVIL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDO INDENIZATÓRIO. PARCERIA AGRÍCOLA. LUCROS CESSANTES. COMPROVAÇÃO. AUSÊNCIA. DEVER DE FUNDAMENTAÇÃO. ART. 489, § 1º, IV, DO CPC/2015. OBSERVÂNCIA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. RESSARCIMENTO. INADMISSIBILIDADE. GRAU DE SUCUMBÊNCIA.AFERIÇÃO. MATÉRIA FÁTICA. REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1.  ..
+5. Os custos decorrentes da contratação de advogados não são indenizáveis, sob pena de atribuir ilicitude a qualquer pretensão questionada judicialmente. Ademais, a atuação judicial na defesa de interesses das partes é inerente ao exercício regular de direitos constitucionais, como o contraditório, a ampla defesa e o amplo acesso à Justiça.
+6. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser inviável, em recurso especial, a revisão do grau de sucumbência em que autor e réu saíram vencidos na demanda, porquanto implicaria análise do conteúdo fático-probatório. Incidência da Súmula nº 7/STJ.
+7. Recursos especiais parcialmente conhecidos e, nessa extensão, não providos.
+(REsp 1837453/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/03/2020, DJe 13/03/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO REQUERENTE.
+1. As questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões, portanto, deve ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15. 2. No caso concreto, o Tribunal de origem examinou os elementos de convicção dos autos, concluindo pela não ocorrência do dano moral. Alterar tal conclusão demandaria o reexame fático-probatório dos autos, providência vedada em sede de recurso especial, em razão do óbice da Súmula 7/STJ. Precedentes.
+3. A contratação de advogados para defesa judicial de interesses da parte não enseja, por si só, dano material passível de indenização, porque inerente ao exercício regular dos direitos constitucionais de contraditório, ampla defesa e acesso à Justiça. Incidência da Súmula 83 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1315158/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/10/2019, DJe 23/10/2019)
+EMBARGOS DE DIVERGÊNCIA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS DE ADVOGADO DO RECLAMANTE, COBRADOS AO RECLAMADO PARA RECLAMAÇÃO TRABALHISTA JULGADA PROCEDENTE. 1) COMPETÊNCIA DA JUSTIÇA DO TRABALHO, A DESPEITO DE ORIENTAÇÃO ANTERIOR À EMENDA CONSTITUCIONAL 45/2004, MAS EMBARGOS CONHECIDOS DADA A PECULIARIDADE DOS EMBARGOS DE DIVERGÊNCIA; 2) INEXISTÊNCIA DE DEVER DE INDENIZAR, NO ÂMBITO GERAL DO DIREITO COMUM, RESSALVADA INTERPRETAÇÃO NO ÂMBITO DA JUSTIÇA DO TRABALHO; 3) IMPOSSIBILIDADE DE ALTERAÇÃO DO JULGADO PARADIGMA; 4) EMBARGOS DE DIVERGÊNCIA IMPROVIDOS.
+1.- Embora, após a Emenda Constitucional 45/2004, competente a Justiça do Trabalho para dirimir questões atinentes a cobrança ao Reclamado de honorários advocatícios contratuais despendidos pelo Reclamante para a reclamação trabalhista, conhece-se dos presentes Embargos de Divergência, porque somente ao próprio Superior Tribunal de Justiça compete dirimir divergência entre suas próprias Turmas.
+2.- No âmbito da Justiça comum, impossível superar a orientação já antes firmada por este Tribunal, no sentido do descabimento da cobrança ao Reclamado de honorários advocatícios contratados pelo Reclamante: para a Reclamação Trabalhista, porque o contrário significaria o reconhecimento da sucumbência por via oblíqua e poderia levar a julgamentos contraditórios a respeito do mesmo fato do patrocínio advocatício na Justiça do Trabalho.
+3.- Manutenção do Acórdão Embargado, que julgou improcedente ação de cobrança de honorários contratuais ao Reclamado, a despeito da subsistência do julgamento paradigma em sentido diverso, pois não sujeito à devolução recursal nestes Embargos de Divergência.
+4.- Embargos de Divergência improvidos.(EREsp 1.155.527/MG,Rel. Ministro Sidnei Beneti, Segunda Seção, julgado em 13.06.2012, DJe 28.06.2012)
+Dessa forma, verifica-se que o entendimento adotado pelo Tribunal de origem está em conformidade com a jurisprudência do STJ.
+Deixo de majorar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, porquanto não fixados na origem.
+Ante o exposto, conheço do agravo para negar seguimento ao recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. CONTRATAÇÃO DE ADVOGADO. DANO MATERIAL NÃO CONFIGURADO. JURISPRUDÊNCIA DO STJ. ACÓRDÃO RECORRIDO EM HARMONIA.
+AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
