@@ -1,0 +1,78 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOAO CAMPOS GRANADO à decisão de que determinou a devolução dos autos ao Tribunal de origem, com a devida baixa, para que fosse observada a sistemática dos recursos repetitivos, nos termos dos arts. 1.030 e 1.040 do CPC.
+Sustenta que a matéria versada no Tema 46, já julgado, não possui relação com o objeto do recurso especial onde se discute a intempestividade da apelação, trazida em contrarrazões, e omissão no acórdão local a respeito da redução da condenação para apenas um contrato.
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contraditar estes aclaratórios.
+É o relatório. Decido.
+Assiste razão à parte embargante. A matéria discutida no Tema n. 46 não possui relevância nos autos, ou seja, não se está no recurso especial esse ponto.
+Ante o exposto, acolho os embargos de declaração, conferindo efeitos infringentes, para tornar sem efeito a decisão embargada e passo, a seguir, ao exame da controvérsia.
+Cuida-se de recurso especial interposto por JOAO CAMPOS GRANADO, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação Cível. Procedência do pedido pagamento da diferença entre as ações recebidas pelo autor e as a que ele efetivamente teria direito se considerado o valor patrimonial das ações nas datas em que celebrados os contratos. Inconformismo. Rejeitadas as preliminares de inépcia e intempestividade. Limitação da abrangência da condenação considerando o valor m de mercado de cada ação referido, corrigido segundo a tabela do TJSP de dezembro de 1996 até o efetivo pagamento e contados juros moratórios de um por cento ao mês desde a citação. Recurso parcialmente procedente, mantida no mais a r. sentença recorrida pelos fundamentos ali deduzidos.
+Embargos de declaração opostos e rejeitados.
+Novos aclaratórios opostos e novamente rejeitados (fls 909/913, e-STJ).
+Nas razões recursais, o recorrente aponta, além de divergência jurisprudencial, ofensa aos artigos:
+i) 506, 508 e 538, todos do CPC/73, e inobservância da Súmula 418 do STJ, porquanto seria intempestiva a apelação interposta antes da publicação dos embargos de declaração parcialmente acolhidos sem posterior ratificação;
+ii) 535 do CPC/73, por negativa de prestação jurisdicional;
+iii) 557 do CPC/73, na medida em que o relator tem o dever de negar seguimento a recurso manifestamente inadmissível ou em confronto com Súmula como ocorreu no presente caso;
+iv) 475-B do CPC/73, pois "se os documentos não fossem suficientes para provar o direito do autor o MM. Juízo, nos termos do artigo 284 do CPC, determinaria a complementação no prazo de 10 (dez) dias. Por outro lado, o MM. Juízo permitiu a comprovação da quantidade de contratos no cumprimento da sentença (artigo 475-13, §§ 1.0 e 2.0 do CPC). Não houve motivo para desconsiderar isso."(fls. 957, e-STJ);
+v) 6º , incisos VII e VIII, do CDC; 355 e 358, incisos I, II e III, do CPC/73 e 100, § 1º, da Lei 6.404/76, porquanto o fato da recorrida não ter exibido os documentos comuns não pode prejudicar o direito do ora recorrente.
+Contrarrazões às fls. 1322/1343, e-STJ.
+É o relatório. Decido.
+1. No que diz respeito à alegada violação ao art. 535 do CPC/73, observa-se que a parte recorrente alegou genericamente que o acórdão hostilizado o teria afrontado, sem, contudo, demonstrar de forma clara como o decisum teria incorrido em omissão, contradição ou obscuridade, o que atrai, por analogia, o óbice da Súmula 284 do STF.
+Dentre os vários precedentes a respeito, destaca-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. EXTINÇÃO SEM JULGAMENTO DE MÉRITO. 1. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. 2. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 3. JULGAMENTO ULTRA PETITA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI SUPOSTAMENTE VIOLADO. SÚMULA N. 284 DO STF. 4. ALEGADA OFENSA DE ENUNCIADO DE SÚMULA. SÚMULA 518/STJ. 5. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 6. LITIGÂNCIA DE MÁ-FÉ. PECULIARIDADES DO CASO CONCRETO. FUNDAMENTAÇÃO ADEQUADA. REEXAME DE FATOS E PROVAS INVIÁVEL. SÚMULA 7/STJ. 7. AGRAVO IMPROVIDO.
+1. É evidente a inadequação da via recursal eleita para alegação de ofensa a dispositivo constitucional, pois a matéria é de competência do STF. 2. Em relação à negativa de prestação jurisdicional, verifica-se que a parte ora recorrente se limitou a defender genericamente a ocorrência de violação do artigo 535 do CPC/1973, sem especificar concretamente sobre quais questões teria a Corte de origem incorrido nos vícios de omissão, contradição ou obscuridade, de maneira que se revela inadmissível o recurso especial no ponto, ante a deficiência em sua fundamentação, conforme jurisprudência consolidada na Súmula 284 do Supremo Tribunal Federal, aplicada analogicamente pelo STJ.
+ ..
+7. Agravo interno improvido.
+(AgInt no AREsp 1200579/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/04/2018, DJe 18/04/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS MONITÓRIOS. IMPUGNAÇÃO. INTEMPESTIVIDADE. AUSÊNCIA DE NULIDADE. ALEGAÇÃO DE QUITAÇÃO DA QUITA POR DAÇÃO EM PAGAMENTO DE BENS IMÓVEIS. AUSÊNCIA DE PROVA DE QUITAÇÃO. ESCRITURA NÃO OUTORGADA. INCIDÊNCIA DA SÚMULA 7 DO STJ. ART. 535 DO CPC/1973. AUSÊNCIA DE OMISSÕES. FALTA DE IMPUGNAÇÃO OBJETA E DIRETA AO FUNDAMENTO DO ACÓRDÃO. SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se pode conhecer da apontada violação do art. 535, II, do antigo CPC/1973, pois as alegações que a fundamentaram são genéricas, sem discriminação específica dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais teria incorrido o acórdão impugnado. Incide, no caso, por analogia, a Súmula 284/STF.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp 995.819/BA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/02/2017, DJe 01/03/2017)
+2. A Corte Especial do STJ, na Questão de Ordem suscitada no REsp. 1.129.215/DF, sob a relatoria do Ministro Luis Felipe Salomão, fixou que "a única interpretação cabível para o enunciado da Súmula 418 do STJ é aquela que prevê o ônus da ratificação do recurso interposto na pendência de embargos declaratórios apenas quando houver alteração na conclusão do julgamento anterior".
+No presente caso, em que pese o acolhimento dos aclaratórios, os mesmos foram sem efeitos infringentes, mantendo o resultado do julgado.
+Dessa forma, não há falar em necessidade de ratificação da apelação após o julgamento dos embargos de declaração.
+Nesse sentido, o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE DE BEM IMÓVEL. INTEMPESTIVIDADE DA APELAÇÃO RECONHECIDA PELO TRIBUNAL LOCAL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 418/STJ. NÃO RATIFICAÇÃO DA APELAÇÃO. EMBARGOS DECLARATÓRIOS QUE NÃO MODIFICARAM O CONTEÚDO DA SENTENÇA. REFORMA DO ACÓRDÃO RECORRIDO. APLICAÇÃO DO DIREITO À ESPÉCIE. ART. 257 DO RISTJ. POSSIBILIDADE. NÃO INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Efetivamente, a jurisprudência hodierna desta Casa dispõe no sentido de que só se considera intempestiva a apelação interposta antes da publicação do acórdão dos embargos de declaração, aplicando-se, por analogia, a Súmula 418/STJ, se, da oposição dos aclaratórios, houver modificação no julgado embargado. Precedentes.
+No caso, era desnecessária a ratificação do apelo, uma vez que o acolhimento dos declaratórios não teve o condão de modificar o conteúdo da sentença que foi objeto de irresignação na apelação.
+2. A aplicação do direito à espécie (art. 257 do RISTJ) não demanda o reexame de fatos e provas, afastando a aplicabilidade da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AgInt no REsp 1598191/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/11/2016, DJe 24/11/2016)
+3. Consoante a jurisprudência deste STJ, a legislação processual (art 557 do CPC/73, equivalente ao art. 932 do CPC/15, c/c a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplica a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 932 DO CPC. AUSÊNCIA DE IRREGULARIDADE. CONTRADIÇÃO NO ACÓRDÃO RECORRIDO NÃO EVIDENCIADA. PRECLUSÃO PRO JUDICATO EM MATÉRIA PROBATÓRIA.
+IMPOSSIBILIDADE. LIVRE CONVENCIMENTO MOTIVADO.
+1. Não há qualquer irregularidade no acórdão recorrido quanto à possibilidade de julgamento monocrático, visto que esta Corte Superior possui firme jurisprudência no sentido de que a legislação processual (art. 557 do CPC/1973, equivalente ao art. 932 do CPC/2015, combinados com a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal, sendo certo, ademais, que a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+2. A contradição, apta a ensejar a oposição dos declaratórios, é aquela contida no próprio decisum embargado, isto é, nos tópicos internos da decisão, e não em cotejo com leis, decisões e outros acórdãos lavrados pelas instâncias ordinárias.
+3. Esta Corte Superior perfilha o entendimento no sentido de que não ocorre a preclusão pro judicato em matéria probatória. Significa dizer que os princípios da busca da verdade e do livre convencimento motivado afastam o sistema da preclusão dos poderes instrutórios do juiz, sendo possível ao magistrado determinar a produção das provas essenciais à composição da lide.
+4. Cabe ao magistrado, como destinatário final, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da prova necessária à formação do seu convencimento.
+5. Agravo interno não provido.
+(AgInt no AREsp 1525948/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/03/2021, DJe 25/03/2021)
+4. Por fim, quanto aos arts 475-B do CPC/73, 6º , incisos VII e VIII, do CDC; 355 e 358, incisos I, II e III, do CPC/73 e 100, § 1º, da Lei 6.404/76, não houve efetivo debate acerca deles, faltando-lhes o necessário prequestionamento. Incidência da Súmula 211 do STJ no caso.
+Outrossim, ainda que assim não fosse, com relação a comprovação de documentos e contratos, a Corte local, quando do voto vencedor, assim se manifestou:
+Quanto ao mérito propriamente dito, a restrição adotada pelo Colegiado, à qual aderiu o E. Relator sorteado após iniciada a divergência quanto à extensão do provimento ao recurso diz respeito ao fato de que a peça exordial "está instruída exclusivamente com contrato de participação financeira em investimento de fls. 93/100, sendo essa a razão pela qual há que se dar provimento ao recurso para limitar a abrangência da condenação no valor correspondente a 7 527 ações preferenciais, considerando o valor de mercado de cada "ação em R$ 0,. 32264 corrigido segundo a tabela do TJSP de dezembro de 19996 até o efetivo pagamento e contados juros moratórios de um por cento ao mês desde a citação; tudo enfim á tomando-se como precedente o que restou ser julgado em face de Otávio Augusto Filippo Lopes ( doc. a fls. 89 ).
+Nas razões do recurso especial, a insurgente limita-se a sustentar que a não exibição dos documentos prejudica a parte recorrente, não ser possível desconsiderar-se o direito do autor quanto aos outros contratos, bem como a necessidade de prazo para complementação de documentos, encontram-se dissociadas dos fundamentos do acórdão.
+Infere-se, assim, a dissonância entre as razões do apelo extremo e a fundamentação utilizada na decisão impugnada, fazendo incidir os óbices das Súmulas 283 e 284/STF. Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DO EMBARGANTE.
+1. Admissível o agravo interno, apesar de não infirmar a totalidade da decisão monocrática recorrida, pois a jurisprudência do STJ é assente no sentido de que a impugnação a capítulos autônomos da decisão apenas induz à preclusão das matérias não discutidas.
+2. Consoante a jurisprudência deste Tribunal Superior, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte, assim, não há violação ao artigo 489 do CPC/15 quando a Corte de origem decide de modo fundamentado, como ocorre na hipótese, Precedentes.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe a aplicação das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+4. A revisão do aresto impugnado no sentido pretendido pelo recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre a insuficiência de provas quanto ao bem ser o único da família ou servi-lhe de residência ou, ainda, de subsídio para essa. Incidência da Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1215038/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/08/2018, DJe 21/08/2018)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284 DO STF. RECURSO NÃO PROVIDO.
+1. A apresentação, no recurso especial, de razões dissociadas dos fundamentos do acórdão recorrido impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp 590.018/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 10/04/2018, DJe 16/04/2018)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE IMPUGNAÇÃO. FUNDAMENTOS DO JULGADO ATACADO. RAZÕES RECURSAIS. DISSOCIAÇÃO. SÚMULAS NºS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, CPC/2015. INAPLICABILIDADE. CÓDIGO DE PROCESSO CIVIL DE 2015. VIGÊNCIA. DECISÃO AGRAVADA. PUBLICAÇÃO ANTERIOR.
+1. A ausência de impugnação dos fundamentos do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula nº 283 do Supremo Tribunal Federal.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso estão dissociadas do que decidido no acórdão recorrido. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+3. O Enunciado Administrativo nº 7 do Superior Tribunal de Justiça deliberou que somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do artigo 85, § 11, do Código de Processo Civil de 2015.
+4. Agravo interno não provido.
+(AgInt no AREsp 860.337/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/03/2017, DJe 28/03/2017)  grifou-se
+Ao final, não se conhece dos embargos de declaração de fls. 1406/1407 e 1418/1429, e-STJ, face ao princípio da unirrecorribilidade.
+5. Ante o exposto, acolho os embargos de declaração com efeitos infringentes, para reconsiderar a deliberação anterior e, de plano, negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
