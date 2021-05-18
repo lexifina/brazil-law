@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 458/467).
+O acórdão recorrido está assim ementado (e-STJ fl. 321):
+AGRAVO DE INSTRUMENTO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. BRASIL TELECOM S/A. CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. LEVANTAMENTO DE VALORES. No julgamento do agravo de instrumento nº 0034576-58.2016.8.9.19.0000 interposto pela Brasil Telecom em face da decisão que determinou a expedição de alvará dos valores depositados antes de 21.06.2016, assim como, no julgamento dos posteriores embargos de declaração, a 8ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro decidiu que inexiste óbice para o levantamento dos valores quando o depósito judicial ou o bloqueio tenha sido realizado anteriormente ao recebimento da recuperação (21.06.2016) e o trânsito em julgado ou a preclusão da impugnação tenha ocorrido antes da referida data. No caso em exame, o bloqueio judicial foi realizado em 29.07.2014, e a impugnação ao cumprimento de sentença transitou em julgado em 11.02.2019. Em relação ao valor incontroverso, considerando que bloqueio judicial foi realizado antes do recebimento da recuperação judicial, assim como, que a ré, na impugnação ao cumprimento de sentença, reconheceu como devido o valor de R$ 29.717,14, revendo posicionamento anterior, o levantamento deste é possível nos autos, diante da preclusão.
+AGRAVO DE INSTRUMENTO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 369/376).
+No especial (e-STJ fls. 386/415), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial, ofensa ao art. 1.022 do CPC/2015 por negativa de prestação jurisdicional.
+Apontou afronta aos arts. 6º, § 2º, 47,49 e 59 da Lei n. 11.101/2005, sustentando, em síntese, a impossibilidade de liberação de valores, pois os créditos devem ser submetidos ao plano de recuperação judicial e à violação da competência exclusiva do juízo recuperacional para decidir acerca da concursalidade dos créditos.
+No agravo (e-STJ fls. 480/494), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela parte recorrida (e-STJ fls. 509/514).
+É o relatório.
+Decido.
+Não há falar em ofensa ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Quanto à liberação de valores, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 325):
+Portanto, inexiste óbice para o levantamento dos valores quando o depósito judicial ou o bloqueio tenha sido realizado anteriormente ao recebimento da recuperação (21.06.2016) e o trânsito em julgado ou a preclusão da impugnação tenha ocorrido antes da referida data.
+No caso em exame, o bloqueio judicial foi realizado em 29.07.2014, e a impugnação ao cumprimento de sentença transitou em julgado em 11.02.2019.
+Considerando que bloqueio judicial foi realizado antes do recebimento da recuperação judicial, assim como, que a ré, na impugnação ao cumprimento de sentença das fls. 02-17, reconheceu como devido o valor de R$ 29.717,14, revendo posicionamento anterior, o levantamento deste é possível nos autos, diante da preclusão.
+Para alterar tais fundamentos e reconhecer a impossibilidade de liberação dos valores, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+A tese relativa à competência exclusiva do juízo recuperacional não foi suscitada pela parte quando da oposição dos embargos de declaração nas instâncias de origem, razão pela qual a Corte local não estava obrigada a se manifestar sobre o tema.
+Portanto, é evidente a incidência da Súmula n. 211/STJ, por falta de prequestionamento.
+Em relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e demonstração da divergência, mediante cotejo analítico entre o acórdão recorrido e os paradigmas, de modo a verificar as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
