@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da ausência de violação dos dispositivos legais apontados (e-STJ fl. 356).
+O acórdão recorrido está assim ementado (e-STJ fl. 330):
+COMPRA E VENDA - Sentença de prescrição - APELO DA AUTORA - Pretensão à reforma do julgado, para o fim de ser acolhido seu pedido de cobrança por obras de infraestrutura - Inadmissibilidade - Fluência do prazo prescricional que não se encontrava suspensa - Hipótese elencada pela autora que não arrolada nos artigos de 197 a 300, CC/2002 ou artigos de 168 a 171, CC/1916. Sentença mantida - RECURSO DESPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 336/345), interposto com fundamento no art. 105, III, "a", da CF, a recorrente apontou ofensa aos arts. 199, I, do CC/2002 e 240, § 1º, do CPC/2015.
+Alegou que a propositura de demanda coletiva, como reconheceria o STJ, é causa suspensiva da prescrição. Afirmou que, no caso, foi ajuizada pelo Ministério Público ação civil pública discutindo a responsabilidade pela implantação das obras de infraestrutura do Loteamento Residencial Vila Maria, bem como a exigibilidade da cobrança em relação aos adquirentes dos respectivos imóveis, o que teria obstado a fluência do prazo prescricional para o ingresso das demandas individuais de cobrança.
+Afirmou que, independentemente de se aplicar o prazo de dez anos previsto no CC/1916 ou o de cinco anos previsto no CC/2002, não há falar em prescrição, uma vez que a ação civil pública foi ajuizada em 23/11/2001 e transitou em julgado em 25/6/2012, período em que o prazo prescricional teria ficado suspenso. Como a presente ação de cobrança foi ajuizada em 8/4/2016 e o despacho que ordena a citação interrompe a prescrição, fazendo-a retroagir à data da propositura do feito, a seu ver, a pretensão não estaria prescrita.
+Entendeu que, "se há interrupção da prescrição para que o titular de direito individual possa buscar seu direito após o julgamento da improcedência da ação coletiva, o mesmo entendimento se aplica àquele em face do qual foi proposta a ação" (e-STJ fl. 343).
+Argumentou que, "se a legalidade da cobrança estava sendo discutida na ACP, com sentença de primeiro grau procedente, julgando ilegal a cobrança e condenando os requeridos naquele feito a restituírem, em dobro, os valores que pagaram a título de rateio das obras de infraestrutura, é evidente que a recorrente não poderia exercer o direito de cobrança, que encontrava-se sub judice, sob pena de sofrer as penalidades decorrentes do descumprimento da ordem judicial emanada. Assim, repita-se: a discussão acerca da exigibilidade fora encerrada, como fartamente explanado, apenas com o trânsito em julgado da Ação Civil Pública, em 25 de junho de 2012, ocasião em que definitivamente foi reconhecida a legalidade da cobrança dos valores pela recorrente" (e-STJ fl. 344).
+No agravo (e-STJ fls. 359/365), declara a presença de todos os requisitos de admissibilidade do especial.
+A parte recorrida apresentou contraminuta (e-STJ fls. 368/375).
+É o relatório.
+Decido.
+O Tribunal de origem, ao analisar o tema, consignou que (e-STJ fl. 331):
+ ..  as causas de suspensão da fluência do prazo prescricional estão elencadas nos artigos de 197 a 300, do Código Civil de 2002, ou artigos de 168 a 171, do Código Civil de 1916, e dentre elas não se encontra a ora invocada pela autora-apelante (pendência de ação civil pública em que se discutia sua responsabilidade pelas obras de infraestrutura)
+A agravante, por sua vez, alega que, durante o trâmite da ação coletiva ajuizada pelo Ministério Público, não poderia exercer o seu direito de cobrança porque a questão estava sub judice, com suspensão da exigibilidade. A fim de embasar sua tese, apresenta como violado o art. 199, I, do CC/2002, que assim dispõe:
+Art. 199. Não corre igualmente a prescrição:
+I - pendendo condição suspensiva;
+A condição suspensiva a que faz referência o mencionado dispositivo está prevista nos arts. 125 e 126 do CC/2002, inseridos no Título I, do Livro III, do citado Código, que trata do negócio jurídico.
+Condição, nos termos do art. 121 do CC/2002, é "a cláusula que, derivando exclusivamente da vontade das partes, subordina o efeito do negócio jurídico a evento futuro e incerto".
+A condição suspensiva, por sua vez, é a que impede que o ato produza efeitos até a realização do referido evento.
+Trata-se, pois, de instituto de direito material que não se relaciona com a tese apresentada no recurso, segundo a qual, o ajuizamento de ação coletiva suspende a prescrição.
+Ademais, o precedente do STJ citado no presente agravo e que foi proferido em sede de recurso repetitivo também não se presta a ratificar a tese apresentada porque trata da suspensão das ações individuais em curso, ante a propositura de ação coletiva ajuizada com o mesmo objetivo, situação diversa da dos autos em que se defende a interrupção da prescrição para o ajuizamento da ação individual por aquele que era a parte passiva na ação coletiva.
+Assim, aplicável a Súmula n. 284/STF, por carência de fundamentação.
+Além disso, a pretensão nasce com a violação do direito que, em tese, teria ocorrido com a falta de pagamento, sendo certo que a discussão acerca da procedência ou não do pedido não altera o prazo prescricional. Se isso se dá em outra ação, talvez pudesse se cogitar, a depender do caso concreto, de prejudicialidade externa, e não de condição suspensiva.
+Por fim, a apontada violação do art. 240, § 1º, do CPC/2015 nem foi analisada pela Corte estadual, ante a conclusão de que, quando do despacho citatório, a preclusão havia se consumado. Incidente a Súmula n. 282/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso espe cial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte p or cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
+EMENTA
