@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. AFASTAR A CAUSA DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/06.NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. QUANTIDADE DE DROGAAPREENDIDA. FUNDAMENTAÇÃO INSUFICIENTE.AGRAVO REGIMENTAL DESPROVIDO.
+1. A revisão do entendimento firmado pela instância ordinária, a fim de afastar a causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei Federal n. 11.343/06, demanda, necessariamente, o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7/STJ.
+2. "Prevalece nesta Corte Superior o entendimento de que a quantidade de droga apreendida, por si só, não justifica o afastamento do redutor do tráfico privilegiado, sendo necessário, para tanto, a indicação de outros elementos ou circunstâncias capazes de demonstrar a dedicação do réu à prática de atividades ilícitas ou a sua participação em organização criminosa"(AgRg no REsp 1866691/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 29/5/2020).
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão de fls. 534/537, em que neguei provimento ao recurso especial, ante o óbice contido na Súmula n. 7/STJ.
+O Ministério Público do Estado de Minas Gerais repisa os argumentos expendidos no apelo especial, alegando que o fato do agravado ter sido autuado em flagrante com elevada quantidade de entorpecentes comprova sua dedicação a atividades criminosas, sendo necessário o afastamento da causa de diminuição do § 4º do art. 33 da Lei n. 11.343/06.
+Pleiteia, assim, a reconsideração da decisão agravada ou a submissão do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. AFASTAR A CAUSA DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/06.NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. QUANTIDADE DE DROGAAPREENDIDA. FUNDAMENTAÇÃO INSUFICIENTE.AGRAVO REGIMENTAL DESPROVIDO.
+1. A revisão do entendimento firmado pela instância ordinária, a fim de afastar a causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei Federal n. 11.343/06, demanda, necessariamente, o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7/STJ.
+2. "Prevalece nesta Corte Superior o entendimento de que a quantidade de droga apreendida, por si só, não justifica o afastamento do redutor do tráfico privilegiado, sendo necessário, para tanto, a indicação de outros elementos ou circunstâncias capazes de demonstrar a dedicação do réu à prática de atividades ilícitas ou a sua participação em organização criminosa"(AgRg no REsp 1866691/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 29/5/2020).
+3. Agravo regimental desprovido.
+VOTO
+O recurso não merece provimento.
+O agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático, nesse contexto, não há razões para alterar a decisão agravada, que ora mantenho, in verbis (fls. 535/537):
+"A Corte de origem manteve a causa de diminuição prevista no § 4º do art. 33 da Lei Federal n. 11.343/06, mediante seguinte fundamentação (fls. 406/407):
+"Na espécie, constata-se que o acusado é primário e possuidor de bons antecedentes, já que não ostenta nenhuma condenação transitada em julgado (CAC de fls. 64 e 150), não havendo notícia de que integre organização criminosa. Ademais, inexistem nos autos provas que permitam concluir, de forma inequívoca, que o apelado se dedica a atividades criminosas, não bastando, para tanto, a existência de meros indícios.
+Conforme se pode inferir dos autos, a abordagem do réu ocorreu durante uma operação de rotina, em virtude de ele ter apresentado atitude suspeita e imprimir maior velocidade em seu veículo. Além disso, é possível verificar que não foram carreadas aos autos quaisquer informações acerca de eventual envolvimento pretérito do acusado com a mercancia ilícita ou que ele seja conhecido como traficante, não se podendo olvidar, lado outro, que não há qualquer registro de infração penal em sua CAC e FAC.
+Forçoso concluir, portanto, que os elementos de prova colhidos nos autos não permitem concluir que o apelado se dedica, de forma habitual, à prática de delitos ou que ele faz dessa o seu meio de vida, impondo-se pontuar, ainda, que a quantidade de droga apreendida, por si só, não impede a concessão do benefício em tela.
+Assim, cuidando-se de réu primário e possuidor de bons antecedentes, além de não se ter notícia de dedicação a atividades ou organizações criminosas, não há porque negar-lhe a incidência da causa de diminuição prevista no §4º do art. 33 da Lei 11.343/06, conforme procedido pelo MM. Juiz a quo."
+A revisão do entendimento firmado pela instância ordinária, a fim de afastar a causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei Federal n. 11.343/06, demanda, necessariamente, o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 07/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. 93KG DE MACONHA. MINORANTE. ART. 33, § 4.º, DA LEI N.º 11.343/2006. APLICAÇÃO PELO TRIBUNAL DE ORIGEM. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. AFERIÇÃO. INVIABILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N.º 7 DO STJ. VALORAÇÃO DE PROVAS. HIPÓTESE DISTINTA. REGIME PRISIONAL. QUANTIDADE DE DROGAS. UTILIZAÇÃO. TESE NÃO PREQUESTIONADA. SÚMULA N.º 211 DO STJ. APLICABILIDADE. PREQUESTIONAMENTO FICTO. INVIABILIDADE. AUSÊNCIA DE ALEGAÇÃO DE OFENSA AO ART. 619 DO CÓDIGO DE PROCESSO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+3. O que se pretende no recurso especial é que esta Corte Superior verifique se, no caso concreto, estariam ou não presentes os requisitos para a aplicação da minorante do tráfico privilegiado, o que é nítido reexame do acervo probatório, vedado nesta via recursal, nos termos da Súmula n.º 7 do STJ.
+(..)
+7. Agravo regimental desprovido. (AgRg no AREsp 1460994/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/06/2020, DJe 15/06/2020).
+Ainda que assim não fosse, "Prevalece nesta Corte Superior o entendimento de que a quantidade de droga apreendida, por si só, não justifica o afastamento do redutor do tráfico privilegiado, sendo necessário, para tanto, a indicação de outros elementos ou circunstâncias capazes de demonstrar a dedicação do réu à prática de atividades ilícitas ou a sua participação em organização criminosa."(AgRg no REsp 1866691/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA,DJe 29/05/2020)."
+Ante o exposto, voto pelo desprovimento do agravo regimental.
