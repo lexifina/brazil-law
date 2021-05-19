@@ -1,0 +1,41 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial no Agravo de Instrumento n. 1021333-13.2020.8.11.0000
+RECORRENTE: ANDRÉ LUIZ MOREIRA AGUIAR
+RECORRIDO: ANDRÉA CRISTINA DE LIMA SEMELER
+Vistos.
+Trata-se de recurso especial (id 83301970) interposto por ANDRÉ LUIZ MOREIRA AGUIAR, com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado, assim ementado (id 75462492):
+“AGRAVO DE INSTRUMENTO – AÇÃO DE DISSOLUÇÃO DE SOCIEDADE EM FASE DE CUMPRIMENTO DE SENTENÇA – DECISÃO HOMOLOGATÓRIA DE LAUDO PERICIAL - OBSERVÂNCIA ÀS DISPOSIÇÕES DA SENTENÇA – QUESTIONAMENTO DE DOCUMENTOS QUE SUBSIDIARAM O LAUDO PERICIAL – CRITÍCAS ABSTRATADAS DESAMPARADAS DE PROVAS - DECISÃO MANTIDA – RECURSO DESPROVIDO. 1. Cuidando-se de matéria eminentemente técnica, a impugnação ao laudo pericial somente deve ser acolhida quando amparada por elementos que o subsidiem com firmeza. 2. Se o laudo pericial apresenta cálculo elaborado em estrita observância às disposições da sentença, impõe-se a homologação dos cálculos, sobretudo quando o impugnante não aponta, tampouco comprova a existência de efetiva irregularidade nas contas elaboradas pelo perito”. (TJMT – Primeira Câmara de Direito Privado – RAI n. 1021333-13.2020.8.11.0000, Relatora: Desembargadora JOAO FERREIRA FILHO, j. 02/02/2021, p. 15/02/2021).
+Opostos Embargos de Declaração (id 77166961), estes foram rejeitados no acórdão id 80791968.
+Na espécie, o presente recurso foi interposto contra o aresto que, em sede de agravo de instrumento proposto por ANDRE LUIZ MOREIRA AGUIAR, manteve a decisão proferida pelo MM. Juiz de Direito da 4a Vara Cível da Comarca de Rondonópolis/MT, que nos autos da Ação de Dissolução de Sociedade Limitada c/c Prestação de Contas e Apuração de Haveres c/c Antecipação de Tutela n. 00010813- 51.2010.8.11.0003 - Código 442145, ajuizada pelo agravante contra ANDREA CRISTINA DE LIMA SEMELER, homologou o laudo pericial apresentado pelo perito judicial, porque, no entender do julgador, “tendo o laudo observado os limites objetivos do processo e utilizado metodologia adequada de cálculo, apresentando fundamentação clara e consistente, deve a conclusão nele contida prevalecer sobre as planilhas unilateralmente elaboradas por uma das partes, impondo-se a sua homologação” (id 63610470).
+O recorrente alega violação ao artigo 489, parágrafo primeiro, inciso IV, do Código de Processo Civil, ao argumento de que “a Corte a quo NÃO examinou em detalhe todos os argumentos postos no Agravo de Instrumento, deixando de apresentar fundamentos suficientes e claros para refutar as alegações defensivas”.
+Da suposta violação ao artigo 1.022, II, do CPC
+A partir da suposta ofensa ao artigo 1.022, II, do CPC, a parte recorrente alega que o órgão fracionário deste Tribunal não se manifestou “(...) quanto às impugnações especificadas (vide ID Num. 77166961 - Pág. 5 e 6), bem como quanto ao pedido de perícia nos livros contáveis e no CPU, sob pena de nítido cerceamento de defesa, violando os princípios do contraditório e da ampla defesa, bem como quanto aos débitos fiscais em nome da empresa ‘A. L. M. Aguiar e Cia Ltda’. que também precisariam ser apurados no cálculo, tudo conforme explicado no recurso de Agravo de Instrumento e nos Embargos de Declaração”.
+No entanto, do exame do acórdão recorrido, verifica-se que a Câmara julgadora manifestou-se expressamente em relação ao aludido ponto, como se observa da transcrição abaixo:
+“Para evitar repetição desnecessária, deixo de transcrever os trechos do v. acórdão que apreciaram a integralidade da temática recursal, destacando apenas que, conforme ali restou claramente decidido, o embargante “insiste em que “os cálculos elaborados pelo Perito Judicial estão totalmente incorretos”, contudo, sequer houve propriamente impugnação, tampouco arguição de “questões prejudiciais”, pois, tendo pleiteado a realização de novos cálculos em conformidade com suas próprias convicções , não apontou e comprovou a existência de efetiva irregularidade nas contas elaboradas pelo perito”, restando evidente a pretensão do embargante em “questionar a legalidade/validade dos recibos, notas promissórias etc e demais documentos que ampararam o laudo pericial, pois, pede, inclusive, seja expedido ofício a Real Assessoria de Cobrança “para que informe ao r. Juízo quem retirou as duplicatas de fls. 446/447” (?), o que não se mostra cabível; de todo modo, ao designar a realização da prova pericial e nomear perito, é oportunizado as partes indicarem assistentes técnicos que poderão acompanhar a realização e análise da prova pericial, emitindo, ao final, parecer com suas considerações; no caso, detida análise ao conjunto probatório recursal não constatei que tenha o agravante nomeado assistente técnico para acompanhar a análise e realização da prova pericial contábil” (cf. Id. no 74372467 - destaquei)”. (id 80791968 - p. 4)
+Diante desse quadro, não há evidência de violação ao artigo 489, parágrafo primeiro, inciso IV, do CPC, o que conduz à inadmissão do recurso neste ponto.
+Recurso tempestivo (id 83376481) e preparado (id 83454455).
+Contrarrazões no id 84891483.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Violação da Constituição Federal - Via inadequada
+Consoante os artigos 102, III e 105, III, ambos da Constituição Federal, é patente que a afronta a dispositivo constitucional não pode ser objeto de análise nesta via, sob pena de usurpação de competência do STF, uma vez que ao STJ cabe apenas pacificar a interpretação dada a dispositivo de lei federal.
+Confira-se:
+“PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. MAGISTRADO APOSENTADO. INDENIZAÇÃO EM PECÚNIA. POSSIBILIDADE. PRECEDENTES. CABIMENTO DO WRIT. PRECEDENTES. DIREITO LÍQUIDO E CERTO. REEXAME. SÚMULA 7/STJ.
+1. O recurso especial não é via recursal adequada para analisar suposta ofensa a dispositivo constitucional, sob pena de usurpação da competência que, por expressa determinação da Constituição Federal, pertence ao Supremo Tribunal Federal.
+2. A excelsa Corte, no julgamento do ARE 721.001-RG, sob o regime da repercussão geral, reconheceu a possibilidade da conversão de férias não gozadas ? bem como outros direitos de natureza remuneratória ? em indenização pecuniária, por aqueles que não mais podem delas usufruir, sob pena de enriquecimento sem causa da Administração.
+3. Segundo a jurisprudência desta Corte "não configura substituto de ação de cobrança a impetração de mandamus cujo objetivo é desconstituir ato administrativo que nega conversão em pecúnia de licença-prêmio ou férias não gozadas por necessidade de serviço, pois o que se busca é a restauração de situação jurídica em razão do suposto ato ilegal, cujos efeitos patrimoniais são mera consequência do reconhecimento da ilegalidade, não se aplicando as Súmulas 269 e 271 do STF" (REsp 1.363.383/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 13/3/2013).
+4. Infirmar a conclusão do Tribunal de origem acerca do direito líquido e certo do impetrante, na forma pretendida pelo ente público, exigiria o exame do acerto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+5. Agravo interno não provido”. (AgInt no AREsp 1552147/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/03/2021, DJe 25/03/2021).
+Assim, em relação à suposta violação ao artigo 93, IX, da Constituição Federal, o Recurso Especial constitui via inadequada para a análise da questão.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
