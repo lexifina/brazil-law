@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por Mirela Cristina Pavani Lupion Gianetti com fundamento na alínea b do inciso II do artigo 105 da Constituição contra acórdão do Órgão Especial do Tribunal de Justiça do Estado de Mato Grosso, assim ementado (fls. 325-334):
+MANDADO DE SEGURANÇA - ADMINISTRATIVO - GESTOR JUDICIÁRIO - LIVRE EXONERAÇÃO - ESCRIVÃO CONCURSADO - REENQUADRAMENTO COMO ANALISTA JUDICIÁRIO - SDCR - PERCEPÇÃO PERPÉTUA DO VALOR DISPENDIDO A TÍTULO DE FUNÇÃO DE CONFIANÇA - TRANSITORIEDADE - IMPOSSIBILIDADE - AUSÊNCIA DE VIOLAÇÃO DE DIREITO LÍQUIDO E CERTO - SEGURANÇA DENEGADA.
+1. " ..  O exercício no cargo na função de confiança de gestor judiciário, ao teor do art. 54 da Lei Estadual n.º 8.814/2008 (SDCR), possui presunção relativa para a ocupação do cargo, pois possuindo a função de confiança caráter de livre nomeação e exoneração, condiciona-se a ato da autoridade competente, ou seja, ato discricionário da administração pública. .. " (TJMT - N.U 0004225-48.2012.8.11.0006, DRA. VANDYMARA G. R. P.ZANOLO).
+2. O fato da Impetrante, serventuária da Justiça, ter desempenhado o antigo cargo de Escrivão por longo período não lhe constitui o direito em exercer ad perpetuam a função de Gestora Judiciária, posto que reenquadrada na carreira ao cargo de Analista Judiciário.
+3. Ausência de direito líquido e certo. Segurança denegada.
+Os embargos declaratórios foram rejeitados (fls. 363-369).
+A recorrente informa que depois de 1º/11/2007 "passou a exercer o cargo de Analista judiciário sempre na Função de Gestora da Secretaria da Primeira Vara da Comarca de Sorriso-MT"; que sempre desempenhou "suas atividades com maestria, não tendo nenhuma conduta que desabone sua ficha profissional" (fl. 384); que, com a perda da função de Gestora Judiciária,teve "a redução de seus proventos na importância mensal de R$2.542,85 mensais" (fl. 385).
+Informa que o recurso "tem como objetivo tornar sem efeito a Portaria n. 106/2018/-SOR, expedida pelo Juiz Diretor do Foro da Comarca de Sorriso, que revogou a Portaria n. 148/2007/DF, de 10/10/2007, a qual havia lhe nomeado para exercer o cargo de Gestora Judiciária da 1ªVara da mesma Comarca" (fl. 385).
+Diz que a autoridade coatora "usurpou de verba da Recorrente de forma ilegal e imoral, eis que garantida por lei a manutenção na função de gestora e recebimento do adicional", não lhe sendo oportunizando "o contraditório e ampla defesa, para questionar sobre a redução, bem como apresentar sua defensa" (fl.386).
+Deduz que"retirar dos Escrivãs a verba auferida como Gestor Judiciário é tirar-lhe o adicional de produtividade garantido em legislação anterior, havendo sim decréscimo em seus vencimentos" (fl. 399).
+No tocante à tutela provisória, assevera que a fumaça do bom direito está "caracterizado pelo desrespeito aos princípios da administração pública", e que opericulum in moratambém "é evidente, pelo fato de a recorrente ficar injustamente privada de seus proventos integrais" (fl. 403).
+Nesse contexto, pede seja deferidaa tutela provisória de urgência, para que seja "restabelecida a integralidade dos seus proventos, especialmente referente a verba nominal "função de confiança" no valor mensal de R$ 2.542,85" (fl. 405).
+Ao final, requer o provimento do recurso, a fim de que seja mantida "a recorrente no desempenho da função de gestora judiciária", ou, subsidiariamente, "seja mantido os valores auferidos na rubrica função de confiança" (fl. 405).
+Impugnação às fls. 417-420.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento aorecurso em decisão monocrática, nas hipóteses em que há jurisprudênciadominante quanto ao tema, como autorizado pelo art. 34, XVIII,do RISTJe pela Súmula 568/STJ.
+Na espécie, versa o mandado de segurança na origem acerca da legalidade de ato administrativo,proferido pelo Juiz de Direito Diretor do Foro da Comarca de Sorriso/MT, consubstanciado na expedição da Portaria n. 106/2018, que revogou a Portaria n. 148/2007-DF, referente à função de confiançaGestora Judiciária,lotando a impetrante, que é servidora do Poder Judiciário do Estado de Mato Grosso, ocupante do cargo de Analista Judiciária, para exercer suas funções junto à Secretaria da 2ª Vara Cível daquela Comarcar, a partir de 7/01/2019.
+O Pleno do Tribunal de Justiça estadual denegou a segurança, asseverando que (fls. 325-334):
+ .. , resta deixar claro que, a extinção do cargo de Escrivã, passando a ser enquadrada como Analista Judiciária de 1º Grau, não promoveu qualquer decréscimo salarial em seus vencimentos no cargo para o qual foi aprovada em concurso público.
+Ocorre que a Impetrante, ao ser enquadrada como Analista Judiciária, fora também designada para o cargo de Gestora Judiciária, função de confiança que lhe atribuiu o acréscimo salarial ora impugnado.
+A função de confiança de Gestora Judiciária é de livre nomeação e exoneração, provida exclusivamente por servidores efetivos, conforme previsto no art. 32 do SDCR, litteris:
+ ..
+Assim, da leitura conjunta dos artigos 32 e 54 da Lei n.8.814/2008, vislumbra-se que a nomeação de servidor efetivo para o exercício de função de confiança é ato discricionário da Administração que, como seu nome diz, vincula-se à relação de confiança entre a autoridade competente e o servidor efetivo designado para tanto.
+O que pretende a Impetrante, por via transversa, é a incorporação ao seu cargo, do valor percebido à título do exercício da função de confiança, o que é vedado pelo art. 40, § 2º da Constituição da República.
+Da leitura dos holerites da Impetrante, a comprovar a transitoriedade do cargo de Gestora Judiciária, depreende-se que sequer a previdência social incidia sobre a a função de confiança percebida, incidindo unicamente sob seu subsídio.
+Assim, há de se ressaltar que o art. 37, incisos II e V da Constituição Federal prevê que os cargos em comissão - mesmo que em função de confiança - caracterizam por serem de livre nomeação e exoneração.
+Desta forma, depreende-se que o fato da Impetrante, serventuária da Justiça, ter desempenhado o antigo cargo de Escrivão por longo período não lhe constitui o direito em exercer ad perpetuam a função de Gestora Judiciária, posto que reenquadrada na carreira ao cargo de Analista Judiciário.
+ ..
+Ante o exposto, em sintonia com o parecer da i. Procuradoria Geral de Justiça, não restando demonstrada violação à direito líquido e certo, DENEGO A SEGURANÇA.
+Assim, a ordem foi denegada aofundamentode que anomeação de servidor efetivo para o exercício de função de confiança (Gestora Judiciária) é ato discricionário da Administração, o qual "vincula-se à relação de confiança entre a autoridade competente e o servidor efetivo designado para tanto". Que a verdadeira intenção da recorrente, por via transversa, "é a incorporação ao seu cargo, do valor percebido à título do exercício da função de confiança, o que é vedado pelo art. 40, § 2º da Constituição da República".
+Ocorre que a recorrente, ao sustentar que a autoridade coatora"usurpou de verba da Recorrente de forma ilegal e imoral, eis que garantida por lei a manutenção na função de gestora e recebimento do adicional",deixou de impugnar ofundamentodo acórdão recorrido segundo o qualo exercício de cargo em comissão ou funções de confiança são incompatíveis com a garantia constitucional da estabilidade. Incide, na espécie, o teor da Súmula 283/STF. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLÍCIA MILITAR DO ESTADO DE MATO GROSSO DO SUL. LIMITE DE IDADE PREVISTO EM LEI E NO EDITAL. ACÓRDÃO RECORRIDO DENEGATÓRIO DA SEGURANÇA, POR AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. AUSÊNCIA DE IMPUGNAÇÃO, NO RECURSO, DOS FUNDAMENTOS DO ACÓRDÃO DO TRIBUNAL DE ORIGEM, SUFICIENTES PARA A SUA MANUTENÇÃO.INCIDÊNCIA DA SÚMULA 283/STF, POR ANALOGIA. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA NÃO CONHECIDO.
+ ..
+IX. Pacífica a jurisprudência desta Corte no sentido de que "a Súmula nº 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido" (STJ, AgRg no RMS 30.555/MG, Rel. Ministro OG FERNANDES, SEXTA TURMA, DJe de 01/8/2012), como no caso.
+X. Recurso Ordinário em Mandado de Segurança não conhecido.
+(RMS 64.156/MS, Rel. Ministra Assusete Magalhães, Segunda Turma,DJe 9/3/2021, grifei)
+Além disso, constata-se que o acórdão não merece reparos, porquanto encontra-se em sintonia com a jurisprudência desta Corte no sentido de queo exercício de cargos em comissão ou funções de confiança são incompatíveis com a garantia constitucional da estabilidade, possuindo como característica predominante a possibilidade de exoneração ad nutum. No mesmo sentido, destaco julgados das Turmas de Direito Público:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. LICENÇA PARA TRATAMENTO DE SAÚDE.CARGO EM COMISSÃO. DISPENSA. POSSIBILIDADE.
+ ..
+2. O exercício de função comissionada é de livre nomeação e exoneração, configurando ato administrativo discricionário, submetido exclusivamente à conveniência e à oportunidade da autoridade pública competente, considerada a relação de confiança entre o nomeado e o seu superior hierárquico, ainda que no curso de licença para tratamento de saúde.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.599.920/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 8/8/2018, grifei)
+ADMINISTRATIVO. CARGO COMISSIONADO. ART. 37, II, DA CF. LIVRE NOMEAÇÃO E EXONERAÇÃO. ANULAÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. Os cargos comissionados caracterizam-se pelo critério de confiança, em caráter excepcional, à regra do concurso público, são exercidos de forma precária e são passíveis de exoneração ad nutum pela Administração. Precedentes do STJ.
+2. Não há ilegalidade no ato impugnado, rechaçando-se existência de direito líquido e certo da recorrente à permanência no cargo comissionado.
+3. Recurso Ordinário não provido.
+(RMS 34.010/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 30/5/2011)
+Dessa forma, de fato, não resta demonstrado violação à direito líquido e certo a ser amparado na via do mandado de segurança, devendo o acórdão recorrido ser mantido na sua integralidade.
+Ante o exposto, nego provimento ao recurso em mandado de segurança, com fundamento no artigo 34, b, XVIII, do RISTJ.
+Pedido de liminar prejudicado.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO. RECURSO EM MANDADADO DE SEGURANÇA. FUNÇÃO DE CONFIANTE (GESTOR JUDICIÁRIO). FUNÇÃO DE CONFIANÇA.DISPENSA. POSSIBILIDADE.AUSÊNCIA DE VIOLAÇÃO DE DIREITO LÍQUIDO E CERTO. ACÓRDÃO NO MESMO SENTIDO DA JURISPRUDÊNCIA DESTA CORTE. RECURSO NÃO PROVIDO.
