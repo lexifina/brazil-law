@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DO MARANHÃO, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge em face de acórdão proferido pelo TJ/MA, assim ementado (e-STJ, fls. 474-483):
+"PENAL. PROCESSO PENAL. RECURSOEM SENTIDO ESTRITO. HOMICÍDIO
+QUALIFICADO (ART. 121, § 2º, INCISOIV, DO CÓDIGO PENAL). ABSOLVIÇÃOSUMÁRIA. DESCABIMENTO.MATERIALIDADE COMPROVADA EINDÍCIOS SUFICIENTES DE AUTORIA.EXCLUSÃO DA QUALIFICADORA DERECURSO QUE TORNOU IMPOSSÍVEL ADEFESA. PROCEDÊNCIA. AQUALIFICADORA NÃO ENCONTRAAMPARO PROBATÓRIO NOSELEMENTOS COLHIDOS DURANTE OCURSO PROCESSUAL, SENDOMANIFESTAMENTE IMPROCEDENTE APRONÚNCIA APENAS NESTE ASPECTO.RECURSO EM SENTIDO ESTRITOCONHECIDO E PROVIDOPARCIALMENTE.
+01. Constando dos autos comprovada amaterialidade do crime de homicídio, ehavendo indícios suficientes de autoria emrelação ao recorrente, forçosa amanutenção da decisão que o pronuncioupara julgamento perante o Tribunal do JúriPopular, nos termos do art. 413 do Códigode Processo Penal.
+02. Para a exclusão de qualificadorasreconhecidas em decisão de pronúncia pelavia processual eleita pelo recorrente,necessário que as circunstânciasqualificadoras questionadas sejammanifestamente improcedentes oudescabidas e desprovidas de qualquer lastroprobatório.
+3) Recurso em Sentido Estrito conhecido eprovido parcialmente. Unanimidade".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 121, § 2º, IV, do CP e 413, capute § 1º, do CPP. Aduz para tanto, em síntese, que as provas produzidas na primeira fase do rito do júri seriam suficientes para demonstrar a incidência da qualificadora referente ao uso de meio que impossibilitou a defesa da vítima. Por isso, não poderia o Tribunal excluí-la da pronúncia, sob pena de usurpação da competência dos jurados.
+Sem contrarrazões (e-STJ, fl. 569), o apelo nobre foi inadmitido na origem (e-STJ, fls. 575-579), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 630-632).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Este não comporta conhecimento, todavia. Sabe-se que, consoante a jurisprudência pacífica deste STJ, "não se pode afastar uma qualificadora por mera opção hermenêutica, de modo que o julgador somente pode retirar da pronúncia a qualificadora que, objetivamente, inexista, mas não a que, subjetivamente, julgar não existir. Em outros termos, não se pode subtrair da apreciação do Conselho de Sentença uma circunstância que, numa análise objetiva, mostra-se viável, ao menos em tese." (REsp 1.547.658/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/11/2015, DJe 07/12/2015).
+No presente caso, o acórdão recorrido entendeu pela inexistência de qualquer indício mínimo paradar suporte à pretensão ministerial, nos seguintes termos:
+"Analisando detidamente os elementos constantes nos autos, aqualificadora descrita no §2º, IV, do art. 121 do Código Penal (recursoque tornou impossível a defesa) merecer se excluída, uma vez que areferida qualificadora, para ser levada a consideração do Tribunal Popular,precisa estar minimamente tipificada e contar com algum lastro probatóriopresente nos autos. E no caso destes autos não consta demonstradaamparo dessa qualificadora em algum elemento probatório presente nosautos" (e-STJ, fls. 481-482).
+Assim, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ,conheçodo agravo paranão conhecerdo recurso especial.
+Publique-se. Intimem-se.
