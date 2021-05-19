@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão que indeferiu liminarmente os embargos de divergência de CRISTIANO BOCORNY CORREA, com fundamento na ausência de similitude fática entre o acórdão recorrido e o acórdão paradigma.
+Sustenta o embargante que o provimento singular é omisso em relaçãoa parte do acórdão paradigma, que, no seu entendimento, teria decididopela competência do Superior Tribunal de Justiça para processar e julgar procurador do trabalho com designação para oficiar temporariamente perante Tribunal Regional do Trabalho (e-STJ fls. 10.336-10.338).
+Requer o acolhimento do recurso integrativopara que odefeitoapontadosejasanado.
+É o relatório.
+Inicialmente, tendo em vista que a decisão impugnada foi publicada em 7/5/2021 (e-STJ fl. 10.333), cumpre atestar a tempestividade dos embargos declaratórios, pois opostos em 11/5/2021 (e-STJ fl. 10.339).
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência desta Corte os admitido, também, com o fito de sanar eventual erro material na decisão embargada.
+Da análise da decisão embargada, conclui-se que não há nenhuma mácula a ser corrigida, uma vez que foram adequadamente apresentadas as razões pelas quais indeferiu-se liminarmente os embargos de divergência.
+Com efeito, o acórdão paradigma proferido nos autos da Ação Penal n. 481/SPlimitou-se a rejeitar a denúncia ofertada em desfavor da Procuradora do Trabalho Maria Cristina Sanchez Gomes Ferreira, pela prática, em tese, do crime previsto no art. 4º, caput, da Lei n. 7.492/1986, por ausência de justa causa para a instauração da ação penal.
+Conforme asseverado nodecisumimpugnado,o julgado da Corte Especial nada tratou a respeito da competência do Superior Tribunal de Justiça para processar a referida ação penal, porquanto essa questãojá havia sido decidida,antes,pelo Supremo Tribunal Federal, no julgamento do Recurso em Habeas Corpusn. 84.184/SP, cujo acórdão ficou assim ementado:
+COMPETÊNCIA CRIMINAL. Ministério Público da União. Procuradora do Trabalho. Designação para oficiar no Tribunal Regional do Trabalho. Ação penal por crime comum (art. 4º, caput e § único, 6º e 10 da Lei nº 7.492/86). Prerrogativa de foro. Feito da competência originária do Superior Tribunal de Justiça. Atuação temporária naqueloutro tribunal. Infrações que teriam sido praticadas antes da designação. Irrelevância. Nulidade da decisão do Juízo Federal que recebeu a denúncia. Recurso provido para pronunciá-la. Inteligência do art. 105, I, a, da CF. Precedentes. Independentemente da data da prática do ato que lhe é imputado, o membro do Ministério Público da União que oficie perante qualquer tribunal está, nos crimes comuns e de responsabilidade, sujeito à jurisdição penal originária do Superior Tribunal de Justiça
+(RHC 84184, Relator(a): CEZAR PELUSO, Primeira Turma, julgado em 06/06/2006, DJ 25-08-2006 PP-00054 EMENT VOL-02244-02 PP-00370 RTJ VOL-00200-02 PP-00898 LEXSTF v. 28, n. 333, 2006, p. 370-378 RT v. 96, n. 855, 2007, p. 513-516)
+Está claro, portanto, que o embargante equivocou-se ao indicar o provimento paradigma, pois a tese que pretende fazer prevalecer não foi construída no acórdão proferido pelo Superior Tribunal de Justiça nos autos da APN n. 481/SP, mas simpela Suprema Corte, em 6/6/2006, por ocasião, repita-se, do julgamento do RHC n. 84.184/SP.
+Desse modo, outra solução não havia senão o indeferimento liminar dos embargos de divergência, sobretudo porque essa espécie recursal, a teor do art. 266 do RISTJ, não é destinada asolucionar aparente divergência entre julgados dos órgãos fracionários desta Corte Superior e as decisões proferidas pelo Supremo Tribunal Federal.
+Não se constata, portanto, nenhum defeito no julgado questionado, tendo sidodemonstrado, de forma fundamentada, as razões pelas quaisé inevitável o indeferimento liminar dos embargos de divergência, estando-se diante de mera irresignação com o resultado do julgamento, o que revela o descabimento dos embargos declaratórios.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO. INEXISTÊNCIA DE VÍCIOS. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I - Dispõe o artigo 620 do Código de Processo Penal, somente são cabíveis embargos de declaração quando configurada ambiguidade, obscuridade, contradição ou omissão, o que inexiste na hipótese.
+II - Na espécie, observa-se a exclusiva intenção rediscutir a matéria já definida no julgamento do agravo regimental, o que é inadmissível.
+III - Não compete a essa Corte Especial a concessão de ordem de habeas corpus de ofício em substituição a decisão de Turma.
+Embargos de declaração rejeitados.
+(EDcl no AgRg nos EAREsp 1668484/CE, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 28/04/2021, DJe 05/05/2021)
+No mesmo diapasão:
+EMBARGOS DECLARATÓRIOS - AÇÃO PENAL PRIVADA ORIGINÁRIA - DESEMBARGADOR DE TRIBUNAL DE JUSTIÇA - CALÚNIA, DIFAMAÇÃO E INJÚRIA - RECONHECIMENTO DE INÉPCIA DA PETIÇÃO INICIAL QUANTO AO CRIME DE CALÚNIA - RECEBIMENTO PARCIAL DA QUEIXA-CRIME QUANTO AOS CRIMES DE DIFAMAÇÃO E INJÚRIA - EMBARGOS DECLARATÓRIOS - PRETENSÃO DE REEXAME DA CAUSA - REJEIÇÃO - PERDÃO JUDICIAL - INOCORRÊNCIA.
+1. Nos termos do artigo 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver, no acórdão, ambiguidade, obscuridade, contradição ou omissão, ou, então, retificar, quando constatado, eventual erro material do julgado.
+2. O recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende o embargante.
+3. A matéria relativa ao perdão judicial nos crimes contra a honra, que encontra fundamento de validade no artigo 107, IX c.c. 140, §1º, do Código Penal, diz respeito à análise do mérito, não sendo, portanto, cognoscível na fase do juízo de admissibilidade da queixa-crime.
+4. Embargos de declaração rejeitados.
+(EDcl na APn 886/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 07/10/2020, DJe 27/11/2020)
+Ante o exposto,rejeitam-se os embargos de declaração.
+Publique-se.
+Intimem-se.
