@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por DIRCE MARIOTTO AFONSO de decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 159):
+Reclamação Alegação de que a decisão proferida pela C. 8ª Câmara de Direito Público deste E. Tribunal de Justiça do Estado de São Paulo violou entendimento consolidado por esta E. Corte, no IRDR nº 7 Servidora aposentada da Secretaria Estadual da Saúde que pleiteou a inclusão de parte fixa do Prêmio de Incentivo sobre os vencimentos alcançados com a incorporação de função gratificada Indeferimento, sob a alegação de não afronta ao decidido no Incidente de Resolução de Demandas Repetitivas nº 0056229-24.2016.8.26.0000 A tese do referido IRDR não abordou a incidência da parte fixa do prêmio de incentivo sobre os décimos incorporados por forçado art. 133 da Constituição Estadual (incorporação pelo exercício de função que lhe proporcione gratificação superior ao cargo que é titular), mas apenas sobre o 13º salário, férias, terço constitucional de férias, quinquênio e sexta-parte. Reclamação improcedente.
+Sustenta a parte agravante, no recurso inadmitido, violação ao art. 985, II, do CPC, ao argumento de que faria jus à fixação de seus proventos de aposentadoria na forma reconhecida noIncidente de Resolução de Demandas Repetitivas nº. 0056229-24.2016.8.26.0000, julgado pelo Tribunal de origem, seria plenamente aplicável ao caso concreto. Nesse sentido, tece considerações acerca do disposto no art. 133 da Constituição do Estado de São Paulo.
+Nas razões do agravo, aduz que a tese deduzida no apelo nobre prescinde do reexame de matéria fática, reprisando, no mais, os argumentos antes expendidos.
+Contraminuta às fls. 307/310.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Presentes os pressupostos de admissibilidade do agravo, examino o próprio recurso especial.
+O Tribunal a quo rejeitou a reclamação sob o fundamento de que (fl. 163):
+No julgamento do recurso inominado fora manifestado que a incidência de 50% do valor pago do prêmio de incentivo comporia "o cálculo do 13º salário, terço constitucional de férias, quinquênio e sexta-parte", conforme a tese fixada no IRDR nº 0056229-24.2016.8.26.0000. Todavia, observou ter inexistido determinação para inclusão de tal prêmio de incentivo na verba prevista no art. 133 da Constituição Estadual.
+Em conclusão, da leitura da tese fixada no IRDR nº 7, ficou claramente delimitada a incidência da parte fixa do prêmio de incentivo sobre o 13º salário, férias, terço constitucional de férias, quinquênio e sexta parte.
+Isto significa que não fora abrangida a incorporação de décimos prevista no artigo 133 da Constituição Estadual.
+De se ver, portanto, que para se alterar as conclusões firmadas no acórdão recorrido seria necessária averiguar os limites da coisa julgada fixada na aludida IDR, o que, todavia, esbarra no óbice da Súmula 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CUMPRIMENTO DE ACÓRDÃO EM MANDADO DE SEGURANÇA COLETIVO. URV. REPOSIÇÃO DE PERDA SALARIAL.SERVIDORES DO PODER EXECUTIVO. AUSÊNCIA DE OMISSÃO. REVISÃO DOS LIMITES OBJETIVOS E SUBJETIVOS DA COISA JULGADA. IMPOSSIBILIDADE.SÚMULA N. 7/STJ. PRECLUSÃO DA ALEGAÇÃO DE LEGITIMIDADE PASSIVA DA AMAZONPREV. INCIDÊNCIA DA SÚMULA N. 283/STF. CARÊNCIA DE TÍTULO EXECUTIVO JUDICIAL. SÚMULA N. 282/STF. PRODUÇÃO DE PROVA PERICIAL.LIVRE CONVENCIMENTO MOTIVADO. AUSÊNCIA DE PRECLUSÃO PRO JUDICATO.ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+III - Rever o entendimento do tribunal de origem, com o objetivo de acolher a pretensão recursal, para avaliar os limites objetivos e subjetivos da coisa julgada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+ ..
+IX -Agravo Interno improvido.
+(AgInt no REsp 1.861.500/AM, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 23/4/2021)
+ANTE O EXPOSTO, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
