@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto peloMUNICÍPIO DE GOIÂNIA contra decisão de inadmissibilidade do recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, que desafiou acórdão do Tribunal de Justiça do Estado de Goiás assim ementado:
+EMENTA: APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. ADESÃO A PROGRAMA DE RECUPERAÇÃO FISCAL DO MUNICÍPIO DE GOIÂNIA. DESISTÊNCIA DOS EMBARGOS. CONDIÇÃO. HONORÁRIOS ADVOCATÍCIOS. INCLUSÃO NO ACORDO FIRMADO COM O ENTE PÚBLICO. IMPOSSIBILIDADE DE CONDENAÇÃO DÚPLICE. PRECEDENTES.
+1. O embargante, ao aderir ao programa de recuperação fiscal instituído pela Lei municipal Nº 10.056, de 28 de julho de 2017, quitou o débito tributário e efetuou o pagamento dos honorários advocatícios, em consonância com os dispositivos legais que regem o referido programa.
+2. A desistência dos embargos à execução fiscal, imposta como requisito para adesão a programa de recuperação fiscal, não pode resultar na condenação em honorários advocatícios, mormente quando tal verba encontra-se incluída no acordo firmado como ente público municipal. Precedentes do Superior Tribunal de Justiça e deste Sodalício Goiano.
+3. APELAÇÃO CÍVEL CONHECIDA, MAS DESPROVIDA.
+Opostos embargos de declaração, esses foram rejeitados.
+No recurso especial, a parte indicou, além de dissídio jurisprudencial, ofensa aos arts. 239, § 1º, e 1.022, I, do CPC/2015. Sustentou, em resumo, que: (i) seria nulo acórdão recorrido por negativa de prestação jurisdicional, tendo em vista a não apreciação de questão agitada nos embargos de declaraçãode que os embargos seriam autônomos em relação à execução fiscal, nos termos do REsp 1.520.710/SC, o que possibilitaria a condenação do contribuinte ao pagamento da verba honorária; (ii) "aquitação integral do crédito executado, com os benefícios concedidos pela Lei n.10.331/2019, não implica a perda de objeto dos presentes embargos, mas, sim, reconhecimento do pedido pelo devedor. Por essesmotivos, a extinção dos presentes embargos enseja a condenação do embargante ao pagamento das custas e honorários advocatícios" (e-STJ fl. 1.468).
+A Presidência do TJGO inadmitiu o apelo excepcional com amparo nas Súmulas 282 e 284 do STF.
+Irresignado, o município interpõe o presente agravo, insurgindo-se contra os obstáculos impostos ao trâmite do recurso especial.
+Passo a decidir.
+Cuidam os autos, na origem,de embargos à execução fiscal, extintos em razão do encerramento do feito executivo decorrente da satisfação do débito tributário pelo pagamento. Não foi fixada verba honorária.
+Interposta apelação pela edilidade, essa foi desprovida. O Tribunal de Justiça consignou que a quitação dos valores devidos se deu por meio de adesão a programa de recuperação fiscal, sendo que a lei instituidora teria expressa previsão de inclusão das custas e doshonorários advocatícios arbitrados na ação executiva, razão pela qual nova condenação implicaria em bis in idem.
+Opostos embargos de declaração, esses foram rejeitados.
+Pois bem.
+Vale destacar que não se configura a alegada ofensa aoart.1.022 do CPC/2015, pois o Tribunal a quo, de forma clara e fundamentada, explicitou as razões pelas quais entendeu não ser possível a condenação da contribuinte ao pagamento dos honorários advocatícios, pautando-se nas normas que instituíram o programa derecuperação fiscal, a cujos termos a casa bancária aderiu.
+Nesse panorama, observa-se que a insurgência do recorrente não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, não havendo, pois, que falar emnegativa de prestação jurisdicional.
+Quanto à indigitada violação do art. 239, § 1º, do CPC/2015, tem-se que essedispositivo trata do comparecimento espontâneo para suprir a falta ou a nulidade da citação, o que não guarda pertinência com a questão debatida nos autos. Assim, aplica-se o óbice da Súmula 284 do STF.
+Ademais, a indicação de vulneração de dispositivos de lei federal apenas no agravo em recurso especial constitui inovação recursal, insuscetível de exame ante a configuração da preclusão consumativa.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", doRISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e,nessa extensão, NEGAR-LHE PROVIMENTO.
+Sem arbitramento de honorários recursais, ante a ausência de fixação de verba honorária nas instâncias ordinárias.
+Publique-se. Intimem-se.
