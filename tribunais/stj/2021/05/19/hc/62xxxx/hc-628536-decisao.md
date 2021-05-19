@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de CARLOS AUGUSTO DA SILVA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Cautelar Inominada n. 2074937-49.2020.8.26.0000).
+Colhe-se dos autos que o paciente foi preso em flagrante, posteriormente convertida a custódia em prisão preventiva, em razão da suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343./2006. Segundo consta, o paciente teria sido apreendido na posse de 896 porções de cocaína com peso aproximado de 879,49g (oitocentos e setenta nove gramas e quarenta e nove centigramas) e 520 pedras de crack com peso aproximado de 72,3g (setenta e dois gramas e três decigramas).
+Posteriormente, o magistrado de primeira instância, tendo em vista pertencer o paciente a grupo de risco relacionado à Covid-19, converteu sua prisão preventiva em prisão domiciliar (e-STJ fls. 10/11).
+Irresignado, o Ministério Público interpôs recurso em sentido estrito. Além disso, a fim de conceder efeito suspensivo ao referido recurso, ajuizou medida cautelar inominada, que foi provida, por maioria, nos termos do acórdão colacionado às e-STJ fls. 23/32 (sem ementa).
+Neste habeas corpus, a defesa sustenta, em breve síntese, que o paciente seria possuidor de doença pulmonar crônica, fazendo jus à manutenção da prisão domiciliar concedida em primeira instância.
+Requer, ao final, a expedição de contramandado de prisão.
+Deferida a liminar e prestadas as informações, opinou o Ministério Público Federal pela denegação da ordem.
+É o relatório.
+Decido.
+Pois bem. Ao deferir a medida emergencial, consignei o seguinte (e-STJ fls. 35/37):
+Com efeito, da análise dos autos, verifica-se que, não obstante a reincidência específica e a grande quantidade de entorpecentes apreendidos, foi substituída a custódia preventiva por prisão domiciliar tendo em vista que o paciente seria possuidor de problemas respiratórios crônicos, circunstância que o colocaria em grupo de risco relacionado à Covid-19 (e-STJ fls. 10/11).
+No entanto, o Tribunal de origem, ao conceder o efeito suspensivo ao recurso em sentido estrito anteriormente interposto, embora tenha destacado a gravidade em abstrato do delito em tese praticado, não abordou de forma específica o problema de saúde do paciente que ensejara a substituição de sua prisão por prisão domiciliar, tendo consignado que, "quanto ao risco de contágio pelo coronavírus, não passa despercebido que o Requerido não respeitou o período de calamidade pública decorrente da pandemia, não se dignou, como recomendado, ao isolamento social, expondo-se por sua conta e risco a eventual contágio, optando, ao que consta, a ataque a saúde pública em situação de segurança já fragilizada" (e-STJ fl. 31).
+Entendo configurada, pois, ao menos neste juízo perfunctório dos autos, flagrante ilegalidade ensejadora da concessão da medida de urgência.
+Ante o exposto, defiro a liminara fim de suspender os efeitos do acórdão proferido pelo Tribunal de origem nos autos da Cautelar Inominada Criminal n. 2074937-49.2020.8.26.0000, até o julgamento definitivo do writ.
+Importante ressaltar que, atualmente, passado já algum tempo desde a deflagração da pandemia, este relator e os demais integrantes da Sexta Turma desta Corte têm externado compreensão diversa em casos como o presentee, portanto, negado o pleito de prisão domiciliar.
+Todavia, na espécie, considerando o transcurso de tempo desde o acatamento da medida de urgência e não sobrevindo aos autos nenhuma informação que exija a alteração da situação já consolidada com a manutenção daprisão domiciliar deferida em primeiro grau, ainda que em caráter liminar, é caso de excepcional concessão da ordem.
+À vista do exposto, concedo a ordem a fim de assegurar ao paciente, enquanto perdurar a pandemia, o direito de permanecerem prisão domiciliar, consoante as condições estabelecidas pelo Juízo de primeiro grau.
+Publique-se. Intimem-se.
