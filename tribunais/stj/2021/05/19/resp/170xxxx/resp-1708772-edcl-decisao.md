@@ -1,0 +1,23 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO interpõe embargos de declaração contra a decisão na qual dei provimento ao recurso especial defensivo.
+Nas razões deste agravo regimental, a acusação aponta ocorrência de contradição do decisum agravado, sob o fundamento de que o recurso especial seria intempestivo.
+Pugna pelo acolhimento dos declaratórios, com o fim de sanar as irregularidades apontadas e restabelecer o acórdão prolatado pelo Tribunal distrital.
+Decido.
+Não procede a fundamentação do Parquet.
+Conquanto o art. 619 do Código de Processo Penal disponha sobre o cabimento do recurso de embargos de declaração, o Superior Tribunal de Justiça acolheu a tese, há muito adotada pela doutrina, de que se trata de um recurso atípico, voltado ao aperfeiçoamento da compreensão de decisão judicial.
+Assim, tanto a sentença quanto o acórdão que contenham obscuridade ou contradição, ou que tenham omitido ponto sobre o qual deveria o órgão judicante pronunciar-se (art. 620 do CPP), dão ensejo à oposição de embargos.
+Relativamente ao cabimento deste recurso, esta Corte Superior de Justiça consolidou jurisprudência de que a contradição ou a obscuridade não implicam que o Tribunal deva acolher a tese apresentada pelo recorrente: o fato de a solução adotada pelo Tribunal não ser a que satisfaça o recorrente em nada invalida a decisão prolatada.
+No que tange à omissão, não há ofensa à lei se o tribunal dirimiu, de modo fundamentado, as questões que lhe foram submetidas. Tampouco existe omissão se a Corte deixa de se manifestar sobre um ou outro ponto secundário, alegado pelas partes, porquanto não está obrigada a se manifestar sobre todos.
+A omissão ocorre, no entanto, quando o acórdão deixa de se pronunciar sobre ponto essencial para o julgamento da lide. Observe-se que é ônus de quem alega a omissão demonstrar precisamente em que ponto ela incide, pois alegações genéricas não se abrigam nas hipóteses indicadas pelo art. 620 do CPP. Ilustrativamente:
+ ..
+1. Não há falar em violação do artigo 619 do Código de Processo Penal na hipótese em que esta Turma utilizou fundamentação suficiente para solucionar a controvérsia, sem incorrer em qualquer omissão, contradição, ambiguidade ou obscuridade.
+2. Tendo o Tribunal Regional realizado uma interpretação sistemática do disposto nos artigos 18, II, "h", da Lei Complementar nº 75/93, 41 da Lei nº 8.625/93 e 798, § 5º, "c", do Código de Processo Penal para concluir pela ocorrência de intimação pessoal do Ministério Público em audiência, não há falar em violação do artigo 97 da Constituição Federal ou de ofensa à Súmula Vinculante n. 10 do Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados. (EDcl no AgRg no REsp n. 1.252.860/GO, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 13/12/2013)
+Na hipótese, a defesa do acusado foi intimada dos primeiros embargos declaratórios contra a apelação em 4/5/2016 (fl. 175)e opôs os segundos embargos em 6/5/2016 (fl. 177). A intimação do acórdão do segundo recurso integrativo se deu em 6/4/2017 (fl. 194), e a interposição do recurso especial ocorreu em 7/4/2017 (fl. 196).
+Logo, diante do efeito suspensivo dos embargos, o recurso especial foi interposto tempestivamente, como, aliás, aferiu a Corte estadual na decisão de admissibilidade (fl. 218).
+Dessarte, o que se observa na hipótese é a real intenção do embargante de alterar o julgado, haja vista que a decisão embargada não foi obscura, omissa ou contraditória, sendo certo que o mero inconformismo da parte com o resultado do julgamento não se coaduna com a via do recurso integrativo.
+O posicionamento adotado nesta Corte Superior é que: "Os embargos de declaração não se prestam para sanar o inconformismo da parte com o resultado desfavorável no julgamento ou para rediscutir matéria já decidida" (EDcl no AgRg no RMS n. 38.465/RJ, Rel. Ministro Moura Ribeiro, 5ª T., DJe 6/9/2013).
+Portanto, ao se verificar que esta irresignação se resume a mero inconformismo do embargante com o resultado do julgamento, desfavorável à sua pretensão, julgo não existirnenhum fundamento que justifique a oposição destes embargos.
+Ainda que assim não fosse, conforme esclareci na decisão embargada,as instâncias de origem não apontaram nenhum elemento dos autos (como o modus operandi, por exemplo) que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso, o que contraria o entendimento consolidado nas Súmulas n. 440 do STJ, 718 e 719 do STF, situação que viabilizaria a concessão da ordem de ofício para abrandar o regime prisional mesmo que o recurso especial não fosse conhecido.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
