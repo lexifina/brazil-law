@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/2015, manejado pela FAZENDA NACIONAL, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 174):
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. RGPS. PRIMEIROS 15 DIAS DE AFASTAMENTO POR MOTIVO DE ENFERMIDADE OU ACIDENTE. AVISO PRÉVIO INDENIZADO E RESPECTIVA PARCELA DO DÉCIMO TERCEIRO SALÁRIO. COMPENSAÇÃO. CORREÇÃO MONETÁRIA.
+1. Os valores percebidos nos primeiros 15 dias de afastamento do trabalho por motivo de doença ou acidente não comportam natureza salarial  uma vez que não há contraprestação ao trabalho realizado  e têm efeitos transitórios.
+2. Não incide contribuição previdenciária sobre verbas pagas a título de aviso prévio indenizado, e respectivo décimo terceiro relativo ao mês do aviso prévio indenizado, por não comportarem natureza salarial, mas nítida feição indenizatória.
+3. A compensação das contribuições sociais incidentes sobre a remuneração paga ou creditada aos segurados far-se-á com contribuições destinadas ao custeio da Seguridade Social, nos termos do disposto no art. 26, parágrafo único, da Lei 11.457/2007. Aplicáveis, ainda, as diretrizes do art. 170-A do CTN.
+4. A correção monetária do indébito tributário deverá incidir desde os recolhimentos indevidos dos valores, em decorrência da Súmula 162 do STJ, com aplicação da Taxa SELIC, e nenhum outro índice de correção monetária ou taxa de juros de mora (art. 39, § 4º, da Lei 9.250/1995).
+5. Apelação e remessa oficial a que se nega provimento.
+Opostos embargos declaratórios, foram rejeitados (fls. 204/209).
+A parte recorrente aponta violação aos arts. 458 e 535 do CPC, 22, I e 28, I e § 9º da Lei 8.212/91. Sustenta, em resumo: (I) omissão no acórdão recorrido que não se manifestou acerca das questões postas nos aclaratórios; (II) a incidência de contribuição previdenciária sobre as verbas recebidas a título de 13º proporcional ao aviso prévio indenizado.
+Recurso extraordinário interposto às fls. 218/238.
+Remetidos os autos ao órgão fracionário para fins do disposto no art. 1.036 e seguintes do CPC/15, proferiu-se novo acórdão assim resumido (fl. 318):
+AGRAVO INTERNO EM RECURSO ESPECIAL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. DÉCIMO TERCEIRO PROPORCIONAL AO AVISO PREVISO INDENIZADO.
+INCIDÊNCIA. PRECEDENTES DO STJ. CONTRARIEDADE DO ACORDÃO DE APELAÇÃO RECORRIDO. RECURSO ESPECIAL ADMITIDO. AGRAVO INTERNO PROVIDO.
+I - O acórdão de apelação concluiu pela não incidência de contribuição previdenciária sobre o décimo terceiro proporcional ao aviso prévio indenizado. Recentes julgados do STJ estão em sentido diverso - AgInt nos EDcl no REsp 1693428/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 08/05/2018, DJe 11/05/2018; e AgInt no REsp 1661525/CE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 19/04/2018, DJe 26/04/2018.
+II - Agravo interno provido para admitir o recurso especial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto ao mais, a jurisprudência desta Corte é firme no sentido de que incide contribuição previdenciária sobre o 13º salário proporcional pago em decorrência da dispensa do cumprimento do aviso prévio (indenizado), porquanto tal verba integra o salário de contribuição.
+Nesse sentido, confiram-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. SALÁRIO MATERNIDADE. DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL AO AVISO PRÉVIO INDENIZADO. FÉRIAS GOZADAS. ADICIONAL DE HORAS EXTRAS, DE PERICULOSIDADE, DE INSALUBRIDADE E ADICIONAL NOTURNO. FALTAS JUSTIFICADAS. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A 1ª Seção desta Corte, no julgamento do Recurso Especial n.
+1.230.957/RS, sedimentou o entendimento segundo o qual incide a contribuição previdenciária em relação ao salário maternidade, bem como no pagamento de férias gozadas.
+III - É pacífico a orientação nesta Corte Superior no sentido de que as verbas relativas a adicionais noturno, de periculosidade, de insalubridade e de transferência, bem como os valores recebidos a título de horas extras, possuem natureza remuneratória, sendo, portanto, passíveis de contribuição previdenciária.
+IV - O Superior Tribunal de Justiça adota o entendimento segundo o qual incide contribuição previdenciária sobre as faltas abonadas, bem como sobre o 13º salário proporcional pago em decorrência da dispensa do cumprimento do aviso prévio (indenizado), porquanto tal verba integra o salário de contribuição.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp 1.808.503/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 30/09/2019, DJe 03/10/2019)
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DA EMPRESA. REGIME GERAL DA PREVIDÊNCIA SOCIAL. INCIDÊNCIA SOBRE O DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL AO AVISO PRÉVIO INDENIZADO, FÉRIAS GOZADAS, SALÁRIO-MATERNIDADE, ADICIONAL DE HORAS EXTRAS, ADICIONAIS NOTURNO, DE PERICULOSIDADE E DE INSALUBRIDADE.
+1. As Turmas que integram a Primeira Seção do STJ, em casos análogos, aos dos autos, adotam entendimento de que é legítima a incidência de contribuição previdenciária sobre o décimo terceiro salário, inclusive o pago (de forma indenizada e proporcionalmente) por ocasião da rescisão do contrato de trabalho.
+2. Assim, é pacífico o posicionamento do STJ quanto à incidência da contribuição previdenciária patronal sobre o décimo terceiro proporcional ao aviso prévio indenizado. Precedentes: AgInt nos EDcl no REsp 1.693.428/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 11/5/2018; AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, DJe 21/6/2016; AgRg no REsp 1.569.576/RN, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 1º/3/2016.
+3. No julgamento dos Recursos Especiais repetitivos 1.230.957/RS e 1.358.281/SP, a Primeira Seção firmou a compreensão de que incide contribuição previdenciária patronal sobre as seguintes verbas: salário-maternidade, salário-paternidade, horas extras, adicional de periculosidade e adicional noturno.
+4. No que tange às demais verbas (férias gozadas e adicional de insalubridade), também é pacífico o entendimento do STJ de que nelas incede a contribuição previdenciária patronal.
+5. Recurso Especial não provido.
+(REsp 1.814.866/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/10/2019, DJe 18/10/2019)
+ANTE O EXPOSTO, dou parcial provimento ao recurso especial fazendário para reconhecer a incidência de contribuição previdenciária sobre o valor recolhido a título de décimo terceiro proporcional ao aviso prévio indenizado.
+Publique-se.
