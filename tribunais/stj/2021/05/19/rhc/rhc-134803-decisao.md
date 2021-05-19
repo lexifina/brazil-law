@@ -1,0 +1,18 @@
+DECISÃO
+RAIMUNDO PROFIRO NETOsustenta a ocorrência de coação ilegal em virtude de acórdão proferido peloTribunal de Justiça do Estado da Bahiano HC n. 8027321-92.2019.8.05.0000.
+Nesta Corte, a defesa postula arevogação da prisão preventivado réu, sob alegação deexcesso de prazo para o encerramento do feito, uma vez que ele está cautelarmente privadode sua liberdade desde "26 de julho de 2018, portanto, há 2 (dois) anos e 1 (um) mês" (fl.118), pela suposta prática dos crimes previstos no art. 159, § 1º, c/c o art. 288, ambos do Código Penal, e ainda não se concluiu a instrução.
+Ao julgar a impetração originária, a Corte local ressaltou que o mandado de prisão expedido emdesfavor do ora recorrente foi cumprido apenas em 29/11/2019e concluiu, com base nas peculiaridades do caso, pela ausência de constrangimento ilegal. Confira-se (fl. 100, grifei):
+ ..  o Juízo a quo, por meio dos informes judiciais - evento nº 5749023 -,esclarece não ser verdadeira a assertiva dos Impetrantes de que oCartório deixou de juntar a defesa do Paciente aos autos na data em quefora apresentada - 12.12.2016 -, induzindo-o em erro ao suspender o prazoprescricional, visto que dito lapso em nada trouxe prejuízo concreto aoRéu, pois a decisão que decretou a prisão deste é anterior ao protocolo dareferida peça, bem como o mandado policial expedido, à época, sequer haviasido cumprido.
+Acrescenta, ainda, a Magistrada Singular que "o Paciente, de fato, seencontra preso, atualmente, no Presídio da Comarca de Salgueiro, Estado dePernambuco, entretanto, faltou com a verdade o Impetrante do HC ao alegarque o mesmo encontra-se preso há 03 (três) anos e 03 (três) meses, postoque, conforme se comprova pelo comunicado de prisão de fl. 269 dos autos,da lavra do Delegado de Polícia Leonardo Max Pereira Monteiro, a prisão doréu, em cumprimento ao Mandado da Vara Criminal de Monte Santo, seefetivou no dia 29 de novembro de 2019, de maneira que o réu encontra-sepreso há pouco mais de um mês, NÃO HAVENDO QUE SE FALAR EM EXCESSO DEPRAZO" (evento nº 5749023, datado de 02.01.2020).
+Assentado isto, constata-se que o Paciente estava foragido desde setembrode 2016, quando o decreto de prisão preventiva fora expedido, sendocumprido, apenas, em 29 de novembro do ano transato, como acima retratado.
+Ao prestar informações, o Juízo de primeiro grau esclareceu quea instrução processual já foi encerradae, tão logo sejam concluídas as diligências requeridas, as partes serão intimadas para oferecimento de alegações finais.
+Os prazos processuais previstos na legislação pátria devem ser computadosde maneira global e o reconhecimento do excesso deve-se pautar semprepelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII,da CF), considerando cada caso e suas particularidades.
+Com base nos dados coletados, não constato delonga injustificada natramitação processual, pois: a) o acusado permaneceu foragido por mais de 3anos, dado que contribuiu para o lapso decorrido desde a decretação desua custódia cautelar; b) a instrução processual já foi encerrada e há prognóstico da prolação de sentença em data próxima. Nesse sentido:
+ ..
+3. A aferição da razoabilidade da duração do processo não se efetiva deforma meramente aritmética.
+4. Havendo circunstâncias excepcionais a dar razoabilidade ao elastérionos prazos, como é o caso em análise, não há falar em flagranteilegalidade.
+ ..
+6. Ordem denegada, com recomendação de celeridade no julgamento da açãopenal.
+(HC n. 550.212/AL, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 30/6/2020,destaquei)
+À vista do exposto, nego provimento ao recurso.
+Publique-se e intimem-se.
