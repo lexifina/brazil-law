@@ -1,0 +1,19 @@
+DECISÃO
+DANIEL BELZ opõe embargos de declaração contra decisão de fls. 726-728, na qual conheci do agravo para não conhecer do recurso especial, diante de sua manifesta intempestividade.
+O embargante alega contradição no decisum, sob o argumentodeque: "não logramos localizar nos autos, que os dois primeiros embargos declaratórios interpostos junto ao Tribunal de Justiça do Estado de São Paulo, tenham sido julgados protelatórios, para darem azo a interpretação do DD. Relator" (fl. 731).
+Decido.
+Apesar dos esforços perpetrados pela defesa, não constato fundamentos suficientes a infirmar a decisãoimpugnada, cuja conclusão mantenho.
+Convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do CPP, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado.
+Ao realizar o juízo de admissibilidade prévio, o Presidente da Seção de Direito Criminal da Corte estadual consignou (fl. 672, destaquei):
+Com efeito, os embargos de declaração foram rejeitados em razão do caráter protelatório, oportunidade em que o Relator determinou que fosse certificado o trânsito em julgado (fls. 526/528), assim, a insurgência não interrompeu o prazo de quinze dias para o recurso extremo, que começou a fluir com a publicação do aresto prolatado às fls. 514/516, ocorrida em 08 de agosto de 2019 (fls. 517), sendo que o especial foi protocolado apenas aos 10 de dezembro de 2019 (fls. 534).
+Pertinentes ao caso a seguinte decisão: 1 - " ..  O recurso manifestamente incabível ou intempestivo não suspende ou interrompe o prazo para interposição de outro recurso" (STF - ARE 1047515 ED-AgR, Relator Min. EDSON FACHIN, Segunda Turma, julgado em 31/08/2018). II - Não conhecidos os terceiros embargos de declaração apresentados, em razão de sua manifesta inadmissibilidade, inclusive com o reconhecimento de seu caráter protelatório, inocorre a interrupção do prazo para propositura do recurso seguinte, no caso, os embargos de divergência. III - Agravo interno desprovido.
+Conforme exposto na decisão vergastada e de acordocom a jurisprudência do Superior Tribunal de Justiça,o manejo de embargos declaratórios reputados protelatórios não tem o condão de interromper ou suspender o prazo recursal.Ilustrativamente:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS PROTELATÓRIOS NÃO INTERROMPEM O PRAZO PARA INTERPOSIÇÃO DO RECURSO ESPECIAL.INTEMPESTIVIDADE. HABEAS CORPUS DE OFÍCIO.INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Tendo sido considerados protelatórios os embargos de declaração, esses não tiveram o condão de interromper o prazo recursal, nos termos da jurisprudência deste Sodalício, motivo pelo qual se afigura intempestivo o recurso especial (AgRg no REsp 1564614/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 25/4/2017, DJe 5/5/2017).
+2. "Não cabe pedido de concessão de ordem de habeas corpus de ofício, como meio de burlar a não admissão do recurso especial" (AgRg no AREsp 1527547/PR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 26/11/2019, DJe 2/12/2019).
+3. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp n. 1.601.896/MG, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 23/6/2020, grifei)
+No caso, a parte opôs quatro embargos de declaração: todos rejeitados e os últimos considerados protelatórios. O acórdão relativo ao julgamento dos terceiros embargos de declaração foi publicado em 8/8/2019 (quarta-feira), conforme certidão de fl. 580. Dessarte, o prazo para a interposição do recurso especial iniciou-se em 9/8/2019 (quinta-feira) e teve como termo final o dia 23/8/2019 (quinta-feira). No entanto, o recurso somente foi protocolado no dia 10/12/2019 (fl. 597), portanto, fora do prazo quinzenal.
+Diante de tais considerações, não existem os vícios descritos no art. 619 do CPP no aresto combatido.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
