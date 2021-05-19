@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo manejado peloInstituto Brasileiro do Meio Ambiente edos Recursos Naturais Renováveis - IBAMAcontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 361):
+PROCESSO CIVIL. APELAÇÃO. EXECUÇÃO FISCAL. IBAMA. DEPÓSITO INTEGRAL. ERRO NA CONVERSÃO EM RENDA. LIBERAÇÃO DO DEVEDOR E EXTINÇÃO DO FEITO EXECUTIVO. POSSIBILIDADE.
+1. Mantém-se a extinção da execução fiscal da multa administrativa, ajuizada pelo IBAMA, em face do pagamento integral da dívida.
+2. O executado apresentou comprovante de depósito judicial da dívida, mas a CAIXA converteu os valores em renda em favor da UNIÃO e não do IBAMA. Instado, o instituto solicitou o estorno do montante, refazendo-se o procedimento de conversão, sem impugnar, porém, o valor recolhido à época pelo devedor.
+3. Embora o pagamento só produza efeitos jurídicos quando se opera no tempo, modo e lugar previstos, o equívoco na sua realização deve ser relevado, já que o valor integral foi disponibilizado à conta do Tesouro Nacional, e a sentença afastou qualquer prejuízo ao assegurar ao IBAMA "expedir oficio à CEF visando a adoção dos atos necessários para a realização do estorno da conversão em renda realizada equivocadamente em favor da UNIÃO FEDERAL".
+4. Considera-se satisfeita a obrigação e extinta a execução, à luz do art. 924, II, do CPC, não se podendo imputar ao devedor, alheio ao erro na conversão do depósito, o ônus da demora na extinção do feito, devendo o IBAMA solucionar a questão junto à CAIXA pela via adequada. Precedentes.
+5. Fosse pouco, o depósito foi integral, vez que o IBAMA, por diversas vezes provocado, nada disse acerca de crédito remanescente.
+6. Apelação desprovida.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC (fls. 385/387).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 308 do Código Civil e 924, II, e1.022,II,do CPC. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo restou omisso acerca das questões neles suscitadas; e (II) "uma vez que não houve pagamento ao IBAMA, posto que o depósito foi convertido em renda da União, não ocorreu a satisfação do crédito, o que impede a extinção da execução" (fl. 399).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que a insurgência não merece prosperar.
+Verifica-se, inicialmente, não ter ocorrido ofensa aoart. 1.022, II,do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Por sua vez, o Tribunal local decidiu a questão trazida à discussão,nos seguintes termos(fl. 358):
+O equívoco no pagamento/conversão deve ser relevado, já que o valor integral foi disponibilizado à conta do Tesouro Nacional, e a sentença afastou qualquer prejuízo do exequente ao assegurar ao IBAMA "expedir oficio à CEF visando a adoção dos atos necessários para a realização do estorno da conversão em renda realizada equivocadamente em favor da UNIÃO FEDERAL".
+Nessas circunstâncias, deve ser considerada satisfeita a obrigação e extinta a execução, à luz do art. 924, II, do CPC,pois não se pode imputar ao devedor, alheio ao erro na conversão do depósito, o ônus da demora na extinção do feito, devendo o IBAMA solucionar a questão junto à CAIXA pela via adequada.
+Note-se que, ao assim decidir, a Corte de origem alinhou-se ao entendimento firmado no âmbito da Primeira Turma deste Sodalício sobre o tema, segundo o qual, tendo havido o integral cumprimento da obrigação pelo devedor, este não pode ser onerado com o prosseguimento da execução em razão de equívoco ao qual não deu causa, o quedeverá ser corrigido mediante providência administrativa, pondo-se termo à execução fiscal.
+Veja-se:
+PROCESSUAL CIVIL. AFRONTA AO ART. 535 DO CPC/1973. INEXISTÊNCIA.EXECUÇÃO FISCAL. DÍVIDA NÃO TRIBUTÁRIA. CONVERSÃO DO DEPÓSITO EM RENDA EM FAVOR DE ENTIDADE DIVERSA DA CREDORA. EQUÍVOCO DO DEPOSITÁRIO. LIBERAÇÃO DO DEVEDOR E EXTINÇÃO DO FEITO EXECUTIVO.RECONHECIMENTO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Inexiste violação ao art. 535 do CPC/1973 quando o Tribunal de origem aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como constatado na hipótese.
+3. A conversão do depósito em renda constitui hipótese extintiva do crédito tributário, a teor do art. 156, VI, do CTN, aplicado ao caso concreto por analogia.
+4. O equívoco da Caixa Econômica Federal na conversão em renda do valor depositado em favor de entidade credora diversa, a saber, a Fazenda Nacional, descumprindo decisão judicial que determinara tal medida em proveito do IBAMA, não vincula o devedor que sofreu a constrição judicial e satisfez o crédito pela hipótese descrita no aludido preceito do Código Tributário Nacional.
+5. Mantida a extinção da execução consignada na origem, deve a exequente buscar a reparação dos eventuais prejuízos na via própria, em demanda proposta contra o depositário, liberando-se o executado que em nada concorreu para o erro.
+6. Agravo conhecido para desprover o recurso especial.
+(AREsp 389.964/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/11/2017, DJe 7/2/2018)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
