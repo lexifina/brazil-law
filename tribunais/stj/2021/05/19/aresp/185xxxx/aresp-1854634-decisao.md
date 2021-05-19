@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por JULIANO DA SILVA COSTA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado por JULIANO DA SILVA COSTA, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. CITAÇÃO POR EDITAL. DILIGÊNCIAS INFRUTÍFERAS PARA LOCALIZAÇÃO DO ENDEREÇO DO CITANDO. AUSÊNCIA DE NULIDADE. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+Quanto à controvérsia posta nos autos, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do artigo 256, inciso II e § 3º, do CPC, no que concerne à nulidade da citação por edital promovida nos autos, trazendo os seguintes argumentos:
+É cediço que a citação é um dos atos mais importantes de todo e qualquer processo. Inexistindo citação válida, o processo deverá sempre ser anulado, visto que contraria o princípio absoluto do devido processo legal.
+Desta feita, a citação por edital pressupõe que o réu esteja em local incerto ou ignorado (art. 256, II, do CPC) e embora não seja de se exigir o esgotamento de todos os meios para a sua localização, nunca se pode dispensar diligências no sentido de localizar o seu paradeiro, mesmo diante da afirmação do autor.
+Registre-se que a citação por edital é medida excepcional que somente é admitida quando esgotados todos os meios para localização do réu, sendo insuficiente para ensejar a citação ficta a mera alegação da parte autora acerca da incerteza do paradeiro do mesmo, sob pena de violação aos princípios constitucionais do devido processo legal, do contraditório e da ampla defesa. (fls. 197/198).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia em análise, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+O caso em apreço apresenta uma peculiaridade que justifica a citação editalícia, qual seja, os fortes indícios de o Réu (ex-aluno da UNIRG) não residir mais na cidade de Gurupi, sendo desnecessário determinar nova citação por oficial de justiça, sobretudo, diante da ausência da informação de novo endereço pelo sistema SIEL.
+Logo, diante das diligências já realizadas em primeira instância, todas infrutíferas, e, homenageando os princípios da celeridade e efetividade na prestação jurisdicional, deve ser reconhecido o acerto na citação editalícia, mantendo incólume a sentença. (fl. 164)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
