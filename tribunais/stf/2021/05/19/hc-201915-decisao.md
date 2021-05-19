@@ -1,0 +1,28 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de João Pedro da Silva, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC nº 650.693/SP, Relator o Ministro Félix Fischer.
+    Sustenta o impetrante, em síntese, a presença de constrangimento ilegal ante a ausência dos requisitos autorizadores da prisão preventiva, sustentando a suficiência de medidas cautelares diversas (CPP, art. 319).
+    Aduz, ainda, excesso de prazo na prisão preventiva, pois o paciente encontra-se custodiado há 6 (seis) anos.
+    Requer, liminarmente, a concessão da ordem para que seja revogada a prisão preventiva ou concedida medida cautelar diversa.
+    Examinados os autos, decido.
+    Transcrevo o teor da decisão questionada:
+    “PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+    I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+    II - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, notadamente em razão da forma na qual os delitos foram em tese praticados, consistentes em roubo majorado, cometido em concurso de agentes, mediante grave ameaça e violência, com emprego de simulacro de arma de fogo, circunstâncias que revelam a periculosidade concreta do agente, tudo a demonstrar a indispensabilidade da imposição da segregação cautelar. Precedentes.
+    III - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+    IV - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+    Agravo regimental desprovido.”
+    Pelo que há no julgado proferido por aquela Corte não se vislumbra ilegalidade flagrante, abuso de poder ou teratologia. Pelo contrário, o aresto em questão encontra-se suficientemente motivado, restando justificado o convencimento formado.
+    Em relação à alegada insubsistência do ato mediante o qual determinada a custódia cautelar, cumpre destacar o que fez ver o STJ:
+    “Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, notadamente em razão da forma na qual os delitos foram em tese praticados, consistentes em roubo majorado, cometido em concurso de agentes, mediante grave ameaça e violência, com emprego de simulacro de arma de fogo, circunstâncias que revelam a periculosidade concreta do agente, tudo a demonstrar a indispensabilidade da imposição da segregação cautelar.”
+    É firme o entendimento da Corte no sentido de que “[a] periculosidade do agente, evidenciada pelo modus operandi, e a gravidade em concreto do crime constituem motivação idônea para a manutenção da custódia cautelar.” (RHC nº 117.243/SP, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 5/12/13)
+    Perfilhando esse entendimento: HC nº 126.051/MG, Segunda Turma, de minha relatoria, DJe de 29/5/15; HC nº 129.463/MT, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 1º/12/15; HC nº 126.700/SP, Primeira Turma, Relator para o acórdão o Ministro Edson Fachin, DJe de 17/6/16; HC nº 132.172/PR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 9/5/16; (HC nº 141.583/RN, Segunda Turma, Relator o Ministro Edson Fachin, DJe de 2/10/17).
+    Anoto, ainda, que a existência de condições subjetivas favoráveis ao paciente, tais como primariedade e residência fixa, não obstam a segregação cautelar, desde que presentes nos autos elementos concretos a recomendar sua manutenção, como se verifica no caso.
+    Por fim, registro que a questão do excesso de prazo não foi objeto de análise por parte daquela Corte Superior. Portanto, sua apreciação, de forma originária, neste ensejo, configuraria inadmissível supressão de instância.
+    Nesse sentido, destaco os precedentes seguintes: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07, entre outros.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 19 de maio de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
