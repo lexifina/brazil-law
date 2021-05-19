@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por PORTANOVA  ADVOGADOS ASSOCIAOS de decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 153):
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PÚBLICA. PEDIDO DE ALTERAÇÃO DE TITULARIDADE DE VERBA HONORÁRIA. INVIABILIDADE. NÃO PREENCHIMENTO DO DISPOSTO NO § 3º DO ARTIGO 15 DA LEI FEDERAL Nº 8.906/94.
+Conforme entendimento firmado nesta Colenda Câmara Cível, mostra-se descabida a pretensão de retificação do requisitório com a alteração de titularidade de honorários em favor de sociedade de advogados, quando não preenchidos os requisitos do art. 15, §3º, da Lei Federal nº 8.906/94.
+RECURSO DESPROVIDO.
+A esse acórdão foram opostos embargos de declaração, os quais restaram rejeitados (fls. 207/225).
+Sustenta a parte agravante, no recurso inadmitido, preliminar de violação ao art. 1.022 do CPC, uma vez que a despeito da oposição de embargos de declaração o Tribunal de origem deixou de apreciar a controvérsia à luz do art. 85, § 15, do CPC, restando obscuro, contraditório e omisso o acórdão recorrido.
+Aponta, ainda, além de dissídio jurisprudencial, ofensa ao art. 85, § 15, do CPC, ao argumento de que (fls. 271/272):
+ ..  não há qualquer limitação, à exceção do requerimento, imposta no dispositivo processual civil. Ao advogado basta o "requerimento" para que os honorários sejam pagos em favor da sociedade, é este o disposto no Codex Processual Civil e escancaradamente violado pelo TJRS.
+É de se salientar que a sistemática pleiteada e deferida nos autos da execução é possível em face de a outorga originária ter sido realizada em nome de todos os Procuradores (evidenciando que esta foi a procuração originária), pessoas físicas, que compõem a sociedade, o que denota que a verba será da pessoa jurídica por força de disposto em cláusula do contrato social, cuja cláusula contratual nº 15, consigna:
+ ..
+Portanto, todos os trabalhos, processos, judiciais ou extrajudiciais, patrocinados coletiva ou individualmente, passaram, a contar da constituição de Portanova & Advogados Associados, a ser patrimônio social e a esta incorpora toda e qualquer demanda, sendo que a tributação específica se dará tanto em relação à sociedade como em favor dos sócios na condição de pessoa física.
+A procuração originária foi outorgada aos Advogados que compõem a Sociedade PORTANOVA & ADVOGADOS ASSOCIADOS, os quais já fizeram a troca de titularidade de seus créditos de honorários sucumbenciais na cláusula 15 do contrato social, conforme acima referido e demonstrado, não se tratando de cessão de créditos.
+ ..
+O Estatuto da OAB - Lei 8.906/94 - não é claro ao referir que a procuração originária deve ser outorgada à sociedade, tendo em vista que se assim dissesse, estaria, hoje, em evidente contradição com o Novo Código de Processo Civil, que permite que tais pagamentos sejam realizados desta forma, ou seja: em favor da sociedade.
+A fundamentação de que a sociedade teria de estar incluída no instrumento de mandato originário há muito restou rechaçada pelo e. STJ, entendimento com o qual o r. Acórdão mostrou-se divergente:
+ ..
+Nas razões do agravo, aduz que os pressupostos de admissibilidade do recurso especial encontram-se presentes, repisando seus argumentos.
+Contrarrazões às fls. 451/464.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Presentes os pressupostos de admissibilidade do agravo, examino o próprio recurso especial.
+Nos termos da orientação jurisprudencial deste Superior Tribunal, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão, não se devendo confundir fundamentação sucinta com a sua ausência (REsp 763.983/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJ 28/11/2005).
+A propósito, confira-se o seguinte trecho do voto condutor do acórdão recorrido, in verbis (fls. 156/157):
+Verifico, desde já, que o ponto nevrálgico da questão não passa pela aplicação, ou não, do CPC/15, mas sim de legislação específica, in casu, a Lei Federal n.º 8.906/94, que, sobre a temática, assim dispõe:
+Art. 15. Os advogados podem reunir-se em sociedade simples de prestação de serviços de advocacia ou constituir sociedade unipessoal de advocacia, na forma disciplinada nesta Lei e no regulamento geral.(Redação dada pela Lei nº 13.247, de 2016)
+ ..
+§ 3º As procurações devem ser outorgadas individualmente aos advogados e indicar a sociedade de que façam parte.
+Ora, as procurações de fls. 28/30 não mencionam a sociedade de advocacia, razão pela qual não merece guarida a pretensão da parte agravante de que conste a sociedade como credora da verba honorária, sendo inviável a retificação do requisitório. Não menos importante, percebo que o precatório foi expedido em nome de procurador atuante, não sendo cabível a alteração pretendida. Nesse sentido:
+ ..
+Destarte, não procede a tese de negativa de prestação jurisprudencial, mormente quando se verifica que a solução dada pela Corte local encontra-se em harmonia com a jurisprudência deste Superior Tribunal. Senão vejamos:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. PRECATÓRIO EXPEDIDO EM NOME DOS ADVOGADOS AOS QUAIS SÃO OUTORGADOS PODERES NA PROCURAÇÃO. PAGAMENTO A SOCIEDADE DE ADVOGADOS QUE NÃO CONSTOU NO INSTRUMENTO DE MANDATO E NÃO EXISTIA AO TEMPO DA OUTORGA.IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 83/STJ. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7 DO STJ.
+1. Na hipótese dos autos, verifica-se que o entendimento do Tribunal de origem está em conformidade com o orientação do STJ. Com efeito, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que há ilegitimidade da sociedade de advogados para executar os honorários advocatícios se a procuração deixar de indicar o nome da sociedade.
+2. Ademais, extrai-se do decisum objurgado e das razões de Recurso Especial que, ainda que fosse ultrapassado o óbice da Súmula 83/STJ, o acolhimento da pretensão recursal demandaria reexame do contexto fático-probatório, especialmente dos instrumentos procuratórios constantes dos autos e de cláusulas de contrato social, o que não se admite ante o óbice das Súmulas 5 e 7 do STJ.
+3. Agravo Interno não provido.
+(AgInt no AREsp 1.773.546/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 6/4/2021) - Grifo nosso
+PROCESSUAL CIVIL. EXECUÇÃO. HONORÁRIOS SUCUMBENCIAIS. SOCIEDADE DE ADVOGADOS. ILEGITIMIDADE ATIVA. PREQUESTIONAMENTO. MATÉRIA EXCLUSIVAMENTE DE DIREITO. NÃO INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de embargos ajuizados pelo Ipergs à execução de honorários sucumbenciais fixados em 5% do valor da condenação nos autos da ação ordinária, ajuizada por Sag-clínica de Anestesia e Analgesia Ltda. contra o Ipergs.
+II - Na sentença, acolheu-se o pedido dos embargos para extinguir a execução, por ilegitimidade ativa da sociedade de advogados, condenando a exequente em 10% sobre o valor da execução. No Tribunal a quo, a sentença foi reformada e determinou-se o prosseguimento da execução. Esta Corte deu provimento ao recurso especial para restabelecer a sentença.
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido da ilegitimidade da sociedade de advogados para executar os honorários advocatícios se a procuração deixar de indicar o nome da sociedade.
+IV - O cerne da controvérsia diz respeito à legitimidade ativa da sociedade de advogados executar os honorários de sucumbência.
+V - O Tribunal de origem, ao reformar a sentença, adotou estes fundamentos: ".. uma vez que a sentença foi proferida na vigência do Novo Código de Processo Civil - dia 29/03/2016 -, conforme disciplina o art. 85, § 15 do mesmo diploma legal, basta que o advogado requeira que o pagamento seja efetuado em favor da sociedade de advogados para que haja o reconhecimento da legitimidade ativa do ora apelante (..)." Assim sendo, tendo em vista que as normas processuais do NCPC se aplicam aos feitos em andamento, por força do art. 14 do NCPC, é de ser desconstituída a sentença e dado seguimento à execução.
+VI - Verifica-se que o Tribunal de origem se confronta com o entendimento desta Corte Superior no sentido da ilegitimidade da sociedade de advogados para executar os honorários advocatícios se a procuração deixar de indicar o nome da sociedade. Nesse sentido: (AgInt no AREsp n. 1.185.317/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, j. em 1º/3/2018, DJe 6/3/2018, AgRg no Ag n.1.397.911/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/11/2015, DJe 26/11/2015, EDcl no AgRg no AREsp n. 92.254/AL, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 2/9/2014, DJe 24/11/2014, AgRg no AgRg no REsp n. 894.033/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/9/2012, publicado em 2/10/2012 e AgRg nos EREsp n. 1.114.785/SP, relator Ministro Luiz Fux, Corte Especial, julgado em 3/11/2010, DJe 19/11/2010).
+VII - Verifica-se que a apreciação da demanda não comporta a análise de provas dos autos, em se tratando de matéria exclusivamente de direito, o que afasta a incidência da Súmula n. 7 desta Corte.
+VIII - Para conhecimento do recurso especial, é indispensável o prequestionamento da matéria de direito federal, que ocorre quando o acórdão recorrido se manifesta inequivocamente acerca da tese, condição que se verificou na hipótese dos autos, o que afasta a ausência de prequestionamento.
+IX - Agravo interno improvido.
+(AgInt no REsp 1.710.975/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 2/12/2020) - Grifo nosso
+Destarte, incide na espécie a Súmula 83/STJ.
+ANTE O EXPOSTO, conheço do agravo para conhecer do recurso especial, negando-lhe provimento.
+Publique-se.
