@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial da Fazenda do Estado de São Paulo, fundado nas alíneas "a" e "c"do permissivo constitucional e interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO. MANDADO DE SEGURANÇA COLETIVO. BENEFÍCIO FISCAL. REVOGAÇÃO. PRINCÍPIO DA ANTERIORIDADE. FALTA DE IMPUGNAÇÃO ESPECÍFICA. Apelo restrito à reprodução das informações prestadas pela autoridade coatora. Razões recursais dissociadas dos fundamentos da sentença. Inobservância do art. 1.010 do CPC. Aplicação do art. 932, III, do CPC.RECURSO NÃO CONHECIDO.
+Opostos embargos de declaração, foram eles parcialmente acolhidos para sanar omissão sem alteração do resultado do julgamento.
+No recurso especial, a recorrente alega, além da divergência jurisprudencial,violação dos seguintes dispositivos: a)arts. 489, § 1º, I,e 1.022, I e II, do Código de Processo Civil, sustentando que o aresto combatido padece de omissões; b)932, III e parágrafo único, do Código de Processo Civil, aduzindo que antes de ser considerada inadmissível a apelação, o recorrente deveria ter sido previamente intimado para sanear o suposto vício; c)arts.1.010, II, III e IV, 1.013 do Código de Processo Civil, argumentando que o acórdão recorrido se recusou a conhecer da apelação que inequivocamente continha exposição dos fatos e do direito e razões para a reforma da sentença; d) art. 496 do Código de Processo Civil, sustentando ausência de apreciação do reexame necessário.
+Não houve contrarrazões.
+Sobreveio juízo negativo de admissibilidade pela incidência da Súmula n. 7/STJ, bem como pela ausência de demonstração do cotejo analítico, com relação à alínea "c".
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial possui condições de admissão.
+Não houve contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante impugnou o fundamento adotado na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial.
+Cuida-se, na origem, de mandado de segurança coletivo impetrado pela agravada. O recurso de apelação da recorrente não foi conhecido por ausência de impugnação direta e específica dos fundamentos da sentença.
+A insurgência não merece prosperar.
+Preliminarmente, a Fazenda aponta negativa de prestação jurisdicional.
+No ponto, as razões recursais deixaram de explicitar quais seriam os vícios do acórdão recorrido, limitando-se a dizer que o acórdão se recusou a conhecer dos argumentos contidos na apelação.
+Tal argumentação é genérica e atrai o óbice da Súmula n. 284/STF.
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ISS. VIOLAÇÃO DO ART.1.022 DO CPC. SÚMULA N. 284/STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO CONFIGURAÇÃO. ANALOGIA E NULIDADE DOS TÍTULOS. AUSÊNCIA DE JUÍZO DE VALOR PELA CORTE DE ORIGEM. SÚMULA N. 211/STJ. LISTA ANEXA À LC 116/2003. INTERPRETAÇÃO EXTENSIVA. ENQUADRAMENTO. SÚMULAS N. 5 E 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. In casu, a parte deixou de apontar quais seriam as omissões capazes de sustentar a mencionada violação, aduzindo de forma genérica a existência de vício, razão pela qual se pode falar em deficiência de fundamentação (Súmula n. 284/STF).
+2. O Tribunal de origem enfrentou a contento a controvérsia posta, fundamentando sua razão de decidir e expressando os motivos pelos quais enquadrou os serviços prestados no item 7.13 da lista anexa à LC n. 116/03.
+3. Quanto às teses atreladas aos arts. 108, § 1º, do CTN e 783 e 803, I, do CPC, em que pese os argumentos suscitados, o agravo não merece provimento, pois não houve o prévio prequestionamento das teses defendidas pelo agravante (Súmula n. 211/STJ).
+4. O cumprimento do requisito do prequestionamento se observa com o debate sobre a tese jurídica específica, isto é, com a emissão de juízo de valor sobre determinada norma e a sua aplicabilidade ao caso concreto, não bastando a simples provocação em sede de aclaratórios para que a Corte a quo se manifeste.
+5. Esse e.STJ tem entendimento consolidado, firmado em sede recursos repetitivos (REsp n. 1.111.234) no sentido de que a leitura extensiva dos itens da lista de serviços anexa à LC n. 116/03 para fins de enquadramento, como é o caso dos autos, depende de análise dos elementos fáticos e probatórios constantes dos autos, assim como do contrato social da sociedade. Súmulas n. 5 e 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp 1573372/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 10/03/2020, DJe 17/03/2020)
+No mérito, verifico que atesereferenteà prévia intimação da recorrente para que fosse sanado o vício, bem como a tese relacionada à apreciação do recurso necessário não foram apreciadas na origem, razão pela qual não podem ser analisadas nessa seara por carência de necessário prequestionamento (Súmula n. 211/STJ).
+Exemplificativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.RESPONSABILIDADE PELO PAGAMENTO DO IPTU DE BEM IMÓVEL ARREMATADO EM HASTA PÚBLICA. EXPRESSA PREVISÃO DE RESPONSABILIDADE DO ARREMATANTE NO EDITAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Firme o entendimento do Superior Tribunal de Justiça de que, "havendo expressa menção no edital de hasta pública nesse sentido, a responsabilidade pelo adimplemento dos débitos tributários que recaiam sobre o bem imóvel é do arrematante" (AgRg no AREsp 248.454/SP, Rel. Min. Arnaldo Esteves Lima, Primeira Turma, DJe 12/9/2013). No mesmo sentido: AgInt nos EDcl no AREsp 1.006.727/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 13/2/2019.
+2. No caso dos autos, tendo a Corte de origem consignado que o edital de hasta pública previa, expressamente, que os créditos tributários relativos ao IPTU seriam transferidos ao arrematante do bem imóvel, não há como afastar a responsabilidade deste pelo adimplemento do referido débito tributário.
+3. A matéria referente ao art. 686, V, do CPC não foi objeto de análise pelo Tribunal de origem, ainda que implicitamente. Desse modo, carece o tema do indispensável prequestionamento viabilizador do apelo extremo, motivo pelo qual não merece ser apreciado, consoante o que preceitua a Súmula 211 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1845861/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 18/05/2020, DJe 20/05/2020)
+Por fim, com relação à ofensa aosarts. 1.010, II, III e IV, 1.013 do CPC, alterar a conclusão do Tribunal local a fim de concluir que foram devidamente impugnados os fundamentos da sentença exigiria revolvimento do acervo fático-probatório dos autos, esbarrando na Súmula n. 7//STJ.
+Cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA DIALETICIDADE EM APELAÇÃO. ANÁLISE DE SUA OBSERVÂNCIA.
+IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. " E mbora a mera reprodução da petição inicial nas razões de apelação não enseje, por si só, afronta ao princípio da dialeticidade, se a parte não impugna os fundamentos da sentença, não há como conhecer da apelação, por descumprimento do art. 514, II, do CPC/1973, atual art. 1.010, II, do CPC/2015". (AgInt no REsp 1735914/TO, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/8/2018, DJe de 14/8/2018)
+2. Analisando o acórdão proferido na origem, verifica-se que a Corte local manifestou compreensão no sentido de que "..as razões recursais não atacam os fundamentos da sentença, de modo que, desrespeitado, na hipótese, o princípio da dialeticidade recursal, o presente recurso não pode ser conhecido, por lhe faltar requisito indispensável à regularidade formal".
+3. Nota-se, pois, que a Corte local entendeu que houve afronta ao princípio da dialeticidade, uma vez que não foram devidamente impugnados os fundamentos da decisão então combatida.
+4. A revisão de tal posicionamento não se mostra viável em recurso especial, pois tal providência demandaria reincursão no acervo fático-probatório dos autos, esbarrando, assim, no óbice na Súmula 7/STJ.
+5. Agravo Interno não provido.
+(AgInt no AREsp 1630091/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/06/2020, DJe 30/06/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO COMBATIDA. ART. 932, III, DO CPC/2015. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. PRINCÍPIO DA DIALETICIDADE NÃO ATENDIDO. MATÉRIA CONSTITUCIONAL. IMPUGNAÇÃO NÃO DEMONSTRADA.
+1. Em que pese aos agravantes terem aberto tópico específico sobre os fundamentos de incidência das Súmulas 7 e 83 do STJ, a fundamentação expendida nesses capítulos recursais não foram aptos a cumprir o requisito da dialeticidade.
+2. Em relação à incidência da Súmula 83/STJ, caberia à parte recorrente apresentar julgados supervenientes ou contemporâneos aos precedentes utilizados na decisão agravada, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada. Precedentes: AgInt no AREsp 1.322.384/RJ, de minha relatoria, julgado em 26/2/2019, DJe 11/3/2019; AgInt no AREsp 1.106.545/MA, Rel. Min. Marco Buzzi, Rel. p/ Acórdão Min. Maria Isabel Gallotti, Quarta Turma, julgado em 22/5/2018, DJe 15/6/2018 e AgInt no AREsp 885.406/MS, Rel. Min. Moura Ribeiro, Terceira Turma, julgado em 20/3/2018, DJe 3/4/2018.
+3. Com relação à incidência da Súmula 7/STJ, não trouxeram os agravantes alegação efetiva e voltada a afastar as conclusões da decisão combatida, demonstrando que houve cotejo entre o acórdão impugnado e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual. Precedentes: AgRg no AREsp 766.962/SP, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, julgado em 4/9/2018, DJe 20/9/2018; e AgInt no AREsp 1.160.409/SP, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 17/5/2018, DJe 21/11/2018.
+4. Não se apontou nenhum excerto do recurso que corroborasse a afirmação de que foi demonstrada, ao longo das razões do agravo, a circunstância de o debate não ser exclusivamente constitucional.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 739.232/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 11/04/2019, DJe 23/04/2019)
+Deixo de analisar a divergência em virtude doóbiceaplicadoao conhecimento do recurso pela alínea "a".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARGUMENTAÇÃO GENÉRICA. SÚMULA N. 284/STF. VIOLAÇÃO DOS ARTS. 932 E 496 DO CPC. TESES NÃO PREQUESTIONADAS. SÚMULA N. 211/STJ. DIALETICIDADE EM APELAÇÃO. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
