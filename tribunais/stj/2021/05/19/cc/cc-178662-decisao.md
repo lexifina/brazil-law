@@ -1,0 +1,64 @@
+DECISÃO
+Vistos, etc.
+Trata-se de conflito negativo de competência suscitado pelo Tribunal de Justiça do Estado de Minas Gerais, em relação ao Tribunal Regional Federal da 1ª Região, nos domínios do mandado de segurança impetrado por Kaue Ribeiro Oliveira Frazão contra ato do Juízo da 2ª Vara Cível da Comarca de Cássia/MG, por meio do qual pugna o reconhecimento de seu direito à cobrança de honorárioscontratuais a que faz jus.
+Segundo o Juízo suscitado (e-STJ, fl. 122):
+Os Tribunais de Justiça têm competência originária para o processamento e o julgamento dos mandados de segurança impetrados contra atos dos respectivos tribunais e juízes estaduais, além de outras competências previstas em cada Constituição Estadual.
+Vale destacar o que dispõe o Art. 106, inciso I, alínea "c", da Constituição do Estado de Minas Gerais, in verbis:
+Art. 106. Compete ao Tribunal de Justiça, além das atribuições previstas nesta Constituição:
+I - processar e julgar originariamente, ressalvada a competência das justiças especializadas:
+"a)..
+"b)..
+"c) o mandado de segurança contra ato do Governador do Estado, da Mesa e da Presidência da Assembléia Legislativa, do próprio Tribunal ou de seus órgãos diretivos e colegiados, de Juiz de Direito, nas causas de sua competência recursal, de Secretário de Estado, do Presidente do Tribunal de Contas, do Procurador-Geral de Justiça, do Advogado-Geral do Estado e contra ato de Presidência de Câmara Municipal ou de suas comissões, quando se tratar de processo de perda de mandato de Prefeito:  .. ".
+Por fim, vale aduzir que a questão em comento já entra-se sumulada pelo Superior Tribunal de Justiça, por meio da Súmula 363, com o seguinte enunciado: "Súmula n.º 363. Compete à Justiça estadual processar e julgar a ação de cobrança ajuizada por profissional liberal contra cliente".
+Isso Posto, declino da competência para o Tribunal de Justiça do Estado de Minas Gerais para o regular processamento do feito.
+Para o Juízo suscitante (e-STJ, fls. 135-136):
+Ao propor a ação contra o Instituto Nacional do Seguro Social  INSS, Juracir Pimenta de Assis almejou restabelecer o referido benefício de auxílio-doença ou, alternativamente e com base na mesma doença, receber o benefício de aposentadoria por invalidez.
+Desta forma, o ato judicial questionado pelo presente mandado de segurança foi proferido por Juiz Estadual no exercício da competência federal, prevista no § 3º do artigo 109 da Constituição Federal, por tratar-se de ação previdenciária não decorrente de acidente de trabalho.
+Certamente por isto, o recurso de apelação, ofertado pelo autor foi endereçado ao "Egrégio Tribunal Regional Federal da 1ª Região" (cf. f. 51-TJ e seguintes), como determinado no inciso II do artigo 108 da Constituição Federal.
+Preceitua, também, a Constituição Federal que compete aos Tribunais Regionais Federais processar e julgar originariamente "os mandados de segurança e os "habeas data" contra ato do próprio Tribunal ou de juiz federal" (artigo 108, item I, alínea b).
+Em nota sobre este dispositivo constitucional, Theotônio Negrão observa, com propriedade, que a "expressão juiz federal", no que interessa aqui, deve ser interpretada de forma abrangente, alcançando, assim, o juiz estadual no exercício da competência Federal" (Código de Processo Civil e Legislação Processual em Vigor, Editora Saraiva, 45º edição, p. 55), que é exatamente o caso destes autos.
+Por estas razões, o Tribunal Regional Federal da 1ª Região é o competente para processar e julgar o presente mandado de segurança.
+Neste sentido e em caso análogo:
+"CONFLITO DE COMPETÊNCIA. PROCESSO CIVIL. BENEFÍCIO PREVIDENCIÁRIO. MANDADO DE SEGURANÇA. ATO DE JUIZ DO JUIZADO ESPECIAL ESTADUAL. COMPETÊNCIA DELEGADA. ANULAÇÃO. JUIZADO ESPECIAL FEDERAL. TRIBUNAL REGIONAL FEDERAL. Compete a esta Corte Superior o julgamento de conflito de competência entre Turma Recursal Federal e Tribunal Regional Federal, pois este não possui competência para a revisão dos julgados daquela. Precedente. É da competência da Turma Recursal Federal o processamento e julgamento de mandado de segurança contra ato de Juiz do Juizado Estadual Especial que se dá por investido de jurisdição federal afeta ao Juizado Especial Federal. Conflito conhecido para declarar a competência da 22 Turma do Juizado Especial Federal da Seção Judiciária de Minas Gerais" (STJ  Terceira Seção, CC 63.249/MG, Rel. Min. Carlos Fernando Mathias - Juiz Convocado do TRF 1ª Região-, j. aos 12/09/2007, DJ 01/10/2007, p. 209).
+Por isso, declinei da competência para o julgamento deste mandado de segurança para o TRF da 1ª Região, que, por sua vez, devolveu a ação constitucional a este Tribunal de Justiça.
+O Ministério Público Federal manifestou-se pela competência do Tribunal de Justiça (e-STJ, fls. 144-148).
+É o relatório.
+A competência para o julgamento de mandado de segurança é definida em razão da natureza da autoridade impetrada (ratione auctoritatis).
+Nesse sentido:
+PROCESSO CIVIL. CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA IMPETRADO CONTRA DIRIGENTE DE SUBSIDIÁRIA DE SOCIEDADE DE ECONOMIA MISTA FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. Esta Corte firmou entendimento segundo o qual o critério para se estabelecer a competência para o julgamento do mandado de segurança é definido em razão da função ou da categoria funcional da autoridade indicada como coatora (ratione auctoritatis). Nessa senda, mostra-se despicienda a matéria versada na impetração, a natureza do ato impugnado ou a pessoa do impetrante.
+2. No caso, figura no polo passivo do mandamus a sociedade anônima Liquigás, subsidiaria direta da Petrobras (sociedade de economia mista federal), que, em tese, exerce função federal delegada, porquanto suas atribuições decorrem e são, em princípio, controladas diretamente pelo poder estatal ao qual estão vinculadas.
+Precedentes.
+3. Conflito conhecido para declarar competente a Justiça Federal.
+(CC 150.945/SP, de minha relatoria, PRIMEIRA SEÇÃO, julgado em 13/9/2017, DJe 20/9/2017).
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇAS ESTADUAL E FEDERAL. MANDADO DE SEGURANÇA. AUTORIDADE IMPETRADA. CHEFE DA AGÊNCIA DO INSS EM SERRA/ES. RETIFICAÇÃO DE ATO ADMINISTRATIVO. BENEFÍCIO PREVIDENCIÁRIO. CLASSIFICAÇÃO EQUIVOCADA. AUXÍLIO-DOENÇA CATALOGADO COMO ACIDENTE DE TRABALHO. COMPETÊNCIA FEDERAL. CRITÉRIO RATIONE AUCTORITATIS. PRECEDENTES.
+1. Cuida-se de conflito negativo de competência instaurado entre o Juízo Federal da 2ª Vara Cível da Seção Judiciária do Estado do Espírito Santo, o suscitado, e o Juízo de Direito da Vara Especializada em Acidentes de Trabalho de Vitória, o suscitante, nos autos de mandado de segurança impetrado por MZ Informática Ltda. contra ato supostamente abusivo e ilegal do Chefe da Agência da Previdência Social do INSS no Município de Serra/ES, por meio do qual pretende a impetrante a retificação de ato administrativo.
+2. Noticiam os autos que a autoridade coatora, erroneamente, indicou no ato administrativo impugnado a ocorrência de acidente de trabalho (Código 91) como causa do afastamento do empregado Marcos Rodrigues Martins, embora a licença, na verdade, tenha se dado em razão de doença (Código 31), o que gerou consequências previdenciárias mais gravosas para o empregador.
+3. Embora a discussão tangencie o tema afeto à concessão de benefício previdenciário, a competência interna, por força do que dispõe o art. 9º, § 1º, II, do Regimento do STJ, é da Primeira Seção, pois o que pretende a impetrante é a anulação de ato administrativo, com retificação do registro do benefício concedido a seu empregado de acidente de trabalho (Código 91) para auxílio doença (Código 31).
+4. A competência para o julgamento de mandado de segurança é estabelecida em razão da função ou da categoria funcional da autoridade indicada como coatora (ratione auctoritatis), sendo irrelevante a matéria tratada na impetração, a natureza do ato impugnado ou a pessoa do impetrante. Precedentes.
+5. No caso, a autoridade indigitada coatora é o Chefe da Agência da Previdência Social no Município de Serra/ES, autoridade pública federal vinculada ao Instituto Nacional do Seguro Social-INSS.
+Tratando-se de autoridade federal, a competência para julgamento do feito é da Justiça Federal de Primeira Instância, ainda que a matéria possa, de algum modo, tangenciar o tema relativo à concessão do benefício de acidente de trabalho.
+6. Ainda que assim não fora, não se trata, na espécie, de demanda acidentária, mas de mandado de segurança que visa a retificação de um ato administrativo.
+7. Conflito de competência conhecido para declarar competente o Juízo Federal da 2ª Vara Cível da Seção Judiciária do Estado do Espírito Santo, o suscitado.
+(CC 111.123/ES, Rel. Min. CASTRO MEIRA, PRIMEIRA SEÇÃO, julgado em 10/11/2010, DJe 22/11/2010).
+CONFLITO NEGATIVO DE COMPETÊNCIA. MANDADO DE SEGURANÇA IMPETRADO CONTRA AUTORIDADE FEDERAL CHEFE DE FISCALIZAÇÃO DA AGÊNCIA NACIONAL DO PETRÓLEO - ANP - LIMINAR CONCEDIDA POR JUÍZO ABSOLUTAMENTE INCOMPETENTE. ANULAÇÃO. COMPETÊNCIA PARA JULGAR O FEITO DE UMA DAS VARAS DA JUSTIÇA FEDERAL DO ESTADO DE ALAGOAS.
+1. Cuidam os autos de conflito de competência suscitado pelo TRF 5ª Região nos seguintes termos: O Juiz de Direito da Comarca de São Sebastião não tem competência para processar e julgar mandado de segurança impetrado contra ato de autoridade federal, pois tal hipótese não se encontra nas exceções previstas no § 3º do art. 109 da CF.
+O Tribunal de Justiça do Estado de Alagoas declarou-se incompetente para o julgamento do agravo de instrumento interposto, mas não declarou a nulidade do ato proferido pelo Juiz de Direito.
+Este Tribunal, por outro lado, não tem jurisdição sobre o Juízo Estadual, para declarar, por incompetência absoluta, a nulidade da decisão agravada.
+Em resumo: a) Compete ao Juízo Federal de Alagoas processar e julgar mandado de segurança contra ato de autoridade federal, , domiciliado em sua jurisdição - art. 109, VIII, CF;
+b) compete ao eg. Tribunal de Justiça de Alagoas decidir recurso interposto contra ato de Juiz de Direito não investido de competência delegada, ainda que para declarar a nulidade do ato recorrido.
+Diante do exposto, suscito o conflito de competência e determino a remessa dos autos ao Superior Tribunal de Justiça.
+2. A competência para julgar mandado de segurança impetrado contra autoridade federal, in casu, o Chefe de Fiscalização da Agência Nacional do Petróleo e Gerente Regional de Administração Fazendária, é da Justiça Federal nos moldes do artigo 109, VIII, da Constituição Federal.
+3. "A regra que confere competência à Justiça Federal para julgamento de mandado de segurança de autoridade federal não se submete à permissão constitucional de delegação à Justiça Estadual comum do art. 109, § 3º da Constituição Federal de 1988, quando inexistir Vara Federal no local de domicílio do Autor, porque se trata de competência rationae personae de natureza absoluta e indelegável."
+4. Este Superior Tribunal de Justiça por exercer jurisdição sobre as justiças estadual e federal, possui autoridade para, ao examinar conflito de competência, anular decisão proferida por juiz absolutamente incompetente de qualquer dessas justiças.
+5. Conflito conhecido para declarar nula a decisão proferida pelo Juízo estadual da Comarca de São Sebastião/AL e determinar a competência de uma das Varas de Justiça Federal/AL para apreciar e julgar o presente feito.
+(CC 85.217/PE, Rel. Min. JOSÉ DELGADO, PRIMEIRA SEÇÃO, julgado em 10/10/2007, DJ 29/10/2007, p. 173).
+Processual Civil. Conflito Negativo de Competência. Ato de Juiz Estadual Atuando em Competência Delegada Federal.
+1. No Mandado de Segurança a competência para processar e julgar a ação define-se pela categoria, qualificação e hierarquia funcional da autoridade coatora e pela natureza do ato impugnado.
+2. Precedentes jurisprudenciais.
+3. Conflito conhecido e declarada a competência do Tribunal de Justiça do Estado do Maranhão, suscitante.
+(CC 30.018/MA, Rel. Min. MILTON LUIZ PEREIRA, PRIMEIRA SEÇÃO, julgado em 24/4/2002, DJ 17/06/2002, p. 182).
+No caso, a autoridade coatora é o Juiz de Direito da 2ª Vara Cível da Comarca de Cássia/MG, autoridade estadual que atuou na competência delegada, já que o pedido e a causa de pedir não indicaram causa acidentária, mas restabelecimento de auxílio-doença previdenciário (natureza 31)e a concessão de aposentadoria por invalidez (e-STJ, fls. 29 a 33, e 37).
+Sendo assim, aplico à hipótese a Súmula 568/STJ, a qual dispõe que "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro nos arts. 66, II, e 955, parágrafo único, I, do CPC, conheço do conflito e declaro competente o Tribunal de Justiça do Estado de Minas Gerais, o suscitante.
+Publique-se. Intimem-se.
