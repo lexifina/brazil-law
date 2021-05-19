@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto pelasINDÚSTRIAS TÊXTEIS SUECO LTDA., fundadona alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Regiãoassim ementado (e-STJ fl. 275):
+TRIBUTÁRIO. ADUANEIRO. RECINTO ALFANDEGADO. REGIME DE ENTREPOSTO ADUANEIRO. AUTORIZAÇÃO. LIBERAÇÃO DAS MERCADORIAS. IMPOSSIBILIDADE.
+1. A liberação da mercadoria pela via do entrepostamento exige a prévia e formal autorização do recinto para operar no regime de entreposto aduaneiro na importação e na exportação, conforme prescrito na Instrução Normativa SRF nº 241/2002 (então vigente).
+2. A Poly Terminais Portuários S.A não detinha autorização para operar como entreposto aduaneiro, conforme Ato Declaratório Executivo - ADE nº 19 de 17/11/2010, expedido pela Receita Federal do Brasil.
+3. Não há elementos que permitam acolher a tese de que o recinto alfandegado estaria autorizado a operar em regime de entreposto aduaneiro, revelando-se pertinente a ação da autoridade fiscal que, ao perceber o erro administrativo, procedeu a sua correção.
+Os embargos de declaração opostos foram acolhidos, em parte, tão somente para fins de prequestionamento (e-STJ fls. 317/324).
+No recurso especial, a recorrente sustenta violação dos arts. 44, 51 do Decreto-lei n. 37/1966 e do art. 2º, I, VI, VII, VIII, X e XII, da Lei n. 9.784/1999.
+Alega, que (e-STJ fl. 348):
+no caso em tela, não se trata de questão de fato, mas de questão de direito, em se analisar se a Autora, ora Recorrente efetivamente cumpriu com seus deveres legais de submeter sua mercadoria importada ao controle aduaneiro nos termos do art. 44, do Decreto-Lei 37/66.
+Tal questão é cristalina, e foi confirmado pelas partes, nesse sentido, identifica-se que em razão da apresentação das mercadorias importadas pela Recorrente para realização dos atos administrativos de controle aduaneiro, foram emitidas várias decisões administrativas, com o ato conclusivo final no processo de despacho aduaneiro para consumo relativo ao desembaraço aduaneiro.
+Segue afirmandoque "a utilização do regime aduaneiro em local não credenciadonão significa que o cumprimento da Lei não foi atingido, pelo contrário, as mercadorias da autora foram submetidas a dois processos de controle aduaneiro de mercadorias importadas, nos termos dos arts. 44 e 51 do Decreto-lei 37/1966" (e-STJ fl. 349).
+Com contrarrazões (e-STJ fls. 361/366), o recurso fora admitido na origem (e-STJ fl. 385).
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com
+fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do STJ).
+Considerado isso, ressalto que o recurso especial se origina de ação ordinária em quebuscava a parte autora a liberação das mercadorias da DI n. 11/1931799-3 e a condenação do ente público ao pagamento de indenização porperdas e danos.
+A sentença extinguiuo processo, sem resolução do mérito, pela falta de interesse de agir, no que toca ao pedido de liberação das mercadorias. No que diz com a indenização por perdas e danos, julgouimprocedente, nos termos do art. 269, I, do CPC/1973.
+Apelou a empresa recorrentecontra a parte do julgado que deixou de condenar a ré no pagamento de indenização por perdas e danos.
+A Corte regional negou provimento ao recurso, tecendo as seguintes considerações (e-STJ fls. 273/274):
+Não obstante a argumentação tecida pela apelante, não se ignora o erro da empresa em indicar recinto não autorizado a ser responsável por entreposto aduaneiro.
+A Poly Terminais Portuários S.A não detinha autorização para operar como entreposto aduaneiro, conforme Ato Declaratório Executivo - ADE nº 19 de 17/11/2010, expedido pela Receita Federal do Brasil.
+Tanto é que a própria autora reconheceu espontaneamente na via administrativa a irregularidade na escolha deste terminal como responsável pelo entrepostamento (origem - evento 1, OUT5, OUT6, OUT7 e EMAIL13 - evento 15, OUT4 e OUT5), por mais que alegue o ter feito para obter a liberação imediata das mercadorias.
+A liberação da mercadoria pela via do entrepostamento exige a prévia e formal autorização do recinto para operar no regime de entreposto aduaneiro na importação e na exportação, conforme prescrito na Instrução Normativa SRF nº 241/2002 então vigente.
+A fundamentação sentencial, neste toar, não merece reparos, pelo que merece ser aqui reprisada, no intuito de evitar tautologia:
+"(..) Argumenta a ré POLY TERMINAIS PORTUÁRIOS S/A que não teria autorização para operar o regime de entreposto aduaneiro, mas mera autorização para alfandegamento, revelando-se esta como pré-requisito para o deferimento daquela, conforme IN SRF nº 241/2002 (com alterações posteriores), que cito em parte:
+ ..
+Conclui-se, da leitura dos referidos dispositivos, que a mera autorização para alfandegamento não enseja a imediata possibilidade de operar em todos os regimes aduaneiros, havendo necessidade de autorização específica a tal mister, inclusive para regime de entreposto aduaneiro.
+No caso concreto, segundo informações da ré Poly Terminais Portuários, o recinto foi declarado como alfandegado através do Ato Declaratório Executivo nº 19, de 17/11/2010, o que, como já mencionado, não enseja a imediata autorização para operar no regime de entreposto aduaneiro, em que pese o referido ADE ter autorizado as operações aduaneiras previstas nos incisos I, II, III, IV, V, VI e VIII do art. 21 da IN SRF nº 1.022/2009.
+Ademais, a inexistência de autorização para operação como entreposto é incontroversa nos autos, admitindo-a a própria autora, que inclusive requereu o cancelamento da DA nº 11/1918103-0 e da DI nº 11/1931799-3, objeto dos autos, registrando nova DI, de nº 11/2328668-1, cujas mercadorias já foram desembaraçadas (evento 28, PROCADM2-3).
+Assim, não há elementos que permitam acolher a tese de que o recinto alfandegado estaria autorizado a operar em regime de entreposto aduaneiro, revelando-se pertinente a ação da autoridade coatora que, ao perceber o erro administrativo, procedeu a sua correção.
+Outrossim, a autora sequer enumerou quais foram as perdas e danos alegadas na inicial, ou qual seria a causa do dano moral alegado."
+Com efeito, o Tribunal de origem, ao fazer subsistir a sentença improcedente, reconheceu que o ente fiscalizatório agiu com pertinência ao proceder a correção dos atos administrativos - Declaração de Admissão e Declaração de Importação-, negando a liberação imediata das mercadorias, razão pela qual julgou improcedente o pedido de indenização por perdas e danos.
+Como se vê, em face das premissas fáticas assentadas no acórdão objurgado, que não visualizouilegalidade no ato da administração fazendária, a modificação do entendimento firmado pelas Instâncias ordinárias no sentido da procedência da demanda indenizatória demandaria, induvidosamente, o reexame de todo material cognitivo produzido nos autos, providência incompatível com a via especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. VIOLAÇÃO AO ART. 535 DO CPC/73. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. ART. 219 DO CPC/73. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DEVER DE INDENIZAR. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. A alteração das conclusões adotadas pela Corte de origem, acerca da comprovação dos danos morais e materiais, da falha no serviço e do nexo de causalidade, tal como colocadas essas questões nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 150.872/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/12/2016, DJe 03/02/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DESEMBARAÇOADUANEIRO. IMPORTAÇÃO.MERCADORIA.PENA DE PERDIMENTO. ALEGADA VIOLAÇÃO DE DECRETO. OFENSA QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. COMPROVAÇÃO DE DANO AO ERÁRIO E INTERPOSIÇÃO FRAUDULENTA DE TERCEIRO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N.7/STJ.INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É entendimento assentado na jurisprudência desta Corte que a alegação de violação de decreto regulamentar não pode ser conhecido, porquanto tal espécie normativa não se enquadra no conceito de lei federal, conforme o permissivo constitucional do art. 105, III, "a".
+III - In casu, rever o entendimento do tribunal de origem, que consignou acerca da ocorrência de dano ao erário para a imposição da pena de perdimento, restando, ademais, comprovada a interposição fraudulenta de terceiros, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n.7/STJ.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp 1.705.716/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 03/04/2018, DJe 17/04/2018).
+Ante o exposto, com base no art. 255, §4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem majoração da verba honorária (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
