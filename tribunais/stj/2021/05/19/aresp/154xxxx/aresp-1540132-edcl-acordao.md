@@ -1,0 +1,51 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OBSCURIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de embargos de declaração opostos por ORLANDO IANKOSKI JUNIOR, contra acórdão de fls. 700-704, que negou provimento ao agravo interno interposto pelo embargado.
+Nas razões dos embargos, a parte embargante sustenta, em síntese: "Em que pese a clareza e brilhantismo que sempre é peculiar a V. Exas., houve condenação do Recorrente à multa disposta no art. 1.021, §4º, CPC, no importe de 1% do valor da causa. Contudo, o valor da causa foi subdimensionado, no valor de R$1.000,00 (no ano de 1995), o que importaria em uma multa no valor de R$49,74..A obscuridade a ser corrigida, portanto, é se são aplicáveis juros de mora desde a citação ao valor a ser atualizado, ou somente a atualização. Outro ponto é o pedido para que, de ofício, nos termos do art. 292, §3º, CPC, seja corrigido o valor da causa para que corresponda ao conteúdo patrimonial em discussão, nos termos da perícia judicial constante dos autos às fls. 71, totalizando o valor de R$113.998,57, em 31/06/1996.".
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OBSCURIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Não há obscuridade ou qualquer dos vícios elencados no artigo 1.022, e seus inciso do novo Código de Processo Civil.
+A decisão de fls. 700-704 foi clara ao aplicar à parte ora agravante a multa de 1% sobre o valor atualizado da causa, nos termos do artigo 1.021, 4º, do Código de Processo Civil.
+3. O artigo 1.022, e seus incisos, do novo Código de Processo Civil, claramente prescrevem as quatro hipóteses de cabimento dos embargos de declaração, tratando-se de recurso de fundamentação vinculada, restrito a situações em que patente a existência de (1) obscuridade, (2) contradição, (3) omissão no julgado, incluindo-se nesta última as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida, e por derradeiro, (4) o erro material.
+Não é a hipótese dos autos. A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos declaratórios prevista no art. 1022 do CPC.
+4. A pretensão de discussão de matéria não veiculada na apelação caracteriza indevida inovação recursal, inviabilizando seu debate em sede de embargos de declaração. Não há que se cogitar de omissão sobre tese que não foi suscitada em momento oportuno.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. PLANO DE SAÚDE. LIMITE DE SESSÕES DE TERAPIA E COBRANÇA DE COPARTICIPAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. PRESTAÇÃO JURISDICIONAL INSUFICIENTE. NÃO OCORRÊNCIA. DANO MORAL AFASTADO.AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. É inviável o conhecimento de matéria trazida no recurso especial, mas não ventilada no acórdão recorrido, porquanto ausente o indispensável prequestionamento.
+2. A pretensão de discussão de matéria não veiculada na apelação caracteriza indevida inovação recursal, inviabilizando seu debate em sede de embargos de declaração. Não há que se cogitar de omissão sobre tese que não foi suscitada em momento oportuno.
+3. Consoante o entendimento desta Corte, "havendo dúvida razoável na interpretação do contrato, a recusa da operadora de plano de saúde na cobertura de determinado procedimento, sem ofensa aos deveres anexos do pacto - como a boa-fé -, não pode ser reputada ilegítima ou injusta, violadora de direitos imateriais, de modo que não fica configurada a conduta ilícita capaz de ensejar a indenização por danos morais" (AgInt no AREsp 1.412.367/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 13.3.2020).
+4. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial.
+(AgInt no AREsp 1720743/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/03/2021, DJe 07/04/2021)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. Opostos embargos de declaração contra a decisão que negou provimento ao agravo regimental no agravo em recurso especial, ante a sua natureza integrativa, eventual omissão, obscuridade ou contradição apontada devem decorrer do julgamento do acórdão ora embargado e não se prestando a sanar suposta omissão do acórdão do Tribunal de origem.
+3. Se omissão houve no acórdão do Tribunal de origem, principalmente na análise do acervo probatório, tal fato deveria ser combatido na instância ordinária com a interposição de embargos de declaração na origem. Acaso persistisse a omissão da Corte a quo, deveria a parte ter alegado, nas razões do recurso especial, violação ao art. 535 do CPC/1973, ônus do qual não se desincumbiu.
+4. Observa-se, ainda, que nas demais alegações dos presentes embargos de declaração a parte combate a aplicação, ao caso, da Súmula 7/STJ, requerendo a reforma do entendimento firmado no acórdão embargado não apontando, em concreto, nenhuma omissão, contradição ou obscuridade, no acórdão ora embargado, a dar lastro ao recurso.
+5. No tocante à alegação de que houve omissão sobre a responsabilidade objetiva, destaque-se que esse ponto não foi objeto do recurso especial, revelando-se como indevida inovação em sede de embargos de declaração.
+6. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 818.417/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/06/2016, DJe 23/06/2016)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso dos autos, nota-se que não ocorre nenhuma das hipóteses previstas no artigo 1.022, e seus incisos, do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão no sentido de que não restou configurado o prequestionamento quanto a alegada ofensa à coisa julgada, matéria essa referente ao art. 6º, parágrafo 3º, da Lei de Introdução às normas do Direito Brasileiro, e aos arts. 301, parágrafo 1º, e 467, Código de Processo Civil de 1973, não tendo sido objeto de discussão no acórdão recorrido.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 750.635/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/05/2016, DJe 11/05/2016)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. HIPÓTESE QUE CONFIGURA MERA REITERAÇÃO DE RECURSO. PROPÓSITO PROTELATÓRIO EVIDENCIADO.
+1. Não havendo omissão, obscuridade ou contradição, tampouco negativa de prestação jurisdicional, merecem ser rejeitados os embargos de declaração opostos. Ressalte-se que o mero inconformismo com a conclusão do julgado não enseja a apresentação de sucessivos embargos de declaração, sem observância das hipóteses autorizativas previstas no art. 535 do CPC.
+2. Embargos de declaração rejeitados. Embargante condenada ao pagamento de multa em quantia equivalente a um por cento (1%) sobre o valor corrigido da causa.
+(EDcl nos EDcl no REsp 1280563/MG, Relator Ministro MAURO CAMPBELL
+MARQUES, SEGUNDA TURMA, julgado em 17/05/2012, DJe 23/05/2012).
+Destarte, o acórdão impugnado não possui nenhum vício a ser sanado por meio dos embargos de declaração, uma vez que houve a manifestação acerca de todas as questões relevantes para a solução da controvérsia, apresentando o recurso caráter manifestamente infringente.
+5. Diante do exposto, rejeito os embargos de declaração.
+É como voto.
