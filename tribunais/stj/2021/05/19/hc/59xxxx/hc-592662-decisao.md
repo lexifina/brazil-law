@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RODOLFO PONCHIO contra acórdão do Tribunal de Justiça do Estado de São Paulo, que denegou a ordem nos autos do HC n. 2138437-89.2020.8.26.0000.
+O Juízo singular decretou a prisão temporária do Paciente, em 17/04/2020, em razão da suposta prática do crime de tráfico de drogas. Em 12/06/2020, a prisão temporária foi convertida em preventiva, ao fundamento de que o Acusado seria integrante de uma associação criminosa "bem articulada, organizada em níveis e com divisão de atribuições, havendo até mesmo a existência de um possível núcleo jurídico e inclusive a constituição de uma empresa para otimizar ainda mais o comércio de substâncias estupefacientes" (fl. 32).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (fls. 2941-2948).
+Neste writ, a Defesa alega a ausência dos requisitos autorizadores da segregação cautelar e a falta de fundamentação concreta e idônea do decreto de prisão preventiva. Afirma que a prisão cautelar é desproporcional, pois "a imposição punitiva final, seria mais branda do que a própria prisão cautelar, com conotação, neste momento, como antecipação de pena" (fl. 8).
+Defende a aplicação de medidas cautelares diversas da prisão.
+Menciona a Recomendação n. 62/2020 do Conselho Nacional de Justiça.
+Requer, inclusive liminarmente, a imediata soltura do Acusado, com ou sem aplicação de medidas cautelares diversas da prisão.
+O pedido liminar foi indeferido às fls. 2956-2958.
+As informações foram prestadas às fls. 2964-3025, 3027-3031 e 3034-3043.
+O Ministério Público Federal opinou pelo não conhecimento dowrite, se conhecido, pela denegação da ordem (fls. 3.045-3.052).
+É o relatório. Decido.
+Consoante consulta realizada no sítio eletrônico do Supremo Tribunal Federal, verifica-se que o Ministro RICARDO LEWANDOWSKI, em 30/09/2020, nos autos da Reclamação n. 41.387/SP, estendeu ao Paciente
+"os efeitos da ordem de habeas corpus de ofício concedida em favor de Murilo Domingos Castoldi Carrara, a fim de substituir a prisão preventiva pela domiciliar, com monitoramento eletrônico e proibição de encontrar-se ou ter contato com os demais denunciados ou com as testemunhas arroladas pela defesa e pela acusação, sem prejuízo da fixação de outras medidas cautelares adicionais a serem estabelecidas pelo Juízo processante".
+O Ministério Público Federal interpôs agravo regimental contra a mencionada decisão, que foi desprovido pela Segunda Turma do Supremo Tribunal Federal, em Sessão Virtual de18/12/2020 a 5/2/2021.O acórdão ficou assim ementado:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. AUSÊNCIA DE ADERÊNCIA ESTRITA AO PARADIGMA. NÃO CABIMENTO. PROCESSO PENAL. MEDIDAS CAUTELARES. PRISÃO PREVENTIVA. CONVERSÃO EM PRISÃO DOMICILIAR. REQUISITOS LEGAIS PREENCHIDOS E OBSERVÂNCIA DA RECOMENDAÇÃO 62/CNJ. POSSIBILIDADE. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO (ART. 5º, LXVIII, DA CF/1988). EXTENSÃO DA ORDEM AOS CORRÉUS (ART. 580 DO CPP). INVESTIGAÇÃO SOBRE A PRÁTICA DE TRÁFICO DE DROGAS. DENÚNCIA QUE NÃO APONTA ATIVIDADES VIOLENTAS OU DE GRAVIDADE CONCRETA. APREENSÃO DE ÍNFIMA QUANTIDADE DE DROGAS, POUCA QUANTIA EM DINHEIRO E NENHUM ARMAMENTO. ORGANIZAÇÃO CRIMINOSA DE BAIXA PERICULOSIDADE. MANUTENÇÃO DA PRISÃO DOMICILIAR E OUTRAS CAUTELARES DIVERSAS DA PRISÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+I - A melhor doutrina e a jurisprudência desta Suprema Corte são uníssonas em afirmar que a prisão preventiva constitui sempre a ultima ratio, devendo ser aplicada apenas quando as medidas cautelares diversas da custódia não se revelarem eficazes para contornarem o periculum libertatis (CPP, art. 282, § 6º).
+II - O art. 5º, LXVIII, da CF/1988 determina ao Juiz que conceda habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder.
+III - Observância da Recomendação 62 do Conselho Nacional de Justiça, a qual recomenda aos magistrados que atuem com a máxima cautela no tocante à decretação de prisões preventivas, com vistas à redução dos riscos epidemiológicos do novo coronavírus, em observância aos protocolos das autoridades sanitárias (art. 4º, III).
+IV - A gravidade abstrata do crime não justifica, por si só, a decretação da detenção cautelar. Precedentes.
+V - A apreensão de ínfima quantidade de entorpecentes (272g), pequena quantia em dinheiro (R$ 569,00), nenhuma arma de fogo e ausência de relatos na denúncia que evidenciem a gravidade concreta ou ações violentas da suposta organização criminosa, permitem a substituição da prisão preventiva pela domiciliar, acompanhada de outras medidas cautelares diversas da prisão.
+VI - Agravo regimental a que se nega provimento."(Rcl 41387 ED-AgR, Relator(a): RICARDO LEWANDOWSKI, Segunda Turma, julgado em 08/02/2021, PROCESSO ELETRÔNICO DJe-035 DIVULG 24-02-2021 PUBLIC 25-02-2021; sem grifos no original.)
+Desse modo, evidencia-se a perda superveniente do interesse processual na concessão da ordem.
+Ante o exposto, JULGO PREJUDICADO o pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS.PRISÃO PREVENTIVA. EXPEDIÇÃO DE ALVARÁ DE SOLTURA. PLEITO DEFERIDO PELO SUPREMO TRIBUNAL FEDERAL NOS AUTOS DA RECLAMAÇÃO N. 41.387/SP.PERDA SUPERVENIENTE DO INTERESSE PROCESSUAL. WRIT PREJUDICADO.
