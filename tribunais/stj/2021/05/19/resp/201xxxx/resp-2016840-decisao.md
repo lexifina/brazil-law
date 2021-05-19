@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por MARCONI MEDEIROS MARQUES DE OLIVEIRA de decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 142):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. FAZENDA PÚBLICA. HONORÁRIOS EM FAVOR DO EXEQUENTE. DEVIDOSINDEPENDENTEMENTE DE IMPUGNAÇÃO. SÚMULA 345/STJ.
+1. Trata-se de agravo de instrumento interposto em face de decisão que, em cumprimento individual da sentença proferida na ação coletiva, fixou honorários advocatícios em favor do exequente.2. Nos termos da Súmula n.º 517 do Superior Tribunal de Justiça, são devidos honorários advocatícios no cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário, que se inicia após a intimação do advogado da parte executada.
+3. Em regra, a fixação dos honorários deve ocorrer no início do cumprimento de sentença, de modo que a impugnação passa a representar mero incidente processual, cuja rejeição não induz sucumbência, a teor da Súmula nº 519 do Superior Tribunal de Justiça.
+4. Nas ações contra a Fazenda Pública, a execução é etapa necessária, de modo que a causalidade capaz de ensejar honorários somente nasce supervenientemente, em eventual impugnação, que, sendo acolhida, ainda que parcialmente, gera em favor do executado o direito ao recebimento de honorários (Recurso Especial Repetitivo n.º 1.134.186/RS).
+5. O Superior Tribunal de Justiça firmou entendimento recente no sentido de serem devidos honorários advocatícios no cumprimento individual de sentença coletiva - como é o caso em apreço -, ainda que não haja impugnação, afastando a incidência do artigo 1º-D da Lei n.º 9.494/97 e confirmando a aplicabilidade da Súmula n.º 345 (Recurso Especial Repetitivo n.º 1648498 / RS).
+6. Recurso conhecido e desprovido.
+A esse acórdão foram opostos embargos de declaração, os quais restaram rejeitados (fls. 161/164).
+Sustenta a parte agravante, no recurso inadmitido, violação ao art. 85, § 11, do CPC, ao argumento de que (fl. 169):
+ ..  subscreveu ação de cumprimento de sentença onde foram fixados os honorários sucumbenciais em 10% (dez por cento) do valor da causa em seu favor. Irresignado, o recorrido interpôs agravo de instrumento que foi improvido, restando mantida a decisão resistida, o que impunha a majoração dos honorários em sede recursal.
+Nesse contexto, defende que seria cabível a fixação de honorários advocatícios recursais, uma vez que estes (fl. 170):
+ ..  residem no fato de ser obrigatória à majoração dos honorários advocatícios fixados anteriormente. Desta forma, frisa-se que o recurso interporto pelo Distrito Federal foi rejeitado, restando mantida a decisão que estipulou em 10% os honorários do cumprimento de sentença; portanto, era de rigor que tivesse ocorrido a majoração dos mesmos em razão da sucumbência recursal.
+A seu turno, em caráter subsidiário, argui que acaso se reconheça a ausência de prequestionamento do art. 85, § 11, do CPC, que então seja declarada a existência de afronta ao art. 1.022 do CPC.
+Nas razões do agravo, afirma que os pressupostos de admissibilidade do recurso especial encontram-se presentes, repisando seus argumentos.
+Contraminuta às fls. 200/209.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Presentes os pressupostos de admissibilidade do agravo, examino o próprio recurso especial.
+Na forma da jurisprudência desta Corte,"édevida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EAREsp 762.075/MT,Rel. p/ Acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe 7/3/2019).
+Mas não é só.
+Com efeito, "ajurisprudência do STJ se firmou no sentido de que " n ão cabe a majoração de honorários recursais, com fundamento no art. 85, § 11, do CPC/2015, em recurso especial interposto contra acórdão de julgamento de agravo de instrumento que não ponha termo à demanda nem, portanto, fixe sucumbência na origem."(REsp 1.688.566/RS, Rel.Min. Mauro Campbell Marques, Segunda Turma, DJe 18/12/2017)"(AgInt no REsp 1.681.582/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 18/12/2020).
+Destarte, tendo o Tribunal de origem negado provimento a agravo de instrumento interposto pelo DISTRITO FEDERAL e OUTRO contra decisão proferida nos autos de cumprimento de sentença, não há se falar em fixação de honorários advocatícios recursais.
+ANTE O EXPOSTO, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
