@@ -1,0 +1,35 @@
+DECISÃO
+DIOGO ADNILSON RIBEIRO FAGUNDESalega sofrer constrangimento ilegal no seu direito alocomoção, em decorrência de acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sulno Recurso em Sentido Estriton. 0002276-82.2019.8.12.0016.
+O paciente foi presoem flagrante, em 6/11/2019, por suposta prática dodelito doart. 33, caput, c/c o art. 40, V, ambos daLei n. 11.343/2006 (tráfico interestadual de drogas). A custódia foi convolada em prisão preventiva pelo Juízo da 1ªVarada Comarca de Mundo Novo- MS. Em 18/3/2020, a prisão foi substituída por medidas cautelares diversas.O Tribunal a quo, ao acolher recurso do Ministério Público, restabeleceu o cárcere preventivo do acusado.
+A impetrante alega, em síntese, a ausência dos requisitos autorizadores da prisão preventiva e de fundamentação idônea. Argumenta que a decisão se baseou na gravidade abstrata do delito e é possível a aplicação de medidasalternativas.
+Pleiteia a revogação do decreto prisional com a expedição de alvará de soltura.
+O Ministério Público Federal, em parecer do Subprocurador-Geral da República Roberto dos Santos Ferreira, às fls. 352-360, opinou pela denegação da ordem de habeas corpus.
+Decido.
+I. Contextualização
+Conforme já relatado, o paciente teve a prisão preventiva restabelecida pela Corte de origem, em razão de suposta prática de tráfico interestadual de drogas, consoante os fundamentos a seguir (fls. 321-324, grifei):
+ ..
+Nada obstante o respeito devido à divergência, comungo de posicionamento semelhante ao adotado pela maioria no julgamento do mencionado recurso em sentido estrito.
+Como cediço, o tráfico de entorpecentes constitui atualmente o flagelo da humanidade. É responsável pela destruição de crianças, adolescentes, enfim, famílias inteiras, em números superlativos, face aos desdobramentos que ocasiona.
+E esse quadro não se amolda à paz social por todos almejada, principalmente tendo em vista que o caso versando estaria a realçar concretos indicativos do envolvimento de várias pessoas, algumas não identificadas e, ao que consta, domiciliadas em outra unidade da Federação, observando-se, também, que a situação versa sobre expressiva quantidade de maconha, aproximadamente 59 kg (cinquenta e nove quilos), adredemente escondidos e camuflados em veículo então conduzido, recompensa no patamar de R$ 5.000,00 (cinco mil reais), bem, ainda, suposta associação para o tráfico interestadual de substância entorpecente (Ponta Porã/MS para Santa Catarina).
+Frente à complexidade da trama, aos valores e quantidades envolvidos, emerge que os componentes do grupo, ainda que eventualmente restritos ao caso presente, somente lançariam mão de pessoas com as quais mantivessem vínculo de confiança, desenvolvendo a ilicitude com cuidados e eliminação de riscos, seja para evitar delações ou seja para evitar prejuízos. E operação desse porte não se elabora tampouco executa-se de um dia para o outro, apressadamente, e sim orquestrada e cuidadosamente, através de pessoas ligadas por vínculo de comprometimento.
+ ..
+Diante desse panorama, evidentemente restrito aos elementos de convicção até o momento reunidos, inegável se afigura a necessidade da custódia, máxime considerando que as particularidades, as circunstâncias fáticas, a própria dinâmica dos acontecimentos, culminam por delinear a gravidade concreta das condutas que teriam sido praticadas, ensejando indicativos sobre a periculosidade do embargante, nociva à segurança e à incolumidade social.
+ ..
+A necessidade da prisão preventiva restou suficientemente fundamentada, destacando o preenchimento dos requisitos legais peculiaridades à espécie, não se vislumbrando, pois, irregularidade apta a demandar a revogação almejada. Não se revela desproporcional, tampouco excessiva, não se justificando, destarte, nem por essa ótica, a sua substituição por qualquer das medidas cautelares.
+II. Preventiva - fundamentação concreta
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Em que pese a conduta imputada não haver sido praticada mediante violência e/ou grave ameaça, o acórdão impugnado fez referência à gravidade do ilícito, em razão especialmente da quantidade de droga apreendida(59 kg de maconha). Destacou ainda se tratar de tráfico em larga escala, que pressupõe vínculo de confiança do suposto transportador da droga e outros elementos ainda não identificados. Essassãoevidências concretas do periculum libertatis e justificam, de forma idônea, a custódia preventiva doinvestigadopara a garantia da ordem pública.
+Oportuno colacionar:
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES INTERESTADUAL. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA.
+GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS.
+IMPOSSIBILIDADE.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a prisão preventiva está justificada pois, segundo a decisão que a impôs, o paciente foi flagrado com elevada quantidade de substância entorpecente (pouco mais de 26kg de maconha), destinada ao tráfico de drogas interestadual. Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+3. Condições subjetivas favoráveis do paciente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória (precedentes).
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+5. Ordem denegada.(HC n. 622.712/MS, Rel. Ministro Antonio Saldanha, 6ª T.,DJe 4/3/2021)
+Portanto, são suficientes os motivos invocados na instância de origem e chancelados pelo Tribunal a quo a fim de embasar a ordem de prisão doora paciente, pois foram contextualizados, em dados concretos dos autos, conforme os vetores contidos no art. 312 do Código de Processo Penal.
+A gravidade concreta da conduta praticada e aevidência de envolvimento aprofundado no tráfico de substâncias ilícitas, decorrente da quantidade de drogas apreendidas, indicam que as medidas cautelares alternativas à prisão não se mostram adequadas e suficientespara acautelamento da ordem pública.
+III. Dispositivo
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
