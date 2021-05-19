@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto com fulcro na alínea a do permissivo constitucional, contra acórdão do TJ/CE, assim ementado (fl. 156):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CRÉDITO DE IPI PREVISTO NO ART.
+11 DA LEI 9.779/1999. BENESSE QUE NÃO ALCANÇA A SITUAÇÃO DE PRODUTO NÃO TRIBUTADO (NO CASO, A CAL). TIPI - TABELA DE INCIDÊNCIA DO IPI.
+ALTERAÇÃO. IMPOSSIBILIDADE. INGERÊNCIA INDEVIDA DO PODER JUDICIÁRIO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. APELAÇÃO DESPROVIDA.
+1. Apelação da empresa FABRICAL FÁBRICA DE CAL S.A. em face de sentença que denegou a segurança, em ação mandamental cuja pretensão é ter assegurado o direito de aproveitar créditos do IPI decorrentes das aquisições de insumos utilizados na fabricação de cal (produto final não tributado), assim como o direito de compensação ou restituição do saldo credor do referido imposto, relativo aos 05 anos anteriores à impetração.
+2. Em suas razões, a apelante sustenta, em síntese, que a sentença laborou em equívoco, pois tratou de questão não deduzida na petição inicial. Em outras palavras, defende que o ponto a ser resolvido não é a impossibilidade do aproveitamento de crédito de IPI no caso de saída de produto não tributado, como consta na sentença, e sim a ilegalidade de se tratar a cal como produto não tributado, como faz a TIPI - Tabela de Incidência do IPI, pois a cal é um produto industrializado e deveria ser tratada como tributada pela alíquota zero, o que ensejaria seu direito ao crédito de IPI.
+3. O STF adotou entendimento, em julgamento submetido à sistemática da repercussão geral (RE 562.980/SC), no sentido de que, só com o advento da Lei 9.779/1999, surgiu a possibilidade de o contribuinte creditar ou compensar o IPI incidente sobre os insumos, matérias-primas ou produtos intermediários tributados utilizados na industrialização de produtos isentos ou tributados com alíquota zero. No entanto, o art. 11 da , que trata da referida benesse, não alcança a situação de Lei 9.779/1999 produto final imune ou não tributado (como a cal).
+4. Não cabe ao Judiciário intervir na política fiscal, para, alterando a Tabela de Incidência do IPI, fixada por decreto, determinar que a cal passe a se enquadrar como produto sujeito a alíquota zero, e não mais como produto não tributado, como pleiteia a apelante. É função do Poder Executivo, mediante escolha política e estratégica, estabelecer os insumos sujeitos à alíquota zero, sendo indevida a ingerência do Judiciário nessa esfera.
+5. Apelação desprovida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 189-191).
+Nas razões do recurso especial, a recorrente alega violaçãoda garantia da inafastabilidade de jurisdição (art. 5º, XXXV, da CF), do princípio da separação de poderes (art. 2º, da CF) e da isonomia (art. 5º, caput, da CF);ao parágrafo único do art.46 da Lei 5.172/1966 (Código Tributário Nacional) e ao art. 3º da Lei nº 4.502/1964. Argumenta que o acórdão recorrido deve ser reformado, para que a cal produzida pela recorrente seja considerada um produto industrializado, devendo ser tributada pela alíquota zero, ensejando o direito de aproveitar os crédito de IPI.
+Sem contrarrazões.
+Decisão positiva de admissibilidade à fl. 226-227.
+Parecer do MPF às fls. 240-248, pelo não conhecimento do recurso especial.
+É o relatório. Passo a decidir.
+De inicio, no tocante à alegação de violação dos arts. 2º; 5º, caput e XXXV;ambos da CRFB/1988, ressalta-se que não cabe a esta Corte, em sede de recurso especial, a análise de eventual ofensa a dispositivos constitucionais, uma vez que, nos termos do artigo 102, inciso III, da Constituição Federal, a uniformização de interpretação de tais normas cabe, tão somente, ao Supremo Tribunal Federal.
+Por fim, no tocante a alegação de violação ao parágrafo único do art. 46 da Lei 5.172/1966 (Código Tributário Nacional) e ao art. 3º da Lei nº 4.502/1964, evidencia-se que os referidos artigos não foramapreciados pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+Ante o exposto, não conheço o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL.VIOLAÇÃO A DISPOSITIVOSDISPOSITIVOSCONSTITUCIONAIS. COMPETÊNCIA DO STF.AUSÊNCIA DE PREQUESTIONAMENTO DOSDISPOSITIVOS TIDOS POR VIOLADO. SÚMULA 211/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
