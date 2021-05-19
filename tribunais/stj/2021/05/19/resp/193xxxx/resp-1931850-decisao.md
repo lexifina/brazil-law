@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+PREVIDENCIÁRIO - PENSÃO POR MORTE - COMPROVAÇÃO DA CONDIÇÃO DECOMPANHEIRA - DIREITO AO BENEFÍCIO - APELAÇÕES DO INSS E DA RÉDESPROVIDAS E APELAÇÃO DA AUTORA PROVIDA.
+I - Demonstrados os requisitos legais, a autora tem direito à pensão pela morte do segurado, na qualidade de companheira.
+II - É vedada a acumulação do benefício de prestação continuada previsto na Lei Orgânica de Assistência Social - LOAS, recebido pela autora com a pensão por morte, por força do artigo20, § 4º, da Lei nº 8.742/93.
+III - Não deve ser mantida a sentença quanto a data de início de benefício, de modo que deve ser observado o disposto no artigo 74, II, da Lei 8.213/91, sendo devida a pensão por morte desde a data do requerimento administrativo. Os valores recebidos a título de benefício assistencial, devem ser descontados das parcelas atrasadas de pensão por morte e, no que faltar para o integral ressarcimento da Autarquia Previdenciária, deve ser descontado 30% do benefício mensal de pensão por morte devido.
+IV - Sobre as diferenças devidas deverão ser aplicados os índices de correção monetária conforme o INPC (Enunciado 110 TRRJ e tese firmada pelo c. STJ no Tema 905) e juros demora, a contar da citação, que devem corresponder a 1% (um por cento) ao mês até 26.08.2001e 6% (seis por cento) ao ano de 27.08.2001 até 29.06.2009, a partir de quando devem ser observados os juros aplicados às cadernetas de poupança, conforme art. 1º-F da Lei 9.494/97com a redação que lhe foi dada pela Lei 11.960/09.
+V - Condenado o INSS em honorários advocatícios de acordo com os percentuais mínimos estabelecidos nos incisos do §3º do artigo 85 do Código de Processo Civil e a Súmula nº 111 do Superior Tribunal de Justiça
+VI - Apelações do INSS e da ré desprovidas e apelação da autora provida.
+Os embargos declaratórios opostos pelo INSSforam rejeitados.
+Nas razões do recurso especialinterposto com fundamento na alínea "a" do permissivo constitucional, o recorrente aponta violação aos arts.11, 489, parágrafo único, e 1022, §1º,CPC/2015; 111, II, da Lei 8.213/91.
+Além de negativa de prestação jurisdicional, alega que "uma vez utilizada a via judicial para caracterizar o direito da autora ao benefício, à corré cabe, dada a sua integral participação no feito, a responsabilidade pelo ressarcimento dos valores tidos como percebidos indevidamente, a uma porque o estatuto processual impõe ao vencido os ônus da condenação e, conhecendo o objeto da demanda, afasta eventual alegação de boa fé e a duas porque há previsão legal específica no art.115da Lei 8.213/91 quanto a exigência de devolução das parcelas percebidas indevidamente".
+Requer "seja conhecido e provido o recurso, para reexaminar e reformar a decisão recorrida, transferindo à Corré a responsabilidade pelo ressarcimento dos valores devidos à autora".
+Não foram apresentadas contrarrazões.
+É o relatório.
+Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De início,depreende-se do acórdão recorrido que o Tribunal de origem, de modo expresso, concluiupelainexistência do direito à pensão por morte da corré e em relação ao desconto das parcelas atrasadas os valores percebidos a título de benefício assistencial pela autora.
+Na linha da jurisprudência do STJ, não há falar em negativa de prestação jurisdicional, tampouco em vício, quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 1.022 DO CPC/2015 INEXISTENTE. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTES E APÓS A CF/1988. MATÉRIA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO EM RECURSO ESPECIAL. COMPETÊNCIA RESERVADA AO STF.
+1. Inexiste a alegada negativa de prestação jurisdicional, visto que a Corte de origem apreciou todos os pontos relevantes ao deslinde da controvérsia de modo integral e adequado, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade.
+2. O Tribunal a quo resolveu a questão da revisão do benefício previdenciário com fundamentação eminentemente constitucional, razão pela qual não é possível sua revisão na via eleita.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido. (REsp 1.740.348/RS, SEGUNDA TURMA, Relator Ministro Herman Benjamin, DJe 22/11/2018)
+A alegada violação aosartigos 11, 489 e 1022 do CPC/2015, portanto, não merece ser acolhida.
+Ademais, a Corte de origem dirimiu a controvérsia consignando que "a pretensão da Autarquia Previdenciária de restituição dos valores recebidos pela demandada, enquanto única pensionista habilitada, não foi objeto desses autos, de modo que deve ser buscada pelas vias ordinárias" (e-STJ fl. 627).
+Tal assertiva, entretanto,não foi devidamente impugnadanas razões do especial, o que, por si só, mantém incólume o acórdão combatido.
+Com essas considerações, resta patente que as razões recursais apresentadas encontram-se dissociadas daquilo que restou decidido pelo tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283/STF e 284/STF, as quais dispõem, respectivamente: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. ACÓRDÃO RECORRIDO. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. RAZÕES DISSOCIADAS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF.
+1. Inadmissível o recurso especial, quando a parte recorrente não impugna, de forma específica, os fundamentos do acórdão recorrido, apresentando razões dissociadas da motivação do julgado, como ocorreu na hipótese dos autos.
+2. Incide à espécie, por analogia, os enunciados das Súmulas 283 e 284/STF. Precedentes do STJ.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 1671555/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 31/08/2020, DJe 04/09/2020)
+Ante o exposto, com fulcro no art.932, III e IV, do CPC/2015, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e julgamento, e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO CIVIL PÚBLICA. ART. 1022 DO CPC/2015. VIOLAÇÃO NÃO CONFIGURADA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283/STF E 284/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
