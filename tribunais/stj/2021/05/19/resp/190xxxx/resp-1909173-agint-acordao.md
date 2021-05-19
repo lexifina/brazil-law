@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 650):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL.SERVIDOR PÚBLICO FEDERAL. OFENSA AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUTARQUIA FEDERAL.ILEGITIMIDADE PASSIVA. LITISCONSÓRCIO NECESSÁRIO COM A UNIÃO FEDERAL. IMPOSSIBILIDADE. PRECEDENTES. PRESCRIÇÃO DE FUNDO DE DIREITO. NÃO OCORRÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO NO ARTIGO 487, II, DO CPC/2015. SÚMULA 284/STF. HORAS-EXTRAS INCORPORADAS. REVISÃO. ADOÇÃO DE NOVA INTERPRETAÇÃO. DECADÊNCIA. ART. 54 DA LEI 9.784/1999.AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTAÇÃO AUTÔNOMA.SÚMULAS 283 E 284 DO STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+A agravante, em suma, sustenta que: (a) as alegações postas no apelo especial não são genéricas, mas bem específicas e comprovam a omissão constante do julgado proferido na origem, razão pela qual presente a violação do art. 1.022 do CPC/2015. Assevera que o acórdão teria olvidado apreciar "o impacto das reestruturações de carreira da autora na vantagem incorporada" (fl. 665), questão que seria imprescindível ao deslinde da controvérsia; (b) "inaplicável o disposto na Sumula 284 do STF em relação à ilegitimidade passiva, litisconsórcio necessário e prescrição do fundo de direito. Com efeitos, a simples leitura das razões do recurso especial comprova clara e elucidativamente a efetiva violação dos dispositivos legais apontados" (fl. 666); (c)inaplicabilidade da Súmula 283/STF, ao argumento de que impugnou todos os fundamentos do acórdão recorrido, inclusive, a decadência prevista no art. 54 da Lei 9.784/1999, tendo defendido a possibilidade e necessidade de revisão dos atos da Administração.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O presente recurso não comporta conhecimento.
+Nesse cenário, registra-se que a decisão vergastada encontra-se amparada nos seguintes fundamentos: (a) ausência de violação do artigo 1.022 do CPC/2015; (b) acórdão regional consonante à jurisprudência do STJ quanto àtesereferenteà ilegitimidade passiva da recorrente ou, subsidiariamente, a necessidade de formação de litisconsórcio passivo com a União Federal; (c) alinhamento do entendimento exarado na Corte de origem à orientação fixada por esta Corte, no que se refere à prescrição do fundo de direito; (d) aplicabilidade da Súmula 284/STF, em razão da ausência de comando normativo do artigo 487, II, do CPC/2015; (e) emprego das Súmulas 283 e 284/STF à tese concernente à decadência; e (f) consonância do acórdão recorrido com a jurisprudência do STJ quanto ao transcurso do prazo decadencial referente aodireito da administração de revisar a forma de cálculo das horas extras incorporadas.
+Ocorre que aagravantenão impugnou, especificamente, os seguintes fundamentos: i) alinhamento do entendimento adotado no acórdão regional com ajurisprudência do STJ quanto às teses referentes à ilegitimidade passiva da recorrente (ou, subsidiariamente, a necessidade de formação de litisconsórcio passivo com a União Federal) e à prescrição do fundo de direito; eii)ausência de comando normativo do artigo 487, II, do CPC/2015, razão pela qual impõe-se a incidência da Súmula 182/STJ, verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se: AgInt nos EDcl no REsp 1.708.729/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 21/2/2019; AgInt no AREsp 1.354.331/PB, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 19/2/2019; AgInt no AREsp 739.429/PR, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 12/2/2019; AgInt no RE no AgRg no AREsp 786.603/RJ, Rel. Min. Humberto Martins, Corte Especial, DJe 18/10/2016; AgRg nos EREsp 1.424.371/SC, Rel. Min. Humberto Martins, Primeira Seção, DJe 20/4/2016.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
