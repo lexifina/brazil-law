@@ -1,0 +1,20 @@
+DECISÃO
+WEVERSON GOMES BEIRAL interpõeagravo regimental contra decisão de fls. 340-341, proferida pela Presidência desta Corte Superior de Justiça, que não conheceu do agravo em recurso especial.
+Oagravanteaduzque "o ponto fixado pela decisão de inadmissibilidade do Recurso Especial foi rebatido de maneira sucinta, porém clara e eficaz, de modo a atender o requisito de cabimento do Agravo, por conseguinte, do Recurso Especial interposto"(fl. 346).
+Requera reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja conhecido o agravo e dado provimento ao recurso especial.
+O Ministério Público Federal manifestou-se pelo provimento do agravo regimental, para que seja conhecido o recurso especial, "muito embora para não lhe dar provimento, deixando-se, portanto de conhecer do REsp" (fl. 357).
+Decido.
+De fato, entendo que assiste razão aoagravante, de modo quedentro do juízo de retratação inerente ao agravo regimental, reconsidero a decisão de fls. 340-341, na extensão e nos termos a seguir aduzidos.
+Consta dos autos que o agravante foi condenado a 5anos de reclusão, em regime semiaberto, mais multa, pela prática dodelitoprevistono art. 33, caput,da Lei de Drogas.
+Nas razões do recurso especial, busca a defesa a aplicação do art. 33, § 4º, da Lei de Drogas.
+Segundo o disposto no § 4º do art. 33 da Lei n. 11.343/2006, in verbis:
+§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Vale dizer, para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas.
+Sobre a matéria posta em discussão, cumpre destacar que a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06." (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T., DJe 14/4/2014).
+Na espécie, constato que, ao manter o afastamento da incidência da redutora prevista no art. 33, § 4º, da Lei de Drogas, o Tribunal de origem salientou:"In casu, as testemunhas já tinham informação de que o Réu praticava o nefasto comércio de entorpecentes no salão de cabelereiros em que trabalhava, local onde efetivamente foi detido na posse de parte do material arrecadado" (fl. 259, grifei).
+Dessa forma, não identifico nenhuma violação legal no ponto em que, fundamentadamente, foi negada ao recorrente a aplicação da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, haja vista que foram apontados elementos concretos que indicam a sua dedicação a atividades criminosas, notadamente ao tráfico de drogas.
+Além disso, imperioso salientar que, para entender de modo diverso e afastar a conclusão de que o recorrente não se dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência essa vedada em recurso especial.
+Portanto, fica afastada a ilegalidade decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+À vista do exposto, reconsidero a decisão de fls. 340-341,conheço do agravo e nego provimento ao recurso especial.
+Publique-se e intimem-se.
