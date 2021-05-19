@@ -1,0 +1,30 @@
+RAI 1008243-98.2021.8.11.0000
+Vistos,
+Recurso de agravo de instrumento, interposto por Tadeu Gawlik, contra a decisão proferida pelo Juízo da Vara Única da Comarca de Guarantã do Norte/MT, nos autos da ação de obrigação de fazer c.c. entrega de coisa incerta c.c. sequestro de produto c.c. tutela antecipada no 1000895-59.2021.8.11.0087, que determinou o sequestro liminar de 90.000 Kg ou 1.500 sacas de 60Kg cada, equivalente a quantidade de R$ 106.500,00, do produto objeto do Contato de Compra e Venda de Soja em Grãos n. 74434, firmado entre as partes em 09.12.2020, referente à safra 2019/2020.
+O Agravante requer a reforma da decisão argumentando “que o Juízo foi induzido a erro com a argumentação SEM PROVAS de que teria sido alterado o objeto do contrato (da safra 2019/2020 para safra 2020/2021) [...] ” (Id. 87039994, pág. 2)
+Sustenta que o contrato em questão é “ato jurídico bilateral que deve conter duas declarações de vontade, tendo como objeto produto inexistente, com a INTENÇÃO de uma parte de produzir e da outra adquirir soja produzida na safra 2019/2020.” (Id. 87039994, pág. 6, destaques no original).
+Afirmar tratar-se “de “compromisso”, de “promessa”, de “intenção” de compra e venda, posto que se trata de contrato preliminar, aleatório porque envolve riscos e é regrado pelo art. 458 e seguintes, do CCB, de cuja norma se extrai vendas aleatórias, venda de coisas futuras, venda de coisas existentes expostas a risco (art. 460 do CC), mas que se amoldam a contrato preliminar, a promessa, porque obriga as partes a realização futura de um contrato definitivo (um entregando mercadorias e outro pagando). É protocolo de intenções que antecede a materialização do contrato.” (Id. 87039994, pág. 7, destaques no original).
+Defende que “não há uma prova, um só indício de que o contrato tenha sido prorrogado para o ano seguinte, mantendo-se, portanto, a promessa sem alterar o objeto.” (Id. 87039994, pág. 7, destaques no original).
+Aduz que “o contrato em questão é modalidade de venda a condição e a aleatoriedade é a sua característica principal, impondo-se a análise com vistas à realidade econômica registrada na safra 2019/2020, seus percalços de clima, evitando-se que a isonomia seja enxovalhada, considerando que impor a entrega de produto independentemente de qualquer situação fere de morte desrespeita o princípio da boa-fé objetiva, pois aqui se fala no último e mais importante ato negocial do produtor rural: a comercialização.” (Id. 87039994, pág. 8, destaques no original).
+Narra que estão presentes os requisitos autorizadores para concessão de liminar recurso. A probabilidade do direito “está lastreada em PROMESSA de compra e venda e traz como objeto soja da safra 2019/2020. Ademais, não há NENHUM DOCUMENTO que ateste a ocorrência de prorrogação ou de transferência do objeto para a safra 2020/2021;” (Id. 87039994, pág. 16). Já o perigo de dano decorre do sequestro de produto que é objeto da safra 2020/2021 já apenhada em favor da Caixa Econômica Federal.
+Ao final requer a concessão da liminar recursal para suspender os efeitos da decisão agravada e determinar a que a parte agravada que deposite, o valor atual da soja ao agravante ou a devolve no mesmo lugar que retirou. No mérito pugna para que a decisão agravada seja cassada.
+É o relato do essencial.
+Decido.
+Registro por oportuno que o pedido da parte agravante consiste na atribuição de efeito suspensivo e ativo, pois ao mesmo tempo que pugna pela suspensão da decisão agravada requer que a soja seja restituída.
+Nos termos do inciso I do artigo 1.019 do CPC o relator “poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão.”
+A concessão do efeito suspensivo condiciona-se à possibilidade de lesão grave e de difícil reparação, bem com a possibilidade de provimento do recurso nos termos dos artigos 995, § único, do Código de Processo Civil:
+“Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Por sua vez, a concessão do efeito ativo em agravo de instrumento, está condicionado a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, a luz do artigo 300 do Código de Processo Civil:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.”
+Pois bem.
+Nesse contexto, identifico a presença dos pressupostos autorizadores para deferir a liminar requerida.
+Isso é assim porque ao analisar o contrato entabulado entre as partes (Id. 87039997, pág. 6 e seguintes) verifico que é referente ao ano safra de 2020 com prazo de entrega de 01/03/2020 até 15/03/2020.
+Todavia, não há nos autos nenhum documento que comprove a afirmação da parte agravada feita na inicial da ação, qual seja: de que houve um aditamento do contrato prorrogando o prazo para a safra de 2020/2021 cuja data de entrega deveria ser até 15/03/2021.
+Destarte, tenho que estão presentes os requisitos para a concessão da tutela de urgência requerida, eis que não há comprovação de aditamento do contrato, bem como há risco de dano patrimonial ao agravante
+Ante o exposto, DEFIRO o efeito suspensivo, para o fim de suspender os efeitos da decisão agravada até o julgamento deste recurso, bem como, DEFEIRO o efeito ativo, e determino que a parte agravada a devolve no mesmo lugar que retirou, sem prejuízo de eventual decisão em sentido contrário quando da apreciação do mérito deste recurso.
+Comunique-se ao Juiz da causa requisitando-lhe informações.
+Intime-se a Agravada, na forma do art. 1.019, II do CPC, para que responda no prazo legal.
+Cumpra-se.
+Des. Sebastião Barbosa Farias
+Relator
