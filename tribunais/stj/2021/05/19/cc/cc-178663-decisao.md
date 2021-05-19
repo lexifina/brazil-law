@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de conflito negativo de competência em que figuram, como suscitante, o Juízo de Direito da 13ª Vara Cível de Curitiba-PR e, como suscitado, o Juízo Federal da 1ª Vara de Curitiba - SJ/PR, nos autos de ação de exibição de documentosproposta por Jefferson Amauri de Siqueiracontra a Pontifícia Universidade Católica do Paraná, para que seja informado o percentual de vagas destinadas aos candidatos portadores de necessidade especiais para ingresso na referida instituição por meio do Programa Universidade para Todosno ano de 2015.
+O Juízo Federal declinou da competência ao argumento de que a União não figura no polo passivo da lide e não houve pedido formulado em seu desfavor.
+Por sua vez, o Juízo Estadual instaurou o presente incidente, sustentando que o pedido envolve atribuições de função delegada federal, atraindo a regra de competência prevista no art. 109, I, da CF.
+Parecer do Ministério Público Federal pela competência do Juízo suscitante.
+É o relatório.
+Consoante o entendimento deste Superior Tribunal, tratando-se de instituição privada de ensino, a competência será da Justiça Federal nos feitos em que a União figure como parte, bem como nas hipóteses em que o instrumento processual utilizado seja o mandado de segurança.
+Com efeito, a Primeira Seção, no julgamento do CC 108.466/RS, Rel. Min. Castro Meira, definiu o seguinte:
+Nos processos em que envolvem o ensino superior, são possíveis as seguintes conclusões:
+a) mandado de segurança - a competência será federal quando a impetração voltar-se contra ato de dirigente de universidade pública federal ou de universidade particular; ao revés, a competência será estadual quando o mandamus for impetrado contra dirigentes de universidades públicas estaduais e municipais, componentes do sistema estadual de ensino;
+b) ações de conhecimento, cautelares ou quaisquer outras de rito especial que não o mandado desegurança - a competência será federal quando a ação indicar no pólo passivo a União Federal ou quaisquer de suas autarquias (art. 109, I, da Constituição da República); será de competência estadual, entretanto, quando o ajuizamento voltar-se contra entidade estadual,municipal ou contra instituição particular de ensino.
+No presente caso, a ação é ordinária e não foi proposta contra nenhum ente federal, o que estabelece a competência da Justiça estadual para o deslinde da causa, ainda que seja para reconhecer a ilegitimidade passiva ou a improcedência a demanda.
+Além disso, a Justiça Federal afastou o interesse da União na lide, nos termos da Súmula 150/STJ, o que determina a competência da Justiça comum estadual para o julgamento do feito.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. RESPONSABILIDADE SOLIDÁRIA. LITISCONSÓRCIO PASSIVO FACULTATIVO. DECISÃO DA JUSTIÇA FEDERAL PELA AUSÊNCIA DE INTERESSE DA UNIÃO. RECURSO REPETITIVO: RESP 1.145.146/RS, REL. MIN. LUIZ FUX, DJE 1.2.2010. COMPETÊNCIA DA JUSTIÇA ESTADUAL. AGRAVO INTERNO DA ELETROBRAS A QUE SE NEGA PROVIMENTO.
+1. A 1ª Seção do Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial 1.145.146/RS, da relatoria do eminente Ministro LUIZ FUX (DJe 1.2.2010), afetado à sistemática do art. 543-C do CPC, fixou o entendimento de que, em relação às causas em que se discute a restituição do empréstimo compulsório instituído pela União em favor da ELETROBRAS, nos termos do art. 4º, § 3º da Lei 4.162/62, compete à Justiça Estadual o seu processo e julgamento, desde que não haja intervenção da União, circunstância que impõe o deslocamento do feito para a Justiça Federal, a quem compete definir a existência ou não de interesse jurídico determinante para a manutenção da intervenção daquele ente público.
+Decidiu-se, ainda, que é faculdade do contribuinte eleger apenas um dos devedores solidários para figurar no polo passivo da demanda em que se postula a correção monetária do empréstimo compulsório sobre energia elétrica, consoante previsto no artigo 275 do Código Civil, que regula a solidariedade passiva.
+2. Agravo Interno da ELETROBRAS a que se nega provimento.
+(AgInt no CC 142.417/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 23/11/2016, DJe 1º/12/2016).
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 13ª Vara Cível de Curitiba-PR.
+Publique-se. Intimem-se.
