@@ -1,0 +1,18 @@
+DECISÃO
+RODRIGO FERNANDES BAPTISTA SILVA alega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+Busca a progressão ao regime semiaberto sem a realização do exame criminológico.
+Decido.
+O exame criminológico é o estudo sobre a personalidade do reeducando, com foco na observação de sua periculosidade, com o objetivo de auxiliar o Juiz a realizar um prognóstico de reiteração delitiva. Com a Lei n. 10.792/2003, a perícia deixou de ser requisito obrigatório para a progressão de regime, mas, como o legislador não proibiu sua realização, o Magistrado pode exigi-la, para auxiliar a formação de sua convicção, desde que fundamente a necessidade da prova de maneira idônea, com lastro em dados relacionados à execução penal.
+Dito isso, não verifico a possibilidade de conceder a ordem.
+Depreende-se dos autos que o "o apenado foi condenado à pena total de 13 (treze) anos, 7 (sete) meses e 15 (quinze) dias de reclusão, pela prática dos delitos de furto qualificado, roubo majorado e tráfico de drogas". (p. 718) Em 22/6/2020, o Juízo da execução deferiu sua progressão ao regime semiaberto.
+Contudo, o Tribunal de Justiça cassou o decisum, por não verificar o implemento da condição subjetiva e determinou a realização de exame criminológico, consoante termos que se seguem:
+In casu, verifica-se que o apenado possui em seu histórico carcerário 04 (quatro) fugas (de 11.03.2017 a 13.03.2017; 25.03.2017 a 27.03.2017; 10.08.2017 a 16.08.2017; 21.09.2017 a 21.03.2018) e notícia de prática de novo delito quando esteve em regime mais brando, de modo que ao que parece, o mesmo não possui condições momentâneas para usufruir do regime semiaberto. Ainda, é de importante relevância constar, que o agravado foi condenado pela prática de delitos de furto qualificado, roubo majorado e tráfico de drogas, devendo, este, portanto, ser submetido ao exame criminológico, diante da gravidade dos delitos cometidos.
+ ..
+Por fim, embora os episódios de fuga do reeducando sejam relativamente já longínquos (a última fuga ocorreu de 21.09.2017 a 21.03.2018), o que, via de regra, afasta a necessidade da realização do exame criminológico para progressão de regime, pois poderia o apenado ter aprendido com a falta e corrigido suas atitudes com o passar do tempo 1 , tenho que, no caso específico, onde se tem notícia de 4 (quatro) cometimento de fuga e de novo delito quando esteve em regime mais brando, deve-se avaliar com maior precisão o requisito subjetivo do detento, avaliação que só pode ser realizada por meio do exame criminológico, não exclusivamente pelo atestado de conduta carcerário. (fls. 718-719, destaquei)
+Vê-se que o Tribunal indicou dado desabonador, relacionado ao período da execução, para justificar a exigência. O acórdão recorrido está em conformidade com o teor da Súmula n. 439 do STJ: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+Aplica-se ao caso o entendimento de que:
+ ..  1. Não é vedado ao órgão julgador determinar a submissão do apenado ao exame criminológico, desde que o faça de maneira fundamentada, em estrita observância à garantia constitucional de motivação das decisões judiciais, expressa no art. 93, IX, bem como à própria previsão do art. 112, § 1º, da Lei de Execução Penal: "A decisão será sempre motivada e precedida de manifestação do Ministério Público e do defensor."
+2. A Corte de origem negou ao apenado a concessão aos benefícios com base na indicação de argumento idôneo, qual seja, a ausência do requisito subjetivo, ressaltando a necessidade de avaliação diante do cometimento de faltas graves durante o cumprimento de pena  .. .
+ ..
+(AgRg no HC 645.621/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 8/3/202 1).
+À vista do exposto, denego o habeas corpus.
