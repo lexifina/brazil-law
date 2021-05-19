@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DA PARAÍBA contra decisão de inadmissibilidade do recurso especialfundado na alínea "a" do permissivo constitucionalque desafiou acórdão do Tribunal de Justiça do Estado da Paraíba assim ementado:
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. ANTECIPAÇÃO DA COBRANÇA DE ICMS. OPERAÇÕES INTERESTADUAIS. DIFERENCIAL DE ALÍQUOTAS. SUBSTITUIÇÃO TRIBUTÁRIA. INTELIGÊNCIA DO ART. 150, §7º, DA CONSTITUIÇÃO FEDERAL. DESPROVIMENTO DO RECURSO.
+- A substituição tributária para frente, como forma de atribuir a responsabilidade tributária a diversa pessoa que não o contribuinte originário, ensejando assim uma obrigação, depende de lei, em respeito ao princípio da legalidade estrita. É o que se extrai do art. 150, §7º, da Constituição Federal.
+- (..) a Lei Complementar nº 87/96, em harmonia com a Constituição Federal, não dispensa a exigência de lei para a criação dessa espécie de responsabilidade tributária.
+Opostos embargos de declaração, esses foram rejeitados.
+No recurso especial, a parte indicou ofensa aos arts. 1.022, II, do CPC/2015; 4º da Lei Complementar n. 24/1975 e 6º e 9º da Lei Complementar n. 87/1996. Sustentou, em resumo, que: (i) seria nulo o acórdão recorrido por negativa de prestação jurisdicional, pois, apesar de aCorte local ter sido provocada por meio dos competentes aclaratórios, não se pronunciou sobre a possibilidade do chefe do Poder Executivo dos Estados, por meio de decreto, regulamentar questão da substituição tributária ajustada em acordos celebrados no âmbito do CONFAZ, via convênio, segundo autorização prevista no art. 4ºda Lei Complementar n. 24/1975.
+A Vice-Presidência do TJPB inadmitiu o apelo excepcional ao fundamento de que não ficou caracterizada a ofensa ao art. 1.022, II, do CPC/2015, além de aplicar o óbice da Súmula 280 do STJ.
+Irresignado, o ente estadualinterpõe o presente agravo, insurgindo-se contra os obstáculos impostos ao trâmite do recurso especial.
+Parecer do Ministério Público Federal apresentado às e-STJ fls. 442/447.
+Passo a decidir.
+Cuidam os autos de mandado de segurança impetrado pelo contribuinte, pretendendo que o Estado da Paraíba se abstivesse de cobrar o ICMS pela sistemática da substituição tributária "para frente", por falta de previsão legal, pleiteando, em consequência, a compensação ou restituição do indébito.
+O magistrado de primeiro grau concedeu em parte a segurança apenas para deferir o pedido referente à não cobrança do ICMS pela sistemática indicada.
+A Corte de origem negou provimento à apelação da edilidade e à remessa oficial, ao fundamento de que apenas a lei formal poderia autorizar a criação da substituição tributária "para frente" enquanto nova forma de atribuição de responsabilidade tributária, nos termos do princípio da legalidade estrita, prevista no art. 150, § 7º, da Constituição Federal, e no art. 6º da Lei Complementar n. 87/1996.
+O ente federado, então, opôs embargos de declaração, em que apontou omissão no acórdão combatido ante a ausência de pronunciamento acerca da previsão do art. 4º da Lei Complementar n. 24/1975, afirmando que esse dispositivo, recepcionado pela CF/1988, bem como o art. 155, § 2º, XII, "b", da Carta da República, permitiriam a expedição de decreto do Chefe do Poder Executivo estadual para instituir a substituição tributária para frente já prevista em acordos celebrados entre os Estados.
+Esses aclaratórios foram rejeitados, adotando-se fundamentação genérica.
+Pois bem.
+Do que se observa, os embargos de declaração foram rejeitados sem nenhuma integração ao julgado embargado, não obstante os argumentos trazidos pelo ora recorrente, deixando de sanar a omissão apontada.
+Todavia, cabe à instância ordinária o exame dos aspectos jurídicos essenciais ao deslinde da controvérsia, o que, no caso dos autos, envolve a aplicação do disposto no art. 4º da Lei Complementar n. 24/1975 e no art. 155, § 2º, XII, "b", da CF/1988.
+Nesse panorama, a ocorrência de vício de integração acerca de questão relevante justifica a nulidade do julgado recorrido por violação do art. 1.022 do CPC/2015.
+A esse respeito: AgInt no REsp 1832789/SE, rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/06/2020, DJe 21/08/2020; AgRg no REsp 1.346.569/RJ, rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 25/11/2014.
+Diante do exposto, com fundamento nos arts. 34, XXV, e 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, a fim de anular o acórdão estadual que julgou os embargos de declaração, por violação do art. 1.022 do CPC/2015, determinando o retorno dos autos ao Tribunal de origem para que reaprecie esses aclaratórios e sane o vício de integração ora identificado.
+Publique-se. Intimem-se.
