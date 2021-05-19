@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por JOSÉ LEOPOLDO EBERHARDT contra decisão de inadmissibilidade do recurso especial, fundado na alínea "a" do permissivo constitucional, que desafiou acórdão do Tribunal de Justiça do Estado de Goiás assim ementado:
+EMENTA: DUPLA APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA COM PEDIDO DE ANTECIPAÇÃO DE TUTELA. SOLIDARIEDADE DO SÓCIO RESPONSÁVEL NA RESPONSABILIDADE TRIBUTÁRIA.
+CONFIRMAÇÃO. ÔNUS SUCUMBENCIAIS.
+I - Sendo nítida a ilação de que o sócio -administrador da pessoa jurídica, não adimpliu tributo estadual, utilizando indevidamente redução de base de cálculo, torna-se responsável tributário solidário.
+III - Em relação a verba honorária sucumbencial, o referido ato judicial encontra-se de acordo com o regramento previsto no artigo 20, § 4º, do Código de Processo Civil de 1973, vigente à época da prolação da sentença.
+APELAÇÕES CÍVEIS CONHECIDAS E DESPROVIDAS.
+Opostos embargos de declaração, esses foram rejeitados.
+No recurso especial, a parte indicou ofensa aos arts. 124, I, e 135 do CTN e 926, 927 e 1.022 do CPC/2015. Sustentou, em resumo, que: (i) seria nulo o acórdão recorrido por negativa de prestação jurisprudencial, tendo em vista a ausência de pronunciamento acerca da aplicação da Súmula 430 do STJ e do exame dos arts. 926 e 927, do CPC/2015 e 124, I, e 135, III, do CTN, não obstante a oposição de aclaratórios; (ii) o mero inadimplemento no pagamento do tributo não teria o condão de atribuir ao administrador a responsabilidade pelos débitos tributários, sob pena de ofensa aos arts. 124 e 135, I, do CTN; (iii) a inobservância da Súmula 430 do STJ pela Corte de origem ofenderia o disposto nos arts. 926 e 927 do CPC/2015, segundo os quais os verbetes sumulares são de observância obrigatória pelos juízes e tribunais.
+A Presidência do TJGO inadmitiu o apelo excepcional com base nas Súmulas 282 e 284 do STF e 7 do STJ.
+Irresignado, o particular interpõe o presente agravo, insurgindo-se contra os obstáculos impostos ao trâmite do recurso especial.
+Passo a decidir.
+Cuidam os autos de ação ordinária proposta por administrador de sociedade empresária em que pretende sua exclusão do polo passivo de execução fiscal decorrente de processo administrativo tributário instaurado para aferição de débitos de ICMS.
+O magistrado de primeiro grau julgou improcedente a ação.
+Ao examinar a apelação interposta pelo autor, o Tribunal de Justiça negou-lhe provimento e registrou que, diante do disposto no art. 45 da Lei Estadual n. 11.651/1991 e no art. 135 do CTN e constatado o inadimplemento do tributo estadual, o autor deveria ser consideradoresponsável tributário solidário.
+Pois bem.
+Vale destacar que não se configura a alegada ofensa ao art. 1.022 do CPC/2015, pois o Tribunal a quo, de forma clara e fundamentada, explicitou as razões pelas quais entendeu pela responsabilização solidária do recorrente, administrador da sociedade empresária executada, amparando-se no disposto na Lei estadual n. 11.651/1991 e no art. 135, I, do CTN.
+Nesse panorama, observa-se quea insurgênciado recorrente não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável,não havendo, pois, quefalar emnegativa de prestação jurisdicional, tampouco em ausência de fundamentação.
+Quanto à responsabilização do administrador por débitos de ICMS de sociedade empresária, tem-se que, para chegar à conclusão pretendida pelo recorrente, seria essencial a interpretação de norma estadual, o que esbarra no óbice da Súmula 280 do STF.
+Vale salientar, por oportuno, queo art. 124 do CTN não ampara a pretensão recursal, pois não trata da questão relativa à responsabilidade solidária do administrador, caso dos autos, motivo pelo qual incide o obstáculo previsto na Súmula 284 do STF.
+Por fim, não há falar em ofensa aos arts. 926 e 927 do CPC/2015, pois tais dispositivos não são aptos a desconstituir o acórdão de origem, o qual adotou como razão de decidir expressa previsão em norma estadual, aspecto não enfrentado no verbete sumular que supostamente teria sido inobservado pela Corte local. Nessa medida, o recurso especial mostra-se deficiente, atraindo a aplicação da Súmula 284 do STF.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
