@@ -1,0 +1,16 @@
+Habeas corpus. Crimes de trafico de drogas e associação para o tráfico. Prisão Preventiva. Alegada demora no julgamento de writ impetrado junto ao Superior Tribunal de Justiça. Manifesta ilegalidade ou teratologia não identificadas. Negativa de seguimento.
+    Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Valfran de Aguiar Moreira em favor de Edmilson Alves de Santana, contra conduta omissiva do Relator do HC 575.536/RJ, Ministro Ribeiro Dantas, do Superior Tribunal de Justiça.
+    O Paciente foi preso em flagrante delito, convertido o título em prisão preventiva, pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico (arts. 33, caput, e 35, da Lei 11.343/2006)
+    No presente writ, a Defesa alega, em síntese, demora injustificada da Corte Superior para o julgamento do HC 575.536/RJ. Aduz ‘que tal habeas corpus já se encontra na conclusão ao relator desde o dia 13 de maio de 2020 – há mais de um ano, portanto – sem qualquer previsão de julgamento’. Requer, em medida liminar e no mérito, a concessão da ordem de habeas corpus para determinar o imediato julgamento do HC 575.536/RJ pelo Superior Tribunal de Justiça.
+    É o relatório.
+    Decido.
+    Em consulta ao sítio eletrônico do Superior Tribunal de Justiça, verifico que o HC 575.536/RJ foi distribuído ao Ministro Ribeiro Dantas em 24.4.2020. A decisão que indeferiu a liminar foi publicada em 28.4.2020. Ato contínuo, os autos vieram novamente conclusos para julgamento, com o parecer ministerial e com as informações prestadas pelo Juízo de primeiro grau e pela Corte Estadual, em 13.5.2020.
+    Ao exame dos autos, reputo não configurada a alegada demora no julgamento do referido writ. Na linha da orientação jurisprudencial desta Suprema Corte, ‘a quantidade de demandas em trâmite no órgão judicial, a complexidade e a natureza das causas postas em juízo são fatores que não podem ser ignorados nesse exame de regularidade do desenvolvimento do processo. Em suma, não há inércia ou excesso de prazo atribuíveis ao Poder Judiciário a justificar a intervenção desta CORTE na ordem de trabalhos do Superior Tribunal de Justiça. Por fim, qualquer juízo desta CORTE, enquanto não apreciadas pelo STJ as irresignações postas na presente impetração, implicaria supressão de instância e contrariedade à repartição constitucional de competências, o que não é admitido pela jurisprudência do STF (HC 196.351-AgR/RS, 1ª Turma, Rel. Min. Alexandre de Moraes, DJe 05.3.2021) e não se identifica, a princípio, uma tramitação heterodoxa do feito imputável apenas ao aparelho judiciário, tampouco configurada situação anômala que compromete a efetividade do processo ou desprezo estatal pela liberdade do cidadão (HC 142.177/RS, Rel. Min. Celso de Mello).
+    Ademais, está sedimentado, em ambas as Turmas da Suprema Corte, que a demora no julgamento do writ impetrado ao Superior Tribunal de Justiça, por si só, não pode ser interpretada como negativa de prestação jurisdicional (HC 132.610-AgR/MS, Rel. Min. Dias Toffoli).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Encaminhe-se cópia desta decisão ao Ministro Relator do HC 575.536/RJ, no Superior Tribunal de Justiça.
+    Publique-se.
+    Brasília, 19 de maio de 2021.
+Ministra Rosa Weber
+Relatora
