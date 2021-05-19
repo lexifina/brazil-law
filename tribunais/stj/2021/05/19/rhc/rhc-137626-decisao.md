@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto por ADISSON LUIZ DELGADO DE OLIVEIRA e ALITTON ANTONIO DELGADO DE OLIVEIRA, contra acórdão do Tribunal de Justiça do Estado do Paraná.
+Neste recurso, sustentam, em síntese: a)ofensa ao art. 316 do CPP, pois a decisão que manteve a prisão preventiva feriu o princípio do contraditório; b)ocorrência de decadência quanto ao fato 3 da denúncia.
+Pleiteiam a revogação da custódia preventiva e declaração da decadência.
+O Ministério Público Federal opinou pelo não conhecimento dorecurso.
+É o relatório.
+Inicialmente, em consulta ao sítio eletrônico do Tribunal de origem (Ação Penal n. 0075116-85.2019.8.16.0014), verifica-se que, em 27/1/2021, foi prolatada sentença condenatória, na qual foi negado o direito de recorrer em liberdade.
+De acordo com o entendimento da Quinta Turma desta Corte, "a superveniência de sentença de pronúncia ou condenatória não constituirá "título novo", de modo a prejudicar o conhecimento dohabeas corpus, se a ela nenhum fundamento novo for acrescentado" (HC 288.176/SP, Rel. Ministro NEWTON TRISOTTO, julgado em 25/11/2014).
+No caso dos presentes autos, o magistrado sentenciante manteve a custódia cautelar dos réus, quando da prolação da sentença, nos seguintes termos:
+"Indefiro o pedido derevogação da prisão preventiva formuladopela douta Defesa, pois, mesmo cm caso deinterposição derecurso contra estasentença, os condenados deverão permanecer reclusos, considerando a manutenção da custódia cautelardurante toda a instrução, não havendomotivos para que, prolatada a sentença condenatória, aguardem o trânsito emjulgado desta em liberdade, o que não constitui afronta ao princípio dapresunção deinocência.
+Ademais, presentes estão os requisitos do artigo 312 do Código deProcesso Penal, na medida cm que os réus, condenados por crime contra opatrimônio, com sua ação demonstraram que põem cm risco à ordem pública,pois praticaram os delitos de estelionato e estelionato tentado em dois diassubsequentes, com a utilização dedocumentos deidentidade falsificados,revelando-sedegravidade concreta.
+A par disso, são reincidentes em delitos patrimoniais, játendo sido condenados pela prática do crimederoubo majorado, demodo ademonstrar comportamento inadequado, ausente de freios inibitórios,evidenciando ser imprescindível a custódia deambos para a garantia da ordempública, haja vista a possibilidade concreta dereiteração criminosa.
+E se os réus já estavam reclusos cautelarmentc durante otranscorrer da instrução criminal, a superveniente condenação apenas faz poragregar mais motivos justificadores da continuidade da custódia.
+Não sepode confundir o direito de apelar cm liberdade, quando ocondenado responde livre ao desenrolar do procedimento penal, com o direitodeaguardar, cm liberdade, o julgamento da apelação interposta cm processo aque responde preso cautelarmentc. São situações distintas e que demandam,como é natural, respostas diversas."
+Como se vê, foi agregadonovofundamentoao decreto preventivo, encontrando-se superada a discussão acerca da legalidade da decisão anterior, pois, configurando a sentença um novo título, necessária a prévia submissão da matéria ao Tribunala quo, sob pena de indevida supressão de instância.
+Assim, encontra-se superada a alegação de constrangimento ilegal, mesmo que em razão de ofensa ao art. 316,parágrafo único, do Código de Processo Penal.
+A propósito:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1.JULGAMENTO MONOCRÁTICO. DECISÃO PROFERIDA COM OBSERVÂNCIA DO RISTJ E DO CPC. POSSIBILIDADE DE INTERPRETAÇÃO EXTENSIVA. ACÓRDÃO IMPUGNADO EM CONSONÂNCIA COM JURISPRUDÊNCIA DOMINANTE. 2. VIOLAÇÃO DO PRINCÍPIO DO JUIZ NATURAL. CERCEAMENTO DE DEFESA. NÃO VERIFICAÇÃO.SUBMISSÃO DA MATÉRIA AO COLEGIADO. INTERPOSIÇÃO DE AGRAVO REGIMENTAL. 3. MANDAMUS SUBSTITUTIVO DO RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. 4. PRISÃO PREVENTIVA. NECESSIDADE E CONTEMPORANEIDADE. ANÁLISE REALIZADA NO JULGAMENTO DO HC 520.517/RJ.AUSÊNCIA DE EXECUÇÃO PROVISÓRIA. 5. OFENSA AO ART. 316, P. ÚNICO, DO CPP. NÃO VERIFICAÇÃO. SENTENÇA JÁ PROFERIDA. CONDENAÇÃO CONFIRMADA. 6. NECESSIDADE DA PRISÃO. REVISÃO A CADA 90 DIAS.INCUMBÊNCIA DO JUIZ QUE A DECRETOU. PRECEDENTES DESTA CORTE.RESSALVA DO RELATOR. 7. RÉU QUE PERMANECEU PRESO DURANTE O PROCESSO.SUPERVENIÊNCIA DE SENTENÇA CONFIRMADA PELO TRIBUNAL. 8. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+5. No que diz respeito à alegada violação do art. 316, parágrafo único, do Código de Processo Penal, tem-se que já foi proferida sentença condenatória, a qual foi igualmente confirmada pelo Tribunal de origem. Conforme esclarecido pela Corte local, "a inovação legislativa, busca-se evitar o prolongamento da prisão por prazo indeterminado, sem formação da culpa. Daí nasce o dever de ofício de o juiz ou o tribunal processantes declinarem fundamentos relevantes para manter a segregação provisória".
+ ..
+8. Agravo regimental a que se nega provimento."
+(AgRg no HC 620.881/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/11/2020, DJe 23/11/2020)
+Ainda, sobre o tema: RHC 80.147/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/5/2017, DJe 31/5/2017; RHC 81.869/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/5/2017, DJe 7/6/2017.
+Por fim,verifica-se que aquestão relacionada à decadêncianão foiobjeto de julgamento no acórdão impugnado, pois seria o pedido mera reiteração de writ anterior já julgado,o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância, consoante pacífico entendimento desta Corte:
+"As alegações relativas à decadência do direito de representação, bem como à incidência da excludente de ilicitude prevista no art.142, I, do Código Penal, não foram debatidas pelo Tribunal de origem, não podendo ser conhecidas por esta Corte Superior, sob pena de indevida supressão de instância."
+(AgRg no HC 587.198/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 08/09/2020, DJe 14/09/2020)
+"A alegada tese de decadência não foi analisada no v. acórdão impugnado, razão pela qual esta Corte fica impedida de manifestar-se sobre a quaestio, sob pena de supressão de instância."
+(RHC 64.425/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/04/2016, DJe 22/04/2016)
+Ante o exposto, nãoconheçodorecurso.
+Publique-se. Intimem-se.
