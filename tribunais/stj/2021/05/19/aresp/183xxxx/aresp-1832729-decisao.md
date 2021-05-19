@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Gilberto Inacio de Medeiros - espólio -, representado por Sueli Verlante Medeiros - inventariante -, e Simone de Medeiros Neto Martins , com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 305):
+AGRAVO DE INSTRUMENTO INVENTÁRIO DECISÃO AGRAVADA QUE DETERMINOU O SOBRESTAMENTO DO INVENTÁRIO DECISÃO ACERTADA, DIANTE DA TORMENTOSA INCERTEZA ACERCA DOS BENS A SEREM INVENTARIADOS E PARTILHADOS OBJETIVO DO INVENTÁRIO É DEFINIR QUAIS OS HERDEIROS E OS BENS A SEREM PARTILHADOS DECISÃO MANTIDA RECURSO NÃO PROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 849-870), os recorrentes alegaram a violação dos arts. 5º da Constituição Federal; e 104, 178, 179, 496, 1.829 e 2.021 do Código Civil de 2002.
+Sustentaram , em síntese, que o sobrestamento é infundado, tendo em vista que houve comprovação, na demanda principal, da existência de patrimônio tido como incontroverso, plenamente passível de ser partilhado, independentemente do resultado das discussões ordinárias.
+Frisaram que o "negócio jurídico da disposição de vontade restou perfeito e acabado, haja vista o preenchimento de todos os requisitos para tal validação, os quais estão preconizados no art. 104 do CCB, a saber: agente capaz  objeto lícito  determinado  forma prescrita ou não defesa".
+Aduziram, ainda, que a parte recorrida alegou a nulidade do ato jurídico em relação aos imóveis da Cidade de Guarulhos e Praia Grande, mas que estes fazem parte do acordo formulado antes do falecimento do inventariado, com participação direta (inclusive com firma reconhecida por autenticidade), sendo materializada formalmente na escritura de venda e compra dos referidos imóveis.
+Foram apresentadas contrarrazões (e-STJ, fls. 322-329).
+O Tribunal de origem não admitiu o processamento do recurso especial ante a impossibilidade de análise de matéria constitucional por meio de recurso especial; a ausência de prequestionamento, incidindo a Súmula n. 282/STF; e a ausência de demonstração de violação dos dispositivos apontados (e-STJ, fls. 336-339).
+Brevemente relatado, decido.
+Preliminarmente, verifica-se que a parte recorrente alegou violação do art. 5º da CF/1988. Contudo, é evidente a inadequação da via recursal eleita, porquanto "compete ao Superior Tribunal de Justiça, em sede de recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos e princípios constitucionais, porquanto matéria afeta à competência do STF (art. 102, inciso III, da Constituição Federal)" - ( AgRg no AREsp n. 359.463/SP, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/2/2015, DJe 3/3/2015).
+Verifica-se que os dispositivos legais apontados pelos recorrentes - 178, 179, 496 e 1.829 do Código Civil de 2002 - não foram enfrentados pelo acórdão impugnado, tampouco foram opostos embargos de declaração quanto a esse ponto.
+Para que se atenda ao requisito do prequestionamento, é necessária a efetiva discussão do tema pelo Tribunal de origem, ainda que em embargos de declaração, o que, na espécie, não ocorreu. Incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+Ressalte-se que o entendimento jurisprudencial desta Corte é de que se têm como prequestionados os dispositivos legais de forma implícita, ou seja, ainda que não referidos diretamente, quando o acórdão recorrido emite juízo de valor fundamentado acerca da matéria por eles regida.
+A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. APRECIAÇÃO DE TESES NÃO ANALISADAS. ORDEM PÚBLICA. PREQUESTIONAMENTO. NECESSIDADE. SEGUNDA APELAÇÃO. NÃO CABIMENTO. PRECEDENTES. AGRAVO IMPROVIDO.
+1. O prequestionamento constitui requisito de admissibilidade do recurso especial, ainda que se trate de matéria de ordem pública.
+2. "O Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, visando o mero reexame de fatos e provas, sem a existência de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (AgRg no AREsp 1213878/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/12/2019, DJe 09/12/2019).
+3. Agravo regimental improvido.
+(AgRg nos EDcl no AREsp n. 1.712.955/TO, Relator Ministro OLINDO MENEZES, Desembargador Convocado do TRF 1ª Região, SEXTA TURMA, julgado em 4/5/2021, DJe 7/5/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IPTU. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. NORMAS MUNICIPAIS. FUNDAMENTO CONSTITUCIONAL AUTÔNOMO. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a respeito da qual nem mesmo foram opostos embargos de declaração, impede o seu conhecimento, a teor das Súmulas 282 e 356 do STF.
+2. O Tribunal a quo, ao solucionar a controvérsia referente à eficácia de normas municipais, adotou fundamentação constitucional - princípio da reserva legal -, que se mostra suficiente à solução do litígio. A não impugnação de fundamento constitucional autônomo por meio da interposição de recurso extraordinário impõe a aplicação da Súmula 126/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.754.672/RJ, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 3/5/2021, DJe 5/5/2021).
+O Tribunal estadual, ao julgar o agravo de instrumento, consignou o seguinte (e-STJ, fls. 305-307):
+Trata-se de agravo de instrumento interposto contra decisão de fls. 295 que, nos autos da ação de inventário, determinou a suspensão do inventário até decisão final nos processos de nulidade de ato jurídico e adjudicação de herança.
+Sustentam os recorrentes, em síntese, que é possível o prosseguimento do inventário naquilo que inexiste controvérsia, uma vez que a demora indefinida sobre todo o patrimônio discutido acarretará lesão e prejuízos irreparáveis aos herdeiros. Pugna pela reforma da decisão atacada com o prosseguimento dos autos do inventário.
+(..)
+Trata-se de inventário dos bens deixado pelo falecido Gilberto Inácio de Medeiros.
+A finalidade do inventário é a apuração do acervo de bens (direitos e obrigações), identificando os herdeiros e a cota ideal a ser partilhada com o pagamento dos tributos, e a divisão igualitária entre os herdeiros, elementos que devem estar definidos nos autos do inventário.
+A pretensão de prosseguimento do inventário não merece prosperar. Como se observa da análise atenta dos autos, não há certeza em relação ao monte-mor.
+Há questões prejudiciais refletem, necessariamente no acervo de bens herdados, na medida em que há ação de nulidade de partilha de anterior divisão de bens, bem como ação anulatória de compra e venda de imóveis entre ascendente e descendente, o que torna bastante tormentoso o efetivo inventário dos bens a serem partilhados.
+Dessa forma, não é recomendável o prosseguimento do inventário, diante da possibilidade de decisões conflitantes bens que compõem o monte mor, muito embora o procedimento do inventário deva ser o mais célere possível.
+Ausentes elementos suficientes para convencer acerca do desacerto da decisão agravada, a sua manutenção é medida de rigor.
+Verifica-se que, para reverter os fundamentos do acórdão estadual, seria necessário o reexame do acervo fático-probatório dos autos, o que é impróprio pela via do recurso especial, nos termos da Súmula n. 7/STJ.
+A propósito, guardadas as devidas particularidades:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUCESSÕES. INVENTÁRIO. SUSPENSÃO. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem, após a análise dos elementos fático - probatório dos autos, concluiu que " a suspensão do inventário de Rio Nogueira é medida razoável, encontra-se de acordo com o nosso ordenamento jurídico e visa evitar além da confusão de patrimônios, eventual inadimplemento de dívidas a serem saldadas pelos espólios anteriormente à partilha". Assim, o entendimento do acórdão recorrido, em relação à existência de questão prejudicial apta a justificar a manutenção da suspensão do inventário, não pode ser revista por esta Corte Superior, pois demandaria, necessariamente, reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.211.991/RJ, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/4/2018, DJe 19/4/2018).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. SUCESSÕES. INVENTÁRIO. IMPOSSIBILIDADE DE ANÁLISE DE MATÉRIA CONSTITUCIONAL POR MEIO DE RECURSO ESPECIAL. NECESSIDADE DE PREQUESTIONAMENTO, AINDA QUE SE TRATE DE MATÉRIA DE ORDEM PÚBLICA. SÚMULAS 282 E 356 DO STF. SOBRESTAMENTO DO INVENTÁRIO. REEXAME. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
