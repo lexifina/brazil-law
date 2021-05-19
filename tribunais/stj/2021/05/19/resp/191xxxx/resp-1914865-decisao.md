@@ -1,0 +1,7 @@
+DECISÃO
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Superior Tribunal de Justiça, nos seguintes feitos: REsp 1.850.512/SP e REsp 1.877.883/SP e 1.906.623/SP, todos da relatoria do Min. Og Fernandes,submeteu à Corte Especiala seguinte tese controvertida:"Definição do alcance da norma inserta no § 8º do artigo 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados".
+A admissão de recurso especial como representativo da controvérsia impõe que os recursos interpostos (na Corte de origem), que tratem da mesma questão central, fiquem suspensos até o pronunciamento definitivo deste Tribunal.
+Posteriormente, tais recursos devem ter seguimento negado (na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça) ou devem ser novamente examinados pelo Tribunal de origem (na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça).
+Assim, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para queo recurso especial seja submetido ao procedimento acima referido.
+Publique-se. Intimem-se.
