@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Franklin Santos de Assis Martins, apontando como autoridade coatora o Ministro Humberto Martins, Presidente do Superior Tribunal de Justiça, que indeferiu liminarmente o HC nº 664.477/SP.
+    Sustentam, em síntese, os impetrantes que o paciente está submetido a constrangimento ilegal, pois o título da sua prisão preventiva - decorrente da suposta prática do delito previsto no art. 171, § 4º, c/c o art. 14, II, na forma do art. 29, todos do Código Penal - seria desprovido de fundamentação idônea, apta a justificar a sua necessidade, bem como estariam ausentes os pressupostos do art. 312 do Código de Processo Penal.
+    Requer, liminarmente, a concessão da ordem para que se determine a revogação da prisão preventiva.
+    Examinados os autos, decido.
+    Trata-se, na espécie, de decisão segundo a qual o eminente Ministro Humberto Martins indeferiu de plano a inicial do HC nº 664.477/SP, uma vez que questionava decisão indeferitória de liminar do Tribunal de Justiça do Estado de São Paulo.
+    Logo, a questão submetida à discussão do Superior Tribunal Justiça e reiterada neste habeas corpus não teria sido objeto de análise definitiva por parte daquele Tribunal de Justiça estadual. Portanto, sua apreciação, de forma originária, neste ensejo, configuraria inadmissível dupla supressão de instância.
+    Perfilhando esse entendimento, destaco os precedentes seguintes: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07, entre outros.
+    Ademais, vale registrar que a impetração se volta contra decisão singular, fazendo incidir, na espécie, o entendimento de que,
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14).
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    Ainda que assim não fosse, anoto que a decisão por meio da qual determinada a preventiva levou em conta a reincidência do paciente, concluindo presente o risco à ordem pública. Vide:
+    “Há fortes elementos nos autos, notadamente os autos de reconhecimento pessoal (fls. 07 e 08) e auto de exibição e apreensão de objetos comumente empregados na espécie de delito em análise (fls. 13/14).
+    Além disso, após analisar a Folha de Antecedentes criminais, verifiquei que o averiguado vem se envolvendo em registros policiais desta natureza desde que atingiu a maioridade, registrando-se fatos em diversos bairros paulistas distintos como Ponte Rasa, cidade de Tiradentes, São Mateus, além de outros municípios como Atibaia-SP, Ferraz de Vasconcelos-SP e agora Cachoeira Paulista-SP (fls. 71/74).
+    Não só isso; trata-se de sujeito com condenação ensejadora de reincidência (fls. 68).
+    Destaca-se que o averiguado não mantém qualquer vínculo com o distrito da culpa, vez que reside na cidade de São Paulo-SP, não possuindo na comarca de Cachoeira Paulista-SP absolutamente nada que justifique seu deslocamento até lá ou que faça crer que, intimado, comparecerá voluntariamente aos atos processuais, haja vista não ter demonstrado o mínimo de vontade em colaborar com a fase investigativa, embora se trate de garantia constitucional.
+    Tudo isso indica que, em liberdade, o averiguado estará abalando a ordem pública na medida em que a conduta atenta contra a lei e expõe os cidadãos ao risco, além de que se faz necessária à garantia da instrução criminal, dada a pouca vontade em colaborar, inclusive, na identificação dos demais agentes.” (Grifos nossos).
+    Esse entendimento não fere a jurisprudência do Supremo Tribunal Federal, segundo a qual “a periculosidade do agente e o risco de reiteração delitiva demonstram a necessidade de se acautelar o meio social para resguardar a ordem pública e constitui fundamento idôneo para a prisão preventiva” (RHC nº 112.703/DF, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 4/9/12).
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 19 de maio de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
