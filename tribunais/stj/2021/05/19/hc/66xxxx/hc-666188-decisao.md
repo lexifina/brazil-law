@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de ERICK HENRIQUE DA SILVA CARVALHO apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1536123-06.2019.8.26.0050).
+Os autos dão conta de que o paciente- além de outros 2 corréus- foi condenado, por infração ao art. 157, § 2º,II, do Código Penal, à pena de 5 (cinco) anos e 4 (quatro) meses de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 13 (treze) dias-multa, tendo-lhe sido negado o direito de recorrer em liberdade.
+As defesas do paciente e dos demaiscorréus interpuseram recurso de apelação no Tribunal de origem, que negou provimento aos recursos de Mercival eErick, corrigindo, de ofício, erro material no cálculo das penas para constar que a pena de multa imposta a Mercival seriade 14 (quatorze) dias, e dandoprovimento ao apelo de Felipe para reduzir as suas penas para 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão e 14 (quatorze) dias-multa, mantendo, no mais, a sentença de primeiro grau (e-STJ fls. 8/14, acórdão sem ementa).
+No presentewrit, a Defensoria Pública do Estado de São Paulo afirma que "a fundamentação lançada pelo v. acórdão para aumentar a pena base foi absolutamente inidônea e ainda é cabível a fixação de REGIME INICIAL DIVERSO DO FECHADO"(e-STJ fl. 4).
+Assevera que "a faca não foi efetivamente utilizada contra a vítima, mas apenas exibida, o que integra a elementar -grave ameaça", e que "a grave ameaça é INERENTE AO TIPO PENAL pelo qual o acusado foi condenado (roubo), não sendo admissível a elevação da pena em razão dessas circunstâncias, sob pena de manifesta violação ao PRINCÍPIO NE BIS IN IDEM"(e-STJ fl. 5).
+Alega que "trata-se de paciente PRIMÁRIO, sem registro de qualquer outro processo criminal em seu desfavor (documentos anexos).Assim, mostra-se cabível é o regime inicial menos gravoso, nos termos do art. 33, §2º, alínea "b", do Código Penal"(e-STJ fl. 5). Invoca, ainda, os enunciados das Súmulas n. 718 e 719 do Supremo Tribunal Federal.
+Sustentaque, "além disso, o tempo de prisão cautelar deverá ser computado para fins de determinação do regime inicial de cumprimento de pena, nos termos do disposto no art.387, §2º, do Código de Processo Penal, acrescentado pela Lei nº 12.736/2012 (o paciente está preso apenas por este processo desde 18/11/2019)"-e-STJ fl. 6).
+Por isso, requer, inclusive liminarmente, que "seja afastado o aumento da pena base e que seja fixado regime inicial de cumprimento de pena diverso do fechado" (e-STJ fl. 7).
+É, em síntese, o relatório.
+A liminar emhabeas corpus, bem como em recurso ordinário emhabeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa minorar os efeitos de eventual ilegalidade que se revele de pronto.
+Em juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência.
+Não obstante os fundamentos apresentados pela defesa, mostra-se imprescindível uma análise mais aprofundada dos elementos de convicção constantes dos autos para verificar a existência de constrangimento ilegal.
+Ademais, o pedido liminar confunde-se com o próprio mérito da irresignação, o qual deverá ser apreciado em momento oportuno, por ocasião do julgamento definitivo desta impetração.
+Ante o exposto,indefiro a liminar.
+Solicitem-se informações ao Tribunala quoe ao Juízo de primeiro grau, ressaltando-se que esta Corte Superior deverá ser noticiada de qualquer alteração no quadro fático atinente ao tema objeto deste feito.
+Requeira-se, ainda, senha para acesso aos andamentos processuais constantes do respectivo portal eletrônico, tendo em vista a restrição determinada pela Resolução n. 121 do Conselho Nacional de Justiça.
+Após, dê-se vista dos autos ao Ministério Público Federal.
+Publique-se. Intimem-se.
