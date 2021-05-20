@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interno interposto por MARLI TAKAIAMA SILVA, em face da decisão monocrática proferida às fls. 888/891 (e-STJ), insurgindo-se, apenas, quanto à aplicação dos índicesdo Decreto-Lei n.º 2.164/1984, requerendo, nesse ponto apenas, a reforma do decisum singular.
+Sem impugnação.
+É o breve relato.
+Decido.
+A decisão ora agravada, no ponto, dever ser retificada.
+1. Com efeito, o Superior Tribunal de Justiça firmou o entendimento no sentido de que "em contrato de financiamento imobiliário celebrado no âmbito doSistema Financeiro da Habitação, com cláusula de observância doPES/CP (presente no caso), o cotejo entre o indexador contratual e o limitador a quefaz referência o art. 9º, § 1º, do Decreto-lei n. 2.164/84, deve serrealizado na mesma periodicidade daquela relativa ao períodoconsiderado da variação salarial, nos termos do seguinte método:"(1º) apura-se a variação do limitador (UPC, IPC ou INPC, a dependerda previsão contratual ou da legislação vigente) para o período emque o mutuário ficou sem aumento salarial; (2º) esse resultado,acrescido do percentual previsto na norma ( 7% ou  0,5%, conforme ocaso), deve ser comparado com o índice de variação salarial dacategoria profissional do mutuário, prevalecendo o menor para finsde atualização do valor da prestação" (REsp 966.333/PR, Rel.Ministra DENISE ARRUDA, PRIMEIRA TURMA, julgado em 03/12/2009, DJe14/12/2009).
+2. Ante o exposto, reconsidero parcialmente a decisão ora agravada, tão-somente para dar parcial provimento ao recurso especial determinado ao juízo processante que, em liquidação de sentença, apure os índices contratuais regidos pelo Decreto-Lei n. 2.164/84, nos termos do entendimento jurisprudencial acima citado.
+Em razão do parcial provimentodo reclamo, procedo à redistribuição do ônussucumbencial, devendo a agravada/recorrida arcar com 60% e amutuária com oremanescente (40%), mantido o quantum da verba honorária fixada na origem,compensando-se na forma da lei (art. 21, do CPC/1973), ressalvado o disposto noart. 12, da Lei n.º 1.050/60.
+Publique-se. Intimem-se.
