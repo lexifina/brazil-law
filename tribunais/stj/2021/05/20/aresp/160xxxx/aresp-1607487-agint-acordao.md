@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO NÃO INFIRMADO ESPECIFICAMENTE. ARTIGO 1.021, § 1º, CPC/2015.
+AGRAVO INTERNO NÃO CONHECIDO.
+RELATÓRIO
+Trata-se de agravo interno no agravo em recurso especial interposto por LOCTEC ENGENHARIA LTDA - EM RECUPERAÇÃO JUDICIALcontra decisão monocrática de minha lavra assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC. AUSÊNCIA DE OMISSÃO QUE PUDESSE JUSTIFICAR A OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS. OBSCURIDADE. CONFIGURAÇÃO. TERMOS DO ACÓRDÃO QUE PERMITEM MAIS DE UMA INTERPRETAÇÃO. IMPRESCINDIBILIDADE DE QUE O JULGADOR SE MANIFESTE COM O INTUITO DE EVITAR FUTURAS DISCUSSÕES. TESES RECURSAIS QUE PARTEM DE PREMISSA FÁTICA EXPRESSAMENTE REJEITADA PELO TRIBUNAL A QUO. IMPRESCINDIBILIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO.
+AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, DAR-LHE PARCIAL
+Nas razões deste recurso, a agravante afirma que "não há qualquer obscuridade relativa a incidência da multa por litigância de má-fé e ato atentatório, posto que o Tribunal a quo foi claro em seu voto, determinando a incidência no percentual de dois por cento, não abrindo margem a interpretações diversas", transcrevendo o dispositivo do acórdão recorrido para lastrear este entendimento. Enfatiza que "a matéria sobre a suposta obscuridade já restou delimitada e julgada, por unanimidade de votos, pela 6ª Câmara Cível do Eg. TJGO", transcrevendo trecho do acórdão proferido no julgamento dos embargos declaratórios opostos pelo agravado contra o acórdão recorrido.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO NÃO INFIRMADO ESPECIFICAMENTE. ARTIGO 1.021, § 1º, CPC/2015.
+AGRAVO INTERNO NÃO CONHECIDO.
+VOTO
+Eminentes colegas, o agravo interno não comporta conhecimento.
+Com efeito, em atenção ao princípio da dialeticidade, "as razões recursais devem impugnar, com transparência e objetividade, os fundamentos suficientes para manter íntegro o decisum recorrido" (AgRg no Ag 1027795/RS, Rel. Min. PAULO FURTADO (Desembargador Convocado do TJ/BA), Terceira Turma, DJ de 18.06.2010).
+Cumpre destacar que na espécie o recurso especial foi parcialmente conhecido e, nesta extensão, apenas parcialmente provido para reconhecer a existência de obscuridade no acórdão recorrido. Ato contínuo, somente esta questão será devolvida à apreciação do Tribunal a quo, restando preclusa qualquer discussão acerca da aplicação da multa em si, tendo em vista que contra a decisão monocrática ora agravada a parte adversa não interpôs qualquer recurso.Nestes termos, parte das razões recursais carece de pertinência ao julgamento destefeito, tendo em vista que não se afastou a aplicação da multa imposta pelo Tribunal de origem aoagravado, havendo apenas determinação para que o Tribunal de origem sane a obscuridade apontada no acórdão recorrido, esclarecendo se"o percentual de 2% (dois por cento) refere-se à multa por litigância de má-fé e ato atentatório, ou seja, se esse é o percentual para a sanção processual como um todo" ou "se deve ser aplicado o percentual de 2% (dois por cento) para cada uma das multas".
+Reitere-se, caberá ao Tribunal de origem se manifestar apenas sobre a obscuridade apontada, não podendo apreciar novamente a validade da aplicação da multa.
+Já tendo o agravado exercido o seu direito de recorrer quanto a isto e a questão já ter sido objeto da decisão agravada, operou-se a preclusão consumativa, de modo que eventual recurso especial contra o acórdão que será proferido pelo Tribunal de origem para sanar a obscuridade apontadasomente poderá atacar a este capítulo específico.
+Dito isto, o que se observa é que a genérica assertiva de que "não há qualquer obscuridade relativa a incidência da multa por litigância de má-fé e ato atentatório, posto que o Tribunal a quo foi claro em seu voto, determinando a incidência no percentual de dois por cento" não impugna o fundamento da decisão agravada, tendo em vista que sequer indica qual das duas interpretações possíveis deve ser considerada.
+Note-se que da leitura do dispositivo do acórdão recorrido, transcrito pela agravante, não é possível determinar os termos da multa aplicada ao agravado. Transcrevo novamente este trecho:
+"AO TEOR DO EXPOSTO, conheço do recurso e confiro-lhe parcial provimento, a fim de tão somente reduzir o percentual da multa arbitrada por ato atentatório à dignidade da justiça e litigância de má-fé para o correspondente a 2% (dois por cento) do valo)a ser devolvido à agravada, mantendo a decisão guerreada em seus demais termos."
+Repita-se, não é possívelda leitura do acórdão determinar se "o percentual de 2% (dois por cento) refere-se à multa por litigância de má-fé e ato atentatório, ou seja, se esse é o percentual para a sanção processual como um todo" ou "se deve ser aplicado o percentual de 2% (dois por cento) para cada uma das multas".
+A agravante simplesmente não traz qualquer elemento que evidencie qual destas duas interpretações deve ser considerada pelo agravado, mas limita-se a rejeitar a conclusão apresentada na decisão agravada, razão pela qual seu recurso sequer deve ser conhecido.
+Ante o exposto, com base no art. 1.021, §1º, do CPC/2015, NÃO CONHEÇO do agravo interno no agravo em recurso especial.
+É o voto.
