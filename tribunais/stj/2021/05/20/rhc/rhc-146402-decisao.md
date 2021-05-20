@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ANITTA PEREIRA DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS no julgamento do HC n. 5081788-90.2021.8.09.0000.
+Extrai-se dos autos que a recorrente foi presa preventivamente sob a acusação de ter praticado o delito tipificado no art. 157, § 2º, II e V, do Código Penal (roubo qualificado pelo concurso de agente e restrição de liberdade da vítima).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. ROUBO. AUTORIA. NÃO CONHECIMENTO. PRISÃO PREVENTIVA. MOTIVADA. ANTECEDENTES. LEGALIDADE. ORDEM DENEGADA. Mantém-se a custódia cautelar visando resguardar a ordem pública, diante da gravidade concreta da conduta e demonstração de envolvimento do paciente em fatos criminais(art. 312 do CPP). Ordem denegada" (fl. 342).
+No presente recurso, sustenta a existência de constrangimento ilegal decorrente da manutenção da prisão.
+Argumenta a nulidade da decisão que decretou a custódia, em razão de não ser dada a oportunidade da defesa se manifestar nos autos, nos termos do artigo 282, § 3º, do Código de Processo Penal.
+Alegaque não estão presentes os requisitos para a decretação da prisão preventiva, a qual estaria fundamentada somente na gravidade abstrata do delito.
+Aponta que não há sentenças transitadas em julgado em desfavor da recorrente e, portanto, é cabível a substituição da custódia por medida cautelar diversa.
+Requer, assim, a revogação da prisão preventiva.
+O pedido de liminar foi indeferido às fls. 376/377, as informações devidamente prestadas às fls. 381/388, 389/397, 398/406 e 408/415 e o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 419/422).
+É o relatório.
+Decido.
+Conforme relatado, busca-se, no presente recurso, a revogação da custódia cautelar do recorrente.
+Inicialmente, quanto aos motivos para a manutenção da prisão preventiva, de acordo com andamento processual obtido na página eletrônica do Tribunal de Justiça do Estado deGoiás, verifica-se que, em 26/4/2021, foi proferida sentença condenando a recorrente pela prática do delito previsto no art. 157, § 2º, II e V, do CP, do Código Penal (roubo majorado), à pena de 6 anos, 10meses e 5 dias de reclusão, em regime inicial fechado, mantida a prisão cautelar (Ação Penal n. 5489095-08.2020.8.09.0051).
+É cediço que esta Quinta Turma firmou posicionamento no sentido de que a manutenção da custódia cautelar por ocasião de sentença condenatória superveniente não possui o condão de tomar prejudicado o writ/recurso em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo. Nesse sentido: RHC 53.194/RS, Rei. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016.
+O entendimento revela-se substancialmente claro: a superveniência de sentença condenatória que mantém a prisão cautelar constitui título novo, que substitui - e supera - o decreto prisional impugnado mediante habeas corpus, exceto se o Magistrado sentenciante não adota fundamentos novos e diversos daqueles apresentados por ocasião da decretação da segregação preventiva.
+In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar da ora recorrente, agregando fundamentos novos ao decreto prisional, consoante se extrai do seguinte trecho do julgado, in verbis:
+"NEGO ao sentenciado o direito de recorrer em liberdade, porquanto encontram-se presentes os requisitos da prisão preventiva. Efetivamente, o fumus comissi delicti resulta da própria sentença condenatória, cuja conclusão foi no sentido de que ficaram provadas a materialidade e autoria delitiva, ao passo que o periculum libertatis decorre da circunstância de garantir a ordem pública, ante os maus antecedentes, a conduta social, as circunstâncias do crime, a repercussão social do delito e a periculosidade do agente, conforme apurado nos autos. Nesse ponto, cumpre destacar que, não obstante possuir vários processos criminais em tramitação, inclusive com condenação criminal em alguns, conforme extensa ficha criminal acostada aos autos, tratando-se, portanto, de pessoa contumaz na prática de crimes, os fatos praticados pelo sentenciado são assustadoramente graves, o que demonstra, sem nenhuma dúvida, a necessidade da manutenção da prisão preventiva, pois evidente o perigo gerado pelo seu estado de liberdade".
+Confira-se o julgado desta Corte no mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. DIREITO PENAL E PROCESSUAL PENAL. HOMICÍDIO DUPLAMENTE QUALIFICADO TENTADO. IMPUGNAÇÃO À PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA COM AGREGAÇÃO DE NOVOS FUNDAMENTOS, NÃO IMPUGNADOS PELO IMPETRANTE. NEGATIVA DE RECORRER EM LIBERDADE. PEDIDO RECURSAL PREJUDICADO. AGRAVO DESPROVIDO.
+1. A superveniência de sentença de pronúncia, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar.
+2. Agravo regimental desprovido.
+(AgRg no RHC 112.178/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 15/06/2020).
+Ante o exposto, com fundamento no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
