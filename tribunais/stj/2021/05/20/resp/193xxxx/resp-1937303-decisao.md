@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANTONIA DAMASCENO COSTA, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins, assim ementado (fl. 300-301):
+AÇÃO DE COBRANÇA C/C OBRIGAÇÃO DE FAZER. AGENTE COMUNITÁRIO DE SAÚDE. MUNICÍPIO DE ARAGUATINS/TO. INCENTIVO FINANCEIRO. ADICIONAL INSTITUÍDO POR PORTARIA DO MINISTÉRIO DA SAÚDE. AUSÊNCIA DE NORMA ESPECÍFICA QUANTO À DESTINAÇÃO DIRETA DESSA VERBA AOS AGENTES COMUNITÁRIOS DE SAÚDE. RECURSO IMPROVIDO.
+1. O Incentivo Financeiro Adicional, previsto na Portaria 1.350/2002do Ministério da Saúde destina-se à promoção e incremento de atividades relacionadas à área da saúde do Município, não constituindo verba remuneratória aos agentes comunitários de saúde, sobretudo porque esta somente pode ser instituída por meio de lei específica, na forma dos arts. 37, X, 61, §1º,  "c ", e 169 da Constituição Federal.
+2. Somente lei do respectivo ente público a que vinculado o servidor pode estabelecer verbas salariais, desde que haja prévia dotação orçamentária para atender às projeções de despesa de pessoal. Logo, ato infralegal do Ministério da Saúde não pode estabelecer verba salarial, sobretudo a servidor municipal.
+3. O incentivo financeiro criado pela Lei nº 12.994/14, que incluiu o art. 9º-D, na Lei nº 11.350/2006, visa fortalecer a atuação dos Agentes Comunitários de Saúde (ACS) e Agentes de Combate às Endemias (ACE), inexistindo qualquer vinculação a eventual adicional remuneratório de tais profissionais.
+4. Recurso conhecido e improvido.
+Na origem, a parte recorrente ajuizou ação de cobrança contra o MUNICÍPIO DE ARAGUATINS/TO para recebimento do Incentivo Financeiro Adicional (IFA) instituído pelo Ministério da Saúde.
+Valor dado à causa: R$ 4.564,37 (quatro mil, quinhentos e sessenta e quatro reais e trinta e sete centavos), em 2019.
+No presente recurso especial, aponta-se violação do artigo art. 9-C, §4º, da Lei nº 11.350/2006, sustentando-se, em síntese, que:
+Assim, se não há dúvida de que ao Recorrente é garantido o recebimento das 12 parcelas mensais como piso salarial que lhe é devido por lei, também não lhe pode ser negado o direito ao recebimento da referida parcela adicional disposta na parte final do §4º, pois ambas tem a mesma finalidade, tanto que inseridas no mesmo tópico normativo. (fl. 310)
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2.016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Em resumo, a presente demanda tem por objetivo elucidar o seguinte questionamento: os valores repassados pela União ao Município a título de incentivo financeiro adicional deveriam, necessariamente, ser repassados aos agentes comunitários de saúde e agente de combate a endemias, ou estariam sujeitos à discricionariedade do administrador, a fim de que fossem gastos no âmbito da atenção básica à saúde.
+Verifico que o Tribunal a quo, ao analisar a questão, o fez com fundamento em matéria constitucional e infraconstitucional, ou seja, com base também no contido nos arts. 37, X, 61, II, a, e 169, da Constituição Federal. Por sua vez, a parte recorrente deixou de interpor recurso extraordinário, tornando preclusa a questão constitucional, razão pela qual se tem inviabilizado o apelo nobre. Incide na hipótese, o constante da súmula 126/STJ.
+Ademais, para bem solucionar a lide, seria necessária a análise de normas infralegais, como aquelas contidas nas Portarias elencadas, que não se enquadram no conceito de "tratado ou lei
+federal" de que cuida o art. 105, III, a, da CF, ficando fora dos limites estreitos da via eleita (Recurso Especial).
+Anote-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. AGENTE COMUNITÁRIO DE SAÚDE. PAGAMENTO DE INCENTIVO FINANCEIRO ADICIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PORTARIA DO MINISTÉRIO DA SAÚDE. EXAME EM RECURSO ESPECIAL. INVIABILIDADE. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Não se pode conhecer da irresignação contra a ofensa ao art. 9º-F da Lei 11.350/2006, pois a tese legal apontada não foi analisada pelo acórdão hostilizado.
+2. Com efeito, para que se configure o prequestionamento é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+3. Nesse contexto, por simples cotejo das razões recursais com os fundamentos do acórdão, percebe-se que a tese recursal vinculada ao dispositivo tido como ofendido não foi apreciado pela Corte a quo.
+4. Ressalte-se que nem sequer houve interposição de Embargos de Declaração, o que seria indispensável para análise de uma possível omissão no julgado.
+5. Assim, perquirir, nesta via estreita, a ofensa da referida norma, sem que se tenha explicitado a tese jurídica no juízo a quo é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. Ao ensejo, confira-se o teor da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+6. Outrossim, verifica-se que a solução da controvérsia extrapola a estreita via do Recurso Especial, visto que implica exame de violação reflexa ou indireta a texto de lei federal, já que o caso necessita primordialmente da análise da Portaria 674/2003, ato normativo que não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, "a", da CF.
+7. Recurso Especial não conhecido.
+(REsp 1829275/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/09/2019, DJe 11/10/2019)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
