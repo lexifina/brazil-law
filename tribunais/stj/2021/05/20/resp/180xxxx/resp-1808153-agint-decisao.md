@@ -1,0 +1,55 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interno interposto por RENATA ANDREA PEREIRA DE ARAUJO PETINATTIcontra decisão de minha lavra assim ementada (fl. 457):
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE CRÉDITOS DE RECOMPRA ORIUNDOS DO FUNDO DE FINANCIAMENTO AO ESTUDANTE DE ENSINO SUPERIOR (FIES). IMPOSSIBILIDADE. PRECEDENTES.RECURSO ESPECIAL PROVIDO.
+Em suas razões, a agravante relatou a cronologia dos fatos e decisões proferidas no curso do processo, argumentando que houve a preclusão do direito do agravado discutir a questão referente à penhora sobre os recursos do FIES. Referiu que o acórdão recorrido não tratou sobre a questão da impenhorabilidade do recursos do FIES uma vez que limitou-se a reconhecer a preclusão consumativa acerca do direito de rediscutir esta matéria, já analisada e afastada. Nessa medida, sustentou não restar violado o art. 833, IX, do CPC, sequer analisado pelo Tribunal a quo.Disse ser aplicável o óbice do enunciado da Súmula n.º 284/STJ, na medida em que não houve qualquer impugnação recursal nesse sentido no recurso especial. Colacionou julgados desta Corte apoio a sua tese, postulando o provimento.
+Impugnação às fls. 483/489.
+É o relatório.
+Passo a decidir.
+Considerando os argumentos declinados, com fundamento no art. 259, § 6º, do RISTJ, reconsidero a decisão agravada e passo à nova análise do recurso especial.
+A irresignação recursal não merece prosperar.
+O Tribunal a quo reconhecera que a questão atinente à impenhorabilidade das receitas provenientes do FIESjá havia sido objeto de análise em decisão anterior por aquele colegiado, incidindo sobre o tema o manto da preclusão consumativa.
+A propósito, confira-se:
+Anote-se, por oportuno, que em decisão anterior foi afastada a tese de impenhorabilidade por esta Câmara, peço vênia para transcrever trecho do julgado:
+"Inicialmente, cumpre registrar que a decisão agravada teve origem em pedido formulado pela exequente, de penhora sobre percentual do faturamento da agravante, tendo a julgadora de primeiro grau acolhido em parte tal pretensão ao determinar a penhora sobre percentual das receitas provenientes do FIES, medida que, em suas palavras, é menos onerosa e, ademais, objetiva "conciliar a continuidade da atividade desenvolvida pela executada e a necessidade de satisfação do crédito da exequente".
+A recorrente admite o descumprimento do título executivo judicial que a condenou a indenizar a recorrida, justificando sua omissão no fato de enfrentar dificuldades financeiras, situação que, embora se lamente, não autoriza a devedora a adiar a satisfação da execução até que sua crise financeira se amenize.
+De outra banda, como o veículo já penhorado é insuficiente para saldar o crédito exequendo, a agravante poderia sofrer penhora de seu faturamento, em percentual que não inviabilize o desenvolvimento de sua atividade empresarial, consoante autoriza o art. 866, caput e § 1º, do Código de Processo Civil.
+Nota-se que, no caso vertente, a i.Magistrada prolatora da decisão agravada optou por medida menos gravosa e em percentual diminuto ao determinar a penhora sobre 2% do crédito proveniente do FIES, determinação que deve ser mantida, eis que nada há nos autos a demonstrar que seu cumprimento efetivamente inviabilizaria a continuidade dos serviços educacionais prestados pela recorrente.
+Imperioso salientar que a própria agravante já afirmou nos autos que há frequentes atrasos nos repasses dos recursos do FIES (fls. 76), bem como que tais repasses, inclusive teriam sido suspensos (fls. 100), fatos que, consoante se extrai dos documentos que instruem o agravo, não a impediram de desenvolver sua atividade empresarial.
+Conclusivamente, as razões recursais não se mostram aptas a infirmar as conclusões da respeitável decisão recorrida, que deve ser mantida por seus próprios e jurídicos fundamentos" (sic).
+Ora, diante dessas circunstâncias, resta evidente que sobre o tema incide o manto da preclusão consumativa.
+Com efeito, ainda que se trate de norma de ordem pública, é evidente que proferida decisão sobre a questão, que restou irrecorrida, reexaminar a discussão feriria de morte o princípio da segurança jurídica, somente vindo em prol daqueles que buscam procrastinaro andamento das demandas.
+A matéria, por sinal foi apreciada pelo Colendo Superior Tribunal de Justiça, no mesmo palmilhar deste decisum, conforme excertos a seguir retratados:
+(..)
+Respeitado o entendimento da agravante, não é possível acolher a tese de que as questões de ordem pública não estão sujeitas à preclusão.
+De modo geral, tais questões podem ser alegadas a qualquer tempo e grau de jurisdição, mas deve ser respeitado o princípio da segurança jurídica.
+Em suas razões de recurso especial,a recorrente não impugnou este fundamento, limitando-se a indicar violação ao art. 833, IX, do CPC/2015, dispositivo que sequer fora prequestionado, uma vez que se refere ao próprio mérito da questão preclusa.
+Com isso, faz-se atraído o óbice do enunciado da Súmula n.º 284/STF.
+Quanto ao mais, verifica-se que o acórdão recorrido amolda-se completamente à orientação jurisprudencial desta Corte.
+As questões de ordem pública podem ser suscitadas em qualquer momento na instância ordinária, até mesmo em embargos de declaração opostos contra acórdão que tenha julgado apelação, não podendo o julgador deixar de conhecê-las sob o argumento de que a questão não fora suscitada anteriormente.
+Isto, contudo, não significa que a parte possa arguir questões que já tenham sido decididas anteriormente, pois, nestes casos, incide a preclusão consumativa.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ALEGADA AUSÊNCIA DE TÍTULO EXECUTIVO. MATÉRIA DE ORDEM PÚBLICA. EXISTÊNCIA DE TÍTULO EXECUTIVO RECONHECIDA EM ANTERIORES EXCEÇÕES DE PRÉ EXECUTIVIDADE TRANSITADAS EM JULGADO.PRECLUSÃO CONSUMATIVA. PRECEDENTES. INCIDÊNCIA DA SÚMULA N. 83/STJ.RECURSO NÃO PROVIDO.
+1. "Não tem acolhida a tese de ausência de preclusão, uma vez que a prescrição alegada foi deduzida e afastada em anterior exceção de pré-executividade, definitivamente julgada, não podendo ser renovada por ocasião da interposição de Embargos do Devedor. Precedentes do STJ". (AgRg nos EDcl no AREsp 38.176/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 21/03/2013, DJe 19/04/2013) 2. Ademais, "Nos termos da jurisprudência firmada neste Superior Tribunal de Justiça, ocorre a preclusão consumativa mesmo quando se tratar de matéria de ordem pública (liquidez do título executivo) que tenha sido objeto de anterior decisão já definitivamente julgada". (AgRg no REsp 1487080/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/05/2015, DJe 28/05/2015). Precedentes.Incidência da Súmula n. 83/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1696955/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/03/2021, DJe 23/03/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.EMBARGOS À EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRESCRIÇÃO. PRECLUSÃO CONSUMATIVA. QUESTÕES DE ORDEM PÚBLICA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS DO ACÓRDÃO RECORRIDO.SÚMULAS N. 283 E 284 DO STF. AVISO DE COBRANÇA. ENTREGA NO IMÓVEL OBJETO DO CONTRATO. VALIDADE. SÚMULA N. 83/STJ. RECEBIMENTO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Conforme entendimento do STJ, as matérias não impugnadas no momento oportuno sujeitam-se à preclusão consumativa, inclusive as de ordem pública.
+3. A parte não impugnou os fundamentos do acórdão recorrido sobre o fato de "o espólio encontrar-se representado por sua esposa e também executada, Leda Luiza Dietrich" (e-STJ fl. 179), trazendo alegações dissociadas do que ficou decidido. Incidem as Súmulas n. 283 e 284 do STF.
+4. O TJSC julgou em conformidade com a interpretação dada pelo STJ ao art. 2º, IV, da Lei n. 5.741/1971, ao considerar satisfeito o requisito previsto na referida legislação, com o envio do aviso de cobrança ao endereço do imóvel objeto do contrato.
+5. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n.
+7/STJ).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 735.224/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/03/2021, DJe 12/03/2021)
+RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO IMPROCEDENTE. PRONUNCIAMENTOS DO TRIBUNAL DE ORIGEM LASTREADOS EM SUFICIENTE FUNDAMENTAÇÃO. CUMPRIMENTO DE SENTENÇA. MONTANTE DA CONDENAÇÃO APURADO PELOS CREDORES. ACOLHIMENTO DO PEDIDO DE SATISFAÇÃO DA OBRIGAÇÃO POR MEIO DE PENHORA DE PERCENTUAL DOS PROVENTOS DE APOSENTADORIA DO DEVEDOR, COM CESSAÇÃO DOS DESCONTOS MENSAIS QUANDO ATINGIDO O VALOR TOTAL DA DÍVIDA INDICADO PELOS PRÓPRIOS CREDORES, E INDEFERIMENTO DO PEDIDO DE QUE FOSSE RECALCULADO O SALDO DEVEDOR, COM CORREÇÃO MONETÁRIA E JUROS DE MORA, APÓS O DÉBITO DE CADA PARCELA. DECISÃO QUE, NA PARTE EM QUE REJEITOU A ATUALIZAÇÃO AUTOMÁTICA, NÃO FOI OBJETO DE RECURSO.REAPRESENTAÇÃO DO PEDIDO DE CORREÇÃO DO VALOR DA DÍVIDA. PRECLUSÃO CONSUMATIVA QUE SE OPERA MESMO EM RELAÇÃO A QUESTÕES DE ORDEM PÚBLICA. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+1. Ao decidir pelo provimento do agravo de instrumento, o Tribunal de origem apresentou os fundamentos considerados suficientes para embasar tal conclusão, tendo em seguida demonstrado a ausência, naquele pronunciamento, de quaisquer dos vícios listados no art. 1.022 do CPC/2015, donde manifestamente improcedente, por faltar-lhe o necessário lastro, a alegação de negativa de prestação jurisdicional.
+2. Consoante iterativa jurisprudência desta Corte, sujeitam-se à preclusão consumativa as questões decididas no processo,inclusive as de ordem pública, que não tenham sido objeto deimpugnação recursal no momento próprio.(..)
+4. Recurso especial provido.
+(REsp 1745408/DF, Rel. MinistroRICARDO VILLAS BÔAS CUEVA, Rel. p/ Acórdão Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/03/2019, DJe 12/04/2019)
+Ante o exposto, dou provimento ao agravo interno para, em juízo de reconsideração, não conhecer do recurso especial.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL.EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE CRÉDITOS DE RECOMPRA ORIUNDOS DO FIES. PRECLUSÃO CONSUMATIVA RECONHECIDA PELO TRIBUNAL "A QUO". IMPUGNAÇÃO. AUSÊNCIA. SÚMULA 284/STF. ACÓRDÃO RECORRIDOCONSENTÂNEO À ORIENTAÇÃO JURISPRUDENCIAL DO STJ, NO SENTIDO DE QUEMESMO AS MATÉRIAS DE ORDEM PÚBLICA SE SUJEITAM À PRECLUSÃO CONSUMATIVA.
+AGRAVO INTERNO PROVIDO PARA, EM JUÍZO DE RECONSIDERAÇÃO, NÃO CONHECER DO RECURSO ESPECIAL.
