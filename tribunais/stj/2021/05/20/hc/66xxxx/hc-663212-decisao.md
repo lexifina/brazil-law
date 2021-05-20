@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor deCLOVIS TAVARES DA SILVA, contra acórdão proferido pelo Tribunal Regional Federal da 3.ª Região noHC n. 5006311-62.2021.4.03.0000, assim ementado (fl. 24):
+"PENAL. PROCESSO PENAL. HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. INÉPCIA POR AUSÊNCIA DE JUSTA CAUSA. DESCABIMENTO.ORDEM DENEGADA.
+1. O trancamento da ação penal, por meio de habeas corpus, somente é possível quando se verificam de pronto a atipicidade da conduta, a extinção da punibilidade ou a inexistência de indícios de autoria ou materialidade.
+2. A impetração não demonstrou a inexistência de justa causa a reclamar o trancamento da ação penal.
+3. Ordem denegada."
+Narra-se, na inicial, que o Ministério Público Federal, ao aditar a denúncia oferecida inicialmente peloParquetestadual, deixou de descrever quaisquer elementares que indicassem a prática do tipo previsto no art. 33 da Lei de Drogas.
+Requer-se, liminarmente e no mérito, o trancamento do Processo-crime"em relação ao crime de tráfico de drogas, por ausência de justa causa" (fl. 16).
+É o relatório. Decido.
+A pretensão ora formulada não pode ser conhecida, pois a documentação trazida aos presentes autos é incompleta.
+Como se sabe,"a adequada instrução dohabeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que omandamusvenha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas nowrit" (STF, HC 16.6543-AgR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 29/04/2019, DJe 07/05/2019). Em outras palavras, compete à Defesa narrar e instruir completa e adequadamente ohabeas corpus(ou seu respectivo recurso).
+No caso, ainstrução da causa não permite a soluçãoda controvérsia. Foi consignado no acórdão ora impugnado que, na decisão em que declinouda competência para processar e julgar a causa em primeiro grau"ao tomar conhecimento da denúncia, o Juízo Estadual verificou vários indícios a apontar para a transnacionalidade do delito, tendo em vista a exportação de entorpecentes através do porto de Santos/SP" (fl. 23). Ocorre que o referidodecisumnão foi trazido aos autos pela Defesa. Ou seja, não estão juntados todos os atos decisórios referentes aos crimes alegadamente praticados pelo Paciente.
+Em conclusão,ocorre óbice ao seguimento do pedido, por não haver como examinar adequada e seguramente se ocorre a ilegalidade suscitada,poisa Parte Impetrante não se desincumbiu do seu ônus de formar adequadamente os autos.
+Com igual conclusão, cito os seguintes precedentes do Superior Tribunal de Justiça:
+"AGRAVO REGIMENTAL EMHABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO E NARRATIVA DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO E ESCLARECIMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA.MANUTENÇÃO DA DECISÃO DE INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL QUE SE IMPÕE. AGRAVO DESPROVIDO.
+1.Compete à Defesa narrar e instruir completa e adequadamente o remédio constitucional dohabeas corpus(ou seu respectivo recurso), por cuidar-se de procedimento que"pressupõe prova pré-constituída do direito alegado"(STJ, HC 437.808/RJ, Rel. Min. JORGE MUSSI, Quinta Turma, DJe de 28/06/2018). Assim, ao não se desincumbir do ônus de formar e narrar adequadamente os autos quando da impetração dowrit, a Parte Impetrante impede a apreciação do mérito .. .
+2. Agravo regimental desprovido." (AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL NOHABEAS CORPUS.SÚMULA 691/STF. TRÁFICO DE DROGAS. CORRUPÇÃO DE MENORES. DIREITO DE RECORRER EM LIBERDADE.INSTRUÇÃO DEFICIENTE. REGIME SEMIABERTO. COMPATIBILIDADE COM A PRISÃO PREVENTIVA. ILEGALIDADE. AUSÊNCIA. APLICAÇÃO DA RECOMENDAÇÃO N. 62/2020 DO CNJ. REITERAÇÃO DELITIVA. GRUPO DE RISCO. AUSÊNCIA DE COMPROVAÇÃO.WRITINDEFERIDO LIMINARMENTE. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1.É pacífico o entendimento desta Corte Superior no sentido de que ohabeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta à dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído. Precedentes.
+ ..
+4. Não havendo ilegalidade para justificar a mitigação do enunciado da Súmula 691 do STF, owritdeve ser indeferido liminarmente.
+5. Agravo regimental improvido."(AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020; sem grifos no original.)
+Por fim, vale referir que o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara eobjetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, todos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS.PROCESSUAL PENAL. INSTRUÇÃO DEFICIENTE DO FEITO. AUSÊNCIA DE DOCUMENTAÇÃO ESSENCIAL À ANÁLISE DACONTROVÉRSIA. PETIÇÃO INICIAL INDEFERIDALIMINARMENTE.
