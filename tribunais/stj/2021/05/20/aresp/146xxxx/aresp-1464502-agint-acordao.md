@@ -1,0 +1,63 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. INTERPRETAÇÃO DE LEI LOCAL. REVISÃO. IMPOSSIBILIDADE.
+1. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando o conteúdo dos preceitos legais tidos por violados não é examinado na origem, mesmo após a oposição de embargos de declaração.
+2. Segundo o entendimento desta Corte de Justiça, para se reconhecer o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se ao recorrente a indicação de contrariedade do art. 1.022 do CPC/2015, o que não ocorreu.
+3. O recurso especial é inadequado para revisar acórdão fundado em interpretação de lei local. Inteligência da Súmula 280 do STF.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado por MARCELO BISCEGLI JATENE e OUTROS contra decisão por mim proferida, constante às e-STJ fls. 605/608, em que conheci do agravo para, com fundamento nas Súmulas 211 do STJ e 280 do STF, não conhecer do recurso especial.
+Nas suas razões (e-STJ fls. 613/623), o agravante sustenta, em resumo, que, diversamente do assentado: (a) a caracterização do prequestionamento ficto pela oposição de embargos de declaração, previsto no art. 1.025 do CPC, não depende a alegação de violação do art. 1.022 do CPC; (b) o suscitado art. 106 do CTN, que embasa a tese de que as prescrições legais de imposição de multa devem ser interpretadas favoravelmente ao contribuinte, foi prequestionado, posto que mencionado no julgamento dos embargos de declaração; (c) não é o caso de aplicação da Súmula 280 do STF, pois, "muito embora a penalidade imposta esteja prescrita em legislação estadual, é certo que a sua aplicação deve observar (..) o Código Tributário Nacional".
+Sem impugnação, conforme certificado à e-STJ fl. 628.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. INTERPRETAÇÃO DE LEI LOCAL. REVISÃO. IMPOSSIBILIDADE.
+1. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando o conteúdo dos preceitos legais tidos por violados não é examinado na origem, mesmo após a oposição de embargos de declaração.
+2. Segundo o entendimento desta Corte de Justiça, para se reconhecer o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se ao recorrente a indicação de contrariedade do art. 1.022 do CPC/2015, o que não ocorreu.
+3. O recurso especial é inadequado para revisar acórdão fundado em interpretação de lei local. Inteligência da Súmula 280 do STF.
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Os argumentos ora deduzidos já foram suficientemente analisados e desacolhidos quando proferi a decisão impugnada, razão por que a mantenho pelos seus próprios fundamentos.
+Na origem, cuidam os autos de mandado de segurança impetrado pelos agravantes contra ato do Delegado da Delegacia Regional Tributária da Capital, com o objetivo de afastar a multa e encargos moratórios incidentes sobre o ITCMD.
+Em primeiro grau de jurisdição, o Juízo da 5ª Vara da Fazenda Pública da Comarca de São Paulo concedeu a ordem, para determinar à impetrada que se abstenha de exigir do impetrante a multa moratória prevista no art. 21, I, da Lei n. 10.705/2000, bem como a multa e os juros de mora incidentes sobre o parcelamento referente à declaração de ITCMD n. 41.296.828.
+Irresignada, a Fazenda estadual interpôs recurso de apelação, que foi parcialmente provido pelo TJ/SP, a fim de manter a incidência da multa estabelecida com base no art. 21, I, da Lei n. 10.705/2000. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 509/510):
+Consoante se colhe dos autos, em 14.11.14 deu-se falecimento do genitor dos recorridos, Adib Domingo Jatene (fls. 23), emitida a Declaração de Transmissão por Escritura Pública nº 41296828, em 13.05.15 (fls. 25/31).
+Determinada pela SEFAZ a realização de Declaração de ITCMD retificadora, por não terem sido considerados, quantos aos imóveis rurais, os valores médios da terra nua e das benfeitorias, divulgado pela Secretaria de Agricultura e Abastecimento do Estado de São Paulo, através do Instituto de Economia Agrícola - IEA (fls. 34/35), os recorridos impetraram mandado de segurança sob o nº 1043275- 95.2015.8.26.0053, e tiveram deferida a liminar para adoção do valor venal do ITR lançado no exercício (fls. 48/50), confirmada por r. sentença vista por cópia a fls. 51/54.
+Deferido o pedido de parcelamento a termo do artigo 32, da Lei 10.705/00, os recorridos constataram inclusão nos cálculos de multa moratória (20%), juros de mora e multa (fls. 331/333), pelo que impetraram este mandado de segurança contra o DELEGADO DA DELEGACIA REGIONAL TRIBUTÁRIA DA CAPITAL - DRTC-I, para afastá-la porque protocolaram os documentos e declarações, além do Pedido de Parcelamento, no prazo legal.
+Procedente (fls. 435/438), veio o recurso sob análise, e respeitado o entendimento original, tenho como parcialmente procedente o inconformismo.
+Como visto, o falecimento do genitor dos recorridos ocorreu em 14.11.14, emitida a Declaração de Transmissão por Escritura Pública nº 41296828, em 13.05.15 (fls. 23/31). Dispõe o artigo 21, I, da Lei nº 10.705/00, que:
+(..)
+Esse dispositivo, ao reverso do quanto sustiveram os impetrantes/recorridos, aplica-se aos inventários realizados via judicial ou extrajudicial, sem diferenciação, em observância ao principio da isonomia tributária.
+E, nos termos do art. 31, da Resolução CNJ nº 35/071, a escritura pública de inventário e partilha pode ser lavrada a qualquer tempo, cabendo ao tabelião fiscalizar o recolhimento de eventual multa, conforme previsão em legislação tributária estadual e distrital específicas, pelo que descabe a exclusão pretendida, ante protocolização a destempo.
+Pois bem.
+Em primeiro lugar, verifica-se que, embora os agravantes tenham manejado os aclaratórios com o fim de obter pronunciamento acerca dos arts. 106, I, e 112 do CTN, a discussão acerca da legalidade da multa incidente sobre o ITCMD não foi analisada, nem sequer implicitamente pela instância ordinária à luz dos referidos dispositivos, ao tempo em que não há, nas razões recursais, alegação de ofensa ao art. 1.022 do CPC.
+Assim, o presente apelo nobre carece, no ponto, do requisito constitucional do prequestionamento, circunstância que atrai a aplicação da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Deve-se esclarecer que o art. 1.025 do CPC/2015, já vigente à época da oposição dos embargos de declaração, dispõe que "se consideram incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade".
+Contudo, em razão de o recurso especial não veicular alegação de violação do art. 1.022 do CPC/2015, este Tribunal não pode decidir, de ofício, pela existência de omissão no acórdão recorrido, de tal sorte que não há como dar por prequestionados os dispositivos supracitados.
+A esse respeito, confiram-se os seguinte julgados:
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015. ENUNCIADO ADMINISTRATIVO Nº 3. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Para haver a aplicação do art. 1.025, do CPC/2015, é preciso preencher cumulativamente os seguintes requisitos: a) que o recorrente em recurso especial tenha suscitado na Corte de Origem o tema em sede de embargos de declaração para fins de pré-questionamento;
+b) que os aclaratórios tenham sido inadmitidos ou rejeitados pela Corte de Origem;
+c) que haja perante este Superior Tribunal de Justiça a interposição do recurso especial pela violação ao art. 1.022, do CPC/2015, a fim de que seja examinada a preliminar de mérito referente ao erro, omissão, contradição ou obscuridade;
+d) que examinada a preliminar de mérito - violação ao art. 1.022, do CPC/2015 - este Superior Tribunal de Justiça considere existentes erro, omissão, contradição ou obscuridade;
+e) que o tema seja relevante para o deslinde da causa (art. 489, §1º, IV, do CPC/2015), ou seja, que possa sozinho alterar o resultado do julgamento; e
+f) que não seja imprescindível o retorno dos autos à Corte de Origem para suprir o erro, a omissão, a contradição ou a obscuridade.
+2. Somente quando existentes essas seis condições é que este Superior Tribunal de Justiça poderá examinar o tema diretamente pois irá suprir o erro, a omissão, a contradição ou a obscuridade (fazendo diretamente o papel da Corte de Origem) e depois irá julgar o mérito da causa nos limites do recurso especial. Faltantes os itens "a", "b", "c", "d", ou "e", o recurso especial não será conhecido no ponto, sendo inadmissível. Faltante o item "f", o STJ determinará o retorno dos autos à Corte de Origem, pois os limites do recurso especial não lhe permitiriam complementar os fundamentos da decisão proferida pela Corte de Origem, consoante a natureza do erro, omissão, contradição ou obscuridade.
+3. Isto significa que a Súmula n. 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo") não está superada pelo art. 1.025, do CPC/2015.
+4. Caso em que não houve a interposição do recurso especial pela violação ao art. 1.022, do CPC/2015. Inaplicável, portanto, o art. 1.025, do CPC/2015. Precedentes: AgInt no REsp 1776360 / AM, Primeira Turma, Rel. Min. Gurgel de Faria, julgado em 16.11.2020; AgInt no REsp 1702930 / SP, Segunda Turma, Rel. Min. Og Fernandes, julgado em 06.10.2020; AgInt no AREsp 1592662 / SP, Terceira Turma, Rel. Min. Ricardo Villas Bôas Cueva, julgado em 31.08.2020; AgInt no AREsp 1548262 / GO, Quarta Turma, Rel. Min. Luis Felipe Salomão, julgado em 24.08.2020; AgInt no AREsp 1613188 / SP, Quarta Turma, Rel. Min. Marco Buzzi, julgado em 29.06.2020.
+5. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos declaratórios interpostos que têm o propósito infringente.
+6. Embargos de declaração rejeitados.
+(EDcl no REsp 1.861.806/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/02/2021, DJe 26/02/2021).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO RESCISÓRIA. TARIFA DE ESGOTO. COBRANÇA INTEGRAL. AFASTAMENTO NA ORIGEM. ACÓRDÃO COMBATIDO. FUNDAMENTO NÃO IMPUGNADO. ACERVO FÁTICO-PROBATÓRIO. REEXAME. INVIABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+ ..
+7. Segundo o entendimento desta Corte de Justiça, para se reconhecer o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se ao recorrente a indicação de contrariedade do art. 1.022 do CPC/2015, o que não ocorreu.
+ ..  (AgInt no REsp 1.870.468/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020).
+Acresço, por oportuno, que, diferente do afirmado pelos agravantes, a simples menção do dispositivo legal no relatório dos embargos de declaração não induz à existência do prequestionamento, visto que, in casu, essa norma foi efetivamente analisada nas razões de decidir do recurso integrativo.
+A par da ausência de prequestionamento, percebe-se que toda a compreensão do julgado estadual acerca da incidência da multa em razão do descumprimento do prazo para abertura do inventário está calcada em interpretação da legislação local de regência (art. 21, I, da Lei n. 10.705/2000), cuja revisão é inviável no âmbito do recurso especial, consoante inteligência da Súmula 280 do STF.
+Por fim, embora não merecedor de acolhimento, tenho que o presente inconformismo não representa interposição de agravo interno manifestamente inadmissível ou improcedente, a ensejar, por decisão unânime do Colegiado, a multa processual prevista no § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
