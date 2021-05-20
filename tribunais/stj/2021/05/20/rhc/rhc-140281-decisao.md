@@ -1,0 +1,14 @@
+DECISÃO
+FABIO DE AGUIAR alega sofrer coação ilegal em virtude de acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo no HC n.0032318-76.2019.8.08.000.
+Neste momento, a defesa busca a concessão de liberdade provisória ao recorrente, por entender não existirem os requisitos autorizadores da prisão preventiva e haver excesso de prazo na constrição.
+Em consulta ao sistema informatizado do Superior Tribunal de Justiça, verifico a anterior impetração do HC n. 587.176/ES, em favor do ora recorrente, no qual sua defesa se insurge contra o mesmo acórdão aqui apontado como recorrido e pleiteia a liberdade do insurgentepelos mesmos motivos aqui elencados.
+Registro que, depois de o feito ser por mim indeferido liminarmente, a defesa interpôs agravo regimental, ao qual a Sexta Turma negou provimento em acórdão assim ementado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO PREVENTIVA.FUNDAMENTAÇÃO CONCRETA E IDÔNEA. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. Há motivos concretos e idôneos para embasar a ordem de prisão do acusado, porquanto o Juiz de primeiro grau, ao indeferir o pedido de revogação da custódia preventiva, fez menção a elementos específicos dos autos que evidenciam não só a gravidade concreta do delito em tese cometido, mas também o risco efetivo de que, em liberdade, poderá o paciente (ora agravante) voltar a delinquir, a evidenciar, por conseguinte, a necessidade de manutenção da sua segregação preventiva para a garantia da ordem pública, notadamente para o fim de evitar a reiteração criminosa.
+3. O apontado excesso de prazo na tramitação do feito não foi analisado pelo Tribunal de origem, o que impede a apreciação dessa questão diretamente por esta Corte Superior de Justiça, sob pena de, assim o fazendo, incidir na indevida supressão de instância.
+4. Agravo regimental não provido.
+Dessa forma, uma vez que as questões trazidas nesta impetração já foram devidamente examinadas por esta Corte Superior,não se pode processar este recurso ordinário, por consubstanciar mera reiteração de pedido.
+À vista do exposto, dada a reiteração de pedido, já constante em impetração anterior, não conheço deste recurso ordinário.
+Publique-se e intimem-se.
