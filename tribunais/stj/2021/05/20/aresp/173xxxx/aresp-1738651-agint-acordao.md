@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AUTO DE INFRAÇÃO. REEXAME DE FATOS E PROVAS. LEI LOCAL. ANÁLISE. IMPOSSIBILIDADE.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. "Apretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+3.Hipótese em que o Tribunal de origem não vislumbrou nenhuma ilegalidade no auto de infração, concluindo que a agravante desrespeitou o comando inserto na Lei Municipal n. 14.069/2011, bem como pela inexistência de excesso na imposição multa, com base na mesma lei local.
+4. A revisão dessas premissas pressupõem o reexame da lei local considerada e do acervo fático-probatório dos autos, o que é inviável no âmbito do recurso especial.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BANCO SANTANDER (BRASIL) S.A. contra decisão da Presidência que conheceu do agravo para não conhecer do recurso especial, em face do disposto na Súmula 280 do STF (e-STJ fls. 197/198).
+Sustenta a parte agravante que o apelo nobre não requer o reexame dalei municipal de Campinas, massimda Lei federal n. 9.784/1999, visto que o auto de infração não descreve adequadamente a conduta infracional ea administração pública fixou amultasem aespecificação dos requisitos ou parâmetros técnicos utilizados para se definir que as divisórias instaladas na agência bancária e terminais de autoatendimento não atendem aos requisitos da legislação local.
+Defende que o valor da multa fixada em R$ 1.682.075,50 (um milhão e seiscentos e oitenta e dois mil e setenta e cinco reais e cinquenta centavos)ofende os princípios da razoabilidade e proporcionalidade, afirmando que,em casos semelhantes,outra instituição bancária recebeu sanção bastante inferior.
+Aduz que, apesar dea penalidade incidir diariamente, não podem ser considerados, para o cálculo da multa,os dias em que a infraçãoestava sendo questionada em recurso administrativo.
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Decorrido o prazo legal, o agravado não apresentou impugnação (e-STJ fl. 181).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AUTO DE INFRAÇÃO. REEXAME DE FATOS E PROVAS. LEI LOCAL. ANÁLISE. IMPOSSIBILIDADE.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. "Apretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+3.Hipótese em que o Tribunal de origem não vislumbrou nenhuma ilegalidade no auto de infração, concluindo que a agravante desrespeitou o comando inserto na Lei Municipal n. 14.069/2011, bem como pela inexistência de excesso na imposição multa, com base na mesma lei local.
+4. A revisão dessas premissas pressupõem o reexame da lei local considerada e do acervo fático-probatório dos autos, o que é inviável no âmbito do recurso especial.
+5. Agravo interno desprovido.
+VOTO
+Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+Dito isso, tenho que o inconformismo não merece prosperar.
+No caso, o agravante defende que cumpriu integralmente a Lei Municipal, com a instalação debiombos nos terminais de autoatendimento, antes mesmo do início de sua vigência, bem como que a descrição da conduta no auto de infracional estaria incompleta, comprometendo o exercício da ampla defesa. Contudo, tais teses foram rechaçadas peloTribunal de origem, nos seguintes termos(e-STJ fls. 162/164):
+Nesse sentido, ao contrário do que pretende fazer crer a autora que, apesar de ter instalado as divisórias, em data anterior, inclusive, à publicação da referida legislação, não as adequou ao normativo legal, já que, conforme destacado no referido auto de infração, referidas divisórias permitem "visualizar o que está sendo feito do outro lado" (fls. 46).
+Em que pese o entendimento adotado pelo MM. Juízo de Primeiro Grau, a foto que acompanha o auto de infração lavrado pela Municipalidade (fls. 71) é suficiente para identificar o descumprimento do dispositivo legal acima destacado, já que, sem maiores dificuldades, se constata que as divisórias adotadas pela autora não impedem a visibilidade entre os usuários dos terminais de autoatendimento e aqueles usuários dos caixas, não atendendo, portanto, o comando legal em questão, o que autorizou, mediante fiscalização, a imposição de multa prevista no artigo 2º, da aludida lei municipal.
+A propósito, de se destacar a constitucionalidade da exigência prevista na referida lei municipal, quando da análise pelo Colendo Órgão Especial deste Egrégio Tribunal de Justiça, nos autos no da Ação Direta de Inconstitucionalidade nº 0193187-22.2013.8.26.0000, cuja ementa ora se transcreve:
+(..)
+Portanto, devidamente configurada a infração, passível a imposição da sanção pelo órgão da Administração Pública, mediante convênio com o Procon, nos termos previstos na Lei n. 4.752, de 21 de novembro de 1977.
+No que tange à proporcionalidade da multa arbitrada, a Corte a quo consignou que a sanção foi arbitrada em conformidade com os parâmetros estabelecidos no art. 2º daLei n.14.069/2011, que dispõe: "O descumprimento do disposto nesta Lei sujeitará o infrator à sanção na forma de multa diária no valor de 500 (quinhentas) UFICs".
+Registrou o aresto recorrido, ainda,que não há "qualquer afronta aos princípios da razoabilidade e proporcionalidade, já que o valor final da autuação, que previa a imposição de multa diária por descumprimento, decorreu da inércia da autora em realizar os procedimentos de adequação de seus estabelecimentos aos parâmetros estabelecidos na lei".
+Nesse contexto, conclui-se que, apesar de o agravante apontar violação a lei federal (art. 2º da Lei n. 9.784/1999), a alteração do julgado exige a prévia apreciação da lei municipal (Lei n.14.069/2011), que embasou tanto configuração da conduta infracional como a dosimetria da pena, além do exame do conjunto fático-probatórios dos autos, providência inviável no âmbito do recurso especial, nos termos das Súmulas 280 do STF e 7 do STJ, respectivamente.
+Nesse sentido:
+ADMINISTRATIVO. ATOS ADMINISTRATIVOS. INFRAÇÃO ADMINISTRATIVA. ESTAÇÃO DE RÁDIO-BASE. MULTAS E DEMAIS SANÇÕES. NEGATIVA DE VIGÊNCIA AOS ARTS. 8º, 10, 11 E 17 DA LEI N. 6.938/81. MATÉRIA DE DIREITO LOCAL - DECRETO MUNICIPAL N. 1.895/2010. INSTRUÇÃO NORMATIVA N. 13/2015 E RESOLUÇÃO CONAMA N. 237/1997. ATOS DE CARÁTER NORMATIVO. DIVERGÊNCIA JURISPRUDENCIAL. ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Trata-se, na origem, de ação anulatória de autos de infração ambiental decorrente de infração administrativa caracterizada pelo funcionamento de estação de rádio-base da Tim S.A., atividade considerada potencialmente poluidora, sem as devidas licenças ambientais.
+II - Na primeira instância, julgou-se improcedente o pedido, decisão mantida pelo Tribunal a quo, em grau recursal. A sentença foi pelo desprovimento do recurso de apelação.
+III - A respeito da suposta negativa de vigência aos arts. 8º, 10, 11 e 17 da Lei n. 6.938/81, relativamente à alegação que as estações base não seriam atividades poluidoras ao meio ambiente, o acolhimento do apelo nobre, nesse sentido, exigiria a apreciação de direito local (Decreto n. 1.895/2010) e de atos normativos não harmonizados no conceito de lei federal ou tratado (Resolução CONAMA n. 237/97 e Instrução Normativa n. 13/2015), procedimento incompatível com a estreita via do apelo excepcional - Súmula n. 280/STF.
+IV - No que trata do dissídio jurisprudencial suscitado, relacionado à desproporcionalidade da multa fixada pelo órgão ambiental municipal, a aferição do quantum a título de multa administrativa, bem assim à sua redução, consoante pretensão da recorrente, exigiria, necessariamente, a incursão nos aspectos fático-probatórios dos autos, procedimento impossível por via de recurso especial, ante o óbice Sumular n. 7/STJ.
+V - Agravo conhecido para não conhecer do recurso especial. (AREsp 1547293/GO, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 10/12/2019, DJe 13/12/2019)
+PROCESSUAL CIVIL E ADMINISTRATIVO. MULTA AMBIENTAL. QUEIMA DE PALHA DE CANA DE AÇÚCAR. RESPONSABILIDADE. LEI LOCAL. SÚMULA 280 DO STF. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. APLICAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. A análise da pretensão do recorrente, ainda que fundada em suposta violação de lei federal, demandaria necessária interpretação de legislação estadual, atraindo a aplicação da Súmula 280 do STF.
+3. A modificação do julgado para rever a gradação da multa imposta demandaria o reexame de elementos fáticos postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+4. In casu, o acórdão recorrido concluiu pela responsabilidade do agravante pela infração ambiental e rejeitou o pedido de redução da multa imposta com base na interpretação de legislação estadual, reconhecendo que a parte se beneficiou do produto do incêndio, conforme prova documental produzida nos autos.
+5. Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente, o que, na hipótese, não ocorreu, tampouco foram opostos embargos de declaração para tal fim. Incidência das Súmulas 282 e 356 do STF.
+6. Agravo interno desprovido. (AgInt no AREsp 1252573/SP, de minha relatoria, Órgão Julgador T1 - PRIMEIRA TURMA, DJe 05/02/2019)
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
