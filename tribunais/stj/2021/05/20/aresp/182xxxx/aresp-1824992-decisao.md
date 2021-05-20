@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por MARCOS SANTOS DA SILVA, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER EM FASE DE CUMPRIMENTO DE SENTENÇA. DECISÃO QUE REJEITOU A IMPUGNAÇÃO À EXECUÇÃO. CUMPRIMENTO DA OBRIGAÇÃO DE FAZER CONSISTENTE NO FORNECIMENTO DAS CONTAS/FATURAS E OS RELATÓRIOS DE CONSUMO EM BRAILE, SOB PENA DE MULTA. MULTA FIXADA EM SENTENÇA TRANSITADA EM JULGADO. EXCLUSÃO DO VALOR EXECUTADO A TÍTULO DE MULTA POR DESCUMPRIMENTO DA OBRIGAÇÃO DE FAZER, POR SER INDISPENSÁVEL A INTIMAÇÃO PESSOAL DO DEVEDOR. SÚMULA 410, DO STJ. DECISÃO QUE SE REFORMA. PROVIMENTO DO RECURSO.
+1. Impugnação ao cumprimento de sentença indeferida pelo juízo a quo , condenando a ré ao pagamento de 10% do valor da execução, a título de honorários;
+2. Quanto à obrigação de fazer determinada pela sentença consistente no fornecimento de faturas e relatórios de consumo em braile à parte autora, destaca-se o verbete sumular 410 do Superior Tribunal de Justiça, segundo o qual a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer;
+3. Diante da inexistência de intimação pessoal da agravante para o cumprimento da obrigação de fazer, a multa fixada para cumprimento da obrigação não é aplicável;
+4. Recurso a que se dá provimento" (fl. 43e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 52/57e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. Somente se presta esse recurso para suprir omissões, ou para aclarar obscuridades ou contradições, dele não podendo utilizar-se a parte para manifestar seu inconformismo com o julgado e pretender novo julgamento tampouco para fins de prequestionamento. Recurso a que se nega provimento" (fl. 79e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 513, §2º, I, do CPC/2015 e 5º, §6º, da Lei 11.419/2006, sustentando que: a) "em que pese o Egrégio STJ não tenha revogado expressamente a Súmula 410, o conteúdo do verbete perdeu a sua eficácia e sua eficiência, já que surgiu o art. 513, § 2º, I do CPC/2015, onde se previu a intimação na pessoa do advogado do devedor para o cumprimento de sentença" (fl. 88e); b) "é induvidoso que a recorrida foi devidamente intimada para o cumprimento da obrigação de fazer fixada em sentença" (fl. 91e).
+Por fim, requer o provimento do Recurso Especial.
+Contrarrazões a fls. 99/117e.
+Inadmitido o Recurso Especial (fls. 148/149e), foi interposto o presente Agravo (fls. 156/171e).
+Contraminuta a fls. 177/195e.
+A irresignação não merece prosperar.
+Incialmente, cabe destacar que o Tribunal de origem não se manifestou acerca do teor do art. 5º, §6º, da Lei 11.419/2006. Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial no ponto, incidindo o teor da Súmula 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+No mais, acerca da controvérsia, manifestou-se o Tribunal de origem:
+"No que tange a alegada ausência de intimação para cumprimento da obrigação de fazer imposta na sentença, entendo, assistir razão ao Agravante, já que tratando-se de cumprimento de obrigação de fazer ou não fazer torna-se necessária a intimação pessoal daquele a quem cabe o seu cumprimento, para que se inicie a contagem do prazo, para fins de imposição de multa.
+Sabe-se que integralizada a relação processual, não há necessidade de intimação pessoal do réu para cumprimento da sentença transitada em julgado, bastando a intimação do seu Patrono pela Imprensa Oficial para o cumprimento no prazo legal, sob pena da multa prevista.
+O mesmo não ocorre quando do cumprimento da obrigação de fazer ou não fazer, face a necessidade de intimação pessoal do Réu para o devido cumprimento no prazo fixado.
+Nesse sentido a Súmula 410, do Superior Tribunal de Justiça, in verbis:
+(..)
+Mesmo com o advento do novo Código de Processo Civil, permaneceu o entendimento consolidado na Súmula 410, pois a intimação pessoal do devedor para cumprimento da obrigação de fazer foi mantida na nova lei processual, nos termos do artigo 815, do CPC/2015:
+(..)
+Assim, não basta a intimação tão somente na pessoa do advogado da parte para fins de cobrança da multa cominatória fixada para a hipótese de descumprimento da obrigação de fazer ou não fazer" (fls. 45/46e).
+Tal entendimento não merece reforma. Isso porque esta Corte possui jurisprudência firmada no sentido de que a prévia intimação pessoal do devedor é requisito necessário para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer, nos termos da Súmula 410/STJ, a qual consubstancia orientação que continua válida no ordenamento jurídico em vigor.
+Nesse sentido:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO CAUTELAR INOMINADA. FASE DE CUMPRIMENTO DE SENTENÇA. ASTREINTES. OBRIGAÇÃO DE FAZER. DESCUMPRIMENTO DE DETERMINAÇÃO JUDICIAL. INTIMAÇÃO PESSOAL DO DEVEDOR. NECESSIDADE. SÚMULA Nº 410 DO STJ. PRECEDENTES. DECISÃO MANTIDA, NO MÉRITO, POR SEUS PRÓPRIOS FUNDAMENTOS. RECONHECIMENTO DE ERRO MATERIAL DE OFÍCIO, SEM A MODIFICAÇÃO DO JULGADO. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É entendimento desta Corte que a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer. Súmula nº 410 do STJ.
+3. (..)
+6. Agravo interno parcialmente provido" (STJ, AgInt no REsp 1.621.864/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 29/06/2018).
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER. EXECUÇÃO PROVISÓRIA. MULTA DIÁRIA. AUSÊNCIA DE INTIMAÇÃO DO DEVEDOR.
+1. A prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer. Entendimento compendiado na Súmula n. 410, editada em 25.11.2009, anos após a entrada em vigor da Lei 11.232/2005, o qual continua válido em face do ordenamento jurídico em vigor.
+2. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 586.393/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 19/06/2018).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ASTREINTES. TERMO INICIAL. INTIMAÇÃO PESSOAL DO DEVEDOR. NECESSIDADE. SÚMULA 410/STJ. AGRAVO DESPROVIDO.
+1. A Segunda Seção desta Corte, no julgamento do REsp 1.349.790/RJ, de relatoria da Ministra MARIA ISABEL GALLOTTI, consolidou o entendimento de que a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer. Entendimento compendiado na Súmula 410, editada em 25.11.2009, anos após a entrada em vigor da Lei 11.232/2005, o qual continua válido em face do ordenamento jurídico em vigor. Esclarecimento do decidido pela Segunda Seção nos EAg 857.758/RS. Precedentes.
+2. Agravo interno a que se nega provimento" (STJ, AgInt no REsp 1.653.624/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 24/05/2017).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo, para negar provimento ao Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
