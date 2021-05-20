@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA PRIMEIRA VARA CÍVEL DE NATAL, o suscitante, e o JUÍZO DE DIREITO DA PRIMEIRA VARA CÍVEL DE UBERLÂNDIA,o suscitado, em demanda na qual a parte interessadapleiteiaa concessão de aposentadoria por invalidez(e-STJ fls. 391/397).
+A ação foi proposta no juízo suscitado, quedeclinou da competência diante da mudança da parte autora, por considerar que a Constituição Federal preconiza que as causas contra a instituição de previdência social devem ser ajuizadas no foro do domicílio do segurado(e-STJ fls. 291/292).
+O Juízo suscitante, por sua vez, fundamentou que,"como estabelece o princípio daperpetuatio jurisdicionis, expressamente disposto no art. 43 do Código de Processo Civil, a competência será determinada no momento do registroou da distribuição dapetição inicial, sendo irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente  .. " (e-STJ fl. 398).
+Manifestação do MPF pela competência do juízo suscitado(e-STJ fls. 428/431).
+Passo a decidir.
+A dicção do art. 34, XXII, do RISTJ permite ao relator "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, constato que assiste razão ao suscitante.
+Segundo colhe-se dos autos, cuida-se de ação proposta em 2007, na qual o interessado postula a concessão de aposentadoria por invalidez em virtude de acidente no ambiente de trabalho, cuja competência, de acordo com a Constituição, é, originalmente, da Justiça Estadual (art. 109, II, CF/1988).
+No curso da ação, após tentativas frustradas de realização de prova pericial, inclusive mediante expedição de carta precatória, o Juízo suscitado tomou conhecimento de que o autor havia mudado de cidade, motivo que o levou a declinar de sua competência para o Juízo suscitante.
+No entanto, como é cediço, eventual alteração de domicílio daautora no curso da ação não tem a força de modificar a competência da demanda proposta.Isso porque o art. 43 do CPC/2015 determina que a competência é fixada "no momento do registro ou da distribuição da petição inicial, sendo irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente, salvo quando suprimirem órgão judiciário ou alterarem a competência absoluta".
+De outro lado, o Estatuto Processual Civil estabelece tanto os sujeitos (as partes e o MP) quanto o momento adequado para a arguição de incompetência, em se tratando de competência territorial, como na espécie, in litteris:
+Art. 65. Prorrogar-se-á a competência relativa se o réu não alegar a incompetência em preliminar de contestação.
+Parágrafo único. A incompetência relativa pode ser alegada pelo Ministério Público nas causas em que atuar.
+E, conforme se lê das e-STJ fls. 291/292, a declinação da competência ocorreu sem provocação das partes ou do membro do Ministério Público, sendo aplicável, na espécie, o Enunciado 33 da súmula desta Corte de Justiça, segundo a qual "aincompetência relativa não pode ser declarada de ofício".
+A propósito:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. AÇÃO INDENIZATÓRIA. DEMANDA CONTRA ESTADO DA FEDERAÇÃO. COMPETÊNCIA CONCORRENTE. FORO DO DOMICÍLIO DO AUTOR. OPÇÃO.
+1. O art. 52, parágrafo único, do CPC/2015, ao enunciar que, se o Estado ou o Distrito Federal for demandado, a ação poderá ser proposta no foro de domicílio do autor, no de ocorrência do ato ou fato que originou a demanda, no de situação da coisa ou na capital do respectivo ente federado, estabelece a competência concorrente entre os juízos para o ajuizamento da ação, constituindo-se em verdadeira opção do seu promovente.
+2. No caso, levando em consideração que a distribuição originária do feito deu-se na comarca do domicílio do autor, evidencia-se a competência do suscitado.
+3. Impossibilidade de reconhecimento de ofício da incompetência relativa, a teor da Súmula 33 do STJ.
+4. A pendência de ação direta de inconstitucionalidade perante o STF não tem o condão de autorizar o sobrestamento do presente conflito, à míngua de previsão legal. Precedentes: AgInt no CC 158781/DF, de minha relatoria, PRIMEIRA SEÇÃO, DJe 21/03/2019; AgInt no CC 157479/SE, rel. Min. REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe 04/12/2018.
+5. Agravo interno desprovido (AgInt no CC 163.985/MT, de minha relatoria,PRIMEIRA SEÇÃO, julgado em 18/06/2019, DJe 25/06/2019) (Grifos acrescidos).
+Ante o exposto, com base no art. 34, XXII, do RISTJ, CONHEÇO do presente conflito para declarar competente oJUÍZO DE DIREITO DA PRIMEIRA VARA CÍVEL DE UBERLÂNDIA, o suscitado.
+Publique-se. Intimem-se.
