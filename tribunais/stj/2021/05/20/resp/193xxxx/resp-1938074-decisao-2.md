@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manejado pela Casa da Moeda do Brasil - CMB contra decisão denegatória de admissibilidade a recurso especial interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fls. 379/380):
+TRIBUTÁRIO. RECURSOS DE APELAÇÃO. RESSARCIMENTO AO SISTEMA SICOBE. VIOLAÇÃO AO PRINCÍPIO DA LEGALIDADE. INVALIDADE DA EXIGÊNCIA. GRATUIDADE DE JUSTIÇA. MAJORAÇÃO DE HONORÁRIOS.
+1. Trata-se de recursos de apelação contra sentença que julgou improcedente o pedido de ressarcimento da CASA DA MOEDA DO BRASIL e a condenou ao pagamento de honorários advocatícios fixados em R$ 2.000,00 (dois mil reais), na forma do disposto no artigo 85, § 8º, do Código de Processo Civil.
+2. O art. 58-T da Lei nº 10.833/03, com redação dada pela Lei nº 11.827/08, dispõe que as pessoas jurídicas que importam ou industrializam refrigerante, cerveja, água e refresco possuem a obrigação de instalar equipamentos contadores de produção de forma a viabilizar a fiscalização da cobrança do PIS, da COFINS e do IPI.
+3. A IN RFB nº 869/2008 regulamentou esse dispositivo, estabelecendo que o monitoramento dessa contagem seria feito por meio do Sistema de Controle de Produção de Bebidas (SICOBE), desenvolvido de forma conjunta pela Receita Federal do Brasil e pela Casa da Moeda do Brasil para fiscalizar o volume de produção das referidas empresas. Por sua vez, o art. 28, §§ 2º e 3º, da Lei nº 11.488/07 conferiu ao estabelecimento industrial o dever de ressarcir a Casa da Moeda do Brasil, por possibilitar o funcionamento do SICOBE.
+4. O valor cobrado a título de custos de instalação e manutenção do SICOBE possui natureza tributária, na modalidade taxa, de forma que sua alíquota e base de cálculo não poderiam ser fixadas por ato infralegal, na medida em que afronta o disposto no art. 97, inciso IV, do CTN. Além disso, viola o art. 28, § 4º, da Lei nº 11.488/07, uma vez que foi estabelecido um valor fixo de ressarcimento que, nos termos da referida lei, deveria ser proporcional à capacidade produtiva do estabelecimento industrial.
+5. Deferido o pedido de gratuidade da Apelante MONTECARLO INDÚSTRIA DE BEBIDAS LTDA.
+6. Devem ser majorados para R$ 5.000,00 (cinco mil reais) os honorários sucumbenciais devidos pela CASA DA MOEDA DO BRASIL.
+7. Desprovido o apelo da CASA DA MOEDA DO BRASIL - CMB e provido o apelo de MONTECARLO INDÚSTRIA DE BEBIDAS LTDA.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1.022 do CPC; 884, 885 do CC. Sustenta, em síntese, que "a pretensa ilegalidade da cobrança do SICOBE não pode engendrar o enriquecimento indevido de quem recebeu o serviço às custas do empobrecimento do prestador de serviço, in casu, a CMB" (fl. 409).
+Contrarrazões às fls. 422/426.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que, na data de hoje, proferi decisão em que determinei o retorno dos autos à instância ordinária, para que o apelo nobre de Montecarlo Indústria de Bebidas Ltda. fosse submetido ao juízo de adequação previsto no art. 1.030 do CPC/2015, antes de realizada a admissibilidade daquele recurso especial.
+Nesse contexto, tendo em vista a impossibilidade de cisão do julgamento, bem como a própria devolução do feito à origem, é o caso de se ter por prejudicado o exame da presente irresignação no momento.
+ANTE O EXPOSTO, julgo prejudicado o exame do agravo em recurso especial no presente momento processual.
+Publique-se.
