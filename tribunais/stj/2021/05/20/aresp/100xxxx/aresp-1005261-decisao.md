@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interno interposto por CARLOS ARLINDO COSTA contra decisão que não conheceu do agravo em recurso especial, tendo em vista a incidência da Súmula 182 do STJ.
+Alega a parte agravante, em síntese, que impugnou a decisão de inadmissibilidade do especial, no sentido de que a jurisprudência aplicada no aludido decisum não se aplica à hipótese dos autos.
+Ao final, busca a reforma da decisão agravada, no sentido de dar provimento ao recurso especial.
+Sem impugnação.
+Passo a decidir.
+Exerço o juízo de retratação, tendo em vista os argumentos suscitados pela parte, passando a nova análise da insurgência.
+Trata-se de agravo manejado por CARLOS ARLINDO COSTA contra decisão proferida pelo Tribunal Regional Federal da 2ª Região, que não admitiu recurso especial interposto com fulcro na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 53):
+PROCESSUAL. INDEFERIMENTO DA INICIAL. PRAZO PERDIDO. DESPACHO DETERMINANDO A ATRIBUIÇÃO DE VALOR À CAUSA. CORRESPONDÊNCIA IPSO JURE ENTRE O VALOR DA CAUSA E O VALOR DA EXECUÇÃO. GREVE DOS PROCURADORES DA AGU. MOTIVO DE FORÇA MAIOR. NÃO RECONHECIMENTO, EM PRINCÍPIO. ENTENDIMENTO, CONTUDO, INAPLICÁVEL À HIPÓTESE CONCRETA.
+1) Em princípio, o pleito não mereceria prosperar, eis que a greve dos Procuradores da AGU não caracteriza motivo de força maior apto a ensejar a suspensão do processo ou a devolução do prazo recursal, nos termos dos arts. 265, V, e 507 do Código de Processo Civil, o que não põe em risco o devido processo legal, conforme ventilado, em razão de que o óbice em questão não era intransponível, na linha de entendimento adotada por esta Corte Regional, na linha da jurisprudência superior, a respeito da questão.
+2) Ocorre, no entanto, que o despacho inatendido, está, assim, vertido: "1 - Intime-se a União Federal, para que emende a inicial indicando o valor da causa condizente com o conteúdo econômico da vantagem pretendida com a demanda, nos termos dos arts. 259 e 260 do Código de Processo Civil. Prazo: 05 dias. 2 - Cumprido o item acima, tendo em vista o risco de irreversibilidade dos efeitos decorrentes dos atos executórios, bem como por medida de economia processual, atribuo efeito suspensivo aos presentes embargos, considerando o que dita o § 1º do artigo 739-A, do CPC. 3 - À parte embargada, nos termos do artigo 740 do CPC. Prazo: 15 dias."
+3) Como cediço, todavia, em hipóteses de alegação de excesso de execução, em sede de embargos, o respectivo quantum constitui ipso jure, o respectivo valor da causa.
+4) Dou provimento ao recurso.
+Em decisão de e-STJ fls. 579/581, este Tribunal deu provimento ao especial e determinou o retorno dos autos à Corte de origem para que, anulando o aresto que apreciou recurso integrativo, fosse outro proferido.
+Embargos declaratórios, foram providos sem a atribuição de efeitos infringentes (e-STJ fls. 589/595).
+No recurso especial obstaculizado, o agravante aponta ofensa dos arts.:
+a) 128, 459 e 460 do CPC/193, tendo em vista que cuida-se de julgamento extra, petita, porquanto o Tribunal de origem não examina o único "pedido recursal da ora recorrida, mas dá provimento ao apelo da mesma" (e-STJ fl. 603);
+b) 514, II, do CPC/1973, tendo em vista do requisito básico que não foi observado pelo recurso de apelação; e
+c) 284, parágrafo único, do CPC/1973, "posto ter sido concedido à recorrida oportunidade de emenda à inicial, por ela DESPREZADA, não cabendo ao eg. Tribuna, fazendo a vezes da parte relapsa, favorecê-la" (e-STJ fl. 603).
+Apresentaram-se contrarrazões (e-STJ fls. 615/622).
+Pois bem.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, o recurso não merece prosperar.
+No que se refere à suposta ofensa do art. 514, II, do CPC/1973, observa-se que a parte recorrente não teceu nenhuma fundamentação que justificasse a sua irresignação, não podendo o apelo, portanto, ser conhecido. Incide, na espécie, a Súmula 284 do STF.
+Noutro, giro, a Corte de origem firmou no recurso integrativo que (e-STJ fls. 592/593):
+Ao que se ura dos autos, a União deixou de atender o despacho do Juízo que determinou ao ente federativo que emendasse a inicial, indicando o valor da causa. Como o prazo conhedido transcorreu in albis, o Juízo indeferiu a petição inicial. A União apelou, alegando que deixou de emendar a inicial porque os Procuradores Federais estavam em greve, circunstância esta que deveria ser levada em consideração pelo Juízo.
+O Juízo ad quem, por um lado, reconheceu que a circunstância da greve decerto não justificaria a concessão de novo prazo. Por outro lado, entendeu que a providência objeto da determinação inatendida (emenda da inicial para a atribuição de valor à causa), por si só, era despicienda, uma vez que "em hipóteses de alegação de excesso de execução, em sede de embargos, o respectivo quantum constitui o respectivo valor da causa" (fls. 44).
+Em que pese a União não ter ventilado, especificamente, em seu apelo, a questão da desnecessidade do despacho que restou inatendido em razão da greve dos Procuradores Federais, é certo que a atribuição de valor à causa constitui requisito da petição inicial (art. 282, V, do CPC), tratando-se, pois, de questão de ordem pública, cognoscível de oficio, por força do chamado efeito translativo dos recursos (art. 267, § 3º, do CPC).
+Destarte, ao conhecer da matéria e formar a convicção de que o requisito da petição inicial inscrito no art. 282, V, do CPC, não deixou de ser observado pela União, o Juízo da apelação não obrou julgamento extra petita, não infringindo, portanto, quaisquer dos dispositivos elencados pelo embargante, a saber, artigos 128; 284; 318; 458; 459; 460; 514, II; 515, § 4º; 518; 535, todos do CPC.
+Nesse contexto, entendo que não há que se falar em julgado extra petita.
+Com efeito, o Tribunal de origem ao dar provimento ao recurso de apelação da parte recorrida procedeu à interpretação lógico-sistemática do recurso.
+Soma-se a isso o fato de que, no caso em concreto, é despiciendo pleito expresso nesse sentido. Isso porque quem pode mais pode menos, princípio lógico ao qual o direito também se submete, além do que não se mostra razoável manter a sentença de primeiro grau, uma vez que está incompatível com a jurisprudência desta Corte.
+Noutro giro, não prospera à tese de ofensa do art. 284, parágrafo único, do CPC/1973. Isso porque o Tribunal local julgou em conformidade com o entendimento do STJ de que se tratando de "embargos de devedor, a ausência do valor da causa não macula a inicial a ponto de provocar o indeferimento, à medida que a jurisprudência já assentou que em tais casos o valor é o mesmo da ação principal" (REsp 1.171.080/RJ, rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 10/03/2011).
+Nesse sentido:
+PROCESSO CIVIL - EXECUÇÃO FISCAL - VIOLAÇÃO DO ART. 535, II, DO CPC - ALEGAÇÕES GENÉRICAS - SÚMULA 284/STF - EMBARGOS DO DEVEDOR - VALOR DA CAUSA - DETERMINAÇÃO JUDICIAL DE EMENDA DA PETIÇÃO INICIAL PARA ADEQUAR O VALOR DA CAUSA AO VALOR DA EXECUÇÃO. DESCUMPRIMENTO. IMPOSSIBILIDADE DE INDEFERIMENTO LIMINAR DA INICIAL.
+1. Aplicável a Súmula 284/STF quando o recorrente, a fim de demonstrar violação do art. 535, II, do CPC, limita-se a fazer alegações genéricas, sem indicar as teses e os dispositivos de lei federal em relação aos quais haveria omissão.
+2. Esta Corte assentou o entendimento de que, em se tratando de embargos de devedor, a ausência do valor da causa não justifica o indeferimento da petição inicial, pois em tais casos o valor atribuído aos embargos é o mesmo da ação principal.
+3. Recurso especial conhecido em parte e, nessa parte, não provido. (REsp 1.413.831/SE, Rel. Min. ELIANA CALMON, Segunda Turma, DJe 03/12/2013).
+Nesse ponto, incide a Súmula 83 do STJ.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 658/659 e, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se
