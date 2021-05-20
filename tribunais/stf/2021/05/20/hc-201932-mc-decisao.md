@@ -1,0 +1,18 @@
+Decisão: Trata-se de habeas corpus impetrado contra acórdão proferido no âmbito do Superior Tribunal de Justiça (RHC 145.741/PE), assim ementado (eDOC 14):
+    AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. JULGAMENTO MONOCRÁTICO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. OPERAÇÃO ALÉM-MAR. TRÁFICO INTERNACIONAL E LAVAGEM DE DINHEIRO. CONCEDIDA A SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR PRISÃO DOMICILIAR. MÃE DE FILHO MENOR DE 12 ANOS. PEDIDO DE EXTENSÃO DO BENEFÍCIO DE REVOGAÇÃO DA PRISÃO CONCEDIDO AO CORRÉU. FALTA DE ELEMENTOS SUFICIENTES A COMPROVAR A IDÊNTICA SITUAÇÃO FÁTICO-PROCESSUAL. AGRAVO REGIMENTAL DESPROVIDO.
+    1. A prolação de decisão unipessoal pelo Ministro Relator não representa violação do princípio da colegialidade, pois está autorizada pelo art. 34, inciso XX, do Regimento Interno desta Corte em entendimento consolidado pela jurisprudência do Superior Tribunal de Justiça por meio do enunciado n. 568 de sua Súmula.
+    2. O deferimento do pedido de extensão exige que o corréu esteja em idêntica condição fático-processual daquele já beneficiado; e no caso dos autos não há elementos suficientes que demostrem, de plano, a exata identidade de condições. Esta análise, primeiro, deve ser feita pelo Juízo processante, que está perto da realidade posta nos autos e tem maior conhecimento acerca da situação processual. Vale lembrar que consta da decisão recorrida recomendação de ofício, ao Juízo processante que reexamine a necessidade da segregação cautelar, tendo em vista o disposto na Lei n. 13.964/2019.
+    3. Agravo regimental a que se nega provimento.
+    Narra o impetrante que: a) a paciente foi denunciada e presa preventivamente no bojo da chamada “Operação Além-Mar” pela suposta prática dos delitos previstos no art. 1°, caput, § 1°, I, § 2°, I, c/c § 4°, da Lei 9.613/1998, e no art. 2º, § 4°, IV e V, da Lei 12.850/2013; b) o TRF da 5ª Região concedeu, parcialmente, a ordem de habeas corpus para substituir a prisão preventiva da paciente por prisão domiciliar; c) o corréu, cuja situação processual é idêntica à da paciente, obteve a liberdade provisória; d) a paciente é primária, tem bons antecedentes e residência fixa, e o crime a ela imputado foi cometido sem violência ou grave ameaça.
+    À vista do exposto, pugna pela extensão da ordem concedida ao corréu.
+    É o relatório. Decido.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante na decisão atacada a justificar a concessão da liminar.
+    Outrossim, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirmou.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual indefiro a liminar.
+    Solicitem-se informações ao Juízo de origem, especialmente sobre os fundamentos para a manutenção da prisão domiciliar. Com as informações, abra-se vista à PGR.
+    Publique-se. Intime-se.
+    Brasília, 20 de maio de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
