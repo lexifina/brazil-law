@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo (artigo 1042 do CPC/15), interposto por CONDOMINIO EDIFICIO BOLSA DE MERCADORIAS DE SAO PAULO, em face da decisão que deixou de admitir recurso especial, fundamentado na alínea "a" do permissivo constitucional, pelos seguintes fundamentos: (i) não houve "a pretendida ofensa ao art. 1.022, II, do CPC"; (ii) ausente a alegada "infringência aos incisos do §1º do art. 489 do CPC";(iii)e incidência da Súmula 280 do STF(fls. 624/625, e-STJ).
+Daí o presente agravo (fls. 628/634, e-STJ), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 641/650, e-STJ.
+É o relatório.
+Decido.
+O recurso não merece conhecimento, por violação ao princípio da dialeticidade.
+1.Da leitura das razões do agravo (art. 1042 do CPC/15), fls. 628/634, verifica-se que a parte recorrente não impugnou, especificamente, o fundamento da decisão agravada, quanto à ausência de víciosna fundamentação do decisum, alegada ofensa ao§1º do art. 489 do CPC/15.
+Como é cediço, a falta de ataque específico aos fundamentos da decisão agravada encontra óbice na Súmula 182/STJ e no artigo 932, III, do CPC/15:
+Art. 932.Incumbe ao relator:
+(..)
+III - não conhecer de recurso inadmissível, prejudicado ouque não tenha impugnado especificamente os fundamentos da decisão recorrida; (grifos acrescidos)
+Conforme já decidiu o STJ,"à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira ademonstrarque o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja,não bastaque façaalegações genéricasem sentido contrário às afirmações do julgado contra o qual se insurge"(AgRg no Ag 1.056.913/SP, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 26.11.2008 - grifos nossos).
+Nesse sentido: AgInt no AREsp 960.836/PA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/12/2016, DJe 09/12/2016; AgInt no AREsp 862.831/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2016, DJe 28/11/2016; AgInt no AREsp 236.698/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/11/2016, DJe 17/11/2016.
+2.Do exposto, com amparo no artigo 932, III, do CPC/15 e na Súmula 182/STJ, não conheço do agravo em recurso especial.
+Publique-se.Intimem-se.
