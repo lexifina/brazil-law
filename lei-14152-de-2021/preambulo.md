@@ -1,0 +1,2 @@
+Dispõe sobre a extensão do prazo de validade de prescrições médicas e de pedidos de exames complementares de diagnóstico emitidos para gestantes e puérperas, e sobre o acesso facilitado a cuidados intensivos e à internação em leitos de unidade de terapia intensiva (UTI) enquanto perdurar a pandemia de covid-19.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
