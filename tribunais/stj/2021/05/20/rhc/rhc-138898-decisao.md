@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por GLAUCO ROGÉRIO VASQUES - condenado pelo crime de roubo majorado- contra acórdão do Tribunal de Justiça do Estado de São Paulo (2237989-95.2018.8.26.0000).
+A pós o trânsito em julgado da condenação, a defesa impetrou habeas corpus na Corte estadual alegando, em síntese, nulidade por cerceamento de defesa, pois o defensor constituído não teria comparecido (não teria sido intimado) a audiência de instrução, tendo sido nomeado defensor dativo para o ato processual.
+O Tribunal estadual, por maioria de votos, denegou a ordem, vencido o Relator do processo (e-STJ fls. 239/246).
+Nas razões do presente recurso, a defesa reitera a alegação de nulidade processual consistente na ausência de intimação do defensor constituído para participar da audiência de instrução e julgamento. Argumenta que nem para o ato mais importante do processo, a oitiva da vítima, no dia 2/5/2002, a defesa foi intimada, sequero direito de entrevista prévia foi concedido ao réu, na ocasião e, segundo relata, o advogado ad hoc "entrou mudo e saiu calado" (e-STJ fl. 256). Sustenta que essecontexto configuraria violação do disposto no enunciado n. 523 da Súmula do Supremo Tribunal Federal, e que o prejuízo estaria representado pelo equivocado édito condenatório (e-STJ. 260).
+No mais, tece considerações sobre o caso concreto para demonstrar qual a postura deveria ter o defensor nomeado, e que poderia levar, na compreensão da defesa, para um outro desfecho.
+Diante disso, pede seja o recurso provido para, desconstituindo o trânsito em julgado da condenação, reconhecer a nulidade pela ausência de defesa, bem ainda a prescrição da pretensão punitiva do Estado.
+Previamente ouvido, o Ministério Público Federal manifestou-se pelo provimento do recurso, em parecer assim resumido (e-STJ fls. 308):
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. ARTIGO 157, §2º, INCISOS I E II DO CÓDIGO PENAL. NOMEAÇÃO DE ADVOGADO AD HOCPARA AUDIÊNCIA. ALEGAÇÕES FINAIS E RAZÕES DE APELAÇÃO. ATUAÇÃO MERAMENTE FORMAL. CONTRADITÓRIO E AMPLA DEFESA. OCORRÊNCIA. NULIDADE RELATIVA. PREJUÍZO DEMONSTRADO PELAAUSÊNCIA DE EFETIVAS ALEGAÇÕES FINAIS E PELA CONDENAÇÃO. INEXISTÊNCIA DE PRECLUSÃO. PARECER PELO PROVIMENTO DO RECURSO.
+É o relatório, decido.
+Busca-se, em síntese, o reconhecimento de nulidade processual, por ausência de intimação do defensor constituído para a audiência de instrução, arguida após o trânsito em julgado da condenação.
+No ponto, colhe-se do acórdão impugnado (e-STJ fls. 242/243):
+2. Respeitado o posicionamento do ilustre Relator sorteado, Desembargador MIGUEL MARQUES E SILVA, tenho que a impetração comporta conhecimento, já que o habeas corpus se presta, em tese, ao reconhecimento de nulidades absolutas, mesmo após o trânsito em julgado da sentença, e a matéria aqui ventilada não foi objeto de apreciação por esta Colenda Câmara por ocasião do julgamento da apelação.
+3. Contudo, respeitado o esforço do nobre impetrante, a ordem deve ser denegada.
+Verifica-se que a nulidade aqui arguida derivaria da falta de intimação do Defensor constituído para audiência de instrução, à qual fez-se ele ausente, nomeando-se Defensor ad hoc.
+Contudo, a ausência de Defensor constituído a audiência de instrução, nomeando-se Defensor ad hoc, constitui, data venia, nulidade meramente relativa.
+De qualquer modo, o que importa assentar é que a jurisprudência das Cortes Superiores consagrou o entendimento de que tanto para o reconhecimento da nulidade absoluta quanto da relativa é necessário haver demonstração de prejuízo.
+Ora, no caso em tela a Defesa, após o ato aqui impugnado, ofereceu alegações finais (fls. 74/80) e razões de apelação (fls. 88/107), sem alegar o vício.
+Destarte, não demonstrado prejuízo, nenhuma nulidade pode ser reconhecida.
+Com efeito, "O acusado tem o direito de se ver processado de acordo com o devido processo legal. Assim, a escolha de defensor, de fato, é um direito inafastável do réu, principalmente, levando-se em consideração que a constituição de um defensor estabelece uma relação de confiança entre o investigado/réu e seu patrono, violando o princípio da ampla defesa a nomeação de defensor dativo sem que seja dada a oportunidade ao réu de nomear outro advogado"(RHC 82.687/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 5/9/2019, DJe 17/9/2019).
+Todavia, a nulidade deve ser arguida na primeira oportunidade em que a defesa se manifestar nos autos, sob pena de preclusão, como na hipótese em exame, em que -após o ato aqui impugnado (audiência de instrução na qual o réu foi assistido por defensor nomeado polo Juiz) a defesaofereceu alegações finaise apresentou as razões de apelação, sem alegar o vício, vindo questioná-lo quase 4 anos após o trânsito em julgado para a defesa, como consignado na inicial (e-STJ fl. 4).
+Inexiste, portanto, constrangimento ilegal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DEFENSOR DATIVO. INTIMAÇÃO PESSOAL. ACÓRDÃO QUE JULGOU A APELAÇÃO. AUSÊNCIA DE MANIFESTAÇÃO.PRECLUSÃO. AGRAVO IMPROVIDO.
+1. Não tendo a defesa arguido a nulidade, por ausência de intimação pessoal do defensor dativo, na primeira oportunidade que teve para se manifestar nos autos, aplica-se o instituto da preclusão.
+Precedentes desta Corte.
+2. A jurisprudência deste Superior Tribunal de Justiça, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal(AgRg no HC 527.449/PR, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 27/8/2019, DJe 5/9/2019).
+3. Agravo regimental improvido.
+(AgRg no HC 573.794/MG, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 1º/9/2020, DJe 16/9/2020)
+HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE AUSÊNCIA DE INTIMAÇÃO PESSOAL DA DEFENSORIA PÚBLICA DA DATA DA SESSÃO DE JULGAMENTO DO APELO DEFENSIVO. PRECLUSÃO. ORDEM DE HABEAS CORPUS DENEGADA.
+1. É certo que a jurisprudência desta Corte Superior de Justiça é no sentido de que a intimação da Defensoria Pública para todos os atos processuais será pessoal, de acordo com os arts. 370, do Código de Processo Penal, 5.º, § 5.º, da Lei n.º 1.060/1950, e 128, inciso I, da Lei Complementar n.º 80/1994, sob pena de nulidade do ato praticado.
+2. Contudo, a jurisprudência do Supremo Tribunal Federal e desta Corte Superior é uníssona no sentido de que deve a parte prejudicada suscitar a questão na primeira oportunidade de se manifestar nos autos, sob pena de preclusão.
+3. No caso, não houve nenhuma irresignação sobre a alegada nulidade na ocasião da oposição dos embargos de declaração, impondo-se, portanto, o reconhecimento da preclusão.
+4. Ordem de habeas corpus denegada.
+(HC 484.953/SC, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 17/10/2019, DJe 28/10/2019)
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. AUSÊNCIA DE INTIMAÇÃO PESSOAL DO DEFENSOR DATIVO QUANTO À DATA DO JULGAMENTO DO RECURSO EM SENTIDO ESTRITO. EIVA NÃO ARGUIDA PELO CAUSÍDICO NOMEADO NA PRIMEIRA OPORTUNIDADE EM QUE SE MANIFESTOU NOS AUTOS. MÁCULA SUSCITADA PELA DEFENSORIA PÚBLICA APÓS APROXIMADAMENTE 4 (QUATRO) ANOS DA PROLAÇÃO DO ACÓRDÃO QUE SE PRETENDE ANULAR. PRECLUSÃO. COAÇÃO ILEGAL INEXISTENTE. DENEGAÇÃO DA ORDEM.
+1. A despeito de acarretar nulidade, por cerceamento de defesa, a ausência de intimação pessoal do defensor dativo para a sessão de julgamento do recurso em sentido estrito interposto, há hipóteses peculiares em que a preclusão se torna óbice ao reconhecimento da eiva articulada. Precedentes.
+2. Embora não haja notícias de que o causídico nomeado para patrocinar o paciente tenha sido pessoalmente intimado para a sessão de julgamento do recurso em sentido estrito interposto, verifica-se que não arguiu a mácula em questão na primeira oportunidade em que se manifestou nos autos, tendo a eiva sido suscitada pela Defensoria Pública aproximadamente após 4 (quatro) anos da prolação do acórdão que se pretende anular, conduta que afronta a segurança jurídica da qual são revestidas as decisões judiciais irrecorríveis e que importa no reconhecimento da preclusão.
+3. Ordem denegada.
+(HC 320.492/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (Desembargador Convocado do TJ/PE), Quinta Turma, julgado em 20/8/2015, DJe 1º/9/2015)
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso em habeas corpus.
+Intimem-se.
