@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 NCPC), interposto por PORTO DE MAR COMÉRCIO DE GÊNEROS ALIMENTÍCIOS LTDA EM RECUPERAÇÃO JUDICIAL, contra decisão que não admitiu recurso especial (fls. 234/239, e-STJ).
+O apelo nobre desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E EMPRESARIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO Nº 1204031, GARANTIDA POR CESSÃO FIDUCIÁRIA. DEVEDORA EM RECUPERAÇÃO JUDICIAL. CRÉDITO QUE NÃO SE SUJEITA AOS EFEITOS DA RECUPERAÇÃO JUDICIAL (ARTIGO 49, §3 2 DA LEI 11.101/2005), TAL COMO INCLUSIVE RECONHECIDO NO BOJO DO AGRAVO DE INSTRUMENTO 0043972-59.2016.8.19.0000 RELATADO PELO EMINENTE DESEMBARGADOR MAURO PEREIRA MARTINS. DECISÃO AGRAVADA QUE INDEFERE IMPUGNAÇÃO À PENHORA ON LINE (BLOQUEIO DA QUANTIA DE R$ 38.363,38). APLICAÇÃO DA SÚMULA Nº 480 DO STJ, AO ELUCIDAR QUE "O JUÍZO DA RECUPERAÇÃO JUDICIAL NÃO É COMPETENTE PARA DECIDIR SOBRE A CONSTRIÇÃO DE BENS NÃO ABRANGIDOS PELO PLANO DE RECUPERAÇÃO DA EMPRESA". ADEMAIS, NÃO HÁ SUBMISSÃO AO "STAY PERIOD", UMA VEZ QUE, NA ESPÉCIE, NÃO SE APLICA A SUSPENSÃO PREVISTA NOS ART. 6º, CAPUT E §4 2 C/C 52, III DA LEI Nº 11.101/2005, OU A NOVAÇÃO A QUE SE REFERE O ART. 59, CAPUT, POR FORÇA DO QUE DISPÕE O ART. 49, § 3º DA LEI Nº 11.101/2005, CONFORME ESTABELECIDO NA TESE FIRMADA PELO STJ NO RESP Nº 1.333.349/SP, DJE 02/02/2015 (RECURSO REPETITIVO), QUE DEU ORIGEM A SÚMULA Nº 581 DO STJ (A RECUPERAÇÃO JUDICIAL DO DEVEDOR PRINCIPAL NÃO IMPEDE O PROSSEGUIMENTO DAS AÇÕES E EXECUÇÕES AJUIZADAS CONTRA TERCEIROS DEVEDORES SOLIDÁRIOS OU COOBRIGADOS EM GERAL, POR GARANTIA CAMBIAL, REAL OU FIDEJUSSÓRIA" ). RECURSO A QUE SE NEGA PROVIMENTO.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial, a recorrente aponta, além de dissídio jurisprudencial, violação, pelo aresto estadual, aos artigos 47 e 49 da Lei 11.101/2005. Sustenta, para tanto, que os valores penhorados na execução da cédula de crédito bancário prejudicaria o processo de recuperação judicial da empresa.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob o fundamento de que aplicávelao caso a Súmula 83 do STJ. Daí o presente agravo.
+Contraminuta às fls. 277/288(e-STJ), sustentando o acerto do decisum hostilizado.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. A Corte Estadual assim delimitou faticamente a controvérsia:
+Infere-se da inicial que a execução tem por objeto Cédula de Bancário nº 1204031, garantida por cessão fiduciária, confira-se:
+Crédito 1. Em 21 de janeiro de 2014, a empresa executada emitiu a Cédula de Crédito Bancário (Mútuo) nº 1204031 (doc. anexo), no valor de R$ 350.000,00 (trezentos e cinquenta mil reais), conforme depreende-se na documentação em anexo.
+(..) 3. Com o inadimplemento da obrigação, restou configurado o vencimento antecipado, sobejando em aberto o saldo devedor, devidamente atualizado, até o dia 31/08/2015, de R$ 64.926,27 (sessenta e quatro mil, novecentos e vinte e seis reais e vinte e sete centavos), conforme se verifica na inclusa memória de cálculo (doc. anexo).
+A questão em torno da insubmissão do crédito, cuja satisfação é perseguida na demanda que deu origem a este recurso, iá foi enfrentada pelo Juízo onde se processa o pedido de recuperação judicial, o qual declarou sua extraconcursalidade, sendo tal decisão confirmada no julgamento do Agravo de Instrumento nº 0043972-59.2018.8.19.0000, de relatoria do Des. MAURO MARTINS, da 1W Câmara Cível.
+(..)
+O caso atrai, ainda, a aplicação da súmula nº 480 do STJ ao elucidar que "O juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa".
+Destaque-se que a hipótese não se amolda a parte final do §3 9 , do art.49, da Lei nº 11.101/2005, inexistindo óbice ao regular processamento da execução e aos consequentes atos constritivos visando a satisfação do crédito vinculado à Cédula de Crédito garantida por cessão fiduciária nº 1204031.
+Na hipótese, o crédito garantido por cessão fiduciária foi declarado judicialmente excluído da recuperação judicial, de modo que o acórdão estadual está em sintonia com a jurisprudência do Superior Tribunal de Justiça no sentido de que "os créditos garantidos por cessão fiduciária de recebíveis, por se constituir propriedade do credor, não se submetem à recuperação judicial de empresa, nos termos do enunciado n. 480 da Súmula desta Corte" (AgInt no AREsp 1119131/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/04/2018, DJe 18/04/2018).
+Confira-se, ainda:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL.CRÉDITO CEDIDO FIDUCIARIAMENTE. DESCRIÇÃO DO CRÉDITO, OBJETO DE CESSÃO. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. EXCLUSÃO DOS EFEITOS DA RECUPERAÇÃO JUDICIAL. AGRAVO NÃO PROVIDO.
+1. A alteração das premissas adotadas pelo Tribunal a quo, que ensejaram o reconhecimento do preenchimento dos requisitos para a constituição da garantia fiduciária, demanda, necessariamente, o reexame de matéria fática e probatória dos autos, providência vedada no recurso especial pela Súmula 7 do STJ.
+2. Consoante a jurisprudência desta Corte, "os créditos garantidos por cessão fiduciária de recebíveis, por se constituir propriedade do credor, não se submetem à recuperação judicial da empresa, nos termos do enunciado da Súmula 480 desta Corte" (AgInt no AREsp 1.119.131/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/04/2018, DJe de 18/04/2018).
+3. Agravo interno não provido.
+(AgInt no AREsp 1560021/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/06/2020, DJe 01/07/2020)
+Incidência, portanto, a incidência das Súmulas 83 e 480 do STJ.
+2. Ante o exposto, com amparo na Súmula 568 do STJ, nego provimento ao reclamo.
+Publique-se. Intimem-se.
