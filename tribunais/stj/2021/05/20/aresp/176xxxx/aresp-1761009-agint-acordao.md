@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino (Presidente), Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. PENHORA SOBRE O FATURAMENTO DA EMPRESA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. A não observância dos requisitos do art. 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional.
+4. Agravo interno não provido.
+RELATÓRIO
+Da leitura da minuta do agravo de instrumento que deu origem a este recurso, pode-se aferir que CONTINENTAL DO BRASIL PRODUTOS AUTOMOTIVOS LTDA. (CONTINENTAL) promoveu execução de título extrajudicial contra TRANSPORTADORA TRANSMACA LTDA. (TRANSPORTADORA).
+Na fase do cumprimento de sentença, o d. Juízo rejeitou a impugnação à penhora ofertada mantendo a constrição sobre 10% do faturamento bruto da empresa.
+Essa interlocutória foi desafiada por agravo de instrumento, no qual a TRASPORTADORA sustentou que a empresa passa por séria crise financeira e a manutenção da decisão importará em inviabilizar seu regular funcionamento.
+O recurso não foi provido pelo Tribunal de Justiça de São Paulo, nos termos do v. acórdão prolatado pelo Des. João Camillo de Almeida Prado Costa, assim ementado:
+EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. INCIDÊNCIA DA PENHORA SOBRE O FATURAMENTO DA EMPRESA DEVEDORA. CABIMENTO. INEXISTÊNCIA DE OUTROS BENS LIVRES E DESEMBARAÇADOS APTOS A GARANTIR O CRÉDITO CUJA SATISFAÇÃO É PERSEGUIDA NO PROCESSO EXECUTIVO. POSSIBILIDADE DE QUE A CONSTRIÇÃO JUDICIAL RECAIA SOBRE DEZ POR CENTO DO FATURAMENTO BRUTO MENSAL DA EMPRESA. DECISÃO MANTIDA. RECURSO IMPROVIDO. DISPOSITIVO. NEGARAM PROVIMENTO AO RECURSO (e-STJ, fl. 355).
+Os embargos de declaração opostos pela TRANSPORTADORA foram rejeitados (e-STJ, fls. 393/396).
+Inconformada, a TRANSPORTADORA interpôs recurso especial, com base no art. 105, III, a e c, da CF, alegando violação do art. 835 do NCPC, bem como divergência jurisprudencial.
+O apelo nobre não foi admitido em virtude da (1) não demonstração da divergência jurisprudencial; (2) incidência da Súmula nº 7 do STJ; e(3) não demonstração do dissenso jurisprudencial.
+Seguiu-se o agravo em recurso especial, que, em decisão monocrática do Ministro Presidente do STJ, foi conhecido para não conhecer do recurso especial, em virtude da (1) incidência da Súmula nº 7 do STJ; e(2) não comprovação da divergência jurisprudencial.
+Nas razões do presente agravo interno, a TRANSPORTADORA alegou (1) não incidir a Súmula nº 7 do STJ, por ser a matéria de direito; e(2) que demonstrou a similitude fática entre os acórdãos.
+Não houve impugnação ao recurso (e-STJ, fl. 457).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. PENHORA SOBRE O FATURAMENTO DA EMPRESA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. A não observância dos requisitos do art. 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional.
+4. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ, na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Na hipótese, o v. acórdão concluiu, quanto a alegada violação do art. 835 do NCPC, no que concerne ao deferimento de penhora de 10% sobre o faturamento bruto da empresa, haver a inexistência de outros bens livres e desembaraçados, passíveis de penhora aptos a garantir o juízo  ..  a efetivação de penhora sobre o faturamento da pessoa jurídica  ..  possa causar prejuízo ou mesmo vulnerar o princípio da menor onerosidade, sendo oportuno salientar que se limitou a recorrente a impugnar a penhora determinada, mas não indicou qualquer outro bem livre e desembaraçado apto a garantir o juízo, consoante se vê dos seguintes trechos:
+Destarte, a inexistência de outros bens livres e desembaraçados, passíveis de penhora aptos a garantir o juízo, expressa a excepcionalidade do caso em exame e justifica a incidência da constrição sobre o faturamento da empresa devedora, inolvidável a circunstância de que o processo executivo tramita no interesse do credor, não sendo sequer razoável cogitar que, na hipótese em apreço, a efetivação de penhora sobre o faturamento da pessoa jurídica  10% do faturamento bruto mensal (fls. 300)  possa causar prejuízo ou mesmo vulnerar o princípio da menor onerosidade, sendo oportuno salientar que se limitou a recorrente a impugnar a penhora determinada, mas não indicou qualquer outro bem livre e desembaraçado apto a garantir o juízo (e-STJ, fl. 356).
+Dessa forma, conforme se nota, a Corte local assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula nº 7 do STJ.
+A propósito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. CUMPRIMENTO DE SENTENÇA. PENHORA SOBRE FATURAMENTO DE EMPRESA. REEXAME DO CONJUNTO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O Tribunal paulista, soberano na análise das provas dos autos, concluiu que a penhora do faturamento da empresa, apesar de ser medida excepcional, se justifica no caso, tendo em conta que não foram localizados bens idôneos para garantir a execução. Rever tal conclusão demandaria o reexame das provas dos autos, o que é inviável na estreita via do recurso especial, a teor do que dispõe a Súmula nº 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.638.284/SP, de minha relatoria, Terceira Turma, j. 7/12/2020, DJe 11/12/2020).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PENHORA. FATURAMENTO. PRINCÍPIO DA MENOR ONEROSIDADE. REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ). 2. Rever o entendimento do tribunal de origem, segundo o qual a penhora deve recair sobre 30% (trinta por cento) do faturamento da agravante, a fim de examinar a alegada inobservância do princípio da menor onerosidade, demandaria reexame de provas, providência vedada em recurso especial, nos termos da Súmula nº 7/STJ.
+3. O Superior Tribunal de Justiça entende não ferir o princípio da menor onerosidade na execução, observadas as cautelas legais, a penhora sobre o faturamento da empresa.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.091.054/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 17/9/2018, DJe 21/9/2018)
+De outra parte, a decisão agravada consignou que o dissídio interpretativo viabilizador do recurso especial não foi demonstrado nos termos exigidos pela legislação e pelas normas regimentais.
+Neste contexto, importante destacar que a viabilidade do recurso especial pela alínea c do art. 105, III, da Constituição Federal pressupõe que, além da transcrição dos acórdãos aptos à comprovação da alegada divergência, se proceda ao cotejo analítico entre o aresto recorrido e o trazido como paradigma, com a demonstração da identidade fática entre eles e da interpretação divergente dada ao mesmo dispositivo legal, o que não ocorreu na espécie.
+Assim, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, que não conheceu do apelo nobre, devendo ser ele mantido.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
