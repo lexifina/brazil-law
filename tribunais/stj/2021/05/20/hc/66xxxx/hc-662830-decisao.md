@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de FLAVIO ROSSI FILHO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2154871- 56.2020.8.26.0000).
+Depreende-se dos autos que o paciente foi preso preventivamente e denunciado "como incurso nas penas do artigo 14, da Lei n. 10.826/03, no artigo 121, § 2º, inciso II e IV, c/c o artigo 29 e artigo 14, inciso II, artigo 157, § 2º, inciso I (ultratividade), c/c o artigo 14, inciso II, artigo 163, parágrafo único, inciso III, todos do Código Penal e, por duas vezes, no artigo 15, da Lei n. 10.826/03, em concurso material (artigo 69, do Código Penal)"- porte ilegal de arma fogo de uso permitido, homicídio qualificado tentado, roubo majorado tentado, dano qualificado e disparo de arma fogo (e-STJ fl. 45).
+O Tribunal de origem denegou a ordem de habeas corpus que visava a revogação da prisão preventiva.
+Nas razões deste writ, a defesa sustenta que não estão presentes os requisitos da prisão preventiva. Alega, ainda, que "não há, ademais, contemporaneidade a permitir o decreto da prisão preventiva do Paciente" (e-STJ fl. 7), destacando que se passaram mais de 3 anos entre a suposta prática delitiva e o pedido de decretação da custódia cautelar. Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente ou, subsidiariamente, a substituição da prisão preventiva por prisão domiciliar.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pela denegação da ordem.
+É o relatório.
+As informações prestadas pelo Juízo de pisonoticiam que, em 18/1/2021, o paciente foi pronunciado" como incurso no artigo 121, § 2º, inciso II e IV, c/c o artigo 29 e artigo 14, inciso II; no artigo 14, da Lei nº 10.826/03; artigo 157, §2º, inciso I (ultratividade), c/c o artigo 14, inciso II, artigo 163, parágrafo único, inciso III, todos do Código Penal e, por duas vezes, no artigo 15, da Lei nº 10.826/03" (e-STJ fl. 365).
+Dessarte, na linha da orientação firmada no âmbito da Sexta Turma desta Corte, a superveniência de novo título que mantém a segregação cautelar torna prejudicado o writ ou o recurso que se voltava contra a decisão que foi substituída.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS JULGADO PREJUDICADO. HOMICÍDIO TENTADO. REVOGAÇÃO DA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. NOVO TÍTULO. PERDA DO OBJETO. INEXISTÊNCIA DE PRONUNCIAMENTO DA CORTE ESTADUAL SOBRE A QUESTÃO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, a superveniente prolação de sentença de pronúncia prejudica o exame da tese vertida no recurso em habeas corpus, acerca de eventual ausência de fundamentação idônea para a mantença da segregação cautelar, visto que um novo título justifica a restrição à liberdade. Precedentes.
+2. Inexistente pronunciamento do Tribunal de origem sobre a conservação da prisão provisória na sentença de pronúncia, inviável a apreciação do tema por esta Corte, sob pena de supressão de instância.
+3. Agravo regimental improvido. (AgRg no RHC 50.857/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/3/2016, DJe 29/3/2016).
+Tal o contexto, com fundamento no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
