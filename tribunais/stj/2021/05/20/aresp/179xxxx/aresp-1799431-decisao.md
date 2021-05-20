@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por OI S.A. - EM RECUPERACAO JUDICIAL em face da decisão acostada às fls. 579-580 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pela ora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 430-438 e-STJ, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. PARTICIPAÇÃO FINANCEIRA EM SERVIÇO DE TELEFONIA. DIREITO À COMPLEMENTAÇÃO DAS AÇÕES. SUBSCRIÇÃO DOS VALORES APORTADOS PELA AUTORA EM MOMENTO POSTERIOR À INTEGRALIZAÇÃO. MODALIDADE PAID DO CONTRATO FIRMADO PELO AUTOR QUE NÃO OBSTA O DIREITO AO RECEBIMENTO DO RESÍDUO ACIONÁRIO. DIREITO ÀS PARCELAS ACESSÓRIAS DIVIDENDOS, JUROS SOBRE CAPITAL PRÓPRIO E BONIFICAÇÕES. AUSÊNCIA DE PRESCRIÇÃO. APLICAÇÃO DO PRAZO GERAL PREVISTO NO CÓDIGO CIVIL, E NÃO DO TRIENAL DISPOSTO NA LEI DAS SOCIEDADES ANÔNIMAS. DOBRA ACIONÁRIA. DIREITO DO ACIONISTA A IDÊNTICO NÚMERO E TIPO DE AÇÕES NA SOCIEDADE DE TELEFONIA MÓVEL, POR FORÇA DA CISÃO DA EMPRESA DE TELEFONIA FIXA. LEGITIMIDADE DA RÉ PARA RESPONDER PELA RESPECTIVA COMPLEMENTAÇÃO. AFASTAMENTO DO DIREITO À COMPLEMENTAÇÃO DE AÇÕES NAS OPERADORAS INCORPORADAS PELA ANTIGA TELEPAR. AUSÊNCIA DE FUNDAMENTO LEGAL PARA TANTO. SENTENÇA MODIFICADA NESSE TOCANTE. TERMO FINAL DAS PARCELAS ACESSÓRIAS. DATA DO TRÂNSITO EM JULGADO. OPERAÇÕES DE GRUPAMENTO DE AÇÕES. NECESSIDADE DE OBSERVÂNCIA NO CÁLCULO DO NÚMERO DE AÇÕES DEVIDAS AO AUTOR. RECURSO CONHECIDO AO QUAL SE DÁ PARCIAL PROVIMENTO.
+Opostos embargos declaratórios (fls. 447-454 e-STJ), restaram desacolhidos na origem (fls. 476-479 e-STJ).
+Nas razões de recurso especial (fls. 488-514 e-STJ), alegou a insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) artigo 1.022 do CPC/15, porquanto não sanados os vícios apontados nos aclaratórios; (ii) artigo 170, § 3º, da Lei n. 6.404/76, aduzindo que nos casos de contratação na modalidade PCT/PAID a subscrição de ações ocorria somente com a incorporação da planta comunitária ao patrimônio da empresa, sendo este o momento para cálculo das ações devidas. Aduziu, ainda, a existência de dissídio jurisprudencial.
+Sem contrarrazões.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre por aplicação da Súmula 83/STJ.
+Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 590-604 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Sem contraminuta.
+É o relatório.
+Decide-se.
+A pretensão recursal deve prosperar em parte.
+1. Afasta-se, de início, a alegação de negativa de prestação jurisdicional. Não se verifica ofensa ao artigo 1.022 do CPC/15 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no REsp 1750080/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/08/2020, DJe 21/08/2020; AgInt no AREsp 1507690/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/06/2020, DJe 01/07/2020.
+2. O Tribunal local considerou "indiferente se o contrato foi firmado pelo regime PEX ou PAID, já que as ações correspondentes à participação financeira da autora, ora apelada, não foram subscritas no momento adequado, ou seja, quando da integralização do capital, mas em momento posterior, com base, apenas, em interpretação, contra legem, de Portaria vigente à época" (fl. 433 e-STJ).
+Todavia, nos termos da jurisprudência desta Casa, em se tratando de contratos firmados na modalidade de PCT/PAID, a integralização do capital se dará apenas mediante a incorporação da planta telefônica ao patrimônio da concessionária, momento que deve ser considerado para a finalidade de emissão das ações.
+Descabida, portanto, a aplicação da Súmula 371 do STJ à hipótese.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. PLANTA COMUNITÁRIA DE TELEFONIA (PCT). EMISSÃO DE AÇÕES. MOMENTO DA INTEGRALIZAÇÃO. PLANTA TELEFÔNICA. PATRIMÔNIO DA CONCESSIONÁRIA. INCORPORAÇÃO. SÚMULA Nº 371/STJ. NÃO INCIDÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos contratos firmados na modalidade de Planta Comunitária de Telefonia (PCT), a integralização do capital não se dá em dinheiro, por ocasião do pagamento do preço, mas com a incorporação da planta telefônica ao patrimônio da concessionária, após construída e avaliada, momento que deve ser considerado para a finalidade de emissão das ações, sendo inaplicável a Súmula nº 371/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp 1820711/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/11/2019, DJe 21/11/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO INTERNO NÃO CONHECIDO. AÇÃO DE ADIMPLEMENTO CONTRATUAL. COMPLEMENTAÇÃO DE AÇÕES. PLANTA COMUNITÁRIA DE TELEFONIA - PCT. BALANCETE MENSAL. SÚMULA Nº 371 DO STJ. INAPLICABILIDADE. PRECEDENTES. AGRAVO NÃO PROVIDO.
+(..)
+2. O critério previsto na Súmula nº 371 do STJ é incompatível com o programa da Planta Comunitária de Telefonia - PCT, uma vez que a integralização nesse sistema não se dá no momento do pagamento do preço pelos adquirentes das linhas, mas com a incorporação da planta de telefonia ao patrimônio da empresa de telefonia. Assim sendo, o cálculo do número de ações a serem subscritas em favor de cada titular de linha telefônica deve levar em consideração o valor de avaliação da referida planta telefônica. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1700535/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/05/2019, DJe 29/05/2019)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PLANTA COMUNITÁRIA DE TELEFONIA. SUBSCRIÇÃO DE AÇÕES. CRITÉRIO. INCORPORAÇÃO DA PLANTA TELEFÔNICA AO PATRIMÔNIO DA CONCESSIONÁRIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos contratos firmados no sistema de Planta Comunitária de Telefonia (PCT), somente com a incorporação da rede telefônica ao patrimônio da concessionária é que surge o dever de ressarcir o consumidor por meio de subscrição de ações.
+2. O valor a ser considerado para o cálculo do número de ações a serem subscritas deve ser o da avaliação do bem incorporado ao patrimônio da companhia telefônica, e não o montante pago à construtora pelo adquirente da linha telefônica, sendo, portanto, inviável a aplicação, na hipótese, da Súmula 371/STJ. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1610514/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/05/2019, DJe 30/05/2019)
+Em semelhante sentido, as decisões monocráticas proferidas nos seguintes autos, tratando de hipóteses de contratação na modalidade PAID: AREsp 1708125/PR, Rel. Ministra MARIA ISABEL GALLOTTI, DJe 01/02/2021; REsp 1883921/PR, Rel. Ministro MOURA RIBEIRO, DJe 03/12/2020.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo e, de plano, dá-se parcial provimento ao recurso especial, cassando o acórdão recorrido e determinando o retorno dos autos à Corte de origem para que, à luz da jurisprudência deste STJ, acima delineada, aplique o direito à espécie e verifique a correção da subscrição das ações.
+Publique-se.
+Intimem-se.
