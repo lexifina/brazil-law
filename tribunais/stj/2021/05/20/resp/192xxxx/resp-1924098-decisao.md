@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de recurso especial interposto por OI MÓVEL S.A. - EM RECUPERAÇÃO JUDICIAL, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 05/11/2020.
+Concluso ao gabinete em: 09/03/2021.
+Ação: cumprimento de sentença de ação indenizatória decorrente de suposta falha na prestação de serviço ajuizado por ROSILENE OLIVEIRA SILVA em face da recorrente.
+Decisão interlocutória: determinou que os créditos perseguidos na ação são extraconcursais e expediu ofício ao Juízo da recuperação judicial para comunicar a necessidade de pagamento do crédito líquido.
+Acórdão: deu parcial provimento ao agravo de instrumento interposto pela recorrente, nos termos da seguinte ementa (e-STJ, fl. 138):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - CRÉDITO EXEQUENDO CONSTITUÍDO APÓS A INSTAURAÇÃO DO PROCESSO DE RECUPERAÇÃO JUDICIAL DA EMPRESA DEVEDORA - NATUREZA EXTRACONCURSAL - SUJEIÇÃO AO JUÍZO EM QUE SE PROCESSA A RECUPERAÇÃO - IMPOSSIBILIDADE - PROSSEGUIMENTO DA EXECUÇÃO NO JUÍZO DE ORIGEM - RESSALVA QUANTO A ATOS DE CONSTRIÇÃO - JUROS DE MORA - FLUÊNCIA SUSPENSA - CORREÇÃO MONETÁRIA - POSSIBILIDADE. Conforme o disposto no artigo 49 caput da Lei de Falências e Recuperação Judicial, estão sujeitos à recuperação judicial somente os créditos existentes na data do pedido, ainda que não vencidos. Se o crédito exequendo foi constituído após a instauração do processo de recuperação judicial da empresa executada (crédito extraconcursal), está excluído dos seus efeitos, nos termos do art. 49, caput, da Lei nº 11.101/2005, devendo o cumprimento de sentença prosseguir no juízo de origem, ressalvados os atos de alienação ou constrição patrimonial. Conforme determina o art.18, alínea "d", da Lei n. 6.024/74, devem os juros moratórios ter a sua fluência suspensa a partir da decretação da liquidação extrajudicial até a quitação integral do passivo da seguradora. A correção monetária não constitui um plus, servindo apenas para manter constante o poder aquisitivo da moeda, a fim de se evitar o enriquecimento ilícito do devedor.
+Embargos de declaração: opostos pela recorrente foram rejeitados.
+Recurso especial: alega violação dos arts. 9º, 47, 49 e 59, da Lei 11.101/05 e 927 do Código Civil; 489 e 1.022 do CPC/15, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que o evento que deu origem ao crédito discutido é anterior ao pedido de recuperação judicial da recorrente e, portanto, deve ser submetido aos seus efeitos.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da jurisprudência pacífica do STJ
+Consoante a jurisprudência pacífica do STJ, firmada no julgamento de recurso especial repetitivo, a existência do crédito é determinada pela data em que ocorreu o seu fato gerador para fins de sua submissãona recuperação judicial (Resp 1.843.332/RS, Segunda Seção, DJe 17/12/2020; Tema 1051/STJ).
+Na espécie, o acórdão recorrido consignou que "o crédito objeto de execução foi constituído em 21/03/2019, data em que transitou em julgado a sentença exequenda, ou seja, trata-se de crédito constituído após o pedido de decretação da recuperação judicial" (e-STJ, fl. 141), ocorrido em 20/6/2016, e concluiu que o "crédito exequendo  ..  não se submete ao plano de recuperação judicial" (e-STJ, fl. 142).
+Tal entendimento - que trata o crédito em questão como sendo de natureza extraconcursal, já que o excluidos efeitos da recuperação judicial da empresa devedora, considerando, para tanto, o trânsito em julgado da sentença que o reconhece, em vez da data em ocorreu o seu fato gerador-,destoa da jurisprudência desta Corte acima referida e, portanto, merece reforma.
+Assim, a irresignação procede,devendo ser afastado o argumento invocado pelo Tribunal de origem para reconhecer a extraconcursalidade do crédito exequendo.
+Forte nessas razões, CONHEÇO do recurso especial, para DAR-LHE PROVIMENTO, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, para afastar o argumento invocado pelo Tribunal de origem e reconhecer que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador para fins de sua submissão na recuperação judicial.
+Por conseguinte, determino o retorno dos autos ao Tribunal de origem, a fim de que analise a questão de direito aqui tratada, à luz do entendimento jurisprudencial desta Corte.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. CRÉDITO EXEQUENDO.EXISTÊNCIA. FATO GERADOR. SUBMISSÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. ACÓRDÃORECORRIDO EM DISSONÂNCIA COM O ENTENDIMENTO DO STJ.
+1. Consoante o entendimento do STJ, a existência do crédito é determinada pela data em que ocorreu o seu fato gerador para fins de sua submissão na recuperação judicial.
+2. Recurso especial provido.
