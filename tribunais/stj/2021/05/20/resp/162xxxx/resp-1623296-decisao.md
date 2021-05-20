@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSELIA VALENTIM DA SILVA E OUTROS, com fundamento nas alíneas "a" e "c" do permissivo constitucional, em face de acórdão prolatado pelo Tribunal de Justiça do Estado de Rondônia, assim ementado (fls. 336-342, e-STJ):
+Apelação cível. Expurgos inflacionários. Entendimento jurisprudencial. Mudança. Execução provisória. Desistência. Pedido. Honorários. Incabíveis. Considerando que tão logo os exequentes tiveram conhecimento da decisão que acolheu a prescrição da ação principal (ação civil pública coletiva) requereram a desistência da execução provisória, o que demonstra a boa-fé processual, já que a desistência da ação se deu em razão de superveniente mudança de entendimento do Superior Tribunal de Justiça, e que prejuízo algum teve a instituição financeira, que até foi beneficiada com a desistência, não cabe a condenação em honorários de advogados da parte contrária.
+Opostos embargos de declaração (fls. 340-348 e 360-364, e-STJ), esses foram rejeitados (fls. 353-358 e 369-374, e-STJ).
+Nas razões do recurso especial (fls. 376-414, e-STJ), a recorrente, além de dissídio jurisprudencial, aponta violação seguintes artigos:
+(i) 535 do CPC/1973, pois o acórdão recorrido é omisso em relação às questões suscitadas em embargos de declaração;
+(ii) 26 e 475-O do CPC/1973, 22 da Lei 8906/94, já que é devida a fixação de honorários advocatícios no caso em tela;
+Contrarrazões às fls. 421-425, e-STJ.
+É o relatório.
+Decido.
+O inconformismo merece parcial provimento.
+1. Inicialmente, pontua-se que, consoante a jurisprudência deste Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Salienta-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que, em sua decisão, discorra sobre todas as questões fundamentais para a correta solução da controvérsia.
+No caso em tela, verifica-se que o Tribunal de origem, de modo expresso e fundamentado, consignou que não seriam devidos honorários advocatícios no caso em tela.
+Nota-se, portanto, que as alegações vertidas pela insurgente não denotam omissões, contradições ou obscuridades do aresto impugnado, mas tão somente traduzem seu inconformismo em relação ao acolhimento da tese jurídica defendida pela parte adversa.
+Assim, não há se falar em violação ao art. 535 do CPC/2015 na espécie, uma vez que a Corte local, de modo satisfativo e sólido, apreciou todos os pontos necessários para o julgamento do caso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NÃO OCORRÊNCIA DE VIOLAÇÃO AO ART. 489, § 1º, DO CPC/2015 E AO ART. 93, IX, DA CF/88. DECISÃO MONOCRÁTICA - ORA AGRAVADA - DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL QUE EXAMINOU OS PONTOS ESSENCIAIS AO DESLINDE DA CONTROVÉRSIA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 139, I, E 373, II, DO CPC/2015 E ART. 324 DO CÓDIGO CIVIL. PRETENSÃO DE REDISCUTIR MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Os vícios a que se refere o art. 1.022 do CPC/2015 - art. 535 do CPC/73 - são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, de modo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. Na espécie, deve ser rejeitada a violação ao art. 1.022 do CPC/2015, pois não existem vícios no v. acórdão estadual, que examinou os pontos essenciais ao desate da lide.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS DECORRENTE DE ACORDO JUDICIAL INADIMPLIDO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 20, §§ 3º E 4º, DO CPC/1973. CRITÉRIO DE EQUIDADE. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 4. AGRAVO IMPROVIDO.
+1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018)
+2. Conforme proposto pela jurisprudência desta Corte, extinto o processo de execução provisória, devem os exequentes pagar honorários advocatícios ao executado, na medida em que foram responsáveis pelo início de tal procedimento, cuja natureza é de notória provisoriedade. Precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO APELO NOBRE DA PARTE ADVERSA. EXECUÇÃO PROVISÓRIA. SUPERVENIÊNCIA DE DECISÃO DA SUPERIOR INSTÂNCIA NOS AUTOS PRINCIPAIS. PREJUDICADO O FEITO EXECUTIVO. POSSIBILIDADE DE FIXAÇÃO DE HONORÁRIOS. SISTEMÁTICA ANTERIOR À LEI N. 11.232/2005.
+PRECEDENTES DO STJ. CRITÉRIOS DE EQUIDADE E PROPORCIONALIDADE ATENDIDOS.
+1. De acordo com a jurisprudência desta Corte, "extinto o processo de execução provisória (..), a embargada deve pagar os honorários do patrono da embargante, pois foi ela quem tomou a iniciativa de promover o processo de execução provisória, que era um direito seu, mas sujeito ao risco próprio da provisoriedade." (AgRg no REsp 432.204/MG, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, QUARTA TURMA, DJ 19/12/2002) 2. Forçoso concluir que a razoabilidade, aliada aos princípios da equidade e proporcionalidade, deve pautar o arbitramento dos honorários. Assim, razoável a fixação de verba honorária em valor fixo, com base em critério de equidade.
+3. Agravo interno não provido.
+(AgInt no REsp 1353408/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/08/2020, DJe 26/08/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSOS ESPECIAIS. EXECUÇÃO PROVISÓRIA. LEI VIGENTE À DATA DA SENTENÇA. CPC/1973. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. VERBA DEVIDA. GRATUIDADE DE JUSTIÇA.
+SUSPENSÃO DA EXIGIBILIDADE. FIXAÇÃO POR APRECIAÇÃO EQUITATIVA.
+IRRISORIEDADE DA VERBA. MAJORAÇÃO PARA 1% DO VALOR ATUALIZADO DA CAUSA.
+1. Cuida-se, na origem, de execução provisória extinta sem resolução do mérito, por perda de objeto.
+2. A Corte Especial do STJ, ao julgar o EAREsp 1.255.986/PR, fixou o entendimento de que a data da sentença é o marco temporal a ser considerado para definição da norma de regência aplicável ao arbitramento de honorários de sucumbência. Assim, considerando que, no particular, a sentença foi prolatada no ano de 2014, a fixação dos honorários advocatícios se sujeita às normas do CPC/73.
+3. À luz do princípio da causalidade, são devidos honorários advocatícios, em favor dos executados, quando, após o trânsito em julgado da fase de conhecimento, a execução provisória é extinta, devido à reforma do título judicial. Precedentes.
+4. A concessão da gratuidade de justiça não afasta a responsabilidade do beneficiário pelo pagamento dos honorários advocatícios de sucumbência, apenas sujeitando a exigibilidade de tal verba à condição suspensiva de que trata o art. 12 da Lei 1.060/50. Precedentes.
+5. Segundo o entendimento firmado pelo STJ à luz do CPC/73, são irrisórios os honorários advocatícios fixados em patamar inferior a 1% sobre o valor da causa. Precedentes.
+6. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1733486/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/02/2020, DJe 12/02/2020)
+AGRAVO REGIMENTAL - EXECUÇÃO PROVISÓRIA - INVERSÃO DO JULGAMENTO NOS AUTOS PRINCIPAIS - DESCONSTITUIÇÃO DO TÍTULO EXECUTIVO - PERDA DE OBJETO DO PROCESSO DE EXECUÇÃO - EXTINÇÃO - HONORÁRIOS ADVOCATÍCIOS - CONDENAÇÃO DO EXEQÜENTE - CABIMENTO - RECURSO IMPROVIDO.
+(AgRg no AgRg no REsp 979.413/MG, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 18/12/2008, DJe 05/02/2009)
+No caso em tela, verifica-se que os ora recorridos, em razão de superveniente decisão que reconheceu a prescrição da pretensão vindicada, requereram a desistência da presente execução provisória.
+Não obstante, assentou a Corte local que a extinção do feito não geraria o dever de pagamento de honorários advocatícios aos representantes da executada (fls. 341-342, e-STJ):
+Após homologação dos cálculos apresentados pelos exequentes, declarando como devida a quantia de R$41.678,36, atualizada até 8/2009, sobre a qual determinou incidir o valor de 10% de honorários, na fase de execução (fls.244),os exequentes, ora apelados, requereram a desistência da execução, informando que o Superior Tribunal de Justiça, pelo julgamento do REsp n. 1.050.758/SP, reconheceu a prescrição da ação civil pública exequenda, seguindo o novel entendimento de que o prazo de ajuizamento de ações civis públicas prescreve em cinco anos.
+Ressaltaram que, por se tratar de uma mudança de entendimento do Superior Tribunal de Justiça, que ainda iria gerar muita discussão, prudente seria o pedido de desistência da ação, que resultaria na consequente extinção do feito e devolução do numerário depositado em conta judicial à instituição financeira (fls.249/250).
+Observe-se que, tão logo que os exequentes, ora apelados, tiveram conhecimento da decisão que acolheu a prescrição da ação principal (ação civil pública coletiva), requereram a desistência da execução provisória, o que demonstra a boa fé processual. Mesmo porque a desistência da ação se deu em razão de superveniente mudança de entendimento do Superior Tribunal de Justiça.
+Ademais, a execução provisória, dada a sua natureza, pode ser extinta a qualquer tempo, e os honorários de advogados não são devidos pelos apelados, porque, à época da propositura da ação, tinham causa justificada.
+Por outro lado, prejuízo algum teve a instituição financeira, que até foi beneficiada com a desistência e, consequentemente, os seus advogados, já que estava sendo demandada a pagar, a título de expurgos inflacionários, a quantia de R$41.678,36, aos correntistas, mais os honorários da parte contrária.
+Nesse contexto, de rigor o parcial provimento do apelo, com a consequente determinação de retorno dos autos à origem, para que, assentada a necessidade de fixação de honorários advocatícios em razão da extinção da execução provisória, sejam estes fixados em patamar adequado à atuação dos advogados atuantes na causa, à luz das particularidades do caso.
+2. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, dá-se parcial provimento ao recurso especial. Por conseguinte, determina-se retorno dos autos à origem, para que, assentada a necessidade de fixação de honorários advocatícios em razão da extinção da execução provisória, sejam estes fixados em patamar adequado à atuação dos advogados atuantes na causa, à luz das particularidades do caso.
+Publique-se.
+Intimem-se.
