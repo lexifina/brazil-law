@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por CARLOS EDUARDO RAMOS DE CERQUEIRA, contra decisão que não admitiu recurso especial (fls. 501/504, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 408, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE REPETIÇÃO DE INDÉBITO, CUMULADA COM PRETENSÃO INDENIZATÓRIA. IMÓVEL ADQUIRIDO NA PLANTA.CONTRATO PARTICULAR DE PROMESSA DE COMPRA E VENDA COM DATA PREVISTA PARA A ENTREGA DA UNIDADE EM JANEIRO DE 2011, MAIS PRORROGAÇÃO DE 180 DIAS. CHAVES ENTREGUES EM DEZEMBRO DE 2011. EXISTENCIA DE POSTERIOR CONTRATO DE MÚTUO FIRMADO COM A CAIXA ECONOMICA FEDERAL, NA CATEGORA DE PROGRAMA IMÓVEL NA PLANTA, EM QUE A OBRA É FINANCIADA POR PESSOAS FÍSICAS, AMORTIZANDO-SE O SALDO DEVEDOR A PARTIR DA AVERBAÇÃO DO HABITE-SE. LEGITIMIDADE DO FINANCIAMENTO O QUAL AJUSTOU NOVOS PRAZOS PARA A CONCLUSAO DO EMPREENDIMENTO, PORQUANTO A OBRA AINDA NÃO TINHA SIDO FINALIZADA. AUSENCIA DE MORA DA INCORPORADORA. IMPROCEDENCIA QUE SE MANTÉM. DESPROVIMENTO DO RECURSO.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial, o recorrente aponta ofensa aos artigos 43 e 44 da Lei 4.591/61; 395, 400 e 402 do CC/02.
+Sustenta, em síntese, que as recorridas devem responder pelos prejuízos causados, em razão do seudescumprimento contratual.
+Contrarrazões (fls. 478/499, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob o fundamento de que aplicáveis ao caso asSúmulas 7 e 83 do STJ.
+Daí o presente agravo (art. 1042 do CPC/15), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. (e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Com efeito, o Tribunal de origem, ao negar provimento ao recurso de apelação do ora insurgente, confirmandoa sentença,concluiu, expressamente, que não houve mora da incorporadora, bem como que a conclusão da obrase deu dentro do prazo assinalado.
+É o que se extrai do seguinte excerto do aresto impugnado (fls. 411/414, e-STJ):
+Do processado, verifica-se que as partes firmaram contrato de compra e venda do imóvel denominado unidade 402, Bl. 02, Residencial Queen Victoria, pelo valor de R$ 191.615,89 (cento e noventa e um mil e seiscentos e quinze reais e oitenta e nove centavos), mediante pagamento de sinal de R$ 30.549,89 (trinta mil e quinhentos e quarenta e nove reais e oitenta e nove centavos), mais 17 parcelas de R$ 1.000,00 (um mil reais), parcela única de R$ 7.170,00 (sete mil e cento e setenta reais), e saldo final de R$ 136.896,00 (cento e trinta e seis mil e oitocentos e noventa e seis reais), através de uma única parcela, com vencimento na entrega das chaves, com recursos próprios, ou financiamento imobiliário.
+(..)
+Por sua vez, a incorporadora afirma que houve erro no preenchimento da promessa de compra e venda, o que foi retificado quando da assinatura do contrato firmado com a Caixa Econômica Federal, onde se estipulou o prazo para a entrega de unidade em até 18 meses, a contar da assinatura do instrumento (29/11/2011).
+Com efeito, o contrato firmado com a CEF previu prazo diverso, ou seja, de 18 meses, a contar de sua assinatura, para a conclusão das obras, e de 360 meses para a amortização do saldo devedor.
+(..)
+Note-se que tal ajuste foi classificado como instrumento particular de compra e venda de terreno e mútuo para construção de unidade habitacional com fiança, alienação fiduciária em garantia e outras obrigações  Programa Imóvel na Planta. Consta do referido contrato que o empreendimento integra o Programa Apoio à Produção de Habitações, na forma da norma regulamentadora HH122.100  28/11/2011 (SUHAB/GECRI), constante do item c-2, vigente à época de concessão do empréstimo.
+(..)
+Como já visto, o prazo de construção da unidade era de até 18 meses, a contar da assinatura do contrato firmado com a instituição financeira, em 29/11/2011, o que tornaria a data limite para entrega da obra maio/2013.
+Todavia, as informações prestadas pela Caixa Econômica Federal denotam que a obra se iniciou em março de 2010, sendo concluída em março/2012, passando o saldo devedor do consumidor ser amortizado a partir de abril/2012.
+(..)
+E, apesar do financiamento com a Caixa Econômica Federal ter sido firmado em 29/11/2011, na categoria Programa Imóvel na Planta, as chaves do imóvel foram entregues menos de um mês após sua assinatura, em 12/12/2011.
+Convém colacionar, ainda, o trecho da r. sentença recorrida no ponto (fl. 349, e-STJ):
+15. Nenhum destes pedidos encontra amparo na prova dos autos;
+16. Inicialmente destaque-se que - considerando o prazo de tolerância - de 180 dias não houve qualquer atraso na entrega da unidade do demandante. Observe-se que tal assertiva está amparada pela declaração do agente financeiro - CEF - às fls. 287, na qual literalmente deixa claro que "RATIFICAMOS QUE A OBRA FOI CONCLUIDA DENTRO DO PRAZO";
+17. Não havendo atraso, não há o que ressarcir a tal titulo, sendo, portanto, improcedentes os pedidos indenizatórios - danos materiais e morais;
+Desse modo, inevitavelmente, para rever tais conclusões, seria imprescindível a incursão na seara probatória dos autos e a interpretação das cláusulas contratuais, o que não é permitido nesta instância especial, nos termos das Súmulas 5 e 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL NÃO VERIFICADO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA. 1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ. 2. No caso concreto, o Tribunal de origem concluiu que não houve atraso na entrega do imóvel apto a provocar danos aos agravantes. Alterar esse entendimento demandaria o reexame de matéria fática, o que é vedado em recurso especial. 3. Agravo interno a que se nega provimento. (AgInt no AREsp 1739181/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/02/2021, DJe 12/02/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROMESSA DE COMPRA E VENDA. PROGRAMA MINHA CASA MINHA VIDA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. IMÓVEL. ENTREGA. ATRASO. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ). 2. Ação de indenização na qual se alega atraso na entrega de imóvel objeto de contrato de promessa de compra e venda. Programa Minha Casa Minha Vida. 3. No caso concreto, não subsiste a alegada ofensa ao art. 1.022 do CPC/2015, pois consta do acórdão recorrido o exame de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia. 4. Na hipótese, o tribunal local, a partir da análise dos termos contratuais e das provas constantes dos autos, entendeu que não houve atraso na entrega do imóvel. Rever tal conclusão esbarraria nos óbices das Súmulas nºs 5 e 7/STJ. Precedente. 5. Agravo interno não provido. (AgInt no AREsp 1296974/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/12/2018, DJe 14/12/2018)
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nego provimento ao recurso.
+Publique-se.
+Intimem-se.
