@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo, interposto por VCS EMPREENDIMENTOS IMOBILIÁRIOS LTDA, em face de decisão que não admitiu recurso especial.
+O apelo extremo, a seu turno, fundamentado nas alíneas "a" e "c" do permissivo constitucional, foi manejado em face de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+CIVIL E PROCESSO CIVIL. AGRAVO INTERNO. PROCURADOR. RENÚNCIA AO MANDATO. DETERMINAÇÃO PARA REGULARIZAR REPRESENTAÇÃO PROCESSUAL. NÃO ATENDIMENTO. NÃO CONHECIMENTO DO RECURSO. APELAÇÃO. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. INADIMPLEMENTO CONTRATUAL. RESCISÃO. POSSIBILIDADE. ART. 475, CC. LUCROS CESSANTES. CLÁUSULA PENAL. CUMULAÇÃO. IMPOSSIBILIDADE. TEMA 970, STJ. 1. Após a comunicação da renúncia do mandato do procurador, a construtora/apelante foi intimada a regularizar sua representação processual no endereço declinado nos autos, sendo frustradas as intimações por via postal e por oficial de justiça; 2. A parte tem o dever de manter atualizado o seu endereço, nos termos do art. 77, inciso V, CPC, de forma que presume-se efetivada a intimação recebida no endereço constante dos autos (precedentes); 3. Não atendida a determinação para regularizar a representação processual, no prazo de 10 (dez) dias, o art. 76, § 2º, CPC, determina que o Relator não conheça do recurso, se a parte é recorrente, e determine o desentranhamento das contrarrazões, se a parte é recorrida. 4. O simples fato do consumidor ajuizar a ação após averbação do habite-se e estando o imóvel disponível para o adquirente não descaracteriza o inadimplemento contratual da construtora, apto à rescisão do contrato; 5. O Código Civil conferiu à parte a faculdade de escolher entre a resolução contratual  na modalidade rescisão  ou o cumprimento da obrigação, não competindo ao juiz substituir sua declaração de vontade; 6. O Superior Tribunal de Justiça firmou o entendimento, em sede de recurso repetitivo, no sentido de que é vedada a cumulação de lucros cessantes com a cláusula penal moratória, conforme o tem 970. 7. Agravo interno conhecido e desprovido. Apelo do autor conhecido e parcialmente provido.Unânime.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, a parte insurgente alegaviolação ao artigo395, § único, do Código Civil. Aduz que "Por mais que eventual mora gere ao adquirente o direito de ser ressarcido por perdas e danos, o contrato deve ser preservado. A mera insatisfação pessoal do credor, ainda que intensa, não é suficiente para autorizar a recusa unilateral da prestação, desde que seja possível, objetivamente, preservar o sinalagma. Uma vez que o imóvel foi efetivamente posto à disposição do adquirente, propiciando a possibilidade de aperfeiçoamento do ajuste, percebe-se que a resolução deve se dar por culpa exclusiva do recorrido, que deixou de ter interesse na avença.".
+Em juízo de admissibilidade, o apelo nobre foi inadmitido, razão pela qual foi interposto o agravo de fls. 645/649, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1.Com efeito, da leitura do acórdão recorrido, verifica-se que o conteúdo legal doartigo 395, § único, do Código Civil não foi analisado. Aliás, a apelação manejada pela ora recorrente sequer foi conhecidaporquanto não atendida a determinação para regularizar a representação processual, no prazo de 10 (dez) dias.
+Portanto, incide, na espécie, aSúmula211 do STJante a ausência de prequestionamento, porquanto ateseventiladanão foIobjeto do competente juízo de valor aferido pelo Tribunal de origem.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos por vulnerados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Sobre o tema:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA CUMULADA COM NULIDADE DE ATO JURÍDICO E COBRANÇA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. REVISÃO DO JULGADO. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. É inadmissível o recurso especial quanto à questão que não foi apreciada pelo Tribunal de origem. Incidência das Súmulas n. 282 e 356/STF.
+ ..
+(AgRg no AREsp 748.084/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/11/2015, DJe 27/11/2015)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE VISTA AO MINISTÉRIO PÚBLICO FEDERAL. NÃO OCORRÊNCIA. REVISÃO CRIMINAL. VIOLAÇÃO AO ART. 621, I, DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO IMPROVIDO.
+ ..
+2. Não se conhece da arguida violação ao art. 621, I, do Código de Processo Penal, ante a ausência de prequestionamento, requisito indispensável, a teor dos enunciados sumulares 282 e 356/STF.
+3. Segundo o entendimento desta Corte, ainda que a suposta violação de lei federal tenha surgido no julgamento do acórdão recorrido, é indispensável a oposição de embargos de declaração para que o Tribunal de origem se manifeste sobre a questão, sob pena de não se ter por satisfeito o requisito do prequestionamento.
+4. Agravo regimental improvido.
+(AgRg no REsp 1.112.981/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/11/2015, DJe 23/11/2015)
+2.Do exposto, com fundamento no art. 932 do NCPC c/c a Súmula 568/STJ, nego provimento ao reclamo.
+Publique-se.
+Intimem-se.
