@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DA AMAZÔNIA, com fundamento nas alíneas "a" e "c" do permissivo constitucional, em face de acórdão prolatado pelo Tribunal de Justiça do Estado do Tocantins, assim ementado (fls. 725-737, e-STJ):
+INDENIZATÓRIA. INEXISTÊNCIA DE DÍVIDA. CÉDULA DE CRÉDITO BANCÁRIO. DESTINAÇÃO INDEVIDA DO VALOR CONTRATADO. FALHA NA PRESTAÇÃO DE SERVIÇO BANCÁRIO. RESPONSABILIDADE CIVIL. 1. A destinação de verba objeto de cédula de crédito bancário ao pagamento de produtos não adquiridos pelo mutuário configura falha na prestação do serviço bancário e dá ensejo à declaração da inexistência da dívida, além da responsabilização civil pelos danos causados. INSERÇÃO EM CADASTROS DE INADIMPLENTES. DANO MORAL. DESNECESSIDADE DE PROVA. CONDIÇÕES PESSOAIS E ECONÔMICAS DOS LITIGANTES. PROPORCIONALIDADE. 2. Acondenação de instituição financeira a pagamento de R$ 10.000,00 (dez mil reais) a título de indenização por danos morais decorrentes da inserção indevida de dados de produtor rural de agricultura familiar em cadastros de inadimplentes respeita proporcionalmente a realidade fática dos litigantes e a finalidade reparadora e pedagógica do instituto. DANO MATERIAL. AUSÊNCIA DE COMPROVAÇÃO.IMPROCEDÊNCIA. 3. É improcedente o pedido de indenização por danos materiais quando, a despeito da completa instrução processual, inexiste prova do efetivo prejuízo.
+Opostos embargos de declaração (fls. 753-777, e-STJ), esses foram rejeitados (fls. 873-877, e-STJ).
+Nas razões do recurso especial (fls. 880-922, e-STJ), a recorrente, além de dissídio jurisprudencial, aponta violação seguintes artigos:
+(i) 1022 do CPC/2015, na medida em que o acórdão recorrido seria omisso em relação aos seguintes pontos: a) existência prevenção de órgão julgador distinto daquele que apreciou o recurso de apelação; b) os agricultores firmaram contratos individuais, mas executaram em conjunto a lavoura; c) fundamentos utilizados pela turma julgadora que apreciou inicialmente o feito;
+(ii) 333 e 130 do CPC/2015, pois a parte autora, ora recorrida, é que deveria comprovar que não utilizou os recursos disponibilizados pelo banco, mas, sim, capital próprio;
+Não foram apresentadas contrarrazões (fls. 1045, e-STJ).
+É o relatório.
+Decido.
+O inconformismo merece parcial provimento.
+1. Inicialmente, pontua-se que, consoante a jurisprudência deste Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Salienta-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que, em sua decisão, discorra sobre todas as questões fundamentais para a correta solução da controvérsia.
+No caso em tela, verifica-se que o Tribunal de origem, de modo expresso e fundamentado, consignou que os agricultores firmaram contratos individuais para atuarem em terreno arrendado. Citou, contudo, que os recursos relativos à cédula de crédito foram liberados a terceiros, sem comprovação de que seriam destinados àquela produção. Apontou que tal fato denotaria falha na prestação do serviço por parte da instituição financeira, que não poderia exigir o débito do signatário da cédula.
+Destacou, ao fim, que a adoção de posicionamento diverso sobre o tema por parte de outra câmara julgadora não teria o condão de vincular a apreciação dos fatos debatidos nos autos.
+Nota-se, portanto, que não subsistem as alegadas omissões/contradições referentes às questões ligadas à forma de contratação do mútuo e apreciação do tema por outro órgão jurisdicional.
+Trata-se, portanto, de apontamentos que não denotam omissões, contradições ou obscuridades do aresto impugnado, mas tão somente traduzem seu inconformismo em relação ao acolhimento da tese jurídica defendida pela parte adversa.
+Assim, não há se falar em violação ao art. 1022 do CPC/2015 em relação às referidas questões, uma vez que a Corte local, de modo satisfativo e sólido, apreciou todos os pontos necessários para o julgamento do caso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NÃO OCORRÊNCIA DE VIOLAÇÃO AO ART. 489, § 1º, DO CPC/2015 E AO ART. 93, IX, DA CF/88. DECISÃO MONOCRÁTICA - ORA AGRAVADA - DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL QUE EXAMINOU OS PONTOS ESSENCIAIS AO DESLINDE DA CONTROVÉRSIA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 139, I, E 373, II, DO CPC/2015 E ART. 324 DO CÓDIGO CIVIL. PRETENSÃO DE REDISCUTIR MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Os vícios a que se refere o art. 1.022 do CPC/2015 - art. 535 do CPC/73 - são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, de modo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. Na espécie, deve ser rejeitada a violação ao art. 1.022 do CPC/2015, pois não existem vícios no v. acórdão estadual, que examinou os pontos essenciais ao desate da lide.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS DECORRENTE DE ACORDO JUDICIAL INADIMPLIDO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 20, §§ 3º E 4º, DO CPC/1973. CRITÉRIO DE EQUIDADE. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 4. AGRAVO IMPROVIDO.
+1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018)
+1.1. Contudo, tem-se que a tese referente à existência de prevenção de órgão julgador distinto para a apreciação da controvérsia subsiste omissão, não sanada mesmo após o manejo de embargos de declaração.
+Com efeito, verifica-se que a Corte local limitou-se a afastar o caráter vinculante de julgamento realizado por outra câmara do Tribunal de Justiça, sem enfrentar a alegada prevenção, que afastaria sua competência para o julgamento da causa.
+Logo, de rigor o reconhecimento de negativa de prestação jurisdicional em relação a tal ponto. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. INSTRUMENTO PARTICULAR DE RESCISÃO CONTRATUAL. ART. 535 DO CPC/1973. VIOLAÇÃO. OMISSÃO NÃO SANADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Constatada a existência de omissão não sanada no acórdão proferido pelo Tribunal local, a despeito da interposição de embargos de declaração, é de rigor o reconhecimento de violação do art. 535 do Código de Processo Civil de 1973, por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. Agravo interno não provido.
+(AgInt no AREsp 889.277/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/06/2018, DJe 26/06/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TELEFONIA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AÇÃO DE ADIMPLEMENTO CONTRATUAL. MODALIDADE. PCT. OMISSÃO DO ACÓRDÃO RECORRIDO. OCORRÊNCIA. AGRAVO INTERNO PROVIDO.
+1. Há violação do art. 535 do CPC/73 quando, apesar do requerimento da parte, a Corte de origem se recusa a se manifestar sobre as questões federais que lhe foram apresentadas por ocasião dos embargos de declaração, relevantes ao deslinde da controvérsia.
+2. Agravo interno provido para dar parcial provimento ao recurso especial, com determinação do retorno dos autos ao Tribunal de origem para que sane as omissões verificadas.
+(AgInt no AREsp 843.220/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 12/06/2018, DJe 19/06/2018)
+2. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, dou parcial provimento ao recurso especial. Assim, determino a anulação do acórdão que julgou os embargos de declaração (fls. 873-877, e-STJ), com a consequente devolução dos autos ao Tribunal a quo, a fim de que profira novo julgamento, sanando a omissão ora apontada.
+Publique-se.
+Intimem-se.
