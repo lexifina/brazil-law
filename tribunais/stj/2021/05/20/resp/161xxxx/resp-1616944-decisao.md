@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, mediante o qual se impugna acórdão, proferido pelo Tribunal Regional Federal da 4ª Região, que fixou honorários de sucumbência.
+No Recurso Especial, a ora recorrente sustenta e requer o seguinte:
+"(..) tendo em vista o acórdão (Evento 51) proferido em face da decisão do STJ (Evento 39- DEC4) que deu provimento a Recurso Especial da União para determinar o retorno dos autos a esta Corte, a fim de serem analisados os critérios legais para a fixação, no caso, do valor dos honorários de sucumbência, conforme as alíneas do § 3º do art. 20 do CPC/73, e considerando que tal acórdão acolheu os embargos declaratórios porém manteve teor do julgamento, sem alterar o resultado da decisão original, vem RE-RATIFICAR os termos do Recurso Especial interposto no Evento 20, requerendo seja o mesmo devidamente recebido, admitido e remetido ao Eg. Superior Tribunal de Justiça.
+Desta forma, retifica a União o Recurso Especial para excluir-lhe o capítulo 2.3, intitulado "Da violação ao art. 20 e pars. 3º e 4º do CPC/73", e, no capítulo 2.1, a parte final do primeiro parágrafo do tópico, onde se lê "e quanto à explicitação dos critérios adotados pela Turma julgadora na fixação dos honorários de sucumbência", ficando ratificados todos os demais termos da irresignação.
+ISSO POSTO, REQUER a juntada da presente aos autos, reiterando seja devidamente processado e admitido o Recurso Especial ora re-ratificado" (fl. 336e).
+Recurso Especial admitido (fl. 344e).
+A irresignação não merece prosperar.
+Evidente a impropriedade formal do recurso.
+Com efeito, uma vez tendo sido dado provimento, neste STJ, mediante a decisão de fls. 288/294e, aoRecurso Especial de fls. 246/258e, com o consequente rejulgamento dos Embargos Declaratórios de fls. 225/229e, no Tribunal de origem, mediante oacórdão de fls. 321/330e, nada mais há a ser julgado, na presente hipótese.
+Se a Fazenda recorrente entende que do novo julgamento realizado pelo Tribunal de origem restouofendida, mais uma vez,legislação federal, seria o caso de interposição de novo Recurso Especial, a atacar especificamente os fundamentos desse novo decisum, não de "re-ratificar", "retificar em parte" ou "ratificar na outra" o referido recurso. Não há como se ratificar ou retificar o que já se encontra definitivamente julgado.
+Apenas para ressaltar a inadequação processual dessa "re-ratificação", basta notar que a fundamentação exposta no decisum de fls. 225/229, no que se justificou a fixação dos honorários com base na ponderação efetiva dos critérios estabelecidos nas alíneas do § 3º do art. 20 do CPC/73, não foi objeto de impugnação específica, na petição de "re-ratificação" do Recurso Especial- fato que, por si só, impõeo não conhecimento do recurso(Súmula 182/STJ, por analogia).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheçodo Recurso Especial.
+I.
