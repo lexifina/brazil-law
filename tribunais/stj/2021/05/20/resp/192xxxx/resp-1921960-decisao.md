@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de origem, assim ementado (fl. 236):
+JUÍZO DE RETRATAÇÃO. APELAÇÃO CÍVEL. SENTENÇA QUE RECONHECEU DE OFÍCIO A PRESCRIÇÃO INTERCORRENTE. ACÓRDÃO QUE NEGOU PROVIMENTO AO RECURSO DE APELAÇÃO. SENTENÇA MANTIDA. RECURSO ESPECIAL INTERPOSTO PELA FAZENDA PÚBLICA. REMESSA FEITA PELA 1ª VICE-PRESIDÊNCIA DESTA CORTE, A FIM DE POSSIBILITAR O JUÍZO DE RETRATAÇÃO.SUPERVENIÊNCIA DO RESP Nº 1.340.553/RS, QUE FIXOU A SISTEMÁTICA DE CONTAGEM DO PRAZO PRESCRICIONAL INTERCORRENTE. SENTENÇA QUE DEIXOU DE INDICAR OS MARCOS INTERRUPTIVOS E DE INTIMAR PREVIAMENTE O ENTE FAZENDÁRIO PARA SE MANIFESTAR A RESPEITO DA PRESCRIÇÃO. ÚLTIMO MARCO INTERRUPTIVO DA PRESCRIÇÃO OCORRIDO NO DIA 01.10.2007.PRAZO PRESCRICIONAL INICIADO AUTOMATICAMENTE. SENTENÇA PROFERIDA 13.11.2013. PRAZO DE 6 ANOS DECORRIDO. ANULAÇÃO DA SENTENÇA PELA MERA INOBSERVÂNCIA DAS REFERIDAS FORMALIDADES QUE NÃO SURTIRIA QUALQUER EFEITO PRÁTICO SENÃO A MOVIMENTAÇÃO DA MÁQUINA JUDICIÁRIA. PRETENSÃO EXECUTÓRIA INVARIAVELMENTE FULMINADA PELA PRESCRIÇÃO INTERCORRENTE. ACÓRDÃO MANTIDO. JUÍZO DE RETRATAÇÃO NÃO EXERCIDO.
+Os embargos de declaração foram rejeitados conforme fls. 266-269.
+No apelo especial, o recorrente alega violação ao art. 535, II, do CPC/1973; argumenta que o acórdão do Tribunal de origem não se manifestou sobre a norma do art. 40, §§2º e 4º, LEF, que estabelece o termo inicial da contagem da prescrição intercorrente.
+Sem Contrarrazões.
+Juízo positivo de admissibilidade à fl. 315.
+É o relatório. Passo a decidir.
+Preliminarmente, a análise pormenorizada dos presentes autos evidencia que o acórdão recorrido incorreu em afronta ao art. 535, II, do CPC/1973. Isso porque aquela Corte ao rejeitar os embargos do recorrente furtou-se a emitir juízo a respeito de ponto de suma relevância para o deslinde da controvérsia, qual seja:a norma do art. 40, §§2º e 4º, da LEF,estabelecendo qual seria o termo inicial da contagem da prescrição intercorrente.
+Nesse sentido, ao rejeitar os embargos de declaração do ora recorrente, era mister da corte de origem se pronunciar no concernente à questão supra, em homenagem ao princípio do tantum devolutum quantum appellatum que o recurso de apelação encerra, porquanto é defeso ao Superior Tribunal de Justiça debruçar-se sobre a questão ventilada nos embargos de declaração pela primeira vez.
+Isso posto, dou provimento ao Recurso Especial para declarar violado o art. 535, II, do CPC/1973. E, como consectário, determino a remessa dos presentes autos ao Tribunal de origem, a fim de que aquela Corte se manifeste sobre a matéria articulada nos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS PELO TRIBUNAL A QUO. OMISSÃO EVIDENCIADA. AFRONTA AO ART. 535 DO CPC/1973CONFIGURADA.RECURSO ESPECIAL PROVIDO.
