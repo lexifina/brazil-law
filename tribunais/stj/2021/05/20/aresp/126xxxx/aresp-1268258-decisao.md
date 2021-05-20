@@ -1,0 +1,29 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. PRESCRIÇÃO AFASTADAMEDIANTE A ANÁLISE DA DOCUMENTAÇÃO ACOSTADA AOS AUTOS, TENDO O TRIBUNAL DE ORIGEM CONSTATADO QUE ACONSTITUIÇÃO DO CRÉDITO E A CITAÇÃO SE DERAM ANTES DE TRANSCORRIDOS 5 ANOS. NECESSIDADEDE REVOLVIMENTO DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Agrava-se dedecisão que negou seguimento ao Recurso Especial de JOSÉ JOÃO ABDALLA FILHO, interposto com fulcro no art. 105, III, alíneas a e c,da Constituição Federal, contra acórdão do TRF da 3a. Região, assim ementado:
+TRIBUTÁRIO. IMPOSTO DE RENDA PESSOA FÍSICA. TRIBUTAÇÃO REFLEXA. ARGUMENTOS DA INICIAL CENTRADOS NA CONCLUSÃO DE QUE O LANÇAMENTO FUNDOU-SE EM DEPÓSITOS BANCÁRIOS, PUGNANDO PELA APLICAÇÃO DA SÚMULA 182, DO EXTINTO TFR.
+QUADRO PROBATÓRIO EMERGENTE DOS AUTOS, INCLUSIVE DO PRÓPRIO AUTO LAVRADO PELOS AGENTES FISCAIS, EVIDENCIANDO TRIBUTAÇÃO REFLEXA ORIUNDA DE LANÇAMENTO EFETUADO NA PESSOA JURÍDICA. INAPLICABILIDADE DO DISPOSTO NO ART. 9º, DO DECRETO-LEI Nº 2.471/88.
+1. Lançamento de imposto de renda pessoa física, decorrente de tributação reflexa daquela implementada na pessoa jurídica da qual é sócia, e fundado em ganhos não oferecidos à tributação e que a norma legal presume distribuído na proporção do capital.
+2. Inaplicável ao caso o disposto no art. 9º, inciso VII, do Decreto-lei nº 2.471/88 e o entendimento cristalizado no verbete da Súmula nº 182 do extinto TFR, pois autuação não decorre de depósitos bancários, mas cuida-se de tributação reflexa, estando comprovado nos autos a manutenção da autuação no âmbito da pessoa jurídica 3. Remessa oficial a que se dá provimento (fls. 315).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 339/349).
+3. Nas razões do Recurso Especial (fls. 353/363), a parte ora agravante aponta, além de divergência jurisprudencial, violação dos arts. 535, II,219, § § 1o., 2o., 4o.e 5o., do CPC/1973, bem como art. 174, do CTN eart. 7ºda Lei 6.830/80. Cita, em prol de sua tese, o julgamentoproferido por esta Corte no EREsp 95.411/SP, a fim de demonstrar a aventada divergência (fls. 361).
+4. Alega, prefacialmente, que, a despeito da oposição dos aclaratórios, persistem omissões no julgado impugnado. E, no mérito, defende a ocorrência da prescrição do crédito tributário.
+5. Com contrarrazões (fls. 416/420), o recurso foi inadmitido na origem (fls. 425/431).
+6. É o relatório.
+7. A irresignação não merece acolhimento.
+8. Inicialmente, inexiste a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de qualquer erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+9. Quanto ao mais, ao afastar a prescrição,o Tribunal de origem consignou:
+No caso em tela, o crédito tributário refere-se a Imposto de Renda, exercícios de 1976 a 1979, e a notificação se deu em 1º-12-1978, conforme consta da CDA de fls. 3, do executivo fiscal em apenso. Assim, não há que se falar em prescrição, eis que não transcorrido o prazo de 5 (cinco) anos até a citação, ocorrida em 17-08-1982, interrompendo o interregno em causa, conforme se vê da certidão de fls. 8, verso, também dos autos em apenso.
+Portanto, desnecessário o debate acerca da aplicação da Súmula nº 106, do Colendo Superior Tribunal de Justiça, bem ainda do disposto no art. 219, do Código de Processo Civil, sendo indiscutível, porém, que a agregação destes dois aspectos reforçaria este desfecho, pois a citação foi implementada dentro do fluxo prescricional (fls. 344).
+10. Como visto acima, o Tribunal de origem, valendo-se da análise da documentação acostada aos autos, apurou que, diversamente do alegado, não há que falar em prescrição, eis que não transcorrido o prazo de 5 anos até a citação, ocorrida em 17.08.1982, de sorte que a inversão do julgado, a fim de se desconstituir tais premissas, importaria nova análise do acervo probatório da causa, o que é inviável em Recurso Especial. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO MONITÓRIA. CERCEAMENTO DE DEFESA. SÚMULA 7/STJ. FUNDAMENTO NÃO ATACADO. SÚMULA 283 DO STF. PRAZO QUINQUENAL PARA O AJUIZAMENTO.SÚMULA 83/STJ. CITAÇÃO VÁLIDA. INÉRCIA NÃO VERIFICADA. PRESCRIÇÃO AFASTADA. REVISÃO. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 772.855/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 28/03/2017, DJe 31/03/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. 1. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 2. TERMO INICIAL DO PRAZO PRESCRICIONAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3. AGRAVO IMPROVIDO.
+1. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+2. Na hipótese, tendo concluído o Tribunal de origem pela não configuração da prescrição, descabe ao STJ infirmar o posicionamento adotado, pois, para tanto, seria preciso o revolvimento de fatos e provas, o que é vedado pela Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1664210/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/11/2020, DJe 16/11/2020)
+11. Quanto àdivergência jurisprudencial, esta não foi demonstrada nos moldes exigidos pelos arts. 1.029 do CPC/2015 e 255 do RI/STJ, notadamente, à falta de indispensável semelhança fática entre os casos confrontados.
+12. Ante o exposto, nega-se provimento ao Agravo do Particular.
+13. Publique-se.
+14. Intimações necessárias.
