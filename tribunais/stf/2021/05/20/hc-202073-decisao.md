@@ -1,0 +1,32 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Michele Aparecida Lima Norato, apontando como autoridade coatora a Quinta Turma, do Superior Tribunal de Justiça, que não conheceu do agravo regimental no HC nº 655.326/SP, Relator o Ministro Joel Ilan Paciornik.
+    Narram os autos que a paciente foi condenada como incursa nas sanções previstas no art. 33, caput, da Lei nº 11.343/06, à pena de 4 anos e 2 meses de reclusão, em regime inicial fechado.
+    O impetrante sustenta que a paciente está submetida a constrangimento ilegal, pois faz jus ao redutor de pena na fração máxima ou na metade e que seja fixado o regime diverso do fechado.
+    Requer, liminarmente, seja fixado o regime aberto até final julgamento do writ.
+    No mérito, pleiteia a concessão da ordem para “fixação do regime aberto em definitivo e pela fixação da redutora disposta no art. 33, § 4º da Lei nº 11.343/06 em patamar de 2/3 ou 1/2.”
+    Examinados os autos, decido.
+    Eis o teor da ementa do aresto impugnado:
+    “PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HABEAS CORPUS INDEFERIDO LIMINARMENTE. REITERAÇÃO DE PEDIDOS. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA – STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+    1. É inviável o agravo que deixa de atacar, especificamente, o fundamento da decisão agravada. Incidência do verbete n. 182 da Súmula desta Corte.
+    2. Agravo regimental não conhecido.”
+    A decisão do STJ não evidencia ilegalidade flagrante, uma vez que alinhada à pacífica jurisprudência do Supremo Tribunal Federal, quanto à inadmissibilidade de habeas corpus em que se reitera pretensão veiculada anteriormente (v.g. HC nº 126.835-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 18/8/15).
+    No mesmo sentido, vide:
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. EXTORSÃO QUALIFICADA. PLEITO DE ABSOLVIÇÃO EM DECORRÊNCIA DE ATIPICIDADE DA CONDUTA. RECURSO INADMITIDO. REITERAÇÃO DE ARGUMENTOS EXPOSTOS EM IMPETRAÇÃO ANTERIOR. AGRAVO A QUE SE NEGA PROVIMENTO.” (RHC nº 175.079-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 16/10/19).
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. INVIABILIDADE DE REPETIÇÃO, NESTA SUPREMA CORTE, DE HABEAS CORPUS COM A MESMA CAUSA DE PEDIR E O MESMO PEDIDO DE IMPETRAÇÃO ANTERIOR. PRECEDENTES. AGRAVO A QUE SE NEGA PROVIMENTO. I O pedido veiculado neste habeas corpus é mera repetição do pedido formulado em impetração anterior, de minha relatoria, em favor do paciente, com a mesma causa de pedir e o mesmo pedido. Aliás, a petição inicial é cópia da impetração anterior. II É firme a orientação desta Corte no sentido de não se admitir a reiteração de habeas corpus. Precedentes. III Agravo a que se nega provimento.” (HC nº 189.119-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 17/9/20).
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS REITERAÇÃO DE PEDIDO INVOCAÇÃO DOS MESMOS FUNDAMENTOS DE DIREITO E/OU DE FATO APRESENTADOS EM ANTERIOR POSTULAÇÃO RECURSAL DEDUZIDA PERANTE ESTA SUPREMA CORTE RECURSO IMPROVIDO. A mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulações anteriores, torna inviável o próprio conhecimento do recurso ordinário em habeas corpus. Precedentes.” (RHC 166216 AgR, Rel. Celso de Mello, Segunda Turma, 22/4/2019).
+    Confiram-se, ainda, as seguintes decisões monocráticas: HC nº 110.804, de minha relatoria, DJe de 3/11/11; HC nº 97.731, Rel. Min. Ricardo Lewandowski, DJ de 10/2/09; HC nº 96.776, Rel. Min. Menezes Direito, DJ de 21/1108; HC nº 83.131, Rel. Min. Celso de Mello, DJ de 15/8/03 e HC nº 80.636, Rel. Min. Nelson Jobim, DJ de 5/9/01.
+    Ainda que assim não fosse, no tocante à aplicação do percentual do redutor do § 4º do art. 33 da Lei de Drogas, bem como à imposição do regime inicial fechado, ressalto que os autos não evidenciam ilegalidade flagrante a amparar a pretensão do impetrante.
+    Isso poque as instâncias ordinárias calibraram a redução da pena a partir da quantidade e natureza de entorpecentes que a paciente tinha consigo.
+    A pacífica jusrisprudência da Corte reconhece não haver ilegalidade na hipótese da “[n]atureza e quantidade de drogas consideradas somente na terceira fase da dosimetria da pena (…) fundamentar a aplicação do redutor do § 4º do artigo 33 da Lei 11.343/2006 em seu patamar mínimo (1/6).” (HC nº 153.669-AgR/SP, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 30/11/18)
+    Como já tive a oportunidade de consignar, justifica-se a aplicação, em grau menor, do redutor de pena descrito no art. 33, § 4º, da Lei nº 11.343/06, diante da gravidade concreta da infração, evidenciada pela quantidade de droga apreendida em poder do agente (RHC nº 132.860/SP, Segunda Turma, de minha relatoria, DJe de 230/5/16).
+    Perfilha esse entendimento, por exemplo: HC nº 122.151/SP. Primeira Turma, de minha relatoria, DJe de 7/10/14; e HC nº 120.985/SP, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 4/11/14, entre outros.
+    Por fim, no tocante ao regime inicial, cumpre observar o disposto no art. 33, § 3º, do Código Penal, e no art. 42 da Lei nº 11.343/06, que expressamente remetem às circunstâncias do crime (art. 59, CP) e à natureza e à quantidade da droga. No caso sob análise, relativamente às circunstâncias do artigo 42 da Lei 11.343/06 (quantidade e variedade de drogas apreendidas), houve valoração negativa.
+    Nesse sentido, tendo sido a pena estabelecida em – 4 anos e 2 meses de reclusão - e desfavoráveis as circunstâncias do artigo 42 da Lei 11.343/06, mostrou-se justificado a imposição do regime mais gravoso.
+    Está sedimentado na jurisprudência do Supremo Tribunal Federal, que o regime inicial de cumprimento de pena deve observar o disposto no art. 33, § 3º, do Código Penal, e no art. 42 da Lei nº 11.343/06, que expressamente remetem às circunstâncias do crime (art. 59, CP) e à natureza e à quantidade da droga. Por esse contexto, não há constrangimento ilegal na valoração negativa desses mesmos vetores na fixação da pena e na imposição do regime prisional mais gravoso (v.g. HC nº 132.904/MS, Segunda Turma, de minha relatoria, DJe de 11/10/16).
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 20 de maio de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
