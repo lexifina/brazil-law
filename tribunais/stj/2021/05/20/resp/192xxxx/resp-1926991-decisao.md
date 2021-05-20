@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃOfundado na alínea "a" do permissivo constitucionalcontra acórdão do Tribunal Regional Federal da 5ª Regiãoassim ementado (e-STJ fl. 455):
+CONSTITUCIONAL, ADMINISTRATIVO E TRIBUTÁRIO. CERTIFICADO DE REGULARIDADE PREVIDENCIÁRIA. LEI Nº 9.717/1998. INCONSTITUCIONALIDADE. IMPOSIÇÃO DE SANÇÕES.
+DESCABIMENTO.
+1. Apelação em face de sentença que julgou procedente ação ordinária movida por Município para determinar a expedição do Certificado de Regularidade Previdenciária e afastar a incidência das sanções impostas pela Lei nº 9.717/98;
+2. O Plenário do Supremo Tribunal Federal (ACO 830 TAR, Min. Marco Aurélio, Tribunal Pleno, DJe:10/04/2008) reconheceu que a União extrapolou a sua competência concorrente para estabelecer normas gerais, com fundamento no art. 24, inc. XII, da Constituição, devendo ser reconhecida a inconstitucionalidade do art. 7º, da Lei nº. 9.717/1998, afastando-se as sanções dele decorrentes;
+3. Apelação improvida.
+Passo a decidir.
+O Supremo Tribunal Federal, nos autos do RE 1.007.271, rel.Ministro Edson Fachin, reconheceu a repercussão geral da matéria ora discutida, nos termos da seguinte ementa:
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. DIREITO FINANCEIRO. DIREITO PREVIDENCIÁRIO. COMPETÊNCIA LEGISLATIVA. UNIÃO. NORMAS GERAIS. DESCUMPRIMENTO DE NORMA PELOS DEMAIS ENTES FEDERADOS. CERTIFICADO DE REGULARIDADE PREVIDENCIÁRIA - CRP. LEI 9.717/1998. DECRETO 3.788/2001. PORTARIA MPS 204/2008 E ALTERAÇÕES.
+1. A controvérsia em tela consiste na constitucionalidade dos arts. 7º e 9º da Lei 9.717/1998 e do Decreto 3.788/2001, que institui o Certificado de Regularidade Previdenciária, no aspecto em que estabelecem medidas restritivas ao ente federado que não cumpra as regras gerais para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos.
+2. A questão referente ao alcance da competência legislativa da União para dispor sobre normas gerais em matéria previdenciária, ainda que de natureza sancionatória, no que diz respeito ao descumprimento das normas da Lei 9.717/1998 pelos demais entes federados, possui repercussão geral.
+3. Preliminar de repercussão geral reconhecida.
+(RE 1.007.271 RG, Relator(a): EDSON FACHIN, Tribunal Pleno, julgado em 12/10/2017, PROCESSO ELETRÔNICO DJe-257, divulgado em10/11/2017, publicado em 13/11/2017).
+Encontrando-se o tema afetado à repercussão geral, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1.456.224/MS, rel. Ministro Humberto Martins, Segunda Turma, DJe 05/02/2016; AgRg no AgRg no AREsp 552.103/RS, rel. Min. Herman Benjamin, Segunda Turma, DJe 28/11/2014; e AgRg no AREsp 153.829/PI, rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012. Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1.588.019/GO, rel. Min. Regina Helena Costa, DJe 17/03/2016; REsp 1.533.443/RS, rel. Min. Benedito Gonçalves, DJe 17/03/2016.
+Após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso deverá ser encaminhado para esta Corte, para serem analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO o sobrestamento do julgamento deste recurso especial até a realização do juízo de conformação pela Corte de origem com o acórdão a ser proferido no aludido recurso extraordinário com repercussão geral reconhecida, bem como a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que essa providência seja efetivada.
+Publique-se. Intimem-se.
