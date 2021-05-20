@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por MARIA JANE LIMA ACHAR, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+APELAÇÃO CÍVEL - CUMPRIMENTO DE SENTENÇA - PAGAMENTO PARCIAL - MULTA DE 10% SOBRE O DEPÓSITO REMANESCENTE - DEVIDA - APLICAÇÃO DO ART. 523, § 2º, DO CPC - RECURSO PARCIALMENTE PROVIDO.Quando a parte executada não efetua o pagamento integral do débito, por entender que há excesso na execução e apresenta impugnação que foi julgada improcedente, caberá a ela o pagamento restante, acrescido da multa prevista no art.523, § 2º, do CPC.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial, a recorrente apontou violação aos artigos23 §2º e 3º, e 85, §1º, 389, artigo 927, §1º c/c art. 10 e 489, §1º, VI ambos no Novo Código de Processo Civil; sob o argumento de que, mesmo já tendo havido fixação de honorários advocatícios em seu favor pelo magistrado singularquando decidiu a impugnação,caberia nova fixação quando da extinção do cumprimento de sentença em decorrência de pagamento.
+Em sede de juízo provisório de admissibilidade, o Tribunal local admitiu o recurso especial, ascendendo os autos a esta Corte.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Com efeito, restou consignado no acórdão recorrido: "A despeito de o § 2º do art. 523 mencionar multa e honorários, verifica-se que o magistrado já os fixou quando decidiu a impugnação (10% sobre o saldo remanescente), de modo que não há como incidir novamente os honorários sobre a mesma verba.".
+Consoante jurisprudência desta Corte, "Prefacialmente, destaca-se que no novo sistema processual, o art.85, §1º, do Código de Processo Civil/15, estabelece que são cabíveis honorários na fase de cumprimento de sentença, englobando, a impugnação ofertada nessa fase procedimental."(EDcl no REsp 1855870/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 02/03/2021, DJe 05/03/2021).
+Aliás, nos termos da Súmula 519/STJ, "Na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios." (tese julgada sob o rito dos recursos representativos de controvérsia- TEMA 408).
+Logo, no caso em apreço, em que houve rejeição da impugnação ao cumprimento de sentença, resta claro que os honorários advocatícios arbitrados na oportunidade, cuja base de cálculo foi corretamente fixada em relação ao saldo remanescente, dizem respeito à fase de cumprimento de sentença como um todo, não havendo que se falar em nova fixação, sobre a mesma verba, quando da extinçãodo cumprimento de sentençaem decorrência de pagamento.
+No mesmo sentido:
+PROCESSUAL CIVIL. ANS. HONORÁRIOS ADVOCATÍCIOS. AGRAVO DE INSTRUMENTO. TÍTULO EXECUTIVO JUDICIAL. EXECUÇÃO. ART. 1.022 DO CPC 2015. OMISSÃO ACERCA DA FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. OMISSÃO INEXISTENTE. CABIMENTO DA FIXAÇÃO DE HONORÁRIOS SOBRE HONORÁRIOS.ORIUNDOS DE FASES DIVERSAS DO PROCESSO. NO CASO NÃO É POSSÍVEL NOVA FIXAÇÃO DE HONORÁRIOS. MESMA FASE PROCESSUAL. BIS IN IDEM.
+ ..
+VIII - A respeito dos honorários advocatícios fixados no cumprimento da sentença de honorários advocatícios fixados na execução fiscal, o Tribunal a quo assim concluiu: "Seguindo o entendimento do Superior Tribunal de Justiça, passou-se a aceitar o cabimento da fixação de honorários sobre honorários, desde que oriundos de fases diversas do processo, não havendo que se falar em "bis in idem". Contudo, no caso dos autos, não é possível nova fixação de honorários, pois arbitrados sobre honorários advocatícios estabelecidos na mesma fase processual."
+IX - Esta Corte tem o entendimento de que é possível a fixação de honorários advocatícios na execução dos próprios honorários, se estes forem referentes ao processo de conhecimento. Não é o que ocorre no presente caso. A execução de fls. 192-193 (apenso 2) refere-se a honorários de 5% fixados pela sentença que acolheu a exceção de pré-executividade  R$ 12.978,52 (doze mil, novecentos e setenta e oito reais e cinquenta e dois centavos) . O despacho de fls. 205-206 (apenso 2) fixa honorários de 10% sobre o valor daquela execução, atuando, portanto, em bis in idem.
+X - Confira-se: EDcl no REsp n. 1.648.905/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/11/2019, DJe 18/11/2019; AgInt no REsp n. 1.528.264/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 17/6/2019, DJe 25/6/2019; REsp n.1.789.982/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 2/4/2019, DJe 23/4/2019.
+XI - Agravo interno improvido.
+(AgInt no REsp 1807917/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 26/10/2020, DJe 28/10/2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA. CABIMENTO DE HONORÁRIOS EM EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS, SEM QUE ISSO IMPLIQUE BIS IN IDEM, PORQUANTO SE REFEREM À FASE DIVERSA DO PROCESSO. AGRAVO INTERNO DA UNIVERSIDADE FEDERAL DE SANTA MARIA - UFSM A QUE SE NEGA PROVIMENTO.
+1. É entendimento desta Corte Superior a possibilidade de fixação de honorários advocatícios na execução dos próprios honorários, desde que não se refiram à mesma fase procedimental, visto que ensejaria indiscutível bis in idem.Nesse sentido: REsp. 1.659.466/RS, Rel. Min. HERMAN BENJAMIN, DJe 16.6.2017.
+2. Agravo Interno da UNIVERSIDADE FEDERAL DE SANTA MARIA - UFSM a que se nega provimento.
+(AgInt no REsp 1528264/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 17/06/2019, DJe 25/06/2019)
+O acórdão recorrido, portanto, encontra-se em perfeita consonância com a jurisprudência desta Corte, o que atrai a incidência da Súmula 83 do STJ.
+2. Do exposto, com fulcro no art. 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao reclamo.
+Publique-se.
+Intimem-se.
