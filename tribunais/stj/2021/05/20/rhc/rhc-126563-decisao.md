@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ALUÍSIO DOS SANTOS LIMA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS no julgamento do HC n. 4001254-54.2020.8.04.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 4/9/2019 por ter supostamente praticado o delito tipificado no art. 121, § 2º, incisoII, do Código Penal (homicídio qualificado). Referida custódia foi convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem em acórdão assim ementado:
+"PENAL. PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PROVAS DE MATERIALIDADE. INDÍCIOS DE AUTORIA. PRISÃO PREVENTIVA. GARANTIA DAORDEM PÚBLICA. MODUS OPERANDI. INOCORRÊNCIA DE CONSTRANGIMENTO ILEGAL. CONDIÇÕES SUBJETIVAS FAVORÁVEIS. IRRELEVÂNCIA. EXCESSO DE PRAZO DA CUSTÓDIA DO RÉU. INOCORRÊNCIA. ORDEM CONHECIDA E DENEGADA.
+1. Não ocorre constrangimento ilegal quando, além da prova da existência do crime e suficientes indícios de autoria, resta caracterizado, na espécie, a necessidade de garantir a ordem pública, devidamente fundamentada no decreto de prisão preventiva.
+2. In casu, a Certidão de Óbito e o Laudo Pericial são aptos para comprovar a materialidade do crime de homicídio qualificado. Já os indícios de autoria estão presentes nas declarações prestadas pelas testemunhas, bem como, pela confissão do Paciente.
+3. Ademais, há fundada ameaça à ordem pública, dado o modus operandi e a extrema violência utilizada pelo Acusado para ceifar avida do Ofendido, o que consubstancia o pressuposto do periculum libertatis.
+4. Condições subjetivas favoráveis, tais como ser réu primário, com residência fixa e trabalho lícito, não são elementos suficientes para garantir, por si sós, a concessão da liberdade provisória, quando presentes os requisitos previstos no art. 312 do Código de Processo Penal.
+5. Noutro giro, a custódia do Paciente, pelo lapso de 05 (cinco)meses, não acarreta na conclusão de excesso de prazo na prisão, pois, ainda que a instrução criminal não tenha encerrado, o processo segue o curso regular, com a denúncia já recebida. Ademais, cumpre consignar que todos os pedidos da defesa foram analisados pelo douto Juiz de origem, de forma célere, nãose verificando a existência de mora ou desídia, por parte da Autoridade Impetrada.
+6. Ademais, é cediço que os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, pois variam conforme as peculiaridades de cada processo, razão pela qual esses têm sido mitigados pela jurisprudência dos Tribunais Pátrios, à luz do princípio da razoabilidade. Precedentes do colendo Superior Tribunal de Justiça.
+7. Ordem de Habeas Corpus CONHECIDA e DENEGADA"(fls. 174/175).
+No presente recurso, alega excesso de prazo para a formação da culpa, porquanto a custódia cautelar perdura por mais de 7 meses e 10 dias sem que a instrução tenha sido encerrada.
+Destaca que o decreto prisional carece de fundamentação idônea, uma vez que pautado exclusivamente na gravidade abstrata do delito. Sustenta ausência dos requisitos previstos no art. 312 do Código de Processo Penal.
+Ressalta as circunstâncias pessoais favoráveis do recorrente e aponta suficiência, no caso concreto, da aplicação de medidas cautelares alternativas ao cárcere.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva.
+A liminar foi indeferida às fls. 233/235. Informações prestadas às fls. 243/248, 249/252, 253/256, 257/265 e 275/277. O Ministério Público Federal opinou pelo desprovimento do recurso em parecer acostadoàs fls. 268/272.
+É o relatório.
+Decido.
+De acordo com as informações obtidas na página eletrônica do Tribunal de origem, constata-se que, em 15/3/2021, foi proferida sentença de pronúncia nos autos da Ação Penal n. 0648073-02.2019.8.04.0001. Todavia, não é possível aferir o inteiro teor do julgado.
+É cediço que esta Quinta Turma firmou posicionamento no sentido de que a manutenção da custódia cautelar por ocasião de sentença superveniente não possui o condão de tornar prejudicado o writ em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo. Nesse sentido: RHC 53.194/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016.
+O entendimento revela-se substancialmente claro: a superveniência de sentença que mantém a prisão cautelar constitui título novo, que substitui - e supera - o decreto prisional impugnado mediante habeas corpus, exceto se o Magistrado sentenciante não adota fundamentos novos e diversos daqueles apresentados por ocasião da decretação da segregação preventiva.
+In casu, a manutenção da custódia cautelar afigura-se verossímil, pois inexiste notícia de expedição de alvará de soltura em favor do ora recorrente após a prolação da sentença de pronúncia.
+Todavia, não há como aferir se a segregação antecipada foi mantida sem a adoção de novos e diversos fundamentos para a cautela - requisito indispensável ao prosseguimento do writ que busca revogá-la, diante da notícia da produção de novo título judicial que examinou a necessidade de manutenção da constrição.
+Tratando-se o habeas corpus de rito célere, no qual não se admite a dilação probatória e cuja instrução compete ao recorrente, a este incumbiria, diante da superveniência de fato novo, a diligência de acostar aos autos o novo título judicial produzido no feito principal, a fim de demonstrar que o aludido julgado não tem o condão de afastar, no caso concreto, a impugnabilidade da decisão combatida pelo presente recurso ordinário.
+Constatado o silêncio do recorrenteapós a prolação da sentença de pronúncia, afigura-se forçoso entender pela perda de objeto do presente reclamo, diante da prolação de novo título.
+Por adotar idêntico raciocínio, faço menção à recente decisão prolatada nos autos do RHC n. 63.337/MG, Rel. Ministro GURGEL DE FARIA, Quinta Turma, DJe 5.2.2016.
+Ademais, com a superveniência da sentença de pronúncia,está superada a alegação de excesso de prazo para a formação da culpa, nos termos da Súmula n. 21 desta Corte.
+Ante o exposto, com fundamento no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso ordinário emhabeas corpus.
+Publique-se.
+Intimem-se.
