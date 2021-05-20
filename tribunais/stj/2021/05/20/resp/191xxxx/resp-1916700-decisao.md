@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão que deu provimento ao recurso de apelação para afastar a majorante do emprego de arma.
+Sustenta o recorrente a prescindibilidade da apreensão e perícia da arma para caracterização da causa de aumentodo roubo, razão pela qual requer o provimento do recurso para restabelecer a sentença.
+Apresentadas contrarrazões, manifestou-se o Ministério Público Federal pelo provimento do recurso especial.
+O recorrido foi condenado à pena de 6anos e 5 mesesde reclusão, em regime inicial fechado, e 60 dias-multa, como incurso no art. 157, § 2º,I e III, do Código Penal.
+Interposto recurso de apelação pela defesa, foi provido nos seguintes termos (fls. 279/280):
+Ainda que não tenha sido expresso de inconformismo defensivo, há que ser desconsiderada a causa de aumento por emprego de arma, pois em que pesem interpretações contrárias, filio-me ao entendimento de que a configuração da causa de aumento prevista no § 2º, I do artigo 157 do CP depende de que a arma de fogo seja apreendida e periciada, de modo a determinar sua potencialidade lesiva, haja vista que não há, em princípio, quando a arma não chegou a ser disparada durante o crime, outromeio de definir o perigo real a que esteve sujeita a vítima, sendo imperioso que exista efetiva capacidade na potencialidade da arma de fogo empunhada pelo agente, o que só se pode aferir mediante perícia.
+No caso em comento, em que pese existir a grave ameaça caracterizadora do roubo, a causa de aumento não foi efetivamente demonstrada, haja vista que o apelante pode muito bem ter se utilizado de um simulacro de arma de fogo, sendo necessário que a mesma traga efetivo perigo para vítima.
+Frise-se que a necessidade de se periciar a arma de fogo se dá exatamente com o fim de se constatar a sua objetiva potencialidade.
+A orientação adotada pelo acórdão diverge do entendimento desta Corte de que prescindível a apreensão e perícia da arma de fogo para a caracterização de causa de aumento de pena prevista no art. 157, § 2º, I, do CP, quando evidenciado o seu emprego por outros meios de prova. Nesse sentido AgRg no AREsp 1403414/PA, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 18/06/2019, DJe 27/06/2019; AgRg no AREsp 1577702/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 18/08/2020, DJe 01/09/2020).
+Quanto ao emprego da arma, registrou a sentença condenatória que "o fato foi confirmado pelas três vítimas de forma clara e segura" (fl. 205), razão pela qual deve ser restabelecida a referida majorante.
+Relativamente à fração de aumento da pena, entretanto, presente flagrante ilegalidade a autorizar a concessão dehabeas corpus, de ofício.
+Consolidou-se a orientação de que o aumentoda pena superior a 1/3, na terceira fase da dosimetria da pena, no crime de roubo,exige motivaçãoválida, por incidência da Súmula 443/STJ.
+Inidôneo, portanto,o fundamento de que"o uso de arma de fogo para praticar delitos contra o patrimônio é extremamente grave" (fl. 209), por não desbordar do tipo penal de roubo circunstanciado.
+Assim, estabelecida a pena no mínimo legal, incide a fração de 1/3 pelo reconhecimento das causas de aumento do emprego de arma e concurso de agentes, resultando na pena de 5 anos 4 meses e 13 dias-multa, acrescido de 1/6 pelo concurso formal, que fica definitivamente estabelecida em 6 anos, 2 meses e 20 dias de reclusão, em regime semiaberto,e 15 dias-multa.
+Ante o exposto, dou provimento ao recurso especial para restabelecer a majorantedo emprego de arma, mas concederhabeas corpus, de ofício, para reduzir a fração de aumento para 1/3, resultando a pena definitiva em6 anos, 2 meses e 20 dias de reclusão, em regime semiaberto, e 15 dias-multa.
+Publique-se.
+Intimem-se.
