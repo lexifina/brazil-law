@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de pedido de reconsideração da decisão de fls. 23-25 que indeferiu liminarmente ohabeas corpuspor instrução deficiente.
+Tendo em vista que aimpetrante juntou as peças faltantes, reconsidero a decisão epasso ao exame do pedido liminar.
+Impetra-sehabeas corpus, com pedido liminar, em face de acórdão assim relatado (fls. 13-14):
+Cuida-se de Habeas Corpus impetrado pela Advogada ADRIANA SIQUEIRA FLORES em favor de KAINAN VÍTOR DE OLIVEIRA, que estaria sofrendo constrangimento ilegal em razão de ato atribuído ao Magistrado em exercício na Vara Criminal da Comarca de Caçapava, nos autos da Ação Penal nº 1500308-19.2021.8.26.0618. Sustenta, em resumo, a impetrante, que estão ausentes os requisitos da prisão preventiva e, paralelamente, presentes os pressupostos da liberdade provisória. Reclama, a Advogada, que a decisão atacada está baseada exclusivamente na gravidade abstrata do delito em apuração. Enaltece os predicados pessoais positivos do paciente, tais como primariedade, bons antecedentes e residência fixa, destacando que ele estava matriculado em escola da rede pública e costumava trabalhar.
+Argumenta que a medida constritiva é desproporcional, pois, em caso de eventual condenação, Kainan fará jus à aplicação da causa de diminuição de pena prevista no § 4º do artigo 33 da Lei 11.343/06 e, consequentemente, poderá cumprir sua pena em regime prisional diverso do fechado e a sanção carcerária poderá ser substituída por restritiva de direitos.
+Busca, por isso, a subscritora da inicial, a concessão da ordem para que o paciente aguarde solto o desfecho da ação penal. Sem liminar, e dispensadas as informações (fls. 15/16), a Procuradoria-Geral de Justiça manifestou-se pela denegação da ordem (fls. 20/22).
+É o relatório.
+O paciente foi preso preventivamente pela prática do crime de tráfico de drogas.
+Argumenta a defesa, em síntese, que a prisão é desproporcional, bem como que o decreto não apresentou fundamentação idônea, baseando-se apenas na gravidade abstrata do delito. Frisa a primariedade, residência fixa e ocupação lícita do paciente.
+Requer, liminarmente e o no mérito, a revogação da prisão preventiva.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+O decreto restou assim fundamentado (fl. 49):
+ .. .
+A prisão em flagrante deverá ser convertida em prisão preventiva. No caso concreto, o autuado foi flagrado por policiais civis em operação contra o tráfico de drogas, tendo empreendido fuga quando notou a presença policial; abordado, em revista pessoal, com ele foram encontrados 91 pinos de cocaína e a quantia de R$ 50,00. Ademais, com o adolescente apreendido na mesma ocasião foram encontrados maconha, rádio transmissor, embalagens plásticas, além de um coldre, conforme relacionado no auto de exibição e apreensão (fls. 13/14). O laudo de constatação provisória indicou serem as substâncias apreendidas entorpecentes (fls.17/18). Ambos admitiram a prática do tráfico de drogas (fls. 24 e 27). Diante disso, e considerando que as medidas cautelares previstas pela Lei n.º 12.403/2011 devem adequar-se, sobretudo, à "gravidade do crime, circunstâncias do fato e condições pessoais do indiciado ou acusado" (artigo 282, II), forçoso se faz concluir que, à exceção da preventiva, nenhuma delas se mostra suficiente para garantir a ordem pública, tampouco a afastar o perigo na manutenção da liberdade do custodiado.
+ .. .
+Como se vê, consta no decreto prisional fundamentação baseada na quantidade de entorpecente apreendida(49,32 gramas de cocaína, mais 2,99 gramas da mesma droga - fls. 35-36). Aponta tambémo decreto a presença de adolescente na empreitada delituosa.
+Na hipótese, não obstante a não relevante quantidade de entorpecente apreendido, tem-se compreendido que a prática do delito com envolvimento de adolescente constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: AgRg no HC 544.235/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/12/2019, DJe 19/12/2019; AgRg no RHC 119.837/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 04/02/2020. acima especificadas.
+Ante o exposto, indefiro liminarmente ohabeas corpus.
+Publique-se.
+Intimem-se.
