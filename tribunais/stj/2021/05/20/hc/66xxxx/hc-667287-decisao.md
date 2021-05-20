@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Karla Cristina Ferreira-presa temporariamentepela prática, em tese, dodelitode tráfico de drogas interestadual -, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina, que, em decisão monocrática, indeferiu o pedido liminar no writ ali impetrado (Habeas Corpus n. 5023477-89.2021.8.24.0000), mantendo a prisão cautelar dapaciente na ação penal que tramita no Juízo de Direito daVara Criminal da comarca de Camboriú/SC (Autos n. 5023477-89.2021.8.24.0000).
+Alega-se, em síntese, constrangimento ilegal consistente na decretação e manutenção da prisão temporária da paciente, bem como sustenta a possibilidade de concessão de prisão domiciliar em razão da existência de filho menor e por estar a paciente grávida.
+Postula-se, ao final, a concessão liminar da ordem para que a segregação cautelar seja revogada.
+É o relatório.
+A teor do Enunciado n. 691 da Súmula do Pretório Excelso,entende-se não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminarem açãoajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+Tal posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que aqui não se observa.
+Ora, no presente caso, o Relator do mandamus original, ao indeferir o pedido liminar, simplesmente constatou a ausência dos pressupostos autorizadores da medida requerida. E nisso não há nenhum constrangimento ilegal.
+Na oportunidade, o Juiz singular destacou que há indícios de quea paciente, em tese,  integre  a grupo criminoso envolvido com o comércio, e produção, de drogas sintéticas, em contexto fático em que se apura ações ligadas a integrantes de grupo criminoso envolvido com o tráfico interestadual de entorpecentes, no bojo do qual estaria inserida Karla e seu companheiro (fl. 23).
+Nesse sentido, esta Corte Superior de Justiça é assente ao entender que se enquadra no conceito de garantia da ordem pública a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa, no intuito de impedir a reiteração delitiva (AgRg no RHC n. 126.375/MT, Ministro Felix Fischer, Quinta Turma, DJe 9/6/2020).
+Acerca do pleito referente à prisão domiciliar, destaco que os autos se encontram insuficientemente instruídos, sem cópia da decisão que decretou a prisão cautelar da paciente, bem como sem qualquer documento que comprove as alegações suscitadas. Ademais, o acórdão a quo destacou queos cuidados ao filho, ao que consta de estudo social determinado pelo juízo, encontram-se resguardados, por ora, por tia do infante, que dedica-se exclusivamente ao referido encargo (fl. 24).
+Portanto, diante da inadmissível supressão de instância, convém aguardar o trâmite dowrit na origem, a fim de permitir que o órgão competente analise com melhor propriedadea matéria ali levantada.
+Ante o exposto, com fundamento nos arts. 38 da Lei n. 8.038/1990 e 210 do RISTJ,indefiro liminarmentea petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS INTERESTADUAL. PRISÃO TEMPORÁRIA. FUNDAMENTAÇÃO. PLEITO DE PRISÃO DOMICILIAR EM RAZÃO DA EXISTÊNCIA DE FILHO MENOR E ESTAR A PACIENTE GRÁVIDA.WRIT IMPETRADO CONTRA A DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU MEDIDA DE URGÊNCIA EMMANDAMUS ORIGINÁRIO. TERATOLOGIA OU ILEGALIDADE. AUSÊNCIA.
+Inicial indeferida liminarmente.
