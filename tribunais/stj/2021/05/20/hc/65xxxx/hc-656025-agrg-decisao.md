@@ -1,0 +1,37 @@
+DECISÃO
+CAIO RANGEL VIANA, acusado de tráfico e associação para o tráfico de drogas, interpõe agravo regimental contra decisão proferida pela Presidência desta Corte, que indeferiu liminarmente o habeas corpus, com fundamento no enunciado da Súmula n. 691 do STF.
+Em suas razões, a defesa reitera, em síntese, a manifesta ausência de fundamentação do decreto constritivo, situação que autorizaria a suplantação do referido enunciado sumular. Diante disso, requer a reconsideração da decisão que indeferiu liminarmente o habeas corpus ou que o processo seja submetido ao colegiado para apreciação.
+Ouvido, manifestou-se o Ministério Público Federal pelo não provimento do agravo regimental (fls. 250-252).
+Decido.
+Em juízo de retratação, inerente ao agravo regimental, reconsidero a decisão de fls. 231-232, que indeferiu liminarmente o habeas corpus, na medida em que o caso se enquadra nas hipóteses excepcionais que permitem a suplantação do entendimento consubstanciado na Súmula n. 691 do STF, haja vista o manifesto constrangimento ilegal evidenciado, como alega a defesa.
+De fato, extrai-se da decisão constritiva, as seguintes passagens (fls. 113-115):
+Sem delongas, a meu ver, os requerimentos postulados pelo IRMP encontram o devido amparo legal, mercê das provas coligidas nos autos, não obstante os argumentos trazidos pela defesa dos acusado (sic) FRANCIEL, no requerimento de liberdade provisória.
+Nessa linha, sabe-se que a prisão preventiva poderá ser decretada para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado, hipótese verificada na espécie.
+ ..
+Por conseguinte, conforme define Júlio Eabbrini Mirabete, a prisão preventiva é urna medida cautelar, constituída da privação da liberdade do indigitado autor do crime e decretada pelo juiz durante o inquérito ou instrução criminal face a existência de pressupostos legais, a fim de resguardar os interesses sociais de segurança.
+Na hipótese sub examine imputa-se ao acuso a prática do delito previsto no art. 33 e 35, na forma do art. 40, V, da Lei 11.343/06.
+Na hipótese, o fumus comissi delicti corresponde aos pressupostos da prisão preventiva, e que estão previstos no art. 312 do CPP, quais sejam:
+a) prova de existência do crime; e b) indícios suficientes de autoria.
+Destacando-se que em sede de decisão que decreta ou mantém a prisão preventiva, e ao contrário do que ocorre na sentença, na qual se exige o juízo de certeza, basta o juízo de probabilidade e, vige o princípio in dubio pro societate.
+Na espécie, há indícios de que o Sr. Estevão é aquele quem fornece os entorpecentes para venda, por intermédio dos demais acusados.
+Com efeito, o MP pugnou pela decretação de prisão preventiva em desfavor, daquele, com fulcro na garantia de ordem pública, conveniência da instrução criminal, e, por fim, a aplicação da lei penal, o que a meu ver, encontra respaldo legal, mercê das provas coligidas pela autoridade policial que, cm i tese, apontam a materialidade e autoria dos crimes imputados ao acusado. Nesse sentido:  ..
+Como se observa, embora a quantidade e variedade de droga apreendida no caso não seja desprezível - 255 comprimidos de ecstasy, 5 unidades de haxixe, 162 unidades de LSD, 2 unidades de skank, 3 unidades da substância conhecida como "MD" e 2 unidades de maconha (fl. 116) -, circunstância que motivou a manifestação contrária do Parquet Federal à pretensão defensiva, nada foi consignado a esse respeito pela decisão que decretou a preventiva, a qual nem sequer fez menção genérica sobre o fato.
+Deveras, em relação ao paciente, o Juízo singular, ao decretar a prisão preventiva, apenas apontou genericamente a necessidade de se acautelar a ordem pública, sem indicar motivação suficiente e, repita-se, sem mencionar a quantidade e a natureza das substâncias apreendidas. Não há, no decisum proferido pelo Magistrado de primeiro grau, nenhum elemento concreto que possa subsidiar a constrição do paciente, nem mesmo as circunstâncias do delito. Sem embargo, a despeito da reprovabilidade social do comportamento atribuído ao acusado, considero, portanto, ser insuficiente a fundamentação apresentada.
+Ninguém dissente de que o tráfico de drogas é crime gravíssimo e de que é notória a desagregação social que a mercancia de entorpecentes acarreta atualmente na sociedade. Esses fatores, certamente, são a razão pela qual a reprimenda por tal ilicitude penal - equiparada a crime hediondo - é elevada, mas não são bastantes para implicar, necessariamente, a manutenção, sob custódia cautelar, de seus eventuais autores, sob pena de transformar em regra o que é exceção e malferir o princípio da presunção de inocência, que alcança a todos os imputados em processo penal. Nesse sentido são bem claros os seguintes dispositivos do Código de Processo Penal, modificados pela Lei n. 13.964/2019:
+Art. 313.  ..  § 2º Não será admitida a decretação da prisão preventiva com a finalidade de antecipação de cumprimento de pena ou como decorrência imediata de investigação criminal ou da apresentação ou recebimento de denúncia.
+Art. 315. A decisão que decretar, substituir ou denegar a prisão preventiva será sempre motivada e fundamentada.
+§ 1º Na motivação da decretação da prisão preventiva ou de qualquer outra cautelar, o juiz deverá indicar concretamente a existência de fatos novos ou contemporâneos que justifiquem a aplicação da medida adotada.
+§ 2º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que:
+ ..
+III - invocar motivos que se prestariam a justificar qualquer outra decisão;
+Concluo, assim, ter havido restrição à liberdade do paciente sem a devida fundamentação que demonstrasse a exigência cautelar justificadora da custódia, de sorte a impor a concessão da ordem, nos termos da pacífica jurisprudência desta Corte sobre o tema, sob pena de essa prisão perder sua natureza excepcional e se transformar em mera resposta punitiva antecipada. Ilustrativamente:
+ ..
+2. No caso, o Juízo de primeiro grau limitou-se a mencionar a existência de indícios de materialidade e autoria do crime e a tecer considerações genéricas acerca da gravidade abstrata do delito de tráfico de drogas. Não foram apontados dados concretos a justificar a segregação provisória, nos termos do que dispõe o art. 312 do CPP.
+ ..
+3. Habeas corpus não conhecido. Ordem concedida, de ofício, para revogar a prisão preventiva do paciente, mediante a aplicação das medidas cautelares previstas no art. 319 do CPP, a critério do Juízo de primeiro grau.
+(HC n. 419.965/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 16/2/2018)
+Apoiado nessas premissas, entendo que não são bastantes as ponderações invocadas pelo Magistrado de primeiro grau para embasar a ordem de constrição da paciente, porquanto não contextualizaram, em elementos concretos dos autos, o periculum libertatis e a gravidade concreta da conduta perpetrada.
+À vista do exposto, reconsidero a decisão que indeferiu liminarmente o habeas corpus e concedo a ordem, a fim de assegurar ao paciente o direito de aguardar o desfecho da ação penal em liberdade, ressalvada a possibilidade de nova decretação da prisão cautelar caso efetivamente demonstrada a superveniência de fatos novos que indiquem a sua necessidade.
+Comunique-se, com urgência, o inteiro teor deste decisum ao Juízo singular e à autoridade apontada como coatora.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
