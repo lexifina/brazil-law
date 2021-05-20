@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo (art. 544, do CPC/73), interposto por MAIO EMPREENDIMENTOS E CONSTRUÇÕES LTDA e OUTRO, contra decisão que não admitiu recurso especial (fls. 307/310, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 227, e-STJ):
+AGRAVO DE INSTRUMENTO - AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA - INADIMPLEMENTO CONTRATUAL DA CONSTRUTORA/CONTRATADA - ATRASO NA ENTREGA DO IMÓVEL - ANTECIPAÇÃO DE TUTELA - SUSPENSÃO DO PAGAMENTO DAS PARCELAS VENCIAS APÓS A DATA FIXADA PARA ENTREGA - INEXIGIBILIDADE DO CONTRATO - IMPEDIMENTO JUDICIAL DAS UNIDADES IMOBILIÁRIAS NAS MATRÍCULAS DOS IMÓVEIS - GARANTIA A RESTITUÇÃO DOS VALORES PAGOS - POSSIBILIDADE - PRESENÇA DOS REQUISITOS LEGAIS. 1. A concessão da antecipação da tutela está condicionada ao cumprimento dos requisitos previstos no art. 273 do CPC. 2. A título de cognição sumária, comprovada a prova inequívoca do atraso da entrega dos imóveis adquiridos pelos agravantes que deveriam ser entregues antes da Copa do Mundo de 2014, e presente a verossimilhança das alegações quanto o inadimplemento contratual das construtoras/agravadas, haja vista a obra estar paralisada, além do fundado receio de dano irreparável ou de difícil reparação em razão da continuação do pagamento das prestações sem a contraprestações por parte das construtoras, possível a concessão da tutela antecipada para declarar a inexigibilidade dos contratos celebrados entre as partes. 3. Diante do risco dos contratantes não serem restituídos quanto aos valores quitados, tendo em vista a paralisação da obra com a inatividade das agravadas, perfeitamente válido o impedimento judicial nas unidades imobiliárias junto às matrículas dos imóveis, a fim de garantir o juízo e a reparação aos contratantes. 4. Recurso conhecido e provido.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões de recurso especial, as recorrentes apontam:
+a) ofensa ao artigo 535, II, do CPC/73 ante a negativa de prestação jurisdicional;
+b) violação ao artigo 527, V, do CPC/73 pois a contraminuta juntada aos autos não foi apreciada;
+c) ofensa aos artigos 128 e 460 do CPC/73 ante (i) a ocorrência de julgamento extra petita, haja vista que o pedido de anotação de impedimento judicial nas matriculas dos imóveis objetos da demanda "foi feito na petição inicial da ação originária, para o juízo a quo, mas jamais foi feito nas razões de agravo de instrumento, perante o E. TJMG, o que impede sua apreciação, sob pena de violação ao princípio da devolutividade" e (ii) a ofensa ao princípio do duplo grau de jurisdição, tendo em vista que o juiz de primeiro grau negou-se a apreciar o pedido de indisponibilidade de bens das Recorrentes antes da dilação probatória, sendo certo que a sua concessão pelo TJMG, sem ter havido ainda apreciação pelo juiz, representa supressão de instância.
+Contrarrazões (fls. 295/305, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, pelos seguintes fundamentos: (i) ausência de violação ao artigo 535 do CPC, porquanto as questões trazidas pela recorrente foram analisadas e a decisão encontra-se fundamentada; (ii) incidência da Súmula 7/STJ; (ii) quanto à interposição do apelo excepcional pela divergência jurisprudencial, ausência de cotejo analítico.
+Daí o presente agravo (art. 544 do CPC/73), no qual os agravantes lançam argumentos a fim de combater os retrocitados óbices.
+Contraminuta às fls. 337/350 (e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De início, em relação à violação ao art. 535 do CPC/73, ante a negativa de prestação jurisdicional, não assiste razão à recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia.
+Dessa forma, não há que se falar em negativa de prestação jurisdicional pelo Tribunal local, que apreciou todas as questões que lhe foram postas de forma suficiente, embora não tenha acolhido o pedido da parte insurgente em sede de embargos de declaração.
+A propósito, é entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados.
+Nesse sentido, confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. ATRASO NA ENTREGA DO IMÓVEL. AUSÊNCIA DE QUITAÇÃO INTEGRAL DO PREÇO. PREVISÃO CONTRATUAL. OBSCURIDADE. ERRO MATERIAL. INEXISTÊNCIA. RESPONSABILIDADE. DISCUSSÃO. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADOS 5 E 7 DAS SÚMULAS DO STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, devem ser afastadas as alegadas ofensas ao artigo 1022 do Código de Processo Civil de 2015.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1348076/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/04/2019, DJe 12/04/2019)
+2. Quanto à alegação de violação ao artigo 527, V, do CPC/73 pois a contraminuta juntada aos autos não foi apreciada, o Tribunal de origem, em sede de embargos de declaração, expressamente consignou que "todos os requisitos legais do art. 273 do CPC foram detidamente examinados para a concessão da tutela antecipada aos agravantes, principalmente com exame da contraminuta e documentos apresentados pelos agravados, sendo certo apenas a ocorrência de erro material no relatório que não constou a apresentação da referida contraminuta".
+Dessa forma, para acolher a irresignação recursal no ponto, seria necessário derruir a afirmação contida no acórdão recorrido, o que é inviável em sede de recurso especial ante o disposto na Súmula 7 desta Corte.
+3. Outrossim, a alegada ofensa ao princípio do duplo grau de jurisdição, tendo em vista que o juiz de primeiro grau negou-se a apreciar o pedido de indisponibilidade de bens das Recorrentes antes da dilação probatória, sendo certo que a sua concessão pelo TJMG, sem ter havido ainda apreciação pelo juiz, representa supressão de instância, não foi objeto de exame pelo Tribunal de origem e sequer foi suscitada em sede de embargos de declaração (fls. 238/242, e-STJ), o que atrai a incidência da incidência das Súmulas 282 e 356 do STF, por analogia, além de trazer-se de verdadeira inovação recursal.
+4. Já em relação à ocorrência de julgamento extra petita e ofensa ao princípio da devolutividade, o relator na Corte local consignou: "não verifico qualquer ocorrência de julgamento extra petita no acórdão recorrido, haja vista que os agravados/autores fizeram pedido expresso de tutela antecipada no item "c" da petição inicial - (fl. 38 TJ), no sentido de ser deferido pedido alternativo de anotação de impedimento judicial nas matrículas dos imóveis objetos da demanda".
+Nesse contexto, registra-se que, para a jurisprudência desta eg. Corte Superior, não há falar em julgamento extra petita quando decidida a causa dentro dos contornos da lide, que são estabelecidos a partir do exame da causa de pedir eleita pela parte autora da demanda e dos limites do pedido veiculado em sua petição inicial e nos recursos posteriores.
+Nesse sentido, confira-se:
+AGRAVO INTERNO. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OMISSÃO NO ACÓRDÃO DE ORIGEM. GRATUIDADE JUDICIÁRIA. LIMITAÇÃO DA COMISSÃO DE PERMANÊNCIA. AUSÊNCIA DE INDICAÇÃO NO RECURSO ESPECIAL DE DISPOSITIVO TIDO COMO VIOLADO. SÚMULA 284/STF. PRINCÍPIO DA CONGRUÊNCIA OU ADSTRIÇÃO. CONFIGURAÇÃO. EXCESSO DE EXECUÇÃO. NÃO IMPUGNAÇÃO ESPECÍFICA DAS RAZÕES DO ACÓRDÃO ESTADUAL. INCIDÊNCIA DO VERBETE Nº 283/STF. EXIGIBILIDADE DO TÍTULO EXTRAJUDICIAL. ALEGADA IMPENHORABILIDADE DOS BENS. REEXAME DE PROVAS. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO. SÚMULA N. 182/STJ (NCPC). NÃO PROVIMENTO.
+1. A falta de indicação de dispositivo de lei a respeito de cuja interpretação divergiu o acórdão recorrido implica deficiência na fundamentação do recurso especial, o que atrai a incidência da Súmula nº 284 do STF.
+2. Conforme o entendimento consolidado neste Tribunal, não configura julgamento ultra petita ou extra petita, com violação ao princípio da congruência ou da adstrição, o provimento jurisdicional proferido nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição inicial. Precedentes.
+3. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo do acórdão recorrido, aplica-se, por analogia, o óbice da Súmula nº 283, do STF.
+4. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+5. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1843966/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/02/2021, DJe 11/02/2021)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO CONDENATÓRIO - PLANO DE SAÚDE - NEGATIVA DE COBERTURA - LIMITAÇÃO DO DANO MATERIAL AOS VALORES PREVISTOS EM CONTRATO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA, DE PLANO, NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+INSURGÊNCIA DOS AUTORES.
+ ..
+2. Conforme entendimento consolidado neste Tribunal, não configura julgamento ultra ou extra petita, com violação ao princípio da congruência ou da adstrição, o provimento jurisdicional exarado nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição inicial.
+3. Agravo interno desprovido.
+(AgInt no AREsp 409.483/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/03/2018, DJe 23/03/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE RESCISÃO DE CONTRATO DE LICENCIAMENTO DE OBRAS MUSICAIS CUMULADA COM REPARAÇÃO POR PERDAS E DANOS, LUCROS CESSANTES E DANOS MORAIS. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. JULGAMENTO EXTRA PETITA. NÃO CONFIGURAÇÃO. ADSTRIÇÃO DA SENTENÇA AO PEDIDO E À CAUSA DE PEDIR. DEFINIÇÃO DO AN DEBEATUR NO TÍTULO JUDICIAL. APURAÇÃO DO QUANTUM DEBEATUR. FASE DE LIQUIDAÇÃO. POSSIBILIDADE. REEXAME DE PROVAS. IMPOSSIBILIDADE NA VIA ESPECIAL. SÚMULA Nº 7/STJ.
+ ..
+2. Não há falar em julgamento extra petita quando decidida a causa dentro dos contornos da lide, que são estabelecidos a partir do exame da causa de pedir eleita pela parte autora da demanda e dos limites do pedido veiculado em sua petição inicial.
+ ..
+(AgInt no REsp 1546086 / RS, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 25/10/2016)
+No caso em apreço, verifica-se que, no agravo de instrumento, a parte agravante expressamente pediu que fosse reformada a decisão agravada para que fosse deferida a tutela antecipada recursal, de sua vez consistente, entre outros, no pedido alternativo de indisponibilidade das unidades autônomas por eles adquiridas junto às matriculas dos imóveis.
+Logo, em harmonia com a jurisprudência desta eg. Corte Superior, não se vislumbra a ocorrência de julgamento extra petita, circunstância apta a atrair o enunciado da Súmula 83/STJ.
+Outrossim, "verifica-se que o acolhimento da pretensão recursal, no sentido de sustentar o julgamento extra petita, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em Recurso Especial, ante o óbice da Súmula 7/STJ." (AREsp 1532049/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/09/2019, DJe 11/10/2019).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 1. REVISÃO DE CONTRATOS ANTERIORES. POSSIBILIDADE. NÃO COMPROVAÇÃO DE NENHUMA ILEGALIDADE. FUNDAMENTO INATACADO. SÚMULA 182 STJ. 2. INEXISTÊNCIA DE JULGAMENTO ULTRA PETITA. 3. EXISTÊNCIA DE TÍTULO EXECUTIVO. 4. EXCESSO DE EXECUÇÃO. AUSÊNCIA DE DEMONSTRAÇÃO DE PAGAMENTO. SÚMULA 7/STJ. 5. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ainda que fosse possível a revisão de contratos anteriores, a agravante não se desobrigou de rebater o fundamento da decisão agravada de que não demonstrou nenhuma ilegalidade em tais contratos. Incidência da Súmula 182/STJ.
+2. Não houve julgamento extra petita, pois a questão referente à possibilidade de revisão de contratos já extintos foi trazida à discussão na apelação da própria agravante.
+3. O instrumento de confissão de dívida, ainda que originário de contrato de abertura de crédito, constitui título executivo extrajudicial (Súmula 300/STJ).
+4. A assertiva de que houve excesso de execução demanda reexame do substrato fático-probatório dos autos. Incidência da Súmula 7/STJ.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 857.467/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/11/2016, DJe 25/11/2016)
+4. Do exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
+EMENTA
