@@ -1,0 +1,21 @@
+DECISÃO
+TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA.INCIDÊNCIA DO DÉCIMO TERCEIRO PROPORCIONAL AO AVISO PRÉVIO INDENIZADO. RECURSO ESPECIAL DA FAZENDA NACIONAL A QUE SE DÁ PROVIMENTO, RECONHECENDO O DIREITO À INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL AO AVISO PRÉVIO INDENIZADO.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, a, da Constituição da República, contra o acórdão proferido pelo egrégio Tribunal Regional Federal da 2a. Região, assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. APELAÇÕES. REEXAME NECESSÁRIO.ADEQUAÇÃO DA VIA ELEITA. PRESCRIÇÃO. PRAZO QÜINQÜENAL. LC N. 118/05. DATADO AJUIZAMENTO DA AÇÃO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. AVISOPRÉVIO INDENIZADO E RESPECTIVO 13º SALÁRIO. NÃO INCIDÊNCIA. HORAS EXTRAS.ADICIONAL NOTURNO, DE INSALUBRIDADE E DE PERICULOSIDADE. INCIDÊNCIA. AVISOPRÉVIO INDENIZADO E RESPECTIVO 13º. NÃO INCIDÊNCIA. ADICIONAL DETRANSFERÊNCIA. AUXÍLIO - ALIMENTAÇÃO. AUXÍLIO - MORADIA. COEFICIENTEDEMOGRÁFICO PAGO A EXPATRIADO. INCIDÊNCIA. COMPENSAÇÃO. ATUALIZAÇÃO.TAXA SELIC. MANUTENÇÃO DA SENTENÇA.
+2. Nas razões de seu Apelo Nobre, a parte recorrente aponta violação dosarts. 22 e 28 da Lei 8.212/1991. Defende, em suma, a incidência de contribuição previdenciária sobre a parcela referente ao décimo terceiro proporcional ao aviso prévio indenizado.
+3. Éo relatório.
+4. Assiste razão à parte recorrenteacerca da incidência de Contribuição Previdenciária sobre os valores pagos a título de décimo terceiro proporcional ao aviso prévio indenizado. A orientação das Turmas que integram a Primeira Seção/STJ é pacífica quanto à incidência da contribuição sobre tais valores. Nesse sentido, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. DECISÃO MONOCRÁTICA. CABIMENTO.CONTRIBUIÇÃO PREVIDENCIÁRIA. DÉCIMO TERCEIRO PROPORCIONAL AO AVISOPRÉVIO INDENIZADO. INCIDÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursosinterpostos com fundamento no CPC/2015 (relativos a decisõespublicadas a partir de 18 de março de 2016) serão exigidos osrequisitos de admissibilidade recursal na forma nele prevista(Enunciado Administrativo n. 3).
+2. Nos termos da Súmula 568 desta Corte e do art. 255, § 4º, doRISTJ, o relator está autorizado a decidir monocraticamente quandohouver entendimento dominante sobre o tema.
+3. Hipótese em que a jurisprudência de ambas as Turmas que integrama Primeira Seção do Superior Tribunal de Justiça firmou-se nosentido de que incide contribuição previdenciária patronal sobre oaviso prévio indenizado e seus reflexos, inclusive o décimo terceiro
+proporcional.
+4. Agravo interno desprovido.AgInt no REsp 1836748/RS, Rel. Min.GURGEL DE FARIA, DJe 17.2.2021.
+
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA SOBRE AS SEGUINTES PARCELAS: ADICIONAISDE INSALUBRIDADE, PERICULOSIDADE, TRANSFERÊNCIA, NOTURNO EHORAS-EXTRAS, BEM COMO SOBRE O DÉCIMO TERCEIRO SALÁRIO PROPORCIONALAO AVISO PRÉVIO INDENIZADO. AGRAVO INTERNO DA EMPRESA DESPROVIDO.
+1. A Primeira Seção desta Corte, no julgamento do Recurso Especial1.358.281/SP, sob o rito dos recursos repetitivos previsto art.543-C do CPC, entendeu que incide a Contribuição Previdenciáriasobre as horas-extras e os adicionais noturno e de periculosidade.
+2. Firmou-se na Seção de Direito Público desta Corte oentendimento de que incide Contribuição Previdenciária sobre asverbas relativas aos adicionais de insalubridade e transferência.
+3. Também já se encontra consolidado nesta Corte a orientação deque a Contribuição Previdenciária incide sobre o décimo terceiroproporcional ao aviso prévio indenizado, uma vez que tais verbasostentam caráter remuneratório.
+4. Agravo Interno da Empresa não provido.AgInt no REsp 1612306/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 8.10.2020.
+5. Ante o exposto, dá-se provimento ao Apelo da FAZENDA NACIONAL, reconhecendo o direito à incidência de contribuição previdenciária sobre o décimo terceiro salário proporcional ao aviso prévio indenizado.
+6. Publique-se. Intimações necessárias.
