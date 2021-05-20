@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manejado por Pedro II Indústria de Papéis Ltda. contra decisão da Vice-Presidência do Tribunal Regional Federal da 2ª Região que inadmitiu seu recurso especial ante os seguintes fundamentos: (I) a parte recorrente não indicou o artigo nem a alínea em que fundamenta seu recurso; (II) nada há no acórdão impugnado que contrarie os dispositivos infraconstitucionais alegadamente violados; (III) incidência da Súmula 7/STJ; (IV) incidência da Súmula 83/STJ.
+A agravante, em síntese, alega que "na peça de interposição do apelo infraconstitucional restou expressamente consignado que " ..  O presente Recurso Especial encontra-se alicerçado na violação direta do decisum ao artigo 5º, inciso LI; e 93, inciso IX, da CE e aos artigos 5º, 6º, 9º, 10º e 489, § 1º, incisos I a VI, do CPC  .. ", restando inequívoco tratar-se da hipótese de contrariedade a dispositivo de Lei Federal prevista no art. 105, III, "a", da Magna Carta" (fl. 232).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, os seguinte fundamentos: (III) incidência da Súmula 7/STJ; (IV) incidência da Súmula 83/STJ.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Registre-se que a Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018), reforçou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
