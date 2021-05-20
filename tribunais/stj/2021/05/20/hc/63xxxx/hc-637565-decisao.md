@@ -1,0 +1,15 @@
+DECISÃO
+MIRIAN ZENAIDE DE FREITAS alega sofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina na Apelação Criminal n. 0015078-23.2013.8.24.0038.
+A defesa pretende, liminarmente e no mérito, a alteração do regime fechado, por entender que a paciente faz jus à aplicação da Súmula 269 do STJ e que a reincidência não é fundamentos suficiente para justificar a modalidade mais gravosa, notadamente pela quantidade de pena aplicada.
+Indeferida a liminar (fls. 418-419), e prestadas as informações, veio o parecer do Ministério Público Federal, que opinou pela denegação da ordem (fls. 456-459).
+Decido.
+Consta dos autos que a paciente foi condenada, em primeira instância, à pena de 10 meses e 14 dias de reclusão, mais multa, pela prática do delito previsto no art. 155, caput, c/c o art. 14, II, ambos do Código Penal. A pena-base foi fixada acima do mínimo legal, diante dos maus antecedentes da ré e o regime fechado justificado pela reincidência (fls. 223-228).
+A Corte estadual deu parcial provimento ao apelo defensivo, a fim de compensar integralmente a agravante da reincidência com a atenuante da confissão espontânea e redimensionar a pena para 9 meses e 10 dias de reclusão.
+O regime fechado foi mantido, pois "a recorrente é reincidente específica e possuidora de circunstância judicial desfavorável" (fl. 398).
+Quanto à almejada modificação do regime inicial do paciente para o semiaberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ª T., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+O art. 33, § 3º, do Código Penal estabelece que "a determinação do regime inicial de cumprimento de pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+Portanto, as mesmas circunstâncias judiciais aferidas pelo magistrado para fixação da pena-base na primeira fase da dosimetria deverão ser sopesadas na imposição do regime inicial de cumprimento de pena.
+No caso dos autos, a ré, além de ser reincidente específica, possui maus antecedentes avaliados como circunstância judicial desfavorável, o que afasta, inclusive, a aplicação da Súmula n. 269 deste Superior Tribunal, "É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais."
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
