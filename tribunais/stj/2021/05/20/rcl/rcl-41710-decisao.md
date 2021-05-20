@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de reclamação apresentada por SEBASTIÃO SIQUEIRA DE SOUZA e VERONICA SEVERINO DE SOUZA, por meio da qual buscam comprovar a ocorrência deafronta à decisão tomada na SLS n.2.886/AM.
+Narram que, nos autos da referida suspensão de liminar e de sentença, a Presidência desta Corte indeferiu o pedido inicial sob o argumento de que não havia comprovação de lesão a qualquer dos bens tutelados pela Lei n.8.437/1992 (saúde, segurança, economia ou ordem públicas).
+Afirmam que, em uma segunda tentativa apresentada pela ora interessada MANAUS TRANSMISSORA DE ENERGIA S.A, o Presidente do Tribunal de Justiça do Estado do Amazonas concedeu pedidode efeito suspensivo a recurso especial a ser interposto.
+Aduzem que o primeiro pedido"transitou em julgado sem que a empresa Manaus Transmissora de Energia interpusesse recurso daquela decisão que indeferiu a concessão de efeito suspensivo ao recurso especial" (fl. 5), o que configuraria coisa julgada material.
+Argumentam que "a decisão que concedeu o efeito suspensivo ao recurso especial, pela Presidência do Tribunal de Justiça do Amazonas, ofusca visceralmente a garantia da autoridade da decisão insculpida na SLS de nº2886/AM" (fl. 19).
+Requerem, ao final, o provimento da reclamação a fim de que "seja cassado o efeito suspensivo concedido equivocadamente, nos autos de nº 4002246-78.2021.8.04.0000, pela Presidência do Tribunal de Justiça do Amazonas" (fl. 20).
+É, no essencial, o relatório. Decido.
+A reclamação no STJ encontra fundamento na Constituição Federal de 1988, art. 105, I, f, bem como no art. 988 do Código de Processo Civil, e está regulamentada nos arts. 187 a 192 do Regimento Interno desta Corte, supondo-se ato de juiz ou tribunal que afronte a autoridade de decisão do Superior Tribunal de Justiça ou que lhe usurpe a competência.
+A reclamação foi ajuizada contra decisão do Presidente do TJAM que concedeu o efeito suspensivo a recurso especial.
+Ocorre que a decisão tomada nos autos da suspensão de liminar e de sentença não se confunde com a citada concessão de efeito suspensivo, já que o instituto tem características próprias e, portanto, o decidido por esta Presidência na SLS n.2.886/AM focou nos parâmetros descritos na Lei n.8.437/1992.
+A propósito, a decisão entendeu que não havia comprovação de lesão aos bens tutelados pela lei de regência - saúde, segurança, economia ou ordem pública. Não se referiu, em momento algum, à atribuição ou não de efeito suspensivo a um possível recurso especial interposto no processo de origem.
+Sendo assim, fica claro que não está caracterizada qualquer usurpação de competência desta Presidência, mas a utilização da reclamaçãocomo sucedâneo recursal.Não se pode aceitar talatalho processual para oexame do conteúdo da questão meritória principal da demanda originária, sob pena de desvirtuamento de seu regime jurídico.
+Importa ressaltar que, conforme sólido entendimento do Superior Tribunal, "a reclamação é uma medida excepcional, sendo inadmissível a sua utilização como sucedâneo recursal" (Rcl n. 34.065/SP, relator Ministro Jorge Mussi, Terceira Seção, DJe de 20/6/2018).
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço da reclamação.
+Publique-se. Intimem-se.
