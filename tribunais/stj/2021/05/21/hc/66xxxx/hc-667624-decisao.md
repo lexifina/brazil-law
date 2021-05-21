@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de FERNANDA ALVES LEODOROem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Narra a defesa que a paciente teria sido presa cautelarmente por meio de decisão desprovida de motivação idônea, já que não apontada, concretamente, a presença dos requisitos contidos no art. 312 do Código de Processo Penal, asseverando, ainda, ser ela mãe de 5 filhos menores que necessitam de seus cuidados, de modo que, no ponto, faz jus à prisão domiciliar.
+Pontua que o Magistrado de piso não se manifestou acerca do pleito de revogação da custódia, bem como haver excesso de prazo para a formação da culpa.
+Assere que ohabeas corpusimpetrado na origem objetivando a liberdade da paciente não foi conhecido pela Cortea quo, que concluiu ser de competência do Tribunal de Justiça do Estado de Mato Grosso do Sul o exame do pleito de soltura, e insurge-se contra a aludida compreensão do Tribunal mineiro.
+Sustenta que a paciente não integra organização criminosa e que militam em seu favor condições pessoais favoráveis, tais como primariedade, bons antecedentes, residência fixa e ocupação lícita.
+Defende, por fim, a suficiência da imposição de medidas cautelares alternativas.
+Busca, inclusive liminarmente, possa a paciente responder à ação penal em liberdade ou, subsidiariamente, "que seja encaminhado AUTOMATICAMENTE POR ESTE ORGÃO JULGADOR AO TRIBUNAL COMPETENTE PARA DEVIDO JULGAMENTO, em razão do TRIBUNBAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS SE MANIFESTAR INCOMPETENTE PARA JULGAR O PEDIDO DE HABEAS CORPUS, informando que o órgão julgado competente seria o TRIBUNAL DE JUSTIÇA DEMATO GROSSO DO SUL, TRIBUNAL ESTE QUE SEQUER RECEBEU QUALQUER AÇÃO PENAL EM RELAÇÃO A PACIENTE" (e-STJ fl. 25).
+É o relatório.
+Decido.
+Pois bem. A despeito do esforço da diligente defesa, as teses formuladas não foramenfrentadas pela autoridade tida como coatora, o que impede esta Corte de analisar os temas, sob pena de incorrer em indevida supressão de instância e em violação ao princípio do duplo grau de jurisdição.
+Ao discorrer sobre o tema, BRASILEIRO vaticina com clareza que se revela "inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heróico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev. ampl. e atual. Salvador: JusPodivm, 2016, p. 2.470).
+Logo, ante a falta de manifestação do colegiado estadual sobre a tese, percebe-se a incompetência desta Corte Superior para seu processamento e julgamento, já que inexiste, no ponto, ato a ser imputado à autoridade coatora, nos termos do art. 105, I, alínea "c", da Constituição Federal, bem como do art. 13, I, alínea "b", do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS DE AUTORIA. INVIÁVEL. NÃO CONHECIMENTO. CONSTRANGIMENTO ILEGAL POR EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADO.
+1. Em sede de habeas corpus não há espaço para discussão de autoria delitiva, uma vez que a ação mandamental em comento visa sanar ilegalidade verificada de plano.
+2. Constatada a falta de manifestação do Tribunal de origem a respeito do constrangimento ilegal decorrente de excesso de prazo para formação da culpa, obsta-se a análise da matéria nesse momento, pois provocaria indevid a supressão de instância.
+ ..  (HC 387.938/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/03/2017, DJe 23/03/2017.)
+Ademais, quanto ao pleito de que seja ordenada a análise das teses pelo Tribunal mineiro, verifico que não foram juntados aos autos o acórdão que tratou da matéria e que concluiu por sua incompetência, tampouco documentos que permitissem a este julgador proceder com o devido exame da controvérsia.
+Ante o exposto, indefiro liminarmente ohabeas corpus.
+Publique-se. Intimem-se.
