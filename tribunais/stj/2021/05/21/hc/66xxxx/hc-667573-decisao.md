@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de CLAUDECIR XAVIER BATISTA, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (nº 2100883-86.2021.8.26.0000).
+Segundo consta dos autos, o paciente foi preso pelos fatos narrados e ocorridos no período de5/9/2019 a 27/10/2020, pela suposta prática do delito tipificado nos arts. 33, caput,e 35, caput, ambos da Lei n. 11.343/2006. Posteriormente, sua prisão temporária foi convertida em preventiva.
+Contra a decisão, a defesa impetrou habeas corpus na Corte estadual, alegando, em síntese, uso de fundamentação genérica e lastreada na reincidência específica do paciente, alémde ausenteelementos concretos para a segregação cautelar. Contudo, a ordem foi denegada pelo Tribunal a quo(e-STJ fls. 35/42).
+Na presente oportunidade, alega a defesa que a manutenção da prisão preventiva configura constrangimento ilegal à liberdade do paciente por estar fundamentada apenas na gravidade abstrata do crime de tráfico de drogas, bem como alega que o paciente possui residência fixa e trabalho lícito (e-STJ fl. 6). Aduz, ainda, que a decisão de 1º grau não acatou a Recomendação n. 62/2020(e-STJ fl. 9).
+Diante disso, pleiteia, liminarmente e no mérito, a concessão da ordem para revogar a prisão preventiva e, subsidiariamente, a substituição da ordem para a aplicação de medidas alternativas.
+É o relatório. Decido.
+Não há como prosseguir a irresignação. Isso porque a defesa não juntou aos autos cópia de peça processual indispensável para a compreensão da controvérsia, qual seja, a decisão que converteuda prisão em flagrante em preventiva.
+É de se ressaltar que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Ausente a prova pré-constituída do direito alegado, o não conhecimento do mandamus é medida que se impõe.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente opresente habeas corpus.
+Intimem-se.
