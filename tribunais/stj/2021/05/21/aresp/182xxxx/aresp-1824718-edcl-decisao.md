@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SINDICATO DOS SERVIDORES DO DEPARTAMENTO ESTADUAL DE TRANSITO DO MARANHAO em face da decisão que não conheceu do agravo em razão da ausência de impugnação específica dos fundamentos de inadmissão do recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que "não há que se falar em ausência de prequestionamento da matéria, uma vez que o presente recurso passou pelo crivo da admissibilidade, e restou comprovada que seu seguimento não teria óbice" (fl. 434). Contesta, ainda, a majoração dos honorários.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Os embargos não comportam acolhimento.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: a Súmula 7/STJ.
+Não há na decisão embargada qualquer menção a prequestionamento.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que inadmite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Quanto à majoração dos honorários recursais, o novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação, aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Ademais, conforme dicção do Enunciado Administrativo n. 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Observe-se que, no presente caso, não há omissão uma vez que o dispositivo da decisão embargada é claro no sentido de que somente serão majorados se houver "prévia fixação de honorários de advogado pelas instâncias de origem". Assim, a contrario sensu, se não houve prévia fixação, não haverá, também, majoração.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
