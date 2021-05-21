@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de Jonathan Santos da Silvacontra o acórdão de apelação proferido pelo Tribunal de Justiça local, nos autos da Ação Penal n. 0020847-06.2018.8.26.0224, que manteveincólume a sentença condenatória.
+Narram os autos que aVara do Júri de Guarulhos/SP condenou o paciente, após condenação pelo Conselho de Sentença, à pena de 16 anos de reclusão, em regime inicial fechado, pela prática do crime do art. 121, § 2º, I, IV e VI, do Código Penal.
+A defesa aponta, na presente impetração, constrangimento ilegal na dosimetria da pena, argumentando que não se compensou a atenuante da confissão espontânea com a agravante da reincidência.
+É o relatório.
+A impetração merece ser acolhida.
+Com efeito, ainda que esteja a dosimetria da pena inserida em um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, a conclusão do Tribunal de Justiça bandeirante foi de encontro à jurisprudência consolidada e reiterada do Superior Tribunal de Justiça.
+Ao que se observa, o Tribunal de Justiça bandeirante afirmou que, ao contrário do que sustenta a defesa, não há como concluir que eventual confissão, parcial ou não, e feita perante a autoridade policial ou mesmo na fase do judicium accusationis, tenha influenciado ou não o Conselho de Sentença, vez que não exteriorizada pelo réu e sequer debatida em plenário (fl. 48).
+Segundo o entendimento do Superior Tribunal de Justiça, a confissão do agente é um dos fundamentos da condenação, pois a atenuante prevista no art. 65, III, d, do Código Penal, deve ser aplicada, sendo irrelevante se a confissão foi espontânea ou não, total ou parcial, ou mesmo se houve retratação posterior. Nesse mesmo sentido: HC n. 484.336/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/4/2019; e AgRg no AREsp n. 1.392.267/AL, Ministra Laurita Vaz, Sexta Turma, DJe 10/4/2019.
+Ademais, tal compreensão restou sufragada no enunciado da Súmula 545/STJ: quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, "d", do Código Penal.
+Em razão disso, faz-se necessário o redimensionamento da pena imposta, ao qual procedo valendo-me dos fundamentos elencados na sentença condenatória e no acórdão quanto aos demais aspectos.
+Portanto, na primeira fase, mantenho a conclusão de quea culpabilidade é normal ao tipo. O réu é portador de bons antecedentes (FA de fls. 426/428). Não há elementos suficientes que permitam avaliar sua conduta social. A personalidade do agente não merece ser valorada negativamente. A vítima em nada contribuiu para a prática delitiva. Os motivos, as circunstâncias e as consequências do crime são comuns à espécie. Assim fixo a pena-base no patamar de 12 (doze) anos de reclusão (fls. 33/34 - grifo nosso).
+Na segunda fase, considerando o referido entendimento do Superior Tribunal de Justiça, a confissão espontânea deve incidir ao caso dos autos, contudo, estão presentes duas agravantes previstas no art. 61, inciso II, "a" (o crime foi cometido por motivo torpe, pois o réu matou a vítima por não aceitar que ela tivesse uma vida própria e independente da dele, com injustificado sentimento de posse, tratando-a como se objeto fosse) e "b", do Código Penal (o crime foi cometido mediante recurso que dificultou a defesa da vítima, pois mesmo a vítima correndo, o réu valeu-se do fato de que ela entrou em um banheiro, estando já encurralada para desferir-lhe facadas) - fl 34, motivo pelo qual fixo a pena em 14 anos de reclusão.
+Na terceira etapa, ausentes causas de diminuição ou de aumento de pena, torno definitiva a reprimenda em 14 anos de reclusão, mantendo-se os demais termos da condenação.
+Ante o exposto, concedo liminarmente a ordem para redimensionar a pena do pacientepara 14 anos de reclusão, mantidos os demais termos da condenação.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. SENTENÇA CONDENATÓRIA CONFIRMADA PELO TRIBUNAL DE JUSTIÇA. CONFISSÃO ESPONTÂNEA DO ACUSADO AFASTADA. FLAGRANTE ILEGALIDADE. OCORRÊNCIA. SÚMULA 545/STJ. APLICAÇÃO. NECESSIDADE.
+Ordem liminarmente concedida nos termos do dispositivo.
