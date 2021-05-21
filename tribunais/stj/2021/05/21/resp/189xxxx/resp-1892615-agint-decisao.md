@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interno interposto por EDUARDO GASPAR TUNALA contra decisão que negou seguimento ao recurso extraordinário, assim ementada (e-STJ fl. 444):
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DA INAFASTABILIDADE DE JURISDIÇÃO, DA DIGNIDADE DA PESSOA HUMANA, DA LEGALIDADE E DA PROPRIEDADE.TEMA 895/STF. AUSÊNCIA DE REPERCUSSÃO GERAL.SEGUIMENTO NEGADO.
+Reitera o agravante a ofensa aos arts. 2º, 5º, inciso II, e 22, inciso I, todos da Constituição Federal, aduzindo que "criar um requisito novo (gravidade da medida) para impedir os efeitos da intimação via Diário Oficial e pelo advogado constituído em sede de execução de obrigação de fazer é matéria afeita, repise-se, à União por excelência (Poder Executivo)" (e-STJ fl. 451).
+Alega que "a repercussão geral é manifesta, sendo vão o argumento de que seria necessário, na hipótese, a análise da Súmula 410 do STJ ou do artigo 815 do CPC como tenta inculcar a r. decisão combatida, pois, repita-se, trata-se principalmente da busca dapreservação do princípio da legalidade por ignorar-se o artigo 512, parágrafo 2º, I do CPC, não sendo, portanto, ofensa reflexa à Carta Maior como se argumenta no decisum impugnado, mas, sim, direta e frontal à mesma" (e-STJ fls. 455/456).
+Requer o provimento do reclamo para que o apelo extremo seja admitido.
+As contrarrazões foram apresentadas às fls. 461/464.
+É o relatório.
+Compulsando-se os autos, verifica-se que o Tema 895/STF não se aplica ao caso, razão pela qual se reconsideraa decisão agravada e, consequentemente, realiza-se novo juízo deadmissibilidade do recurso extraordinário interposto.
+A controvérsia cinge-se à questão da necessidade de prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer, estando o acórdão recorrido assim fundamentado (e-STJ fls. 404/407):
+Os argumentos trazidos pelo insurgente não são capazes de modificar as conclusões da decisão agravada.
+Com efeito, segundo a jurisprudência desta Corte Superior a intimação para o cumprimento de obrigação de fazer ou de não fazer deve ser feita pessoalmente em nome da parte sobre a qual recai a ordem judicial cominatória.
+Tal determinação decorre da gravidade das consequências do descumprimento da ordem judicial, que pode levar até mesmo à responsabilidade pelo crime de desobediência (art. 330 do Código Penal), em comparação àquelas decorrentes do descumprimento de determinação de pagar quantia certa.
+Por conseguinte, o devedor de obrigação de fazer/não fazer ou de entregar coisa, quando tem contra si ordem para cumprimento da decisão judicial, deve ser intimado pessoalmente, em razão das múltiplas e graves consequências de seu eventual desatendimento ao mandamento jurisdicional (EREsp 1.371.209/SP, Rel.
+Ministro Herman Benjamin, Rel. p/ Acórdão Ministro João Otávio de Noronha, Corte Especial, julgado em 19/12/2018, DJe 16/4/2019).
+Também dispõe a Súmula 410/STJ que "a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer".
+Ressalte-se que, a despeito de ter o respectivo verbete sumular sido editado à luz do diploma processual revogado (CPC/1973), é perfeitamente aplicável sob a ótica do CPC/2015.
+ ..
+No caso sub judice, a Corte estadual, em consonância com o entendimento do STJ, concluiu ser necessária a intimação pessoal do vencido para o cumprimento da obrigação (e-STJ, fl. 326). Incidência, por conseguinte, da Súmula n. 83/STJ.
+Desse modo,a análise da matéria ventilada depende do exame do art. 513, § 2º, do Código de Processo Civil, bem como daLein. 11.232/2005 e da Lei n. 11.382/2006, razão pela qualeventual ofensa à Constituição Federal, se houvesse, seria reflexa ou indireta, não legitimando a interposição do apelo extremo.
+Em casos semelhantes, assim tem decidido o Supremo Tribunal Federal:
+Agravo regimental no recurso extraordinário com agravo. Direito Processual Civil. Limites da coisa julgada. Ausência de repercussão geral. Ação de obrigação de fazer. Multa. Intimação pessoal. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Ausência de repercussão geral do tema relativo à suposta violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes , Tema 660, DJe de 1º/8/13). 2. Não se presta o recurso extraordinário para a análise da causa à luz da interpretação dada à legislação infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos (Súmulas nºs 279 e 636/STF). 3. Agravo regimental não provido. 4. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+(ARE 1260085 AgR, Relator(a): DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 29/06/2020, PROCESSO ELETRÔNICO DJe-228 DIVULG 14-09-2020 PUBLIC 15-09-2020)
+Ante o exposto, reconsidera-sea decisão de fls. 444/445, e,com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. OBRIGAÇÃO DE FAZER COM COMINAÇÃO DE MULTA DIÁRIA. NECESSIDADE DE INTIMAÇÃO PESSOAL DO DEVEDOR.OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. RECURSO NÃO ADMITIDO.
