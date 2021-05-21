@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. REGIME. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO STF. ABSOLVIÇÃO. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Aplicam-se os óbices previstos nas Súmulas n. 282 e 356 do STF quando a questão suscitada no recurso especial não foi apreciada pelo tribunal de origem.
+2. Incide a Súmula n. 7 do STJ no caso em que, para o reconhecimento da absolvição da prática do crime de tráfico de entorpecentes, a revisão do entendimento do tribunal de origem acerca damaterialidade e autoriaimplicar o revolvimento fático-probatório dos autos.
+3. Mantém-se a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ.
+4. Agravo regimental desprovido.
+RELATÓRIO
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE interpõe agravo regimental contra a decisão de fls. 360-363, que conheceu do agravo em recurso especial para não conhecer do apelo extremo, aplicando ao caso as Súmulas n. 7 do STJ e 282 e 356 do STF.
+O Tribunal de origem, em apelação, deu provimento aos recursos dos ora agravados "a fim de reformar a sentença para absolver a recorrente Elizângela Medeiros da Silva da imputação relativa ao tráfico de drogas, fixando, pelo delito de porte ilegal de arma de fogo de uso permitido com numeração suprimida, a pena definitiva de 03 (três) anos de reclusão e 10 (dez) dias -multa, estabelecendo o regime inicial aberto e substituindo a pena privativa de liberdade em duas restritivas de direitos a serem definidas pelo Juizo da Execução Penal; e aplicar a fração máxima relativa ao tráfico privilegiado para o recorrente Jales Roberto Elias Dias, para fixar a pena concreta e definitiva em 05 (cinco) anos, 05 (cinco) meses e 14 (quatorze) dias de reclusão e 206 (duzentos e seis) dias-multa, e estabelecer o regime inicial semiaberto, mantendo os demais termos da sentença hostilizada" (fls. 251-253).
+O recurso especial foi interposto pelo órgão ministerialcom fundamento na alínea ado permissivo constitucional, por suposta violação: a) do art. 42da Lei n. 11.343/2006, visto que a quantidade de drogas apreendidadeve ser considerada para fins de fixação de regime de cumprimento de pena mais gravoso a Jales Roberto Elias; e b) do art. 33, caput, da Lei n. 11.343/2006, pois o fato de Elizângela Medeiros da Silva ter transportado a droga apreendida é suficiente para ensejar condenação pela prática do crime de tráfico de entorpecentes.
+Na decisão de fls. 360-363, do agravo se conheceu para não se conhecer do recurso especial diante da aplicação das Súmulas n. 7 do STJ e 282 e 356 do STF.
+No presente recurso, alega o agravante que a matéria versada no art. 42 da Lei n. 11.343/2006 foi debatida nas instâncias ordinárias, motivo pelo quala quantidade de drogas, considerada na terceira fase da dosimetria, deve ser utilizada para a fixação deregime inicial de pena mais gravoso em desfavor doagravado. Afirmaainda que não pretende areapreciação de provas, mas apenas a revaloração dos fatos para fins de condenar a ora agravada pela prática do crime de tráfico de entorpecentes, haja vista serincontroverso que ela transportou a droga.
+Requer seja exercido juízo de retratação ou seja o presente agravo submetido à Turma para provimento do recurso especial mediante a reforma do acórdão.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. REGIME. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO STF. ABSOLVIÇÃO. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Aplicam-se os óbices previstos nas Súmulas n. 282 e 356 do STF quando a questão suscitada no recurso especial não foi apreciada pelo tribunal de origem.
+2. Incide a Súmula n. 7 do STJ no caso em que, para o reconhecimento da absolvição da prática do crime de tráfico de entorpecentes, a revisão do entendimento do tribunal de origem acerca damaterialidade e autoriaimplicar o revolvimento fático-probatório dos autos.
+3. Mantém-se a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ.
+4. Agravo regimental desprovido.
+VOTO
+O recurso não reúne condições de êxito.
+Nas razões do especial, o parquet estadual apontou violação do art. 42 da Lei n. 11.343/2006 nestes termos (fl. 277):
+No que toca ao recorrido JALES ROBERTO ELIAS DIAS, a Corte de origem, embora reconhecendo que o acusado em tela traficava 278g (duzentos e setenta e oito gramas) de maconha, aplicou a causa de diminuição de pena do art. 33, § 4º, da Lei 11.343/2006 na fração máxima, alterando o regime de pena do fechado para o semiaberto. Ao assim proceder, o acórdão inquinado contrariou o art. 42 da Lei de Drogas.
+Nesse ponto, verifica-se que a questão não foi apreciada pelo Tribunal de origem e não foram opostos embargos de declaração para sanar omissão porventura existente.
+Considerando as razões expostas e o teor do acórdão recorrido, não é possível reconhecer que o Tribunal de origem tenha abordado a tese de que a quantidade de drogas deve ser utilizada como parâmetro para fixar o regime inicial mais gravoso em desfavor do agravado. Por isso deve ser mantida a aplicação das Súmulas n. 282 e 356 do STF.
+Nesse sentido, o seguinte precedente:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS RECURSOS ESPECIAIS. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. INVIABILIDADE. CONTRABANDO.DOSIMETRIA DA PENA. PRESTAÇÃO PECUNIÁRIA. PRETENSÃO DE REDUÇÃO DO QUANTUM FIXADO. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. FUNDAMENTOS NÃO IMPUGNADOS NAS RAZÕES DO RECURSO ESPECIAL. SÚMULA 283/STF. COMPLEMENTAÇÃO DAS RAZÕES RECURSAIS NO AGRAVO REGIMENTAL. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. CIRCUNSTÂNCIA JUDICIAL NEGATIVA.MOTIVAÇÃO IDÔNEA PARA OBSTAR A INCIDÊNCIA DA BENESSE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. No que diz respeito à alegada insuficiência financeira da recorrente para arcar com o valor fixado a título de prestação pecuniária substitutiva, sob o argumento de que o delito teria sido cometido em troca do pagamento de R$ 200,00 (duzentos reais), valor que seria utilizado para pagar o aluguel, pois estaria desempregada, verifico que a referida tese não foi apreciada pelo Tribunal de origem sob esse enfoque (e-STJ fl. 447), tampouco foi objeto de embargos de declaração, não podendo, portanto, ser analisada por esta Corte Superior, sob pena de frustrar a exigência constitucional do prequestionamento. Incidência das Súmulas n. 282/STF e 356/STF.
+ ..
+8. Agravo regimental não provido.(AgRg no REsp n. 1.898.454/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 17/12/2020.)
+O Ministério Público também apontou ofensa ao disposto no art. 33, caput, da Lei n. 11.343/2006,no que concerne à tipificação do crime de tráfico de drogas, assim argumentando (fls. 279-280):
+Na hipótese dos autos, a recorrida ELIZANGELA MEDEIROS DA SILVA foi presa em flagrante por policiais militares portando uma arma de fogo e transportando 278g (duzentos e setenta e oito gramas) de maconha.
+ ..
+Ao assim proceder, a recorrida assumiu, de forma consciente e voluntária, o risco do resultado ilícito, não havendo coação irresistível para o transporte da droga. Ademais, trata-se de crime formal e plurinuclear que se consuma com a prática de qualquer dos verbos do tipo penal, não dependendo de resultado naturalístico.
+ ..
+Aliás, se fosse para absolver a recorrida quanto à imputação de tráfico de drogas, a Corte local teria que absolvê-la também do delito de porte ilegal de arma de fogo, já que o artefato, a exemplo da droga, estava sendo transportado por ela para seu esposo
+O Tribunal de origem, no que se refere à insuficiência de provas quanto à autoria do crime de tráfico de entorpecentes com relação à agravada, decidiu nestes termos (fl. 258):
+In casu, com relação ao tráfico ilícito de drogas, as evidências apontam que a acusada Elizângela Medeiros da Silva estava transportando uma quantidade de droga, não para a traficância ou consumo, mas para atender a pedido de seu esposo que se encontrava hospitalizado e prestes a ser transferido para Natal, a fim de ser submetido a uma cirurgia na clavícula, em decorrência de um acidente de moto.
+Registre-se que os policiais não relataram qualquer envolvimento da acusada com o tráfico, apenas que, percebendo que ela alterou seu caminho quando visualizou a guarnição, flagraram-na transportando a droga, tendo ela, de pronto, esclarecido o que levava. Ademais, considerando-se as circunstâncias em que o casal iria se deslocar para Natal, causa estranheza que pretendessem transportar junto a droga e a arma de fogo. Frise-se, ainda, que a atitude da apelante enseja dúvidas quanto à ciência do destino da droga pertencente ao seu companheiro.
+Logo, entendo que as provas são insuficientes para configurar o tráfico ilícito de drogas em face da recorrente Elizângela Medeiros da Silva, em observância ao princípio in dubio pro reo.
+Assim, é inafastável a incidência da Súmula n. 7 do STJ quando, para o reconhecimento da absolvição da prática do crime de tráfico de entorpecentes, a revisão do entendimento do Tribunal a quoacerca damaterialidade e autoriaimplicar o revolvimento fático-probatório dos autos.
+A propósito, o seguinte julgado:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. COCAÍNA E CRACK. TESE DE INEXISTÊNCIA DE COMPROVAÇÃO DA AUTORIA. ÓBICE DA SÚMULA N. 7. PLEITO DE ELEVAÇÃO DO PATAMAR DO REDUTOR.NEGATIVA CORRETAMENTE JUSTIFICADA PELA VARIEDADE E PELA NATUREZA DOS ENTORPECENTES APREENDIDOS. AGRAVO REGIMENTAL IMPROVIDO.
+1. Tal como já referido pela decisão ora agravada, para acolher a tese de inexistência de prova da autoria do delito de tráfico de drogas, esta Corte teria, antes, de desqualificar todo o acervo fático e probatório produzido nas instâncias ordinárias, o que demandaria, sem sombra de dúvida, novo esmerilamento dos autos, situação absolutamente vedada pelo óbice intransponível da Súmula n. 7, não sendo, mesmo, a hipótese dos autos mero caso de nova interpretação do conjunto probatório.
+ ..
+3. Agravo regimental improvido.(AgRg no AREsp 1172362/BA, Relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 24/11/2017.)
+Desse modo, fica mantida a decisão agravada, cujos fundamentos estão em conformidade com o entendimento do STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
