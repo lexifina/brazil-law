@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁScontra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça daquele Estado.
+Sustenta o Parquet, nas razões do recurso especial (e-STJ, fls. 166-173), violação doartigo 91, II, "b", do Código Penal, ao argumento de que não poderia ter sido restituído ao recorrido o veículo utilizado para o cometimento do crime de tráfico de drogas, na medida em que "o perdimento do bem produto de crime em favor da União é efeito da condenação" (e-STJ, fl. 171).
+Assevera, ainda, que, "verificada a omissão sobre a restituição do bem tanto na sentença quanto no acórdão, poderia o recorrente ter oposto embargos de declaração, impelindo o Tribunal goiano a manifestar-se, ônus do qualnão se desincumbiu", concluindo, por fim, que não existiria "obrigatoriedade de que seja resolvida a questão no momento da condenação" (e-STJ, fl. 172).
+Requer o provimento do recursopara que seja reconhecida a impossibilidade de restituição do veículo apreendido ao ora agravado.
+Embora devidamente intimada, a parte contrária não apresentou contrarrazões (e-STJ, fl. 179).
+O recurso foi inadmitido com fundamento na Súmula 7 do STJ (e-STJ, fls. 180-182). Daí este agravo (e-STJ, fls. 190-198).
+O Ministério Público Federal opina pelo desprovimento do recurso (e-STJ, fls. 212-214).
+É o relatório.
+Decido.
+Acerca da controvérsia, assim constou do acórdão recorrido (e-STJ, fls. 159-160, grifou-se):
+"É fato que não houve a declaração do perdimento do bem por ocasião da prolação da sentença condenatória no processo de tráfico de drogas (132159-80.2017.8.09.0034) e tampouco foi apreciada no acórdão desta Casa (436405-172015.8.09.0034 (201594364052), sendo declarada tão somente após o trânsito emjulgado do acórdão deste grau de jurisdição, após promovido pelo insurgente o pedido de restituição do veículo.
+Ressalte-se que também não houve, por parte do apelante, a oposição de embargos declaratórios por conta da omissão referida, fluindo in albis, o prazo recursal.
+De se observar que restou sobejamente demonstrado que o veículo, objeto da apreensão, tem nexo etiológico (relação de causa e efeito entre a conduta e o resultado) com a infração penal de tráfico de drogas, por que éfactível dizer que o veículo era utilizado para a disseminação da substância ilícita, o que foi reconhecido na sentença prolatada tanto na ação penal de tráfico de drogas, quanto neste incidente.
+Por sua vez, o art. 63, da Lei 11.343/06 dita que o magistrado ao proferir a sentença de mérito, decidirá sobre o perdimento do produto, bem ou valor apreendido, sequestrado ou declarado indisponível.
+O art. 91, inciso II, alíneas "a" e "b", do Código Penal, preconiza que é efeito da condenação a perda em favor da União dos instrumentos e do produto crime, ressalvado o direito do lesado e do terceiro de boa-fé.
+No caso, não foi declarada a destinação do bem apreendido no momento oportuno, sendo decretado o perdimento do veículo em favor da União, pelo magistrado singular, após o trânsito em julgado do acórdão desta Instância Revisora, ocorrido em 25/05/2017, consoante cópia da certidão acostada às fls. 120.
+A meu sentir, assiste razão à pretensão do apelante, pois, na ocasião em que o juízo de Primeiro grau declarou e decretou a perda do veículo, já havia se esgotado a sua jurisdição, eis que ocorrera o trânsito em julgado, inclusive, em Segundo grau."
+Sobre o tema, segundo se verifica do excerto acima transcrito, é crível que o automóvel tenha sido utilizado como instrumento para a prática do delito. Todavia, conforme consignado pela Corte de origem, a perda do veículo se deu somente quando do trânsito em julgado do acórdão, já esgotada a jurisdição do magistrado de 1º grau.
+Ocorre que,"como regra geral, a restituição das coisas apreendidas, mesmo após o trânsito em julgado da ação penal, está condicionada tanto à ausência de dúvida de que o requerente é seu legítimo proprietário, quanto à licitude de sua origem e à demonstração de que não foi usado como instrumento do crime, conforme as exigências postas nos arts. 120, 121 e 124 do Código de Processo Penal, c/c o art. 91, II, do Código Penal."(RMS 64.749/PB, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/03/2021, DJe 15/03/2021, grifou-se).
+Tais circunstâncias não se mostram claramente demonstradas nos autos, de modo que, concluir em sentido diverso encontraria óbice na Súmula 7/STJ, pois exigiria o revolvimento fático-probatório dos autos, inviável por meio de recurso especial.
+Noutro giro, como bem ponderou o Ministério Público Federal em seu parecer, "a perda em favor da União do automóvel GM Corsa Super, ano/modelo 1997 só constitui efeito da condenação se constituirproveito auferido pelo agente com a prática do tráfico. Esse tema não foi objeto da sentença condenatória até porque não o foi da instrução processual" (e-STJ, fl. 213).
+A propósito, mutatis mutandis:
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESTITUIÇÃO DE BENS. SENTENÇA CONDENATÓRIA. SÚMULA N.7/STJ. AGRAVO DESPROVIDO.
+1. "Como regra geral, a restituição das coisas apreendidas, mesmo após o trânsito em julgado da ação penal, está condicionada tanto à ausência de dúvida de que o requerente é seu legítimo proprietário, quanto à licitude de sua origem e à demonstração de que não foi usado como instrumento do crime, conforme as exigências postas nos arts. 120, 121 e 124 do Código de Processo Penal, c/c o art. 91, II, do Código Penal."(RMS 56.799/MT, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/06/2018, DJe 20/06/2018).
+2. Agravo regimental desprovido."
+(AgRg no AREsp 1407471/RR, de minha Relatoria, QUINTA TURMA, julgado em 16/05/2019, DJe 21/05/2019).
+"REGIMENTAL. AGRAVO NO RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO. APREENSÃO DE DINHEIRO. RESTITUIÇÃO. AUSÊNCIA DE COMPROVAÇÃO DA ORIGEM LÍCITA DA QUANTIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. RECURSO IMPROVIDO.
+1. É assente na jurisprudência desta Corte Superior que a restituição de bens apreendidos durante a ação penal somente se efetivará após a comprovação da sua origem lícita.
+2. O Tribunal a quo, apreciando os elementos dos autos, indeferiu o pedido de restituição do bem apreendido por entender não se ter comprovada a sua proveniência e, para se chegar a conclusão em sentido diverso, como pretendido na insurgência, seria necessário uma a incursão sobre as provas produzidas, o que é vedado na via eleita, pelo Enunciado n. 7 da Súmula deste Corte.
+3. Agravo a que se nega provimento."
+(AgRg no AREsp 1081863/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 22/05/2018, DJe 30/05/2018).
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. RESTITUIÇÃO DE BENS APREENDIDOS. ACÓRDÃO RECORRIDO NO SENTIDO DE AUSÊNCIA DE COMPROVAÇÃO DA PROPRIEDADE DO BEM E DA ORIGEM LÍCITA. SÚMULA 7/STJ. NOMEAÇÃO DE DEPOSITÁRIO FIEL. MATÉRIA QUE NÃO FOI OBJETO DE DEBATE NA CORTE DE ORIGEM. FALTA DE PREQUESTIONAMENTO. AGRAVO IMPROVIDO.
+1. A restituição de coisas apreendidas condiciona-se à ausência de dúvida acerca da propriedade do bem e à licitude de sua origem, nos termos dos arts. 120 e 121 do CPP c/c 91, II, do CP.
+2. Tendo o Tribunal de origem consignado que a propriedade do bem apreendido e sua origem lícita não estariam devidamente comprovadas, a inversão do julgado demandaria revolvimento fático-probatório, o que encontra óbice na Súmula 7/STJ.
+3. É indispensável ao conhecimento do recurso especial que tenham sido debatidas, no acórdão combatido, as questões trazidas no recurso especial, relativamente ao pedido de nomeação de fiel depositário do bem.
+4. Agravo regimental improvido."
+(AgInt no REsp 1701339/RO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 08/05/2018, DJe 21/05/2018).
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
