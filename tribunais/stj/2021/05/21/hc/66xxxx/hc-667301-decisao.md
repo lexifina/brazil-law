@@ -1,0 +1,12 @@
+DECISÃO
+Em razão do indeferimento do pedido liminar formulado no HC n. 5224993-80.2021.8.09.0000, que tramita no Tribunal de Justiça de Goiás, impetrou-se este writ, no qual se requer a imediata revogação da prisão preventiva de Brunna Ingrid Neves Oliveira no Processo n. 5212707-14.2021.8.09.0051, da 4ª Vara Criminal da comarca deGoiânia, ou a substituição da medida pela prisão domiciliar, sob os argumentos de quea pacienteé mãe de uma criança de 3 (três) anos de idade, além de ser primária e portadora de bons antecedentes, conforme documentação em anexo, e está presa preventivamente por crime cometido sem violência ou grave ameaça (arts. 33 e 35 da Lei n. 11.343/2006)(fl. 6), e de quea prisão preventiva foi decretada com base na gravidade abstrata, oriunda das próprias tipificações penais, haja vista que não há variedade de drogas, bem como sua quantidade não se mostra exuberante, menos de 2 kg(fl. 10).
+É o relatório.
+Segundo a pacífica orientação jurisprudencial, salvo nas situações em que a negativa do pleito de urgência configure manifesta ilegalidade, é incabível a impetração dehabeas corpuscontra decisão indeferitória de providência liminar prolatada em feito da mesma natureza (Súmula 691/STF).
+No caso em tela, não me deparo com excepcionalidade capaz de justificar a superação do citadoóbice, tendo em vista, sobretudo, que o Juízo a quo, ao converter a prisão em flagrante em preventiva, considerou a circunstânciade ter sido apreendida considerável quantidade de entorpecentes - mais de 7 kg de maconha - ede haver fortes indícios de associação dos custodiados para a prática do crime de tráfico (fl. 309)
+Assim, é de se reservar primeiramente ao Tribunala quoa análise meritória das questões aduzidas nowritoriginário, sendo defeso a esta Corte adiantar-se nesse exame, sob pena de incorrer em indevida supressão de instância, mormente se a impetração está sendo regularmente processada.
+Quanto à pretensão de substituição da prisão preventiva pela domiciliar em razão de ser a acusada mãe de uma criança de apenas 3 anos, ao que parece, o tema não foi levado ao conhecimento do Juízo de primeiro grau. Nesse aspecto, é indevida a dupla supressão de instância.
+Ante o exposto,indefiroliminarmentea petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUSCONTRA DECISÃO QUE INDEFERIU ALIMINAR EM PRÉVIOWRIT. INEVIDENTE CONSTRANGIMENTO ILEGAL. APLICAÇÃO DA SÚMULA 691/STF. PRISÃO DOMICILIAR. DUPLA SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE.
+Petição inicial indeferida liminarmente.
