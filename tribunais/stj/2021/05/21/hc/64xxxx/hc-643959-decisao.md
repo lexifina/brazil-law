@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se dehabeas corpus, com pedido liminar, impetrado em benefício deBRUNO CASTRO DOS SANTOS, contra ato deDesembargador doTribunal de Justiça do Estado do Maranhão,nos autos da Apelaçãon.015015201.
+Extrai-se dos autos que o paciente foi condenado, em 24/2/2017, pela prática do crime previsto no art. 35 da Lei n.11.343/06 (associação para o tráfico de drogas), à pena de 6 anos e 6 meses de reclusão, em regime inicial fechado, mais multa, tendo sido negado o direito de recorrer em liberdade.
+Irresignada, a defesa impetrou oHabeas Corpusn.0800081-33.2018.8.10.0000perante o Tribunal de origem, pleiteando arevogação da prisão preventiva do paciente, tendo sidoconcedida a ordem, em 30/4/2018, para a substituição da prisão preventiva pela medida cautelar de monitoramento eletrônico, nos termos do voto do Desembargador Relator (fls. 34/39).
+Após1 ano e 10 mesesda data de implementação da medida, a defesa do paciente peticionou nos autos da Apelação n.0150152018, em 24/11/2020,requerendo a retirada do equipamento, pendente de análise.
+No presentewrit, o impetrante alega que há excesso de prazo para a prestaçãojurisdicional, uma vez que já se passaram 3 meses da data do peticionamento e o desembargador relatorainda não analisou o pedido.
+Pugna, assim, em liminar e no mérito, seja retirado o monitoramento eletrônico do paciente. Alternativamente, requer que seja determinado ao Tribunal que julgue no prazo de 48 horaso pedido apresentado.
+O pedido liminar foi indeferido (fls. 43/44). As informações foram prestadas pelas instâncias ordinárias (fls. 48/52 e 55/80).
+A defesa apresentou petições requerendo a rápida juntada de parecer do Parquet (fls. 82/83 e 84/85)
+O Ministério Público Federal opinou pelo não conhecimento do writ(fls. 90/93).
+A defesa apresentou pedido de preferência de julgamento (fls. 95/96).
+É o relatório.
+Decido.
+Conforme relatado, busca-se, a revogação da medida cautelar de monitoramento eletrônico ou a determinação à Corte estadual que analise a necessidade da manutenção da medida.
+Quanto ao ponto, verifico que o pedido de revogação da medida cautelar de monitoramento eletrônico não foi objeto de exame pelo Tribunal de origem, o que obsta a análise por este Tribunal Superior, sob pena de se incorrer em indevida supressão de instância.
+Nesse sentido, são os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. RECEBIMENTO COMO AGRAVO REGIMENTAL. TEMPESTIVIDADE. FUNGIBILIDADE RECURSAL. ALEGADO EXCESSO DE PRAZO DAS MEDIDAS CAUTELARES ALTERNATIVAS. MATÉRIA NÃO ANALISADA PELA INSTÂNCIA DE ORIGEM. SUPRESSÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ausentes os requisitos do art. 619 do CPP, observada a tempestividade recursal e aplicado o princípio da fungibilidade, os embargos de declaração devem ser recebidos como agravo regimental.
+2. O STJ não pode conhecer de matéria não apreciada pelas instâncias ordinárias, sob pena de indevida supressão de instância.
+3. Agravo regimental desprovido.
+(AgRg no HC 577.034/GO, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 05/03/2021).
+PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. NEGATIVA DE SEGUIMENTO. MANIFESTAMENTE INADMISSÍVEL. AUSÊNCIA DE REQUISITO FORMAL DE ADMISSIBILIDADE: IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCOMPETÊNCIA DO STJ. INOCORRÊNCIA DA HIPÓTESE DO ART. 105, II, DA CONSTITUIÇÃO FEDERAL. DEFESA SE INSURGE CONTRA MEDIDAS CAUTELARES SEDIMENTADAS POR ESTA CORTE SUPERIOR. RECURSO CONHECIDO E NÃO PROVIDO.
+1. A defesa se insurge contra a decisão monocrática desta Relatoria que negou seguimento ao recurso ordinário em habeas corpus, por manifestamente inadmissível, ante a ausência de requisito formal de admissibilidade e a incompetência do STJ para análise dos pedidos.
+2. Ausência de requisito formal de admissibilidade: impugnação específica aos fundamentos da decisão recorrida. O Tribunal de Justiça local não conheceu do recurso, por se considerar incompetente para a análise da matéria, e a defesa não impugnou esse fundamento (incompetência do TJPE). Questionou, na verdade, as medidas cautelares remanescentes, que não foram objeto de análise perante a Corte local.
+3. O pleito de revogação das medidas cautelares não foi discutido pelo Tribunal local. Como cediço, "matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância" (AgRg no HC n. 525.332/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+4. Incompetência do Superior Tribunal de Justiça para (re)análise da matéria. Primeiro porque a narrativa não faz menção a ato proferido pelo Tribunal estadual, em relação ao objeto do presente mandamus, que evidencie a competência desta Corte (Art. 105, II, da Constituição Federal). Segundo porque o STJ não tem competência para invalidar ou revisar julgamento de recurso ordinário em habeas corpus realizado por esta própria Corte.
+5. No particular, as medidas cautelares, como vigoram hoje, foram sedimentadas por esta Corte nos julgamentos do RHC n. 104.904/PE (revogou-se o recolhimento domiciliar noturno, preservando-se as demais medidas) e do RHC n. 113.019/PE (o monitoramento eletrônico foi substituído - porquanto vigentes as outras medidas cautelares - pelo comparecimento mensal em juízo para informar e justificar suas atividades, e pela proibição de se ausentar do Estado da Bahia sem prévia comunicação ao juízo). Incompetência do Superior Tribunal de Justiça para (re)julgar recurso decidido em última instância por esta Corte.
+6. Agravo regimental conhecido e não provido.
+(AgRg no RHC 123.764/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 09/03/2020).
+Noutro ponto, constato que a defesa apresentou pedido de revisão da medida cautelar alternativa imposta em sede de habeas corpus pela Corte estadual,nos autos da apelação, em 24/11/2020. Contudo, decorridos mais de 5 meses que o pedido foi ofertado, ainda não houve manifestação do Tribunal a quo, constando do andamento do sítio eletrônico daquela Corte,que os autos foram entregues em carga à Procuradoria Geral da Justiça em 23/3/2021. Desse modo, necessário que o Tribunal de origem imprima celeridade no julgamento do referido pedido, principalmente considerando o período de vigência da monitoração eletrônica (3 anos).
+Ante do exposto, com fundamento no art. 34, inciso XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.Recomende-se ao Tribunal de Justiça do Estado do Maranhão que imprima maior celeridade na análise da petição ofertada pela defesa nos autos da Apelação n.015015201.
+Publique-se.
+Intimações necessárias.
