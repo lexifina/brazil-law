@@ -1,0 +1,13 @@
+Trata-se de habeas corpus no qual se aponta como autoridade coatora o Ministro do Superior Tribunal de Justiça – STJ, relator do HC 600.358/BA, com os seguintes requerimentos:
+    ”a) A concessão, em caráter de absoluta e impostergável urgência do direito de recorrer em liberdade ao Paciente, em face de toda a argumentação fática a jurídica esposada ao longo do presente pedido de Habeas Corpus, em razão de ser esta medida da mais elevada e necessária Justiça, sobretudo ao se recordar que no caso presentemente estudado, encontram-se presentes tanto o fumus boni Juris, qual seja o fartíssimo embasamento técnico para a concessão do benefício pleiteado, quanto o periculum in mora, que na presente questão traduz no risco iminente da perpetuação do constrangimento ilegal já vivenciado pelo Paciente;
+    b) Após o digníssimo órgão do Parquet haver prolatado o seu parecer, que retornem-se os presentes autos em conclusão para o mui digno relator a fim de que, com máximo de celeridade, possa este Tribunal decidir acerca do presente pedido, através da decisão que certamente será pelo acolhimento das razões esposadas ao longo da presente peça com o relaxamento da prisão preventiva do Paciente, ressalvando-se ainda que seja oportunizada ao Impetrante a sustentação oral do presente mandamus;
+    c) Apôs cumprida as formalidades legais, requer a expedição do competente Mandado informando à direção da Unidade Prisional na qual o Paciente encontra-se custodiado informando o relaxamento da prisão do Paciente […]” (págs. 6-7 da petição inicial; grifos no original).
+    É o relatório. Decido.
+    Em que pesem os argumentos defensivos, entendo que o habeas corpus é inviável. Isso porque o excesso de prazo da prisão cautelar do paciente ainda não foi enfrentada definitivamente por órgão colegiado do Superior Tribunal de Justiça, tendo o Ministro relator do STJ apenas indeferido o pedido de liminar.
+    Nesse contexto, o exame da matéria pelo Supremo Tribunal Federal implicaria dupla supressão de instância, com evidente extravasamento dos limites de competência descritos no art. 102 da Constituição Federal (vide HC 135.001 AgR/MS, rel. Min. Edson Fachin; HC 136.452 ED/DF, rel. Min. Rosa Weber; RHC 131.539 AgR/SP, rel. Min. Roberto Barroso; RHC 136.311/RJ, de minha relatoria).
+    Nada impede, evidentemente, que a defesa formule pedido diretamente à autoridade apontada como coatora, para que dê celeridade no julgamento daquela impetração.
+    Isso posto, nego seguimento a este habeas corpus (art. 21, § 1°, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de maio de 2021.
+Ministro Ricardo Lewandowski
+Relator
