@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interno interposto contradecisão assim ementada (fl. 646):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. DIFERENÇAS SALARIAIS. AÇÃO DE COBRANÇA DE VALORES PRETÉRITOS AO WRIT COLETIVO. TERMO INICIAL DOS JUROS DE MORA. NOTIFICAÇÃO DA AUTORIDADE COATORA NO MANDADO DE SEGURANÇA. PRECEDENTES. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 8º, DO CPC/2015. APRECIAÇÃO EQUITATIVA. POSSIBILIDADE NO CASO. PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. ACÓRDÃO A QUO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+Primeiramente, os agravantes afirmam que "o ponto específico aqui combatido refere-se a parte da decisão monocrática que tratou a respeito dos honorários advocatícios sucumbenciais" (fl. 659).
+Quanto ao capítulo da decisão agravada que impugnam, alegam, em suma, que "Acerca das causas em que figura como parte a Fazenda Pública, com vistas a resolver a discussão travada nos Tribunais Pátrios acerca da condenação em honorários, o NCPC sistematizou de forma muito objetiva os critérios para sua fixação. Não há, portanto, margem para discussão, exceto nos casos em que a discussão verse sobre valores inestimáveis ou irrisórios ou, ainda, quando o valor da causa for muito baixo, como ocorrido no caso concreto" (fl. 660).
+Aduzem, ainda, que "apesar dos pedidos serem procedentes, há a necessidade de se promover a liquidação da sentença, a fim de tornar o valor da execução líquido, certo e exigível. Assim sendo, somente após o apostilamento dos valores da condenação com a respectiva apresentação de planilhas pelos Agravantes é que será possível a liquidação da sentença, com o consequente cumprimento. Neste diapasão, deveria ter-se determinado fossem os honorários sucumbenciais arbitrados quando da liquidação do julgado, nos termos do artigo 85, §4º, inciso II do Código de Processo Civil" (fl. 663).
+Semimpugnação.
+É o relatório. Decido.
+Diante dos argumentos trazidos pela parte agravante, exerço o juízo de retratação, nos termos do caput do artigo 259 do RI/STJ, para tornar sem efeito a decisão de fls. 646-651.
+Após, volte-me os autos conclusos para nova análise da demanda.
+Publique-se. Intimem-se.
