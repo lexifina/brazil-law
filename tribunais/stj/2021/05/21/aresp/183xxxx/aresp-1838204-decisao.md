@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO PROCESSO CIVIL NÃO CONHECIMENTO DA REMESSA OFICIAL APOSENTADORIA RECONHECIMENTO DE TEMPO DE SERVIÇO ESPECIAL CONVERSÃO DE TEMPO COMUM PARA ESPECIAL CERCEAMENTO DE DEFESA RUÍDO LIMITES DE TOLERÂNCIA EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL METODOLOGIA DE CÁLCULO REAFIRMAÇÃO DA DER APOSENTADORIA ESPECIAL.
+Alega violação do art. 240 do Código de Processo Civil e dos arts. 49, I, "b", e II, e 54 da Lei n. 8.213/91, no que concerne à fixação do benefício a partir da data da citação do INSS, e não da data da implementação dos requisitos para a concessão da aposentadoria, trazendo o(s) seguinte(s) argumento(s):
+No caso dos autos, foi fixada a data de início do benefício (termo inicial dos efeitos financeiros) na data da implementação dos requisitos (ocorrida antes do ajuizamento da ação).
+Todavia, somente após a citação o INSS teve ciência da pretensão do segurado para reafirmação da DER, eis que na data da conclusão do processo administrativo, de fato, ele não preenchia os requisitos para concessão da aposentadoria.
+Assim, nos termos do art. 240 do CPC,o INSS somente foi constituído em mora a partir da citação, razão pela qual deve ser fixado nesta data o termo inicial do benefício do segurado:
+ ..
+Tal afirmação também encontra supedâneo na Lei de Benefícios que prevê expressamente que o benefício é devido a partir da data do requerimento do benefício (art. 49, I, "b" e II e art. 54). Infere-se que não havendo requerimento o ato judicial que comunica o INSS da pretensão do segurado fará as vezes do ato para fins de incidência da norma e perfectibilização do direito, fixando nele o termo inicial do benefício.
+ ..
+Por sua vez, esse STJ também consolidou sua jurisprudência no sentido de que o termo inicial do benefício deve ser fixado na data da citação quando não houver requerimento administrativo, tal como ocorre em nos casos de pedido de reafirmação da DER para período posterior a decisão final do processo administrativo que indeferiu o benefício: (fls. 490-491).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ". (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
