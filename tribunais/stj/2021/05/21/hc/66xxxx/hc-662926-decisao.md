@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 46):
+Apelação - Roubo tentado majorado pelo concurso de agentes - Recurso ministerial - Condenação correta e não impugnada pelas partes - Pedido de redução da fração de diminuição da pena pela tentativa - Apelado que percorreu uma parte considerável do iter criminis - Redução na fração intermediária que se mostra mais condizente com percurso percorrido - Regime aberto - Recrudescimento de rigor - Regime fechado necessário no caso concreto - Apelo provido.
+O paciente foi condenado às penas de 2 anos e 8 meses de reclusão, em regime inicial fechado, e 6 dias-multa, por ofensa ao art. 157, § 2º, II, c/c o art. 14, II, ambos do Código Penal, conforme a ementa acima.
+Pugna a impetrante, liminarmente e no mérito, pela alteração do regime prisional para o aberto.
+A liminar foi indeferida.
+As informações foram prestadas.
+Manifestou-se o Ministério Público Federal pela concessão do writ.
+Sobre a pretensão aqui trazida, assim se manifestou o Tribunal local (fl. 48 - com destaque):
+ ..  No tocante ao regime prisional, não obstante seja o acusado primário, note-se que ele praticou o delito simulando estar armado, na companhia de mais dois agentes, em local com intensa circulação de pessoas, tanto que uma das clientes fugiu da loja, o que demonstra a gravidade concreta de sua conduta e justifica uma resposta estatal mais enérgica. Regime mais brando não atenderia ao caráter preventivo e retributivo da reprimenda, gerando a sensação de impunidade ao apelado. ..
+Como se vê, fixou-se o regime prisional mais gravoso diante das circunstâncias judiciais negativas aferidas, uma vez que o réu, ora paciente, simulando estar armado, de acordo com a própria denúncia - mediante grave ameaça exercida por meio de simulação de emprego de arma de fogo (fl. 12) -, na companhia de mais dois agentes, em local com intensa circulação de pessoas, tanto que uma das clientes fugiu da loja, o que demonstra a gravidade concreta de sua conduta e justifica uma resposta estatal mais enérgica.
+Contudo, entende esta Corte que  ..  o uso de simulacro de arma de fogo não é elemento capaz de caracterizar especial desvalor da conduta do apenado, porquanto deve ser considerado como circunstância inerente à violência ou grave ameaça caracterizadoras do tipo penal do roubo. Dessa forma, a vetorial das circunstâncias do crime deve ser decotada da primeira etapa dosimétrica e não justifica a aplicação de regime inicial mais gravoso (AgRg no HC 568.150/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/5/2020, DJe 18/5/2020).No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. REGIME PRISIONAL DE CUMPRIMENTO DA PENA. PENA-BASE NO MÍNIMO LEGAL. REPRIMENDA ESTABELECIDA EM PATAMAR NÃO SUPERIOR A OITO ANOS. AUSÊNCIA DE MOTIVAÇÃO CONCRETA. ORDEM CONCEDIDA PARA IMPOSIÇÃO DO REGIME SEMIABERTO. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O fato de ter sido o delito praticado em face de várias pessoas já foi considerado para fins de elevação da reprimenda pela continuidade delitiva, não cabendo a utilização da referida fundamentação para fins de imposição de regime mais gravoso.
+2. A utilização de simulacro de arma de fogo não é fundamento apto a justificar o incremento do regime, se ausentes outros elementos concretos, nos termos do entendimento firmado por esta Corte Superior. Precedente.
+3. Decisão monocrática mantida.
+4. Agravo regimental improvido.(AgRg no HC 420.680/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/03/2018, DJe 14/03/2018).
+No presente feito, vê-se que o TJSPfundamentou de forma adequada a fixação de um regime inicial mais graveque o montante da reprimenda determinaria, uma vez que a conduta praticada pelo réu, ora paciente-prática de roubocom o concurso de três agentes, contra mais de uma vítima, no interior de uma loja com grande fluxo de pessoas-,extrapolouo tipo penal, revelando-se uma maior reprovabilidade do modus operandi, justificando-se, assim, o recrudescimento do regime prisional inicial.
+No entanto, como bem observado pelarepresentante do Ministério Público Federal, nesta sede,a Corte a quo o fez de forma desproporcional e excessiva, tendo em conta a primariedade do réu, mesmo que técnica, os bons antecedentes e as circunstâncias judicias todas favoráveis a ele, sendo, portanto, mais adequada a fixação do regime semiaberto, haja vista que a pena imposta ao paciente foi inferior a 4 anos, a teor do artigo 33, §§ 2º e 3º, do Código Penal e aos ditames da Súmula nº 719/STF (fl. 90).
+Ante o exposto, concedo o habeas corpus para alterar o regime inicial de cumprimento da pena para o semiaberto.
+Comunique-se.
+Publique-se.
+Intimem-se.
