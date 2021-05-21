@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por FLORIPES ESTEVES DIZ E OUTRO, à decisão de fls. 948/949, que não conheceu do recurso.
+Sustenta a parte embargante que:
+13) Com efeito, da análise dos autos constata-se (de Fls. 675) que a parte foi INTIMADA do ACÓRDÃO recorrido em 18/03_/2020  4d. feira (Data Formal da PUBLICAÇÃO).
+14) Efetivamente, 19/03/2020  5. feira passou a ser considerado o marco inicial, para contagem de prazo.
+15) Sucede, que no dia anterior (17/03/2020) eclodiu a crise econômico-sanitária-hospitalar denominada COVID19 e com a instalação da Pandemia do Coronavírus todos os Fóruns Fluminenses foram fechados, os prazos processuais dos processos judiciais (por meio eletrônico) permaneceram suspensos até 30/06/2020, sendo, inclusive, VEDADA a designação de atos presenciais.
+16) O Foro trabalhista e a Justiça Federal até hoje não reabriram. Não há atendimento presencial. A Justiça Estadual funciona precariamente. É a única que está fazendo atendimento presencial. Não estão expedindo Mandados de Pagamento. Agora só Transferência eletrônica (por conta do distanciamento social) (fl. 954).
+17) Importante ressaltar, que tais esclarecimentos/justificativa constam do item 5 das RAZÕES DO RECORRENTE, em obediência ao art. 1003, Parágrafo 5º, NCPC/2015 (fl. 955).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 30/4/2020, conforme Resolução do CNJ n. 313, de 19 de março de 2020, voltando a fluírem, para os processos eletrônicos, em 4/5/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
