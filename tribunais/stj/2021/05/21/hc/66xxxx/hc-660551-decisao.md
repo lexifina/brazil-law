@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em face de acórdãoassim ementado (fl. 167):
+Penal. Processo Penal. Tráfico de drogas. Pena base. Redimensionamento. Impossibilidade. Regime. Alteração. Inviabilidade. - A fixação da pena base está devidamente fundamentada, sendo possível perceber que não houve nenhum exagero por parte do Juiz singular, já que foi aplicada levando em consideração as circunstâncias judiciais negativas. - Não existe motivo para alterar o regime prisional fixado na Sentença, se o réu não preenche os requisitos estabelecidos na Lei. - Recurso de Apelação Criminal desprovido.
+Opaciente foi condenado à pena de oito anos e nove meses de reclusão, em regime inicialmente fechado, além do pagamento de oitocentos e noventa dias multa, pela prática do crime previsto no artigo 33, caput, da Lei nº 11.343/06.
+A defesaalega que a pena-base aplicada para o crime imputado ao paciente foi fixada acima do mínimo legal, sem fundamentação idônea, dada a negativação relativa às circunstâncias judiciais da culpabilidade, circunstâncias e consequências do crime, como também, fora fixado o regime inicial de cumprimento da pena fechado, quando perfeitamente possível a fixação de regime menos gravoso, qual seja, o semiaberto.
+Ao final, requera concessão da medida liminarpara suspender os efeitos do acórdão em testilha, tão somente em relação à pena aplicada, bem como, no mérito, a sua reforma, a fim de que seja fixadaa pena base no mínimo legale estabelecido regime inicial de cumprimento de pena menos gravoso.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal opinou pelo não conhecimento da ordem.
+A pena foi fixada na sentença da seguinte forma (fl. 106):
+CULPABILIDADE: grave, haja vista que o acusado praticou o crime em plena luz do dia e nas proximidades de área urbana, o que demonstra uma maior ousadia. ANTECEDENTES: réu não possui antecedentes criminais, conforme certidão de pp. 65/66. CONDUTA SOCIAL e PERSONALIDADE: inexistem elementos suficientes sobre tais circunstâncias, daí por que deixo de valorá-las. MOTIVO: desejo de lucro fácil, o que já é punido pelo próprio tipo. CIRCUNSTÂNCIAS: desfavoráveis, tendo em vista a quantidade expressiva de droga apreendida em seu poder, mais de 03 Kg (três quilos), bem superior ao padrão encontrado nesta comarca. CONSEQUÊNCIAS: graves, haja vista a natureza da droga (cocaína), de alto poder destrutivo e viciante. COMPORTAMENTO DA VÍTIMA: não há falar. O crime em tela prevê pena de reclusão de cinco a quinze anos e multa. À vista dessas circunstâncias, fixa-se a pena base em 08 (oito) anos e 09 (nove) meses de reclusão.
+Não há agravantes nem atenuantes a serem consideradas. Assim, fica a pena inalterada nesta etapa da dosimetria.
+Inexistem causas de aumento ou de diminuição a serem sopesadas, daí porque estabeleço a pena definitiva em 08 (oito) anos e 09 (nove) meses de reclusão.
+Ante a existência de pena de multa cominada ao delito, a qual deve guardar exata proporcionalidade com a pena privativa de liberdade dosada em definitivo, fica o réu condenado, ainda, ao pagamento de 890 (oitocentos e noventa) dias-multa,à razão de 1/30(um trigésimo) do salário mínimo vigente à época do fato, observado o disposto no art. 60, caput, do Código Penal, haja vista a capacidade econômica do réu, devendo ser observado quanto à sua execução o disposto no art. 51 do mesmo diploma.
+No mesmo sentido, dispôs o Tribunal de Justiça (fls. 169-170):
+Retiro dos autos que o Juiz singular elevou a pena base do apelante, considerando desfavoráveis as circunstâncias judiciais da culpabilidade, circunstâncias e consequências do crime, fixando-a em oito anos e nove meses de reclusão.
+Culpabilidade é:
+"a reprovação social que o crime e o autor do fato merece. Exige do Juiz a avaliação da censura que o crime merece - o que, aliás demonstra que esse Juízo não incide somente sobre o autor do fato, mas também sobre o que ele cometeu - justamente para norteá-lo na fixação da sanção penal merecida" (Código Penal Comentado, Guilherme de Souza Nucci, Editora Revista dos Tribunais).
+Na hipótese dos autos, tenho que tal circunstância foi bem valorada pelo Juiz singular, já que o apelante deveria ter se comportado de modo diverso, uma vez que ele tem consciência dosdanos oriundos do tráfico de drogas. O tráfico de entorpecente é crime que conta com intensa reprovação social, em razão das mazelas dele decorrentes, com inegável proliferação da criminalidade patrimonial e contra a pessoa.
+Quanto às circunstâncias do crime, verifico que o Juiz singular as julgou de forma desfavorável, tendo como fundamento a expressiva quantidade de droga apreendida, qual seja, três quilos e vinte gramas de cocaína. Quantidade essa que superou as apreensões realizadas anteriormente naquela Comarca.
+ ..
+Desse modo, vê-se que agiu com acerto o Juiz singular, ao considerar tal circunstância de modo desfavorável ao apelante.
+Quanto a circunstância consequências do crime, sabe-se que o tráfico de entorpecente é delito que conta com intensa reprovação social, em razão das mazelas dele decorrentes, com inegável proliferação da criminalidade patrimonial econtra a pessoa.
+Portanto, a referida circunstância foi devidamente justificada pelo Juiz singular. A repercussão do crime praticado pelo apelante se mostra prejudicial à sociedade, devendo ser combatido com mais intensidade, como forma de inibir e prevenir a reiteração dessa conduta.
+No presente caso, tem-se que a basilar foi fixada em 8 anos e 9 meses de reclusão, em razão da consideração negativa das vetoriais da culpabilidade, circunstâncias econsequências do crime.
+Extrai-se dos excertos que a fundamentação utilizada para a valoração negativa das circunstâncias judiciais de culpabilidade e consequências do crime foram lastreadas em fundamentos abstratos, com elementos comuns a todos e quaisquer crimes das respectivas espécies.
+Nesse contexto, não constitui especial reprovabilidade o fato de ter o réu ter praticado o delito à luz do dia, nas proximidades de área urbana, ou sua potencialconsciência dos danos oriundos do tráfico de drogas.Igualmente, não éfundamento idôneo à majoração da pena-base a intensa reprovação socialdo delito, uma vez que o prejuízo à sociedade é inerente a qualquer tipo penal. Portanto, tais considerações negativas devem serafastadas. Nesse norte:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PECULATO. DOSIMETRIA. PENA-BASE. CULPABILIDADE. VEREADOR. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME. ADOÇÃO DE ELEMENTOS INERENTES AO TIPO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2.Todavia, a adoção de elementos inerentes ao tipo penal para valoração das circunstâncias e consequências do crime inviabiliza a exasperação da pena-base.
+3. Agravo regimental desprovido.
+(AgRg no AgRg no REsp 1790753/ES, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/10/2019, DJe 18/10/2019)
+Por outro lado, com relação às circunstâncias do crime, vetorial negativada pela quantidade de entorpecentes apreendidos, qual seja, aproximadamente 3kg de cocaína (fl. 102), tem-se que tal volume, de fato, autoriza a exasperação da pena-base por ser considerado expressivo. Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE DA DROGA. FUNDAMENTAÇÃO IDÔNEA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. POSSE PARA USO PRÓPRIO. NÃO CABIMENTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. AUSÊNCIA DE PREENCHIMENTO DO REQUISITO SUBJETIVO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. WRIT NÃO CONHECIDO.
+ ..
+2. No termos do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado.
+3. Hipótese em que a Corte de origem, atenta as diretrizes do art. 42 da Lei de Drogas, considerou a quantidade de droga apreendida (291,18g de maconha), para fixar a pena-base em 10 meses acima do mínimo legalmente previsto, o que não se mostra desproporcional.
+ ..
+6. Habeas corpus não conhecido.
+(HC 393.721/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/08/2017, DJe 28/08/2017)
+De rigor, portanto, o redimensionamento da reprimenda.
+Como exposto alhures, a basilar foi exasperada na fração de 1/4 para cada uma das três circunstâncias desfavoráveis, resultando em 8 anos e 9 meses de reclusão.
+Afasta-seas vetoriais de culpabilidade e consequências do delito, e mantém-se a negativação das circunstâncias do delito, diante da quantidade apreendida de entorpecentes. Contudo, ainda que devidamente fundamentada, a fração de aumento mostra-se desproporcional, devendo incidir a majoração de 1/8.
+Assim, fica a pena-base no patamar de 5 anos, 7 meses e 15 dias de reclusão, a qual torno definitiva, diante da ausência de outras circunstâncias a modificar a reprimenda. Além disso, reduz-se o pagamento devido a 563 dias-multa.
+Quanto ao regime inicial de cumprimento de pena, mantem-se o fechadodiante do quantum de pena aplicado e da presença de circunstância judicial negativa.
+Ante o exposto, concedo ohabeas corpuspara reduzir a pena do paciente ao patamar de 5 anos, 7 meses e 15 dias de reclusão, bem como ao pagamento de 563 dias-multa, a ser cumprida em regime fechado.
+Comunique-se.
+Publique-se.
+Intimem-se.
