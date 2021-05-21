@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+     APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - INCIDÊNCIA DE ICMS – DENEGAÇÃO SEGURANÇA. O mandado de segurança é o meio constitucional que visa proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, violado ou sob justo receio de violação por ato ilegal de autoridade ou em abuso de poder. Diante da ausência de comprovação de ato coator ilegal ou arbitrário ou mesmo ato de ameaça a algum direito da Impetrante, não se pode falar em mandado de segurança, notadamente quando não demonstrada a possibilidade concreta de violação deste alegado direito.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 145, §10; 150, incisos I, II e IV, e; 151, inciso I, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    A tese fixada pelo Supremo Tribunal Federal já repercutiu na esfera legislativa, na medida em que editada pela Assembleia Legislativa de Minas Gerais a Lei Estadual 22.549/2017, que em seu artigo 79, inciso I, alínea 'd', revogou o dispositivo combatido pela Impetrante (§10, do artigo 22, da Lei Estadual 6763/75), tendo, ainda, disciplinado a matéria pelo seu artigo 50, que acrescentou os §§ 10-A, 10- B e 11, ao artigo 22, da Lei Estadual 6.763/75, como bem salientou o Procurador Geral de Justiça, em seu parecer à ordem 28.
+    No caso dos autos não se trata de mandado de segurança preventivo.
+    Não restou comprovado nenhum ato coator ilegal ou arbitrário ou mesmo ato de ameaça a algum direito das Impetrantes, não se pode falar em mandado de segurança, notadamente quando não demonstrada a possibilidade concreta de violação deste alegado direito.
+    A Impetrante não demonstrou a existência do ato de ameaça a direito líquido e certo, embora denomine a presente ação de “mandado de segurança”.
+    Vê-se, pois, que o uso do mandado de segurança na hipótese em apreço, dada a sua estreiteza, não comporta o pedido realizado pela impetrante.
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional local pertinente, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa. Incidência da Súmula 280 da Corte . Sobre o tema, a propósito:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ICMS. LEIS ESTADUAIS 4.220/2008 e 1.254/1996 E PORTARIA SF/DF 73/2012. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280/STF. HONORÁRIOS INCABÍVEIS EM MANDADO DE SEGURANÇA. MAJORAÇÃO DESCABIDA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de legislação infraconstitucional local que fundamenta a decisão a quo. Incidência da Súmula 280 desta Corte. Precedentes. II - Incabível a majoração de honorários, por tratar-se, na origem, de mandado de segurança. III - Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC. (RE nº 1.007.893/DF – AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 20/6/17).
+    Embargos de declaração em recurso extraordinário com agravo. 2. Decisão monocrática. Embargos de declaração recebidos como agravo regimental. 3. Direito Tributário. 4. A origem solucionou a controvérsia com base na interpretação da legislação local. Súmula 280. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento. (ARE nº 947.111/RS – ED, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 24/10/16)
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 21 de maio de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
