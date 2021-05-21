@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por FRANCINALDO PEREIRA DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ (HC n. 0811029-52.2020.8.14.0000).
+Nas razões recursais, assinalou que o recorrente foi acusado de ter praticado crime de homicídio, tipificado no artigo 121 do Código Penal, quando, na verdade, se tratou de legítima defesa utilizando os meios necessários, consoante as provas carreadas aos autos.
+Ressaltou que tomou conhecimento do mandado de prisão preventiva recentemente. Afirma que vai colaborar para a elucidação dos fatos, comparecendo a todos os atos processuais, bem como possui conduta social idônea, de maneira que não pode sofrer limitação no seu direito, requerendo, para tanto, responder ao processo em liberdade provisória.
+Ao final, postulou a expedição de salvo conduto, preservando o direito fundamental da liberdade física do paciente, nos termos do artigo 660, §4º, do Código de Processo Penal.
+O Ministério Público Federal opinou pelo improvimento do recurso ordinário em habeas corpus.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão de prisão preventiva restou assim fundamentada (fls. 106-107):
+No que tange aos requisitos da custódia, melhor sorte não lhe socorre.
+É que, conforme se verifica da decisão guerreada e da tramitação da ação penal no Sistema Libra, desde 2011 até a presente data, o paciente não foi encontrado para ser citado e nem constituiu defesa nos autos.
+Assim, como forma de garantir a instrução criminal e a aplicação da Lei Penal, o magistrado entendeu pelo cabimento da prisão preventiva, no que, a meu sentir, lhe assiste razão. O paciente é acusado de ter cometido homicídio, com arma de fogo, e nunca foi encontrado para ser ouvido, nem mesmo perante a autoridade policial, conforme se verifica do relatório policial juntado pelo impetrante (ID 3951388).
+Nesse contexto, tenho bem configurada a necessidade da clausura para resguardar a instrução criminal e a aplicação da Lei Penal, revelando-se insuficientes, a priori, as medidas cautelares diversas da medida extrema.
+Como se vê, consta do decreto prisional fundamentação que deve ser considerada idônea, tendo em vista queO paciente é acusado de ter cometido homicídio, com arma de fogo, e nunca foi encontrado para ser ouvido, nem mesmo perante a autoridade policial. Assim, mesmo tendo sido realizada a tentativa de citação determinada na instância de piso, o réu não compareceu ou constituiu advogado (fl. 89), agindo com propósito, portanto, de se furtar à aplicação da lei penal.
+É pacífico o entendimento desta Corte Superior, que a fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal. Confira-se: RHC n. 52.178/DF 5ª T. unânime Rel. Min. Felix Fischer - DJe 2/12/2014; HC n. 289636/SP, 5ª T. unânime Rel. Min. Moura Ribeiro, DJe 23/5/2014; RHC n. 46439/PR 5ª, T. unânime Rel. Min. Marco Aurélio Bellizze, DJe 2/5/2014; HC n. 261383/MG, 5ª T. Rel. Min. Laurita Vaz, DJe 3/4/2014; HC n. 189212/MG, 6ª T. unânime, Rel. Min. Marilza Maynard, Des. convocada do TJSE, DJe 12/12/2013.
+Em igual sentido a jurisprudência do Supremo Tribunal Federal, v.g.: HC n. 120794/MG, 1ª T. Rel. Min. Luiz Fux, DJe 8/5/2014; HC n. 115045/SP, 1ª T., Min. Rosa Weber, DJe 23/4/2013; HC n. 111691/SP, 2ª T. unânime Rel. Min. Gilmar Mendes, DJe 20/11/2012; HC n. 112738/SP, 2ª T. unânime, Rel. Min. Ricardo Lewandowski, DJe 21/11/2012.
+Ante o exposto, nego provimento ao recursoem habeas corpus.
+Publique-se.
+Intimem -se.
