@@ -1,0 +1,9 @@
+DECISÃO
+Por meio da Petição de fls. 14.336-140.000, FERNANDO CÉSAR MAGALHÃES REISexplica que o Juízoque decretou sua prisão preventiva, substituída, em 10/3/2020, por prisão domiciliar mediante monitoramento eletrônico, noHC n. 546.298/SP, afirmou que não poderia examinar o pleito dereexame de medida cautelar, pois o processo principal ascendeu a este Superior Tribunal, com o exaurimento da instância ordinária.
+Requer, então, "seja determinado e devidamente oficiado, por comunicação direta deste gabinete, ao Juízo da 16ª Vara Criminal do TJRJ, para que aprecie o pedido de revogação das medidas cautelares diversas, como determinado anteriormente por Vossa Excelência" (fl. 14.337).
+Decido.
+Esta Corte Superior, em 10/3/2020, no julgamento do HC n. 546.298/SP reconheceu que não havia ilegalidade na decretação decautelarpara salvaguarda da ordem pública, haja vista apericulosidade do réu, evidenciada pelo modus operandi mais grave dos crimes a ele imputados. Entretanto, como o Juiz substituiu a prisão preventiva por domiciliarainda durante a instrução criminal, não podia, na sentença, restabelecer a medidaextrema sem indicar a cessação de seus motivos ou fatos novos que demonstrassem a necessidade de recrudescimento da providência.
+Consoante assinalei às fls. 14.317/14.318, arevisão/fiscalizaçãoda prisão domiciliar ou de outras medidas posteriormente impostaspelo Juiz deve ser efetuada em primeira instância, mesmoquando o processo sobe em recurso especial. Se a autoridade determinou a cautela processual, que ainda subsiste, não cessou sua jurisdição para reexaminar a exigência.
+À vista do exposto, determino ao Juízo da 16ª Vara Criminal do Tribunal de Justiça do Rio de Janeiro que aprecie o pedido da defesa, a respeito de revisão de medida cautelar, se necessário for com a formação de apenso com as peças processuais necessárias a essa finalidade.
+Comunique-se a autoridade de primeiro grau.
+Publique-se e intimem-se.
