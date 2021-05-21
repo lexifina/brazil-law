@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por JAIME PEDROSO ALBUQUERQUE KERN, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 394):
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO INATIVO.INSTITUTO DE PREVIDÊNCIA DO ESTADO DO RIO GRANDE DO SUL. PARIDADE. LEI ESTADUAL Nº 13.415/2010. PRESCRIÇÃO DO FUNDO DE DIREITO.
+1. Alegação de interrupção do prazo prescricional não conhecida, por configurar inovação recursal, não ventilada na origem.
+2. Inocorrente cerceamento de defesa pela ausência de intimação para produção de provas, pois possível o julgamento antecipado do processo no caso de reconhecimento da prescrição, conforme art. 354 do CPC.
+3. A reestruturação administrativa do IPERGS com a extinção e transformação do quadro de cargos em comissão e funções gratificadas ocorreu com a publicação da Lei Estadual nº 13.415/2010. Decorrido o prazo de 5 (cinco) anos entre a publicação da referida lei e o ajuizamento da ação, está prescrito o fundo de direito, à luz do art. 12, do Decreto 20.910/32.
+APELAÇÃO CONHECIDA EM PARTE E, NA PARTE CONHECIDA, DESPROVIDA.
+Embargos de Declaração não acolhidos.
+Nas razões do especial, orecorrente aponta, além de divergência jurisprudencial,violação do art. 489, caput, e § 1º, I e II, do art. 1.022, I, II e III, e do art. 1.023, § 2º, todos do CPC/2015, sustentando que há ocorrência de omissões e erros materiais não sanados pelo Tribunal de origem, apesar dos embargos de declaração opostos. Em relação à questão de fundo,aduz ofensa aos arts. 1º e 3º do Decreto-lei n. 20.910/1932, à Súmula 85/STJ e ao art. 2º do Decreto-Lei n. 4.597/1942. Para tanto, defende, em síntese, não se tratar de caso de prescrição de fundo de direito, mas de prescrição de trato sucessivo e argumenta que, de acordo com precedente do Supremo Tribunal Federal, "as obrigações de trato sucessivo são aquelas decorrentes de uma situação jurídica fundamental já reconhecida, como no caso, em que já está reconhecido o direito da parte de perceber função gratificada (FGP-V), porquanto já incorporada no ato de aposentação".Afirma ainda que, "nas questões que tratam de reajustes e atualização, o STJ aplica a prescrição de trato sucessivo porque no caso de reajustes e atualização trata-se de alteração no valor (quantum) da parcela remuneratória já reconhecida (FG já incorporada)" (fl. 438). Por último,pleiteia que o reconhecimento do termo inicial da prescrição de fundo de direito tenha como marco a Lei estadual n. 13.809/2011.
+Com contrarrazões.
+Juízo negativo de admissibilidade às fls. 522-537.
+Interposição do agravo previsto no artigo 1.042 do CPC/2015, às fls. 541-551, e sua conversão em recurso especial à fl. 621.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre registrar que, conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3/STJ).
+Feito esse esclarecimentoe atendidos os requisitos de admissibilidade, apretensão recursal merece prosperar.
+De início, cabe ressaltar que não se está diante de caso de equiparação ou reenquadramento de servidores, que caracterizaria ato único de efeitos permanentes, sujeitos à prescrição de fundo de direito, conforme jurisprudência deste Tribunal, sendo apretensão veiculada na inicial de simples atualização do valor relativo à parcela remuneratória já incorporada ao patrimônio jurídico doservidor, em razão do direito à paridade.
+Dessa forma, a posição adotada pelo Tribunal de origem está dissonante da orientação firmada na jurisprudência desta Corte, pela qual, em casos de pedido de equiparação dos proventos de aposentadoria com os vencimentos dos servidores da ativa, em razão da regra constitucional da paridade, a prescrição é de trato sucessivo, nos moldes da Súmula 85/STJ.
+A propósito:
+PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR APOSENTADO. PROVENTOS. PARIDADE ENTRE ATIVOS E INATIVOS. PRESCRIÇÃO. SÚMULA 85/STJ. PRECEDENTES DO STJ.
+1. É firme o entendimento desta Corte no sentido de que nas ações em que servidores públicos aposentados pretendem obter a equiparação de seus proventos com os vencimentos dos servidores da ativa não se opera a prescrição do fundo de direito, mas das parcelas vencidas anteriormente ao quinquênio que antecedeu a propositura da demanda, nos termos da Súmula 85/STJ (AgRg no AgRg no REsp 1.355.595/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 07/05/2013, DJe 13/05/2013).
+2. Agravo regimental a que se nega provimento.
+(RCD no AREsp 474.435/DF, Rel. Min. Sérgio Kukina, Primeira Turma, .DJe 20/4/2015)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. SERVIDOR PÚBLICO. DECADÊNCIA PARA IMPETRAÇÃO DO WRIT. NÃO OCORRÊNCIA. RELAÇÃO DE TRATO SUCESSIVO. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO CONFIGURAÇÃO. SÚMULA 85/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+III - O acórdão recorrido adotou entendimento pacificado nesta Corte, segundo a qual, nas relações de trato sucessivo, não se opera a decadência para impetração do mandado de segurança nos casos em que se busca corrigir ato omissivo da Administração, que deixa de observar o princípio constitucional da paridade.
+IV - Quanto à alegação de prescrição do fundo de direito, verifico que o acórdão recorrido não destoa da orientação desta Corte no sentido de que, nas relações de trato sucessivo, ausente a negativa do próprio direito reclamado, não se opera a prescrição de fundo de direito nos casos em que se busca a revisão dos proventos de aposentadoria, com base na paridade entre ativos e inativos, nos termos do art. 40, § 8º, da Constituição da República, porquanto decorre de suposto ato omissivo da Administração Pública, nos termos da Súmula 85/STJ.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.723.736/CE, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 20/08/2018)
+Nesse mesmo sentido:REsp 1.757.792/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 21/11/2018; AgInt no AREsp 1.419.969/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/05/2019.
+Ante o exposto, dou provimento ao recurso especial, para afastar a ocorrência de prescrição de fundo de direito e determinar o retorno dos autos à origem para novo julgamento da causa, desta feita reconhecendo a incidência da prescrição de trato sucessivo, nos moldes da Súmula 85/STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. PARIDADE. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. SÚMULA 85/STJ. PRECEDENTES.RECURSO ESPECIAL PROVIDO.
