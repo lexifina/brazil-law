@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido liminar, impetrado em benefício deNorberto de Oliveira-preso preventivamente pela prática, em tese, dos delitos de tráfico de drogas, associação para o tráfico e posse ilegal de arma de fogo (Autos n. 0001048-58.2018.8.26.0294) - contra o acórdão proferido pelo Tribunal de Justiça de São Paulo, que denegou a ordem no HC n. 2053550-75.2020.8.26.0000,mantendo a prisão preventiva decretada pelo Juízo da 1ª Vara Criminal da comarca de Jacupiranga/SP.
+Alega-se, em síntese, constrangimento ilegal consistente na ausência de fundamentação da segregação cautelar imposta, uma vez que baseada na gravidade genérica do crime, sem que fossem apresentados fatos concretos justificadores.
+Defende-se que as medidas cautelares diversas seriam suficientes para o resguardo da ordem pública, considerando, inclusive, que o paciente possui trabalho lícito, sempre residiuno município de Cajati/SP e possui um filho compouco mais de 1 ano de idade.
+Por fim, pleiteia-se aconcessão da medida liminar para revogar a prisão preventiva e, alternativamente, seja-lhe concedido as medidas cautelares diversas da prisão, nos termos do art.319, do Código de Processo Penal, bem como, no caso em baila, igualmente estão presentes os requisitos para a concessão de prisão domiciliar ao Paciente, em razão da pandemia causada pelo "novo coronavírus", à luz da Recomendação n.62/2020, do Conselho Nacional de Justiça(fl. 20).
+Indeferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Mario Pimentel Albuquerque, pela denegação da ordem.
+Em consulta à página eletrônica do Tribunal de Justiça de São Paulo, observei que ainda não foi proferida sentença na ação penal objeto destes autos.
+É o relatório.
+Insurgem-se os impetrantes contra a decisão que decretou a prisão preventiva do ora paciente.
+Na espécie, contudo,afigura-se inviável o acolhimento dapretensão, visto que o Juiz singular apresentou fundamentos concretos ajustificar a medida cautelar, em especial, a gravidade em concreto dodelito. Eis o que asseverou o Juiz de piso (fls. 78 e 1.085):
+ ..
+Como se vê, a segregação cautelar do requerente teve como postulado a garantia da ordem pública e da aplicação da lei penal, a qual se encontra consubstanciada pela gravidade dos delitos imputados ao requerente.
+No mais, conforme relatório policial acostado aos autos principais, o requerente foi apontado como sendo dono de ponto de venda de drogas das casinhas populares e do ponto de venda instalado nas imediações do prédio nº 97, o que demonstra a necessidade da custódia cautelar.
+ ..
+Pelo que se extrai das investigações, os denunciados, em tese, estão associados para a prática do crime de tráfico de drogas em local já conhecido dos meios policiais e, apesar de grande investigação que resultou no processo criminal nº 0000942-33.217.8.26.0294, com condenação não definitiva de alguns dos denunciados nestes autos, a autoridade policial apontou pela continuidade do crime no local (fl. 291).
+Ainda, alguns dos denunciados supostamente integram facção criminosa, o que corrobora a necessidade da segregação cautelar para manutenção da ordem pública.
+ ..
+Ademais, consta do acórdãoa quo(fls. 1.785/1.786 - grifo nosso):
+ ..
+Norberto, por sua vez, além de receber os repasses mensais de valores decorrentes do tráfico de drogas no local, age ativamente no local coordenando a atividade de seus subordinados Norberto é o dono de um ponto de venda de drogas próximo ao bar da Malu, sendo um local situado na principal rua de acesso aos prédios, para quem chega ou sai, sentido ao da cidade de Cajati. Além disso, ele também comanda o ponto de venda de drogas no local conhecido como "casinhas", que fica situado entre o prédio do CDHU nº 400 e o conjunto habitacional, conhecido como casinhas populares.As investigações indicaram queNorberto é dono desses dois pontos de venda de drogase sócio de Baixinho e Tchuck, na comercialização de drogas nas imediaçõesdos prédios do CDHU.Norberto liderava o tráfico de drogas naquela localidade,tendo como colaboradores as pessoas de Peterson Ribeiro dos Anjos, Marivaldo Rafael da Silva, Rafael Chaves (Feijão), além de Cleiton da Silva Gabriel, vulgos "Falcão, Cleitinho ou Noturno", que por ter a função de disciplina, também tinha influências sobre os traficantes que atuavam naquela área e no Vale do Ribeira"
+ ..
+Assim, da leitura dos trechos acima, verifica-seque os fundamentos da decisão quedecretou a prisão preventiva não se mostram desarrazoados ou ilegais, mormente emrazão da gravidade concreta na prática dos delitos de tráfico de drogas, associação para o tráfico e posse ilegal de arma de fogo, em queo paciente se apresenta como o líder do tráfico de drogas na região, sendo dono de dois pontos de venda de entorpecentes.
+Com razão o nobre Subprocurador-Geral da República quando, em seu parecer, destacou que não se cuida, portanto, de medida preventiva imposta de maneira acrítica acerca da conduta do réu, mas sim de elucidativas ponderações acerca da reprovabilidade extraordinária de seu comportamento, ensejadora da necessidade de constrição cautelar de sua liberdade. Outrossim, a gravidade concreta do contexto em que o acusado está inserida inibe ainda a substituição do cárcere preventivo por medidas cautelares diversas da prisão(fl. 1.820).
+De mais a mais, é consabido que eventuais condições subjetivas favoráveisnão são impeditivas à decretação da prisão cautelar, caso estejampresentes, como na espécie, os requisitos autorizadores da referidasegregação.
+Registre-seque, estando concretamente demonstrada pelas instâncias ordinárias a necessidade da prisão preventiva, não se afigura suficiente afixação de medidas cautelares alternativas.
+Ante o exposto, à vista do parecer, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O MESMO FIM E POSSE ILEGAL DE ARMA DE FOGO.PRISÃOPREVENTIVA. FUNDAMENTAÇÃO IDÔNEA.GARANTIA DA ORDEMPÚBLICA. AUSÊNCIA DECONSTRANGIMENTO ILEGAL. PARECERACOLHIDO.
+Ordem denegada.
