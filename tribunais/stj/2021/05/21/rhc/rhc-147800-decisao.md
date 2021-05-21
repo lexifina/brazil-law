@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus, com pedido liminar, interposto porOSMAR DO CARMO contra acórdãodo Tribunal de Justiça do Estado do Mato Grossoque denegou a ordem no julgamento do HC n.º 1004784-88.2021.8.11.0000 (e-STJ fls. 148/165).
+A defesa noticia que orecorrente teve a sua prisão preventiva decretadae foi denunciado pela suposta prática do crime de homicídio qualificado (121, §2º, inciso II, do Código Penal - denúncia às e-STJ fls. 24/27).
+Inconformada com o decreto prisional, a defesa impetrou owritoriginário, cuja ordem, como antes relatado, foi denegada, nos termos da seguinte ementa (e-STJ fl. 148/165):
+HABEAS CORPUS - HOMICÍDIO QUALIFICADO PELO MOTIVO FÚTIL - APLICAÇÃO DA LEI PENAL - FUGA DELIBERADA DO DISTRITO DA CULPA LOGO APÓS A PRÁTICA DO DELITO - MANDADO DE PRISÃO CUMPRIDO APÓS O DECURSO APROXIMADO DE DUAS DÉCADAS - APLICAÇÃO DA LEI PENAL - PREDICADOS PESSOAIS FAVORÁVEIS - IRRELEVÂNCIA - ORDEM DENEGADA EM CONSONÂNCIA COM O PARECER MINISTERIAL.
+"Consoante o entendimento do Supremo Tribunal Federal, "a evasão após a prática delitiva é fundamento idôneo para a segregação cautelar para resguardar a aplicação da lei penal" (HC n.º 90.162/RJ, Primeira Turma, Relator o Ministro Ayres Britto, DJe de 29/6/07)"  STF, HC n.º 127578 AgR, Relator(a): DIAS TOFFOLI, Segunda Turma, julgado em 25/8/2015, PROCESSO ELETRÔNICO DJe-194 DIVULG 28/9/2015 PUBLIC 29/9/2015 .
+Se o agente demonstrou de maneira concreta e deliberada a intenção de se furtar à aplicação da lei penal, foragindo do município em que residia, abandonando tudo, inclusive seu estabelecimento comercial, vindo a ser localizado após o decurso de aproximadamente vinte anos, a manutenção da prisão preventiva decretada é medida de rigor.
+"As condições pessoais favoráveis não justificam a revogação, tampouco impedem a decretação da custódia cautelar, quando presente o periculum libertatis"  Enunciado Orientativo 43 .
+Essa é a decisão impugnada.
+Nas razões do presentemandamus(e-STJ fls. 3/33), a defesa sustenta haver constrangimento ilegal porque o decreto prisionalnão possuifundamentação idônea, uma vez que estãoausentes da espécie os requisitos legais autorizadores da prisão cautelar,bem como diante das condições pessoais favoráveis do paciente, que é primário, possui residência fixa e trabalho lícito. Aduz que o recorrente não pode ser considerado foragido porque não tinha ciência da ação penal e somente foi procurado pelo oficial de justiça 7 meses após a data do crime, mas havia mudado de endereço.
+Destaca que falta contemporaneidade à prisão, uma vez que os fatos aconteceram, em tese, em 28/7/2001 e o mandado foi cumprido em março/2021:nesse interstício, o recorrente não praticou qualquer ato que o desabonasse.
+Invoca, ainda, a situação de pandemia e o fato do recorrente possui 58 anos e Síndrome do Pânico.
+Pugna, liminarmente e no mérito, pela concessão de liberdade provisória ao recorrente ou, subsidiariamente, pelaimposição de medidas cautelares, ou, ainda, daprisão domiciliar.
+Processo distribuído a esta relatoria por prevenção do HC n.º 663.585/MT, vinculado ao mesmo ato coator e ao mesmo paciente; julgado em 3/5/2021, com reconhecimento, de ofício, da legalidade daprisão preventiva do recorrente (decisão transitou em julgado no dia 11/5/2021).
+É o relatório, decido.
+O presente recurso não merece ser conhecido porque representamera reiteração do HC n.º 663.585/MT, cujo mérito já foi analisado, de ofício, por esta Relatoria, no dia 3/5/2021.
+É de se considerar que "é pacífico o entendimento firmado nesta Corte de que não se conhece dehabeas corpuscuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n.º 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe 18/9/2019).
+Ante o exposto,não conheço do recurso.
+Intime-se.
