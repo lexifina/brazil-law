@@ -1,0 +1,63 @@
+DECISÃO
+ERALDO MARTINS COELHO (ERALDO) ingressou com ação contra BANCO DO BRASIL S.A. (BANCO) e CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BRANCO DO BRASIL (PREVI), objetivando o reconhecimento de resultado contábil superavitário no Plano de Benefícios nº 1, do qual é participante, com o consequente pagamento de benefício temporário.
+Em primeira instância, o pedido foi julgado improcedente (e-STJ, fls. 457/464).
+O Tribunal de Justiça do Distrito Federal e dos Territórios negou provimento à apelação de ERALDO em acórdão assim ementado:
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL. COMPETÊNCIA TERRITORIAL. LITISCONSÓRCIO PASSIVO. RÉUS COM DIFERENTES DOMICÍLIOS. POSSIBILIDADE DE AJUIZAMENTO DA AÇÃO EM QUALQUER UM DELES. OPÇÃO DO AUTOR. IMPUGNAÇÃO A NORMA REGULAMENTAR EDITADA POR ÓRGÃO FEDERAL. INEXISTÊNCIA DE LITISCONSÓRCIO NECESSÁRIO COM A UNIÃO. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. PRESCRIÇÃO.PRAZO QUINQUENAL. PREVIDÊNCIA COMPLEMENTAR. SUCESSIVOS RESULTADOS SUPERAVITÁRIOS. RESERVA ESPECIAL. REVISÃO DO PLANO DE BENEFÍCIOS. DESTINAÇÃO DE PARCELA DO RESULTADO AO PATROCINADOR. LEGALIDADE. RECURSO DESPROVIDO.
+1. Na hipótese de litisconsórcio passivo, em que os réus tenham diferentes domicílios, cabe ao autor a escolha de um deles para a propositura da ação (art. 46, §4º, do CPC).
+2. Não se vislumbra o mais remoto interesse da União em intervir no feito, apenas porque se sustentou eventual inconstitucionalidade de norma regulamentar edital no plano federal e como um dos fundamentos do pedido.
+3. A ação de cobrança de diferenças de valores de complementação de aposentadoria prescreve em cinco anos contados da data do pagamento (STJ/Súmula 427).
+4. O repasse de valores decorrentes de superávit ao patrocinador tem amparo nos artigos 20, III, 25, 26 e 27, da Resolução MPS/CGPC nº 26, de 29 de setembro de 2008, e no Regulamento do Plano. Estas normas se coadunam com os artigos 20, da Lei Complementar nº 109/01, e 202, da Constituição Federal. O Enunciado 290 da Súmula do Superior Tribunal de Justiça dispõe que nos planos de previdência privada, não cabe ao beneficiário a devolução da contribuição efetuada pelo patrocinador.
+5. APELAÇÃO CONHECIDA E DESPROVIDA(e-STJ, fl. 624 - sem destaque no original).
+Os embargos de declaração opostosforam rejeitados (e-STJ, fls. 663/668).
+Na sequência, ERALDO manejou recurso especial com base no art. 105, III, a, da Constituição Federal, sustentando violação dos arts. 19, 20, §§ 1º, 2º e 3º e 21, § 3º, e 75 da LC nº 109/2001, defendendo, em síntese, a ilegalidade da reversão de resultado superavitário do plano de benefícios em favor do patrocinador, nos termos da Resolução CGPC nº 26/2008 .
+Houve o oferecimento de contrarrazões (e-STJ, fls.740/788).
+Em juízo de admissibilidade, a Presidência do TJDFT admitiu o apelo nobre (e-STJ, fls. 845/846).
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da distribuição do superávit em favor do patrocinador
+A Segunda Seção do STJ, no julgamento do REsp nº 1.564.070/MG, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 18/4/2017, decidiu, sob o rito dos recursos repetitivos, que o superávit pode ser utilizado das mais diversas formas, consoante deliberação do Conselho Deliberativo da entidade previdenciária.
+Nessa linha, ambas as Turmas de Direito Privado do STJ entendem pela possibilidade de reversão de valores do superávit em favor do patrocinador, consoante se infere, em casos análogos, dos seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PREVIDÊNCIA PRIVADA COMPLEMENTAR. RESULTADO SUPERAVITÁRIO. DISTRIBUIÇÃO ENTRE PATROCINADO E PATROCINADOR. POSSIBILIDADE. JULGAMENTO VIRTUAL. POSSIBILIDADE. REGIMENTO INTERNO DO STJ. DISSÍDIO JURISPRUDENCIAL. ACÓRDÃOS DO MESMO TRIBUNAL. INADMISSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. HARMONIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568 DO STJ.
+1. Cuida-se, na origem, de ação de cobrança, cuja pretensão é o pagamento da cota parte do superávit nos anos de 2007 a 2009, referente a benefício de previdência privada, repassado indevidamente ao órgão patrocinador - Banco do Brasil.
+ ..
+4. Os argumentos da agravante no sentido da ilegalidade da reversão do saldo superavitário ao patrocinador e existência de revisão obrigatória não são suficientes para impugnar os fundamentos do acórdão impugnado. Súmula 283 do STF.
+5. A Segunda Seção do STJ, por ocasião do julgamento do REsp 1.564.070/MG, sob o rito dos recursos repetitivos, pontuou que o superávit pode ser utilizado das mais diversas formas que acaso delibere o Conselho Deliberativo da entidade previdenciária (REsp 1.564.070/MG, Segunda Seção, DJe de 18/04/2017).
+6. Do mesmo modo, as duas Turmas de Direito Privado do STJ entendem pela possibilidade de reversão de valores do superávit em favor do patrocinador, como na espécie em julgamento. Precedentes. Súmula 568 do STJ.
+7. Agravo interno no recurso especial não provido.
+(AgInt no REsp 1.820.044/DF, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 1º/3/2021, DJe 3/3/2021 - sem destaque no original)
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. PREVIDÊNCIA PRIVADA. SUPERÁVIT. FORMA DE UTILIZAÇÃO. PRETENSÃO DE RECEBIMENTO DA VERBA DE MODO ALHEIO À PARTICIPAÇÃO DO CONSELHO DELIBERATIVO E DO ÓRGÃO PÚBLICO FISCALIZADOR. MANIFESTA IMPOSSIBILIDADE. REVERSÃO AO PATROCINADOR. RESOLUÇÃO MPS/CGCP Nº 26/08. VALIDADE. PRECEDENTES.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. "A Segunda Seção, por ocasião do julgamento do recurso repetitivo, REsp 1.564.070/MG, pontuou que o superávit pode ser utilizado das mais diversas formas que acaso delibere o Conselho Deliberativo da entidade previdenciária. Dessarte, evidentemente, não cabe ao assistido definir unilateralmente como será feita a revisão do plano de benefícios - ademais, suprimindo a atribuição da Previc, que deverá previamente anuir com a eventual alteração que implique na reversão de verba aos participantes, assistidos e ao patrocinador, consoante disciplinado no art. 26 da Resolução n. 30 do Conselho Nacional de Previdência Complementar, de 10 de outubro de 2018" (AgInt na TutPrv no REsp 1.742.683/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/3/2019, DJe de 19/3/2019).
+3. Nos termos dos artigos 26 e 27 da Resolução nº 30 do Conselho Nacional de Previdência Complementar, de 10 de outubro de 2018, bem como da Lei Complementar 109/2001, não há vedação para que a Resolução MPS/CGPC 26/2008 preveja a reversão da reserva especial aos participantes, assistidos e ao patrocinador, sendo incabível a pretensão de revisão unilateral do plano de benefícios pelo participante, que é condicionada à apreciação e aprovação do órgão fiscalizador, a Superintendência Nacional de Previdência Complementar - PREVIC.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.874.908/DF, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 1º/3/2021, DJe 4/3/2021 - sem destaque no original)
+Na hipótese dos autos, o Tribunal distrital entendeu que:
+O autor sustentou que, após sucessivos períodos superavitários do fundo de previdência complementar, os benefícios foram revisados por meio de alteração do regulamento.Para os participantes, foi concedido um benefício especial temporário a ser pago a partir da aposentadoria.
+Para o patrocinador, foi instituído o "passivo exigível operacional", que consistiu na suspensão das respectivas contribuições até a total absorção da parcela do superávit que lhe foi destinada.
+O apelante sustentou que a destinação de parcela do superávit ao patrocinador seria ilegal, porque se trataria de benefício cujo pagamento seria vedado pela legislação aplicável.
+Sem razão.
+O sistema de previdência complementar tem fundamento no art. 202, da Constituição Federal, que prevê a contribuição do empregado e do empregador, na condição de participante:
+ ..
+O dispositivo foi regulamentado pela Lei Complementar n. 109/2001, cujo art. 20 disciplinou a destinação do resultado superavitário:
+Art. 20. O resultado superavitário dos planos de benefícios das entidades fechadas, ao final do exercício, satisfeitas as exigências regulamentares relativas aos mencionados planos, será destinado à constituição de reserva de contingência, para garantia de benefícios, até o limite de vinte e cinco por cento do valor das reservas matemáticas.
+§ 1ºConstituída a reserva de contingência, com os valores excedentes será constituída reserva especial para revisão do plano de benefícios.
+§ 2º A não utilização da reserva especial por três exercícios consecutivos determinará a revisão obrigatória do plano de benefícios da entidade.
+§ 3ºSe a revisão do plano de benefícios implicar redução de contribuições, deverá ser levada em consideração a proporção existente entre as contribuições dos patrocinadores e dos participantes, inclusive dos assistidos.
+É exatamente essa a situação dos autos, em que a entidade apresentou superávit, constituiu a reserva de contingência e a reserva especial. Passados três anos consecutivos sem utilização da reserva especial, deliberou pela revisão do plano de benefícios, destinando parte da reserva especial ao pagamento de benefício especial temporário aos participantes e do passivo exigível operacional, ao patrocinador.
+A revisão está consentânea com o art. 15, da Resolução n. 26, do CGPC/MPS, então vigente:
+Art. 15. Para a destinação da reserva especial, deverão ser identificados quais os montantes atribuíveis aos participantes e assistidos, de um lado, e ao patrocinador, de outro, observada a proporção contributiva do período em que se deu a sua constituição, a partir das contribuições normais vertidas nesse período.
+§ 1º Na hipótese de não ter havido contribuições no período em que foi constituída a reserva especial, deverá ser considerada a proporção contributiva adotada, pelo menos, nos três exercícios que antecederam a redução integral, a suspensão ou a supressão de contribuições, observada como limite temporal a data de 29 de maio de 2001.
+§ 2º Em relação aos planos de benefícios que não estejam sujeitos à disciplina da Lei Complementar 108, de 2001, a destinação da reserva especial poderá ser adotada de forma exclusiva ou majoritária em prol dos participantes e dos assistidos, sem a observância da proporção contributiva de que trata o caput, desde que haja prévia anuência do patrocinador neste sentido.
+Portanto, não se evidencia a suposta ilegalidade apontada pelo apelante.
+O sistema de previdência complementar prevê a equivalência de aportes dos participantes e patrocinadores, o que deve ser observado também para a repartição de superávit. Neste sentido, o enunciado 290 da súmula do Superior Tribunal de Justiça:
+"290. Nos planos de previdência privada, não cabe ao beneficiário a devolução da contribuição efetuada pelo patrocinador."
+Excluir o patrocinador neste momento implicaria em enriquecimento sem causa por parte dos participantes ou assistidos, assim como a oneração excessiva do empregador (e-STJ, fls. 626/628).
+Assim, o acórdão recorrido está alinhado com a jurisprudência desta Corte, o que implica a incidência da Súmula nº 568 do STJ, ao preceituar que o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Considerando a aplicabilidade das regras do NCPC e o não provimento do recurso, MAJORO em R$ 500,00 (quinhentos reais) o valor dos honorários advocatícios sucumbenciais fixados em desfavor de ERALDO, nos termos do art. 85, § 11, do NCPC. Deverá ser observado, se for o caso, o benefício da gratuidade da justiça, nos termos do art. 98, § 3º, do NCPC.
+Publique-se. Intime-se.
+EMENTA
+PREVIDÊNCIA PRIVADA. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. SUPERÁVIT DO PLANO PREVIDENCIÁRIO. DESTINAÇÃO. REVERSÃO EM FAVOR DO PATROCINADOR. POSSIBILIDADE. RESOLUÇÃO MPS/CGCP Nº 26/2008. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA Nº 568 DESTA CORTE. RECURSO ESPECIAL NÃO PROVIDO.
