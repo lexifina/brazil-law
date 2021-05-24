@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a).
+Os Srs. Ministros Moura Ribeiro, Paulo de Tarso Sanseverino (Presidente) e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Nancy Andrighi.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. 1. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA INTEMPESTIVA.PARTE LEU INTIMAÇÃO DISTINTA E SE MANIFESTOU NO FEITO APÓS SER DETERMINADO O CUMPRIMENTO DA OBRIGAÇÃO. PRESUNÇÃO ABSOLUTA DE CIÊNCIA DE TODOS OS ATOS ANTERIORES AO ACESSO.ART. 9º, § 1º, DA LEI 11.419/06. SÚMULAS N. 7 E 83 DO STJ. 2. AGRAVO INTERNO IMPROVIDO.
+1. É entendimento desta Corteser desnecessária a certificação da data em que a parte efetivamente consultou o processo eletrônico, já que, de acordo com o § 1º do art. 9º da Lei 11.419/2006, "as citações, intimações, notificações e remessas que viabilizem o acesso à íntegra do processo correspondente serão consideradas vista pessoal do interessado para todos os efeitos legais".
+2.Reverter a conclusão do Tribunal local, para acolher a pretensão recursal, quanto à tese de que o advogado da Companhia não teve acesso ao conteúdo da decisão, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo interno improvido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por Companhia de Habitação Popular de Curitiba contra decisão desta relatoria assim ementada (e-STJ, fl. 197):
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA INTEMPESTIVA. PARTE LEU INTIMAÇÃO DISTINTA E SE MANIFESTOU NO FEITO APÓS SER DETERMINADO O CUMPRIMENTO DA OBRIGAÇÃO. PRESUNÇÃO ABSOLUTA DE CIÊNCIA DE TODOS OS ATOS ANTERIORES AO ACESSO. ART. 9º, §1º, DA LEI 11.419/06. SÚMULAS N. 7 E 83 DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões recursais, a agravante alega a inaplicabilidade das Súmulas n. 7 e 83 do STJ.
+Sustenta que não se pretende a reanálise do acervo fático-probatório, mas, sim, o reconhecimento de um fato público e notório, em que ""qualquer pessoa que utiliza do sistema PROJUDI (TJPR) sabe que até a disponibilização da nova versão, para se ter acesso às decisões no sistema era imprescindível a prévia leitura processual, sem a qual, não havia como se obter o inteiro teor das referidas decisões" (e-STJ, fl. 234).
+Pontua que não se está a discutir "a certificação da data em que a parte efetivamente consultou o processo", mas sim se, in casu, o advogado da Companhia detinha acesso à integra ao processo, podendo ser considerado intimado da decisão que deu início ao prazo para a referida impugnação ao cumprimento de sentença. Além disso, discute ainda se o mero peticionamento espontâneo, sem comprovação de acesso aos autos, poderia ensejar a conclusão de ciência inequívoca do ato judicial não publicado (e-STJ, fl. 235).
+Pleiteia a reconsideração da decisão agravada ou sua reforma pela Turma julgadora.
+Sem impugnação (e-STJ, fl. 246).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. 1. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA INTEMPESTIVA.PARTE LEU INTIMAÇÃO DISTINTA E SE MANIFESTOU NO FEITO APÓS SER DETERMINADO O CUMPRIMENTO DA OBRIGAÇÃO. PRESUNÇÃO ABSOLUTA DE CIÊNCIA DE TODOS OS ATOS ANTERIORES AO ACESSO.ART. 9º, § 1º, DA LEI 11.419/06. SÚMULAS N. 7 E 83 DO STJ. 2. AGRAVO INTERNO IMPROVIDO.
+1. É entendimento desta Corteser desnecessária a certificação da data em que a parte efetivamente consultou o processo eletrônico, já que, de acordo com o § 1º do art. 9º da Lei 11.419/2006, "as citações, intimações, notificações e remessas que viabilizem o acesso à íntegra do processo correspondente serão consideradas vista pessoal do interessado para todos os efeitos legais".
+2.Reverter a conclusão do Tribunal local, para acolher a pretensão recursal, quanto à tese de que o advogado da Companhia não teve acesso ao conteúdo da decisão, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo interno improvido.
+VOTO
+Os argumentos trazidos pela parte insurgente não são capazes de modificar as conclusões da decisão agravada.
+O Tribunal estadual, ao analisar a questão, deixou assente que (e-STJ, fls. 41-46 - sem grifo no original):
+(..) Muito embora tenha sido atribuído efeito suspensivo ao recurso, reconhecendo a probabilidade de seu provimento, em uma análise detida dos autos para o julgamento do mérito recursal verifico que, de fato, a impugnação apresentada na origem restou intempestiva.
+Explico.
+A determinação para o pagamento da obrigação executada foi proferida em 22/06/2017, através do mov. 7.1 dos autos. A respeito de tal decisão, foi expedida intimação à Executada, ora Agravante, que efetivamente só foi lida pela parte em 29/09/2017 (mov. 22).
+Todavia, no intervalo entre a expedição da intimação para o pagamento e sua leitura pela Agravante, esta também foi intimada quanto à digitalização do processo, cuja a leitura se realizou em 03/07/2017 (mov. 11). No dia seguinte, 04/07/2017, a Agravante acessou os autos e renunciou o prazo manifestação quanto à digitalização do processo (mov. 13).
+Assim, muito embora ainda não houvesse lido a intimação para o cumprimento da obrigação, ao acessar os autos na data de 04/07/2017 para renunciar o prazo, tomou ciência de todos os atos praticados no processo desde o seu último acesso, iniciando, assim, o seu prazo para pagamento e, consequentemente, para impugnação.
+Isto ocorre porque, em se tratando de processo eletrônico, o acesso aos autos, ainda que para o cumprimento de intimação distinta, implica na presunção de ciência de todos os atos pretéritos, a qual decorre do disposto no art. 9º,§1º da Lei nº 11.419/06 (Lei dos processos eletrônicos).
+Destaco:
+Lei nº 11.419/06 - art. 9º, §1º.: "As citações, intimações, notificações e remessas que correspondenteviabilizem o acesso à íntegra do processo serão consideradas vista pessoal do interessado para todos os efeitos legais.". Grifei.
+O acesso aos autos eletrônico por advogado regularmente constituído pela parte se equipara, em todos os seus efeitos, à realização de carga processual realizada em processo físico.Ao acessar o processo para o cumprimento de determinada intimação, o procurador acaba por ter acesso a todas as movimentações processuais, indistintamente, inclusive daqueles a respeito do qual não foi expedida a intimação em seu nome.
+(..)
+No caso dos autos, o acesso aos autos eletrônicos após ser proferida decisão determinando o cumprimento da obrigação é inequívoco, posto que houve leitura e renúncia de prazo pelos patronos da Agravante (Movs. 11 e 13). Não obstante, os advogados da Agravante peticionaram apresentando substabelecimento (mov. 12.1), ato que também depende de acesso aos autos, implicando, por consequência, na ciência inequívoca de todos os atos pretéritos pela parte.
+Assim, tendo tomado ciência da decisão que determinou o cumprimento da obrigação em 03/07/2017, o seu prazo para pagamento voluntário e, consequentemente, para apresentação de Impugnação ao Cumprimento de Sentença, já havia se esgotado quando efetivamente apresentada em 31/10/2017.
+Vale notar que, nos termos do art. 525 do CPC/15, o prazo para apresentação da impugnação ao Cumprimento de Sentença é de quinze dias úteis, contados a partir da data em que transcorreu o prazo para cumprimento voluntário, independentemente de nova intimação.
+Sob estes fundamentos, impõe-se reconhecer a intempestividade da Impugnação ao Cumprimento de Sentença apresentado pela Agravante ao mov.23.1, pelo que deve ser mantida a decisão que dela não conheceu.
+Observa-se que o Tribunal de origem julgou a demanda em conformidade com o entendimento desta Corte no sentido de ser desnecessária a certificação da data em que a parte efetivamente consultou o processo eletrônico, já que, de acordo com o § 1º do art. 9º da Lei 11.419/2006, "as citações, intimações, notificações e remessas que viabilizem o acesso à íntegra do processo correspondente serão consideradas vista pessoal do interessado para todos os efeitos legais".
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. SEQUESTRO CAUTELAR. EMBARGOS DE DECLARAÇÃO EM APELAÇÃO. LEI 11.419/2006. PROCESSO JUDICIAL EM AMBIENTE ELETRÔNICO. CONSULTA AO SISTEMA. INEQUÍVOCA CIÊNCIA DO CONTEÚDO DA DECISÃO JUDICIAL. TERMO INICIAL DO PRAZO RECURSAL. AGRAVO DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - Conforme estatui o art. 5º, § 1º, da Lei 11.419/2006, que disciplina o processo judicial em ambiente eletrônico, "considerar-se-á realizada a intimação no dia em que o intimando efetivar a consulta eletrônica ao teor da intimação, certificando-se nos autos a sua realização."
+III - Nos termos da jurisprudência deste eg. Superior Tribunal de Justiça "é desnecessária a certificação da data em que a parte efetivamente consultou o processo eletrônico, já que de acordo com o § 1º do artigo 9º da Lei 11.419/2006, "as citações, intimações, notificações e remessas que viabilizem o acesso à íntegra do processo correspondente serão consideradas vista pessoal do interessado para todos os efeitos legais". Precedentes" (AgRg no AREsp n. 594.229/RJ. Quinta Turma. Rel. Min. Gurgel de Faria. DJe de 18.08.2015 - grifei).
+IV - No caso vertente, a defesa constituída do ora agravante teve inequívoca ciência do julgado prolatado em sede de Apelação no dia 16.09.2019, segunda-feira, data em que protocolou petição interlocutória na qual solicitava o cumprimento do decisum (fls. 2.948-2.950). Seguiu-se daí o prazo legal de 15 (quinze) dias para a interposição do Recurso Especial.
+V - Não obstante, o recurso excepcional apenas foi interposto no dia 11.12.2019 (fl. 3.087), ou seja, 2 (dois) meses após a consumação do termo ad quem para o manejo da via impugnativa cabível, o que revela sua clara intempestividade.
+Agravo a que se nega provimento.
+(AgRg no REsp n. 1.862.242/PR. Relator Ministro Felix Fischer, Quinta Turma, DJe 9/9/2020).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE.
+1. Intempestividade do recurso manejado pela Defensoria Pública evidenciada, porquanto, mesmo após a alteração promovida pela Lei n. 12.322/2010 no art. 544 do Código de Processo Civil, o prazo para a interposição do agravo, em matéria penal, permanece de 5 dias, conforme decidiu o Supremo Tribunal Federal na Questão de Ordem no AgR-ARE n. 639.846/SP, contado em dobro, no caso, em face do disposto no art. 5º, § 5º, da Lei n. 1.060/1950.
+2. É desnecessária a certificação da data em que a parte efetivamente consultou o processo eletrônico, já que de acordo com o § 1º do artigo 9º da Lei 11.419/2006, "as citações, intimações, notificações e remessas que viabilizem o acesso à íntegra do processo correspondente serão consideradas vista pessoal do interessado para todos os efeitos legais ". Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 594,229/RJ. Relator Ministro Gurgel de Faria, Quinta Turma, DJe 18/8/2015).
+Ademais,reverter a conclusão do Tribunal local, para acolher a pretensão recursal, quanto àtese de que o advogado da Companhia não teveacesso ao conteúdo da decisão,demandaria o revolvimento do acervo fático-probatório dos autos,o que é vedadoante a natureza excepcional da via eleita, consoante enunciado daSúmulan. 7 do Superior Tribunal de Justiça.
+Por oportuno:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO QUE, À LUZ DAS PARTICULARIDADES FÁTICAS DO CASO, CONCLUIU PELA INVIABILIDADE TÉCNICA DE CITAÇÃO ELETRÔNICA. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. IMPOSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+I. Hipótese em que o Tribunal de origem, à luz das peculiaridades fáticas do caso e de Resolução da Corte estadual sobre o assunto, concluiu pela inviabilidade técnica de citação eletrônica do réu, no Município de Maricá/RJ, pelo que manteve a citação pelas regras ordinárias, tal como previsto no art. 9º, § 2º, da Lei 11.419/2006.
+II. Assim sendo, conclusão em contrário, pela viabilidade técnica da citação eletrônica, no caso - como pretende o agravante -, demandaria reexame do material fático-probatório, inviável, em sede especial, nos termos da Súmula 7/STJ.
+III. Agravo Regimental improvido.
+(AgRg no AREsp n. 705.808/RJ, Relatora Ministra Assusete Magalhães, Segunda Turma, DJe 25/9/2015).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
