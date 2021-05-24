@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AGRAVO DE INSTRUMENTO INTERPOSTO DIRETAMENTE PERANTE O SUPREMO TRIBUNAL FEDERAL E O SUPERIOR TRIBUNAL DE JUSTIÇA. ERRO GROSSEIRO. PRETENSÃO MANIFESTAMENTE INCABÍVEL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL IMPROVIDO.
+1. Como se sabe, a interposição de recurso especial e extraordinário deve ser feita perante a Corte a quo, conforme o art. 1.029 do Código de Processo Civil, que fará juízo prévio de admissibilidade, nos termos do art. 1.030 do mencionado diploma legal. Em caso de inadmissibilidade, caberá agravo, endereçado à Presidência ou à Vice-Presidência do Tribunal de origem, nos termos do art. 1.042, § 2º, do Código de Processo Civil, consistindo erro grosseiro o direcionamento do recurso diretamente à Corte ad quem.
+2. Neste caso, a defesa apresentou agravo de instrumento diretamente perante o STF e o STJ e, posteriormente, requereu a reconsideração das decisões de inadmissibilidade dos recursos junto à Corte Regional, providência inviável, tendo em vista já ter se exaurido a prestação jurisdicional por parte do Tribunal Regional Federal da 4ª Região. Manifesta ausência de constrangimento ilegal.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA:
+Trata-se de agravo regimental interposto por MAURO FERNANDES em adversidade à decisão que negou seguimento ao habeas corpus impetrado contra ato do Tribunal Regional Federal da 4ª Região, no julgamento do HC n. 5015766-24.2021.4.04.0000.
+Os autos informam que o paciente foi condenado a 1 (um) ano e 2 (dois) meses de detenção, em regime aberto, além de 20 (vinte) dias-multa, pela prática dos crimes previstos no art. 2º da Lei n. 8.176/1991 e art. 55 da Lei n. 9.605/1998. A pena privativa de liberdade foi substituída por prestação de serviços à comunidade e prestação pecuniária.
+O Tribunal Regional Federal da 4ª Região manteve os termos da sentença condenatória. Houve tentativa de levar o feito aos Tribunais Superiores por meio de recurso especial e extraordinário, mas ambos foram inadmitidos na origem (e-STJ, fls. 348-349 e e-STJ, fls. 351-355).
+A defesa manejou agravo de instrumento perante o Supremo Tribunal Federal (e-STJ, fls. 366-381) e perante o Superior Tribunal de Justiça(e-STJ, fls. 382-389). Os pedidos foram rejeitados(e-STJ, fls. 401-402 e e-STJ, fl. 404).
+Finalmente, a defesa requereu a remessa dos autos para a Corte de origem para exame do pedido de retratação das decisões proferidas pela Vice-Presidência no juízo de admissibilidade dos recursos dirigidos ao STF e ao STJ. O pedido foi indeferido, ensejando a impetração de habeas corpus, indeferido liminarmente pelo Tribunal de origem (e-STJ, fls. 16-18).
+Nesta impetração, postulou-se a suspensão do cumprimento da pena até que a Corte a quo examine o mencionado pedido de retratação.
+Nas razões desse agravo regimental, a defesa argumenta que, ao contrário do afirmado, o pedido protocolado perante o Tribunal Regional Federal não se trata de pedido de reconsideração, mas petição de interposição do agravo junto à Corte Federal, razão pela qual requer a reconsideração da decisão agravada ou, subsidiariamente, a apresentação do feito ao Colegiado respectivo.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA:
+O agravo regimental é tempestivo. No entanto, não obstante os esforços do agravante, não constato elementos suficientes para reconsiderar a decisão, cuja conclusão mantém-se, por seus próprios fundamentos.
+Neste caso, a impetração requer a suspensão da execução da pena imposta ao paciente, alegando suposta omissão por parte da Vice-Presidência do Tribunal Regional Federal da 4ª Região, que ainda não examinou o pedido de reconsideração das decisões que inadmitiram os recursos especial e extraordinário.
+Como se sabe, a interposição de recurso especial e extraordinário deve ser feita perante a Corte a quo, conforme o art. 1.029 do Código de Processo Civil, que fará juízo prévio de admissibilidade, nos termos do art. 1.030 do mencionado diploma legal. Em caso de inadmissibilidade, caberá agravo, endereçado à Presidência ou à Vice-Presidência do Tribunal de origem, nos termos do art. 1.042, § 2º, do Código de Processo Civil, consistindo erro grosseiro o direcionamento do recurso diretamente à Corte ad quem.
+Portanto, incabível o retorno dos autos ao Tribunal Regional Federal, tendo em vista que já houve manifestação da Corte a quo, encerrando-se a prestação jurisdicional naquela instância, constatando-se a preclusão.
+Neste caso, portanto, não se constata negativa de prestação jurisdicional, tendo em vista que a irresignação foi apreciada e rechaçada nos termos da legislação vigente, cabendo, ainda, destacar-se o fato de que o pedido de reconsideração ou retratação, tal como pretende a defesa, não encontra amparo na legislação processual vigente, consistindo erro grosseiro, o que inviabiliza, inclusive, a aplicação do princípio da fungibilidade.
+Nesse sentido, mutatis mutandis:
+(..)
+7. A necessidade de que não haja erro grosseiro e de que seja observado o prazo do recurso cabível, para aplicação do princípio da fungibilidade, não constitui "invenção jurisprudencial sem fundamento e desprovida de lógica jurídica", mas tem suas raízes no devido processo legal. Destarte, todos litigantes em um processo judicial têm o dever de observar as regras processuais, incluindo-se os recursos adequados e os respectivos prazos, cabendo ao Julgador zelar pelo seu cumprimento.
+8. Recurso especial parcialmente conhecido e, nessa extensão, desprovido. (REsp 1851323/MG, Rel. Ministra LAURITA VAZ, Sexta Turma, DJe 20/11/2020)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO QUE INADMITE RECURSO ESPECIAL. ERRO GROSSEIRO. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES. PRECLUSÃO CONSUMATIVA DO AGRAVO INTERPOSTO CONTRA A DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "A interposição de agravo regimental contra decisão que inadmitiu recurso especial constitui erro grosseiro, insuscetível de aplicação da fungibilidade recursal" (AgRg na Rcl 39.269/PR, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 12/2/2020, DJe 17/2/2020).
+2. No dia 9/4/2020, concomitantemente à interposição do agravo regimental, a defesa interpôs também o agravo contra a decisão que não admitiu o recurso especial. Enquanto o primeiro foi interposto às 20:07:37 h (e-STJ, fl. 516), o segundo o foi às 20:10:53 h (e-STJ, fl. 580).
+3. A interposição concomitante de dois recursos, pela mesma parte e contra a mesma decisão, importa o não conhecimento do segundo, em razão do princípio da unirrecorribilidade e da ocorrência da preclusão consumativa. Desse modo, o agravo interposto contra a decisão que não admitiu o recurso especial não foi conhecido, nos termos do art. 253, parágrafo único, I, do RISTJ.
+4. Agravo regimental não provido. (AgRg no AREsp 1742197/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 19/10/2020)
+Ante o exposto, nego provimento a este agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
