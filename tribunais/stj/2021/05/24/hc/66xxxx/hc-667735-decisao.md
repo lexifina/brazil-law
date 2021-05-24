@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Gleiciele Pereira de Jesuscontra o acórdão proferido pelo Tribunal de Justiça de Santa Catarina, em que se negou provimento à apelação defensiva, mantendo-se a condenação imposta à paciente à pena de 5anos de reclusão, em regime inicial semiaberto, e 500dias-multa, pelo crime de tráfico de drogas,não comporta processamento(Ação Penal n. 5029808-97.2020.8.24.0008).
+Primeiro, porque se trata de habeas corpus substitutivo de revisão criminal e a impetrante se utiliza da via como uma segunda apelação criminal, pretendendo o reexame de matérias afetas às instâncias ordinárias, mediante análise de fatos e provas, o que é inadmissível nos termos da jurisprudência desta Corte.
+Depois, porque se observa da análise dos autos que o acórdão a quodestacou que a confissão da apelante acerca do modo como desenvolvia a atividade há considerável período e depoimento dos agentes públicos, somados à apreensão de vultosa quantidade e variedade de drogas e a forma como estavam fracionadas, bem como a natureza destrutiva de parte delas, são fatores que demonstram sua inconteste dedicação a atividades criminosas, não podendo ser considerada "marinheira de primeira viagem", de modo que, para alcançar conclusão inversa, seria necessário reexame de provas, inviável na via estreita do habeas corpus.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. FALTA DE CABIMENTO. DOSIMETRIA DA PENA. UTILIZAÇÃO DA VIA ELEITA COMO UMA SEGUNDA APELAÇÃO. IMPOSSIBILIDADE. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. CONVICÇÃO DAS INSTÂNCIAS ORDINÁRIAS DE QUE A PACIENTE SE DEDICAA ATIVIDADES CRIMINOSAS. CONCLUSÃO INVERSA. REEXAME DE PROVAS. INVIABILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
