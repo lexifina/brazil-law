@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO.
+1. Não estando prequestionados os arts. 139 e 927 do CPC/2015, o conhecimento do recurso encontra óbice na Súmula 282 do STF.
+2. Tratando-se de tributo estadual, este Tribunal Superior não pode ingressar no mérito a respeito do índice de correção a ser aplicado, pois esta tarefa dependeria do exame da legislação local (Súmula 280 do STF).
+3. Agravo interno da sociedade empresária não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se agravo interno interposto por ABC - Atacado Brasileiro da Construção contra decisão que, com apoio nas Súmulas 280 e 282 do STF, não conheceu de recurso especial em que discute a incidência da taxa Selic na repetição de indébito de tributo estadual.
+A parte agravante sustenta, em síntese (fls. 833/842):
+Tendo em vista que o art. 127 da Lei Estadual nº 6.7631/75 instituiu a taxa Selic como índice de correção monetária dos débitos fiscais devidos ao Estado de Minas Gerais, a referida taxa deve ser considerada na correção do indébito tributário desde a data do recolhimento indevido, sob pena de ofensa ao Princípio da Isonomia e Simetria, razão pela qual, foram opostos Embargos de Declaração, suscitando a aplicação do leading case nº 1.111.189 desta Eg. corte, sob pena de afronta à sistemática dos julgamentos afetados pela repercussão geral.
+De fato, no referido acórdão está disposto a aplicação da Taxa Selic, mas a questão é: desde quando  Isso porque no v. Acórdão recorrido se impõe a aplicação da Taxa Selic a partir do trânsito em julgado ao passo que o leading case determina a aplicação desde a data da vigência da Lei Estadual (que no caso concreto tem vigência desde 1983). Note-se, não se busca com o Recurso Especial nem sequer a reanálise da legislação estadual, mas apenas que seja aplicado exatamente o texto do leading case, o qual aduz: incide a taxa SELIC na repetição de indébito de tributos estaduais a partir da data de vigência da lei estadual que prevê a incidência de tal encargo sobre o pagamento atrasado de seus tributos"
+Impugnação apresentada pelo Estado de Minas Gerais (fls. 847/849).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO.
+1. Não estando prequestionados os arts. 139 e 927 do CPC/2015, o conhecimento do recurso encontra óbice na Súmula 282 do STF.
+2. Tratando-se de tributo estadual, este Tribunal Superior não pode ingressar no mérito a respeito do índice de correção a ser aplicado, pois esta tarefa dependeria do exame da legislação local (Súmula 280 do STF).
+3. Agravo interno da sociedade empresária não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 556/579):
+A Primeira Seção do STJ, quando do julgamento do REsp 903.394/AL, sob a sistemática dos recursos repetitivos, prevista no art. 543-C do CPC/73, artigo 1.036 do NCPC, consolidou o entendimento de que a legitimidade para a repetição dos tributos de repasse, como é o caso do ICMS, é do contribuinte de direito, e não do contribuinte de fato, por ser aquele a parte de relação jurídica tributária que assume o ônus econômico do tributo em razão da própria natureza da exação  ..  recorrente afigura-se parte legítima para a propositura da presente ação, inexistindo óbice ao pedido de repetição de indébito, razão pela qual afasto a preliminar de ilegitimidade ativa.
+ ..
+Essa questão foi pacificada pelo colendo STJ, ao julgar o REsp no 931.7271RS, pela sistemática dos recursos repetitivos, prevista no artigo 543-C do CPCI73 - artigo 1.036 do CPC, no qual firmou o entendimento de que, nos casos em que a substituta tributária não efetua o transporte nem a engendra, por sua conta e ardem, o valor do frete não deve ser incluído na base de cálculo do ICMS incidente sobre a circulação da mercadoria, para fins da substituição tributária progressiva ("para frente"), por força da disposto no ad. 13, § 1º , inciso II, alínea "b", da Lei Complementar n. 87/96.
+ ..
+Feitas essas considerações, e voltando ao caso, verifica-se ser fato incontroverso que a apelante, na condição de adquirente e substituída tributária, arca com o pagamento do frete, motivo pelo qual essa parcela não pode integrar a base de cálculo do imposto. Dessa maneira, e tendo sido o frete contratado pela própria substituída tributária, e não pela substituta, não cabe a incidência do ICMS, sob pena de violação ao disposto no art. 128 do CTN e ao entendimento jurisprudencial acima destacado cuja observância é obrigatória.
+ ..
+Com tais considerações, DOU PROVIMENTO AO RECURSO para anular a r. sentença e, com fundamento no art. 1.013, § 30, III, do CPC, julgo procedente o pedido para declarar a inexigibilidade de cobrança do ICMS, recolhido no regime de substituição tributária "para frente", sobre o custo do transporte de mercadorias, no caso em que o frete for contratado pela substituída tributária. Via de consequência, condeno o réu a restituir à autora os valores pagos indevidamente a este título, conforme se apurar em liquidação de sentença, observada a prescrição quinquenal.
+Sobre o valor devido (e decorrente do recolhimento inexigível), por se tratar de verba de natureza tributária, deverão incidir juros de mora a partir do trânsito em julgado da decisão, na forma do art. 167, parágrafo único, do CTN e Súmula n. 188 do STJ; e correção monetária, pelo IPCA, desde cada recolhimento indevido, de acordo com a Súmula n. 162 do STJ, até o trânsito em julgado, a partir de quando, diante do disposto nos arts. 127 e 226 da Lei Estadual nº 6.763/75, e art. 13 da Lei Federal n. 9.430/96, a atualização monetária deverá ocorrer exclusivamente pela taxa SELIC, que inclui as juros de mora e a correção monetária.
+Pois bem.
+O conhecimento do recurso encontra óbice na Súmula 282 do STF, pois não estão prequestionados os arts. 139 e 927 do CPC/2015.
+De outro lado, por se tratar de tributo estadual, não haveria como este Tribunal Superior ingressar no mérito a respeito do índice de correção a ser aplicado, pois esta tarefa dependeria do exame da legislação local (Súmula 280 do STF).
+De toda sorte, como antes destacado por ocasião da análise dos embargos declaratórios, a tese firmada pela Primeira Seção é no sentido "incide a taxa SELIC na repetição de indébito de tributos estaduais a partir da data de vigência da lei estadual que prevê a incidência de tal encargo sobre o pagamento atrasado de seus tributos" (REsp 1111189/SP, Rel. Ministro Teori Albino Zavascki, Primeira Seção, julgado em 13/05/2009, DJe 25/05/2009). E o acórdão recorrido determina a aplicação da taxa Selic, conforme prevista na legislação estadual, o que está em conformidade com a orientação deste Tribunal Superior.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
