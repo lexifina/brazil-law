@@ -1,0 +1,51 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. CITAÇÃO. AUSÊNCIA. PRAZO. INTERRUPÇÃO. NÃO OCORRÊNCIA. NÃO PROVIMENTO.
+1. "A citação válida retroage à data da propositura da ação para efeitos de interrupção da prescrição, conforme o art. 219, § 1º, do CPC/1973 (correspondente ao art. 240, § 1º, do CPC/2015). Por outro lado, o § 4º do aludido dispositivo prevê que, se a citação não for efetivada nos prazos legais, haver-se-á por não interrompida a prescrição, salvo nos casos em que o atraso não puder ser imputado ao autor da ação (Súmula 106/STJ)." (AgInt no AREsp 1300199/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/3/2021, DJe 6/4/2021)
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora. Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por SEAC - Sergipe Administradora de Cartões e Serviços LTDA. em face de decisão que negou provimento a recurso especial.
+Afirma que o simples despacho determinando a citação basta para a interromper o curso da prescrição, razão pela qual a ausência da efetiva citação não é causa para o decreto de perda da pretensão.
+Pede o provimento do recurso, que, embora intimada a parte contrária, não foi respondido.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. CITAÇÃO. AUSÊNCIA. PRAZO. INTERRUPÇÃO. NÃO OCORRÊNCIA. NÃO PROVIMENTO.
+1. "A citação válida retroage à data da propositura da ação para efeitos de interrupção da prescrição, conforme o art. 219, § 1º, do CPC/1973 (correspondente ao art. 240, § 1º, do CPC/2015). Por outro lado, o § 4º do aludido dispositivo prevê que, se a citação não for efetivada nos prazos legais, haver-se-á por não interrompida a prescrição, salvo nos casos em que o atraso não puder ser imputado ao autor da ação (Súmula 106/STJ)." (AgInt no AREsp 1300199/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/3/2021, DJe 6/4/2021)
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O inconformismo não merece acolhida.
+A recorrente manifestou agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO MONITÓRIA - CONTRATO DE CONCESSÃO DE CRÉDITO - AÇÃO AJUIZADA ANTES DO PRAZO PRESCRICIONAL - TERMO INICIAL DA PRESCRIÇÃO QUE SE DEU NO MÊS SUBSEQUENTE AO VENCIMENTO DA FATURA NÃO PAGA - PRAZO QUINQUENAL - ART. 206, § 5º, I, DO CÓDIGO CIVIL - NÃO OCORRÊNCIA, AO MENOS SOB ESTE ASPECTO - CITAÇÃO DA PARTE REQUERIDA NÃO EFETIVADA - AUSÊNCIA DE INTERRUPÇÃO DA PRESCRIÇÃO - INTELIGÊNCIA DOS ARTS. 202 C/C 240, § 1º DO CPC - RECURSO DESPROVIDO - SENTENÇA MANTIDA - DECISÃO UNÂNIME.
+Alegou, na ocasião, violação dos artigos 202, I, do Código Civil e 240, § 1º, do Código de Processo Civil, sob o argumento de que o despacho de citação interrompe a prescrição, razão pela qual esta não poderia ser decretada.
+Colhe-se dos autos que a recorrente ingressou com pedido monitório em face da agravada para a cobrança de dívida de cartão de crédito "vencida em 25/01/2011, no valor de R$ 11.567,45 (onze mil e quinhentos e sessenta e sete reais e quarenta e cinco centavos). Juntou documentos.
+Em 20/01/2015, fora determinada a citação do Réu, a qual não logrou êxito, conforme certidão nos autos (p. 72), contendo informação que a parte não reside no referido endereço.
+Instada a se manifestar, a parte autora (em 27/03/2015) informou novo endereço para citação, a qual restou infrutífera, conforme certidão nos autos (p. 81), a Autora informou outro endereço, também não logrando êxito a citação (p. 84; 91; 94; e 103), razão pela qual a Autora requereu a pesquisa de endereço da parte Ré via BACENJUD e INFOJUD, o que fora deferido e realizado, não logrando êxito a localização de endereços diversos do que consta na inicial, conforme resultado das pesquisas, anexos (p. 128/130).
+Em 14/11/2017 a parte Autora requereu expedição de novo mandado de citação, no endereço localizado via BACENJUD e INFOJUD, o que fora deferido e realizado, não logrando êxito a localização da parte (p. 133; e 141).
+A parte autora fora intimada para se manifestar acerca da ocorrência da prescrição, tendo esta ofertado petição em 02/03/2018, alegando que não ocorrera a prescrição" (e-STJ, fls. 157/158).
+Diante disso, decretou-se a prescrição, no que andou de acordo com o entendimento desta Casa, na medida em que caberia à credora requerer a citação por edital da devedora.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE NA VIGÊNCIA DO CPC/1973. PARALISAÇÃO DO PROCESSO POR TEMPO SUPERIOR AO PRAZO PRESCRICIONAL DA PRETENSÃO DE DIREITO MATERIAL. OCORRÊNCIA. TESE FIRMADA NO TEMA 1 DO IAC. PRAZO PRESCRICIONAL APLICÁVEL À AÇÃO MONITÓRIA BASEADA EM INSTRUMENTO CONTRATUAL PREVENDO DÍVIDA LÍQUIDA. 5 (CINCO) ANOS. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO PREVISTA PELO ART. 85, § 11, DO CPC/2015 EM CASO DE RECURSO INTERPOSTO APÓS A VIGÊNCIA DO NOVO CÓDIGO PROCESSUAL. OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. Em conformidade com a orientação jurisprudencial firmada no Tema 1 do Incidente de Assunção de Competência (IAC) - REsp 1.604.412/SC -, precedente de observância obrigatória nos termos do art. 927, III, do CPC/2015, nas execuções paralisadas sem prazo determinado, inclusive no caso de suspensão por ausência de bens penhoráveis (art. 791, III, do CPC/1973), o prazo prescricional da pretensão de direito material anteriormente interrompido reinicia após o transcurso de 1 (um) ano do último ato do processo. Além disso, o termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da lei processual nova, sem que tenha sido iniciado ou transcorrido o prazo prescricional durante a vigência do CPC/1973, sob pena de viabilizar a reabertura de prazo em curso ou exaurido.
+2. A ação monitória fundada em instrumento particular prevendo dívida líquida está subordinada ao prazo prescricional de 5 (cinco) anos do art. 206, § 5º, I, do CC. Precedentes.
+3. É devida a majoração dos honorários advocatícios sucumbenciais, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: "a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (cf. AgInt nos EREsp 1.539.725/DF).
+4. Agravo interno desprovido.
+(AgInt no REsp 1743365/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/10/2018, DJe7/11/2018)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. AUSÊNCIA DE CITAÇÃO DO RÉU. PRESCRIÇÃO INTERCORRENTE. OCORRÊNCIA. DECISÃO QUE SE MANTÉM, NA ÍNTEGRA, POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Os fatos dados por incontroversos pelos autos são: I) a data de emissão do cheque é de 11/6/2003; II) a ação monitória foi ajuizada em 30/6/2005; III) não localização da ré; IV) não há pedido de citação por edital; V) até a prolação da sentença, em 13/12/2011, a devedora ainda não tinha sido citada.
+2. O art. 219 do CPC, especificamente, em seu § 4º, é claro ao consignar: "Não se efetuando a citação nos prazos mencionados nos parágrafos antecedentes, haver-se-á por não interrompida a prescrição."
+3. No presente caso, para que não se operasse a prescrição intercorrente, a citação válida da devedora deveria ter ocorrido dentro do período de cinco anos a contar da data de emissão do cheque. Não efetivada a citação tradicional, nem tendo o credor requerido ao Juízo fosse feita a citação por edital, para que, mesmo fictamente, se angularizasse a relação processual, possibilidade essa prevista na legislação processual, o prazo, dentro do procedimento monitório instaurado, transcorreu sem interrupção da prescrição.
+4. Decisão agravada que se mantém por seus próprios fundamentos.
+5. Agravo regimental não provido.
+(AgRg no AREsp 369.182/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/10/2013, DJe 4/12/2013)
+De se ressaltar que, como consta nos precedentes ora citados, cabe à parte promover a citação no prazo legal, sob pena de não se verificar a interrupção da prescrição, como ensina o artigo 240, §§ 1º e 2º, do Código de Processo Civil.
+Assim, como dito supra, a parte, mesmo não localizando o endereço correto do devedor, deixou de promover sua citação por edital.
+Para melhor exame:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONCLUSÃO NO SENTIDO DO MANEJO DA DEMANDA NO PRAZO LEGAL. AUSÊNCIA DE DEBATE ACERCA DA NULIDADE DE CITAÇÃO. SÚMULA 211/STJ. CARÊNCIA DE ALEGAÇÃO DE OFENSA AO ART. 1.022 DO NOVO CPC. AGRAVO INTERNO DESPROVIDO.
+1. A citação válida retroage à data da propositura da ação para efeitos de interrupção da prescrição, conforme o art. 219, § 1º, do CPC/1973 (correspondente ao art. 240, § 1º, do CPC/2015). Por outro lado, o § 4º do aludido dispositivo prevê que, se a citação não for efetivada nos prazos legais, haver-se-á por não interrompida a prescrição, salvo nos casos em que o atraso não puder ser imputado ao autor da ação (Súmula 106/STJ).
+2. Consta que o recorrido ajuizou a ação de cobrança dentro do prazo legal. O debate acerca de nulidade ou não de ato citatório, bem como a eventual responsabilização do autor, ora agravado, por esse fato, não foi travado nos autos. Essa questão, relevante para o deslinde do caso, padece do devido prequestionamento. Aplicação da Súmula 211/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1300199/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/3/2021, DJe 6/4/2021)
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
