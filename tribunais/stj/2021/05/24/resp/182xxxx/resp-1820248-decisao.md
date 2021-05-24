@@ -1,0 +1,66 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Adelmir Meireles da Silva, com fundamento na alínea "a" do inciso III do art. 105 da CF/88, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ, fl. 323):
+PREVIDENCIÁRIO. EXERCÍCIO DE ATIVIDADE ESPECIAL. PERÍODO COMO REPRESENTANTE SINDICAL.
+1. Comprovado o exercício de atividade especial, conforme os critérios estabelecidos na lei vigente à época do exercício, o segurado tem direito adquirido ao cômputo do tempo de serviço como tal, e ao acréscimo decorrente da sua conversão em tempo comum, utilizado o fator de conversão previsto na legislação aplicada na data da concessão do benefício.
+2. Até 28.4.1995, é admissível o reconhecimento da especialidade do trabalho por categoria profissional; a partir de 29.4.1995, necessária a demonstração da efetiva exposição, de forma não ocasional nem intermitente, a agentes prejudiciais à saúde, por qualquer meio de prova; e, a contar de 6.5.1997 a comprovação deve ser feita por formulário-padrão embasado em laudo técnico ou por perícia técnica.
+3. Inviável a contagem, como especial, do tempo em que o autor esteve exercendo a atividade de representante sindical (posterior à alteração, pela Lei 9.032/95, da redação do art. 57, § 4º, da Lei 8.213/91), uma vez que, nesse período, não esteve sujeito a agentes nocivos.
+Os embargos de declaração (e-STJ, fls. 332/339) tiveram provimento negado, nos termos da decisão de e-STJ, fls. 346/347.
+O recorrente alega que foi violado o art. 11, § 4º, da Lei n. 8.213/1991.
+Defende, em síntese, a possibilidade de reconhecimento de atividade exercida na condição de representante sindical como especial.
+Sustenta a violação do princípio constitucional da isonomia ao criar distinção entre trabalhadores e dirigentes sindicais que se afastaram para exercício de representação.
+Argumenta que teria conseguido a aposentadoria especial se não tivesse se afastado para representar a categoria profissional.
+Admitido o recurso especial na origem (e-STJ, fl. 385), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+Decido.
+De início, não procede a alegação quanto à violação a dispositivo ou princípio constitucional, visto que inviável sua análise na via Especial, por usurpação da competência do Supremo Tribunal Federal.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. ALÍNEA "B" DO PERMISSIVO CONSTITUCIONAL. APLICAÇÃO DA SÚMULA 284/STF. ALTERAÇÃO DO ACÓRDÃO PROFERIDO PELO TRIBUNAL DE ORIGEM. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. DESCABIMENTO. DECISÃO AGRAVADA MANTIDA.
+1. Inexiste a alegada violação ao art. 1.022 do CPC/2015, visto que a Corte de origem julgou integralmente a lide e solucionou, de maneira clara e amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. O órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+3. Quanto ao exame recursal pela alínea "b" do permissivo constitucional, observa-se que o Recurso Especial encontra-se deficientemente embasado, porquanto a recorrente não logrou êxito em demonstrar a forma como o ato de governo local foi contestado em face de lei federal. Incidente, pois, o enunciado sumular 284/STF: "É inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia." 4. Considerando a fundamentação adotada na origem, à luz do contexto fático dos autos, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é vedado, no âmbito do Recurso Especial, pela Súmula 7 do STJ.
+4. Destaque-se que fica prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Registre-se que, nos termos do art. 105, III, da Constituição Federal, não compete ao Superior Tribunal de Justiça analisar suposta violação a artigos e princípios constitucionais, ainda que para fins de prequestionamento com vistas à interposição de Recurso Extraordinário, sob pena de usurpação da competência do Supremo Tribunal Federal.
+6. Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+7. Agravo Interno não provido.
+(AgInt no AREsp 1.628.401/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/9/2020, DJe 1/10/2020).
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. REFIS. INEFICÁCIA COMO QUITAÇÃO DO DÉBITO. EXCLUSÃO DO PROGRAMA DE PARCELAMENTO. POSSIBILIDADE. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O acórdão recorrido adotou entendimento contrário à orientação desta Corte segundo a qual é possível a exclusão do Programa de Recuperação Fiscal - REFIS, com fulcro no art. 5º, II, da Lei n.9.964/00 (inadimplência), se restar demonstrada a ineficácia do parcelamento como forma de quitação do débito, considerando-se o valor do débito e o valor das prestações efetivamente pagas.
+III - Não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, ex vi art. 102, III, da Constituição da República.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt nos EDcl no AgInt nos EDcl no REsp 1.562.199/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 11/11/2020, DJe 13/11/2020).
+Por outro lado, o Tribunal de origem não reconheceu o período de labor de dirigente sindical como atividade especial sob a seguinte fundamentação (e-STJ, fls. 314/318):
+Do caso concreto.
+O autor, nos períodos de 16/06/89 a 26/12/94; 27/12/94 a 16/03/01 e 17/03/01 a 17/06/08, esteve desenvolvendo atividade de representante sindical.
+Sobre a possibilidade de computar como tempo especial o período em que o trabalhador permanece licenciado para exercer cargo de representação sindical, Maria Helena Carreira Alvim Ribeiro (Aposentadoria Especial, 2008, Cap. XII, pg. 432) anota o seguinte:
+ ..
+A modificação operada no § 4º do art. 57, da Lei 8.213/91 deve-se ao fato de que, com a edição da Lei 9.032/95, foi extinto o enquadramento por categoria profissional, sendo exigida, a partir de então, a comprovação da exposição efetiva, habitual e permanente do trabalhador a agentes nocivos à saúde ou à integridade física para fins de reconhecimento da especialidade do labor.
+Cumpre destacar que decisão proferida pela Justiça do Trabalho assegura à parte, tão somente, o reconhecimento de seus direitos trabalhistas no período em que esteve licenciado, não podendo abranger o reconhecimento de direitos previdenciários, para os quais é absolutamente incompetente.
+Portanto, no período posterior a 28/04/1995 (em que licenciado para desempenho de mandato classista), por não estar exposto a agentes nocivos, não é possível reconhecer ao autor a especialidade postulada. Nesse sentido:
+ ..
+Destarte, claramente se verifica - no caso concreto - ser possível o enquadramento de dirigente sindical até 28/04/1995, no caso de a atividade exercida ser enquadrável como especial por categoria profissional.
+Nesse sentido, o próprio INSS já admitiu ser especial a atividade da parte autora de afiador (evento 17, OUT4 - originários).
+Assim, é possível o reconhecimento da atividade especial no período de 16/06/89 a 26/12/94 e de 27/12/94 a 28/04/1995.
+No caso, o acórdão recorrido decidiu pela inviabilidade de reconhecimento da atividade especial no período posterior à 28/4/1995, por não ser mais enquadrável como categoria profissional e pela não exposição aos agentes nocivos.
+Nota-se que tal questão definida no acórdão recorrido não foi devidamente impugnada pelo recorrente, nas razões do recurso especial, o que, por si só, mantém incólume o acórdão combatido.
+A não impugnação específica de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. QUANTIA DE ATÉ 40 SALÁRIOS MÍNIMOS.IMPENHORABILIDADE. CADERNETA DE POUPANÇA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+III - É pacífico o entendimento no Superior Tribunal de Justiça no sentido de que a impenhorabilidade da quantia de até quarenta salários mínimos poupada alcança não somente a aplicação em caderneta de poupança, mas, também, a mantida em fundo de investimento, em conta-corrente ou guardada em papel-moeda, ressalvado eventual abuso, má-fé ou fraude.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp 1.858.456/RO, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 15/6/2020, DJe 18/6/2020).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. DIREITO AUTÔNOMO DE EXECUÇÃO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. INCOMUNICABILIDADE. DESERÇÃO. SÚMULAS 182 E 187/STJ; 280 E 283/STF. APLICAÇÃO.
+1. O Recurso Especial pedindo a condenação do Estado em honorários advocatícios foi declarado deserto em virtude de a assistência judiciária gratuita não aproveitar aos causídicos. Houve impugnação ao despacho, sem, contudo, se comprovar o pagamento do preparo.
+2. O Superior Tribunal de Justiça entende que o benefício da gratuidade de justiça é direito personalíssimo e, portanto, intransferível ao procurador da parte, (REsp 903.400/SP, Rel. Min.Eliana Calmon, Segunda Turma, DJe 6.8.2008).
+3. A parte recorrente não realizou o devido preparo, mesmo após o indeferimento do pedido e a concessão do prazo de cinco dias para sua regularização. Dessa forma, não há como conhecer do Recurso Especial ante a ocorrência de deserção (Súmula 187/STJ).
+4. A fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre o ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+5. Recurso Especial não conhecido.
+(REsp 1.814.349/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/11/2019, DJe 19/12/2019).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes: 1) no caso de ter sido aplicado na origem o art. 85, §3º, elevo os honorários ao percentual máximo da faixa respectiva; 2) no caso de ter sido utilizado na origem o art. 85, §2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma; e 3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento). Restam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC.
+Publique-se. Intimem-se.
