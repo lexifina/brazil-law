@@ -1,0 +1,32 @@
+DECISÃO
+O EXMO. SR. MINISTRO FELIX FISCHER:Trata-se de agravo em recurso especial interposto por JUCELIA ANDRADE MIRANDA, contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA.
+Consta dos autos que aagravante foi condenadapela prática do crime previsto no art. 33, caput, c/c art.40, inc.V, ambos da Lei n.11.343/2006, à pena de 7(sete) anos e 7 (sete) meses de reclusão, em regime fechado, além de 758(setecentos e cinquenta e oito) dias-multa.
+A defesa interpôs apelação. O eg. Tribunal a quo, por maioria, deu parcial provimento ao recurso, somente para alterar o regime de cumprimento de pena para o semiaberto, em acórdão assim ementado (fl. 291):
+"Tráfico interestadualConfissão. Depoimentos de policiais. Conjunto probatório harmônico. Absolvição. Improcedência. Dosimetria. Pena-base acima do mínimo. Possibilidade. Causa especial de diminuição de pena. Inaplicabilidade. Regime fechado. Alteração para o semiaberto. Procedência. Substituição de pena por restritivas de direitos. Impossibilidade. Pena superior a quatro anos.
+Demonstrado de forma inequívoca pela confissão judicial e pelos depoimentos de policiais federais que participaram das diligências que o entorpecente apreendido era de propriedade do agente, que visava sua comercialização em outro Estado, não há que se falar em absolvição.
+Justifica-se a pena-base acima do mínimo legal no crime de tráfico de drogas, quando devidamente fundamentada, sobretudo se relevante a quantidade de droga apreendida.
+A grande quantidade de droga apreendida, evidenciando que o agente dedicava-se à atividade criminosa, afasta o benefício da causa especial de diminuição de pena.
+É possível a fixação do regime semiaberto para cumprimento de pena ao agente primário condenado à pena não superior a oito anos.
+Inviável a substituição da pena privativa de liberdade por restritivas de direitos quando a reprimenda definitiva aplicada for superior a quatro anos"
+A defesa interpôs recurso especial, com fulcro no art. 105, inciso III, alínea a, da Constituição da República, alegando ofensaao art. 33, parágrafo 4º, da Lei n.11.343/06 e art. 65 inc. III, do CP, ao fundamento de que "o STF tem entendimento que prevalece que é possível aplicar o § 4º do artigo 33 da Lei n 11.343/06 às "mulas", que o fato de o agente transportar droga, por si só, não é suficiente para afirmar que seja a pessoa integrante de organização criminosa" (fl. 303), e ainda que "a grande quantidade de droga, isoladamente não constitui fundamento idôneo para afastar a causa de diminuição de pena do artigo 33, § 4º da lei 11.343/06" (fl. 305).
+Por fim, pugna para que "seja aplicada a causa de diminuição de pena constante no art. 33, § 4ºda Lei 11.343/2006 em seu patamar máximo", "o reconhecimento da Atenuante de Confissão Espontânea",e"seja fixado regime inicial aberto para o cumprimento da reprimenda, bem como seja esta substituída por restritiva de direitos" (fls. 308-309).
+Apresentadas as contrarrazões (fls. 318-335), o apelo especial não foi admitido ante o óbice da Súmula n. 7/STJ e 284/STF (fls. 336-337).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 339-348 e 351-360).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo em recurso especial (fls. 379-383).
+É o relatório.
+Decido.
+O EXMO. SR. MINISTRO FELIX FISCHER: O presente agravo em recurso especialnão merece conhecimento.
+Em face da decisão de admissibilidade do recurso especial proferido pelo Tribunal de origem (fls. 336-337), que não admitiu o apelo nobre interposto pelo ora agravante, a Defesa interpôs um primeiro agravo em recurso especial (fls. 339-348).
+Interpostos dois agravos em recurso especial pela mesma parte contra a mesma decisão, tem-se configurada, por aplicação do princípio da unirrecorribilidade das decisões judiciais, a preclusão consumativa quanto ao segundo recurso, pelo exaurimento do direito ou faculdade de recorrer em virtude do seu integral exercício (efetiva interposição do primeiro agravo em recurso especial). Por oportuno:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. CONCURSO MATERIAL. DECISÃO AGRAVADA PROFERIDA PELA PRESIDÊNCIA DESTA CORTE SUPERIOR. DOIS RECURSOS INTERPOSTOS CONTRA A MESMA DECISÃO. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. JULGAMENTO APENAS DO PRIMEIRO. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. PRAZO DE 15 DIAS CONTÍNUOS.
+I - Na hipótese, a Defesa protocolou 02 (dois) agravos regimentais contra a mesma decisão, situação que, "ante o princípio da unirrecorribilidade recursal e da preclusão consumativa, impede a análise da segunda insurgência." (AgRg no AREsp 940.135/AC, Quinta Turma, Rel. Ministro Jorge Mussi, DJe 12/09/2018)
+II - Inadmissível o recurso eis que extrapolado o prazo de 15 (quinze) dias corridos, nos termos do art. 994, VIII, c.c. os arts. 1.003, § 5.º, 1.042, caput, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+Agravo regimental desprovido" (AgRg no AREsp n. 1.426.730/SP, Quinta Turma, de minha relatoria, DJe de 23/4/2019, grifei).
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIME DE PECULATO-FURTO. DOSIMETRIA. RECONHECIMENTO ATENUANTE DA CONFISSÃO. SUPERADA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE. ILEGALIDADE FLAGRANTE OU CONSTRANGIMENTO ILEGAL NÃO CONFIGURADOS. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência desta Corte é uníssona em afirmar que a interposição de recursos simultâneos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo, considerando a preclusão consumativa e o princípio da unirrecorribilidade das decisões judiciais. Precedentes.
+2. Dosimetria apreciada e redimensionada em sede recursal não sendo a via estreita do habeas corpus instrumento de reanálise de teses impostas a qualquer tempo.
+3. Agravo regimental improvido" (AgRg no RHC n. 106.972/ES, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 30/5/2019, grifei).
+Ante o exposto, com fulcro no art. 253, parágrafo único, inc. I, do Regimento Interno do STJ,nãoconheço do agravo emrecurso especial.
+P. e I.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS.DOIS RECURSOS INTERPOSTOS CONTRA A MESMA DECISÃO. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES JUDICIAIS. PRECLUSÃO CONSUMATIVA.AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
