@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial com base na inexistência de vícios no acórdão recorrido;existência de entendimento pacificado e deficiência no cotejo do dissídio.
+Impugnados especificamente os fundamentos adotados pelo Tribunal de origem, passo ao exame do recurso especial.
+É o relatório.
+Ultrapassados os requisitos de conhecimento do presente agravo, passo a examinar o recurso especial manejado porSimão Barboza Filho e outros, com base no art. 105, inc. III, alínea "a", da CRFB/1988, em oposição a acórdão do Tribunal de Justiça do Estado de São Paulo - TJSP assim ementado (e-STJ, fl. 259):
+REEXAME NECESSÁRIO E RECURSOS DE APELAÇÃO. RITO ORDINÁRIO. SERVIDORES PÚBLICOS ATIVOS. ADICIONAL POR TEMPO DE SERVIÇO - ATS. PRETENSÃO AO RECÁLCULO PARA INCIDÊNCIA SOBRE O VENCIMENTO INTEGRAL, SALVO AS PARCELAS EVENTUAIS E DE MESMA NATUREZA. ADMISSIBILIDADE.
+Embargos de declaração rejeitados.
+Em suas razões, os recorrentes sustentam, inicialmente, violação dos arts. 489 e 1.022 do CPC/2015, ao argumento de omissões sobre pontos essenciais ao deslinde da controvérsia, em especial acerca de que determinada gratificação, adicional e prêmio se incorporam ao vencimento do servidor.
+Quanto à questão de fundo, indicam ofensa aos arts. 1º-F da Lei n. 9.494/1997 e 11, § 2º, e 27 da Lei n. 9.868/1999, ao fundamento de que, "como se verifica, o recente julgamento proferido pelo STF seguiu a racionalidade de suas decisões, mantendo sua jurisprudência íntegra, estável e coerente, por se coadunar com o entendimento exarado quando do julgamento do mérito e da modulação de efeitos das ADIs nº 4.357 e 4.425, que declararam a inconstitucionalidade da TR como índice de correção monetária das condenações impostas à Fazenda Pública após a expedição do precatório. Do cotejo entre ambos os julgamentos, portanto, nota-se que o STF decidiu por adotar o IPCA-E como índice constitucionalmente válido para tanto, seja para o período que antecede a expedição do precatório, quanto para o período posterior." (e-STJ, fl. 305).
+Com contrarrazões.
+Decido.
+Dos autos, verifica-se que os recorrentes pretendem a anulação do acórdão proferido pela Corte de origem em embargos de declaração sob o argumento de negativa de prestação jurisdicional, remanescendo omisso o julgamento da controvérsia.
+Extrai-se dos autos que os interessados argumentarame requererama manifestação expressa do órgão julgador sobre o fato de que a Gratificação de Representação, o Adicional de Insalubridade e o Prêmio de Desempenho Individual (PDI) se incorporam aos vencimentos do servidor público, por força de expressa previsão legal.
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional, de forma que a falta de manifestação a respeito de tema necessário à resolução integral da demanda autoriza o acolhimento de ofensa ao art. 1.022, II, do CPC/2015, enseja a anulação do acórdão proferido em embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, com fulcro no art. 932, V, do CPC, c/c o art. 255, § 4º, III, do RISTJ, assim como na Súmula 568/STJ, conheço do agravo para dar provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem se manifeste sobre a matéria assentada nos aclaratórios, tudo nos termos da fundamentação supra.
+Fica prejudicada a análise das demais alegações.
+Publique-se. Intimem-se.
