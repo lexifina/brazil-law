@@ -1,0 +1,11 @@
+DECISÃO
+ANDERSON LEONARDO SANTOS SILVAinterpõe agravo regimental contra a decisão de fls. 97-98, que indeferiu pedido de liminar no habeas corpus impetrado em seu favor, em que fora apontado como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2056826-80.2021.8.26.0000).
+O agravante afirma que, "considerando a omissão da r. sentença de pronúncia  art. 413,§3º, do CPP , considerando a nulidade absoluta  art. 564, IV e V do CPP , considerando a obrigatoriedade de fundamentação  art. 93, IX da CF , sobre a necessidade imperiosa da manutenção da medida excecional  art. 312, do CPP , considerando, por fim, que tanto a sessão de julgamento pelo Tribunal do Júri como a sessão de julgamento do writ junto a 4ª Câmara Criminal do Tribunal paulista, estão designadas para o mesmo dia 18/05/p. f., requer, seja RECONSIDERADA a r. decisão agravada, evitando-se a perda do objeto e prejuízo ao direito  .. , suspendendo-se a sessão plenária designada para o dia 18/05/p. f., até julgamento de mérito desta ordem" (fl. 111).
+É o relatório. Decido.
+Nos termos do art. 258 do RISTJ, não é cabível agravo regimental interposto contra decisão monocrática que indefere motivadamente pedido de liminar em habeas corpus.Nesse sentido, os seguintes precedentes: AgRg no HC n. 570.601/PR, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2020; e Pet no HC n. 585.141/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 5/8/2020.
+Além disso, verifica-se que o Tribunal a quo deixou de examinar as alegações por serem reiteração de anterior pedido de habeas corpus (fls. 9-15).
+Ainda que o agravante afirme que não houve reiteração de pedidos,impossívela análiseda súplica, uma vez que os autos não vieraminstruídos com a cópia da petição inicial e a do acórdão do habeas corpus em questão, peças indispensáveisà compreensão da controvérsia.
+De todo modo, consta dadecisão que indeferiu a liminar que é imprescindível detida aferição dos elementos de convicção constantes dos autos para verificar a existência do constrangimento ilegal alegado, análise que ocorrerá por ocasião do julgamento definitivo.
+Por fim, o Juízo a quo, em informações prestadas às fls. 141-164, afirmou que a audiência foi redesignada para o dia 20/7/2021.
+Ante o exposto, não conheço do agravo regimental.
+Publique-se. Intimem-se
