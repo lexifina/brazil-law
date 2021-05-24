@@ -1,0 +1,35 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1006703-15.2021.8.11.0000 - CLASSE 202 - CNJ - ALTO ARAGUAIA
+Agravante : ANTONIO MARTINELLI
+Agravado : ESPÓLIO DE OSWALDO THEOBALDO FERREIRA
+Número do Protocolo: 1006703-15.2021.8.11.0000
+Recurso de AGRAVO DE INSTRUMENTO interposto por ANTONIO MARTINELLI contra a r. decisão proferida pela MMa. Juíza de Direito da 1a Vara Cível da Comarca de Alto Araguaia/MT, que nos autos da ação “Reivindicatória de Posse” (Proc. 2651-74.2014.811.0020), ajuizada contra o agravante pelo ESPÓLIO DE OSWALDO THEOBALDO FERREIRA, indeferiu o pedido de dilação de prazo para retirada do maquinário deixado no imóvel, bem como novo pedido de depósito judicial, para aquisição do imóvel (cf. Id. n. 84248990).
+O agravante sustenta que “não prospera o fundamento do Juízo a quo de que a concessão da liminar de imissão na posse no Agravo de Instrumento no 1007270-51.2018.8.11.0000, seria impeditivo à concessão da medida solicitada”, pois há fato novo, qual seja, o acolhimento da emenda à inicial que atribuiu ao imóvel o valor de R$ 1.000.000,00.
+Alega que, como o autor declarou que o imóvel vale R$ 1.000.000,00, e como ofereceu caução no mesmo valor, deve ser reconsiderada a decisão que imitiu o autor na posse do bem, “de tal modo que a posse retorne provisoriamente ao Agravante, até o fim da demanda de Origem”.
+Pede, pois, que lhe seja devolvida a posse do imóvel, mediante caução de R$ 1.000.000,00, ou, então, que seja deferido o pedido de dilação de prazo para remoção dos maquinários, bem como afastada a multa fixada, pois o funcionário do agravado, que cuida do imóvel, é extremamente perigoso, o que impede a sua entrada no local para retirada de seus bens (cf. Id. n. 84248984).
+É o breve relatório
+Após ter sido determinada a imissão do Espólio de Oswaldo Theobaldo Ferreira na posse do imóvel objeto da lide, devidamente matriculado sob o no 11.778 junto ao SRI da Comarca de Alto Araguaia/MT, bem como que o agravante removesse todo o maquinário de sua propriedade existente no local, o agravante pediu que lhe fosse autorizado deposito judicial do valor do bem, conforme declarado pela própria parte autora, com a finalidade da aquisição da área, ou, então que fosse dilatado o prazo para remoção dos implementos (cf. Id. n. 84248989).
+O pedido foi indeferido pelos seguintes fundamentos:
+“(...)
+Conforme restou bem narrado na decisão anterior (fls. 1.876/1.878), segundo acordo das partes, a retirada do maquinário ocorreria até a data de 23 (vinte e três) de abril de 2019.
+Deste modo, daqui cerca de 20 (vinte) dias completar-se-ão 03 (três) em que o requerido permanece em mora para com o cumprimento do aventado. É juízo de qualquer homem médio que o transcurso de 1.095 (hum mil e noventa e cinco dias) é prazo mais que suficiente para a retirada do maquinário agrícola.
+Além disto, insurge-se o requerido para pleitear a dilação somente quando intimado para cumprimento da obrigação o que, ao sentir neste juízo, demonstra desídia no cumprimento dos seus deveres. Isto é, (i) se existe problema relacionado ao transporte das máquinas seja pela quantidade ou pelo tamanho e/ou; (ii) se existe problema porque o requerente não franqueou a entrada; deveria o requerido se insurgir logo que ocorrido.
+É dever do demandado cumprir fielmente com suas obrigações bem como afastar a sua mora. O comparecimento para apresentar justificativa somente quando intimado, quando se tratar de justificativa inidônea, pode ser entendido como procrastinação ao cumprimento dos atos judiciais.
+Por último, inexiste comprovação de que o requerido foi frustrado pela requerente ou por seu representante em promover a retirada do maquinário. O que, por lógico se espera, é que entre em contato prévio para que acertem a melhor data para cada um até por corolário da boa fé objetiva.
+Deste modo, INDEFIRO o pedido de dilação de prazo bem como que a diligência seja acompanhada por Sr. Oficial de Justiça ou pela Polícia Militar.
+3. O pedido de depósito judicial com finalidade de aquisição do imóvel já foi analisado por este juízo e indeferido no dia 24 (vinte e quatro) de agosto de 2020 – fls. 1.722/1.723, cuja publicação ocorreu no dia 03 (três) de setembro de 2020.
+Havendo insatisfação do requerido, caberia a imposição de competente recurso no prazo legal. O que não pode ser admitido é a reiteração de pedido, especialmente quando inexiste fato novo a ser apreciado.
+Portanto, tratando-se de mera reiteração, pelos fundamentos já expostos às fls. 1.7722/1.723, INDEFIRO o pedido de depósito judicial com finalidade de aquisição do imóvel.
+4. Compulsando os autos n. 2687-87.2012.811.0020 – cód. 53208 -, que versa sobre usucapião e também se relaciona ao presente imóvel, constata-se que as partes naqueles autos [LUIZ ROBERTO LOURENÇO DE SOUZA casado com LUCIA DE FÁTIMA ANGIROLAMI SOUZA e MANOEL LOPES STORTO casado com CARMEN SILVIA ZANGIROLAMI LOPES em desfavor de OSWALDO THEOBALDO FERREIRA] celebraram acordo.
+Deste modo, INTIMEM-SE as partes deste processo para que no prazo de 10 (dez) dias informem a este juízo se houve alguma afetação/reconhecimento do seu direito, especialmente, se existe prejuízo para o trâmite destes autos. 5.
+Após, CUMPRA-SE com as disposições constantes na decisão retro (fls. 1.876/.1878), no sentido de se certificar eventual decurso de prazo para os demandados citados por edital com posterior remessa a Defensoria Pública na qualidade de curadora especial.
+(...)”.
+Quanto ao pedido de prorrogação de prazo para retirada do maquinário, não é nada convincente a objeção apresentada pelo agravante de que o funcionário do agravado é extremamente perigoso, e que isso o impediria de ingressar no local para retirada dos bens, principalmente quando se leva em conta que o prazo para remoção se encerrou no dia 23 de abril de 2019, e que, como mencionado pela decisão agravada, o agravante só manifesta interesse na dilação do prazo quando, já bem depois, foi intimado para cumpri a determinação, demonstrando, com isso, desídia no cumprimento dos seus deveres.
+No que diz respeito ao pedido de “depósito judicial com finalidade de aquisição do imóvel”, que, no presente recurso, o agravante chama de “retomada de posse mediante caução”, certamente não configura fato novo a mera alteração no valor da avaliação do imóvel, e, portanto, como o pedido já foi analisado e indeferido no dia 24 de agosto de 2020, trata-se de matéria preclusa.
+Dessa forma, recebo o recurso nos termos do art. 1.019 do CPC, mas INDEFIRO o pedido de concessão de tutela antecipada (CPC, art. 1.019, I), ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se o agravado, na forma do art. 1.019, II, do CPC, para que responda no prazo de 15 dias.
+Expeça-se o necessário.
+Cuiabá/MT, 24 de maio de 2021.
+Des. JOÃO FERREIRA FILHO
+Relator
