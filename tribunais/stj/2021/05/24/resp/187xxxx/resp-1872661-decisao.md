@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial, interposto por SANDRA BAUMER, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina.
+Na origem, cuida-se de execução individual de sentença proferida na Ação Civil Pública de n.º 2003.72.00.004511-8, cujo trâmite ocorreu na 2ª Vara Federal de Florianópolis/SC. O pleito foi julgado improcedente em primeira instância.
+Em sede de apelação, a Corte Estadual desproveu, o reclamo nos seguintes termos (fls. 188, e-STJ):
+ADMINISTRATIVO. PROCESSO CIVIL. PRETENSÃO A RECEBIMENTODE JUROS NÃO ABRANGIDOS PELO ACÓRDÃO QUE DECIDIU AÇÃOCIVIL PÚBLICA. IMPOSSIBILIDADE.
+1. A eficácia preclusiva da coisa julgada tem sua razão de ser naproteção da coisa julgada material, incidindo a hipótese sempre que necessáriapara que se garanta a segurança jurídica decorrente da estabilização da lideconferida pela decisão anteriormente proferida
+2. Tendo optado por executar o título formado na ACP n.º2003.72.00.002068-4, e tendo sido proferida sentença extintiva da execução,há coisa julgada a impedir nova execução de diferenças, desta feita decorrentede outra ACP, mesmo que apenas em relação aos juros remuneratórios.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial (fls. 230-247, e-STJ), orecorrenteaponta, além de dissídio jurisprudencial, violação, pelo aresto estadual, aos arts. 5º, XXXVI da CF/88,502 do CPC/2015,103, §2º e104, ambos do CDC.
+Sustenta, em síntese, que o fato de ter obtido em uma determinada ação o direito dereceber as diferenças de planos econômicos, acrescidos de correção monetária e juros moratórios não o impede dereceber os juros remuneratórios reconhecidos em ação civil pública diversa, mas que teve a mesma causa de pedir.
+Não foram apresentadas contrarrazões.
+Após decisão de admissão do recurso especial (fls. 274, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Oinsurgente alega inexistir ofensa à coisa julgada ante a inexistência de pedido de condenação em juros remuneratórios na ação individual que formou o primeiro título executivo.
+O Tribunal de origem, ao analisar a controvérsia, assim decidiu (fls. 195-196, e-STJ):
+Quanto aos juros remuneratórios, verifica-se que não houve determinação expressa de incidência no título executivo judicial executado primeiramente pela requerente.
+A exequente, ora apelante, fundamentou seu pedido de reforma da sentença em decorrência do entendimento formado no REsp nº 1.392.245/DF, julgado segundo o trâmite dos recursos repetitivos, o qual consolidou posicionamento no sentido de que "descabe a inclusão de juros moratórios nos cálculos de liquidação se inexitir condenação expressa, sem prejuízo de, quando cabível, o interessado ajuizar ação individual de conhecimento", bem como no que restou decidido no REsp nº 1.165.205/PR, que reconheceu o direito do poupador à cobrança de juros remuneratórios, por meio do ajuizamento de ação individual de conhecimento, caso em que o pedido dejuros não havia sido formulado na ACP.
+Pois bem. Após uma análise detida dos autos, verifica-se que não se identificam nas razões recursais do apelante fundamentos suficientes a dar ensejo à reforma da sentença tal como prolatada.
+Como bem fundamentou o Juízo a quo, de fato, o exequente, ora apelante ao escolher um título em detrimento do outro se inseriu em um regime de execução individual que, com a aplicação analógica do CDC, art.104, afastou a viabilidade do uso de outro título coletivo enquanto tramitando a execução fundada sobre o título escolhido. Transitada em julgado a sentença da execução reconhecendo a quitação da obrigação, o regime emergente passou a ser o do art. 103, § 2.º, também da Lei n.º 8.078/1990.
+Logo, tendo optado por executar o título formado na ACP nº2003.72.00.002068-4, há óbice à execução do título coletivo proferido na ACP nº 2003.72.01.004511-8, mesmo que apenas em relação aos juros remuneratórios.)
+Para derruir tais conclusões contidas no decisum e acolher o inconformismo recursal no sentido de aferir a ocorrência ou não de coisa julgada no caso sub judice, segundo as alegações vertidas no apelo extremo, seria imprescindível o reexame do conteúdo fático e probatório dos autos, providência vedada na via estreita do recurso especial, ante ao óbice estabelecido pela Súmula 7 desta Corte.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. INCOMPETÊNCIA DA SEGUNDA SEÇÃO. NATUREZA RELATIVA. PRECLUSÃO. DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. OMISSÃO. CONTRADIÇÃO. INEXISTÊNCIA. PRESSUPOSTO PROCESSUAL DE VALIDADE. IDENTIDADE DE PARTES. VIOLAÇÃO À COISA JULGADA. NÃO OCORRÊNCIA. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. (..). 3. De acordo com o entendimento deste Tribunal de Uniformização, a paridade de demandas só se justifica quando presente a igualdade de partes, pedidos e causa de pedir.
+4. No caso concreto, em virtude de ter o Tribunal de origem verificado que não havia exatidão entre a ação e as demandas já transitadas em julgado e, consequentemente, a ausência de impedimento processual para prosseguimento da demanda, fica, de fato, impedido o Superior Tribunal de Justiça de rever o posicionamento adotado, pois seria preciso a reapreciação dos fatos e das provas acostadas aos autos, situação vedada em recurso especial, diante da aplicação da Súmula 7/STJ.
+5. Agravo interno desprovido. (AgInt no REsp 1772742/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. COISA JULGADA. VERIFICAÇÃO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. Caso em que o Tribunal local reconheceu a existência de coisa julgada, extinguindo o processo sem resolução de mérito.
+3. A jurisprudência do STJ está consolidada no sentido de que, reconhecida no acórdão recorrido a identidade de partes, pedidos e causas de pedir entre o processo atual e outro anterior, nova análise demanda exame do material fático-probatório dos autos, o que encontra óbice na Súmula 7 /STJ.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido. (REsp 1518863/GO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/06/2015, DJe 05/08/2015)
+Com efeito, inafastável a incidência da Súmula 7 desta Corte.
+2. Por fim, cumpre asseverar que a demonstração do dissídio se restringiu à simples transcrição de ementas, sem, contudo, demonstrar a divergência jurisprudencial nos moldes exigidos pelos artigos 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Concluindo, a interposição de recurso especial pela alínea "c" do permissivo constitucional reclama o cotejo analítico dos julgados confrontados a fim de restarem demonstradas a similitude fática e a adoção de teses divergentes, máxime quando não configurada a notoriedade do dissídio. Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROCESSUAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS E REGIMENTAIS. MERA TRANSCRIÇÃO DE EMENTAS. AUSÊNCIA DE SIMILITUDE FÁTICA.
+1. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+2. Como já decidido por este Tribunal, "por mais justa que seja a pretensão recursal, não podem ser desconsiderados os pressupostos recursais. O aspecto formal é importante em matéria processual, não por amor ao formalismo, mas para segurança das partes. Assim não fosse, ter-se-ia que conhecer dos milhares de processos irregulares que aportam a este tribunal, em nome do princípio constitucional do acesso à tutela jurisdicional" (AGA 150.796-MG, Quarta Turma, Rel. Min. Sálvio de Figueiredo Teixeira, DJ 2/3/1998).
+3. Agravo regimental não provido. (AgRg no REsp 1248555/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/03/2012, DJe 26/03/2012)
+3. Ante o exposto, com amparo no art. 932 do NCPC c/c a Súmula 568 do STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
