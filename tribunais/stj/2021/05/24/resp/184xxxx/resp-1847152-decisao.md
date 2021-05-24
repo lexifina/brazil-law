@@ -1,0 +1,45 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelaCooperativa de Produtores de Cana-de-açúcar, Açúcar e Álcool do Estado de São Paulo, com amparo na alínea "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdãoassim ementado (e-STJ, fl. 600):
+TRIBUTÁRIO E PROCESSUAL CIVIL- EXECUÇÃO FISCAL - EMBARGOS DO DEVEDOR - ICMS - AÇÃO ANULATÓRIA -TRÍPLICE IDENTIDADE DE ELEMENTOS - LITISPENDÊNCIA.
+Deve ser reconhecida a litispendência entre os embargos à execução fiscal e a ação anulatória ou declaratória de inexigibilidade do crédito tributário proposta anteriormente ao ajuizamento da execução fiscal, se identificadas as mesmas partes, causa de pedir e pedido, ou seja, a tríplice identidade. Precedentes do STJ. Embargos à execução extintos sem exame de mérito. Sentença reformada. Recurso provido.
+Os embargos de declaração opostos foram rejeitados.
+A insurgente aduz, nas razões do especial, contrariedade aos arts. 313, V, 337, § 2ºe 1.022 do CPC. Sustenta, em suma, que (e-STJ,fl. 632):
+(a) os feitos não são idênticos, pois os embargos são mais abrangentes que a Ação Anulatória -o que per se afasta a conclusão pela litispendência; (b) há evidente prejudicialidade externa, pois o deslinde dos embargos depende do resultado da Ação Anulatória -o que atraia aplicação do art. 313, V, "a" do CPC/15, na linha da jurisprudência deste E. STJ; (c) não há litispendência ao menos quanto à definição dos juros aplicáveis na eventual hipótese de improcedência em definitivo da ação anulatória e (d) atende a ambas as partes e evita a movimentação desnecessária do Poder Judiciário em duas demandas nas quais se discute o mesmo crédito tributário, ou seja, atua como medida de segurança jurídica e eficiência processual.
+Requer, assim, o provimento do recurso "para afastar a litispendência no que respeita à questão autônoma relativa ao limite dos juros" (e-STJ, fl. 636).
+Foram apresentadas contrarrazões às e-STJ, fls. 656-658.
+É o relatório.
+Registro, desde logo, que não merece prosperar a tese de contrariedade ao art. 1.022, II, do CPC, porquanto o acórdão impugnado fundamentou, de forma clara, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Nesse aspecto, o fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão nem outra causa passível de exame mediante a oposição de embargos de declaração.
+Em relação à suposta litispendência, necessário consignar o que ficou decidido pelo Tribunal de origem.
+A Corte estadual entendeu pela ocorrência de litispendência por entender a tríplice identidade dos elementos da ação.
+Confira-se (e-STJ, fl. 603):
+No caso vertente, há tríplice identidade dos elementos da ação: ambas têm como partes o Estado de São Paulo e a Cooperativa de Produtores de Cana de Açúcar e Álcool do Estado de São Paulo - Copersucar, como pedido a desconstituição do Auto de Infração e Imposição de Multa nº 3.077.153-5 que deu lugar à certidão de dívida ativa que instrui a execução fiscal e como causa de pedir a insubsistência da autuação. De rigor, portanto, oreconhecimento da litispendência.
+Com isso, para se chegar a conclusão contrária à do Tribunal de origem, no sentido de não haver litispendência, faz-se necessário incursionar no contexto fático-probatório da demanda, o que é inviável em recurso especial, por força do constante na Súmula 7/STJ.
+No aspecto:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. CESSÃO DE CRÉDITO RURAL. O TRIBUNAL DE ORIGEM, COM BASE NO ACERVO PROBATÓRIO DOS AUTOS, ENTENDEU CONFIGURADA A LITISPENDÊNCIA ENTRE A PRESENTE AÇÃO E A AÇÃO ORDINÁRIA (2004.70.11.000207-2). IMPOSSIBILIDADE DE REEXAME DE TAL CONCLUSÃO EM SEDE DE RECURSO ESPECIAL. REVOLVIMENTO DE PROVAS. AGRAVO REGIMENTAL DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Segundo jurisprudência consolidada nesta Corte, é possível reconhecer a litispendência entre os Embargos à Execução e a Ação Ordinária na qual se discute a exigibilidade do tributo, proposta em momento anterior ao ajuizamento da Execução Fiscal, se verificada a identidade de partes, causa de pedir e pedido. Precedentes: AgInt no AREsp. 168.401/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 9.3.2017; AgInt no AREsp. 1.060.069/SP, Rel. Min. GURGEL DE FARIA, DJe 19.2.2018; AgInt nos EDcl no AREsp. 1.217.327/SP, Rel. Min. OG FERNANDES, DJe 30.8.2018.
+2. O Tribunal de origem, com base no acervo fático-probatório dos autos, consignou estar configurada a litispendência entre a presente ação e a Ação Ordinária 2004.70.11.000207-2, ao fundamento de que os elementos das duas demandas são idênticos.
+3. A inversão de tal conclusão na forma pretendida é defesa nesta Corte, já que ali foi verificada a identidade de partes, causa de pedir e pedido. Precedentes: AgRg no AREsp. 175.189/MG, Rel. Min.ASSUSETE MAGALHÃES, DJe 9.3.2016 e AgInt no REsp. 1.429.712/PR, Rel.Min. OG FERNANDES, DJe 27.9.2017.
+4. Agravo Regimental do Particular a que se nega provimento.
+(AgRg no AREsp 346.247/PR, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 17/2/2020, DJe 3/3/2020).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. LITISPENDÊNCIA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. HIPÓTESE EM QUE A PARTE RECORRENTE FOI CONDENADA EM HONORÁRIOS DE ADVOGADO, COM BASE NO PRINCÍPIO DA CAUSALIDADE E SEM FOSSEM DELINEADAS, CONCRETAMENTE, NO ACÓRDÃO RECORRIDO, AS CIRCUNSTÂNCIAS A QUE SE REFEREM AS ALÍNEAS DO § 3º DO ART. 20 DO CPC/73. INADMISSIBILIDADE DO RECURSO ESPECIAL, EM FACE DA INCIDÊNCIA DAS SÚMULAS 7/STJ E 389/STF. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO REGIMENTAL IMPROVIDO.
+I. Agravo Regimental aviado contra decisão que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. Na origem, o Tribunal a quo reconheceu a identidade de ações em discussão nos autos, de modo que manteve a sentença que julgara extintos, sem resolução de mérito, os Embargos à Execução Fiscal, por litispendência.
+III. O entendimento firmado pelo Tribunal a quo, à luz das provas dos autos, no sentido da existência de litispendência, não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+ ..
+(AgRg no AREsp 542.661/CE, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 10/4/2018, DJe 17/4/2018).
+DIREITO FINANCEIRO E PROCESSUAL CIVIL. RECURSO ESPECIAL. LITISPENDÊNCIA. DISTRIBUIÇÃO DO ÔNUS DA PROVA. INCIDÊNCIA DA SÚMULA 7 DO STJ. RESTRIÇÕES ORÇAMENTÁRIAS. DIREITOS SUBJETIVOS DO SERVIDOR. AÇÃO DE COBRANÇA. INEXISTÊNCIA DE FATO IMPEDITIVO.
+1. A Corte estadual afastou a ocorrência de litispendência por considerar que os pedidos veiculados na presente ação são distintos da ação civil pública ajuizada pelo Ministério Público. Com isso, para se chegar à conclusão contrária à do Tribunal a quo, no sentido de não haver litispendência, faz-se necessário incursionar no contexto fático-probatório da demanda, o que é inviável em recurso especial, por força do constante na Súmula 7/STJ.
+2. No tocante à suposta violação do art. 333, I, do CPC/1973, o recurso especial também não reúne condições de ser conhecido, tendo em vista que a distribuição do ônus probatório pelas instâncias ordinárias é matéria estritamente fático-probatória, a atrair novamente a incidência da Súmula 7/STJ. Precedentes.
+ ..
+(REsp 1.517.625/AL, de minha relatoria, SEGUNDA TURMA, julgado em 1º/10/2019, DJe 9/10/2019).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. LITISPENDÊNCIA RECONHECIDA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7 DO STJ.
+1. A verificação de litispendência demanda cotejo entre os elementos fático-jurídicos do processo originário e do que se examina, em ordem a viabilizar a devida análise do trinômio legitimador do instituto jurídico similitude de partes, pedido e causa de pedir.
+2. Na hipótese, em que a pretensão recursal limita-se a afastar o reconhecimento da litispendência, a (eventual) reforma do julgado demanda reexame do conjunto fático-probatório dos autos, o que, ante a incidência da Súmula 7 do STJ, se mostra inviável no âmbito doRecurso Especial. Precedentes do STJ.
+3. Recurso Especial não conhecido.
+(REsp 1.802.758/MS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/5/2019, DJe 30/5/2019).
+Dessa forma, em que pese às alegações trazidas pela parte interessada, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+Por fim, cumpre registrar que o mesmo óbice aplicável ao recurso especial interposto com base na alínea "a" impede a apreciação do recurso manejado com amparo na alínea "c"do permissivo constitucional.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
