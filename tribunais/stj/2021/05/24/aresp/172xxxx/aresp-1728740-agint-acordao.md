@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. Ocontrole dos atos de constrição patrimonial, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, deve prosseguir sob a supervisão do Juízo universal.
+2.Na hipótese de os bens dos sócios estarem abrangidos ao cumprimento do plano de recuperação judicial afasta-se a aplicação da Súmula 480/STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Trata-se de agravo interno interposto por IPIRANGA PRODUTOS DE PETROLEO S/A, contra decisão monocrática de fls. 846/850(e-STJ), a qual negou provimento ao agravo em recurso especial interposto pelaparteora recorrente.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafiou, a seu turno, acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim sintetizado(fls. 470/475, e-STJ):
+Agravo de instrumento -Recuperação judicial -Constrição de imóvel de sócios coobrigados -Execução de garantia real -Filial instalada no bem -Imóvel abrangido pela recuperação judicial-Enunciado da Súmula 581 do STJ -Indícios de descumprimento do plano -Irrelevância -Competência do juízo falimentar -Recurso a que se nega provimento. 1. O juízo universal da recuperação judicial é competente para decidir sobre a constrição de imóvel onde se situa filial da recuperanda, em se tratando de bem eminentemente abrangido pelo plano de recuperação da empresa. 2. Conquanto inexista óbice ao ajuizamento de execução em face dos responsáveis solidários por garantia real ante a recuperação judicial do devedor (enunciado 581 da súmula do STJ), a conveniência da prática de atos constritivos deve se submeter ao crivo do juízo universal.3. Constatada a existência de filial produtiva no imóvel dos sócios coobrigados que se pretende levar a leilão, a manutenção da decisão que impediu a realização da venda é de rigor.
+Opostos embargos declaratórios, foram estes acolhidos para corrigir erro material, porém sem efeitos modificativos, nos termos do aresto de fls. 540/545 (e-STJ).
+Em suas razões de recurso especial (fls. 645/667, e-STJ), a recorrente apontou, além de dissídio jurisprudencial, ofensa ao art. 49, §1.º da Lei n. 11.101/2005.
+Sustentou, em suma, a impossibilidade de extensão dos efeitos da Recuperação Judicial aos sócios, avalistas e ou garantidores da sociedade em recuperação judicial.
+Aduziu que o imóvelobjeto doleilão no bojo do feito executivo promovido em face dos garantidores das recorridas pertence exclusivamente aos sócios coobrigados e não se presta ao desenvolvimento das atividades das recorridas.
+Pugna pela declaração de incompetência do juízo recuperacional para dispor sobre patrimônio pertencente a terceiros, estranhos ao procedimento ao qual se submetem as recorridas.
+Contrarrazões às fls. 728/738 (e-STJ).
+Em juízo prévio de admissibilidade (fls. 742/744, e-STJ), negou-se o processamento do recurso especial, com fundamento nos óbices contidos nas Súmulas 07/STJ e 283/STF.
+Foi interposto o competente agravo (fls. 752/769, e-STJ), buscando destrancar o processamento daquele recurso, no qual a parte insurgente refuta os fundamentos que lastrearam o decisum recorrido.
+Contraminuta às fls. 823/834, e-STJ.
+Por decisão monocrática (fls. 846/850, e-STJ), este signatário negou provimento ao recurso especialcom amparo no enunciado contido nas Súmula 83/STJ.
+Em suas razões de agravo interno (fls. 854/870, e-STJ), a recorrente refuta os fundamentos em que se lastreou o decisum hostilizado, oportunidade em que reafirma os argumentos deduzidos no apelo nobre.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. Ocontrole dos atos de constrição patrimonial, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, deve prosseguir sob a supervisão do Juízo universal.
+2.Na hipótese de os bens dos sócios estarem abrangidos ao cumprimento do plano de recuperação judicial afasta-se a aplicação da Súmula 480/STJ.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O presente recurso não merece prosperar, porquanto as razões expendidas pela parte agravante são insuficientes a derruir a fundamentação do decisum ora impugnado, motivo pelo qual ele merece ser mantido ainda que por fundamentos diversos.
+1. Ao discorrer sobre a natureza dos créditos objeto da presente demanda e sobre a sua sujeição aos efeitos da recuperação judicial, assim se pronunciou o Tribunal de origem (fls. 472/474, e-STJ - grifos acrescidos):
+Cinge-se a controvérsia em averiguar o acerto da decisão que determinou a suspensão do leilão do imóvel de propriedade dos sócios coobrigados, a ser realizado em 22.1.2019, bem como a abstenção de leilão de qualquer imóvel de propriedade das recuperandas e seus sócios sem a prévia autorização do juízo falimentar.
+Desde logo, cabe referendar a decisão proferida pela 16ª Câmara Cível deste Tribunal de Justiça, que reconheceu a competência do juízo universal da falência para o processamento da execução movida pelos agravantes em face de Edgar Pereira do Amaral e Maria Aparecida de Melo Amaral, responsáveis solidários pelo débito do Posto 358 Ltda, em recuperação judicial.
+Como se sabe, o juízo da falência ou recuperação judicial, dada a peculiaridade do procedimento, atrai para si a competência para processamento e julgamento das demais ações de interesse do falido ou da recuperanda, em virtude da necessidade de coesão em relação às decisões que atingem interesses patrimoniais das empresas envolvidas. Tal atratividade lhe garantiu a alcunha de "juízo universal da falência".
+(..)
+Nesse viés, a despeito das alegações do agravante, não se cogita da aplicabilidade, no presente caso, do Enunciado 480 da súmula do Superior Tribunal de Justiça:
+(..)
+Isso porque, no caso em apreço, é evidente que o imóvel executado pelo recorrente, ainda que por via transversa, foi abarcado pelo plano aprovado e homologado nestes autos.
+É fato incontroverso que o Autoposto Capitão Rosa Ltda, situado no imóvel que a agravante pretende levar a leilão, faz parte do grupo submetido à recuperação judicial (f. 434 e 456 dos autos de origem), razão pela qual eventual indisponibilidade do terreno onde está localizada sua sede afetará diretamente o cumprimento do plano de recuperação judicial.
+Assim, ainda que o imóvel seja de propriedade de Edgar Pereira do Amaral e Maria Aparecida de Melo Amaral (ordem 11), sua constrição é matéria que atine diretamente aos interesses dos envolvidos na recuperação judicial, o que indiscutivelmente atrai a competência do juízo universal para o processamento da execução.
+Depreende-se dos autos que o acórdão recorridomanteve a suspensão do leilão do imóvel em que situado o Autoposto Capitão Rosa Ltdasob o argumentode o bem estar diretamente ligado ao cumprimento do plano de recuperação judicial.
+No ponto, verifica-se quea jurisprudência da Segunda Seção do STJ é pacífica em entender que o Juízo da recuperação é o único competente para controlar os atos de constriçãodos bens ligados ao cumprimento do plano de recuperação judicial. Confira-se:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CRÉDITO ORIUNDO DE CONTRATO DE ADIANTAMENTO DE CÂMBIO. GARANTIA. BENS DE CAPITAL. PEDIDO DE RESTITUIÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. AGRAVO INTERNO DESPROVIDO.
+1. O crédito derivado de adiantamento de contrato de câmbio, embora não esteja sujeito aos efeitos da recuperação judicial (art. 86, II, da Lei 11.101/2005) tem preferência sobre os demais, não sofrendo novação ou rateio (art. 49, § 4º, da Lei 11.101/2005).
+2. Nos termos de remansoso entendimento da eg. Segunda Seção, o crédito derivado de adiantamento de contrato de câmbio deve ser reclamado através do pedido de restituição, a ser feito perante o Juízo da Recuperação Judicial.
+3. A eg. Segunda Seção desta Corte pacificou sua jurisprudência no sentido de que o controle dos atos de constrição patrimonial, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, deve prosseguir sob a supervisão do Juízo universal, único competente para determinar a essencialidade dos bens constritos.
+4. Agravo interno desprovido. (AgInt no CC 157396/PR, Rel. Min. Lázaro Guimarães, Desembargador Convocado do TRF da 5ª Região, Segunda Seção, julgado em 12/09/2018, DJe 17/09/2018 - sem grifo no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL (ART. 1.042, DO CPC/15) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECURSO PARA OBSTAR A PRÁTICA DE ATOS EXPROPRIATÓRIOS APENAS CONTRA A EMPRESA RECUPERANDA POR JUÍZO DIVERSO DO RECUPERACIONAL, POSSIBILITANDO O PROSSEGUIMENTO DO FEITO CONTRA OS RESPECTIVOS GARANTIDORES. INCONFORMISMO DOS AGRAVANTES.
+1. Embora os créditos objeto da presente demanda não se sujeitem aos efeitos da recuperação judicial, porquanto decorrente de cédulas de crédito bancário, com garantia de alienação fiduciária, compete ao juízo da recuperação judicial decidir acerca da efetivação de atos constritivos/expropriatórios que afetem o patrimônio da empresa recuperanda, notadamente se considerar que dentre as garantias fiduciárias que guarnecem os títulos de crédito em análise - imóvel matriculado sob n. 99409 do 9º Ofício de Registro de Imóveis do Rio de Janeiro/RJ - encontra-se a sede da empresa executada.
+2. Segundo o entendimento jurisprudencial adotado por este Superior Tribunal de Justiça, "não obstante o plano de recuperação judicial opere novação das dívidas a ele submetidas, as garantias reais ou fidejussórias são preservadas, circunstância que possibilita ao credor exercer seus direitos contra terceiros garantidores e impõe a manutenção das ações e execuções aforadas em face de fiadores, avalistas ou coobrigados em geral" (AgInt no AREsp 1176871/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/03/2018, DJe 20/03/2018).
+3. Agravo interno desprovido. (AgInt no AREsp1370644/ SP, minha relatoria, QUARTA TURMA, julgado em 24/06/2019)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. DEFERIMENTO DO PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL. PRAZO DE SUSPENSÃO. ALIENAÇÃO FIDUCIÁRIA. ESSENCIALIDADE DO BEM. AVALIAÇÃO NECESSÁRIA. 1. Ação ajuizada em 03/09/2012. Recurso Especial interposto em 19/08/2016 e concluso ao Gabinete em 24/03/2017. Julgamento: CPC/15.
+2. O propósito recursal é decidir se a ação de busca e apreensão deve prosseguir em relação à empresa em recuperação judicial, quando o bem alienado fiduciariamente é indispensável à sua atividade produtiva.
+3. A concessão de efeito suspensivo ao recurso especial deve ser pleiteada de forma apartada, não se admitindo sua inserção nas próprias razões recursais. Precedentes.
+4. O mero decurso do prazo de 180 dias previsto no art. 6º, § 4º, da LFRE não é bastante para, isoladamente, autorizar a retomada das demandas movidas contra o devedor, uma vez que a suspensão também encontra fundamento nos arts. 47 e 49 daquele diploma legal, cujo objetivo é garantir a preservação da empresa e a manutenção dos bens de capital essenciais à atividade na posse da recuperanda. Precedentes.
+5. Apesar de credor titular da posição de proprietário fiduciário de bens móveis ou imóveis não se submeter aos efeitos da recuperação judicial, o juízo universal é competente para avaliar se o bem é indispensável à atividade produtiva da recuperanda. Nessas hipóteses, não se permite a venda ou a retirada do estabelecimento do devedor dos bens de capital essenciais a sua atividade empresarial (art. 49, §3º, da Lei 11.101/05). Precedentes.
+6. Recurso especial conhecido e parcialmente provido. (REsp 1660893/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/08/2017, DJe 14/08/2017)
+2. Outrossim,importa ressaltar que na hipótese ora em análise,a constrição dos bens dos sócios da empresa em recuperação judicial deu-se em razão de estaremafetados ao cumprimento do plano, fatoque não invade a esfera de competência do Juízo cível, pois, nos termos da Súmula n. 480/STJ, "o juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa" (grifos acrescidos).
+De rigor, portanto, a manutenção da decisão ora impugnada.
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
