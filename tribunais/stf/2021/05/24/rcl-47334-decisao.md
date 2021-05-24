@@ -1,0 +1,9 @@
+DECISÃO:
+    1.  Trata-se de reclamação, com pedido de liminar, ajuizada por Rafael da Silva Cardoso, com fundamento no art. 102, I, l, da CF; art. 988, I, do CPC/15 e arts. 156 a 162 do RISTF, em face de decisão proferida nos autos da Prisão em flagrante 1500203-57.2020.8.26.0592, em trâmite na Vara de Plantão da Comarca de Tupã/SP, que supostamente teria violado autoridade da ADPF 347, e da extensão dos efeitos da Rcl 29.303, Rel. Min. Edson Fachin.
+    2.  O autor alega que foi preso em flagrante e que, na época e até a presente data, não foi realizada a audiência de custódia. Sustenta a ilegalidade da prisão em flagrante convertida diretamente para prisão preventiva sem a realização da audiência de custódia.
+    3. Da análise dos documentos acostados aos autos, nota-se que, na verdade, esta presente reclamação é mera repetição dos fundamentos já trazidos na Rcl 47.329, de minha relatoria. Consta dos autos que a prisão temporária do autor foi decretada em 04.09.2020, porém somente cumprida em 22.10.2020. A jurisprudência do Supremo Tribunal Federal se firmou no sentido de que a reclamação é inviável quando o ato impugnado tiver sido proferido antes do acórdão ou da súmula cuja autoridade se afirma afrontada. Não se pode dizer que houve ofensa ao paradigma se ele nem sequer existia à época. Nesse sentido, confiram-se os seguintes julgados, entre outros: Rcl 1.723-AgR-QO, Rel. Min. Celso de Mello; Rcl 4.131, Rel. Min. Marco Aurélio. Sendo a presente reclamação, mera repetição dos fundamentos já expostos, nada resta mais a fazer do que reconhecer bis in idem com a Rcl 47.329.
+    4. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, não conheço da reclamação, ficando prejudicada a análise do pedido cautelar.
+    Publique-se.
+          Brasília, 24 de maio de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
