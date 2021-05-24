@@ -1,0 +1,16 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+RECURSO DE APELAÇÃO CÍVEL No 0011994-60.2016.8.11.0041 - CLASSE 198 - CNJ - CAPITAL
+Apelantes : ASSOCIAÇÃO RESIDENCIAL SÃO JOSÉ
+SISAN ENGENHARIA LTDA
+Apeladas : SISAN ENGENHARIA LTDA
+ASSOCIAÇÃO RESIDENCIAL SÃO JOSÉ e TANIA MARIA TREVISAN
+Número do Protocolo: 0011994-60.2016.8.11.0041
+Trata-se de recurso de APELAÇÃO CÍVEL interposto pela ASSOCIAÇÃO RESIDENCIAL SÃO JOSÉ, e também por SISAN ENGENHARIA LTDA, contra a sentença proferida pelo MM. Juiz de Direito da 7a Vara Cível da Comarca de Cuiabá/MT, que nos autos da ação de “Cobrança” (Proc. no 0011994-60.2016.8.11.0041 - Código 1103720), ajuizada pela primeira apelante contra a segunda, e também contra TÂNIA MARIA TREVISAN, extinguiu o feito sem resolução do mérito em relação ré Tânia Trevisan, por considerá-la parte ilegítima para responder a pretensão autoral de cobrança do acumulado relativo às “taxas de manutenção”, eis que ela adquiriu os imóveis em questão em período posterior ao fato gerador do débito objeto da lide, e deu pela procedência do pedido em face da ré Sisan Engenharia, condenando-a “ao pagamento dos débitos dos meses de fevereiro/2013 e de janeiro/2014 até 30/06/2016, referente a 52 lotes, acrescido de multa de 2%, juros de 1% ao mês e correção monetária (INPC) a partir do vencimento de cada prestação” (cf. Id. no 73897483, 73897484, 73897485 e 73897498).
+Conforme noticiou a ré Sisan nos autos (cf. Id. no 75948476), no dia 15.12.2020, momento posterior à prolação da sentença e à respectiva interposição dos recursos de apelação (ambas datadas de novembro de 2020), ao julgar o RE no 695911/SP, afetado à sistemática da repercussão geral (Tema no 492), o Supremo Tribunal Federal fixou a seguinte tese:
+“É inconstitucional a cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado até o advento da Lei no 13.465/17, ou de anterior lei municipal que discipline a questão, a partir da qual se torna possível a cotização dos proprietários de imóveis, titulares de direitos ou moradores em loteamentos de acesso controlado, que i) já possuindo lote, adiram ao ato constitutivo das entidades equiparadas a administradoras de imóveis ou (ii) sendo novos adquirentes de lotes, o ato constitutivo da obrigação esteja registrado no competente Registro de Imóveis” (STF - TIBUNAL PLENO - RE no 695911, Rel. Min. DIAS TOFFOLI, julgado em 15/12/2020 e publicado em 19/04/2021)
+Então, diante da superveniência de fator capaz de influenciar no julgamento do mérito recursal, considerando que o objeto desta lide diz respeito à “cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado”, cujo fato gerador refere-se a período anterior ao advento da Lei no 13.465/2017, de modo que, ao tudo indica, a tese recém-fixada pelo STF terá repercussão direta na resolução da lide, e em atenção aos arts. 9o e 10 do CPC, INTIME-SE a autora ASSOCIAÇÃO RESIDENCIAL SÃO JOSÉ para que, no prazo de 05 (cinco) dias, manifeste-se sobre o teor da petição de Id. no 75948476, especificamente no que se refere ao entendimento do STF no julgamento do RE no 695911/SP.
+Intime-se. Cumpra-se.
+Cuiabá-MT,24 de maio de 2021.
+Des. JOÃO FERREIRA FILHO
+Relator
