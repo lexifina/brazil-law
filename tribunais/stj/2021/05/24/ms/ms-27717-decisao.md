@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido liminar, impetrado por ISADORA SOUZA MUCCILLO contra ato do MINISTRO DAS RELAÇÕES EXTERIORES consubstanciado no Edital 01, de 20/04/2021, da Embaixada do Brasil em Moscou.
+Narra a parte impetrante que:
+a) "candidatou-se a uma vaga de Auxiliar Técnico, oferecida pela Embaixada do Brasil em Moscou, através do Processo Seletivo 1/2021, logrando ser selecionada para continuar no processo com chances máximas de ser escolhida, em virtude dos conhecimentos específicos na área que esta sendo necessária a contratação, qual seja: Assistente Técnico da Adidância Agrícola" (e-STJ fl. 9);
+b) em 7 de maio de 2021, em e-mailenviado pela Sra. Olga Borisova, da Adidância Agrícola Moscou, foi-lhecomunicada a sua seleção para seguir no certame (exameescritoa ser aplicadona Embaixada do Brasil, em Moscou, na nova data de 14 de maio); e
+c) "é brasileira, residindo no Brasil, especificamente em Porto Alegre, Rio Grande do Sul, os demais candidatos selecionados são residentes na Rússia, tudo indica" (e-STJ fl. 8).
+Diante disso, defende que (e-STJ fls. 8/9):
+Não fosse então selecionada, caso a exigência, que não constava do edital primeiro, para prestar a segunda prova em Moscou fosse imutável.. Aí reside a ilegalidade do ato: selecionar candidatos em um certame e oferecer condições desproporcionais para a continuidade do processo. Exigir na época em que se esta presenciando que alguém se desloque a uma distância tão grande, com uma série de circunstâncias que impossibilitam o deslocamento é ilegal. Inviabiliza a oportunidade conquistada pelo candidato.
+Aduzque "é de conhecimento geral que todos os países do mundo fecharam suas fronteiras proibindo o ingresso de estrangeiros, como medida de conter a rapidez com que se propaga o inimigo atual da humanidade o vírus da Covid 19" (e-STJ fl. 12).
+Ao final, alegando que estão presentes os requisitos de urgência, pleiteia a concessão de liminar para "a realização da prova escrita, segunda etapa do concurso para suprir o cargo de Assistente Técnico na Embaixada do Brasil na Rússia, em qualquer lugar do território nacional considerando as dificuldades de deslocamento até Moscou, por tudo que foi exposto e é sabido ou alternativamente, devido à exiguidade do prazo, que seja possível sua realização por meio virtual, com videoconferência, com uso de plataforma segura" (e-STJ fl. 15).
+Considerando que a distribuição do writ a este relator ocorreu apenas na data de 17/05/2021, quando provavelmente já realizadaaprovaobjeto da ação- agendadapara14/05/2021-, determinei a intimação da parte impetrante para, em 24 horas, noticiarse a avaliação efetivamente ocorreu (e-STJ fls. 57/58).
+Por meio de petição juntada às e-STJ fls. 61/64, a parte impetrante noticia que o examefoi, de fato,realizadoem 14/05/2021 (e-STJ fl. 63).
+Passo a decidir.
+O pedido formulado na peça vestibular está assim disposto (e-STJ fl. 15):
+a) A concessão de LIMINAR que permita a realização da prova escrita, segunda etapa do concurso para suprir o cargo de Assistente Técnico na Embaixada do Brasil na Rússia, em qualquer lugar do território nacional considerando as dificuldades de deslocamento até Moscou, por tudo que foi exposto e é sabido ou alternativamente, devido a exiguidade do prazo, que seja possível sua realização por meio virtual, com videoconferência, com uso de plataforma segura;
+b) A posterior confirmação, no mérito, da decisão liminar, julgando procedente o mandado de segurança impetrado;
+Conforme relatado, o presente remédio heroico foi a mim distribuído em 17/05/2021 e, consoante se verifica da Petição n. 00469741/2021 (e-STJ fls. 61/64), a prova para o cargo deAssistente Técnico na Embaixada do Brasil na Rússia já foi realizada no dia 14/05/2021, tendo havido, portanto,a perda superveniente do objeto do mandamus.
+Ante o exposto, nos termos do art. 34, XI, JULGO PREJUDICADO o presente writ, por perda do objeto.
+Publique-se. Intimem-se.
