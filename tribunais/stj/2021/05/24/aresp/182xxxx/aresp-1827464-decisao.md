@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo Instituto Nacional do Seguro Social contra decisão proferida pelo Presidente do TRF-3ª Região que negou seguimento ao seu recurso especial ante o óbice da Súmula 7 do STJ e em razão da inexistência de violação ao artigo 1.022 do CPC/2015.
+Em suas razões de agravo em recurso especial, sustenta o agravante que sua pretensão recursal envolve enquadramento jurídico dos fatos e não reexame de provas e que o Tribunal de origem ofendeu o artigo 1.022 do CPC/2015.
+O prazo para apresentação de contraminuta ao agravo em recurso especial transcorreu in albis.
+O recurso especial que se pretende o seguimento, impugna acórdão assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DECONTRIBUIÇÃO AGENTE NOCIVO:RUÍDO. EXPOSIÇÃO ACIMA DOSLIMITES DE TOLERÂNCIA.
+1. A legislação aplicável para a verificação da atividade exercida sob condição insalubre deve ser a vigente quando da prestação do serviço, então a do requerimento da aposentadoria.
+2. Até o advento da Lei n.º 9.032/95, em 29/04/95, é possível o reconhecimento do tempo de serviço especial com base na categoria profissional do trabalhador. A partir desta lei a comprovação da atividade especial é feita através dos formulários SB-40 e DSS-8030, até o advento do Decreto 2.172 de 05/03/97, que regulamentou a MP 1.523/96, convertida na Lei 9.528/97, que passa a exigir o laudo técnico.
+3. Quanto ao agente nocivo ruído, o Superior Tribunal de Justiça firmou orientação no sentido de que é tida por especial a atividade exercida com exposição a ruídos superiores a 80 decibéis até a edição do Decreto2.171/1997. Após essa data, o nível de ruído, considerado prejudicial é o superior a 90 decibéis. A partir da entrada em vigor do Decreto 4.882, em18/11/2003, o limite de tolerância ao agente físico ruído foi reduzido para85 decibéis.
+4. Até a data da entrada em vigor da Lei 11.960/2009, os juros moratórios, contados a partir da citação, devem ser fixados em 1% ao mês, ao passo que a correção monetária deve ser calculada de acordo com o Manual de Cálculos da Justiça Federal. Após a entrada em vigor da Lei 11.960/2009, (i)a atualização monetária deve ser realizada segundo o IPCA-E; e (ii) os juros moratórios, segundo a remuneração da caderneta de poupança, na formado art. 1º-F da Lei 9.494/97 com a redação dada pela Lei 11.960/09.5. Apelação e remessa necessária, tida por interposta, desprovidas, nos termos do voto.
+Opostos embargos de declaração, foram acolhidos nos seguinte termos:
+EMBARGOS DE DECLARAÇÃO. PREVIDENCIÁRIO. ACUMULAÇÃO DEPROVENTOS DE APOSENTADORIA COM AUXÍLIO-DOENÇA. VEDAÇÃO. ART. 124, I, DA LEI 8.213/91. DEDUÇÃO DOS VALORES EMSEDE DE EXECUÇÃO.
+1. Os embargos de declaração destinam-se ao aperfeiçoamento da prestação jurisdicional, para efeito de sanar eventuais vícios processuais do julgado, tais como contradição, obscuridade ou omissão (artigo 1022 do NCPC).
+2. O art. 124, I, da Lei nº 8.213/91 veda a acumulação de proventos de aposentadoria com auxílio-doença.
+3. Devem ser deduzidos em liquidação os valores dos proventos do auxílio-doença para evitar-se o acúmulo desses proventos com os da aposentadoria, eis que relativos às mesmas competências.
+4. Embargos de declaração parcialmente providos, nos termos do voto.
+Em suas razões de recurso especial, sustenta o agravante que o Tribunal a quo negou vigência aoartigo 1.022 do CPC/2015, uma vez que foi omisso quanto a necessidade da exposição ao agente ruído ser superior ao limite de tolerância legal e não igual. Acrescenta que houve ofensa aos artigos57 e 58, da Lei 8.213/1991, uma vez que não restou comprovada a exposição ao agente ruído em níveis acima do limite de tolerância, razão pela qual não deve ser concedida aposentadoria por tempo de contribuição.
+Contrarrazões ao recurso especial às fls. 559/564.
+É o relatório, decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ que assim dispõe in verbis: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O agravante impugnou de forma devida a fundamentação contida na decisão agravada e mostrando-se preenchidos os demais pressupostos de admissibilidade do presente recurso, adentra-se o mérito.
+De início, quanto à alegada ofensa ao artigo 1.022 do CPC/2015,depreende-se do acórdão recorrido que o Tribunal de origem, demodo fundamentado, tratou da questão suscitada, resolvendo, portanto, demodo integral a controvérsia posta.
+Na linha da jurisprudência do STJ, não há falar em negativa deprestação jurisdicional, tampouco em vício, quando o acórdão impugnadoaplica tese jurídica devidamente fundamentada, promovendo a integralsolução da controvérsia, ainda que de forma contrária aos interesses daparte.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 1.022 DOCPC/2015 INEXISTENTE. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTES E APÓS ACF/1988. MATÉRIA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADEDE APRECIAÇÃO EM RECURSO ESPECIAL. COMPETÊNCIA RESERVADA AO STF.
+1. Inexiste a alegada negativa de prestação jurisdicional, visto quea Corte de origem apreciou todos os pontos relevantes ao deslindeda controvérsia de modo integral e adequado, não padecendo oacórdão recorrido de qualquer omissão, contradição ou obscuridade.
+,2. O Tribunal a quo resolveu a questão da revisão dobenefício previdenciário com fundamentação eminentemente constitucional,razão pela qual não é possível sua revisão na via eleita.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.740.348/RS, Segunda Turma, Relator Ministro Herman Benjamin,
+julgado em 21/6/2018, DJe 22/11/2018)
+A alegada violação do artigo 1022 do CPC/2015 não merece provimento.
+O tempo especial que se pretende ver reconhecido, está embasado na presença do agente nocivo ruído.
+A tese que envolve o tema foi enfrentada em sede de representativo da controvérsia, em que se considerou que o limite de tolerância para configuração da especialidade do tempo de serviço para o agente ruído deve ser de 90 dB no período de 6/3/1997 a 18/11/2003, conforme Anexo IV do Decreto 2.172/1997 e Anexo IV do Decreto 3.048/1999, sendo impossível aplicação retroativa do Decreto 4.882/2003, que reduziu o patamar para 85 dB, sob pena de ofensa ao art. 6º da LINDB.
+Confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. MATÉRIA REPETITIVA. ART. 543-C DO CPC E RESOLUÇÃO STJ 8/2008. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. PREVIDENCIÁRIO. REGIME GERAL DE PREVIDÊNCIA SOCIAL. TEMPO ESPECIAL. RUÍDO. LIMITE DE 90DB NO PERÍODO DE 6.3.1997 A 18.11.2003. DECRETO 4.882/2003. LIMITE DE 85 DB. RETROAÇÃO. IMPOSSIBILIDADE. APLICAÇÃO DA LEI VIGENTE À ÉPOCA DA PRESTAÇÃO DO SERVIÇO.
+Controvérsia submetida ao rito do art. 543-C do CPC
+1. Está pacificado no STJ o entendimento de que a lei que rege o tempo de serviço é aquela vigente no momento da prestação do labor. Nessa mesma linha: REsp 1.151.363/MG, Rel. Ministro Jorge Mussi, Terceira Seção, DJe 5.4.2011; REsp 1.310.034/PR, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 19.12.2012, ambos julgados sob o regime do art. 543-C do CPC.
+2. O limite de tolerância para configuração da especialidade do tempo de serviço para o agente ruído deve ser de 90 dB no período de 6.3.1997 a 18.11.2003, conforme Anexo IV do Decreto 2.172/1997 e Anexo IV do Decreto 3.048/1999, sendo impossível aplicação retroativa do Decreto 4.882/2003, que reduziu o patamar para 85 dB, sob pena de ofensa ao art. 6º da LINDB (ex-LICC). Precedentes do STJ. Caso concreto
+3. Na hipótese dos autos, a redução do tempo de serviço decorrente da supressão do acréscimo da especialidade do período controvertido não prejudica a concessão da aposentadoria integral.
+4. Recurso Especial parcialmente provido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 8/2008.(REsp 1.398.260/PR, Primeira Seção, Relator Ministro Herman Benjamin, DJe 5/12/2014)
+Desta feita, o acórdão está em consonância com a jurisprudência do STJ, ao reconhecer a especialidade do período em que o recorrido esteve exposto, de forma habitual e permanente a ruído de 90 dB(A), nos termos doAnexo IV do Decreto 2.172/1997 e Anexo IV do Decreto 3.048/1999.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e julgamento (aproximadamente 1ano) e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO.AGRAVONO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGENTE RUÍDO. OBSERVÂNCIA DO RECURSO ESPECIAL REPETITIVO 1.398.260/PR. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
