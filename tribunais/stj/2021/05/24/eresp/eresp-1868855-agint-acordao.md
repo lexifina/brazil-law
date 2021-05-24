@@ -1,0 +1,145 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICO-PROCESSUAL. DIVERGÊNCIA NÃO CONFIGURADA. DECISÃO MANTIDA.
+1. No caso dos autos, a Terceira Turma afirmou a caracterização da mora no momento em que a recorrente foi citada em demanda na qual havia litisconsórcio passivo, posteriormente dissolvido ante o reconhecimento da ilegitimidade dos outros demandados.
+2. O paradigma da Quarta Turma, analisando contexto diverso, em que existia responsabilidade solidária entre os réus, admitiu que os juros de mora devem incidir desde a citação do primeiro demandado.
+3. Não há, portanto, decisões contraditórias tendo como substrato a mesma situação fático-processual, o que também impede o conhecimento do presente recurso.
+4. Os embargos de divergência "têm por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas tenha se dado diferente interpretação na legislação aplicável ao caso, não se prestando para avaliar possível justiça ou injustiça do decisum (..)" (AgInt nos EREsp n. 1.322.449/RJ, Relator Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 15/8/2018, DJe 28/8/2018).
+5. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Seção do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Luis Felipe Salomão, Raul Araújo, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 522/535) interposto contra decisão desta relatoria que indeferiu liminarmente os embargos de divergência.
+Os embargos de declaração opostos foram acolhidos em parte apenas para excluir a majoração dos honorários recursais (e-STJ fls. 517/519).
+A parte agravante reitera as alegações do recurso indeferido, sustentando seu cabimento, em síntese, porque teria comprovado o dissídio jurisprudencial.
+Ao final, pleiteia a reconsideração da monocrática ou sua apreciação pelo Colegiado.
+A parte agravada, intimada, apresentou impugnação (e-STJ fls. 539/545).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICO-PROCESSUAL. DIVERGÊNCIA NÃO CONFIGURADA. DECISÃO MANTIDA.
+1. No caso dos autos, a Terceira Turma afirmou a caracterização da mora no momento em que a recorrente foi citada em demanda na qual havia litisconsórcio passivo, posteriormente dissolvido ante o reconhecimento da ilegitimidade dos outros demandados.
+2. O paradigma da Quarta Turma, analisando contexto diverso, em que existia responsabilidade solidária entre os réus, admitiu que os juros de mora devem incidir desde a citação do primeiro demandado.
+3. Não há, portanto, decisões contraditórias tendo como substrato a mesma situação fático-processual, o que também impede o conhecimento do presente recurso.
+4. Os embargos de divergência "têm por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas tenha se dado diferente interpretação na legislação aplicável ao caso, não se prestando para avaliar possível justiça ou injustiça do decisum (..)" (AgInt nos EREsp n. 1.322.449/RJ, Relator Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 15/8/2018, DJe 28/8/2018).
+5. Agravo interno a que se nega provimento.
+AgInt nos EDcl nos EMBARGOS DE DIVERGÊNCIA EM RESP Nº 1.868.855 - RS (2020/0073228-7)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+MARILIA PINHEIRO MACHADO BUCHABQUI
+ADVOGADOS
+:
+JORGE LUIZ GARCIA DE SOUZA - RS021331
+ALEXANDRE SIMÕES LINDOSO - DF012067
+MARCOS AUGUSTO RIBEIRO DA SILVA - RS043023
+AGRAVADO
+:
+JOSÉ ANTONIO GOMES PINHEIRO MACHADO
+AGRAVADO
+:
+MARIA CIRCE GOMES PINHEIRO MACHADO
+ADVOGADO
+:
+GILMAR DUARTE - RS036685
+INTERES.
+:
+ANTONIO RIBAS PINHEIRO MACHADO - SUCESSÃO
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, a qual foi proferida nos seguintes termos (e-STJ fls. 486/491):
+Trata-se de embargos de divergência interpostos por MARILIA PINHEIRO MACHADO BUCHABQUI contra aresto prolatado pela TERCEIRA TURMA deste Tribunal Superior assim ementado (e-STJ fls. 390/391):
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 489, § 1º, IV, DO CPC/2015. INOCORRÊNCIA. PLURALIDADE DE RÉUS AFASTADA. JUROS DE MORA. CÔMPUTO. DATA DA CITAÇÃO.
+1. Ação de cobrança, já em fase de cumprimento de sentença.
+2. Cumprimento de sentença iniciado em 28/03/2016. Recurso especial concluso ao gabinete em 26/03/2020. Julgamento: CPC/2015.
+3. O propósito recursal, a par de analisar acerca da ocorrência de negativa de prestação jurisdicional, é definir o termo inicial para a contagem dos juros de mora na hipótese em que deixou de haver litisconsórcio passivo em razão do reconhecimento da ilegitimidade dos demais corréus: se a data da última citação válida ocorrida nos autos originários e relativa a um dos corréus; ou se a data da citação válida da própria recorrida, única condenada ao pagamento da importância postulada na petição inicial.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art.
+489, § 1º, IV, do CPC/2015.
+5. Nos termos do art. 240, caput, do CPC/2015, a citação válida, constitui em mora o devedor, ressalvadas as hipóteses previstas nos arts. 397 e 398 do CC/02. A corroborar com o previsto na legislação processual, dispõe o art. 405 do CC/02 que "contam-se os juros de mora desde a citação inicial".
+6. Na espécie, o termo inicial para a fluência dos juros de mora se deu, com relação à recorrida, na data em que a mesma foi propriamente citada (13/09/2004), pois foi neste momento em que a mesma foi constituída em mora.
+7. Os efeitos da citação não podem ser confundidos com o início do prazo para a defesa dos litisconsortes. Não se aplica, para a constituição em mora, regra processual disciplinadora do termo inicial do prazo para contestar (CPC/2015, art. 231, § 1º), em detrimento da regra geral de direito material pertinente (Código Civil, art. 280).
+8. Especificamente na hipótese dos autos, há ainda o relevante fato de os demais corréus terem tido sua ilegitimidade passiva reconhecida por sentença, o que reforça a ideia de impossibilidade da contagem dos juros de mora dar-se somente a partir da data da citação do último daqueles que, naquela fase, ainda era considerado réu no processo, mas que, posteriormente, deixou de sê-lo.
+9. Recurso especial conhecido e parcialmente provido.
+(REsp 1868855/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/9/2020, DJe 28/9/2020.)
+Os embargos de declaração foram rejeitados (e-STJ fls. 424/429).
+A parte embargante defende que o acórdão recorrido contrariou julgado da Quarta Turma, que apresenta a seguinte ementa:
+AGRAVO INTERNO. RECURSO ESPECIAL. REPRESENTAÇÃO COMERCIAL. PRESTAÇÃO JURISDICIONAL. COMISSÃO. PRESCRIÇÃO. QUITAÇÃO. RESPONSABILIDADE SOLIDÁRIA. JUROS DE MORA. TERMO INICIAL. CITAÇÃO VÁLIDA DO PRIMEIRO DEVEDOR SOLIDÁRIO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla e fundamentada, deve ser afastada a alegada violação ao artigo 535 do Código de Processo Civil de 1973.
+2. Tratando-se de responsabilidade solidária, contam-se os juros de mora para todos os devedores a partir da primeira citação válida. Inteligência dos artigos 280 do Código Civil e 219 do Código de Processo Civil de 1973.
+3. Agravo interno provido. Recurso especial a que se dá parcial provimento.
+(AgInt no REsp 1362534/DF, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/06/2018, DJe 02/08/2018.)
+A parte recorrente alega, em síntese, que o acórdão embargado divergiu do paradigma ao reconhecer a incidência dos juros de mora desde a data da em que foi citada, pois, não havendo responsabilidade solidária entre os litisconsortes, a mora estaria configurada apenas com a citação da última parte arrolada no polo passivo da ação (e-STJ fls. 433/442).
+Pede a reforma do acórdão embargado (e-STJ fl. 442).
+É o relatório.
+Decido.
+Conforme dispõe o RISTJ, os embargos de divergência se destinam à uniformização da jurisprudência desta Corte, eliminando eventuais discrepâncias, existentes entre acórdãos de turmas ou seções distintas, acerca do mesmo tema jurídico.
+Vale registrar que as exigências relativas à demonstração da divergência jurisprudencial não foram modificadas pelo CPC/2015, assim dispondo o seu art. 1.043, § 4º:
+Art. 1.043. É embargável o acórdão de órgão fracionário que:
+(..)
+§ 4º O recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, onde foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na rede mundial de computadores, indicando a respectiva fonte, e mencionará as circunstâncias que identificam ou assemelham os casos confrontados.
+Ademais, a comprovação do dissídio jurisprudencial exige o confronto entre o acórdão embargado e o paradigma, com a finalidade de demonstrar que, partindo de quadro fático idêntico, adotaram-se conclusões discrepantes quanto ao direito federal aplicável. A respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE DISSÍDIO JURISPRUDENCIAL ENTRE OS ACÓRDÃOS EM COTEJO. 1. A admissão dos embargos de divergência reclama a comprovação do dissídio jurisprudencial na forma prevista no RISTJ, com a demonstração das circunstâncias fáticas e processuais que assemelham os casos confrontados, bem como a adoção de soluções diversas aos litígios.
+2. No caso, é evidente a inexistência de similitude fático-processual uma vez que, no caso concreto, a pretensão é a de responsabilizar a instituição bancária em razão de o correntista ter causado prejuízo a terceiros em razão da emissão de cheques sem provisão de fundos; no julgado divergente, a hipótese é de responsabilização da instituição financeira por fraude praticada por terceiro à correntista.
+3. Agravo interno não provido.
+(AgInt nos EREsp n. 1.454.899/SC, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/12/2017, DJe 19/12/2017.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DE BENS. FALTA DE MANIFESTAÇÃO NO ACÓRDÃO EMBARGADO SOBRE O TEMA OBJETO DO RECURSO. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ARESTOS CONFRONTADOS. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 1973 ao Agravo Regimental e aos Embargos de Divergência.
+II - No caso, além de o acórdão embargado não ter se manifestado sobre o tema objeto dos embargos de divergência, não há similitude fático-processual entre os arestos confrontados, na medida em que, na situação dos autos, a medida de indisponibilidade de bens foi determinada por esta Corte e, no acórdão paradigma, foi decidida pelo tribunal de origem, se limitando o Superior Tribunal de Justiça a estabelecer sobre quais bens poderia ou não recair a constrição.
+III - O Superior Tribunal de Justiça tem entendimento consolidado segundo o qual o dissídio capaz de ensejar a interposição de embargos de divergência é aquele que se verifica em hipóteses semelhantes, devendo ser demonstrado que em situações idênticas foram dadas soluções meritórias dissonantes.
+IV - Os Agravantes não apresentam, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+V - Agravo Regimental improvido.
+(AgRg nos EREsp n. 990.078/MT, Relatora Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 27/9/2017, DJe 3/10/2017.)
+No caso dos autos, a Terceira Turma afirmou a caracterização da mora no momento em que a recorrente foi citada em demanda na qual havia litisconsórcio passivo, posteriormente dissolvido ante o reconhecimento da ilegitimidade dos outros demandados (e-STJ fls. 400/401).
+O paradigma da Quarta Turma, analisando contexto diverso, em que existia responsabilidade solidária entre os réus, admitiu que os juros de mora devem incidir desde a citação do primeiro demandado.
+Não há, portanto, decisões contraditórias tendo como substrato a mesma situação fático-processual, o que também impede o conhecimento do presente recurso. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. FALHA NO PROCESSO DE DIGITALIZAÇÃO DO FEITO. ALEGAÇÃO NÃO COMPROVADA. ACÓRDÃOS EMBARGADO E PARADIGMA NO MESMO SENTIDO. INEXISTÊNCIA DE ENTENDIMENTOS EM CONFLITO. DECISÃO MONOCRÁTICA: ATO QUE NÃO SERVE COMO PARADIGMA PARA O FIM DE DEMONSTRAÇÃO DE DISSÍDIO JURISPRUDENCIAL ALEGADO EM EMBARGOS DE DIVERGÊNCIA. EMBARGOS LIMINARMENTE INDEFERIDOS.
+I - A jurisprudência pacífica desta Corte é no sentido de ser incabível o recurso de embargos de divergência que tenha como paradigma decisão monocrática.
+II - Para que se comprove a divergência jurisprudencial, impõe-se que os acórdãos confrontados tenham apreciado matéria idêntica à dos autos, à luz da mesma legislação federal, dando-lhes, porém, soluções distintas.
+III - No caso dos autos, o dissídio não foi comprovado. O entendimento da Terceira Turma foi o de que, para que ficasse constatada falha no processo de digitalização, a parte recorrente deveria ter apresentado os documentos que comprovassem a existência das devidas guias de portes de remessa e retorno. Portanto, ambos os acórdãos - embargado e paradigma - têm idêntica conclusão, motivo pelo qual não foi demonstrado nenhum dissídio jurisprudencial.
+IV - A ausência dissídio jurisprudencial obsta o processamento dos embargos de divergência.
+V - Agravo interno improvido.
+(AgInt nos EREsp n. 1.518.412/PE, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 2/8/2017, DJe 10/8/2017.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA. PARADIGMA ORIUNDO DO MESMO ÓRGÃO FRACIONÁRIO PROLATOR DO ACÓRDÃO EMBARGADO. FALTA DO PRESSUPOSTO DO § 3º DO ART. 1.043 DO CPC/2015. OUTRO JULGADO PARADIGMA NO MESMO SENTIDO DO ACÓRDÃO ALVEJADO. DISSENSO INTERPRETATIVO INEXISTENTE.
+1. Inviável o conhecimento dos embargos de divergência em relação ao paradigma da Segunda Turma - mesmo órgão fracionário prolator do acórdão embargado, visto que ausentes os pressupostos exigidos no § 3º do art. 1.043 do CPC/2015 ("Cabem embargos de divergência quando o acórdão paradigma for da mesma turma que proferiu a decisão embargada, desde que sua composição tenha sofrido alteração em mais da metade de seus membros").
+2. O outro acórdão apontado como paradigma termina por adotar a mesma linha de entendimento do julgado embargado, a saber, a de que não há nulidade na citação por edital na hipótese em que houve certificação, pelo oficial de justiça, de que não encontrado o devedor. Inexistência de dissenso interpretativo a ser dirimido pelo conduto dos embargos de divergência, o que possibilita seu indeferimento liminar, nos termos do art. 266-C do RISTJ.
+3. Agravo interno não provido.
+(AgInt nos EDcl nos EREsp n. 1.631.121/SE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 12/12/2018, DJe 17/12/2018.)
+Registre-se que, ao contrário do que faz crer a ora embargante, o julgado da Quarta Turma não definiu que somente em casos de responsabilidade solidária haveria mora desde a citação do primeiro réu, apenas reconheceu que, nos casos de solidariedade passiva, os juros de mora incidiram a partir desse marco inicial em desfavor de todos os responsáveis (e-STJ fls. 461/467).
+Cabe destacar que os embargos de divergência "têm por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas tenha se dado diferente interpretação na legislação aplicável ao caso, não se prestando para avaliar possível justiça ou injustiça do "decisum" (..)" (AgInt nos EREsp n. 1.322.449/RJ, Relator Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 15/8/2018, DJe 28/8/2018).
+Assim, com fundamento no art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+Os embargos de declaração foram acolhidos parcialmente nos seguintes termos (e-STJ fls. 517/519):
+Trata-se de embargos de declaração (e-STJ fls. 309/312) opostos por MARÍLIA PINHEIRO MACHADO BUCHABQUI à decisão desta relatoria que inadmitiu os embargos de divergência da ora recorrente.
+A parte, em suas razões, suscita erro material na decisão embargada, pois teria fixado honorários recursais em caso que inexistiu condenação anterior ao pagamento da verba honorária
+Sustenta ainda que a decisão teria sido omissa, pois os requisitos para o conhecimento dos embargos de divergência estariam demonstrados.
+Ao final, pede o acolhimento dos embargos de declaração para que sejam supridos os vícios apontados.
+A parte embargada, intimada, apresentou impugnação, requerendo a aplicação de multa (e-STJ fls. 419).
+É o relatório.
+Decido.
+ ..
+No caso, os embargos de declaração devem ser parcialmente acolhidos.
+Com efeito, na decisão, houve a condenação em honorários recursais (e-STJ fl. 491).
+Entretanto, conforme reconhecido no acórdão embargado, não houve, na origem, o arbitramento de honorários sucumbenciais, o que motivou, inclusive, a inexistência de condenação da parte ora embargante ao pagamento da verba honorária, mesmo com o provimento parcial do recurso especial da parte ora embargada (e-STJ fl. 401).
+Por outro lado, na decisão embargada, foram indicados os fundamentos pelos quais os embargos de divergência não mereciam conhecimento, explicitando-se que, no caso, inexistiu adequado cotejo analítico, além de não haver dissídio entre o julgado embargado e o paradigma (e-STJ fls. 487/490).
+A parte embargante pretende, nesse ponto, apenas rediscutir a admissibilidade do recurso anterior, o que é inviável por meio dos embargos de declaração.
+Dessa forma, os aclaratórios devem ser acolhidos apenas parcialmente, a fim de ser excluída a majoração dos honorários recursais.
+Assim, ACOLHO EM PARTE os embargos de declaração, modificando a decisão embargada para excluir a majoração dos honorários recursais.
+Publique-se e intimem-se.
+Conforme explicitado na decisão, os embargos de divergência destinam-se a uniformizar o entendimento entre órgãos fracionários do STJ, sendo exigido o devido cotejo analítico a fim de demonstrar que, em contexto semelhante, os julgados paradigma e recorrido pronunciaram conclusões contraditórias.
+No caso, o precedente da Quarta Turma indicado não divergiu do entendimento da Terceira Turma, pois analisaram hipóteses diferentes.
+A Terceira Turma reconheceu que haveria mora quando a ora recorrente foi citada na demanda em que o prévio litisconsórcio passivo foi extinto, em função da ilegitimidade passiva dos outros litisconsortes.
+No paradigma citado, a Quarta Turma do STJ entendeu que, em hipótese envolvendo responsabilidade solidária dos réus, a mora estaria caracterizada desde a citação do primeiro demandado.
+Logo, mantêm-se os óbices ao conhecimento dos embargos de divergência, tendo em vista que, inexistindo semelhança entre o acórdão recorrido e os paradigmas, eventual erro ou injustiça do julgado da Turma, quanto ao conhecimento do recurso especial, não os torna admissíveis. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. ACÓRDÃO EMBARGADO PROFERIDO EM RECURSO ESPECIAL QUE NÃO FOI CONHECIDO POR DESERÇÃO. AUSÊNCIA DE APRECIAÇÃO DE QUESTÃO DE MÉRITO DO APELO NOBRE, SEJA DE DIREITO MATERIAL SEJA DE DIREITO PROCESSUAL. INCIDÊNCIA DA SÚMULA 315/STJ, POR ANALOGIA. INTERPRETAÇÃO DO ARTIGO 1.043, INCISOS I E III, DO CPC/2015. RECURSO DESPROVIDO.
+1. A finalidade dos embargos de divergência é a uniformização da jurisprudência do Superior Tribunal de Justiça, portanto não podem ser utilizados como nova via recursal, objetivando a correção de eventual equívoco advindo do julgamento do próprio recurso especial.
+2. Desse modo, não é cabível sua interposição para discutir o acerto ou desacerto na aplicação da regra técnica de conhecimento de recurso especial, como no caso, em que o juízo de admissibilidade nem sequer chegou a ser ultrapassado, ante a ausência de demonstração da efetivação do preparo, uma vez que o recorrente "trouxe cópia ilegível do comprovante de recolhimento das custas processuais, inviabilizando, desta feita, a conferência da regularidade do preparo recursal".
+3. O art. 1.043 do CPC/2015, incisos I e III, ao disciplinar as hipóteses de cabimento dos embargos de divergência, parte da premissa de que tanto o acórdão embargado quanto o aresto apontado como paradigma tiveram o mérito do recurso especial analisado.
+4. O mérito dos embargos de divergência, segundo o § 2º do referido dispositivo, decorre da aplicação do direito material ou do direito processual contido na tese do recurso especial, não se podendo extrair dessa previsão normativa interpretação autorizativa para se utilizar o recurso uniformizador como instrumento viabilizador de novo exame quanto ao conhecimento do recurso especial.
+5. A análise dos requisitos de admissibilidade do apelo nobre no caso concreto é realizada de forma soberana pelo respectivo órgão fracionário deste Tribunal, e, em regra, não pode ser revista através dos embargos de divergência, sob pena de se criar, no Superior Tribunal de Justiça, segunda instância revisora nesse aspecto.
+6. Na hipótese, a pretensão da parte ora agravante encontraria amparo no inciso II do art. 1.043 do CPC/2015, o qual previa o cabimento de embargos de divergência contra acórdão que, "em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos embargado e paradigma, relativos ao juízo de admissibilidade". Ocorre que esse dispositivo foi revogado expressamente pela Lei n. 13.256 de 4/2/2016.
+7. Agravo interno desprovido.
+(AgInt nos EREsp 1197811/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 31/03/2020, DJe 06/04/2020.)
+Em tais circunstâncias, as razões deduzidas não se mostram suficientes para ensejar a reforma da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
