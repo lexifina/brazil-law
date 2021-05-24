@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto por CENTRO DE ENSINO UNIFICADO DE BRASÍLIA - CEUB contra a decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, impugna acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+"AGRAVO DE INSTRUMENTO E AGRAVO INTERNO. AÇÃO DE DESPEJO. CONTROVÉRSIA. LIMINAR. INDEFERIMENTO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. DECISÃO RECORRIDA MANTIDA.
+1. Sendo necessário dilação probatória para demonstrar os fatos alegados em ação de despejo, o que é incompatível em sede de agravo, deve ser mantido o indeferimento da tutela provisória, para que fosse determinada a desocupação liminar de imóvel utilizado para fins comerciais.
+2. Agravo de instrumento conhecido e não provido. Agravo interno prejudicado" (e-STJ fl. 302).
+Os embargos de declaração opostos pela recorrente foram rejeitados (e-STJ fls. 332/340).
+No especial (e-STJ fls. 342/360), orecorrente alega violação dos artigos 93, IX, da Constituição Federal; 300, 373, I e II, 489, II, IV e VI, 927 e 1.022 do Código de processo Civil de 2015 e 37e 59, § 1º, IX, da Lei nº 8.245/1991.
+Aduz que o Tribunal de origem incorreu em negativa de prestação jurisdicional ao deixar de se manifestar a respeito das seguintes questões: (i)já houve a instalação do contraditório nos autos da ação de despejo movida em desfavor da ora recorrida e, indeferida a produção de prova testemunhal e pericial, não há falar em necessidade de dilação probatória; (ii) até o momento, a parte recorrida não demonstrou a existênciade qualquer garantia locatícia, não podendo um e-mail ser considerado como indício de prova de existência de fiança locatícia e (iii)além da inadimplência dos valores locatícios, a má qualidade dos alimentos ofertados aos aluno também é fato incontroverso, e incorre em infração à cláusula 13º, item 13.2, do contrato de locação.
+Sustenta o preenchimento de todos os requisitos para o deferimento da liminar de despejo, tendo em vista estar incontroverso nos autos a ausência de pagamento do aluguel e de contrato de garantia, fatos constitutivos de seu direito.
+Ao final, requer o provimento do recurso.
+Após a apresentação das contrarrazões (e-STJ fls. 368/378),o recurso foi inadmitido na origem, sobrevindo daí ainterposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se ao exame do especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De início, no tocante aos artigos 489 e 1.022do CPC/2015, registra-se que a negativa de prestação jurisdicional nos embargos declaratórios somente se configura quando, na apreciação do recurso, o Tribunal de origem insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+Não é o caso dos autos.
+Com efeito, a instância ordinária enfrentou a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+Impende asseverar que cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declinando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+No caso, a instância ordinária consignou que as alegações deduzidas pelo recorrente para embasar a ordem de despejo, ao menos em cognição sumária, revelam-se frágeis e insuficientes, conforme se depreende dos seguintes trechos do voto condutor do acórdão:
+"(..) ao que consta dos autos, houve a purga da mora, não havendo elementos para se concluir pela falta de pagamento do aluguel e acessórios da locação nos termos convencionados. E a controvérsia a respeito da constituição ou não de seguro fiança e da má prestação de serviços, obstam a desocupação sumária do imóvel.
+Já a concessão da tutela provisória de urgência, nos termos do art. 300 CPC, pressupõe a existência elementos nos autos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo, os quais não se apresentam evidentes, no caso.
+Forçoso atentar que as duas decisões de indeferimento da medida liminar na origem indicaram a peculiar necessidade de se realizar a instrução processual para dirimir as questões apresentadas pelo agravado, materializadas em contestação e reconvenção.
+(..)
+De fato, não obstante o aventado descumprimento de cláusulas contratuais pelo locatário, além da suposta má qualidade da alimentação ofertada aos alunos, entre outras alegações trazidas pelo agravante para a rescisão contratual, mostram-se frágeis e insuficientes os argumentos apresentados para, nesta fase de cognição sumária, autorizar o despejo liminar pleiteado.
+Com efeito, ao menos no momento, a matéria debatida nos autos originários ainda é bastante controvertida, sendo necessário aguardar-se regular instrução daquele feito.
+Logo, faltando elementos nos autos que permitam concluir, no momento, pela probabilidade do direito. E mais, persistindo a controvérsia especialmente quanto à alegada violação de disposições contratuais, medida adequada é aguardar a instrução processual, mediante dilação probatória, incompatível nesta sede de agravo" (e-STJ fl. 305).
+Assim, não há falar em deficiência de fundamentação da decisão o não acolhimento de teses ventiladas pelorecorrente, mormente se o acórdão abordar todos os pontos relevantes da controvérsia, como na espécie.
+No mais, cuida-se, na origem, de agravo de instrumento interposto contra a decisão que indeferiu liminar para determinar que a recorrida desocupe o imóvel de propriedade dorecorrente.
+A discussão ora em exame objetiva verificar a presença ou não dos pressupostos que autorizam a concessão de liminar postulada nos autos de ação de despejo por falta de pagamento e violação de cláusulas contratuais.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de não ser cabível recurso especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria de mérito da causa que, em liminar ou antecipação de tutela, é tratada apenas sob juízo precário de mera verossimilhança, "porquanto tal matéria, somente haverá causa decidida em única ou última instância com o julgamento definitivo, atraindo, analogicamente, o enunciado da súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar"" (REsp nº 765.375/MA, Rel. Ministro Teori Albino Zavascki, Primeira Turma, julgado em 6/4/2006, DJ 8/5/2006).
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.LIMINAR PARA DESOCUPAÇÃO DE IMÓVEL COMERCIAL (LEI 8.245/91, ART.59, § 1º, VIII). INDEFERIMENTO. DISCUSSÃO SOBRE OS REQUISITOS.INCIDÊNCIA DA SÚMULA 735 DO STF E DAS SÚMULAS 5 E 7 DO STJ.FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO (SÚMULA 283/STF). AÇÃO DE DESPEJO.DENÚNCIA VAZIA. LOCAÇÃO DE POSTO DE COMBUSTÍVEIS E DE SERVIÇOS.RECURSO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça, em consonância com o entendimento firmado pelo eg. Supremo Tribunal Federal na Súmula 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial de acórdão que decide sobre pedido liminar ou antecipação de tutela, em razão da natureza precária da decisão, admitindo-se, tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (CPC/2015, art. 300, e Lei 8.245/91, art. 59, § 1º), e não violação à norma que diga respeito ao mérito da causa.
+2. No caso, o Tribunal de origem, considerando as circunstâncias da causa, em particular a aparente existência de pluralidade de contratos diversos do de locação entre as partes, concluiu não estarem presentes os requisitos para a concessão de medida liminar para a desocupação do imóvel, apontando, ainda, possível irreversibilidade da medida.
+3. Nesse contexto, a modificação do entendimento firmado no acórdão recorrido demandaria o revolvimento do suporte fático-probatório dos autos, assim como a interpretação de cláusulas contratuais, inviável em sede de recurso especial, a teor das Súmulas 5 e 7 do STJ.
+4. No mais, a ausência de impugnação, nas razões do recurso especial, de fundamento autônomo do aresto recorrido atrai o óbice da Súmula 283 do STF.
+5. Agravo interno não provido"(AgInt no AREsp 1.309.161/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/09/2020, DJe 14/09/2020).
+"CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO EM "RECURSO ESPECIAL. (..) RECURSO ESPECIAL QUE SE VOLTA CONTRA DECISÃO QUE DEFERE A ANTECIPAÇÃO DOS EFEITOS DA TUTELA. INCIDÊNCIA DA SÚMULA Nº 735 DO STF, POR ANALOGIA.
+(..) 4. O STJ, em sintonia com o disposto no enunciado da Súmula nº 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou não liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Precedentes.
+5. Agravo regimental não provido" (AgRg no AREsp 614.229/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/6/2016, DJe 1º/7/2016).
+Ademais, o Tribunal de origem, para manter a decisão que indeferiu o pedido, conforme os trechos do aresto recorrido já transcritos, asseverou que a questão dos autos ainda é bastante controvertida, sendo necessária a dilação probatória.
+A revisão de tal conclusão esbarra, inevitavelmente, no óbice da Súmula nº 7/STJ.
+É importante frisar que não cabe ao Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o tribunal de origem a tal conclusão, sob pena de usurpar a competência das instâncias ordinárias, a quem compete amplo juízo de cognição da lide.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois o recurso tem origem em decisão sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
