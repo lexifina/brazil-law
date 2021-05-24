@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de reclamação, com pedido de efeito suspensivo, formulada pelo ESPÓLIO DE OTACÍLIO CAMPIOLO, com fulcro no art. 988, inciso I, do Código de Processo Civil, contra decisão do 1º Vice-Presidente do Tribunal de Justiça do Estado do Paraná, que não conheceu o agravo em recurso especial interposto pelo ora reclamante em razão de sua intempestividade. (fls. 101/103)
+Sustentou o reclamante queo juízo a quo usurpou a competência do Superior Tribunal de Justiça para a análise do agravo em recurso especial. Acrescentou, nesse contexto, que "(..)De acordo com a norma estampada no art. 1.042, § 4º, do Código de Processo Civil, caso não haja retratação, o agravo contra a decisão denegatória de seguimento do recurso especial deverá ser remetido ao tribunal superior competente."
+Requereu, assim, em caráter liminar, "a suspensão do processo para evitar dano irreparável, uma vez que, com o trânsito do acórdão, haverá a execução do julgado." No mérito, pleiteou a procedência da presente reclamação. (fls. 4/17)
+Às fls. 173/175, o e. Min. Jorge Mussi, no exercício da Presidência, deferiu o pedido liminar e, por conseguinte, determinar "a suspensão do processo de origem."
+Prestadas as informações pela autora reclamada (fls. 178/183) dando conta de que revogou a deliberação judicial e, assim, determinou a subida ao STJ dos autos do recurso especial.
+O MPF ofertou parecer no da declaração de prejudicialidade do presente instrumento, em razão da perda superveniente de objeto. (fls. 189/191)
+É o relatório.
+Decisão.
+A presente reclamação está prejudicada em razão da perda superveniente de objeto.
+1. De início, registra-se que, nos termos dos artigos 105, I, "f", da Constituição Federal, 13 da Lei n. 8.038/90 e 187 do RISTJ, somente caberá reclamação quando um órgão julgador estiver exercendo competência privativa ou exclusiva deste Tribunal ou, ainda, quando as decisões deste não estiverem sendo cumpridas por quem de direito.
+Nesse sentido, confira-se: Rcl 2784/SP, Segunda Seção, Rel. Min. João Otávio de Noronha, DJ de 22.5.2009; Rcl 34880/MS, Rel. Min. Marco Aurélio Bellizze, DJe de 16/04/2018; Rcl 18538/PA, Rel. Min. Antonio Carlos Ferreira, DJe de 16/04/2018; AgRg na Rcl 25606/RJ, Rel. Min. Moura Ribeiro, DJe de 16/11/2015; AgRg na Rcl 8581 / RJ, Rel. Min. Maria Isabel Gallotti, DJe de 28/08/2012; Rcl 2861/RS, Rel. Min. Massami Uyeda, rel. p/acórdão, Min. Sidnei Beneti, DJe de 04/12/2009; AgRg na Rcl 2.425/PR, 1ª Seção, Rel. Min. Castro Meira, DJ de 27.8.2007.
+Com esse norte hermenêutico, na hipótese dos autos, diante das informações prestadas (fls. 178/183) pelo r. juízo reclamado noticiando que "(..) tendo tomado conhecimento nesta data do teor das razões da presente reclamação, entendi assistir razão ao reclamante, razão pela qual revoguei a decisão objurgada e determinei a remessa dos autos a este colendo Superior Tribunal de Justiça (..)" fica, pois prejudicado o exame dapresente reclamação, em razão da superveniente perda de objeto.
+2. Do exposto, com fundamento no art. 34, VII, do RISTJ, julgo prejudicada a presente reclamação, em razão da perda superveniente de objeto.
+Revoga-se, pois, a liminar de fls. 173/175.
+Publique-se. Intimem-se. Oficie-se.
