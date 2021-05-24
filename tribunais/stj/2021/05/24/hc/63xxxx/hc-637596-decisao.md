@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em benefício de Diego Vilela Echeverria e Gabriela Calado da Silva Moreira, em que se aponta como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça deMato Grosso do Sul.
+Consta dos autos (n. 0000403-27.2018.8.12.0034) que os pacientes foram denunciados como incursos no art. 155, § 4º, IV, do Código Penal, por terem subtraído um rádio da marca Ecopower, dentro de um veículo Fiat, avaliado em R$ 80,00. Na sentença, Diego foi condenado, como incurso no art. 155, caput, do Código Penal, à pena de 2 anos de reclusão e 10 dias-multa; e Gabriela foi absolvida, com base no art. 386, VI, do Código de Processo Penal, sendo-lheaplicada medida de segurança, consistente em tratamento ambulatorial (fls. 143/148).
+Em sede de apelação, a defesa pediu a absolviçãopor ausência de provas. APrimeira Câmara Criminal do Tribunal de Justiça deMato Grosso do Sul negou provimento ao recurso (fls. 216/222). Esta, a ementa do julgado(fl. 216):
+APELAÇÃO CRIMINAL - FURTO QUALIFICADO - ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS - NÃO ACOLHIMENTO- CONJUNTO PROBATÓRIO ROBUSTO - CONDENAÇÃO MANTIDA - PRINCÍPIO DA INSIGNIFICÂNCIA - NÃO INCIDÊNCIA - DESTACADA REPROVABILIDADE DA CONDUTA E PERICULOSIDADE SOCIAL DA AÇÃO - RECURSO IMPROVIDO.
+I - Impossível o acolhimento ao pleito absolutório se o conjunto probatório revela-se suficiente e harmônico no sentido de que os réus, em conjunto, subtraíram o rádio que estava no banco traseiro do veículo, conforme firme palavrada vítima em sintonia com a confissão extrajudicial.
+II -De acordo com o entendimento consolidado pela Suprema Corte, para a incidência do princípio da insignificância é necessário o preenchimento de certos requisitos, a saber: a) mínima a ofensividade da conduta; b)nenhuma periculosidade social da ação; c) reduzido o grau de reprovabilidade do comportamento; d) e inexpressiva a lesão jurídica provocada. Na hipótese dos autos, entretanto, a conduta não pode ser considerada irrelevante para o Direito Penal, pois revela lesividade suficiente para justificara imposição da respectiva sanção, na medida em que se trata de furto qualificado. Além disso, o exame dos antecedentes evidencia a significativa periculosidade social da ação, pois os réus respondem a inúmeras ações penais por crimes patrimoniais.
+III - Recurso improvido.
+No presente writ, a defesa requer a aplicação do princípio da insignificância para os pacientes.
+Decisão indeferindo a liminar (fls. 231/232).
+Parecer ministerialopinando pela denegação da ordem (fls. 252/256).
+É o relatório.
+Para afastar o princípio da insignificância, a Corte local trouxe os seguintes fundamentos(fls. 220/221 - grifo nosso):
+ ..
+Na hipótese dos autos, entretanto, não há como reconhecer que a conduta praticada pelos apelantes seja dotada de reduzido grau de reprovabilidade, na medida em que se trata de crime de furto qualificado pelo concurso de pessoas, o que denota a elevada censurabilidade da ação no caso concreto.
+Em recentes julgados, o e. Superior Tribunal de Justiça reiterou o entendimento, há muito consolidado naquela Corte, no sentido de ser incabível a aplicação do princípio da insignificância em casos de furto qualificado, uma vez que as circunstâncias qualificadoras conferem maior gravidade à conduta.
+ ..
+Ademais, eles respondem a várias ações penais por crimes patrimoniais (p. 47-51 e 126-128), demonstrando, portanto, a acentuada periculosidade social.
+ ..
+No caso, razão não assiste aos pacientes, pois houve a qualificadora de concurso de pessoas, o que já afasta a possibilidade de aplicação desse princípio. Além disso, consta no acórdão hostilizado que existecontumácia delitiva a crimes patrimoniais, por parte dos pacientes, conforme certidão de antecedentes de fls. 57/63 e 138/141. Entende esta Corte Superior que, além do aspecto objetivo, exige-se que não se trate de agente com reiteradas condutas delitivas ou reincidente específico para que seja aplicado o princípio da insignificância (AgRg no AREsp n. 906.923/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 19/10/16). Também nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL.FURTO QUALIFICADO. DELITO COMETIDO COM ROMPIMENTO DE OBSTÁCULO E EMCONCURSO DE AGENTES. REINCIDÊNCIA. IMPOSSIBILIDADE DE APLICAÇÃO DOPRINCÍPIO DA INSIGNIFICÂNCIA. PRECEDENTES. RES FURTIVA. VALOR.AFERIÇÃO. INVIABILIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTALDESPROVIDO.
+1. Não há como se afirmar o desinteresse estatal à repressão da conduta praticada pelo Agravante, já que o delito de furto foi perpetrado mediante concurso de agentes e rompimento de obstáculo. E, segundo a jurisprudência desta Corte, "a prática do delito de furto qualificado por escalada, arrombamento ou rompimento de obstáculo ou concurso de agentes, caso dos autos, indica a especial reprovabilidade do comportamento e afasta a aplicação do princípio da insignificância" (HC 351.207/RS, Rel. Ministra MARIATHEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 28/06/2016, DJe01/08/2016).
+2. O Superior Tribunal de Justiça possui jurisprudência no sentido de que "a reiteração delitiva tem sido compreendida como obstáculo inicial à tese da insignificância, por evidenciar maior grau de reprovabilidade da conduta do acusado, ressalvada excepcional peculiaridade do caso penal" (AgRg no AREsp 904.286/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 07/12/2016).
+(AgRg no AREsp n. 1.727.520/TO, Ministra Laurita Vaz, Sexta Turma,DJe 3/5/2021)
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. FURTO QUALIFICADO. PEDIDO DE RECONHECIMENTO DA ATIPICIDADE DA CONDUTA. IMPOSSIBILIDADE. CONCURSO DE AGENTES. PACIENTES QUE RESPONDEM A OUTRAS AÇÕES PENAIS POR CRIMES CONTRA O PATRIMÔNIO. REITERAÇÃO DELITIVA.
+Ordem denegada.
