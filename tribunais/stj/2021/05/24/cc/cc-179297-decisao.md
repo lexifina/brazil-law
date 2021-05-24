@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 7ª Vara Criminal de São Paulo - SJ/SP, o suscitante, e o Juízo Federal da 6ª Vara Criminal do Rio de Janeiro - SJ/RJ, o suscitado.
+A natureza do dissenso foi assim sintetizada pelo Ministério Público Federal (fls. 1.507/1.508):
+Trata-se de conflito negativo de competência em que figura, como suscitante, o Juízo da 7ª Vara Criminal de São Paulo e como suscitado o Juízo da 6ª Vara Criminal do Rio de Janeiro.
+Colhe-se dos autos que foi instaurado inquérito para apurar a conduta de Fang Jey Jiun, Fang Li Mei e Huang Weiwei, que, na qualidade deadministradores da empresa Remagal do Brasil Comércio de Materiais Elétricos, teriam suprimido tributos federais do ano calendário 2000 mediante prestação de informações falsas.
+O inquérito policial iniciou-se perante o Juízo da 6ª Vara Federal Criminal do Rio de Janeiro, que, atendendo manifestação do Ministério Público Federal (fls. 721/723), declinou da competência para São Paulo (fl. 724), onde os autos foram distribuídos à 7ª Vara Criminal Federal, que suscita o presente conflito.
+O suscitante afirma que "a competência para processar e julgar delito contra ordem tributária é do local da sede da empresa na data da constituição definitiva do crédito tributário, sendo irrelevante a mudança de domicílio fiscal do contribuinte" (fl. 19). Argumenta que, no caso, o crédito tributário constituiu-se em definitivo em 24/03/2010, época em que a empresa estava sediada na cidade do Rio de Janeiro, sendo essa a localidade competente para o processamento do feito.
+Os autos vieram, digitalizados, com vista ao Ministério Público Federal para manifestação.
+ ..
+No parecer, o Ministério Público Federal opinou pela declaração de competência do Juízo suscitado (fls. 1.508/1.510):
+ ..
+O conflito deve ser conhecido, visto que estabelecido entre juízes vinculados a tribunais diversos, conforme prevê o art. 105, I, "d", da Carta Magna.
+Após detida análise dos autos, conclui-se que a competência para processar e julgar os fatos é do Juízo da 6ª Vara Federal Criminal do Rio de Janeiro.
+Com efeito, a competência para processar e julgar delitos contra a ordem tributária é do local da sede da empresa na data da constituição definitiva do crédito tributário. Nesse sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZES FEDERAIS VINCULADOS A TRIBUNAIS REGIONAIS FEDERAIS DIVERSOS. SONEGAÇÃO FISCAL: CRIME CONTRA A ORDEM TRIBUTÁRIA (ARTS. 1º E 2 DA LEI Nº 8.137/1990). DELITO MATERIAL. COMPETÊNCIA DO LOCAL ONDE SE CONSUMOU O CRIME, POR MEIO DA CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO.
+1. Conforme o disposto no enunciado n. 24 da Súmula vinculante do STF, os delitos contra ordem tributária tipificados no art. 1º e incisos da Lei 8.137/1990 consumam-se no momento da constituição do crédito tributário.
+2. Não se deve, assim, confundir o momento consumativo da sonegação fiscal com aquele em que a fraude é praticada, máxime quando se tem em conta que não há tipicidade do delito antes do lançamento definitivo do crédito tributário.
+3. Com isso em mente, a jurisprudência desta Corte assentou-se no sentido de que, "tratando-se de crime material contra a ordem tributária (art. 1º da Lei n. 8.137/1990), a competência para processar e julgar o delito é do local onde houver ocorrido a sua consumação, por meio da constituição definitiva do crédito tributário, sendo irrelevante a mudança de domicílio fiscal do contribuinte" (CC 120.850/BA, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA SEÇÃO, julgado em 08/08/2012, DJe 30/08/2012). (g.n.) 4. Incide, assim, em tais hipóteses, a regra prevista no art. 70 do Código de Processo Penal, que determina a competência do Juízo do lugar em que se consumou o delito ou, na hipótese de tentativa, do lugar em que foi praticado o último ato de execução.
+5. No caso em apreço, embora a empresa investigada tivesse domicílio em Barueri/SP no momento em que a fraude foi cometida (2005 e 2006), na data da constituição do crédito tributário, em setembro/2010, já havia transferido seu domicílio fiscal para o Estado do Rio de Janeiro desde novembro/2009.
+6. Tem-se, assim, que, no momento da consumação do crime, seja dizer, no momento da constituição do crédito tributário, a empresa investigada já possuía domicílio fiscal no Estado do Rio de Janeiro, sendo esse o local que fixa a competência para a condução do presente inquérito policial e de eventual ação penal daí decorrente.
+7. Conflito conhecido para declarar a competência do Juízo Federal da 1ª Vara Criminal da Seção Judiciária do Estado do Rio de Janeiro, o suscitante.
+(CC 144.872/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 25/02/2016, DJe 02/03/2016)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME MATERIAL CONTRA A ORDEM TRIBUTÁRIA. COMPETÊNCIA PARA PROCESSAR E JULGAR A AÇÃO PENAL. FRAUDE PRATICADA EM LONDRINA/PR. MUDANÇA DO DOMICÍLIO FISCAL DA EMPRESA PARA MARÍLIA/SP. IMPOSSIBILIDADE DE CONFIGURAÇÃO DO ILÍCITO FISCAL ANTES DO ESGOTAMENTO DA VIA ADMINISTRATIVA. COMPETÊNCIA DO DOMICÍLIO FISCAL EM QUE HOUVE A CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO.COAÇÃO ILEGAL INEXISTENTE. DESPROVIMENTO DO RECLAMO.
+1. Em atenção ao disposto no verbete 24 da Súmula Vinculante, pacificou-se neste Superior Tribunal de Justiça o entendimento segundo o qual a competência para processar os delitos materiais contra a ordem tributária é estabelecida no domicílio fiscal em que houve a consumação da infração penal, ou seja, aquele em que ocorreu a constituição definitiva do crédito tributário, sendoirrelevante que a fraude tenha sido perpetrada em local diverso.(g.n.)
+2. No caso dos autos, ainda que as condutas assestadas aos recorrentes tenham sido praticadas em Londrina/PR, a competência para processá- los e julgá-los é da Justiça Federal de Marília/SP, local em que a pessoa jurídica por eles administrada possuía domicílio fiscal ao tempo em que esgotada a via administrativa e consumado o delito contra a ordem tributária.
+3. Recurso desprovido.
+(RHC 53.434/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 07/03/2017, DJe 15/03/2017)
+No caso dos autos, o juízo suscitante informa que "à época da constituição definitiva do crédito tributário, a empresa sediava-se na cidade do Rio de Janeiro, RJ" (fl. 20), sendo essa a localidade competente para o processamento do feito.
+Ante o exposto, o Ministério Público Federal opina pelo conhecimento do conflito de competência, para que seja declarada a competência do Juízo da 6ª Vara Federal Criminal do Rio de Janeiro, ora suscitado.
+É o relatório.
+Com razão o parecerista.
+Em atenção ao disposto no verbete 24 da Súmula Vinculante, pacificou-se neste Superior Tribunal de Justiça o entendimento segundo o qual a competência para processar os delitos materiais contra a ordem tributária é estabelecida no domicílio fiscal em que houve a consumação da infração penal, ou seja, aquele em que ocorreu a constituição definitiva do crédito tributário, sendo irrelevante que a fraude tenha sido perpetrada em local diverso.
+No caso, considerando a informação de que,à época da constituição definitiva do crédito tributário, a empresa sediava-se na cidade do Rio de Janeiro, RJ(fl. 20), deve ser declarada a competência do Juízo suscitado.
+Ante o exposto, acolhendo o parecer, conheço do conflito para declarar a competência doJuízo Federal da 6ª Vara Criminal do Rio de Janeiro - SJ/RJ, o suscitado.
+Dê-se ciência aos Juízes em conflito.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. INQUÉRITO POLICIAL. DISSENSO ENTRE JUÍZES FEDERAIS VINCULADOS A TRIBUNAIS DIVERSOS.SONEGAÇÃO FISCAL.DELITO MATERIAL. COMPETÊNCIA DO LOCAL ONDE SE CONSUMOU O CRIME, POR MEIO DA CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO. SÚMULA VINCULANTE 24. COMPETÊNCIA DO JUÍZO SUSCITADO. PARECER ACOLHIDO.
+Conflito conhecido para declarar a competência doJuízo Federal da 6ª Vara Criminal do Rio de Janeiro - SJ/RJ, o suscitado.
