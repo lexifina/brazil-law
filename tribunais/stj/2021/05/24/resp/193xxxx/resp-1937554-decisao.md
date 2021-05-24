@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, contra acórdão proferido pelo TJRJ, assim ementado (fls. 40):
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA.DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA.DECISÃO AGRAVADA QUE REJEITA A IMPUGNAÇÃO OFERTADA PELO MUNICÍPIO DE ARRAIAL DO CABO. INSURGÊNCIA QUANTO AO PERCENTUAL DOS JUROS COMPENSATÓRIOS E INCIDÊNCIA DE JUROS MORATÓRIOS.PRECLUSÃO. COISA JULGADA.SUPERVENIÊNCIA DO JULGAMENTO DA ADI 2332 PELO STF QUE NÃO IMPLICA EM DESCONSTITUIÇÃO DA COISA JULGADA, O QUE DEVE SER ALVO DE AÇÃO RESCISÓRIA. ARTIGO 535, III E §§ 5 o , 6 o , 7 o E 8 o DO CPC. PAGAMENTO QUE DEVE SER REALIZADO VIA PRECATÓRIO OU REQUISIÇÃO DE PEQUENO VALOR, SE O CASO, TAL COMO DETERMINADO PELA DECISÃO RECORRIDA. DESPROVIMENTO DO RECURSO.
+O recorrente aponta violação do artigo 15-A, do DL 3365/41 c/c 1º-F. da Lei n. 9.494/97, com alterações pela Lei n. 11.960/09, aponta, em síntese, o descabimento da incidência dos juros moratórios, bem como o equívoco no percentual aplicável à título de juros compensatórios.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 100.
+É o relatório. Passo a decidir.
+No que diz respeito à alegação de supostaofensa aos artigos mencionados, o acórdão recorrido consignou o seguinte (fl. 39/46):
+Com efeito, pelo que se infere da análise dos autos, a questão já se encontra acobertada pelo manto sagrado da coisa julgada, tendo em vista que a r. sentença foi mantida em sede de apelação, como se vê do Indexador 39 (Anexo 01), ocasião em que o eminente Desembargador Relator Reinaldo Pinto Alberto Filho negou seguimento ao apelo na forma do artigo 557 do CPC/73, sobrevindo o trânsito em julgado em momento posterior.
+Assim, tem-se que as questões decididas por sentença confirmada por este e. TJRJ encontram-se acobertadas pelo manto sagrado da coisa julgada.
+Nada obstante, impõe-se tecer algumas considerações, considerando o quanto decidido pelo e. STF nos autos da ADI 2332, notadamente em relação aos juros compensatórios, tendo em vista que aquele e. Sodalício entendeu pela constitucionalidade do percentual de 6% previsto no artigo 15-A do DL 3365/41,
+Art. 15-A No caso de imissão prévia na posse, na desapropriação por necessidade ou utilidade pública e interesse social, inclusive para fins de reforma agrária, havendo divergência entre o preço ofertado em juízo e o valor do bem, fixado na sentença, expressos em termos reais, incidirão juros compensatórios de até seis por cento ao ano sobre o valor da diferença eventualmente apurada, acontar da imissão na posse, vedado o cálculo de juros compostos
+Sucede que o v. acórdão da ADI 2332 foi publicado em 15/04/2019, ao passo que o trânsito em julgado nos presentes autos ocorreu em 04/12/2015, como se infere do andamento do AREsp 733.900/RJ.
+Não se ignora que há embargos de declaração pendentes de apreciação no âmbito do e. STF, sendo possível e até mesmo provável que haja modulação de efeitos pela Corte, na forma do artigo 27 da Lei 9868/99, o que, todavia, ainda não ocorreu.
+Não é demasiado assinalar, ainda, que o e. STJ, ao examinar questão de ordem no REsp 1.328.993/CE (Rel. Min. Og Fernandes), a fim de se proceder à revisão das teses repetitivas firmadas e das Súmulas 12, 70, 141 e 408, determinou a suspensão dos processos em trâmite (..)
+(..)
+Muito embora tenha sido determinada "a suspensão de todos os processos em trâmite no território nacional a partir do momento em que a questão em tela - taxa de juros compensatórios aplicável às ações de desapropriação - se apresente, ressalvados incidentes, questões e tutelas interpostas a título geral de provimentos de urgência nos processos objeto do sobrestamento", o aludido comando judicial não se aplica ao caso em apreço. E por uma razão muito simples: o presente feito já se encontra em fase de cumprimento de sentença.
+Ocorre que o recorrente em momento algum impugna a fundamentação de que o feito encontra-se em fase de cumprimento de sentença, e que as questões apontadas estão acobertadas pela coisa julgadanas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. INSURGÊNCIA QUANTO AOS JUROS COMPENSATÓRIOS E MORATÓRIOS.FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF.RECURSO NÃO CONHECIDO.
