@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DO ESTADO DO RIO GRANDE DO SUL S/A, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado (e-STJ, fls. 83/84, e-STJ):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AUSÊNCIA DE INTERESSE RECURSAL.
+Recurso não conhecido quanto ao pedido de limitação dos juros remuneratórios à taxa média de mercado, dada a ausência de interesse recursal. A sentença recorrida manteve a taxa pactuada, na medida em que prevista em valor inferior à taxa média de mercado.
+APLICABILIDADE DAS DISPOSIÇÕES DO CÓDIGO DE DEFESA DO CONSUMIDOR.
+Aplicam-se as disposições do CDC aos negócios jurídicos bancários entabulados entre as instituições financeiras e os usuários de seus produtos e serviços. Inteligência da Súmula 297 do STJ.
+COMISSÃO DE PERMANÊNCIA. Nos termos das Súmulas 294 e 296 e 472 do STJ, considera-se válida a cobrança de comissão de permanência, desde que expressamente pactuada, limitada a taxa dos juros contratuais da normalidade e não cumulada com os demais encargos de mora. Assim, não merece reparo a sentença, porquanto permitiu a incidência da comissão de permanência, contudo afastando a cobrança dos demais encargos moratórias.
+CAPITALIZAÇÃO DOS JUROS. É possível a incidência da capitalização de juros tão-somente nos contratos em que exista previsão de forma expressa, nos termos do entendimento consolidado pelo STJ, quando do julgamento do REsp 1.388.972/SC, submetido ao regime dos recursos repetitivos. No caso concreto, não há previsão expressa acerca da incidência dos juros capitalizados, o que torna inviável sua cobrança. CONHECIDO EM PARTE O RECURSO E, NESTA EXTENSÃO, DADO PARCIAL PROVIMENTO.
+Os embargos de declaração opostos foram rejeitados (fls. 106/113, e-STJ).
+Nas razões do recurso especial, o insurgente alega ofensa aos arts.85, § 2º, I a IV, 86, 1.022, I e II, do CPC/2015; e 5º da MP 2.170-36/2001.
+Sustenta, em síntese: i) negativa de prestação jurisdicional; ii) que há expressa previsão legal e contratual para a capitalização mensal dos juros remuneratórios; iii) necessidade de readequação da verba sucumbencial.
+Não foram apresentadas contrarrazões, conforme certidão acostada à fl. 138, e-STJ.
+Após decisão de admissão do recurso especial (fls. 160-165, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+A irresignação merece prosperar, em parte.
+1. De início, consigne-se que a decisão recorrida foi publicada após aentrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aosrequisitos de admissibilidade do Código de Processo Civil de 2015,conforme Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ nasessão de 9/3/2016.
+2. Observa-se da leitura dos embargos de declaração opostos às fls.97/104(e-STJ), que a parte ora recorrente apontou que houve contratação expressa da capitalização dos juros sob forma de incidência mensal, transcrevendo, inclusive, as clausulas que trouxeram a previsão.
+Sustentou queentendimento sedimentado no STJ é o de que "a previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada", exatamente como estabelecido na cláusula 5 2 do instrumento referido, que evidentemente contempla a capitalização mensal, e cuja incidência se encontra autorizada pelo art. 5º da MP 2.170-36, de 23.08.2001, legislação convalidada pela Emenda Constitucional n"a 32, de 11.09.2001".
+Instada a se manifestar, a Corte Estadual ateve-se a afastar a ocorrênciade nulidade a macular o aresto recorrido.
+É o que se extrai do seguinte trecho do acórdão embargado (fls. 106/111,e-STJ):
+Não se verifica vicio a ensejar esclarecimento ou a integração do acórdão embargado.
+(..)
+Ao contrário do alegado nos declaratórios, não há qualquer contradição no julgado no tópico que versa acerca da capitalização de juros. Isso porque constou de forma expressa no julgado que o Superior Tribunal de justiça, no julgamento do Recurso Especial 1.388.972/SC, submetido ao regime dos recursos repetitivos, entendeu ser admissivel a incidência da capitalização dos juros apenas quando houver previsão contratual expressa. No caso em tela, as cláusulas gerais do contrato de confissão de divida (05-8) não estabelecem expressamente a incidência da capitalização de juros
+(..)
+Desse modo, conclui-se que em verdade, a parte embargante pretende a reforma do julgado, o que não pode ser feito pela via restrita dos embargos de declaração. Esse remédio processual não se presta a provocar a reforma do julgado.
+Tem-se, portanto, que instância de origem deixou de examinar os pontosdefendidos pela insurgente em sede de aclaratórios, razão pela qual,nesses termos, evidencia-se a violação do art. 1.022 do CPC/15, comoalegado no apelo extremo.
+É cediço que o enfrentamento dos pontos aventados pelas partes, além deser uma determinação constitucional (art. 93, IX), visa, sobretudo,possibilitar o acesso das controvérsias de direito às instânciasextraordinárias.
+É dizer que, caso não averiguadas as matérias pelasinstâncias ordinárias, os recursos carecem do necessário prequestionamentoe sequer poderão ser examinados. Exemplo disso são os verbetes contidosnas Súmula 211 do STJ e 282 do STF, que vedam o exame de questões nãoprequestionadas (sem o pronunciamento do órgão a quo sobre as tesesjurídicas em torno dos dispositivos legais tidos como violados).
+Os órgãos julgadores não podem, então, deixar de apreciar e decidir asalegações capazes de alterar o desfecho da demanda. Devem, em sentidooposto, enfrentá-las de modo direito, objetivo e claro, tal comopreconizado pelo art. 93, IX, da Constituição Federal.
+Não à toa são os reiterados posicionamentos deste Superior Tribunal deJustiça reconhecendo a negativa de prestação jurisdicional dos acórdãosque deixam de se manifestar sobre questões relevantes para o deslinde dacontrovérsia.
+Confiram-se, nesse sentido, os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EMRECURSO ESPECIAL. ACÓRDÃO RECORRIDO. OMISSÃO. NULIDADE. RETORNO DOS AUTOSÀ ORIGEM. FATO NOVO. EXAME. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. FUNDAMENTOSDA DECISÃO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 185/STJ E ART. 932, III, DOCPC/2015. DECISÃO MANTIDA.
+(..) 2. Reconhecida a negativa de prestaçãojurisdicional, impõe-se a decretação de nulidade do acórdão dosaclaratórios, determinando-se a baixa dos autos ao Tribunal de origem,para novo julgamento do recurso. (..) 5. Agravo interno a que se negaprovimento. (AgInt nos EDcl no AREsp 1229933/SP, Rel. Ministro ANTONIOCARLOS FERREIRA, QUARTA TURMA, julgado em 16/05/2019, DJe 23/05/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE
+INEXISTÊNCIA DE DÉBITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AOARTIGO 1022 DO CPC DE 2015. AGRAVO INTERNO NÃO PROVIDO.
+1. O conhecimentodo recurso especial exige a manifestação da Corte de Justiça acerca datese de direito arguida. A recusa em pronunciar um juízo de valor arespeito da questão federal impede o acesso da parte interessada àinstância especial. Assim, "caracterizado o vício da omissão, impõe-se oreconhecimento de ofensa ao art. 535 do CPC, anulando-se o acórdãoproferido no julgamento dos embargos de declaração e determinando-se oretorno dos autos à origem para que seja sanada a eiva apontada" (REsp n.1.187.583/RS, Relator o Ministro Castro Meira, julgado em 6/5/2010, DJe17/5/2010). 2. Agravo interno não provido. (AgInt no AREsp 1238907/RS,Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/06/2018,DJe 27/06/2018)
+3. Ante o exposto, dou parcial provimento ao recurso especial, com fulcro no art. 932 do NCPC c/c Súmula 568/STJ, a fim de cassar o acórdão proferido em sede de embargos de declaração (fls. 106/113, e-STJ), determinando-se a remessa dos autos à Corte de origem para apreciação fundamentada a respeito das teses destacadas pela parte nos aclaratórios.
+Publique-se.
+Intimem-se.
