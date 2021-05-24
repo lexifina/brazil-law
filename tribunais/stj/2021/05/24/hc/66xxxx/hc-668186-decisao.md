@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de CAIQUE SOARES FREITAS e de GENILSON DA SILVA SOARES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento da Apelação Criminal n. 1502054-59.2020.8.26.0616, assim ementado:
+"APELAÇÃO CRIMINAL Roubos circunstanciados pelo concurso de agentes em concurso formal e continuidade delitiva Sentença de parcial procedência Inconformismo do MP e dos dois corréus Preliminar de não conhecimento do recurso MP não acolhida Mérito do recurso ministerial que merece parcial acolhida Provas suficientes de que os réus cometeram também o roubo em detrimento da vítima Valdívio Circunstâncias da prisão em flagrante, depoimento das vítimas do crime subsequente e do policial militar, que autorizam a condenação também pelo roubo pleiteado pelo MP Recurso defensivo, por outro lado, não provido Reconhecimento das vítimas seguros e firmes Negativas de autorias que não se sustentam Condenações mantidas, acrescido o roubo pretendido pelo MP, em continuidade delitiva - Dosimetrias penais refeitas 1ª fase que merece destaque negativo pelas consequências do crime para ambos Má conduta social destacada para Caíque Agravante da calamidade pública que não merece subsistir - Fração da continuidade delitiva que se so bressai à do concurso formal, cf. jurisprudência Aumento de 1/5 aplicado Regime fechado para ambos, em razão das circunstâncias judiciais negativas de um e, reincidência e quantidade de pena de outro Detração penal relegada ao Juízo das Execuções - Pedido mínimo-indenizatório parcialmente acolhido Recurso da defesa não provido.
+Recurso ministerial parcialmente provido" (fl. 76).
+No presente writ, o impetrante sustenta que o aumento da pena-base dos pacientes foi injustificado, eis que fundado no fato de que o veículo roubado apresentou avarias, circunstância elementar do delito em questão.
+Assevera que o aumento da pena-base de Caíque, amaparado na alegação de que ele praticou o crime durante o cumprimento de pena em regime aberto, configurou indevido bis in idem com a reincidência.
+Alega que não há motivação concreta para a fixação do regime prisional fechado, bem como defende que se faça a detração do tempo de prisão cautelar, conforme o art. 387, § 2º do CPP, para abrandar o regime inicial para o semiaberto.
+Argumenta que não cabe ao Juiz estipular o valor da reparação , sem oportunizar o contraditório e a ampla defesa, pois a sentença condenatória servirá de título executivo na esfera civil.
+Requer, em liminar, a expedição de alvará de soltura em favor dos pacientes e, no mérito, a revisão das penas-bases aplicadas.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+No caso, ao menos em juízo perfunctório, não é possível identificar de plano o constrangimento ilegal aventado ou, ainda, a presença do fumus boni iuris e do periculum in mora, elementos autorizadores para a concessão da tutela de urgência.
+Confundindo-se com o mérito, a pretensão deve ser submetida à análise do órgão colegiado, oportunidade na qual poderá ser feito exame aprofundado das alegações relatadas após manifestação do Parquet.
+Por tais razões, indefiro o pedido de liminar.
+Devidamente instruídos os autos, encaminhem-se ao Ministério Público Federal para parecer.
+Publique-se.
+Intimem-se.
