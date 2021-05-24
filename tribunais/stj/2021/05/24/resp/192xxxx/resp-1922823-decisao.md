@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ADRIANA ROSA DE OLIVEIRA, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 404, e-STJ):
+APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA FECHADA.BRASLIGHT. AÇÃO AJUIZADA POR EX-COMPANHEIRA DE PARTICIPANTE PUGNANDO O RECONHECIMENTO DO DIREITO Ã CONCESSÃO DE PENSÃO SUPLEMENTAR POR MORTE. SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA DA RÉ AO ARGUMENTO DE QUE O PARTICIPANTE FALECIDO NÃO INDICOU QUALQUER BENEFICIÁRIO PARA O RECEBIMENTO DA VERBA PRETENDIDA. REGULAMENTO DO PLANO QUE ADMITIA A INCLUSÃO DE BENEFICIÁRIOS APÓS A DATA DA APOSENTADORIA, DESDE QUE REALIZADO O APORTE CORRESPONDENTE AO AUMENTO DA RESERVA MATEMÁTICA. NÃO INDICAÇÃO DA AUTORA COMO BENEFICIÁRIA E CONSEQUENTE NÃO CONSTITUIÇÃO DE RESERVA PARA O PAGAMENTO DA SUPLEMENTAÇÃO POR MORTE. CARÁTER PESSOAL DAS CONTRIBUIÇÕES. PAGAMENTO DE QUALQUER BENEFÍCIO OU CONCESSÃO DE VANTAGEM QUE DEVERÁ SER PRECEDIDO DE CÁLCULO ATUARIAL PARA QUE O EQUILÍBRIO E O COMPROMISSO PREVIDENCIÁRIO POSSAM SER PRESERVADOS.REFORMA DA SENTENÇA QUE SE IMPÕE. PROVIMENTO DO RECURSO.
+Nas razões do recurso especial (fls. 450/453, e-STJ), aparteinsurgente aduz, em suma,que o Órgão Previdenciário Federal já reconheceu sua condição de dependência em relação ao falecido marido, razão pela qual faz jus a essa condição também junto à entidade deprevidência privada, decorrendo dessa dependência o direito ao recebimento de pensão suplementar por morte.
+Contrarrazões às fls. 507/527.e-STJ.
+Admitido o recurso especial na origem (fls. 548/550, e-STJ), ascenderam os autos a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1.A parte insurgente, consoante relatado, afirmaque o Órgão Previdenciário Federal já reconheceu sua condição de dependência em relação ao falecido marido, razão pela qual faz jus a essa condição também junto à entidadede previdência privada, decorrendo dessa dependência o direito ao recebimento de pensão suplementar por morte.
+Todavia, da leitura das razões do apelo nobre, denota-se que ainsurgentenão apontouos dispositivos legais supostamente vulnerados, o que inviabiliza a compreensão da controvérsia, porquanto, consoante a jurisprudência deste Sodalício, o recurso especial é de fundamentação vinculada, no qual o efeito devolutivo se opera tão-somente nos termos do que foi impugnado. Assim, a ausência de indicação expressa de dispositivos legais tidos por violados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+Dessa forma, é de rigor a incidência do enunciado sumular n. 284 do Supremo Tribunal Federal:
+"É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. FINANCIAMENTO IMOBILIÁRIO. "TABELA PRICE". AFASTAMENTO. DECISÃO NÃO FUNDAMENTADA NO CDC. AUSÊNCIA DO INTERESSE DE RECORRER. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. SÚMULA N. 284 DO STF. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. "A ausência de utilidade do recurso, porquanto o acórdão não se baseou, no caso concreto, nas normas que se pretende afastar, enseja a falta de interesse de recorrer" (AgRg no AREsp n. 471.181/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 5/11/2015, DJe 10/11/2015).
+2. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+3. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. "Nos contratos celebrados no âmbito do Sistema Financeiro da Habitação, é vedada a capitalização de juros em qualquer periodicidade. Não cabe ao STJ, todavia, aferir se há capitalização de juros com a utilização da Tabela Price, por força das Súmulas 5 e 7" (REsp n. 1.070.297/PR, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 9/9/2009, DJe 18/9/2009 - tese fixada sob o rito do art. 543-C do CPC/1973).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 748.828/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/05/2019, DJe 30/05/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. AUSÊNCIA DE INDICAÇÃO DO ARTIGO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. ALÍNEA C. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. A recorrente não apontou o dispositivo tido por violado a fim de viabilizar o conhecimento da insurgência sobre a matéria, providência obrigatória inclusive para os reclamos interpostos pela alínea c. Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1543665/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020)
+2. Do exposto, com fulcro no art. 932 do NCPC c/c Súmula 568 do STJ, nega-seprovimento ao recurso especial. Com fundamento no artigo 85, § 11, do CPC, majora-se os honorários sucumbenciais para 12% sobre o valor da causa, observando-se o disposto no artigo 98, § 3º.
+Publique-se.
+Intimem-se.
