@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por Andre Luiz Zelenkovas Araujo contra a decisão proferida pelo Tribunal de Justiça de São Paulo, que, em juízo de admissibilidade, negou seguimento ao recurso especial por ele apresentado, impugnando, por sua vez, o acórdão prolatado na Apelação Criminal n. 1503822-40.2018.8.26.0050 (fls. 179/182).
+Nas razões do especial, a Defensoria Pública apontou contrariedade aos arts. 17, 33, § 2º, c, e 155 do Código Penal e 386, III, do Código de Processo Penal. De início, sustentou a atipicidade da conduta, em razão da ocorrência de crime impossível (fls. 199/203), contestando, ainda, a fixação do regime semiaberto (fls. 203/207). Requereu, ao final, a absolvição do agravante, por atipicidade da conduta, ou a fixação do regime aberto para o início do cumprimento da pena (fl. 207).
+Apresentadas contrarrazões (fls. 212/222), o Tribunal local negou seguimento ao recurso, com base no Recurso Especial Repetitivo n. 1.385.621/MG (Tema 924), inadmitindo-o, no mais, por incidência das Súmulas 284/STF, 83 e 269/STJ (fls. 225/227).
+Daí o presente agravo (fls. 233/238). Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do agravo (fls. 278/281).
+É o relatório.
+O agravo deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Busca a Defensoria Pública a absolvição do ora agravante, com o reconhecimento da ocorrência de crime impossível, bem como a fixação do regime aberto para início do cumprimento de pena.
+Na sentença, o Magistrado de primeiro grau teceu as seguintes considerações (fls. 111/112):
+ ..  No dia 28 de outubro de 2018, Matheus Galvão da Silva, fiscal do hipermercado Carrefour, estava em seu turno de trabalho quando avistou um indivíduo, posteriormente identificado como ANDRE LUIZ, colocando em seu carrinho de compras 05 pacotes de camarão e 02 pistolas de brinquedo, mercadorias que totalizavam R$ 747,98.
+Resolveu acompanhar o réu pelo estabelecimento, devido ao elevado valor dos pacotes e viu quando ANDRE LUIZ colocou a mercadoria na mochila que carregava.
+Na sequência, o funcionário Antonelson Gusmão Viana foi avisado e visualizou o acusado sair pelos caixas, em efetuar o pagamento. Informou que o réu foi detido pelos fiscais no estacionamento do estabelecimento.
+Ambas as testemunhas reconheceram o réu, sem sombra de dúvidas, em juízo.
+O réu tanto na fase policial, como em juízo confessou a prática delitiva e declarou que pretendia revender os pacotes de camarão para conseguir dinheiro para pagar o aluguel, visto que está desempregado e tem cinco filhos para sustentar.
+A procedência da ação penal, portanto, é de rigor.
+A defesa pede o reconhecimento de crime impossível, em razão da absoluta ineficácia do meio, haja vista que a conduta do réu foi monitorada de forma contínua e ininterrupta, tornando impossível a consumação do delito. A esse respeito, cito a Súmula 567 do Supremo Tribunal de Justiça: "Sistema de vigilância realizado por monitoramento eletrônico ou por existência de segurança no interior de estabelecimento comercial, por si só, não torna impossível a corliguração do crime de furto".
+Ademais, reitera a jurisprudência:
+ ..
+Assim, não havendo a absoluta impossibilidade de consumação do delito, não se caracteriza a hipótese de crime impossível.  ..
+O Tribunal de origem, por sua vez, consignou que não houve crime impossível. A circunstância de funcionário do estabelecimento ter presenciado o desenvolvimento da conduta delituosa não obstaculiza a configuração do delito patrimonial. Além do mais, crime impossível é irrealizável, impraticável, é aquele no qual se comete a ação, ou a omissão, mas pela ineficácia absoluta a conduta sequer alcança a tipificação criminal. Bem diverso do caso em tela (fl. 181).
+De fato, a Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.385.621/MG, DJe 2/6/2015, julgado sob o rito do art. 543-C, § 2º, do Código de Processo Civil, consolidou o entendimento de que a existência de sistema de segurança ou de vigilância eletrônica não torna impossível, por si só, o crime de furto cometido no interior de estabelecimento comercial.
+O tema está inclusive sedimentado na Súmula 567/STJ, segundo a qual sistema de vigilância realizado por monitoramento eletrônico ou por existência de segurança no interior de estabelecimento comercial, por si só, não torna impossível a configuração do crime de furto.
+Como, no presente caso, um funcionário do estabelecimento comercial observou o ora agravante colocando em seu carrinho de compras 5 pacotes de camarão e 2 pistolas de brinquedo, mercadorias que totalizavam R$ 747,98, colocando, posteriormente, a referida mercadoria na mochila que carregava, e, na sequência, outro funcionário visualizou o acusado sair pelos caixas, não se mostra possível falar em crime impossível, nos termos da Súmula 567/STJ.
+Inafastável, portanto, a incidência das Súmulas 83, 567 e 568 desta Corte, visto que o acórdão recorrido não destoou da orientação jurisprudencial desta Corte.
+Confiram-se o AgRg no HC n. 582.107/RJ, de minha relatoria, Sexta Turma, DJe 24/8/2020; e o AgRg no HC n. 583.297/SC, Ministro Felix Fischer, Quinta Turma, DJe 25/8/2020.
+De mais a mais, rever os fundamentos utilizados pelo Tribunal de Justiça, com o fim de concluir pela absolvição do acusado pela ocorrência do crime impossível, tal como postulado pela defesa, importaria revolvimento de matéria fático-probatória, o que é vedado em recurso especial, consoante o óbice da Súmula 7/STJ (AgRg no AREsp n. 1.553.311/AL, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 22/11/2019).
+Quanto ao art. 33, § 2º, c, do Código Penal, sem razão a defesa.
+Colhe-se da sentença (fl. 112): tratando-se de réu reincidente, não faz jus à substituição da pena corporal por reprimendas alternativas e, pelo mesmo motivo, o regime prisional adequado é o semiaberto.
+Agiu com acerto a instância ordinária: inviável a pretensão de fixação do regime inicial aberto, em vista da reincidência do agravante, fundamento idôneo e válido para o agravamento do regime prisional para o semiaberto, consoante orientação do art. 33, §§ 2º e 3º, do Código Penal, e Súmula 269/STJ. A esse respeito: AgRg no AREsp n. 1.799.017/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 26/4/2021; e AgRg no REsp n. 1.894.347/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 10/12/2020.
+Pelo exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO. PLEITO DE ABSOLVIÇÃO. CRIME IMPOSSÍVEL.DESCABIMENTO. SÚMULA 567/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. REVISÃO. SÚMULA 7/STJ. REGIME SEMIABERTO. REINCIDÊNCIA. FUNDAMENTAÇÃO IDÔNEA. SÚMULA 269/STJ.
+Agravo conhecido para negar provimento ao recurso especial.
