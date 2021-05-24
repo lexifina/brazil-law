@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo regimental interposto por FRANCISCO LUCIO GOMEScontra decisão de e-STJ fls. 8.377/8.380, da lavra do Ministro Ericson Maranho (Desembargador convocado do TJSP), que não conheceu do seu agravo.
+Depreende-se dos autos que o agravante foi condenado, pela prática do crime previsto no art. 288 (associação criminosa), à pena de 2 anos e 6 meses de reclusão.
+No recurso especial, a defesa apontou violação aos seguintes dispositivos legais: "a) artigos 5º e 8º, ambos da Lei 9.296/1996, sustentando que não foram procedidas as transcrições completas das interceptações telefônicas, bem como a mesma foi prorrogada por diversas vezes, em desrespeito à legislação aplicável;b) artigos 288 do Código Penal, e 41 do CPP, por não ter restado demonstrada a presença dos requisitos da estabilidade e da permanência da associação para caracterização do crime de formação de quadrilha;c) artigo 580 do CPP, alegando que deveria ter sido absolvido como os acusados Waldemar, Vicente e Antônio, uma vez que se encontra em situação processual idêntica;d) artigos 59 e 68, ambos do Código Penal, porquanto a pena-base deveria ter sido fixada no mínimo legal, por entender que as circunstâncias judiciais e agravantes empregadas para exasperar a reprimenda são elementares do tipo"(e-STJ fl. 7.817/7.818).
+Inadmitido o recurso na origem, os autos subiram a esta Corte Superior por força de agravo.
+Às e-STJ fls. 8.377/8.380, o Ministro Ericson Maranho proferiu decisão não conhecendo do agravo em recurso especial, entendendo pela incidência da Súmula n. 182/STJ.
+Nas razões do presente agravo regimental, alega o agravante que, ao contrário do que ficou decidido, todos os fundamentos da decisão que deixou de admitir o apelo nobre foram adequadamente impugnados.
+Assim, requer a reconsideração da decisão agravada ou, caso contrário, a submissão da matéria ao colegiado.
+É o relatório.
+Decido.
+De fato, tenho que os fundamentos da decisão de inadmissibilidade do apelo nobre foram suficientemente impugnados nas razões do agravo em recurso especial, motivo pelo qual reconsidero a decisão ora agravada.
+Outrossim, observo, de plano, a viabilidade do recurso especial, especialmente quanto às teses aventadas acerca da dosimetria da reprimenda - uma vez que não implicam o revolvimento de matéria fático-probatória - e foram devidamente prequestionadas pelo Tribunal de origem.
+Antes de analisar o mérito do recurso, no entanto, observo a perda do seu objeto, tendo em vista que a pretensão punitiva está prescrita.
+Com efeito, tendo em vista que a reprimenda não excede a 4 anos, a prescrição ocorre em 8 anos, nos termos do art. 109, IV, do Código Penal.
+Desse modo, é de rigor o reconhecimento da prescrição da pretensão punitiva, tendo em vista o transcurso desse lapso prescricional entre a publicação da sentença condenatória, último marco interruptivo (25/11/2010, e-STJ fl. 4.825), e a presente data.
+Digno de nota ressaltar que, em 24/11/2020, a Sexta Turma deste Tribunal Superior, no julgamento do HC n. 603.139/SP, relator Ministro Rogerio Schietti Cruz, consignou que a Lei n. 11.596/2007, que alterou a redação do art. 117, IV, do Código Penal, considerando o acórdão recorrido como marco interruptivo, por ser "lei penal mais gravosa - porque criou um novo marco interruptivo da prescrição - não pode retroagir para alcançar os acusados por crimes ocorridos em datas anteriores" (julgado em 24/11/2020, DJe 2/12/2020).
+Na espécie, a conduta do agravante ocorreu antes da entrada em vigor da referida modificação, de modo que deve ser considerada, como último marco interruptivo, a data da publicação da sentença condenatória.
+Ante o exposto, reconsidero a decisão de e-STJ fls. 8.377/8.380 e, com fulcro no art. 109, IV, do Código Penal, c/c o art. 61 do Código de Processo Penal, declaro extinta a punibilidade do agravante, pela prescrição da pretensão punitiva, e julgo prejudicado o recurso.
+Publique-se. Intimem-se.
