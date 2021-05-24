@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por WALTER VIEIRA DOS SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Justiça gratuita - A todo tempo e mediante simples declaração dá-se a qualquer dos litigantes pedir o benefício da assistência judiciária gratuita, que, porém, não se defere se as circunstâncias desmentirem a alegação de pobreza - Agravo não provido. (fl. 13).
+Quanto à controvérsia apresentada, pela alínea "a" do permissivo constitucional, alega violação dos art. 99, §3º, do CPC e art. 4º da Lei 1.060/50, no que concerne à necessidade de concessão da gratuidade da justiça ao recorrente, trazendo os seguintes argumentos:
+ ..  o V. Acordão deduziu contra texto infraconstitucional esculpido no §3º do artigo 99 do CPC, visto que a prova em que atestou a hipossuficiência do Recorrente, restou revelada pela concessão de auxílio emergencial, o que evidencia ser isento a declaração de imposto de renda conforme podemos atestar os critérios conferidos pela União para fins de conferir o benefício aos brasileiros.
+Assim, há expressa infringência a teor do §3º do artigo 99 do CPC  ..
+ ..
+Observa-se que o Legislador ao deliberar quanto ao §3º do artigo 99 do CPC, manteve o entendimento do artigo 4º da Lei nº 1060/50, onde ratificaram com o advindo do CPC, a manutenção do entendimento da presunção de incapacidade econômica da pessoa natural.
+Ora a C. Câmara Julgadora, asseverou em seu entendimento de que a presunção de hipossuficiência trazida com a declaração de pobreza, não é absoluta mais sim relativa, fato que por si só infringe frontalmente a teor do §3º ora pugnado no presente clamor.
+Na verdade, dos fatos a presunção é objetiva, sendo somente obstada com a impugnação da parte contraria.
+O fato pitoresco e inusitado é que além da declaração de pobreza, o Recorrente acostou declaração de renda, demonstrando renda mínima passível da concessão da benesse perquirida, sendo somente obstado a concessão em razão de sua renda patrimonial e por este ter contratado Patrono Particular, o que com a  devida vênia  também não pode prosperar, ante o próprio entendimento do quanto esculpido no §3º do artigo 99 do CPC. (fls. 23-24).
+Diante disto, verifica-se S. M. J. que a concessão dos benefícios da assistência jurídica gratuita deve ser conferida ao Recorrente, reconhecendo este C. STJ da infringência do disposto no §3º do artigo 99 do CPC, bem como artigo 4º, da Lei nº 1060/50  ..  (fl. 26).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia exposta, o Tribunal de origem se manifestou nos seguintes termos:
+Neste caso, pese a declaração de hipossuficiência  .. , não foi comprovada a alegação de que o agravante seja juridicamente pobre.
+Para comprovar a necessidade do benefício, o réu se qualificou como "pedreiro"  ..  e juntou cópia parcial da sua carteira de trabalho.
+ ..
+O agravante foi intimado para comprovar a necessidade do benefício, em 1º grau, com a juntada das suas três últimas declarações de renda e de cópia da sua CTPS, ou, ainda, de cópias dos extratos bancários de conta da sua titularidade e cópias dos extratos de cartão de crédito referentes aos últimos três meses  .. . O agravante, contudo, juntou apenas o extrato de que está recebendo auxílio emergencial  .. .
+Ocorre que o agravante se qualificou como "empresário" no contrato de locação  ..  e não apresentou cópias das suas últimas declarações de renda nem juntou outras cópias que comprovassem qual é sua renda atual nem quais são os seus gastos.
+O fato de ter sido beneficiado pelo auxílio emergencial  ..  não basta para comprovar sua impossibilidade financeira, já que muitas pessoas receberam o auxílio de forma indevida, como foi noticiado e divulgado amplamente pela imprensa.
+O agravante teve seu pedido negado em 1º Grau e, mesmo assim, não trouxe os documentos solicitado ao agravo, para comprovar a necessidade do benefício.
+Não há nada nos auto que demonstre quais são os rendimentos do agravante, não sendo possível presumir que "empresário" não tenha condições de suportar os gastos com a demanda, sem prejuízo do próprio sustento.
+E, embora o § 2º do artigo 99 do Código de Processo Civil assegure à parte o direito de comprovar que faz jus ao benefício, antes dele ser indeferido, não vieram aos autos, nem mesmo com o agravo, provas convincentes da impossibilidade financeira alegada.
+Em suma, não tendo o agravante demonstrado que necessita do benefício da assistência judiciária gratuita, não havia mesmo causa para a sua concessão. (fls. 14-15).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
