@@ -1,0 +1,77 @@
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. COMPRA E VENDA. RESCISÃO CONTRATUAL. CLÁUSULA PENAL. PROPORCIONAL. USO DO IMÓVEL POR MAIS DE 7 (SETE) ANOS. COMPENSAÇÃO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO INFRACONSTITUCIONAL. SÚMULA Nº 284/STF. ALTERAÇÃO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO ESTADUAL. INEXISTÊNCIA.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. A ausência de indicação de dispositivo infraconstitucional violado ou sobre o qual recaia o dissídio jurisprudencial atrai a aplicação do óbice contido na Súmula nº 284/STF.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória e interpretar cláusulas contratuais (Súmulas 5 e 7/STJ).
+4. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+5. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora. Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face de decisão por meio da qual neguei provimento ao agravo em recurso especial.
+Em seu recurso, a parte agravante alegou que o Tribunal de origem foi omisso em relação à aplicação dos artigos 413 e 475 do Código Civil, não havendo que se falar também na incidência dos óbices sumulares n. 5 e 7 do STJ para seja reduzida a multa contratual. Reiterou, ainda, os fundamentos referentes à correção monetária e honorários advocatícios.
+A parte agravada, regularmente intimada, não se manifestou.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. COMPRA E VENDA. RESCISÃO CONTRATUAL. CLÁUSULA PENAL. PROPORCIONAL. USO DO IMÓVEL POR MAIS DE 7 (SETE) ANOS. COMPENSAÇÃO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO INFRACONSTITUCIONAL. SÚMULA Nº 284/STF. ALTERAÇÃO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO ESTADUAL. INEXISTÊNCIA.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. A ausência de indicação de dispositivo infraconstitucional violado ou sobre o qual recaia o dissídio jurisprudencial atrai a aplicação do óbice contido na Súmula nº 284/STF.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória e interpretar cláusulas contratuais (Súmulas 5 e 7/STJ).
+4. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+5. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Assinalo que os frágeis argumentos desenvolvidos pelo agravante não têm plausibilidade jurídica para infirmar a conclusão da decisão impugnada, visto que apenas reiterados os argumentos do recurso especial, razão pela qual o presente recurso não merece prosperar.
+Da análise das razões despendidas no agravo interno, saliento que o agravante sequer impugnou a aplicação do óbice contido no enunciado sumular nº 283/STF, fundamento utilizado pela decisão ora agravada para consignar que a parte recorrente não refutou a afirmação do Tribunal de origem de "que o agravante deveria arcar com as parcelas do contrato de financiamento vencidas no período em que esteve na posse do imóvel, haja vista o tempo transcorrido de aproximadamente 7 (sete) anos em que o agravado ficou privado dos frutos civis e outras vantagens pecuniárias decorrentes da utilização do imóvel", razão pela qual o pedido de restituição das parcelas pagas do financiamento foi negado.
+Com efeito, nos termos do disposto no artigo 932, III, do novo Código de Processo Civil, incumbe ao relator, de forma singular, negar seguimento a recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, o que verifico nos presentes autos em relação a todos os argumentos utilizados na fundamentação da decisão ora recorrida.
+Assim sendo, imperioso concluir que o presente agravo interno esbarra no óbice previsto pela Súmula 182, deste Tribunal, que dispõe que "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (atual artigo 1.021, do novo Código de Processo Civil).
+Assim se manifesta esta Corte:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. COMPROVAÇÃO DA MORA. CONTRATO DE FINANCIAMENTO COM GARANTIA FIDUCIÁRIA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA (STJ). INTERPOSIÇÃO DE SEGUNDO AGRAVO REGIMENTAL. ERRO GROSSEIRO. INTEMPESTIVIDADE.
+1. O agravo regimental não impugnou especificamente toda a fundamentação da decisão agravada, o que atrai a incidência da Súmula 182 do STJ.
+2. A interposição de recurso manifestamente incabível não interrompe ou suspende o prazo para a interposição de outros recursos, nem impede o trânsito em julgado do acórdão ou decisão inadequadamente impugnados. Intempestividade do recurso especial. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 750.225/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/12/2015, DJe 1/2/2016)
+PROCESSUAL CIVIL. MEDIDA CAUTELAR. NEGATIVA DE SEGUIMENTO. AGRAVO REGIMENTAL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 182 DO STJ. INCIDÊNCIA.
+1. Quando a parte recorrente não traz, na minuta do agravo regimental, impugnação integral e específica aos fundamentos da decisão recorrida, há de ser aplicada a Súmula nº 182 do Superior Tribunal de Justiça ao caso.
+2. Ademais, não há como dar efeito suspensivo a recurso especial inadmitido na origem quando, do exame do acórdão recorrido, este não se revela teratológico, na medida em que constatado que o valor levantado pelo agravante não foi reconhecido em sua integralidade como seu e, mais ainda, que, instado por diversas vezes a devolver o que não lhe era devido, jamais o fez. Assim, por se tratar de uma forma de se dar efetividade à determinação judicial não cumprida de restituição de valores - no caso, a única que restou -, não seria o caso de impenhorabilidade salarial, notadamente quando foram dadas reiteradas oportunidades para a devolução da quantia.
+3. Agravo regimental não provido.
+(AgRg na MC 24.495/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/12/2015, DJe 2/2/2016)
+Outrossim, ainda que assim não o fosse, reitero que rever as conclusões do acórdão recorrido, firmadas no sentido de que a cláusula penal não era excessiva, seria necessária a revisão de cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, o que é vedado nesta instância especial, consoante entendimento das Súmulas 5 e 7/STJ.
+É o que se depreende da leitura do seguinte trecho (e-STJ fls. 622/624):
+"Não se controverte que o ora apelante deu causa a rescisão do contrato de promessa de compra e venda, ante a confessada inadimplência das parcelas do financiamento do imóvel, tributos e encargos condominiais.
+É certo que o inadimplemento contratual do réu acarretou prejuízos consideráveis ao autor, que recebeu cartas de cobrança no local de trabalho, suportou duas ações judiciais movidas em seu desfavor pelo Condomínio do Edifício, teve seu nome publicado em jornais e inscrito na Dívida Ativa da Fazenda Pública do Distrito Federal.
+Ainda, em razão do inadimplemento, foram somados ao débito perante a Caixa Econômica Federal encargos moratórios, aumentando-se consideravelmente a dívida, que permanece sob a responsabilidade do autor, tendo em vista que o financiamento continua em seu nome.
+Considerando que na apuração do valor da cláusula penal não deverá ser levando em conta os deveres acessórios das partes, especificamente, o saldo devedor do financiamento junto a Caixa Econômica Federal, mas tão somente o valor efetivamente pago pelo ágio, bem assim, ante aos prejuízos advindos do inadimplemento contratual, tenho que a cláusula penal, conforme estabelecida originalmente pelas partes, ante as peculiaridades do caso sub judice, não se apresenta excessiva.
+( )
+A r. sentença impõe ao réu arcar com as parcelas do contrato de financiamento do imóvel junto à Caixa Econômica Federal, vencidas no período em que esteve na posse do imóvel, haja vista o tempo transcorrido de aproximadamente 07 (sete) anos que o autor ficou privado dos frutos civis e outras vantagens pecuniárias decorrentes da utilização do imóvel.
+Rescindida a avença, impõe-se o retorno das partes ao status quo ante, recebendo o cedente o imóvel de volta e o cessionário, em regra, tudo quanto pagou, ou seja, ágio e prestações junto à CEF.
+Todavia, é cediço que o uso gratuito do imóvel durante o período de inadimplência enseja o pagamento de lucros cessantes ao cedente impedido de utilizar o bem, sob pena de enriquecimento indevido.
+Cumpre, portanto, ao réu, ressarcir ao autor o tempo em que esteve na posse do apartamento. Nesse sentido já se manifestou esta colenda Segunda Turma Cível. Confira-se:
+( )
+Ressalto que o réu não se insurge quanto ao valor referente a reparação a título de lucros cessantes, balizada pelas prestações do financiamento do imóvel, sob o fundamento de que se mostra excessiva, ou seja, superior ao que o autor poderia auferir pelo uso ou aluguel do imóvel, mas tão somente aduz que tem direito à devolução do montante pago do financiamento."
+No tocante à alegação de omissão, o recorrente não possui o direito de ter todos os argumentos alegados rebatidos, cabendo ao tribunal analisar e debater as questões principais para o deslinde da controvérsia.
+Ademais, não configura omissão, obscuridade ou contradição o fato de o acórdão ter sido proferido em sentido contrário ao desejado pelo recorrente.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados.
+A propósito, confiram os seguintes julgados: PET no AgInt no AREsp 1293428/PE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/3/2019, DJe 26/3/2019; EDcl no REsp 1741681/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/3/2019, DJe 22/3/2019.
+Especificamente quanto à apontada omissão em relação ao artigo 476, além de a parte agravante alegar genericamente a sua violação sem, contudo, demonstrar de forma clara como a decisão teria violado, saliento que somente há que se falar em omissão sobre aquilo que a Corte de origem foi instada previamente a se manifestar, o que não aconteceu no caso em debate.
+Por sua vez, em relação à correção monetária, assevero que a parte agravante, nas razões do recurso especial não admitido, não indicou quais dispositivos de lei federal entendeu por violados ou sobre quais recairia dissídio jurisprudencial, de modo a permitir o conhecimento do recurso especial com espeque na alínea "a" ou "c" do inciso III do artigo 105, da Constituição Federal.
+Assim sendo, imperioso concluir pela incidência da Súmula nº 284, do Supremo Tribunal Federal, visto que a deficiência na fundamentação do recurso não permitiu a exata compreensão da controvérsia.
+A propósito:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. VÍTIMA FATAL. TERMO INICIAL DOS JUROS DE MORA. EVENTO DANOSO. SÚMULA 54/STJ. TERMO FINAL DO PENSIONAMENTO. SÚMULA 284/STF. DANOS MORAIS. VALOR RAZOÁVEL.
+1. Segundo o entendimento majoritário da Segunda Seção, sufragado no REsp 1.132.866/SP (julgado em 23.11.2011), no caso de indenização por dano moral puro decorrente de ato ilícito os juros moratórios legais fluem a partir do evento danoso (Súmula 54 do STJ). Ressalva do ponto de vista pessoal da Relatora.
+2. Aplica-se a orientação contida no enunciado n. 284 da Súmula do STF quando a tese defendida no recurso especial interposto com base nas alíneas "a" e "c" do art. 105, III, da CF não vem embasada em alegação de violação a dispositivo de lei federal dito violado ou em divergência jurisprudencial.
+3. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que a verba indenizatória, consideradas as circunstâncias de fato da causa, foi estabelecida pela instância ordinária em conformidade com os princípios da proporcionalidade e razoabilidade.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1432383/GO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/6/2014, DJe 01/8/2014)
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. FUNGIBILIDADE RECURSAL. RECEBIMENTO COMO AGRAVO INTERNO. REINTEGRAÇÃO DE POSSE. INADEQUAÇÃO DA VIA ELEITA. VIOLAÇÃO DO ART. 535 DO CPC/1973. SÚMULA Nº 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. DISSÍDIO JURISPRUDENCIAL. ARTIGO DE LEI. VIOLAÇÃO. AUSÊNCIA DE INDICAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF.
+1. Em homenagem ao princípio da fungibilidade recursal, os presentes embargos de declaração são recebidos como agravo regimental.
+2. Inviável a análise de ofensa ao art. 535 do Código de Processo Civil de 1973, visto que não foram opostos declaratórios contra o acórdão impugnado na via do recurso especial, o que atrai o óbice da Súmula nº 284/STF.
+3. Ausente o prequestionamento, até mesmo de modo implícito, de dispositivos apontados como violados no recurso especial, incide o disposto na Súmula nº 282/STF.
+4. O recurso especial fundamentado no dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado o tema sob o enfoque do mesmo dispositivo de lei federal.
+5. Se a divergência não é notória, e nas razões de recurso especial não há a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+Precedentes.
+6. Agravo interno não provido.
+(EDcl no REsp 1593380/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/11/2016, DJe 24/11/2016)
+Por fim, a revisão de honorários advocatícios, seja do percentual devido de sucumbência ou do valor arbitrado, no âmbito do recurso especial, restringe-se às hipóteses de valores irrisórios ou exorbitantes, o que não se observa no caso presente, em que foi fixado em 15% (quinze por cento) sobre o valor da condenação em desfavor do agravante, com observância do grau de zelo profissional, do lugar da prestação do serviço, da natureza e importância da causa, do trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Em face do exposto, nego provimento ao agravo interno.
+É o voto.
