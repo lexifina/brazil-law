@@ -1,0 +1,26 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por PENEDO AGRO INDUSTRIAL S/A - EM RECUPERAÇÃO JUDICIAL, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado (e-STJ, fl. 209):
+TRIBUTÁRIO. APELAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. MULTA ADMINISTRATIVA. INFRAÇÃO AMBIENTAL. PRAZO PRESCRICIONAL QUINQUENAL. INTERRUPÇÃO COM O DESPACHO DE CITAÇÃO. PRESCRIÇÃO NÃO CONFIGURADA. PROCESSO ADMINISTRATIVO. CERCEAMENTO DE DEFESA NÃO DEMONSTRADO. ALEGAÇÕES GENÉRICAS. HONORÁRIOS. RAZOABILIDADE. IMPROVIMENTO.
+1.Tratando-se de cobrança de multa administrativa aplicada em razão de infração ao meio ambiente, o prazo prescricional da pretensão executória é de cinco anos (REsp 1115078/RS, julgado como recurso repetitivo) e o despacho do juiz que ordena a citação no processo de execução fiscal é causa interruptiva desse prazo (REsp 1115078/RS, julgado como recurso repetitivo).
+2. No caso concreto, conforme destacou o juiz sentenciante, o crédito foi constituído em16/08/1993 e o despacho de citação no executivo fiscal foi proferido em 30/09/1997.Ainda que se considerasse o termo inicial apontado pela executada em seu apelo(22/07/1993), não restaria configurado o transcurso do prazo quinquenal.
+3. Observando-se o processo administrativo, que foi juntado aos autos (fls. 30/87), não se enxerga nenhum vício ou irregularidade: o procedimento seguiu a adequada tramitação legal, o executado teve momento para se manifestar no processo (fls. 49/50),a decisão que rejeitou os argumentos da parte embargante foi devidamente motivada(fls. 62/64) e, por fim, houve notificação devida (fl. 70).
+4. Ressalte-se que alegações genéricas de ofensa à ampla defesa e ao contraditório não se prestam para afastar a presunção de certeza e liquidez de que se reveste o título executivo. Mesmo não se tratando de presunção absoluta, apenas provas contundentes podem afastar tal presunção.
+5. Quanto aos honorários de sucumbência, a decisão recorrida, proferida em 14/10/2014, fixou tal verba honorária em 20% (vinte por cento) sobre o valor da causa, nos termos do art. 20, § 4º, do CPC/73 (vigente à época), a qual corresponde ao valor histórico de R$ 200,00 (duzentos reais), não havendo a mínima razoabilidade na pretensão recursal da apelante voltada à redução dessa quantia, considerando-se as circunstâncias do caso concreto.
+6. Apelação cujo provimento é negado.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 247-249).
+Defende, em síntese: i) violação do art. 1.022, II, do CPC/2015, pois o acórdão recorrido foi omisso no tocante à violação dos arts. 174, parágrafo único, do Código Tributário Nacional, vigente à época, assim dos artigos 5º, inciso LV, da Constituição Federal, e dos artigos 124, §1º, 125, 126 e 127 do Decreto Federal 6.514/2008 e ii) ofensa ao art. 174 do Código Tributário Nacional, porquanto marco temporal inicial da prescrição é a citação pessoal do devedor, e não o despacho citatório.
+Apresentadas contrarrazões (e-STJ, fls. 271-276), o recurso especial foi admitido na origem (e-STJ, fl. 278).
+É o relatório.
+Não há vício de fundamentação no aresto recorrido, o qual consignou que, mesmo valendo-se dos marcos temporais indicados pela parte recorrente, estaria caracterizada a prescrição. Confira-se, no ponto, a seguinte transcrição (e-STJ, fl. 248):
+Com efeito, o acórdão embargado, ancorando-se no contexto fático-probatório dos autos, foi claro ao afirmar que o crédito foi constituído em 16/08/1993 e o despacho de citação no executivo fiscal foi proferido em 30/09/1997, e que, mesmo se fosse considerado como termo inicial da prescrição aquele apontado pela embargante (22/07/1993), ainda não estaria configurada a prescrição da pretensão executória, pois a citação ocorreu antes do transcurso do prazo quinquenal.
+Além disso, para confrontar a argumentação apresentada pelo Tribunal de origem, faz-se necessário o revolvimento dos elementos fático-probatórios da controvérsia, o que não se admite na instância extraordinária, nos termos consignados na Súmula 7/STJ.
+Ademais, tratando-se de execução de crédito não tributário, a interrupção do prazo prescricionalencontra-se regida pelo art. 8º, § 2º, da Lei 6.830/80 e não pela disposição contida no art. 174, parágrafo único, do CTN.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. EXECUÇÃO FISCAL.DÍVIDA DE NATUREZA NÃO TRIBUTÁRIA. PRESCRIÇÃO. INTERRUPÇÃO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. Em se tratando de execução fiscal, relativa a dívida de natureza não tributária, é aplicável a causa interruptiva da prescrição, prevista no art. 8º, § 2º, da Lei 6.830/80, ou seja, "o despacho do Juiz, que ordenar a citação, interrompe a prescrição", conforme pacífica jurisprudência deste Tribunal.
+3. Recurso especial parcialmente provido.
+(REsp 1279941/MT, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/10/2011, DJe 24/10/2011).
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
