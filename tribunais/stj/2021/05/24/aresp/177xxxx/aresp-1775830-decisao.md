@@ -1,0 +1,53 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelaASSOCIAÇÃO DOS SERVIDORES ESTADUAIS DO PARANÁ - ASSEPAR contra decisão que inadmitiu recurso especial com base nos óbices descritos nas Súmulas 7/STJ e 283/STF.
+Atendidos os requisitos de conhecimento, passo a examinar o apelo nobre.
+O recurso especial foi interposto, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁassim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM AÇÃO DE COBRANÇA. DEMANDA AJUIZADA PELA ASSOCIAÇÃO REPRESENTANTE DOS SERVIDORES OCUPANTES DO QUADRO DE PESSOAL DO PODER EXECUTIVO (QPPE) DO ESTADO DO PARANÁ.PRETENSÃO DE APLICAÇÃO DA TABELA REMUNERATÓRIA PRÓPRIA DOS AGENTES FAZENDÁRIOS, BEM COMO INCORPORAÇÃO DA GDAF (GRATIFICAÇÃO POR DESEMPENHO DE ATIVIDADE FAZENDÁRIA) AOS VENCIMENTOS, TAL COMO OCORREU COM TAL CLASSE DE SERVIDORES. LIDE JULGADA IMPROCEDENTE. PRELIMINAR DE CERCEAMENTO DE DEFESA NÃO ACOLHIDA. AÇÃO QUE VERSA UNICAMENTE SOBRE QUESTÃO DE DIREITO. PROVA PLEITEADA PELA AUTORA QUE DESINTERESSA AO JULGAMENTO DO FEITO. IMPUGNAÇÃO DO VALOR DA CAUSA CORRETAMENTE ACOLHIDA. VALORAÇÃO QUE DEVE REFLETIR O PROVEITO ECONÔMICO BUSCADO PELA AUTORA. MÉRITO MANTIDO. INVIABILIDADE DA APLICAÇÃO DE LEI ESPECIAL, COMO É A LEGISLAÇÃO QUE REGULA A CARREIRA DOS AGENTES FAZENDÁRIOS, A TODOS SERVIDORES DO QPPE. LEI ESPECÍFICA E POSTERIORQUE NÃO DERROGA A LEI GERAL. INTELIGÊNCIA DO ART. 2º, § 2º, DA LINDB. INEXISTÊNCIA DE OFENSA AO ART. 14, PARÁGRAFO ÚNICO, DA LEI ESTADUAL Nº 13.666/2002. PRETENSÃO INVIABILIZADA PELO TEOR DA SÚMULA VINCULANTE 37. VERBA HONORÁRIA ALTERADA. RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 658-662).
+A recorrente aponta violação dos arts. 369 e 438, I e II, do CPC. Registra que "foi requerido o envio de ofício à Secretaria Estadual da Fazenda (SEFA) para que esta apresentasse a lista de todos os servidores alocados naquela secretaria, informando ainda as secretarias de que eram oriundos, as funções exercidas e a formação desses servidores movimentados" (e-STJ, fl. 677).
+Acrescenta que "Era indispensável  ..  a produção de prova no sentido de que a GDAF era paga a" (e-STJ, fl. 677). Contudo, "o acórdão recorrido considerou, indevidamente, como incontroverso um fato impeditivo da pretensão da recorrente, presumindo que os servidores que recebiam a GDAF desempenhavam funções específicas" (e-STJ, fl. 677).
+Refere, ainda, contrariedade ao art. 8.1, "c", daConvenção Americana de Direitos Humanos. Diz que o direito à produção da prova é previsto nesse tratado.
+Diz, também, ser dever do juízo oficiar a Administração Pública para que esta forneça o documento requerido.
+Contrarrazões às e-STJ, fls. 694-701.
+É o relatório.
+Tem-se, na origem, ação ordinária ajuizada pela ora recorrente pretendendo o pagamento, aos seus associados, da gratificação por desempenho de atividade fazendária - GDAF. O juiz julgou improcedente o pedido.
+O Tribunala quo, em apelação, manteve esse resultado, fazendo o seguinte registro (e-STJ, fls. 616-617):
+Diferente do que argumentou a apelante, não se visualiza que o seu direito à ampla defesa tenha sido violado com o indeferimento da prova requerida ao juízo de origem (expedição de ofício à SEFA para listagem de todos os servidores alocados na secretaria, suas funções exercidas, as lotações de origem e a sua formação).
+Isso porque a temática debatida nos presentes autos versa, unicamente, sobre questão de direito, ou seja, se o pagamento da GDAF é ou não devido a todos os servidores do QPPE, considerando a incorporação efetuada nos vencimentos dos agentes fazendários, que também fazem parte daquele quadro.
+Ora, para a análise dessa controvérsia não se faz necessário averiguar se quem recebe, atualmente, tal gratificação incorporada faz realmente jus a ela, quais funções exerce, para, então, saber se está justificado o seu pagamento. Em verdade, o caso concretodemanda o exame das legislações correlatas e das demais questões de direito próprias da seara constitucional e do Direito Administrativo.
+Nesse contexto, não é possível dimensionar como a prova pretendida pela autora se revelaria útil à solução da lide. Os pontos referentes à natureza da GDAF e a sua incorporação aos vencimentos já estão devidamente esclarecidos nos autos.
+Não se deve olvidar que o juiz é o destinatário da prova e se o julgador de origem fundamentou o porquê de a prova não se revelar pertinente para a causa, correto está o seu indeferimento, não havendo que se falar em nulidade por cerceamento do direito de defesa.
+No mesmo sentido tem decidido o C. Superior Tribunal de Justiça, sob o entendimento de que o simples indeferimento da prova pleiteada não gera cerceamento de defesa: .. .
+ .. .
+No julgamentodos embargos declaratórios, acrescentou-se (e-STJ, fl. 660):
+Foi fundamentado que a prova requerida pela parte não é pertinente para a solução da lide, pois a temática debatida nos autos versa unicamente sobre questão de direito, ou seja, se o pagamento da GDAF é ou não devido a todos os servidores do QPPE.
+E, para a análise dessa controvérsia, demanda-se apenas o exame das legislações correlatas, sendo, por outro lado, desnecessárias averiguações a respeito de quem recebe, atualmente, a gratificação incorporada, quais funções são exercidas, etc.
+Por certo que o requerimento da prova, formulado pela parte não é imune ao exame, feito pelo julgador da causa, sobre a utilidade da prova para a solução da causa.
+Ora, se foram fundamentadas pelo juízo a quo as razões pelas quais a prova não era pertinente para o caso  as quais são plausíveis, diga-se de passagem  , acertado é o seu indeferimento.
+Afinal, o juiz é o destinatário da prova.
+As matérias referentes aos arts. 438, I e II, do CPC e 8.1, "c", da Convenção Americana de Direitos Humanos não foram objeto de análise pelo Tribunal de origem. Desse modo, carecem do indispensável prequestionamento viabilizador do recurso especial, motivo pelo qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal, respectivamente transcritas:
+É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Nesse aspecto, confira-se o seguinte precedente:
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL EM RECURSO ESPECIAL - AÇÃO CIVIL PÚBLICA POR ATOS DE IMPROBIDADE - ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS - SÚMULA 7/STJ - AUSÊNCIA DE PREQUESTIONAMENTO - SÚMULAS 282 E 356 DO STF E 211 DO STJ - INOVAÇÃO RECURSAL.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento (Súmula 211 do STJ), bem como é manifestamente inadmissível o recurso especial em relação às teses que configuram inovação recursal e, por isso, não foram apreciadas pelo acórdão recorrido.
+2. Inviável análise de pretensão que demanda o revolvimento do conjunto fático-probatório dos autos. Incidência da Súmula 7/STJ.
+3. É inadmissível o recurso especial se o dispositivo legal apontado como violado não fez parte do juízo firmado no acórdão recorrido e se o Tribunal a quo não emitiu qualquer juízo de valor sobre a tese defendida no especial (Súmulas n.ºs 282 e 356/STF).
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 15.180/PR, Rel. Min. ELIANA CALMON, SEGUNDA TURMA, DJe 10/5/2013).
+Por fim, com respeito à realização do prova, as instâncias ordinárias afirmaram a sua desnecessidade para a solução da controvérsia. A afirmação do contrário, como pretende a parte, demandaria o reexame do conjunto fático-probatório dos autos, providência inadmissível em recurso especial, nos termos da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PROVA PERICIAL REPUTADA DESNECESSÁRIA EM FACE DO ACERVO PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A jurisprudência do STJ é firme no sentido de que o magistrado, como destinatário final da prova, deve avaliar sua suficiência, necessidade e relevância, de modo que não constitui cerceamento de defesa o indeferimento da realização de perícia judicial reputada desnecessária em face do acervo probatório. Precedentes: AgInt no AREsp 689516/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, Dje 20/09/2018.
+2. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, reexame do acervo fático-probatório constante dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ. Precedentes: AgInt no AREsp 1056892/SP, Rel. Min.Sérgio Kukina, Primeira Turma, DJe 21/05/2018; AgInt no AREsp 1035671/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 05/02/2018.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 900.323/SP, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 4/12/2018, DJe 12/12/2018).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 535 DO CPC/1973. AUSÊNCIA DE OMISSÕES E CONTRADIÇÕES NO ACÓRDÃO ESTADUAL. LAUDO PERICIAL. PERÍCIA COMPLEMENTAR. SÚMULA 7 DO STJ.AGRAVO INTERNO NÃO PROVIDO.
+1. É de ser afastada a existência de vícios no acórdão, tendo em vista que a matéria impugnada foi enfrentada de forma objetiva e fundamentada no julgamento do recurso, naquilo que o Tribunal a quo entendeu pertinente à solução da controvérsia.
+2. Os vícios a que se refere o artigo 535, I e II, do CPC/1973 são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, sendo certo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador.
+3. A jurisprudência do STJ entende que a verificação da necessidade da produção de quaisquer provas, é faculdade adstrita ao magistrado, de acordo com o princípio do livre convencimento do julgador, e que a análise acerca do deferimento ou não de produção de provas enseja o revolvimento do conteúdo fático-probatório dos autos. Incidência da Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.125.060/RN, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/4/2018, DJe 24/4/2018).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
