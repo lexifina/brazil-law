@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de agravo (art. 1.042, CPC/15) interposto por HM ENGENHARIA E CONSTRUCOES S/A, contra decisão que não admitiu recurso especial.
+O apelo extremo, interposto com amparo na alíneas "a" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim sintetizado (fls. 693, e-STJ):
+APELAÇÃO - COMPRA E VENDA Ação de indenização ajuizada pelo adquirente, fundamentada no fato de que pagou indevidamente valores referentes a taxa condominial e de corretagem, pleiteando a devolução dos valores desembolsados e indenização por danos morais - Sentença de improcedência - APELO DO AUTOR - Análise de questão preliminar - Afastamento da tese de impertinência subjetiva alegada pelas requeridas em sede de contrarrazões - Legitimidade passiva verificada para responderem pelo pleito relativo ao ressarcimento das verbas pagas pelo adquirente - DEVOLUÇÃO DOS VALORES PAGOS A TÍTULO DE CORRETAGEM - Prescrição trienal aplicada ao presente caso - Orientação firmada em recurso repetitivo no sentido de que a prescrição da pretensão à restituição das quantias pagas a título de corretagem e SATI é de três anos (tema 938 REsp 1.551.956/SP) - Início da prescrição que deve ser considerado como a data das realizações dos pagamentos - Prescrição que nasce com a pretensão - Direito de exigir a repetição que somente pode ser exercido após o pagamento - Ajuizamento da ação posterior ao prazo de três anos contados do pagamento das referidas verbas - Prescrição reconhecida - Improcedência mantida nesse ponto - DEVOLUÇÃO DOS VALORES PAGOS PELAS DESPESAS CONDOMINIAIS - Responsabilidade das requeridas pelas despesas condominiais até a imissão na posse - Nulidade da cláusula contratual, bem como das constantes no "termo de acordo e confissão de dívida" - Restituição devida - Devolução simples pela não comprovação de má-fé - DANO MORAL - Ocorrência - Cobrança indevida dos condomínios antes da posse do bem - Protesto por falta de pagamento lavrado em nome do autor em razão das dívidas condominiais registradas nesse período é suficiente a caracterizálo - Indenização fixada em R$ 5.000,00 - Sentença reformada - Procedência em parte dos pedidos, com inversão da sucumbência - Recurso parcialmente provido.
+Sem oposição de embargos de declaração.
+Nas razões do recurso especial (fls. 705-717, e-STJ), a recorrente aponta, além de dissídio jurisprudencial, ofensa aos seguintes dispositivos: i) arts. 393, 396, 927 e 945 do CC, argumentando a inexistência dos danos morais; iii) arts. 421, 422 e 1.345 do CC, sob o argumento de que as taxas condominiais e IPTU são devidas pelo recorrido.
+Sem contrarrazões.
+Em juízo de admissibilidade (fls. 788-790, e-STJ), negou-se o processamento do recurso especial, ante a ausência de demonstração da vulneração dos artigos e incidência da Súmula 7 do STJ.
+Daí o presente agravo (fls. 795-800, e-STJ), no qual o insurgente, buscando destrancar o processamento da insurgência, refuta o óbice aplicado pela Corte de origem.
+Sem contraminuta.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. De inicio, sustenta a agravante a inexistência de danos morais no caso dos autos.
+O Tribunal de origem, com base nos elementos fático-probatórios acostados aos autos, asseverou que houve a demonstração da ocorrência de danos morais indenizáveis.
+Confira-se o seguinte excerto do acórdão recorrido (fls. 700-701 e-STJ - sem grifos no original):
+No tocante à configuração do dano moral indenizável, se a cobrança dos condomínios antes da posse do bem era indevida, entende-se que o protesto por falta de pagamento lavrado em nome do autor em razão das dívidas condominiais registradas nesse período (fls. 112, 114, 116, 120, 125, 128, 131, 133, 137, 139), é suficiente a caracterizá-lo.
+ ..
+Assim, dadas as circunstâncias do caso, mostra-se razoável que a indenização seja fixada em R$ 5.000,00 (com correção monetária e juros de mora de 1% ao mês da citação), quantia que bem observa os princípios da razoabilidade e da proporcionalidade, evitando-se, ademais, o enriquecimento sem causa.
+Sendo assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, no sentido da demonstração dos danos morais, o que, forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. COMPROMISSO DE COMPRA E VENDA IMOBILIÁRIO. RETENÇÃO DA UNIDADE. SÚMULAS N. 5 E 7 DO STJ. CULPA CONCORRENTE. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. DECISÃO MANTIDA.
+ ..
+7. No caso concreto, o Tribunal de origem analisou as provas dos autos para concluir pela existência de danos morais indenizáveis, pois a situação a que a parte agravada foi exposta teria ultrapassado o mero dissabor. Alterar esse entendimento demanda o reexame de provas, inviável em recurso especial.
+8. "A incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa" (AgInt no AREsp n. 1.232.064/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/12/2018, DJe 7/12/2018).
+9. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1118025/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020) - grifou-se.
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. COMPROMISSO DE COMPRA E VENDA. ATRASO PARA ENTREGA DE UNIDADE IMOBILIÁRIA. CASO FORTUITO OU FORÇA MAIOR. NÃO OCORRÊNCIA. REVISÃO DO JULGADO.IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. DANO MORAL. OCORRÊNCIA. JULGAMENTO "EXTRA PETITA". NÃO OCORRÊNCIA.
+ ..
+4. Existência de julgados no âmbito do Superior Tribunal de Justiça no sentido de que o atraso da promitente vendedora em entregar o imóvel no prazo contratual, injustificadamente, não acarreta, por si só, danos morais.
+5. Por outro lado, a jurisprudência do Superior Tribunal de Justiça entende cabível a indenização por danos morais, nos casos de atraso na entrega do imóvel, quando este ultrapassar o limite do mero dissabor.
+6. Na hipótese dos autos, o Tribunal de Justiça reconheceu a existência de dano moral em razão de o atraso na entrega do imóvel ter perdurado por mais de dois anos.
+7. Conforme a jurisprudência do Superior Tribunal de Justiça, se a controvérsia é decidida dentro dos limites delineados na petição inicial, não há falar em julgamento extra, citra ou ultra petita.
+8. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+9. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt nos EDcl no REsp 1764598/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 21/09/2020, DJe 24/09/2020) - grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Pretensão de reconhecimento da ilegitimidade passiva ad causam da ré que encontra óbice na Súmula 7 desta Corte, porquanto necessário reexaminar o arcabouço fático-probatório dos autos.
+2. A jurisprudência desta Corte Superior é no sentido de que o simples inadimplemento contratual, em regra, não configura dano moral indenizável, devendo haver consequências fáticas capazes de ensejar o sofrimento psicológico.
+2.1. No caso sub judice, o Tribunal de origem consignou expressamente estar comprovada a aflição suportada pelo promitente-comprador e assim a presença dos requisitos necessários à responsabilização da construtora ao pagamento dos danos morais decorrentes do atraso na entrega do imóvel.
+2.2. Para rever tal conclusão seria imprescindível a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+3. O Superior Tribunal de Justiça, afastando a incidência do referido óbice, tem reexaminado o montante fixado pelas instâncias ordinárias a título de danos morais apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso.
+4. Agravo interno desprovido.
+(AgInt no REsp 1867282/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/08/2020, DJe 04/09/2020) - grifou-se
+Portanto, inafastável o óbice da Súmula 7 do STJ.
+3. Por fim, no que se refere às taxas condominiais e o IPTU, sustenta a recorrente serem devidas pelo recorrido ante a previsão contratual.
+No particular, decidiu o Tribunal de piso (fls. 698-699, e-STJ):
+Quanto ao pleito de devolução dos valores pagos a títulode condomínio, consta dos autos que, em 09 de setembro de 2014, o adquirente assinou "termo de acordo e confissão de dívida" por meio do qual reconheceu a existência da dívida condominial em aberto desde 03.2013 e se comprometeu a pagá-la, nos termos avençados a fls. 91/92.
+Sabidamente, as despesas de condomínio somente passam à responsabilidade do compromissário comprador com a sua imissão na posse da unidade, o que, no caso, ocorreu em dezembro de 2013 (fls. 02 e 383/384).
+Nessa conformidade, a tese firmada pelo Superior Tribunal de Justiça em sede de recurso especial repetitivo (Tema 886) que dispõe que, "O que define a responsabilidade pelo pagamento das obrigações condominiais não é o registro do compromisso de compra e venda, mas a relação jurídica material com o imóvel, representada pela imissão na posse pelo promissário comprador e pela ciência inequívoca do condomínio acerca da transação" (REsp 1345331/RS, 2ª Seção do Superior Tribunal de Justiça, Rel. Min. Luis Felipe Salomão, DJe 20/4/15).
+Diante disso, resta abusiva a cláusula contratual a esse respeito (9.4 - fls. 50), bem como as constantes no dito "termo de acordo e confissão de dívida", pelas quais o adquirente assumiu tal responsabilidade antes da efetiva posse do imóvel.
+Diante destas circunstâncias, não cabia, pois, ao adquirente o pagamento de verbas condominiais anteriores à sua imissão na posse do imóvel, valores que lhe deverão ser restituídos de forma simples, corrigidos pela Tabela Prática do TJSP de cada desembolso, com juros de mora de 1% ao mês da citação.
+Contudo, a ora recorrente não se desimcubiu do ônus de impugnar os referidos fundamentos, como manda o princípio da dialeticidade, apenas cingindo-se a insistir nos argumentos veiculados em sede de apelação de sua vez dissociados dos fundamentos do acórdão recorrido, incidindo, na espécie, por analogia, as Súmula 283 e 284 do STF.
+Em outras palavras, verifica-se que a parte recorrente deixou de infirmar fundamentos do acórdão recorrido - suficientes para sua manutenção -; incidindo, na espécie, por analogia, a Súmula 283 do STF, in verbis: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Conforme já decidiu o STJ, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP).
+Ademais, resta caracterizada a deficiência na fundamentação do apelo extremo no que tange à violação do dispositivo apontado, pois apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa do óbice contido na Súmula 284 do STF, que se estende sobre a alegada divergência jurisprudencial.
+Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA DEMANDADA.
+ ..
+5. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+6. Agravo interno desprovido.
+(AgInt no REsp 1656284/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/11/2019, DJe 19/11/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDO DE REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO. PRECARIEDADE NA COMPROVAÇÃO DO INADIMPLEMENTO. AUSÊNCIA DE COMPROVAÇÃO DA CONSTITUIÇÃO DO DÉBITO. NEGÓCIO REALIZADO EM 1999, COM AS PRIMEIRAS PROVIDÊNCIAS PARA COBRANÇA REALIZADAS APENAS EM 2013. INCIDÊNCIA DA SUPRESSIO. FUNDAMENTOS NÃO ATACADOS. SÚMULAS 283 E 284 DO STF. CONCLUSÃO ACERCA DA APLICAÇÃO DA SUPRESSIO. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. Ao examinar o feito, o Tribunal local concluiu que, diante da precariedade de provas da constituição do débito, do longo decurso de tempo entre o suposto inadimplemento e a tomada de providências para cobrança dos réus, ocasionaram a incidência da "supressio". Todavia, tais fundamentos autônomos e suficientes para a manutenção do acórdão recorrido não foram rebatidos pelo recorrente em seu apelo especial. Desse modo, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, o que denota a deficiência da fundamentação recursal, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+ ..
+(AgInt no AREsp 1500950/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2019, DJe 12/11/2019)
+Inafastável, no ponto os óbices das Súmulas 283 e 284 do STF, por analogia.
+3. Do exposto, nego provimento ao agravo interposto por HM ENGENHARIA E CONSTRUCOES S/A.
+Publique-se.
+Intimem-se.
