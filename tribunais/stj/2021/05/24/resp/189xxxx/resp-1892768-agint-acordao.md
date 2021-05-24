@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze, Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DO RECOLHIMENTO DAMULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. IMPOSSIBILIDADE DE CONHECIMENTO DO RECURSO. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. NECESSIDADE.
+AGRAVO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por JOÃO CARLOS PIETSCHMANN contra decisão exarada pela Presidência deste STJ, a qual não conheceu do recurso diante da ausência de comprovação do recolhimento de multa imposta com base no art. 1.021, §4º, do CPC.
+Nas razões do presente recurso, a parte agravante sustenta, em síntese, que "forçoso é convir que haveria, já no primeiro momento, de ser apontada a falta de recolhimento da multa (do que discorda o Recorrente, vejam o documento de fls. 725/726), tendo havido falta de intimação a respeito, tem-se que não foi atendida a possibilidade de correção do preparo, prevista no § 2º do art. 1007 do CPC. Por conseguinte, forçoso é convir que se a parte recolheu indevidamente (§ 7º do art. 1007, CPC), deveria ter sido intimada para sanar o vício. Mas isto não ocorreu, por conseguinte, deverá ser provido o presente agravo interno, para determinar a intimação do Recorrente para recolher novamente ou sanar o vício contido na guia de fls. 725/726" (e-STJ fl. 792).
+Aduz, ainda, que "a imposição de aumento da verba honorária em favor do patrono do Recorrido, ainda que seja um entendimento dessa Alta Corte, permissa venia equivale a um pagamento a quem nada fez no processo, desde que interposta a apelação pelo ora Recorrente. Está se mandando pagar por um acréscimo de trabalho (presumido na lei), mas que inocorreu na realidade" (e-STJ, fl. 793).
+Sem impugnação, certidão de fl. 807.
+É o breve relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DO RECOLHIMENTO DAMULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. IMPOSSIBILIDADE DE CONHECIMENTO DO RECURSO. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. NECESSIDADE.
+AGRAVO DESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece provimento.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Reanalisando os autos conclui-se que, conforme já consignado outrora,verifica-se que o acórdão recorrido, ao negar provimento ao agravo interno interposto pela parte recorrente, aplicou multa, ficando a interposição de qualquer outro recurso condicionada ao depósito do respectivo valor. Contudo,no ato da interposição do recurso especial, a parte deixou de recolher os valores correspondentes à penalidade aplicada.
+Nessas hipóteses, não se conhece do recurso especial quando interposto sem o recolhimento da multa inserta no art. 1.021, § 4º, do Código de Processo Civil, imposta pelo Tribunal de origem, vez que tal recolhimento configura-se pressuposto objetivo de admissibilidade recursal, com natureza de penalidade processual.
+Assim, nos termos do §5º do art. 1021 do CPC,"a interposição de qualquer recurso está condicionada ao depósito prévio do valor da multa prevista no §4º, à exceção da Fazenda Pública e ao beneficiário da justiça gratuita que farão o pagamento ao final. A ausência de comprovação do recolhimento da multa previamente imposta inviabiliza o conhecimento do presente recurso"(EDcl no AgInt nos EDcl no REsp 1813907/MT, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 18/3/2020).
+Ademais, conforme dicção do Enunciado Administrativo n. 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".No presente caso, tendo em vista que estão preenchidos os requisitos acima delineados, correta a majoração dos honorários recursais.
+Vale ressaltar que "é dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba" (AgInt nos EAREsp 762.075/MT, Rel. Ministro FELIX FISCHER, Rel. p/ Acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 19/12/2018, DJe 07/03/2019).
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020).
+Nesse passo, advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de multa por conduta processual indevida.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
