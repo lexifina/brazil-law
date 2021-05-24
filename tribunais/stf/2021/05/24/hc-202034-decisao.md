@@ -1,0 +1,19 @@
+DECISÃO:
+EMENTA: Processual Penal. Habeas Corpus. Receptação qualificada. Alegação de nulidade. Ausência de demonstração de prejuízo. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Terceira Seção do Superior Tribunal de Justiça (STJ), da Relatoria da Ministra Laurita Vaz, que rejeitou os embargos de declaração opostos no EAResp 1.721.960-EDv-AgR-ED e contra a decisão que indeferiu liminarmente o HC 620.298, do STJ.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 4 anos e 1 mês de reclusão, em regime inicial fechado, pelo crime previsto no art. 180, § 1º, do Código Penal.
+    3. O Tribunal de Justiça do Estado de Santa Catarina (TJ/SC) negou provimento à apelação da defesa.
+    4. Na sequência, a defesa interpôs recurso especial, inadmitido na origem. Ato contínuo, interpôs agravo. A Presidência do STJ não conheceu do agravo. Contra essa decisão foram opostos embargos declaratórios, acolhidos “tão somente para sanar omissão, sem efeitos infringentes”. Em seguida, foi interposto agravo regimental, não provido e, após, foram opostos embargos de divergência, indeferidos liminarmente. Por fim, sucessivamente, foi interposto novo agravo regimental, não provido, e foram opostos novos embargos declaratórios, rejeitados.
+    5. Inconformada, a defesa impetrou habeas corpus no STJ. O Relator do HC 620.298, Ministro Felix Fischer, indeferiu liminarmente o writ.
+    6. Neste habeas corpus, a parte impetrante sustenta a “nulidade do julgamento da Apelação criminal no TJSC (0042905- 43.2012.8.24.0038), posto que o Advogado anteriormente constituído não foi intimado acerca da nova data de julgamento”. Alega que “o próprio Advogado (Dr André Heinig), peticionou perante o TJSC bem como impetrou HC ao STJ, requerendo o reconhecimento de tal nulidade ABSOLUTA, porém, também não obteve sucesso”.
+    7. Prossegue a narrativa para afirmar que “[f]ora determinado julgamento do recurso de apelação para o dia 07.11.2019. E tendo em vista que referido defensor não poderia comparecer a tal ato, acostou-se atestado e a sessão fora redesignada para 14.11.2019 [...]. Ocorre que, o defensor constituído do Paciente não fora intimado para este novo ato, qual seja, o julgamento da apelação para o dia 14.11.2019 e sim, o Defensor Público”.
+    8. A defesa requer a concessão da ordem para “declarar a nulidade absoluta do acórdão proferido nos autos da Apelação Criminal n. (0042905- 43.2012.8.24.0038) (sessão de julgamento realizada no dia 14.11.2019) e de todos os posteriores atos, a fim de que o referido recurso de apelação seja novamente julgado, dessa vez com a prévia intimação pessoal desta Defensora Constituída da data da sessão de julgamento”.
+    9. Decido.
+    10. O habeas corpus não deve ser concedido.
+    11.  O entendimento do Supremo Tribunal Federal (STF) é no sentido de que “princípio do pas de nullité sans grief exige, em regra, a demonstração de prejuízo concreto à parte que suscita o vício, podendo ser ela tanto a nulidade absoluta quanto a relativa, pois não se decreta nulidade processual por mera presunção” (HC 132.149-AgR, Rel. Min. Luiz Fux).
+    12. No caso – para além de observar que a petição inicial do habeas corpus não foi instruída com cópia de todas as decisões do STJ –, o fato é que, tal como assentou aquela Corte Superior, “não há que se falar em nulidade a ensejar a anulação do julgamento da apelação criminal, tendo em vista a inexistência de comprovação de qualquer prejuízo, conforme exige o art. 563 do Código de Processo Penal, pois o que se verifica é que todos os recursos foram interpostos tempestivamente”.
+    13.  Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 24 de maio de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                             Relator
