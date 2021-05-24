@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpuscom pedido de liminarimpetrado em favor de WALLEF DOS SANTOS, contra acórdão doTribunal de Justiça do Estado de São Paulo(Agravon. 0013106-43.2020.8.26.0482).
+Opaciente teve opedidode progressão de regime deferido e o de livramento condicionalindeferidoporse entender que deve passar, primeiramente, pelo regime intermediário.
+A impetrante alega existência de flagrante ilegalidade, defendendo que não há previsão legal acerca da necessidade de cumprimento de pena no regime semiaberto para que se conceda o benefício do livramento.
+Requer, liminarmente e no mérito, seja concedidolivramento condicional ao paciente.
+O pedido deliminar foi indeferido(fls. 96-97).
+Foram prestadas as informações (fls. 102-112e 113-116) e oMinistério Público Federal opinou pelo não conhecimento da ordem(fls. 87-91).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimentode que não cabe habeas corpusem substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se identificadaflagrante ilegalidade no ato judicial impugnado.
+Assim, passo àanálise das razões da impetração a fim de verificara existência de flagrante ilegalidade que justifique a concessãoda ordem dehabeas corpus de ofício.
+No presente caso, o Juízo da execução dispôs o seguinte quanto ao pleito de livramento condicional (fls. 64-65):
+O pedido de progressão de regime é procedente, não fazendo jus o sentenciado ao imediato livramento condicional.
+O sentenciado preenche o requisito objetivo necessário à progressão, visto que já cumpriu parcela superior a 1/6 (um sexto) das penas no atual regime, ostentando atualmente "bom comportamento carcerário".
+E mais. A avaliação subjetiva (relatório conjunto de avaliação) evidencia a viabilidade da progressão de regime (fls. 32).
+De outro lado, em que pese o preenchimento do requisito objetivo para o livramento condicional, o apenado possui histórico prisional desfavorável à imediata liberdade, sobretudo considerando que cumpre pena por crimes graves, praticados com violência ou grave ameaça contra a pessoa - roubos majorados, além de furto, revelando-se tratar de pessoa com periculosidade acentuada e nociva à sociedade.
+Além disso, registra a prática de faltas disciplinares de natureza grave durante o cumprimento de penas (evasão do regime semiaberto), sendo recomendável a manutenção de sua segregação por maior período de tempo, visando a necessária e adequada reeducação penal para, posteriormente, fazer jus à liberdade condicional.
+Assim, os elementos colhidos nos autos dão conta de que o reeducando preenche os requisitos objetivo e subjetivo necessários para alcançar o regime menos rigoroso, mas não a imediata liberdade condicional.
+Ante o exposto, por ora, INDEFIRO o pedido de livramento condicional, com fundamento nos artigos 112, § 2º, e 131 da Lei de Execução Penal, e PROMOVO o sentenciado ao REGIME SEMIABERTO, com base no artigo 112 da Lei de Execução Penal.
+Por sua vez,o Tribunal de origem decidiu nestes termos(fls. 85-87):
+Por outro lado, em relação ao pedido de concessão do livramento condicional, não assiste razão a combativa defesa.
+Conforme preconiza o parágrafo único do artigo 83 do Código Penal, para a concessão desse benefício, deve estar comprovado o comportamento satisfatório do sentenciado durante a execução da pena. Não obstante, em hipótese de crimes dolosos, cometidos com violência ou grave ameaça à pessoa, "o livramento deve ficar subordinado à constatação de condições pessoais que façam presumir que não mais voltará a delinquir (TJSE, RT791/692)." (Código Penal comentado, Celso Delmanto, 8ª ed., São Paulo, Saraiva, 2010, pag. 345).
+ ..
+Ademais, o sistema de avaliação da prova adotado pelo processo penal brasileiro é do livre convencimento motivado, previsto no artigo 155, do Decreto-Lei nº 3.689/41, segundo o qual "o juiz extrai a sua convicção das provas produzidas legalmente no processo, mas não presta depoimento pessoal, nem expõe suas ideais como se fossem fatos incontroversos. " (NUCCI, Guilherme de Souza, Código de Processo Penal Comentado, 13ª ed., Rio de Janeiro, Forense, 2014, pag. 360).
+Outrossim, conforme se observa dos autos, o agravante, anteriormente, violando a confiança que lhe fora depositada, cometeu novo crime enquanto se encontrava no regime prisional semiaberto, abandonando o cumprimento da pena, durante saída temporária, o que lhe rendeu a regressão (fls. 23/28).
+Por fim, ainda que não obrigatória a vivência do reeducando no regime intermediário antes do livramento condicional, é salutar que o agravante demonstre concretamente ter assimilado aterapêutica prisional antes de alcançar o livramento condicional.
+ ..
+Assim sendo, nega-se provimento ao recurso interposto, mantendo-se a r. decisão de primeiro grau, por seus próprios e jurídicos fundamentos.
+No caso, háflagrante ilegalidade, visto quea conclusão adotada é contrária ao entendimento do STJ, razão pela qual está constatada hipótese de constrangimento ilegal passível de ser sanado na presente via.
+Esta Corte entendeque não há obrigatoriedade de o sentenciado passar, previamente, por regime intermediário como condição para obter o benefício de livramento condicional, uma vez que inexiste tal previsão no art. 83 do CP.
+Nessesentido, confiram-se os seguintes precedentes:
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. FALTA DISCIPLINAR REABILITADA, GRAVIDADE ABSTRATA DO DELITO E NECESSIDADE DE PRÉVIA PROGRESSÃO AO REGIME INTERMEDIÁRIO. FUNDAMENTAÇÃO INIDÔNEA. CONFIRMADA A MEDIDA LIMINAR. ORDEM CONCEDIDA.
+1. O art. 83 do Código Penal - com redação dada pela Lei n.13.964/2019, - fez incluir o bom comportamento (não somente satisfatório, como disposto na redação antiga) durante a execução da pena, além do não cometimento de falta grave nos últimos doze meses, para a concessão do livramento condicional.
+2. Conforme entendimento jurisprudencial e a novel legislação, não é possível atribuir efeitos eternos às faltas graves praticadas pelo apenado, o que constituiria ofensa ao princípio da razoabilidade e ao caráter ressocializador da pena.
+3. Na espécie, a falta grave foi cometida em 21/09/2018 pelo Paciente - durante o cumprimento da reprimenda imposta pela prática do delito previsto no art. 157, § 2.º, inciso II, c.c. o art. 70, caput, ambos do Código Penal, que teve seu comportamento atual classificado como bom no exame criminológico.
+4. Ordem habeas corpus concedida para determinar que o pleito de livramento condicional seja reavaliado, desconsiderando a gravidade abstrata do delito cometido, a falta disciplinar praticada em 21/09/2018 e a necessidade de prévia progressão ao regime intermediário, confirmada a medida liminar.(HC n. 592.587/SP, relatoraMinistra LauritaVaz, SextaTurma, DJe de 2/9/2020.)
+EXECUÇÃO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. LIVRAMENTO CONDICIONAL. INDEFERIMENTO. JUSTIFICAÇÃO UNICAMENTE NA IMPOSSIBILIDADE DE PROGRESSÃO PER SALTUM. CONSTRANGIMENTO ILEGAL CONFIGURADO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Preambularmente, registro que, das decisões proferidas em sede de execução criminal cabe agravo em execução penal.
+2. No caso, a defesa impetrou habeas corpus, que foi indeferido pelo Tribunal a quo, sob alegação de inadequação da via eleita.
+3. Assim, seria inviável a análise meritória do tema, sob pena de supressão de instância. Todavia, em homenagem ao princípio da ampla defesa, passa-se ao exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+4. Na espécie, foi indeferido o benefício do livramento condicional pelo Juízo das Execuções Criminais, tão somente em virtude da necessidade de observar-se o comportamento do sentenciado durante o cumprimento da pena em regime semiaberto antes de lhe propiciar a liberdade condicional.
+3. Sobre a matéria, a jurisprudência deste Tribunal consolidou entendimento no sentido de que não há obrigatoriedade de o apenado passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de previsão no art. 83 do Código Penal.
+4. Recurso em habeas corpus não provido. Contudo, ordem concedida de ofício para determinar que, afastada a exigência do cumprimento da pena em regime semiaberto, o Juízo das Execuções Criminais reaprecie o pedido de livramento condicional do apenado, à luz dos requisitos legais e do comportamento carcerário.(RHC n. 116.324/SP, relatorMinistro Reynaldo Soares da Fonseca, QuintaTurma, DJe de 18/9/2019.)
+Ante o exposto, não conheço do habeas corpus, mas, de ofício,concedo a ordem para determinar que o Juízo da execução criminalreaprecie o pedido de livramento condicional com base no art. 83 do CP, desconsiderando a necessidade de prévia progressão para o regime intermediário.
+Publique-se. Intimem-se.
