@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. RECONHECIMENTO JUDICIAL. TERMO INICIAL: REQUERIMENTO ADMINISTRATIVO.PRESCRIÇÃO QUINQUENAL.RESSALVA.
+1. Segundo a orientação jurisprudencial desta Corte,"a comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria" (Pet 9.582/2015, Relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 16/09/2015).
+2. Hipótese em que o Tribunal de origem consignou que, ao tempo do requerimento administrativo, em 04/05/1999, o segurado já possuía tempo de serviço suficiente à concessão da aposentadoria, sendo certo, porém, que o autorsomente postulou a ação em apreço em 07/02/2012, motivo pelo qual deve ser ressalvada a prescrição quinquenal.
+3. Agravo interno parcialmente provido para reconhecer a prescrição quinquenal.
+RELATÓRIO
+Trata-se de agravo interno manejado peloINSTITUTO NACIONAL DO SEGURO SOCIAL, que desafia decisão de minha lavra, proferida às e-STJ fls. 812/814,em que dei parcial provimento recurso especial, em juízo de retratação, para fixar o termo a quo do benefício na data do requerimento administrativo.
+No presente agravo interno, a autarquia agravante, às e-STJ fls. 816/824, alega que, se o INSS somente tomou conhecimento dos documentos para comprovação do período especial no processo judicial,jamais os efeitos financeiros da diferença decorrente da revisão poderiam ser fixados na data do requerimento administrativo, mas deveriam incidir a partir da juntada do documento novo ou na data da citação, nos termos do art. 240 do CPC.
+Alternativamente, postula o reconhecimento da prescrição quinquenal sobre os valores anteriores a cinco anos contados do ajuizamento da ação.Requer, assim, a reconsideração do decisum impugnado ou a decretação da prescrição quinquenal.
+Impugnação às e-STJ fls. 842/853, em que se pugna pelo desprovimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. RECONHECIMENTO JUDICIAL. TERMO INICIAL: REQUERIMENTO ADMINISTRATIVO.PRESCRIÇÃO QUINQUENAL.RESSALVA.
+1. Segundo a orientação jurisprudencial desta Corte,"a comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria" (Pet 9.582/2015, Relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 16/09/2015).
+2. Hipótese em que o Tribunal de origem consignou que, ao tempo do requerimento administrativo, em 04/05/1999, o segurado já possuía tempo de serviço suficiente à concessão da aposentadoria, sendo certo, porém, que o autorsomente postulou a ação em apreço em 07/02/2012, motivo pelo qual deve ser ressalvada a prescrição quinquenal.
+3. Agravo interno parcialmente provido para reconhecer a prescrição quinquenal.
+VOTO
+Não obstante as razões suscitadas, o decisum merece ser mantido no tocante à matéria de fundo, porquanto foi proferido em sintonia com a orientação jurisprudencial desta Corte, segundo a qual "a comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria" (Pet 9.582/2015, Relator Ministro Napoleão Nunes Maia Filho, DJe 16/09/2015).
+No caso dos autos, o Tribunal de origemconsignou que, ao tempo do requerimento, o segurado já possuía tempo de serviço suficiente à concessão da aposentadoria (e-STJ fl. 564).Em situação como esta, a pretensão do segurado tem sido acolhida, como se lê dos seguinte julgados:
+DIREITO PREVIDENCIÁRIO. RECURSO ESPECIAL. A COMPROVAÇÃO EXTEMPORÂNEA DE REQUISITO PARA OBTENÇÃO DE BENEFÍCIO PREVIDENCIÁRIO NÃO RETIRA O DIREITO AO BENEFÍCIO, QUE SE INCORPORA AO PATRIMÔNIO JURÍDICO DO SEGURADO NO MOMENTO DO IMPLEMENTO DOS REQUISITOS. TERMO INICIAL DOS EFEITOS FINANCEIROS DA REVISÃO: DATA DA CONCESSÃO DO BENEFÍCIO ORIGINÁRIO. ENTENDIMENTO JÁ FIRMADO PELA SEGUNDA TURMA DESTA CORTE E PELA TNU (TEMA 102). RECURSO ESPECIAL DA SEGURADA PROVIDO.
+1. É firme a orientação desta Corte de que a comprovação extemporânea de situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do Segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do preenchimentos dos requisitos para a sua concessão.
+2. Não é possível condicionar o nascimento de um direito, com seus efeitos reflexos, ao momento em que se tem comprovados os fatos que o constituem, uma vez que o direito previdenciário já está incorporado ao patrimônio e à personalidade jurídica do Segurado desde o momento em que o labor foi exercido.
+3. Impõe-se, assim, reconhecer que o termo inicial dos efeitos financeiros da revisão de benefício previdenciário deve retroagir à data da concessão do benefício originário, uma vez que o deferimento da ação revisional representa, tão somente, o reconhecimento tardio de um direito já incorporado ao patrimônio jurídico do Segurado.
+4. Tal entendimento reflete a jurisprudência firmada pela Segunda Turma desta Corte e pela TNU no julgamento do Tema 102. Precedentes: AgInt no REsp.
+1.609.332/SP, Rel. Min. FRANCISCO FALCÃO, DJe 26.3.2019, REsp.1.732.289/SP, Rel. Min. HERMAN BENJAMIN, DJe 21.11.2018, PEDILEF 2009.72.55.008009-9/ SC, Rel. Juiz Federal HERCULANO MARTINS NACIF, DJe 23.4.2013.
+5. Recurso Especial da Segurada provido.
+(REsp 1.745.509/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 11/06/2019, DJe 14/06/2019) (Grifos acrescidos).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EFEITOS FINANCEIROS DA REVISÃO.DATA DA CONCESSÃO DO BENEFÍCIO.
+1. É assente no STJ o entendimento de que o termo inicial dos efeitos financeiros da revisão deve retroagir à data da concessão do benefício e não a partir da citação, uma vez que o deferimento da ação revisional representa o reconhecimento tardio de um direito já incorporado ao patrimônio jurídico do segurado, não obstante a comprovação posterior do salário de contribuição. Para o pagamento dos atrasados, impõe-se a observância da prescrição quinquenal.
+2. Recurso Especial provido.
+(REsp 1.732.289/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/04/2018, DJe 21/11/2018).
+No entanto, o presente agravo merece parcial acolhimento para ressalvar a prescrição quinquenal, como postulado pela autarquia. É que, embora o autor já possuísse direito à aposentadoria por tempo de contribuição na data do requerimento administrativo, em 04/05/1999, somente postulou a ação em apreço em 07/02/2012 (e-STJ fl. 5).
+Ante o exposto, DOU PARCIAL PROVIMENTO ao agravo interno apenas para ressalvar a prescrição quinquenal.
+É como voto.
