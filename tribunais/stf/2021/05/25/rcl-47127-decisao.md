@@ -1,0 +1,18 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    Israel Felix Xavier Lacerda, representado pela Defensoria Pública do Estado do Ceará, afirma ter o Juízo da Terceira Vara de Execução Penal da Comarca de Fortaleza/CE, no processo nº 0047776-87.2019.8.06.0001, inobservado o teor do verbete vinculante nº 56 da Súmula.
+    Narra que, embora deferida progressão do regime de cumprimento fechado para o semiaberto, não foi acolhido pedido de custódia domiciliar, a implicar manutenção em local inadequado. Discorre sobre a situação carcerária estadual, a evidenciar superlotação. Entende insuficiente a separação de alas em unidades prisionais concernentes ao regime fechado. Insiste na inexistência de estabelecimento para adimplemento de pena em regime intermediário e no preenchimento dos requisitos legais para a progressão. Pondera impróprio evocar a gravidade abstrata do delito praticado com a finalidade de impedir a prisão domiciliar. Alude ao princípio da individualização da pena e à Recomendação nº 62 do Conselho Nacional de Justiça.
+    Requer, no campo precário e efêmero, seja assegurado o regime domiciliar, com monitoramento eletrônico. Pretende, no mérito, a confirmação da providência.
+    O Juízo, nas informações, aponta observados os parâmetros constantes no acórdão relativo ao recurso extraordinário nº 641.320. Ressalta que o reclamante postulou a custódia domiciliar sem cumprir nenhum dia em regime semiaberto, estando distante de atingir o prazo para o aberto. Menciona determinada a remoção do apenado para ala destinada a condenados no intermediário.
+    2. A leitura do pronunciamento impugnado revela ausente debate sobre a adequação de estabelecimento prisional. O Juízo, ao determinar a progressão, a par de haver assegurado a custódia em ala própria ao regime semiaberto, afastou a prisão domiciliar porquanto distante o atingimento do tempo para o aberto. Confiram trecho das informações apresentadas:
+    [...]
+    Ao contrário do que reclamado, a decisão combatida obedeceu a Súmula Vinculante 56. Isto porque não foi baseada apenas no critério objetivo para o indeferimento do pedido. Esse foi um dentre demais que foram analisados em conjunto, embora tivesse maior peso em face da constatação de que na data do pedido o condenado não estava mais próximo de satisfazer o requisito objetivo para a mudança de regime, ou seja, não estava mais perto de alcançar o regime aberto. A afirmação tem razão quando se compara a proximidade entre a data da progressão de regime com a data da análise definitiva do pedido. Está mais do que claro que quando teve indeferido o pedido, o apenado havia cumprido nenhum dia de pena no novo regime, restando a cumprir(12 anos, 05 meses e 02 dias), no dia da decisão de indeferimento em 04/ 12/2020, possui requisito objetivo para o aberto previsto para o dia 13/02/2022. É ainda mais óbvio que essa simples constatação permite concluir que “diferentemente dos que cumprem penas menores, o sentenciado não está próximo de satisfazer o requisito objetivo. Conforme orientação do Supremo, para o benefício antecipado prefere-se o preso que está mais próximo de progredir”. Destacando ainda que foi determinada a remoção do apenado para a ala destinada aos presos que cumprem pena no regime semiaberto.
+    [...]
+    A óptica está em harmonia com o versado no enunciado vinculante nº 56:
+    A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 25 de maio de 2021.
+Ministro MARCO AURÉLIO
+Relator
