@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto peloINSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA contra decisão doTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, o qual não admitiu recurso especial fundadona alínea "a"do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl.54):
+TRIBUTÁRIO AGRAVO DE INSTRUMENTO EXECUÇÃO FISCAL CONSTRIÇÃO PENHORA AVALIAÇÃO INDISPONIBILIDADE DE BENS RENAJUD 1. A RESTRIÇÃO TOTAL SOBRE OS VEÍCULOS RESULTA EM MEDIDA EXTREMA DEVENDO SER DETERMINADA POR ORA APENAS A RESTRIÇÃO DE TRANSFERÊNCIA DOS BENS JUNTO AO ÓRGÃO DE TRÂNSITO ESTA SUFICIENTE AO FIM PRETENDIDO.
+No recurso especial obstaculizado, a parte apontou violaçãodos arts.10 e 11, da Lei n.6.830/1980e dos arts. 139, 154 e 797do CPC/2015. Defende que, diante da conduta do devedor de ocultar seu patrimônio, deve ser deferida a medida de restrição de circulação veicular(e-STJ fls. 81/85).
+Sem contrarrazões.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+O Regional, nos autos de execução fiscal, manteve o indeferimento do pedido do exequente, ora recorrente, de restrição de circulação de veículos de propriedade do executado.
+Para tanto, valeu-se do disposto noRegulamento do Renajud (e-STJ fls. 56/58).
+Quanto à alegada ofensa aosarts. 10 e 11da Lei n.6.830/1980e aos arts. 139, 154 e 797do CPC/2015,observa-se que o Tribunal a quo não emitiu juízo de valor sobre os referidos dispositivos, embora suscitados nos embargos de declaração, carecendo o apelo nobre do requisito constitucional do prequestionamento. Incide, na espécie, o óbice da Súmula 211 do STJ.
+É verdade que o art. 1.025 do Código de Processo Civil de 2015 consagrou o "prequestionamento ficto", o qual prescrever, in verbis:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+Ocorre que esta Corte tem entendido que o acolhimento do prequestionamento ficto de que trata o aludido dispositivo, na via do especial, exige do recorrente a indicação de violação do art. 1.022 do CPC/2015, "para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (AgInt no AREsp 1.067.275/RS, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, julgado em 03/10/2017, DJe 13/10/2017, e AgInt no REsp 1.631.358/RN, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 27/06/2017, DJe 30/06/2017), o que não ocorreu, in casu.
+Ademais,conforme orientação sedimentada noSuperior Tribunal de Justiça, descabe, nesta seara do Recurso Especial, exame e interpretação de disposições contidas em normas de caráter infralegal, tais como Resoluções, Portarias ou Regulamentos, porquanto não inseridos essesatos normativos no conceito de lei federal, nos termos do art. 105, III, "a", da Constituição Federal(AgInt no REsp .1613.115/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, julgado em 08/06/2020, DJe 17/06/2020, eAgInt no AREsp 1.602.125/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 1º/06/2020, DJe 09/06/2020).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem a majoração dos honorários, nos termos do art. 85, § 11, do CPC/2015, visto queo recurso especial origina-se de agravo de instrumento.
+Publique-se. Intimem-se.
