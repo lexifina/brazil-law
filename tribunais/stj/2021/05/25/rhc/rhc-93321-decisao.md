@@ -1,0 +1,60 @@
+DECISÃO
+DAMIAO PEREIRA DOS SANTOSalega sofrer coação ilegal no seu direito de locomoçãoem decorrência de acórdão do Tribunal de Justiça do Estado de São Paulono HC n. 2133983-71.2017.8.26.0000.
+O recorrente foi condenado pelo crime do art. 157, § 2º, I, do Código Penal, a 6 anos e 8 meses de reclusão mais 21 dias-multa, em regime inicial fechado (Ação Penal n. 0062583-09.2003.8.26.0554). A defesa interpôs apelação criminal, a qual não foi conhecida com fulcro na previsão do art. 594 do Código de Processo Penal, vigente à época. O feito transitou em julgado em 20/4/2006.
+A defesa alega constrangimento ilegal, pois "Se o art. 594 do CPP não foi recepcionado pela Constituição Federal de 1988, a inconstitucionalidade da norma, ainda que ela só tenha sido revogada posteriormente, antecede à sua aplicação no caso concreto, já que o ato foi praticado na vigência da nova ordem constitucional" (fl. 153).
+Requer que seja cassado o trânsito em julgado da sentença condenatória, com a expedição de alvará de soltura.
+O Ministério Público Federal, em parecer daSubprocuradora-Geral da República Maria das Mercês de C. Gordilho Aras, às fls. 172-181, opinou pelo não provimento do recurso.
+Decido.
+I. Contextualização
+Conforme já relatado, o recorrente foi condenado, em primeira instância, pelo crime do art. 157, § 2º, I, do Código Penal. A apelação criminal não foi conhecida, em razão da previsão do art. 594 do CPP, que condicionava o conhecimento do referido recurso mediante o recolhimento do réu à prisão.
+A sentença condenatória transitou em julgado em 20/4/2006.
+Consta que o recorrente foi preso em 13/4/2016 e a partir de então pleiteou na Corte de origem a desconstituição do trânsito em julgado, para possibilitar a análise de mérito da apelação criminal.
+O Tribunal assim se manifestou (fls. 138-143):
+ ..
+DAMIÃO foi processado e ao final condenado pelo Juízo da 2ª Vara Criminal da Comarca de Santo André, nos autos da Ação Penal n. 0062583-09.2003.8.26.0554, à pena de 6 anos e 8 meses de reclusão, além de 21 dias-multa, em regime fechado, por violação ao art. 157, § 2º, I, do Código Penal.
+O título penal condenatório transitou em julgado para a defesa em 20.4.2006 (fl. 43).
+Contra a referida sentença condenatória foi manejada ação de Revisão Criminal (fls. 78/88), distribuída ao 7º Grupo de Direito Criminal deste Tribunal de Justiça que, em sessão realizada em 8.6.2017, julgou parcialmente procedente o pedido para reduzir as penas do ora paciente para 5 anos e 4 meses de reclusão, e 13 dias-multa, com manutenção do regime prisional fechado (fl. 95/107).
+A prisão do recorrente ocorreu apenas em 13.4.2016, na Comarca de Itajubá/MG, onde se encontra recolhido até a presente data.
+Inconformado ainda com o não processamento da apelação interposta no ano de 2006, DAMIÃO impetrou o presente writ por meio do qual afirma sofrer constrangimento ilegal em decorrência do não julgamento do recurso, providência que espera ver sanada com a impetração desta ação constitucional.
+Antes de adentrar o mérito postulado na petição inicial, vale ressaltar o pacífico entendimento do Superior Tribunal de Justiça acerca da inconstitucionalidade da exigência de recolhimento ao cárcere do réu condenado para interpor recurso de apelação (HC N. 320.034/MG).
+Tal compreensão jurisprudencial foi positivada com a edição das Leis n. 11.719/2008 e 12.736/2012, quando restou revogado expressamente o art. 594 do CPP e inserido o parágrafo primeiro no art. 387 do Estatuto Processual, com a seguinte redação
+ ..
+Nada obstante, impede anotar que a regra atual do art. 387, § 1º do CPP não se aplica ao caso ventilado na impetração.
+É que o questionamento exposto no presente writ diz respeito a ação penal proposta no ano de 2003, cuja sentença condenatória transitou em julgado em 2006.
+No momento da interposição do recurso de apelação- abril de 2006-, estavam em vigor o art. 594 do CPP e a Súmula n. 9 do STJ, os quais exigiam o prévio recolhimento do sentenciado ao cárcere para processamento de recurso oposto ao título penal condenatório.
+Dessa maneira, forçoso reconhecer que a r. decisão judicial ora guerreada era juridicamente sustentável à luz do ordenamento então vigente e deve prevalecer.
+Tal raciocínio se justifica porque as normas processuais estão sujeitas ao princípio do "tempus regit actum", não podendo retroagir para alterar o curso dado a processo penal que tramitou durante a vigência de norma já revogada, no caso, há quase dez anos.
+ ..
+De ser assim que até mesmo eventual nulidade absoluta que pudesse ter-se verificado em tão longínqua data já não teria mais o condão de repercutir sobre a realidade processual dos autos, uma vez que a alegação ventilada na impetração, além de preclusa, está superada pelo advento da coisa julgada.
+Solução diversa causaria indevida e indesejável insegurança jurídica, consoante pacífico entendimento jurisprudencial.
+ ..
+Por fim, impende assinalar que embora não tenha sido processado o mencionado recurso da apelação, esta Corte já teve a oportunidade de reexaminar as provas que redundaram no reconhecimento da responsabilidade penal do paciente, quando do julgamento da Revisão Criminal destacada na inicial, mantendo a solução condenatória editada em Primeiro Grau, inclusive, como dito, com redução, de ofício, das reprimendas inicialmente impostas a DAMIÃO.
+II. Princípio do tempus regit actum
+É necessárioconferir relevo à historicidade da realidade social na interpretação das decisões proferidas pelos tribunais que há de ser feita com a compreensão histórica em que foram proferidas, de sorte a, eventualmente, autorizar a permanência, no mundo jurídico, de decisões que, à luz de uma visão reinante em dado momento, encontravam forte apoio da jurisprudência das Cortes Superiores ou, a fortiori, em textos legais.
+Após a Constituição da República, o recém criado Superior Tribunal de Justiça, em uma de suas primeiras súmulas, foi categórico em assentar que "A exigência da prisão provisória, para apelar, não ofende a garantia constitucional da presunção de inocência" (verbete 9).
+Era, portanto, entendimento sedimentado no Superior Tribunal de Justiça que o exercício da apelação podia ser condicionado ao prévio recolhimento à prisão e, por conseguinte, nenhum reparo poderia haver à correlata regra de que a fuga do apelante produzia a extinção do direito ao reexame da sentença, pelo fenômeno da deserção.
+Faço, ainda, alusão à relevante circunstância de que o Supremo Tribunal Federal, intérprete maior da Constituição da República, somente em 2009, em sua composição plena e em controle difuso, julgou inconstitucional (rectius, não recepcionado) o art. 595 do Código de Processo Penalquando concedeu a ordem postulada em dois Habeas Corpus (85.961/SP e 85.369-SP).
+O caminho percorrido pela jurisprudência dos tribunais superiores sobre o tema teveumareviravolta, porquanto passou de uma inicial aceitação das exigências formais positivadas nos arts. 594 e 595 do CPP para a rejeição de ambas as condicionantes do conhecimento da apelação contra a sentença condenatória.
+No Superior Tribunal de Justiça, também era expresso o entendimento de que deveria ser considerada deserta a apelação do réu foragido, embora a Sexta Turma, no final dos anos 90, já demonstrasse alguma tendência a liderar a modificação do rumo da jurisprudência (e.g., com o julgamento do HC n. 9.857/MG, Rel. Ministro Vicente Leal, j. 14/9/1999, DJ 28/2/2000, p. 125).
+As normas referentes a recursos no processo penal têm natureza tipicamente processual, ainda que, indiretamente, interfiram no exercício da ampla defesa, fenômeno que, a rigor, se verifica em qualquer tema relacionado ao curso de uma demanda penal.
+Não pretendo dizer que a coisa julgada, no âmbito penal, consolida e imuniza situações de notória ilegalidade contra correções judiciais futuras. Basta ver quão comum é o uso de ações de revisão criminal e de habeas corpus para desconstituir condenações transitadas em julgado quando se constata haver o ato judicial hostilizado se colocado em manifesta afronta à lei ou à Constituição então vigentes.
+Entretanto, insisto que, no caso presente, não havia nenhum sinal, quando se aplicou o art. 594do CPP, de sua desconformidade constitucional, e algunsanos foram necessários para que ocorressem quer a revogação do dispositivo legal, quer a declaração de sua não recepção pela Carta de 1988 e, entrementes, o câmbio jurisprudencial verificado nos tribunais superiores.
+Não há como, portanto, desconstituir decisão judicial que, em seu tempo, deu ao dispositivo legal ainterpretação que prevalecia na jurisprudência nacional.
+A Quinta Turma do STJ tem julgados que, em casos semelhantes aos dos autos, entendempelo resguardo da segurança jurídica com base na aplicação do princípio do tempus regit actumna interpretação das normas processuais.
+Ilustrativamente:
+ ..
+II - A atual jurisprudência desta Corte Superior de Justiça é firme no sentido de que é ilegal e inconstitucional a exigência de recolhimento ao cárcere do réu condenado para poder interpor apelação. (Precedentes).
+III - O entendimento outrora esposado por esta Corte Superior restou definitivamente superado com a edição do Enunciado Sumular n.347/STJ ("O conhecimento de recurso de apelação do réu independe de sua prisão").
+IV - In casu, contudo, no momento da interposição do recurso de apelação, em março de 2005, vigente ainda o art. 594 do Código de Processo Penal e válido verbete sumular n. 9/STJ ("A exigência da prisão provisória, para apelar, não ofende a garantia constitucional da presunção de inocência"), de modo que, não tendo o paciente se recolhido à prisão, era juridicamente sustentável a decisão que não conheceu da insurgência.
+V - As normas de cunho processual regem-se pelo princípio do tempus regit actum, não retroagindo para alterar o curso dado ao processo penal à época em que estava em tramitação. Com efeito, "As normas de direito processual têm aplicação imediata e não possuem efeito retroativo. Incidência do princípio tempus regit actum" (HC n.203.360/DF, Quinta Turma, Rel. Min. Campos Marques - Desembargador convocado do TJ/PR, DJe de 9/4/2013) .. Agravo regimental desprovido(AgRg no HC n. 521.974/CE, Rel. Ministro LeopoldodeArrudaRaposo(Desembargador Convocado doTJ/PE), 5ª T.,DJe 22/10/2019)
+ ..
+III - Normas de cunho processual, sob a égide do princípio do tempus regit actum, não retroagem para alterar o curso dado ao processo penal à época de sua tramitação.
+IV - Verifica-se que, no momento da interposição do recurso de apelação, em março de 2005, estava em vigência o art. 594 do CPP e ainda válida a Súmula 9/STJ ("A exigência da prisão provisória, para apelar, não ofende a garantia constitucional da presunção de inocência"), de modo que, não tendo se recolhido à prisão, juridicamente sustentável era decisão que não conheceu da insurgência.
+V - Não se desconhece decisão do Supremo Tribunal Federal que entendeu por não recepcionados os revogados arts. 594 e 595 do CPP.Contudo, igualmente firme o entendimento do próprio Excelso Pretório no sentido de que, passado longo tempo para se apontar a eventual nulidade (in casu, quase 7 anos), preclusa ela se revelará, em homenagem ao princípio da segurança jurídica.
+Habeas corpus não conhecido.
+(HC n. 321.222/SP, Rel. Ministro Felix Fischer, 5ª T.,DJe 29/2/2016)
+Vale mencionar que, na hipótese, o trânsito em julgado ocorreu em 20/4/2006e a defesa somente se insurgiu quanto ao não conhecimento da apelação depois da prisão do recorrente (13/4/2016). A impressão é deque guardava uma carta na manga, o que não se coaduna com o dever de lealdade processual.
+Outra circunstância relevante é o fato deo Tribunal de origem já haver reavaliadoa sentença proferida em desfavor do recorrentequando do julgamento da revisão criminal, a qual, inclusive, reduziu a pena imposta.Assim, não identifico razões suficientes para desconstituir o trânsito em julgado da condenação.
+III. Dispositivo
+À vista do exposto, nego provimento ao recurso ordinário.
+Publique-se e intimem-se.
