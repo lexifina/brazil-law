@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por ALIANCA DO BRASIL SEGUROS S/A contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PRESTAÇÃO DE SERVIÇO DANO EM EQUIPAMENTO ELÉTRICO AÇÃO REGRESSIVA DE INDENIZAÇÃO SECURITÁRIA AUTORA QUE APRESENTA PROVA DE TER SIDO O DANO CAUSADO POR OSCILAÇÃO DA CORRENTE ELÉTRICA MAS NÃO QUE ISSO TENHA OCORRIDO EM FACE DA REDE EXTERNA SOB A RESPONSABILIDADE DA CONCESSIONÁRIA DEMANDADA QUE NÃO ADMITE ANORMALIDADE DAQUELA ORDEM NEXO ETIOLÓGICO ENTRE O DANO E FALHA NO SERVIÇO NÃO CARACTERIZADO AÇÃO IMPROCEDENTE APELAÇÃO IMPROVIDA.
+Quanto à controvérsia, alega violação dos arts. 373, I, § 1º, do CPC e 6º, VIII, do CDC, no que concerne à inversão do ônus da prova, trazendo o(s) seguinte(s) argumento(s):
+Excelências, equivocam-se os Magistrados da Egrégia Câmara em seu entendimento de não considerar/observar a inversão do ônus da prova no presente caso.
+Vê-se que a empresa Recorrente é hipossuficiente na relação entravada.
+Assim, aplicável o Código de Defesa do Consumidor, na medida em que o serviço de fornecimento de energia configura relação de consumo (art. 2º e 3º da lei nº 8.078/90) e a seguradora, na espécie, sub-roga-se nos direitos e na pessoa jurídica de seus segurados.
+ ..
+Pois bem, conforme previsão do art. 6º, VIII do CDC, deve-se aplicar o instituto processual da inversão do ônus da prova ao caso concreto.  ..
+Apesar de a Recorrente se tratar de empresa de grande porte no ramo de seguros, esta notadamente não possui técnicos com conhecimento para a solução de tais questões, tendo em vista que a expertise da presente recorrente é no ramo de seguros, não possuindo conhecimento algum quanto ao fornecimento de energia (fls. 1.160/1.163).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à distribuição do ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em recurso especial.
+Nesse sentido, o STJ já decidiu que "a alteração das conclusões adotadas pela instância ordinária, no que diz respeito ao ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ". (AgInt no AREsp 1.190.608/PI, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/4/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.606.233/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 13/8/2020; AgInt no AREsp 1.060.371/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2020; e REsp 1.812.278/CE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/10/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
