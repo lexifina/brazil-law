@@ -1,0 +1,78 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por SERGIO DOS SANTOS JORGE e outros contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 2.083, e-STJ):
+AG INTERNO - IMPROVIMENTO APELAÇÃO CÍVEL. Responsabilidade civil. Improcedência. Validade dos termos de adesão firmados pelos autores junto a ré, visando a alteração do regulamento do plano PETROS, como fim de aumentar a contribuição mantendo a paridade entre ativos e inativos. Inexistência de vicio de vontade ou abusividade nas clausulas pactuadas a ensejar a declaração de nulidade ou anulabilidade. Manutenção integral da sentença.
+Opostos embargos de declaração, esses foram rejeitados (fls. 2.099/2.102, e-STJ).
+Em suas razões de recurso especial (fls. 2.104/2.132, e-STJ), o recorrente aponta violação aos arts. 369, 373, I, 489, IV, 508, 1021, §§ 1º e 3º, 1022, do CPC/2015, bem como os artigos 110, 112, 113,171, II, 187, 421, 422, 423 e 478, todos do Código Civil, e arts. 4º, III e IV, 6º, I, II, IV, V, 30, 31, 36, § único, 37, § 1º, 39, IV, V, 46, 47, 51, III, IV, XIII, todos do CDC, 5º, inc. XXXV e XXXVI, 93, inc. IX, da CF, sob os seguintes argumentos em síntese:
+a) existência de omissão no acórdão recorrido acerca das matérias suscitadas nos embargos de declaração, o que implica em cerceamento de defesa da parte autora;
+b) cerceamento de defesa em razão da negativa da pericia contábil;
+c) tratar-se de repactuação individual;
+d) necessidade de declaração de nulidade do termo de adesão do autor à repactuação, em face do vício de consentimento;
+e) sucessivamente, a nulidade da cláusula inserta no Regulamento aprovado em 24/11/2008 na parte em que estabelece o direito potestativo da Petros de definir o índice de reajustamento dos benefícios na hipótese de extinção do IPCA;
+f) direito adquirido de não contribuir para eventuais coberturas de déficit do plano previdenciário; e
+g) necessidade de inversão dos ônus sucumbenciais, levando-se em consideração os critérios previstos no art. 85, § 2º, incs. I, II, III, e IV, do NCPC.
+Contrarrazões às fls. 2.224/2.268, e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 2.474/2.478, e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: incidência dos óbices das Súmulas 7 do STJ e 279 do STJ e por inexistência de negativa de prestação jurisdicional.
+Daí o agravo (fls. 2.521/2.563, e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 2.74/2.597 e 2.636/2.677, e-STJ.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1. De início, observa-se que em recurso especial não cabe invocar ofensa à norma constitucional, razão pela qual o presente recurso não pode ser conhecido relativamente à apontada violação aos artigos 1º, II, III e IV, e 5º, XXXV e XXXVI, da Constituição Federal.
+2. Com relação à alegada ofensa aos artigos 7º, parágrafo único, 4º, III, 6º, V, 39, IV, V, XIII, 51, IV, XV, § 1º, do Código de Defesa do Consumidor, observa-se que, consoante entendimento desta Corte Superior, o Código de Defesa do Consumidor não se aplica à relação jurídica existente entre entidade fechada de previdência privada e seus participantes, nos termos da súmula 563/STJ, não podendo, portanto, ser conhecidos.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL. PREVIDÊNCIA PRIVADA FECHADA. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE.
+1. O Código de Defesa do Consumidor não é aplicado na relação jurídica mantida entre o ente fechado de previdência privada e seus participantes, porquanto o patrimônio da entidade e respectivos rendimentos revertem-se integralmente na concessão e manutenção do pagamento de benefícios, prevalecendo o associativismo e o mutualismo, a afastar o intuito lucrativo. Incidência da Súmula nº 563/STJ.
+2. Agravo regimental não provido.
+(AgRg nos EDcl no REsp 1484026/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/02/2017, DJe 24/02/2017)
+3. De outra parte, não se verifica ofensa aos arts. 489, § 1º, e 1.022, inc. II, do CPC/15, quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018; AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018; AgInt nos EDcl no REsp 1647017/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/03/2018, DJe 02/04/2018 .
+Alegou a parte recorrente que o acórdão impugnado restou omisso acerca das matérias suscitadas nos embargos de declaração.
+No entanto, o Tribunal de origem se manifestou expressamente sobre as questões apontadas como omissas, consignando que (fls. 2085, e-STJ):
+Na verdade, é fato incontroverso que o contrato que os autores agora pretendem anular, tinha com como objetivo a alteração contratual do plano de previdência a fim de equalizar as finanças e permitir o pagamento equitativo dos ativos e inativos.
+Permitir-se a fuga individual dos autores do plano aderido por seu sindicato, significa estimular o enriquecimento sem causa dos autores, em detrimento dos demais conveniados, que arcarão sozinhos pelas perdas financeiras. Ademais, houve adesão individual dos autores aos planos, com indenizações especiais, sendo certo que não existe nos autos qualquer prova da existência de vícios de vontade a ensejar a participação do Poder Judiciário no ato jurídico perfeito.
+Como visto, as questões essenciais á solução da lide foram apreciadas pelo Tribunal a quo, ainda que em sentido contrário a sua pretensão recursal.
+Não há que se falar, portanto, em qualquer vício, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado. Afasta-se, portanto, a alegada violação aos artigos 489, § 1º, e 1.022, inc. II, do CPC/15.
+5. Quanto a alegado erro por parte do acórdão local a respeito de se tratar de pactuaçao individual e não por sindicato, melhor sorte não acolhe aos recorrentes.
+Com efeito, extrai-se do acórdão local (fls. 2085, e-STJ):
+Ademais, houve adesão individual dos autores aos planos, com indenizações especiais, sendo certo que não existe nos autos qualquer prova da existência de vícios de vontade a ensejar a participação do Poder Judiciário no ato jurídico perfeito.
+Como se vê o Tribunal de origem também especificou haver casos de autores que aderiram individualmente aos planos, o que afasta o erro apontado.
+Modificar tal premissa demandaria o revolvimento de matéria fática, o que encontra óbice na Súmula 7 do STJ.
+6. Já com relação aos dispositivos legais apontados como violados, relativos às teses sobre a necessidade de declaração de nulidade do termo de adesão do autor à repactuação, bem como, acerca da nulidade da cláusula inserta no Regulamento da Petros, vê-se que a controvérsia foi decidida à luz das peculiaridades da demanda. Eventual reforma do acórdão recorrido demandaria o reexame das provas dos autos, juízo obstado pelas Súmulas 5 e 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. REVISÃO DE SUPLEMENTAÇÃO DE PENSÃO POR MORTE. FALTA DE PREQUESTIONAMENTO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 284/STF. SUPLEMENTAÇÃO. DIRETRIZES PARA CÁLCULO DE BENEFÍCIO CONFORME REGULAMENTO DA ENTIDADE. INCIDÊNCIA DOS ÓBICES DAS SÚMULAS 5 E 7/STJ. AGRAVO NÃO PROVIDO.
+1. Quanto à alegada vulneração aos arts. 1º, 3º e 7º da LC 109/2001, fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento.
+Aplicam-se, por analogia, as Súmulas 282 e 356/STF.
+2. No que concerne aos arts. 236, 535 e 552 do CPC/1973, apontados como violados, a parte recorrente não desenvolveu argumentação que evidenciasse as ofensas, caracterizando a deficiência na fundamentação do apelo especial, circunstância que atrai, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal.
+3. O Tribunal de origem concluiu que a forma de cálculo do benefício previdenciário devido à agravada foi realizado de forma incorreta pela agravante, com fundamento no regulamento da entidade de previdência complementar e nas provas carreadas aos autos. 4. A modificação do entendimento lançado no v. acórdão recorrido demandaria análise de cláusulas contratuais e reexame do conjunto probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 deste Pretório.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1115514/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 12/12/2017, DJe 19/12/2017)
+PROCESSUAL CIVIL E CIVIL. AGRAVO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. SUPLEMENTAÇÃO DE PENSÃO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. A interpretação de cláusulas contratuais e o reexame de fatos e provas em recurso especial são inadmissíveis.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo não provido.
+(AgRg no AREsp 510.425/BA, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/06/2014, DJe 18/06/2014)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COMPLEMENTAÇÃO DE APOSENTADORIA. PRESCRIÇÃO. NÃO OCORRÊNCIA. PRECEDENTE DO STJ. ALEGAÇÃO DE VIOLAÇÃO À LEI Nº 6.435/77. INCIDÊNCIA DA SÚMULA 284/STF. INTERPRETAÇÃO DO REGULAMENTO DA ENTIDADE DE PREVIDÊNCIA PRIVADA. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 05 E 07 DO STJ. DECRETO. ATO NORMATIVO NÃO INCLUÍDO NO CONCEITO DE LEI FEDERAL. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO.
+(..)
+3. O acolhimento da pretensão recursal demanda a interpretação das cláusulas constantes do Regulamento Básico da PETROS, providência vedada no âmbito do recurso especial, a teor das súmulas 05 e 07 do STJ.
+4. Decretos, portarias, circulares e resoluções não estão compreendidos no conceito de lei federal e, portanto, não permitem a abertura da instância especial.
+5. Em face da ausência de demonstração analítica do dissidio jurisprudencial suscitado, incide, na espécie, o óbice da súmula 284 do STF.
+6. Agravo regimental a que se nega provimento.
+(AgRg no Ag 1.061.205/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/06/2010, DJe 02/08/2010).
+7. Por fim, no que respeita à tese acerca do direito adquirido de não contribuir para eventuais coberturas de déficit do plano previdenciário, observa-se que, nos termos da jurisprudência desta Casa, é possível rever os regulamentos dos planos de benefício, quando houver superávit ou déficit, em razão do mutualismo existente nos planos de previdência fechados, submetidos ao regime de capitalização.
+Outrossim, isso é o que se extrai do disposto no artigo 21, da Lei Complementar nº 109/2001, que " o s regulamentos dos planos de benefícios evidentemente podem ser revistos, em caso de apuração de déficit ou superávit, decorrentes de projeção atuarial que no decorrer da relação contratual não se confirme, pois, no regime fechado de previdência privada, há um mutualismo, com explícita submissão ao regime de capitalização".
+Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO ESTADUAL. AFRONTA AO ARTIGO 535, II, DO CPC/73. INEXISTÊNCIA. PREVIDÊNCIA PRIVADA. AUMENTO DE CONTRIBUIÇÕES. EQUACIONAMENTO DE DÉFICIT. POSSIBILIDADE. ART. 21, § 1º, DA LC 109/2001. SÚMULA Nº 83/STJ. PRECEDENTES.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015 é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+3. Nos termos da jurisprudência desta Corte, "os regulamentos dos planos de benefícios evidentemente podem ser revistos, em caso de apuração de déficit ou superávit, decorrentes de projeção atuarial que no decorrer da relação contratual não se confirme, pois, no regime fechado de previdência privada, há um mutualismo, com explícita submissão ao regime de capitalização". (REsp 1184621/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/4/2014, DJe 9/5/2014).
+4. Agravo interno não conhecido.
+(AgInt no AREsp 1081813/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/03/2018, DJe 04/04/2018)
+AGRAVO INTERNO. PREVIDÊNCIA PRIVADA. RELAÇÃO CONTRATUAL AUTÔNOMA DE DIREITO CIVIL DE PREVIDÊNCIA COMPLEMENTAR E RELAÇÃO TRABALHISTA DE EMPREGO. VÍNCULOS CONTRATUAIS INEQUIVOCAMENTE DISTINTOS, QUE NÃO SE CONFUNDEM. É MANIFESTAMENTE DESCABIDA A INVOCAÇÃO DE DISPOSITIVO DA CLT, POR SER ESTRANHO AO REGRAMENTO PRÓPRIO DO CONTRATO DE PREVIDÊNCIA COMPLEMENTAR. TESE DE VIOLAÇÃO AO ATO JURÍDICO PERFEITO, CASO NÃO PREVALEÇA O REGULAMENTO QUE VIGIA POR OCASIÃO DA ADESÃO AO PLANO DE BENEFÍCIOS. PLEITO QUE NÃO TEM NENHUM SUPEDÂNEO NA AB-ROGADA LEI N. 6.435/1977 NEM NA VIGENTE LEI COMPLEMENTAR N. 109/2001 - QUE DISCIPLINAM O REGIME JURÍDICO DA PREVIDÊNCIA COMPLEMENTAR. SÓ HÁ DIREITO ADQUIRIDO AO BENEFÍCIO - NOS MOLDES DO REGULAMENTO VIGENTE DO PLANO - NO MOMENTO EM QUE O PARTICIPANTE PASSA A TER DIREITO AO BENEFÍCIO COMPLEMENTAR DE PREVIDÊNCIA PRIVADA.
+1. "No tocante ao regime de previdência privada complementar, é pacífica a orientação desta Corte de que o direito adquirido somente se aperfeiçoa no momento em que o participante preencher os requisitos para a percepção do benefício previdenciário". (AgRg no REsp 989.392/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/04/2014, DJe 14/04/2014)
+2. É dizer, a tese recursal não tem nenhum supedâneo na legislação de regência da relação contratual de previdência complementar, pois, seja sob a égide da Lei n. 6.435/1977 ou das Leis Complementares n. 108/2001 e 109/2001, sempre foi permitida à entidade de previdência privada, com a prévia anuência do órgão público federal fiscalizador, alterar os regulamentos dos planos de benefícios.
+3. Com efeito, " o s regulamentos dos planos de benefícios evidentemente podem ser revistos, em caso de apuração de déficit ou superávit, decorrentes de projeção atuarial que no decorrer da relação contratual não se confirme, pois, no regime fechado de previdência privada, há um mutualismo, com explícita submissão ao regime de capitalização". (REsp 1184621/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/04/2014, DJe 09/05/2014) 4. Agravo interno não provido. (AgInt no AREsp 926.835/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/09/2016, DJe 07/10/2016)
+8. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nega-se provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
