@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    "O meio ambiente ecologicamente equilibrado é protegido pelo art. 225 da CRFB/88, e sua proteção é competência comum da União, dos Estados, do DF e dos Municípios, conforme art. 23, VI e VII, da CRFB/88. Cabe a cada uma destas esferas de governo, nos termos da lei e do interesse preponderante, fiscalizar, licenciar e, em havendo necessidade, autuar. O licenciamento, na prática, depende da localização do empreendimento/imóvel, de seu tamanho, de sua finalidade, do efetivo impacto causado, o que define o interesse preponderante na atuação da Administração. Trata-se sempre de ponderar entre o indispensável progresso social e o direito constitucional ao meio ambiente saudável. Ambos são protegidos e importantes ao ser humano, motivo pelo qual a garantia de um deve ser confirmada quando, e somente quando, cumpridos estritamente todos os pressupostos e requisitos legais que garantam o não prejuízo do outro.
+    Lote limítrofe com terreno de marinha. Utilização do terreno sem autorização dos órgãos federais ou estaduais e em desrespeito ao municipal. Área de uso comum do povo e área de preservação permanente. Dever de restabelecer ao status quo no que não foi pior ao meio ambiente. Constatada a supressão da vegetação e impedimento de desenvolvimento regular desta em área de preservação permanente, de se observar que na esfera do Direito Ambiental Brasileiro (art. 4º, VII, e 14, § 1º, da Lei nº 6.938/81 e art. 225, § 3º, da Constituição Federal), aquele que causa dano ao meio ambiente tem o dever de restaurar e/ou indenizar os prejuízos ambientais causados, sem necessidade de comprovação de culpa.
+    Pressupondo a existência de um direito, pode-se atender à satisfação do interesse privado, desde que observada a ordenação da cidade, a função da propriedade e respeitado o princípio da natureza pública da proteção ambiental. Possibilidade de regularização parcial."
+    No recurso extraordinário sustenta-se violação do art. 225, § 3º, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    "O magistrado a quo finaliza sua bem lançada sentença resolvendo os dois últimos pontos relativos à recuperação da área apontada como danificada: a retirada do aterro e a demolição das obras.
+    Considerando que a perícia geológica apontou que o impacto ambiental da retirada do aterro seria significativo, com sérios riscos de causar maior prejuízo ao meio do que sua manutenção, e considerando que a regeneração vegetacional já está em natural andamento, entendeu por o manter, posicionamento que mantenho.
+    Quanto às demolições, melhor solução não poderia ter sido adotada, motivo pelo qual também não prospera a irresignação do parquet neste ponto."
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279 do STF. Sobre o tema, a propósito:
+    AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. OFENSA CONSTITUCIONAL REFLEXA. REEXAME DE FATOS. SÚMULA 279/STF
+    1. (...)
+    4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 5. Agravo Interno a que se nega provimento. (RE 1.237.969-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 12/2/2020).
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas.3. Agravo regimental desprovido. (ARE 1.165.382-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 3/3/20).
+    RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA. O recurso extraordinário não é meio próprio ao revolvimento da prova. (RE 1066713-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe 20/2/20).
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de maio de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
