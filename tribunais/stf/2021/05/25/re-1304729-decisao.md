@@ -1,0 +1,14 @@
+Decisão: Inicialmente, registre-se que determinei a remessa dos autos ao Tribunal de origem (eDOC 23) para adequação ao disposto no art. 1.036 do Código de Processo, tendo em vista que a matéria discutida neste autos já foi objeto de análise por esta Corte no Tema 796 da sistemática da repercussão geral, cujo recurso-paradigma é o RE-RG 796.376, de relatoria do Ministro Marco Aurélio, DJe 20.03.15, oportunidade em que a questão restou assim decidida:
+    “CONSTITUCIONAL E TRIBUTÁRIO. IMPOSTO DE TRANSMISSÃO DE BENS IMÓVEIS - ITBI. IMUNIDADE PREVISTA NO ART. 156, § 2º, I DA CONSTITUIÇÃO. APLICABILIDADE ATÉ O LIMITE DO CAPITAL SOCIAL A SER INTEGRALIZADO. RECURSO EXTRAORDINÁRIO IMPROVIDO. 1. A Constituição de 1988 imunizou a integralização do capital por meio de bens imóveis, não incidindo o ITBI sobre o valor do bem dado em pagamento do capital subscrito pelo sócio ou acionista da pessoa jurídica (art. 156, § 2º,). 2. A norma não imuniza qualquer incorporação de bens ou direitos ao patrimônio da pessoa jurídica, mas exclusivamente o pagamento, em bens ou direitos, que o sócio faz para integralização do capital social subscrito. Portanto, sobre a diferença do valor dos bens imóveis que superar o capital subscrito a ser integralizado, incidirá a tributação pelo ITBI. 3. Recurso Extraordinário a que se nega provimento. Tema 796, fixada a seguinte tese de repercussão geral: “A imunidade em relação ao ITBI, prevista no inciso I do § 2º do art. 156 da Constituição Federal, não alcança o valor dos bens que exceder o limite do capital social a ser integralizado". (RE 796376, Relator: MARCO AURÉLIO, Relator p/ Acórdão: ALEXANDRE DE MORAES, Tribunal Pleno, DJe 25.08.2020 - Grifei)”
+    No entanto, os autos retornaram a esta Corte (eDOC 60), tendo em vista petição interposta pela RAÍZEN COMBUSTÍVEIS S/A na qual alega omissão quanto ao contexto fático/jurídico dos autos no tocante ao enquadramento dos autos no Tema 796 da sistemática da repercussão geral.
+    Nesse sentido, a Vice-Presidência do TJCE determinou o retorno do processo ao Supremo Tribunal Federal para possibilitar “a apreciação do último petitório apresentado nos autos.”
+    É o relatório. Decido.
+    Com efeito, a jurisprudência do Plenário desta Corte tem se orientado no sentido de ser incabível recurso contra ato que aplica a sistemática da repercussão geral. Nesse sentido, confiram-se: AI-AgR 778.643, Rel. Min. Cezar Peluso (Presidente), Plenário, DJe 07.12.2011, AI-AgR 775.139, Rel. Min. Cezar Peluso (Presidente), Plenário, DJe 19.12.2011 e MS-AgR 28.982, Rel. Min. Gilmar Mendes, Plenário, DJe 15.10.2010.
+    Ante o exposto, não conheço do recurso, por ser manifestamente inadmissível, nos termos do art. 21, §1º, RISTF.
+    Determino a baixa imediata dos autos.
+    À Secretaria para providências cabíveis.
+    Publique-se.
+    Brasília, 25 de maio de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
