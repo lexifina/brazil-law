@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICODEENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. CIRCUNSTÂNCIAS DO CRIME.QUANTIDADE DE DROGAS. FUNDAMENTAÇÃO. INDICAÇÃO DEELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA.MOTIVAÇÃO IDÔNEA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a manutenção da constrição cautelar está baseada emelementos vinculados à realidade, pois as instâncias ordináriasfizeram referências às circunstâncias fáticas justificadoras, destacando, além da quantidade de droga (apreensão de 8,340 kg de maconha), o fato de que o paciente, em tese, faz parte de umafacção criminosa que atua na região. Isso confere lastro de legitimidade à manutenção da medida extrema.
+3. Não se revelam suficientes as medidas previstas no art. 319 do Código de Processo Penal, pois eventuais condições pessoaisfavoráveis do paciente não têm o condão de, por si sós, garantir a revogação de sua prisão preventiva.
+4. Agravo regimental improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por Francisco Gean Benigno contra a decisão de minha lavra, às fls. 657/660, assim ementada:
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. QUANTIDADE DE DROGAS. CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO IDÔNEA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PARECER ACOLHIDO.
+Ordem denegada.
+Nesta via, o agravante reitera as alegações da impetração, sustentando que a prisão está fundamentada na gravidade abstrata do delito, de forma genérica.
+Aduz que deve ser observado o princípio da presunção de inocência.
+Defende que devem ser estendidos os efeitos da decisão que concedeu liberdade ao corréu Anthony Rodrigues Barbosa.
+Requer a retratação da decisão hostilizada e, caso não seja possível, seja o presente regimental provido para que possa ser concedida a ordem nos termos da inicial do habeas corpus.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. CIRCUNSTÂNCIAS DO CRIME. QUANTIDADE DE DROGAS. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO IDÔNEA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando, além da quantidade de droga (apreensão de 8,340 kg de maconha), o fato de que o paciente, em tese, faz parte de uma facção criminosa que atua na região. Isso confere lastro de legitimidade à manutenção da medida extrema.
+3. Não se revelam suficientes as medidas previstas no art. 319 do Código de Processo Penal, pois eventuais condições pessoais favoráveis do paciente não têm o condão de, por si sós, garantir a revogação de sua prisão preventiva.
+4. Agravo regimental improvido.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Não obstante os argumentos expendidos pelo agravante, esses não têm o condão de infirmar os fundamentos insertos na decisão agravada.
+Reafirmo os fundamentos da decisão objurgada.
+Inicialmente, quanto ao pleito de extensão dos efeitos que concedeu liberdade ao corréu Anthony Rodrigues Barbosa, não houve qualquer menção na inicial do writ aqui impetrado ou no acórdão vergastado.
+Ademais, não foi colacionada aos autos nenhuma decisão referente à concessão de liberdade ao corréu.
+Portanto, essa tese sustentada em sede de agravo regimental não terá como ser analisada por essa Corte Superior de Justiça.
+Em relação aos fundamentos da custódia cautelar, de acordo com as reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção.
+Na espécie, o Juízo de origem, ao converter a prisão em flagrante em preventiva, assim fundamentou a sua decisão (fls. 47/48 - grifo nosso):
+ ..
+Quanto aos réus Francisco Gean Benigno e Valderlandia de Sousa Ferreira, apesar de encontrados depois, entendo que se encontram comprovados indícios de suas participações no delito, tanto pelos depoimentos das testemunhas, como pelo interrogatório policial da coautuada Walderlania. Acrescenta-se, ainda, que foram juntados aos autos registros de conversa via whatsapp, entre os autuados, combinando a entrega dos entorpecentes, o que fragiliza a versão dada por estes sobre não se conhecerem.
+Entendo, ainda, que a segregação cautelar é necessária, evitando-se a reiteração criminosa. Explico: a quantidade de entorpecentes aprendida é exorbitante, calculada em 8.340 Kg, o que indica a gravidade extrema da conduta, bem como que a liberdade dos réus poderá gerar risco à sociedade, visto que há indícios de envolvimento com grupo criminoso atuante nesta Comarca. Apesar de tecnicamente primários, a restrição de sua liberdade se faz necessária para manutenção da ordem pública.
+ ..
+Insatisfeita, a defesa impetrou habeas corpus no Tribunal a quo. Todavia, o Colegiado estadual denegou a ordem, concluindo que (fl. 41 - grifo nosso):
+ ..
+Como visto, a autoridade apontada coatora explicitou a provada materialidade e indícios suficientes de autoria (fumus commissi delicti).
+Noutra vertente, em consulta ao sistema CANCUN, verifica-se que o paciente já possui condenação por tráfico de drogas e associação para o tráfico (processo nº 0063695-92.2017.8.06.0064), aliada a variedade de droga apreendida (maconha, crack e cocaína), evidenciam, em princípio, a gravidade dos fatos e a periculosidade, em tese, do mesmo, o que demonstra, por certo, o risco para a ordem pública, o que só corrobora para a necessidade de manutenção da prisão provisória imposta (periculum libertatis), estando assim a decisão devidamente fundamentada.
+ ..
+Assim, observa-se, da análise dos trechos acima, que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando, além da quantidade de droga (apreensão de 8,340 kg de maconha), o fato de que o agravante, em tese, faz parte de uma facção criminosa que atua na região. Tudo a revelar a periculosidade in concreto do agente e justificar a manutenção da medida extrema.
+Não foi outra a opinião do Subprocurador-Geral da República Nívio de Freitas Silva Filho, em seu parecer, ressaltando que a elevada periculosidade do paciente, notadamente diante da elevada quantidade de droga apreendida, além dele estar, em tese, vinculado a facção criminosa "Guardiões do Estado", características que potencializam a necessidade de resguardo da garantia da ordem pública, a conveniência da instrução criminal e a aplicação da lei penal (fl. 654).
+Com efeito, o Superior Tribunal de Justiça já decidiu que não há ilegalidade na manutenção da prisão preventiva quando demonstrada, com base em fatores concretos, a sua imprescindibilidade para garantir a ordem e a saúde públicas, dada a gravidade da conduta incriminada, evidenciada pelas circunstâncias em que se deu a prisão em flagrante do réu (RHC n. 113.892/MS, Ministro Jorge Mussi, Quinta Turma, DJe 20/8/2019), possuindo, ainda, entendimento consolidado no sentido de que a quantidade, a natureza e a diversidade dos entorpecentes encontrados podem servir de fundamento ao decreto de prisão preventiva (HC n. 515.676/SP, Ministro Ribeiro Dantas, Quinta Turma, Dje 12/11/2019).
+Nesse sentido: legal é a prisão preventiva decretada com base em elementos concretos do caso, consistente na maior gravidade da conduta criminosa em razão da expressiva quantidade de entorpecente apreendido - 10 kg de maconha. Esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública (AgRg no HC n. 568.055/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 23/6/2020).
+Portanto, nota-se que estão presentes os requisitos autorizadores da decretação da medida constritiva de liberdade, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Por fim, eventuais condições pessoais favoráveis do agravante não têm o condão de, por si sós, garantir a revogação de sua prisão preventiva.
+À vista do exposto, nego provimento ao agravo regimental.
