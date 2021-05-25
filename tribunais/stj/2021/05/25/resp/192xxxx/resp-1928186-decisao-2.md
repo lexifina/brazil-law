@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DA AMAZÔNIA S.A. contra acórdão do TJTO assim ementado (e-STJ fl. 412):
+APELAÇÕES CÍVEIS. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO RURAL. NEGOCIAÇÃO DA DÍVIDA. CONDENAÇÃO AO PAGAMENTO DE DESPESAS COM CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. INCABÍVEL. ARTIGO 12 DA LEI 13.340/2016. LEI ESPECIAL. PRECEDENTES TJTO. RECURSOS CONHECIDOS E NÃO PROVIDOS.
+1. A Lei Federal nº 13.340/16 autorizou a liquidação e renegociação de dívidas de crédito rural, com previsão expressa em seu artigo 12 quanto a não condenação das partes envolvidas em acordos de renegociação de dívida no pagamento de despesas com custas processuais e honorários advocatícios sucumbenciais aos patronos da parte contrária, cabendo a cada parte a responsabilidade sobre tais pagamentos.
+2. Em se tratando de relação jurídica decorrente de operações de crédula de crédito rural, não há que se falar em aplicação do princípio da causalidade para fins de condenação daquele que deu causa ao ajuizamento da ação ao pagamento das custas processuais e honorários advocatícios, consoante disposição do art. 12 da Lei 13.340/2016.
+3. Recursos conhecidos e não providos.
+No especial (e-STJ fls. 421/433), fundamentadono art. 105, III, "a" e "c", da CF, a parte recorrente alega divergência jurisprudencial e violação do art.12 da Lei n. 13.340/2016.
+Afirma que em nenhum momento o artigo 12 da Lei n. 13.340/2016 desobriga a parte ao pagamento dos honorários advocatícios, mas, ao contrário, menciona que cada parte ficará responsável pelo pagamento dos honorários advocatícios e das custas judiciais, devendo ser interpretado em consonância com o disposto no CPC/2015.
+Sustenta que a parte recorrida deve ser responsabilizada pelo pagamento dos honorários advocatícios devidos aos advogados da instituição financeira, em face do princípio da causalidade, uma vez que, por sua inadimplência, deu causa ao ajuizamento e à extinção do feito.
+Juízo positivo de admissibilidade (e-STJ fls. 529/531).
+É o relatório.
+Decido.
+Quanto aos honorários advocatícios, o Tribunal de origem consignou que (e-STJ fls. 404/406):
+No caso em apreço a ação de execução se extinguiu frente a negociação da dívida, que se realizou mediante o benefício advindo da Lei n. 13.340/16.
+A Lei Federal nº 13.340/16 autorizou a liquidação e renegociação de dívidas de crédito rural, com previsão expressa em seu artigo 12 quanto a não condenação das partes envolvidas em acordos de renegociação de dívida no pagamento de despesas com custas processuais e honorários advocatícios sucumbenciais aos patronos da parte contrária, cabendo a cada parte a responsabilidade sobre tais pagamentos. Veja-se:
+Art. 12. Para os fins do disposto nos arts. 1º a 3º desta Lei, os honorários advocatícios e as despesas com custas processuais são de responsabilidade de cada parte e a falta de seu pagamento não obsta a liquidação ou repactuação da dívida, conforme o caso.
+Desta forma, não há dúvidas quanto à responsabilidade de cada parte no pagamento dos honorários advocatícios de seus respectivos patronos, em se tratando de renegociações de dívidas de Cédulas Rurais enquadradas na referida legislação.
+O art. 12 da Lei n. 13.340/16 prevê que os honorários advocatícios e as despesas com custas processuais são de responsabilidade de cada parte, daí porque não deve se aplicar ao caso o princípio da causalidade e a determinação constante no artigo 90 § 3º do Código de Processo Civil.
+Portanto, incabível a condenação ao pagamento das custas processuais e honorários advocatícios, por se tratar de norma especial.
+(..)
+Considerando tratar-se de lei especial sobre o tema, com regra específica sobre os ônus da sucumbência, não se há falar na aplicação do princípio da causalidade no presente feito, contido na regra geral do Código de Processo Civil.
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. No caso, o acórdão impugnado concluiu pela prevalência da Lei n. 13.340/2016 sobre o CPC/2015, em razão do critério da especialidade. Tal ponto, aptoa sustentar o juízo emitido, não foi rebatido nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Ainda que assim não fosse, a decisão recorrida está em conformidade com recentes precedentes desta Corte, no sentido de que a renegociação da dívida, nos termos da Lei n. 13.340/2016, traz como resultado a extinção imprópria do processo de execução e tem disposição expressa (art. 12) no que se refere ao entendimentode que os honorários advocatícios são de responsabilidade de cada uma das partes, regra que se coaduna com o princípio da causalidade, com a equidade na atribuição da responsabilidade pela verba honoráriae com a aplicação analógica do art. 90, §2º, do CPC/2015.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULAS DE CRÉDITO RURAL PIGNORATÍCIAS E HIPOTECÁRIAS. RENEGOCIAÇÃO DA DÍVIDA. EXTINÇÃO DO PROCESSO. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. PREVISÃO ESPECÍFICA DO ART. 12 DA LEI 13.340/2016.
+1. Embargos à execução opostos em 30/11/2011. Recurso especial interposto em 06/02/2019 e concluso ao Gabinete em 16/09/2019.
+2. O propósito recursal consiste em dizer se, em razão da renegociação, realizada com fundamento na Lei 13.340/16, de dívida inscrita em cédulas de crédito rural pignoratícias e hipotecárias, com a consequente extinção dos embargos à execução, devem os executados-embargantes ser condenados a pagar honorários advocatícios em favor dos patronos do Banco exequente-embargado.
+3. A condenação do vencido ao pagamento de honorários advocatícios surgiu, por razão de equidade, como fator de recomposição do patrimônio do vencedor, a fim de que este recebesse, ao final do processo, não apenas o direito material vindicado, mas, também, a restituição das despesas em que incorreu no curso da demanda, de modo a se restabelecer a situação econômica que teria se não fosse o litígio.
+4. A destinação dos honorários de sucumbência ao advogado do vencedor tratou-se de opção do legislador infraconstitucional, ao editar o art. 23 da Lei 8.906/94 (Estatuto da Advocacia).
+5. De modo semelhante, por opção de política legislativa, há normas especiais que excepcionam a aplicação dos princípios da sucumbência e da causalidade, isentando as partes do pagamento da verba honorária, até mesmo das custas e despesas processuais.
+6. Nesse sentido, optou o legislador, ao editar a Lei 13.340/2016 - que trata de plano de recuperação de dívidas de crédito rural -, por não incrementar o dispêndio financeiro das partes, em especial do agricultor mutuário, com o pagamento de honorários advocatícios à parte adversa. Aplicação da norma especial que afasta a incidência da regra geral.
+7. Recurso especial conhecido e não provido.
+(REsp n. 1836470/TO, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 02/02/2021, DJe 05/02/2021.)
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
