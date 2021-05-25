@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do local.
+A controvérsia foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 554/558, in verbis:
+1. Trata-se de recurso especial interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, nos autos da apelação criminal nº 70082541509, que absolveu o paciente do crime de tráfico de drogas.
+2. O recorrido foi condenado, em primeira instância, pelo crime do artigo 33, caput e § 4º, da Lei n.º 11343/2006, às penas de 1 ano e 8 meses de reclusão, em regime aberto, e de 180 dias-multa, substituída a pena privativa de liberdade por duas restritivas de direitos, por que, em 04.07.2017, mantinha em depósito, para fins de tráfico, 9 porções de cocaína, pesando aproximadamente 15g (quinze gramas), e 2 porções de maconha, pesando aproximadamente 2g (dois gramas), além de 2 celulares, valores e outros objetos (fls. 185/196).
+3. O Tribunal a quo, por maioria, deu provimento à apelação defensiva para absolver o paciente com base no artigo 386, inciso VII, do Código de Processo Penal, sob o fundamento de que a substância apreendida é compatível com o consumo próprio, e não houve flagrante de ato de marcancia (fls. 247/266).
+4. A acusação interpôs o presente recurso especial (fls.272/283), sob a alegação de negativa de vigência ao artigo 33, caput, da Lei n.º 11.343/06. Sustenta que não é necessária a realização de atos de mercancia dos entorpecentes para a configuração do delito de tráfico, bastando a prática de uma das condutas descritas no dispositivo legal. Afirma que o contexto fático-probatório reconhecido nos autos evidencia a prática do tráfico de drogas, e que o voto condutordo acórdão recorrido "desconsidera a própria síntese dos depoimentos constantes nos acórdãos, que narram a existência de diversas denúncias de tráfico de drogas, a campana em que os policiais visuallizaram atos indicativos de venda de entorpecentes e a própria existência de investigação prévia que redundou no mandado de busca e apreensão" (fl. 276).
+Ao final, o ParquetFederal opinou peloprovimento do recurso especial.
+Decido.
+Não assiste razão ao recorrente.
+É que o Tribunal de origem, a quem cabe a análise das questões fático-probatórias dos autos, reconheceu a inexistência de elementos de provas suficientes para embasar o decreto condenatório pela prática do crime de tráfico de entorpecentes.
+No ponto, a Corte originária manifestou-se nos seguintes termos (e-STJ fl. 262):
+Nesse contexto, em que pese entenda que não há comorejeitar a validade dos depoimentos dos policiais ou reduzir o valor de seus testemunhos, sem motivo justificado, pois inexistem motivos para os policiais falsearem a verdade, tenho que, no caso concreto, os policiais não flagraram nenhum ato e não conseguiram nenhuma prova material de mercancia de ALCIMAR, cabe salientar que a droga apreendida - 09 porções de cocaína, pesando aproximadamente 15 gramas e 02 porções de maconha, pesando aproximadamente 2 gramas - é plenamente compatível com o consumo, o que, aliás, é afirmado em seu interrogatório pelo acusado.
+Ainda, a condição de dependente químico narrada pelo acusado não se encontra isolada nos autos, considerando que foi corroborada pelo depoimento das três testemunhas de defesa ouvidas em juízo.
+Outrossim, vale ressaltar que, não houve a identificação de nenhum usuário no local da apreensão, a fim de comprovar a mercancia.
+Nestes termos, é duvidosa a destinação circulatória das substâncias, ainda mais considerado que o acusado afirmou ser usuário de drogas.
+E, diante da ausência de prova concreta e segura de que a droga apreendida com o acusado era para traficância, impõe-se a sua absolvição.
+Constata-se, portanto, que a mudança da conclusão alcançada no acórdão impugnado exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmulas n. 7/STJ e 279/STF).
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS (1 TIJOLO DE MACONHA PESANDO 196G E 3 BUCHAS DA MESMA DROGA COM PESO, RESPECTIVAMENTE, DE 25G, 12G E 24G). PLEITO PELA CONDENAÇÃO.INVERSÃO DO JULGADO. SÚMULA N.º 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA.AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem concluiu não estar devidamente comprovada a prática do crime de tráfico de drogas. Portanto, a inversão do julgado, com o fito de ver prevalecer o pleito pela condenação, demandaria nova incursão no acervo fático-probatório, o que encontra óbice na Súmula n.º 7 do Superior Tribunal de Justiça.
+2. Agravo regimental desprovido.
+(AgRg no REsp 1841666/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 28/04/2020, DJe 21/05/2020, grifei)
+Ante o exposto, não conheçodo recurso especial.
+Publique-se. Intimem-se.
