@@ -1,0 +1,23 @@
+DECISÃO
+1. Trata-se de embargos de declaração opostos por KENIA MARTINS DOS ANJOScontra decisão de minha lavra (fls. 606/610), que negou provimento ao agravo em recurso especial ante os seguintes fundamentos: ausência de violação aos artigos 1.022 e 489, § 1º, do CPC de 2015; aplicação das Súmulas n. 284/STF, n. 283/STF e n. 7/STJ.
+Nas razões recursais (fls. 626/631), a parte embargante alega, em síntese, que "tratando-se amatéria para discussão dito omissa que, analisada e eventualmente acaso acolhida implicava de modo direto no não conhecimento do AREsp, e, com o tal, não há mais se falar em Agravo Interno como inclusive já protocolado pelo embargado manejando expediente flagrantemente improcedente e a merecer a sanção pecuniária do§ 4º do art. 1.021 do CPC".
+E continua:
+Com efeito e corno se, pode perceber de toda a extensão da decisão monocrática, não se constata nenhuma alusão a qualquer argumento, sustentação ou mesmo pedido deduzido em contrarrazões pelo Agravado que merecesse análise.
+A bem da verdade, nas contrarrazões do AREsp o embargante MANEJOU QUESTÃO PRELIMINAR que se fosse analisada conduziria ao NÃOCONHECIMENTO DO AREsp, encontrando-se nela, a omissão aqui defendida para que seja analisada e deferida por decisão integrativa.
+Com efeito, indiscutível a intempestividade da inicial do AREsp guerreado.
+Assim, defende que o agravo não deveria ter sido conhecido em virtude de sua intempestividade.
+Requer o acolhimento dos embargos declaratórios, com efeitos modificativos, a fim de sanar a alegada omissão.
+É o relatório. DECIDO.
+2.Segundo o art. 1.022, caput e incisos, do Novo CPC, são cabíveis os embargos de declaração quando a decisão judicial se revelar omissa, obscura ou contraditória, assim como para correção de erro material.
+Da doutrina processualista, extrai-se que a obscuridade consiste na falta de clareza da decisão impugnada, sendo que, diante da função precípua do pronunciamento judicial de emprestar certeza às relações litigiosas que calham às suas portas, não se admitem decisões judiciais não-unívocas.
+Por outro lado, verifica-se a contradição quando no acórdão se incluem proposições entre si inconciliáveis. Nos termos do magistério de Barbosa Moreira:
+Pode haver contradição entre proposições contidas na motivação (exemplo:a mesma prova ora é dita convincente, ora inconvincente), ou entre proposições da parte decisória, isto é, incompatibilidade entre capítulos do acórdão: v.g. anula-se, por vício insanável, quando logicamente se deveria determinar a restituição ao órgão inferior, para sentenciar de novo; ou declara-se inexistente a relação jurídica prejudicial (deduzida em reconvenção ou em ação declaratória incidental), mas condena-se o réu a cumprir a obrigação que dela necessariamente dependia; e assim por diante.
+Também pode ocorrer contradição entre alguma proposição enunciada nas razões de decidir e o dispositivo: por exemplo, se na motivação se reconhece como fundada alguma defesa bastante para tolher a pretensão do autor, e no entanto se julga procedente o pedido.
+(Comentários ao Código de Processo Civil. v. 5. Rio de Janeiro: Forense, 2008, pp. 556-557)
+Por sua vez, "o erro material é aquele evidente, decorrente de simples erro aritmético ou fruto de inexatidão material, e não erro relativo a critérios ou elementos de julgamento" (EDcl no AgRg no REsp 1234057/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 28/06/2011, DJe 01/07/2011.
+De resto, nos termos do art. 1.022, II, do Novo CPC "omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento".
+3. Nenhum desses vícios se faz presente na decisão ora embargada, pois, a meu ver, falta interesse recursal à ora embargante por dois motivos:além de o agravo em recurso especial não ter sido provido, o que já demonstraria a ausência de interesse,não há plausibilidade na alegação de que um agravo não conhecido atrairia a multa do artigo 1.021, § 4º, do CPC de 2015, caso um agravo interno fosse interposto.
+Ou seja, o não conhecimento de um agravo em recurso especial não faz exsurgir a presunção de que o agravo interno seria manifestamente incabível, a atrair a multa do artigo 1.021, § 4º, do CPC de 2015.
+Com efeito, "a improcedência ou inadmissibilidade reveladora da multa recursal prevista no art. 1.021, § 4º, do CPC/2015 deve ser a de natureza manifesta, qualificada, e não a que decorre simplesmente do não conhecimento ou não provimento do recurso, ainda que unânime" (STJ, EDcl no AgInt no AREsp 949.074/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 19/12/2016).
+4. Ante o exposto, não conheço dos embargos de declaração.
+Publique-se. Intimem-se.
