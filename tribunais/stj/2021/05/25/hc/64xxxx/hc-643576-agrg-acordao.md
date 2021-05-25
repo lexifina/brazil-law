@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EMHABEAS CORPUS. EXECUÇÃO PENAL. FALTAS GRAVES. POSSE DE SUBSTÂNCIA ENTORPECENTE E TENTATIVA DE FUGA. PLEITO DE ABSOLVIÇÃO OU DE DESCLASSIFICAÇÃO PARA FALTA MÉDIA. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. POSSE DE DROGA PARA USO PESSOAL. FALTA GRAVE. PERDA DOS DIAS REMIDOS. SUPOSTA ILEGALIDADE NA FRAÇÃO ESTIPULADA. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A revisão do julgado a fim de absolver o paciente ou, ainda, de desclassificar as condutas para faltas médiasdemandaria o revolvimento do material fático-probatório, providência inviável na estreita via do habeas corpus.
+2. As duas Turmas que compõem a Terceira Seção desta Corte firmaram a compreensão de que a posse de droga para uso próprio pelo sentenciando constitui falta grave, nos termos do art. 52 da LEP (AgRg no HC n. 593.895/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/10/2020).
+3. Aperda dos dias remidos na fração máxima de 1/3 encontra-se justificada, ante a gravidade das condutas perpetradas pelo apenado (posse de droga e tentativa de fuga).
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Ailton Freitas de Barroscontra a decisão de fls. 271/274, que denegou a ordem no habeas corpus, nos termos da seguinte ementa (fl. 271):
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTAS GRAVES. POSSE DE SUBSTÂNCIA ENTORPECENTE E TENTATIVA DE FUGA. PLEITO DE ABSOLVIÇÃO OU DE DESCLASSIFICAÇÃO PARA FALTA MÉDIA. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. PERDA DOS DIAS REMIDOS. SUPOSTA ILEGALIDADE NA FRAÇÃO ESTIPULADA. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
+Reitera o agravante os argumentos iniciais: a) fragilidade das provas quanto à autoria das faltas graves; b) a posse de drogas para uso pessoal não caracteriza falta grave, por não se tratar de"fato previsto como crime doloso"(fl. 284); c) o cometimento de atos preparatórios para a fuga e dano ao patrimônio público são condutas que se enquadramno conceito de falta média, pois despida de periculosidade e ofensividade ao estabelecimento prisional; e d) carência de fundamentação na fixação da fração máxima para a perda dos dias remidos.
+Requer, assim, a reconsideração da decisão agravada ou o provimento do agravo regimental paraconceder a ordem de ofício e determinar a cassação do r. acórdão impugnado, com o afastamento da falta disciplinar de natureza grave reconhecida em desfavor do paciente, a desclassificação para falta de natureza média, e/ou a perda dos dias remidos no mínimo legal (um dia) - (fl. 292).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EMHABEAS CORPUS. EXECUÇÃO PENAL. FALTAS GRAVES. POSSE DE SUBSTÂNCIA ENTORPECENTE E TENTATIVA DE FUGA. PLEITO DE ABSOLVIÇÃO OU DE DESCLASSIFICAÇÃO PARA FALTA MÉDIA. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. POSSE DE DROGA PARA USO PESSOAL. FALTA GRAVE. PERDA DOS DIAS REMIDOS. SUPOSTA ILEGALIDADE NA FRAÇÃO ESTIPULADA. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A revisão do julgado a fim de absolver o paciente ou, ainda, de desclassificar as condutas para faltas médiasdemandaria o revolvimento do material fático-probatório, providência inviável na estreita via do habeas corpus.
+2. As duas Turmas que compõem a Terceira Seção desta Corte firmaram a compreensão de que a posse de droga para uso próprio pelo sentenciando constitui falta grave, nos termos do art. 52 da LEP (AgRg no HC n. 593.895/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/10/2020).
+3. Aperda dos dias remidos na fração máxima de 1/3 encontra-se justificada, ante a gravidade das condutas perpetradas pelo apenado (posse de droga e tentativa de fuga).
+4. Agravo regimental improvido.
+VOTO
+Mantenho a decisão agravada por seus próprios e jurídicos fundamentos.
+Com efeito, no que se refereaos argumentos defragilidade dasprovas quanto à autoria ou, ainda, denecessidade de desclassificação das condutas para faltas médias, conforme asseverado, a revisão do julgado demandaria o revolvimento do material fático-probatório, providência inviável na estreita via do habeas corpus, que, por seu rito célere e de cognição sumária, exige prova pré-constituída do alegado. No mesmo sentido:AgRg no RHC n. 131.569/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 19/10/2020.
+De outro lado,as duas Turmas que compõem a Terceira Seção desta Corte firmaram a compreensão de que a posse de droga para uso próprio pelo sentenciando constitui falta grave, nos termos do art. 52 da LEP (AgRg no HC n. 593.895/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/10/2020).
+Por fim, verifica-se que o Juízo de primeiro grau justificou expressamente a perda dos dias remidos na fração máxima de 1/3, ante a gravidade das condutas perpetradas pelo apenado (posse de droga e tentativa de fuga), não havendo, portanto, ilegalidade a ser sanada. Nesse sentido:AgRg nos EDcl no REsp n. 1.798.650/RO, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 17/2/2021.
+Ante o exposto, considerando que o agravante não apresentou nenhum elemento capaz de modificar a conclusão do julgado, nego provimento ao agravo regimental.
