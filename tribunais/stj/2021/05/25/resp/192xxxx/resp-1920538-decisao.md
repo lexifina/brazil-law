@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso especial interposto por FUNDACAO DE ASSISTENCIA SOCIAL SINHA JUNQUEIRA, fundado nas alíneas "a" e "c" do permissivo constitucional,deduzido em desafio ao acórdão de fls. 182-190 e-STJ, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+HABILITAÇÃO DE CRÉDITO -INVENTÁRIO -DISCORDÂNCIA DOS HERDEIROS -VIAS ORDINÁRIAS -RESERVA DE BENS -SUCUMBENCIA RECIPROCA.- Nos termos do artigo 643, do CPC/2015, a habilitação do crédito nos autos do Inventário exige a concordância dos herdeiros como requisito de validade, sob pena de ter o credor que recorrer às vias ordinárias.- Em que pese o indeferimento do pedido de habilitação de crédito, foi determinada a reserva de bens suficientes para pagamento do credor, de forma que, neste caso, a sucumbência será recíproca
+Opostos embargos de declaração (fls. 195-200 e-STJ), esses foram rejeitados (fls. 226-230e-STJ).
+Nas razões de recurso especial, alegou-seque o acórdão recorrido violou os artigos 86 e 643 do CPC/15 ao determinar o pagamento de honorários de sucumbência em procedimento que não foi litigioso, mas remetido às vias ordinárias.Foi apontado, ainda, dissídio jurisprudencial.
+Sem contrarrazões.
+Admitido o feito (fls. 293-295 e-STJ), vieram os autos a este Superior Tribunal de Justiça.
+O. D. Ministério Público Federal informou não ter interesse em se manifestar no feito.
+É o relatório. Decide-se.
+O recurso comporta provimento.
+1. Consoante já deliberado no âmbito desta Quarta Turma, ainda que a impugnação à habilitação de crédito possa ser considerada forma litigiosa desse procedimento, a mera denegação do pedido por discordância dos herdeiros com a remessa da controvérsia às vias ordinárias não tem o mesmo caráter, se modo que não enseja a condenação em honorários advocatícios.
+Nesse sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. HABILITAÇÃO DE CRÉDITO EM INVENTÁRIO. REMESSA DO PEDIDO AOS MEIOS ORDINÁRIOS.PRETENSÃO RESISTIDA. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO.1. A sentença que denega a habilitação de crédito na sucessão, por mera discordância de qualquer interessado, não enseja a condenação em honorários advocatícios, pois não torna litigiosa a demanda, não havendo falar em condenação, nem de se cogitar em qualquer proveito econômico, já que o direito ao crédito e à sua cobrança são remetidos às vias ordinárias.2. Deveras, "nessa situação não haverá o processamento incidental deste pedido, mas a necessidade de propositura de uma ação própria na qual será discutida a dívida em pauta e a obrigação do espólio arcar, ou não, com ela, daí a remissão às "vias ordinárias" (WAMBIER, Teresa Arruda Alvim. Primeiros comentários ao novo código de processo civil: artigo por artigo. São Paulo: RT, 2016, p. 1095).3. Agravo interno não provido.(AgInt no REsp 1792709/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/08/2019, DJe 13/08/2019)
+No mesmo sentido:(AgInt no AREsp 1616899/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2020, DJe 04/05/2020)
+No caso em tela, a Corte de origem, a Corte de origem entendeu que, diante da discordância de um dos herdeiros, deveria o crédito ser exigido pelas vias ordinárias e, tomando em conta o fato de o incidente ter levado à reserva de bens do espólio, entendeu ter havido sucumbência recíproca, determinando a condenação ao pagamento de honorários.
+Veja-se (fls. 186-188 e-STJ)
+Portanto, havendo discordância de uma das partes, outro caminho não resta ao credor, senão recorrer às vias ordinárias. E, in casu, está evidenciado que o Espólio requerido discordou da presente habilitação, agindo com acerto o MM. JulgadorMonocrático ao remeter às vias ordinárias, com a respectiva reserva de bens para resguardar o crédito da apelante.
+ ..
+Por fim, pretende a apelante a condenação do requerido ao pagamento dos ônus sucumbenciais. Neste aspecto, é importante registrar que, em conformidade com o princípio da sucumbência, previsto no artigo 85, do CPC, os ônus sucumbenciais serão arcados pela parte vencida. Por outro lado, o artigo 86, do mesmo codex, prevê a sucumbência recíproca, que, a meu ver, é o que ocorre no caso dos autos
+Impositiva, portanto, a reforma do aresto impugnado para excluir a condenação ao pagamento de honorários advocatícios.
+2. Do exposto, dá-se provimento ao recurso especial para excluir da condenação os honorários advocatícios.
+Publique-se. Intimem-se.
