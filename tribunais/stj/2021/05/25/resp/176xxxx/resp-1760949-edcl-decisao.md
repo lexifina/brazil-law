@@ -1,0 +1,15 @@
+DECISÃO
+1. Trata-se de embargos de declaração opostos por LAFARGEHOLCIM (BRASIL) S.A em face de decisão da minha lavra, assim sintetizada:
+RECURSO ESPECIAL. FALÊNCIA. HABILITAÇÃO DE CRÉDITO. CORREÇÃO MONETÁRIA HABILITADA. JUROS DE MORA SOB SUSPENSÃO. VERIFICAÇÃO QUANTO A CAPACIDADE DA MASSA FALIDA. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
+A parte embargante sustenta que "as razões contidas na decisão embargada reproduzem contradição no que concerne ao entendimento a ser pacificado acerca do tema, bem como mantém a omissão objeto de todos os recursos anteriormente apresentados, atraindo a necessidade de esclarecimento do entendimento desta Corte Superior para que seja declarado se a correção monetária deverá incidir apenas até a data de decretação de falência ou se o valor constante na habilitação deve ser atualizado da data da decretação da falência até a data da sua efetiva inclusão no QGC, conforme já determinado na sentença da Habilitação de Crédito".
+É o relatório.
+Decido.
+2. O artigo 1.022, e seus incisos, do novo Código de Processo Civil, claramente prescrevem as quatro hipóteses de cabimento dos embargos de declaração, tratando-se de recurso de fundamentação vinculada, restrito a situações em que patente a existência de (1) obscuridade, (2) contradição, (3) omissão no julgado, incluindo-se nesta última as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida, e por derradeiro, (4) o erro material.
+3. No caso, diz a parte embargante que existiria contradição acerca do terma a ser pacificado. Essa não é contradição que autorize a oposição de embargos de declaração, visto que não se refere a antagonismo dos próprios elementos da decisão embargada, a conhecia contradição interna.
+4. De outra parte, ausente a referida omissão quanto à ausência de definição do termo final da incidência de correção monetária, se seria a data de decretação da falência ou a data de sua efetiva inclusão no QGC - Quadro Geral de Credores, visto que tal temática não foievidenciada sob essa perspectiva nas razões do recurso especial.
+É certo que a parte até fala de um montante e uma data final que deveriam corresponder ao seu crédito corrigido a ser habilitado. Contudo,esses seriam pontos fáticos, e não teses jurídicas, de modo que essa Corte não poderia chegar a tal precisão.
+A situação abstrata, a tese jurídica agora dita como omissa- se o termo final da correção seria a data da decretação da falência ou da inclusão no Quadro Geral de Credores - não fora suscitada dessa forma no recurso especial, mas apenas a possibilidade de correção monetária. E quanto a esse ponto houve a devida resposta no sentido de que o tribunal de origem julgou em consonância com o entendimento desta Corte pelo cabimento.
+5. Ante o exposto, rejeito os embargos de declaração.
+Intimem-se. Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRADIÇÃO EXTERNA. NÃO CABIMENTO. OMISSÃO INEXISTENTE. TESE JURÍDICA DITA OMISSA NÃO SUSCITADA NO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
