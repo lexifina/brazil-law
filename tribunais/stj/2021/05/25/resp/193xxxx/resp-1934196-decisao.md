@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 1Região, assim ementado (fl. 141-142):
+PREVIDENCIÁRIO. TRABALHADOR RURAL. APOSENTADORIA POR INVALIDEZ RURAL. CONJUNTO PROBATÓRIO. INCAPACIDADE PERMANENTE. PENSÃO VITÁLICIA SOLDADO DA BORRAÇÃO. CUMULAÇÃO. POSSIBILIDADE. CORREÇÃO MONETÁRIA. JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS E PERICIAIS. CUSTAS PROCESSUAIS.
+1. A concessão dos benefícios de auxílio-doença e de aposentadoria por invalidez a trabalhador rural independe do cumprimento da carência de 12 meses exigida em lei (Lei 8.213/1991, art. 26, III, c/c art. 39, I).
+2. Todavia, segundo a legislação de regência (Lei 8.213/1991, art. 55, § 3º) e o disposto nas Súmulas 149 do STJ e 27 do TRF da ia Região, a comprovação da atividade rural demanda a apresentação de início razoável de prova documental, que deve ser corroborada por prova testemunhal consistente sobre a veracidade das alegações.
+3. O acervo probatório acostado aos autos confirma que a parte autora é portadora de doença incapacitante para o desempenho de atividades rurais. Impossibilidade de reabilitação em outra profissão, tendo em vista idade, nível econômico, grau de instrução e atividade habitual da parte autora, o que conduz ao entendimento da impossibilidade e reinserção no mercado de trabalho.
+4. O artigo 54, do Ato das Disposições Constitucionais Transitórias, regulamentado pela Lei 7.986/1989, prevê a concessão de pensão vitalícia ao seringueiro carente que trabalhou na produção de borracha por ocasião da Segunda Guerra Mundial. No entanto, inexiste disciplina objetiva para a verificação de carência, bem como não há vedação seja na Lei 7.986/1989 seja no dispositivo constitucional para a cumulação da pensão do artigo 54 do ADCT com benefício previdenciário.
+5. Juros e correção monetária nos termos do Manual de Cálculos da Justiça Federal em sua versão mais atualizada, na forma do voto.
+6. Nas causas ajuizadas perante a Justiça Estadual, no exercício da jurisdição federal (CF/1988, art. 109, § 3º), o INSS somente está isento do pagamento de custas quando lei estadual contenha previsão de tal benefício, o que ocorre nos Estados de Minas Gerais, Goiás, Rondônia e Mato Grosso.
+7. Em causas ajuizadas perante a Justiça Federal, o INSS está isento de custas por força do inciso I do art. 4º da Lei 9.289/1996.
+8. O benefício reconhecido neste julgamento deve ser implantado no prazo máximo de 30 dias (CPC, art. 273) contados da intimação da autarquia previdenciária, independentemente da interposição de qualquer recurso.
+9. Apelação do INSS parcialmente provida.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 1.022, II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito da impossibilidade de acumulação de pensão especial do seringueiro com aposentadoria do RGPS.
+Quanto à questão de fundo, sustenta ofensa aos artigos 1º e 2º da Lei 7.986/1989, aduzindo haver vedação legal àconcessão de pensão vitalícia à dependente de seringueiro cumulativamente ao recebimento de benefício previdenciário, uma vez que o dispositivo legal é expresso ao determinar que somente fará jus ao benefício assistencial aquele que comprovar o estado de carência.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 174-177.
+É o relatório. Passo a decidir.
+De início, afasta-se a alegada violação do artigo 1.022, II, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Com efeito, o Tribunal a quose pronunciou quanto à controvérsia adotando as seguintes razões de decidir (fl. 137):
+No entanto, nem a Lei 7.986/89, nem o dispositivo constitucional, impõem restrição à cumulação da pensão prevista no art. 54 do ADCT com qualquer benefício previdenciário. Em razão disso, a Portaria 4.630/90, do MPAS, que estabelece proibição a tal cumulação, padece de ilegalidade, porquanto desbordou do seu poder regulamentar.
+O Superior Tribunal de Justiça já se manifestou no sentido de que "decidindo que não há vedação legal na cumulação da pensão especial de seringueiro com a aposentadoria por idade, não há reparo a fazer ao acórdão atacado, pois realmente não pode a Administração, por meio de ato regulamentador, impor restrição não existente na lei" (REsp 501.035/CE, Rel. Ministro PAULO GALLOTTI, SEXTA TURMA, julgado em 06/04/2004, DJ 06/12/2004, p. 375).
+Ocorre que o recorrente não impugnounas razões do recurso especial os fundamentos de que a Portaria 4.630/1990 padece de ilegalidade e a jurisprudência do STJ admite a cumulação da pensão especial do seringueiro com aposentadoria previdenciária. Tais fundamentos, por si sós,asseguram o resultado do julgamento ocorrido na Corte de origem e tornam inadmissível o recurso que não os impugnou. Aplica-se ao caso a Súmula 283/STF.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão,nego-lhe provimento.
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (artigo 98, §3º, CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC2015. NÃO OCORRÊNCIA. CUMULAÇÃO DE BENEFÍCIOS.FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
