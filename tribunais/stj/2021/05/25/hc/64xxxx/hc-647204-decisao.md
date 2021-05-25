@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminarimpetrado em favor de WILLIAM DO CARMO MONTENEGRO apontando-secomo autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo deExecução Penal n.7002979-58.2019.8.26.0482).
+Colhe-se dos autos que o Juízo de primeiro grau reconheceu a prática de falta grave pelo paciente e determinouo reinício da contagem de prazo para fins de progressão de regime (e-STJ fls. 100/101).
+Irresignada, a defesa interpôs agravo em execuçãona Corte de origem, que negou lhe provimento nos termos do acórdão de e-STJ fls. 102/105 (sem ementa).
+No presentewrit, sustenta a impetrante que o paciente estaria sofrendo constrangimento ilegal, ante a ausência de fundamentação da decisão que homologou a falta grave, em ofensa ao art. 93, IX da Constituição Federal.
+Aduz que, "considerando que o juízo monocrático proferiu decisão desprovida de fundamentação, torna-se imperativa a decretação da sua nulidade" (e-STJ fl. 8)
+Alega que a autoria da indisciplina não pode ser comprovada, já que não foi encontrado nenhum ilícito na posse do paciente.
+Ressalta que "não se pode atribuir responsabilidade àquela por conduta não devidamente comprovada no que tange à autoria e porque sancionada de forma coletiva" (e-STJ fl. 11).
+Consigna ser "necessário prova robusta e concreta que indique a participação voluntáriado sentenciado no fato apurado" (e-STJ fl. 13).
+Assevera que a falta grave deve ser desclassificada para falta média, tendo em vista a desproporcionalidade da imputação.
+Requer, liminarmente e no mérito, que sejacassado o acórdão atacado ante a presença da nulidade apresentada, em total desrespeito ao princípio da motivação das decisões judiciais.
+Subsidiariamente, pleiteia o afastamento da falta grave aplicada, visto que sancionado de forma coletiva, e a desclassificação da falta de natureza grave para de natureza média.
+O pedido liminar foi indeferido (e-STJ fls. 108/110).
+Foram prestadas as informações (e-STJ fls. 121/124 e 129/136).
+O Ministério Público Federal, ao se manifestar, opinou "no sentido da não admissão do writ, descabida também a concessão de um habeas corpus ex officio"(e-STJ fl. 143).
+É, em síntese, o relatório.
+No caso dos autos, o Tribunal de origem, ao negar provimento ao agravo defensivo,manteve a decisão de primeiro grau que reconheceu que a conduta praticada pelo ora paciente configuraria falta gravecoma seguinte fundamentação (e-STJ fls. 103/104):
+Ao agravante foi imputada falta disciplinar de natureza grave, ocorridas em 26 de abrilde 2018, nos termos do art. 39, incisos II e V, c.c. o art. 50, incisos I e VI, ambos da LEP, bem como artigo 46, inciso I e VII do Regimento Interno Padrão, consistente em subversão à ordem e à disciplina.
+Os agentes penitenciários foram uníssonos ao afirmarem que, na data dos fatos, durante vistoria, os habitantes da cela 231,dentre eles o agravante, posicionaram-se em frente da porta impedindo a realização do procedimento, e em tom de voz alterada bradavam palavras de ameaça e intimidação: "aqui é o crime, nóis é PCC, nóis tem que respeitar a hierarquia do Comando. Vocês tem que avisar que vai fazer blitz, ninguém vai entrar aqui não. Se entrar vai ser daquele jeito" (fls. 27/28).
+Em seu depoimento, o reeducando negou a prática da falta disciplinar, esclarecendo que não houve nenhum tipo de tumulto na cela, bem como não tinha ciência que no interior da cela existia material proibido (fl. 35).
+Concluída a respectiva sindicância, o Magistrado, julgando antecipadamente, homologou a falta disciplinar grave, cometida pelo sentenciado em 26 de abril de 2.018, determinando sua anotação, bem como o reinício do cômputo do lapso temporal para progressão de regime.
+Pois bem.
+A ocorrência da falta grave é induvidosa.
+Os depoimentos dos agentes são harmônicos e notificam a prática da falta de forma coesa, inexistindo qualquer elemento concreto que justifique a alteração do relato.
+Em seu depoimento, o reeducando não ofereceu elementos concretos capaz de suprimir sua responsabilidade.
+Ademais, como bem apontado pelo d.Promotor de Justiça, não se trata de sanção coletiva prevista no artigo 45, § 3º, da LEP, pois foi apurada a conduta irregular somente dos sentenciados que participaram do movimento de subversão à ordem e à disciplina, restringindo-se a eles o procedimento administrativo.
+Assim, constatada a falta grave, deve ser mantida a homologação.
+Inviável se falar em desclassificação, tendo em vista configurada a prática do delito, o que nos termos da Lei das Execuções Penais é considerado falta grave(grifei).
+Nessas circunstâncias, não vislumbro a ocorrência de constrangimento ilegal a ensejar a concessão da ordem, visto que, na forma como descrita pela instância ordinária, a conduta praticada pelo paciente configura falta de natureza grave.
+Como quer que seja, a discussão sobre a configuração da infração disciplinar, ou até mesmo a sua desclassificação para falta de natureza média ou leve, demandaria o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus, como se extrai dos seguintes julgados:
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. DESVIRTUAMENTO. EXECUÇÃO PENAL. FALTA GRAVE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do(a) paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+2. A via eleita não comporta dilação probatória necessária para desconstituir decisão judicial que reconheceu o cometimento de falta grave apurada em procedimento administrativo disciplinar.
+3. A configuração de falta disciplinar de natureza grave resulta em novo marco interruptivo para concessão de novos benefícios, exceto indulto, comutação e livramento condicional, conforme entendimento sedimentado pela 3ª Seção desta Corte, ao julgar os Embargos de Divergência no Recurso Especial n.º 1.176.486/SP.
+4. Habeas Corpus não conhecido. Concessão da ordem, de ofício, apenas para afastar a interrupção da contagem do lapso temporal para o livramento condicional, o indulto e a comutação de pena, salvo disposição expressa em contrário no decreto presidencial (HC 221.364/MG, relator o Ministro Rogerio Schietti Cruz, DJe de 10/3/2014, grifei).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO-CABIMENTO. RESSALVA DO ENTENDIMENTO PESSOAL DA RELATORA. EXECUÇÃO PENAL. FALTA GRAVE. TESE DE NÃO-CONFIGURAÇÃO DA FALTA GRAVE. REVISÃO. VIA IMPRÓPRIA. ORDEM DE HABEAS CORPUS NÃO CONHECIDA.
+1. A Primeira Turma do Supremo Tribunal Federal e ambas as Turmas desta Corte, após evolução jurisprudencial, passaram a não mais admitir a impetração de habeas corpus em substituição ao recurso ordinário, nas hipóteses em que esse último é cabível, em razão da competência do Pretório Excelso e deste Superior Tribunal tratar-se de matéria de direito estrito, prevista taxativamente na Constituição da República.
+2. Esse entendimento tem sido adotado pela Quinta Turma do Superior Tribunal de Justiça, com a ressalva da posição pessoal desta Relatora, também nos casos de utilização do habeas corpus em substituição ao recurso especial, sem prejuízo de, eventualmente, se for o caso, deferir-se a ordem de ofício, em caso de flagrante ilegalidade.
+3. Na espécie, verifica-se que a aplicação da falta grave deu-se mediante regular apuração na esfera administrativa, sendo reconhecida a sua prática fundamentadamente, conforme entendeu a Corte de origem.
+4. A análise da tese de não-configuração da falta grave, ou de desclassificação para falta de natureza média, não se coaduna com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão na seara fático-probatória, incabível nesta sede. Precedentes.
+5. Ordem de habeas corpus não conhecida (HC 259.028/SP, relatora a Ministra Laurita Vaz, Quinta Turma, DJe de 07/03/2014, grifei).
+Quanto à alegação de que no caso reconheceu-se a existência de sanção coletiva, melhor sorte não socorre o paciente.
+Com efeito, destacou o Tribunal de origem que (e-STJ fls. 103/104):
+Os agentes penitenciários foram uníssonos ao afirmarem que, na data dos fatos, durante vistoria, os habitantes da cela 231, dentre eles o agravante, posicionaram-se em frente da porta impedindo a realização do procedimento, e em tom de voz alterada bradavam palavras de ameaça e intimidação: "aqui é o crime, nóis é PCC, nóis tem que respeitar a hierarquia do Comando. Vocês tem que avisar que vai fazer blitz, ninguém vai entrar aqui não. Se entrar vai ser daquele jeito" (fls. 27/28).
+ ..
+Ademais, como bem apontado pelo d. Promotor de Justiça, não se trata de sanção coletiva prevista no artigo 45, § 3º, da LEP, pois foi apurada a conduta irregular somente dos sentenciados que participaram do movimento de subversão à ordem e à disciplina, restringindo-se a eles o procedimento administrativo(grifei).
+Portanto, o que se verifica é que a infração disciplinar foi praticada por todos os envolvidos, incluindo o ora paciente, não havendo se falar em aplicação de sanção coletiva, mas em falta disciplinar ocorrida em autoria coletiva.
+Ilustrativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. PROCESSO ADMINISTRATIVO DISCIPLINAR. ALEGAÇÃO DE NULIDADE DO PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. OBSERVÂNCIA DO CONTRADITÓRIO E DA AMPLA DEFESA. AUDIÊNCIA DO SENTENCIADO EM JUÍZO. PRESCINDIBILIDADE. OITIVA REALIZADA DURANTE O PAD COM A PRESENÇA DE DEFESA TÉCNICA. FUNDAMENTAÇÃO IDÔNEA DO RECONHECIMENTO DA FALTA DISCIPLINAR. SANÇÃO COLETIVA. NÃO OCORRÊNCIA. ATIPICIDADE OU DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE DE INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. DIAS REMIDOS. MOTIVAÇÃO CONCRETA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO IMPROVIDO.
+1. Não há falar em nulidade do processo administrativo disciplinar por contrariedade aos postulados do contraditório e da ampla defesa se restaram observadas as formalidades legais, com prévia manifestação da defesa dos envolvidos na infração disciplinar e acompanhamento do sentenciado por assistente jurídico. Necessidade de comprovação do prejuízo processual arguido para que constatado o constrangimento ilegal.
+2. Pacificou a jurisprudência ser desnecessária nova oitiva do condenado, perante o Juízo, se já realizada, com a presença de defesa técnica, durante o procedimento administrativo que apurou a falta disciplinar. Precedentes.
+3. Não há ofensa ao princípio da motivação se o Juízo, em direta alusão ao processo administrativo disciplinar, fundamentou o reconhecimento da infração disciplinar de natureza grave.
+4. A vedação atinente à aplicação de sanção coletiva não se enquadra ao caso, que se restringe à imposição da penalidade aos reeducandos participantes, devidamente identificados por meio de testemunhos. Hipótese de "autoria coletiva" e não de "sanção coletiva".
+5. Se as instâncias ordinárias concluíram que os atos praticados no interior do estabelecimento prisional configuram falta grave, a desclassificação para falta média ou leve ou o reconhecimento de sua atipicidade demandaria incursão na seara fático-probatória, insuscetível de ser realizada na via estreita do writ.
+6. Em tendo o juiz levado em conta os critérios estabelecidos no art. 57 da Lei de Execuções Penais na imposição do quantum relativo à perda dos dias remidos, não há falar em constrangimento ilegal.
+7. Decisão monocrática mantida por seus próprios fundamentos.
+8. Agravo regimental improvido (AgRg no HC 397.260/SP, relator o Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/3/2018, grifei).
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
