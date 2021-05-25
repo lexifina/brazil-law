@@ -1,0 +1,33 @@
+Decisão: Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (eDOC 2, p. 93):
+    AGRAVO LEGAL. APELAÇÃO CÍVEL. JULGAMENTO POR DECISÃO MONOCRÁTICA. ART. 557, CAPUT DO CPC. EXECUÇÃO DE SENTENÇA. JUROS DE MORA. PRECATÓRIO.
+    1. A decisão monocrática ora vergastada foi proferida segundo as atribuições conferidas ao Relator do recurso pela Lei nº 9.756/98, que deu nova redação ao artigo 557 do Código de Processo Civil, ampliando seus poderes não só para indeferir o processamento de qualquer recurso (juízo de admissibilidade – caput), como para dar provimento a recurso quando a decisão se fizer em confronte com a jurisprudência dos Tribunais Superiores (juízo de mérito - §1º – A). Não é inconstitucional o dispositivo.
+    2. Quanto à discussão acerca da possibilidade de incidência de juros moratórios sobre o crédito em execução, para fins de expedição de Precatório Complementar, no período compreendido entre a data da conta de liquidação elaborada no Juízo de origem e a data da efetiva expedição do Ofício Precatório no Tribunal, resta-nos perquirir a correta interpretação ao disposto no §1º, do artigo 100, da Constituição Federal.
+    3. O referido dispositivo prevê prazo para o pagamento de precatórios judiciários, determinando que a satisfação daqueles apresentados até 1º de julho deverá ocorrer até o final do exercício seguinte ao da sua inclusão no orçamento das entidades de direito público.
+    4. Por outro lado, as obrigações de pequeno valor serão quitadas por meio de requisição judicial (RPV), no prazo de 60 (sessenta) dias contados da intimação da decisão, na forma do art. 128 da Lei nº 8.213/91, respeitando-se o limite de 60 (sessenta) salários mínimos, fixado pelo Lei nº 10.259/2001, arts. 3º c.c 17.
+    5. No mesmo sentido, a Resolução nº 168, de 05 de dezembro de 2011, editada pelo Conselho da Justiça Federal, em seu art. 3º, considera requisição de pequeno valor aquela relativa a crédito cujo valor atualizado, por beneficiário, seja igual ou inferior ao supracitado, nos casos em que a devedora seja a Fazenda Federal, fazendo remissão ao art. 17, §1º, da Lei nº 10.259/2001.
+    6. Desse modo, o pagamento da RPV será efetuado no prazo de 60 (sessenta) dias, contados da entrega de requisição.
+    7. Havendo, por parte da Fazenda Pública, o cumprimento do prazo previsto para o pagamento, os juros moratórios são indevidos. O atendimento ao interregno constitucional ultrapassa a esfera de atuação da autarquia, a qual não detém controle a respeito. Assim, descabido penalizá-la com a condenação de juros relativamente à mora que não deu causa.
+    8. A questão chegou a ser pacificada no Supremo Tribunal Federal, com a edição da Súmula Vinculante nº 17.
+    9. No caso, não existe no título judicial transitado em julgado determinação a respeito da incidência dos juros de mora até o pagamento do crédito ou expedição do precatório. Ademais, verifica-se, ainda, que houve a observância do prazo legalmente fixado para o pagamento.
+    10. Agravo legal desprovido.
+    Foram rejeitados os embargos de declaração.
+    No recurso extraordinário interposto com fulcro no art. 102, III, a, do permissivo constitucional alega-se violação do art. 100, §5º, da Constituição da República. Nas razões recursais sustenta-se, em síntese, que a decisão recorrida afastou a incidência de juros da data de elaboração da conta até a referida inclusão do precatório.
+    Em um primeiro momento, os autos vieram a esta Corte e determinei, em 02.10.2018, a baixa à origem com a finalidade de adequação à sistemática da repercussão geral, tendo por base o Tema 96 (eDOC 7)
+    A 10ª Turma do TRF da 3ª Região, em juízo de retratação, proferiu acórdão assim ementado (eDOC 10, p. 206):
+    PROCESSUAL CIVIL. ART. 543-B, §3º, DO CPC/1973. ART. 1.040, INC. II, DO CPC/2015. RE 579.431/RS. JUROS DE MORA. INCIDÊNCIA ENTRE A DATA DA CONTA DE LIQUIDAÇÃO E A DATA DA EXPEDIÇÃO DO PRECATÓRIO. IMPOSSIBILIDADE. QUESTÃO DEFINIDA NO TÍTULO JUDICIAL. SALDO REMANESCENTE INEXISTENTE. JUÍZO DE RETRATAÇÃO NEGATIVO. ACÓRDÃO MANTIDO.
+    1. Reexame da matéria conforme previsto no artigo art. 543-B, §3º, do CPC/1973 e art. 1.040, inc. II, do CPC/2015.
+    2. O Pleno do Supremo Tribunal Federal, no julgamento do Recurso Extraordinário nº 579.431/RS, submetido ao regime da repercussão geral, fixou a seguinte tese: "Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório". Entretanto, no caso dos autos, observa-se que o título executivo fixou o termo final para incidência de juros de mora, qual seja, a data da conta de liquidação, de modo que, em respeito à coisa julgada, não assiste razão ao recorrente ao buscar a incidência de juros de mora após tal data.
+    3. Saldo remanescente inexistente.
+    4. Juízo de retratação negativo. Acórdão mantido.
+    Em novo juízo de admissibilidade, o Tribunal de origem inadmitiu o recurso extraordinário por entender que a alegada ofensa aos dispositivos constitucionais invocados demanda prévia incursão pela legislação previdenciária ordinária, bem como revolvimento do substrato fático-probatório dos autos, incidindo o óbice da Súmula 279 do STF (eDOC 10, p. 211-213).
+    É o relatório. Decido.
+    A pretensão merece prosperar.
+    Constata-se que o acórdão recorrido divergiu da jurisprudência desta Corte, quanto à incidência de juros de mora no período entre a realização dos cálculos e a expedição do precatório.
+    Assim decidiu esta Suprema Corte no julgamento do Tema 96 da sistemática da repercussão geral, cujo recurso-paradigma é o RE 579.431, de relatoria do Ministro Marco Aurélio, DJe de 19.04.2017, que assenta a seguinte tese: “Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório.”
+    No mesmo sentido, aponto as seguintes decisões monocráticas: Recurso Extraordinário n. 1291395, Relator o Ministro Alexandre de Moraes, DJe 23.10.2020; Recurso Extraordinário com Agravo n. 1233607, Relator o Ministro Roberto Barroso, DJe 22.04.2020; Recurso Extraordinário n. 1249494, Relatora a Ministra Cármen Lúcia, DJe 19.02.2020.
+    Ante o exposto, dou provimento ao recurso extraordinário, nos termos do art. 932, V, b, do Código de Processo Civil para reconhecer a incidência de juros de mora entre a data de elaboração dos cálculos definitivos e a expedição do precatório.
+    Publique-se.
+    Brasília, 25 de maio de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
