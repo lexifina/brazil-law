@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado pelo Juízo de Direito da 1ª Vara Cível de Parnaíba-PI e o Juízo da Vara do Trabalho de Parnaíba-PI.
+Ação em trâmite na Justiça Cível: recuperação judicial da empresa CLINICA SANTA EDWIGES LTDA - EPP.
+Ação em trâmite na Justiça Laboral: embargos à execução fiscal ajuizada pela recuperanda em desfavor da UNIÃO.
+Conflito de competência: aduziu, em síntese, que, i) "o ente público tem a prerrogativa de escolher entre receber o pagamento de seu crédito pelo rito da execução fiscal ou mediante habilitação nos autos da falência ou da recuperação judicial"; ii) "caso haja o pedido de habilitação, os atos executivos não são remetidos, competindo ao Juízo universal apenas a decisão sobre os atos constritivos" (fls. 176 e ss. e-STJ).
+Parecer do MPF: manifestou-se pelo conhecimento do conflito para ser declarada a competência do juízo trabalhista para prosseguir com a execução, restando ao juízo universal apenas a competência para manifestação quanto a eventuais atos constritivos.
+É O RELATÓRIO. DECIDO.
+Inicialmente conheço do conflito porque presentes os pressupostos constitucionais.
+A presente controvérsia cinge-se à definição do juízo competente para a prática de atos executórios quando deferido o pedido de recuperação judicial da sociedade executada.
+No caso, o Juízo de Direito da 1ª Vara Cível da Comarca de Paranaíba/PI deferiu o pedido de recuperação judicial da empresa embargante.
+De outro lado, o Juízo laboral, ao analisar embargos à execução opostos pela interessada Clínica Santa Edwiges Ltda., entendeu ser incompetente para prosseguir com a execução, pois compete ao Juízo da Recuperação "  determinar a forma de pagamento dos créditos trabalhistas, bem como  decidir acerca da destinação dos bens da recuperanda, que devem ser liberados das constrições efetivadas, sendo colocados à disposição do Juízo da Recuperação, de modo a viabilizar a consecução do plano, com a manutenção das empresas em funcionamento". (fl. 96, e- STJ).
+Sobre o tema, a jurisprudência da Segunda Seção do STJ firmou-seno sentido de que a execução fiscal não se suspende com o deferimento da recuperação judicial, entretanto, o Juízo universal é competente para praticar atos de apreensão e alienação patrimonial da recuperanda.
+Nesse sentido: AgInt no CC 166.104/GO, DJe 12/05/2020; AgInt no CC 144.157/SP, DJe 03/05/2017; AgRg no CC 120.432/SP, DJe 19/12/2016;
+CC 145.027/SC, DJe 31/08/2016; AgInt no CC 140.021/MT, DJe 22/08/2016; AgRg no AgRg no CC 81.922/RJ, DJe 04/03/2016; EDcl no AgRg no CC 137.520/SP, DJe 01/03/2016; AgRg no CC 129.290/PE, DJe 15/12/2015.
+Assim, na linha da jurisprudência consolidada nesta Corte, restou definido que o prosseguimento da execução fiscal e eventuais embargos, na forma do art. 6º, § 7º, da Lei 11.101, de 9 de fevereiro de 2005, deverá se dar, portanto, perante o juízo federal competente (no caso, o juízo laboral), ao qual caberão todos os atos processuais, inclusive a ordem de citação e penhora, exceto a apreensão e a alienação de bens.
+Nessas hipóteses, a restrição patrimonial dos bens que compõem o ativo da recuperanda fatalmente provocará prejuízos que colocarão em risco o próprio cumprimento do plano de recuperação.
+Portanto, o Juízo perante o qual tramita o processo de recuperação judicial da empresa é o competente para o exame de quaisquer atos que impliquem em constrição ou expropriação patrimonial da massa.
+No mesmo sentido, ressaltou o Parquet em sua promoção, que "Com efeito, o crédito de natureza fiscal não se sujeita à habilitação perante o juízo universal, de forma que deve o prosseguimento da execução ocorrer perante o juízo trabalhista, restando ao juízo universal apenas a competência para manifestação quanto a eventuais atos constritivos."
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do JUÍZO DA VARA DO TRABALHO DE PARNAÍBA/PI para prosseguir com a execução, restando ao juízo universal, JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE PARNAÍBA/PI, apenas a competência para manifestação quanto a eventuais atos constritivos.
+Publique-se. Intime-se. Comunique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO FISCAL. JUSTIÇA TRABALHISTA. ATOS EXECUTÓRIOS. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. ATOS EXPROPRIATÓRIOS. COMPETÊNCIA DO JUÍZO UNIVERSAL. PRECEDENTES.
+1. A jurisprudência da Segunda Seção do STJ está sedimentada no sentido de que a execução fiscal não se suspende com o deferimento da recuperação judicial, entretanto, o Juízo universal é competente para praticar atos de apreensão e alienação patrimonial da recuperanda. Precedentes.
+2. Conflito conhecido. Fixadaa competência do JUÍZO DA VARA DO TRABALHO DE PARNAÍBA/PI para prosseguir com a execução, restando ao juízo universal, JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE PARNAÍBA/PI, apenas a competência para manifestação quanto a eventuais atos constritivos.
