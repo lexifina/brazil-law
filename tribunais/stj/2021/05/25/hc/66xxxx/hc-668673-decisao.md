@@ -1,0 +1,13 @@
+DECISÃO
+JOSÉ CARLOS MENDESalega sofrer coação ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça a quo.A Defensoria Pública busca o afastamento de falta grave (descumprimento das condições da prisão domiciliar), pois o apenado teria saído de sua residência durante a madrugada para ir ao hospital. O fato extraordinário e urgência impõe o afastamento das sanções disciplinares.
+Decido.
+O apenado do regime semiaberto foi beneficiado com a prisão domiciliar. Em16/10/2020, por volta das 03h00min, foi abordado"em atitude suspeitaem frente ao CRPO/P, já detido por vigilantes da empresa Inviolável" (fl. 127).No âmbito administrativo, o paciente explicou que saiu de casa, pois"estava com muita dor de cabeça, ânsia de vômito e tonturas, pelo que se deslocava ao Hospital Municipal". Em juízo, assinalou que "passou mal por ter comido um pernil de porco, não possuindo telefone para contato com o hospital" (fl. 127).
+As justificativas para o descumprimento da prisão domiciliarnão foram acolhidas pelo Juiz da VEC, que homologou a falta grave. Neste writ,não há comprovação inequívoca de que o postulante estava com as condições debilitadas de saúde nem que exteriorizou os sintomas relatados quandofoi recolhido por policiais. Não há registro de seu atendimento/tratamentona carceragem.
+Assim, rever o entendimento do Tribunal a quo para afastar a falta grave demandaria dilação probatória, procedimento incompatível com o habeas corpus, que não comporta oacertamento de fatos para acolhimento da justificativa apresentada.
+Ilustrativamente: "não se coaduna com a via estreita do habeas corpus, por demandar a análise de fatos e provas, a análise da tese de não configuração de falta grave" (AgRg no HC n. 438.399/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 3/9/2018).
+O habeas corpus "não é a via adequada para apreciar o pedido de absolvição da falta grave, tendo em vista que, para se desconstituir o decidido pelas instâncias ordinárias, mostra-se necessário o reexame aprofundado dos fatos e provas constantes dos autos da execução, procedimento vedado pelos estreitos limites do remédio heróico" (HC n. 470.531/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 29/10/2018).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+À vista do exposto,indefiro a liminar.
+Solicitem-se informações ao Juízo das Execuções,a serem prestadas, preferencialmente, pela Central do Processo Eletrônico - CPE do STJ, encarecendo o envio de cópia da guia penal do reeducando, na qual conste o registro de suas faltas disciplinares.Em seguida, encaminhem-se os autos ao Ministério Público Federal para manifestação.
+Publique-se e intimem-se.
