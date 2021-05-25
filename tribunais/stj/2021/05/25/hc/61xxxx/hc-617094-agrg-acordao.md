@@ -1,0 +1,46 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO E CORRUPÇÃO DE MENORES. PENA-BASE. FUNDAMENTAÇÃO CONCRETA. CONCURSO FORMAL DE CRIMES. REGRA MAIS BENÉFICA AO RÉU. REGIME INICIAL FECHADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A exasperação da pena-base foi devidamente justificada, pois o fato de o delito haver sido praticado contra vítimas crianças, que ficaram sob a mira de arma de fogo, é fundamento suficiente para negativar as circunstâncias do crime.
+2. No caso, tanto a incidência da fração relativa ao concurso formal aplicada na totalidade de seis delitos quanto a aplicação do concurso material benéfico seriam prejudiciais ao réu, haja vista que a pena total seria maior do que aquela aplicada no acórdão. Dessa forma, ainda que a jurisprudência desta Corte Superior entenda pela aplicação do concurso formal entre os delitos de roubo e de corrupção de menores, o cálculo realizado foi mais benéfico e deve ser mantido.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JHONATA WANDER DOS SANTOS agrava de decisão em que deneguei o habeas corpus.
+Neste regimental, a defesa reitera a ilegalidade da fundamentação adotada para exasperar a pena-base e questiona, novamente, a adoção da regra do concurso formal de crime, bem como a fração adotada e a fixação do regime fechado.
+Requer a reconsideração do decisum agravado ou a submissão do feito ao órgão colegiado, para que seja concedida a ordem pretendida no writ.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO E CORRUPÇÃO DE MENORES. PENA-BASE. FUNDAMENTAÇÃO CONCRETA. CONCURSO FORMAL DE CRIMES. REGRA MAIS BENÉFICA AO RÉU. REGIME INICIAL FECHADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A exasperação da pena-base foi devidamente justificada, pois o fato de o delito haver sido praticado contra vítimas crianças, que ficaram sob a mira de arma de fogo, é fundamento suficiente para negativar as circunstâncias do crime.
+2. No caso, tanto a incidência da fração relativa ao concurso formal aplicada na totalidade de seis delitos quanto a aplicação do concurso material benéfico seriam prejudiciais ao réu, haja vista que a pena total seria maior do que aquela aplicada no acórdão. Dessa forma, ainda que a jurisprudência desta Corte Superior entenda pela aplicação do concurso formal entre os delitos de roubo e de corrupção de menores, o cálculo realizado foi mais benéfico e deve ser mantido.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão impugnada, cuja conclusão mantenho.
+No caso, o decisum concluiu pela legalidade dos fundamentos adotados para exasperar a pena-base do agravante, bem como pela impossibilidade de se alterar a regra de concurso de crimes e a fração adotada pela Corte estadual, sob pena de reformatio in pejus. Por fim, ratificou a imposição do regime mais gravoso como consectário legal da pena aplicada. Confira-se (fls. 472-475, grifos no original):
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal, e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto, devendo, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal. São elas: a culpabilidade; os antecedentes; a conduta social; a personalidade do agente; os motivos; as circunstâncias e as consequências do crime e o comportamento da vítima.
+O Tribunal a quo manteve a análise negativa das circunstâncias do crime, pois o delito foi praticado "contra vítimas crianças, mantidas sob a mira de arma de fogo, em ambiente familiar" (fl. 40). Destacou, ainda, que "um dos menores foi acordado com tapa na cara, dentro do ambiente familiar, quando estavam dormindo" (fl. 41, grifei).
+Assim, reputo fundamentada a análise desfavorável da referida vetorial, notadamente porque o delito de roubo majorado foi praticado na presença de menores, havendo um deles sido agredido enquanto dormia.
+ ..
+Em relação ao reconhecimento do concurso material benéfico, bem como a fração aplicada ao concurso formal entre os roubos e a corrupção de menores, assim ficou consignado no acórdão dos embargos de declaração opostos pela defesa (fls. 448-450):
+ ..  Quanto ao invocado "equívoco", sustenta o embargante que, na ocasião do reajuste da dosimetria da pena, face ao provimento do apelo ministerial e condenação do ora embargante também pelos delitos de corrupção de menor, este Colegiado aplicou a figura jurídica do concurso formal entre os delitos da nova condenação e os crimes de roubo, majorando a reprimenda desses últimos em 1/6 (um sexto).
+Diz, no entanto, que tal figura jurídica "deveria incidir, (na) fração de 1/3, sobre a reprimenda do delito de roubo (5 anos, e 6 meses de reclusão) e não 1/6 sobre a pena calculada na sentença após a incidência da exasperação do concurso formal lá reconhecido (6 anos, 10 meses e 15 dias de reclusão)." (fl. 07).
+De fato, há certa lógica no seu raciocínio, embora, adianto, ele não deva ser aplicado ao caso.
+Explico.
+Em conformidade com a jurisprudência do Superior Tribunal de Justiça, deve ser reconhecido o concurso formal entre os delitos de roubo e corrupção de menores (CP, artigo 70, primeira parte) na hipótese em que, mediante uma única ação, o réu praticou ambos os delitos, tendo a corrupção de menores se dado em razão da prática do delito patrimonial (HC n. 411.722/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 26/2/2018).
+Todavia, a regra do concurso formal só há de ser aplicada quando efetivamente trouxer proveito ao réu.
+No caso, efetivamente houve uma única ação que se desdobrou na execução dos delitos de roubo perpetrados em desfavor das quatro vítimas, e dois crimes de corrupção de menor, o que faria incidir na pena de um daqueles delitos de roubo, o mais grave, o patamar de 1/2 (um meio), seguindo o aumento escalonado da jurisprudência.
+ ..
+Acontece que, se aplicássemos a fração de 1/2 (um meio), adequada ao número de delitos perpetrados, isto é, quatro crimes de roubo e dois crimes de corrupção de menor, o tantum de pena definitiva ultrapassaria os 08 (oito) anos e 07 (sete) dias de reclusão, estipulados no acórdão combatido.
+Em sendo assim, ainda que se reconheça que o cálculo efetuado no acórdão não tenha guardado sincronia com a jurisprudência da Corte Superior, a sua alteração como pretende a defesa acarretaria em prejuízo ao réu, logo, deve ser mantida tal como estipulada na oportunidade.
+Cabe dizer ainda que a aplicação do "concurso material benéfico" (CP, art. 70, p.u.) também acarretaria prejuízo ao réu porque, repito, tratam-se de dois crimes de corrupção de menores, aplicados ao mínimo legal de 01 (um) ano de reclusão que, se somados aos 06 (seis) anos, 10 (dez) meses e 15 (quinze) dias de reclusão, somatório referente aos quatro crimes de roubo em concurso formal, ainda que reconhecida a figura do crime continuado entre eles, também ultrapassaria o quantum estipulado no acórdão.
+De acordo com os trechos acima transcritos, observa-se que o paciente foi condenado pela prática de quatro delitos de roubo, entre os quais foi aplicada a regra do concurso formal e, em seguida, novamente aplicada a fração do concurso formal entre os delitos de roubo e os dois delitos de corrupção de menores, pelos quais igualmente foi condenado.
+Consoante registrado no acórdão, de fato, tanto a incidência da fração relativa ao concurso formal aplicada na totalidade de seis delitos, quanto a aplicação do concurso material benéfico seriam prejudiciais ao réu, haja vista que a pena total seria maior do que aquela aplicada no acórdão.
+Dessa forma, ainda que a jurisprudência desta Corte Superior entenda pela aplicação do concurso formal entre os delitos de roubo e de corrupção de menores, o cálculo realizado pela Corte estadual, com a incidência das frações de concurso formal foi mais benéfico e deve ser mantido.
+ ..
+Por fim, deve ser mantido o regime fechado, como consectário legal ao quantum de pena aplicada, superior à 8 anos de reclusão, nos termos do art. 33, § 2º, "a", do Código Penal.
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
