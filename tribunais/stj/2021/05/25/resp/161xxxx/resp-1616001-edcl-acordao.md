@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO.  REQUISITOS.  INOCORRÊNCIA.
+1.  Os  embargos  de  declaração  têm  ensejo  quando  há  obscuridade,  contradição,  omissão  ou  erro  material  no  julgado.
+2.  Hipótese  em  que  não  há  no  acórdão  nenhuma  situação  que  dê  amparo  ao  recurso  integrativo,  porquanto  o  vício  alegado  pelo  embargante,  na  realidade,  manifesta  seu  inconformismo  com  o  desprovimento  do  agravo  interno.
+3.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  RIVALDO  ALMEIRA  SANTOS  em  desfavor  de  acórdão  da  Primeira  Turma,  que  negou  provimento  a  seu  agravo  interno  pelos  seguintes  fundamentos  (e-STJ  fl.  574):
+PROCESSUAL  CIVIL  E  PREVIDENCIÁRIO.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  CERCEAMENTO  DE  DEFESA.  AUSÊNCIA.
+1.  Não  se  reconhece  a  pretensão  de  reforma  do  julgado  por  negativa  de  prestação  jurisdicional  quando  o  acórdão  impugnado  aprecia  a  controvérsia,  apontando  as  razões  de  seu  convencimento,  porém  em  sentido  contrário  ao  pleito  recursal.
+2.  Hipótese  em  que  não  se  sustenta  a  alegação  de  omissão  sobre  o  pedido  alternativo  de  aposentadoria  por  tempo  de  contribuição  e  sobre  a  reafirmação  da  DER,  pois  os  autos  revelam  que  foram  reconhecidos,  pelo  acórdão  combatido,  tão  somente  15  anos,  10  meses  e  17  dias  de  tempo  para  efeito  de  averbação,  portanto,  período  insuficiente  à  concessão  da  aposentadoria,  seja  por  tempo  de  contribuição  seja  especial,  na  modalidade  postulada.
+3.  Compete  ao  magistrado,  como  destinatário  final  da  prova,  avaliar  a  pertinência  das  diligências  que  as  partes  pretendem  realizar,  segundo  o  disposto  nos  arts.  130  e  420,  II,  do  Código  de  Processo  Civil/1973,  podendo  afastar  o  pedido  de  produção  de  provas  inúteis  ou  meramente  protelatórias.
+4.  Agravo  interno  desprovido.
+Em  suas  razões,  o  embargante  sustenta  que  o  julgado  incorreu  em  erro  material  no  cálculo  de  tempo  total  alcançado,  ao  consignar  que  foram  reconhecidos  tão  somente  15  anos,  10  meses  e  17  dias  de  tempo  especial  quando,  na  realidade,  o  acórdão  do  Tribunal  de  origem  manteve  os  períodos  reconhecidos  na  sentença,  os  quais,  se  somados,  redundam  em  22  anos,  05  meses  e  17  dias.
+Segundo  defende,  "Considerando  tal  soma,  seria  plenamente  possível  a  análise  da  possibilidade  de  reafirmação  da  DER,  visto  que  o  Embargante  seguiu  laborando  nas  mesmas  condições  após  22/04/2013  até  pelo  menos  abril  de  2017,  como  demonstra  o  PPP  ora  acostado"(e-STJ  fl.  593).
+E  conclui:  "E  mais!  Considerando  o  tempo  total  de  contribuição  admitido  pelo  INSS  -  (e-STJ  fls.  36  e  37)  -  26  anos,  10  meses  e  13  dias,  o  Embargante  ULTRAPASSAVA  35  ANOS  DE  LABOR  NA  DER"  (e-STJ  fl.  593).
+Postula,  com  base  nos  princípios  da  instrumentalidade  das  formas  e  da  economia  processual  e  a  fim  de  evitar  futuro  ajuizamento  de  ação  rescisória,  a  correção  do  aludido  vício,  sobre  o  qual  não  há  preclusão.
+  Intimada,  a  parte  embargada  não  ofertou  impugnação  (e-STJ  fl.  608).
+  É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO.  REQUISITOS.  INOCORRÊNCIA.
+1.  Os  embargos  de  declaração  têm  ensejo  quando  há  obscuridade,  contradição,  omissão  ou  erro  material  no  julgado.
+2.  Hipótese  em  que  não  há  no  acórdão  nenhuma  situação  que  dê  amparo  ao  recurso  integrativo,  porquanto  o  vício  alegado  pelo  embargante,  na  realidade,  manifesta  seu  inconformismo  com  o  desprovimento  do  agravo  interno.
+3.  Embargos  de  declaração  rejeitados.
+VOTO
+Nos  termos  do  art.  1.022  do  CPC/2015,  são  admitidos  embargos  de  declaração  quando  houver  obscuridade,  contradição,  omissão  e  erro  material  na  decisão.  In  casu,  não  ocorreu  nenhum  dos  vícios  supracitados.
+Cumpre  esclarecer,  inicialmente,  que  o  acórdão  ora  embargado  não  incorreu  em  erro  material  no  cálculo  de  tempo  de  serviço  alcançado,  pois  apenas  mencionou  o  que  as  instâncias  ordinárias  informaram,  ou  seja,  que  "a  parte  autora  conta  com  15  anos,  10  meses  e  17  dias  de  tempo  especial,  insuficiente,  portanto,  para  a  concessão  de  aposentadoria  especial",  como  registrado  na  sentença  (e-STJ  fl.  335).  Grifos  no  original
+De  igual  modo,  segundo  o  acórdão  de  apelação,  foram  reconhecidos,  como  períodos  especiais  "15  (quinze)  anos,  10  (dez)  meses  e  17  (dezessete)  dias,  para  fins  de  averbação"  (e-STJ  fl.  398).
+Outrossim,  cabe  acentuar  que  a  alegação  do  embargante,  no  sentido  de  que  "seria  plenamente  possível  a  análise  da  possibilidade  de  reafirmação  da  DER,  visto  que  o  Embargante  seguiu  laborando  nas  mesmas  condições  após  22/04/2013  até  pelo  menos  abril  de  2017"  (e-STJ  fl.  593),  não  pode  ser  conhecida,  na  medida  em  que  não  foi  devolvida  a  esta  Corte  no  apelo  especial.
+Com  efeito,  a  análise  do  recurso  permite  verificar  que  o  recorrente  concentrou  sua  irresignação  em  dois  temas  principais:  (i)  cerceamento  de  defesa  pelo  indeferimento  de  prova  técnica  que  pudesse  comprovar  a  especialidade  do  labor  como  ajudante  de  servente  e  (ii)  direito  à  conversão  do  tempo  de  serviço  comum  em  especial  após  28/04/1995  (e-STJ  fls.  449/476).
+Somente  em  sucinto  tópico  relativo  ao  prequestionamento,  no  início  da  peça  recursal,  que  o  ora  embargante  postulou  a  anulação  da  decisão  para  pronunciamento  acerca  de  "pedidos  subsidiários  de  concessão  de  aposentadoria  por  tempo  de  contribuição,  bem  como  de  fato  superveniente"  (e-STJ  fl.  451).  grifos  no  original
+No  entanto,  apesar  do  aludido  pleito,  não  houve  qualquer  argumentação,  no  bojo  das  razões  recursais,  sobre  qual  seria  o  fato  superveniente  que  não  teria  sido  enfrentado  pelo  Tribunal  de  origem,  ou  quais  os  motivos  que  justificassem  o  seu  pedido  de  anulação.
+  Desse  modo,  não  há  como  acolher  os  presentes  embargos,  sendo  certo  que  as  omissões  invocadas  pela  parte  embargante  manifestam  o  seu  inconformismo  com  o  desprovimento  de  seu  agravo  interno,  desiderato  inadmissível  em  sede  de  embargos  declaratórios.
+Nesse  sentido:
+PROCESSUAL  CIVIL.  EMBARGOS  DECLARATÓRIOS  NO  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  RESCISÓRIA.  PEDIDO  DE  INDENIZAÇÃO  POR  DANO  MORAL,  EM  RAZÃO  DE  ATRASO  NA  CONCESSÃO  DE  BENEFÍCIO  PREVIDENCIÁRIO.  DANO  NÃO  DEMONSTRADO.  AUSÊNCIA  DE  INDICAÇÃO,  NAS  RAZÕES  DO  RECURSO  ESPECIAL,  INTERPOSTO  COM  FUNDAMENTO  NO  ART.  105,  III,  A,  DA  CF/88,  DO  DISPOSITIVO  LEGAL  QUE,  EM  TESE,  TERIA  SIDO  VIOLADO  PELO  TRIBUNAL  DE  ORIGEM.  DEFICIÊNCIA  DE  FUNDAMENTAÇÃO.  FUNDAMENTOS  DA  CORTE  DE  ORIGEM  INATACADOS,  NAS  RAZÕES  DO  RECURSO  ESPECIAL.  CONTROVÉRSIA  RESOLVIDA,  PELO  TRIBUNAL  DE  ORIGEM,  À  LUZ  DAS  PROVAS  DOS  AUTOS.  IMPOSSIBILIDADE  DE  REVISÃO,  NA  VIA  ESPECIAL.  AGRAVO  INTERNO  IMPROVIDO.  EMBARGOS  DE  DECLARAÇÃO.  ALEGADA  VIOLAÇÃO  AO  ART.  1.022  DO  CPC/2015.  VÍCIOS  INEXISTENTES.  INCONFORMISMO.  REJEIÇÃO  DOS  EMBARGOS  DE  DECLARAÇÃO.
+I.  Embargos  de  Declaração  opostos  a  acórdão  prolatado  pela  Segunda  Turma  do  Superior  Tribunal  de  Justiça,  publicado  na  vigência  do  CPC/2015.
+II.  O  voto  condutor  do  acórdão  embargado  apreciou  fundamentadamente,  de  modo  coerente  e  completo,  todas  as  questões  necessárias  à  solução  da  controvérsia,  negando  provimento  ao  Agravo  interno,  em  razão  da  incidência  das  Súmula  283  e  284  do  STF  e  7  do  STJ.
+III.  Inexistindo,  no  acórdão  embargado,  omissão,  contradição,  obscuridade  ou  erro  material,  nos  termos  do  art.  1.022  do  CPC  vigente,  não  merecem  ser  acolhidos  os  Embargos  de  Declaração,  que,  em  verdade,  revelam  o  inconformismo  da  parte  embargante  com  as  conclusões  do  decisum.
+IV.  Embargos  de  Declaração  rejeitados.
+(EDcl  no  AgInt  nos  EDcl  no  AREsp  1558418/SE,  Rel.  Ministra  ASSUSETE  MAGALHÃES,  SEGUNDA  TURMA,  julgado  em  22/03/2021,  DJe  26/03/2021).
+Com  essas  considerações,  REJEITO  os  embargos  de  declaração.
+É  como  voto.
