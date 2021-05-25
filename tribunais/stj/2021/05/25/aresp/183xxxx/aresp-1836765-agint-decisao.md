@@ -1,0 +1,57 @@
+DECISÃO
+Na origem, Leandro Ferreirainterpôs agravo de instrumento decorrente de decisão que julgou improcedente impugnação à penhora do imóvel, rejeitou questão preliminar de litisconsórcio necessário e de impenhorabilidade do imóvel a ser penhorado.
+No julgamento do agravo de instrumento, a Vigésima Câmara Cível do Tribunal de Justiça do Rio Grande do Sul negou provimento em aresto assim ementado (e-STJ, fl. 431):
+Agravo de instrumento. Impugnação à penhora. Prova da impenhorabilidade alegada.
+A decisão agravada de instrumento e as informações do juízo demonstram que o devedor reside em outro imóvel, afastando-se a alegação de impenhorabilidade do bem de família.
+Deixando a parte agravante de demonstrar que se trata do imóvel onde reside e do único imóvel que possui, justifica-se a improcedência do incidente de impenhorabilidade conforme a decisão agravada de instrumento e as informações prestadas pelo juízo, que se reafirmam e prevalecem.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 473-477).
+Nas razões do recurso especial, o recorrente, com fundamento nas alíneasae c do permissivo constitucional, alegou, além de divergência jurisprudencial, violação aos arts. 5º, LV, 6ºe 93, IX, da CF/1988; 8º, 9º, 10, 114, 242, 275, caput, § 2º, 280, 281, 282, 828 e 832 do CPC/2015; 615-A do CPC/1973; e 1º e 5º da Lei n. 8.009/1990, com base nos seguintes argumentos:
+a) sustentou a nulidade de todos os atos processuais, na medida em que não houve citação válida do avalista, nem mesmo havendo que se falar em citação válida com base na Teoria da Aparência;
+b) aduziu ser indispensável no processo a formação de litisconsórcio passivo necessário, ou que ao menos a execução fosse direcionadaao proprietário do bem;
+c) apontou que houve violação às normas relativas à intimação editalícia da penhora;
+d) por fim, pugnou pela impenhorabilidade do imóvel por se tratar de bem de família.
+Contrarrazões apresentadas às fls. 521-547 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial pela incidência das Súmulas 7 e 211 do STJ.
+Às fls. 638-639 (e-STJ), foi proferida decisão pela Presidência desta Corte, a qual não conheceu do recurso, por falta de impugnação a todos os fundamentos da decisão de inadmissibilidade.
+Em suas razões de agravo interno, Leandro Ferreira aduz, em síntese que, impugnouos termos da referida decisão e que não se aplicam os óbices das Súmulas 7 e 211/STJ.
+A impugnação não foi apresentada - fl. 676 (e- STJ).
+Brevemente relatado, decido.
+No caso, cumpre observar que a decisão do TJRS que negou seguimento ao recurso especial foi impugnada pelo agravante, ainda que sucintamente, motivo pelo qual, com base no art. 259 do RISTJ, reconsidero a decisão de fls. 638-639 (e-STJ), tendo em vista a inaplicabilidade do disposto no art. 932, III, do CPC/2015, e, constatando-se o preenchimento dos requisitos de admissibilidade recursal, passo a novo exame do recurso especial.
+Dito isso, inicialmente,vale ressaltar que, concernenteà alegação de ofensa aos arts. 5º, LV, 6ºe 93, IX, da CF/1988, é evidente a inadequação da via recursal eleita, porquanto "compete ao Superior Tribunal de Justiça, em sede de recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos constitucionais, porquanto matéria afeta à competência do STF (art. 102, inciso III, da Constituição Federal)" -(AgRg no AREsp n. 359.463/SP, Relator o Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/2/2015, DJe 3/3/2015).
+No mais, o acórdão recorrido dirimiu a questão com base nos seguintes fundamentos (e-STJ, fl. 433 - sem grifo no original):
+A informações da Juíza de Direito foram precisas:
+Em atenção ao ofício nº 627/20, informo que a parte agravante cumpriu o disposto no art. 1018 do Código de Processo Civil e que a decisão agravada foi mantida.
+O recurso tem como objeto entendimento jurídico, atinente à inexistência de litisconsórcio passivo necessário no caso concreto e, por conseguinte, à prescindibilidade da citação do avalista do caso exequendo.
+Desse modo, não verifico quaisquer fatos relevantes a indicar quanto ao pleito de nulidade da citação.
+Acerca da alegada impenhorabilidade do imóvel de matrícula n. 63.792 do Registro de Imóveis de Torres, na decisão de fls. 161/162 constou apreciação dos documentos acostados por Leandro, concluindo-se que este residiria com sua esposa na cidade de Porto Alegre, e não no litoral.
+As contrarrazões também são concisas quanto à penhorabilidade do imóvel.
+Assim, deixando a parte agravante de demonstrar que se trata do imóvel onde reside e do único imóvel que possui, justifica-se a improcedência do incidente de impenhorabilidade conforme a decisão agravada de instrumento e as informações prestadas pelo juízo, que se reafirmam e prevalecem.
+Diante do exposto, voto pelo desprovimento do agravo de instrumento, reafirmando a decisão do juízo.
+No julgamento dos embargos de declaração, o TJRS esclareceu que (e-STJ, fls. 474-476- sem grifo no original):
+O voto do Relator, que integra o acórdão, circunstanciou com exatidão, e são as circunstâncias determinantes do julgamento, que assim se sintetizam:
+A informações da Juíza de Direito foram precisas:
+ ..
+As contrarrazões também são concisas quanto à penhorabilidade do imóvel.
+Assim, deixando a parte agravante de demonstrar que se trata do imóvel onde reside e do único imóvel que possui, justifica-se a improcedência do incidente de impenhorabilidade conforme a decisão agravada de instrumento e as informações prestadas pelo juízo, que se reafirmam e prevalecem.
+As alegadas omissões inexistem, a parte embargante de declaração alega a questão da prova da propriedade de outros imóveis além do penhorado, inovando em relação às alegações do agravo de instrumento, que se referem essencialmente à necessidade de formação de litisconsórcio passivo.
+Na petição inicial do agravo de instrumento, alegou-se em tese sobre o bem de família e de sua impenhorabilidade, sem indicar as circunstâncias exatas que caracterizam a demonstração de tal alegação.
+Em 2016, consta informação na execução de que o embargante reside na Rua Salcedo, em Porto Alegre; a defesa apresentada ocorreu tempos depois sem que o embargante alegasse que não residia na rua Salcedo ou que tal imóvel não fosse de sua titularidade - o que não está expresso nos embargos de declaração - assim como que os imóveis de matrículas 146.961 e 147.295, localizados em Porto Alegre, tenham sido vendidos antes da indicação do imóvel de Arroio do Sal à penhora. Vale ressaltar que o embargante alega que ambos os imóveis foram vendidos em julho de 2013, mas as matrículas indicam que em março de 2019 houve anotação de registro de penhora decorrente do processo nº. 001/1.14.0179802-1, ajuizado por Walter Erwin Gress contra o embargante e a pessoa jurídica Autêntica Comunicação Visual Ltda.
+O acórdão é inteiramente compreensível, é completo, e cabe à parte interpor o recurso cabível no lugar de embargar.
+Enfatizo que as questões suscitadas ou necessárias foram resolvidas e decididas, assim como as razões do julgamento se confirmam integralmente.
+A inexistência de motivos típicos determina o não acolhimento dos embargos de declaração.
+Como se vê, da leitura dos trechos acima, observa-se que não houve debate sobre a inexistência de nulidade da citação e da impenhorabilidade do imóveldo ponto de vista da infringência aos arts. 8º, 9º, 10, 114, 242, 275, caput, § 2º, 280, 281, 282, 828 e 832 do CPC/2015, e 615-A do CPC/1973, haja vista que a conclusão do Tribunal de origem se deu única e exclusivamente com base no fato de que era desnecessária a citação do avalista, por não ser caso de litisconsorte passivo necessário, além de ter deixado de indicar as circunstâncias exatas capazes de caracterizar a impenhorabilidade do imóvel como bem de família, não havendo, portanto, o devido prequestionamento, tampouco arguiu-se ofensa ao art. 1.022 do CPC/2015, o que atrai o óbice das Súmulas 282 do STF e 211 do STJ.
+Ademais, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 4/4/2017, DJe 10/4/2017).
+Impende registrar que, consoante iterativa jurisprudência desta Corte, a falta de prequestionamento impede o conhecimento do recurso lastreado, também, na alínea c do permissivo constitucional.
+Outrossim, verifica-se que a revisão do julgado acerca da existência de nulidade na citação do ora agravante, bem como da configuração dos requisitos paraimpenhorabilidade do imóvel objeto da penhora, exigiria o revolvimento dascircunstâncias de fato pertinentes ao caso, o que não se admite em recurso especial, diante da aplicação daSúmulan. 7 do STJ, a qual incide tanto para os recursos interpostos pela alínea a como pela alínea c do permissivo constitucional.
+Por fim, não se revela cognoscível a irresignação deduzida por meio da alínea c do permissivo constitucional, porquanto a parte recorrente não demonstrou a divergência nos moldes exigidos pelos arts. 1.029, § 1º, do CPC/2015 e 255, §§ 1º e 2º, do RISTJ.
+É assente nesta Corte Superior que a mera transcrição de ementas e trechos do voto, sem a realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REJEIÇÃO. PENHORA DE IMÓVEL. CONTRATO DE ALIENAÇÃO. BEM DE FAMÍLIA. NÃO COMPROVAÇÃO. INCIDÊNCIA DA SÚMULA 7 DO STJ. LEGITIMIDADE DO EXECUTADO. FALTA DE IMPUGNAÇÃO OBJETA E DIRETA AO FUNDAMENTO DO ACÓRDÃO. SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. O recorrente deixou de comprovar o dissídio pretoriano nos termos exigidos pelos dispositivos legais e regimentais que o disciplinam, notadamente por ter deixado de transcrever os trechos dos acórdãos em confronto e não ter efetuado o necessário cotejo analítico das tesessupostamente divergentes, tampouco indicado o repositório oficial ou juntado cópia do inteiro teor dos julgados paradigmas.
+(..)
+4. Agravo interno não provido. (AgInt no AREsp 1.023.675/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 9/3/2017, DJe 16/3/2017)
+Ante o exposto, conheço do agravo, mediante juízo de retratação,paranão conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO À PENHORA.1.PARTE AGRAVANTE QUE REBATEU, AINDA QUE SUCINTAMENTE, OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA.2.AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 DO STF E 211 DO STJ.3.DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 4. NULIDADE NA CITAÇÃO. IMPENHORABILIDADE DO IMÓVEL POR SER BEM DE FAMÍLIA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DASÚMULA7 DO STJ.5.DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. COTEJO ANALÍTICO NÃO REALIZADO. 6. AGRAVO CONHECIDO, MEDIANTE JUÍZO DE RETRATAÇÃO, PARA NÃO CONHECER DO RECURSO ESPECIAL.
