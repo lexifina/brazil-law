@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de DIVINO MARTINS DE OLIVEIRA JÚNIOR, LAMAISON DA CUNHA e LEANDRO DE OLIVEIRA VERGASTA, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, no julgamento da Apelação Criminal n. 0001391-78.2020.8.16.0030.
+Os pacientes foram condenados como incursos nas penas do crime descrito no art. 33 da Lei n. 11.343/2006. O paciente Leandro de Oliveira Vergasta também foi condenado pelo delito previsto no art. 12 da Lei n. 10.826/2003. Divino Martins de Oliveira Júnior foi condenado a 10 (dez) anos de reclusão, além de 1000 (mil) dias-multa. Lamaison da Cunha foi sentenciado a 9 (nove) anos, 8 (oito) meses e 20 (vinte) dias de reclusão, mais 966 (novecentos e sessenta e seis) dias-multa. Por fim, Leandro de Oliveira Vergasta recebeu pena de 10 (dez) anos de reclusão e 1 (um) ano de detenção, além de 1010 (mil e dez) dias-multa.
+O Tribunal de Justiça do Estado do Paraná negou provimento aos recursos defensivo, mantendo, integralmente a sentença condenatória (e-STJ, fls. 66-122).
+Nesta impetração, a defesa argumenta que as provas foram obtidas mediante ingresso em domicílio sem prévia autorização dos moradores e sem justa causa para justificar a entrada forçada, tornando inválidas as provas obtidas a partir dessa diligência.
+Em razão disso, requer a concessão da ordem para reconhecer a ilicitude das provas e, consequentemente, absolver os pacientes dos crimes imputados.
+É o relatório. Passo a decidir.
+O presente habeas corpus não merece ser conhecido.
+O tema trazido a exame nesta impetração não foi submetido à apreciação do Tribunal de origem, de maneira que a análise direta por esta Corte Superior se mostra inviável.
+Como é cediço, a ausência de prévia manifestação das instâncias ordinárias sobre os temas discutidos no mandamus inviabiliza seu conhecimento pelo Superior Tribunal de Justiça, porquanto estar-se-ia atuando em patente afronta à competência constitucional reconhecida a esta Corte, nos termos do art. 105 da Carta Magna.
+Ao ensejo, confiram-se os seguintes precedentes:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE ENTORPECENTES. NULIDADES. INVASÃO DE DOMICÍLIO. INIDONEIDADE DO LAUDO DE CONSTATAÇÃO PRELIMINA R. TRANCAMENTO DA AÇÃO PENAL. MATÉRIAS NÃO EXAMINADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. QUANTIDADE DE DROGAS APREENDIDAS (1,4 KG DE COCAÍNA E 291 G DE MACONHA). RISCO DE REITERAÇÃO. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. RISCO DE CONTAMINAÇÃO PELA COVID-19. RECOMENDAÇÃO N. 62 DO CONSELHO NACIONAL DE JUSTIÇA - CNJ. RÉU NÃO INSERIDO NO GRUPO DE RISCO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+(..)
+2. As alegações concernentes às nulidades decorrentes da invasão de domicílio e da elaboração do laudo de constatação provisória por pessoa inidônea, bem como o pedido de trancamento da ação penal, não foram objeto de exame no acórdão impugnado, o que obsta a análise por este Tribunal Superior, sob pena de se incorrer em indevida supressão de instância.
+(..)
+7. Habeas corpus não conhecido(HC 597.057/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 16/11/2020).
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. RECEPTAÇÃO. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO E DE USO RESTRITO. ALEGAÇÕES DE NULIDADES DO FLAGRANTE. IMPOSSIBILIDADE DE REVOLVIMENTO DE MATERIAL FÁTICO-PROBATÓRIO. SUPRESSÃO DE INSTÂNCIA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DE DROGAS.RECURSO ORDINÁRIO DESPROVIDO.
+(..)
+III - A quaestio referente ao argumento de invasão de domicílio sequer foi apreciada pelo eg. Tribunal de origem, razão pela qual fica impossibilitada esta Corte de proceder a tal análise, sob penal de indevida supressão de instância.
+(..)
+Recurso ordinário desprovido(RHC 104.762/RS, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 5/12/2018).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO PREVENTIVA. RECORRER EM LIBERDADE. FUNDAMENTAÇÃO, AUSÊNCIA DE PESSOAS APTAS A CUIDAR DOS INFANTES E NULIDADE DAS PROVAS OBTIDAS. SUPRESSÃO DE INSTÂNCIA. PRISÃO DOMICILIAR. MÃE DE CRIANÇAS MENORES DE 12 ANOS DE IDADE. SITUAÇÃO EXCEPCIONALÍSSIMA CONFIGURADA. COVID-19. AUSÊNCIA DE MAIOR VULNERABILIDADE OU DE ENQUADRAMENTO EM GRUPO DE RISCO.
+1. As teses de carência de fundamentação idônea a amparar a manutenção da prisão preventiva da insurgente, de ausência de pessoas aptas a promover os cuidados dos infantes e de nulidade das provas por uma suposta invasão de domicílio não foram objeto de apreciação pela Corte estadual no acórdão impugnado. Dessa forma, fica obstada a análise das alegações por esta Corte, sob pena de indevida supressão de instância.
+(..)
+6. Agravo regimental desprovido(AgRg no HC 618.775/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, DJe 26/3/2021).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INVASÃO DE DOMICÍLIO E MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. SUPRESSÃO DE INSTÂNCIA. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Mostra-se inviável a análise, diretamente por esta Corte Superior de Justiça, da alegação de que o processo instaurado em desfavor do réu é nulo - porquanto teria sido deflagrado a partir de elementos de informação ilícitos, obtidos por meio de invasão de domicílio -, haja vista que essa matéria não foi examinada pelo Tribunal de origem, sob pena de, assim o fazendo, incidir na indevida supressão de instância.
+(..)
+4. Agravo regimental não provido(AgRg no HC 615.551/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 2/3/2021).
+Não se pode descurar, por fim, que admitir a análise direta por esta Corte de eventual ilegalidade não submetida ao crivo do Tribunal de origem denotaria patente desprestígio às instâncias ordinárias e inequívoco intento de desvirtuamento do ordenamento recursal ordinário, o que efetivamente tem se buscado coibir.
+Portanto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presentehabeas corpus.
+Intimem-se.
