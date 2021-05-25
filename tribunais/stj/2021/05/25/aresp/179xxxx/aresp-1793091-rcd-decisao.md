@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de pedido de reconsideração, apresentado por MARIA SEBASTIANA LEISTER CASTIGLIONE, SÉRGIO PAULO CASTIGLIONE, contra a decisão de fls. 349/350, que não conheceu do recurso.
+Alega a parte que:
+Nobres julgadores, os Requerentes informam e comprovam a TEMPESTIVIDADE do presente RECURSO ESPECIAL, tendo em vista que foi apreciado pelo Tribunal de Justiça de SP, em decisão proferido em acordo de nº (anexo) que reconheceu a TEMPESTIVIDADE do RECURSO ESPECIAL, senão vejamos:  .. (fl. 353).
+Aduz também que:
+Como ainda, esclarece que a juntada de instrumento de procurações é tempestiva, tendo em vista que a ADVOGADA dos Recorrentes não foi intimada e/ou notificada, conforme requerido no ato da distribuição do recurso, e determinado pelo o Douto julgador (fls.), vejamos:
+ ..
+Nobres Julgadores, no ato na interposição do presente recurso, a peticionante informou ao Douto juízo o endereço eletrônico para receber intimações e notificações, mas infelizmente, mas infelizmente a advogada não recebeu intimações ou notificações no endereço informado, qual seja, ( dra.ildaadvogada@gmail.com ).
+Corroborando para a comprovação da não intimação, foi enviado informações da OABSP, que nessa data 7 de dezembro de 2020, não também, que não houve publicação, notificação e intimação na data do dia 04 de dezembro em nome da patrona, com a concessão de prazo de cinco dias para que os Recorrente complementem a documentação exigida (doc. anexo) (fl. 354).
+ ..
+Ressalta ainda a peticionante, ADVOGADA dos Recorrentes, infelizmente, mais uma vez, NÃO FOI INTIMADA E/OU NOTIFICADA DA DECISÃO abaixo, no endereço mencionado no Recurso (fl. 356).
+É, no essencial, o relatório. Decido.
+Inicialmente, observe-se que o juízo de admissibilidade do recurso especial é bifásico, ou seja, "a decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade". (AgInt no AREsp 1470001/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 20/9/2019.)
+Quanto à tempestividade do recurso, impende esclarecer que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada sob a égide do novo codex Processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Veja-se que houve a disponibilização da decisão do acórdão recorrido em 18/12/2019, considerando-se publicada em 19/12/2019 (fl. 53). Excluindo-se o dia 19/12/2019 (primeiro dia), inicia-se a contagem no dia 21/1/2020, finalizando o prazo no dia 10/2/2020.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil, terminou no dia 10/2/2020, sendo que o recurso especial foi interposto somente em 11/2/2020, fora do prazo.
+Ademais, ao contrário do alegado pela parte, em consulta ao Diário de Justiça Eletrônico (https://ww2.stj.jus.br/processo/dj/init), meio oficial pelo qual esta Corte veicula seus atos judiciais, verificou-se que não houve qualquer irregularidade na publicação do despacho para regularização da representação (DJe, n. 3043, disponibilizada em 7/12/2020 e publicada em 9/12/2020), bem como na publicação da decisão que não conheceu do agravo em recurso especial (DJe, n. 3095, disponibilizada em 24/2/2021 e publicada em 25/2/2021). Ressalte-se que em ambas as publicações constam o nome da advogada da parte requerente.
+Ante o exposto, indefiro o pedido de reconsideração.
+Publique-se. Intimem-se.
