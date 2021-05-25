@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de recurso especial interposto por DERCI APARECIDA GAIARDO,com fundamento na alínea "a" do permissivo constitucional.
+Recurso Especial interposto em:22/10/2020.
+Concluso ao gabinete em:05/05/2021.
+Ação: de produção antecipada de provas, ajuizada pelo recorrente, em face do Cristóvão Modena de França Bueno e outro, qual fora corrigido, "ex oficcio", o aludido procedimento, a fim de que passe, a ação, a tramitar pelo rito comum, como pretensão autônoma de exibição de documentos.
+Decisão interlocutória: alterou o procedimento para Ação de exibição de documentos.
+Acórdão: não conheceu do agravo de instrumento interposto pelo recorrente, nos termos da seguinte ementa:
+Agravo de Instrumento - Produção antecipada de provas - Pedido de exibição de documentos - Correção do procedimento, "ex officio" - Pleito de reforma - Impossibilidade de conhecimento - Situação que não se subsome a qualquer das hipóteses elencadas no art. 1.015, do Diploma Processual - Ausência, ademais, de urgência decorrente da inutilidade do julgamento da questão em sede de apelação, a justificar a mitigação da taxatividade, nos termos da orientação firmada pelo C. Superior Tribunal de Justiça, por ocasião do julgamento dos Recursos Especiais nº 1.696.396 e 1.704.520, submetidos à sistemática dos Recursos Repetitivos - Comando que, nesse passo, não comporta impugnação pela via eleita - Recurso não conhecido.(e-STJ, fl. 417)
+Recurso especial: alega a violação do art. 1.015, II e VI, do CPC/15. Sustenta que a decisão interlocutória objeto do recurso de agravo de instrumento se enquadra nas hipóteses acima mencionadas, referente à possibilidade de interposição de agravo de instrumento, sustentando que "no que tange à urgência da Recorrente, frisa-se, inicialmente, que o imbróglio jurídico envolvendo os jurisdicionados aqui em questão já se perdura há mais de 18 (dezoito anos). Ato contínuo, que a Recorrente simplesmente não consegue registrar a propriedade do imóvel em que reside. A premente situação da Recorrente é agravada, na medida em que o bem da vida pretendido é o seu único bem imóvel" (e-STJ fl. 47).
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15
+- Da aplicação do tema repetitivo 988
+De antemão, é preciso lembrar que a Corte Especial do Superior Tribunal de Justiça, por ocasião do julgamento dos recursos especiais representativos da controvérsia nº 1.696.396/MT e 1.704.520/MT, submetidos ao rito dos repetitivos, ambos com acórdãos publicados no DJe de 19/12/2018, pronunciou-se expressamente pelaimpossibilidade de uso da interpretação extensiva e da analogia para alargar as hipóteses de cabimento do recurso de agravo de instrumento.
+Sobre essa questão, aliás, anote-se ter havido unanimidade da Corte Especial deste Superior Tribunal de Justiça, na medida em que os e. Ministros que foram contrários à tese vencedora - taxatividade mitigada - filiaram-se ao entendimento de que o rol do art. 1.015 do CPC/15 era de taxatividade irrestrita,negando, consequentemente, a possibilidade de interpretaçãoextensiva ou de uso da analogia.
+Nesse sentir, o acórdão recorrido, ao entender pela impossibilidade de interpretação extensiva (e-STJ, fl. 33/34) para se admitir o cabimento de agravo de instrumento nos termos da nova legislação processual civil, alinhou-se ao atual entendimento desta Corte Superior.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO, com fundamento no art. 932, III e IV, "b", do CPC/15, ressalvada a possibilidade de o recorrente discutir a questão objeto da decisão interlocutória no recurso de apelação ou em suas contrarrazões.
+Previno às partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, ambos do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. DECISÃO INTERLOCUTÓRIA QUE ALTEROU O PROCEDIMENTO PARA EXIBIÇÃO DE DOCUMENTOS. RECORRIBILIDADE IMEDIATA POR AGRAVO DE INSTRUMENTO. ALEGADA VIOLAÇÃO AO ART. 1.015, III, DO CPC/2015. INTERPRETAÇÃO EXTENSIVA OU ANALOGIA. IMPOSSIBILIDADE. TAXATIVIDADE MITIGADA. MODULAÇÃO.
+1. Ação de produção antecipada de provas
+2. A Corte Especial do STJ, por ocasião do julgamento dos recursos especiais nº 1.696.396/MT e 1.704.520/MT, submetidos ao rito dos repetitivos,vedou a possibilidade de uso da interpretação extensiva e da analogia para alargar as hipóteses de cabimento do agravo de instrumento.
+3. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
