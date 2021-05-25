@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do NCPC) interposto por GUSTAVO KIST e outros em face de decisão denegatória de seguimento ao recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 712, e-STJ):
+APELAÇÃO CÍVEL. SEGUROS. PLANO DE SAÚDE.
+AÇÃO DE OBRIGAÇÃO DE FAZER. TRATAMENTO QUIMIOTERÁPICO. EXAME PET-CT ONCOLÓGICO.
+ALEGAÇÃO DE AUSÊNCIA DE DEVER COBERTURA. COBERTURA DEVIDA.
+1. Cerceamento de defesa inocorrente. Feito devidamente instruído com elementos suficientes ao alcance da controvérsia.
+2. Os contratos de planos de saúde estão submetidos ao Código de Defesa do Consumidor, nos termos do artigo 35 da Lei 9.656/98, pois envolvem típica relação de consumo. Súmula 469 do STJ. Assim, incide, na espécie, o artigo 47 do CDC, que determina a interpretação das cláusulas contratuais de maneira mais favorável ao consumidor.
+3. Reconhecido que o contrato entabulado entre as partes prevê a cobertura de tratamento da doença apresentada pela parte autora, revela - se abusiva a negativa de cobertura do tratamento indicado pela médica assistente. O plano de saúde não pode se recusar a custear procedimentos e medicamentos prescritos pelo médico, pois cabe a este definir qual é o melhor tratamento para o segurado. Precedentes desta Câmara e do STJ.
+4. O Anexo da Resolução Normativa n.
+338/2013, atualizada em 25/02/2014, da ANS, elenca o PET-SCAN Oncológico (PET/CT) como referência básica para cobertura assistencial mínima nos planos de saúde privados. Assim, mostra-se abusiva a negativa da ré em autorizar a realização do procedimento em tela, uma vez que cabe ao médico, conhecedor das condições do paciente, indicar a melhor opção para a realização do tratamento, bem como os exames necessários ao correto diagnóstico da moléstia 5. Manutenção do reconhecimento do dever da ré de fornecer o tratamento, custear os exames necessários e ressarcir os valores despendidos pelo autor em razão da negativo de cobertura.
+6. Honorários advocatícios mantidos, pois fixados em conformidade com o art. 85, §2 2 , do CPC, não merecendo elevação.
+RECURSOS DESPROVIDOS.
+Embargos de declaração opostos e rejeitados.
+Em suas razões de recurso especial (fls. 814/829, e-STJ), os recorrentes apontaram violação dos arts. 1022 do NCPC, por negativa de prestação jurisdicional no que se refere ao arbitramento dos honorários sucumbenciais; e 85, §2º, do NCPC, por entender que "os honorários advocaticios sucumbenciais, arbitrados no percentual de 15% (quinze por cento), deverão incidir sobre o proveito econômico obtido, o que no caso sub judice equivale a soma do valor atualizado do tratamento indicado pela médica assistente (R$ 79.971,32) ao valor a que a demandada foi condenada a efetuar o reembolso ao demandante (R$ 10.215,12).
+Contrarrazões às fls. 852/860, e-STJ.
+Em juízo de admissibilidade (fl. 862/881, e-STJ), negou-se seguimento ao recurso, dando ensejo na interposição do agravo.
+Contraminuta às fls. 941/947, e-STJ.
+É o relatório.
+Decido.
+1. Afasta-se, de início, a alegação de negativa de prestação jurisdicional. Não se verifica ofensa aos artigos 489 e 1022 do CPC/15 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no AREsp 1024735/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 07/08/2018, DJe 13/08/2018; AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018; AgInt no AREsp 1224697/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/05/2018, DJe 21/05/2018; AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018; AgInt nos EDcl no REsp 1647017/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/03/2018, DJe 02/04/2018.
+Alegou a recorrente que o acórdão impugnado restou omisso quanto ao honorários advocatícios.
+Todavia, conforme trecho a seguir citado, o Tribunal local consignou:
+Por derradeiro, não prospera o pleito de elevação da verba honorária fixada na sentença em favor dos patronos do autor, pois em absoluta consonância com as disposições do art. 85, §2º, do CPC e bem ajustada à natureza da demanda, trabalho desenvolvido pelos nobres patronos e tempo de tramitação da demanda (pouco mais de um ano).
+Não há que se falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Nesse sentido: REsp 1432879/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/10/2018, DJe 19/10/2018; EDcl nos EDcl no REsp 1641575/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/09/2018, DJe 01/10/2018; EDcl no AgInt no REsp 1666792/ES, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2018, DJe 22/05/2018; AgInt no AREsp 1179480/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/02/2018, DJe 06/03/2018; AgInt no REsp 1598364/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/08/2017, DJe 22/08/2017; EDcl no AgInt no AREsp 471.597/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/06/2017, DJe 20/06/2017.
+Afasta-se, portanto, a alegada violação ao artigo 1.022 do CPC/15.
+2. Melhor sorte acolhe o recorrente quanto à apontada ofensa ao art. 85, §2º, do NCPC.
+No presente caso, a demanda possui carga condenatória, pois a parte ora agravante foi condenada ao custeio do tratamento de saúde negado, com o fornecimento do medicamento Temodal, mais o reembolso dos valores expendido pelos agravado. (fls. 596, e-STJ)
+Com efeito, entende esta Corte que, em demandas como a presente, o montante dos honorários advocatícios deve ter como base de cálculo o montante econômico da da obrigação de fazer que se expressa pelo valor da cobertura indevidamente negada. Precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE MEDICAMENTO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. FIXAÇÃO COM BASE NO VALOR DA CONDENAÇÃO (CPC, ART. 85, § 2º). AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência firmada na Segunda Seção desta Corte é no sentido de que os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos limites percentuais e da ordem de gradação da base de cálculo estabelecida pelo art. 85, § 2º, do CPC/2015, inclusive nas demandas julgadas improcedentes ou extintas sem resolução do mérito, sendo subsidiária a aplicação do art. 85, § 8º, do CPC/2015, possível apenas quando ausente qualquer das hipóteses do § 2º do mesmo dispositivo (REsp 1.746.072/PR, Rel.
+p/ acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe de 29/3/2019).
+2. No caso, o êxito da demanda revelou um conteúdo condenatório mensurável, englobando o valor integral despendido pela demandada com o custeio do tratamento negado, mais o reembolso dos valores pagos pelos autores, além da verba fixada a título de dano moral, de modo que os honorários advocatícios sucumbenciais devem ser fixados sobre o valor total da condenação, consoante a regra do art. 85, § 2º, do CPC/2015.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1638593/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/08/2020, DJe 15/09/2020)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.
+RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. COBERTURA DE TRATAMENTO. FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA. APRECIAÇÃO EQUITATIVA. HIPÓTESE NÃO PREVISTA NO ART. 85, § 8º, DO NCPC. CONDENAÇÃO EM OBRIGAÇÃO DE FAZER. BASE DA SUCUMBÊNCIA O VALOR QUE CORRESPONDE AOS MEDICAMENTOS A SEREM DISPONIBILIZADOS.
+VALOR DA CAUSA QUE CORRESPONDE AO PEDIDO. ART. 85, § 2º, DO NCPC. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O entendimento firmado na Segunda Seção do STJ no que se refere à interpretação do art. 85, § 2º, é de que a regra geral é obrigatória no sentido de que os honorários advocatícios devem ser fixados sobre o valor da condenação ou do proveito econômico ou, não sendo possível identificá-lo, sobre o valor da causa, restringindo-se o comando excepcional do § 8º do art. 85, de fixação por equidade, às causas em que for inestimável ou irrisório o proveito ou, ainda, em que o valor da causa for muito baixo.
+3. Nos conflitos de direito material entre operadora de plano de saúde e seus beneficiários, acerca do alcance da cobertura de procedimentos médico- hospitalares, é inegável que a obrigação de fazer determinada em sentença não só ostenta natureza condenatória como também possui um montante econômico aferível.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no REsp 1843721/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. SAÚDE SUPLEMENTAR.
+PLANOS DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. CUMPRIMENTO DE SENTENÇA.
+VIOLAÇÃO DA COISA JULGADA. AFASTADA. DEFINIÇÃO CLARA DO ALCANCE DA SUCUMBÊNCIA SEM MODIFICAÇÃO DO TÍTULO JUDICIAL.
+FASE DE CONHECIMENTO ENCERRADA COM A PROCEDÊNCIA DOS PEDIDOS DE OBRIGAÇÃO DE FAZER E DE PAGAR QUANTIA.
+HONORÁRIOS ADVOCATÍCIOS ARBITRADOS EM 15% SOBRE O VALOR DA CONDENAÇÃO. BASE DE CÁLCULO. VALOR DOS DANOS MORAIS MAIS O MONTANTE ECONÔMICO DO PROCEDIMENTO MÉDICO-HOSPITALAR REALIZADO.
+1. Cumprimento de sentença do qual se extrai o presente recurso especial interposto em 27/6/17. Autos conclusos ao gabinete em 25/1º/18. Julgamento:
+CPC/73.
+2. O propósito recursal consiste em definir se há violação da coisa julgada, bem como qual a base de cálculo de honorários advocatícios sucumbenciais na procedência de pedidos de compensação de danos morais e de obrigação de fazer.
+3. O juízo da execução pode interpretar o título formado na fase de conhecimento, com o escopo de liquidá-lo, extraindo-se o sentido e alcance do comando sentencial mediante integração de seu dispositivo com a sua fundamentação, mas, nessa operação, nada pode acrescer ou retirar, devendo apenas aclarar o exato alcance da tutela antes prestada. Rejeitada a tese de violação da coisa julgada.
+4. O art. 20, § 3º, do CPC/73 estipula que os honorários de advogado, quando procedente o pedido da inicial, serão fixados entre 10% e 20% sobre o valor da condenação, a qual deve ser entendida como o valor do bem pretendido pelo demandante, ou seja, o montante econômico da questão litigiosa conforme o direito material. Precedente específico.
+5. Nos conflitos de direito material entre operadora de plano de saúde e seus beneficiários, acerca do alcance da cobertura de procedimentos médico- hospitalares, é inegável que a obrigação de fazer determinada em sentença não só ostenta natureza condenatória como também possui um montante econômico aferível.
+6. O título judicial que transita em julgado com a procedência dos pedidos de natureza cominatória (fornecer a cobertura pleiteada) e de pagar quantia certa (valor arbitrado na compensação dos danos morais) deve ter a sucumbência calculada sobre ambas condenações. Nessas hipóteses, o montante econômico da obrigação de fazer se expressa pelo valor da cobertura indevidamente negada.
+7. Recurso especial conhecido e parcialmente provido.
+(REsp 1738737/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/10/2019, DJe 11/10/2019)
+3. Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial, a fim de condenar a parte agravada ao pagamento dos honorários advocatícios sucumbenciais em 15% sobre o valor total da condenação, consoante a regra do art. 85, § 2º, do CPC/2015.
+Publique-se.
+Intimem-se.
