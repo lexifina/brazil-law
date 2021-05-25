@@ -1,0 +1,37 @@
+RECURSO DE AGRAVO DE INSTRUMENTO No 1025731-03.2020.8.11.0000
+Vistos etc.
+Trata-se de recurso de Agravo de Instrumento interposto por LUIZ ANDRADE JORGE em virtude da decisão proferida pelo Juiz da 3.a Vara Especializada em Direito Bancário da Comarca de Cuiabá que, nos autos da Ação de Busca e Apreensão no 1050411-26.2020.8.11.0041, deferiu a liminar de busca e apreensão do bem alienado fiduciariamente.
+Em suas razões recursais, o Recorrente alega que os requisitos para a concessão da medida liminar pretendida pelo Agravado estão ausentes, haja vista que não foi comprovada a constituição do devedor em mora nos moldes estabelecidos no § 2.o, do art. 2.o, do Decreto 911/69, bem como do Verbete Sumular n.o 72 do STJ.
+Assevera que não foi constituído em mora em razão de que a notificação extrajudicial encaminhada ao seu endereço (o mesmo constante no contrato celebrado) foi devolvida ao remetente com a seguinte informação: “número inexistente”.
+Inconformado, o Agravante alega que a decisão merece reforma, pois além de ferir a legislação vigente, gera para ele risco de dano grave e de difícil reparação, pois poderá perder o veículo alienado fiduciariamente.
+Além disso, defende que a ordem de busca e apreensão foi expedida na Comarca de Cuiabá, porém foi cumprida na Comarca de Várzea Grande.
+Sob tais argumentos, pugna pela concessão do efeito ativo, a fim de que o veículo apreendido seja restituído à sua posse. No mérito, pede o provimento do recurso para que seja cassada a decisão recorrida.
+O pedido de antecipação da tutela recursal foi indeferido (ID 70970464).
+Contrarrazões no ID 75956462.
+É o relatório. Decido.
+O Recurso comporta análise e julgamento monocrático, com fundamento no Enunciado Sumular 568 do STJ, eis que há entendimento jurisprudencial dominante quanto ao tema.
+A decisão combatida foi proferida no bojo da Ação de Busca e Apreensão no 1050411-26.2020.8.11.0041, em trâmite perante a 3a Vara Especializada em Direito Bancário da Comarca de Cuiabá, e consiste no deferimento da liminar de busca e apreensão do veículo alienado fiduciariamente.
+Ao que se extrai do caderno processual, a instituição financeira Agravada ajuizou Ação de Busca e Apreensão em face do Agravante sustentando que firmaram Contrato de Financiamento com cláusula de Alienação Fiduciária sob o n.o 6469647, para a aquisição de um veículo, marca Chevrolet, modelo Onix LT 4 portas 1.0, pelo valor de R$ 57.840,00 (cinquenta e sete mil, oitocentos e quarenta reais) a ser pago em 60 (sessenta) prestações de R$ 1.636,70 (um mil, seiscentos e trinta e seis reais e setenta centavos) e que o Requerido/Agravante está inadimplente desde a 3.a prestação vencida em 30/04/2020.
+O pedido liminar de busca e apreensão foi deferido, o que deu azo à interposição deste Agravo de Instrumento.
+Nas razões recursais, o Agravante defende que não foi constituído em mora, eis que a notificação extrajudicial não foi entregue pelos correios, pois foi devolvida sob a alegação de que “não existe o número”.
+Pondera que a constituição em mora se trata de requisito essencial para o ajuizamento da pretensão inicial e a sua ausência deve ensejar a extinção da ação, nos termos do artigo 485, inciso IV, § 3.o, do CPC.
+É cediço que o proprietário fiduciário ou credor poderá requerer contra o devedor a busca e apreensão do bem alienado fiduciariamente, a qual será concedida liminarmente, desde que comprovada a constituição do devedor em mora ou o inadimplemento da parte devedora, conforme disposto no artigo 3o do Decreto-lei no 911/69.
+Com efeito, a prova da constituição do devedor em mora é condição para a concessão liminar da busca e apreensão do bem alienado fiduciariamente, a qual, nos termos do § 2.o, do artigo 2o do Decreto-Lei no 911, dar-se-á por iniciativa do credor, mediante a notificação do devedor por carta registrada com aviso de recebimento, “não se exigindo que a assinatura constante do referido aviso seja a do próprio destinatário”.
+Sob esse enfoque, a norma vigente, em conjunto com o Verbete Sumular 72 do STJ, estabelecem que a comprovação da mora é imprescindível para o deferimento da busca e apreensão do bem. 12
+Na hipótese, apesar da notificação extrajudicial ter sido devolvida pelo motivo "número inexistente" (ID 41728845 - pág. 2), constata-se que foi encaminhada para o endereço declinado pelo próprio devedor na Cédula de Crédito Bancário 6469647, qual seja: Rua A 5, 01, CS 01, TANCREDO NEVES, CUIABÁ-MT, CEP 78053-595 (ID 41728540 – pág. 2).
+Portanto, comprovado o envio da notificação ao devedor/Agravado no endereço por ele fornecido, consoante estabelece a regra do artigo 2o, § 2.o do Decreto 911/69, não há falar em ausência de prova da constituição do devedor fiduciário em mora.
+Nesse sentido, é o entendimento do Superior Tribunal de Justiça:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. CONSTITUIÇÃO EM MORA. NOTIFICAÇÃO DO DEVEDOR. ENVIO PARA O ENDEREÇO DECLINADO NO CONTRATO. FUNDAMENTO DA DECISÃO AGRAVADA.AUSÊNCIA DE ATAQUE ESPECÍFICO.
+1. A prova do recebimento da notificação pelo devedor não é necessária para a constituição em mora, bastando que seja enviada ao endereço declinado no contrato. Precedentes.
+2. Nos termos do artigo 1.021, § 1o, do Código de Processo Civil/2015 e da Súmula 182/Superior Tribunal de Justiça, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+3. Agravo interno a que se nega provimento.
+(STJ. AgInt no AREsp 1125547/RS. Relatora Ministra Maria Isabel Gallotti. 4.a Turma. Julgado em 21/03/2019. Publicado em 28/03/2019).
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO EXTRAJUDICIAL REALIZADA NO ENDEREÇO CONTRATUAL DO DEVEDOR. MORA COMPROVADA. AGRAVO PROVIDO. 1. Conforme entendimento firmado no âmbito da Quarta Turma do STJ, "a demonstração da mora em alienação fiduciária ou leasing - para ensejar, respectivamente, o ajuizamento de ação de busca e apreensão ou de reintegração de posse - pode ser feita mediante protesto, por carta registrada expedida por intermédio do cartório de títulos ou documentos, ou por simples carta registrada com aviso de recebimento - em nenhuma hipótese, exige-se que a assinatura do aviso de recebimento seja do próprio destinatário" (REsp 1.292.182/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/09/2016, DJe de 16/11/2016). 2. Logo, o envio da notificação extrajudicial ao endereço contratual do devedor é suficiente para constituí-lo em mora decorrente do inadimplemento de contrato de alienação fiduciária. Precedentes. 3. Agravo interno provido.
+(STJ - AgInt nos EDcl no AREsp: 1472737 SC 2019/0080739-5, Relator: Ministro RAUL ARAÚJO, Data de Julgamento: 08/10/2019, T4 - QUARTA TURMA, Data de Publicação: DJe 17/10/2019)
+Ademais, o documento ID 41727838 demonstra que o contrato de financiamento foi protestado em 06/10/2020, não havendo que se falar na ausência de constituição em mora.
+No tocante à alegação de que a ordem de busca e apreensão foi expedida na Comarca de Cuiabá, porém foi cumprida na Comarca de Várzea Grande, é público e notório que se tratam de Comarcas contíguas, não havendo necessidade de expedição de Carta Precatória para o cumprimento do ato, conforme Provimento no 021/2012/CM.
+Com essas considerações, nego provimento ao recurso, nos moldes da Súmula 568 do STJ.
+Publique-se. Intime-se.
+Cuiabá, 25 de maio de 2021.
+Desa. Clarice Claudino da Silva
+Relatora
