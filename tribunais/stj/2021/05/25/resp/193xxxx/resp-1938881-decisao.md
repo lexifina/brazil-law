@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO AMAZONAScom base na alínea "a" do permissivo constitucionalcontra acórdão do Tribunal de Justiça daquela unidade da Federação assim ementado (e-STJ fl. 251):
+Apelação Cível. Ação de Cobrança. Servidor público. Contrato temporário.
+Sucessivas prorrogações. Nulidade. FGTS. Cabimento.
+1. A contratação de pessoal, mediante contrato temporário, para o exercício de funções em hipótese não prevista na legislação estadual ou em que tenha havido sucessivas prorrogações além do prazo estipulado, enseja a nulidade absoluta da avença, assegurando-se ao servidor prejudicado o direito ao recebimento do FGTS, ressalvado eventual valores atingidos pela prescrição.
+2. Recurso conhecido e provido.
+Rejeitados os aclaratórios (e-STJ fls. 283/286).
+Nas suas razões, a parte recorrente aponta violação dos arts. 337, § 5º, 505 do CPC/2015 e1º do Decreto n. 20.910/1932, sustentando existência de coisa julgada no tocante à prescrição, bem como a inaplicabilidade do prazo prescricional trintenário no caso dos autos.
+Contrarrazões às e-STJ fls. 309/311.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 324/325.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+No que toca à alegação de contrariedade dos arts. 337, § 5º, e 505 do CPC/2015 e à tese deinobservânciada coisa julgada, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Por outro lado, tais dispositivos não foramobjeto depreliminar de negativa de prestação jurisdicional - o que poderia, em tese, amparar eventual violação do art. 1.022do CPC.
+Assim, o presente apelo nobre carece, no ponto, do requisito constitucional do prequestionamento, circunstância que atrai a aplicação da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+No mais,pontue-se que a Súmula 210 desta Corte de Justiça dispõe que "a ação de cobrança das contribuições para o FGTS prescreve em 30 (trinta) anos". O mesmo prazo deve ser aplicado às hipóteses em que o trabalhador reclama a incidência de juros, uma vez que os acessórios devem seguir o principal.
+Contudo, após o reconhecimento da repercussão geral sobre o tema, o Supremo Tribunal Federal, ao julgar o ARE n. 709.212, em 13/11/2014, declarou a inconstitucionalidade das normas que previam o privilégio da prescrição trintenária (art. 23, § 5º, da Lei n. 8.036/1990 e art. 55 do Decreto n. 99.684/1990), decidindo que é de cinco anos o prazo prescricional aplicável à cobrança de valores não depositados no FGTS, tendo atribuído efeito ex nunc à decisão, a fim de não atingir os processos em curso. Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. FGTS. AGRAVO INTERNO. PRAZO PRESCRICIONAL. ENTENDIMENTO FIRMADO EM REPERCUSSÃO GERAL PELO STF. ARE N. 709.212/DF.
+I - Na origem, cuida-se de ação ajuizada em desfavor do Estado de Minas Gerais, objetivando o reconhecimento do direito ao FGTS em razão da declaração de nulidade do contrato temporário celebrado junto à administração pública. Na primeira instância, os pedidos formulados na inicial foram julgados improcedentes. No Tribunal de Justiça do Estado de Minas Gerais, a sentença foi mantida.
+II - Insurge-se a parte agravante relativamente à determinação contida na decisão agravada de observância do prazo prescricional.
+III - O STF, no julgamento do ARE n. 709.212/DF, em repercussão geral, estabeleceu que não é trintenário, e sim quinquenal, o prazo prescricional para a cobrança de valores não depositados no FGTS. Impôs, contudo, efeitos prospectivos a essa solução, definindo o seguinte: "para aqueles cujo termo inicial da prescrição ocorra após a data do presente julgamento, aplica-se, desde logo, o prazo de cinco anos. Por outro lado, para os casos em que o prazo prescricional já esteja em curso, aplica-se o que ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir desta decisão."
+IV - Agravo interno improvido. (AgInt nos EDcl no REsp 1.761.197/MG, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 14/05/2019).
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATAÇÃO TEMPORÁRIA. PRAZO EM CURSO. PRESCRIÇÃO TRINTENÁRIA. DIREITO AO DEPÓSITO DO FGTS.
+1. "Seguindo recente entendimento firmado pelo STF, no julgamento com repercussão geral do ARE nº 709212/DF, Rel. Ministro Gilmar Mendes, a prescrição da ação para cobrança do FGTS é de cinco anos. Contudo, houve modulação dos efeitos da decisão proferida no ARE nº 709212/DF, para que nas ações em curso seja aplicado o que acontecer primeiro, o prazo prescricional de trinta anos, contados do termo inicial, ou de cinco anos, a partir da referida decisão. Portanto, a prescrição intercorrente para execução do FGTS, na hipótese sub judice, finda-se em trinta anos". (REsp 1594948/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/06/2016, DJe 02/09/2016)
+2. A alegação segundo a qual o entendimento firmado no ARE 709.212/DF não tem aplicação no caso dos autos, por ser tratar de contrato nulo celebrado pela Administração Pública, não encontra abrigo na jurisprudência desta Corte.
+3. Agravo interno não provido. (AgInt no REsp 1.765.332/ES, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 01/04/2019).
+Na hipótese dos autos, o acórdão recorrido entendeu que não transcorrido o prazo de que trata o art. 7º, XXIX, da Constituição Federal, observada a modulação de efeitos aludida, aos seguintes fundamentos (e-STJ fl. 253):
+Inicialmente, destaco que o Supremo Tribunal Federal, em 16 de março de 2017, no julgamento do RE 522897, atualizou sua jurisprudência no sentido de modificar de 30 anos para 5 anos o prazo de prescrição aplicável à cobrança de valores concernentes ao FGTS.
+Confira-se:
+"Recurso extraordinário. Direito do Trabalho. Fundo de Garantia por Tempo de Serviço (FGTS). Cobrança de valores não pagos. Prazo prescricional. Prescrição quinquenal. Art. 7º, XXIX, da Constituição.Superação de entendimento anterior sobre prescrição trintenária.Inconstitucionalidade dos arts. 23, § 5º, da Lei 8.036/1990 e 55 do Regulamento do FGTS aprovado pelo Decreto 99.684/1990.Segurança jurídica. Necessidade de modulação dos efeitos da decisão.Art. 27 da Lei 9.868/1999. Declaração de inconstitucionalidade com efeitos ex nunc. Recurso extraordinário a que se nega provimento." (RE 522897, Relator(a): Min. GILMAR MENDES, Tribunal Pleno, julgado em 16/03/2017, ACÓRDÃO ELETRÔNICO DJe-217 DIVULG 25-09-2017 PUBLIC 26-09-2017)
+No julgado referido, houve a modulação dos efeitos, nos seguintes termos:
+"Assim, com base nessas premissas e tendo em vista disposto no art.27 da Lei 9.868/1999, proponho a declaração de inconstitucionalidade com efeitos ex nunc dos arts. 23, § 5º, da Lei 8.036/1990 e 55 do Decreto 99.684/1990, de modo a alcançar apenas os processos ajuizados posteriormente à presente decisão."
+No caso, a demanda foi proposta antes do julgamento do RE 522897, logo deve ser aplicado o prazo trintenal da prescrição.
+O aresto hostilizado não diverge da orientação aludida.
+Assim, aplica-se na hipótese a Súmula 83 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
