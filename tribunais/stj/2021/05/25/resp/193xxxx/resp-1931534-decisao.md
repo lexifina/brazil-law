@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por Ubiratan Cantuares Aguiar, com fundamento no art. 105, III, a e c, da Constituição Federal, contra decisão do Tribunal de Justiça do Estado de Tocantins assim ementada (e-STJ, fl. 164):
+EMBARGOS À EXECUÇÃO - DEMANDA EXECUTIVA FUNDADA EM CONTRATO PARTICULAR - LOCAÇÃO DE BEM A COMISSÃO MUNICIPAL DE PARTIDO POLÍTICO - AUSÊNCIA DO DIRETÓRIO REGIONAL NO CONTRATO - ILEGITIMIDADE PASSIVA. Os títulos executivos devem ser interpretados restritiva e literalmente pela escritura que neles contém, incluindo sujeitos que o protagonizam. Assim, não constando o executado do contrato subscrito por duas testemunhas, que aparelha a ação de execução, torna-se imperioso o reconhecimento de sua ilegitimidade passiva ad causam. Apelo conhecido e de ofício, reconhecida a ilegitimidade passiva do embargante na ação executiva.
+Nas razões do recurso especial (e-STJ, fls. 175-183), o recorrente aponta, além de divergência jurisprudencial, violação dos arts. 93, IX, da Constituição Federal; 1º e 489 do Código de Processo Civil de 2015; 17 da Lei 9.504/1997; e 28, § 4º, da Lei 9.096/1995.
+Afirma que as decisões de primeira e segunda instâncias fogem ao dever constitucional de fundamentar suas decisões e de acordo com a Constituição Federal.
+Não apresentadas as contrarrazões (e-STJ, fl. 200), o apelo extremo foi admitido na origem (e-STJ, fls. 206-207), ascendendo os autos a esta Corte de Justiça.
+Brevemente relatado, decido.
+De início, deve-se ressaltar que o recurso especial não é a via própria para o debate de suposta violação de dispositivos constitucionais, porquanto a análise da matéria não é de competência desta Corte Superior, mas do Supremo Tribunal Federal, por expressa determinação da Carta Magna.
+Ademais, "devidamente analisadas e discutidas as questões de mérito, e suficientemente fundamentado o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação dos arts. 489, II, e 1.022 do CPC/15" (REsp 1.736.593/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 11/02/2020, DJe 13/02/2020).
+Relativamente à suposta violação dos arts. 17 da Lei 9.504/1997 e 28, § 4º, da Lei 9.096/1995, apesar de ter o recorrente indicado, nas razões recursais, os dispositivos que entende violados, não demonstrou, clara e precisamente, no que consistiu a alegada negativa de vigência à lei, ou mesmo qual a sua correta aplicação, o que impossibilita a exata compreensão da controvérsia, atraindo a aplicação, à hipótese, do enunciado 284 da Súmula do Supremo Tribunal Federal, por aplicação analógica.
+Outrossim, observa-se que a temática inserta nos arts. 17 da Lei 9.504/1997 e 28, § 4º, da Lei 9.096/1995 não foi objeto de deliberação pelo Colegiado estadual, tampouco foram opostos embargos de declaração a fim de suscitar sua discussão, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento (Súmulas 282 e 356/STF).
+Ao ensejo:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO INCAPAZ DE ALTERAR O JULGADO. BRASIL TELECOM S.A. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E O ENTENDIMENTO DESTA CORTE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS Nº 211/STJ E Nº 282/STF.
+1. É inadmissível o inconformismo quando o acórdão recorrido está em consonância com o entendimento do Superior Tribunal de Justiça.
+2. Considera-se deficiente de fundamentação o recurso especial que, apesar de apontar o preceito legal tido como violado, não demonstra, de forma clara e precisa, de que modo o acórdão recorrido o teria contrariado, ou apresenta argumentação dissociada da sua literalidade, circunstância que atrai, por analogia, a Súmula nº 284/STF.
+3. A ausência de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede o conhecimento do recurso especial (Súmulas nº 211/STJ e nº 282/STF).
+4. Agravo regimental não provido.
+(AgRg no AREsp 558.627/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/03/2016, DJe 28/03/2016)
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. IMPOSSIBILIDADE DE ANÁLISE DE MATÉRIA CONSTITUCIONAL POR MEIO DE RECURSO ESPECIAL.ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE DEMONSTRAÇÃO DE VIOLAÇÃO DOS DISPOSITIVOS LEGAIS.FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
