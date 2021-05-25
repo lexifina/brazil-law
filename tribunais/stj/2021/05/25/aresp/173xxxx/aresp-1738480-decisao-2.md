@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que, sob argumento de falta de prequestionamento e de incidência da Súmula 7/STJ, negou seguimento ao recurso especial.
+A decisão colegiada recorrida apresenta a seguinte ementa (e-STJ fl. 377):
+APELAÇÃO. Tutela cautelar antecedente. Demanda que busca manter único beneficiário no plano de saúde que fora rescindido por motivos que não interessam a este pedido. Ilegitimidade passiva não reconhecida. Rescisão do contrato coletivo unilateralmente pela operadora. Possibilidade. Aplicação do principio da boa-fé objetiva e demais deveres anexos à função social do contrato. Manutenção do contrato mantida, porém, na modalidade individual. Sentença irretocada. Recursos a que se negam provimento.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 439/441).
+Sobreveio o recurso especial (e-STJ fls. 446/461), interposto com fundamento no art. 105, III, "a", da CF, arecorrente alegou ofensa ao art. 1.022 do CPC/2015, argumentando que o acórdão impugnado teria sido omissoem relação à suscitada afronta aos arts. 17, 82, § 2º, 85, 86, 87, § 1º, e 485, VI, do CPC/2015, pois, tendo sido imposta apenas à operadora do plano de saúde (Bradesco Saúde S.A.) o ônus de ofertar convênio individual, em consequência da extinção de anterior plano coletivo, estaria a ora recorrente, demandada na condição de mera administradora de benefícios, isenta de responsabilidade e, portanto, deveria ser julgada improcedente o pedido ajuizado em seu desfavor.Nesse sentido, postula a anulação do acórdão recorrido, ante sua omissão.
+Alegou ainda afronta aos referidos dispositivos, sob argumento de que o Tribunal de origem deveria expressamente afirmar a improcedência do pedido inicial em seu desfavor, com a inversão dos ônus de sucumbência.
+No agravo (e-STJ fls. 425/435), afirma a presença dos requisitos de admissibilidade do recurso especial.
+É o relatório.
+Decido.
+Da análise dos autos, verifica-se que, de fato, ocorreu afronta ao art. 1.022 do CPC/2015.
+O Tribunal de origem, ao reconhecer a ilegalidade da negativa de renovação contratual por parte da Bradesco Saúde S.A., tratando-se de plano de saúde coletivo, aduziu que tal conduta exigiria a oferta à beneficiária de migração para plano individual ou familiar, por aplicação do art. 13 de Planos de Saúde (e-STJ fls. 398/401).
+Ocorre que, em seus aclaratórios (e-STJ fls. 416/425), a parte ré, ora recorrente, expressamente alegou que o acórdão estava obscuroquanto à responsabilidade da administradora de benefício perante a parte autora, visto que apenas a operadora do antigo convênio coletivo estava sendo obrigada a ofertar plano individual(e-STJ fl. 438).
+No entanto, o Tribunala quonão examinou os referidos dispositivos, mesmo diante da oposição dos embargos, os quais foram rejeitados, sob alegação de ausência dos vícios previstos no art. 1.022 do CPC/2015(e-STJ fls. 423/424).
+Com efeito, o Tribunal de origemreconheceu apenas que a operadora do plano de saúde coletivo poderia rescindir unilateralmente o contrato, desde que ofertasse ao beneficiário um plano coletivo (e-STJ fls. 376/383).
+Assim, o acórdão recorrido apresenta omissão, na medida em que o exame dos referidosdispositivos poderia, em tese, justificar a reforma da decisão, no interesse da parte ora recorrente.
+Ante o vício da decisão recorrida e nos termos do pedido constante do recurso especial,impõe-se oprovimento parcial do recurso, a fim de anular o acórdão recorrido,para que o Tribunala quose pronuncie sobre a questão, sanando, assim, os vícios apontados.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Embargos de declaração acolhido, com efeitos infringentes, para conhecer do agravo para dar parcial provimento ao recurso especial, no sentido de anular o julgamento dos embargos declaratórios realizados pelo Tribunal de origem e determinar o retorno dos autos para novo julgamento dos declaratórios, com o devido enfrentamento da questão omissa.
+(EDcl no AREsp 1.600.412/SP, RelatorMinistro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 18/8/2020, DJe 27/8/2020.)
+Ainda nesse sentido, as seguintes decisões monocráticas: AREsp 1.731.840/DF, Relatora Ministra MARIA ISABEL GALLOTTI, publicada em 8/3/2021, AREsp 1.653.325/SP, Relator Ministro RAUL ARAÚJO, publicada em 2/3/2021 e AREsp n. 1.761.972/RS, Relator Ministro LUIS FELIPE SALOMÃO, publicada em 18/2/2021.
+Diante do exposto, CONHEÇO EM PARTEe DOU PROVIMENTO PARCIAL ao recurso, para anular o acórdão recorrido e determinar o retorno dos autos ao Tribunal de origem, a fim de que sejaanalisada aquestão suscitadanosembargos de declaração da parte ora recorrente relacionada à sua sucumbência. Prejudicadas as demais alegações recursais.
+Publique-se. Intimem-se.
