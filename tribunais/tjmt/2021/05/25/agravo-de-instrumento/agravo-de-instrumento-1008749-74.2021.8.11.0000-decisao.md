@@ -1,0 +1,38 @@
+SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO — AGRAVO DE INSTRUMENTO No 1008749-74.2021.8.11.0000 — CLASSE 202 — CNJ — CÍVEL — COMARCA DE RONDONÓPOLIS
+AGRAVANTES: ADM AGRI-INDUSTRIES COMPANY, ADM HOLDINGS LLC, BERNARD ARTHUR HENNIES, LUIZ CARLOS GONÇALVES LOPES, MARCELO ANTÔNIO GASPAROTTO GRIMALDI, MATTHEW JAMES JANSEN e NELSON GONZALES FILHO.
+AGRAVADO: ESTADO DE MATO GROSSO.
+Vistos etc.
+Agravo de instrumento, com pedido de efeito suspensivo, interposto por Adm Agri-Industries Company, Adm Holdings LLC, Bernard Arthur Hennies, Luiz Carlos Gonçalves Lopes, Marcelo Antônio Gasparotto Grimaldi, Matthew James Jansen e Nelson Gonzales Filho contra a decisão que, em ação de execução fiscal proposta pelo Estado de Mato Grosso contra si e Adm do Brasil Ltda.
+Asseguram que não estão legitimados a figurar no polo passivo da execução fiscal, pois “as empresas sócias e respectivos diretores estatutários da empresa Adm do Brasil Ltda. nunca integraram o polo passivo do processo administrativo e, portanto, nunca foram consideradas co-devedores ou corresponsáveis, sendo que esta situação foi levada à efeito tão-somente no momento da inscrição do débito em dívida ativa.”.
+Asseveram que “o principal argumento utilizado pelo MM. Juiz a quo para rejeitar a exceção de pré-executividade e indeferir a exclusão das empresas sócias e diretores teve por fundamento a inadequação da via eleita, pois seria necessária a dilação probatória”, todavia, “a questão central desta discussão e objeto de inconformismo dos ora agravantes não diz respeito à apresentação de provas nos autos para demonstrar que de fato não incorreram em atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos nos termos do art. 135, III, do CTN.”.
+Afiançam que “a questão da exclusão das empresas sócias e referidos diretores estatutários não depende da prova reputada pelo D. Juízo singular conforme exarado na r. decisão agravada, mas sim, de um caso inequívoco de clara supressão da instância administrativa em relação as empresas sócias e diretores com inclusão sumária e arbitrária na certidão de dívida ativa.”.
+Requer o provimento do recurso para “determinar a suspensão da presente execução fiscal com relação à elas, bem como suspender o transcurso do prazo para oposição dos embargos à execução fiscal”.
+É o relatório.
+Eis, no ponto de interesse, o teor da decisão:
+[...] a exceção de pré-executividade somente é cabível quando se alegam questões ou vícios processuais que podem ser comprovados de plano, como é o caso dos pressupostos processuais e/ou condições da ação que, para serem provados, requerem, no máximo, uma análise documental que, por sua vez, devem ser produzidos no momento da arguição.
+Cumpre ressaltar que a CDA goza de presunção de legitimidade e, portanto, até prova em contrário, aqueles cujos nomes constem no título são considerados devedores responsáveis pelo tributo.
+De outro giro, os excipientes alegam que não devem ser responsabilizados pelos tributos objetos da presente execução, pois necessário demonstrar e comprovar a infringência a lei, contrato ou estatuto social por parte daquele que exerceu a função de administração ou gerência, conforme elencado no art. 135 do CTN, bem como a condição de sócio cotista deve afastar a sua eventual responsabilidade no tocante à presente execução.
+Contudo, considerando que se trata de sócio/representante da empresa executada, é de lhe conferir legitimidade passiva, nos moldes do artigo 779, VI, do CPC, autorizando-se, em consequência, a sua citação.
+Logo, se pretende atacar os elementos da CDA, o entendimento jurisprudencial é de que a discussão a respeito da ilegitimidade passiva do sócio excede os pressupostos da exceção de pré-executividade se para isso demanda dilação probatória, razão pela qual a alegação deveria ser promovida no âmbito dos embargos à execução.
+[...]
+Não obstante a isto, segundo o que ficou consignado pelo Superior Tribunal de Justiça, se o presente executivo fora desde o exórdio direcionado ao executado é ônus deste a comprovação de que não praticou os atos previstos no artigo 135 do CTN, sendo necessário, para tanto, amplo contraditório, o que não se faz possível por meio do instrumento vindicado.
+[...]
+Logo, a tese de ilegitimidade não merece ser analisada nesta via, uma vez que desde o início compõem o polo passivo do executivo, razão pela qual não há qualquer ilegalidade em suas inclusões.
+No que se refere ao pedido de intimação dos executados para que tomem ciência da garantia ofertada a fim de oporem embargos à execução, tenho que o pedido é manifestamente incabível, pois quando da apresentação da exceção de pré-executividade em 30/04/2018 já constava nos autos a garantia ofertada pela também executada Adm do Brasil Ltda (ID 11425231), juntada nos autos no dia 22/01/2018.
+Ou seja, quando da apresentação da exceção de pré-executividade os executados tomaram ciência de que o débito já estava garantido, tanto que em sua exceção citou expressamente a garantia ofertada pela Adm do Brasil Ltda.
+Desta feita, não há que se falar em abertura do prazo para oposição de embargos à execução, o qual se iniciou com a ciência das excipientes da garantia do débito exequendo.
+Ante o exposto, rejeito os pedidos da exceção de pré-executividade apresentada.
+Tendo em vista que não fora concedido efeito suspensivo aos embargos em apenso, o que foi mantido sumariamente pelo Egrégio Tribunal de Justiça, intime-se a parte exequente para que, no prazo de 15 (quinze) dias, requeira o que entender de direito.
+Intime-se.
+Cumpra-se, expedindo o necessário. [...]. (Id. 87803987, fls. 2/5).
+No caso, presente o nome dos sócios na certidão de dívida ativa, cabem a eles o ônus de provar a ausência dos requisitos do artigo 135 do Código Tributário Nacional, por intermédio de embargos à execução.
+[...] A Primeira Seção desta Corte, no julgamento do REsp. 1.104.900/ES, Rel. Min. Denise Arruda, DJe 1o.4.2009, representativo da controvérsia, fixou a orientação de que se a execução é ajuizada apenas contra a pessoa jurídica, mas o nome do sócio consta da CDA, a ele incumbe o ônus da prova de que não ocorreu nenhuma das circunstâncias previstas no art. 135 do CTN. Da mesma forma, também se consolidou, no julgamento do REsp. 1.110.925/SP, Rel. Min. Teori Albino Zavascki, DJe 4.5.2009, submetido ao rito dos recursos repetitivos, o entendimento de que, dada a presunção de legitimidade assegurada à CDA, impõe-se ao executado que figura no título executivo o ônus de demonstrar a inexistência de sua responsabilidade tributária. [...]. (STJ, Primeira Turma, AgRg no AREsp 249726/PB, relator Ministro Napoleão Nunes Maia Filho, publicado no Diário da Justiça Eletrônico em 22 de abril de 2019).
+Nada obstante, as questões suscitadas pelos agravantes, a princípio, demandam dilação probatória. Logo, de fato, a exceção de pré-executividade não seria o meio processual adequado para a pretensão almejada.
+Por sua vez, o verbete no 393 da Súmula da Jurisprudência Predominante no Superior Tribunal de Justiça dispõe que: “A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória”.
+Por outro lado, a decisão agravada é insuscetível de causar dano grave ou de difícil reparação ao agravante até o julgamento do recurso pelo Colegiado, pelo que recebo e determino o processamento do recurso, sem atribuir a ele efeito suspensivo.
+Intimem-se o agravado para que responda (Código de Processo Civil, artigo 1.019, II).
+Intimem-se.
+Às providências.
+Cuiabá, 25 de maio de 2021.
+Des. Luiz Carlos da Costa
+Relator
