@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. RECONSIDERAÇÃO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. PENA DE PERDA DO CARGO PÚBLICO. FUNDAMENTAÇÃO IDÔNEA. RECURSO PROVIDO PARA CONHECER DO AGRAVO, MAS PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Devidamente impugnados os fundamentos da decisão de inadmissão do recurso especial, deve ser reconsiderada a decisão para conhecer do agravo.
+2. A substituição da pena privativa de liberdade por penas restritivas de direitos, por si só, não afasta o efeito previsto no art. 92 do Código Penal (perda do cargo público), ainda que exija fundamentação idônea.
+3. A incompatibilidade entre a permanência no cargo público de agente penitenciário, em decorrência de condenação por tráfico de drogas no interior do presídio, justifica a imposição da pena acessória.
+4. Agravo regimental provido para conhecer do agravo, mas negar provimento ao recurso especial.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, dar provimento ao agravo regimental para conhecer do agravo, mas negar provimento ao recurso especial nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de agravo regimental interposto contra decisão que não conheceu do agravo por ausência de impugnação quanto à incidência da Súmula 83 do STJ.
+Sustenta o agravante que impugnou devidamente os fundamentos da decisão agravada. Alega que "defesa a decretação da perda do cargo público quando a pena privativa de liberdade, mesmo superior a 1 (um) ano, seja substituída por restritivas de direito" (fl. 676). Manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Devidamente impugnados os fundamentos da decisão de inadmissão do recurso especial, é de ser reconsiderada a decisão para conhecer do agravo e prosseguir-se no julgamento do recurso especial.
+Nas razões do recurso especial, sustenta ser defesa a decretação da perda do cargo público quando a pena privativa de liberdade, mesmo superior a 1 ano, seja substituída por penas restritivas de direitos.
+O agravante foi denunciado, como incursos no art. 33, c/c 40, III, da Lei 11.343/06, porque, no dia 13/1/2014, no presídio local de regime fechado, o corréu, detento, trazia consigo 135 g de maconha que lhe foram entregues pelo ora agravante, agente penitenciário, para a droga chegasse até outro detento (fl. 735).
+Sobreveio condenação do agravante à pena de 4 anos de reclusão, em regime aberto, e 400 dias-multa, sendo a pena privativa de liberdade substituída por penas restritiva de direitos, sendo a perda do cargo público foi fundamentada nos seguintes termos (fl. 352):
+Quanto a perda do cargo, o Código Penal estabelece no artigo 92, I, "a" que perderá o cargo público o servidor que tiver contra si aplicada pena privativa de liberdade por tempo igual ou superior a um ano, nos crimes praticados com violação de dever para com a Administração Pública. Insofismável que um dos deveres do servidor público é o de agir com retidão e honestidade, sendo inconcebível manter no cargo o servidor público condenado por tráfico de drogas no interior do presídio. Nesse sentido o egrégio STJ no Agravo regimental em recurso especial 1195833/MS, que pontuou que: "(..) 3. A perda do cargo público, com fundamento no art. 92, I, a, do Código Penal, se aplica a todos os delitos praticados com abuso de poder ou violação de dever para com a Administração Pública, não se restringindo aos chamados crimes funcionais (arts. 312 a 327 do CP).
+O acórdão de apelação manteve a decretação da perda do cargo público pelos seguintes fundamentos:
+ ..  Com efeito, nos crimes praticados com violação de dever para com a Administração Pública é especificamente possível, mediante fundamentação própria, decretar-se a perda do cargo público quando a pena privativa de liberdade aplicada for igual ou superior a 1 ano, conforme dita o art. 92, inc. I, a, e par.
+Único, do Código Penal:
+ ..  Ora, o réu é servidor público, responsável pela segurança do presídio, e cometeu o crime de tráfico dentro do estabelecimento penal, mediante afronta aos mais comezinhos princípios que regem a Administração Pública.
+Diante da gravidade concreta, da incompatibilidade com a função pública e do manifesto risco de reiteração, tem-se por inconcebível ao Estado tolerar em seus quadros indivíduo que se vale da condição de agente público para cometer delitos.
+ ..  Nestes termos, imperativa a decretação da perda do cargo publico.
+A orientação adotada corrobora o entendimento de que a substituição da pena privativa de liberdade por penas restritivas de direitos, por si só, não obsta a perda de cargo público, nos termos do art. 92 do CP, que exige fundamentação idônea. Nesse sentido:
+PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL PARCIALMENTE PROVIDO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. NÃO APLICAÇÃO DO ART. 92, I, A, DO CP. NECESSIDADE DE FUNDAMENTAÇÃO IDÔNEA. RECURSO DESPROVIDO 1. A substituição da pena privativa de liberdade por restritiva de direitos, por si só, não tem o condão de afastar o efeito previsto no art. 92 do Código Penal, sendo necessária fundamentação idônea.
+2. A fundamentação das decisões judiciais é garantia processual inerente ao exercício do contraditório.
+3. Agravo desprovido (AgRg no REsp 1874074/GO, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 20/10/2020, DJe 22/10/2020).
+Assim, apontada a incompatibilidade entre a permanência no cargo público de agente penitenciário, em decorrência de condenação por tráfico de drogas no interior do presídio, justificada está a pena acessória.
+Incide, assim, a Súmula 83 do STJ, segundo a qual não se conhece do recurso especial quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida.
+Ante o exposto, dou provimento ao recurso para conhecer do agravo, mas para negar provimento ao recurso especial.
+É o voto.
