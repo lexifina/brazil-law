@@ -1,0 +1,28 @@
+DECISÃO
+ROBERTO DE SOUZA BRITTOalega sofrer constrangimento ilegal diante de acórdão proferido peloTribunal de Justiça do Estado do Rio de Janeirono Agravo Regimental no HCn. 0038691-83.2020.8.19.0000.
+Neste recurso, busca a defesa a revogação da custódia preventiva do acusado, pelo excesso de prazo para julgamento do recurso em sentido estrito. Pede também a concessão de prisão domiciliar, ao fundamento de que "o estado de saúde do recorrente é de extrema fragilidade, uma vez que se enquadra nas condições previstas na Recomendação nº 62/2020,  ..  uma vez que é hipertenso, possui problemas renais e há tumor a ser investigado por um urologista através de uma série de exames  .. " (fl. 54).
+Alega ainda descumprimento ao art. 316, parágrafo único, do CPP, ao fundamento de "ausência da revisão da decisão a cada 90 (noventa) dias" (fl. 57).
+Em consulta à página eletrônica da Corte de origem, o gabinete verificou que foijulgado o recurso em sentido estrito em 20/5/2021, dado que evidencia a prejudicialidade do alegado excesso de prazo para exame da irresignação defensiva.
+Quanto às demais questões, o aresto combatido assim decidiu (fls. 38-40, grifei):
+ ..
+A SEAP adotou todas as providências necessárias à prevenção da contaminação pelo COVID-19, disponibilizando aos internos atendimento médico e fornecimento de medicamentos aptos a propiciar-lhes o devido atendimento, em caso de contaminação, de baixo risco, mormente agora em que a pandemia registra incidência cada vez menor de casos.
+ ..
+O exame dos autos evidencia a ausência da alegada ilegalidade na custódia do paciente.
+Ressalte-se que, no caso em tela, o agravante foi pronunciado pela prática de crime de homicídio duplamente qualificado pelo perigo comum e recurso que impossibilitou a defesa da vítima, bem como pela prática de crimes conexos (ocultação de cadáver e associação criminosa).
+Sendo a prisão preventiva mantida, quando da decisão de pronúncia, devidamente fundamentada sua necessidade, não se mostrando suficiente a substituição da custódia por cautelares diversas.
+ ..
+Dessa forma, não há que se falar em ausência da revisão da decisão de manutenção da prisão cautelar a cada 90 (noventa) dias, uma vez que o parágrafo único do artigo 316 do CPP diz que há necessidade da revisão da prisão, quando da sua revogação, surgirem novos motivos para nova decretação da prisão preventiva.
+No caso de revogação da prisão e nova decretação é preciso revisar a necessidade da manutenção da prisão, para verificar se esses novos motivos ainda subsistem, diante da excepcionalidade da medida, então, aplica-se o parágrafo único do artigo 316 do CPP.
+ ..
+Por fim, no que tange à pandemia de COVID-19, as autoridades competentes estão avaliando diariamente a situação e adotando as providências necessárias.
+O Juízo de primeiro grau prestou, em 5/11/2020, os seguintes esclarecimentos (fl. 173, destaquei):
+Em que pese o alegado pela defesa do paciente ao impetrar o presente writ, este Juízo, no último dia 13 de julho, atendendo ao disposto no artigo 316, parágrafo único, do CPP, proferiu decisão (cópia em anexo) ratificando a prisão preventiva decretada em desfavor do paciente e dos demais pronunciados.
+Finalmente, em 29/7, os autos puderam ser remetidos à 2ªInstância.
+Todavia, de lá retornaram no dia 1º de setembro para cumprimento de diligência consistente na apresentação de contrarrazões pela defesa do ora paciente ao recurso interposto pelo órgão ministerial, o que foi atendido em 16/10.
+Cumpre, por último, informar a V. Ex.ª que, nesta data, tornei a reanalisar a prisão do paciente de demais corréus, o que fiz para manter a ordem restritiva, conforme decisão com cópia em anexo, ocasião em que determinei o retorno dos autos à Quarta Câmara Criminal deste TJERJ para o prosseguimento no julgamento dos recursos em sentido estrito interpostos pelas partes.
+Conforme entendimento já esposado por esteSuperiorTribunalacerca do disposto no art. 316, parágrafo único, do CPP, "eventual constrangimento ilegal porexcesso deprazo nãoresulta de um critério aritmético, mas de uma aferição realizadapelojulgador, à luz dos princípios da razoabilidade e proporcionalidade,levando em conta as peculiaridades do caso concreto,de modo a evitarretardo abusivo e injustificado na prestaçãojurisdicional" (HCn.551.171/SP, Rel. Ministro Reynaldo Soares daFonseca, 5ª T., DJe 26/3/2020, grifei).
+Na hipótese, observo que foram houve reexame do decreto preventivo do recorrente e dos coacusados, ainda que em prazo um pouco superior aos90 diasprevistos no dispositivo mencionado (em 13/7/2020 e 5/11/2020, de acordo com os esclarecimentos do Juízo singular).
+Ademais, os autos foram encaminhados à segunda instância após a referida data, de modo que não mais se pode imputar à Magistrada de primeiro grau eventual demora na revisão da situação prisional dos réus, tampoucoexigir, de acordo com precedente deste órgão colegiado, que aqueleTribunal proceda ao reexame dos motivos ensejadores da prisão no períodoprevisto no texto legal já mencionado (HC n. 589.544/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 22/9/2020).
+Em relação à concessão da prisão domiciliar, o Tribunala quonada disse, de modo específico, sobre o quadro de saúde do ora postulante, em especial a respeito de estar inserido no grupo de risco da Covid-19. Além disso, o acórdão é firme ao asseverar que a administração penitenciária e os órgãos responsáveis pelo acompanhamento adotaram as medidas cabíveis para evitar a propagação do vírus no interior dos estabelecimentos prisionais. Para alterar essa conclusão, seria necessária ampla dilação probatória, incompatível com a via estreita do habeas corpus.
+À vista do exposto,conheço em parte do recurso e nego-lhe provimento.
+Publique-se e intimem-se.
