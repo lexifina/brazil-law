@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto pela ASSOCIAÇÃO CONGREGAÇÃO DE SANTA CATARINAcontra decisão que inadmitiu o recurso especial em virtude da ausência de cotejo analítico e por incidência da Súmula n. 7/STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 667):
+DIREITO E PROCESSO CIVIL. APELAÇÃO. AÇÃO DE COBRANÇA. DENUNCIAÇÃO ÀLIDE. CAARJ. INTERNAÇÃO HOSPITALAR. PRESCRIÇÃO MÉDICA DE FÁRMACOIMPORTADO. REGISTRO NA ANVISA. AUTORIZAÇÃO NEGADA. RECURSOREPETITIVO (TEMA 990). FORNECIMENTO OBRIGATÓRIO. TERMO DERESPONSABILIDADE. HONORÁRIOS ADVOCATÍCIOS. CPC/73.
+1. Reforma-se a sentença que, em maio/2015, julgou procedente o pedido da Casa de Saúde,condenando os réus ao pagamento de fármaco importado (XIGRIS) utilizado durante internaçãohospitalar, e não coberto pela operadora de saúde e procedente o pedido dos réus/denunciantes emface da CAARJ, condenando a denunciada a ressarcir àqueles o valor do medicamento.
+2. E improcedente a ação de cobrança proposta cm face do espólio e da ex-companheira, quedenunciaram a CAARJ à lide. O paciente faleceu poucos dias após sua internação na Casa deSaúde, que quer ressarcir-se dos custos com o uso do XIGRIS, apresentando Termo deResponsabilidade assinado pela ex-companheira durante a hospitalização, sem saber da negativade autorização do plano de assistência médica, por ser o fármaco importado, registrado naANVISA, não nacionalizado.
+3. Afasta-se, na demanda originária, a responsabilidade dos réus, à luz da tese firmada pelo STJ,nos REsp"s 1.712.163 e 1.726.563, submetidos ao rito dos repetitivos (Tema 990), reconhecendo aobrigatoriedade de as operadoras de plano de saúde fornecerem medicamento registrado pelaANVISA. Conquanto a responsabilidade pelo pagamento seja exclusivamente da CAARJ, em faceda previsão, à cláusula nona do contrato, da cobertura integral em casos de internação hospitalar, ohospital somente pode cobrar do particular-consumidor por medicamento não coberto poroperadora de saúde se lhe prestar adequada e tempestiva informação, ausente vício deconsentimento. Precedente do STJ.
+4. À falta de ciência da ex-companheira acerca da negativa de cobertura do medicamento antesdas cobranças extrajudiciais iniciadas pela Casa de Saúde após mais de um mês do óbito, o"Termo de Responsabilidade" genérico, responsabilizando-a pelo pagamento de todas e quaisquerdespesas porventura não quitadas pelo convênio ou seguradora, não supre a exigência de adequadainformação, violando o art. 6º, do Código de Defesa do Consumidor, aplicável mutatis mutandis àhipótese.
+5. Descabe examinar, nas circunstâncias, a denunciação à lide, demanda regressiva prejudicada pelo resultado da originária (ação de cobrança), à luz do parágrafo único, do art. 129, doCPC/2015, que reproduziu a inteligência do art. 76, do CPC/73.
+6. Honorários advocatícios fixados em 10% do valor da causa (cerca de R$ 28 mil), art. 20, §4º, doCPC/73, que devem ser pagos pela Casa de Saúde, sucumbente na ação de cobrança, cabendo àCAARJ arcar com idêntico percentual relativamente à denunciação à lide.
+7. Apelação do 2º e 3º apelantes provida para julgar improcedente o pedido formulado na açãode cobrança, e, em conseqüência, extinguir, sem resolução do mérito, por falta de interesse de agir,o pedido da denunciação à lide, julgando prejudicada a apelação da CAARJ.
+Os embargos de declaração foram rejeitados (e-STJ fls. 681/694).
+No recurso especial (e-STJ fls. 696/701), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente suscitou,além de divergência jurisprudencial, afronta aoart. 1.014 do CPC/2015, argumentando, em síntese, que teria havido indevida inovação recursal na apelação quanto às alegações de "víciode consentimento na assinatura do termo de responsabilidade financeira e prática abusivaexigindo do consumidor vantagem excessiva e violação a Resolução Normativa 44 da ANS" (e-STJ fl. 698).
+No agravo (e-STJ fls. 765/769), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Inicialmente,o Tribunala quoentendeu que, no caso, não seria inviável o pleito do hospital de reembolso ao espólio do paciente pelo uso de medicamento importadonão registrado na ANVISA, uma vez que a viúva do beneficiário teriaassinado termo de responsabilidade sem a ciência da negativa de autorização do plano de saúde(e-STJ fls. 654/667).
+Constata-se que não foi examinada a alegação deindevida inovação recursal, apta a justificar eventual violação do art. 1.014 do CPC/2015. No acórdão recorrido, ainda que após o julgamento dos aclaratórios, não houve manifestação quantoàreferida tese.
+Inexistindo, no presente recurso, tese de afronta ao art. 1.022 do CPC/2015, não se pode falar em erro, omissão, contradição ou obscuridade do acórdão recorrido. Portanto, o recurso especial não é admissível, nos termos da Súmula n. 211 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art.
+1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.098.633/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/9/2017, DJe 15/9/2017.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCESSÃO ESPECIAL DE USO PARA FINS DE MORADIA. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC/73.
+AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO DE LEI INVOCADO. NÃO VERIFICAÇÃO POR ESTA CORTE DE ERRO, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO ACÓRDÃO VERGASTADO. INCIDÊNCIA DA SÚMULA 211/STJ. OPOSIÇÃO AO EXERCÍCIO DA POSSE CONSTATADA PELO TRIBUNAL DE ORIGEM. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+(..)
+3. Quando a questão levantada não foi discutida pelo Tribunal de Origem e não foi verificada por esta Corte existência de erro, omissão, contradição ou obscuridade não cabe prequestionamento da matéria, nos termos do art. 1.025 do CPC, incidindo na espécie o enunciado da Súmula 211/STJ.
+(..)
+Agravo interno improvido.
+(AgInt no AREsp 844.804/MG, Relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 7/4/2016, DJe 15/4/2016.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. PREVIDÊNCIA PRIVADA. ART. 884 DO CÓDIGO CIVIL. VIOLAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+2. Se a questão levantada não foi discutida pelo tribunal de origem e não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula nº 211/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 562.067/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 1º/8/2017.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, §11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
