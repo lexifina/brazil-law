@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por BANCO SISTEMA S.A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Agravo de instrumento - Execução de título extrajudicial - Extinção do processo executivo em razão da decretação da falência da executada - Admissibilidade - Hipótese em que o crédito aqui versado deverá ser habilitado na falência da devedora para cobrança em face desta, configurando a perda do interesse processual para o prosseguimento da execução contra referida executada - Precedentes deste Tribunal e do E. Superior Tribunal de Justiça - Recurso improvido.
+Quanto à controvérsia, alega violação do art. 6º da Lei n. 11.101/05, relativo à suspensão da ação de execução em virtude da superveniente falência da parte devedora, ora recorrida, trazendo o seguinte argumento:
+4. O recurso especial deverá ser provido para reformar o v. acórdão vergastado por vulneração da Lei Federal (art. 6º da Lei 11.101/05 que repetiu o art. 24 do Decreto-Lei 7.661/45) que estabelece a suspensão das execuções individuais que na hipótese de falência superveniente do devedor.
+ ..
+À vista do texto legal a execução não poderia ter sido extinta em relação à co-devedora falida porque a Lei expressamente estabeleceu que o processo deveria ser suspenso em relação a ela.
+Acresça-se que não há carência de ação porque o Recorrente ainda não recebeu o seu crédito; ao passo que se for encerrada a falência sem o pagamento do credor, facultar-se-á a retomada da execução contra a falida.
+Enfim, in casu, existe regra expressa e cogente (art. 6º da Lei 11.101/05 que repetiu o art. 24 do Decreto-Lei 7.661/45) determinando a suspensão da execução contra o devedor que vier a falir, não podendo o Juiz de primeiro grau com a posterior ratificação da Corte Estadual determinar a extinção do processo contra legem. (fls. 121/122).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+É certo que de acordo com o previsto no art. 6º da Lei nº 11.101/05, as ações ajuizadas antes do decreto de falência, como no presente caso, não são atraídas pelo juízo universal, apenas têm o seu curso suspenso com o decreto de quebra.
+Todavia, isto não implica em que esta previsão legal aplica-se a todas as hipóteses em que ocorre a superveniente decretação da falência da empresa executada.
+Com efeito, sendo certo, igualmente, no presente caso, que o crédito cobrado na execução em tela, em decorrência da decretação da falência da empresa executada, deverá ser habilitado no respectivo processo falimentar para ser cobrado em face da Massa Falida de citada empresa, não há mais possibilidade de prosseguir a presente execução contra referida executada, configurando-se, assim, a perda do interesse processual em relação a esta devedora, como assentado na r. decisão recorrida.
+ ..
+Neste sentido, também, é o precedente do E. Superior Tribunal de Justiça trazido à baila pela recorrida, nas suas contrarrazões, cuja ementa é a seguinte:
+RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DUPLICATA. OMISSÃO. CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. FALÊNCIA SUPERVENIENTE DO DEVEDOR. EXTINÇÃO DO PROCESSO EXECUTIVO INDIVIDUAL. POSSIBILIDADE. IRREVERSIBILIDADE DA DECISÃO QUE DECRETOU A QUEBRA. RETOMADA DA EXECUÇÃO. INVIABILIDADE PRÁTICA (REsp n. 1.564.021/MG (2015/0270023-6), Rel. Min. Nancy Andrighi) (fls. 112-113, grifos meus).
+Logo, opera-se o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto, o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Destarte: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+A propósito: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
