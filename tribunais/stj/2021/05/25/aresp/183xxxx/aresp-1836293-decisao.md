@@ -1,0 +1,56 @@
+DECISÃO
+EDER MACHADO DE CARVALHO (EDER) propôs ação de cobrança de indenização securitária contraMAPFRE VIDA S.A. e BRADESCO VIA E PREVIDÊNCIA S.A. (MAPFRE e BRADESCO), objetivando o recebimento da indenização integral do seguro contratado.
+Em primeira instância, opedidofoijulgado parcialmente procedente para condenar as requeridas no pagamento da importância equivalente a R$ 3.169,34 (três mil cento e sessenta e nove reais e trinta e quatro centavos). O pedido de indenização por danos morais foi rejeitado.
+Inconformado, EDER apelou da sentença. O aresto encontra-se assim sintetizado:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA - INVALIDEZ PARCIAL PERMANENTE - CONDENAÇÃO DE ACORDO COM A TABELA DA SUSEP - INEXISTÊNCIA DE CLÁUSULAS COM DESTAQUE PARA A PERFEITA COMPREENSÃO DO SEGURADO - VIOLAÇÃO AO DEVER DE INFORMAÇÃO E AOS PRINCÍPIOS QUE NORTEIAM AS RELAÇÕES DE CONSUMO - AUSÊNCIA DE COMPROVAÇÃO DA ENTREGA DAS CONDIÇÕES GERAIS AO SEGURADO - ÔNUS DA SEGURADORA - COBERTURA INTEGRAL PREVISTA PARA A HIPÓTESE DE INVALIDEZ POR ACIDENTE - SENTENÇA REFORMADA - RECURSO PROVIDO PARCIALMENTE.
+Em que pese não existir ilegalidade ou abusividade em cláusula contratual que estipula a diferenciação entre a indenização securitária nos casos de invalidez total e parcial, bem como a necessidade de graduação desta, incumbe à seguradora redigir tais cláusulas com destaque e perfeita compreensão, e, sobretudo, comprovar que o segurado tenha recebido as informações necessárias acerca do contrato que está efetuando e de suas limitações.
+Não havendo prova de que segurado foi informado sobre a possibilidade de a seguradora pagar a indenização de acordo com os cálculos da tabela da SUSEP, faz jus o consumidor a receber a quantia correspondente ao capital segurado para a hipótese de invalidez permanente por acidente (e-STJ, fl. 694).
+Os embargos de declaração opostos pela MAPFRE foram rejeitados (e-STJ, fls. 745/749).
+Irresignada, MAPFREinterpôs recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, alegando violação dos arts. 757, 760, do CC/02, ao sustentar que a SEGURADORA foi condenada ao pagamento de capital segurado na sua integralidade, quando pelo risco contratual somente seria devido o pagamento da parcialidade da verba indenizatória.
+As contrarrazões ao recurso especial foram apresentadas (e-STJ, fls. 791/802).
+O Tribunal de Justiça do Estado do Mato Grosso do Sul inadmitiu o apelo nobre diante da incidência das Súmulas nºs 5 e 7 do STJ.
+Nas razões do agravo em recurso especial, MAPFREaduziu que não se aplicam, ao caso, as Súmulas nºs 5 e7 do STJ.
+Acontraminutaao agravo em recurso especial foiapresentada(e-STJ, fls. 841/846).
+Em atendimento ao art. 1.042, § 4º, do NCPC, o Tribunal de Justiça do Estado do Mato Grosso do Sul manteve a decisão agravada (e-STJ, fl. 848).
+É o relatório.
+DECIDO.
+De início, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto, ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na Sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/15 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Do pagamento da indenização securitária
+No que se refere ao pagamento da indenização securitária de forma proporcional ao grau de invalidez, o Tribunal de Justiça do Estado do Mato Grosso do Sul concluiu que não houve informação clara à parte segurada sobre a aplicação da tabela de graduação da SUSEP, nos casos de invalidez permanente parcial por acidente, tampouco foi comprovado que EDER tinha ciência dessa cláusula limitativa, como se pode ver dos excertos do acórdão recorrido:
+Inobstante, entendo que incumbe à seguradora redigir tais cláusulas com destaque e perfeita compreensão, e, ainda, comprovar que o segurado tenha recebido as informações necessárias acerca do contrato que está efetuando.
+Entretanto, na espécie, não demonstram as seguradoras ré, indene de dúvidas, que o autor tenha tomado ciência ou recebido as Condições Gerais do Seguro ou que tivesse conhecimento da tabela e dos percentuais a serem aplicados em caso de invalidez parcial, uma vez que não há na apólice colacionada ao processo a assinatura do segurado e nem a apresentação de qualquer documento que comprove a sua entrega a consumidor. Há, apenas, uma proposta de adesão assinada por intermédio da Fundação Habitacional do Exército e contratos padrões impressos desprovidos de firma.
+Portanto, o certificado individual do seguro de vida em grupo entregue ao segurado, por si só, não é suficientemente claro acerca dos limites da cobertura, tendo em vista que não contém qualquer tabela ostensiva ou critério de cálculo, o que impossibilita ao aderente a completa compreensão dos termos do ajuste, tolhendo-se o seu direito básico à informação. Assim é que, em se tratando de uma relação de consumo, qualquer margem interpretativa ao contrato deve-se resolver em favor do consumidor, vedando-se, portanto, interpretação prejudicial acerca do alcance das garantias do seguro, a teor do que preconizam os arts. 46 e 47 do Código de Defesa do Consumidor.
+ ..
+Dessa forma, em que pesem os argumentos apresentados pelas apeladas e a decisão de primeiro grau de que a indenização deve ser calculada de forma proporcional à invalidez, adotando-se a tabela/percentual da SUSEP, não havendo comprovação de ciência plena do segurado acerca do que foi pactuado, deve ser reformada a sentença recorrida para que a condenação perfaça o montante integral previsto para a invalidez permanente por acidente (e-STJ, fls. 698/699 - sem destaques no original)
+Pelo que se dessume dos autos, o acórdão recorrido fundamentou suas conclusões na interpretação do contrato e nas demais provas apresentadas nos autos, de forma que para se adotar conclusão diversa da que chegou o Colegiado Estadual seria inevitável o revolvimento do arcabouço fático-probatório carreado aos autos, da análise de cláusulas contidas nas condições gerais do ajuste e na apólice, procedimento sabidamente inviável na instância especial, a teor do que dispõem as Súmulas nº 5 e 7 desta Corte, a qual não pode ser considerada terceira instância recursal.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO DE COBRANÇA SECURITÁRIA. COBERTURA POR INVALIDEZ PERMANENTE. REEXAME. SÚMULAS 5 E 7/STJ. DEVER DE INFORMAÇÃO. CDC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Reverter a conclusão do Colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento de cláusulas contratuais e do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+ ..
+3. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso 4. Agravo interno desprovido.
+(AgInt no AREsp 1.714.312/MA, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 8/2/2021, DJe 12/2/2021 - sem destaques no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. COBERTURA. CLÁUSULA RESTRITIVA. ALEGADA ABUSIVIDADE E VIOLAÇÃO AO DEVER DE INFORMAÇÃO. SÚMULAS 5 E 7 DO STJ.
+1. O acolhimento da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, assim como a interpretação de cláusulas contratuais, atraindo o óbice das Súmulas 5 e 7 do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.851.265/SC, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 25/5/2020, DJe 1º/6/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. SEGURO DE VIDA. COBERTURA SECURITÁRIA. INVALIDEZ. REVISÃO. ANÁLISE DE CLÁUSULAS CONTRATUAIS. INOBSERVÂNCIA. SÚMULA Nº 5 DO STJ. REJULGAMENTO DA CAUSA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A alteração das conclusões do acórdão recorrido exige interpretação de cláusula contratual e reapreciação do acervo fático-probatório da demanda, o que faz incidir as Súmulas nºs 5 e 7, ambas do STJ.
+ ..
+4. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1.305.175/SP, de minha relatoria, Terceira Turma, j. 1º/10/2018, DJe 3/10/2018 - sem destaques no original)
+Do alegado dissídio jurisprudencial
+No que se refere ao suscitado dissídio jurisprudencial, tem-se que a incidência da Súmula nº 7 do STJ impede o conhecimento do recurso lastreado também pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+A propósito, veja-se o seguinte julgado:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO. DANO MORAL AMBIENTAL. CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO. REEXAME DE PROVAS. SÚMULA Nº 7 DO STJ. CONFIGURAÇÃO DOS DANOS MORAIS. REEXAME DE PROVAS. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL APOIADO EM FATOS AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. No que se refere ao dissídio jurisprudencial, há que se registrar que consoante iterativa jurisprudência desta Corte, a incidência da Súmula nº 7 do STJ impede o conhecimento do recurso lastreado também pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.400.292/SP, de minha relatoria, Terceira Turma, j. 9/3/2020, DJe 11/3/2020 - sem destaques no original)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃOCONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de EDER, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL E RECURSO ESPECIAL MANEJADOS SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. CONTRATO DE SEGURO. INVALIDEZ. INDENIZAÇÃO. PAGAMENTO DE DIFERENÇA. AUSÊNCIA DE COMPROVAÇÃO DE INEQUÍVOCA CIÊNCIA DA PARTE SEGURADA EM RELAÇÃO ÀS CLÁUSULAS CONTRATUAIS LIMITATIVAS. REFORMA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO.SÚMULAS NºS 5 E 7 DO STJ.DISSÍDIO APOIADO EM FATOS. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
