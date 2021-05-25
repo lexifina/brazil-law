@@ -1,0 +1,16 @@
+DECISÃO
+NERISVALDO BEZERRA DA SILVAalega sofrer constrangimento ilegal diante de acórdão proferido peloTribunal de Justiça do Estado de São Paulono HC n. 2136678-90.2020.8.26.0000.
+Nesta Corte, a defesa postula a revogação da prisão preventiva do réu, ao argumento de que o Juízo singular deixou de reavaliar o decreto prisional no prazo de 90 dias desde a prolação dodecisumanterior (pronúncia). Aduz que só houve novo exame quando o Tribunala quosolicitou informações para instruir a impetração originária.
+O acórdão denegatório da ordem consignou que (fls. 45-46, grifei):
+No caso em questão, antes mesmo da entrada em vigor da nova lei, a necessidade da prisão do paciente já vinha sendo revisada em períodos bem curtos, tanto na primeira, como nesta instância, sobretudo em razão da combatividade dos ilustres advogados impetrantes.
+Ainda, por ocasião da análise do pedido liminar, em consulta aos autos originais, esta relatoria teve a oportunidade de observar que, passados apenas 03 dias do prazo acima referido, o magistrado a quo sequer havia sido sido provocado a se manifestar.
+Assim, descabido imaginar que, em plena situação excepcional que hoje enfrenta o judiciário, em razão das inúmeras adaptações impostas em razão da Pandemia do Coronavírus, que além de impor condições especiais de trabalho ainda gerou um número vertiginoso de pedidos de soltura, o simples decurso do período imporia a soltura.
+Mormente, em casos como o presente no qual já restou ratificada, inclusive por esta Corte, a necessidade da prisão processual.
+Processado o presente feito, em nova consulta aos autos, esta Relatoria observou que o magistrado a quo reavaliou a necessidade da prisão e expôs, tal como já havia feito anteriormente, argumentos razoáveis para a manutenção da medida (fls. 1305/1036).
+Assim, não vislumbro constrangimento ilegal que justifique a concessão da ordem pretendida.
+No tocante à reavaliação periódica da legalidade da prisão cautelar, instaconsignar que a norma inserida pela Lei n. 13.964/2019 passou a exigir,noart. 316, parágrafo único, do Código de Processo Penal, que, nahipótesede decretação da preventiva, "deverá o órgão emissor da decisãorevisar anecessidade de sua manutenção a cada 90 (noventa) dias, mediantedecisãofundamentada, de ofício, sob pena de tornar a prisão ilegal".
+Entretanto, conforme entendimento já esposado por este SuperiorTribunalacerca do tema, "eventual constrangimento ilegal por excesso deprazo nãoresulta de um critério aritmético, mas de uma aferição realizadapelojulgador, à luz dos princípios da razoabilidade e proporcionalidade,levando em conta as peculiaridades do caso concreto, de modo aevitarretardo abusivo e injustificado na prestação jurisdicional" (HCn.551.171/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 26/3/2020, destaquei).
+Na hipótese, o Tribunal de origem ressaltou quehouve reexame dodecretopreventivo do acusado, ainda que em prazo um pouco superior aos 90 diasprevistos no dispositivo mencionado.
+Ainda, o gabinete verificou, em consulta à página eletrônica da Corte local, a prolação de decisões que reavaliaram a prisão preventiva do réu em 13/10/2020 e 9/3/2021, dados que reforçam a ausência de ilegalidade na espécie.
+À vista do exposto,nego provimento ao recurso.
+Publique-se e intimem-se.
