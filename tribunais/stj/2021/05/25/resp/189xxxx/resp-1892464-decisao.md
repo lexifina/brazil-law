@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL PETROS, com amparo na alínea "a" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Paraná (fls. 763, e-STJ), assim ementado:
+APELAÇÃO PREVIDÊNCIA PRESCRIÇÃO CÍVEL AÇÃO ORDINÁRIA PETROS - PRIVADA - - QUINQUENAL NÃO CARACTERIZADA - OBRIGAÇÃO DE TRATO SUCESSIVO - LITISCONSÓRCIO PASSIVO DA PETROBRÁS - DESNECESSIDADE - AUSÊNCIA DE CÁLCULO SOBRE A RESERVA MATEMÁTICA - BENEFICIO CALCULADO SOBRE OS 12 SALÁRIOS - DE- CONTRIBUIÇÃO ANTERIORES - PERÍODO DE CÁLCULO QUE ABRANGE JANEIRO/89 - DESVALORIZAÇÃO DA MOEDA - EXPURGOS INFLACIONÁRIOS - NECESSIDADE DE CORRETA CORREÇÃO - APLICAÇÃO DO IPC - JURISPRUDÊNCIA CONSOLIDADA DO STJ - ÔNUS DE SUCUMBÊNCIA MANTIDO - APLICAÇÃO DA SÚMULA Nº 111 DO STJ  RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Opostos embargos declaratórios (fls. 984/986, e-STJ), restaram desacolhidos na origem.
+Nas razões do especial (fls. 1000/1017 e-STJ), o insurgente alega violação aos arts. 3º e 75, ambos da Lei Complementar n 2 109/01; 47 e 219, ambos do Código de Processo Civil; 114, do Código Civil; e 195, § 5º, e 202, ambos da Constituição Federal.
+Sustenta, em síntese, a ocorrência de prescrição por ter sido a açao ajuizada apenas em 2007; litisconsórcio passivo necessário com a Patrocinadora e impossibilidade de inclusão na renda mensal inicial
+Apresentadas contrarrazões (fls. 235-246 e-STJ).
+O apelo extremo foi admitido na origem.
+Em cumprimento à determinação exarada do Superior Tribunal de Justiça, o presente recurso foi sobrestado em razão do tema repetitivo n. 936/STJ, vinculado ao REsp 1.370.191/RJ e após o julgamento do mesmo, observou-se o disposto no art. 1040 do NCPC no que tange à tese de litisconsórcio passivo necessário, atestando estar o acórdão recorrido já em conformidade com o decidido.
+É o relatório.
+Decide-se.
+1. De início, registra-se que não cabe, em recurso especial, a análise de ofensa a dispositivos constitucionais, competência reservada à Suprema Corte.
+Neste sentido, destacam-se os precedentes: AgInt no AREsp 1321805/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 03/12/2018, DJe 05/12/2018; AgInt no REsp 1761022/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 03/12/2018, DJe 07/12/2018; AgInt no AREsp 1340592/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/11/2018, DJe 07/12/2018; EDcl no AgInt no REsp 1720230/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/10/2018, DJe 29/10/2018.
+2. A jurisprudência do Superior Tribunal de Justiça consolidou-se nosentido de que a Súmula n. 289/STJ ("a restituição das parcelas pagas aplano de previdência privada deve ser objeto de correção plena, por índiceque recomponha a efetiva desvalorização da moeda") aplica-se tão somenteaos casos em que houve resgate, hipótese em que há o rompimento definitivodo vínculo contratual do participante.
+Em se tratando de participante que tenha optado pela complementação deaposentadoria, como no presente caso, não é possível a revisão dobenefício pago segundo critérios diversos dos pactuados no contrato, emrazão da necessidade de observância do equilíbrio financeiro e atuarial doplano de custeio.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO. PREVIDÊNCIA. PRIVADA. RESERVA DE POUPANÇA.MIGRAÇÃO DE PLANO DE BENEFÍCIOS. TRANSAÇÃO. CORREÇÃO MONETÁRIA.EXPURGOS. NÃO APLICAÇÃO. JUSTIÇA GRATUITA. ÔNUS DA SUCUMBÊNCIA.SUSPENSÃO.
+1. A incidência de correção monetária em reserva de poupança, com oacréscimo dos expurgos inflacionários, restringe-se às hipóteses em queo filiado desliga-se da entidade de previdência privada, não se aplicandoaos casos de migração de planos de benefícios, mediante incentivo emdinheiro e instrumento de transação. Precedente da 2ª Seção. 2. A teseestabelecida pela 2ª Seção no julgamento do RESP 1.183.474/DF, submetidoao rito do art. 543-C, do CPC, aplica-se, exclusivamente, aos casos emque o participante desligou-se da entidade e não quando houve migraçãode plano de benefícios.
+3. Deferidos à parte os benefícios da justiça gratuita, os ônus dasucumbência devem ficar suspensos nos termos do art. 12 da Lei1.060/50.
+4. Agravo interno parcialmente provido.
+(AgInt no AREsp 609.025/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTATURMA, julgado em 06/04/2017, DJe 18/04/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSOESPECIAL. PREVIDÊNCIA PRIVADA FECHADA. MIGRAÇÃO DE PLANO DE BENEFÍCIOS.TRANSAÇÃO EXTRAJUDICIAL. CONCESSÃO DE VANTAGENS RECÍPROCAS. RESERVA DEPOUPANÇA. CORREÇÃO MONETÁRIA. EXPURGOS INFLACIONÁRIOS. SÚMULA N. 289 DOSTJ. INAPLICABILIDADE. SÚMULA N. 168/STJ.
+1. A atual jurisprudência desta Corte está sedimentada no sentido de que aSúmula n. 289/STJ, a qual dispõe que "a restituição das parcelas pagas aplano de previdência privada deve ser objeto de correção plena, por índiceque recomponha a efetiva desvalorização da moeda", tem aplicação restritaaos casos de resgate, hipótese em que há o rompimento definitivo dovínculo contratual do participante, que nem sequer chegou a auferirbenefício complementar.
+2. Tal circunstância atrai a incidência do Enunciado n. 168 da Súmula doSTJ.
+3. Agravo regimental desprovido." (AgRg nos EREsp 1.488.815/SC, Rel.Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 12/08/2015,DJe de 18/08/2015)
+Assim sendo, prejudicada a analise dos demais pedidos.
+3. Ante o exposto, dou provimento ao recurso especial para julgar improcedente o pedido, devendo o autor arcar com as custas processuais e os honorários advocatícios, estes fixados em R$ 1.000,00 (mil reais),observado o benefício da justiça gratuita, se for o caso.
+Publique-se. Intimem-se.
