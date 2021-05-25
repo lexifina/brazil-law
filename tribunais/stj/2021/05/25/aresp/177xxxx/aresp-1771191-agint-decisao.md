@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo internointerposto por LIMOGES INVESTIMENTOS IMOBILIÁRIOS LTDA. e OUTRA, contra a decisão de fls. 691/693, e-STJ, da Presidência do STJ, que não conheceu do agravo emrecurso especial, ante a ausência de impugnação específica da Súmula 7/STJ.
+O apelo nobre, amparado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 563, e-STJ):
+APELAÇÃO - COMPROMISSO DE COMPRA E VENDA  DISTRATO  RESTITUIÇÃO PARCIAL DOS VALORES PAGOS  IMPROCEDÊNCIA  INCONFORMISMO DO AUTOR  ACOLHIMENTO EM PARTE  REAPRECIAÇÃO  Determinação do C. STJ, em recurso especial, de novo julgamento da causa, com base no reconhecimento da abusividade da cláusula prevista no termo de distrato de compromisso de compra e venda de imóvel na planta, em que as partes pactuaram o percentual de devolução em valor inferior ao entendimento daquela E. Corte  Retenção que deve observar o limite entre 10 e 25% dos valores pagos pelo adquirente  Caso concreto que demonstra ser razoável a retenção de 20% dos valores pagos a título de indenização pelas despesas geradas, segundo entendimento do STJ e como vem decidindo esta C. Câmara  É abusiva a cláusula contratual que prevê descontos excessivos para o caso de rescisão contratual por culpa do adquirente - DERAM PARCIAL PROVIMENTO AO RECURSO.
+Opostos embargos de declaração, foram rejeitados (fls. 605/607, e-STJ).
+Em suas razões de recurso especial, as recorrentes, ora agravantes, apontam, além de dissídio jurisprudencial, ofensa aos artigos 104, 421 e 422, do CC/02. Sustentam, em síntese, que o distrato é válido, não podendo a parte recorrida reclamar outros valores decorrentes da rescisão contratual.
+Após a apresentação das contrarrazões (fls. 612/638, e-STJ), o apelo não foi admitido na origem (fls. 639/641, e-STJ), dando ensejo ao agravo (fls. 644/648, e-STJ), visando destrancar o processamento daquela insurgência, no qual as recorrentes refutaram os óbices aplicados pela Corte estadual.
+Em decisão monocrática da Presidência do STJ (fls. 691/693, e-STJ), o agravo em recurso especial não foi conhecido, ante a ausência de impugnação ao verbete sumular 7/STJ.
+Nas razões do agravo interno (fl. 697/704), as agravantes alegam que impugnaram especificamente a Súmula 7/STJ.
+Nesse contexto, reconsidero a decisão monocrática de fls. 691/693, e-STJ, ante a devida impugnação (fls 647/648, e-STJ),e passo a novo exame da irresignação.
+O inconformismo não merece prosperar.
+1. Com efeito, a questão da possibilidade de revisão do distratorestou decidida por este STJna decisão transitada em julgado de fls. 526/529, e-STJ,na qual estabeleceu-se " ..  é cabível a revisão de distrato de contrato de compra e venda de imóvel, ainda que consensual, em que, apesar de ter havido a quitação ampla, geral e irrevogável, se tenha constatado a existência de cláusula de decaimento (abusiva), prevendo a perda total ou substancial das prestações pagas pelo consumidor, em nítida afronta aos ditames do CDC e aos princípios da boa-fé objetiva e do equilíbrio contratual, como é o caso dos autos, em que foi permitida a retenção de 78% (setenta e oito por cento) dos valores pagos." (fl. 527, e-STJ), determinando-se, por conseguinte, o retorno dos autos à origem para que fosse fixadotão somente o percentual adequado de retenção.
+Desse modo, nota-se da leitura das razões recursais de fls. 569/574, e-STJ, que as recorrentes sequer se insurgiram contra a única questão debatida - a determinação de restituição de 80% dos valores pagos - no acórdão de fls. 562/566, e-STJ, insistindo apenas na impossibilidade de revisão do distrato, matéria esta já enfrentada por esta Corte, mas não impugnada em momento oportuno.
+Assim, resta caracterizada a deficiência na fundamentação do apelo extremo, no que tange às violações dos arts. 104, 421 e 422 do CC/02, pois apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa do óbice contido na Súmula 284/STF.
+Precedentes:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 284 DO STF.
+1. Caracteriza deficiência na fundamentação do recurso especial quando as razões apresentadas encontram-se dissociadas do que foi efetivamente decidido no acórdão recorrido, circunstância que atrai, por analogia, o óbice da Súmula 284 do STF.
+2. Agravo regimental provido para negar seguimento ao recurso especial.
+(AgRg no AREsp 620.682/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 26/04/2016, DJe 16/05/2016)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. CUMPRIMENTO DE SENTENÇA. DIVIDENDOS. RAZÕES DISSOCIADAS.
+SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+1. As razões apresentadas no presente agravo interno encontram-se dissociadas do que foi decidido na decisão monocrática, circunstância que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, o óbice da Súmula 284 do eg.
+Supremo Tribunal Federal.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1345155/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 13/03/2018, DJe 19/03/2018)
+2. Do exposto, com fundamento no art. 932 do NCPC e na Súmula 568/STJ, reconsidero a decisão monocrática de fls. 691/693 para, de imediato, conhecer do agravo e negar provimento ao recurso especial.
+Publique-se. Intimem-se.
