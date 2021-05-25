@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de DJAVAN SANTOS DA CONCEICAO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, no julgamento da Apelação n. 0004706-03.2010.8.05.0150.
+Extrai-se dos autos que o paciente foi preso preventivamente, tendo a custódia sido revogada em 25/5/2011. Em 12/1/2018, foi condenado pela prática dos crimes previstos no art. 159, §§ 1º e 3º, e no art. 211, ambos do Código Penal - CP (sequestro qualificado por ser praticado em quadrilha, contra menor de 18 anos e com resultado morte e ocultação de cadáver), às penas de 30 anos de reclusão, em regime inicial fechado, e multa, ocasião na qual o Juiz sentenciante decretou a prisão preventiva do réu (fls. 39/52).
+Em apelação, o Tribunal de origem negou provimento ao reclamo da defesa e, de ofício, reduziu a reprimenda fixada ao réu para 29 anos de reclusão, em regime inicial fechado, mantendo a prisão preventiva e determinando o início da execução provisória da pena imposta após o esgotamento dos recursos ordinários. O acórdão ficou assim ementado:
+APELAÇÃO CRIMINAL. EXTORSÃO QUALIFICADA. OCULTAÇÃO DE CADÁVER. NEGATIVA DE AUTORIA. DECISÃO CONDENATÓRIA RESPALDADA NO ACERVO PROBATÓRIO. APROVEITAMENTO DAS INFORMAÇÕES COLHIDAS NO INQUÉRITO POLICIAL. ART. 155,CAPUT, DO CÓDIGO DE PROCESSO PENAL. RECURSO CONHECIDO E IMPROVIDO. DE OFÍCIO, READEQUAÇÃO DO QUANTUM MAJORADO POR CIRCUNSTÂNCIA JUDICIAL, REDUÇÃO DA PENA PECUNIÁRIA, DO CRIME DE OCULTAÇÃO DE CADÁVER, EXCLUSÃO DA PENA DE MULTA DO CRIME DE EXTORSÃO QUALIFICADA E EXTINÇÃO DA PUNIBILIDADE DO CORRÉU.
+Provada a autoria delitiva pela convergência das provas produzidas, tanto na fase policial quanto em juízo, impõe-se a condenação. Segundo inteligência do art. 155,caput, do Código de Processo Penal, o magistrado pode se valer de informações colhidas na fase extrajudicial, se corroboradas com os demais meios de prova, amealhados sob o pálio do contraditório.
+No cálculo da pena-base aplica-se a fração de 1/8 (um oitavo), por circunstância judicial negativada, considerando o intervalo entre a pena mínima e a máxima prevista para o delito, conforme critério matemático adotado predominantemente pelos Tribunais Superiores.
+Pena de multa reduzida para guardar proporcionalidade coma pena corporal imposta.
+A demonstração inequívoca da morte do corréu, por meio de documento idôneo, impõe a extinção de sua punibilidade.
+Recurso conhecido e improvido. De ofício, redução das penas aplicadas em desfavor do recorrente, exclusão da penade multa do crime de extorsão qualificada e extinta a punibilidade do corréu, nos termos do art. 107, I, do Código Penal." (fls. 27/28).
+No presente mandamus, sustenta a ausência de contemporaneidade da prisão preventiva do paciente, decretada na sentença, 8 anos após os fatos imputados.
+Pondera a inexistência de fatos novos que justifiquem a prisão preventiva e assevera não estarem presentes, na hipótese dos autos, os requisitos previstos no art. 312 do CPP.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva do paciente.
+É o relatório.
+Decido.
+De início, cumpre ressaltar que foi formulado pedido idêntico em benefício dos ora pacientes no HC 548.290/BA, de minha relatoria, o qual não foi conhecido em julgamento realizado em 10/6/2020. Ressalto queambos os feitos impugnam o acórdão proferido pelo Tribunal de Justiça do Estado da Bahia no julgamento dano julgamento da Apelação Criminal n. 0004706-03.2010.8.05.0150.
+Assim, tendo o presente writ a mesma parte e questionando matéria arguida no referidofeito, qual seja, a manutenção da prisão preventiva do paciente, decretada na sentença condenatória,os quais dizem respeito à mesma ação penal de origem, resta configurada inadmissível reiteração, o que impede o conhecimento das alegações.
+Confira-se a jurisprudência pacífica deste Tribunal:
+AGRAVO REGIMENTAL. HABEAS CORPUS. NÃO CONHECIMENTO. INDEFERIMENTO LIMINAR. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO CONFIGURAÇÃO. INTELIGÊNCIA DO ARTIGO 34, XX, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. TRÁFICO. INEXISTÊNCIA DE PROVA DE AUTORIA E MATERIALIDADE. PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. INSTRUÇÃO ENCERRADA. SÚMULA N. 52/STJ. COAÇÃO ILEGAL NÃO CONFIGURADA. INSURGÊNCIA DESPROVIDA.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento.
+2. O art. 34, XX, do Regimento Interno desta Corte Superior, autoriza o relator a decidir o habeas corpus quando for manifestamente inadmissível, exatamente como ocorre na espécie, inexistindo prejuízo à parte, já que dispõe do respectivo regimental, razão pela qual não se configura ofensa ao princípio da colegialidade.
+3. As alegações de inexistência de prova da materialidade delitiva e de indícios de autoria, de falta de fundamentação e de requisitos para a manutenção da prisão cautelar ou da possibilidade de sua substituição por outras medidas cautelares já foram analisadas no RHC n. 88.794/SP e do HC n. 464.390 decididos anteriormente, o que configura a simples reiteração de pedido, o que autoriza o indeferimento liminar do writ.
+4. A prolação de sentença condenatória prejudica a análise de eventual excesso de prazo para a formação da culpa, nos termos do enunciado sumular n. 52 do Superior Tribunal de Justiça.
+5. Agravo regimental desprovido.
+(AgRg no HC 505.142/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 06/06/2019).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE DA SENTENÇA. ABSOLVIÇÃO. REITERAÇÃO DE PEDIDO. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+I - A inicial do presente mandamus pugna pelo reconhecimento da nulidade da sentença e pela absolvição do paciente, sendo esse o mesmo pedido formulado no HC n. 334.031/SP, o que configura reiteração de pedido, processualmente inadmissível.
+II - Ademais, há também, no caso, supressão de instância, uma vez que o eg. Tribunal a quo não se pronunciou sobre as matérias ventiladas no presente writ, o que impede a análise, por esta Corte Superior de Justiça, pela vez primeira, de temas não debatidos pelas instâncias ordinárias.
+Agravo regimental desprovido.
+(AgRg no HC 335.596/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 04/04/2016).
+Assim, exaurida a jurisdição desta Corte Superior quanto ao ponto, eventuais irresignações quanto ao julgado devem ser dirimidas por meio próprio.
+Ademais, considerando não ter sido submetida à corte de origem a questão relativa à alegada ausência de contemporaneidade da prisão preventiva decretada na sentença, verifica-se a inadmissibilidade da análise direta da matéria por este Superior Tribunal de Justiça, sob pena de se incidir em indevida supressão de instância.
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
