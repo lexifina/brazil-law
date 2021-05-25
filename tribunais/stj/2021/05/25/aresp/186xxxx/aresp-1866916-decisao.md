@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por SOUZA LIMA SERVIÇOS DE MANUTENÇÃO E LIMPEZA LTDA. e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Ação de cobrança - contrato de prestação de serviços - contrato escrito não assinado pelas partes - divergência das partes em relação a apenas uma cláusula - reajuste em decorrência de convenção coletiva de trabalho não contemplada no contrato escrito - prova da dívida inexistente - ação julgada improcedente - sentença mentida - recurso improvido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 112 e 427 do CC, no que concerne ao pagamento reajuste do repasse do dissídio coletivo sobre os serviços prestados, trazendo os seguintes argumentos:
+Em que pese a proposta, clara e objetiva, a Excelentíssima Magistrada de primeiro grau entendeu que referido não cria, modifica ou extingue obrigações e que, uma vez que o repasse do dissídio não está expressamente previsto no contrato, tal remuneração não seria devido às Apelantes/Souza Lima.
+Acontece que a proposta comercial vincula, impreterivelmente, o próprio contrato, pois gera expectativas de direito e se trata de uma livre manifestação da vontade das partes  ou seja, essa "expectativa" não pode ser ignorada, principalmente, em atenção ao artigo 112 do Código Civil:
+ ..
+Corroborando-se com o conhecimento e a concordância com todos os termos da proposta, conforme fls. 224 e seguintes, a proposta comercial aceitada pelas Recorridas tanto foram aceitas, que elas próprias imprimiram o seu conteúdo em papel timbrado próprio, referendando-se o seu conteúdo nos exatos termos em que estavam escritos, confirmando-se a anuência quanto ao repasse do dissídio coletivo (fls. 229):
+ ..
+Ainda, como se não fosse tudo isso, o artigo 427 e seguintes do Código Civil, ao mencionar sobre a formação dos contratos, também é claro sobre a vinculação do instrumento final à proposta comercial:  .. .
+Há que se pontuar que a Excelentíssima Magistrada de primeiro grau apurou conflito entre o contrato e o anexo, estabelecendo que o primeiro deve prevalecer sobre o segundo. No entanto, inexiste qualquer conflito de disposições entre um e o outro. Constou na sentença:
+ ..
+Daí porque, data máxima vênia, nem mesmo tal suposto "conflito" entre disposições se pode verificar, sendo exigível das Recorridas, pois, o repasse do dissídio coletivo às Recorrentes. (fls. 438-441).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Inicialmente, destaque-se que, conforme bem observou o MM. Juízo "a quo", não restou evidenciado que os réus tenham se obrigado ao pagamento dos valores pretendidos pela autora, consistentes em repasse de reajustes trabalhistas, decorrentes de convenção coletiva de trabalho.
+Em que pese a assertiva constante das razões recursais, de que a proposta obriga o proponente, verifica-se que os termos contratuais estabelecidos não mencionam os acordos coletivos de trabalho como forma de reajuste do contrato, estabelecendo que o preço ajustado remunera todas as despesas, inclusive as trabalhistas (cláusula quarta - fls. 81).
+ ..
+Desse modo, a inexigibilidade do débito objeto do pedido inaugural é manifesta, não tendo a autora de desincumbido de provar a dívida e o inadimplemento, conforme lhe competia, pela aplicação das regras do ônus da prova. (fls. 429-430)
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
