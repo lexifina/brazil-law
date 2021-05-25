@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor dePALOMA DOS SANTOS MACIEL RODRIGUES, contra acórdão doTribunal de Justiça do Estado de São Paulo (HC n. 2016629-83.2021.8.26.0000).
+A paciente foi condenada àpenade 5anos de reclusão no regime inicial fechadoem razão docrimede tráfico de entorpecentes.
+O Juízo de primeiro grau indeferiu o pedido de cumprimento da pena em prisão domiciliar.
+A defesa impetrou habeas corpus em razão de a paciente estar grávida e ser mãe de filhos menores, que necessitam de sua presença. O Tribunal de Justiça do Estado de São Paulo denegou a ordem, mantendo a decisão agravada.
+Neste writ, a defesa alega que foi formulado pedido de prisão domiciliar em favor da sentenciada,que estava grávida e deu à luz, estando amenor impúbere enfrentando problemas de saúde (epilepsia). Destaca que, se isso não bastasse, a paciente está em estado de choque.
+Aduz quenão se trata de criminosa contumaz nemdepessoa que possui vastos antecedentes criminais, mas de custodiada que tem filhos menores de idade.
+Afirma que, na oportunidade,juntou comprovantes de residência, certidões de nascimentos dos3 filhos e laudo médico de gravidez da paciente.
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpus para que seja deferida a prisão domiciliar.
+A liminar foi indeferida à fls. 114-115.
+As informações foram prestadas às fls. 118-132.
+O Ministério Público Federal opinou pela concessão parcial da ordem, a fim de que, afastado o impeditivo legal do art. 117,III, da LEP, seja determinado ao Juízo de primeira instância que examine a comprovação de eventual condição de vulnerabilidade do menor, de modo a justificar a concessão do benefício da prisão domiciliar à paciente (fls. 140-143).
+É o relatório. Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram a orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso, é necessárioo conhecimento do presente recurso, tendo sidodemonstradaa flagrante ilegalidade da decisão atacada.
+O Tribunal de origem, ao afastar o benefício da prisão domiciliar, adotou oseguintefundamento(fls. 16-17, destaquei):
+As circunstâncias pessoais da reeducanda foram detidamente examinadas, consignando-se que a condição de gestante ou por ser genitora de crianças menores de doze anos não pode, por si só, conduzir a colocação da sentenciada em liberdade.
+Nem se cogita a aventada aplicação do artigo 318 do Código de Processo Penal, tampouco a ausência de requisitos do artigo 312 do mesmo diploma substantivo, uma vez que o caso em tela trata de prisão decorrente de condenação definitiva com trânsito em julgado e não do carcer ad cautelam (vide certidão de transito e julgado de fls. 119).
+As hipóteses de concessão de prisão domiciliar em sede execução estão previstas no artigo 117 da Lei de Execução Penal e são admitidas desde que o sentenciado esteja em cumprimento de pena em regime aberto, o que não se vislumbra na espécie.
+Em conclusão, não se observa qualquer ilegalidade ou constrangimento no ato do Juízo de Direito do Departamento de Execuções Criminais da Comarca de São Paulo - DEECRIM 1ª RAJ - SP.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que, não obstante oart. 117 da Lei de Execução Penalestabeleçaque o cumprimento da pena em regime aberto érequisito apto àconcessão da prisão domiciliar, é possível a extensão de tal benefício aos sentenciados recolhidos no regime fechado ou semiabertoquandodemonstrada a excepcionalidade do caso concreto, ou seja, aimprescindibilidade da medida.
+Confira-seprecedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. EXECUÇÃO DEFINITIVA DA PENA. ART. 117 DA LEP.POSSIBILIDADE DE CONCESSÃO EM REGIME FECHADO E SEMIABERTO.IMPRESCINDIBILIDADE DE CUIDADOS DE FILHO MENOR. REQUISITOS NÃO DEMONSTRADOS. REEXAME PROBATÓRIO VEDADO. AGRAVO DESPROVIDO.
+1. Esta Corte tem posicionamento de que, embora o art. 117 da LEP estabeleça como requisito para o deferimento da prisão domiciliar o cumprimento da pena no modo aberto, é possível a extensão de tal benefício aos sentenciados recolhidos no regime fechado ou semiaberto quando a peculiaridade concreta do caso demonstrar sua imprescindibilidade (HC 375.774/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 13/12/2016, DJe 19/12/2016).
+2. Ainda que o entendimento jurisprudencial dos Tribunais Superiores venha superando a interpretação literal de determinados comandos previstos na Lei de Execução Penal, a fim de abarcar e de dar efetividade ao princípio da dignidade da pessoa humana na individualização da pena e ao princípio da fraternidade, na hipótese, verifica-se que acórdão atacado, soberano na análise dos fatos, entendeu pela negativa do pedido de prisão domiciliar, ao fundamento de que não ficou provado que a presença da paciente é imprescindível aos cuidados de sua filha menor.
+3. Agravo regimental não provido.(AgRg no HC n. 563.805/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 15/9/2020.)
+Nesse contexto, afastado talimpeditivo legal à concessão da prisão domiciliar, deve-seanalisar se apaciente, que se encontra em regime fechado, demonstrou tal excepcionalidade, comprovandoserindispensável aos cuidadospara com os filhos menores de 12 anos e/ou ser de vulnerabilidade a condição da menor, com epilepsia.
+Ante o exposto,não conheço do habeas corpus, mas, de ofício, concedo a ordem paradeterminar que o Juízo de Direito do Departamento de Execuções Criminais da Comarca de São Paulo - DEECRIM 1ª RAJ (SP)examine a comprovação de eventual condição de vulnerabilidade da menor e/ou de indispensabilidade da presença da paciente para cuidardos filhos,de modo a justificar a concessão de prisão domiciliar.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
