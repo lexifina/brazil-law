@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. PRESCRIÇÃO. TERMO A QUO. VERIFICAÇÃO. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1.O alegado dissídio jurisprudencial não foi devidamente demonstrado, na medida em que não foi indicado o dispositivo legal objeto de interpretação divergente, a configurar deficiência na fundamentação recursal (Súmula 284/STF).
+2.Hipótese em que o termo a quo do lustro prescricional é ponto controvertidoobjeto de prova, questão decidida pela Corte de origem com base no acervo fático e probatório dos autos, de forma que a reversão do entendimento assentado demandaria incursão nos mencionados suportes, esbarrando no óbice contido na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado por Terezinha de Jesus Vieira da Silva Godinho e outros contra decisão que assim dispõe (e-STJ, fls. 463-464):
+A jurisprudência desta Corte firmou-se no sentido de que a ausência de indicação do dispositivo legal objeto de interpretação divergente configura deficiência na fundamentação recursal, o que impede o conhecimento do apelo nobre interposto com fundamento no artigo 105, III, "c", da Constituição Federal.Incidência da Súmula 284/STF. Nesse sentido: AgInt no REsp 1.624.206/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe 15/12/2016; AgInt no REsp 1.622.220/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 15/12/2016;AgRg no AREsp 682.625/PE, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 25/11/2016; AgInt no AREsp 842.727/RN, Rel. Min. Benedito Gonçalves,Primeira Turma, DJe 6/10/2016.
+Ademais, constata-se que os próprios recorrentes destacam diversas nuances de ordem fático-probatória, notadamente às e-STJ, fls. 420-421, necessárias ao provimento do pleito, circunstância que atrai também a incidência da Súmula 7/STJ diante da impossibilidade de revisitação dos mencionados suportes.
+Em suas razões, os agravantes sustentam: i) quanto à Súmula 284/STF, que " .. consta no teor das razões recursais a menção expressa de todos os dispositivos legais que receberam interpretações conflitantes entre os tribunais, indicados inclusive no teor do acordão do REsp 1.336.026/PE, a exemplo das modificações no antigo CPC realizadas pelas Leis nº 10.444/02 e nº 11.232/05  .. " (e-STJ, fl. 553);
+ii) Quanto à Súmula 7/STJ, que " .. os fatos expostos nas razões recursais constam, inclusive, no teor do acórdão, relatório e voto da decisão ora impugnada, e que sobre eles não recai qualquer controvérsia, razão pela qual não há o que se falar em revisitar as circunstâncias que ensejaram a lide" (e-STJ, fl. 555).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. PRESCRIÇÃO. TERMO A QUO. VERIFICAÇÃO. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1.O alegado dissídio jurisprudencial não foi devidamente demonstrado, na medida em que não foi indicado o dispositivo legal objeto de interpretação divergente, a configurar deficiência na fundamentação recursal (Súmula 284/STF).
+2.Hipótese em que o termo a quo do lustro prescricional é ponto controvertidoobjeto de prova, questão decidida pela Corte de origem com base no acervo fático e probatório dos autos, de forma que a reversão do entendimento assentado demandaria incursão nos mencionados suportes, esbarrando no óbice contido na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+Observa-se que o presente recurso não merece prosperar, tendo em vista que, dos argumentos apresentados no agravo interno, não se vislumbram razões para reformar a decisão agravada.
+Isso porque, consoante bem delineado na referida decisão, ajurisprudência desta Corte éno sentido de que a ausência de indicação do dispositivo legal objeto de interpretação divergente configura deficiência na fundamentação recursal, o que impede o conhecimento do apelo nobre interposto com amparo no art. 105, III, c, da Constituição Federal. Incidência da Súmula 284/STF. Nesse sentido: AgInt no REsp 1.624.206/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe 15/12/2016; AgInt no REsp 1.622.220/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 15/12/2016; AgRg no AREsp 682.625/PE, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 25/11/2016; AgInt no AREsp 842.727/RN, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 6/10/2016.
+Dessa forma, como os agravantes permaneceram silentes a respeito de qual seria o dispositivo objeto da divergência, limitando-se a assentar que "consta no teor das razões recursais a menção expressa de todos os dispositivos legais", deve ser mantido o texto do referido enunciado sumular.
+Noutro passo, no que tange à Súmula 7/STJ, aplicada em função do fato de que os próprios agravantes destacaramdiversas sutilezas de ordem fático-probatória, notadamente às e-STJ, fls. 420-421, necessárias ao provimento do pleito, conclui-se que seu desfecho não deve ser diferente, haja vista que, apesar de os agravantes sobrelevarem a existência de fatos incontroversos, mais uma vez, omitem-se em apontar, com precisão, quais seriam tais fatos ou provas passíveis de revaloração.
+Em assim sendo, como não há indicação de quais seriam as premissas incontroversas ou de que outra forma o pleito não revolveria fatos e provas, mas apenas a existência de razões vagas e genéricas, deve ser mantido o teor da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
