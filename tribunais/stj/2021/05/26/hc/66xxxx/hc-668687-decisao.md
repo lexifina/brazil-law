@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor deClaudio Adriano Santos de Arruda(PEC n. 1015839-88.2020.8.26.0344), em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Agravo de Execução Penal n. 0010203-61.2020.8.26.0344).
+Narra-se que o Juízo de origem deferiu aopaciente o livramento condicional. Irresignado, o Ministério Público recorreu, tendo o Tribunal estadual cassado a decisão impugnada e determinado a realização de exame criminológico (fls. 68/70).
+Daí a presente impetração, em que se busca o imediato restabelecimento do livramento condicional, cassando-se o acórdão da Cortelocal, sob o argumento de que,presente os demais requisitos, a duração da pena e a gravidade do delito não podem impedir o livramento condicional, mormente o bom comportamento carcerário e condições subjetivas reconhecidas nas avaliações social e psicológica. Assim, admitir que a duração da pena possa impedir a progressão do regime, sem qualquer outra justificativa, é criar óbice que não foi previsto pelo legislador(fl. 14).
+É o relatório.
+Da análise dos autosverifico a existência de nítido constrangimento ilegal a ser sanado, o que autoriza a concessão da ordemin limine.
+Eis o que disse a Corte local para cassar o benefício anteriormente deferido e determinar a submissão dopaciente a exame criminológico (fls. 69/70-grifo nosso):
+ ..
+Em que pese o bom comportamento carcerário (fls. 7), CLÁUDIO resgata pena corporal por crime grave (homicídio qualificado), cujo término de cumprimento está previsto apenas para 17/4/2027 (fls. 8).
+Como se não bastasse, registra, ainda que reabilitada, uma falta disciplinar de natureza grave (fls. 10), carecendo, portanto, de comprovação de completa assimilação da terapêutica penal para galgarlivramento condicional, o que somente poderá ser aquilatado com a realização de exame criminológico.
+Neste ponto, é sabido que a LEP, art. 112 - com redação dada pela Lei nº 10.792/03 - a despeito de afastar a obrigatoriedade da realização deste tipo de perícia, não a impediu, sempre que necessário, de acordo com a Súmula/STJ, nº 439 - delitos cometidos com violência ou grave ameaça ou quando o agente demonstrar uma elevada periculosidade na execução do crime - o que é o caso, mormente porque, após ser beneficiado com o regime mais brando em 2017, foi novamente preso em flagrante em 2019, o que motivou a sustação do aberto (PEC nº 613.989).
+Como se sabe, a execução penal é regida pelo princípio do in dubio pro societate, ou seja, a dúvida plausível acerca do mérito do condenado em obter o benefício, deve ser resolvida em favor da sociedade, que não pode ser obrigada a conviver com a insegurança.
+Diante do exposto, dá-se provimento ao agravo, para cassar a decisão concessiva de livramento condicional, determinando-se o seu retorno ao regime que cumpria pena, condicionando-se, eventual futura reapreciação, à realização de exame criminológico.
+Como se vê, o Tribunalde origem motivou a exigência do exame pericial, essencialmente, na gravidade docrimepraticadoe na existência de faltagravecometidahá muito tempo (28/7/2003 - fl. 25).
+Ocorre que, segundo a nossa jurisprudência, tal motivação não é suficiente para obstar o deferimento do almejado benefício. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. DETERMINAÇÃO DO EXAME CRIMINOLÓGICO PARA AFERIÇÃO DO MÉRITO DO SENTENCIADO. GRAVIDADE ABSTRATA DO DELITO E LONGEVIDADE DA PENA. FUNDAMENTAÇÃO INIDÔNEA. FUGA COMETIDA NO CUMPRIMENTO DE EXECUÇÃO ANTERIOR. IRRELEVÂNCIA. NÃO APRESENTAÇÃO DE ARGUMENTOS NOVOS PELO AGRAVANTE PARA INVALIDAR A DECISÃO AGRAVADA. MANUTENÇÃO POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Esta Corte Superior é firme no entendimento de que a longevidade da pena e a gravidade do delito não são aptos, por si só, a fundamentar a exigência de realização do exame criminológico ou a negativa de concessão de benefícios, porquanto o que se exige do reeducando é que demonstre seu mérito no curso da execução de sua pena.
+2. Consolidou-se neste Tribunal diretriz jurisprudencial no sentido de que faltas graves antigas, já reabilitadas pelo decurso do tempo, não justificam o indeferimento da progressão de regime prisional (HC n. 544.368/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/12/2019).
+3. In casu, o agravante não apresentou argumentos novos capazes de infirmar aqueles que alicerçaram a decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos.
+4. Agravo regimental improvido.
+(AgInt no HC n.554.750/SP, de minha relatoria, Sexta Turma, DJe 30/6/2020 - grifo nosso)
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. FALTA DISCIPLINAR REABILITADA, GRAVIDADE ABSTRATA DO DELITO E NECESSIDADE DE PRÉVIA PROGRESSÃO AO REGIME INTERMEDIÁRIO. FUNDAMENTAÇÃO INIDÔNEA. CONFIRMADA A MEDIDA LIMINAR. ORDEM CONCEDIDA.
+1. O art. 83 do Código Penal - com redação dada pela Lei n.13.964/2019, - fez incluir o bom comportamento (não somente satisfatório, como disposto na redação antiga) durante a execução da pena, além do não cometimento de falta grave nos últimos doze meses, para a concessão do livramento condicional.
+2. Conforme entendimento jurisprudencial e a novel legislação, não é possível atribuir efeitos eternos às faltas graves praticadas pelo apenado, o que constituiria ofensa ao princípio da razoabilidade e ao caráter ressocializador da pena.
+3. Na espécie, a falta grave foi cometida em 21/09/2018 pelo Paciente - durante o cumprimento da reprimenda imposta pela prática do delito previsto no art. 157, § 2.º, inciso II, c.c. o art. 70, caput, ambos do Código Penal, que teve seu comportamento atual classificado como bom no exame criminológico.
+4. Ordem habeas corpus concedida para determinar que o pleito de livramento condicional seja reavaliado, desconsiderando a gravidade abstrata do delito cometido, a falta disciplinar praticada em 21/09/2018 e a necessidade de prévia progressão ao regime intermediário, confirmada a medida liminar.
+(HC n. 592.587/SP, Ministra LAURITA VAZ, SEXTA TURMA, julgado em 18/8/2020, DJe 2/9/2020 - grifo nosso)
+À vista do exposto,concedo liminarmentea ordem para cassar o acórdão hostilizado e restabelecer a decisão do Juízo da execução que concedeu o livramento condicional ao ora paciente.
+Intime-se o Ministério Público estadual desta decisão.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO DA PENA.LIVRAMENTO CONDICIONAL. CASSAÇÃO DO BENEFÍCIO. EXIGIDO O EXAME CRIMINOLÓGICO EM RAZÃO DA GRAVIDADE DOSCRIMES PRATICADOSE DA EXISTÊNCIA DE FALTAGRAVECOMETIDAHÁ MUITO TEMPO. MOTIVAÇÃO INIDÔNEA. PRECEDENTES. MANIFESTA ILEGALIDADE.
+Ordem concedida liminarmente nos termos do dispositivo.
