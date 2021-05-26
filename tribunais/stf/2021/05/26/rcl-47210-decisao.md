@@ -1,0 +1,30 @@
+Trata-se de reclamação com pedido de liminar proposta pelo Município de Mogi das Cruzes/SP contra acórdãos proferidos pelo Tribunal Regional do Trabalho da 2ª Região (TRT2) e pelo Tribunal Superior do Trabalho (TST) nos autos do Processo 1001414-52.2018.5.02.0374, por suposto desrespeito à Súmula Vinculante 4.
+    O reclamante sustenta, em síntese, que os atos reclamados violaram o referido verbete sumular ao determinar que o adicional de insalubridade de servidor público municipal, o qual deveria ter por base o salário mínimo, fosse calculado sobre o seu salário básico.
+    Ademais, defende que os acórdãos combatidos, apesar de não o fazerem expressamente, aplicaram o entendimento, já reconhecido como inconstitucional, da Súmula 288/TST, com redação dada pela Resolução 148/2008-TST.
+    É o relatório necessário. Decido.
+    Bem examinados os autos, vê-se que a pretensão merece acolhida.
+    Na espécie, sustenta-se a existência de afronta à Súmula Vinculante 4, abaixo transcrita:
+    “Salvo nos casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial.” (grifei)
+    Os acórdãos reclamados foram assim ementados:
+     “SERVIDOR ADMITIDO SOB O REGIME DA CLT. ADICIONAL DE INSALUBRIDADE. BASE DE CÁLCULO. APLICAÇÃO DO SALÁRIO-BASE. POSTERIOR MODIFICAÇÃO PARA O SALÁRIO MÍNIMO. ALTERAÇÃO CONTRATUAL UNILATERAL E LESIVA. ARTIGO 468 DA CLT. É incontroverso nos autos que o reclamante foi admitido antes de 24/08/2018, e que recebia o adicional de insalubridade computado sobre seu salário base, tendo em vista a função por ele exercida e a previsão contida na Lei 2.986/1986 e a Lei 3.001/1986. Assim, as disposições da Lei 7.374/2018, que revogou expressamente os diplomas anteriores, só se aplicam para os empregados contratados após sua entrada em vigor. Recurso do reclamante ao qual se dá provimento.” (documento eletrônico 5 – grifos no original)
+    “RECURSO DE REVISTA.
+    APELO INTERPOSTO NA VIGÊNCIA DA LEI Nº 13.467/2017. TRANSCENDÊNCIA. NÃO CONFIGURAÇÃO. ADICIONAL DE INSALUBRIDADE. BASE DE CÁLCULO. APLICAÇÃO DO SALÁRIO-BASE. NÃO CONHECIMENTO.
+    Esta Corte Superior tem entendimento no sentido de que quando o empregador paga deliberadamente o adicional de insalubridade sobre o salário base do empregado, não há falar em substituir referido índice pelo salário mínimo, em obediência ao comando da Súmula Vinculante nº 4 do STF.
+    Isso porque, em situações nas quais o índice já foi definido pelo próprio empregador, por liberalidade da empresa, qualquer modificação por base de cálculo diversa restaria configurada alteração contratual lesiva, prevista no artigo 468 da CLT, além de afronta aos princípios constitucionais da irredutibilidade salarial e do direito adquirido. Precedentes de Turmas e da SBDI-1.
+    No presente caso, o egrégio Tribunal Regional registrou que o ente público reclamado já pagava o adicional de insalubridade, porém em grau médio, calculado sobre o salário básico do empregado. Dessa forma, entendeu que o adicional de insalubridade deve continuar a observar como base de cálculo o salário base do reclamante.
+    Considerando, portanto, que o v. acórdão regional está em conformidade com a atual, iterativa e notória jurisprudência desta Corte Superior, o conhecimento do recurso de revista encontra óbice na Súmula nº 333.
+    A incidência, pois, do óbice preconizado na Súmula nº 333 é suficiente para afastar a transcendência da causa, uma vez que inviabilizará a aferição da existência de eventual questão controvertida no recurso de revista, e, por conseguinte, não serão produzidos os reflexos gerais, nos termos previstos no § 1º do artigo 896-A da CLT.
+    Recurso de revista de que não se conhece.” (documento eletrônico 4 – grifos no original)
+    Primeiro, saliento que a questão jurídica central a qual fundamentou os acórdãos reclamados foi a interpretação do art. 468 da CLT, matéria certamente não tratada pela Súmula Vinculante 4.
+    Assim, entendo que não há estrita aderência entre as decisões reclamadas e o paradigma apontado, requisito indispensável para o cabimento de reclamação, segundo a jurisprudência pacífica desta Corte.
+    Por outro lado, verifico que o reclamante busca a aplicação ao presente caso de uma jurisprudência firmada para casos evidentemente diversos.
+    A jurisprudência do Supremo Tribunal Federal (STF) entende que, apesar de ser inconstitucional a vinculação do adicional de insalubridade ao salário mínimo, o Poder Judiciário não pode substituir sua base de cálculo por meio de decisão judicial, nos termos do já mencionado enunciado sumular.
+    E justamente porque o Judiciário não pode substituir a base de cálculo do adicional de insalubridade, por meio de decisão judicial, é que esta Suprema Corte permite, nos casos em que ele já vinha sendo pago com base no salário mínimo, que assim continue, apesar de tratar-se de vinculação inconstitucional, até que o Poder Legislativo competente regule a matéria de forma diversa.
+    Com base nesses fundamentos, inclusive, é que proferi as decisões monocráticas mencionadas na exordial, a respeito da inconstitucionalidade da Súmula 288/TST, com redação dada pela Resolução 148/2008-TST.
+    Situação inteiramente diversa é a do Município reclamante, que pagava ao beneficiário das decisões reclamadas o adicional de insalubridade de acordo com critério compatível com a Constituição, estabelecido pela legislação municipal, e, após a Lei Municipal 7.374/2018, pretendeu passar a pagá-lo em desacordo com a Carta Maior e em desrespeito à Súmula Vinculante 4.
+    O que pretende o reclamante, em última análise, é fazer uso do instrumento processual da reclamação como sucedâneo recursal, finalidade essa que se revela estranha à sua destinação constitucional (Rcl 4.381-AgR/RJ, Rel. Min. Celso de Mello, Tribunal Pleno).
+    Isso posto, nego seguimento a esta reclamação (art. 21, § 1°, do RISTF). Em consequência, fica prejudicado o exame do pedido de liminar.
+    Publique-se.
+    Brasília, 26 de maio de 2021.
+Ministro Ricardo Lewandowski
+Relator
