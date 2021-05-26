@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão assim ementada (fl. 816):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ICMS. RESPONSABILIDADE. SUBSTITUIÇÃO TRIBUTÁRIA. ACÓRDÃO COM FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA 283/STF. MULTA. RAZOABILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A agravante alega que enquanto se aguardava o julgamento do agravo em recurso especial pelo STJ, o dispositivo legal fundamentador da multa aplicada foi alterado pelo art. 1º, inc. I, "c", do Decreto 62.761/2017, que reduziu o percentual da multa aplicada sobre as infrações pela falta de pagamento do imposto, em hipótese não prevista nas demais alíneas do inc. I, de 150% para 100% do valor do imposto. Assim, em havendo lei posterior que altera lei anterior para instituir penalidade mais benéfica ao contribuinte, ou mesmo suprimi-la do ordenamento, ocorre o fenômeno da retroatividade benigna, previsto no art. 106 do CTN, o qual permite a sua aplicação retroativa, desde que os atos ou fatos pretéritos não tenham sido definitivamente julgados, sendo este o caso dos autos, de modo que há nova delimitação da lide, com redução da multa discutida. Trata-se de fato novo superveniente que deve ser reconhecido.
+Quanto à decisão agravada, afirma a inaplicabilidade da Súmula 283/STF porque "(..) todo o argumento deduzido pela Agravante em suas razões recursais visa afastar o entendimento que prevaleceu perante o Tribunal a quo, demonstrando que, independentemente do objeto social da adquirente dos veículos, não seria possível presumir que os veículos vendidos à Sulivan seriam por ela revendidos.". (fl. 833), já que não se trata de concessionária sua. Afirma que "(..) as únicas operações de vendas de veículos na qual existe a presunção de que ocorrerá nova circulação dos veículos são aquelas feitas pelas montadoras a uma de suas concessionárias (..)." (fl. 835), conforme a Lei Ferrari. Acrescenta que "A lei não confere às montadoras de veículos a responsabilidade de fiscalizar as operações de venda que realiza. Prevê, apenas, que retenha e recolha o ICMS-ST nos casos em que seja presumível a revenda dos veículos, e já se demonstrou nos autos que a Agravante, de boa-fé, acreditou trata-se de uma locadora de veículos que lhe afirmou que a aquisição dos veículos se destinava ao seu ativo fixo." (fl. 838).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+VOTO
+De início, assevero queo STJ possui firme entendimento no sentido de ser incabível inovação recursal, em agravo interno, com base em alegação de fato novo. Precedentes: STJ, AgRg no AREsp 761.207/RJ, relator Ministro Humberto Martins, Segunda Turma, DJe de 29/4/2016; AgRg no Ag 1.424.188/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 23/2/2012; AgInt nos EDcl no MS 24.834/DF, relator Ministro Herman Benjamin, Primeira Seção, julgado em 1º/9/2020, DJe 9/9/2020.
+Ademais, adecisão agravada conheceu do agravo para não conhecer do recurso especial porque incidentes à hipótese as Súmulas 283/STF e 7/STJ.
+Ocorre que o agravante não impugnou, especificamente, nenhum dos fundamentos da decisão, razão pela qual impõe-se a incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se: AgInt no RE no AgRg no AREsp 786.603/RJ, Rel. Min. Humberto Martins, Corte Especial, DJe 18/10/2016; AgRg nos EREsp 1.424.371/SC, Rel. Min. Humberto Martins, Primeira Seção, DJe 20/4/2016; AgRg na Rcl 20.329/SC, Rel. Min. Napoleão Nunes Maia Filho, Primeira Seção, DJe 12/11/2014; AgInt no AREsp 884.901/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 27/5/2016; AgRg no AREsp 569.843/PE, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 11/11/2015; AgRg nos EDcl no AREsp 540.188/GO, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 13/10/2015; AgInt no AREsp 873.251/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 30/5/2016; AgInt no AREsp 866.675/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 25/5/2016; e AgRg no REsp 1.463.385/RN, Rel. Min. Og Fernandes, Segunda Turma, DJe 22/10/2015.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
