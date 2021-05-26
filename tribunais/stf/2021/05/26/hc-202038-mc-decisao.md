@@ -1,0 +1,36 @@
+D E C I S Ã O
+    Trata-se de habeas corpus impetrado contra acórdão do Superior Tribunal de Justiça que está assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. GARANTIA DA ORDEM PÚBLICA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. RISCO DE REITERAÇÃO DELITIVA. APREENSÃO DE EXPRESSIVA QUANTIDADE DE DROGAS. REVISÃO DE OFÍCIO. PRISÃO PREVENTIVA. ÓRGÃO EMISSOR DA DECISÃO. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+    1. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+    2. São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente.
+    3. A revisão de ofício da necessidade de manutenção da prisão cautelar a cada 90 dias (art. 316, parágrafo único, do CPP) cabe tão somente ao órgão emissor da decisão, ou seja, ao juiz ou tribunal que decretou a custódia preventiva.
+    4. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+    5. Agravo regimental desprovido.”
+    (HC 657.123-AgRg/PE, Ministro João Otávio de Noronha)
+    Em suas razões, a parte impetrante, em síntese, pretende a concessão do direito do paciente de recorrer em liberdade em virtude da inidoneidade dos fundamentos da decisão que manteve a prisão preventiva, bem como inobservância do art. 316, parágrafo único, do Código de Processo Penal que preceitua a necessidade de reavaliação da prisão preventiva a cada 90 dias.
+    Inicialmente, insta destacar a autorização regimental deste Supremo Tribunal Federal para o julgamento imediato do presente feito pelo Relator, independentemente de prévia manifestação do Ministério Público Federal (RISTF, arts. 21, §1º e art. 52, parágrafo único).
+    Tal o contexto, entendo não assistir razão à parte impetrante.
+    Não se desconhece que a decretação da prisão preventiva é medida excepcional, sendo regra que o réu possa responder o processo em liberdade (HC 90.753/RJ, Ministro Celso de Mello).
+    Assim, para a restrição da liberdade de alguém antes do trânsito em julgado da sentença penal condenatória, impõe-se a presença, no momento da decretação dessa medida cautelar, dos pressupostos (materialidade, indícios de autoria e perigo gerado com o estado de liberdade) e dos requisitos e/ou fundamentos previstos nos arts. 312 e 313 do CPP.
+    Uma vez demonstradas pelo magistrado a real necessidade dessa medida cautelar e a presença dos pressupostos e requisitos que venho de referir, a decretação da prisão preventiva estará devidamente fundamentada, sem que se possa alegar que essa prisão processual violaria o princípio da presunção de inocência.
+    Fixadas tais premissas, observo que, no caso em exame, como bem ressaltou o Superior Tribunal de Justiça, ao destacar a quantidade e natureza da droga apreendida (144 pedras de crack), a decisão que decretou a prisão preventiva do ora paciente deixou evidenciada a gravidade concreta da conduta alegadamente por ele praticada.
+    O Supremo Tribunal Federal, em precedentes de ambas as Turmas, tem reconhecido a idoneidade da segregação cautelar fundada na garantia da ordem pública, quando demonstrada a periculosidade social do agente evidenciada pela natureza e quantidade da droga apreendida (HC 104.934/MT, Relator para o acórdão Ministro Luiz Fux; HC 112.090/RJ, Relatora para o acórdão Ministra Rosa Weber; HC 134.307-AgR/SP, Ministro Dias Toffoli; HC 138.213/MG, Ministro Ricardo Lewandowski; HC 158.276/RJ, Ministro Marco Aurélio; HC 177.678-AgR/MG, Ministro Alexandre de Moraes):
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA.
+    1. Prisão preventiva decretada forte na garantia da ordem pública, presentes as circunstâncias concretas reveladas nos autos. Precedentes.
+    2. A natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem prisional. Precedentes.
+    3. Agravo regimental conhecido e não provido. ”
+    (HC 193.603-AgR/SP, Ministra Rosa Weber – com meus grifos)
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NEGATIVA AO RECURSO EM LIBERDADE. PRESSUPOSTOS PARA A PRISÃO PREVENTIVA. NATUREZA E QUANTIDADE DAS DROGAS APREENDIDAS. FUNDAMENTAÇÃO IDÔNEA. PEDIDO MANIFESTAMENTE CONTRÁRIO À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    (HC 189.680-AgR/SC, Ministra Cármen Lúcia – com meus grifos)
+    Com efeito, com base nos elementos concretos apontados pelas instâncias ordinárias, entendo insuficientes as medidas cautelares diversas da prisão.
+    De outro lado, quanto ao alegado complemento de fundamentação realizado pelo tribunal a quo, quando da manutenção da prisão preventiva do paciente, reputo inadmissível o presente habeas corpus, eis que o acórdão impugnado não apreciou, no ponto, a pretensão formulada pela parte impetrante.
+    Esta Suprema Corte consolidou sua jurisprudência no sentido de não se conhecer de habeas corpus, quando as razões apresentadas pela parte impetrante não houverem sido apreciadas pelo Tribunal apontado como coator, por caracterizar-se inadmissível supressão de instância, conforme firme entendimento deste Supremo Tribunal Federal (HC 192.077-AgR, Ministra Cármen Lúcia; HC 157.575-AgR, Ministro Dias Toffoli; HC 164.611-AgR, Ministro Edson Fachin; HC 190.387/RN, Ministro Gilmar Mendes; HC 189.201-AgR/SC, Ministro Luiz Fux; HC 190.319-AgR/RJ, Ministro Ricardo Lewandowski; HC 188.702- -AgR/SE, Ministro Roberto Barroso).
+    Finalmente, melhor sorte não socorre a parte impetrante, em relação à pretendida revogação da prisão preventiva em decorrência de suposta violação ao art. 316, parágrafo único, do CPP.
+    É que o Supremo Tribunal Federal firmou entendimento no sentido de que a inobservância da reavaliação no prazo de 90 dias, previsto no artigo 316, parágrafo único, do CPP, com a redação dada pela Lei nº 13.964/2019, não resulta na revogação automática da prisão preventiva (SL 1.395/SP, Ministro Presidente).
+    Assim, caberá ao juízo competente, analisando o caso concreto, reavaliar a legalidade e a atualidade dos fundamentos da prisão preventiva decretada.
+    Desse modo, não vislumbro a ocorrência de ilegalidade na manutenção da prisão preventiva do paciente.
+    Em face do exposto, conheço, em parte, do presente pedido de habeas corpus e, nessa parte, indefiro o pedido de habeas corpus.
+    Intime-se. Publique-se. Arquive-se.
+    Brasília, 26 de maio de 2021.
+Ministro NUNES MARQUES
+Relator
