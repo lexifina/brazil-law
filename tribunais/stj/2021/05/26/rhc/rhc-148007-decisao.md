@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CRISTIANO SCHUAIGERT DOS SANTOS contra acórdão do Tribunal de Justiça do Estado do Paraná (HC n.º 0017003-15.2021.8.16.0000).
+Infere-se dos autos que o recorrente foi preso em flagrante em 14/2/2021, custódia convertida em preventiva, por suposta infração aos art. 33, caput e 35, ambos da Lei n.º 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem, nos termos da seguinte ementa (e-STJ fl. 96):
+HABEAS CORPUS - TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS (ARTIGOS 33 E 35 DA LEI N.º11.343/06) - ALEGADO CONSTRANGIMENTO ILEGAL - PLEITO DE CONCESSÃO DE MEDIDAS DIVERSAS DO CÁRCERE ANTE AO CRESCIMENTO ACELERADO DO NOVOCORONAVÍRUS (COVID-19) - MATÉRIA NÃO ANALISADA PELO MAGISTR.-IDO "A QUO" - IMPOSSIBILIDADE DE CONHECIMENTO ANTE SUPRESSÃO DE INSTÂNCIA - ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO - PRISÃO PREVENTIVA DECRETADA COM FUNDAMENTO NAS HIPÓTESES CONTIDAS NO ARTIGO 312, DO CÓDIGO DE PROCESSO PENAL - GRAVIDADE DO DELITO E PERICULOSIDADE DO AGENTE DEMONSTRADAS - DECRETO CAUTELAR DEVIDAMENTE FUNDAMENTADO NA GARANTIA DA ORDEM PÚBLICA - CONDIÇÕES PESSOAIS FAVORAVEIS - IRRELEVÂNCIA - IMPOSSIBILIDADE DE APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL - NECESSIDADE DE MANUTENÇÃO DA PRISÃO PREVENTIVA - ORDEM PARCIALMENTE CONHECIDA E, NESTA PARTE, DENEGADA.
+Nas razões do presente recurso, adefesa alega, em síntese, que a segregação cautelar é ilegítima, devido à ausência de fundamentação idônea quanto ao fumus comissi delicti e ao periculum libertatis.
+Argumenta que as instâncias ordinárias não apresentaram indícios de que a droga estivesse destinada ao comércio e destaca que já cumpriu a pena que configurou a reincidência, além de possuir trabalho lícito, residência fixa e filha recém-nascida.
+Em liminar e no mérito, pede o relaxamento da prisão cautelar.
+É o relatório. Decido.
+De plano, verifico que nesta Corte, também, houve a impetração do HC n.º 665.834/PR, em favor doora recorrente, requerendo, igualmente, a revogação do decreto prisional, sob os mesmos fundamentos ora apresentados e apontando o mesmo ato coator (HC n.º 0017003-15.2021.8.16.0000), sendo que a ordem, recentemente, não foi conhecida em 13/5/2021, por não haver constrangimento a ser sanado por esta Corte.
+Assim, por se tratar de mera reiteração, o presente recurso não merece ser conhecido. Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N.º 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n.º 316.928/GO, DE MINHA RELATORIA, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015.
+2. Agravo regimental improvido (AgRg no RCD no HC n.º 329.224/GO, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 1º/9/2015, DJe 22/9/2015).
+Ante o exposto, nego seguimento ao presente recurso.
+Intimem-se.
