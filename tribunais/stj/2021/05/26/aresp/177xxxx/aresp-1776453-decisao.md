@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por JUCELINO LIMA SOARES, com fundamento naalíneaa do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de Goiás assim ementado (e-STJ, fl. 1.263):
+AGRAVO DE INSTRUMENTO. AÇÃO DE RECUPERAÇÃO JUDICIAL. FORO COMPETENTE. LOCAL DO PRINCIPAL ESTABELECIMENTO. MAIOR VOLUME DE NEGÓCIOS. VALOR ATRIBUÍDO À CAUSA.
+1. Nos termos do artigo 3º da Lei federal nº 11.101/2005 "é competente para homologar o plano de recuperação extrajudicial, deferir a recuperação judicial ou decretar a falência o juízo do local do principal estabelecimento do devedor ou da filial de empresa que tenha sede fora do Brasil".
+2. A definição de principal estabelecimento está ligada ao aspecto econômico: é o local onde o devedor concentra o maior volume de negócios, o qual, não necessariamente coincide com o local da sede da empresa ou do seu centro administrativo.
+3. Tratando-se de ação de recuperação judicial, o valor da causa necessita guardar relação de equivalência com a soma de todos os créditos sujeitos a seus efeitos.
+4. Entretanto, a apuração do aludido montante somente deve ser feito após a prolação da sentença que decreta o encerramento da recuperação judicial. AGRAVO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 405-409).
+No recurso especial, orecorrente apontou violação aos arts. 11, 489, § 1º,I e IV, e 1.022, parágrafo único, I e II,do CPC/2015. Esclareceu que se opôs ao acórdão que firmou a competência do Juízo da Comarca de Goiânia/GOpara a apreciação da recuperação judicial da agravada.
+Arguiu omissão do julgado no tocante à correta aplicação doart. 3º da Lei n. 11.101/2005. Nesse contexto, frisou que as principais atividades econômicasda construtora agravada se encontram no Distrito Federal e, além disso, é nesse local que os proprietários ostentam intensa vida social, fatores que, se tivessem sido considerados pelo acórdão, demandariam a apreciação no plano recuperacional no Distrito Federal.
+No ponto, informou que nem sequer foi analisada aparticipação acionária da recorrida na empresa Novo Terminal de Infra Estrutura e Administração S.A., a demonstrar a capacidade econômica da agravada no Distrito Federal, e não no Estado de Goiás.Pleiteou oafastamento desses pontos omissos elencados e, consequentemente, o provimento do recurso especial(e-STJ, fls. 1.299-.1.322).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 1.396-1.411).
+Contraminuta apresentada (e-STJ, fls. 1.419-1.438 e 1.442-1.447).
+Brevemente relatado, decido.
+Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 11, 489, § 1º, I e IV, e 1.022, parágrafo único, I e II,do CPC/2015.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+Consoante o aresto da segunda instância,conquanto a matriz e o domicílio bancário da Construtora Artec S.A. estejam localizadas no Distrito Federal, seu maior volume de negócios, em termos de quantidade e de valor econômico,encontram-se no Estado de Goiás. Além disso, ao contrário do que alegou o insurgente, os sócios da empresa em recuperação judicial residiriam em Goiânia/GO.
+Veja-se (e-STJ, fls. 1.257-1.258):
+Na espécie, conquanto a matriz e o domicílio bancário da CONSTRUTORA ARTEC S/A estejam localizadas no Distrito Federal, seu maior volume de negócios, em termos de quantidade e de valor econômico se encontram localizados no Estado de Goiás.
+No item 2.4.2 do Plano de Recuperação Judicial (evento nº 95 dos autos de origem) é possível se observar que a construtora agrava possui diversos contratos públicos em andamento, localizados em diversos Estados, como Minas Gerais, Mato Grosso, Goiás, Sergipe, São Paulo e Maranhão.
+Contudo, apenas um dos diversos empreendimentos em andamento está localizado em Brasília, uma vez que como demonstrado no evento nº 16, p. 1.015/1.018, as avenças firmadas com a Companhia de Saneamento Ambiental do Distrito Federal (CAESB) foram rescindidas.
+Por outro lado, no Estado de Goiás, estão em andamento 7 (sete) obras de valor vultoso valor, sendo 03 (três) em Águas Lindas, 01 (uma) em Senador Canedo, 02 (duas) em Anápolis e 01 (uma) em Goiânia.
+Aliás, os sócios da empresa em recuperação residem nesta Capital, e aqui se localiza uma filial da sociedade, extraindo-se, daí, que a maior parte das decisões administrativas são aqui tomadas.
+Portanto, como bem ponderou o ilustre juiz de primeiro grau a empresa "possui filial em GOIÂNIA, E OBRAS EM ALGUNS MUNICÍPIOS DESTE ESTADO, e no relatório apresentado pelo nobre Administrador Judicial, não apareceu nenhuma obra da recuperanda no Distrito Federal" (evento nº 68, p. 1.115).
+Essas ponderações foram fundadas na apreciação fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, na extensão conhecida, negar-lheprovimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE RECUPERAÇÃO JUDICIAL. OMISSÃO OU CONTRADIÇÃO NÃO VERIFICADAS. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. CONCLUSÃO NO SENTIDO DE QUE O MAIOR VOLUME DE BENS DA EMPRESA EM RECUPERAÇÃO JUDICIAL SE ENCONTRARIA NO ESTADO DE GOIÁS. ENTENDIMENTO FUNDADO NA APRECIAÇÃO FÁTICA DA CAUSA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NA EXTENSÃO CONHECIDA, NEGAR-LHE PROVIMENTO.
