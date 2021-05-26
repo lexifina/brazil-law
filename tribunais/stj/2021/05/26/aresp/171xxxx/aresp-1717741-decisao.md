@@ -1,0 +1,25 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por EDEMILSON PASQUALOTTO DA PAIXAOcontra decisão do Tribunal de Justiça do Mato Grossoque inadmitiu o recurso especial.
+É o relatório.
+O presente recurso não pode ser conhecido em virtude da ausência de impugnação específica dos fundamentos da decisão agravada.
+Isso porque, em atenção ao princípio da dialeticidade, para impugnar a decisão que inadmite o recurso especial, faz-se necessário apresentar argumentação específica, adequada às particularidades do caso concreto.
+Com efeito, o Tribunal de origem não admitiu ao recurso especial por entender que a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, motivo pelo qual foi aplicada a Súmula 7/STJ.
+Do exame do agravo em recurso especial, verifica-se que oagravante nãoimpugnou os fundamentos da decisão agravada..
+Nas razões deste recurso, o agravante afirmou que "em momento algum pugnou para que fosse revista qualquer matéria já decidida dentro dos autos como também para análise de provas". Assevera que o Tribunal a quo não teria enxergado "a falta de literalidade do documento que foi usado como título executivo extrajudicial para propositura da ação executiva". Entende que "não se trata de revolver matéria e provas que já foram vistas e revistas, TRATA-SE DA REVALORAÇÃO DAS PRODUZIDAS, vez que o v. acórdão, com o devido respeito, não adentrou ao mérito propriamente dito, não fundamentou a negativa de provimento, embasou-se apenas no que o Juízo de piso sentenciou, não disse da VALIDADE OU NÃO DO DOCUMENTO USADO COMO TÍTULO EXECUTIVO EXTRAJUDICIAL".
+Tais razões, todavia, além de inaptas a impugnar o fundamento da decisão agravada, acabam por confirmá-lo.
+Aplica-se a Súmula 7/STJ aos casos em que a análise da pretensão recursal demande o revolvimento do quadro fático-probatório dos autos. Destarte, a fundamentação recursal deve adotar como premissa as conclusões a que o Tribunal de origem tenha chegado com a análise das provas e fatos constantes nos autos para que o recurso possa ser conhecido.
+Ao partir de conclusão diversa da esposada pelo Tribunal de origem para fundamentar a alegação de violação à legislação federal ou de dissídio jurisprudencial, para que se possa verificá-las, o recorrente torna imprescindível o reexame da matéria fática para que se possa averiguar a veracidade da premissa, atribuindo a este Tribunal papel que não lhe cabe.
+Não se olvida que a discussão sobre prova tem sido admitida nos casos em que se pretenda atribuir qualificação jurídica diversa aos fatos narrados no acórdão, mas para tanto é necessário que seja indicada uma qualificação jurídica que deva ser atribuída a fato ou prova específico, demonstrando-se o equívoco do Tribunal de origem ao atribuir qualificação jurídica diversa ao mesmo fato ou prova.
+Assim, a impugnação deste fundamento pressupõe uma estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica atribuída pelo Tribunal de origem e a qualificação jurídica que lhes deveria ter sido efetivamente atribuída.
+Não é o que se observa na espécie.
+A bem da verdade, ao consignar que seria "incompreensível que esta demanda tenha chegado até Este Colendo Superior Tribunal de Justiça, para se decidir sobre um fato", o próprio agravante torna incontroverso que a reforma do acórdão recorrido decorreria da desconstituição do substrato fático considerado pelo Tribunal a quo, não da atribuição de qualificação jurídica distinta àquilo que fora admitido como verdadeiro pelo Tribunal a quo.
+Note-se que se o Tribunal a quo "não disse da VALIDADE OU NÃO DO DOCUMENTO USADO COMO TÍTULO EXECUTIVO EXTRAJUDICIAL", a pretensão incontestavelmente demandará a apreciação de elementos externos ao acórdão, prática vedada pela Súmula 7/STJ.
+Destarte, em consonância com o princípio da dialeticidade recursal, não conhecer do presente recurso especial é medida que se impõe.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que o Tribunal de origem fixou a verba honorária em 15% sobre o valor atualizado da causa(e-STJ fls. 497), em benefício do patrono da parte recorrida, a majoração dos honorários devidos pela parte ora recorrente para 17% sobre o valor atualizado da causa é medida adequada ao caso, observada a eventual anterior concessão da gratuidade judiciária.
+Ante o exposto, não conheço do agravo em recurso especial, com majoração de honorários.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL (CPC/15). AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/15.
+AGRAVO NÃO CONHECIDO.
