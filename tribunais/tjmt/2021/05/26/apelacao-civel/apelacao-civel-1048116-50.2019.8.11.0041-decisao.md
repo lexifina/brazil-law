@@ -1,0 +1,82 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial em Apelação Cível n. 1048116-50.2019.8.11.0041
+RECORRENTE: IUNI UNIC EDUCACIONAL LTDA
+RECORRIDO: GUILHERME DE CAMPOS BORGES RANGEL
+Vistos, etc.
+Trata-se de Recurso Especial (ID 75888465) interposto por IUNI UNIC EDUCACIONAL LTDA, com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra acórdão da Terceira Câmara de Direito Privado, assim ementado (ID 63356461):
+PELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS – ACADÊMICO DE CURSO DE MEDICINA BENEFICIÁRIO DE FINANCIAMENTO ESTUDANTIL (FIES) DE 90% DO VALOR DO CURSO – INSTITUIÇÃO DE ENSINO SUPERIOR QUE PROMOVE AUMENTO DA MENSALIDADE EM PERCENTUAL SUPERIOR AO PREVISTO NO CONTRATO ASSINADO ENTRE O ALUNO E O ENTE GOVERNAMENTAL RESPONSÁVEL PELO FINANCIAMENTO ESTUDANTIL (FIES) – INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR – UNIVERSIDADE QUE ACEITOU O ALUNO SABENDO DA EXISTÊNCIA DO FINANCIAMENTO ESTUDANTIL – DIFERENÇA DO VALOR DAS MENSALIDADES QUE NÃO PODE SER COBRADA DO ALUNO – – COBRANÇA PARCIALMENTE DEVIDA – COTA PARTE (10%) DE RESPONSABILIDADE DO ALUNO – EXIGIBILIDADE MANTIDA – NÃO OCORRÊNCIA DE ATO ILÍCITO – AUSÊNCIA DE PRESSUPOSTOS DA RESPONSABILIDADE CIVIL – DANO MORAL NÃO CONFIGURADO – DEVER REPARATÓRIO AFASTADO – RECURSO PARCIALMENTE PROVIDO.
+A relação jurídica contratual estabelecida entre Instituição de Ensino Superior (IES) e o estudante encontra-se amparada pelo Código de Defesa do Consumidor, de maneira que as cláusulas constantes do contrato de prestação de serviços educacionais devem ser claras e precisas, sobretudo as que restringem e/ou limitam direito do consumidor, tendo como diretriz basilar o princípio boa-fé objetiva e o dever de agir com lealdade e cooperação.
+Se das condições gerais de adesão não consta autorização para repassar ao consumidor valores pagos a menor pelo ente governamental responsável pelo financiamento estudantil, deve ser conferida a interpretação mais favorável ao consumidor, nos termos do artigo 47 do Código de Defesa do Consumidor, de modo que eventual prejuízo da IES deve ser discutido com o ente do Governo.
+O dano moral exige prova cabal e inequívoca de três pressupostos essenciais: conduta lesiva do agente (ato ilícito), nexo causal e prejuízo efetivo (dano). Ausente um destes requisitos, inviável deferir-se a reparação.
+(N.U 1048116-50.2019.8.11.0041, TERCEIRA CÂMARA DE DIREITO PRIVADO, RELATOR DIRCEU DOS SANTOS, Julgado em 21.10.2020)
+Interpostos Embargos de Declaração (ID 64630997) foram rejeitados conforme acordão de (ID 71527455).
+Na espécie, o presente recurso foi interposto contra o aresto proferido em sede de Apelação, aviada por IUNI UNIC EDUCACIONAL LTDA, que reformou, parcialmente, a sentença proferida pelo juízo da 3a vara cível da comarca de Cuiabá, o qual, nos autos de Ação Declaratória de Inexistência de Débito c/c Danos Morais, decidiu pela inexigibilidade dos débitos cobrados do recorrido nos valores de R$ 22.823,39 (vinte e dois mil oitocentos e vinte e três reais e trinta e nove centavos), bem como determinou o abatimento do crédito na parte que competia ao estudante, em cumprimento do contrato de FIES. Condenou, ainda, a recorrente ao pagamento de dano moral na monta de R$ 10.000,00 (dez mil reais).
+A Câmara julgadora reformou o decisório de piso apenas para permitir a cobrança da cota parte do aluno correspondente a 10% do total da semestralidade e afastar a condenação por danos morais.
+A recorrente sustenta violação dos artigos 1022 inciso II do Código de Processo Civil; 4o da Lei 10.260/2001, 53 incisos VIII e IX da Lei n. 9.394/96 e 1o §1o e 3o da Lei 9870/99, aduzindo: (a) omissões quanto a pontos relevantes da controvérsia (b) a necessidade de reconhecer a ilegalidade da trava sistêmica imposta pelo FNDE, (c) a liberdade da recorrente para estabelecer reajustes contratuais.
+Por fim, pugna a recorrente pela reforma do julgado para declarar a legalidade dos débitos cobrados.
+A secretaria certificou que “o recorrente registrou ciência do acórdão via sistema PJe em 12/01/2021” razão pela qual o Recurso Especial fora interposto fora do prazo legal (ID 75970454).
+O preparo foi devidamente recolhido (ID 81397457).
+Contrarrazões pelo desprovimento do recurso, conforme ID 82695966.
+É o relatório.
+Decido.
+1- Preliminarmente – da tempestividade recursal.
+Oportuno registrar, inobstante a certidão de ID 75970454, o entendimento do Superior Tribunal de Justiça é no sentido de que, em havendo intimação eletrônica e via Diário de Justiça Eletrônico prevalece a última.
+Para elucidar:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APELAÇÃO. CONTAGEM DO PRAZO RECURSAL. TERMO INICIAL. PUBLICAÇÃO DO ACÓRDÃO. INTIMAÇÃO PELO DJE. PREVALÊNCIA. CIÊNCIA DO MINISTÉRIO PÚBLICO. AGRAVO NÃO PROVIDO.
+1. No caso em apreço, verifica-se que o acórdão recorrido foi publicado no DJe de 03/08/2018 e o órgão ministerial juntou, em 06/08/2018 (e-STJ, 223), petição aos autos, na qual consta expressamente o seu "ciente do acórdão".
+2. Nesse contexto, deve-se aplicar o entendimento pacificado pela Corte Especial deste Superior Tribunal de Justiça, no sentido de que, "havendo intimação eletrônica e publicação da decisão no Diário da Justiça Eletrônico, prevalece a data desta última, pois, nos termos do art. 4o, § 2o, da Lei 11.419/2006, a publicação em Diário de Justiça eletrônico substitui qualquer outro meio de publicação oficial para quaisquer efeitos legais." (AgInt nos EAREsp).
+1.015.548/RJ, Rel. Min. HUMBERTO MARTINS, DJe 22.8.2018). 3. Assim, imperioso o reconhecimento da intempestividade do recurso, porquanto interposto somente em 27/08/2018, ou seja, fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c.c. os arts.1.003, § 5o e 1.029, todos do Código de Processo Civil, bem como o art. 798 do Código de Processo Penal 4. Agravo regimental a que se nega provimento. (AgRg no REsp 1800082/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 06/08/2019, DJe 13/08/2019). (grifei).
+No caso sub judice, o acordão que rejeitou os embargos de declaração foi publicado em 22.01.2021 (ID 71562951) e o recurso interposto em 12.02.2021, portanto, dentro do prazo de 15 dias estabelecido pelo Código de Processo Civil.
+Ultrapassada esta preliminar, passo a análise do mérito.
+2- Da inaplicabilidade da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+3- Da violação ao artigo 1022 inciso II do CPC
+A partir da suposta ofensa ao artigo 1.022, II, do CPC, a parte recorrente alega que o órgão fracionário deste Tribunal não analisou as seguintes questões: (a) Arbitrariedade praticada pelo FNDE ao impor a trava sistêmica de forma unilateral; (b) Análise da Lei do FIES, que vincula o montante passível de financiamento de até 100% dos encargos cobrados dos estudantes; (c) Ausência de limitação imposta a instituição de ensino quanto aos reajustes de mensalidade, em especial a Lei Federal que trata a questão; (d) Resposta ao fato de que, somente em 2016 é que se passou a estabelecer valores máximos e mínimos de financiamento; (e) Previsão contratual de que eventual diferença decorrente de percentual de financiamento será cobrada com recursos do financiado; (f) Aplicação da Lei 9870/99, que prevê a possibilidade de reajuste de mensalidade.
+No entanto, do exame do acórdão recorrido, verifica-se que a Câmara julgadora se manifestou expressamente em relação aos pontos aludidos, como se observa das transcrições abaixo (ID 63356461):
+“A discussão travada na hipótese não diz respeito às regras instituídas para funcionamento do "Fundo de Financiamento ao Estudante de Ensino Superior - FIES", mas trata de obrigação quanto a cobrança de valor excedente à mensalidade, bem como a defesa da educação, possibilitando a matrícula/rematrícula dos alunos beneficiados pelo programa governamental.
+Partindo da premissa de que incide o Código de Defesa do Consumidor ao caso em tela, chega-se à conclusão de que o estudante que obtém do Fundo Nacional de Desenvolvimento da Educação – FNDE, como no caso dos autos em que o apelado foi beneficiado com 90% do financiamento de seu curso de medicina, não pode ele ser cobrada por supostas diferenças entre o valor da mensalidade e aquele repassado pelo FIES a instituição de ensino superior, mesmo que tal cobrança esteja prevista em termo aditivo, por ferir a boa fé e o código consumerista.
+No caso, restou incontroverso que o contrato realmente foi firmado no percentual de 90% de financiamento, cabendo ao aluno pagamento de somente 10% da semestralidade.
+(...)
+Desse modo, comparando os valores que a instituição de ensino alega ser credora é possível constatar a diferença no valor da mensalidade que seria o equivalente aos 10% a serem pagos com recursos do estudante.
+Portanto, fica claro que foi transferido para o aluno, beneficiário de financiamento estudantil em 90%, a responsabilidade por diferenças entre o que o sistema de financiamento permitia e o reajuste a universidade efetivamente praticava.
+Ocorre que no momento em que assina o Termo de Adesão, a instituição de ensino concorda com as normas que regulamentam o Fundo, caso em que é razoável admitir que estava ciente dos custos projetados para o curso, especialmente dos valores cobertos pelo programa.
+Nesse sentido, eventual discussão acerca de trava sistêmica atribuída ao FNDE não pode ser oposta contra o aluno.
+Portanto, a instituição apelante tinha plena ciência da possibilidade de limitação dos valores financiados a cada semestre, mas aderiu ao programa e aceitou alunos com financiamento por referido programa, não podendo agora, diante da limitação aplicada no reajuste semestral, desde 2015, impor ao aluno a diferença entre a limitação imposta pelo FNDE e o valor que pratica.
+Ora, não é razoável a instituição transferir ao aluno a responsabilidade por entraves ou erros do FIES, posto que aceitou a matrícula de aluno mediante a contratação do financiamento, o qual cobre 90% do curso.
+Portanto, contraditória e violadora da boa-fé objetiva a postura da prestadora de serviço que no momento pré-contratual se manifesta de determinada forma, faz promessa unilateral, acena com a possibilidade desse financiamento, mas no curso do contrato se comporta de maneira adversa, surpreendendo o beneficiário do ajuste.
+(...)
+Salienta-se que parte da defesa apresentada pela ré diz respeito a um eventual ato ilegal perpetrado pelo FNDE, no tocante à limitação do reajuste das parcelas mensais, que teria originado a diferença repassada à autora. Tais embates, entretanto, devem ser dirimidos, se for o caso, na esfera adequada, entre instituição de ensino e o suposto causador do dano, que, repisa-se, não se confunde com o consumidor, mero beneficiário do FIES.
+O caminho eleito pela ré, entretanto, foi adverso e imputou à autora os valores que seriam supostamente devidos pelo FIES, como se a consumidora fosse a responsável pelos critérios utilizados para correção das mensalidades e causadora da propalada trava sistêmica.
+Dessarte, eventuais consequências financeiras decorrentes de desentendimentos com o FNDE não podem ser repassadas a alunos que foram contemplados com o benefício. – (grifei).
+Diante desse quadro, não há evidência de violação ao artigo 1.022, II, do CPC, o que conduz à inadmissão do recurso neste ponto.
+4- Reexame de matéria fática e de cláusulas contratuais -Súmulas 5 e 7 do STJ
+Conforme o artigo 105, III, da CF, a competência do Superior Tribunal de Justiça restringe-se à aplicação e à uniformização da interpretação das leis federais e, consequentemente, não é possível o exame de matéria fático-probatória, o que inclui a interpretação de cláusulas contratuais, conforme prelecionam as Súmulas 5 e 7 do STJ.
+Nesse sentido:
+“AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INADIMPLEMENTO CONTRATUAL. INDENIZAÇÃO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento”. (AgInt no AREsp 927.217/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/12/2018, DJe 14/12/2018). (g.n.)
+Ao alegar violação aos artigos 4o da Lei 10.260/2001, 53 incisos VIII e IX e art.1o§1o e 3o da Lei 9970/99, a parte recorrente aduz a necessidade de reconhecer a ilegalidade da trava sistêmica imposta pelo FNDE, e consequentemente reformar a decisão para declarar a legalidade dos débitos cobrados.
+Neste ponto, consignou-se no aresto recorrido que (ID 63356461):
+“[...]Portanto, fica claro que foi transferido para o aluno, beneficiário de financiamento estudantil em 90%, a responsabilidade por diferenças entre o que o sistema de financiamento permitia e o reajuste a universidade efetivamente praticava.
+Ocorre que no momento em que assina o Termo de Adesão, a instituição de ensino concorda com as normas que regulamentam o Fundo, caso em que é razoável admitir que estava ciente dos custos projetados para o curso, especialmente dos valores cobertos pelo programa.
+Nesse sentido, eventual discussão acerca de trava sistêmica atribuída ao FNDE não pode ser oposta contra o aluno. (grifei).
+No entanto, para rever o entendimento firmado no aresto recorrido sobre este ponto, para concluir pela legalidade da transferência da cobrança ao recorrido, faz-se necessário o exame dos fatos e contrato constante dos autos, o que atrai o óbice sumular acima mencionado.
+Para ilustrar:
+“PROCESSUAL CIVIL. ADMINISTRATIVO. ENSINO SUPERIOR. FINANCIAMENTO ESTUDANTIL. FIES. FUNDAMENTOS SUFICIENTE PARA MANTER O ACÓRDÃO NÃO IMPUGNADO. PRETENSÃO DE REEXAME FÁTICO PROBATÓRIO.
+I - Na origem, trata-se de ação de responsabilidade em que se alega cobrança indevida pela instituição de ensino de diferença apurada entre a mensalidade e valor repassado pelo FIES. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo a sentença foi reformada para julgar procedente o pedido.
+II - O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado no julgado acerca da inaplicabilidade da alteração conferida à Lei n. 10.260/2001 em 01.12.2016, pois posterior ao contrato celebrado entre as partes, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF.
+III - De todo modo, constata-se que o Tribunal recorrido assentou-se no acervo probatório dos autos, bem como nos contratos de financiamento estudantil celebrados pelos recorridos, para entender cabível a cobertura integral do custo estudantil.
+IV - Assim, eventual debate para se concluir de modo diverso do acórdão recorrido, seria necessário o revolvimento do acervo fático-probatório delineado nos autos, além dos contratos objeto da presente ação, procedimento esse vedado no âmbito do recurso especial, por óbice das Súmulas n. 5 e 7/STJ. No mesmo sentido, destaco as seguintes decisões monocráticas: AREsp 1385939, Rel. Ministra ASSUSETE MAGALHÃES, DJe 11/12/2018; AREsp 1249378, Rel. Ministro ANTONIO CARLOS FERREIRA, DJe 26/03/2018.
+V - Outrossim, quanto à alegada divergência jurisprudencial, verifico que a incidência do óbice sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre o paradigma apresentado.
+VI - Agravo interno improvido.” (AgInt no AREsp 1461217/MS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 27/08/2019, DJe 30/08/2019) (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça.
