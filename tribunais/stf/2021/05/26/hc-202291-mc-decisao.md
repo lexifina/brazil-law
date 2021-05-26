@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA – PRAZO – EXCESSO – PRECEDENTE – PLENO – RESSALVA DE ENTENDIMENTO PESSOAL.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Primeira Vara Criminal da Comarca de Passo Fundo/RS, no processo nº 0023452-87.2018.8.21.0021, determinou a prisão preventiva do paciente, ocorrida em 16 de outubro de 2018, considerado o crime do artigo 35 (associação para o tráfico) da Lei nº 11.343/2006. Em 19 de março de 2020, indeferiu pedido de liberdade provisória, ressaltando permanecerem os motivos que ensejaram a custódia.
+    No Superior Tribunal de Justiça, o Relator inadmitiu o habeas corpus nº 667.454/RS.
+    O impetrante sustenta configurado excesso de prazo da prisão. Diz estar o processo concluso para sentença há mais de 7 meses.
+    Requer, no campo precário e efêmero, o afastamento e, sucessivamente, a substituição por cautelar diversa. No mérito, pretende a confirmação da providência.
+    Consulta, em 25 de maio de 2021, ao sítio do Tribunal de Justiça do Rio Grande do Sul revelou concluso o processo-crime para sentença.
+    2. O parágrafo único do artigo 316 do Código de Processo Penal dispõe sobre a duração da custódia preventiva, fixando o prazo de 90 dias, com a possibilidade de prorrogação mediante ato fundamentado.
+    Apresentada motivação suficiente à manutenção, desde que observado o período de 90 dias entre os pronunciamentos judiciais, fica afastado constrangimento ilegal. Eis o teor do dispositivo:
+    […]
+    Parágrafo único. Decretada a prisão preventiva, deverá o órgão emissor da decisão revisar a necessidade de sua manutenção a cada 90 (noventa) dias, mediante decisão fundamentada, de ofício, sob pena de tornar a prisão ilegal.
+    […]
+    Embora a norma preveja a ilegalidade da prisão, ausente pronunciamento judicial considerados os 90 dias, o Pleno, em 15 de outubro de 2020, ao apreciar a suspensão de liminar nº 1.395, firmou entendimento segundo o qual a inobservância do prazo não implica a pecha. Fiquei vencido. Ante a decisão, ressalvado entendimento pessoal em sentido diverso, não cabe, no campo precário e efêmero, afastá-la. Deixo para tornar efetiva a compreensão por ocasião do julgamento em Colegiado.
+    3. Indefiro a liminar.
+    4. Colham parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 26 de maio de 2021.
+Ministro MARCO AURÉLIO
+Relator
