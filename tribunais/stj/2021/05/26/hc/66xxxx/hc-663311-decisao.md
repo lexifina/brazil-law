@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ANDERSON DE OLIVEIRA LINS apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2259751-02.2020.8.26.0000).
+Consta dos autos que o paciente foi preso em flagrante (posterior convertida essa prisãoem preventiva) pela supostaprática do crime doart. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas), em virtude da apreensão de "43 invólucrospesando  320,6g- trezentos e vinte gramas e seis decigramas com massa líquida contendo substância entorpecente maconha (THC); 60 microtubos pesando  11,4g- onze gramas e quatro decigramas com massa líquida contendo substância entorpecente COCAÍNA); 86 invólucros pesando  59,7g- cinquenta e nove gramas e sete decigramas com massa líquida contendo substância entorpecente COCAÍNA)"-e-STJ fl. 30.
+A defesa impetrou habeas corpus no Tribunal a quo, que denegou a ordem em acórdão assim ementado (e-STJ fl. 69):
+HABEAS CORPUS - TRÁFICO DE ENTORPECENTES - Pedido de revogação da prisão preventiva - Pressupostos e fundamentos para a segregação cautelar presentes - Paciente que ostenta antecedente criminal por delito da mesma natureza - Decisão que justifica suficientemente a custódia preventiva - Alegação de risco à saúde do paciente no presídio em que se encontra custodiado em razão da pandemia causada por COVID-19 - Inocorrência - Constrangimento ilegal não configurado - Ordem denegada.
+No presente writ,aponta constrangimento ilegal decorrente da conversão de ofício da prisão em flagrante em preventiva eda ausência de fundamentação idônea no decreto de prisão, notadamente em virtude da primariedade do paciente, de tratar-se de crime sem violência ou grave ameaçae da suficiência da imposição de medidas cautelares diversas.
+Diante disso, pede, liminarmente e no mérito, a revogação da prisão preventiva, com substituição por medidas cautelares.
+A liminar foiindeferida.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+Éo relatório.
+Decido.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva(e-STJ fls. 30/31):
+Consta que o autuado possui antecedentes criminais pela prática de TRAFICO DE SUBSTACIA ENTORPECENTE, FURTO, AMEAÇA (Fls 45/74)
+ ..
+Assim, entendo que as circunstâncias concretas do fato demonstram que a prisão cautelar se afigura necessária por garantia da ordem pública e para assegurar a aplicação da lei penal, notadamente porque com o autuado ANDERSON DE OLIVEIRA LINS, foi apreendido 43 involucro pesando 320,6 GRAMAS com massa liquida contendo substancia entorpecente maconha (THC); 60 microtubos pesando 11,4 GRAMAS com massa liquida contendo substancia entorpecente COCAINA); 86 invólucros pesando 59,7 GRAMAS com massa liquida contendo substancia entorpecente COCAINA); 02 frascos contendo 125,4 gramas de liquidosubstancia cloreto de metileno/diclorometano (Laudo de constatação de fls.15/18) e a quantia de R$ 566,25 em dinheiro.(fls. 13).
+Conforme visto acima,o decreto de prisão preventiva teve como lastro para a segregação cautelar do agente a grande quantidade e variedade de drogas apreendidas - a saber, 320g (trezentos e vinte gramas) de maconha, 70g (setenta gramas) de cocaína e 125g (cento e vinte e cinco gramas) de cloreto de metileno/diclorometano-, o que esta Corte tem admitido como fundamentação idônea para a decretação e manutenção da prisão preventiva em razão da gravidade concreta da conduta.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. RECURSO IMPROVIDO.
+ ..
+3. No caso, a prisão preventiva está justificada, pois a decisão que a impôs fez referência à gravidade concreta da conduta imputada ao recorrente, uma vez que foi apreendida elevada quantidade de entorpecentes (aproximadamente 1,050kg - um quilograma e cinquenta gramas - de cocaína). Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+ ..  (AgRg no RHC 125.192/SC, de minha relatoria, SEXTA TURMA, julgado em 12/05/2020, DJe 18/05/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. GRAVIDADE CONCRETA DO DELITO. QUANTIDADE DE DROGA APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE READEQUAÇÃO DA PRISÃO CAUTELAR COM O REGIME INTERMEDIÁRIO IMPOSTO NA SENTENÇA. AGRAVO DESPROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. A manutenção da custódia cautelar encontra-se suficientemente fundamentada em razão das circunstâncias do caso que, pelas características delineadas, retratam, in concreto, a periculosidade do Agente, a indicar a necessidade da segregação provisória para a garantia da ordem pública, considerando-se, sobretudo, a quantidade de droga apreendida - mais de 1 (um) quilograma e 200 (duzentas) gramas de maconha. Precedentes.
+ ..  (AgRg no HC 560.702/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/05/2020, DJe 28/05/2020)
+Destaco, também,que o Juízo de primeiro grau mencionou, ainda, a reiteração delitiva do paciente, tendo em vista que ele possui antecedentes criminais por tráfico de drogas, furto e ameaça, o que corrobora com a necessidade da segregação cautelar.
+Ante o exposto,denegoa ordem.
+Publique-se. Intimem-se.
