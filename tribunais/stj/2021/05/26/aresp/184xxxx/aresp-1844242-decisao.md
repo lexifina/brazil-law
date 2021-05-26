@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo interposto porSÃO FRANCISCO SISTEMAS DE SAÚDE SOCIEDADE EMPRESÁRIA LTDA. contra decisão que inadmitiu recurso especial (e-STJ, fls. 360-363)proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl. 3.060):
+APELAÇÃO CÍVEL  CIRURGIA PLÁSTICA DE CARÁTER NÃO ESTÉTICA  REPARAÇÃO DE DANOS DECORRENTES DE CIRURGIA BARIÁTRICA  CUSTEIO PELA ADMINISTRADORA DO PLANO DE SAÚDE - NEGATIVA DE COBERTURA - DANO MORAL  CONFIGURAÇÃO  VALOR  FIXAÇÃO - PARÂMETROS.
+1. A administradora do plano de saúde deve custear as despesas com a cirurgia plástica de caráter não estético, a ser efetuada para reparar os danos decorrentes de cirurgia bariátrica, que foi coberta pelo referido plano. 2. A negativa da cobertura por parte do plano de saúde amplia a situação de aflição psicológica e de angústia vividas pela segurada, dando ensejo à reparação por dano moral.
+3. O valor da indenização por dano moral deve ser fixado examinando-se as peculiaridades de cada caso e, em especial, a gravidade da lesão, a intensidade da culpa do agente, a condição sócio -econômica das partes e a participação de cada um nos fatos que originaram o dano a ser ressarcido, de tal forma que assegure ao ofendido satisfação adequada ao seu sofrimento, sem o seu enriquecimento imotivado, e cause no agente impacto suficiente para evitar novo e igual atentado.
+Nas razões do recurso especial, a recorrente, com base nas alíneas a e c do permissivo constitucional, alegou divergência jurisprudencial e violação aos arts. 4º, III, da Lei 9.961/2002; e 10,§ 4º, da Lei 9.956/1998.
+Defendeu a inexistência de dano moral com a negativa de cobertura de tratamento médico. Sustentou que o mero descumprimento contratual não enseja dano extrapatrimonial.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 360-363).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nas razões do agravo, a agravante alega ter cumprido com todas as exigências legais para conhecimento e processamento do recurso especial.
+Constatados os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+Não obstante a irresignação da insurgente, verifica-se deficiência na fundamentação exposta na petição do recurso especial.
+É necessário frisar que o recurso excepcional possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração pela parte recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente aos argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão.
+In casu, analisando as razões do apelo especial interposto pelarecorrente, verifica-se que os argumentos apresentados não foram suficientes para demonstrar o descumprimento da legislação federal apontada, qual seja, afronta aos arts.4º, III, da Lei 9.961/2002; e 10, § 4º, da Lei 9.956/1998, situação que impossibilita a compreensão da controvérsia, sendo aplicável, por analogia, o enunciado descrito na Súmula 284/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 3% sobre o valor fixado pela instância ordinária, devidamente atualizado.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE TRATAMENTO MÉDICO. DANO MORAL. VIOLAÇÃO AOS ARTS.4º, III, DALEI 9.961/2002; E 10, § 4º, DALEI 9.956/1998. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
