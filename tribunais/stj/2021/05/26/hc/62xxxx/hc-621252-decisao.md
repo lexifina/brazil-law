@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 51):
+AGRAVO EM EXECUÇÃO PENAL. REMIÇÃO. RECOMENDAÇÃO 44/2013 DO CNJ. APROVAÇÃO PARCIAL NO ENCCEJA DE 2018. DECISÃO HOMOLOGANDO 40 DIAS DE REMIÇÃO. INSURGÊNCIA DA DEFESA. PEDIDO PARA HOMOLOGAÇÃO DE 80 DIAS. IMPOSSIBILIDADE. RECOMENDAÇÃO 44/2013 DO CNJ QUE NÃO LEVA EM CONSIDERAÇÃO A CARGA HORÁRIA ESTIPULADA PELA LEI 9.394/96 QUE ESTABELECE AS DIRETRIZES E BASES DA EDUCAÇÃO NACIONAL. REFERIDA LEGISLAÇÃO QUE NÃO SE APLICA ÀS PESSOAS PRESAS E SIM AOS JOVENS DE 4 A 17 ANOS DE IDADE DO ENSINO REGULAR. CASO CONCRETO QUE EXIGE A APLICAÇÃO DA RESOLUÇÃO 03/2010 DO CNE POR SER O ATO NORMATIVO CORRELATO À EDUCAÇÃO DE JOVENS E ADULTOS. APROVAÇÃO NO ENCCEJA COM A CERTIFICAÇÃO DE CONCLUSÃO NO ENSINO MÉDIO QUE CORRESPONDE À CARGA HORÁRIA DE 1200 HORAS. CÁLCULO DA REMIÇÃO QUE DEVE CONSIDERAR, NOS TERMOS DA RECOMENDAÇÃO 44/2013 DO CNJ, 50% DESTE TOTAL. QUANTIDADE DE 40 DIAS ACERTADAMENTE HOMOLOGADO PELO JUÍZO A QUO, EM RAZÃO DA APROVAÇÃO EM QUATRO ÁREAS DO CONHECIMENTO. DECISÃO QUE NÃO CARECE DE REFORMAS. RECURSO CONHECIDO E DESPROVIDO.
+Consta dos autos que o Juízo de Execuções declarou a remição de 40 dias da pena do paciente, haja vista a sua aprovação em 4 áreas de conhecimento, correspondentes ao ensino médio, no Exame Nacional para Certificação de Competências de Jovens e Adultos- ENCCEJA.
+Inconformada, a impetrante interpôs agravo em execução, o qual foi desprovido.
+Daí o presente writ, no qual informa a impetrante que o paciente obteve aprovação no ENCCEJA, relativo ao ensino médio, havendo sido aprovado em 4 dos 5 campos de conhecimento avaliados no exame, devendo ser reconhecida a remição de 80 dias de sua pena, nos termos da Recomendação n. 44/2013 do CNJ.
+Requer a concessão do writ nesse sentido.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal ofertou parecer, manifestando-se pelo não conhecimento da ordem.
+Conforme relatado, pretende a impetrante a remição de pena em 80 dias, pela aprovação em 4 áreas do conhecimento no Exame Nacional para Certificação de Competências de Jovens e Adultos, ensino médio.
+Ao negar provimento ao agravo em execução, o Tribunal de origem utilizou-se dos seguintes fundamentos (fls. 55-58):
+ .. .
+A pretensão do apenado é para que sejam homologados 80(oitenta) dias.
+Contudo, razão não lhe assiste.
+Inicialmente, explica-se que quando da edição da Recomendação 44/2013 do Conselho Nacional de Justiça, a interpretação levada a efeito por este egrégio Tribunal de Justiça, era no sentido de que a carga horária para o ensino fundamental era de 1600 horas e para o ensino médio de 1200 horas, sendo que para fins de remição computava-se 50% da carga horária definida para cada nível de ensino.
+Por outro lado, o entendimento majoritário do Superior Tribunal de Justiça, interpretava a matéria no sentido de considerar que as 1600 horas e as 1200 horas, já correspondiam a 50% da carga horária legalmente definida para o ensino fundamental e médio, respectivamente.
+Frisa-se que inicialmente esta Magistrada chegou a se curvar ao entendimento da Corte Superior, como mostra o seguinte julgado:
+ .. .
+Entretanto, com a evolução do tema nos julgados desta Corte de Justiça, voltou-se a adotar a posição inicial, a qual, como dito, é a mesma utilizada pelo togado singular para homologar 40 (quarenta) dias de remição em favor do apenado, sendo que para afastar a possibilidade de aplicação do entendimento do Superior Tribunal de Justiça sobre a matéria, socorro-me dos bem lançados argumentos do eminente Desembargador Sérgio Rizelo ao relatar o Agravo de Execução Penal n. 0002561-29.2018.8.24.0064:
+ .. .
+Portanto, vê-se como acertada a decisão que homologa 40 (quarenta) dias de remição, em razão do apenado ter sido aprovado em quatro áreas de conhecimento (fl. 465 do PEC).
+Neste sentido, já decidi:
+ .. .
+Ante o exposto, voto no sentido de conhecer do recurso e negar-lhe provimento.
+Como se observa, a Corte a quo negou provimento ao agravo em execução defensivo por entender que a recomendação do CNJ é clara ao afirmar que a carga horária para o ensino médio é de 1200 horas, razão pela qual, para fins de remição, deve ser aplicada a metade de tal carga horária, resultando em um total de 600 horas, equivalentes à 50 dias remidos, no caso de aprovação total.
+Em recente julgado, a Terceira Seção do Superior Tribunal de Justiça pacificou o entendimento de que, para fins de remição pela aprovação no ENCCEJA, devem ser consideradas 1.600 horas para os anos finais do ensino fundamental e 1.200 horas para o ensino médio, o que corresponde a 50% da carga horária legalmente prevista para os referidos níveis de ensino, nos termos da Lei 9.394/1996 (Lei de Diretrizes e Bases da Educação Nacional) e da Recomendação 44/2013 do Conselho Nacional de Justiça (HC 602.425/SC, ainda pendente de publicação, Rel. p/ acórdão Ministro REYNALDO SOARES DA FONSECA).
+A esse respeito, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. REMIÇÃO DE PENA POR ESTUDO. APROVAÇÃO EM TODOS OS 5 CAMPOS DE CONHECIMENTO DO ENCCEJA - ENSINO FUNDAMENTAL. BASE DE CÁLCULO A SER CONSIDERADA CONFORME LEI N. 9.394/1996 E RECOMENDAÇÃO N. 44/2013 DO CNJ. JURISPRUDÊNCIA FIRMADA PELA QUINTA TURMA DESTA CORTE SUPERIOR. INTERPRETAÇÃO DAS NORMAS - EXECUÇÃO DA PENA - MARCO TEÓRICO: CF/88, ART. 3º. PRECEDENTES DO STF. RECURSO NÃO PROVIDO.
+1. A decisão agravada deixou clara e bem firmada a posição da jurisprudência da Quinta Turma desta Corte de que a base de cálculo a ser considerada para o cômputo da remição de pena por aprovação no ENCCEJA - nível fundamental, por estudo por conta própria, é de 50%, ou seja, 1.600 horas, conforme Lei n. 9.394/1996 (Lei de Diretrizes e Bases da Educação Nacional) e Recomendação n. 44/2013 do Conselho Nacional de Justiça. No caso concreto, como o sentenciado foi aprovado em todas as cinco áreas de conhecimento, faz jus ao cálculo nos moldes do art. 1º, IV, da referida Recomendação, o que lhe garante os 177 (cento e setenta e sete) dias de remição postulados (26 por cada disciplina x 4).  ..  (AgRg no HC 596.514/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/09/2020, DJe 28/09/2020, sem grifos no original).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA. APROVAÇÃO NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIA DE JOVENS E ADULTOS (ENCCEJA/NÍVEL MÉDIO). ART. 126 DA LEP. RECOMENDAÇÃO N. 44/2013 DO CNJ. BASE DE CÁLCULO. ART. 24, I, DA LEI 9.394/1996. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O art. 126 da Lei de Execução Penal determina que o condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, também por estudo, parte do tempo de execução da pena.
+2. Esta Corte Superior de Justiça firmou entendimento e tem admitido a possibilidade de abreviação da reprimenda em razão de atividades que não estejam expressas no texto legal, como resultado de uma interpretação analógica in bonam partem da norma inserta no art. 126 da LEP.
+3. A Recomendação n. 44/2013 do CNJ indica aos Tribunais a possibilidade de remição por aprovação nos exames nacionais que certificam a conclusão do ensino fundamental - Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) - ou médio - Exame Nacional do Ensino Médio (ENEM), incentivando os apenados aos estudos, bem como à sua readaptação ao convívio social.
+4. O art. 24, I, da Lei 9.394/1996, pode ser utilizado como critério de interpretação da norma aberta oriunda do art. 1º, IV, da Recomendação n. 44/2013 do CNJ, o que não afronta o art. 4º, II e III, da Resolução n. 03/2010, do CNE.
+5. Considerando como base de cálculo 50% da carga horária definida legalmente para o ensino médio, ou seja, 1.200 horas, deve-se dividir esse total por doze, encontrando-se o resultado de 100 dias de remição em caso de aprovação em todos os campos de conhecimento do ENCCEJA.
+6. Agravo Regimental não provido. (AgRg no HC 643.709/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/02/2021, DJe 26/02/2021, sem grifos no original).
+No caso, o paciente foi aprovado em 4 das 5 áreas de conhecimento do ENCCEJA/ensino médio, razão pela qual tem direito à remição de 80 dias de pena.
+Ante o exposto, concedo o habeas corpus para reconhecer a remição de 80 dias da pena do paciente.
+Comunique-se.
+Publique-se.
+Intimem-se.
