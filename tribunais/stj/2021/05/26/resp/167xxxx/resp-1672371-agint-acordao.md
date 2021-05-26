@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.VIOLAÇÃO DO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. VANTAGEM REMUNERATÓRIA. NATUREZA E CONDIÇÕES DE IMPLEMENTAÇÃO. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVO TIDO POR VIOLADO. SÚMULA 211/STJ.
+1.Não se conhece da suposta afronta ao art. 535 do CPC/1973quando o recorrente se limita a afirmar de forma genérica a ofensa ao referido normativo, omitindo-se em demonstrar qual questão de direito não foi abordada no acórdão proferido em embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incidência da Súmula 284/STF.
+2. Hipótese em que o Tribunal de origem, por intermédio de exame acurado dos substratos fático-probatórios dos autos, notadamente a documentação acostada como contracheques, concluiu pelo pagamento da vantagem requerida pela parte, bem como pelas demais nuances comocondições de implementação e natureza das verbas, de forma que a análise do pleito ensejaria reexame dos mencionados suportes, esbarrando no óbice contido na Súmula 7/STJ.
+3.A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, consoante a Súmula 211/STJ.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado por Claudio Ambrosio e outros contra decisão que assim dispõe (e-STJ, fl. 291):
+A irresignação não comporta conhecimento.
+Compulsando-se os autos, em um olhar atento das razões do acórdão recorrido, verifica-se que nem sequer houve juízo de valor no tocante ao art. 63 da Lei n. 10.486/2002 e a tese a ele vinculada, a despeito da oposição de embargos de declaração na origem, fazendo incidir o teor da Súmula 211/STJ.
+Ademais, verifica-se que a conclusão alcançada pela Corte de origem, relativamente às condições de implementação e natureza das verbas, decorreu de determinadas nuances fáticas, além do cotejo da respectiva legislação de regência, de forma que a análise do pleito implicaria o reexame dos suportes fático-probatórios dos autos, esbarrando no óbice contido na Súmula 7/STJ.
+Em suas razões, o agravante aponta violação do art. 535 do CPC/1973, discorrendo que o acórdão proferido na origem deixou de examinar o dispositivo tido por violado relativo ao mérito do recurso especial.
+Ato contínuo, pugna pela não incidência da Súmula 7/STJ, na medida em que a matéria seria " .. exclusivamente de direito, isto é, versa sobre qual lei (quando menos qual artigo da Lei nº. 10.486/02) deve ser aplicada ao caso em tela, não sendo necessária nova análise das provas carreadas aos autos" (e-STJ, fl. 309).
+Por fim, reitera toda a fundamentação inerente ao mérito do apelo nobre, indicando violação ao art. 63 da Lei n. 10.486/2002, ao fundamento de que " .. se os autores foram reformados mais de 30 ANOS ANTES DA DATA-LIMITE FIXADA PELA LEI, é óbvio que FAZEM JUS A RECEBER O BENEFÍCIO DA DIÁRIA DE ASILADO, CONFORME A LEI Nº.4.328/64, VIGENTE À ÉPOCA DE SUAS REFORMAS, vez que A LEI QUE ATUALMENTE REGULA SUA REMUNERAÇÃO, ASSIM DETERMINA." (e-STJ, fl. 310).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.VIOLAÇÃO DO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. VANTAGEM REMUNERATÓRIA. NATUREZA E CONDIÇÕES DE IMPLEMENTAÇÃO. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVO TIDO POR VIOLADO. SÚMULA 211/STJ.
+1.Não se conhece da suposta afronta ao art. 535 do CPC/1973quando o recorrente se limita a afirmar de forma genérica a ofensa ao referido normativo, omitindo-se em demonstrar qual questão de direito não foi abordada no acórdão proferido em embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incidência da Súmula 284/STF.
+2. Hipótese em que o Tribunal de origem, por intermédio de exame acurado dos substratos fático-probatórios dos autos, notadamente a documentação acostada como contracheques, concluiu pelo pagamento da vantagem requerida pela parte, bem como pelas demais nuances comocondições de implementação e natureza das verbas, de forma que a análise do pleito ensejaria reexame dos mencionados suportes, esbarrando no óbice contido na Súmula 7/STJ.
+3.A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, consoante a Súmula 211/STJ.
+4. Agravo interno a que se nega provimento.
+VOTO
+Compulsando-se os autos, observa-se que o presente recurso não merece prosperar, tendo em vista que, dos argumentos apresentados no agravo interno, não se vislumbram razões para reformar a decisão agravada.
+De início,não se conhece da suposta afronta aoartigo535 do CPC/1973, pois os agravantes se limitarama afirmar de forma genérica a ofensa ao referido normativo, sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem, limitando-se a se referir ao dispositivo de lei federal relativo ao mérito do recurso especial. Incide à hipótese a Súmula 284/STF.
+Quanto à Súmula 7/STJ, consoante bem delineado na referida decisão,verifica-se que a conclusão alcançada pela Corte de origem, relativamente às condições de implementação e natureza das verbas questionadas, decorreu de determinadas nuances fáticas, além do cotejo da respectiva legislação de regência, de forma que a análise do pleito implicaria o reexame dos suportes fático-probatórios dos autos.
+Assim, como os agravantes apenas deduziram dois parágrafos breves e genéricos sobre o tema, utilizando-se de linhas gerais e abertaspara afirmar que a questão se resumiriaapenas à "interpretação de lei" e que não seria necessária nova análise das provas dos autos, deve ser mantido o teor da Súmula 7/STJ.
+Por fim, no que tange ao mérito em si, foi reconhecida a incidência da Súmula 211/STJ pela ausência de juízo de valor no tocante ao art. 63 da Lei n. 10.486/2002 e a tese a ele vinculada, a despeito da oposição de embargos de declaração na origem, sendo certo que tal óbice não fora objeto de impugnação pelo recurso ora sob exame.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
