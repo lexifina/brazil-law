@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de PAULO HENRIQUE SANTOS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo(Apelação Criminal n. 0020112-10.2018.8.26.0050).
+Em primeiro grau, o paciente foi condenado às penas de 6anos de reclusão em regime inicial fechado e de 600dias-multa, pela prática do crime descrito no art. 33da Lei n. 11.343/2006.
+Interposta apelação pela defesa, o Tribunal de origem negouprovimento ao recurso. A pena-base foi exasperada em 1/5, com fundamento na quantidade ediversidade dos entorpecentes apreendidos - 209,2g de maconha e 14,4g de cocaína. Na segunda etapa, a agravante da reincidência foi compensada com a atenuante da confissão. Foi afastado o tráfico privilegiado.
+A defesa alega que o paciente estaria sofrendo constrangimento ilegalem face da ausência de fundamentação legal para a fixação dapena-base acima do mínimo legal. Argumenta que a "quantidade e a qualidade das drogas apreendidas, embora não as tornem insignificantes, não justificam a exasperação da pena-base em 1/5" (fl. 5).
+Requer a concessão da ordem a fim de que a pena imposta seja reduzida ao mínimo legal.
+A liminar foi indeferida (fls.58-59).
+O Tribunal de Justiça do Estado de São Paulo apresentou as informaçõesàs fls. 64-68 e 69-118.
+O Ministério Público Federal manifestou-se pelo não conhecimento do write, caso dele se conheça, pela denegação da ordem (fls. 120-122).
+É o relatório. Decido.
+No caso, a condenação sofrida pelo paciente é definitiva, pois, conforme informações prestadas pelo Tribunal de origem, foi certificado o trânsito em julgado da sentença condenatória em 5/2/2020(fl. 65).
+Em consulta, verifica-se que não há no STJ julgamento de mérito passível de revisão criminal em relação a essa condenação.
+Assim, ocorrendo o trânsito em julgado de decisão condenatória nas instâncias de origem, não é dado à parte optar pela impetração de writ nesta instância superior, uma vez que a competência do STJ prevista no art. 105, I, e, da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+A propósito, confiram-se os seguintes precedentes: AgRg no HC n. 628.964/RS, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/2/2021; AgRg no HC n. 521.849/SC, Sexta Turma, relatora Ministra Laurita Vaz, DJe 19/08/2020 e AgRg no HC n. 632.467/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 18/12/2020.
+Ademais, não há flagrante ilegalidade que justifique a concessão de ordem de ofício.
+A sentença exasperou a pena-base no patamar de 1/5, nos seguintes termos (fl. 19, destaquei):
+Neste mister, bem sopesados os elementos norteadores do artigo 42, da Lei nº 11.343/06, cumpre reconhecer que o réu trazia consigo considerável quantidade e variedade de entorpecentes, a demonstrar que sua ação criminosa atingiria número indeterminado de pessoas, trazendo sérias e nefastas consequências à sociedade, merecedor, pois, da pena-base fixada em 6 anos de reclusão e 600 dias-multa.
+O Tribunal de origem manteve a exasperação da pena-base. Para tanto, adotou a seguinte fundamentação (fls. 27-28 e 36-37, destaquei):
+No caso dos autos, foram apreendidos 209,2g de maconha e 14,4g de cocaína.
+E conforme decisão publicada na RT 546/327 para fazer um fininho ou bagana de maconha são necessários 0,33g da referida droga, de modo que no caso "sub judice" teríamos cerca de 633 porções individuais deste estupefaciente.
+ ..
+Assim, resta patente que a quantidade de entorpecentes trouxe maior reprovabilidade à condutado réu.
+ ..
+Por isso, justificável a exacerbação da pena na fração eleita na r. sentença condenatória (1/5), não se vislumbrando a existência de elementares do tipo penal, sendo certo, ainda, que o acusado não tem direito subjetivo à estipulação da sanção no mínimo legal ou em patamar diverso, podendo o magistrado majorá-la a fim de alcançar os objetivos da pena (JCAT, 81-82/666).
+A dosimetria da pena é o procedimento em que o magistrado, utilizando-se do sistema trifásico de cálculo, chega ao quantum ideal da pena com base em suas convicções e nos critérios previstos abstratamente pelo legislador.
+Conforme a orientação jurisprudencial do STJ, o cálculo da pena é questão afeta ao livre convencimento do juiz, passível de revisão em habeas corpus somente nos casos de notória ilegalidade, para resguardar a observância da adequação, da proporcionalidade e da individualização da pena (HC n. 405.765/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 11/10/2017; e AgRg no HC n. 524.277/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 18/5/2020).
+Na primeira fase da dosimetria da pena, nos termos do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias judiciais do art. 59 do Código Penal e podem justificar a exasperação da pena-base.
+Assim, com base no princípio do livre convencimento motivado, o julgador poderá concluir pela necessidade de exasperação e escolher a fração que considerar razoável para aplicar ao caso concreto.
+Por isso, a revisão da dosimetria da pena pelo Superior Tribunal de Justiça só é admitida em situações excepcionais de manifesta ilegalidade ou de abuso de poder que possam ser aferidas de plano, sem necessidade de dilação probatória (AgRgnoREspn. 1.492.977/MG, relator MinistroAntonioSaldanha Palheiro, Sexta Turma,DJede 24/3/2021; eAgRgno HC n. 644.934/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 15/3/2021).
+Na hipótese, de modo fundamentado, apena-base foi exasperada em 1/5, em razão daquantidade e da diversidade dos entorpecentes apreendidos -209,2g de maconha e 14,4g de cocaína-, não se evidenciando a ilegalidade suscitada pelo paciente.
+A propósito, o seguinte precedente:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. NATUREZA E QUANTIDADE DAS DROGAS APREENDIDAS. EXASPERAÇÃO DA PENA-BASE. ART.42, DA LEI N. 11.343/2006. ALEGADA DESPROPORCIONALIDADE.INOCORRÊNCIA.  .. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No que concerne à fixação da pena-base acima do mínimo legal, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+2. Na hipótese do tráfico ilícito de entorpecentes, é indispensável atentar para o que disciplina o art. 42, da Lei n. 11.343/2006, segundo o qual o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59, do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente. Precedentes.
+3. A ausência de limites preestabelecidos pelo Código Penal para a exasperação da pena-base em decorrência do reconhecimento de circunstâncias judiciais negativas é fator que confere ao magistrado - observado seu livre convencimento motivado - certa margem de escolha da fração mais adequada às peculiaridades do caso concreto.
+Nesse contexto, a jurisprudência deste Superior Tribunal firmou-se no sentido de que a exasperação da pena-base, pela existência de circunstâncias judiciais negativas, deve seguir o parâmetro de 1/6 para cada circunstância negativamente valorada, fração eleita em observância aos princípios da razoabilidade e proporcionalidade, ressalvada a apresentação de motivação concreta, suficiente e idônea que justifique a necessidade de elevação em patamar superior.
+4. In casu, extrai-se do acórdão recorrido que a exasperação em patamar superior a 1/6 foi devida e suficientemente motivada, em razão da natureza e expressiva quantidade da substância entorpecente apreendida - 51,5kg de cocaína (e-STJ fl. 381) -, circunstância que, inclusive, desborda em muito do ordinário do tipo penal, justificando o maior rigor penal atribuído e, portanto, o acréscimo de 3 anos e 4 meses à pena-base aplicado pelo Tribunal de origem (e-STJ fl. 381), que não se mostra desproporcional.
+5. Para fazer jus à incidência da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 a 2/3, a depender das circunstâncias do caso concreto.
+ ..
+8. Agravo regimental não provido.(AgRg no AREsp n. 1.834.998/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 14/5/2021.)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
