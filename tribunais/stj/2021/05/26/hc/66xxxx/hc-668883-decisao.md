@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se dehabeas corpus(fls. 3/10) impetrado em benefício de CLEBER ALVES DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n.º 0003193-18.2010.8.26.0246 - fls. 11/29).
+Depreende-se dos autos que o juiz singular condenou o ora paciente, pela prática dos delitos previstos nos art. 33,caput, e 35,caput, ambos da Lei n.º 11.343/2006, à pena de10 (dez) anos de reclusão, em regime prisional inicial fechado, e 1200 (mil e duzentos)dias-multa, no valor mínimo legal(fl. 12).
+Irresignada, a defesa interpôs apelação criminal, na Corte de origem, que negou provimento ao recurso (fls. 11/29).
+No presentemandamus, o impetrante alega que não há motivação para a exasperação das penas-bases do paciente em percentual superior a 1/6 (um sexto) sobre o mínimo legal.
+Ao final, requer, liminarmente e no mérito, seja a ordem concedida para reduzir o percentual de aumento da pena-base a 1/6(um sexto) sobre o mínimo legal.
+É o relatório. Decido.
+O presentemandamusnão reúne condições de ser conhecido.
+A ação constitucional dohabeas corpus, de rito célere,pressupõe prova pré-constituída das alegações, não admitindo dilação probatória.É ônus da defesainstruir adequadamente a petição inicial dowrit, sob pena de indeferimento liminar da medida.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO ESSENCIAL À ANÁLISE DA CONTROVÉRSIA. MANUTENÇÃO DA DECISÃO DE INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL QUE SE IMPÕE. AGRAVO DESPROVIDO.
+1. "Revela-se insuscetível de exame o habeas corpus desacompanhado de elementos que evidenciem o alegado constrangimento ilegal, porquanto a impetração deve fundamentar-se em inequívoca prova pré-constituída" (STF, HC n.º 146.216-AgR, Rel. Ministro LUIZ FUX, TRIBUNAL PLENO, julgado em 27/10/2017, DJe 10/11/2017). Assim, ao não se desincumbir do ônus de formar e narrar adequadamente o pedido de habeas corpus, a Parte Impetrante impede a apreciação do seu mérito.
+2. O art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara e objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+3. Agravo regimental desprovido.(AgRg no HC n.º 648.896/SP, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 16/3/2021, DJe 25/3/2021)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR DO WRIT.INSTRUÇÃO DEFICIENTE. AUSÊNCIA DA DECISÃO DE DECRETOU A PRISÃO TEMPORÁRIA E DA DECISÃO QUE A CONVERTEU EM PREVENTIVA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - A decisão monocrática que nega provimento a recurso ordinário não viola o princípio da colegialidade, eis que conforme previsão no Regimento Interno desta Corte, é permitido ao relator julgar monocraticamente recurso inadmissível, prejudicado, ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, e ainda, negar provimento nas hipóteses em que houve entendimento firmado em precedente vinculante, súmula ou jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Precedentes.
+II - O agravante não juntou aos autos cópia da r. decisão que decretou a sua prisão temporária, e a decisão que a converteu em preventiva no momento da interposição do recurso, tampouco no presente agravo regimental, alegando, ainda, a sua desnecessidade, impedindo, em virtude da instrução deficiente, a exata compreensão da controvérsia, sendo pacífica a jurisprudência desta Corte de Justiça no sentido de que é ônus do impetrante a correta instrução dos autos, sob pena de não conhecimento do mandamus ou de seu recurso ordinário. Precedentes.
+ ..
+Agravo Regimental desprovido.(AgRg no RHC n.º 130.798/MS, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 25/8/2020, DJe 4/9/2020)
+Na hipótese, a defesa não instruiu a impetração com cópiada sentença, com o cálculo da pena,peçaimprescindívelao exame da suposta ilegalidade aventada.
+Portanto, com fundamento no art. 210, do Regimento Interno do Superior Tribunal de Justiça,indefiro liminarmenteo presentehabeas corpus.
+Intimem-se.
