@@ -1,0 +1,21 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+LIMINAR – REVOGAÇÃO.
+    1. O assessor Vinícius Machado Calixto prestou as seguintes informações:
+    André Luiz Rios Garcia e outros, servidores públicos estaduais, afirmam haver a Segunda Seção Cível do Tribunal de Justiça do Estado de Mato Grosso do Sul, no processo nº 0012551-03.2003.8.12.0000/50006, descumprido o decidido, sob o ângulo da repercussão geral, no recurso extraordinário nº 563.708.
+    Narram garantido, por meio da Lei local nº 1.102/1990 – artigos 73 e 111 –, o pagamento do adicional por tempo de serviço sobre o valor da remuneração, passando o cálculo, após a publicação da Lei estadual nº 2.157/2000, a ser feito sobre o vencimento básico. Esclarecem impetrado mandado de segurança visando assegurar a aplicação da norma anterior. Realçam o deferimento da ordem. O Estado de Mato Grosso do Sul interpôs recursos especial e extraordinário. Negado provimento ao primeiro, o processo foi suspenso até o julgamento, pelo Supremo, na sistemática da repercussão maior, do recurso extraordinário nº 563.708/MS. Desprovido esse último, sublinham que o Órgão reclamado, com base no artigo 543-B do Código de Processo Civil, assentou, em juízo de retratação, o indeferimento da ordem, surgindo o descompasso.
+    Sustentam erronia na observância, pelo Tribunal de origem, do entendimento firmado em sede de repercussão geral. Argumentam que, com o insucesso da impetração, acabou viabilizada a redução salarial dos servidores, no que admitida a base de cálculo do adicional versada na Lei nº 1.102/1990.
+    Requereram, no campo precário e efêmero, a suspensão do processo originário. Buscam a cassação do pronunciamento e a concessão da ordem.
+    Vossa Excelência acolheu o pedido de medida acauteladora.
+    O Tribunal esclareceu o histórico processual.
+    O Estado de Mato Grosso do Sul postula a inadmissão da medida, uma vez que os reclamantes não interpuseram agravo direcionado ao Colegiado de origem, afirmando pertinente a revogação da tutela de urgência. No tocante ao tema de fundo, salienta inexistir direito adquirido a regime jurídico. Ressalta que o mandado de segurança impetrado faz as vezes de ação de cobrança. Pretende, sucessivamente, a improcedência dos pedidos formulados na inicial, sendo mantido o entendimento firmado no ato atacado.
+    O Ministério Público Federal manifesta-se pela improcedência do pedido. Diz não atendido o requisito do esgotamento das instâncias ordinárias – artigo 988, § 5º, inciso II, do Código de Processo Civil –, porquanto não protocolado, à época do ajuizamento da reclamação, recurso extraordinário em face da decisão questionada. Frisa manuseada a medida como sucedâneo recursal.
+    Por meio da petição/STF nº 54.651/2016, os reclamantes demonstram a formalização de recurso extraordinário pelo Estado de Mato Grosso do Sul.
+    2. Com o deferimento da ordem no mandado de segurança impetrado pelos reclamantes, o Estado de Mato Grosso do Sul interpôs recurso extraordinário, o qual foi suspenso observada a sistemática da repercussão geral. Ao reapreciar o caso, ante o desfecho do Tema nº 24, o Colegiado de origem, sob a óptica da retratação, indeferiu a ordem. Cabia, então, insurgência a ser manifestada mediante interposição do recurso adequado.
+    O exame da parte final do artigo 988, § 5º, inciso II, do Código de Processo Civil revela que a admissibilidade da medida, visando ver assentada erronia quanto à observância de acórdão alusivo a recurso extraordinário submetido ao regime da repercussão geral, está condicionada ao esgotamento das instâncias ordinárias, o que somente ocorre quando analisado agravo protocolado em virtude da negativa de processamento de recurso extraordinário. O requisito não foi preenchido, sendo direcionada a reclamação contra pronunciamento do Tribunal de Justiça surgido da apreciação de mandado de segurança, em juízo de retratação.
+    Atentem para a organicidade e a instrumentalidade do Direito. Parte-se de exercício interpretativo para guindar, com queima de etapas, controvérsia ao Supremo. Não cabe o manuseio da reclamação como sucedâneo recursal.
+    3. Nego-lhe seguimento, revogando a liminar implementada.
+    4. Publiquem.
+Brasília, 26 de maio de 2021.
+Ministro MARCO AURÉLIO
+Relator
