@@ -1,0 +1,40 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por JEFERSON SILVAcontra decisão do Tribunal de Justiça de São Pauloque não admitiu recurso especial manejado contra acórdão assim ementado:
+APELAC O CívelReparaçãode danos morais e materiais- Mortandade de inúmerasespécies de peixes - Margens do Rio Paraná- Comportas da Usina HidrelétricaEngenheiroSouza Dias Falha em sistema elétrico Reduçãode vazãode água- Aprisionamentodepeixes em ilhas demicrófitas (plantasaquáticas) - Alegaçãodedanos ambientais irreparáveis  Pedido de Indenização  Danos materiais e morais  Prescriçãoda pretensãoreparatória  Sociedade de economia mista prestadora de serviço público  Sujeiçãoao regime jurídicode direito público- Prescriçãoquinquenal Inteligênciado Decreto Federal no. 20.910/32, combinado com a Lei Federal no. 9.494/97 (artigo 1º-C) - Precedentes jurisprudenciais  Manutençãoda sentença. 2. Recurso nãoprovido.
+Nas razões do recurso especial, além de divergência jurisprudencial,a parte alega ofensa ao artigo 189 do CC, sustentando o afastamento da prescrição. Afirma que o termo inicial do prazo prescricional deve ser contado a partir de janeiro de 2016, data em que se tornou público o laudo pericial elaboradona ação civil pública.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+A controvérsia sobre a prescrição foi resolvida pela Corte de origem nos seguintes termos:
+Significa dizer que, mesmo com a interrupção do prazo extintivo respectivo, a pretensão inicial do autor estaria prescrita, uma vez que o dano ocorreu em 11/09, ao passo que a ação civil pública foi distribuída em 04/11(fls. 34/64) e esta demanda reparatória em 12/18 (fls. 01/23). Portanto, sete(7) anos decorreram desde o ajuizamento da ação civil pública e a propositura desta demanda individual, o que reforça a idéia de que a pretensão inicial do autor está efetivamente prescrita.
+Pelos efeitos imediatos e visíveis que a falha do sistema elétricoda Usina ocasionou na prática pesqueira da região - diminuição e/ou desaparecimento de peixes de espécies comercialmente lucrativas, além do surgimento de outras espécies de menor valor de mercado -, é induvidoso que o autor teve conhecimento do evento lesivo a partir de sua eclosão, de maneira que sua tese de defesa, relativamente ao termo inicial do lapso prescricional, não vinga. Aliás, na inicial, o autor afirma que outros incidentes de semelhantes características já tinham acontecido tempos antes, o que serviria de fundamento para reforçar a responsabilidade civil da ré pelo novo episódio causador do evento lesivo objeto da ação.(e-STJ fls. 2.019/2.020)
+Com efeito, o Tribunal local, a partir da análise das provas acostadas aos autos, concluiu que é induvidoso que o autor teve conhecimento do evento lesivo a partir de sua eclosão,de maneira que sua tese de defesa, relativamente ao termo inicial do lapso prescricional, não vinga.(fl. 2.020,e-sTJ). Alterar tais conclusões demandaria necessariamente o reexame de provas, o que é vedado pela Súmula 7 desta Corte.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. PRESCRIÇÃO.TERMO INICIAL. PRINCÍPIO DA ACTIO NATA. RECEBIMENTO DE VALORES INDEVIDAMENTE. DEVER DE RESSARCIR. ENRIQUECIMENTO SEM CAUSA. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7/STJ. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 2º DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+1. A jurisprudência do STJ entende que, em caso de responsabilidade civil decorrente de ato ilícito, o prazo prescricional começa a correr a partir da ciência do fato ensejador da reparação, que no presente caso se deu com a auditoria realizada após setembro de 2014, determinada a partir da operação policial denominada São Cristóvão.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3.  ..
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1759188/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/03/2021, DJe 06/04/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA.SEGURO DE VIDA EM GRUPO. INVALIDEZ PERMANENTE. PRESCRIÇÃO ÂNUA.TERMO INICIAL. CIÊNCIA INEQUÍVOCA DA INCAPACIDADE LABORATIVA. SÚMULA 83/STJ. AUSÊNCIA DE COMPROVAÇÃO DO FATO GERADOR DA PRETENSÃO DE INDENIZAÇÃO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Conforme a jurisprudência desta Corte Superior, nos termos do art. 206, § 1º, II, do CC/2002, a ação do segurado em grupo contra a seguradora prescreve em 1 (um) ano, contado a partir da data em que tiver conhecimento inequívoco da sua incapacidade laboral (Súmulas n. 101 e 278/STJ). Incidência, no ponto, da Súmula 83/STJ.
+2. No caso, o Tribunal de origem afastou a preliminar de prescrição da pretensão do direito autoral apontada pela recorrente, consignando não haver nos autos comprovação do conhecimento pelo segurado da sua incapacidade laborativa, a fim de permitir o início da fluência do prazo prescricional. Essa conclusão foi fundada na apreciação do conjunto fático-probatório da causa, atraindo a incidência da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1688326/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/02/2021, DJe 12/02/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO. CONTRATOS DE FINANCIAMENTO E DE SEGURO ATIVOS AO TEMPO DO AJUIZAMENTO DA AÇÃO. PRESCRIÇÃO. PRAZO E TERMO INICIAL. AFERIÇÃO DO TERMO INICIAL. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+ ..  2. No caso, o Tribunal local, com arrimo no acervo fático-probatório, considerou que ocorreu interrupção do prazo prescricional no momento da recusa pela seguradora ao pagamento da cobertura indenizatória. A modificação do entendimento firmado, mormente para alterar o marco inicial do prazo prescricional, demandaria o reexame de provas, a atrair o óbice da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 1410487/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/11/2019, DJe 19/12/2019)
+Ressalto que tal óbice aplica-se tanto para a interposição do recurso com fundamento na alínea a do permissivo constitucional, quanto para a interposição com base em divergência jurisprudencial.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO.AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA N. 284/STF. FALTA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ.AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS N. 283 E 284 DO STF. JULGAMENTO ANTECIPADO DA LIDE. POSSIBILIDADE.DANOS MORAIS. VALOR DA CONDENAÇÃO. SÚMULA N. 284/STF. INVERSÃO DO ÔNUS DA PROVA. ADULTERAÇÃO DO PRODUTO SOB A GUARDA DO PRESTADOR.FATO. IMPEDITIVO. EXTINTIVO. MODIFICATIVO. REEXAME DE PROVAS.IMPOSSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. INCIDÊNCIA DA SÚMULA N. 7/STJ. NÃO CONHECIMENTO. DECISÃO MANTIDA.
+1.  ..
+8. O Tribunal local julgou a lide com respaldo em ampla cognição fático-probatória, cujo reexame é vedado em recurso especial, ante o óbice da Súmula n. 7 do STJ. Sendo o magistrado o destinatário da prova, compete a ele o exame de sua necessidade.
+9. A incidência da Súmula n. 7/STJ obsta o conhecimento do especial pela alínea "c" do permissivo constitucional, pois impede verificar a similitude fática dos acórdãos.
+10. Agravo interno a que se nega provimento.
+(AgInt no REsp 1605694/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2021, DJe 23/04/2021)
+Por fim, com fundamento no §11 do art. 85 do CPC, majoro o percentual dos honorários de advogado a que condenada a parte autora na origem em 2% observada a eventual e anterior concessão da gratuidade judiciária.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRESCRIÇÃO DA PRETENSÃO REPARATÓRIA. OCORRÊNCIA. REEXAME. SÚMULA 7 DO STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
