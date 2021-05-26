@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de LEANDRO HENRIQUE DA SILVA MORATO apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo que, nos autos doHabeas Corpusn. 2031939.32.2021.8.26.0000, indeferiu o pedido liminar.
+Os autos dão conta de que o paciente foi preso em flagrante pela suposta pratica do crime previsto no art. 157, §§ 2º, II, e 2º- A, I, do Código Penal, isso, porque, segundo narra a denúncia (e-STJ fl. 137):
+ .. no dia 16 de junho de 2020, por volta das 13h40, na Rua Osmilton Teixeira, nº. 1.520, Parque Santo André, nesta cidade e Comarca de Hortolândia, ALEX JUNIOR DE OLIVEIRA CREPALDI, CESAR GABRIEL DIAS e LEANDRO HENRIQUE DA SILVA MORATO, respectivamente, qualificados a fls. 23, 27 e 31, agindo em concurso de agentes, caracterizado pela unidade de desígnios e divisão de tarefas, mediante grave ameaça exercida com emprego de arma de fogo, subtraíram, para proveito comum, um aparelho celular, marca Samsung A20; um forno micro-ondas, marca LG; bem como o veículo HONDA/HR-V, cor prata, placas GAA9418-Sumaré/SP, avaliados em R$ 74.792,00 (setenta e quatro mil, setecentos e noventa e dois reais), conforme autos de avaliação acostados a fls. 18 e 153, pertencentes à vítima Cecy Jose de Souza
+Ao ser comunicado da prisão emflagrante, o Juízo da 1ª Vara Criminal da Comarca de Sumaré/SP relaxou a prisão em flagrante e decretou a prisão preventiva do paciente (e-STJ fls. 193/195) e, posteriormente, manteve a segregação cautelar (e-STJ fls. 186/189).
+Irresignada, a defesa impetrou  habeas  corpus  com  pedido  liminar  na  Corte  estadual.  O  pleito  liminar  foi,  contudo,  indeferido  pelo  Tribunal  a  quo  (e-STJ  fls.  297/298).
+No presentewrit, o impetrante,além de alegar excesso de prazo na formação da culpa, afirma quenão estão presentes os requisitos autorizadores da prisão preventiva e que não há fundamentos idôneos para justificar a sua decretação/manutenção, bem como aponta a possibilidade de que sejam estabelecidas medidas cautelares diversas da prisão.
+Por isso, requer, inclusive, liminarmente, a revogação da prisão preventiva, ainda que mediante a fixação de medidas cautelares diversas (e-STJ fls. 3/18).
+É, em síntese, o relatório.
+O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabehabeas corpusimpetrado ante decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado 691 da Súmula do STF), o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1.Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido(AgRg no HC 349.925/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016, grife).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1.O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido(AgRg no HC 345.456/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016, grifei).
+A questão em exame necessita de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação da impetração e as provas juntadas aohabeas corpusno momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e de incidir em patente desprestígio às instâncias ordinárias.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça,indefiro liminarmenteohabeas corpus.
+Publique-se. Intimem-se.
