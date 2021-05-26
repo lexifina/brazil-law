@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Paulo de Tarso Sanseverino, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Marco Buzzi e Moura Ribeiro.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DA RECUPOERAÇÃO E JUÍZO CÍVEL. IMÓVEL QUE NÃO PERTENCE ÀS EMPRESAS RECUPERANDAS. SÚMULA 480/STJ. CONFLITO NÃO CONHECIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos do art. 66 do CPC/2015, o conflito de competência se configura quando dois ou mais juízes declaram-se competentes ou consideram-se incompetentes para o processamento e julgamento de uma mesma matéria ou quando existir controvérsia acerca da reunião ou separação de processos entre duas ou mais autoridades judiciárias.
+2. No caso sob análise, segundo as informações prestadas pelo Juízo do soerguimento, o imóvel objeto de penhora não pertence às suscitantes e nem mesmo é essencial à recuperação conduz ao não conhecimento do conflito de competência, haja vista a incidência da Súmula nº 480 do STJ a qual preleciona que "O juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa".
+3. Agravo interno não provido.
+RELATÓRIO
+1. Cuida-se de agravo interno interposto por ATAC PARTICIPACAO E AGROPECUARIA S/A - EM RECUPERACAO JUDICIAL E outros, contra decisão de fls. 875-878, que não conheceu do conflito positivo de competência suscitado, uma vez que oJuízo do soerguimento noticiou que o imóvel objeto do presente incidente não pertence às suscitantes e nem mesmo é essencial à recuperação das suscitantes.
+Nas razões do agravo interno, sustenta que o imóvel é essencial ao plano de recuperação judicial, pois foi declarado como ativo permanente das recuperandas, constando o balanço patrimonial como ativo imobilizado.
+Informa ainda que "o Administrador Judicial, Hélcio Castro e Silva, asseverou em seu relatório que o imóvel objeto de penhora íntegra o patrimônio das recuperandas, sendo imprescindível para a continuidade das suas atividades" (fl. 925).
+Pleiteia, ao final, a reconsideração do decisum agravado para que seja estabelecida a competência do Juízo da recuperação ou a submissão do feito à Seção.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DA RECUPOERAÇÃO E JUÍZO CÍVEL. IMÓVEL QUE NÃO PERTENCE ÀS EMPRESAS RECUPERANDAS. SÚMULA 480/STJ. CONFLITO NÃO CONHECIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos do art. 66 do CPC/2015, o conflito de competência se configura quando dois ou mais juízes declaram-se competentes ou consideram-se incompetentes para o processamento e julgamento de uma mesma matéria ou quando existir controvérsia acerca da reunião ou separação de processos entre duas ou mais autoridades judiciárias.
+2. No caso sob análise, segundo as informações prestadas pelo Juízo do soerguimento, o imóvel objeto de penhora não pertence às suscitantes e nem mesmo é essencial à recuperação conduz ao não conhecimento do conflito de competência, haja vista a incidência da Súmula nº 480 do STJ a qual preleciona que "O juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa".
+3. Agravo interno não provido.
+VOTO
+2. A irresignação não merece prosperar.
+Conforme registrado na decisão primeva, inexiste qualquer conflito no caso sob análise, uma vez que o Juízo da recuperação registrou expressamente que o imóvelde matrícula nº 766 do 1º Serviço Notarial e Registral da Comarca de Colniza/MT não pertence às empresas suscitantes e sequer está inserido em seu plano de recuperação judicial.
+Colaciona-se novamente o trecho pertinente:
+A par de respeitosamente cumprimentá-lo, em resposta ao Ofício n. 017941/2020-CPPR, em que V. Exa. requisita-me informações acerca do imóvel de matrícula nº766 do 1º Serviço Notarial e Registral da Comarca de Colniza/MT, presto os esclarecimentos determinados por V. Exa:
+Inicialmente, fora solicitado ao Administrador Judicial do processo de Recuperação Judicial sob o número 0367199.62.2012.8.09.0181, informações acerca do referido imóvel. Em sua primeira manifestação, o Administrador Judicial informou que o bem seria de propriedade da recuperanda, e que estava incluído em seu balancete patrimonial.
+Entretanto, em sua segunda manifestação, o Administrador informou que o bem fora vendido pela Organização de Terras Brasil Norte Ltda aos sócios da recuperanda, Sr. Alberto Coury Neto e Sra. Tatiana Corbucci Coury Faria Santos, que não averbaram o negócio na certidão de matrícula do bem.
+Assim, em que pese a recuperanda incluir o bem em seu balancete patrimonial, verifico que não há nos autos qualquer comprovação da sua aquisição por parte da empresa ATAC  PARTICIPAÇÃO E AGROPECUÁRIA S/A ou, ainda, qualquer comprovação de que ele seja essencial para o cumprimento do plano de recuperação judicial, uma vez que pertence a terceiros. (fl. 853)
+Nessa toada, é inequívoco que incumbe ao Juízo da recuperação deliberar sobre a constrição patrimonial de bens das empresas submetidas ao plano de soerguimento, bem como declarar a essencialidade de determinados bens que, mesmo não sendo de propriedade das recuperandas, sejam essenciais à atividade empresarial do estabelecimento da sociedade em recuperação.
+Todavia, as informações prestadas pelo Juízo do soerguimento noticiamque o imóvel não pertence às suscitantes e nem mesmo é essencial à recuperação conduz ao não conhecimento do conflito de competência, haja vista a incidência da Súmula nº 480 do STJ a qual preleciona que "O juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa".
+No mesmo sentido, colaciona-se os arestos:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. BUSCA E APREENSÃO. BENS ALIENADOS FIDUCIARIAMENTE. ESSENCIALIDADE NÃO ATESTADA PELO JUÍZO DA RECUPERAÇÃO JUDICIAL. CONFLITO DE COMPETÊNCIA NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. Compete ao Juízo da Recuperação Judicial declarar a essencialidade de determinado bem à atividade empresarial do estabelecimento da sociedade em recuperação.
+2. A decisão do Juízo da Recuperação Judicial atestando a prescindibilidade de bens submetidos à alienação fiduciária, perseguidos em ação de busca e apreensão, conduz ao não conhecimento do conflito de competência.
+3. Agravo interno desprovido. (AgInt no CC 166.443/MT, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 25/09/2019, DJe 03/10/2019)
+AGRAVO INTERNO NO CONFLITO POSITIVO DE COMPETÊNCIA. PROSSEGUIMENTO DA EXECUÇÃO APENAS EM RELAÇÃO A CODEVEDOR QUE NÃO É PARTE NO PROCEDIMENTO DE RECUPERAÇÃO JUDICIAL. SÚMULA 480/STJ. CONFLITO NÃO CONHECIDO. RECURSO DESPROVIDO.
+1. Nos termos do art. 66 do CPC/2015, o conflito de competência se configura quando dois ou mais juízes declaram-se competentes ou consideram-se incompetentes para o processamento e julgamento de uma mesma matéria ou quando existir controvérsia acerca da reunião ou separação de processos entre duas ou mais autoridades judiciárias.
+2. O presente caso, contudo, não se amolda às hipóteses previstas no referido dispositivo, visto que não há nos autos decisões conflitantes entre os juízos suscitados, o que atrai a incidência da Súmula 480/STJ à hipótese, a qual dispõe que, "o juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa."
+3. Agravo interno desprovido. (AgInt no CC 157.239/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 20/08/2019, DJe 23/08/2019)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. INCIDENTE MANEJADO SOB A ÉGIDE DO NCPC. JUÍZO DA RECUPERAÇÃO JUDICIAL. JUÍZO TRABALHISTA. INEXISTÊNCIA DE CONTROVÉRSIA SOBRE A EXTENSÃO DA JURISDIÇÃO. ART. 66, DO NCPC. CONSTRIÇÃO DE BENS DE SÓCIO. NÃO CONFIGURAÇÃO DE CONFLITO. INEXISTÊNCIA DAS HIPÓTESES PREVISTAS NO ART. 66 DO NCPC. SÚMULA Nº 480 DO STJ. AGRAVO NÃO PROVIDO.
+1. O conflito de competência somente se instaura quando dois Juízos se declarem competentes ou incompetentes para processamento e julgamento de uma mesma demanda ou quando, por regra de conexão, houver controvérsia entre eles acerca da reunião ou separação dos processos.
+2. A penhora de bens de terceiros não viola o juízo atrativo da recuperação e, consequentemente, não configura o pretendido conflito de competência, nos termos da Súmula nº 480 do STJ: O juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa.
+3. Agravo interno não provido. (AgInt nos EDcl no CC 164.461/TO, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 05/05/2020, DJe 07/05/2020)
+Ademais, o fato do imóvel ter sido relacionado comoativo permanente das recuperandas é irrelevante e insuficiente para afastar as informações do Juízo do soerguimento.
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
