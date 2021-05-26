@@ -1,0 +1,15 @@
+DECISÃO
+Consoante consulta realizada no sítio eletrônico do Tribunal de Justiça de São Paulo, verificou-se que o Juízo de Direito da 1ª Vara Criminal da comarca de Sumaré/SP, nos autos doProcesso n. 1500405-95.2020.8.26.0604,prolatou sentença julgando procedente a pretensão punitiva para condenar o ora recorrenteà pena de 8 anos de reclusão, em regime fechado, bem como ao pagamento de 500 dias-multa, no mínimo unitário, por infração do art. 33, caput, da Lei n.11.343/2006.
+Em situações como a dos autos, o Superior Tribunal de Justiça tem decidido que, ante a prolação de sentença condenatória, a qual constitui novo título judicial a sustentar a constrição da liberdade, esvazia-se o objeto do habeas corpus que pretende a expedição de alvará de soltura. Nesse sentido:
+PROCESSO PENAL. HABEAS CORPUS. ROUBO MAJORADO. CONCURSO DE AGENTES. ARMA DE FOGO. PRISÃO PREVENTIVA. PREJUDICIALIDADE. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE MANTÉM A CUSTÓDIA CAUTELAR.
+1. A superveniência de novo título que mantém a segregação cautelar torna prejudicado o writ ou recurso que se voltava contra a decisão que foi substituída (Precedentes).
+2. Habeas corpus julgado prejudicado.
+(HC n. 446.085/SP, Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 18/9/2018, DJe 7/11/2018)
+Com efeito, segundo o disposto no art. 387, § 1º, do Código de Processo Penal, no momento do édito condenatório, o Juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta. Em outras palavras, a sentença, por si só, não é causa justificadora da prisão preventiva, mas ela constitui nova realidade processual sobre a qual o juiz há de se pronunciar a respeito da necessidade da manutenção da custódia anteriormente decretada.
+Ora, na ocasião da prolação de sentença condenatória, em que se reconheceu, ainda que em decisão sujeita a recurso, mas em cognição exauriente, a culpa do recorrente,  ..  a adequação da medida cautelar imposta foi reexaminada à luz de um espectro fático-processual de maior amplitude e profundidade. Assim, o estado de liberdade, atualmente, é alvo de ato jurisdicional superveniente, autônomo, de requisitos específicos e que desafia impugnação própria. (STF: HC n. 138.238/PR, Ministro Edson Fachin, DJe 22/2/2017 -grifo nosso).
+De mais a mais, o anterior título judicial não revelava nenhuma ilegalidade aparente, uma vez que apresentada fundamentação concreta para a prisão preventiva, evidenciada pela referência à necessidade de se resguardar a ordem pública, dada a quantidade de droga apreendida (1,130 kg de maconha) e o risco real de reiteração delitiva (o recorrente ostenta diversos apontamentos criminais, a par de ser reincidente específico -fl. 111).
+Ante o exposto, considerando os precedentes, julgo prejudicado este recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. REVOGAÇÃO DA PRISÃO CAUTELAR. SUPERVENIENTE PROLAÇÃO DE SENTENÇA CONDENATÓRIA NA ORIGEM. NOVO TÍTULO. PERDA DO OBJETO.
+Recurso prejudicado.
