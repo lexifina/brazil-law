@@ -1,0 +1,62 @@
+DECISÃO
+ONICIA SARDINHA BOLOGNESI(ONICIA), representada por seu curador, ingressou com ação de obrigação de fazercontra PREVENT SENIOR PRIVATE OPERADORA DE SAÚDE LTDA. (OPERADORA),objetivando compelir a requerida a fornecer-lhe tratamento domiciliar sob o regime home care, conforme recomendação médica, por ser a autora pessoa portadora de Alzheimer.
+Em primeira instância, opedidofoi julgadoprocedente, em parte, paraa declarar a abusividade da cláusula de exclusão da cobertura do atendimento domiciliar, bem como compelir a ré à obrigação de fazer consistente em fornecer à autora "atendimento médico mensal, auxiliar de enfermagem duas horas por dia, enfermeira uma vez por mês e fisioterapia duas vezes por semana" (e-STJ, fls. 304/307).
+Interposta apelação por OPERADORA, o Tribunal de Justiça de São Paulo negou-lhe provimento, nos termos do acórdão relatado pelo Des. REZENDE SILVEIRA, assim ementado:
+EMENTA APELAÇÃO AÇÃO DE OBRIGAÇÃO DE FAZER Plano de Saúde - Autora portadora de Alzheimer com necessidade de cuidados domiciliares (home care) Tratamento home care coberto pelo contrato firmado com a ré, ante a adoção de interpretação mais favorável ao contratante aderente, sendo, portanto, abusiva, a recusa da ré Laudo pericial expresso em concluir pela necessidade de atendimento médico mensal, auxiliar de enfermagem duas horas por dia, enfermeira uma vez por mês e fisioterapia duas vezes por semana Aplicação do regime jurídico protetivo do consumidor Súmulas 608 do STJ, 100 e 102 do TJSP - Sentença mantida Recurso improvido (e-STJ, fl. 348).
+Na sequência, OPERADORA interpôsrecurso especial com fundamento no art.105, III, a e c, da CF, apontando, a par de dissídio jurisprudencial,violação dos arts. 371 e 479 do CPC/15; 10, I, da Lei n. 9.656/98 e Resolução n. 428/17, aduzindo, em síntese, que (1) houve cerceamento de defesa,na medida em que não houve a necessária e devida apreciação da prova pericial; (2) legalidade da exclusão da cobertura para tratamento domiciliar, visto que não consta da previsão do rol da ANS.
+As contrarrazões foram apresentadas (e-STJ, fls. 450/453).
+O apelo nobre foi admitido pelo TJSP (e-STJ, fls. 460/462).
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar, devendo prevalecer o acórdão relatado peloDes. REZENDE SILVEIRA.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegada violação dos arts.371 e 479 do CPC/15
+De início, OPERADORA sustentou violação dos arts. 371 e 479 do CPC/15, aduzindo quehouve cerceamento de defesa, na medida em que não houve a necessária e devida apreciação da prova pericial.
+Ocorre, todavia, que a questão tal como postanas razões do recurso especial não foiobjeto de debate no acórdão recorrido, tampouco foram opostos embargos de declaração para suprir eventual omissão.
+Incidem, portanto, as Súmulas nºs 282 e 356 do STF.
+(2) Da cobertura do plano de saúde
+No mérito, OPERADORA sustentou a legalidade da negativa de cobertura, sob o entendimento de que otratamento domiciliar pretendido não consta da previsão do rol da ANS.
+É assente no STJ o entendimento de que o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica indicada por profissional habilitado na busca da cura e que é abusiva a cláusula contratual que exclui tratamento, procedimento ou material imprescindível, prescrito para garantir a saúde ou a vida do beneficiário.
+Na verdade, se não fosse assim, estar-se-ia autorizando que a empresa se substituísse aos médicos na escolha da terapia adequada de acordo com o plano de cobertura do paciente. E isso é incongruente com o sistema de assistência à saúde, porquanto quem é senhor do tratamento é o especialista, ou seja, o médico que não pode ser impedido de escolher a alternativa que melhor convém à cura do paciente.
+Sendo assim, observa-se que o acórdão recorrido está em sintonia com a jurisprudência do STJ, senão veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO MÉDICO DOMICILIAR (HOME CARE). AUSÊNCIA DE PACTUAÇÃO.
+1. A jurisprudência do STJ firmou-se no sentido de que o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica indicada por profissional habilitado na busca da cura, motivo porque deve arcar com as despesas relativas ao tratamento médico domiciliar (home care). Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.181.543/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 1º/8/2018 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO DOMICILIAR. HOME CARE. CERCEAMENTO DO DIREITO DE DEFESA. NÃO OCORRÊNCIA. ABUSIVIDADE DA CLÁUSULA QUE RESTRINGE A COBERTURA. INTERPRETAÇÃO À LUZ DO CÓDIGO DE DEFESA DO CONSUMIDOR. PRECEDENTES DO STJ. REVISÃO DO JULGADO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Cabe ao Magistrado, como destinatário final do acervo probatório, a análise da necessidade, ou não, da produção das provas requeridas pelas partes. No caso dos autos, o Tribunal de origem, soberano no exame dos fatos e provas, confirmou a conclusão do Juízo de primeiro grau e considerou dispensável a produção da prova requerida, em acórdão devidamente fundamentado, razão pela qual não há que se falar em cerceamento de defesa.
+2. O Colegiado estadual julgou a lide em sintonia com a orientação desta Corte, segundo a qual "o serviço de "home care" (tratamento domiciliar) constitui desdobramento do tratamento hospitalar contratualmente previsto, que não pode ser limitado pela operadora do plano de saúde", pois, "na dúvida, a interpretação das cláusulas dos contratos de adesão deve ser feita da forma mais favorável ao consumidor" (REsp 1.378.707/RJ, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 26/5/2015, DJe 15/6/2015).
+3. Ademais, a análise das razões apresentadas pela recorrente demandaria a interpretação de cláusulas contratuais, bem como o reexame das circunstâncias fáticas da causa, o que é vedado em recurso especial, ante o disposto nos enunciados n. 5 e 7 da Súmula do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.224.560/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 25/5/2018 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. PLANO DE SAÚDE. PRESTAÇÃO DE SERVIÇO HOME CARE. TRATAMENTO SOLICITADO PELO MÉDICO. REVISÃO DE CLÁUSULA CONTRATUAL ABUSIVA.AGRAVO DESPROVIDO.
+1. De acordo com a orientação jurisprudencial do STJ, o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para a cura de cada uma, sendo abusiva a cláusula contratual que exclui tratamento domiciliar quando essencial para garantir a saúde ou a vida do segurado.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1.204.136/PE, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Quarta Turma, DJe 2/4/2018 - sem destaque no original)
+De outro lado, quanto a assertiva de que oseventos e procedimentos previstos na Lei nº 9.656/98e nas Resoluções Normativas expedidas pala ANS, possuem Rol Taxativos e, portanto, não passíveis de ampliação para fins de exigir o cumprimento forçado, das operadoras e seguradoras, de obrigações não contempladas seja na lei, seja ainda no contrato,a eg. Terceira Turma do STJ,em recentíssimo julgado, reafirmou expressamente a tese do caráter exemplificativo dorolde procedimentos daANS,de modo que a ausência de previsão no referidorolnão afasta do plano de saúde a obrigação de custear tratamento necessário à preservação da saúde do segurado se a doença é coberta contratualmente.
+Nesse sentido, confira-se:
+AGRAVO INTERNO. RECURSO ESPECIAL. CIVIL (CPC/2015). CIVIL. PLANO DE SAÚDE NA MODALIDADE AUTOGESTÃO. RECUSA DE COBERTURA DE CIRURGIA PARA TRATAMENTO DE DEGENERAÇÃO DA ARTICULAÇÃO TEMPOROMANDIBULAR (ATM).DIVERGÊNCIA QUANTO À ADEQUAÇÃO DO PROCEDIMENTO. INGERÊNCIA NA RELAÇÃO CIRURGIÃO- PACIENTE. DESCABIMENTO. JURISPRUDÊNCIA PACÍFICA DESTA TURMA. APLICABILIDADE ÀS OPERADORAS DE AUTOGESTÃO. PRECEDENTE EM SENTIDO CONTRÁRIO NA QUARTA TURMA. REAFIRMAÇÃO DA JURISPRUDÊNCIA DESTA TURMA.
+1. Controvérsia acerca da recusa de cobertura de cirurgia para tratamento de degeneração da articulação temporomandibular (ATM), pelo método proposto pelo cirurgião assistente, em paciente que já se submeteu a cirurgia anteriormente, por outro método, sem obter êxito definitivo.
+2. Nos termos da jurisprudência pacífica desta Turma, orolde procedimentos mínimos daANSé meramente exemplificativo, não obstando a que o médico assistente prescreva, fundamentadamente, procedimento ali não previsto, desde que seja necessário ao tratamento de doença coberta pelo plano de saúde. Aplicação do princípio da função social do contrato.
+3. Caso concreto em que a necessidade de se adotar procedimento não previsto noroldaANSencontra-se justificada, devido ao fato de o
+paciente já ter se submetido a tratamento por outro método e não ter
+alcançado êxito.
+4. Aplicação do entendimento descrito no item 2, supra, às entidades de autogestão, uma vez que estas, embora não sujeitas ao Código de Defesa do Consumidor, não escapam ao dever de atender à função social do contrato.
+5. Existência de precedente recente da QUARTA TURMA no sentido de que seria legítima a recusa de cobertura com base norolde procedimentos mínimos daANS.
+6. Reafirmação da jurisprudência desta TURMA no sentido do caráter
+exemplificativo do referidorolde procedimentos.
+7. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1.829.583/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. em 22/6/2020, DJe 26/6/2020 ).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE.TRATAMENTO PRESCRITO PELO MÉDICO. LIMITAÇÃO DE SESSÕES DE TERAPIA.CONDUTA ABUSIVA. INDEVIDA NEGATIVA DE COBERTURA. PRECEDENTES. SÚMULA N. 83/STJ. RESSALVA DE ENTENDIMENTO DA TERCEIRA TURMA. AGRAVO INTERNO IMPROVIDO.
+1. O entendimento desta Corte Superior é firme no sentido de que "há
+abusividade na cláusula contratual ou em ato da operadora de plano de saúde que importe em interrupção de tratamento de terapia por esgotamento do número de sessões anuais asseguradas noRolde Procedimentos e Eventos em Saúde daANS,visto que se revela incompatível com a equidade e aboa-fé, colocando o usuário (consumidor) em situação de desvantagem exagerada (art. 51, IV, da Lei 8.078/1990). Precedente" (REsp 1.642.255/MS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 17/04/2018, DJe 20/04/2018).
+2. Cabe ressaltar o advento de um precedente da Quarta Turma em sentido contrário ao deste voto - REsp n. 1.733.013/PR, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/12/2019, DJe 20/2/2020 -, conforme apontado pela ora agravante. Entretanto, esse precedente não vem sendo acompanhado pela Terceira Turma, que ratifica o seu entendimento quanto ao caráter exemplificativo do referidorolde procedimentos.
+3. Agravo interno improvido.
+(AgInt no AREsp 1.721.252/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 18/12/2020).
+Nessas condições, CONHEÇO, em parte, dorecurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Majoro em 5% os honorários advocatícios fixados em desfavor de OPERADORA, nos termos do art. 85, § 2º, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL.RECURSO ESPECIAL. IRRESIGNAÇÃO SUJEITA ÀS NORMAS DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER.PLANO DE SAÚDE. VIOLAÇÃO DOS ARTS. 371 E 479 DO NCPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NºS 282 E 356 DO STF.HOME CARE. TRATAMENTO DOMICILIAR PRESCRITO PELO MÉDICO ASSISTENTE. DEVER DE COBERTURA.ROL DA ANS. EXEMPLIFICATIVO. ENTENDIMENTO MANTIDO PELA EG. TERCEIRA TURMA. DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
