@@ -1,0 +1,19 @@
+DECISÃO
+Pelo que consta do superveniente HC n. 668.794/RS, também impetrado aqui em favor de PATRICK DOS SANTOS (PEC n. 0004849-15.2018.8.21.0037), o Juízo de Direito da Vara Adjunta de Execuções Criminais da comarca de Uruguaiana/RS) concedeu a ele, na data de 23/11/2020, a progressão ao regime aberto, com monitoramento eletrônico e algumas condições (fls. 66/68, do HC n. 668.794/RS). Na oportunidade, manteve o indeferimento do pedido de livramento condicional, conforme decisão anterior (fls. 63/64, daqueles autos).
+Este writ impugna decisão anterior do Juízo da execução, exarada em 15/7/2020, de negativa desse mesmo benefício, mantida pelo Tribunal estadual no julgamento do Agravo de Execução Penal n. 5072247-83.2020.8.21.7000 (fls. 11/18).
+Ressalta a impetrante que, em que pese a falta grave que motivou a regressão ao regime fechado foi cometida em 2019, não podendo, a este ponto, justificar a não concessão do livramento condicional (fl. 4). Para a Defensoria, o requisito objetivo é aferido pelo lapso temporal, que restou implementado; e o requisito subjetivo é aferido pelo atestado de conduta carcerária, o qual demonstra a aptidão do apenado para obter o direito, que deverá confirmar a conduta plenamente satisfatória. Apenas a avaliação péssima obstaria a análise do livramento condicional do apenado (fls. 4/5).
+O pedido liminar de cassação do mencionado acórdão foi indeferido pelo Presidente desta Casa (fls. 106/107).
+Depois de prestadas informações (fls. 110/126), opinou o Ministério Público Federal pela denegação da ordem, nestes termos (fl. 135):
+HABEAS CORPUS SUSBSTITUTIVO DE RECURSO PRÓPRIO. CRIMES DE ROUBO. PLEITO DE CONCESSÃO DE LIVRAMENTO CONDICIONAL. AUSÊNCIA DE COMPROVAÇÃO DO PREENCHIMENTO DO REQUISITO SUBJETIVO PREVISTO NO ARTIGO 83 DO CÓDIGO PENAL. HISTÓRICO DE FUGA. PRELIMINAR DE NÃO CONHECIMENTO. MÉRITO. PELA DENEGAÇÃO DA ORDEM.
+Hoje foi a mim distribuído o HC n. 668.794/RS, em favor do mesmo paciente, com idêntica pretensão, mas contra outro acórdão.
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus substitutivo de recurso especial deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre.
+Com efeito, como bem pontuado pela Subprocuradora-Geral da República Luiza Cristina Fonseca Frischeisen, muito embora o paciente tenha o tempo mínimo necessário para o benefício, a origem concluiu que ele ainda não teria preenchido o requisito subjetivo para ser colocado em liberdade (fl. 137). Segundo os autos, ele tem o histórico de fuga; a fuga teria ensejado a regressão de regime prisional e a homologação de falta grave em 2019.
+É consabido que a prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo, não se aplicando limite temporal à análise desse pressuposto. Com efeito, segundo nossos julgados, deve ser analisado todo o período de execução, a fim de se averiguar o mérito do apenado.
+Na espécie, não ocorreu nenhum debate ou decisão a respeito da eventual circunstância de o paciente já haver se reabilitado, pela passagem do tempo ou pela aplicação de sanção, desde o cometimento da sobredita falta.
+De mais a mais, esta via não é adequada para concluir que o paciente alcançou o requisito subjetivo necessário ao livramento condicional por já ter demonstrado assimilação à terapêutica penal. Isso demandaria o reexame de matéria fático-probatória, providência inadmissível em habeas corpus.
+À vista do exposto, acolho a manifestação ministerial e, com base ainda nos precedentes ali citados, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. ART. 83, III, DO CP. AUSÊNCIA DO REQUISITO SUBJETIVO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES. PARECER ACOLHIDO.
+Ordem denegada.
