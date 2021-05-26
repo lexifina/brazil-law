@@ -1,0 +1,6 @@
+DECISÃO
+SERGIO HENRIQUE VILLELA FIALHO alega sofrer coação ilegal, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, que chancelou o indeferimento do direito de recorrer em liberdade por ocasião da decisão de pronúncia nos autos do HC n. 0016415-24.2021.8.19.0000.
+Ao analisar os autos, verifico que a inicial do writ não veio acompanhada da cópia do decreto preventivo - mencionado na decisão de pronúncia e cuja falta causou o não conhecimento dos HC n. 667.284, HC n. 616754 e HC n. 532.770 -, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Na mesma diretriz: HC n. 235.131/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 29/8/2013.
+À vista do exposto, constatada a ausência de peça essencial para a análise do pleito de urgência, indefiro liminarmente este habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
