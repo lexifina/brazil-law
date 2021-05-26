@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Edvaldo Eloy Silvaàdecisão que deu provimento ao recurso especial interposto pelo Ministério Público do Rio de Janeiro (fls. 236/240):
+RECURSO ESPECIAL. PENAL. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. VIOLAÇÃO DO ART. 59 DO CP. EXASPERAÇÃO DA PENA-BASE AFASTADA PELA CORTEA QUO. CONDENAÇÃO. TRÂNSITO EM JULGADO HÁ MAIS DE 5 ANOS. MAUS ANTECEDENTES. CONFIGURAÇÃO. PRECEDENTES DE AMBAS AS TURMAS. PENAS PRIVATIVAS DE LIBERDADE E PECUNIÁRIA REDIMENSIONADAS.
+Recurso especial provido nos termos do dispositivo.
+É exposto que, no âmbito processual penal, para que haja apreciação de Recurso Especial e/ou Extraordinário, mister se faz o prequestionamento da questão federal ou constitucional, conforme o caso, inobstante a vigência do NCPC, onde discute-se o conteúdo expresso no art.1.025, em que por via de regra admite-se a prequestionamento ficto (fl. 245).
+Assevera o embargante que, apesar de o entendimento de Vossa Excelência, e agora o Acordão Embargado, ter havido, data máxima vênia, omissão quanto àmatéria questionada, .. forçoso trazer a baila julgamento quanto àinaplicabilidade do art.64 do Código Penal, em quedemonstra categoricamentenão ser matéria de fato e, sim, discussão da interpretação de julgados como ocorrido no caso do agravante e em outros julgados conforme AC n. 50001246420154047002 (fl. 246).
+Ao final da peça recursal, requer: a) seja conhecido e provido este recurso, manifestando-se explicitamente este Tribunal acerca das matérias ora levantadas, afastando assim a omissão e, mais, prequestionando-se os temas e regras ora levantadas (fl. 247).
+Foi dispensada a oitiva da parte embargada.
+É o relatório.
+Não há omissão a ser sanada.
+Conforme disposto na decisão ora embargada, em referência à consideração dos maus antecedentes para elevação da pena-base, segundo o entendimento desta Corte, o período depurador de cinco anos previsto no art. 64, I, do Código Penal, afasta a reincidência, mas não retira os maus antecedentes (HC n. 281.051/MS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 28/11/2013) (fls. 238/239 - grifo nosso).
+Em reforço, colaciono recentes precedentes de ambas as Turmas que compõem a Terceira Seção:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. MAUS ANTECEDENTES. CONDENAÇÃO ANTERIOR POR ROUBO. TRÂNSITO EM JULGADO EM 2011. AUSÊNCIA DE DOCUMENTO QUE DEMONSTRE A DATA DA EXTINÇÃO DA PUNIBILIDADE. DIREITO AO ESQUECIMENTO. NÃO APLICAÇÃO. DECISÃO AGRAVADA. RECONSIDERAÇÃO. AGRAVO PROVIDO.
+1. Conforme a jurisprudência pacífica desta Corte Superior, as condenações atingidas pelo período depurador de 5 anos, nos termos do art. 64, I, do Código Penal, podem ser reconhecidas como maus antecedentes.
+2. A tese do "direito ao esquecimento" não deve ser aplicada em relação a feitos extintos que não possuam lapso temporal significante em relação a data da condenação, qual seja menos de 10 anos.
+3. Tendo ocorrido o trânsito em julgado da condenação considerada como maus antecedentes em 2011, há menos de 10 anos da prática do novo delito e da atual condenação, prolatada em 2020, não se verifica lapso temporal suficiente para a aplicação do direito ao esquecimento, especialmente se for considerada a pena aplicada ao delito de roubo, de 6 anos, 5 meses e 23 dias de reclusão, e ausência de demonstração de quando ocorreu a extinção da punibilidade.
+4. Agravo regimental provido para denegar o habeas corpus.
+(AgRg no HC n. 642.772/SC, Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe 10/5/2021 - grifo nosso).
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DECISÃO MONOCRÁTICA. FURTO QUALIFICADO TENTADO. ANOTAÇÃO CRIMINAL ALCANÇADA PELO PERÍODO DEPURADOR DE 5 ANOS. MAUS ANTECEDENTES. POSSIBILIDADE. TENTATIVA. RECONHECIMENTO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. REGIME FECHADO. ACUSADO REINCIDENTE E COM CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE OFENSA À SÚMULA N. 269 DESTA CORTE. AUSÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - A jurisprudência desta Corte tem posicionamento firme no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo o aumento da pena- base acima do mínimo legal e a devida individualização das penas.
+III - Em sede de habeas corpus, não há como aferir se o delito foi consumado ou tentado, sob pena de revolvimento fático-probatório, não cabendo, na estreita via do mandamus, alterar a conclusão devidamente fundamentada das instâncias ordinárias.
+IV - Em relação ao regime prisional, sendo a paciente reincidente e portadora de circunstâncias judiciais desfavoráveis (maus antecedentes), o regime fechado mostra-se o mais adequado, ainda que a pena tenha sido fixada em patamar inferior a 4 (quatro) anos de reclusão, não sendo aplicável a Súmula n. 269/STJ: "É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+V - A toda evidência, o decisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício.
+Agravo regimental desprovido.
+(AgRg no HC n. 653.878/SP, Ministro Felix Fischer, Quinta Turma, DJe 27/4/2021 - grifo nosso).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. PENAL. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. EXASPERAÇÃO DA PENA-BASE AFASTADA PELA CORTE A QUO. CONDENAÇÃO. TRÂNSITO EM JULGADO HÁ MAIS DE 5 ANOS. MAUS ANTECEDENTES. CONFIGURAÇÃO. JURISPRUDÊNCIA DO STJ. PENAS PRIVATIVAS DE LIBERDADE E PECUNIÁRIA REDIMENSIONADAS. OMISSÃO NA ANÁLISE DA TESE DE INAPLICABILIDADE DO ART. 64 DO CP. VERIFICAÇÃO. NÃO OCORRÊNCIA.
+Embargos de declaração rejeitados.
