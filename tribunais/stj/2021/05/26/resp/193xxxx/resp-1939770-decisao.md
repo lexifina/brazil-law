@@ -1,0 +1,36 @@
+DECISÃO
+I. D. F. (I. D. F) representada por I. D. O., ajuizou ação de obrigação de fazer com antecipação da tutela de urgência contra AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A (OPERADORA), pleiteando que a OPERADORA autorize o tratamento clínico.
+A sentença julgou procedente em parte o pedido para condenar a requerida a arcar com os procedimentos de psicologia comportamental baseada em ABA, fonoaudiologia, psicoterapia terapia ocupacional, sem limites de quantidade, e excluída a cobertura de equoterapia, musicoterapia e terapias em ambiente escolar.
+O TJSP negou provimento ao recurso interposto em acórdão da relatoria do Desembargador LUIS MARIO GALBETTI assim ementado:
+Apelação Plano de saúde Autor portador de transtorno do espectro autista Prescrição de terapia pelo método ABA Pretensão do plano de saúde em limitar as sessões de terapia Impossibilidade Sessões de terapia ilimitadas, até dispensa médica Precedentes desta Corte Sentença mantida Recurso não provido (e-STJ, fl. 389).
+Os embargos de declaração opostos pela OPERADORA foram rejeitados (e-STJ, fls. 418/423).
+A OPERADORA, então, manejou recurso especial fundado no art. 105, III, a e c , da CF, alegando, além do dissídio jurisprudencial, ofensa aos arts. 1.022, II, do NCPC, 10, § 4º da Lei 9.656/1998, e 51, V, do CDC. Sustentou, em suma, que (1) o Tribunal não se manifestou sobre a inexistência de cobertura ilimitada para o tratamento requerido, pois as sessões do tratamento indicado devem observar as diretrizes de utilização de acordo com o pactuado e com o Rol da ANS; e (2) é legitima a cláusula que estipula limites do número de sessões de terapias e que a cláusula preencheu os requisitos exigidos na lei consumerista.
+Em juízo de admissibilidade, a presidência do Tribunal de Justiça admitiu o apelo nobre (e-STJ, fls. 492/494).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegada violação do art. 1.022, II, do NCPC.
+Não se verifica, no caso, a alegada vulneração do referido dispositivo legal, porquanto a Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+(2) Da alegada violação dos arts. 10, § 4º, da Lei nº 9.656/98 e 51 do CDC.
+Insurgiu-se a OPERADORA sustentando que é legitima a cláusula que estipula limites do número de sessões de terapias e que a cláusula preencheu os requisitos exigidos na lei consumerista
+O Tribunal bandeirante, em relação aos tratamentos solicitados, entendeu ser inadmissível a limitação ao número de sessões ao tratamento de I. D. F.
+É de se ressaltar que a jurisprudência do STJ é consolidada no sentido da abusividade de cláusula contratual ou de ato da operadora de plano de saúde que importe em interrupção de tratamento de terapia por esgotamento do número de sessões anuais asseguradas no Rol de Procedimentos e Eventos em Saúde da ANS, visto que se revela incompatível com a equidade e a boa-fé, colocando o usuário em situação de desvantagem exagerada.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONSUMIDOR. PLANO PRIVADO DE SAÚDE. OBRIGAÇÃO DE FAZER. COBERTURA DE TRATAMENTO. PACIENTE. MENOR IMPÚBERE PORTADOR DE PATOLOGIA CRÔNICA. LIMITAÇÃO DE SESSÕES. ABUSIVIDADE. OCORRÊNCIA. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte Superior já sedimentou entendimento no sentido de que "à luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fonoaudiológicos e hospitalares (v.g. limitação do tempo de internação, número de sessões de fonoaudiologia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes" (AgInt no AREsp 1.219.394/BA, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 7/2/2019, DJe 19/2/2019).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.782.183/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 28/10/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. INEXISTÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. TRATAMENTO. NEGATIVA DE COBERTURA. INDICAÇÃO MÉDICA. ABUSIVIDADE RECONHECIDA. INCIDÊNCIA DA SÚMULA N. 83/STJ. RECURSO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação ao artigo 1.022 do do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente. A Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas.
+2. "À luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fisioterápicos e hospitalares (v.g. limitação do tempo de internação, número de sessões de fisioterapia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes". (AgInt no REsp 1.349.647/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/11/2018, DJe 23/11/2018). 3. Nos termos da jurisprudência desta Corte, "os planos de saúde podem, por expressa disposição contratual, restringir as enfermidades a serem cobertas, mas não podem limitar os tratamentos a serem realizados, inclusive os medicamentos experimentais" (AgInt no AREsp 1.014.782/AC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 17/8/2017, DJe 28/8/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1432075/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 16/5/2019).
+Portanto, a decisão recorrida encontra-se em consonância com o entendimento desta Corte.
+Aplicável, à hipótese, a Súmula nº 568 do STJ.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios fixados em desfavor da OPERADORA, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO NA VIGÊNCIA DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. VIOLAÇÃO DO ART. 1.022 DO NCPC QUE NÃO SE VERIFICA. LIMITAÇÃO DO NÚMERO DE SESSÕES. ABUSIVIDADE. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
