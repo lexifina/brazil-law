@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOHNNY CARDOSO DA SILVA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo em Execução Penal n. 0002552-40.2021.8.26.0506.
+Consta dos autos que o Juízo das Execuções Penais determinou que o crime de associação criminosa pelo qual o Paciente foi condenado fosse considerado como delito equiparado a hediondo e, portanto, fixou a exigência do cumprimento de 2/5 (dois) quintos da pena como requisito objetivo para a progressão de regime (fl. 121).
+Inconformado, o Apenado interpôs agravo em execução penal, que foi desprovido pelo Colegiado estadual (fls. 137-143).
+Neste writ, sustenta-se que "o crime previsto no art. 35 da Lei de Drogas não é hediondo, devendo ser considerada a fração de 1/6 para fins de progressão e não 2/5" (fl. 5).
+Pleiteia-se, em liminar e no mérito, "a retificação do cálculo com a observância da fração de 1/6 para o delito previsto no art. 35 da Lei de Drogas" (fl. 9).
+É o relatório. Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+No mesmo sentido, ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL.CONCESSÃO DA ORDEM SEM OPORTUNIDADE DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO FEDERAL. INOCORRÊNCIA DE NULIDADE PROCESSUAL.HOMENAGEM AO PRINCÍPIO DA CELERIDADE E À GARANTIA DA EFETIVIDADE DAS DECISÕES JUDICIAIS. PROGRESSÃO DE REGIME. CÁLCULO DE PENAS.REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO. PACOTE ANTICRIME.OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO ART.112, V, DA LEP. AGRAVO REGIMENTAL DESPROVIDO.
+1. Malgrado seja necessário, em regra, abrir prazo para a manifestação do Parquet antes do julgamento do writ, as disposições estabelecidas no art. 64, III, e 202, do Regimento Interno desta Corte, e no art. 1º do Decreto-lei n. 522/1969, não afastam do relator o poder de decidir monocraticamente o habeas corpus.
+2. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta" (AgRg no HC 530.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+3. Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Precedentes.
+ ..
+6. Agravo regimental não provido."(AgRg no HC 656.843/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021; sem grifo no original.)
+Portanto, passo a analisar diretamente o mérito da impetração.
+No caso, o Tribunal de origem decidiu que "a modalidade criminosa criminosa do artigo 35da Lei de Tóxicosguarda as mesmas características do crime capitulado no artigo 33, de equiparação desse com os ilícitos hediondos" (fl. 140).
+Todavia, o entendimento adotado pelo Tribunal estadual está em confronto com a jurisprudência pacífica desta Corte Superior, que orienta no sentido de que o crime de associação para o tráfico não pode ser considerado como equiparado a hediondo, ante a ausência de previsão legal, sendo-lhe aplicáveis as regras de progressão prisionalreferentes aos delitos comuns.
+Sobre o tema, confira-se:
+"HABEAS CORPUS. EXECUÇÃO PENAL. SUPERAÇÃO ENUNCIADO N. 691/STF.ASSOCIAÇÃO PARA O TRÁFICO. PROGRESSÃO DE REGIME. REQUISITO OBJETIVO.CUMPRIMENTO DE 1/6 (UM SEXTO) DA PENA. ART. 44 DA LEI N. 11.343/2006 CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+ ..
+2. De outro ponto, é firme o constructo de precedentes desta Corte ao afirmar que o crime de associação para o tráfico de entorpecentes não figura no rol taxativo de delitos hediondos ou a eles equiparados, tendo em vista que não se encontra expressamente previsto no rol taxativo do art. 2º da Lei n. 8.072/1990. Portanto, não se tratando de crime hediondo, não se exige, para fins de concessão de benefício da progressão de regime, o cumprimento de 2/5 da pena, se o apenado for primário, e de 3/5, se reincidente para a progressão do regime prisional, sujeitando-se ele, apenas ao lapso de 1/6 para preenchimento do requisito objetivo.
+3. Ordem concedida para determinar que o Juízo das Execuções Penais proceda a novo cálculo para a progressão de regime do paciente, considerando a fração de crime comum ao delito previsto no art. 35 da Lei n. 11.343/2006."(HC 385.903/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 09/03/2017, DJe 21/03/2017, sem grifos no original).
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ASSOCIAÇÃO PARA O TRÁFICO. ART. 35 DA LEI N. 11.343/06.NÃO HEDIONDO. LIVRAMENTO CONDICIONAL. REQUISITO OBJETIVO. 2/3 (DOIS TERÇOS). PRINCÍPIO DA ESPECIALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - A jurisprudência desta eg. Corte Superior entende que o crime de associação para o tráfico não é hediondo ou equiparado, por não constar do rol dos arts. 1º e 2º da Lei n. 8.072/90.
+III - Pelo princípio da especialidade, para o livramento condicional no crime de associação para o tráfico, o requisito objetivo é de 2/3 (dois terços) do cumprimento da pena (art. 44, parágrafo único, da Lei n. 11.343/06). Precedentes.
+Habeas corpus não conhecido."(HC 526.196/RS, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 12/11/2019, DJe 20/11/2019, sem grifos no original).
+Portanto, a execução penal, quanto ao delito do art. 35 da Lei n. 11.343/06, deve observar osprazos de progressão prisional referentesaos crimes comuns.
+Ante o exposto, CONCEDO a ordem de habeas corpus para determinar a retificaçãodos cálculos da execução penal, aplicando-seas disposições referentes aos delitos comunsquanto àprogressão de regimedo delito previsto noart. 35 da Lei n.11.343/06,
+Comunique-se, com urgência, ao Juízo de origem.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. ASSOCIAÇÃO PARA O TRÁFICO. CRIME COMUM. PRECEDENTES. ORDEM CONCEDIDA.
