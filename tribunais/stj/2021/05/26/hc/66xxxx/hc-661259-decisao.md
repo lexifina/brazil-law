@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Kalil Henrique da Silva, em que se aponta como órgão coator o Tribunal de Justiça de São Paulo (Apelação n. 1501562-34.2020.8.26.0530 - fls. 294/307).
+Depreende-se dos autos que o Juízo de Direito da 5ª Vara Criminal da comarca de Ribeirão Preto/SP julgou procedente a acusação para condenar o paciente como incursono art.33, caput, da Lei n.11.343/2006, e arts.129, § 12 e 329, caput, todos combinado com o art.69, caput, todos do Código Penal, à pena de três (3) anos, quatro (4) meses e vinte e cinco (25) dias de reclusão (em regime fechado), sete (7) meses de detenção (em regime aberto) e trezentos e quarenta (340) dias-multa. O valor dos dias-multa será fixado no mínimo legal, à míngua de elementos que demonstrem a real situação econômico-financeira do acusado, e deverá ser atualizado da data dos fatos até efetiva liquidação(fl. 191).
+O Tribunal de origem, por sua vez, negou provimento à apelação interposta pela defesa e deu provimento à do Ministério Público a fim de,mantidos os demais tópicos da condenação, readequar a sanção penal para 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão, e 680 (seiscentos e oitenta) dias-multa, pela acusação do crime de tráfico de drogas (art. 33, "caput", da Lei n.11.343/2006)- fl. 294.
+Nesta Corte, a defesa pretende, em suma, a fixação da pena-base no mínimo legal, bem como a aplicação da causa especial de diminuição da reprimenda prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Sem pedido liminar, o Ministério Público Federal opinou pela denegação da ordem, por meio de parecer exarado peloSubprocurador-Geral da RepúblicaHaroldo Ferraz da Nóbrega (fls. 323/326).
+É o relatório.
+O Tribunal de origem manteve a fixação da pena-base em 1/6 acima do mínimo legal, tendo em vista a quantidade do material entorpecente apreendido, qual seja,1.407 porções, contendo 637,60 gramas de cocaína; 3 porções, contendo 182,32 gramas de cocaína; 69 porções, contendo 175,740 gramas de maconha(fl. 302), em harmonia com a jurisprudência desta Casa. Com efeito,a elevada quantidade de drogas apreendidas justificam a exasperação da pena-base, a teor do que estabelecido no art. 42 da Lei n. 11.343/2006(AgRg no HC n. 629.029/SP, Ministro Rogerio Schietti Cruz, Sexta Turma,DJe 17/3/2021).
+Quanto ao mais, entretanto, verifico a existência de constrangimento ilegal, uma vez queoTribunal de origem utilizou a quantidade do material entorpecente apreendido como fundamento tanto para aumentar a pena-base quanto para afastar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, o que configura indevido bis in idem.
+Com efeito, sob pena de bis in idem, a quantidade da droga apreendida não
+pode ser utilizada de forma concomitante para justificar o aumento da pena-base e para valorar o montante da causa de diminuição da pena preconizada no art. 33, § 4.º, da Lei n.11.343/2006, ou para afastar a sua aplicação (AgRg no HC n. 502.410/MS, Ministra Laurita Vaz, SextaTurma, DJe 2/8/2019).
+Assim, passo à nova dosimetria da pena.
+Na primeira fase, mantenho a pena-base em 5 anos e 10 meses de reclusão, além do pagamento de 583 dias-multa, tal como fizeram as instâncias ordinárias.
+Na segunda etapa, mantenho a exasperação de 1/6, devido à incidência da agravante prevista no art. 61, II, j, do Código Penal, chegando a6 anos, 9 meses e 20 dias de reclusão, além do pagamento de 680 dias-multa.
+Na terceira fase, fixo a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, em 1/2, tal como efetuado pelo Juízo de primeiro grau, tendo em vista a natureza altamente lesiva da cocaína, fixando a pena para o crime de tráfico de drogasem3 anos, 4 meses e 25 dias de reclusão, além do pagamento de 340 dias-multa.
+Em razão da fixação da pena-base acima do mínimo legal, estabeleço o regime semiaberto para o início do cumprimento da reprimenda (art. 33, § 3º, do Código Penal).
+Ante o exposto, concedo parcialmentea ordem a fim de fixar a pena do paciente, com referênciaao crime de tráfico de drogas, em3 anos, 4 meses e 25 dias de reclusão, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 340 dias-multa.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. PENA-BASE. EXASPERAÇÃO. QUANTIDADE DO MATERIAL ENTORPECENTE. FUNDAMENTAÇÃO IDÔNEA. TERCEIRA ETAPA. ART. 33, § 4º, DA LEI N. 11.343/2006. BIS IN IDEM. OCORRÊNCIA. INCIDÊNCIA DA MINORANTE. NECESSIDADE.
+Ordem parcialmente concedida nos termos do dispositivo.
