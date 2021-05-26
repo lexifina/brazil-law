@@ -1,0 +1,46 @@
+DECISÃO
+CELSO DALL" AGNOL (CELSO) ajuizou ação de regresso contra JOÃO ANTUNES (JOÃO), JORGE MIGUEL BAUAB (JORGE) e NAIR REGINA RIBEIRO (NAIR) pretendendo a restituição de valores pagos, sob a alegação de que quitou as dívidas sociais após o encerramento das atividades da empresa em que eram sócios.
+A ação foi julgada improcedente em relação a JORGE,declarando-seextinto o processo com resolução de mérito, com fundamento no artigo 487, inciso I, do NCPC, devendo CELSOarcar com o pagamento de custas, despesas processuais e honorários advocatícios, arbitrados em 10% sobre o valor conferido à causa, nos moldes do artigo 85, §2º, do NCPC.
+Foi julgada parcialmente procedente quanto a JOÃO e NAIR para condená-los ao pagamento das suas parcelas nas dívidas da empresa e, nos termos do artigo 86, caput, do NCPC, foram repartidos osônus sucumbenciaisproporcionalmente, ou seja, respondendo JOÃO e NAIR com o pagamento de 70% das custas, despesas processuais e honorários advocatícios, arbitrados em 10% sobre o valor da condenação, em atenção ao artigo 85, §2º, do CPC, arcando o autor com o pagamento restante.
+JOÃO interpôs recurso de apelação que foi desprovido pelo Tribunal Paulista nos termos do acórdãode relatoria do Desembargador CARLOS ALBERTO GARBI, assim ementado:
+REGRESSIVA. DÍVIDA SOCIAL PAGA PELO SÓCIO. DIREITO DE COBRAR DOS DEMAIS PARCELA POR ELES DEVIDA. PERÍCIA QUE CONSTATOU O PAGAMENTO DAS DIVIDAS E A TITULARIDADE DO DINHEIRO USADO PARA OS PAGAMENTOS. AUSÊNCIA DE MOTIVOS A CORROBORAR A IMPUGNAÇÃO DA PROVA PELO CORRÉU. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO. Ação de regresso. Sócio que pagou por dívidas sociais após o encerramento das atividades sociais. Direito de cobrar dos demais sócios a parcela por eles devida. Prova pericial que constatou o pagamento de dívidas e a titularidade do dinheiro utilizado nos pagamentos. Ausência de motivos a corroborar a impugnação do corréu à prova. Parte que não nomeou Assistente Técnico. Sentença que bem equacionou a responsabilidade dos sócios pelas dívidas sociais. Manutenção. Recurso não provido (e-STJ, fl. 1.441).
+Inconformado, JOÃO manejou recurso especial com fundamento no art. 105, III, a e c, da CF, alegando a violação doart. 206, § 3º, V, do CC, ao sustentar (1) a ocorrência de prescrição, por se tratar de pretensão de reparação civil, sendo aplicável o prazo trienal; além de (2) dissídio jurisprudencial, tendo em vista que, no acórdão recorrido, o Tribunal Paulista aplicou o prazo geral de dez anos, enquanto que, em acórdão paradigma, Tribunal Gaúcho entendeu pela aplicação do prazo prescricional de três anos (e-STJ, fls. 1.448/1.464).
+As contrarrazões foram apresentadas (e-STJ, fls. 1.488/1.498).
+O apelo nobre foi admitido (e-STJ, fls. 1.500/1.502).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1)Prescrição
+Analisando a questão relacionada àprescrição, o Tribunal Estadualassim esclareceu:
+O autor ajuizou ação de regresso contra os réus alegando que todos foram sócios da empresa Panorâmica Empreendimentos Ltda., que teve suas atividades encerradas em 2005. Sustentou que várias dívidas sociais foram por ele quitadas após o encerramento das atividades da empresa, ensejando seu direito de regresso contra os demais sócios.
+Não há que se falar em prescrição. Não há prazo prescricional especial na lei para o pedido do autor, que tampouco pode ser considerado como pleito indenizatório. Assim, incide o prazo geral de dez anos estabelecido no art. 205 do CC/200  .. (e-STJ, fl. 1.443).
+Com efeito, o que se observa é que inexistiu pedido de reparação civil, mas requerimento de direito de regresso em relação aos sócios. Na inicialCELSO expressamente afirma sercredor da quota parte que deveria ser quitada por cada um dos réus, sendo ocrédito no valor de R$ 109.494,00 (cento e nove reais quatrocentos e noventa e quatro reais), atualizado até a data da propositura da demanda. É o hipótese, portanto, de inadimplemento contratual, incidindo o prazo decenal.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL.CIVIL E PROCESSUAL CIVIL. INADIMPLEMENTO CONTRATUAL. PRESCRIÇÃO.PRAZO DECENAL. EVENTUAL ENRIQUECIMENTO ILÍCITO. CAUSA JURÍDICA.PRESCRIÇÃO TRIENAL. AFASTAMENTO. JURISPRUDÊNCIA ATUAL. SÚMULA Nº 168/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça pacificou-se no sentido de que incide, em regra, o prazo prescricional decenal do art. 205 do Código Civil às pretensões fundadas no inadimplemento contratual (responsabilidade contratual).
+2. A prescrição trienal atinente à responsabilidade civil aquiliana ou extracontratual (art. 206, § 3º, V, do CC) não incide nas pretensões indenizatórias do credor prejudicado por descumprimento negocial.
+3. A ação de enriquecimento sem causa (ação in rem verso) somente é cabível quando o indébito não tiver "causa jurídica", dada a sua subsidiariedade. Para a incidência da prescrição de 3 (três) anos inscrita no art. 206, § 3º, IV, do CC, a pretensão fundada no enriquecimento sem causa (arts. 884 e 886 do CC) deve possuir os seguintes requisitos: enriquecimento de alguém; empobrecimento correspondente de outrem; relação de causalidade entre ambos;ausência de causa jurídica; e inexistência de ação específica.
+4. A discussão acerca da entrega de bens patrimoniais decorrentes de reputada relação contratual e eventual repetição de indébito ou condenação em perdas e danos não se enquadra na hipótese do art.
+206, § 3º, IV, do CC, seja porque há causa jurídica (relação obrigacional prévia entre as partes em que se debate a legitimidade de cobranças), seja porque a ação é específica, devendo ser aplicado o prazo decenal do art. 205 do CC.
+5. É possível, com base na Súmula nº 168/STJ, inadmitir embargos de divergência quando a jurisprudência desta Corte Superior estiver no mesmo sentido do acórdão embargado.
+6. Agravo interno não provido.
+(AgInt nos EREsp 1533276/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 20/04/2021, DJe 26/04/2021)
+Desse modo, resta afastada a incidência da prescrição trienal.
+(2) Dissídio jurisprudencial
+A jurisprudência desta Corte está sedimentada no sentido de que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente.
+Sob esse aspecto, confira-se o seguinte julgado em hipótese análoga:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANOS MATERIAIS E MORAIS. INDENIZAÇÃO. PLANO DE SAÚDE. COBERTURA. INTERNAÇÃO. NEOPLASIA. NEGATIVA. FALECIMENTO. INADIMPLEMENTO CONTRATUAL. DIVERGÊNCIA JURISPRUDENCIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA Nº 284/STF. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. MULTA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, o dissídio jurisprudencial não restou demonstrado nos moldes legal e regimental ante a ausência de similitude fática entre os arestos confrontados.
+3. Se a divergência não é notória, e nas razões de recurso especial não há a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional. Precedente.
+4. O Superior Tribunal de Justiça tem entendimento firmado no sentido de que o não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art.
+1.021, § 4º, do CPC/2015, sendo indispensável o nítido não cabimento do recurso. Precedente.
+5. Agravo interno não provido.
+(AgInt no AREsp 1740350/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/03/2021, DJe 25/03/2021)
+No caso, JOÃOnão particularizou o dispositivo de lei sob o qual recairia a divergência. Em tal circunstância, aplica-se a Súmula n. 284 do STF, tendo em vista a deficiência na fundamentação recursal.
+Nessas condições,CONHEÇO EM PARTE do recurso especial, e, nessa extensão, NEGO-LHEPROVIMENTO.
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor de CELSO,limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL.RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC.DIREITO DE REGRESSO. DÍVIDA SOCIAL. PRESCRIÇÃO. INAPLICABILIDADE DO PRAZO TRIENAL. DISSÍDIO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. INCIDÊNCIA DA SÚMULA Nº 284 DO STF.RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO,NÃO PROVIDO.
