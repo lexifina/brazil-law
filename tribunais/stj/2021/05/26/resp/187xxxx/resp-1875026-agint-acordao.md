@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUCESSÃO EMPRESARIAL. ACÓRDÃO CUJA CONCLUSÃO É PELA NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA.
+1. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. No caso dos autos, a situação fático-probatória delineada no acórdão a quo revela a desnecessidade da integração pedida nos embargos de declaração, notadamente por demonstrar simples irresignação quanto ao resultado desfavorável à pretensão fazendária.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto pela FAZENDA NACIONAL contra decisão que não conheceu de recurso especial em que discute a ocorrência de sucessão empresarial, negando-lhe provimento quanto à tese de violação do art. 1.022 do CPC/2015.
+A parte agravante sustenta, em síntese (fls. 1477/1481):
+A Fazenda Nacional se conforma com a parte da decisão proferida que entendeu que incide a Súmula 7/STJ no que tange à violação ao art. 133do CTN, deixando de interpor recurso quanto a esse ponto. No entanto, exerce o direito de interposição de recurso parcial quanto aos demais pontos da decisão.
+ ..
+No ponto relativo aoartigo1.022 do Código de Processo Civil, a decisão está baseada na afirmação de que o tribunal de origem enfrentou de forma integral a controvérsia, não havendo que se falar em omissão em vista dos embargos de declaração opostos pela Fazenda Nacional. No entanto, a agravante pede vênia para insistir na alegação de que houve omissão que prejudicou o correto julgamento da causa. Explica-se. Nas razões dos embargos de declaração opostos pela Fazenda Nacional foram mencionados diversos pontos que comprovam a sucessão tributária, dentre eles, notícias veiculadas pela imprensa à época da sucessão corroboram todas as provas colacionadas pela União aos autos, tais como as Fichas Cadastrais da JUCESP das empresas envolvidas na sucessão, bem como os extratos dos sistemas da Administração Pública. Apesar disso, todas as afirmações foram desconsideradas pelo acordão que julgou os embargos de declaração.
+Impugnação apresentada por MAGAZINE LUÍZA S/A (fls. 1486/1490).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUCESSÃO EMPRESARIAL. ACÓRDÃO CUJA CONCLUSÃO É PELA NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA.
+1. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. No caso dos autos, a situação fático-probatória delineada no acórdão a quo revela a desnecessidade da integração pedida nos embargos de declaração, notadamente por demonstrar simples irresignação quanto ao resultado desfavorável à pretensão fazendária.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a conclusão da decisão agravada deve ser mantida, pois não se verifica violação do art. 1.022 do CPC/2015.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 1328/1337):
+No caso, não há ao menos início de prova de existência de contrato informal dando conta de que Magazine Luíza S/A adquiriu fundo de comércio pertencente a Lojas Kolumbus. O que existe, de fato, são contratos de locação dos espaços físicos antes ocupados pelo Grupo Kolumbus, entabulados diretamente com os proprietários dos imóveis.
+A responsabilidade fiscal prevista no art. 133 do Código Tributário Nacional exige comprovação da efetiva aquisição do fundo de comércio. Assim, tal ônus não pode ser atribuído a outrem com base em mera suspeita de sucessão empresarial mediante fraude.
+ ..
+No caso, não resta demonstrada, cabalmente, a aquisição de fundo de comércio nos termos do art. 133 do Código Tributário Nacional, pois a documentação juntada às fls.263/600 dos autos demonstra que a Magazine Luíza S/A apenas locou de terceiros proprietários dos imóveis os espaços físicos antes ocupados pelas filiais das lojas deComplexo Móveis e da Kolumbus, contratos estes que não foram impugnados antes pelo recorrente.
+Não há nos autos nenhum contrato ou documento demonstrando que os móveis, utensílios, maquinários, equipamentos, mercadorias e veículos das lojas Complexo Móveis/Kolumbus foram utilizados na consecução do objetivo social de Magazine Luíza S/A, nos imóveis por ela locados.
+Além disso, não foi carreado aos autos nenhuma prova que atestea existência de conluio fraudulento entre Complexo Móveis, Kolumbus, Magazine Luíza e os proprietários dos imóveis locados tendente a fraudar o fisco, de forma a se concluir que a finalidade dos contratos de prestação de serviços e locação anexados autos era encobrir fraude.
+Mesmo se entendendo que Magazine Luíza adquiriu os pontos comerciais das antigas lojas Kolumbus e de Complexo Móveis, ainda assim não se pode falar em aquisição de fundo de comércio para fins de sucessão empresarial, já que para tanto também era necessário a aquisição dos bens materiais, o que não foi provado in casu. O fato de Magazine Luíza S/A ter se estabelecido em alguns dos endereçosonde funcionaram as lojas Kolumbus e Complexo Móveis nãocaracteriza, por si só, sucessão empresarial a ensejar responsabilidade pelas dívidas fiscais deixadas pelas empresas deste grupo. Para tanto, exige-se que o fundo comercial constituído por estas fosse integralmente continuado por aquela.
+Sobre a clientela da executada, não é certo que foi captada pela embargaste. Caso tenha sido, não se deu por conta de aquisição de fundo de comércio, mas sim por coincidência de endereço de localização comercial.
+ ..
+A questão da sucessão empresarial aqui posta também foi objeto de pronunciamento pelo Tribunal Regional do Trabalho da 2" Região, o qual se pronunciou no sentido de que Magazine Luíza S/A não sucedeu as atividades comerciais das lojas Kolumbus, por ausência de provas de aquisição de fundo de comércio, conforme se constata às fls. 1173/1202 dos autos. Dessa forma, não se pode atribuir responsabilidade fiscal, por sucessão, a Magazine Luíza, apenas pelo fato de se instalar no endereço do primitivo devedor.
+O trabalho da Imobiliária Higienópolis S/C Ltda não pode ser considerado como disfarce de tratativas anteriores, pois consta às fls. 944/945 dos autos que em 24 de março de 2008 Magazine Luíza lhe pagou um milhão de reais, sendo que não há nada nos autos demonstrando que tal pagamento não se refere a comissão decorrente de intermediação imobiliária.
+Além do Mais, existem vários julgamentos proferido por outros tribunais, reconhecendo que Magazine Luíza não é sucessora de Complexo Móveis, conforme se constata às fls.1173/1202 dos autos.
+Diante do exposto, dou provimento ao recurso de apelação, para excluir Magazine Luíza S/A do polo passivo da execução fiscal, bem como condenar a apelada a pagar honorários advocatícios nos termos do art. 85, § 5º, do CPC atual e da fundamentação supra.
+Contra o acórdão, a Fazenda opôs embargos de declaração, pedindo integração quanto à comprovação da sucessão empresarial e destacando (fls. 1343/1356)::
+"as notícias veiculadas nos citados periódicos foram todas corroboradas por documentos carreados aos autos, tais como as Fichas Cadastrais da JUCESP das empresas envolvidas na sucessão, bem como os extratos dos sistemas da Administração Pública. A sucessão empresarial requerida pela União e confirmada pelar. sentença não utilizou como única fundamentação as noticias veiculadas nos jornais; estas foram apenas uma parte do conjunto probatório anexado aos autos. O v. acórdão embargado, todavia, não se manifestou em relação aos outros meios de prova, mas apenas sobre as noticias de jornais. Outrossim, restou demonstrado nos autos, a Magazine Luiza não apenas locou os imóveis da Kolumbus, mas obteve vantagens em adquirir tais estabelecimentos, pois além de ter sucedido os pontos comerciais de melhor localização e disputados por concorrência, ficou com a antiga clientela da Kolumbus"
+Porém, por ocasião do julgamento dos embargos de declaração, nada foi acrescido à fundamentação (fls. 1359/1367).
+Pois bem.
+Como antes afirmado na decisão ora agravada, não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+E situação fático-probatória delineada no acórdão revela a desnecessidade da integração pedida, notadamente por demonstrar simples irresignação quanto ao resultado desfavorável à pretensão fazendária.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
