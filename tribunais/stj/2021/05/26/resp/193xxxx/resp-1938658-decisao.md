@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região,assim ementado (fl. 522):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. HONORÁRIOS. AÇÃO ORDINÁRIA. CUMULAÇÃO. POSSIBILIDADE. CASO CONCRETO.
+1. De acordo com a jurisprudência desta Corte, tendo a execução fiscal sido extinta em decorrência direta da decisão proferida na ação autônoma, não há se falar em nova fixação de honorários advocatícios na ação executiva.
+2. Hipótese, contudo, em que, apesar da ação ordinária abranger a CDA da execução fiscal, foi necessária a atuação da procuradora da executada, até para postular a liberação de valores bloqueados, montante que deve ser considerado o proveito econômico para fins de honorários advocatícios.
+3. Apelo provido em parte.
+Embargos de declaração rejeitados (fl. 561).
+A recorrente aponta, além de divergência jurisprudencial, violação doart. 85, §§ 2º e 3º, do CPC/2015. Sustenta, em síntese, que o proveito econômico obtido, para fins de fixação doshonorários advocatícios, deve ser entendido como o valor atualizado da execução extinta. Pretende que a verba honorária seja arbitrada entre 10% a 20% sobre o a valor atualizado da execução.
+Com contrarrazões (fls. 615/617).
+Inadmissão do recurso às fls. 620/624.
+Decisão de conversão do agravo para recurso especial (fl. 660).
+É o relatório. Passo a decidir.
+De início, destaque-se que a jurisprudência desta Corte entendepela possibilidade de arbitramento de honorários advocatícios de sucumbência, cumulativamente, na execução fiscal e na ação que visa desconstituir o crédito executado. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXTINÇÃO POR CONSEQUÊNCIA DE DECISÃO EM AÇÃO ANULATÓRIA.
+HONORÁRIOS DE SUCUMBÊNCIA. CUMULAÇÃO. POSSIBILIDADE.
+1. O acórdão recorrido está em sintonia com pacífico entendimento jurisprudencial deste Tribunal Superior, pela possibilidade de arbitramento de honorários advocatícios de sucumbência, cumulativamente, na execução fiscal e na ação que visa desconstituir o crédito executado. Precedentes.
+2. Agravo interno não provido(AgInt no REsp 1.845.746/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 12/04/2021, DJe 15/04/2021).
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.
+CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO FISCAL.
+HONORÁRIOS ADVOCATÍCIOS. CUMULAÇÃO COM A CONDENAÇÃO EM AÇÃO ANULATÓRIA. POSSIBILIDADE. SÚMULA N. 568/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A condenação em honorários na ação de embargos à execução independe da existência de outra condenação no próprio juízo executivo ou na ação anulatória. Precedentes.
+III - O Relator está autorizado, por meio de decisão monocrática, a negar provimento a recurso ou pedido contrário à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ.
+IV - A Agravante não apresentou argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido(AgInt no REsp 1.616.301/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 16/08/2018, DJe 22/08/2018).
+PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. EMBARGOS À EXECUÇÃO FISCAL.PARCELAMENTO. HONORÁRIOS ADVOCATÍCIOS DEVIDOS EM AÇÕES CONEXAS.INCLUSÃO. VERIFICAÇÃO. ANÁLISE DE LEI LOCAL OU DO ACORDO.IMPOSSIBILIDADE. ÔNUS SUCUMBENCIAIS. DISTRIBUIÇÃO. REEXAME DE MATÉRIA FÁTICA. JUÍZO DE EQUIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A verba de sucumbência devida nas execuções fiscais é independente daquela a ser arbitrada em ações conexas, como embargos do devedor ou ações anulatórias. Precedentes.
+ ..
+6. Agravo interno desprovido(AgInt no AREsp 1.474.450/GO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 17/10/2019, DJe 11/11/2019).
+Na espécie, o Tribunal de origem fixou os honorários advocatícios em 10% sobre o valor do proveito econômico obtido que, no caso, representaria o montante liberado do bloqueio efetivado mediante o Bacenjud. Afirmou que não poderia ter como base de cálculo o valor total da execução, por entender que tal proveito econômico já teria sido obtido na ação ordinária.
+Ocorre que o acórdão recorrido, ao entender dessa forma, destoou da jurisprudência desta Corte, de que o proveito econômico obtido com a extinção do executivo fiscal é o valor executado, e não o valor liberado a título de penhora. Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.HONORÁRIOS ADVOCATÍCIOS. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CONTRIBUINTE EXCLUÍDA DO POLO PASSIVO. HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO QUE CORRESPONDE AO VALOR DA DÍVIDA TRIBUTÁRIA E NÃO AO VALOR DOS BENS PENHORÁVEIS DA PARTE. PROVEITO ESTIMÁVEL. AUSÊNCIA DE EXCEPCIONALIDADE. IMPOSSIBILIDADE DE FIXAÇÃO EQUITATIVA. AGRAVO INTERNO DA FAZENDA NACIONAL DESPROVIDO.
+1. O Tribunal de origem, ao acolher a exceção de pré-executividade e reconhecer a ilegitimidade passiva do Particular para a Execução Fiscal, entendeu que o proveito econômico obtido, para fins de cálculo dos honorários sucumbenciais, consistiria nos bens penhoráveis da parte excipiente e, sendo ela pessoa necessitada, esse proveito seria inestimável, permitindo a fixação equitativa dos honorários prevista no art. 85, §8o. do Código Fux.
+2. Contudo, para fins de fixação dos honorários sucumbenciais, não havendo justa causa para deflagração de Execução Fiscal em seu desfavor, o proveito econômico obtido pelo Contribuinte é o próprio valor da execução fiscal, tendo em vista o potencial danoso que o feito executivo possuiria na vida patrimonial da parte executada caso a demanda judicial prosseguisse regularmente. Nesse sentido: AgInt no AREsp. 1.362.516/MG, Rel. Min. FRANCISCO FALCÃO, DJe 11.12.2018; REsp. 1.657.288/RS, Rel. Min. MAURO CAMPBELL MARQUES, DJe 2.10.2017; REsp. 1.671.930/SC, Rel. Min. OG FERNANDES, DJe 30.6.2017.
+3. A circunstância de a executada ser pessoa necessitada não altera tal conclusão, porquanto, caso fosse parte legítima, responderia com seus bens presentes e futuros pelo pagamento integral da dívida, nos termos do art. 789 do Código Fux. Assim, o proveito econômico não consiste no valor dos bens penhoráveis da excipiente, mas sim, ao valor correspondente a dívida pela qual ela deixou de ser responsabilizada. Em outras palavras, o proveito econômico com a extinção da execução em seu desfavor é a integralidade do que lhe estava sendo cobrado.
+4. Portanto, sendo estimável o proveito econômico obtido e inexistindo qualquer excepcionalidade no casos dos autos que justifique a fixação equitativa dos honorários, não incide a previsão contida no § 8o. do art. 85 do Código Fux, devendo os autos retornarem ao Tribunal de origem, para que a fixação dos honorários advocatícios observe o disposto no art. 85, §§ 2o. e 3o. do Código Fux, considerando-se como proveito econômico o valor da dívida tributária então exigida.
+5. Agravo Interno da FAZENDA NACIONAL desprovido(AgInt no REsp 1.818.118/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019).
+TRIBUTÁRIO. EXECUÇÃO FISCAL. EXTINÇÃO DO FEITO EM RAZÃO DA ANULAÇÃO DAS INSCRIÇÕES EM DÍVIDA ATIVA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS.PROVEITO ECONÔMICO ESTIMÁVEL. LIMITES E CRITÉRIOS DOS §§ 2º E 3º DO ART. 85 DO CPC/2015. APLICABILIDADE.
+I - De acordo com a jurisprudência do STJ, entende-se que o proveito econômico obtido pelo contribuinte é o próprio valor da execução fiscal, tendo em vista o potencial danoso que o feito executivo possuiria na vida patrimonial do executado caso a demanda judicial prosseguisse regularmente. Precedentes: REsp n. 1.657.288/RS, Rel.
+Ministro Mauro Campbell Marques, Segunda Turma, julgado em 26/9/2017, DJe 2/10/2017; REsp n. 1.671.930/SC, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 27/6/2017, DJe 30/6/2017.
+II - Agravo interno improvido(AgInt no AREsp 1.362.516/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 04/12/2018, DJe 11/12/2018).
+Ante o exposto, dou provimento ao recurso especial e determino a devolução dos autos ao Tribunal de origem para que, na fixação dos honorários advocatícios observe o disposto no art. 85, §§ 2o. e 3o. do Código Fux, considerando-se como proveito econômico o valor da dívida tributária exigida.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. EXECUÇÃO FISCAL EXTINTA. AÇÃO ORDINÁRIA. HONORÁRIOS. CUMULAÇÃO. POSSIBILIDADE. FIXAÇÃO COM BASE NO PROVEITO ECONÔMICO OBTIDO, QUE DEVE CORRESPONDER AO VALOR DO CRÉDITO EXECUTADO. RECURSO ESPECIAL PROVIDO.
