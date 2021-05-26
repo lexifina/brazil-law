@@ -1,0 +1,28 @@
+DECISÃO:
+EMENTA: DIREITO PROCESSUAL PENAL. RECLAMAÇÃO. SÚMULA VINCULANTE 11. AUSÊNCIA DE ADERÊNCIA ENTRE O ATO RECLAMADO E O PARADIGMA DITO VIOLADO.
+1. Não há nos autos qualquer discussão acerca da motivação para manutenção do uso de algemas em audiência.
+2. Ausência de aderência entre o ato reclamado e a Súmula Vinculante 11.
+3.  Reclamação a que se nega seguimento. Prejudicado o pedido liminar.
+    1. Trata-se de reclamação, com pedido liminar, ajuizada por Fábio José da Silva, com fundamento nos arts. 102, I, l, e 103-A, §3º, da CF; arts. 156 a 162 do RISTF e art. 988, II, do CPC, em face de decisão proferida nos autos nº 0000244-87.2017.8.26.0177, em trâmite na Vara Única de Embu Guaçu/SP, que supostamente teria afrontado a autoridade da Súmula Vinculante 11.
+    2. O autor alega que se encontra preso e foi acusado da prática do crime de homicídio qualificado. Sustenta que o órgão reclamado determinou que somente o acusado participaria virtualmente da sessão plenária, enquanto as testemunhas, a acusação, e os defensores estariam presentes no julgamento. Defende que a diferenciação prejudica a realização plena do seu contraditório e ampla defesa, o que acarretaria violação à Súmula Vinculante 11. Requer, liminarmente, que seja assegurada a presença física do reclamante na sessão plenária do Tribunal do Júri.
+    3. É o relatório. Decido.
+    4. Dispenso as informações, bem como a manifestação da Procuradoria-Geral da República, diante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único).
+    5. Inicialmente, pontuo que a reclamação dirigida a esta Corte é cabível somente quando se sustenta usurpação de sua competência, ofensa à autoridade de suas decisões ou contrariedade a Súmula Vinculante (CF/88, arts. 102, I, l, e 103-A, § 3º). Em se tratando de alegação de violação a decisão dotada de efeito vinculante, há necessidade de relação de aderência estrita entre o ato impugnado e o paradigma supostamente violado. A Súmula Vinculante 11 prevê:
+    Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado.
+    6. Destaco, ainda, que a Súmula Vinculante 11 tem por objetivo assegurar a dignidade do acusado, bem como evitar possíveis malefícios, decorrentes de prévio juízo negativo de periculosidade que possam ser feitos em relação à sua pessoa.
+    7. Não é o que se trata nos autos. No caso, o autor se insurge contra a coleta do interrogatório por videoconferência, mantido pelo órgão reclamado com fundamento pela precaução de saúde, evitando a locomoção do autor durante a pandemia de COVID-19. Não há nos autos reclamado qualquer menção ao uso de algemas. Veja-se, nesse sentido, o ato reclamado:
+    “Fls. 597/98: Compreende-se perfeitamente as preocupações do nobre Defensor, no entanto, parece-nos que são mais relacionadas à temática em abstrato, do que ao caso concreto.
+    É que, em nenhum momento, a Defesa trouxe aos autos qualquer circunstância concreta e específica, passível de lhe causar prejuízos, tal como estabelecido na decisão de fls. 548, frise-se, publicada em 15 de julho de 2020.
+    Este lapso temporal decorrido, inclusive, estaria a indicar que a Defesa deixou passar a oportunidade para suscitar a questão nos autos, porquanto apresentou oposição apenas em 03 de setembro de 2020, após a publicação de decisão, contendo a sistemática de realização do plenário.
+    De toda forma, cuidando-se de oposição apenas e tão somente em tese, desacompanhada de qualquer circunstância objetiva, não se afigura, neste momento excepcional vivenciado, com substrato para subsistir.
+    Na medida em que o procedimento de interrogatório por videoconferência vem sendo prática adotada e incentivada pelo Egrégio Tribunal de Justiça, inclusive, em plenários do Tribunal do Júri, com fundamento de diversas normativas lançadas que são de conhecimento da comunidade jurídica.
+    Não havendo qualquer prejuízo em abstrato para a Defesa, eis que o réu estará localizado em sala separada, com acesso à integralidade do ato e aos advogados, poderá ser visualizado pelos jurados e, se pretender e providenciar a Defesa, poderá utilizar roupa que não seja uniforme da penitenciária.
+    Cuida-se, portanto, à evidência, de procedimento que ostenta amparo legal e tem a finalidade de proteger a saúde de todos, inclusive do próprio acusado, fato que, frise-se, se justifica ainda mais no caso específico caso dos autos.
+    Essencialmente porque o réu está detido na penitenciária de Junqueirópolis, município localizado a 600km da cidade de Embu Guaçu, sendo de conhecimento notório que o seu transporte implicará em diversas passagens por outras penitenciárias, circunstância que potencializa o risco de contágio em face do próprio acusado.
+    Diante do exposto, com a devida vênia ao entendimento da Defesa, nesta circunstância excepcional, é o caso de INDEFERIMENTO do pedido.”
+    8. Com efeito, não havendo nos autos qualquer discussão acerca da motivação para manutenção do uso de algemas em audiência, carece a presente reclamação de aderência entre o ato reclamado e a Súmula Vinculante 11, exigência imprescindível para o cabimento da presente ação (Rcl 12.887-AgR, Rel. Min. Dias Toffoli).
+    9. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento à reclamação. Fica prejudicado o pedido cautelar.
+    Publique-se. Intime-se.
+          Brasília, 26 de maio de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
