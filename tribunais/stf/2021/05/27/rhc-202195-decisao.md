@@ -1,0 +1,22 @@
+DECISÃO:
+EMENTA: Penal. Habeas Corpus. Receptação qualificada. Dosimetria da pena. Regime inicial. Jurisprudência do supremo tribunal federal.
+    1.  Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria do Min. Rogerio Schietti Cruz, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT INDEFERIDO LIMINARMENTE. PEDIDO CONTRÁRIO À JURISPRUDÊNCIA CONSOLIDADA. RECEPTAÇÃO QUALIFICADA. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PENA-BASE NO MÍNIMO LEGAL. REINCIDÊNCIA. REGIME PRISIONAL MAIS SEVERO. SÚMULA N. 269 DO STJ. REPRIMENDAS RESTRITIVAS DE DIREITO. REQUISITOS DO ART. 44, II, DO CP. AUSÊNCIA. AGRAVO NÃO PROVIDO.
+    1. O réu reincidente, condenado a pena igual ou inferior a 4 anos, que ostente circunstâncias judiciais favoráveis, poderá iniciar o cumprimento da sanção no regime semiaberto, aos ditames do enunciado n. 269 da Súmula desta Corte Superior, assim estabelecido: ‘É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais’.
+    2. Não há falar em aplicação do art. 43 do Código Penal ao agravante, com a substituição da reprimenda corporal por penas restritivas de direitos, à luz do disposto no inciso II do art. 44 da mesma norma, in verbis: ‘Art. 44. As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando: [...] II – o réu não for reincidente em crime doloso’.
+    3. Agravo não provido.”
+    2. Extrai-se dos autos que o paciente foi condenado pela prática do crime previsto no art. 180, § 1º, do Código Penal à pena de 3 anos e 6 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 11 dias-multa.
+    3. A defesa apelou. O Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso.
+    4. Na sequência, o paciente impetrou habeas corpus no Superior Tribunal de Justiça. O Relator do HC 634.731, Min. Rogerio Schietti Cruz indeferiu liminarmente o writ. Interposto agravo regimental, o recurso foi desprovido.
+    5. Neste recurso ordinário em habeas corpus, a parte recorrente sustenta a “inadequação do ponto de vista social e constitucional a obrigatoriedade de fixação do regime semiaberto quando presente a reincidência nos casos de apenados a penas privativas de liberdade iguais ou inferiores a 4 anos, eis que, a pretexto de se visar a ressocialização do condenado, a postura adotada inibe os efeitos pedagógicos da pena, pois coloca o infrator de baixa potencialidade delitiva em contato prolongado e desnecessário com o sistema carcerário, apesar da natureza apaziguadora do regime semiaberto, a realidade carcerária do país torna utópica a conveniente aplicação do dito regime”.
+    6. Requer a defesa “seja reconhecida a possibilidade de aplicação do benefício previsto no artigo 33 do Código Penal, na fixação de regime inicial aberto para o cumprimento da pena; e ainda em relação ao mérito, que seja concedido o benefício previsto no artigo 44, do Código Penal, substituindo-se a pena privativa de liberdade por restritiva de direitos”.
+    7. Decido.
+    8. O recurso ordinário não deve ser provido.
+    9. De início, afirmo que a dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível, em habeas corpus, a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. De modo que a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    10. A orientação jurisprudencial do STF é no sentido que, em regra, a reincidência, em razão de disposição legal expressa (CP, art. 33, § 2º), impossibilita a fixação de regime inicial menos gravoso. Nesse sentido, veja-se o HC 176.943-AgR, Rel. Min. Luiz Fux.
+    11. O Tribunal de origem não divergiu desse entendimento, ao consignar: “fixado o regime semiaberto para início de cumprimento de pena com relação ao réu Luciano, o que entendo correto e mantenho, dada a reincidência ostentada.”
+    12. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+    Publique-se.
+          Brasília, 27 de maio de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
