@@ -1,0 +1,18 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    Argileu Alves de Souza Júnior afirma haver a Segunda Turma do Tribunal Regional Federal da 5ª Região, no processo nº 0802596-67.2015.4.05.8100, inobservado o decidido no agravo regimental no recurso extraordinário nº 916.425 e, sob o regime da repercussão geral, no recurso extraordinário nº 837.311.
+    Esclarece a impetração de mandado de segurança objetivando nomeação e posse, ante a aprovação, em 89º lugar, em concurso público realizado em 2010 para provimento de cargos de analista bancário no Banco do Nordeste do Brasil S.A. Aponta a convocação de 85 candidatos e 6 desistências. Alega surgido direito à nomeação dos classificados até a 91ª colocação. Diz chamados aprovados até a posição imediatamente anterior à própria, tendo a instituição bancária lançado novo edital, em 2014, antes de expirado o prazo de validade do certame anterior, visando o preenchimento de outras 12 vagas, a evidenciar preterição. Julgado procedente o pedido, veio a assumir a função. A óptica foi reformada em remessa necessária. Interposto recurso extraordinário, teve o processamento indeferido. Agravo acabou remetido ao Supremo – nº 1.264.343 –, tendo o então Presidente, ministro Dias Toffoli, determinado a devolução, considerada a sistemática da repercussão geral.
+    Sustenta contrariado o assentado no recurso extraordinário nº 837.311 – Tema nº 784 –, no qual fixada tese a revelar reconhecido, a candidatos aprovados fora do número de vagas, o direito à nomeação, quando surgidas novas posições a serem preenchidas ou aberto novo concurso durante o prazo de validade do edital. Diz configurar situação de preterição. Sublinha reafirmado o entendimento, pela Primeira Turma, ao apreciar o agravo regimental no recurso extraordinário nº 916.425.
+    Requer, no campo precário e efêmero, a suspensão dos efeitos das decisões impugnadas, restaurando-se a eficácia da sentença, com a reintegração ao cargo para o qual aprovado. Pretende, no mérito, a “reforma” do acórdão da remessa necessária, ficando preservada a nomeação.
+    O Tribunal de origem esclareceu o histórico processual.
+    Vossa Excelência negou seguimento à medida em 1º de julho de 2020, levando em conta o verbete nº 734 da Súmula e o disposto no artigo 988, § 5º, inciso I, do Código de Processo Civil.
+    Em 17 de maio de 2021, proveu embargos declaratórios, para restabelecer a sequência da reclamação.
+    2. Quanto ao apontado desrespeito ao decidido no agravo no recurso extraordinário nº 916.425, relator ministro Luís Roberto Barroso, o reclamante não participou da relação subjetiva formada. É impróprio o manuseio da medida visando uniformização de jurisprudência.
+    Relativamente à apontada contrariedade ao proclamado no piloto revelador do Tema nº 784, o exame da parte final do artigo 988, § 5º, inciso II, do Código de Processo Civil sinaliza que o cabimento da reclamação, arguindo inobservância de acórdão referente a processo submetido à sistemática da repercussão geral, está condicionado ao esgotamento das instâncias ordinárias, o que somente ocorre quando apreciado agravo protocolado em face da inadmissão de recurso extraordinário.
+    O requisito não foi atendido. Não se busca a sequência do recurso extraordinário. Embora arguida contrariedade a tese surgida sob a ótica da repercussão maior, tem-se pretensão direcionada contra acórdão da remessa necessária, visando a reintegração ao cargo para o qual nomeado em virtude da sentença prolatada, posteriormente reformada.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 27 de maio de 2021.
+Ministro MARCO AURÉLIO
+Relator
