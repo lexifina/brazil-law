@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido de liminar impetrado em favor de ARTHUR BALSALOBRE GOMES em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2047741-70.2021.8.26.0000).
+O paciente teve a prisão em flagrante convertida em preventiva (fls. 43-47)e foi denunciado por suposta prática dos delitos descritos nos arts. 33,caput, c/c o art. 40, III, ambos da Lei n. 11.343/2006, e 16, § 1º,da Lei n. 10.826/2003.
+O decreto prisional fundou-se na apreensão de expressiva quantidade deentorpecentes-38 porções de maconha pesando 803,26g-, além de balança de precisão e arma de fogo municiada com numeração suprimida. Impetradowritoriginário, a ordem foi denegada.
+A defesa alega que o paciente sofre constrangimento ilegal,poisa prisão preventiva fundou-se na gravidade abstrata do delito.
+Sustenta que o paciente é primário, de bons antecedentes, não faz parte de organização criminosa e não praticou crime hediondo, fazendo jus à aplicação de medidas cautelares alternativas, tendo em vista a desproporcionalidade da prisão preventiva para com o presente caso.
+Afirma que a prisão preventiva é medida extrema, não devendo ser aplicada quando há possibilidade de o agente cumprir a dívida social com medidas cautelares mais brandas. Acrescenta que a custódiafere o princípio da presunção de inocência.
+Argumenta que a gravidade do crime não constitui fundamento idôneo para justificar a decretação da prisão preventiva.
+Requer, liminarmente e no mérito, expedição de alvará de soltura em favor do paciente.
+O pedido de liminar foi indeferido às fls. 60-61.
+As informações foram prestadas às fls. 65-80 e 84-95.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 97-102).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJconsidera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fl. 54):
+Anoto, outrossim, que os crimes em apreço estão no rol daqueles passíveis de decretação da custódia preventiva, revelando-se insuficientes, frente às graves condutas criminosas em tese perpetradas, quaisquer das medidas cautelares diversas da prisão (artigos 310, II e 313, I, ambos do Código de Processo Penal).
+Ademais, o paciente possuía, em tese e no interior da sua residência, 38 (trinta e oito) porções de maconha, com peso líquido total de 803,26 gramas, e uma arma de fogo com numeração suprimida, além de uma balança de precisão (fls. 43/44 e 50), o que não o qualifica, à primeira vista, como um traficante eventual ou de pequeno porte.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+No presente caso, a quantidade deentorpecentes apreendida(803,26gde maconha) foiconsideradapelo Juízo de primeiro grau para a decretação da prisão preventiva, o que está de acordo com a orientaçãoda Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ademais, "não se pode dizer que a prisão preventiva é desproporcional em relação à eventual condenação que poderá sofrer ao final do processo, pois não há como, em sede de habeas corpus, concluir que o réu fará jus à pena mínima do delito em tela, especialmente em se considerando as circunstâncias do caso" (RHC n. 67.461/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/3/2016).
+Por fim,eventuais condições subjetivasfavoráveisdopaciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
