@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Universidade Federal do Rio Grande do Sulcom fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 250):
+ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. DOCENTE. UNICIDADE DAS CARREIRAS DE MAGISTÉRIO SUPERIOR FEDERAL. LEI 12.772/2012. REPOSICIONAMENTO FUNCIONAL. EFEITOS FINANCEIROS.
+1. Ao servidor público aposentado/pensionista, integrante da Carreira de Magistério do Ensino Básico, Técnico e Tecnológico, que se inativou antes da produção dos efeitos da Lei n.º 12.772/2012, em 01.03.2013 (art. 1º), e tem a garantia de paridade, deve ser assegurado o direito ao reposicionamento previsto no art. 35 do referido diploma legal.
+2. São devidas as diferenças remuneratórias decorrentes do reposicionamento desde a data do protocolo do requerimento administrativo feito pelo Sindicato representativo da categoria do servidor, de providências à Universidade no sentido de divulgar entre os professores aposentados a possibilidade de solicitar o reposicionamento na classe de associado previsto no art. 35 da Lei nº 12.772/2012.
+Opostos embargos declaratórios, foram rejeitados (fls. 285/299).
+A parte recorrente apontaviolação aos arts. 1.022, do CPC; 35, caput e §1º,da Lei nº 12.772/2012; 33, VII, da Lei nº 8.112/90. Sustenta, além de negativa de prestação jurisdicional,que "Não existe, para os aposentados e pensionistas ora demandantes, norma garantidora do reenquadramento de acordo com o tempo de doutoramento de cada um, pois o caput do artigo 35 da Lei n.º 12.772/2012 deixa claro que o reposicionamento é para os TITULARES DE CARGO DE PROVIMENTO EFETIVO DA CARREIRA DO MAGISTÉRIO SUPERIOR do Plano Único de Classificação e Retribuição de Cargos e Empregos" (fl. 330).
+Defende que "com a inativação, o docente não mais ostenta a condição de ocupante do cargo em que restou aposentado, mesmo porque não mais desempenha suas atividades, para as quais a Administração deverá buscar novo ocupante, a fim de permitir a necessária continuidade das funções inerentes ao dito cargo.Desta forma, resta inconteste que os servidores inativos e os pensionistas não podem ser considerados detentores de cargo de provimento efetivo da carreira, sendo a norma direcionada apenas para os ocupantes de cargos efetivos." (fl. 332).
+Assevera, por fim, que "em atenção ao princípio da eventualidade, sustenta-se que o termo inicial de reclassificação em carreira não poderia ser anterior à manifestação de interesse do próprio administrado, o que, na ausência de requerimento administrativo, deve ser apreendido como o ajuizamento de processo judicial." (fl. 344).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+De outro lado, em relação ao termo inicial do pagamento das diferenças, o Tribunal de origem assim se manifestou (fls. 247/248):
+Quanto ao termo inicial do pagamento das diferenças, pleiteiou a Universidade ré que, considerando que não há comprovação nos autos acerca de eventual requerimento administrativo, há de se considerar como o marco inicial de qualquer pagamento a data do ajuizamento da ação (31.03.2016), eis que somente a partir dali é que houve a manifestação volitiva do servidor.
+Já, o autor, em contrarrazões, defendeu que, em que pese o §1º do art. 35 da Lei nº 12.772/2012 afirme que o reposicionamento será efetuado mediante requerimento do servidor à respectiva IFE, no prazo de até 90 dias a partir da publicação desta Lei, com a apresentação da devida comprovação do tempo de obtenção do título de doutor, a publicação da Nota Técnica Conjunta nº 01/2013-SESu/SETEC/SAAA/MEC e do Ofício Circular nº 04/2013/DAP/PROGESP tornaram tal pedido vazio, uma vez que interpretaram que o reposicionamento não era devido aos servidores inativos.
+Asseverou, ainda, que, diante dessa prévia negativa da UFRGS, o Sindicato representativo da categoria protocolou reconhecimento administrativo, em maio de 2013, requerendo que a UFRGS adotasse providências para possibilitar aos professores aposentados solicitar referido reposicionamento (evento 26, OFIC3), o que restou indeferido (evento 26, PROCADM2).
+Finalizou, discorrendo que o requerimento formulado pelo Sindicato da categoria na esfera administrativa demonstrou inequivocadamente a pretensão dos docentes aposentados de obterem o reposicionamento dentro da classe de professor associado, preservando o direito às parcelas devidas a partir do respectivo protocolo.
+Passo ao exame
+Por primeiro, cabe ressaltar que o notório conhecimento acerca da orientação da Universidade no sentido da negativa do direito ao reposicionamento em comento aos servidores inativos (evento 31, PROCADM2) exime o autor de provar o interesse processual, podendo ajuizar diretamente a ação.
+Ademais, há nos autos um ofício, protocolado em 09/05/2013, no qual consta requerimento genérico feito pelo Sindicato (evento 31, OFIC3), de providências à Universidade no sentido de divulgar entre os professores aposentados a possibilidade de solicitar o reposicionamento na classe de associado previsto no art. 35 da Lei nº 12.772/2012, requerimento administrativo que, a meu ver, pode ser considerado como substitutivo daquele que não foi realizado individualmente pelo servidor.
+Destarte, dou parcial provimento à apelação da UFRGS para reconhecer os efeitos financeiros a partir de 09/05/2013.
+Nesse contexto, aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+No mais, destaca-se da fundamentação do acórdão recorrido o seguinte trecho (fls. 236/247):
+Ao analisar o pleito deduzido na inicial, o magistrado a quo assim decidiu:
+(..)
+Mérito
+A Lei nº 12.772/12, que dispõe sobre a estruturação do Plano de Carreiras e Cargos de Magistério Federal, assim dispõe no seu artigo 35:
+(..)
+Analisando-se o referido dispositivo legal veri ca-se que o reposicionamento dos ocupantes do cargo de Professor do Magistério Superior, titulares de cargo de provimento efetivo, ocorre com base em critério exclusivamente objetivo: o tempo mínimo da obtenção do título de doutor.
+E, de fato, não há referência aos servidores inativos.
+O Supremo Tribunal Federal reconheceu a existência de repercussão geral sobre o tema no julgamento do RE nº 606199, assim ementado:
+(..)
+Assim dispunha o parágrafo 8º do artigo 40 da Constituição, na redação dada pela EC nº 20/88:
+(..)
+Destarte, o Supremo Tribunal Federal adotou o entendimento de que ao servidor inativo abarcado pela garantia da paridade, nos termos do texto outrora em vigor da Constituição Federal, é assegurado o direito a quaisquer benefícios ou vantagens posteriormente concedidos aos servidores em atividade, inclusive o reposicionamento na carreira, desde que baseados em critérios objetivos, como tempo de serviço e titulação, aferíveis até a data da inativação.
+No caso dos autos, o autor foi aposentado com base no artigo 3º, I, II e III, da Emenda Constitucional nº 47/05 (Evento 1, Port9), possuindo direito às garantias de integralidade e paridade dos proventos em relação aos servidores da ativa, na forma do parágrafo único do artigo 3º da referida Emenda e possui a titulação exigida em lei (Evento 1, Out8).
+E considerando que o reposicionamento previsto na Lei nº 12.772/12, como dito, fundamenta-se em critérios objetivos e aferíveis até a data da inativação do demandante, impõe-se a procedência da sua pretensão.
+Nesse sentido é a jurisprudência do Tribunal Regional Federal da 4ª Região, cf. julgado a seguir transcrito:
+(..)
+III - Quanto ao mérito, não há reparos à sentença, cujos fundamentos adoto como razões de decidir.
+Acrescento a tais fundamentos o posicionamento adotado pela e.
+Terceira Turma desta Corte in verbis:
+Trata-se de decidir acerca do reconhecimento do direito do autor ao reposicionamento na classe de Professor Associado, nível IV, com a reti cação da protaria de concessão de aposentadoria, bem como a condenação da ré ao pagamento ao autor das parcelas vencidas e vincendas das diferenças de proventos decorrentes do referido reposicionamento. Requereu ainda o autor a condenação da ré ao pagamento de juros moratórios e correção monetária, incidentes até o efetivo pagamento dos valores devidos.
+A Lei nº 12.772/2012 dispôs sobre a estruturação do Plano de Carreira e Cargos de Magistério Federal, prevendo em seu artigo 35º que:
+(..)
+O autor alega ter obtido o título de Doutor em Filoso a em 1981, tendo se aposentado na classe de Professor Associado, nível I, em 03/06/2011.
+Todavia, com a edição da Lei 12.772/2013 houve o reposicionamento dos ocupantes de cargos do Magistério Superior Federal, tendo sido interpretada pela UFRGS ora, ré, como sendo aplicável somente aos docentes em atividade.
+O óbice à correção de seu reposicionamento na Classe de Associado, nível IV, reside na limitação adotada dada pela ré quanto ao disposto no art. 35 da lei supracitada, a qual em consonância com a Nota Técnica Conjunta nº 01/2013-SESu/SETEC/SAA/MEC, restringiu a aplicabilidade da referida lei somente aos docentes ativos, entendendo que a expressão constante no caput da referida norma legal - "(..) titular de cargo de provimento efetivo da Carreira do Magistério Superior (..)" (grifo nosso) - exclui os professores inativos do direito ao referido reposicionamento.
+Contudo, mesmo tendo o legislador empregado o termo "efetivo" no caput do art. 35 da lei 12.772/2012, não se pode limitar o alcance da referida norma apenas aos docentes ativos sob pena de ofensa à regra constitucional constante nas Emendas nº 41, art. 3º e 7º e EC nº 47, art.
+2º.
+Ademais, caso fosse admitido o entendimento de limitação da aplicação de reposicionamento somente aos docentes ativos, haveria de ser retirado o reposicionamento destes servidores bene ciados quando de suas aposentadorias, medida que seria totalmente descabível.
+Desta forma, tendo havido o preenchimento dos critérios constantes no art. 35 da Lei 12.772/2012 pelo autor, conforme documento OUT9, juntado no evento 1 dos autos, entendo pela procedência do pedido de reposicionamento do demandante na classe de professor associado, nível IV, devendo ser retificada a Portaria nº 2.831/2011.
+(..)
+Com efeito, se, por um lado, não há direito adquirido de servidores públicos aposentados em face de reestruturação de carreira, por outro lado, a regra da paridade, que não se limita ao respeito à irredutibilidade de remuneração e à concessão dos mesmos índices de revisão geral remuneratória, exige que a lei dê o mesmo tratamento aos inativos no que se refere a quaisquer benefícios ou vantagens posteriormente concedidos aos servidores em atividade de mesmo nível, desde que baseados em critérios objetivos, como no caso em comento.
+Nesse sentido, trago à colação aresto do Supremo Tribunal Federal:
+(..)
+Assim, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial.
+Confiram-se, a propósito, as seguintes decisões monocráticas proferidas em hipóteses semelhantes: REsp 1834225, Rel. Ministra Assusete Magalhães, DJE 30/09/2019; AREsp 1541499, Rel. Ministro João Otávio Noronha, DJE 27/09/2019; REsp 1836284, Rel. Ministra Regina Helena Costa, DJE 11/09/2019; REsp 1816135, Rel. Ministro Og Fernandes, DJE 20/08/2019; REsp 1816133, Rel. Ministro Herman Benjamin, DJE 08/08/2019; REsp 1733321, Rel. Ministro Benedito Gonçalves, DJE 24/06/2019.
+ANTE O EXPOSTO, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se.
