@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARCIO GONÇALVES DE SOUZA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado por MARCIO GONÇALVES DE SOUZA, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 171, § 5º, do CP, no que concerne à retroatividade do dispositivo apontado para que seja concedido prazo para representação da vítima sob pena de extinção da punibilidade pela decadência, trazendo o(s) seguinte(s) argumento(s):
+"De início, saliente-se que a retroação do §5º do art. 171 do Código Penal alcança todos os processos em curso, independentemente da fase processual, não gerando a extinção da punibilidade automática dos processos em curso, nos quais a vítima não tenha se manifestado favoravelmente à persecução penal.
+Entende-se que a lei n. 13.964/2019 não trouxe regras de direito intertemporal e, por isso, o impasse pode ser resolvido aplicando analogicamente o art. 91 da Lei n. 9.099/1995, ou seja, conferindo o prazo de 30 (trinta) dias para a vítima manifestar interesse na continuação da persecução penal, sob pena de decadência (fls. 560).
+Assim, pugna-se pela aplicação de lei mais benéfica, na forma do art. 107 do Código Penal, afim de decretar a extinção da punibilidade" (fls. 560/562).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+"Ocorre que, na hipótese dos autos, houve manifestação de vontade da vitima no sentido de ver instaurada a ação penal, já que, compareceu ao Distrito Policial, onde registrou o boletim de ocorrência e foi ouvida em declarações (fls. 8 a 9 e 40).
+Ora, ao levar a noticia criminis à Autoridade Policial, consoante entendimento jurisprudencial pacifico, a vitima, implicitamente, oferece válida representação, que prescinde de qualquer formalidade.
+ ..
+Forçoso, pois, reconhecer que, no caso, presente se achava a necessária condição de procedibilidade para o desenvolvimento válido e regular do processo, de sorte que nada obstava o julgamento do recurso" (fls. 575/576).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.157.074/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/8/2020; AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no REsp 1.842.047/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; e AgRg nos EAREsp 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
