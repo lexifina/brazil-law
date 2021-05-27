@@ -1,0 +1,4 @@
+# LEI Nº 17.373, DE 26 DE MAIO DE 2021
+Dispõe sobre a inspeção e a fiscalização sanitária e industrial de produtos de origem animal do Estado de São Paulo, revoga dispositivos da Lei nº 8.208, de 30 de dezembro de 1992, que dispõe sobre a prévia inspeção sanitária de produtos de origem animal, revoga a Lei nº 6.482, de 5 de setembro de 1989, que dispõe sobre a produção e o beneficiamento, em condições artesanais, do leite de cabra e seus derivados, altera a Lei nº 15.266, de 26 de dezembro de 2013, que dispõe sobre o tratamento tributário relativo às taxas no âmbito do Poder Executivo Estadual e a Lei nº 10.478, de 22 de dezembro de 1999, que dispõe sobre a adoção de medidas de defesa sanitária vegetal no âmbito do Estado
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
