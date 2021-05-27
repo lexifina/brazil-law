@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de agravo apresentado por EXPRESSO SAO LUIZ LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim resumido:
+DIREITO CIVIL TRANSPORTE RODOVIÁRIO RELAÇÃO DE CONSUMO RESPONSABILIDADE OBJETIVA PRESTAÇÃO DE SERVIÇO DEFEITUOSO
+Quanto à controvérsia, pela alínea "c" do permissivo constitucional, alega dissídio jurisprudencial com fundamento no art. 333, I, do CPC, no que concerne à necessidade de comprovação mínima dos fatos constitutivos, ainda que seja inegável a responsabilidade objetiva da empresa de transporte coletivo.
+É, no essencial, o relatório. Decido.
+Na espécie, não foi comprovada a divergência jurisprudencial, pois a mera transcrição de ementas não supre a necessidade de cotejo analítico, o qual exige a reprodução de trechos dos julgados confrontados, bem como a demonstração das circunstâncias identificadoras, com a indicação da existência de similitude fática e de identidade jurídica entre o acórdão recorrido e os paradigmas indicados.
+Nesse sentido: "A recorrente não se desincumbiu de demonstrar o dissídio de forma adequada, nos termos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ, tendo se limitado a transcrever e comparar trechos de ementas. Como é cediço, a simples transcrição de ementas com entendimento diverso, sem que se tenha verificado a identidade ou semelhança de situações, não revela dissídio, motivo pelo qual não é possível conhecer do recurso especial pela divergência". (AgRg no REsp 1.507.688/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/5/2020.)
+Confiram-se ainda os seguintes julgados: REsp 1.874.545/CE, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 29/6/2020; AgInt no AREsp 1.595.985/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgInt no AgInt no AREsp 1.397.248/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3/8/2020; e AgInt no REsp 1.851.352/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/4/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
