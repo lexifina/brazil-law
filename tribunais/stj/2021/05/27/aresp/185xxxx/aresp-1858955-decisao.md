@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado por PITER PAN INDÚSTRIA E COMÉRCIO LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO. Embargos à execução. Sentença de parcial provimento. Inconformismo das partes. Aplicação de multa contratual. Não provimento. Necessidade de ação cognitiva para formação de título. Ausência de previsão em lei para exequibilidade da multa em contrato de seguro por rescisão unilateral antecipada. Excesso na execução caracterizado. Indenização pelos valores cobrados em excesso, nos termos do artigo 940 do Código Civil. Impossibilidade. Não comprovação de inequívoca má-fé pela parte embargada na cobrança de valores já quitados. Sentença mantida. Recursos não providos.
+Quanto à controvérsia, alega violação do art. 940 do CC, atinente à aplicação da multa estabelecida no referido dispositivo legal, trazendo os seguintes argumentos:
+III.1 - Ao contrário do que sustentou o v. acórdão a ação de execução correlata aos presentes embargos não reúne os requisitos mínimos para processamento, quais sejam: certeza, liquidez e exigibilidade, tornando a cobrança indevida devendo ser aplicada a multa pertinente ao artigo 940 do Código Civil.
+ ..
+III.6 - Vale relembrar que a recorrida não apenas apresentou cálculos indevidamente majorados de valores já negociados como também insistiu no recebimento indevido de valores, o que reforça a exigência jurisprudencial da má-fé (fls. 328-329).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+A não incidência do artigo 940, do Código Civil foi aplicada corretamente, em consonância com a jurisprudência dominante sobre o assunto e com a Súmula nº 159, do Superior Tribunal de Justiça "cobrança excessiva, mas de boa-fé, não dá lugar às sanções do art. 1.531 do Código Civil". (atual artigo 940).
+A boa-fé se presume; a má-fé se comprova. E, nesse tocante, não houve comprovação de má-fé da embargada na cobrança da dívida, embora excessiva, ainda que em grande monta.
+Os e-mails e comunicações das partes mostram o desencontro de informações e a ausência de controle da SUL AMÉRICA, sobre o que se encontra em aberto e o que já foi quitado, e não a assumida ciência e intenção de prejudicar o embargante, cobrando deste valores que inequivocamente compreendeu como adimplidos.
+De tal sorte, não se pode impor à embargada o pagamento, seja simples ou em dobro, dos valores cobrados a maior (fls. 321, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
