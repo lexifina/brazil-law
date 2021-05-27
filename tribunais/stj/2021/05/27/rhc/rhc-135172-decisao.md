@@ -1,0 +1,6 @@
+DECISÃO
+ALLAN CHRISTIAN DE PAULA SANTOS DA SILVA, GILMAR LIBERIO DA SILVA E WESLEY BATISTA PARDINHO alegam sofrer coação ilegal, em decorrência da manutenção da prisão cautelar, em acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, nos autos do habeas corpus n. 1.0000.20.45747-1/000.
+A defesa pretende a soltura dos pacientes - acusados pela prática do delito de roubo circunstanciado - ou a aplicação do art. 319 do CPP, sob o argumento de excesso de prazo para formação da culpa.
+Em consulta processual realizada na página eletrônica do TJMG, verifico que sobreveio a prolação de sentença condenatória nos autos do processo objeto deste recurso (autos n. 0388.19.2165-8, Vara Criminal da Comarca de Luz/MG), condenando os acusados pela prática do delito previsto no art. 157, § 2º, II, V, §2º-A, I, na forma do art. 69, todos do Código Penal.
+Nesta ocasião, o Juízo singular empreendeu nova avaliação sobre os fundamentos suscitados para a imposição da segregação cautelar (art. 387, § 1º, do CPP), o que evidencia a prejudicialidade deste writ.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado este habeas corpus, pela perda do seu objeto.
