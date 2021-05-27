@@ -1,0 +1,23 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Município de Fortaleza contra acórdão do Tribunal de Justiça do Estado do Cearáassim ementado (e-STJ, fl. 132):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL EM EXECUÇÃO FISCAL. EXECUÇÃO FISCAL PROPOSTA EM FACE DE HERDEIRO ANTES DA PARTILHA. RESPONSABILIDADE TRIBUTÁRIA. ILEGITIMIDADE PASSIVA. ALTERAÇÃO DO POLO PASSIVO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 392/STJ.
+1. "A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução" (Súmula 392/STJ).
+2. O redirecionamento da execução contra o espólio só é admitido quando o falecimento do contribuinte ocorrer depois de ele ter sido devidamente citado nos autos da execução fiscal. Assim, se ajuizada execução fiscal contra herdeiro dos falecidos proprietários do imóvel antes de formalizada a partilha, mostra-se ausente uma das condições da ação, qual seja, a legitimidade passiva. Precedentes do STJ.
+3. Agravo regimental não provido.
+O recorrente alega a existência de contrariedade ao art. 121, II, do CTN, ao argumento de que a executada era proprietária do imóvel sobre o qual recai o crédito tributário, pelo que parte legítima. Entende, ainda, nãose aplicar à espécie o enunciado da Súmula 392/STJ.
+Semcontrarrazões.
+Admitido o recurso especial na origem, os autos vieram-me conclusos.
+É o relatório.
+A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que o redirecionamento da execução fiscal contra o espólio somente é possível nos casos em que o contribuinte falece depoisda sua citação.
+Sobre o tema:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. FALECIMENTO DO EXECUTADO ANTES DA PROPOSITURA DA AÇÃO.REDIRECIONAMENTO AO ESPÓLIO. INVIABILIDADE. SÚMULA 83/STJ. REEXAME PROBATÓRIO VEDADO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. MULTA PREVISTA NO ART. 1021, §4º, DO CPC/2015 REVOGADA.
+1. Ao dirimir a controvérsia, a Corte estadual ratificou a sentença de piso desta forma (fls. 88-91, e-STJ, grifou-se): "Os autos noticiam que os débitos fazendários reclamados pelo Fisco originaram-se em fatos ocorridos nos exercícios de 1999 a 2001. O titulo executivo foi emitido em 10.06.2003 e a execucional deflagrada em 22.09.2003 (fl. 01). Contudo o executado faleceu em 13 de janeiro de 2001 (fl. 09), ou seja, antes mesmo do ajuizamento do feito e, notadamente, nessa hipótese, não há como redirecionar a execucional ao espólio como pretende o exequente. (..) Do mesmo modo, está assentado na jurisprudência do Superior Tribunal de Justiça, em sede de julgamento submetido ao rito dos repetitivos, o entendimento que corrobora a impossibilidade de redirecionamento da execução nos casos em que o falecimento do executado tenha ocorrido em momento anterior a sua devida citação nos autos da execução fiscal (..)".
+2. De fato, corretamente o acórdão reiterou a sentença, pois o STJ possui o entendimento pacífico de que o redirecionamento da execução contra o espólio só é admitido quando o falecimento do contribuinte ocorrer depois de ele ter sido devidamente citado nos autos da execução fiscal, o que não é o caso dos autos, já que o devedor apontado faleceu antes do ajuizamento da demanda. Aplica-se a Súmula 83/STJ.
+3. Outrossim, avaliar os fatos processuais dos autos e as datas de suas ocorrências - como a da constituição do tributo e a morte do devedor - implica reexame probatório vedado pela Súmula 7/STJ.
+4. A imposição de multa, todavia, pelo Tribunal local é descabida, pois a parte não ingressou com recurso manifestamente protelatório, ou improcedente. De fato, como já foi realçado na admissibilidade, "a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, não é automática por não se tratar de mera decorrência lógica da rejeição do agravo interno, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação (fl. 245, e-STJ).
+5. Recurso Especial parcialmente conhecido, somente quanto ao pedido de anulação da multa processual, e, nesse ponto, dou-lhe provimento.
+(REsp 1.835.711/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 5/11/2019, DJe 18/11/2019).
+Portanto, o acórdão está em consonância com a jurisprudência do Superior Tribunal de Justiça, atraindo à espécie o enunciado da Súmula 568/STJ.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ e a Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
