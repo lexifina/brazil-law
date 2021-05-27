@@ -1,0 +1,26 @@
+DECISÃO:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Fábio Pereira Thomazin, apontando como autoridade coatora o Superior Tribunal de Justiça, que negou provimento ao agravo no HC nº 660796/ES, relatoria do Ministro João Otávio de Noronha.
+    Aduz o impetrante que o paciente encontra-se preso preventivamente, há 9 meses, ante suposta prática do crime previsto no art. 33, caput, e no art. 35, c/c o art. 40, VI, da Lei 11.343/2006.
+    O impetrante sustenta a ausência de fundamentação idônea para justificar a prisão preventiva, baseada apenas na gravidade abstrata do delito. Aponta não estarem presentes os requisitos autorizadores da custódia, previstos no art. 312 do Código de Processo Penal.
+    Ressalta a existência de condições favoráveis, a saber: jovem de 20 anos, primário, bons antecedentes, trabalho lícito e residência fixa no distrito da culpa, além de ter sido colaborador voluntário.
+    Requer, liminarmente, a concessão da ordem para que seja revogada a prisão preventiva imposta ao paciente, substituindo-se por cautelares diversas menos gravosas.
+    Examinados os autos, decido.
+    Transcrevo o acórdão impugnado:
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO. ILÍCITO DE ENTORPECENTES. WRIT INDEFERIDO LIMINARMENTE. SÚMULA N. 691 DO STF. INCIDÊNCIA. REQUISITOS DA PREVENTIVA. AUSÊNCIA DE TERATOLOGIA. AGRAVO REGIMENTAL DESPROVIDO. 1. Não cabe habeas corpus contra indeferimento de medida liminar impetrada na origem, salvo nos casos de flagrante ilegalidade ou de teratologia da decisão impugnada, sob pena indevida supressão de instância (Súmula n. 691 do STF). 2. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares diversas previstas no art. 319 do CPP. 3. Agravo regimental desprovido” (doc. 3).
+    Pelo que há no julgado proferido pelo Superior Tribunal de Justiça, não se verifica flagrante ilegalidade, abuso de poder ou teratologia. Pelo contrário, o julgado em questão mostra-se devidamente fundamentado, estando justificado o convencimento formado, uma vez que a impetração insurgia-se contra decisão que indeferiu pedido de liminar em habeas corpus impetrado perante o Tribunal local, não tendo sido as questões submetidas àquela Corte apreciadas definitivamente pelo Tribunal de Justiça, constituindo-se a sua análise em indevida supressão de instância.
+    Ademais, conforme ressaltado no voto condutor do acórdão impugnado, a prisão está fundamentada na gravidade em concreto do delito, citando trecho da fundamentação utilizada pelas instâncias ordinárias:
+    “No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP, conforme consignado na decisão de fl. 351:
+    ´Outrossim, em seu artigo 312 o Diploma Processual Penal estabelece que a prisão preventiva poderá ser decretada para garantia da ordem pública ou econômica, por conveniência da instrução ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria.
+    [...]
+    In casu, verifico que há nos autos prova da existência do crime e indícios suficientes de autoria, especialmente, pelos seguintes documentos: 1) BU n. 43066316/2020; 2) declarações prestadas pelas testemunhas perante a autoridade policial (fls. 133/135); 3) Interrogatório dos acusados Fábio Pereira e Geraldo Henrique às fls. 135 e 142/143; 4) auto de apreensão de fl. 151 e auto de constatação de substância entorpecente de fl. 152; e 5) relatório final de inquérito policial de fls. 249/251, havendo portanto, justa causa para a manutenção da prisão preventiva (fumus commissi delicti).
+    [...]
+    Ainda de acordo com a denúncia e inquérito policial, o denunciado e seus comparsas foram flagrados com:04 sacolas,contendo130 gramas de cocaína; diversas sacolas de chup-chup; 01 balança de precisão;01 frasco de ácido bórico;01 liquidificador com vestígios de cocaína; além da quantidade R$ 75,00 reais em espécie. Ademais, restou constatado que Fábio e Geraldo transportaram a cafeína,(ácido bórico, Resfedryl e 50gramas de pasta base até a casa de Geferson ,oportunidade em que, juntos,prepararam130 gramas de cocaína, o que renderia aproximadamente 65 a 70 papelotes de 2g, as quais seriam comercializadas a R$ 50,00 a unidade” (doc. 3).
+    Esse entendimento está em absoluta consonância com a jurisprudência tranquila do Supremo Tribunal Federal, segundo a qual
+    “[é] idônea a prisão decretada com base em fatos concretos observados pelo juiz na instrução processual, notadamente a periculosidade, não só em razão da gravidade do crime, mas também pelo modus operandi da conduta delituosa.” (HC nº 131.221/MG, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 2/3/16)
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 27 de maio de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
