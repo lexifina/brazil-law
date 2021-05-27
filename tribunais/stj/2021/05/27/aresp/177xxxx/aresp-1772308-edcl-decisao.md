@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por OI S.A. em face de decisão de fls. 213/215.
+Em suas razões, a parte embargante pretendendo seja esclarecido que descabida a "indenização referente às empresas decorrentes da cisão Telebrás, visto que não fazem parte do título executivo"(fl. 219).
+Intimada à fl. 223, não houve impugnação da parte embargada (fl. 225).
+À vista dos relevantes fundamentos das razões do presente recurso, reconsidero a decisão ora embargada, promovendo nova análise do agravo em recurso especial interposto por OI S.A. contra acórdão assim ementado (fl. 64):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - CISÃO PARCIAL DA TELEBRÁS EM DOZE NOVAS EMPRESAS - TRIODÉCUPLO - FENÔMENO QUE NÃO SE CONFUNDE COM A DOBRA ACIONÁRIA - AUTORA QUE CELEBROU CONTRATO COM A TELEBRÁS - READEQUAÇÃO DOS CÁLCULOS QUE SE APRESENTA NECESSÁRIA - RECURSO A QUE SE DÁ PROVIMENTO.
+Nas razões do especial, a recorrente alega ofensa ao art. 1.022, do Código de Processo Civil/2015, por contradição do Tribunal de origem "acerca das alegações atinentes às rubricas que não integram o título executivo e, portanto, não podem ser incluídas nos cálculos de liquidação de sentença" (fl. 122).
+No mérito, argui afronta aos arts. 502 e 508 do Código de Processo Civil/2015 afirmando que "o critério transitado em julgado não prevê indenização pela cisão da Telebrás" (fl. 126).
+Passo a decidir.
+Do relatório do acórdão ora recorrido, consta(fl. 64):
+Trata-se de agravo de instrumento interposto por contra a decisão Irene Terebejzyk de Souza interlocutória que, nos autos da "ação de adimplemento contratual" nº 0014974-57.2006.8.16.0019, rejeitou a impugnação ao laudo pericial apresentada pela autora e, por conseguinte, homologou os cálculos apresentados pelo expert, na importância de R$ 23,58 (vinte e três reais e cinquenta e oito centavos).
+Nas suas razões, a agravante afirmou que o juízo singular homologou o laudo pericial sem os desdobramentos da cisão da Telebrás (..)
+O Tribunal de origem, ao julgar o agravo de instrumento, concluiu ser devida indenização decorrente dacisão da Telebrás, assim se pronunciando (fls. 67/68):
+(..) conforme aduzido pela agravante, de fato não se pode confundir a "dobra acionária" com a cisão da Telebrás.
+Pois como visto acima, a cisão da Telebrás se refere à criação de outras doze empresas, cujo fenômeno foi denominado como "triodécuplo". Já a dobra acionária, constitui direito dos acionistas da Telepar S/A, de perceber da sociedade de telefonia fixa idêntico número e tipo de ações da sociedade de telefonia móvel (Telepar Celular S.A.), por força da cisão parcial da empresa de telefonia fixa, ocorrida em 30/01/1998.
+(..)
+Logo, não havendo consonância entre os atos empresariais, entendo que os efeitos da cisão da Telebrás estão englobados no dispositivo da sentença transitada em julgado, a qual determinou ser devida todas as vantagens legais geradas pela quantidade de ações subscritas, incluindo-se, dessa forma, o evento evolutivo da cisão.
+Pelo exposto, voto no sentido de dar provimento ao recurso, para o fim de se determinar a inclusão nos cálculos das ações, e respectivos consectários (dividendos, bonificações, JCP, agrupamentos, etc), a que a agravante faz jus, por força da cisão da empresa Telebrás em outras doze empresas, conforme fundamentação supra.
+A conclusão acima reproduzida está em desarmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, que já se posicionou no sentido de que descabida a inclusão de verba no cumprimento de sentença, sem que haja sua previsão expressa no título exequendo, ainda que divergente do entendimento desta Corte, em respeito ao instituto da coisa julgada. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TELECOM. SUBSCRIÇÃO DE AÇÃO. EXECUÇÃO. VALOR PATRIMONIAL DA AÇÃO. CRITÉRIO DE CÁLCULO. REVISÃO. IMPOSSIBILIDADE. COISA JULGADA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. NÃO PROVIMENTO.
+1. Em razão da presença da coisa julgada, o critério de cálculo do Valor Patrimonial da Ação, determinado no processo de conhecimento, não pode ser revisto em sede de execução. Precedentes.
+(..) (AgRg no REsp 1355648/RS, QUARTA TURMA, de minha relatoria, DJe de 4.2.2013)
+Acrescente-se que no julgamento do REsp n. 1.373.438/RS, SEGUNDA SEÇÃO, submetido ao rito do art. 543-C do CPC/1973, esta Corte conclui não ser cabida a inclusão de consectários, tais como dividendos e juros sobre capital próprio, no cumprimento da sentença condenatória, sem a expressa previsão no título executivo. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. DIVIDENDOS. AUSÊNCIA DE PREVISÃO NO TÍTULO EXECUTIVO JUDICIAL. INCLUSÃO NO CÁLCULO EXEQUENDO. IMPOSSIBILIDADE. TEMA 670. RESP 1.373.438/RS. ACÓRDÃO RECORRIDO REFORMADO. ACLARATÓRIOS ACOLHIDOS, COM EFEITOS INFRINGENTES, PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Para que haja efetivo direito à complementação acionária da telefonia móvel - dobra acionária - é necessário que o pedido seja expresso e analisado em ação de conhecimento. Dessarte, não havendo condenação à referida complementação, inviável que se incluam nos cálculos exequendos as ações decorrentes da dobra acionária.
+Precedentes deste STJ.
+2. A Segunda Seção do STJ, no julgamento do REsp n. 1.373.438/RS, processado nos moldes do art. 543-C do CPC/1973, decidiu pelo descabimento da inclusão dos dividendos ou dos juros sobre capital próprio no cumprimento da sentença condenatória à complementação de ações sem expressa previsão no título executivo.
+3. Aclaratórios acolhidos, com efeitos infringentes, para dar provimento ao recurso especial. (EDcl no AgRg no AREsp 830.420/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/02/2018, DJe 21/02/2018)
+Na mesma direção: RECURSO ESPECIAL Nº 1862789 - PR, Relator Ministro LUIS FELIPE SALOMÃO, DJe de 4.5.2021.
+Em face do exposto, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso especial, para que sejam excluídas da condenação as parcelas referentes "à cisão parcial da TELEBRÁS" (fl. 65).
+Intimem-se.
