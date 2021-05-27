@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração (e-STJ fls. 136/142) opostos por CLEBER ALVES DA SILVA contra decisão de minha lavra (e-STJ fls. 126/134) pela qual não conheci do habeas corpus, masconcedia ordem, de ofício, para diminuir as reprimendas impostas ao paciente para 6 anos, 9 meses e 20 dias de reclusão e 680 dias- multa, mantidos os demais termos da condenação.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 9 anos e 26 dias de reclusão, em regime prisional inicial fechado, e 960 dias-multa, por infração ao art. 33, caput, da Lei n. 11.343/2006 (e-STJ fls. 57/82).
+Ambas as partes apelaram e o Tribunal de origem negou provimento ao recurso ministerial e proveu parcialmente o recurso defensivo para reduzir as penas para 7 anos, 9 meses e 10 dias de reclusão, mantido o regime prisional inicial fechado, e 777 dias-multa (e-STJ fls. 97/121).
+No presente habeas corpus (e-STJ, fls. 3/17), o impetrante aponta constrangimento ilegal a que está submetido o paciente em razão da exasperação da pena-base com fundamento na prática do delito em concurso de agentes, o qual reputa ser inidôneo, uma vez que não previsto expressamente na lei, bem como não denota especial gravidade da conduta.
+Insurge-se, ademais, contra o incremento da pena, na segunda fase da dosimetria, em razão da reincidência específica, em fração superior a 1/6, entendimento que não está em consonância com a jurisprudência firmada nesta Corte acerca do tema.
+Requer, assim, liminarmente e no mérito, a redução da pena aplicada, tendo em vista os fundamentos acima expendidos.
+Por meio da decisão de e-STJ fls. 126/134, concedi a ordem de ofício para afastar a exasperação da pena, na segunda fase da dosimetria, em fração superior a 1/6, ao fundamento de que a reincidência específica não justifica o aumento da pena em fração maior, por não denotar mais desvalor da conduta.
+Nos presentes embargos declaratórios (e-STJ fls. 136/142), a defesa aponta haver omissão na decisão, ao deixar de constar a concessão da ordem também ao corréu.
+Diante disso, requer o acolhimento dos embargos para estender ao corréu os efeitos da referida decisão.
+É o relatório. Decido.
+Os embargos de declaração, nos termos do previsto no art. 619 do Código de Processo Penal, são cabíveis quando a decisão embargada apresentar ambiguidade, obscuridade, contradição ou omissão.
+A decisão embargada encontra-se devidamente motivada, não tendo incorrido em erro material ou em qualquer dos vícios listados no art. 619 do Código de Processo Penal, inclusive a apontada omissão, uma vez que o corréu não figura como paciente nesta impetração e não houve a formulação, na exordial deste habeas corpus, do pedido de extensão dos efeitos ao corréu.
+E, como se não bastasse, não há fundamentos para que se conheça da presente peça como eventual pedido de extensão ao corréu da decisão embargada, porquanto não há qualquer semelhança fático-processual entre a situação dos corréus. Com efeito, na segunda fase da dosimetria da pena, ao corréu Gabriel Alves da Silva já fora aplicada a exasperação da pena em 1/6, pela reincidência, na linha da decisão ora agravada.
+Não há, portanto, qualquer benefício a estender ao corréu, bem como não se verifica a alegada omissão na decisão ora agravada.
+Assim, é manifesta a impossibilidade de acolhimento dos presentes aclaratórios, haja vista não ser possível, em sede de embargos, proceder à rediscussão das questões já decididas e devidamente delineadas pelo órgão julgador, principalmente, quando não demonstrada a ocorrência de nenhuma das hipóteses do art. 619 do Código de Processo Penal.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. ACLARATÓRIOS REJEITADOS. PREQUESTIONAMENTO. JUNTADA DE MÍDIAS DA SESSÃO DE JULGAMENTO. NÃO CABIMENTO.
+1. O recurso de embargos de declaração presta-se, tão somente, a sanar ambiguidade, contradição, obscuridade ou omissão do julgado, consoante dispõe o art. 619 do Código de Processo Penal, ou, então, retificar, quando constatado, erro material do julgado.
+2. A pretexto de omissão, busca o embargante a rediscussão do julgado, o que não se harmoniza com o escopo da medida integrativa, conforme iterativa jurisprudência desta Corte.
+3. Mesmo para fins de prequestionamento, os embargos de declaração têm suas hipóteses de cabimento restritas ao art. 619 do CPP, ausentes na espécie.
+4. Incabível a juntada das cópias de áudio da sessão de julgamento, sequer prevista regimentalmente, pois à unanimidade acolhido o voto do Relator unânime, devidamente juntado aos autos, onde esclarecido que a pretensão de desclassificação do crime de homicídio doloso para a figura culposa demandaria revaloração de prova, incabível na via estreita do habeas corpus.
+5. Embargos de declaração rejeitados. (EDcl no HC 97.421/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 30/06/2015, DJe 07/08/2015).
+Ante o exposto, à míngua de seus pressupostos, rejeito os presentes embargos declaratórios.
+Intimem-se.
