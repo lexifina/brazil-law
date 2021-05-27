@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REITERAÇÃO DE PEDIDO. INDEFERIMENTO LIMINAR DO RECURSO EM HABEAS CORPUS. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Em atenção ao princípio da dialeticidade, é inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada.
+2. É condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne os fundamentos da decisão combatida, conforme entendimento firmado por esta Corte.
+3. Na espécie, a defesa limitou-se a repetir os argumentos formulados na petição do recurso em habeas corpus, sem refutar os motivos pelos quais houve o indeferimento liminar do mandamus. Ainda que assim não fosse, é acertada a decisão agravada, por constatar que o RHC consubstanciou mera reiteração de pedido de outros processos já julgados por esta Corte Superior em que há identidade de partes e objeto.
+4. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+PAULO IVAN BAPTISTA LANDFELDT interpõe agravo regimental contra a decisão de fls. 1.734-1.736, em que indeferi liminarmente o recurso em habeas corpus.
+Nesta interposição, a defesa reitera os argumentos formulados nas razões recursais, notadamente que "NENHUMA prova consistente foi alcançada para calcar a necessidade da prisão, ao contrário, se comprovou que muito se falou e nada se provou, esvaziando a necessidade de ser mantida a prisão preventiva do Paciente" (fl. 1.747).
+Repisa que a Magistrada de primeiro grau é parcial, por haver concedido entrevistas sobre o caso.
+Pleiteia, ao fim, a reconsideração da decisão anteriormente proferida ou a submissão do recurso à turma julgadora.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REITERAÇÃO DE PEDIDO. INDEFERIMENTO LIMINAR DO RECURSO EM HABEAS CORPUS. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Em atenção ao princípio da dialeticidade, é inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada.
+2. É condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne os fundamentos da decisão combatida, conforme entendimento firmado por esta Corte.
+3. Na espécie, a defesa limitou-se a repetir os argumentos formulados na petição do recurso em habeas corpus, sem refutar os motivos pelos quais houve o indeferimento liminar do mandamus. Ainda que assim não fosse, é acertada a decisão agravada, por constatar que o RHC consubstanciou mera reiteração de pedido de outros processos já julgados por esta Corte Superior em que há identidade de partes e objeto.
+4. Agravo regimental não conhecido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A despeito dos esforços do agravante, os argumentos apresentados são insuficientes para infirmar a decisão agravada, cuja conclusão mantenho.
+No decisum atacado, registrei o seguinte (fls. 1.735-1.736, destaques no original):
+Em consulta ao sistema informatizado do Superior Tribunal de Justiça, verifico anteriores impetrações em que há identidade de parte e dos objetos ora formulados. No HC n. 517.628/RS, julgado em 6/4/2021, a Sexta Turma desta Corte Superior concluiu que os fundamentos do decreto preventivo são idôneos, consoante se extrai da ementa do julgado (grifei):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. PRISÃO PREVENTIVA. ART. 312 DO CPP. PROPORCIONALIDADE E ADEQUAÇÃO AO PERICULUM LIBERTATIS. AUTORIA E MATERIALIDADE. DILAÇÃO PROBATÓRIA. ORDEM DENEGADA
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. O Juiz de primeiro grau, ao receber o aditamento da denúncia, determinou a reabertura da instrução processual e decretou a custódia preventiva do réu. Para tanto, ressaltou a gravidade concreta da conduta perpetrada (modus operandi empregado pelo agressor, que contratou, "mediante promessa de recompensa, outro indivíduo para matar sua esposa, mãe de seus filhos, pessoa com a qual dividia o lar", o fundado risco à conveniência da instrução criminal (ameaça às testemunhas) e, especialmente, o descumprimento de cautelar anteriormente imposta. Esses elementos são idôneos, nos termos da jurisprudência desta Corte Superior, para justificar a custódia preventiva do réu.
+3. Adentrar o juízo de mérito sobre a materialidade e a autoria delitivas demandaria o exame das circunstâncias fáticas em que se deram o flagrante, o que é inviável na via estreita da ação constitucional, dada a necessidade de dilação probatória.
+4. Ordem denegada.
+No HC n. 660.224/RS, foi sustentada a imparcialidade da Magistrada, bem como o aduzido cerceamento de defesa pela negativa de acesso à prova dos autos. A liminar foi por mim indeferida em 22/4/2021 e o feito aguarda a prestação de informações e o parecer do Ministério Público Federal para julgamento do mérito.
+Dessa forma, não se pode processar este writ por consubstanciar mera reiteração de pedido, uma vez que possui as mesmas partes e idêntico objeto ao habeas corpus citado.
+Ressalto, ainda, que, a despeito de o Tribunal local haver apreciado alegação de excesso de prazo - e concluído pela sua não caracterização, mormente ante o recente encerramento da instrução processual -, o recorrente não sustentou, nas razões desta interposição, a referida matéria.
+Observo que nenhum dos fundamentos apresentados na decisão agravada foi rebatido no presente agravo, pois a defesa repetiu os mesmos argumentos apresentados na inicial do recurso em habeas corpus e se referiu, a todo momento, aos fundamentos do acórdão prolatado pelo Tribunal a quo, em desacordo, portanto, com o princípio da dialeticidade, uma vez que é condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne os fundamentos da decisão que pretende seja reformada.
+Ainda que assim não fosse, tal como asseverei, os pleitos defensivos já foram objeto de análise pelo STJ no HC n. 517.628/RS e no HC n. 660.224/RS. Dessa forma, é correta a decisão que indeferiu liminarmente o recurso em habeas corpus, por consubstanciar mera reiteração de pedido, uma vez que possui as mesmas partes e idêntico objeto de outros processos já apreciados por esta Corte Superior.
+À vista do exposto, não conheço do agravo regimental.
