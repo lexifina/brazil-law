@@ -1,0 +1,47 @@
+DECISÃO
+ECO LIFE CAMPESTRE EMPREENDIMENTOS IMOBILIÁRIOS S.A. (ECO LIFE - em recuperação judicial) interpôs agravo de instrumento contra decisão que deferiu a penhora de 5% do faturamento bruto da empresa até o total pagamento da dívida.
+O Tribunal Estadual negou provimento ao agravo de instrumento em acórdão da relatoria do Des.COELHO MENDES, assim ementado:
+Cumprimento de sentença. Decisão que deferiu a penhora de 5% sobre o faturamento, até o pagamento total da dívida. Insurgência da executada. Possibilidade da penhora sobre o faturamento. Inteligência do art. 835, X do CPC.Inadmissível a escolha do modo menos gravoso ao devedor, se este obstar a efetivação dos princípios da celeridade e efetividade da tutela jurisdicional.Parágrafo único do art. 805 que atribui ao devedor o ônus de indicar outros meios menos onerosos e mais eficazes. Decisão mantida. Liminar revogada.
+Agravo desprovido(e-STJ, fl. 100).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 139/141).
+ECO LIFE interpôs recurso especial com base no art. 105, III,aec, da CF, onde alegou violação dos arts. 47 e 76 da Lei 11101/2005; 805 e 866 do NCPC e dissídio jurisprudencial, pelos seguintes fundamentos (1) não é possível ao juízo comum determinar atos constritivos contra a empresa em recuperação judicial; (2) violação ao princípio da menor onerosidade ao devedor; (3) não foi dada a oportunidade à recorrente para se desincumbir do ônus imposto pelo parágrafo único do NCPC; (4) o deferimento da penhora sobre o faturamento só é possível se o executado não tiver outros bens penhoráveis.
+Não foram ofertadas contrarrazões.
+O Tribunal de origem inadmitiu o apelo nobre por (1) não foi demonstrada a infringência dos preceitos legais arrolados; (2) se aplicar a Súmula n.º 7 do STJ, (3) não ficou configurado o dissídio jurisprudencial.
+ECO LIFE ingressou com agravo em recurso especial sustentando que (1) foi demonstrada a infringência dos artigos de lei elencados no recurso; (2) não se aplicar a Súmula nº 7 do STJ; (3) o dissídio foi demonstrado.
+Sem contraminuta.
+É o relatório.
+DECIDO
+A irresignação não merece prosperar.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Dos arts.47 e 76 da Lei 11101/2005
+No ponto verifica-se que os referidos preceitos legais não foram objeto de debate pelo Tribunal recorrido ressentindo-se do necessário prequestionamentoviabilizador do acesso às instâncias superiores.
+É exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância. Não basta à parte discorrer sobre o dispositivo legal
+que entende infringido.
+É absolutamente necessário que a Corte recorrida tenha emitido juízo de valor sobre o referido preceito, o que não ocorreu na hipótese examinada, mesmo com a oposição de embargos de declaração.
+Sendo assim, aplicam-se as Súmulas nºs 282 e 356 do STF.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO. ATRASO NA ENTREGA DE IMÓVEL. DEVOLUÇÃO DA INTEGRALIDADE DOS VALORES PAGOS CUMULADA COM LUCROS CESSANTES. INCOMPATIBILIDADE. FALTA DE PREQUESTIONAMENTO. LUCROS CESSANTES. PRESUNÇÃO DE PREJUÍZO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, tampouco foram opostos embargos de declaração para sanar eventual omissão, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+3. Agravo interno a que se nega provimento. (AgInt no REsp 1892591/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. em 08/02/2021, DJe 23/02/2021).
+(2) Dos arts. 805 e 866 do NCPC
+ECO LIFE sustenta violação aos artigos supracitados pelos seguintes fundamentos (1) não foi observado o princípio da menor onerosidade; (2) não lhe foi dada a oportunidade para indicar outros bens à penhora; (3) os recorridos não demonstraram que a recorrente não possuíam outros bens penhoráveis.
+Ao decidir sobre o tema, o Tribunal estadual consignou que (1) o art. 829, § 2º, do NCPC atribui ao exequente a faculdade e indicar bens, sendo possível ao executado indicá-los desde que comprove que a constrição lhe será menos gravosa e não trará prejuízo ao exequente; (2) ser inadmissível a escolha do modo menos gravoso ao devedor, se este obstar a efetivação dos princípios da celeridade e efetividade da tutela jurisdicional(3) no caso concreto a penhora de 5% do faturamento bruto está em consonância com o princípio da menor onerosidade, confira-se:
+A penhora sobre o faturamento encontra fundamento no inciso X do artigo 835 do Código de Processo Civil.
+Na sistemática processual vigente, pode-se concluir que a ordem estabelecida pelo mencionado artigo 835 é apenas preferencial, tendo em vista o disposto em seu § 1º ("é prioritária a penhora em dinheiro, podendo o juiz nas demais hipóteses, alterar a ordem prevista no caput de acordo com as circunstâncias do caso concreto"), assim como no artigo 829, § 2º, Código de Processo Civil, que atribui ao exequente a faculdade de indicar os bens a serem penhorados, ressalvando a possibilidade de o executado indicá-los desde que demonstre que a "constrição proposta lhe será menos onerosa e não trará prejuízoao exequente".
+Por outro lado, o princípio da menor onerosidade, não afasta a regra de que a execução é realizada no interesse do credor, cabendo ao Magistrado ponderar o disposto no artigo 805 do Código de Processo Civil, com os princípios da celeridade e efetividade da tutela jurisdicional. Não sendo admissível a escolha do modo menos gravoso ao devedor, se este obstar a efetivação dos princípios acima mencionados.
+Aliás, quando o executado suscitar que a execução deve ser efetuada de modo menos gravoso, o parágrafo único, do mencionado artigo 805, lhe atribui expressamente o ônus de "indicar outros meios mais eficazes e menos onerosos, sob pena de manutenção dos atos executivos já determinados".
+No caso concreto, a agravante sustenta que somente o Juízo da recuperação judicial pode decidir sobre atos de constrição, inclusive na hipótese de crédito extraconcursal.
+Saliente-se, todavia, conforme significativo entendimento jurisprudencial, tem-se admitido a penhora de até 10% do faturamento bruto. E, no caso concreto, por ora, considero viável a manutenção da decisão que determinou a penhora de 5% do faturamento bruto de modo que tal percentual está em consonância com o princípio da menor onerosidade e não inviabiliza a atividade empresarial desenvolvida(e-STJ, fls. 101/102).
+Assim, rever as conclusões acerca da alegada violação aoprincípio da menor onerosidadedemandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, a análise das razões apresentadas pelo recorrente quanto à inobservância do princípio da menor onerosidade e à nulidade da arrematação, demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. Considera-se deficiente, nos termos da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivo legal cujo conteúdo jurídico é dissociado da tese defendida no recurso especial. 5. Agravo interno a que se nega provimento.(AgInt no REsp 1644052 / PR, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 16/11/2020, DJe 20/11/2020)
+Registre-se que a ausência de prequestionamento dospreceitos legaissobre os quaisse alega divergência interpretativa e a aplicação da Súmula nº 7 do STJ, prejudica o exame do recurso fundado na alínea c da permissão constitucional.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação das penalidades fixadas nos arts. 1.021, § 4º ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC. PENHORA SOBRE O FATURAMENTO. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 46 E 76 DA LEI 11.101/2005. ARTS. 805 E 866 DO NCPC. PRINCÍPIO DA MENOR ONEROSIDADE. REEXAME DEMATÉRIA FÁTICA. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
