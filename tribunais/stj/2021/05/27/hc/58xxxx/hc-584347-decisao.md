@@ -1,0 +1,16 @@
+DECISÃO
+JOSÉ NAZARENO SATURNO e ROSINEA MICHELS DUMINELLI SATURNO, condenados pela prática do crime previsto no art. 2º, II, da Lei nº 8.137/90, alegam ser vítimas de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, que negou provimento ao apelo defensivo.
+Neste writ, a defesa pretende seja aplicado o princípio da insignificância, notadamente porque os pacientes haveriam gerado, com a apropriação de ICMS, um prejuízo aos cofres públicos no valor de R$ 5.162,02, quantum inferior aos R$ 20.000,00 adotados pelo Supremo como parâmetro, nos crimes contra a ordem tributária, para a incidência do referido princípio.
+Indeferido o pedido liminar (fl. 290), foram os autos ao Ministério Público Federal, que se manifestou pela denegação da ordem (fls. 293-296).
+Decido.
+O habeas corpus não tem procedência. O ICMS é um imposto de competência estadual e, portanto, não abrangido pela Lei n. 10.522/2002, que trata de tributos federais e, sobre os quais é aplicável o entendimento defendido pela defesa. Nesse sentido, esta Corte firmou a seguinte orientação:
+ ..  Incide o princípio da insignificância aos crimes tributários federais e de descaminho quando o débito tributário verificado não ultrapassar o limite de R$ 20.000,00 (vinte mil reais), a teor do disposto no art. 20 da Lei n. 10.522/2002, com as atualizações efetivadas pelas Portarias n. 75 e n. 130, ambas do Ministério da Fazenda (REsp 1688878/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 28/2/2018, DJe 4/4/2018).
+4. Embora inferior a R$ 20.000,00 (vinte mil reais), é inaplicável o princípio da insignificância ao caso dos autos, pois iludido o pagamento de imposto de competência estadual (ICMS), não abrangido pela Lei Federal n. 10.522/2002, que trata de tributos federais.
+(AgRg no AREsp n. 1.259.739/SP, Rel. Ministro Joel Ilan Paciornik, DJe 11/6/2019, destaquei)
+No particular, como assinalou o Ministério Público Federal (fl. 295);
+Deste modo, não assiste razão aos pacientes quanto à alegação de que o entendimento do STF seria parâmetro utilizado em todo crime contra a ordem tributária no valor de R$20.000,00.
+Portanto, consoante art. 5º, I, da Lei Estadual nº 12.646/03, independentemente do transcurso do prazo prescricional, não será encaminhada à Procuradoria Geral do Estado para ajuizamento a Dívida Ativa: I - de valor inscrito até R$ 2.500,00 (dois mil e quinhentos reais), relativa ao ICMS, exceto quando decorrente de multas não proporcionais ao valor do imposto ou da mercadoria.
+Além do mais, destaca-se ainda que não seria caso de mera inadimplência fiscal, pois conforme mencionado na denúncia, as vendas e os valores de ICMS sequer foram lançadas nos livros fiscais da empresa contribuinte, ocorrendo claramente a sonegação fiscal.
+Deveras, conforme dispõe o art. 5º, I, da Lei Estadual n. 12.646/2003, não será encaminhada à Procuradoria Geral do Estado para ajuizamento de ação de cobrança de dívida ativa o valor inscrito até R$ 2.500,00, relativamente ao ICMS. Logo, como no caso o prejuízo foi superior ao indicado pelo Estado (no valor de R$ 5.162,02), não se aplica a insignificância.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
