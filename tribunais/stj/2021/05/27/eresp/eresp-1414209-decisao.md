@@ -1,0 +1,48 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos de divergência opostos por ARLINDO DE MELO DORNELEScontra acórdão prolatado pela Quarta Turma do Superior Tribunal de Justiça, de relatoria daMin. Maria Isabel Gallotti, assim ementado:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. CONSUMIDOR. REPETIÇÃO DE INDÉBITO EM DOBRO. PROVA DE MÁ-FÉ DO CREDOR. NECESSIDADE. INCIDÊNCIA DA SÚMULA 83 DESTA CORTE. RECURSO NÃO PROVIDO.1. A repetição de indébito em dobro prevista no Código de Defesa do Consumidor não prescinde da prova de má-fé do credor. Incidência da Súmula 83/STJ.2. Agravo regimental a que se nega provimento.
+Sustenta o embargante que no art. 42, parágrafo único, do CDC, não há menção à necessidade da comprovação de má-fé para que haja a repetição de indébito em dobro.Aponta divergência com julgados da 1a. e 2a. Turmas desta Corte.
+Impugnaçõesàs fls. 689/762 e 763/839 (e-STJ).
+Parecer do MPF às fls. 844/848 (e-STJ).
+Por meio do despacho de fls. 852/857, foi determinado o sobrestamento do presente recurso até o julgamento do Tema Repetitivo nº 954/STJ submetido à julgamento perante a Primeira Seção desta Corte.
+É o breve relatório.
+Decido.
+Com fundamento na orientação contida na Súmula 568/STJ, procedo ao julgamento monocrático do presente recurso, haja vista a existência de precedentes qualificados da Corte Especialacerca da questão ora discutida.
+Inicialmente, esclareço que, em questão de ordem, a Primeira Seção deste STJ decidiu suspender o julgamento do Recurso Especial nº 1.525.174/RS, afetado como repetitivo (Tema 954/STJ), até que a Corte Especial apreciasse o tema relativo à repetição em dobro prevista no art. 42, parágrafo único, do CDC.
+Feitos os esclarecimentos iniciais, penso que os presentes embargos merecem provimento.
+A controvérsia envolve discussão acerca da necessidade, ou não, de se comprovar a má-fé na cobrança indevida ao consumidor de serviços de telefonia, para que a repetição do indébito seja realizada em dobro (art. 42, parágrafo único, do CDC).
+O acórdão embargado afirmou que "arepetição de indébito em dobro prevista no Código de Defesa do Consumidor não prescinde da prova de má-fé do credor"(e-STJ, fl. 636).
+Em suas razões, o embargante alega que o aresto impugnado divergiu do entendimento firmado nos seguintes julgados proferidos pelas 1ª e 2ª Turmas:
+ADMINISTRATIVO E PROCESSUAL CIVIL. FUNDAMENTOS NÃO ATACADOS. SÚMULA 182/STJ. FORNECIMENTO DE ENERGIA ELÉTRICA. COBRANÇA INDEVIDA. CULPA DA CONCESSIONÁRIA. DEVOLUÇÃO EM DOBRO. ART. 42 DO CDC. PRESCRIÇÃO. REPETIÇÃO DE INDÉBITO. REGIME JURÍDICO APLICÁVEL. PRAZOS GERAIS DO CÓDIGO CIVIL. ENTENDIMENTO FIXADO SOB O RITO DO ART. 543-C DO CPC. SÚMULA 412/STJ.
+1. Não se conhece de Agravo Regimental na parte que deixa de impugnar especificamente fundamentação de decisum atacado (aplicação da Súmula 211/STJ e inadmissibilidade de Recurso Especial baseado em violação de Resolução). Incidência da Súmula 182/STJ.
+2. O STJ firmou o entendimento de que basta a configuração de culpa para o cabimento da devolução em dobro dos valores pagos indevidamente pelo consumidor na cobrança indevida de serviços públicos concedidos. Nesse sentido: AgRg no AREsp 143.622/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 26.6.2012; AgRg no Ag 1.417.605/RJ, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 2.2.2012; AgRg no Resp 1.117.014/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 19.2.2010; e REsp 1.085.947/SP, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 12.11.2008.
+3. A Primeira Seção, no julgamento do REsp 1.113.403/RJ, da relatoria do Ministro Teori Albino Zavascki (DJe 15.9.2009), sob o regime dos recursos repetitivos (art. 543-C do CPC e Resolução 8/2008/STJ), firmou o entendimento de que a Ação de Repetição de Indébito de tarifas de água e esgoto submete-se ao prazo prescricional estabelecido no Código Civil. Sendo assim, a prescrição é regida pelas normas de Direito Civil: prazo de 20 anos nos termos do CC/1916, ou de 10 anos consoante o CC/2002, observando-se a regra de transição prevista no art. 2.028 do CC/2002.
+4. "A ação de repetição de indébito de tarifas de água e esgoto sujeita-se ao prazo prescricional estabelecido no Código Civil" (Súmula 412/STJ).
+5. Tal posicionamento se aplica à presente hipótese - fornecimento de energia elétrica -, pois também se refere à pretensão de consumidor de Repetição de Indébito relativo a serviço público concedido. Na mesma linha: AgRg no AREsp 194.807/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 24.9.2012.
+6. Agravo Regimental conhecido em parte e, nessa parte, não provido. (AgRg no AREsp 262.212/RS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/02/2013, DJe de 07/03/2013)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA. COBRANÇA INDEVIDA. REPETIÇÃO DE INDÉBITO. CULPA DA CONCESSIONÁRIA. DEVOLUÇÃO EM DOBRO. VIOLAÇÃO AO ART. 42 DO CDC. SÚMULA 7/STJ.
+1. "O STJ firmou o entendimento de que basta a configuração de culpa para o cabimento da devolução em dobro dos valores pagos indevidamente pelo consumidor na cobrança indevida de serviços públicos concedidos" (AgRg no AREsp 262.212/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 7/3/2013).
+2. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 371.431/MS, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/10/2013, DJe de 22/10/2013)
+Todavia, aCorte Especial do Superior Tribunal de Justiça, ao apreciar recentemente osEAREsp 664.888/RS, EAREsp 676.608/RS, EAREsp 600.663/RS, EAREsp 622.897/RS e EREsp 1.413.542/RS, casos em que se discutea mesma controvérsia dos presentes autos, pacificou o entendimentono sentido de que"arepetição em dobro, prevista no parágrafo único do art. 42 do CDC, é cabível quando a cobrança indevida consubstanciar conduta contrária à boa-fé objetiva, ou seja, deve ocorrer independentemente da natureza do elemento volitivo".
+Confira-se, no que interessa,a ementa do acórdão proferido noEAREsp 600.663/RS:
+DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. EMBARGOS DE DIVERGÊNCIA. HERMENÊUTICA DAS NORMAS DE PROTEÇÃO DO CONSUMIDOR. REPETIÇÃO DE INDÉBITO. DEVOLUÇÃO EM DOBRO. PARÁGRAFO ÚNICO DO ART. 42 DO CDC. REQUISITO SUBJETIVO. DOLO/MÁ-FÉ OU CULPA. IRRELEVÂNCIA. PREVALÊNCIA DO CRITÉRIO DA BOA-FÉ OBJETIVA. MODULAÇÃO DE EFEITOS PARCIALMENTE APLICADA. ART. 927, § 3º, DO CPC/2015. IDENTIFICAÇÃO DA CONTROVÉRSIA
+1. Trata-se de Embargos de Divergência que apontam dissídio entre a Primeira e a Segunda Seções do STJ acerca da exegese do art. 42, parágrafo único, do Código de Defesa do Consumidor - CDC. A divergência refere-se especificamente à necessidade de elemento subjetivo para fins de caracterização do dever de restituição em dobro da quantia cobrada indevidamente.
+(..)
+28. Com essas considerações, conhece-se dos Embargos de Divergência para, no mérito, fixar-se a seguinte tese: A REPETIÇÃO EM DOBRO, PREVISTA NO PARÁGRAFO ÚNICO DO ART. 42 DO CDC, É CABÍVEL QUANDO A COBRANÇA INDEVIDA CONSUBSTANCIAR CONDUTA CONTRÁRIA À BOA-FÉ OBJETIVA, OU SEJA, DEVE OCORRER INDEPENDENTEMENTE DA NATUREZA DO ELEMENTO VOLITIVO. MODULAÇÃO DOS EFEITOS
+29. Impõe-se MODULAR OS EFEITOS da presente decisão para que o entendimento aqui fixado - quanto a indébitos não decorrentes de prestação de serviço público - se aplique somente a cobranças realizadas após a data da publicação do presente acórdão.
+RESOLUÇÃO DO CASO CONCRETO
+30. Na hipótese dos autos, o acórdão recorrido fixou como requisito a má-fé, para fins do parágrafo único do art. 42 do CDC, em indébito decorrente de contrato de prestação de serviço público de telefonia, o que está dissonante da compreensão aqui fixada. Impõe-se a devolução em dobro do indébito.
+CONCLUSÃO
+31. Embargos de Divergência providos. (EAREsp 600.663/RS, Rel. Min. MARIA TEREZA DE ASSIS MOURA, Rel. para Acórdão Min. HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 21/10/2020, DJe de 30/03/2021)
+Na hipótese, o acórdão embargado exigiu como requisito a má-fé, para fins de aplicação do parágrafo único do art. 42 do CDC, o que está em dissonância comorientação acima firmada pela Corte Especial do STJ em sede de precedente qualificado.
+Não se aplica a modulação dos efeitos estabelecida no acórdão acima aludida, pois a empresa embargada é prestadora de serviço público de telefonia.
+Ante o exposto, acolho os embargos de divergência para, reformandoo acórdão embargado, manter condenação à restituição em dobro dos valores indevidamente cobrados do ora recorrente.
+A apresentação de incidentes manifestamente infundados ou protelatórios será reputada litigância de má-fé.
+Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EMRECURSO ESPECIAL. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. TELEFONIA. COBRANÇA INDEVIDA.REPETIÇÃO DE INDÉBITO EM DOBRO. PROVA DE MÁ-FÉ DO CREDOR. DESNECESSIDADE.
+1. "A repetição em dobro, prevista no parágrafo único do art. 42 do CDC, é cabível quando a cobrança indevida consubstanciar conduta contrária à boa-fé objetiva, ou seja, deve ocorrer independentemente da natureza do elemento volitivo"(EAREsp 600.663/RS, Rel. Min. MARIA TEREZA DE ASSIS MOURA, Rel. para Acórdão Min. HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 21/10/2020, DJe de 30/03/2021).
+2.Na hipótese, o acórdão embargado exigiu como requisito a má-fé, para fins de aplicação do parágrafo único do art. 42 do CDC, com aorientação firmada pela Corte Especial do STJ.
+3. Embargos de divergência acolhidos.
