@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"AGRAVO (ART. 557, §1º, DO CPC/73). PREVIDENCIÁRIO.APOSENTADORIA POR IDADE. TRABALHADORA URBANA. CARÊNCIA. AUXÍLIO -DOENÇA. PERÍODO INTERCALADO COM CONTRIBUIÇÕES PREVIDENCIÁRIAS. PREQUESTIONAMENTO.
+I - Observa-se que, após o recebimento do auxílio-doença, a demandante efetuou o recolhimento de contribuições previdenciárias, cumprindo, assim, a exigência prevista no art. 55, inc. II, da Lei nº 8.213/91, o qual dispõe que será computado "o tempo intercalado em que esteve em gozo de auxílio-doença ou aposentadoria por invalidez".
+II - Preenchidos os requisitos necessários à concessão do beneficio, tendo em vista que a parte autora cumpriu a idade e carência exigidas, consoante dispõe o art. 48 da Lei nº 8.213/91, fica mantida a concessão do beneficio previdenciário pretendido.
+III - Afastado o pleito de prequestionamento, tendo em vista que houve análise da apelação em todos os seus ângulos e enfoques.
+IV - Agravo improvido" (fl. 291e).
+Opostos Embargos de Declaração (fls. 295/299e), foram eles rejeitados (fls. 302/307e).
+Alega o recorrente, além de negativa de prestação jurisdicional, violação aos arts. 24, 25, II, 27, 29, § 5º, 48,55, II, e 142 da Lei 8.213/91, sustentando, em síntese, que "éinconcebível que se compute o período de Auxílio- Doença/Aposentadoria por Invalidez como tempo de carência, tendo em conta que no período não há contribuição do segurado, mas tão somente percepção de beneficio pago pela autarquia" (fl. 316e). No seu entendimento, "não pode ser computado como carência período de recebimento de beneficio por incapacidade, no qual ela não verteu qualquer contribuição ao RGPS,ao contrário, recebeu beneficio previdenciário pago pela população brasileira" (fl. 328e).
+Por fim,"requer o recorrente seja conhecido e provido esse recurso especial, eis que demonstrados os requisitos da alínea "a", do inciso III, do artigo 105, da Constituição Federal, anulando o acórdão recorrido e determinando a remessa do processo ao Tribunal a quo para que o embargos de declaração sejam julgados corretamente ou, caso assim, V. Exas não entendam, para que seja afastado o reconhecimento do benefício por incapacidade como carência, visto que o v.aresto recorrido contraria legislação federal" (fl. 322e).
+Apresentadas as contrarrazões (fls. 338/344e), o recurso foi inadmitido na origem (fls. 345/348e), o que ensejou a interposição do presente Agravo (fls. 351/360e).
+A insurgência não merece amparo.
+Na origem, trata-se de Açãoajuizada pela parte ora agravada, em face do Instituto Nacional do Seguro Social, pleiteando a concessão de benefício previdenciário.
+Julgada parcialmente procedente a demanda, recorreu o réu, restandomantida a sentença pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Em relação aos arts. 489 e 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+No mérito, este é o teor do voto condutor do acórdão recorrido, no que interessa:
+"A matéria impugnada diz respeito apenas à possibilidade de computar o período de auxílio-doença para fins de carência.
+No presente caso, após o recebimento do auxílio doença (25/9/00 a 31/12/01 - fis. 38), a demandante retomou às suas atividades, conforme demonstram a CTPS e a consulta no CNIS (fis. 39), cumprindo, assim, a exigência prevista no art. 55, inc. II, da Lei nº 8.213/91, o qual dispõe que será computado "o tempo intercalado em que esteve em gozo de auxílio-doença ou aposentadoria por invalidez".
+(..)
+No tocante ao prequestionamento da matéria, para fins de interposição de recursos aos tribunais superiores, não merece prosperar a alegação de eventual ofensa aos dispositivos legais e constitucionais, tendo em vista que houve análise do recurso em todos os seus ângulos e enfoques.
+Considerando que, no agravo, não foi apresentado nenhum fundamento apto a alterar a decisão impugnada, forçoso manter-se o posicionamento adotado.
+Por fim, ressalto que foram analisadas todas as alegações constantes do recurso capazes de, em tese, infirmar a conclusão adotada no decisum recorrido.
+Ante o exposto, nego provimento ao recurso" (fls. 289/290e).
+O entendimento doTribunal de origem encontra-se em consonância com a jurisprudência desta Corte, firmada no sentido de que os períodos em que o segurado esteve em gozo de benefício por incapacidade são admissíveis para fim decarência,desde queintercaladoscom períodos contributivos.
+Sobre a questão, confiram-se:
+"PREVIDENCIÁRIO. MANDADO DE SEGURANÇA. APOSENTADORIA. PERÍODO DE GOZO DE BENEFÍCIO POR INCAPACIDADE. CÔMPUTO DO TEMPO PARA FINS DE CARÊNCIA. INEXISTÊNCIA DE CONTRIBUIÇÃO EM PERÍODO INTERCALADO. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+1. O Superior Tribunal de Justiça possui entendimento de que os períodos em que o segurado esteve em gozo de benefício por incapacidade são admissíveis para fim de carência, desde que intercalados com períodos contributivos.
+2. Hipótese em que o acórdão recorrido está em consonância com a orientação do STJ, incidindo na pretensão recursal, pois, o óbice da Súmula 83/STJ.
+3. Recurso Especial não conhecido" (STJ, REsp 1.799.598/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 02/08/2019).
+"PREVIDENCIÁRIO. PROCESSUAL CIVIL. APOSENTADORIA POR INVALIDEZ PRECEDIDA DE AUXÍLIO-DOENÇA. CÁLCULO DA RENDA MENSAL INICIAL - RMI. ACÓRDÃO QUE APONTA A AUSÊNCIA DE PERÍODOS CONTRIBUTIVOS INTERCALADOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. No cálculo da Renda Mensal Inicial - RMI da aposentadoria por invalidez, o tempo em que o segurado esteve em gozo de auxílio-doença apenas será considerado como tempo de contribuição e computado para efeito de carência, quando intercalado com período de atividade laborativa. Precedentes.
+2. No caso concreto, o Tribunal de origem consignou expressamente que "não houve esse período intercalado de afastamento com atividade laborativa" (fl. 149).
+3. Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 805.723/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA,DJe de 23/08/2018).
+"PREVIDENCIÁRIO. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. APOSENTADORIA. CÔMPUTO DO TEMPO DE RECEBIMENTO DE BENEFÍCIO POR INCAPACIDADE PARA EFEITO DE CARÊNCIA. CONTRIBUIÇÃO EM PERÍODO INTERCALADO. POSSIBILIDADE.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - O tempo em que o segurado recebe benefício por incapacidade, se intercalado com período de atividade e, portanto, contributivo, deve ser contado como tempo de contribuição e, consequentemente, computado para efeito de carência. Precedentes.
+III - Recurso especial desprovido" (STJ, REsp 1.602.868/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA,DJe de 18/11/2016).
+Assim, estando o acórdão recorrido em sintonia com o entendimento desta Corte Superior, incide, na espécie, a Súmula 83 do STJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo, para negar provimento ao Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º, do art. 85 do CPC/2015.
+I.
