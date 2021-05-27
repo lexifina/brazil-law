@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARLENE VITORIA MEDINA DE CARVALHO contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a" e alínea "c", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+DIREITO PREVIDENCIÁRIO APELAÇÃO ELETRICIDADE ENQUADRAMENTO POR CATEGORIA PROFISSIONAL EFETIVA EXPOSIÇÃO AO FATOR DE RISCO ATIVIDADES ADMINISTRATIVAS.
+Quanto à primeira controvérsia, pela alínea "a" e alínea "c" do permissivo constitucional, alega, além de dissídio jurisprudencial, violação do art. 201, § 1º, da CF/88.
+É, no essencial, o relatório. Decido.
+Na espécie, é incabível o recurso especial quando visa discutir violação de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; e EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ademais, é incabível o recurso especial quando visa discutir interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Em recurso especial não cabe invocar dissídio jurisprudencial sobre interpretação de norma constitucional (arts. 236 e 37, § 6º, da CF), pois a alínea c do permissivo constitucional atribuí ao Superior Tribunal de Justiça competência para julgar o apelo extremo somente na hipótese em que o acórdão recorrido der à lei federal interpretação divergente da que lhe haja atribuído outro tribunal". (AgRg no REsp 1.345.524/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/6/2016.)
+Confiram-se ainda os seguintes precedentes: REsp 1.824.889/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2019; AgRg no Ag 1.045.375/PR, relatora Ministra Laurita Vaz, Quinta Turma, DJe de 15/9/2008; e REsp 75.413/SP, relator Ministro Francisco Peçanha Martins, Segunda Turma, DJ de 8/3/1999.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
