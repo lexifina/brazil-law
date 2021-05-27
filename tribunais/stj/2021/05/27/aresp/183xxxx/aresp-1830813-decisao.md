@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por OI S.A., contra acórdão assim ementado (fl. 47):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA COLETIVA - PRELIMINAR DE COISA JULGADA - AFASTADA - RETRIBUIÇÃO DE AÇÕES - EXTRATO SEM RECEBIMENTO DO CREDOR - SEM VALOR PROBATÓRIO - LITIGÂNCIA DE MÁ-FÉ VERIFICADA - INTUITO MANIFESTAMENTE PROTELATÓRIO - RECURSO CONHECIDO E DESPROVIDO. 1. Houve notícia na fase de conhecimento da demanda coletiva acerca do pagamento de ações a 10.115 titulares de crédito, porém esta quitação não foi reconhecida na sentença, nem mesmo de forma parcial, tendo sido determinada a retribuição de ações sem qualquer abatimento. A decisão agravada, por isso, não ofende a coisa julgada, ficando afastada a preliminar arguida nesse sentido. 2. Os documentos apresentados pela agravante não comprovam o efetivo recebimento das ações pela parte credora. 3. A interposição de inúmeros recursos sobre várias decisões com mesmo teor só demonstra o intuito de retardar seu trânsito em julgado, bem com a finalização da fase de cumprimento/liquidação de sentença, em nítido espírito procrastinatório, de forma que devida a aplicação de multa por litigância de má-fé.
+Em suas razões, a recorrente alega violação do art. 1.022, II, do Código de Processo Civil/2015, por omissão do Tribunal de origem, ao não se pronunciar sobre as questões postas em debate nos embargos de declaração.
+No mérito, argui afronta aos arts. 425, IV, e 502 do Código de Processo Civil de 2015. Aduz afronta à coisa julgada, afirmando que "tanto a Sentença proferida nos autos da Ação Civil Pública, quanto o próprio Ministério, e até mesmo o Tribunal de Justiça no julgamento da Apelação, reconheceram que a entrega de ação de fato ocorreu" (fl. 70). Assevera que "admitida a juntada do documento comprobatório de pagamento, a veracidade do documento deve ser reconhecida e os valores discriminados abatidos do cálculo da recorrida" (fl. 72). "não houve a contestação da veracidade do documento pela parte recorrida" (fl. 73). Pretende, por fim, seja afastada a sanção aplicada com base nos arts 80 e 81 do Código de Processo Civil/2015, afirmando não estar caracterizada a litigância de má-fé.
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+Inicialmente, no que se refere à matéria constante do art. 425, IV, do Código de Processo Civil/2015, esta não foi objeto de debate pela Corte de origem. Assim, ressentindo-se o especial do requisito de prequestionamento, exigido inclusive para as matérias de ordem pública, e não tendo sido opostos embargos de declaração com vistas a sanar tal vício, inviabilizada a apreciação do recurso por esta Corte, por se tratar de óbice intransponível contido nos enunciados 282 e 356 da Súmula do STF.
+Quanto ao mais, o Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela não configuração de afronta à coisa julgada, bem como pela não comprovação da retribuição das ações, assim se pronunciando (fls. 48/50):
+Reconheço que, de fato, houve notícia na fase de conhecimento da demanda coletiva acerca do pagamento de ações a 10.115 titulares de crédito, porém esta quitação não foi reconhecida na sentença, nem mesmo de forma parcial, tendo sido determinada a retribuição de ações sem qualquer abatimento.
+A decisão agravada, por isso, não ofende a coisa julgada, ficando afastada a preliminar arguida nesse sentido.
+Tal entendimento encontra guarida nos precedentes dos Tribunais Pátrios e deste Tribunal.
+(..)
+Por outro lado, o alegado pagamento à parte agravada não restou comprovado pela agravante nesta fase executiva.
+É sabido que o pagamento não admite presunção e deve ser provado por quem o alega (art. 333, I, do CPC), sob pena de ter que pagar novamente (bis dat qui cito dat), se pagou mal.
+Importante observar que os documentos apresentados pela agravante como prova de recebimento e, inclusive, posterior transferência pela parte credora/agravante, consiste em simples extrato do Banco Santander que, mesmo em conjunto com procuração existente nos autos principais do BNDES à Telebrás S/A, nada prova, se desacompanhado do Certificado de Depósito de Ações (art. 43 da Lei n.
+6.404/76) e/ou dos Livros Sociais (art. 100 da Lei n. 6.404/76) ou de qualquer recebimento expresso da parte credora.
+(..)
+Pela absoluta ausência de comprovação, deve ser tida por não efetuada a quitação de 8.619/8.620 ações a cada contrato.
+(..)
+Finalmente, entendo que deve ser aplicada multa por litigância de má fé em razão da interposição de recurso meramente protelatório, conforme previsão contida no art. 80 e 81, ambos do CPC (..)
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS. REPASSE DE PERCENTUAL A ANTIGO SÓCIO. COMPROVAÇÃO DO PAGAMENTO MEDIANTE DEPÓSITO EM CONTA CORRENTE DA ESPOSA DO AUTOR. MATÉRIA QUE DEMANDA REEXAME DE PROVA. SÚMULA 7/STJ. PREQUESTIONAMENTO. SUMULA 211 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A inversão do que ficou decidido pelo acórdão recorrido acerca da quitação do débito por parte do agravado demandaria reexame dos elementos fáticos-probatório dos autos, o que é vedado em sede de recurso especial. Incidência da Súmula 7 do STJ.
+2. (..).
+4. Agravo regimental não provido. (AgRg no AgRg no AREsp 588.069/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/04/2015, DJe 27/04/2015)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AGRAVO DE INSTRUMENTO. BEM DE FAMÍLIA. IMPENHORABILIDADE. PRECLUSÃO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No presente caso, não é possível rever a conclusão do acórdão recorrido em relação à questão discutida estar acobertada pela coisa julgada e pela preclusão, uma vez que seria necessário o reexame do conjunto fático-probatório dos autos, que é vedado em razão do óbice da Súmula 7 do STJ.
+2. (..).
+3. Agravo interno não provido. (AgInt nos EDcl no AREsp 1064314/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/08/2018, DJe 28/08/2018)
+Em sentido idêntico: AREsp n. 1.342.750/MS, Relator Ministro MARCO AURÉLIO BELLIZZE, DJe de 4.10.2018.
+Por fim, no que se refere à cominação imposta à empresa demandada, nos termos do art. 80 e 81 do Código de Processo Civil/2015, deve ser afastada, porquanto sua aplicação exige a comprovação do dolo processual, inexistente no caso concreto. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO. MULTA DO ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO. LITIGÂNCIA DE MÁ-FÉ. AUSÊNCIA DOS REQUISITOS AUTORIZADOS DO ART. 80 DO CPC. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS.
+MESMO GRAU RECURSAL. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+(..)
+III - A litigância de má-fé, passível de ensejar a aplicação da multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios, o que não ocorre na hipótese.
+IV - Não é possível majorar honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015).
+Embargos de declaração acolhidos, para sanar omissão, sem atribuição de efeitos infringentes. (EDcl nos EDcl no AgInt nos EAREsp 1257672/SP, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 16/12/2020, DJe 18/12/2020)
+Em face do exposto, conheço parcialmente do recurso e, nessa parte, dou a eleprovimento, apenas, para afastar a multa por litigância de má-fé aplicada à recorrente.
+Intimem-se.
