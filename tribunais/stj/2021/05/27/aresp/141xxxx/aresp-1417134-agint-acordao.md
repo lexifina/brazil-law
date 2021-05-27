@@ -1,0 +1,78 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO PELA INCIDÊNCIA DAS SÚMULAS 7/STJ E 83/STJ. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. HONORÁRIOS RECURSAIS. REDUÇÃO. NÃO CABIMENTO. OBSERVÂNCIA DOS LIMITES PREVISTOS NOS §§ 2º E 3º DO ART. 85, DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. No caso, o Recurso Especial não foi admitido, na origem, pela incidência dos óbices das Súmulas 7/STJ e 83/STJ. O Agravo em Recurso Especial interposto não impugnou todos os fundamentos do decisum, o que conduziu ao seu não conhecimento, cuja decisão ora é agravada regimentalmente.
+III. No presente Agravo interno, a parte recorrente apresenta sua irresignação tão somente em relação à majoração dos honorários recursais, realizada pela Presidência desta Corte, na decisão ora agravada.
+IV. Interposto Agravo interno com razões que não impugnam, especificamente, os fundamentos da decisão agravada - mormente quanto ao não conhecimento do Agravo em Recurso Especial, devido à ausência de impugnação dos fundamentos de inadmissibilidade do Recurso Especial - não prospera o inconformismo, quanto ao ponto, em face da Súmula 182 desta Corte.
+V. Não se mostra excessiva a majoração dos honorários advocatícios recursais, na medida em que, fundamentada no § 11 do art. 85 do CPC/2015, observou os limites estabelecidos nos §§ 2º e 3º do referido dispositivo legal. Precedentes do STJ (AgInt no AREsp 1.292.968/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 10/10/2018; AgInt no AREsp 196.789/MS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 18/08/2016).
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, conhecer parcialmente o recurso, mas lhe negou provimento, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Mauro Campbell Marques votaram com a Sra. Ministra Relatora. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno, interposto pelo CONSELHO REGIONAL DE ECONOMIA DO ESPÍRITO SANTO - CORECON/ES, contra decisão proferida pelo Presidente do STJ, assim fundamentada, in verbis:
+"Trata-se de agravo em recurso especial apresentado por CONSELHO REGIONAL DE ECONOMIA DA 17 REGIÃO contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ e Súmula 83/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos.
+Como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A propósito, confira-se este julgado:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 182/STJ. EXECUÇÃO PROVISÓRIA DA PENA. IMPOSSIBILIDADE. CONCESSÃO DE SUSPENSÃO CONDICIONAL DA PENA PELO TRIBUNAL DE ORIGEM. AGRAVO REGIMENTAL IMPROVIDO.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC de 2015, art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Incabível a execução provisória da pena imposta a réu ao qual concedida a suspensão condicional da pena. Precedentes.
+3. Agravo regimental improvido e indeferido o pedido de execução provisória da pena. (AgRg no AREsp n. 1.193.328/GO, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 11/5/2018.)
+Nesse sentido, vejam-se ainda os seguintes precedentes: AgInt no AREsp n. 880.709/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/6/2016; AgRg no AREsp n. 575.696/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 13/5/2016; AgRg no AREsp n. 825.588/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/4/2016; AgRg no AREsp n. 809.829/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/6/2016; e AgRg no AREsp n. 905.869/ES, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 14/6/2016.
+Ante o exposto, com base no art. 21-E, inciso V, c.c. o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça" (fls. 628/629e)
+Inconformada, sustenta a parte agravante que:
+"Denota-se que o CORECON-ES foi condenado, em sede de sentença, a R$3.000,00 (três mil reais) à título de honorários de sucumbência, o que foi majorado em 1% (um por cento), quando do julgamento dos embargos em apelação, interpostos pela ora Recorrente, consoante se vê das folhas 305/307 dos autos.
+Por conseguinte, o R. Ministro Presidente majorou ainda mais a verba honorária, para mais 15% sobre o valor já arbitrado. A propósito, assim consta da decisão:
+"(..)
+Ante o exposto, com base no art. 21-E, inciso V, c.c. o art. 253, paragrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos previa fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+Inobstante o respeito ao advogado patrono da parte Autora, o valor da causa, dada pela própria Recorrida, foi de R$5.201,76; e, no entanto, os honorários, iniciais, já correspondem a mais de 50% desta quantia, qual seja R$3.000,00, o que é, no mínimo, incoerente.
+Assim temos Excelências, que os honorários arbitrados em sentença de R$3.000,00 X 1% = R$3.030,00 X 15% = R$3.484,50, o que atinge quase 70% do valor da causa.
+Ora, há de considerar Excelência, que o Recorrente, na condição de autarquia federal, fiscalizadora do exercício profissional da profissão de Economista, não está aqui, apenas, exercendo o seu direito de defesa, mas, principalmente, cumprindo o seu papel de órgão fiscalizador profissional, não podendo, nesse mister, ainda ser penalizado desta forma, com o devido respeito.
+A propósito, assim discorre o art. 85, do CPC:
+(..)
+Como visto, o Juiz de Piso, teria que fixar os honorários obedecendo aos critérios da lei, ou seja, valor da condenação, valor do proveito econômico ou sobre o valor da causa, dentre a margem de 10% a 20% sobre o valor da causa. Somente ultrapassados tais critérios, poderia o Magistrado de Piso, partir para a fixação livre. No entanto, desconsiderou a regra e arbitrou um valor desproporcional, que ainda foi majorado no TRF2 e pelo Ministro Relator, com todo o respeito.
+Como não bastassem todas estas razões, até aqui expostas, temos que 20% sobre o valor da causa, de R$5.201,76, ainda seria muito aquém do valor arbitrado de R$3.000,00, o que exige reforma.
+(..)
+Ademais, o Recorrente é um Conselho Regional pequeno, que arrecada muito pouco; tanto é assim que em seu quadro possui apenas dois (2) servidores, dois estagiários, assessoria jurídica e contábil, não podendo fazer outras contratações, em razão do seu orçamento limitado. É o que pode ser conferido no seu site, no que diz respeito à transparência de suas contas.
+Contudo, temos que os honorários arbitrados ferem o Princípio da Razoabilidade, haja vista a função da autarquia Recorrente, o que deve ser considerado" (fls. 635/637e).
+Por fim, requer "digne-se Vossa Exa. exercer o Juízo de retratação, ou caso assim não entenda, que receba o presente Agravo Interno, para o fim de ser conhecido o recurso e dado provimento, reduzindo os honorários de sucumbência arbitrados, fixando-os de forma razoável para o Recorrente, tomando-se como base, o valor da causa na forma do artigo 85 do CPC" (fl. 638e).
+Impugnação da parte agravada, a fls. 640/643e, pelo improvimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO PELA INCIDÊNCIA DAS SÚMULAS 7/STJ E 83/STJ. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. HONORÁRIOS RECURSAIS. REDUÇÃO. NÃO CABIMENTO. OBSERVÂNCIA DOS LIMITES PREVISTOS NOS §§ 2º E 3º DO ART. 85, DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. No caso, o Recurso Especial não foi admitido, na origem, pela incidência dos óbices das Súmulas 7/STJ e 83/STJ. O Agravo em Recurso Especial interposto não impugnou todos os fundamentos do decisum, o que conduziu ao seu não conhecimento, cuja decisão ora é agravada regimentalmente.
+III. No presente Agravo interno, a parte recorrente apresenta sua irresignação tão somente em relação à majoração dos honorários recursais, realizada pela Presidência desta Corte, na decisão ora agravada.
+IV. Interposto Agravo interno com razões que não impugnam, especificamente, os fundamentos da decisão agravada - mormente quanto ao não conhecimento do Agravo em Recurso Especial, devido à ausência de impugnação dos fundamentos de inadmissibilidade do Recurso Especial - não prospera o inconformismo, quanto ao ponto, em face da Súmula 182 desta Corte.
+V. Não se mostra excessiva a majoração dos honorários advocatícios recursais, na medida em que, fundamentada no § 11 do art. 85 do CPC/2015, observou os limites estabelecidos nos §§ 2º e 3º do referido dispositivo legal. Precedentes do STJ (AgInt no AREsp 1.292.968/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 10/10/2018; AgInt no AREsp 196.789/MS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 18/08/2016).
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): De início, como se observa por simples leitura das razões do presente Agravo, deixou a parte agravante de infirmar a decisão agravada, no tocante ao não conhecimento de seu Agravo em Recurso Especial, devido à ausência de impugnação dos fundamentos de inadmissibilidade do Recurso Especial.
+Assim, interposto Agravo interno com razões deficientes, que não impugnam, especificamente, os fundamentos da decisão agravada, constitui óbice ao conhecimento do inconformismo, no particular, a Súmula 182 desta Corte.
+Nesse sentido:
+"PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. PRELIMINAR DE NULIDADE DO PROCESSO. FALTA DE CIÊNCIA AO ÓRGÃO DE REPRESENTAÇÃO JUDICIAL DA PESSOA JURÍDICA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ.
+(..)
+2. No presente Regimental, a parte agravante não impugnou os fundamentos da decisão recorrida, limitando-se a reafirmar as razões de seu Recurso Especial.
+3. A falta de impugnação específica de todos os fundamentos da decisão agravada inviabiliza o conhecimento do Agravo Regimental. Incide a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo Regimental não conhecido" (STJ, AgRg no REsp 1.425.186/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 27/03/2014).
+Por outro lado, no tocante à irresignação relativa à majoração dos honorários advocatícios recursais, realizada pelo Presidente do STJ, cumpre ressaltar que esta não se mostra excessiva, na medida em que, fundamentada no § 11 do art. 85 do CPC/2015, observou os limites estabelecidos nos §§ 2º e 3º do referido dispositivo legal. No mesmo sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AUTORIZAÇÃO DE CIRURGIA E MATERIAIS. RECUSA INJUSTIFICADA. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. HONORÁRIOS ADVOCATÍCIOS MAJORADOS. PEDIDO DE REDUÇÃO. INADMISSIBILIDADE. OBSERVÂNCIA DOS LIMITES DOS §§ 2º E 3º DO ART. 85 DO CPC/2015. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. No caso concreto, o Tribunal entendeu que houve recusa injustificada da operadora do plano de saúde em autorizar a cirurgia com os materiais necessários ao procedimento cirúrgico, concluindo que tal conduta causou dano moral passível de indenização. Alterar esse entendimento demandaria revolvimento de fatos e provas, vedado em recurso especial.
+3. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se afigura exorbitante, a justificar sua reavaliação em recurso especial.
+4. Não se mostra excessiva a majoração dos honorários sucumbenciais, que se deu na forma prevista no art. 85, § 11, do CPC/2015, observados os limites ali fixados.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 1.292.968/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 10/10/2018).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ONEROSIDADE EXCESSIVA. TEORIA DA IMPREVISÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. REVALORAÇÃO DAS PROVAS. HIPÓTESE NÃO CONFIGURADA. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO CPC/15.
+1. Aplica-se a Súmula n. 7 do STJ se o acolhimento da tese recursal reclamar o revolvimento do conjunto fático-probatório dos autos.
+2. Afasta-se a pretensão à mera revaloração das provas quando o recorrente deixa de indicar os fatos incontroversos, delineados na sentença ou no acórdão, que tenham merecido aplicação indevida de critérios jurídicos pelo acórdão recorrido.
+3. O § 11 do art. 85 do Código de Processo Civil de 2015 tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos provenientes de decisões condenatórias antecedentes.
+4. Atendidos os limites legais dos §§ 2º e 3º do art. 85 do CPC/15, a majoração da verba honorária a título de honorários recursais é medida que se impõe.
+5. Agravo interno conhecido e desprovido" (STJ, AgInt no AREsp 196.789/MS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 18/08/2016).
+Ante o exposto, conheço, em parte, do Agravo interno, e, nessa extensão, nego-lhe provimento.
+É o voto.
