@@ -1,0 +1,41 @@
+DECISÃO
+CAIXA ECONÔMICA FEDERAL (CEF) ajuizou ação de reintegração de posse c/c cobrança contra ANTÔNIO IVANDO CIDRÃO MOTA (ANTÔNIO), FRANCISCO DE ASSIS CAETANO e outro (FRANCISCO e outro) pretendendo a reintegração da posse de imóvel adquirido por ANTÔNIO com recursos do Programa de Arrendamento Residencial, além do pagamento dos valores devidos, relativos às parcelas dos encargos descumpridos.
+A ação foi julgada procedente para determinar a desocupação de FRANCISO e outro do imóvel e a reintegração da CEF na posse, bem como para condenar ANTÔNIO ao pagamento dos valores relativos às parcelas dos encargos descumpridos.
+O recurso de apelação interposto por FRANCISCO e outro foi desprovido pelo TRF da 5ª Região nos termos do acórdão, assim ementado:
+PROCESSUAL CIVIL E CIVIL. CEF. REINTEGRAÇÃO DE POSSE. PROGRAMA DE ARRENDAMENTO RESIDENCIAL PAR. ESBULHO. CONSTITUCIONALIDADE DO ART. 9º DA LEI 10.188/2001. APELAÇÃO IMPROVIDA.
+1. Rejeitada a preliminar de nulidade da sentença por cerceamento de defesa.
+2. Cinge-se a controvérsia à reintegração de posse de imóvel adquirido com recursos do Programa de Arrendamento Residencial  PAR, com fundamento na violação da cláusula contratual que proíbe a cessão/transferência dos direitos decorrentes da avença (décima oitava, III), bem como em razão do inadimplemento dos respectivos encargos pelo arrendatário.
+3. Os apelantes são apenas os ocupantes atuais do imóvel, não figurando como arrendatários no contrato celebrado com a CEF, mas sim o corréu, que vendeu aos primeiros as chaves da unidade habitacional.
+4. Consoante a cláusula décima oitava, III, do pacto de arrendamento, a prática de tal negócio jurídico conduz à rescisão contratual, independentemente de aviso ou interpelação, ficando o arrendatário obrigado a quitar todos os encargos pendentes, sob pena de devolução do imóvel arrendado.
+5. Compulsando os autos, observa-se que a instituição financeira autora realizou diversas tentativas de notificar pessoalmente o devedor da mora, por meio do 1º e do 2º Avisos de Cobrança, no endereço do imóvel sub judice - onde, conforme as disposições contratuais, ele deveria residir -, não obtendo sucesso.
+6. Caracterizado o esbulho possessório, nos termos da Lei 10.188/2001, com o não pagamento dos encargos em atraso, ficou autorizada a empresa pública a propor a presente demanda.
+7. A função social do contrato, bem assim o direito à moradia, não asseguram ao favorecido em programa de habitação popular, com condições facilitadas de aquisição, o direito de deixar de pagar as prestações do contrato realizado. Constitucionalidade do art. 9º da Lei 10.188/2001. Precedente desta Quarta Turma: AC516861/PB, Rel. Des. Federal EDILSON NOBRE, Quarta Turma, DJE 06/10/2011. 8. Apelação a que se nega provimento (e-STJ, fls. 281/288).
+Os embargos de declaração opostos por FRANCISCO e outro foram rejeitados (e-STJ, fls. 307/312).
+Contra esses julgados FRANCISCO e outro manejaram recurso especial com fundamento no art. 105, III, a, da CF, alegando (1) violação do arts. 421 e 422, ambos do CC/ 02, por não se ter considerado o adimplemento substancial do contrato, razão que impediria a sua resolução; e (2) ofensa aos arts. 187 c/c 422, ambos do CC/02, pois a CEF recebeu regularmente as prestações em seu nome, não podendo agora alegar que o imóvel não poderia ser objeto de cessão.
+Foram apresentadas contrarrazões (e-STJ, fls. 339/345).
+O apelo nobre foi admitido.
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A pretensão recursal está (1) na necessidade de aplicação dos princípios da boa-fé objetiva e da função social do contrato, diante do seu adimplemento substancial; e (2) na impossibilidade de se arguir o descumprimento contratual por ter ocorrido a cessão do direito ao arrendamento, considerando que a CEF recebeu regularmente os pagamentos realizados pelo arrendatário.
+O recurso não merece prosperar.
+Isso porque, a resolução do contrato está fundamentada no descumprimento da cláusula que veda a cessão do imóvel objeto do arrendamento.
+Veja-se:
+Feita essa consideração, cinge-se a controvérsia à reintegração de posse de imóvel adquirido com recursos do Programa de Arrendamento Residencial  PAR, com fundamento na violação da cláusula contratual que proíbe a cessão/transferência dos direitos decorrentes da avença (décima oitava, III), bem como em razão do inadimplemento dos respectivos encargos pelo arrendatário -, circunstâncias que levaram à rescisão do contrato de arrendamento residencial com opção de compra.
+ ..
+Ocorre que os apelantes são apenas os ocupantes atuais do imóvel, não figurando como arrendatários no contrato celebrado com a CEF, mas sim o corréu ANTÔNIO IVANDO CIDRÃO, que vendeu aos primeiros as chaves da unidade habitacional. Consoante a cláusula décima oitava, III, do pacto de arrendamento (fl. 19), a prática de tal negócio jurídico conduz à rescisão contratual, independentemente de aviso ou interpelação, ficando o arrendatário obrigado a quitar todos os encargos pendentes, sob pena de devolução do imóvel arrendado (e-STJ, fl. 283).
+Ocorreu que FRANCISCO e outro deixaram de impugnar esse fundamento, tendo alegado apenas que efetuaram os pagamentos, mas sem comprovar que a CEF teve conhecimento da cessão realizada a eles pelo arrendatário originário.
+Do cotejo entre o fundamento do acórdão recorrido e os argumentos do apelo nobre, verifico que não houve a necessária impugnação, atraindo o óbice da Súmula nº 283 do STF, verbis: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos êles.
+Merece ser destacado, por oportuno, que o Superior Tribunal de Justiça já teve oportunidade de pronunciar a legalidade da cláusula que veda a cessão do direito sobre imóvel constante do Programa de Arrendamento Residencial - PAR:
+RECURSO ESPECIAL. PROGRAMA DE ARRENDAMENTO RESIDENCIAL- PAR. LEI Nº 10.188/2001. REINTEGRAÇÃO DE POSSE E RESCISÃO DO CONTRATO.  .. . CLÁUSULA RESOLUTÓRIA. CESSÃO OU TRANSFERÊNCIA DE DIREITOS DECORRENTES DO CONTRATO. VALIDADE.
+1.Cuida-se de ação de reintegração de posse ajuizada pela Caixa Econômica Federal-CEF objetivando a retomada de imóvel arrendado pelas regras do Programa de Arrendamento Residencial - PAR em virtude da alienação do imóvel a terceiros.
+2.Cinge-se a controvérsia a examinar a validade da cláusula que determina a rescisão do contrato de arrendamento residencial no âmbito do Programa de Arrendamento Residencial - PAR na hipótese de cessão ou transferência de direitos decorrentes da pactuação.
+3.São legais as cláusulas que estabelecem a resolução contratual na hipótese de transferência ou cessão de direitos decorrentes do contrato de arrendamento residencial no âmbito do PAR, pois encontram amparo na legislação específica que regula a matéria (Lei nº 10.188/2001), bem como se alinham aos princípios e à finalidade que dela se extraem.
+4. Recurso especial não provido.
+(REsp 1.385.292/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 28/10/2014)
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em favor da CEF em 5%, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. RECURSO ESPECIAL MENEJADO SOB A ÉGIDE DO NCPC. PROGRAMA DE ARRENDAMENTO RESIDENCIAL - PAR. CESSÃO DO IMÓVEL. IMPOSSIBILIDADE. CLÁUSULA RESOLUTÓRIA. LEGALIDADE. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. RECURSO NÃO PROVIDO.
