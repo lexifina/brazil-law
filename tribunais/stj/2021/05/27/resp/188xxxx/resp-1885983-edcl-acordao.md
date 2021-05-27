@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RECURSO DE TERCEIRO PREJUDICADO. FALTA DE COMPROVAÇÃO.
+1. O recurso pode ser interposto pela parte vencida, pelo Ministério Público ou pelo terceiro prejudicado, hipótese esta em que cumpre ao terceiro demonstrar a possibilidade de a decisão sobre a relação jurídica submetida à apreciação judicial atingir direito de que afirme titular, ou que possa discutir em juízo como substituto processual. Inteligência do art. 996 do CPC/2015.
+2. Embargos de declaração não conhecidos.
+RELATÓRIO
+O espólio de Paulo Afonso Ferraz opõe embargos de declaração contra o acórdão ementado assim:
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. ACEITAÇÃO DA OFERTA INDENIZATÓRIA. HOMOLOGAÇÃO. VIOLAÇÃO A NORMATIVO CONSTITUCIONAL. INADEQUAÇÃO RECURSAL. SÚMULA 284/STF. VIOLAÇÃO A NORMATIVOS FEDERAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RAZÕES GENÉRICAS. SÚMULA 284/STF. FUNDAMENTAÇÃO INATACADA. SÚMULA 283/STF.
+1. A alegação de violação ao art. 1.022 do CPC/2015 exige da parte que indique quais os preceitos e as teses deveriam ter sido examinadas, e qual a importância disso para o correto deslinde da controvérsia, pena de, em havendo generalidade nas razões, não se conhecer do ponto, com enfoque na Súmula 284/STF.
+2. O recurso especial não é a via adequada para impugnar acórdão de Tribunal estadual tendo uma norma constitucional como parâmetro de controle. Hipótese, por extensão, da Súmula 284/STF.
+3. Não se conhece do recurso, por falta de interesse, no que toca a utilidade do provimento, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Inteligência da Súmula 283/STF.
+4. É cabível a indenização por desapropriação em favor do possuidor do imóvel, hipótese na qual inaplicável o teor do art. 34 do Decreto-Lei 3.365/1941 uma vez inexistente a dúvida sobre o domínio, sobremaneira quando o próprio ente desapropriante, quando da propositura da ação, reconheceu essa situação. Precedentes.
+5. Recurso especial conhecido parcialmente e, nessa extensão, não provido.
+Assinala as seguintes razões:
+Conforme pode ser evidenciado pela analise do Recurso Especial interposto pelo Recorrido - DER e do acórdão ora embargado, um dos pontos discutidos nestes autos versa acerca da legitimidade do possuidor proceder com o levantamento da indenização do terreno desapropriado nos autos originário.
+Entretanto, inquestionável que tal questão perdeu objeto superveniente uma vez que o proprietário do imóvel, ora Peticionante, se compôs com os ocupantes do terreno, com relação a indenização, tal como consta no acordo protocolado nestes autos em novembro de 2019.
+Apesar do referido acordo ainda pender de homologação, é inquestionável a perda do objeto superveniente de parte do recurso interposto pelo Recorrente, data maxima venia.
+Em sendo assim, requer-se o provimento ao presente recurso para reconhecer a perda parcial do objeto do recurso interposto pelo DER, visto o acordo formulado entre as partes ocupantes e o proprietário da área desapropriada, sanando, consequentemente a obscuridade incorrida no v. acórdão.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RECURSO DE TERCEIRO PREJUDICADO. FALTA DE COMPROVAÇÃO.
+1. O recurso pode ser interposto pela parte vencida, pelo Ministério Público ou pelo terceiro prejudicado, hipótese esta em que cumpre ao terceiro demonstrar a possibilidade de a decisão sobre a relação jurídica submetida à apreciação judicial atingir direito de que afirme titular, ou que possa discutir em juízo como substituto processual. Inteligência do art. 996 do CPC/2015.
+2. Embargos de declaração não conhecidos.
+VOTO
+O feito observa o teor do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Apresentam-se embargos de declaração manejados por terceiro não integrante da demanda.
+Justifica-se a sua oposição porque o embargante seria proprietário do imóvel desapropriado, e por isso compusera os seus interesses com os réus da desapropriatória, meramente possuidores, a fim de que a indenização fosse paga conforme entabulado no termo de acordo.
+O recurso, no entanto, não pode ser conhecido.
+O espólio não justifica em que condição maneja os aclaratórios, é dizer, em qual hipótese de intervenção de terceiro pretende ingressar na demanda, ou se é como terceiro prejudicado que se vê diante da possibilidade de a decisão sobre a relação jurídica submetida à apreciação judicial atingir direito de que afirme titular, ou que possa discutir em juízo como substituto processual.
+Afirma, isso sim, ser proprietário do bem desapropriado, mas desde o início da pretensão do Poder Público volta-se contra a posse e não contra a propriedade, tanto assim que reconhecida essa condição com a propositura da ação, confirmada ainda ante o fato de não ter havido oposição contra o levantamento da indenização:
+A indenizabilidade da posse em sede de ação de desapropriação, além de encontrar respaldo na jurisprudência, não é tampouco controversa nos autos, tanto assim que foi o próprio recorrente quem propôs ação de desapropriação em face dos possuidores.
+Discute-se tão-somente se o titular da posse, uma vez demandado na ação desapropriatória, deve receber ao fim dela a indenização respectiva observando ou não o cumprimento do art. 34, parágrafo único, do Decreto-Lei 3.365/1941.
+Não há, contudo, sentido lógico na pretensão de aplicabilidade do referido normativo, uma vez que se o ente expropriante manifesta interesse na desapropriação da posse de alguém não há falar em condicionar o pagamento da indenização à regularização disso no registro imobiliário, uma vez inexistente essa obrigação tal qual ocorre com o direito de propriedade, nos termos do art. 1.245 do CC/2002.
+A nossa jurisprudência acolhe esse entendimento, como transcrito nos precedentes acima.
+Além disso, deve ser sopesado que o disposto no art. 34, parágrafo único, do Decreto-Lei 3.365/1941, determina que o preço ficará depositado quando houver dúvida fundada sobre o domínio, mas no caso não existe essa dúvida primeiramente porque o próprio expropriante definiu os ora recorridos como legítimos possuidores com base em procedimento para o cadastramento do imóvel.
+Além disso, não houve oposição por terceiros possuidores de eventuais títulos que pudessem confrontar a certeza do domínio, o que constitui a essência da regra prevista no art. 34, parágrafo único, do Decreto-Lei 3.365/1941, vale dizer, só haverá a obrigação de manter o preço depositado se surgida a dúvida sobre o domínio e isso será caracterizado com a atuação de terceiros: AREsp 1.124.406/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 05/09/2017, DJe 14/09/2017), AgRg no AREsp 761.207/RJ (Rel. Ministro Humberto Martins, Segunda Turma, julgado em 19/04/2016, DJe 29/04/2016) e EDcl no AgRg no AREsp 361.177/RJ (Rel. Ministro Humberto Martins, Segunda Turma, julgado em 03/12/2013, DJe 10/12/2013).
+Assim, a mim parece que a petição é deficiente quanto à demonstração da legitimidade do espólio embargante e do interesse recursal, neste último no tocante ao proveito que busca com a "reforma" da decisão.
+Nesse quesito, aliás, corrobora-se a deficiência na atuação do embargante: o recurso especial foi aviado em junho de 2017 e o suposto acordo foi celebrado em novembro de 2019, ao passo que o feito foi julgado aqui no Superior Tribunal de Justiça um ano depois disso, ou seja, em novembro de 2020, daí ser possível atinar que embora sabedor supostamente da demanda, embora dela não seja integrante, preferiu esperar o julgamento pela Turma para informar o acordo conforme o resultado fosse favorável ou não aos seus interesses.
+De toda maneira, se o acordo tivesse mesmo aptidão para influenciar em algum direito do embargante era premente que informasse a sua celebração antes do julgamento, o que não fez, sem prejuízo de que o próprio espólio reconhece a inexistência de homologação desde 2019.
+Há prevalecer, de todo modo, que se a pretensão desapropriatória é voltada à posse, e o embargante sustenta a propriedade, não há confundir-se um conceito com o outro, nem tampouco os direitos que cada titular tem, de forma que não vislumbro legitimidade nem interesse do embargante, como afirmado anteriormente.
+Assim, não conheço dos embargos de declaração.
+É o voto.
