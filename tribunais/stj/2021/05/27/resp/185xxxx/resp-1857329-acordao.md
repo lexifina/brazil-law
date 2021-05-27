@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a).
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL.RPV. CANCELAMENTO. EXPEDIÇÃO DE NOVA REQUISIÇÃO. PRESCRIÇÃO. ART. 1º DO DECRETO N. 20.910/1932. TERMO INCIAL. CANCELAMENTO DA REQUSIÇÃO. PRESCRIÇÃO NÃO CONFIGURADA NA HIPÓTESE DOS AUTOS. RECURSO NÃO PROVIDO.
+1. Conforme o entendimento da Segunda Turma desta Corte Superior, é prescritível a pretensão de expedição de novo precatório ou RPV, iniciando-se o prazo a partir do cancelamento estabelecido pelo art. 2º da Lei n. 13.463/2017.
+2. "O direito do credor de que seja expedido novo precatório ou nova RPV começa a existir na data em que houve o cancelamento do precatório ou RPV cujos valores, embora depositados, não tenham sido levantados" (REsp 1.859.409/RN, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 16/6/2020, DJe 25/6/2020).
+3. Na hipótese dos autos, a RPV foi cancelada em 7/11/2017 e a sua reexpedição foi postulada em maio de 2018, razão pela qual a prescrição não está configurada.
+4. Recurso especial a que se nega provimento.
+RELATÓRIO
+Trata-se de recurso especial interposto por DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS, com amparo naalínea "a"do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ, fls. 114-115):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. INOCORRÊNCIA. REEXPEDIÇÃO DE RPVCANCELADA. ART. 3º DA LEI Nº 13.463/2017. POSSIBILIDADE. DECISÃO AGRAVADA MANTIDA.
+1. Trata-se de agravo de instrumento contra decisão que, no Processo nº 0005908-42.2010.4.05.8300 (execução contra a Fazenda Pública), indeferiu pedido de reconhecimento da prescrição executiva, sob o fundamento de que, com o depósito do valor da requisição de pagamento, exauriu-se a fase de cumprimento do processo, não se havendo mais de falar em fluência do prazo prescricional, à míngua de qualquer pretensão oponível ao Poder Público. O Juízo de origem destacou ainda que a pretensão que ampara o pedido de SEBASTIÃO JOSÉ DA SILVA, ora recorrido, surgira apenas com a arrecadação dos valores depositados, ocorrida em 2017, o que igualmente afasta a alegação da prescrição.
+2. Verifica-se que, in casu, a execução foi promovida em 29/04/2010, ou seja, no lustro prescricional aplicável, uma vez que o respectivo título judicial transitou em julgado no início de 2009, conforme informação obtida em consulta processual ao Sistema Esparta desta Corte Regional.
+3. A requisição de pequeno valor (RPV) foi expedida em 25/08/2010, tendo sido o valor depositado em 23/09/2010. Logo se observa que o pleito da parte recorrida, formulado em maio/2018, não se trata de pedido autônomo de execução, até porque este já fora realizado anteriormente no prazo prescricional aplicável. Nessa linha, o Juízo de origem deferiu o pedido do agravado, determinando, com base no art. 3º da Lei nº 13.463/2017, a reexpedição de RPV, para fins de mero recebimento da quantia devida a SEBASTIÃOJOSÉ DA SILVA.
+4. Assim, não se há de falar em prescrição da pretensão executiva, uma vez que esta já fora exercida oportunamente.
+5. Ademais, o cancelamento da RPV se deu em virtude do advento da Lei nº 13.463/2017, em cujo art. 3º está prevista a possibilidade de requerimento de expedição de novo ofício requisitório. Igualmente, não é possível reconhecer a ocorrência da prescrição neste particular, eis que esta deve ser considerada a partir da data em que ocorreu o cancelamento, qual seja, em 07/11/2017, conforme movimentação da RPV485597-PE anexada aos presentes autos.
+6. Precedente desta Corte Regional: 08084586420184050000 AG/SE (Relator: Desembargador Federal Fernando Braga).
+7. Agravo de instrumento improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 147-151).
+O recorrente aponta violação do art. 1º do Decreto n. 20.910/1932, sob o argumento de que,entre as datas do depósito da RPV e de cancelamento do requisitório, por força da Lei n. 13.463/2017, transcorreu o lapso prescricional de cinco anos.
+Sem contrarrazões (e-STJ, fl. 171), o recurso foi admitido na origem (e-STJ, fl. 172).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL.RPV. CANCELAMENTO. EXPEDIÇÃO DE NOVA REQUISIÇÃO. PRESCRIÇÃO. ART. 1º DO DECRETO N. 20.910/1932. TERMO INCIAL. CANCELAMENTO DA REQUSIÇÃO. PRESCRIÇÃO NÃO CONFIGURADA NA HIPÓTESE DOS AUTOS. RECURSO NÃO PROVIDO.
+1. Conforme o entendimento da Segunda Turma desta Corte Superior, é prescritível a pretensão de expedição de novo precatório ou RPV, iniciando-se o prazo a partir do cancelamento estabelecido pelo art. 2º da Lei n. 13.463/2017.
+2. "O direito do credor de que seja expedido novo precatório ou nova RPV começa a existir na data em que houve o cancelamento do precatório ou RPV cujos valores, embora depositados, não tenham sido levantados" (REsp 1.859.409/RN, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 16/6/2020, DJe 25/6/2020).
+3. Na hipótese dos autos, a RPV foi cancelada em 7/11/2017 e a sua reexpedição foi postulada em maio de 2018, razão pela qual a prescrição não está configurada.
+4. Recurso especial a que se nega provimento.
+VOTO
+O recurso não merece provimento.
+Tem-se, na origem, agravo de instrumento manejado contra decisão que, em execução de sentença, afastou a assertiva de prescrição para a expedição de nova requisição de pagamento.
+O Tribunal a quo julgou improcedente o recurso, por considerar que o prazo prescricional apenas teve início com o cancelamento da requisição de pagamento, em 7/11/2017.
+Confira-se(e-STJ, fl. 113):
+Ora, verifico que, in casu, a execução foi promovida em 29/04/2010, ou seja, no lustro prescricional aplicável, uma vez que o respectivo título judicial transitou em julgado no início de 2009, conforme informação obtida em consulta processual ao Sistema Esparta desta Corte Regional. Por sua vez, a requisição de pequeno valor (RPV) foi expedida em 25/08/2010, tendo sido o valor depositado em 23/09/2010. Com efeito, logo se observa que o pleito da parte recorrida, formulado em maio/2018, não se trata de pedido autônomo de execução, até porque este já fora realizado anteriormente no prazo prescricional aplicável. Nessa linha, o Juízo de origem deferiu o pedido do agravado, determinando, com base no art. 3º 1  da Lei nº 13.463/2017, a reexpedição de RPV, para fins de mero recebimento da quantia devida a SEBASTIÃO JOSÉ DA SILVA.
+Assim, não se há de falar em prescrição da pretensão executiva, uma vez que esta já fora exercida oportunamente
+Ademais, o cancelamento da RPV se deu em virtude do advento da Lei nº 13.463/2017, em cujo art. 3º está prevista a possibilidade de requerimento de expedição de novo ofício requisitório. Igualmente, não é possível reconhecer a ocorrência da prescrição neste particular, eis que esta deve ser considerada a partir da data em que ocorreu o cancelamento, qual seja, em 07/11/2017, conforme movimentação da RPV485597-PE anexada aos presentes autos.
+Com efeito, o acórdão recorrido se encontra em consonância com o entendimento da Segunda Turma desta Corte Superior, no sentido de que é prescritível a pretensão de expedição de novo precatório ou RPV, iniciando-se o prazo a partir docancelamento estabelecido pelo art. 2º da Lei n. 13.463/2017.
+O fundamento é o de que, por aplicação do princípio da actio nata, "o direito do credor de que seja expedido novo precatório ou nova RPV começa a existir na data em que houve o cancelamento do precatório ou RPV cujos valores, embora depositados, não tenham sido levantados" (REsp 1.859.409/RN, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 16/6/2020, DJe 25/6/2020.).
+O referido precedente, da relatoria do Ministro Mauro Campbell Marques, recebeu a seguinte ementa:
+ENUNCIADO ADMINISTRATIVO Nº 3/STJ. ADMINISTRATIVO. RPV. CANCELAMENTO. LEI Nº 13.463/2017. EXPEDIÇÃO DE NOVA RPV A REQUERIMENTO DO CREDOR. PRESCRIÇÃO. ART. 1º DO DECRETO Nº 20.910/1932. NÃO OCORRÊNCIA. TEORIA DA ACTIO NATA.
+1. Estabelecem, respectivamente, os arts. 2º e 3º da Lei 13.463/2017: "Ficam cancelados os precatórios e as RPV federais expedidos e cujos valores não tenham sido levantados pelo credor e estejam depositados há mais de dois anos em instituição financeira oficial", "cancelado o precatório ou a RPV, poderá ser expedido novo ofício requisitório, a requerimento do credor".
+2. A pretensão de expedição de novo precatório ou nova RPV, após o cancelamento de que trata o art. 2º da Lei nº 13.463/2017, não é imprescritível.
+3. O direito do credor de que seja expedido novo precatório ou nova RPV começa a existir na data em que houve o cancelamento do precatório ou RPV cujos valores, embora depositados, não tenham sido levantados.
+4. " ..  no momento em que ocorre a violação de um direito, considera-se nascida a ação para postulá-lo judicialmente e, consequentemente, aplicando-se a teoria da actio nata, tem início a fluência do prazo prescricional" (REsp 327.722/PE, Rel. Ministro VICENTE LEAL, SEXTA TURMA, DJ 17/09/2001, p. 205).
+5. Recurso especial parcialmente provido.
+(REsp 1.859.409/RN, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/6/2020, DJe 25/6/2020.)
+Ainda nesse sentido, cito precedente de minha relatoria:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO. RPV. CANCELAMENTO. EXPEDIÇÃO DE NOVA REQUISIÇÃO. PRESCRIÇÃO. ART. 1º DO DECRETO N. 20.910/1932. ASPECTOS FÁTICOS NÃO DESCRITOS NO ACORDÃO RECORRIDO. RETORNO À ORIGEM.
+1. A comprovação da divergência jurisprudencial, na forma dos arts. 1.029, § 1º, do CPC e 255 do RISTJ, demanda o cotejo analítico dos acórdãos confrontados, com demonstração da similitude fática existente entre eles.
+2. Conforme o entendimento da Segunda Turma desta Corte Superior, não é imprescritível a pretensão de expedição de novo precatório ou RPV após o cancelamento estabelecido pelo art. 2º da Lei n. 13.463/2017. Precedente.
+3. "O direito do credor de que seja expedido novo precatório ou nova RPV começa a existir na data em que houve o cancelamento do precatório ou RPV cujos valores, embora depositados, não tenham sido levantados" (REsp 1.859.409/RN, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 16/6/2020, DJe 25/6/2020).
+4. "Com efeito, quando a aplicação do direito à espécie pressupõe o exame de matéria de fato, faz-se necessário o retorno dos autos ao Tribunal de origem, para ultimação do procedimento de subsunção das circunstâncias fáticas da causa às normas jurídicas incidentes, na espécie" (EDcl no REsp 1.308.581/PR, Rel. Min. Assusete Magalhães, Segunda Turma, julgado em 17/3/2016, DJe 29/3/2016).
+5. Recurso especial conhecido em parte e, nessa extensão, parcialmente provido para reconhecer a prescritibilidade da pretensão de expedição de nova requisição de pagamento, devendo o Colegiado regional avaliar o transcurso do prazo prescricional entre as datas do cancelamento da RPV e do novo pedido.
+(REsp 1.844.138/PE, de minha relatoria, SEGUNDA TURMA, julgado em 22/9/2020, DJe 9/10/2020.)
+Na hipótese dos autos, a RPV foi cancelada em 7/11/2017 e a sua reexpedição foi postulada em maio de 2018, razão pela qual a prescrição não está configurada.
+Ante o exposto, nego provimento ao recurso especial.
+É como voto.
