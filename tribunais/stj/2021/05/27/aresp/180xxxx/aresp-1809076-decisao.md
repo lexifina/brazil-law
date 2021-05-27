@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo, nos próprios autos, de EQUATORIAL PREVIDÊNCIA COMPLEMENTAR, objetivando a reforma da decisão de inadmissão do recurso interposto perante o Tribunal de Justiça do Estado do Acre, em face de acórdão assim ementado (e-STJ fls. 708/709):
+APELAÇÃO. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. DESCONTO REALIZADO EM CONTA CORRENTE. IMPUGNAÇÃO DO CONSUMIDOR. NÃO COMPROVAÇÃO DA ORIGEM DA DÍVIDA. ÔNUS DA INSTITUIÇÃO PREVIDENCIÁRIA. FALHA NA PRESTAÇÃO DO SERVIÇO. DEVOLUÇÃO DEVIDA.
+1. Incumbe às instituições previdenciárias, em acordo com os postulados do Direito do Consumidor, a comprovação da origem de dívida de pecúlio e empréstimo consignado quitada por meio de desconto em conta corrente cuja titularidade é de pessoa que declara não ter firmado qualquer avença.
+2. Não tendo a Apelante se desincumbido desse ônus, é de se ter por indevida a retirada dos dividendos, os quais devem ser devolvidos nos termos estabelecidos na sentença.
+3. A privação mensal de parte da renda da Apelante para quitar parcelas de pecúlio e empréstimo consignado fraudulentos configura dano moral, a ser reparado financeiramente, mormente se considerado o longo lapso temporal em que ocorreram os descontos indevidos.
+4. Conhecimento e desprovimento do recurso.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 739/749).
+Sustenta estarem presentes os pressupostos de admissibilidade do recurso especial (e-STJ fls. 779/782).
+Sem contraminuta (e-STJ fl. 786), os autos foram encaminhados a esta Corte.
+No recurso especial, fundado no artigo 105, III, "a", da Constituição Federal, a parte recorrente aponta violação aos artigos 186, 187, 421, 884 e 927 do Código Civil de 2002; e 79, 80, 81, 371 e 373, I, do Código de Processo Civil de 2015 (e-STJ fls. 753/766).
+Sem contrarrazões (e-STJ fl. 776).
+Assim delimitada a controvérsia, passo a decidir.
+Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, no presente caso, aplica-se o Código de Processo Civil de 2015.
+De pronto, verifico a ausência de requisito extrínseco de admissibilidade, relativo à regularidade formal do agravo interposto.
+Com efeito, à luz do princípio da dialeticidade, constitui ônus da parte recorrente expor, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando os fundamentos da decisão recorrida, de forma a amparar a pretensão deduzida no recurso, requisito essencial à delimitação da matéria impugnada e consequente predeterminação da extensão e profundidade do efeito devolutivo do recurso interposto, bem como à possibilidade do exercício efetivo do contraditório.
+Nessa linha, na esteira do entendimento jurisprudencial consagrado na Súmula n. 182/STJ, o inciso III do artigo 932 do mencionado estatuto processual, prevê expressamente o não conhecimento do agravo, que não tenha atacado especificamente os fundamentos da decisão que não admitiu, na origem, o recurso especial.
+Ao que se tem dos autos, a decisão agravada negou seguimento ao recurso especial, firmada no fundamento de incidência da Súmula n. 7 do Superior Tribunal de Justiça, segundo a qual "A pretensão de simples reexame de prova não enseja recurso especial" (e-STJ fl. 777).
+Nas razões do agravo (e-STJ fls. 779/782), não impugnou, de forma específica, o único fundamento adotado na decisão agravada, impondo-se, de rigor, o não conhecimento do recurso.
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ.
+ ..
+IV - É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do STJ.
+V - Agravo interno não conhecido.
+(AgInt nos EAREsp n. 1.198.210/DF, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 23/3/2021, DJe 26/3/2021).
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC.
+1. Cuida-se, na origem, de ação de rescisão de contratos de fornecimento de combustíveis, comodato e outras avenças, cumulada com pedido de indenização por perdas e danos.
+2. Não merece conhecimento o agravo interno que não impugna especificamente todos os fundamentos da decisão agravada.
+3. Agravo interno não conhecido, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+(AgInt nos EREsp n. 1.540.423/DF, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 20/8/2019, DJe 22/8/2019).
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos exigidos nos artigos 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015 (correspondentes aos artigos 544, § 4º, I, e 545 do estatuto processual civil de 1973), segundo o qual não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. MORA. OCORRÊNCIA. NULIDADE DA CLÁUSULA QUE ESTIPULOU PRAZO DE TOLERÂNCIA POR ATÉ 180 DIAS ÚTEIS. CONCLUSÃO FUNDADA NA APRECIAÇÃO DE FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. DANOS MORAIS. ÔNUS DA SUCUMBÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III do Código de Processo Civil de 2015.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.683.413/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/5/2018, DJe 25/5/2018).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. REVISÃO DO JULGADO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7/STJ. NÃO PROVIMENTO.
+ ..
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.360.316/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 1º/7/2019, DJe 7/8/2019).
+Frise-se que, ante o seu caráter incindível, todos os fundamentos da decisão agravada devem ser objeto de impugnação específica pela parte agravante. Nesse sentido, cita-se o recente julgado da Corte Especial, que veio a confirmar a jurisprudência já sedimentada nesta Corte acerca do artigo 544, § 4º, I, do Código de Processo Civil de 1973:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018 - sem destaques no original).
+Assim, sem a impugnação específica e suficiente para infirmar o fundamento da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do Superior Tribunal de Justiça.
+Em face do exposto, não conheço do agravo, porquanto não atacado especificamente o fundamento da decisão agravada e, ainda, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
