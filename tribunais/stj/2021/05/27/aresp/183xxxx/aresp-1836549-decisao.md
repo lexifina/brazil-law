@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MANOEL DIMAS SALESSE, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 25/11/2020.
+Concluso ao gabinete em: 19/05/2021.
+Ação: de execução promovida por RRM EMPREENDIMENTOS IMOBILIÁRIOS LTDA, proposta contraMANOEL DIMAS SALESSE E SERGIO RICARDO GAMBARETE ANTONIETTE, objetivandoa cobrança de diferença de alugueres de imóvel. Opostos embargos à execução pelos executados.
+Sentença: julgou procedentes em parte os embargos à execução,bapenas paradeterminar a exclusão das multas administrativas aplicadas a terceiroe a readequação da planilha de cálculos, abatendo-se os montantes jápagos pelos executados, devidamente atualizados por juros e multa moratóriasobre os valores integrais dos alugueis em atraso e as diferenças não pagas pontualmente.
+Acórdão: negouprovimento à apelação de MANOEL DIMAS SALESSE E SERGIO RICARDO GAMBARETE ANTONIETTE, conforme a seguinte ementa:
+"APELAÇÃO CÍVEL Interposição contra sentença que julgou parcialmente procedentes os pedidos formulados nos embargos à execução. Execução de título extrajudicial. Contrato de locação de imóvel urbano. Locação para fins não residenciais. Justiça gratuita concedida, apenas para viabilizar a cognição do recurso, nos termos do artigo 98, § 5º, do Código de Processo Civil de 2015. Preliminares afastadas. Mérito. Obrigação líquida certa e exigível, já considerados os valores a serem decotados. Embargantes à execução que não comprovaram a realização dos pagamentos pertinentes. Honorários advocatícios majorados em grau recursal, nos termos do artigo 85, § 11, do Código de Processo Civil/2015. Sentença mantida. Apelação não provida."(e-STJ fl. 227).
+Recurso Especial: sustenta violação dos arts. 7º, 355, 370 e 373, II, do CPC/15. Alegam, em síntese: i) ofensa à paridade e tratamento e indevida valoração das provas produzidas pelas partes; ii) a ausência dos requisitos necessários ao julgamento antecipado da lide; iii) o indeferimento indevido da produção de prova testemunhalrequerida pela recorrente, pugnando pelo seu acolhimento; iv) a execução de valores indevidos, não constantes do contrato.
+RELATADOS O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15.
+- Do reexame de fatos e provas e interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no tocante: ao preenchimento dos requisitos para o julgamento antecipado da lide; àausência de cerceamento de defesa ao serem desconsideradasas provas testemunhais para a comprovação das alterações contratuais, ao entendimento de que, expresso no contratoque o modo de sua alteração se daria da forma escrita, apenas as provas documentais seriam suficientes, bem como acerca de que aobrigação constante da execução é líquida, certa é exigível, e da ausência de demonstração, pelos recorrentes da quitação dos débitos, exige o reexame de fatos e provas e a interpretação das cláusulas contratuais, procedimento vedado pelas Súmulas 5 e 7 do STJ.
+- Da existência de fundamento não impugnado
+O agravante não impugnou os fundamentos utilizados pelo TJ/SP, no sentido de que " (..) a prova, em ações dessa espécie, é de caráter exclusivamente documental, cujo contrato escrito, para alteração comportaria a mesma forma, inclusive, mas não só, quanto a modificação de valores locatícios, tanto mais diante da existência de cláusula expressa a respeito (cláusula "5", fls. 81)(..) a contratação da locação teve início de forma expressa, escrita (fls. 79/88), as alterações a partir daí devem ocorrer pela mesma forma, salvo reconhecimento bilateral pelas partes"(e-STJ, fls. 907/908), razão pela qual deve ser mantido o acórdão recorrido.
+Aplica-se, na hipótese, a Súmula 283/STF.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC/2015, CONHEÇO do agravo para NÃO CONHECERdo recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários, fixados anteriormente, em 5%.
+É de se ressaltar, que a interposição de recurso contra esta decisão, declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1021, §4º e 1026, §2º do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO.EMBARGOS À EXECUÇÃO. CONTRATO DE ALUGUEL. AVALIAÇÃO DAS PROVAS DOS AUTOS. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. REQUISITOS DO TÍTULO.REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. DISSÍDIO PREJUDICADO. SÚMULA 7/STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de execução. Embargos à execução.
+2.O reexame de fatos e provas e interpretação de cláusulas contratuais não é permitida nesta via recursal.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido.
+6. Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nesta parte, não provido, com majoração de honorários.
