@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Felix Fischer, Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO. NEGATIVA DE SEGUIMENTO. RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. DESPROVIMENTO DO RECLAMO.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema 339/STF).
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por E S INFORMATICA LTDA, PEREIRA, GOMES & LOPES ADVOCACIA E CONSULTORIA - EPP, QUEIROZ CAVALCANTI - ADVOCACIA, DAVI LIMA ADVOCACIA - SOCIEDADE INDIVIDUAL DE ADVOCACIA, DAVI LIMA ADVOCACIA, HENRIQUE CARVALHO ADVOGADOS e F. SARMENTO ADVOGADOS ASSOCIADOS, contra decisão quenegou seguimento ao recurso extraordinário pela incidência do Tema 339/STF e, em outra parte, o inadmitiu pela aplicação dasSúmulas 282 e 356 do STF, assim ementada(e-STJ fl. 557):
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. SEGUIMENTO NEGADO. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DOS ENUNCIADOS 282 E 356 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL.RECURSO NÃO ADMITIDO.
+Insistem osagravantes naviolaçãoda Constituição Federal, bem como na existência de repercussão geral, argumentando não seraplicáveloTema339/STF.
+Para tanto, alegam que a decisão proferida por esta Corte Superior não enfrentou o argumento dos insurgentes sobre o reconhecimento da coisa julgada material acerca da retenção de honorários.
+Requerem o provimento da insurgência para fins de reforma da decisão agravada.
+Apresentadas as contrarrazões (STJ fls. 627/629).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. NEGATIVA DE SEGUIMENTO. RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. DESPROVIMENTO DO RECLAMO.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema 339/STF).
+2. Agravo interno não provido.
+VOTO
+Inicialmente, tendo em vista que a decisão impugnada foi publicada em 10.3.2021 (e-STJ fl. 564), cumpre atestar a tempestividade da insurgência, pois interposta no dia 31.3.2021 (e-STJ fl. 598), ou seja, dentro do prazo recursal.
+Não obstante as razões declinadas pelos agravantes, a decisão monocrática deve ser mantida.
+Isso porque, ao interpretar o art. 93, inciso IX, da Constituição Federal, o Supremo Tribunal Federal firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se exige o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema 339/STF, segundo o qual "o artigo 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do acórdão:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O a rt. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI 791.292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, pp. 113-118)
+Na espécie, da leitura do julgado questionado, constata-se que foram declinadas as razões pelas quaiso Colegiado negou provimento ao agravo interno, valendo destacar o seguinte excerto (e-STJ fls. 508/513):
+Isso considerado, segue-se que o reconhecimento de eventual violação ao art. 1.022 do CPC/15 dependerá da presença concomitante das seguintes circunstâncias processuais: i) oposição de embargos de declaração, na origem, pela parte interessada; ii) alegação de ofensa a esse dispositivo, nas razões do recurso especial, de forma clara, objetiva e fundamentada, acerca da mesma questão suscitada nos aclaratórios; iii) publicação do acórdão dos embargos sob a vigência do CPC/15;eiv) os argumentos suscitados nos embargos declaratórios, alegadamente não examinados pela instância a quo, deverão: iv.i) ser capazes de, em tese, infirmar as conclusões do julgado; e iv.ii) versar questão envolvendo matéria fático-probatória essencial ao deslinde da controvérsia.
+Contudo, se tais requisitos estiverem preenchidos, mas os temas jurídicos associados aos vícios de integração apontados disserem respeito à questão de direito, restará, em princípio, caracterizado o prequestionamento ficto, possibilitando a esta Corte a análise imediata da tese, independentemente de pronunciamento expresso do tribunal a quo, a teor dodisposto no art. 1.025 do CPC/15.
+Com efeito, a petição de contrarrazões ao agravo de instrumento fundamentou-se em dois argumentos:
+a) "a retenção dos honorários no precatório, incorre- se em desvio de finalidade no uso das verbas públicas, em frontal agressão à Lei Maior, às normas públicas orçamentárias e à lei de responsabilidade fiscal" (fl. 183e); e b) "verifica-se que o MUNICÍPIO exequente é representado através de sua Procuradoria, em observância ao , a qual já DISCORDOU do pleito de retenção dos art. 75, III, do CPC honorários advocatícios contratuais, por vislumbrar que a contratação do escritório de advocacia foi IRREGULAR/NULA. Logo, verifica-se claramente que o escritório de advocacia, não mais representa o MUNICÍPIO cumprindo frisar inclusive que a atuação anterior deste é questionada pelo próprio MUNICÍPIO" (fl. 183e).
+O Recorrente sustenta a existência de omissão no acórdão recorrido, não sanada no julgamento dos embargos de declaração, porquanto "aduziu a União que o acórdão foi omisso quanto à violação ao art.75, III, do CPC, uma vez que o município DISCORDOU do pleito de retenção dos honorários advocatícios contratuais, por vislumbrar que a contratação do escritório de advocacia foi IRREGULAR/NULA. Tais pontos, contudo, não foram objeto de apreciação pelo acórdão recorrido" (fl.343e).
+Observo que constituem questões relevantes, oportunamente suscitadas e que, se acolhidas, poderiam levar o julgamento a um resultado diverso do proclamado.
+Ademais, a não apreciação das teses, à luz dos dispositivos constitucional e infraconstitucional indicados a tempo e modo, impede o acesso à instância extraordinária.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+ ..
+No caso, não obstante o improvimento do Agravo Interno, não resta configurada a manifesta inadmissibilidade, razão pela qual deixo de aplicar multa.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Conclui-se, portanto, que o acórdão encontra-se em consonância com a jurisprudência fixada pela Suprema Corte em repercussão geral, no Tema 339/STF.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. (..) FUNDAMENTAÇÃO SUFICIENTE. QUESTÃO DE ORDEM NO AGRAVO DE INSTRUMENTO 791.292 - TEMA 339. AGRAVO A QUE SE NEGA PROVIMENTO. (..) 5. A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que cumpre a regra do art. 93, IX, da CF a decisão judicial que seja fundamentada, ainda que de modo sucinto, sendo desnecessário o exame pormenorizado de cada uma das alegações ou provas dos autos (AI 791.292 - Tema 339 da sistemática da repercussão geral). (..) 7.
+Agravo a que se nega provimento.
+(Rcl 41510 ED, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 18/08/2020, PROCESSO ELETRÔNICO DJe-218 DIVULG 31-08-2020 PUBLIC 01- 09-2020.)
+No mesmo diapasão:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. TEMA 339 DA REPERCUSSÃO GERAL. DECISÃO RECORRIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF. 1.
+No julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339), o Supremo Tribunal Federal assentou que o inciso IX do art. 93 da CF/1988 exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente. 2. Decisão recorrida em conformidade com a jurisprudência do SUPREMO TRIBUNAL FEDERAL. 3. Agravo interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(ARE 1266033 AgR, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 05/08/2020, PROCESSO ELETRÔNICO DJe-204 DIVULG 14-08-2020 PUBLIC 17-08-2020.)
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
