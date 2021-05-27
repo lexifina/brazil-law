@@ -1,0 +1,20 @@
+DECISÃO:
+EMENTA: Processual Penal. Habeas corpus. Tráfico de drogas. Associação para o tráfico de drogas. Prisão preventiva. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 665.991/GO, do Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que o paciente foi preso em flagrante em razão da suposta prática dos delitos previstos nos arts. 33 e 35 da Lei n. 11.343/06. A prisão em flagrante foi convertida em preventiva.
+    3. A defesa impetrou habeas corpus no Tribunal de Justiça do Estado de Goiás. Indeferida a liminar, houve a impetração de HC (665.991/GO) no STJ. A Presidência da Corte Superior indeferiu liminarmente o writ.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, a ausência de fundamentação idônea para a custódia preventiva. Destaca que, “além de primário, chefe de família e trabalhador, o Paciente não possui histórico criminal”. Daí o pedido de concessão da ordem, expedindo-se o competente alvará de soltura em favor do paciente.
+    5. Decido.
+    6. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    7. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    8. As teses defensivas não foram decididas pelas instâncias de origem (TJ/GO e STJ). Circunstância que impede o imediato exame da matéria pelo STF, sob pena de dupla supressão de instâncias.
+    9. Ademais, as peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício, notadamente se se considerar que, com o paciente, apreenderam “(duas) peças de maconha, perfazendo um total de 3,255kg (três quilogramas, duzentos e cinquenta e cinco gramas), e 01 (uma) de crack, com massa bruta de 1,010kg (um quilograma e dez gramas), além de R$ 1.245,00 (mil duzentos e quarenta e cinco reais) em espécie” (doc. 7). Nessas condições, em linha de princípio, as instâncias de origem estão de acordo com o entendimento do STF no sentido de que a natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem prisional (HC 115.125, Rel. Min. Gilmar Mendes; HC 113.793, Rel.ª Min.ª Cármen Lúcia; HC 110.900, Rel. Min. Luiz Fux).
+    10. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 27 de maio de 2021.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
