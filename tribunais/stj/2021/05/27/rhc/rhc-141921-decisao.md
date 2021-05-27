@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por DOUGLAS APARECIDO DOS SANTOScontra acórdão doTribunal de Justiça do Estado deMato Grosso do Sul(HC n. 1415168-52.2020.8.12.0000).
+O recorrente teve a prisão em flagrante convertida em preventiva a pedido do Ministério Público (fl. 21)e foi denunciado por suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se naquantidade deentorpecentes apreendida(50g de maconha), além de R$ 50,00, que demonstrama traficância no momento do flagrante ea necessidade da preventiva para coibir a reiteração criminosa, bem como nareincidência específica do recorrente.
+Impetrado writoriginário, a ordem foi denegada. O Tribunal de origem manteve a prisão preventiva por compreender que a decisão que decretaraa prisão estavabem fundamentada e que cumpriaos pressupostosdo art.312 do Código de Processo Penal.Compreendeu ainda que agravidade concreta do delitojustificava a manutenção da custódia cautelar e que haviarisco de reiteração delitivaem razão da reincidência específica do recorrente.
+O recorrentealega queestá sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar; além disso,a prisão preventiva fundou-se na gravidade abstrata do delito. Afirma ter pouca idade (20 anos), possuir residência fixa e serpequena a quantidade de drogaapreendida (50g).
+Requer, liminarmente e no mérito, a concessão de liberdade com a expedição de alvará de soltura oua aplicação das medidas cautelares previstas no art. 319 do CPP.
+A liminar foi indeferida às fls. 112-113.
+As informações foram prestadas às fls. 117-129 e 130-135.
+O Ministério Público Federal apresentou parecer pelo não conhecimento dorecurso emhabeas corpus(fl.140).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, confira-se excerto da decisão que decretou a segregação cautelar (fl. 22):
+Verifica-se pela quantidade de droga apreendida (maconha), sendo 50,00 (cinquenta) gramas, além de R$ 50,00 (cinquenta) reais, de acordo com as informações dos autos (f. 23) demonstra que a venda de drogas estava acontecendo de modo constante, o que impõe a segregação cautelar, até mesmo como forma de coibir a prática reiterada desta modalidade de crime.
+Considerando as circunstância do delito - revela a necessidade de resguardo da ordem pública e, como consequência, necessidade da decretação de sua prisão preventiva, nos termos do art. 312 do CPP.
+ ..
+Outrossim, o caso em tela não se enquadra com liberdade provisória ou prisão domiciliar, pois, o réu continuará a praticar a traficância, servindo eventual prisão domiciliar, quiçá, para incentivá-lo na prática dada à sensação de impunidade que geraria, considerando que supostamente exercia a traficância na própria residência. Acrescente-se que é reincidente específico no tipo penal (f. 26-27).
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+A reincidência específica evidencia maior envolvimento do recorrente com a prática delituosa e constitui fundamento idôneo para a manutenção da custódia cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva (HC n. 603.340/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ademais, eventuais condições subjetivasfavoráveisdorecorrente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+ Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
