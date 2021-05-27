@@ -1,0 +1,32 @@
+DECISÃO
+JOSÉ HAMILTON BARBOSA JÚNIOR (JOSÉ) ajuizou ação de indenização por danos morais contra SÔNIA MARIA DE ARAÚJO (SÔNIA) decorrente de acusação falsa de furto de celular.
+Em primeira instância, o pedido foi julgado improcedente, condenando-se o autor JOSÉ no pagamento das custas processuais e honorários advocatícios fixados em 10% sobre o valor da condenação (e-STJ, fls. 88/92).
+O Tribunal de Justiça de São Paulo deuparcial provimento ao recurso de apelação interposto por JOSÉ para condenar a ré SÔNIA ao pagamento de R$ 3.000,00 (três mil reais) a título de danos morais, nos termos doacórdão relatado pelo Des. JOSÉ EDUARDO MARCONDES MACHADO,assim ementado:
+Ação indenizatória por danos morais. Sentença de improcedência. Irresignação do autor. Comunicação de suposto fato criminoso à autoridade policial que, por si só, não configura dano moral. Conduta adotada pela polícia para apurar o crime que, por sua vez, não pode ser imputada a quem a acionou. Comportamento da ré, todavia, à vista da ordem em que se deram os fatos e das circunstâncias que os permearam, como se extrai do contexto fático-probatório, que excedeu o simples exercício regular do direito, a exsurgir o dever de reparar. Dano que, no caso, por violar direitos da personalidade, decorre do próprio fato violador. Quantum indenizatório, observadas suas funções, estabelecido em R$ 3.000,00. Ônus sucumbenciais invertidos. Sentença reformada.
+Recurso parcialmente provido(e-STJ, fl. 114).
+Inconformada, SÔNIAinterpôs recurso especial com fulcro no art. 105, III, c, da Constituição Federal, alegando negativa de vigência ao art. 23 do Código Penal, afirmando que não foram comprovados os danos morais, bem como teria agido em exercício regular de direito.
+Para defender sua tese, suscitou dissídio jurisprudencial.
+Em juízo de admissibilidade, a presidência da seção de direito privado do TJSPinadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Contraminuta apresentada (e-STJ, fls. 200/204).
+Despacho do Ministro Presidente desta Corte determinando a intimação da recorrente SÔNIA para comprovar a condição de beneficiária da gratuidade de justiça (e-STJ, fl. 209).
+Petição da recorrente SÔNIA pugnando pela juntada de documentos como o objetivo de comprovara concessão do benefício da justiça gratuita (e-STJ, fls. 211/214).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+De início, verifica-se que a gratuidade de justiça foi concedida no aresto recorrido (fl. 119).
+Verifica-se que o conteúdo normativo do art. 23 do CP não foi objeto de discussão no acórdão recorrido e tampouco foram opostos embargos de declaração para esta finalidade. Assim, inexistente o prequestionamento, obstaculizada está a via de acesso ao apelo excepcional. Inafastável assim, por analogia, a incidência da Súmula nº 282 do STF: É inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Ademais, arecorrente não demonstrou a divergência jurisprudencial por meio do cotejo analítico com transcrição de trechos dos acórdãos recorrido e paradigmaque exponha a similitude fática e a diferente interpretação da Lei Federal entre os casos confrontados, conforme exigência dos artigos 541, parágrafo único, do CPC/73 (atual 1.029, § 1º do NCPC) e 255, § 1º, do RISTJ, não bastando a mera transcrição da ementa dojulgadoparadigma, sendo este o entendimento pacífico nesta Corte de Justiça.
+Confira-se acórdão da Segunda Seção desta Corte:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. COTEJO ANALÍTICO. NÃO REALIZAÇÃO. MERA TRANSCRIÇÃO DE EMENTAS. AUSÊNCIA DE SIMILITUDE FÁTICA. DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO.
+1. A divergência jurisprudencial, nos termos do artigo 266, § 1º, c/c o artigo 255, §§ 1º e 2º, do RISTJ, exige comprovação e demonstração com a transcrição dos trechos dos julgados que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+2. Se não realizado o cotejo analítico ou ausente a similitude de base fática entre os arestos comparados, não há como se caracterizar a divergência jurisprudencial.
+3. Por serem espécie de recurso de fundamentação vinculada e dotado da finalidade única de unformizar a jurisprudência do Superior Tribunal de Justiça, os embargos de divergência estão adstritos ao dissídio pretoriano suscitado, sendo inadequados para o fim de corrigir equívocos outros supostamente ocorridos no julgamento do recurso especial. Precedentes.
+4. Agravo interno não provido.
+(AgInt nos EAREsp 971.729/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, j. em 25/10/2017, DJe 31/10/2017).
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de SÔNIA, nos termos do art. 85, § 11 do NCPC, observado, se o caso, o art. 98, § 3º do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACUSAÇÃO FALSA DE CRIME. DANO MORAL. RECURSO ESPECIAL. INTERPOSTO NA VIGÊNCIA DO NCPC. FALTA DE PREQUESTIONAMENTO DO ART. APONTADO COMO VIOLADO. SÚMULA Nº 282, DO STF.DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO. SIMPLES TRANSCRIÇÃO DE EMENTA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
