@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 32):
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. REPETIÇÃO DO INDÉBITO. IMPOSTO DE RENDA.CÁLCULO.
+1. Para o cálculo de restituição de valores de imposto de renda indevidamente recolhidos, a metodologia de cálculo adequada é a remontagem das bases de cálculo, apresentando os valores totais tributáveis e as correspondentes deduções, ou seja, se faz uma espécie de "declaração retificadora" no cálculo, remontando as bases para que se tenha o imposto devido na época em que deveria ter sido retido 2. No caso dos autos, o cálculo apresentado pela Contadoria Judicial expressa o comando do título judicial. Ademais, as conclusões do parecer da Contadoria Judicial gozam da presunção de acerto, uma vez que é imparcial, equidistante das partes, e dispõe dos conhecimentos técnicos necessários para verificar o acerto dos cálculos.
+Os embargos de declaração foram rejeitados conforme fls. 59-63.
+No apelo especial, o recorrente alega violação ao art. 1.022, I, do CPC/2015; argumenta que o acórdão do Tribunal de origem foi obscuroao tratar matéria de repetição de indébito, como se fosse hipótese de revisão de lançamento tributário, ao ponto de "acrescer ao cálculo o encargo legal de 20% sobre o débito", sobre a cobrança que foi reconhecidamente declarada ilegítima.
+Com Contrarrazões.
+Juízo positivo de admissibilidade à fl. 94
+É o relatório. Passo a decidir.
+Preliminarmente, a análise pormenorizada dos presentes autos evidencia que o acórdão recorrido incorreu em afronta ao art. 1.022, I, do CPC/2015. Isso porque aquela Corte ao rejeitar os embargos do recorrente furtou-se a emitir juízo a respeito de ponto de suma relevância para o deslinde da controvérsia, qual seja:obscuridadeao tratar matéria de repetição de indébito, como se fosse hipótese de revisão de lançamento tributário, ao ponto de "acrescer ao cálculo o encargo legal de 20% sobre o débito", sobre a cobrança que foi reconhecidamente declarada ilegítima.
+Nesse sentido, ao rejeitar os embargos de declaração do ora recorrente, era mister da corte de origem se pronunciar no concernente à questão supra, em homenagem ao princípio do tantum devolutum quantum appellatum que o recurso de apelação encerra, porquanto é defeso ao Superior Tribunal de Justiça debruçar-se sobre a questão ventilada nos embargos de declaração pela primeira vez.
+Isso posto, dou provimento ao Recurso Especial para declarar violado o art. 1.022 do CPC/2015. E, como consectário, determino a remessa dos presentes autos ao Tribunal de origem, a fim de que aquela Corte se manifeste sobre a matéria articulada nos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS PELO TRIBUNAL A QUO. OBSCURIDADE EVIDENCIADA. AFRONTA AO ART. 1.022 DO CPC/2015 CONFIGURADA. RECURSO ESPECIAL PROVIDO.
