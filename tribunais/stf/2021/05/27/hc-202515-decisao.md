@@ -1,0 +1,43 @@
+Trata-se de habeas corpus impetrado contra decisão monocrática de Ministro do Superior Tribunal de Justiça – STJ (doc. eletrônico 3).
+    Busca-se a “CONCESSÃO DE LIBERDADE PROVISÓRIA ou REVOGAÇÃO DA PRISÃO PREVENTIVA das pacientes, aplicando as cautelares diversas da prisão ou a COLOCAÇÃO EM PRISÃO DOMICILIAR da paciente STEFANIE CRISTINA RODRIGUES DOS REIS”, mãe de criança com 4 anos de idade (pág. 13 da petição inicial).
+    É o relatório necessário. Decido.
+    Conforme relatado, esta impetração volta-se contra decisão monocrática de Ministro do STJ.
+    Assim, este pleito não pode ser conhecido, sob pena de extravasamento dos limites de competência desta Suprema Corte descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Todavia, na espécie, verifico a possibilidade de concessão da ordem, de ofício, em favor somente da paciente Stefanie Cristina Rodrigues dos Reis.
+    Transcrevo excerto da decisão combatida:
+    “Decido.
+    Nos termos da Súmula 691/STF, não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (AgRg no HC 438.735/MA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/3/2018, DJe 27/3/2018; AgRg no HC 435.454/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 20/3/2018, DJe 12/4/2018).
+    Na hipótese, a Corte de origem indeferiu o pleito liminar por não verificar os requisitos autorizadores da medida de urgência, nos seguintes termos:
+    ‘Cumpre anotar que não é possível vislumbrar de pronto, já nesta cognição sumária, a ilegalidade apontada.
+    Malgrado as ponderações expendidas, é necessário consignar que a concessão da liminar em habeas corpus só será cabível quando a coação for manifesta e detectável de forma imediata através de exame sumário da inicial, algo não observado no caso em análise.
+    Por conseguinte, não se vislumbra qualquer ilegalidade na decisão proferida pelo Juízo de Primeiro Grau, estando devidamente fundamentada, observando-se os preceitos legais e as circunstâncias do caso concreto.
+    A decretação da prisão preventiva das pacientes está corretamente fundamentada, notadamente diante do fato de que foram presas em flagrante, em 12 de maio de 2021, em Cajamar, acusadas da suposta prática do delito previsto no artigo 33, caput, da Lei Federal 11343/06.
+    Segundo consta, a guarda municipal teria recebido denúncia anônima, informando que havia mulheres discutindo sobre a venda de entorpecentes. No local, a equipe encontrou a autuada Ângela contando porções de drogas no chão, enquanto Pamela e Stefanie acompanhavam a contagem, sendo que, no quintal do imóvel, havia três pessoas, que aparentavam ser usuários de entorpecentes.
+    Consta que Pamela e Stefanie tentaram se evadir do local e se esconderam em um imóvel, sendo autorizado pela moradora o ingresso dos agentes. Consta, ainda, que Angela teria confessado informalmente aos agentes a traficância, em conjunto com Pamela e Stefanie.
+    De acordo com o boletim de ocorrência, ao total foram apreendidas 72 (setenta e duas) porções de ‘maconha’, 96 (noventa e seis) porções de ‘cocaína’, 98 (noventa e oito) porções de ‘crack’, bem como anotações supostamente relacionadas à contabilidade do tráfico.
+    Em análise da regularidade do flagrante, o Meritíssimo Juiz de Direito do Primeiro Grau reputou como regular e formalmente em ordem o flagrante, convertendo-se em prisão preventiva, porque além dos indícios de autoria e da materialidade, as circunstâncias do fato indicavam o exercício do tráfico, destacando:
+    ‘No caso, a prisão preventiva das autuadas se faz necessária para garantia da ordem pública, pois, independentemente de ostentares antecedentes criminais, as indiciadas foram surpreendidas na posse de grande quantidade de drogas, de alto pode vulnerante e viciante, estando associadas para a prática do crime, evidenciando que não são iniciantes na atividade, havendo indícios, portanto, que, soltas, voltarão a delinquir, implicando risco à ordem pública.
+    Outras medidas cautelares alternativas à prisão se mostram inadequadas e inócuas considerando a gravidade do delito e circunstâncias do caso concreto, devendo ser mantida a custódia cautelar para evitar a perpetuação da prática criminosa, garantindo-se, desta feita, a paz e a ordem social.
+    Assim, evidenciada a gravidade concreta da conduta das investigadas, e tendo em vista que o crime em tese praticado, equiparado a hediondo, possui pena privativa de liberdade máxima superior a 04 (quatro) anos de reclusão, de rigor a decretação da prisão preventiva, para garantia da ordem pública, estando por ora justificada a decretação da prisão cautelar.
+    Cumpre ressaltar que apesar de Stefanie e Angela terem mencionado a existência de filhos menores de 12 anos, conforme fls. 8/9 e 11/12, ambas indicaram que outras pessoas seriam as responsáveis pelos cuidados dos infantes. Além disso, Pamela mencionou que possui filhos e 15 e 18 anos de idade (fls. 10), e nenhuma das autuadas é gestante, conforme documentos às fls. 32/40.
+    Assim, as indiciadas não fazem jus à substituição da prisão preventiva pela domiciliar, conforme art. 318 do Código de Processo Penal’.
+    Assim, a decisão de primeiro grau se encontra devidamente fundamentada e consubstanciada na documentação acostada, em total consonância com os artigos quinto e 93, inciso IX, da Constituição Federal, e artigos 312 e 313, do Código de Processo Penal, porquanto se baseou nas características e nas consequências do crime cometido, além das particularidades das pacientes.’
+    Da leitura atenta da decisão impugnada, observa-se que a custódia cautelar, ao que tudo indica, está motivada na garantia da ordem pública. O pedido de prisão domiciliar também parece ser indevido porque, segundo afirmado pela própria ré em seu depoimento, seu filho de 4 anos não está sob seus cuidados, mas sim do genitor, com quem inclusive reside.
+    Assim, por ora, não se verifica a ocorrência de flagrante ilegalidade, de modo a justificar o processamento da presente ordem.
+    Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do art. 210 do STJ” (doc. eletrônico 3).
+    Com efeito, os arts. 318-A e 318-B do Código de Processo Penal – CPP preceituam o seguinte:
+    “Art. 318-A. A prisão preventiva imposta à mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência será substituída por prisão domiciliar, desde que: (Incluído pela Lei nº 13.769, de 2018).
+    I - não tenha cometido crime com violência ou grave ameaça a pessoa; (Incluído pela Lei nº 13.769, de 2018).
+    II - não tenha cometido o crime contra seu filho ou dependente. (Incluído pela Lei nº 13.769, de 2018).
+    Art. 318-B. A substituição de que tratam os arts. 318 e 318-A poderá ser efetuada sem prejuízo da aplicação concomitante das medidas alternativas previstas no art. 319 deste Código”.
+    A paciente Stefanie Cristina Rodrigues dos Reis preenche os requisitos estabelecidos no art. 318-A do CPP.
+    Parece incontroverso nos autos que referida paciente é mãe de uma criança menor de 12 anos de idade.
+    Ademais, a acusação não diz respeito a crime praticado mediante violência ou grave ameaça, nem contra os descendentes, além de não estarem presentes circunstâncias excepcionais que justificariam a denegação da ordem.
+    De mais a mais, conforme já afirmei quando do julgamento do HC coletivo 143.641/SP, deve-se dar credibilidade à palavra da mãe quanto ao fato de a criança estar sob seus cuidados. No caso concreto, tratando-se de criança ainda em fase de desenvolvimento, a presunção se aplica com nitidez, razão pela qual não vislumbro necessidade de nenhum outro dado complementar, a exemplo de laudo social.
+    Ressalto, por fim, que a decisão proferida pela Segunda Turma deste Supremo Tribunal nos autos do HC 143.641/SP e os arts. 318-A e 318-B do Código de Processo Penal não constituem salvo conduto para a prática de crimes ou redenção para ações criminosas pretéritas. Cada caso deverá ser analisado de modo vertical, afim de se verificar a absoluta subsunção da demanda às normas indicadas.
+    Isso posto, não conheço do habeas corpus, mas concedo a ordem, de ofício (art. 192 do RISTF), para determinar a substituição da prisão preventiva da paciente Stefanie Cristina Rodrigues dos Reis pela domiciliar, ressalvando-se a possibilidade de aplicação concomitante das cautelares alternativas previstas no art. 319 do CPP, bem como das demais diretrizes contidas no supra referido HC 143.641/SP.
+    Comunique-se.
+    Publique-se.
+    Brasília, 27 de maio de 2021.
+Ministro Ricardo Lewandowski
+Relator
