@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA DAS GRAÇAS TAVARES PEREIRA contra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, o qual não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 273):
+APELAÇÃO CÍVEL - DIREITO PREVIDENCIÁRIO -MUNICÍPIO DE CONSELHEIRO LAFAIETE - SERVIDOR APOSENTADO PELO INSS - ESTABILIDADE ADQUIRIDA NA FORMA DO ART. 19 DO ADCT -COMPLEMENTAÇÃO DA APOSENTADORIA PELO ENTE PÚBLICO -IMPOSSIBILIDADE - JURISPRUDÊNCIA DO STF - REGRAS DO ART. 40 DA CF/88 - OBRIGATORIEDADE - APLICABILIDADE RESTRITA AOS EFETIVOS.
+A complementação dos proventos dos servidores que se aposentarem pelo RGPS, conforme previsão constitucional, depende de regulamentação pelo próprio ente público ao qual o servidor esteja vinculado. Contudo, o legislador infraconstitucional está adstrito aos preceitos do art. 40 da CF/88, conforme jurisprudência do c. STF (ADI 5111).
+Embora a legislação do Município de Conselheiro Lafaiete não faça distinção entre servidores efetivos e os estabilizados pelo art. 19 do ADCT, para fins de concessão da complementação de aposentadoria, não cabe ao Judiciário fazer interpretação extensiva do art. 40 da CF, cuja aplicabilidade é restrita aos servidores efetivos.
+Recurso conhecido e não provido.
+Os dois embargos de declaração opostos pela parte ora recorrenteforam rejeitados (e-STJ fls. 297/305 e 317/329).
+No recurso especial obstaculizado, a parte apontou,além de dissídio pretoriano,violação doart. 54 da Lei n. 9.784/1999,argumentando que o "Prefeito da época e os que o sucederam, em momento algum, "instauraram o competente procedimento administrativo, com vistas à anulação do concurso tido como irregular", como se lhe determinou, para, oportunizando a garantia constitucional de "ampla defesa" aos concursados, possibilitar o decreto de nulidade do concurso de que participou a recorrente" (e-STJ fl. 336).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso (e-STJ fls. 343/344).
+Passo a decidir.
+Inicialmente, cumpre registrar que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3 do STJ).
+Feita essa anotação, verifico que a pretensão não merece prosperar.
+Outrossim, da leitura do acórdão recorrido, observa-se que o Tribunal de origem não emitiu juízo de valor sobre oart.54 da Lei n. 9.784/1999,tido por violado, incidindo, assim, aSúmula282do STF.
+Ainda que inexistente o óbice acima mencionado, diante do quadro delineado, a inversão do julgado exigiria a análise e a interpretação de lei local, incabível em sede de recurso especial, nos termos do art.105, inciso III, da Constituição da República e da Súmula 280 do Supremo Tribunal Federal.
+Quanto à alínea "c" do permissivo constitucional,é inviável a apreciação de recurso especial fundado emdivergência jurisprudencial quando o recorrente aponta como paradigma julgado do STF,pois, nessa hipótese, a análise do dissenso é da competência do Supremo Tribunal Federal.
+Na espécie, a recorrenteindicou confronto com precedentespretorianos (e-STJ fls. 337).
+Assim, em respeito à orientação firmada pela Corte Especial deste Tribunal, ajusta-se à hipótese a aplicação do contido na Súmula 284 do Supremo Tribunal Federal.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte sucumbente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
