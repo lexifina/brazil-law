@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por ELCIO TAKESHI MATSUMOTO, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 540):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. SERVIÇO MILITAR OBRIGATÓRIO. DISPENSA POR EXCESSO DE CONTINGENTE. PROFISSIONAL DA ÁREA DE SAÚDE. CONVOCAÇÃO POSTERIOR. POSSIBILIDADE. LEI N. 12.336/2010. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - O acórdão recorrido está em confronto com orientação desta Corte, firmada no julgamento dos EDcl no REsp 1.186.513/RS, sob o regime dos recursos repetitivos, segundo a qual as alterações promovidas pela Lei n. 12.336/2010 passam a viger a partir de 26 de outubro de 2010 e se aplicam aos concluintes dos cursos nos Institutos de Ensino destinados à formação de médicos, farmacêuticos, dentistas e veterinários que foram dispensados da incorporação antes da apontada norma, mas convocados após a sua vigência, razão pela qual deverão prestar o serviço militar.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Agravo Interno improvido.
+Sustenta o recorrente a existência de repercussão geral da matéria tratada e alega que o acórdão recorrido teria violado os artigos 5º, caput e XXXVI, e 60, § 4º, IV, da Constituição Federal (e-STJ fls. 557-584).
+Alega a ofensa aos princípios da isonomia, do ato jurídico perfeito, da segurança jurídica e do direito adquirido.
+Informa que foi dispensado do serviço militar em 1º/9/2004, por excesso de contingente, logrando a graduação em medicina no ano de 2012, o que motivou a nova convocação para o serviço militar, com fundamento na Lei n. 5.292/1967, com a alteração da Lei n. 12.336/2010.
+Aduz que "o ato de dispensa de incorporação perpetrado em 2004 não pode ser modificado ou desconsiderado por norma superveniente (lei 12.336/2010)" (fl. 569).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Foram apresentadas as contrarrazões (e-STJfls. 576-594).
+Em decisão prolatada em 26/5/2020, a Ministra Maria Thereza de Assis Moura, então Vice-Presidente desta Corte, determinou o sobrestamento do recurso extraordinário até a publicação da decisão de mérito do Supremo Tribunal Federal sobre o Tema n. 449/STF da sistemática da repercussão geral (e-STJ fls. 609-611).
+É o relatório.
+Ao julgar o RE n. 754.276 RG/RS, sob o regime da repercussão geral, o Supremo Tribunal Federal firmou o entendimento de que não possui repercussão geral o debate referente à possibilidade de convocação para o serviço militar obrigatório, quando da conclusão do curso de medicina, do médico que, ao se apresentar para o serviço militar inicial, obteve dispensa da incorporação por excesso de contingente (Tema n. 449/STF).
+Eis a ementa do julgado:
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. TEMA 449. SERVIÇO MILITAR OBRIGATÓRIO. ESTUDANTE DE MEDICINA. ATO CONVOCATÓRIO. CERTIFICADO DE DISPENSA DA INCORPORAÇÃO. MATÉRIA CONSTITUCIONAL. AUSÊNCIA. ART. 323-B DO RISTF. REVISÃO. INEXISTÊNCIA DA REPERCUSSÃO GERAL. NÃO CONHECIMENTO.
+1. Tema nº 449 da repercussão geral: "Convocação, para o serviço militar, de estudante de medicina dispensado por excesso de contingente". Na dicção do art. 323-B do Regimento Interno desta Suprema Corte, incluído pela Emenda nº 54, de 1º de julho de 2020, "o relator poderá propor, por meio eletrônico, a revisão do reconhecimento da repercussão geral quando o mérito do tema ainda não tiver sido julgado".
+2. Controvérsia de natureza infraconstitucional, pacificada no âmbito do Superior Tribunal de Justiça sob os Temas nº 417 e nº 418 da sistemática dos recursos repetitivos. Estudantes de Medicina dispensados por excesso de contingente não estão sujeitos à prestação do serviço militar obrigatório, à exceção dos médicos convocados na vigência da Lei nº 12.336/2010. Exegese das Leis nº 4.375/1964 e nº 5.292/1967.
+3. Recurso extraordinário não conhecido.
+(RE 754276 RG, Relator(a): ROSA WEBER, Tribunal Pleno, julgado em 22/03/2021, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - ADMISSIBILIDADE DJe-073 DIVULG 16-04-2021 PUBLIC 19-04-2021)
+Confiram-se, por oportuno, excertos do voto condutor, da lavra da Ministra Rosa Weber:
+ ..
+14. Inconteste a imprescindibilidade da natureza constitucional da controvérsia trazida no recurso extraordinário - o que, consoante entendo, não se mostra presente no caso dos autos, em que se debate a possibilidade de convocação para o serviço militar obrigatório, quando da conclusão do curso de medicina, do médico que, ao se apresentar para o serviço militar inicial, obteve dispensa da incorporação por excesso de contingente.
+15. Verifico, ademais, equacionada a matéria no âmbito do Superior Tribunal de Justiça, no exercício da sua constitucional competência de uniformizar a legislação federal (art. 105, III, da CF), ao exame do Recurso Especial nº 1.186.513/RS, submetido à sistemática dos recursos repetitivos - Temas nº 417 e nº 418.
+16. A Corte Superior de Justiça, por sua 1ª Seção, pacificou a controvérsia tanto sob a ótica das Leis nº 4.375/1964 e nº 5.292/1967, ao assentar o entendimento de que estudantes de Medicina dispensados por excesso de contingente não estão sujeitos à prestação do serviço militar obrigatório, quanto à luz da alteração legislativa decorrente do advento da Lei nº 12.336/2010, explicitando passíveis de prestação do serviço militar obrigatório os médicos, mesmo que tenham recebido o certificado de dispensa de incorporação, convocados após a vigência da norma legal alteradora. Transcrevo as ementas das decisões proferidas no REsp nº 1.186.513/RS, da relatoria do Ministro Herman Benjamin:
+ ..
+17. Tal exegese emprestada pelo STJ à matéria já foi objeto de análise e ratificação, no âmbito deste STF, quando do julgamento do Recurso em Mandado de Segurança nº 34.353, em decisão da lavra do Ministro Alexandre de Moraes, publicada em 05.9.2019, verbis :
+ ..
+18. Voto, assim, pelo não conhecimento do recurso extraordinário, inexistente tema de envergadura constitucional, e, consequentemente, pela ausência de repercussão geral, ao feitio do art. 1.035, caput, do CPC. (grifou-se).
+Compulsando-se os autos, verifica-se que a questão objeto da presente insurgência cinge-se à possibilidade de nova convocação para o serviço militar obrigatório, após concluir a graduação de medicina, de médico que, ao se apresentar inicialmente para o serviço militar, ainda estudante, fora dispensado da prestação do serviço em razão do excesso de alistados.
+Por conseguinte, tendo o Supremo Tribunal Federal afastado a existência de repercussão geral da matéria ora em testilha, ante a ausência de envergadura constitucional do tema, é inviável o prosseguimento deste apelo extremo.
+Ante o exposto, com fundamento no art. 1.030,I, a, do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. SERVIÇO MILITAR OBRIGATÓRIO. PROFISSIONAL DA ÁREA DE SAÚDE. DISPENSA POR EXCESSO DE CONTINGENTE. CONCLUSÃO DO CURSO. NOVA CONVOCAÇÃO. INEXISTÊNCIA DE MATÉRIA CONSTITUCIONAL. TEMA 449/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
