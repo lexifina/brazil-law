@@ -1,0 +1,15 @@
+DECISÃO
+MATHEUS DE JESUS SILVA alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (HC n. 2298351-92.2020.8.26.0000).
+Nesta Corte, sustenta a defesa o tempo elastecido para o encerramento do feito, instaurado pela suposta prática de tráfico de drogas e da associação respectiva. Aduz que a prisão cautelar do paciente remonta ao dia 5/6/2020 e, a despeito do término da instrução há cerca de 3 meses, não há sentença prolatada. Afirma que a diligência determinada pelo Juízo monocrático em novembro de 2020 não foi, até então, cumprida.
+Requer, liminarmente, a substituição da preventiva do acusado por medidas alternativas. No mérito, pugna pelo reconhecimento do excesso de prazo e a expedição de alvará de soltura.
+Indeferida a liminar (fls. 312-314) e prestadas as informações (fls. 318-320; 322-362), manifestou-se o Ministério Público Federal pela denegação da ordem (fls. 367-369).
+Decido.
+Inicialmente, ressalto que, em consulta ao sítio eletrônico do Tribunal de origem, verificou o gabinete que o Magistrado da 2ª Vara da Comarca de Limeira proferiu sentença, nos autos da Ação Penal n. 1500255-79.2020.8.26.0551 (DJe 11/5/2021). Sem embargo, os termos do decisum não estão disponíveis à consulta, até a presente data, nem mesmo com a senha de fl. 320. No dia 17/5/2021, o Juízo singular proferiu despacho, com o recebimento da apelação, interposta pela Defensoria Pública, e a ordem de intimação pessoal do réu acerca da sentença.
+Tais circunstâncias evidenciam a prejudicialidade desta impetração, em que a defesa invoca a suposta coação ilegal decorrente do lapso temporal transcorrido desde a segregação cautelar do acusado (em 5/6/2020) até a conclusão do feito em primeira instância.
+Consigno, outrossim, que, em favor do ora paciente, se impetrou, anteriormente, nesta Corte Superior, o HC n. 601.836/SP, cuja ordem foi por mim denegada (DJe 12/11/2020), por meio de decisão da qual extraio estes excertos (destaquei):
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar a quantidade de entorpecente apreendida em poder do acusado - 1.075 porções de crack (363g) e 497 porções de cocaína (127g). Além disso, ficou registrado que os corréus indicaram o paciente como o chefe do ponto de tráfico.
+Por fim, a folha de antecedentes criminais demonstra que o réu tem dupla reincidência específica por tráfico de drogas (fls. 128-130).
+Tais circunstâncias são suficientes, nos termos da jurisprudência desta Corte Superior, para a imposição da custódia provisória, a fim de resguardar a ordem pública.
+O agravo regimental interposto contra tal decisum não foi provido, pela Sexta Turma deste Superior Tribunal, em data recente (sessão do dia 4/5/2021, DJe 14/5/2021), após concluir que os fatores enunciados pelas instâncias ordinárias são bastantes para a preservação da custódia preventiva do réu.
+À vista do exposto, julgo o writ prejudicado.
+Publique-se e intimem-se.
