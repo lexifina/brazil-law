@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto pela UNIÃO,com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 373):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIÇO MILITAR OBRIGATÓRIO. ESTUDANTES DA ÁREA DE SAÚDE. REPERCUSSÃO GERAL. SOBRESTAMENTO. DESCABIMENTO. DISPENSA POR EXCESSO DE CONTINGENTE. OBRIGATORIEDADE RESTRITA ÀQUELES QUE OBTÊM ADIAMENTO DE INCORPORAÇÃO. ART. 4º, CAPUT, DA LEI 5.292/1967. MATÉRIA JULGADA SOB O RITO DO ART. 543-C DO CPC. RECURSOS REPETITIVOS.
+1. É incabível o pedido de sobrestamento do presente feito até o julgamento da matéria pelo Supremo Tribunal Federal, tendo em vista o reconhecimento da repercussão geral, providência a ser examinada quando da interposição de eventual recurso extraordinário dirigido à excelsa Corte, conforme dispõe o art. 543-B do CPC.
+2. Está consolidado o entendimento firmado no STJ no sentido da impossibilidade de convocação posterior para o serviço militar obrigatório dos estudantes graduandos nos cursos de nível superior de Medicina, Farmácia, Odontologia ou Veterinária que foram dispensados por excesso de contingente, ficando obrigados apenas aqueles que obtiveram adiamento de incorporação, na forma do art. 4º, caput, da Lei 5.292/1967.
+3. Recurso representativo da controvérsia: REsp n. 1.186.513/RS, Primeira Seção, Rel. Min. Herman Benjamin (DJe 29/04/2011).
+4. Agravo regimental não provido.
+Os embargos de declaração opostos, na sequência, foram rejeitados, nos seguintes termos (e-STJ fl. 392):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. IMPOSSIBILIDADE DE SE APRECIAR DISPOSITIVOS CONSTITUCIONAIS. REJEIÇÃO.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas não configuram as hipóteses de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. É defeso, em sede de recurso especial, analisar afronta a texto da Carta Magna, ainda que para fins de prequestionamento, sob pena de usurpar a competência do egrégio Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados.
+Sustenta arecorrente que o acórdão impugnado teria afrontado os comandos normativos da Constituição Federal, notadamente os arts. 5º, incisos XXXSV, LIV,LV e § 2º, 97 e 143.
+Alega que "o ato administrativo guerreado, de convocação do autor para o serviço militar inicial na condição de oficial médico, foi praticado em perfeita sintonia com os artigos 4º, § 2º, da Lei nº 5.292/67, 3º, item 12, do Decreto nº 57.654/66, e artigos 2ºe 5º da Lei nº 4.375/64, não podendo, por isso, ser anulado" (e-STJfl. 417).
+Argumenta que "a Lei nº 5.292/67, além de ser posterior à Lei nº 4.375/64 e ao Decreto nº 57.654/66, com o que já se denota a sua eficácia revogatória em relação a ela, nos termos dos dispositivos da LICC acima transcrito, se cuida, ainda, de norma especial e, repita-se, deve prevalecer sobre as disposições da Lei nº 4.375/64, que possuem aspecto de norma geral sobre o serviço militar, sob pena de violação ao referido art. 2º da LICC" (e-STJ fl. 422).
+Defende a repercussão geral da matéria debatida, qual seja, a possibilidade, ou não, de convocação para o serviço militar inicial obrigatório dos estudantes de MFDV dispensados por excesso de contingente.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Sem contrarrazões (e-STJ fl. 433).
+Em decisão prolatada em 5/12/2011, o Ministro Félix Fischer, então Vice-Presidente desta Corte, determinou o sobrestamento do recurso extraordinário até o julgamento pelo Supremo Tribunal Federal da matéria contida no AI 838.194/RS (e-STJ fl. 435).
+É o relatório.
+Ao julgar o RE n. 754.276 RG/RS, sob o regime da repercussão geral, o Supremo Tribunal Federal firmou o entendimento de que não possui repercussão geral o debate referente à possibilidade de convocação para o serviço militar obrigatório, quando da conclusão do curso de medicina, do médico que, ao se apresentar para o serviço militar inicial, obteve dispensa da incorporação por excesso de contingente (Tema 449/STF).
+Eis a ementa do julgado:
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. TEMA 449. SERVIÇO MILITAR OBRIGATÓRIO. ESTUDANTE DE MEDICINA. ATO CONVOCATÓRIO. CERTIFICADO DE DISPENSA DA INCORPORAÇÃO. MATÉRIA CONSTITUCIONAL. AUSÊNCIA. ART. 323-B DO RISTF. REVISÃO. INEXISTÊNCIA DA REPERCUSSÃO GERAL. NÃO CONHECIMENTO.
+1. Tema nº 449 da repercussão geral: "Convocação, para o serviço militar, de estudante de medicina dispensado por excesso de contingente". Na dicção do art. 323-B do Regimento Interno desta Suprema Corte, incluído pela Emenda nº 54, de 1º de julho de 2020, "o relator poderá propor, por meio eletrônico, a revisão do reconhecimento da repercussão geral quando o mérito do tema ainda não tiver sido julgado".
+2. Controvérsia de natureza infraconstitucional, pacificada no âmbito do Superior Tribunal de Justiça sob os Temas nº 417 e nº 418 da sistemática dos recursos repetitivos. Estudantes de Medicina dispensados por excesso de contingente não estão sujeitos à prestação do serviço militar obrigatório, à exceção dos médicos convocados na vigência da Lei nº 12.336/2010. Exegese das Leis nº 4.375/1964 e nº 5.292/1967.
+3. Recurso extraordinário não conhecido.
+(RE 754276 RG, Relator(a): ROSA WEBER, Tribunal Pleno, julgado em 22/03/2021, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - ADMISSIBILIDADE DJe-073 DIVULG 16-04-2021 PUBLIC 19-04-2021)
+Confiram-se, por oportuno, excertos do voto condutor, da lavra da Ministra Rosa Weber:
+ ..
+14. Inconteste a imprescindibilidade da natureza constitucional da controvérsia trazida no recurso extraordinário - o que, consoante entendo, não se mostra presente no caso dos autos, em que se debate a possibilidade de convocação para o serviço militar obrigatório, quando da conclusão do curso de medicina, do médico que, ao se apresentar para o serviço militar inicial, obteve dispensa da incorporação por excesso de contingente.
+15. Verifico, ademais, equacionada a matéria no âmbito do Superior Tribunal de Justiça, no exercício da sua constitucional competência de uniformizar a legislação federal (art. 105, III, da CF), ao exame do Recurso Especial nº 1.186.513/RS, submetido à sistemática dos recursos repetitivos - Temas nº 417 e nº 418.
+16. A Corte Superior de Justiça, por sua 1ª Seção, pacificou a controvérsia tanto sob a ótica das Leis nº 4.375/1964 e nº 5.292/1967, ao assentar o entendimento de que estudantes de Medicina dispensados por excesso de contingente não estão sujeitos à prestação do serviço militar obrigatório, quanto à luz da alteração legislativa decorrente do advento da Lei nº 12.336/2010, explicitando passíveis de prestação do serviço militar obrigatório os médicos, mesmo que tenham recebido o certificado de dispensa de incorporação, convocados após a vigência da norma legal alteradora. Transcrevo as ementas das decisões proferidas no REsp nº 1.186.513/RS, da relatoria do Ministro Herman Benjamin:
+ ..
+17. Tal exegese emprestada pelo STJ à matéria já foi objeto de análise e ratificação, no âmbito deste STF, quando do julgamento do Recurso em Mandado de Segurança nº 34.353, em decisão da lavra do Ministro Alexandre de Moraes, publicada em 05.9.2019, verbis :
+ ..
+18. Voto, assim, pelo não conhecimento do recurso extraordinário, inexistente tema de envergadura constitucional, e, consequentemente, pela ausência de repercussão geral, ao feitio do art. 1.035, caput, do CPC. (grifou-se).
+Compulsando-se os autos, verifica-se que a questão objeto da presente insurgência cinge-se à possibilidade de nova convocação para o serviço militar obrigatório, após concluir a graduação de medicina, de médico que, ao se apresentar inicialmente para o serviço militar, ainda estudante, fora dispensado da prestação do serviço em razão do excesso de alistados.
+Por conseguinte, tendo o Supremo Tribunal Federal afastado a existência de repercussão geral da matéria ora em testilha, ante a ausência de envergadura constitucional do tema, é inviável o prosseguimento deste apelo extremo.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. SERVIÇO MILITAR OBRIGATÓRIO. PROFISSIONAL DA ÁREA DE SAÚDE. DISPENSA POR EXCESSO DE CONTINGENTE. CONCLUSÃO DO CURSO. NOVA CONVOCAÇÃO. INEXISTÊNCIA DE MATÉRIA CONSTITUCIONAL. TEMA 449/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
