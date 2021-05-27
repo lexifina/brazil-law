@@ -1,0 +1,46 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+INSURGÊNCIA DA PARTE AUTORA.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa aos artigos 489 e 1.022 do CPC/15.
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211/STJ.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por EDENILZE NASCIMENTO SILVA e outro em face da decisão acostada às fls. 435/438, e-STJ, da lavra da Presidência do STJ, que conheceu do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO MOVIDA CONTRA A SABESP VISANDO INUTILIZAÇÃO DE ADUTORA DE ÁGUA JÁ INUTILIZADA - AUSÊNCIA DE INTERESSE PROCESSUAL - DANOS MORAIS NÃO COMPROVADOS - PROCESSO EXTINTO SEM RESOLUÇÃO DO MÉRITO QUANTO À OBRIGAÇÃO DE FAZER E AÇÃO IMPROCEDENTE RELATIVAMENTE À INDENIZAÇÃO POR DANOS MORAIS - RECURSO DA SABESP PROVIDO.
+Em suas razões recursais, os recorrentes apontam ofensa aos seguintes artigos:
+(i) 1022, inciso II, e 489, § 1º, inciso IV, ambos do Código de Processo Civil, por obscuridade no acórdão local: a) em razão de não ter havido a regularização do cano "T", situado no fundo do imóvel dos autores, o que demonstraria que a rede continuaria com possibilidade de passagem de Água por debaixo da casa dos embargantes, bastando abrir o registro; e b) pela impossibilidade de afastamento do dano moral sob pena de ofensa aos princípios da razoabilidade e proporcionalidade, tendo em vista que o acórdão hostilizado desconsiderou o conjunto probatório dos autos, notadamente que a adutora não foi retirada e que passa por baixo do imóvel dos embargantes, sem se saber se ainda passa água; e
+(ii) 1013 do Novo Código de Processo Civil, no que concerne à violação ao princípio do duplo grau de jurisdição, pois o acórdão local simplesmente negou-se a apreciar os argumentos trazidos pela parte recorrente no seu recurso de apelação, bem como deixou de analisar e valorizar a prova apresentada pela recorrente sem a adequada e necessária fundamentação.
+Contrarrazões às fls. 391/396, e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem negou seguimento ao apelo nobre indicando insuficiência de fundamentação recursal e por aplicação da súmula 7/STJ.
+Essa decisão foi impugnada por meio do agravo (art. 1.042 do CPC/15) cuja minuta está às fls. 402/415, e-STJ. Contraminuta às fls. 423/427, e-STJ.
+Em julgamento monocrático, conheceu-se parcialmente do recurso especial e, nesta extensão, negou-se-lhe provimento, em razão da inexistência de negativa e prestação jurisdicional e por incidência da Súmula 282 do STF quanto ao art. 1.013 do NCPC.
+Inconformados, interpuseram o presente agravo interno (fls. 442/451 e-STJ), em síntese, sustentando a inaplicabilidade da Súmula 282 do STF e reiterando a violação aos artigos 1022 e 489 do NCPC.
+Impugnação às fls. 454/459, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+INSURGÊNCIA DA PARTE AUTORA.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa aos artigos 489 e 1.022 do CPC/15.
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211/STJ.
+3. Agravo interno desprovido.
+VOTO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. Não restou configurada a negativa de prestação jurisdicional. Conforme a iterativa jurisprudência deste Tribunal superior, deve ser afastada a alegação de ofensa ao artigo 1.022 do CPC/15 "na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional" (RCD no AREsp 1297701/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 07/08/2018, DJe 13/08/2018).
+No mesmo sentido, vejam-se, a título de exemplo: EDcl no Ag 749.349/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/08/2018, DJe 14/08/2018; AgInt no REsp 1716263/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/08/2018, DJe 14/08/2018; AgInt no AREsp 1241784/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/06/2018, DJe 27/06/2018.
+No caso, a matéria questionada - dano moral e cano "T" - foi decidida de forma clara e expressa pela Corte de origem, não havendo que se falar em vício no ponto.
+Com efeito, extrai-se do acórdão local:
+Quanto ao pedido de inutilização da adutora, falece aos autores o interesse processual, pois quando do ajuizamento da demanda, em 12 de setembro de 2013, a rede de água já havia sido inutilizada, conforme a sociedade alegou em contestação e está demonstrado pela carta de fls. 41 e fotografias de fls. 112/113.
+No que tange aos danos morais, ao contrário do afirmado na sentença, a prova dos autos não revela que os autores tenham passado por sofrimento psicológico suscetível de autorizar indenização a tal título.
+De acordo com a petição inicial, tendo adquirido a posse do imóvel em 02 de janeiro de 2007 (fls. 26/27) e iniciado a construção de uma residência em 2009, somente no inicio de 2012, ao procederem escavações para o levantamento de um muro na parte de trás do terreno, eles tomaram conhecimento da existência de tubulação de água subterrânea ativada; acionada, logo a SABESP prontificou-se a remover a rede adutora, com corte e colocação de um "T" num ponto anterior ao muro dos fundos (fls. 39), para em 13 de julho de 2012 comunicar a inutilização da rede (fls. 41).
+O fato do encanamento não ter sido retirado, além de não ter o condão de provocar acidentes, colocando em risco a integridade física dos moradores, não os atormenta com nenhuma aparência terrível, apenas pequeno segmento restando exposto (fls. 30/37) (fls. 343/344). Sem destaque no original
+As alegações da parte insurgente, assim, não demonstram a ocorrência de qualquer vício na decisão recorrida, motivo pelo qual deve ser afastada a suposta violação ao artigo 1.022 do CPC/15.
+2. Nos termos da jurisprudência deste Tribunal Superior, "para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal." (AgRg no AREsp 519.518/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/05/2018, DJe 25/05/2018).
+No mesmo sentido, citam-se: AgInt no REsp 1668409/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/05/2018, DJe 24/05/2018; AgInt no REsp 1599354/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/11/2016, DJe 30/11/2016; AgInt no AREsp 1081236/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe 05/09/2017.
+Assim, uma vez que o Tribunal de origem não proferiu decisão a respeito da controvérsia trazida em razão da apontada ofensa ao art. 1.013 do NCPC, a esta Corte Superior, não havendo, sequer, tal alegação nas razões trazidas quando da interposição de embargos de declaração, é inviável conhecer o recurso especial, uma vez ausente o requisito do prequestionamento, conforme óbice da súmula 211 do STJ.
+É de rigor, portanto, a manutenção da decisão agravada.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
