@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deROBSON RODRIGO TRAVASSOapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA(Apelaçãon. 5013843-04.2020.8.24.0033).
+Depreende-se dos autos que o réu foi condenado a 1 ano, 11meses e 10 dias de reclusão, no regime inicialmente aberto, substituída por duas restritivas de direitos, pela prática do delito inscrito no art. 33, §4º da Lei n. 11.343/2006 (tráfico de drogas,e-STJ fls. 344/350).
+Segundo a acusação, o paciente trazia consigo41 porções de crack pesando aproximadamente 8,7g  oitogramas e sete decigramas .
+Interposta apelação pararedução da pena-base, o Tribunal de origem negou provimento ao recurso (e-STJ fls. 390/398).
+Daí o presente writ, no qual sustenta a defesa ilegalidade na dosimetria quanto ao aumento da pena-base.
+Requer, liminarmente e no mérito, a redução da pena-base ao mínimo legal.
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+No caso em tela, assim foi fundamentada a dosimetria da pena na sentença condenatória, ipsis litteris (e-STJ fls. 348/349):
+Na primeira fase, observados os arts. 59 do Código Penal e 42 da Lei n.11.343/06, verifico que a culpabilidade, entendida como grau de reprovabilidade da conduta, não extrapola o esperado em abstrato pelo tipo penal; o acusado não possui antecedentes, tendo em vista que é vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base (Súmula 444 do STJ); não há nos autos elementos acerca de sua conduta social ou personalidade; os motivos do crime são inerentes ao tipo penal; as circunstâncias do crime, em especial, a natureza e a quantidade da droga (41 pedras de crack, com massa bruta total de 8,8g), revelam uma reprovabilidade mais acentuada, sobretudo pela elevada nocividade da droga;as consequências do crime, embora gravosas à sociedade, são próprias do tipo penal; e não há que se falar em comportamento da vítima. Por tais razões, fixo a pena-base em 05 (cinco) anos e 10 (dez) meses, bem como 583 (quinhentos e oitenta e três) dias-multa.
+Na segunda fase, estão ausentes circunstâncias agravantes ou atenuantes, mantendo-se a pena intermediária inalterada.
+Na terceira fase, presente a causa de diminuição de pena do art. 33, §4º, da Lei n. 11.343/06, razão pela qual diminuo a pena em 2/3 (dois terços), ficando definitivamente estabelecida em 1 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão, bem como 194 dias-multa.
+Fixo o regime inicial aberto, tendo em vista a quantidade de pena aplicada, a primariedade e a presença de apenas uma circunstância judicial desfavorável (art. 33, §2 2 , c, do CP).
+Em atenção ao disposto no art. 387, § 2 2 do CPP, consigno que o tempo de prisão provisória do acusado não altera o regime inicial de cumprimento da pena de reclusão imposta.
+Verifico que o acusado preenche os requisitos do art. 44 do Código Penal, assim substituo a pena privativa de liberdade por duas restritivas de direitos, consistentes em prestação de serviços à comunidade ou à entidade pública a ser designada pelo Juízo da Execução Penal, à razão de uma hora por dia de condenação, e prestação pecuniária, no valor de um salário mínimo vigente à época dos fatos, a ser destinada pelo Juízo da Execução Penal, considerando a capacidade econômica do acusado.(Grifei.)
+Já o Tribunal de origem assim se manifestou quanto à dosimetria (e-STJ fls. 394/395):
+A defesa busca o afastamento do art. 42 da Lei de Drogas como circunstânciajudicial negativa.
+Sem razão.
+Nesse particular, sem maiores delongas, nãohá qualquer reparo a serefetuado no provimento judicial, eis que o apelante foi preso na posse de considerávelquantidade de crack (41 pedras/8,7g), entorpecente este de elevado potencial lesivo eque justifica o recrudescimento da pena base.
+Em caso análogo, colhe-se de julgado desta Câmara:  ..
+Dessa forma, mantém-se o aumento decorrente do art. 42 da Lei de Drogas.
+Delineada a situação fática, passo à análise das teses aviadas.
+Com efeito, para os crimes relacionados ao tráfico de drogas, o art. 42 da Lei n. 11.343/2006 anuncia parâmetros outros para o cálculo da pena-base, esclarecendo que o magistrado, ao estabelecer a sanção, considerará, com preponderância sobre os critérios previstos no art. 59 do Código Penal, a natureza e a quantidade do produto ou da substância apreendida. De fato, como se trata de crime contra a saúde pública, quanto mais nociva a substância entorpecente ou quanto maior a quantidade de droga apreendida em poder do agente, maior será o juízo de censura a recair sobre a conduta delituosa.
+Na primeira fase de dosimetria, o colegiado local considerou como desfavorável apenas a circunstância relativa à quantidade e à natureza dos entorpecentes apreendidos. Contudo, a meu ver, tal exasperação mostrou-se desproporcional, sobretudo em razão de a quantidade de droga não ser exacerbada -8,7g  oito gramas e sete decigramas  de crack-e de não ter havido valoração negativa de nenhuma outra circunstância judicial.
+Diante desse cenário, entendo que o aumento operado na primeira etapa da dosimetria da reprimenda não está devidamente justificado, devendo ser afastado para que a pena-base seja fixada no mínimo legal.
+Passo, assim, à readequação da dosimetria da pena do delito de tráfico ilícito de drogas, mantendo os parâmetros adotados pelo juízo de primeiro grau.
+Na primeira fase, estabeleço a pena-base no mínimo legal - 5 (cinco) anos de reclusão.Na segunda etapa, a sanção permanece inalterada.Na terceira fase, mantenho a redução de 2/3.Assim, a reprimenda definitiva é de 1 ano e 8 meses de reclusão.
+À vista do exposto,concedo liminarmente a ordem parareduzir a pena-base ao mínimo legal, fixandoreprimenda para 1 ano e 8 meses de reclusão, mantidos os demais termos da sentença condenatória e do acórdão confirmatório.
+Publique-se. Intimem-se.
