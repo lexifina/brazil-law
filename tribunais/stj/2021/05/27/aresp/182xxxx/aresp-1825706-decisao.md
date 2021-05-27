@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por ELIDE RASQUEL VIEIRA e OUTROS contra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qualdesafia acórdão assim ementado (e-STJ fl. 232):
+APELAÇÃO CÍVEL AÇÃO ORDINÁRIA SERVIDORES PÚBLICOS ESTADUAIS INATIVOS GRATIFICAÇÃO DE GESTÃO EDUCACIONAL (GGE), INSTITUÍDA PELA LCE Nº 1.256/2015 - Pedido de extensão da gratificação aos inativos Sentença de procedência. GGE - Pagamento da vantagem não pressupõe a sujeição do servidor a qualquer condição especial de trabalho ou função que a justifique Verba de caráter genérico e permanente, extensível, indiscriminadamente, a todos os servidores do quadro - Extensão aos inativos de rigor, por força da paridade remuneratória preconizada pela Constituição Federal (art. 40, § 8º).
+Recursos voluntários e reexame necessário não providos.
+Interpostos dois embargos de declaração pelos ora recorrentes, o primeiro foi rejeitado e o segundo parcialmente acolhido para majorar oshonorários advocatícios arbitrados na r. sentença em 2%(e-STJ fls. 257/260 e 269/273, respectivamente).
+No recurso especial obstaculizado, a parte apontouviolação do art. 1.022, II,do CPC/2015, argumentando que houve omissão por parte do Tribunal de origem em relação à "expressa condenação da parte contrária ao pagamento dos reflexos expressamente previstos na LCE 1.256/2015, art. 9º, §§ 1º e 2º, decorrentes da inclusão da GGE no cálculo das verbas "adicional por tempo de serviço"e "sexta-parte", bem como, do décimo terceiro salário" (e-STJ fl. 281).
+Acrescenta que se trata, "na verdade, de um justificável excesso de zelo dos autores, para se evitar eventuais recalcitrâncias da parte contrária em dar correto cumprimento ao título executivo na fase de cumprimento de sentença" (e-STJ fl. 281) e que "trata-se, também de um justificável excesso de zelo pelo fato de que foi deduzido expressamente na petição inicial o pedido de condenação da parte contrária ao pagamento dos reflexos previstos na LCE 1.256/2015, art. 9º, §§ 1º e 2º, decorrentes da inclusão da GGE no cálculo das verbas "adicional por tempo de serviço"e "sexta-parte", bem como, do décimo terceiro salário, conforme se pode verificar às fls. 17 da peça exordial, pedido "c""(e-STJ fl. 281).
+Contrarrazões às e-STJ fls. 305/309.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Inicialmente, cumpre registrar que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3/STJ).
+No que concerne à alegada omissão, saliente-se que o art. 1.022 do Código de Processo Civil/2015 prevê que os embargos de declaração são cabíveiscontra qualquer decisão judicial, no intuito de esclarecer obscuridade, eliminar contradição, suprir omissão ou para correção de eventual erro material, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Especificamente quanto à hipótese do inciso II, a novel legislação processual definiu como omissão as seguintes situações: (i) deixar de se manifestar sobre tese firmada em sede de recursos repetitivos ou em incidente de assunção de incompetência, e (ii) incorra a decisão judicial em qualquer das condutas descritas no artigo 489, § 1º, do CPC/2015.
+Esse dispositivo, por sua vez, trata dos casos em que a decisão judicial carece de fundamentação, senão vejamos:
+§ 1º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que:
+I - se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida;
+II - empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso;
+III - invocar motivos que se prestariam a justificar qualquer outra decisão;
+IV - não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador;
+V - se limitar a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos;
+VI - deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+No presente caso, a insurgência do agravante se amolda à hipótese elencada no inciso IV do art. 489, § 1º, do CPC/2015, tendo em vista que a Corte de origem não exprimiu juízo de valor sobre "o pagamento dos reflexos expressamente previstos na LCE 1.256/2015, art. 9º, §§ 1º e 2º , decorrentes da inclusão da GGE no cálculo das verbas "adicional por tempo de serviço" e "sexta-parte", bem como, do décimo terceiro salário" (e-STJ fl. 281).
+Com efeito, é de suma importância a verificação da referida tese, visto que possibilita o "correto cumprimento ao título executivo na fase de cumprimento de sentença" (e-STJ fl. 281).
+Outrossim, verifica-se que o tema foi submetido à apreciação do Tribunal de origem, conforme se extrai dos seguintes trechos dos dois embargos de declaração opostos pela parte insurgente (e-STJ fls. 254/255 e 263, respectivamente):
+ ..
+De plano, observe-se que o v. acórdão se quedou omisso, na medida em que não apreciou os pedidos "I)" e "II)", bem como os argumentos correspondentes (tópicos "I", "II" e "III") do recurso de apelação dos autores, constantes às fls. 205.
+Trata-se dos pedidos referentes a condenação da parte contrária a pagar os reflexos da GGE na base de cálculo do Adicional por Tempo de Serviço, daSexta-Parte, e do décimo terceiro salário, bem como ao apostilamento dos títulos.
+ ..
+Em face do acórdão julgador da apelação, opuseram os autores embargos de declaração, sustentando:
+  omissões , pelo fato de o aresto não ter apreciado os pedidos "i" e "ii" (além dos argumentos a eles correspondentes, exarados nos tópicos "I", "II" e "III") da apelação autoral (concernentes à condenação do ente fazendário ao apostilamento dos títulos, bem como, ao pagamento dos reflexos da inclusão da GGE na base de cálculo do adicional por tempo de serviço, da sexta-parte e do décimo terceiro salário), além da omissão decorrente da ausência de fixação de honorários recursais em favor dos patronos da parte autora; ..  (Grifos acrescidos).
+Ressalte-se que tal tese também foi objeto da apelação dos ora recorrentes (e-STJ fls. 199/201)à qual se negou provimento, sem que houvesse qualquer manifestação da Corte a quo sobre o tema.
+Logo, estando configurada a negativa de prestação jurisdicional, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios, para que o vício seja sanado pela Corte a quo.
+Nesse sentido:
+PROCESSO CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.VIOLAÇÃO AO ART. 535, II, DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM.
+1. Considerando que a Corte de origem deixou de se manifestar sobre ponto pertinente à lide, expressamente ventilado pela parte recorrente e indispensável à apreciação do apelo extremo, é inegável a violação do art. 535, II, do CPC, o que impõe o reconhecimento de nulidade do acórdão, bem como a determinação de novo julgamento dos embargos de declaração, para que seja sanada a omissão apontada.
+2. Tem-se que a interpretação sistemática do art. 530 do CPC leva à conclusão de que estão afastadas das hipóteses de cabimento de Embargos Infringentes contra acórdão que, por maioria, reforma sentença proferida com base no art. 267 do CPC, qual seja, a que leva à extinção do feito sem julgamento do mérito, como na hipótese dos autos.
+3. Agravo Regimental não provido.
+(AgRg no REsp 1.346.569/RJ, Rel. Min.BENEDITO GONÇALVES, Primeira Turma, DJe 25/11/2014) (Grifos acrescidos).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO DO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. ACIDENTE DO TRABALHO. AUXÍLIO-ACIDENTE.CUMULAÇÃO COM APOSENTADORIA. OMISSÃO QUANTO AOS JUROS DE MORA.ARTIGO 1º-F DA LEI 9.494/1997 COM A REDAÇÃO DADA PELA LEI 11.960/2009. NATUREZA PREVIDENCIÁRIA DA CONDENAÇÃO. OBSERVÂNCIA DOS RECURSOS ESPECIAIS REPETITIVOS 1.495.146/MG, 1.495.144/RS E 1.492.221/PR. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARA SANAR OMISSÃO QUANTO AOS CONSECTÁRIOS.
+(EDcl no AgInt no AgInt no AREsp 998.540/SP, Rel. Min.MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 19/04/2018, DJe 26/04/2018) (Grifos acrescidos).
+Ante o exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de anular o acórdão prolatado em sede de embargos declaratórios, por violação do art. 1.022, II, do CPC/2015, determinando o retorno dos autos ao Tribunal de origem para que sejam analisadas as questões omitidas mencionadas acima.
+Publique-se. Intimem-se.
