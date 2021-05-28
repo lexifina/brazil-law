@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino (Presidente) e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DE UM DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO NA ORIGEM. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte é no sentido de que a ausência de impugnação específica de algum dos fundamentos utilizados pela Corte de origem para inadmitir o recurso impede o conhecimento do agravo em recurso especial.
+2. Não demonstraram os agravantes terem impugnado, no agravo em recurso especial, a incidência da Súmula 7/STJ.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+RELATÓRIO
+Paulo Albino Maciel - espólio e outrosinterpuseramrecurso especial contra os acórdãos de fls. 474-480 e 520-525 (e-STJ), proferidos pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementados:
+Agravo de Instrumento. Previdência Privada. Cumprimento de Sentença. Abono Anual (13º Salário). Reflexos. Decisão que rejeitou os embargos de declaração e manteve o acolhimento parcial da conta do devedor. Considerando que a agravada restou condenada ao pagamento do auxílio cesta alimentação conforme os ativos, e estes percebem como reflexo no 13 º salário a rubrica dobrada no mês de dezembro de cada ano, também deve ser observado tal procedimento no cálculo apresentado, sob pena de ofensa ao título judicial. Desta sorte, como bem fundamentou o juízo singular, estando os valores apresentados pelo devedor em conformidade com o devido e em estrito cumprimento ao título judicial, deve ser mantida a decisão, nos termos do art. 502 e s. do CPC. NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. CUMPRIMENTO DE SENTENÇA. ABONO ANUAL (13º SALÁRIO). REFLEXOS. ENFRENTAMENTO DAS TESES APRESENTADAS. O juiz não é obrigado a enfrentar todas as teses apresentadas pela parte, mas apenas as necessárias a amparar seu convencimento. Hipótese de não preenchimento dos requisitos constantes do art. 1.022 do Novo CPC. CONTEÚDO INFRINGENTE. Não se acolhem embargos declaratórios dotados de inequívoco conteúdo infringente, exceto em situações excepcionais, o que incorreu na espécie. Precedentes jurisprudenciais. DESACOLHERAM OS EMBARGOS DE DECLARAÇÃO. UNÂNIME.
+A Corte de origem deixou de admitir o recurso sob os seguintes fundamentos: a) não ocorrência de negativa de prestação jurisdicional; e b) incidência das Súmulas 7 e 211/STJ.
+Interposto o agravo em recurso especial, em decisão monocrática de fls. 616-618 (e-STJ), a Presidência do STJ nãoconheceu do agravo em recurso especial, concluindo pela ausência de combate à incidência da Súmula 7/STJ.
+Daí o presente agravo interno (e-STJ, fls. 621-628), no qual defendem os agravanteso conhecimento do agravo em recurso especial.
+Impugnação às fls. 631-636 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DE UM DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO NA ORIGEM. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte é no sentido de que a ausência de impugnação específica de algum dos fundamentos utilizados pela Corte de origem para inadmitir o recurso impede o conhecimento do agravo em recurso especial.
+2. Não demonstraram os agravantes terem impugnado, no agravo em recurso especial, a incidência da Súmula 7/STJ.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+VOTO
+Na decisão agravada, concluiu-se pelo não conhecimento do agravo em recurso especial, tendo em vista a ausênciade impugnaçãoàincidência da Súmula 7/STJ.
+Veja-se às fls. 616-617 (e-STJ):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 211/STJ, ausência de afronta ao artigo 1.022 do CPC e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 7/STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOSDA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.5. Embargos de divergência não providos. (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Na presente insurgência, embora os agravantes defendam, de forma bem genérica, terem impugnado, no agravo em recurso especial, a incidência da Súmula 7/STJ, não demonstraram tal combate.
+Também em nova análise do agravo em recurso especial, não se verificoua impugnação objetiva do óbice apontado no juízo prévio de admissibilidade.
+Dessa forma, prevaleceofundamentoda decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
