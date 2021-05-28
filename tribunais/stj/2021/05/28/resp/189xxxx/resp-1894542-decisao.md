@@ -1,0 +1,35 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela UNIÃO contra acórdão prolatado pela 3ª Turma do Tribunal Regional Federal da 5ª Região, no julgamento de Apelação e Recurso Adesivo, assim ementado (fl. 418e):
+CONSTITUCIONAL E ADMINISTRATIVO. RESPONSABILIDADE CIVIL OBJETIVA. MILITAR. ACIDENTE EM TREINAMENTO MILITAR. EXPLOSÃO DE ARTEFATO BÉLICO. DANO MORAL CONFIGURADO. CASO FORTUITO. INOCORRÊNCIA. RAZOABILIDADE DO MONTANTE FIXADO NA SENTENÇA.
+1. Autor que foi vítima de um grave acidente ocorrido no Centro de Instrução de Operações do Exército, causado pela explosão de um morteiro clandestinamente escondido na área em que realizava treinamento militar.
+2. A teoria da responsabilidade objetiva do Estado, consagrada no art. 37, § 6º, da Constituição Federal, impõe ao poder público o dever de ressarcir os danos que seus agentes, nessa qualidade, causarem a terceiros, independentemente da comprovação de culpa.
+3. Para a caracterização da obrigação de indenizar, exige-se a presença de certos elementos, quais sejam: a ação estatal, a ocorrência de dano, e o nexo de causalidade entre a ação estatal e o dano. Na ausência de algum desses requisitos ou na presença de causa excludente ou atenuante, culpa exclusiva ou concorrente da vítima no evento danoso, a responsabilidade estatal será afastada ou mitigada.
+4. Evidenciado o nexo de causalidade entre o evento danoso e o comportamento negativo (omissão) do agente público, considerando que a presença de artefato bélico na área de treinamento militar foi determinante para o acidente que vitimou o autor, causando-lhe graves lesões, dentre as quais, queimaduras internas e externas, tanto na face, quanto na região do tórax e do abdômen, corte profundo em ambas as coxas, cicatriz na região do pescoço, além de problemas de saúde, tais como, perda parcial da audição, incessantes dores de cabeça, sensibilidade à luz e ao calor do sol.
+5. A análise dos autos permite concluir que não restou caracterizada a ocorrência de caso fortuito apto a afastar a responsabilidade do Estado, uma vez que não se verificou qualquer imprevisibilidade na ocorrência do evento.
+6. Indenização por danos morais fixada na sentença em R$ 70.000,00 (setenta mil reais).
+7. Apelação da União e Recurso Adesivo do Particular improvidos.
+Opostos embargos de declaração, foram acolhidos, consoante fundamentos resumidos na seguinte ementa (fls. 448/449e):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. DANO MORAL. OMISSÃO OCORRÊNCIA.
+1. Embargos de Declaração opostos pela União Federal, ao argumento de que o Acórdão teria incorrido em omissão quanto à ausência de pronunciamento acerca dos juros de mora e da correção monetária.
+2. Sobre o montante da reparação pelos danos morais devem ser aplicados os juros de mora no percentual de 0,5% ao mês, a contar do evento danoso, e correção monetária pelo Manual de Cálculos da Justiça Federal. Embargos de Declaração providos.
+Com amparo no art. 105, III, c, da Constituição da República, além de divergência jurisprudencial, aponta haver divergência jurisprudencial no tocante ao termo inicial da incidência da correção monetária.
+Houve desistência parcial do Recurso Especial quanto à sua interposição com lastro na alínea a, do permissivo constitucional, homologada pela Corte a qua mediante a decisão de fl. 593e.
+Com contrarrazões (fls. 499/511e), o recurso foi admitido (fl. 593e).
+O Ministério Público Federal manifestou-se às fls. 608/612e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+O Recurso Especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, pois a parte recorrente deixou de indicar os dispositivos legais que teriam sido interpretados de forma divergente pelos acórdãos confrontados, o que caracteriza deficiência na fundamentação recursal e atrai, por analogia, a incidência da orientação contida na Súmula 284 do Supremo Tribunal Federal segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, destaco precedente da Corte Especial deste Tribunal:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+(..)
+3. Nos termos do art. 105, III, "c", da Constituição Federal, é cabível a interposição de recurso especial quanto o acórdão recorrido "der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+4. "Para que se caracterize o dissídio, faz-se necessária a demonstração analítica da existência de posições divergentes sobre a mesma questão de direito" (AgRg no Ag 512.399/RJ, Rel. Min. ELIANA CALMON, Segunda Turma, DJ 8/3/04).
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido.
+(AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18/12/2013, DJe 17/03/2014, destaque meu).
+Posto isso, com fundamento no art. 557, caput, do Código de Processo Civil de 1973, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
