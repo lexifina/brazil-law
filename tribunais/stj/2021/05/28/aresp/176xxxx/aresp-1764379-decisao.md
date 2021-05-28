@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por THAISE OLIMPIO DA SILVA contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 165):
+MANDADO DE SEGURANÇA Concurso Público - Professor da Educação Básica I - Diploma em Nível Médio - Posse - Indeferimento - Nulidade - Impossibilidade:
+- A Lei de Diretrizes e Bases da Educação estabelece requisitos mínimos de formação do professor que não impedem a Administração de exigir formação superior ao estabelecer os requisitos do Edital calcados na Resolução SE 02/2014.
+No especial obstaculizado, a parte recorrente apontou violação do art. 62 da Lei n. 9.394/1996, que admite professores com formação mínima de nível médio, na modalidade normal, na educação infantil (creches e pré-escolas) e nos quatro primeiros anos do ensino fundamental. Sustentou, ainda, que o edital do concurso exigiu formação de nível superior em contrariedade com a Lei de Diretrizes e Bases da Educação.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fl. 206).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação de aludidos fundamentos.
+Parecer do Ministério Público Federal pelo provimento recurso (e-STJ fls. 242/245).
+Passo a decidir.
+O recurso merece prosperar.
+Com efeito, esta Corte tem o entendimento de que o município não pode exigir formação para a habilitação ao magistério da educação infantil e nos cinco primeiros anos do ensino fundamental além daquela estabelecida no art. 62 da Lei de Diretrizes e Bases da Educação Nacional, verbis:
+Art. 62. A formação de docentes para atuar na educação básica far-se-á em nível superior, em curso de licenciatura plena, admitida, como formação mínima para o exercício do magistério na educação infantil e nos cinco primeiros anos do ensino fundamental, a oferecida em nível médio, na modalidade normal.
+Neste sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AÇÃO CIVIL PÚBLICA. PROFESSOR DE EDUCAÇÃO BÁSICA. EXIGÊNCIA DE FORMAÇÃO PARA A HABILITAÇÃO AO MAGISTÉRIO DA EDUCAÇÃO INFANTIL E NOS CINCO PRIMEIROS ANOS DO ENSINO FUNDAMENTAL ALÉM DA ESTABELECIDA NO ART. 62 DA LEI DE DIRETRIZES E BASES DA EDUCAÇÃO NACIONAL. IMPOSSIBILIDADE. RECURSO ESPECIAL PROVIDO.
+1. Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Segundo o artigo 62 da Lei n. 9.394/96 (LDB), " a  formação de docentes para atuar na educação básica far-se-á em nível superior, em curso de licenciatura, de graduação plena, em universidades e institutos superiores de educação, admitida, como formação mínima para o exercício do magistério na educação infantil e nas quatro primeiras séries do ensino fundamental, a oferecida em nível médio na modalidade Normal".
+3."Consoante o entendimento desta Corte, o município não pode exigir formação para a habilitação ao magistério da educação infantil e nos cinco primeiros anos do ensino fundamental além da estabelecida no art. 62 da Lei de Diretrizes e Bases da Educação Nacional". (AgInt no AREsp. 586.891/PR, Rel. Min. GURGEL DE FARIA, DJe 14.3.2019).
+4. Recurso especial provido.
+(REsp 1.868.027/PB, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 26/05/2020, DJe 1º/06/2020).
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. MANDADO DE SEGURANÇA. PROFESSOR DE EDUCAÇÃO BÁSICA I. EXIGÊNCIA DE FORMAÇÃO PARA A HABILITAÇÃO AO MAGISTÉRIO DA EDUCAÇÃO INFANTIL E NOS CINCO PRIMEIROS ANOS DO ENSINO FUNDAMENTAL ALÉM DA ESTABELECIDA NO ART. 62 DA LEI DE DIRETRIZES E BASES DA EDUCAÇÃO NACIONAL. IMPOSSIBILIDADE. AGRAVO INTERNO DA FAZENDA DO ESTADO DE SÃO PAULO A QUE SE NEGA PROVIMENTO.
+1. Discute-se a legalidade da exigência editalícia de curso superior de licenciatura plena em pedagogia para o provimento do cargo de Professor de Educação Básica I.
+2. Esta Corte Superior firmou entendimento de que não se admite ao Poder Público a exigência de formação para a habilitação ao magistério da educação infantil e nos cinco primeiros anos do ensino fundamental além da estabelecida no art. 62 da Lei de Diretrizes e Bases da Educação Nacional. Precedentes: AgInt no AREsp. 586.891/PR, Rel. Min. GURGEL DE FARIA, DJe 14.3.2019; AgRg no REsp. 1.301.154/RJ, Rel. Min.OG FERNANDES, DJe 19.11.2015; REsp. 1.126.957/PR, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 31.8.2011.
+3. Agravo Interno da FAZENDA DO ESTADO DE SÃO PAULO a que se nega provimento.
+(AgInt no AREsp 1.427.203/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 14/10/2019, DJe 21/10/2019).
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. PROFESSOR MUNICIPAL. EDUCAÇÃO INFANTIL E ENSINO FUNDAMENTAL PRIMEIROS ANOS.CURSO DE NÍVEL SUPERIOR. EXIGÊNCIA EDITALÍCIA. IMPOSSIBILIDADE.INOVAÇÃO RECURSAL INVIABILIDADE.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Consoante o entendimento desta Corte, o município não pode exigir formação para a habilitação ao magistério da educação infantil e nos cinco primeiros anos do ensino fundamental além da estabelecida no art. 62 da Lei de Diretrizes e Bases da Educação Nacional.
+3. É inviável a análise de alegações voltadas à desconstituição do julgado que não foram suscitadas nas contrarrazões ao recurso especial, por tratar de indevida inovação recursal. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 586.891/PR, de minha relatoria, PRIMEIRA TURMA, julgado em 19/02/2019, DJe 14/03/2019).
+Assim, merece reforma o aresto proferido pelo Tribunal de origem em desconformidade com o entendimento desta Corte.
+Ante o exposto, com base no art. 253, II, parágrafo único, "c", do RISTJ, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial para CONCEDER A ORDEM originariamente impetrada, reconhecendo a ilegalidade da exigência de diploma de curso de nível superior na hipótese edeterminandoque a autoridade indicada como coatora proceda à nomeação da candidata, ora recorrente,desde que preenchidos os demais requisitos para o ingresso no cargo.
+Intimem-se. Publique-se.
