@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por FRANCISCA ZUILMA BESSA CUNHA e OUTROScom respaldona alínea "a" do permissivo constitucionalcontra acórdão do Tribunal Regional Federal da 5ª Regiãoassim ementado (e-STJ fls. 953):
+Processual Civil. Agravo de instrumento. Execução de sentença. Exclusão do PSS da base de calculo dos juros de mora a valores a serem pagos a servido por força judicial. Possibilidade. Precedente desta Turma. Agravo de instrumento improvido.
+Embargos de declaração rejeitados (e-STJ fls. 1.042/1.044).
+Em suas razões, a parte recorrente aponta violação dos arts. 1.022, II, do CPC/2015, 16-A da Lei n. 10.877/2004, 161 do CTN e 503 do CPC/2015,por ter a Corte de origem excluído da base de cálculo dos juros de mora a parcela que seria devida a título de contribuição previdenciária.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 1.098.
+Passo a decidir.
+Em relação à alegada ofensa do art.1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes,tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+Feita essa anotação, verifico que assiste razão aos recorrentes no mérito.
+No caso, o Tribunal de origem assentou o seguinte (e-STJ fls. 956):
+O cerne da controvérsia consiste em verificar a possibilidade ou não de exclusão do valor devido a título de Contribuição Previdenciária - PSS da base de cálculo dos juros de mora.
+Esta Turma firmou entendimento no sentido da não incidência de juros de mora sobre a parcela correspondente a PSS, vejamos:  .. .
+Ocorre que, como já tive oportunidade de me manifestar,a retenção na fonte, para cumprimento da obrigação tributária, não afasta a propriedade do servidor sobre a totalidade da verba em que incidirá o tributo, de modo que os juros moratórios sobre ela incidentes lhe pertencem por inteiro, sendo inadmissível a pretendida projeção da contribuição sobre verba ainda não paga, a fim de excluir a incidência de juros moratórios sobre a parcela a ser retida para pagamento do tributo. Confira-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. JUROS DE MORA. BASE DE CÁLCULO.PARCELA DESTINADA À CONTRIBUIÇÃO DO PSS. EXCLUSÃO. IMPOSSIBILIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. De acordo com o entendimento firmado pela Egrégia Primeira Seção do STJ no julgamento do REsp 1.239.203/PR, pela sistemática dos recursos repetitivos, "ainda que seja possível a incidência de contribuição social sobre quaisquer vantagens pagas ao servidor público federal (art. 4º, § 1º, da Lei 10.887/2004), não é possível a sua incidência sobre as parcelas pagas a título de indenização (como é o caso dos juros de mora), pois, conforme expressa previsão legal (art. 49, I e § 1º, da Lei n. 8.112/1990), não se incorporam ao vencimento ou provento."
+3. A retenção na fonte, para cumprimento da obrigação tributária, não afasta a propriedade do servidor sobre a totalidade da verba em que incidirá o tributo, de modo que os juros moratórios sobre ela incidentes lhe pertencem por inteiro, sendo inadmissível a pretendida projeção da contribuição sobre verba ainda não paga, a fim de excluir a incidência de juros moratórios sobre a parcela a ser retida para pagamento do tributo.
+4. Agravo interno desprovido.
+(AgInt no REsp 1591530/RS, de minha relatoria, PRIMEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, a fim de afastar a exclusão do valor devido a título de PSS da base de cálculo dos juros de mora.
+Publique-se. Intimem-se.
