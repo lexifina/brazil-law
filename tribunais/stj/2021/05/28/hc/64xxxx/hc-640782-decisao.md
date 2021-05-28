@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Diego dos Santos Petreca, em que se aponta como autoridade coatora a Terceira Câmara Criminal do Tribunal de Justiça de São Paulo.
+Consta dos autos que o paciente pediu a comutação de pena,com base no disposto no Decreto Presidencial n. 9.246/2017. O pedido foidenegado sob a justificativa de que o paciente não cumpria os requisitos subjetivos para a concessão da benesse pretendida (fls. 42/56).
+Em sede de agravo em execução, a Terceira Câmara Criminal do Tribunal de Justiça de São Paulo negou provimento ao recurso (fls. 60/65). Esta, a ementa do julgado (fl. 61):
+AGRAVO EM EXECUÇÃO PENAL COMUTAÇÃO DECRETO Nº 9.246/1017 CONCESSÃO IMPOSSIBILIDADE REQUISITOSUBJETIVO AUSÊNCIA - Cometimento de novo delito, durante gozo de livramento condicional, após pedido de benefício Efeitos do reconhecimento de falta grave, bem como nova condenação que torna ilógica a concessão da benesse. RECURSO DESPROVIDO.
+No presente writ, aduz a defesa que a falta grave cometida pelo sentenciado ocorreu fora do prazo previsto no decreto (em 2017), sendo, portanto, imprestável como fundamento para indeferir o pedido (fls. 3/6).
+Parecer ministerialopinando pelo não conhecimento do write pela concessão da ordemde ofício (fls. 86/92).
+É o relatório.
+Ao negar provimento ao recurso, a Corte local trouxe os seguintes fundamentos (fl. 62):
+ ..  Ainda que o delito tenha sido cometido após a edição do Decreto, a reiterada conduta criminosa do sentenciado não poderia ser desconsiderada, uma vez que ele não demonstra nenhum sinal de absorção da terapêutica penal.
+Se, por um lado, o sentenciado sofre as consequências da falta disciplinar, com eventual regressão de regime e perda de dias remidos, por outro seria contraditório e ilógico, quando comete novo delito situação que implica em novas sanções, conceder-lhe benefício de comutação da pena. Tratar-se-ia de premiação a sentenciado que não demonstra o menor índice de ressocialização.
+ ..
+Adoto como fundamentos o parecer ministerial, que bem trouxe a controvérsia dos autos (fls. 86/92 - grifo nosso):
+ ..  Merece reforma a decisão sob exame. Para a análise do pedido de indulto ou comutação de penas, o Julgador deve se ater ao preenchimento dos requisitos previstos no decreto presidencial, por se tratar de competência privativa do Presidente da República. Na hipótese dos autos, em relação ao requisito subjetivo, consta do Decreto nº 9.246/2017:
+Art. 4º O indulto natalino ou a comutação não será concedido às pessoas que: I - tenham sofrido sanção, aplicada pelo juízo competente em audiência de justificação, garantido o direito aos princípios do contraditório e da ampla defesa, em razão da prática de infração disciplinar de natureza grave, nos doze meses anteriores à data de publicação deste Decreto; II - tenham sido incluídas no Regime Disciplinar Diferenciado, em qualquer momento do cumprimento da pena; III - tenham sido incluídas no Sistema Penitenciário Federal, em qualquer momento do cumprimento da pena, exceto na hipótese em que o recolhimento se justifique por interesse do próprio preso, nos termos do art.3º da Lei nº 11.671, de 8 de maio de 2008; ou IV - tenham descumprido as condições fixadas para a prisão albergue domiciliar, com ou sem monitoração eletrônica, ou para o livramento condicional, garantido o direito aos princípios do contraditório e da ampla defesa.
+§ 1º Na hipótese de a apuração da infração disciplinar não ter sido concluída e encaminhada ao juízo competente, o processo de declaração do indulto natalino ou da comutação será suspenso até a conclusão da sindicância ou do procedimento administrativo, que ocorrerá no prazo de trinta dias, sob pena de prosseguimento do processo e efetivação da declaração.
+§ 2º Decorrido o prazo a que se refere o § 1º sem que haja a conclusão da apuração da infração disciplinar, o processo de declaração do indulto natalino ou da comutação prosseguirá. (gn)
+Percebe-se que referido ato presidencial estabeleceu a necessidade de se verificar o mérito do apenado nos doze meses de cumprimento da pena anteriores à sua edição, ou seja, estará vedada a concessão de indulto ou comutação de pena se o condenado tiver praticado falta grave em referido período. Assim, apenas as faltas graves praticadas pelo sentenciado nos últimos 12 (doze) meses que antecederam à publicação do ato presidencial impossibilitam a concessão do indulto. Logo, a falta grave praticada após o período em questão não pode ser óbice à negativa do benefício, pois praticada em data posterior àquela estabelecida no Decreto Presidencial.
+ ..
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃOPENAL. LIVRAMENTO CONDICIONAL E PROGRESSÃO DEREGIME. EXAME CRIMINOLÓGICO. IMPOSSIBILIDADE DEINTERPRETAÇÃO EXTENSIVA ÀS RESTRIÇÕES DO DECRETO DEINDULTO/COMUTAÇÃO. ATO DISCRICIONÁRIO DO PRESIDENTEDA REPÚBLICA INTERPRETAÇÃO SISTEMÁTICA E TELEOLÓGICA PARA DEFERIMENTO DE INDULTO PACOTE ANTICRIME. AGRAVO DESPROVIDO.
+1 . Não se permite interpretação extensiva das restrições contidas no decreto concessivo de comutação/indulto. Em outras palavras, não se pode criar demais restrições à concessão da benesse que não sejam aquelas versadas expressamente na norma presidencial. A leitura que deve ser feita da lei é aquela com base em interpretação que empreste à norma maior concretude possível, porém sempre mantendo como vetor exegético os princípios insculpidos na Constituição Federal.
+2. Se para o indeferimento da comutação pela prática de falta grave é necessário que a referida infração disciplinar seja verificada nos 12 meses anteriores à publicação do Decreto concessivo, não há razão para que, no caso de progressão de regime e livramento condicional tal lapso de tempo não seja igualmente observado.
+3. Interpretação sistemática e teleológica do art. 4º, inciso IV do Decreto9.246/2017, com seu inciso I.
+4. De acordo com o art. 83, III, do Código Penal (redação dada pela Lei13.964/2019), falta grave praticada há mais de 12 meses não pode obstar a concessão do livramento condicional.
+5. Agravo regimental desprovido
+(AgRg no HC n. 587.663/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 14/9/2020)
+Ante o exposto, concedo a ordem de habeas corpus para conceder ao paciente a comutação das penas, não considerando a falta grave ocorrida em período posterior.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS.EXECUÇÃO DE PENA. COMUTAÇÃO. REQUISITOS. DECRETO N.9.246/2017. FALTA GRAVE. COMETIMENTO APÓS A EDIÇÃO DO DECRETO. NÃO CONSIDERAÇÃO NO CÁLCULO. CONCESSÃO DA COMUTAÇÃO DA PENA.
+Ordem concedidanos termos do dispositivo.
