@@ -1,0 +1,47 @@
+DECISÃO
+Vistos.
+Trata-se de agravo interno interposto por CARLOS ALBERTO DESTRO em face de decisão assim ementada:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ILEGITIMIDADE DO ADVOGADO DA PARTE EXEQUENTE PARA PLEITEAR, EM NOME PRÓPRIO, DIREITO ALHEIO. VIOLAÇÃO AOS ARTS. 996 DO CPC E 23 E 24, § 1º, DA LEI 8.906/94. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. RAZÕES DISSOCIADAS DA REALIDADE DOS AUTOS. SÚMULA 284/STF. RECURSO ESPECIAL DESPROVIDO.
+Contra essa decisão, a agravada opôs embargos de declaração, que foram rejeitados.
+No agravo interno, sustenta-se, em síntese, que a decisão agravada não merece subsistir, porque (a) o Tribunal de origem julgou situação totalmente diversa da suscitada na apelação, caracterizada a negativa de prestação jurisdicional; (b) o agravante está a defender interesse próprio, além de ser parte na execução, sendo inaplicável a Súmula 284/STF; e (c) o óbice da Súmula 211/STJ deve ser afastado, pois houve o prequestionamento ficto dos dispositivos apontados como violados.
+Em impugnação, a agravada defende a manutenção da decisão agravada e requer a aplicação da multa do art. 1.021, § 4º, do CPC.
+É o relatório.
+Passo a decidir.
+Com razão o agravante.
+Para melhor compreensão do contexto que deu origem à interposição do recurso especial, convém rememorar alguns aspectos da causa.
+Colhe-se dos autos que CARLOS ALBERTO DESTRO, ora agravante em causa própria, e Marco Antonio Leal Filizzola - Espólio, segundo interessado e por aquele representado, promoveram o "cumprimento definitivo de sentença de obrigação de pagar de quantia certa" em face da agravada e da primeira interessada.
+Na ocasião, requereu-se "a intimação das executadas nas pessoas dos seus respectivos advogados, para, no prazo de quinze (15) dias, pagar o valor do débito acima demonstrado na quantia de R$ 530.335,74, sendo R$ 482.123,40 para o primeiro exequente e R$ 48.212,34 para o segundo".
+As executadas apresentaram impugnação ao cumprimento de sentença.
+O juízo de 1º grau julgou procedente a impugnação "para o fim de excluir do cumprimento de sentença a quantia relativa a restituição de valores, devendo integrar o cumprimento de sentença apenas e tão somente a quantia relativa a condenação por danos morais e os honorários advocatícios de 10% (dez por cento) incidente sobre essa parte da condenação" (e-STJ Fl. 175).
+Ao final, (a) considerando o depósito já realizado, declarou extinto o cumprimento de sentença e (b) condenou a parte exequenteao pagamento de multa por litigância de má-fé.
+Após proferida a sentença, Marco Antonio Leal Filizzola - Espólio constitui novos advogados.
+Contra a sentença, Marco Antonio Leal Filizzola - Espólio interpôs apelação visando afastar a condenação ao pagamento de multa por litigância de má-fé e de honorários advocatícios sucumbenciais fixados quando do acolhimento da impugnação.
+O ora agravante também interpôs apelação afirmando que (a) promoveu o cumprimento de sentença representando o espólio, credor principal, e em nome próprio, no que se refere aos seus honorários advocatícios fixados nos julgados exequendos, (b) os danos emergentes, excluídos do cumprimento de sentença, não dependem de prévia liquidação, pois dependem de mero cálculo aritmético, (c)apenas os lucros cessantes devem ser apurados em processo de liquidação, e (d)a multa por litigância de má-fé deve ser afastada.
+Contudo, ao relatar os recursos de apelação, o Tribunal de Justiça do Estado de Mato Grosso do Sul delineou a controvérsia da seguinte forma:
+Trata-se de Apelação interposta por Marco Antônio Leal Filizzola(Espólio) contra sentença proferida nos autos nº 0000247-03.2004.8.12.0043 pelo Juízo da 1ª Vara da Comarca de São Gabriel do Oeste -MS.
+Ação: Cumprimento de sentença proposta por Marco Antônio Leal Filizzola Espólio contra Apoio Agropecuário Comércio e Representações Ltda e John Deere Brasil Ltda, visando ao recebimento de R$ 530.335,74, "sendo R$482.123,40 para o Primeiro Exequente e R$ 48.212,34 para o segundo", fixados na sentença proferida nos autos nº 043.04.000247-3, a qual condenou que os executados devolvessem os valores pagos pelo apelante, relativos à compra de tratores que não foram entregues pelo apelado, bem como danos morais e patrimoniais.
+Assim posta a questão, o Tribunal de origem deu provimento à apelação deMarco Antonio Leal Filizzola - Espólio para afastar a multa por litigância de má-fé e, com relação à pretensão do ora agravante, decidiu o seguinte:
+2 - Preliminar - ilegitimidade recursal ativa.
+A devedora-apelada, John Deere Brasil Ltda, em suas Contrarrazões (f. 242-256), sustentou a ilegitimidade do Advogado-recorrente, Carlos Alberto Destro, para pleitear em nome próprio direito alheio, pois "a pretensão do advogado é a reforma total da decisão de fls. 170-174, complementada pela decisão de fl. 190, como se fosse parte vencida no processo, tratando-se de clara tentativa de requerer direito alheio em nome próprio, o que é defeso, de acordo com o previsto no art. 18, do CPC." (f. 247).
+Tais questões, como se vê da própria sentença, dizem respeito adireito do credor Marco Antônio Leal Filizzola (Espólio), não sendo passíveis de interposição de recurso por parte do Advogado, em seu nome próprio, pois, o art. 18 do CPC/15é taxativo ao prescrever que "ninguém poderá pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico".
+Assim, em razão de sua ilegitimidade recursal ativa, não deve ser conhecido o recurso interposto pelo Advogado Carlos Alberto Destro.
+O agravante opôs embargos de declaração apontando a existência de omissão, oportunidade na qual afirmou que (a) é parte ativa no cumprimento de sentença, pois "otítulo executivo judicial exequendo, além de condenar os embargados a indenizarem o ESPÓLIO DE MARCO ANTONIO, também os condenou a pagar honorários advocatícios no percentual de 10% ao embargante", (b) assim, nos termos do art. 23 e 24 da Lei 8.906/94, oadvogado possui interesse e legitimidade para executar a parte da sentença que lhe importa (honorários).
+O Tribunal de origem rejeitou os embargos de declaração, se limitando a sustentar que "não há se falar em omissão, pois o acórdão decidiu a questão da ilegitimidade do advogado embargante à luz do art. 18, do CPC/15, não havendo anterior argumentação do patrono no sentido agora deduzido no presente recurso, o que impede a configuração de omissão".
+A decisão ora agravada negou provimento ao recurso especial, por entender que não houve violação ao arts.489, II, § 1º, IV, e 1.022, II, do CPC.
+Contudo, reexaminando melhor a controvérsia, consoante relatado, entendo que, de fato, há omissão no acórdão recorrido.
+Ao contrário do consignado na decisão agravada, o agravante,ex-advogado do exequente, não suscitou questões que interessavam unicamente à parte, seu ex-cliente.
+Isso porque, convém destacar o teor do título executivo judicial (e-STJ Fl. 4):
+4 - O v. acórdão deu parcial provimento ao recurso do Exequente para estabelecer que a liquidação da sentença deveria se dar arbitramento; bem como para estabelecer que o percentual dos honorários da sucumbência deveria incidir sobre o valor da condenação.
+No mais, negou provimentos aos apelos, nestes termos (fls. 936):
+"Diante do exposto, divergindo da il. Relatora, voto por dar parcial provimento aos apelos, sendo o de John Deere e Apoio Agrapecuária parafixar os honorários advocaticios em 10% sobre o montante da condenação; e deMarco Antônio Leal Filizzola para que a liquidação da sentença seja realizada por arbitramento, na forma acima delineada, ficando mantida, no mais, a decisão objurgada."
+Destarte, considerando que os honorários advocatícios sucumbenciais foram calculados sobre o montante da condenação, o agravante, ao menos em tese, possui interesse recursal em discutir a existência ou não de liquidez imediata doquantum objeto do cumprimento de sentença, pois, se acolhida, receberá com maior rapidez o percentual a que lhe cabe, independente de liquidação prévia.
+Nessa linha de intelecção, ao contrário do que defende a agravada, entendo que a sentençaatingiu a esfera jurídica doagravante.
+Com essas considerações,o recurso especial deve ser provido para declarar a nulidade do julgamento dos embargos de declaração, determinando o retorno dos autos ao Tribunal de origem para que sejam sanadas as omissões apontadas e, se for o caso, prossiga no julgamento da apelação do agravante, como entender de direito.
+Além disso, não há se falar em inovação recursal, como apontou o Tribunal de origem, uma vez que essa questão foi suscitada à e-STJ Fl. 212.
+Em decorrência disso, resta prejudicado o exame das demais questões suscitadas peloagravante.
+Ante o exposto, acolho o agravo interno para,em juízo de retratação, dar provimento ao recurso especial, nos termos da fundamentação.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo àaplicação de multa.
+Intime-se.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. INTERESSE RECURSAL DO ADVOGADO. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. VIOLAÇÃO AOS ARTS. 489, II, § 1º, IV, E 1.022, II, DO CPC. OCORRÊNCIA. NECESSIDADE DE RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA SANAR OS VÍCIOS APONTADOS.
+AGRAVO INTERNO ACOLHIDO PARA, EM JUÍZO DE RETRATAÇÃO, DAR PROVIMENTO AORECURSO ESPECIAL.
