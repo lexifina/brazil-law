@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial manejado por Theron Marketing Ltda. com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 307):
+TRIBUTÁRIO. ADUANEIRO. TRIBUTOS INCIDENTES NA IMPORTAÇÃO. BASE DE CÁLCULO. VALOR ADUANEIRO. AVA-GATT. FRETE INTERNACIONAL E SEGURO. DECRETO. 92.930/86. DECRETO 6.759/2009. IN/SRF Nº 327/2007. INCLUSÃO. LEGALIDADE. DESPROVIMENTO.
+Incluem-se no valor aduaneiro, base de cálculo dos tributos incidentes na importação, as despesas com frete internacional e com seguro.
+Nas razões do especial, a parte recorrente aponta violação aos arts. 20, II, 97 e 98 do CTN. Sustenta, em síntese, que "o art. 146, III, a, da Constituição Federal determina que cabe à lei complementar estabelecer normas gerais em matéria tributária, definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados nesta Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes" (fl. 338); e que "a Instrução Normativa da Secretaria da Receita Federal nº 327/2007 e o art. 77 do Regulamento Aduaneiro (Decreto nº 6.759/2009) que são os instrumentos que preveem a inclusão do seguro e frete no valor aduaneiro NÃO se tratam de LEI COMPLEMENTAR e, portanto, violam o texto Constitucional que deve ser seguido em razão da internalização do GATT em 1994, após a promulgação da Constituição de 1988. Assim, por todo o exposto, mostra-se certo que as despesas de frete e seguro internacional não podem integrar a base de cálculo do valor aduaneiro para fins de cálculo do Imposto de Importação (II)" (fl. 339).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, ressalte-se que esta Corte já se manifestou no sentido de que a análise da violação ao art. 97 do CTN não é admitida na via do recurso especial, porquanto o preceito infraconstitucional é mera reprodução de dispositivo da Constituição Federal. A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRIBUIÇÃO AO SENAR. CONTROVÉRSIA SOBRE O FATO GERADOR. ART. 97 DO CTN. MATÉRIA DE NATUREZA CONSTITUCIONAL.
+1. O art. 97, inciso IV, do Código Tributário Nacional - CTN encontra respaldo no art. 150, inciso I, da Constituição Federal e sua norma possui natureza eminentemente constitucional. Nessa linha, o recurso especial, no qual se defende violação ao princípio constitucional da legalidade tributária, não pode ser conhecido. Precedentes: AgRg no AREsp 417.936/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 03/11/2014; AgRg no AREsp 507.664/RN, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 22/10/2014; AgRg no REsp 1454339/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 20/10/2014; AgRg no REsp 1421060/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/04/2014.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.428.741/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 12/2/2015, DJe 23/2/2015).
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO SAT. ALEGADA VIOLAÇÃO AO ARTIGO 535 DO CPC. NÃO CARACTERIZADA. ARTIGO 97 DO CTN. MATÉRIA DE CUNHO CONSTITUCIONAL. INVIABILIDADE DE APRECIAÇÃO NESTA VIA RECURSAL. PRECEDENTES. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVOS TIDOS POR VIOLADOS. APLICAÇÃO DAS SÚMULAS 282 E 356/STF. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. A análise da violação dos artigos 97 e 110 do Código Tributário Nacional, por reproduzirem princípios encartados em normas da Constituição da República, não é admitida na via especial, sob pena de usurpação da competência do Supremo Tribunal Federal. Precedentes: REsp 828.935/PR, Rel. Ministro Castro Meira, Segunda Turma, DJ 29/8/2006; e AgRg nos EDcl no REsp 1.098.218/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 9/11/2009.
+3. O recurso especial não merece ser conhecido em relação a questão que não foi tratada no acórdão recorrido, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356 do STF, por analogia).
+4. Agravo regimental não provido.
+(AgRg no REsp 1.454.339/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/10/2014, DJe 20/10/2014).
+Ademais, em relação à alegação de que "a Instrução Normativa da Secretaria da Receita Federal nº 327/2007 e o art. 77 do Regulamento Aduaneiro (Decreto nº 6.759/2009) que são os instrumentos que preveem a inclusão do seguro e frete no valor aduaneiro NÃO se tratam de LEI COMPLEMENTAR e, portanto, violam o texto Constitucional" (fl. 339), evidencia-se o caráter constitucional da demanda, cujo tema envolve a análise do art. 146, III, da Constituição Federal, o que é incabível em sede de recurso especial.
+No mais, consignou o Tribunal de origem (fls. 309/312 - g.n.):
+A parte autora ajuizou a presente demanda objetivando a exclusão de despesas de frete e seguro internacional sejam excluídas do conceito de valor aduaneiro para fins e composição da base de cálculo dos tributos incidentes sobre a importação.
+Afirma que a inclusão desses elementos no conceito de valor aduaneiro pelo Decreto nº 92.930/86, que promulgou o Acordo sobre a Implementação do artigo VII do Acordo Geral sobre Tarifas Aduaneiras e Comércio e o Seu Protocolo Adicional, viola frontalmente a Constituição Federal, que exige lei complementar para tanto (art. 146, III, "a", CF).
+A Constituição Federal, em seu art. 146, III, "a", dispõe que cabe à lei complementar estabelecer normas gerais sobre base de cálculo dos impostos.
+O Código Tributário Nacional, Lei nº 5.172/66, exercendo a função constitucional determinada pelo art. 146, CF, estabelece conceito aberto da base de cálculo do Imposto de Importação, conforme inciso II do art. 20 do CTN, verbis:
+Art. 20. A base de cálculo do imposto é:
+(..) II - quando a alíquota seja ad valorem, o preço normal que o produto, ou seu similar, alcançaria, ao tempo da importação, em uma venda em condições de livre concorrência, para entrega no porto ou lugar de entrada do produto no País;
+(..)
+O preenchimento desse conceito aberto cabe à legislação tributária, aí incluídos tratados internacionais, decretos e instruções normativas e portarias.
+No caso em comento, esse conceito aberto é preenchido justamente pelo Acordo Geral sobre Tarifas Aduaneiras e Comércio - GATT, por expressa determinação do art. 2º, II do Decreto-Lei nº 37/1966, recepcionado pela CF/1988 com status de lei ordinária, verbis:
+ ..
+O Acordo sobre a Implementação do artigo VII do Acordo Geral sobre Tarifas Aduaneiras e Comércio (AVA-GATT) foi incorporado ao ordenamento jurídico brasileiro pelo Decreto 92.930/1986, sendo de observar que, nos termos do art. 98 do CTN, os tratados internacionais possuem aptidão de revogar ou modificar a legislação tributária interna.
+O art. 2º do Decreto 92.930/86 prevê expressamente que:
+ ..
+E o art. 8º do AVA-GATT prevê:
+ ..
+Observa-se, pois, que o Brasil previu a inclusão das despesas com frete internacional e com seguro no valor aduaneiro através do Decreto 92.930/86, que possui status de lei por incorporar tratado internacional no ordenamento jurídico brasileiro.
+Assim, especificamente quanto à inclusão desses elementos, o Decreto 6.759/2009 (Regulamento Aduaneiro) e a IN 327/2003 apenas dispuseram sobre matéria já prevista em lei:
+ ..
+Da leitura dos dispositivos acima transcritos, conclui-se pela constitucionalidade e legalidade da inclusão das despesas de frete internacional e seguro no valor aduaneiro da mercadoria, pois observados os limites impostos pela Constituição Federal, pelo AVA-GATT e pelo Decreto 6.759/2009.
+Nesse sentido:
+ ..
+Diante da leitura do excerto transcrito, observa-se que, no presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, "o Brasil previu a inclusão das despesas com frete internacional e com seguro no valor aduaneiro através do Decreto 92.930/86, que possui status de lei por incorporar tratado internacional no ordenamento jurídico brasileiro. Assim, especificamente quanto à inclusão desses elementos, o Decreto 6.759/2009 (Regulamento Aduaneiro) e a IN 327/2003 apenas dispuseram sobre matéria já prevista em lei " (fl. 311), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: Agint no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/02/2021; Agint no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/02/2021.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
