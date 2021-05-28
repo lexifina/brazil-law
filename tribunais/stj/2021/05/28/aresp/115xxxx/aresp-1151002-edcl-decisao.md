@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Marco Antonio da Silva contra a decisão, de e-STJ fls. 587/589, que determinou a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento de recurso especial submetido à sistemática dos recursos repetitivos e, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+O embargante alega, em síntese, que a matéria veiculada no recurso especial não é idêntica à veiculada nos apelos nobres submetidos à sistemática dos recursos repetitivos, Temas 531 e 1.009 do STJ.
+Ao final, busca a atribuição de efeito modificativo aos embargos, a fim de que seja julgado o recurso especial.
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição ou erro material. Ainda, em hipóteses excepcionais, os efeitos modificativos podem ser atribuídos ao recurso integrativo.
+Na hipótese dos autos, verifica-se que assiste razão ao embargante, tendo em vista que o recurso especial trata de questão que não foi afetada à sistemática dos recursos repetitivos.
+Assim, acolho os embargos, com atribuição de efeitos modificativos, e passo à análise do agravo em recurso especial.
+Trata-se de agravo manejado pela FAZENDA NACIONAL contra decisão do Tribunal Regional Federal da 4ª Região, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 434):
+ADMINISTRATIVO. EXECUÇÃO FISCAL. VALORES RECEBIDOS A MAIOR POR SERVIDOR PÚBLICO. INSCRIÇÃO EM DÍVIDA ATIVA. IMPOSSIBILIDADE.
+O art. 46 da Lei n. 8.112/1990 prevê que as reposições ao erário serão feitas pelo servidor, mediante desconto em folha de pagamento, podendo ser parceladas a pedido do interessado.
+Somente os débitos não-tributários que possuem previsão legal de inscrição em dívida ativa podem ser cobrados por meio de execução fiscal, porque tal procedimento - assim como a extração da correspondente certidão - depende não só do controle de legalidade (artigo 2o, § 3o, da Lei n. 6.830/80) como, também, de autorização legal específica (art. 39, § 1º da Lei n. 4.320/64).
+O artigo 47 da Lei n. 8.112/1990 (com redação dada pela Lei n. 9.527/97) autorizava a inscrição em dívida ativa se o débito não fosse quitado pelo servidor. Não obstante, o dispositivo legal foi alterado e, atualmente, permite a inscrição em dívida ativa de débito não quitado nos casos em que houver demissão, exoneração, cassação de aposentadoria ou disponibilidade.
+Em relação a servidor que mantém vínculo com a Administração Pública, não se permite a inscrição de seus débitos em dívida ativa e consectários, devendo a credora valer-se dos meios administrativos e judiciais à sua disposição para a satisfação do crédito.
+Os embargos de declaração opostos foram parcialmente acolhidos para fins de prequestionamento.
+No especial obstaculizado, a ora agravante apontou violação dos arts. 46 e parágrafos, e 47, da Lei n. 8.212/1991 e do art. 39, § 2º, da Lei n. 4.320/1964, sustentando, em síntese, que é legítima a inscrição em dívida ativa dos débitos decorrentes da restituição de parcelas pagas indevidamente a servidor público, nos casos em que o executado não autoriza o desconto em folha.
+Após contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem ao entendimento de que o acórdão recorrido está alinhado com a jurisprudência do STJ (Súmula 83).
+Não obstante os argumentos expendidos, o recurso não merece prosperar.
+Com efeito, não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..  III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente.
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá:
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida;
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+In casu, da análise dos autos, verifico que a inadmissão do especial se deu com base na aplicação da Súmula 83 do STJ.
+Nas razões do agravo em recurso especial, contudo, a parte não impugnou, de forma específica, o referido fundamento.
+Note-se que, "inadmitido o recurso especial com base na Súmula 83 do STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles" (AgRg no AREsp 815.940/RS, relator Ministro HUMBERTO MARTINS, Segunda Turma, DJe 25/02/2016), o que não ocorreu na espécie, já que a agravante limitou-se a indicar um único precedente que não se subsume ao caso dos autos.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+Ante o exposto, ACOLHO os embargos de declaração, com excepcionais efeitos infringentes, e, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO doagravoem recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
