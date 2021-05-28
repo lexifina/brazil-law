@@ -1,0 +1,34 @@
+DECISÃO
+Trata-sehabeas corpus, com pedido liminar, impetrado em favor deSIDINALDO DE SOLZA CAVALCANTE (ou SIDINALDO DE SOUSA CAVALCANTE) contra acórdão proferido pelo Tribunal Regional Federal da 4.ª Região no Habeas Corpus n.5048158-51.2020.4.04.0000/PR.
+O Paciente foi preso em flagrante, com os demais Corréus, em 09/06/2020, pela prática, em tese, dos crimes previstos nos arts. 33 e 40, inciso I, e 35 da Lei 11.343/2006 e no art. 70 da Lei n. 4.117/1962 (fl. 77). A prisão preventiva foi decretada em 10/06/2020.
+Impetrado prévio habeas corpus perante o Tribunal de origem, a ordem foi denegada.
+Neste writ, a Defesa sustenta, ilegalidade da prisão em flagrante, tendo em vista a dispensa, pelo Magistrado de origem, da realização da audiência em virtude da Recomendação n. 62 do Conselho Nacional de Justiça (fl. 5).
+Alega, ainda, que a prisão preventiva foi decretada de ofícioe que o Juízo de origem "sequer requereu a manifestação das partes, antes de homologar e decretar a prisão preventiva do paciente" (fl. 10).
+Sustenta, igualmente, a existência de excesso de prazo na formação da culpa, pois o Paciente encontra-se preso sem julgamento desde 09/06/2020, bem como aausência de fundamentação idônea e dos requisitos autorizadores da medida constritiva.
+Requer, em liminar e no mérito, o relaxamento da prisão em favor do Paciente para que possa responder ao processo-crime em liberdade.
+O pedido liminar foi indeferido às fls. 172-173,.
+As judiciosas informações foram prestadas às fls. 177-179.
+O Ministério Público Federal manifestou-se às fls. 182-184, opinando pela "prejudicialidade do presente habeas corpus, por perda do seu objeto, nos termos do artigo 34, inciso XX, do RISTJ".
+É o relatório. Decido.
+De início, consoante informações colhidas no endereço eletrônico do Tribunal de origem, verifica-se que, em 25/01/2021, foi proferida sentença condenatória nos autos da Ação Penal n. 5005128-97.2020.4.04.7005/PR, na qual o Magistrado julgou procedente a denúncia para "CONDENAR o réu SIDINALDO DE SOUSA CAVALCANTE pela prática do crime do artigo 33, caput, c/c artigo 40, inciso I, da Lei n. 11.343/2006, à pena privativa de liberdade de 8 (oito) anos, 4 (quatro) meses e 10 (dez) dias de reclusão, a ser cumprida inicialmente em regime fechado, e à pena de multa de 836 (oitocentos e trinta e seis) dias-multa, cada um no valor de 1/30 (um trigésimo) do salário-mínimo vigente à época do fato delitivo (9/6/2020)." (original com grifos).
+Na oportunidade, o Juízo sentenciante negou o apelo em liberdade nos seguintes termos:
+"A prisão preventiva dos réus foi decretada por ocasião da homologação da prisão em flagrante dos acusados (inquérito policial n. 500416759.2020.4.04.7005/PR, evento 11), para garantia da ordem pública.
+As provas produzidas durante a instrução da ação penal confirmaram que os acusados voluntariamente aceitaram transportar 293,300 kg (duzentos e noventa e três quilogramas e trezentos gramas) de maconha, e a grande quantidade de entorpecente indica a possível participação em organização criminosa voltada à prática de tráfico internacional de drogas, como apontado na decisão de decretou a custódia cautelar.
+Além disso, conforme já destacado por ocasião da análise da individualização da pena, os réus Fernando Jeferson Santos Silva e Valter Souza Cavalcante são reincidentes e ostentam diversos registros criminais.
+Tais circunstâncias não deixam dúvidas de que subsiste a necessidade de se garantir a ordem pública, objetivando evitar o cometimento de novos delitos.
+Os réus permaneceram segregados por toda a tramitação processual, e não advieram motivos para alterar o quadro fático que justificou a prisão cautelar deles, pelo que ratifico a prisão preventiva para mantê-los no cárcere até eventual progressão de regime de cumprimento de pena".
+Assim, há novo título a respaldar a custódia cautelar do Paciente, poisas razões anteriormente consignadas para legitimar a segregação, idôneas ou não, foram complementadas pelo superveniente fundamento, que ainda não foi objeto de análise pelo Tribunal impetrado.
+Explicite-se: a custódia cautelar, agora, decorre da decisão condenatória de primeiro grau, por meio da qual o Juízo sentenciante deve se pronunciar sobre a necessidade da prisão preventiva, consoante a regra prevista no art. 387, parágrafo único, do Código de Processo Penal, in verbis:
+"Parágrafo único. O juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta." (sem grifos no original.)
+A verificação de eventual constrangimento ilegal, pelo desatendimento ao texto legal citado, por se tratar de novo título, em que foram utilizados novos fundamentos, deve ser postulada perante a Corte competente. Não pode este Tribunal Superior adiantar-se em tal análise, sob pena de indevida supressão de instância (Constituição da República, art. 105, inciso I, alínea c).
+Nesse sentido:
+"AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. FORMAÇÃO DE NOVO TÍTULO. REALIDADE JURÍDICO-PROCESSUAL ALTERADA. PREJUDICIALIDADE DA QUESTÃO SUSCITADA NO RHC. PRECEDENTES.
+1. A partir da sentença, a prisão cautelar, se mantida, decorre de novo título judicial. Assim, é em face desse novo contexto que se deve indagar sobre os requisitos da segregação cautelar.
+2. Prevalece no âmbito da Sexta Turma desta Corte o entendimento nosentido de que constitui novo título a expedição de sentença condenatória que mantenha a custódia preventiva, mesmo que não lance mão de novos fundamentos para a manutenção daquela. Precedentes. (EDcl no RHC n. 78.448/MG, Sexta Turma, DJe 23/3/2017).
+3. Agravo regimental improvido." (AgRg no RHC 94.324/RO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 22/03/2018, DJe 03/04/2018; sem grifos no original.)
+Por fim, quanto à tese de excesso de prazo na formação da culpa, observo que a questão suscitada não foi apreciada pela Corte estadual, de modo que não pode ser conhecida originariamente por esta Corte, sob pena de supressão de instância.
+Ademais, com a prolação da sentença condenatória, fica superada a alegação de constrangimento ilegal por excesso de prazo, nos termos da Súmula n. 52 do Superior Tribunal de Justiça: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo."
+Ante o exposto, JULGO PREJUDICADO ohabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ILEGALIDADE NA CONVERSÃO DO FLAGRANTE EM PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATORIA. NOVO TÍTULO JUDICIAL NÃO ANALISADO PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE APRECIAÇÃO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. TESE NÃO APRECIADA PELA CORTE DE ORIGEM. HABEAS CORPUS PREJUDICADO.
