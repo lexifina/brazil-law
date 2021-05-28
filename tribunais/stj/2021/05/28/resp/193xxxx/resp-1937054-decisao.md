@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto por VALQUIRIA ALVES DE LIMA, com apoio no art. 105, III, "a", da Constituição Federal, em face deacórdão proferido pelo Tribunal de Justiça do Estado do Tocantins, assim ementado (e-STJ, fl. 581):
+"APELAÇÃO CRIMINAL. TRÁFICO. ABSOLVIÇÃO E DESCLASSIFICAÇÃO PARA A CONDUTA DO ARTIGO 33, § 3º. IMPOSSIBILIDADE. PROVA QUE DEMONSTRA A COMERCIALIZAÇÃO DA DROGA. DOSIMETRIA DA PENA. TRÁFICO PRIVILEGIADO. GRANDE QUANTIDADE DE DROGA QUE INDICA A DEDICAÇÃO A ATIVIDADES CRIMINOSAS. MANUTENÇÃO DA SENTENÇA.
+1. Não há que se falar em absolvição ou desclassificação da conduta quando a prova demonstra a comercialização de substâncias ilícitas pelo réu.
+2. De igual modo, a dosimetria da pena deve permanecer hígida, vez que mostra-se justificável o aumento da pena pela quantidade de droga apreendida (Artigo 42, da Lei de Drogas), bem como a dedicação à atividades criminosas justifica a não aplicação do privilégio.
+3. Recurso NÃO PROVIDO."
+Aduz a defesaviolação doart. 33, § 4º, da Lei n. 11.343/2006.
+Alega que a consideração da quantidade de droga apreendida para elevar a pena-base e ainda afastar o reconhecimento do tráfico privilegiado configuraria indevido bis in idem.
+Obtempera que a recorrente faria jus aoreconhecimento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, pois preenchidos os requisitos legais.
+Requer, assim, o provimento do recurso, para "aplicar o redutor de pena previsto no citado dispositivo, com redimensionamento de pena e alteração de regime prisional" (e-STJ, fl. 600).
+Contrarrazões apresentadas (e-STJ, fls. 610-615).
+Admitido o recurso especial (e-STJ, fls. 621-623), oMinistério Público Federal opina pelo não conhecimento do recurso (e-STJ, fls. 632-634).
+É o relatório.
+Decido.
+Consta dos autos que arecorrente foi condenadacomo incursanas sanções do art. 33, caput, da Lei n. 11.343/2006, às penas de5anos de reclusão, no regime inicial fechado, epagamento de 500 dias-multa.
+A pena-base foi fixada em 6 anos de reclusão, acima, portanto, do mínimo legal, diante da elevada quantidade de droga apreendida, no caso, 2.570 kgde maconha.
+Quanto à causa de diminuição de pena, assim constou da sentença condenatória e do acórdão recorrido, verbis:
+"Deixo de aplicar o disposto no artigo 33, § 4º, da Lei 11.343/06, em face da quantidade expressiva de entorpecentes apreendidos. Assim, em que pese a acusada não possuir outros processos contra si eser tecnicamenteprimária, incabível a diminuição tendo em vista a quantidade expressiva de droga apreendida." (e-STJ, fl. 426).
+"Por fim, pugna a parte pela aplicação da figura privilegiada.
+Sem maiores delongas, observa-se que foram apreendidos com a recorrente 2 quilos e 570 gramas de maconha, quantidade esta expressiva que demonstra a sua dedicação à atividade delituosas.
+A aplicação da figura privilegiada exige que todos os elementos contidos no § 4º, do Artigo 33 estejam presentes, senão vejamos:
+ ..
+Assim, com o não preenchimento do requisito se dedicar às atividades criminosas, impõe-se a manutenção da sentença." (e-STJ, fl. 576, grifou-se).
+Como é sabido, os requisitos legais para o deferimento da causa especial de diminuição de pena do art. 33, § 4º, da Lei de Drogas são: agente reconhecidamente primário, com bons antecedentes e que não se dedique a atividades criminosas ou integre organização criminosa.
+Os fundamentos utilizados pelas instâncias ordinárias para não aplicá-la ao caso concreto estão em consonância com a jurisprudência desta Corte Superior, na medida em que dizem respeito à dedicação darecorrente à atividade criminosa - tráfico de drogas -, evidenciado sobretudo pela expressiva quantidade de droga apreendida (2.570 kg de maconha), aliada às circunstâncias da prisão darecorrente e do corréu. Na residência da ré, além dos entorpecentes, foram encontrados "balança de precisão e facão contendo resíduos/resquícios de substância análoga a maconha" (e-STJ, fl. 419).
+Desse modo, para modificar o entendimento adotado nas instâncias inferiores de que a prática do tráfico de drogas e a dedicação em atividade criminosa estão configuradas e aplicar a minorante prevista na Lei de Drogas, seria necessário reexaminar o conteúdo probatório dos autos, o que é inadmissível, a teor da Súmula 7 do STJ.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS.DOSIMETRIA. MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO APLICAÇÃO. GRANDE QUANTIDADE DE ENTORPECENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. REGIME FECHADO. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Segundo o entendimento firmado neste Tribunal Superior, a quantidade da droga apreendida bem como as circunstâncias do caso concreto constituem elementos aptos a justificar não só o afastamento da minorante prevista no art. 33, § 4º, da Lei n.11.343/2006 como também a imposição de regime mais gravoso do que aquele previsto para o quantum da pena imposta.
+2. No caso, não se vislumbra ilegalidade na dosimetria da pena, tendo em vista que a Corte de origem baseou-se em fundamentação idônea, lastreada também na grande quantidade da droga apreendida - mais de 9kg (nove quilos) de maconha - para afastar a suscitada minorante e fixar o regime mais gravoso.
+3. Agravo regimental desprovido."
+(AgRg no AREsp 1769433/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/02/2021, DJe 02/03/2021).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. ART. 33, § 4.º, DA LEI N.º 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. QUANTIDADE E NATUREZA DAS DROGAS.CIRCUNSTÂNCIAS DO CASO CONCRETO. REEXAME FÁTICO-PROBATÓRIO.IMPOSSIBILIDADE. SÚMULA N.º 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A quantidade e/ou a natureza da droga podem justificar a não aplicação da minorante prevista no art. 33, § 4.º, da Lei n.º 11.343/2006, quando essas evidenciarem a dedicação do agente a atividades criminosas.
+2. A Corte estadual concluiu que o Agravante se dedicava habitualmente a atividades criminosas não apenas devido à quantidade e à natureza da droga apreendida - 45kg (quarenta e cinco quilogramas) de maconha - mas, também, em razão do sofisticado modus operandi delitivo, no qual foi utilizado veículo especialmente preparado para o transporte das drogas entre os municípios de Campo Grande/MS e Três Lagoas/MS, constatando-se o envolvimento de diversas pessoas na logística criminosa.
+3. Uma vez constatada, pela instância ordinária, a ausência dos requisitos para a aplicação da causa de diminuição de pena prevista no art. 33, § 4.º, da Lei n.º 11.343/2006, sobretudo em razão da dedicação habitual do Recorrente a atividades criminosas, a modificação desse entendimento exigiria aprofundado reexame probatório, o que não é possível no recurso especial, nos termos da Súmula n.7 desta Corte Superior.
+4. Agravo regimental desprovido."
+(AgRg no AREsp 1580373/MS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 06/02/2020, DJe 21/02/2020).
+Vale anotar também que o STJtem entendimento firme de que é possível a aferição da quantidade e da natureza da substância entorpecente, concomitantemente, na primeira etapa da dosimetria, para exasperar a pena-base e, na terceira, para justificar o afastamento da causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/2006 quando evidenciado o envolvimento habitual do agente no comércio ilícito de entorpecentes, sendo tal hipótese distinta da julgada, em repercussão geral, pelo STF no ARE n. 666.334/AM.
+Cito, por oportunos, os seguintes precedentes:
+" ..
+- Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+- No caso, foi afastada a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 em razão da dedicação do paciente à atividade criminosa, evidenciada pelas circunstâncias em que o delito ocorreu, indicativas do tráfico habitual. Alterar tal entendimento importa em revolvimento fático-probatório, inviável na estreita via do habeas corpus. Precedentes.
+- Por ocasião do julgamento do ARE n. 666.334/AM, o Supremo Tribunal Federal reconheceu a repercussão geral da matéria referente à valoração da natureza e da quantidade da droga na dosimetria relativa ao delito de tráfico de entorpecentes e, reafirmando sua jurisprudência, fixou entendimento segundo o qual fica evidenciado o bis in idem quando a valoração em tela opera-se na primeira e terceira fases do cálculo da pena. O Supremo Tribunal Federal preocupou-se em evitar a dupla valoração da quantidade de entorpecentes na exasperação da pena-base e na definição do patamar da fração da causa de diminuição prevista no § 4º do art. 33 da Lei 11.343/2006. Assim, nada impede que a quantidade da droga justifique a exasperação da pena-base e fundamente o não reconhecimento do tráfico privilegiado.
+Precedentes.
+- Na espécie, destaque-se que a quantidade da droga apreendida, embora utilizada na primeira fase para justificar a exasperação da pena-base, não foi usada para definir o patamar da fração redutora pela incidência da minorante descrita no art. 33, § 4º, da Lei n. 11.343/2006, mas, sim, como um dos fatores impeditivos do seu reconhecimento, inocorrendo, assim, a alegada ofensa ao primado do ne bis in idem.
+Precedentes.
+ ..
+- Habeas corpus não conhecido." (HC 413.337/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 7/11/2017, DJe 13/11/2017).
+" ..
+2. A pena-base foi aumentada com fundamento na quantidade da droga, nos termos do art. 42 da Lei n. 11.343/06, e a causa de diminuição de pena prevista no § 4º do art. 33 desta Lei deixou de ser aplicada em face das circunstâncias apuradas na instrução processual evidenciarem a dedicação do réu em atividade criminosa, inviabilizando a concessão do benefício. A reforma desse entendimento constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto demanda percuciente reexame de fatos e provas, inviável no rito eleito.
+3. Ainda que assim não fosse, a utilização concomitante da quantidade de droga apreendida para elevar a pena-base (1ª fase) e para afastar a incidência da minorante prevista no § 4º do art. 33 da Lei de Drogas (3ª fase) - por demonstrar que o acusado se dedica a atividades criminosas ou integra organização criminosa - não configura bis in idem.
+4. Trata-se de hipótese diversa daquela versada no ARE n. 666.334 (Repercussão Geral), no qual o Pretório Excelso passou a considerar bis in idem a utilização da quantidade de droga "tanto na primeira fase de fixação da pena, como circunstância judicial desfavorável, quanto na terceira, para modular a aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006" (ARE 666.334/RG, Rel.: Ministro GILMAR MENDES, DJ de 6/5/2014).
+Habeas corpus não conhecido." (HC 401.277/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 17/10/2017, DJe 26/10/2017).
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do Regimento Interno do STJ, conheço em parte do recurso especial e, nesta extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
