@@ -1,0 +1,60 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LICITAÇÕES. ART. 89 DA LEI 8.666/1993. CRIME MATERIAL. PREJUÍZO AO ERÁRIO NÃO CONSTATADO PELA CORTE DE ORIGEM. ART. 1º, I, DO DECRETO-LEI 201/1967. AUSÊNCIA DE PROVAS. SÚMULA 7/STJ. FALTA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284/STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. A condenação pelo delito do art. 89 da Lei n. 8.666/1993 exige a comprovação de dano ao erário, que não foi constatado pela Corte local, de modo que a inversão do julgado esbarra no óbice da Súmula 7/STJ.
+2. Também não foi comprovada, como se colhe do acórdão recorrido, a presença de alguma conduta típica prevista no art. 1º, I, do Decreto-lei 201/1967, razão pela qual a Súmula 7/STJ impede o conhecimento do recurso especial também neste ponto.
+3. A falta de impugnação aos fundamentos adotados pelo Tribunal de origem atrai a incidência das Súmulas 283 e 284/STF.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental (e-STJ, fls. 1.811-1.908) interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão (e-STJ, fls. 1.803-1.808) que conheceu em parte e, nesta extensão, negou provimento ao seu recurso especial.
+O Parquet afirma, em síntese, que: (I) a constatação do prejuízo ao erário não esbarraria na Súmula 7/STJ; (II) outrossim, os crimes do art. 89 e 90 da Lei 8.666/1993 prescindiriam de eventual dano aos cofres públicos; (III) seria inaplicável a Súmula 83/STJ, pois os precedentes citados na decisão agravada não teriam eficácia vinculante; e (IV) não incidiriam as Súmulas 283 e 284/STF, porque o recurso especial teria impugnado todos os fundamentos do acórdão recorrido.
+Pede, ao final, o provimento do agravo regimental, para prover também o recurso especial.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LICITAÇÕES. ART. 89 DA LEI 8.666/1993. CRIME MATERIAL. PREJUÍZO AO ERÁRIO NÃO CONSTATADO PELA CORTE DE ORIGEM. ART. 1º, I, DO DECRETO-LEI 201/1967. AUSÊNCIA DE PROVAS. SÚMULA 7/STJ. FALTA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284/STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. A condenação pelo delito do art. 89 da Lei n. 8.666/1993 exige a comprovação de dano ao erário, que não foi constatado pela Corte local, de modo que a inversão do julgado esbarra no óbice da Súmula 7/STJ.
+2. Também não foi comprovada, como se colhe do acórdão recorrido, a presença de alguma conduta típica prevista no art. 1º, I, do Decreto-lei 201/1967, razão pela qual a Súmula 7/STJ impede o conhecimento do recurso especial também neste ponto.
+3. A falta de impugnação aos fundamentos adotados pelo Tribunal de origem atrai a incidência das Súmulas 283 e 284/STF.
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A decisão agravada deve ser mantida, pois a parte agravante não trouxe argumentos suficientes para sua alteração.
+Inicialmente, as alegações do MP/MG sobre o art. 90 da Lei 8.666/1993 sequer guardam pertinência com as questões discutidas nos autos, pois a denunciou imputou aos agravados, apenas, a prática dos delitos previstos nos arts. 89 da Lei 8.666/1993 e 1º, I, do Decreto-lei 201/1967 (e-STJ, fl. 5). Foram estes crimes que embasaram a condenação em sentença (e-STJ, fl. 1.086), posteriormente revertida pelo acórdão recorrido. O recurso especial, aliás, sequer apontou ofensa ao art. 90 da Lei 8.666/1993, de modo que as referências a este dispositivo estão completamente dissociadas da matéria da causa.
+No mais, como constatei quando do julgamento monocrático, no que se refere ao cabimento dos aclaratórios opostos pela defesa, que culminaram na absolvição, anota-se a seguinte passagem do voto do 2º vogal, que inaugurou a tese vencedora no julgamento (e-STJ, fl. 1.404):
+"No que tange ao delito de dispensa ilegal de licitação, coloquei-me de acordo com o voto condutor na ocasião do julgamento do recurso de apelação. Ocorre que houve omissão em minha manifestação de adesão porque, para o caso concreto, a homologação do procedimento de dispensa foi precedida de parecer jurídico. Em casos pretéritos, enfrentei a questão tal como colocado pelo embargante: o fato de o embargante ser superior hierárquico dos secretários e procuradores que atestaram a legalidade do procedimento de contratação com dispensa de licitação não demonstra, por si só, a adesão livre e voluntária à suposta empreitada criminosa" (grifei).
+Como se vê, a atribuição de efeitos infringentes nos embargos decorre do reconhecimento da omissão quanto à existência de parecer jurídico favorável à dispensa de licitação, hipótese desconsiderada no julgamento da apelação defensiva.
+Tal compreensão não destoa da jurisprudência desta Corte, pacificada no sentido da possibilidade de conferir efeitos infringentes aos embargos declaratórios quando, sanada a omissão, contradição ou obscuridade, a alteração surja como consequência lógico-necessária.
+No ponto:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO. EXISTÊNCIA. TEMPESTIVIDADE DO APELO NOBRE. RECURSO CONHECIDO. MÉRITO. FURTO QUALIFICADO. CONCURSO DE AGENTES. PRINCÍPIO DA INSIGNIFICÂNCIA. POSSIBILIDADE. BEM DE VALOR ÍNFIMO. UMA PLACA DE GRAMA PERTENCENTE À PREFEITURA MUNICIPAL DO RIO DE JANEIRO. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+1. Inicialmente, cumpre registrar que, de acordo com a jurisprudência desta Corte, "é possível a atribuição de efeitos infringentes aos embargos declaratórios em hipóteses excepcionais, ou seja, quando sanada a omissão, contradição ou obscuridade, a alteração da decisão surja como consequência lógico-necessária" (EDcl no AgRg no RMS 27.586/RS, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 02/06/2015, DJe 11/06/2015)
+ .. "
+(EDcl no AgRg no REsp 1.800.082/RJ, desta relatoria, QUINTA TURMA, julgado em 19/9/2019, DJe 24/9/2019)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. TEMPESTIVIDADE. MATÉRIA DE ORDEM PÚBLICA. COGNOSCÍVEL DE OFÍCIO. RECURSO ORDINÁRIO INTEMPESTIVO. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+ ..
+3. É possível a atribuição de efeitos infringentes aos embargos declaratórios em hipóteses excepcionais, ou seja, quando sanada a omissão, contradição ou obscuridade, a alteração da decisão surja como consequência lógico-necessária.
+Embargos de declaração acolhidos, com efeitos modificativos, para reconhecer a intempestividade do recurso ordinário interposto, negando-lhe conhecimento; restabelecendo-se, assim, o acórdão do Tribunal a quo."
+(EDcl no AgRg no RMS 27.586/RS, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 2/6/2015, DJe 11/6/2015)
+Sobre configuração do crime previsto no art. 89 da Lei 8.666/1993, a jurisprudência deste STJ pacificou orientação no sentido de ser imprescindível a comprovação do prejuízo para comprovar sua materialidade. Nesse sentido:
+"PROCESSO PENAL. HABEAS CORPUS. DISPENSA OU INEXIGIBILIDADE DE LICITAÇÃO FORA DAS HIPÓTESES LEGAIS. ATIPICIDADE. NECESSIDADE DE DOLO ESPECÍFICO PARA CAUSAR DANO AO ERÁRIO E COMPROVADO PREJUÍZO. ABSOLVIÇÃO. PARECER MINISTERIAL NO MESMO SENTIDO.
+1. " O s crimes previstos nos artigos 89 da Lei n. 8.666/1993 (dispensa de licitação mediante, no caso concreto, fracionamento da contratação) e 1º, inciso V, do Decreto-lei n. 201/1967 (pagamento realizado antes da entrega do respectivo serviço pelo particular) exigem, para que sejam tipificados, a presença do dolo específico de causar dano ao erário e da caracterização do efetivo prejuízo" (APn n. 480/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, relator p/ acórdão Ministro CESAR ASFOR ROCHA, CORTE ESPECIAL, julgado em 29/3/2012, DJe 15/6/2012).
+ .. "
+(HC 535.624/PB, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 16/6/2020, DJe 26/6/2020)
+"PENAL E PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. DISPENSA INDEVIDA DE LICITAÇÃO. ART. 89, PARÁGRAFO ÚNICO, DA LEI N. 8.666/1993. TRANCAMENTO. INÉPCIA DA DENÚNCIA E AUSÊNCIA DE JUSTA CAUSA NÃO CONSTATADAS. DEMONSTRAÇÃO DO ESPECIAL FIM DE CAUSAR DANO AO ERÁRIO. PREJUÍZO AOS COFRES PÚBLICOS DESCRITO NA INICIAL ACUSATÓRIA. RECURSO ORDINÁRIO DESPROVIDO.
+ ..
+2. "Esta Corte, após inicial divergência, pacificou o entendimento de que, para a configuração do crime previsto no art. 89 da Lei n. 8.666/1993 exige-se a presença do dolo específico de causar dano ao erário e a caracterização do efetivo prejuízo" (RHC 118.885/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 4/11/2019).
+ .. "
+(RHC 102.610/AP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 17/12/2019, DJe 19/12/2019)
+Por outro lado, em relação ao art. 1º, I, do Decreto-lei 201/1967, verifica-se que o acórdão recorrido justificou a absolvição com fundamento na ausência de prova sobre a concretização dos elementos objetivos do tipo (e-STJ, fl. 1.412).
+Diante desse quadro, analisar se a Administração efetivamente sofreu prejuízo em decorrência da contratação de artistas, com a inobservância do procedimento licitatório, ou se ocorreu apropriação ou desvio de verbas públicas, demandaria a revisão do contexto fático-probatório, o que atrai o óbice da Súmula 7/STJ.
+Quanto à pretensão de afastar a tese de bis in idem entre os crimes do art. 89 da Lei 8666/1993 e art. 1º, I, do Decreto-lei 201/1967, anota-se a seguinte passagem do acórdão recorrido (e-STJ, fls. 1.411-1.412):
+" ..
+Isso porque, como já destacado alhures, o contrato firmado entre a prefeitura de Igarapé/MG e a sociedade empresária "Projectum Comunicação Studio de Áudio e Video Ltda" tinha como objeto, além do cachê da dupla "Don & Juan", o fornecimento de infraestrutura necessária realização do evento, tal como palco, sonorização, iluminação, sanitários químicos, camarote, show pirotécnico, arquibancada, arena com bretes e curral para rodeio, segurança (f. 125). Já os objetos dos orçamentos de f. 27 (R$8.500,00) e de fls. 23/26 (R$13.000,00), utilizados pelo magistrado primevo para demonstração do suposto superfaturamento, são muito mais restritos, referindo-se, o primeiro, tão somente ao cachê da dupla e, o segundo, ao cachê e aos equipamentos de som e luz.
+Dessa forma, os referidos orçamentos não se prestam a demonstrar o alegado superfaturamento e, via de consequência, a existência de prejuízo ao erário municipal.
+Com tais considerações, diante da ausência de comprovação de que os réus possuíam o dolo de causar dano ao erário, bem como do prejuízo supostamente suportado pela Administração Pública com a inexigibilidade de licitação fora das hipóteses previstas em lei, a absolvição de Antônio Chaves de Oliveira e de Ednei Souza Nogueira da prática do delito previsto no art. 89 da Lei 8.666/93 é medida de rigor.
+E, nesse mesmo contexto, inexistindo comprovação do superfaturamento, não há como manter a condenação dos denunciados da origem nas iras do art. 1º, inciso I, do Decreto Lei 201/67, já que não há provas de que eles se apropriaram de renda pública ou de que a desviaram em proveito próprio ou alheio."
+Como se vê, o Tribunal de origem afastou a condenação pelos delitos previstos no art. 1º, I, do Decreto-lei 201/1967 e art. 89 da Lei 8666/1993 pela inexistência de prova suficiente relativa à consumação dos tipos, nos termos do art. 386, VII, do CPP (e-STJ, fl. 1.412), e não propriamente pela suposta ocorrência de bis in idem.
+Desse modo, a pretensão de ver reconhecido o concurso material entre os crimes é insuficiente para modificar a conclusão do acórdão recorrido, atraindo a aplicação do óbice das Súmulas 283 e 284/STF.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
