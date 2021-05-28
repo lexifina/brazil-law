@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANA MARIA FERREIRA DE ARAUJO, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Regiãoassim ementado (e-STJ fls. 344/345):
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO CIVIL.ACUMULAÇÃO DE CARGOS DE PROFISSIONAL DA SAÚDE. VIOLAÇÃO A NORMA. ERRO DE FATO. NÃO COMPROVAÇÃO. PEDIDO RESCISÓRIO IMPROCEDENTE.
+1. Ação Rescisória através da qual se objetiva desconstituir sentença, que julgou improcedente o pedido autoral, revogando a liminar deferida.
+2. Com a promulgação da EC nº 34/2001, que deu nova redação ao art. 37, XVI, "c", CRFB/88, o direito à acumulação de cargos de profissionais da saúde ganhou expressa proteção constitucional, tendo como requisitos, tão somente, a regulamentação da profissão e a compatibilidade de horários. Antes disso, a jurisprudência já havia sedimentado entendimento no sentido de ser possível a acumulação de dois cargos de profissional de saúde, quando a mesma já era exercida antes da atual Carta Magna, nos moldes do art. 17, §§ 1º e 2º do ADCT.
+3. A Impetrante exerce o cargo de Psicóloga na Prefeitura de Maricá e aposentou-se do cargo Técnico de Nível Superior.
+4. Embora a Demandante alegue que assistente social é considerado como sendo de profissional de saúde, não se trata do cargo exercido, mas tão somente da função exercida e sequer restou demonstrado nos autos que exerceu esta função até o momento da aposentadoria.
+5. A ação objeto da presente lide trata-se de um Mandado de Segurança, a qual é imprescindível a demonstração de forma inequívoca direito líquido e certo.
+6. A violação de norma jurídica que autoriza o uso da rescisória pressupõe que a norma legal tenha sido ofendida em sua literalidade pela decisão rescindenda, não servindo para toda e qualquer pretensão deduzida com o objetivo de conseguir o desfazimento de decisão já transitada em julgado, a transformar-se em mero recurso com prazo privilegiado.
+7. " O erro de fato, capaz de justificar o ajuizamento da ação rescisória, nos termos dos §§ 1º e 2º do inciso IX do art. 485 do CPC, somente se configura quando o decisum rescindendo tenha admitido como fundamento um fato inexistente, ou tenha considerado inexistente um fato efetivamente ocorrido; sendo indispensável que, em qualquer hipótese, não tenha havido pronunciamento judicial sobre o fato. 4. A via rescisória não é adequada para a aferição da existência de injustiça do decisum rescindendo, tampouco para corrigir interpretação equivocada dos fatos, reexaminar ou complementar as provas produzidas no processo originário " (STJ, QUINTA TURMA, REsp 653613/DF, Rel. Min. LAURITA VAZ, DJ 15/06/2009, unânime).
+8. Ação Rescisório julgada improcedente.
+Rejeitados os aclaratórios (e-STJ fls. 364/368).
+Nas suas razões, a parte recorrente aponta violação dos arts.966, VIII e § 1º,1.022, I eII, do CPC/2015, e 2º , § 1º, daLei n. 8.080/1990, sustentando negativa de prestação jurisdicional, bem como efetivacomprovaçãode erro de fato a justificar a procedência da ação rescisória.
+Contrarrazões às e-STJ fls. 387/398.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 405/409.
+Passo a decidir.
+Em relação ao art. 1.022 do CPC/2015, esta Corte tem entendido que se aplica o óbice da Súmula 284 do STF quando a alegação de ofensa se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro (AgRg no AREsp 7 19.983/PE, rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 19/04/2016, DJe 26/04/2016, e AgRg no AREsp 811.706/PR, rel. Ministra DIVA MALERBI (desembargadora convocada do TRF da 3a Região), Segunda Turma, julgado em 07/04/2016, DJe 15/04/2016).
+Quanto ao mais, a Corte a quo destacou, quanto àausênciade demonstração do direito líquido e certo no processorescindendo,o seguinte (e-STJ fls. 341/342):
+No caso dos autos, a Autora exerce o cargo de Psicóloga na Prefeitura de Maricá, conforme fl. 48, e aposentou-se do cargo Técnico de Nível Superior, conforme fl. 85.
+A Constituição Federal é clara ao dispor que é cabível a acumulação de dois cargos ou empregos privativos de profissionais de saúde.
+Desta sorte, embora a Demandante alegue que assistente social é considerado como sendo de profissional de saúde, não se trata do cargo exercido, mas tão somente dafunção exercida.
+Ademais, o documento de fl. 55 comprova que a parte autora exerceu a função de assistente social entre o período de 17/01/77 a 14/12/95, sendo que sua aposentadoria deu-se em 07/06/96, fl. 85.
+Ou seja, não restou demonstrado que exerceu a função de assistente social até o momento de sua aposentadora.
+Assim, verifica-se, no acórdão recorrido, que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
