@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por GENILDO LINS DE ALBUQUERQUE NETO, contra decisão de minha lavra, publicada em 19/04/2021, que conheceu do Conflitoparadeclarar competente o JUÍZO FEDERAL DA 17ª VARA DO RIO DE JANEIRO - SJ/RJ, suscitado.
+Inconformada, sustenta a parte embargante que:
+"Denota-se, data máxima vênia, omissão no que tange teor do art. 957 do Código de Processo Civil:
+Art. 957. Ao decidir o conflito, o tribunal declarará qual o juízo competente, pronunciando-se também sobre a validade dos atos do juízo incompetente.
+Diante do exposto, requer o acolhimento dos presentes embargos de declaração, para que sejam supridas as omissões apontadas, no que tange ao pronunciamento acerca da validade dos atos proferidos pelo juiz incompetente" (fl. 52e).
+Por fim, requer o acolhimento dos Embargos Declaratórios.
+Intimada (fl. 55e), a parte embargada deixou transcorrer in albis o prazo para manifestação (fl. 60e).
+A irresignaçãomerece acolhida, sem efeitos modificativos.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+De fato, resta evidenciada a omissão da decisão embargada quanto aopronunciamento sobre a validade dos atos do juízo incompetente, de acordo com o art. 957 do CPC/2015.
+Observa-se que, assim dispõe o art. 957 do CPC/2015:
+Art. 957. Ao decidir o conflito, o tribunal declarará qual o juízo competente, pronunciando-se também sobre a validade dos atos do juízo incompetente.
+Nesse ponto, cumpre destacar que, a Primeira Seção, no julgamento do AgRg no CC 144.175/MG, consolidou o entendimento de que "não se pode extrair, dessa última regra, esteja o tribunal, no caso este STJ, autorizado a imiscuir-se no mérito da demanda para examinar fatos e provas, antecipando indevido juízo de valor quanto ao próprio objeto da ação originadora do conflito de competência".
+Eis a ementa do julgado:
+"AGRAVO REGIMENTAL EM CONFLITO DE COMPETÊNCIA MANEJADO PELO MUNICÍPIO INTERESSADO. ALEGAÇÃO DE INCONSTITUCIONALIDADE DA LEI LOCAL QUE INSTITUIU REGIME CELETISTA. IMPERTINÊNCIA. IMERSÃO NO MÉRITO DA CAUSA. IMPOSSIBILIDADE NO INCIDENTE DO CONFLITO DE COMPETÊNCIA.
+CONFLITO EM RAZÃO DA MATÉRIA. SOLUÇÃO A PARTIR DA ANÁLISE DO PEDIDO E DA CAUSA DE PEDIR VEICULADOS NA INICIAL.
+1. O incidente processual do conflito de competência, consoante se depreende da redação do art. 66 do CPC, surge da divergência entre dois ou mais juízes no tocante à legitimidade para o exercício do poder jurisdicional, com o escopo de se assegurar a observância do princípio do juiz natural no caso concreto.
+2. Para solver tal controvérsia, prevê o vigente diploma processual procedimento adequado, no qual incumbe ao tribunal tão somente declarar qual é o juízo competente, pronunciando-se, ainda e se necessário, quanto à validade dos atos praticados pelo juízo reconhecidamente incompetente. Inteligência do art. 957 do CPC.
+3. Todavia, não se pode extrair, dessa última regra, esteja o tribunal, no caso este STJ, autorizado a imiscuir-se no mérito da demanda para examinar fatos e provas, antecipando indevido juízo de valor quanto ao próprio objeto da ação originadora do conflito de competência.
+4. Essa é a razão pela qual os argumentos apresentados nas razões do presente agravo regimental - tendentes a aferir a modulação de efeitos da alegada declaração de inconstitucionalidade de lei local - não devem sequer ser conhecidos, haja vista que, ao imergir em profundidade na discussão do conteúdo da lide, tenta o Município agravante induzir a Corte a se pronunciar quanto ao direito disputado pelas partes, cujo propósito, à toda vista, desborda da estrita vocação do conflito de competência.
+5. Para a solução do presente conflito, basta a este STJ, na esteira de precedentes das três Seções que o integram, reafirmar o entendimento de que, tratando-se de conflito de competência em razão da matéria, a fixação do juízo competente deve considerar o pedido e a causa de pedir delineados na exordial.
+6. Agravo Regimental a que se nega provimento para manter a decisão agravada, na qual se declarou a competência da Vara do Trabalho de Santa Rita do Sapucaí/MG, o juízo suscitante" (STJ, AgRg no CC 144.175/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, Dje de 08/11/2016).
+Ademais, esta Corte já se manifestou no sentido de que "o âmbito cognitivo do conflito de competência permite apenas a declaração do juízo competente para decidir determinada questão, sendo inadequado seu uso como sucedâneo recursal, a fim de se aferir a correção de decisões proferidas nas demandas que originaram o incidente" (STJ,AgInt no REsp 1.398.114/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 26/06/2020).
+Desse modo, tendo sido reconhecida a competência do Juízo Federal da 17ª Vara do Rio de Janeiro, incumbe a ele dispor sobre as decisões proferidas pelo Juízo Federal da 22ª Vara de Brasília, nos termos do art. 64, § 4º, do CPC/2015.
+Ante o exposto, acolho os Embargos Declaratórios, sem efeitos infringentes, tão somente para esclarecer que incumbe ao juízo indicado como competente na decisão embargada, qual seja, oJuízo Federal da 17ª Vara do Rio de Janeiro, dispor, como entender de direito, acerca da validade e eficácia dos atos praticados peloJuízo Federal da 22ª Vara de Brasília.
+I.
