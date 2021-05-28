@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de LEANDRO PEREIRA LEITE contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, proferido no julgamento da Apelação n. 0144645-52.2019.8.19.0001.
+Consta dos autos que o paciente foi condenado à pena de 7 anos de reclusão, em regime semiaberto, pela prática do delito descrito no art. 33 da Lei n. 11.343/06 (tráfico ilícito de drogas), portrazerconsigo e transportar 8 pinosde cocaína (4,5g) e 1 embalagem de maconha (1,0g), sem autorização e em desacordo com determinação legal e regulamentar.
+Inconformadas, as partesinterpuseram apelações perante o Tribunalde origem, que deu provimento ao recurso ministerial e parcial provimento ao defensivo, com o seguinte resultado:
+"Acordam os Desembargadores que integram a Oitava Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro, por unanimidade de votos, em CONHECER DOS RECURSOS, PROVENDO O RECURSO MINISTERIAL E DANDO PARCIAL PROVIMENTO AO DEFENSIVO, afim de condenar LEANDRO PEREIRA LEITE também pelo delito do art. 35 da Lei nº 11.343/2006, redimensionando as penas para 09 anos e 04 meses de reclusão, em regime fechado, e 1399 dias multa, com o valor de DM no mínimo legal, nos termos do voto do Desembargador Relator." (fl. 60)
+No presente writ, a defesa procura absolver o paciente do delito de associação para o tráfico (art. 35 da Lei n. 11.343/06), pois argumentaque o acórdão impugnado embasou sua decisão sem demonstrar a presença dos requisitos de estabilidade e permanência, bem como alega, ainda, aausência de pluralidade de agentes para caracterizar o referido delito.
+Deste modo, requer, a absolvição do paciente.
+O Ministério Público Federal opinoupelo não conhecimento do write, no mérito, se conhecido, pela denegação da ordem, em parecer que restou assim sumariado:
+"HABEAS CORPUS SUBSTITUTIVO. DESCABIMENTO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO DO ACERVO PROBATÓRIO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL: PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS, SE CONHECIDO, PELA DENEGAÇÃO DA ORDEM." (fl. 81)
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, tenho por prudente determinar o processamento do feito somente para verificação da existência de eventual constrangimento ilegal que autorize a concessão da ordem de ofício.
+Em relação ao crime de associação para o tráfico, o acórdão assentou:
+"Assiste razão ao órgão ministerial ao requerer a condenação também pelo delito do art. 35 da Lei nº 11.343/2006.
+O acervo dos autos comprova de maneira indubitável a existência de uma associação para tráfico de drogas, integrada por Leandro e outros traficantes ligados à facção criminosa Comando Vermelho.
+Estão presentes elementos empíricos que, conjugados com aqueles colhidos no curso da instrução probatória, demonstram a indisfarçável prática do delito do art. 35 da Lei nº 11.343/06:
+1) é fato notório, que independe de prova, a existência de facções criminosas dedicadas ao narcotráfico instaladas em diversas comunidades do Estado do Rio de Janeiro;
+2) a facção criminosa que atua na localidade é a auto denominada Comando Vermelho;
+3) o recorrente foi flagrado entregando material entorpecente, com inscrições alusivas à facção criminosa atuante na área, para uma pessoa que estava num veículo, não se mostrando crível que estivesse comercializando drogas no local sem que tivesse ligação com o grupo criminoso;
+4) indagado, o apelante admitiu trabalhar para um indivíduo vulgo "Maicão", já conhecido por seu envolvimento com o tráfico local;
+5) a partir desses fatos e circunstâncias, é possível concluir seguramente que o recorrente tinha ligação perene com os demais integrantes da societas sceleris;
+6) tais elementos também deixam patente a estabilidade própria da associação para a prática do crime de tráfico;
+7) tal condição de estabilidade não foi afastada por nenhum elemento de prova existente nos autos.
+Observa-se, portanto, que os fatos conhecidos e provados, examinados sob a ótica do que preconiza o art. 239 do Código de Processo Penal, bem como pelas regras de experiência comum, subministrada pelo que comumente ocorre, nos termos do disposto no artigo 375 do Código de Processo Civil, levam à certeza de que Leandro estava associado a outros traficantes da localidade, com patente animus associativo para a prática do tráfico de drogas.
+Desse modo, impõe-se a condenação pelos crimes dos artigos 33 e 35 da Lei nº 11.343/2006 em concurso material." (fls. 66/67)
+Conforme extrai-se da transcrição, restou comprovado o elemento associativo a caracterizar o tipo de associação para o tráfico, além de que aabsolvição do paciente demandaria o exame aprofundado de provas, procedimento este vedado na via estreita de habeas corpus.
+Nesse mesmo sentido, vejam-se os seguintes precedentes:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. VÍNCULO ESTÁVEL E PERMANENTE CONSTATADO. ABSOLVIÇÃO. IMPOSSIBILIDADE. PENA-BASE. QUANTIDADE, VARIEDADE E NATUREZA DOS ENTORPECENTES. FUNDAMENTOS VÁLIDOS.RECONHECIMENTO DA ATENUANTE DE CONFISSÃO ESPONTÂNEA. TEMA NÃO DEBATIDO NA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. AGRAVO NÃO PROVIDO.
+1. A pretensão de absolvição pelo delito de associação para o tráfico, sob a alegação de que o paciente não estava associado de forma estável e permanente com o corréu para prática reiterada do comércio ilícito de entorpecentes, demanda, in casu, necessariamente, o revolvimento do conteúdo fático probatório dos autos, providência inviável em sede de habeas corpus. Precedentes.
+2. Nos termos do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado.
+3. Hipótese em que a pena-base foi exasperada em 1 ano e 8 meses de reclusão com fundamento na quantidade, na diversidade e na natureza dos entorpecentes apreendidos - 3 invólucros de maconha (3.273, 850g), 387 porções da mesma substância (769,750g), 4 invólucros de cocaína (1.004,560g) -, o que não se mostra desproporcional, haja vista as penas mínima e máxima do delito de tráfico de drogas (5 a 15 anos).
+4. O tema relativo ao reconhecimento da atenuante de confissão espontânea e consequente compensação com a agravante de reincidência não foi debatido na Corte de origem, o impede a análise da questão diretamente nesta Corte Superior, sob pena de indevida supressão de instância. Precedente.
+5. Agravo regimental não provido.
+(AgRg no HC 651.929/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 16/04/2021).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSO PENAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PEDIDO DE ABSOLVIÇÃO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INADEQUAÇÃO DA VIA ELEITA. NULIDADE DAS INTERCEPTAÇÕES TELEFÔNICAS E BIS IN IDEM NO CÁLCULO DA PENA.QUESTÕES NÃO DEBATIDAS NA ORIGEM. IMPOSSIBILIDADE DE APRECIAÇÃO NESTA CORTE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inexiste maltrato ao princípio da colegialidade, pois, consoante disposições do Regimento Interno desta Corte, o relator deve fazer um estudo prévio da viabilidade do habeas corpus, podendo, inclusive, decidi-lo monocraticamente (art. 34, XX, do RISTJ). Por outro lado, a parte possui mecanismos processuais de submeter a controvérsia ao órgão colegiado por meio do competente agravo regimental, o que supera eventual mácula da decisão singular do Relator.
+2. O habeas corpus não é a via adequada para apreciar pedidos de absolvição, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do remédio constitucional, caracterizado pelo rito célere e por não admitir dilação probatória.
+3. As alegações de nulidade das interceptações telefônicas em razão de sua suposta instalação prévia à autorização judicial e o apontado bis in idem decorrente da negativação dos antecedentes criminais da paciente não foram objeto de debate no Tribunal local, motivo pelo qual o exame por esta Corte fica inviabilizado, sob pena de supressão de instância.
+4. Agravo regimental não provido.
+(AgRg no HC 618.790/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 13/04/2021).
+Ante o exposto. não conheço do presentehabeas corpus.
+Publique-se.
+Intimem-se.
