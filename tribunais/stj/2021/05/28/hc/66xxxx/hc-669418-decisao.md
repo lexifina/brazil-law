@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 23):
+HABEAS CORPUS - HOMICÍDIO TRIPLAMENTE QUALIFICADO - PRISÃO PREVENTIVA DECRETADA PARA GARANTIA DA ORDEM PÚBLICA (PERICULOSIDADE DOS AGENTES EVIDENCIADA PELO NA PRÁTICA DO DELITO IMPUTADO) E MODUS OPERANDI CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL (TEMOR DAS TESTEMUNHAS) - FUNDAMENTAÇÃO IDÔNEA - CONSTRANGIMENTO ILEGAL INEXISTENTE - WRIT DENEGADO.
+Consta dos autos que os pacientes foram presos preventivamente pela prática do crimehomicídio qualificado.
+Sustenta o impetrante, em síntese, que não estão presentes os requisitos autorizadores da prisão cautelar e que o decreto preventivo carece de fundamentação idônea.
+Requer, liminarmente e no mérito, a concessão da ordem para revogar a prisão preventiva.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art.34, XVIII e XX, do RISTJ.
+Como cediço, a prisão preventiva (ou o não cabimento da substituição por outra medida cautelar), admitida excepcionalmente antes do trânsito em julgado de eventual sentença penal condenatória, deverá ser justificada em concreto e de forma individualizada, nos termos do art. 312 do Código de Processo Penal.
+Conforme destaca o acórdão, odecreto de prisão foi assim fundamentado (fls. 24-25):
+2 Foi a segregação cautelar dos Pacientes assim decretada, no que aqui importa referir:
+Destaca-se que há prova da materialidade do crime de homicídio qualificado, conforme laudo de exame de vínculo genético (mov. 1.22), vídeos e fotos (movs.1.23/1.27) e depoimentos colhidos.
+Há também indícios de autoria, conforme os depoimentos constantes dos autos.
+Presente o requisito previsto no artigo 313, inciso I, do Código de Processo Penal, já que a pena máxima cominada aos crimes imputados aos representados ultrapassa 4 (quatro) anos de reclusão.
+No que tange ao periculum in mora, há a necessidade de garantia da ordem pública, vez que as condutas supostamente praticadas pelos representados indicam periculosidade concreta dos agentes.
+Nesse ponto, destaca-se que além do concurso de agentes, há notícia de que a Vítima foi brutalmente agredida com uma barra de ferro, incinerada ainda viva, enquanto os Réus assistiam o fogo se espalhando no interior do veículo eriam dasituação.
+Colhe-se dos autos que a prática criminosa teve relação com a negativa da Vítima em entregar dinheiro para custear o churrasco de que participava e ocorreu demodo excepcionalmente cruel, impondo à Vítima extremo sofrimento em razão dos meios eleitos para execução criminosa.
+Logo, o modus operandi docomportamento imputado aos Representados demonstra evidente desajuste para convivência em sociedade e necessidade de intervenção do Poder Judiciário.
+Ademais, em diligências pela região, o investigador de polícia Luis Felipe Pinto Jogaib relatou que "o clima na localidade é de medo e pavor pela barbaridade cometida" contra a Vítima.
+Não há dúvida, portanto, de que o crime causou especial inquietação na comunidade, havendo grave abalo na ordem pública, razão pela qual é necessária a medida requerida.
+Outrossim, nota-se que parte do crime foi executado em via pública, aos olhos dacomunidade, sendo de conhecimento dos moradores da região que a Vítima esteve junto dos réus antes do fato e tendo eles sido vistos no local, acompanhando o incêndio se espalhar pelo veículo. Inarredável concluir, portanto, que os representados confiam na impunidade.
+Além disso, consta que foram realizados disparos de arma de fogo a esmo depois da prática criminosa, como medida para coibir delações a respeito do crime, o que demonstra a extrema ousadia e franca indisposição a se submeter à lei penal.
+Referido comportamento indica a necessidade de constrição cautelar também para garantir futura instrução criminal, vez que a intimidação coletiva exercida logo depois do fato é elemento que aponta que em liberdade osRéus seguirão dificultando acoleta de elementos indiciários e provas, inclusive atemorizando testemunhas.
+Por fim, salienta-se que as medidas cautelares previstas no artigo 319 do Código de Processo Penal não se mostram suficientes para garantir a ordem pública e a aplicação da lei penal e assegurar a instrução processual.
+Dos excertos, observa-se que a prisão preventiva dos pacientes foi decretada para preservar a ordem pública e a aplicação da lei penal, tendo em vista a periculosidade concreta dos acusados, evidenciada no modus operandi empregado- "além doconcurso de agentes, há notícia de que a Vítima foi brutalmente agredida com uma barra de ferro, incinerada ainda viva, enquanto os Réus assistiam o fogo se espalhando no interior do veículo e riam da situação", sendo o crime "executado em via pública, aos olhos da comunidade"-, bem como o fato de os acusados terem efetuado "disparos de arma de fogo a esmo depois da prática criminosa, como medida para coibir delações a respeito do crime".
+É firme o entendimento jurisprudencial de que "a segregação cautelar para a garantia da ordem pública se mostra fundamentada no caso em que o modus operandi empregado revela especial desvalor da conduta", (AgRg no HC 582.326/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 04/08/2020, DJe 13/08/2020), a evidenciar a periculosidade real, propensão à prática delitiva e conduta violenta, como no caso.
+Outrossim, apossibilidade concreta de coação à testemunha tambémconstitui motivaçãoidônea para o decreto da custódia cautelar. Nesse sentido: AgRg no HC561.705/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em28/04/2020, DJe 04/05/2020;HC 513.478/SP, Rel. Ministro REYNALDO SOARESDA FONSECA, QUINTA TURMA, julgado em 13/08/2019, DJe 30/08/2019;RHC92.520/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em01/03/2018, DJe 12/03/2018.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
