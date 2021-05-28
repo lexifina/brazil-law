@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 8ª Vara do Juizado Especial Cível de Manaus - SJ/AM, suscitante, e o Juízo de Direitoda 14ª VaraCível e de Acidentes de Trabalho de Manaus- AM, suscitado, em ação ajuizada por LAZARO ALVES THOMAZ, com o objetivo de concessãode auxílio-doença ou aposentadoria por invalidez.
+O Juízo Estadual declinou da competência e determinou a remessa dos autos ao Juízo Federal, ao fundamento de que "da leitura da petição inicial, depreende-se que o autor não faz menção à ocorrência de acidente do trabalho, indica apenas que carece das condições físicas necessária para a sua execução"(fl. 100).
+O Juízo Federal da 8ª Vara do Juizado Especial Cível de Manaus - SJ/AM,por seu turno, suscitou conflito de competência, consignando que, "Segundo consta do laudo pericial, a lesão decorre de acidente de trabalho, conforme Comunicação de Acidente de Trabalho (CAT) aberta pelo empregador. Informa que, em 03.02.2007, ao limpar a caixa d"água no segundo andar da loja, sofreu queda de altura, foi encaminhado para PS 28 de Agosto, onde foi diagnosticada fratura nos "pés""(fl. 117).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Inicialmente, mister ressaltar o entendimento desta Corte de Justiça no sentido de que a competência para julgar as demandas em que se pleiteia a concessão de benefício previdenciário deve ser determinada em razão do pedido e da causa de pedir.
+No presente caso, a ação foi ajuizada com o objetivo de restabelecimento de auxílio-doença, sendo que na petição inicial não há qualquer menção a acidente de trabalho(fls. 6/12).
+Para melhor elucidar a questão, traz-se à colação o art. 109, I, da Constituição Federal, que assim dispõe, inverbis:
+Aos juízes federais compete processar e julgar:
+I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho;
+Assim, a pretensão não se amolda à exceção firmada pelo preceito constitucional em tela, mas à regra que estabelece a competência da Justiça Federal para o processamento e o julgamento das ações em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes.
+ANTE O EXPOSTO, conheço do conflito para declarar competente para o processamento do feito o Juízo Federal da 8ª Vara do Juizado Especial Cível de Manaus - SJ/AM, o suscitante.
+Publique-se e comunique-se, dando-se ciência aos Juízos envolvidos e ao Ministério Público Federal.
