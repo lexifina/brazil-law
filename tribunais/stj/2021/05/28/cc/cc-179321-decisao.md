@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo da 12ª Vara do Trabalho de São Paulo/SP, suscitante, e o Juízo de Direito da 1ª Vara Cível de Penha de França/SP, suscitado.
+Ação: ação de reparação de dano moral em razão deofensas em ambiente de trabalho proposta por Elcio Rodrigues de Oliveira em face de Sérgio Motta Marques.
+Decisão do juízo suscitado: tendo a ação sido originariamente proposta no juízo comum, este declinou de sua competência por entender que se tratava de caso da competência material da Justiça do Trabalho.
+Decisão do juízo suscitante: suscitou o presente conflito negativo de competência, por considerar que "os fatos narrados na inicial não decorrem da relação de trabalho, mas de ato comum praticado pelo réu, um ex-sócio da empresa na qual trabalhava o autor, o qual não era seu superior hierárquico e, tampouco ocorreu no âmbito da relação de trabalho existente. Tanto é verdade que o autor não processou a empresa ou o sócio que gerenciava a relação empregatícia, mas apenas a pessoa física de um sócio, por ato inerente a vida cotidiana do indivíduo. Assim, entendo que a relação jurídica discutida nos autos não é competência deste órgão jurisdicional, sendo certo que tal situação não se enquadra em qualquer das hipóteses do artigo 114, da Constituição Federal."
+Parecer do MPF: o Ministério Público Federal opinou pelo conhecimento do conflito para declarar competente o Juízo da 12ª Vara do Trabalho de São Paulo/SP, o suscitante.
+É O RELATÓRIO. DECIDO.
+Conheço do incidente por se tratarde conflito instaurado entre juízos vinculados a Tribunais distintos a teor do art. 105, inciso I, alínea "d", da Constituição Federal.
+Cinge-se a controvérsia em definir o juízo competente para apreciar pedido de indenização por danos morais em razão de supostas ofensas realizadas no ambiente de trabalho pelo ex-empregador (ex-sócio) a ex-trabalhador.
+Em tais casos, ajurisprudência desta Casa é pacífica ao proclamar que a competência para o julgamento da demanda é fixada em razão da natureza da causa, definida pelo pedido e pela causa de pedir deduzidos na petição inicial.
+Nessa linha, colhe-se da exordial as seguintes afirmações (e-STJ, fl. 13):
+No caso em tela, o Requerido propagou diversos dizeres desonrosos em face do Requerente em seu âmbito laboral, vinculando um "segredo" que apenas ambos tinham conhecimento, espalhando, portanto as informações de saúde de seu funcionário aos demais, causando-lhe repulsa por todos durante seu vínculo laboral, até sua demissão sem justa causa em 20/SET/2.019.
+Ora, verifica-se que o pleito guarda correlação direta com o contrato de trabalho mantido entre as partes. Com efeito, da leitura da inicial depreende-se ser inequívoco que a causa de pedir remonta à relação de trabalho estabelecida entre as partes, uma vez que os envolvidos na presente lide são ex-empregador e ex-empregado, os quais, à época dos fatos possuíam vínculo empregatício.
+Nesse sentido, em casos análogos, esta Corte Superior vem decidindo que compete à Justiça do Trabalho processar e julgar ação de indenização por danos morais promovida pelo ex-empregado, por suposto ato ilícito perpetrado pelo ex-empregador, sobretudo, no curso da relação de trabalho.
+A propósito:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO E COMUM. INDENIZAÇÃO. DANO MORAL SOFRIDO NO ÂMBITO DA RELAÇÃO DE TRABALHO. DIFAMAÇÃO. AÇÃO PROPOSTA CONTRA COLEGA, SUPERIOR HIERÁRQUICO E EX-EMPREGADOR.
+- Conforme a jurisprudência firmada pelo STJ, o pedido de reparação dos danos morais sofrido pela autora, em razão de ato ilícito por ex-empregadora e seus prepostos deve ser apreciado pela justiça especializada, mesmo que seja o fato anterior à EC nº 45/04, pois a hipótese é inerente à relação de emprego havida entre as partes.
+- Por outro lado, antes da EC nº 45/04, a jurisprudência também vinha afirmando que a ação de indenização proposta contra colega de trabalho em decorrência de dano sofrido no ambiente de trabalho deve ser apreciada na Justiça Comum Estadual.
+- É imprópria a cumulação de pedidos contra o colega de profissão, o superior hierárquico e o ex-empregador, porque cada um deles envolve fundamentos diversos e competências distintas.
+- Diante da cumulação imprópria de pedidos, a apelação interposta deve ser analisada apenas nos limites da competência do Tribunal Julgador, facultando à parte autora o ajuizamento de nova ação, com o pedido remanescente, no juízo próprio.
+- Em face da incompetência absoluta da Justiça Comum para decidir sobre parte do litígio, é imperativo seja anulada a parte da sentença que julgou o pedido cuja competência pertence à Justiça do Trabalho, qual seja, o de condenação da empregadora e seus prepostos, o feito improcedente.
+- O art. 122 do CPC autoriza que o STJ, no julgamento de um Conflito de Competência, pronuncie-se acerca da "validade dos atos praticados pelo juízo incompetente". Assim, haverá ganho substancial de tempo e valorização da efetividade do processo. Conflito de competência conhecido para declarar competente o Tribunal de Justiça do Rio Grande do Sul, nos limites expostos.
+(CC 63.569/RS, SEGUNDA SEÇÃO, DJ 11/10/2007, p. 283)
+Nesse mesmo sentido: CC 130.122/SC, SEGUNDA SEÇÃO, DJe 01/10/2014; CC 127.909/BA, SEGUNDA SEÇÃO, DJe 05/06/2014 e outros.
+Portanto, considerando que a causa de pedir e o pedido delineados na petição inicial da demanda ostentam pretensão nitidamente de natureza laboral, cabe à Justiça Especializada processar e julgar o feito.
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do o Juízo da 12ª Vara do Trabalho de São Paulo/SP.
+Publique-se. Intimem-se. Comunique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA COMUM ESTADUAL. AÇÃO DE INDENIZAÇÃO PROPOSTA POR TRABALHADOR CONTRA EX-EMPREGADOR. DANOS MORAIS. OFENSAS IRROGADAS NO ÂMBITO DA RELAÇÃO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA LABORAL (CF, ART. 114, VI E IX).
+1. Na hipótese, o trabalhador ajuizou ação de indenização por danos morais contra ex-empregador em virtude de alegadas ofensas perpetradas no transcurso da relação de emprego.
+2. A Segunda Seção desta Corte adotou o entendimento de que compete à Justiça do Trabalho processar e julgar ação de indenização por danos morais cuja causa de pedir refira-se a atos praticados no âmbito das relações trabalhista e processual trabalhista.
+3. Conflito conhecido. Estabelecida a competência do Juízo da 12ª Vara do Trabalho de São Paulo/SP.
