@@ -1,0 +1,54 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. REGIME INICIAL FECHADO. RÉU REINCIDENTE. CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Agravante reincidente, condenado pelo crime de tráfico de drogas à pena de 5 (cinco) anos e 10 (meses) de reclusão.
+2. Não há ilegalidade na estipulação do regime inicial fechado, ainda que a pena-base tenha sido fixada no mínimo legal e a reprimenda final não exceda a 8 (oito) anos de reclusão, em virtude da reincidência do Réu, conforme a jurisprudência deste Superior Tribunal de Justiça e a interpretação conjunta dos arts. 59 e 33, §§ 2.º e 3.º, do Código Penal. Precedentes.
+3. Agravo desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por MARCOS ANDRE RODRIGUES PALHANO contra decisão que concedeu parcialmente a ordem de habeas corpus, nos termos da seguinte ementa (fl. 309):
+"HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. DESPROPORCIONALIDADE. NATUREZA DA DROGA. QUANTIDADE NÃO EXPRESSIVA. REGIME INICIAL FECHADO. RÉU REINCIDENTE. CABIMENTO. ORDEM DE HABEAS CORPUS PARCIALMENTE CONCEDIDA."
+Consta dos autos que o Paciente foi denunciado como incurso nos crimes de tráfico de drogas e falsa identidade, após ser preso em flagrante, no dia 26/01/2019, na posse de "42 porções de crack, acondicionadas individualmente em embalagem de plástico, apresentando a massa bruta de 10,6g," (fl. 46) para fins de comercialização. Narra a exordial que a ele, ainda, "atribui-se falsa identidade para obter vantagem em proveito próprio, consistente em omitir das autoridades que era foragido do sistema prisional" (fl. 46).
+Em primeiro grau, o Réu foi condenado à pena de 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão, por infração ao art. 33, caput, da Lei n. 11.343/2006, c.c. o art. 61, inciso I, do Código Penal, a ser cumprida em regime inicial fechado, e pagamento de 583 (quinhentos e oitenta e três) dias-multa, no valor unitário de 1/30 (um trigésimo) do salário mínimo vigente à época do fato, e à pena de 3 (três) meses de detenção, por infração ao art. 307 do Código Penal, c.c. o art. 61, inciso I, e art. 65, inciso III, "d", ambos, também, do Código Penal, a ser cumprida em regime inicialmente semiaberto.
+Foi-lhe negado o apelo em liberdade, "diante do regime imposto para o cumprimento da pena, da reincidência em crime doloso, bem como porque ainda estão presentes os requisitos da prisão preventiva descritos no art. 312 do CPP" (fl. 153).
+A Corte a quo negou provimento ao apelo defensivo, em acórdão assim ementado (fls. 253-254):
+"APELAÇÃO CRIMINAL. CRIME CONTRA A SAÚDE PÚBLICA. TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/06). CRIME CONTRA A FÉ PÚBLICA. FALSA IDENTIDADE (ART. 307 DO CÓDIGO PENAL). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. MÉRITO. PLEITO ABSOLUTÓRIO REFERENTE AO DELITO DE TRÁFICO DE DROGAS. INVIABILIDADE.
+AUTORIA E MATERIALIDADE DO DELITO CARACTERIZADAS.
+APELANTE PRESO EM FLAGRANTE POR TRAZER CONSIGO DROGAS ILÍCITAS. APREENSÃO DE 42 PORÇÕES DE CRACK PRONTAS PARA COMERCIALIZAÇÃO. RECORRENTE ABORDADO EM PONTO NOTORIAMENTE CONHECIDO PELO TRÁFICO DE DROGAS. INFORMAÇÃO DE QUE UM HOMEM COM CARACTERÍSTICAS COMPATÍVEIS COM AS DO RECORRENTE ESTAVA REALIZANDO A MERCANCIA ESPÚRIA NO LOCAL.
+DEPOIMENTOS FIRMES E COERENTES DOS AGENTES ESTATAIS ENVOLVIDOS NA OCORRÊNCIA. DESCLASSIFICAÇÃO PARA O DELITO DE PORTE DE DROGAS PARA USO PESSOAL (ART. 28 DA LEI N. 11.343/06). IMPROCEDÊNCIA. CONDIÇÃO DE USUÁRIO QUE NÃO OBSTA A RESPONSABILIZAÇÃO PENAL PELA NARCOTRAFICÂNCIA. ATIVIDADE CRIMINOSA QUE, COMUMENTE, VISA À MANUTENÇÃO DO PRÓPRIO VÍCIO. CONDENAÇÃO MANTIDA.
+DOSIMETRIA. CRIME DE TRÁFICO DE DROGAS.
+PRIMEIRA FASE. REDUÇÃO DA PENA-BASE. PEDIDO QUE NÃO MERECE ACOLHIMENTO. NATUREZA DA DROGA APREENDIDA. PSICOTRÓPICOS DE ELEVADO POTENCIAL VICIANTE E LESIVO (CRACK).
+FUNDAMENTO IDÔNEO PARA A VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS DO CRIME. RECRUDESCIMENTO AMPARADO NAS DISPOSIÇÕES DO ART. 59 DO CÓDIGO PENAL C/C ART. 42 DA LEI N. 11.343/06.
+ALTERAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DE PENA DO FECHADO PARA O SEMIABERTO.
+INVIABILIDADE. REGIME FECHADO QUE SE MOSTRA ADEQUADO AO AGENTE QUE É REINCIDENTE E TEVE A PENA FIXADA SUPERIOR A 4 (QUATRO) ANOS DE RECLUSÃO. EXEGESE DO ART. 33, §2º, ALÍNEA A, E §3º, DO CÓDIGO PENAL. PEDIDO DE REDUÇÃO DA PENA DE MULTA.
+INACOLHIMENTO. REPRIMENDA QUE NÃO OFENDE A CONSTITUIÇÃO FEDERAL. DELIMITAÇÃO AFETA À POLÍTICA CRIMINAL. EVENTUAL IMPEDIMENTO PARA PAGAMENTO DO ENCARGO QUE DEVE SER SUSCITADO NO JUÍZO DA EXECUÇÃO PENAL.
+RECURSO CONHECIDO E DESPROVIDO."
+A presente impetração sustentou, em suma, que "deve ser afastada a valoração negativa das circunstâncias do delito de tráfico de drogas, em razão da pequena quantidade de droga apreendida" (fl. 7) readequando-se a dosimetria da pena e, por conseguinte, o regime de prisional.
+Concedi parcialmente a ordem de habeas corpus, liminarmente, para fixar a pena-base no mínimo legal, estabelecendo a sanção penal em 5 (cinco) anos e 10 (meses) de reclusão e pagamento de 500 (quinhentos) dias-multa, mantido o regime inicial fechado para o início do cumprimento da pena imposta, em virtude da reincidência do Réu.
+O presente agravo sustenta que (fl. 322):
+"considerando que em desfavor do Paciente recai apenas uma (reincidência) e que a pena foi fixada no mínimo legal para a espécie, por um crime sem violência ou grave ameaça a pessoa, tem-se que o regime semiaberto seria medida necessária/suficiente aos desideratos preventivos da reprimenda."
+Busca, assim, a reconsideração da decisão ou, subsidiariamente, a submissão do presente ao julgamento do colegiado, para estabelecer o regime semiaberto de cumprimento de pena.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. REGIME INICIAL FECHADO. RÉU REINCIDENTE. CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Agravante reincidente, condenado pelo crime de tráfico de drogas à pena de 5 (cinco) anos e 10 (meses) de reclusão.
+2. Não há ilegalidade na estipulação do regime inicial fechado, ainda que a pena-base tenha sido fixada no mínimo legal e a reprimenda final não exceda a 8 (oito) anos de reclusão, em virtude da reincidência do Réu, conforme a jurisprudência deste Superior Tribunal de Justiça e a interpretação conjunta dos arts. 59 e 33, §§ 2.º e 3.º, do Código Penal. Precedentes.
+3. Agravo desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+O recurso não comporta provimento.
+Ao conceder parcialmente a ordem de habeas corpus, entendi que o aumento da pena-base foi ilegal. Isso porque, a despeito da natureza da droga apreendida (crack), a quantidade, na hipótese, - 10,6g (dez gramas e seis decigramas) de crack - não pode ser considerada por demais relevante a ponto de fixar a pena-base acima do mínimo legal, pois não demonstra, por si só, maior reprovabilidade da conduta delituosa prevista no art. 33, caput, da Lei n. 11.343/2006.
+Assim, fixei a pena-base no mínimo legal e mantive o aumento de 1/6 (um sexto) pela reincidência, ficando a pena definitiva fixada em 5 (cinco) anos e 10 (meses) de reclusão, mantida a fixação de 500 (quinhentos) dias-multa, já que a sanção pecuniária não foi majorada na segunda fase pela sentença.
+Como dito na decisão agravada, não há ilegalidade na estipulação do regime inicial fechado, ainda que a pena-base tenha sido fixada no mínimo legal e a reprimenda final não exceda a 8 (oito) anos de reclusão, em virtude da reincidência do Paciente, conforme a interpretação conjunta dos arts. 59 e 33, §§ 2.º e 3.º, do Código Penal.
+No mesmo sentido, os seguintes precedentes:
+"PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. REGIME PRISIONAL. RÉU REINCIDENTE. INICIAL FECHADO. AUSÊNCIA DE MANIFESTA ILEGALIDADE. RECURSO NÃO PROVIDO.
+1. Aplicada a pena final em 6 anos, 9 meses e 20 dias e verificada a reincidência do paciente é, de fato, cabível o regime inicial fechado para o cumprimento da pena reclusiva, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal, como posto no acórdão impugnado.
+2. Agravo regimental não provido." (AgRg no HC 589.093/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/03/2021, DJe 15/03/2021.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PLEITO DE APLICAÇÃO DE MEDIDA COMPENSATÓRIA. MATÉRIA NÃO DEBATIDA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. REGIME INICIAL. PENA SUPERIOR A 4 (QUATRO) ANOS E INFERIOR A 8 (OITO) ANOS DE RECLUSÃO. RÉU REINCIDENTE. REGIME INICIAL FECHADO. POSSIBILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Nos termos do art. 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+2. Não há ilegalidade patente a ser sanada de ofício. In casu, a tese de que o Agravante faz jus à medida compensatória, em razão da demora injustificada para o julgamento da ação penal e da sua devida ressocialização, não foi debatida pelo Colegiado estadual, o que impede o conhecimento da matéria pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Ademais, quanto ao modo prisional imposto ao Agravante, diante da sua reincidência, não verifico ilegalidade na estipulação do regime inicial fechado, ainda que a pena-base tenha sido fixada no mínimo legal e a reprimenda final não exceda a 8 (oito) anos de reclusão, conforme a interpretação conjunta dos arts. 59 e 33, §§ 2.º e 3.º, do Código Penal.
+3. Agravo regimental desprovido." (AgRg no HC 524.600/PR, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 06/02/2020, DJe 21/02/2020.)
+Portanto, a decisão impugnada está em conformidade com a jurisprudência desta Corte, não havendo motivo para que seja reformada.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
