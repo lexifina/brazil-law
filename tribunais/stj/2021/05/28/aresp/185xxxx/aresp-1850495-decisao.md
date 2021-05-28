@@ -1,0 +1,28 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE DESACOLHIDA. NECESSIDADE DE DILAÇÃO PROBATÓRIA.ENTENDIMENTO CRISTALIZADO NA SÚMULA 393/STJ E NO RESP 1.104.900/ES, JULGADO SOB O RITO DOS REPETITIVOS.AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL DOS PARTICULARES.
+1. Agrava-se de decisão que inadmitiu o recurso especial interposto por WESLEY RODRIGUES DA SILVA e OUTRO, com fundamento no art. 105, inciso III, alíneaa, da CF/1988, no qual se insurge contra acórdão proferido pelo Tribunal de Justiça do Tocantins, assim ementado:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL.ILEGITIMIDADE PASSIVA. ALEGAÇÃO DE EXCLUSÃO DOS QUADROS SOCIETÁRIOS DA EMPRESA. INEXISTÊNCIA DE EFETIVA DEMONSTRAÇÃO DOS ARGUMENTOS. CONFIGURAÇÃO.AGRAVO DE INSTRUMENTO. LIMITES DA DECISÃO MONOCRÁTICA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PROVA PRÉ-CONSTITUÍDA. AUSÊNCIA. RECONHECIMENTO DA ILEGITIMIDADE PASSIVA. IMPOSSIBILIDADE. RECURSO DESPROVIDO. DECISÃO MANTIDA.
+- Em sede de agravo de instrumento não é cabível a análise do mérito da questão propriamente dita, mas, apenas, da necessidade e da pertinência da medida liminar ou de tutela antecipada, em respeito ao princípio do duplo grau de jurisdição.
+- Examinando-se os autos verifica-se que os recorrentes almejam discutir na exceção de pré-executividade matéria incabível de análise neste incidente, haja vista a inexistência de efetiva demonstração da exclusão de seus nomes dos quadros societários da empresa executada.
+- Diante destas constatações, conclui-se que no caso vertente, inexiste a prova cabal pré-constituída, para o acolhimento da exceção de pré-executividade, tendo em vista que não consta dos autos efetivamente a comprovação cabal da ilegitimidade passiva dos agravantes na ação de execução fiscal.
+- Trata-se, portanto, de matéria que não pode ser apreciada nesta fase processual, através do incidente de pré-executividade, especialmente porque não restou demonstrado de plano a alegação dos recorrentes.
+- Sem honorários advocatícios recursais, porquanto inexiste condenação de honorários em primeira instância a ser majorada conforme exigência legal (art. 85, § 11, CPC/2015).
+- Recurso ao qual se nega provimento, para manter incólume a decisão agravada.(fl. 155).
+2. Nasrazões do seurecurso especial (fls. 179/197), as partes agravantes sustentam violação dos arts. 36 e49 da Lei 5.764/71, e 134 e 135 do CTN, ao defender sua ilegitimidade passiva na execução fiscal, uma vez que não figuravam na condição de dirigentes da Cooperativa à época do fato gerador da dívida discutida.
+3. Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 206/217).
+4. Sobreveio o juízo de admissibilidade negativo(fls. 223/227),fundadona incidência da Súmula 211/STJ,razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+5. É o relatório.
+6. A irresignação não merece prosperar.
+7. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+8. Ajurisprudência desta Corte entende pelo cabimento da exceção de pré-executividade nas situações em que as questões podem ser conhecidas de ofício pelo Magistrado e que não demandem dilação probatória.
+9. A propósito, registre-se que o tema em questão já foi alvo de debate pela 1a. Seção desta Corte, em sede de recurso repetitivo. Veja-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL SUBMETIDO À SISTEMÁTICA PREVISTA NO ART. 543-C DO CPC. EXECUÇÃO FISCAL.INCLUSÃO DOS REPRESENTANTES DA PESSOA JURÍDICA, CUJOS NOMES CONSTAM DA CDA, NO PÓLO PASSIVO DA EXECUÇÃO FISCAL.POSSIBILIDADE. MATÉRIA DE DEFESA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INVIABILIDADE.RECURSO ESPECIAL DESPROVIDO.
+(..).
+2. Por outro lado, é certo que, malgrado serem os embargos à execução o meio de defesa próprio da execução fiscal, a orientação desta Corte firmou-se no sentido de admitir a exceção de pré-executividade nas situações em que não se faz necessária dilação probatória ou em que as questões possam ser conhecidas de ofício pelo magistrado, como as condições da ação, os pressupostos processuais, a decadência, a prescrição, entre outras.
+3. Contudo, no caso concreto, como bem observado pelas instâncias ordinárias, o exame da responsabilidade dos representantes da empresa executada requer dilação probatória, razão pela qual a matéria de defesa deve ser aduzida na via própria (embargos à execução), e não por meio do incidente em comento.
+4. Recurso especial desprovido. Acórdão sujeito à sistemática prevista no art. 543-C do CPC, c/c a Resolução 8/2008 - Presidência/STJ (REsp. 1.104.900/ES, Rel. Min. DENISE ARRUDA, DJe 1o.4.2009).
+10. Confira-se, também, o disposto na Súmula 393/STJ: aexceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória.
+11. Na espécie, o Tribunal de origem, após a análise da documentação acostada aos autos, manteve a rejeição da objeção de pré- executividade, concluindo que a questão arguida pelos recorrentes demandaria dilação probatória.
+12. Assim, em conformidade com a orientação desta Corte, a modificação de tal conclusão implicaria adentrar no contexto fático-probatório dos autos, providência esta vedada em Recurso Especial.
+13. Diante do exposto, conheço do agravo para negar provimento ao Recurso Especial dos Particulares.
+14. Publique-se. Intimações necessárias.
