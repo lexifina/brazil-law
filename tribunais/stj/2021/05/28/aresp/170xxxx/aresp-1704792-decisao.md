@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por VICTOR LUIS GARCETE VERA contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+TRIBUTÁRIO. AÇÃO ANULATÓRIA. APELAÇÃO. APREENSÃO DE VEÍCULO. REGIME ADUANEIRO DE ADMISSÃO TEMPORÁRIA. VEÍCULO ESTRANGEIRO EM CIRCULAÇÃO NO TERRITÓRIO NACIONAL. CONDUTOR RESIDENTE E DOMICILIADO NO BRASIL. AFASTADA A CONDIÇÃO DE TURISTA E DE DUPLO DOMICÍLIO. MANUTENÇÃO DA PENA DE PERDIMENTO.
+1. A legislação aduaneira admite a circulação de veículo estrangeiro no país, sob o regime de admissão temporária, desde que seja de uso particular exclusivo de turista, estrangeiro ou brasileiro residente em um dos outros Estados que integram o Mercosul, observado o prazo máximo estabelecido pela legislação migratória.
+2. Ausente quaisquer uma dessas hipóteses, não há qualquer ilegalidade no ato de apreensão do automóvel e aplicação da pena de perdimento.
+Os embargos de declaração opostos foram parcialmente providos sem efeitos modificativos e para acrescentar fundamentação.
+No presente recurso especial, o recorrente aponta violação dos arts. 7º, 8º, 355, I e 373, I, do CPC/2015, alegando, em síntese, o prejuízo causado ante o indeferimento da prova testemunhal a fim de complementar a prova documental apresentada, ocasionando, no seu entender, cerceamento de defesa e violação dos princípios da paridade processual, razoabilidade e proporcionalidade.
+Alega também, ofensa ao art. I do Tratado de Assunção, sustentando, em suma, a possibilidade de livre e temporária circulação de seu veículo estrangeiro em território brasileiro e a inadequada aplicação da pena de perdimento aplicada pela Receita Federal do Brasil.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Verifica-se que no acórdão combatido não foi analisado o conteúdo dos dispositivos legais apontados no presente recurso especial, pelo que carece o recurso do indispensável requisito do prequestionamento, indispensável para a interpretação normativa exigida.
+Incide na hipótese o óbice constante da súmula 282 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Ademais, cinge-se a controvérsia na existência ou não de um conjunto probatório que comprove o direito do agravante à regular circulação de seu veículo estrangeiro em território nacional, o que exigiria o reexame de elementos fático-probatórios do processo, providência esta que se encontra vedada no âmbito estreito do recurso especial nos termos da Súmula n. 7/STJ. (AgRg no REsp 1487769/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 02/06/2015, DJe 10/06/2015; AgRg no REsp 1545697/SC, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 10/03/2016, DJe 21/03/2016).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
