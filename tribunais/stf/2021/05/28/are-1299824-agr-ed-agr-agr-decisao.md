@@ -1,0 +1,18 @@
+DECISÃO
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. IMPOSSIBILIDADE DE CONVERSÃO DE AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO: ERRO GROSSEIRO. PEDIDO DE RECONSIDERAÇÃO INDEFERIDO.
+    1. Pedido de reconsideração, autuado como agravo regimental, contra acórdão da Segunda Turma deste Supremo Tribunal pelo qual, em sessão virtual de 7.5.2021 a 14.5.2021, não conhecido o agravo regimental nos embargos de declaração no agravo regimental no recurso extraordinário com agravo. O acórdão tem a seguinte ementa:
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. INCABÍVEL O AGRAVO REGIMENTAL INTERPOSTO CONTRA DECISÃO COLEGIADA. PRECEDENTES. AGRAVO REGIMENTAL NÃO CONHECIDO” (e-doc. 40).
+    2. Em 24.5.2021, o agravante protocolizou a Petição/STF n. 54.044/2021, alegando que, “por inobservância da melhor técnica, houve a interposição de um recurso em detrimento de outro” (fl. 1, e-doc. 44).
+    Argumenta que, “em homenagem ao princípio da instrumentalidade das formas, tendo em vista que as omissões expostas nos embargos de declaração subsistem, o recurso deveria ter sido recebido como embargos de declaração para que as omissões fossem sanadas” (fl. 1, e-doc. 44).
+    Requer “a reconsideração da decisão, que não conheceu do agravo regimental, recebendo-o como Embargos de Declaração para que as omissões expostas sejam sanadas” (fl. 1, e-doc. 44).
+    Examinada a matéria posta à apreciação, DECIDO.
+    3. Nos termos da jurisprudência deste Supremo Tribunal, a interposição de agravo regimental contra acórdão das Turmas ou do Plenário constitui erro grosseiro, sendo impossível a aplicação do princípio da fungibilidade recursal. Neste sentido:
+    “JULGAMENTO COLEGIADO PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL – INTERPOSIÇÃO, CONTRA O ACÓRDÃO, DE ‘AGRAVO REGIMENTAL’ – INADMISSIBILIDADE – ERRO GROSSEIRO – CONSEQUENTE INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL – RECURSO DE AGRAVO NÃO CONHECIDO. – Não se revela admissível ‘agravo regimental’ contra acórdão emanado de órgão colegiado (Turma ou Plenário) do Supremo Tribunal Federal. Precedentes. – Inaplicabilidade, ao caso, por tratar-se de erro grosseiro, do postulado da fungibilidade recursal. Precedentes. Doutrina” (ARE n. 926.113-AgR-EDv-AgR-AgR, Relator o Ministro Celso de Mello, Plenário, DJe 10.11.2016).
+    “Agravo regimental no recurso extraordinário. Agravo regimental contra acórdão do Plenário. Não cabimento. Erro grosseiro. Precedentes. 1. Segundo o pacífico entendimento do Supremo Tribunal Federal, não cabe agravo regimental contra julgado prolatado por órgão colegiado (art. 317 do RISTF). 2. Impossibilidade de conversão do agravo regimental em embargos de declaração, dada a existência de erro grosseiro. 3. Agravo regimental do qual não se conhece” (RE n. 607.642-AgR, Relator o Ministro Dias Toffoli, Plenário, DJe 1º.3.2021).
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. 1. O SUPREMO TRIBUNAL FEDERAL ASSENTOU NÃO CABER AGRAVO REGIMENTAL CONTRA ACÓRDÃO DO PLENÁRIO OU DE TURMA. 2. IMPOSSIBILIDADE DE CONVERSÃO DE EMBARGOS DE DECLARAÇÃO: ERRO GROSSEIRO. 3. RECURSO NÃO CONHECIDO” (RE n. 117.809-ED-AgR, de minha relatoria, Plenário, DJe 19.8.2014).
+    4. Pelo exposto, indefiro o presente pedido de reconsideração, devendo o processo ser encaminhado à Secretaria Judiciária para a certificação imediata do trânsito em julgado.
+    Publique-se.
+    Arquive-se.
+    Brasília, 28 de maio de 2021.
+Ministra CÁRMEN LÚCIA
+Relatora
