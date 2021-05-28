@@ -1,0 +1,71 @@
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. DESAPROPRIAÇÃO INDIRETA. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. NÃO OBRIGAÇÃO. PRESCRIÇÃO. INTERRRUPÇÃO. IMPOSSIBILIDADE. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO SUMULAR N. 7 DO STJ.
+I - Na origem se trata de ação de cobrança que objetiva restituição de valores indevidamente pagos referentes à indenização decorrente de desapropriação. Na sentença se julgou improcedente o pedido. No Tribunal a quo, a sentença foi mantida.
+II - No tocante à violação do art. 535, II, do Código de Processo Civil de 1973, a argumentação não merece ser acolhida. O acórdão recorrido não se ressente de omissão ou qualquer outro vício, porque apreciou a controvérsia com fundamentação suficiente, embora contrária aos interesses do recorrente.
+III - Está pacificado nesta Corte que o julgador não está obrigado a responder questionamentos ou teses das partes, nem mesmo ao prequestionamento numérico.
+IV - O Tribunal de origem, ao negar provimento à apelação interposta pela União, manteve a sentença que declarou a prescrição da ação de cobrança, por considerar que inexistiram quaisquer causas suspensivas ou impeditivas do curso prescricional, sob os seguintes fundamentos: " ..  Portanto, não é admissível que a União mantenha o direito de ação em face do expropriado ad aeternum. Seria incompatível com o princípio da segurança jurídica, posto que o direito estivesse desguarnecido contra fatos ocorridos no passado, o que obstaria a estabilização das relações jurídicas pelo decurso do tempo. (435/436)  .. "
+V - Desse modo, o enfrentamento das alegações atinentes à interrupção da prescrição demanda inconteste revolvimento fático-probatório. Por consequência, o conhecimento de referida argumentação fica obstaculizado diante do Verbete Sumular n. 7 do Superior Tribunal de Justiça. Esse raciocínio jurídico não diferencia do adotado por esta Corte: REsp n. 1.569.655/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 30/6/2017.
+VI - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se, na origem, de ação de cobrança proposta pela União em desfavor de Antônio Moreira do Nascimento e outros 101 réus.
+Sustenta-se, em síntese, que os réus ajuizaram ação indenizatória contra o Departamento Nacional de Estadas de Rodagem (DNER), devido aos prejuízos causados pela ocupação de imóveis dos quais eram proprietários para a construção das Rodovias BR-251, BR-354 e BR-352. Julgado procedente o pedido condenatório, a União, sucessora legal do DNER, efetuou o pagamento da maior parte da indenização aos ora réus.
+Entretanto, defende a autora que, devido aos erros nos cálculos, pagaram-se valores muito superiores aos devidos aos exequentes, motivo pelo qual estes, ora réus, devem restituir os valores indevidamente recebidos à União.
+Por sentença (fls. 381-386), indeferiu-se a petição inicial com fundamento no art. 295, IV, do Código de Processo Civil de 1973.
+Em via de recurso de apelação, a sentença foi mantida pelo Tribunal Regional Federal da 1ª Região (fls. 431-440), nos termos assim ementados:
+PROCESSO CIVIL. DESAPROPRIAÇÃO INDIRETA. TÍTULO EXECUTIVO JUDICIAL. PAGAMENTO REALIZADO A MAIOR. COBRANÇA NOS PRÓPRIOS AUTOS DA EXECUÇÃO. DESCABIMENTO. PRAZO PRESCRICIONAL.
+1. Eventual cobrança de valores pagos a maior em sede de execução por título judicial deve ser feita em ação própria.
+2. Com a vigência do Código Civil de 2002, o prazo prescricional passou a ser de cinco anos, na forma do art. 206, §5º, I - "prescreve em cinco anos a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular".
+3. O prazo prescricional para a União exercer a pretensão de cobrança judicial da exação declarada, in casu, começou com a ciência do trânsito em julgado do último agravo de instrumento, em 19.10.2007, escoando-se em 18.10.2012. Revela-se prescrita a pretensão de ressarcimento ao erário na época em que ajuizada a ação, em 22.02.2013.
+4. Apelação e remessa oficial não providas.
+Em seguida, a União interpôs embargos de declaração, os quais foram rejeitados pelo Tribunal Regional Federal da 1ª Região (fls. 468-477):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 535, I E II, DO CPC. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INEXISTÊNCIA. ACÓRDÃO PROFERIDO EM CONSONÂNCIA COM A CONSOLIDADA JURISPRUDÊNCIA DESTA CORTE. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Não existe omissão, contradição ou obscuridade no acórdão impugnado a ser sanada em embargos de declaração. O julgado embargado apreciou, fundamentadamente, por completo e de modo coerente, todas as questões necessárias ao deslinde da controvérsia, dando-lhes solução jurídica diversa da pretendida pela parte ora embargante.
+2. Os embargos de declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+3. A tese esposada pela parte embargante - existência de omissão e contradições no julgado - não se verifica no caso vertente, tendo em vista que tanto na fundamentação do acórdão embargado quanto em sua ementa, os pontos ora levantados foram analisados em estrita consonância com a jurisprudência desta Corte Regional.
+4. Mesmo para fins de prequestionamento, os embargos de declaração devem se ajustar a uma das hipóteses previstas no art. 535 do CPC.
+5. Embargos de declaração rejeitados.
+Inconformada, a União interpôs recurso especial (fls. 482-488) com fulcro no art. 105, III, a, da Constituição Federal. Alega violação do art. 535, II, do Código de Processo Civil de 1973 e dos arts. 884, 876 e 202, V, todos do Código Civil de 2002.
+Afirma, em resumo, que: a) o Tribunal a quo não sanou as omissões assinaladas; b) houve interrupção do prazo prescricional, tendo em vista a atuação positiva da União para constituir em mora os devedores de seu crédito; c) quem enriqueceu indevidamente tem o dever de restituir ao empobrecido o valor que injustificadamente obteve à custa daquele.
+Em juízo de admissibilidade, o Tribunal Regional Federal da 1ª Região negou seguimento ao recurso (fls. 495-496).
+Sobreveio a interposição de agravo, a fim de se possibilitar a subida do recurso especial ao Superior Tribunal de Justiça (fls. 500-505).
+Não foram apresentadas contrarrazões pelos agravados.
+A decisão monocrática tem o seguinte dispositivo:"Ante o exposto, com fundamento nos artigos 34, VII, e 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça, conheço do recurso de agravo para conhecer em parte e, na parte conhecida, negar provimento ao recurso especial. "
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a este ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+No tocante à violação do art. 535, II, do Código de Processo Civil de 1973, a argumentação não merece ser acolhida. O acórdão recorrido não se ressente de omissão ou qualquer outro vício, porque apreciou a controvérsia com fundamentação suficiente, embora contrária aos interesses do recorrente.
+Além disso, está pacificado nesta Corte que o julgador não está obrigado a responder questionamentos ou teses das partes, nem mesmo ao prequestionamento numérico. Nesse sentido, é o precedente:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. DEFENSOR DATIVO. OMISSÃO, ART. 1.022, II, DO CPC. FUNDAMENTAÇÃO BASEADA EM DIREITO LOCAL. SÚMULA 280/STF. COISA JULGADA. REEXAME DE PROVAS. SÚMULA 7 DO STJ.
+1. Não se configurou a ofensa ao art. 1.022, II, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia como lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. A questão sobre o pagamento dos honorários advocatícios envolve, na realidade, análise da Lei do Estado de São Paulo, que foi utilizada pelo Tribunal local para solucionar a lide. A apreciação da questão por esta Corte encontra óbice na Súmula 280 do Supremo Tribunal Federal ("Por ofensa a direito local não cabe recurso extraordinário").
+3. O Tribunal a quo entendeu que não ocorreu mácula à coisa julgada. Para alterar tal conclusão é necessário reexame de provas, inviável ante o óbice da Súmula 7 do Superior Tribunal de Justiça.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp n. 1.719.219/MG, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 19/4/2018, DJe 23/5/2018.)
+O Tribunal de origem, ao negar provimento à apelação interposta pela União, manteve a sentença que declarou a prescrição da ação de cobrança, por considerar que inexistiram quaisquer causas suspensivas ou impeditivas do curso prescricional, sob os seguintes fundamentos:
+O prazo prescricional das ações propostas pela Fazenda Pública em face de particulares é de cinco anos. "Por aplicação do princípio da igualdade, o STJ pacificou o entendimento de que o prazo de 5 anos previsto no Decreto 20.910/32 aplica-se também às ações ajuizadas pela Fazenda Pública contra o particular ou agente público." (STJ, REsp 1197330, Rel. Min. Napoleão Nunes Maia Filho, 1a Turma, DJe 12.06.2013).
+O reconhecimento ou não da prescrição não é questão envolvendo erro material, de mero cálculo, mas sim de ordem pública, e, portanto, passível de ser corrigido de ofício.
+Com efeito, a alegação de que a questão não estaria preclusa em virtude de a Autarquia ter sido intimada da sentença, proferida na ação de desapropriação, em 15.05.2008, restando somente a partir daí o dever de propor a ação autônoma própria, não merece prosperar.
+In casu, a data a ser observada como termo a quo é a da ciência, pela União, do trânsito em julgado dos agravos propostos em face da decisão que a remeteu às vias autônomas, qual seja, 19.10.2007. Operou-se, portanto, em 18.10.2012, a prescrição. A União propôs a ação de cobrança somente em 22.02.2013, extrapolando o prazo legal de cinco anos.
+ ..
+A prescritibilidade tem razão de ser, eis que a prescrição se relaciona, intimamente, com o princípio da segurança jurídica. O instituto jurídico da prescrição é extraído do aludido princípio e inerente ao Estado Democrático de Direito. Tem por objetivo a majoração da estabilidade das relações entre particulares e o Estado, através da fixação de normas prévias.
+Não merece acolhimento, portanto, a pretensão da apelante a fim de que seja reconhecida a interrupção do prazo prescricional em 15.05.2008, data da intimação da sentença que extinguiu o processo desapropriatório, para que prossiga a tramitação da ação de cobrança até a decisão meritória com a satisfação do seu direito. Pela análise dos autos, o termo a quo do prazo prescricional ocorreu em outubro de 2007, pelo que a prescrição se deu em outubro de 2012, tendo a União ajuizado a ação apenas em fevereiro de 2013.
+Portanto, não é admissível que a União mantenha o direito de ação em face do expropriado ad aeternum. Seria incompatível com o princípio da segurança jurídica, posto que o direito estivesse desguarnecido contra fatos ocorridos no passado, o que obstaria a estabilização das relações jurídicas pelo decurso do tempo. (435/436)
+Desse modo, o enfrentamento das alegações atinentes à interrupção da prescrição demanda inconteste revolvimento fático-probatório. Por consequência, o conhecimento de referida argumentação fica obstaculizado diante do Verbete Sumular n. 7 do Superior Tribunal de Justiça.
+Esse raciocínio jurídico não diferencia do adotado por esta Corte:
+ADMINISTRATIVO. ECONÔMICO. AÇÃO CAUTELAR DE BUSCA E APREENSÃO COM FUNDAMENTO NO ARTIGO 35-A DA LEI N. 8.884/94. VIOLAÇÃO AO ARTIGO 535 DO CPC/73. NÃO OCORRÊNCIA. CONTROLE JUDICIAL DOS REQUISITOS LEGAIS PARA O DEFERIMENTO DA MEDIDA. SÚMULAS 284 DO STF E 07 DO STJ. PRAZO PRESCRICIONAL. APLICAÇÃO DO ARTIGO 1º, §2º DA LEI N. 9.873/99. REGRA GERAL QUE EXCEPCIONA OS PRAZOS ESPECIAIS PREVISTOS EM LEGISLAÇÃO ADMINISTRATIVA, QUANDO OS FATOS TAMBÉM POSSAM CONSTITUIR CRIME. RECURSO ESPECIAL NÃO PROVIDO.
+1. Trata-se de Recurso Especial interposto com fundamento no artigo 105, inciso III, alínea "a", contra acórdão que desproveu Apelação em Ação Cautelar lastreada na previsão do Art. 35-A da Lei n. 8.884/94, voltada à busca e apreensão de objetos, papéis, livros, fitas, computadores e arquivos magnéticos necessários a instrução de Processo Administrativo instaurado para apurar condutas infringentes à ordem econômica, passíveis de enquadramento no artigo 21, incisos I, III, V e XII, da Lei 8.884/94.
+ ..
+7. Quanto à análise da ocorrência de infração continuada, bem como da ocorrência de eventual causa de interrupção da prescrição, trata-se, por evidente, de matéria que exige reexame de prova, esbarrando no óbice da Súmula 7 do STJ.
+8. Recurso Especial conhecido em parte e, no mérito, não provido.
+(REsp n. 1.569.655/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 30/6/2017.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
