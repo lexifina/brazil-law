@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus,com pedido de liminar, interposto porJosé Roberto do Amaral Borges, em que se aponta como autoridade coatora o Tribunal de Justiça deMato Grosso do Sul, que denegou a ordem do HC n. 1402766-02.2021.8.12.0000, nos termos da seguinte ementa (fl. 106):
+HABEAS CORPUS- FURTO QUALIFICADO-PRISÃO PREVENTIVA PARA GARANTIA DA ORDEM PÚBLICA PACIENTE REINCIDENTE E COM INTENSA REITERAÇÃO DELITIVA - PERICULUM LIBERTATIS - NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL- ORDEM DENEGADA
+O fato de o paciente ser reincidente e haver indícios de que, no período de quatro meses, praticou diversos delitos, presentes o periculum libertatis e a necessidade da prisão preventiva para garantia da ordem pública, considerando a possibilidade real de voltar a delinquir.
+Aqui, a defesa alega quemerece reforma o acórdão que manteve à custódia cautelar decretada em desfavor do ora Recorrente, portador de várias comorbidades que o fazem integrar grupo de risco da Covid-19 e, ainda, considerando as nuances do caso em tela (crime sem violência ou grave ameaça, insignificância do valor da res furtiva devidamente restituída à vítima, entre outros aspectos), fere de morte os princípios da proporcionalidade, darazoabilidade e da homogeneidade (fls. 121/122).
+Requer, assim, o provimento do recurso,concedendo-se ao recorrente o direito de responder ao processo em liberdade, inclusive com a aplicação de cautelares diversas da prisão, se se entender necessário (fl. 131).
+Liminar indeferida (fls. 146/148).
+Informações prestadas (fls. 151/155).
+O Ministério Público Federal ofereceu parecer pelo não provimento do recurso (fls. 162/170).
+É o relatório.
+Busca opresente recursoa revogação da prisão preventiva do recorrente, que foi decretada nos seguintes termos (fls. 75/76 - grifo nosso):
+ ..
+Demonstrados os pressupostos necessários à custódia cautelar, resta-nos analisar se estão presentes fundamentos que justifiquem a decretação da prisão preventiva do autuado. A resposta é positiva. Isso porque se trata de reincidente em crime patrimonial, inclusive possui incursões penais suspensas, conforme autos nºs. 001762-42.2018.8.12.0024 (furto) e 0001497-06.2019.8.12.0024 (violação de domicílio), o que demonstra a reiteração em práticas delitivas. Assim, a concessão da liberdade não constituirá óbice a que o autuado prossiga na prática de crimes patrimoniais. Com efeito, há sério e real risco de reiteração delitiva.
+ ..
+Como se não bastasse, trata-se de pessoa que não possui residência fixa e ocupação lícita, dedicando-se à prática reiterada de crimes com o escopo de manutenção da opção de vida voltada para o consumo de entorpecentes. Nesse cenário, a imediata soltura do flagranteadoimplicaria sensação de desfuncionalidade do sistema de justiça e incentivo à violência privada contra o autuado, de modo que a sua prisão cautelar possui também viés de proteção ao próprio flagranteado.
+ ..
+O Tribunala quomanteve a segregação cautelar, asseverando que:
+ ..  Ab initio, a prisão preventiva pelo furto de um botijão de gás avaliado em cem reais, devolvido à vítima, parece excessiva, mormente porque a qualificadora atinente à escalada merece maiores esclarecimentos.
+Contudo, presentes o periculum libertatis e a necessidade de prisão preventiva para garantia da ordem pública. Vejamos.
+Ao contrário do que aponta a impetrante, não teremos a possibilidade de reconhecimento do furto privilegiado, pois JOSÉ ROBERTO é reincidente, em razão de condenação pela prática de furto nos Autos n.0002180-14.2017.8.12.0024, transitada em julgada em 3 de julho de 2019.
+Também registra maus antecedentes, considerando a condenação nos Autos n. 0500201-77.2005.8.12.0024, transitada em julgado em 14 de novembro em 2006, pena extinta em 14 de agosto de 2009 (Execução Penal n. 0000752-46.2007.8.12.0024).
+O paciente apresenta intensa reiteração delitiva:
+1) Autos n. 0001762-42.2018.8.12.0024: denunciado por furto simples, não tendo sido localizado para citação.
+2) Registro 196/2021, do Sigo: no dia 5 de março de 2021, Marlene Zan Pagioro procurou a Delegacia de Polícia para comunicar o furto do botijão de gás do Hotel Santa Maria, no dia anterior, constando na ocorrência que "Que nesta Unidade Policial, este plantonista ao averiguar a filmagem juntamente com a Autoridade Policial constatamos que se tratava da pessoa de José Amaral Borges contumaz na prática do delito de furto" .
+3) Registro 76/2021, do Sigo: No dia 21 de janeiro de 2021, Clementino de Souza registrou furto ocorrido na sua propriedade rural, consignando que o paciente é bastante conhecido e estava com uma bicicleta, tendo abatido um animal e o levado.
+4) Registro 66/2021, do Sigo: a guarnição policial foi acionada após ameaça supostamente praticada pelo paciente, sendo este localizado com uma faca e uma chave de fenda, fato ocorrido em 18 de janeiro de 2021 em Aparecida do Taboado-MS.
+5) Registro 40/2021, do Sigo: Valdeci Maciel Ramos comunicou que o paciente disse que estava sem trabalho e o levou para Fazenda Três Barras, em Aparecida do Taboado-MS, sendo que no quinto dia de trabalho, após se deixarem, foi embora e levou sua motocicleta. O fato ocorreu em dia 9 de janeiro de 2021 e o registro foi feito dois dias depois, em 11 de janeiro em Aparecida do Taboado-MS.
+6) Registro 1021/2020: Eurípedes Silva procurou a Delegacia de Polícia para comunicar que, no dia 28/12/2020, o paciente furtou um galo, duas galinhas, quatro frangos e duas ferramentas de sua borracharia, localizada em Aparecida do Taboado-MS.
+Desta forma, presentes o periculum libertatis e a necessidade da prisão preventiva para garantia da ordem pública, considerando que há indícios que o paciente, que é reincidente, em um período de quatro meses vem se envolvendo de forma contínua em prática de crimes, sendo ineficaz a aplicação de medidas mais brandas.
+Esses indícios de persistência na prática delitiva, com reiteração no cometimento de infrações penais, aponta para a probabilidade real de que, solto, o paciente volte a delinquir.
+ ..
+Registre-se que esta relatora tomou providências para que o paciente seja submetido a exames médicos no Presídio, uma vez que apenas informou ser portador do vírus HIV e epilético.
+Contudo, não há provas dos autos do comprometimento de sua saúde ou de que seja submetido a tratamento.
+ ..
+Pois bem. Não verifico qualquer ilegalidade a ser sanada. Não obstante a ausência de violência ou grave ameaça, o recorrente, de fato, tem feito do crime o seu meio de vida, posto que, além de serreincidente, responde a outro processo também pela prática defurto e possuioutros 5 registros policiais.
+Com efeito,a jurisprudência desta Corte de Justiça é firme ao asseverar que a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar(RHC n. 76.929/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/11/2016, DJe 29/11/2016)- (HC n. 415.653/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 9/8/2018).
+Nesse sentido:
+HABEAS CORPUS. IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. FURTO QUALIFICADO TENTADO E FALSA IDENTIDADE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. RÉU QUE POSSUI OUTROS REGISTROS CRIMINAIS ANTERIORES POR CRIME DA MESMA ESPÉCIE. RISCO DE REITERAÇÃO. NECESSIDADE DA PRISÃO PARA GARANTIA DA ORDEM PÚBLICA. SEGREGAÇÃO JUSTIFICADA. HABEAS CORPUS NÃO CONHECIDO.
+ ..  2. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico, e a medida deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal. Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em motivação concreta, sendo vedadas considerações abstratas sobre a gravidade do crime.
+3. No presente caso, a prisão preventiva está devidamente justificada para a garantia da ordem pública, em razão da periculosidade do agente, evidenciada pelo efetivo risco de voltar a cometer delitos, porquanto o paciente possui outros registros criminais pela prática de crimes contra o patrimônio. A prisão preventiva, portanto, mostra-se indispensável para garantir a ordem pública.
+4. Nos termos da orientação desta Corte, inquéritos policiais e processos penais em andamento, muito embora não possam exasperar a pena-base, a teor da Súmula 444/STJ, constituem elementos aptos a revelar o efetivo risco de reiteração delitiva, justificando a decretação ou a manutenção da prisão preventiva (RHC n. 68.550/RN, da minha relatoria, DJe 31/3/2016).
+5. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+6. Habeas corpus não conhecido. (HC n. 446.504/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/6/2018).
+No que diz respeito à pandemia daCovid-19, não obstanteser portador de HIV,não há nosautosqualquercomprovação de que o recorrenteesteja com a saúdedebilitada oude que aunidade prisional ondeestá recolhido não estejaem condições deprestarauxílio médico em caso de necessidade, nãohavendo, assim, porora,nenhumailegalidade a ser sanada por esta Corte. Nesse sentido:HC n. 614.419/MS, Ministro Nefi Cordeiro, Sexta Turma, DJe 8/2/2021.
+Ante o exposto,nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. FURTO. PRISÃO PREVENTIVA. REAL POSSIBILIDADE DE REITERAÇÃO DELITIVA. GARANTIA DE ORDEM PÚBLICA.RECOMENDAÇÃO N. 62/2020 DO CNJ. RECORRENTE NÃO INSERIDO NA EXCEPCIONALIDADE.CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Recurso improvido.
