@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino (Presidente), Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. NEGATIVA DE PRESTAÇÃO JURIDICIONAL. OMISSÃO. INEXISTÊNCIA. USUCAPIÃO DE IMÓVEL URBANO. REQUISITOS CONSTITUCIONAIS PREENCHIDOS. EXIGÊNCIAS DA LEI DE PARCELAMENTO DE SOLO. INAPLICABILIDADE. RECURSO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do EnunciadoAdministrativo nº 3, aprovado pelo Plenário do STJ na sessão de9/3/2016: Aos recursos interpostos com fundamento no CPC/2015(relativos a decisões publicadas a partir de 18 de março de 2016)serão exigidos os requisitos de admissibilidade recursal na forma donovo CPC.
+2.Devidamente analisadas e discutidas as questões devolvidas ao Tribunal, com fundamento claro e expresso, de modo a esgotar a prestação jurisdicional, não que se falar em violação do art. 489 e 1.022 do NCPC.
+3.O reconhecimento da usucapião extraordinária, mediante o preenchimento dos requisitos específicos, não pode ser obstado em razão da área usucapienda ser inferior ao módulo estabelecido em lei municipal.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Os autos noticiam que REGINA MÁRCIA BLUNDI STURZENEGGER, LUIZ CARLOS STURZENEGGER e FERNANDO GASPAR BLUNDI (USUCAPIENTES) propuseram ação de usucapião, sob o argumento de que teriam a posse mansa e pacífica de imóvel urbano, de 242,14 m , por mais de 15 (quinze) anos.
+O pedido foi julgado procedente, para declarar o domínio de Regina Márcia Blundi Sturzenegger e outros sobre a área descrita no memorial descritivo de fl. 14 (e-STJ, fl. 194).
+A sentença foi mantida em apelação, cujo acórdão encontra-se assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE USUCAPIÃO. RECURSO DO MINISTÉRIO PÚBLICO. IMÓVEL INSERIDO EM ÁREA MAIOR DEVIDAMENTE REGISTRADA. IMPOSSIBILIDADE DE DESMEMBRAMENTO. PREVALÊNCIA DOS PRINCÍPIOS DA DIGNIDADE DA PESSOA HUMANA, FUNÇÃO SOCIAL DA PROPRIEDADE E DO DIREITO À MORADIA. REQUISITOS DA USUCAPIÃO CONFIGURADOS. DOMÍNIO DECLARADO EM FAVOR DOS PRESCRIBENTES. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+"Satisfeitos os requisitos da usucapião extraordinária, impõe-se a declaração de aquisição da propriedade, não obstante irregularidade referente às normas de parcelamento de solo urbano, haja vista a boa-fé do postulante. Entendimento diverso implica na exigência de nova condição não albergada pela legislação pátria e macula o conceito jurídico da função social da propriedade urbana" (TJSC, Apelação Cível n. 0001043-17.2011.8.24.0139, de Porto Belo, rel. Des. Gilberto Gomes de Oliveira, j. em 25-10-2016) (e-STJ, fl. 241).
+Os embargos de declaração opostos foram rejeitados.
+Contra esses julgados o MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA (MP/SC) manejou recurso especial, fundamentado na alínea a do permissivo constitucional, alegando (1) violação do art. 1.022 do NCPC, por não ter o acórdão recorrido considerado a aplicação dos arts. 1.238, parágrafo único, do CC/02, e 18 da Lei nº 6.766/79 ao caso concreto; e(2) ofensa aos arts. 1.238, caput e parágrafo único, do CC/02, e 18 da Lei nº 6.766/79, diante da impossibilidade de se reconhecer a usucapião de imóvel inserido em parcelamento irregular de solo urbano.
+Foram apresentadas contrarrazões.
+O juízo prévio de admissibilidade negou seguimento ao apelo nobre por não vislumbrar a ocorrência da alegada negativa de prestação jurisdicional e ante a incidência das Súmulas nºs7 e 83, ambas do STJ.
+Irresignado, o MP/SC apresentou o correspondente agravo, pelo qual refutou os fundamentos da decisão agravada.
+Contraminutado, os autos subiram para esta Corte Superior.
+Diante dos argumentos apresentados, determinei a conversão do agravo em recurso especial.
+Monocraticamente, neguei provimento ao apelo nobre por não verificar a ocorrência da alegada negativa de prestação jurisdicional e estar o entendimento proferido pelo acórdão recorrido em harmonia com a jurisprudência do Superior Tribunal de Justiça.
+Daí a interposição deste agravo interno pelo MP/SC, em que reafirma ter ocorrido omissão no julgado quanto a impossibilidade de usucapir imóvel inserido em loteamento irregular, e que não há jurisprudência pacífica sobre a matéria, ressaltando que não é possível assentir com a aquisição da propriedade por meio de usucapião, por se tratar o imóvel dos autos de fração de terreno que não se sujeitou ao regular processo de loteamento (e-STJ, fl. 387), e que a tese estaria afetada como representativo da controvérsia, Tema 1.025 do STJ.
+Impugnação às, e-STJ, fls. 396/406.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. NEGATIVA DE PRESTAÇÃO JURIDICIONAL. OMISSÃO. INEXISTÊNCIA. USUCAPIÃO DE IMÓVEL URBANO. REQUISITOS CONSTITUCIONAIS PREENCHIDOS. EXIGÊNCIAS DA LEI DE PARCELAMENTO DE SOLO. INAPLICABILIDADE. RECURSO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do EnunciadoAdministrativo nº 3, aprovado pelo Plenário do STJ na sessão de9/3/2016: Aos recursos interpostos com fundamento no CPC/2015(relativos a decisões publicadas a partir de 18 de março de 2016)serão exigidos os requisitos de admissibilidade recursal na forma donovo CPC.
+2.Devidamente analisadas e discutidas as questões devolvidas ao Tribunal, com fundamento claro e expresso, de modo a esgotar a prestação jurisdicional, não que se falar em violação do art. 489 e 1.022 do NCPC.
+3.O reconhecimento da usucapião extraordinária, mediante o preenchimento dos requisitos específicos, não pode ser obstado em razão da área usucapienda ser inferior ao módulo estabelecido em lei municipal.
+4. Agravo interno a que se nega provimento.
+VOTO
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A pretensão está no reconhecimento (1) da ocorrência de omissão no julgado; e(2) da impossibilidade de se reconhecer a usucapião de imóvel inserido em parcelamento irregular de solo urbano.
+O recurso não merece prosperar.
+(1) Negativa de prestação jurisdicional
+O MP/SC aponta que o TJSC deixou de considerar a aplicação dos arts. 1.238, parágrafo único, do CC/02, e 18 da Lei nº 6.766/79, pelos quais não seria admissível usucapião de imóvel urbano que não obedeça àLei de Parcelamento de Solo Urbano.
+Todavia, colhe-se que o acórdão recorrido explicitou que para o reconhecimento da usucapião devem ser observados os requisitos constitucionais exigidos para tanto.
+Veja-se:
+Sabe-se que a usucapião é modo originário de aquisição da propriedade em que se objetiva "conseguir lastro junto ao registro imobiliário, através da abertura de matrícula e do registro" (Tratado de usucapião. 8 ed. São Paulo: Saraiva, 2012. v. 1, p. 241). Nesse passo, presentes seus pressupostos, impõe-se a declaração da aquisição originária da propriedade em favor do prescribente. Com efeito, eventual irregularidade administrativa, no que se relaciona às regras de parcelamento do solo urbano, não deve servir de óbice ao reconhecimento da usucapião. Isso porque, cumpre ao Poder Judiciário sujeitar-se aos preceitos constitucionais, entre os quais estão inseridos o princípio da dignidade da pessoa humana, o da função social da propriedade e o do direito à moradia. Por oportuno, convém destacar que não se pretende violar a legislação que regulamenta o parcelamento do solo urbano, tampouco chancelar desmembramento ou loteamento não registrado pela municipalidade, mas, sim, proteger a situação de fato vivenciada por aqueles que, há longo tempo, exercem a posse sobre seus imóveis, amparados em justo título, arcando, muitas vezes, com o pagamento dos tributos municipais.
+ ..
+Nesse diapasão, afasta-se a tese apresentada pelo apelante, salientando-se que este não se insurgiu quanto ao preenchimento dos requisitos necessários à aquisição da propriedade pela usucapião - posse mansa, pacífica e sem oposição por um determinado período de tempo, razão pela qual não se faz necessário o seu exame.(e-STJ, fls. 244/247).
+Não se verifica, portanto, a alegada omissão.
+(2) Usucapião
+O Parquet estadual também defende a impossibilidade de se usucapir imóvel que não se enquadre nas exigências da Lei de Parcelamento de Solo Urbano.
+Sobre a questão, no Recurso Especial nº 1.667.842/SC, julgado sob o rito dos recursos repetitivos, a Segunda Seção do Superior Tribunal de Justiça firmou a tese segundo a qual o reconhecimento da usucapião extraordinária, mediante o preenchimento dos requisitos específicos, não pode ser obstado em razão da área usucapienda ser inferior ao módulo estabelecido em lei municipal.
+Tal como decidido pelo Supremo Tribunal Federal no Recurso Extraordinário nº 422.3489/RS, com repercussão geral, preenchidos os requisitos do art. 183 da Constituição Federal, o reconhecimento do direito à usucapião especial urbana não pode ser obstado por legislação infraconstitucional que estabeleça módulos urbanos na respectiva área em que situado o imóvel (dimensão do lote). Ou seja, preenchidos os requisitos constitucionais, adquire-se a propriedade pela usucapião.
+Assim, verifica-se que o entendimento proferido pelo Tribunal Catarinense está em harmonia com a jurisprudência do Superior Tribunal de Justiça, atraindo a incidência das Súmulas nºs83 e 568, ambas do STJ.
+Merece ser destacado, por oportuno, que a afetação do Tema nº 1.025 do STJ como repetitivo não impede o julgamento deste recurso, porque a determinação para o sobrestamento dos feitos correlatos se deu apenas àqueles ações de usucapião dos imóveis situados no Setor Tradicional de Planaltina/DF.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
