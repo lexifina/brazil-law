@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por MINISTÉRIO PÚBLICO FEDERAL, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRF da 2ª Região, assim ementado (e-STJ, fls. 1.244-1.254):
+"PENAL E PROCESSUAL PENAL. RECURSO EM SENTIDO ESTRITO DAACUSACÃO. IMPORTAÇÃO FRAUDULENTA DE VEÍCULOS. PRINCÍPIO DACONSUNÇÃO E PRESCRIÇÃO. DESPROVIMENTO DO RESE.
+I - Nana a denúncia que o réu estava envolvido em esquema de importação fraudulenta deveículos de alto luxo, a partir de inserção de valores subfaturados nas Declarações deImportação ao efetivamente praticado, visando a fraudar o Fisco. Segundo consta, paraviabilizar importações irregulares e manter os reais adquirentes dos veículos fora doalcance da fiscalização da Receita Federal do Brasil, a organização criminosa da qualsupostamente participava o acusado se valia de empresas de fachada, que se encarregavamde realizar os procedimentos aduaneiros e introduzir veículos em território nacional, sendo-lhe imputado os crimes dos arts. 288, 299 e 334 do Código Penal.
+II - A suposta falsidade ideológica, a qual incidiria sobre os documentos de importaçãoapresentados à alfândega, meramente consiste na fraude a que se refere o artigo 334 doCódigo Penal, inserindo-se no contexto do crime de descaminho, especificamente contidona expressão "iludir, em parte, o pagamento de imposto devido pela entrada de mercadoria"(redação da época dos fatos). Desde o início, o entendimento que pautou a acusação foi ode que a falsificação teria ocorrido tão somente como meio para iludir o pagamento detributo devido pela entrada de mercadoria no território nacional. A denúncia também expôsuma série de tabelas de valores e explicações que indicavam que a omissão dos opcionaisdos veículos é o que gerava invoices de menor valor, o que por sua vez. proporcionava
+ingresso dos canos com valor inferior ao real. Aplicação do princípio da consunção.
+III - O delito de uso de documento falso, cuja pena em abstrato é mais grave, pode ser
+absorvido pelo crime-fim de descaminho, com menor pena comparativamente cominada,desde que etapa preparatória ou executória deste, onde se exaure sua potencialidade lesiva.Precedentes.
+IV - Manutenção da sentença que declarou extinta a punibilidade do recorrido porprescrição das condutas tipificadas nos arts. 288 e 334 do Código Penal em razão de restarultrapassado o prazo máximo da pena em abstrato de oito anos desde o último marcointerruptivo.
+V - Recurso em sentido estrito desprovido".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 299 do CP. Aduz para tanto, em síntese, que o crime de falsidade ideológica não poderia ser absorvido pelo de descaminho, porque "os documentos falsificados pelos acusados não exauriram toda a sua potencialidade lesiva no crime previsto no artigo 334 do Código Penal" (e-STJ, fl. 1.271).
+Com contrarrazões (e-STJ, fls. 1.279-1.293), o apelo nobre foi inadmitido na origem (e-STJ, fls. 1.297-1.301), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 1.341-1.347).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+O Tribunal de origem constatou que a falsificação das declarações de importação (DIs) foi realizada com a única finalidade de praticar o delito de descaminho, nele exaurindo toda sua potencialidade lesiva (e-STJ, fl. 1.250).
+Tal entendimento está em conformidade com a orientação desta Corte Superior, para quem ocorre crime único de descaminho quando a falsificação ou o uso de documento falso, pouco importando o momento de utilização, visa única e exclusivamente suprimir ou reduzir tributo devido pela entrada, saída ou consumo de mercadorias.A propósito:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALSIDADE IDEOLÓGICA. CONSUNÇÃO. EXAURIMENTO NO CRIME FIM.AGRAVO DESPROVIDO.
+1. Ocorre crime único de descaminho quando a falsificação ou o uso de documento falso, pouco importando o momento de utilização, visa única e exclusivamente suprimir ou reduzir tributo devido pela entrada, saída ou consumo de mercadorias, situação que ocorreu nos autos.
+2. Agravo regimental desprovido".
+(AgRg no AREsp 1749741/ES, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMINAL.FALSIDADE IDEOLÓGICA. DELITO COMETIDO COM OBJETIVO DE SONEGAR O IMPOSTO SOBRE IMPORTAÇÃO. FALSO (CRIME-MEIO). DESCAMINHO (CRIME-FIM). RELAÇÃO DE CAUSALIDADE. PRINCÍPIO DA CONSUNÇÃO.APLICABILIDADE. ABSORÇÃO DO CRIME-MEIO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Constatado que a falsidade ideológica foi o meio pelo qual a ré buscou iludir o pagamento de tributos incidentes nas importações, mostra-se patente a relação de causalidade com o crime de descaminho, o que atrai a incidência da consunção.
+2. A jurisprudência desta Corte admite que um crime de maior gravidade, assim considerado pela pena abstratamente cominada, pode ser absorvido, por força do princípio da consunção, por um crime menos grave, quando, repita-se, utilizado como mero instrumento para consecução de um objetivo final único".
+3. Agravo regimental a que se nega provimento.(AgRg no AREsp 100.322/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 25/02/2014, DJe 07/03/2014)
+Neste contexto, alterar a conclusão a que chegaram as instâncias ordinárias, de que houve exaurimento da potencialidade lesiva da falsidade, demandaria, necessariamente, revolvimento do acervo fático-probatório delineado nos autos, procedimento que encontra óbice na Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b", do RISTJ,conheçodo agravo paranegar provimento ao recurso especial.
+Publique-se. Intimem-se.
