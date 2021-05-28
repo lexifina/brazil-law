@@ -1,0 +1,16 @@
+DECISÃO
+Nestehabeas corpus, com pedido liminar, impetrado em favor deRobson Luis Silva dos Santos- preso preventivamente e denunciado pela suposta prática dos crimes de roubo e extorsão(Processo n.0012592-93.2013.8.19.0203, em curso na 2ª Vara Criminal da comarca de Jacarepaguá/RJ) - contra o acórdão exarado no julgamento do HC n. 0025990-90.2020.8.19.0000(Tribunal de Justiça do Rio de Janeiro), sob alegação de inidoneidade na fundamentação da prisão preventiva, requer-se, em liminar e no mérito, a revogação da custódia cautelar.
+Em um primeiro momento, indeferi liminarmente a petição inicial, em razão da instrução deficiente. Sobreveio petiçãoàs fls. 60/62, requerendo a reconsideração da decisão. Prestadas as informações e trazidas aos autos as peças ausentes, pela aplicação dos princípios da economia e celeridade processuais, às fls. 102/104, reconsiderei a decisão no ponto em questão, contudo indeferi o pedido liminar.
+Instado a se manifestar, o Ministério Público Federal opinou pela denegação da ordem(fls. 118/119).
+É o relatório.
+O presentemandamusperdeu o objeto.
+Isso porque, diante das informações colhidas na página eletrônica do Tribunal local, nota-se que, em 14/4/2021, foi proferida sentença condenandoRobson Luis Silva dos Santoscomo incurso noart.157, § 2º, I, II e V, por duas vezes, na forma do art.70 do Estatuto Repressivo, e art. 158, § 1º e § 3º, ambos do Código Penal, na forma do art.69 do mesmo Estatuto Repressivo, às penas de 26 anos e 10meses de reclusão, em regime inicial fechado, além dopagamento de 35 dias multa,mantendo a prisão preventiva e, por conseguinte, negando-lhe o direito de recorrer em liberdade.
+A sentença condenatória constitui novo título judicial a motivar a custódia cautelar, razão pela qual prosseguir na análise deste feito implicaria inadmissível supressão de instância. Afinal, o novo decreto não foi ainda submetido à análise da instância originária.
+Consoante precedentes desta Corte, h avendo sido prolatada sentença condenatória em desfavor de um dos acusados, ainda que lhe tenha sido vedado o direito de apelar em liberdade, é de se julgar prejudicado o exame do habeas corpus quanto à higidez dos fundamentos invocados originariamente pelo Juízo de primeiro grau para imposição de sua custódia preventiva, para não incorrer em supressão de instância(HC n. 423.213/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 4/6/2018).
+De qualquer maneira, o primitivo decreto de prisão não revelava nenhuma ilegalidade aparente, uma vez que baseado em fator real de cautelaridade ante as circunstâncias do crime e o risco de reiteração delitiva, já que o paciente é reincidente(fl. 75).
+Nessa linha: HC n. 536.222/SC, Ministro Jorge Mussi, Quinta Turma, DJe 4/8/2020; AgRg no HC n. 568.997/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/5/2020; AgRg no HC n. 568.281/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 15/5/2020; e RHC n. 124.546/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/3/2020.
+Pelo exposto, a teor do disposto no art. 34, XI, do RISTJ,julgo prejudicadoo presentehabeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO E EXTORSÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. SENTENÇA SUPERVENIENTE. NOVO TÍTULO. PERDA DO OBJETO.
+Writprejudicado.
