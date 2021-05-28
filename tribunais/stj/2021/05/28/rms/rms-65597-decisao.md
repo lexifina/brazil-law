@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por MARIA LUCIA DE SOUZA COSTA SANTOS, contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado:
+CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. CARREIRA DE MAGISTÉRIO PÚBLICO ESTADUAL DO ENSINO FUNDAMENTAL E MÉDIO. declaração de inconstitucionalidade da Lei do Estado da Bahia nº 12.578 de 26 de abril de 2012, Lei do Estado da Bahia nº 13.569 de 18 de agosto de 2016 e art. 1º da Lei do Estado da Bahia nº 13.809 de 04/12/2017, Lei nº14.039 de 20 de Dezembro de 2018, desde a origem no que tange à transferência de cargo. Impossibilidade de utilização da via mandamental para obter declaração incidental de inconstitucionalidade. Precedentes. INADEQUAÇÃO DA VIA ELEITA. SÚMULA 266 DO STF. SEGURANÇA DENEGADA PELA INADEQUAÇÃO DA VIA ELEITA. (fl. 180)
+Na origem, a então impetrante pretendeu fosse concedida a segurança com a declaração incidenter tantum das leis n. 12.578, de 26 de abril de 2012; n. 13.569, de 18 de agosto de 2016; art. 1º da Lei n. 13.809, de 04/12/2017; n. 14.039, de 20 de Dezembro de 2018, todas do Estado da Bahia, desde a origem no que tange à transferência de cargo, para que fosse declarada nula a transferência de cargo efetivo da ora recorrente.
+Valor dado à causa: R$ 100,00 (cem reais), em fevereiro de 2019.
+Foram apresentadas contrarrazões pela rejeição do recurso.
+Parecer ministerial pelo desprovimento do recurso, sob a seguinte ementa: (fl. 115)
+CONSTITUCIONAL E ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA LEI EM TESE. DECLARAÇÃO DE INCONSTITUCIONALIDADE COMO PEDIDO PRINCIPAL DA AÇÃO MANDAMENTAL. IMPOSSIBILIDADE. INTELIGÊNCIA DA SÚMULA 266 DO STF. PRECEDENTES. PARECER PELO IMPROVIMENTO DA INSURGÊNCIA.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2.016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Para que seja dado provimento ao requerido pela recorrente, é necessária a satisfação de requisitos próprios do remédio escolhido pela então impetrante (mandado de segurança), porém tais requisitos não se fazem presente.
+Como bem registrado no parecer do Ministério Público Federal, cujas premissas adoto, a questão cinge-se ao campo do reconhecimento de inconstitucionalidade de lei em tese:
+Com efeito, a pretensão deduzida no writ não merece guarida porquanto calcada na declaração de inconstitucionalidade das Leis do Estado da Bahia n.12.578/2012, 13.569/2016, 14.039/2018 e artigo 1º da Lei13.809/2017, como bem pontuado pelo Tribunal a quo, às fls. E-STJ 171-173.
+(..)
+Nesse contexto, ao manter o indeferimento da exordial, com fulcro na Súmula 266 do STF, o Tribunal a quo apenas espelhou a jurisprudência consolidada dessa Corte Superior (..) (fl. 219)
+Na hipótese dos autos, a Corte de origem negou provimento ao pleito da impetrante, ora recorrente, apontando a incidência da Súmula 266/STF:
+Por ser a impetração contra as Leis Estaduais 12.578/12, 13.569/16, 13.809/17 e 14.039/18, que dispõe sobre a estrutura dos cargos de magistério no Estado Bahia, modificando o quadro de pessoal, caracterizada está, sem qualquer dúvida, que a impetração visa desconstituir dispositivos de lei em tese, ajuizamento inadequado pela via estreita do mandado de segurança, nos exatos termos da súmula 266 do Supremo Tribunal Federal. (..) (fl. 171)
+(..)
+Conclui-se então que, não havendo efeitos concretos a ser enfrentado, não se pode falar em direito líquido e certo, dessarte, não há como se considerar viável o mandado de segurança. (fl. 172)
+Assim, o julgado recorrido prestigiou a farta jurisprudência deste Superior Tribunal de Justiça.
+Anote-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO EM MANDADO DE SEGURANÇA. PORTARIA 428/2020/MS. ATO ADMINISTRATIVO NORMATIVO DE CARÁTER GERAL E ABSTRATO. LEI EM TESE. SÚMULA 266/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se de Agravo Interno contra decisão que denegou a segurança nos termos do art. 6º, § 5º, da Lei 12.016/2009.
+2. O Mandado de Segurança foi impetrado pela Associação Nacional da Carreira de Desenvolvimento de Políticas Sociais, representante da carreira dos analistas técnicos em políticas sociais, contra suposto ato coator do Ministro de Estado do Ministério da Saúde consubstanciado na Portaria 428/2020/MS, de 18/3/2020, que estabeleceu medidas de proteção para enfrentamento do Covid-19 no âmbito das unidades do Ministério da Saúde no Distrito Federal e nos Estados. A segurança foi pleiteada para "que seja declarada a nulidade da Portaria 428/2020-MS, ante a sua inconstitucionalidade e ilegalidade".
+3. A jurisprudência é pacífica quanto à impossibilidade de utilização do Mandado de Segurança para questionar leis em tese, como ocorre no caso dos autos, em que se questiona suposta inconstitucionalidade e ilegalidade da Portaria 428/2020 do Ministério da Saúde.
+4. O ato questionado é norma genérica e abstrata, dirigida indistinta e genericamente, a toda a categoria dos analistas técnicos em políticas sociais - ATPSs. Não é apto, por si, para impedir a adoção ou não do trabalho remoto para a categoria dos analistas técnicos em políticas sociais, servidores que atuam em áreas que dão suporte aos agentes de saúde, tampouco tem o condão de impedir ou não o emprego de tal medida de prevenção.
+5. Aplica-se ao caso o disposto na Súmula 266 do STF: "Não cabe Mandado de Segurança contra lei em tese." 6. Agravo Interno não provido.
+(AgInt no MS 25.968/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 10/02/2021, DJe 30/03/2021)
+Portanto, não tendo a recorrente apresentado prova pré-constituída do alegado direito líquido e certo, limitando seus argumentos ao ataque à constitucionalidade de leis em tese, o que é incompatível com a via eleita, tem-se como irreparável a decisão atacada.
+Ante o exposto, não configurado o direito líquido e certo da parte impetrante, com fulcro no artigo 34, inciso XVIII, alínea "b", do RI/STJ, c/c a Súmula 568 deste STJ, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
