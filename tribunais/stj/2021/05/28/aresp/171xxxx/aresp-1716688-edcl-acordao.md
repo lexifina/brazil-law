@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DO AGRAVANTE.
+1. Nos termos do artigo 1.022 do CPC/15, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.1.1. Ausente vício no aresto impugnado, é impositiva a rejeição aos embargos de declaração.
+2. Inadmitida a insurgência, é descabido falar-se em omissão quanto ao mérito do recurso, uma vez que o não conhecimento do reclamo é incompatível com pronunciamento meritório. Precedentes.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de embargos de declaração opostos por JOSÉ ALBERTO ROSA DA SILVA em face do acórdão acostado a fls. 1417-1420 e-STJ, proferido por esta Quarta Turma e de relatoria deste signatário, em que não fora conhecido o agravo internomanejado peloora embargante.
+O aresto em questão foi assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTE TRIBUNAL QUE NÃO CONHECEU DO RECURSO ESPECIAL. INSURGÊNCIA DO AGRAVANTE ORIGINAL.1. Razões do agravo interno que não infirmam especificamente os fundamentos da decisão monocrática recorrida, em descumprimento ao princípio da dialeticidade. Aplicação do quanto disposto no artigo 1.021, §1º, do CPC/15. 2. Agravo interno não conhecido
+Nas razões dos aclaratórios (fls. 1424-1433 e-STJ) oembargante recapitulou o histórico da demanda, expôs seu inconformismo com a decisão monocrática proferida pelo Ministro Presidente do STJ. Ponderou ter ocorrido negativa de prestação jurisdicional, em virtude da rejeição, pelo Tribunala quodos embargos de declaração lá opostos. Ponderou haver omissões no aresto ora impugnado, que não apreciou as razões do recurso especial, renovando os argumentos contidos naquele inconformismo. Requereu fossem sanados os vícios e atribuídos efeitos infringentes aos aclaratórios
+Sem impugnação.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DO AGRAVANTE.
+1. Nos termos do artigo 1.022 do CPC/15, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.1.1. Ausente vício no aresto impugnado, é impositiva a rejeição aos embargos de declaração.
+2. Inadmitida a insurgência, é descabido falar-se em omissão quanto ao mérito do recurso, uma vez que o não conhecimento do reclamo é incompatível com pronunciamento meritório. Precedentes.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Os presentes aclaratórios não comportam acolhimento.
+1. Inicialmente, ressalte-se que os embargos de declaração, conforme o disposto no artigo 1.022 do CPC/15, têm fundamentação vinculada às hipóteses legalmente previstas. Destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou, ainda, corrigir erro material. Não servem, no entanto, como meio de manifestação do inconformismo da parte com a decisão prolatada. Nesse sentido, veja-se o seguinte precedente:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO - AÇÃO DE ANULAÇÃO DE TÍTULO DE CRÉDITO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO DE INSTRUMENTO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO DA AUTORA.  ..  2. Os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, ao mero reexame da causa como pretende a parte.  ..  5. Agravo regimental desprovido. (AgRg no Ag 1230075/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/09/2015, DJe 11/09/2015).
+Citam-se, ainda, a título exemplificativo, os seguintes julgados: EDcl no AgRg no Ag 1329960/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 04/10/2016, DJe 19/10/2016; EDcl no REsp 1597129/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/10/2016, DJe 17/10/2016; EDcl no AgRg na PET na Rcl 22.564/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 10/08/2016, DJe 18/08/2016.
+2. Ademais, não configura vício a ser corrigido pela via dos aclaratórios a ausência de pronunciamento acerca do mérito recursal no caso de a insurgência não ter sido conhecida, uma vez que a inadmissão da insurgência é incompatível com o pronunciamento sobre o mérito. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 544, § 4º, I, DO CPC/73 (ART. 932, III, DO CPC/2015) E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCOMPATIBILIDADE DA DECISÃO DE NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL COM O PRONUNCIAMENTO DO STJ SOBRE O MÉRITO RECURSAL. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado em 25/08/2017.
+II. O voto condutor do acórdão embargado apreciou, de modo claro, coerente e completo, todas as questões necessárias à solução da controvérsia, mantendo o não conhecimento do Agravo em Recurso Especial, em razão da incidência analógica da Súmula 182/STJ.
+III. Levando-se em conta a declaração de inadmissibilidade do Agravo em Recurso Especial, o seu não conhecimento impede qualquer pronunciamento do STJ sobre o mérito recursal.
+IV. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+V. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp 947.243/DF, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 10/10/2017, DJe 23/10/2017)
+No caso em tela, oembargante não apontou com precisão qual seria a omissão ou contradição no acórdão impugnado, limitando-se a expor seu inconformismo, repisando os argumentos contidos no apelo nobre.
+Razão, portanto, não lhe assiste, pois o acórdão proferido por este órgão fracionário encontra-se devida e suficientemente fundamentado. Essencialmente, não foi admitido o agravo interno por violação ao princípio da dialeticidade, uma vez que, nas razões desse recurso, a parte impugnou de forma específica a inadmissão do agravo em recurso especial.
+Uma vez quenão foramconhecidos o recurso especial, o agravo correspondente e nem mesmo o agravo interno, seria descabido haver pronunciamento quanto ao mérito do apelo extremo.
+Assim, não há falar em vício a ser corrigido pela via dos aclaratórios, pois "Inexiste omissão quanto à matéria de mérito quando esta não foi sequer conhecida, em razão de inadmissibilidade do recurso, a teor da pacífica jurisprudência do STJ e do STF" (EDcl no AgInt no RE no AgInt no AREsp 872.994/PR, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 20/06/2018, DJe 29/06/2018).
+Advirta-se, por derradeiro, que eventual interposição de recurso manifestamente inadmissível ou protelatório poderá ensejar, conforme o caso, a aplicação de multa calculada sobre o valor atualizado da causa (art. 1.026, § 2º, CPC/2015).
+3. Do exposto, rejeitam-se os embargos de declaração.
+É como voto.
