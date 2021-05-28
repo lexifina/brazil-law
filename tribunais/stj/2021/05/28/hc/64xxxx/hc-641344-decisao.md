@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ILTON MAYCON PEREIRA DOS SANTOS (PEC n. 0001708-60.2015.8.16.0092), em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO PARANÁ (Agravo em Execução n. 4006502-08.2020.8.16.0019). Eis a ementa do acórdão ora atacado (fl. 10):
+RECURSO DE AGRAVO EM EXECUÇÃO - FALTA GRAVE - FUGA - PERDA DOS DIAS REMIDOS NO PATAMAR MÁXIMO (1/3) - ARTS. 127, CAPUT, E 57, DA LEI DE EXECUÇÃO PENAL - FUNDAMENTAÇÃO IDÔNEA - AUSÊNCIA DE ILEGALIDADE - PEDIDO DA DEFESA PARA O RECONHECIMENTO DA REMIÇÃO NA INTEGRALIDADE DAS HORAS ESTUDADAS - ENSINO À DISTÂNCIA (EAD) - IMPOSSIBILIDADE - LIMITAÇÃO EXPRESSAMENTE PREVISTA NO ART. 126, § 1º, INCISO I, DA LEP - INVIABILIDADE - DECISÃO ACERTADA - RECURSO NÃO PROVIDO.
+ ..
+O condenado pode remir sua pena pelo estudo com o limite de 04 (quatro) horas diárias, consoante determina o art. 126, § 1º, inciso I, da Lei de Execuções Penais.
+Recurso conhecido e não provido.
+Argumenta-se que a decisão impugnada contraria o novo entendimento da Quinta e Sexta Turmas desta Corte Superior, que admite a remição das horas excedentes a 4 horas diários tanto pelo trabalho como pelo estudo (fl. 5).
+Aduz-se que, nesse sentido, são os seguintes precedentes: HC n. 461.047/SP, Ministra LAURITA VAZ, SEXTA TURMA, julgado em 4/8/2020, DJe 14/8/2020; e AgRg no AREsp n. 1.720.688/SC, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 6/10/2020, DJe 13/10/2020.
+Defende-se que a pessoa privada de liberdade desenvolve atividades de estudo com a expectativa de exercer o direito de remir sua pena, cuja fiscalização é responsabilidade exclusiva do Estado. A sua falta ou falha não podem prejudicar o direito do apenado, de maneira que impera em seu favor a presunção de realização do período de estudo quando deficiente essa fiscalização (fl. 7).
+Menciona-se que o sistema impede que as horas de estudos realizadas nas celas sejam computadas em dias diversos daqueles em que tenham aulas presenciais. Com isso, as horas de estudo em EAD são lançadas como se tivessem sido cursas no mesmo dia da aula presencial, criando a falsa percepção de que houve estudo por período superior a 4 horas diárias, fato que decorre exclusivamente da falha na fiscalização (fl. 8).
+Requer-se a concessão da ordem para deferir a remição pelo estudo levando em conta a carga horária integral do ensino presencial e do ensino à distância (196 horas) - fls. 8/9.
+Sem pedido liminar, o Vice-Presidente requereu informações apenas ao Tribunal estadual (fl. 49). Após terem sido prestadas (fls. 52/68), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus e, caso conhecido, pela concessão da ordem.
+É o relatório.
+Consta da decisão do Juízo da execução que o paciente teria realizado um total de 196 horas de estudo, divididas em 27 dias. Desse montante, 88 horas seriam referentes a estudo realizado na cela, conforme atestados ali consultados (fls. 24 e 27).
+Para fins de remição, o Magistrado de piso considerou apenas o tempo de estudo presencial, fez referência à limitação ao máximo de 4 horas diárias e concluiu pela realização de 108 horas de estudo, para daí fazer o cálculo da remição.
+De fato, como destacado no writ e anotado pelo Subprocurador-Geral da República José Adonis Callou, a recente orientação firmada no âmbito do Superior Tribunal de Justiça diz que é possível a remição das horas excedentes de estudo, não se limitando a jornada de estudo em 4 horas por dia (AgRg no HC n. 606.826/SP, da minha relatoria, SEXTA TURMA, julgado em 22/9/2020, DJe 28/9/2020).
+Sucede, no entanto, que, no caso, embora se tenha falado em limitação, isso não ocorreu. Basta fazer as seguintes operações: 196 - 88 = 108; 108 : 27 = 4.
+Quanto às horas de estudo que teriam sido realizadas em cela, isto é, acerca daquelas 88 horas não consideradas na origem, não há como refutar, na via eleita, a fundamentação do Juízo da execução de que não há meios de se auferir a real quantidade de dias estudados à distância, também não há como saber se o requisito legal foi obedecido (fls. 26/27).
+O acórdão do Tribunal também expôs que (fls. 17/18 - grifo nosso):
+ ..  a Defensoria Pública requer o reconhecimento das horas de atividades a distância (EAD) realizadas pelo agente, as quais não foram acompanhadas ou fiscalizadas, e que excedem o limite de 04 (quatro) horas diárias.
+Todavia, este pedido não pode ser atendimento.
+Isso porque, segundo o Atestado de Estudos da Penitenciária Estadual de Ponta Grossa (mov. 247.4 e 247.5 - Projudi), não é possível certificar a carga horária de cada aula, nem mesmo quantos dias foram cursados na modalidade à distância pelo reeducando.
+ ..
+Assim sendo, não há como presumir que o apenado estudou na sua cela, nem quando e por quanto tempo.
+Ora, rever o entendimento do Tribunal a quo sobre a insuficiência da comprovação acerca das horas estudadas em cela pelo reeducando demandaria revolvimento de matéria fático-probatória, procedimento incompatível com a via estreita do habeas corpus. Precedentes: HC n. 517.422/SP, Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 1º/10/2019, DJe 8/10/2019; AgRg no HC n. 478.271/SP, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/8/2019, DJe 30/8/2019; AgRg no HC n. 460.196/SP, Ministro JORGE MUSSI, QUINTA TURMA, julgado em 25/6/2019, DJe 1º/7/2019; HC n. 462.379/MG, Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/3/2019, DJe 28/3/2019 (AgRg no HC n. 603.951/SC, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/10/2020, DJe 12/11/2020).
+Pela ementa, este recente julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO PELO ESTUDO. NECESSIDADE DE AFERIÇÃO DAS HORAS DE ESTUDO REALIZADAS À DISTÂNCIA (NA CELA). INVIABILIDADE. AUSÊNCIA DE FISCALIZAÇÃO DA UNIDADE PRISIONAL PARA O EFETIVO CÔMPUTO. IMPOSSIBILIDADE. TEMPO DE ESTUDO QUE FICA À CRITÉRIO DO APENADO. ART. 126 DA LEI DE EXECUÇÕES PENAIS - LEP. AUSÊNCIA DE IMPLEMENTAÇÃO DOS REQUISITOS DA RECOMENDAÇÃO N. 44/2013 DO CONSELHO NACIONAL DE JUSTIÇA - CNJ. PRECEDENTES. REVISÃO DAS CONCLUSÕES A QUE CHEGARAM AS INSTÂNCIAS ORDINÁRIAS. NÃO CABIMENTO. VIA ESTREITA DO HABEAS CORPUS. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. A remição de pena pelo estudo, nos termos do art. 126, § 2º, da Lei de Execução Penal, depende da certificação do curso frequentado pelas autoridades educacionais competentes, por meio de documento idôneo, a fim de cumprir os requisitos exigido na Recomendação n. 44 do Conselho Nacional de Justiça.
+2. Não tendo sido possível a fiscalização das horas de estudo realizadas à distância pelo apenado, torna-se inviável a remição pretendida pela defesa. Entendimento do acórdão impugnado em sintonia com a orientação jurisprudencial deste STJ. Precedentes.
+3. Rever o posicionamento firmado pela instância originária no sentido de que o apenado não comprovou o atendimento aos requisitos necessários ao deferimento da remição, demandaria a análise dos elementos probatórios dos autos, providência inviável na estreita via do habeas corpus. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 640.074/PR, Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 11/5/2021, DJe 17/5/2021)
+Vale registrar que os precedentes mencionados na impetração não tê m similitude fática com a hipótese em análise.
+Pelo exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO DA PENA. ESTUDO NA CELA. FALTA DE DEMONSTRAÇÃO DOS REQUISITOS. AUSÊNCIA DE COMPROVAÇÃO DAS HORAS EFETIVAMENTE DEDICADAS AO ESTUDO PELO REEDUCANDO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. PRECEDENTES.
+Ordem denegada.
