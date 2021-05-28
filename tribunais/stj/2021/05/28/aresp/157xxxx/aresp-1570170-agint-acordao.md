@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDOCONDENATÓRIO- DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO ANTE A SUA INTEMPESTIVIDADE.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1.É intempestivo orecurso especial interposto após o prazo de 15 (quinze) dias úteis previsto nos artigos 219 e 1.003, § 5º, do CPC/15.
+1.1. Para efeito de tempestividade, a prova do feriado local ou suspensão do expediente forense deve ser feita pela parte interessada por meio de documento idôneo, não servindo cópia do calendário do judiciário ou notícia extraídos da internet. Precedentes.
+1.2. Na hipótese, tanto na interposição do apelo nobre, quanto do presente agravo interno, a parte agravante limitou-se a apresentar cópias de documentos e notícias extraídos da internet, providência insuficiente para comprovar as suas alegações.
+2. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por JFE 35 EMPREENDIMENTOS IMOBILIARIOS LTDA E OUTRO, em face de decisão monocrática da lavra da Presidência do STJ (fls. 442/443, e-STJ) que não conheceu do agravo (art. 1.042 do CPC/15) ante a intempestividade do recurso especial.
+Na petição do agravo interno (fls. 446/455, e-STJ), a parte sustenta, em síntese: i) a tempestividade do reclamo restou comprovada no ato da interposição, mediante juntada de documento emitido pelo Tribunal de origem que informa a suspensão dos prazos processuais e expediente forense; ii) a Corte local, ao realizar o juízo de admissibilidade, reconheceu a tempestividade do recurso.
+Impugnação às fls. 457/461, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDOCONDENATÓRIO- DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO ANTE A SUA INTEMPESTIVIDADE.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1.É intempestivo orecurso especial interposto após o prazo de 15 (quinze) dias úteis previsto nos artigos 219 e 1.003, § 5º, do CPC/15.
+1.1. Para efeito de tempestividade, a prova do feriado local ou suspensão do expediente forense deve ser feita pela parte interessada por meio de documento idôneo, não servindo cópia do calendário do judiciário ou notícia extraídos da internet. Precedentes.
+1.2. Na hipótese, tanto na interposição do apelo nobre, quanto do presente agravo interno, a parte agravante limitou-se a apresentar cópias de documentos e notícias extraídos da internet, providência insuficiente para comprovar as suas alegações.
+2. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada que merece ser mantida.
+1.Na presente hipótese, a Presidência do STJ reconheceu a intempestividade do agravo em recurso especial, pois a parte recorrente foi intimada do acórdão recorrido em 27/04/2018, e interpôs o recurso somente em 22/05/2018, fora, portanto, do prazo de 15 (quinze) dias úteis previsto nos arts. 219, 994, VI, 1.003, § 5º e 1.029 do CPC/2015.
+Acerca da tempestividade recursal na vigência do CPC/2015, a Corte Especial, ao apreciar o AgInt no AREsp 957.821/MS, consignou o seguinte: a) a comprovação do feriado local deve ocorrer no ato da interposição do recurso, nos termos do art. 1.003, § 6º, do CPC/2015; b) o § 3º do art. 1.029 do CPC/2015 somente permite a correção de vício de recursos tempestivos; c) a intempestividade é considerado vício grave, logo, insanável, motivo pelo qual é descabida a intimação da parte para sua regularização, o que torna inaplicável a disposição do art. 932, parágrafo único, do CPC/2015, a hipótese; d) a jurisprudência do STJ, firmada na égide do CPC/1973, que permitia a comprovação posterior do feriado local, não mais subsiste ao CPC/2015, ante a previsão expressa quanto a necessidade de comprovar o feriado no ato da interposição do recurso.
+Por oportuno, confira-se a ementa do aludido leading case:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO. 1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial. 2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso". 3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo". 4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis. 5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada. 6. Agravo interno desprovido. (AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe 19/12/2017).
+Com o julgamento do REsp 1.813.684/SP, a Corte Especial decidiu ser possível, no caso de ter havido suspensão de prazos na segunda-feira de carnaval, a modulação dos efeitos do precedente anteriormente citado, de forma que a parte insurgente poderia comprovar tardiamente a tempestividade do recurso caso o reclamo fosse interposto até a publicação do acórdão em que houve a modulação, ou seja, o dia 18/11/2019.
+Conclui-se que, qualquer que seja a hipótese da suspensão de prazos, realizada manifestação pela parte no âmbito deste Tribunal Superior e ausente a apresentação de documento idôneo, apto a comprovar a tempestividade do reclamo, é impositiva a rejeição do agravo interno, pois operou-se a preclusão consumativa.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DE ADMISSIBILIDADE. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO. PRECEDENTE DA CORTE ESPECIAL. MODULAÇÃO DOS EFEITOS. VÍCIO NÃO SANADO ATÉ A INTERPOSIÇÃO DO AGRAVO INTERNO. PRECLUSÃO CONSUMATIVA. 1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do recurso especial nº 1.813.684/SP (DJe 18/11/2019), manteve o entendimento no sentido de que, sob a vigência do CPC/2015, é necessária a comprovação de feriado local, por meio de documento idôneo, no ato de interposição do recurso, bem como modulou os efeitos dessa decisão para permitir a comprovação posterior, nos recursos interpostos antes da referida publicação. 2. No caso dos autos, a parte recorrente, quando da interposição do agravo interno, deixou, novamente, de comprovar a tempestividade do recurso especial, ensejando, portanto, a ocorrência da preclusão consumativa. 3. Agravo interno a que se nega provimento. (AgInt no AREsp 1555594/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/06/2020, DJe 05/06/2020)
+Anote-se que "É firme o posicionamento desta Corte Superior no sentido de que a comprovação de feriado local deve ser feita por meio de documento idôneo, não servindo cópia de página da rede mundial de computadores." (AgInt no AREsp 1396303/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/06/2020, DJe 17/06/2020).
+No mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE RECURSAL. FERIADO LOCAL. SUSPENSÃO DO PRAZO RECURSAL NÃO COMPROVADA NO ATO DA INTERPOSIÇÃO. NÃO APRESENTAÇÃO DE DOCUMENTO OFICIAL IDÔNEO OU CERTIDÃO EMITIDA PELO TRIBUNAL DE ORIGEM. TABELA COM CONTEÚDO MERAMENTE INFORMATIVO, EXTRAÍDA DA INTERNET. INSUFICIÊNCIA. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos do art. 1.003, § 6º, do CPC/2015, a comprovação da ocorrência de feriado local deve ser feita no ato da interposição do recurso, sendo intempestivo quando interposto fora do prazo previsto na lei processual civil.
+2. A simples cópia de página extraída do sítio eletrônico do Tribunal de origem não é hábil para a comprovação de feriado local e a suspensão dos prazos processuais, sendo, desse modo, inviável a aferição da tempestividade recursal. 3. Agravo interno improvido. (AgInt nos EDcl no AREsp 1539007/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 09/03/2020, DJe 13/03/2020)
+AGRAVO INTERNO NO AGRAVO NO RECURSO ESPECIAL. INTEMPESTIVIDADE DO APELO NOBRE. SUSPENSÃO DOS PRAZOS PROCESSUAIS. NÃO COMPROVADA. DECISÃO DA PRESIDÊNCIA MANTIDA.
+1. Hipótese em que a parte recorrente foi intimada da decisão agravada em 3.4.2017, sendo o recurso especial somente interposto em 26.4.2017.
+2. O recurso é intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c.c. os arts. 1.003, § 5º, 1.029 e 219, caput, todos do Código de Processo Civil.
+3. Conforme jurisprudência do STJ, "A simples cópia de página extraída do sítio do Tribunal local não é hábil para a comprovação de feriado, que deve ser efetivada mediante a apresentação de documento idôneo, como, por exemplo, cópia do ato normativo em que prevista a suspensão ou certidão lavrada pela Corte de origem." (AgInt no AREsp 1555440/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/11/2019, DJe 20/11/2019)
+4. Agravo Interno não provido.
+(AgInt no AREsp 1525211/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/12/2019, DJe 16/12/2019)
+In casu, a parte apresentou, às fls. 342/345 (e-STJ), documento extraído da internet, inapto para comprovar a tempestividade recursal, conforme precedentes acima destacados.
+Uma vez que não foram apresentados documentos hábeis a comprovar a ocorrência de feriados locais ou paralisação de expediente forense local, no intuito de demonstrar a alegada tempestividade do recurso, é de rigor a manutenção da decisão agravada.
+2.Por fim, insta salientar que o juízo de admissibilidade do recurso especial é bifásico, de modo que a decisão proferida pela instância ordinária não vincula esta Corte Superior a quem compete analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial.
+A propósito:
+AGRAVO INTERNO. INTEMPESTIVIDADE DO RECURSO ESPECIAL. SUSPENSÃO DOS PRAZOS PROCESSUAIS NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. ART. 1003. § 6º, CPC/2015. FERIADO LOCAL. RECURSO NÃO PROVIDO.
+1. O juízo de admissibilidade do recurso especial é bifásico. A decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade. Precedentes.
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp 1684240/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/02/2018, DJe 28/02/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.
+INTEMPESTIVIDADE DO APELO ESPECIAL. NOVO CPC/2015. APLICABILIDADE. CONTAGEM DO PRAZO RECURSAL EM DIAS ÚTEIS. JUÍZO DE ADMISSIBILIDADE BIFÁSICO.
+ ..
+2. A existência de certidão do Tribunal de Origem atestando a tempestividade do recurso não tem o condão de vincular o Superior Tribunal de Justiça, a quem compete examinar, em definitivo, os requisitos de admissibilidade do apelo especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1673508/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/09/2017, DJe 13/10/2017)
+3.Do exposto, nego provimento ao agravo interno.
+É como voto.
