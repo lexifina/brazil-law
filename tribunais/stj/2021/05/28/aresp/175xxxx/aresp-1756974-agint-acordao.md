@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo, nos termos do voto do Sr Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino (Presidente), Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. ENTENDIMENTO DA CORTE ESPECIAL. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não impugnou todos os fundamentos da decisão agravada, na medida em que não infirmou o entendimento quanto a incidência das Súmulas nºs282, 284 e 356 do STF, que levaram ao não conhecimento do especial articulado.Inobservância do art. 1.021, § 1º, do NCPC e incidência da Súmula nº 182 do STJ.
+3. Agravo interno não conhecido.
+RELATÓRIO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que IVONE APARECIDA TASE (IVONE)promoveu o cumprimento de sentença contra F. M. MULTIMARCAS COMÉRCIO DE VEÍCULOS LTDA., objetivando o recebimento da indenização fixada judicialmente.
+No curso da demanda, sob a alegação de não pagamento do valor devido, encerramento irregular das atividades, bem como constituição de novas empresas,IVONE ingressou com incidente de desconsideração da personalidade jurídica requerendo a inclusão dos sócios da executada, BRUNO DAOUD MAIA e FÁBIO DAOUD MAIA (BRUNO e outro).
+O d. Juízo de primeira instância deferiu a desconsideração da personalidade jurídica.
+Contra essa decisão, BRUNO e outro interpuseram agravo de instrumento alegando, em síntese, que não basta oinadimplemento e a não localização de bens para que seja desconsiderada a personalidade jurídica.
+O Tribunal de Justiça de São Paulo negou provimento ao agravo de instrumento nos termos do acórdãorelatado pelo Des. L. G. COSTA WAGNER,assim ementado:
+Agravo de instrumento. Ação indenizatória lastreada em relação de consumo. Cumprimento de sentença. Incidente de desconsideração da personalidade jurídica. Infrutíferas todas as medidas de localização de bens passíveis de responder pela dívida.Acolhimento do pleito da agravada para desconsiderar a personalidade jurídica da executada FM Multimarcas Comércio de Veículos Ltda, para estender aos sócios Bruno Daoud Maia e Fábio Daoud Maia a responsabilidade patrimonial da executada no cumprimento de sentença. Insurgência. Inconsistência dos argumentos. Decisão escorreita lastreada nos parâmetros e requisitos estabelecidos pelo art. 50 do CC, cumulados com o art.28, §5º do CDC, que dispensa a presença da confusão patrimonial ou fraude para a desconsideração da personalidade jurídica.Suficiência do inadimplemento cumulado com o óbice da personalidade jurídica em cumprir a sentença. RECURSO DESPROVIDO(e-STJ, fl. 105).
+Inconformados, BRUNO e outro interpuseramrecurso especial com base no art. 105, III, a, da CF, apontando a violação dos arts. 50 do CC/02; 125 e 795 do NCPC,ao sustentarem a ausência de comprovação dos requisitos para a desconsideração da personalidade jurídica.
+Foram ofertadas contrarrazões (e-STJ, fls. 129/137).
+O apelo nobre não foi admitido pelo Tribunal estadual em virtude da a) não demonstração da vulneração dos arts. 50 do CC/02 e 75 e 125, ambos do NCPC; b) incidência da Súmula nº 7 desta Corte (e-STJ, fls. 138/139).
+Seguiu-se o agravo em recurso especial interposto por BRUNO e outroque, em decisão monocrática da relatoria do Ministro Presidente do STJ, foi conhecido para não conhecer do apelo nobre, com amparo no art. 21-E, Vdo RISTJ, diante da a) incidência das Súmulas nºs 282, 284 e 356do STFquanto ao art. 125 do NCPC; e b)incidência da Súmula nº 7do STJ(e-STJ, fls. 169/173).
+Nas razões do presente agravo interno, BRUNO e outro alegaram que não incide a Súmula nº 7 desta Corte, pois desnecessário o reexame de provas.
+Foi apresentada impugnação (e-STJ, fls. 195/208).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. ENTENDIMENTO DA CORTE ESPECIAL. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não impugnou todos os fundamentos da decisão agravada, na medida em que não infirmou o entendimento quanto a incidência das Súmulas nºs282, 284 e 356 do STF, que levaram ao não conhecimento do especial articulado.Inobservância do art. 1.021, § 1º, do NCPC e incidência da Súmula nº 182 do STJ.
+3. Agravo interno não conhecido.
+VOTO
+O recurso não merece conhecimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Incide, ao caso, a Súmula nº 182 do STJ.
+O agravo interno não impugnou todos os fundamentos da decisão agravada,na medida em que não infirmou o entendimento quanto a incidência dasSúmulas nºs 282, 284 e 356 do STF, que levaram ao não conhecimento do especial articulado.
+Isso porque, nas razões do presente agravo interno, BRUNO e outro se limitaramunicamente a afirmar que não incide a Súmula nº 7 desta Corte, pois desnecessário o reexame de provas.
+Vale pontuar que o art. 1.021, § 1º, do NCPC determina que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, o que, como visto, não foi observado no presente caso.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula nº 182 desta Corte, do seguinte teor: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Conforme já decidiu o STJ:
+À luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008)
+Nesse sentido, a Corte Especial, aos 19/9/2018, ao apreciar os EAREsp 746.775/PR, Rel. p/acórdão MINISTRO LUÍS FELIPE SALOMÃO, concluiu que a aplicação da Súmula nº 182 do STJ permanece incólume, aplicada aqui por analogia, pois cabe à parte impugnar, de forma específica, todos os fundamentos da decisão que inadmite o recurso especial.
+Segundo o entendimento exarado em voto pelo MINISTRO LUÍS FELIPE SALOMÃO, existem regras, tanto no Código de Processo Civil de 1973 quanto no atual, que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida. Ademais, citou conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, na medida em que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Além disso, foi também consignado pelo em. Ministro relator que a ausência de impugnação a algum dos fundamentos da decisão, que negou trânsito ao reclamo especial, imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo (EARESP 746.775/PR).
+Em igual sentido, vejam-se precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE INJUNÇÃO. RAZÕES DE RECURSO DISSOCIADAS DOS FUNDAMENTOS SUFICIENTES CONTIDOS NA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. SÚMULA 182/STJ. SÚMULA 284/STF. APLICAÇÃO POR ANALOGIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Não pode ser admitido o agravo interno que não ataca especificamente os fundamentos da decisão agravada e traz razões totalmente dissociadas da decisão contra a qual se insurge, pois fere o disposto no art. 1.021, § 1º, do CPC/2015 (Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada) e na Súmula 182 do STJ (É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada).
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no MI 316/DF, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, j. em 19/2/2020, DJe 11/3/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, §1º, DO CPC E INCIDÊNCIA DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Desse modo, no presente caso, resta caracterizada a inobservância ao disposto no art. 1.021, §1º, do CPC e a incidência da Súmula 182 do STJ.
+ ..
+3. Agravo interno não conhecido, com aplicação de multa.
+(AgInt no AREsp 825.386/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaque no original)
+Assim, porque os argumentos que BRUNO e outro trouxeramnão atacaram os fundamentos da decisão agravada, fica prejudicada sua análise em virtude da não admissão do recurso em razão da incidência da Súmula nº 182 desta Corte.
+Nessas condições, pelo meu voto, NÃO CONHEÇO do agravo interno.
