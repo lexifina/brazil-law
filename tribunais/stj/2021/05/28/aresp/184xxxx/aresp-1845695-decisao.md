@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interposto por BYORI LABORATÓRIO DE HISTOPATOLOGIA E CITOPATOLOGIA S/S LTDA., contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA C/CREPETIÇÃO DE INDÉBITO TRIBUTÁRIO -SOCIEDADE DERESPONSABILIDADE LIMITADA - CARÁTER EMPRESARIAL- IMPOSSIBILIDADE DE ENQUADRAMENTO NOREGRAMENTO DO ISS-FIXO - PRECEDENTES DO EGRÉGIOSUPERIOR TRIBUNAL DE JUSTIÇA E DESTE TRIBUNAL DEJUSTIÇA - RECURSO DESPROVIDO.
+No recurso especial, o recorrente aponta como violados os arts. 489 e 1.022 do CPC/2015, 966 e 983 do Código Civil e 3º e 9º do Decreto-Lei n. 406/1968, sustentando, em síntese, que é devida a cobrança de ISSQN pela alíquota fixa, ainda que a sociedade de médicos tenha optado pela forma de sociedade limitada (LTDA), tendo em vista a ausência de natureza empresarial do negócio.
+Após decisum que inadmitiu o recurso especial, com base na Súmula n. 7 do STJ, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+É irrefutável que o Tribunal de origem, ao analisar o conteúdo fático e probatório dos autos, consignou expressamente que "há previsão no contrato social do autor, ora apelante, de distribuição de lucros entre as sócias - cláusula sétima, mov. 1.2 -, o que se consubstancia em uma característica eminente empresarial de uma sociedade.".
+Dessa forma, para rever tal posição, relativa à constatação da natureza empresarial da sociedade em questão, e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
