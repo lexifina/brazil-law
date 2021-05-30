@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “REPRESENTAÇÃO POR INCONSTITUCIONALIDADE. LEI MUNICIPAL Nº 5.381, DE 21 DE AGOSTO DE 2017, DO MUNICÍPIO DE VOLTA REDONDA, QUE “CRIA O BAIRRO VALE VERDE EM VOLTA REDONDA”. PRELIMINAR AFASTADA. LEI DE EFEITOS SUFICIENTEMENTE ABSTRATOS. POSSIBILIDADE. INICIATIVA PRIVATIVA DO CHEFE DO PODER EXECUTIVO. BAIRRO QUE, PELA REDAÇÃO DO ART. 13 DO PLANO DIRETO DO MUNICÍPIO DE VOLTA REDONDA, REVELA QUE O BAIRRO CONSTITUI DIVISÃO POLÍTICO-ADMINISTRATIVO MUNICIPAL. VERIFICA-SE QUE A MATÉRIA IMPORTA EM ORGANIZAÇÃO DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL, CUJA INICIATIVA DE LEI É PRIVATIVA DO CHEFE DO EXECUTIVO, SEGUNDO A LEI ORGÂNICA DO MUNICÍPIO E A PRÓPRIA CONSTITUIÇÃO ESTADUAL, CONFORME ART. 145. MEDIDA CAUTELAR CONFIRMADA PARA JULGAR PROCEDENTE A REPRESENTAÇÃO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente aponta violação aos arts. 61, § 1º, II, e; e 84, VI, a, da CF.
+    O recurso não deve ser provido, tendo em vista que a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que, de forma inequívoca, não atende ao disposto no art. 543-A, § 2º, do CPC.
+    Como já registrado pelo Supremo Tribunal Federal (STF), a “simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa” (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski).
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso.
+    Publique-se.
+          Brasília, 30 de maio de 2021.
+     Ministro LUÍS ROBERTO BARROSO
+Relator
