@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIVERSIDADE FEDERAL DA PARAÍBA, com respaldo naalínea"a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região (e-STJ fls. 154/155):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. TÉCNICO EM RADIOLOGIA. LEI Nº 8.270/1991.GRATIFICAÇÃO DE RAIO-X. ADICIONAL DE IRRADIAÇÃO IONIZANTE. NATUREZA JURÍDICA DISTINTA. PERCEPÇÃO CUMULATIVA. POSSIBILIDADE. PRECEDENTES DO STJ E DESTE TRIBUNAL. JUROS E CORREÇÃO MONETÁRIA. HONORÁRIOS. APELAÇÃO PARCIALMENTE PROVIDA.
+1. Apelação em face de sentença que julgou improcedente ação ordinária na qual o autor objetiva a percepção cumulativa da Gratificação de Raio-X com o adicional decorrente de exposição à radiação ionizante, previsto no art. 12 § 1º da Lei 8.270/91.
+2. O col. STJ já decidiu que o art. 68, § 1º, da Lei nº 8.112/90, que veda a percepção cumulativa dos adicionais de insalubridade e periculosidade, nada dispõe acerca da impossibilidade de cumulação de gratificações e adicionais, manifestando-se no sentido de ser possível a percepção cumulativa do adicional de irradiação ionizante e da gratificação de Raio X, por possuírem naturezas jurídicas distintas (AGRESP 201100521824, BENEDITO GONÇALVES, STJ - Primeira Turma, DJE DATA:16/08/2011).
+3. Precedentes deste eg. Tribunal: 08014661320134058100 (Desembargador Federal Rogério Fialho Moreira, TRF5 - Quarta Turma) AC 08039385720134058400 (Desembargador Federal Lazaro Guimarães, TRF5 - Quarta Turma); 08002609520124058100 (Desembargador Federal Paulo Machado Cordeiro, TRF5 - Terceira Turma); 08015421220144058000 (Desembargadora Federal Joana Carolina Lins Pereira, TRF5 - Terceira Turma).
+4. No caso vertente, observa-se que o demandante é servidor efetivo da Universidade Federal da Paraíba - UFPB, exercendo o cargo de Técnico em Radiologia no Hospital Universitário Lauro Wanderley - HULW, tendo percebido até o mês de setembro de 2012 o adicional de irradiação ionizante no percentual de 10% (dez por cento), ocasião em que referido adicional foi substituído pela Gratificação de Raio X.
+5. Nos termos da legislação de regência, a Gratificação de Raio X destina-se àqueles servidores que operam com Raios X e substâncias radioativas como parte integrante das atribuições do cargo ou função exercidos, enquanto o adicional por irradiação ionizante consiste em retribuição genérica por risco potencial presente no ambiente de trabalho.
+6. Considerando que o demandante atende aos requisitos previstos na legislação para fazer jus às vantagens em comento, é de se reconhecer o direito ao recebimento do adicional de irradiação ionizante no percentual de 10% (dez por cento), de forma cumulativa com a Gratificação de Raio-X que atualmente recebe, com o pagamento das parcelas atrasadas a contar de outubro/2012, data em que a aludida vantagem foi excluída dos seus vencimentos, respeitada a prescrição quinquenal.
+7. Quanto ao pedido de concessão do adicional no percentual de 20% (vinte por cento), tem-se que não merece acolhida, porquanto dependente da confecção de novo laudo técnico emitido por comissão constituída especialmente para essa finalidade, a teor do disposto no art. 2º do Decreto nº 877, de 20/07/1993.
+8. Correção Monetária e juros de mora nos termos do Manual de Cálculo da Justiça Federal.
+9. Honorários advocatícios fixados no valor de R$ 2.000,00 (dois mil reais) com supedâneo no art. 20, §§ 3º e 4º do CPC.
+10. Apelação parcialmente provida.
+Rejeitados os aclaratórios (e-STJ fls. 187/191 e 211/214).
+Nas suas razões, a parte recorrente apontaviolação dos arts. 1º-F da n. Lei 9.494/1997, 12,capute inciso I, da Lei n. 8.270/1991, 61, IV, e 68 da n. Lei 8.112/1990, sustentando incorreta aplicação do índice de atualização monetária, bem como indevidacumulaçãodo adicional de insalubridade comgratificação de raio X, mormente diante daausênciade laudo pericial.
+Juízo positivo de admissibilidade parcial pelo Tribunal de origem às e-STJ fls. 260/261; no tocante à matéria repetitiva, a inadmissão se deu com fundamento no art. 1.040, I, do CPC/2015.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Quantoàs matérias não abrangidas pela inadmissãocom fundamento no art. 1.040, I, do CPC/2015,no que toca à tese de ausência de laudojustificaro adicional pretendido, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Quanto ao mais, esta Corte SuperiorSTJ entende pelapossibilidade de acumulação pelo servidor público dagratificação de raioX com adicional de irradiação ionizante, uma vez que tais verbaspossuem natureza jurídica distinta.Nesse sentido:
+PROCESSO CIVIL E ADMINISTRATIVO. CÓDIGO DE PROCESSO CIVIL DE 2015.APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF.SERVIDOR PÚBLICO. GRATIFICAÇÃO DE RAIO-X E ADICIONAL DE IRRADIAÇÃO IONIZANTE. PERCEPÇÃO SIMULTÂNEA. POSSIBILIDADE.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 no julgamento do Agravo Interno. II - A jurisprudência desta Corte considera que, quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - É possível a percepção simultânea do adicional de Irradiação Ionizante e da gratificação por trabalho com Raio-X, enquanto estiverem presentes as circunstâncias que as justifiquem.
+Precedentes.
+IV - Recurso especial improvido.
+(REsp 1555952/CE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 08/02/2018, DJe 20/02/2018)
+ADMINISTRATIVO. SERVIDORES PÚBLICOS. GRATIFICAÇÃO DE RAIO X E ADICIONAL DE IRRADIAÇÃO IONIZANTE. ACUMULAÇÃO. POSSIBILIDADE.NATUREZAS JURÍDICAS DISTINTAS.
+1. A jurisprudência do STJ firmou-se no sentido da possibilidade de acumulação pelo servidor público da gratificação de raio X com adicional de irradiação ionizante, por possuírem natureza jurídica distinta.
+2. Recurso Especial não provido.
+(REsp 1659631/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/05/2017, DJe 17/05/2017)
+O aresto hostilizado não diverge daorientação aludida.
+Assim, aplica-se, na hipótese, a Súmula 83 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10%o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
