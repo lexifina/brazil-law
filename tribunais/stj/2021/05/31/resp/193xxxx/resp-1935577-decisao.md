@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição da República) interposto contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. RECONHECIMENTO POR DECISÃO JUDICIAL. CESSAÇÃO DE BENEFÍCIO NA ESFERA ADMINISTRATIVAMENTE ANTES DO TRÂNSITO EM JULGADO. REALIZAÇÃO DE NOVA PERÍCIA. EVIDENTE DESOBEDIÊNCIA AO COMANDO JUDICIAL. RESTABELECIMENTO DEVIDO COM REPERCUSSÃO FINANCEIRA. PAGAMENTO REALIZADO POR MEIO DE PAGAMENTO ALTERNATIVO DE BENEFÍCIOS (PAB). INAPLICABILIDADE DO REGIME DE PRECATÓRIO. ENTENDIMENTO ESCORREITO. DESPROVIMENTO DO RECURSO.
+Os Embargos de Declaração foram rejeitados.
+Aponta a parte recorrente violação, em preliminar, do art. 1.022 do CPC/2015; e, no mérito, dos arts. 70 e 71 da Lei 8.212/1991 e 101 da Lei 8.213/1991.
+Contrarrazões às fls. 601-606, e-STJ.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 19.5.2021.
+Assiste razão à parte recorrente, no que tange à violação do art. 1.022 do CPC/2015.
+Nas razões do Recurso Especial, sustenta-se:
+Assim, a cessação da aposentadoria por invalidez acidentária concedida na presente ação não constitui descumprimento da sentença, mas sim obediência fiel ao disposto na legislação federal, a saber : arts. 70 e 71 da Lei nº 8.212/91 c/c art.101 da Lei nº 8.213/91.
+Vale salientar que o fundamento utilizado pelo juízo de primeiro grau de impossibilidade da autarquia interromper o seu pagamento durante o curso da marcha processual sem a anuência do juízo, não encontra sustentáculo jurídico, sobretudo porque a jurisprudência uníssona do Superior Tribunal de Justiça dispensa o paralelismo das formas:
+(..)
+Nesse passo, cabe à parte recorrida, caso não se conforme com a decisão médico-pericial e se for do seu interesse, insurgir-se contra a mesma através de uma nova ação judicial, uma vez que se trata de ato (a revisão médico-pericial) posterior à decisão judicial proferida na presente ação, avaliando aspectos fáticos (persistência, atenuação ou agravamento da incapacidade) atuais e não da época da propositura do demanda.
+Dessa forma, ao realizar perícia administrativa e proceder a revisão de benefícios por incapacidade o INSS age conforme determinado e permitido em lei, não sendo necessária a comunicação ao juízo para tanto.
+Com efeito, nas razões do Recurso Especial, bem como na petição dos aclaratórios, a parte recorrente destaca a tese jurídica de dispensa de aplicação do princípio do paralelismo das formas nos casos de suspensão ou cancelamento de benefício previdenciário.
+Porém, instada a se manifestar, verifica-se que não houve a análise pela Corte local da questão suscitada pela parte recorrente, o que configura matéria relevante ao deslinde da controvérsia.
+É cediço o entendimento de que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015 e que o juiz não é obrigado a rebater todos os argumentos aduzidos pelas partes. Por outro lado, o juiz não pode deixar de conhecer de matéria relevante ao deslinde da questão, mormente quando sua decisão não é suficiente para refutar a tese aduzida, que, portanto, não abrange toda a controvérsia.
+Reconhece-se, portanto, a existência de omissão no acórdão impugnado e, por conseguinte, a ofensa ao art. 1.022 do CPC. Nesse sentido:
+ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OCORRÊNCIA. MATÉRIA RELEVANTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Assiste razão à parte recorrente, no que tange à violação do art. 1.022 do CPC/2015.
+2. Com efeito, nas razões do Recurso Especial, bem como na petição dos Aclaratórios, a parte recorrente destaca as teses jurídicas de existência de coisa julgada garantindo a apuração dos juros moratórios até o efetivo pagamento da dívida, bem como, sucessivamente, do direito aos juros moratórios vencidos no curso da lide até a data da inscrição do crédito no orçamento.
+3. Porém, instada a se manifestar, verifica-se que não houve análise, pela Corte local, das questões suscitadas pela parte recorrente, o que configura matéria relevante ao deslinde da controvérsia.
+4. É cediço o entendimento de que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015 e que o juiz não é obrigado a rebater todos os argumentos aduzidos pelas partes. Por outro lado, o juiz não pode deixar de conhecer de matéria importante para o deslinde da questão, mormente quando sua decisão não é suficiente para refutar a tese aduzida, que, portanto, não abrange toda a controvérsia.
+5. Recurso Especial provido para determinar o retorno dos autos à origem a fim de que, em novo julgamento dos aclaratórios, o Tribunal a quo se manifeste expressamente acerca das teses jurídicas de existência de coisa julgada, garantindo a apuração dos juros moratórios até o efetivo pagamento da dívida, bem como, sucessivamente, do direito aos juros moratórios vencidos no curso da lide até a data da inscrição do crédito no orçamento.(REsp 1891151/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 12/04/2021)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. SALÁRIO-MATERNIDADE. ART. 1.022 DO CPC. VIOLAÇÃO. OCORRÊNCIA. MATÉRIA RELEVANTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Cuida-se de inconformismo contra acórdão do Tribunal de origem, que indeferiu o pagamento do salário-maternidade, por entender que não se paga o mesmo benefício duas vezes.
+2. Alega a recorrente que o acórdão vergastado partiu de premissa equivocada consequente da falta do correto exame da prova carreada ao feito, ao ter reformado a sentença de primeira instância sob o argumento de que a indenização constante do acordo trabalhista já teria englobado o período de salário maternidade, quando o referido documento é expresso em fazer constar o contrário.
+3. O recurso merece acolhida, ante a aparente violação ao artigo 1.022 do CPC, pela configuração de omissão relevante no julgado, relativa à análise da questão referente ao fato de não ter sido o benefício de salário-maternidade incluído no acordo trabalhista realizado pela parte autora com ex empregador, omissão essa não superada a despeito da oposição de Embargos Declaratórios.
+4. É cediço o entendimento de que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que o juiz não é obrigado a rebater todos os argumentos aduzidos pelas partes. Por outro lado, o juiz não pode deixar de conhecer de matéria relevante ao deslinde da questão, mormente quando sua decisão não é suficiente para refutar a tese aduzida, que, portanto, não abrange toda a controvérsia.
+5. Recurso Especial a que se dá parcial provimento, a fim de anular o v. aresto proferido nos Embargos de Declaração e determinar o retorno dos autos ao Egrégio Tribunal de origem para que profira novo julgamento e aborde a matéria omitida.
+(REsp 1697338/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19/12/2017)
+Ao lume do exposto, dou provimento ao Recurso Especial e determino o retorno dos autos à origem a fim de que, em novo julgamento dos aclaratórios, o Tribunal a quo se manifeste expressamente acerca da tese jurídica de dispensa de aplicação do princípio do paralelismo das formas nos casos de suspensão ou cancelamento de benefício previdenciário.
+Publique-se.
+Intimem-se.
