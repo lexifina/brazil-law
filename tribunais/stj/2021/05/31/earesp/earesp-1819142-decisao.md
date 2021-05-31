@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL interpostos por ROBERTO VIRGINIO DE SOUZA com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em razão da divergência com o REsp n. 1.187.976/SP, proferido pela Sexta Turma, no sentido de que "uma vez reparado o dano integralmente por um dos autores do delito, a causa de diminuição de pena do arrependimento posterior, previsto no art. 16 do CP, estende-se aos demais coautores" (fls. 589).
+Requer, desse modo, o provimento dos presentes embargos de divergência.
+É, no essencial, o relatório. Decido.
+Os embargos não reúnem condições de serem processados.
+Mediante análise dos autos, verificou-se que os embargos de divergência não foram instruídos com a guia de custas e o respectivo comprovante de pagamento, razão pela qual concedi, às fjls. 597/598 prazo para regularização preparo.
+No entanto, embora regularmente intimada, o recolhimento das custas devidas ao STJ foi realizado em desacordo com o disposto na Resolução do STJ vigente, a qual dispõe que no momento do preenchimento da GRU Cobrança deverão ser indicados obrigatoriamente as informações exigidas no formulário eletrônico disponível no sítio do Tribunal (http://www.stj.jus.br), de acordo com o tipo de ação ou recurso escolhido.
+De fato, a parte fez a indicação errônea, no momento do preenchimento do formulário eletrônico, do "tipo de ação ou recurso escolhido", ou seja, ao invés de recolher as custas dos embargos de divergência, fez o recolhimento sob a rubrica diversa (fls. 601).
+Este Superior Tribunal de Justiça consolidou o entendimento no sentido de que a irregularidade no preenchimento das guias do preparo, no ato da interposição dos embargos de divergência, caracteriza a sua deserção. Nesse sentido, os seguintes precedentes: AgInt no RMS 60222/MG, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 28/5/2020; e AgInt no RMS 59457/PA, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 29/5/2020.
+Assim, incide na espécie o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Ademais, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da aplicação da Súmula 182/STJ.
+Nos termos do art. 1.043 do Código de Processo Civil e do art. 266 do Regimento Interno do Superior Tribunal de Justiça, os embargos de divergência são cabíveis contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do Tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito, ou quando, embora não conhecendo do recurso, tenham apreciado a controvérsia (AgInt nos EREsp 1848530/DF, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 01/12/2020, DJe 07/12/2020) .
+Como se vê, não é admissível o recurso de embargos de divergência, quando o acórdão recorrido não tenha apreciado o mérito ou a controvérsia.
+Mencionem-se, ainda, dentre inúmeros outros, os seguintes julgados da Corte Especial: AgInt nos EREsp 1345680/SC, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe de 19/4/2017; e AgInt nos EREsp 1226477/RS, relator Ministro Humberto Martins, Corte Especial, DJe de 26/10/2016.
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
