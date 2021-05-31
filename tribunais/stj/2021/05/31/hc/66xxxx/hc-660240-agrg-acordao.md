@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ALEGAÇÃO DE NULIDADE. INVASÃO DE DOMICÍLIO. DENÚNCIA APÓCRIFA. ASSOCIAÇÃO PARA O TRÁFICO. AUSÊNCIA DE COMPROVAÇÃO DO LIAME SUBJETIVO. PLEITO ABSOLUTÓRIO. PEDIDO DE APLICAÇÃO DA MINORANTE PREVISTA NO ART. 33, $4º, DA LEI ANTIDROGAS. ABRANDAMENTO DO REGIME PRISIONAL. MATÉRIAS ALEGADAS APÓS 7ANOS DO JULGAMENTO DA APELAÇÃO. CONDENAÇÃO TRANSITADA EM JULGADO. INÉRCIA DA DEFESA. TESE NÃO SUSCITADA NO MOMENTO CORRETO. PRECLUSÃO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA-STJ E SUPREMO TRIBUNAL FEDERAL -STF. AGRAVO DESPROVIDO.
+1. Verifica-se, na espécie, preclusão da matéria, em virtude de ter transcorrido mais de 7anos, entre a impetração do mandamus e a sessão de julgamento da apelação em que teria ocorrido a suposta ilegalidade.
+2. Com efeito, a jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental contra decisãona qual rejeitei os embargos de declaração opostos contra decisão em que indeferi liminarmente o habeas corpuspor atacar acórdão prolatado há mais de 7anos, tendo, dessarte, ocorrido a preclusão da matéria (fls. 88/93 e fls. 12/104).
+No presente recurso, a defesa dos agravantespugna pelo conhecimento do writ, ao argumento de que a decisão é injusta sob o prisma jurídico, como também é conflitante com normas vigentes e que regem a matéria.
+Aponta a ocorrência de nulidade absoluta, aduzindo que "a nulidade, em razão da "deficiência de defesa", afeta a estrutura do processo penal, uma vez que ataca um dos seus elementos fundamentais: a defesa. Defesa esta revestida, de caráter fundamental prevista nos artigos 5º, inciso LV"(fl. 111).
+Assevera que o enunciado de n. 523 da Súmulado STFnão restringiu a possibilidade de se reconhecer de ofício adeficiência de defesa, sendo,no entanto, necessária a existência de prova de prejuízo para o réu, o que, no caso, estaria explícito, tendo em vista a violação do domicílio dos agravantes, com amparo em denúncia apócrifa.
+Pretende a absolvição pelo delito de associação para o tráfico de drogas, considerandoque não há a comprovação do liame subjetivo ou prova concreta da estabilidade e permanência entre os acusados, tendo ocorrido o mero concurso de agentes.
+Caso aceitas as teses suscitadas, pretende a revisão da dosimetria da pena, com a aplicação da minorante do art. 33, §4º, da Lei Antidrogas, mencionando que a quantidade de entorpecentes apreendida não é motivação hábil para comprovar a dedicação dos réus a atividades criminosas.
+Pede, por fim, o abrandamento do regime prisional, haja vista que o modo prisional foi estabelecido com base na gravidade abstrata do delito, em afronta aos enunciados ns. 718 e 719 da Súmula do STF e n.440/STJ.
+Busca, dessa forma, o conhecimento do mandamus.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ALEGAÇÃO DE NULIDADE. INVASÃO DE DOMICÍLIO. DENÚNCIA APÓCRIFA. ASSOCIAÇÃO PARA O TRÁFICO. AUSÊNCIA DE COMPROVAÇÃO DO LIAME SUBJETIVO. PLEITO ABSOLUTÓRIO. PEDIDO DE APLICAÇÃO DA MINORANTE PREVISTA NO ART. 33, $4º, DA LEI ANTIDROGAS. ABRANDAMENTO DO REGIME PRISIONAL. MATÉRIAS ALEGADAS APÓS 7ANOS DO JULGAMENTO DA APELAÇÃO. CONDENAÇÃO TRANSITADA EM JULGADO. INÉRCIA DA DEFESA. TESE NÃO SUSCITADA NO MOMENTO CORRETO. PRECLUSÃO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA-STJ E SUPREMO TRIBUNAL FEDERAL -STF. AGRAVO DESPROVIDO.
+1. Verifica-se, na espécie, preclusão da matéria, em virtude de ter transcorrido mais de 7anos, entre a impetração do mandamus e a sessão de julgamento da apelação em que teria ocorrido a suposta ilegalidade.
+2. Com efeito, a jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal.
+3. Agravo regimental desprovido.
+VOTO
+A irresignação não merece prosperar.
+A defesa alega que houve prejuízo à defesa dos agravantes considerando que ocorreu indevida invasão aos seus domicílios, com amparo em denúncia apócrifa, o que acarretaria a nulidade absoluta do feito, alega, outrossim, a inexistência de comprovação da estabilidade e permanência na associação para o tráfico, motivo pelo que pede a absolvição dos agravantes, e, por fim, pleiteia a revisão da reprimenda, com a aplicação da redutora do art. 33, § 4º, da Lei n. 11.343/2006 e a fixação do regime intermediário.
+Contudo, como consignado na decisão agravada,em respeito à segurança jurídica e lealdade processual, a jurisprudência do Superior Tribunal de Justiça tem se orientado no sentido de que asnulidades, ainda que denominadas absolutas, bem como qualquer outra falha ocorrida no julgamento do acórdão atacado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME AMBIENTAL. ALEGADA NULIDADE. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. VÍCIO NÃO ARGUIDO NO MOMENTO OPORTUNO. PRECLUSÃO. AUSÊNCIA DE DEMONSTRAÇÃO DO PREJUÍZO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, há óbice processual ao conhecimento da impetração, tendo em vista que o Tribunal de origem, em nenhum momento, pronunciou-se sobre a aventada nulidade que teria ocorrido em primeira instância, o que impede a sua apreciação diretamente por esta Corte Superior.
+2. "A jurisprudência deste Superior Tribunal de Justiça, em respeito à segurança jurídica e a lealdade processual, tem-se orientado no sentido de que mesmo as nulidades denominadas absolutas também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal. (AgRg no HC 527.449/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 27/8/2019, DJe 5/9/2019)" (AgRg no HC n. 573.794/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 1º/9/2020, DJe 16/9/2020).
+3. "Não se declara nulidade no processo se não resta comprovado o efetivo prejuízo, em obséquio ao princípio pas de nullité sans grief positivado no artigo 563 do Código de Processo Penal e consolidado no enunciado nº 523 da Súmula do Supremo Tribunal Federal" (AgRg no REsp n. 1.726.134/SP, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 22/5/2018, DJe 4/6/2018, grifei).
+4. Agravo regimental desprovido.
+(AgRg no HC 552.243/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 7/12/2020).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DEFENSOR DATIVO. INTIMAÇÃO PESSOAL. ACÓRDÃO QUE JULGOU A APELAÇÃO. AUSÊNCIA DE MANIFESTAÇÃO. PRECLUSÃO. AGRAVO IMPROVIDO.
+1. Não tendo a defesa arguido a nulidade, por ausência de intimação pessoal do defensor dativo, na primeira oportunidade que teve para se manifestar nos autos, aplica-se o instituto da preclusão. Precedentes desta Corte.
+2. A jurisprudência deste Superior Tribunal de Justiça, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal. (AgRg no HC 527.449/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 27/8/2019, DJe 5/9/2019).
+3. Agravo regimental improvido.
+(AgRg no HC 573.794/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA,DJe 16/9/2020).
+RECURSO ORDINÁRIO EM HABEAS CORPUS. DECISÃO DE DESERÇÃO DA APELAÇÃO. ART. 595 DO CPP, VIGENTE À ÉPOCA DOS FATOS. NULIDADE. NÃO ARGUIÇÃO NO MOMENTO OPORTUNO. PRECLUSÃO. RECURSO DESPROVIDO.
+1. Na espécie, diante da notícia de evasão do recorrente, o Juízo de primeiro grau julgou deserta a apelação e determinou expedição de mandado de prisão, bem como a certificação do trânsito em julgado da decisão condenatória, datada de 1998. Cientificada do ato processual, a defesa não se insurgiu. Após mais de 20 anos, a defesa impetra habeas corpus na origem para ter a nulidade reconhecida.
+2. A jurisprudência deste Superior Tribunal de Justiça, "em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal." (AgRg no HC 527.449/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 27/8/2019, DJe 5/9/2019).
+3. Embora o art. 595 do Código de Processo Penal tenha sido revogado pela Lei n. 12.403, de 4 de maio de 2011, no ano da publicação da decisão em debate, referida regra ainda estava em vigor, razão pela qual a decisão que declarou deserta a apelação encontrava-se em consonância com a legislação vigente à época, não havendo que se falar em nulidade.
+4. Recurso desprovido.
+(RHC 109.104/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 23/6/2020).
+Por oportuno, confiram-se, ainda, o seguinte precedente do Supremo Tribunal Federal:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO . HOMICÍDIO QUALIFICADO. ALEGADA AUSÊNCIA DE INTIMAÇÃO PESSOAL DO DEFENSOR DATIVO DA DATA DE JULGAMENTO DA APELAÇÃO. PRECLUSÃO DA MATÉRIA.
+1. A atual jurisprudência do Supremo Tribunal Federal entende que "a nulidade não suscitada no momento oportuno é impassível de ser arguida através de habeas corpus, no afã de superar a preclusão, sob pena de transformar o writ em sucedâneo da revisão criminal" (RHC 107.758, Rel. Min. Luiz Fux).
+2. O defensor dativo foi intimado pessoalmente do resultado do julgamento da apelação e não arguiu, por meio dos instrumentos processuais cabíveis, a nulidade suscitada nesta impetração.
+3. Preclusão da matéria com o trânsito em julgado da apelação.
+4. Habeas Corpus extinto sem resolução de mérito por inadequação da via processual. Cassada a liminar deferida.
+(HC 102.077/SP, Rel. Ministro ROBERTO BARROSO, PRIMEIRA TURMA, DJe 1º/4/2014).
+Na hipótese, o presente writ ataca acórdão prolatado há mais de 7anos.
+Com efeito, o Tribunal de origem julgou a apelação dos ora agravantes em 13 de setembro de 2013, sendo que somente no dia 16 de abril de 2021 foi impetrado o presente mandamus, o qual não pode ser conhecido, em decorrência da preclusão da matéria.
+Assim, considerando o longo decurso de tempo sem que tenha sido alegada qualquer nulidade, deve ser afastada a existência de flagrante ilegalidade a justificar a concessão da ordem de ofício, porquanto a jurisprudência é pacífica neste sentido, mesmo em se tratando das denominadas nulidades absolutas, ou qualquer outra falha ocorrida no acórdão impugnado.
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
