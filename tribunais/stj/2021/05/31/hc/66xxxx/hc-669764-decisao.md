@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JONATHOS BAHIA LIMAapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ(Apelaçãon. 0010279-15.2018.8.14.0013).
+Depreende-se dos autos que o paciente foi condenado, juntamente com outros corréus, pela prática dos delitos de tráfico de drogas e organização criminosa (art. 33 da Lei n. 11.343/2006 e 2º, §§3º e 4º, da Lei n. 12.850/2013), às penas de 13 anos, 11 meses e 15 dias de reclusão, em regime fechado, mais pagamento de 510 dias-multa, sendo negado o direito de apelar em liberdade.
+As defesas interpuseram recurso de apelação, os quais foram desprovidos em acórdão cuja ementa foi assim definida (e-STJ fls. 87/88):
+APELAÇÕES CRIMINAIS. ORGANIZAÇÃO CRIMINOSA VOLTADA PARA O TRÁFICO DE DROGAS. PRELIMINAR. NULIDADE DO PROCESSO POR INCOMPETÊNCIA MATERIAL DO JUÍZO DA VARA DE COMBATE AO CRIME ORGANIZADO. REJEIÇÃO. MÉRITO. ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. IMPROCEDÊNCIA. MATERIALIDADE E AUTORIAS COMPROVADAS. READEQUAÇÃO DAS PENAS. NÃO ACOLHIMENTO. APELAÇÕES CONHECIDAS E DESPROVIDAS. DECISÃO UNÂNIME.
+1. "Nos termos da orientação jurisprudencial desta Corte, o acusado se defende dos fatos narrados na denúncia e não da capitulação jurídica nela contida, podendo o magistrado, por ocasião do julgamento da lide, conferir- lhes definição jurídica diversa. (..) não há violação ao princípio da correlação, porquanto não houve a imputação de qualquer fato novo, havendo apenas, por ocasião das alegações finais do Ministério Público, a recapitulação jurídica dos fatos já trazidos na exordial acusatória. (AgRg no AREsp 1143469/PB, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 24/04/2018, DJe 11/05/2018).
+1.1. No caso, apesar de não haver, nos termos do relatório da autoridade policial e da denúncia referência expressa à Lei nº 12.850/2013, a descrição, na inicial, da existência de uma estrutura criminosa composta por 04 (quatro) pessoas, devidamente ordenada e caracterizada pela divisão de tarefas, com objetivo de obter vantagem financeira proveniente do tráfico de drogas, evidencia a existência de organização criminosa, nos termo do art. 1º da Lei nº12.850/2013.
+1.2. Rejeita-se a preliminar de nulidade processual por incompetência absoluta do Juízo, tendo em vista que compete privativamente à Vara de Combate ao Crime Organizado o processamento e julgamento dos crimes praticados por organização criminosa. Resolução nº 008/2013-GP.
+2. É inviável o acolhimento do pedido absolutório quando a materialidade e autoria dos crimes restaram cristalinamente demonstradas nos autos, inclusive pelas provas periciais e orais produzidas sob o crivo do contraditório e da ampla defesa, impondo-se, assim, a manutenção das condenações.
+3. A correção da análise das circunstâncias judiciais do art. 59 do Código Penal se faz necessária para efeitos meramente didáticos, uma vez que o quantum aplicado na sentença recorrida se mostra adequado aos fins a que se destina.
+4. A condenação pelo crime de Organização Criminosa (art. 2º da Lei nº 12.850/13) é suficiente para afastar a aplicação da causa especial de diminuição de pena contida no § 4º do art. 33, na medida em que deixa inconteste a dedicação do agente à atividade criminosa. (AgRg no AREsp 1035945/RJ, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 15/03/2018, DJe 27/03/2018).
+5. Apelações desprovidas. Decisão unânime.
+Nestewrit, a defesa, inicialmente, tece considerações acerca dos fatos tidos por delituosos, e sustenta que a decisão que manteve a prisão preventiva do paciente carece de fundamentação idônea.
+Aduz que "o Paciente não representa qualquer perigo a ordem pública, conforme seu histórico de vida e os documentos anexados a este remédio constitucional, o paciente não é e nunca foi criminoso, não tem relação com o crime organizado, tão pouco tem a criminalidade como estilo de vida, ao revés, o Paciente trabalha e sempre trabalhou no município de Capanema PA para se manter e ajudar sua família" (e-STJ fl. 14).
+Assere que o paciente possui condições pessoais favoráveis, não havendo qualquer risco de fuga ou qualquer outro ato que prejudique a aplicação da lei penal (e-STJ fls. 17/18).
+Requer,liminarmente e no mérito, a expedição de alvará de soltura em benefício do paciente, a fim de que possa recorrer em liberdade.
+É o relatório.
+Decido.
+O habeas corpus não comporta conhecimento.
+Com efeito, da leitura do acórdão ora impugnado, tem-se que o Tribunal de origem nem sequer apreciou a controvérsia acerca da prisão preventiva do paciente, o que impede a análise do tema diretamente por esta Corte, sob pena de indevida supressão de instância e violação dos princípios do devido processo legal e duplo grau de jurisdição.
+Nesse sentido:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido.(RHC 68.025/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/05/2016, DJe 25/05/2016)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
