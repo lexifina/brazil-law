@@ -1,0 +1,34 @@
+DECISÃO
+SAULO DE BRITO JÚNIOR  interpõe  recurso  especial,  fundado  no  art.  105,  III,  "a",  da  Constituição  Federal,  contra  acórdão  do  Tribunal  de Justiça do Estado de Santa Catarina na  Apelação  Criminal  n.  0900123-83.2015.8.24.0072.
+O  recorrente  foi  condenado pelo crime do art. 2º, II, da Lei n. 8.137/1990, em continuidade delitiva, à pena de 8 meses de detençãomais 13dias-multa, em regime inicial aberto. A sanção foi substituída por umarestritivade direitos (prestação pecuniária).
+A  defesa  alega  violação  do s  arts.  386, III e IV, do Código de Processo Penal, e 2º, II, da Lei n. 8.137/1990. Sustenta a absolvição do acusado por atipicidade da conduta ou pelo reconhecimento da causa supralegal de exclusão de culpabilidade (inexigibilidade de conduta diversa).
+O  Ministério  Público  Federal , em parecer daSubprocuradora-Geral da República Luiza Cristina Fonseca Frischeisen, às fls. 353-356, opinou  pelo  não conhecimento do recurso especial.
+Decido.
+I. Não admissibilidade do recurso especial
+Conforme antes relatado, o recorrente  foi  condenado pelo crime do art. 2º, II, da Lei n. 8.137/1990. A acusação é de que "nos períodos de fevereiro, março, maio, junho e julho de 2014, não recolheu aos cofres públicos, no prazo determinado pelo art. 60 do RICMS/01, os valores apurados e declarados" (fl. 157).
+A defesa alega atipicidade da conduta, ao argumento de que "quando tratar-se de ausência de recolhimento de ICMS próprio, como in casu, não há de se falar de tributo descontado ou cobrado, restando ausente a tipicidade da conduta" (fl. 312).
+O Tribunal de origem consignou (fls. 219-222):
+ ..
+Embora não se desconheça a existência de divergências doutrinária e jurisprudencial sobre o tema, esclareço que muito embora o ICMS seja tributo cobrado do consumidor no momento em que adquire algum bem ou serviço, o réu, na condição de sócio administrador da empresa, é considerado sujeito passivo da obrigação de recolher o imposto.
+ ..
+Trata-se, portanto, de crime que se consuma com a simples omissão do contribuinte de direito em repassar aos cofres públicos o tributo já descontado do consumidor final.
+Neste caso, quando não há o repasse aos cofres públicos, verifica-se a inversão da posse, configurando-se a apropriação indébita.
+Por tais razões, não merece acolhimento a tese de atipicidade da conduta, quando houve o recolhimento do tributo do contribuinte de fato (consumidor) e que estava sob cuidados do contribuinte de direito (empresário) para oportuno repasse aos cofres públicos.
+O legislador penal não instituiu o tipo penal em comento com o fim de arrecadar tributos ao Estado, mas sim evitar a sonegação fiscal com que o Estado deixe de prover o bem público que é fonte da sua existência.
+Conforme destacado pelo acórdão impugnado, a Terceira Seção do STJ, no julgamento do HC n. 399.109/SC, após amplo debate enfrentado em questão de ordem. Assim, adoto por referência, para evitar repetição inútil, as razões de decidir do julgado, ao qual me reporto.
+Para a configuração do delito em apreço, o fato de o agente registrar, apurar e declarar em guia própria ou em livros fiscais o imposto devido não tem o condão de elidir ou exercer nenhuma influência na prática do ilícito, visto que este não pressupõe a clandestinidade nem a fraude.
+O sujeito ativo do delito é aquele que ostenta a qualidade de sujeito passivo da obrigação tributária, conforme claramente descrito pelo art. 2º, II, da Lei n. 8.137/1990, que exige, para sua configuração, seja a conduta dolosa (elemento subjetivo do tipo), consistente na consciência (ainda que potencial) de não recolher o valor do tributo devido. A motivação não possui importância no campo da tipicidade; por opção do legislador, é prescindível a existência de elemento subjetivo especial.
+A descrição típica contém a expressão "descontado ou cobrado", o que, indiscutivelmente, restringe a abrangência do sujeito ativo do delito, porquanto nem todo sujeito passivo de obrigação tributária que deixa de recolher tributo ou contribuição social responde pelo crime do art. 2º, II, da Lei n. 8.137/1990, mas somente aqueles que "descontam" ou "cobram" o tributo ou contribuição.
+A interpretação consentânea com a dogmática penal do termo "descontado", contudo, é a de que ele se refere aos tributos diretos quando há responsabilidade tributária por substituição, enquanto o termo "cobrado" deve ser compreendido nas relações tributárias havidas com tributos indiretos (incidentes sobre o consumo), de maneira que não possui relevância o fato de o ICMS ser próprio ou por substituição, porquanto, em qualquer hipótese, não haverá ônus financeiro para o contribuinte de direito.
+Os termos "descontado ou cobrado" não correspondem, tecnicamente, ao fenômeno tributário originado pela relação jurídica que serve de substrato para a conduta descrita no tipo penal. Com efeito, nenhum sujeito passivo de obrigação tributária (direto ou indireto) "desconta" ou "cobra" tributo; na verdade, ele retém.
+Assim, seria inviável a absolvição, pois é típica a conduta de deixar de repassar ao fisco o ICMS incidente em cada operação comercial, que não integra o patrimônio do empresário e, portanto, foi indevidamente apropriado em detrimento dos cofres públicos.
+Dessa forma, é forçoso reconhecer que a Corte antecedente decidiu em consonância com jurisprudência majoritária desta Corte Superior, o que inviabiliza a análise da pretensão pelo disposto na Súmula n. 83 do STJ.
+II. Inexigibilidade de conduta diversa - Súmula n. 7 do STJ
+A parte alega, ainda, que seja reconhecida a excludente de culpabilidade relativa à inexigibilidade de conduta diversa. Ressaltou "as graves dificuldades financeiras enfrentadas pela pessoa jurídica, não tinha esta outra alternativa senão deixar de pagar a moratória fiscal" (fl. 315).
+Em relação ao tema em discussão, a Corte antecedentes destacou que "a má situação financeira da pessoa jurídica não exclui a ilicitude ou a culpabilidade" (fl. 227).
+Evidente que há a possibilidade de reconhecimento do estado de necessidade ou da inexigibilidade de conduta diversa (excludente de culpabilidade) em crimes contra a ordem tributária, contudo, a medida é excepcional e não se coaduna com as hipóteses de continuidade delitiva, como a verificada nos autos.
+Em outras palavras, a sonegação fiscal tem de ser o último recurso utilizado pelo empresário, de forma pontual e não por longos períodos, de forma sistemática, como opção de financiar a continuidade da atividade em detrimento da arrecadação tributária.
+Na hipótese dos autos, não há elementos suficientes que permitam uma análise mais apropriada da situação invocada pela defesa e, por essa razão, a pretensão demandaria incursão no acervo fático-probatório, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+III. Dispositivo
+À  vista  do  exposto,  não  conheço  do  recurso  especial.
+Publique-se  e  intimem-se.
