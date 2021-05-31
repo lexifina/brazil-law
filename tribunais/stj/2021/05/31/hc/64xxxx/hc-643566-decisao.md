@@ -1,0 +1,29 @@
+DECISÃO
+FÁBIO APARECIDO DE SOUSA BARRETO alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0004638-07.2020.8.26.0154.
+A defesa aduz que o paciente não é reincidente específico na prática de crime hediondo e que, por isso, deve ser adotado o lapso de cumprimento de 40% previsto no art. 112, V, da LEP. Argumenta que a redação do art. 112, VII, do mesmo diploma legal, permite concluir que o cumprimento do lapso de 60% da pena é necessário somente para o reincidente específico.
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 130-134).
+Decido.
+Consoante se extrai dos autos, o réu não é reincidente específico em crime hediondo. O Tribunal de origem assentou que (fls. 67-69, grifei):
+Segundo informações constantes nos autos, Fábio Aparecido de Sousa Barreto cumpre atualmente a pena de 05 (cinco) anos de reclusão pela prática do crime previsto no artigo 33, "caput", da Lei Federal 11343/2006, tendo sido fixado o regime prisional fechado para o início de cumprimento da pena corporal aplicada (fls. 23/24).
+O término de cumprimento da reprimenda está previsto para 29 de janeiro de 2025.
+Além disso, acessado o Sistema SIVEC, verifica-se que o recorrente possui condenação anterior pela prática do delito de furto (Processo 1500109-51.2019.8.26.0558).
+ ..
+A reincidência genérica já legitima a utilização da fração/percentual mais gravoso no caso, já que a LEP afirma ser possível progressão com o percentual de 40% do cumprimento da reprimenda, apenas, para as hipóteses de apenado primário, o que não é o caso do agravado.
+A reincidência não é circunstância do crime. Trata-se de atributo pessoal do sentenciado que interfere na execução, como um todo, e não somente nas penas em que ela foi reconhecida. O apenado passa a ostentar a condição de reincidente em relação a todas as execuções penais que tramitam em seu desfavor e, inexistindo no texto do artigo 112 da LEP o termo "reincidente específico", a aplicação das frações previstas nos incisos IV, VII e VIII se baseia na recidiva, independentemente da natureza do crime anterior.
+ ..
+Ante o exposto, pelo meu voto, DOU PROVIMENTO ao recurso interposto pelo Ministério Público do Estado de São Paulo para ser retificado o cálculo, fixando-se o lapso de 60%, equivalente à fração de 3/5 (três quintos), para fins de previsão do lapso de cumprimento da pena necessário para a progressão de regime.
+A esse respeito, é imperioso ressaltar que, após as alterações promovidas pela Lei n. 13.964/2019, tornaram-se cruciais para a avaliação do lapso de progressão de regime fatores além da hediondez - quais sejam, a ocorrência ou não do resultado morte e a primariedade, a reincidência genérica ou, ainda, a reincidência específica do apenado.
+Na hipótese, o paciente foi condenado por crime comum e por crime hediondo, de modo que se trata de reincidente genérico. Todavia, os patamares definidos pela legislação atual não contemplam tal hipótese, ou seja, há uma lacuna legal. Nos termos do art. 112, V, VI, "a", e VII, da Lei de Execução Penal:
+A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+ ..
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário;
+VI - 50% (cinquenta por cento) da pena, se o apenado for: a) condenado pela prática de crime hediondo ou equiparado, com resultado morte, se for primário, vedado o livramento condicional;
+ ..
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado.
+Dessa forma, dado que a lei não dispõe sobre o lapso de progressão para condenado pela prática de crime hediondo e reincidente genérico, é necessário suprir a lacuna legal, o que se dá por meio da aplicação do patamar referente ao condenado primário, visto que o percentual de 50% se destina aos delitos hediondos que resultam em morte da vítima, diferentemente dos autos, além do fato de o patamar de 60%, como já apontado pela defesa, fazer referência apenas aos reincidentes específicos, situação também diversa da apresentada.
+Urge consignar:
+ ..  o ato jurídico perfeito e a retroatividade da lei penal mais benéfica são direitos fundamentais de primeira geração, previstos nos incisos XXXVI e XL do art. 5º da Constituição Federal. Por se tratarem de direitos de origem liberal, concebidos no contexto das revoluções liberais, voltam-se ao Estado como limitadores de poder, impondo deveres de omissão, com o fim de garantir esferas de autonomia e de liberdade individual (HC n. 583.837/SC, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 12/8/2020).
+Assim, dadas as ponderações acima, concluo que a hipótese em análise trata de lei penal mais benéfica ao apenado, de forma que é mister o reconhecimento de sua retroatividade, porquanto o percentual por ela estabelecido - 40% das reprimendas impostas - é inferior à fração de 3/5, anteriormente exigida para a progressão de condenados por crimes hediondos, sejam reincidentes genéricos, sejam específicos.
+Por fim, destaco que a Terceira Seção do STJ, no julgamento dos Recursos Especiais Representativos de Controvérsias n. 1.910.240/MG e 1.918.338/MT, de minha relatoria, realizado em 26/5/2021, assentou a seguinte tese: "É reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante".
+À vista do exposto, concedo o habeas corpus para determinar que seja estabelecido o percentual previsto no art. 112, V, da Lei de Execução Penal, qual seja, de 40% para a progressão da pena.
+Publique-se e intimem-se.
