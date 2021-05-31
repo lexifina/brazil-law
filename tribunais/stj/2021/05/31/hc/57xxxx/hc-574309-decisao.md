@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ANTONIO MARCO BRAGA CAMPOS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 0042042-59.2020.8.21.7000).
+O paciente foi preso preventivamente, em 13/10/2016, tendo sidocondenado, em primeira instância, pela prática do delito descrito no art. 35, caput, da Lei n. 11.343/2006, às penas de 5 anos e 6 meses de reclusão no regime fechado e de 880 dias-multa, nos termos da sentença proferida em 10/6/2019. Na ocasião, foi-lhe negado o direito de recorrer em liberdade.
+A apelação interposta pela defesa foi distribuída ao relator em 7/10/2020, estando ainda pendente de julgamento.
+Impetrado writ originário, a ordem foi denegada.
+A defesa aduz constrangimento ilegal da prisão preventiva, que já dura mais de 4 anos, havendo, também e principalmente, excesso de prazo para o julgamento da apelação.
+Requer, liminarmente e no mérito, a concessão de liberdade ao paciente com ou sem aplicação de medidas cautelares alternativas.
+A liminar foi indeferida (fls. 120-122).
+As informações foram prestadas (fls. 130-174 e 177-181).
+O Ministério Público Federal opinou não conhecimento do writ (fl. 183).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição a recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, o pleito formulado no presente writ é dotado de plausibilidade jurídica, circunstância que autoriza a atuação ex officio.
+No tocante à alegada demora no julgamento da apelação pelo Tribunal a quo, esclareça-se que "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso do processo.
+Na situação em apreço, o paciente encontra-se segregado desde o dia 13/10/2016e já houve condenação, conforme sentença proferida em 10/6/2019, à pena de 5 anos e 6 meses de reclusão em regime inicial fechado, tendo sido negado ao paciente o direito de recorrer em liberdade. Interposta apelação contra a sentença, encontra-se pendente de julgamento desde a distribuição do feito, ocorrida em 7/10/2020.
+Por sua vez, o recurso de apelação, que fora incluído na pauta de15/1/2021, foi retirado em 26/1/2021.
+Nesse contexto, diante das informações dos autos, considerando a pena aplicada, o regime inicial imposto, a inexistência de complexidade do feito, o tempo transcorrido entre a segregação cautelar e a presente data, a demora do julgamento do recurso apelatório ou a ausência de previsão de data para que ocorra, está evidente o excesso de prazo na tramitação do processo.
+A propósito, a prisão preventiva deve ser considerada a ultima ratio do processo penal, devendo-se priorizar a aplicação das demais medidas cautelares previstas no art. 319 do CPP, quando se adequarem ao caso concreto.
+Confira-se este precedente:
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. CRIMES CONTRA A ORDEM TRIBUTÁRIA. CORRUPÇÃO ATIVA. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO. DESPROPORCIONALIDADE. CONSTRANGIMENTO ILEGAL CARACTERIZADO. RECURSO PROVIDO.
+1. A segregação preventiva, como medida cautelar acessória e excepcional, que tem por escopo, precipuamente, a garantia do resultado útil da investigação, do posterior processo-crime, da aplicação da lei penal ou, ainda, da segurança da coletividade, exige a efetiva demonstração do periculum libertatis e do fumus comissi delicti, nos termos do art. 312 do CPP.
+2. Com o advento da sistemática trazida pela Lei n. 12.403/2011, a custódia preventiva passou a ser considerada ultima ratio, devendo-se priorizar a aplicação das demais medidas cautelares previstas no art. 319 do CPP. A constrição cautelar da liberdade somente é admitida quando restar claro que tal medida é o único meio cabível para proteger os bens jurídicos ameaçados, em atendimento ao princípio da proibição de excesso.
+3. No caso em exame, a submissão do recorrente às medidas cautelares previstas no art. 319 do CPP, menos gravosas que o encarceramento, é adequada e suficiente para restabelecer ou garantir a ordem pública, assegurar a higidez da instrução criminal e a aplicação da lei penal, notadamente aquelas previstas nos incisos I (comparecimento periódico em juízo), IV (proibição de ausentar-se da Comarca sem autorização do Juízo) e IX (monitoração eletrônica).
+4. O recorrente possui condições pessoas totalmente favoráveis, vale dizer, tem residência fixa, família constituída, é primário, não ostenta maus antecedentes, é acusado de praticar delito sem violência ou grave ameaça e encontra-se encarcerado há um ano. Além disso, parece apresentar grave estado de saúde, consoante relatório médico juntado aos autos.
+5. Recurso provido para revogar a prisão preventiva imposta ao recorrente, mediante a aplicação das medidas cautelares previstas no art. 319 do CPP. (RHC n. 117.163/CE, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 12/11/2019.)
+Assim, não obstante a constatação de excesso de prazo, diante do pleito de substituição da medida constritiva por cautelar alternativa apresentado pela defesa, bem como da reprovabilidade das condutas imputadas ao paciente, é viável sua submissão às medidas cautelares previstas no art. 319 do CPP.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, mas concedo a ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, para determinar a expedição de alvará de soltura em favor do paciente, se por outro motivo não estiver preso, a fim de que possa aguardar em liberdade o julgamento final do feito,mediante monitoração eletrônica e comparecimento ao Juízo a cada 10 dias, abstendo-se ainda de ausentar-se da comarca sem autorização,sem prejuízo de fixação, de forma fundamentada, de outras medidas alternativas peloJuízo do processo.
+Comunique-se com urgência ao Juízo de primeira instância e ao Tribunal de origem.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
