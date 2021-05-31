@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiuRecurso Especial interposto (art. 105, III, "a", da Constituição Federal de 1988) contra acórdão assim ementado (fl. 404, e-STJ):
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. REMESSA OFICIAL E APELAÇÃO CÍVEL.REVISÃO DA RMI. CONVERSÃO DE TEMPO DE SERVIÇO ESPECIAL. RUÍDO.HISTOGRAMA. INEXIGIBILIDADE. HABITUALIDADE E PERMANÊNCIA. USO DE EPI. INAFASTABILIDADE DO DIREITO. HONORÁRIOS. ATUALIZAÇÃO DO DÉBITO. LEI Nº 11.960/2009.
+I. "A TERCEIRA SEÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA FIRMOU ORIENTAÇÃO DE QUE É TIDA POR ESPECIAL A ATIVIDADE EXERCIDA COM EXPOSIÇÃO A RUÍDOS SUPERIORES A 80 DECIBÉIS ATÉ A EDIÇÃO DO DECRETO 2.171/1997. APÓS ESSA DATA, O NÍVEL DE RUÍDO CONSIDERADO PREJUDICIAL É O SUPERIOR A 90 DECIBÉIS. COM A ENTRADA EM VIGOR DO DECRETO 4.882, EM 18.11.2003, O LIMITE DE TOLERÂNCIA AO AGENTE FÍSICO RUÍDO FOI REDUZIDO PARA 85 DECIBÉIS." (STJ, RESP 1397783. Rel. Ministro HERMAN BENJAMIN. DJE: 17/09/2013.).
+II. "O TEMPO DE SERVIÇO É DISCIPLINADO PELA LEI VIGENTE À ÉPOCA EM QUE EFETIVAMENTE PRESTADO, PASSANDO A INTEGRAR, COMO DIREITO AUTÔNOMO, O PATRIMÔNIO JURÍDICO DO TRABALHADOR. A LEI NOVA QUE VENHA A ESTABELECER RESTRIÇÃO AO CÔMPUTO DO TEMPO DE SERVIÇO NÃO PODE SER APLICADA RETROATIVAMENTE." (STJ. AGRESP 924827. Rel. Ministro GILSON DIPP.DJE: 06/08/2007.).
+III. Comprovado que o segurado esteve exposto, de modo habitual e permanente, ao agente agressivo ruído acima de 90 decibéis nos períodos indicados na ação, deve ser reconhecido o exercício de atividades especiais, com direito à conversão do tempo de serviço e revisão da RMI do benefício desde a DER, ocorrida em 27/06/08.
+IV. Constatado que a legislação previdenciária não faz qualquer exigência quanto à apresentação de histograma e medições de ruído ao longo de todo o tempo de labor e, ainda, que o tempo de trabalho permanente a que se refere o parágrafo 3º do artigo 57 da Lei nº 8.213/91 é aquele continuado, não o eventual ou intermitente, não implicando em obrigatoriedade a submissão ao risco de forma ininterrupta, durante todo o período da jornada de trabalho, deve ser rejeitada a impugnação aos laudos apresentados.
+V. Verificado que a verba honorária foi fixada em consonância com o disposto no art. 20, § 4º, do CPC, vigente à época da prolação do julgado, deve ser mantida a condenação.
+VI. Diante de condenações não tributárias impostas à Fazenda Pública, deverão incidir sobre os valores atrasados juros de mora de 1% (um por cento) ao mês e correção monetária pelos índices oficiais de inflação, de acordo com o Manual de Cálculos da Justiça Federal, até a entrada em vigor da Lei nº 11.960/2009, a partir de quando passam a incidir os índices oficiaisde remuneração básica (TR) e juros aplicados à caderneta de poupança, conforme dispõe o seu art. 5º, isto até a modulação pelo STF dos efeitos das decisões proferidas nas ADIs nºs 4.357/DF e 4.425/DF, quando deve-se afastar a TR e aplicar-se, para fins de correção monetária, o Índice de Preços ao Consumidor Amplo Especial (IPCA-E).
+VII. Por ocasião do cumprimento da sentença, cabe ao Juízo da execução determinar o bloqueio dos valores referentes à correção monetária do período posterior a 25/03/2015, precisamente a diferença entre o valor decorrente da atualização feita com a TR e o valor em que utilizado o IPCA-E como índice, até que o STF encerre o julgamento do RE nº 870.947/SE, permitindo, assim, a devolução dos valores ao Erário, caso seja alterado o entendimento hoje adotado.
+VIII. Apelação Cível a que se nega provimento e Remessa Oficial a que se dá parcial provimento.
+Sustenta o recorrente:
+No que toca aos critérios de juros e de correção monetária, SEM QUE HOUVESSE RECURSO DA PARTE BENEFICIADA, o acórdão recorrido aumentou a condena- ção, afastando o critério antes adotado, da Lei 11.960/2009 até 2015, para adotar-se outro, mais gravoso ao devedor, sem que tivesse havido recurso por parte do credor. Tampouco poderia o credor servir-se do reexame necessário para obter uma majoração do valor dos honorários de advogado, nos termos da Súmula 45 do STJ.
+Os autos foram devolvidos ao Tribunal de origem em virtude de a matéria ter sido submetida ao julgamento no Rito dos Recursos Repetitivos e, posteriormente, julgado em juízo de retratação pelo Tribunal de origem (fls. 854-865, e-STJ), regressa ao STJ para análise das demais matérias.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 5.5.2021.
+A irresignação não merece prosperar.
+Assim decidiu o Tribunal de origem (fl. 754, e-STJ):
+Por ocasião do cumprimento da sentença, na esteira do supracitado entendimento do STJ, cabe ao Juízo da execução determinar o bloqueio dos valores referentes à correção monetária do período posterior a 25/03/2015, precisamente a diferença entre o valor decorrente da atualização feita com a TR e o valor em que utilizado o IPCA-E como índice, até que o Supremo encerre o julgamento do RE nº 870.947/SE, permitindo, assim, a devolução dos valores ao Erário, caso seja alterado o entendimento hoje adotado.
+Observa-se que a parte recorrente não rebate a fundamentação destacada acima, o que torna deficiente a fundamentação recursal, uma vez que apresenta razões dissociadas da argumentação acima exposta, colaciona precedentes que não se assemelham ao seu caso.
+Assim, permitem-se aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+Nessa esteira:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE INDENIZAÇÃO - DECISÃO MONOCRÁTICA - SÚMULA N. 284 DO STF - AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente caso, a parte aponta negativa de vigência ao art. 458 do CPC, porém, limita-se a atacar, em suas razões recursais, a excessividade do quantum fixado a título de dano moral. Assim, a deficiência da fundamentação do apelo extremo não permite a exata compreensão da controvérsia, estando escorreita sua inadmissibilidade.
+2. A ausência de indicação expressa do ponto do decisum que confronta os dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 41.941/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 29/05/2013).
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. ART. 407 DO CÓDIGO CIVIL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. ART. 406 DO CÓDIGO CIVIL. JUROS MORATÓRIOS. TAXA LEGAL. FUNDAMENTO NÃO ATACADO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+3. Embargos de declaração acolhidos parcialmente para sanar omissão apontada, sem, entretanto, emprestar-lhes efeito modificativo. (EDcl no AgRg no Ag 1089538/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 09/09/2011).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REVISIONAL. COMISSÃO DE PERMANÊNCIA E TAXA DE ABERTURA DE CRÉDITO. DECISÃO MANTIDA. RAZÕES DESASSOCIADAS DOS FUNDAMENTOS DA ADOTADOS PELA DECISÃO IMPUGNADA. INCIDÊNCIA DA SÚMULA 284 DO STF.
+(..)
+3. O agravante que, em sede de agravo, se aventura em alegações outras que não seja a impugnação, de forma clara e específica, dos fundamentos adotados na decisão monocrática terá sua argumentação considerada deficiente por razões desassociadas, o que enseja a aplicação da inteligência da Súmula 284 do STF, caso dos autos.
+4. Agravo regimental não provido.
+(AgRg nos EDcl no REsp 1357144/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 29/04/2013).
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor das agravantes, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Por tudo isso,conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intime-se.
