@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por HDI SEGUROS S.A., com fulcro no art. 105, inciso III, "a" e "c", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de Santa Catarinaassim ementado:
+"APELAÇÃO CÍVEL. AÇÃO REPARATÓRIA DE DANOS. ACIDENTE DE TRÂNSITO. SENTENÇA DE IMPROCEDÊNCIA.APELO DOS REQUERENTESCOLISÃO ENTRE CAMINHÃO E MOTOCICLETA. CRUZAMENTO NÃO SINALIZADO. PROVA TESTEMUNHAL SEGURA QUANTO À PRIORIDADE DE PASSAGEM. RUA, PELA QUAL VINHA A AUTORA, QUE ERA, COSTUMEIRAMENTE, CONHECIDA E RESPEITADA COM PREFERENCIAL. REGRA DE EXPERIÊNCIA. APLICAÇÃO. CONDUTOR QUE SURGE DE UMA ESTRADA DE TERRA DEVE DAR PREFERÊNCIA ÀQUELE QUE VEM PELA VIA PAVIMENTADA. ART. 18, II DO DECRETO Nº 86.714 DE 1981 (CONVENÇÃO SOBRE TRÂNSITO VIÁRIO). EXCEÇÃO À REGRA DO ART. 29, III, "C", DO CTB. ADEMAIS, CAMINHÃO QUE DIRIGIA NA CONTRAMÃO DE SUA DIREÇÃO. CULPA EXCLUSIVA DO REQUERIDO CONFIGURADA.
+DANO MORAL QUE, EM ACIDENTE DE TRÂNSITO QUE GERA LESÃO À INTEGRIDADE FÍSICA, É INERENTE À CONDUTA. QUANTUM INDENIZATÓRIO QUE DEVE OBSERVAR A EXTENSÃO DA LESÃO SOFRIDA E SUAS CONSEQUÊNCIAS. FIXAÇÃO COM BASE NOS PARÂMETROS ADOTADOS POR ESTE ÓRGÃO FRACIONÁRIO.
+PENSÃO MENSAL. EXEGESE ART. 950 DO CÓDIGO CIVIL. PEDIDO SUBSISTENTE. INCAPACIDADE LABORATIVA TOTAL PERMANENTE DA VÍTIMA APURADA EM PERÍCIA TÉCNICA.
+CONSTITUIÇÃO DE CAPITAL. MEDIDA QUE VISA ASSEGURAR O PAGAMENTO DA PENSÃO MENSAL. ACOLHIMENTO. EXEGESE DO ART. 533 DO CPC E DA SÚMULA 313 DO STJ.
+LUCROS CESSANTES. MARIDO DA VÍTIMA QUE, EM DEPOIMENTO PESSOAL, ADMITE QUE CONTINUOU RECEBENDO SEU SALÁRIO MENSAL, NO PERÍODO EM QUE ACOMPANHOU A ESPOSA NO HOSPITAL, TENDO APENAS DEIXADO DE AUFERIR COMISSÕES. PRETENSÃO EXORDIAL E DO APELO QUE NÃO CONTEMPLA O RECEBIMENTO DE COMISSÕES, LIMITANDO-SE A PLEITEAR O QUE DEIXOU DE RECEBER A TÍTULO DE REMUNERAÇÃO FIXA. IMPOSSIBILIDADE DE ARBITRAMENTO DOS LUCROS CESSANTES.
+DANOS MATERIAIS. DESPESAS COM REMÉDIOS E MATERIAL ORTOPÉDICO SATISFATORIAMENTE COMPROVADAS. PREJUÍZOS MATERIAIS SUPORTADOS PELOS REQUERENTES EM RAZÃO DO SINISTRO. RESSARCIMENTO DEVIDO.
+ÔNUS DE SUCUMBÊNCIA. INVERSÃO. SENTENÇA REFORMADA. SUCUMBÊNCIA EXCLUSIVA DA REQUERIDA UMA VEZ QUE OS AUTORES DECAÍRAM DE PARTE MÍNIMA DO PEDIDO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS JÁ CONSIDERANDO O LABOR NA FASE RECURSAL. RECURSO CONHECIDO E PARCIALMENTE PROVIDO"(fls. 1.264/1.265, e-STJ).
+Os embargos de declaração opostos foram parcialmente acolhidos, com a seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. ACIDENTE DE TRÂNSITO.
+CULPA. ALEGAÇÃO DE OMISSÃO NO TOCANTE AO BOLETIM DE OCORRÊNCIA. INSUBSISTÊNCIA. ACÓRDÃO RECORRIDO QUE CONCLUIU QUE A PROVA TESTEMUNHAL ERA ENFÁTICA EM AFIRMAR QUE A PRIORIDADE DE PASSAGEM PERTENCIA À AUTORA, POR SER A RUA QUE TRANSITAVA, COSTUMEIRAMENTE, CONHECIDA E RESPEITADA COMO VIA PREFERENCIAL. CULPA EXCLUSIVA DA PARTE RÉ EVIDENCIADA NO ARESTO. EMBARGOS NÃO ACOLHIDOS NO PONTO.
+AVENTADA AUSÊNCIA DE INDICAÇÃO DA RUBRICA RESPONSÁVEL PELO PENSIONAMENTO E PELAS DESPESAS MÉDICAS FIXADAS. OMISSÃO VERIFICADA. OBRIGAÇÕES QUE DEVEM SER ALOCADAS NA RUBRICA RELATIVA AOS DANOS MATERIAIS. PRECEDENTES DESTA CORTE.
+ALEGADA OMISSÃO ACERCA DO SALÁRIO MÍNIMO A SER UTILIZADO PARA O CÁLCULO DA PENSÃO MENSAL. INOCORRÊNCIA. ACÓRDÃO QUE FOI EXPRESSO AO ESTABELECER QUE A PENSÃO CORRESPONDENTE À INDENIZAÇÃO ORIUNDA DE RESPONSABILIDADE CIVIL DEVERIA SER CALCULADA COM BASE NO SALÁRIO MÍNIMO VIGENTE AO TEMPO DO EVENTO. REAJUSTES POSTERIORES QUE DECORREM DA LEI.
+OMISSÃO APONTADA TAMBÉM NO TOCANTE AOS HONORÁRIOS ADVOCATÍCIOS INCIDENTES SOBRE A PENSÃO MENSAL. ACOLHIMENTO. VERBA HONORÁRIA QUE DEVE INCIDIR SOBRE O IMPORTE CORRESPONDENTE ÀS PARCELAS VENCIDAS E UMA ANUIDADE DAS VINCENDAS DO PENSIONAMENTO, BEM COMO SOBRE AS DEMAIS CONDENAÇÕES JÁ FIXADAS NO ACÓRDÃO.
+ALEGAÇÃO DE QUE A DECISÃO EMBARGADA SE MOSTROU OMISSA NO TOCANTE À FORMA DE ATUALIZAÇÃO DAS IMPORTÂNCIAS SEGURADAS. INSUBSISTÊNCIA. ACÓRDÃO EMBARGADO DEVIDAMENTE FUNDAMENTADO E EXPRESSO QUANTO À INCIDÊNCIA DE JUROS E CORREÇÃO MONETÁRIA NAS CONDENAÇÕES ARBITRADAS. OMISSÃO NÃO VERIFICADA.
+ACLARATÓRIOS CONHECIDOS E ACOLHIDOS PARCIALMENTE COM EFEITOS INFRINGENTES" (fls. 1.307/1.308, e-STJ).
+No recurso especial, a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 1.022, II, e 489, § 1º, IV, do Código de Processo Civil de 2015 e 394, 757 e 760 do Código Civil, argumentando, em síntese:
+(i) haver omissão e contradição no acórdão recorrido;
+(ii) que "os valores das coberturas incidentes no caso deverão, pois, receber tão somente correção monetária a partir da contratação, sem incidência de juros de mora, vez que mora não há quanto ao segurador (que não cometeu nenhum ilícito, respondendo, tão só, nos limites do contrato com o segurado)" (fls. 1.330/1.331, e-STJ),e
+(iii) que o pensionamento e o ressarcimento das despesas médico-hospitalares devem ser inseridos na cobertura de danos corporais,não de danos materiais.
+Apresentadas contrarrazões (fls. 1.393/1.396, e-STJ), o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar em parte.
+Constata-se que a alegação de negativa de prestação jurisdicional merece prosperar, visto que a Corte local permaneceu silente quanto aos pontos suscitados a respeito da incidência dos consectários legais sobre os valores da apólice, não obstante a oposição de declaratórios.
+O art. 1.022, parágrafo único, II, do Código de Processo Civil de 2015, remetendo-se ao art. 489, § 1º, IV, determina que é omissa a decisão que "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador".
+Assim, não tendo o tribunal local enfrentado questão necessária ao deslinde da controvérsia, resta impossibilitado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a transgressão ao art. 1.022 do Código de Processo Civil de 2015 a fim de anular o acórdão recorrido para suprir a omissão existente.
+A propósito:
+"AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE E INDENIZAÇÃO DE DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO DO ART. 1022 DO CPC/2015. CONFIGURADA. RECURSO PROVIDO. RETORNO DOS AUTOS À ORIGEM. NOVO JULGAMENTO.
+1. O propósito recursal consiste em infirmar decisão monocrática que, reconhecendo a violação do art. 1.022 do CPC/2015, cassou o acórdão que julgou os embargos de declaração opostos pelas recorrentes e determinar o retorno dos autos ao Tribunal de origem, a fim de que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos.
+2. Ação declaratória e de indenização por danos morais, ajuizada pelas agravadas em face do agravante, em que pleiteiam a inexigibilidade da cobrança de mensalidade pelo Clube, bem como a condenação em danos morais pela mencionada cobrança.
+3. A existência de omissão e/ou contradição relevante à solução da controvérsia, não sanada pelo Tribunal de origem, caracteriza violação do art. 1.022 do CPC/2015.
+4. Agravo interno em recurso especial não provido" (AgInt no REsp 1.733.413/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 24/06/2019, DJe 26/06/2019).
+"AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. RECUPERAÇÃO JUDICIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO. OFENSA AOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. CONFIGURAÇÃO. RETORNO DOS AUTOS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Configurada a ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tem-se correto o parcial provimento do recurso especial interposto pela agravada em virtude da necessidade de que o tribunal de origem se manifeste acerca das questões suscitadas nos embargos de declaração ante a relevância da omissão apontada.
+3. Agravo interno não provido"(AgInt no AgInt no REsp 1.829.014/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/04/2020, DJe 27/04/2020).
+Ante o exposto, dou parcial provimento ao recurso especial, a fim de determinar o retorno dos autos ao tribunal de origem para que seja apreciada a matéria suscitada nos declaratórios de fls. 1.301/1.303 (e-STJ), como entender de direito.
+Publique-se.
+Intimem-se.
