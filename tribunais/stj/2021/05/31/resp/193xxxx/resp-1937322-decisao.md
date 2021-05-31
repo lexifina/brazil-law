@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de Recurso Especial interposto contra acórdão do Tribunal de Justiça do Estado de Tocantins assim ementado:
+EMENTA. APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - MULTA APLICADA PELO PROCON - REGULARIDADE DO PROCESSO ADMINISTRATIVO - VALOR FIXADO DENTRO DOS PARÂMETROS LEGAIS - APELO DESPROVIDO.
+1 - É cediço que a atuação do Poder Judiciário no controle dos atos administrativos se restringe ao aspecto da legalidade, sendo-lhe defeso adentrar no mérito da decisão administrativa para alterar sua conclusão, sob pena de indevida ingerência no mérito administrativo.
+2 - A Reclamação F.A. nº 0312-010.231-9, tramitou junto ao PROCON na forma exigida pela lei, pois foram observados o contraditório e a ampla defesa, não ostentando a penalidade administrativa aplicada em R$ 12.767,92 (doze mil, setecentos e sessenta reais e noventa e dois centavos), indícios de desproporcionalidade, capazes de ensejar a sua nulidade.
+3 - Ademais, a decisão proferida no processo administrativo foi suficientemente motivada, pois considerou que a penalidade do auto de infração resultou da reclamação movida pelo consumidor junto aquele órgão de defesa, na medida em que teve seu nome incluído no cadastro de devedores sem que tivesse sequer contratado os serviços da empresa autuada, somado ao fato de que empresa autuada é reincidente e não demonstrou nenhum interesse na resolução do caso do consumidor, vez que deixou de tomar providências para mitigar as consequências do ato lesivo.
+4 - Apelação a que se nega provimento.
+A parte recorrente alega:
+Sendo assim, vê-se claramente que a questão aqui tratada versa a patente e clara violação ao artigo 489, §1º, inciso IV do Código de Processo Civil; aos artigos 12 e 13 do Decreto 2.181/97; ao artigo 14, §3º, inciso II e 39 do Código de Defesa do Consumidor, bem como ao artigo 188, inciso I do Código Civil, que manteve a aplicação de multa sem que houvesse qualquer violação a Legislação Consumerista ou ilícito praticado pela RECORRENTE.(..)
+Todavia, para o reconhecimento da ilegalidade da multa aplicada é imprescindível que os fundamentos dos atos administrativos sejam analisados pelo Poder Judiciário, sobretudo no que concerne a averiguação de sua legalidade, não só para evitar arbitrariedades, como também eventual violação aos princípios da proporcionalidade e razoabilidade.
+(..)
+Veja que no presente caso, a aplicação da multa ocorreu tão somente em razão de fato de terceiro, notadamente decorrente de fraude, de sorte que de modo algum poderia ser caracterizado como violação aos dispositivos constantes do Código de Defesa do Consumidor, bem como aos do Decreto nº 2.181/97.
+(..)
+Isto porque, o artigo 18, inciso I, do Decreto Federal nº2.181/972 prevê a possibilidade de aplicação de multa tão somente em virtude da inobservância das normas contidas na Lei 8.078/1990, a qual não restou configurada no caso concreto:
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 11/5/2021.
+A irresignação não merece prosperar.
+Inicialmente constato que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 1.486.330/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24/2/2015; AgRg no AREsp 694.344/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2/6/2015; EDcl no AgRg nos EAREsp 436.467/SP, Rel. Ministro João Otávio De Noronha, Corte Especial, DJe 27/5/2015.
+Dessarte, como se observa de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.A mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração, recurso que se presta a sanar os vícios previstos no art. 1.022 do CPC/2015, pertinentes à análise dos temas trazidos à tutela jurisdicional no momento processual oportuno.
+Ademais, a indicada afronta aos dispositivos de lei federal tido por violados não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo. Incide, na espécie, a Súmula 211/STJ.
+Por fim, assim decidiu o Tribunal de origem:
+Impende ressaltar que a Reclamação F.A. nº 0312-010.231-9, tramitou junto ao PROCON na forma exigida pela lei, pois foram observados o contraditório e a ampla defesa, não ostentando a penalidade administrativa aplicada indícios de desproporcionalidade, não existindo vícios capazes de ensejar sua nulidade.
+Ademais, a decisão proferida no processo administrativo foi suficientemente motivada, pois considerou que a penalidade do auto de infração resultou da reclamação movida pelo consumidor junto aquele órgão de defesa, na medida em que teve seu nome incluído no cadastro de devedores sem que tivesse sequer contratado os serviços da empresa autuada.
+De fato, o valor da multa encontra-se dentro dos parâmetros legais, previstos no artigo 56 e 57, do Código de Defesa do Consumidor e das disposições contidas no Decreto Federal nº 2.181/97, tendo sido observado ainda na instância administrativa que a empresa autuada é reincidente e não demonstrou nenhum interesse na resolução do caso do consumidor, vez que deixou de tomar providências para mitigar as consequências do ato lesivo. Como se vê, a Corte de origem, com base nos elementos fático-probatórios dos autos, entendeu que há elementos suficientes para a caracterização do ato ímprobo e que não houve cerceamento de defesa.
+Infirmar as conclusões das instâncias ordinárias, de modo a acolher a pretensão, na via do Recurso Especial, encontra óbice na Súmula 7/STJ.
+A propósito, confira-se o seguinte precedente:
+PROCESSUAL CIVIL E TRIBUTÁRIO. REQUISITOS DA CDA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ALÍNEA "C". PREJUDICADA.
+1. Não há como aferir eventual concordância da CDA com os requisitos legais exigidos sem que se analise o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional do STJ, encontra óbice na sua Súmula 7, cuja incidência é induvidosa no caso.
+2. O reexame do conjunto fático-probatório da causa obsta a admissão do Recurso Especial tanto pela alínea "a" quanto pela "c" do permissivo constitucional. Recurso Especial não conhecido (REsp 765.505/SC, Rel. Ministra Nancy Andrighi, Terceira Turma, DJ 20-3-2006).
+3. Agravo Regimental não provido.
+(AgRg no AREsp 582.345/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 9/12/2014)
+Considerando o previsto no Enunciado Administrativo 7/STJ, condeno a recorrente ao pagamento de honorários advocatícios de 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+Saliente-se que os §§ 3º e 11 do art. 85 do CPC/2015 estabelecem teto de pagamento de honorários advocatícios quando a Fazenda Pública for sucumbente, o que deve ser observado quando a verba sucumbencial é acrescida na fase recursal, como no presente caso.
+Diante do exposto, conheço parcialmente do Recurso Especial, somente quanto à violação ao art. 1.022 do CPC, e, nessa parte, nego-lhe provimento.Honorários advocatícios majorados no importe de 10% (dez por cento) do valor já arbitrado.
+Publique-se.
+Intime-se.
