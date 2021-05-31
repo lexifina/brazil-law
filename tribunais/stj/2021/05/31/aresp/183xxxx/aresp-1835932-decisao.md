@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL S.A. contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a",da Constituição Federal, foi interposto contra acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO POR AUSÊNCIA DE DIALETICIDADE. REJEIÇÃO. ALEGAÇÃO DE ABATIMENTO DA INDENIZAÇÃO. AUSÊNCIA DE COMPROVAÇÃO NA FASE DE CONHECIMENTO. COISA JULGADA. PRÉVIA LIQUIDAÇÃO PARA AFERIÇÃO DOS VALORES A SEREM EXECUTADOS. DESNECESSIDADE. APURAÇÃO DO VALOR QUE DEPENDE APENAS DE SIMPLES CÁLCULO ARTIMÉTICO (ART. 509, § 2º, DO CPC). SUSPENSÃO DA EXECUÇÃO. RECURSO CONHECIDO E IMPROVIDO.
+1. Não há ofensa ao princípio da dialeticidade recursal quando o agravante se insurge contra os pontos específicos da decisão com os quais discorda.
+2. Na impugnação ao cumprimento de sentença somente podem ser levantadas matérias relativas a causas modificativas ou extintivas da obrigação, como pagamento, novação, compensação, transação ou prescrição, desde que supervenientes à sentença (art. 525, § 1º, VII, do CPC). O agravante deveria ter comprovado, na fase de conhecimento, que houve o abatimento da indenização pelo Proagro, o que não fez naquela oportunidade, tanto que a ação foi julgada procedente, impondo-se o reconhecimento da coisa julgada sobre a matéria.
+3. Desnecessária a prévia liquidação para aferição dos valores a ser executados, porque a liquidação de sentença somente tem cabimento quando a decisão exequenda não determinar o valor devido e não puder ser ele quantificado por cálculo aritmético (art. 509, § 2º, do CPC), não sendo esta a hipótese dos autos.
+4. Carece de qualquer respaldo a pretensão do banco agravante no sentido de suspender o processo no estágio em que se encontra até o julgamento dos recursos interpostos pela União Federal no STJ.
+5. A atribuição de efeito suspensivo aos Embargos de Divergência interpostos pela União Federal, no REsp nº 1.319.232-DF, no qual se discute a legalidade da correção monetária e juros de mora em condenações impostas à Fazenda Pública, em nada afeta a condenação do banco agravante na ação civil pública, porquanto este é o único réu no cumprimento individual provisório de sentença coletiva, de modo que não há qualquer impedimento ao prosseguimento da fase executiva na origem. Além disso, o cumprimento da sentença é provisório e, em caso de eventual reforma da sentença, o exequente será responsável pela reparação dos danos que o executado haja sofrido (art. 520, I, do CPC).
+6. Agravo de instrumento conhecido e improvido" (fls. 127-128, e-STJ).
+Os embargos declaratórios foram rejeitados (fl. 189, e-STJ).
+No recurso especial, orecorrente alega que houveviolação dos arts. 300, 489, 509, 524, 525 e 1.022 do Código de Processo Civil de 2015. Sustenta, em síntese, que o aresto recorrido foi omisso e que houve excesso de execução.
+Inadmitido na origem, apresentou-se o presente agravo em recurso especial.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+Inicialmente, observa-se que, no caso em apreço, as questões trazidas aos autos foram devidamente analisadas e discutidas, e fundamentado corretamente o aresto impugnado, de modo a exaurir a prestação jurisdicional, não há falar em violação dos arts. 489 e 1.022 do CPC/2015.
+Ademais, registra-se a fundamentação do acórdãoestadual ao dirimir a controvérsia:
+"(..)
+Da análise aos autos originários, a priori, entendo pela desnecessidade de prévia liquidação para aferição dos valores a ser executados, porque a liquidação de sentença somente tem cabimento quando a decisão exequenda não determinar o valor devido e não puder ser ele quantificado por cálculo aritmético, conforme dispõe o art. 509, § 2º, do CPC.1
+Na hipótese dos autos, não se faz necessária a liquidação da sentença por qualquer das modalidades previstas na lei, haja vista que a apuração do quantum debeatur pode ser realizada por meio de simples cálculo aritmético, como apresentado pelo agravado (evento 01, ANEXO PET INI6, dos autos originários).
+(..)
+No tocante à alegação de não abatimento da indenização pelo Proagro, tenho que em fase de impugnação de cumprimento de sentença somente podem ser levantadas matérias relativas a causas modificativas ou extintivas da obrigação, como pagamento, novação, compensação, transação ou prescrição, desde que supervenientes à sentença, conforme dispõe o art. 525, § 1º, VII, do CPC.
+Com efeito, o agravante deveria ter comprovado, na fase de conhecimento, que houve o abatimento da indenização pelo Proagro, o que não fez naquela oportunidade, tanto que a ação foi julgada procedente, impondo-se o reconhecimento da coisa julgada sobre a matéria.
+Ademais, registro que carece de qualquer respaldo a pretensão do banco agravante no sentido de suspender o processo no estágio em que se encontra até o julgamento dos recursos interpostos pela União Federal no STJ.
+Isso porque a atribuição de efeito suspensivo aos Embargos de Divergência interpostos pela União Federal, no REsp nº 1.319.232-DF, no qual se discute a legalidade da correção monetária e juros de mora em condenações impostas à Fazenda Pública, em nada afeta a condenação do banco agravante na ação civil pública, porquanto este é o único réu no cumprimento individual provisório de sentença coletiva. Por tal razão, não há qualquer impedimento ao prosseguimento da fase executiva na origem.
+Além disso, conforme bem pontuou o magistrado de origem, o cumprimento da sentença é provisório, de modo que, nos termos do art. 520, I, do CPC, eventual reforma da sentença implicará na responsabilidade do exequente de reparar os danos que o executado haja sofrido" (fls. 100-101, e-STJ - grifou-se).
+Nesse contexto, não é possível a este Tribunal Superior apreciar o entendimento exarado na origem, porquanto teria que, necessariamente, rever o contexto fático-probatório dos autos, procedimento inviável nesta via extraordinária, consoante disposto na Súmula nº 7/STJ.
+Por fim, no tocante à necessidade de suspensão do feito, observa-se que o recorrente nãoimpugnou integralmente a fundamentaçãodo tribunal local, o que atrai, por analogia, o óbice da Súmulanº 283/STF.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois o recurso tem origem em decisão sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
