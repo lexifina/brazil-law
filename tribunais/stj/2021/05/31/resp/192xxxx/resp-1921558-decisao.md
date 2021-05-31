@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se deRecurso Especial (art. 105, III, "a" e "c", da CF/1988) interposto contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado (fl. 295, e-STJ):
+PREVIDENCIÁRIO. AGRAVO INTERNO. INSURGÊNCIA AO JULGAMENTO MONOCRÁTICO. QUESTÃO SUPERADA EM RAZÃO DA APRECIAÇÃO DA MATÉRIA PELO ÓRGÃO COLEGIADO. AUXÍLIO-RECLUSÃO. DECISÃO MONOCRÁTICA MANTIDA. BENEFÍCIO INDEVIDO.
+- A alegação de que não é cabível o julgamento monocrático no caso presente resta superada, frente à apresentação dos recursos para julgamento colegiado.
+- Expressamente fundamentados na decisão impugnada os motivos da improcedência do pedido.
+- Inadimplemento do requisito da baixa renda. Último rendimento auferido pelo segurado preso supera o limite estabelecido pela Portaria MPS/MF n.º 13 de 09/01/2015.
+- Ainda que a diferença seja módica, de R$ 18,36, não pode servir de justificativa para se desconsiderar os termos da legislação previdenciária.
+- Não cabe ao Judiciário criar condições não previstas na legislação para a de benefícios previdenciários a situações nele não previstas, resvalando na extensão subjetividade do julgador que pode acarretar em prejuízo ao princípio da igualdade e da segurança jurídica.
+- Agravo desprovido.
+A parte recorrente alega violação do art.80 da Lei8.213/1991 e do art. 116 do Decreto3.048/1999. Afirma (fls. 312-314, e-STJ, grifos no original):
+No caso dos autos, a dependência econômica é presumida e está comprovada, tendo em vista que a autora, menor impúbere, é filha do segurado preso (id. 71914637). Do mesmo modo, inquestionável a manutenção da qualidade de segurado do recluso, ao tempo da prisão, ocorrida em 25/03/2015 (id. 71914647), na medida que estava trabalhando na empresa RETIFICA DE MOTORES BELNELLO LTDA.-ME (cf. CNIS id. 71914645).
+Por fim, o último salário-de-contribuição integral do recluso antes do encarceramento foi R$ 1.108,08 (Id. 71914645). Vigorava, à época, a Portaria Interministerial MTPS/MF nº 13, de 09/01/2015 que previa como limite para baixa renda o valor de R$ 1.089,72. Assim, o ultimo salário de contribuição integral do segurado, é irrisoriamente superior ao parâmetro prevista na referida Portaria, sendo esta diferença apenas de R$ 18,36.
+Todos esses fatos são incontroversos e foram reconhecidos pelo colegiado, cingindo-se o presente recurso à caracterização da baixa renda.
+Isso porque, apesar do último salário integral do recluso ter sido nominalmente superior ao limite, o valor excedido, de meros de R$ 18,36 (dezoito reais e trinta e seis centavos), representa quantia absolutamente irrisória, de modo que é possível afirmar que, em termos substanciais, considerando-se o poder de compra da moeda, na prática não houve excesso algum.
+Ademais, deve-se considerar que a finalidade do auxílio-reclusão é manter um benefício que ampare os dependentes do segurado recluso que contribuía para a Previdência Social, com o objetivo de promover a observância de princípios da razoabilidade e da dignidade da pessoa humana.
+Assim, especificamente quanto ao requisito econômico, há que se aplicar com PARCIMÔNIA o disposto no artigo 116 do Decreto nº 3.048/1999, de modo que valores que superam minimamente o teto legal devem ser desconsiderados, em observância aos princípios da razoabilidade e da dignidade da pessoa humana.
+A respeito, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o benefício do auxílio-reclusão tem por finalidade a proteção social, motivo pelo qual É POSSÍVEL A FLEXIBILIZAÇÃO DO CRITÉRIO ECONÔMICO ABSOLUTO PREVISTO NA LEGISLAÇÃO PREVIDENCIÁRIA
+(..)
+Nesses termos, é firme a conclusão de que, no caso dos autos, estão presentes os requisitos para a concessão do benefício de auxílio-reclusão.
+Sem contrarrazões, conforme a certidão da fl. 352, e-STJ.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 354-357, e-STJ).
+O Ministério Público Federal, na pessoa da Subprocuradora-Geral da República Sandra Cureau, opinou pelo provimento do recurso (fls. 394-398, e-STJ). Eis a ementa do parecer:
+RECURSO ESPECIAL. PREVIDENCIÁRIO. AUXÍLIO- RECLUSÃO. REQUISITOS. LIMITE DE RENDIMENTOS.
+I - POSSIBILIDADE DE FLEXIBILIZAÇÃO DO CRITÉRIO ECONÔMICO.HIPÓTESE EM QUE O SALÁRIO DE CONTRIBUIÇÃO DO SEGURADO ULTRAPASSA O LIMITE LEGAL EM VALOR IRRISÓRIO. PRECEDENTES.
+II - PARECER PELO PROVIMENTO DO RECURSO ESPECIAL.
+É orelatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 10/5/2021.
+O Recurso Especial merece prosperar, pois a jurisprudência do STJ admite a flexibilização do critério econômico para a concessão do auxílio-reclusão, notadamente quando a diferença entre a remuneração do preso e o teto legal for ínfimo, como ocorre no presente caso.A propósito:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUXÍLIO-RECLUSÃO. FLEXIBILIZAÇÃO DO CRITÉRIO ECONÔMICO ABSOLUTO PREVISTO NA LEGISLAÇÃO PREVIDENCIÁRIA, AINDA QUE O SALÁRIO DE CONTRIBUIÇÃO DO SEGURADO SUPERE O VALOR LEGALMENTE FIXADO COMO CRITÉRIO DE BAIXA RENDA. POSSIBILIDADE. PREVALÊNCIA DA FINALIDADE DE PROTEÇÃO SOCIAL DA PREVIDÊNCIA SOCIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. CABIMENTO. AGRAVO INTERNO CONTRA DECISÃO FUNDAMENTADA NAS SÚMULAS 83 E 568/STJ (PRECEDENTE JULGADO SOB O RITO DOS RECURSOS REPETITIVOS). MANIFESTA IMPROCEDÊNCIA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. CABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado.In casu, aplica-se o Código de Processo Civil de 2015.
+II - É possível a flexibilização do critério econômico definidor da condição de baixa renda, para efeito de concessão do auxílio-reclusão, quando na análise do caso concreto restar demonstrado a necessidade de proteção social dos dependentes do segurado recluso.
+III -In casu, o salário-de-contribuição do segurado recluso ultrapassou em valor ínfimo o limite normativo para o período - somente R$ 2,69 (dois reais e sessenta e nove centavos) - o que autoriza a flexibilização do critério de renda do instituidor do benefício.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Honorários recursais. Cabimento.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta improcedência do recurso a autorizar sua aplicação.
+VII - Considera-se manifestamente improcedente e enseja a aplicação da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 nos casos em que o Agravo Interno foi interposto contra decisão fundamentada em precedente julgado sob o rito dos Recursos Repetitivos (Súmulas ns. 83 e 568/STJ).
+VIII - Agravo Interno improvido, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(AgInt nos EDcl no REsp 1.741.600/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 4/4/2019)
+PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO. QUALIDADE DE SEGURADO. DEPENDÊNCIA ECONÔMICA. FLEXIBILIZAÇÃO DO CRITÉRIO ECONÔMICO. PROTEÇÃO SOCIAL DOS DEPENDENTES DO SEGURADO. POSSIBILIDADE. JURISPRUDÊNCIA DO STJ.
+1.Hipótese em que o Tribunal de origem concluiu: "nos termos da IN 77/2015, para ter direito ao beneficio, a renda mensal do(a) detento(a) deveria ser inferior a R$ 1.025,81, à época da prisão (art. 13 da EC 20/98). O recluso estava empregado quando do encarceramento. Mantinha vínculo com a empresa CEI Comércio e Instalações Elétricas desde 16/06/2014, registro de salário em CTPS de R$ 1.067,00. A remuneração constante do sistema CNIS é parcial, de R$ 533,50. Assim, deve ser utilizada a renda constante da CTPS.Mesmo se verificada a última remuneração integral, relativa ao vínculo anterior (03/03/2014 a 28/05/2014, empresa Sullivan Stefani), o limite estaria extrapolado, já que a remuneração foi de R$ 1.111,32 em abril/2014. Ultrapassado o limite legal para o recebimento do beneficio, em qualquer das hipóteses acima, com o que o beneficio não pode ser concedido" (fl. 133, e-STJ).
+2. A jurisprudência do STJ assentou que os requisitos para a concessão do benefício devem ser verificados no momento do recolhimento à prisão, em observância ao princípiotempus regit actum. A questão foi pacificada após o julgamento do REsp 1.485.416/SP, submetido à sistemática dos Recursos Especiais Repetitivos.
+3. O Superior Tribunal de Justiça entende ser cabível a flexibilização do critério econômico para deferimento do beneficio de auxílio-reclusão, ainda que o salário de contribuição do segurado supere o valor legalmente fixado como critério de baixa renda, quando for necessária a proteção social dos dependentes do segurado, como no caso dos autos. No mesmo sentido: AREsp 589.121/SP, Relatora Ministra Assusete Magalhães, DJe 28/4/2015; REsp 1.694.029/SP, Rel. Min. Mauro Campbell Marques, DJe de 12/9/2017; REsp 1.754.722/PR, Rel. Ministro Mauro Campbell Marques, DJe 24/8/2018; REsp 1.742.998/RS, Min. Sérgio Kukina, 13/06/2018; REsp 1.656.708/SP, Min. Mauro Campbell Marques, 7/4/2017; AREsp 585.428/SP, Min. Regina Helena Costa, 17/9/2015; AREsp 590.864/SP, Min. Sérgio Kukina, 14/8/2015.
+3. Recurso Especial provido.
+(REsp 1.759.338/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 04/2/2019)
+Na mesma linha:REsp 1.932.743/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 3/5/2021.
+Diante do exposto,dou parcial provimento ao Recurso Especial para determinar o retorno dos autos à origem para analisar o direito à concessão do auxílio-reclusão à luz do entendimento de flexibilização do critério econômico, ora definido.
+Publique-se.
+Intimem-se.
