@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) aplicação da Súmula n. 7/STJ e (b) falta de comprovação do dissídio jurisprudencial, por inexistência de cotejo analítico(e-STJ fls. 236/237).
+O acórdão do TJGO traz a seguinte ementa (e-STJ fl. 203):
+EMENTA: AGRAVO INTERNO EM APELAÇÃO CÍVEL. INTENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. I - A intenção de reavivar a matéria já devidamente analisada não condiz com a natureza do agravo interno. Esta espécie de insurgência só procede quando acompanhada de documentos que comprovem fatos pertinentes à causa, mas que não foram apresentados na ocasião propícia por razões alheias ao recorrente, dado seu ineditismo. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 207/218), fundamentadono art. 105, III, alíneas "a" e "c", da CF, a recorrentesuscitoudivergência interpretativa e ofensa ao art. 85, §§ 2º e 8º, do CPC/2015,alegando que: (a) a fixação dos honorários sucumbenciais dos patronos da parte recorrida, por equidade,na importância deR$ 1.350,00 (miltrezentos e cinquenta reais) estaria fora dos parâmetros legais, porque haveria condenação e proveito econômico de R$ 675,00 (seiscentos e setenta e cinco reais), (b)o montante do encargo deveria ser revisto para o patamar de 10% (dez por cento) a 20% (vinte por cento) do valor da condenação, nos termos do § 2º do art. 85 do CPC/2015, e não com base no valor da causa.
+Foram apresentadas contrarrazões, requerendo o arbitramento de honorários recursais (e-STJ fls. 228/229).
+No agravo (e-STJ fls. 242/248), afirmaa presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada, reiterando o pedido de fixação de honorários recursais(e-STJ fls. 253/254).
+É o relatório.
+Decido.
+De acordo com a jurisprudência do STJ, "o § 8º do art. 85 do CPC/ 2015 possui aplicação subsidiária e excepcional, restrita às hipóteses em que o proveito econômico for inestimável ou irrisório, ou quando o valor da causa for muito baixo, permitindo, assim, que a verba honorária seja arbitrada por equidade" (REsp n. 1.898.122/MG, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/3/2021, DJe 19/3/2021), o que não é o caso dos autos.
+Ainda nessa linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE TÍTULO EXECUTIVO EXTRAJUDICIAL. INDENIZAÇÃO POR DANOS MORAIS. FALTA DE PREQUESTIONAMENTO. INEXIGIBILIDADE DA DUPLICATA. PROTESTO INDEVIDO. ATO ILÍCITO. RESPONSABILIDADE. COMPROVAÇÃO. REEXAME DE PROVAS. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. HONORÁRIOS ADVOCATÍCIOS. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(..)
+3. A Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.746.072/PR (Rel. p/ acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe de 29/03/2019), consolidou entendimento de que, quando houver condenação, os honorários advocatícios devem ser fixados entre 10% e 20% sobre o montante desta (CPC/2015, art. 85, § 2º), como ocorreu na presente hipótese.
+4. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.679.291/PR, Relator. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 1º/3/2021, DJe 22/3/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. ADVOCATÍCIOS SUCUMBENCIAIS. FIXAÇÃO.PARÂMETROS DO CPC/15. SÚMULA 568/STJ.
+1. Embargos de terceiro.
+2. Com a ressalva do meu entendimento, a 2ª Seção definiu que quanto à fixação dos honorários de sucumbência, temos a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º). Precedente da 2ª Seção.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.761.698/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/3/2021, DJe 18/3/2021.)
+O TJGO fixou a verbahonorária por equidade (CPC/2015, art. 85, § 8º), assentando que (e-STJ fls. 198/200):
+Quanto ao tema em debate, já havia ressaltado o seguinte argumento:
+O apelante requer a majoração dos honorários advocatícios sucumbenciais, aplicando-se o artigo 85, §8º, do CPC, uma vez que a verba final eqüivale a 20% (vinte por cento) de RS 675,00 (seiscentos e setenta e cindo reais), ou seja, a R$ 135,00 (cento e trinta e cinco reais), penso que com razão.
+De fato o quantum fixado na sentença recorrido a título de verba honorária de sucumbência é irrisório, visto que perfaz a parca quantia. Portanto, devem os honorários sucumbenciais ser fixados por apreciação equitativa, observando o grau de zelo profissional, lugar da prestação do serviço, natureza e importância da causa, o trabalho realizado pelo advogado bem como o tempo exigido para o seu serviço, conforme preceitua o §8º do art. 85 do CPC/15.
+Assim, necessária é a aplicação do artigo 85r § 8o do CPC/15, vejamos:
+(..)
+Desta forma, nos termos do art. 85, §§ 2º e 8o, do Código de Processo Civil, constato que o advogado da parte autora atuou com o devido zelo na defesa dos interesses de seu constituinte, e considerando o lugar da prestação do serviço, consoante a natureza e importância do presente feito, bem como o trabalho desempenhado pelo causídico, incluindo o tempo exigido para o seu serviço.
+O valor dado à causa foi de R$ 13.500,00 (treze mil e quinhentos reais). 10% desse total seriam R$ 1.350,00 (mil trezentos e cinqüenta reais), o que se mostra razoável.
+Isto posto, DOU PROVIMENTO ao presente apelo e reformo a combatida sentença para fixar os honorários advocatícios em R$ 1.350,00 (mil trezentos e cinqüenta reais), a cargo da seguradora, nos termos do que prescreve o art. 85, § 8o, do CPC.
+Isto posto, conheço deste agravo interno, mas o DESPROVEJO.
+Como se vê, o arbitramento de honorários com base no valor da condenação - R$ 675,00 (seiscentos esetenta e cinco reais)- resultariaem uma importância irrisória da verba.
+Portanto, era de rigor a fixaçãodo encargo por equidade (art. 85, § 8º, do CPC/2015), e não com fundamento no art. 85, § 2º, do CPC/2015.
+Ademais, "a revisão dos critérios de equidade utilizados pelas instâncias de origem para a fixação dos honorários advocatícios é vedada no âmbito do recurso especial (Súmula 7/STJ), salvo na hipótese de valores desarrazoados ou desproporcionais"(AgInt no REsp n.1.892.500/MT, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/3/2021, DJe 6/4/2021).
+A esse respeito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO (DPVAT). HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. VALOR.REVISÃO. SÚMULAS 7 E 83 DO STJ. MULTA. AGRAVO INTERNO MANIFESTAMENTE INADMISSÍVEL. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Segunda Seção desta Corte Superior pacificou o entendimento de que o § 8º do art. 85, transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo.Precedente: (REsp 1746072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/02/2019, DJe 29/03/2019).
+2. O reexame dos critérios fáticos levados em consideração para fixar os honorários advocatícios, em princípio, é inviável em sede de recurso especial, ante o teor da Súmula 7 do STJ.
+(..)
+4. Agravo interno não provido.
+(AgInt no REsp n.1.846.629/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/12/2020, DJe 18/12/2020.)
+A quantia estabelecida pelo acórdão recorrido - 10% (dez por cento) do valor da causa, entendida como a importância de R$ 13.500,00 (treze mil e quinhentos reais) - resultou em honorários no valor de R$ 1.350,00 (miltrezentos e cinquenta reais), o que não ensejaa intervenção do STJ.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontadose a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrentenão se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
