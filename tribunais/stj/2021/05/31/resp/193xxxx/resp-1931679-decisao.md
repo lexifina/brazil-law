@@ -1,0 +1,28 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS DE SUCUMBÊNCIA.APURAÇÃO DA BASE DE CÁLCULO.EXCLUSÃO DAS PARCELAS VINCENDAS. SÚMULA 111/STJ. RECURSO ESPECIAL DA AUTARQUIA FEDERAL A QUE SE DÁ PROVIMENTO.
+1. Trata-se de recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, inciso III, alíneaa, da CF/1988, no qual se insurge contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado de São Paulo, assim ementado:
+1. Presentes o nexo causal e a incapacidade laborativa parcial e permanente, de rigor a concessão do auxílio-acidente, a partir da alta médica.
+2. Acerca da adequação das parcelas em atraso, caberá a Lei nº 8.213/91 e alterações posteriores.
+3. O pagamento do auxílio-acidente deverá observar o disposto no art. 104, § 6º, do Decreto nº 3.048/99, na hipótese de concessão de auxílio-doença pelo mesmo fato gerador.
+4. A verba honorária deverá ser fixada na fase de liquidação, conforme disposto no artigo 85, §§ 3º e 4º, II do CPC, momento em que o respectivo juízo levará em consideração também a sucumbência recursal das partes, nos termos do art.85, § 11 do CPC(fls. 275/282).
+2. Os embargos de declaração da parte recorrida foramparcialmenteacolhidos, nos termos seguintes:
+Embargos de declaração  Autor  Apontamento de omissão com relação à devolução de valores recebidos a titulo de tutela antecipada  análise na fase de execução, quando deverá ser aplicado o que vier a ser decidido pelo C. STJ (Tema 692) - Acolhimento parcial (fls 299/302).
+3. Já osembargos de declaração opostos pela autarquia federalforam rejeitados (fls. 319/321).
+4. Nas razões do seu recurso especial (fls. 327/339), a parte recorrente sustentaa violação dos arts.489, § 1º, VI e 927, IV, do CPC/2015.Argumentaque deve ocorrer a exclusão das parcelas vincendas, após a sentença, da base de cálculo da verba honorária,nos termos da Súmula 111/STJ.
+5. Devidamente intimada, a parte recorrida deixou de apresentar contrarrazões (fls. 344). O recurso especial foi admitido na origem (fls. 345/347).
+6. É o relatório.
+7. A irresignação merece prosperar.
+8. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+9. No mais, consonante entendimento firmado por este egrégio Superior Tribunal de Justiça, o termo final da verba honorária é a data do julgamento concessivo do benefício pleiteado, nos termos da Súmula 111/STJ, segunda a qual os honorários advocatícios, nas ações previdenciárias, não incidem sobre as prestações vencidas após a sentença. Nesse sentido:
+PROCESSUAL CIVIL. DEMANDA PREVIDENCIÁRIA. HONORÁRIOS ADVOCATÍCIOS. TERMO FINAL. DECISÃO CONCESSIVA DO BENEFÍCIO. PRINCÍPIOS DA EFETIVIDADE E DA DURAÇÃO RAZOÁVEL DO PROCESSO. APLICAÇÃO.
+1. A respeito do termo final dos honorários advocatícios em matéria previdenciária, a orientação jurisprudencial do Superior Tribunal de Justiça é a de que deve ser fixado na data do julgamento favorável à concessão do benefício pleiteado, excluindo-se as parcelas vincendas, conforme determina a Súmula 111 desta Corte.
+2. O Código de Processo Civil de 2015 não inovou em relação aos critérios para a fixação da verba honorária sucumbencial estabelecidos no § 2º do art. 85, pois a referida norma consubstancia-se repetição da legislação anterior (art. 20, § 3º, do CPC/1973).
+3. A própria natureza da tutela previdenciária (dirigida a suprir os segurados, ou seus dependentes, em caso de idade avançada, doença, e morte ou os assistidos da Previdência Social, em situação de vulnerabilidade), aliada ao princípio da efetividade, evidencia a necessidade de adoção de instrumentos que assegurem a duração razoável do processo, motivo pelo qual permanece inalterado o escopo da Súmula 111 do STJ, de modo a evitar possível conflito de interesses entre o patrono e seu representado.
+4. Agravo interno desprovido (AgInt no REsp 1888117/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/02/2021, DJe 17/02/2021).
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. TERMO FINAL PARA APURAÇÃO DA BASE DE CÁLCULO. OBSERVÂNCIA DA SÚMULA 111/STJ.
+1. Conforme teor da Súmula 111 do Superior Tribunal de Justiça, o marco final da verba honorária deve ser a decisão em que o direito do segurado foi reconhecido: "Os honorários advocatícios, nas ações previdenciárias, não incidem sobre as prestações vencidas após a sentença".
+2. Na hipótese, o acórdão recorrido, que concedeu o direito à aposentadoria especial, deve ser considerado como termo final. Nesse sentido: AgRg no AREsp 271.963/AL, Rel. p/a. Acórdão, Min. Sérgio Kukina, Primeira Turma, DJe de 19/5/2014; EDcl no AgRg no REsp 1.271.734/RS, Rel. Min. Alderita Ramos de Oliveira (Desembargadora Convocada do TJ/PE), DJe de 18/4/2013; AgRg nos EDcl no AREsp 155.028/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 24/10/2012.
+3. Recurso Especial provido (REsp 1831207/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/11/2019, DJe 19/12/2019).
+10. No caso dos autos, o Tribunal a quoconcluiu que "a lei de regência do benefício não limita o valor da condenação às parcelas vencidas, o que inviabiliza a incidência da Súmula nº 111 do C. Superior Tribunal de Justiça" (fls. 279).Dessa forma, imperiosa a reforma do aresto recorrido, porquanto em dissonância com o entendimento do STJ sobre o tema.
+11. Diante do exposto, dou provimento ao recurso especial da autarquia federalpara reconhecer a incidência da Súmula 111/STJ.
+12. Publique-se. Intimações necessárias.
