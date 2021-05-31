@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO DE ENERGIA ELÉTRICA. INSUFICIÊNCIA DE PROVAS ATESTADA PELA INSTÂNCIA DE ORIGEM. CONDENAÇÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. RELAÇÃO CONTRATUAL POR SI SÓ NÃO EVIDENCIA A AUTORIA DELITIVA.AGRAVO REGIMENTAL DESPROVIDO.
+1. Para se afastar a conclusão do Tribunal de origem de que não se provou que aagravadapraticou o furto de energia elétrica, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência vedada em recurso especial, consoante o disposto na Súmula n. 7 do STJ.
+2."A relação contratual entre o réu e a concessionária, por si só, não é evidência suficiente da autoria do furto de energia" (AgRg no AREsp 1518718/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/10/2019, DJe 30/10/2019).
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto em desfavor de decisão da presidência desta Corte, que conheceu do agravo para não conhecer do recurso especial interposto pela oraagravante (fls. 433/436).
+A agravante afirma que a prova da propriedade do imóvel e da titularidade da unidade consumidora - que recai sobre a pessoa da ré- é prova suficiente para o decreto condenatório.
+Requer o conhecimento e provimento do agravo para que o recurso especial seja provido,condenando aagravadapelo delito de furto de energia elétrica.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO DE ENERGIA ELÉTRICA. INSUFICIÊNCIA DE PROVAS ATESTADA PELA INSTÂNCIA DE ORIGEM. CONDENAÇÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. RELAÇÃO CONTRATUAL POR SI SÓ NÃO EVIDENCIA A AUTORIA DELITIVA.AGRAVO REGIMENTAL DESPROVIDO.
+1. Para se afastar a conclusão do Tribunal de origem de que não se provou que aagravadapraticou o furto de energia elétrica, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência vedada em recurso especial, consoante o disposto na Súmula n. 7 do STJ.
+2."A relação contratual entre o réu e a concessionária, por si só, não é evidência suficiente da autoria do furto de energia" (AgRg no AREsp 1518718/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/10/2019, DJe 30/10/2019).
+3. Agravo regimental desprovido.
+VOTO
+O recurso não prospera.
+A parte agravante pleiteia, em suma, a condenação darépor furto de energia elétrica, tendo o Tribunal de origem destacado:
+"A acusada em ambas as fases negou a prática do delito. Disse que comprou o terreno e nele já existia este padrão medidor de energia elétrica; que a empresa de energia fez a vistoria e constatou a fraude. Diz que não percebeu nenhuma alteração de consumo. Acrescentou que adquiriram o terreno com edificação, e reformaram para que funcionasse um supermercado no local, e que é responsável pelo pagamento das faturas.
+No entanto, na fase do contraditório, não foi ouvida qualquer outra pessoa, quer a título de informante ou testemunha.
+Assim a materialidade do delito encontra-se consubstanciada no boletim de ocorrência, documento de fl. 15, e laudo pericial.
+O mesmo não se pode falar da autoria do injusto, diante da inexistência de elementos judicializados à sua comprovação, ou seja, o acervo probatório produzido na etapa investigativa não remete à certeza necessária à condenação, sobretudo pela ausência de corroboração dos elementos de prova na fase processual, não restando, a versão da Acusação, confirmada ao longo da instrução.
+Destarte, inexistem provas produzidas em juízo hábeis a comprovar a autoria delitiva, aliando-se, ainda, negativa apresentada pela recorrida.
+Como de curial sabença, o julgador pode se valer das provas colhidas durante a investigação, desde que confirmadas posteriormente, sob o crivo do contraditório, não podendo, no entanto, valer-se unicamente dos elementos indiciários para lastrear sua sentença condenatória. Observe-se:
+Art. 155 do CPP: O juiz formará sua convicção pela livre apreciação da prova produzida em contraditório judicial, não podendo fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação, ressalvadas as provas cautelares, não repetíveis e antecipadas.
+A respeito a exegese de Guilherme de Souza Nucci: "ademais, se a decisão judicial fosse proferida com base única em fatores extraídos do inquérito policial, por exemplo, seria, no mínimo , inconstitucional, por não respeitar as garantias do contraditório e da ampla defesa".
+Oportuno ressalvar que mencionada regra comporta exceção, na medida em que se as provas indiciárias formarem uma cadeia concordante de indícios ensejadores do tipo penal, consistente em silogismo formador de acervo fático-probante consistente, corroboradas por provas diretas, podem levar a condenação. Mas este, lembro, não é o caso do presente.
+Aliás, este é o entendimento da Suprema Corte: "A força instrutória dos indícios é bastante para a elucidação de fatos, podendo, inclusive, por si própria, oque não é apenas o caso dos autos, conduzir à prolação de decreto de índole condenatória, quando não contrariados por contraindícios ou por prova direta.Doutrina: MALATESTA, Nicola Framarino dei. A lógica das provas em matéria criminal. Trad. J. Alves de Sá. Campinas: Servanda Editora, 2009, p. 236; LEONE, Giovanni. Trattato di Diritto Processuale Penale. v. II. Napoli: Casa Editrice Dott.Eugenio Jovene, 1961. p. 161-162; PEDROSO, Fernando de Almeida. Prova penal:doutrina e jurisprudência. São Paulo: Editora Revista dos Tribunais, 2005, p. 90-91.Precedentes: AP 481, Relator: Min. Dias Toffoli, Tribunal Pleno, julgado em 08/09/2011; HC nº 111.666, Relator: Min. Luiz Fux, Primeira Turma, julgado em 08/05/2012; HC 96062, Relator: Min. Marco Aurélio, Primeira Turma, julgado em 06/10/2009." (HC 97781, Relator(a): Min. MARCO AURÉLIO, Relator(a) p/ Acórdão: Min. LUIZ FUX, Primeira Turma, julgado em 26/11/2013, ACÓRDÃO ELETRÔNICO DJe-051 DIVULG 14-03-2014 PUBLIC 17-03-2014).
+Nos termos do art. 5ª, LVII, da CF, o réu é presumidamente inocente até que se demonstre o inverso, competindo ao Estado, titular da ação penal, a prova dos fatos narrados na peça vestibular, o que não ocorreu in casu, como, aliás, admitido pelo parquet estadual de primeiro grau em suas derradeiras alegações.
+"Nesses termos, e sob o enfoque subjetivo, cabe ao autor da ação penal - Ministério Público ou querelante - a prova incriminatória, vale dizer: provar que o delito ocorreu, conforme narrado na inicial acusatória; que o réu ou querelado é o autor do delito; a materialidade delitiva, sendo caso, e demais circunstâncias imputadas. "É trabalho da acusação transformar os elementos do inquérito em elementos de convicção do juiz" (STJ, HC 148.140/RS, 6a T., rel. Min. Celso Limongi, j. 7-4-2011, DJe de 25-4-2011).
+Portanto se a prova indiciária, hábil para a instauração da persecutio criminis não restou corroborada por outros elementos de prova colhidos sob o crivo do contraditório e ampla defesa, afigura-se deveras frágil a supedanear um decreto condenatório, mormente considerando o princípio do in dubio pro reo."(fls. 311/312)
+Com efeito, a decisão guerreada baseou seu entendimento de absolvição no contexto fático-probatório da demanda e, rever o referido posicionamento na via eleita encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+Neste diapasão:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE. NÃO INCIDÊNCIA. ACÓRDÃO CONDENATÓRIO. EXECUÇÃO IMEDIATA DA PENA. POSSIBILIDADE. AGRAVO EM RECURSO ESPECIAL JULGADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..) 2. Para se entender de modo diverso, afastando-se a conclusão de que o agravante se dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência vedada em recurso especial, consoante o disposto na Súmula n. 7 do STJ.
+(..) 5. Agravo regimental não provido.
+(AgRg no AREsp 719.872/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 25/9/2018, DJe 9/10/2018).
+Cumpre ressaltar que o óbice da Súmula n. 7 do STJ também se aplica à análise do dissídio jurisprudencial. Cito precedentes:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO DE ENERGIA ELÉTRICA. AUTORIA DELITIVA. INSUFICIÊNCIA PROBATÓRIA.VERIFICAÇÃO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. A pretensão condenatória demandaria incursão vertical nos elementos probatórios dos autos, o que é vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ, óbice também extensivo ao alegado dissídio jurisprudencial.
+4. Agravo regimental não provido.
+(AgRg no AREsp 1518718/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 30/10/2019).
+PENAL E PROCESSO PENAL. SEGUNDOS EMBARGOS DE DECLARAÇÃO. AGRAVO NO RECURSO ESPECIAL. 1. ACLARATÓRIOS RECEBIDOS COMO AGRAVO REGIMENTAL.INTUITO INFRINGENTE. 2. EMENDA AO RECURSO ESPECIAL. OMISSÃO QUANTO AO EXAME. PRECLUSÃO CONSUMATIVA E TEMPORAL. IMPOSSIBILIDADE DE CONHECIMENTO. 3. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. 4. MATÉRIA QUE DEMANDA REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. 4. EMBARGOS CONHECIDOS COMO AGRAVO REGIMENTAL PARA NEGAR-LHE PROVIMENTO.
+ ..
+4. Ademais, ambas as divergências jurisprudenciais trazidas no recurso especial dependem do incursionamento no arcabouço fático e probatório dos autos, o que não é admitido na via eleita, nos termos do óbice trazido no enunciado n. 7 da Súmula do Superior Tribunal de Justiça. Assim, "conforme a jurisprudência desta Corte, a incidência da Súmula 7/STJ impede o exame do dissídio jurisprudencial aventado nas razões do apelo nobre" (AgRg no REsp 1532799/SC, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 22/03/2018, DJe 03/04/2018).
+5. Embargos de declaração conhecidos como agravo regimental, para negar-lhe provimento.
+(AgRg nos EDcl no AgRg no AREsp 1229041/AM, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 14/9/2018).
+Ademais, conforme já fora ressaltado nesta Corte,"A relação contratual entre o réu e a concessionária, por si só, não é evidência suficiente da autoria do furto de energia" (AgRg no AREsp 1518718/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/10/2019, DJe 30/10/2019).
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
