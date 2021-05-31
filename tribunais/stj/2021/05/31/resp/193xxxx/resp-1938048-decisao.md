@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF/1988) interposto contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região assim ementado:
+PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL DE PENSÃO POR MORTE DE EX-COMBATENTE VINCULADO À PREVIDÊNCIA SOCIAL. TETO VIGENTE À ÉPOCA DO EVENTO MORTE.
+1. Trata-se de agravo de instrumento do INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, em contrariedade à decisão que, nos autos de ação revisional de pensão por morte de ex-combatente, concedeu a tutela de urgência, para determinar o pagamento da pensão pelo valor correspondente àquele que seria recebido em vida pelo seu instituidor, reformando o ato administrativo que a limitou ao teto do Regime Geral da Previdência.
+2. Merece reproche a decisão vergastada.
+3. As pensões decorrentes de falecimento de ex-combatente que estavam vinculados à Previdência Social são regidas pelas regras previstas na legislação previdenciária, o que significa que o cálculo da pensão deve se adequar ao valor do teto limite vigente à época do evento morte, que nem sempre corresponde a 100% do salário de benefício do seu instituidor.
+4. A lei aplicável à concessão de pensão previdenciária por morte é aquela vigente na data do óbito do segurado. No presente caso, a morte do instituidor do benefício ocorreu em 29/01/2019, de maneira que a lide deve ser analisada à luz da Lei 5.698, de 1971, sendo apensão regida por suas disposições. Os requisitos para a concessão da pensão foram preenchidos na data do falecimento do segurado, no ano de 2019, quando estava em vigor a Lei 5.698, de modo que a nova prestação previdenciária deve ter como limite o teto previdenciário, nos termos do art. 41-A da Lei 8.213, de 1991 ( Art. 41-A. O valor dos benefícios em manutenção será reajustado, anualmente, na mesma data do reajuste do salário mínimo, pro rata, de acordo com suas respectivas datas de início ou do último reajustamento, com base no Índice Nacional de Preços ao Consumidor - INPC, apurado pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE. § 1o Nenhum benefício reajustado poderá exceder o limite máximo do salário-de-benefício na data ), sujeitando-se às regras do Regime Geral da do reajustamento, respeitados os direitos adquiridos Previdência Social.
+5. É dizer, o juiz concedeu liminar a partir da premissa de que se tratava de pensão especial de ex-combatente, quando na verdade o falecido não recebia aposentadoria especial do ex-combatente, mas era aposentado por tempo de serviço.
+6. Assim, agiu corretamente o INSS ao conceder a pensão à viúva do instituidor no valor de R$ 5.839,45, valor concernente ao teto do Regime Geral da Previdência.
+7. Agravo de instrumento provido e agravo interno prejudicado.
+A parte recorrente alega:
+Em vida, o segurado/falecido recebia sua aposentadoria por tempo de serviço de maneira especial em razão dos serviços prestados ao Governo Federal, o qual reconheceu aos ex-combatentes o direito de aposentação de maneira precoce, nos preceitos da Lei 4.297/63.
+(..)
+Nobre Julgador, ao ser julgada perante a 2ª Turma do Tribunal Regional Federal da 5ª Região, o Colendo Tribunal ofendeu diretamente o que dispõe a redação dos Arts. 5º e Parágrafo Único do Art. 6º da Lei nº 5.698/71, os quais prescrevem o seguinte:
+(..)
+Desta forma, não é razoável a imposição de redução brusca em aproximadamente 78% dos rendimentos da casa tão somente devido à mudança de fonte pagadora, como tentou assim fazer o art. 1º da lei 5.698/71.
+Preocupado com tal acontecimento fático, o próprio legislador infraconstitucional que acabara de transferir para o RGPS a obrigação de concessão e manutenção das pensões por morte decorrentes de aposentadorias de ex-combatentes, deixou expressamente consignado no § único do art. 6º da Lei 5.698/71 que ficaram resguardados os direitos das pensionistas cujos instituidores tiverem implementados os requisitos de aposentadoria nos termos da Lei 4.297/63.
+(..)
+III.II - DA OFENSA LITERAL AO ART. 149 DA LEI 8.213/91.
+(..)
+De acordo com o artigo 149 da LBPS, a legislação aplicável deve ser a específica, ou seja, o art. 6º, § único da Lei 5.698/71 e não a genérica previdenciária, a Lei 8.213/91.
+Apesar de apresentar tal entendimento, aplicaram tais magistrados o art. 41-A da Lei 8.213, de 1991 da Legislação ampla previdenciária, não respeitando as disposições específicas a respeito das pensões por morte concedidas decorrentes de ex-combatentes, conforme expressa menção trazida pelos artigos 5º e § único do art. 6º da Lei 5.698/71. Desta forma, nítida a ofensa direta aos artigos mencionados.
+Foram apresentadas Contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13.5.2021.
+O Tribunal de origem assim decidiu:
+A lei aplicável à concessão de pensão previdenciária por morte é aquela vigente na data do óbito do segurado. No presente caso, a morte do instituidor do benefício ocorreu em 29/01/2019, de maneira que a lide deve ser analisada à luz da Lei 5.698, de 1971, sendo a pensão regida por suas disposições. Os requisitos para a concessão da pensão foram preenchidos na data do falecimento do segurado, no ano de 2019, quando estava em vigor a Lei 5.698, de modo que a nova prestação previdenciária deve ter como limite o teto previdenciário, nos termos do art. 41-A da Lei 8.213, de 1991 ( Art. 41-A. O valor dos benefícios em manutenção será reajustado, anualmente, na mesma data do reajuste do salário mínimo, pro rata, de acordo com suas respectivas datas de início ou do último reajustamento, com base no Índice Nacional de Preços ao Consumidor - INPC, apurado pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE. § 1o Nenhum benefício reajustado poderá exceder o limite máximo do salário-de-benefício na data ), sujeitando-se às regras do Regime Geral da do reajustamento, respeitados os direitos adquiridos Previdência Social.
+É dizer, o juiz concedeu liminar a partir da premissa de que se tratava de pensão especial de ex-combatente, quando na verdade o falecido não recebia aposentadoria especial do ex-combatente, mas era aposentado por tempo de serviço.
+Não se pode conhecer da irresignação contra a ofensa aos arts. 5º e 6º da Lei 5.698/1971 e do art. 149 da Lei 8.213/1991, pois os referidos dispositivos legais e os temas a eles relacionados não foram analisados pela instância de origem. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Por tudo isso, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
