@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar impetrado em favor de MARCELO SANTOS DE OLIVEIRA contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2137930-31.2020.8.26.0000).
+Narra o Impetrante que o Pacientecumpre pena, atualmente, em regime semiaberto pela prática do crime de tráfico de drogas.
+A Defesa do Paciente solicitou prisão domiciliar ao Juízo das Execuções, nos termos da Recomendação n. 62/2020 do Conselho Nacional da Justiça, que trata da adoção de medidas preventivas à propagação da infecção pelo novo coronavírus no âmbito dos sistemas de justiça penal e socioeducativo.
+O pedido foi indeferido, no dia 16/06/2020 (fl. 71).
+Irresignada com essa decisão, a Defesa impetrou o writ originário, apontando como autoridade coatora o Juízo da execução, que foi denegado nos termos do acórdão de fls. 21-23, sem ementa.
+Sustenta o Impetrante que o Paciente possui pressão alta e diabetes e está sendo submetido a riscos de contágio pelo coronavírus na unidade prisional na qual cumpre pena, fazendo jus à prisão domiciliar, consoante a Recomendação CNJ n. 62/2020.
+Requer a concessão da liminar para determinar a substituição da pena privativa de liberdade em estabelecimento prisional pela prisão domiciliar e, ao final, postula que seja concedida a ordem de habeas corpus para reconhecer esse direito em definitivo.
+O pedido liminar foi indeferido pela Presidência do Superior Tribunal de Justiça às fls. 75-76.
+As informações foram prestadas às fls. 84-91
+O Ministério Público Federal opina às fls. 93-101, pelo não conhecimento do writ.
+É o relatório. Decido.
+De início, cumpre registrar que a Recomendação n. 62/2020 do CNJ não tem caráter vinculante. Sua finalidade é recomendar/indicar a adoção de providências por parte do Poder Judiciário no combate à proliferação e contágio do vírus nos estabelecimentos prisionais. Nesses termos, a jurisprudência desta Corte sedimentou o entendimento de que a referida recomendação não implica automática concessão de liberdade, de prisão domiciliar ou de benefícios executórios, devendo ser analisada a situação individual dos reclusos no sistema carcerário.
+Assim, para o reconhecimento de algum desses direitos, é necessário que o requerente demonstre de maneira clara a presença dos seguintes requisitos cumulativos: "a) sua inequívoca adequação no chamado grupo de vulneráveis da COVID-19; b) a impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) risco real de que o estabelecimento em que se encontra, e que o segrega do convívio social, cause mais risco do que o ambiente em que a sociedade está inserida  .. " (AgRg no HC 580.959/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/06/2020, DJe 17/06/2020, sem grifos no original).
+No caso, não há comprovação do preenchimento de todos os requisitos, pois foi ressaltado pelo Juízo das Execuções - mais próximo da realidade carcerária local -que"o sentenciado não comprova que especificamente necessita da prisão domiciliar, haja vista o relatório médico (página 267) que relata a existência de doença devidamente medicada, controlada e assistida" (fl. 71; grifos originais).
+A Corte a quo, por sua vez, denegou a ordem porque (fl. 62):
+" ..  não há nenhuma informação de que, no presídio onde OLIVEIRA está recluso, haja alguém infectado. Ademais, é fato notório que as Secretarias de Segurança Pública e de Saúde do Estado de São Paulo têm tomado medidas para evitar a contaminação e propagação do coronavírus nas penitenciárias."
+Nesse contexto, não é possível visualizar a ocorrência da situação que autorize a excepcional concessão da prisão domiciliar ao Paciente.
+O fato de o Apenado pertencer ao grupo de risconão lhe garante concessão automática de prisão domiciliar, sobretudo porque não houve a necessária comprovação do debilitado estado de saúde e da incapacidade de assistência médica ou tratamento no interior da Unidade Prisional, não servindo a Recomendação n. 62/2020 do CNJ como salvo conduto indiscriminado para todos os integrantes dos grupos de risco.
+A propósito:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EMHABEAS CORPUS. COVID-19. PRISÃO DOMICILIAR. AGRAVO DESPROVIDO.
+1. No caso, malgrado seja o paciente do grupo de risco etário da COVID-19, as instâncias ordinárias atestaram que os detentos estão submetidos à quarentena, seguindo protocolos de assepsia recomendados pelo Governo, além dele estar recebendo o tratamento de saúde adequado dentro o estabelecimento prisional. Ainda, restou considerado o fato de inexistir notificação de caso de coronavírus no sistema prisional da serra catarinense. Por conseguinte, não se vislumbra qualquer ilegalidade ou risco à vida do recorrente, conforme constatado pelas instâncias ordinárias.
+2. Agravo regimental desprovido."(AgRg no RHC 126.937/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/06/2020, DJe 15/06/2020.)
+"AGRAVO REGIMENTAL NOHABEAS CORPUS.SÚMULA 691/STF. INDEFERIMENTO LIMINAR DOWRIT. EXECUÇÃO. COLOCAÇÃO EM PRISÃO DOMICILIAR. RECOMENDAÇÃO N. 62/2020 DO CNJ. REQUISITOS NÃO PREENCHIDOS. CASO CONCRETO NÃO PERMITE. RÉU CUMPRE PENA POR DOIS CRIMES DE ROUBO MAJORADO. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Apesar da alegação de que o paciente está no grupo de risco, há informação oriunda da penitenciária no sentido de que ele encontra-se em bom estado de saúde, não havendo comprovação de que a unidade prisional não possui equipe médica, devendo, ainda, ser considerado que o paciente cumpre pena em razão de duas condenações por roubo majorado, com emprego de arma e concurso de agentes, ao qual a violência e grave ameaça à pessoa são inerentes, circunstâncias que afastam a prisão domiciliar.
+2. Não havendo ilegalidade para justificar a mitigação do enunciado da Súmula 691 do STF, owritdeve ser indeferido liminarmente.
+3. Agravo regimental improvido."(AgRg no HC 577.056/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/06/2020, DJe 09/06/2020.)
+Ante o exposto, DENEGO A ORDEM dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE CONCESSÃO DE PRISÃO DOMICILIAR EM RAZÃO DA COVID-19. AUSÊNCIA DE COMPROVAÇÃO DOS REQUISITOS IMPOSTOS PELA JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ORDEM DENEGADA.
