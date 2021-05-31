@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VALDIR SANTOS QUEIROZ, contra o indeferimento de idêntica medida na origem.
+Sustenta o impetrante que não há fundamentação concreta e idônea na decisão que decretou a prisão temporáriado paciente.
+Postula, ao final, a superação do enunciado 691 da Súmula do c. STF para que seja revogada a prisão temporária.
+É o relatório.
+Decido.
+Os autos não versam sobre hipótese que admite a pretendida valoração antecipada da matéria, pois, pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra denegação de liminar. De fato, ressalvadas hipóteses excepcionais descabe o instrumento heróico em situação como a presente, sob pena de ensejar supressão de instância.
+A matéria, inclusive, já se encontra sumulada: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula nº 691/STF).
+O writ impetrado na origem teve o pedido liminar indeferido sob os seguintes fundamentos, verbis:
+" ..
+A inicial veio instruída com os documentos de Ids. 15666806 e 15666807, não se verificando, de modo inequívoco, o e o autorizadores da medida pleiteada. fumus boni iuris periculum in mora A antecipação dos efeitos da tutela em sede do remédio heroico em questão - de rito já célere, ressalte-se- é criação doutrinária e jurisprudencial, admissível somente em situações de extrema excepcionalidade, em que o aventado constrangimento se entremostre evidenciado de plano, o que não ocorre na hipótese. A despeito das razões expostas na impetração, constata-se a imprescindibilidade de um exame aprofundado das questões de fato e direito apresentadas, para verificação de que o constrangimento ilegal estaria configurado. Ademais, no caso , o objeto da liminar se confunde com o próprio mérito do presente remédio sub examine heroico, que deve ser apreciado quando do julgamento definitivo, resguardando-se à análise do órgão colegiado. Desta forma, o pedido de liminar, requisitando informações junto à autoridade apontada. INDEFIRO como coatora, a fim de esclarecer o quanto alegado na impetração; após o cumprimento da diligência, encaminhem-se os autos à douta Procuradoria de Justiça, para os devidos fins." (fl. 17).
+Na hipótese, portanto, não verifico a ocorrência de flagrante ilegalidade capaz de ensejar o afastamento do óbice contido no enunciado sumular referido.
+Assim o entendimento do Pretório Excelso: HC nº 103570, Primeira Turma, Rel. Min. Marco Aurélio, Rel. p/ acórdão Min. Rosa Weber, DJe de 22/8/2014; HC nº 121828, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 25/6/2014; HC nº 123549 AgR, Segunda Turma, Rel.ª Min. Cármen Lúcia, DJe de 4/9/2014.
+No âmbito desta Corte Superior, cito as seguintes decisões monocráticas: HC nº 392.348/RO, Sexta Turma, Rel. Ministro Nefi Cordeiro; HC nº 392.249/PR, Sexta Turma, Rel. Ministro Sebastião Reis Júnior; HC nº 392.316/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas; HC nº 391.936/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik; HCnº 392.187/SP, Sexta Turma, Relª. Ministra Maria Thereza de Assis Moura.
+Ante o exposto, com fulcro no art. 34, inciso XX, e art. 210, ambos do RISTJ, indefiro liminarmente o processamento do presente writ.
+P. e I.
