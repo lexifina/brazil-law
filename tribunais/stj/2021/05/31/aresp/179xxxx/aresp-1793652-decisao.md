@@ -1,0 +1,29 @@
+DECISÃO
+ADELSON APARECIDO MOURAagrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São PaulonaApelação Criminal n. 0008031-54.2017.8.26.0344.
+O agravante foi condenado, pelo crime do art. 180do Código Penal, a sanção de 1 ano de reclusão, mais 10dias-multa, no regime inicial aberto. A reprimenda foi substituída por prestação de serviços à comunidade e pagamento de 10 dias-multa.
+Nas razões do recurso especial, o agravante alegouviolação dos arts. 155, 156 e386, I, III e IV, todosdo Código de Processo Penal; 77 do Código Penal.Em síntese, sustentoua absolvição por insuficiência probatória e também a condenação com base apenas em elementos do inquérito policial;subsidiariamente, a desclassificação do delito para modalidade culposa (art. 180, § 3º, do CP). Aduziu: "o órgão acusatório não logrou êxito em comprovar a origem ilícita do veículo e muito menos que o recorrente tinha ciência de tal fato" (fl. 411).
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 1.009-1.017, pelo conhecimento do agravo para negar seguimentoao recurso especial.
+Decido.
+I. Não admissibilidade do recurso especial
+A defesa alega insuficiência probatória para justificar a condenação do acusado pelo crime descrito na denúncia.Argumenta que"o órgão acusatório não logrou êxito em comprovar a origem ilícita do veículo e muito menos que o recorrente tinha ciência de tal fato" (fl. 411).
+A Corte de origem assim se manifestou (fls. 340-341):
+ ..
+Ora, como se sabe, para a demonstração do elemento subjetivo caracterizador da receptação dolosa, imperioso o exame das circunstâncias do crime e da conduta do agente, binômio que, na espécie, opera em detrimento de Adelson.
+Concessa venia do entendimento do d. Magistrado sentenciante, no caso em apreço ficou evidenciado que o réu, plenamente ciente da ilicitude de sua conduta adquiriu, em proveito próprio, o caminhão Mercedez Benz, de placas n. BWE-5661 que sabia ser produto de crime- pois, além de subtraído de seu proprietário e adquirido pelo apelante mediante pagamento parcelado de pessoa desconhecida- a qual, apesar de ser credora do réu em razão das parcelas vincendas, não foi identificada por Adelson que, tampouco, apontou onde ela poderia ser encontrada- ostentava documentos falsos e solda irregular na região longarina, local reservado à numeração do chassi, sugerindo a ocorrência de adulteração recente (cf. laudos periciais de fls. 47/52, 53/60 e 60/73).
+Aliás, como bem asseverou o d. Parecerista, litteris: "(..)Pois bem, ao realizar a negociação de um veículo de alto valor, sem emissão de recibo, nota promissória ou contrato de compra e venda, fica evidente o dolo do réu, pois, pouco crível que o comprador aceitasse pagara a quantia de R$13 mil de entrada sem qualquer comprovante de pagamento, bem como o vendedor aceitasse a condição de receber R$32 mil parcelado sem qualquer garantia. ELSON indicou somente o primeiro nome do suposto vendedor, Paulo, mas não indicou o exato local onde tal pessoa poderia ser encontrada(sic) (fl. 321).
+Ressalte-se que a posse do objeto acarreta a presunção de responsabilidade do possuidor e, consequentemente, inverte-se o ônus da prova (CPP, artigo 156), do qual a Defesa não se desincumbiu.
+ ..
+Em suma, comprovadas a autoria e a materialidade do delito, bem como o elemento subjetivo do tipo, a condenação de Adelson, nos moldes postulados pelo Ministério Público, é de rigor, restando afastada a desclassificação da receptação para a modalidade culposa.
+Conforme se observa, o Tribunal de origem asseverou a existência de provas suficientes para justificar a condenação do ora agravante pela conduta do art. 180 do Código Penal.
+A tese defensiva gira em torno de alegada não comprovação de que o acusado tinha ciência da origem ilícita do veículo adquirido. O acórdão impugnado apresentou testemunhos, inconsistênciasda negociação do caminhão e alterações nos sinais indicadores. Não há evidências de condenação teratológica.
+Com efeito, a análise da pretensão (absolvição/desclassificação)implica a necessidade de revolvimento ou até mesmo dilação probatória, procedimentos vedados, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+Ilustrativamente:
+ ..
+1. É incabível a absolvição do réu, por esta Corte Superior, com fundamento na insuficiência probatória, se os juízos antecedentes apontaram, fundamentadamente, elementos concretos acerca da existência de autoria e materialidade do crime, colhidos sob o crivo do contraditório, a fim de subsidiar a condenação. Para entender de forma diversa, seria necessário reexaminar o conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7 do STJ .. (AgRg no AgRg no AREsp n. 1.605.930/SP, Rel. Ministro Rogerio Schietti, 6ª T.,DJe 13/5/2020)
+As teses relativas à condenação baseadas apenas em elementos do inquérito policial não foram debatidas na Corte antecedente, o que caracteriza ausência de prequestionamento.A mesma conclusão deve ser estendida no tocante à violação do art. 77 do Código Penal.
+Também não há falar em dissídio jurisprudencial. A primeira hipótese descrita no acórdão paradigma (condenação com base em prova exclusiva do inquérito policial), conforme indicado anteriormente, não foi prequestionada. Além disso,o acórdão fez referência a provas produzidas em juízo.
+A segunda divergência apontada- desclassificação para modalidade culposa- está diretamente ligada à discussão relativa à ciência do acusado sobre a origem ilícita do veículo, o que implicarevolvimento fático-probatório antes invocadonesta decisão.
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
