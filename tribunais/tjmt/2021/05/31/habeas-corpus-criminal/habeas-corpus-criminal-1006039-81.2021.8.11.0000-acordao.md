@@ -1,0 +1,189 @@
+ESTADO DE MATO GROSSO
+
+PODER JUDICIÁRIO
+
+SEGUNDA CÂMARA CRIMINAL
+
+Número Único
+:
+
+1006039-81.2021.8.11.0000
+Classe:
+
+HABEAS CORPUS CRIMINAL (307)
+Assunto:
+
+[Crimes de Trânsito, Fiança, Prisão Preventiva]
+Relator:
+Des(a).
+RUI RAMOS RIBEIRO
+
+Turma Julgadora:
+
+[DES(A). RUI RAMOS RIBEIRO, DES(A). LUIZ FERREIRA DA SILVA, DES(A). PEDRO SAKAMOTO]
+
+Parte(s):
+
+[DEFENSORIA PUBLICA (IMPETRANTE), juizo da 11 vara criminal da comarca de cuiaba (IMPETRADO), DEFENSORIA PUBLICA DO ESTADO DE MATO GROSSO - CNPJ: 02.528.193/0001-83 (IMPETRANTE), JUIZO DA 10ª VARA CRIMINAL DA COMARCA DE CUIABÁ (IMPETRADO), APARECIDO CELIO FAUSTINO MATOS (PACIENTE), MINISTERIO PUBLICO (TERCEIRO INTERESSADO), FERNANDO ALVES DE ARAÚJO (VÍTIMA)]
+
+A C Ó R D Ã O
+Vistos, relatados e discutidos os autos em epígrafe, a SEGUNDA CÂMARA CRIMINAL do Tribunal de Justiça do Estado de Mato Grosso, sob a Presidência Des(a).
+
+RUI RAMOS RIBEIRO, por meio da Turma Julgadora, proferiu a seguinte decisão:
+POR UNANIMIDADE, CONCEDEU A ORDEM EM DEFINITIVO. RATIFICANDO A LIMINAR.
+
+E M E N T A
+
+HABEAS CORPUS
+– PRISÃO EM FLAGRANTE CONVERTIDA EM PRISÃO PREVENTIVA – DELITO DE CIRCULAÇÃO – LESÃO CORPORAL CULPOSA E EMBRIAGUEZ AO VOLANTE – CONCEDIDA LIBERDADE PROVISÓRIA VINCULADA A FIANÇA – PLEITO DE DISPENSA DA FIANÇA – ALEGADA HIPOSSUFICIÊNCIA – CONSTATAÇÃO – VIABILIDADE –CONSTRANGIMENTO ILEGAL EVIDENCIADO – LIBERDADE PROVISÓRIA SEM FIANÇA AUTORIZADA – LIMINAR RATIFICADA – ORDEM CONCEDIDA.
+
+Restando evidenciada a situação de hipossuficiência financeira do paciente impeditiva de seu retorno à liberdade, legítima a solução de sucedâneo, para, impedir-se a manutenção de constrangimento ilegal ao jus ambulandi do beneficiário.
+
+R E L A T Ó R I O
+
+Com apoio no art. 5º, XXXV, da Constituição Federal, bem como no art. 7º, item 5, da Convenção Americana de Direitos Humanos (Pacto de San José da Costa Rica), promulgada por meio do Decreto Presidencial nº. 678, de 06 de novembro de 1992, impetrou-se
+habeas corpus
+com pedido de liminar em benefício de
+Aparecido Celio Faustino Matos
+, por, em tese, estar a experimentar constrangimento ilegal oriundo de ato do Juiz da 10ª Vara Criminal da Comarca de Cuiabá/MT, aqui apontada como coatora. (Id 82985528)
+
+Extrai-se que o paciente foi segregado cautelarmente, por ter praticado, em tese,
+o delito tipificado no art. 303 (lesão corporal culposa) e 306 (embriaguez ao volante) da Lei nº 9.503/97.
+
+Aduz que o magistrado
+a quo
+, homologou o auto de prisão, e concedeu liberdade provisória condicionada ao pagamento de fiança no valor de R$ 1.000,00 (mil reais).
+
+O impetrante argumenta que o paciente não tem condições
+
+financeiras de custear o valor da fiança que lhe foi arbitrada, uma vez que se trata de pessoa desprovida de recurso, tanto que está sendo assistido pela Defensoria Pública Estadual, além do que, por ocasião do ato de interrogatório perante a autoridade policial, informou que trabalha como pedreiro.
+
+Narra ainda que a autoridade judicial reconheceu na decisão que homologou a prisão em flagrante que inexiste qualquer pressuposto e requisito de cautelaridade para manter -se a prisão, tanto que concedeu a liberdade provisória, porém condicionada ao pagamento de fiança.
+
+Dessa forma, postula a concessão da ordem em sede de liminar, devendo ser revogada a prisão preventiva, para que o paciente seja colocado em liberdade.
+
+A liminar vindicada foi deferida e solicitadas as informações à autoridade indigitada coatora (Id 83529998). As informações foram juntadas (Id 83715956).
+
+Os autos foram encaminhados à douta Procuradoria Geral de Justiça, que por intermédio do eminente Procurador Élio Américo, manifestou-se pela concessão da ordem, sintetizando com a seguinte ementa: (Id. 85435954)
+
+“
+Habeas Corpus
+– Embriaguez ao volante e direção de veículo automotor sem habilitação [art. 306 e art. 309, ambos da Lei nº 9.503/97] – prisão em flagrante – liberdade provisória concedida na instância de piso mediante pagamento de fiança – réu hipossuficiente – fiança não paga – inconformismo – almejada concessão do benefício com a dispensa do pagamento da fiança – possibilidade – ausência dos requisitos autorizadores da prisão preventiva – paciente presumidamente pobre – inteligência do art. 350 do CPP – constrangimento ilegal visualizado –
+Pela concessão da ordem
+.”
+
+RELATADO O NECESSÁRIO.
+
+V O T O R E L A T O R
+
+Como visto, trata-se de
+habeas corpus
+impetrado com o objetivo de conceder o retorno à liberdade de
+Aparecido Celio Faustino Matos.
+
+Com efeito, em análise do mérito da presente ação constitucional, verifico que nada foi trazido que modificasse o entendimento já exarado, persistindo os motivos que levaram ao deferimento do pedido, em liminar.
+
+Extrai-se que em 11 de abril de 2021, foi homologada a prisão do paciente, nos seguintes termos: (Id 82985534 -
+
+fls. 16 a 19)
+
+“Vistos.
+
+Trata -se de Auto de Prisão em Flagrante de APARECIDO CELIO FAUSTINO MATOS, pela suposta prática do crime previsto no Art. 309 e 306 da LEI Nº 9.503/9, pelos fatos e circunstâncias narrados no Boletim de Ocorrência e nota de culpa. No âmbito da ciência do flagrante, nos termos do disposto no art. 310 do CPP (com a nova redação da Lei 12.403/11), passo a decidir.
+
+Nos termos do Provimento n. 01/2017, do Presidente do Conselho da Magistratura do E. Tribunal de Justiça de Mato Grosso, o autuado foi entrevistado, advindo as manifestações do Ministério Público e da Defesa.
+
+Primeiramente, deve ser salientado que a prisão em flagrante está material e formalmente em ordem, não havendo que se falar em relaxamento.
+
+Em cognição sumária, da análise dos elementos informativos existentes nos autos, verifica -se que há prova da materialidade e indícios suficientes de autoria, consoante se infere dos depoimentos dos policiais militares, bem como 4 do termo de apreensão.
+
+A Lei 12.403/11, que alterou dispositivos do Código de Processo Penal, estipulou que as medidas cautelares penais serão aplicadas com a observância da necessidade de aplicação da Lei Penal, necessidade para a investigação ou instrução penal e para evitar a prática de infrações, devendo a medida em questão, ainda, ser adequada à gravidade do crime, às circunstâncias do fato e às condições pessoais do averiguado (art. 282 do CPP).
+
+A prisão preventiva será determinada quando as outras cautelares se mostrarem insuficientes ou inadequadas para o caso concreto (art. 282, § 6.º, do CPP).
+
+No caso vertente, observa -se que se trata de mais um caso de embriaguês no volante, cujo risco a que é exposta a sociedade é concreto, embora a pena ainda seja pífia, e inferior a quatro anos.
+
+Assim, numa análise de requisitos e pressupostos para a conversão da prisão em flagrante em Preventiva, observa -se que não se vislumbram presentes os requisitos da Prisão Preventiva.
+
+Desse modo, numa análise de requisitos e pressupostos para a conversão da prisão em flagrante em preventiva, observa -se que o custodiado é tecnicamente primário e praticou o delito previsto no art. 306 e art. 309 do CTB, sem violência ou grave ameaça à pessoa, bem com o delito a ele imputado possui pena máxima não superior a 04 anos, não estando presentes os requisitos para prisão preventiva.
+
+Assim, considerando que e não houve requerimento do MP para conversão em prisão preventiva, bem como verifico que os crimes em apreço, não se amoldam às hipóteses previstas nos incisos I, II, do art. 313 do CPP, nem tampouco à prevista no parágrafo único do referido art. 313 do CPP, haja vista que as penas máximas em abstrato dos crimes em apreço não superam quatro anos e não há dúvida quanto a sua identidade civil, logo impõe -se não seja convertida a prisão em flagrante em custódia cautelar.
+
+Entretanto, os fatos narrados nos autos justificam a aplicação de medidas cautelares diversas da prisão (art. 319 do CPP).
+
+Diante do exposto, CONCEDO LIBERDADE PROVISÓRIA ao autuado APARECIDO CELIO FAUSTINO MATOS. Todavia aplico -lhe a seguinte medida cautelar:
+
+01)
+
+Prestação de fiança (art. 319, VIII, do CPP), a qual estabeleço em R$ 1.000,00 (um mil reais), dividido em três parcelas, devendo ser a primeira parcela paga até quarta –feira (14.04.2021), o restante em 30 (trinta) e 60 (sessenta) dias;
+
+Fixo o compromisso de comparecer a todos os atos do processo, não se ausentar da Comarca, por período superior a 07 dias, e, tampouco, mudar de endereço, sem aviso prévio e autorização do Juízo da causa.
+
+Efetuado o pagamento da fiança, mediante o devido recolhimento na conta única, expeça -se o competente ALVARÁ DE SOLTURA, devendo o flagrado ser, imediatamente, colocado em liberdade, salvo se por outro motivo estiver preso. (...)”
+
+Com as inovações da Lei nº 12.403/2012, o instituto da fiança passou por modificações significativas, de sorte que o seu arbitramento, assim, como a imposição de qualquer outra medida cautelar, somente será cabível quando estiverem presentes os requisitos da prisão preventiva (
+fumus commissi delicti
+e
+periculum libertatis
+), mas que, em razão da proporcionalidade, se mostre menos onerosa ao agente e seja suficiente para tutelar a situação concreta exigido no curso processo.
+
+No caso dos autos, a imposição de fiança vem desacompanhada de qualquer fundamentação, servindo apenas como "complementação" à liberdade provisória.
+
+A fiança, assim como todas as medidas cautelares - deve atender as finalidades previstas na lei (art. 319, VII, do CPP), sob pena de haver banalização da medida cautelar diversa da prisão, desvirtuando a finalidade da Lei nº 12.403/2011 e, ao invés de diminuir a intervenção penal injustificada, massificá-la.
+
+Premente destacar que a ordem constitucional vigente avoca como regra geral o direito à liberdade de locomoção, de modo que a prisão do indivíduo é o último recurso a ser utilizado pelo Poder Público, justificável apenas quando presentes os requisitos contidos nos artigos 312 e 313 do Código de Processo Penal.
+
+Destarte, além da presença dos requisitos do
+fumus comissi delicti
+e do
+periculum libertatis
+, a nova sistemática processual penal, introduzida pela Lei n. 12.403/2011, exige a valoração da necessidade da medida cautelar à luz do postulado da proporcionalidade, deixando, portanto, a prisão preventiva para casos de maior gravidade, cujas circunstâncias sejam indicativas de perigo concreto à efetividade do processo ou de reiteração criminosa.
+
+Com efeito, a falta de recursos para o adimplemento do valor estabelecido a título de fiança não é suficiente para manter o insurgente em cárcere, porquanto a própria legislação processual penal possibilita a exclusão da condicionante em caso de hipossuficiência econômica do custodiado, consoante disposto nos
+artigos 325, § 1º, inciso I, e 350, ambos do Código de Processo Penal
+.
+
+Extrai-se dos dispositivos supramencionados, que a dispensa da fiança não é uma discricionariedade do magistrado, mas sim direito do beneficiário, sobretudo porque o seu arbitramento está condicionado à avaliação de sua condição econômica.
+
+Observa-se nos autos
+, que o douto magistrado verificou a possibilidade da concessão da liberdade provisória. Desse modo, ao menos em tese, a aparente situação de hipossuficiência do paciente, e sua manutenção no cárcere, apenas em razão do não pagamento da fiança arbitrada, configura manifesto constrangimento ilegal, a autorizar a concessão da liminar pleiteada.
+
+Com efeito, o Superior Tribunal de Justiça entende não ser possível a manutenção da custódia cautelar tão somente em razão do não pagamento do valor arbitrado a título de fiança, a qual, em comprovada situação de hipossuficiência, poderá ser dispensada, a teor do art. 350 do Código de Processo Penal.
+
+Nesse sentido:
+
+HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR. SÚMULA N.º 691/STF. SUPERAÇÃO. VIABILIDADE. TERATOLOGIA OU FLAGRANTE ILEGALIDADE. EXISTÊNCIA. ARTS. 306 E 309 DO CÓDIGO DE TRÂNSITO NACIONAL. PRISÃO EM FLAGRANTE HOMOLOGADA. AUSÊNCIA DE FUNDAMENTOS PARA PREVENTIVA. FIXAÇÃO DE CONDIÇÕES, INCLUINDO PAGAMENTO DE FIANÇA. HIPOSSUFICIÊNCIA DO PACIENTE. DESEMPREGADO E ASSISTIDO PELA DEFENSORIA PÚBLICA. INCIDÊNCIA DO ART. 350 DO CPP. CONSTRANGIMENTO ILEGAL VERIFICADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO. (...)5. Habeas corpus não conhecido. Ordem concedida de ofício para, confirmando a liminar anteriormente deferida, garantir ao Paciente a liberdade provisória, sem fiança, mantidas as demais medidas cautelares diversas da prisão aplicadas pelo Juízo de primeiro grau, quais sejam: a) comparecimento mensal em juízo para justificar suas atividades, b) proibição de ausentar-se da Comarca por mais de 7 (sete) dias sem autorização judicial, c) comparecimento a todos os atos do processo. (HC 462.867/SP, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 18/10/2018, DJe 7/11/2018)
+
+Sendo também o entendimento desta Eg. Corte.
+
+“(...) Avultando dos autos que a paciente, malgrado agraciada com a concessão da liberdade provisória compromissada, permanece enclausurada por não dispor de capacidade financeira para prestar a
+FIANÇA
+que lhe fora imposta, imperiosa a concessão da ordem de habeas corpus a fim de dispensá-la de seu pagamento, sobremodo a se considerar a ina
+FIANÇA
+bilidade das infrações penais imputadas [arts. 33, caput, e 35, caput, da Lei n. 11.343/06], sem prejuízo da mantença das demais medidas cautelares estabelecidas. (N.U 1008934-83.2019.8.11.0000, CÂMARAS ISOLADAS CRIMINAIS, ALBERTO FERREIRA DE SOUZA, Segunda Câmara Criminal, Julgado em 31/07/2019, Publicado no DJE 05/08/2019)
+
+HABEAS CORPUS – FURTO TENTADO – PRISÃO EM FLAGRANTE – INSURGÊNCIA CONTRA A IMPOSIÇÃO DE
+FIANÇA
+, COMO CONDIÇÃO À LIBERDADE PROVISÓRIA – HIPOSSUFICIENTE ASSISTIDO PELA DEFENSORIA PÚBLICA – POSSIBILIDADE DE
+DISPENSA
+– ORDEM CONCEDIDA. Comprovada a hipossuficiência do paciente, o qual está desempregado e é assistido pela Defensoria Pública, revela-se possível a
+DISPENSA
+do pagamento de
+FIANÇA
+. (N.U 1007682-45.2019.8.11.0000, CÂMARAS ISOLADAS CRIMINAIS, PAULO DA CUNHA, Primeira Câmara Criminal, Julgado em 25/06/2019, Publicado no DJE 25/06/2019)
+
+Lado outro, a imposição de medida cautelar não depende da prova certa da materialidade, nem de indícios suficientes de autoria. Esses são requisitos para a prisão preventiva e para o oferecimento da denúncia ou queixa
+(NUCCI, Guilherme de Souza. Código de Processo Penal Comentado. 13 ed. Rio de Janeiro: Forense, 2014, p. 282).
+
+Como o inadimplemento da fiança não é capaz de, por si só, justificar a manutenção do paciente no cárcere.
+
+Desse modo, ratifico a liminar e concedo, em definitivo, o writ em favor de
+Aparecido Celio Faustino Matos
+.
+
+É como voto.
+
+Comunicações e providências.
+
+Data da sessão:
+Cuiabá-MT, 31/05/2021
