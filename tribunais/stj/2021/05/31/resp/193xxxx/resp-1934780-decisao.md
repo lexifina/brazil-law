@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto por DANIELLA IMACULADA BARROS CUNHA, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL - CONTRATO DE PROMESSA DE COMPRA E VENDA - DISTRATO - QUITAÇÃO PLENA - VÍCIO DE CONSENTIMENTO - AUSÊNCIA DE COMPROVAÇÃO - VALIDADE DO INSTRUMENTO - HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS - FIXAÇÃO POR EQUIDADE - POSSIBILIDADE. A declaração de nulidade ou anulabilidade do negócio jurídico exige cabal comprovação dos vícios de consentimento, a cargo do autor, a quem incumbe provar os fatos constitutivos de seu direito, ex vi da regra contida no art. 373, I, do CPC. Ausente prova de qualquer vício de vontade, revela-se inviável a declaração de nulidade do distrato. Os honorários advocatícios devem ser fixados por apreciação equitativa não somente quando o valor da causa for aviltante, como também naquelas que possuem valor excessivo, a contrario sensu. Vv: Consoante orientação do STJ, os honorários advocatícios, enquanto consectários legais da condenação principal, possuem natureza de ordem pública, podendo ser revistos a qualquer momento e até mesmo de ofício, sem que isso configure reformatio in pejus" (e-STJ fl. 362).
+Os embargos de declaração opostos na origem foram rejeitados (e-STJ fls. 392/398).
+Nas presentes razões (e-STJ fls. 401/429), além de divergência jurisprudencial, a recorrente aponta violação dos artigos 138, 139, 186 e 423 do Código Civil e 6º, VI, e 47 do Código de Defesa do Consumidor.
+Defende a existência de erro substancial quando da realização do segundo distrato, tendo em vista que a recorrida dispôs em tal documento que lhe ressarciria integralmente toda a importância já paga relativa ao contrato anteriormente celebrado.
+Sustenta que referido valor seria utilizado para a compra de uma nova unidade imobiliária.
+Afirma que, depois de alguns meses, obteve a notícia de que a recorrida passava por dificuldades financeiras e que apenas estaria renegociando contratos se fosses vantajosos para ela.
+Assevera que requereu junto à recorrida os extratos de pagamento, só a partir daí veio a saber que,
+"(..) muito embora tenha pagado R$179.908,15 (valores históricos) para aquisição do apartamento Joá, quando do segundo distrato, entraram como crédito na nova unidade APENAS R$112.460,00 (Cento e doze mil, quatrocentos e sessenta reais)" (e-STJ fl. 417).
+Assinala que, "(..) ao contrário do afirmado na sentença e no acórdão proferido, a recorrente não tinha como saber de fato qual era a quantia efetivamente já paga por ela, razão pela qual ingenuamente confiou na boa-fé da empresa recorrida" (e-STJ fl. 420).
+Argumenta que teve seus projetos pessoais afetados, não se tratando o caso de meros aborrecimentos decorrentes de inadimplemento contratual, motivo por que requer a condenação da recorrida ao pagamento de danos morais.
+Ao final, requer o provimento do recurso.
+Após a apresentação das contrarrazões (e-STJ fls. 433/441), o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar.
+Consta dos autos que a autora, ora recorrente, celebrou com a recorrida contrato de promessa de compra e venda de imóvel em construção, referente à unidade 108 do Edifício Mangabeiras, que seria edificado na Rua José Hermetério de Andrade, nº 430, bairro Estoril, Belo Horizonte.
+Devido a atrasos na obra, as partes formalizaram distrato e, com a utilização de parte dos valores pagos (R$ 65.971,26), o imóvel anterior foi substituído pela unidade 1.201 do Edifício Joá, a ser edificado na Rua Tereza Mota Valadares, nº 685, bairro Buritis.
+Em decorrência de novos atrasos, as partes, por fim, celebraram um segundo distrato e uma nova substituição de unidade imobiliária (apartamento 408, da Torre 2, do Edifício Vellasquez, situado na Rua StelIa Hanriot, nº 518, bairro Estoril).
+A segunda liberação expressa que o valor despendido pela autora na aquisição do empreendimento anterior foi de R$112.460,00 (cento e doze mil quatrocentos e sessenta reais), o qual seria integralmente restituído e utilizado como forma de pagamento de parte do preço de aquisição do novo apartamento.
+Após a realização do distrato, a recorrente requereu junto à recorrida o extrato atualizado de pagamentos, tendo ciência a partir de então de que já havia pagado R$67.448,15 (sessenta e sete mil quatrocentos e quarenta e oito reais e quinze centavos) além do que restou consignado no ajuste.
+Irresignada, a recorrente buscou o reconhecimento de que incorreu em erro substancial ao concordar com os termos do segundo distrato.
+As instâncias ordinárias julgaram pela improcedência do pedido, tendo em vista a ausência de provas de ocorrência de algum dos vícios de consentimento.
+Impende asseverar que o distrato também está sujeito aos princípios da boa-fé objetiva, da função social e da legislação protetiva ao consumidor.
+No caso dos autos, ainda que os provimentos jurisdicionais proferidos na origem não tenham vislumbrado a ocorrência de vício de consentimento, o que não pode ser revisto por esta Corte por força dos óbices das Súmulas nºs 5 e 7/STJ, não se pode deixar de observar a subsunção dos fatos alegados às normas do Código de Defesa do Consumidor.
+Está incontroverso nos autos que os dois distratos consensualmente celebrados pelas partes ora litigantes tiveram causa no inadimplemento da promitente vendedora. De acordo com a orientação sedimentada do Superior Tribunal de Justiça, a rescisão do contrato de promessa de compra e venda de imóvel por inadimplemento do vendedor enseja a devolução integral dos valores pagos pelo comprador.
+A recorrente alega que o segundo distrato consignou que a adquirente seria integralmente ressarcida dos valores que pagou, contudo, consignou valor visivelmente inferior ao que realmente foi pago.
+A quitação outorgada não impede que a recorrente busque eventual prejuízo que tenha sofrido. Com efeito, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser cabível a revisão do distrato se constatada qualquer ilegalidade.
+Confira-se:
+"RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. PARQUE RESIDENCIAL UMBU. REVISÃO DE CONTRATOS FINDOS. POSSIBILIDADE. DISTRATO À LUZ DO CÓDIGO DE DEFESA DO CONSUMIDOR. RESOLUÇÃO EXTRAJUDICIAL DO NEGÓCIO COM ESTIPULAÇÃO DE CLÁUSULA DE DECAIMENTO. IMPOSSIBILIDADE. NULIDADE DAS CLÁUSULAS ABUSIVAS.
+1. A transação é espécie de negócio jurídico que objetiva por fim a uma celeuma obrigacional, alcançada por meio de concessões mútuas (CC, art. 840), cujo objetivo primordial é evitar o litígio ou colocar-lhe fim. A extinção se exterioriza na forma de renúncia a direito patrimonial de caráter privado, disponível, portanto, conforme previsto na lei.
+2. É firme o entendimento do STJ quanto à possibilidade de revisão dos contratos findos, ainda que em decorrência de quitação, para o afastamento de eventuais ilegalidades. Precedentes. Súm 286 do STJ.
+3. As normas previstas no Código de Defesa do Consumidor são de ordem pública e interesse social, cogentes e inderrogáveis pela vontade das partes.
+4. É cabível a revisão de distrato de contrato de compra e venda de imóvel, ainda que consensual, em que, apesar de ter havido a quitação ampla, geral e irrevogável, se tenha constatado a existência de cláusula de decaimento (abusiva), prevendo a perda total ou substancial das prestações pagas pelo consumidor, em nítida afronta aos ditames do CDC e aos princípios da boa-fé objetiva e do equilíbrio contratual.
+5. Na hipótese, verifica-se que a Construtora recebeu dupla vantagem advinda da referida cláusula, pois, além de retomar a propriedade do imóvel, dando-o em pagamento de dívidas ao Município, acabou por se apoderar do dinheiro pago pelo consumidor no financiamento do bem, configurando vantagem abusiva em seu favor.
+6. Recurso especial não provido" (REsp 1.412.662/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 1º/09/2016, DJe 28/09/2016).
+Na hipótese dos autos, embora o aresto recorrido tenha reconhecido que os distratos foram ajustados em virtude do inadimplemento da autora, deixou de examinar a questão à luz da alegação da recorrente de que o segundo deles previu expressamente o ressarcimento integral dos valores despendidos.
+Ante o exposto, dou provimento ao recurso especial para determinar o retorno dos autos à origem para que, observado a jurisprudência desta Corte Superior, seja proferido novo julgamento do recurso de apelação como entender de direito.
+Publique-se.
+Intimem-se.
+EMENTA
