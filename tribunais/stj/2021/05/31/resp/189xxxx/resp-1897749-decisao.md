@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especialinterposto porUNIMED DE FRANCA SOC COOP DE SERVIÇOS MED E HOSPITALARES,com fundamento no art. 105, III, alíneas "a" e "c",da Constituição Federal,contra acórdão proferido pelo Tribunal de Justiça do Estado de São Pauloassim ementado:
+"PLANO DE SAÚDE Cominatória c/c indenizatória Sentença de procedência, para condenar a operadora de plano de saúde ré a fornecer à autora o fármaco Rituximabe 500mg/50ml 500mg/frasco, na forma, modo e local indicados pelo médico que assiste a autora, enquanto permanecer a sua necessidade; e condenar a ré, ainda, a indenizar a autora, por danos morais, em R$10.000,00 Medicamento devidamente prescrito para o tratamento da afecção da autora, negado pela operadora pela sua ausência no rol da ANS Abusividade da negativa Inteligência da Súmula nº 102 do TJSP Dano moral Ocorrência Quantum indenizatório bem arbitrado Decisum mantido por seus própriose jurídicos fundamentos, nos termos do art. 252 do Regimento Interno do TJSP Apelo não provido, com observação"(fl. 377 e-STJ)
+Nas razões do recurso especial, arecorrente sustenta, além da divergência jurisprudencial, violação doartigo10 da Lei nº 9.656/98l.
+Alega que "não há como deixar de reconhecer que o rol de procedimentos elaborado pela Agência Nacional de Sáude Suplementar é (..) delimitador da coertura dos planos privados de assistência à saúde" (fl. 389 e-STJ).
+Pleiteia o afastamento da condenação em danos morais.
+Contrarrazões às fls. 463/490 e-STJ, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+A assistência suplementar à saúde compreende todas as ações necessárias para a prevenção da doença e a recuperação, manutenção e reabilitação da higidez física, mental e psicológica do paciente (art. 35-F da Lei nº 9.656/1998).
+Dessa maneira, a cobertura assistencial obrigatória abrange, caso haja indicação clínica, os insumos necessários para realização de procedimentos cobertos, incluídos os medicamentos imprescindíveis para a boa terapêutica do usuário (arts. 7º, parágrafo único, e 17 da Resolução Normativa nº 387/2015 da Agência Nacional de Saúde Suplementar).
+Acerca da legalidade da negativa de cobertura, a Terceira Turma do Superior Tribunal de Justiça reafirmou a jurisprudência no sentido do caráter meramente exemplificativo do rol de procedimentos da ANS, reputando abusiva a negativa da cobertura pelo plano de saúde do tratamento considerado apropriado para resguardar a saúde e a vida do paciente.
+Nesse contexto, entendeu-se que cabe ao profissional habilitado a indicação do tratamento mais adequado ao seu paciente, sendo responsabilidade da seguradora o custeio das despesas de acordo com a melhor técnica.
+A propósito:
+"AGRAVO INTERNO. RECURSO ESPECIAL. CIVIL (CPC/2015). CIVIL. PLANO DE SAÚDE NA MODALIDADE AUTOGESTÃO. RECUSA DE COBERTURA DE CIRURGIA PARA TRATAMENTO DE DEGENERAÇÃO DA ARTICULAÇÃO TEMPOROMANDIBULAR (ATM). DIVERGÊNCIA QUANTO À ADEQUAÇÃO DO PROCEDIMENTO. INGERÊNCIA NA RELAÇÃO CIRURGIÃO-PACIENTE. DESCABIMENTO. JURISPRUDÊNCIA PACÍFICA DESTA TURMA. APLICABILIDADE ÀS OPERADORAS DE AUTOGESTÃO. PRECEDENTE EM SENTIDO CONTRÁRIO NA QUARTA TURMA. REAFIRMAÇÃO DA JURISPRUDÊNCIA DESTA TURMA.
+1. Controvérsia acerca da recusa de cobertura de cirurgia para tratamento de degeneração da articulação temporomandibular (ATM), pelo método proposto pelo cirurgião assistente, em paciente que já se submeteu a cirurgia anteriormente, por outro método, sem obter êxito definitivo.
+2. Nos termos da jurisprudência pacífica desta Turma, o rol de procedimentos mínimos da ANS é meramente exemplificativo, não obstando a que o médico assistente prescreva, fundamentadamente, procedimento ali não previsto, desde que seja necessário ao tratamento de doença coberta pelo plano de saúde. Aplicação do princípio da função social do contrato.
+3. Caso concreto em que a necessidade de se adotar procedimento não previsto no rol da ANS encontra-se justificada, devido ao fato de o paciente já ter se submetido a tratamento por outro método e não ter alcançado êxito.
+4. Aplicação do entendimento descrito no item 2, supra, às entidades de autogestão, uma vez que estas, embora não sujeitas ao Código de Defesa do
+Consumidor, não escapam ao dever de atender à função social do contrato.
+5. Existência de precedente recente da QUARTA TURMA no sentido de que
+seria legítima a recusa de cobertura com base no rol de procedimentos mínimos da ANS.
+6. Reafirmação da jurisprudência desta TURMA no sentido do caráter exemplificativo do referido rol de procedimentos.
+7. AGRAVO INTERNO DESPROVIDO"(AgInt no REsp 1.829.583/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 22/6/2020, DJe 26/6/2020).
+Ademais, o tribunal de origem ao dirimir a controvérsiasobre a configuração do dano moralconcluiu que:
+"(..)
+A requerente é portadora de Neuromielite Óptica e há prescrição de tratamento com Rituximabe, conforme o relatório médico de fls. 55/57. Não obstante, a requerida recusou-se a fornecer o tratamento (fls.198/206).
+É pacífico na jurisprudência o entendimentode que cabe ao médico assistente determinar o tratamento mais adequado ao paciente a fim de alcançar o restabelecimento da saúde, sendo abusiva a negativa do plano de saúde nestas condições.É de se notar ainda que o fato de o tratamento não estar previsto no rol de procedimentos da ANS não é justificativa para se negar a assistência do plano de saúde, conformeexpressa a Súmula 102: "Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS".
+(..)
+A respeito da quantificação da lesão moral, no mais, inexiste critério fixo e determinado, devendo ser observada a peculiaridade do caso concreto, levando-se em consideração as condições do ofendido, do ofensor e do bem jurídico lesado. Tal indenização deve satisfazer a vítima na justamedida do abalo sofrido, não podendo ser fixadaem valor tão alto que se converta a dor em fonte de enriquecimento sem causa do ofendido, nem em quantia tão irrisória que não reprima a ocorrência de eventos da mesma natureza. Nesse tocante, na diretriz dos princípios da razoabilidade e da proporcionalidade, consoante determina o artigo 944 do Código Civil, arbitro o valor em R$ 10.000,00 (dez mil reais)"(fls. 378/379 e-STJ).
+Com efeito, o entendimento do Superior Tribunal de Justiça éno sentido de que a negativailegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente, como na hipótese dos autos.
+Nesse contexto, a modificação do entendimento adotado pelo órgão colegiado demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7/STJ.
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. RECUSA DE COBERTURA INDEVIDA. DANO MORAL. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. CARACTERIZAÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de obrigação de fazer c/c compensação por danos morais, em decorrência de negativa de cobertura de procedimento cirúrgico e acessórios.
+2. A negativa administrativa ilegítima de cobertura para tratamento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo interno no agravo em recurso especial não provido"(AgInt no AREsp 1788756/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/04/2021, DJe 28/04/2021).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PLANO DE SAÚDE. MEDICAMENTO DOMICILIAR. IMPRESCINDIBILIDADE DA MEDIDA. CLÁUSULA ABUSIVA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF.DANO MORAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte Superior firmou o entendimento de que é "abusiva a recusa de custeio do medicamento prescrito pelo médico responsável pelo tratamento do beneficiário, ainda que ministrado em ambiente domiciliar" (AgInt no AREsp n. 1.433.371/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2019, DJe 24/9/2019).
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem analisou a prova dos autos - recusa indevida de fornecimento de medicamento com previsão contratual - para concluir pela presença do dano moral. Alterar tal conclusão é inviável em recurso especial.
+5. A simples indicação de dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+6. Agravo interno a que se nega provimento"(AgInt no AREsp 1728749/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/03/2021, DJe 12/03/2021).
+Registre-se, outrossim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto,não conheçodo recurso especial.
+Deixo de aplicar o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que os honorários advocatícios já foram fixados no grau máximo (fl.289 e-STJ).
+Publique-se.
+Intimem-se.
