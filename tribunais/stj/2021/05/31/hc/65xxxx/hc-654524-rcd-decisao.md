@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de pedido de reconsideração formulado por GILBERTO GUBOLIN JUNIOR contra decisão de minha lavra em que indeferi o pedido liminar apresentado no habeas corpus (fls. 93-95).
+O Requerente alega que:
+"conforme se depreende dos autos, o Ministério Público Federal fora intimado em 09/04/2021 para manifestar-se no presente habeas corpus e até o presente momento permanece inerte.
+Ocorre que o silencio do MPF vem retardando o bom andamento dos autos, sendo que o habeas corpus de paciente preso preventivamente deveria ter prioridade no trâmite, algo que não vem acontecendo." (fl. 110)
+No mais, reitera as alegações de constrangimento ilegal na manutenção da prisão preventiva em virtude: a) da existência de decisões, em casos semelhantes, em que a prisão preventiva foi revogada, por se entender que a gravidade em abstrato do delito não é fundamento idôneo; e b) da ausência de motivos concretos para o encarceramento cautelar, tendo em vista que o Requerente é advogado, primário, possui bons antecedentes e estava apenas cedendo sua residência para que o proprietário das drogas pudesse fracioná-las para venda.
+Inicialmente, esclareço que a Secretaria de Processamento de Feitos desta Corte Superior certificou que "os presentes autos, deslocados ao Ministério Público Federal para emissão de parecer, tiveram sua tramitação restabelecida para conclusão com petição urgente" (fl. 115). A vista aoParquetpara o oferecimento do parecer -ainda não protocolado nos autos -deu-se em 05/04/2021 (fl. 106).
+No mais, o pedido de reconsideração não deve ser acolhido.
+Com efeito, na decisão impugnada concluí que odecreto prisional, aparentemente, encontra-se devidamente fundamentadoem razão da gravidade concreta da conduta - demonstrada pela excessiva quantidade de droga apreendida na residência do Requerente (1 kg (um quilo) de cocaína), e pelo fato de que o Requerente fora surpreendido auxiliando o Corréu a fracionar a droga, circunstância que pode eventualmente demonstrar a maior reprovabilidade da conduta.
+No mais, reitero que a análise daalegaçãode que a droga não pertence ao Requerente -que seria meramente um usuário de entorpecente e que estava somente emprestando a sua residência -exigeexame acurado do contexto fático-probatório dos autos, razão pela qual, ao menosprimo ictu oculi,não podem ser analisadas no presente mandamus, pois se trata de providência incabível na via estreita do habeas corpus.
+Ante o exposto, INDEFIRO o pedido de reconsideração.
+Reencaminhem-se os autos ao Ministério Público Federal, solicitando urgência para a confecção do parecer, tendo em vista se tratar de Réu sob custódia.
+Publique-se. Intimem-se.
