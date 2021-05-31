@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL.ADMINISTRATIVO.FUNDEB. PRETENSÃO DE OBTENÇÃO DE COMPLEMENTAÇÃO DOS REPASSES REFERENTES AOS EXERCÍCIOS DE 2009 E 2010.RECURSO APRESENTADO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. ART. 1.021, C/C 219, 1.003, § 5º, E 1.070 DO CPC/2015. NÃO CONHECIMENTO.
+I - Trata-se de ação declaratória com pedido tutela de urgência contra a União objetivando a condenação do ente federado réu ao pagamento da complementação dos valores repassados pelo Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb), nos anos de 2009 e 2010, em razão da fixação equivocada do valor mínimo anual por aluno - VMAA do Fundef em 2006, o qual deveria corresponder, no mínimo, à média nacional por aluno como critério de complementação.
+II - O Tribunal Regional Federal da 5ª Região, em grau recursal, negou provimento ao recurso de apelação da municipalidade, mantendo incólume a decisão monocrática de extinção da ação com resolução do mérito em razão da prescrição do fundo de direito autoral.
+III - O prazo para interposição de agravo interno, em relação à decisão de folha 1.463, teve início em 8/2/2021 e término em 2/3/2021, e a Petição n. 189.061/2021 (AgInt) foi protocolizada em 12/3/2021.
+IV - A interposição de agravo interno, após o prazo legal de 15 dias úteis, implica o não conhecimento do recurso, por intempestividade, nos termos do art. 1.021, c/c os arts. 219, 1.003, § 5º, e 1.070 do Código de Processo Civil de 2015.
+V - Agravo interno não conhecido.
+RELATÓRIO
+O Município de São José da Coroa Grande/PE ajuizou ação declaratória com pedido tutela de urgência contra a União objetivando a condenação do ente federado réu ao pagamento da complementação dos valores repassados pelo Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb), nos anos de 2009 e 2010, em razão da fixação equivocada do valor mínimo anual por aluno - VMAA do Fundef em 2006, o qual deveria corresponder, no mínimo, à média nacional por aluno como critério de complementação.
+O Tribunal Regional Federal da 5ª Região, em grau recursal, negou provimento ao recurso de apelação da municipalidade, mantendo incólume a decisão monocrática de extinção da ação com resolução do mérito em razão da prescrição do fundo de direito autoral (fls. 955-959), nos termos da seguinte ementa (fls. 1.117-1.118):
+PROCESSUAL CIVIL, CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO.
+FUNDEB. PRETENSÃO DE OBTENÇÃO DE COMPLEMENTAÇÃO DOS REPASSES REFERENTES AOS EXERCÍCIOS DE 2009 E 2010. AUSÊNCIA DE INTERESSE PROCESSUAL, QUANTO AO ANO DE 2010. VALORES PRATICADOS SUPERIORES AOS POSTULADOS. PRESCRIÇÃO, EM RELAÇÃO AO ANO DE 2009.OCORRÊNCIA. AJUIZAMENTO DE AÇÃO COLETIVA POR ASSOCIAÇÃO. NÃO INTERRUPÇÃO DO PRAZO PRESCRICIONAL. AUSÊNCIA DE AUTORIZAÇÃO EXPRESSA DA MUNICIPALIDADE. NÃO PROVIMENTO.
+1. Apelação interposta pelo MUNICÍPIO pernambucano autor, em face de sentença que extinguiu com resolução do mérito o processo através do qual o recorrente busca a condenação da UNIÃO a pagar valores a título de complementação de repasses referentes ao FUNDEB, nos anos de 2009 e 2010, em razão da fixação equivocada do VMAA de 2006.
+2. Quanto ao exercício de 2010, o recorrente alegou que o VMAA deveria ter correspondido a R$1.473,05. Ocorre que a UNIÃO logrou demonstrar que o VMAA praticado naquele ano foi de R$1.529,97, ou seja, importe superior ao postulado na petição inicial. Por conseguinte, é de se reconhecer, nesse ponto, a falta de interesse processual, porque o montante pretendido com a ação é inferior ao afetivamente percebido pelo autor na via administrativa. Precedentes.
+3. No tocante ao exercício de 2009, é de se manter a sentença que reconheceu a materialização da prescrição, com base no art. 1º do Decreto nº 20.910/32, considerando quea ação foi ajuizada em 24.11.2016, não merecendo prosperar a alegação do apelante de que a prescrição não se aperfeiçoou, porque o curso do prazo prescricional teria sido interrompido com o ajuizamento da Ação Coletiva nº 0802373-96.2015.4.05.8300, pela AMUPE.
+4. A questão da legitimação das associações na atuação em juízo, em defesa de seus associados, não comporta maiores digressões, em razão do entendimento cristalizado pelo STF, no RE nº 573.232/SC, em função de cujo julgamento, sob o rito da repercussão geral, foram firmadas as seguintes teses: "I - A previsão estatutária genérica não é suficiente para legitimar a atuação, em Juízo, de associações na defesa de direitos dos filiados, sendo indispensável autorização expressa, ainda que deliberada em assembleia, nos termos do artigo 5º, inciso XXI, da Constituição Federal; II - As balizas subjetivas do título judicial, formalizado em ação proposta por associação, são definidas pela representação no processo de conhecimento, limitada a execução aos associados apontados na inicial".
+5. In casu, o MUNICÍPIO recorrente não comprovou que tivesse autorizado, expressamente, a AMUPE a ingressar com a ação coletiva em seu nome, de modo que não há como se reconhecer que o ajuizamento da demanda coletiva lhe beneficiou com a eventual interrupção do prazo prescricional.
+6. Julgado da Primeira Turma, em composição ampliada: PROCESSO:08092952220164058300, Relator DESEMBARGADOR FEDERAL ÉLIO WANDERLEY DE SIQUEIRA FILHO, 1º Turma, JULGAMENTO: 06/06/2017.
+7. Apelação não provida.
+Opostos embargos de declaração por ambas as partes, foram eles rejeitados (fls. 1.263-1.267).
+O Município de São José da Coroa Grande/PE interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição da República, no qual aponta afronta ao art. 240, § 1º, do CPC de 2015, ao art. 202, I, do Código Civil, e violação dos arts. 1º e 9º da Lei n. 20.910 de 1932, porquanto, em apertada síntese, da não ocorrência da prescrição da pretensão de recebimento das diferenças de complementação ao Fundeb dos anos de 2009 e 2010, tendo em vista a propositura da Ação Coletiva n. 0802373-96.2015.4.05.8300, pela Associação Municipalista de Pernambuco - AMUPE, o que implicou a interrupção do prazo quinquenal da ação individual do Município recorrente.
+Defende, ainda, que a interrupção da prescrição é consequência lógica independentemente do resultado de procedência ou não da ação coletiva, bastando, tão somente, a citação válida, ainda que ordenada por juízo incompetente, e a identidade de objetos (pedido e causa de pedir) entre a ação coletiva e a individual da municipalidade.
+Ofertadas contrarrazões ao recurso especial às fls. 1.338-1.376.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, §4º, I, do RISTJ, não conheço do recurso especial, sem arbitramento/majoração da verba honorária, tendo em vista não ter sido fixada na sentença de Primeiro Grau."
+Interposto agravo interno.
+A parte agravada foi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL.ADMINISTRATIVO.FUNDEB. PRETENSÃO DE OBTENÇÃO DE COMPLEMENTAÇÃO DOS REPASSES REFERENTES AOS EXERCÍCIOS DE 2009 E 2010.RECURSO APRESENTADO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. ART. 1.021, C/C 219, 1.003, § 5º, E 1.070 DO CPC/2015. NÃO CONHECIMENTO.
+I - Trata-se de ação declaratória com pedido tutela de urgência contra a União objetivando a condenação do ente federado réu ao pagamento da complementação dos valores repassados pelo Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb), nos anos de 2009 e 2010, em razão da fixação equivocada do valor mínimo anual por aluno - VMAA do Fundef em 2006, o qual deveria corresponder, no mínimo, à média nacional por aluno como critério de complementação.
+II - O Tribunal Regional Federal da 5ª Região, em grau recursal, negou provimento ao recurso de apelação da municipalidade, mantendo incólume a decisão monocrática de extinção da ação com resolução do mérito em razão da prescrição do fundo de direito autoral.
+III - O prazo para interposição de agravo interno, em relação à decisão de folha 1.463, teve início em 8/2/2021 e término em 2/3/2021, e a Petição n. 189.061/2021 (AgInt) foi protocolizada em 12/3/2021.
+IV - A interposição de agravo interno, após o prazo legal de 15 dias úteis, implica o não conhecimento do recurso, por intempestividade, nos termos do art. 1.021, c/c os arts. 219, 1.003, § 5º, e 1.070 do Código de Processo Civil de 2015.
+V - Agravo interno não conhecido.
+VOTO
+O recurso não merece ser conhecido.
+O prazo para interposição de agravo intern,o em relação à decisão de folha 1.463, teve início em 8/2/2021 e término em 2/3/2021, e a Petição n. 189.061/2021 (AgInt) foi protocolizada em 12/3/2021.
+A interposição de agravo interno, após o prazo legal de 15 dias úteis, implica o não conhecimento do recurso, por intempestividade, nos termos do art. 1.021, c/c os arts. 219, 1.003, § 5º, e 1.070 do Código de Processo Civil de 2015.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO APRESENTADO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. ART. 1.021, C/C 219, 1.003, § 5º, E 1.070 DO CPC/2015. NÃO CONHECIMENTO.
+1. A interposição de agravo interno após o prazo legal de quinze dias úteis implica o não conhecimento do recurso, por intempestividade, nos termos do art. 1.021, c/c os arts. 219, 1.003, § 5º, e 1.070 do Código de Processo Civil de 2015.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 500.715/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 7/11/2017, DJe 14/11/2017.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RECURSO PROTOCOLIZADO DE FORMA FÍSICA. RESOLUÇÃO 10/STJ. INOBSERVÂNCIA. APRESENTAÇÃO DA PETIÇÃO ELETRÔNICO FORA DO PRAZO DE QUINZE DIAS ÚTEIS PREVISTO NO ARTIGO 1.003, § 5º C/C 219 DO CPC/2015. INTEMPESTIVIDADE. AGRAVO INTERNO NÃO CONHECIDO. 1. A Resolução 10 do STJ, que regulamenta o processo judicial eletrônico no âmbito do Superior Tribunal de Justiça, determina que as petições iniciais e incidentais referentes a recurso especial devem ser protocolizadas de forma exclusivamente eletrônica.
+2. Desse modo, a tempestividade do recurso interposto perante esta Corte é aferida pelo protocolo da petição eletrônica, e não pela data da entrega da petição física.
+3. In casu, verifica-se que o presente agravo interno é intempestivo, porquanto, ainda que a petição física tenha sido protocolizada em tempo hábil, a petição eletrônica só foi apresentada após o prazo recursal de 15 (quinze) dias previsto no artigo 1.003, § 5º c/c 219 do Código de Processo Civil de 2015.
+4. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.079.967/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 5/9/2017, DJe 15/9/2017.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. NÃO CONHECIMENTO.
+1. É intempestivo o recurso interposto quando já superado o prazo de 15 (quinze) dias previsto no art. 1.003, § 5º, do CPC/2015.
+2. Agravo interno não conhecido.
+(AgInt no AREsp n. 927.101/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/5/2017, DJe 19/5/2017.)
+Ante o exposto, não conheço do agravo interno.
+É o voto.
