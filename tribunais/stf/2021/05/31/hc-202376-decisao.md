@@ -1,0 +1,28 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido liminar, impetrado em favor de Carlos Alexandre de Lima Gonçalves, apontando como autoridade coatora o Ministro Reynaldo Soares da Fonseca, que não conheceu do HC 652.943/PR.
+    Insurge-se a defesa, em síntese, contra a majoração da pena-base do paciente, na fração de 1/6, ante condenação à pena de 10 anos, 10 meses e 20 dias de reclusão, em regime prisional inicial fechado, além de 1.600 dias-multa, pela prática dos delitos previstos nos arts. 33, caput, e art. 35, caput, ambos da Lei nº 11.343/06, na forma do art. 69 do Código Penal.
+    Na sua visão, ocorreu
+    “[e]levação de forma desproporcional ante o reconhecimento das circunstancias dos antecedentes criminais. Em uma única circunstancia, a pena fora elevada de forma desproporcional. O princípio da proporcionalidade tem por fundamento a aplicação em cada caso, o que lhe é de direito e justo. ”
+    Requer-se:
+    “1)- Concessão da MEDIDA LIMINAR, por estar evidente a existência de fumus boni iuris e periculum in mora, nos termos da fundamentação.
+    1.a) A comprovação de fumus boni iuris, para efeito de concessão do presente pedido de liminar, não nos obriga a maiores esforços argumentativos. Confunde-se com a procedência, em tese, da presente Ordem de Habeas Corpus. O fumus boni iuris, conclui-se, evidencia-se com a leitura da presente petição e os documentos que a ela são anexadas.
+    1.b) O periculum in mora, por sua vez, é absolutamente evidente. A não concessão da presente liminar implica, conforme já demonstrado, em dano irreparável. As informações da autoridade apontada como coatora são inclusive dispensáveis para fins da concessão da liminar, considerando a documentação que acompanha este writ.
+    2)- Que se dê prosseguimento ao feito para, ao final, conceder, de forma definitiva, a Ordem do presente writ, pelos fatos e fundamentos acima exposto.
+    Examinados os autos, decido.
+    Anoto, de início, que a impetração se volta contra decisão monocrática do eminente Ministro Reynaldo Soares da Fonseca, o qual não conheceu do HC 654.943/PR. Logo, incide, na espécie, o entendimento de que,
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14).
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    Ainda que assim não fosse, o eminente Relator no STJ, assim consignou a respeito da fixação da pena base:
+    “No caso, o Tribunal a quo exasperou a pena-base na fração de 1/6, tendo em vista a existência de uma condenação definitiva anterior. Colho do acórdão impugnado os fundamentos que ensejaram a dosimetria da pena (e-STJ fls. 50/51):
+    No que diz respeito, todavia, ao quantum recrudescedor estabelecido em decorrência da valoração negativa dos antecedentes criminais do réu [01 (um) ano de reclusão e 100 (cem) dias-multa], muito embora esteja sujeito à discricionariedade do julgador (não limitado, portanto, a critérios tarifários), tenho para mim que se mostrou exacerbado na espécie, além de ter sido atribuído igualmente para ambos os crimes pelos os quais o réu foi condenado, aos quais foram cominadas penas mínimas legais distintas. Assim, modifico as reprimendas básicas impostas na sentença recorrida, perfazendo-se os montantes de: 03 (três) anos e 06 (seis) meses de reclusão, além de 817 (oitocentos e dezessete) dias-multa (fato 01); e 05 (cinco) anos e 10 (dez) meses de reclusão, mais 583 (quinhentos e oitenta e três) dias-multa (fato 02).
+    Muito embora a lei não estabeleça o patamar mínimo e o máximo para incidência de cada circunstância judicial, sedimentou-se nesta Corte Superior de Justiça a orientação de que o acréscimo superior a 1/6 para cada circunstância judicial desfavorável deve ser devidamente justificado em fundamentação concreta.
+    No caso, pela leitura dos excertos acima transcritos, observa-se que a pena-base foi exasperada, na primeira fase, em fração adequada aos patamares estabelecidos pela jurisprudência desta Corte, pois, em razão da existência de uma condenação anterior, a pena-base foi aumentada em 1/6.
+    Tem-se, portanto, que a majoração da pena-base do paciente foi alicerçada na indicação de circunstância judicial desfavorável, decorrente de condenação anterior, não sendo o habeas corpus, ademais, a via adequada para ponderar, em concreto, a suficiência dela para a majoração da pena-base (RHC nº 133.974/RJ, Segunda Turma, de minha relatoria, DJe de 3/3/17; RHC nº 132.361/SP, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 22/4/16; e HC nº 87.684/AM, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/8/06, entre outros.
+    Ademais, a Corte já se pronunciou no sentido de que “[a] dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena” (HC nº 144.341/CE-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 27/9/17).
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 31 de maio de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
