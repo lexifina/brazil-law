@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Agravo de decisão que não admitiu de Recurso Especial (art. 105, III, "a", da CF/1988) interposto contra acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. AÇÃO CIVIL PÚBLICA. DEMANDA JULGADA PROCEDENTE PARA DETERMINAR QUE A MUNICIPALIDADE SUPRIMA A AUSÊNCIA DE VAGAS EM CRECHE NA LISTA DE ESPERA. INSURGÊNCIA. ANÁLISE COM BASE NO CÓDIGO DE PROCESSO CIVIL DE 1973. MÉRITO. GARANTIA CONSTITUCIONAL À EDUCAÇÃO QUE SE SOBREPÕE AOS ARGUMENTOS DE ISONOMIA E FALTA DE INFRAESTRUTURA. A INEXISTÊNCIA DE VAGAS EM CMEI NÃO PODE SERVIR DE ESCUSA PARA O ENTE PÚBLICO DEIXAR DE ATENDER ÀS GARANTIAS CONSTITUCIONAIS. APELO CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA EM SEDE DE REEXAME NECESSÁRIO.
+Os Embargos de Declaração opostos foram acolhidos sem efeitos modificativos e o respectivo acórdão ficou assim ementado:
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. ALEGADA EXISTÊNCIA DE VÍCIOS NO ACÓRDÃO. GARANTIA CONSTITUCIONAL À EDUCAÇÃO QUE SOBREPÕE AOS ARGUMENTOS DE ISONOMIA E FALTA DE INFRAESTRUTURA. A INEXISTÊNCIA DE VAGAS EM CMEI NÃO PODE SERVIR DE ESCUSA PARA O ENTE PÚBLICO DEIXAR DE ATENDER ÀS GARANTIAS CONSTITUCIONAIS. VÍCIOS SANADOS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM ATRIBUIÇÃO DE EFEITOS INFRINGENTES.
+Nas razões do Apelo especial, o recorrente alega violação dos arts. 4º, I e X, 5º, §§ 2º e4º, e 6ºda Lei 9.394/1996; 2º, §§1ºe 4º, da LIDB; e 3º e 10 da Lei 13.005/2014.
+Sustenta, em suma:
+(..)equivocada a interpretação conferida pelo v. acórdão combatido, no sentido de que haveria de se invocar uma suposta e inexistência "inadimplência" desta Municipalidade em relação a execução das políticas públicas na área da educação infantil, tal qual ventilado no acórdão embargado, eis que mesmo diante da ausência de recursos financeiros, outras medidas continuam sendo levadas a efeito, a duras penas, inexistindo inércia, havendo, ao contrário, avanços permanentes na execução de tal política, conforme demonstram os documentos ora acostados (fl. 4.809, e-STJ).
+Argumenta ainda:
+(..)ao contrário do entendimento consignado no v. acórdão recorrido, não há obrigatoriedade de o Município de Londrina disponibilizar vagas todos os interessados que assim desejem, de modo geral, irrestrito e ilimitado, porquanto, para além das diretrizes vertidas no Piano Nacional de Educação, expostas acima, a Lei Federal nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação  LDBE), alterada em 05.04.2013, pela Lei Federal nº 12.796/2013, tornou obrigatória a educação básica entre os 4 e os 17 anos de idade, de tal forma que o r. decisum objurgado desconsiderou tal separação legal.
+(..)
+Assim, diante da legislação que rege a matéria e, não havendo direito público subjetivo de vagas em creche de modo indiscriminado, irrestrito e ilimitado, tal qual , apontado pelo v. acórdão, não se pode impor ao Município que, fora das prescrições legais promova a supressão da demanda reprimida, estando, pois, o r. decisum ora combatido, a negar vigência aos arts. 4º, I e X, e art. 5º, §§2ºe 4º, art. 6ªda Lei Federal nº 9.394/1996 (LDBE), além de contrariar o disposto nos arts. 2º, §1ºe 4ºda Lei de Introdução ao Código Civil, pugnando a este E. Superior Tribunal de Justiça sua reforma (fls. 4.809-4.812, e-STJ).
+Contrarrazões às fls. 4.838-4.840, e-STJ.
+Instado a manifestar-se, o Ministério Público Federal, na pessoa do Subprocurador-Geral da República Odim Brandão Ferreira, opinou pelo não conhecimento do Recurso Especial.
+Eis a ementa do parecer Ministerial(fl. 4.900, e-STJ):
+Recurso especial com agravo. Ação civil pública. Obrigação do município réu de franquear matrícula em creche pública a todas as crianças de 0 a 6 anos de idade.
+Os dispositivos da Lei 9.394/1996 e da LINDB, supostamente violados, não foram objeto do acórdão recorrido e os embargos declaratórios não suscitaram omissão nesse sentido: incidência das Súmulas 282 e 356 do STF nessa parte do recurso especial.
+Tentativa inviável de sobrepor os arts. 3º e 10 da Lei 13.005/2014 aos fundamentos constitucionais do acórdão recorrido, cuja eventual reforma só poderia advir de argumentos de mesma hierarquia.
+Eventuais óbices constitucionais ao acórdão do TJPR não podem ser discutidos em recurso especial, sob pena de usurpação da competência do STF.
+Parecer pelo não conhecimento do recurso especial.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 7 de maio de 2021.
+Verifico que a matéria versada foi reconhecida pelo STF como de repercussão geral (RE 1.008.166/SC, que cuida do Tema 548: "Dever estatal de assegurar o atendimento em creche e pré-escola às crianças de zero a 5 (cinco) anos de idade.").
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual (Lei 11.672/2008), isto é, a criação de mecanismo que faculte às instâncias de origem o juízo de retratação na forma do art. 1.040 e seguintes do CPC, conforme o caso.
+Nesse sentido:
+RECURSO FUNDADO NO NOVO CPC. (..) PROCESSUAL CIVIL. RECONHECIMENTO DE REPERCUSSÃO GERAL QUANTO AO TEMA VERSADO NO APELO ESPECIAL. SOBRESTAMENTO DESTE ÚLTIMO COM DEVOLUÇÃO À CORTE DE ORIGEM PARA EVENTUAL E OPORTUNO JUÍZO DE CONFORMAÇÃO. POSSIBILIDADE. ENTENDIMENTO FIRMADO NA QO NO REsp 1653884/PR.
+1. Podendo a ulterior decisão do STF, em repercussão geral já reconhecida, influenciar no julgamento da matéria veiculada no recurso especial, conveniente se faz que o STJ, em homenagem aos princípios processuais da celeridade e da efetividade, determine o sobrestamento do especial e devolva os autos ao Tribunal de origem, para que nele se realize eventual juízo de retratação frente ao que vier a ser decidido na Excelsa Corte. Precedentes: AgInt no AgInt no REsp 1.603.061/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 28/06/2017; e AgInt no AgInt no REsp 1.380.952/GO, Rel. Ministro Og Fernandes, Segunda Turma, DJe 21/08/2017.
+2. Ainda que parte das questões impugnadas no recurso especial sejam distintas daquela objeto da afetação pelo STF, aplicável se mostra, mutatis mutandis, o comando previsto no art. 1.037, § 7º, do CPC/2015, cujo regramento determina seja julgada em primeiro lugar a matéria afetada, para apenas depois se prosseguir na resolução do especial apelo, relativamente ao resíduo não alcançado pela decisão dada em repercussão geral.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.365.862/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 19/12/2017)
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO À EDUCAÇÃO. MATRÍCULA EM CRECHE PÚBLICA. RECONHECIMENTO DE REPERCUSSÃO GERAL DA MATÉRIA, PELO STF, NO RE 1.008.166/SC. RECURSO EXTRAORDINÁRIO SOBRESTADO, NO PRESENTE PROCESSO. ENTENDIMENTO DO STF PREJUDICIAL AO RESP. DETERMINAÇÃO DE RETORNO DOS AUTOS À ORIGEM. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado em 23/04/2018.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo interno, para manter a decisão que determinara a devolução dos autos ao Tribunal de origem, para que o Agravo em Recurso Especial seja apreciado apenas após exercido o juízo de retratação ou declarado prejudicado o Recurso Extraordinário, na forma do art. 1.040 do CPC/2015.
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+IV. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp 1.223.450/DF, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 27/6/2018)
+Pelo exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1.040 e seguintes do CPC/2015 e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia:
+a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
