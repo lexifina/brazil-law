@@ -1,0 +1,32 @@
+DECISÃO
+DOUGLAS PIRES MUSA SOARES alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento à Apelação Criminal n.0020757- 43.2007.8.26.0269.
+Consta dos autos que o paciente foi condenado à pena de 8 anos de reclusão, em regime inicial fechado, mais multa, pela prática dos crimes previstos nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006.
+A defesa pleiteia, por meio deste writ, a absolvição no tocante ao delito descrito no art. 35 da Lei de Drogas, a aplicação da minorante prevista no § 4º do art. 33 dessa mesma lei ea fixação do regime aberto.
+A liminar foi indeferida e, diante da suficiente instrução dos autos, foi dispensada a solicitação de informações à autoridade apontada como coatora.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+Decido.
+No que tange à pretendida absolvição do paciente em relação ao delito de associação para o tráfico de drogas, faço lembrar que, considerando a expressão utilizada pelo legislador, de que a associação entre duas ou mais pessoas seja para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34, da Lei de Drogas, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa, conforme, aliás, já expressei no HC n. 220.231/RJ, julgado em 5/4/2016 (DJe 18/4/2016).
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é necessário que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+No caso, o Juiz sentenciante, ao concluir pelo cometimento do crime de associação para o narcotráfico, assim fundamentou, no que interessa (fl. 25):
+Acresça-se que a leitura atenta das ligações telefônicas interceptadas após os fatos, entre o réu Rafael e sua esposa, revelam que Douglas efetivamente fazia parte da associação. Isto porque os interlocutores por inúmeras vezes mencionaram que o réu Douglas, vulgo "Gordinho", não estava cumprindo com suas obrigações dentro da associação, consistente em receber valores junto aos usuários, relativos aos entorpecentes por eles vendidos anteriormente (cf.fis. 79/97).
+Diante do quadro probatório, não há dúvida de que os réus estavam associados, de forma permanente, para a prática do tráfico de drogas, bem como não há dúvida de que o entorpecente apreendido nos autos era destinado à venda a terceiros.
+Acresça-se, por fim, que o jurista Damásio E. de Jesus registra haver entendimento no sentido de que, revelando a associação ajuste prévio e conluio duradouro, há concurso material entre os crimes dos artigos 33, caput e § to, ou artigo 34, e o do artigo 35 da Lei n.11.343/06  ..
+O Tribunal de origem, por sua vez, manteve a condenação pela prática do referido delito, com base nos seguintes argumentos(fl. 32):
+O "acerto" ou divisão de funções anotada torna patente o animas associativo decorrente da união formada para o sucesso do tráfico, restando nítida a convergência de vontades, no caso corroborada pela manutenção conjunta da droga em poder de um dos denunciados, como se verifica do cotidiano de traficantes "bem estruturados" e que há muito exercem a espúria atividade, dai a infração penal prevista no artigo 35 da Lei de Tóxicos.
+Portanto, uma vez que as instâncias de origem - dentro do seu livre convencimento motivado - apontaram elementos concretos, constantes dos autos, que efetivamente evidenciam a estabilidade e a permanência exigidas para a configuração de crime autônomo, deve ser mantida inalterada a condenação do réuem relação ao delito de associação para o narcotráfico.
+Esclareço, ademais, que qualquer outra solução que não a adotada pela Corte estadual implicaria o revolvimento do material fático-probatório amealhado aos autos, providência, consoante cediço, vedada na via estreita do habeas corpus. Nesse sentido, menciono, mutatis mutandis:
+ ..
+1. O acórdão recorrido concluiu pela consistência do conjunto probatório para amparar a condenação, bem como pela comprovação da estabilidade e permanência para o delito de associação para o tráfico, para se chegar à conclusão diversa, seria necessário o reexame de todo o conjunto fático-probatório, o que é vedado em recurso especial, tendo em vista o óbice da Súmula 7/STJ.  ..
+(AgRg no AREsp n. 1.593.941/TO, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 29/9/2020).
+II. Minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+Porque mantida a condenação do paciente pela prática do crime de associação para o tráfico de drogas, não há como reconhecer a incidência da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006 em seu favor.
+A Terceira Seção deste Superior Tribunal possui o entendimento de que é inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas, quando o agente foi condenado também pela prática do crime previsto no art. 35 da Lei de Drogas, por restar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico.
+Exemplificativamente: HC n. 371.353/PI, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 16/12/2016; HC n. 422.709/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 19/12/2017.
+III. Regime inicial de cumprimento de pena
+Quanto ao regime inicial de cumprimento de pena, verifico que essa matéria já foi objeto de análise por esta Corte Superior de Justiça, por ocasião do julgamento do HC n. 626.171, também impetrado em favor do ora paciente contra o mesmo acórdão aqui apontado como ato coator.
+Esclareço, por oportuno, que o referido habeas corpus já foi julgado por este Tribunal e a ordem foi concedida, in limine, para fixar ao acusado o regime inicial semiaberto de cumprimento de pena.
+A decisão foi publicada no DJe de 17/11/2020; não houve a interposição de recurso e o decisum transitou em julgado no dia 9/12/2020.
+Assim, uma vez que este habeas corpus se trata, no ponto, de mera reiteração de pedido, não há como dele se conhecer em relação ao regime.
+IV. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, conheço em parte do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se e intimem-se.
