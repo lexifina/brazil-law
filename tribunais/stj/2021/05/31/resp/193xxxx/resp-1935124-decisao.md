@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Recurso Especial interposto com fundamento no art. 105, III, "a", da Constituição da República contra acórdão assim ementado:
+APELAÇÃO CÍVE/L. Ação declaratória. ISSQN. Reconhecimento do direito ao recolhimento do imposto por valor fixo, na condição de sociedade uniprofissional. Cabimento. Modelo de sociedade limitada adotado, que, por si só, não afasta o enquadramento da sociedade no regime especial de recolhimento do ISSQN. Sentença mantida. Recurso não provido.
+O recorrente alega violação do art. 9º, §§ 1º e 3º, do Decreto-Lei 406/1968. Sustenta que a opção pela forma empresarial de responsabilidade pessoal dos sócios limitada é incompatível com o regime de tributação fixa do ISSQN.
+Foram apresentadas as contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 10 de maio de 2021.
+A questão controvertida foi recentemente objeto de uniformização na jurisprudência do STJ, prevalecendo o entendimento que se encontra adotado no acórdão recorrido, ou seja, de que, à exceção "dos modelos puramente empresariais, como ocorre com as espécies de sociedades anônimas e comandita por ações, não é relevante para a concessão do regime tributário diferenciado a espécie empresarial adotada pela pessoa jurídica", quando identificado, como no caso concreto, que a sociedade uniprofissional tem caráter civil. Transcrevo o respectivo acórdão:
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ISSQN. SOCIEDADES SIMPLES NO REGIME LIMITADO. QUADRO SOCIETÁRIO COMPOSTO POR MÉDICOS. RECOLHIMENTO DO ISSQN PELA ALÍQUOTA FIXA. REGIME DO ARTIGO 9º, § 3º, DO DECRETO-LEI 406/1968. SERVIÇO PRESTADO EM CARÁTER PESSOAL E EM NOME DA SOCIEDADE. EMBARGOS DE DIVERGÊNCIA PROVIDO.
+1. O cerne da questão reside na caracterização da embargante como sociedade civil de profissionais, o que lhe permitiria gozar da alíquota fixa do ISSQN, nos moldes do artigo 9º, § 3º, do Decreto-Lei 406/1968.
+2. No caso em tela, trata-se de sociedade simples limitada, em que o objeto social é a prestação de serviços médicos desenvolvidos diretamente pelos sócios que compõem o quadro societário (fls.347/348, e-STJ), cuja responsabilidade pessoal é regida pelo Código de Ética Médica.
+3. Circunscrito a estes parâmetros fáticos sobreditos, assevera-se que a fruição do direito a tributação privilegiada do ISSQN depende, basicamente, da análise da atividade efetivamente exercida pela sociedade, para saber se ela se enquadra dentre aquelas elencadas no § 3º do art. 9º do Decreto-lei n. 406/1968 (itens 1, 4, 8, 25, 52, 88, 89, 90, 92 da lista anexa à LC n. 56/1987), bem como se perquirir se a atividade intelectual, científica, literária ou artística desempenhada pela pessoa jurídica não constitua elemento de empresa, ou melhor, nos termos do artigo 966 do Código Civil, que os fatores de produção, circulação e de organização empresarial não se sobreponham à atuação profissional e direta dos sócios na condução do objeto social da empresa, sendo irrelevante para essa finalidade o fato de a pessoa jurídica ter se constituído sob a forma de responsabilidade limitada.
+4. Desta forma, ressalvado os modelos puramente empresariais, como ocorre com as espécies de sociedades anônimas e comandita por ações, não é relevante para a concessão do regime tributário diferenciado a espécie empresarial adotada pela pessoa jurídica, pois como no caso concreto ora analisado, pode haver sociedades limitadas que não são empresárias, conforme preveem expressamente os artigos 982 e 983 do Código Civil.
+5. Embargos de Divergência providos.
+(EAREsp 31.084/MS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 08/04/2021).
+Diante do exposto, nego provimento ao Recurso Especial.
+Consubstanciado o que previsto no Enunciado Administrativo 7/STJ, condeno o recorrente ao pagamento de honorários advocatícios em 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+Saliento que os §§ 3º e 11 do art. 85 do CPC/2015 estabelecem teto de pagamento de honorários advocatícios quando a Fazenda Pública for sucumbente, o que deve ser observado quando a verba sucumbencial é acrescida na fase recursal, como no presente caso.
+Publique-se.
+Intimem-se.
