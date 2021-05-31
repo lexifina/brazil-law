@@ -1,0 +1,27 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. IMPORTAÇÃO.BAGAGEM ACOMPANHADA. COTA LEGAL DE ISENÇÃO CONFORME ESTABELECIDO NO ART. 2º, VII, § 1º,DA IN/RFB N. 1.059/2010. LIBERAÇÃO DE UM APARELHO CELULAR E UM RELÓGIO DE PULSO. BENS USADOS. IMPOSSIBILIDADE DE REEXAME. SÚMULA 7/STJ. RECURSO ESPECIAL DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, inciso III, alíneaa, da CF/1988, no qual se insurge contra acórdão proferido pelo TRF da 4ª REGIÃO,assim ementado:
+ADUANEIRO E TRIBUTÁRIO. PERDIMENTO DE BENS. BAGAGEM ACOMPANHADA. INTERNAÇÃO IRREGULAR. COTA LEGAL DE ISENÇÃO. IN/SRF Nº 1.059/2010.RELÓGIO DE PULSO. TELEFONE CELULAR.
+1. Estão sujeitos à pena de perdimento os bens importados irregularmente e que excederem o limite da cota legal de isenção.
+2. Para fins de isenção fiscal, o telefone celular e o relógio de pulso portados por viajante deve tratar-se de bem usado, nos termos do art. 2º, VII, § 1º, da IN/SRF 1.059/2010.
+3. Caso no qual inexiste demonstração de que o telefone celular e o relógio de pulso internalizado não possuíam sinais de uso - sendo impossível concluir, com a segurança necessária à aplicação da pena de perdimento, que não fossem bens já utilizados durante a viagem, ainda que recentemente adquirido.
+4. Manutenção da sentença que concedeu em parte a segurança, para reconhecer o direito à restituição de um relógio de pulso e um telefone celular.(fl. 242).
+2. Os embargos de declaração opostos foram rejeitados (fls. 264/267).
+3. Nas razões do seurecurso especial (fls. 276/282), a parte recorrentesustentaviolação do arts. 1022 do CPC/2015 e 1º do Decreto-Lei 2.120/1984argumentando, para tanto: (a) omissão a dispositivos legais; (b) ser legítimo o perdimento total das mercadorias apreendidas pela autoridade fiscal porquantorestou incontroverso nas instâncias ordinárias que os bens apreendidos - um relógio de Pulso Apple A1758 S/N e um aparelho de telefone celular Apple Iphone X 256GB -, ao ser inspecionados pela autoridade aduaneira, não apresentavam sinais de uso (fl. 279).
+4. O recurso especial foi admitido na origem(fl. 293).
+5. É o relatório.
+6. A irresignação não merece prosperar.
+7. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+8. É deficiente a fundamentação do recurso especial em que é alegado a ofensa ao art. 1.022 do CPC/2015 de forma genérica a existência de supostas omissões no acórdão recorrido, sem a indicação específica dos pontos sobre os quais o julgador deveria ter se manifestado, o que inviabiliza a compreensão da controvérsia. Incide, portanto, a aplicação do óbice previsto na Súmula 284/STF, por analogia.
+9. No caso em análise, o Tribunal regional manteve a concessão da segurança com fins de restituir ao recorrido um relógio de pulso e um aparelho de celular por ausência de comprovação de que os referidos bens seriam novos, veja-se:
+Inicialmente, verifico que a quantidade das mercadorias apreendidas não revela destinação comercial.
+Afinal, os itens não se encontravam repetidos, podendo-se presumir que se destinavam a uso próprio e/ou para presentear. (Evento 11 PROCADM2) Dito isso, de acordo com a legislação vigente, a mercadoria apreendida enquadra-se no conceito de bagagem acompanhada, tratando-se de outros bens, os quais são isentos dos tributos incidentes sobre a importação desde que obedecidos os limites estabelecidos na IN RFB nº 1059/2010.
+Tratando-se de ingresso por via terrestre, a cota de isenção é de US$300,00, já por via aérea, US$500,00 - tendo ocorrido evidente violação aos referidos limites individuais, já que o valor total das mercadorias perfaz US$4.785,78 (Evento 11 PROCADM2 págs. 3/4).
+No concernente, saliento que, em casos análogos já julgados, esta Turma decidiu que, tratando-se de bagagem acompanhada, a tributação incide sobre o excesso, sobre o que ultrapassa o permissivo legal da isenção fiscal, não havendo respaldo legal para sancionar com a pena de perdimento outros bens que não os referentes ao excesso.
+(..)
+No tocante ao telefone celular e aos relógios de pulso, observo que, para fins de isenção fiscal, devem tratar-se de bens usados - cfe. art. 2º, VII, § 1º, acima transcrito.
+Neste caso, embora a apelante alegue que os dois celulares e os dois relógios apreendidos possuíssem caracteristicas de bens novos, tenho que deve ser mantida a segurança concedida, mormente porquanto não constam nos autos fotografias ou outra demonstração de sua condição de novo ou da ausência de sinais de qualquer uso.
+Logo, impossível concluir, com a segurança necessária à aplicação da pena de perdimento, que um dos celulares e um dos relógios não fossem bens já utilizados na viagem, ainda que recentemente adquiridos. (fls. 233/234)
+10. Como visto, a desconstituição dos fundamentos elencados no acórdão recorrido demandaria, necessariamente o revolvimento do conjunto fático-probatório dos autos, providência esta vedada em Recurso Especial ante o teor da Súmula 7/STJ.
+11. Ante o exposto, nega-se provimento ao Recurso Especial da Fazenda Nacional.
+12. Publique-se. Intimações necessárias.
