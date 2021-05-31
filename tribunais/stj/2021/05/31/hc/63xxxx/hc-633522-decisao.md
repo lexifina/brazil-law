@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSÉ BENEDITO TEIXEIRA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido na Apelação n. 0000035-32.2019.8.26.0571.
+Colhe-se nos autos que o Paciente foi condenado, em primeiro grau de jurisdição, como incurso no art. 33 da Lei n. 11.343/2006 à pena reclusiva de 7 (sete) anos, 9 (nove) meses e 10 (dez) dias, no regime inicial fechado, mais 777 (setecentos e setenta e sete) dias-multa. Isso porque, juntamente com outras pessoas, estava na posse de uma porção de cocaína (1g), sete porções de maconha (65g), uma porção de crack (0,3g) eseis selos de LSD. Na oportunidade, foi negado o recurso em liberdade.
+No julgamento do recurso de apelação, o Tribunal estadual, afastou a circunstância judicial negativa dos antecedentes e reduziu a fração de aumento na segunda fase da dosimetria, alcançando a reprimenda 5 (cinco) anos e 10 (dez) meses de reclusão, mantido o regime inicial fechado diante da reincidência, e 583 (quinhentos e oitenta e três) dias-multa.
+Na presente impetração, aduz a Parte Impetrante a ausência de fundamentação idônea para a manutenção da segregação cautelar do Paciente e para a imposição do regime inicial mais gravoso.
+Requer, liminarmente e no mérito, "seja concedido ao réu paciente a ordem de habeas corpus para ratificar a medida liminar concedida, assim como colocá-lo em liberdade, regime aberto ou semiaberto" (fl. 8).
+O pedido liminar foi indeferido (fls. 338-340).
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 475-482).
+É o relatório.
+Decido.
+De início, verifico que a tese de ausência de fundamentação idônea para a manutenção na sentença condenatória da prisão preventiva do Pacientenão foi objeto de apreciação pelo Tribunal estadual. Dessa forma, a matéria não pode ser examinada per saltum pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Além disso, em consulta ao andamento processual eletrônico, o acórdão condenatório transitou em julgado para a Defesa em 05/04/2021.
+Quanto ao regime inicial de cumprimento da pena, o Tribunal estadual assim consignou (fl. 59):
+"É impossível a fixação do regime mais brando de cumprimento da pena privativa de liberdade. O tratamento penal inicialmente imposto é o mais adequado à hipótese dos autos.
+In casu, a alínea "b", do § 2º, do artigo 33, do Código Penal, é clara ao afirmar que "o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semi-aberto". No caso dos autos, a reincidência do réu foi reconhecida em sentença, não sendo coerente que o regime de fixação de cumprimento da pena não considere tal situação."
+Pois bem, diante da reincidência do Réu reconhecida pelas instânciasordinárias, o regime inicial não se mostra inadequado, ainda que a pena-base tenha sido fixada no mínimo legal e areprimenda final não exceda a 8 (oito) anos de reclusão- no caso, 5 (cinco) anos e 10 (dez) meses, de reclusão-nos moldes do art. 33, § 2.º do Código Penal.
+A propósito, nos termos da jurisprudência desta Corte Superior de Justiça," ..  a fixação da pena-base no mínimo legal não tem o condão de,necessariamente, abrandar o cárcere imposto pelas instâncias ordinárias,notadamente quando reconhecida a reincidência do agente, em consonânciacom o quanto disposto no art. 33, § 2º, b, do Código Penal" (AgRg no REsp1.767.004/RO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em21/02/2019, DJe 12/03/2019; sem grifos no original).
+Dessa conclusão não discrepa o parecer do Ministério Público Federal (fl. 482):
+"Em conformidade com o acórdão, o paciente ostenta uma condenação com trânsito em julgado, decorrente do processo nº 0001178-14.2007.8.26.0624, que é apta a caracterizar a reincidência, e que foi auferida somente na segunda fase da dosimetria (fl. 53).
+Assim, considerando a gravidade concreta do crime de tráfico de drogas; considerando a quantidade da pena a que o paciente foi condenado - 5 anos e 10 meses de reclusão -; e considerando ser reincidente; conclui-se pela ausência dos requisitos do art. 33, § 2º, alínea "b", do Código Penal, devendo ser mantido o regime inicial fechado."
+Ante o exposto, CONHEÇO em parte do writ e, nessa extensão, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL E PROCESSO PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. MATÉRIA NÃO EXAMINADA PELO ACÓRDÃO IMPUGNADO. REGIME INICIAL PARA O CUMPRIMENTO DA PENA. PACIENTE REINCIDENTE. ADEQUAÇÃO DO REGIME INICIAL FECHADO. WRIT CONHECIDO EM PARTE E, NESSA EXTENSÃO, ORDEM DENEGADA.
