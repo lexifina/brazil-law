@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de Alagoasassim ementado (fl. 99, e-STJ):
+DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO ORDINÁRIA COM PEDIDO DE TUTELA ANTECIPADA. PEDIDO DE CORREÇÃO DA INSALUBRIDADE.BASE DE CÁLCULO DO ADICIONAL DE SENTENÇ A PELA PARCIAL PROCEDÊNCIA.APELAÇÃO CÍVEL. TESES. I) DA VIOLAÇÃO AO ART. 39, § 4.º, DA CF/88 - IMPOSSIBILIDADE DE PERCEBIMENTO CUMULATIVO DE SUBSÍDIO COM OUTRAS ESPÉCIES REMUNERATÓRIAS.ARGUIÇÃO DE INCONSTITUCIONALIDADE DO ART. 73 DA LEI ESTADUAL DE N.º 5.247/91 - AFASTADA - NA HIPÓTESE EM EXAME, HÁ COMPATIBILIDADE DO SUBSÍDIO COM O ADICIONAL DE INSALUBRIDADE, DADO O CARÁTER CONSTITUCIONAL DA VERBA, E ESPECIALMENTE PELO FATO DE O ADICIONAL SER PREVISTO EM LEI ESPECÍ FICA, DIANTE DA PARTICULARIDADE DO SERVIÇO PRESTADO PELA RECORRIDA - CONSTITUCIONALIDADE DA PERCEPÇÃO DE ADICIONAL DE INSALUBRIDADE POR SERVIDORES QUE RECEBEM SUBSÍDIOS.ENTENDIMENTO JURISPRUDENCIAL MAIS ATUALIZADO DESTA CORTE DE JUSTIÇA, ADOTADO NO JULGAMENTO DO INCIDENTE DE ARGUIÇÃO DE INCONSTITUCIONALIDADE DE N.º 0500042-73.2014.8.02.0000; II) DA EQUIVOCADA INTERPRETAÇÃO REALIZADA NA SENTENÇA - VIOLAÇÃO À SÚMULA VINCULANTE DE N.º 04 DO STF. REJEITADA. AUSÊNCIA DE VIOLAÇÃO À SÚMULA VINCULANTE DE Nº 4 DO STF. MATÉRIA SEDIMENTADA NESTA CORTE DE JUSTIÇA. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA DE N.º 0500356-82.2015.8.02.0000. APLICAÇÃO DO ART. 927, V, DO NCPC;III) DA DESNATURAÇÃO DA FINALIDADE DO INSTITUTO DO ADICIONAL DE INSALUBRIDADE E A VIOLAÇÃO AO PRINCÍPIO DA ISONOMIA, EM RAZÃO DA FIXAÇÃO DO ADICIONAL COM BASE NO SUBSÍDIO DA CATEGORIA - AFASTADA. RECURSO CONHECIDO E NÃO PROVIDO. REEXAME NECESSÁRIO.FIXAÇÃO DOS ÍNDICES DE JUROS E CORREÇÃO MONETÁRIA DECISÃO UNÂNIME.
+Nas razões do Recurso Especial, o agravante alega violação doart. 405 do Código Civil/2002 e do art. 240 do Código de Processo Civil/2015.
+Afirma: "O caráter controvertido da base de cálculo do adicional afasta por si só qualquer liquidez da obrigação, violando veementemente os artigos 405 do Código Civil e 240 do Código de Processo Civil, por ser de fato a citação que constitui em em mora o devedor"(fl. 126, e-STJ).
+Sem contraminuta, conforme certidão de fl. 173, e-STJ.
+É orelatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 10/5/2021.
+A irresignação não merece acolhida.
+Compulsando os autos, verifica-se que o Tribunal local não emitiu juízo de valor sobre oart. 405 do Código Civil/2002 e o art. 240 do Código de Processo Civil/2015.
+Ressalte-se que não se opuseram Embargos de Declaração, o que seria indispensável para análise de possível omissão no julgado. Perquirir, nesta via estreita, a ofensa às referidas normas legais, sem que se tenha explicitado a tese jurídica no juízoa quo,é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. Ao ensejo, confira-se o teor da Súmula 282/STF:"É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".No mesmo sentido, os enunciados sumulares 211 do STJ e 356 do STF.
+É assente nesta Corte o entendimento de que é condiçãosine qua nonpara que se conheça do Especial que tenham sido ventilados, no contexto do acórdão objurgado, os dispositivos legais indicados como afrontados.
+Nesse caso, caberia ao recorrente, de acordo com a pacífica jurisprudênciadesta Corte, alegar, nas razões do Recurso Especial, violação do art.1.022 do CPC/2015, a fim de viabilizar possível anulação do julgado porvício na prestação jurisdicional, o que não foi feito. A propósito:
+PROCESSUAL CIVIL (..) PREQUESTIONAMENTO FICTO. AUSÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+(..)
+7. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando os conteúdos dos preceitos legais tido por violados não são examinados na origem, mesmo após opostos embargos de declaração.
+8. Segundo o entendimento desta Corte de Justiça, para se reconhecer o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se a invocação e o reconhecimento de contrariedade ao art. 1.022 do CPC/2015, o que não ocorreu.
+9. Agravo interno desprovido.
+(AgInt no REsp 1.622.622/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 8/9/2020)
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 370, PARÁGRAFO ÚNICO, 489, § 1º, 1.029, §1º, DO CPC/2015, 3º, 4º, 5º, IV, 13 DA LEI 8.112/90, 2º DA LEI 9.784/99, 3º, §§ 2º E 3º, 4º E 6º DA LEI 6.999/82. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. (..)
+I. Recurso Especial interposto, por ambas as alíneas do permissivo constitucional, contra acórdão publicado na vigência do CPC/2015.
+(..)
+IV. Não tendo o acórdão hostilizado expendido juízo de valor sobre os arts. 370, parágrafo único, 489, § 1º, 1.029, §1º, do CPC/2015, 3º, 4º, 5º, IV, 13 da Lei 8.112/90, 2º da Lei 9.784/99, 3º, §§ 2º e 3º, 4º, e 6º da Lei 6.999/82, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+V. Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto.
+VI. Consoante se depreende dos autos, o acórdão recorrido não expendeu juízo de valor sobre os dispositivos legais invocados na petição do Recurso Especial, a parte ora recorrente não opôs Embargos de Declaração, em 2º Grau, nem se arguiu, no presente Recurso Especial, contrariedade ao art. 1.022 do CPC/2015, razão pela qual impossível aplicar-se, no caso, o art. 1.025 do CPC vigente. Precedentes.
+(..)
+XI. Recurso Especial não conhecido.
+(REsp 1.874.545/CE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA,DJe 29/6/2020)
+Diante do exposto,conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
