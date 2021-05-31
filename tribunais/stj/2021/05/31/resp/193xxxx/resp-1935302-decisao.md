@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado:
+PREVIDENCIÁRIO. REVISÃO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ADICIONAL DE PERICULOSIDADE. INCLUSÃO DE VERBAS SALARIAIS RECONHECIDAS EM AÇÃO TRABALHISTA NO PERÍODO BÁSICO DE CÁLCULO. - De fato, consoante arrazoado da r. sentença, consigno inexistir óbice para que a sentença prolatada em sede trabalhista, transitada em julgado constitua início razoável de prova material atinente à referida atividade laboral, de modo que o período ali reconhecido possa ser utilizado, inclusive, para fins previdenciários, ainda mais quando da referida sentença constar obrigação para regularização dos recolhimentos previdenciários devidos. - Destarte, as verbas reconhecidas em sentença trabalhista após a concessão do benefício devem integrar os salários -de -contribuição utilizados no período base de cálculo da aposentadoria por tempo de contribuição, para fins de apuração de nova renda mensal inicial. - Todavia, cumpre fixar a data de início dos pagamentos da revisão de benefício previdenciário a partir da data da citação (01/09/2006 -fis. 201),ocasião em que a autarquia tomou conhecimento da pretensão ora deduzida, cabendo determinar a reforma da r. sentença, neste ponto. - Apelação do INSS não provida. - Preliminar rejeitada. - Apelação do INSS improvida.- Apelação da parte autora improvida.
+Os Embargos de Declaração foram acolhidos parcialmente para correção de erro material.
+A parte recorrente alega:
+Os v. acórdãos, data venia, malferem o artigo 28, inciso I, da Lei nº 8.212/91, pois, diferentemente do decidido pelo Tribunal a quo, entende-se por salário de contribuição toda e qualquer remuneração auferida pelo empregado na execução do seu trabalho, incluindo-se nessa definição, obviamente, o adicional de periculosidade, dentre outros adicionais. Assim, interpretando-se hermeneuticamente tal dispositivo, uma vez deferido o pedido de revisão requerido pelo recorrente, mediante o recálculo da renda mensal inicial do seu benefício com a inclusão do adicional de periculosidade, as diferenças pecuniárias daí oriundas serão devidas a partir da data da concessão da sua aposentadoria (01.09.2006), não a partir da citação na ação (17.09.2010)..
+Logo, inegável o malferimento do artigo 28, inciso I, da Lei nº 8.212/91.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 12/5/2021.
+A parte recorrente apresenta argumentação deficiente, pois não é possível auferir como art. 28, I, da Lei 8.212/1991, que trata de base de cálculo da contribuição previdenciária, seria aptoa alterar a data do início dos efeitos financeiros do benefício previdenciário reconhecido em juízo. Incide a vedação de admissibilidade preceituada na Súmula 284/STF, segundo a qual: "É inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A vedação acima é estendida ao tópico de divergência jurisprudencial, já que não demonstrado o dissídio interpretativo.
+Por tudo isso, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
