@@ -1,0 +1,14 @@
+DECISÃO
+Cuidam-se de Embargos de Declaração opostos por SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS S. A. contra despacho no qual qualifiquei o recurso especial como representativo de controvérsia, candidato à afetação e, consequentemente, o colocou sob o rito estabelecido pelos arts. 256 a 256-D do Regimento Interno do STJ, e determinei a sua distribuição por prevenção para integrar o grupo de paradigmas da Controvérsia n. 222/STJ (Recursos Especiais n. 1.886.503/SP, 1.883.758/SP, 1.875.994, 1.887.044/SP e 1.876.515/SP).
+A Embargante sustenta omissão na referida decisão, ante a ausência de expressa manifestação acerca da petição apresentada nos autos (e-STJ, fls. 1.608/1.613) na qual apresenta argumentos contrários à qualificação do recurso especial como representativo de controvérsia e ser submetido à afetação; bem como da necessidade de suspensão do recurso especial até a definição da competência interna dessa Corte para julgamento da matéria, cujos Conflitos de Competência n. 140.456/RS e 148.188/DF estão em julgamento perante a Corte Especial.
+Afirma que "a tese, tal como delimitada (a) afronta o precedente fixado pela c. Corte Suprema no julgamento do Tema nº 1.011, e, ainda, (b) esbarra na necessidade de definição prévia acerca do termo prescricional, cuja matéria já foi afetada para julgamento por essa e. Corte (Tema nº 1.039)" (e-STJ, fl. 1.609).
+É o relatório.
+Os embargos não merecem acolhida.
+Nos termos do artigo 1.022 do Código de Processo Civil, os embargos de declaração se constituem como instrumento hábil para esclarecer obscuridade ou contradição, suprir omissão, bem como para corrigir erro material.
+Na hipótese dos autos, conforme destacado no despacho embargado, o exame pelo Presidente da Comissão Gestora de Precedentes e de Ações Coletivas dos recursos indicados pelos tribunais de origem como representativos da controvérsia ou destacados pelo Núcleo de Gerenciamento de Precedentes e de Ações Coletivas para tramitarem nesta condição, deve ser restrito aos limites regimentais, não abrangendo, pelo menos de forma definitiva, um juízo de valor sobre a admissibilidade do recurso especial ou a respeito da conveniência de afetação da matéria selecionada.
+De igual maneira, não compete ao Presidente da Comissão Gestora de Precedentes e de Ações Coletivas analisar o pedido de suspensão do processo em razão do julgamento dos Conflitos de Competência que eventualmente possam acarretar prejuízos para este processo.
+Nesse sentido, o relator sorteado, e em última análise o órgão colegiado, é o competente para analisar o preenchimento dos requisitos para o processo tramitar nesta Corte como recurso repetitivo.
+Ante o exposto, não havendo omissão, obscuridade ou contradição no despacho embargado, REJEITO os embargos de declaração.
+Encaminhem-se os autos ao Ministro Marco Buzzi para análise da prevenção.
+Publique-se.
+Cumpra-se.
