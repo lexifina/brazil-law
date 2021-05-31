@@ -1,0 +1,12 @@
+DECISÃO
+Nestehabeas corpus, com pedido liminar, impetrado em favor de Marcoantonio Pinto Neto -condenadocomo incurso no art. 90 da Lei n. 8.666/1993 (por duas vezes)à pena de 6 anos de detenção, em regime inicial semiaberto (Apelação Criminal n. 0000353-90.2009.8.26.0142, em curso no Tribunal de Justiça de São Paulo) -, sob alegação de constrangimento ilegal no acórdão exarado no julgamento da Revisão Criminal n. 0048908-30.2019.8.26.0000 (Tribunal de Justiça de São Paulo), requer-se, em liminar e no mérito, a redução da pena-base ao mínimo legal e, por consequência, seja reconhecida a extinção da punibilidade, ante a prescrição da pretensão punitiva.
+É o relatório.
+O writ é manifestamente inadmissível, pois os fundamentos que subsidiaram a majoração da pena-base na condenação em referência já foram examinados por esta Corte no julgamento do AgRg noHC n. 543.964/SPe do AgRg no HC n. 554.943/SP.
+Urge destacar, ainda, que os acórdãos exarados naqueles julgadosforam impugnados medianteinterposição de recursos ordinários, sendo mantidos pelo Supremo Tribunal Federal, respectivamente, no julgamento do RHC n. 185.561/SP e do RHC n.193.144/SP.
+Com efeito, considerando que a matéria já foi julgada por esta Corte e que é vedado ao STJ rever seus próprios julgados em sede de habeas corpus, não há como conhecer do presentewrit.
+Ainda que assim não fosse, cumpre destacar que a matéria suscitada na impetração (inidoneidade da fundamentação lançada na primeira fase da dosimetriae desproporcionalidade no aumento)destoa da hipótese prevista no art. 621, I, do Código de Processo Penal - quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos -circunstância que, por si só, rechaça a existência de ilegalidade no acórdão ora impugnado (Revisão Criminal n. 0048908-30.2019.8.26.0000), pois o que se verifica é o absoluto descabimento do pleito revisional.
+Ante o exposto, não conheço dohabeas corpus(art. 34, XVIII,a, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. FRAUDE À LICITAÇÃO. CONDENAÇÃO TRANSITADA EM JULGADO. WRIT IMPETRADO CONTRA ACÓRDÃO REVISIONAL. SUPOSTA ILEGALIDADE NA FUNDAMENTAÇÃO LANÇADA NAFIXAÇÃO DA PENA-BASE. INADMISSIBILIDADE QUESTÃO JÁ DEBATIDA NESTA CORTE EM DUAS IMPETRAÇÕES ANTERIORES. FUNDAMENTO SUBSIDIÁRIO. TESE QUE NÃO ENCONTRA GUARIDA NA PREVISÃO CONTIDA NO ART. 621, I, DO CPP. DESCABIMENTO DO PLEITO REVISIONAL.
+Writ não conhecido.
