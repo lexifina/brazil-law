@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Tribunal de Justiça do Estado de São Paulo(suscitante) e a Décima Quarta Turma Recursal do Juizado Especial Federal da 3ª Região da Seção Judiciária do Estado de São Paulo(suscitado), em ação ajuizada por FABIANO LUIZ TEIXEIRA contra o Instituto Nacional de Seguro Social - INSS, objetivando o restabelecimentode aposentadoria por invalidez.
+O Tribunal Regional Federal da 3ª Região,considerando-se incompetente para o julgamento da causa, determinou a remessa dos autos ao Juízo Estadual, forte em que. "ainda que as patologias ora avaliadas - retardo mental leve mesmo o tremor (7) essencial - não sejam relacionadas ao desenvolvimento do trabalho, o benefício que o autor pretende restabelecer é o acidentário, em relação ao qual este juízo não tem competência" (fl. 442).
+O Tribunal de Justiça do Estado de São Paulo, por seu turno, suscitou conflito negativo de competência, consignando que "o segurado, na vestibular (fls. 01/03), não afirmou ter sofrido infortúnio no exercício de seu labor ou in itinere, tampouco aduziu ser portador de moléstia profissional, mas apenas ser portador de males na coluna, de retardo mental e de problemas na visão"(fl. 687).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Inicialmente, mister ressaltar o entendimento desta Corte de Justiça no sentido de que a competência para julgar as demandas em que se pleiteia a concessão de benefício previdenciário deve ser determinada em razão do pedido e da causa de pedir.
+No presente caso, a ação foi ajuizada com o objetivo de restabelecimento de de aposentadoria por invalidez ou a concessão de benefício por incapacidade,sendo que na petição inicial não há qualquer menção a acidente de trabalho (fls. 1/2).
+Para melhor elucidar a questão, traz-se à colação o art. 109, I, da Constituição Federal, que assim dispõe, in verbis:
+Aos juízes federais compete processar e julgar:
+I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho;
+Assim, a pretensão não se amolda à exceção firmada pelo preceito constitucional em tela, mas à regra que estabelece a competência da Justiça Federal para o processamento e o julgamento das ações em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes.
+ANTE O EXPOSTO, conheço do conflito para declarar competente para oprocessamento do feito o Juízo da Décima Quarta Turma Recursal do Juizado Especial Federal da 3ª Região da Seção Judiciária do Estado de São Paulo, o suscitado.
+Publique-se e comunique-se, dando-se ciência aos Juízos envolvidos e ao
+Ministério Público Federal
