@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJMTassim ementado (e-STJ fl. 546):
+APELAÇÃO - AÇÃO DECLARATÓRIA DE ANULABILIDADE DE NEGÓCIO JURÍDICO C/C REPETIÇÃO DE INDÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS - CONTRATO DE EMPRÉSTIMO FIRMADO COM INDÍGENA IDOSO E ANALFABETO - AUSÊNCIA DE INSTRUMENTO PÚBLICO - VALIDADE DA CONTRATAÇÃO NÃO COMPROVADA - ART. 373, II, CPC - DESCONTOS INDEVIDOS NO BENEFÍCIO PREVIDENCIÁRIO - VERBA DE NATUREZA ALIMENTAR - RESTITUIÇÃO EM DOBRO DEVIDA - DANO MORAL CONFIGURADO - SENTENÇA REFORMADA - RECURSO PROVIDO.
+Não comprovada pela instituição financeira a regularidade na contratação do empréstimo com a parte, indígena, idosa e analfabeta, torna-se indevido o débito efetivado no benefício da aposentadoria, condição que enseja a restituição.
+Demonstrados os requisitos da reparação civil, cabível a indenização a título de dano moral, máxime porque o desconto indevido se deu sobre verba de natureza alimentar.
+Os embargos de declaração foram rejeitados (e-STJ fls. 200/210).
+Nas razões recursais (e-STJ fls. 214/222), fundamentadas no art. 105, III, "a" e "c", da CF, orecorrenteaponta ofensa aos arts. 1.022, II, do CPC/2015 e 186 e 595 do CC/2002. A insurgência cuida dos seguintes pontos: (a) negativa de prestação jurisdicional e (b) validade do contrato firmado entre as partes, porque, embora o contratante fosse idoso e analfabeto, foirealizado com assinatura a rogo e na presença de duas testemunhas.
+Não foram apresentadas contrarrazões (e-STJ fl. 619).
+É o relatório.
+Decido.
+O Tribunal de origem reformou a sentença que havia julgado improcedente o pedido, sob os seguintes fundamentos (e-STJ fls. 183/185):
+Verifica-se, então, uma situação de desequilíbrio entres as partes, porquanto o autor é pessoa indígena, idosa e analfabeta, que não detém, por conta de sua condição vulnerável, compreensão bastante acerca das consequências que decorrem da celebração de negócios jurídicos, máxime contratos bancários.
+Nessa linha, nota-se que o apelante provou os fatos constitutivos do seu direito ao juntar os extratos do INSS que demostram os descontos efetuados, caso em que incumbia ao requerido o ônus de comprovar a existência de fato impeditivo, modificativo ou extintivo do direito do autor, o que não restou demonstrado.
+Embora o banco requerido tenha apresentado cópia de contrato supostamente celebrado entre as partes, tal documento não se revela satisfatório a emprestar validade ao negócio jurídico que ensejou o descontono benefício previdenciário da parte requerente, mormente porque não comprova que o realizara com as cautelas exigidas à espécie ou mesmo que tenha revertido, eficazmente, em proveito do vulnerável.
+Tampouco há instrumento público para a contratação a rogo.
+O banco não demonstrou que teria adotado as cautelas relativas à contratação, porquanto não há nos autos elementos capazes de comprovar que fora o autor, pessoa indígena, idosa e de pouca instrução, esclarecido acerca das consequências do pacto que supostamente assinara.
+ ..
+Não há, então, como emprestar higidez à relação jurídica discutida nesta ação.
+Nos embargos de declaração, destacou que "não restou comprovada a validade do negócio jurídico firmado entre as partes, porquanto o banco requerido, ora embargante, não comprovou que o realizara com as cautelas exigidas à espécie ou mesmo que tenha revertido, eficazmente, em proveito do autor, pessoa indígena, idosa e analfabeta" e que "é assente na jurisprudência a necessidade de instrumento público para a contratação a rogo, o que não foi demonstrado no presente caso" (e-STJ fl. 208).
+Entretanto, na linha da jurisprudência do STJ, o instrumento público é dispensável para a contratação com pessoa analfabeta, bastando a assinatura a rogo e a presença de duas testemunhas, o que se verifica no caso em comento.
+A propósito:
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO C/C PEDIDOS DE RESTITUIÇÃO DE VALORES E COMPENSAÇÃO POR DANOS MORAIS. CONTRATO DE EMPRÉSTIMO CONSIGNADO FIRMADO POR IDOSO INDÍGENA ANALFABETO. VALIDADE. REQUISITO DE FORMA. ASSINATURA DO INSTRUMENTO CONTRATUAL A ROGO POR TERCEIRO, NA PRESENÇA DE DUAS TESTEMUNHAS. ART. 595 DO CC/02. PROCURADOR PÚBLICO. DESNECESSIDADE.
+1. Ação ajuizada em 20/07/2018. Recurso especial interposto em 22/05/2020 e concluso ao gabinete em 12/11/2020.
+2. O propósito recursal consiste em dizer acerca da forma a ser observada na contratação de empréstimo consignado por idoso indígena que não sabe ler e escrever (analfabeto).
+3. Os analfabetos, assim como os índios, detêm plena capacidade civil, podendo, por sua própria manifestação de vontade, contrair direitos e obrigações, independentemente da interveniência de terceiro.
+4. Como regra, à luz dos princípios da liberdade das formas e do consensualismo, a exteriorização da vontade dos contratantes pode ocorrer sem forma especial ou solene, salvo quando exigido por lei, consoante o disposto no art. 107 do CC/02.
+5. Por essa razão, em um primeiro aspecto, à míngua de previsão legal expressa, a validade do contrato firmado por pessoa que não saiba ler ou escrever não depende de instrumento público.
+6. Noutra toada, na hipótese de se tratar de contrato escrito firmado pela pessoa analfabeta, é imperiosa a observância da formalidade prevista no art. 595 do CC/02, que prevê a assinatura do instrumento contratual a rogo por terceiro, com a subscrição de duas testemunhas.
+7. Embora o referido dispositivo legal se refira ao contrato de prestação de serviços, deve ser dada à norma nele contida o máximo alcance e amplitude, de modo a abranger todos os contratos escritos firmados com quem não saiba ler ou escrever, a fim de compensar, em algum grau, a hipervulnerabilidade desse grupo social.
+8. Com efeito, a formalização de negócios jurídicos em contratos escritos - em especial, os contratos de consumo - põe as pessoas analfabetas em evidente desequilíbrio, haja vista sua dificuldade de compreender as disposições contratuais expostas em vernáculo. Daí porque, intervindo no negócio jurídico terceiro de confiança do analfabeto, capaz de lhe certificar acerca do conteúdo do contrato escrito e de assinar em seu nome, tudo isso testificado por duas testemunhas, equaciona-se, ao menos em parte, a sua vulnerabilidade informacional.
+9. O art. 595 do CC/02 se refere a uma formalidade a ser acrescida à celebração de negócio jurídico por escrito por pessoa analfabeta, que não se confunde com o exercício de mandato. O contratante que não sabe ler ou escrever declara, por si próprio, sua vontade, celebrando assim o negócio, recorrendo ao terceiro apenas para um auxílio pontual quanto aos termos do instrumento escrito.
+10. O terceiro, destarte, não celebra o negócio em representação dos interesses da pessoa analfabeta, como se mandatário fosse. Por isso, não é necessário que tenha sido anteriormente constituído como procurador.
+11. Se assim o quiser, o analfabeto pode se fazer representar por procurador, necessariamente constituído mediante instrumento público, à luz do disposto no art. 654, caput, do CC/02. Nessa hipótese, típica do exercício de mandato, não incide o disposto no art. 595 do Código e, portanto, dispensa-se a participação das duas testemunhas.
+12. Recurso especial conhecido e provido(REsp 1907394/MT, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/05/2021, DJe 10/05/2021.)
+E, também, a seguinte decisão monocrática: AREsp 1.761.705/PE, Quarta Turma, Ministro RAUL ARAÚJO, DJe 02/03/2021.
+Desse modo, as razões recursais devem ser acolhidas, para julgar improcedente o pedido, nos termos da sentença de fls. 138/148 (e-STJ).
+Diante do exposto, DOU PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
