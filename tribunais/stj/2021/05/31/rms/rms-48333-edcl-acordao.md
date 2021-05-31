@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. OFENSA AO ART. 489 DO CPC. INEXISTÊNCIA. PREQUESTIONAMENTO DE DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios emquestão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "Não prospera a alegação de afronta ao art. 489 do CPC/2015, quando a fundamentação adotada na decisão combatida para o deslinde da causa é pertinente e condizente com a tese recursal alegada" (AgInt nos EDcl no AREsp 916.697/ES, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 25/3/2021).
+4. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+5. Por fim, não cabe ao Superior Tribunal de Justiça, ainda que para fins de prequestionamento, examinar, na via especial, suposta violação a dispositivo constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+6. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de embargos de declaração opostos pelo Estado do Piauí contra acórdão da Eg. Primeira Turma, que negou provimento a seu agravo interno, nos termos da seguinte ementa (fl. 406):
+TRIBUTÁRIO. ICMS. OPERAÇÃO INTERESTADUAL. CRÉDITO PRESUMIDO CONCEDIDO PELO ESTADO DE ORIGEM. DESCONSIDERAÇÃO DO BENEFÍCIO FISCAL PELO ESTADO DE DESTINO. IMPOSSIBILIDADE. PRECEDENTES.
+1. Na hipótese em que o benefício fiscal concedido não importa isenção ou não incidência, o contribuinte faz jus ao crédito integral do ICMS devido junto ao estado de origem, e eventual impasse federativo deve ser solucionado em ação própria perante a Suprema Corte. Precedentes: AgInt na TutPrv no REsp 1.667.143/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 3/8/2018; AgInt no REsp 1.535.946/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/4/2017; AgRg no RMS 44.350/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/12/2014; AgRg no REsp 1.312.486/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 17/12/2012; RMS 31.714/MT, Rel. Ministro Castro Meira, Segunda Turma, DJe 19/9/2011.
+2. Agravo interno não provido.
+Sustenta a parte embargante, em resumo, a existência de omissão no julgado embargado, pois (i) teria havido "mera invocação de precedentes sem qualquer indicação das circunstâncias fáticas que os aproximem do caso aqui julgado" (fl. 423); e (ii) inexistiu a "análise da alegação de violação das normas do art. 155, § 2º, incisos I e II, da CF" (fl. 426).
+Aberta vista àembargada, a parte contribuinte apresentou impugnação às fls. 431/436, postulando a rejeição dos aclaratórios.
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. OFENSA AO ART. 489 DO CPC. INEXISTÊNCIA. PREQUESTIONAMENTO DE DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios emquestão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "Não prospera a alegação de afronta ao art. 489 do CPC/2015, quando a fundamentação adotada na decisão combatida para o deslinde da causa é pertinente e condizente com a tese recursal alegada" (AgInt nos EDcl no AREsp 916.697/ES, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 25/3/2021).
+4. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+5. Por fim, não cabe ao Superior Tribunal de Justiça, ainda que para fins de prequestionamento, examinar, na via especial, suposta violação a dispositivo constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+6. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou devidamente consignado no aresto hostilizado que o "caso dos autos é de crédito presumido de ICMS concedido pelo Estado da Paraíba, e não de isenção parcial, como sustenta o ente público agravante" e "escorreita a decisão agravada ao aplicar o entendimento pacífico do STJ de que na hipótese em que o benefício fiscal concedido não importa isenção ou não incidência, o contribuinte faz jus ao crédito integral do ICMS devido junto ao estado de origem, e eventual impasse federativo deve ser solucionado em ação própria perante a Suprema Corte" (fls. 414/415).
+De fato, a jurisprudência deste STJ enquadra casos assemelhados aodos presentes autos como benefício fiscal, e não como isenção parcial, conformedefende o ente público embargante. E isso porque, "nas operações interestaduais, não cabe ao estado de destino exigir do contribuinte a parte do ICMS que deixou de ser recolhido ao estado de origem em virtude da fruição de benefício fiscal não previamente autorizado pelo Confaz, uma vez que esse impasse federativo deve ser solucionado em ação própria perante a Suprema Corte, não sendo possível atribuir ao contribuinte a responsabilidade tributária pelos eventuais prejuízos à arrecadação decorrentes da denominada "guerra fiscal"" (AgInt no REsp 1.535.946/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/04/2017).
+Assim, como demonstrado alhures, a decisão agravada enfrentou todos os argumentos relevantes trazidos pela parte no apelo raro, adotando fundamentação mais que suficiente para solucionar a contenda, não incorrendo, assim, no vício inserto no art. 489, § 1º, V, do CPC.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULA Nº 282 DO STF. ACÓRDÃO RECORRIDO. DECISÃO AGRAVADA. FUNDAMENTAÇÃO SUFICIENTE. DIPLOMA LEGAL NÃO PARTICULARIZADO. SÚMULA Nº 284 DO STF. CORREÇÃO DE VÍCIO DE FUNDAMENTAÇÃO DO RECURSO. ART. 932, PARÁGRAFO ÚNICO, DO NCPC. INAPLICABILIDADE. MATÉRIA CONSTITUCIONAL. PREQUESTIONAMENTO. NÃO CABIMENTO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+ ..
+3. Inexistem os vícios de fundamentação elencados no art. 489, § 1º, do NCPC, sendo forçoso reconhecer que a pretensão recursal ostentava caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pelo acórdão vergastado.
+4. Não há se falar em deficiência de fundamentação da decisão recorrida, na medida em que as conclusões por ela adotadas foram alicerçadas em argumentos claros, tendo o decisum inclusive destacado trecho do acórdão recorrido em que a matéria fora decidida, colacionando precedentes que corroborariam o entendimento de fundamentação suficiente. Ademais, a fundamentação sucinta, mas suficiente, não pode ser confundida com ausência de motivação.
+5. A inexistência de particularização do dispositivo legal mediante a indicação do diploma legal em que inserido importa em fundamentação recursal deficiente, ensejando a aplicação da Súmula nº 284 do STF.
+6. A oportunidade de sanar vício prevista no art. 932, parágrafo único, do NCPC, refere-se à correção de vício formal, não se admitindo a abertura de prazo para aditamento à fundamentação recursal.
+7. É incabível a apreciação de suposta ofensa a matéria constitucional, ainda que para fins de prequestionamento, sob pena de invasão da competência do Supremo Tribunal Federal.
+8. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+9. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1.647.183/GO, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 28/04/2021)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TARIFA DE ARMAZENAGEM PORTUÁRIA. NATUREZA JURÍDICA DE PREÇO PÚBLICO. NÃO SUJEIÇÃO À RELAÇÃO JURÍDICO-TRIBUTÁRIA. PRECEDENTES. JURISPRUDÊNCIA DOMINANTE. SÚMULA 568/STJ. ART. 489 DO CPC/2015. FUNDAMENTAÇÃO ADEQUADA E PERTINENTE À CONTROVÉRSIA RECURSAL. RAZÕES RECURSAIS DISSOCIADAS. SÚMULA 284/STF. CONTRATO DE DEPÓSITO ONEROSO. RETENÇÃO DO BEM OBJETO DO NEGÓCIO ATÉ O PAGAMENTO DO VALOR. POSSIBILIDADE. REVISÃO DO JUÍZO FIRMADO. ÓBICE DAS SÚMULAS 5 E 7 DO STJ.
+1. É assente nesta Corte Superior o entendimento de que a tarifa de armazenagem portuária tem natureza jurídica de preço público, não tendo natureza tributária, não estando sujeita aos princípios que regem a relação jurídico-tributária. Nesse sentido: REsp 491.075/SP, Rel. Ministro José Delgado, Primeira Turma, DJ 13/10/2003; REsp 868.978/SP, Rel. Ministra Eliana Calmon, Segunda Turma, DJ 13/2/2008; AgRg no Ag 808.439/SP, Rel. Ministro Castro Meira, Segunda Turma, DJ 11/12/2006; REsp 115.783/SP, Rel. Ministro João Otávio de Noronha, Segunda Turma, DJ 13/12/2004; REsp 419.141/SP, Rel. Ministra Eliana Calmon, Segunda Tuma, DJ 2/12/2002.
+2. Conforme disposto na Súmula 568/STJ, é possível ao relator dar ou negar provimento ao recurso especial, em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, caso dos autos. Eventual nulidade do julgamento singular, por falta de enquadramento nas hipóteses legais, fica superada em virtude da apreciação da matéria pelo órgão colegiado no julgamento do agravo interno.
+3. Não prospera a alegação de afronta ao art. 489 do CPC/2015, quando a fundamentação adotada na decisão combatida para o deslinde da causa é pertinente e condizente com a tese recursal alegada.
+4. A jurisprudência do STJ é pacífica no sentido de que o desenvolvimento, nas razões recursais, de argumentação dissociada do teor normativo do dispositivo legal apontado violado configura deficiência insanável da fundamentação recursal, o que atrai, por analogia, a incidência da inteligência da Súmula 284/STF. Precedentes.
+5. Na espécie, a Corte de origem firmou que o negócio entabulado entre as partes se trata de uma relação comercial de depósito, sobre a qual se aplicam as normas gerais do direito contratual, com a possibilidade de retenção do bem objeto do negócio, porque oneroso o depósito, até que se pague o valor pactuado, conforme CCB, art. 644.
+Inviável a revisão da conclusão firmada, diante da incidência das Súmulas 5 e 7 do STJ.
+6. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 916.697/ES, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 25/03/2021)
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+Nessa linha de entendimento:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015,
+destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária
+manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS, Rel. Ministro Og Fernandes, Primeira Seção, DJe 28/8/2018)
+Por fim, não cabe ao Superior Tribunal de Justiça, ainda que para fins de prequestionamento, examinar, na via especial, suposta violação a dispositivo constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+A propósito:
+MANDADO DE SEGURANÇA ORIGINÁRIO. CONCURSO PÚBLICO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. PROVIMENTO DO CANDIDATO APROVADO. OPORTUNIDADE E CONVENIÊNCIA DA ADMINISTRAÇÃO PÚBLICA. SERVIDORES TEMPORÁRIOS. ART. 37, IX, DA CF/88. CONTRATAÇÃO TEMPORÁRIA. AUSÊNCIA DE DEMOSTRAÇÃO DE CARGOS VAGOS. PRETENSÃO DE REEXAME DAS PROVAS. AGRAVO INTERNO. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO. INEXISTENTES.
+I - Na origem, trata-se de mandado de segurança contra ato, tido como coator, praticado pela Governadora do Estado do Paraná e o Reitor da Universidade Estadual de Londrina - UEL objetivando nomeação da requerente ao cargo pretendido em concurso público.
+Denegada a segurança no Tribunal a quo.
+II - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado. Não há vício no acórdão. A matéria foi devidamente tratada com clareza e sem contradições.
+III - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IV - É vedado a esta Corte, na via especial, apreciar eventual ofensa à matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes: EDcl nos EDcl no AgRg no AREsp 575.787/DF, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/12/2017, DJe 19/12/2017; AgInt nos EDcl nos EDcl no REsp 1.677.316/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 5/12/2017, DJe 14/12/2017; EDcl no AgInt no REsp 1.294.078/DF, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 28/11/2017, DJe 5/12/2017.
+ ..
+VI - Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt no RMS 62.577/PR, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 23/04/2021)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. OMISSÃO. VÍCIO INEXISTENTE. PRETENSÃO DE REDISCUSSÃO DA CAUSA E PREQUESTIONAMENTO EXPLÍCITO DE DISPOSITIVOS CONSTITUCIONAIS. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do novo Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+2. O acórdão combatido, ao contrário do alegado nos aclaratórios, não incorreu em nenhuma omissão, restando solucionada, em todos os aspectos, a controvérsia apresentada nas razões do recurso extraordinário.
+3. Os embargos de declaração não se prestam à rediscussão de matéria devidamente abordada e decidida no acórdão embargado, tampouco ao prequestionamento explícito de dispositivos constitucionais.
+4. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgRg no RE nos EDcl no AgRg no REsp 1.464.793/DF, Rel. Ministra Laurita Vaz, Corte Especial, DJe 19/5/2017)
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+É o voto.
