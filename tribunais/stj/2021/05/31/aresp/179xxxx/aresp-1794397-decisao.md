@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Ricardo Ramos de Souza Temoteo, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 231):
+APELAÇÃO PRODUÇÃO ANTECIPADA DE PROVAS HIPÓTESE RECURSAL LIMITADA POR DISPOSITIVO LEGAL APLICAÇÃO DO ART. 382, § 4º, DO CPC. - Tendo em vista que não restou configurada hipótese de admissibilidaderecursal nesta ação de produção antecipada de provas (indeferimento total da produção da prova pleiteada pelorequerente), nos termos do art. 382, § 4º, do CPC, deixa-se de conhecer do presente. RECURSO NÃO CONHECIDO.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 260):
+EMBARGOS DE DECLARAÇÃO  OMISSÃO NÃO VERIFICADA -Descabida a alteração do que já foi decidido por meio de embargos de declaração, que não é recurso próprio para este fim. Se o embargante entende que a questão não foi bem apreciada, o recurso cabível é outro, que não os embargos de declaração, que se presta a esclarecer, se existentes, dúvidas, omissões ou contradições no julgado; EMBARGOS DE DECLARAÇÃO REJEITADOS.
+Em suas razões de recurso especial (e-STJ, fls. 264-296), o agravante alegou violação aos arts. 20 do Código de Processo Civil de 1973 e 82, 85, 86, 305, 381 e396 do Código Processo Civil de 2015, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que, pelo princípio da causalidade, quem deu causa à ação deve arcar com as despesas do processo, sendo que a pretensão resistida da agravada em apresentar os documentos solicitados deu ensejo ao ajuizamento da presente demanda, devendo, portando, ser condenada ao pagamentos dos honorários e custas processuais.
+Salientou que é cabível recurso contra a decisão que deferiu o pleito de produção antecipada de prova, a fim de determinar a imposição dos ônus sucumbenciais. Destacou que esgotou todos os meios administrativos para a aquisição dos documentos, possuindo direito de ingressarcom a apresente ação.
+Requereu, dessa forma, o provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ, fls. 322-349).
+O processamento do apelo especial não foi admitido pela Corte local, levando o insurgente a interpor o presente agravo.
+Contraminuta apresentada (e-STJ, fls. 373-395).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nas razões do presente recurso, o agravante alega ter cumprido com todos os requisitos exigidos para conhecimento e julgamento do recurso especial.
+Constatados os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+A respeito da possibilidade de interposição de recurso em face da decisão prolatada na ação incidental de exibição de documentos, o Tribunal de origem assim se manifestou (e-STJ, fl. 232):
+Como é cediço, com o advento do novo CPC deixou de subsistir o procedimento cautelar, admitindo-se, entretanto, a produção antecipada de provas nos termos do art. 381 do referido diploma legal.
+Assim, tendo em vista que o escopo de tal admissibilidade é evitar não só a perda de uma prova, mas também permitir a autocomposição entre as partes ou outro meio de solução de conflito e até mesmo se evitar o ajuizamento de demanda, estabeleceu o legislador um procedimento mais célere explicitando em no art. 382, § 4º, do CPC que:
+Art. 382. Na petição, o requerente apresentará as razões que justificam a necessidade de antecipação da prova e mencionará com precisão os fatos sobre os quais a prova há de recair.
+( )
+§ 4º Neste procedimento, não se admitirá defesa ou recurso, salvo contra decisão que indeferir totalmente a produção da prova pleiteada pelo requerente originário.
+Contudo, conforme se infere dos autos, inviável se mostra o conhecimento do presente, na medida em que não se verifica a hipótese legal para a interposição do presente, vez que foi deferida a produção antecipada de provas e a citação da apelada, tendo sido proferida a r. sentença atacada.
+Do excerto acima transcrito, depreende-se que o Tribunala quoentendeu não ser cabível a apresentação de recurso para impugnar decisão que acolhe o pedido de produção antecipada de prova.
+De fato, de acordo com o art. 382, § 4º, do CPC/2015, nesse procedimento, apenas é cabível a interposição de recurso quando a decisão proferida denegar o pleito antecipatório de instrução.
+Nesse sentido, confira-se precedente da Terceira Turma do STJ:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. RESISTÊNCIA CONFIGURADA. ÔNUS SUCUMBENCIAL. NOTIFICAÇÃO EFETUADA. TESES NÃO PREQUESTIONADAS. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. SÚMULA 211/STJ. PEDIDO DE PRODUÇÃO ANTECIPADA DE PROVA. DEFERIMENTO. RECURSO. AUSÊNCIA DE INTERESSE DE AGIR. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento jurisprudencial vigente no Superior Tribunal de Justiça consolidou-se no sentido de ser imprescindível, para conhecimento e julgamento do recurso especial, a prévia discussão da tese perante a instância originária, sob pena de incidência das Súmulas 282 e 356 do Supremo Tribunal Federal, bem como no enunciado 211/STJ.
+2. O STJ, intérprete da legislação federal, possui jurisprudência assentada no sentido de que o prequestionamento ficto só pode ocorrer quando, na interposição do recurso especial, o recorrente tiver sustentando violação ao art. 1.022 do CPC/2015 e esta Corte Superior houver constatando o vício apontado.
+3. No caso em exame, embora tenham sido opostos embargos de declaração, as questões jurídicas não foram abordadas no aresto impugnado, nem o agravante apontou possível violação ao art. 1.022 do CPC/2015.
+4. De acordo com o disposto no art. 382, § 4º, do CPC/2015, nos procedimentos de produção antecipada de prova, apenas é cabível a interposição de recurso quando denegado o pedido formulado.
+5. Agravo interno desprovido.
+(AgInt no AgInt no AREsp 1572393/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/08/2020, DJe 01/09/2020)
+Conforme exposto nos autos, verifica-se que o pedido de produção antecipada de prova realizado pelo agravante foi cumprido e devidamente homologado, situação que configura nítida ausência de interesse de agir para interposição de impugnação à decisão.
+Logo, constata-se que o posicionamento do Tribunal estadual está em sintonia com a jurisprudência deste Tribunal de Uniformização, aplicando-se a Súmula 83/STJ.
+Com relação à possibilidade de cabimento de honorários sucumbenciais, ante o princípio da causalidade, verifica-se que a tese não foi objeto de exame pelo aresto objurgado, o qual se limitou à apreciação da interposição de recurso da decisão que homologa a prova produzida em ação incidental. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada, o que atrai a incidência da Súmula n. 211 do STJ.
+Cumpre destacar que o Tribunal de origem, a despeito dos embargos de declaração suscitados, não se manifestou expressamente sobre a questão.
+Ressalta-se que o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada na presente hipótese.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. CABIMENTO. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVA. HOMOLOGAÇÃO. RECURSO. NÃO CABIMENTO. HONORÁRIOS SUCUMBENCIAIS. TESE NÃO PREQUESTIONADA. SÚMULA N. 211/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
