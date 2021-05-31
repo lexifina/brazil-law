@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por PETROBRAS TRANSPORTE S.A - TRANSPETRO, no qual se discute - dentre outras questões - a responsabilidade civil decorrente de derramamento de óleo no mar, a obrigatoriedade de autorização prévia para o exercício da atividade de aquicultura e a necessidade da realização de registro perante o Cadastro Técnico Federal de Atividades Potencialmente Poluidoras ou Utilizadoras de Recursos Ambientais.
+Por cuidar de matéria de direito público, a apreciação do presente recurso foge à competência desta 2ª Seção, a teor do que dispõe o art. 9º, § 1º, VIII e XIV, do RISTJ.
+Assim sendo, determino a remessa dos autos à Coordenadoria de Análise e Classificação de Temas Jurídicos e Distribuição de Feitos - CTJU, para a redistribuição dos autos a uma das Turmas da 1ª Seção deste Tribunal.
