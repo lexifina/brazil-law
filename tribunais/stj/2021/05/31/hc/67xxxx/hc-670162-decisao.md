@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de LEONARDO JOSÉ BROGNARO DA SILVA, contra decisãoproferidapor Desembargador do Tribunal de Justiça do Estado de São Paulo.
+Depreende-sedos autos que o Desembargador FARTO SALLES,em caráter de urgência, diante do afastamento ocasional do eminente Relator sorteado, indeferiu a liminar postulada em favor do sentenciado, objetivando afastar a realização de exame criminológico para fins de progressão de regime prisional (e-STJ, fl. 13).
+Nopresente writ, alega a impetrante que ""A par de se demonstrar  ..  a superação da Súmula 691 deste Supremo Tribunal, a impetrante ressalta que a tutela da liberdade de locomoção não deve ser restrita, nas Cortes Superiores, apenas ao recurso ordinário em habeas corpus. A presente impetração, por enfrentar prisão calcada em equívocos manifestos e ilegalidades indiscretas, deve ser conhecida e processada"" (e-STJ, fl. 5).
+Aduz que ""na espécie, a realização do exame criminológico como condição para o deferimento do benefício de regime aberto fundamentado unicamente na gravidade dos crimes que originaram a execução penal e na longa pena à cumprir sem apontar elementos concretos, observados durante a execução penal aptos à demonstrar a ausência do requisito subjetivo é totalmente inidôneo nos termos da Súmula vinculante 26 do Supremo Tribunal Federal e da Súmula 439 do Superior Tribunal de Justiça"" (e-STJ, fl. 5).
+Diante disso, pleiteia, liminarmente e no mérito, a concessão da ordem ""que seja cassada a decisão de primeiro grau, dispensando a paciente de realizar o exame criminológico  .. seja deferido a progressão de regime Aberto, uma vez que está cumprido os requisitos objetivo e subjetivo e há quase 01 (um) ano o requisito objetivo (lapso temporal) cumprido em 15/9/2020"" (e-STJ, fl. 12).
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+No mesmo sentido, confira-se o seguinte precedente ( grifei):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL - STF. DECISÃO DO RELATOR QUE, EMBORA SUCINTA, FUNDAMENTA O INDEFERIMENTO DA LIMINAR NA AUSÊNCIA DOS REQUISITOS EXIGIDOS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE CAPAZ DE SUPERAR O ÓBICE DA SÚMULA N. 691/STF. IMPOSSIBILIDADE DE MANIFESTAÇÃO DESTA CORTE, SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. RECURSO DESPROVIDO.
+1. Não é teratológica a decisão do Desembargador relator que, vislumbrando a impossibilidade de apreciação da matéria em sede de juízo perfunctório, tendo em vista a faculdade que lhe é concedida, solicita informações ao Juízo de origem para melhor análise do pedido formulado no mandamus originário e delega ao colegiado o julgamento do mérito, após o parecer do Parquet, não se verificando, portanto, hipótese de superação do enunciado n. 691 da Súmula do STF.
+2. De acordo com a pacífica jurisprudência do Superior Tribunal de Justiça, a fim de evitar indevida supressão de instância, deve-se aguardar o julgamento de mérito da impetração pela Corte de origem.
+3. Agravo regimental desprovido
+(AgRg no HC n. 529.007/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 17/9/2019, DJe 23/9/2019)
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não constatada na espécie, não é de se admitir casos como o dos autos.
+Na hipótese, consignou o Desembargador da Corte de origem (e-STJ, fl. 13):
+Vistos em caráter de urgência, diante do afastamento ocasional do eminente Relator sorteado.
+Indefere-se o pedido de liminar.
+Anota-se que a utilização do "habeas corpus" como sucedâneo do recurso cabível à espécie deve se verificar em situações excepcionais, nas quais constatada flagrante ilegalidade, algo não observado neste exame perfunctório próprio do pedido de liminar.
+No caso, breve leitura da decisão impugnada permite constatar que a determinação voltada à realização do exame criminológico discorreu sobre a gravidade concreta da conduta que ensejou a condenação do paciente (a quem imposta sanção rigorosa por crimes de lesão corporal e ameaça, dentre outros, com longo período de pena a cumprir), decorrendo a providência do poder geral de cautela do julgador, ainda mais por se tratar de crimes praticados com violência contra a pessoa e, ainda, de condenado multirreincidente.
+Encaminhem-se os autos ao Relator sorteado de imediato.
+Impende ressaltar que, na espécie, a liminar foi apreciada em caráter de urgência, diante do afastamento ocasional do Relator sorteado. Determinou-se, contudo, o encaminhamento, de imediato, dos autos ao referido relator.
+Por conseguinte, não houve, sequer, o pronunciamento do Relator, que poderá confirmar o indeferimento da liminar ou, eventualmente, reconsiderar tal decisão.
+Em conclusão, nas circunstâncias dos autos, entendo não configurada hipótese excepcional de flagrante ilegalidade que justifique a superação da Súmula n. 691 do Supremo Tribunal Federal, resultando incabível a presente impetração.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+Sem recurso, arquivem-se os autos.
