@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal Regional Federal da 4ª Região sob o pálio da seguinte ementa (fl. 273, e-STJ):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. DECADÊNCIA.LIMITAÇÃO AO TETO. EMENDAS CONSTITUCIONAIS 20/98 E 41/03.DIFERENÇAS.
+1. Nos casos de demanda que busca a readequação do valor da renda mensal a partir da entrada em vigor dos novos tetos constitucionais, não flui o prazo decadencial.
+2. Os benefícios limitados ao teto do regime geral de previdência passam a observar o novo limite introduzido pelas Emendas Constitucionais nºs 20/1998 e 41/2003, sem que importe em ofensa ao ato jurídico perfeito.
+3. Incidência do Tema/STF nº 930: Os benefícios concedidos entre 5.10.1988 e 5.4.1991 não estão, em tese, excluídos da possibilidade de readequação aos tetos instituídos pelas emendas Constitucionais ns. 20/1998 e 41/2003. Eventual direito a diferenças deve ser aferido no caso concreto, conforme os parâmetros já definidos no julgamento do RE n. 564.354.
+4. Aplicação do entendimento do Supremo Tribunal Federal no RE 564.354 também aos benefícios com data de concessão anterior à Constituição Federal de 1988, em face da compatibilidade do regramento, que sempre distinguiu salário-de-benefício do valor do benefício.
+5. Faz jus às eventuais diferenças decorrentes da incidência dos novos tetos previstos pelas Emendas Constitucionais 20/98 e 41/03 o segurado cuja renda mensal tiver sofrido redução em razão da incidência do limitador então vigente (limite do salário-de-contribuição na data de início do benefício).
+6. Se o benefício sofreu limitação ao teto quando da concessão, mas posteriormente ocorreu a recomposição, de forma a não alcançar mais os valores dos tetos, inexistem excedentes a serem considerados.
+7. Possível postergar a comprovação da limitação ao teto e apuração de eventuais diferenças para a fase de execução.
+Os Embargos de Declaração foram desprovidosnos seguintes termos (fl. 303, e-STJ):
+EMBARGOS DE DECLARAÇÃO. CABIMENTO. INOCORRÊNCIA.REDISCUSSÃO. IMPOSSIBILIDADE.
+1. São cabíveis embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material, nos termos do artigo 1.022 do Código de Processo Civil.
+2. Não se verifica a existência das hipóteses ensejadoras de embargos de declaração quando o embargante pretende apenas rediscutir matéria decidida, não atendendo ao propósito aperfeiçoador do julgado, mas revelando a intenção de modificá-lo, o que se admite apenas em casos excepcionais, quando é possível atribuir-lhes efeitos infringentes, após o devido contraditório (artigo 1.023, § 2º, do Código de Processo Civil).
+3. O prequestionamento de dispositivos legais e/ou constitucionais que não foram examinados expressamente no acórdão, suscitados pelo embargante, nele se consideram incluídos independentemente do acolhimento ou não dos embargos de declaração, nos termos do artigo 1.025 do Código de Processo Civil.
+A parte recorrente, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação ao art. 1.037, inciso II e § 8º, do CPC/2015, assim como à própria decisão da Primeira Seção do STJ no Tema 1.005 (ProAfR no REsp 1.761.874/SC). Argumenta, em síntese, que discorda do acórdão que diferiu para a execução a decisão acerca da definição do termoa quodo marco prescricional, adotando a princípio como marco inicial o ajuizamento da ação individual.
+Contrarrazões às fls. 331-339, e-STJ.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 342-343, e-STJ).
+É orelatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21/5/2021.
+Cuida-se de inconformismo contra acórdão do Tribunal de origem que não "decidiu" sobre o marco inicial da prescrição, havendo diferido a questão para a fase de execução e adotadoa prioricomo marco inicial o ajuizamento da ação individual.
+A irresignação merece prosperar.
+Trata-se de demanda em que a parte autora postula a revisão de seu benefício pela readequação da renda mensal aos tetos das ECs 20/1998 e 41/2003, conforme o entendimento do STF no Tema 76.
+No caso concreto, debateu-se o termoa quoda contagem do marco prescricional diante da controvérsia gerada pela possibilidade de interrupção do prazo pelo ajuizamento de Ação Civil Pública, nos termos debatidos no STJ em Recurso Especial repetitivo (Tema 1.005).
+O Tribunal de origem, a fim de afastar o sobrestamento do feito diante da decisão da Primeira Seção do STJ nos recursos repetitivos REsp 1.761.874/SC, REsp 1.766.553/SC e REsp 1.751.667/RS (Tema 1.005), de ofício, diferiu para execução a decisão acerca da definição do termoa quodo marco prescricional, adotando-se a princípio como marco inicial o ajuizamento da ação individual.
+Nada obstante, há necessidade de suspensão do feito diante da decisão proferida pela Primeira Seção do STJ no Tema 1.005 submetido ao rito dos recursos repetitivos, com a identificação da seguinte tese:Fixação do termo inicial da prescrição quinquenal, para recebimento de parcelas de benefício previdenciário reconhecidas judicialmente, em ação individual ajuizada para adequação da renda mensal aos tetos fixados pelas Emendas Constitucionais 20/98 e 41/2003, cujo pedido coincide com aquele anteriormente formulado em ação civil pública.
+Na oportunidade, a Primeira Seção do STJ determinou a suspensão do processamento de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria e tramitem no território nacional, conforme se observa no Acórdão do ProAfR no REsp 1.761.874/SC:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. PROPOSTA DE AFETAÇÃO DE RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. ARTS. 1.036, CAPUT E § 1º, 1.037 E 1.038 DO CPC/2015 C/C ART. 256-I DO RISTJ, NA REDAÇÃO DA EMENDA REGIMENTAL 24, DE 28/09/2016. BENEFÍCIO PREVIDENCIÁRIO. ADEQUAÇÃO DA RENDA MENSAL AOS TETOS DAS EMENDAS CONSTITUCIONAIS 20/98 E 41/2003. VALORES RECONHECIDOS JUDICIALMENTE, EM AÇÃO INDIVIDUAL, CUJO PEDIDO COINCIDE COM AQUELE ANTERIORMENTE FORMULADO EM AÇÃO CIVIL PÚBLICA. PRESCRIÇÃO QUINQUENAL DE PARCELAS.TERMO INICIAL.
+I. Delimitação da controvérsia, para fins de afetação da matéria ao rito dos recursos repetitivos, nos termos do art. 1.036, caput e § 1º, do CPC/2015: "Fixação do termo inicial da prescrição quinquenal, para recebimento de parcelas de benefício previdenciário reconhecidas judicialmente, em ação individual ajuizada para adequação da renda mensal aos tetos fixados pelas Emendas Constitucionais 20/98 e 41/2003, cujo pedido coincide com aquele anteriormente formulado em ação civil pública".
+II. Recurso Especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I do RISTJ, na redação da Ementa Regimental 24, de 28/09/2016).
+Portanto, além de demonstrados os futuros prejuízos pela adoção da técnica de diferimento para o juízo da execução dos critérios para apuração da prescrição quinquenal, está claro que foi diretamente afrontado o texto da norma adjetiva (art. 1.037) com a decisão proferida pelo TRF4 no momento em que deixou de suspender o feito.
+Desta forma, deve ser reformada a decisão proferida pelo Tribunal recorrido, sobrestando-se o presente feito até a conclusão doTema 1.005 pelo STJ, para que então tenha seguimento, nos termos do art. 1.040, III, do CPC.
+Na mesma linha: RESP 1.882.051/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 2/9/2020.
+Pelo exposto,dou provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
