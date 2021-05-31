@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Agravo contra decisão que não admitiu o Recurso Especial por incidência da Súmula284/STF e pela não violação aos arts. 489 e 1.022 do CPC.
+A causa teve origem em Agravo de Instrumento provido, em que foi deferida a antecipação de tutela recursal - para afastar a decisão que suspendeu a execução fiscal até o julgamento do Tema 987 pelo Superior Tribunal de Justiça -, sob o entendimento de que o referido tema não abrange execução fiscal processada contra cooperativas.
+Os primeiros Embargos de Declaração (fls.243-247, e-STJ) foram acolhidos, sem efeitos modificativos, e os segundos foram rejeitados (fls. 308-313, e-STJ).
+A Cooperativa Sul Rio Grandense de Laticínios afirmou que houve, além de divergência jurisprudencial, ofensa aos arts. 489, §1º, IV, e 1.022 do CPC/2015, por omissão na análise dos arts. 1º e 47 da Lei 11.101/2005 e4º da Lei 5.764/1971. Sustenta que a Lei 11.101/2005 não excluiu as cooperativas agrícolas, sendo perfeitamente aplicável no caso presente.
+Contrarrazões às fls.418-420, e-STJ.
+Defende em seu Agravo em Recurso Especial:
+Com as devidas cautelas, o recorrente, ora agravante, "não banalizou" o uso dos artigos 489, IV e 1.022 CPC/2015, e não estar tergiversando sobre "teses", mas sim está tratando de temas que são de fundamental importância, notadamente, para as COOPERATIVAS, como é o caso da empresa agravante, salientando inclusive o TEMA: 972/STJ, ainda pendente de julgamento final pelo STJ, que pautou, inclusive, a decisão monocrática e de 1º grau, com extensão daquele para as COOPERATIVAS.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 18 de março de 2021.
+Preliminarmente, constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia que lhe foi apresentada.
+Não se conhece de Recurso Especial cujas razões encontram-se dissociadas do acórdão recorrido. Incidência da Súmula 284 do STF.
+A irresignação, da mesma forma, não merece acolhida. O Tribunal de origem consignou:
+Consoante apontado no julgado embargado, a questão objeto do tema 987 do STJ não abrange as sociedades cooperativas, já que trata de recuperação judicial, regime jurídico ao qual as cooperativas não se submetem.
+Com efeito, a Lei nº 11.101, de 2005, disciplina a recuperação judicial, a recuperação extrajudicial e a falência do empresário e da sociedade empresária (art. 1º), e as cooperativas são sociedade simples, nos termos do art. 982, parágrafo único, do Código Civil.
+Outrossim, de acordo com o rito da Lei nº 6.830, de 1980, o crédito tributário prefere a qualquer outro e sua cobrança não se sujeita a concurso de credores ou habilitação em falência, recuperação judicial, concordata, inventário ou arrolamento (Código Tributário Nacional, arts. 186 e 187).
+Não se verifica, portanto, a ocorrência de quaisquer das hipóteses ensejadoras dos embargos de declaração, previstas no art. 1.022 do CPC. A decisão está devidamente fundamentada, com a apreciação dos pontos relevantes e controvertidos da causa.
+O Superior Tribunal de Justiça tem entendimento pacificado de que as cooperativas são sociedades simples, nos termos do art. 982, parágrafo único, do Código Civil, que, por definição, não exercem atividade empresarial (art. 1.093 do mesmo Código), dicção também inserta no art. 1º da Lei 11.101/2005. Da mesma forma, os benefícios fiscais devem ser interpretados estritamente, nos termos do art. 111 do CTN. Por essa razão, as sociedades cooperativas sujeitam-se ao procedimento de liquidação previsto pelos arts. 63 a 78 da Lei 5.764/1971, preterida alegislação falimentar. Veja-se:
+TRIBUTÁRIO. COOPERATIVA. LIQUIDAÇÃO JUDICIAL. LEI 5.764/1971. EXCLUSÃO DAS MULTAS MORATÓRIAS TRIBUTÁRIAS. IMPOSSIBILIDADE. APLICAÇÃO DO ART. 23, PARÁGRAFO ÚNICO, III, DO DL 7.661/1945, POR ANALOGIA. INVIABILIDADE. ART. 111 DO CTN. INTERPRETAÇÃO ESTRITA DO BENEFÍCIO FISCAL.
+1. A falência é instituto que se aplica exclusivamente às empresas. Essa é a dicção do art. 1º do DL 7.661/1945 e, atualmente, do art.1º da Lei 11.101/2005.
+2. As cooperativas são sociedades simples, nos termos do art. 982, parágrafo único, do Código Civil, que, por definição, não exercem atividade empresarial (art. 1.093 do mesmo Código). Por essa razão, não se sujeitam à legislação falimentar, mas sim ao procedimento de liquidação previsto pelos arts. 63 a 78 da Lei 5.764/1971, que não contempla o benefício de exclusão das multas moratórias tributárias.
+3. Não há como estender, por analogia, a previsão do art. 23, parágrafo único, III, do DL 7.661/1945 (exclusão das multas moratórias tributárias) às cooperativas, já que os benefícios fiscais devem ser interpretados estritamente nos termos do art. 111 do CTN. Precedentes da Primeira Turma.
+4. Recurso Especial não provido. (REsp 798.980/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 9/3/2009)
+Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Cumpre ressaltar que a referida orientação é aplicável também aos recursos interpostos pela alínea "a" do art. 105, III, da Constituição Federal de 1988. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Relator Ministro Castro Meira, DJe de 2/6/2010.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo que contra ela se insurge.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
