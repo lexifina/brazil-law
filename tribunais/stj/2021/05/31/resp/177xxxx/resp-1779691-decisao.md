@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJMG assim ementado (e-STJ fl. 290):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS REGRAS DO CÓDIGO DE DEFESA DO CONSUMIDOR. PRINCIPIO DO PACTA SUNT SERVANDA. INAPLICABILIDADE. POSSIBILIDADE DE REVISÃO. JUROS REMUNERATÓRIOS. AUSÊNCIA DE PROVA QUANTO À COBRANÇA DE PERCENTUAL SUPERIOR AO CONTRATADO. IMPROCEDÊNCIA.
+RECURSO PROVIDO. SENTENÇA REFORMADA.
+- O Código de Defesa do Consumidor é aplicável aos contratos bancários.
+- A competência para a limitação dos juros nas operações e serviços bancários é do Conselho Monetário Nacional, não incidindo, na espécie, obrigatoriamente, os percentuais previstos na Lei de Usura e no Código Civil.
+- Não havendo expresso deferimento do pedido de inversão do ônus da prova, cabe ao Autor, à luz do disposto no art. 373, I, do CPC de 2015, o ônus de demonstrar o fato constitutivo do direito alegado.
+- Não provada a efetiva cobrança de juros remuneratórios em percentual superior ao contratado, imperiosa a reforma da sentença que determinou a limitação da taxa aplicada.
+Nas razões recursais (e-STJ fls. 301/308), fundamentadas no art. 105, III, "a", da CF, a recorrente apontou violação doart. 373, I e II, do CPC/2015, sustentando que a instituição financeira recorrida aplicou taxa de juros superior à contratada, conforme "laudo extrajudicial de fls.  .. , elaborado por profissional competente" (e-STJ fl. 303).
+Sem contrarrazões (e-STJ fl. 311).
+É o relatório.
+Decido.
+A controvérsia tem origem em ação revisional de mútuo bancário, ajuizada para questionar a cobrança de comissão de permanência e juros acima da taxa pactuada, indevidamente capitalizados, razão pela qual seria necessária a restituição em dobro dos valores pagos em excesso.
+A ré requereu o julgamento antecipado da lide. A autora, inversão do ônus da prova e produção de perícia contábil.
+O magistrado de primeira instância indeferiu a inversão do ônus da prova e manteve a taxa de juros prevista no contrato, em percentual supostamente inferior ao efetivamente aplicado, conforme perícia apresentada pela autora:
+Estando o autor já de posse do contrato firmado com o requerido, sendo de seu conhecimento todos os termos ali expostos, extirpada está sua vulnerabilidade técnica e probatória, autorizativa do deferimento de inversão do ônus probatório. Com isso. indefiro o pedido de inversão do ônus da prova formulado pelo autor em sua peça de ingresso, (e-STJ fl. 233).
+(..)
+No laudo pericial extrajudicial de fl 15/24, concluiu-se que a taxa de juros praticada no contrato é de 1,85%. Apesar de ter impugnado esse documento em sua contestação, o réu o fez de maneira genérica, sem trazer nenhum outro laudo ou documento que se prestasse a refutar as conclusões do perito que, diga-se de passagem, é perito contador registrado no CRC-MG. Além disso, quando intimado a informar as provas que pretendia produzir, o réu requereu o julgamento antecipado da lide.
+Dessa forma, já que o requerente comprovou fato constitutivo do seu direito e o requerido deixou de comprovar a existência de fato impeditivo, modificativo ou extintivo do direito do autor (art. 373 do NCPC), impõe-se reconhecer que a taxa de juros efetivamente utilizada pelo banco foi superior à contratada. Logo, considerando a hipossuficiência informacional do consumidor, deve prevalecer a taxa de juros contratada e que está devidamente explicitada no contrato, qual seja 1,77% ao mês.
+Contudo, o Tribunal de Justiça reformou a sentença, no que concerne aos juros, sob os seguintes fundamentos (e-STJ fls. 296/297):
+Na presente demanda, verifica-se que o percentual contratado (1,77% ao mês e 23,37% ao ano) se mostra adequado à taxa usualmente cobrada pelo Mercado Financeiro.
+Contudo, sustenta a parte Autora, baseada em laudo pericial extrajudicial que apresenta, que a taxa de juros efetivamente pactuada não vem sendo obedecida pela instituição financeira, de vez que, segundo alega, o valor das parcelas cobradas demonstra a incidência de percentual superior ao contratado.
+Ocorre que, analisando-se os autos, não vislumbro que a incidência de percentual superior ao contratado tenha sido comprovada na espécie em apreço.
+Na verdade, e sem embargo dos argumentos lançados na decisão recorrida, considero que o laudo pericial extrajudicial se mostra insuficiente para tal finalidade notadamente se levado em consideração que o mesmo restou expressamente impugnado em sede de contestação, como se vê às f. 79 e 85/86-TJ.
+Em tal conjuntura, e não havendo expresso deferimento do pedido de inversão do ônus da prova, cabia à Autora, à luz do disposto no art. 373, I, do CPC de 2015, o ônus de demonstrar o fato constitutivo do direito alegado, do qual, à evidência, não se desincumbiu.
+Aliás, a este respeito, cabe ressaltar que a própria Autora reconheceu a deficiência probatória do aludido laudo pericial extrajudicial, tanto que, em sede de especificação de provas, requereu a realização de perícia judicial (f. 165/166 e f. 176-v-TJ) e, diante do indeferimento do pedido, (f. 178-TJ), interpôs o Agravo Retido de f. 179/181-TJ.
+Entretanto, descumprindo a disposição do art. 523, § 1º, do CPC de 1973, aplicável no particular, a ora Apelada não requereu, expressamente, a apreciação do aludido recurso por este Tribunal, o que impede a reanálise da alegada necessidade da produção da prova pericial no caso em apreço, ante a ocorrência da preclusão.
+Neste contexto, tenho por não provada a alegada incidência de percentual superior ao contratado, de modo que a reforma da sentença é providência que se impõe.
+A recorrente afirma que a parte adversa não "impugnou de forma efetiva a referida planilha de cálculo da Recorrente, impugnando-a apenas genericamente SEM apontar qual o equívoco existente no laudo em seu entendimento, o que implica em PRECLUSÃO probatória em relação ao referido documento" (e-STJ fl. 303).
+O Tribunal a quo não se pronunciou sobre esse argumento (preclusão), circunstância que impede o conhecimento da insurgência por falta de prequestionamento, conforme a Súmula n. 282/STF.
+Segundo o especial, "além do fato de o laudo de fls. 15-24 se tornar prova INCONTROVERSA, a verdade é que consta no mesmo elementos suficientes que permitem ao Judiciário a análise da questão, já que ele foi elaborado por Perito regularmente inscrito na Associação de Peritos Judiciais de Minas Gerais, o que atesta sua credibilidade, e, após específica análise do contrato e dos termos de cobrança nele fixados" (e-STJ fl. 304).
+Ao contrário do consignado no acórdão, a recorrente teria se desincumbido "de seu ônus e provou nos autos suas alegações, especialmente através do laudo de fls. 15-24 elaborado por profissional competente, no qual restou atestado que os juros efetivamente aplicados no financiamento (1,85%) são SUPERIORES aos juros contratados (1,77%1)" (e-STJ fl. 307).
+Todavia, para acolher a pretensão recursal e alterar o desfecho conferido ao caso em segunda instância, seria necessário o revolvimento do conjunto fático-probatório dos autos, providência vedada no recurso especial, nos termos da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento)
+o valor atualizado dos honorários advocatícios arbitrados na origem emfavor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
