@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED GRANDE FLORIANÓPOLIS COOPERATIVA DE TRABALHO MÉDICO, com fundamento nas alíneas "a" e "c" do permissivo constitucional, em face de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 713-727, e-STJ):
+APELAÇÃO. Ação cominatória. Plano de saúde. Cobertura nacional. Tratamento de saúde prescrito ao autor e recusado com fundamento na ausência de obrigatoriedade de cobertura em rol da ANS. Sentença que condena ao custeio do tratamento de saúde do autor. Inconformismo da parte autora e da ré Unimed Grande Florianópolis. Preliminar. Gratuidade de Justiça. Pessoa física. Presunção legal. Inexistência de elementos em contrário. Concessão da benesse ao autor. Mérito. Alegada ausência de obrigação contratual para arcar com o pagamento de médico e hospital fora de sua área de abrangência do plano contratado pelo autor. Ré apelante que não ofereceu alternativa ao consumidor, deixando de apontar profissional credenciado e serviços hospitalares conveniado sem plano de cobertura com abrangência nacional. Precedentes do Superior Tribunal de Justiça e deste Tribunal. Danos morais configurados. Negativa abusiva de cobertura a atendimento hospitalar em situação de urgência. Agravamento da condição de dor, abalo psicológico e prejuízos à saúde do paciente. Precedentes do Superior Tribunal de Justiça e destaCâmara. Lesão a direito da personalidade confirmada. Indenização devida (R$10.000,00). Verbas de sucumbência distribuídas em razão do resultado do julgamento. Pedido para redução dos honorários sucumbenciais. Arbitramento por equidade. Inaplicabilidade do artigo 85, §8º, do Código de Processo Civil. Hipótese dos autos que não representa enriquecimento dos patronos do autor. Incidência da artigo 85,§2º, do CPC. Base de cálculo. Valor atualizado da causa. Sentença reformada. Recurso da ré Unimed Grande Florianópolis desprovido. Recurso do autor provido.
+Opostos embargos de declaração (fls. 729-742, e-STJ), esses foram rejeitados (fls. 743-746, e-STJ).
+Nas razões do recurso especial (fls. 749-794, e-STJ), a recorrente, além de dissídio jurisprudencial, aponta violação seguintes artigos:
+(i) 4o, III, da Lei 9961/00 e 10, § 4o, da Lei 9656/98, na medida em que o rol de procedimentos da ANS tem natureza taxativa;
+(ii) 186, 187, 188, I, e 927 do CC/02, já que não houve lesão a direitos da personalidade aptos a gerar dano moral;
+(iii) 12, VI, da Lei 9656/98, pois o reembolso das despesas deveria se limitar ao valor de referência disposto no contrato;
+Não houve contrarrazões (fl. 886, e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. O recorrente aponta, com o fundamento para a reforma do acórdão recorrido, a existência de contrariedade aos artigos 4o, III, da Lei 9961/00, 10, § 4o, e 12 da Lei 9656/98, sob os fundamentos de que: a) o rol de procedimentos médicos editado pela ANS teria natureza taxativa, a denotar a legalidade da rejeição de cobertura; e b) o reembolso do montante gasto pelo beneficiário com tratamento fora da rede conveniada deveria ser limitado aos valores de referência do contrato.
+Contudo, da leitura do acórdão recorrido, nota-se que tais questões não foram objeto de exame específico pelo Tribunal de origem, o qual limitou-se a assentar o dever de cobertura, por parte da operadora Unimed, de tratamento mesmo fora da base geográfica disposta no contrato, haja vista as particularidade que permeiam a constituição de tais cooperativas médicas.
+De igual modo, não há menção no aresto em relação à eventual necessidade de limitação do reembolso, nos termos do art. 12, VI, da Lei 9656/98.
+Destaque-se, por oportuno, que tais matérias sequer foram devolvidas ao Tribunal local, na medida em que não constaram do recurso de apelação apresentado pela operadora de saúde.
+De fato, para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, de modo a definir a correta interpretação da legislação federal.
+Nesse contexto, revela-se impossível a admissão do recurso especial, com fulcro nos enunciados firmados pelas Súmulas 282 e 356 do STF. Precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO EXTRAORDINÁRIO. REQUISITOS PREENCHIDOS. NULIDADE. QUESTÃO DE ORDEM PÚBLICA. NECESSIDADE DE PREQUESTIONAMENTO. INOVAÇÃO RECURSAL. PROCESSO UTILIZADO COMO DIFUSOR DE ESTRATÉGIAS. IMPOSSIBILIDADE DO MANEJO DA CHAMADA "NULIDADE DE ALGIBEIRA". ALEGADA CONFISSÃO JUDICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STJ E 356/STJ. REVISÃO DAS CONCLUSÕES DO TRIBUNAL ESTADUAL. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+(..)
+5. A Corte regional não apreciou a tese da alegada confissão judicial e a parte recorrente não opôs embargos de declaração objetivando suprir eventual omissão, não estando presente o necessário prequestionamento. Incidência dos enunciados previstos nas Súmulas 282 e 356 do STF.
+(..)
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1181699/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/03/2018, DJe 09/03/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. EXIBIÇÃO DE DOCUMENTOS. LEGITIMIDADE PASSIVA. INTERESSE DE AGIR. COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, tampouco opostos embargos declaratórios para sanar eventual omissão, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 699.757/PB, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 22/05/2018, DJe 28/05/2018)
+2. A seu turno, não prospera a alegada afronta aos artigos 186, 187, 188, I, e 927 do CC/02.
+Sobre o tema, restou assentado pela Corte a quo, à luz do acervo probatório que acompanha os autos, que a negativa de cobertura do equipamento médico gerou ofensa a direitos da personalidade, na medida em que se deu em situação de emergência (fl. 719, e-STJ):
+Quanto aos danos morais, deve-se considerar que a parte ré apelante recusou a cobertura de atendimento de saúde do autor, mesmo diante da emergência do atendimento, já que tais fundamentos da sentença não foram impugnados pela operadora de saúde. Logo, a recusa da operadora de saúde extrapolou o que se considera como mero inadimplemento contratual e por isso deve ser responsabilizada pela violação de direito da personalidade do autor.
+Nesse cenário, tem-se que o provimento do pleito recursal de insubsistência de dano moral demandaria que a premissa acima fosse derruída. Para tanto, todavia, revelar-se-ia necessário revolver matéria fático-probatória, providência vedada em sede de recurso especial, nos termos da Súmula 07/STJ. Precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE FORNECIMENTO DE PRÓTESE NECESSÁRIA A PROCEDIMENTO CIRÚRGICO. DANO MORAL. EXISTÊNCIA. QUANTUM INDENIZATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INOVAÇÃO RECURSAL EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A Corte de origem, analisando o contexto fático-probatório dos autos, concluiu que o descumprimento contratual, no caso dos autos, ultrapassou um mero dissabor, pois, quando da negativa do fornecimento da prótese, a cirurgia já estava agendada, a autora já estava internada e já havia passado por todos os procedimentos preparatórios (conforme documentos que instruem a inicial), somente se realizando o ato cirúrgico porque foi feito o pagamento do material, situação que gerou dano moral indenizável.
+2. A alteração das premissas fáticas delineadas pelo acórdão recorrido demandaria a reanálise do contexto fático-probatório dos autos, providência, todavia, incabível em sede de recurso especial, a atrair a incidência da Súmula 7 do Superior Tribunal de Justiça.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 910.115/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/12/2016, DJe 07/02/2017)  grifou-se
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544, DO CPC/1973) - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANO MORAL - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO APELO - INSURGÊNCIA DA DEMANDADA.
+(..)
+2. Nos termos em que delineado no acórdão recorrido, a hipótese em tela não traduziu mero dissabor pelo inadimplemento contratual, tendo em vista que a recusa frustrou a legítima expectativa do autor de receber a prestação adequada para sua convalescença, causando-lhe profundo sofrimento, que extrapola o mero aborrecimento cotidiano, considerando a fragilidade emocional e física resultantes de enfermidade tão gravosa.
+3. Acórdão impugnado em consonância com a jurisprudência deste Tribunal Superior. Súmula 83 do STJ.
+4. Nos termos da jurisprudência consolidada no STJ, a revisão de indenização por danos morais só é possível em sede de recurso especial, quando o valor fixado nas instâncias locais for exorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade e da proporcionalidade.
+4.1. No caso dos autos, houve a condenação da agravante no pagamento de indenização no valor de R$ 12.000,00 (doze mil reais), em razão da recusa injustificada de tratamento prescrito pelo médico para o tratamento de câncer.
+4.2. O quantum fixado a título de danos morais, atende aos princípios da proporcionalidade e da razoabilidade, encontrando-se dentro dos parâmetros reconhecidos pelo STJ para situação semelhante. Incidência da Súmula 7 desta Corte.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 775.115/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 06/12/2016, DJe 14/12/2016)  grifou-se
+Logo, inviável a admissão do recurso no que toca à presente questão.
+3. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, nego provimento ao recurso especial. Por conseguinte, nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor dos honorários advocatícios arbitrados na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC/2015.
+Publique-se.
+Intimem-se.
