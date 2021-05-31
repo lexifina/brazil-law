@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especialinterposto por EWERTON MARTINS VIEIRA E OUTRA comfundamentado no artigo 105, inciso III, alínea "c", da Constituição Federal, que se insurge contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"ILEGITIMIDADE PASSIVA. Administradora do plano que compõe a cadeia de fornecimento dos serviços de assistência à saúde perante o consumidor e, portanto, possui legitimidade parafigurar no polo passivo. Preliminar afastada.
+PLANO DE SAÚDE. PORTABILIDADE. REAJUSTE ANUAL. DEVOLUÇÃO DE VALORES. DANOS MORAIS. Autores que negociaram um novo plano antes do cancelamento do anterior. Portabilidade reconhecida Requisitos do art. 3º da Res. Normat.186/09 da ANS cumpridos. Abusividade na imposição de novos prazos de carência ou de cobertura parcial temporária, inclusivepara internação obstétrica. Art. 51, IV, CDC. Reajuste anual de 28,80% em outubro/2016. Contrato de plano saúde coletivo, ao qual, a princípio, não se aplica os índices divulgados pela ANS. Reajuste que foi muito superior ao índice da ANS e ao praticadono mercado para contratos coletivos. Aplicação da Lei 9.656/98 e do CDC. Abusividade. Estudo atuarial apresentado pela corré Central Nacional Unimed em sede de agravo de instrumento, onde foi constatada a necessidade de reajuste financeiro de 20,50%, o qual deve ser aplicado ao caso. Devolução de todos os valores pagos a maior, corrigidos desde o desembolso e com juros de mora desde a citação. Dano moral não configurado. Mero inadimplemento contratual. Conduta que não ultrapassou mero dissabor. Precedentes. Sentença reformada para afastar os danos morais. Honorários advocatícios devidos pelos autores majorados para R$600,00. Recursos parcialmente providos"(fl. 789, e-STJ).
+No recurso especial, osrecorrentes, em síntese alegamque aexperiência vividanão passou de mero dissabor, o que enseja a condenação ao pagamento de danos morais.
+É o relatório.
+DECIDO.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Isso porque, nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, inviável o conhecimento do recurso especial pela alínea "c" do permissivo constitucional quando não demonstrada, como no caso vertente, a divergência jurisprudencial, haja vista a recorrente ter apenas colacionado algumas ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos confrontados e a divergência de interpretações.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. RESCISÃO CONTRATUAL. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283/STF. DISSÍDIO JURISPRUDENCIAL. DEMONSTRAÇÃO. AUSÊNCIA.
+(..)
+3. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 541, parágrafo único, do CPC/1973 e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+4. Agravo interno não provido" (AgInt no AREsp 913.875/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/10/2016, DJe 25/10/2016).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. (..)
+2. O alegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 541, parágrafo único, do Código de Processo Civil de 1973 e 255, parágrafos 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento" (AgInt no AREsp 864.649/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/10/2016, DJe 7/11/2016).
+Ante o exposto, nãoconheçodo recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 600,00 (seiscentosreais), os quais devem ser majorados para R$ 700,00 (setecentosreais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
