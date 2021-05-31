@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por BRAZ DE ASSIS NOGUEIRA - ESPÓLIOcontra a decisão que inadmitiu o recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Pauloassim ementado:
+"AGRAVO DE INSTRUMENTO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - CONTRATO DE PARCERIA PECUÁRIA - Insurgência contra decisão que entendeu prudente a realização da citação por mandado nominal - Cabimento - Aviso de recebimento da carta de citação da empresa com retorno negativo - Mandado de citação expedido em nome dos sócios - Recebimento da citação por estes somente em nome próprio, ausente complemento da certidão do oficial de justiça de que tenham recebido também em nome da pessoa jurídica - Artigo 601, parágrafo único do CPC inaplicável à hipótese dos autos - Decisão mantida - Recurso desprovido"(fl. 127e-STJ).
+No recurso especial, além de dissídio jurisprudencial, o agravante alegou que ao desconsiderar a citação da empresa realizada pessoalmente em nome de seus dois únicos sócios, o acórdão recorrido violouo art. 601, parágrafo único, do Código de Processo Civil de 2015.
+Semas contrarrazões, e não admitido o recurso na origem, vieram os autos conclusos a esta relatoria.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+O tribunal de origem, ao dirimir a controvérsia, entendeu que a empresa executada não foi devidamente citada, visto que os sócios não receberam a citação em nome próprio e em nome da empresa, pois o ato se deu em nome somente de pessoa física, portanto, pessoa distinta da empresa, e ausente complemento na certidão do oficial de justiça de que houve recebimento também em nome da pessoa jurídica.
+Eis o excerto do voto condutor na parte que interessa:
+"(..)
+Ao que se colhe dos autos originários, a carta de citação remetida à empresa executada retornou sem entrega do documento (fls. 49).
+Do mandado de citação expedido posteriormente, a emissão e o ato citatório ocorreram somente em nome dos sócios (fls. 75/82).
+Logo, não se pode considerar que a empresa foi efetivamente citada, se os sócios não receberam a citação em nome próprio e em nome da empresa, circunstância que deve constar expressamente da certidão do oficial de justiça.
+É inequívoco que sendo os únicos sócios da empresa, poderia se concluir a ciência da pessoa jurídica da ação ajuizada contra ela, pela citação ocorrida na pessoa dos sócios. Mas o ato se deu em nome somente da pessoa física, portanto, pessoa distinta da empresa.
+Não se trata de mera formalidade que possa ser desconsiderada.
+Com razão ao magistrado determinar a citação da empresa, devendo constar do documento a pessoa jurídica para o ato, ainda que se indique que ocorra na pessoa de algum sócio específico.
+Por fim, o procedimento das execuções está disciplinado a partir do artigo 797 do Código de Processo Civil, não socorrendo, portanto, o agravante, arguir a aplicação do artigo 601, parágrafo único do mesmo código, porque é relativo à ação de dissolução parcial de sociedade, situação diversa dos autos, em que se executa bens e/ou valores por um dos contratantes.
+Sendo o ato citatório de extrema relevância, sobre o qual não pode recair qualquer falha, passível até mesmo de discussão em ação distinta, descabido utilizar preceito legal em analogia, para se considerar como perfeita e acaba a citação da empresa, o que não ocorreu no caso em tela" (fls. 129/130 e-STJ).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal, a fim de considerar como realizada a citação da empresa recorrida,demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, conforme dispõe o enunciado da Súmula nº 7/STJ.
+Ademais, registra-se que a Corte de origem afirmou que "o procedimento das execuções está disciplinado a partir do artigo 797 do Código de Processo Civil, não socorrendo, portanto, o agravante, arguir a aplicação do artigo 601, parágrafo único do mesmo código, porque é relativo à ação de dissolução parcial de sociedade, situação diversa dos autos, em que se executa bens e/ou valores por um dos contratantes(fl. 130 e-STJ).
+Desse modo, considerando que nas razões do presente recurso o recorrenteaponta a referida distinção como motivo a comprovar que não houvevício nacitação, a revisão do entendimento adotado pelo tribunalestadual nesse ponto demandaria tambémorevolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, conforme preconiza a Súmula nº 7/STJ.
+Por fim, verifica-se não merecer conhecimento o recurso pela alínea "c" do permissivo constitucional, pois, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil de 2015 e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial deve ser comprovada e demonstrada, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu na espécie.
+Com efeito, não se vislumbrou asimilitude fático-jurídicaentre osarestos confrontados, isso por que o acórdão recorrido apresentapeculiaridades que não estão presentes no aresto apontado como paradigma,restando desatendido o referido requisito imprescindível para aconfiguração do dissenso pretoriano.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSOESPECIAL.APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNALDE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. REEXAME DOCONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.INADMISSIBILIDADE.INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DOSFUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N.283/STF. DIVERGÊNCIAJURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorridopronuncia-se, de forma clara e suficiente, acerca das questões suscitadasnos autos, manifestando-se sobre todos os argumentos que, em tese,poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta o exame de questões que impliqueminterpretação de cláusula contratual ou revolvimento do contextofático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 doSTJ.
+3. No caso concreto, a análise das razões apresentadas pela recorrentequanto ao cerceamento de defesa e à existência de documento novodemandaria o reexame da matéria fática, o que é vedado em sede de recursoespecial.
+4. O recurso especial que não impugna fundamento do acórdão recorridosuficiente para mantê-lo não deve ser admitido, a teor da Súmula n.283/STF.
+5. O conhecimento do recurso especial interposto com fundamento na alínea"c" do permissivo constitucional exige a demonstração da similitude fáticaentre os acórdãos confrontados.
+6. Agravo interno a que se nega provimento"(AgInt no AREsp 888.676/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTATURMA, julgado em 7/12/2020, DJe 14/12/2020 grifou-se).
+Acrescenta-se, ainda, que a aplicação daSúmulanº7/STJ quanto ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios, conforme determina o art. 85, § 11, do CPC/2015, por não terem sido arbitrados na origem.
+Publique-se.
+Intimem-se.
