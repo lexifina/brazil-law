@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da Constituição da República) interposto contra acórdão assim ementado (fls. 175-183, e-STJ):
+EXECUÇÃO FISCAL. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. ANUIDADES. CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO. AUSÊNCIA DE REGULAR NOTIFICAÇÃO DO EXECUTADO. NULIDADE.
+1. O lançamento das contribuições do interesse de categoria profissional (anuidades) se aperfeiçoa com a notificação do contribuinte para efetuar o pagamento do tributo, sendo considerada suficiente a remessa do carnê com o valor da anuidade, ficando constituído em definitivo o crédito a partir de seu vencimento, se inexistente recurso administrativo.
+2. A notificação do sujeito passivo é condição de eficácia do lançamento. A presunção de legitimidade da certidão de dívida ativa descrita no art. 3º da Lei 6.830/80 somente deve ser considerada estando a dívida regularmente inscrita. Assim, a falta de notificação válida implica ausência de aperfeiçoamento do lançamento e de constituição do crédito tributário.
+3. Hipótese em que ausente a comprovação de regular notificação do executado, ensejando a nulidade do título executivo e a extinção da execução fiscal.
+A parte recorrente apontadissídio jurisprudencial e violação dos arts. 3º e6º, §1º, da Lei 6.830/1980,alegando, em suma, que o Juízo de primeira instância não pode exigir documentação não prevista em lei para o ajuizamento de Execução Fiscal(fls. 187-197, e-STJ).
+Decisão de admissibilidade às fls. 267, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 5/5/2021.
+O Tribunal original assim decidiu (fls. 178-181, e-STJ, grifou-se):
+Cabe ao exequente demonstrar, uma vez instado pelo juízo, o cumprimento das formalidades para constituição do crédito tributário, e informar qual o modo de constituição do crédito tributário.
+Embora o exequente não esteja obrigado a instruir a petição inicial executiva com tais elementos, visto que a Lei 6.830/1980 não os estabelece como requisitos, o juízo pode exigir, de ofício ou a requerimento do executado, a demonstração do cumprimento das formalidades de lançamento (remessa de documentos de pagamento, notificação, auto de lançamento, etc).
+(..)Os documentos constantes do processo não se mostram suficientes para demonstrar a regular notificação do contribuinte. A notificação e o aviso de recebimento de mensagem dirigida ao devedor e recebida no seu endereço (..), não comprovam a regular notificação, uma vez que foram incluídas rubricas referentes a juros e multas a contar do vencimento ordinário das anuidades, como se verifica do detalhamento das CDAs (..).
+Saliente-se que embora o exequente informe que os boletos de anuidade são enviados anualmente aos contribuintes por cartas simples, não junta aos autos prova desse envio. Assim, não há que cogitar de afronta a decisões proferidas em julgamento sob o rito dos recursos repetitivos REsp 1.111.124/PR e REsp nº 1.114.780/SC, Temas 116 e 248 do STJ, respectivamente, uma vez que não há prova do envio da guia de cobrança (carnê), que firmaria a presunção de notificação a ser ilidida pelo contribuinte.
+Não comprovada notificação válida, não se aperfeiçoou o lançamento, e não se constituiu o crédito tributário. Não constituído o crédito tributário, inválida a inscrição em dívida ativa, e nula a certidão que a atesta: a presunção de legitimidade da certidão de dívida ativa descrita no art. 3º da Lei 6.830/1980 está desfeita neste caso.
+Oacórdão recorrido está de acordo com a jurisprudência do Superior Tribunal de Justiçasegundo a qual a anuidade devida aos conselhos profissionais - hipótese de tributos sujeitos a lançamento de ofício - se aperfeiçoa com a notificação do contribuinte para o pagamento do tributo, a qual deve ser obrigatoriamente comprovada.
+Aplica-se, portanto, o óbice da Súmula 83/STJ.Vejam-se precedentes, com grifos acrescidos:
+TRIBUTÁRIO. CONTRIBUIÇÕES SOCIAIS DE CATEGORIAS PROFISSIONAIS. LANÇAMENTO DE OFÍCIO. CONSTITUIÇÃO DO CRÉDITO COM A NOTIFICAÇÃO AO SUJEITO PASSIVO.
+I - O pagamento de anuidades devidas aos Conselhos Profissionais constitui contribuição de interesse das categorias profissionais, de natureza tributária, sujeita a lançamento de ofício.
+II - O lançamento se aperfeiçoa com a notificação do contribuinte para efetuar o pagamento do tributo, ficando constituído em definitivo o crédito a partir de seu vencimento, se inexistente recurso administrativo.
+III - A ausência da notificação administrativa implica o reconhecimento da irregularidade na constituição do crédito, afastando, portanto, a presunção de certeza e de exigibilidade de que goza a Certidão de Dívida Ativa. Precedentes: AREsp n. 1.330.517/SC, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 14/12/2018; REsp 1.235.676/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 15/4/2011 e REsp n. 1.696.579/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2017.
+IV - Recurso especial ao qual se nega provimento. (REsp 1.732.711/RS, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 1º.3.2019)
+TRIBUTÁRIO. RECURSO ESPECIAL. CONSELHO PROFISSIONAL. EXECUÇÃO. ANUIDADES. NATUREZA TRIBUTÁRIA. LANÇAMENTO. NOTIFICAÇÃO DO CONTRIBUINTE. ENVIO. COMPROVAÇÃO NECESSÁRIA.
+1. As anuidades devidas aos conselhos profissionais constituem contribuições de interesse das categorias profissionais e estão sujeitas a lançamento de ofício, que apenas se aperfeiçoa com a notificação do contribuinte para efetuar o pagamento do tributo e o esgotamento das instâncias administrativas, em caso de recurso.
+2. É necessária a comprovação da remessa da comunicação. Do contrário, considera-se irregularmente constituído o título executivo, e elididas a certeza e a liquidez presumidamente conferidas à certidão de dívida ativa. Precedentes.
+3. Recurso especial a que se nega provimento. (REsp 1.788.488/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 8/4/2019)
+TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÕES DO INTERESSE DE CATEGORIA PROFISSIONAL. ANUIDADES. LANÇAMENTO DE OFÍCIO. NOTIFICAÇÃO DO CONTRIBUINTE. ENVIO. COMPROVAÇÃO NECESSÁRIA.
+1. O acórdão recorrido está de acordo com a jurisprudência do Superior Tribunal de Justiça segundo a qual as anuidades devidas aos conselhos profissionais caracterizam- se como contribuições de interesse das categorias profissionais, lançadas de ofício. O citado lançamento somente se aperfeiçoa com a notificação do contribuinte para o pagamento do tributo, a qual deve ser obrigatoriamente comprovada, e/ou o esgotamento das instâncias administrativas, em caso de recurso. Ausente a comprovação da remessa da comunicação, afasta-se a certeza e liquidez da certidão de dívida ativa e considera-se irregularmente constituído o título executivo. Precedentes: REsp 1.788.488/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 8/4/2019; REsp 1.732.711/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 1º/3/2019.
+2. Recurso Especial não provido.(REsp 1.827.115/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/10/2019)
+Outrossim, contrariar os fatos processuais insculpidos no acórdão, em especial a ausência de prova de envio do carnê, implica violação da Súmula 7/STJ.
+Dissídio jurisprudencial prejudicado.
+Ante o exposto, nego provimento aoRecurso Especial.
+Publique-se.
+Intimem-se.
