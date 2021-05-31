@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em benefício de BIANCA ALVES DOS REIS FERNANDES contra acórdão da 8ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo (HC nº 2094702-69.2021.8.26.0000).
+Extrai-se dos autos que a paciente foi presa em flagrante em 16/4/2021, acusada da suposta prática dos delitos tipificados nos arts. 33 e 35 da Lei nº 11.343/06. A prisão foi convertida em preventiva.
+Buscando a revogação da custódia, ou substituição por medidas cautelares alternativas,a defesa impetrou a ordem originária, que foi denegada pelo Tribunala quo, em acórdão assim ementado (e-STJ fls. 9/15):
+Habeas corpus  Tráfico Ilícito de Entorpecentes  Revogação da prisão preventiva por ausência de fundamentação e sob a alegação de genitora de menores de 12 anos  Impossibilidade  Presentes os requisitos do art. 212, do CPP  Outrossim, não houve a comprovação mínima de situação de vulnerabilidade dos filhos menores e da imprescindibilidade da presença materna para sua integral proteção, não sendo possível conceder a prisão domiciliar à paciente - Não verificado o constrangimento ilegal sofrido - Ordem denegada.
+No presentewrit, a defesa alega que a paciente é primária, de bons antecedentes, com residência fixa e emprego lícito, além de mãe de criança menor de 12 anos de idade.
+Pleiteia a expedição de alvará de soltura.
+É o relatório. Decido.
+A despeito da relevância das alegações defensivas, a ordem não comporta conhecimento, eis que deficientemente instruída. Não consta da inicial cópia da decisão que converteu a prisão em flagrante em preventiva, impossibilitando a análise das razões para o indeferimento da liberdade.
+Note-se que o acórdão não transcreveu, sequer parcialmente, o decreto preventivo. Lado outro, em relação ao pleito de prisão domiciliar em razão de ser mãe de criança nascida em 23/1/2019, o acórdão dá a entender que ela é criada pela avó, e não pela paciente, remetendo-se a "informações de fls. 24 dos autos de origem" (e-STJ fls. 14), documentação essa que também não foi juntada aos autos.Incabível, portanto, a análise das alegações defensivas.
+É de se ressaltar que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Diante do exposto, com esteio no art. 210 do Regimento Interno do Superior Tribunal de Justiça,indefiro liminarmenteohabeas corpus.
+Intimem-se.
