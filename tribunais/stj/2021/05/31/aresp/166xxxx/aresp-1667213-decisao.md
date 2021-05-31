@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por VALDEMAR GEO LOPES contra a decisão que inadmitiu recurso especial.O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, impugna acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"RESPONSABILIDADE CIVIL - Danos Morais - Saque com cartão - Comunicação pelo banco para que o cliente inutilizasse o cartão e recebesse uma nova, o que se deu, pelo correio, com cadastramento posterior da senha - Correntista que não fez prova de haver pedido o bloqueio do cartão ou comunicado gerado pela comunicação bancária - Cabe ao correntista o dever de guarda e utilização de seu cartão e senha, devendo mantê-lo em sua esfera de vigilância e, em casos de roubo, furto ou extravio, deve comunicar imediatamente a instituição financeira, para que proceda ao bloqueio e assim, seja evitada a utilização por terceiros - As operações questionadas foram realizadas antes do bloqueio, com o uso de cartão com chip e senha da autora, não se vislumbrando falha na prestação do serviço bancário - Precedentes da Corte - Válidas as transações, também deve ser considerado válido o apontamento perpetrado em nome do autor pelo não pagamento da dívida e assim, não é devida indenização por danos morais - Prejudicado o recurso do autor que versa sobre a majoração da indenização e dos honorários - Sentença de parcial procedência reformada - Recurso da ré provido para julgar improcedente o pedido prefacial, invertido o ônus da sucumbência e majorados os honorários para R$ 1.500,00 - Prejudicado o apelo da autora" (e-STJ fl. 178).
+Os embargos de declaração opostos foram parcialmente acolhidos, "(..) sem efeito modificativo, exclusivamente para alterar da fundamentação no que toca a reforma da sentença, e rejeitados no restante" (e-STJ fl. 204).
+Nas razões do especial, o recorrente aponta violação dos artigos 1º, III, 5º, V, X, XXXV e LIV, e 93, IX, da Constituição Federal; 2º, 4º, II, "d", 6º, III e VIII, e 14 do Código de Defesa do Consumidor; 1.022, I, II e III, 489, §1º, III e IV, e 932, III, do Código de Processo Civil de 2015 e 927 do Código Civil.
+Assevera que o Tribunal local incorreu em negativa de prestação jurisdicional ao deixar de se manifestar a respeito de questões relevantes para o deslinde da causa, referentes aos seguintes temas: (i) inadmissibilidade da apelação do recorrido por não ter impugnado a sentença; (ii) responsabilidade objetiva das instituições financeiras, (iii) existência de bloqueio do cartão, compras posteriores e comunicação e (iv) a questão dos autos não se trata de saques, mas, sim, de fraude no cartão de crédito.
+Sustenta que a controvérsia dos autos não diz respeito a saques, mas a compras realizadas por terceiros em Santa Catarina na fatura do cartão de crédito, fora de seu perfil de compra e local e que o cartão de crédito já estava bloqueado em São Paulo quando cadastrou nova senha.
+Afirma a inexistência de prova de que descuidou com o uso do cartão.
+Defende que as compras realizadas em Blumenau foram lançadas na fatura após o bloqueio do cartão.
+Após o decurso do prazo legal para a apresentação das contrarrazões (e-STJ fl. 271), o recurso foi inadmitido na origem, sobrevindo daí o apelo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Trata-se, na origem, de ação de indenização por danos morais ajuizada por Valdemar Geo Lopes em desfavor de Banco do Brasil S.A. fundada na alegação de que houve compras indevidas por terceiros em seu cartão de crédito, lançadas na fatura após o bloqueio do cartão.
+O magistrado de primeiro grau julgou o pedido parcialmente procedente para vedar a inclusão do nome do autor em cadastros de inadimplentes, declarar a inexigibilidade das despesas e compras por ele listadas e condenar a instituição financeira ao pagamento de indenização por danos morais no valor de R$7.000,00 (sete mil reais).
+Para tanto, entendeu que a fraude foi provada e que a parte ré não impugnou especificamente, na contestação, os fatos alegados no inicial, "(..) forte na premissa de que a tecnologia de chip é imune a fraude" (e-STJ fl. 107).
+O Tribunal local, por sua vez, reformou a sentença entendendo pela improcedência do pedido inicial com base nos seguintes fundamentos:
+(i) o autor teve saques em sua conta, resultando no bloqueio;
+(ii) ao comparecer ao banco para cadastramento de nova senha, o autor não comunicou dos débitos ditos indevidos ou solicitado o bloqueio;
+(iii) o correntista faltou com o dever de guarda do cartão ao deixá-lo longe de sua esfera de vigilância e de não ter comunicado o extravio logo após o sinistro, e
+(iv) as transações questionadas no cartão magnético são válidas por terem sido realizadas antes da troca do cartão.
+No presente recurso, o recorrente sustenta a configuração da negativa de prestação jurisdicional ao fundamento de que o acórdão recorrido deixou de apreciar o fato de que as faturas foram lançadas quando o cartão em que as compras foram realizadas já tinha sido bloqueado, não havendo falar, portanto, em falha no dever de guarda.
+Além disso, afirma que a apelação não impugnou a sentença, motivo por que deveria ter sido inadmitida.
+De fato, verifica-seque o acórdão recorrido deixou de analisar matérias essenciais ao deslinde da controvérsia, todas expostas nas razões dos embargos de declaração de fls. 182/190, e-STJ.
+Dessa forma, ocorreu a negativa de prestação jurisdicional, devendo os autos retornarem ao Tribunal de origem para apreciar os pontos acima indicados.
+Nesse sentido:
+"AGRAVO INTERNO. RECURSO ESPECIAL. CONTRATO DE HONORÁRIOS ADVOCATÍCIOS. RESCISÃO DO CONTRATO. ARBITRAMENTO JUDICIAL. HONORÁRIOS DE SUCUMBÊNCIA. DANOS MORAIS. EXORBITÂNCIA. AUSÊNCIA DE EXAME. ARTIGO 1.022 DO CPC/2015.
+1. Presente um dos vícios elencados no artigo 1.022 do Código de Processo Civil, é devida a devolução dos autos à origem para rejulgamento dos embargos de declaração e completa prestação jurisdicional.
+2. Agravo interno provido para dar parcial provimento ao recurso especial" (AgInt no REsp 1.708.003/BA, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/08/2018, DJe 21/08/2018).
+Ante o exposto, conheço do agravo a fim de dar provimento ao recurso especial para determinar a devolução dos autos ao Tribunal estadual para reapreciar as alegações apresentadas nos embargos de declaração de fls. 182/190, e-STJ.
+Publique-se.
+Intimem-se.
