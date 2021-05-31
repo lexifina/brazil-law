@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de BRUNO BARBOSA DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação n. 1502895-19.2019.8.26.0348.
+Na hipótese, o impetrante aponta constrangimento ilegal na utilização do peso bruto da pesagem da droga apreendida para exasperação da pena-base, nos termos do artigo 42 da Lei de Drogas, em razão da condenação, bem como negativa de incidência de causa especial de diminuição do § 4º do art. 33 da Lei n. 11.343/06, em razão da condenação às penas de 5 anos e 10 meses de reclusão, em regime fechado, mais pagamento de 583 dias-multa, pela prática do crime descrito no art. 33,caput, da Lei n. 11.343/06, e se requer, em caráter liminar e no mérito, a concessão da ordem para "a) Reconhecer a inexistência de circunstâncias judiciais desfavoráveis;b) Incidir a causa de diminuição do art. 33, §4º, da Lei 11.343/06;c) Redimensionada a pena, fixar o regime inicial aberto (enunciados de Súmula 440, deste E. Superior Tribunal de Justiça e 718 e 719, do E.Supremo Tribunal Federal e artigo 33, §2º, alínea "c", do Código Penal) e converter a pena privativa de liberdade em restritiva de direitos (Resolução nº 5 de 2012, do Senado Federal e artigo 44, do Código Penal). Subsidiariamente, requer a fixação do regime inicial semiaberto" (fl. 30).
+É o breve relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+No caso, ao menos em juízo perfunctório, não é possível identificar de plano o constrangimento ilegal aventado ou, ainda, a presença do fumus boni iuris e do periculum in mora, elementos autorizadores para a concessão da tutela de urgência.
+Confundindo-se com o mérito, a pretensão deve ser submetida à análise do órgão colegiado, oportunidade na qual poderá ser feito exame aprofundado das alegações relatadas após manifestação do Parquet.
+Por tais razões, indefiro o pedido de liminar.
+Solicitem-se, com urgência e via telegrama, informações atualizadas e pormenorizadas à autoridade indigitada de coatora, a serem prestadas, preferencialmente, pela Central de Processo Eletrônico - CPE do STJ.
+Após, abra-se vista ao Ministério Público Federal para parecer.
+P. e I.
