@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especialinterposto por SUL AMÉRICACOMPANHIA NACIONAL DE SEGUROS. O apelo extremo, fundamentado noartigo 105, inciso III, alíneas "a" e "c", da Constituição Federal,insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte assim ementado:
+"PROCESSUAL CIVIL E CONSUMIDOR. SEGURO HABITACIONAL. DECISÃOEMENTA:AGRAVADA QUE INVERTEU O ÔNUS DA PROVA, NOS TERMOS DO ART. 6º, INCISO VIII, DOCDC. IRRESIGNAÇÃO. ALEGAÇÃO DE AUSÊNCIA DE RESPONSABILIDADE. NÃOACOLHIMENTO DA PRETENSÃO RECURSAL. MUTUÁRIOS E SEGURADORA. RELAÇÃO DECONSUMO E HIPOSSUFICIÊNCIA CONFIGURADAS. APLICABILIDADE DO CÓDIGO DEDEFESA DO CONSUMIDOR. ILEGALIDADE NÃO VERIFICADA. INVERSÃO DO ÔNUS DAPROVA QUE SE MOSTRA POSSÍVEL. PAGAMENTO DE HONORÁRIOS PERICIAIS. CLARADESPROPORÇÃO ENTRE O PODERIO FINANCEIRO DAS PARTES ENVOLVIDAS NO LITÍGIO.ÔNUS QUE, A PRINCÍPIO, CABE À SEGURADORA. DECISÃO AGRAVADA MANTIDA. CONHECIMENTO E DESPROVIMENTO DO AGRAVO DE INSTRUMENTO. PRECEDENTES" (fl. 1.153e-STJ).
+Nas razões do recurso especial, a agravantealega, além de divergênciajurisprudencial, violação dos arts. 487, II, do Código de Processo Civil de 2015; 206, § 1º, II, "b", e 771 do Código Civil; 2º e 6º, VIII, do Código de Defesa do Consumidor,e 1º da Lei nº 12.409/2011.
+Defende, em síntese, que seja declinada a competência para a Justiça Federal.
+Com as contrarrazões, e inadmitido o recurso na origem, sobreveio opresente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se aoexame do recurso especial.
+O acórdão impugnado pelo recurso especial foipublicado na vigência do Código de Processo Civil de 2015 (EnunciadosAdministrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar.
+Isso porque, no julgamento do Recurso Extraordinário nº 827.996/DF, oSupremo Tribunal Federal, após reconhecer a existência de repercussãogeral da matéria relativa à "existência de interesse jurídico da CaixaEconômica Federal para ingressar como parte ou terceira interessada nasações envolvendo seguros de mútuo habitacional no âmbito do SistemaFinanceiro de Habitação" e, consequentemente, "a competência da JustiçaFederal para o processamento e o julgamento das ações dessa natureza"(Tema 1.011), fixou as seguintes teses:
+"(..)
+1) Considerando que, a partir da MP 513/2010 (que originou a Lei12.409/2011 e suas alterações posteriores, MP 633/2013 e Lei 13.000/2014),a CEF passou a ser administradora do FCVS, é aplicável o art. 1º da MP513/2010 aos processos em trâmite na data de sua entrada em vigor(26.11.2010):
+1.1.) sem sentença de mérito (na fase de conhecimento), devendo os autosser remetidos à Justiça Federal para análise do preenchimento dos
+requisitos legais acerca do interesse da CEF ou da União, caso hajaprovocação nesse sentido de quaisquer das partes ou intervenientes erespeitado o § 4º do art. 1º-A da Lei 12.409/2011; e
+1.2) com sentença de mérito (na fase de conhecimento), podendo a Uniãoe/ou a CEF intervir na causa na defesa do FCVS, de forma espontânea ouprovocada, no estágio em que se encontre, em qualquer tempo e grau dejurisdição, nos termos do parágrafo único do art. 5º da Lei 9.469/1997,devendo o feito continuar tramitando na Justiça Comum Estadual até oexaurimento do cumprimento de sentença; e
+2) Após 26.11.2010, é da Justiça Federal a competência para oprocessamento e julgamento das causas em que se discute contrato de segurovinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendohaver o deslocamento do feito para aquele ramo judiciário a partir domomento em que a referida empresa pública federal ou a União, de forma
+espontânea ou provocada, indique o interesse em intervir na causa,observado o § 4º do art. 64 do CPC e/ou o § 4º do art. 1º-A da Lei12.409/2011" (conforme certidão de julgamento extraída no endereçoeletrônico do Supremo Tribunal Federal - acórdão pendente de publicação).
+No caso em apreço, a demanda foi proposta em 2016, ou seja, quando jáestava em vigor a Medida Provisória nº 513/2010, convertida na Lei nº12.409/2011, que conferiu legitimidade à CEF para integrar o polo passivo,na condição de litisconsorte ou de assistente simples, nas ações queenvolvem apólice pública do seguro habitacional (Ramo 66).
+Por decorrência lógica, eventual sentença de mérito só pode ter sidoproferida após a mencionada inovação legislativa, de modo que era mesmoimprescindível a intimação da CEF e/ou da União para manifestarem eventual
+interesse na lide, conforme decidido pela Corte Suprema.
+Havendo manifestação positiva, os autos devem ser remetidos à JustiçaFederal, a quem compete decidir acerca daexistência de interesse jurídicoque justifique a presença, no processo, da União, suas autarquias ouempresas públicas, nos termos da Súmula nº 150/STJ.
+Anota-se, por oportuno, que a incompetência absoluta constitui matéria deordem pública, que pode ser declarada até mesmo de ofício, a qualquertempo e grau de jurisdição, não se sujeitando à preclusão.
+A análise quanto à aplicação ou não das normas de proteção aos direitos doconsumidor deve ser feita após a adequada composição do polo passivo dademanda e a definição do juízo competente para processamento da ação,haja vista a potencial prevalência das normas especiais que disciplinam oSistema Financeiro da Habitação.
+Ante o exposto, conheço do agravo e dou provimento ao recurso especialpara determinar o retorno dos autos ao primeiro grau de jurisdição, ondedeverão ser intimadas a CEF e/ou a União para manifestarem eventualinteresse em intervir na causa.
+Publique-se.
+Intimem-se.
