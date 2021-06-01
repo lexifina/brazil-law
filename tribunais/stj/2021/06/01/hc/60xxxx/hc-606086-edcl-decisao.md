@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MATHEUS HENRIQUE DE PAULA LEITEcontra decisão, por mim proferida, no qual não conheci do habeas corpus.
+Nos presentes declaratórios, a defesa aponta omissão, afirmando que houve equívoco na quantidade de droga apreendida.
+Ressalta suas condições pessoais favoráveis, a desproporcionalidade da custódia em face eventual pena a ser imposta e asuficiência da aplicação de medidas alternativas.
+Requer, assim, que sejam acolhidos os embargos de declaração, a fim de que seja sanada a alegada omissão.
+É o relatório.
+Decido.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+Todavia, ao revés do alegado pelo embargante, não há que se falar em omissão no julgado.
+Na hipótese em debate, conforme decidido, a prisão preventiva do ora embargante restou devidamente fundamentada na garantia da ordem pública, diante das circunstâncias do delito,o que revelou a gravidade da conduta e a periculosidade do réu.
+Verifica-se, ademais, que a quantidade de droga apreendida mencionada nodecisum corresponde àquela constante da denúncia,qual seja,13 gramas de crack, 109 gramas de cocaína e 138 gramas de maconha (fls. 68/70), não havendo qualquer equívoco a ser sanado.
+O que se observa é que o embargante pretende a modificação do julgado, com a rediscussão da questão, o que não se coaduna com a medida integrativa, ainda que para fins de prequestionamento.
+São precedentes de ambas as Turmas que julgam a matéria nesta Corte Superior:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. EXECUÇÃO PROVISÓRIA DE PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. OMISSÃO.INOCORRÊNCIA. EXAME SUFICIENTE DOS TEMAS. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+I - Nos termos do art. 619 do Código de Processo Penal, serão cabíveis embargos declaratórios quando houver ambiguidade, obscuridade, contradição ou omissão no julgado. Não se prestam, portanto, ao reexame da matéria analisada no recurso.
+II - Ao concluir a Turma que "no caso das penas restritivas de direitos, a Corte Especial deste Superior Tribunal de Justiça manteve o entendimento de que não cabe execução provisória antes do trânsito em julgado, nos termos do art. 147 da Lei de Execução Penal, consoante julgamento dos EDcl no AgRg no RE nos EDcl no AgRg no AREsp 971.249/SP, Rel. Min. Humberto Martins, DJe 28/11/2017.", por consequência, assentou a limitação do entendimento proferido pelo col. STF no HC n. 126.292/SP e nas ADCs n.s 43 e 44.
+III - Não se vislumbra vício algum no v. acórdão embargado, pois o teor da prestação jurisdicional corresponde aos fundamentos constantes dos autos e adequou-se ao tema suscitado no recurso, com esteio na jurisprudência pacífica desta Corte Superior de Justiça e nos limites do que foi alegado na petição recursal.
+IV - " ..  3. Não se pode conceber a análise da discussão por outra linha de raciocínio somente para possibilitar subsequente interposição recursal, eis que as hipóteses legais não contemplam o oferecimento de embargos apenas com a finalidade de se prequestionar matéria para fins de recurso extraordinário." (EDcl no HC 403.848/RJ, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe 19/12/2017, grifei) V - Mesmo para fins de prequestionamento, os embargos de declaração são cabíveis apenas quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal, hipóteses que não se verificam no caso do v. aresto embargado, que, portanto, deve prevalecer.
+Embargos rejeitados.
+(EDcl no AgRg no HC 510.483/SC, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 01/10/2019, DJe 09/10/2019).
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM PEDIDO DE EXTENSÃO EM HABEAS CORPUS. TRÁFICO PRIVILEGIADO. DECURSO DE MAIS DE QUATRO ANOS ENTRE A PUBLICAÇÃO DA SENTENÇA CONDENATÓRIA E O TRÂNSITO EM JULGADO DA CONDENAÇÃO PARA A DEFESA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA.OCORRÊNCIA.
+1. É nítida a pretensão do embargante de rediscutir as teses jurídicas debatidas e aplicadas pelo órgão julgador, o que é inadmissível. Precedente.
+2. A decisão embargada foi clara ao afirmar que é entendimento firme deste Superior Tribunal que o acórdão que confirma a sentença condenatória não é considerado marco interruptivo da prescrição da pretensão punitiva.
+3. Consoante disposto no art. 105 da Constituição Federal, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no PExt no HC 484.074/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 30/06/2020, DJe 04/08/2020).
+Ademais, em consulta ao andamento processual obtido na página eletrônica do Tribunal de origem, verificou-se que, no dia 30/9/2020, nos autos da Ação Penal n. 1501582-16.2020.8.26.0533, foi proferida sentença condenando o embargante às penas de 5 anos e 10 meses de reclusão, em regime inicial fechado, e ao pagamento de 583 dias-multa, pela prática do delito tipificado no art. 33,caput, c/c art. 40, VI, da Lei n. 11.343/2006,tendo sido mantida a custódia cautelar com base em fundamentos diversos daqueles utilizados na decisão da preventiva.
+In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar do réu, agregando fundamentos novos ao decreto prisional, consoante se extrai do seguinte trecho do julgado,in verbis:
+"O réu respondeu preso a todo o processo e os requisitos e fundamentos que tinham motivado a sua segregação cautelar apenas são reforçados neste momento. Denego-lhe, por consequência, o direito de recorrer em liberdade"
+Nesse contexto, verifica-se que, diante da alteração do cenário fático-processual, consubstanciada no advento de novo título judicial decorrente da sentença condenatória proferida em desfavor do ora recorrente, fica superada a alegação trazida no reclamo que ataca os fundamentos na manutenção da prisão preventiva por ocasião do decreto preventivo.
+Ademais, conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelar, devem ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, sob pena de se incidir em indevida supressão de instância.
+No mesmo sentido é a jurisprudência deste Tribunal:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVOS FUNDAMENTOS A EMBASAR A CUSTÓDIA. WRIT PREJUDICADO. APELAÇÃO DEFENSIVA. EXECUÇÃO PROVISÓRIA. AGRAVO DESPROVIDO.
+1.A superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidadeda ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar.
+2. Além disso, é possível a execução provisória da pena após a confirmação da sentença condenatória pelo Tribunal de origem quando exaurida a jurisdição ordinária.
+3. Agravo regimental desprovido.
+(AgRg no HC 461.932/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 06/08/2019, DJe 19/08/2019).
+AGRAVO REGIMENTAL NA PETIÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS.TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA PROFERIDA. PENA DE 09 (NOVE) ANOS DE RECLUSÃO EM REGIME FECHADO. NOVOS FUNDAMENTOS.PREJUDICIALIDADE. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O Regimento Interno desta Corte (arts. 34, XX) permite ao relator "decidir o habeas corpus quando for inadmissível, prejudicado ou quando a decisão impugnada se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+II -A superveniência de sentença condenatória poderá caracterizar novo título judicial quando forem inseridos novos fundamentos para a segregação cautelar, sendo capaz de prejudicar o writ. In casu, sobreveio sentença condenatória em desfavor do ora agravante, condenando-o à pena de 9 (nove) anos de reclusão, em regime inicialmente fechado, pela prática do crime previsto art 33, § 1º, II, da Lei 11.343/2006. Na ocasião, o MM. Magistrado acrescentou novos fundamentos para manter a prisão preventiva.
+III - Neste agravo regimental não foram apresentados argumentos novos capazes de alterar o entendimento anteriormente firmado, devendo ser mantida a decisão impugnada por seus próprios fundamentos.
+Agravo regimental desprovido.
+(AgRg na PET no RHC 106.567/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 21/03/2019, DJe 02/04/2019).
+Ante o exposto, rejeito os presentes embargos de declaração
+Publique-se.
+Intimem-se.
