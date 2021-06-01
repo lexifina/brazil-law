@@ -1,0 +1,14 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE APELAÇÃO CÍVEL No 33116-08.2011.8.11.0041
+1o APELANTE: RETTAMERO & OLIVEIRA LTDA.
+2o APELANTE: VINICIUS RETAMERO DE OLIVEIRA.
+3o APELANTE: CONDOMÍNIO CIVIL PANTANAL SHOPPING.
+APELADOS: OS MESMOS.
+Vistos.
+Certifique-se se o 1o e 2o Apelantes foram intimados para apresentar contrarrazões.
+Em caso, negativo, proceda-se com a devida intimação.
+Às providências.
+Desembargador DIRCEU DOS SANTOS
+Relator
