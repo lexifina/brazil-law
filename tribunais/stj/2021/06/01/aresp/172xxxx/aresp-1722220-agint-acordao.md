@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, dar parcial provimento ao agravo, nos termos do voto do Sr Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze, Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO QUE INADMITE RECURSO ESPECIAL COM BASE NO ART. 1.030, I, ALÍNEA "B", DO CPC/2015. INTERPOSIÇÃO DE AGRAVO INTERNO. NÃO OCORRÊNCIA DE ERRO GROSSEIRO. INEXISTÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS REMANESCENTES DA DECISÃO AGRAVADA - AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por BRASIL TELECOM S/A em face de decisão que não conheceu do agravo em recurso especial interposto pelaora agravante, em virtude da ausência de impugnação específica dos fundamentos da decisão de admissibilidade recursal.
+Nas razões do presente recurso, aagravante pugna pela modificação do julgado, deduzindo aexistência de impugnação específica de todos os fundamentos dadecisão denegatória de seu recurso especial.
+Afirma também, que quanto a negativa da decisão agravada com base no art. 1.030, do CPC, interpôs o devido agravo interno contra a decisão que inadmitiu o recurso especial.
+Impugnação à e-STJ Fls. 712/716.
+É o breve relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO QUE INADMITE RECURSO ESPECIAL COM BASE NO ART. 1.030, I, ALÍNEA "B", DO CPC/2015. INTERPOSIÇÃO DE AGRAVO INTERNO. NÃO OCORRÊNCIA DE ERRO GROSSEIRO. INEXISTÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS REMANESCENTES DA DECISÃO AGRAVADA - AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+VOTO
+Eminentes colegas, a irresignação merece parcial acolhida.
+Inicialmente, verifica-se que foi negado conhecimento ao agravo em recurso especial, em virtude de que éinadmissívela interposição de agravo em recurso especialobstado com base em recursos repetitivos, bem como pelaausência de impugnação específica aos fundamentos da decisão agravada, nos termos do art. 932, III, do CPC/15 (e-STJ Fls. 689/695).
+A parte agravante, por sua vez, nas razões do presente agravo, alega quequanto a negativa da decisão agravada com base no art. 1.030, do CPC, interpôs o devido agravo interno contra a decisão que inadmitiu o recurso especial e que não há ausência de impugnação específica à decisão que inadmitiu o seu recurso especial, uma vez que explicitou, consoante os trechos colacionados, a inadequação das Súmulas 7 e 83/STJ.
+Ora, no que tange à alegada inexistência de erro grosseiro, percebe-se que razão assiste à parte agravante, uma vez que, compulsando os autos, constata-se a interposição de agravo interno na origem (e-STJ Fls. 624/681).
+A propósito, destaca-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. AGRAVO EM RECURSO ESPECIAL RETIDO NA ORIGEM. USURPAÇÃO DE COMPETÊNCIA. AUSÊNCIA DE PROBABILIDADE DE ÊXITO RECURSAL. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL CONTRA DECISÃO QUE INADMITIU O APELO NOBRE COM BASE NO ART. 1.030, I, DO CPC/15. INADMISSIBILIDADE. INTERESSE DE AGIR. AUSÊNCIA DE UTILIDADE.
+1. Cuida-se de reclamação que aponta usurpação de competência deste STJ pelo Tribunal de origem, que obstou o seguimento de agravo em recurso especial.
+2. Em que pese, a princípio, esteja caracterizada a usurpação de competência, carece a reclamante do necessário interesse de agir, tendo em vista a ausência de probabilidade de êxito recursal.
+3. Isso porque, conforme expressa disposição dos arts. 1.030, § 2º, e 1.042, caput, do CPC/15, o recurso cabível contra a decisão que inadmite recurso especial em razão da conformidade entre o acórdão recorrido e a orientação firmada pelo STJ no regime dos repetitivos é o agravo interno no próprio Tribunal de Justiça, sendo incabível o manejo do agravo em recurso especial.
+4. O interesse de agir repousa na verificação da utilidade e da necessidade do pronunciamento judicial pleiteado. Nessa linha, eventual acolhimento da reclamação não traria à reclamante qualquer utilidade, pois sua situação processual, do ponto de vista prático, não se tornaria melhor com a subida do agravo em recurso especial.
+5. Agravo interno não provido.(AgInt na Rcl 40.720/RJ, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 15/12/2020, DJe 18/12/2020) - g. n.
+Ato contínuo, quanto ao não conhecimento do agravo em recurso especial, em razão da ausência de impugnação específica aos fundamentosutilizados pelo Tribunal de origem para não admitir o recurso especial, resta cristalino que os argumentos expostos no bojo do agravo não são aptos a desconstituir a decisão recorrida, uma vez que, conforme bem salientado na decisão proferida em sede de agravo em recurso especial, de fato, ocorreu a ausência de impugnação específica às Súmulas 7 e 83/STJ.
+É o que se depreende do seguinte excerto (e-STJ Fls. 692/694):
+Nesse passo, constato que o recurso especial da recorrente foi inadmitido em razão da incidência das Súmulas 7 e 83/STJ, em harmonia com a jurisprudência desta Corte.
+A parte agravante, entretanto, não demonstrou específica e objetivamente a inadequação de todos os fundamentos, limitando-se a tecer considerações meramente genéricas acerca da tese recursal, sem evidenciar a desnecessidade do reexame de fatos e provas, sobretudo quanto às particularidades que ensejaram a aplicação dos referidos óbices.
+Convém ressaltar, por oportuno, que, para viabilizar o prosseguimento do recurso interposto, a irresignação há de ser total, objetiva e pormenorizada, isto é, as alegações genéricas aos fundamentos do decisum de inadmissão são insuficientes à impugnação.
+(..)
+Efetivamente, "é dever do agravante impugnar, especificamente, todos os fundamentos da decisão agravada, mormente quanto à aplicação do óbice da Súmula nº 83/STJ, demonstrando que outro é o entendimento jurisprudencial desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo"(AgRg no REsp 1402488/PR, Rel. Min. RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 10/03/2014) - g. n.
+(..)
+Desta forma, a falta de ataque específico à decisão agravada acarreta o não conhecimento do recurso, a teor do que dispõe o art. 932, inciso III, do CPC/2015
+(..) (g.n.)
+Nas razões de seuagravo em recurso especial, com efeito, percebe-se que aagravante cingiu-se a reprisar suas razões recusais e a teceralegaçõesgenéricas acerca da inaplicabilidade dos referidos óbices,não atacando de forma específica, objetiva e consistente aincidência das Súmulas 7 e 83/STJ, mormente a indicação de julgados com similitude fáticaque amparem sua tese e afastem a orientação exposta pelo Tribunal de origem, oque atraiu a aplicação da Súmula 182/STJ à espécie.
+Convém esclarecer, novamente, que "é dever do agravante impugnar, especificamente, todos os fundamentos da decisão agravada, mormente quanto à aplicação do óbice da Súmula nº 83/STJ, demonstrando que outro é o entendimento jurisprudencial desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo" (AgRg no REsp 1402488/PR, Rel. Min. RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 10/03/2014, grifei).
+Consigne-se que é ônus da parte recorrente demonstrar a inaplicabilidade da decisão de inadmissão, ainda que a considere carente da devida fundamentação, de sorte a evidenciar o seu desacerto.
+Convém reprisar, que alegações genéricas ou a remissão a argumentos suscitados anteriormente não são suficientes para impugnar a decisão de inadmissibilidade.
+Destarte, o parcial provimento do recurso é medida que se impõe, tão somente, para afastar o erro grosseiro reconhecido na decisão ora agravada, restando os demais fundamentos incólumes.
+Por ora, deixo de aplicar a sanção requerida em sede de impugnação ao presente recurso, advertindo-se a parte de que eventual recurso interposto contra este acórdão estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Ante o exposto, DOU PARCIAL provimento ao agravo interno, tão somente, para afastar o erro grosseiro reconhecido na decisão agravada.
+É o voto.
