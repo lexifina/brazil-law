@@ -1,0 +1,22 @@
+DECISÃO
+ISMAEL PORTO DO NASCIMENTO agrava de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba (Apelação Criminal n. 0038434-29.2010.815.2002).
+Consta dos autos que o agravante foi condenado a 19 anos de reclusão, em regime fechado, como incurso nos arts. 121, § 2º, I e IV, e 129, § 1º, I, na forma do art. 69, todos do Código Penal. Inconformado, interpôs apelação perante a Corte estadual, que, por unanimidade, negou provimento ao recurso.
+Nas razões do especial, a defesa apontouviolação dos arts. 59 do Código Penal e 593 do Código de Processo Penal. Asseriuser a decisão dos jurados manifestamente contrária à prova dos autos, porquanto "não se pode permitir que alguém seja condenado por dois crimes praticados no mesmo dia, quase na mesma hora, com armas diferentes e em locais distantes um do outro" (fl. 715). Ainda, aduziu que a pena-base foi aumentada "de forma exacerbada e desfundamentada, utilizando de referências vagas" (fl. 718, sic)
+Requereu a absolvição do réu, nos termos do art. 386, IV, do CPP ou, subsidiariamente, a fixação da pena-base no mínimo legal.
+O recurso especial foi inadmitido pela incidência da Súmula n. 7 do STF.
+O agravante alega não pretender "desconstituir as conclusões a que chegaram as instâncias ordinárias acerca do contexto fático-probatório dos autos ou mesmo verificar se tais premissas encontram-se amparadas na prova coligida" (fl. 746).
+O Ministério Público Federal opinou, às fls. 786-787, pelo não provimento do agravo.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento.
+Constato a tempestividade do recurso especial, interposto com espeque no art. 105, III, "a", da Constituição Federal, mas não verifico o preenchimento dos requisitos constitucionais, legais e regimentais para seu processamento, por incidir na espécie as Súmulas 282 e284, ambas do STF.
+De início, em relação à aventada violação do art. 59 do CP, verifico que a defesa não se insurgiu contra a dosimetria em seu recurso de apelação de modo que, como apontado pelo membro do Parquet federal em seu parecer, a pena-base não foi analisada pelo acórdão recorrido. Dessa forma, as alegações defensivas carecem, nesse ponto, do necessário prequestionamento.
+Aplica-se ao caso, portanto, o óbice da Súmula n. 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Ainda, no que se refere à violação do art. 593 Código de Processo Penal, observo que o agravante indicou afronta à norma de forma genérica, sem especificar quais incisos ou alíneas teriam sido violados. É assente que a ausência de particularização dos artigos da lei supostamente infringidos, assim como a não especificação dos incisos dos artigos supostamente violados, inviabilizam a compreensão da irresignação recursal, em face da deficiência da fundamentação do apelo raro.
+Incide, na espécie, portanto, a Súmula n. 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Exemplificativamente:
+ ..
+3. A ausência de particularização dos artigos supostamente violados, inviabiliza a compreensão da irresignação recursal, em face da deficiência da fundamentação do apelo raro. Súmula 284/STF.
+ ..  (AgRg no AREsp n. 1.011.601/MS, Rel. Ministro Maria Thereza de Assis Moura, 6ª T., DJe 2/2/2017)
+Importante, ainda, reproduzir trecho do voto proferido pela relatora no julgado acima citado (grifei):
+Lado outro, nos moldes do assentado na decisão impugnada, quanto à aventada contrariedade ao artigo 593 do Código de Processo Penal, verifica-se que o recorrente indicou de forma genérica violação ao referido artigo, sem especificar qual (ais) inciso (s) entende tido (s) por violado (s). É assente que a ausência de particularização dos dispositivos legais supostamente violados inviabiliza a compreensão da irresignação recursal, em face da deficiência da fundamentação do apelo raro. Dessarte, incide, in casu, o enunciado 284 da súmula do STF, verbis: "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".  ..
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
