@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJPRassim ementado (e-STJ fls. 3.045/3.046):
+APELAÇÃO CÍVEL - AÇÃO DE REPARAÇÃO DE DANOS - ACIDENTE DE TRÂNSITO - DENUNCIAÇÃO DA LIDE - SENTENÇA DE PARCIAL PROCEDÊNCIA QUANTO A LIDE PRINCIPAL E PROCEDENTE QUANTO A LIDE REGRESSIVA - INSURGÊNCIA DOS RÉUS E DA SEGURADORA - ACORDO ENTABULADO EM INSTÂNCIA RECURSAL ENTRE AS PARTES DA LIDE PRIMÁRIA - ANTERIOR HOMOLOGAÇÃO - PROSSEGUIMENTO DO JULGAMENTO DOS RECURSOS QUANTO A LIDE SECUNDÁRIA - RECURSO (1) PARCIALMENTE PREJUDICADO POR PERDA SUPERVENIENTE DO OBJETO RECURSAL - NÃO CONHECIMENTO QUANTO AOS PLEITOS RELACIONADOS À LIDE PRINCIPAL - RECURSO (2) NÃO CONHECIDO EM PARTE: DESPESAS DE FUNERAL INCLUSÃO NA COBERTURA POR DANOS CORPORAIS-QUESTÃO QUE NÃO FOI ALEGADA EM PRIMEIRO GRAU - CONTESTAÇÃO DA SEGURADORA QUE SE RESTRINGIU A SUSTENTAR A IMPROCEDÊNCIA DA DENUNCIAÇÃO DA LIDE - INOVAÇÃO RECURSAL - MÉRITO - RECURSO (1): PLEITO DE COBERTURA POR DANOS CORPORAIS ALOCADA PARA COBRIR DANOS MORAIS - IMPOSSIBILIDADE - ENTENDIMENTO DO STJ - COBERTURA DOS DANOS CORPORAIS NÃO ABRANGE OS DANOS MORAIS POR HAVER CLÁUSULA CONTR ATUAL MORTE EXCLUSIVA PARA INDEPENDENTE - COBERTURA POR PASSAGEIROS E MOTORISTA DO VEÍCULO SEGURADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DA COBERTURA PARA PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS - RESPONSABILIDADE DA SEGURADORA QUE ESTÁ LIMITADA AOS TERMOS CONSTANTES DA APÓLICE - HONORÁRIOS SUCUMBENCIAIS NA LIDE SECUNDÁRIA - AUSÊNCIA DE RESISTÊNCIA À DENUNCIAÇÃO DA LIDE - LITISDENUNCIADA QUE RECONHECEU A RESPONSABILIDADE DE RESSARCIMENTO DA SEGURADA - CONJUNTURAQUE IMPOSSIBILITA A CONDENAÇÃO EM HONORÁRIOS E CUSTAS - RECURSO (2): VALORES DESCRITOS NA APÓLICE QUE DEVEM SER CORRIGIDOS MONETARIAMENTE, PORÉM, SEM A INCIDÊNCIA DE JUROS DE MORA - JULGADO - INAPLICABILIDADE DO ART. 85, §11 DO CPC.
+RECURSO DE APELAÇÃO (1) CONHECIDO PARCIALMENTE E, NESTA PARTE, NEGADO PROVIMENTO E, RECURSO DE APELAÇÃO (2) CONHECIDO PARCIALMENTE E, NESTA PARTE, DADO PROVIMENTO.
+Os embargos de declaração foram rejeitados(e-STJ fls. 3.103/3.104).
+Nas razões recursais (e-STJ fls. 3.128/3.142), fundamentadas no art. 105, III, "a" e "c", da CF, a recorrente alega, além de divergência jurisprudencial, ofensa aoart. 405 do CC/2002, sustentando, em síntese, quehá incidência de juros moratórios sobre a cobertura securitária desde a citação.
+Foi apresentada contrarrazão (e-STJ fls. 3.159/3.167).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 3.052):
+Conforme as razões recursais da seguradora/litisdenunciada, não deve ser aplicado juros de mora sobre a cobertura securitária, que apenas deve sofrer correção monetária, com base em julgado deste Tribunal.
+A decisão recorrida está em confronto com a jurisprudência desta Corte, pacífica ao afirmar que a seguradoraéresponsável pelo pagamento dos juros de mora sobre a cobertura securitária, em virtude da denunciação à lide, adotando-se como termo inicial a data de sua citação como litisdenunciada na ação proposta em desfavor da segurada.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. RESPONSABILIDADE ATRIBUÍDA AOS SEGURADOS. DENUNCIAÇÃO À LIDE. JUROS DE MORA. RESPONSABILIDADE. SEGURADORA. TERMO INICIAL.CITAÇÃO. PRECEDENTES. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. PROVIMENTO PARCIAL. 1. Nos termos da jurisprudência desta Corte, a seguradora denunciada é a responsável pelo pagamento dos juros de mora que têm incidência desde a citação. Precedentes.
+2. Descabida a majoração de honorários advocatícios determinada no agravo em recurso especial.
+3. Agravo interno parcialmente provido.
+(AgInt no REsp n. 1724125/ES, RelatoraMinistra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 2/04/2019, DJe 8/4/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. RESSARCIMENTO POR DANOS MORAIS E MATERIAIS. LIDE SECUNDÁRIA. CONDENAÇÃO DA SEGURADORA LITISDENUNCIADA. INCIDÊNCIA DE JUROS DE MORA. DECISÃO MANTIDA.RECURSO DESPROVIDO.
+1. Segundo o entendimento de ambas as Turmas que compõem a Segunda Seção, a seguradora é responsável pelo pagamento dos juros de mora, em virtude da denunciação à lide, adotando-se como termo inicial dos juros a data da citação da seguradora como litisdenunciada na ação proposta pela vítima em desfavor do segurado. Precedentes.
+2. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 239.129/PR, RelatorMinistro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 19/10/2017, DJe 26/10/2017.)
+Ante o exposto, DOU PROVIMENTO ao recurso especial a fim dedeterminar a incidência de juros de mora sobre a cobertura securitária desde a citação da seguradora.
+Fixooshonorários advocatíciosem 10% (dez por cento) sobre o valor da condenaçãoaos juros de mora na lide secundária.
+Publique-se e intimem-se.
