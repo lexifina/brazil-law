@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF4 , assim ementado (fl. 39):
+TRIBUTÁRIO. HONORÁRIOS ADVOCATÍCIOS. ILEGITIMIDADE PASSIVA PARA A EXECUÇÃO FISCAL, SEM EXTINÇÃO DO DÉBITO. PROVEITO ECONÔMICO NÃO CORRESPONDENTE AO VALOR DA DÍVIDA.
+O proveito econômico deve observar a circunstância da execução  scal e do débito não serem extintos, quando do reconhecimento da ilegitimidade de apenas algun(s) do(s) executado(s), hipótese em que não corresponderá ao débito executado, porquanto este permanece existente e exigível.
+Nesse cenário, o proveito econômico é inestimável, incidindo o disposto no § 8º do art. 85 do CPC, para  ns de  xação dos honorários de sucumbência.
+O recorrente alega ofensa ao artigo 85 §3º do CPC/2015, ao fundamento de que a decisão do TRF4 simplesmente arbitrou discricionariamente um valor que não corresponde aos patamares fixados expressamente em lei, havendo clara ilegalidade na fixação do ônus sucumbencial.
+Com contrarrazões.
+Decisão de admissibilidade à fl. 115.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre registrar que, conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3/STJ).
+No caso, o acórdão assim detalhou o fundamento da verba honorária (fl. 46):
+Portanto, considerando o trabalho desenvolvido, com reduzido tempo de tramitação, e o fato de que a Execução Fiscal e a dívida permanecem hígidos, reputo adequada a verba honorária fixada na sentença (R$20.000,00), nos termos do § 8º do art. 85 do CPC.
+Dito isto, verifica-se que a decisão recorrida está em conformidade com a jurisprudência desta Corte Superior, trazendo a incidência da Súmula 83/STJ:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CORRESPONSÁVEL. EXCLUSÃO. CONTINUIDADE DO PROCESSO. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. OBSERVÂNCIA.
+1. Na ação executiva fiscal, o valor da causa será o da dívida constante da certidão, com os encargos legais, sendo certo que, nos embargos à execução, o valor da causa deve ser equivalente à parte do crédito impugnado, de modo que o "valor da condenação" e o "proveito econômico obtido" aos quais se refere o § 3º do art. 85 do CPC/2015 devem ter correlação com o crédito tributário controvertido.
+2. Nos casos em que o acolhimento da pretensão não tenha correlação com o valor da causa ou não permita estimar eventual proveito econômico, os honorários de sucumbência devem ser arbitrados, por apreciação equitativa, com observância dos critérios do § 2º do art. 85 do CPC/2015, conforme disposto no § 8º desse mesmo dispositivo.
+3. O § 8º do art. 85 do CPC/2015 deve ser observado sempre que a exceção de pré-executividade objetivar somente a exclusão de parte do polo passivo, sem impugnação do crédito tributário, porquanto não há como estimar proveito econômico algum.
+4. Hipótese em que o TRF, porque não atribuído valor à objeção de pré-executividade, apoiou-se no § 8º do art. 85 do CPC/1973 para fixar a verba honorária em R$ 2.000,00.
+5. Recurso especial parcialmente provido para determinar novo arbitramento da verba de sucumbência com observância dos §§ 2º e 8º do art. 85 do CPC/2015. (AREsp 1423290/PE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 17/09/2019, DJe 10/10/2019)
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. POSSIBILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I. Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II. A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III. A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+IV. Esta Corte adota o posicionamento segundo o qual, nos casos em que o acolhimento da pretensão não tenha correlação com o valor da causa ou não permita estimar eventual proveito econômico, os honorários de sucumbência devem ser arbitrados, por apreciação equitativa, com observância dos critérios do § 2º do art. 85 do CPC/2015, conforme disposto no § 8º desse mesmo dispositivo.
+V. O § 8º do art. 85 do CPC/2015 deve ser observado sempre que a exceção de pré-executividade objetivar somente a exclusão de parte do polo passivo, sem impugnação do crédito tributário, porquanto não há como estimar proveito econômico algum.
+VI. In casu, rever o entendimento do Tribunal de origem, no sentido de alterar a condenação de honorários, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+VII. O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+VIII. A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IX. Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+X. Agravo Interno improvido. (AgInt no REsp 1.912.960/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 29/03/2021, DJe 06/04/2021).
+Isto posto, acrescenta-se que eventual alteração do julgado, a fim de afastar o princípio da razoabilidade, exigiria o reexame dos elementos de convicção postos no processo, o que atrai a incidência do óbice contido na Súmula 7/STJ.
+Por último, impedido o trânsito do recurso especial em decorrência da orientação fixada pelas Súmulas 7 e 83 do STJ, fica prejudicada a análise do dissídio jurisprudencial.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CORRESPONSÁVEL. EXCLUSÃO. HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§ 3º E 8º, DO CPC/2015. APRECIAÇÃO EQUITATIVA. POSSIBILIDADE. SÚMULA 83/STJ. REEXAME. SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
