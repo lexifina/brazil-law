@@ -1,0 +1,21 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. PERÍCIA. DELITO QUE DEIXA VESTÍGIOS. AGRAVO IMPROVIDO.
+1. A incidência da qualificadora do rompimento de obstáculo no crime de furto exige a realização de perícia, a qual somente pode ser suprida por outros meios de prova quando o delito não deixe vestígios, tenham desparecido ou, ainda, as circunstâncias do crime não permitam a confecção do laudo.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de agravo regimental interposto contra decisão que deu parcial provimento ao recurso especial para afastar a qualificadora do rompimento de obstáculo e a valoração negativa da personalidade do agente na dosimetria da pena.
+Sustenta o agravante que "a exigência da prova pericial tem sido relativizada na jurisprudência dessa Corte Superior quando ocorre furto em residência ou estabelecimento comercial, entendendo-se por incabível a exigência de que vítimas fiquem expostas a novos desfalques patrimoniais, a o manter as suas casas abertas aguardando o comparecimento dos peritos nos locais dos crimes" (fl. 357).
+Argumenta que "a prova técnica não é a única apta a comprovar a materialidade das condutas, podendo ser suprida por outros meios capazes de levar ao convencimento do julgador" (fl. 363).
+Requer o provimento do agravo para restabelecer a qualificadora do rompimento de obstáculo.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Insurge-se o agravante contra o afastamento da qualificadora do rompimento de obstáculo, mantida em apelação pelos seguintes fundamentos (fls. 268-269):
+Ressalto que, na esteira de precedentes desta Corte e do Superior Tribunal de Justiça, a realização de perícia técnica não constitui o único meio probatório hábil para a demonstração da materialidade do rompimento de obstáculo realizado quando da prática do crime de furto, podendo esta ser suprida por outros meios de prova capazes de informar o convencimento do Julgador, inclusive a prova testemunhal.
+E na hipótese, a qualificadora restou suficientemente demonstrada pelo conjunto de provas existente no presente processo, considerando os robustos depoimentos das testemunhas, que atestaram, com segurança, o arrombamento do portão e da porta frontal da residência, obstáculos que exigem do agente esforço extraordinário para a prática da subtração patrimonial, o que torna a conduta mais grave, justificando maior repreensão.
+Na compreensão do Tribunal de origem, em que pese a ausência de laudo pericial, o rompimento do obstáculo foi comprovado por robustos depoimentos das testemunhas, que atestaram, com segurança, o arrombamento do portão e da porta frontal da residência.
+A orientação adotada, contudo, diverge do entendimento desta Corte, de que a incidência da qualificadora do rompimento de obstáculo no crime de furto exige a realização de perícia, a qual somente pode ser suprida por outros meios de prova caso o delito não deixe vestígios, tenham desparecido ou, ainda, as circunstâncias do crime não permitam a confecção do laudo. Nesse sentido: AgRg no HC 530.693/PE, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 05/05/2020, DJe 11/05/2020; AgRg no REsp 1814051/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/11/2019, DJe 19/11/2019.
+No caso, ausente indicativo na sentença ou no acórdão de que a realização do laudo pericial tenha sido inviabilizada por reparos nas fechaduras do portão e da porta frontal da residência, como afirma o agravante.
+Assim, deve ser mantida a decisão ora agravada pelos seus próprios fundamentos, porquanto em consonância com a orientação jurisprudencial desta Corte, contexto no qual nego provimento ao agravo regimental.
+É o voto.
