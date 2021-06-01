@@ -1,0 +1,36 @@
+TURMA DE CÂMARAS CÍVEIS REUNIDAS DE DIREITO PÚBLICO E COLETIVO
+Gabinete do Desembargador Márcio Vidal
+MANDADO DE SEGURANÇA CÍVEL N. 1019693-72.2020.8.11.0000
+IMPETRANTE: LUSMARA ANTONIA SANCHES
+IMPETRADO: SECRETÁRIO DE GESTÃO E PLANEJAMENTO DO ESTADO DE MATO GROSSO E OUTROS
+DECISÃO MONOCRÁTICA:
+CONSTITUCIONAL E PROCESSUAL CIVIL –MANDADO DE SEGURANÇA – DESCONTO DE ALÍQUOTA PREVIDENCIÁRIA E IMPOSTO DE RENDA – SERVIDORA APOSENTADA – PORTADORA DE DOENÇA INCAPACITANTE E INCURÁVEL – AUTORIDADE COMPETENTE – DIRETOR PRESIDENTE DO MTPREV – ARTIGO 2O, INCISOS I E IV, DA LEI COMPLEMENTAR ESTADUAL N. 560/2014 – SECRETÁRIOS DE ESTADO – NÃO COMPROVAÇÃO DE ATO COATOR – ILEGITIMIDADE PASSIVA – RECONHECIDA – DECLÍNIO DA COMPETÊNCIA.
+A Lei Complementar Estadual n. 566/2015, que previa ser da competência da Secretaria de Estado e Gestão gerir o sistema previdenciário do Poder Executivo Estadual, foi revogada pela Lei Complementar Estadual n. 612/2019.
+A competência, hodiernamente, para gerir o regime previdenciário dos servidores públicos estabilizados e dos servidores ocupantes de cargo de provimento efetivo, inclusive dos militares, e, consequentemente, aplicar a legislação pertinente à espécie, é do Diretor Presidente do MTPREV, conforme estabelece o artigo 2o, incisos I e IV, da Lei Complementar Estadual n. 560/2014.
+Configurada a ilegitimidade passiva ad causam do Secretário de Fazenda do Estado de Mato Grosso, do Secretário de Gestão e Planejamento do Estado de Mato Grosso e do Secretário Adjunto de Gestão de Pessoa, diante da ausência de ato concreto praticado por essas autoridades, bem assim pelo fato de não serem as autoridades com competência para gerir o regime previdenciário dos servidores aposentados, a teor do que estabelece o artigo 2o, incisos I e IV, da Lei Complementar Estadual n. 560/2014, a extinção da ação mandamental, em relação a esses Impetrados, torna-se medida impositiva, com o consequente declínio da competência para o Juízo de Primeiro Grau, para análise da impetração quanto às outras autoridades indicadas na demanda.
+Vistos, etc.
+Trata-se de Mandado de Segurança, impetrado por Lusmara Antônia Sanches, contra o ato indigitado de coator, do Sr. Secretário de Fazenda do Estado de Mato Grosso, do Sr. Secretário de Gestão e Planejamento do Estado de Mato Grosso, do Sr. Secretário Adjunto de Gestão de Pessoa, do Sr. Gerente de Provimento e Manutenção da Secretaria de Estado de Gestão do Estado de Mato Grosso e do Sr. Diretor-Presidente da MTPrev, consistente no desconto previdenciário e de imposto de renda dos proventos de aposentadoria, sem observância da imunidade prevista no artigo 40, § 20, da CRFB.
+A Impetrante noticiou que é servidora pública estadual aposentada e está acometida de enfermidade incapacitante e incurável de monoplegia do membro inferior, denominada, também, de patologia degenerativa no joelho e no pé.
+Disse, ainda, que, em razão da deficiência física, obteve isenção do IPI, na compra de automóvel, conforme os documentos anexados na exordial.
+Posto isso, a Impetrante requereu a isenção da contribuição previdenciária e do imposto de renda, sobre os seus proventos.
+É o que merece registro. Decido.
+Sabe-se que o Mandado de Segurança é remédio de natureza constitucional, dirigido contra ato concreto, praticado por autoridade, ou agente de pessoa jurídica no exercício de atribuições do Poder Público, disposto à proteção de direito líquido e certo, exigindo-se, para tanto, a constatação, de plano, do direito alegado, em virtude de ter rito processual célere e não comportar dilação probatória.
+In casu, ao perscrutar detidamente os autos, não encontrei qualquer ato concreto praticado pelo Sr. Secretário de Fazenda do Estado de Mato Grosso, pelo Sr. Secretário de Gestão e Planejamento do Estado de Mato Grosso e pelo do Sr. Secretário Adjunto de Gestão de Pessoa, apontados como autoridades coatoras, que tenha violado, ou ameaçado de lesão, o direito líquido e certo da Impetrante.
+Por oportuno, registro que a Lei Complementar Estadual n. 566/2015, que previa ser da competência da Secretaria de Estado e Gestão gerir o sistema previdenciário do Poder Executivo Estadual, foi revogada pela Lei Complementar 612/2019, que prevê, no seu artigo 46, o seguinte:
+Art. 46 Ficam revogadas as disposições em contrário, em especial a Lei Complementar no 566, de 20 de maio de 2015, e também aquelas que atribuam competências em dissonância com esta Lei Complementar. (Destaquei).
+Diante desse cenário, a competência para gerir o regime previdenciário dos aposentados e, consequentemente, aplicar a legislação pertinente à espécie, hodiernamente, é do Diretor Presidente do MTPREV, e conforme estabelece o artigo 2o, incisos I e IV, da Lei Complementar Estadual n. 560/2014, in verbis:
+Art. 2o A MTPREV, na qualidade de Unidade Gestora Única do Regime Próprio de Previdência Social do Estado de Mato Grosso - RPPS/MT, tem por competência:
+(...)
+I - a gestão do Regime Próprio de Previdência Social dos servidores públicos estabilizados constitucionalmente, dos titulares de cargo efetivo do Estado de Mato Grosso, bem como dos militares, dos Conselheiros do Tribunal de Contas, dos Magistrados, dos membros do Ministério Público Estadual, do Ministério Público de Contas e dos Defensores Públicos;
+(...)
+IV - a arrecadação dos recursos e cobrança das contribuições necessárias ao custeio do RPPS/MT. (Destaquei).
+Nesse contexto, tem-se configurada a ilegitimidade passiva ad causam do Sr. Secretário de Fazenda do Estado de Mato Grosso, do Sr. Secretário de Gestão e Planejamento do Estado de Mato Grosso, do Sr. Secretário Adjunto de Gestão de Pessoa, de sorte que a extinção da ação mandamental, em relação a esses Impetrados, torna-se medida impositiva.
+Quanto às outras autoridades Impetradas, quais sejam, o Gerente de Provimento e Manutenção da Secretaria de Estado de Gestão e o Diretor Presidente do MTPREV, a Turma de Câmaras Cíveis Reunidas de Direito Público e Coletivo é incompetente para processar e julgar, originariamente, o Mandado de Segurança em que elas figurem como parte, uma vez que não há falar no foro por prerrogativa de função, previsto no art. 96, inciso I, alínea ‘g’, da Constituição Estadual.
+Por essas razões, conclui-se que, doravante, a competência, para processar e julgar a presente ação mandamental, é do Juízo de Primeiro Grau.
+Ante o exposto, em face da ilegitimidade passiva daqueles Secretários de Estado, extingo o mandamus, no que diz respeito a eles, conforme os artigos 330, inciso II e 485, inciso VI, ambos do CPC, e do artigo 10 da Lei n. 12.016/2009, e, de consequência, denego a segurança, nos termos do artigo 6o, § 5o, da Lei n. 12.016/2009.
+De outro giro, diante da incompetência absoluta deste Tribunal de Justiça, para processar e julgar o mandado de segurança, na condição de juízo originário, quanto ao ato da competência do Diretor Presidente do MTPREV, bem assim, do Gerente de Provimento e Manutenção da Secretaria de Estado de Gestão, que não detêm foro por prerrogativa de função, declino da competência, nos termos do artigo 51, XLIX, do RITJ/MT c/c artigo 46 do CPC/2015, e determino a remessa do feito ao Juízo de Primeiro Grau, para que seja regularmente distribuído.
+Com o trânsito em julgado, arquive-se.
+Intimem-se e cumpra-se.
+Cuiabá/MT, 31 de maio de 2021.
+Des. Márcio VIDAL,
+Relator
