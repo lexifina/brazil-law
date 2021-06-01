@@ -1,0 +1,21 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Luís Henrique Mendel, com amparo naalínea"a"do inciso III do art. 105 da CF, contra acórdão do Tribunal de Justiçado Estado do Rio Grande do Sul assim ementado (e-STJ, fl.436):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. RENÚNCIA AO VALOR DO PRECATÓRIO. RPV AINDA NÃO EXPEDIDA. AFASTADA A INCIDÊNCIA DE JUROS MORATÓRIOS ENTRE O CÁLCULO E A EXPEDIÇÃO DE RPV EM DECISÃO PRECEDENTE IRRECORRIDA. INSURGÊNCIA INTEMPESTIVA. OPERADA NO CASO CONCRETO A PRECLUSÃO. O débito executado comportava originariamente pagamento mediante precatório que foi expedido seguindo-se a renúncia da parte credora para obter o pagamento mediante RPV, quando então pugnou pela aplicação de juros moratórios entre a data do cálculo e a expedição da RPV, pretensão que restou rejeitada, admitidasua incidência apenas em caso de inadimplemento da requisição. Essa decisão precedente data de janeiro/2019 e dela a parte credora fora intimada por nota de expediente sem insurgir-se mediante recurso próprio tempestivamente. A decisão quedeu origem a este recurso apenas determinouexpedição da RPV pelo valor apresentado nos autos segundo os termos daquela decisãoprecedente e não reabre o prazo para discussão acerca da incidência dos juros moratórios, bem como sobre a aplicação da tese firmada no Tema 96 do STF, matérias sobre as quais operada a preclusão. Agravo de instrumento improvido.
+Os embargos de declaração foram rejeitados (e-STJ, fl. 501).
+Nas razões do especial, a parte insurgente aponta violação dos arts. 1.022, I e II do CPC/2015; 494, I, 505, II 884 do CPC/2015.
+Aduz que acórdão impugnado foi omisso e contraditório quando afirmou que a questão sobre juros moratórios está preclusa.
+Sustenta ainda que o erro na expedição do RPV trata-se de erro material e, portanto, não se sujeita aos institutos de preclusão e da coisa julgada tendo em vista referir-seàmatéria pública.
+Contrarrazões (e-STJ, fl. 211-220).
+O recurso especial foi admitido na origem(e-STJ, fl. 559).
+É o relatório.
+Registro, desde logo, que não merece prosperar a tese de afronta aos arts. 489 e 1.022 do CPC, porquanto o Tribunal de origem fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+É o que se depreende da leitura dos seguintes trechos do acórdão recorrido (e-STJ, fl. 444):
+Muito embora ao depois tenha sido proferida decisão (que é objeto deste recurso) corrigindo o valor para expedição da RPV, tal não configura nova decisão sobre aplicação dos juros de mora, mas sim apenas o cumprimento daquela decisão proferida em janeiro/2019, que expressa e especificamente afastou a aplicação dos juros moratórios entre o cálculo e a expedição da RPV; decisão que restou irrecorrida tempestivamente pela parte credora.
+Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte insurgente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão nem outra causa passível de exame mediante a oposição de embargos de declaração.Destarte, não prospera a pretensão de nulidade do julgado por omissão.
+No tocanteà tese de que o equívocona expedição do RPV refere-se aerro material e, portanto, não se sujeita aos institutos de preclusão e da coisa julgada tendo em vista tratar-sede matéria pública, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o necessário e indispensável exame da questão pela decisão recorrida, apto a viabilizar a pretensão recursal com base no art. 105, III, "a", da Constituição Federal.
+Incide no caso, portanto, o disposto nos verbetes 282 e 356 da Súmula do STF, a seguir transcritos:
+Súmula 282: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada.".
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.".
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
