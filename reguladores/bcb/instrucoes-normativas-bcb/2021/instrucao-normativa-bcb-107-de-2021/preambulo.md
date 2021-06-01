@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 107, DE 17 de MAIO de 2021
+Consolida os procedimentos para remessa de informações sobre o detalhamento de cálculo do Indicador Liquidez de Longo Prazo (NSFR), de que tratam a Resolução nº 4.616, de 30 de novembro de 2017, e a Circular nº 3.869, de 19 de dezembro de 2017, por meio do documento 2170 - Demonstrativo do Indicador de Liquidez de Longo Prazo (DLP).
+O Chefe do Departamento de Monitoramento do Sistema Financeiro (Desig), no uso da atribuição que lhe confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, com base no art. 77, inciso III, do referido Regimento, e tendo em vista o disposto na Resolução CMN nº 4.616, de 30 de novembro de 2017 e na Circular nº 3.869, de 19 de dezembro de 2017,
+R E S O L V E :
