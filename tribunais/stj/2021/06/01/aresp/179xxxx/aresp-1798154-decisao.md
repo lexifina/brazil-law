@@ -1,0 +1,33 @@
+DECISÃO
+1. Cuida-se de agravo interposto por AGRA EMPREENDIMENTOS IMOBILIÁRIOS S.A contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AGRAVO DE INSTRUMENTO INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE DECISÃO QUE DEFERIU O PEDIDO DE ARRESTO DE VALORES PELO BACENJUD DOS SÓCIOS INCONFORMISMO NÃO CABIMENTO ARRESTO DETERMINADO NOS TERMOS DO ART 301 DO CPC E NÃO DO ART 830 DIREITO AO CONTRADITÓRIO E À AMPLA DEFESA ESTÁ RESGUARDADO PELA CITAÇÃO E ABERTURA DE PRAZO PARA DEFESA DECISÃO MANTIDA RECURSO A QUE SE NEGA PROVIMENTO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts.133, 134 e 281 do Código de Processo Civil, 50,e 1024 do Código Civil.
+Sustenta, em síntese, o recorrente: "Nobres Ministros,O MM. juízo singular procedeu com o arresto de bens em face dos sócios das Executadas originárias, sem a cognição exauriente doincidente de desconsideração da personalidade jurídica, portanto, é patente a ilegalidade da medida constritiva. Isto posto, tem-se que o incidente de desconsideração da personalidade jurídica, conforme preceitua o artigo 133, existe para apurar eventuais infrações cometidas pelos sócios, nos termos do art. 50 do Código Civil, sendo necessário todo um processo cognitivo, no qual os sócios deverão apresentar defesa, em total cumprimento aos princípios do devido processo legal, contraditório e ampla defesa..Como já amplamente esclarecido, ainda não houve o deferimento da própria desconsideração da personalidade jurídica, tampouco a citação dos sócios para apresentação de defesa, de modo que o arresto de bens se deu de forma equivocada, motivo pelo qual, reconhecendo-se a sua nulidade, qualquer ato posterior igualmente não persistirá.".
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 175.
+É o relatório.
+DECIDO.
+2. O Tribunal de origem - destinatário da prova - após a análise dos elementos informativos contidos nos autos, assim concluiu:
+O arresto efetuado nos autos não é aquele previsto no artigo 830 do Código de Processo Civil, mas sim no artigo 301 do mesmo diploma legal, motivo pelo qual a alegação de que a agravante não fora citada não pode subsistir.
+A tutela de urgência deve fundamentar-se em prova que convença da verossimilhança da alegação e do perigo de dano, desde que não haja risco de irreversibilidade, nos termos do art. 300, caput, e parágrafos 1º, 2º e 3º, do Código de Processo Civil.
+O arresto, por sua vez, é medida excepcional, cabendo nos casos em que o devedor tenta dilapidar seu patrimônio mediante artifício fraudulento ou, ainda, obstar a citação (STJ, 4ª T., REsp 1.370.687-MG, Rel. Min. ANTONIO CARLOS FERREIRA, j. 04.04.2 013).
+A corresponsabilização da sócia foi devidamente justificada pela Magistrada, com evidências de que a pessoa jurídica pode prejudicar os interesses do credor. Ademais, não há ofensa ao devido processo legal, pois o contraditório e a ampla defesa foram apenas postergados para após a citação, não havendo, nesta sede recursal, argumentos que afastem o deferimento inicial.
+Todas essas circunstâncias, em conjunto, indicam a verossimilhança das alegações do credor, o perigo de dano ou o risco ao resultado útil do processo, bem como justificam o temor do exequente de não receber o crédito e seu legítimo interesse em obter outras garantias para tanto.
+O direito ao contraditório e à ampla defesa está resguardado diante da citação da agravante e dos demais sócios e abertura de prazo para defesa no incidente.
+(..)
+2.1. O recurso especial que não impugnou, especificamente, o fundamento transcrito acima, em negrito. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF.
+2.2. Ademais, aanálise dos requisitos previstos no art. 300 do CPC/2015 é inviável em sede de recurso especial, consoante o disposto na Súmula n. 7 do STJ, por demandar o reexame do contexto fático-probatório dos autos.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.AÇÃO CAUTELAR DE ARRESTO. 1. INÉPCIA DA PETIÇÃO INICIAL. PRELIMINAR AFASTADA. CONCLUSÃO FUNDADA NA APRECIAÇÃO DE FATOS E PROVAS. SÚMULA 7/STJ. 2. CAUTELAR INCIDENTAL. DECADÊNCIA. NÃO OCORRÊNCIA. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE. NATUREZA DA AÇÃO CAUTELAR. REEXAME. ÓBICE DA SÚMULA 7 DESTA CORTE. 3. MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. INAPLICABILIDADE. 4.AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem, com base no conjunto fático-probatório, afastou a alegação de inépcia da inicial e concluiu que se trata de uma cautelar incidental à execução. Não há como desconstituir o entendimento delineado no acórdão impugnado, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+2. Constata-se que  o prazo decadencial de trinta dias, previsto no art. 806 do CPC, para o ajuizamento da ação principal é contado a partir da data da efetivação da liminar ou cautelar, concedida em procedimento preparatório (REsp 869.712/SC, Rel. Ministro Raul Araújo, DJe 16/03/2012, sem grifo no original), o que não se amolda à hipótese dos autos.
+3. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1351646/CE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/03/2021, DJe 15/03/2021)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL.EMBARGOS DE TERCEIRO. CESSÃO DE CRÉDITO. ARRESTO DE DUPLICATAS.TRANSAÇÃO NÃO CAMBIAL. NECESSIDADE DE REGISTRO EM CARTÓRIO.ACÓRDÃOS. FUNDAMENTOS NÃO IMPUGNADOS. NECESSIDADE DE REEXAME DE PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS 283/STF E 5 E 7/STJ.
+1. É inadmissível o apelo especial que não impugna motivação do acórdão recorrido apta, por si só, a manter a conclusão a que chegou a Corte estadual (enunciado 283 da Súmula do STF).
+2. Recurso cuja pretensão demanda reexame de cláusulas contratuais e matéria fática da lide, o que encontra óbice nas Súmulas 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1318705/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 05/02/2019, DJe 12/02/2019)
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
