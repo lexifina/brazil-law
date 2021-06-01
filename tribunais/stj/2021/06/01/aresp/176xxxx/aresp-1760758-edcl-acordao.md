@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, acolher em parte os embargos de declaração, sem efeitos infringentes, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a).
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze, Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL VÍCIOS DO ART. 1.022 DO CPC/2015. OMISSÃO. NÃO OCORRÊNCIA. NOVA DISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. ERRO MATERIAL RECONHECIDO E DECOTADO SEM ALTERAÇÃO DO JULGADO.
+EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE, SEM EFEITOS INFRINGENTES.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por DEJAIR MATOS MARIALVA, contra acórdão assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.AGRAVO INTERNO NÃO CONHECIDO.
+O embargante alega que o acórdão é omisso com relação a cognição e resolução da questão preliminar suscitada nos itens 2 e 3 do agravo interno (e-STJ fls. 273 e 274); das assertivas constante dos itens 22 e 23 (tópico INDICAÇÃO DOS ACÓRDÃOS PARADIGMAS) à e-STJ fl. 284; item 4 (contrariedade às Súmulas 282, 292 e 356 do C.STF e 7 do C.STJ observado o entendimento do precedente AgInt no AREsp 1086830/MG) do Agravo Interno (e-STJ fl. 274); itens 5, 6, 7 e 8 (artigos 105, III, "a" e "c" e 5º, II, XXXV, LIV e LV da Constituição Federal, e contrariedade à Súmula nº 292 do Colendo Supremo Tribunal Federal) do Agravo Interno (e-STJ fl. 275); a questão da IMPUGNAÇÃO ESPECÍFICA: SÚMULA STJ Nº 7 devidamente suscitada e fundamentada, respectivamente nos itens 9 a 21 do Agravo Interno (e-STJ fl. 276/284); a questão da IMPUGNAÇÃO ESPECÍFICA: SÚMULA STJ Nº 7 devidamente suscitada e fundamentada, respectivamente nos itens 22 a 26  artigo 105, III, "a" e "c" (e também 5º, II, XXXV, LIV e LV) da Constituição Federal, e contrariedade à Súmula nº 292 do Colendo Supremo Tribunal Federal  do Agravo Interno (e-STJ fl. 284/287; VII. O embargante argui e requer, na hipótese do mérito não puder ser decidido em seu favor, pedindo todas as venais, seja pronunciada a nulidade do Voto-condutor e do v. Acórdão às e-STJ fls. 302/308, pelo julgamento viciado pela mistura com outro processo diferente da hipótese dos autos, eis que o Agravo Interno não tem como objeto " Pede a redução dos honorários recursais " (e-STJ fl. 304) e " Por ora, deixo de aplicar a sanção também requerida em sede de impugnação, advertindo-se a parte.." (e-STJ fl. 309) inclusive contraditória com a assertiva " Não foi apresentada impugnação (e-STJ fl. 293) " (e-STJ fl. 304).
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL VÍCIOS DO ART. 1.022 DO CPC/2015. OMISSÃO. NÃO OCORRÊNCIA. NOVA DISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. ERRO MATERIAL RECONHECIDO E DECOTADO SEM ALTERAÇÃO DO JULGADO.
+EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE, SEM EFEITOS INFRINGENTES.
+VOTO
+Eminentes colegas, os embargos de declaração merecem ser acolhidos.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+No caso, a embargante pede sejam sanadas as omissões do julgado, no entanto não indica, de forma clara e objetiva, quais seriam essas omissões, na medida em que aponta como não analisados praticamente todos os itens de seu agravo interno, sendo certo que tais itens tratam do mérito do recurso especial, que não foi analisado nesta Corte Superior, não por omissão do julgado, mas porque o agravo interno não foi conhecido, assim como o agravo em recurso especial.
+O acórdão embargado asseverou que(e-STJ fl. 306):
+Veja-se que o agravo em recurso especial não foi conhecido, em razão da ausência de impugnação específica a todos os fundamentos da decisão do Presidente da Seção de Direito Privado do TJSP que inadmitiu o recurso especial: ausência de impugnação à incidência da Súmula 7/STJ e a ausência de indicação dos acórdãos paradigmas para ilustrar a divergência.
+No agravo interno, apesar de tecer muitas considerações acerca da Súmula 7/STJ e da divergência jurisprudencial, o que se depreende efetivamente das razões de recurso é que a agravante disse apenas que houve impugnação à decisão que inadmitiu seu recurso especial, sem indicar, de forma clara e objetiva, em que momento de seu agravo em recurso especial teria impugnado a incidência da Súmula 7/STJ à sua pretensão recursal.
+Tampouco apontou em que momento de seu agravo em recurso especial teria se insurgido quanto ao fundamento da decisão que inadmitiu seu recurso especial que reconheceu que, apesar de sustentar divergência jurisprudencial (art. 105,III, c, da CF), não indicou acórdão paradigma.
+Nas razões destes embargos, a parte pretende que se analise novamente o agravo interno para que dele se extraia uma impugnação à decisão agravada que, efetivamente, não ocorreu, conforme constou do acórdão embargado.
+Assim, não podem ser acolhidos embargos de declaração que, em verdade, traduzem inconformismo com a decisão posta, pretendendo rediscutir o que já foi decidido.
+No caso, não há omissão no julgado embargado
+Por outro lado, a embargante faz referência à existência de erro material no acórdão em dois pontos: no relatório, quando afirma que houve pedido de redução de honorários recursais pela recorrente; e, no voto, quando da advertência de aplicação de multa, que mencionou que a sanção também foi requerida em sede de impugnação.
+De fato, nas razões do agravo interno não houve pedido de redução de honorários recursais pela parte ora embargante, tampouco houve pedido de aplicação de multa pelaora embargada.
+Contudo, a existência de tais erros não altera o julgado, porquanto não houve redução de honorários recursais, e, com relação à multa, houve apenas a advertência.
+Assim, os embargos devem ser acolhidos apenas para decotar do relatório a expressão "Pede a redução dos honorários recursais" e, do voto, a expressão "também requerida em sede de impugnação", sem que tal retirada represente qualquer alteração no acórdão ou sua nulidade.
+Ante o exposto, ACOLHO em parte os embargos de declaração, sem efeitos infringentes.
+É o voto.
