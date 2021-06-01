@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EMBARGOS À EXECUÇÃO. CÉDULA RURAL PIGNORATÍCIA. DECISÃO QUE SANEOU O FEITO EDEFERIU O PEDIDO DE EXIBIÇÃO DE DOCUMENTOS. AGRAVO DO BANCO. PLEITO PELA NÃO EXIBIÇÃO DOS DOCUMENTOS (CONTA GRÁFICA). PERTINÊNCIA. AUSÊNCIA DECONTA GRÁFICA. DESNECESSIDADE. DEMONSTRATIVO DE CONTA VINCULADA COLACIONADO PELA INSTITUIÇÃO FINANCEIRA NOS AUTOS DE EXECUÇÃO SUFICIENTE PARA DEMONSTRAR A EVOLUÇÃO DO DÉBITO. POSSIBILIDADE DE VERIFICAR PORMENORIZADAMENTE O VALOR COBRADO. DECISÃO REFORMADA. RECURSO CONHECIDO E PROVIDO.
+Alegou-se, no especial, violação do artigo 10 do Decreto-Lei 167/67 sob o argumento de que "a juntada dos extratos é indispensável para que haja nos autos documentos hábeis à demonstração do débito e sua evolução" (e-STJ, fl. 377) e que, "ainda que o extrato da conta vinculada não seja indispensável, caso este não seja colacionado, ou o seja de conta geral (e não vinculada à operação), outros documentos precisam ser colacionados para que seja possível a demonstração do débito e o pleno exercício do contraditório e da ampla defesa por parte do Recorrente."
+Assim delimitada a controvérsia, passo a decidir.
+Esta Corte, como sabem os agravantes, tanto que colacionaram acórdão desta Casasobre o tema, tem entendimento no sentido de que não é indispensável a juntada, com a inicial da execução fundada em cédula de crédito rural, o extrato da conta vinculada ao financiamento.
+A saber:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO RURAL. VALIDADE DO TÍTULO EXEQUENDO.AVAL.
+1. Não há falar em violação ao art. 535 do Código de Processo Civil, pois o eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes. Tampouco se verifica, no caso, a alegada vulneração do artigo 458 do Código de Processo Civil, porquanto a Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas.
+2. Quanto à alegação de nulidade do título, cabe consignar ser firme o entendimento desta Corte de que, "de acordo com o artigo 10 do Decreto-Lei nº 167/67, a cédula de crédito rural é título executivo hábil a embasar o processo de execução."(REsp 658234 / GO, Ministro JORGE SCARTEZZINI, QUARTA TURMA, j. em 28/11/2006, DJ 18/12/2006).
+Por outro lado, cabe destacar que "o extrato da conta vinculada não constitui documento indispensável à execução do crédito oriundo de cédula rural, desde que a petição inicial seja instruída com documento hábil à demonstração pormenorizada do débito, propiciando ampla defesa ao devedor" (REsp 784.422/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/10/2008, DJe 28/10/2008).
+3. No tocante à validade do aval e à solidariedade existente entre os devedores, observa-se que o acórdão recorrido está em harmonia com o posicionamento desta Corte.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 369.830/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/3/2014, DJe 25/3/2014)
+Concluiu, assim, o Tribunal local que, "estando a execução instruída com a cópia do contrato e com documento hábil a demonstração do débito, desnecessária a juntada da ficha gráfica no caso" (e-STJ, fl. 351).
+Inequívoco, pois, que entender de modo diverso, ou seja, que os documentos que instruem a inicial não são suficientes para a demonstração do débito e o exercício do contraditório demandaria incursão nos elementos informativos do processo.
+Incidência, na hipótese, dos enunciados n. 7 e 83 da Súmula do Superior Tribunal Justiça.
+Diante do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
