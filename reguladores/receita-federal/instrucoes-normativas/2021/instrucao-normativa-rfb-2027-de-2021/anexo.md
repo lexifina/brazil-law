@@ -1,0 +1,4 @@
+Art. 1º
+[arquivo anexo: anexo.html]
+Art. 2º Esta Instrução Normativa será publicada no Diário Oficial da União e entrará em vigor em 1º de junho de 2021.
+JOSÉ BARROSO TOSTES NETO
