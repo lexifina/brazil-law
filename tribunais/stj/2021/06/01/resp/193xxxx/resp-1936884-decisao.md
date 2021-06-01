@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial, interposto por Ronaldo Guimarães Machado, com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ fl. 298):
+APELAÇÃO - AÇÃO ORDINÁRIA - RECUSA ADMINISTRATIVA - PRESCRIÇÃO DO FUNDO DE DIREITO - PRAZO -DECURSO - PRONÚNCIA - SERVIDOR PÚBLICO - TEMPO DE SERVIÇO - EC 09/93 E 57/03 - REGIME CELETISTA -ADICIONAIS E APOSENTADORIA - AVERBAÇÃO - CABIMENTO - REVISÃO -ATO ADMINISTRATIVO - POSSIBILIDADE.
+- Por se tratar de atos administrativos únicos e de efeito concretos, o decurso do prazo de 05 (cinco) anos, contado do indeferimento do pedido administrativo e do ato de concessão de aposentadoria, enseja a pronúncia da prescrição do próprio fundo de direito.
+- A redação originária do art. 36, §7º, da Constituição Estadual, admitia a averbação do tempo de serviço público, para os fins de adicionais e aposentadoria, direito suprimido, em relação aos adicionais, somente a partir da vigência da EC 09/93.
+- Restando demonstrado que o ingresso no serviço público estadual, ainda que sob a égide do regime celetista, ocorreu em momento anterior à vigência das Emendas à CEMG ns. 09/93 e 57/03, impõe-se a procedência do pedido declaratório, objetivando o reconhecimento do direito à averbação de tempo de serviço, com a consequente revisão do ato de aposentação e de composição de vencimentos.
+- Tratando de provimento jurisdicional ilíquido, a fixação dos honorários advocatícios deve se dar em ulterior procedimento de liquidação.
+Osembargos de declaração foram rejeitados (e-STJ fl. 347).
+Nas razões de sua irresignação, orecorrente alega violação doartigo1.022, I, do Código de Processo Civil/2015,sob oargumento de que o acórdão recorrido contém contradição, pois "NÃO poderia a turma julgadora dos aclaratórios, no exato instante em que lhe foi indicado onde estaria a prova material do histórico de sua vida funcional junto ao DEOP/MG, deixar de examinar e valorar a prova a que se referiu o ora embargante para, CONTRADITORIAMENTE, "sair pela tangente"com o argumento pueril de que "..(..).. não se revela juridicamente viável presumir a data do seu ingresso no DEOP..(..).."- quando o que dela estava sendo demandado era o exame e a valoração das provas encartadas aos autos e não uso de "presunção"para concluir desta, ou daquela forma" (e-STJ fl. 417, grifos no original).
+Com contrarrazões (e-STJ fls. 432-437).
+Juízo positivo de admissibilidade àe-STJ fl. 484.
+É o relatório. Passo a decidir.
+A insurgência não merece prosperar.
+Deve ser rejeitada a alegada violação doart.1.022, I, do NCPC, uma vez que o acórdão recorrido está devidamente fundamentado. A jurisprudência desta Corte é uníssona no sentido de que o julgador não está adstrito a responder a todos os argumentos das partes, desde que fundamente sua decisão. O Tribunal de origem apreciou a demanda de modo suficiente, pronunciando-se acerca de todas as questões relevantes ao deslinde da controvérsia.
+No tocante aos vícios apontadospelorecorrente, o Tribunal a quo assim se manifestou, quando do julgamento dos embargos de declaração (e-STJ fls. 349-350, grifos no original):
+Neste aspecto, no que respeita ao embargante, a fundamentação assimilada, à unanimidade, noacórdão embargado, consistiu no reconhecimento de que, embora o ato de aposentação tenha ocorrido em 03/06/2013, a ausente comprovação da data do termo inicial do vínculo funcional, com o fito de aferir a esfera de incidência ou não das ECEMG n. 09/93 e 57/03 e da EC n. 20/98, constitui fundamento para o indeferimento da pretendida averbação de tempo de serviço para o implemento de vantagens pessoais e o pagamento de diferenças remuneratórias, decorrentes da revisão do ato de aposentadoria.
+"- RONALDO GUIMARÃES MACHADO, aposentado, desde 03/0/2013, no cargo efetivo de Gestor de Transportes e Obras Públicas, titular de declaração, proporcional, ao apostilamento.
+(..)
+Por outro lado, quanto ao apelante RONALDO GUIMARÃES MACHADO, embora o documento visualizado à ordem 31 demonstre a inatividade, ante a aposentadoria ocorrida em 03/06/2013, a falta de comprovação da data do início do vinculo funcional com DEOP, constituiu óbice intransponível para a procedência do pedido inicial.
+Logo, por não ter se desincumbido do ônus de comprovar que a situação funcional enfeixa a esfera de incidência das EC"s 09/93 e 57/03, fato constitutivo do direito aduzido na petição inicial, conforme previsto no inciso I do art. 273 do CPC, a improcedência do pedido inicial é de rigor."
+Alias, por se tratar de contagem ficta de tempo de serviço, em que o embargante laborou em condições especiais e sob a égide do regime celetista, em conformidade com o disposto no art. 373, I, do CPC, não se revela juridicamente viável presumir a data do seu ingresso no DEOP - Departamento de Obras Públicas do Estado de Minas Gerais, "data venia".
+Desse modo, inexiste omissão, obscuridade, contradição ou falta de prestaçãojurisdicional no acórdão recorrido.
+Ante o exposto, nego provimento aorecurso especial.
+Majoro em 2% os honorários advocatícios fixados anteriormente, em desfavor do recorrente, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (artigo 98, § 3º, CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL.APOSENTADORIA E ADICIONAIS. VIOLAÇÃO DOART.1.022, I, DO CÓDIGO DE PROCESSO CIVIL/2015. INEXISTÊNCIA.RECURSO NÃOPROVIDO.
