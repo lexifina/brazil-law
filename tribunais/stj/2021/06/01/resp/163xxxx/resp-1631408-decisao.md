@@ -1,0 +1,13 @@
+DECISÃO
+Em petição acostada à e-STJ, fl. 893, OTÁVIO BATISTA ARANTES DE MELLO, por meio de sua advogada, Dra. Carla Betini de Oliveira, requereu a retirada dos autos da pauta de julgamento virtual do dia 23/2/2021, para que fosse incluído em sessão presencial posterior.
+Referido pedido foi julgado prejudicado, todavia, porque antes que fosse apreciado, o processo foi julgado em sessão virtual, compublicação do respectivo acórdão aos 4/3/2021, assim ementado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. IRRESIGNAÇÃO SUBMETIDA AO NCPC. RESPONSABILIDADE CIVIL DE ADVOGADO. EXECUÇÃO EXTINTA SEM JULGAMENTO DE MÉRITO POR DESÍDIA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. DANOS MATERIAIS CORRESPONDENTES AO VALOR DO TÍTULO EXECUTIVO. RECONHECIMENTO PELAS INSTÂNCIAS DE ORIGEM. CELEBRAÇÃO DE ACORDO PARA PAGAMENTO (PARCIAL DA DÍVIDA PRESCRITA). RECORRENTE QUE CONCLUI, COM BASE NISSO, PELA PREJUDICIALIDADE DO RECURSO POR ELE INTERPOSTO. EXTINÇÃO DO RECURSO QUE SE IMPÕE. CONTEÚDO E EFEITO LIBERATÓRIO DO ACORDO CELEBRADO QUE DEVE SER DISCUTIDO EM VIAS PRÓPRIAS E NÃO DE FORMA INAUGURAL NO STJ, SOB PENA DE SUPRESSÃO DE INSTÂNCIA. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A parte demandada ao pagamento de dívida que peticiona nos autos informando a extinção da obrigação por outrem e pleiteando, emrazão disso, o término do processo sem julgamento do mérito por falta de interesse de agir reconhece, implicitamente, que o próprio recurso por ela apresentado também perdeu seu objeto.
+3. Agravo interno não provido(e-STJ, fl. 898/899).
+Vem agora OTÁVIO BATISTA ARANTES DE MELLO pleitear a reconsideração da decisão que julgou prejudicado o pedido de retirada de pauta, sob a alegação de que foi cerceado seu direito de ampla defesa, porque não teve oportunidade realizar sustentação oral(e-STJ, fl. 925).
+DECIDO.
+Opedido de reconsideraçãonão está inserido no rol taxativo de espécies recursais, não possuindo, portanto, nem forma nem figura de juízo.
+Isso significa que não há nada a prover.
+Acrescente-se, no entanto, apenas a título de obiter dictum, que não existe possibilidade de sustentação oral do advogado no julgamento do agravo interno, seja ele presencial ou virtual.Dessa forma, não ficou caracterizado nenhum tipo de prejuízo à defesa.
+Publique-se. Intimem-se.
