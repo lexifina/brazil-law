@@ -1,0 +1,16 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+GABINETE DO DES. PAULO DA CUNHA
+GABINETE DO DES. PAULO DA CUNHA
+RECURSO EM SENTIDO ESTRITO (426) 1019713-63.2020.8.11.0000
+RECORRENTE: ESTADO DE MATO GROSSO - PROCURADORIA GERAL DA JUSTICA
+REPRESENTANTE: MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO
+RECORRIDO: ALISSON RENATO ALVES DOS SANTOS
+Vistos.
+Desnecessária a conclusão, porquanto os autos já foram devidamente julgados (id. 66968482).
+Certifique-se o trânsito em julgado e arquive-se.
+Às providências.
+Cuiabá, data registrada no sistema.
+Desembargador Paulo da Cunha,
+Relator.
