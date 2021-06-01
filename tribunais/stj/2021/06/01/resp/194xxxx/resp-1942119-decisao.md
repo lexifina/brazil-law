@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PEDRO WILSON PAPIN, em face de decisão proferida pelo Tribunal de Justiça do Estado do Paraná que inadmitiu o recurso especial manejado contra acórdão assim ementado (fl. 275/276 e-STJ):
+AGRAVO DE INSTRUMENTO - AÇÃO CIVIL PÚBLICA POR IMPROBIDADE ADMINISTRATIVA - CUMPRIMENTO DE SENTENÇA - ALEGAÇÃO DE PRESCRIÇÃO INADMITIDA - PRAZO PRESCRICIONAL INTERROMPIDO PELO DESPACHO QUE DETERMINOU A INTIMAÇÃO DO DEVEDOR - DECISÃO DE EXTINÇÃO DO FEITO POR ILEGITIMIDADE ATIVA - AUSÊNCIA DE INÉRCIA DO MINISTÉRIO PÚBLICO - CIÊNCIA INEQUÍVOCA DO DEVEDOR ACERCA DO DÉBITO - DECISÃO MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados nos seguintes termos (fl. 152 e-STJ):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO  AÇÃO CIVIL PÚBLICA POR IMPROBIDADE ADMINISTRATIVA  CUMPRIMENTO DE SENTENÇA  ALEGAÇÃO DE CONTRADIÇÕES NO ACÓRDÃO QUE RECONHECEU A INTERRUPÇÃO DA PRESCRIÇÃO  ILEGITIMIDADE DO MUNICÍPIO DE IVAIPORÃ QUE NÃO PREJUDICA A INTERRUPÇÃO DO PRAZO DE PRESCRIÇÃO  AUSÊNCIA DE INÉRCIA DO MINISTÉRIO PÚBLICO NA PROMOÇÃO DOS ATOS DE EXECUÇÃO  DECISÃO AGRAVADA MANTIDA - EMBARGOS CONHECIDOS E REJEITADOS.
+No recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, o recorrente aponta violação aos arts. 17 do CPC; 15 da Lei da Ação Civil Pública, 202, I, e 204 do CC, sustentando queo acordão vergastado afrontou à Lei Federal, pois considerou que o pedido de execução de sentença por parte ativa manifestamente ilegítima  município  provocou a interrupção da prescrição, aduzindo que tal caso está amparado pela jurisprudência do Superior Tribunal de Justiça, todavia há manifesto "distinguising", no caso em apreço pelo fato de não ser admitida a hipótese de substituto processual (fl. 189 e-STJ).
+Contrarrazões às fls. 429/431 e-STJ.
+O recurso especial foi inadmitido pelo Tribunal de origem à consideração de que: a) quanto à indicada prescrição, o entendimento do acórdão recorrido está em consonância com a orientação jurisprudencial desta Corte Superior, o que atrai a incidência da Súmula 83/STF; b) os demais aspectos destacados pelo ora recorrente demanda o revolvimento do conjunto fático-probatório dos autos, o que é inviável a teor da Súmula 7/STJ; c) a alegação de supostos distinguishing é genérica, de modo que incide o óbice da Súmula 284/STF.
+O agravante impugnou todos os fundamentos da decisão de inadmissibilidade.
+Contraminuta às fls. 484/486 e-STJ.
+É o relatório. Passo a decidir.
+Faz-se necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, considerando o preenchimento dos requisitos de admissibilidade do agravo e as peculiaridades do caso concreto, o agravo deve ser provido para que seja realizada a sua reautuação como recurso especial.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, d, do RISTJ, conheço do agravo para determinar sua autuação como recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. PRESCRIÇÃO EXECUTÓRIA. IMPUGNAÇÃO DOS TERMOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. AGRAVO CONHECIDO PARA REAUTUAÇÃO EM RECURSO ESPECIAL.
