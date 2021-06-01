@@ -1,0 +1,18 @@
+DECISÃO
+MAURO DOS SANTOS BARNABÉ alega sofrer coação ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0031726-46.2017.8.26.0050.
+Extrai-se dos autos que o insurgente foi condenado a 6 anos, 2 meses e 20 dias de reclusão, em regime inicial fechado, mais multa, pela prática do delito previsto no art. 157, § 2º, II, do Código Penal.
+Nesta Corte, a defesa pretende o reconhecimento da atenuante da confissão espontânea, com a consequente compensação com a agravante da reincidência.
+Não houve pedido liminar.
+Prestadas as informações, veio parecer do Ministério Público Federal, que opinou pela concessão da ordem (fls. 111-117).
+Decido.
+Em relação à atenuante ora pleiteada, ficou registrado na sentença: "Muito embora o réu tenha admitido a subtração patrimonial, negou o emprego de violência e o envolvimento do segundo agente. Assim, por não abrangerem todos os elementos do fato, suas declarações não podem ser consideradas como confissão válida" (fl. 30).
+O Tribunal a quo ratificou a impossibilidade do reconhecimento da confissão espontânea, pois "admitindo meramente a subtração do dinheiro da carteira da vítima, o acusado reconhece a prática de conduta absolutamente diversa daquela que lhe está sendo imputada, circunstância que descaracteriza o instituto da confissão" (fl. 24).
+Esta Corte Superior possui o entendimento de que, se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante, sendo irrelevante o fato de a confissão ter sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação.
+Dessa forma, verifico o constrangimento ilegal de que estaria sendo vítima o paciente, haja vista que a confissão foi utilizada para corroborar o acervo probatório e fundamentar a condenação, devendo incidir a atenuante prevista no art. 65, III, "d", do Código Penal.
+Nesse sentido foi editada a Súmula n. 545 do STJ, in verbis: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal".
+Ademais, no julgamento dos EREsp n. 1.154.752/RS, ocorrido em 23/5/2012 (DJe 4/9/2012), a Terceira Seção deste Superior Tribunal pacificou o entendimento de que, observadas as peculiaridades do caso concreto, "É possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal".
+Assim, constato que não há óbice à compensação integral entre a confissão espontânea e a agravante da reincidência, haja vista que não foi destacada a existência de múltiplas condenações definitivas anteriores na segunda fase da dosimetria.
+Caracterizada a coação ilegal, passo à readequação da pena.
+Partindo dos critérios adotados pelas instâncias antecedentes, verifico que a pena-base foi fixada no mínimo legal, em 4 anos de reclusão, mais 10 dias-multa. Na segunda fase, a pena foi aumentada em 1/6 pela reincidência. Reconhecida a confissão espontânea, realizo a compensação integral, o que deixa a pena inalterada. Na terceira etapa, a pena foi aumentada em 1/3, pela majorante do concurso de agentes, o que a torna definitivamente estabelecida em 5 anos e 4 meses de reclusão, mais 13 dias-multa.
+À vista do exposto, concedo a ordem, a fim de reconhecer a confissão espontânea e compensá-la com a reincidência, redimensionando a pena para 5 anos e 4 meses de reclusão, mais 13 dias-multa.
+Publique-se e intimem-se.
