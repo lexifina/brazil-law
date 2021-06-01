@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a",da Constituição) interposto contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ADMINISTRAÇÃO PÚBLICA FEDERAL. ÓRGÃO. RENAJUD. DESNECESSIDADE.
+Como o Decreto nº 8.789, de 2016, estabelece o compartilhamento de dados entre os órgãos e entidades da administração pública federal, dentre os quais se encontram os dados sobre veículos, desnecessária a intervenção do Poder Judiciário para que realize a consulta ao sistema Renajud, devendo a autarquia exequente trazer aos autos a informação sobre veículo do executado, para fim de efetivação da restrição por parte do Juízo.
+Os Embargos de Declaração foram rejeitados.
+Aponta a recorrente violação dos arts. 1.022, 139, 789, 797, 835, 854, 831 e829, § 2º, do CPC;e 10 e 11 da Lei 6.830/1980.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 26/5/2021.
+Inicialmente, constato que não se configura a alegada ofensa ao artigo 1.022 do CPC/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+A mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração, recurso que se presta tão somente a sanar os vícios previstos no art. 1.022 do CPC/2015, pertinentes à análise dos temas trazidos à tutela jurisdicional no momento processual oportuno.
+Por outro lado, assiste razão à Autarquia quanto à questão de fundo.
+O STJ tem compreensão firmada de que é legal a realização de pesquisas nos sistemas BACENJUD, RENAJUD e INFOJUD, porquanto são meios colocados à disposição da parte exequente para agilizar a satisfação de seus créditos.Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. SISTEMAS RENAJUD E INFOJUD. ESGOTAMENTO DE DILIGÊNCIAS. DESNECESSIDADE.
+1. Hipótese em que o Tribunal de origem consignou: "o Decreto nº 8.789, de 2016 estabelece o compartilhamento de dados entre os órgãos e entidades da administração pública federal. Daí que as informações que seriam obtidas pela consulta ao Renajud são obteníveis pela própria exequente, caso em que desnecessária a intervenção do juízo. (..) o acesso ao Infojud exige-se antes tenham sido empreendidas outras medidas na execução, como expedição de mandado de penhora, consulta ao Bacenjud e Renajud (..) ao caso das autarquias exequentes que se beneficiam do compartilhamento de dados estabelecido pelo Decreto nº 8.789, de 2016, deve ser exigido também que tenham previamente obtido as informações que lhe são disponibilizadas pela Receita Federal do Brasil - como o DOI -, e trazer aos autos as informações pertinentes" (fls. 130-131, e-STJ).
+2. O STJ possui compreensão firmada de que é legal a realização de pesquisas nos sistemas Bacenjud, Renajud e Infojud, porquanto são meios colocados à disposição da parte exequente para agilizar a satisfação de seus créditos, dispensando-se o esgotamento das buscas por outros bens do executado. 3. Recurso Especial provido.(REsp 1.845.322/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 25/5/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. ADMINISTRATIVO. EXECUÇÃO FISCAL. INFOJUD. DESNECESSIDADE DE ESGOTAMENTO DAS BUSCAS POR BENS DO DEVEDOR.
+1. Consoante orientação deste Superior Tribunal de Justiça, após a edição da Lei nº 11.382/2006, não mais se exige a comprovação do esgotamento das vias extrajudiciais em busca de bens penhoráveis para a utilização do Sistema BACENJUD, não havendo, pois, a obrigatoriedade de exaurimento de diligências por parte da exequente para a localização de bens do devedor (Nesse sentido: EREsp 1.086.173/SC, 1ª Seção, Rel. Min. Mauro Campbell Marques, DJe de 1º.2.2011). Esse mesmo entendimento deve ser aplicado também ao INFOJUD, porquanto se trata de meio colocado à disposição dos credores para simplificar e agilizar a busca de bens aptos a satisfazer os créditos executados.
+2. Agravo interno não provido.(AgInt no AREsp 1.398.071/RJ, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 15/3/2019)
+Diante o exposto, dou parcial provimento ao Recurso Especial, a fim de garantir o prosseguimento da execução fiscal com a realização da diligência junto ao sistema Renajud.
+Publique-se.Intimem-se.
