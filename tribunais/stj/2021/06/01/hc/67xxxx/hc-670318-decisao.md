@@ -1,0 +1,31 @@
+DECISÃO
+Nestehabeas corpus,com pedido liminar,impetrado em favor deFelipe Morelli de Oliveira- cumprindo pena privativa de liberdade que totaliza 16 anos, 4 meses e 15 dias de reclusão, pela prática de múltiplos crimes de roubo majorado (Processo n.0013394-67.2016.8.26.0502, em curso na Unidade Regional do Departamento Estadual de Execução Criminal -DEECRIM 5ª RAJ, da comarca de Ribeirão Preto/SP)-, sob a alegação de constrangimento ilegal no acórdão exarado no julgamento doAgravo de Execução Penal n.0003428-77.2021.8.26.0996, que manteve a decisão do Juízo da execução, que indeferiu o pedido de progressão de regime formulado pela defesa do paciente, requer-se, em liminar e no mérito, a concessão da benesse.
+É o relatório.
+A ordem não merece concessão.
+Embora o Juízo da execução tenha aludido àgravidade dos crimes (múltiplos roubos majorados)e ao tempo residual da pena (encerramento previsto para 13/11/2032)como fundamentos para indeferir o pedido de progressão, verifica-se que o Magistrado também sopesou o conteúdo do exame criminológico, concluindo que o teorindica a necessidade de manutenção do paciente, ao menos por ora,no regime fechado (fl. 67 - grifo nosso):
+ ..
+Aliás, ressalte-se que embora o sentenciado houvesse declarado aos técnicos, durante o exame criminológico, que assume os crimes cometidos, é perceptível que ele tenta minimizar sua responsabilidade na autoria dos delitos e atribui o ocorrido à influência externa.
+Além disso, há passagens relevantes na avaliação psicossocial, dentre as quais, aquelas que sinalizam em sentido contrário à progressão, conforme se extrai do Relatório Social de fls. 246/247, em que o sentenciado: " (..) menciona arrependimento pelos delitos cometidos pautado nas perdas pessoais e no sofrimento familiar. (..)".
+Observa-se que o sentenciado não se preocupa com as consequências causadas às vítimas por seus atos delituosos.
+Logo, não tendo o sentenciado plena conscientização de sua conduta, com interiorização da responsabilidade pelos atos cometidos, necessária é a permanência no atual regime.
+Assim, embora o reeducando houvesse cumprido o requisito objetivo, após analisar as peculiaridades supra citadas da avaliação psicossocial que compõem a examinação em debate, in totum, observa-se que no momento não preenche o requisito de ordem subjetiva para promoção ao regime intermediário.
+No caso dos autos, deduzo ser necessário a permanência maior do sentenciado no cárcere, visando melhor absorver a terapêutica penal, exigindo-se sempre muita cautela para concessão de benefícios executórios, dentre eles a progressão de regime, pois não se pode lançar sobre os ombros da sociedade o extremo risco de sofrer com as consequências da não demonstração de mérito suficiente para a benesse ora postulada.
+ ..
+E tal fundamentação é idônea à luz da orientação jurisprudencial desta Corte, sendo inviável formar convicção distinta em sede dehabeas corpus(cognição sumária):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO AO REGIME SEMIABERTO CASSADA PELO TRIBUNAL DE ORIGEM. PARECER PSICOLÓGICO DESFAVORÁVEL. REQUISITO SUBJETIVO NÃO PREENCHIDO. AGRAVO IMPROVIDO.
+1. In casu, o benefício da progressão de regime foi indeferido fundamentadamente, em virtude, essencialmente, do parecer psicológico desfavorável.  .. . Habeas corpus não conhecido. (HC n.º 288.548/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 3/3/2015, DJe 12/3/2015).
+2. No caso, o Tribunal ressaltou alguns elementos desfavoráveis do exame criminológico, estando a decisão, assim, bem fundamentada, porque teve por base aspecto concreto dos autos.
+3. Por fim, vigora, no processo de execução penal, o princípio do in dubio pro societate, de modo que, na dúvida quanto à periculosidade do apenado, deve-se decidir em favor da sociedade.
+4 . Agravo regimental improvido.
+(AgRg no HC n. 663.527/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/5/2021)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INCONFORMISMO DA PARTE, ALEGANDO DETERMINAÇÃO DE EXAME CRIMINOLÓGICO SEM FUNDAMENTOS CONCRETOS. IMPUGNAÇÃO INCABÍVEL. EXAME JÁ EFETUADO. PRECLUSÃO. LAUDO PSICOLÓGICO CONCLUSIVO, BASEADO EM ASPECTOS ABSTRATOS DA GRAVIDADE DO CRIME. INOCORRÊNCIA. PSICÓLOGOS SE ATIVERAM À PERICULOSIDADE DO EXECUTADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Incabível a impugnação de determinação de exame criminológico com base em decisão sem fundamentos concretos, uma vez que a defesa deveria ter se insurgido contra a realização da avaliação em momento oportuno, ou seja, após a determinação do exame e antes de sua confecção. Nesse sentido: Contra a determinação da realização do exame, contudo, a d. Defesa sequer se insurgiu e, agora, além de matéria abarcada pela preclusão, o que se tem é que há prova recente nos autos, produzida durante a execução penal, que não recomenda o benefício almejado ( STJ - HC 609042, Rel. Ministro FELIX FISCHER, data da publicação: 39/9/2020).
+2. Segundo jurisprudência firmada por esta Corte, o parecer psicossocial desfavorável é suficiente para impedir a progressão de regime: Não se vislumbra qualquer ilegalidade ou arbitrariedade na decisão impugnada, tendo em vista as peculiaridades do caso concreto - avaliação técnica desfavorável - que justificam o indeferimento da progressão do regime prisional em razão da ausência do cumprimento do requisito subjetivo pelo apenado (precedentes). Habeas Corpus não conhecido. (HC 322.501/MS, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 1º/9/2015, DJe 9/9/2015.
+3. No caso, ficou claro que os peritos da área psicológica avaliaram a situação de periculosidade do apenado, quando descreveram que ele não tem condições de retornar a viver em sociedade, bem como não se ressentiu dos crimes que praticou.
+4. Agravo regimental improvido.
+(AgRg no HC n. 650.845/AL, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/4/2021)
+Ante o exposto, denego a ordem (art. 34, XX, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. MÚLTIPLOS CRIMES DE ROUBO MAJORADO. SUPOSTA ILEGALIDADE NA DECISÃO QUE INDEFERIU O PEDIDO DE PROGRESSÃO DE REGIME. IMPROCEDÊNCIA. INDEFERIMENTO CALCADO NO EXAME CRIMINOLÓGICO. IDONEIDADE. PRECEDENTES DESTA CORTE.
+Ordem denegada (art. 34, XX, do RISTJ).
