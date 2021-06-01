@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. EMBARGOS MONITÓRIOS. CARTA FRETE. EXTINÇÃO. LEI Nº 12.249. CONTRATO ANTERIOR. ÔNUS DA PROVA. AUSÊNCIA PROVA DE DESCONSTITUIÇÃO DAS AUTORIZAÇÕES. SENTENÇA MANTIDA.
+1. De fato, o pagamento de frete aos motoristas mediante apresentação de "carta-frete" teve sua prática vedada a partir de 24.01.2012, com a superveniência da Lei n.º 12.249, de 11.06.2010. No entanto, tal nulidade em nada afeta o pagamento do crédito reclamado, vez que o contrato foi celebrado em data anterior a extinção de carta de frete. 2. Nos embargos monitórios, o ônus do réu consistente na indicação das provas a serem produzidas, para fins de comprovação de fato extintivo, impeditivo e ou constitutivo do direito alegado pelo autor. Assim, cabia à Apelante/Embargante o ônus de desconstituir a exigibilidade do crédito reclamado pela apelada, demonstrando eventual origem ilícita das autorizações de frete. O artigo 373, II, do CPC é claro ao determinar que o ônus da prova incumbe ao réu quanto a existência de fato impeditivo, modificativo ou extintivo do direito do autor, portanto, se o recorrido não colacionou prova de quitação das autorizações, deve ser mantida a sentença que o condenou ao pagamento do crédito descrito no pedido inicial. 3. Honorários advocatícios recursais majorados, na forma prevista no § 11 do artigo 85 do CPC/15.
+APELAÇÃO CONHECIDA E DESPROVIDA. SENTENÇA CONFIRMADA.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta a agravante violação dos artigos 400, 505, 507, 1.022 e 1.025 do Código de Processo Civil; 104, 166, 169 e 476 do Código Civil, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração, sem suprimento das omissões relativas à preclusão da prestação jurisdicional que admitiu os fatos por ela expostos como verdadeiros; não constar no acórdão embargado a completa versão dos fatos, bem como acerca dos dispositivos apontados como violados para fins de prequestionamento.
+Aduz ser necessário presumir a inexistência dos fatos elencadosna inicial, dada a agravada, em descumprimento àordem judicial, não ter apresentado os cupons fiscais dos abastecimentos alegados, motivando o Juízo de 1º grau em considerar como inexistentes tais fatos. Assevera que a mencionada questão se encontra preclusa, obstando sua análise pela Câmara revisora.
+Alternativamente, asseveraque em face do descumprimento de obrigações contratuais por parte do agravado, se encontra isenta de cumprir os deveres pactuados.
+Por fim, argumenta ser ilícito o objeto do negócio revisado, carta frete, visto que sua utilização foi vedada pela Lei 12.249/10.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+Quanto à preliminar, não observo omissão no acórdão, senão julgamento contrário aos interesses da agravante, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, havendo fundamentação quanto aos documentos probantes da existência da dívida e responsabilização das partes, revelando que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+No tocante à revisão das cláusulas pactuadas, validade e indenizações devidas, a Corte estadual, ao analisar as circunstâncias fáticas contidas nos autos, cláusulas do contrato e o conjunto probatório produzido, assim decidiu (fls. 373-376, e-STJ):
+A prima facie, verifica-se que a relação jurídica mantida entre as partes, era para fornecimento de combustível. O autor/apelado fornecia combustível e mútuo em dinheiro, mediante autorização expressa da ré/recorrente, conforme as autorizações de frete: 075/2012 (fl.08), 080/2012 (fl.10), 162/2012 (fl. 12), 169/2012 (fl.14), 170/2012 (fl.16) e 069/2012 (fl.18), todas devidamente assinadas pelo representante da ré/recorrente, acostadas ao pedido inicial.
+(..)
+Como visto, o pagamento de frete aos motoristas mediante apresentação de "carta-frete" teve sua prática vedada a partir de 24.01.2012, com a superveniência da Lei n.º 12.249, de 11.06.2010. No entanto, tal nulidade em nada afeta o pagamento via título de crédito (carta frete - autorizações de frete), como forma de remuneração pelo serviço prestado. Mesmo porque, o contrato celebrado entre as partes é anterior firmado em 18/05/2009, ou seja, firmado antes de sua vigência.
+(..)
+Ou seja, a recorrente não nega a prestação do serviço, mas utiliza da eventual nulidade para se abster quanto à sua obrigação.
+Nesse contexto, cumpre esclarecer que o nosso ordenamento jurídico, em relação ao ônus da prova, estabelece que incumbe ao autor da ação provar fato constitutivo do seu direito, ao passo que incumbe ao réu provar fato impeditivo, modificativo ou extintivo do direito do autor (..)
+Na hipótese, vislumbra-se que competia à recorrente comprovar que o fornecimento de combustível materializado nas autorizações de frete juntadas na inicial realmente não existiram, ônus do qual não se desincumbiu.
+Assim, cabia à Apelante/Embargante o ônus de desconstituir a exigibilidade das autorizações que instruíram o pedido, demonstrando eventual origem ilícita do débito; o que não ocorreu no caso.
+(..)
+Além do mais, ao ser intimada a apelante para produzir provas, protestou genericamente pela produção de prova testemunhal. Contudo, competia-lhe comprovar que o fornecimento de combustível materializado nas autorizações de frete juntadas na inicial realmente não existiu, ônus do qual não se desincumbiu.
+O Tribunal de origem se manifestou, ainda, nos embargos declaratórios com efeitos integrativos, nos seguintes termos (fls. 413-414, e-STJ):
+Ressalta a embargante que a mera existência de autorizações de frete assinadas não comprova a existência de troca por combustível. A troca só estaria comprovada se existissem as autorizações assinadas cupons de abastecimento, vez que era uma obrigação do Embargado emitir um cupom fiscal para cada abastecimento.
+Mas, a falta de emissão de cupom fiscal, por si só, não descaracteriza o negócio jurídico existente entre as partes, já que o embargado demonstrou por meio das autorizações de frete a existência dos abastecimentos reclamados.
+Dessa forma, ao contrário do alegado neste recurso especial, o Tribunal de origem, após minudente análise do conjunto fático-probatório e obrigações assumidas em contrato, reconheceu pela regularidade da cobrança.
+A revisão do entendimento destes pontos, nos moldes das questões factuais, ainda com base na interpretação de cláusulas contratuais, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos e do contrato entabulado, o que é vedado, em sede de recurso especial, ante os óbices das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS N. 282 E 356/STF. NECESSIDADE DE REEXAME DE CLÁUSULAS CONTRATUAIS E PROVAS. SÚMULAS N. 5 E 7/STJ.
+1. (..)
+2. Recurso especial cuja pretensão demanda reexame de cláusulas contratuais e matéria fática da lide, o que encontra óbice nas Súmulas n. 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 215.750/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 20/6/2018)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. RESILIÇÃO UNILATERAL DO CONTRATO. ANÁLISE DE CLÁUSULAS CONTRATUAIS. INOBSERVÂNCIA. SÚMULA Nº 5 DO STJ. RESPONSABILIZAÇÃO POR PERDAS E DANOS. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. (..)
+2. A alteração das conclusões do acórdão recorrido exige interpretação de cláusula contratual e reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice das Súmulas nºs 5 e 7, ambas do STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 814.157/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 18/11/2016)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Intimem-se.
