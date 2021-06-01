@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 2ª Vara Cível, Criminal Família e Fazendas Públicas de Morrinhos - GO, o Suscitante, e o Juízo Federal da 1ª Vara de Divinópolis - SJ/MG, o Suscitado, nos autos de ação previdenciária ajuizada por Sueli André de Melo em desfavor do Instituto Nacional do Seguro Social, na qual requer a concessão de benefício assistencial.
+A ação foi proposta perante o Juízo de Direito da 2ª Vara Cível, Criminal Família e Fazendas Públicas de Morrinhos - GO que, após alteração no endereço da autora, determinou a remessa do feito ao foro competente da Comarca de Divinópolis - MG.
+O Juízo Federal da 1ª Vara de Divinópolis - SJ/MG, por sua vez, invocando a regra da perpetuaçãoda competência nos termos do art. 43 do CPC, determinou a restituição dos autos à comarca de origem (e-STJ fls. 111/113).
+OJuízo de Direito da 2ª Vara Cível, Criminal Família e Fazendas Públicas de Morrinhos - GO, considerando que "a competência do juízo do local do domicílio do segurado é absoluta quando se tratar de competência delegada", suscitou o presente conflito (e-STJ fls. 120/121).
+O Ministério Público Federal opinou pelo não conhecimento do conflito, com remessa dos autos ao TRF1 (e-STJ fls. 133/136).
+É o relatório. Passo a decidir.
+Inicialmente, é necessário consignar que o presente processo atrai a incidência do Enunciado Administrativo n. 4/STJ: Nos feitos de competência cível originária e recursal do STJ, os atos processuais que vierem a ser praticados por julgadores, partes, Ministério Público, procuradores, serventuários e auxiliares da Justiça, a partir de 18 de março de 2016, deverão observar os novos procedimentos trazidos pelo CPC/2015, sem prejuízo do disposto em legislação processual especial.
+Da análise dos autos observa-se que oconflito de competênciasuscitado foi estabelecido na respectiva região (Tribunal Regional Federal da 1ª Região), entre juiz federal e juiz estadual investido de jurisdiçãofederal delegada prevista no art. 109, § 3º, da Constituição Federal.
+Conforme a jurisprudência sumulada do Superior Tribunal de Justiça, cumpre ao Tribunal Regional Federaldirimir oconflito de competênciaverificado, na respectiva região, entre juiz federal e juiz estadual no exercício da competência federal delegada, nos termos do enunciado da Súmula n. 3 do STJ:
+"Compete ao Tribunal Regional Federal dirimirconflito de competênciaverificado, na respectiva região, entre juiz federal e juiz estadual investido de jurisdição federal".
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, não conheço doconflito de competênciasuscitado, bem como determino a remessa dos autos ao Tribunal Regional Federal da 1ª Região, para que o referido conflito seja dirimido.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.CONFLITO NEGATIVO DE COMPETÊNCIA. ENUNCIADO ADMINISTRATIVO N. 4/STJ.JUÍZOS ESTADUAL E FEDERAL. JUIZ ESTADUAL INVESTIDO DE JURISDIÇÃO FEDERAL DELEGADA.SÚMULA 3/STJ. CONFLITO NÃO CONHECIDO. REMESSA DOS AUTOS AO TRF DA 1ª REGIÃO.
