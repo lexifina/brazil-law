@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por TG RIO DE JANEIRO EMPREENDIMENTOS IMOBILIÁRIOS S.A, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fls. 304/305):
+APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. EMPREENDIMENTO IMOBILIÁRIO. AÇÃO RESCISÓRIA COM PEDIDO DE RESTITUIÇÃO DE QUANTIA PAGA E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SENTENÇA QUE JULGOU PROCEDENTE O PEDIDO PARA RESCINDIR O CONTRATO CELEBRADO ENTRE AS PARTES E CONDENAR A EMPRESA RÉ AO RESSARCIMENTO DE TODOS OS VALORES PAGOS PELOS AUTORES, BEM COMO INDENIZAÇÃO A TÍTULO DE DANO MORAL NO VALOR DE R$ 5.000,00 PARA CADA AUTOR. PRETENSÃO RECURSAL ARTICULADA PELA CONSTRUTORA OBJETIVANDO QUE A DEVOLUÇÃO DOS VALORES PAGOS SEJA FEITA NOS TERMOS DO CONTRATO; O RECONHECIMENTO QUE O ATRASO SE DEU POR FORTUITO/FORÇA MAIOR E O AFASTAMENTO DA CONDENAÇÃO AO PAGAMENTO DE VERBA INDENIZATÓRIA, POR ENTENDER NÃO CONFIGURADO O DANO MORAL. DESPROVIMENTO DO RECURSO.
+1) Descumprimento do prazo para conclusão da obra que se consubstancia em fato incontroverso, afirmando a ré, em sua peça de bloqueio, que o imóvel não foi entregue por motivo de força maior, consistente na escassez de mão de obra e materiais no mercado. Argumentação destituída de fundamento, eis que são fatos previsíveis e inerentes à atividade da ré e não se prestam, pois, a configurar qualquer excludente de responsabilidade.
+2) Rescisão do contrato de promessa de compra e venda que se declara por culpa exclusiva da ré, que se vê obrigada, por consequência, a restituir as parcelas pagas pelos promitentes compradores (Súmula 543 STJ) e a ressarci-los do dano moral experimentado.
+3) Dano moral configurado e quantificado em R$ 5.000,00 (cinco mil reais) para cada autor, verba indenizatória essa que se mantém por não ofensiva aos princípios da razoabilidade e proporcionalidade e por observar às especificidades do caso concreto.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a recorrente aponta violação dos arts. 884 e 944, do Código Civil, além de divergência jurisprudencial no sentido de não ser cabível compensação por danos morais por mero atraso na entrega de unidade imobiliária, sem que haja comprovação de circunstâncias excepcionais nos autos.
+Sustenta a necessidade de redistribuição dos ônus sucumbenciais, nos termos do art. 86, caput, do Código de Processo Civil/2015 porque decaiu em apenas 2 (dois) dos 3 (três) pedidos elaborados pelos recorridos, razão pela qual os ônus sucumbenciais deveriam ser redistribuídos nas proporções de 1/3 para os recorridos e 2/3 para a recorrente.
+Aduziu, a violação do art. 1.022 do CPC/2015 em virtude da omissão do Tribunal de origem sobre os temas apresentadas nos embargos de declaração.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que ele merece ser parcialmente provido, senão vejamos.
+Nas razões do seu recurso, o recorrente alegou a violação do art. 1.022 do CPC/2015 em virtude da omissão do Tribunal de origem sobre os temas apresentados nos embargos de declaração.
+Não houve, contudo, a indicação das teses omitidas, em evidente alegação genérica de contrariedade ao referido dispositivo.
+Nesses casos, ante a deficiente fundamentação do recurso, incide a Súmula 284 do STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+No mérito, afirmou a inexistência de indenização por danos morais por mero atraso na entrega de unidade imobiliária, sem que haja comprovação de circunstâncias excepcionais nos autos.
+Sobre o tema, o Tribunal de origem concluiu pela existência de dano moral in re ipsa e a sua caracterização porque o atraso da obra deixa o pretenso adquirente apreensivo. Confira-se:
+Quanto ao dano moral, inegável a sua configuração, isso porque a hipótese ora em apreciação não se restringe, em absoluto, a mero inadimplemento contratual, como quer fazer crer a ré/apelante.
+Ora, é de conhecimento geral que as pessoas economizam dinheiro para a realização do sonho da compra da casa própria, sendo certo que o atraso da obra deixa o pretenso adquirente apreensivo, com receio de perder tudo o que economizou e investiu.
+Destaque-se que, no presente caso, o dano moral não carece de comprovação, pois existe in re ipsa, ou seja, decorre do próprio fato.
+Logo, uma vez demonstrado o fato ofensivo, também estará demonstrado o dano imaterial em razão de uma presunção natural  ..
+A conclusão do Tribunal de origem está em desarmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, que já se posicionou no sentido de que não é cabível a condenação em indenização por danos morais na hipótese em que há simples atraso na entrega do imóvel pela incorporadora, pois o dissabor inerente à expectativa frustrada decorrente de simples inadimplemento contratual se insere no cotidiano das relações comerciais e não implica lesão à honra ou violação da dignidade humana.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. IMÓVEL. ENTREGA. ATRASO. DANO MORAL. AFASTAMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça consolidou o entendimento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, não acarreta, por si só, danos morais.
+3. Agravo interno não provido.
+(AgInt no AREsp 1753530/MT, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/05/2021, DJe 24/05/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZAÇÃO. COMPROMISSO DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL. MERO DESCUMPRIMENTO CONTRATUAL. DANOS MORAIS. DESCABIMENTO. AGRAVO INTERNO PROVIDO A FIM DE CONHECER DO AGRAVO E DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. O mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária fundamentação complementar que demonstre a gravidade da circunstância fática, a ensejar a pretendida indenização. Precedentes.
+2. Na hipótese, o acórdão recorrido merece reforma, porque fundamentou a ocorrência do dano moral apenas no mero atraso na entrega da obra, sem apresentar fundamentação adicional a justificar a angústia ou abalo psicológico do autor da demanda.
+3. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial.
+(AgInt no AREsp 1689543/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/03/2021, DJe 26/03/2021)
+Como visto, a jurisprudência orienta que deve haver uma consequência decorrente do descumprimento contratual para caracterização dos danos extrapatrimoniais indenizáveis, situação que não foi comprovada no caso.
+Incide sobre o tema o óbice da Sú mula 568 do STJ.
+Com efeito, diante do provimento parcial do recurso especial interposto, deve ser reconhecida a sucumbência recíproca entre as partes, devendo essa sucumbência refletir na redistribuição dos ônus de sucumbência.
+Em face do exposto, dou parcial provimento ao recurso especial para afastar a condenação por danos morais, nos termos da fundamentação acima.
+Nos termos do art. 85, § 2º, e 86, caput, do CPC/2015, sendo ambas as partes vencedoras e vencidas na causa e havendo, portanto, sucumbência recíproca, cada parte arcará com 50% (cinquenta por cento) das despesas processuais e dos honorários advocatícios, os quais fixo em 10% (dez por cento) sobre o valor atualizado da condenação, sendo vedada a compensação dos honorários advocatícios, à luz do contido no § 14 do artigo 85 do novo diploma processual.
+Intimem-se.
