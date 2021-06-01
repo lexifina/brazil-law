@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Embargos de Divergência em Recurso Especial contra acórdão da Primeira Turma do Superior Tribunal de Justiça assim ementado (fls. 139-146, e-STJ):
+PROCESSUAL CIVIL E ADMINISTRATIVO. TABELA DO SUS. FATOR DE CONVERSÃO. REAJUSTE. LIMITAÇÃO TEMPORAL. CUMPRIMENTO DE SENTENÇA. COISA JULGADA. OFENSA. RECONHECIMENTO.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. O Superior Tribunal de Justiça, no julgamento do REsp 1.179.057/AL (DJe 15/10/2012), submetido à sistemática dos recursos repetitivos, firmou a tese de que, "nas demandas que envolvem a discussão sobre a conversão da tabela de ressarcimentos de serviços prestados ao Sistema Único de Saúde - SUS de cruzeiro real para real, (..) o índice de 9,56%, decorrente da errônea conversão em real, somente é devido até 1º de outubro de 1999, data do início dos efeitos financeiros da Portaria 1.323/99, que estabeleceu novos valores para todos os procedimentos" (Tema 495).
+3. A hipótese vertente não se enquadra nas exceções estabelecidas por esta Corte de justiça, que afasta a ocorrência da coisa julgada para reconhecer a possibilidade de limitação temporal do direito às diferenças decorrentes do reajuste da tabela do SUS, mesmo em sede de embargos à execução.
+4. O reconhecimento da ofensa à coisa julgada, in casu, decorreu da existência de decisão exauriente, de mérito, acerca do termo final de incidência do reajuste de 9,56% na ação de conhecimento, no REsp 422.671, razão pela qual a questão não pode ser novamente debatida pelo mesmo órgão jurisdicional, em face da preclusão pro judicato.
+5. Agravo interno desprovido.
+Embargos de Declaração rejeitados (fls. 186-190, e-STJ).
+A parte embargante afirma existir divergência entre o acórdão embargado edecisões proferidas pela Segunda Turma do Superior Tribunal de Justiça, que firmou o entendimento de que o "índice de 9,56%, decorrente da errônea conversão em real, somente é devido até 1º de outubro de 1999, data do início dos efeitos financeiros da Portaria 1.323/99, que estabeleceu novos valores para todos os procedimentos", e o de que "não há violação de coisa julgada no reconhecimento, em sede de embargos à execução, da limitação temporal no pagamento de diferenças anteriores à reestruturação das tabelas do SUS".
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 25/5/2021.
+Dorecurso não se deve conhecer, pois não foidemonstrada asimilitude fático-jurídica entre oacórdãoembargado e os invocados como paradigmas.
+Na decisão embargada, aPrimeira Turma desta Corte Superior decidiu o seguinte (grifei):
+Dito isso, observa-se que a pretensão do agravante não merece acolhimento, pois, conforme registrado na decisão agravada, o caso concreto não se enquadra nas exceções estabelecidas por esta Corte de Justiça que, em casos excepcionais, afasta a ocorrência da coisa julgada para reconhecer a possibilidade de limitação temporal do direito às diferenças decorrentes do reajuste da tabela do SUS, mesmo em sede de embargos à execução.
+Com efeito, na hipótese vertente, a decisão exauriente, de mérito, fixou o termo final de incidência do reajuste de 9,56% na ação de conhecimento, razão pela qual a questão não pode ser novamente debatida nos presentes autos pelo mesmo órgão jurisdicional, em face da preclusão pro judicato.
+(..)
+Diante do quadro delineado, forçoso convir que, havendo determinação expressa na parte dispositiva do título exequendo quanto ao termo final de aplicação do índice de reajuste, anterior à tese firmada em julgamento repetitivo, não há se afastar essa determinação, em face da ocorrência da preclusão consumativa.
+Ao julgar os Embargos de Declaração, a Primeira Turma novamente consignou (grifei):
+Ora, se reconhecido que o título exequendo delimitou o termo final de incidência do índice de 9,56% e não se tratando de matéria de ordem pública, conforme explanado no acórdão combatido (e-STJ fls. 143/145), o cumprimento do que transitou em julgado, por consequência, não configura excesso e, portanto, não se enquadra nas hipóteses de que trata o art. 917, § 2º, do CPC de 2015.
+Portanto, nos termos do acórdãorecorrido, o título exequendo, anterior à tese firmada no REsp 1.179.057/AL (Temas 493, 494 e 495), foi expresso quanto ao termofinal da aplicação do índice do reajuste, de modo que não seria possível afastá-lo em impugnação ao cumprimentode sentença.
+A União não demonstrou a existência desta peculiaridade nos arestos paradigmas, conforme exigido pelosarts. 1.043, § 4º, do CPC e 266, § 4º, do RISTJ e, por conseguinte, de eventual divergência jurisprudencial a ser sanada.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. AUSÊNCIA DE COTEJO ANALÍTICO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. DEFENSORIA PÚBLICA.SÚMULA 421/STJ. QUESTÃO DE DIREITO PROCESSUAL. DESCABIMENTO DO PUIL.
+1. A contradição à jurisprudência dominante deve ser comprovada com base na verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e da realização do cotejo analítico entre eles, nos moldes exigidos pelo art. 1.029, § 1º, do CPC/2015 e do 255, § 1º, do RISTJ, aplicáveis, por analogia, sendo insuficiente a mera transcrição de ementas.
+2. No caso dos autos, a parte recorrente limitou-se a transcrever as ementas sem realizar o cotejo analítico, providência indispensável ao conhecimento do pedido.
+3. Além disso, o Superior Tribunal de Justiça tem jurisprudência pacífica no sentido de que o debate sobre a aplicabilidade da Súmula 421/STJ não pode ser elucidado em Pedido de Uniformização, por ser questão processual. Precedentes.
+4. Agravo Interno não provido.
+(AgInt no PUIL 1.836/BA, Rel. Min. Herman Benjamin, Primeira Seção, DJe 19/3/2021)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EXECUÇÃO.REAJUSTE DE 28,86%. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.AUSÊNCIA DE SIMILITUDE FÁTICA E DE DIVERGÊNCIA DE INTERPRETAÇÃO JURÍDICA.
+I - Na origem, trata-se de embargos à execução relativos ao reajuste de 28,86% concedido aos servidores públicos. Na sentença, julgaram-se procedentes os embargos para extinguir a execução em razão da existência de acordo administrativo. No Tribunal a quo, a sentença foi mantida. Esta Corte negou provimento ao recurso especial. Interposto agravo interno, negou-se provimento ao recurso.Interpostos embargos de divergência, foram indeferidos liminarmente.
+II - A questão sobre a qual a embargante alega haver divergência jurisprudencial não foi objeto da decisão tomada pela Primeira Turma.
+III - O acórdão embargado se ateve ao exame da necessidade de homologação do acordo celebrado na esfera administrativa antes do ajuizamento da demanda, tanto que reiterou o entendimento firmado no julgamento do mesmo recurso ora invocado como paradigma, no sentido de ser "despicienda a homologação judicial do termo de transação extrajudicial, posto que inviável a execução de tal providência, diante da inexistência, à época da celebração do acordo, de demanda judicial entre as partes transigentes" (fl. 939).
+IV - Não houve, portanto, discussão a respeito da repercussão do acordo administrativo sobre parcelas vencidas do reajuste de 28,86%.
+V - Nesse contexto, não configurado o alegado dissídio. Nesse sentido: (AgInt nos EREsp n. 1.485.561/RS, Rel. Ministro Sérgio Kukina, Primeira Seção, julgado em 24/4/2019, DJe 26/4/2019).
+VI - A embargante não se desincumbiu de realizar o necessário cotejo analítico, exigido pelos art. 266, § 4º, do RISTJ, e 1.043, § 4º, do CPC/2015, o que impede o conhecimento do recurso. Nesse sentido: (AgInt nos EREsp n. 1.420.644/RS, Rel. Ministro Raul Araújo, Corte Especial, julgado em 19/6/2019, DJe 27/6/2019).
+VII - Agravo interno improvido.(AgInt nos EREsp 1558018/RS, Rel. Min. Francisco Falcão, Primeira Seção,DJe 11/5/2020)
+Consubstanciado o que previsto no Enunciado Administrativo 7/STJ, condeno o recorrente ao pagamento dehonoráriosadvocatícios em 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+Saliento que os §§ 3º e 11 do art. 85 do CPC/2015 estabelecem teto de pagamento dehonoráriosadvocatícios quando a Fazenda Pública for sucumbente, o que deve ser observado quando a verba sucumbencial é acrescida na fase recursal, como no presente caso.
+Com essas considerações, não conheço dos Embargos de Divergência.
+Publique-se.
+Intimem-se.
