@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos porRAIMUNDO NONATO CARIOLANO BEZERRA FILHO, de decisão na qual concedi a ordem, de ofício, para reduzir a sanção final para 11 anos, 6 meses e 10 dias de reclusão mais pagamento de 1.800 dias-multa, mantido o regime fechado.
+Alega o embargante omissão no decisum,por não ter tratado da questão relativa à hierarquia entreas fases da dosimetria, em que deveria ter se aplicado, na primeira etapa, a fração de 1/8 estabelecida para cada circunstância judicial negativa sobre a pena mínima em abstrato. Isso porquê, na hipótese, tal medida se mostra mais benéfica ao réu do que a incidência sobre o intervalo entre as penas mínimas e máximas.
+Requer, assim, o acolhimento dos aclaratórios, com efeitos infringentes, para suprir a omissão e redimensionar a sanção final para 11 anos e 2 meses de reclusão.
+É o relatório.
+Decido.
+Os embargos não merecem ser acolhidos.
+Dispõe o Código de Processo Penal:
+"Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão."
+Com efeito, verifica-se que o embargante pretende, na via dos aclaratórios, a revisão da decisão que lhe foi parcialmente desfavorável, a fim de que as questões suscitadas sejam solucionadas de acordo com as teses que julga corretas. Tal pretensão, entretanto, não se coaduna com a finalidade dos embargos de declaração, que se vincula à demonstração de alguns dos vícios previstos na Lei de Processo Penal, não possuindo, em regra, caráter infringente, devendo ser a matéria aventada na via processual adequada.
+Assim, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, a sua revisão no caso de mero inconformismo da parte.
+Nesse sentido, julgado desta Corte:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS.TRÁFICO DE DROGAS. DOSIMETRIA. CONFISSÃO ESPONTÂNEA QUALIFICADA.INCIDÊNCIA. OMISSÃO. INEXISTÊNCIA. MERA IRRESIGNAÇÃO. EMBARGOS REJEITADOS.
+I - Os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão).
+II - Na espécie, à conta de omissão, pretende o embargante a rediscussão da matéria já apreciada tanto no julgamento do habeas corpus, quanto no julgamento do agravo regimental anteriormente opostos.
+III - A jurisprudência recente desta eg. Corte Superior firmou o entendimento de que a confissão qualificada, pela qual são suscitadas outras teses defensivas, descriminantes ou exculpantes, enseja a incidência da circunstância atenuante do art. 65, inciso III, alínea d, do Código Penal, devendo ser considerada na segunda fase da dosimetria da pena. Precedentes.
+IV - No julgamento dos EREsp n. 1.154.752/RS, datado de 23/5/2012 (DJe 4/9/2012), a Terceira Seção deste Superior Tribunal pacificou o entendimento de que é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal.
+Embargos de declaração rejeitados."
+(EDcl no AgInt no HC 423.490/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/5/2018, DJe 21/5/2018).
+Especificamente quanto ao tema suscitado, destacou-se na decisão embargada que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada.
+Na espécie, o Juízo sentenciante, dentro da discricionariedade que lhe é conferida, elevou em 10 meses e 7 meses a pena-basepara cada circunstância judicial,respectivamente, para os delitos do art. 33 e 35 da Lei n. 11.343/2006, o que resultou no aumento de 20 meses, para o crime de tráfico de drogas,e de 14 meses, para o delitode associação para o tráfico, em razão da manutenção da valoração negativa da natureza do entorpecente e da conduta social do agente.
+Como cediço, "não existe critério matemático obrigatório para a fixação da pena-base. Pode o magistrado, consoante a sua discricionariedade motivada, aplicar a sanção básica necessária e suficiente à repressão e prevenção do delito, pois as infinitas variações do comportamento humano não se submetem, invariavelmente, a uma fração exata na primeira fase da dosimetria" (AgRg no HC 563.715/RO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/9/2020, DJe 21/9/2020).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
