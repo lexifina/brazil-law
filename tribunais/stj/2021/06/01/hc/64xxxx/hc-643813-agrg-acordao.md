@@ -1,0 +1,60 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. RECOMENDAÇÃO N. 62/2020 DO CNJ. INAPLICABILIDADE. WRIT INDEFERIDO LIMINARMENTE. SÚMULA 691 DO STF. AUSÊNCIA DE FLAGRANTE DE ILEGALIDADE. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Apresentada fundamentação concreta para a não aplicação da Recomendação n. 62/2020 do CNJ, pois, embora o paciente esteja acometido do mal de chron, nada indica que os cuidados necessários ao controle da moléstia não possam ser ministrados no estabelecimento prisional ou que sob o regime de prisão domiciliar receberia cuidados médicos diversos e mais eficazes do que aqueles efetivamente prestados pelo Estado.
+2. Inexistindo ilegalidade para justificar a mitigação do enunciado da Súmula 691 do STF, o writ deve ser indeferido liminarmente.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de agravo regimental interposto contra decisão que indeferiu liminarmente o habeas corpus.
+Sustenta o agravante a argumentação exposta na inicial do writ, no sentido de que integra grupo de risco da covid-19, sendo possível a concessão de prisão domiciliar ou a revogação da prisão preventiva, sem prejuízo da aplicação de cautelares diversas.
+Requer a reconsideração da decisão agravada ou a submissão do feito ao Colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  A decisão agravada foi proferida nos seguintes termos (fls. 99-101):
+A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal a quo, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+A medida liminar foi indeferida pelo TJMG nos seguintes termos (fl. 8):
+Indefiro a liminar requerida, ante a ausência dos requisitos genéricos (fumus boni iuris e periculum in mera) autorizadores da sua concessão.
+Ao indeferir o pleito liberatório, assim estipulou o juízo a quo (fl. 47):
+Inicialmente importa destacar que o requerente em que pese tenha demonstrado possuir doença crônica, a mesma acomete sistema diverso do pulmonar  sensível à Covid-19  . Soma-se a isso o fato de que o flagranteado não apresenta sintomas compatíveis com a Covid-19, bem como não restou evidenciado que o tratamento necessário  in casu, ambulatorial  não será fornecido ao mesmo.
+Impõe ressaltar que Merendo, em tese, participa de gangue atuante neste Comarca, juntos dos demais flagranteados, isso diante a apreensão de considerável quantidade em dinheiro  RS 1.465,00 (mil quatrocentos e sessenta e cinco reais)  e substâncias ilícitas  aproximadamente 13,5 kg  , bem com armas de fogo e munições, demonstrando a periculosidade do agente, motivo pela qual sua prisão deve ser mantida.
+Ante o exposto, sem maiores digressões, não havendo mudança no cenário fático-jurídico, indefiro o pedido de "reconsideração" formulado por Merendo Junio de Sales Cunha, por entender que se fazem presentes os pressupostos do art. 312 e 313 do Código de Processo Penal.
+A crise mundial da covid-19 trouxe uma realidade diferenciada de preocupação com a saúde em nosso país e faz ver como ainda de maior risco o aprisionamento - a concentração excessiva, a dificuldade de higiene e as deficiências de alimentação naturais ao sistema prisional acarretam o enquadramento dos encarcerados no grupo de risco.
+O Judiciário brasileiro permanece atuando, mas com redução de audiências e suspensão dos prazos, assim prolongando a conclusão dos feitos, daí gerando também maior risco pela demora das prisões cautelares e da análise de pleitos relativos a incidentes executivos.
+Nesse momento, configurada a dificuldade de rápida solução no processo e o gravíssimo risco à saúde, o balanceamento dos riscos sociais frente ao cidadão acusado merece diferenciada compreensão para restringir a prisão.
+Esse é o sentido da Recomendação n. 62/2020 do CNJ, art. 4º:
+ ..
+CONSIDERANDO a declaração pública de situação de pandemia em relação ao novo coronavírus pela Organização Mundial da Saúde - OMS em 11 de março de 2020, assim como a Declaração de Emergência em Saúde Pública de Importância Internacional da Organização Mundial da Saúde, em 30 de janeiro de 2020, da mesma OMS, a Declaração de Emergência em Saúde Pública de Importância Nacional - ESPIN veiculada pela Portaria no 188/GM/MS, em 4 de fevereiro de 2020, e o previsto na Lei no 13.979, de 6 de fevereiro de 2020, que dispõe sobre as medidas para enfrentamento da emergência de saúde pública de importância internacional decorrente do novo coronavírus;
+ ..
+CONSIDERANDO que a manutenção da saúde das pessoas privadas de liberdade é essencial à garantia da saúde coletiva e que um cenário de contaminação em grande escala nos sistemas prisional e socioeducativo produz impactos significativos para a segurança e a saúde pública de toda a população, extrapolando os limites internos dos estabelecimentos;
+CONSIDERANDO a necessidade de estabelecer procedimentos e regras para fins de prevenção à infecção e à propagação do novo coronavírus particularmente em espaços de confinamento, de modo a reduzir os riscos epidemiológicos de transmissão do vírus e preservar a saúde de agentes públicos, pessoas privadas de liberdade e visitantes, evitando-se contaminações de grande escala que possam sobrecarregar o sistema público de saúde;
+CONSIDERANDO o alto índice de transmissibilidade do novo coronavírus e o agravamento significativo do risco de contágio em estabelecimentos prisionais e socioeducativos, tendo em vista fatores como a aglomeração de pessoas, a insalubridade dessas unidades, as dificuldades para garantia da observância dos procedimentos mínimos de higiene e isolamento rápido dos indivíduos sintomáticos, insuficiência de equipes de saúde, entre outros, características inerentes ao "estado de coisas inconstitucional" do sistema penitenciário brasileiro reconhecido pelo Supremo Tribunal Federal na Arguição de Descumprimento de Preceito Fundamental no 347;
+ ..
+RESOLVE:
+ ..
+Art. 4º - Recomendar aos magistrados com competência para a fase de conhecimento criminal que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, considerem as seguintes medidas:
+I - a reavaliação das prisões provisórias, nos termos do art. 316, do Código de Processo Penal, priorizando-se:
+a) mulheres gestantes, lactantes, mães ou pessoas responsáveis por criança de até doze anos ou por pessoa com deficiência, assim como idosos, indígenas, pessoas com deficiência ou que se enquadrem no grupo de risco;
+b) pessoas presas em estabelecimentos penais que estejam com ocupação superior à capacidade, que não disponham de equipe de saúde lotada no estabelecimento, que estejam sob ordem de interdição, com medidas cautelares determinadas por órgão do sistema de jurisdição internacional, ou que disponham de instalações que favoreçam a propagação do novo coronavírus;
+c) prisões preventivas que tenham excedido o prazo de 90 (noventa) dias ou que estejam relacionadas a crimes praticados sem violência ou grave ameaça à pessoa;
+Assim, em sintonia com a decisão impugnada, observa-se que muito embora o paciente esteja acometido do mal de chron, nada indica que os cuidados necessários ao controle da moléstia não possam ser ministrados no estabelecimento prisional ou que sob o regime de prisão domiciliar receberia cuidados médicos diversos e mais eficazes do que aqueles efetivamente prestados pelo Estado, o que impede a subsunção do caso aos termos da Recomendação n. 62/CNJ.
+Não se verifica, portanto, ilegalidade apta a justificar a mitigação do enunciado da Súmula 691 do STF.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+A decisão agravada deve ser mantida por seus próprios fundamentos. Não obstante o paciente esteja acometido do mal de chron, nada indica que os cuidados necessários ao controle da moléstia não possam ser ministrados no estabelecimento prisional ou que sob o regime de prisão domiciliar receberia cuidados médicos diversos e mais eficazes do que aqueles efetivamente prestados pelo Estado, o que impede a subsunção do caso aos termos da Recomendação n. 62/CNJ.
+Nesse contexto:
+HABEAS CORPUS. ART. 2º, § 3º, DA LEI 12.850/13; ARTS. 155, § 4º, I, II e IV, c/c 14, II, 180, 299 e 304, TODOS DO CP. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES. INSUFICIÊNCIA.
+RECOMENDAÇÃO N. 62/2020 DO CNJ. COVID-19. NÃO COMPROVAÇÃO DE RISCO. HABEAS CORPUS DENEGADO.
+1. Válida é a prisão preventiva, quando apresentada fundamentação idônea no decreto, consubstanciada na gravidade concreta do delito, tendo em vista a participação em organização criminosa voltada à prática de crimes contra o patrimônio, em mais de um Estado da Federação, sendo destacado a reiteração delitiva da organização e o uso de documento falso pelo paciente.
+2. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+3. A Recomendação n. 62 do CNJ enseja juízo de reavaliação dos benefícios no cumprimento da pena e não conteúdo vinculante quantos às orientações. Apesar de o agravante ser portador de HIV, não ficou comprovado na origem que a saúde do paciente esteja comprometida, tampouco prova documental de que a unidade prisional não possui condições de oferecer tratamento adequado em caso de eventual necessidade, ou de implementar medidas de prevenção à Covid-19.
+4. Habeas corpus denegado.
+(HC 614.419/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/02/2021, DJe 08/02/2021)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. REGIME FECHADO. PEDIDO DE PRISÃO DOMICILIAR EM RAZÃO DA COVID-19. RECOMENDAÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. GRUPO DE RISCO. PORTADOR DE HEPATITE C. RÉU NÃO INSERIDO NA EXCEPCIONALIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Não há dúvidas de que, ante a crise de pandemia mundialmente causada pela Covid-19 e, especialmente, a iminente gravidade do quadro nacional, intervenções e atitudes mais ousadas são demandadas das autoridades públicas, inclusive do Poder Judiciário.
+2. Entretanto, tais atitudes devem ser tomadas em conformidade com a recente Recomendação n. 62/2020 do Conselho Nacional de Justiça, que orienta aos magistrados com competência para a fase de conhecimento que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, reavaliem as prisões provisórias.
+3. No caso, verificou-se que o Tribunal estadual afirmou que, até o momento, não há provas de que o agravante faça parte de grupo de risco ou não esteja recebendo o tratamento adequado. Portanto, embora possa ser portador de hepatite C, não está inserido na excepcionalidade para fazer jus ao benefício da prisão albergue domiciliar, pois não comprovou que esteja em situação de vulnerabilidade no ambiente prisional.
+4. Agravo regimental improvido.
+(AgRg no HC 603.081/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 02/02/2021, DJe 10/02/2021)
+Não se verifica, portanto, ilegalidade para justificar a mitigação do enunciado da Súmula n. 691 do STF, devendo a decisão agravada ser mantida. Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
