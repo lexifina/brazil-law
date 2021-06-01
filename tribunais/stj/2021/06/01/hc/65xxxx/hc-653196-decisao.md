@@ -1,0 +1,27 @@
+DECISÃO
+RODRIGO DE PAULO SANTOS, paciente neste habeas corpus,alega sofrer constrangimento ilegal em seu direito alocomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulona Apelação Criminal n.0001830-06.2017.8.26.0616.
+Consta dos autos que o paciente foi condenado às penas de 6 anos de reclusão, no regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, porque trazia consigo, para fins de tráfico, 5,9g de cracke 46 g de maconha.
+Irresignada, a defesa interpôs apelação criminal perante a Corte estadual, que lhe deu parcial provimento, a fim de reduzir a pena de Rodrigopara 5 anos e 6 meses de reclusão, no regime fechado.
+A defesa pleiteia, por meio deste writ, a redução da pena-base ao mínimo legal e a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, com as consequentes fixação do regime aberto e substituição da reprimenda privativa de liberdade por restritivas de direitos.
+A liminar foi indeferida.
+Instado a se manifestar, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+I. Pena-base
+O paciente teve a pena-base majorada pelos seguintes fundamentos (fl. 41, destaquei):
+Passo a dosar a pena dos réus. O réu RODRIGO DE PAULO SANTOS possui condenação por tráfico de drogas em 2016 (certidões de fls. 154/155), caracterizando reincidência e que será utilizada em segunda fase de aplicação de pena. Personalidade voltada para o crime. Nada nos autos nos dá conta de sua conduta social. Assim, diante do quadro desfavorável a pena-base deve ser fixada acima do mínimo previsto, ou seja, em 5 anos e 6 mês de reclusão e 550 dias-multa no mínimo valor legal admitido.
+Ao julgar a apelação criminal defensiva, a Corte estadual destacou o seguinte (fls. 82-83, destaquei):
+Na primeira fase, quanto ao corréu Christian, a pena-base foi fixada no mínimo e quanto ao Rodrigo, diante de sua "personalidade voltada para o crime", pois, registra condenação por fato anterior (fls. 154/155), houve um acréscimo de 1/10 acima do patamar mínimo, resultando em 05 anos e 06 meses de reclusão e 550 dias-multa.
+Em segunda fase, incidiu a agravante da reincidência em desfavor do réu Rodrigo (certidões de fls. 154/155), motivo pelo qual sua pena fora aumentada e tornada definitiva em 06 anos de reclusão e 600 dias-multa. No entanto, conformeasseverado pela Procuradoria de Justiça, verificou-se no "e-SAJ" que o feito que ensejou a reincidência somente transitou em julgado posteriormente aos fatos em apreço, ou seja, no ano de 2018. Com efeito, condenações por fatos anteriores ao apurado na ação penal sob debate, com trânsito em julgado posterior, justificam o aumento da pena-base pela valoração de maus antecedentes, mas não como reincidência, razão pela qual, de rigor a reforma da r. sentença quanto a este aspecto, retornando a reprimenda ao valor anteriormente fixado (05 anos e 06 meses e 550dias-multa).
+Ora, o entendimento firmado pelas instâncias ordinárias encontra-se em consonância pelo sedimentado nesta Corte, a qualentende que a condenação definitiva por fato anterior ao crime descrito na denúncia, mas com trânsito em julgado posterior à data do ilícito penal, ainda que não configure a agravante da reincidência, pode caracterizar maus antecedentes, pois diz respeito ao histórico do acusado. Confira-se: HC n. 145.443/DF, de minha relatoria, 6ª T., DJe 10/11/2014, e HC n. 301.637/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 15/12/2014.
+Assim, correto o recrudescimento da pena-base.
+II. Minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+O Juízo singular, ao sentenciar o feito, não reconheceu o benefício previstono art. 33, § 4º, da Lei n. 11.343/2006.
+A Corte de origem, a seu turno, preservou a não incidência do privilégio com base nos fundamentos a seguir transcritos, in verbis (fl. 83, destaquei):
+Na última fase, ausentes causas de aumento para ambos os réus. A causa de diminuição prevista no artigo 33, § 4º, da Lei nº 11.343/2006 foi concedida ao corréu Christian, no grau máximo de dois terços (2/3), mas, negada ao corréu Rodrigo, diante da condenação por crime semelhante, uma vez que, ainda que não configure reincidência, serve como prova cabal de que estava anteriormente envolvido com atividade criminosa da espécie.
+No caso, conforme visto, as instâncias ordinárias consideraram indevida a aplicação do redutor por entender não preenchidos os requisitos legais, especificamente ante a ausência de bons antecedentes do réu.
+Com efeito, reconhecidos os maus antecedentes do ora paciente, era mesmo de rigor a não aplicação do benefício. Isso porque para a aplicação da minorante em comento, são exigidos, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa e que não se dedique a atividades delituosas.
+Vale ressaltar que a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+Assim, ausente ilegalidade no não reconhecimento do tráfico privilegiado.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ,denego a ordem.
+Publique-se e intimem-se.
