@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto por OI S.A.com fundamento no art. 105, inciso III, alínea "a", da CF/1988contra acórdão do TRF da 4ªRegião assim ementado (e-STJ fl. 156):
+AGRAVO. INSUFICIÊNCIA DAS RAZÕES.
+Não é de acolher-se o agravo quando insuficientes as razões apresentadas para modificação da decisão agravada.
+No especial, a parte alega, em síntese, violação:
+a) dos arts. 165, 458 e 535 do CPC/1973, pois entende que o Tribunal de origem foi omisso sobre questão essencial ao deslinde da controvérsia, qual seja, o cabimento de honorários advocatícios sucumbenciaisindependentemente da natureza do crédito exequendo;
+b) do art. 20, § 4º, do CPC/1973 e do art. 1º-D da Lei n. 9.494/1997, ao argumento de que é necessária a fixação de honorários advocatícios nas execuções, especialmente se embargadas, mesmo que a verba em cobrança seja ressarcimento de custas processuais.Sustenta que, assim como na fase de conhecimento, a fixação dos horários advocatícios visam remunerar o trabalho e o tempo gasto na fase de execução.
+Contrarrazões apresentadas às e-STJ fls. 204/208.
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2 do Plenário do STJ).
+Considerado isso, importa mencionar que o recurso especial se origina de agravo de instrumento interposto pela OI S.A. contra decisão judicial que, nos autos de execução de sentença contra a FAZENDA NACIONAL, indeferiu o pedido de fixação de honorários advocatícios.
+O Tribunal de origem negou provimento ao agravo de instrumento. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 154/):
+Segue transcrita a decisão monocrática objeto do presente agravo legal:
+Trata-se de agravo de instrumento interposto por Oi S. A. contra decisão da MM. Juíza Federal Substituta Elisângela Simon Caureo, da 14" Vara Federal de Porto Alegre -RS, que, nos autos da Execução de Sentença contra Fazenda Pública e 5036209-46.2015.4.04.7100/RS, indeferiu o pedido de fixação de honorários advocatícios, a pretexto de que descabe a fixação de honorários advocatícios sobre o valor cobrado a título de custas judiciais, uma vez que se trata de mero reembolso, pela parte sucumbente, da quantia adiantada pela parte exequente (evento 4 do processo originário).
+Sustenta a parte agravante, em síntese, que é legítima a fixação de honorários advocatícios em execuções de créditos de pequeno valor, ainda que não embargadas, sendo irrelevante a natureza do crédito executado. Requer a reforma da decisão agravada para que sejam fixados honorários advocatícios no processo executivo.
+É o relatório.
+Tudo bem visto e examinado, passo a decidir.
+Esta 2ªTurma vem reconhecendo ser incabível a fixação de honorários advocatícios em execução de sentença contra a fazenda pública que tenha por objeto custas judiciais, por se tratar de mero reembolso, pela parte sucumbente, da quantia adiantada pela parte exequente. Como exemplo dessa orientação, confira-se o seguinte julgado:
+AGRAVO CONTRA DECISÃO QUE NEGOU SEGUIMENTO AO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE.
+A fixação de honorários advocatícios na execução de sentença cujo objeto é exatamente a verba honorária não encontra amparo na jurisprudência desta Corte. Independentemente de a execução submeter-se à sistemática de pagamento por meio deRPV ou precatório, embargada ou não, o incabimento da fixação da verba honorárias e dá exclusiva e principalmente em função da natureza do crédito executado(honorários advocatícios).
+Também é indevida a fixação de honorários advocatícios em execução de custas judiciais, pois se trata de mero reembolso pela parte sucumbente da quantia adiantada pela parte exequente.(TRF4, Agravo legal emAI5017673-44.2015.4.04.0000/PR, 2ªTurma, julgado em 23-06-2015) (grifei)
+Ante o exposto, nego seguimento ao agravo de instrumento, por estar em manifesto contraste com a jurisprudência dominante deste Tribunal, o que faço com base no caput do art. 557 do Código de Processo Civil.
+Não vislumbro, pois, motivos para modificar o entendimento anteriormente exarado, pelo que mantenho a decisão por seus próprios fundamentos.
+Os embargos de declaração apresentados foram rejeitados.
+Pois bem.
+Feita tal anotação, impõe-se afastar, desde logo, a indigitada ofensa aos arts. 165, 458 e 535 do CPC/1973, visto que o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, qualquer contrariedade à norma invocada.
+Ademais, consoante entendimento jurisprudencial pacífico, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa.
+Nesse sentido: AgRg no AREsp 750650/RJ, Relator Ministro Humberto Martins, Segunda Turma, DJe 30/9/2015 e AgRg no AREsp 493652/RJ, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 20/6/2014.
+Quanto ao mérito, assiste razão ao recorrente, porquanto o acórdão regional foi proferido em dissonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qual são cabíveis honorários advocatícios na execução contra a Fazenda Pública quando o débito a ser pago é de pequeno valor (sujeito à RPV). A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. OMISSÕES NO JULGADO. ALEGAÇÕES DEFICIENTES. SÚMULA 284/STF. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CRÉDITOS DE HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO DE VERBA IDÊNTICA NESSA NOVA FASE. POSSIBILIDADE. QUANTIA SUJEITA AO REGIME DA REQUISIÇÃO DE PEQUENO VALOR - RPV.
+1. É deficiente a alegação genérica de violação do art. 535, I e II, do CPC/1973, configurada quando o jurisdicionado não expõe objetivamente os pontos supostamente omitidos pelo Tribunal local e não comprova ter questionado as apontadas falhas nos embargos de declaração. Incidência da Súmula 284/STF.
+2. Não é possível o arbitramento de honorários advocatícios em duplicidade, em favor do advogado da mesma parte, dentro da mesma fase processual. Contudo, admite-se a fixação da verba em execução de sentença que tenha por objeto crédito da mesma natureza, estabelecido em processo de conhecimento, porquanto não configurada a hipótese de bis in idem. Precedentes.
+3. De acordo com a jurisprudência desta Corte Superior, são devidos honorários advocatícios nas execuções contra a Fazenda Pública, ainda que não embargadas, quando o crédito está sujeito ao regime da Requisição de Pequeno Valor - RPV.
+4. Recurso especial conhecido em parte e, nessa extensão, provido. (REsp 1.548.485/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 03/04/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. RECURSO ESPECIAL PROVIDO. ART. 1º-D DA LEI N. 9.494/97. EXECUÇÃO NÃO EMBARGADA CONTRA A FAZENDA PÚBLICA. PAGAMENTO POR RPV. HONORÁRIOS. CABIMENTO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Acerca da incidência de verba honorária na execução contra a FazendaPública, o Pleno do Pretório Excelso declarou a constitucionalidade, com interpretação conforme ao art. 1º-D da Lei n. 9.494/97, na redação que lhe foi dada pela Medida Provisória 2.180-35/01, de modo a reduzir-lhe a aplicação à hipótese de execução por quantia certa contra a Fazenda Pública (art. 730 do CPC), excluídos os casos de pagamento de obrigações definidos em lei como de pequeno valor (art. 100, § 3º, da CF).
+III - O Superior Tribunal de Justiça tem orientação pacificada segundo a qual são devidos honorários advocatícios nas execuções contra a Fazenda Pública, ainda que não embargadas, cujo pagamento é feito por meio de Requisição de Pequeno Valor - RPV.
+IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido.
+(AgInt no REsp 1.547.254/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, Dje 24/05/2017).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para condenar aexecutada, ora recorrida, ao pagamento de honorários fixados em 10% sobre o valor da execução.
+Publique-se. Intimem-se.
