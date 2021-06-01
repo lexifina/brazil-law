@@ -1,0 +1,15 @@
+DECISÃO
+PROCESSO  CIVIL  E  ADMINISTRATIVO.  RECURSO  ESPECIAL.  HONORÁRIOS  ADVOCATÍCIOS.  FAZENDA  PÚBLICA.  CONDENAÇÃO EM HONORÁRIOS. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF.  RECURSO  ESPECIAL  DO  ESTADO  DO  RIO  DE  JANEIRO  NÃO CONHECIDO.
+1.  Trata-se  de  Recurso  Especial  interposto  pelo  ESTADO  DO  RIO  DE  JANEIRO,  com  fundamento  na  alínea  a  do  art.  105,  III,  da  Carta  Magna,  no  qual  se  insurge  contra  acórdão  proferido  pelo  TJRJ,  assim  ementado:
+Multiplicidade  de  recursos  extraordinários.  Repercussão  geral  (STF).  Matéria  repetitiva.  Sobrestamento.  Autos  baixados  a  esta  câmara  para  reexame  do  acórdão  recorrido,  por  divergir  da  orientação  do  STF,  na  forma  do  art.  1.030,  II,  do  CPC/2015.  Servidores  do  Poder  Judiciário  estadual.  Pretensão  de  pagamento  de  diferença  remuneratória.  24%.  Mudança  de  entendimento  do  STF  sobre  o  caso  em  tela.  Aplicação,  em  sede  de  repercussão  geral  (AgRE  909.437/RJ,  pub.  em  11.10.2016),  da  Súmula  339/STF  e  da  Súmula  Vinculante  37  para  rechaçar  a  pretensão.  Vinculação  dos  Tribunais  infraconstitucionais  (artigos  927,  III,  e  1.040,  II,do  CPC/2015).  Retratação  do  julgado  para  dar  provimento  ao  apelo  do  ente  estadual  e  julgar  improcedente  o  pedido  inicial,  prejudicando-se  o  recurso  da  parte  autora  (fls.  674).
+2.  Nas  razões  do  Recurso  Especial,  aponta  violação  dos  arts.  20,  §  3o .  e  4o.,  do  CPC/1973 e 85, caput e § 10, do CPC/2015,  ao  argumento  de  que  tendo  os  autores  assumido  os  riscos  inerentes  à  provocação  da  atividade  jurisdicional,  deverão  arcar  com  os  ônus  sucumbenciais,  na  forma  preconizada  pelo  art.  20,  caput,  do  CPC/1973,  correspondente  ao  art.  85,  caput,  do  CPC/2015,  o  qual  é  muito  claro  ao  dispor  que  caberá  ao  vencido  (in  casu,  a  parte  autora)  a  pagar  os  honorários  advocatícios  ao  vencedor  (fls.  783).
+3.  É  o  relatório.
+4. O recurso não merece prosperar.
+5.  Na espécie,  o  Tribunal a quodeterminou a inversão da sucumbência, nos seguintes termos:
+Portanto, o recurso do Estado do Rio de Janeiro deve ser provido para julgar improcedente o pedido autoral.
+Como corolário lógico, impõe-se a inversão dos ônus sucumbenciais, para condenar os autores ao pagamento das despesas processuais e dos honorários sucumbenciais, os quais ora se fixa em R$500,00 (quinhentos reais).
+Porém, a exigibilidade deverá ficará suspensa na forma do disposto no art.98 do CPC, em razão da concessão da gratuidade de justiça que ora se faz, de ofício, aos autores (fls. 717).
+6. Observo que o recurso especial não combate o fundamento acima colacionado, o qual é suficiente, por si só, à manutenção do julgado. Inafastável, assim, a incidência da Súmula 283/STF, por analogia, segundo a qual é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+7. Ante o exposto, não conheço do Recurso Especial do Estado do Rio de Janeiro.
+
+8.  Publique-se. Intimações  necessárias.
