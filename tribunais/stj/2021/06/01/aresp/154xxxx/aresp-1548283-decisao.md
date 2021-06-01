@@ -1,0 +1,40 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto por Sobremetal Recuperação de Metais Ltda., com amparo no art. 105, III, "a", da CF/1988, em oposição a acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado(e-STJ, fl. 168):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - ISSQN - Exercícios de 2009, 2010 e 2012 a 2014 - Taxa de licença - Exercícios de 2014 e 2015 - Decadência - Inocorrência - Inteligência do art. 173, I do Código Tributário Nacional - Ajuizamento em 08.06.2016 - Prescrição Inocorrência - Nulidade da CDA - Inocorrência - Decisão mantida - Recurso improvido.
+Alega a agravante, nas razões do especial, violação dos arts. 489,§ 1º, IV, e1.022, I e II, do CPC/2015, por entender que há omissão acerca dos arts. 5º,XXXIV, XXXV, LV e LVI, da CF/1988,202, III, e 203 do CTN;bem como dos arts. 2º, § 5º, III, da Lei n. 6.830/1980 e 173 do CTN.
+Alega que os arts.202, III, e 203 do CTN, bem como o art. 2º, § 5º, III, da Lei n. 6.830/1980 foram ofendidos, pois a CDA é nula.
+Defende, também, que se negou vigência aoart. 142 do CTN, por ausência de lançamento de ofício, e aos arts.150, § 4º, 156,V, 173,I, e 174 do mesmo diploma legal, por entender que se operou a decadência.
+Por fim, alega haver divergência jurisprudencial.
+A negativa de admissibilidade teve por fundamento a ausência de omissão e a Súmula 7/STJ.
+Impugnados os pressupostos da decisão agravada, passo à análise do recurso especial.
+É o relatório.
+Registro, desde logo, que não merece prosperar a tese de violação do art. 1.022 do CPC/2015, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão nemoutra causa passível de exame mediante a oposição de embargos de declaração.
+No ponto:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.ENUNCIADO ADMINISTRATIVO 03/STJ. VIOLAÇÃO DO ARTIGO 1022 DO CPC/2015. NÃO OCORRÊNCIA. PEDIDO DE COMPENSAÇÃO. CONCESSÃO DE LIMINAR EM AÇÃO JUDICIAL. NÃO VEDAÇÃO DE ATUAÇÃO DO FISCO.DECADÊNCIA DE CRÉDITO TRIBUTÁRIO. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+2. O prazo para o Fisco efetuar o lançamento é dotado de natureza decadencial e, portanto, não está sujeito a qualquer hipótese de suspensão ou interrupção, este transcorre ininterruptamente, independentemente da existência de qualquer depósito ou mesmo de decisão judicial favorável ao contribuinte.
+3. Agravo interno não provido.
+(AgInt no REsp 1.832.770/AL, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/8/2020, DJe 3/9/2020).
+Quanto à nulidade da execução, o Tribunal de origem afirmou que estão presentes os seus requisitos de validade, pelo que a análise da pretensão recursal esbarra no óbice da Súmula 7/STJ. Confira-se (e-STJ, fl. 171):
+Com isso, tendo as CDA"spresunção de validade e de veracidade de seu conteúdo, preenchendo os requisitos legais, não há que se falar em nulidade e nem mesmo em cerceamento de defesa.
+Sobre o tema:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.ENUNCIADO ADMINISTRATIVO N. 3/STJ. OFENSA AO ARTIGO 489, § 1º, INCISOS I, III E IV. NÃO CARACTERIZAÇÃO. FUNDAMENTAÇÃO PER RELATIONEM. POSSIBILIDADE. PRECEDENTE. IMPOSIÇÃO DE MULTA PROTELATÓRIA DO ARTIGO 1.026, § 2º, DO CPC/2015. REEXAME DOS FATOS E PROVAS. SÚMULA 7/STJ. COMPENSAÇÃO TRIBUTÁRIA ALEGADA EM EMBARGOS À EXECUÇÃO, NÃO HOMOLOGADA PELA ADMINISTRAÇÃO FAZENDÁRIA. INVIABILIDADE DE ANÁLISE. PRECEDENTE DA SEÇÃO. TESE DE COMPENSAÇÃO MATERIAL PREJUDICADA. NULIDADE DA EXECUÇÃO FISCAL EM FACE DA SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. TRIBUTOS DISTINTOS. AUSÊNCIA DOS PRESSUPOSTOS DO ARTIGO 151 DO CTN RECONHECIDOS PELO TRIBUNAL DE ORIGEM. TESES COM ÓBICES PROCESSUAIS PELO TEOR DA SÚMULA 7/STJ. MULTA PROCESSUAL APLICADA NA ORIGEM.INTERPRETAÇÃO DO ARTIGO 1.026, § 2º, DO CPC/2015. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ .. .
+4. Consoante as provas acostados aos autos, não remanesce amparo a pretensão do contribuinte, porquanto a tese de nulidade da certidão de dívida ativa, bem como da execução fiscal em razão da suspensão da exigibilidade do crédito tributário relativo à CPMF, por te sido apresentado recurso administrativo, não procede ante ao fato de inexistir causa de suspensão de exigibilidade do crédito fiscal, como apurado pelo Tribunal de origem no trecho transcrito e sobretudo, porque o crédito executado não se refere ao crédito cedido à recorrente. Logo, alterar ou modificar o entendimento da Corte de origem, no sentido da higidez da Certidão da Dívida Ativa - CDA, bem como da presença dos requisitos essenciais à sua validade, demandaria, necessariamente, o reexame do contexto fático-probatório dos autos, inviável, em sede do Recurso Especial, em face do óbice da Súmula 7 do STJ.
+5. Agravo Interno não provido.
+(AgInt no REsp 1.884.188/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 12/4/2021, DJe 15/4/2021).
+Outrossim, o Tribunal informa que não constam dos autos parcelas ou datas de vencimento. Tal situação inviabiliza, de pronto, a análise da matéria por meio de exceção de pré-executividade em face da vedação da Súmula 7/STJ.
+A propósito:
+TRIBUTÁRIO. ICMS. EXECUÇÃO FISCAL. A EXCEÇÃO DE PRÉ-EXECUTIVIDADE SOMENTE É CABÍVEL QUANDO AS PROVAS PRÉ-CONSTITUÍDAS FORAM DEMONSTRADAS À SACIEDADE. ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO: RESP N. 1.104.900/ES, REL. MIN. DENISE ARRUDA, DJE 1o.4.2009. SÚMULA N. 393/STJ. OBJEÇÃO INDEFERIDA PELAS INSTÂNCIAS ORDINÁRIAS ANTE A NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE DE REEXAME. SÚMULA N. 7/STJ.
+I - Na origem, trata-se de agravo de instrumento contra decisão que rejeitou exceção de pré-executividade. Afastou-se a alegação de prescrição considerando-se a necessidade de dilação probatória. No Tribunal a quo, negou-se provimento ao agravo de instrumento.
+II - A Primeira Seção do Superior Tribunal de Justiça, por ocasião do julgamento do REsp n. 1.104.900/ES, Rel. Min. Denise Arruda (DJe 1o.4.2009), sob a sistemática do art. 543-C do CPC/1973, consagrou entendimento de que exceção de pré-executividade somente é cabível nas situações em que não se faz necessária dilação probatória ou em que as questões possam ser conhecidas de ofício pelo magistrado.
+Incidência do Enunciado n. 393 da Súmula do STJ.
+III - A reforma do entendimento exarado pelo Tribunal de origem, no tocante à necessidade de dilação probatória para o conhecimento da exceção de pré-executividade em que se pretende o reconhecimento da nulidade da CDA, ou da ocorrência de prescrição, é inviável em recurso especial, porquanto, tal como expressamente consignado no acórdão recorrido, o acolhimento do pedido da recorrente somente seria viável mediante investigação probatória, incabível diante da incidência do Enunciado n. 7 da Súmula do STJ.
+IV - Ressalte-se ainda que a incidência do Enunciado n. 7 quanto à interposição pela alínea a impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos.
+V - Verificada a inviabilidade do recurso, é de ser revogado o efeito suspensivo.
+VI - Recurso especial não conhecido, revogado o efeito suspensivo.
+(REsp 1.690.486/GO, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 14/5/2019, DJe 21/5/2019).
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
