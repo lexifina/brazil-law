@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino (Presidente), Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PRESCRIÇÃO INTERCORRENTE ACOLHIDA EM SEGUNDO GRAU. HONORÁRIOS SUCUMBENCIAIS EM FAVOR DO ADVOGADO DA PARTE EXECUTADA. DESCABIMENTO. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. SÚMULA Nº 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2.As Turmas que compõem a Segunda Seção desta Corte firmaram entendimento no sentido de que, na hipótese de extinção do processo pelo reconhecimento da prescrição intercorrente, é incabível, à luz do princípio da causalidade, a fixação de verba honorária em favor do executado, responsável pela instauração do processo em seu desfavor. Incidência da Súmula nº 83 do STJ.
+3.Agravo interno não provido.
+RELATÓRIO
+Da leitura da minuta do agravo de instrumento que deu ensejo a interposição do presente recurso, pode-se aferir que ALIS ANTONIO DA SILVA SANTOS (ALIS) ingressou com ação de execução por título extrajudicial contra DIANA WEILER DA LUZ (DIANA), buscando o cumprimento de obrigação constante de contrato de locação firmado entre as partes, pelo valor de R$ 8.604,79 (oito mil, seiscentos e quatro reais e setenta e nove centavos).
+Citada,DIANA opôs exceção de pré-executividade que foi rejeitada pelo d. Juízo de primeira instância.
+Contra essa decisão interlocutória,DIANA manejou agravo de instrumento alegando a ocorrência de prescrição intercorrente.
+O Tribunal de Justiça do Paraná deu provimento ao agravo, nos termos do acórdãoassim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE LOCAÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO. REGRA DE TRANSIÇÃO ART. 2.028/CC/2002. PRAZO QUINQUENAL. ART 178, § 10, IV, CC/1916. AUSÊNCIA DE PARALISAÇÃO DO FEITO PELO LAPSO TEMPORAL PREVISTO EM LEI. PRESCRIÇÃO INTERCORRENTE NÃO VERIFICADA. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. MATÉRIA SUSCETÍVEL DE ARGUIÇÃO EM QUALQUER GRAU DE JURISDIÇÃO. EXECUÇÃO AJUIZADA DENTRO DO PRAZO. CITAÇÃO VÁLIDA PERFECTIBILIZADA APÓS NOVE ANOS. DEMORA IMPUTÁVEL EXCLUSIVAMENTE AO EXEQUENTE. INAPLICABILIDADE DA SÚMULA 106, DO STJ. PRESCRIÇÃO CONFIGURADA. EXTINÇÃO DA EXECUÇÃO. ÔNUS DE SUCUMBÊNCIA ATRIBUÍDO À EXECUTADA. PRINCÍPIO DA CAUSALIDADE. DECISÃO REFORMADA.
+1. Em execução de título extrajudicial, decorrente de obrigação assumida em contrato de locação, nos termos da regra de transição prevista no art. 2.028, do CC/2002, quando já decorrido mais da metade do prazo previsto até a entrada do novo regramento civil, o prazo de prescrição deve ser aplicado em conformidade com o fixado na lei anterior, verificando-se em 5 (cinco) anos, nos termos do art. 178, § 10, inciso IV, do Código Civil de 1916.
+2. Proposta a ação e não tendo havido a paralisação do feito pelo lapso temporal exigido pela lei (art. 178, § 10, inciso IV/CC/16), não se verifica a prescrição intercorrente.
+3. Ainda que não alegado em primeiro grau, é cabível o conhecimento da arguição de prescrição da pretensão executiva anteriormente à citação no agravo de instrumento (art. 193/CC).
+4. A citação ocorrida vários anos após o ajuizamento da execução, muito tempo após o escoamento do prazo legal, por desídia do exequente não tem o condão de retroagir à data da propositura do feito, como causa interruptiva da prescrição (art. 219, §§ 1º, 2º e 3º). Decorrido o prazo quinquenal da data do vencimento da dívida exequenda, até a perfectibilização da citação válida, cuja demora é atribuída exclusivamente ao exequenteverifica-se a ocorrência da prescrição da pretensão executiva (art. 178, § 10, inciso IV/CC/16), impondo-se a extinção da execução na forma do artigo 487, II, do Código de Processo Civil.
+4. A extinção da execução em decorrência do reconhecimento da prescrição superveniente, implica na responsabilidade da parte executada pelo pagamento das custas processuais e honorários advocatícios a favor da parte exequente, porque seu inadimplemento deu causa ao ajuizamento da ação, por aplicação do princípio da causalidade.
+5. Agravo de Instrumento à que se dá provimento, extinguindo-se a execução (art. 487, inciso II/CPC)  e-STJ, fls. 55/56 .
+Inconformada, DIANA manejou recurso especial com base no art. 105, III, a e c, da CF, alegando a violação do art. 85, § 2º, do NCPC, ao sustentar que (1)em decorrência da extinção do processo de execução pelo reconhecimento da prescrição intercorrente, os ônus sucumbenciais devem ser carreados ao exequente; e (2) demonstrou a divergência jurisprudencial.
+Não houve o oferecimento de contrarrazões (e-STJ, fl. 107).
+O apelo nobre não foi admitido pelo Tribunal estadual em virtude da incidência da Súmula nº 7 do STJ (e-STJ, fls. 110/113).
+Seguiu-se o agravo em recurso especial interposto por DIANA que, em decisão do Ministro Presidente desta Corte, foi conhecido para não conhecer do recurso especial, com amparo no art. 21-E, V, do RISTJ, diante da incidência da Súmula nº 7 do STJ (e-STJ, fls. 146/149).
+Nas razões do presente agravo interno, DIANA reiterou a argumentação deduzida no apelo extremo, assinalando que a solução da questão controvertida independe do reexame de provas.
+Não foi apresentada impugnação (e-STJ, fl. 160).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PRESCRIÇÃO INTERCORRENTE ACOLHIDA EM SEGUNDO GRAU. HONORÁRIOS SUCUMBENCIAIS EM FAVOR DO ADVOGADO DA PARTE EXECUTADA. DESCABIMENTO. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. SÚMULA Nº 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2.As Turmas que compõem a Segunda Seção desta Corte firmaram entendimento no sentido de que, na hipótese de extinção do processo pelo reconhecimento da prescrição intercorrente, é incabível, à luz do princípio da causalidade, a fixação de verba honorária em favor do executado, responsável pela instauração do processo em seu desfavor. Incidência da Súmula nº 83 do STJ.
+3.Agravo interno não provido.
+VOTO
+O recurso não merece ser provido.
+De plano, vale pontuar que a disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Embora DIANA tenha razão ao sustentar que a solução da questão controvertida independe do reexame de provas, o que afasta a aplicação da Súmula nº 7 do STJ à hipótese, em relação ao mérito o inconformismo não deve ser acolhido, por estar o acórdão recorrido alinhado com a jurisprudência desta Corte sobre a matéria.
+As Turmas que compõem a Segunda Seção desta Casa firmaram entendimento no sentido de que, na hipótese de extinção do processo pelo reconhecimento da prescrição intercorrente, é incabível, à luz do princípio da causalidade, a fixação de verba honorária em favor do executado, responsável pela instauração do processo em seu desfavor.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MONITÓRIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE RESISTÊNCIA. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. PRECEDENTES. RAZÕES DO AGRAVO INTERNO QUE, ADEMAIS, NÃO DEMONSTRAM O AFASTAMENTO DA APLICAÇÃO DOS PRECEDENTES DESTA CORTE SUPERIOR.
+1. A extinção do feito por ocorrência da prescrição intercorrente por ausência de localização de bens não retira o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para o exequente. Precedentes.
+2. Razões de recurso que, ademais, não se orientam em afastar a aplicação dos precedentes citados na decisão recorrida.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.355.818/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 30/3/2020, DJe 2/4/2020)
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL (CPC/15). ART. 85 DO CPC. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS EM FAVOR DO ADVOGADO DA PARTE EXECUTADA. DESCABIMENTO. PRINCÍPIO DA CAUSALIDADE. PRECEDENTES DO STJ.
+1. Ação de execução de título executivo extrajudicial proposta contra o cliente do advogado que recorre em nome próprio.
+2. Controvérsia em torno da possibilidade de condenação da parte exequente ao pagamento de honorários advocatícios sucumbenciais no caso de extinção do processo de execução pela prescrição intercorrente.
+3. Apesar da dicção do art. 85 do CPC, nem sempre o "vencedor" e o "vencido" são, respectivamente, os únicos sujeitos passíveis de serem credores e devedores de honorários advocatícios sucumbenciais.
+4. Há situações em que, mesmo não sucumbindo no plano do direito material, a parte vitoriosa é considerada como geradora das causas que produziram o processo e todas as despesas a ele inerentes.
+5. "O princípio da causalidade não se contrapõe ao princípio da sucumbência. Antes, é este um dos elementos norteadores daquele, pois, de ordinário, o sucumbente é considerado responsável pela instauração do processo e, assim, condenado nas despesas processuais. O princípio da sucumbência, contudo, cede lugar quando, embora vencedora, a parte deu causa à instauração da lide" (REsp 303.597/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 17/04/2001, REPDJ 25/06/2001, p. 174, DJ 11/06/2001, p. 209).
+6. Caso concreto em que a prescrição intercorrente por ausência de localização de bens não afasta o princípio da causalidade em desfavor da parte executada, nem atrai a sucumbência para a parte exequente.
+(REsp 1.835.174/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, DJe 11/11/2019)
+Incide, à hipótese, portanto, a Súmula nº 83 do STJ.
+Logo, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pelo Tribunal estadual, o presente agravo interno não se revela apto a viabilizar o acolhimento da tese veiculada no recurso especial.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
