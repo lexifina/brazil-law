@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO INTERNO CONTRA DECISÃO MONOCRÁTICA. APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES. IMÓVEL. ATRASO NA ENTREGA. CLÁUSULA PENAL COMPENSATÓRIA. REDUÇÃO INCABÍVEL. CULPA EXCLUSIVA DA CONSTRUTORA. JUROS MORATÓRIOS. CITAÇÃO. MONTANTE PAGO. MULTA. ART. 1.021, § 4º, DO CPC. NÃO APLICÁVEL. 1. A resolução do contrato de promessa de compra e venda de imóvel por culpa (ou por pedido imotivado) do consumidor gera o direito de retenção, pelo fornecedor, de parte do valor pago, como forma de indenizá-lo pelos prejuízos suportados, especialmente as despesas administrativas realizadas com a divulgação, comercialização e corretagem, além do pagamento de tributos e taxas incidentes sobre o imóvel. II. No entanto, tendo a rescisão sido motivada por culpa da construtora, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador, integralmente, nos termos da Súmula nº 543, do STJ. III. Em razão da rescisão contratual decorrer da demora da construtora em entregar o imóvel, descumprindo com obrigação contratual, deve incidir os juros de mora a partir da citação. IV. Inexistindo fundamento ou fato novo capaz de conduzir o julgador à nova convicção, nega-se provimento ao Agravo Interno. V. A aplicação da multa prevista no artigo 1.021, § 4º, do CPC não é automática, ficando condicionada à manifesta inadmissibilidade ou que a improcedência seja de tal forma que resta evidente que a interposição do recurso revela- se, de plano, como abusivo ou protelatório, o que não é o caso dos autos, conforme orientação da Segunda Secção do Superior Tribunal de Justiça. VI. Demais disso, a Corte Superior, em sede de recursos repetitivos (REsp nº 1198108), sob a égide do Código de 1973, já havia assentado o entendimento de que o Agravo Interno interposto contra a decisão monocrática com objetivo de exaurir a instância recursal, a fim de permitir a interposição de recurso à instância superior, não é manifestamente inadmissível ou infundado, o que afasta também a aplicação de multa. AGRAVO INTERNO CONHECIDO, MAS IMPROVIDO.
+Nas razões do especial, aponta a agravante existência de dissídio jurisprudencial, além de violação do artigo 85 do Código de Processo Civil.
+Afirma que diante da desistência do comprador não há como ocorrer a devolução integral dos valores pagos, em obediência à cláusula contratual de retenção de parte da quantia adimplida.
+Defende que os juros moratórios incidam a partir do trânsito em julgado do processo.
+Requer a inversão do ônus sucumbencial, haja vista a parte adversa ser quem deu causa à propositura da demanda.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+De início, apesar de, também, manejado sob o argumento da existência de divergência entre entendimentos de Tribunais distintos, nas razões do recurso especial, não houve indicação de quais dispositivos infraconstitucionais teriam sido violados pelo acórdão local quanto à retenção de parte dos valores pagos e o termo inicial dos juros de mora, ressaltando-se que na instância ordinária não se aplica o brocardo jura novit curia, de modo que incide o verbete n. 284, do STF.
+De igual teor:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284/STF. DANOS MORAIS. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+2. (..)
+3. (..)
+4. Agravo interno a que nega provimento.
+(AgInt no AREsp 1126226/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 30/10/2017)
+Ademais, mesmo que superado o óbice de admissibilidade, a tese do recurso especial não prosperaria, em razão da conclusão da Câmara revisora que determinou a incidência dos juros de mora desde a citação, seguindo orientação jurisprudencial desta Corte Superior, incidindo a Súmula 83/STJ.
+Acrescento que, para concluir em sentido diverso do que consta do acórdão acerca da responsabilidade das partes, há o obstáculo do enunciado 7 da Súmula desta Corte, que veda o reexame dos elementos fáticos da demanda.
+Por fim, no que se refere à inversão do ônus sucumbencial, tal tema não foi debatido na origem, estando ausente, portanto, o requisito indispensável do prequestionamento, exigido, inclusive, para as matérias de ordem pública. Incidem, na hipótese, as Súmulas n. 282 e 356 do STF.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APONTADA OMISSÃO DO ACÓRDÃO EMBARGADO. VERIFICADA FALTA DE APRECIAÇÃO DA ALEGAÇÃO RELATIVA AO EFEITO TRANSLATIVO DO RECURSO ESPECIAL. COISA JULGADA. QUESTÃO DE ORDEM PÚBLICA. NECESSIDADE DE PREQUESTIONAMENTO.
+1. A jurisprudência desta Corte é firme no sentido de que, na instância especial, é vedado o exame ex officio de questão não debatida na origem, ainda que se trate de matéria de ordem pública.
+2. Não tendo sido discutida nas instâncias ordinárias a questão da prescrição, é inviável sua apreciação nesta instância. Incidem no caso as Súmulas 282 e 356/STF.
+3. Embargos de declaração parcialmente acolhidos.
+(EDcl no AgRg no REsp 948.003/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 3/12/2013)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
