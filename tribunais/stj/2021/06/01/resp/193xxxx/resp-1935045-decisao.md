@@ -1,0 +1,65 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por MARIÂNGELA FERREIRA MANTOVANI e OUTROS contra acórdão prolatado, por unanimidade, pela 6ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo no julgamento de Apelação, assim ementado (fl. 1.058e):
+APELAÇÃO  Indenização - Responsabilidade civil  Pedido de reparação por danos patrimoniais e extrapatrimoniais decorrentes de desalojamento das autoras de sua casa, em virtude de demolição, sem o pagamento prévio da justa indenização pela desapropriação e antes do deferimento judicial da imissão na posse - Responsabilidade civil estatal objetiva configurada  Fatos incontroversos Conduta ilegal, danos e nexo causal direto e imediato constatados  Danos materiais e morais configurados  Quantum fixado a título de danos morais que não observou a razoabilidade e a proporcionalidade  Minoração que se impõe  Reforma parcial da r. sentença  Recurso parcialmente provido.
+Opostos embargos de declaração, foram rejeitados (fls. 1.082/1.089e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 186, 927, caput e parágrafo único, e 944 do Código Civil, alegando-se, em síntese, a necessidade de majoração do valor fixado a título de indenização por danos morais, em razão da violação ao princípio da proporcionalidade, haja vista o imenso sofrimento causado às Recorrentes.
+Sem contrarrazões (fl. 1.114e), o recurso foi inadmitido (fl. 1.116e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 1.166e).
+O Ministério Público Federal manifestou-se às fls. 1.178/1.184e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Na origem, foi ajuizada ação buscando a reparação por danos materiais e morais em face do Departamento de Estradas e Rodagem do Estado de São Paulo.
+Os Autores narram ter sido surpreendidas com a demolição do imóvel onde residiam, sem a observância do devido processo legal.
+Relatam que foram retirados às pressas da residência, durante a destruição da casa e de seus utensílios com maquinário pesado, causando-lhes forte abalo emocional.
+Destacam, ainda, a ausência de pagamento de indenização prévia ao longo do procedimento de desapropriação instaurado e a falta de autorização judicial para imissão na posse.
+O juízo de primeiro grau deu parcial provimento aos pedidos formulados, condenando a Ré ao ressarcimento dos prejuízos materiais e ao pagamento de indenização por danos morais no valor de 100 (cem) salários mínimos para cada vítima.
+O tribunal de origem, no julgamento de Apelação, reduziu o montante fixado a título de indenização por danos morais para R$ 20.000,00 (vinte mil reais) para cada Autora.
+Interposto Recurso Especial por Mariângela Ferreira Mantovani e Outros, passo à sua análise.
+Em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir o acórdão recorrido, no qual foi mantido o montante arbitrado a título de danos morais, consoante trecho que ora transcrevo (fls. 1.061/1.070e):
+Narra a inicial que as autoras, residentes do imóvel localizado na Rua Arizona, n. 100, conviveram durante duas décadas com a desapropriação do mesmo, sempre na expectativa se serem indenizadas de forma justa.
+No entanto, em 13 de março de 1996, foram surpreendidas com uma ordem de desocupação dada às pressas, por funcionários da obra que se realizava há tempos nos arredores do seu imóvel.
+Com isso, viram-se obrigadas a colocar todos os seus bens móveis, de forma abarrotada, numa pequena edícula, úmida e com vazamentos.
+Aduzem que foram obrigadas (avó, mãe e duas filhas menores) a se separar temporariamente, urna permanecendo morando na edícula, outra sendo internada às pressas num hospital e outras duas indo morar com uma tia, para, somente algum tempo depois, conseguirem novamente se reunir, indo morar numa casa alugada e sem contar com assistência de quem quer que fosse.
+No processo de desapropriação, promovido pelo réu, não havia sido deferida a imissão na posse, motivo pelo qual não poderia ter ocorrido a demolição da casa.
+A despeito disso, o bem constou expressamente da relação que integrou um contrato celebrado entre o DER e a Municipalidade de São Paulo, por meio do qual aquele cedeu a esta vários imóveis para fins de construção da Avenida Águas Espraiadas.
+Diante destes fatos, ajuizaram a presente ação indenizatória, buscando a condenação do pagamento de indenização por danos materiais (bens móveis perdidos e deteriorados que guarneciam a residência, despesas médicas, locomoção e aluguéis dispendidos) e morais experimentados.
+(..)
+Os fatos narrados tornaram-se incontroversos, uma vez que não foram especificadamente impugnados pelo réu.
+Verifica-se que efetivamente houve a demolição do imóvel antes do deferimento judicial da imissão provisória na posse em favor do réu, nos autos da ação de desapropriação.
+E, mesmo diante da ausência de imissão na posse, o réu cedeu o imóvel, que ainda não lhe pertencia, ao Município de São Paulo, para o fim da construção de uma avenida (fls. 302/306).
+(..)
+E, in casu, as autoras se desincumbiram de seu ônus probatório, uma vez que comprovaram a conduta ilícita do réu, a qual consistiu na cessão de imóvel, que não lhe pertencia, a terceiro, antes mesmo do deferimento da imissão na posse.
+Em virtude desta cessão, o terceiro (Município de São Paulo) deu prosseguimento às obras públicas, desalojando as autoras de sua residência às pressas, o que lhes gerou danos materiais e morais.
+Por esta razão, a conduta do réu se mostrou ilegal e direta e imediatamente responsável pela causação do evento danoso, considerando que, se não tivesse cedido o imóvel, que ainda não lhe pertencia, não seria possível o município prosseguir com as obras naquele local e, assim, demolir de forma ilegítima o bem.
+(..)
+Outrossim, a prova testemunhal não deixa dúvidas a respeito da responsabilidade civil do DER, conforme bem apontou o juiz sentenciaste:
+(..)
+O caso em tela, todavia, não se tratou de mero aborrecimento cotidiano, restando evidente o sofrimento, a humilhação, o sentimento de impotência e a revolta experimentados pelas autoras, tendo em vista que foram desalojadas de sua residência, antes mesmo do pagamento da justa indenização e de deferida a imissão na posse do imóvel nos autos da desapropriação, perdendo os bens que a guarneciam, com a separação temporária do núcleo familiar e o agravamento do quadro de saúde de pessoa idosa.
+No que tange ao valor das indenizações por danos morais, reforma-se a r. sentença, minorando-os, pois o montante de cem salários mínimos para cada autora se mostra desproporcional e desarrazoado.
+Apesar do dano moral ser um sentimento de pesar íntimo da pessoa ofendida, não se lhe pode recusar reparação adequada.
+Esta deve ser estabelecida, como e quanto possível, por meio de uma soma que, apesar de não importar em unia exata
+reparação, representará a única cabível nos limites humanos. Óbvio que o dinheiro não extinguirá a dor e o suplício moral sofrido pelas vitimadas, mas servirá para compensá-las, indireta e parcialmente.
+Assim, tendo em conta a situação pessoal das autoras, bem como o pesar e abalo emocional pelo ocorrido (em grau inferior quando comparado, por exemplo, com uma morte), e, ainda, a necessidade de que a reparação sirva como forma de inibir novos e futuros casos idênticos, deve ser mantida a condenação no dever de indenizar os danos morais suportados, minorando-se o quantum para R$ 20.000,00 (vinte mil reais) para cada autora, que se mostra suficiente para amenizar o sofrimento ocasionado e inibir novas condutas deste tipo. (Destaque meu)
+A jurisprudência desta Corte firmou-se no sentido de que somente é cabível a revisão do valor fixado a título de danos morais quando exorbitante ou ínfimo.
+No caso, como não houve excesso ou valor irrisório, haja vista a gravidade e a magnitude da situação, torna-se inviável a análise da questão sem que se proceda ao reexame do contexto fático-probatório dos autos, o que atrai o óbice da Súmula 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO E CIVIL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. PRISÃO ILEGAL. DANO MORAL. QUANTIFICAÇÃO DO DANO MORAL. INEXISTÊNCIA DE EXORBITÂNCIA OU IRRISORIEDADE. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO E PROBATÓRIO. SÚMULA Nº 7 DO STJ.
+1. No que concerne ao valor arbitrado a título de danos morais, a jurisprudência do Superior Tribunal de Justiça consolidou o entendimento no sentido de que somente pode ser revisto excepcionalmente, quando irrisório ou exorbitante, em afronta aos princípios da razoabilidade e da proporcionalidade, sob pena de ofensa ao disposto na Súmula 7 desta Corte.
+2. No caso, o Tribunal a quo manteve o valor de R$ 50.000,00 (cinquenta mil reais) a título de reparação por danos morais, em razão de erro judicial que resultou em prisão preventiva que perdurou por onze meses, quantum este que merece ser mantido. Conclusão em contrário esbarraria no óbice da citada Súmula 7/STJ.
+3. Agravo regimental improvido.
+(AgRg no REsp 1.397.288/AC, Rel. Ministra MARGA TESSLER - JUÍZA FEDERAL CONVOCADA DO TRF 4ª REGIÃO, PRIMEIRA TURMA, julgado em 26/05/2015, DJe 05/06/2015)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. DANOS MORAIS. REDUÇÃO DO QUANTUM INDENIZATÓRIO. REEXAME DO CONJUNTO FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A jurisprudência do STJ admite a revisão do quantum indenizatório fixado a títulos de danos morais em ações de responsabilidade civil quando configurada situação de anormalidade nos valores, sendo estes irrisórios ou exorbitantes.
+2. Na hipótese em questão, foi com base nas provas e nos fatos constantes dos autos que o Tribunal de origem entendeu que é justo o valor de R$ 25.000,00 (vinte e cinco mil reais), arbitrado a título de indenização por danos morais, em decorrência de prisão ilegal.
+Desta forma, a acolhida da pretensão recursal demanda prévio reexame do conjunto fático-probatório dos autos, o que é vedado ante o óbice preconizado na Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 677.188/CE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/05/2015, DJe 27/05/2015).
+No que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18/05/2017), embora tal elemento possa influir na sua quantificação.
+In casu, impossibilitada a majoração de honorários nos termos do art. 85, § 11, do Código de Processo Civil de 2015, porquanto não houve anterior fixação de verba honorária em desfavor dos Recorrentes.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
