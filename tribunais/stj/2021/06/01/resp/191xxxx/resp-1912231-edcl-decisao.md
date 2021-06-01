@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos contra decisão de minha relatoria cuja ementa restou vazada nos seguintes termos (e-STJ fl. 1333):
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 2/STJ. TARIFA DE ESGOTO. PRESTAÇÃO PARCIAL DE SERVIÇOS. LEGITIMIDADE DA COBRANÇA. TEMA JULGADO PELO RITO DO ART. 543-C DO CPC. RESP 1.339.313/RJ. RECURSO ESPECIAL DA CEDAE PROVIDO. RECURSO ESPECIAL DA BIMBO DO BRASIL LTDA PREJUDICADO.
+Nas razões destes aclaratórios, sustenta que a decisão embargada incorre em obscuridade ao concluir que a cobrança da tarifa de esgoto justifica-se quando a concessionária realiza a coleta, transporte e escoamento dos dejetos, ainda que não promova o respectivo tratamento sanitário antes do deságue, mas não esclareceu o critério de julgamento que não considerou que as etapas principais do esgotamento sanitário sãocumpridas pela embargante.
+Alega queas etapas descritas na r. decisão -tratamento do esgoto em sua ETE,coleta do lodo e transporte através de empresa especializada para retirada do lodo -, são feitas pela embargante às suas próprias expensas, já que a CEDAE não faz e nem disponibiliza esse tipo de serviço, o que motivou a decisão do Tribunal de origem para que aplicasse a cobrança do esgoto à base de 25% do valor da tarifa, e não em sua integralidade.
+Aduz que houve omissão na decisão quanto à aplicabilidade do CDC no caso concreto e quanto ao pedido de manutenção do acórdão recorrido já que a embargante trata a maior parte do esgoto.
+É o necessário relatar. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+As razões dos embargos de declaração não merecem acolhimento.
+No presente caso, o Tribunal de origem julgou a controvérsia concluindo pela existência de relação de consumo entre a embargante e a embargada, sendo certo que a perícia constatou a prestação de serviço em sua maior parte pela consumidora, ora embargante, e menor pela CEDAE, de modo que a tarifa a ser paga deve obedecer ao percentual de 25% apenas, visando à manutenção do equilíbrio contratual da relação de consumo descrita.
+Pois bem.
+Para que os aclaratórios, como recurso de fundamentação vinculada que é, possam prosperar, se faz necessário que o embargante demonstre, de forma clara, a ocorrência de obscuridade, contradição ou omissão em algum ponto do julgado, sendo tais vícios capazes de comprometer a verdade e os fatos postos nos autos.
+Diante de tal premissa, observo que não assiste razão àembargante, pois, de fato, a decisão embargada posicionou-se de forma clara, adequada e suficiente acerca possibilidade de cobrança integral de tarifa de esgoto nos casos em que a concessionária realiza pelo menos uma das fases do serviço de esgotamento sanitário, seja a coleta, transporte, tratamento ou disposição final dos resíduos, ainda que não promovao tratamento sanitário do material coletado.
+A propósito, eis os seguintes trechos da decisão ora agravada (fls. 1334/1335):
+(..)
+A discussão travada gira em torno da possibilidade de cobrança integral de tarifa de esgoto nos casos em que a concessionária realiza pelo menos uma das fases do serviço de esgotamento sanitário (coleta, transporte, tratamento e disposição final), ainda que sem promover o tratamento sanitário do material coletado.
+O Tribunal a quo, ao examinar a legalidade da cobrança da tarifa de esgoto e concluir pelo percentual de 25%, o fez com base nas provas dos autos de que, quase toda a totalidade do serviço de esgoto é feita pela BIMBO DO BRASIL, pois, depois de tratado o esgoto sanitário e o despejo industrial na ETE da parte BIMBO DO BRASIL, parte da água é reaproveitada, o lodo é coletado por empresa sanitária e o restante é despejadona rede de esgoto sob responsabilidade da CEDAE, existente no logradouro.
+Da análise da conclusão adotada, constata-se que o acórdão recorrido quanto ao tema da cobrança da tarifa de esgoto, está em dissonância com o entendimento firmado por esta Corte, merecendo reparos, visto que o restante dos resíduos é despejado na rede de esgoto de responsabilidade da CEDAE.
+Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+Diante do exposto, rejeito os embargos de declaração.
+Intimem-se.
+Publique-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. HIPÓTESES DE CABIMENTO. OMISSÃO E OBSCURIDADE. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DA CAUSA. INVIABILIDADE DA VIA IMPUGNATIVA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
