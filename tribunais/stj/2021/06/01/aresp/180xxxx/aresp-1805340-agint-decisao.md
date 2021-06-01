@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interno interposto por Ikro Componentes Automotivos LTDA. em face da seguinte decisão, que não conheceu do agravo em recurso especial:
+Cuida-se de agravo em recurso especial apresentado por IKRO COMPONENTES AUTOMOTIVOS LTDA contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido. Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 211/STJ e Súmula 83/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 83/STJ. Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista omandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+Afirma que houve a devida impugnação aos fundamentos do juízo negativo de admissibilidade do recurso especial.
+Pede o provimento do recurso, que, embora intimada a parte contrária, não foi respondido.
+Tem razão arecorrente quando afirma que houve impugnação aos fundamentos da decisão presidencial que negou seguimento ao recurso especial, a qual adotou como razões de decidir a incidência dos enunciados n. 83 e 211 da Súmula desta Corte.
+Diz-se isso porque do agravo em recurso especial constam os argumentos de que "é manifesto o equívoco da r. decisão recorrida ao consignar que a matéria vertida no bojo do recurso especial não havia sido prequestionada, fazendo incidir o óbice imposto pela Súmula nº 211 desta Augusta Corte" (e-STJ, fl.580), e que não tem aplicação a "Súmula nº 83 do STJ, haja vista a inexistência de jurisprudência pacífica desta Augusta Corte, impende a reforma da r. decisão, para o fim de ser conhecido e provido o Recurso Especial" (e-STJ, fl.583).
+Merece, pois, reconsideração a decisão agravada para ser conhecido o agravo em recurso especial, o qual se passa a examinar.
+A recorrente manifestou agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO MONITÓRIA. Não há falar em prescrição das duplicatas, visto que o período entre as datas de vencimento e o ajuizamento da demanda é inferior a 05 anos. Art. 206, § 5º, do CC. NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Alegou, na ocasião, violação dos artigos206, § 3º, VIII, do Código Civil e18,I, da Lei5.474/68, sob o argumento de que, cuidando de duplicatas o título em cobrança, a prescrição é trienal e não quinquenal como entendeu a Corte de origem.
+Assim delimitada a controvérsia, passo a decidir.
+Cuidando-se de pretensão veiculada via ação monitória, como é o caso dos autos, a prescrição é mesmo quinquenal, não importando se lastreada em duplicatas, cujo prazo trienal concerne à pretensão executiva.
+Para exame:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CAMBIÁRIO. PROTESTO DE DUPLICATA PRESCRITA. NÃO CABIMENTO. PRECEDENTES.
+1. É firme a jurisprudência do STJ no sentido de ser indevido o protesto de título prescrito. Isto porque "a perda das características cambiárias do título de crédito, como autonomia, abstração e executividade, quando ocorre a prescrição, compromete a pronta exigibilidade do crédito nele representado, o que desnatura a função exercida pelo ato cambiário do protesto de um título prescrito". (AgRg no AREsp 593.208/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/11/2014, DJe 19/12/2014).
+2. Segundo a orientação jurisprudencial desta Corte, a ação monitória fundada em título de crédito prescrito está subordinada ao prazo prescricional de 5 (cinco) anos de que trata o artigo 206, § 5º, I, do Código Civil" (AgRg no AREsp 679.160/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/03/2017, DJe 04/04/2017).
+3. Agravo interno não provido.
+(AgInt no REsp 1869358/SE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/8/2020, DJe 13/8/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 83/STJ. AÇÃO MONITÓRIA. DUPLICATA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. PRECEDENTES. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A aplicação da Súmula n. 83/STJ não se restringe aos casos de recursos interpostos com fundamento na alínea c do permissivo constitucional.
+2. Segundo a orientação jurisprudencial desta Corte, a ação monitória fundada em título de crédito prescrito está subordinada ao prazo prescricional de 5 (cinco) anos de que trata o artigo 206, § 5º, I, do Código Civil.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AgInt nos EDcl no AREsp 1655610/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020)
+Constou, no acórdão local,"que as duplicatas possuem vencimento entre 29/10/2011 e 07/01/2012 (fls. 43-58), enquanto que a demanda foi ajuizada em 31/08/2016" (e-STJ, fl. 469).
+Inequívoca, pois, a incidência dos enunciados n. 7 e 83 da Súmula desta Casa.
+Diante do exposto, reconsidero a decisão agravada para conhecer e, porém, negarprovimento ao agravo em recurso especial.
+Intimem-se.
