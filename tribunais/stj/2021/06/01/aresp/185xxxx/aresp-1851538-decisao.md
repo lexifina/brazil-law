@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto por MÁXIMA S. A. CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS contra a decisão de fls. 247-250 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial interposto.
+O aludido apelo extremo foi deduzido com fundamento nas alíneas a e c do permissivo constitucional, com o intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 148):
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. AÇÃO DE PRESTAÇÃO DE CONTAS. FUNDO 157. DEVER DE PRESTAR CONTAS. VIOLAÇÃO AO § 4º, DO ARTIGO 1.021, DO CÓDIGO DE PROCESSO CIVIL, SENDO A APLICAÇÃO DE MULTA COROLÁRIO DA MANIFESTA IMPROCEDÊNCIA DO AGRAVO INTERNO. A JURISPRUDÊNCIA VEM ASSENTADA NO SENTIDO DE QUE NÃO É APLICÁVEL O JULGAMENTO DE RECURSO ESPECIAL REPETITIVO, QUANDO A PRESTAÇÃO DE CONTAS FOR RELATIVA À FUNDO DE INVESTIMENTOS. CASO CONCRETO. NA QUALIDADE DE ADMINISTRADOR DO FUNDO. DEVER DE PRESTAR CONTAS. AGRAVO INTERNO DESPROVIDO.
+Nas razões do recurso especial (fls. 158-177, e-STJ), além de dissídio jurisprudencial, a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 319, 322, 324, 487, 550 e 976 do Código de Processo Civil de 2015 e 206 do Código Civil de 2002.
+Sustentou, em síntese:
+(i)falta de interesse de agir da parte adversa, tendo em vista que o Fundo Multistock foi encerrado/ liquidado regularmente, pelos próprios quotistas, há mais de 5 (cinco) anos;
+(ii)não houve prova de que a recorrida tivesse feito aplicações no fundo em comento, para fazer jus à prestação de contas e eventual ressarcimento, ônus que lhe competia; e
+(iii)prescrição da pretensão autoral - de prestação de contas e "qualquer reparação civil por conta de eventuais danos em virtude da liquidação do Fundo Multi Stock"-, em razão do transcurso integral do prazo prescricional trienal aplicável à espécie (fl. 166, e-STJ).
+Em juízo provisório de admissibilidade (fls. 209-212, e-STJ), o Tribunal de origem negou seguimento ao recurso especial pelos seguintes fundamentos: a)aplicação das Súmulas 282 e 356/STF, por ausênciade prequestionamento dos artigos de Lei tidos por Violados; e b) incidência da Súmula 283/STF, devido à falta de impugnação a fundamento do acórdão recorrido.
+Irresignada (fls. 219-239, e-STJ), aduz a agravante que o reclamo merece trânsito, limitando-se a repisar as mesmas razões já trazidas no recurso especial e a refutar a aplicação das Súmulas 282 e 356/STF.
+Contraminuta às fls. 244-252 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que cabe à parte agravante, nas razões do agravo em recurso especial, trazer argumentos para contestar a decisão do Tribunal de origem que negou seguimento ao recurso especial, justificando, tese a tese, o cabimento do apelo especial, conforme determina expressamente o art. 932, III, do CPC/2015.
+O entendimento desta Corte é no sentido de que a parte recorrente deve rebater os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge, especificamente, contra todos eles.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CONSIGNATÓRIA C/C REVISIONAL. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. FUNDAMENTO DA ADMISSIBILIDADE NEGATIVA. IMPUGNAÇÃO. AUSÊNCIA. ARTS. 932, INCISO III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ.
+1. É inviável o agravo em recurso especial se a parte deixa de impugnar fundamento da decisão de admissibilidade negativa, que obstou o seguimento a parte do apelo por força do artigo 1.030, inciso I, alínea "b", do Código de Processo Civil.
+2. Nos termos dos artigos 932, inciso III, e 1.021, § 1º, do CPC e da Súmula 182 do Superior Tribunal de Justiça, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+3. Agravo interno a que se nega provimento (AgInt no AREsp 1.565.679/GO, Rel. Ministra Maria Isabel Gallotti, Quarta Turma julgado em 07/12/2020, DJe 11/12/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ACIDENTE DE TRÂNSITO. AÇÃO INDENIZATÓRIA. DANO MORAL E MATERIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ.RECURSO MANIFESTAMENTE INADMISSÍVEL. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não impugnou as razões da decisão agravada, pois não infirmou devidamente a necessidade de demonstração de prejuízo para que se declare a nulidade processual. Inobservância do art.1.021, § 1º, do NCPC e incidência da Súmula nº 182 do STJ.
+3. Agravo interno não provido(AgInt no REsp 1.861.075/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 24/08/2020, DJe 28/08/2020).
+No caso, verifica-se que a agravante não atendeu a esse reclamo, pois não refutou todos os óbices de admissibilidade do recurso especial interposto.
+Com efeito, no tocante à rejeição do recurso especial pela aplicação da Súmula 283/STF, verifica-se, de plano, que tal fundamento não foi sequer mencionado nas razões do agravo.
+Dessa forma, a falta de ataque específico aos fundamentos da decisãoagravada encontra óbice no teor do art. 932, III, do CPC/2015,desatendendo a recorrente o princípio da dialeticidade exigido na esferarecursal.
+Diante do exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
