@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto contra acórdão assim ementado (fl. 372):
+FALECIMENTO DO SÓCIO. DISSOLUÇÃO PARCIAL. PRELIMINARES REJEITADAS: INCOMPETÊNCIA ABSOLUTA REJEITADA. COMPETÊNCIA DO JUÍZO CÍVEL. INÉPCIA DA INICIAL NÃO ACOLHIDA. AUSÊNCIA DE DECISÃO EXTRA PETITA. BALANÇO CONTÁBIL. AUSÊNCIA DE ASSINATURA DO SÓCIO FALECIDO. CLÁUSULA 11 NÃO CABÍVEL AOS AUTOS. APURAÇÃO DE HAVERES. NECESSIDADE PARAA RETIRADA DO SÓCIO FALECIDO E POSTERIOR PAGAMENTO DOS HAVERES AOS HERDEIROS. RECURSO NÃO PROVIDO.
+1. O juízo sucessório é manifestamente incompetente para apreciação de dissolução de sociedade comercial.
+2. Na inicial não resta dúvida quanto ao pedido de apuração dos haveres do sócio falecido em benefício de seus sucessores.
+3. A apuração de haveres é procedimento que se segue à dissolução parcial, sendo implícitos os pedidos do autor nesse sentido, já que para a retirada do sócio morto com o devido pagamento aos herdeiros, faz-se necessária a apuração dos haveres.
+4. Não pode ser considerado o balanço contábil relativo ao ano que antecedeu a morte do sócio, em 1989, já que ausente a assinatura dele, não sendo, pois, considerado conclusivo.
+6. Preliminares rejeitadas e recurso não provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, os agravantes apontam violação dos arts. 1.022, inciso II, do Código de Processo Civil; e 507 do Código Civil.
+Alegam, preliminarmente, que o acórdão recorrido é omisso quanto às questões suscitadas pelos agravantes, considerando que não foram apreciadasas alegações de preclusão, coisa julgada e incompetência do juízo cível.
+Sustentam a incompetência absoluta do Juízo de Falências e Concordatas, diante da prevalência,em razão da matéria, da competência do Juízo das Sucessões para processar e julgar as ações conexas - o processo deinventário de José Ferreira da Costa Jales e a ação de dissolução parcial de sociedade,proposta pelos recorrentes em face do recorrido -,pugnando pelanulidade absoluta de todos os atos decisórios praticados pelo juízo considerado incompetente.
+Defendem, também, a ocorrência da preclusão eda coisa julgada formal, com relação à competência para o processamento ejulgamento do feito originário, visto quetal questão fora objeto de anterior decisão já transitada em julgado.
+Contrarrazões apresentadas.
+A Presidência do Tribunal de origem, ao proferir o juízo de admissibilidade, negou seguimento ao recurso especial. Daí o presente agravo, no qual a parte recorrente pugna pelo seu provimento e, consequentemente, pela admissão do recurso especial.
+Assim delimitada a controvérsia, passo a decidir.
+Anoto, preliminarmente, que a controvérsia foi decidida de modo suficiente, pois o Tribunal de origem enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e explícita sobre a causa, razão pela qual o julgado não merece reparo algum.
+A propósito, confira-se a motivação do acórdão proferido no julgamento dos embargos de declaração (fls. 491-492):
+Sobre a alegada incompetência do juízo cível para o julgamento da matéria, o voto dessa relatoria foi expresso ao consignar: "Desta forma, entendo que a apuração de haveres do sócio de sociedade limitada denota complicada controvérsia que envolve questões de alta indagação, como por exemplo, a avaliação de inúmeros bens imóveis, avaliação de marcas, estoque etc, cabendo as vias ordinárias a resolução da lide. Ora, o fato de o inventariado ser sócio da empresa objeto de dissolução parcial não atrai a competência do juízo do inventário para processar e julgar esta demanda, até porque, perante este juízo, tratar-se-ão de questões de alta indagação, inexistindo risco de decisões conflitantes. Sendoassim, entendo que deve ser firmada a competência do juízo cível para o qual foi distribuída originariamente a presente ação."
+ ..
+Aliás, o voto desta relatoria também foi expresso ao concluir que a matéria aqui debatida é de alta indagação, não sendo possível sua análise perante o juízo sucessório, nos termos do art. 984, do CPC revogado, aplicável à espécie, valendo destaque o seguinte trecho: "Cediço que existem questões de fato que demandam dilação probatória e exigem, por isso, processo à parte, onde possam ser dirimidas. Em outras palavras, nem sempre os elementos fálicos apresentam-se ao juiz do inventário de forma pacífica ou de fácil resolução, o que exige um processo à parte, com rito próprio."
+Com efeito, nos termos da pacífica jurisprudência desta Corte Superior, não se exige do julgador a análise de todos os argumentos apresentados pelas partes, a fim de expressar o seu convencimento. Na espécie, o pronunciamento acerca dos fatos controvertidos, a que o magistrado está obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido, motivo pelo qual rejeito a alegação de ofensa ao art. 1.022 do Código de Processo Civil.
+Exemplificativamente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+ ..
+3. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/06/2016, DJe 03/08/2016).
+Ademais, observo que o Tribunal de origem, ao apreciar a controvérsia, amparou seu entendimento na regra do art. 984 do CPC/1973, exarando os seguintes fundamentos (fls. 365-366):
+Cediço que existem questões de fato que demandam dilação probatória e exigem, por isso, processo à parte, onde possam ser dirimidas. Em outras palavras, nem sempre os elementos fáticos apresentam-se ao juiz do inventário de forma pacífica ou de fácil resolução, o que exige um processo à parte, com rito próprio.
+No entendimento de Humberto Theodoro Júnior (1998, p.106), a apuração do valor da participação em sociedade empresária do sócio falecido representa bem de difícil liquidação:
+"Bens de liquidação difícil ou morosa são aqueles que se encontram em zonas remotas, longe da sede do inventário, e que, por isso, dependem de diligências e precatória de cumprimento demorado. São, ainda, aqueles que, por sua própria natureza, reclamam operações complexas, como, por exemplo, a liquidação de sociedade ou a apuração de haveres do morto em pessoa jurídica de que era sócio. (grifo do autor)"
+O artigo 984 do CPC, o qual é categórico ao permitir, inclusive, a remessa para os meios ordinários caso a lide envolva questões de alta indagação ou dependerem de outras provas, in verbis:
+"Art. 984. O juiz decidirá todas as questões de direito e também as questões de fato, quando este se achar provado por documento, só remetendo para os meios ordinários as que demandarem alta indagação ou dependerem de outras provas".
+ ..
+Desta forma, entendo que a apuração de haveres do sócio de sociedade limitada denota complicada controvérsia que envolve questões de alta indagação, como por exemplo, a avaliação de inúmeros bens imóveis, avaliação de marcas, estoque etc, cabendo as vias ordinárias a resolução da lide.
+Ora, o fato de o inventariado ser sócio da empresa objeto de dissolução parcial não atrai a competência do juízo do inventário para processar e julgar esta demanda, até porque, perante este juízo, tratar-se-ão de questões de alta indagação, inexistindo risco de decisões conflitantes.
+Sendo assim, entendo que deve ser firmada a competência do juízo cível para o qual foi distribuída originariamente a presente ação.
+Taisfundamentos, autônomos e suficientes à manutenção do julgado, não foraminfirmados, especificamente, nas razões do recurso especial, o que caracteriza deficiência de fundamentação, atraindo à espécieo verbete da Súmula 283 do STF.
+Exemplificativamente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. CARTÃO DE CRÉDITO. COBRANÇA INDEVIDA. DANO MORAL. NECESSIDADE DE COMPROVAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO ESTADUAL. SÚMULAS 283 E 284 DO STF. AGRAVO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento suficiente à manutenção do acórdão estadual atrai a incidência das Súmulas 283 e 284 do STF.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1.545.651/MA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/11/2019, DJe 12/12/2019.)
+Além disso,verifico que a conclusão adotada pela Corte Estadual, no sentido de que a apuração de haveres de sócio de sociedade limitada envolve a avaliação de questões de alta complexidade,está baseada nas circunstâncias fático-probatórias inerentes à causa, de modo que adesconstituição daspremissas firmadas no acórdão recorrido, tal como pretendido pelosrecorrentes, demandaria o reexame do acervo fático-probatório dos autos, procedimento obstado, em recurso especial, pelo enunciado da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.AGRAVO DE INSTRUMENTO.INVENTÁRIO.OBSERVÂNCIA DO ART. 984 DO CPC/73. AUSÊNCIA DE QUESTÃO DE ALTA INDAGAÇÃO. DESNECESSIDADE DE REMETER ÀS VIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Esta Corte Superior de Justiça manifesta-se no sentido de que "cabe ao juízo doinventáriodecidir, nos termos do art. 984 do CPC, "todas as questões de direito e também as questões de fato, quando este se achar provado por documento, só remetendo para os meios ordinários as que demandarem alta indagação ou dependerem de outras provas", entendidas como de "alta indagação" aquelas questões que não puderem ser provadas nos autos doinventário" (REsp 450.951/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/3/2010, DJe de 12/4/2010).
+2. No caso em exame, a Corte a quo consignou que não há necessidade de se discutir a legalidade das doações nas vias ordinárias, porquanto a controvérsia se limita a fatos e documentos constantes nos autos, o que não demanda dilação probatória.
+3. Para concluir em sentido contrário no que tange à necessidade de remeter às vias ordinárias a questão debatida noinventário,seria indispensável o reexame do conjunto fático-probatório dos autos, o que, na via estreita do recurso especial, esbarra na Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 750.853/ES, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/2/2020, DJe 12/3/2020.)
+Em face do exposto, nego provimento ao agravo.
+Incabível a majoração dos honorários advocatícios de sucumbência, a teor do Enunciado Administrativo nº 7 do STJ, visto que a sentença, no caso, foi publicada em data anterior à entrada em vigor do Código de Processo Civil de 2015.
+Intimem-se.
