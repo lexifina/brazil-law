@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravode BRASILCOTE INDUSTRIA DE PAPEIS S.A. queobjetivaadmissão de recurso especialinterposto contra acórdão doTJSPassim ementado:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - IPTU - Exercício de 2003 - Município de Diadema - Exceção de pré-executividade - Decisão rejeitando a objeção processual oposta, com base no entendimento de que a demora do ato citatório não pode ser imputado à exequente - Cabimento - Inexistência de desídia da exequente - Aplicação da Súmula nº 106 do STJ - Inobservância do comando normativo previsto no artigo 40 da Lei 6830/80 - Decisão mantida - Recurso desprovido.
+No especial, a partealegaviolação dosarts. 240, §2º e 4º, 489 e 1.022 do CPC/2015, e arts. 156 e 174 do CTN, bem como a ocorrência de divergência jurisprudencial.
+Sustenta, em síntese:
+a) a existênciade omissão no acórdão em não apreciar as alegações formuladas pelo recorrente em embargos de declaração, emespecial acerca da inaplicabilidade do enunciado da Súmula 106 do STJ aos executivos fiscais, bem como acerca da desídia da exequente em promover a citação do executado;
+b) que o decurso do prazo superior a9 (nove) anos entre a data da propositura da execução e a efetiva citação decorreu de desídia do exequente em promover o ato citatório, motivo pelo que impõe-se o reconhecimento da prescrição; e
+c) que é inaplicável às execuções fiscais as regras relativas ao art. 240, §2º e 4º, do CPC/2015 (anterior art. 219, §2º e 4º, do CPC/1973) motivo pelo que é inaplicável o entendimento firmado no enunciado da Súmula 106 do STJ às execuções fiscais.
+O recurso especial foi inadmitido por encontrar-se o acórdão em conformidade com o entendimento firmado em recurso repetitivo (TEMA 179 do STJ), por ausência de omissão no acórdão e por aplicação do óbice da Súmula 7 do STJ.
+Agravo que impugna estes fundamentos.
+Passo a decidir.
+O recurso especial se origina de agravo de instrumento interposto contra decisão que não acolheu exceção de pré-executividade em que se pleiteava o reconhecimento da prescrição tributária.
+Consignou-se no acórdão recorrido que, proposta a execução fiscal dentro do prazo da Lei, a demora significativa até a citação do executado não se deu por desídia imputável ao exequente, decorrendo exclusivamente do mecanismo da justiça que falhouao expedir os competentes atos citatórios e intimar o exequente das tentativas frustradas de citação do executado.
+Opostos embargos de declaração, foram eles rejeitados.
+Pois bem.
+Registro que, de acordo com o Tribunal de origem, o debate relativo à alegada impossibilidade de decretação de prescrição intercorrente nos casos de demora na citação, por motivos inerentes ao mecanismo da justiça, está relacionado à tese consolidada por esta Corte Superior no julgamento do Recurso Especial repetitivo 1102431/RJ (Tema 179do STJ), assim decidido:
+A perda da pretensão executiva tributária pelo decurso de tempo é consequência da inércia do credor, que não se verifica quando a demora na citação do executado decorre unicamente do aparelho judiciário.
+Tendo o juízo de admissibilidade negado seguimento ao apelo extremo, quanto ao ponto, com base no art. 1.030, I, "b", do CPC/2015, caberia ao agravante a interposição de agravo interno no Tribunal de origem - nos termos do art. 1.030, § 2º, c/c o art. 1.021 do CPC/2015 -, o que não ficou demonstrado nos presentes autos. Logo, inviável a análise dessa discussão pelo STJ.
+No que concerne aos demais pontos,verifica-se que o Tribunal de origem manifestou-se, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia, inclusive em relação às quais o recorrente alega omissão.
+Com efeito, expressamente aplicou o entendimento relativo ao enunciado sumular ao executivo fiscal (Súmula 106 do STJ), consignando que a demora na citação do executado não pode ser imputada ao exequente, uma vez que decorreuexclusivamente do mecanismo da justiça que falhouem expedir os competentes atos citatórios e intimar o exequente das tentativas frustradas de citação do executado.
+Dessa forma, correta a rejeição dos embargos de declaração,ante a inexistência de omissão, contradição ou obscuridade a ser sanada.
+No mérito, consignou o Tribunal bandeirante (e-STJ fls. 151 e seguintes):
+Trata-se de execução fiscal para cobrança de crédito referente ao IPTU, exercício de 2003, nos termos da petição inicial de fl. 17.
+Conforme se observa dos autos, a carta de citação foi expedida em 01/04/2008 (certidão de fl. 18), a qual retornou negativa (fl. 19), sendo certo que fora juntada aos autos em 23/08/11 (parte final da fl. 18).
+Ato contínuo, a municipalidade manifestou-se nos autos, em 11/01/2012, espontaneamente, eis que não houve intimação do retorno negativo da carta citatória expedida, oportunidade em que requereu a citação da sociedade agravada por meio de diligência do Oficial de Justiça (fl. 22), tendo sido determinada a expedição do respectivo mandado (fl. 23), diligência a qual não foi realizada, ante a ausência de expedição daquele.
+A despeito da falta de expedição do referido mandado citatório, a executada compareceu espontaneamente aos autos, em 27/03/17 (fls. 25/70), tendo, consequentemente, apresentado a exceção de pré-executividade (fls. 71/86), asseverando, preliminarmente, o cabimento da exceção de pré-executividade.
+ ..
+O d. Juízo a quo, entendendo que inexistiu qualquer inércia da exequente apta a configurar a prescrição intercorrente, rejeitou a exceção de pré-executividade, nos termos da r. decisão de fl. 100, da qual ora se agrava.
+Apesar de a agravante sustentar a extinção da pretensão executiva com base no fato que a sua citação somente ocorreu após longo período da distribuição da demanda, tem-se que a demora não pode ser imputada à municipalidade, a qual se manteve diligente no intuito de localizar os contribuintes, mas sim aos mecanismos do Poder Judiciário.
+Anote-se, ademais, conforme se observa dos autos, que a exequente requereu a citação da executada, por intermédio do Oficial de Justiça, sendo certo que o respectivo mandado não foi expedido por entraves inerentes ao Poder Judiciário.
+Nesse passo, aqui cabe aplicar a Súmula nº 106do C. Superior Tribunal de Justiça, in verbis:
+"Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência."
+Em que pesem os argumentos da agravante, o entendimento fixado no enunciado adrede mencionado incide nas execuções fiscais, já que as normas do Código de Processo Civil são aplicáveis subsidiariamente às execuções fiscais, nos termos do artigo 1º da Lei nº 6.830/90, inexistindo fundamento jurídico apto a afastar tal interpretação ao caso em voga.
+Nesse contexto, ao tempo em que o acórdão está em conformidade com pacífico entendimento jurisprudencial deste Tribunal Superior, consubstanciado na Súmula 106 do STJ, sua revisão só seria possível mediante revisão do acervo probatório, providência inadequada em recurso especial, consoante enunciado daSúmula7do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, I e II, "a" e "b", do RISTJ, CONHEÇO PARCIALMENTEdo agravo para, na parte conhecida,CONHECER PARCIALMENTE DO RECURSO ESPECIAL e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
