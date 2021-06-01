@@ -1,0 +1,18 @@
+DECISÃO
+CLÁUDIA PORTO BITTAR ELBER e LUIZ HENRIQUE GODOY ELBEL (CLÁUDIA e outro) ajuizaramação de rescisão contratual c/c pedido de perdas e danos e retomada do imóvel, contra JOSÉ FERNANDO FERREIRA DA SILVA, e MARIA GLESSE DOS SANTOS (JOSÉ e outra) que foi julgada procedente.
+Em fase de cumprimento de sentença, foi proferida decisão que reiterou posicionamentos anteriores tratando sobre o valor a ser adimplido pelo requerido/agravado a título de conserto do apartamento e determinou a remessa dos autos à Contadoria Judicial para atualização do débito, nos termos da sentença, da decisão de fl. 397 e do ato ora resistido.
+Contra essa decisão, CLAUDIA e outro interpuseram agravo de instrumento, que não foi provido pelo Tribunal distrital, em acórdão a seguir ementado:
+AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. PEDIDOS DE FIXAÇÃO DE NOVA DATA PARA DEVOLUÇÃO DO BEM E CORREÇÃO DO VALOR DO ALUGUEL.QUESTÕES JÁ DECIDIDAS. PRECLUSÃO. CÁLCULOS DOS EMBARGANTES.HOMOLOGADOS. DECISÃO REVOGADA. PRECLUSÃO. NÃO OCORRÊNCIA.
+1. Trata-se de agravo contra que reiterou decisões anteriores, tratando sobre o valor a ser decisum adimplido pelo requerido/agravado, fixou o montante a ser vertido a título de conserto do apartamento e determinou a remessa dos autos à Contadoria Judicial para atualização do débito, nos termos da sentença.
+2. Se a matéria combatida já foi decidida e, inclusive, reiterada em decisão posterior, não tendo os agravantes interposto o devido recurso naquela oportunidade, a questão se encontra acobertada pelo manto da preclusão.
+3. Havendo decisão revogando expressamente a homologação dos cálculos apresentados pelos embargantes, não há se falar em preclusão quanto ao ponto.
+4. Recurso conhecido e desprovido. (e-STJ, fls. 140).
+Os embargos de declaração opostos por CLAUDIA e outrOforam rejeitados (e-STJ, fls. 167/175).
+No recurso especial, interposto com fundamento no art. 105, III, a , da CF, CLAÚDIA e outra alegaram violação dos seguintes dispositivos legais:a) artigo 1.022, inciso II, do NCPC, ao sustentar que a turma julgadora, mesmo instada a fazê-lo, por intermédio dos embargos de declaração, não sanou os vícios apontados, ficando caracterizada a deficiência na prestação jurisdicional;b) arts.502, 505 e 509, § 4º, todos do NCPC,defendendo que houve ofensa à coisa julgada, pois, embora o título judicial exequendo tenha determinado a correção monetária do valor do aluguel pelo índice do INPC, a decisão agravada suprimiu tal atualização e modificou a metodologia do cálculo anteriormente fixada;c) arts.489, § 3º, NCPC;421 do CC/02, e 23, III, da Lei 8.245/1991, porque,diversamente do que consignado pela turma julgadora, a decisão singular, proferida aos 23/8/2016 não lhes impôs a responsabilidade pelos encargos fiscais e condominiais do imóvel, mas, tão somente, intimou-os para se manifestarem quanto à vontade de entregarem as chaves do bem;d) arts. 10 e 141, ambos do NCPC, porquanto o acórdão proferido em sede de embargos de declaração conheceu de ofício questão não suscitada e não provocada pela parte contrária e sem que houvesse oportunidade do contraditório (e-STJ, fls. 183/196).
+Foram apresentadas contrarrazões (e-STJ, fls. 206/207).
+Em juízo de admissibilidade, o Presidente do TJDFT inadmitiu o apelo nobre (208/210).
+Dessa decisão, foi interposto o presente agravo em recurso especial (e-STJ, fls. 213/224), e, após, foiapresentada contraminuta (e-STJ, fls. 227/228).
+É o relatório.
+DECIDO.
+Para melhor examinar as controvérsias suscitadas, CONHEÇO do agravo para determinar a sua autuação como recurso especial (art. 253, II, d, do Regimento Interno do STJ).
+Publique-se. Intimem-se.
