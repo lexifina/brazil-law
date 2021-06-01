@@ -1,0 +1,28 @@
+DECISÃO
+Vistos, etc.
+Trata-se de mandado de segurança, com pedido liminar, impetrado por DILZA CARVALHO DE ABREUcontra ato da Ministra de Estado da Mulher, da Família e dos Direitos Humanos, consubstanciado na anulação daportariaanistiadoraanteriormente concedidaao falecido marido da impetrante.
+A parte impetrante alega, em síntese, que:
+(..) que oImpetrantejá adquiriu a condição de anistiado politico bem como incorporou os direitos derivados de tal ato desde as Portarias de concessão das anistias, ocorrendo dessa forma a perempção, decadência e prescrição á ato anulatório das anistias, sem que, no mínimo sejam respeitados os princípios constitucionais como o devido processo legal, a ampla defesa e o direito a um julgamento justo e não eivado de ideologias e posições politicas, conforme previsto na Constituição Federa de 1988 em seu artigo 5º, LIV, além do previsto no artigo 2º da Lei 9.784/99 e da determinação do artigo 17 da Lei 10.559/2002.
+No que tange ao artigo 17º da Lei 10.559/2002, vale ressaltar que o ato de anistia foi amplamente analisado e aprovado pela Comissão da Anistia à época bem comoformalizado pelo então Ministro da Justiça, impedindo dessa forma, qualquer possibilidade de anulação sem que haja o devido processo legal e a ampla defesa, além de não ter a Impetrada competência legal para tal anulação nos termos da referida lei, sendo que a competência determinada em Lei é do Ministro da Justiça.
+(..)
+Afirma a impetrada que a notificação enviada estaria nos moldes do artigo 50 da Lei 9.784/1999º, no entanto, além da notificação ser vaga, informa apenas que foi aberto procedimento de revisão, por determinação da Portaria nº 3.076/19, sendo que em tal Portaria, a Senhora Ministra, ora impetrada, interpreta o julgamento do STF no Recurso Extraordinário817.338, que apesar de ter sido concedida a repercussão geral, como se tal determinação amparasse a retroatividade de acordão no referido "ad eternum" esquecendo-se do direito adquirido, ato jurídico perfeito e principalmente o principio da segurança jurídica, prevista na Constituição Federal em seu artigo 5º.
+Ao final, asseverando que estão presentes os requisitos de urgência, pleiteiao deferimento da liminar, com propósito de que seja determinada a suspensão dosefeitos doatoimpugnado.
+É o relatório.
+Em mandado de segurança, é indispensável que a prova do direito seja pré-constituída, sendo inviável a dilação probatória. Nesse sentido:
+RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA. REMUNERAÇÃO DE SERVIDORES MILITARES. ABONO. DECADÊNCIA DO DIREITO.IMPUGNAÇÃO A LEI EM TESE. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. Na origem, trata-se de Mandado de Segurança impetrado contra pretenso ato coator cometido pelo Governador e Secretário de Estado de Mato Grosso do Sul, consistente na edição de leis que concederam reajuste inflacionário equivocado.
+2. Vale salientar que o Tribunal local reconheceu corretamente a decadência do direito dos recorrentes impetrarem Mandado de Segurança, uma vez que ficou comprovado que o prazo de 120 dias ficou superado.
+3. Não existem dúvidas, como afirmou o ilustre representante doParquet, de que "De outro lado, apesar dos argumentos dos recorrentes, verifica-se que não se trata de relação de trato sucessivo, uma vez que o ato coator é a própria lei, e não o pagamento mensal da remuneração. Em nenhum momento, alegou-se erro da administração no cálculo dos percentuais de aumento na remuneração dos recorrentes".
+4. Ademais, incide sobre a espécie o óbice contido na Súmula 266 do STF: "Não cabe mandado de segurança contra lei em tese". Isso porque Mandado de Segurança contra lei em tese é todo aquele que tenha por objeto ato normativo abstratamente considerado ou, conforme já se manifestou a Suprema Corte, " ..  quando a impetração nada indica, em concreto, como representativo de ameaça de lesão à esfera jurídica do impetrante".
+5. É pacífico o entendimento de que o Mandado de Segurança detém entre seus requisitos a demonstração inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço para dilação probatória na célere via domandamus.
+6. Recurso Ordinário não provido.
+(RMS 58.175/MS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/3/2019).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA.DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE DE EXAME. CONCURSO PÚBLICO. APROVAÇÃO FORA DAS VAGAS PREVISTAS NO EDITAL.INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO À NOMEAÇÃO.
+1. O mandado de segurança supõe direito líquido e certo, entendido como aquele emergente da prova pré-constituída no processo, sendo imprestável para dirimir litígio que exija dilação probatória.
+2. Aprovado o candidato fora do número de vagas previsto no edital do concurso público, não há falar em direito de nomeação para o cargo a que concorreu em relação a eventuais vagas que surgirem no prazo de validade do certame, por se tratar de ato discricionário da Administração Pública. Precedentes do STJ.
+3. Agravo regimental desprovido.
+(AgRg no RMS 48.579/MS, Rel. Min. OLINDO MENEZES - Convocado, PRIMEIRA TURMA, DJe 4/2/2016).
+Na presente hipótese, não foramjuntados aos autos os documentos essenciais à análise do pedido, comocópia doprocedimentoadministrativoem referência.
+Desse modo, inexistindo provas do alegado cerceamento de defesa e não sendo a via mandamental apta à dilação probatória, impõe-se o indeferimento liminar da inicial.
+Ante o exposto,indefiro liminarmentea inicial, nos termos do art. 212 do RISTJ, c/c o art. 10 da Lei n. 12.016/2009, ficando prejudicada a análise do pedido liminar.
+Publique-se. Intimem-se.
