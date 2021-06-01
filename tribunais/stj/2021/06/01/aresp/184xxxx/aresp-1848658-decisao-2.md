@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Banco do Brasil S.A., com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fls. 752-753):
+APELAÇÕES CÍVEIS. AÇÃO REVISIONAL DE CONTRATO DE ABERTURA DE CONTA CORRENTE. SENTENÇA DE PARCIAL PROCEDÊNCIA DOS PEDIDOS. INSURGÊNCIA DE AMBAS AS PARTES. APELO 1. INVERSÃO DO ÔNUS DA PROVA. APLICAÇÃO DO CDC AO CASO CONCRETO. INDEFERIMENTO. NÃO OBJEÇÃO PELA PARTE CONTRÁRIA. POSSIBILIDADE DE CUMULAÇÃO DE COMISSÃO DE PERMANÊNCIA E JUROS DE MORA. MATÉRIA NÃO DISCUTIDA NEM ANALISADA NA SENTENÇA. AUSÊNCIA DE INTERESSE RECURSAL. RECURSO NÃO CONHECIDO EM RELAÇÃO A ESSES PONTOS. PACTUAÇÃO LIVRE DAS CLÁUSULAS CONTRATUAIS QUE NÃO OBSTA A APRECIAÇÃO DE SUA VALIDADE PELO JUDICIÁRIO. RELATIVIZAÇÃO DO PRINCÍPIO JUROS REMUNERATÓRIOS.PACTA SUNT SERVANDA AUSÊNCIA DE PREVISÃO CONTRATUAL. APLICAÇÃO DA TAXA MÉDIA DE MERCADO, SALVO SE O PERCENTUAL EFETIVAMENTE APLICADO FOR MAIS VANTAJOSO PARA O CONSUMIDOR. SÚMULA 530 DO STJ. REPETIÇÃO DE INDÉBITO. EXISTÊNCIA DE VALORES COBRADOS A MAIOR QUE DEVEM SER RESTITUÍDOS, INDEPENDENTEMENTE DE ERRO. VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA. APELO 2. CAPITALIZAÇÃO DE JUROS. PRÁTICA PERMITIDA DESDE QUE PACTUADA. SÚMULA 539 DO STJ. EXISTÊNCIA DE PREVISÃO CONTRATUAL A VALIDAR A PRÁTICA. LEGALIDADE. TAXAS E TARIFAS BANCÁRIAS. SÚMULA 44 DO TJPR. COBRANÇAPERMITIDA, ANTE A COMPROVADA PACTUAÇÃO. LEGALIDADE DE LANÇAMENTOS. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS ARBITRADOS. APELO 1 PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO. APELO 2 CONHECIDO E DESPROVIDO.
+Nas razões do apelo especial (e-STJ, fls. 770-782), o recorrente, Banco do Brasil S.A. alegou a violação dos arts. 104, 406 e 422 do Código Civil de 2002.
+Sustentou, em síntese, que não há prova de que a recorrida sofreu mais que um mero aborrecimento ou transtorno, não havendo comprovação da ocorrência de danos morais.
+Foram apresentadas contrarrazões (e-STJ, fls. 795-801).
+O Tribunal de origem não admitiu o processamento do recurso especial ante a ausência de prequestionamento, incidindo a Súmula n. 282/STF (e-STJ, fls. 804-806).
+Brevemente relatado, decido.
+Verifica-se que os dispositivos legais apontados pelo recorrente - 104, 406 e 422 do Código Civil de 2002 - não foram enfrentados pelo acórdão impugnado, tampouco foram opostos embargos de declaração quanto a esse ponto.
+Para que se atenda ao requisito do prequestionamento, é necessária a efetiva discussão do tema pelo Tribunal de origem, ainda que em embargos de declaração, o que, na espécie, não ocorreu. Incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+Ressalte-se que o entendimento jurisprudencial desta Corte é de que se têm como prequestionados os dispositivos legais de forma implícita, ou seja, ainda que não referidos diretamente, quando o acórdão recorrido emite juízo de valor fundamentado acerca da matéria por eles regida.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IPTU. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. NORMAS MUNICIPAIS. FUNDAMENTO CONSTITUCIONAL AUTÔNOMO. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a respeito da qual nem mesmo foram opostos embargos de declaração, impede o seu conhecimento, a teor das Súmulas 282 e 356 do STF.
+2. O Tribunal a quo, ao solucionar a controvérsia referente à eficácia de normas municipais, adotou fundamentação constitucional - princípio da reserva legal -, que se mostra suficiente à solução do litígio. A não impugnação de fundamento constitucional autônomo por meio da interposição de recurso extraordinário impõe a aplicação da Súmula 126/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.754.672/RJ, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 3/5/2021, DJe 5/5/2021).
+Ante o exposto, conheço do agravo para não conhecer do recurso especialBanco do Brasil S.A.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. BANCÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DE BANCO DO BRASIL S.A.
