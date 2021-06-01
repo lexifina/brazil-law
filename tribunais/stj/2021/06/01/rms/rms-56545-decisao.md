@@ -1,0 +1,59 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso em mandado de segurança interposto por Alessandra Cássia Guedes Soares e outros contra acórdão do Tribunal de Justiça do Estado de Goiásassim ementado (e-STJ, fl. 607):
+MANDADO DE SEGURANÇA. REAJUSTE DE VENCIMENTOS E SALÁRIOS. SERVIDORES PÚBLICOS ESTADUAIS. AUSÊNCIA DE PROVA PRÉ - CONSTITUÍDA. SEGURANÇA DENEGADA.
+1. O Mandado de segurança somente é cabível quando plenamente aferível o direito líquido e certo no momento da impetração, cuja existência e delimitação são comprovadas de plano.
+2. Na hipótese, os documentos juntados pelos Impetrantes são insuficientes para o deslinde da questão.
+3. Daí, inadmissível a via eleita, mandado de segurança, porque incompatível com a dilação probatória, requestando a demonstração prévia e cabal de provas pré-constituídas do direito violado.
+SEGURANÇA DENEGADA.
+Os insurgentes alegam, nas razões do recurso, que possuem o direito líquido e certo ao reajuste salarial de 8% (oito por cento), na forma prevista na Lei estadual n. 18.562/2014.
+Asseveram, de outra parte, que juntaram todos os documentos necessários que comprovam o cumprimento dos requisitos da lei estadual, entre elas, o crescimento real da receita corrente líquida do Estado do Goiás, nos últimos doze meses.
+Foram apresentadas as contrarrazões às e-STJ, fls. 665-669.
+Parecer do Ministério Público Federal, às e-STJ, fls. 757-762, pelo desprovimento ao recurso.
+É o relatório.
+A Corte de origem negou a pretensão dos recorrentes, por ausência de prova pré-constituída de que houve ocorrência de crescimento real da receita corrente líquida do Estado do Goiás, nos últimos doze meses, como se pode observar a seguir (e-STJ, fls. 602-604):
+No caso sub judice, a previsão de reajustes nos vencimentos dos Impetrantes, no valor de 8% (oito por cento) está condicionada ao cumprimento de dois requisitos: 1º) temporal, isto é, 8% (oito por cento), em 1º de dezembro de 2015; 2º) circunstancial, pois referido reajuste dependia da ocorrência de crescimento real da receita corrente líquida do Estado, nos últimos 12 (doze) meses.
+ ..
+Com efeito, os documentos colacionados aos autos não comprovam, de plano, o cumprimento do segundo requisito (ocorrência de crescimento real da receita corrente liquida do Estado, nos últimos 12 (doze) meses), inviabilizando, assim, o a concessão da segurança, dada à ausência de prova pré-constituída.
+Esmiuçando a questão, asseverou a douta Procuradoria de Justiça:
+"(..) Da analise do referido relatório, extrai-se que houve aumento nominal da receita corrente líquida de R$ 15.522.843881,56 (fls. 483) em 2014, para R$ 16.311.885.361,65 (fls. 489) em 2015. Todavia, não há elementos suficientes para asseverar que esse aumento também representou um aumento real, como exige a legislação.
+O valor nominal é o mesmo dado numérico, tal como se apresenta. Já para se obter o valor real, deve-se considerar a taxa inflacionária do período, a fim de apurar se houve efetivo ganho, o que não fez os impetrantes.
+Por se tratar de ação mandamental, que exige prova pré-constituída e não admite dilação probatória, deveria haver a comprovação, de plano, desse aumento real da receita corrente líquida do Estado no período de outubro de 2014 a novembro de 2015, o que não ocorreu.
+O fato de ter havido aumento nominal nessa receita, não implica deduzi que esse aumento igualmente foi real, o que deveria ter sido comprovado. Assim, caso não pudessem comprovar, de plano, seus argumentos, deveriam os impetrantes ajuizar ação ordinária, e não mandado de segurança, que, repita-se, possui como requisito essencial a exigência de prova pré-constituída e não comporta dilação probatória." (F. 571.)
+Assim, a ausência de elementos comprobatórios do direito líquido e certo do direito pleiteado, bem como de prova pré-constituída de tal alegação, cujo ônus é da parte Impetrante, implica extinção do mandado de segurança.
+O Colegiado local firmouo entendimento de que estão ausentes o direito líquido e certo dos recorrentes, por não terem preenchido o requisito objetivo previsto em lei estadual, qual seja: a ocorrência de crescimento real da receita corrente líquida do Estado nos 12 (doze) meses anteriores. Nesse contexto, o Superior Tribunal tem posicionamento de que o mandado de segurança é ação de rito especial que exige a comprovação de plano do alegado direito líquido e certo, sendo inadmissível dilação probatória.
+A propósito:
+ADMINISTRATIVO. FÉRIAS DE MAGISTRADO. ATUAÇÃO DO SUBSTITUTO. POSSIBILIDADE. PREJUÍZO NÃO DEMONSTRADO. PROMOÇÃO FUNCIONAL. ANTIGUIDADE. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA DE EFETIVO EXERCÍCIO. DILAÇÃO PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA. ALTERNÂNCIA COM MERECIMENTO.
+1.  ..
+2. Mandado de segurança impetrado pelo Sindicato dos Fiscais Agropecuários do Estado de Mato Grosso do Sul (SIFEMS) para ver afastada supostas ilegalidades na promoção pelo critério de antiguidade de seus filiados, aduzindo que os requisitos para ascensão já estariam preenchidos nos moldes previstos nas Leis 2.065/1999 e 4.196/2012.
+3. Contudo, a entidade sindical busca, por meio de ação coletiva mandamental, a declaração genérica de que seus filiados fazem jus à progressão por antiguidade, sem se ater que a promoção por tal critério não afasta a comprovação do "efetivo exercício na classe em que estiver classificado", de modo que a apuração do critério temporal depende de aferição do prazo estipulado (cinco anos), desprezados os períodos de afastamentos que não entram no cômputo do interstício estipulado, como expressamente determina o art. 35, § 6º, da Lei 4.196/2012 - "Os períodos de afastamento, para o exercício de cargo em comissão fora do âmbito da Entidade ou da Secretaria a qual estiver vinculado, não serão computados para contagem de tempo de efetivo exercício na carreira".
+4. Na hipótese, inexiste prova pré-constituída de que o requisito temporal foi preenchido nos exatos contornos exigidos pela lei de regência, de modo que a denegação da ordem impõe-se por ausência de demonstração do direito líquido e certo dos filiados, em especial porque a aferição do correto preenchimento do lapso temporal exigido demandaria dilação probatória, inadmissível na via escolhida.
+5. Ademais, a indistinta promoção por antiguidade pretendida pela impetrante sem observância do critério por merecimento configuraria afronta às disposições legais de regência, que preveem os dois critérios.
+Recurso ordinário em mandado de segurança improvido.
+(RMS 45.916/MS, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 14/6/2016, DJe 21/6/2016).
+ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. POLICIAL MILITAR. PROMOÇÃO. REQUISITOS. DEMONSTRAÇÃO INSUFICIENTE. PRETERIÇÃO NÃO COMPROVADA. DIREITO LÍQUIDO E CERTO NÃO VERIFICADO. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+1. Hipótese na qual o recorrente, Capitão da Polícia Militar do Maranhão, objetiva por meio de mandado de segurança promoção ao posto de Major, com efeitos retroativos a 30.12.2011.
+2. O pedido de Promoção em Ressarcimento de Preterição por Absolvição em Processo Crime não pode ser conhecido no presente feito por se tratar de inovação recursal, visto que não foi postulado na via do mandado de segurança, tampouco foi objeto de debates pelo Tribunal local. A matéria já foi, sucessivas vezes, objeto de apreciação por ambas as Turmas do Direito Público do STJ no sentido de que a ampla devolutividade do recurso ordinário não pode ser levada ao extremo de permitir-se a livre discussão de questões que não foram objeto da inicial e sequer restaram enfrentadas pelo Tribunal de origem. Precedentes: RMS 41.477/GO, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 10/3/2014.
+3. O direito alegado na via mandamental deve ser comprovado de plano na inicial, mediante prova pré-constituída do direito líquido e certo do objeto de invocação, não havendo espaço para instrução probatória. Precedente: AgInt no RMS 50.060/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 17/8/2016.
+4. Na espécie, o impetrante diz ter cumprido todos os requisitos essenciais para a promoção almejada, mas não prova. Deve, assim, ser mantido o acórdão recorrido que denegou a segurança se não houve demonstração cabal acerca do preenchimento dos requisitos exigidos por lei para a ascensão na carreira (artigos 13 e 14 da Lei n.
+3.743/1975), permitindo o ajuizamento posterior da questão nas vidas ordinárias, se assim desejar o ora recorrente.
+5. Recurso ordinário não provido.
+(RMS 48.440/MA, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 27/9/2016, DJe 4/10/2016).
+AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PEDIDO DE PROMOÇÃO AO CARGO DE DELEGADO GERAL DE POLÍCIA EM RAZÃO DE APOSENTADORIA.
+AUSÊNCIA DE COMPROVAÇÃO DOS REQUISITOS LEGAIS PARA O DEFERIMENTO DA PROMOÇÃO. IMPOSSIBILIDADE DE DILAÇÃO PROBATÓRIA EM SEDE DE MANDADO DE SEGURANÇA. AGRAVO INTERNO DESPROVIDO.
+1. Cinge-se a controvérsia acerca do suposto direito do Recorrente, Servidor Público Estadual aposentado, à promoção ao cargo de Delegado Geral de Polícia.
+2. Da leitura dos autos, verifica-se que o autor não se desincumbiu de comprovar o preenchimento do interstício temporal previsto no parág. único do art. 3º. da Lei Complementar Mineira 23/1991, para obter a promoção pretendida.
+3. Assim, inviável o acolhimento da pretensão na via estreita do Mandado de Segurança, porquanto tal ação, de natureza constitucional, visa a proteger direito líquido e certo já existente e que independe de dilação probatória.
+4. Agravo Interno do Servidor desprovido.
+(AgInt no RMS 38.476/MG, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/9/2016, DJe 4/10/2016).
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. REMOÇÃO DE SERVIDOR. DIREITO LÍQUIDO E CERTO INEXISTENTE AO TEMPO DA IMPETRAÇÃO. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA.
+1. Conforme relatado na origem, "a impetrante cogita a nulidade do ato de remoção, com fundamento em duas premissas: a primeira, por ausência de fundamentação do ato, e; a segunda em face da eventual sujeição de outros servidores, contemporâneos ao seu ingresso no quadro de agentes penitenciários".
+2. In casu, verifica-se que a insurgente atacou tão somente as questões relacionadas à segunda premissa. Assim, em observância ao princípio do tantum devolutum quantum appellatum, a cognição do apelo está circunscrita às questões nele contidas.
+3. A Corte a quo asseverou que os documentos que amparam a alegação da impetrante foram juntados em momento posterior ao da propositura do writ.
+4. O Mandado de Segurança detém entre seus requisitos a comprovação inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço para a dilação probatória na célere via do mandamus. Para a demonstração do direito líquido e certo, é necessário que, no momento da sua impetração, seja facilmente aferível a extensão do direito alegado e que este possa ser prontamente exercido.
+5. "Quando a lei alude a direito líquido e certo, está exigindo que esse direito se apresente com todos os requisitos para seu reconhecimento e exercício no momento da impetração. Em última análise, direito líquido e certo é direito comprovado de plano. Se depender de comprovação posterior, não é líquido nem certo, para fins de segurança" (Mandado de Segurança e Ações Constitucionais, Hely Lopes Meirelles, Arnold Wald e Gilmar Ferreira Mendes. ed. Malheiros, 32ª edição, p. 34).
+6. Se no momento da impetração, como destacado pelo próprio Tribunal de origem, não havia arcabouço probatório pré-constituído, não se verifica ilegalidade apta a justificar o reconhecimento de direito líquido e certo a amparar a pretensão da postulante.
+7. Recurso Ordinário não provido.
+(RMS 54.709/SC, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 3/10/2017, DJe 17/10/2017).
+Ante o exposto, nego provimento ao recursoem mandado de segurança.
+Publique-se. Intimem-se.
