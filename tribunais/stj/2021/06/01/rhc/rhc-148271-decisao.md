@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto porJOSÉ RONALDO DA FRANÇAcontra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAISno julgamento do HC n. 1.0000.21.038489-7/000.
+Extrai-se dos autos que foi determinada a prisão preventiva do recorrente em feito que apura sua participação emdelitos tipificados nos arts. 33 e 35, ambos da Lei n. 11.343/06 (tráfico e associação para o tráfico de drogas).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"EMENTA: HABEAS CORPUS-TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA TAL FIM -NECESSIDADE DA PRISÃO PREVENTIVA -TEMA JÁ ANALISADO -MERA REITERAÇÃO -NÃO CONHECIMENTO -ALEGAÇÃO DE INEXISTÊNCIA DE JUSTA CAUSA E FALTA DE PROVAS DE ENVOLVIMENTO DO PACIENTE NO DELITO -JUSTA CAUSA PRESENTE -PRINCÍPIO DA ISONOMIA -CORRÉ SOLTA -CONDIÇÕES DISTINTAS -ORDEM DENEGADA. 1. Em se tratando, alguns dos pedidos, de mera reiteração de writ anterior, já enfrentados à exaustão por ocasião de seu julgamento, não se conhece do habeas corpus nesta parte. 2. Em sede de habeas corpus, só é possível trancar ação penal em situações especiais, como nos casos em que é evidente e inafastável a negativa de autoria, quando o fato narrado não constitui crime, sequer em tese, e em situações similares, onde pode ser dispensada a instrução criminal para a constatação de tais fatos, situação que não se configura na espécie. 3. Não há que se falar em aplicação do princípio da isonomia em relação à soltura de envolvida em crime atribuído ao réu, uma vez que não há equivalência entre as situações fático-jurídicas. 4. Ordem parcialmente conhecida e, nesta extensão, denegada." (fl. 608)
+No presente recurso, afirmaa necessidade de trancamento da ação penal em curso, sob o argumento de ausência de justa causa pois não estariam demonstradas sequer indícios da participação do recorrente nos crimes que lhe são imputados. Aponta que a denúncia se funda em meras alegações sem comprovação. Pelos mesmos motivos, aduz que a prisão preventiva carece de fundamento e que é possível a substituição da custódia por medida cautelar diversa, caso seja necessário.
+Pretende, em liminar, o recolhimento do mandado de prisão expedido e, no mérito, o trancamento da ação penal.
+É o relatório.
+Decido.
+No caso, ao menos em juízo perfunctório, não é possível identificar de plano o constrangimento ilegal aventado ou, ainda, a presença do fumus boni iuris e do periculum in mora, elementos autorizadores para a concessão da tutela de urgência.
+Confundindo-se com o mérito, a pretensão deve ser submetida à análise do órgão colegiado, oportunidade na qual poderá ser feito exame aprofundado das alegações relatadas após manifestação do Parquet.
+Por tais razões, indefiro o pedido de liminar.
+Oficie-se à autoridade coatora, bem como ao juízo de primeiro grau, a fim de requisitar-lhes, no prazo legal, as informações pertinentes a serem prestadas, preferencialmente, pela Central do Processo Eletrônico - CPE do STJ. Requisita-se, também, o envio de senha para acesso ao processo no site do Tribunal, se for o caso.
+Após, encaminhem-se os autos ao Ministério Público Federal para parecer.
+Publique-se.
+Intimem-se.
