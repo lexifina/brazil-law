@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravode MM ORIGINAL DISTRIBUIDORA DE PETRÓLEO LTDA. queobjetivaadmissão de recurso especialinterposto contra acórdão do TJSPassim ementado:
+TRIBUTOSI CMS Exceção de pré-executividade Juros Inconstitucionalidade reconhecida pelo Órgão Especial CDA Execução fiscal Suspensão da exigibilidade Título executivo Retificação Possibilidade: Ilegalidade parcial no título executivo, sanável mediante retificação, não é causa extintiva de execução fiscal, observado que fica mantida a suspensão da exigibilidade do crédito tributário controvertido, até o cumprimento do decidido na exceção de pré-executividade.
+No especial, a partealegaviolação dosarts.489 e 1.022 do CPC/2015 e arts. 203 e 204 do CTN, bem como a ocorrência de divergência jurisprudencial. Sustenta, em síntese, que:
+a) há contradição no acórdão recorrido em manter adeterminação do juiz de primeiro grau de retificação da CDA pela exequente para correção da indicação dos juros, mesmo declarando não ter sido feito no momento oportuno;
+b)a nulidade da CDA no caso concreto se verifica ante adeclaração de necessidade de retificação do título, que não teriasido feita no momento oportuno pelo exequente, ou seja, até a decisão de primeiro grau.
+O recurso especial foi inadmitido pelo óbice da Súmula 7 do STJ.
+Agravo interposto.
+Passo a decidir.
+O recurso especial origina-se de agravo de instrumento contra decisão de Juiz da execução fiscal que, reconhecendo a inaplicabilidade do índice de juros descrito no título, determinou a sua retificação para fazer incluir o correto índice aplicável.
+O Tribunal bandeirante negou provimento ao agravo. Consignou serpossível a correção do título por mero cálculo aritmético, não havendoque se declarar a sua nulidade (e-STJ fl. 76):
+O cálculo envolve simples operação aritmética, bastando o decote da quantia cobrada a maior para sanar o vício, dispensada a declaração de nulidade do título.
+Opostos embargos de declaração, foram eles rejeitados.
+Pois bem.
+Da análise dojulgadorecorrido, verifica-se que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia.
+Com efeito, consignou expressamente, e de forma coerente, que a correção da indicação do índice de juros declarado inconstitucional pelo órgão especial daquela Corteenvolve simples operação aritmética, bastando o decote da quantia cobrada a maior para sanar o vício, dispensada a declaração de nulidade do título.
+Ademais, ovício decontradiçãosó se caracteriza quando a conclusão da decisão judicial não guardar correlação com a fundamentação utilizada para lhe dar respaldo ou nela houver fundamentos não compatíveis entre si, o que não é o caso, visto que a parte embargante apontacontradiçãodo acórdão com entendimentos firmados em outros precedentes e com a tese por ela defendida.
+Aliás, registre-se que esta Corte Superior externa, pacificamente, o entendimento segundo o qual:
+acontradiçãoremediável por embargos de declaração, é aquela interna ao julgado embargado, a exemplo da grave desarmonia entre a fundamentação e as conclusões da própria decisão, capaz de evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador, ou seja, o recurso integrativo não se presta a corrigircontradiçãoexterna, bem como não se revela instrumento processual vocacionado para sanar eventualerrorinjudicando.(EDclnosEDclnoAgRgnoREsp1.319.666/MG, Rel. Ministra Regina Helena Costa, Primeira Turma,DJe26/02/2016).
+Sobre o tema,entre outros, confiram-se:REsp1.552.233/MT, rel. Ministro Ricardo Villas BôasCueva, Terceira Turma,DJe20/06/2016;AgRgnoAREsp832.989/SP, rel. Ministro SérgioKukina, Primeira Turma,DJe19/05/2016;EDclnoAgRgnoAREsp223.660/SP, rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma,DJe17/03/2016.
+Dessa forma, correta a rejeição dos embargos de declaração,ante a inexistência de omissão, contradição ou obscuridade a ser sanada.
+Dito isso, anote que a jurisprudência desta Corte Superior firmou-se no mesmo sentido do entendimento defendido no acórdão recorrido de que"é possível prosseguir na execução fiscal sem necessidade de emenda ou substituição da CDA, quando viável o decote das parcelas do título executivo fiscal tidas por ilegais na sentença por simples cálculo aritmético, permanecendo incólume a presunção de liquidez e certeza do título executivo" (STJ, REsp 1.887.677/PE, rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 05/10/2020).
+No mesmo sentido:AgInt no AREsp 1254709/SP, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 31/08/2020, DJe 04/09/2020;AgInt no REsp 1586899/SP, rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 20/06/2017, DJe 27/06/2017.
+Dessa forma,incide, naespécie,aSúmula83do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", que é aplicável quando oapelo nobreé interposto com base nas alíneas "a" e "c" dopermissivo constitucional.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE DO RECURSO ESPECIAL e, nessa parte, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
