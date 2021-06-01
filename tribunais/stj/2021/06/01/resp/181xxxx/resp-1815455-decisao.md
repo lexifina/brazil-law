@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+"Seguro de saúde. Reajuste de mensalidade. Abusividade. Aplicação do CDC. Plano coletivo. Aumento por mudança de faixa etária aos 59 anos. Abusividade em face do art. 51, IV e §1º, II, do CDC. Tentativa de burla ao Estatuto do Idoso. Decisão de primeira instância que se confirma na formado art. 252/RITJSP. Apelação desprovida."
+Opostos os embargos de declaração, esses foram rejeitados.
+Verifico que se discute, nos presentes autos, a "(a) validade de cláusula contratual de plano de saúde coletivo que prevê reajuste por faixa etária; e (b) Ônus da prova da base atuarial do reajuste", tema esse que foi afetado à Segunda Seção, sob o rito dos repetitivos - artigo 1.036 do Código de Processo Civil de 2015 -, nos autos dos REsps 1716113/DF, 1721776/SP, 1723727/SP, 1728839/SP, 1726285/SP e 1715798/RS (DJe 10/6/2019), de relatoria do Ministro Paulo de Tarso Sanseverino, vinculado ao Tema 1.016.
+Desse modo, caracterizada a identidade de questão de direito submetida à sistemática dos recursos repetitivos, devem ser devolvidos os autos ao Tribunal de origem, nos termos do artigo 256, L, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Em face do exposto, nos termos do artigo 1.037, II, do Código de Processo Civil, determino a devolução destes autos ao Tribunal de origem, com a respectiva baixa, para nele permanecerem sobrestados até o julgamento do mérito do recurso recebido como representativo da controvérsia (Tema 1.016), e, após, que se proceda em conformidade com os comandos dos artigos 1.040 e 1.041 do Código de Processo Civil.
+Intimem-se.
