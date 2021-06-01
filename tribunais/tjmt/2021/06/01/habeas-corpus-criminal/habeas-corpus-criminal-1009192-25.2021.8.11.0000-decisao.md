@@ -1,0 +1,36 @@
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA DE MATO GROSSO
+TERCEIRA CÂMARA CRIMINAL
+HABEAS CORPUS CRIMINAL (307) 1009192-25.2021.8.11.0000
+IMPETRANTE
+DR. WAGNER ROGERIO NEVES DE SOUZA
+PACIENTE
+ALDEIR QUINTINO RODRIGUES JUNIOR
+DECISÃO MONOCRÁTICA
+Vistos...
+Resumidamente, trata-se de habeas corpus, com pedido de concessão liminar, impetrado em favor do paciente acima identificado, contra suposto ato coator atribuído ao d. Juízo da 2a Vara Criminal da Comarca de Cuiabá/MT, que nos autos do Processo Executivo de Pena n.o 0019651-60.2010.8.11.0042, alterou de 1/6 (um sexto) para 3/5 (três quintos) a fração para cumprimento do requisito objetivo necessário à progressão de regime especificamente no que concerne à condenação pelo crime do art. 16, caput, da Lei n.o 10.826/03, por reconhecê-lo como hediondo a despeito da alteração sobrevinda na Lei n.o 8.072/90 a partir da vigência do Pacote Anticrime (Lei n.o 13.964/2019), a qual restringiu a hediondez à posse ou porte de arma de fogo de uso proibido, o que não se amolda ao caso do reeducando.
+Com fulcro em tais considerações, o impetrante requer, inclusive liminarmente, a concessão da ordem em favor do paciente, simplesmente para que seja alterada a aludida fração para quantum aplicável aos crimes comuns, e instrui o writ com a documentação registrada sob o ID 88623471 ao ID 88623475.
+É o relato do essencial.
+DECIDO.
+Exatamente como já sedimentado na jurisprudência dos Tribunais Superiores, entendo que deve ser racionalizado o emprego do habeas corpus, em prestígio, inclusive, ao sistema recursal, inadmitindo-se a impetração em substituição ao recurso próprio, sem prejuízo, em contrapartida, de concessão da ordem de ofício acaso constatada flagrante ilegalidade, que esteja comprovada de plano; afinal, o habeas corpus não pode ser utilizado como um ‘super’ recurso, que não tem prazo nem requisitos específicos, devendo se conformar ao propósito para o qual foi historicamente instituído, não se constituindo em panaceia para todos os males.
+Nesse sentido:
+“O Supremo Tribunal Federal e o Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade” (STJ – HC 538.337/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/02/2020, DJe 28/02/2020). Destaquei.
+No caso em exame, o impetrante claramente quer se utilizar do remédio heroico como sucedâneo recursal – tanto que cometeu “ato falho” à pág. 9 da inicial, ao afirmar “De rigor, portanto, o acolhimento do agravo” (sic – ID 88623472), muito possivelmente por acreditar que a tramitação do recurso de agravo em execução penal é mais morosa que a de um habeas corpus, o que só reforça a necessidade de se conter tais abusos e subterfúgios mediante a pronta extinção do writ sem exame do mérito.
+A pretendida retificação do cálculo penal para afastar a fração de 3/5 (três quintos) em relação ao delito tipificado no art. 16, caput, da Lei n.o 10.826/03 não comporta exame na via eleita e, inclusive, como se observa da prova pré-constituída, já é objeto de recurso de agravo em execução interposto pela i. Defesa com idênticos fundamentos. Logo, com mais razão há de ser obstado o prosseguimento do writ.
+Consoante o precedente do Superior Tribunal de Justiça, “a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual” (HC 482.549/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 11/03/2020, DJe 03/04/2020). Grifei.
+De mais a mais, não verifico flagrante ilegalidade que possa ser sanada pela concessão da ordem ex officio.
+Como se sabe, a ação de habeas corpus constitui-se no remédio heroico instituído pelo Poder Constituinte Originário objetivando o resguardo da liberdade individual de qualquer pessoa, tal como previsto no art. 5o, inc. XV, da Carta Magna, sendo cabível tão somente quando houver violação ou ameaça, por ato ilegal ou abuso de poder, ao jus ambulandi do sujeito, nos termos do inc. LXVIII do aludido dispositivo constitucional.
+Isso quer dizer que o habeas corpus é o remédio constitucional voltado ao combate de constrangimento ilegal específico, de ato ou decisão que afete, potencial ou efetivamente, direito líquido e certo do cidadão, com reflexo direto em sua liberdade de locomoção.
+Tanto é assim, que a jurisprudência dos Tribunais Superiores já consolidou seu entendimento nesse sentido, consoante se observa dos seguintes precedentes, in verbis:
+“O habeas corpus é o instrumento cabível para a tutela da liberdade ambulatorial de qualquer pessoa que se encontre em território nacional, não se prestando a outros fins, ainda que legítimos (...).” (HC 311.385/SC, Rel. Min. JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 17/10/2017, DJe 26/10/2017). Grifei.
+“O objeto da tutela em habeas corpus é a liberdade de locomoção quando ameaçada por ilegalidade ou abuso de poder (CF, artigo 5o, LXVIII), não cabendo sua utilização quando não demonstrada a existência de fatos aptos a tolherem a liberdade de ir e vir do paciente” (HC 182387 AgR, Relator(a): LUIZ FUX, Primeira Turma, julgado em 29/05/2020, PROCESSO ELETRÔNICO DJe-151 DIVULG 17-06-2020 PUBLIC 18-06-2020). Destaquei.
+Na hipótese, ainda que alterada hoje a fração incidente no cálculo de pena, tal qual pleiteado pelo impetrante, permaneceria preso o reeducando, porquanto o cálculo anterior à prolação do decisum ora hostilizado demonstra que o requisito objetivo necessário à progressão de regime, mesmo com aplicação da fração de 1/6 para o delito do art. 16, caput, do Estatuto do Desarmamento, só seria alcançado no ano vindouro, sem contar que eventual promoção ao semiaberto depende do preenchimento cumulativo do requisito subjetivo.
+Nessas condições, carece o impetrante de interesse de agir, sob o viés da adequação da via eleita, sendo de rigor a pronta coibição do uso indiscriminado do habeas corpus como sucedâneo recursal, sem que exista qualquer constrangimento ilegal que repercuta de imediato no direito de ir e vir do paciente.
+CONCLUSÃO:
+Ante o exposto, por total inadequação da via eleita, EXTINGO SEM EXAME DO MÉRITO o presente habeas corpus impetrado em favor do paciente Aldeir Quintino Rodrigues Júnior, fazendo-o com esteio no artigo 3o do CPP c/c artigo 485, inciso IV, do CPC c/c artigo 51, incisos XV e XXII do RITJMT.
+Intime-se o impetrante acerca do ora deliberado.
+Após, acaso exaurido in albis o prazo recursal, certifique-se o correspondente e revisem-se os autos. Inexistindo pendências, arquivem-se-os com as cautelas de estilo e a respectiva “baixa” no acervo deste Relator.
+Cumpra-se.
+Cuiabá-MT, 31 de maio de 2021.
+Des. Gilberto Giraldelli
+Relator
