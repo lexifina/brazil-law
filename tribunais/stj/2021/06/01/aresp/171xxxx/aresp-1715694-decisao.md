@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que negou seguimento ao recurso especial, ante a incidência da Súmula n. 83/STJ(e-STJ fls. 308/311).
+O acórdão está assim ementado (e-STJ fl. 240):
+EMENTA - AGRAVO DE INSTRUMENTO - AÇÃO DE CUMPRIMENTO DE SENTENÇA - PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO ARGUIDA EM SEDE DE CONTRAMINUTA - PRELIMINAR ACOLHIDA - DESCUMPRIMENTO DO DISPOSTO NO ARTIGO 1.018, §2º DO CPC - ARGUIDO E PROVADO - AGRAVO NÃO CONHECIDO.
+Em se tratando de agravo de instrumento contra decisão proferida em processo físico, deve ser observado o dispositivo contido no artigo 1.018 do CPC.
+Tendo a parte agravada, arguido e provado o descumprimento do disposto no artigo 1.018, §2º do CPC, o recurso de agravo de instrumento não deve ser conhecido.
+No recurso especial (e-STJ fls. 249/255), fundamentado no art. 105, III, "c", da CF, a parte recorrente alegou dissídio jurisprudencial, sustentando que o descumprimento do previsto no art. 1.018, § 1º, do CPC/2015não gerou prejuízo, de modo que o agravo de instrumento pode ser conhecido.
+Osagravadosapresentaram contrarrazões e contraminuta (e-STJ fls. 269/287 e 320/343).
+É o relatório.
+Decido.
+O Tribunala quodecidiu a matéria nos seguintes termos (e-STJ fls. 244/246):
+Do não conhecimento do recurso - violação ao disposto nos §§ 2º e 3º do art. 1.018 do CPC Alega a parte agravada que o recurso não deve ser admitido, pois os agravantes deixaram de comunicar nos autos principais, a interposição do presente recurso e, em se tratando de processo físico, houve violação ao disposto nos §§ 2º e 3º do art. 1018 do CPC, estando devidamente certificada a não comunicação, por meio de certidão cartorária constante dos autos.
+Em que pese tenha inicialmente, refutado a preliminar, revendo a questão entendo que deve ser acolhida.
+Verifica-se que a parte agravada arguiu e provou o descumprimento da norma de que trata o artigo 1.018, §2º do CPC (p.534-536 e 546).
+Pois bem, dispõe o artigo 1.018 do CPC:
+"Art. 1.018. O agravante poderá requerer a juntada, aos autos do processo, de cópia da petição do agravo de instrumento, do comprovante de sua interposição e da relação dos documentos que instruíram o recurso.
+§ 1º Se o juiz comunicar que reformou inteiramente a decisão, o relator considerará prejudicado o agravo de instrumento.
+§ 2º Não sendo eletrônicos os autos, o agravante tomará a providência prevista no caput, no prazo de 3 (três) dias a contar da interposição do agravo de instrumento.
+§ 3º O descumprimento da exigência de que trata o § 2º, desde que arguido e provado pelo agravado, importa inadmissibilidade do agravo de instrumento. (com destaque)".
+Destaque-se o comentário de Nelson Nery Júnior e Rosa Maria de Andrade Nery , com destaques:
+  2. Finalidade. O objetivo da norma é dar condições para que ojuízo a quo tome ciência da interposição do agravo e possa, querendo, proferir juízo de retratação da decisão agravada. Neste sentido:Dinamarco. Reforma, 288; Carreira Alvim. Novo agravo, 102. A retratação no agravo de instrumento é possível, segundo se infere do sistema (v. CPC 1018 § 1.º). Trata-se de faculdade de que goza o agravante, no processo eletrônico e a falta dessa comunicação é irrelevante, razão por que não enseja não conhecimento do agravo. No processo físico, entretanto, trata-se de poder-dever atribuído ao agravante porque, se desatendida a comunicação, o agravo pode requerer o não conhecimento do agravo, cabendo a ele, agravado, o ônus da prova dessa alegação. A matéria, portanto, não é aferível ex officio, pois a inadmissão, no processo físico, depende da alegação do recorrido. (com destaque).
+A doutrina de Elpídio Donizettipontua que:
+"O art. 1.018 estabelece que "o agravante poderá requerer a juntada, aos autos do processo, de cópia da decisão da petição do agravo de instrumento, do comprovante de sua interposição e da relação dos documentos que instruíram o recurso".
+Não obstante a utilização do verbete "poderá" (caput do art. 1.018), permanece o caráter obrigatório da petição de juntada do agravo de instrumento interposto em segunda instância aos autos originais do processo, para fins de retratação do juízo singular e ciência do agravado sobre o ajuizamento do recurso e de seu conteúdo.A não informação ao juízo singular, no prazo de 3 dias a contar da interposição, implica inadmissibilidade do recurso, nos termos dos §§ 2º e 3º do art. 1.018. No caso de autos eletrônicos, por óbvio, dispensasse a comunicação. Por certo nos sistemas informatizados haverá um aviso alertando o juiz sobre a interposição do agravo de instrumento, a fim de oportunizar ao magistrado o juízo de retratação.
+Nos termos do § 1º do art. 1.018, se o juiz comunicar que reformou inteiramente a decisão, o relator considerará prejudicado o agravo de instrumento. Registre-se que a requisição de informações pelo relator do recurso é facultativa. Assim, nem sempre o juiz toma conhecimento da interposição do agravo por essa via, uma razão a mais a justificar a providência prevista no art. 1.018".
+Desta forma, verifica-se nos autos que o processo de origem é físico e, por ocasião do agravo distribuído em 05/07/2019, não houve a comprovação do cumprimento do disposto no artigo 1.018 do CPC, conforme se constata da certidão cartorária acostada à p. 156 dos autos.
+Observa-se, ainda, que a certidão de p. 156 foi elaborada em 25/07/19 e o presente recurso interposto em 05/07/19, ou seja, mesmo após transcurso de prazo considerável, o juízo ainda não havia sido informado pela parte agravante, acerca da interposição do presente reclamo.
+Sendo assim, tendo o agravado arguido e provado (p. 156) odescumprimento do disposto no parágrafo segundo do aludido artigo, a fim de possibilitar eventual juízo de retratação pelo magistrado prolator da decisão interlocutória recorrida, é imperioso dar cumprimento ao agravo e não conhecer do mesmo.
+O julgado está de acordo com a jurisprudência desta Corte, a qual entende que, sendo os autos físicos em primeira instânciae, se arguido e provado o descumprimento da comunicação prevista no art. 1.018, § 1º, do CPC/2015, o agravo de instrumento não deverá ser conhecido.
+Nesse sentido:
+RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. AUTOS FÍSICOS DA AÇÃO E AUTOS ELETRÔNICOS DO INSTRUMENTO. AUSÊNCIA DE COMPROVAÇÃO DA INTERPOSIÇÃO DO RECURSO PERANTE O PRIMEIRO GRAU DE JURISDIÇÃO. ÔNUS PROCESSUAL DO AGRAVANTE NÃO OBSERVADO. VÍCIO ARGUIDO E PROVADO PELO AGRAVADO EM CONTRARRAZÕES. INADMISSIBILIDADE. MANUTENÇÃO.
+1. Ação indenizatória em fase de cumprimento de sentença da qual se extrai o presente recurso especial, interposto em 31/07/17 e concluso ao gabinete em 26/04/18.
+2. O propósito recursal consiste em definir se o agravante deve comprovar a interposição do agravo no juízo de primeiro grau, quando apenas os autos do instrumento são eletrônicos.
+3. Quando os autos forem físicos apenas a juntada das cópias do agravo de instrumento no processo originário permite o exercício da retratação pelo juízo prolator da decisão impugnada. Somente a partir dessa perspectiva pode se compreender o §1º do 1.018, acerca da prejudicialidade recursal decorrente da reforma da decisão pelo juízo da origem.
+4. Em se tratando de autos eletrônicos em primeiro e segundo graus de jurisdição, com os avanços tecnológicos, espera-se que a integração dos sistemas processuais realize comunicações automáticas e viabilize a plena ciência das informações da demanda por todos os sujeitos envolvidos no litígio, inclusive o magistrado.
+5. Os vícios passíveis de correção e a complementação da documentação exigível (arts. 932, parágrafo único, 1.017, §3º, do CPC/15) dizem respeito às providências que seriam realizadas de ofício pelo Relator, referentes a equívocos na formação do próprio recurso.
+6. Todavia, na hipótese do art. 1.018, a inadmissibilidade do agravo de instrumento ocorre somente se arguida e provada pelo agravado em contrarrazões, pois o ônus do agravante em tomar referida providência tem prazo assinalado na própria lei, isto é, "três dias a contar da interposição do agravo de instrumento" (§2º).
+7. Recurso especial conhecido e não provido.(REsp 1749958/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/09/2018, DJe 21/09/2018.)
+Na mesma linha, a seguinte decisão monocrática:AREsp 1.347.555/SP,MinistroMARCO BUZZI, DJe10/10/2018.
+Incide, portanto, a Súmula n. 83/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
