@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Paulo de Tarso Sanseverino (Presidente) e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Nancy Andrighi.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO RESCISÓRIA. ALEGAÇÃO DE VIOLAÇÃO DE ENUNCIADO DE SÚMULA. NÃO CABIMENTO. SÚMULA 528/STJ. JULGAMENTO NÃO UNÂNIME. AMPLIAÇÃO DO COLEGIADO. APLICAÇÃO DA TÉCNICA DO ART. 942, § 3º, I, DO CPC/2015. NÃO CABIMENTO. AGRAVO INTERNO IMPROVIDO.
+1. O regramento contido no caput do art. 942 do CPC/2015, que dispõe acerca da apelação, não se aplica no presente caso, uma vez que é distinta do § 3º, que regulamenta a incidência da técnica nos julgamentos não unânimes de ação rescisória e agravo de instrumento, para os quais houve expressa limitação aos casos de rescisão ou modificação da decisão parcial de mérito.
+2. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Gercirene Claudia Bandeira contra decisão monocrática desta relatoria, proferida nos seguintes termos (e-STJ, fl. 431):
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO RESCISÓRIA. ALEGAÇÃO DE VIOLAÇÃO DE ENUNCIADO DE SÚMULA. NÃO CABIMENTO. SÚMULA 528/STJ. JULGAMENTO NÃO UNÂNIME. AMPLIAÇÃO DO COLEGIADO.APLICAÇÃO DA TÉCNICA DO ARTIGO 942, § 3º, I, DO CPC/2015. NÃO CABIMENTO. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Os opostos embargos de declaração opostos contra a decisão agravada foram rejeitados.
+Em suas razões, a agravante alega que o Tribunal de origem, ao aplicar o princípio do isolamento dos atos processuais, malferiu o entendimento jurisprudencial predominante, inclusive desta Corte. Aduz que "o marco temporal a se ter em conta para incidência do art. 942 do NCPC não é a data de início do julgamento 16.03.2016, conforme insculpido no v. Acórdão a quo, do Tribunal de origem, quando supostamente haveria iniciado o julgamento sob a égide do CPC/1973, mas sim a data de proclamação do julgamento, publicado o v. Acórdão rescindendo em 09.06.2016. Portanto, sob a égide do NCPC/15. Daí a vigência do art. 942, do CPC/15, decisão atacada pelo Recurso Especial" (e-STJ, fls. 461-475).
+Busca, assim, a reconsideração da decisão agravada.
+Não foi apresentada impugnação (e-STJ, fl. 478).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO RESCISÓRIA. ALEGAÇÃO DE VIOLAÇÃO DE ENUNCIADO DE SÚMULA. NÃO CABIMENTO. SÚMULA 528/STJ. JULGAMENTO NÃO UNÂNIME. AMPLIAÇÃO DO COLEGIADO. APLICAÇÃO DA TÉCNICA DO ART. 942, § 3º, I, DO CPC/2015. NÃO CABIMENTO. AGRAVO INTERNO IMPROVIDO.
+1. O regramento contido no caput do art. 942 do CPC/2015, que dispõe acerca da apelação, não se aplica no presente caso, uma vez que é distinta do § 3º, que regulamenta a incidência da técnica nos julgamentos não unânimes de ação rescisória e agravo de instrumento, para os quais houve expressa limitação aos casos de rescisão ou modificação da decisão parcial de mérito.
+2. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento.
+Conforme registrado na decisão agravada, o Tribunal de origem, ao julgar a ação rescisória, assim consignou (e-STJ, fl. 180):
+Não obstante a argumentação expendida, verifico que a agravante não apresenta argumentos capazes de infirmar a decisão que não concedeu tutela provisória de urgência para suspender a Execução que tramita na origem e no bojo da qual houve a constrição do imóvel que diz ter adquirido de boa-fé. Isso porque, a recorrente se limita a repisar os argumentos expendidos na inicial.
+Como bem explicitado na decisão agravada, a análise do pedido de tutela provisória de urgência consiste em uma análise perfunctória, que será aprofundada por ocasião do julgamento do mérito da ação, após a instrução probatória e o exercício da ampla defesa pela parte adversa.
+Nesse sentido, toda a fundamentação aventada pela agravante para embasar a alteração do entendimento consignado na decisão vergastada, quais sejam, de que adquiriu o apartamento de boa-fé e de que no momento
+da lavratura da escritura e do registro correspondente não houve qualquer óbice já foram apreciados e, ao menos em sede de cognição sumária, foram rejeitados.
+Como salientado por ocasião da apreciação do pedido de tutela de urgência, tratando-se de Ação Rescisória, "necessário que se anteveja mais do que a plausibilidade do direito do autor da ação rescisória para o deferimento de uma tutela antecipatória, não sendo razoável, tal como salientado em inúmeros julgados desta Corte e do c. STJ, que "se presuma a existência da aparência do bom direito contra quem tem, a seu favor, a coisa julgada obtida em processo de cognição exauriente."
+Com efeito, a segurança trazida pelo respeito à coisa julgada é um dos principais pilares sobre os quais se sustenta o processo civil hodierno, na perspectiva do Estado Democrático de Direito.
+Desse modo, ao não trazer nenhum novo argumento a inquinar a conclusão esposada na apreciação perfunctória, a manutenção do r. decisum rescindendo e da própria decisão agravada é medida que se impõe. Nesse sentido, percebe-se que a pretensão antecipatória, reiterada nas razões do agravo interno, é impassível de ser concedida.
+O acórdão dos embargos de declaração fundamentou o decisum nos termos abaixo transcritos (e-STJ, fls. 232-234):
+A técnica de ampliação do quórum do colegiado prevista no art. 942, do CPC, somente se aplica ao julgamento do recurso de apelação, não sendo cabível em sede de Ação Rescisória.
+(..)
+Destaca que a técnica de ampliação do quórum do colegiado prevista no art. 942, CPC, diz respeito ao julgamento de apelações quando não for unânime o julgamento, não sendo o caso dos autos.
+Ratifica-se que, embora o acórdão recorrido tenha divergido desta Corte quanto ao marco temporal, in casu não se aplica o regramento contido no caput do art. 942 do CPC/2015, que dispõe acerca da apelação, uma vez que é distinta do § 3º, que regulamenta a incidência da técnica nos julgamentos não unânimes de ação rescisória e agravo de instrumento, para os quais houve expressa limitação aos casos de rescisão ou modificação da decisão parcial de mérito.
+A propósito:
+RECURSO ESPECIAL. PROCESSO CIVIL. ART. 942, CAPUT, DO CPC/2015. JULGAMENTO NÃO UNÂNIME. APELAÇÃO. TÉCNICA DE AMPLIAÇÃO DO COLEGIADO. NATUREZA JURÍDICA. INCIDÊNCIA. MARCO TEMPORAL. ABRANGÊNCIA. NULIDADE. CONFIGURAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a aferir (i) qual o diploma adjetivo regulador do julgamento colegiado que se iniciou sob a vigência do CPC/1973, mas se encerrou na vigência do CPC/2015; (ii) sucessivamente, entendendo-se pela aplicação do CPC/2015, se era cabível a aplicação da sistemática do julgamento ampliado na hipótese em que a sentença é mantida por acórdão não unânime; e, no mérito, (iii) se há violação do direito exclusivo de exploração da marca validamente registrada "Empório Santa Maria" em virtude da utilização, como título de estabelecimento, do termo "Casa Santa Maria".
+3. Nos termos do art. 942, caput, do CPC/2015, quando o resultado da apelação for não unânime, o julgamento terá prosseguimento em sessão a ser designada, com a presença de outros julgadores, em número suficiente para garantir a possibilidade de inversão do resultado inicial.
+4. O art. 942 do CPC/2015 não estabelece uma nova espécie recursal, mas, sim, uma técnica de julgamento, a ser aplicada de ofício, independentemente de requerimento das partes, com o objetivo de aprofundar a discussão a respeito de controvérsia, de natureza fática ou jurídica, acerca da qual houve dissidência.
+5. O art. 942 do CPC/2015 possui contornos excepcionais e enuncia uma técnica de observância obrigatória pelo órgão julgador, cuja aplicabilidade só se manifesta de forma concreta no momento imediatamente posterior à colheita dos votos e à constatação do resultado não unânime, porém anterior ao ato processual formal subsequente, qual seja a publicação do acórdão.
+6. Diante da natureza jurídica sui generis da técnica de ampliação do colegiado, o marco temporal para aferir a incidência do art. 942, caput, do CPC/2015 deve ser a data da proclamação do resultado não unânime da apelação, em respeito à segurança jurídica, à coerência e à isonomia.
+7. Na hipótese em que a conclusão do julgamento não unânime da apelação tenha ocorrido antes de 18/3/2016, mas o respectivo acórdão foi publicado após essa data, haverá excepcional ultratividade do CPC/1973, devendo ser concedida à parte a possibilidade de interposição de embargos infringentes, atendidos todos os demais requisitos cabíveis. Precedente da Terceira Turma.
+8. Na hipótese de proclamação do resultado do julgamento não unânime ocorrer a partir de 18/3/2016, deve ser observado o disposto no art.942 do CPC/2015.
+9. A incidência do art. 942, caput, do CPC/2015 não se restringe aos casos de reforma da sentença de mérito, tendo em vista a literalidade da disposição legal, que não estabelece nenhuma restrição semelhante ao regime dos extintos embargos infringentes.
+10. A redação do caput do art. 942 do CPC/2015, que dispõe acerca da apelação, é distinta do § 3º, que regulamenta a incidência da técnica nos julgamentos não unânimes de ação rescisória e agravo de instrumento, para os quais houve expressa limitação aos casos de rescisão ou modificação da decisão parcial de mérito.
+11. Recurso especial provido para, acolhendo a preliminar de nulidade, determinar o retorno dos autos ao Tribunal de origem para que seja convocada nova sessão de prosseguimento do julgamento da apelação, nos moldes do art. 942 do CPC/2015, ficando prejudicadas, por ora, as demais questões.
+(REsp n. 1.762.236/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, Relator p/ Acórdão Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/2/2019, DJe 15/3/2019).
+Corrobora esse entendimento o seguinte julgado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. APLICAÇÃO DA TÉCNICA DO ARTIGO 942, § 3º, I, DO CPC/2015. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, CONTUDO, SEM EFEITO MODIFICATIVO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+2. A redação do art. 942, § 3º, I, do CPC/2015, que regulamenta a incidência da técnica nos julgamentos não unânime na ação rescisória, é condicionado ao resultado da parte meritória da demanda que acarreta a rescisão da coisa julgada e não na fase de admissibilidade desta ação. Precedentes: (REsp 1762236/SP, Rel. Ministro Marco Aurélio Bellizze, Relator p/ Acórdão Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/02/2019, DJe 15/03/2019).
+3. Acolho os embargos de declaração, sem efeitos infringentes.
+(EDcl nos EDcl no AgInt no REsp n. 1.739.593/ES, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 11/4/2019, DJe 22/4/2019 - sem grifo no original).
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
