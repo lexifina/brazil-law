@@ -1,0 +1,36 @@
+DECISÃO
+LUIZ PAULO FANTINATI alega sofrer coação ilegal, em decorrência de decisão do Desembargador relator do HC n. 0031590-42.2021.8.16.0000, em trâmite no Tribunal de Justiça do Estado do Paraná, que, ao indeferir o pedido liminar, manteve a sua prisão preventiva.
+A defesa pretende a soltura do paciente - cujo flagrante foi convertido em preventiva pelo crime de tráfico de drogas -, sob o argumento de ausência do preenchimento dos requisitos legais.
+Decido.
+I. Vedada supressão de instância
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Nesse sentido, permanece inalterado o entendimento dos Tribunais Superiores: HC n. 179.896 AgR, Rel. Ministro Alexandre de Moraes, 1ª T., DJe 2/4/2020; HC n. 182.390 AgR, Rel. Ministro Cármen Lúcia, 2ª T., DJe 24/4/2020; AgRg no HC n. 561.091/RJ, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 16/4/2020; AgRg no RHC 119.330/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/11/2019, DJe 02/12/2019; AgRg no HC n. 548.761/PE, Rel. Ministra Laurita Vaz, 6ª T., DJe 4/2/2020.
+III. Ato apontado como coator
+Verifico que, na espécie, o Juiz de primeiro grau decretou a preventiva nos seguintes termos:
+ ..
+Diante busca realizada no veículo do conduzido (VOYAGE - placa BAH-0415), foram localizadas 10 unidades de substância análoga ao LSD, 1 kg de substância análoga à maconha, bem como R$ 142,50 (cento e quarenta e dois reais e cinquenta centavos) em notas trocadas.
+Ainda, os indícios de autoria foram corroborados pelos depoimentos prestados pelos policiais militares responsáveis pelo flagrante, os quais informaram que estavam em patrulhamento na região do bairro Tingui, nesta Capital, diante de denúncias de supostos assaltos que estavam sendo praticados na região, quando, diante da atitude suspeita do conduzido e de um terceiro, foi verificada a quantidade de droga acima mencionada em seu veículo.  ..
+Ademais, é prescindível prova contundente da autoria delitiva para fins de conversão do flagrante em preventiva.
+O , por sua vez, caracteriza-se pelo provocado em decorrência da periculim libertatis risco concessão da liberdade ao sujeito passivo da persecução penal, na medida em que pode restar comprometida a garantia da ordem pública, a conveniência da instrução criminal e a aplicação da lei penal.
+Inobstante o investigado seja tecnicamente (cf. mov. 11.1) ao passo que somente primário responde a ações penais pela suposta prática de tráfico, deve ser ponderada a quantidade de substância entorpecente apreendida (1 kg de maconha  10 unidades de LSD) e o valor médio estimado das drogas, sendo incompatível referida quantidade com meros usuários de drogas, não apenas pela quantidade mas, precipuamente, pelo alto valor que elas representam.
+Com isso, a manutenção da liberdade do autuado representa risco à ordem pública, especialmente diante da potencial periculosidade concreta em decorrência da quantidade de droga encontrada em seu poder. A toda evidência, portanto, existe a potencial gravidade concreta da conduta do autuado, especialmente pelo seu modus operandi e tendo em vista as demais investigações a que responde pelo mesmo delito.  ..  (fls. 107-108)
+Impetrado habeas corpus perante o Tribunal local, houve decisão monocrática do Desembargador-relator, vazada nos seguintes termos:
+ ..
+No tocante à alegação de ausência de fundamentação da prisão preventiva,verifica-se que a custódia cautelar está amparada no e no sobretudo fumus commissi delicti periculum libertatis, considerando-se tanto a grande quantidade de droga apreendida, a saber, 1kg (um quilograma) de maconha e 10 (dez) unidades de LSD quanto o fato de que responde a outro processo pelo delito de tráfico de drogas, justificativas essas que, , têm neste momento de análise preliminar dos autos o condão de alicerçar a manutenção da custódia cautelar.
+Desta forma, o pedido liminar, tão somente para determinar que seja realizada defiro em parte audiência de custódia, ainda que por videoconferência.
+Comunique-se, com urgência, o Juízo acerca do teor da presente decisão, para a quo : a) realizar a audiência de custódia, ainda que pelo sistema de videoconferência, tendo em conta o Decreto Judiciário nº 103/2021 da Presidência deste Tribunal de Justiça do Estado do Paraná; b) prestar os esclarecimentos pertinentes, no prazo de 5 (cinco) dias.
+As informações deverão ser prestadas pelo Sistema Projudi.
+Após, remetam-se os autos à douta Procuradoria Geral de Justiça para os devidos fins.
+Cópia desta decisão servirá de ofício.
+Intime-se.
+Curitiba, 27 de maio de 2021. (fls. 160-164)
+Tais elementos afastam, à primeira vista, a plausibilidade jurídica do direito tido como violado, sobretudo em razão de se mostrarem suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar a quantidade de droga apreendida e a existência de registros criminais.
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+Por fim, quanto à alegação de nulidade da prisão ante a não realização de audiência de custódia, como bem disse o Desembargador relator, "vale ressaltar que o simples fato de não ter sido realizada audiência de custódia, conforme entendimento das Cortes Superiores, não tem o condão de ensejar a ilegalidade da medida, com a concessão da liberdade, haja vista que se trata de uma irregularidade. Nessa linha: STF, HC 193068, Relator(a): MARCO AURÉLIO, Primeira Turma, julgado em 15/12/2020, publicado em 11/01/2021".
+Assim, não identifico ilegalidade manifesta no ato, fazendo a ressalva de que não preclui o exame mais acurado da matéria, em eventual impetração que venha a ser aforada já a partir da decisão colegiada do tribunal competente.
+IV. Dispositivo
+À vista do exposto, indefiro liminarmente este habeas corpus, com fulcro na Súmula n. 691 do STF e no art. 210 do RISTJ.
+Publique-se. Intimem-se.
