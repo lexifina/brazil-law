@@ -1,0 +1,41 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso em mandado de segurança interposto por Gildete Nascimentocontra acórdão do Tribunal de Justiça do Estado da Bahia assim ementado (e-STJ, fl. 114):
+AGRAVO INTERNO. MANDADO DE SEGURANÇA. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. CONVOCAÇÃO POR DIÁRIO OFICIAL E MEIO ELETRÔNICO. CURTO ESPAÇO DE TEMPO. LEGALIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+Exsurge dos autos a ausência de direito líquido e certo da Impetrante de ser nomeada, mormente, em face de sua conduta negligente, ao não observar as regras disponibilizadas previamente no Edital de Abertura (subitem 2.9), bem como, em virtude do exíguo interstício entre a homologação do concurso (13/12/2017) e a respectiva convocação do candidato-postulante (30/05/2018) para entregar a documentação imprescindível à sua posse, agindo, portanto, em estrita observância ao princípio da razoabilidade.
+A publicação no diário oficial é plenamente admitida no ordenamento jurídico brasileiro, com a ressalva de não contemplar lapso temporal irrazoável entre o resultado da etapa anterior e a sua veiculação no Diário Oficial convocando o candidato para prosseguir no certame, hipótese inocorrente no caso vertente, eis que os atos, homologatório e o convocatório, foram publicados com uma diferença de cinco meses, em razoável e conciso período de tempo de distanciamento.
+A insurgente afirma que houve falha dorecorridono dever de informação, pois este não se utilizou de meio eficazes para efetuar a comunicação da impetrante a respeito de sua convocação em concurso público.
+Alega que (e-STJ, fl. 140):
+ ..  a convocação apenas por meio do Diário oficial após o resultado final do concurso público, ainda que prevista em edital, não atende ao princípio da publicidade, uma vez que dificilmente o ato atingiria a sua finalidade, que é a efetiva ciência do ato convocatório.
+Contrarrazões às e-STJ, fls. 300-314.
+Parecer do Ministério Público Federal, às e-STJ, fls. 324-328, em que opina pelo desprovimento do recurso.
+É o relatório.
+O Tribunal de origem denegou a segurança, no que interessa, sob os seguintes fundamentos (e-STJ, fls. 326-327):
+Não se ignora a jurisprudência dessa eg. Corte no sentido de que, após longo período entre a aprovação em concurso público e a nomeação, tal ato deva ser realizado mediante intimação pessoal e não apenas via Diário Oficial.
+ ..
+Contudo, o presente caso cuida de situação bastante diversa. Isso porque há previsão editalícia de comunicação mediante publicação nos sítios eletrônicos da empresa organizadora e da SEMGE, além de no Diário Oficial. Assim, tendo em vista que o concurso foi homologado em 13/12/2017 e a recorrente foi convocada em 31/5/2018, não há que se falar em "considerável lapso de tempo" entre a homologação e a convocação.
+Além disso, não é desarrazoado exigir que a candidata conferisse os sítios eletrônicos ou o Diário Oficial pelo curto período de tempo apontado, pelo menos uma vez a cada 15 dias, que foi o prazo entre a nomeação e a exclusão da recorrente do certame. Diga-se ainda que a recorrente foi convocada, pelos mesmos meios, a se submeter à averiguação presencial da auto declaração de afrodescendência, tendo comparecido ao órgão público na data correta.
+Nesse sentido, confira-se o que dispõe o Edital:
+"2.9 Os resultados e as convocações serão divulgados na Internet, nos endereços eletrônicos www.fgv. br/fgvprojetos/concursos/prefeituradesalvador e www.gestaopublica.salvador.ba.gov.br/concurso, e no Diário Oficial do Município.(..)
+14.2 É de inteira responsabilidade do candidato acompanhar as convocações e os demais atos disponibilizados no Diário Oficial do Município e no site da Secretaria Municipal de Gestão www.gestaopublica.salvador.ba.gov.br/concurso, após homologação do Processo Seletivo Simplificado.
+14.2.1 A convocação dos candidatos ocorrerá por meio do Diário Oficial do Município e será disponibilizado no site da Secretaria Municipal de Gestão www.gestaopublica.salvador.ba.gov.br/ concurso."
+Verifica-se, entretanto, que arecorrente não refutou todos os fundamentos utilizados pelo Tribunal de origem para denegar a segurança.
+Com efeito, a Corte a quo baseou seu entendimento também nas premissas de que (a) não houve lapso de tempo considerável entre a homologação do concurso e sua convocação;(b) havia previsão no edital do certame de convocação mediante publicação no sítio eletrônico da empresa organizadora além do Diário Oficial; e(c) bem como a insurgente teria atendido à convocação paraaveriguação presencial da auto declaração de afrodescendência, que foi realizada do mesmo modo.
+Todavia, aimpetrante deixou incólume essas questões, limitando-se a defender não ser razoável que o candidato acompanhe todas as publicações realizadas no diário oficial a fim de verificar se houve nomeação.
+No caso, ao não infirmar especificamente tais argumentos, a insurgente incidiu nos óbices das Súmulas 283 e 284 do STF, por desatender ao princípio da dialeticidade recursal.
+Nesse sentido:
+ADMINISTRATIVO. POLICIAL MILITAR. DEMISSÃO. ILEGITIMIDADE DA AUTORIDADE APONTADA COMO COATORA. DECADÊNCIA DO MANDAMUS. DESCUMPRIMENTO DO DEVER DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO DA ORIGEM. INOBSERVÂNCIA DA DIALETICIDADE. SÚMULA 283/STF.
+1. Verifica-se que a Corte de origem denegou a segurança com base em dois fundamentos: o reconhecimento da ilegitimidade passiva da autoridade apontada como coatora bem como a decadência do mandamus. Contudo, a questão da decadência não foi atacada pelo recorrente.
+2. É pacífica no STJ a orientação de que não se conhece de Recurso Ordinário em Mandado de Segurança quando a parte não impugna, especificamente, os fundamentos que dão suporte ao acórdão hostilizado. Logo, impõe-se o teor da Súmula 283/STF, por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+3. "Se o acórdão de denegação da ordem mandamental fundamenta-se em dois motivos considerados autônomos e, portanto, suficientes para manter o resultado desfavorável aos interesses do impetrante, cumpre-lhe na petição do recurso ordinário a refutação de ambos os motivos, pena de desatenção ao ônus da dialeticidade" (AgRg no RMS 49.108/PI, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/05/2016, DJe 16/5/2016).
+4. Recurso Ordinário não provido.
+(RMS 51.310/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/9/2016, DJe 7/10/2016).
+PROCESSUAL CIVIL E ADMINISTRATIVO. PROFESSORA ESTADUAL. EFETIVAÇÃO CONCEDIDA PELA LEI COMPLEMENTAR ESTADUAL 100/2007. INCONSTITUCIONALIDADE RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL. DESLIGAMENTO DO SERVIÇO PÚBLICO. AUTORIDADE COATORA. GOVERNADOR DO ESTADO DE MINAS GERAIS. ILEGITIMIDADE. ATO COATOR PRATICADO POR AUTORIDADE DIVERSA. FUNDAMENTO AUTÔNOMO NÃO ATACADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 283 E 284 DO STF.
+1. Cuida-se, na origem, de Mandando de Segurança impetrado contra ato do Governador do Estado de Minas Gerais objetivando a reintegração da parte recorrente ao cargo público de Professora de Educação Básica, em face de sua estabilidade.
+2. Em obediência ao princípio da dialeticidade, deve o recorrente apontar, com transparência e objetividade, os fundamentos que entende suficientes para reformar a decisão impugnada, respeitando a sua pertinência temática com a decisão atacada, sob pena de não conhecimento do inconformismo.
+3. Nesse contexto, verifica-se que a Corte de origem denegou a segurança por entender que "o ato foi realizado pela SECRETARIA DE ESTADO DE EDUCAÇÃO, consoante se verifica da publicação do Diário Oficial daquela data, o que revela a ilegitimidade passiva da Autoridade apontada como coatora" (fl. 326, e-STJ).
+4. Contudo, esse argumento não foi atacado pela parte recorrente e, como é apto, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+5. Recurso Ordinário não provido.
+(RMS 55.046/MG, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2017, DJe 19/12/2017).
+Ante o exposto, não conheço do recurso em mandado de segurança.
+Publique-se. Intimem-se.
