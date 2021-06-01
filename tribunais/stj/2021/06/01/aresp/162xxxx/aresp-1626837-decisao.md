@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial, conforme o acórdão a seguir, às fls. 1004.
+PROCESSUAL CIVIL. AGRAVO INTERNO. PRAZOPRESCRICIONAL QUINQUENAL. RECURSO NÃO PROVIDO.
+1. O STJ já assentou que a exigência não tem natureza tributária,aplicando-lhe o prazo previsto no Decreto 20.910/32. Além disso, por ser arelação jurídica existente entre a ANS e as operadoras de plano de saúde regidapelo Direito Administrativo, afastou a aplicação do prazo trienal previsto noCódigo Civil.
+2. Agravo interno não provido.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação do artigo 1022, I e II, do CPC/2015, ao argumento de que a Corte local não se manifestou a respeito das seguintes questões (fls. 1146/1147):
+"(i) ante a contradição praticada pelos V. Acórdãos Regionais com os termos do artigo 206, § 3", inciso IV, do Código Civil, no debate da questão prescricional, ao argumentar que o ressarcimento ao SUS visa a restituição dos gastos efetuados para evitar o enriquecimento sem causa da operadora, e ante o que foi exposto no julgamento do Recurso Extraordinário nº 597.064 tido como REPRESENTATIVO DA CONTROVÉRSIA;
+(ii) por omitir apreciação sobre os termos do que dispõe o artigo 10 do Decreto -Lei nº 20.910/1932, que assevera que o prazo prescricional contra a Fazenda Pública será de cinco anos, salvo se não houver menor prazo estipulado normativamente; e
+(iii) por omitir apreciação sobre o prazo de duração do processo administrativo disciplinado pela Resolução RE nº 06, de 26/03/2001, em vigência à época da realização dos atendimentos, e sobre a alegada ocorrência da prescrição intercorrente do Processo Administrativo que originou as GRU"s nos 45.504.053.384-3 e 45.504.053.385-1 à luz do disposto no artigo § 1", da Lei nº 9.873/1999.
+Quanto à questão de fundo, sustenta as seguintes ofensas: (a) artigo 206, inciso IV, parágrafo 3º, do Código Civil, que dispõe que prescreve em 3 (três) anos a pretensão de ressarcimento de enriquecimento sem causa, e que, portanto, deve ser aplicada ao instituto do ressarcimento ao SUS em função de ter natureza indenizatória reconhecida pelo Eg. STF; (b) ao artigo 10, do Decreto nº 20.910/1932, que assevera que o prazo prescricional contra a Fazenda Pública será de 5 (cinco) anos, salvo se não houver menor prazo estipulado normativamente, o que ocorre com relação à pretensão de ressarcimento de enriquecimento sem causa, cuja prescrição se encontra estabelecida pelo artigo 206, § 3º, inciso IV, do Código Civil. (fl. 1147)
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+De início, afasta-se a alegada violação do artigo 1022, I e II, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No mais, a jurisprudência desta Corte tem entendido que nas demandas envolvendo pedido de ressarcimento ao Sistema Único de Saúde pelas operadoras de planos ou segurados de saúde, incide o prazo prescricional quinquenal, previsto no Decreto n. 20.910/1932, e não o disposto no Código Civil, em observância ao princípio da isonomia.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESSARCIMENTO AO SUS. PRESCRIÇÃO APLICÁVEL. QUINQUENAL. DECRETO 20.910/32. TERMO INICIAL. NOTIFICAÇÃO DA DECISÃO DO PROCESSO ADMINISTRATIVO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, o Tribunal a quo manteve a sentença que julgou improcedentes os embargos à execução fiscal movida pela Agência Nacional de Saúde Suplementar, em decorrência da cobrança relativa à obrigação de ressarcimento ao SUS. A decisão do Tribunal de origem está em consonância com a orientação do Superior Tribunal de Justiça.
+2. Acerca da legislação que deve ser considerada para a aplicação do prazo prescricional nos casos que envolvem o ressarcimento ao Sistema Único de Saúde, tanto pela operadoras de plano de saúde como pelos seguros de saúde, o prazo aplicável é o de cinco anos disposto no Decreto 20.910/1932 e não o disposto no Código Civil, em observância ao princípio da isonomia.
+3. Ademais, o termo inicial da contagem do prazo prescricional nos casos de ressarcimento de valores ao SUS começa a correr com a notificação da decisão do processo administrativo que apura os valores a serem ressarcidos, uma vez que, somente a partir de tal momento, o montante do crédito será passível de ser quantificado.
+4. Agravo interno não provido. (AgInt no AREsp 1.601.262/SP, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 17/3/2020, grifo nosso)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RESSARCIMENTO AO SUS. PRESCRIÇÃO QUINQUENAL. APLICAÇÃO DO DECRETO 20.910/1932. INCIDÊNCIA DA SÚMULA 83/STJ.
+1. O acórdão recorrido encontra-se em sintonia com o entendimento consolidado no STJ, segundo o qual, nas demandas envolvendo pedido de ressarcimento ao Sistema Único de Saúde pelas operadoras de planos ou segurados de saúde, incide o prazo prescricional quinquenal, previsto no Decreto 20.910/1932, e não o disposto no Código Civil, em observância ao princípio da isonomia.
+2. A relação jurídica que há entre o Agência Nacional de Saúde - ANS e as operadoras de planos de saúde é regida pelo Direito Administrativo, por isso inaplicável o prazo prescricional previsto no Código Civil.
+3. Inviável o Recurso Especial se o acórdão recorrido se alinha com o posicionamento sedimentado na Jurisprudência do STJ, nos termos da Súmula 83/STJ.
+4. Recurso Especial não provido. (REsp 1.728.843/RS, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 17/12/2018, grifo nosso).
+Estando assim o acórdão em consonância com a Jurisprudência desta Corte, incide a Súmula 83/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. RESSARCIMENTO AO SUS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PRESCRIÇÃO QUINQUENAL. ART. 1º DO DECRETO N. 20.910/1932. PRECEDENTES. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
