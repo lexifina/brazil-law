@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interno interposto por BANCO BRADESCO S.A. contra a decisão desta relatoria de fls. 523-527 (e-STJ), que conheceu do agravo para negar provimento ao recurso especial.
+O apelo especial foi fundado nas alíneas a e c do permissivo constitucional, veiculando insurgência contra o acórdão do Tribunal de Justiça do Amazonas assim ementado (e-STJ, fl. 137):
+AGRAVO DE INSTRUMENTO  AÇÃO DECLARATÓRIA DE INVALIDADE C/C COBRANÇA E REMOÇÃO DO ILÍCITO  JULGAMENTO PARCIAL DE MÉRITO  DESCONTOS INDEVIDOS DA CONTA DO CLIENTE  RELAÇÃO DE CONSUMO  ACORDO ABUSIVO  REPETIÇÃO DO INDÉBITO  RECURSO CONHECIDO E NÃO PROVIDO  DECISÃO MANTIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 470-474).
+No recurso especial, o recorrente apontou violação dos arts. 104, caput, I a III; 107; 304; 320, caput e parágrafo único; 421, caput e parágrafo único; 422; 840; e 884 do CC; 356, caput, I e II, § 4º, 509, I; e 1.022 do CPC/2015; e 42 do CDC.
+Afirmou ser incabível estipular a responsabilidade do recorrente em fazer pagamento à recorrida de forma simples ou mesmo em dobro, notadamente diante da incontroversa realização de acordo entre as partes e, ainda, sem que antes haja decisão quanto à validade deste acordo. Arguiu que a decisão não poderia ter sido proferida em julgamento antecipatório parcial de mérito, porquanto não há parcela autônoma capaz de ensejar tal posicionamento das instâncias ordinárias.
+Enfatizou que a recorrida já teria recebido todos os valores expressamente aceitos no acordo celebrado com o insurgente, com o intuito de encerrar as questões referentes aos valores descontados de sua conta bancária, do que teria dado quitação geral. Frisou que a decisão recorrida deixou de analisar a validade da transação existente entre as partes, concluindo pelo dever de indenizar em dobro.
+Mencionou haver omissão e obscuridade no aresto estadual, embora opostos e apreciados os embargos de declaração (e-STJ, fls. 166-188).
+Negado seguimento ao recurso especial, foi interposto agravo em recurso especial, o qual foi analisado monocraticamente por esta relatoria, negando-se provimento ao inconformismo.
+Contra essa decisão maneja o insurgente o presente agravo interno. Reforça os fundamentos do recurso especial acima sumariados. Pontua que não se busca a incursão na seara fática (inaplicabilidade das Súmulas 7/STJ ou 279/STF), mas tão somente na questão de direito referente aos dispositivos supracitados.
+Argui não ter sido verificado, no acórdão ou na decisão agravada, a premissa no sentido de haver, ou não, ilegalidade acerca da transação incontroversa e volitivamente firmada entre as partes, logo, não há como admitir a análise de eventual indenização pelo possível (já que não analisado) ato ilícito praticado. No ponto, assenta ter sido lícito o acordo celebrado entre os litigantes.
+Assevera que, por não ter sido apreciada a validade do acordo, não há como reconhecer má-fé do insurgente, portanto, não existe espaço para devolução de quantias em dobro - inviabilidade de incidência da Súmula 83/STJ. Pleiteia o conhecimento e provimento deste agravo interno (e-STJ, fls. 530-554).
+Contraminuta apresentada (e-STJ, fls. 662-766).
+Brevemente relatado, decido.
+Reexaminando melhor o caso, parece ostentar alguma verossimilhança a alegação da parte recorrente relacionada àofensa ao art. 356 do CPC/2015.
+Considerando os fundamentos trazidos no recurso, dou provimento ao agravo, mediante juízo dereconsideração,para determinar a conversão em recurso especial, sem prejuízo de nova análise dos requisitos de admissibilidade, a fim de que a matéria seja melhor examinada, com fulcro no art. 34, XVI, do RISTJ.
+Publique-se.
