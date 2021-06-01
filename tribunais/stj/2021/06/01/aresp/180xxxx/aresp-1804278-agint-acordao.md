@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino (Presidente) e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RESCISÃO DO CONTRATO DE COMPRA E VENDA. JUROS DE MORA. TERMO INICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. A matéria referente ao termo inicial dos juros de mora, alegada como violada, não foi objeto de debate pelo Tribunal de origem, evidencia-se, assim, a ausência do prequestionamento, pressuposto específico do recurso especial. Incidem, na espécie, os rigores das Súmulas n. 282 e 356/STF.
+2. O óbice da ausência de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado.
+3. Não cabe litigância de má-fé quando não ficar atestada a natureza protelatória.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Lorenge Construtora e Incorporadora Ltda. e Ative Centro Empresarial Empreendimento Imobiliário Ltda. contra decisão monocrática da Presidência desta Corte Superior (e-STJ, fls. 479-481), que conheceu do agravo para não conhecer do recurso especial, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, haja vista a ausência de prequestionamento da norma objeto da divergência jurisprudencial, nos seguintes termos (e-STJ, fl. 480):
+Na espécie, verifica-se que o dispositivo legal sobre o qual teria havido o dissídio jurisprudencial não foi examinado pela Corte de origem.
+Dessa forma, reconhecida a ausência de prequestionamento da norma objeto da divergência jurisprudencial, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "O óbice da ausência de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado". (AgInt no AREsp 1.639.095/RJ, relator Marco Aurélio Bellizze, Terceira Turma, DJe de 19/5/2020.)Sobre o tema, confiram-se os seguintes precedentes: AgInt no REsp 1.862.546/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 14/8/2020; AgInt no AREsp 1.486.884/RS, relator Ministro Moura Ribeiro, Terceira Turma, Dje de 19/2/2020; e EDcl no REsp 1.274.569/MG, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 25/8/2014.
+Ademais, não foi comprovado o dissídio jurisprudencial quando à decisão monocrática proferida no AREsp 1.270.299/DF (, uma vez que "não é cabível a utilização de decisão monocrática como paradigma para fins de comprovação da divergência jurisprudencial". (AgRg no AREsp 1.445.532/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/5/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.829.177/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/4/2020; AgInt no AREsp 1.615.607/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.466.234/MA, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/09/2019; e AgInt no REsp 1.825.110/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 22/5/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+O apelo extremo foi deduzido com base no art. 105, III, c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado do Espírito Santo assim ementado (e-STJ, fls. 343-345):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RESCISÃO DO CONTRATO DE COMPRA E VENDA DE IMÓVEL. RETENÇÃO DOS VALORES PAGOS. POSSIBILIDADE. PERCENTUAL DE RETENÇÃO FIXADO EM 25%. PRECEDENTES DO STJ. COTAS CONDOMINIAIS. CHAVES NÃO ENTREGUES. RESPONSABILIDADE DO PROMISSÁRIO COMPRADOR AFASTADA. RECURSO CONHECIDO E PROVIDO EM PARTE.
+1. Nos termos do art. 53 do CDC a retenção integral do valor pelo comprador, quando da rescisão do contrato, se mostra abusiva e passível de anulação.
+2. A jurisprudência do STJ entende que o percentual de retenção em caso de rescisão contratual por iniciativa do adquirente deve variar, a priori, entre 10% e 25%, observadas as peculiaridades de cada caso concreto (AgInt no AREsp 952.241/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/11/2016, DJe 29/11/2016).
+3. No caso, a retenção de parte das parcelas pagas tem a finalidade de indenizar o promitente vendedor pelos prejuízos que suportou ante o desfazimento do negócio pelo adquirente, razão pela qual a abusividade da retenção do percentual pretendido deve ser analisada à luz dos elementos do caso concreto.
+4. Tem-se, pois, que o percentual fixado pelo Magistrado Singular não é suficiente a reparar os prejuízos decorrentes do distrato levado a efeito, comportando majoração ao percentual máximo de 25% (vinte e cinco por cento) dos valores pagos pela apelada, o que equivale a R$ 16.911,03 (dezesseis mil, novecentos e onze reais e três centavos).
+5. Relativamente às cotas condominiais, esta Corte já firmou posicionamento no sentido de que "Afasta-se a responsabilidade subsidiária do promissário comprador de imóvel na planta pelo pagamento de cotas condominiais, levando-se em consideração que é indevida a cobrança dirigida ao adquirente de imóvel construído na planta de despesas condominiais antes da efetiva entrega das chaves, sendo tal responsabilidade da construtora do imóvel" (TJES, Classe: Apelação, 048150062254, Relator: CARLOS SIMÕES FONSECA, órgão julgador: SEGUNDA CÂMARA CÍVEL, Data de Julgamento: 14/08/2018, Data da Publicação no Diário: 22/08/2018).
+6. Recurso conhecido e provido em parte.
+7. Vencida a tese que negava provimento ao recurso de apelação, mantendo inalterada a sentença que julgou parcialmente procedente a pretensão autoral, nos termos do art. 487, inciso I, do CPC, condenando a requerida a restituir 85% (oitenta e cinco portento) dos valores pagos pela autora, relativo ao contrato de promessa de compra e venda rescindido, a ser promovida de forma imediata, e restituir os valores desembolsados pela autora para pagamento das despesas condominiais.
+Nas razões do agravo interno (e-STJ, fls. 484-494), as agravantes sustentam a necessidade de reforma da decisão agravada, reafirmando a existência dodissídio jurisprudencial.
+Alegam que, nas relações contratuais, a aplicação dos juros de mora deve ter como termo inicial a data do trânsito em julgado, e não da citação.
+Aduzem ainda que a matéria foi devidamente prequestionada.
+Sendo assim, pleiteiam a reconsideração da decisão ou que os autos sejam levados à apreciação do Colegiado.
+Foi apresentada impugnação ao recurso (e-STJ, fls. 497-501), na qual a parte agravada postula a aplicação de multa por litigância de má-fé.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RESCISÃO DO CONTRATO DE COMPRA E VENDA. JUROS DE MORA. TERMO INICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. A matéria referente ao termo inicial dos juros de mora, alegada como violada, não foi objeto de debate pelo Tribunal de origem, evidencia-se, assim, a ausência do prequestionamento, pressuposto específico do recurso especial. Incidem, na espécie, os rigores das Súmulas n. 282 e 356/STF.
+2. O óbice da ausência de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado.
+3. Não cabe litigância de má-fé quando não ficar atestada a natureza protelatória.
+4. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+Com efeito, quanto à tese do termo inicial para aplicação dos juros de mora, observa-se que não houve debate sobre o tema do ponto de vista da infringência ao art. 394 do CC/2002, tratando-se de indevida inovação recursal. Portanto, não houve o devido prequestionamento, tampouco foram opostos embargos de declaração na origem, o que atrai o óbice das Súmulas 282 e 356 do Supremo Tribunal Federal.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL NA PLANTA. DISPOSITIVO DE LEI FEDERAL. ARTS. 26, 27 e E 29 DA LEI 9.514/97. AUSÊNCIA DE PREQUESTIONAMENTO SÚMULAS 282 E 356/STF.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+2. Agravo interno não provido.
+(AgInt no REsp 1.772.273/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 6/2/2020, DJe 12/2/2020)
+Ademais, cumpre registrar que, consoante iterativa jurisprudência desta Corte, a falta de prequestionamento impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional.
+Por fim, quanto ao pedido da parte agravada, destaca-se que a interposição de recursos cabíveis não implica "litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Relatora a Ministra Nancy Andrighi, DJe 4/12/2012).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
