@@ -1,0 +1,52 @@
+DECISÃO
+ALESSANDRO ALBERTO MACHADO DOS SANTOSagrava de decisão que inadmitiu seu recurso especial - fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo- motivada na incidência das Súmulas n. 7, 83 e 296do STJ e 284 do STF.
+Nas razões do recurso especial, a defesa apontou violação dos arts. 65, III, "d", e 33 do Código Penal e do art. 387, § 2º, do Código de Processo Penal. Argumentou que o réu faz jus à atenuação da pena, porque confessou a prática delitiva, e também ao regime inicial aberto, ao ser considerada a quantidade de reprimenda imposta. Sustenta que o tempo de prisão cautelar deve ser considerado para fins de fixação do regime prisional, mesmo aos reincidentes.
+Requereu o provimento do recurso, a fim de que fosse reduzida a pena e abrandado o regime.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo.
+Decido.
+O agravo é tempestivo e preenche os demais requisitos de admissibilidade.
+I. Contextualização
+Extrai-se dos autos que o réu foi condenado a 7 meses de reclusão e 6 dias-multa, em regime semiaberto, pela prática do delito tipificado no art. 155, caput, c/c o art. 14, II, ambos do Código Penal.
+O Tribunal estadual negou provimento ao apelo defensivo e deu parcial provimento ao recurso do Parquet, a fim de aumentar a pena para 7 meses e 6 dias de reclusão mais 6 dias-multa e, no mais, manteve a sentença.
+II.Confissão espontânea - atenuação da pena
+Ao apreciar a autoria delitiva e a dosagem da pena, o Tribunal a quo destacou (fl. 259, grifei):
+Ouvido somente na fase investigativa porque revel (fls. 147), o réu negou a prática do furto, alegando ter encontrado o aparelho de ar condicionado abandonado em via pública, resolvendo desmontá-lo para levar consigo (fls. 10).
+ ..
+Seu colega de farda Edson de Souza Dourado declarou no mesmo sentido, acrescentando que, por ser um aparelho pesado, o réu o arrastava pela rua. Inicialmente, Alessandro negou a subtração, mas acabou admitindo a conduta delitiva (mídia digital fls. 153).
+Veja-se que o depoimento de guardas, que no cumprimento de sua missão atuam na repressão penal, é tão válido como qualquer outro testemunho, como já assentado pacificamente pela doutrina e jurisprudência. Merecem credibilidade e, se em acordo ou conformidade com as demais provas, justificam um decreto condenatório.
+ ..
+De se ver que, diversamente do pretendido pela d. defesa, não se mostra cabível a redução da pena pela confissão espontânea, porque não se presta a tanto a mera admissão informal aos guardas que o flagraram durante a prática delitiva, não tendo Alessandro, ao negar o furto em sua única oitiva nos autos, buscado colaborar com a verdade real.
+Conforme se observa notrechotranscrito, ainstânciaordinária, embora assevere que o réu haja negado a prática do delitoquando ouvido na fase de inquérito, destaca o depoimento da testemunha, policial militar que efetuou a prisão em flagrante,e informou que o acusado de pronto negou a subtração do bem, mas, em seguida, a admitiu. Ressaltou, ainda, aquela Corte que a palavra do miliciano, quando em conformidade com as demais provas dos autos, merececredibilidade. Assim, considerou, ainda que por vias transversas, a confissão do réu.
+Nesse sentido, é a jurisprudência desta Corte Superiorde que"se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante prevista no art. 65, III, "d", do Código Penal;é irrelevante o fato de a confissão haver sido espontânea ou não, total ou parcial (qualificada), ou mesmo que haja ocorrido posterior retratação. Inteligência da Súmula n. 545 do STJ" (AgRg no HC n. 441.147/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe 26/3/2019).
+Desse modo, entendo que a confissão do agravante deva ser reconhecida e, portanto, compensada com a reincidência, conforme orientação firmada nojulgamento dos EREsp n. 1.154.752/RS, ocorrido em 23/5/2012 (DJe 4/9/2012), pelaTerceira Seção deste Superior Tribunal, de que"É possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal", ainda que se trate de reincidência específica, consoante decidido noHC 365.963/SP, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 11/10/2017, DJe 23/11/2017.
+III. Regime prisional
+O Tribunal de origemmanteve o regime fixado na sentença (fls. 265-266):
+O regime prisional semiaberto, por sua vez, mostrou-se acertado, não merecendo qualquer reparo.
+De se ver que, tratando-se de réu reincidente, não há se cogitar a aplicação do regime prisional aberto, por expressa previsão legal (art. 33, § 2o, CP), sendo certo, ainda, que a insistência do réu em praticar crimes, como se depreende de sua folha de antecedentes, não indica ser merecedor de tratamento mais brando.
+As circunstancias delitivas, no entanto, não indicam a necessidade do regime prisional mais gravoso, como pretendido pelo órgão acusatório.
+Ora, se pela pena ora imposta, prevê a lei o regime aberto (art. 33, § 2o, "c"), a reincidência que veda essa possibilidade não implica, de forma automática, na imposição do regime fechado, mas sim no regime mais gravoso àquele que ele teria direito, ou seja, o regime semiaberto.
+Somente condição especial do condenado (art. 59), devidamente justificada e apontada nos autos, autoriza fixar regime de modo diferenciado, o que não se verifica na hipótese em debate, na qual
+não se verifica dolo exacerbado na conduta de Alessandro, que sequer chegou a consumar o delito, tanto que a pena-base foi imposta no mínimo legal.
+Descabida, por sua vez, a alteração do regime prisional diante da regra do artigo 387, § 2o, da legislação processual penal, porquanto, ao que se observa das folhas de antecedentes e certidões juntadas aos autos, Alessandro responde por outros crimes, já tendo sido condenado em alguns feitos, tanto que reincidente especifico, não se podendo afirmar com certeza que cumpriu, por este, o tempo de prisão processual necessário para tanto.
+Esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, aoquantumde reprimenda imposto.
+Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva, que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido peloquantumda reprimenda. Nesse sentido: HC 596.157/AC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 02/02/2021, DJe 08/02/2021;AgRg no AREsp 1608617/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/06/2020, DJe 23/06/2020 e AgRg no RHC 107.602/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 04/06/2019, DJe 11/06/2019.
+No caso dos autos, diante da reincidência, devidamente salientadapelainstânciade origem ao dosar a pena e ao fixar o regime, concluo não haver violação do art. 33, § 2º, "b", do Código Penal, daí ser correta a aplicação do regime semiaberto. Destaco que a Súmula n. 269 do STJ enuncia a possibilidade de os reincidentescondenados a sanção igual ou inferior a quatro anos cumprirem a pena no semiaberto, desde que favoráveis as circunstâncias judiciais, o que é o caso dos autos.
+Nesse sentido:
+ ..
+1. O réu reincidente, condenado a pena igual ou inferior a 4 anos, que ostente circunstâncias judiciais favoráveis, poderá iniciar o cumprimento da sanção no regime semiaberto, aos ditames do enunciado n. 269 da Súmula desta Corte Superior, assim estabelecido: "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+2. Não há falar em aplicação do art. 43 do Código Penal ao agravante, com a substituição da reprimenda corporal por penas restritivas de direitos, à luz do disposto no inciso II do art. 44 da mesma norma, in verbis: "Art. 44. As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando:  ..  II - o réu não for reincidente em crime doloso".
+3. Agravo não provido.
+(AgRg no HC 634.731/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/04/2021, DJe 15/04/2021)
+ ..
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. No caso, como o Agravante é reincidente específico, tendo em vista a inexistência de circunstâncias judiciais desfavoráveis, é cabível a fixação do regime semiaberto para o início do cumprimento da pena de 2 (dois) anos, 4 (quatro) meses e 24 (vinte e quatro) dias de reclusão, nos termos do art. 33, § 2.º, alínea b, do Código Penal e da Súmula n. 269 desta Corte.
+3. O não reconhecimento do direito de apelar em liberdade está suficientemente fundamentado na necessidade de se acautelar a ordem pública, tendo em vista a reiteração criminosa do Agravante.
+4. Segundo orientação desta Corte Superior de Justiça, não há incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o inicial cumprimento de pena, devendo, no entanto, ser compatibilizada a prisão cautelar do Apenado com as regras próprias desse regime.
+5. Agravo regimental desprovido.
+(AgRg no HC 640.933/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 23/02/2021, DJe 01/03/2021)
+Ressalto que, mesmo se realizada a detração do tempo de prisão cautelar para fins de imposição do regime,não haveria nenhuma alteração, visto que a pena já está abaixo de 4 anos e foi imposto o regime semiaberto devido à reincidência do réu.
+IV. Readequação da pena
+A pena-base foi fixada no mínimo legal, 1 ano de reclusão e 10 dias-multa. Na segunda etapa, reconheço a atenuante da confissão, que compensa a reincidência do réu e mantém a reprimenda no mesmo patamar. Na terceira fase, a pena foi reduzida em 1/2, pela tentativa, o que torna a sanção do réu estabelecida em 6 meses de reclusão e 5 dias-multa.
+V. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "c", parte final, do RISTJ, conheço do agravo a fim de dar parcial provimento ao recurso especial e reduzir a pena para 6 meses de reclusão e 5 dias multa e, no mais, mantenho o acórdão recorrido.
+Publique-se e intimem-se.
