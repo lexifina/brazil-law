@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 565):
+Agravo de instrumento. Indenização por danos materiais, morais e lucros cessantes. Cumprimento de sentença. Interlocutória que indeferiu o pedido de bloqueio de numerários de titularidade do executado. Decisão mantida. A impenhorabilidade deriva de lei, haja vista se tratar de conta salário. A jurisprudência do C. STJ orienta que, nos termos do artigo 833, IV do CPC são impenhoráveis os valores depositados em conta destinada ao recebimento de vencimentos, salários, ou proventos de aposentadoria do devedor. Agravo desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 797/801).
+No recurso especial (e-STJ fls. 571/610), com fundamento no art. 105, III, "a" e "c", da CF, os recorrentes apontam violação do art. 833, § 2º, do CPC/2015, alegando que (e-STJ fls. 586/587):
+Embora o artigo 833, inciso IV, da Lei Adjetiva Civil estabeleça que são absolutamente impenhoráveis os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por mera liberalidade de terceiros e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, a jurisprudência atual, evitando que os devedores se protejam e mantenham-se inadimplentes, passou a relativizar a impenhorabilidade, enquadrando-se a questão aqui sub examine à espécie.
+Defendem que (e-STJ fl. 596):
+Dúvidas não restam, portanto, acerca da reforma das r. decisões atacadas, relativizando a impenhorabilidade dos vencimentos do agravado José Lopes Filho, restando incontroverso ser essa a única possibilidade dos agravantes receberem o que lhes é devido, determinando-se a constrição de 30% (trinta por cento) sobre os valores líquidos recebidos pelo executado, até o limite do crédito.
+Afirmam, ainda, que a constrição requerida não ofende o princípio da dignidade da pessoa humana, pois "está amplamente demonstrado nos autos, o executado percebe mensalmente, quantia superior a R$ 15.000,00 (QUINZE MIL REAIS), não parecendo que o desconto de valores, para pagamento de seus débitos, irá impedir a sua subsistência e seus familiares ou mesmo, reduzi-lo à insolvência" (e-STJ fl. 596).
+Alegam, por fim, divergência jurisprudencial no que se refere à possibilidade de penhora de parte da remuneração para a satisfação de crédito não alimentar.
+Buscam, em suma, o provimento do recurso especial e a reforma do acórdão para: (i) reconhecer "a possibilidade de relativização dos vencimentos do executado, José Lopes Filho, determinando-se a penhora de 30% (trinta por cento) a ser calculada sobre sua remuneração líquida" (e-STJ fl. 609), ou (ii) determinar "a constrição sobre 15% (quinze por cento) sobre a remuneração liquida do agravado José Lopes Filho, sendo cristalino que tal não interfere em sua subsistência" (e-STJ fl. 609).
+Não foram apresentadas contrarrazões (e-STJ fl. 815).
+Juízo positivo de admissibilidade (e-STJ fls. 816/818).
+É o relatório.
+Decido.
+Em razão do conhecimento e da negativa de provimento do Recurso Especial n. 1.937.739/SP,interpostopelos mesmos recorrentes do presente recurso - DANIEL ROMANO HAJAJ e RENATA ROMANO HAJAJ -, fica prejudicada a análise deste especial, uma vez que a matéria tratada é idêntica e foi resolvida no referido recurso (violação doart. 833, § 2º, do CPC/2015 e a possibilidade de penhora de parte da remuneração para a satisfação de crédito não alimentar).
+Ante o exposto, NÃO CONHEÇO dorecurso especial.
+Publique-se e intimem-se.
