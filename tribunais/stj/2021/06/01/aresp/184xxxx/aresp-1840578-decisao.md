@@ -1,0 +1,87 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão cuja ementa é a seguinte:
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. FAZENDA PÚBLICA. CONTRATO DE CREDENCIAMENTO. PRESTAÇÃO DE SERVIÇOS ESPECIALIZADOS NA ÁREA OFTALMOLÓGICA.
+Os Embargos de Declaração foram rejeitados.
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação dos arts. 373, I, do CPC/2015 e dos arts.58, 60 e 61 da Lei 4.320/1964. Aduz:
+A decisão recorrida ao analisar a alegação de violação ao art. 373, inciso I, do CPC, se limitou a fundamentar que "o conjunto probatório apresentado pelo apelado é suficiente à instrução da ação monitória, não havendo falar em ausência de fatos constitutivos de seu direito, tampouco em falta de provas, merecendo preservada a sentença exarada".
+Ocorre que, tal alegação não merece prosperar.
+Nos termos do art. 373, I do CPC/2015, ao autor incumbe o ônus quanto ao fato constitutivo de seu direito, devendo provar sua existência.
+No presente caso, embora a recorrida tenha alegado que prestou serviços ao Município recorrido, é certo que não cumpriu seu ônus de comprovar a efetiva prestação dos serviços.
+A autora/recorrida não provou que, efetivamente, prestou os serviços ao Município, pois não apresentou qualquer nota fiscal ou mesmo qualquer protocolo junto ao Município que comprove o requerimento administrativo, limitando-se a afirmar a existência de serviços prestados.
+(..)
+Frisa-se que além da recorrida não ter juntado documentos comprobatórios de suas alegações, também não anexou a Nota de Empenho (ato emanado de autoridade competente que cria a obrigação de pagamento), e, de consequência, a liquidação (verificação do direito adquirido pelo credor tendo por base os títulos e documentos comprobatórios do respectivo crédito).
+Assim, inexistindo prova dos fatos constitutivos do direito, por não haver juntado documento comprobatório de realização/prestação de serviços, a reforma do acórdão recorrido é medida que se impõe.
+Some-se a isso o fato de que não há emissão de notas fiscais, tampouco a existência do respectivo protocolo para verificação acerca da efetiva prestação dos serviços.
+Como visto, inexistindo o empenho de eventual despesa, evidente a infringência aos artigos 58, 60 e 61, da Lei Federal no 4.320/64, os quais dispõem:
+Contrarrazões apresentadas às fls. 311-316, e-STJ.
+Houve juízo de admissibilidade negativo na instância de origem, o que deu ensejo à interposição do presente Agravo.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 24.5.2021.
+Os arts. 58, 60 e 61 da Lei 4.320/1964, tidos por afrontados, não foram ventilados no aresto atacado, e, embora tenham sido opostos Embargos Declaratórios para a manifestação sobre os citados dispositivos, o órgão julgador não emitiu juízo de valor sobre a tese a eles referente.
+A parte interessada tampouco aduziu, nas razões do Apelo Especial, ofensa ao art. 1.022 do CPC/2015, a fim de viabilizar possível anulação do julgado por vício de prestação jurisdicional. Incide, na hipótese, a Súmula 211/STJ.
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais com os fundamentos do acórdão, percebe-se que a tese recursal vinculada aos dispositivos tidos como ofendidos não foi apreciada pela Corte a quo.
+Não obstante, o STJ possui o entendimento de que não basta a oposição de Embargos de Declaração para a configuração do prequestionamento ficto admitido no art. 1.025 do CPC/2015, sendo imprescindível que a parte alegue, nas razões do Recurso Especial, a violação do art. 1.022 do mesmo diploma legal, para que, assim, o Superior Tribunal de Justiça esteja autorizado a examinar eventual ocorrência de omissão no acórdão recorrido e, caso constate a existência do vício, venha a deliberar sobre a possibilidade de julgamento imediato da matéria, conforme facultado pelo legislador. Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. CESSÃO DE CRÉDITO PREVIDENCIÁRIO. ART. 114 DA LEI 8.213/91. IMPOSSIBILIDADE. SÚMULA 83 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO RECORRIDA. SÚMULA 182 DO STJ.
+(..)
+2. Os artigos tidos por afrontados (art. 286 e 778, do CPC/15) não foram ventilados no aresto atacado e, embora tenham sido opostos Embargos Declaratórios para a manifestação sobre os citados dispositivos, o órgão julgador não emitiu juízo de valor sobre as teses a eles referentes.
+3. O STJ possui o entendimento de que não basta a oposição de Embargos de Declaração para a configuração do prequestionamento ficto admitido no art. 1.025 do CPC/2015, sendo imprescindível que a parte alegue, nas razões do Recurso Especial, a violação do art. 1.022 do mesmo diploma legal, para que, assim, o Superior Tribunal de Justiça esteja autorizado a examinar eventual ocorrência de omissão no acórdão recorrido e, caso constate a existência do vício, venha a deliberar sobre a possibilidade de julgamento imediato da matéria, conforme facultado pelo legislador.
+(..)
+6. Agravo Interno não conhecido.
+(AgInt nos EDcl no REsp 1849130/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 16/03/2021)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. ART. 1.025 DO CPC/2015. NECESSIDADE DE INDICAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. EXECUÇÃO FISCAL. DESÍDIA DA FAZENDA PÚBLICA CONFIGURADA. RECONHECIMENTO DA PRESCRIÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXTINÇÃO DA EXECUÇÃO. CABIMENTO DOS HONORÁRIOS ADVOCATÍCIOS. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO DE EXATA SIMILITUDE FÁTICA ENTRE OS ARESTOS PARADIGMA E RECORRIDO.
+1. Tal como dito na decisão impugnada, verifica-se que os artigos tidos por afrontados (arts. 2º e 1.013 do CPC/2015) não foram ventilados no aresto atacado e, embora tenham sido opostos os Embargos Declaratórios competentes para a manifestação sobre os citados dispositivos legais, o órgão julgador não emitiu juízo de valor sobre as teses a eles referentes. Falta, portanto, prequestionamento, requisito indispensável ao acesso às instâncias excepcionais, ainda que se trate de matéria de ordem pública. Incide, na hipótese, o verbete sumular 211/STJ.
+2. Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+3. Nesse contexto, por simples cotejo das razões recursais com os fundamentos do acórdão, percebe-se que as teses recursais vinculadas aos dispositivos tidos como ofendidos não foram apreciados pela Corte a quo.
+4. Ademais, o STJ possui o entendimento de que é insuficiente a oposição de Embargos de Declaração para a configuração do prequestionamento ficto admitido no art. 1.025 do CPC/2015, sendo imprescindível que a parte alegue, nas razões do Recurso Especial, a violação do art. 1.022 do mesmo diploma legal, para que, assim, o Superior Tribunal de Justiça esteja autorizado a examinar a eventual ocorrência de omissão no acórdão recorrido e, caso constate a existência do vício, venha a deliberar sobre a possibilidade de julgamento imediato da matéria, conforme facultado pelo legislador.
+(..)
+10. Agravo Interno não provido.
+(AgInt no REsp 1868406/MG, Rel. Min. Herman Benjamin, Segunda Turma, DJe 21/08/2020)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EXECUÇÃO. BENEFÍCIO POR INCAPACIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. ART. 1.025 DO CPC/2015. NECESSIDADE DE INDICAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Os artigos tidos por violados não foram ventilados no aresto atacado e, embora tenham sido opostos os Embargos Declaratórios competentes para a manifestação sobre os citados dispositivos, o órgão julgador não emitiu juízo de valor sobre as teses a eles referentes, e a parte interessada não alegou, nas razões do Apelo Especial, ofensa ao art. 1.022 do CPC/2015, a fim de viabilizar possível anulação do julgado por vício de prestação jurisdicional, incidindo, na hipótese, o verbete sumular 211/STJ.
+2. O Superior Tribunal de Justiça possui o entendimento de que não basta a oposição de Embargos de Declaração para a configuração do prequestionamento ficto admitido no art. 1.025 do CPC/2015, sendo imprescindível que a parte alegue, nas razões do Recurso Especial, a violação do art. 1.022 do mesmo diploma legal, para que, assim, o STJ esteja autorizado a examinar eventual ocorrência de omissão no acórdão recorrido e, caso constate a existência do vício, venha a deliberar sobre a possibilidade de julgamento imediato da matéria, conforme facultado pelo legislador.
+3. Recurso Especial não conhecido.
+(REsp 1764914/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 23/11/2018)
+Quanto à suposta ofensa ao art. 373, I, do CPC/2015, o Tribunal de origem lançou os seguintes fundamentos:
+Na hipótese, de modo diverso do alegado pelo Município, a autora/recorrida comprovou os fatos constitutivos de seu direito (art. 373, inciso I, CPC), uma vez que os documentos que instruem a inicial - Contrato de Credenciamento nº 195/2016, Formulários para Solicitação/Autorização dos Procedimentos, com expressa autorização do auditor médico, Nota Fiscal Eletrônica de Serviços nº 389 e Relação dos pacientes tratados em Agosto/2016 (evento 1, arquivos 9, 10 e 12) - constituem provas escritas, desprovidas de eficácia executiva, aptas à demonstração da relação contratual havida entre as partes e da existência da dívida perseguida.
+Por sua vez, o Município não cuidou de instruir os seus embargos à monitória com provas da existência de fatos impeditivos, modificativos ou extintivos do direito estampado na inicial (art. 373, inciso II, CPC). Isso porque, não demonstrou a inexistência da prestação dos serviços, ou o adimplemento da dívida, tampouco questionou a contratação da empresa recorrida, realizada a partir de chamamento público materializado no Edital de Credenciamento nº 01/2016 emitido pela própria municipalidade. Ao contrário, limitou-se a impugnar genericamente os documentos acostados à inicial, ao argumento de que não são refletem suficientemente a certeza e a liquidez da obrigação.
+Observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto esgrimido passa pela revisitação ao acervo probatório, vedada em Recurso Especial, consoante a Súmula 7 do Superior Tribunal de Justiça, que assim estabelece: "a pretensão de simples reexame de prova não enseja recurso especial."
+Vejam-se os precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. USINA HIDRELÉTRICA DE SANTO ANTÔNIO. SUPOSTO ALAGAMENTO DA RESIDÊNCIA DO AUTOR. FATO CONSTITUTIVO DO DIREITO DO AUTOR. AUSÊNCIA DE DEMONSTRAÇÃO. ACÓRDÃO RECORRIDO QUE, COM FUNDAMENTO NA PROVA PERICIAL, CONCLUIU PELA INEXISTÊNCIA DE DANO AO IMÓVEL DO AUTOR E PELA INOCORRÊNCIA DE NEXO DE CAUSALIDADE ENTRE A ATIVIDADE DA RÉ E A ENCHENTE EM RIO PRÓXIMO AO IMÓVEL. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. AUSÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. ALEGADA VIOLAÇÃO AOS ARTS. 2º DA LEI 9.605/98 E 420 E 1.013 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+(..)
+V. O acórdão recorrido, à luz da prova pericial produzida em Juízo, concluiu no sentido de que, "conforme documentado pela perícia à oportunidade da vistoria, o imóvel verificado não apresentou danos de ordem estrutural, estando em plenas condições de habitabilidade. (..) não há, nos autos, elementos comprobatórios de que danos materiais de outra ordem tenham de fato ocorrido, existindo tão somente um registro fotográfico da edificação intacta (ID 2449418). Destarte, deixando o autor de comprovar a existência de fatos constitutivos de seu direito, que lhe competia, a teor do disposto no art. 373, I, do CPC, a improcedência do pleito indenizatório é medida que se impõe. Não bastasse isso, o laudo pericial afasta o nexo de causalidade entre a enchente histórica e a atividade da apelada". Tal entendimento não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, por exigir o reexame da matéria fático-probatória dos autos. Precedentes do STJ.
+(..)
+VII. Recurso Especial parcialmente conhecido, e, nessa extensão, improvido.
+(REsp 1902152/RO, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 09/04/2021)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. TRANSPORTE AÉREO. ATRASO DE VOO. IMPROCEDÊNCIA EM RELAÇÃO A PARCELA DOS AUTORES. REVELIA. VEROSSIMILHANÇA DAS ALEGAÇÕES NÃO DEMONSTRADAS EM RELAÇÃO A ALGUNS AUTORES. ART. 373. INC. I, DO CPC. AGRAVO INTERNO NÃO PROVIDO.
+1. A convicção a que chegou o acórdão acerca da não comprovação do fato constitutivo do direito alegado, referente aos supostos danos morais decorrentes de atraso de voo pelos autores André, Cristiane, Djalma e Renata Weber, decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz da Súmula 7 desta Corte.
+(..)
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1864731/SC, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 26/04/2021)
+PROCESSUAL CIVIL E CONSUMIDOR. RESTITUIÇÃO DE INDÉBITO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MAJORAÇÃO DE TARIFA PELAS PORTARIAS 38/86 E 45/86 DO DNAEE. ILEGALIDADE. DISSÍDIO JURISPRUDENCIAL. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA.
+(..)
+4. Quanto à macula ao art. 373, I, do CPC, bem como às demais teses levantadas no apelo recursal, é evidente que, para modificar o entendimento firmado no acórdão recorrido, é necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7/STJ.
+(..)
+8. Agravo Interno não provido.
+(AgInt no REsp 1735614/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 13/09/2019)
+Ressalte-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional. Nessa senda:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. QUANTUM INDENIZATÓRIO. FIXAÇÃO EM PATAMAR RAZOÁVEL E PROPORCIONAL. REVISÃO.SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. Nos termos do entendimento desta Corte Superior, não se conhece do recurso pela alínea c, tendo em vista que, aplicada a Súmula 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo, e não do entendimento diverso sobre uma mesma questão legal.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1808447/MS, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe 29/04/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COFINS. BASE DE CÁLCULO. TEMA CONSTITUCIONAL. NÃO CONHECIMENTO DO APELO NOBRE. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+(..)
+3. Prejudicada a análise do suscitado dissídio jurisprudencial quando a tese veiculada nas razões do especial é afastada pela análise da irresignação fundada na alínea a do permissivo constitucional. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1251683/RJ, Rel. Min. Og Fernandes, Segunda Turma, DJe 19/04/2021)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTO INFRACONSTITUCIONAL. PROVIMENTO DO CSM. ATO NORMATIVO NÃO ENQUADRADO COMO LEI FEDERAL. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+(..)
+2. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1673561/SP, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 25/03/2021)
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
