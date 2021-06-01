@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial de ANA LUCIA PENHA SANTOS GONÇALVES, interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. LIGHT SERVIÇOS DE ELETRICIDADE S. A. CONFISSÃO DE DÍVIDA RELATIVA ADÉBITO DO ANTIGO MORADOR DO IMÓVEL. SENTENÇA DE PARCIAL PROCEDÊNCIA, QUE DECLAROUA NULIDADE DO CONTRATO DE CONFISSÃO DE DÍVIDA,ECONDENOUA CONCESSIONÁRIA A RESTITUIR, EM DOBRO, OS VALORES PAGOS, E A PAGAR INDENIZAÇÃO POR DANOS MORAIS. INSURGÊNCIA DA RÉ RELACIONADA À NULIDADE DO CONTRATO,À DEVOLUÇÃO EM DOBROE AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS.
+- Relação jurídica entre as partes regida pelo Código de Proteção e Defesa do Consumidor.-Documento que comprova a data em que a Autora requereu a mudança de titularidade do serviço, devendo este ser considerado como o termo inicial para fins de sua responsabilidade com o correspondente pagamento.
+- Conduta da Concessionária que se mostra abusiva ao atribuir dívida de terceiro ao novo morador do imóvel, por não se tratar de obrigação propter rem. Deve a Prestadora de Serviços se valer dasvias ordinárias para cobrar o débito. Incidência do disposto no Verbete Sumular nº 196 deste Tribunal de Justiça.
+- De igual modo, não se afigura razoável condicionar a transferência da titularidade do serviço de energia elétrica, cuja natureza é essencial, ao pagamento da referida dívida. Inteligência do artigo 4º, §2º, da Resolução 456/2000 da ANEEL.
+- Devolução dos valores indevidamente pagos que deve dar na forma dobrada, por não se tratar de erro justificável, nos termos do parágrafo único do artigo 42 do Código de Defesa do Consumidor.
+- Dano moral não configurado. Conduta da Ré que não se mostra capaz de atingir direito da personalidade da Autora. Inexistência de atos de restrição cadastral do nome do consumidor, ou corte no fornecimento de energia. Inteligência da Súmula nº 230 deste Tribunal de Justiça. Precedentes desta Colenda Câmara.
+- Reforma da sentença para afastar a condenação da Concessionária Apelante ao pagamento da indenização por danos morais.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos declaratórios foram rejeitados.
+No recurso especial, a recorrente aponta violação dos arts. 489 e 1.022 do CPC/2015, por ausência de fundamentação do acórdão recorrido.
+Alega ainda afronta aos arts.6º, VI, X, 14 e22 doCDC, sustentando a caracterização do dano moral, tendo em vista a responsabilidade objetiva da agravada.
+Não houve contrarrazões.
+A inadmissão se deu em razão da inexistência de ofensa aos arts. 489 e 1.022 do CPC/2015 epor incidência da Súmula n. 7/STJ.
+É o relatório.
+Passo a decidir.
+O agravo não pode ser conhecido, pois ausente impugnação quanto à inexistência de afronta aos arts. 489 e 1.022 do CPC/2015. Com efeito, o agravante limitou-se à insurgência contra a incidência da Súmula n. 7/STJ, deixando de refutar todos os fundamentos da decisão agravada. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 10/08/2017, que julgou recurso interposto contra decisão que inadmitira Recurso Especial, publicada na vigência do CPC/2015.
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Agravo interno improvido. (AgInt no AREsp 1122084/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 05/12/2017, DJe 13/12/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e a data de julgamento e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO.
