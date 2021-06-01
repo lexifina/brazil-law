@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo regimental interposto por Ademir Rodrigues de Lima contra decisão que, às fls. 133-134, negou provimento ao agravo em recurso especial, mantendo o acórdão proferido pela Primeira Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul que, às fls. 56-64, negou provimento à apelação ao entendimento de que, decorridos mais de cinco anos entre a data do falecimento do cônjuge do autor, servidora pública estadual, e a data do ajuizamento da ação postulando a instituição do beneficio, deve ser reconhecida a prescrição de fundo de direito.
+O agravante em suas razões pugna pela reforma da decisão, argumentando que, na hipótese presente, por se tratar de direito fundamental de natureza alimentar, sobre o benefício previdenciário, a prescrição incide apenas sobre os efeitos pecuniários anteriores ao quinquênio, nos termos da Súmula 85/STJ.
+É o relatório. Passo a decidir.
+Diante da argumentação trazida, dou provimento ao agravo interno no sentido de exercer o juízo de retratação facultado pelo artigo 259 do RISTJ, tornando sem efeito a decisão de fls. 133-134.
+Passo novamente à analise dos autos.
+O recurso especial, interposto com fundamento na alínea a do inciso III do artigo 105 da Constituição Federal, enfrenta acórdão proferido pela Terceira Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, que, às fls. 128-136, em sede de apelação, negou provimento ao recursoao entendimento de que, decorridos mais de cinco anos entre a data do falecimento do cônjuge do autor, servidora pública estadual, e a data do ajuizamento da ação postulando a instituição do beneficio, deve ser reconhecida a prescrição de fundo de direito.
+Os embargos declaratórios foram rejeitados (fls. 73-77)
+O recorrente em suas razões argumenta que "aobrigação periódica em favor do autor não pode ser fulminada pela prescrição quinquenal total de fundo de direito, haja vista que segundo a Súmula 85 do STJ" (fl. 86, e-STJ).
+Requer, ao final, o provimento do recurso, a fim de que "o feito seja julgado totalmente procedente" (fl. 88).
+Contrarrazões às fls. 93-99.
+Consigne-se inicialmente que o recurso foi interposto contra acórdãopublicado na vigência do Código de Processo Civil de 1973, devendo serexigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 2/2016/STJ.
+Tendo em vista que oagravantelogradoimpugnar os fundamentos da decisão agravada, além de atender aos demais pressupostos deadmissibilidade deste agravo, passo ao exame do recurso especial interposto.
+Na espécie, o recorrente desde a origem se insurge contra sentença que, em sede de ação ordinária, reconheceu a prescrição do fundo de direito ao entendimento de que transcorreu o prazo de 5 (cinco) anos entre o óbito do servidor e o requerimento do benefício, nos termos do artigo 1º do Decreto n. 20.910/1932.
+O acórdão manteve a sentença ao fundamento de que,"decorridos mais de cinco anos entre a data do falecimento do cônjuge do autor, servidora pública estadual, e a data do ajuizamento da ação postulando a instituição do beneficio, deve ser reconhecida a prescrição de fundo de direito".
+No tocante à Súmula 85/STJ, esclarece-se que não cabe a esta Corte apreciar a violação a verbete sumular em recurso especial,porquanto oenunciado não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal, consoante dispõe a Súmula 518/STJ. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACORDO HOMOLOGADO JUDICIALMENTE. QUITAÇÃO INTEGRAL.PRETENSÃO QUE VISA AO PAGAMENTO DE PARCELAS NÃO INCLUÍDAS NO PACTO NEGOCIAL. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULAS 5/STJ E 7/STJ. RECURSO INTERPOSTO COM ARRIMO NA ALÍNEA A DO PERMISSIVO CONSTITUCIONAL. ALEGAÇÃO DE OFENSA À SÚMULA 311/STJ. NÃO CABIMENTO. SÚMULA 518/STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO. SÚMULA 284/STF.
+ ..
+3. Nos termos da Súmula 518/STJ, "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula.".
+4. A ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial. Incidência da Súmula 284/STF.
+5. Agravo interno não provido.
+(AgInt no REsp 1819701/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 15/4/2021)
+Além disso,evidencia-se que o artigo 3º do Decreto n. 20.910/1932 e a tese a ele vinculadanão foi apreciado pela Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento.Aplica-se à hipótese a Súmula 211/STJ.
+Noutros termos, afalta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.A propósito (grifos nossos):
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. EMPRÉSTIMO CONSIGNADO. ART. 489 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. ALEGADA AFRONTA AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. SENTENÇA PARCIALMENTE REFORMADA. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. NÃO CABIMENTO.
+1. Para a abertura da via especial, requer-se o prequestionamento, ainda que implícito, da matéria infraconstitucional. A exigência tem como desiderato principal impedir a condução a este Superior Tribunal de questões federais não debatidas no Tribunal de origem, a teor das Súmulas 282/STF e 211/STJ.
+2. A jurisprudência desta Corte firmou-se no sentido de que, "para que se configure prequestionamento implícito, é necessário que o Tribunal a quo emita juízo de valor a respeito da matéria debatida (REsp. 1.615.958/MG, Rel. Min. HERMAN BENJAMIN, DJe 29.11.2016), ainda que deixe de apontar o dispositivo legal em que baseou o seu pronunciamento" (AgInt nos EDcl no AREsp 44.980/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 22/2/2017).
+3. Calha ressaltar "que a mera declaração do Tribunal a quo de se ter por prequestionados dispositivos a fim de viabilizar o acesso à instância superior não se mostra suficiente para esta Corte se, após análise feita, constatar-se a inexistência do imprescindível debate" (AgRg no Ag 1.159.497/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 30/11/2009).
+ ..
+8. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.668.775/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 20/5/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA.DANOS MORAIS. TRANSPORTE AÉREO. FALTA DE PREQUESTIONAMENTO.DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento (Súmula 211/STJ).
+2. A alegação de ofensa genérica a lei federal, sem particularização dos dispositivos legais que o recorrente entende violados, consubstancia deficiência de fundamentação do apelo especial, pois não permite a exata compreensão da controvérsia, circunstância que atrai a incidência da Súmula 284/STF.
+3. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp 1.740.753/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 28/5/2021)
+Ante o exposto, conheço do agravo em recurso especial para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. JUÍZO DE RETRATAÇÃO. DECISÃO ANTERIOR TORNADA SEM EFEITO.PREVIDÊNCIA PÚBLICA.PENSÃO POR MORTE. PRESCRIÇÃO DE FUNDO DE DIREITO. RECURSO INTERPOSTO COM ARRIMO NA ALÍNEA A DO PERMISSIVO CONSTITUCIONAL. ALEGAÇÃO DE OFENSA À SÚMULA 311/STJ. NÃO CABIMENTO. SÚMULA 518/STJ.TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 211 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
