@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se deagravo interposto por OSVINO JORGE SCALCO, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de OSVINO JORGE SCALCO, a petição de recurso especial foi protocolada, na origem, sem a guia de recolhimento das custas devidas ao STJ, apesar de presente o comprovante de pagamento.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido, os seguintes precedentes: AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020; AgInt no REsp 1807942/RO, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020; e AgInt no AREsp 1572490/SE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 20/3/2020.
+Ademais, percebeu-se, no Tribunal de origem, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada (fls. 1416/1417) para sanar referido vício, não regularizou, tendo em vista que juntou às fls. 1425 e 1428, apenas os comprovantes de pagamentodesacompanhados das guias de recolhimento do preparo.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Registre-se que conforme consta às fls. 1416/1417, o tribunal de origem já havia intimado a parte recorrente, para recolher as custas nos termos do art. 1.007, § 4º do CPC, e a determinação não foi cumprida.
+Veja que o mencionado dispositivo é claro, se intimada, a parte não comprovar o recolhimento, seu recurso deverá ser julgado deserto, não havendo, no caso, previsão para que uma nova intimação seja realizada.
+Portanto, não cabia a esta Corte, assinalar nova oportunidade de regularização, pois preclusa a oportunidade (AgInt nos EDcl no AREsp 1100520/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/09/2018, DJe 11/09/2018).
+Diante do equívoco, torno sem efeito a certidão de saneamentode fl. 1468.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
