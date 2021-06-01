@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por STELLA IMPORTAÇÃO E EXPORTAÇÃO DE LUMINÁRIAS LTDA., com fundamento no art. 105, III, a, da CF, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 209):
+IMPOSTO DE RENDA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. SISTEMÁTICA DE APURAÇÃO DO INCENTIVO FISCAL. LEI Nº 6.321, DE 1976. LEI 9.532/97. DECRETOS REGULAMENTARES. LEGALIDADE. LEIS Nº 8.849/94, 9.249/95 E 9.532/95. INSTRUÇÃO NORMATIVA DA SRF Nº 267/2002 E A PORTARIA INTERMINISTERIAL MTB/MF/MS Nº 326/1977. ILEGALIDADE.
+1. Não há ilegalidade na previsão, feita pelos decretos que regulamentam a matéria, de que os valores relativos ao Programa de Alimentação do Trabalhador - PAT, sejam deduzidos diretamente do imposto de renda devido, pois apenas conferiram precisão tributária ao comando do art. 1º da Lei nº. 6.321, de 1976, havendo posterior confirmação pelas Leis nºs. 8.849/94, 9.249/95 e 9.532/97. Precedentes deste Regional.
+2. Ao instituírem custos máximos para as refeições, restrição sem fundamento de validade em lei, a Portaria Interministerial nº 326/77, a IN SRF nº 143/86 e a IN SRF n.º 267/02 incorreram em vício de ilegalidade.
+Embargos de declaração opostos e acolhidos para correção de erro material (fl. 246).
+A recorrente alega violação do art. 1º da Lei n. 6.321/1973 aduzindo argumentação com vistas ao reconhecimento do direito à dedução do lucro tributável, para fins do IRPJ, do dobro das despesas realizadas com o Programa de Alimentação do Trabalhador (PAT), nos termos da referida lei, afastando-se as restrições da IN/SRF n. 267/2002, IN/RFB n. 1.700/2017, do Decreto n. 9.580/2018, e antes do cálculo do adicional do imposto de renda da pessoa jurídica.
+Contrarrazões a fls. 298-306.
+Juízo positivo de admissibilidade do recurso especial a fls. 328/329.
+Parecer do Ministério Público Federal, a fls. 363-365, pelo provimento do recurso especial.
+É o relatório. Decido.
+Assiste razão ao recorrente.
+É firme o posicionamento desta Corte Superior segundo o qual "os benefícios instituídos pelas Leis 6.297/75 e 6.321/76 aplicam-se ao adicional do imposto de renda, devendo, primeiramente, proceder-se à dedução sobre o lucro da empresa, resultando no lucro real, sobre o qual deverá ser calculado o adicional." (AgInt no REsp 1.695.806/RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 7/8/2018, DJe 14/8/2018).
+Nessa mesma linha:
+TRIBUTÁRIO. IMPOSTO DE RENDA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. BENEFÍCIO INSTITUÍDO PELAS LEIS 6.297/75 e 6.321/76. APLICAÇÃO AO ADICIONAL DO IMPOSTO DE RENDA. FORMA DE CÁLCULO. DEDUÇÃO SOBRE O LUCRO TRIBUTÁVEL. VEDAÇÃO DO ART. 3º, § 4º, DA LEI 9.249/95. ARGUMENTOS INOVATÓRIOS. IMPOSSIBILIDADE DE EXAME.
+1. As Turmas de Direito Público desta Corte têm entendimento consolidado no sentido de que os benefícios concedidos por meio das Leis 6.297/75 e 6.321/73 devem ser aplicados ao adicional de imposto de renda, em que, primeiramente, deve haver a dedução sobre o lucro da empresa, resultando no lucro real, e, sobre este último, deverá ser calculado aquele adicional. Julgados: AgInt no REsp 1462963/PE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 9/8/2019; REsp 1754668/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 11/3/2019.
+2. Não se mostra possível discutir em agravo interno aspectos que não foram objeto do recurso especial, por se tratar de inovação recursal.
+3. Agravo interno não provido.
+(AgInt no REsp 1.491.935/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 18/5/2020, DJe 21/5/2020)
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015. AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TRIBUTÁRIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, CPC/2015. IMPOSTO DE RENDA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. ART. 1º, DA LEI N. 6.321/76. FORMA DE CÁLCULO. DEDUÇÃO SOBRE O LUCRO TRIBUTÁVEL DA EMPRESA E NÃO SOBRE O IMPOSTO DE RENDA DEVIDO, O QUE REFLETE NO CÁLCULO DO ADICIONAL DO IMPOSTO DE RENDA, AFASTANDO A VEDAÇÃO CONSTANTE DO ART. 3º, §4º, DA LEI N. 9.249/95.
+1. A agravante alega que os precedentes citados na decisão atacada "não analisaram a legislação superveniente, impeditiva da forma de cálculo do benefício deferida, qual seja a Lei n. 9.249/95 (arts.
+3º, § 4º, e 13) e Lei n. 9.430/96 (art. 16, § 4º) e Lei n. 9.532/97 (arts. 5º e 6) a qual foi afrontada pelo acórdão recorrido".
+2. Ocorre que essa argumentação veio desacompanhada da análise dos ditos precedentes a fim de que fosse demonstrado o ponto da argumentação, consoante o exige o art. 489, §1º, V, do CPC/2015 (identificação de fundamentos determinantes e distinção).
+3. Segundo o art. 932, III, do CPC/2015, incumbe ao relator não conhecer de recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida. Do mesmo modo a Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+4. A jurisprudência deste STJ está firmada no sentido de que os benefícios instituídos pelas Leis 6.297/75 e 6.321/76 aplicam-se ao adicional do imposto de renda, devendo, primeiramente, proceder-se à dedução sobre o lucro da empresa, resultando no lucro real, sobre o qual deverá ser calculado o adicional. Precedentes: EDcl no AgRg no REsp 940735 / SP, Primeira Turma, Rel. Min. Luiz Fux, julgado em 20.05.2010; REsp 526303 / SP, Segunda Turma, Rel. Min. Castro Meira, julgado em 27.09.2005; AgRg no REsp 115295 / DF, Segunda Turma, Rel. Min. Franciulli Netto, julgado em 02.09.2004.
+5. Agravo interno não provido.
+(AgInt no REsp 1.674.898/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 7/8/2018, DJe 14/8/2018)
+Com efeito, a decisão recorrida está em dissonância com a jurisprudência deste Superior Tribunal de Justiça, atraindo, à espécie, o enunciado da Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. IMPOSTO DE RENDA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. ART. 1º DA LEI N. 6.321/76. FORMA DE CÁLCULO. DEDUÇÃO SOBRE O LUCRO TRIBUTÁVEL DA EMPRESA E NÃO SOBRE O IMPOSTO DE RENDA DEVIDO. REFLEXO NO CÁLCULO DO ADICIONAL DO IMPOSTO DE RENDA. RECURSO ESPECIAL PROVIDO.
