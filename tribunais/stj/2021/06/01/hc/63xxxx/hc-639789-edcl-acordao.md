@@ -1,0 +1,35 @@
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. AUSÊNCIA DE AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NA DECISÃO EMBARGADA. MERA IRRESIGNAÇÃO. NÃO CABIMENTO DE ACLARATÓRIOS. HABEAS CORPUS PREJUDICADO. PERDA SUPERVENIENTE DE SEU OBJETO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+- Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado na decisão que julgou prejudicado o mandamus, não viabiliza a oposição dos aclaratórios.
+- Desse modo, não verifico nenhum dos vícios constantes do art. 619 do Código de Processo Penal, não havendo que se falar em acolhimento dos embargos.
+- Nos termos do Parecer Ministerial, à e-STJ fl. 85, e as informações prestadas pelas instâncias de origem, à e-STJ, fl. 60, as vias impugnativas foram esgotadas, havendo a certificação do trânsito em julgado da condenação, com a respectiva baixa dos autos à origem, em 6/12/2019 (sítio eletrônico do TJ/SP).
+- Desse modo, fica evidenciada a prejudicialidade deste writ, em que se pugnava que o paciente aguardasse em liberdade, vaga no regime prisional adequado, até o esgotamento das instâncias de origem, ficando também revogados os efeitos da liminar anteriormente deferida, devendo o paciente iniciar o cumprimento de sua pena no regime inicial semiaberto, conforme estabelecido pela Corte paulista.
+- Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de embargos de declaração opostos por RODRIGO CARDOSO DOS SANTOS, contra decisão de minha Relatoria, na qual julguei prejudicado o mandamus, pela perda superveniente de seu objeto, ficando revogados os efeitos da liminar anteriormente deferida.
+Nesta oportunidade, a defesa do embargante afirma que a decisão foi omissa quanto ao pedido da impetrante para que o paciente aguarde em liberdade até a decisão final da Vara de Execuções Criminais, pois o que se pretende é que ele não se sujeite às mazelas do cárcere por uma pena de sete meses em regime semiaberto (ambas à e-STJ, fl. 100).
+Diante disso, requer o processamento dos embargos aclaratórios, com efeitos modificativos, uma vez satisfeito o art. 619, do Código de Processo Penal, além dos arts. 5º, II, XXXV, XLVI, LII, LIV e 93, IX, ambos da Constituição da República.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. AUSÊNCIA DE AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NA DECISÃO EMBARGADA. MERA IRRESIGNAÇÃO. NÃO CABIMENTO DE ACLARATÓRIOS. HABEAS CORPUS PREJUDICADO. PERDA SUPERVENIENTE DE SEU OBJETO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+- Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado na decisão que julgou prejudicado o mandamus, não viabiliza a oposição dos aclaratórios.
+- Desse modo, não verifico nenhum dos vícios constantes do art. 619 do Código de Processo Penal, não havendo que se falar em acolhimento dos embargos.
+- Nos termos do Parecer Ministerial, à e-STJ fl. 85, e as informações prestadas pelas instâncias de origem, à e-STJ, fl. 60, as vias impugnativas foram esgotadas, havendo a certificação do trânsito em julgado da condenação, com a respectiva baixa dos autos à origem, em 6/12/2019 (sítio eletrônico do TJ/SP).
+- Desse modo, fica evidenciada a prejudicialidade deste writ, em que se pugnava que o paciente aguardasse em liberdade, vaga no regime prisional adequado, até o esgotamento das instâncias de origem, ficando também revogados os efeitos da liminar anteriormente deferida, devendo o paciente iniciar o cumprimento de sua pena no regime inicial semiaberto, conforme estabelecido pela Corte paulista.
+- Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Os embargos de declaração são tempestivos, contudo, não merecem ser acolhidos, pois é cediço que eles possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+Preliminarmente, cabe esclarecer que o art. 619 do Código de Processo Penal estabelece os seguintes requisitos para a oposição de embargos declaratórios: Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de 2 (dois) dias contado da sua publicação, quando houver, na sentença, ambiguidade, obscuridade, contradição ou omissão.
+Como se verifica pela leitura do citado dispositivo legal, os embargos aclaratórios demandam fundamentação vinculada à precisa demonstração, pela parte embargante, de que a decisão embargada apresenta um dos vícios expressamente alinhados na norma processual.
+No caso em tela, a impetrante vindicava, liminarmente, a expedição de salvo conduto em favor do paciente e, no mérito, pugnava pela concessão da ordem para que ele pudesse aguardar em liberdade, vaga no regime prisional adequado ou para que pudesse resgatar sua sanção em regime aberto, ainda que com o uso de tornozeleira eletrônica.
+O pedido liminar foi deferido pelo Ministro Humberto Martins - presidente do STJ -, às e-STJ, fls. 47/48, para assegurar ao paciente o direito de aguardar em liberdade o trânsito em julgado da condenação, ressalvada a possibilidade de decretação de nova prisão por decisão devidamente fundamentada, que respeitasse o regime de cumprimento adequado.
+Ao compulsar os autos, observei que, de acordo com o Parecer Ministerial, à e-STJ fl. 85, e as informações prestadas pelas instâncias de origem, à e-STJ, fl. 60, as vias impugnativas foram esgotadas, havendo a certificação do trânsito em julgado da condenação, com a respectiva baixa dos autos à origem, em 6/12/2019 (sítio eletrônico do TJ/SP).
+Dessa forma, ressaltei que ficava evidenciada a prejudicialidade deste writ, em que se pugnava que o paciente aguardasse em liberdade, vaga no regime prisional adequado, até o esgotamento das instâncias de origem, ficando também revogados os efeitos da liminar anteriormente deferida, devendo o paciente iniciar o cumprimento de sua pena no regime inicial semiaberto, conforme estabelecido pela Corte paulista.
+Ante o exposto, rejeito os presentes embargos.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
