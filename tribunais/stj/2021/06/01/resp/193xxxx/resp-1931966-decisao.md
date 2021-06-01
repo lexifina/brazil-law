@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. SENTENÇA QUE RECONHECEU NULA A CITAÇÃO POR EDITAL, PELO NÃO ESGOTAMENTO DOS MEIOS PARA LOCALIZAÇÃO DO RÉU, E PRONUNCIOU A PRESCRIÇÃO. ARGUIÇÃO DE DESRESPEITO À COISA JULGADA A PROPÓSITO DA SENTENÇA QUE CONSTITUIU O TÍTULO JUDICIAL. ATO CITATÓRIO FICTO REALIZADO SEM QUALQUER TENTATIVA DE OBTENÇÃO DO PARADEIRO DO DEMANDADO. NULIDADE EVIDENTE. VÍCIO TRANSRESCISÓRIO, APTO A SER CONHECIDO DE OFÍCIO PELO JUÍZO. NÃO INTERRUPÇÃO DO PRAZO PRESCRICIONAL, NOS TERMOS DOS ARTS. 240 DO CPC/73 E 202, I, DO CCB/02. PRETENSÃO FULMINADA PELA PRESCRIÇÃO. DECISÃO RESPALDADA EM ENTENDIMENTOS PACIFICADOS E PRECEDENTES MÚLTIPLOS DO STJ. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta a recorrente violação dos artigos 1.022 e 1.026 do Código de Processo Civil, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração, sem suprimento da omissão relativa à violação da coisa julgada
+Requer, ainda, a impertinência da multa aplicada nos embargos de declaração.
+O recurso foi admitido na origem, nos termos da decisão de fls. 523-524, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+De início, observa-se que não se viabiliza o recurso especial pela indicada violação do art. 1.022 do CPC/15. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente, sobre as questões expostas no recurso de apelação.
+No caso dos autos, a Corte local assim se manifestou sobre a controvérsia (fl. 478, e-STJ):
+Com efeito, não houve omissão porquanto o acórdão proferido nos autos de apelação nº 0002447-70.2006.8.16.0117 refere-se a outra causa. É irrelevante que sejamas mesmas partes e que se trate também de ação monitoria: o pedido é outro porque outro é o crédito, de modo que não há identidade de causas à luz do art. 337, § 2º, do CPC.
+Ora, tratando-se de decisão proferida em outra causa, é muito óbvia a impossibilidade de invocar-se coisa julgada nesta, à luz dos arts. 502 a 508 do CPC. E mesmo que fosse o caso, a arguição não estaria relacionada a suprimento dos vicios de que trata o art. 1.022 do CPC, senão à correção de error in judicando ou in procedendo do colegiado, pretensão para a qual os aclaratórios não tem idoneidade.
+Dessa forma, não há que falar, no caso, em negativa de prestação jurisdicional, visto que a Câmara julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção, com base nos elementos de prova que entendeu pertinentes.
+Verifica-se que rever o entendimento do acórdão recorrido ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do STJ.
+Outrossim, a respeito da multa do art. 1.026, § 2º, do CPC/15, assiste razão à recorrente. Isso porque não identifico propósito protelatório nos embargos de declaração, ou o abuso da recorrente pela sua oposição, que justifique a penalidade, motivo pelo qual impõe-se o afastamento da sanção, nos termos do enunciado 98 da Súmula do STJ.
+Em face do exposto, dou parcial provimento ao recurso especial a fim de afastar a multa aplicada nos embargos de declaração.
+Intimem-se.
