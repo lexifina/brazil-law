@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interno manejado pela UNIÃO, que desafia decisão de minha lavra, proferida às e-STJ fls. 146/149, em que conheci parcialmente do recurso especial e neguei-lhe provimento, condenando a ora agravante ao pagamento de honorários recursais em importância equivalente a 10% (dez por cento) sobre o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo.
+No agravo interno, a parte alega que o valor da execução é de R$ 2.752.223,22 (dois milhões, setecentos e cinquenta e dois mil, duzentos e vinte e três reais e vinte e dois centavos) e que o percentual fixado na origem foi de 10% (dez) por cento até o valor limite de 200 salários mínimos e 8% (oito) por cento, no que exceder os 200 salários, nos termos do art. 85, § 3º, I e II, e § 5º, do CPC/2015, os honorários fixados na origem já se aproximam de R$270.000,00 (duzentos e setenta mil reais).
+Nesse contexto, afirma que os honorários recursais fixados em percentual de 10% (dez por cento) do valor já arbitrado (na origem), tornam exorbitante a referida verba, justificando a aplicação do princípio da equidade.
+Requer, assim, a reconsideração do decisum impugnado ou a submissão do feito ao Órgão colegiado.
+Impugnação às e-STJ fls. 169/174.
+Passo a decidir.
+Da análise dos autos,verifica-se que assiste razão à parte agravante no que tange à fixação dos honorários recursais nessa Corte.
+Com efeito,o acréscimo de 10% (dez por cento) a título de honorários recursais sobre a verba já arbitrada na origem (R$270.000,00)mostra-se por demais excessiva, justificando sua adequação,considerando-se os princípios da razoabilidade e da proporcionalidade.
+Ante o exposto, RECONSIDERO, em parte, a decisão de e-STJ fls. 146/149, apenas paramajorar, em desfavor da parte sucumbente, em 1% (um por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art.98, § 3º, do mesmo diploma legal. Mantido o conhecimento parcial do recurso especial e, nessa extensão, o seu desprovimento.
+Publique-se. Intimem-se.
