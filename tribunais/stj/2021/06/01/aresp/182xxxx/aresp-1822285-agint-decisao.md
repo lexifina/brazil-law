@@ -1,0 +1,70 @@
+DECISÃO
+Cuida-se de agravo interno interposto por RUTH HELENA CLETO CARVALHAES contra decisão monocrática desta relatoria de fls. 1.137-1.141 (e-STJ),resumida nos termos da seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. AUTOS FÍSICOS DA AÇÃO E AUTOS ELETRÔNICOS DO INSTRUMENTO. AUSÊNCIA DE COMPROVAÇÃO DA INTERPOSIÇÃO DO RECURSO PERANTE O PRIMEIRO GRAU DE JURISDIÇÃO. ÔNUS PROCESSUAL DO AGRAVANTE NÃO OBSERVADO.INADMISSIBILIDADE DO RECLAMO. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AUSÊNCIA DE PREJUÍZO À PARTE AGRAVADA. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO
+Em suas razões (e-STJ, fls. 1.143-1.234), a agravante defende a inaplicabilidade dos óbices mencionados nodecisumagravado, ao argumento de que é descabida a inadmissibilidade do agravo de instrumento interposto na origem, notadamente em virtude de não ter havido nenhum prejuízo à parte então agravada, tendo em vista em que esta exerceu seu direito de defesa por intermédio da apresentação de contrarrazões ao recurso.
+Colaciona julgados desta Corte para corroborar sua tese recursal.
+Impugnação às fls. 1.239-1.248 (e-STJ).
+Brevemente relatado, decido.
+Em melhor análise, verifico haver plausibilidade nas alegações dainsurgente, razão pela qual, com fundamento no art. 259,caput, do RISTJ, reconsidero a decisão de fls. 1.137-1.141(e-STJ) e passo a novo exame do recurso especial.
+A controvérsia trazida no recurso especial diz respeito à admissibilidade do agravo de instrumento interposto na origem em razão do descumprimento da regra prevista no § 2º do 1.018 do CPC/2015.
+Conforme registrado na decisão impugnada, a Corte de origem não conheceu do agravo de instrumento interposto pela ora agravante, haja vista que a parte não procedeu à comunicação da interposição do referido recurso ao Juízo de primeira instância, concluindo que houve o descumprimento da exigência processual prevista no § 2º do 1.018 do CPC/2015, uma vez que os autos principais tramitam por meio físico, de acordo com os seguintes fundamentos (e-STJ, fls. 979-981 - sem destaquesno original):
+Ao apresentar a contraminuta ao recurso, a parte agravada apresentou diversas preliminares, dentre elas citou a ausência de comunicação de interposição do recurso ao Juízo de Primeira Instância.
+Concedido a parte agravante o direito de se manifestar sobre a questão (fls. 953), asseverou que não descumpriu o disposto no 2º do artigo 1018, eis que os autos do agravo de instrumento são eletrônicos (fls. 956/961).
+A parte agravada se insurgiu discorrendo que não se pode perder de vista que, a previsão legal contida no referido artigo, faz referência ao processo principal (em primeiro grau) ser físico, ou não e não quanto ao próprio recurso de Agravo de Instrumento tramitar de forma física ou eletrônica (fls. 975/976).
+Reiterou o pedido de não conhecimento do recurso por falta de pressuposto recursal.
+Pois bem. Dispõe o artigo 1018, §§ 2º e 3º do CPC:
+Art. 1.018. O agravante poderá requerer a juntada, aos autos do processo, de cópia da petição do agravo de instrumento, do comprovante de sua interposição e da relação dos documentos que instruíram o recurso.
+(..)
+§ 2º Não sendo eletrônicos os autos, o agravante tomará a providência prevista no caput, no prazo de 3 (três) dias a contar da interposição do agravo de instrumento.
+§ 3º O descumprimento da exigência de que trata o § 2º, desde que arguido e provado pelo agravado, importa inadmissibilidade do agravo de instrumento.
+Como pode se observar das cópias que instruíram a ação, os autos principais não são eletrônicos, devendo, portanto, a parte agravante cumprir aludida norma cogente sob pena de inadmissibilidade do recurso.
+Foi exatamente o que aconteceu no caso em apreço, na medida em que a parte agravada além de ter alegado em contraminuta, solicitou ao Juízo de Primeiro Grau que fosse certificado o descumprimento da aludida norma(fls. 948) o que restou deferido e devidamente certificado pela serventia daquela Comarca(fls. 949).
+Assim, a tese da agravante (fls. 956/961) não pode prevalecer, mesmo porque a questão foi apreciada em recente julgado pelo C. STJ:
+ Agravo de Instrumento Autos físicos da ação e autos eletrônicos do instrumento. Ausência de comprovação da interposição do recurso perante o primeiro grau de jurisdição. Ônus processual do agravante não observado. Vício arguido e provado pelo agravado em contrarrazões . (STJ 3ª T., REsp1.749.958, Min. Nancy Andrighi, j. 18.9.18, DJ21.9.18.
+A doutrina não destoa, pois segundo Luiz Guilherme Marinoni, Sérgio Cruz Arenhardt, Daniel Mitidiero, in Novo curso de processo civil: tutela dis direitos mediante o procedimento comum. 3 ed.. São Paulo, Ed. RT, 2017. V. 2, n. 11, versão ProView:
+Não sendo eletrônicos os autos, o agravante tem o ônus de juntar aos autos do processo cópia da petição do agravo de instrumento, do comprovante de sua interposição e da relação dos documentos que instruíram o recurso. O não desempenho desse ônus, desde que arguido e provado pelo agravado, importa inadmissibilidade do recurso (art. 1018, 3º). Sendo eletrônico, o agravante poderá anexar esses mesmos documentos a fim de viabilizar o Juízo de retratação do órgão prolator da decisão agravada (art. 1018, § 1º). Nessa hipótese, porém, a ausência de juntada não leva ao não conhecimento do recurso. Dessa forma restou incontroverso que não foi cumprido o §2º do art. 1018 do CPC pela agravante o que inviabiliza a análise do mérito do recurso.
+Em um primeiro momento, tal como destacado na decisão impugnada, entendeu-se que o acórdão recorrido estaria em sintonia com a jurisprudência desta Corte, na linha de que a inobservância da exigência de que trata§ 2ºdo art. 1.018 do CPC, caso arguida pela parte contrária, implicaria a inadmissão do agravo de instrumento.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. AUTOS FÍSICOS DA AÇÃO E AUTOS ELETRÔNICOS DO INSTRUMENTO. AUSÊNCIA DE COMPROVAÇÃO DA INTERPOSIÇÃO DO RECURSO PERANTE O PRIMEIRO GRAU DE JURISDIÇÃO. ÔNUS PROCESSUAL DO AGRAVANTE NÃO OBSERVADO. VÍCIO ARGUIDO E PROVADO PELO AGRAVADO EM CONTRARRAZÕES.
+1. Ação indenizatória em fase de cumprimento de sentença.
+2. No termos do art. 1018, §3º, do CPC, deixando o agravante de cumprir a exigência de que trata o § 2º do referido normativo, deve o agravo de instrumento ser inadmitido. Precedentes do STJ.
+3. Os vícios passíveis de correção e a complementação da documentação exigível (arts. 932, parágrafo único, 1.017, §3º, do CPC/15) dizem respeito às providências que seriam realizadas de ofício pelo Relator, referentes a equívocos na formação do próprio recurso. Precedentes do STJ.
+4. Agravo interno no recurso especial não provido.
+(AgInt no REsp 1841305/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/02/2020, DJe 12/02/2020)
+Sob outra perspectiva, a jurisprudência desta Cortetem entendimento no sentido de que a finalidade da regra prevista no art. 1.018 do CPC/2015é, principalmente,proporcionar à parte contrária o exercício de sua defesa, evitando-se qualquer prejuízo processual.
+No caso em estudo, conforme asseverado no acórdão recorrido (e-STJ, fl. 979), o espólio de Antonio Fernando de Abreu Ribeiroapresentou, oportunamente, contraminuta ao agravo de instrumento interposto por Ruth Helena Cleto Carvalhaes, ocasião em que, a despeito de arguir o não cumprimento da diligência prevista no art. 1.018, § 2º, do CPC/2015 e rebater as questões de mérito da insurgência, não alegou nenhum prejuízo decorrente desse descumprimento.
+Dessa forma, inexistindo prejuízo à parte agravada e tendo esta exercido o seu direito de defesa, não há que se falar em nulidade, sendo, de fato, descabida a conclusão pelo não conhecimento do agravo de instrumento em facedo descumprimento da exigência do art. 1.018, §§ 2º e 3º, do CPC/2015.
+Confiram-se os julgados nessa linha de cognição:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CIVIL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO. COMUNICAÇÃO NA ORIGEM. JURISPRUDÊNCIA. SÚMULA Nº 168/STJ.
+1. O Superior Tribunal de Justiça, ao interpretar o art. 1.018 do CPC/2015, tem entendimento no sentido de que a finalidade da regra prevista neste dispositivo é proporcionar à parte contrária o exercício de sua defesa, evitando-se qualquer prejuízo processual. Precedentes.
+2. Não havendo prejuízo à parte agravada e tendo esta exercido o seu direito de defesa, como afirmado no acórdão embargado, não há que se falar em nulidade. Aplicação do princípio pas de nullité sans grief.
+3. É possível, com base na Súmula nº 168/STJ, inadmitir embargos de divergência quando a jurisprudência da Corte estiver no mesmo sentido do acórdão embargado.
+4. Agravo interno não provido.
+(AgInt nos EREsp 1.727.899/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 18/08/2020, DJe 24/08/2020)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ART. 1.018, §§ 2º E 3º, DO CPC/2015. EXERCÍCIO DE DEFESA. OCORRÊNCIA. PREJUÍZO. NÃO CONFIGURAÇÃO. EXIGÊNCIA. CUMPRIMENTO. NÃO PROVIMENTO.
+1. Exercido o direito de defesa pela parte agravada e não ocorrendo prejuízo a esta, não há que se falar em nulidade, considerando-se cumprida a exigência do art. 1.018, §§ 2º e 3º, do CPC/2015.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1677202/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. NÃO CONHECIMENTO. ART. 1.018, §§ 2º E 3º, DO CPC/2015. APLICABILIDADE. AUTOS FÍSICOS. JUÍZO DE ORIGEM. COMUNICAÇÃO TARDIA. PRAZO. TRÊS DIAS. MERA POSSIBILIDADE. PREJUÍZO. INEXISTÊNCIA. IMPRESCINDIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O art. 1.018, §§ 2º e 3º, do CPC/2015 visa propiciar à parte agravada a sua defesa e a demonstração de eventual prejuízo processual decorrente da não comunicação da interposição de agravo de instrumento ao juízo de origem.
+3. Na hipótese, o recorrido, em contraminuta, limitou-se a alegar a não observância do prazo de comunicação ao juízo de origem em 3 (três) dias, sem demonstrar o vício ou prejuízo.
+4. A lei faculta a prática do ato, motivo pelo qual deve ser afastado o excesso de rigor formal, à luz do princípio da instrumentalidade das formas.
+5. Recurso especial provido.
+(REsp 1.758.943/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 26/6/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO NÃO CONHECIDO. ART. 1.018, §§ 2º E 3º, DO CPC/2015. COMUNICAÇÃO AO JUÍZO DE ORIGEM SOBRE A INTERPOSIÇÃO DO RECURSO REALIZADA ALÉM DO TRÍDUO LEGAL. AUSÊNCIA, NO CASO, DE PREJUÍZO DA PARTE ADVERSA. APELO NOBRE PROVIDO MONOCRATICAMENTE. AGRAVO INTERNO NÃO PROVIDO.
+1. A finalidade da regra do art. 526 do CPC/73, que encontra correspondência no art. 1.018 do CPC/2015, é "principalmente, proporcionar à parte contrária o exercício de sua defesa, evitando-se qualquer prejuízo processual. Inexistindo prejuízo à parte agravada e tendo esta exercido o seu direito de defesa, não há que se falar em nulidade. Precedentes" (AgRg no AREsp 636.518/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/9/2015, DJe de 13/10/2015).
+2. No caso, tendo a agravada apresentado contrarrazões ao agravo de instrumento e exercido seu direito de defesa, não há que se falar na inadmissibilidade do agravo de instrumento pelo descumprimento da exigência do art. 1.018, §§ 2º e 3º, do CPC/2015.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.727.899/DF, Relator o Ministro Raul Araújo, Quarta Turma, julgado em 2/4/2019, DJe 25/4/2019)
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO NÃO CONHECIDO. ART. 1.018 DO CPC/2015. ART. 526 DO CPC/73. DESCUMPRIMENTO NA ORIGEM. OBRIGATORIEDADE DE INFORMAR O JUÍZO DE ORIGEM SOBRE A INTERPOSIÇÃO DO RECURSO. NECESSIDADE DE PROVA DE PREJUÍZO.
+I - Apenas se ambos os processos tramitarem na forma eletrônica (autos originários e autos do agravo de instrumento), o agravante não terá a obrigação de juntar a cópia do inconformismo na origem. Precedente: REsp 1708609/PR, Rel. Ministro MOURA RIBEIRO, DJe 24/08/2018.
+II - O agravo de instrumento deve ser inadmitido apenas no caso de prova do prejuízo causado à parte agravada em decorrência da não juntada, aos autos originários, da comprovação da interposição do recurso. Precedentes: AgRg no AREsp 636.518/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe 13/10/2015; REsp 1426205/SP, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 01/08/2017.
+III - Tendo a agravada apresentado contrarrazões ao agravo de instrumento e exercido seu direito de defesa, não há que se falar na inadmissibilidade do agravo de instrumento pelo descumprimento da exigência do art. 1.018, §§ 2º e 3º do CPC/2015.
+IV - Recurso especial provido.
+(REsp 1753502/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 06/12/2018, DJe 13/12/2018)
+Assim, é de se reconhecer que o acórdão recorrido merece reforma, uma vez que o entendimento por ele expressadonão se encontra em consonância com a jurisprudência mais recente destaCorte Superior.
+Ante o exposto, exercido o juízo de reconsideração, conheço do agravo para dar provimento ao recurso especial a fim de determinar ao tribunal de origem que conheça do agravo de instrumento e promova o seu julgamento, como entender de direito.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO EXERCIDO PARA NOVO EXAME DA QUESTÃO OBJETO DO RECURSO. AGRAVO DE INSTRUMENTO NÃO CONHECIDO. ART. 1.018, §§ 2º E 3º, DO CPC/2015. DESCUMPRIMENTO DE ÔNUS PROCESSUAL. EXERCÍCIO DA DEFESA.AUSÊNCIA, NO CASO, DE PREJUÍZO DA PARTE AGRAVADA. EXCESSO DE FORMALISMO. INADMISSIBILIDADE DO AGRAVO DE INSTRUMENTO AFASTADA. PRECEDENTES.AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL, MEDIANTE JUÍZO DE RECONSIDERAÇÃO.
