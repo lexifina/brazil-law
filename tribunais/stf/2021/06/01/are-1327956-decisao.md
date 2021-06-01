@@ -1,0 +1,29 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Superior Tribunal de Justiça, assim ementado (eDOC 1, p. 142/143):
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. LEI 13.964/2019 (PACOTE ANTICRIME). PROGRESSÃO DE REGIME. CONDENAÇÃO POR CRIME EQUIPARADO A HEDIONDO (TRÁFICO DE DROGAS). REINCIDÊNCIA EM CRIME COMUM. HIPÓTESE NÃO ABARCADA PELA NOVATIO LEGIS. ANALOGIA IN BONAM PARTEM. CUMPRIMENTO DE 40% DA PENA. RECURSO NÃO PROVIDO.
+    1. Firmou-se nesta Superior Corte o entendimento no sentido de ser irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo). Interpretação da Lei 8.072/90. Precedentes.
+    2. Com a entrada em vigor da Lei 13.964/19 – Pacote Anticrime-, foi revogado expressamente o art. 2º, § 2º, da Lei n. 8.072/90 (art. 19 da Lei n. 13.964/19), passando a progressão de regime, na Lei de Crimes Hediondos, a ser regida pela Lei n. 7.210/84.
+    3. A nova redação dada ao art. 112 da Lei de Execução Penal modificou por completo a sistemática, introduzindo critérios e percentuais distintos e específicos para cada grupo, a depender especialmente da natureza do delito.
+    4. No caso, os pacientes foram sentenciados pelos delitos de tráfico de drogas, tendo sido reconhecida sua reincidência devido à condenação definitiva anterior pela prática de crime comum. Para tal hipótese, inexiste na novatio legis percentual a disciplinar a progressão de regime ora pretendida, pois os percentuais de 60% e 70% foram destinados aos reincidentes específicos.
+    5. Em direito penal não é permitido o uso de interpretação extensiva, para prejudicar o réu, devendo a integração da norma se operar mediante a analogia in bonam partem. Precedentes.
+    6. Recurso não provido.”
+    Os embargos de declaração foram rejeitados (eDOC 1, p. 170-176).
+    No recurso extraordinário, interposto com base no art. 102, III, a, do permissivo constitucional, alega-se violação ao art. 5º, caput, XLVI, da Constituição da República.
+    Nas razões recursais, sustenta-se que “é inegável que a diferenciação do primário e do reincidente, com a imposição de tratamento mais gravoso ao último, é resposta penal escolhida pelo legislador de forma legítima” (eDOC 1, p. 188).
+    Assenta, nesse sentido, que, “Em atenção ao ordenamento constitucional, não seria possível à Lei nº 13.964/2019 dar tratamento igualitário a reincidentes e não reincidentes em relação ao percentual de cumprimento de pena para progressão de regime. E não o fez, uma vez que manteve a necessidade de que os reincidentes, para fins de progressão de regime, cumpram ao menos 60% (3/5) da pena, a teor do que determina o inciso VII do art. 112 da LEP. Interpretação diversa é ofensa direta ao art. 5º, caput e inciso XLVI, da Constituição Federal” (eDOC 1, p. 186).
+    A Vice-Presidência do STJ inadmitiu o extraordinário à conta da ofensa reflexa à Constituição Federal (eDOC 1, p. 211-222).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Superior Tribunal de Justiça, ao analisar as alterações promovidas pela Lei 13.964/2019 e a nova redação dada ao art. 112 da Lei de Execução Penal, concluiu que “a intenção do legislador foi manter os condenados mais tempo no regime estabelecido para o início do cumprimento da pena. A novatio legis insere dispositivos prejudiciais à situação jurídica do condenado, os quais somente poderão ser aplicados aos crimes praticados após a sua entrada em vigor, em respeito ao princípio da anterioridade (art. 5º, XL, CF e art. 1º do CP). Em se tratando, contudo, de hipótese benéfica ao apenado, haverá a aplicação retroativa” (eDOC 1, p. 148).
+    Sendo assim, observo que a matéria relacionada aos requisitos da progressão de regime pressupõe a incursão na legislação ordinária de regência, preconizada no art. 112 da Lei de Execução Penal e no art. 63 do Código Penal, o que, por configurar suposta ofensa indireta à Constituição Federal, refoge à destinação constitucional do recurso extraordinário.
+    Nesse sentido:
+    “DIREITO PROCESSUAL PENAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AO ART. 5º, XLVI, DA CONSTITUIÇÃO DA REPÚBLICA. SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. Cristalizada a jurisprudência desta Suprema Corte, a teor das Súmulas 282 e 356/STF: “Inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada”, bem como “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.”
+    2. Obstada a análise da suposta afronta aos preceitos constitucionais invocados, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que refoge à competência jurisdicional extraordinária desta Corte Suprema, a teor do art. 102 da Magna Carta.
+    3. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República.
+    4. Agravo interno conhecido e não provido. (ARE 1163847-AgR, Rel. ROSA WEBER, Primeira Turma, DJe 26.11.2018 - grifei)
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 1º de junho de 2021.
+                      Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
