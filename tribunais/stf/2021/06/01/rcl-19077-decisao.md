@@ -1,0 +1,18 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    Renato Tristão Machado afirma haver a Terceira Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro, no processo nº 0000434-71.2012.8.19.0031, usurpado a competência do Supremo.
+    Esclarece interposto recurso extraordinário, no curso de determinada demanda, o qual teve a sequência negada com base no decidido no Tema nº 339 do repositório da repercussão geral. Pondera em jogo não apenas a arguição de negativa de prestação jurisdicional, decorrente de ofensa ao artigo 93, inciso IX, da Constituição de 1988, mas também a transgressão aos artigos 5º, cabeça, incisos II e XXXVI, e 37, cabeça, da Carta da República. Diz impróprio o não conhecimento do agravo formalizado, cabendo a remessa ao Supremo ou, sucessivamente, a conversão em interno.
+    Requer seja determinado o processamento do agravo, com o encaminhamento do processo, primeiramente, ao Superior Tribunal de Justiça e, após, ao Supremo. Pretende, no mérito, a confirmação da providência e, sucessivamente, a conversão em interno.
+    O Órgão reclamado esclareceu o histórico processual.
+    O Ministério Público Federal manifestou-se pela improcedência do pedido. Evocando o assentado na questão de ordem no agravo de instrumento nº 760.358, sustenta adequada a protocolação de agravo interno contra ato mediante o qual negado seguimento a recurso extraordinário, se versada discussão em relação à qual tenha este Tribunal proclamado não configurada a repercussão geral. No tocante ao pedido sucessivo, menciona erro grosseiro, referindo-se à interposição de agravo em recurso extraordinário em substituição a agravo interno, tendo como impróprio o princípio da fungibilidade.
+    2. Conclui-se ausente erronia na observância da sistemática da repercussão maior. O Tribunal de Justiça, ao impedir o processamento do recurso extraordinário, levou em conta o decidido no agravo de instrumento nº 791.292 – Tema nº 339 –, no qual enunciada tese no sentido da obrigatoriedade da fundamentação dos pronunciamentos judiciais. No acórdão questionado mediante recurso extraordinário, assentou-se inadequada a análise do tema de fundo, considerada a natureza instrumental da ação cautelar de produção antecipada de prova, formalizada sob a vigência do Código de Processo Civil de 1973, inexistindo omissão.
+    A arguida contrariedade aos demais dispositivos constitucionais, a par da generalidade dos argumentos, pressupõe análise da legislação processual. Sobre o tema, o Plenário Virtual concluiu não configurada a repercussão geral – recurso extraordinário com agravo nº 748.371:
+    Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+    (Recurso extraordinário com agravo nº 748.371, Plenário Virtual, relator ministro Gilmar Mendes, Diário da Justiça eletrônico de 1º de agosto de 2013.)
+     A teor do artigo 543-B do Código de Processo Civil de 1973, vigente à época, incumbia mesmo ao Tribunal de origem negar seguimento a recurso em que versado debate sem repercussão maior reconhecida pelo Supremo. Contra a decisão, pertinente é o agravo interno, e não o direcionado a este Tribunal, como ocorrido no caso. A glosa ao manuseio de recurso inadequado não implica usurpação da competência do Supremo.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 1º de junho de 2021.
+Ministro MARCO AURÉLIO
+Relator
