@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por LUIS CÉSAR SIMIELLI e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO ACIDENTE DE TRÂNSITO AÇÃO DE INDENIZAÇÃO JULGAMENTO PARCIAL DO MÉRITO DANOS MORAIS E ESTÉTICOS CULPA DA RÉ DEMONSTRADA CONDENAÇÃO SOLIDÁRIA NOS LIMITES CONTRATADOS NA APÓLICE COM OBSERVAÇÃO DO CAPITAL SEGURADO PARA A COBERTURA RESPECTIVA QUANTUM INDENIZATÓRIO DENTRO DOS PADRÕES DE RAZOABILIDADE DEDUÇÃO DOS VALORES RECEBIDOS PELO SISTEMA DPVAT CABIMENTO DECISÃO MANTIDA RECURSO NÃO PROVIDO.
+Quanto à controvérsia em debate, pela alínea "a" do permissivo constitucional, alega violação do artigo 944 do CC, no que concerne ao valor arbitrado a título de indenização por danos morais, trazendo os seguintes argumentos:
+A decisão contraria o art. 944 do CC, que expressamente determina que a indenização mede-se pela extensão do dano . Isso porque, ao contrário do que manda a lei, a indenização não foi fixada de acordo com a extensão do dano.
+Os valores fixados, num total de R$ 220.000,00, são irrisórios ante a extensão do dano sofrido pelo autor Thiago que, em razão do evento danoso, presenciou a morte de sua namorada e de um casal de amigos, sofreu amputação de sua perna esquerda e inutilização definitiva de seu braço esquerdo. (fls. 3418).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+O autor Thiago suportou a perda da sua namorada e de um casal de amigos, teve sua perna esquerda amputada e permaneceu, por meses, hospitalizado. Seus pais, coautores na demanda, diante do fato ocorrido, sofreram danos morais indiretos.
+A caracterização do dano moral pressupõe a prática de ato ilícito capaz de acarretar um prejuízo natureza psicológica à vítima.
+Sem dúvida, no casoconcreto, restou caracterizado o dano moral indenizável, na medida em que o evento acarretareflexos na vida e no convívio familiar, representando a reparação do dano uma forma de, no mínimo, mitigar tal sofrimento.
+Reconhecido o dano perpetrado, cabe ao magistrado a fixação do quantum indenizável dentro dos limites da razoabilidadee atendendo as circunstâncias do caso concreto, bem como considerando as condições econômicas das partes.
+O valor de indenização tem finalidade reparatória, mas não pode, em razão de seu excessivo valor, configurar enriquecimento ilícito capaz de tornar o evento danoso em um acontecimento lucrativo.
+Com fundamento na razoabilidade e de acordo com as decisões recentes acerca do assunto, o quantum fixado pelo juízo deve ser mantido, pois se mostra condizente com o dano experimentado pelos Autores. (fls. 3.409)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
