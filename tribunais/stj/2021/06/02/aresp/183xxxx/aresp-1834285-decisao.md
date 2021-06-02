@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que, sob fundamento de não demonstração das violações legais apontadase da ausência de cotejo analítico, negou seguimento ao recurso especial.
+A decisão colegiada recorrida apresenta a seguinte ementa (e-STJ fl. 413):
+PLANO DE SAÚDE  Negativa de Cobertura -Necessidade de intervenção cirúrgica de hérnia discai lombar -Recusa da seguradora por entendê-la inadequada ao segurado -Não excluindo a operadora do seguro saúde a doença, não podemser excluídos os procedimentos, exames, materiais emedicamentos necessários ao tratamento - Autonomia médica naindicação do procedimento adequado ao paciente - Admitir-se quea operadora do Plano ou Seguro Saúde possa deixar de custear otratamento quando entender que este não está tendo progresso,seria admiti-lo, também, quando tivesse certeza da inevitabilidadedo resultado letal, de forma a não despender qualquer outronumerário - Diálogo das Fontes - A Lei n. 9.656/98, que dispõesobre os planos e seguros privados de assistência à saúde, deve seraplicada de forma harmônica c com observância das normas queregem a proteção e defesa do consumidor, reconhecidamentevulnerável no mercado de consumo (art. 4o, inciso I, Lei n.8.078/90), c que são de ordem pública e social, estabelecidas naLei n. 8.078/90, gozando, ainda, o consumidor de proteçãoconstitucional (art. 5o, inciso XXXII e art. 170, inciso V) -Recurso provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 447/451).
+Sobreveio o recurso especial (e-STJ fls. 421/429), fundamentado no art. 105, III, "a" e "c", da CF, no qual a recorrente sustentou, além de divergência jurisprudencial, afronta aos arts. 421 e 422 do CC/2002, argumentando, em síntese, que seria legítima a recusa de cobertura de procedimento médico eletivo realizado fora da rede credenciada ao convênio.
+No agravo (e-STJ fls. 469/476), afirma a presença dos requisitos de admissibilidade do recurso especial.
+É o relatório.
+Decido.
+Ao reconhecer a obrigação da empresa de saúde em custear o procedimento postulado pelo beneficiário do plano, mesmo realizado fora da rede credenciada, entendeu o Tribunal de origem que o tratamentotinha caráter urgente, além de não ter a recorrente demonstrado que o hospital onde realizado o procedimento não era vinculado ao convênio(e-STJ fls. 415/417).
+Constata-se que a conclusão da Corte de origemse deu a partir do exame de questões fáticas e probatórias. Assim, a alteração desse entendimento esbarra no óbice da Súmula n. 7/STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
