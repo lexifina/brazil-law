@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo interposto por VAGNE APARECIDO SOUZA SANTOS (primeiro agravante), contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Ação: de busca e apreensão, ajuizada pelo BANCO DAYCOVAL S/A, em face do primeiro agravante.
+Sentença: julgou procedente o pedido formulado na ação de busca e apreensão e parcialmente procedentes os pedidos contrapostos formulados pelo primeiro agravante, para reconhecer a abusividade da tarifa de "serviços de terceiros" e condenar o agravado à devolução de eventual valor cobrado indevidamente.
+Acórdão: negou provimento à apelaçãointerpostapeloagravado e ao apelo adesivo do primeiro agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE BUSCA E APREENSÃO - CONTRATO DE ABERTURA DE CRÉDITO COM ALIENAÇÃO FIDUCIÁRIA EM GARANTIA- COBRANÇA DA TARIFA DE"SERVIÇOS DE TERCEIRO" - AUSÊNCIA DE ESPECIFICAÇÃO NO CONTRATO DOS SERVIÇOS DE TERCEIROS EFETIVAMENTE PRESTADOS - ABUSIVIDADE - TESE FIRMADA PELO STJ SOB O RITO DOS RECURSOS REPETITIVOS - RECURSO ADESIVO -INVERSÃO DO ÔNUS DA PROVA - DESNECESSIDADE - MATÉRIA EXCLUSIVAMENTE DE DIREITO - CAPITALIZAÇÃO DE JUROS - LEGALIDADE DA COBRANÇA ANTE A EXISTÊNCIA DE PREVISÃO CONTRATUAL EXPRESSA - ENTENDIMENTO DO STJ - PRETENSÃO DE RECONHECIMENTO DA ILEGALIDADE NA COBRANÇA DE COMISSÃO DE PERMANÊNCIA - COBRANÇA INEXISTENTE NO CONTRATO - DESCARACTERIZAÇÃO DA MORA - IMPOSSIBILIDADE - ABUSIVIDADE DE ENCARGOS ACESSÓRIOS INCAPAZ DE AFASTAR A MORA - RECURSO ESPECIAL Nº 1.639.320/SP (TEMA 972/STJ) - REPETIÇÃO EM DOBRO - NÃO CABIMENTO - MÁ-FÉ DA INSTITUIÇÃOFINANCEIRA NÃO DEMONSTRADA - HONORÁRIOS SUCUMBENCIAIS MAJORADOS - APLICABILIDADE DO ART. 85,§11 do CPC. RECURSO DE APELAÇÃO NÃO PROVIDO. RECURSO ADESIVO NÃO PROVIDO.
+Embargos de declaração: interpostos pelo agravado, foram rejeitados.
+Recurso especial: alega violação de dispositivos legais.
+Decisão de admissibilidade do TJ/PR: inadmitiu o recurso especial, com os seguintes fundamentos: i) inadmissibilidade do recurso especial fundado em violação de dispositivo constitucional; ii) ausência de violação dos arts. 489 e 1.022 do CPC/15; iii)incidência dos óbices das Súmulas 5,7 e 83, todasdo STJ.
+Agravo em recurso especial: sustenta a inaplicabilidade do óbice da Súmula 7/STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+Constata-se, da análise da petição do presente recurso, que oagravantese limitou a alegar, genericamente, que não seria necessário o reexame de fatos e provas, mas não demonstrou, pontualmente, a inaplicabilidade de cada um dos óbices invocados na decisão agravada.
+O agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro em 10% o valor dos honorários fixados anteriormente, devidos pelo primeiro agravante, observada a concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
