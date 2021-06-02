@@ -1,0 +1,43 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO. PERCENTUAL PARA PROGRESSÃO DE REGIME. RECORRENTE REINCIDENTE NÃO ESPECÍFICO. ALTERAÇÃO DA LEI N. 13.964/2019. LEI MAIS BENÉFICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.A hipótese em análise trata de lei penal mais benéfica ao apenado, de forma que é mister o reconhecimento de sua retroatividade, dado que o percentual por ela estabelecido - qual seja, de 40% das reprimendas impostas -, é inferior à fração de 3/5, anteriormente exigida para a progressão de condenados por crimes hediondos, sejam reincidentes genéricos ou específicos.
+2. Outra não é a compreensão do Superior Tribunal de Justiça, segundo a qual, "com a alteração promovida pela Lei 13.964/2019 (Pacote Anticrime), o legislador trouxe novas nuances ao tema, pois ao revogar o art. 2º, § 2º da Lei n. 8.072/1990, dispositivo o qual não fazia diferenciação entre a reincidência específica ou genérica para a progressão de regime, estabeleceu novos lapsos para progressão de regime, modificando também o art. 112 da Lei de Execução Penal" (HC n. 607.190/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 14/10/2020).
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO FEDERAL agrava da decisão de fls. 108-111, em que neguei provimento ao recurso especial do Ministério Público do Estado de São Paulo.
+O Parquet federal alega que "o percentual de 40% do cumprimento da pena para a progressão foi prevista para o condenado por crime hediondo ou equiparado, se for primário, sendo expressa a discriminação legal" (fl. 120).
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja restabelecido o acórdão prolatado em segundo grau.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO. PERCENTUAL PARA PROGRESSÃO DE REGIME. RECORRENTE REINCIDENTE NÃO ESPECÍFICO. ALTERAÇÃO DA LEI N. 13.964/2019. LEI MAIS BENÉFICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.A hipótese em análise trata de lei penal mais benéfica ao apenado, de forma que é mister o reconhecimento de sua retroatividade, dado que o percentual por ela estabelecido - qual seja, de 40% das reprimendas impostas -, é inferior à fração de 3/5, anteriormente exigida para a progressão de condenados por crimes hediondos, sejam reincidentes genéricos ou específicos.
+2. Outra não é a compreensão do Superior Tribunal de Justiça, segundo a qual, "com a alteração promovida pela Lei 13.964/2019 (Pacote Anticrime), o legislador trouxe novas nuances ao tema, pois ao revogar o art. 2º, § 2º da Lei n. 8.072/1990, dispositivo o qual não fazia diferenciação entre a reincidência específica ou genérica para a progressão de regime, estabeleceu novos lapsos para progressão de regime, modificando também o art. 112 da Lei de Execução Penal" (HC n. 607.190/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 14/10/2020).
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a informar a decisão agravada, cuja conclusão mantenho.
+A Corte estadual manifestou-se sobre o tema, nos seguintes termos (fls. 41-42, grifei):
+ ..  a situação do Agravante não se enquadra expressamente em nenhuma das hipóteses da nova redação do art. 112, da Lei de Execução Penal, valendo lembrar que o § 2º, do art. 2º, da Lei nº 8.072/90, que exigia, para progressão de regime prisional, o cumprimento de 3/5 da pena, ao apenado reincidente (genérico) por crime hediondo ou equiparado, restou expressamente revogado pela Lei nº 13.964/2019.
+Trata-se de uma lacuna na lei, na qual o legislador não incluiu as hipóteses de progressão de regime para condenado em crimes hediondos ou equiparados, que seja reincidente, não específico (genérico), não restando outra solução tratá-lo como se primário.
+Deve incidir, na eventual hipótese de conflito de interpretação da lei, a mais benéfica, sendo exigivel, no caso, para fins de progressão de regime, que o Agravante tenha cumprido 40% (2/5) da pena e não 60% (3/5), como o era antes da entrada em vigor da Lei nº 13.964/2019.
+A esse respeito, reitero que, após as alterações promovidas pela Lei n. 13.964/2019, tornaram-se cruciais para a avaliação do lapso de progressão de regime dois fatores além da hediondez - quais sejam, a ocorrência ou não do resultado morte e a primariedade, a reincidência genérica ou, ainda, a reincidência específica do apenado.
+Na hipótese, o agravado foi condenado por crime hediondo e crime comum, de modo que se trata de reincidente genérico. Todavia, os patamares definidos pela legislação atual não contemplam tal hipótese, ou seja, há uma lacuna legal. Confira-se a nova redação do art. 112 da LEP, incluída pela Lei n. 13.964/2019, que prevê (destaquei):
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+ ..
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário;
+VI - 50% (cinquenta por cento) da pena, se o apenado for:
+a) condenado pela prática de crime hediondo ou equiparado, com resultado morte, se for primário, vedado o livramento condicional;
+ ..
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado;
+Dessa forma, dado que a lei não dispõe sobre o lapso de progressão para condenado pela prática de crime hediondo e reincidente genérico, é necessário suprir a lacuna legal, o que se dá por meio da aplicação do patamar referente ao condenado primário, já que o percentual de 50% se destina aos delitos hediondos que resultam em morte da vítima, diferentemente dos autos, que tratam de tráfico de drogas, além do fato de o patamar de 60%, como já apontado pela defesa, fazer referência apenas aos reincidentes específicos, situação também diversa da apresentada.
+Urge consignar:
+ o  ato jurídico perfeito e a retroatividade da lei penal mais benéfica são direitos fundamentais de primeira geração, previstos nos incisos XXXVI e XL do art. 5º da Constituição Federal. Por se tratarem de direitos de origem liberal, concebidos no contexto das revoluções liberais, voltam-se ao Estado como limitadores de poder, impondo deveres de omissão, com o fim de garantir esferas de autonomia e de liberdade individual.
+(HC n. 583.837/SC, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 12/8/2020).
+Assim, tendo em vista as ponderações acima, concluo que a hipótese em análise trata de lei penal mais benéfica ao apenado, de forma que é mister o reconhecimento de sua retroatividade, porquanto o que o percentual por ela estabelecido - qual seja, de 40% das reprimendas impostas -, é inferior à fração de 3/5, anteriormente exigida para a progressão de condenados por crimes hediondos, sejam reincidentes genéricos, sejam ou específicos.
+Outra não é a compreensão do Superior Tribunal de Justiça, segundo a qual, "com a alteração promovida pela Lei 13.964/2019 (Pacote Anticrime), o legislador trouxe novas nuances ao tema, pois ao revogar o art. 2º, § 2º da Lei n. 8.072/1990, dispositivo o qual não fazia diferenciação entre a reincidência específica ou genérica para a progressão de regime, estabeleceu novos lapsos para progressão de regime, modificando também o art. 112 da Lei de Execução Penal" (HC n. 607.190/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 14/10/2020).
+Na oportunidade, o Ministro relator salientou:
+No caso dos autos, o paciente, que não é primário, não se enquadra nos exatos termos do inciso V, tampouco seu caso se amolda ao inciso VII, uma vez que não é reincidente na prática de crime hediondo ou equiparado. Desse modo, forçoso reconhecer que, diante das duas situações, em obediência ao princípio do favor rei, ao paciente se deve aplicar a norma penal mais benéfica, no caso a incidência do percentual de 40% previsto no inciso V do art. 112 da Lei 7.210/1984 para fins de progressão de regime (Idem, destaquei).
+Logo, reitero não haver ilegalidade manifesta na decisão impugnada.
+À vista do exposto,nego provimento ao agravo regimental.
