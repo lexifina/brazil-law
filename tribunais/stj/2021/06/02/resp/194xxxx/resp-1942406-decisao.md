@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA RITA RBIRO GUEDES FRAZAO e SILVANO PEREIRA NETO, em face de decisão proferida pelo Tribunal de Justiça do Estado de Goiás que inadmitiu o recurso especial manejado contra acórdão assim ementado (fl. 101 e-STJ):
+AGRAVO DE INSTRUMENTO EM AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. PREJUÍZO AO ERÁRIO. RECURSO SECUNDUM EVENTUM LITIS.INDISPONIBILIDADE DE BENS INDEFERIDA. PRESUNÇÃO DO PERIGO DA DEMORA. DECISÃO REFORMADA.
+I- No caso em comento, o julgador de primeiro grau, não visualizando a probabilidade do direito, indeferiu o pedido de liminar de indisponibilidade de bens da agravada, no valor de R$ R$ 518.963,97.
+II- O objeto do agravo de instrumento deve cingir-se à legalidade ou ilegalidade do decisum agravado, uma vez que, sendo ele um recurso secundum eventum litis, o avanço desse limite, com a análise de questões ainda não decididas na instância singular, importaria na vedada supressão de instância.
+III- A medida de indisponibilidade de bens é voltada à garantia do dano patrimonial suportado pela pessoa jurídica de direito público, podendo alcançar tantos bens quanto bastem ao integral restabelecimento do status quo ante.
+IV- Segundo o entendimento do STJ firmado no julgamento do REsp 1.366.721, no comando do art. 7º da Lei 8.429/92, verifica-se que a indisponibilidade dos bens é cabível quando o julgador entender presentes fortes indícios de responsabilidade na prática de ato de improbidade que cause dano ao erário, estando o periculum in mora implícito à preambular garantia de recuperação do patrimônio do público, da coletividade, bem assim do acréscimo patrimonial ilegalmente auferido.
+V- Como, in casu, o pedido encontra-se fundamentado no inc. II do art. 12 da lei em referência, a decretação de bens não está condicionada ao preenchimento de ambos os requisitos legais, fumus boni iuris e periculum in mora.
+VI - Na ação civil pública por ato de improbidade administrativa, para a decretação liminar da indisponibilidade de bens, é dispensada a demonstração de que o agente esteja dilapidando o seu patrimônio, bastando a relevância dos fundamentos apresentados, consistentes em indícios de atos ímprobos.
+VII - Por efeito, dentro do exame que me é permitido neste momento, deve a decisão ser reformada, já que à vista dos fatos narrados na inicial e pelos documentos juntados aos autos, aparentemente há indícios da prática de ato ímprobo pelos agravados, causador de lesão ao erário, qual seja, desvio de recursos do FUNDEB destinando-o a outro fim que não aquele previsto em lei.
+AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO.
+Houve a oposição de embargos de declaração, os quais foram rejeitados (fl. 200 e-STJ):
+I- Não ocorrendo as hipóteses elencadas expressamente no art. 1.022 do Código de Processo Civil, a rejeição dos embargos de declaração opostos se impõe. Ademais, para oposição de embargos de declaração com o propósito de pré-questionamento, é necessária a constatação de alguma das imperfeições elencadas no art.
+1.022 do CPC, não evidenciadas no caso em apreço.
+II - Considerando a consagração pelo art. 1.025 do Código de Processo Civil, do denominado pré - questionamento ficto, necessário apenas a oposição dos declaratórios para o preenchimento do referido requisito exigido pelos recursos extraordinários.
+EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS.
+O recurso especial, com fundamento nas alíneas "a" e "c" do permissivo constitucional, apontadivergência jurisprudencial quanto à interpretação do art. 7º da Lei 8.429/92, eis que não há falar em indisponibilidade de bens diante da inexistência de indícios de lesão ao erário ou de enriquecimento ilícito (ausência fumus boni iuris). Ademais, aponta violação ao art. 833, IV e X, do CPC/2015, sustentando a impenhorabilidade dos valores bloqueados, pois os valores contidos nas contas dos agravados são todos provenientes de seu salário e de seus trabalhos como Vereador e Professor (Silvano) e Professora (Maria Rita) - fl. 226 e-STJ. Por fim, assevera que não há nos autos qualquer prova de lesão ao erário. Além disso, não ficou comprovado dolo ou culpa dos réus na forma de agir. Também não há prova da utilização de verba em proveito pessoal (fl. 228 e-STJ).
+Contrarrazões às fls. 284/297 e-STJ.
+O Tribunal de origem não admitiu o recurso especial à consideração de que incide na espécie o óbice da Súmula 735/STF.
+O agravo em recurso especial impugna todos os óbices da decisão de inadmissibilidade.
+É o relatório. Passo a decidir.
+Faz-se necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, considerando o preenchimento dos requisitos de admissibilidade do agravo e as peculiaridades do caso concreto, o agravo deve ser provido para que seja realizada a sua reautuação como recurso especial.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, d, do RISTJ, conheço do agravo para determinar sua autuação como recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. IMPUGNAÇÃO DOS TERMOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. AGRAVO CONHECIDO PARA REAUTUAÇÃO EM RECURSO ESPECIAL.
