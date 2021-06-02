@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interposto por AMBIENTAL PAULISTA PROJETOS E OBRAS LTDA. contra a r. decisão de fls. 327/328, da lavra da ilustre Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo,que não admitiu o recurso especial, ao fundamento de que não foidemonstrada a alegada vulneração aos artigos apontados como violados, bem como pelo não cabimento derecurso especial fundado em alegada violação de enunciado de súmula.
+É o relatório. Decido.
+O recurso não merece sequer conhecimento.
+Na hipótese, a parte agravante não rebateu, como lhe competia, os fundamentos da decisão que inadmitiu o apelo especial. Com efeito, limitou-se reiterar as razões esposadas no recurso especial, sem refutar, entretanto, a decisão agravada;
+O princípio da dialeticidade, que rege os recursosprocessuais, impõe ao recorrente, como requisito para a própriaadmissibilidade do recurso, o dever de demonstrar por que razão a decisão recorrida não deve ser mantida, demonstrando o seu desacerto, seja doponto de vista procedimental (error in procedendo), seja do ponto de vista do próprio julgamento(error in judicando), porquanto não atende aoprincípio em tela o recurso que se limita a tão só afirmar a tese jurídica interessante à sua pretensão, sem confrontar, de forma juridicamentebalizada, os fundamentos adotados na decisão que busca reformar, atraindo, na hipótese, o disposto no art. 932,III, do Código de Processo Civil de 2015.
+Ademais, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não se conhecerá do agravo emrecurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Assim, incide, na hipótese, por analogia, o princípio cristalizado nasúmula 182 do Superior Tribunal de Justiça, segundo a qual é inviável o agravo que deixa de atacar especificamente osfundamentos da decisão agravada.
+Diante do exposto, nos termos do art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
