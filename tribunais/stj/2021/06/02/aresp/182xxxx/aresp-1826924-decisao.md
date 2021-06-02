@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo de COMPANHIA SIDERÚRGICA NACIONAL contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. ACIDENTE FERROVIÁRIO. DECISÃO QUE DETERMINOU A RETIFICAÇÃO DO POLO PASSIVO PARA INCLUSÃO DA AGRAVANTE A PEDIDO DOS AUTORES E JULGOU EXTINTO O FEITO, SEM RESOLUÇÃO DE MÉRITO, EM RELAÇÃO À RÉ ORIGINÁRIA. PRETENSÃO RECURSAL DE RECONHECIMENTO DE LITISCONSÓRCIO NECESSÁRIO.
+1. O litisconsórcio necessário se estabelece quando a lei o exija ou quando a natureza da relação jurídica material de que participam os litisconsortes o torne imperativo. Art. 114 do CPC.
+2. In casu, não se observa a existência de diploma legal que estabeleça a formação de litisconsórcio entre a Agravante e a 3ª Agravada, assim como não se evidencia relação jurídica única e indivisível entre elas que demande julgamento uniforme.
+3. Os 1º e 2º Agravados se valeram da opção de pleitear a substituição do Réu, como faculta o art.
+338 do CPC.
+4.. Desprovimento do recurso." (e-STJ fl. 98)
+Nas razões do recurso especial, o agravante alega violação do art. 114 do CPC, sustentando, em síntese, que e a valoração atribuída aos fatos e provas que demonstram, inequivocamente, que a MRS é a única administradora da via onde ocorreu o suposto atropelamento, de modo que não restam dúvidas de que "pela natureza da relação jurídica controvertida, a eficácia da sentença" depende da participação da concessionária no feito.
+É o relatório. Decido.
+O art. 114 do CPC, que a recorrente alega ter sido violado, apresenta a seguinte redação:
+Art. 114. O litisconsórcio será necessário por disposição de lei ou quando, pela natureza da relação jurídica controvertida, a eficácia da sentença depender da citação de todos que devam ser litisconsortes.
+No caso dos autos, a Corte de origem afastou a necessidade de formação do litisconsórcio passivo necessário entre a recorrente e a MRS nos seguintes termos:
+"Por sua vez, MRS Logística S.A., 3ª Agravada, arguiu a ilegitimidade passiva ad causam, sob o argumento de que o local se caracteriza por possuir 02 (duas) linhas férreas paralelas e que o evento se deu naquela em que trafega a composição da Companhia Siderúrgica Nacional CSN, Agravante, nos termos da resposta a fls. 94/118.
+Diante disso, os 1º e 2º Agravados requereram a modificação do polo passivo para que passasse a constar como Ré apenas a Agravante, consoante petição a fls. 148 e emenda à petição inicial a fls. 149/159, o que foi deferido pelo juízo de 1º grau na forma da decisão agravada.
+Sob esse contexto, sabe-se que o litisconsórcio necessário se estabelece quando a lei o exija ou quando a natureza da relação jurídica material de que participam os litisconsortes o torne imperativo, como se vê do art. 114 do CPC ("O litisconsórcio será necessário por disposição de lei ou quando, pela natureza da relação jurídica controvertida, a eficácia da sentença depender da citação de todos que devam ser litisconsortes").
+O litisconsórcio necessário se dá na hipótese de ocorrer o que se denomina de legitimação conjunta, a qual exige que venham a Juízo todos os titulares da relação de direito material.
+Por outras palavras, há litisconsórcio necessário quando a relação jurídica aponta para a existência de "comunhão de direitos ou de obrigações relativamente à lide", de forma una e incindível.
+In casu, não se observa a existência de diploma legal que estabeleça a formação de litisconsórcio entre a Agravante e a 3ª Agravada, assim como não se evidencia relação jurídica única e indivisível entre elas que demande julgamento uniforme.
+Assim, certo é que não há litisconsórcio necessário entre a Agravante e a 3ª Agravada." (e-STJ fl. 101/102)
+Como visto, o Tribunal de origem expressamente consignou que no caso dos autos, não se está diante de relação jurídica única e indivisível entre elas que demande julgamento uniforme para a recorrente e a MRS. Concluiu, assim, que cabe ao autor optar contra quem deseja litigar.
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Neste sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. PRESCRIÇÃO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. ACORDÃO FUNDAMENTADO EM LEI LOCAL. SÚMULA N. 280 DO STF. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Esta Corte Superior possui julgado recente no sentido de se aplicar a prescrição pelo prazo geral de dez anos na hipótese de repetição de contribuições de previdência complementar.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir pela legitimidade passiva da recorrente e pela inexistência de litisconsórcio passivo necessário. Alterar esse entendimento demandaria o reexame do conjunto probatório do feito, vedado em recurso especial.
+5. Nos termos da Súmula n. 280 do STF, aplicada por analogia, "Por ofensa a direito local não cabe recurso extraordinário".
+6. Agravo interno desprovido.
+(AgInt no REsp 1721823/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/03/2021, DJe 03/03/2021) (grifei)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA REQUERIDA.
+1. A questão relativa à prevenção de órgão fracionário no Tribunal de origem foi examinada sob o enfoque de dispositivo do Regimento Interno daquela Corte, norma local, o que atrai o óbice contido na Súmula 280/STF.
+2. Alterar a convicção formada nas instâncias ordinária quanto à viabilidade da formação de litisconsórcio passivo necessário, tendo em vista a natureza da relação jurídica e a necessidade da lide ser decidida de modo uniforme para todas as partes envolvidas, demandaria reexame do conjunto probatório dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+3. É firme o entendimento desta Corte no sentido de não aplicar a multa por litigância de má-fé quando a parte utiliza recurso previsto no ordenamento jurídico, sem abusar do direito de recorrer, como é o caso dos autos 4. Agravo interno desprovido.
+(AgInt no AREsp 1485051/ES, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/11/2019, DJe 22/11/2019) (grifei)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS E MATERIAIS CUMULADA COM OBRIGAÇÃO DE FAZER. DANOS AMBIENTAIS. COMPETÊNCIA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. SÚMULA 284/STF. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO DO ACÓRDÃO ESTADUAL. SÚMULA 283/STF. LITISCONSÓRCIO FACULTATIVO. SÚMULA 83/STJ. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Revelam-se deficientes as razões do recurso especial quando a parte recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284/STF. Precedentes.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283/STF.
+3. Quanto à alegada ofensa ao art. 47 do CPC/73 e ao art. 3º da Lei 6.938/81, tem-se que o entendimento do eg. Tribunal a quo está em consonância com a jurisprudência desta Corte, no tocante à ocorrência de litisconsórcio facultativo.
+4. Estando o acórdão estadual em congruência com a jurisprudência desta Corte, o apelo nobre encontra óbice na Súmula 83/STJ.
+5. No caso, o Tribunal de Justiça concluiu pela desnecessidade de formação de litisconsórcio passivo necessário na "ação de reparação por danos morais e materiais c/c obrigação de fazer" proposta pelo ora agravado contra a agravante. A alteração de tal entendimento, ante as circunstâncias do caso concreto e em face das razões recursais trazidas no apelo nobre, demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial.
+6. Agravo interno desprovido.
+(AgInt no AREsp 1048208/MS, de minha Relatoria, QUARTA TURMA, julgado em 05/09/2019, DJe 25/09/2019)
+Por fim, não há que se analisar as questões relativas à responsabilidade ou não da MRS pelo acidente, tendo em vista que, com sua exclusão do polo passivo, tais temas encontram-se fora do objeto da presente demanda.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
