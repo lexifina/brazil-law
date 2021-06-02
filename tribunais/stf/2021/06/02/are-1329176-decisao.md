@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “Preliminares. Prescrição e cerceamento de defesa. Inocorrência. Apelação. Embargos à execução fiscal. IPVA. Empresa de locação de veículos autuada pelo fisco paulista. Lei n.º 13.269/08. Incidência da Lei Estadual de São Paulo nº 13.296/08, cuja constitucionalidade foi reconhecida pelo C. Órgão Especial. Responsabilidade solidária. Imposto devido no Estado em que os veículos estão disponíveis para locação. Multa aplicada dentro do patamar legal, sem caráter confiscatório. Honorários advocatícios fixados em valor razoável e compatível com a complexidade da causa e celeridade de julgamento. Precedentes. Recurso de apelação não provido.”
+    O recurso busca fundamento no art. 102, III, a e d, da Constituição Federal. A parte recorrente alega violação aos arts. 146, III, 155, III, da CF. Sustenta que: (i) “o fato gerador do IPVA – Imposto Sobre a Propriedade de Veículo Automotor – é a propriedade do veículo, não podendo ser considerado fato gerador da obrigação a mera situação de posse ou domínio útil do veículo”; (ii) sua responsabilização pelo tributo só poderia ser instituída mediante lei complementar; (iii) “a empresa locadora do veículo recolheu o IPVA de acordo com o domicílio tributário por ela eleito”.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “Entretanto, o recurso não merece trânsito pela alínea a.
+    O posicionamento alcançado pelos doutos Julgadores, embora contrário às pretensões da recorrente, não traduz desrespeito à legislação enfocada a ponto de permitir seja o presente alçado à instância suprema.
+    Ademais, acrescenta-se que a controvérsia foi dirimida com base na Lei Paulista nº 13.296/08, de modo que o fundamento utilizado para interposição somente poderia ter sua procedência verificada mediante o reexame de direito local. Atuante a Súmula 280 do Col. Supremo Tribunal Federal.
+    Por derradeiro, insta consignar que o exame de dispositivos de lei federal é inviável em sede de recurso extraordinário porque exorbita dos limites da competência da Corte Suprema constitucionalmente estabelecidos. Nesse sentido: ARE 917.089 AgR/PR, 1ª Turma, Rel. Min. EDSON FACHIN, DJe de 24/11/2015; ARE 871.247 ED/PB, 1ª Turma, Rel. Min. ROSA WEBER, DJe de 25/11/2015 e ARE 1.248.204/SP, Rel. Min. ALEXANDRE DE MORAES, DJe de 15/01/2020.
+    Sob o pálio da alínea d, o cabimento do recurso extraordinário pressupõe haja a Corte de origem privilegiado lei local em face da lei federal. Inexistente tal fato, impossível é entender pelo trânsito do extraordinário, conforme já decidiu o Col. Supremo Tribunal Federal, no ARE 914.499/SP, Rel. Min. ROSA WEBER, DJe de 25/09/2015. É a hipótese dos autos, onde, em nenhum momento, se enfrenta tal situação.
+    Inadmito, pois, o recurso extraordinário de fls. 147-71 com fundamento no art. 1.030, inc. V, do Código de Processo Civil.”
+    O Supremo Tribunal Federal na ADI 4.376, Rel. Min. Gilmar Mendes, irá apreciar a constitucionalidade dos arts. 2º ao 4º, bem como dos demais artigos que a esses se relacionem por arrastamento, da Lei n. 13.296, de 23 de dezembro de 2008, a qual estabelece tratamento tributário sobre o IPVA no Estado de São Paulo.
+    Diante do exposto, determino o sobrestamento do recurso até o julgamento da ADI 4.376.
+    Publique-se.
+          Brasília, 02 de junho de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
