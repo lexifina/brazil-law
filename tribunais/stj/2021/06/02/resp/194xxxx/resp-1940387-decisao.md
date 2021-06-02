@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PEDIDO DE UTILIZAÇÃO DO SISTEMA RENAJUD. DETRANET. DECRETO 10.046/2019. COMPARTILHAMENTO DE DADOS.
+1. O RENAJUD (Sistema de Restrição Judicial de Veículos)consubstancia-se em ferramenta que permite a comunicação eletrônica entre o Poder Judiciário e o Departamento Nacional de Trânsito - DENATRAN, possibilitando consultas e envio, em tempo real, de ordens judiciais eletrônicas de restrição de veículos automotores na base de dados do Registro Nacional de Veículos Automotores - RENAVAM.
+2. É caso de ser mantida a decisão embargada, ante a possibilidade de o exequente se utilizar do compartilhamento de dados de que trata a Lei nº10.046/2019, com as limitações nela previstas, para obter informações acercada eventual existência de bens que possam garantir a execução, além da busca de bens por meio de ofícios aos cartórios de registro de imóveis, por exemplo, para, daí então, requerer providências do Poder Judiciário.
+3. Agravo de instrumento desprovido.
+Os Embargos de Declaração foram rejeitados.
+Aponta a parte recorrente violação dos arts. 1.022, 139, 789, 797, 835, 854, 831 e829, § 2º, do Código de Processo Civil (CPC), de 2015;e dos arts. 10 e 11 da Lei 6.830/1980.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 27.5.2021.
+Inicialmente, constato que não se configura a alegada ofensa ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+A mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração, recurso que se presta tão somente a sanar os vícios previstos no art. 1.022 do CPC/2015, pertinentes à análise dos temas trazidos à tutela jurisdicional no momento processual oportuno.
+Por outro lado, assiste razão à Autarquia quanto à questão de fundo.
+O STJ tem compreensão firmada de que é legal a realização de pesquisas nos sistemas BACENJUD, RENAJUD e INFOJUD, porquanto são meios colocados à disposição da parte exequente para agilizar a satisfação de seus créditos.Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. SISTEMAS RENAJUD E INFOJUD. ESGOTAMENTO DE DILIGÊNCIAS. DESNECESSIDADE.
+1. Hipótese em que o Tribunal de origem consignou: "o Decreto nº 8.789, de 2016 estabelece o compartilhamento de dados entre os órgãos e entidades da administração pública federal. Daí que as informações que seriam obtidas pela consulta ao Renajud são obteníveis pela própria exequente, caso em que desnecessária a intervenção do juízo. (..) o acesso ao Infojud exige-se antes tenham sido empreendidas outras medidas na execução, como expedição de mandado de penhora, consulta ao Bacenjud e Renajud (..) ao caso das autarquias exequentes que se beneficiam do compartilhamento de dados estabelecido pelo Decreto nº 8.789, de 2016, deve ser exigido também que tenham previamente obtido as informações que lhe são disponibilizadas pela Receita Federal do Brasil - como o DOI -, e trazer aos autos as informações pertinentes" (fls. 130-131, e-STJ).
+2. O STJ possui compreensão firmada de que é legal a realização de pesquisas nos sistemas Bacenjud, Renajud e Infojud, porquanto são meios colocados à disposição da parte exequente para agilizar a satisfação de seus créditos, dispensando-se o esgotamento das buscas por outros bens do executado. 3. Recurso Especial provido.(REsp 1.845.322/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 25/5/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. ADMINISTRATIVO. EXECUÇÃO FISCAL. INFOJUD. DESNECESSIDADE DE ESGOTAMENTO DAS BUSCAS POR BENS DO DEVEDOR.
+1. Consoante orientação deste Superior Tribunal de Justiça, após a edição da Lei nº 11.382/2006, não mais se exige a comprovação do esgotamento das vias extrajudiciais em busca de bens penhoráveis para a utilização do Sistema BACENJUD, não havendo, pois, a obrigatoriedade de exaurimento de diligências por parte da exequente para a localização de bens do devedor (Nesse sentido: EREsp 1.086.173/SC, 1ª Seção, Rel. Min. Mauro Campbell Marques, DJe de 1º.2.2011). Esse mesmo entendimento deve ser aplicado também ao INFOJUD, porquanto se trata de meio colocado à disposição dos credores para simplificar e agilizar a busca de bens aptos a satisfazer os créditos executados.
+2. Agravo interno não provido.(AgInt no AREsp 1.398.071/RJ, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 15/3/2019)
+Diante o exposto,dou parcial provimentoao Recurso Especial, a fim de garantir o prosseguimento da Execução Fiscal com a realização da diligência no sistema Renajud.
+Publique-se.
+Intimem-se.
