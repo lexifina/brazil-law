@@ -1,0 +1,29 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de José Carlos de Melo, apontando como autoridade coatora a Sexta Turma, do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC nº 664.240/SP, Relator o Ministro Rogério Schietti Cruz.
+    A impetrante sustenta, em suma, que o paciente está submetido a constrangimento ilegal, na medida em que seria o caso de concessão da ordem para determinar a imediata progressão de regime de cumprimento da pena.
+    A esse respeito, a defesa afirma que
+    “o direito pleiteado pelo paciente [que] é a progressão ao REGIME INTERMEDIÁRIO, não se exige que ele esteja absolutamente apto ao retorno ao convívio social, mas apenas que esteja dando mostras concretas de que merece progredir de regime, sendo certo que a progressão é etapa importante na consecução de sua harmônica integração social, objetivo precípuo da execução da pena (artigo 1º da LEP).
+    Por outro lado, a fundamentação utilizada pelo STJ de que a falta grave recente indica a ausência de cumprimento do requisito subjetivo é manifestamente ilegal.”
+    Requer, liminarmente, a concessão da ordem para determinar a progressão do paciente para o regime semiaberto.
+    Examinados os autos, decido.
+    Transcrevo o teor da ementa do aresto questionado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. PRÁTICA RECENTE DE FALTA GRAVE. FUNDAMENTAÇÃO CONCRETA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. Inexiste constrangimento ilegal no ponto em que, de forma devidamente fundamentada, foi indeferido o pleito de progressão com fulcro na ausência do requisito subjetivo, haja vista o cometimento recente de infração disciplinar grave.
+    2. Agravo regimental não provido.”
+    O acórdão proferido pela Sexta Turma não evidencia flagrante ilegalidade, abuso de poder ou teratologia. Pelo contrário, a decisão proferida por aquele Superior Tribunal mostra-se devidamente fundamentada, estando justificado o convencimento formado.
+    Com efeito, consoante destacou o Ministro Rogerio Schietti Cruz, o juízo da execução entendeu que não foi atendido o requisito subjetivo para a progressão do regime de cumprimento de pena, pois,
+    “[n]a hipótese, o Juízo singular, ao indeferir o pleito defensivo, ressaltou que ‘ele praticou três faltas disciplinares de natureza grave, consistentes em tentativa de fuga e dano ao patrimônio, indisciplina e tentativa de burlar a segurança. Ademais, quando agraciado pelo livramento condicional, o sentenciado cometeu o crime que originou a GR5’ (fl. 61, grifei).
+    Com efeito, a preocupação em torno da readaptação do indivíduo censurado circunda, antes mesmo da execução penal, a própria dosimetria da reprimenda imposta, a qual se considera necessária à satisfação de uma concepção preventiva da pena. “Para as teorias relativas a pena se justifica, não para retribuir o fato delitivo cometido, mas, sim, para prevenir a sua prática. [...] a pena deixa de ser concebida como um fim em si mesmo, [...] e passa a ser concebida como meio para o alcance de fins futuros e a estar justificada pela sua necessidade: a prevenção de delitos” (BITTENCOURT, Cezar Roberto. Tratado de direito penal: parte geral. 17. ed. rev., ampl. e atual. São Paulo: Saraiva, 2012, p. 141).
+    Todavia, quanto ao fundamento atrelado ao histórico disciplinar, urge consignar que foi suspenso em 16/3/2018 o benefício do livramento condicional, dada a suposta prática de novo delito no curso da execução, ou seja, falta grave cometida em data recente, a qual, à época do exame do pleito (11/1/2020), possuía menor de 3 anos, de modo a macular o preenchimento do requisito de ordem subjetiva.
+    Não olvido também que “[a] jurisprudência desta Corte se firmou no sentido de que a gravidade dos delitos pelos quais o paciente foi condenado, bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal, pois devem ser levados em consideração, para a análise do requisito subjetivo, eventuais fatos ocorridos durante o cumprimento da pena” (HC n. 480.233/SP, Rel. Ministro Félix Fischer, 5ª T., DJe de 19/2/2019), o que não é o caso dos autos, dado o cometimento de infração disciplinar em pouco mais de ano, a demonstrar a ausência do requisito subjetivo para a progressão.
+    Todavia, “[e]m hipótese similar, decidiu esta Superior Corte que a prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo da progressão de regime. A circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (HC n. 347.194/SP, Rel. Min. FELIX FISCHER, julgado em 28/6/2016)” (AgRg no HC n. 600.011/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 15/10/2020, grifei).”
+    Como se sabe, cabe à instância ordinária, soberana na análise de prova, concluir pela presença, ou não, dos requisitos para a progressão, não sendo o habeas corpus a via adequada para revolver essas questões e deferir, de forma imediata, o pleito de progressão.
+    Nesse sentido:
+    “Concluir de forma contrária à decisão em que se entendeu que o paciente não teria atendido aos pressupostos subjetivos necessários à progressão demandaria o reexame do cotejo fático-probatório dos autos, inviável na via estreita do habeas corpus.” (HC nº 156.894-AgR/SP, Segunda Turma, de minha relatoria, DJe de 5/9/18)
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 2 de junho de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
