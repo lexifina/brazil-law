@@ -1,0 +1,17 @@
+DECISÃO
+FRANCINILDE DOS SANTOS LOPESalega sofrerconstrangimento ilegal em decorrência de acórdão proferido peloTribunal de Justiça do Estado de Goiásno HC n. 5515245-82.2020.8.09.0000.
+Nestewrit, a defesa busca, liminarmente e no mérito,a desconstituição da custódia cautelar- convertida em prisão domiciliar-,sob o argumento de quea prisão em flagrante foi convertida em preventiva, de ofício. Assenta que o Magistrado primevo se equivocou ao consignar haver representação da autoridade policial para a imposição da segregação processual, pois, na verdade, tal requerimento foi feito apenas em relaçãoao companheiro da insurgente.
+Também, aponta ilegalidade do auto de prisão em flagrante, tendo em vista que foi homologado 16 dias depois da captura da acusada.
+Deferida a liminar e prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do mandamus.
+Decido.
+Consta dos autos que a paciente e o corréu foram presos em flagrante.
+OJuízo primevo, ao converter o flagrante da acusada em preventiva- e, posteriormente, conceder-lhea prisão domiciliar-,mencionou que "a autoridade policial representou pela decretação de prisão preventiva em desfavor de Francinilde dos Santos Lopes e Daniel Lima Catanhede" (fl. 23)
+Todavia, a leitura do despacho doDelegado de Polícia, acostado à fl. 67, revela que ele determinou a comunicação da prisão da autuada à Juíza de Direito da Comarca erepresentou "a Vossa Excelência pela decretação da prisão preventiva de Daniel Lima Cantanhede" (fl. 67, destaquei).
+Quanto ao assunto, a Corte estadual, ao denegar o habeas corpus originário, assim fundamentou (fl. 19, grifei):
+Não contém ilegalidade, a conversão da prisão em flagrante delito em preventiva da paciente, sem a realização da audiência de custódia, pelo excepcional quadro de pandemia viral da COVID-19, observado o art. 310, inciso II, do Código de Processo Penal,a exigência da representação policial ou do requerimento ministerial é compatível com a medida autônoma, hipótese diversa do ato conversivo.
+Em sessão realizada no dia 24/2/2021, a Terceira Seção desta Corte Superior, ao apreciar oRHC n. 131.263/GO, assentou queas inovações veiculadas pela Lei n. 13.694/2019 (Pacote "Anticrime") não permitem ao juiz, sem requerimento do Ministério Público ou representação da autoridade policial, converter em preventiva a prisão em flagrante.
+Embora minha compreensão pessoal, externada em voto escrito, tanto na Sexta Turma (em alguns julgados), quanto no julgamento do referido recurso ordinário, seja diversa da que chegou o Colegiado, submeto-me à maioria, em nome da segurança jurídica e da fidelidade aos precedentes qualificados.
+Portanto, ao afirmar ser admissível que o Juiz de primeiro grau converta a prisão em flagrante em preventiva sem a representação policial ou o requerimento ministerial, o Tribunal a quo afastou-se da compreensão dadapelo STJ ao assunto. Portanto, impõe-se a revogação da medida constritiva, o que acarreta a prejudicialidade das demais teses formuladas na inicial do habeas corpus.
+À vista do exposto, concedo a ordem para, confirmando a liminar, revogar a decisão que decretou a constriçãopreventiva da ré elhe concedeu a prisão domiciliar, sem prejuízo de que outra seja proferida, desde que devidamente motivada e precedida de requerimento do Ministério Público ou de representação da autoridade policial.
+Comunique-se, com urgência, o inteiro teor deste decisum ao Magistrado de primeiro grau.
+Publique-se e intimem-se.
