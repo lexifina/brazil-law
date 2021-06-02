@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial,fundado no art. 105, III, "a", da Constituição Federal,interpostopor PASTEL DE FEIRA LTDAE SERGIO SEIDL contra v.acórdão doeg.Tribunal deJustiça do Estado de São Paulo, assim ementado(fls.547-548):
+"APELAÇÃO CÍVEL - Locação de imóvel comercial (Box em galeria do Carrefour) - Ação declaratória de inexigibilidade de débito com pedido de tutela de urgência antecipada c. c. indenização por danos morais apensada à ação de despejo por infração contratual cumulada com cobrança de multa e ação renovatória de contrato de locação - Desocupação do imóvel (Box) no curso dos processos - Julgamento conjunto - Recurso do locador - Pretensão à fixação do valor real do aluguel de mercado do imóvel locado entre a data do fim do contrato, que ocorreu durante o trâmite processual, até a efetiva desocupação do imóvel - Possibilidade - Necessidade de prosseguimento da ação renovatória para fins de apuração do real valor do aluguel devido até a desocupação - Anulação da sentença na parte em que extinguiu a ação renovatória, com determinação de retorno dos autos à origem para realização de perícia - Infração contratual imputada à locatária - Configuração - Aplicabilidade de mula penal prevista no contrato por cometimento de infração grave - Pedido de cobrança da multa formulado na ação de despejo por infração contratual que é julgado procedente por este acórdão e, porconsequência, conduz ao decreto de total improcedência da ação declaratória de inexigibilidade de cobrança da multa - Sentençaparcialmente reformada- RECURSO PROVIDO."
+Os embargos de declaração foram rejeitados às fls. 589-596.
+Nas razões do recurso especial, os recorrentes alegam violação ao art. 170, IX, da Constituição Federal, 970 e 1.179, § 2º, do Código Civil, 68 da LC 123/2006, 1º, § 1º, da Lei 469/69. Sustentam, em síntese, que não possuia a obrigação de manter os demonstrativos contábeis.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Com efeito, os recorrentes alegam violaçãodoart. 170, IX, daConstituiçãoFederal. Consoante oentendimento desta Corte, éinviável aanálise de ofensa aos dispositivosconstitucionais, ainda quepara fins deprequestionamento, sob pena deusurpação da competênciareservada à CorteSuprema.Nesse sentido,confira-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.MATÉRIACONSTITUCIONAL.NEGATIVA DE PRESTAÇÃO JURISDICIONAL.INEXISTÊNCIA.LEILOCAL (SÚMULA280/STF). IMPOSSIBILIDADE DE APRECIAÇÃO.JUSTIÇA GRATUITA.INDEFERIMENTO.MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA7/STJ.AGRAVO NÃOPROVIDO.
+1. Inviável a análise de ofensa aos dispositivos constitucionais,aindaque para fins de prequestionamento, sob pena de usurpaçãodacompetênciareservada à Corte Suprema.
+2. Não há falar em negativa de prestação jurisdicional, pois amatériaemexame foi devidamente enfrentada pela Corte local,queemitiupronunciamento de forma fundamentada, ainda que emsentidocontrário àpretensão do recorrente.
+3. A análise de dispositivos de legislação local épretensãoinsuscetívelde ser apreciada em Recurso Especial, conforme aSúmula280/STF: "Porofensa a direito local não cabe recursoextraordinário."
+4. As instânciasordinárias, examinando a situação patrimonialefinanceira do agravante,concluíram haver elementos suficientesparaafastar a declaração dehipossuficiência, indeferindo, por talmotivo, obenefício da justiçagratuita. A pretensão de alterar talentendimento,considerando as circunstâncias do caso concreto, demandariao reexame dematériafático-probatória, o que é inviável em sede derecurso especial,conformepreceitua a Súmula 7/STJ.
+5. Agravo interno desprovido."
+(AgInt no AREsp 1510092/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/11/2019, DJe 19/12/2019)
+Em relação aos arts.970, 1.179, §2º, do CC, 68 da LC 123/2006, 1º, § 1º, da Lei 469/69, melhor sorte nãosocorre aos recorrentes, haja vista que os referidos dispositivos carecemdeprequestionamento apesarda oposição de embargos de declaração no eg.TJ-SP.
+Assim, se mesmo após ojulgamento dos embargos de declaração, o eg.Tribunal a quo continuaromisso quanto a matéria que se pretendiaprequestionar, é dever dorecorrente, no apelo nobre, apontar violação aoart. 535 do CPC/73 (art.1022 do CPC/2015), o que não ocorreu no caso emliça.Nesse cenário, oapelo nobre esbarra no óbice da Súmula n. 211/STJ. Nessa
+linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CANCELAMENTODEPROTESTO. FALTA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA N. 211 DOSTJ.ENDOSSO MANDATO. MÁ-FÉ DA INSTITUIÇÃO BANCÁRIA. NÃO COMPROVAÇÃO.MATÉRIAQUE DEMANDA REEXAME. SÚMULA 7. PRECEDENTES DO STJ. AGRAVO INTERNONÃOPROVIDO.
+1. As matérias referentes aos arts. 514, II, do CPC/1973 e 1.013, §§1ºe2º, do CPC/2015, não foram objeto de discussão no acórdão recorrido,apesar da oposição de embargos de declaração, não se configurandooprequestionamento, o que impossibilita a sua apreciação na viaespecial(Súmula 211/STJ).
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1314865/SC, Rel. Ministro LUIS FELIPE SALOMÃO,QUARTATURMA, julgado em 13/12/2018, DJe 18/12/2018)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários de 10% para 11% sobre o valor da causa, observando eventual gratuidade de justiça, nos termos do art. 98, § 3º, do CPC/2015.
+Publique-se.
