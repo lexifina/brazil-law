@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo de RENATTO CAETANO SILVAcontra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça de São Paulo, assim ementado:
+"COMPRA E VENDA Automóvel - Pretensões resolutória de contrato, retomada do bem e reparatória de danos materiais julgadas parcialmente procedentes Caso em que, todavia, descabe a resolução com a retomada do bem, posto que se cuidou da compra e venda sem cláusula de reserva de domínio, com a propriedade transferida ao irmão do adquirente Fundamentos deduzidos na inicial que não guardam relação com vício na manifestação da vontade, mas no inadimplemento de parte do preço, sem alusão a fraude entre os réus Possibilidade, no entanto, do acolhimento do pedido subsidiário, de condenação do adquirente ao pagamento do saldo do preço em aberto, com restituição do veículo ao irmão do comprador, posto que seu proprietário Responsabilidade do réu pelo reembolso ao autor das multas no período em que o veículo ainda estava em nome dele, mas na posse do réu ANDERSON Redistribuição dos encargos da sucumbência - Apelação do réu DANIEL provida, apelação do réu ANDERSON parcialmente provida e recurso adesivo do autor prejudicado. "
+(e-STJ fl. 552)
+Opostos embargos de declaração, foram eles rejeitados.
+Nas razões do recurso especial, aparte agravante alegou violação dos arts. 93 da Constituição Federal; 5º, 6º, 7º,489, 997do Código de ProcessoCivil; e422, 474 e 475 do CódigoCivil. Sustentou que a ausência de fundamentação adequada, além de afirmar a nulidade do acórdão que julgou o recurso de apelação em sessão da qual não participou um dosrecorridos, embora tenha manifestado previamente o interesse de sustentar oralmente. Afirmou que o recurso adesivo não teria sido integralmente apreciado. Acrescentou que é válida a cláusula resolutiva de contrato decorrente de seu descumprimento, aduzindo que o credor pode optar pelo restituição do bem, ao invés de exigir o cumprimento da obrigação. Conclui que, resolvido o primeiro negócio jurídico, a compra e venda subsequente também é alcançada.
+Decisão que inadmitiu o recurso especial às fls. 732/734.
+Contraminuta apresentadaàs fls. 768/773.
+É o relatório. Decido.
+De início, o apelo nobre não merece conhecimento no tocante à alegada violação aoart. 93 da Carta Magna, porquanto trata-se de matéria constitucional, cuja competência para exame é do col. Supremo Tribunal Federal, conforme art. 102, III, da Lex Mater. Nesse diapasão, confiram-se os precedentes:
+"CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LEI 4.886/65. SERVIÇOS ADMINISTRATIVOS QUE NÃO CARACTERIZAM A EXISTÊNCIA DE CONTRATO DE REPRESENTAÇÃO COMERCIAL ENTRE AS PARTES. INVIÁVEL A ANÁLISE DE VIOLAÇÃO ÀDISPOSITIVO CONSTITUCIONAL . INCIDÊNCIA DA SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. No que tange à matéria constitucional abordada no recurso especial, faz-se mister registrar que é incabível a respectiva apreciação, sob pena de usurpação da competência do eg. Supremo Tribunal Federal, nos termos do que dispõe o art. 102, III, da Constituição Federal.
+(..)
+4. Agravo interno não provido."
+(AgInt no AREsp 1054632/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe 21/09/2017, g.n.)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. COISA JULGADA. PRECLUSÃO CONSUMATIVA. JUROS REMUNERATÓRIOS E MORATÓRIOS. CUMULAÇÃO. SÚMULA N. 472/STJ. PAGAMENTO. REGRA DE IMPUTAÇÃO. ART. 354 DO CC/2002. MATÉRIA CONSTITUCIONAL. INCOMPETÊNCIA DO STJ. DECISÃO MANTIDA.
+(..)
+5. Não cabe ao STJ o exame de suposta ofensa a dispositivos constitucionais, sob pena de usurpação da competência do STF (art. 102, III, da CF).
+6. Agravo regimental improvido."
+(AgRg no REsp 1460962/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/10/2016, DJe 17/10/2016, g.n.)
+O Tribunal local, avaliando as peculiaridades fáticas dos autos, concluiu por dar provimento ao recurso de apelação dos recorridos, concluindo pela validade da compra e venda epor sua manutenção.É o que se extrai do seguinte trecho:
+"Com efeito, o pedido principal do autor formulado na inicial, de rescisão do contrato de compra e venda, reintegração de posse e indenização não teve por fundamento a existência de vício na manifestação da vontade, de modo a ensejar a anulação do trato. Teve por fundamento o inadimplemento do réu ANDERSON, com a ação sendo proposta também em face de DANIEL porque a ele foi transferida a propriedade do automóvel, por isso que sofreria os efeitos do pedido de reintegração.
+Em nenhuma passagem da petição inicial o autor escorou as pretensões deduzidas em má-fé de ANDERSON ou em conluio entre os irmãos, de modo a caracterizar ter sido vítima de fraude cometida por ambos, como reconhecido na sentença.
+Em assim sendo, como de fato é, logo se percebe que o pedido principal formulado na inicial não pode ser acolhido, pois o inadimplemento quanto ao pagamento de parte do preço não autoriza nenhuma das providências pleiteadas pelo autor, ou seja, a rescisão do contrato, a reintegração na posse do veículo e indenização, vale dizer, a restituição das partes ao "status quo ante". Tal só seria admissível se se cuidasse da anulação do contrato, mas, como dito, disso não se trata.
+Neste passo reconhece-se razão aos réus quando sustentaram o não cabimento da resolução ou rescisão do contrato, com a reintegração do autor na posse do automóvel, certo que no contrato de compra e venda não foi ajustada a cláusula de reserva de domínio, até porque, como é incontroverso, o autor transferiu a propriedade do automóvel a DANIEL, por indicação de ANDERSON.
+Despiciendo, assim, investigar a boa-fé entre os irmãos, posto que na petição inicial nenhuma das pretensões deduzidas vem fundamentada na fraude que tivesse sido praticada pelos réus em detrimento do autor.
+Veja-se que, além disso, as partes autor e ANDERSON já se conheciam, certo que já tinham realizado negócios envolvendo veículos anteriormente.
+Em contrapartida, de rigor o acolhimento do pedido subsidiário formulado pelo autor em face de ANDERSON, de modo a que este último seja condenado a pagar o saldo do preço pendente, com correção monetária de cada data prevista para o pagamento das parcelas e juros de mora de 1% ao mês contados também de cada data.
+Além disso, justo que o réu suporte a condenação ao pagamento das multas que incidiram sobre o veículo no período em que o bem ainda estava em nome do autor, tal como imposta na sentença, conforme demonstrados a fls. 380/381, com correção monetária e juros de mora de 1% ao mês contados do desembolso.
+As despesas relacionadas a fls. 378 não podem ser carreadas aos réus, pois alusivas à apreensão do veículo, providência da qual o autor sai vencido deste julgamento.
+Corolário disso é que o autor deverá restituir o veículo ao réu DANIEL."
+(e-STJ fls. 556/558)
+Dos fundamentos acima transcritos, fica evidente que o acórdão recorrido decidiu a lide a partir da análise de fatos e provas, os quais escapam ao reexame por esta Corte Superior, nos termos da Súmula 7/STJ.
+De outro lado, verifica-se que o acórdão recorrido não emitiu nenhum juízo de valor acerca do conteúdo normativo dos arts.5º, 6º, 7º, 489, 997 do Código de Processo Civil; e 422, 474 e 475 do Código Civil. Dessa forma, o recurso especial não pode ser conhecido, uma vez que não observado o necessário prequestionamento (Súmula 211/STJ).
+No que tange à alegada nulidade por ausência de uma das partes na sessão de julgamento, o Tribunal local assim se pronunciou no julgamento dos aclaratórios oportunamente opostos:
+"O embargante não ostenta legitimidade para postular a anulação do julgamento por algo que só interessa ao embargado que, em princípio, podia reclamar de não ter tido acesso à sessão."
+(e-STJ fl. 604)
+Esse fundamento, contudo, não foi sequer objeto de impugnação no acórdão recorrido, o atrai a incidência do enunciado 283/STF.
+Por fim, o dissídio jurisprudencial também não pode ser conhecido, porque os acórdãos confrontados não guardam a imprescindível similitude fática.
+Com esses fundamentos, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Nos termosCom supedâneo no art. 85, § 11, do Código de Processo Civil, majoro oshonorários devidos aosadvogados de cada um dosrecorridos em 1% do valoratualizado da causa.
+Publique-se.
