@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial interposto contra acórdão assim ementado (fls. 267-275, e-STJ):
+APELAÇÃO. SERVIDOR PÚBLICO FEDERAL. PRESCRIÇÃO QUINQUENAL. GRATUIDADE DE JUSTIÇA. MATÉRIA PRECLUSA. PROGRESSÃO E PROMOÇÃO FUNCIONAL. ACORDO COM SINDICATO. PERDA SUPERVENIENTE DE OBJETO. JUROS E CORREÇÃO MONETÁRIA. RECURSO PARCIALMENTE PROVIDO.
+1. Conforme dispõe o artigo 1º, Decreto nº 20.910/32, as dívidas da Fazenda Pública prescrevem em cinco anos. Deve-se observar, entretanto, que se a dívida for de trato sucessivo, não há prescrição do todo, mas apenas da parte atingida pela prescrição, conforme o artigo 3º daquele ato normativo. Aplicação da Súmula nº 85 do C. STJ.
+2. Conforme já decidiu o C. STJ, em ações que questionam o pagamento devido em razão de reenquadramento funcional, há relação de trato sucessivo, devendo ser observada a prescrição quinquenal, não sendo consideradas prescritas as parcelas devidas nos 05 (cinco) anos anteriores ao ajuizamento da ação.
+3. Preclusa a questão sobre gratuidade de justiça. Verifica-se que, nesse ponto, as razões recursais encontram-se desconexas com o decisum, inexistindo impugnação específica aos fundamentos da decisão apelada, razão pela qual o pedido não deve ser conhecido, nos termos do art. 557, caput, do CPC/1973 (art. 932, inc. III,CPC/2015).
+4. No presente caso, a parte autora pleiteia a progressão e promoção funcional respeitando o interstício de 12 (doze) meses, conforme o disposto na Lei nº 12.269/2010 e no decreto nº84.669/1980. Acordo de reposição nº 01/20 15 entre o Ministério doPlanejamento, Orçamento e Gestão, o INSS, a Confederação Nacional dos Trabalhadores em Seguridade Social e a Federação Nacional dos Sindicatos dos Trabalhadores em Saúde, Trabalho, Previdência e Assistência Social, que trata da reestruturação da carreira do seguro social, no qual ficou restabelecido o interstício de 12 (doze) meses para progressão e promoção na carreira, bem como ficou determinado o reposicionamento dos funcionários, a partir de 2017, a contar do início da vigência da Lei nº11.501/2007. Perda superveniente do objeto desta ação, em relação à progressão e à promoção funcional, com a extinção, sem julgamento do mérito, nos termos do art. 485, VI, do CPC/2015.
+5. Referido acordo, entretanto, é omisso em relação ao pedido de pagamento de eventuais diferenças pecuniárias surgidas em razão do reposicionamento, com correção monetária e juros. Tendo em vista o reconhecimento do direito da parte autora ao reposicionamento, são devidas eventuais diferenças pecuniárias surgidas em virtude dessa revisão, com correção monetária a partir da data em que as prestações eram devidas e juros moratórios desde a citação.
+6. No tocante à atualização monetária e juros de mora, o RE870.947/SE, que teve sua repercussão geral reconhecida, tratou da matéria. Após o julgamento em questão, o Superior Tribunal de Justiça, na mesma esteira, proferiu julgamento do REspl.492.221/PR, do REsp 1.495.144/RS e do REsp 1.495.146/MG, pelos regime dos recursos repetitivos previsto no art.1.036 e seguintes do CPC/2015, e o art. 256-N e seguintes do RISTJ. Assim, os critérios de correção monetária e de juros de mora devem observar os seguintes parâmetros: (a) até julho/2001: juros de mora: 1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) agosto/2001 a junho/2009: juros de mora: 0,5% ao mês; correção monetária: IPCA-E; (e) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária: IPCA-E.
+7. Apelação a que se dá parcial provimento.
+Embargos de Declaração rejeitados (fls. 293-297, e-STJ).
+Nas razões do Recurso Especial (fls. 300-313, e-STJ), o INSS aponta violação ao art. 1º do Decreto 20.921/32, defendendo a prescrição do fundo de direito.
+Contrarrazões às fls. 328-353, e-STJ.
+O recurso foi inadmitido na origem, o que ensejou a interposição do Agravo de fls. 371-372, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 3/5/2021.
+A irresignação não merece prosperar.
+O Recurso Especial foi inadmitido por força da Súmula 83/STJ, tendo em vista a jurisprudência do Superior Tribunal de Justiça no sentido de que, em matéria de progressão funcional, não havendo recusa formal da administração, incide a Súmula 85/STJ.
+No Agravo, o INSS limita-se a afirmar que a Súmula 83/STJ não seria aplicável ao caso, pois o Recurso Especial foi interposto nos termos da alínea "a" do permissivo constitucional. Em seguida, afirmou genericamente quea hipótese dos autos difere da jurisprudência do STJ.
+De início, cumpre registrar que a Súmula 83/STJé aplicável também aos recursos interpostos pela alínea "a" do inciso III do art. 105 da Constituição. Nesse sentido:AgInt no AREsp 1703370/MA, Rel. Min. Herman Benjamin, Segunda Turma, DJe 1/12/2020;AgInt no AREsp 948.560/SC, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 17/8/2017;AgInt no REsp 1828964/RS, Rel. Min. Francisco Falcão, Segunda Turma, DJe 30/09/2020;AgInt no REsp 1606016/ES, Rel. Min. Gurgel De Faria, Primeira Turma, DJe 28/11/2019;AgInt no AREsp 827.751/RS, Rel. Min. Og Fernandes, Segunda Turma, DJe 14/5/2019.
+Assim, caberia à parte agravanteindicar julgadosatuais do STJsobre a matéria, realizando o distinghising, a fim de demonstrar que a orientação desta Corte é diversa da adotada pelo Tribunal Regional ou que não se encontra pacificada.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO COMBATIDA. ART. 932, III, DO CPC/2015. INCIDÊNCIA DA SÚMULA 83 DO STJ. PRINCÍPIO DA DIALETICIDADE NÃO ATENDIDO.
+1. Em que pese ao agravante ter sustentado a inaplicabilidade da Súmula 83/STJ por se tratar de recurso amparado na alínea "a" do permissivo constitucional, a fundamentação expendida não foi apta a cumprir o requisito da dialeticidade.
+2. Cabia ao recorrente indicar julgados contemporâneos ou supervenientes aos precedentes utilizados na decisão agravada, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada. Poderia ainda, se fosse o caso, demonstrar a existência de distinção do caso tratado nos autos. Precedentes.
+3. O óbice contido na Súmula 83/STJ também se aplica aos recursos especiais interpostos com base na alínea "a" do permissivo constitucional. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 827.751/RS, Rel. Min. Og Fernandes, Segunda Turma, DJe 14/5/2019)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO ATACOU, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 83/STJ. APLICABILIDADE DA SÚMULA 182/STJ E DO ART. 544, § 4º, I, SEGUNDA PARTE, DO CPC. AGRAVO REGIMENTAL IMPROVIDO.
+I. A decisão do Tribunal de origem fundamentou-se, para obstar a subida do Recurso Especial da ora agravante, na consonância do acórdão recorrido com a jurisprudência desta Corte (Súmula 83/STJ).
+II. Nas razões do Agravo em Recurso Especial, o recorrente não indica qualquer argumento apto a infirmar o decisum que negara seguimento ao Recurso Especial, restringindo-se a repetir as alegações deduzidas por ocasião do próprio Recurso Especial, sem, contudo, indicar precedentes recentes, aptos a demonstrar que a orientação jurisprudencial do STJ não foi pacificada no mesmo sentido do acórdão recorrido. Incidência da Súmula 182/STJ e do art. 544, § 4º, I, segunda parte, do CPC, com o não conhecimento do Agravo em Recurso Especial.
+III. Segundo jurisprudência deste Tribunal, "fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ" (STJ, AgRg no REsp 1.374.369/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 26/06/2013).
+IV. Agravo Regimental improvido.
+(AgRg no AREsp 265.477/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 22/4/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DA VICE-PRESIDÊNCIA DO TRIBUNAL DE ORIGEM QUE NÃO ADMITIU O RECURSO ESPECIAL. CONFIRMAÇÃO DO NÃO-CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL.
+(..)
+2. Consoante consignado pela Segunda Turma do STJ, ao julgar o AgRg no AREsp 85.662/DF (Rel. Min. Humberto Martins, DJe de 7.3.2012), quando o recurso especial não é admitido na origem com base na Súmula 83/STJ, incumbe à parte agravante demonstrar, na petição de agravo em recurso especial, que a orientação jurisprudencial do STJ não se encontra pacificada no mesmo sentido do acórdão recorrido.
+(..)
+4. Agravo regimental não provido.
+(AgRg no AREsp 436.997/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 5/2/2014)
+Ante o exposto, não conheço do Agravo.
+Publique-se.
+Intimem-se.
