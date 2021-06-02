@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ALESSANDRO BARBOSA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (HC n. 5009116-67.2021.8.24.0000).
+Depreende-se dos autos que o paciente foi condenado, como incurso no art. 157, § 2º, II, do Código Penal, à pena de 7 anos, 2 meses e 20 dias de reclusão no regime inicial fechado. Nessa oportunidade, foi-lhe negado o recurso em liberdade.
+Impetrado writ na origem, a ordem foi denegada (e-STJ fls. 34/38).
+Daí a presente impetração, na qual a defesa busca ser reconhecido o direito de o paciente recorrer em liberdade.
+Requer, liminarmente, a expedição de alvará de soltura em favor do paciente.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pelo não conhecimento da ordem.
+É o relatório.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+Ao prolatar a sentença, o Juízo de piso negou ao acusado o direito de recorrer em liberdadenos seguintes temos (e-STJ fl. 593):
+Nego ao acusado Alessandro Barbosa o direito de recorrer em liberdade, porquanto, apesar de ter respondido solto ao presente feito, mudou de endereço sem informar este juízo, sendo localizado tão somente pelo fato de estar novamente preso na Unidade Prisional Avançada de Brusque, pois não havia nenhuma informação nestes autos do atual endereço, não residindo mais no distrito da culpa, demonstrando a necessidade da prisão cautelar para a garantia da aplicação da lei penal, motivo pelo qual decreto a prisão preventiva de ALESSANDRO BARBOSA, servindo a cópia da presente sentença como mandado de prisão.
+O exame dos excertos acima transcritos, contidos na sentença condenatória e no decreto de prisão preventiva, evidenciaque o disposto no art. 387, § 1º, do Código de Processo Penal foi devidamente observado, pois foram indicados fundamentos concretos para a imposição daprisão cautelar.
+Segundo o disposto no referido comando normativo, "o juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta".
+Por tal razão, esta Corte firmou orientação de ser indispensável, por ocasião da prolação da sentença condenatória, que o magistrado fundamente, com base em dados concretos extraídos dos autos, a necessidade de manutenção ou imposição de segregação cautelar, ainda que tal fundamentação se dê mediante emprego da técnica per relationem, quando o juiz sentenciante faz expressa remissão aos motivos da decretação da prisão preventiva em razão da permanência das razões que ensejaram a custódia.
+Nesse sentido:
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E CONSTITUIÇÃO DE MILÍCIA PRIVADA. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. NULIDADE.NÃO OCORRÊNCIA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. RECURSO NÃO PROVIDO.
+ ..
+2. É válida a utilização da técnica da fundamentação per relationem, em que o magistrado se utiliza de trechos de decisão anterior ou de parecer ministerial como razão de decidir, desde que a matéria haja sido abordada pelo órgão julgador, com a menção a argumentos próprios, como na espécie, uma vez que a instância antecedente, além de fazer remissão a razões elencadas pelo Juízo natural da causa, indicou os motivos pelos quais considerava necessária a manutenção da prisão preventiva do réu e a insuficiência de sua substituição por medidas cautelares diversas.
+ .. (RHC 94.488/PA, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/04/2018, DJe 02/05/2018)
+No presente caso, como bem anotou o parecer ministerial, "ao decretar a prisão preventiva, o douto magistrado de primeiro grau entendeu ser a medida necessária, uma vez que o paciente realizou constantes mudanças sem informar os novos endereços ao Juízo, denotando sua intenção de se furtar à aplicação da lei penal e de acarretar transtornos à instrução criminal" (e-STJ fls. 737/738).
+Diante desse contexto, justificada está a necessidade de segregação cautelar para garantir a aplicação da lei penal e a instrução criminal.
+Nesse mesmo sentido, os seguintes precedentes desta Corte:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CUSTÓDIA PREVENTIVA. EXPRESSIVA QUANTIDADE DE DROGA. RÉU FORAGIDO POR DEZ ANOS. ATUALIDADE DA ORDEM DE PRISÃO. RECURSO NÃO PROVIDO.
+1. A decisão impugnada está devidamente motivada nos termos do art.312 do Código de Processo Penal, na medida em que foi destacada a necessidade de se assegurar a ordem pública, a conveniência da instrução criminal e a aplicação da lei penal, pois, além da gravidade do fato apurado (apreensão de 22 quilos de maconha), o paciente está foragido há mais de 10 anos, desde a decretação da prisão cautelar.
+ .. 3. Agravo regimental não provido.(AgRg no HC 653.295/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/04/2021, DJe 30/04/2021)
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ASSOCIAÇÃO CRIMINOSA ARMADA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. MODUS OPERANDI. ORGANIZAÇÃO CRIMINOSA ARMADA. RECORRENTE QUE PERMANECEU FORAGIDO POR 4 ANOS. REITERAÇÃO DELITIVA.
+ .. 4. A prisão preventiva encontra-se justificada para assegurar a aplicação da lei penal e garantir a instrução criminal em razão de o recorrente ter permanecido foragido durante 4 anos, tendo o feito sido desmembrado devido a isso, além de haver faltado à audiência mesmo devidamente intimado. ..
+7. Recurso ordinário desprovido. (RHC 90.363/MG, de minha relatoria, SEXTA TURMA, julgado em 13/08/2019, DJe 23/08/2019)
+Os fundamentos acima delineados indicam, portanto, a necessidade de se manter opaciente segregado, não se revelando adequado, por outro lado, possibilitar-lhe recorrer em liberdade.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
