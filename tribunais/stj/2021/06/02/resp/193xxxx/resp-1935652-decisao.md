@@ -1,0 +1,54 @@
+DECISÃO
+1. Trata-se de recurso especial interposto por CYRELA BRAGA EMPREENDIMENTOS IMOBILIÁRIOS LTDA, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 623-625):
+APELAÇÃO CÍVEL. AÇÃO PELO RITO ORINÁRIO.ATRASO NA ENTREGA DE IMÓVEL ADQUIRIDO NA PLANTA. CLÁUSULA EXPRESSA DE CARÊNCIA PARA ENTREGA DO IMÓVEL, COM DILAÇÃO DO PRAZO EM ATÉ 180 DIAS. DANOS MORAIS E MATERIAIS.NULIDADE DE CLÁUSULAS.
+Cuida-se de demanda em que pleiteavam os autores o ressarcimento de danos materiais e morais, em razão do atraso de entrega de imóvel adquirido na planta, bem como o reconhecimento de nulidades de cláusulas.
+Sentença de procedência parcial.
+Apelação da Ré pugnando pela reforma da sentença, com o julgamento de improcedência dos pedidos. Alegação de ocorrência de força maior. Pedido, ainda, de afastamento da condenação dupla em honorários.
+Apelação dos Autores pugnando pela reforma da sentença, com o afastamento da correção monetária do saldo devedor, o reconhecimento da nulidade da cláusula de prorrogação de 180 (cento e oitenta) dias, a procedência do pedido referente à diferença de metragem e a majoração da indenização por danos morais.
+Área privativa que, como é cediço, não se confunde com a área útil (sem as alvenarias), não se podendo dizer que os consumidores foram enganados.
+Contrato firmado que traz cláusula de tolerância, que prorroga o prazo de entrega por 180 (cento e oitenta) dias, a qual é aceita como válida pela jurisprudência e doutrina pátrias (Súmula 350 do TJRJ: "Nos contratos de promessade compra e venda decorrentes de incorporação imobiliária, é válida a cláusula de tolerância de prorrogação de 180 dias para a entrega do imóvel, pactuada expressamente pelas partes.").
+Entrega das chaves do imóvel ocorrida em 09/08/13, após o decurso do prazo contratual para a conclusão das obras, que findou em 31/09/2012, já computado o prazo da cláusula de tolerância. Incontroversa a mora na imissão na posse.
+Escassez ou ausência de mão de obra que não configura força maior. Emprego de insumos e de recursos humanos na conclusão do empreendimento. Questão que integra o risco inerente à atividade comercial explorada pelo incorporador e construtor, não sendo escusa para o incontroverso atraso na conclusão da obra. Atraso na imissão na posse do imóvel em construção que importa em prejuízo injustificado em desfavor dos promitentes compradores, que tiveram que locar outro imóvel para aguarda a entrega do imóvel adquirido na planta. Lucros cessantes que são, de toda sorte, presumidos, conforme entendimento assente do STJ.
+Promitentes compradores que amargaram a frustração de não poder gozar, usar ou fruir do imóvel na data aprazada, não podendo organizar a sua casa e de seu filho recém- nascido. Situação que resulta em angústia, aflição, incerteza, irritação e sensação de impotência. Danos morais caracterizados. Indenização fixada em R$ 10.000,00 (dez mil reais) para ambos os Autores, que se mostra conforme os parâmetros da razoabilidade e da proporcionalidade, devendo, pois, ser mantida. Incidência da Súmula nº 343 deste Tribunal.
+Impossibilidade de afastamento da correção monetária do saldo devedor, sob pena de enriquecimento ilícito da parte Autora.
+Colendo Superior Tribunal de Justiça que na apreciação dos Temas 970 e 971 fixou teses admitindo a reversão da cláusula penal moral instituída somente em favor da incorporadora e vedando, em regra, a cumulação da cláusula penal com lucros cessantes.
+Possibilidade de cumulação, no caso, concreto, uma vez que o valor da multa moratória não abarca os prejuízos com os aluguéis.
+Honorários de 20% (vinte por cento) do débito previstos na cláusula moratória que devem ser afastados.
+Recursos conhecidos. Parcial provimento ao primeiro recurso, da parte Ré, e desprovimento do segundo recurso, da parte Autora.
+Opostos embargos de declaração pelo recorrente (fls. 652-654), foram rejeitados (fls. 662-678).
+Nas razões do recurso especial (fls. 680-693), além de divergência jurisprudencial, aponta a parte recorrente ofensa ao disposto nos arts. 489, § 1º, III e IV, e 1.022, II, do Código de Processo Civil, e arts. 186, 884 e 944, do Código Civil.
+Em apertada síntese, além de apontar omissões no acórdão, sustenta queo simples descumprimento contratual por atraso na entrega de imóvel, por si só, não é capaz de gerar danos morais.Subsidiariamente, requer a redução do valor da indenização por danos morais.
+Além disso, alega a impossibilidade de cumulação da multa penal moratória com indenização por lucros cessantes.
+Não foram apresentadas contrarrazões ao recurso especial (fl. 701).
+É o relatório.
+DECIDO.
+2. Quanto aos danos morais, a jurisprudência desta Corte Superior está pacificada no sentido de que o simples atraso na entrega do imóvel não enseja indenização por danos morais, pois o mero dissabor inerente à expectativa frustrada decorrente de simples inadimplemento contratual insere-se no cotidiano das relações comerciais e não implica lesão à honra da pessoa ou violação da dignidade humana.
+No caso, a Corte local, adotando posicionamento divergente, condenou a recorrente ao pagamento de indenização por danos morais no importe de R$ 10.000,00 (dezmil reais), sendo R$ 5.000,00 (cinco mil reais) para cada autor, mediante os seguintes fundamentos (fl. 649):
+Quanto ao arbitramento dos danos morais, considerando-se que os demais danos foram indenizados e que os Apelantes já receberam as chaves, em 09/08/13, a reparação arbitrada em R$ 5.000,00 (cinco mil reais) para cada autor se mostra adequada à hipótese e conforme os critérios da proporcionalidade e razoabilidade, descabendo qualquer majoração, conforme disposto na Súmula nº 343 deste Tribunal:
+Súmula nº. 343 - "A verba indenizatória do dano moral somente será modificada se não atendidos pela sentença os princípios da proporcionalidade e da razoabilidade na fixação do valor da condenação."
+Como se vê, a Corte estadual não apontou maiores consequências à moral, à dignidade ou à personalidade do adquirente, decorrentes do atraso na entrega do imóvel, além da extrapolação do prazo contratual estipulado para a conclusão da obra, o que, por si só, não configura ato ilícito indenizável, conforme orienta a jurisprudência do Superior Tribunal de Justiça.
+Nesse sentido, vejam-se os seguintes julgados:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DO IMÓVEL. DANOS MORAIS. INDENIZAÇÃO. NÃO CABIMENTO. MERO DISSABOR. OFENSA À SÚMULA 7/STJ. NÃO OCORRÊNCIA. NÃO PROVIMENTO.
+1. Nos termos da jurisprudência desta Corte, somente é cabível a indenização por danos morais, nos casos de atraso na entrega do imóvel, quando este ultrapassar o limite do mero dissabor, o que não ocorreu no presente caso.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 897.048/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/12/2019, DJe 19/12/2019.)
+____________
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. COMPRA E VENDA. 1. DANOS MORAIS. ATRASO NA ENTREGA DO IMÓVEL. CIRCUNSTÂNCIA, POR SI SÓ, QUE NÃO ACARRETA ATO ILÍCITO INDENIZÁVEL. PRECEDENTES.
+2. INAPLICABILIDADE DA SÚMULA 7/STJ. DESNECESSIDADE DE REEXAME DOS FATOS E PROVAS DO FEITO. REVALORAÇÃO JURÍDICA. POSSIBILIDADE NA HIPÓTESE. 3. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência das Turmas integrantes da Segunda Seção deste Tribunal dispõe no sentido de que "o atraso na entrega de unidade imobiliária na data estipulada não causa, por si só, danos morais ao promitente- comprador" (REsp 1.642.314/SE, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 16/3/2017, DJe 22/3/2017).
+2. Não há que se falar em incidência da Súmula 7/STJ, para modificar a conclusão delineada no aresto impugnado, em relação aos danos morais, porquanto prescindível o reexame do conjunto de fatos e provas dos autos, sendo necessária tão somente a revaloração jurídica na hipótese.
+3. Agravo interno improvido.
+(AgInt nos EDcl no REsp 1.823.828/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 9/12/2019, DJe 12/12/2019.)
+Assim, visto que o entendimento adotado pelo Tribunal de origem, quanto ao ponto, diverge frontalmente da orientação jurisprudencial desta Corte Superior, o acórdão recorrido deve ser reformado para excluir a indenização por danos morais.
+3. Por outro lado, no que diz respeito ao suscitado dissídio pretoriano referente à impossibilidade de cumulação da multa penal moratória com indenização por lucros cessantes, a parte recorrente furtou-se de indicar os dispositivos legais interpretados de forma divergente, o que enseja a aplicação da Súmula 284/STF.
+3.1 Além disso, embora a decisão recorrida tenha firmado a conclusão de que "é cabível a reversão da multa e, no caso concreto, sua cumulação com lucros cessantes, uma vez que a multa moratória não é de grande monta e nem mensal, não se podendo dizer que ela abarca a indenização pelos alugueis pagos pelos Demandantes", tal fundamento não foi objeto de impugnação específica no recurso da agravante, motivo pelo qual incide o óbice da Súmula nº 283/STF nesse ponto.
+4. Ante o exposto, dou parcial provimento ao recurso especial, para excluir a condenação da parte recorrente ao pagamento da indenização por danos morais.
+Considerando a sucumbência recíproca, a autora responderá por 50% (cinquenta por cento) das despesas processuais e a ré arcará com os outros 50% (cinquentapor cento).
+Os honorários advocatícios, à luz do disposto no § 2º do artigo 85 do CPC, são arbitrados em 12% (doze por cento) sobre o valor atualizado da condenação, cabendo 50% (cinquenta por cento) do aludido valor ao advogado da autora, a ser pago pela parte ré, e 50% (cinquenta por cento) ao patrono da ré, a ser custeado pela autora.
+Prejudicadas as demais alegações.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL.ATRASO NA ENTREGA DE IMÓVEL ADQUIRIDO NA PLANTA. DANO MORAL. MERO ATRASO NA ENTREGA DO IMÓVEL. NÃO CABIMENTO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DOS DISPOSIVOS LEGAIS INTERPRETADOS DE FORMA DIVERGENTE. SÚMULA 284 DO STF. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Ajurisprudência das Turmas integrantes da Segunda Seção deste Tribunal dispõe no sentido de que "o atraso na entrega de unidade imobiliária na data estipulada não causa, por si só, danos morais ao promitente- comprador" (REsp 1.642.314/SE, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 16/3/2017, DJe 22/3/2017).
+2. No que diz respeito ao suscitado dissídio pretoriano referente à impossibilidade de cumulação da multa penal moratória com indenização por lucros cessantes, a parte recorrente furtou-se de indicar os dispositivos legais interpretados de forma divergente, o que enseja a aplicação da Súmula 284/STF.
+3. Recurso especial parcialmente provido.
