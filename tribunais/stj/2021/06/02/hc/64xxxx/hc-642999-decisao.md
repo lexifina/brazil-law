@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus impetrado por EDIVALDO BUENO, em seu próprio benefício, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500657-90.2019.8.26.0618.
+Foi o paciente condenado, pelo crime de tráfico de drogas, à pena de 9 anos e 4 meses de reclusão, no regime inicial fechado, bem assim ao pagamento de 933 dias-multa.
+Segundo o apurado, o acusado "tinha em depósito, para fins de tráfico, 4 pedras de crack (subproduto da cocaína), com peso líquido de 986,48 gramas" (e-STJ fl. 6).
+Contra o édito condenatório insurgiu-se a defesa. O colegiado local deu parcial provimento ao recurso para redimensionar a sanção a 9 anos e 26 dias de reclusão, mais pagamento de 906 dias-multa, mantidas as demais disposições da sentença.
+No Superior Tribunal de Justiça, sustenta o paciente que sua reincidência foi valorada em diferentes fases da dosimetria da pena. Além disso, pondera que os "fatos considerados como maus antecedentes na primeira fase para a fixação da pena-base (circunstância judiciais do art. 59 do CP)não podem servir como circunstâncias legais de agravamento de pena, pois incide em bis in idem" (e-STJ fl. 8).
+Diante dessas considerações, pede, liminar e definitivamente, sejam afastados os aumentos aplicados na primeira e segunda etapas do cálculo da reprimenda, com a consequente redução de sua sanção definitiva.
+Liminar indeferida às e-STJ fls. 16/17.
+Informações prestadas.
+Manifestação da Defensoria Pública do Estado de São Paulo às e-STJ fls. 48/52.
+Parecer ministerial às e-STJ fls. 58/63.
+É, em síntese, o relatório.
+Decido.
+Sublinha o impetrantenão ser possível o aumento da reprimenda em duas fases da dosimetria em razão desuareincidência.
+No entanto, verifico que o Tribunal a quo deixou bem registrado o seguinte (e-STJ fls. 40/42):
+8. A sanção comporta redução.
+Fica mantida a pena de partida em 1/3 acima do mínimo legal (6 anos e 8 meses de reclusão, mais o pagamento de 666 diasmulta), tendo em conta: (i) a quantidade e a natureza das drogas (atente-se para o elevado potencial nocivo da "crack" para a saúde pública); (ii) os maus antecedentes (condenações pelo crime de posse ilegal de arma de fogo; execuções 1 e 2; F.A. de fls. 72/91).
+De fato, são dados empíricos que incrementam o grau de reprovabilidade da conduta, autorizando uma reprimenda mais severa. E o "quantum" estabelecido não se mostra desmedido.
+Anote-se que condenações em que ultrapassado o lapso temporal a que alude o artigo 64, inciso I, do Código Penal, embora não gerem reincidência, podem ser consideradas como circunstâncias judiciais, a título de maus antecedentes (STF, HC nº 98.803, Rel. Min.Ellen Gracie; HC nº 76.665, Rel. Min. Marco Aurélio; HC nº 69.001, Rel. Min. Celso de Mello; HC nº 75.965, Rel. Min. Sydney Sanches;
+RHC nº 83.547, Rel. Min. Carlos Brito; HC nº 86.415, Rel. Min. Carlos Velloso; STJ, HC nº 230.210, Rel. Min. Maria Thereza de Assis Moura; HC nº 240.022, Rel. Min. Maria Thereza de Assis Moura; HC nº 214.127, Rel. Min. Maria Thereza de Assis Moura; HC nº 185.614, Rel. Min. Sebastião Reis Júnior).
+Na segunda fase, eleva-se a reprimenda em 1/6 ( e não 1/5), em razão da reincidência (execuções 3 a 6; crimes de roubo), chegando-se a 7 anos, 9 meses e 10 dias de reclusão, mais o pagamento de 777 dias-multa.
+A registrar que os fatos considerados na primeira e segunda fase, a despeito de se referirem a crimes anteriores, são diversos, de sorte que não há que se falar em "bis in idem" (STJ, HC nº 17.871, rel.Min. Edson Vidigal; HC nº 18.940, rel. Min. José Arnaldo da Fonseca, HC nº 17.710, rel. Min. Edson Vidigal, HC nº 20.709, rel. Min. Gilson Dipp, HC nº 662.511, rel. Min. Gilson Dipp).
+Na terceira fase, não merece censura o incremento em //6, em razão da causa de aumento de pena elencada no artigo 40, III, resultando em uma pena final de 9 anos e 26 dias de reclusão, mais o pagamento de 906 dias-multa.
+A quantidade e a natureza das drogas, bem como a reincidência e os maus antecedentes, constituem dados a impor o regime inicial fechado para a pena privativa de liberdade, sem o que não haveria suficiente reprovação e prevenção do crime. (grifei)
+Ora, foi bem registrado que fatos distintos foram utilizados para majorar a pena do impetrante,o que afasta a alegação de bis in idem.
+De fato, nos moldes do enunciado n. 241 da Súmula desta Corte Superior, a reincidência penal não pode ser considerada como circunstância agravante e, simultaneamente, como circunstância judicial. Nada obsta, porém, que,diante de diversas condenações definitivas pretéritas em desfavor do sentenciado, seja uma delas utilizada na primeira fase do cálculo da reprimenda, e a outra na segunda etapa da dosimetria, a título de reincidência. A propósito:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. CRIME DE RECEPTAÇÃO QUALIFICADA. DOSIMETRIA DA PENA. PLEITO DE REDUÇÃO DA PENA-BASE. MAUS ANTECEDENTES. EXISTÊNCIA DE CONDENAÇÕES DEFINITIVAS DIVERSAS DA CONSIDERADA COMO REINCIDÊNCIA. BIS IN IDEM NÃO CARACTERIZADO. CONDENAÇÕES ANTERIORES ATINGIDAS PELO PERÍODO DEPURADOR. UTILIZAÇÃO COMO MAUS ANTECEDENTES. POSSIBILIDADE. QUANTUM DE AUMENTO NA PRIMEIRA FASE. OFENSA À RAZOABILIDADE E PROPORCIONALIDADE. NÃO OCORRÊNCIA. HABEAS CORPUS NÃO CONHECIDO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. Mostra-se válido o aumento da pena-base pelos maus antecedentes do réu, assim considerados ante a existência de condenações definitivas, diversas da utilizada como reincidência.  ..
+5. Habeas corpus não conhecido.
+(HC 356.190/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/10/2016, DJe 07/11/2016.)
+PENAL. HABEAS CORPUS. RECEPTAÇÃO. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA. DOSIMETRIA. PENA-BASE. CULPABILIDADE, CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME. ASPECTOS INERENTES AO TIPO PENAL VIOLADO. FUNDAMENTAÇÃO INIDÔNEA. PERSONALIDADE. FUNDAMENTAÇÃO ABSTRATA. IMPOSSIBILIDADE. PENA INTERMEDIÁRIA. MAUS ANTECEDENTES. REINCIDÊNCIA. CONDENAÇÕES DIVERSAS. BIS IN IDEM. INOCORRÊNCIA. REGIME FECHADO. PENA INFERIOR A 4 ANOS DE RECLUSÃO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. REINCIDÊNCIA. ADEQUAÇÃO. DETRAÇÃO. REQUISITOS OBJETIVO E SUBJETIVO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..  4. Inexiste bis in idem se a pena-base do paciente foi aumentada por força dos maus antecedentes, fazendo-se referência a determinadas condenações, e, na segunda fase, incidiu a agravante da reincidência em decorrência de outra condenação diversa.
+5. Nos termos do art. 33 do Código Penal, fixada a pena em patamar inferior a 4 (quatro) anos de reclusão, a estipulação do regime inicial fechado é apropriada, quando existem circunstâncias judiciais desfavoráveis, tanto que a pena-base foi fixada acima do mínimo legal, e o réu é reincidente.
+6. Tendo as instâncias de origem negado a aplicação do instituto da detração penal, dada a ausência dos requisitos objetivo e subjetivo necessários ao seu reconhecimento, inviável alterar tal conclusão no veio restrito e mandamental do habeas corpus, por demandar revolvimento fático-probatório. Sem embargos, o pleito é passível de apreciação pelo Juízo das Execuções, nos termos do art. 66, III, "c", da Lei de Execução Penal.
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para redimensionar a pena do paciente.
+(HC 359.871/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/09/2016, DJe 10/10/2016)
+Nesse palmilhar, não há ilegalidade flagrante na fixação da reprimenda do paciente a justificar a concessão da ordem.
+Tal o contexto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se. Dê-se ciência ao interessado.
