@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO - PENSÃO POR MORTE - DESAPARECIMENTO - DATA INÍCIO DO BENEFÍCIO - DESCONTOS INDEVIDOS - RESTITUIÇÃO - APELAÇÕES DESPROVIDAS.
+I - O desaparecimento em razão de roubo qualificado e sequestro enquadra-se na hipótese do § 1º, do art. 78 da Lei 8.213/91, sendo reconhecida a morte presumida, independentemente de prazo e de decisão judicial declaratória de ausência.
+II - Reconhecido que o termo inicial do benefício deve ser a data do desaparecimento do segurado, descabe qualquer discussão a respeito de erro perpetrado pela Autarquia Previdenciária. O benefício foi corretamente concedido, sendo indevidos os descontos efetuados pelo.
+III - Apelações desprovidas.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 74, III, da Lei n. 8.213/91, no que concerne à ilegalidade da fixação do termo inicial de pagamento do benefício de pensão por morte em data diversa da data da decisão judicial, trazendo o(s) seguinte(s) argumento(s):
+Trata-se, em síntese, de hipótese em que foi o Recorrente condenado ao pagamento de valores relativos à pensão por morte deferida ao Recorrido, por força de decisão judicial que declarou a morte presumida do instituidor, em data diversa da data da decisão judicial.
+Ocorre que o pagamento do benefício de pensão por morte encontra-se regulado pelo art. 74 e incisos da Lei nº 8.213/91.
+No caso dos autos, o Tribunal a quo afastou injustificadamente a incidência do art. 74, III da Lei nº 8.213/91, sem a necessária declaração de inconstitucionalidade (fl. 1062).
+ ..
+Enfim, o acórdão recorrido negou vigência ao art. 74, III da Lei 8.213/91, sendo certo que, não sendo obstativo à restituição do Erário ter sido o equívoco administrativo, a constatação da boa-fé do beneficiário mesmo possuir a verba caráter alimentar, eis que vedado enriquecimento sem causa de particulares, inexiste vício na conduta da Autarquia (fl. 1064).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Conforme relatório proferido nos autos do Inquérito Policial nº 458/02, restou evidenciado que o instituidor foi vítima de roubo qualificado e sequestro (folhas 40/41), na data de 23/06/2002.
+Assim, não há que se falar em necessidade de decisão judicial declaratória de ausência, uma vez a hipótese dos autos melhor se enquadra na hipótese de desaparecimento em virtude de acidente, desastre ou catástrofe (fl. 1.025, grifo nosso).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1637445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1647046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
