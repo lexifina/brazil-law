@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que não admitiurecurso especial interposto por ILDO BALESTRINcom fundamento no art. 105, III, "a", da Constituição Federal, contraacórdão proferido pelo Tribunal de Justiça do Estado do Paraná,assim ementado:
+"CUMPRIMENTO DE SENTENÇA - IMPUGNAÇÃO CONSIDERADA INTEMPESTIVA, COM TESES RESPECTIVA RECHAÇADAS.
+AGRAVO DE INSTRUMENTO. INSURGÊNCIA DO DEVEDORQUANTO À VALIDADE DA INTIMAÇÃO - ALEGAÇÃO DE DETERMINAÇÃO DE INTIMAÇÃO PESSOAL - INOCORRÊNCIA - INTIMAÇÃO PESSOAL QUE PODE SER REALIZADA POR VIA POSTAL - AUSÊNCIA DE PROVA DE FALSIFICAÇÃO NA ASSINATURA APOSTA AO AVISO DE RECEBIMENTO - IMPUGNAÇÃO DE FATO INTEMPESTIVA - DEMAIS TESES PREJUDICADAS - AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO." (e-STJ, fl.117)
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls.292/295)
+Nas razões do recurso especial, o agravante apontaviolação dos arts. 93, IX, CF; 489, 805, 831 e 1.022, do CPC/15; e 884, do CC, sustentando, emsíntese: a) negativa de prestação jurisdicional; b) que a matéria relacionada ao excesso de execução deve ser conhecida independentemente do reconhecimento da tempestividade/intempestividade da Impugnação, sob pena de caracterizar enriquecimento ilícito do Recorrido.
+É o relatório. Passo a decidir.
+Com efeito, o recorrente alega violação do art. 93, IX ,da Constituição Federal. Consoante o entendimento desta Corte, é inviávela análise de ofensa aos dispositivos constitucionais, ainda que para finsde prequestionamento, sob pena de usurpação da competência reservada àCorte Suprema. Nesse sentido, confira-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSOESPECIAL. MATÉRIA CONSTITUCIONAL. NEGATIVA DE PRESTAÇÃOJURISDICIONAL. INEXISTÊNCIA. LEI LOCAL (SÚMULA 280/STF). IMPOSSIBILIDADEDE APRECIAÇÃO. JUSTIÇA GRATUITA. INDEFERIMENTO. MATÉRIA FÁTICO-PROBATÓRIA.SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Inviável a análise de ofensa aos dispositivos constitucionais,ainda que para fins de prequestionamento, sob pena deusurpação da competência reservada à Corte Suprema.
+2. Não há falar em negativa de prestação jurisdicional, poisa matéria em exame foi devidamente enfrentada pela Corte local,que emitiu pronunciamento de forma fundamentada, ainda queem sentido contrário à pretensão do recorrente.
+3. A análise de dispositivos de legislação localé pretensão insuscetível de ser apreciada em Recurso Especial, conformea Súmula 280/STF: "Por ofensa a direito local não caberecurso extraordinário."
+4. As instâncias ordinárias, examinando a situaçãopatrimonial e financeira do agravante, concluíram haver elementossuficientes para afastar a declaração de hipossuficiência, indeferindo,por tal motivo, o benefício da justiça gratuita. A pretensão de alterartal entendimento, considerando as circunstâncias do caso concreto,demandaria o reexame de matéria fático-probatória, o que é inviável emsede de recurso especial, conforme preceitua a Súmula 7/STJ.
+5. Agravo interno desprovido."
+(AgInt no AREsp 1510092/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA,julgado em 26/11/2019, DJe 19/12/2019)
+Com efeito, rejeita-se a alegada violação dos arts. 489 e 1.022 doCPC/2015, uma vez que o eg. TJ-PRanalisou os pontos essenciais aodeslinde da controvérsia, dando-lhes robusta e devida fundamentação. Comefeito, é uníssona a jurisprudência desta eg. Corte no sentido de que omagistrado não está obrigado a responder a todos os argumentosapresentados pelos litigantes, desde que aprecie a lide em sua inteireza,com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL.OMISSÃO NO ACÓRDÃO DE ORIGEM. NÃO OCORRÊNCIA. FALHA NA PRESTAÇÃO DESERVIÇO. DANOS MATERIAL E MORAL. REEXAME DE PROVAS. SÚMULA 7/STJ. NÃOPROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal deorigem, de forma suficientemente ampla, fundamentada e sem omissões,obscuridades ou contradições, deve ser afastada a alegada ofensa aos arts.489, § 1º, IV, e 1.022, I e II, do Código de Processo Civil.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória(Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp 1837266/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTATURMA, julgado em 08/06/2020, DJe 12/06/2020)
+No que se refere aos arts. 805 e 831, do CPC/15 e 884, do CC, verifica-se que tais teses não foram objeto de debate e decisão na colenda Corte a quo. Desse modo, ante a falta de prequestionamento, incidem as súmulas 282 e 356 do Supremo Tribunal Federal. De fato, não se extrai do acórdão recorrido pronunciamento a respeito de controvérsia apoiada na normatividade dos dispositivos legais supostamente violados. Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios. Observa-se a incidência, pois, por analogia, dos óbices das Súmulas 282 e 356 do STF.
+Por outro lado, como o acórdão recorrido está adequadamente fundamentado, não existe contradição em afastar a violação do art. 1.022 do CPC/15 e, ao mesmo tempo, não conhecer do mérito por falta de prequestionamento. Nessa toada, veja-se o seguinte julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NAORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIADO AGRAVANTE.
+1. As questões postas à discussão foram dirimidas pelo órgão julgador deforma suficientemente ampla, fundamentada e sem omissões, portanto, deveser afastada a alegada violação ao artigo 535 do CPC/73. Precedentes.
+2. A ausência de enfrentamento da matéria objeto da controvérsia peloTribunal de origem impede o acesso à instância especial, porquanto não
+preenchido o requisito constitucional do prequestionamento. Incidência daSúmula 211 do STJ. Precedentes.
+2.1. Não há contradição em se afastar a alegada ofensa ao art. 1.022 doCPC/15 e, ao mesmo tempo, não conhecer do mérito da demanda por ausênciade prequestionamento, desde que o acórdão recorrido esteja adequadamentefundamentado.
+3. No recurso de agravo previsto no art. 525 do CPC/73, é dever da parterecorrente juntar cópias legíveis das peças que formam o instrumento, sobpena de não conhecimento do reclamo. Precedentes.
+4. No caso, a recorrente não logrou demonstrar a divergênciajurisprudencial nos moldes exigidos pelos artigos 541, parágrafo único, doCPC e 255, §§ 1º e 2º, do RISTJ. Isto porque a interposição de recursoespecial pela alínea "c" do permissivo constitucional reclama o cotejoanalítico dos julgados confrontados a fim de restarem demonstradas asimilitude fática e a adoção de teses divergentes, máxime quando nãoconfigurada a notoriedade do dissídio.
+5. Agravo interno desprovido."
+(AgInt no REsp 1672334/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA,julgado em 11/05/2020, DJe 19/05/2020, g.n.)
+Por oportuno, destaca-se que a jurisprudência do Superior Tribunal deJustiça possui entendimento de que mesmo as matérias de ordem públicatambém devem atender ao pressuposto constitucional do prequestionamento.Sobre o tema:
+AGRAVO INTERNO. RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. IMÓVEL.ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 104, 421 E 476 DO CÓDIGO CIVIL E 333 DOCÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282 DOSTF. CLÁUSULA PENAL INVERTIDA.
+1. Ausente o prequestionamento, exigido inclusive para as matérias deordem pública, incide o óbice do enunciado n. 282 da Súmula do STF.
+2. A jurisprudência do STJ firmou o entendimento no sentido de que, nocontrato de adesão firmado entre o comprador e aconstrutora/incorporadora, havendo previsão de cláusula penal apenas parao inadimplemento do adquirente, deverá ela ser considerada para a fixaçãoda indenização pelo inadimplemento do vendedor.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.651.694/AM, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTATURMA, julgado em 28/09/2020, DJe de 1º/10/2020)
+Ante o exposto, conheço do agravo para negar provimento aorecurso especial.
+Publique-se.
