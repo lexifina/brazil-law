@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por Alan Camargo e outro em face de decisão pela qual dei provimento ao recurso especial, em ordem a determinar o pagamento de pensão mensal aos então recorrentes (ora embargantes).
+Em suas razões, os embargantessustentam que: (I) os honorários advocatícios foram arbitradosno patamar de 5% (cinco por cento) sobre o valor da condenação, quando o artigo de lei (art. 85, § 3º, II, do CPC) estipula como patamar mínimo para a faixa da condenação o percentual de 8% (oito por cento); (II) deve haver majoraçãodos honorários por conta do trabalho adicional realizado, nos termos do art. 85, § 11, do CPC; (III) não restou estipulado na decisão odireito de acrescer de um beneficiário no caso de falecimento do seu cônjuge.
+Sem impugnação (fls. 1.345/1.346).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Assiste parcial razão à embargante.
+De fato, a decisão ora embargada, ao determinar a reforma dos honorários sucumbenciais estabelecidos pela origem, o fez com fundamento no art. 85, § 3º, II, do CPC, o qual estabelece que, nas causas em que a Fazenda Pública for parte, a fixação dos honorários observará os seguintes percentuais: "II - mínimo de oito e máximo de dez por cento sobre o valor da condenação ou do proveito econômico obtido acima de 200 (duzentos) salários-mínimos até 2.000 (dois mil) salários-mínimos".
+Desse modo, verifica-se a existência de contradição no tocante ao percentual fixado pela decisão embargada - 5% (cinco por cento) - devendo este ser este modificado, em ordem a refletir as diretrizes estabelecidas pela normal processual.
+Assim, quanto ao ponto, devem ser acolhidos os embargos declaratórios, a fim de que os honorários sucumbenciais sejam arbitrados no patamar de 8% (oito por cento) sobre o valor da condenação.
+No que diz respeito ao pedido de majoração da verba honorárianos termos do art.85, § 11, do CPC, nada há a prover. Isso porque a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o dispositivo possui o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, tendo como pressupostoa sucumbência recursal. A propósito:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS RECURSAIS.MAJORAÇÃO. REQUISITOS. AUSÊNCIA. INTERESSE RECURSAL. INEXISTÊNCIA.
+1. A majoração da verba honorária sucumbencial, prevista no art. 85, § 11, do CPC/2015, cujo desiderato é desestimular a interposição de recursos infundados e protelatórios, pressupõe a existência dos seguintes requisitos, cumulativamente: (i) decisão recorrida publicada a partir de 18/03/2016, data de entrada em vigor do novo Código de Processo Civil; (ii) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente;
+e (iii) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+2. A decisão agravada, em sua parte dispositiva, registrou que somente haveria a majoração dos honorários advocatícios caso estivessem presentes os referidos pressupostos e, em não se verificando estes, por óbvio, a majoração da referida verba seria indevida.
+3. Hipótese em que não há interesse em recorrer por parte da agravante.
+4. Agravo interno não conhecido.
+(AgInt nos EDcl no AREsp 1412022/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/10/2019, DJe 17/10/2019)
+Ora, no caso dos autos, as partes ora embargantes restaram sucumbentes na origem no que toca ao pedido de pagamento de pensionamento mensal, mas se sagraram vencedoras no âmbito do recurso especial, de modo que não se afigurapossívela majoração,mas uma nova estipulação, tal qual realizada pela decisão embargada.
+Por fim, no que concerne à alegada omissão quanto à declaração do direito de acrescer, observa-se que o temanão foi pleiteadoem sede de recurso especial, mas tão somente nas razões dos presentes embargos de declaração, carecendo do necessário prequestionamento, motivo pelo qual não pode ser analisado na presente fase processual.
+ANTE O EXPOSTO, acolho parcialmente os embargos declaratórios apenas para sanar a contradição apontada e determinar o arbitramento de honorários advocatícios no patamar de 8% (oito por cento) sobre o valor da condenação.
+Publique-se.
