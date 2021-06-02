@@ -1,0 +1,18 @@
+DECISÃO
+1. Cuida-se de agravo interposto por FRANCISCO ALVES LEITÃO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE SOBREPARTILHA.PRELIMINARES. COISA JULGADA. AUSÊNCIA. EMENDA À INICIAL, PARA JUNTAR REGISTRO DE MATRÍCULA DO IMÓVEL. DESNECESSIDADE. IMPUGNAÇÃO À GRATUIDADE DE JUSTIÇA. REJEIÇÃO. HONORÁRIOS ADVOCATÍCIOS. MANUTENÇÃO.
+1. Na espécie, seja pelo entendimento dos Tribunais Superiores, seja pela relativa presunção de hipossuficiência decorrente da declaração de pobreza, corroborados pelos documentos colacionados nos autos, e ante ausência de impugnação específica, com provas de que os autores teriam plenas condições de suportar as despesas processuais, a manutenção da gratuidade de justiça a eles concedida é medida que se impõe.
+2. O fato de o imóvel não ter registro no Cartório de Registro de Imóveis não constitui óbice à partilha dos direitos possessórios sobre o bem.
+3. A ausência de juntada da certidão atualizada da matrícula do imóvel não leva à extinção do processo sem resolução do mérito, por ausência de pressuposto válido e regular, nos termos do artigo 485, IV, do CPC, tendoem vista que fora demonstrado, por meio dos documentos juntados à inicial, os direitos possessórios que o réu possui sobre o bem, o que nãoimpede a sobrepartilha.
+4. Da análise dos autos, não há que se falar em coisa julgada, porquanto o bem imóvel objeto da sobrepartilha fora adquirido na constância do casamento, razão pela qual não estava incluso na cláusula nona do acordo de partilha, que determinava, expressamente, que somente os bens pertencentes ao cônjuge varão antes da celebração do casamento iriam permanecer na propriedade exclusiva do cônjuge varão.
+5. O entendimento do Colendo Superior Tribunal de Justiça, que ainda permanece mesmo diante do novo Código de Processo Civil, é no sentido de que a fixação dos honorários advocatícios não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, ou mesmo um valor fixo, segundo o critério de equidade.
+6. Preliminares e impugnação à gratuidade de justiça rejeitadas. Recursos conhecidos e desprovidos (fls. 914-915).
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial de fls. 964-973, aponta o recorrenteofensa ao disposto nos arts. 5º da Constituição Federal; 319 a 321, parágrafo único, e 337, IV, VII e XIII, do Código de Processo Civil.
+É o relatório.Decido.
+2. A irresignação não prospera.
+Descabe a esta Corte apreciar a alegada ofensa a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3.Alega a parte violação aos demais preceitos legais de modo demasiadamente genérico, sem indicar as razões pelas quais tais dispositivos teriam sido contrariados. Tal circunstância impede o conhecimento do recurso pelo óbice da Súmula 284/STF, assim redigida: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+4. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
