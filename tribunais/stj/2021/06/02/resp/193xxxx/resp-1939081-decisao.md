@@ -1,0 +1,36 @@
+DECISÃO
+Da leitura da minuta de agravo que deu origem ao presente recurso, pode-se aferir que KARINA PEREIRA DOS SANTOS (KARINA) ajuizou ação monitória, em fase de cumprimento de sentença, contra ALEXANDRE APARECIDO DE CAMARGO (ALEXANDRE).
+No curso da ação, o Juízo de primeira instância indeferiu o pedido de suspensão da carteira nacional de habilitação e bloqueio de cartões de crédito do ALEXANDRE.
+Essa interlocutória foi desafiada por agravo no qual KARINA sustentouque esgotou todas as medidas convencionais para receber seu crédito, mas não obteve êxito, razão pela qual busca medida coercitiva transversa.
+O agravo interposto por KARINA não foi provido pelo Tribunal de Justiça de São Paulo, nos termos do acórdão relatado pelo Desembargador MARINO NETO, assim ementado:
+AÇÃO MONITÓRIA CUMPRIMENTO DE SENTENÇA INDEFERIMENTO DE MEDIDAS INDUTIVAS E COERCITIVAS - AGRAVO DE INSTRUMENTO - Agravante que pretende a reforma da decisão que indeferiu os pedidos de suspensão da carteira nacional de habilitação e bloqueio de cartões de crédito - O artigo 139, inciso IV, do CPC dispõe que o Juiz determinará todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária Medidas requeridas que não se justificam em razão da ausência de bens do executado para fazer frente à execução, pois não conduzem ao recebimento do crédito - Decisão mantida.
+Recurso não provido (e-STJ, fl. 101).
+Os embargos de declaração opostos pelo KARINA foram rejeitados (e-STJ, fls. 178/180).
+KARINA interpôs recurso especial com base no art. 105, III, a e c, da CF, no qual alegou, além do dissídio jurisprudencial, violação do art. 139, IV, do NCPC, sustentou, em síntese, que a aplicação das medidas atípicas, indutivas e/ou coercitivas, possui previsão legal no NCPC vigente e devem ser utilizadas para a recorrida se empenhar em cumprir as decisões judiciais.
+O apelo nobre foi admitido na origem (e-STJ, fls. 183/185).
+É o relatório.
+DECIDO
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da alegada infringência ao art. 139, IV, do NCPC.
+O Tribunal de origem concluiu que a suspensão da CNH e bloqueio dos cartões de crédito do ALEXANDRE, medidas requerida pela KARINA para assegurar a execução, se apresenta desproporcional ao fim que se destina. Leia-se, a propósito, o seguinte trecho do acórdão recorrido:
+O artigo 139, inciso IV, do Código de Processo Civil dispõe que o Juiz determinará todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária.
+Os artigos 8º e 805 do mesmo diploma legal preveem que o Juiz, ao aplicar o ordenamento jurídico, deve promover a dignidade humana e observar a proporcionalidade e razoabilidade e que deverá conduzir a execução pelo modo menos gravoso para o executado.
+O fato de o Magistrado poder determinar medidas atípicas visando à quitação do débito não justifica o deferimento de medidas que extrapolam os limites da lide, tais comoas requeridas pela agravante.
+ ..
+Assim, as medidas requeridas não se justificam em razão da ausência de bens do executado para fazer frente à execução, pois não conduzem ao recebimento do crédito (e-STJ, fls. 102/104).
+Nesse contexto, a modificação do entendimento lançado no v. acórdão, a fim de averiguar a proporcionalidade da medida coercitiva de suspensão da CNH e bloqueio dos cartões de crédito do ALEXANDRE, no caso concreto, demandaria o reexame do conjunto fático-probatório dos autos, procedimento vedado em recurso especial a teor do enunciado nº 7 da Súmula do STJ.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MEDIDAS SATISFATIVAS DO CRÉDITO PERSEGUIDO DEVEM SER RAZOÁVEIS E PROPORCIONAIS, PARA QUE SEJAM MENOS GRAVOSAS AO DEVEDOR E MAIS EFICAZES. INCIDÊNCIA DA SÚMULA 83/STJ. PRECEDENTE. OBSERVÂNCIA DO PRINCÍPIO DA MENOR ONEROSIDADE DA EXECUÇÃO EM FACE DAS CIRCUNSTÂNCIAS DO CASO CONCRETO. REVOLVIMENTO DE CONTEÚDO FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. É assente a cognição jurisprudencial deste Sodalício no sentido de que as medidas de satisfação do crédito perseguido em execução não podem extrapolar os liames de proporcionalidade e razoabilidade, de modo que contra o executado devem ser adotadas as providências menos gravosas e mais eficazes. Precedente.
+2. No caso em exame, o Tribunal de origem, analisando o acervo fático-probatório dos autos, concluiu que os pedidos formulados pelo exequente, de suspensão de passaporte, de suspensão da CNH e de cancelamento dos cartões de crédito e débito, seriam excessivamente gravosos aos executados e desproporcionais à obrigação de pagamento do débito, mormente considerando que, no caso, o Juízo a quo já deferira medida adequada a compelir os devedores ao adimplemento, determinando inclusão de seus nomes nos cadastros de proteção ao crédito. A revisão de tal entendimento, na via estreita do recurso especial, sobretudo para perquirir a adequada aplicação do princípio da menor onerosidade no caso concreto, encontra óbice na Súmula 7 do STJ.
+3. Agravo interno desprovido."
+(AgInt no AREsp 1.283.998/RS, Ministro RAUL ARAUJO, Quarta Turma, julgado em 9/10/2018).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PRETENSÃO DE QUE SEJA SUSPENSA A CNH DO DEVEDOR COM BASE NO ART. 139, IV, DO CPC/2015. CONCLUSÃO NO SENTIDO DA INADEQUAÇÃO DA MEDIDA PARA O FIM COLIMADO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal estadual entendeu que a medida pleiteada - suspensão da CNH dos recorridos - é inadequada para o fim colimado, pois é desproporcional no caso em tela, especialmente porque atinge a pessoa do devedor, não seu patrimônio. Essa conclusão foi fundada na apreciação fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1.233.016/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 10/4/2018, DJe 17/4/2018).
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL MANEJADO NA ÉGIDE DO NCPC. AÇÃO MONITÓRIA. CUMPRIMENTO DE SENTENÇA. SUSPENSÃO DA CARTEIRA NACIONAL DE HABILITAÇÃO E BLOQUEIO DOS CARTÕES DE CRÉDITO. DESPROPORCIONALIDADE. MEDIDA COERCITIVA PREVISTA NO ART. 139, IV, DO NCPC AFASTADA PELO ACÓRDÃO RECORRIDO COM APOIO NO SUPORTE FÁTICO DOS AUTOS. PRETENSÃO RECURSAL QUE ESBARRA NA SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
