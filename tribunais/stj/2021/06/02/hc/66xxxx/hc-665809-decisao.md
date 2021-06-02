@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor deCINTIA MIRELLE DOS SANTOSem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2061630-91.2021.8.26.0000).
+Em 19/3/2021, a paciente foi presa em flagrante e teve a prisão convertida em preventiva por suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na expressiva quantidade e nocividade doentorpecenteapreendido- 70 pedras de crack. Impetrado writ na origem, a ordem foi denegada.
+A defesa alega que a paciente está sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar. Argumenta que a prisão preventiva fundou-se na gravidade abstrata do delito, ensejando evidente ilegalidade.
+Sustenta que a paciente é primária, ostenta bons antecedentes e não cometeu crime com violência ou grave ameaçaque implique na necessidade da manutenção de sua prisão preventiva, devendo ser seguida a Recomendação CNJ n. 62/2020.
+Requer, liminarmente e no mérito, a expedição do alvará de soltura e a concessão de liberdade à paciente.
+O pedido de liminar foi indeferido, nos termos da decisão defls. 53-54.
+As informações foram prestadas às fls. 59-62 e 63-75.
+O Ministério Público Federal manifestou-se pelo não conhecimento dowrit(fls. 79-89).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJconsidera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 43-44, destaquei):
+ ..  Em 20 de março p. p., dia subsequente à Flagrância, o MM. Juiz de Direito Dr. Cássio Modenesi Barbosa converteu a prisão em preventiva, assentando o seguinte:
+ ..
+Os autuados foram surpreendidos em típica situação de flagrância por delito de tráfico de drogas (artigo 33, da Lei nº 11.343/2006), conduta cuja pena privativa de liberdade máxima abstratamente cominada é superior a quatro anos de reclusão.
+ ..
+Os indícios de materialidade do delito, do mesmo modo, encontram-se presentes nos autos diante da apreensão da droga encontrada com Cintia e Jonathan.
+Assim, entendo que as circunstâncias concretas do fato demonstram que a prisão cautelar se afigura necessária por garantia da ordem pública e para assegurar a aplicação da lei penal, notadamente porque com os autuados foram apreendidas substâncias entorpecentes de diversas espécies (crack), a demonstrar maior periculosidade em suas condutas e a justificar a conversão do flagrante em preventiva, estando presente, também, o requisito artigo 313, inciso II do Código de Processo Penal.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+No presente caso, a quantidade, a nocividade e a forma de acondicionamento doentorpecenteapreendido -10 (dez) microtubos plásticos, contendo cocaína, na forma de "crack", pesando 0,94g  ..  ; e 15 (quinze) microtubos plásticos, contendo cocaína, na forma de "crack", pesando 1,36g  .. ; sendo que também tinham em depósito, para a mesma finalidade, 45 (quarenta e cinco) microtubos plásticos, contendo cocaína, na forma de "crack", pesando 4,34g(fl. 13, destaquei) -foramconsideradaspelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ademais, eventuais condições subjetivasfavoráveisdapaciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o preso preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, a paciente não demonstrou o alegado constrangimento ilegal decorrente da decisão impugnada.
+Ademais, para rever o entendimento adotado pela Corte de origem, seria necessário o revolvimento de matéria fático-probatória, procedimento vedado em habeas corpus.
+Confiram-se, a propósito, estes julgados: AgRg no HC n. 602.863/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020; e AgRg no HC n. 605.161/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 9/9/2020.
+Ante o exposto,com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
