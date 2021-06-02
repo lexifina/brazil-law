@@ -1,0 +1,7 @@
+DECISÃO
+Por intermédio do Despacho de fls. 1444/1445 (e-STJ) a Presidência desta Corte apontou que o recolhimento das custas judiciais foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso.
+Desta forma, determinou-se a intimação dos recorrentes para sanar o vício apontado, efetuando, caso fosse necessário, novo recolhimento no prazo de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Por intermédio de petição nº 00006188/2021, os recorrentes informam que houve o novo recolhimento das custas recursais, devidamente juntadas aos autos, e que diante disso fora promovido o pedido de devolução das custas pagas incorretamente utilizando-se para esse fim o Formulário de Solicitação de Restituição de Custas Judiciais e Porte de remessa e Retorno disponibilizado de forma eletrônica (informa.reembolso@stj.jus.br).
+No entanto, alegam que foram informados de que, nos termos do art. 34, I, RISTJ, tal devolução não poderia ser apreciada na esfera administrativa, mas diretamente nos autos.
+Diante disso, determino que os autos sejam encaminhados à Coordenadoria de Atendimento Judicial para verificação dos requisitos necessários ao atendimento do pedido fls. 1458/1472 (e-STJ), nos termos da Instrução Normativa STJ/GDG Nº 3, de 5 de abril de 2017, e, inexistindo óbice, fica, desde já, deferido o pedido de devolução da quantia recolhida incorretamente.
+Publique-se. Intimem-se.
