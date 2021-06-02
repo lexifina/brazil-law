@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por FELIPE AUGUSTO DE MORAES ALVARENGA com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim sintetizado:
+"INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. Sentença que reconheceu a ilegitimidade passiva da requerida e julgou extinto o feito sem julgamento do mérito. Insurgência do autor.
+JUSTIÇA GRATUITA. Ausência de sinais exteriores de riqueza do recorrente que sejam incompatíveis com a alegada hipossuficiência. Inexistem elementos probatórios suficientemente plausíveis que permitam a conclusão de que sua condição financeira obsta a concessão do benefício. Indeferimento poderia implicar restrição ao acesso à Justiça. Benesse concedida.
+ILEGITIMIDADE PASSIVA. Ocorrência. O autor adquiriu junto à ré, bilhetes aéreos para o trecho São Paulo Rio de Janeiro e, horas antes de seu embarque, obteve a informação de que o voo foi cancelado. Embora a recorrida tenha intermediado a venda das passagens aéreas, não pode ser responsabilizada pela falha na prestação de serviço de terceiros. A responsabilidade da agência de viagens estava adstrita à intermediação da venda e emissão do bilhete aéreo, serviços pelos quais não se alegou qualquer falha. Se a agência de viagens não concorreu para os acontecimentos descritos na inicial, não pode ser responsabilizada pela falha ocorrida exclusivamente na prestação dos serviços pela companhia aérea. Sentença mantida.
+Recurso parcialmente provido." (fl. 151)
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts.7, 14, 25 e 34 do Código de Defesa do Consumidor; bem como divergência jurisprudencial, sustentando, em síntese, a legitimidade passiva da recorrida e sua responsabilidade solidária e objetiva para responder pela falha na prestação dos serviços dos seus parceiros comerciais.
+Apresentadas contrarrazões ao apelo nobre (fls. 200-205).
+É o relatório.
+Do exame dos autos, verifica-se que o Tribunal de origem expressamente afastou a responsabilidade da agência de turismo, ora recorrida, pelos prejuízos causados pelo cancelamento do voo do recorrente, uma vez que somente foi responsável pela intermediação da venda das passagens aéreas objeto da demanda, nos seguintes termos:
+"A responsabilidade da agência de viagens estava adstrita à intermediação da venda e emissão do bilhete aéreo, serviços pelos quais não se alegou qualquer falha.
+Se a agência de viagens não concorreu para os acontecimentos descritos na inicial, não pode ser responsabilizada pela falha ocorrida exclusivamente na prestação dos serviços pela companhia aérea." (fl. 157).
+Sobre o tema, a jurisprudência desta Corte Superior entende que as agências de turismo não respondem solidariamente pela má prestação dos serviços na hipótese de simples intermediação de venda de passagens aéreas.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRANSPORTE AÉREO. INEXECUÇÃO DO SERVIÇO. AÇÃO DE INDENIZAÇÃO. AGÊNCIA DE TURISMO. ILEGITIMIDADE PASSIVA AD CAUSAM RECONHECIDA.
+1. A jurisprudência deste Tribunal admite a responsabilidade solidária das agências de turismo apenas na comercialização de pacotes de viagens.
+2. No caso, o serviço prestado pela agência de turismo foi exclusivamente a venda de passagens aéreas, circunstância que afasta a sua responsabilidade pelo efetivo cumprimento do contrato de transporte aéreo e autoriza o reconhecimento da sua ilegitimidade para figurar no polo passivo da ação indenizatória decorrente de cancelamento de voo.
+3. Agravo regimental não provido."
+(AgRg no REsp 1453920/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/12/2014, DJe 15/12/2014 - g.n.)
+"CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. TRANSPORTE AÉREO. INEXECUÇÃO DOS SERVIÇOS PRESTADOS. NÃO OCORRÊNCIA DA RESPONSABILIDADE OBJETIVA E SOLIDÁRIA DA AGÊNCIA DE TURISMO. CARACTERIZAÇÃO DA CULPA EXCLUSIVA DE TERCEIRO. INCIDÊNCIA DAS HIPÓTESES PREVISTAS NO § 3º, I, II, DO ART. 14 DO CDC. ILEGITIMIDADE PASSIVA AD CAUSAM RECONHECIDA.
+1. No pleito em questão, os autores contrataram com a empresa de turismo a compra e venda de passagens aéreas Brasília - Fortaleza, sendo que tal serviço, como restou demonstrado, foi regularmente prestado. Comprovado, também, que os autores não puderam utilizar os bilhetes da empresa TRANSBRASIL, em razão desta interromper seus serviços na época marcada, não efetuando, assim, os vôos programados.
+2. Não se tratando, in casu, de pacote turístico, hipótese em que a agência de viagens assume a responsabilidade de todo o roteiro da viagem contratada, e tendo, portanto, inexistido qualquer defeito na prestação de serviço pela empresa de viagens, posto que as passagens aéreas foram regularmente emitidas, incide, incontroversamente, as normas de exclusão de responsabilidade previstas no art. 14, § 3º, I e II, do CDC. Reconhecimento da ilegitimidade passiva ad causam da empresa de viagens, ora recorrente.
+3. Recurso conhecido e provido."
+(REsp 758.184/RR, Rel. Ministro JORGE SCARTEZZINI, QUARTA TURMA, julgado em 26/09/2006, DJ 06/11/2006, p. 332, g.n.)
+Nesse contexto, tendo em vista que a agência de turismo apenas intermediou a venda de passagens aéreas, verifica-se que a orientação do Tribunal de origem está em consonância com a jurisprudência desta Corte Superior, incidindo, no ponto, o óbice da Súmula 83/STJ.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de 10% para 11% sobre o valor atualizado da causa, ressalvada a concessão de justiça gratuita.
+Publique-se.
