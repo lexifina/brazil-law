@@ -1,0 +1,2 @@
+DECISÃO
+Tendo em vista a prolatação da sentença condenatória em desfavor do ora recorrente, consoante consulta ao sítio eletrônico do eg. Tribunal de origem, solicitem-se, com urgência e via telegrama, informações atualizadas e pormenorizadas ao d. Juízo de primeiro grau, com envio de cópia da referida decisão, a serem prestadas, preferencialmente, pela Central de Processo Eletrônico - CPE do STJ.
