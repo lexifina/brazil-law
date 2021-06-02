@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deLUIS HENRIQUE DA SILVA SANTOSapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL(Agravo de execução penaln. 5047821-70.2021.8.21.7000).
+Depreende-se dos autos que o Juízo da execução penal deferiu ao paciente a progressão ao regime semiaberto e determinou a retificação do"relatório de execução, inclusive alterando-se a data-base para o dia da concessão dobenefício, vale dizer, 10/02/21" (e-STJ fls. 122/123).
+O Tribunal de origem negou provimento ao recurso da defesa nos termos da seguinte ementa(e-STJ fl. 11):
+AGRAVO EM EXECUÇÃO. PROGRESSÃO DE REGIME.REQUISITOS OBJETIVO E SUBJETIVO. DATA BASE PARA A CONCESSÃO DE NOVOS BENEFÍCIOS.
+A data base para fins de nova progressão de regime não pode corresponder somente à data em que o apenado teria implementado o requisito objetivo, na medida em que a progressão se sujeita, também, ao implemento do requisito subjetivo, o que somente aconteceu por ocasião da decisão que deferiu a progressão.Decisão mantida.
+AGRAVO DESPROVIDO.
+Daí o presente writ, no qual a defesa sustenta a natureza declaratória da decisão que defere a progressão de regime, razão pela qual o marco para o próximo benefício deve ser a data do implemento do últimorequisito, objetivo ou subjetivo.
+É o relatório.
+Decido.
+Conforme a orientação desta Corte, a data-base para a concessão da progressão de regime é a do preenchimento dos requisitos objetivo e subjetivo do anterior benefício.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. MARCO INICIAL. DATA EM QUE O REEDUCANDO EFETIVAMENTE PREENCHEU OS REQUISITOS OBJETIVO E SUBJETIVO DO ART. 112 DA LEP.DETERMINADA REALIZAÇÃO DE EXAME CRIMINOLÓGICO. REQUISITO SUBJETIVO PREENCHIDO NA DATA DO PARECER FAVORÁVEL EXARADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Quinta e a Sexta Turma deste Superior Tribunal se alinharam ao posicionamento do Supremo Tribunal Federal de modo a fixar, como data-base para subsequente progressão de regime, aquela em que o reeducando preencheu os requisitos objetivo e subjetivo do art. 112 da LEP e não aquela em que: a) o Juízo da VEC deferiu o benefício anterior ou b) ocorreu o efetivo ingresso no regime atual.
+2. Na hipótese, na data em que o reeducando implementou o critério objetivo do art. 112 da LEP, ele não tinha mérito para a progressão, tanto que o Juiz da VEC não o promoveu de regime, mas determinou a realização de exame criminológico.
+3. Em razão da determinação de realização de exame criminológico, reputa-se preenchido o requisito subjetivo no momento em que houve parecer técnico favorável, sendo esta a data-base a ser considerada para nova progressão, não obstante o requisito objetivo haver sido preenchido em momento anterior.
+4. Agravo regimental não provido.
+(AgRg no HC 634.186/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/03/2021, DJe 30/03/2021, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL. EXECUÇÃO. DATA-BASE PARA CONCESSÃO DE BENEFÍCIOS. REQUISITO SUBJETIVO IMPLEMENTADO EM MOMENTO ULTERIOR À VERIFICAÇÃO DO REQUISITO OBJETIVO. PREVALÊNCIA DO MOMENTO DE PREENCHIMENTO DO ÚLTIMO REQUISITO. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+1. A decisão do Magistrado de primeiro grau, que considerou como data-base para a progressão de regime a data em que o apenado cumpriu o requisito subjetivo (posterior ao cumprimento do requisito objetivo), encontra-se em consonância com a jurisprudência desta Corte.
+2. Segundo reiterados precedentes, a data-base para verificação do implemento dos requisitos objetivo e subjetivo, previstos no art. 112 da Lei n. 7.210/1984, deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo (HC n. 526.825/SP, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 20/11/2019).
+3. Agravo regimental improvido.
+(AgRg no HC 587.903/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 12/08/2020, DJe 18/08/2020, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DECISÃO DE NATUREZA DECLARATÓRIA. ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. DATA-BASE PARA FUTURA PROGRESSÃO. DATA EM QUE FORAM PREENCHIDOS OS REQUISITOS OBJETIVO E SUBJETIVO. ÚLTIMO REQUISITO PENDENTE. ART. 112 DA LEI DE EXECUÇÃO PENAL. EXAME CRIMINOLÓGICO. ADEQUAÇÃO PARA AFERIR O REQUISITO SUBJETIVO. MATÉRIA NÃO ANALISADA NO ARESTO COMBATIDO. SUPRESSÃO DE INSTÂNCIA. WRIT DO QUAL NÃO SE CONHECEU. DECISÃO MANTIDA. INSURGÊNCIA DESPROVIDA.
+1. O Supremo Tribunal Federal, no HC n. 115.254/SP, passou a adotar o posicionamento de que, por ter a decisão que concede a progressão de regime natureza meramente declaratória, o marco inicial para a concessão do benefício é a data do preenchimento dos requisitos estabelecidos no art. 112 da Lei de Execução Penal.
+2. No caso em análise, embora preenchido anteriormente o requisito objetivo pelo paciente, o lapso inicial a ser considerado para fins de promoção carcerária é o momento em que foi implementado o último requisito legal, o qual, segundo a Corte estadual, foi atestado por meio de "Informações Psicológicas e Relatório Social, elaborados em 31 de julho de 2019 e assinados por psicólogo e assistente social respectivamente, atestando o mérito do paciente para a obtenção da almejada progressão de regime", ocasião em que entendeu estar preenchido o requisito subjetivo.
+3. Nesse contexto, verifica-se que o Tribunal de origem, ao definir como termo inicial para fins de progressão de regime o momento em que atingidos os requisitos objetivo e subjetivo para o regime aberto, decidiu em consonância com a jurisprudência deste Sodalício.
+4. A alegação defensiva de que o exame criminológico não seria instrumento adequado para aferir o preenchimento ou não do requisito subjetivo pelo apenado, não foi objeto de deliberação pela autoridade impetrada, circunstância que impede qualquer manifestação deste Sodalício sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+5. Mantém-se a decisão singular que não conheceu do habeas corpus, por se afigurar manifestamente incabível, e não concedeu a ordem de ofício, em razão da ausência de constrangimento ilegal a ser sanado.
+6. Agravo regimental desprovido.
+(AgRg no HC 540.250/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 05/03/2020, DJe 16/03/2020, grifei.)
+Na hipótese, o acórdão impugnado fixou como marco a data da decisão que concedeu a anterior progressão de regime, em desacordo com esse entendimento.
+Ante o exposto, concedo a ordem para determinaraoJuízo da execução penal que fixe, como data-base para progressão de regime, a data do preenchimento dos requisitos objetivo e subjetivo.
+Publique-se. Intimem-se.
