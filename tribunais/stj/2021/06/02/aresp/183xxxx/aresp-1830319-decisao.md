@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por OI S.A - EM RECUPERAÇÃO JUDICIAL, contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 20/10/2020.
+Concluso ao gabinete em: 07/05/2021.
+Ação: complemento de obrigação em fase de cumprimento de sentença apresentada pelo GUALBERTO DA COSTA PRADIER, em face da agravante, decorrente de contrato de participação financeira firmado com a extinta CRT, na qual requer indenização referente às ações que teria direito.
+Decisão interlocutória: indeferiu o pedido da companhia de levantamento dos valores depositados em juízo.
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. CONTRATOS DE PARTICIPAÇÃO FINANCEIRA. BRASIL TELECOM.CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. VALORES BLOQUEADOS. Apresentado e homologado o plano de recuperação judicial este deve ser observado quanto à liberação de valores. Da análise dos elementos coligidos aos autos, verifica-se que o bloqueio dos valores efetivamente ocorreu em 27/03/2015 e ainda pende de definição a impugnação ao cumprimento de sentença, o que, em tese, vedaria a liberação de valores em favor do agravado, exceto eventual valor incontroverso, ou seja, aquele reconhecidamente devido quando da apresentação da impugnação ao cumprimento de sentença. Desse modo, no caso dos autos, tendo em conta que não houve ainda trânsito em julgado da impugnação ao cumprimento de sentença, nem análise do valor reconhecidamente incontroverso, entendo que prematura a liberação em favor da companhia dos valores depositados em juízo. AGRAVO DE INSTRUMENTO DESPROVIDO.(e-STJ fl. 535).
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 1.022, II, do Código de Processo Civil; 49, e 59 da Lei 11.101/05. Além de negativa de prestação jurisdicional,sustentaque "ahipótese prevista na Cláusula nº 3.1.8 do Plano de Recuperação Judicial do Grupo Oi é exatamente a que ocorre nestes autos, visto que já houve o reconhecimento pela e. Câmara de que os recorridos poderão levantar apenas o saldo incontroverso, logo, o saldo controvertido não será utilizada para pagamento nestes autos, visto que é obrigação do credor proceder com a habilitação do seu crédito nos autos da recuperação, para receber a quantia que lhe for devida. Assim, tais valores depositados - que não serão utilizados - devem ser imediatamente levantados em favor da recorrente"(e-STJ fl. 607).
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/15.
+- Da violação do art.1.022 do CPC/15.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão assim decidiu quanto aos supostos pontos omissos, no tocante aos requisitos para a liberação dos valores, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do reexame de fatos e provas
+Recentemente foi proferida decisão no processo de recuperação judicial (Embargos no Agravo de Instrumento nº. 0034576-58.2016.8.19.0000 julgado pela 8ª Câmara Cível do Tribunal de Justiça do Rio de Janeiro), em que esclarecidos os requisitos para a suspensão do processo, sendo agora possível a liberação de valores em alguns casos específicos: (a) Quando o depósito judicial/bloqueio tenha sido realizado pela OI S/A em data anterior a 21.06.2016 e, (b) Quando acontecer quaisquer das seguintes situações: (i) o depósito tenha sido feito com a expressa finalidade de pagamento pela OI S/A antes de 21/06/2016; (ii) já tenha ocorrido o trânsito em julgado de embargos à execução ou da impugnação ao cumprimento de sentença, antes de 21/06/2016, ou (iii) já tenha ocorrido a preclusão do incidente de impugnação ao cumprimento de sentença, antes de 21/06/2016.
+O acórdão recorrido concluiu que:
+"Da análise dos elementos coligidos aos autos, verifico que o bloqueio dos valores efetivamente ocorreu em 27/03/2015 (fl. 364/365) e ainda pende de definição a impugnação ao cumprimento de sentença, o que, em tese, vedaria liberação de valores em favor do agravado, exceto eventual valor incontroverso, ou seja, aquele reconhecidamente devido quando da apresentação da impugnação ao cumprimento de sentença.
+Desse modo, no caso dos autos, tendo em conta que não houve ainda trânsito em julgado da impugnação ao cumprimento de sentença, nem análise do valor reconhecidamente incontroverso, entendo que prematura a liberação em favor da companhia, dos valores depositados em juízo"(e-STJ, fls. 540).
+Dessa forma, para se entender de forma diferente e acolher a pretensão recursal, no tocante à liberação dos valores, seria necessário o revolvimento de elementos fático-probatórios dos autos, o que atrai o óbice nos enunciados n. 7 da Súmula desta Corte.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão NEGO-LHE PROVIMENTO.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. COMPLEMENTO DE OBRIGAÇÃO EM FASE DE CUMPRIMENTO DE SENTENÇA. SUBSCRIÇÃO DE AÇÕES. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação complementação de obrigação em fase de cumprimento de sentença.
+2. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido.Recurso especial parcialmente conhecido e, nessa extensão, não provido.
