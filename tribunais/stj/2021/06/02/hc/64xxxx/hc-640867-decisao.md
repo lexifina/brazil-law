@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de ARTHUR EDUARDO SANTOS TEIXEIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (HC n. 0074281-24.2020.8.19.0000).
+O paciente foi preso preventivamente e, posteriormente, denunciado pela suposta prática do delito previsto no art. 157, § 2º, incisos I, II e V, do Código Penal.
+O impetrante sustenta, no presentewrit, a existência de constrangimento ilegal consubstanciado na ausência de indícios suficientes da autoria delitiva, uma vez que o acusado não teria sido reconhecido pela maioria das testemunhas.
+Ressalta as condições pessoais do acusado, que seria portador de epilepsia.
+Requer, liminarmente e no mérito, a revogação da prisão cautelar ou, no último caso, a substituição pelas medidas descritas no art. 319, incisos I, II, IV e IX, do Código de Processo Penal.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pela denegação da ordem.
+É o relatório.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti),estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+Destacou o Juízo de piso ao decretar a prisão preventiva do paciente (e-STJ fls. 28/29):
+A existência do fato e sua autoria estão devidamente indiciadas, conforme se vê das peças de informação, sendo que, pelas FACs acostadas, constata-se que o réu PAULO ROBERTO já possui duas condenações por crime de roubo e outra por crime da Lei de Armas, respondendo a outros cinco processos por crimes da Lei de Drogas, dois por crimes da Lei de Organização Criminosa e dois por crimes de roubo, enquando o réu ARTHUR ostenta uma condenação por crime de rouboe duas por crimes da Lei de Armas, respondendo a dois processos por crimes de roubo e um, neste mesmo juizo, por crime da Lei de Organização Criminosa, razão pela qual existe licita presunção de que em liberdade voltarão a delinquir.
+ ..
+O inquérito policial foi instaurado a partir do R. O. de fls. 03/04 para apurar crime de roubo majorado triplamente, ocorrido, em tese, na Barra da Tijuco, no qual um grupo de elementos se passou por policiais federais, ingressou num prédio de apartamentos e efetuou o roubo.
+O fato praticado é de extrema gravidade, ficando claro, portanto, que a manutenção dos acusados em liberdade coloca em risco, até mesmo a credibilidade da Justiça, gerando grave perigo para a ordem pública, bem como para a colheita da prova inquisitorial.
+Além do mais, o crime foi praticado, em tese, com emprego de arma de fogo e as vitimas reconheceram os denunciados por fotografia em sede policial, o que também faz presumir que ficarão constrangidas e temerosas caso se encontrem solto. Assim, a satisfatória instrução criminal reclama a custódia dos acusados, ante a necessidade da oitiva dos lesados, que, com maior segurança e tranquilidade, poderão prestar seus depoimentos, afastando-se a nefasta impressão de impunidade.
+Ademais, a conduta atribuida aos acusados é daquelas que não admitem aplicação de pena substitutiva, pois cometida com emprego de grave ameaça, além de consistir em delito que, à toda evidência, abala a ordem pública.
+Vê-se que a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, revelador da periculosidade do paciente, consistente na prática, em tese, de crime de roubo majorado, no qual o agente, acompanhado de outrocomparsa, ambos disfarçados de policiais federais e mediante uso de arma de fogo,ingressou no prédio de apartamentos e efetuou o roubo. Ademais, o paciente possui passagens criminais por roubo, porte de armas e organização criminosa.
+Tais circunstâncias, como já destacado, evidenciam a gravidade concreta da conduta, porquanto extrapolam a mera descrição dos elementos próprios do tipo de roubo. Assim, por conseguinte, a segregação cautelar faz-se necessária como forma de acautelar a ordem pública.
+Nesse sentido:
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. MODUS OPERANDI. REITERAÇÃO DELITIVA. RECURSO DESPROVIDO.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se a indispensável a demonstração do que consiste o periculum libertatis.
+2. No caso, a prisão preventiva está justificada, pois a decisão que a impôs delineou o modus operandi empregado pelo recorrente e seu comparsa, do qual se depreende emprego de agressão contra a vítima, o que denota sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+ .. (RHC 70.507/BA, de minha relatoria, SEXTA TURMA, julgado em 17/05/2016, DJe 25/05/2016)
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO DESPROVIDO.
+1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. No caso, o recorrente praticou o crime de roubo mediante o uso de simulacro de arma de fogo, em concurso de agentes, com ameaças de morte à vítima, além de, na companhia dos corréus, ter transportado e conduzido um veículo que sabia ser objeto de outro roubo.
+3. O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão da gravidade concreta da conduta delituosa, evidenciada pelo modus operandi com que o crime fora praticado, como ocorreu nos presentes autos.
+ ..  (RHC 58.952/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/05/2016, DJe 27/05/2016)
+Portanto, os fundamentos acima delineados indicam a necessidade de manter o paciente segregado.
+No mais, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública.
+A propósito, confiram-se:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+1. Conforme reiterada jurisprudência desta Corte Superior de Justiça, toda custódia imposta antes do trânsito em julgado de sentença penal condenatória exige concreta fundamentação, nos termos do disposto no art. 312 do Código de Processo Penal.
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, a conferir lastro de legitimidade à custódia.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso a que se nega provimento.(RHC 68.535/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/03/2016, DJe 12/04/2016)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. ROUBO CIRCUNSTANCIADO. CONCURSO DE AGENTES. EMPREGO DE ARMA DE FOGO. SENTENÇA POSTERIOR. MANTIDOS OS FUNDAMENTOS. AUSÊNCIA DE PREJUDICIALIDADE. PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. MODUS OPERANDI DOS DELITOS. VIOLÊNCIA REAL CONTRA UMA DAS VÍTIMAS, NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de formafundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+6. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+7. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública. Habeas corpus não conhecido.(HC 393.464/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/08/2017, DJe 04/09/2017)
+De outro lado, frisa-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+Nesse sentido:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido.(RHC 64.879/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/03/2016, DJe 21/03/2016)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
