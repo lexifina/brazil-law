@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 10/12/2020.
+Concluso ao gabinete em: 05/05/2021.
+Ação: medida cautelar movida pelo agravante, em desfavor de MARISTA PARTICIPAÇÕES LTDA, visando a concessão de efeito suspensivo ao recurso de apelação por ele interposto em ação de despejo, tendo em vista a prolação de sentença de procedência dos pedidos da inicial, com a determinação de expedição imediata demandado de desocupação com prazo de 15 (quinze) dias.
+Acórdão: manteve decisão monocráticaque declarou extinto o procedimento por perda superveniente do objeto uma vez que julgada a apelação da qual se buscava o efeito suspensivo, nos termos da ementa:
+AGRAVO INTERNO NOS EMBARGOS DECLARATORIOS NO AGRAVO INTERNO EM MEDIDA CAUTELAR. PREPARO RECURSAL. SUSPENSÃO DOS PRAZOS. DECISÃO MONOCRÀTICA REFORMADA PARA CONHECER DO RECURSO DE AGRAVO INTERNO. 1. Tendo em vista a tempestividade do preparo recursal efetuado, considerando a suspensão dos prazos processuais prevista na Resolução 313/2020 do CNJ e no Decreto Judiciário nº 632/20 do TJGO, impõem-se a reforma da decisão que julgou deserto o recurso, a fim de permitir o seu conhecimento. AGRAVO INTERNO NOS EMBARGOS DECLARATORIOS NO AGRAVO INTERNO NOS EMBARGOS DECLARATORIOS EM MEDIDA CAUTELAR. EFEITO SUSPENSIVO À APELAÇÃO. JULGAMENTO DO APELO. MANUTENÇÃO DA ORDEM DE DESPEJO EM SEDE RECURSAL. PERDA SUPERVENIENTE DO OBJETO. LIMINAR REVOGADA. AUSÊNCIA DE ARGUMENTO NOVO TRAZIDO NAS RAZÕES RECURSAIS. 1. Indubitável o reconhecimento da prejudicialidade da presente medida cautelar pressuposta a perda superveniente de seu objeto, à conta de que não há falar em sobrestamento dos efeitos da sentença que decretou o despejo se já ultimado julgamento do correlato recurso apelatório, mantendo a decretação do despejo da recorrente. 2. Deixando a agravante de apresentar argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada, impõe-se a sua manutenção. PRIMEIRO AGRAVO INTERNO CONHECIDO E PROVIDO. SEGUNDO AGRAVO INTERNO CONHECIDO E DESPROVIDO. (e-STJ fl. 360)
+Recurso especial: alega violação dos arts. 9º, 10, 17, 485, VI, do CPC/15, bem como dissídio jurisprudencial. Sustenta a nulidade do acórdão que manteve decisão monocrática que por sua vez julgou prejudicada medida cautelar com requerimento de efeito suspensivo à apelação interposta em sede de ação de despejo julgada procedente contra a ora agravante. Alega, em síntese, que deve haver a consagração da regra que estipula a prévia oitiva das partes antes das decisões que lhe possam ser prejudiciais.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da Jurisprudência do STJ
+A jurisprudência do Superior Tribunal de Justiça é no sentido de que a falta de intimação prévia para manifestação das partes não é causa automática de nulidade pois exige a demonstração de prejuízo, em cumprimento ao princípiopas de nullité sans grief(não há nulidade sem prejuízo). Nesse sentido:AgInt no AREsp 1468820/MG, 3ª Turma, DJe 27/09/2019 eAgInt no AREsp 977.423/PR, 4ª Turma, DJe 01/07/2019.
+A parte não se desincumbiu do ônus de demonstrar o prejuízo sofrido, ligadopelo proveito que auferiria caso fosse intimada previamente acerca da perda de objeto da medida cautelar.
+Assim, o acórdão recorrido não merece reforma, com fundamento na Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. MEDIDA CAUTELAR PARA CONFERIR EFEITO SUSPENSIVO A RECURSO DE APELAÇÃO. JULGAMENTO DA APELAÇÃO. PERDA DO OBJETO. AUSÊNCIA DE INTIMAÇÃO. PREJUÍZO NÃO COMPROVADO. PRINCÍPIO DA PAS DE NULLITÉ SANS GRIEF.
+1. Medida cautelar visando a concessão de efeito suspensivo à apelação em ação de despejo.
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que a falta de intimação prévia para manifestação das partes não é causa automática de nulidade pois exige a demonstração de prejuízo, em cumprimento ao princípio pas de nullité sans grief (não há nulidade sem prejuízo). Precedentes.
+3. Agravo conhecido. Recurso especial não conhecido.
