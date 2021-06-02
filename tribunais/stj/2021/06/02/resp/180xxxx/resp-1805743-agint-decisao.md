@@ -1,0 +1,10 @@
+DECISÃO
+TRIBUTÁRIO. AGRAVO INTERNO NORECURSO ESPECIAL.ARROLAMENTO SUMÁRIO. ITCMD. TEMA 1.074/STJ. DECISÃO MONOCRÁTICA DE FLS. 288/290 TORNADA SEM EFEITO. RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DOS ARTS. 1.040 E 1.041 DO CPC/2015.
+1. Trata-se de Agravo Interno interposto pelo ESTADO DE MINAS GERAISem adversidade à decisão monocrática (fls. 157/160) que deu provimento ao Recurso Especial de Cássia Antônia Barnabé, assim ementada:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ARROLAMENTO SUMÁRIO. EXPEDIÇÃO DE FORMAL DE PARTILHA CONDICIONADA À QUITAÇÃO DOS TRIBUTOS (ITCDMD). DESCABIMENTO. RECURSO ESPECIAL DO PARTICULAR A QUE SE DÁ PROVIMENTO.
+2. O Estado agravante afirma que a decisão agravada está equivocada ao permitir a homologação da partilha antes da quitação dos tributos devidos. Requer, ainda, o sobrestamento do presente recurso, porquanto a questão encontra-se afetada no Recurso Especial Repetitivo1.895.486/DF.
+3. É o relatório.
+4. Verifica-se que a matéria versada no Apelo Nobre, qual seja, necessidade de se comprovar, no arrolamento sumário, o pagamento do imposto de Transmissão Causa Mortis e doação - ITCMD como condição para homologação da partilha ou expedição da carta de adjudicação, à luz dos arts. 192 do CTN e 659, § 2º, do CPC/2015, encontra-se afetada à Primeira Seção do STJ em recurso representativo da controvérsia e aguarda julgamento: Tema 1.074 (RESP 1.896.526/DF, 1.895.486/DF, Rel. Min. REGINA HELENACOSTA).
+5. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma do art. 1.040 do CPC/2015.
+6. Em face do exposto, tornosem efeito a decisão de fls. 157/160e determinoa devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após o julgamento do Tema 1.074 por este STJ, o Tribunal de origem proceda nos termos dos arts. 1.040 e seguintes do CPC/2015.
+7. Publique-se.Intimações necessárias.
