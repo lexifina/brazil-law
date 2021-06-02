@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto porWIDAD COTAIT CURI,contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+PLANO DE SAÚDE. PRELIMINAR AFASTADA. REAJUSTESPOR SINISTRALIDADE. IMPERIOSA COMPROVAÇÃO DALEGALIDADE PELA OPERADORA.Plano de saúde. Não há invalidade na majoração das mensalidadesdo contrato de plano de saúde pelo aumento da sinistralidade.Todavia, é imperiosa a comprovação, pela operadora, danecessidade do reajuste. Majorantes aplicadas nos anos de 2012 e2015, contudo, próximas aos percentuais autorizados pela ANS,considerando que se trata de contrato coletivo. Aumentos dos anosde 2013, 2014, 2016, 2017, no entanto, excessivos. Decote parcial.Sentença parcialmente reformada.Recurso parcialmente provido. (fl. 680)
+Os embargos declaratórios foram rejeitados.
+Nas razões do recurso especial, o agravante alega violação aos arts. 4º, 6º, III, 39, V, 51, IV e X, e 54, § 4º, do CDC;757do Código Civil; 86, parágrafo único, 341, 373, 507 e 1.022, II, do NCPCe divergência jurisprudencial, sustentando, em síntese, além de negativa de prestação jurisdicional, que há evidente omissão quanto aos artigos 341 e373, II do CPC, uma vez que, na fase instrutória, foi conferida à Recorrida aoportunidade de comprovar a legalidade do percentual aplicado a título de reajuste.No entanto, em sua defesa, a Recorrida, em momento
+algum apresentou qualquer prova ou argumentação contrária aos fatos narrados eprovas documentais carreadas aos autos junto à exordial, tampouco exibiu documentoscontábeis e fiscais com o condão de respaldar os reajustes aplicados, resultando nolaudo pericial em seu desfavor.
+É o relatório.
+Decido.
+Não colhe o recurso.
+Inicialmente, não prospera a alegada ofensa ao art. 1.022, II, do Código de Processo Civil, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010, AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+Além disso,nas razões recursais, o recorrente apontou violação aos artigos 4º, 6º, III, 39, V, 51, IV e X, e 54, § 4º, do CDC; 757 do Código Civil; e 507 do NCPC, entretanto, não desenvolveu argumentação que evidenciasse as ofensas, tornando patente a falha de fundamentação do apelo especial, circunstância que atrai a incidência do nº 284 da Súmula do Supremo Tribunal Federal.
+A propósito:
+"AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. RECURSO QUE DEIXA DE IMPUGNAR OS FUNDAMENTOS DA DECISÃO QUE NEGOU PROVIMENTO AO AGRAVO DE INSTRUMENTO. SÚMULA Nº 182/STJ. EMBARGOS DE DECLARAÇÃO.RECORRENTE QUE NÃO DEFINE NEM DEMONSTRA EM QUE CONSISTE A OMISSÃO. SÚMULA Nº 284/STF. ARTIGOS 496 E 513 DO CÓDIGO DE PROCESSO CIVIL. NÃO DEMONSTRAÇÃO DA VIOLAÇÃO DOS DISPOSITIVOS DE LEIS FEDERAIS. SÚMULA Nº 284/STF. AGRAVO IMPROVIDO.
+1. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (Súmula do STJ, Enunciado nº 182).
+2. "É possível o juízo de admissibilidade adentrar o mérito do recurso, na medida em que o exame da sua admissibilidade, pela alínea "a", em face dos seus pressupostos constitucionais, envolve o próprio mérito da controvérsia." (AgRgAg nº 228.787/RJ, Relator Ministro Sálvio de Figueiredo Teixeira, in DJ 4/9/2000).
+3. Em tema de violação do artigo 535 do Código de Processo Civil, a não indicação expressa das questões apontadas como omitidas vicia a motivação do recurso especial, inviabilizando o seu conhecimento.Incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+4. Ao apontar a violação dos artigos 496, inciso I, e 513 do Código de Processo Civil, nas razões do recurso especial, a agravante não define nem demonstra no que consistiu a alegada violação dos dispositivos legais, deixando de explicitar, de forma clara e precisa, a negativa de vigência de lei federal, atraindo a incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+5. Agravo regimental improvido."
+(AgRg no Ag 1292758/MG, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA TURMA, julgado em 18/05/2010, DJe 04/06/2010)
+Quanto à alegada violação aos arts. 341 e373do NCPC, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foram apreciados pelo Tribunal a quo, tampouco foram alvo dos embargos declaratórios opostos, para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe 25/11/2014).
+Por fim, aapreciação, em sede de recurso especial, doquantitativo emque autor e réu saíram vencedores ou vencidos na demanda, bem comodaexistência de sucumbência mínima ou recíproca, além da revisão do valor arbitrado a título de honorários advocatícios, esbarra noóbice daSúmula7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃOPORDANOS MORAIS E MATERIAIS. CONTRATO BANCÁRIO. ART. 535 DOCPC/1973.VIOLAÇÃO. NÃO OCORRÊNCIA.AUSÊNCIA DE PREQUESTIONAMENTO.SÚMULA Nº 211/STJ. DEFEITO DE SERVIÇO.PRESCRIÇÃO QUINQUENAL. CDC. FUNDAMENTOSUFICIENTE. IMPUGNAÇÃO. AUSÊNCIA.SÚMULA Nº 283/STF.CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTOANTECIPADO DA LIDE. SUFICIÊNCIAPROBATÓRIA. PRINCÍPIO DO LIVRECONVENCIMENTO DO JUIZ. REVISÃO.RELAÇÃO DE CONSUMO. CONFIGURAÇÃO. FALHA DESERVIÇO. FRAUDE BANCÁRIA. RESPONSABILIDADEOBJETIVA DA INSTITUIÇÃOFINANCEIRA. EXCLUSÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. VERBA HONORÁRIA.ÔNUS DE SUCUMBÊNCIA. MANUTENÇÃO. REEXAME FÁTICO.INVIABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigênciadoCódigo de Processo Civil de 1973 (Enunciados Administrativosnºs 2 e3/STJ).
+ ..
+12. A jurisprudência desta Corte é firme no sentido de não serpossível arevisão do quantitativo em que autor e ré decaíram do pedido,para fins de aferir asucumbência recíproca ou mínima, por implicarreexame dematériafático-probatória, procedimento vedado pela Súmula nº7/STJ.
+13. A incidência da Súmula nº 7/STJ prejudica também o conhecimentodorecurso quanto à divergência jurisprudencial alegada.
+14.Agravointernonão provido. (AgInt no AREsp 1.173.934/SP, Rel. Ministro
+RICARDO VILLAS BÔAS CUEVA,TERCEIRA TURMA, julgado em 17/09/2018, DJe 21/09/2018)
+Ante o exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro oshonorários advocatícios devidos à parte recorrida de 10% para 11% sobre ovalor da causa.
+Publique-se.
