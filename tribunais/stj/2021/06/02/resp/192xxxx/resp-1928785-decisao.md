@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Município de Combinado (Tocantins), com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins, assim ementado (fl. 327):
+"APELAÇÃO. AÇÃO DE COBRANÇA. AGENTE COMUNITÁRIO DE SAÚDE. QUADRO EFETIVO DO MUNICÍPIO DE COMBINADO-TO. PRETENSÃO DE RECEBIMENTO DE INCENTIVO ADICIONAL ANUAL. VERBA INCLUÍDA EM REPASSES DA UNIÃO. DESTINAÇÃO EXPRESSA. LEGALIDADE. RECURSO PROVIDO. SENTENÇA REFORMADA. Respeitada a prescrição quinquenal, é devido o pagamento, aos agentes comunitários da saúde do quadro efetivo municipal, da parcela anual extra denominada incentivo adicional, a qual tem natureza jurídica diversa do décimo terceiro salário e é oriunda de repasses financeiros da União aos municípios, efetuados com base em portarias do Ministério da Saúde, amparadas em texto normativo legal - Lei no 8.142, de 28/12/1990, instituidora do Fundo Nacional da Saúde, fonte orçamentária da verba."
+Na origem, NEURIDIZ APARECIDA LEITE ajuizou ação de cobrança contra o recorrente para recebimento do Incentivo Financeiro Adicional (IFA) instituído pelo Ministério da Saúde.
+Valor dado à causa: R$ 4.534,35 (quatro mil, quinhentos e trinta e quatro reais e trinta e cinco centavos), em julho de 2018.
+No presente recurso especial, além de dissídio jurisprudencial, aponta-se violação do artigo 373, I, do Código de Processo Civil , sustentando-se, em síntese que:
+"Ao entender que o Recorrido deixou de comprovar seu direito ao recebimento do adicional financeiro, não comprovando a existência de Lei municipal que autorize o repasse dessa verba aos agentes comunitários de saúde, o acórdão CONTRARIOU LEI FEDERAL, especificamente os arts. 373, I e do CPC, eis que está robustamente provado no processo que o Município não tem Lei Municipal autorizando que faça o repasse aos agentes comunitários." (fl. 342)
+Foram apresentadas contrarrazões pelo não seguimento do recurso.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2.016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Em resumo, a presente demanda tem por objetivo elucidar o seguinte questionamento: os valores repassados pela União ao Município a título de incentivo financeiro adicional deveriam, necessariamente, ser repassados aos agentes comunitários de saúde e agente de combate a endemias, ou estariam sujeitos à discricionariedade do administrador, a fim de que fossem gastos no âmbito da atenção básica à saúde.
+A questão controvertida foi decidida sob fundamento de cunho constitucional por si só autônoma e suficiente para manter o julgado combatido.
+Ocorre que, mesmo diante disto, a parte recorrente, ao interpor o recurso especial, não cuidou da interposição concomitante do recurso extraordinário, o que impede que o primeiro seja admitido, conforme dispõe a Súmula 126/STJ.
+A propósito, confira-se trecho do julgado recorrido, o qual corrobora o referido entendimento, litteris:
+"Desta forma, o direito à verba pleiteada na demanda originária não é na forma da Constituição Federal devida ao servidor, ora apelado. O ato infralegal descrito através de Portaria não pode se sobrepor à Constituição Federal, que determina que somente lei do respectivo ente municipal (no caso o Município de Taguatinga) poderia estabelecer verbas salariais, observando-se ainda a prévia dotação orçamentária para o atendimento às despesas de pessoal (descrita no artigo 169, da Constituição Federal)."
+(..)
+"Portanto, tenho que o direito requerido pela autora encontra obstáculo na Constituição Federal, que não permite a interpretação das Portarias objeto da presente discussão como fontes formais de direitos, capazes de criar remuneração para servidores públicos, de qualquer órgão da administração pública." (fls. 313 e 317)
+Nesse panorama, verificado que a matéria veiculada no recurso especial é própria de recurso extraordinário, apresenta-se evidente a incompetência do Superior Tribunal de Justiça para analisar a questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+No mesmo sentido, destaco os seguintes precedentes:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. LEI 12.546/2011. MP 774/2017. ACÓRDÃO RECORRIDO FUNDAMENTADO EM MATÉRIA EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF. AGRAVO INTERNO DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+(..)
+2. Ao decidir a lide, o Tribunal de origem se apoiou em fundamentação eminentemente constitucional, referente aos princípios da anterioridade nonagesimal, com previsão no art. 195, § 6o. da CF/1988, e da legalidade. Assim, não há como alterar as conclusões obtidas pelo acórdão recorrido sem que haja usurpação da competência do Supremo Tribunal Federal. Precedente: REsp. 1.793.237/PR, Rel. Min. HERMAN BENJAMIN, DJe 22.4.2019.
+(..)
+4. Agravo Interno da Contribuinte a que se nega provimento.
+(AgInt no REsp 1859437/AL, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/10/2020, DJe 08/10/2020)
+TRIBUTÁRIO E PROCESSUAL CIVIL. IPTU. IMUNIDADE RECÍPROCA. RFFSA. SOCIEDADE DE ECONOMIA MISTA. ACÓRDÃO DE ORIGEM AMPARADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL.
+(..)
+2. Da leitura do acórdão recorrido depreende-se que o Tribunal analisou a controvérsia sob o aspecto exclusivamente constitucional (imunidade tributária recíproca art. 150, VI, a, da CF/88 e jurisprudência do STF).
+3. Vê-se, assim, que a análise de questão cujo deslinde reclama apreciação de matéria de natureza constitucional é inviável no âmbito de cabimento do Recurso Especial, sendo sua apreciação de competência do STF, conforme dispõe o art. 102, III, da Constituição Federal.
+4. Agravo conhecido para negar provimento ao Recurso Especial.
+(AREsp 1692609/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/08/2020, DJe 06/10/2020)
+Ademais, para bem solucionar a lide, seria necessária a análise de normas infralegais, como aquelas contidas nas Portarias elencadas (Portaria 1.350/2002, Portaria nº 674/2003) etc., que não se enquadram no conceito de "tratado ou lei
+federal" de que cuida o art. 105, III, a, da CF, ficando fora dos limites estreitos da via eleita (Recurso Especial).
+Anote-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. AGENTE COMUNITÁRIO DE SAÚDE. PAGAMENTO DE INCENTIVO FINANCEIRO ADICIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PORTARIA DO MINISTÉRIO DA SAÚDE. EXAME EM RECURSO ESPECIAL. INVIABILIDADE. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Não se pode conhecer da irresignação contra a ofensa ao art. 9º-F da Lei 11.350/2006, pois a tese legal apontada não foi analisada pelo acórdão hostilizado.
+2. Com efeito, para que se configure o prequestionamento é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+3. Nesse contexto, por simples cotejo das razões recursais com os fundamentos do acórdão, percebe-se que a tese recursal vinculada ao dispositivo tido como ofendido não foi apreciado pela Corte a quo.
+4. Ressalte-se que nem sequer houve interposição de Embargos de Declaração, o que seria indispensável para análise de uma possível omissão no julgado.
+5. Assim, perquirir, nesta via estreita, a ofensa da referida norma, sem que se tenha explicitado a tese jurídica no juízo a quo é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. Ao ensejo, confira-se o teor da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+6. Outrossim, verifica-se que a solução da controvérsia extrapola a estreita via do Recurso Especial, visto que implica exame de violação reflexa ou indireta a texto de lei federal, já que o caso necessita primordialmente da análise da Portaria 674/2003, ato normativo que não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, "a", da CF.
+7. Recurso Especial não conhecido.
+(REsp 1829275/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/09/2019, DJe 11/10/2019)
+Finalmente, conforme entendimento desta Corte Superior, a inadmissão do recurso especial fundado na alínea a do art. 105, III, "a", da Constituição Federal, em virtude de óbice sumular, prejudica o exame do recurso quanto à divergência jurisprudencial apontado, quando o dissídio alegado repousa sobre a mesma questão (norma ou tese jurídica), como é o caso dos autos. Confiram-se: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
