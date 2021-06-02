@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AGRAVO DE INSTRUMENTO. TAXATIVIDADE. URGÊNCIA. SÚMULA N. 7/STJ. MULTA. RECURSO MANIFESTAMENTE IMPROCEDENTE. SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não tendo a Corte local concluído pela existência da urgência que autoriza a excepcionalidade da taxatividade mitigada do art. 1.015 do CPC/15, não é possível a revisão desse entendimento em sede de recurso especial em virtude do óbice da Súmula n. 7/STJ.
+2.Verificar as circunstâncias quelevarama Corte de origem a aplicar a multaa fim de desfazer a conclusão do acórdão e concluir que o agravo não era manifestamente improcedente, exigiria o exame do acervo fático-probatório dos autos, atraindo a incidência da Súmula n. 7/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto pelo Banco Santander (Brasil) S.A., contra a decisão de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AGRAVO DE INSTRUMENTO. TAXATIVIDADE. URGÊNCIA. SÚMULA N. 7/STJ. MULTA. RECURSO MANIFESTAMENTE IMPROCEDENTE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões recursais, o agravante sustenta que não incide o óbice da Súmula n. 7/STJ na medidaemque "aferir o caráter excepcional que autoriza a mitigação do rol elencado no artigo 1015 do CPC, bem como a impossibilidade da aplicação da multa de 1% prevista no § 4o do artigo 1021, do CPC, essa Colenda Corte deverá se valer exclusivamente dosfatos incontroversosadotados pelo v. acórdão para chegar à interpretação jurídica diversa" (e-STJ fl. 237).
+Pugna, por fim, pela reconsideração da decisão, em juízo de retratação, ou pelo julgamento do presente recurso pelo Órgão Colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AGRAVO DE INSTRUMENTO. TAXATIVIDADE. URGÊNCIA. SÚMULA N. 7/STJ. MULTA. RECURSO MANIFESTAMENTE IMPROCEDENTE. SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não tendo a Corte local concluído pela existência da urgência que autoriza a excepcionalidade da taxatividade mitigada do art. 1.015 do CPC/15, não é possível a revisão desse entendimento em sede de recurso especial em virtude do óbice da Súmula n. 7/STJ.
+2.Verificar as circunstâncias quelevarama Corte de origem a aplicar a multaa fim de desfazer a conclusão do acórdão e concluir que o agravo não era manifestamente improcedente, exigiria o exame do acervo fático-probatório dos autos, atraindo a incidência da Súmula n. 7/STJ.
+3. Agravo interno não provido.
+VOTO
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ, segundo a qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Trata-se, na origem, de agravo de instrumento que não foi conhecido uma vez que a matéria discutida, qual seja, pedido de nova prova pericial, não estaria inserida no rol taxativo do art. 1.015 do CPC, não se tratando dehipótese de urgência que justifiquea excepcional "taxatividade mitigada"(e-STJ fl. 80).
+No presente, a parte aduz a inaplicabilidade da Súmula n. 7/STJ, bem como a possibilidade de aplicação extensiva do art. 1.015 do CPC e de afastamento damulta aplicada com base no art. 1.021, § 4o, do CPC.
+O presente agravo não comporta acolhida.
+A despeito da argumentação recursal, o aresto combatido entendeu que "não se verifica a hipótese de urgência a justificar a excepcional admissibilidade da "taxatividade mitigada", posto que, em se tratando de perícia contábil, não haverá perecimento da prova" (e-STJ fl. 80).
+No ponto, o entendimento desta Corte Superior é firme no sentido de que não tendo a Corte local concluído pela existênciada urgênciaque autoriza a excepcionalidade da taxatividade mitigada do art.1.015 do CPC/15, não é possível a revisão desse entendimento em sede de recurso especialem virtude do óbice da Súmula n.7/STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL. ART. 1.015 DO CPC. DECISÃO INTERLOCUTÓRIA.POSSIBILIDADE DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. AUSÊNCIA DE URGÊNCIA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO PRODUZIDO NOS AUTOS.SÚMULA 7 DO STJ.
+1. O Superior Tribunal de Justiça adotou o entendimento de que a decisão interlocutória sobre competência pode desafiar a interposição de Agravo de Instrumento, corroborando o entendimento de boa parte da doutrina.
+2. O REsp 1.704.520/MT, julgado pela Corte Especial sob o regime dos recursos repetitivos, assentou a tese de que o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de Instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de Apelação. Na ocasião, modularam-se os efeitos da decisão, a fim de que a tese jurídica somente fosse aplicável às decisões interlocutórias proferidas após a publicação do acórdão, que se deu em 19/12/2018.
+3. Entretanto, na hipótese sub judice, o Tribunal local entendeu não haver urgência para a "mitigação da taxatividade do art. 1.015 do CPC." Dessa forma, analisar novamente os fatos levaria ao reexame das provas produzidas no processo. Portanto, modificar o entendimento da Corte Regional, para reexaminar o contexto fático produzido nos autos, encontra óbice na Súmula 7 do STJ.
+4. Assinale-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Recurso Especial não conhecido.
+(REsp 1883225/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/11/2020, DJe 18/12/2020)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A VIGÊNCIA DO NCPC. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DO ART. 1.015 DO NCPC. INDEFERIMENTO. PRODUÇÃO DE PROVAS. JULGAMENTO EM RECURSO REPRESENTATIVO DA CONTROVÉRSIA.TAXATIVIDADE MITIGADA. NECESSIDADE DE DEMONSTRAÇÃO DA URGÊNCIA DECORRENTE DA INUTILIDADE DO JULGAMENTO EM SEDE DE RECURSO DE APELAÇÃO. AUSÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A Corte Especial, ao julgar o Tema Repetitivo 988, consignou que o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação (REsp 1.704.520/MT, Rel. Ministra Nancy Andrighi, Corte Especial, DJe de 19/12/2018).
+3. Não tendo a Corte estadual concluído pela ocorrência da urgência que autoriza a excepcionalidade da taxatividade mitigada do art.1.015 do CPC/15 , não é possível a esta Corte rever tal entendimento ante a incidência do óbice da Súmula nº 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp 1773867/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 08/03/2021, DJe 10/03/2021)
+Ademais, no que diz respeito à multa prevista no art. 1.021, § 4º, do CPC, decidiu-se na origem pela sua aplicação em virtude manifesta improcedência de agravo de instrumento interposto contra decisão fundamentada em precedente julgado sob o regime da repercussão geral, sob o rito dos repetitivos ou quando há jurisprudência pacificada sobre o tema.
+No ponto, verificar essas circunstâncias a fim de desfazer a conclusão do acórdão e concluir que o agravo não era manifestamente improcedente, exigiria o exame do acervo fático-probatório dos autos, atraindo a incidência da Súmula n. 7/STJ.
+Colaciono:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ESTAÇÃO DE TRATAMENTO DE ESGOTO (ETE) SÃO JORGE. INDÍCIOS DE MAU CHEIRO NA REGIÃO CIRCUNVIZINHA. INSTRUÇÃO PROBATÓRIA INDISPENSÁVEL. PRODUÇÃO DE PROVA TÉCNICA. OFENSA AO ART.
+1.022 DO CPC NÃO CONFIGURADA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO. SÚMULA 283/STF. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.EMBARGOS PROTELATÓRIOS. APLICAÇÃO DE MULTA. REEXAME DOS FATOS.SÚMULA 7/STJ.
+1. Não se configura a ofensa ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Hipótese em que o Tribunal a quo anulou a sentença, por ofensa aos princípios do devido processo legal e do contraditório, e determinou o retorno do processo à primeira instância para que fosse realizada a instrução probatória, com realização de perícia com vista à obtenção de dados técnicos a respeito da qualidade do ar da região circunvizinha à ETE São Jorge.
+3. A fundamentação utilizada pelo Tribunal a quo para formar seu convencimento é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre o ponto, aplicando-se na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+4. O art. 370 do CPC/2015 consagra o princípio da persuasão racional, habilitando o magistrado a valer-se do seu convencimento, à luz das provas constantes dos autos que entender aplicáveis ao caso concreto. Não obstante, a aferição da necessidade de produção de determinada prova impõe o reexame do conjunto fático-probatório encartado nos autos, o que é defeso ao STJ, ante o óbice erigido pela Súmula 7/STJ.
+5. É pacífico no STJ que a análise do artigo 1.026, § 2º, do CPC, que trata da multa por interposição de Embargos de Declaração protelatórios, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+6. No que concerne à referida afronta ao artigo 85 do Código de Processo Civil de 2015, melhor sorte não socorre o particular, porquanto a sentença de improcedência proferida pelo juízo de piso foi anulada pelo Tribunal de origem, não havendo consequente condenação em honorários sucumbenciais.
+7. Recurso Especial do particular parcialmente conhecido, somente com relação à preliminar de violação do art. 1.022 do CPC/2015, e, nessa parte, não provido. Recurso Especial da Sanepar não conhecido.
+(REsp 1810162/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/03/2020, DJe 18/05/2020)
+Ante o exposto, nego provimento aoagravo interno.
+É o voto.
