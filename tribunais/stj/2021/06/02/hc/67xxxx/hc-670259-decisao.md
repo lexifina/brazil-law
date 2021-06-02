@@ -1,0 +1,14 @@
+DECISÃO
+Em razão do indeferimento do pedido liminar formulado no HC n. 2120011-92.2021.8.26.0000, que tramita no Tribunal de Justiça de São Paulo, impetrou-se este habeas corpus, no qual se requer, em liminar, a suspensão do trâmite da Ação Penal n. 1500298-45.2020.8.26.0218 -instaurada contra Arthur Moura de Souza pela suposta prática dos crimes dos arts. 33 e 35 da Lei n. 11.343/2006 -, com a imediata colocação do paciente em liberdade, e, no mérito,a anulação da ação penal desde o início, uma vez que subsidiada em provas ilícitas(fl. 37).
+Argumenta-se, nesse sentido, que resta evidente apresença de prova ilícita nos autos referente aos prints de mensagens de whatsapp que teriam sido captados do aparelho celular do corréu Gabriel (fls. 9/19), uma vez que repita-se tal aparelho não foi apreendido para perícia, havendo pois quebra na cadeia de custódia, e por via de consequência nulidade da prova(fls. 21/22), e que tal argumentotambém deve ser aplicado em relação ao termo de declarações de Gabriel acostado em fls. 7/8, uma vez que subsidiado na prova ilícita acima destacada e elaborado com conveniência de benefícios para ele Gabriel, após quase 2 meses da notícia ventilada na delegacia de polícia no dia 23 de abril de 2020(fl. 22).
+É o relatório.
+Segundo a pacífica orientação jurisprudencial, salvo nas situações em que a negativa do pleito de urgência configure manifesta ilegalidade, é incabível a impetração dehabeas corpuscontra decisão indeferitória de providência liminar prolatada em feito da mesma natureza (Súmula 691/STF).
+Na espécie, à primeira vista, não há evidente constrangimento ilegal a ser reparado, ao menos, por ora.
+Basta uma rápida leitura da decisão de fls. 999/1.001 para constatar que o Relator do préviowrit, ao negar o pedido urgente, apreciou tão somente os requisitos autorizadores e concluiu pela falta deles, afirmando que, naquele momento, não havia como se concluir pela presença do alegado constrangimento ilegal, umavez que o processo se encontra em fase de apresentação de memoriais, sequer contando com sentença penal, absolvendo ou condenando o paciente, de modo que prematuro qualquer juízo acerca da alegada quebra da cadeia de custódia ou de nulidade das provas obtidas, o que acarretaria indevida supressão de instância(fl. 1.001).
+Realmente, em se tratando de tema ainda não enfrentado pelo Juízo a quoe que aparentemente exigiria amplo revolvimento fático-probatório,não havia mesmo como o Desembargador concluir pela existência da apontada nulidade em um juízo de cognição preliminar.
+Convém aguardar o andamento regular dowritna origem, a fim de permitir que o órgão competente analise em maior profundidade os temas ali levantados.
+Ante o exposto,indefiro liminarmentea petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUSCONTRA DECISÃO QUE INDEFERIU A LIMINAR EM PRÉVIOWRIT. INEVIDENTE CONSTRANGIMENTO ILEGAL. APLICAÇÃO DA SÚMULA 691/STF.
+Petição inicial indeferida liminarmente.
