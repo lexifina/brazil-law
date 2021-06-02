@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo manejado por ASSOCIAÇÃO NACIONAL DOS CONTRIBUINTES DE TRIBUTOSem face de decisão que negou admissibilidade ao recurso especial por entender que a análise da pretensão recursal demandaria reexame de matéria fático probatória a atrair o óbice da Súmula nº 7 desta Corte.
+A agravante insurge-se contra a decisão agravada pugnando pelo afastamento da Súmula nº 7 do STJ, eis que a matéria discutida nos autos seria eminentemente de direito. No mérito alegaofensa aos arts. 1º e 21 da Lei nº 12.016/2009 e sustenta, em síntese, que no caso de mandado de segurança coletivo é desnecessária a juntada da relação de filiados e autorização expressa dos mesmos, domiciliados ou não na Seção Judiciária, para fins de comprovação de legitimidade e interesse processual na impetração de mandado de segurança coletivo por associação em favor dos associados, nos termos das Súmulas nºs 629 e 630 do STF, por se tratar de substituição processual.
+Requer o conhecimento do agravo para que seja analisado o recurso especial.
+Sem contrarrazões.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso foi interposto na vigência do CPC/2015, o que atrai a incidência do Enunciado Administrativo Nº 3: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante impugnou adequadamente os fundamentos da decisão agravada, razão pela qual conheço do agravo e passo ao exame do recurso especial.
+Da análise dos autos, verifica-se que as instâncias ordinárias concluíram o seguinte (fls. 593 e-STJ):
+(..)
+1. A impetrante, Associação Nacional dos Contribuintes de Tributos, ao que tudo indica, não possui associados que se beneficiariam da segurança porventura concedida neste MS.
+2. Não há sequer como definir quais seriam os possíveis filiados da associação ou mesmo qual sua área de atuação. É o que pode se observar do art. 7º do Estatuto da ANCT: "art. 7º - Sócios:Qualquer pessoa física, jurídica ou de direito público interno que seja contribuinte de qualquer competência da união, Estados ou Municípios, poderá ser admitida como Sócia.". Quer dizer:qualquer pessoa, física ou jurídica, localizada em qualquer lugar do território nacional, pode se associar e a ANCT poderia ajuizar ações de conteúdo absolutamente diverso para cada um deles.Nesses termos, a razão primordial para a criação de uma Associação (reunião de pessoas com interesses em comum para a realização de um fim específico) não se apresenta.
+3. A Oitava Turma desta Corte, em análise do interesse processual da ANCT, decidiu: "para análise da utilidade e necessidade da tutela jurisdicional, é mister que a Associação comprove, por ocasião da propositura da ação, ao menos, que possui nos seus quadros associados que, ainda que potencialmente, possam ser atingidos pelo ato de autoridade cujos efeitos pretende sustar ou desconstituir". (TRF1, AMS n. 162535320144013801/MG, Rel. Des. Fed. Marcos Augusto de Sousa, Oitava Turma, julgado em 18/09/2015).
+4. Apelação não provida.
+(..)
+Verifica-se, portanto, que a hipótese dos autos não trata apenas da necessidade de juntada da relação de filiados e autorização expressa dos mesmos, mas sim de demonstração mínima de que possui filiados para fins de aferição da necessidade/utilidade do provimento jurisdicional, as quais não teriam sido comprovadas nos autos.
+Ou seja, não foi exigido da recorrente a juntada da relação de filiados e autorização expressa dos mesmos domiciliados na Seção Judiciária. O que lhe foi exigido foi apenas a demonstração de interesse processual mínimo no sentido de comprovar a existência de filiados à associação.
+Dessa forma, não é possível a esta Corte infirmar a conclusão adotada na origem, no sentido de aferir o mínimo interesse processual, uma vez que tal análise demandaria revolvimento de matéria fático-probatória inviável em sede de recurso especial em razão do óbice da Súmula nº 7 desta Corte.
+Nesse sentido: AgInt no AREsp nº 1.410.120, Rel. Min. Og Fernandes, Dje 2.4.2020; e REsp 1.862.934/SP, Rel. Min. Regina Helena Costas, DJe 1º.4.2020.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, "a",do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. MANDANDO DE SEGURANÇA COLETIVO IMPETRADO PELA ASSOCIAÇÃO NACIONAL DOS CONTRIBUINTES DE TRIBUTOS. AUSÊNCIA DE COMPROVAÇÃO DE FILIADOS.INCIDÊNCIA DA SÚMULA Nº 7 DESTA CORTE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
