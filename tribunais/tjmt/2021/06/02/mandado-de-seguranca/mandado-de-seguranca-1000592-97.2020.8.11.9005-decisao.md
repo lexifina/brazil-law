@@ -1,0 +1,14 @@
+Vistos, etc.
+O presente Mandado de Segurança foi distribuído para a minha relatoria no dia 14/08/2020, impugnando decisão prolatada pela autoridade apontada como coatora na ação principal, feito no 8010000-45.1997.811.0001, em trâmite no 2° Juizado Especial Cível da Comarca de Cuiabá, com o objetivo de alcançar a impenhorabilidade dos valores penhorados nos autos do precatório n. 0090124-51.2019.4.01.9198, em trâmite perante o Tribunal Regional Federal da 1a Região, no valor total de R$ 465.067,54 (quatrocentos e sessenta e cinco mil, sessenta e sete reais e cinquenta e quatro centavos).
+No entanto, verifico que o Recurso Inominado da ação principal acima mencionada foi encaminhado à Turma Recursal e distribuído, no dia 09/08/2018, verifica-se que no evento no 43, foi proferido voto pelo Eminente Juiz Relator Dr. Gonçalo Antunes De Barros Neto.
+O art. 39 da Resolução N.o 009/2011/PRES/TP que instituiu a Turma Recursal Única, dispõe:
+Art. 39 - No que couber, aplicam-se, subsidiariamente, as normas do Regimento Interno do Tribunal de Justiça, sendo os casos omissos e não disciplinados pela presente Resolução solucionados pela Corregedoria Geral da Justiça com recurso, no prazo de 5(cinco) dias para o Conselho da Magistratura.
+Dispõe o art. 80, § 1o, do RJITJMT, que deve ser aplicado subsidiariamente nos julgamentos da Turma Recursal Única, in verbis:
+Art. 80 - Feito o preparo ou verificada a respectiva dispensa, os processos serão distribuídos, diariamente, por processamento eletrônico de dados, mediante sorteio aleatório e uniforme, segundo a ordem rigorosa de apresentação, observando-se as classes definidas no art. 71 e os princípios da publicidade, igualdade, alternatividade e do sorteio.
+§ 1° - A distribuição do mandado de segurança, do habeas corpus, de medidas cautelares, do recurso cível e criminal, torna preventa a competência do Relator para todos os recursos ou incidentes posteriores, tanto na ação quanto na execução, referentes à mesma lide, e a distribuição do inquérito, bem como a realizada para efeito da concessão da fiança, ou de decretação da prisão preventiva, ou de qualquer diligência anterior à denúncia ou queixa, prevenirá a ação penal.
+Se no Tribunal de Justiça o relator continua prevento para julgar incidentes posteriores, o mesmo deve ocorrer na Turma Recursal Única.
+Por tais motivos, neste caso, em meu entender, há prevenção do Juiz Membro deste órgão colegiado para o qual, previamente, foi distribuída ação principal, em conformidade com o estatuído no art. 80, § 1o, do RJITJMT.
+Ante o exposto, em face ao disposto no § 1o, do art. 80 do RJITJMT, por considerar que neste caso há prevenção do relator para o qual houve previamente a distribuição da ação principal, determino que este Writ seja redistribuído para a Relatoria do Dr. Gonçalo Antunes De Barros Neto.
+Cumpra-se.
+JORGE ALEXANDRE MARTINS FERREIRA
+Juiz de Direito Relator
