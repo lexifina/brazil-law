@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaUNIÃO, com fundamento no art. 105, III, alíneaa, da Constituição Federal, contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+Na instância de origem, a parte ora recorrida interpôs agravo de instrumento contra a decisão que, na fase de cumprimento desentença nº 50028066720174047116, que rejeitou a fixação de honorários de advogado em execução de pequeno valor.
+O Tribunal a quo deuprovimento ao recurso do sindicato, em acórdão assim fundamentado (fl. 156):
+ ..  o arbitramento de honorários do advogado em sede de cumprimento de sentença, referente à verba honorária do processo de conhecimento, não caracteriza bis in idem na medida em que sua fixação ocorre em fase distinta do processo. Esse o entendimento firmado no Superior Tribunal de Justiça e acolhido pelas Turmas com competência tributária desta Corte.
+Embargos de declaração, opostos pela União, foram rejeitados pelo acórdão de fls. 183-186.
+Nas razões do recurso especial, a Uniãoalega, inicialmente, a violação do art. 1.022, II, do CPC/2015. Sustenta que, embora tenha sido provocada por embargos de declaração, a Corte de origemdeixou de se manifestar sobre questões relevantes ao deslinde da controvérsia.
+Prosseguindo, alude a parágrafos do art.85 do CPC/2015 e ao 1º-D da Lei nº 9.494/97.
+Sustenta, em síntese, que o pagamento de honorários advocatícios, no processo de execução de honorários, constitui bis in idem, que deve ser vedado.
+Contrarrazões às fls. 217-224, pelo não conhecimento ou desprovimento do recurso especial.
+É o relatório. Decido.
+Afasto a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet n. 9.942/RS, Rel. Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp n. 1.611.355/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp n. 955.180/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp n. 1.374.797/MG, Segunda Turma, Rel. Min. Mauro Campbell Marques, DJe de 10/9/2014.
+A recorrente não defende claramente sua tese de ofensa aos dispositivos legais que cita em suas razões recursais, à exceção do art. 1022, do CPC/2015. Isso já seria o bastante para o conhecimento apenas parcial do recurso, diante do óbice a que se refere a Súmula 284/STF.
+De todo modo, esta Corte tem o entendimento de que é possível a fixação de honorários advocatícios na execução dos próprios honorários, se estes forem referentes ao processo de conhecimento, como ocorre no presente caso.
+Neste sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA.EXECUÇÃO DE SENTENÇA DE HONORÁRIOS. CABIMENTO DE NOVOS HONORÁRIOS.BIS IN IDEM. INOCORRÊNCIA.
+1. É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual é cabível o arbitramento de honorários na execução de sentença, ainda que o crédito exequendo se refira aos honorários advocatícios fixados na fase de conhecimento, sem que isso implique bis in idem, por se tratar de etapas processuais distintas.
+Precedentes: AgInt no REsp 1.457.129/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 2/5/2018; AgInt no REsp 1.666.948/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 20/8/2018;REsp 1.548.485/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 3/4/2018.
+2. A Corte Especial do STJ, no julgamento do REsp 1.5207.10/SC (Rel.Ministro Mauro Campbell Marques, DJe 27/2/2019), submetido à sistemática dos Recursos Especiais repetitivos, concluiu que, "Sob a vigência do Código de Processo Civil de 1973, os embargos do devedor constituem ação de conhecimento, que não se confunde com a ação de execução, razão porque os honorários advocatícios podem ser fixados de forma autônoma e independente em cada uma das referidas ações, desde que a cumulação da verba honorária não exceda o limite máximo de 20% previsto no § 3º do art. 20 do CPC/1973".
+3. Recurso Especial provido.
+(REsp 1.648.905/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/05/2019, DJe 23/05/2019).
+PROCESSUAL CIVIL. ANS. HONORÁRIOS ADVOCATÍCIOS. AGRAVO DE INSTRUMENTO. TÍTULO EXECUTIVO JUDICIAL. EXECUÇÃO. ART. 1.022 DO CPC 2015. OMISSÃO ACERCA DA FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. OMISSÃO INEXISTENTE. CABIMENTO DA FIXAÇÃO DE HONORÁRIOS SOBRE HONORÁRIOS.ORIUNDOS DE FASES DIVERSAS DO PROCESSO. NO CASO NÃO É POSSÍVEL NOVA FIXAÇÃO DE HONORÁRIOS. MESMA FASE PROCESSUAL. BIS IN IDEM.
+ ..
+IX - Esta Corte tem o entendimento de que é possível a fixação de honorários advocatícios na execução dos próprios honorários, se estes forem referentes ao processo de conhecimento. Não é o que ocorre no presente caso. A execução de fls. 192-193 (apenso 2) refere-se a honorários de 5% fixados pela sentença que acolheu a exceção de pré-executividade  R$ 12.978,52 (doze mil, novecentos e setenta e oito reais e cinquenta e dois centavos) . O despacho de fls. 205-206 (apenso 2) fixa honorários de 10% sobre o valor daquela execução, atuando, portanto, em bis in idem.
+X - Confira-se: EDcl no REsp n. 1.648.905/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/11/2019, DJe 18/11/2019; AgInt no REsp n. 1.528.264/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 17/6/2019, DJe 25/6/2019; REsp n.1.789.982/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 2/4/2019, DJe 23/4/2019.
+XI - Agravo interno improvido.
+(AgInt no REsp 1807917/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 26/10/2020, DJe 28/10/2020).
+PROCESSUAL CIVIL. ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA.ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV - É pacífico o entendimento no Superior Tribunal de Justiçasegundo o qual é cabível o arbitramento de honorários na execuçãode sentença, sem que isso implique bis in idem, por se tratar deetapas processuais distintas entre a execução e os embargos àexecução.
+V - A Corte Especial do STJ, no julgamento do REsp n. 1.520.710/SC (Rel. Ministro Mauro Campbell Marques, DJe 27/2/2019), submetido à sistemática dos recursos especiais repetitivos, concluiu que os embargos do devedor constituem ação de conhecimento, que não se confunde com a ação de execução, razão por que os honorários advocatícios podem ser fixados de forma autônoma e independente em cada uma das referidas ações. No mesmo sentido, destacam-se: AgInt no REsp n. 1.804.892/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 7/11/2019, DJe 19/12/2019 e AgInt no AREsp n.1.456.057 / SP, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 19/9/2019, DJe 25/9/2019.
+VI - Verificado que o acórdão recorrido está em confronto com a jurisprudência desta Corte Superior, merece acolhimento a insurgência da parte ora agravada.
+VII - Correta, portanto, a decisão monocrática que deu provimento ao recurso especial da parte.
+VIII - Agravo interno improvido.
+(AgInt no AREsp 1435795/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 10/08/2020, DJe 14/08/2020).
+Ante o exposto, com esteio no art. 255, § 4º, II, do RISTJ, conheço do recurso especial para negar-lhe provimento.
+Publique-se. Intimem-se.
