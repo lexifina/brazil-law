@@ -1,0 +1,49 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por ARCTEST-SERVICOS TEC. DE INSPECAO E MANUT. INDUSTRIAL LTDA fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal contra o acórdão proferido pelo Egrégio Tribunal de Justiça de São Paulo, assim ementado assim ementado (e-STJ fl. 62):
+Agravo de instrumento. Cumprimento de sentença. Executada que se encontra em recuperação judicial. Indeferimento do pedido de extinção da execução. Título executivo judicial constituído após pedido de recuperação judicial. Sujeição a seus efeitos descabida. Art. 49 da Lei 11.101/05. Precedentes jurisprudenciais. Agravo improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 78-80).
+Nas razões de seu recurso especial, a parte recorrente sustenta vulneração aos arts. 11, 489, §1º, II e 1.022 do CPC/15, pois o acórdão além de não estar fundamentado, não abordou a matéria do art. 172 da Lei 11.101/2005. Afirma violado o art. 49, caput, da Lei 11.101/05, na medida em que, no caso, o fato gerador do crédito se deu quando os containers não foram devolvidos e o aluguel não foi pago, fato ocorrido em julho de 2015 (fl. 84), considerando ainda que o pedido de recuperação judicial foi deferido em 03.11.2016 e a aprovação do Plano de Recuperação Judicial se deu em 27.04.2018. Afirma violados, ainda, os arts. 59 e 172 da Lei 11.101/05, pois, além de ferir a paridade entre os credores, o pagamento de crédito submetido ao processo recuperacional por via transversa é conduta criminosa.
+Não foram apresentadas contrarrazões (e-STJ fl. 130).
+Sobreveio juízo negativo de admissibilidade do Tribunal de origem (e-STJ fls. 140-143), o que ensejou a interposição do presente agravo.
+Determinei, para uma melhor análise do tema debatido, a conversão do agravo em recurso especial em recurso especial e, feitas as devidas anotações, que os autos retornassem conclusos para julgamento (e-STJ fls. 173-174).
+É o relatório.
+Passo a decidir.
+A irresignação recursal merece provimento em parte.
+De início, quanto à apontada violação aos arts. 489, § 1º, IV, do CPC e 1022 do CPC, entendo que não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que "o crédito aqui discutido constituiu-se após o pedido de recuperação, não sendo passível de sujeição aos seus efeitos, conforme artigo 49 da Lei 11.101/05".
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+No entanto, com relação ao art. 49, caput, da Lei 11.101/05, cabe razão ao recorrente.
+Cuida-se, na origem, de agravo de instrumento da decisão que, em cumprimento de sentença de execução (cobrança de aluguéis relativos à locação de containeres) em face de empresa em recuperação judicial, entendeu como extra concursal o crédito executado, uma vez que o crédito constituído se deu após o deferimento da recuperação judicial.
+O Tribunal Estadual negou provimento ao recurso da ora recorrente, mantendo a decisão agravada, ao fundamento de que a recorrida somente se tornou credora, com título executivo, na data do trânsito em julgado, data posterior ao deferimento do pedido de recuperação judicial da recorrente, razão pela qual o crédito não está sujeito aos efeitos da recuperação judicial. Eis o voto (e-STJ fls. 62-63):
+Com efeito, o título executivo judicial que embasa o presente cumprimento de sentença foi constituído em 03/07/2018, data do trânsito em julgado da sentença condenatória, enquanto o pedido de recuperação judicial fora aprovado em 27/04/2018.
+Verifica-se, portanto, que o crédito aqui discutido constituiu-se após o pedido de recuperação, não sendo passível de sujeição aos seus efeitos, conforme artigo 49 da Lei 11.101/05.
+No entanto, o entendimento adotado pelo Tribunal de Justiça do Estado de São Paulo destoa da jurisprudência desta Corte Superior, que tem se orientado no sentido de que o marco temporal para aplicação da norma do art. 49, caput, da Lei 11.101/2005 é a data da ocorrência do fato gerador da obrigação que dá origem ao crédito e que a constituição do crédito não se condiciona ao provimento judicial que declare sua existência e determine sua quantificação.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. DEVEDORA EM RECUPERAÇÃO JUDICIAL. CONSTITUIÇÃO DO CRÉDITO. EVENTO ANTERIOR AO PEDIDO DE RECUPERAÇÃO. ART. 49, CAPUT, DA LEI Nº 11.101/2005. SENTENÇA POSTERIOR IRRELEVANTE. PRECEDENTES.
+1. "Para os fins do art. 49, caput, da Lei 11.101/05, a constituição do crédito discutido em ação de responsabilidade civil não se condiciona ao provimento judicial que declare sua existência e determine sua quantificação. Precedente."
+2. "Na hipótese, tratando-se de crédito derivado de fato ocorrido em momento anterior àquele em que requerida a recuperação judicial, deve ser reconhecida sua sujeição ao plano de soerguimento da sociedade devedora." - (REsp 1.727.771/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/05/2018, DJe 18/05/2018)
+3. Agravo interno não provido.
+(AgInt no REsp 1739988/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/04/2019, DJe 02/05/2019)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA DA RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO TRABALHISTA. SERVIÇO PRESTADO EM MOMENTO ANTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. EXISTÊNCIA. SUBMISSÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. POSTERIOR SENTENÇA DECLARATÓRIA DO CRÉDITO. ATO JUDICIAL QUE DECLARA O CRÉDITO JÁ EXISTENTE EM TÍTULO JUDICIAL. CONFLITO CONHECIDO E PROVIDO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. O art. 49 da Lei 11.101/2005 prevê que "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos", o que conduz à conclusão de que a submissão de um determinado crédito à Recuperação Judicial não depende de provimento judicial anterior ou contemporâneo ao pedido, mas apenas que seja referente a fatos ocorridos antes do pedido.
+2. O art. 7º da Lei 11.101/2005 afirma que o crédito já existente, ainda que não vencido, pode ser incluído de forma extrajudicial pelo próprio Administrado Judicial, ao elaborar o plano ou de forma retardatária, evidenciando que a lei não exige provimento judicial para que o crédito seja considerado existente na data do pedido de recuperação judicial.
+3. O crédito trabalhista, relativo ao serviço prestado em momento anterior ao pedido de recuperação judicial, submete-se ao respectivo procedimento e aos seus efeitos, atraindo a competência do Juízo da Recuperação Judicial, para processar a respectiva habilitação, ainda que de forma retardatária. Precedentes da Terceira Turma.
+4. Conflito conhecido e provido para declarar competente o Juízo da Recuperação Judicial.
+(CC 139.332/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), SEGUNDA SEÇÃO, julgado em 25/04/2018, DJe 30/04/2018)
+RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. DEVEDOR EM RECUPERAÇÃO JUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. CONSTITUIÇÃO DO CRÉDITO. EVENTO DANOSO OCORRIDO EM MOMENTO ANTERIOR AO PEDIDO RECUPERACIONAL. SUBMISSÃO AOS SEUS EFEITOS. SENTENÇA CONDENATÓRIA PROFERIDA POSTERIORMENTE. IRRELEVÂNCIA.
+1. Ação ajuizada em 20/5/2013. Recurso especial interposto em 27/9/2017 e concluso ao Gabinete em 8/3/2018.
+2. O propósito recursal é definir se o crédito de titularidade das recorridas, decorrente de sentença condenatória transitada em julgado após o pedido de recuperação judicial do devedor, deve sujeitar-se ao plano de soerguimento.
+3. Devidamente analisadas e discutidas as questões controvertidas, e suficientemente fundamentado o acórdão recorrido, não há como reconhecer a ocorrência de negativa de prestação jurisdicional.
+4. Para os fins do art. 49, caput, da Lei 11.101/05, a constituição do crédito discutido em ação de responsabilidade civil não se condiciona ao provimento judicial que declare sua existência e determine sua quantificação. Precedente.
+5. Na hipótese, tratando-se de crédito derivado de fato ocorrido em momento anterior àquele em que requerida a recuperação judicial, deve ser reconhecida sua sujeição ao plano de soerguimento da sociedade devedora.
+6. Recurso especial provido.
+(REsp 1727771/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/05/2018, DJe 18/05/2018)
+Assim, considerando-se a ausência de delineamento fático suficiente para o julgamento da lide por esta Corte, torna-se imperativo o retorno dos autos à origem para que sejam novamente julgados com abordagem da questão controvertida à luz do entendimento firmado nesta Corte Superior de que o marco temporal para aplicação da norma do art. 49, caput, da Lei 11.101/2005 é a data da ocorrência do fato gerador da obrigação.
+Ante o exposto, dou parcial provimento ao recurso especial para cassar o acórdão recorrido, determinando o retorno dos autos ao Tribunal a quo para que, nos termos da fundamentação acima, realize novo julgamento.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO EMPRESARIAL E PROCESSUAL CIVIL. RECUPERAÇÃO JUDICIAL. CRÉDITO CORRESPONDENTE A FATO GERADOR ANTERIOR À RECUPERAÇÃO JUDICIAL. SUJEIÇÃO AO PLANO DE RECUPERAÇÃO JUDICIAL.
+1. Não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+2. Entendimento pacificado desta Corte Superior no sentido de que a data do fato gerador da obrigação será o marco temporal para a sujeição ou não do crédito à recuperação judicial, ainda que o trânsito em julgado e a liquidação venha a ocorrer em data posterior.
+3. RECURSO ESPECIAL PROVIDO EM PARTE.
