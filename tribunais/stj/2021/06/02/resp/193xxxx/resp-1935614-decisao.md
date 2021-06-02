@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto por BANCO BRADESCO S.A em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+"APELAÇÃO CÍVEL - EXCEÇÃO DE PRÉ- EXECUTIVIDADE - PRESCRIÇÃO INTERCORRENTE ACOLHIDA - DESÍDIA DO EXEQUENTE EM DAR ANDAMENTO A EXECUÇÃO - ÔNUS SUCUMBENCIAIS A QUEM DEU CAUSA À EXTINÇÃO - SENTENÇA REFORMADA - RECURSO PROVIDO.
+Não obstante o devedor tenha dado causa à execução de título extrajudicial, foi o exequente quem deu causa à instauração do incidente de exceção de pré-executividade, tanto que foi acolhida a preliminar de prescrição intercorrente. Deste modo, deve o exequente arcar com os ônus sucumbenciais, em razão de sua desídia em dar andamento ao processo executivo."(fl. 174)
+Nas razões do apelo, a instituição financeira aponta violação ao art. 85 do CPC/15 e dissídio jurisprudencial, sustentando, em síntese, que a extinção da execução pela prescrição intercorrente, uma vez suspenso o feito por ausência de bens penhoráveis do devedor, não pode implicar a condenação da parte exequente ao pagamento de honorários de sucumbência.
+Contrarrazões às fls. 230/249.
+É o relatório.
+O Tribunal de origem entendeu que a extinção da execução por prescrição intercorrente gera o dever da parte exequente de pagar honorários de sucumbência ao devedor, que apresentara exceção de pré-executividade. Destacam-se trechos do acórdão recorrido a esse respeito:
+"Em relação aos honorários sucumbenciais, importa esclarecer que o princípio da causalidade não se contrapõe ao princípio da sucumbência, deste modo, não obstante o devedor tenha dado causa à execução de título extrajudicial, foi o exequente quem deu causa à instauração do incidente de exceção de pré-executividade, tanto que foi acolhida a preliminar de prescrição intercorrente.
+Aliás, a prescrição intercorrente está implícita no princípio informador do instituto e da sistemática da prescrição, como forma de reprimir a conduta desidiosa do credor, que não dá sequência ao processo. Além disso, objetiva coibir execução ad eternum, bem como a observar os princípios constitucionais da duração razoável do processo e a segurança jurídica.
+Então, uma vez extinta a execução pela prescrição intercorrente arguida pelo devedor, é cabível a condenação da parte exequente pelos ônus sucumbenciais.
+(..)
+Assim, entendo perfeitamente cabível, na espécie, a condenação do apelado em honorários advocatícios pelo acolhimento da prescrição intercorrente arguida pelo executado, em vista do trabalho técnico desenvolvido pelo causídico em favor de seu cliente, que culminou na extinção da execução pela desídia e inércia do exequente de não promover o regular prosseguimento da execução, ato processual este, que certamente lhe competia.
+A inversão dos ônus de sucumbência, portanto, é medida de rigor." (fl. 175/176)
+O acórdão merece reforma.
+A jurisprudência do STJ fixou o entendimento de que, na situação já descrita acima, o credor não pode ser duplamente penalizado pela frustração do procedimento executivo (pelo não recebimento do crédito e pelo pagamento de honorários). Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. DECRETAÇÃO. HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO EXECUTADO. PRINCÍPIO DA CAUSALIDADE. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A orientação perfilhada pela Segunda Seção desta Corte, em atenção ao princípio da causalidade, é no sentido de que a parte credora, em situações como a da espécie, não pode ser duplamente prejudicada pelo reconhecimento da prescrição intercorrente, quando da extinção da execução suspensa com base no art. 791, III, do CPC/1973 (tanto pela frustração do crédito, quanto pela condenação ao pagamento de honorários de sucumbência).
+2. Agravo interno improvido." (AgInt no AREsp 1690978/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/04/2021, DJe 23/04/2021)
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para afastar a condenação da instituição financeira ao pagamento de honorários de sucumbência.
+Publique-se.
