@@ -1,0 +1,30 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso em mandado de segurança interposto por Sandro Alves Camargocontra acórdão do Tribunal de Justiça do Estado do Goiás assim ementado (e-STJ, fl. 423):
+MANDADO DE SEGURANÇA. SERVIDOR PÚBLICA APROVADA EM CONCURSO DA AGANP. LOTAÇÃO NA SECRETARIA DE EDUCAÇÃO. GRATIFICAÇÃO FUNCIONAL. AJUSTE DE REMUNERAÇÃO (AR). NÃO PREENCHIMENTO DOS REQUISITOS EXIGIDOS PELA LEI ESTADUAL Nº 17.030/2010.
+1. A Lei nº 17.030, de 02 de junho de 2010, que extinguiu o Programa de Participação em Resultados (PPR), da Secretaria da Fazenda, assegurou ao servidor em efetivo exercício na SEFAZ, que participava do aludido programa, previsto na Lei nº 16.382/2008 e na Lei nº 16.903/2010, o direito de integrar, à sua remuneração, a Gratificação de Participação em Resultados (GPR), sob o título de Ajuste de Remuneração (AR);
+2. A não comprovação quanto ao cumprimento dos requisitos exigidos pela Lei Estadual nº 17.030/2010, obsta a concessão da benesse requerida pela parte, mormente se considerado que o servidor ingressou no serviço público após a extinção do referido programa;
+3. SEGURANÇA DENEGADA.
+Oinsurgentealega, nas razões do recurso, que tem direito ao recebimento da verba denominadaAjuste de Remuneração (AR) criada pela Lei n. 17.030/2010, por ser de caráter geral e em respeito aos princípios constitucionais da isonomia, da razoabilidade e da proporcionalidade.
+Apontaque "a lotação jamais pode ser confundida com o enquadramento do servidor em uma carreira funcional, visto que a lotação é o empréstimo transitório de serviços de um agente a uma pessoa jurídica de direito público diversa a quem este servidor está precipuamente vinculado no quadro funcional. Aliás, como se vê nos documentos anexos, todos os anos eram renovadas a lotação nos órgãos e entidades por meio de Portarias expedidas pela Secretaria da Fazenda do Estado de Goiás"(e-STJ, fl. 435).
+Sem contrarrazões (e-STJ, fls. 459-460).
+Parecer do Ministério Público Federal, às e-STJ, fls. 473-476, pelo desprovimento do recurso.
+É o relatório.
+A questão controvertida não é nova nesta Corte de Justiça e já foi devidamente enfrentada pela Ministra Assusete Magalhães, no RMS 40.794/GO, no sentido de que:
+ ..  em que pese as alegações da parte recorrente, a documentação acostada aos autos, não permite, de plano, aferir os doze meses de efetivo exercício na SEFAZ, nem também concluir que participava do PPR, condição imposta pela Lei Estadual (art. 2º, caput e I, da Lei 17.030/10).
+Além disso, não restou demonstrado que os impetrantes sempre estiveram em igualdade de condições quanto à lotação, data de posse, e exercício de funções.
+Assim, ausente a demonstração do direito líquido e certo dos impetrantes, não há como ser concedida a segurança.
+No mesmo sentido, os seguintes precedentes: STJ, RMS 42.797/GO, Rel. Ministro SÉRGIO KUKINA, DJe de 28/02/2014; RMS 43.061/GO, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 05/09/2013; RMS 41.524/GO, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 02/09/2013; RMS 35.337/GO, Rel. Ministro BENEDITO GONÇALVES, DJe de 03/06/2013; RMS 41.495/GO, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 24/04/2013. (RMS n. 40.794/GO, Relatora Ministra Assusete Magalhães, DJe: 8/10/2014).
+Em idêntica direção:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SERVIDOR ESTADUAL. LEIS 16.560/2009 E 17.030/2010, DO ESTADO DE GOIÁS. SERVIDOR NÃO LOTADO NA SECRETARIA DE FAZENDA. DESCUMPRIMENTO DOS REQUISITOS LEGAIS PARA PERCEPÇÃO DAS GRATIFICAÇÕES CRIADAS PELAS REFERIDAS LEGISLAÇÕES ESTADUAIS. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Lei Goiana 16.382, de 2008, criou a Gratificação de Participação de Resultados - GPR, que fazia parte do Programa de Participação de Resultados - PPR, a qual foi posteriormente incorporada à remuneração dos Servidores em exercício na SEFAZ na forma de Vantagem Pessoal Nominalmente Identificada - VPNI pela Lei Estadual 16.520/2009.
+2. Seguiu-se a edição da Lei Estadual 17.030, de 2010, que, diante da extinção do Programa de Participação de Resultados - PPR, garantiu aos Servidores o direito de incorporar à sua remuneração a Gratificação de Participação de Resultados - GPR sob o título de Ajuste de Remuneração-AR.
+3. Para a percepção das vantagens previstas nas referidas legislações, os Servidores estaduais deveriam preencher certos requisitos, notadamente (a) integrar o quadro de pessoal da Secretaria de Fazenda do Estado de Goiás - SEFAZ; (b) estar em efetivo exercício; e (c) participar do PPR - Programa de Participação em Resultado.
+4. Observe-se que, no presente caso, os impetrantes, apesar de aprovados em concurso público para o ocupar cargos da extinta Agência Goiana de Administração e Negócios Públicos, foram remanejados para órgãos diversos da SEFAZ. Desta feita, resta clara e induvidosa a ausência de direito líquido e certo a tutelar a pretensão buscada na presente ação mandamental, pois os impetrantes não cumpriram todas as condições indispensáveis para o recebimento do aumento vencimental concedidos pela legislação de regência, que, vale ressaltar, teve por finalidade específica promover o estímulo de todos os Servidores que desempenham a atividade de arrecadação tributária no Estado de Goiás.
+5. Consoante entendimento consolidado nesta Corte Superior, inexiste direito líquido e certo a amparar a pretensão do Servidor que não atende todos os requisitos fixados em lei estadual para percepção de gratificação.
+Precedentes: AgRg no RMS 41.495/GO, Rel. Min. MAURO CAMPBELL MARQUES, DJe 20.8.2013; RMS 47.194/SC, Rel. Min. HERMAN BENJAMIN, DJe 30.6.2015; e AgRg no RMS 36.409/SC, Rel. Min. BENEDITO GONÇALVES, DJe 4.3.2015.
+6. Agravo Regimental desprovido.
+(AgRg no RMS 35.342/GO, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 10/3/2016, DJe 28/3/2016).
+Sendo assim, ausente o direito líquido e certo ensejador da concessão na via do mandado de segurança, o desprovimento do recurso é medida que se impõe.
+Ante o exposto, nego provimento ao recurso em mandado de segurança.
+Publique-se. Intimem-se.
