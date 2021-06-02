@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto pelo BANCO DO BRASIL contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO POR QUANTIA. ARREMATAÇÃO DE BEM EM LEILÃO JUDICIAL. Terceiro arrematante que pleiteia o ressarcimento de despesas efetuadas com a quitação de tributos relacionados às coisas e que não foram previstos no edital. Créditos tributários que devem ser sub-rogados no preço obtido com a alienação dos bens em hasta pública. Regra do art. 130 do CTN. Precedentes. Decisão reformada. Recurso provido.
+No presente recurso especial, a recorrente aponta violação dos arts. 121, 130 e 131 do CTN, alegando, em síntese, que a responsabilidadepelos tributos oriundos da arrematação dos veículos no leilão judicial é a própria agravada arrematante tendo em vista que a regra da sub-rogação só opera quanto aos bens imóveis.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o banco agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+A decisão proferida pelo Tribunal de origem, sobre a possibilidade de sub-rogação dos débitos anteriores ao bem móvel arrematado em caso de leilão judicial, vai ao encontro da jurisprudência do STJ.
+Confira-se:
+TRIBUTÁRIO. IPVA. VEÍCULO. LEILÃO JUDICIAL. SUB-ROGAÇÃO NO PREÇO. ARREMATANTE. RESPONSABILIZAÇÃO. PREVISÃO NO EDITAL. NECESSIDADE.
+1. Em caso de arrematação de veículo em leilão judicial, a jurisprudência firmada neste Sodalício vem admitindo a aplicação analógica do art. 130, parágrafo único, do CTN, de modo que os débitos anteriores referentes à propriedade do bem (art. 1.116 do CPC/1973 e art. 908, § 1º, do CPC/2015), inclusive os de natureza tributária, como o IPVA, sub-rogam-se sobre o preço alcançado, não sendo possível, em princípio, atribuir ao arrematante a responsabilidade para o pagamento de tais dívidas.
+2. O afastamento da regra disposta no art. 130, parágrafo único, do CTN, pressupõe expressa cláusula no edital prevendo a responsabilidade do arrematante ao pagamento dos débitos anteriores que recaiam sobre o bem.
+3. Hipótese em que, diversamente do assentado no acórdão recorrido, a informação no edital de que há débitos pendentes sobre o veículo a ser leiloado não é suficiente para atribuir a responsabilidade pelo pagamento dos mesmos ao arrematante, devendo conter previsão expressa nesse sentido.
+4. Agravo interno não provido.
+(AgInt no REsp 1789930/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 16/11/2020, DJe 27/11/2020)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUTÁRIO.
+EXECUÇÃO FISCAL. CONCURSO DE PREFERÊNCIA ENTRE PESSOAS JURÍDICAS DE DIREITO PÚBLICO. APLICAÇÃO DA REGRA PREVISTA NO ART. 187 DO CTN.
+ESPECIAL EFICÁCIA VINCULATIVA DO ACÓRDÃO PROFERIDO NO RESP 957.836/SP.
+1. É certo que a orientação desta Corte firmou-se no sentido de que, "na arrematação de bem móvel em hasta pública, os débitos de IPVA anteriores à venda subrogam-se no preço da hasta, quando há ruptura da relação jurídica entre o bem alienado e o antigo proprietário", por força da "aplicação analógica do artigo 130, parágrafo único, do CTN" (REsp 1.128.903/RS, 2ª Turma, Rel. Min. Castro Meira, DJe de 18.2.2011). No entanto, essa regra deve ser compatibilizada com o disposto no art. 187, parágrafo único, do CTN, o qual estabelece uma única hipótese de concurso de preferência do crédito tributário entre pessoas jurídicas de direito público, na seguinte ordem: 1) União; 2) Estados, Distrito Federal e Territórios, conjuntamente e pró rata; 3) Municípios, conjuntamente e pró rata.
+2. Nesse contexto, havendo a alienação judicial de veículo automotor, a satisfação de eventuais créditos tributários decorrentes da propriedade do bem (devidos ao Estado-membro) é condicionada à satisfação integral do débito tributário devido à Fazenda Pública Federal, não sendo possível efetuar-se a reserva de numerário quando não implementada a condição mencionada, sob pena de afronta ao art. 187, parágrafo único, do CTN. Esse foi o entendimento adotado pela Primeira Seção/STJ no julgamento do REsp 957.836/SP (Rel. Min. Luiz Fux, DJe de 26.10.2010  acórdão submetido à sistemática prevista no art. 543-C do CPC).
+3. Agravo regimental não provido.
+(AgRg no REsp 1322191/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 20/09/2012, DJe 26/09/2012)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
