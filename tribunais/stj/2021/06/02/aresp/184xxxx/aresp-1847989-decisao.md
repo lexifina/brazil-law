@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por DEVAIR JESUS DE MELO, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO. PENHORA ON-LINE. ALEGAÇÃO DE BLOQUEIO DE CONTA DE CADERNETA DE POUPANÇA. IMPENHORABILIDADE. ART. 833, X DO CPC/15. SEM COMPROVAÇÃO. RECURSO PROVIDO.
+1. Trata-se de Agravo de Instrumento alvejando decisão que, nos autos deexecução fiscal, deferiu o pedido de desbloqueio dos valores penhorados,via BACENJUD.
+2. Em que pese a previsão legal de impenhorabilidade da "quantiadepositada em caderneta de poupança, até o limite de 40 (quarenta)salários-mínimos", conforme preconiza o art. 833, X do CPC/15, a teor doque dispõe o art. 373, I, do CPC/15, cabe à parte executada a comprovaçãoem juízo de que os valores bloqueados detém natureza impenhorável,descabendo a sua mera alegação, de modo a desfazer a penhora eletrônicaem dinheiro.
+3. Em que pese o decidido pelo Superior Tribunal de Justiça no REsp nº1.230.060-PR, mencionado pelo Juízo de primeiro grau, se trata de acórdãonão unânime, sem força vinculante, além de que seu próprio teor ressalva anecessidade de verificação das circunstâncias do caso concreto, ao que,nestes autos, por enquanto, o que se verifica é a absoluta ausência dequalquer documentação demonstrativa da natureza da verba constrita,bem como acerca do eventual restante patrimônio do Executado, sobre oqual possa se constituir garantia à execução, ou com base no qual se possaverificar ser a verba constrita a única de que dispõe, ou que lhe sejaessencial.
+4. Agravo de Instrumento provido.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente aponta como violado o art. 833 do CPC/2015, sustentando, em síntese que, é indevido o bloqueio dos ativos financeiros contidos na conta poupança do executado, tendo em vista que, ante a comprovação da natureza de reserva financeira do quantum constrito, é impenhorável quantia inferior ao valor de 40 (quarenta) salários mínimos.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial, com base na Súmula n. 7 do STJ, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+É irrefutável que o Tribunal de origem, ao apreciar o conteúdo fático e probatório dos autos, consignou expressamente que "no presente caso, o desbloqueio de valores penhorados via sistema BACENJUD não veio acompanhado de qualquer prova no sentido de que se trata de alguma das verbas elencadas no art. 833 do CPC/15, tidas como impenhoráveis. ".
+Dessa forma, para rever tal posição, relativa à suposta comprovação da natureza de reserva financeira da quantia ora bloqueada, e interpretar o dispositivo legal indicado como violado, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
