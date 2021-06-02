@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto por JOEL BARBOSA em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AÇÃO DE ARBITRAMENTO DE HONORÁRIOS - SERVIÇOS ADVOCATÍCIOS - AUTOR E RÉU - ADVOGADOS - PARCERIA - PATROCÍNIO DE AÇÃO PREVIDENCIÁRIA - TRABALHO REALIZADO - AUSÊNCIA DE CONTROVÉRSIA - CLIENTES - REVOGAÇÃO DO MANDATO DO AUTOR - REMUNERAÇÃO - DIREITO - ARBITRAMENTO - BALIZAMENTO - ART. 22, § 2º DA LEI 8.906/94 - REPARTIÇÃO EQUITATIVA DOS HONORÁRIOS CONTRATUAIS E DOS SUCUMBENCIAIS - SENTENÇA - MANUTENÇÃO." (fl. 460)
+Os embargos de declaração foram rejeitados (fls. 471-473).
+Nas razões do recurso especial, a parte ora agravante aponta violação do art. 22 § 2º, da Lei n. 8.906/94, sustentando, em síntese, a existência de acordo escrito firmado entre as partes, ambos advogados, que em parceria atuaram em ação previdenciária, sendo que ao recorrido caberia apenas 12% dos honorários contratuais e sucumbenciais.
+Apresentadas contrarrazões ao apelo nobre (fls. 486-490).
+É o relatório.
+O eg. Tribunal de origem consigna que "A prova documental indica a atuação isolada do autor naquele feito (fls. 6/20, 25, 40/52, 62/84, 130/134), a despeito do instrumento de mandato ser outorgado a três profissionais (fls. 24). O arbitramento estabelecido na sentença respeitou os critérios delimitados na tabela da categoria. O percentual é compatível com o trabalho desenvolvido pelo autor e considerou ainda os custos inerentes para manutenção do escritório físico pertencente ao réu. A repartição da verba contratada e sucumbencial é equânime. Não comporta alteração." (fls. 461-462)
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido no que tange a necessidade de repartição equânime entre as partes da verba contratada e sucumbencial relativa a demanda previdenciária em que atuaram na condição de advogados, demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a súmula 7 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de 15% para 16% sobre o valor da atualizado da condenação.
+Publique-se.
