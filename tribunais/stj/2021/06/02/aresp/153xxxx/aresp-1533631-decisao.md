@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial interposto por VICTOR CARVALHO RASSI, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão assim ementado:
+Apelação. Cobrança. Ação monitória. Plano de saúde. Sentença que reconhece a prescrição. Pretensão ajuizada sob a égide do Código Civil de 1.916. Aplicação da regra de transição do artigo 2.028 do novo Código Civil. Não transcurso de metade do prazo prescricional do prazo previsto na lei anterior.Incidência, portanto, do prazo do artigo 206, § 5º, I, do Código Civil vigente.Prescrição Inocorrente.Contrato de prestação de serviços médicos e hospitalares que constitui documento hábil para embasamento do pedido, fundado no inadimplemento de mensalidades de plano de saúde.Débito configurado.Recurso adesivo da embargante prejudicado.Majoração dos honorários advocatícios.Inversão do resultado.Embargantes sucumbentes.Monitória procedente.Recursos do requerente provido e do requerido prejudicado (fl. 300).
+Opostos embargos de declaração, foram rejeitados.
+O recurso especialaponta, além de divergência jurisprudencial, ofensa aos arts. 178, § 6º, IX, do CC/1916, 2.028 do CC/2002 e6º da LICC (LINDB). Alegaocorrência de prescrição, afirmando que o respectivo prazo, na hipótese, é anual, bem assim,que é inaplicável a regra de transição prevista no referido art. 2.028.
+A teor das razões, as parcelas venceramna vigência do CC/1916, entre 13.8.1999e 13.1.2000, sendo a ação proposta em 4.1.2008, portanto,a prescrição ocorreu antes da entrada em vigor do CC/2002, quando "a jurisprudência do STJ, sob a égide do Código Civil de 1916, caminhava no sentido de aplicar às hipóteses de cobranças hospitalares o prazo prescricional ânuo, previsto no art. 178, § 6º, inciso IX, do CC/16, conforme decisão aclarada no próprio acórdão proferido no REsp 1.312.646/MG" (fl. 333).Acrescenta que, se aplicável o prazo quinquenal do art. 206, § 5º, I, do CC/2002, teria início em 13.1.2000.
+Contrarrazões às fls. 362/370.
+É o relatório. Decido.
+Na espécie, a recorrida, Unimed de Ribeirão Preto Cooperativa de Trabalho Médico, ajuizou ação monitória, pretendendo"o recebimento da importância de R$ 908,57 (novecentos e oito reais e cinquenta e sete centavos), em decorrência da disponibilização dos serviços médicos-hospitalares ao  recorrente , descriminados nas faturas vencidas de 13.08.1999 a 13.01.2000" (fl. 302).
+A sentença "acolheu embargos opostos por Vitor Carvalho Rassi e julgou improcedente a monitória  .. , reconhecendo a prescrição, nos termos do artigo 178, § 6º, inciso IX, do Código Civil de 1916" (fl. 300).
+ACorte estadual, por sua vez, deu provimento à apelação da ora recorrida para "julgarimprocedentes os embargos opostos e constituir em título executivo judicial a dívida indicada com a inicial e documentos que a instruem, incidindo, ainda, sobre o saldo devedor, correção monetária, desde o ajuizamento, e juros de mora de 1% a partir da citação" (fl. 323).
+No recurso especial, o recorrente defendeo reconhecimento da prescrição,afastada pelo acórdão recorrido, à base da seguinte motivação:
+A Unimed de Ribeirão Preto objetiva o recebimento da importância de R$ 908,57 (novecentos e oito reais e cinquenta e sete centavos), em decorrência da disponibilização dos serviços médicos-hospitalares ao apelado, descriminados nas faturas vencidas de 13.08.1999 a 13.01.2000.
+Assim, o caso em tela versa sobre obrigação líquida, vencida e não paga, originária de contrato de plano de saúde celebrado entre as partes, mediante prestação de serviços médicos e hospitalares.
+Considerando que o contrato de plano de saúde não é uma espécie de seguro, conclui-se que não se aplica o prazo ânuo do artigo 178, § 6º, inciso IX, do CC antigo, mas o prazo vintenário da regra subsidiária do artigo 177 do mesmo Código.
+No caso dos autos, como a pretensão nasceu sob a égide do Código Civil de 1916, aplica-se a regra de transição estabelecida no art. 2028 do CC vigente:
+(..)
+De acordo com essa regra, aqui não transcorreu mais da metade do prazo prescricional estabelecido no diploma anterior, de sorte que a norma de regência da hipótese é a do art. 206, § 5º, I, do Código Civil, que prevê o lapso temporal de cinco anos para a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular.
+(..)
+Assim, a contagem do prazo prescricional iniciou-se em 12 de janeiro de 2003, quando do início da vigênciado Código Civil atual, expirando, portanto, em 11 de janeiro de 2008, enquanto a presente foi ajuizada em 04/01/2008 (fl. 02), quando ainda não transcorrido o lapso prescricional (fls. 302/303).
+Dessa forma, o acórdão recorrido está consonância com ajurisprudência desta Corte, segundo a qual oprazo prescricional a que se submete a pretensão de cobrança de dívidas líquidas e certas, constantes de documento público ou particular era, ao tempo do CC/1916 de vinte anos (art. 177) e, a partir do CC/2002, de cincoanos (art.206, § 5º).
+No caso, a ação monitória foiajuizada em 4.1.2008,pretendendo o recebimento de valor correspondente afaturas vencidas no período de 13.8.1999 a 13.1.2000. Considerando que na data da entrada em vigor do CC/2002 ainda não havia transcorrido mais da metade do prazo prescricional de vinteanos estabelecido no CC/1916, deve ser aplicado o novo prazo de cincoanos, contado de 11 de janeiro de 2003 (início da vigênciado novo CC).Nesse contexto,correto o afastamento da prescrição.
+A propósito:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRAZO PRESCRICIONAL. COBRANÇA DE DÍVIDAS LÍQUIDAS E CERTAS. MENSALIDADES DE PLANO DE SAÚDE. INOVAÇÃO RECURSAL.
+1.O prazo prescricional a que se submete a pretensão de cobrança de dívidas líquidas e certas, constantes de documento público ou particular era, ao tempo do Código Civil de 1916 de 20 anos (artigo 177) e, a partir do Código Civil em vigor, de 05 anos (artigo 206, § 5º).
+2. Os argumentos no sentido de que não se trata de cobrança de dívida líquida e certa não foram objeto de insurgência do Recurso Especial constituindo-se, portanto, em inovação recursal, incabível em sede de Regimental.
+3.Agravo improvido (AgRg no AREsp 291578/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 2.4.2013)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. DÍVIDA FUNDADA EM INSTRUMENTO PARTICULAR. PRESCRIÇÃO QUINQUENAL. ART. 206, § 5º, I, DO CÓDIGO CIVIL. AGRAVO INTERNO NÃO PROVIDO.
+1. A ação monitória visando à cobrança de dívida líquida fundada em contrato particular sujeita-se ao prazo prescricional de 5 (cinco) anos, nos termos do art. 206, § 5º, I, do Código Civil. Precedentes.
+2. Agravo interno não provido(AgInt no AgInt no AREsp 1589400/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 1.7.2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. PRESCRIÇÃO. INSTRUMENTO PARTICULAR. ARTIGO 206, § 5º, I, DO CÓDIGO CIVIL. PRAZO PRESCRICIONAL. PRECEDENTES.
+1. A ação monitória fundada em instrumento particular está subordinada ao prazo prescricional de 5 (cinco) anos, nos termos do artigo 206, § 5º, I, do Código Civil.
+2. Agravo interno não provido(AgInt nos EDcl no AREsp 257.426/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 4.4.2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA.CONTRATO DE MÚTUO. PRESCRIÇÃO QUINQUENAL. ART. 206, § 5º, DO CÓDIGO CIVIL DE 2002. IMPROVIMENTO.
+1.Aplica-se a prescrição quinquenal, prevista na regra do art.206, § 5º, I, do Código Civil de 2002, às ações de cobrança em que se requer pagamento de dívida líquida constante de instrumento particular de natureza pessoal.
+2.Aplicação da regra de transição acerca da prescrição, considerando-se interrompido o prazo na data do início da vigência do Código Civil de 2002 (11/01/2003) e passando a fluir, desde então, a prescrição quinquenal do novo estatuto civil.
+3.Agravo Regimental improvido(AgRg no AREsp 420.703/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 9.12.2013)
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO MONITÓRIA. NOTA PROMISSÓRIA. PRAZO PRESCRICIONAL. ART. 206, § 5º, I, DO CÓDIGO CIVIL DE 2002. AGRAVO NÃO PROVIDO.
+(..)
+2. In casu, a ação monitória, ajuizada em 08.10.2008, está fundada em nota promissória com vencimento em 10.06.2001. Em razão da regra de transição do art. 2.028 do Código Civil de 2002, observa-se que, no dia da vigência do referido diploma legislativo, 11.01.2003, não houve o transcurso de mais da metade do antigo prazo prescricional - 20 (vinte) anos - para a realização da cobrança do débito inserto naquele instrumento (art. 177 do CC/16). Desse modo, é de rigor a incidência do lapso de 5 (cinco) anos a partir do dia 11.01.2003, o prazo para reger a prescrição da pretensão de cobrança de dívidas líquidas constantes de instrumento particular, consoante o art. 206, § 5º, I, do Código Civil de 2002.
+3. Agravo interno a que se nega provimento(AgInt no AgInt no REsp 1474396/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 22.11.2016)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544, DO CPC) - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO DA INSTITUIÇÃO FINANCEIRA.
+1. Prescrição da ação monitória. Dívida fundada em instrumento particular. Aplicação do prazo quinquenal previsto no art. 206, § 5º, inciso I, do CPC. Precedentes.
+2. Agravo regimental desprovido, com aplicação de multa
+(AgRg no AREsp 197.627/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA,DJe 21.5.2013).
+Incide no caso, portanto, oóbice da Súmula 83/STJ, ficandoprejudicado o exame da divergência jurisprudencial.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do CPC, majoro em 1% os honorários advocatícios devidos ao recorrido.
+Publique-se.
