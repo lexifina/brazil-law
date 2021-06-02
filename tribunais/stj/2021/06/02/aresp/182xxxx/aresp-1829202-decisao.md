@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especialinterposto por IVAN GONÇALVES SCHINKAREW, comfundamento no art. 105, III, "a",da Constituição Federal, contraacórdão do eg. Tribunal de Justiça do Estado de São Paulo,assim ementado:
+"AGRAVO DE INSTRUMENTO. Cumprimento de sentença de ação monitória. Impugnação rejeitada. Insurgência com relação ao termo inicial dos juros de mora. Sentença transitada em julgado. Coisa julgada material. Preclusão configurada. DESPESASPROCESSUAIS. Condenação do recorrido ao pagamento das despesas processuais. Cálculos que devem ser elaborados de acordo com os termos da sentença. Recurso parcialmente provido."
+Os embargos de declaração foram rejeitados, vide acórdão de fls. 40-45.
+Nas razões do recurso especial, a parte recorrente defende violação aos arts.240 e 503 do Código de Processo Civil de 2015, bem como ao art. 405 do Código Civil. Sustenta, em síntese, que o termo inicial dos juros de mora não foram tratados na sentença e não há que se falar em ofensa à coisa julgada, uma que o tema é de ordem pública e não preclui.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Com efeito, ao apontar violação aos arts. 240 e 503 do CPC/2015, além do art. 405 do CC, a parte recorrente defende a inexistência de coisa julgada material acerca do termo inicial dos juros de mora, por não ter sido tratado na sentença que transitou em julgado, bem como por se tratar de matéria de ordem pública. Por sua vez, o TJ-SP assim entendeu a controvérsia:
+"Em consulta aos autos de origem, vê-se que a sentença de procedência dos embargos monitórios transitou em julgado em 05/03/2018 (fls. 232). Apesar de se tratar de matéria de ordem pública, a questão acerca do termo inicial dos juros de mora não comporta discussão após o trânsito em julgado da sentença, eis que, no caso, são consideradas deduzidas e repelidas todas as alegações e defesas que a parte poderia o portanto ao acolhimento quanto à rejeição do pedido (artigo 508, do Código de Processo Civil). Assim, a alteração do termo inicial dos juros de mora neste momento processual implicaria em modificação da sentença transitada em julgado, o que não é admitido."
+Da leitura do excerto ora transcrito, verifica-se que o Tribunal de origem concluiu pela impossibilidade de modificação do termo inicial dos juros de mora, por ofensa à coisa julgada.
+Sobre o tema, tem-se que a iterativa jurisprudência desta Corte se firmou no sentido de que aalteração do termo inicial dos juros de mora estabelecido no título exequendo configura violação da coisa julgada. A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. NOVO EXAME DO AGRAVO NOS PRÓPRIOS AUTOS. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA. TERMO INICIAL. ALTERAÇÃO. OFENSA À COISA JULGADA. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO NOS PRÓPRIOS AUTOS DESPROVIDO.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. A alteração do termo inicial dos juros de mora estabelecido no título exequendo configura violação da coisa julgada. Precedentes.
+3. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos."
+(AgInt no AREsp 1297237/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 14/09/2020, DJe 22/09/2020)
+Nesse contexto, estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+Ademais, a pretensão de modificar o entendimento firmado pelo Tribunal de origem, acerca da definição do termo inicial dos juros de mora demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
