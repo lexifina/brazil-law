@@ -1,0 +1,34 @@
+DECISÃO
+1. Cuida-se de agravo interposto por AMILTON ANTONIO XAVIER PEREIRAcontra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO REVISIONAL DE CONTRATO.PRELIMINAR. DIVERSAMENTE DO APONTADO PELO RECORRIDO, RESTARAM SUFICIENTEMENTE DEMONSTRADAS AS RAZÕES DO INCONFORMISMO DA PARTE RECORRENTE NOS TERMOS DO ART.1.010 DO CÓDIGO DE PROCESSO CIVIL/2015.
+CÓDIGO DE DEFESA DO CONSUMIDOR. APLICÁVEL ÀS OPERAÇÕES DE CONCESSÃO DE CRÉDITO E FINANCIAMENTO. SÚMULA N. 297 DO STJ.
+CAPITALIZAÇÃO DE JUROS. POSSIBILIDADE DE INCIDÊNCIA DE CAPITALIZAÇÃO DE JUROS EM PERIODICIDADE INFERIOR À ANUAL APÓS A EDIÇÃO DA MEDIDA PROVISÓRIA N. 2.170-36/2001 (ART. 5º), PRESENTE INCLUSIVE O RE N. 592.377/RS, COM REPERCUSSÃO GERAL RECONHECIDA. "A CAPITALIZAÇÃO DOS JUROS EM PERIODICIDADE INFERIOR À ANUAL DEVE VIR PACTUADA DE FORMA EXPRESSA E CLARA. A PREVISÃO NO CONTRATO BANCÁRIO DE TAXA DE JUROS ANUAL SUPERIOR AO DUODÉCUPLO DA MENSAL É SUFICIENTE PARA PERMITIR A COBRANÇA DA TAXA EFETIVA ANUAL CONTRATADA." - RESP N. 973.827/RS.
+DA TARIFA DE CADASTRO. CONFORME ENTENDIMENTO DO E.SUPERIOR TRIBUNAL DE JUSTIÇA (RESP N. 1.251.331/RS), "PERMANECE VÁLIDA A TARIFA DE CADASTRO EXPRESSAMENTE TIPIFICADA EM ATO NORMATIVO PADRONIZADOR DA AUTORIDADE MONETÁRIA, A QUAL SOMENTE PODE SER COBRADA NO INÍCIO DO RELACIONAMENTO ENTRE O CONSUMIDOR E A INSTITUIÇÃO FINANCEIRA", RESSALVADA EVENTUAL ABUSIVIDADE NO CASO CONCRETO.DA TARIFA DE ABERTURA DE CRÉDITO (TAC) E DA TARIFA DE EMISSÃO DE CARNÊ (TEC). AUSENTE COBRANÇA NO CONTRATO.
+RECURSO PREJUDICADO NO PONTO.
+COMPENSAÇÃO E/OU REPETIÇÃO SIMPLES. CABÍVEL CASO VERIFICADA A COBRANÇA DE VALORES INDEVIDOS.
+DESCARACTERIZAÇÃO DA MORA E TUTELA PROVISÓRIA.
+DEPENDE DO RECONHECIMENTO DE ABUSIVIDADE EM ENCARGO(S) PREVISTO(S) PARA O PERÍODO DA NORMALIDADE CONTRATUAL (JUROS REMUNERATÓRIOS E CAPITALIZAÇÃO DE JUROS).
+DO PREQUESTIONAMENTO. DESNECESSÁRIA A INDICAÇÃO EXPRESSA DE TODOS OS FUNDAMENTOS LEGAIS EVENTUALMENTE INCIDENTES NO CASO, SENDO SUFICIENTE PREQUESTIONAMENTO IMPLÍCITO.
+PRELIMINAR REJEITADA. APELO IMPROVIDO.
+Nas razões do recurso especial, aponta a parte recorrente dissídio jurisprudencial. Insurge-se, em suma, contra a capitalização diária dos juros e contra a caracterização da mora.
+Decido.
+2. A eg. Segunda Seção, ao julgar o REsp 973.827/RS nos moldes da Lei dos Recursos Repetitivos, decidiu ser permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31/3/2000, data da publicação da MP 1.963-17/2000, em vigor como MP nº 2.170-01, desde que expressamente pactuada. A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada.
+Vale conferir aseguintesúmula:
+É permitida a capitalização de juros com periodicidade inferior à anual em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/3/2000 (MP n. 1.963-17/2000, reeditada como MP n. 2.170-36/2001), desde que expressamente pactuada.
+(Súmula 539, SEGUNDA SEÇÃO, julgado em 10/06/2015, DJe 15/06/2015)
+No caso, quanto à capitalização diária dos juros, importa destacar que ficou consignado no acórdão recorrido (fl. 202) quehá expressa previsão de capitalização diária no contrato.
+Nesse contexto, o acolhimento da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, bem como interpretação de cláusulas contratuais, atraindo os óbices das Súmulas 5 e 7 do STJ.
+Nessa linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. CAPITALIZAÇÃO DIÁRIA. MP 2.170-36/2001. APLICAÇÃO DA SÚMULA 83 DO STJ. CARACTERIZAÇÃO DA MORA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. A eg. Segunda Seção do STJ, em sede de julgamento de recurso especial representativo da controvérsia, firmou tese no sentido de que: (a) "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada"; e (b) "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (REsp 973.827/RS, Ministra MARIA ISABEL GALLOTTI, Rel. p/ acórdão SEGUNDA SEÇÃO, julgado em 08/08/2012, DJe de 24/09/2012).
+2. Na hipótese, o acórdão recorrido consignou a existência de pactuação de capitalização diária, razão pela qual não está a merecer reforma. Precedentes do STJ.
+3. O reconhecimento da validade dos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) implica a caracterização da mora.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1638011/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/05/2020, DJe 04/06/2020)
+3. Embora o simples ajuizamento de ação revisional não implique o afastamento da mora (RESP 607.961/RJ, Segunda Seção, Rel. Min. Nancy Andrighi, julgado de 09.03.2005), o abuso na exigência dos "encargos da normalidade", quais sejam os juros remuneratórios e a capitalização de juros, descaracterizam a mora do devedor (ERESP 163.884/RS, Segunda Seção, Rel. Min. Barros Monteiro, Rel. p/ Acórdão Min. Ruy Rosado de Aguiar, julgado em 23.05.2001; Resp n. 1.061.530, Segunda Seção, Rel. Min. Nancy Andrighi, julgado em 22.10.2008).
+Esse posicionamento também foi confirmado no recurso especial repetitivo já mencionado (Resp n. 1.061.530 de 22.10.2008):
+CONFIGURAÇÃO DA MORA a) O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descarateriza a mora; b) Não descaracteriza a mora o ajuizamento isolado de ação revisional, nem mesmo quando o reconhecimento de abusividade incidir sobre os encargos inerentes ao período de inadimplência contratual.
+Na espécie, não se constatou nenhum abuso nos encargos da normalidade, de modo que é inviável acolher a pretensão de descaracterizar a mora.
+4. Ante o exposto, nego provimento ao agravo em recurso especial.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
