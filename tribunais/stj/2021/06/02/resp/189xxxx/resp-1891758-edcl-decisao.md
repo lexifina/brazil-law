@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PMI SOUTH AMERICA CONSUMER GOODS LTDA contra a decisão monocrática que, às fls. 834-837, determinou o retorno dos autos ao Tribunal de origem em virtude da pendência da apreciação do Tema n. 1.076/STJ.
+Em seus aclaratórios, o contribuinte suscitou que o decisum ora embargado foi omisso em relação à possibilidade da aferição, por esta Corte Superior, da adequação do percentual da verba honorária estabelecido pelo Tribunal de origem.
+É o relatório. Decido.
+Primeiramente, cumpre destacar que o contribuinte, em seu recurso especial, sustentou que o Tribunal de origem, ao estipular o valor da condenação sucumbencial em R$ 5.000,00 (cinco mil reais), não observou os critérios legais estabelecidos pelo CPC/2015, tendo em vista que o referido codex prescreve que a verba honorária deve ser fixada observando os critérios contidos nos incisos I a IV do § 2º e os percentuais delimitados no § 3º do art. 85 do CPC/2015.
+Assim, diante de tal argumentação, é que foi proferida a decisão ora embargada determinando o retorno dos autos ao Tribunal de origem, tendo em vista que a "definição do alcance da norma inserta no § 8º do artigo 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados, foi afetada para julgamento sob a sistemática do repetitivo, nos REsp"s n. 1850512 e 1877883, Tema n. 1.076/STJ.".
+De fato, não há como aferir se o percentual estabelecido na origem para a percepção de honorários advocatícios é ou não irrisório sem a prévia definição do próprio alcance da norma inserta no § 8º do art. 85 do CPC/2015, haja vista que é o mencionado dispositivo que autoriza a definição da verba honorária por apreciação equitativa.
+Assim, é nítida a ausência de lógica em se considerar a apreciação de parcela do recurso especial que evidentemente pode restar prejudicada após a definição da tese no julgamento do Tema n. 1.076/STJ, razão pela qual, o presente recurso não comporta conhecimento em consonância com a Súmula n. 284/STF.
+Ante o exposto, não conheço dos embargos de declaração.
+Publique-se. Intimem-se.
