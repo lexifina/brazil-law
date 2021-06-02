@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto por FLABINO DE CARVALHO JUNIOR com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"EMENTA: AGRAVO DE INSTRUMENTO - AGRAVO DE INSTRUMENTO - MATÉRIA NÃO APRECIADA PELO JUIZ - COGNIÇÃO NA SEGUNDA INSTÂNCIA - IMPOSSIBILIDADE - OFENSA AO DUPLO GRAU DE JURISDIÇÃO - VÍCIO EM INTIMAÇÕES - NULIDADE - IMPOSSIBILIDADE DE PRONÚNCIA - DECISÃO DE MÉRITO FAVORÁVEL À PARTE PRETERIDA - SUB-ROGAÇÃO LEGAL - OPERAÇÃO PARCIAL - EFICÁCIA - LIMITAÇÃO AO MONTANTE PAGO - SUBSISTÊNCIA DO CRÉDITO REMANESCENTE DO CREDOR ORIGINÁRIO.
+A cognição na instância recursal de matéria ainda não apreciada pelo juízo a quo é inviabilizada por caracterizar supressão de instância, em notória ofensa ao princípio do duplo grau de jurisdição.
+Inviável a pronúncia de nulidade de ato processual na hipótese em que puder ser proferida decisão de mérito favorável à parte preterida no ato viciado.
+Havendo sub-rogação legal parcial, ao sub-rogado é transferido todos os direitos e ações do credor originário, limitados à soma que aquele tiver desembolsado, subsistindo o crédito do credor originário quanto à parte não paga." (fl. 327)
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, o recorrente aponta violação aos arts. 489, §1º, IV e 1.022, parágrafo único, II, do Código de Processo Civil de 2015 e 347, I, do Código Civil de 2002, sustentando, em síntese, (a)ocorrência de omissão no acórdão recorrido e,(b) não integra o pólo passivo da lide e não é sucumbente, portanto, não pode ser responsabilizado pelo pagamento de honorários advocatíciosem favor do ora recorrido.
+Apresentada contrarrazões às fls. 396-398.
+É o relatório.
+Consoante se extrai dos autos, verifica-se que o eg. Tribunal a quo não se manifestou sobre as alegações dos recorrentes, suscitadas nos embargos de declaração quanto ao fato de que "(i) o Embargante jamais ingressou ou deveria ingressar no polo passivo da lide; e (ii) o Embargante, credor e não sucumbente, não poderia ser responsabilizado pelo pagamento dehonorários advocatícios em favor do Embargado, à míngua de qualquer convenção nesse sentido", o recorrente é "terceiro à lide originária", "não há nem nunca houve litisconsórcio entre o Embargante e demais Executados" e a aplicação do art. 347, I, do Código Civil.
+Nessas condições, não existindo enfrentamento do tema e portanto, omisso o acórdão recorrido, impõe-se o reconhecimento da alegada violação ao art. 1022 do CPC/2015.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar o retorno dos autos à egrégia Corte de origem para que se pronuncie sobre os pontos indicados, nos termos da fundamentação acima.
+Publique-se.
