@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SEGURADORA LÍDER DOS CONSÓRCIOS DO SEGURO DPVAT S.A., contra decisão monocrática desta Relatoria quedeu provimento ao recurso especial para afastar a incidência de correção monetária sobre o valor da indenização referente ao seguro obrigatório (DPVAT), mantidos os ônus sucumbenciais na forma fixada pela Corte de origem.
+Em suas razões, alega aembargante que existeuma pequena contradição nadecisão embargada, pois tendo sido provido o recurso especial e julgado totalmente improcedente o pedido do autor dessa ação, a imposição de pagamento de honorários advocatícios sucumbenciais deve recair apenas sobre o autor da ação.
+Intimado, o embargado não apresentou impugnação (e-STJ fl. 501)
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Alega o embargante, em síntese, que tendo sido provido o recurso especial e julgado totalmente improcedente o pedido do autor, a imposição de pagamento de honorários advocatícios sucumbenciais deve recair apenas sobre o autor da ação.
+De fato, o autor propôsa presente demanda pleiteandoa complementação da indenização do seguro DPVAT em razão de acidente de trânsito que sofreu e a correção monetária do valor pago administrativamente.
+Na sentença (e-STJ fl. 320/324), foi julgado improcedente o pedido decomplementação da indenização do seguro DPVAT e procedente o pedido de correção monetária da quantia paga administrativamente, reconhecida asucumbência recíproca, nos seguintes termos:
+"Ante a sucumbência reciproca, condeno a ambas as partes, na proporção de 50% para cada, ao pagamento das custas e despesas processuais e honorários advocaticios os quais arbitro em 20% sobre o valor da condenação, à vista do disposto no art. 85, §2º, do Código de Processo Civil, levando-se em consideração o grau de zelo do profissional, o lugar de prestação do serviço e a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço." (e-STJ fl. 324)
+A Corte de origem negou provimento à apelação daSeguradora recorrente, mantendo integralmente a sentença (eSTJ fl. 386/391)
+A decisão embargada, por sua vez,deu provimento ao recurso especial para afastar tambémincidência de correção monetária sobre o valor da indenização referente ao seguro obrigatório (DPVAT), de modo que os pleitos do autor restaram totalmente improcedentes.
+Sendo assim, não há que se falar em sucumbênciarecíproca, devendo o autor arcar integralmentecom as verbas sucumbenciais.
+Diante do exposto, acolho os embargos de declaração, sanando a contradição apontada para que na decisão embargada de fls. 490/492(e-STJ), onde se lê:
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para afastar a incidência de correção monetária sobre o valor da indenização referente ao seguro obrigatório (DPVAT), mantidos os ônus sucumbenciais na forma fixada pela Corte de origem.
+Leia-se:
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para afastar a incidência de correção monetária sobre o valor da indenização referente ao seguro obrigatório (DPVAT), julgandoimprocedentesos pedidos da inicial.
+Condeno orecorridoao pagamento das custas e honorários advocatícios, estes fixados em 10% sobre o valor da causa,ressalvados os efeitos de eventual concessão do benefício da assistência judiciária gratuita.
+Publique-se.
