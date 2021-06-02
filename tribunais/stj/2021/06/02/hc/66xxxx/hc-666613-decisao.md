@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor deANTONIO LUIZ DA SILVAem que se aponta como autoridade coatora Tribunal de Justiça do Estado de São Paulo (HC n. 2048015-34.2021.8.26.0000).
+O paciente, preso em flagrante no dia 5/3/2021, teve a prisão convertida em preventiva a pedido do Ministério Público (fl. 116) por suposta prática do delito descrito nos arts. 33, caput, da Lei n. 11.343/2006 e 180, caput, na forma do art. 69 do Código Penal.
+O decreto prisional fundou-se na quantidade dos entorpecentes apreendidos - 4 porções de maconha e 205 papelotes de cocaína -, além de R$ 4.826,00, 2 celulares e na reincidência específica. Foram localizados também 4 galões contendo óleo diesel no interior da propriedade, cada qual com 50 litros aproximadamente.Impetrado writ na origem, a ordem foi denegada.
+O Tribunal de origem, ao analisar e manter os fundamentos da decisão, reforçou que o paciente foi surpreendido comprando combustível subtraído da carreta de uma empresa, estando na posse de 4 galões, com 50 litros cada qual, de óleo diesel (fl. 77).
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal, diante da ilicitude do decreto prisional, pois baseado em fundamentação inidônea e sem elemento concreto que evidencie a real necessidade da custódia.
+Argumenta que a prisão se pautou somente nos antecedentes criminais do paciente e na gravidade abstrata do delito.
+Aduz ser o paciente portador de doença cardíaca, necessitando de cuidados médicos, a seenquadrar nas condições estabelecidas pela Recomendação CNJ n. 62/2020.
+Requer, liminarmente e no mérito, seja suspensa cautelarmente a ordem de prisão preventiva, com a imposição das medidas alternativas previstas no art. 319 do CPP. Subsidiariamente, pleiteia a substituição da prisão cautelar por prisão domiciliar.
+O pedido de liminar foi indeferido, nos termos da decisão defls. 278-279.
+As informações foram prestadas às fls. 283-284e 315-316.
+O Ministério Público Federal manifestou-se pelo não conhecimento dowrite, caso dele se conheça, pela denegação da ordem(fls. 339-342).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJconsidera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 80-81):
+No caso dos autos afere-se que Antonio, embora já condenado pela prática de crime de tráfico ilícito de drogas, foi preso em flagrante na posse de 32g de maconha, dividida em 04 porções, e 206g de cocaína, distribuída em 205 papelotes, além de ter sido surpreendido adquirindo 04 galões de óleo diesel, com 50 litros cada, produto de ilícito patrimonial, circunstâncias estas, concretas e relativa à pessoa do paciente, que demonstram sua periculosidade e que ele, em liberdade, tornaria a delinquir, a impor a excepcional prisão preventiva como necessária e adequada para a garantia da ordem pública.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ademais, a reincidência específica evidencia maior envolvimento do paciente com a prática delituosa e constitui fundamento idôneo para a manutenção da custódia cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva (HC n. 603.340/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Por fim, no que diz respeito à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o preso preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, opaciente não demonstrou o alegado constrangimento ilegal decorrente da decisão impugnada.
+Ademais, para rever o entendimento adotado pela Corte de origem, seria necessário o revolvimento de matéria fático-probatória, procedimento vedado em habeas corpus.
+Confiram-se, a propósito, estes julgados: AgRg no HC n. 602.863/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020; e AgRg no HC n. 605.161/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 9/9/2020.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
