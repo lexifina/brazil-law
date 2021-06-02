@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por POSTO VIDALENSE E OUTROS em face de decisão desta relatoria, que deu provimento ao recurso especial.
+Os embargantes alegam, em síntese, (a) "há determinação de penhora, imóvel penhorado e avaliado no montante de R$ 950.000,00 (novecentos e cinquenta mil reais), já havendo, portanto, bem que satisfaça integralmente a execução. Importante destacar a deslealdade processual e litigância de má da Distribuidora Recorrente que mesmo tendo plena ciência da garantia dou juízo por penhora de bem imóvel, insiste com tese falaciosa que o juízo não se encontra garantido" (fl. 224) e (b) "além da existência da garantia de juízo, indicada pela penhora e avaliação de bem imóvel, restando preenchidos os requisitos para a suspensão da execução com fulcro no artigo 919, §1 do Código de Processo Civil" (fl. 226).
+Impugnação às fls. 244/246.
+É o relatório.
+Na forma do art. 1.022 do CPC/15, cabem embargos de declaração em face da decisão que incorre em omissão, contradição, obscuridade ou erro material.
+De início, anota-se que inexiste omissão a respeito da norma do art. 313, V, do CPC/15 (que impõe a suspensão do processo diante de prejudicialidade externa), pois é aplicável ao processo de conhecimento, devendo prevalecer, na hipótese, o entendimento do STJ já citado na decisão embargada, segundo o qual a suspensão da execução, mesmo ante a pendência de ação revisional, depende da prévia garantia do juízo.
+Quanto à alegação dos embargantes de que a presente execução está integralmente garantida pela penhora de imóvel, apesar de ter havido a juntada de documentos à petição dos embargos de declaração indicando essa circunstância, é de se reconhecer que isso é objeto de controvérsia entre as partes, consoante se observa da impugnação às fls. 244/246.
+Diante disso e tendo em vista que esta Corte Superior não resolve controvérsias fáticas em sede de recurso especial, dado o óbice da Súmula n. 7/STJ, é prudente determinar o retorno dos autos ao juízo de 1º grau, que deve reexaminar o pedido de suspensão da execução à luz da jurisprudência do STJ.
+Ante o exposto, acolho em parte os embargos de declaração para, conferindo efeitos modificativos à decisão às fls. 213/216, determinar o retorno dos autos ao juízo de 1ª instância, para novo exame da controvérsia conforme anotado acima.
+Publique-se.
