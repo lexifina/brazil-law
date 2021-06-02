@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por FRANCISCA DE FATIMA COSTA MOURA, com fulcronas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOSassim ementado (e-STJ fl. 623):
+APELAÇÃO CÍVEL. CIVIL E PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. PASEP. LEI COMPLEMENTAR Nº 26/75. PRINCÍPIO DA DIALETICIDADE. PRELIMINAR DE NÃO CONHECIMENTO REJEITADA. PRESCRIÇÃO QUINQUENAL. DECRETO Nº 20.910/32. TERMO INICIAL. ACTIO NATA. SAQUE DOS VALORES. SENTENÇA MANTIDA.
+1. Não fere o princípio da dialeticidade se o recurso interposto confronta os fundamentos de fato e de direito da decisão impugnada, visando situação processual mais vantajosa que aquela que fora estabelecida. Preliminar de não conhecimento rejeitada.
+2. O prazo prescricional para se pleitear irregularidades nos saldos das contas do Programa de Formação do Patrimônio do Servidor - PASEP é de cinco anos, conforme precedentes do colendo Superior Tribunal de Justiça, em analogia ao artigo 1º do Decreto nº 20.910/32.
+3. O termo inicial do prazo prescricional, aplicando-se a teoria da actio nata (CC, art. 189), dar-se-á a partir de uma daquelas situações da qual o autor poderia se valer do direito em discussão que, no caso dos autos, refere-se ao saque do PASEP, nos termos da Lei Complementar nº 26/75. Precedentes.
+4. Apelação conhecida, preliminar rejeitada e não provida.
+Em suas razões, a parte recorrente aponta, além de divergência jurisprudencial, violação do art. 189 do Código Civil, argumentando, em suma,quesó teve conhecimento dos saques indevidos quando do recebimento do extrato do PASEP, o que ocorreu em 2019. Defende, assim, que esse é o termo a quo do lapso prescricional, motivo pelo qual sua pretensão não estaria prescrita.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 1.043/1.044.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+No caso concreto, o Tribunal de origem manteve a sentença que reconheceu a prescrição, com base na seguinte motivação (e-STJ fls. 626/629):
+Tecida tal premissa, quanto ao termo inicial, deve ser aplicada, na espécie, a teoria da actio nata (CC, art. 189), segundo a qual o direito de ação nasce apenas no momento em que a parte toma conhecimento do dano que, no caso em comento, deu-se quando realizado o saque do PASEP, nos termos da Lei Complementar nº 26/75, e não quando a autora teve acesso às microfilmagens, onze anos depois, como alega nas razões do seu apelo.
+Note-se que o ajuizamento da demanda almeja não somente discutir a correção monetária, como também a ausência de depósitos que a autora reputa devidos, de modo que a sua constatação se dá, de fato, quando realizado o saque de tais valores.
+ ..
+Com efeito, não se desconhece a existência de dissenso jurisprudencial acerca do prazo prescricional incidente em situações como a descrita nestes autos.
+Todavia, convém esclarecer que, ainda que se aplique entendimento diverso, adotando a prescrição decenal (art. 205 do Código Civil), a pretensão autoral também restaria prescrita, considerando a data da ciência inequívoca do dano (2008) e a data propositura da ação (12/12/2019 - ID 43621749).(Grifos acrescidos)
+Verifica-se que as razões recursais apresentadas pela recorrente deixaram de impugnar fundamentos basilares que amparam o acórdão recorrido.
+Com efeito, observo que a recorrente deixou de refutar especificamente o fundamento do acórdão combatido que consigna a possibilidade de a insurgente ter tomado ciência da inexistência de depósitos no momento do saque do benefício, o que atrai a incidência da Sumula283 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. POLICIAIS MILITARES. AÇÃO DE COBRANÇA. DIREITO RECONHECIDO EM MANDADO DE SEGURANÇA COLETIVO. NÃO OCORRÊNCIA DE TRÂNSITO EM JULGADO DO MANDAMUS. SUSPENSÃO DO PROCESSO. FUNDAMENTAÇÃO AUTÔNOMA NÃO IMPUGNADA E ARGUMENTAÇÃO RECURSAL DEFICIENTE. SÚMULAS 283 E 284 DO STF. INTERRUPÇÃO DO PRAZO PRESCRICIONAL PELA IMPETRAÇÃO DO WRIT.PRECEDENTES. PRESCRIÇÃO LIMITADA ÀS PARCELAS ANTERIORES AO QUINQUÊNIO QUE ANTECEDEU O AJUIZAMENTO DA AÇÃO MANDAMENTAL.
+1. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem e a apresentação de argumentação recursal deficiente impedem a admissão do apelo especial. Incidem ao caso as Súmulas 283 e 284 do STF.
+ ..
+3. Agravo interno não provido.(AgInt no REsp 1.878.208/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 07/12/2020, DJe 11/12/2020).
+Por outro lado, aargumentação tecida na peça recursal, acerca da possível existência de saques indevidos (e-STJ fls. 641/642), carece do indispensável prequestionamento, porquanto não apreciada no aresto recorrido, tampouco foram opostos embargos de declaração com essedesiderato. Incide o enunciado da Súmula 282 do STF, em aplicação analógica.
+Ademais, "resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a"do permissivo constitucional" (AgRg no AREsp 278.133/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 24/09/2014).
+Não bastasse isso, quanto à alinea "c"do permissivo constitucional, segundo entendimento do STJ, "decisões monocráticas não servem como paradigmas para o fim de demonstração de dissídio jurisprudencial, conforme o disposto no art. 266 do Regimento Interno deste Superior Tribunal"(AgInt no REsp 1.650.529/RS, Relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/11/2017, DJe 27/11/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessaverba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
