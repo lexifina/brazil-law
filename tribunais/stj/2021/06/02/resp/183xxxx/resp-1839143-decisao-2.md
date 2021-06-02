@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência daSúmula7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado
+(fl. 589):
+ADMINISTRATIVO. PROCESSUAL CIVIL. FUNDEF. DIFERENÇAS A TÍTULO DE VALOR MÍNIMO ANUAL POR ALUNO - VMAA. PRESCRIÇÃO. OCORRÊNCIA.
+1. Ação ordinária movida por Município em face da União, com o fito de ver assegurado direito a diferenças de FUNDEF relativas ao Valor Mínimo Anual por Aluno - VMAA, concernentes ao período compreendido entre 2001 e 2007;
+2. A existência de anterior ação coletiva, da qual não participou o Município, não tem o condão de interromper o prazo prescricional da ação somente agora por ele proposta;
+3. Considerando que a pretensão deduzida no presente feito refere-se a parcelas vencidas há mais de cinco anos da propositura da ação, é de se reconhecer a ocorrência de prescrição do fundo do direito;
+4. Apelação da União e remessa oficial providas.
+Embargos de declaração rejeitados.
+No recurso especial (fl. 948-959) o recorrente alega violação do artigo60 do Código Civil, que estabelece que asdeliberações tomadas em Assembleia Geral vinculam a todos os associados, dada sua soberania do órgão máximo da Associação. Assim, defende que ademonstração de que houve Assembleia Geral para deliberação específica da matéria e que o ajuizamento da ação decorreu desta é suficiente para caracterizar a interrupção do prazo prescricional em favor do Município.
+Sustenta, outrossim, ofensa aos artigos 94, 103, § 2º, e 104 da Lei n.8.078/1990, sob o argumento de que o ordenamento jurídico não traz qualquer dispositivo que obrigue o indivíduo a ser parte na demanda coletiva para se beneficiar desta, desde que haja autorização individual ou assemblear para que o representante atue na defesa do seu direito. Aduz que, conforme entendimento do STJ, é efeito próprio da ação coletiva que o indivíduo que ainda não tenha judicializado sua pretensão aguarde o término do processo coletivo para decidir como agirá (execução do título coletivo ou ingresso de ação individual, em caso de improcedência da ação plural), na medida em que a legislação resguarda que "em caso de improcedência do pedido, os interessados que não tiverem intervindo no processo como litisconsortes poderão propor ação de indenização a título individual".
+Aduz, por fim, haver afronta aosartigos 278, parágrafo único, e 485, VI e § 3º, do CPC/2015, tendo em vista que a ação civil pública interposta pelo Ministério Público, conforme noticiado nos autos, também possui o escopo de interromper o prazo prescricional. Aponta que se verifica, na hipótese,defesa de núcleo de interesses individuais homogêneos de relevante interesse social(descumprimento do art. 6º, § 1º, da Lei n.9.424/1996), de modoque "sendo o Município reconhecidamente beneficiário do título, resta claro que o embargante pode se beneficiar do título em questão, tanto para fins de execução quanto para fins de interrupção do prazo prescricional para requerer, em ação própria, o seu direito individual homogêneo".
+Com contrarrazões (fls. 1013-1045).
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+A Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que o Município agravante não participou da ação coletiva anterior (fl.589):
+ ..  a existência de anterior ação coletiva, da qual não participou o Município, não tem o condão de interromper o prazo prescricional da ação somente agora por ele proposta.
+Considerando que a pretensão deduzida no presente feito refere-se a parcelas vencidas há mais de cinco anos da propositura da ação, é de se reconhecer a ocorrência de prescrição do fundo do direito.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Ademais, evidencia-se que os artigo 94, 103, § 2º, e 104 da Lei n. 8.078/1990(e a tese a ele vinculada) não foi apreciado pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+Esclarece-se que não cabe falar em prequestionamento ficto face ao art. 1.025 do CPC/2015, pois, nos termos da jurisprudência desta Corte Superior, para se possibilitar a sua incidência, cabe à parte alegar, nas razões do seu recurso especial, ofensa ao art. 1.022 do CPC/2015, de modo a permitir que seja sanada eventual omissão através de novo julgamento dos aclaratórios, caso existente, providência esta não observada pelo recorrente.
+No que diz respeito à afronta aos artigos 278, parágrafo único, e 485, VI e § 3º, do CPC/2015, verifica-se que o recorrente apresentou argumentos genéricos, vagos a respeito da suposta ofensa, e que se encontram dissociados dos fundamentos aplicados pelo acórdão recorrido, que consignou que o MPF não foisubstituto processual do Município na ação civil pública, que visava a transferência de valores da União ao FUNDEF (fl.799-800):
+Registre-se, por oportuno, que a ação manejada pelo Ministério Público Federal perante a Justiça Federal de São Paulo, noticiada por meio da petição id. nº 4050000.10406163, também não tem o condão de interromper a prescrição.
+É que, na hipótese, o MPF propôs a ação coletiva em nome próprio e postulou que os valores fossem transferidos pela União ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério (FUNDEF), justamente o que fixou a sentença, não sendo o município nem autor, nem substituto processual.
+Ademais, não é demais lembrar que a informação foi trazida as autos de forma intempestiva, dado que quando interposta a petição o apelo e a remessa oficial já haviam sido julgados.
+Tal situação não permite a exata compreensão da controvérsia e impede o conhecimento do recurso especial. Aplica-se à hipótese a Súmula 284/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (artigo 98, §3º, CPC/2015).
+EMENTA
+"
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. CAUSA INTERRUPTIVA.REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ.DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO.
