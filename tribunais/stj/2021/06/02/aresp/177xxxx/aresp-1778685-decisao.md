@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por MIGUEL RAUL PIGNATARI contra v. acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fls. 453):
+"EMENTA: AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL.GRUPO ECONÔMICO. LITISCONSÓRCIO ATIVO. POSSIBILIDADE.REQUISITOS DO ART. 48 DA LEI N. 11.101. PRESENTES. RECURSO PROVIDO A Lei nº 11.101/2005 não regulamentou sobre a possibilidade de litisconsórcio entre empresas, porém a doutrina e jurisprudência vêm se pronunciando neste sentido, possível a recuperação judicial de duas ou mais empresas que compõem o mesmo grupo econômico.
+Restando demostrada a existência de um grupo econômico de fato entre as recuperandas, presentes os requisitos do art. 48 da Lei nº 11.101/2005 e inocorrentes quaisquer prejuízos ao plano de recuperação, o que possibilita a continuidade do negócio, a manutenção de empregos e interesses de terceiros, especialmente dos credores, deve ser deferido o pedido de litisconsórcio ativo na recuperação judicial.
+Recurso conhecido e provido."
+Opostos embargos de declaração, foram desprovidos (e-STJ, fls. 1.785/1.791)
+Nas razões do recurso especial, a parte agravante alega, além de dissídio jurisprudencial,violação dos arts. 1.022, do CPC/15 e 48, da Lei 11.101/05, sustentando, negativa de prestação jurisdicional eem síntese, que a agravada não preenche os requisitos para formular pedido recuperacional.
+É o relatório. Decido.
+Inicialmente, não se vislumbra a alegada violação dos art.1.022, do CPC/15, na medida em que a eg. Corte de origem dirimiu,fundamentadamente, as questões que lhe foram submetidas. Portanto,apesar de o Tribunal local não ter acolhido os argumentos suscitados pelaparte recorrente, manifestou-se expressamente acerca dos temas necessáriosà integral solução da lide.
+Impende ressaltar que "se os fundamentos doacórdão recorrido não se mostram suficientes ou corretos na opinião dorecorrente, não quer dizer que eles não existam. Não se pode confundirausência de motivação com fundamentação contrária aos interesses da parte"(AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994).
+No mérito, oeg. Tribunal de origem, com base no lastro probatório, deferiu o processamento do pedido de recuperação da agravada, consignando, in verbis:
+"Assim, da análise da legislação supracitada, juntamente com a doutrina e jurisprudência trazidas, denota-se que é possível a recuperação judicial de duas ou mais empresas que compõem o mesmo grupo econômico.
+Contudo, não se pode olvidar dos requisitos objetivos e cumulativos do artigo 48 da Lei n.º 11.101/2005, sem os quais não é possível a recuperação judicial pleiteada. Nota-se:
+(..)
+Estabelecido tais parâmetros, em consulta ao site da Receita Federal do Brasil, constata-se que a empresa agravante, Companhia de Alimentos Gloria, está com a situação cadastral ativa e foi aberta em 06/04/2009.
+O STJ no REsp 1478001/ES firmou entendimento de que "o exercício regular de atividade empresária reclama inscrição da pessoa física ou jurídica no Registro Público de Empresas Mercantis (Junta Comercial)", tratando-se de critério de ordem formal, que foi atendido pela Companhia de Alimentos Gloria.
+Lado outro, em se tratando de grupo econômico, que exercem atividades em conjunto e se encontram sob unicidade gerencial e laboral, no mesmo ramo de laticínios, a paralização de atividade de uma fábrica não indica a paralização da atividade da empresa, que continua ativa no cadastro da Receita Federal e na Junta Comercial.
+Ademais, não há indícios nos autos de que a segunda agravante é falida ou tenha obtido concessão de recuperação judicial nos últimos cinco anos, cumprido assim os preceitos do supracitado art. 48 da Lei de Falências." (e-STJ, fl. 1.631/1.632)
+Nesse contexto, eventual modificação do entendimento lançado no acórdão recorrido a fim de reconhecer a ausência dos requisitos para o deferimento do pedido recuperacionaldemandaria incursão no suporte fático-probatório dos autos, inviável em recurso especial (Súmula 7/STJ).
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b,do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
