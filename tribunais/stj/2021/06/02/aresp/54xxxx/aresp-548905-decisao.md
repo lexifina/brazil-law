@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COMERCIAL DE CESARO E COMPANHIA LTDA contra decisão que inadmitiu o recurso especial, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 1.104):
+"APELAÇÃOCÍVEL. AÇÃODECOBRANÇA. DISSOLUÇÃO E LIQUIDAÇÃO DE SOCIEDADE.-É ser mantida a sentença de procedência da ação que julgou extinta, sem resolução de mérito, em face de litispendência.- Quanto a ação de cobrança dos autores, pela provados fatos constitutivos de seus direitos, também deve ser mantida, mas reconhecido que não foi atendido ao quantum presumidamente inicialmente pretendido.- Considerando que a sucumbência é recíproca, com difícil verificação matemática, deve tal ônus ser suportados a razão de 30% para a parte autora e 70%para a parte ré.- Os juros devem ter seu termo legal da citação. APELOS PARCIALMENTE PROVIDOS."
+Os embargos de declaração opostos foram rejeitados (acórdãos de fls. 1.167/1.172 e 1.180/1.184).
+As razões do recurso especial, fundamentadas nas alíneas "a" e "c" do permissivo constitucional, apontam a violação (i) do art. 535, I e II, do CPC/73, ao argumento de que haveria obscuridade e erro material concernente na ausência de definição das provas e documentos usados para respaldar a conclusão de que não haveria prescrição; (ii) do art. 269, IV, do CPC/73 e dos artrs. 3º, 198, I, 1.784 e 2.028 do CC/02, porquanto o prazo prescricional para cobrança dos créditos teria como termo inicial os balancetes realizados em 1975 e 1978, uma vez que inexistiria provas dos autos no sentido de que os direitos hereditários seriam pagos em 24 parcelas mensais a partir do ano de 2000.
+Decisão que inadmitiu o recurso especial às fls. 1.240/1.247.
+Contraminuta às fls. 1.289/1.297.
+É o relatório. Decido.
+Inicialmente, rejeita-se a alegada violação do art. 535 do CPC/73, uma vez que o eg. Tribunal local analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS-EMBARGANTES.
+(..)
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp 362.110/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/03/2017, DJe de 23/03/2017 - g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973 (CORRESPONDENTE AO ART. 1.022 DO CPC/2015). DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973, correspondente ao art.1.022 do CPC/2015, quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 988.556/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/03/2017, DJe de 17/03/2017 - g.n.)
+Além disso, o recurso não merece prosperar quanto aos arts.269, IV, do CPC/73 e dos artrs. 3º, 198, I, 1.784 e 2.028 do CC/02. Sob essas violações, afirma-se que oprazo prescricional para cobrança dos créditos teria como termo inicial os balancetes realizados em 1975 e 1978, uma vez que inexistiria provas dos autos no sentido de que os direitos hereditários seriam pagos em 24 parcelas mensais a partir do ano de 2000. O eg. Tribunal estadual, por sua vez, consignou que os documentos acostados comprovariam mencionado pagamento em parcelas, cuja primeira seria em 2000. Para fins demonstrativos, colacionam-se os seguintes trechos do v. acórdão estadual (fls.1.111/1.112):
+"Ordenando o julgamento, adianto que estou propondo a manutenção quase que integral da sentença, por seus próprios fundamento, razão de adotá-la como razão de decidir, na parte mantida, pedindo vênia para transcrever seus fundamentos:
+Cuida-se de ação de cobrança, almejando os autores a cobrança de créditos societários, que supostamente teriam direito em razão da sucessão de Ivar De Césaro e Haide é Maia D eCesaro, sócios das empresas requeridas.
+Primeiramente, afasto a alegação de inépcia da inicial.
+São identificáveis todos os requisitos exigidos pelo artigo282 do Código de Processo Civil, inclusive o direito subjetivo que os autores pretendem exercitar e o fato de onde ele provém. Devidamente descritos os fatos e os fundamentos do pedido que ensejaram a pretensão jurisdicional.
+Vale dizer, ainda, que os documentos acostados com a inicial favorecem a identificação do pedido e da causa da pedir, possibilitando, inclusive, a elaboração da defesa de forma ampla.
+Da mesma forma, a pretensão dos autores não se encontra prescrita.
+Muito embora o falecimento de lvar De Cesaro e de HaideéMaiaDeCesarotenhaocorridoem1975e1978,respectivamente, o Balanço Patrimonial realizado na empresa VVA. MAGGI DE CESARO, em 28/02/1979, estabeleceu que os herdeiros receberiam o seu quinhão hereditário da empresa em24 parcelas mensais e consecutivas. A primeira parcela seria paga em 30 de abril de 2000."(g.n.)
+Nessa perspectiva, para modificar a conclusão apresentada, no sentido de que o pagamento dos direitos hereditários seriam pagos em parcelas a contar de abril de 2000, seria necessário revolver o acervo fático e probatório dos autos, providência incompatível com o apelo nobre, a teor da Súmula n. 7/STJ.
+Por fim, o recurso não prospera pela divergência jurisprudencial, uma vez que os arestos paradigmas não possuem similitude fática e jurídica com o v. acórdão estadual.
+Diante do exposto, conheço do agravo para desprover o recurso especial.
+Publique-se.
