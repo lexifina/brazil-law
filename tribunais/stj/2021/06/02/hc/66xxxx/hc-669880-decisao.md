@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RENAN GALVAO DE CAMPOS, em que se aponta como autoridades coatoras o "Excelentíssimo Juiz da 31ª Vara Criminal da Comarca de São Paulo-SP" e a "13ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo - SP" (fl. 3).
+Consta dos autos que, em 24/11/2020, o Paciente foi condenado "como incurso no artigo 157, §2º, II, e no art. 157, §2º, II, c.c. o art. 14, II, ambos c.c. o art.29, "caput", c.c o art. 70, segunda parte, todos do Código Penal, à pena de 08 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, no regime inicial fechado de cumprimento de pena e pagamento de 21 (vinte e um) dias-multa, no valor mínimo legal permitido" (fl. 26). Na ocasião, foi determinada a manutenção da constrição cautelar do Acusado.
+Informa a Defesa que " .. em sequência o Tribunal de Justiça do Estado de São Paulo se manteve silente sobre a manutenção da prisão" (fl. 4).
+Neste writ, oImpetrante sustenta, em síntese, que a prisão preventiva foi mantida na sentença condenatória por meio de fundamentação inidônea, além da ausência dos requisitos autorizadores dispostos no art. 312 do Código de Processo Penal.
+Ressalta, ademais, que o Apenado possui condições pessoais favoráveis para permanecer em liberdade, sendo suficientes as medidas cautelares alternativas à prisão.
+Requer, em liminar e no mérito, a revogação da prisão preventiva, com ou sem a aplicação das medidas cautelares dispostas no art. 319 do Código de Processo Penal.
+É o relatório.Decido.
+No caso, não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos, pois oImpetrante não acostou acópiada decisão que decretou a prisão preventiva do Paciente, tampouco a cópia de eventual julgado emanadopelo Tribunal de origem, peças necessárias à devida compreensão da controvérsia.
+Como se sabe,compete àDefesanarrareinstruircompleta e adequadamente ohabeas corpus(ou seu respectivo recurso). Dessa forma, como oImpetrante não se desincumbiu do ônus de formar adequadamente os autos, olvidando-se de que ohabeas corpus"pressupõe prova pré-constituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/06/2018), não há como apreciar o mérito do pedido.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019;RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel.Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; e RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃOESSENCIALÀ ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
