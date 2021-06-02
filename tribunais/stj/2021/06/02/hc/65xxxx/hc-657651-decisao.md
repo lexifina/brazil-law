@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ADRIANA ALVES DE LIMA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 0011518-63.2020.8.26.0041).
+Consta dos autos que à paciente foi deferida prisão domiciliar pelo Juízo das execuções, ao fundamento de que ela faria parte do grupo de risco (hipertensão) das pessoas mais vulneráveis ao Covid-19.
+Irresignado, o Ministério Público interpôs recurso de agravo, tendo o Tribunal de Justiça dado provimento ao recurso para cassar a prisão domiciliar (e-STJ fls.23/28).
+Na presente impetração, sustenta a defesa que "pessoas com doenças crônicas correm maior risco ao serem contaminados com o vírus causador da COVID- 19, pois a resposta imunológica não ocorre de maneira suficiente para garantir o combate da enfermidade, trazendo maior risco de agravamento da doença e de eventual morte. Assim, pessoas com doenças respiratórias cônicas, diabetes, doenças cardíacas crônicas, pessoas com HIV, hipertensão, pessoas com insuficiência renal crônica, com câncer ou outras enfermidades que debilitem o sistema imunológico ficam ainda mais expostas aos perigos da doença e devem ser alvo prioritário das políticas voltadas à mitigação dos efeitos da pandemia  .. " - e-STJ fl. 10.
+Diante disso, pleiteia a defesa, em liminar e no mérito, a reforma do aresto ora invectivado para restabelecer a decisão de primeiro grau que substituiu a custódia por prisão domiciliar.
+Liminar indeferida às e-STJ fls. 174/175.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ ou pela denegação da ordem (e-STJ fls. 201/205).
+É o relatório.
+Decido.
+Como visto no relatório, a impetração busca a concessão da prisão domiciliar àpaciente ante a atual pandemia de Covid-19.
+Todavia, não verifico a existência do constrangimento ilegal alegado.
+Confira-se, no que interessa, o que consta do acórdão impugnado (e- STJ fls. 25/28):
+Há que se prover o reclamo ministerial.
+Depreende-se dos autos que a agravada foi condenada à pena de 05 (cinco) anos e 10 (dez) meses de reclusão, em regime fechado, pela prática do crime previsto no artigo 33, caput, c.c. o artigo 40, inciso III, ambos da Lei de Drogas.
+Não obstante o apelo humanitário da Recomendação 62/2020 do Conselho Nacional de Justiça, impossível a aplicação, in casu, das medidas ali explicitadas (art. 5º da Recomendação), uma vez que o relatório médico juntado às fls. 45 não é suficiente para demonstrar a impossibilidade da sentenciada permanecer custodiada.
+Na ocasião, pontuou a médica que apesar de ADRIANA ser hipertensa, estava fazendo uso de medicamentos e sua pressão estava estável quando da consulta.
+Ora, a mera retórica acerca da necessidade da soltura da recorrida ou de sua colocação em prisão domiciliar, em face da pandemia do Coronavírus, desacompanhada de prova efetiva acerca de sua imprescindibilidade, não autoriza a concessão de benefício executório tão excepcional quanto a prisão domiciliar.
+É mister a indicação, no caso concreto, de outros elementos fáticos, tais como a ineficácia da prestação de saúde no estabelecimento prisional, para que seja deferida a liberdade antecipada.
+ ..
+Assim, não se vislumbram hipóteses do deferimento de regime de prisão domiciliar; afinal, conforme já referido, a sentenciada está sendo assistida na unidade prisional adequadamente, e inexistem dados que atestem sua maior vulnerabilidade.
+Ante o exposto, DÁ-SE PROVIMENTO ao presente recurso, a fim de cassar a prisão domiciliar concedida a ADRIANA ALVES DE LIMA. (Grifei)
+Consta do art. 5º, III, da Recomendação n. 62/2020 do Conselho Nacional de Justiça o seguinte:
+Art. 5º Recomendar aos magistrados com competência sobre a execução penal que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, considerem as seguintes medidas:
+ ..
+III - concessão de prisão domiciliar em relação a todos as pessoas presas em cumprimento de pena em regime aberto e semiaberto, mediante condições a serem definidas pelo Juiz da execução.
+Como se vê, a aludida recomendação, no ponto, diz respeito aos presos em regime aberto e semiaberto, de modo que apaciente não se enquadra na excepcionalidade mencionada, já que se encontra no regime fechado, não podendo ser ignorado o asseverado pelo Tribunal de origem no sentido de que"pontuou a médica que, apesar de ADRIANA ser hipertensa, estava fazendo uso de medicamentos e sua pressão estava estável quando da consulta" (e-STJ fl. 26) e de que "a sentenciada está sendo assistida na unidade prisional adequadamente, e inexistem dados que atestem sua maior vulnerabilidade" (e-STJ fl. 28).
+É de relevo mencionar, por oportuno, que o Poder Público não se quedou inerte diante da situação. O Conselho Nacional de Justiça publicou a Recomendação n. 62/2020, pela qual adotou medidas preventivas à propagação da infecção pelo novo coronavírus (Covid-19) no âmbito dos sistemas de justiça penal e socioeducativo. O Ministério da Justiça e o Ministério da Saúde também publicaram a Portaria Interministerial n. 7, adotando uma série de medidas para o enfrentamento da situação emergencial.
+A propósito do tema, pontuou com maestria o Ministro Rogerio Schietti que "a crise do novo coronavírus deve ser sempre levada em conta na análise de pleitos de libertação de presos, mas, ineludivelmente, não é um passe livre para a liberação de todos, pois ainda persiste o direito da coletividade em ver preservada a paz social, a qual não se desvincula da ideia de que o sistema de justiça penal há de ser efetivo, de sorte a não desproteger a coletividade contra os ataques mais graves aos bens juridicamente tutelados na norma penal" (HC n. 567.408/RJ, DJe de 23/3/2020).
+O entendimento exarado pelo Ministério Público Federal vai ao encontro da conclusão ora alcançada. Eis a ementa do aludido parecer (e-STJ fl. 61):
+HABEAS CORPUS. MANEJO DO WRIT COMO SUCEDÂNEO RECURSAL. INADEQUAÇÃO. TRÁFICO DE DROGAS.EXECUÇÃO PENAL. REGIME FECHADO. PENA 5 ANOS E 10 MESES. HIPERTENSÃO. TRATAMENTO NA UNIDADE PRISIONAL. RISCO DE CONTRAIR COVID-19. PRISÃO DOMICILIAR. IMPOSSIBILIDADE. PARECER PELO NÃO CONHECIMENTO DO WRIT E, SE CONHECIDO, PELA DENEGAÇÃO DA ORDEM.
+1. "O risco trazido pela propagação da doença não é fundamento hábil a autorizar a revogação automática de toda custódia cautelar, ou sua substituição por prisão domiciliar, sendo imprescindível, para tanto, conforme ressaltado pelo ilustre Min. Reynaldo Soares da Fonseca, a comprovação dos seguintes requisitos: "a) sua inequívoca adequação no chamado grupo de vulneráveis do COVID-19; b) a impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) risco real de que o estabelecimento em que se encontra, e que o segrega do convívio social, causa mais risco do que o ambiente em que a sociedade está inserida" (AgRg no HC 561.993/PE, QUINTA TURMA, DJe 4/5/2020).
+2. Impetração que não deve ser conhecida e, se conhecida, quanto ao mérito, que seja denegada a ordem.
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
