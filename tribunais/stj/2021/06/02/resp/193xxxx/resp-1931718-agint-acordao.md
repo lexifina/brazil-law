@@ -1,0 +1,46 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. LEI N. 13.964/2019. ALTERAÇÃO DOS PATAMARES DE PROGRESSÃO DO ART. 112 DA LEI DE EXECUÇÃO PENAL. RETROATIVIDADE DA LEI PENAL POSTERIOR MAIS BENÉFICA. ORDEM CONCEDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte vem decidindo no sentido de que, com a redação dos incisos V e VII do art. 112 da Lei de Execução Penal, acrescidos pela Lei n. 13.964/2019, quedou omissa a situação dos agentes condenados por crime hediondo com reincidência não específica, de maneira que tal situação, como prescrevem os princípios gerais do direito penal, deve sempre ser interpretada em favor do réu, o que impede a aplicação da fração de 3/5 (ou 60%), por se tratar de analogia in malam partem, possibilidade vedada em nosso ordenamento. Precedentes.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão de e-STJ fls. 586/588, por meio da qual neguei provimento ao recurso interposto pelo Ministério Público do Estado de Minas Gerais.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 575/584, in verbis:
+Cuidam os autos de Recurso Especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com base no art. 105, inc. III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, que negou provimento ao Agravo em Execução ministerial (Processo nº 1.0313.17.008610-9/001) e manteve a fração para progressão de regime do apenado em 2/5 (40%), com fulcro no art. 112, inc. V, da Lei de Execução Penal.
+O acórdão atacado possui a seguinte ementa (fl. 424, e-STJ):
+AGRAVO EM EXECUÇÃO PENAL - PROGRESSÃO DE REGIME - SENTENCIADO POR CRIME HEDIONDO QUE OSTENTA REINCIDÊNCIA POR CRIME COMUM - APLICAÇÃO DA FRAÇÃO DE 3/5 (60%) - IMPOSSIBILIDADE - ADVENTO DA LEI N. 13.694/19 - ART. 112, VII, DA LEP - PREVISÃO EXPRESSA DA FRAÇÃO SOMENTE PARA OS REINCIDENTES ESPECÍFICOS EM CRIME HEDIONDO E EQUIPARADO - PROIBIÇÃO DE ANALOGIA IN MALAM PARTEM E RESPEITO AO PRINCÍPIO BASILAR DO FAVOR REI - RECURSO NÃO PROVIDO.
+Alega o recorrente, em apertada síntese, que o acórdão recorrido violou expressamente o disposto no artigo 112, inc. VII, da Lei de Execuções Penais, ao alterar a fração de cumprimento da reprimenda para progressão pelo recorrido para 40% (2/5).
+Aduz que não pode ser aplicada a razão de 2/5 do cumprimento da pena para progressão de regime do reeducando, tendo em vista que o inciso V do artigo 112 da LEP é claro ao mencionar que tal fração será aplicada àquele que for condenado pela prática de crime hediondo ou equiparado, desde que primário. Nesse ínterim, pontua que o sentenciado é reincidente, sendo que uma das condenações transitadas em julgado se trata de crime hediondo - homicídio qualificado.
+Esclarece que o legislador não exigiu reincidência específica para aplicação do percentual de 60% (3/5) como requisito temporal para progressão de regime e que, por tal razão, essa regra tem aplicação ao condenado por crime hediondo ou assemelhado que seja reincidente, ainda que pela prática de crime de outra natureza.
+Requer, assim, seja conhecido e provido o recurso para que seja considerado o percentual de 60% do cumprimento da pena para fins de progressão de regime, por tratar-se de crime hediondo praticado por réu reincidente (fls. 500/526, e-STJ).
+Admitido o Recurso Especial (fls. 549/553, e-STJ).
+Às e-STJ fls. 586/588, amparado na jurisprudência do STJ, proferi decisão negando provimento ao recurso.
+Nesta oportunidade, repisa o agravante os argumentos deduzidos nas razões do apelo nobre (e-STJ fls. 590/602).
+Requer a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O agravo não merece prosperar.
+Com efeito, não obstante as razões recursais, reitera-se que esta Sexta Turma vem decidindo no sentido de que, com a redação dos incisos V e VII do art. 112 da Lei de Execução Penal, acrescidos pela Lei n. 13.964/2019, quedou omissa a situação dos agentes condenados por crime hediondo com reincidência em delitos não hediondos nem equiparados.
+Tal situação, como prescrevem os princípios gerais do Direito Penal, deve sempre ser interpretada em favor do réu, o que impede a aplicação por analogia da fração de 3/5 (ou 60%), por se tratar de analogia in malam partem, possibilidade vedada em nosso ordenamento.
+Nesse sentido os seguintes julgados:
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. PLEITO DE RETIFICAÇÃO DO CÁLCULO DA PENA. ART. 112, VII, DA LEI DE EXECUÇÃO PENAL (INCLUÍDO PELA LEI N. 13.964/2019). PACOTE ANTICRIME. REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO. NÃO APLICAÇÃO. APENADO CONDENADO POR CRIME HEDIONDO E REINCIDÊNCIA NÃO ESPECÍFICA. OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO INCISO V. DO ART. 112 DA LEP. CONSTRANGIMENTO ILEGAL VERIFICADO. HABEAS CORPUS CONCEDIDO.
+1. Firmou-se nesta Superior Corte de Justiça entendimento no sentido de que, nos termos da legislação de regência, mostra-se irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo) (AgRg no HC n. 494.404/MS, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/5/2019)" (AgRg no HC 521.434/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/10/2019, DJe 08/10/2019).
+2. Ocorre que a alteração promovida pela Lei n. 13.964/2019 (Pacote Anticrime) no art. 112 da Lei de Execuções Penais, ao estabelecer novos lapsos para a progressão de regime, deixou de abranger a situação característica do paciente (condenado por crime hediondo e reincidente não específico).
+3. Não há como aplicar de forma extensiva e prejudicial ao paciente o percentual de 60% previsto no inciso VII do art. 112 da LEP, que trata sobre os casos de reincidência de crime hediondo ou equiparado, merecendo, ante a omissão legislativa, o uso da analogia in bonam partem para aplicar o percentual de 40%, previsto no inciso V.
+4. Habeas corpus concedido para determinar que o Juízo da Execução retifique o cálculo da pena do paciente, aplicando-se o percentual de 40% para progressão de regime, salvo se cometida falta grave.
+(HC 605.783/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 13/10/2020, DJe 19/10/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. VIA INADEQUADA.LEI 13.964/2019 (PACOTE ANTICRIME). PROGRESSÃO DE REGIME. PACIENTE CONDENADO POR TRÁFICO DE DROGAS. REINCIDÊNCIA EM CRIME COMUM (FURTO QUALIFICADO). HIPÓTESE NÃO ABARCADA PELA NOVATIO LEGIS. ANALOGIA IN BONAM PARTEM. CUMPRIMENTO DE 40% DA PENA. ORIENTAÇÃO REVISTA.AGRAVO REGIMENTAL PROVIDO. CONCESSÃO DE HC DE OFÍCIO. ..
+2. Firmou-se nesta Superior Corte o entendimento no sentido de ser irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo). Interpretação da Lei 8.072/90. Precedentes.
+3. Com a entrada em vigor da Lei 13.964/19 - Pacote Anticrime-, foi revogado expressamente o art. 2º, §2º, da Lei n. 8.072/90 (art. 19 da Lei n. 13.964/19), passando a progressão de regime, na Lei de Crimes Hediondos, a ser regida pela Lei n. 7.210/84.
+4. A nova redação dada ao art. 112 da Lei de Execução Penal modificou por completo a sistemática, introduzindo critérios e percentuais distintos e específicos para cada grupo, a depender especialmente da natureza do delito.
+5. No caso, o paciente foi sentenciado pelo delito de tráfico de drogas, tendo sido reconhecida sua reincidência devido à condenação definitiva anterior pelo crime de furto qualificado (delito comum).Para tal hipótese, inexiste na novatio legis percentual a disciplinar a progressão de regime ora pretendida, pois os percentuais de 60% e 70% foram destinados aos reincidentes específicos.
+6. Em direito penal não é permitido o uso de interpretação extensiva, para prejudicar o réu, devendo a integração da norma se operar mediante a analogia in bonam partem.  ..
+7. Agravo regimental provido, concedendo habeas corpus de ofício para que se opere a transferência do paciente a regime menos rigoroso com a observância, quanto ao requisito objetivo, do cumprimento de 40% da pena privativa de liberdade a que condenado, salvo se cometida falta grave.
+(AgRg no HC 613.268/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/12/2020, DJe 15/12/2020)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
