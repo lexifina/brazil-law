@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por REDE D"OR SÃO LUIZ S.Acontra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fls. 254):
+"Apelação - Serviços Hospitalares.
+O estado de perigo se configura de acordo com a situação concreta vivenciada pelas partes. Sendo assim, "obrigação excessivamente onerosa" não é a que, genericamente, ultrapasse em muito as possibilidades de um homem médio, mas, sim, é a assunção por uma pessoa individualizada e identificada, de dívida a qual, nas suas circunstâncias, estiver muito acima de sua capacidade econômica Desprovido o recurso, de majorar-se o valor dos honorários.
+Recurso desprovido, com observação."
+Opostos embargos de declaração, foram desprovidos (e-STJ, fls. 276/277)
+Nas razões do recurso especial, a parte agravante alega, além de dissídio jurisprudencial,violação dos arts. . 371 e 373, I e II e 1.022, do CPC/15; 104, 113, 156, 187, 188, I, 421, 422, do CC, sustentando, em síntese,: a) negativa de prestação jurisdicional; b) "não há que se falar em nulidade no negócio jurídico, vez o que ausentes as hipóteses previstas pelo legislador nos artigos 156, 166, 167, 171 e ss., do Código Civil." (e-STJ, fl. 295); c) "Para que se configure a anulabilidade por estado de perigo, devem estar reunidos certos requisitos subjetivos (necessidade de salvar-se e dolo de aproveitamento) e objeto (onerosidade excessiva) não demonstrados nos autos." (e-STJ, fl. 295)
+É o relatório. Decido.
+Inicialmente, não se vislumbra a alegada violação doart.1.022,do CPC/15, na medida em que a eg. Corte de origem dirimiu,fundamentadamente, as questões que lhe foram submetidas.
+Portanto, apesar de o Tribunal local não ter acolhido os argumentossuscitados pela parte recorrente, manifestou-se expressamente acerca dostemas necessários à integral solução da lide. Impende ressaltar que "se osfundamentos do acórdão recorrido não se mostram suficientes ou corretos naopinião do recorrente, não quer dizer que eles não existam. Não se podeconfundir ausência de motivação com fundamentação contrária aos interessesda parte" (AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de12.12.1994).
+O eg. Tribunal de origem, com base no lastro probatório,concluiu que restou caracteriza o estado de perigo, tendo afirmado, o seguinte:
+"O "estado de perigo" se configura de acordo com a situação concreta vivenciada pelas partes. Ao celebrar o contrato de prestação de serviços médico-hospitalares em razão de necessidade de atendimento urgente, o contratante o fez com fragilidade emocional em razão do momento.
+Para a configuração do estado de perigo a expressão "obrigação excessivamente onerosa" deve ser interpretada de acordo com as circunstâncias em que os fatos componentes do conceito tenham acontecido, isto é, o estado de perigo se configura de acordo com a situação concreta vivenciada pelas partes. Sendo assim, "obrigação excessivamente onerosa" não é a que, genericamente, ultrapasse em muito as possibilidades de um homem médio, mas, sim, é a assunção por uma pessoa individualizada e identificada, de dívida a qual, nas suas circunstâncias, estiver muito acima de sua capacidade econômica.
+No caso sob exame, de considerar-se a urgência da situação, conforme ao que é reconhecido pela própria instituição hospitalar, a qual afirma que, por alguns dias, não era recomendável realizar a remoção do paciente para a rede pública.
+A obrigação, neste caso concreto, mostra-se excessivamente onerosa.(e-STJ, fls. 254/255)
+Nesse contexto, eventual modificação do entendimento lançado no acórdão recorrido a fim de reconhecer a anuência do estado de perigodemandaria incursão no suporte fático-probatório dos autos, inviável em recurso especial (Súmula 7/STJ). Confiram-se, a propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇOS HOSPITALARES. EXECUÇÃO. ESTADO DE PERIGO. CONFISSÃO DE DÍVIDA. EXCLUDENTE DE OBRIGAÇÃO CONTRATUAL. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir pela existência de estado de perigo. Alterar esse entendimento demandaria reexame do conjunto probatório, vedado em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1585877/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/09/2020, DJe 24/09/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE AUTORA.
+1. A reforma do acórdão recorrido, para afastar a convicção formada nas instâncias ordinárias quanto à configuração do estado de perigo no caso, demandaria a incursão em fatos e provas, o que encontra óbice na Súmula 7/STJ.
+2. Não há falar em majoração dos honorários recursais em sede de agravo interno, tendo em vista que a referida verba deve ser aplicada, apenas uma vez, em cada grau de jurisdição. Tampouco é cabível a aplicação da multa prevista no art. 1.021, § 4º, do CPC/15, pois não verificada a patente inadmissibilidade da insurgência ou intuito protelatório.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1478890/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/11/2019, DJe 27/11/2019)
+No mais, a recorrente, não apresentou argumentação jurídica apta a demonstrar como os arts. 371 e 373, do CPC/15foram violados ou interpretado de forma equivocada pelo Tribunal de origem. Nesse cenário, as razões do apelo nobre representam mera alegações genéricas de violação a dispositivos de lei federal, o que configura deficiência na fundamentação recursal, atraindo o óbice da Súmula 284/STF, aplicada por analogia. Nesse sentido, confiram-se:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. (..).FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. REEXAME DE PROVA. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. ENUNCIADOS 5 E 7 DA SÚMULA DO STJ.
+(..) 2. Nos casos em que a arguição de ofensa a dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284 do Supremo Tribunal Federal.
+(..) 4. Agravo interno a que se nega provimento." (AgInt no AREsp 613.606/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/05/2017, DJe 17/05/2017.)
+Ante o exposto, conheço do agravo para negar provimento ao recursoespecial.
+Publique-se.
