@@ -15,7 +15,7 @@ XIII - promover levantamentos e organizar cadastro relativos ao sistema de dutov
 XIV - estabelecer padrões e normas técnicas complementares relativos às operações de transporte terrestre de cargas especiais e perigosas;
 XV - elaborar o seu orçamento e proceder à respectiva execução financeira.
 XVI - representar o Brasil junto aos organismos internacionais e em convenções, acordos e tratados na sua área de competência, observadas as diretrizes do Ministro de Estado dos Transportes e as atribuições específicas dos demais órgãos federais.
-XVII - exercer, diretamente ou mediante convênio, as competências expressas no inciso VIII do art. 21 da Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, nas rodovias federais por ela administradas.
+XVII - exercer, diretamente ou mediante convênio, as competências expressas nos incisos VI, quanto à infração prevista no art. 209-A, e VIII do caput do art. 21 da Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), nas rodovias federais por ela administradas;
 XVIII - dispor sobre as infrações, sanções e medidas administrativas aplicáveis aos serviços de transportes.
 XIX - declarar a utilidade pública para fins de desapropriação ou de servidão administrativa de bens e propriedades necessários à execução de obras no âmbito das outorgas estabelecidas.
 Parágrafo único. No exercício de suas atribuições a ANTT poderá:
