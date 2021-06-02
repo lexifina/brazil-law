@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PAULO ROBERTO ALVES SAMPAIO, no qual indica como coatores o "Desembargador Vicente de Paula Gomes de Castro, atual relator do HC nº 0806700-71.2021.8.10.0000 que tramita perante 2ª Câmara Criminal do Egrégio Tribunal de Justiça do Estado do Maranhão", o "Desembargador José Joaquim Figueiredo dos Anjos, antigo relator do HC nº 0806700-71.2021.8.10.0000 que tramitava perante 3ª Câmara Criminal do Egrégio Tribunal de Justiça do Estado do Maranhão"; e o "Juiz de Direito da Vara das Execuções Penais da Comarca de Imperatriz/MA, responsável pela Execução Penal (SEEU) nº 0006810-86.2016.8.10.0224 em face do ora Paciente" (fl. 3).
+Alega-se, na presente impetração, inicialmente, que há ilegal excesso de execução, pois o Juiz das Execuções Criminais "acrescentou 2 anos, 10 meses e 6 dias à sua pena originária, sendo este o período em que vigorou contra o Paciente mandado de prisão cautelar decretada em outro processo manifestamente ilegal que fora, inclusive, extinto" (fl. 4).
+Narra-se que contra o ato do Juiz de Primeiro Grau o Executando interpôs agravo em execução, protocolado "no dia 29/01/2021 e distribuído na 3ªCâmara Criminal do Tribunal de Justiça do Maranhão no dia 01/03/2021 sob o nº 0803248-53.2021.8.10.0000" (fl. 19), o qual ainda está sem julgamento, embora a pena do Paciente tenha terminado em 27/04/2021.
+Sustenta-se, ainda, que para sanar o constrangimento impetrou no Tribunala quoo HC n.0806700-71.2021.8.10.0000, que vem tramitando irregularmente, pois nesses autos ainda não foi proferida decisão quanto ao mérito da alegação de excesso de execução, por ter sido suscitado conflito de competência. Acrescenta-se, no ponto, que "o jogo de empurra-empurra perpetrado pelos Desembargadores José Joaquim Figueiredo dos Anjos e Vicente de Paula Gomes de Castro, culminando com o conflito negativo de competência, adiará indefinidamente uma decisão concreta sobre o constrangimento ilegal suportado pelo Paciente" (fl. 23).
+Requer-se, liminarmente e no mérito, a decretação da extinção da pena.
+É o que há de necessário para relatar, considerada a incompetência do Superior Tribunal de Justiça para analisar o presente pedido.
+Passo a decidir.
+Na presente impetração, alega-se excesso de execução. Ocorre que, da documentação dos autos, constato que tão somente o Juiz de primeiro grau analisou o mérito da referida controvérsia.
+Por isso, esta Corte não pode manifestar-se, no ponto, per saltum, sobre a pretensão defensiva, pois compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República).
+A propósito, destaco o seguinte julgado, mutatis mutandis:
+"HABEAS CORPUS  .. . MATÉRIA AINDA NÃO SUBMETIDA AO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. PEDIDO QUE NÃO SE CONHECE.
+ ..
+2- Não se pode conhecer de pedido que não foi submetido ao Tribunal a quo, sob pena de supressão de instância.
+ .. .
+4- Não se conhece do pedido." (HC 83.402/SP, Rel. Ministra JANE SILVA, QUINTA TURMA, Desembargadora convocada do TJ/MG, DJ 24/09/2007.)
+No mais, embora a Defesa narreque a Corte de origem ainda não analisou o Agravo em Execução n.0803248-53.2021.8.10.0000, a despeito do alegado término do cumprimento da pena, caberia a ela desenvolver, na via adequada,tese na qual aponta ao Superior Tribunal de Justiça ilegal excesso de prazo na tramitação recursal. Todavia, em vez de ajuizar na instância competente o instrumento processual adequado, a Defesa impetrouno Tribunal localhabeas corpusconcomitantemente ao recurso que lá se encontraem tramitação. Essa conjunturanão se admite, por violar o princípio da unirrecorribilidade.
+Cito, no ponto, os seguintes julgados, mutatis mutandis:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIME DE PECULATO-FURTO. DOSIMETRIA. RECONHECIMENTO ATENUANTE DA CONFISSÃO. SUPERADA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE. ILEGALIDADE FLAGRANTE OU CONSTRANGIMENTO ILEGAL NÃO CONFIGURADOS. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência desta Corte é uníssona em afirmar que a interposição de recursos simultâneos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo, considerando a preclusão consumativa e o princípio da unirrecorribilidade das decisões judiciais. Precedentes.
+2. Dosimetria apreciada e redimensionada em sede recursal não sendo a via estreita do habeas corpus instrumento de reanálise de teses impostas a qualquer tempo.
+3. Agravo regimental improvido." (AgRg no RHC 106.972/ES, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 21/05/2019, DJe 30/05/2019.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. INADMISSIBILIDADE DE WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO OU DE REVISÃO CRIMINAL. INTERPOSIÇÃO SIMULTÂNEA DE RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. RECURSO ESPECIAL JULGADO. PREJUDICIALIDADE DO HABEAS CORPUS. INTERCEPTAÇÃO TELEFÔNICA. EXAURIMENTO DE OUTROS MEIOS DE OBTENÇÃO DE PROVA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. PERÍCIA DE VOZES CAPTADAS. DESNECESSIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É inadmissível a impetração de habeas corpus substitutivo de recurso especial ou de revisão criminal, salvo se comprovada manifesta ilegalidade.
+2. A impetração de habeas corpus e a interposição de recurso especial simultâneas contra o mesmo acórdão condenatório caracteriza ofensa ao princípio da unirrecorribilidade.
+3. No caso de interposição de recurso especial concomitante com impetração de habeas corpus com objetos idênticos, o julgamento daquele prejudica o exame da impetração.
+4. O exame da viabilidade de esgotamento de outros meios de obtenção de prova para autorização de interceptação telefônica, nos termos do art. 2º, II, da Lei n. 9.296/1996, demanda revolvimento de matéria fático-probatória, inviável em habeas corpus.
+5. É desnecessária a realização de perícia para a identificação de vozes captadas em interceptações telefônicas.
+6. Agravo regimental desprovido." (AgRg no HC 490.838/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 27/04/2021, DJe 29/04/2021; sem grifos no original.)
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial, com fundamento no art. 34, inciso XX, c.c. o art. 210, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. ALEGADO CONSTRAGIMENTO ILEGAL EXAMINADO TÃO SOMENTE POR JUIZ DE PRIMEIRO GRAU. AUSÊNCIA DE COMPETÊNCIADESTE SUPERIOR TRIBUNAL DE JUSTIÇA PARA ANALISAR PER SALTUMO MÉRITO DACONTROVÉRSIA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
