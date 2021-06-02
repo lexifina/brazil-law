@@ -1,0 +1,17 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial com base na incidência da Súmula 7/STJ.
+Impugnados especificamente os fundamentos adotados pelo Tribunal de origem, passo ao exame do recurso especial.
+É o relatório.
+Ultrapassados os requisitos de conhecimento do presente agravo, passo a examinar o recurso especial manejado porPaulo Cesar Soares de Souza, com base no art. 105, inc. III, alínea "a", da CRFB/1988, em oposição a acórdão do TJDFT assim ementado (e-STJ, fl. 216):
+APELAÇÃO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. FAZENDAPÚBLICA. ABONO DE PONTO. ART. 151 DA LEI COMPLEMENTAR N.º 840/2011. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. PRAZOPRESCRICIONAL. QUINQUENAL. CUMPRIMENTO COLETIVO. NÃO DEFLAGRADO. RECONHECIMENTO DO DIREITO. NÃO CONFIGURADO. CAUSAS INTERRUPTIVASAFASTADAS. PRESCRIÇÃO CONFIRMADA.
+Embargos de declaração rejeitados.
+Em suas razões, o recorrente sustenta dissídio jurisprudencial a respeito dos arts. 9º do Decreto n. 20.910/1932 e 202 do CC/2002, ao fundamento de que "A argumentação da parte recorrente sempre foi no sentido de que o prazo prescricional, de cinco anos, teve início na data do trânsito em julgado do acórdão exequendo. Contudo, sempre destacou que o prazo foi interrompido com a execução, promovida pelo Sindicato. Como a execução do Sindicato não vingou, em razão de ter sido reconhecida a sua ilegitimidade ativa, o prazo prescricional de cinco anos deveria ser considerado  .. " (e-STJ, fl. 268).
+Com contrarrazões
+É o relatório.
+Compulsando-se os autos, constata-se que o recorrente, ao aduzir a tese de que ainda que a ilegitimidade do sindicato tenha sido reconhecida na execução, o prazo prescricional seria interrompido, deixou de impugnar o fundamento do acórdão recorrido segundo o qual não há sequer título constituído para fundamentar o feito executivo, haja vista que " .. sequer fora propriamente iniciado o cumprimento coletivo da sentença, tornando despicienda maior discussão acercada aludida causa interruptiva da prescrição." (e-STJ, fl. 222).
+Incidência, por analogia, do teor da Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.").
+Ato contínuo, o acórdão recorrido salienta ainda que "Sem embargo, nota-se que a impugnação supramencionada não teria o condão de reconhecer o direito de todos os servidores plantonistas do Sistema Socioeducativo do DF aos 05 (cinco) abonos de ponto, sequer de todos os substituídos pelo Sindicato, pois contemplado fator que a restringe.  .. Com efeito, a objeção do DF vem acompanhada de espécie de "lista de beneficiados" (fls. 771/776daqueles autos), na qual indicada, de forma nominal, a quantia reputada como correta para cada substituído, em oposição aos valores assinalados para o cumprimento. Do exame da aludida lista, bem assim da relação subsequente trazida pelo ora apelado (fls. 777/806) - as quais, em tese, poderiam vir a reconhecer o direito do apelante e interromper o prazo -, não se verifica o nome do exequente PAULO CESAR SOARES DE SOUZA." (e-STJ, fls. 222/223).
+Assim, fica claro que a análise da pretensão implicaria em inevitável reexame dos contextos fático e probatório dos autos, esbarrando no óbice contido na Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
