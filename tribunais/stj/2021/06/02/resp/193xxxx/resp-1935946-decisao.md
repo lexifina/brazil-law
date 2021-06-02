@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF/1988) interposto contra acórdão do Tribunal Regional Federal da 1ª Região cuja ementa é a seguinte (fl. 154, e-STJ):
+CONSTITUCIONAL E TRIBUTÁRIO. CRÉDITO PRESUMIDO DE IPI. EMPRESA EXPORTADORA. LEI 9.363/1996. INSTRUÇÃO NORMATIVA 23 E 103, AMBAS DE 1997. DIREITO DE CREDITAMENTO. INSUMOS NÃO TRIBUTADOS. ENERGIA ELÉTRICA E COMBUSTÍVEIS. AUSÊNCIA DE DIREITO AO CREDITAMENTO.
+Não subsiste nenhum condicionamento para fazer jus ao benefício fiscal do crédito presumido de IPI a não ser a comprovação de ser a empresa produtora e exportadora de mercadorias nacionais, pois sendo benefício que visa ao incentivo à exportação, basta que seja comprovada tal atividade pela empresa postulante.
+O reconhecimento do direito ao crédito presumido de IPI depende da subsunção dos fatos trazidos pela empresa requerente ao disposto no art. 1º da Lei 9.363/1996. A apuração dos valores, especialmente da base de cálculo, será definida no âmbito administrativo pelas autoridades competentes (SRF).
+As Instruções Normativas n.s 23 e 103, ambas de 1997, restringindo a dedução do crédito presumido do IPI somente às pessoas jurídicas contribuintes efetivas do PIS/PASEP e . COFINS, fere o princípio da legalidade estrita, ao ultrapassar os limites impostos pela Lei 9.363/1996.
+Mesmo quando o produtor-exportador adquire matéria-prima ou insumo agrícola diretamente do produtor rural pessoa física, paga, embutido no preço dessas mercadorias o tributo (PIS/COFINS) indiretamente em outros insumos ou produtos, tais como ferramentas, maquinário, adubos, etc., adquiridos no mercado e empregados no respectivo processo produtivo.
+A não incidência do imposto sobre produtos industrializados nas aquisições de energia elétrica, derivados de petróleo ou combustíveis, decorrente da imunidade tributária prevista no art. 155, § 3º da Constituição, impede o gozo do benefício fiscal previsto no art. 1º da Lei 9.363/96, que concede às empresas produtoras e exportadoras o direito ao creditamento do IPI incidente sobre aquisições de matéria-prima e produto intermediário. Precedentes do STF (RE 561.676 AgR/SC, Rel. Min. Ricardo Lewandowski).
+"A energia elétrica, o gás natural, os lubrificantes e o óleo diesel (combustíveis em geral) consumidos no processo produtivo, por não sofrerem ou provocarem ação direta mediante contato físico com o produto, não integram o conceito de matérias-primas ou produtos intermediários para efeito da legislação do IPI e, por conseguinte, para efeito da obtenção do crédito presumido de IPI, como ressarcimento das contribuições ao PIS/PASEP e à COFINS, na forma do art. 1º, da Lei n. 9.363/96". (REsp 1.049.305/PR, Rel. Min. Mauro Campbell Marques, DJe 31/03/2011).
+Apelação da impetrante a que se dá parcial provimento.
+Os Embargos de Declaração foram rejeitados quanto à alegação de prescrição (fl. 187, e-STJ).
+A recorrente, nas razões do Recurso Especial, alega que ocorreu violação dos arts. 535, II, do CPC/1973 e 1º do Decreto 20.910/1932. Afirma que houve negativa de prestação jurisdicional. Sustenta que "o tumulto processual realizado pela parte autora acarretou a prescrição quinquenal" (fl. 198, e-STJ).
+Contrarrazões apresentadas às fls. 201-214, e-STJ.
+Decisão de admissibilidade do recurso às fls. 217-218, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 24.5.2021.
+Inicialmente, ressalto que o acórdão recorrido foi publicado na vigência do CPC/1973. Por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Constata-se que não se configura a ofensa ao art. 535 do CPC/1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. (..) DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1474852/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/05/2021, DJe 20/05/2021)
+Na hipótese dos autos, o Tribunal de origem, com base nos elementos de convicção, afastou a alegada prescrição, tendo em vista a seguinte fundamentação (fl. 184, e-STJ):
+No que diz respeito à alegação da Fazenda Nacional quanto à prescrição qüinqüenal, esta não há de prosperar, uma vez que a pretensão da embargante é afastar as Instruções Normativas 23/97 e 103/97, sendo que o mandado de segurança foi impetrado em 17/10/2001, antes, portanto, do lapso prescricional qüinqüenal.
+Desse modo, rever o entendimento consignado pelo acórdão recorrido de que o Mandado de Segurança foi impetrado antes do lapso prescricional requer revolvimento do conjunto fático-probatório, inadmissível na via especial, ante o óbice da Súmula 7/STJ. Ilustrativamente:
+TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. PRESCRIÇÃO DE CRÉDITO TRIBUTÁRIO. EXISTÊNCIA DE PARCELAMENTO ANTERIOR. PREMISSAS FÁTICAS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça possui jurisprudência sólida no sentido de que o parcelamento do débito tributário não só suspende o lustro prescricional, mas o interrompe, tendo em vista implicar no reconhecimento do débito tributário, a teor do art. 174, IV, do Código Tributário Nacional.
+2. Diante dos fatos colhidos dos autos não se verifica a ocorrência da prescrição e a modificação do aresto atacado atrela-se ao reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1584351/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/05/2020, DJe 28/05/2020)
+Ademais, nas razões do Recurso Especial, a insurgente não impugnou efetivamente o fundamento acima transcrito da decisão impugnada. Ao proceder dessa forma, não observou a recorrente as diretrizes fixadas pelo princípio da dialeticidade, entre as quais indispensável a pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado.
+Assim, não sendo o argumento atacado pela parte recorrente e, como é apto, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+Diante do exposto, conheço parcialmente do Recurso Especial, somente com relação à preliminar de violação do art. 535 do CPC/1973, e, nessa parte, nego-lhe provimento.
+Publique-se.
+Intimem-se.
