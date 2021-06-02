@@ -1,0 +1,24 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo de Auto Posto Nova Itanhaém Ltda. contra decisão que inadmitiu o recurso especial sob o argumento de que o acórdão recorrido está em consonância com a jurisprudência do STJ (e-STJ, fls. 1.249-1.250).
+Foi apresentada contraminuta ao agravo (e-STJ, fls. 1.272-1.275).
+É o relatório.
+Das razões do agravo interposto, verifico que a parte interessada não refutou os fundamentos da decisão combatida, o que atrai, por analogia, a incidência da Súmula 182 desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.".
+Com efeito, não admitido o apelo nobre ao fundamento de que o acórdão recorrido está em consonância com a jurisprudência do STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar ser outra a orientação jurisprudencial desta Corte Superior, o que não ocorreu no presente caso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO NO RECURSO ESPECIAL. LIQUIDAÇÃO. AN DEBEATUR. IMPOSSIBILIDADE. SÚMULA N. 83/STJ. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ E ART. 932, III, DO CPC.
+1. Para impugnar a decisão agravada que adota julgado desta Corte como razões de decidir cabe à parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes.
+2. Não havendo impugnação específica acerca de todos os fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula 182 deste Tribunal Superior.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.182.583/RS, Rel. Min. MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/10/2018, DJe 23/10/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 16/02/2017, que, por sua vez, julgara recurso interposto contra decisão que inadmitira o Recurso Especial, publicada na vigência do CPC/2015.
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Na forma da jurisprudência, "fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ" (STJ, AgRg no REsp 1.374.369/RS, Rel. Ministro HERMAN BENJAMIN, DJe de 26/06/2013), com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, o que não ocorreu, no caso.
+V. Agravo interno improvido.
+(AgInt no AREsp 1.043.344/SP, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 6/4/2017, DJe 26/4/2017).
+Por fim, a " ..  jurisprudência desta Corte pacificou o entendimento segundo o qual a emissão de juízo sobre o mérito do recurso especial, pelo Tribunal de origem, por ocasião do exame provisório de admissibilidade, não implica usurpação da competência do Superior Tribunal de Justiça" (AgRg no AREsp 205.921/SP, Rel. Min. Castro Meira, Segunda Turma, DJe 8/2/2013).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários advocatícios com o acréscimo de 10% sobre o valor arbitrado na origem, observados os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo legal.
+Publique-se. Intimem-se.
