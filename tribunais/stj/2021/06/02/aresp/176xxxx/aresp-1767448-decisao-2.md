@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso especial adesivo, fundado no art. 105, III, "a" e "c", da Constituição, interposto por COMPANHIA DE HABITAÇÃO POPULAR DE CURITIBA - COHAB/CTem face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE TAXAS CONDOMINIAIS. EXTINÇÃO DO FEITO, SEM RESOLUÇÃO DE MÉRITO, POR ILEGITIMIDADE PASSIVA. SENTENÇA REFORMADA. LEGITIMAÇÃO AFERIDA COM BASE NA TEORIA DA ASSERÇÃO. PRECEDENTES. JULGAMENTO IMEDIATO, DO ART. 1.013, §3º, I DO NCPC. EX VI PRELIMINAR DE INÉPCIA DA EXORDIAL IGUALMENTE REJEITADA. MÉRITO. ANTECIPAÇÃO DAS COTAS INADIMPLIDAS, POR EMPRESA GARANTIDORA, QUE CONFIGURA PAGAMENTO E EXTINGUE A OBRIGAÇÃO PERANTE O CONDOMÍNIO, INVIABILIZANDO A COBRANÇA. JURISPRUDÊNCIA MAJORITÁRIA NO ÂMBITO DESTA CÂMARA CÍVEL. TESE APLICADA, À LUZ DO PRINCÍPIO DA COLEGIALIDADE, RESSALVADO O POSICIONAMENTO CONTRÁRIO DESTE RELATOR, PELA MANUTENÇÃO DA TITULARIDADE ORIGINÁRIA. DEMANDA IMPROCEDENTE. SUCUMBÊNCIA INALTERADA. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS, COM FULCRO NO ART. 85, §11 DO NCPC. RECURSO CONHECIDO. E DESPROVIDO" (fl. 835)
+Nas razões do apelo, a recorrente aponta violação aos arts. 1.345 do Código Civil e 9º, 12 e 20 da Lei n. 4.591/64, sustentando, em síntese, "na remota hipótese do recurso da parte adversa ser conhecido e provido, é imprescindível que seja analisado a ilegitimidade passiva da promitente vendedora" (fl. 925).
+Contrarrazões às fls. 971/985.
+É o relatório.
+O recurso especial adesivo não merece conhecimento, porque, além de prejudicado pela manutenção do acórdão quanto à improcedência do pedido, a recorrente não interpôs o recurso de agravo do art. 1.042 do CPC/15, ensejando a preclusão da irresignação.
+Diante do exposto, nos termos do art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se.
