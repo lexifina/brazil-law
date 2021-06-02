@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto porICOMON TECNOLOGIA LTDA.,com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO CUMPRIMENTO DE SENTENÇA Decisão agravada que indeferiu a suspensão da CNH da parte executada Embora possível a autorização de meios executivos atípicos, com fundamento no art. 139, IV, do CPC/2015, a adoção de tais medidas possui caráter excepcional, justificável após demonstração de frustradas tentativas de satisfação do direito do exequente por meios regulares e típicos. Hipótese, contudo, em que a medida deferida se mostra desarrazoada e desproporcional, evidente a ofensa ao direito de locomoção, além de não contribuir para a satisfação do crédito Inexistência, ainda, de indícios de insolvência ou de ocultação de patrimônio a justificar a medida extrema Excepcionalidade da medida não justificadaPrecedentes do E. TJSP RECURSO IMPROVIDO."
+(e-STJ fl. 181)
+Opostos embargos de declaração, foram eles rejeitados.
+Nas razões do recurso especial, a recorrentealega dissídio jurisprudencial eviolação dos arts.8º e 139do Código de Processo Civil, sustentando, em síntese, que o atual sistema executivo admite a utilização de medidas executivasatípicaspara assegurar a efetividade e o cumprimento de títulos executivosjudiciais. Aduziu ainda a proporcionalidade e razoabilidade da medida no caso concreto.
+Prazo para contrarrazõestranscorreu in albis(e-STJ fl. 236).
+É o relatório. Decido.
+Com efeito, o Tribunal local afastou a pretensão de suspensão da CNH do executado, sob os seguintes fundamentos:
+"Por se tratar, portanto, de medida autorizada de forma excepcional, o deferimento de medidas executivas atípicas deve observar as balizas constitucionais, bem como atender aos princípios da proporcionalidade, razoabilidade, menor onerosidade da execução, entre outros, impondo análise detida dos elementos no caso concreto.
+No caso, verifica-se que o cumprimento de sentença se iniciou em março de 2019 e até os dias atuais não foram localizados bens penhoráveis do executado. Contudo, tal circunstância, por si só, não autoriza o deferimento da medida coercitiva postulada pela credora.
+Mesmo porque, sopesados os interesses em conflito, temos, de um lado, o direito do crédito da exequente, oriundo da sucumbência; de outro, o exercício do direito fundamental de locomoção, que seria gravemente atingido.
+Certo, ainda, que a medida representaretaliação ao devedor, sem, no entanto, trazer qualquer efetividade à satisfação do débito exequendo.
+Como destacado pelaMin. Nancy Andrighi, no julgamento doRHC. n. 99.606, realizado em 13.11.2018:
+"Não se deve confundir a natureza jurídica das medidas de coerção psicológica, que são apenas medidas executivas indiretas, com sanções civis de natureza material, essas sim capazes de ofender a garantia da patrimonialidade da execução por configurarem punições ao não pagamento da dívida.".
+O C. Superior Tribunal de Justiça reconhece a possibilidade de concessão das medidas coercitivas indiretas postuladas pela agravante desde que haja indícios suficientes de que o devedor possui patrimônio expropriável, o que não se verifica na hipótese dos autos: ..
+A medida atípica requerida, portanto, se mostra desarrazoada e desproporcional, notadamente ante a inexistência de qualquer indício de insolvência do executado ou de indícios concretos da alegada ocultação de patrimônio. Não se vislumbra, portanto, a efetividade da medida coercitiva postulada, vez que ela se mostra desproporcional com a finalidade de satisfazer o crédito da exequente, prejudicando demasiadamente a vida cotidiana do executado, em desacordo com o princípio da dignidade da pessoa humana."
+(e-STJ fls. 183-186)
+Nesse contexto, verifica-se que a medida atípica pleiteada não foi indeferida por seu descabimento em tese, mas em razão das circunstâncias peculiares do caso concreto. Desse modo, a alteração da conclusão do acórdão recorrido no que se refere à proporcionalidade, razoabilidade e efetividade da medida no caso concreto demanda o reexame de fatos e provas, o que é incompatível com esta via recursal, nos termos da Súmula 7 desta Corte Superior.
+Outrossim, o mesmo óbice inviabiliza também o recurso especial fundado na alínea "c" do permissivo constitucional.
+Com esses fundamentos, nos termos do art. 255, § 4º, I,do RISTJ, não conheço do recurso especial.
+Publique-se.
