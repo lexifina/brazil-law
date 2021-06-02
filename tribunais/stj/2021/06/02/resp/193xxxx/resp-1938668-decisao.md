@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal de Justiça do Estado do Tocantins cuja ementa é a seguinte (fl. 376, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. CONCURSO PÚBLICO DA POLÍCIA CIVIL DE 2008. NOMEAÇÃO DE CANDIDATOS SUB JUDICE. AUSÊNCIA DE PROVA DE PRETERIÇÃO DA ORDEM DE CLASSIFICAÇÃO. PRETENSÃO DE NOMEAÇÃO IMPROCEDENTE. SENTENÇA MANTIDA.
+1. No Concurso Público da Polícia Civil do ano de 2008 foram previstas no Edital 6 (seis) vagas para o cargo de agente de polícia. Sendo que a apelante foi classificada na 7ª colocação e, portanto, fora do número de vagas previstas no Certame.
+2. Em sede de Recurso Extraordinário n.º 837.311/PI, com repercussão geral, o Supremo Tribunal Federal estabeleceu a tese acerca do surgimento do direito à nomeação dos candidatos em concurso público, quais sejam: i) quando a aprovação ocorrer dentro do número de vagas dentro do edital; ii) quando houver preterição na nomeação por não observância da ordem de classificação; iii) quando surgirem novas vagas, ou for aberto novo concurso durante a validade do certame anterior, e ocorrer a preterição de candidatos aprovados fora das vagas de forma arbitrária e imotivada por parte da administração nos termos acima.
+3. Também é pacífica a jurisprudência do STF de que não há falar em desrespeito à ordem de classificação em concurso público quando a Administração nomeia candidatos menos bem classificados por força de determinação judicial (ARE 869153 AgR).
+4. Destarte, não sendo demonstrada que a apelante tenha sido aprovada dentro do número de vagas prevista no Edital, nem que tenha sido preterida da ordem de classificação do certame é improcedente sua pretensão de ser nomeada para o cargo de agente de polícia.
+5. Apelo conhecido e não provido.
+Os Embargos de Declaração foram rejeitados (fl. 439, e-STJ).
+A recorrente, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação do art. 1.022 do CPC. Sustenta que o acórdão recorrido "não analisou a questão do trânsito em julgado das ações promovidas pelos candidatos concorrentes, que foram nomeados com amparo em liminares" (fl. 476, e-STJ). Requer a reforma da decisão proferida nas instâncias ordinárias "para determinar a classificação da recorrente no número de vagas, declarando aprovada, bem como, seja a candidata nomeada no Cargo de Agente de Polícia" (fl. 477, e-STJ).
+Contrarrazões apresentadas às fls. 484-492, e-STJ.
+Decisão de admissibilidade do recurso às fls. 498-500, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19.5.2021.
+A irresignação não merece prosperar.
+Inicialmente, constato que não se configura a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015.
+No mais, melhor sorte não assiste à recorrente.
+Na hipótese dos autos, o Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, asseverou que a candidata não foi aprovada dentro do número de vagas previstas no Edital do Certame e também não comprovou que tenha sido preterida da ordem de classificação, motivo pelo qual julgou improcedente a pretensão em ser nomeada para o cargo de agente de polícia.
+Merece transcrição o seguinte excerto da decisão combatida (fls. 369-370, e-STJ, grifei):
+Aduz que a apelante logrou aprovação do concurso público, sendo que os candidatos sub judice não poderiam ser nomeados antes do trânsito em julgado das ações judiciais, de forma que as respectivas nomeações ofenderam o seu direito de preferência. Colaciona julgados acerca da matéria. Requer o provimento do apelo para determinar a reclassificação da apelante, declarando-a aprovada e que seja nomeada ao cargo de agente de polícia.
+(..)
+De início cumpre destacar que, exatamente como consignado na sentença, no Concurso Público da Polícia Civil do ano de 2008 foram previstas no Edital 6 (seis) vagas para o cargo de agente de polícia. Sendo que a apelante foi classificada na 7ª colocação.
+Portanto, tem-se que a mesma não foi aprovada dentro do número de vagas previstas no Edital do Certame e também não logrou em demonstrar que tenha sido preterida na ordem de classificação.
+(..)
+Contudo, na hipótese a apelante afirma que teria sido nomeada, caso não houvesse ocorrido a nomeação de candidatos sub judice no certame.
+Ora, também como restou claro na sentença, o STF entende que não ocorre violação da ordem de classificação em concurso público com a nomeação de candidatos classificados por força de determinação judicial.
+(..)
+De todo modo, a apelante não faz prova de que a decisão judicial que acobertava o direito dos candidatos citados que foram nomeados tenham perdido sua eficácia, ônus que lhe cometia nos termos do Art. 373, I, do CPC.
+Ademais, é certo que o Estado do Tocantins ao nomear candidatos por determinação judicial, não tem a faculdade de obedecer ou não o comando da decisão, cuja providência lhe é imposta.
+Destarte, não sendo demonstrada que a apelante tenha sido aprovada dentro do número de vagas prevista no Edital, nem que tenha sido preterida da ordem de classificação do certame é improcedente sua pretensão de ser nomeada para o cargo de agente de polícia, de forma que a sentença mostra-se escorreita e devem ser integralmente mantida.
+Ao assim decidir,o acórdão recorrido se alinhou ao entendimento do STJ de que "o acréscimo de candidatos aprovados por força de decisão judicial não implica, ipso facto, o alargamento do número de vagas previsto no edital do certame. Não há, por isso, falar em preterição arbitrária por parte da administração pública, ao considerar, no cômputo das nomeações, o número de vagas originariamente ofertado" (RMS 63.471/DF, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 30/4/2021).
+Ademais, "a jurisprudência do Superior Tribunal de Justiça é assente no sentido de que os candidatos aprovados fora do número de vagas previstas no edital não possuem direito líquido e certo à nomeação, salvo nas hipóteses de preterição arbitrária e imotivada por parte da Administração" (AgInt no RMS 63.676/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5/4/2021).
+No mais, rever o entendimento consignado pelas instâncias ordinárias de que não houve preterição da candidata requer revolvimento do conjunto fático-probatório, inadmissível na via especial, ante o óbice da Súmula 7/STJ. A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. CONCURSO PÚBLICO. CANDIDATO APROVADO FORA DO NÚMERO DE VAGAS. EXPECTATIVA DE DIREITO. CONVOLAÇÃO EM DIREITO PÚBLICO SUBJETIVO. PRETENSÃO DE NOMEAÇÃO. PRETERIÇÃO ILEGAL. CONFIGURAÇÃO. VIOLAÇÃO A NORMATIVOS CONSTITUCIONAIS. INADEQUAÇÃO RECURSAL. SÚMULA 284/STF. VIOLAÇÃO A NORMATIVOS FEDERAIS. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. IMPOSSIBILIDADE DE REVISÃO DO ACERVO PROBATÓRIO. SÚMULA 07/STJ.
+1. Ao Superior Tribunal de Justiça não compete, pela via do recurso especial, examinar a negativa de vigência a norma de índole constitucional, ainda que de conteúdo principiológico.
+2. O recurso especial não é, em razão da Súmula 07/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em contexto fático-probatório próprio da causa, tampouco se autorizando o seu processamento, sob a alegação de ofensa a preceito de direito federal, se as normas ínsitas aos textos legais destacados sequer foram tratadas pelo Tribunal a quo, hipótese esta de incidência da Súmula 211/STJ.
+3. Recurso especial não conhecido.
+(REsp 1690221/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/05/2021, DJe 10/05/2021)
+Por fim, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC/2015). Ausentes tais requisitos, incide, por analogia, a Súmula 284/STF.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, em 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Diante do exposto, nego provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
