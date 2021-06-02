@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) interposto contra acórdão assim ementado:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. ADMINISTRATIVO. PROCESSO CIVIL. CUMULAÇÃO DE CARGOS DA ÁREA DE SAÚDE DE ACORDO COM A CF. LIMITE DE HORAS. AUSÊNCIA DE EMPECILHO. UNIFORMIZAÇÃO JURISPRUDENCIAL DO STF E STJ. DECISÃO CONGRUENTE. MANUTENÇÃO. AGRAVO DE INSTRUMENTO DESPROVIDO. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência dos tribunais superiores é clara, e uniforme, em dizer que a cumulação de cargos de profissionais da área de saúde que a Constituição Federal aduz independe da limitação de carga horária, logo, a decisão proferida pelo juízo a quo está em perfeita sintonia, não havendo razão alguma para lhe retirar força até o final do julgamento da ação na origem, de sorte que a recondução do servidor após o pedido de declaração de vacância para tomar posse em cargo inacumulável é medida aparentemente acertada.
+2. Agravo interno desprovido.
+Os Embargos de Declaração foram rejeitados (fl. 117, e-STJ).
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 489, § 1º, IV e V, 1.021, § 3º, e 1.022, II, do CPC/2015, sob o argumento de que "o tribunal, ao julgar o agravo interno interposto pelo ora embargante, limitou-se a reproduzir integralmente o fundamento da decisão monocrática agravada, sem enfrentar os argumentos deduzidos" (fl. 155, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 27.5.2021.
+A irresignação não merece prosperar.
+Não se configura ofensa aos arts. 489 e 1.022 do CPC/2015, porquanto o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. In casu, fica claro que não há vícios a serem sanados e que os Aclaratórios veiculam mero inconformismo com o conteúdo da decisão embargada, que foi desfavorável à recorrente.
+Recorde-se, ademais, que o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Precedentes: AgInt nos EDcl no AREsp 1.290.119/RS, Rel. Min. Francisco Falcão, Segunda Turma, DJe 30.8.2019; AgInt no REsp 1.675.749/RJ, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 23.8.2019; REsp 1.817.010/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 20.8.2019; AgInt no AREsp 1.227.864/RJ, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 20.11.2018.
+Conforme entendimento pacífico desta Corte: "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi, Desembargadora convocada TRF 3ª Região, Primeira Seção, DJe 15/6/2016).
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, em 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Diante do exposto, conheço do Agravo para negar provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
