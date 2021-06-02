@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto por WILSON AUGUSTO LOURENÇO em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal Regional Federal da 3ª Região, assim ementado:
+CIVIL. PROCESSUAL CIVIL. APELAÇÃO CÍVEL. MÚTUO HABITACIONAL VINCULADO AO PMCMV. EVENTO DE INVALIDEZ PERMANENTE. COBERTURA DO SALDO DEVEDOR PELO FGHAB. NEGATIVA DE COBERTURA.
+RECEBIMENTO DE AUXÍLIO-DOENÇA POSTERIORMENTE CONVERTIDO EM APOSENTADORIA POR INVALIDEZ. VEDAÇÃO PREVISTA NO ESTATUTO DO FGHAB. CONTRIBUIÇÕES MENSAIS OBRIGATÓRIAS AO FGHAB. EXIGÊNCIA DE EXAMES PRÉVIOS: INEXISTENTE. MÁ-FÉ DO MUTUÁRIO NÃO DEMONSTRADA. RECURSO PROVIDO.
+1. O autor firmou com a CEF, em 28/04/2012, contrato de mútuo habitacional vinculado ao Programa Minha Casa Minha Vida - PMCMV, no qual está prevista a assunção do saldo devedor do financiamento pelo FGHab - Fundo Garantidor da Habitação Popular, em caso de morte e invalidez permanente do fiduciante. O autor pretende a quitação do contrato pelo FGHab, invocando a ocorrência de sinistro que culminou em sua invalidez permanente, conforme o previsto nas cláusulas Vigésima a Vigésima Segunda do contrato.
+2. A Seguradora não pode alegar doença preexistente a fim de negar cobertura securitária, nos casos em que recebeu pagamento de prêmios e concretizou o seguro sem exigir exames prévios. Precedentes.
+3. No caso dos autos, ainda que o contrato dispense a contratação de seguro com cobertura de morte, invalidez permanente (MIP) e danos físicos ao imóvel (DFI), conforme estabelece o Parágrafo Nono da Cláusula Vigésima Primeira, assim o faz porque a Lei nº 11.977/2009 expressamente confere ao FGHab o papel de garantidor desses eventos.
+4. O apelante pagou contribuições mensais obrigatórias ao referido Fundo, como requisito para o acesso à garantia de cobertura do saldo devedor em caso de invalidez permanente, nos termos do Parágrafo Primeiro da Cláusula Vigésima. Não pode, por conseguinte, ter a cobertura a que faz jus negada ao fundamento de que o Estatuto do FGHab não garante os casos em que a invalidez permanente decorreu da conversão de auxílio-doença prévio, sem que a administradora do Fundo tenha realizado qualquer exame médico anterior à contratação. Ressalte-se que o fundamento para a negativa da cobertura não consta expressamente do contrato.
+5. Somente a demonstração inequívoca de má-fé do mutuário, que contrata o financiamento ciente da moléstia incapacitante com o fito de obter precocemente a quitação do contrato, poderia afastar o entendimento jurisprudencial consagrado.
+6. O apelante foi beneficiário de auxílio-doença de 05/08/2011 até 24/02/2014, quando houve a conversão em aposentadoria por invalidez. A suposição de que o mutuário tenha contratado o financiamento em 2012 almejando premeditadamente sua quitação antecipada dois anos depois da contratação é presunção de má-fé, vedada pelo ordenamento jurídico.
+7. Os documentos carreados aos autos não lograram demonstrar a má-fé do mutuário pela omissão de doença preexistente, nem tampouco a exigência de exames prévios por parte da administradora do FGHab. Devida, portanto, a cobertura contratada, com a quitação de eventual saldo devedor pelo FGHab.
+8. Apelação provida.
+Opostos embargos de declaração, foram acolhidos com efeitos infringentes, consoante ementa a seguir (fl. 241):
+"CIVIL E PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO ACOLHIDOS. EFEITO MODIFICATIVO. SFH. SINISTRO DE INVALIDEZ PERMANENTE. QUITAÇÃO DO CONTRATO POR COBERTURA SECURITÁRIA. OCORRÊNCIA DE PRESCRIÇÃO.
+1. A parte autora ajuizou a presente demanda com o escopo de obter a declaração de quitação do contrato e de extinção da dívida remanescente.
+2. O Superior Tribunal de Justiça tem entendimento pacificado pela prescrição anual da pretensão de recebimento de cobertura securitária nos contratos de mútuo firmados no âmbito do SFH. Precedente.
+3. O lapso prescricional anual tem início a partir da ciência inequívoca quanto à incapacidade e se suspende entre a comunicação do sinistro e a data da recusa do pagamento da indenização.
+4. Da data da concessão inequívoca da aposentadoria por invalidez à autora (24/02/2014) até a comunicação do sinistro à estipulante (30/01/2015) decorreram cerca de onze meses e seis dias. Os vinte e quatro dias restantes, portanto, somente continuaram a fluir a partir de 20/08/2015, quando foi negada a cobertura securitária.
+5. Não há, nos autos, demonstração efetiva de que a parte autora teria recorrido da decisão que negou a cobertura securitária. Assim, se a ação foi ajuizada em 14/06/2016 forçoso reconhecer a ocorrência da prescrição do artigo 206, §1º, inciso II, do Código Civil.
+6. Embargos de declaração acolhidos, com efeitos infringentes, para reconhecer a ocorrência de prescrição."
+Nas razões do recurso especial, a ora agravante aponta violação ao art. 206, § 1º, II, do Código Civil, sustentando, em síntese, que "nas demandas garantidas que se discute a cobertura pelo Fundo Garantidor, à falta de prazo prescricional específico, aplica-se a regra geral do artigo 205 do Código Civil - CC (prazo prescricional de dez anos)" - (fl. 260).
+É o relatório.
+De início, verifica-se que o Tribunal de origem acolheu a tese de prescrição da demanda, por entender que o prazo da pretensão de recebimento de cobertura securitária nos contratos de mútuo firmados do âmbito do SFH é de 1 (um) ano, e não de 10 (dez) anos. Destaca-se do acórdão recorrido:
+Na hipótese específica dos autos e de acordo com a argumentação apresentada pela CEF há provas que indicam a ocorrência de prescrição.
+A parte autora ajuizou a presente demanda com o escopo de obter a declaração de quitação do contrato e de extinção da dívida remanescente.
+É certo que o Superior Tribunal de Justiça tem entendimento pacificado pela prescrição anual da pretensão de recebimento de cobertura securitária nos contratos de mútuo firmados no âmbito do SFH:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SISTEMA FINANCEIRO HABITACIONAL.
+MUTUÁRIO. INVALIDEZ PERMANENTE. SEGURO. PRESCRIÇÃO ANUAL.TERMO INICIAL. CIÊNCIA INEQUÍVOCA.
+1. Na hipótese de contrato de mútuo habitacional firmado no âmbito do Sistema Financeiro Habitacional (SFH), é ânuo o prazo prescricional da pretensão do mutuário/segurado para fins de recebimento de indenização relativa ao seguro habitacional obrigatório. Precedentes.
+2. O termo inicial do prazo prescricional ânuo, na ação de indenização, é a data em que o segurado teve ciência inequívoca da incapacidade laboral (Súmula nº 278/STJ), permanecendo suspenso entre a comunicação do sinistro e a data da recusa do pagamento da indenização (Súmula nº 229/STJ). Precedentes.
+3. Agravo regimental não provido.
+(STJ, AgRg nos EDcl no REsp 1507380/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/09/2015, DJe 18/09/2015)
+(..)
+Desse modo, da data da concessão da aposentadoria por invalidez (24/02/2014) até a comunicação do sinistro à estipulante (30/01/2015) decorreram cerca de 11 meses e 6 dias.
+Os 24 dias restantes, portanto, somente continuariam a fluir a partir de 20/08/2015, quando foi negada a cobertura securitária.
+Não há, nos autos, demonstração efetiva de que a parte autora teria recorrido da decisão que negou a cobertura securitária. Assim, se a ação foi ajuizada em 14/06/2016, forçoso reconhecer a ocorrência da prescrição do artigo 206, §1º, inciso II, do Código Civil.
+Diante disso, observa-se que a conclusão das instâncias ordinárias, a respeito da aplicação do prazo decenal nas demandas do beneficiário contra a seguradora, encontra-se em consonância com a jurisprudência do STJ, firme no sentido que o prazo prescricional da demanda indenizatória, fundada nos seguros obrigatórios firmados no âmbito do Sistema Financeiro de Habitação, é de 1 (um) ano, contado da ciência inequívoca da invalidez.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO SECURITÁRIA. CONTRATO DE MÚTUO IMOBILIÁRIO. SISTEMA FINANCEIRO DA HABITAÇÃO. INVALIDEZ PERMANENTE. PRESCRIÇÃO ÂNUA. NÃO OCORRÊNCIA. SÚMULAS 5 E 7 DO STJ. DOENÇA PRÉ-EXISTENTE. SÚMULA 283 DO STF. PREQUESTIONAMENTO. SÚMULA 211 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ, possui entendimento no sentido de que em tratando de contrato de mútuo habitacional firmado no âmbito do Sistema Financeiro Habitacional (SFH), incide o prazo prescricional ânuo para a pretensão do mutuário/segurado para fins de recebimento de indenização relativa ao seguro habitacional. Precedentes.
+2. O termo inicial do prazo prescricional ânuo, na ação de indenização, é a data em que o segurado teve ciência inequívoca da incapacidade laboral (Súmula nº 278/STJ), permanecendo suspenso entre a comunicação do sinistro e a data da recusa do pagamento da indenização (Súmula nº 229/STJ). Precedentes.
+(..)
+7. Agravo interno não provido.
+(AgInt no AREsp 1390788/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/04/2019, DJe 08/04/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. INVALIDEZ PERMANENTE DE MUTUÁRIO. COBERTURA. PRESCRIÇÃO ÂNUA. PRECEDENTES. TERMO INICIAL DO PRAZO. DATA EM QUE O SEGURADO TEVE CIÊNCIA INEQUÍVOCA DO CARÁTER PERMANENTE DA INVALIDEZ. SUSPENSÃO ENTRE A COMUNICAÇÃO DO SINISTRO E A DATA DA RECUSA DO PAGAMENTO DA INDENIZAÇÃO. SÚMULAS N. 229 E 278 DO STJ. PRETENSÃO PRESCRITA. REFORMA DO ACÓRDÃO RECORRIDO E DA SENTENÇA. IMPROCEDÊNCIA DA DEMANDA. NÃO INCIDÊNCIA DA SÚMULA 7/STJ. INTERPOSIÇÃO DO RECURSO ESPECIAL COM AMPARO NAS ALÍNEAS A E C DO PERMISSIVO CONSTITUCIONAL. TESE RECURSAL QUE MERECE ACOLHIMENTO APENAS EM RELAÇÃO À ALÍNEA A. RESCINDIBILIDADE DE DEMONSTRAÇÃO DO DISSÍDIO PRETORIANO. AGRAVO DESPROVIDO.
+1. A jurisprudência do STJ é pacífica no sentido de que o mutuário do Sistema Financeiro da Habitação tem o prazo de apenas 1 (um) ano para cobrar a indenização securitária em caso de sinistro coberto pelo seguro obrigatório contratado.
+2. Nos termos das Súmulas n. 229 e 278 desta Corte, o cômputo do prazo ânuo começa a correr da data em que o segurado teve ciência inequívoca da incapacidade laboral, permanecendo suspenso entre a comunicação do sinistro e a data da recusa do pagamento da indenização.
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp 1423604/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/11/2019, DJe 21/11/2019)"
+Dessa forma, como o acórdão recorrido está em consonância com a jurisprudência desta Corte, atrai-se a aplicação da Súmula 83 do STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+É como voto.
