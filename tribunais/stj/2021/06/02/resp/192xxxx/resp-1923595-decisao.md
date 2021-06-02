@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+ADMINISTRATIVO. SERVIDOR PUBLICO. LICENÇA PARA ATIVIDADE POLITICA. PAGAMENTO DE GDASS.
+O autor tem direito à percepção dos seus vencimentos sendo composto por parcela fixa e mais 84% (oitenta e quatro pontos percentuais) da GDASS, durante a sua licença para o exercício de atividade política. (fl. 190)
+Na origem, Helder Rodrigues da Silva ajuizou ação ordinária com pedido de tutela de urgência contra a parte recorrente com o objetivo de receber o pagamento de gratificação de desempenho (GDASS) e demais e verbas indenizatórias referentes ao período em que estive em licença remunerada para exercício de atividade política.
+Valor dado à causa: R$ 500,00 (quinhentos reais), em julho de 2016.
+Os embargos de declaração opostos foram desprovidos.
+No presente recurso especial, aponta-se violação dos artigos 1.022, do CPC; 40, 41, 86, §2º, e 102, da Lei n. 8.112/90; 1º, II, alínea l, da Lei Complementar n. 64/90; 6º-A e 11, da Lei n. 10.855/2004, 5º, §4º, do Decreto n. 6493/2008, sustentando-se, em síntese, além de omissão no julgado, que:
+Nessa toada, diante do conceito legal de vencimentos integrais, a parte autora não tem direito ao recebimento de gratificações de natureza propter laborem que, por serem devidas ao servidor que efetivamente presta a atividade pertinente ao cargo ou prevista em lei, não se enquadram no conceito de vencimento previsto na legislação.
+(fl. 246)
+Foram apresentadas contrarrazões pelo não provimento do recurso.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2.016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Impõe-se o afastamento da alegada violação do art. 1.022 do CPC/15, quando integralmente apreciada a questão jurídica postulada, por meio do exame da matéria, inclusive dos argumentos apresentados pelas partes, que se mostraram relevantes ao deslinde da controvérsia, ou seja, capazes de, em tese, infirmar a conclusão adotada pelo julgador.
+Sobre o ponto fulcral da questão, qual seja, se a parte recorrida faz, ou não, jus ao recebimento de GDASS durante o período de licença remunerada para exercício de atividade política, assiste razão à recorrente, pois a jurisprudência desta Corte Superior entende que o servidor público não tem direito ao recebimento de gratificações cuja natureza é propter laborem, como é o caso dos autos (GDASS) referentes ao período em que gozou licença remunerada para exercício de atividade política.
+Anote-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO DO INSS. LICENÇA PARA EXERCÍCIO DE ATIVIDADE POLÍTICA. VENCIMENTOS INTEGRAIS. INCLUSÃO DE GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DO SEGURO SOCIAL - GDASS QUANTO À PARCELA FIXA GARANTIDA A INATIVOS DURANTE O GOZO DA LICENÇA. EXCLUSÃO DA PARCELA PROPTER LABOREM. INTERPRETAÇÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+1. O acórdão determinou a aplicação do art. 1º-F da Lei 9.494/1997, conforme consta no dispositivo do voto do Desembargador Relator.
+Ademais, o ponto não foi discutido no acórdão nem foi ventilado nos Embargos de Declaração, razão pela qual não deve ser abordado na instância especial por ausência de prequestionamento. 2. A Lei Complementar 64/1990, ao prever hipóteses de inelegibilidade, previu "os que, servidores públicos, estatutários ou não,  .. , não se afastarem até 3 (três) meses anteriores ao pleito, garantido o direito à percepção dos seus vencimentos integrais".
+3. O STJ já se manifestou sobre casos similares, ocasiões nas quais assentou que, durante a licença para atividade política, os servidores públicos não têm direito ao recebimento de gratificações de natureza propter laborem (REsp 714843/MG, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, DJe 19/10/2009; RMS 20.682/BA, Rei.
+Ministro Felix Fischer, Quinta Turma, DJ 10/9/2007 e RMS 11462/MG, Rei. Ministro Fernando Gonçalves, Sexta Turma, DJ 19/6/2000).
+4. O Tribunal a quo decidiu em consonância com a jurisprudência do STJ, uma vez que não admitiu o pagamento da GDASS na parte que varia conforme o desempenho institucional e individual, nitidamente propter laborem, nos termos do art. 11 da Lei 10.855/2004. 5. A interpretação que garante a percepção da parcela fixa da gratificação, na pontuação mínima, que gera percepção pelo aposentado e pelo pensionista, é a que mais atende ao comando da Lei Complementar 64/1990, a qual previu o direito à percepção dos seus vencimentos integrais durante a licença em questão.
+6. Recurso Especial conhecido em parte (não conhecido quanto ao índice de juros aplicado e conhecido quanto à percepção da GDASS durante a licença para atividade política), mas não provido.
+(REsp 1645139/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/03/2017, DJe 20/04/2017)
+Ante o exposto, com esteio no art. 255, § 4º, III, do RISTJ, conheço do recurso especial para dar-lhe provimento.
+Publique-se. Intimem-se.
