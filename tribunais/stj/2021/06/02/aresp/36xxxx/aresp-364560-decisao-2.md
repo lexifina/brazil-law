@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SÃO FRANCISCO IRRIGAÇÃO S/A (fls. 471/481) contra decisão exarada pela il. Presidência do eg. Tribunal de Justiça do Estado de Minas Gerais (TJ-MG), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de ação ordinária de cobrança proposta por ESTADO DE MINAS GERAIS contra SÃO FRANCISCO IRRIGAÇÃO S.A. e ARAPUIM AGROPECUÁRIA E INDUSTRIAL S.A.
+O il. Magistrado julgou parcialmente procedente o pedido (sentença às fls. 250/256).
+Diante disso, as partes interpuseram os respectivos recursos. O eg. TJ-MG, por seu turno, julgou procedente a apelação do ESTADO DE MINAS GERAIS e parcialmente procedente o recurso de SÃO FRANCISCO IRRIGAÇÃO S/A e ARAPUIM AGROPECUÁRIA E INDUSTRIAL S.A., nos termos do v. acórdão, assim ementado (fl. 344):
+"EMENTA: APELAÇÕES CÍVEIS - AÇÃO DE COBRANÇA - CRÉDITO RURAL - FINANCIAMENTO EM 1995 - BEMGE - CESSÃO DE CRÉDITO - BDMG - SEGURO OBRIGATÓRIO - DECRETO-LEI 73/66 - SISTEMA NACIONAL DE CRÉDITO RURAL - LEI 4.829/65 - AUSÊNCIA DE REALIZAÇÃO - RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA - IMPOSSIBILIDADE DE COBRANÇA DO DEVEDOR PRINCIPAL - TERCEIRO GARANTIDOR - HIPOTECA - CO-RESPONSÁVEL PELO PAGAMENTO - MULTA MORATÓRIA - MAJORAÇÃO - DECRETO-LEI 167/67 - SENTENÇA REFORMADA.Realizado financiamento baseado em crédito rural através de Cédula Rural Pignoraticia e Hipotecária no ano de 1995, por instituição financeira arrolada no inc. II, do §1º, do art. 7º, da Lei 4.829/65, obrigatório e concomitantemente deve ser realizado contrato de seguro desse financiamento, a fim de evitar prejuízo futuro, conforme determina os art. 18 e 20, do Decreto-lei 73/66, à época vigente, sob pena de impossibilidade de cobrança do débito perante o devedor principal e extinção da obrigação, por consequência.O prestante de garantia é co-respon sável pelo pagamento do financiamento até o valor da dívida ou até o limite máximo do valor do bem hipotecado.Conforme disposto no art. 71, do Decreto -Lei 167/67, em caso de cobrança em processo judicial, será o valor da multa de mora de 10% (dez por cento) sobre o principal e acessórios em débito, devida a partir do primeiro despacho da autoridade competente."
+Os embargos de declaração opostos (fls. 361/365) foram acolhidos em parte sem efeitos infringentes, conforme acórdão assim ementado (fl. 375):
+"EMENTA: EMBARGOS DE DECLARAÇÃO CONTRADIÇÃO OCORRÊNCIA REDISCUSSÃO DE MATÊRIA VIA IMPRÓPRIA PREQUESTIONAMENTO IMPOSSIBILIDADE EMBARGOS REJEITADOS.
+Os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade ou contradição ou suprir a omissão existente no julgado, cuja ausência não permite rediscussão de matéria.
+Devem ser acolhidos os embargos, sem efeito modificativo, quando o acórdão apresenta contradição quanto A condenação em ônus sucumbenciais.
+Ainda que para efeito de prequestionamento, a oposição dos embargos pressupõe a existência de um dos vícios insculpidos no artigo 535, I e II, do Código de Processo Civil."
+Inconformado, SÃO FRANCISCO IRRIGAÇÃO S/A interpôs recurso especial (fls. 386/397, com fulcro no art. 105, inciso III, alíneas "a" e "c", da CF/88, no qual alega, além da divergência jurisprudencial, violação dos arts. 20 e 535 do CPC/73.
+Como dito, o apelo nobre foi inadmitido às fls. 464/468.
+Irresignado, SÃO FRANCISCO IRRIGAÇÃO S/A manejou o presente agravo em recurso especial (fls. 471/481) refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Foi apresentada contraminuta (fls. 506/513).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Inicialmente, rejeita-se a alegada violação do art. 535 do CPC/73, uma vez que o eg. Tribunal local analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS-EMBARGANTES.
+(..)
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp 362.110/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/03/2017, DJe de 23/03/2017 - g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973 (CORRESPONDENTE AO ART. 1.022 DO CPC/2015). DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973, correspondente ao art.1.022 do CPC/2015, quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 988.556/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/03/2017, DJe de 17/03/2017 - g.n.)
+Outrossim, melhor sorte não socorre ao recurso quanto ao art. 20 do CPC/73. Sob a mencionada violação, afirma-se que o v. acórdão estadual não diferenciou as partes SÃO FRANCISCO IRRIGAÇÃO e ARAPUIM AGROPECUÁRAI E INDUSTRIAL S.A. para fins de pagamento das despesas processuais, de modo que, julgado improcedente o pedido quanto à recorrente, dever-se-ia condenar o autor da ação, ora recorrido, ao pagamento das custas.
+O eg. TJ-MG, por seu turno, afastou a condenação da instituição financeira devido à sua sucumbência mínima, nos moldes do parágrafo único do art. 21 do CPC/73. À título elucidativo, colacinoam-se o seguinte trecho do v. acórdão proferido após a oposição dos embargos de declaração (fls. 380/381):
+"Afirma a segunda embargante que o acórdão se mostra contraditório, na medida em que julgou improcedente o pedido inicial formulado contra a empresa São Francisco Irrigação S/A, sendo esta, ao final, condenada ao pagamento de custas e honorários advocatícios.
+A omissão que autoriza a oposição desse recurso ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido, enquanto a contradição se caracteriza pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade decorre quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Ao exame das razões destes embargos declaratórios, verifica-se que o acórdão foi contraditório, devendo ser acolhido o recurso, sem, todavia, conferir-lhe efeito modificativo, pelas razões que passo a expor.
+Tem-se, pois, que acórdão foi contraditório, ao passo que condenou a embargante ao pagamento dos ônus sucumbenciais, sendo que, em verdade, o correto seria atribuir tal imposição somente com relação à empresa prestante de garantia, porquanto única sucumbente na demanda.
+Assim, acolho os embargos de declaração, apenas para suprir a contradição constante do acórdão, devendo constar do dispositivo:
+"Custas recursais e honorários advocaticios pela segunda apelante Ara puim Agropecuária e Industrial S/A, face a sucumbência mínima do primeiro recorrente, conforme disposto no parágrafo único, do art. 21, do CPC." "
+Por seu turno, da leitura das razões posta no apelo nobre, infere-se que o recorrente não impugnou o fundamento usado relativo à sucumbência mínima, de modo que a condenação nas despesas e nos honorários fora feita com fundamento no parágrafo único do art. 21 do CPC/73. Dessa forma, havendo fundamento autônomo e suficiente, por si só, para manter o v. acórdão estadual, o apelo nobre encontra óbice na Súmula n. 283/STF, aplicada por analogia. Nessa mesma linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. PRETENSÃO DE COMPLEMENTAÇÃO DO LAUDO PERICIAL E JUNTADA DE DOCUMENTOS. NECESSIDADE DE REALIZAÇÃO DE AUDIÊNCIA COM O INTUITO DE ESCLARECER QUESTÕES ATINENTES ÀS AMORTIZAÇÕES REALIZADAS. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7/STJ. FUNDAMENTO DO TRIBUNAL DE ORIGEM NÃO IMPUGNADO. SÚMULA N. 283 DO STF.
+(..)
+2. É inadmissível o recurso especial que não impugna os fundamentos do acórdão recorrido, suficientes, por si só, à manutenção da conclusão a que chegou o Tribunal de origem (Súmula n. 283/STF).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 451.336/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/06/2017, DJe 08/06/2017 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM" RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1035112/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/05/2017, DJe 12/05/2017 - grifou-se)
+Assim, forçoso reconhecer que o presente apelo não merece prosperar.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
