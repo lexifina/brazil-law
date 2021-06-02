@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por OGLENIS VAZ RABELO PONCIANO e REZENDE PONCIANO fundamentado no art. 105, III, "a" e "c", da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado do Goiás (TJ-GO), assim ementado (fl. 145):
+"AEMENTA: AGRAVO INTERNO EM APELAÇÃOCÍVEL. PRECLUSÃO CONSUMATIVA. MATÉRIAAPRECIADADE MANEIRA SATISFATÓRIA ANTERIORMENTE POR RECURSO CABÍVEL. INEXISTÊNCIA DE FUNDAMENTOS CAPAZES DE SE SOBREPOR AO QUE RESTOU DECIDIDO.
+É vedada a rediscussão de matéria já apreciada anteriormente de maneira satisfatória por modalidade recursal cabível. O recorrente, neste caso, perde a faculdade de praticar o ato processual pelo fato de já haver ocorrido a oportunidade para tanto; Agravo Interno. Ausência de fato novo. Não trazendo os recorrentes nenhum elemento novo capaz de sustentar a pleiteada reconsideração da decisão fustigada, deve ser desprovido o recurso. Agravo interno conhecidoedesprovido. Decisão mantida."
+As razões do recurso especial, fundamentadas na alínea "a" e "c" do permissivo constitucional, apontam a divergência jurisprudencial e a violação (i) do art. 557, §1º,, do CPC/73, porquanto seria descabida a decisão monocrática proferida pelo il. Relator do eg. Tribunal estadual; (ii) impossibilidade de alegar preclusão da matéria, uma vez que possui natureza de ordem pública; (iii) dosarts. 620 e 683, II, do CPC/73, tendo em vista que o Laudo de Avaliação Judicial estaria desatualizado, pois fora elaborado há mais de 2 anos e, portanto, seria necessária nova avaliação.
+Contrarrazões às fls. 175/182.
+É o relatório. Decido.
+De início, quanto ao art. 557,§ 1º, do CPC/73, registre-se que "(..)esta Corte Superior possui firme jurisprudência no sentido de que a legislação processual (art. 557 do CPC/1973, equivalente ao art. 932 do CPC/2015, combinados com a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal, sendo certo, ademais, que a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.(AgInt no AREsp 1525948/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/03/2021, DJe 25/03/2021).
+Além disso, quanto à tese de que a matéria de ordem pública não se sujeita à preclusão, o recurso encontra óbice na Súmula n. 284/STF, porquanto os recorrentes olvidaram de apontar o dispositivo tido por violado. Assim, não é possível conhecer do recurso especial quando há alegação genérica. Nessa linha de intelecção, os julgados a seguir:
+"PROCESSUAL CIV IL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.INDICAÇÃO DE DISPOSITIVOS DE LEI FEDERAL. FUNDAMENTAÇÃO GENÉRICA.SÚMULA N. 284/STF. SALÁRIO. PENHORABILIDADE. ART. 833, IV, CPC/2015.SÚMULA N. 83 DO STJ. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+(..)
+2. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que, de forma genérica, alega violação de dispositivo legal, sem apresentar os motivos pelos quais o acórdão recorrido não teria observado tal norma.
+(..)
+6. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp 1752642/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 03/05/2021, DJe 06/05/2021)
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. CABIMENTO DO AGRAVO DE INSTRUMENTO. ROL TAXATIVO DO ART. 1.015 DO CPC. INAPLICABILIDADE DA LEI DA AÇÃO POPULAR A AÇÃO CIVIL PÚBLICA. DECISÃO QUE REJEITA ALEGAÇÃO DE ILEGITIMIDADE ATIVA E FIXA ASTREINTES. DESCABIMENTO DE AGRAVO. PROFERIMENTO ANTERIOR A 19/12/2018. INAPLICABILIDADE DO TEMA 988 DO STJ. INEXISTÊNCIA DE AFINIDADE ENTRE AS AÇÕES CIVIL PUBLICA E POPULAR NO CASO DOS AUTOS. INAPLICABILIDADE DA LEI Nº 4.717/65 NESTE CASO EM PARTICULAR. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO NÃO SANADA EM SEDE DE EMBARGOS DE DECLARAÇÃO.
+DESCABIMENTO. VIOLAÇÃO DE LEI FEDERAL. PRETENSÃO QUE DEMANDA O REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. ÓBICE DE INADMISSIBILIDADE. SÚMULA 7 DO STJ. CONFIRMAÇÃO. DEFICIÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284 DO STF. ACÓRDÃO EM HARMONIA COM ENTENDIMENTO PACIFICADO NO ST. SÚMULA 83 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. A ausência de demonstração da violação aos dispositivos legais pela agravante no acórdão recorrido implica deficiência de fundamentação, conforme pacífico entendimento deste STJ. Aplicação da Súmula 284 do STF.
+(..)
+5. Agravo interno não provido.
+(AgInt no AREsp 1750087/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/04/2021, DJe 28/04/2021)
+Outrossim,quanto aos arts. 620 e 683, II, do CPC/73, os recorrentes afirmamque oLaudo de Avaliação Judicial estaria desatualizado, pois fora elaborado há mais de 2 anos e, portanto, seria necessária nova avaliação. Ocorre, todavia, que essa temática carece do necessário prequestionamento, uma vez que o eg. Tribunal estadual não analisou essacontrovérsia à luz dessa temática.
+Por fim, o recurso não prospera pela divergência jurisprudencial, pois a mera transcrição de ementas dos acórdãos paradigmas é insuficiente para dar ensejo ao apelo nobre interposto pela alínea "c" do permissivo constitucional.
+Assim, verifica-se que o recurso não merece prosperar.
+Diante do exposto, nego provimento ao recurso especial
+Publique-se.
