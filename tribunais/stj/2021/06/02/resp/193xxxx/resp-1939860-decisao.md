@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se deRecurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão proferidoassim ementado:
+APELAÇÃO CÍVEL. JUÍZO DE RETRATAÇÃO. ART. 1030, II DO CPC/15.REMUNERAÇÃO DOS SERVIDORES PÚBLICOS DO TRIBUNAL DE JUSTIÇA.LEI ESTADUAL Nº 1.206/1987.RECEBIMENTO DAS DIFERENÇAS VENCIDAS E VINCENDAS, NÃO PAGAS, OBSERVADA A PRESCRIÇÃO QUINQUENAL. SENTENÇA DE PROCEDÊNCIA. REAJUSTE DOS 24%, INTEGRALMENTE, IMPLEMENTADO.PERDA DO OBJETO. DIFERENÇAS, VENCIDAS E VINCENDAS, INDEVIDAS EM VIRTUDE DO JULGAMENTO DO RECURSO EXTRAORDINÁRIO COM AGRAVO DE Nº 909.437 DE RELATORIA DO MINISTRO LUÍS ROBERTO BARROSO, COM REPERCUSSÃO GERAL, FICANDO DISPENSADA A DEVOLUÇÃO DAS VERBAS RECEBIDAS ATÉ 1º-09-2016.RESSALVADO O POSICIONAMENTO ANTERIOR DESTA RELATORA, QUE SE SUBMETE AO STF EM RAZÃO DO COMANDO DA LEI PROCESSUAL CIVIL.JUÍZO DE RETRATAÇÃO EXERCIDO, PARA DAR PARCIAL PROVIMENTO AO APELO DO ESTADO.
+Os primeiros Aclaratórios foram acolhidos nos termos da ementa a seguir:
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL, REQUERENDO A FIXAÇÃO DOS HONORÁRIOS SUCUBENCIAIS EM RAZÃO DE EXERCÍCIO DE JUÍZO DE RETRATAÇÃO. REMUNERAÇÃO DOS SERVIDORES PÚBLICOS DO TRIBUNAL DE JUSTIÇA. LEI ESTADUAL Nº 1.206/1987. REAJUSTE DOS 24%.PROVIMENTO AOS EMBARGOS DE DECLARAÇÃO PARA FIXAR OS HONORÁRIOS SUCUMBENCIAIS E CONCEDER DE OFÍCIO O BENEFÍCIO DA GRATUIDADE DE JUSTIÇA EM FAVOR DOS AUTORES.
+Os segundos Embargos de Declaração foram acolhidos, nos termos da ementa abaixo copiada:
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL, REQUERENDO A FIXAÇÃO DOS HONORÁRIOS SUCUBENCIAIS EM RAZÃO DE EXERCÍCIO DE JUÍZO DE RETRATAÇÃO. REMUNERAÇÃO DOS SERVIDORES PÚBLICOS DO TRIBUNAL DE JUSTIÇA. LEI ESTADUAL Nº 1.206/1987. REAJUSTE DOS 24%.PROVIMENTO AOS EMBARGOS DE DECLARAÇÃO PARA FIXAR OS HONORÁRIOS SUCUMBENCIAIS E CONCEDER DE OFÍCIO O BENEFÍCIO DA GRATUIDADE DE JUSTIÇA EM FAVOR DOS AUTORES.
+A parte recorrente alega que foram violados os arts.99, caput e § 2º,489, IIe § 1º, III,494,507,994 e 1.022, II, do CPC/2015. Aduz:
+a) Da negativa de vigência ao artigo 1.022, II, do Código de Processo Civil:
+Consoante o afirmado anteriormente, o Colendo Colegiado local deixou de manifestar-se sobre questão essencial ao deslinde da presente controvérsia, qual seja, a impossibilidade de se conferir à petição de fls. 788/790 caráter de recurso anômalo, em clara afronta ao artigo 994, do Código de Processo Civil.
+(..)
+b) Da violação aos artigos 494, 507 e 994, do digesto adjetivo civil:
+Conforme o afirmado anteriormente, conferiu-se, a uma petição simples (qual seja, aquela juntada às fls. 788/790), o caráter de recurso, em evidente afronta à taxatividade recursal, prevista no artigo 994, do códex adjetivo civil, razão pela qual a concessão da gratuidade de Justiça também extrapolou os limites previstos no artigo 494, do mesmo diploma.
+Ora, não tendo sido interposto recurso visando à alteração do v.acórdão de fls. 755/766, configura-se a preclusão, razão pela qual se caracteriza a negativa de vigência ao artigo 507, do Código de Processo Civil.
+Destarte, o presente recurso deverá ser provido, anulando-se a concessão da gratuidade de Justiça.
+(..)
+c) Da afronta aos artigos 99, caput e §2º, e 489, II, e §1º, III, ambos da lei de ritos:
+Ainda que não se considere que a gratuidade de Justiça não poderia ter sido concedida após o encerramento da jurisdição do Colendo Colegiado local e por intermédio de petição simples, tal benefício deverá ser revogado. Senão vejamos:
+Não obstante o artigo 99, caput, e §1º, do Código de Processo Civil, preveja a possibilidade de concessão de gratuidade de Justiça em grau recursal, tal benefício deverá ser requerido pela parte interessada no momento oportuno (isto é, antes do encerramento da jurisdição do Colendo Colegiado), em especial na hipótese em que todas as custas, emolumentos e a taxa judiciária já tenham sido pagas.
+(..)
+Além de haver necessidade de requerimento oportuno pelos autores, o §2º do referido artigo determina que sejam, também, comprovados os requisitos necessários para a fruição do benefício.
+É o relatório.
+Decido.
+Não há ofensa aos arts.489, II,§1º, e 1.022, II, do CPC/2015, pois o Tribunal de origem julgou integralmente a lide, manifestando-se quanto às questões relevantes e imprescindíveis ao deslinde do feito.
+Ao decidir a controvérsia, o Tribunala quoconsignou (fls. 876-877):
+Na hipótese, foi exercido juízo de retratação quanto ao julgado referente ao reajuste de 24% para os servidores do Judiciário do Estado do Rio de Janeiro, sendo julgado improcedente o pedido, invertendo os ônus sucumbenciais, contudo, concedendo de ofício a gratuidade de justiça em favor dos autores, ora embargados.
+Assiste parcial razão ao embargante quanto à alegada omissão, no que tange a condenação da verba honorária a qual deve ser paga pelos embargados solidariamente.
+No que tange a gratuidade de justiça, o benefício deve ser mantido, pois no voto foiesclarecido a justificativa para a concessão do beneficio ante a falta de reajuste salarial em favor do embargado (servidores do Judiciário) por diversos anos.
+No mais, a irresignação prospera porque destoa do entendimento do Superior Tribunal de Justiça de que não é possível a concessão de benefício da assistência judiciária de ofício.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.MILITAR DA AERONÁUTICA. DECISÃO DA PRESIDÊNCIA DO STJ QUE NEGA SEGUIMENTO AO RECURSO ESPECIAL EM RAZÃO DA AUSÊNCIA DE PREPARO.AUSÊNCIA DE PEDIDO PRÉVIO E DE DECISÃO ANTERIOR DEFERINDO O BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA FORMULADO NO BOJO DO RECURSO ESPECIAL. ERRO GROSSEIRO. NECESSIDADE DE POSTULAÇÃO POR MEIO DE PETIÇÃO AVULSA.INTELIGÊNCIA DO ART. 6º DA LEI 1.060/1950. AUSÊNCIA DE PREPARO.RECURSO ESPECIAL DESERTO. INCIDÊNCIA SÚMULA 187/STJ. PRECEDENTES.AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A concessão do benefício está condicionada à existência de pedido expresso do interessado em tal sentido, de modo a declarar que não está em condições de pagar as custas processuais e honorários advocatícios, sem prejuízo da subsistência própria ou de sua família. Inteligência do art. 4º da Lei 1.060/1950.
+2. Inexistindo pedido de concessão dos benefícios da assistência judiciária gratuita anterior à interposição do recurso especial, nem decisão expressa deferindo tal vantagem e não competindo ao magistrado, de ofício, deferir tal benesse, por depender de requerimento expresso do interessado, não prospera a alegação do agravante de que vem litigando sob o pálio da assistência judiciária gratuita desde as instâncias ordinárias.
+3. "A eventual concessão do benefício da gratuidade de Justiça tem efeitos ex nunc, não podendo, pois, retroagir à data de interposição do recurso de apelação, sem o devido preparo e sem que tivesse sido expressamente deferido o benefício, que, no caso, não foi requerido simultaneamente à interposição do recurso" (EDcl no REsp 1211041/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014).
+4. Inaplicável na espécie o entendimento firmado na Corte Especial do STJ no julgamento do AgRg no EAREsp 86.915/SP, rel. Min. Raul Araújo, Dje 04/3/2015, isto porque no presente casu inexiste qualquer decisão prévia à interposição do recurso especial que tenha deferido expressamente o benefício da assistência judiciária gratuita, enquanto que o entendimento da Corte Especial limitou-se a reconhecer a desnecessidade de reiteração do pedido de assistência judiciária gratuita no caso da parte já ter tido o benefício deferido anteriormente, o que não é o caso dos autos.
+5. É firme o entendimento no âmbito do STJ no sentido de que, não obstante o benefício da assistência judiciária gratuita possa ser requerido a qualquer tempo e grau de jurisdição, o pedido formulado no curso do processo deve ser feito por meio de petição avulsa, na forma do art. 6º da Lei 1.060/1950, e não no bojo do recurso especial, como ocorre no presente casu.
+6. Deixando o agravante de formular o pedido de concessão do benefício da assistência judiciária gratuita em petição avulsa e furtando-se de recolher o preparo, conforme exige o art. 511 do CPC, impõe-se reconhecer a deserção do recurso especial. Incidência da Súmula 187/STJ: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+Precedentes.
+7. Agravo regimental não provido.
+(AgRg no AREsp 632.275/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 01/09/2015, DJe 09/09/2015)
+Ante o exposto, dou provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
