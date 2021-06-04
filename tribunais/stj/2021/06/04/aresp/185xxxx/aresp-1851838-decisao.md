@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de agravoem recurso especial interpostoporRA INCORPORAÇÕES LTDA contra decisão que não admitiu o recurso especial fundamentado naalínea"a" do permissivo constitucional, nos qualse discutea validade da penhora do bem de família do fiador dado em garantia em contratos de locação comercial.
+A referida controvérsia teve a repercussão geral reconhecida pelo Supremo Tribunal Federal, nos termos da seguinte ementa:
+"Recurso extraordinário. Constitucional. Civil. Processual civil. Agravo de instrumento. Cumprimento de sentença. Contrato de locação de imóvel comercial. Bem de família do fiador. Penhorabilidade. Tema 295. RE 612.360.Distinguishing. Fiança dada em locação residencial. Multiplicidade de recursos extraordinários. Dissenso jurisprudencial. Papel uniformizador do Supremo Tribunal Federal. Relevância da questão constitucional. Manifestação pela existência de repercussão geral. (RE 1.307.334/SP, Tribunal Pleno, Processo eletrônico, DJe 09/03/2021)"
+Forte nessas razões, DETERMINO o sobrestamento dorecursona Secretaria desta Corte Superior, até a publicação do acórdão paradigma, a ser proferido no Recurso Extraordinário 1.307.334/SP (Tema 1.127).
+Publique-se. Intimem-se.
