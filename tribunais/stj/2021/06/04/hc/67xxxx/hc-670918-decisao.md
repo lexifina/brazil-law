@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado contra decisão monocrática do relator da correição parcial, processo 0027696-69.2021.8.21.7000, que indeferiu o pleito liminar.
+A paciente foi denunciadaincursano artigo 2º, caput, da Lei 12.850/2013, artigo 1º, caput, §1º, inciso I, e §4º, da Lei n.º 9.613/1998 e artigo 1º, caput, §1º, incisos 1 e II, e §4º, da Lei nº 9.613/98 (duas vezes), na forma dos artigos 29, caput, e 69, caput, ambos do Godtgo Penal. Na ação penal originária foi designada audiência para oitiva das testemunhas de acusação.
+Busca-se com a impetração, em sede liminar e no mérito,que seja cancelada a audiência designada para 08/06/2021, destinada à oitiva das testemunhas de acusação, sob a alegação de que a defesa técnica precisa ter acesso aos documentos constantes de aparelhos apreendidos (02 notebooks e 01 netbook) para o fim de exercício da ampla defesa e do contraditório na ocasião da audiência.
+É o relatório.
+Decido.
+A jurisprudência desta Corte Superior, aplicando por analogia o enunciado n.691da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer de mandamus impetrado contra decisão indeferitória de liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum.Nesse sentido, destaco os seguintes precedentes:
+AGRAVO REGIMENTAL NOHABEAS CORPUSINDEFERIDO LIMINARMENTE. ÓBICE DA SÚMULA 691/STF. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA.
+AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA NA DECISÃO IMPUGNADA. AGRAVO DESPROVIDO.
+1. Ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula691do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância.
+2. Não há como acolher a tese de flagrante ilegalidade ou teratologia quando os marcos temporais analisados, prima facie, não revelam a ocorrência da prescrição da pretensão punitiva, nos termos pleiteados.
+3. Agravo regimental não provido (AgRg no HC 544.768/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 14/02/2020) AGRAVO REGIMENTAL NOHABEAS CORPUS.EXECUÇÃO PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTROHABEAS CORPUSNA ORIGEM. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.º691DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. REGIME INICIAL SEMIABERTO. SAÍDA TEMPORÁRIA. REQUISITO OBJETIVO NÃO CUMPRIDO. NECESSIDADE DE CUMPRIMENTO DE 1/6 (UM SEXTO) DA PENA.HABEAS CORPUSINDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admitehabeas corpuscontra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço, mormente porque o entendimento desta Corte Superior é no sentido de que, à luz do disposto no art. 123, inciso II, da Lei de Execução Penal, o condenado deve atender ao requisito do prazo mínimo de cumprimento da pena, mesmo nos casos de condenados em regime inicial semiaberto.
+3. Agravo regimental desprovido (AgRg no HC 550.844/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 04/02/2020).
+Na hipótese, ao menos em juízo perfunctório, não vislumbro a possibilidade de superação do mencionado enunciado sumular. Note-se que o indeferimento da tutela de urgência pautou-se em fundamentação idônea ao afirmar que a pretensão deduzida não foi submetida ao crivo do juízo de piso, que os fundamentos da decisão atacada não foram impugnados, além da falta de demonstração de efetivo prejuízo ou abuso da decisão proferida.
+Assim, de acordo com a pacífica jurisprudência do Superior Tribunal de Justiça, a fim de evitar indevida supressão de instância, deve-se aguardar o julgamento do feito pela Corte de origem.
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
