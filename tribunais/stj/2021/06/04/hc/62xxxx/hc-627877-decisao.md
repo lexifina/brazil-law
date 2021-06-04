@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de EDUARDO AUGUSTO DOS SANTOS LISBOA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do HC n. 2257040-24.2020.826.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 26/10/2020 por ter supostamente praticado o delito tipificado no art. 157, caput, do Código Penal (roubo simples). Referida custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrouhabeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdãoassim ementado:
+"Habeas Corpus - Roubo simples - Prisão em flagrante convertida em preventiva - Pedido de revogação - Risco na manutenção da prisão em razão da pandemia pelo COVID-19 - Descabimento - Decisão devidamente fundamentada - A gravidade concreta da conduta e a condição de renitente do paciente justificam a necessidade da prisão cautelar - Insuficiência das medidas cautelares diversas da prisão - Presentes os requisitos dos artigos 312, e 313, I, ambos do Código de Processo Penal - Ausência de comprovação de pertencer ao grupo de risco da pandemia do COVID-19 - Constrangimento ilegal não evidenciado - Ordem denegada" (fl. 14).
+No presente mandamus, ressalta as condições pessoais favoráveis do paciente e alega ausência dos requisitos autorizadores da custódia cautelar, previstos no art. 312 do Código de Processo Penal.
+Assevera que eventual condenação fixará regime inicial diverso do fechado, razão pela qual a manutenção da medida extrema se mostra desproporcional ao casoconcreto.
+Requer, assim, em liminar e no mérito, a expedição de alvará de soltura, ainda que mediante aplicação de medidas cautelares alternativas, nos termos do art. 319 do CPP. Subsidiariamente, busca a conversão da preventiva em domiciliar.
+O mandamusfoi indeferido liminarmente em decisão de fls. 23/25, que foi reconsiderada para negar o pedidoliminaràs fls. 37/39. Informações prestadas às fls. 48/51 e 56/80. O Ministério Público Federal opinou pelo não conhecimento dowritem parecer acostado às fls. 82/85.
+É o relatório.
+Decido.
+De acordo com informações obtidas na página eletrônica do Tribunal de origem, verifica-se que, nos autos da Ação Penal n. 1522618-59.2020.8.26.0228, em 28/4/2021, sobreveio sentençacondenando a ora paciente àpenade 4 anos de reclusão, em regime inicial semiaberto, e ao pagamento de 10 dias-multa, pela prática dodelitoprevistono art. 157, caput, do Código Penal, tendo sido mantida a custódia cautelar com base em fundamentos diversos daqueles utilizados na decisão da preventiva e expedida guia de execução provisória.
+In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar do réu, agregando fundamentos novos ao decreto prisional, consoante se extrai do seguinte trecho do julgado, in verbis:
+"O réu respondeu preso a todo o processo e não se justificaria a soltura após a condenação. Assim, utilizados os mesmos fundamentos que ensejaram a fixação do regime inicial fechado para o cumprimento da pena, nego o apelo em liberdade, sem prejuízo da execução provisória da pena, salientando-se que subsistem os fundamentos que ensejaram a decretação da prisão preventiva do acusado, o qual praticou crime de roubo, que se caracterizou pela grave ameaça contra a vítima, a demonstrar que a manutenção da custódia do réu é medida necessária para a garantia da ordem pública"
+Nesse contexto, verifica-se que, diante da alteração do cenário fático-processual, consubstanciada no advento de novo título judicial decorrente da sentença condenatória proferida em desfavor do ora paciente, fica superada a alegação trazida na impetração que ataca os fundamentos na manutenção da prisão preventiva por ocasião do reanálise do decreto preventivo.
+Ademais, conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelar, devem ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, sob pena de se incidir em indevida supressão de instância.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVOS FUNDAMENTOS A EMBASAR A CUSTÓDIA. WRIT PREJUDICADO. APELAÇÃO DEFENSIVA. EXECUÇÃO PROVISÓRIA. AGRAVO DESPROVIDO.
+1. A superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar.
+2. Além disso, é possível a execução provisória da pena após a confirmação da sentença condenatória pelo Tribunal de origem quando exaurida a jurisdição ordinária.
+3. Agravo regimental desprovido.
+(AgRg no HC 461.932/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 19/08/2019).
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
