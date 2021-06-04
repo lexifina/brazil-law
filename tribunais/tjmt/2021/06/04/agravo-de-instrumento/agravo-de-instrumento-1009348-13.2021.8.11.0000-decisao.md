@@ -1,0 +1,30 @@
+AGRAVO DE INSTRUMENTO No 1009348-13.2021.8.11.0000
+AGRAVANTE:- DIEGO DA SILVA SOARES CRUZ
+AGRAVADAS:- HESA 114- INVESTIMENTOS IMOBILIARIOS LTDA e outras
+Agravo de Instrumento n. 1009348-13.2021.8.11.0000 de decisão da 10a Vara Cível da Comarca de Cuiabá que, em Ação de Anulação de Ato Jurídico, indeferiu a tutela de urgência em que o agravante pleiteava autorização para depositar em juízo o valor incontroverso atualizado com os acréscimos legais, além das prestações que se vencerem nesse período, bem como seu nome não seja inserido nos cadastros de inadimplentes.
+Alega o seguinte:
+- que a se dizente “Credora Fiduciária, TRUE SECURITIZADORA S/A”, não notificou da cessão de crédito anunciada, sendo, pois, ineficaz contra o AGRAVANTE devedor, nos termos da Lei Civil (“Art. 290. A cessão do crédito não tem eficácia em relação ao devedor, senão quando a este notificada; mas por notificado se tem o devedor que, em escrito público ou particular, se declarou ciente da cessão feita.)”;
+- que a notificação feita por GATRIA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS e datada de 29/12/2017 trazida em contestação (ID.50559327 – pag.1/2 –), não foi recebida pelo Autor pessoalmente e dela não teve conhecimento, desconhecendo completamente quem teria assinado referido “AR” na ocasião;
+- que da inicial se observa (NU. 1052945-40.2020.811.0041 ID 43019121 doc.08), que fez constar pleito de notificação aos terceiros interessados, dentre eles a TRUE SECURITIZADORA S/A à conta do recebimento do e-mail que acompanha a inicial, recebido da parte contrária (NU. 1052945-40.2020.811.0041 ID 43019130 – doc. ), onde lhe faz menção;
+- que já em relação à OLIVEIRA TRUST DTVM S/A, se fez também pleitear na inicial sua notificação do litigio, então, enquanto eventual terceira interessada, na medida em que esta constou enquanto custodiante registrada na respectiva matrícula imobiliária em “AV-9-100.119 (...) de 23/05/2018” (ID.43019123 - Pág. 5), portanto posterior àquela pretensa notificação da cessão à GATRIA (supostamente havida em 29/12/2017), acima referida;
+- que da contestação já ofertada pela requerida originária, HESA 114 – INVEST. IMOB. LTDA, noticia-se ID.50559312 - Pág. 10), inclusive com formulação de denunciação da lide por esta, que tais créditos teriam sido cedidos à “GATRIA – FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS, fundo de investimento em direitos creditórios não padronizados, inscrita sob o CNPJ n. 21.025.084/0001-98, administrado por OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S/A, inscrita no CNPJ n. 36.113.876/0001-91, (...), e TRUE SECURITIZADORA SA, inscrita no CNPJ n. 12.130.744/0001-00 (...)” (ID.50559312 - Pág. 10);
+- que por tais razões, aliado ao próprio pleito da AGRAVADA HESA-114 em contestação (ID.50559312 - Pág. 14), fora deferida a denunciação da lide desses terceiros, já que, em qualquer dos casos dos pedidos alternativos formulados, serão diretamente afetados como cessionários da CÉDULA DE CRÉDITO IMOBILIÁRIO CCI no02304, Série 0268, emitida em São Paulo-SP em 07/11/2017, que tanto circulou;
+- diante de tais circunstâncias peculiares, supervenientes e, principalmente, trazidas em inovação na contestação, tem o AGRAVANTE direito de renovar à disposição do Juízo, o pleito de depósito dos valores incontroversos das prestações vencidas e atualizadas até a data de sua efetivação – à proporção dos valores em razão da diferença de metragem havida na aquisição ad mensuram de que tratam os pedidos – como forma de deferir-se a suspensão dos efeitos da referida mora; razão maior deste recurso de tutela de urgência formulado.
+Aduz que há perigo da demora porque pode ocorrer a expropriação extrajudicial do bem (art. 26, da Lei n. 9.514/97).
+Pede a antecipação da tutela recursal.
+É o relatório.
+O agravante ajuizou o feito alegando que adquiriu imóvel ad mensuram em 7-11-2017 e mais tarde soube que a metragem era inferior à prometida, pois teria contratado a aquisição de 107,35m2 e recebido 87,5356m2.
+Pleiteia o depósito em juízo do valor que entende incontroverso, bem como a não inclusão do seu nome nos cadastros de inadimplentes.
+Inicialmente a tutela de urgência foi indeferida, depois o pleito foi renovado, argumentando fato novo, visto que foi constituído em mora por meio de notificação, e há risco de expropriação do bem.
+O pedido foi indeferido nos seguintes termos:
+(...)
+Do mesmo modo, não há como deferir o pedido de tutela de urgência por fato superveniente, para que seja autorizado o depósito judicial nos autos da importância incontroversa atualizada, desde as vencidas a partir de maio/2020 até as que se venceram no curso do feito até hoje, ou seja, R$ 69.325,19, vez que não se pode verificar, num juízo de cognição sumária, a existência de todos os pressupostos legais ensejadores da tutela de urgência requerida, vez que necessita de melhor análise para verificar se o valor que se pretendem consignar é suficiente para liquidar a obrigação, considerando que pelo demonstrativo de id, 51774089, não houve a atualização do débito e nem a incidência dos encargos moratórios. (Id 88951472)
+O parágrafo único do art. 995 do CPC dispõe que a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Não obstante as razões recursais, não ficou demonstrado dano iminente que exigiria o deferimento da medida neste momento processual, pois que não há indicação de que o imóvel esteja em via de ser expropriado.
+A matéria exige a oitiva das agravadas para uma segura conclusão.
+Importante consignar que o Agravo de Instrumento tem tramitação célere e, tão logo apresentada a contraminuta, será imediatamente incluído em pauta para julgamento.
+Posto isso, indefiro, por ora, a antecipação da tutela recursal.
+Intime-se a parte adversa para oferecer resposta em quinze dias.
+Cuiabá, 4 de junho de 2021.
+Des. Rubens de Oliveira Santos Filho
+Relator
