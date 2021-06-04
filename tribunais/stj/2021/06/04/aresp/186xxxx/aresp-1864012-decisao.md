@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOÃO FORTES ENGENHARIA S A e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL E RECURSO ADESIVO. CONSUMIDOR. PROMESSA DE COMPRA E VENDA DE IMÓVEL NÃO REALIZADA. INTERMEDIADOR QUE AGIU EM NOME DAS PESSOAS JURÍDICAS, COMO VERDADEIRO MANDATÁRIO. RESPONSABILIDADE OBJETIVA E SOLIDÁRIA PELOS DANOS CAUSADOS. VERBA DE INTERMEDIAÇÃO QUE SOMENTE SERIA DEVIDA SE HOUVESSE A CONCRETIZAÇÃO DO NEGÓCIO, SEGUNDO EXPRESSA PREVISÃO CONTRATUAL. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DE AMBOS OS RECURSOS.
+Quanto à controvérsia, alega violação dos arts. 186 e 927 do CC, atinente à configuração de dano moral indenizável, trazendo o seguinte argumento:
+17. Como dito, não existiu qualquer dano ao recorrido, e, por consequência, dever de indenizar pelos recorrentes (art. 927 do CC), por inexistência de ato ilícito (art. 186 do CC), tendo em vista que a situação dos autos representa mero descumprimento contratual, incapaz de gerar danos morais, de acordo com o entendimento consolidado do Superior Tribunal de Justiça.
+18. Tal premissa afasta a responsabilidade civil em qualquer das suas configurações, incluindo, naturalmente, a reparação por danos existenciais (fls. 239-240).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No tocante ao dano moral, entende-se que este restou devidamente comprovado, em razão da absoluta ausência de informação ao promitente comprador das razões que o impediam de prosseguir na aquisição de sua casa própria, situação que ultrapassa o mero aborrecimento, pois envolve todo um planejamento de vida familiar.
+Quanto ao valor fixado, qual seja, R$ 7.000,00 (sete mil reais), a quantia se afigura razoável e proporcional, levando-se em conta seu viés punitivo e pedagógico. A propósito, confira-se o seguinte enunciado de súmula da jurisprudência deste Tribunal de Justiça:
+ ..
+Imperioso esclarecer que o terceiro réu agiu como verdadeiro mandatário da primeira e segunda rés e dentro dos limites que lhe cabia, qual seja, intermediar uma compra e venda de imóvel, razão pela qual não há de se reconhecer sua responsabilidade pessoal pelos danos morais (fls. 221-222, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, quanto à qualificação dos fatos como mero dissabor ou suscetíveis de gerar danos morais, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: "O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela ocorrência de mero dissabor, afastando o dano moral. A revisão do entendimento adotado encontra óbice no verbete 7 da Súmula desta Corte", (AgRg no AREsp n. 448.372/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13/11/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.652.952/MG, relator Ministro Moura Rribeiro, Terceira Turma, DJe de 26/8/2020; AREsp 1.605.195/BA, relator Ministro Herman Benjamin, Segunda Turma, DJe de 27/2/2020; e AgInt no AREsp 964.314/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 27/3/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
