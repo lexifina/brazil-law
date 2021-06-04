@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042, CPC/15), interposto por PREDIAL NOVO MUNDO LTDA, em face de decisão que inadmitiu o recurso especial dainsurgente.
+O apelo extremo, manejado com amparo na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 328, e-STJ):
+CONSTRUÇÃO EM TERRENO ALHEIO Indenização Hipótese em que não é possível afastar a boa-fé do autor, que construiu prédio em terreno adquirido por seu pai Ação de rescisão do contrato de compra e venda de imóvel por inadimplemento do compromissário comprador verificado desde 2004 ajuizada somente no ano de 2014, havendo notícia de construção de prédio no terreno Promitente vendedora que, na qualidade de empresa atuante no ramo da construção civil, detinha meios de obstar a construção ou cientificar o ocupante da real situação jurídica do bem Imóvel que, retomado, foi alienado a terceiro, que aproveitou a construção, realizando apenas obras de acabamento, conforme apurado em perícia Hipótese em que, ainda, foi a promitente vendedora indenizada pelo longo período de indisponibilidade do bem Indenização pela construção que se reputa devida e razoável Enriquecimento sem causa e dupla punição que não se admitem Inteligência dos arts. 1.255 e 1.256 do Código Civil Pedido procedente Sentença reformada Inversão dos ônu s de sucumbência Recurso provido.
+Os embargos de declaração foram rejeitados (fls. 349-352, e-STJ).
+Nas razões do recurso especial (fls. 334-341, e-STJ), a insurgenteapontaviolação aos arts. 1.202 e 1.220 do CC, aduzindoa impossibilidade de indenização por benfeitorias realizadas de má-fé e que não é obrigação do proprietário do imóvel adotar providências para obstar as obras ou cientificar o ocupante de posse precária e irregular.
+Foram apresentadas contrarrazões (fls. 357-365, e-STJ).
+Em juízo de admissibilidade, o Tribunal a quo negou seguimento ao recurso especial (fls. 366-368, e-STJ), dando ensejo a interposição do presente agravo (fls. 371-381, e-STJ).
+Foi apresentada contraminuta (fls. 384-390, e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. No que diz respeito à suposta ofensa aos arts. 1.202 e 1.220 do CC, a pretensão recursal também não merece ser acolhida.
+No caso, a Corte estadual consignou expressamente que com base nos arts.1.255 e 1.256, "caput", e parágrafo único, do Código Civil, há de se admitira indenização pelas acessões introduzidas no imóvel.Assim constou do acórdão (e-STJ, fls. 329-330, e-STJ):
+Respeitado o entendimento supra, a despeito da falta de justo título para tanto, o autor exerceu verdadeira posse sobre o bem; e a exerceu como se sua fosse arcando com todos os encargos incidentes e introduzindo obra viável sobre o terreno.
+(..)
+Este foi o comportamento do autor desde, ao menos, março de 2016.
+E é justamente este comportamento que torna crível a alegação de que recebeu o imóvel e iniciou construção sem saber do litígio existente em face de seu pai, que culminou na efetiva retomada do lote por parte da ré somente em agosto de 2018 (fls. 194).
+De qualquer forma, ainda que a boa-fé não pudesse ser identificada, não haveria como deixar de observar que, ajuizada a ação de rescisão contratual e reintegração de posse no ano de 2014, foi a ré devidamente cientificada sobre a existência de construção sobre o lote, conforme se extrai do relatório de fls. 175. Ainda, cuidando-se de empresa cujo ramo de atividade é a construção civil (fls. 158), não é razoável eximi-la do conhecimento da construção que se desenvolvia no terreno que pretendia retomar em razão de inadimplemento verificado desde janeiro de 2004 (fls. 185), quando se sabe que poderia lançar meios legais para obstar as obras ou, no mínimo, cientificar o ocupante da real situação jurídica do lote.
+Portanto, por qualquer ângulo que se analise a questão, seja com fundamento no art. 1.255, seja com base na regra do art. 1.256, "caput", e parágrafo único, do Código Civil, é justo admitir a indenização do autor pelas acessões introduzidas no imóvel.
+Entender o contrário significaria premiar a conduta omissiva da ré, permitindo que enriquecesse indevidamente com os frutos advindos da alienação do prédio construído com os bens e esforços de terceiro.
+Veja-se, por fim, que naquela ação de rescisão contratual, determinou-se a indenização da promitente vendedora pelo período de indisponibilidade do imóvel, superando em grande margem o valor das parcelas pagas (fls. 189), de modo que, negar ao autor indenização pelas acessões realizadas no terreno assemelhar-se-ia à dupla punição.
+Nesse contexto, modificar o entendimento acerca da má-fé doagravado e do descabimento de indenização por acessões no presente caso exigiria, necessariamente, a reanálise das circunstâncias fático-probatórias, o que é vedado em âmbito de recurso especial, ante o óbice do enunciado 7 da Súmula deste Tribunal.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. ESBULHO POSSESSÓRIO COMPROVADO. ACESSÃO. AUSÊNCIA DE BOA-FÉ. INDENIZAÇÃO.IMPOSSIBILIDADE. REVISÃO. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Estabelece o art. 1.255 do Código Civil que "aquele que semeia, planta ou edifica em terreno alheio perde, em proveito do proprietário, as sementes, plantas e construções; se procedeu de boa-fé, terá direito a indenização".
+2. In casu, a Corte de origem, mediante exame do suporte fático- probatório dos autos, reconheceu a má-fé na acessão realizada em terreno destinado à faixa de segurança para passagem de linhas e torres de transmissão de eletricidade, razão pela qual afastou o pleito de indenização do agravante. Infirmar as conclusões do julgado, como ora postulado, encontra óbice no enunciado da Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 159.655/ES, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/09/2014, DJe 09/10/2014)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA DESTA CORTE.RECONSIDERAÇÃO. VENDA DE LOTE POR INSTRUMENTO PARTICULAR - RESCISÃO DO CONTRATO - ACESSÕES FEITAS DE BOA-FÉ - INDENIZAÇÃO - MULTA CONTRATUAL - FALTA DE PREVISÃO - REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS.INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. RECURSO PROVIDO.
+1. O recurso especial não comporta exame de questões que impliquem interpretação de cláusulas contratuais e revolvimento do contexto fático- probatório dos autos (Súmulas n. 5 e 7 do STJ).2. No caso concreto, rever o entendimento do acórdão recorrido para acolher as teses da agravante quanto à natureza da posse exercida sobre o imóvel, para afastar o dever de indenização, e quanto à previsão da multa de 10% (dez por cento) do valor do contrato, demandaria nova análise do contrato e dos demais elementos fáticos dos autos, vedada em sede de recurso especial.
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo em recurso especial.
+(AgInt no AREsp 1627073/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/05/2020, DJe 14/05/2020)
+Incide, no caso, o óbice da Súmula 7/STJ.
+2. Ante o exposto,nego provimento ao agravo.Nos termos do art. 85, § 11, do CPC/2015, majoro em 2% (dois por cento) o valor dos honorários advocatícios arbitrados na origem (fl. 331, e-STJ), totalizando em 17% (dezessete por cento) o percentual da verba honorária.
+Publique-se.
+Intimem-se.
