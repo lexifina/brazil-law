@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo TJSP assim ementado (fl. 139):
+APELAÇÃO - AÇÃO DECLARATÓRIA C.C. DANOS MORAIS - IPTU E TAXA DE RESÍDUOS SÓLIDOS - MUNICÍPIO DE JACAREÍ - Sentença que julgou procedente a ação, condenando o Município ao pagamento de dano moral no valor de R$ 8.000,00. Apelo do Município.
+DANO MORAL - VALOR DA INDENIZAÇÃO - Valor arbitrado em R$ 8.000,00, quantia que atende à proporcionalidade e razoabilidade, não servindo a enriquecimento sem causa, mas apenas para compensar os constrangimentos enfrentados e evitar novos equívocos semelhantes.
+Honorários advocatícios fixados em 10% do valor da condenação (R$ 8.000,00) - Verba honorária que corresponde a aproximadamente R$ 800,00 - HONORÁRIOS RECURSAIS - Artigo 85, §11 do Código de Processo Civil de 2015 - MAJORAÇÃO - POSSIBILIDADE - Ocorre que o Código de Processo Civil não é a única norma a ser aplicada - Aplicação conjunta com a Lei Federal nº 8.906/94 (Estatuto da Advocacia) - Entendimento jurisprudencial no sentido de não permitir o aviltamento da profissão de advogado - Honorários que devem ser fixados de forma razoável, respeitando a dignidade da advocacia - Honorários recursais fixados em R$ 2.200,00, valor que atende aos princípios da razoabilidade e da proporcionalidade - Verba honorária que totaliza R$ 3.000,00.
+Sentença mantida - Recurso desprovido.
+O recorrente alega violação do art. 85, §§2º, 3º e 11, do CPC/2015, sob os seguintes argumentos: a) já há posição consolidada no STJ que a parte que deu causa ao ajuizamento da demanda deve arcar com o seu ônus, pelo princípio da causalidade; b) o valor arbitrado pelo acórdão em face da Fazenda Pública, no importe de R$ 3.000,00, contraria o entendimento firmado pelo STJ que no arbitramento de honorários deve prevalecer a regra objetiva do art. 85, §2º, do CPC/2015, sendo subsidiária a aplicação com base na equidade; c) considerando que o valor da condenação é de R$ 8.000,00, o valor arbitrado como honorários recursais pelo acórdão deixou de respeitar aquela regra objetiva, uma vez que ultrapassa mais de 37,5% do valor dado da condenação, sem contar a ausência de fundamentação a justificar o quanto arbitrado, uma vez que não se trata de causa de valor inestimável ou irrisória com determina o CPC/2015; d) sem desmerecer o serviço prestado pelo patrono do recorrido, embora bem feito, não exigiu muito tempo, e não há nada de especial que justifique o valor fixado; e) além disso, o valor fixado deve seguir o art. 85º, §3º, do CPC/2015; f) a majoração dos honorários na fase recursal ultrapassou os limites impostos no art. 85 do CPC/2015.
+Juízo positivo de admissibilidade às fls. 153-154.
+É o relatório. Passo a decidir.
+No que diz respeito à alegação de ofensa art. 85, §§2º, 3º e 11, do CPC/2015, o acórdão recorrido consignou o seguinte (fls. 141-142):
+"Ocorre que o Código de Processo Civil não é a única norma a ser aplicada.
+Com efeito, nos termos da Lei Federal nº 8.906, de 04 de julho de 1994, Estatuto da Advocacia, no seu art. 33, o advogado é obrigado a cumprir o Código de Ética e Disciplina da OAB, o qual veda a cobrança de honorários inferiores ao mínimo fixado pela Tabela de Honorários da OAB, salvo motivo plenamente justificável.
+No caso, não há motivo justificável para a fixação dos honorários em valores inferiores aos da tabela, sendo que se não é ético para o advogado cobrar menos que a tabela, também não lhe é ético receber abaixo disso, devendo o juiz considerar o respeito e a dignidade dessa nobre profissão, à qual a Constituição reconhece o caráter de indispensável à Justiça.
+A posição da jurisprudência também tem sido no sentido de não permitir o aviltamento da profissão de advogado:
+(..)
+Argumentar que a fixação em valor próximo ao da tabela da OAB fomentaria a litigância é o mesmo que dizer que tal tabela o faz, o que não tem sentido.
+O fato de o perdedor da ação ter que responder por um valor não irrisório, por outro lado, estimula ao cumprimento da lei e da Constituição.
+Dessa forma, o valor deve ser fixado de forma razoável, respeitando a dignidade da advocacia.
+Portanto, os honorários devem ser fixados conforme as regras do Código de Processo Civil e considerando a tabela da OAB para que todas as normas sejam satisfeitas. O valor não precisa ser idêntico ao da tabela, mas deve ser próximo."
+Ocorre que o recorrente não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Ante o exposto, não conheço do recurso especial.
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§2º, 3º e 11 do art. 85 do CPC/2015 e eventual Gratuidade da Justiça (art. 98, §3º, CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS RECURSAIS. LIMITES LEGAIS. ACÓRDÃO COM FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
