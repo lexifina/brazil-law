@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em benefício deEduarda Boaventura dos Santos,apontando-se como autoridade coatora o Tribunal de Justiça doRio Grande do Sul,que denegou a ordem no HC n.5068990-50.2020.8.21.700.
+Consta dos autos que apaciente foi presaem flagrante pela suposta prática dacondutadescritanoart. 33da Lei n. 11.343/2006, bem como teve a sua prisão posteriormente convertida em preventiva.
+Inconformada, a defesa impetrouhabeas corpusna origem. O Tribunala quodenegou a ordem em 14/12/2020(fls. 111/117).
+Na presente impetração, alega-se que não há fundamentação no decreto prisional e que não se encontram presentes os requisitos necessários para a custódia cautelar.
+Aduz-se ofatode a acusada ser mãe de uma criança que lhe autoriza aconcessão da prisão domiciliar ou medidas cautelares alternativas.
+Ressaltam-se os prejudicados favoráveis dapaciente, tais como primariedade.
+Requer-se, assim,a aplicação de medidas cautelares diversas da prisão.
+Indeferido o pedido de liminarem 31/12/2020(fls. 127/128).
+Após informações, às fls. 131/149, oMinistério Público Federal, em seu parecer, opinou pelaconcessão da ordem dohabeas corpus(fls. 156/163).
+É o relatório.
+In casu,verifiquei constrangimento ilegal apto a ensejar a concessão da ordem paraaplicar medidas cautelares diversas da prisão.
+Diz a nossa jurisprudência que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade e não em meras suposições ou conjecturas. Ademais, a custódia cautelar não pode ser imposta com base, essencialmente, na gravidade abstrata do delito, assentada a motivação em elementos inerentes ao próprio tipo penal. Cumpre ao Magistrado vincular seudecisuma fatores reais de cautelaridade, o que não ocorreu na espécie com relação àora paciente.
+In casu, verifica-se que a Corte estadualmanteve a prisão preventivae afastou a pretendida substituição da custódia cautelar por medidas diversas da prisão, com os seguintes fundamentos (fls. 112/113- grifo nosso):
+ ..
+Conforme observado in limine, há indícios da prática delitiva em relação à paciente, a qual restou presa na posse, em tese, de 14 porções de maconha, pesando cerca de 19 gramas, bem como de 24 pinos de cocaína.
+Na ocasião, a inculpada estava com seu companheiro - corréu Glauber, com o qual também foram encontradas substâncias estupefacientes e um revólver municiado - em frente a umaresidência, momento em que restaram abordados e revistados.
+O co-denunciado, na fase informativa, referiu que estava na localidade para visitar sua amante, Eduarda. Esta, por sua vez, quando ouvida, assumiu a posse dos entorpecentes e da arma de fogo, bem como da prática do comércio ilícito destes, tendo, inclusive, aduzido, em tese, que o artefato bélico era utilizado "para sua proteção contra facções rivais".
+Há, nessas condições, demonstração do fumus comissi delicti.
+Já o periculum libertatis vem demonstrado, como referido, pelos indicativos de maior envolvimento da acusada em atividades ilícitas, inclusive no tráfico de drogas, dada a apreensão de razoável quantidade de drogas, de duas espécies distintas, sendo que uma delas sabidamente possui maior poder destrutivo e viciante, o que confere gravidade superior a conduta à paciente imputada.
+Ademais, o fato de ter sido também apreendida arma de fogo, na ocasião do flagrante, denota ainda mais a lesividade da conduta perpetrada pela acusada, bem como aponta ser imperiosa, ao menos por ora, a manutenção de sua constrição cautelar.
+Acresço, ainda, que, embora seja tecnicamente primária, a ré responde a processo pelo cometimento, em tese, do crime de extorsão praticada com emprego de arma de fogo (001/2.18.0094499-1), o que demonstra sua maior propensão a práticas delitivas e a possibilidade de que, na espécie, tenha voltado a delinquir.
+ ..
+Na hipótese, não se está diante de prisão preventiva desmotivada, pois, embora as instâncias ordinárias, ao manterem a custódia, tenham mencionado a quantidade e variedade de drogas 19 g de maconha e 24 pinos de cocaína)e o fato de responder a outro processo pelo suposto crime de extorsão com emprego de arma de fogo, nota-se que os elementos relacionados ao fato - réprimáriae quantidade não expressiva de entorpecentes- são indicativos de que não se trata de pessoa envolvida com organização criminosa nem de tráfico de grandes proporções.
+Contudo, a meu ver, em termos de proporcionalidade, não comporta a medida extrema adotada na origem e confirmada, depois, pelo Tribunal local, sendo suficiente a aplicação de medidas cautelares alternativas, uma vez que ocrimeimputadonão foicometidocom violência ou grave ameaça à pessoa.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto. A propósito: HC n. 255.834/MG, Ministro Jorge Mussi, Quinta Turma, DJe 15/9/2014.
+Ademais, considerando tratar-se de crime cometido sem violência ou grave ameaça e haja vista a máxima excepcionalidade exigida, tendo em conta a Recomendação CNJ n. 62/2020 como medida, inclusive, de contenção da pandemia mundialmente causada pelo coronavírus (Covid-19), entendo que a custódia cautelar deve ser substituída por medidas cautelares alternativas.
+Não foi outra a opinião daSubprocuradora-Geral da República Samantha Chantal Dobrowolskiem seu parecer, principalmente ao ressaltar que (fl. 162):
+ ..
+Desse modo, considerando que, na hipótese, o crime não foi praticado com violência ou grave ameaça, tampouco contra descendente, viável a concessão da prisão domiciliar, ante a comprovação de que a paciente é genitora de menor de 12 anos (e-fl. 17).
+Por fim, deve-se reconhecer ainda que a paciente faz parte de grupos alvos da Recomendação n.º 62/2020 do CNJ (crimes praticados sem violência ou grave ameaça e mãe de menor), que trata da adoção de medidas preventivas à propagação da infecção pelo novo coronavírus no âmbito dos sistemas de justiça penal e socioeducativo, o que reforça a necessidade de substituição da segregação na hipótese em comento.
+Desse modo, ante a possibilidade de aplicação de medida cautelar diversa, forçoso convir que foi demonstrada, in casu, a ocorrência de excepcionalidade apta a embasar a atuação de ofício dessa Corte Superior.
+ ..
+No mesmo sentido, confiram-se os seguintes precedentes:
+PROCESSO PENAL.HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. CONDIÇÕES FAVORÁVEIS. MEDIDAS CAUTELARES DIVERSAS. POSSIBILIDADE. PROPORCIONALIDADE.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste opericulum libertatis.
+2. Na espécie, realizada a prisão em flagrante, a prisão preventiva foi decretada em razão da variedade e quantidade das drogas apreendidas, a saber, 274g (duzentos e setenta e quatro gramas)de maconha, 49g (quarenta e nove gramas) de ecstasy e 8g (oito gramas) de cocaína.
+3. Não obstante a quantidade de droga apreendida não possa ser considerada pequena, também não é, por outro lado, indicativa, por si só, da periculosidade do agente, a ponto de justificar o encarceramento preventivo. Some-se a isso que opaciente ostenta condições pessoais favoráveis.
+4. Assim, as particularidades do caso demonstram a suficiência, adequação e proporcionalidade da imposição das medidas menos severas previstas no art.319, em atenção ao preceito de progressividade das cautelas disposto no art. 282, §§ 4º e 6º, todos do Código de Processo Penal, em razão da quantidade não expressiva de droga apreendida, aliado ao fato de o delito não ter sido cometido mediante emprego de violência ou grave ameaça.
+5. Ordem concedida para substituir a prisão preventiva por medidas cautelares diversas a serem fixadas pelo Juiz singular.
+(HC n. 609.144/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 30/11/2020 - grifo nosso)
+RECURSO ORDINÁRIO EMHABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. RECURSO PROVIDO.
+1. Sabe-se que o ordenamento jurídico vigente traz a liberdade do indivíduo como regra. Desse modo, antes da confirmação da condenação pelo Tribunal de Justiça, a prisão revela-se cabível tão somente quando estiver concretamente comprovada a existência dopericulum libertatis, sendo impossível o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+2. Na hipótese, o Juízo de primeira instância não apontou nenhuma circunstância idônea que pudesse evidenciar a necessidade da custódia cautelar do paciente para o resguardo da ordem pública, da ordem econômica, para a conveniência da instrução processual ou para assegurar a aplicação da lei penal, nos moldes do que preconiza o art. 312 do Código de Processo Penal. Assim, considerando que do decreto prisional não se extrai a imprescindibilidade da medida extrema e que, notadamente, o recorrente ostenta condições pessoais favoráveis, já que primário e portador de bons antecedentes, não há óbice a que responda ao processo em liberdade.
+3. Recurso provido.
+(RHC n. 82.043/MG, Ministro Nefi Cordeiro, Rel. p/ Acórdão Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 9/4/2018)
+HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO CABÍVEL. IMPOSSIBILIDADE. TRÁFICO DE ENTORPECENTES. RESISTÊNCIA. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. REDUZIDA QUANTIDADE DA DROGA APREENDIDA. RÉU PRIMÁRIO. MEDIDAS CAUTELARES ALTERNATIVAS. ADEQUAÇÃO E SUFICIÊNCIA. COAÇÃO ILEGAL EM PARTE DEMONSTRADA.WRITNÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O STF passou a não mais admitir o manejo do habeas corpus originário em substituição ao recurso ordinário cabível, entendimento que foi aqui adotado, ressalvados os casos de flagrante ilegalidade, quando a ordem poderá ser concedida de ofício.
+2. A aplicação de medidas cautelares, aqui incluída a prisão preventiva, requer análise, pelo julgador, de sua necessidade e adequação, a teor do art. 282 do CPP, observando-se, ainda, se a constrição é proporcional ao gravame resultante de eventual condenação.
+3. A prisão preventiva somente será determinada quando não for cabível a sua substituição por outra medida cautelar e quando realmente se mostre necessária e adequada às circunstâncias em que cometido o delito e às condições pessoais do agente. Exegese do art. 282, § 6º, do CPP.
+4. No caso, não obstante a reprovabilidade da conduta, mostra-se devida e suficiente a imposição de medidas cautelares alternativas, dada a apreensão de ínfima quantidade de estupefaciente e a primariedade do paciente.
+ ..
+(HC n. 438.701/SP, Ministro Jorge Mussi,Quinta Turma, DJe 28/6/2018 - grifo nosso)
+Ante o exposto,concedoa ordem para substituir a prisão preventiva imposta àpaciente pelas medidas cautelares previstas no art. 319 do Código de Processo Penal, salvo se por outro motivo estiver presa,e sob o compromisso de comparecimento aos atos do processo, cabendo ao Magistrado de primeiro grau o estabelecimento das condições.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. DESPROPORCIONALIDADE. CRIMESEM VIOLÊNCIA OU GRAVE AMEAÇA. PACIENTE COM FILHOMENORDE DOZE ANOS DE IDADE. MEDIDAS CAUTELARES ALTERNATIVAS. ADEQUAÇÃO E SUFICIÊNCIA. COAÇÃO ILEGAL DEMONSTRADA.PARECER ACOLHIDO.
+Ordem concedida nos termos do dispositivo.
