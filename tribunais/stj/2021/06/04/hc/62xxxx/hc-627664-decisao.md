@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor deAugusto Cesar Castro Rodriguescontra o acórdão proferido pelo Tribunal de Justiça deRoraima no HC n. 9001686-57.2020.8.23.0000, que manteve incólume a segregação cautelar do paciente, renovada na sentença de pronúncia.
+Colhe-se dos autos queo paciente foi preso preventivamente, sendo pronunciado, em 8/1/2019, pela prática dos crimes dehomicídio qualificado tentado e consumado.
+Irresignada com a letargia processual e o risco de contaminação provocada pela pandemia (Covid-19), a defesa impetrou o préviowrit. Todavia, o Colegiado estadual denegou a ordem (fls. 121/123).
+Daí o presentemandamus, no qual se alega,o excesso de prazo na formação da culpa.
+Aduz que o paciente é portador de doença pulmonar obstrutiva crônica, hipertensão, hipertrigliceridemia, diabetes e histórico de malária, o que autoriza a determinação de prisão domiciliar em decorrência da pandemia de Covid-19 (fls. 3/7)
+Requer-se, assim, a concessão da ordem para que o paciente possa responder ao processo em liberdade.
+Em 19/11/2020, a liminar foi por mim indeferida às fls. 132/135.
+Prestadas as informações às fls. 141/161o Ministério Público Federal opinou pelo não conhecimento dowrite, caso conhecido, pela denegação da ordem (fls. 167/171).
+É o relatório.
+Em relação ao pleito de revogação da prisão em razão do novo coronavírus, não há dúvidas de que, ante a crise de pandemia mundialmente causada pela Covid-19 e, especialmente, a iminente gravidade do quadro nacional, intervenções e atitudes mais ousadas são demandadas das autoridades públicas, inclusive do Poder Judiciário.
+Entretanto, tais atitudes devem ser tomadas em conformidade com a recente Recomendação n. 62/2020 do Conselho Nacional de Justiça, que orienta aos magistrados com competência para a fase de conhecimento que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, reavaliem as prisões provisórias.
+Sobre o aludido tema, o Magistrado singular explicitou que o quadro de saúde do requerente não autoriza a revogação da prisão preventiva, notadamente diante das medidas de prevenção adotadas no sistema prisional e tendo em conta que a liberdade não esvazia o risco de contágio a que estaria submetido em ambiente externo com menor limitação de convívio social (fl. 64).
+Ademais, verifica-se que o Tribunal estadual afirmou que, até o momento, não há provas de que o ora paciente não possa ser tratado dentro do estabelecimento prisional, ressaltando queo risco de contágio pela Covid-19 não constitui, por si só, motivo para revogação automática ou conversão da prisão preventiva em domiciliar, sendo necessária, para tanto, a comprovação dos requisitos para sua aplicação, bem como a demonstração da impossibilidade de o paciente receber o tratamento no estabelecimento prisional no qual se encontra(fl. 213).
+Além disso, quanto à alegação de morosidade processual,cabe ressaltar que é pacífico o entendimento do Superior Tribunal de Justiça de que somente configura constrangimento ilegal por excesso de prazo na formação da culpa, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais (RHC n. 104.639/PI, Ministro Joel Ilan Paciornik, QuintaTurma, DJe 3/12/2019).
+Sobre esse tema, ficou consignado, no acórdão impugnado, o seguinte (fls. 121/122- grifo nosso):
+ ..
+De início, observei que não há a caracterização de constrangimento ilegal, haja vista que o ora paciente se encontra preso dentro de um prazo razoável. Não obstante a prisão preventiva tenha sido decretada no dia 16-5-2018, cumpre destacar que o paciente demorouum certo tempo para ser localizado e preso, conforme se depreende da leitura da denúncia juntada no EP 87.1 dos autos principais nº 0800661-70.2018.8.23.0010.
+Desse modo, passados 2 anos e 4 meses da prisão, verifico que não se evidencia o alegado prazo exarcebado, pois a pena cominada para os crimes cometidos contra as duas vítimas são graves, e uma delas teve a vida ceifada.
+Não é despiciendo destacar que o paciente encontra-se pronunciado por crime contra a vida, e, logo, claramente, constata-se que não há excesso prazal, sendo tolerável o mencionado prazo, sobretudo porque já foi prolatada sentença de pronúncia em 8-1-2019,nos autos principais nº 0800661-70.2018.8.23.0010, que tramitam no juízo a quo (EP 87 - 1 - denúncia e EP 375.1 - pronúncia).
+ ..
+Realmente, o excesso de prazo, segundo o pacífico entendimento do Superior Tribunal de Justiça, deve ser aferido dentro dos limites da razoabilidade, considerando-se as circunstâncias excepcionais que venham a retardar o término da instrução criminal ou do processo, não se restringindo à simples soma aritmética de prazos processuais. E, na espécie, nota-se queo trâmite processual segue o seu curso normal, inclusive com a Sessão do Tribunal do Júri designada para o dia 21/6/2021.
+Não foi outra a opinião donobre parecerista, o Subprocurador-Geral da República Haroldo Ferraz da Nóbrega,em relação às teses apresentadas pela defesa (fls. 167/171).
+Nesse contexto, irrepreensível o acórdão ora impugnado, que bem demonstrou a inexistência de ilegalidade a justificar a concessão da ordem.
+Ante o exposto, com base no parecer e nos precedentes,denegoa ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIOSQUALIFICADOS TENTADO ECONSUMADO. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA.PROCESSO QUE TRANSCORRE COM NORMALIDADE. SESSÃO DO TRIBUNAL DO JÚRI DESIGNADA PARA DATA PRÓXIMA. PEDIDO DE LIBERDADE EM RAZÃO DA COVID-19. RECOMENDAÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. PACIENTE NÃO INSERIDO NA EXCEPCIONALIDADE. AUSÊNCIA DE MANIFESTAILEGALIDADE. PARECER ACOLHIDO.
+Ordem denegada.
