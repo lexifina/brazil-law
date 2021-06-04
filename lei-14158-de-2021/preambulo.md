@@ -1,0 +1,2 @@
+Dispõe sobre o valor do salário-mínimo a vigorar a partir de 1º de janeiro de 2021.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1.021, de 2020, que o Congresso Nacional aprovou, e eu, Rodrigo Pacheco, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
