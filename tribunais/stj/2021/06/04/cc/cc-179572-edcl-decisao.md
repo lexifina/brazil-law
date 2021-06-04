@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se embargos de declaração opostos por VENDRAME AVALIAÇÃO AMBIENTAL - EIRELI contra decisão da lavra deste signatário que não conheceu do presente incidente em razão da incidência, na hipótese dos autos, do enunciado da Súmula 59/STJ.
+Inconformado, o ora embargante aduz que "(..)a decisão de fl. 78 a 80 é, em sua essência, contraditória, vez que ao mesmo tempo em que reconhece a prevalência do juízo do TJSP pelo trânsito em julgado, não reconhece a existência de conflito justamente por desconsiderar que o Juízo do TRT2 está ignorando o trânsito e continua julgando a mesma relação jurídica sob a esfera trabalhista." Acrescenta, outrossim, que "(..)não é decidido pelo Relator o que deve ser feito com o processo que não é competente para julgar a relação jurídica (TRT2), que ainda está em trânsito e eventualmente pode vir a também transitar em julgado, evidenciando mais ainda o conflito."
+Ao final, requer o acolhimento da insurgência a fim de conhecer do conflito e declarar a competência do r. juízo da 1ª Vara Empresarial e Conflitos de Arbitragem de São Paulo/SP.
+Sem impugnação.
+É o relatório.
+Decisão.
+Os aclaratórios não merecem acolhimento.
+1. Cediço que conforme preceitua o CPC, art. 1.022, incisos I, II e III, há pressupostos certos para a oposição dos embargos de declaração, os quais, nestes autos, mostram-se ausentes.
+A insurgência da embargante na espécie reflete tão somente o inconformismo com o decidido às fls. 78/80.
+Desse modo, verifica-se que a insurgente, a pretexto de sanar suposta omissão, obscuridade ou contradição, busca apenas a rediscussão da matéria, valendo ressaltar que embargos de declaração, por sua vez, não constituem meio processual adequado para a reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão porquanto o decisumora impugnado teceu os seguintes fundamentos para corroborar o não conhecimento do conflito de competência:
+i) "(..)O caso dos autos, todavia, não se amolda às hipóteses previstas no referido dispositivo legal porquanto inexistem dois juízos acolhendo, ou declinando, a competência para enfrentar a demanda proposta pelas suscitantes na origem, valendo destacar, por oportuno, que, consoante destacam as suscitantes, a ação originária n.º 1006475-54.2020.8.26.0001, transitou em julgado em 22/10/2020."
+ii) "(..)" Não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes."(grifos nossos)
+Na mesma linha, foram citados os seguintes julgados:AgRg no CC 140410/DF, Rel. Min. Maria Isabel Gallotti, DJe de 01/10/2015; AgRg no CC 133290 / SP, Rel. Min. Benedito Gonçalves, DJe de 18/11/2015; AgRg no CC nº 113.799/GO, Rel. Min. Herman Benjamin, DJe 19/4/2011; AgRg no CC nº 111.016/TO, Rel. Min. Paulo de Tarso Sanseverino, DJe 15/2/2011; AgRg no CC nº 113.861/GO, Rel. Min. Luis Felipe Salomão, Segunda Seção, julgado em 14/9/2011, DJe 11/10/2011.
+Destaca-se, a propósito, que o entendimento desta Corte é no sentido de que os embargos de declaração não se prestam à rediscussão da matéria, em decorrência de inconformismo da parte embargante. Nesse sentido: EDcl nos EREsp 1803620/SP, Rel. Min. Paulo de Tarso Sanseverino, Dje de 30/03/2021; EDcl na Rcl 040660/RS, Rel. Min. Luis Felipe Salomão, Dje de 22/09/2020.
+Com efeito, forçoso concluir, portanto, que a embargante deixou de observar os requisitos próprios do recurso manejado (art. 1.022, I, II e III, do CPC), uma vez que inexiste omissão, contradição ou obscuridade na decisão ora guerreada.
+2. Do exposto, com fundamento no art. 1.022, do CPC/2015, rejeito os embargos de declaração.
+Publique-se. Intimem-se. Cumpra-se.
