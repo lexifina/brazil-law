@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOÃO CARLOS DO REGO PEREIRA, à decisão de fls. 624/625, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Conforme se pode verificar no recurso especial envidado pelo embargante, notadamente às fls. 468, bem como no agravo em recurso especial às fls. 583 e no aludido agravo a certidão de intimação TÁCITA da decisão da terceira-vice presidência do TJRJ, sem sombra de dúvidas, com a máxima vênia, não foram apreciados as justificativas e certidões do referidos recursos.
+Vejamos que às fls. 468 deste feito, quando da justificativa da tempestividade do recurso especial o embargante, assim informou: (fl. 634).
+ ..
+Desta sorte não há o que se falar em ausência comprovação da tempestividade, vez que não se tratou de feriado local, frise-se, mas sim de ato do CNJ seguindo de ato do TJRJ, todos publicados no D.O, face a pandemia do covid - 19.
+Quanto à tempestividade do agravo em recurso especial, cai por terra também a fundamentação, com a devida vênia trazida no acórdão ora embargado, vez que conforme se nota às fls. 583, a justificativa não fora feriado local, mas sim feriado nacional de 20 de novembro, não tendo o que se falar em intimação no dia 23/10/2020, vez que conforme se deixou de aferir às fls. 581( certidão de intimação) destes autos, o advogado da parte fora intimado tacitamente no doa 03 de novembro de 2020, o que joga por terra a intempestividade insculpida no acórdão ora recorrido (fl. 635).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso especial, cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Do mesmo modo, a jurisprudência entende que a mera transcrição do texto de artigo de resolução local no corpo da petição não elide a necessidade da apresentação do documento original para a comprovação da suspensão de prazo na Instância de origem. Nesse sentido, AgInt no AREsp 1158537/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 8/8/2018; AgInt nos EDcl no AREsp 1421854/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/6/2019.
+Em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 30/4/2020, conforme Resolução do CNJ n. 313, de 19 de março de 2020, voltando a fluírem, para os processos eletrônicos, em 4/5/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada, por documento idôneo, no momento da interposição do recurso.
+No que se refere à tempestividade do agravo, veja-se que, ainda que se considerasse a intimação eletrônica efetivada em 3/11/2020 (fl. 581), o recurso permaneceria intempestivo.
+A ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso, não bastando a mera menção ao feriado local nas razões recursais, providência que não foi cumprida na apresentação recurso.
+A propósito, confira-se este precedente:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO E COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015.
+1. Ação de indenização e compensação - respectivamente - por danos materiais e morais.
+2. O art. 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+3. Considerando que o recurso especial foi interposto sob a égide do CPC/2015 e que não houve a comprovação do feriado local, quando de sua interposição, não há como ser afastada a intempestividade do apelo.
+4. Agravo interno não provido.
+(AgInt no AREsp 1667307/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe 28/05/2020.)
+É certo que os feriados nacionais não precisam ser comprovados. Porém, o dia 20/11/2020 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
