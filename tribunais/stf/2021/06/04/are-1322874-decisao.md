@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão da 6ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado (eDOC 11, p. 1):
+    “PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. TEMPO RURAL ANTERIOR AOS 12 ANOS. RECONHECIMENTO.
+    1. O exercício de atividade rural deve ser comprovado mediante início de prova material, complementada por prova testemunhal idônea, não sendo esta admi
+    2. Conforme decidido na Ação Civil Pública nº 5017267- 34.2013.4.04.7100/RS, proposta pelo Ministério Público Federal em face do Instituto Nacional do Seguro Social (INSS), é possível o cômputo de período de trabalho rural realizado antes dos 12 anos de idade, para fins de reconhecimento de tempo de serviço e de contribuição pelo exercício das atividades descritas no art. 11 da Lei 8.213/91, em maior amplitude, sem a fixação de requisito etário (TRF4, AC 5017267-34.2013.4.04.7100, Sexta Turma, Relatora para Acórdão Salise Monteiro Sanchotene, julgado em 09-04- 2018).
+    3. Preenchidos os requisitos necessários, faz jus, a parte autora, à aposentadoria por tempo de contribuição integral, a contar da data do requerimento administrativo.”
+    Os embargos de declaração foram providos apenas para correção de erro material (eDOC 23).
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se a violação do disposto nos artigos 7º, XXXIII; 194, parágrafo único e 195, da Constituição Federal.
+    Nas razões do apelo, busca, em suma, que seja julgado “improcedente o pedido da inicial no que tange ao computo do tempo de serviço prestado antes dos 16 anos de idade, ou alternativamente julgar parcialmente procedente, para admitir cômputo de tempo de contribuição previdenciário somente a partir dos 12 anos de idade.” (eDOC 19, p. 9)
+    O Colegiado de origem negou seguimento ao recurso em virtude da ausência de ofensa direta ao texto constitucional e da incidência da Súmula 279 do STF ao caso (eDOC 29).
+    É o relatório. Decido.
+    A presente controvérsia consiste em saber se é possível reconhecer, para fins de aposentadoria, o cômputo de tempo de trabalho rural realizado por menor de 12 anos.
+    Verifico que o acórdão recorrido está alinhado à orientação jurisprudencial desta Corte, a qual considera que ao menor de idade, trabalhador, cabe receber os benefícios previdenciários decorrentes de suas atividades, mesmo quando o contrato de trabalho é considerado nulo, posto que as normas em questão foram criadas a fim de proteger e garantir a dignidade do menor, e não prejudicá-lo.
+    Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. APOSENTADORIA. CONTAGEM DE TEMPO DE SERVIÇO DE TRABALHADOR RURAL OU RURÍCOLA MENOR DE QUATORZE ANOS. POSSIBILIDADE. PRECEDENTES. RECURSO PROVIDO
+     Diante do exposto, com base no art. 21, § 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, dou provimento ao recurso extraordinário para restabelecer a sentença” (RE 889.635, Rel. Min. Cármen Lúcia, DJe 19.6.2015).
+    Ainda nesse mesmo sentido, confiram-se os seguintes julgados desta Corte:
+    “ACIDENTE DO TRABALHO. SEGURO OBRIGATÓRIO ESTABELECIDO NO ART. 165- XVI DA CONSTITUIÇÃO: ALCANCE. CONTRATO LABORAL COM AFRONTA A PROIBIÇÃO CONSTITUCIONAL DO TRABALHO DO MENOR DE DOZE ANOS. MENOR DE DOZE ANOS QUE PRESTAVA SERVIÇOS A UM EMPREGADOR, SOB A DEPENDÊNCIA DESTE, E MEDIANTE SALÁRIO. TENDO SOFRIDO O ACIDENTE DE TRABALHO FAZ JUS AO SEGURO PRÓPRIO. NÃO OBSTA AO BENEFÍCIO A REGRA DO ART. 165-X DA CARTA DA REPÚBLICA, QUE FOI INSCRITA NA LISTA DAS GARANTIAS DOS TRABALHADORES EM PROVEITO DESTES, NÃO EM SEU DETRIMENTO. RECURSOS EXTRAORDINÁRIOS CONHECIDOS E PROVIDOS.” (RE 104654, Rel. Min. FRANCISCO REZEK, Segunda Turma, DJ 25.4.1986).
+    “Agravo regimental em agravo de instrumento. 2. Trabalhador rural ou rurícola menor de quatorze anos. Contagem de tempo de serviço. Art. 11, VII, da Lei nº 8213. Possibilidade. Precedentes. 3. Alegação de violação aos arts. 5°, XXXVI; e 97, da CF/88. Improcedente. Impossibilidade de declaração de efeitos retroativos para o caso de declaração de nulidade de contratos trabalhistas. Tratamento similar na doutrina do direito comparado: México, Alemanha, França e Itália. Norma de garantia do trabalhador que não se interpreta em seu detrimento. Acórdão do STJ em conformidade com a jurisprudência desta Corte. 4. Precedentes citados: AgRAI 105.794, 2ª T., Rel. Aldir Passarinho, DJ 02.05.86; e RE 104.654, 2ª T., Rel. Francisco Rezek, DJ 25.04.86 5. Agravo regimental a que se nega provimento” (AI 476950 AgR, de minha relatoria, Segunda Turma, DJ 11.3.2005).
+    Corroborando esse entendimento, cito as seguintes decisões monocráticas: RE 924135, Rel. Min. Gilmar Mendes, DJe 16.10.2017; RE 889635, Rel. Min. Cármen lúcia, DJe 19.06.2015; RE 906259, Rel. Min. Luiz Fux, DJe 22.09.2015.
+    Ante o exposto, conheço do agravo e nego provimento ao recurso extraordinário, nos termos do art. 21 do RISTF.
+    Publique-se.
+    Brasília, 04 de junho de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
