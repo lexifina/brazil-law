@@ -1,0 +1,1 @@
+ALTERA AS LEIS ESTADUAIS NºS 8.296, DE 20 DE AGOSTO DE 2020, E 8.377, DE 18 DE JANEIRO DE 2021, E DÁ OUTRAS PROVIDÊNCIAS. O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
