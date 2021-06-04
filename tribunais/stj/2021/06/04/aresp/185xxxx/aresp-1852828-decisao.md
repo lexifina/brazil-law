@@ -1,0 +1,58 @@
+DECISÃO
+JESUS RUDIMAR BUENO (JESUS) ajuizou ação revisional de contrato em face de AYMORÉ CREDITO, FINANCIAMENTO E INVESTIMENTO S. A.(AYMORÉ).
+Os pedidos foram julgados improcedentes. Condenou JESUS ao pagamento das custas e honorários advocatícios, esses fixados em R$ 1.000,00 (mil reais) com fundamento no disposto no art. 85, § 8º, do NCPC, observada a gratuidade judiciária deferida (e-STJ, fls. 220/227).
+A apelação interposta por JESUS não foi provida pelo Tribunal gaúcho nos termos do acórdão , assim ementado:
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL. ALIENAÇÃO FIDUCIÁRIA. BEM MÓVEL. JUROS REMUNERATÓRIOS MANTIDOS. OS JUROS REMUNERATÓRIOS,NO CASO, NÃO SUPERAM SIGNIFICATIVAMENTE A TAXA MÉDIAPRATICADA PELO MERCADO. ABUSIVIDADE NÃO DEMONSTRADA. CARACTERIZAÇÃO DA MORA. INEXISTENTE ABUSIVIDADE NOSENCARGOS DO PERÍODO DA NORMALIDADE. CARACTERIZAÇÃO DAMORA, NOS TERMOS DOS RESPS. NºS 1.061.530/RS E 1.639.320/SP. SEGURO DE PROTEÇÃO FINANCEIRA. NÃO CONFIGURADA A VENDACASADA, NO CASO. AUSÊNCIA DE PROVA ACERCA DA ARGUIDACOMPULSORIEDADE NA CONTRATAÇÃO. RUBRICA MANTIDA. TUTELA ANTECIPADA. INDEFERIMENTO. NÃO CONSTATADAABUSIVIDADE NOS ENCARGOS DA NORMALIDADE. AUSÊNCIA DOSREQUISITOS SEDIMENTADOS NO JULGAMENTO DO RESP. Nº1.061.530/RS AO DEFERIMENTO. PREQUESTIONAMENTO. DESNECESSIDADE DE MANIFESTAR-SE SOBRETODOS OS DISPOSITIVOS LEGAIS QUESTIONADOS. PREQUESTIONAMENTO IMPLÍCITO. APELO DESPROVIDO
+(e-STJ, fl.261).
+Irresignado, JESUS interpôs recurso especial com fulcro no art. 105, III, c, da CF, asseverando que o TJRS deu interpretada diversa desta Corte em relação ao art. 51, IV e 1º, III, do Código de Defesa do Consumidor, sustentando, síntese, (1) a limitação dos juros remuneratórios à taxa média de mercado e (2) o afastamento da mora (e-STJ, fls.269/281).
+Contrarrazões de recurso especial apresentadas (e-STJ, fls.408/418).
+O apelo nobre foi inadmitiu em relação a juros remuneratórios, inadmitiu sob o fundamento da incidência da Súmula nº 83 do STJ, aplicando-se, ainda, as Súmulas nºs 5 e 7 do STJ e no tocante à caracterização da mora do devedor, incidiu a Súmula nº 83 do STJ (e-STJ, fls. 421/424).
+Nas razões do presente agravo em recurso especial, JESUS alegou que não se trata de aplicação dos óbices apontados no juízo de prelibação (e-STJ, fls.431/439).
+Foi apresentada contraminuta (e-STJ, fls.572/585).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da incidência das Súmulas nºs 5, 7 e 568 do STJ
+Nas razões do presente recurso, JESUS sustentou que a taxa de juros praticada no contrato é superior à média do mercado e que, diante de tal abusividade, deve ser reduzida a este parâmetro.
+Sobre o tema o TJRS consignou que a taxa média de mercado é mera referência para aferição da abusividade da taxa de juros contratada, devendo-se ter em conta as peculiaridades do caso concreto e concluiu pela inexistência de abusividade na taxa de juros pactuada pelos contratantes.
+A propósito, confira-se:
+Na sedimentação sobre o critério a ser adotado, por seu turno, também indicou o egrégio tribunal superior que a análise deve ocorrer de forma casuística.
+Assim aquilatadas as diretrizes supra - e revendo meu posicionamento anterior sobre o tema - entendo que no caso dos autos são regulares os juros remuneratórios pactuados (36,71% ao ano - doc. CONTR9), porquanto não ultrapassam o dobro da taxa média de mercado estabelecida pelo BACEN para a data da contratação (19,76%1, em março/2020), critério esse que vem sendo amplamente aceito pelo STJ (e-STJ, fl. 257).
+O acórdão recorrido está em consonância com o entendimento consolidado nesta Corte Superior, segundo o qual "para que se reconheça a abusividade nos juros, não basta o fato de a taxa contratada suplantar a média de mercado, devendo-se observar uma tolerância a partir daquele patamar, de modo que a vantagem exagerada, justificadora da limitação judicial, deve ficar cabalmente demonstrada em cada caso concreto, ante as peculiaridades da demanda." (REsp 1.796.031/RS, Rel. Min. Marco Buzzi, DJe de 2/5/2019).
+Na mesma linha: "A redução dos juros dependerá de comprovação da onerosidade excessiva - capaz de colocar o consumidor em desvantagem exagerada - em cada caso concreto, tendo como parâmetro a taxa média de mercado para as operações equivalentes" (AgInt no AREsp 1.015.505/BA, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, j. 18/0/2019, DJe 21/2/2019).
+No mesmo sentido, o precedente da Quarta Turma do STJ:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. VIOLAÇÃO AOS ARTS. 489, § 1º, IV, E 1.022, II, DO CPC/2015. NÃO OCORRÊNCIA. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO EXTRAJUDICIAL REALIZADA NO ENDEREÇO CONTRATUAL DO DEVEDOR. MORA COMPROVADA. ALEGAÇÃO DE OFENSA AOS ARTS. 478, 479 E 480 DO CÓDIGO CIVIL, 4º, IV, 6º, V, 51, IV, X, § 1º, I, 52, II, DO CDC, 2º E 5º DO DECRETO-LEI 911/69. AUSÊNCIA DE PREQUESTIONAMENTO. JUROS REMUNERATÓRIOS. TAXA MÉDIA DO MERCADO. COBRANÇA ABUSIVA. LIMITAÇÃO. NÃO COMPROVAÇÃO. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Não se verifica a alegada violação aos arts. 489 e 1.022, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela parte recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+2. Conforme entendimento firmado no âmbito da Quarta Turma do STJ, "a demonstração da mora em alienação fiduciária ou leasing - para ensejar, respectivamente, o ajuizamento de ação de busca e apreensão ou de reintegração de posse - pode ser feita mediante protesto, por carta registrada expedida por intermédio do cartório de títulos ou documentos, ou por simples carta registrada com aviso de recebimento - em nenhuma hipótese, exige-se que a assinatura do aviso de recebimento seja do próprio destinatário" (REsp 1.292.182/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/09/2016, DJe de 16/11/2016).
+3. Fica inviabilizado o conhecimento de temas trazidos na petição de recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento.
+Aplicação das Súmulas 282 e 356 do STF.
+4. Inexiste contradição em se reconhecer a inexistência de ofensa ao art. 1.022 do CPC/2015 e, ao mesmo tempo, assentar que os arts. 478, 479 e 480 do Código Civil, 4º, IV, 6º, V, 51, IV, X, § 1º, I, 52, II, do CDC, 2º e 5º do Decreto-Lei 911/69, não estão prequestionados.
+5. A jurisprudência do STJ orienta que a circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1577203/PB, Rel. Ministro RAUL ARAÚJO, Quarta Turma, DJe 24/11/2020 - destaquei)
+Conforme se nota, o Tribunal de Justiça, com fulcro na análise das peculiaridades da presente demanda e das cláusulas contratuais, afastou a alegada abusividade da taxa de juros praticada pela instituição financeira, premissa que somente poderia ser alterada mediante nova incursão nas provas dos autos, o que esbarra na vedação das Súmulas nºs 5 e 7 do STJ.
+A propósito, confiram-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. 1. CAPITALIZAÇÃO DOS JUROS. POSSIBILIDADE DESDE QUE EXPRESSAMENTE PACTUADA. SÚMULA 539/STJ. CONTRATAÇÃO AFIRMADA PELO ACÓRDÃO RECORRIDO. SÚMULAS N. 5 E 7 DO STJ. 2. JUROS REMUNERATÓRIOS. TAXA MÉDIA DE MERCADO. SÚMULA 83/STJ. ABUSIVIDADE AFASTADA PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. Segundo o entendimento desta Corte, sedimentado no enunciado n.
+539 da Súmula de jurisprudência, "é permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31/3/2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada".
+2. É possível, de forma excepcional, a revisão da taxa de juros remuneratórios prevista em contratos de mútuo, sobre os quais incide a legislação consumerista, desde que a abusividade fique cabalmente demonstrada, mediante a colocação do consumidor em desvantagem exagerada.
+3. Na hipótese, o Tribunal a quo, com base na análise das peculiaridades da presente demanda e das cláusulas contratuais, consignou a existência de contratação da capitalização de juros, bem como afastou a alegada abusividade da taxa de juros praticada pela instituição financeira.
+Portanto, infirmar as conclusões do acórdão recorrido esbarraria nos óbices das Súmulas n. 5 e 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1617184/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 4/6/2020 - destaquei)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. TAXAS E TARIFAS BANCÁRIAS. ABUSIVIDADE. ALEGAÇÃO GENÉRICA. SÚMULAS NºS 5 E 7/STJ. JUROS REMUNERATÓRIOS. ALTERAÇÃO. ANÁLISE DE CLÁUSULAS CONTRATUAIS. INVIABILIDADE. SÚMULA Nº 5/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O exame de alegação genérica de abusividade na cobrança de taxas e tarifas bancárias esbarra nos óbices das Súmulas nºs 5 e 7/STJ.
+3. Os juros remuneratórios devem ser limitados à taxa média de mercado apenas quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares. Precedentes.
+4. A reforma do julgado demandaria a análise de cláusulas contratuais, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 5/STJ.
+5. Agravo interno não provido.
+(AgInt no REsp 1669617/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 13/3/2020)
+Diante do exposto, o acórdão recorrido merece ser mantido quanto a este particular, tendo em vista a incidência das Súmulas nºs 5,7 e 568 do STJ.
+Fica prejudicada a tese (2) do recurso especial
+Nessas condições, CONHEÇO do agravo para, nessa extensão, NEGAR PROVIMENTO ao recurso especial.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em favor de AYMORÉ, limitados a 20%, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO REVISIONAL. CONTRATO DE FINANCIAMENTO COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA. TAXA DE JUROS REMUNERATÓRIOS. ABUSIVIDADE NÃO CONFIGURADA. LIMITAÇÃO. IMPOSSIBILIDADE. CARACTERIZAÇÃO DA MORA. NÃO ABUSIVIDADE NA COBRANÇA DE ENCARGOS NO PERÍODO DA ADIMPLÊNCIA CONTRATUAL. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
