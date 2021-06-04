@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de DOUGLAS CARDOSO DE SOUZA PEREIRA, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado da Bahia.
+Colhe-se dos autos que o paciente cumpria pena na Comarca de Teixeira de Freitas, desde o dia 7/2/2019 até 2/10/2020, quando foi expedido mandado de prisão pela Comarca de Vila Velha/ES, em decorrência de sua condenação a 24 (vinte e quatro) anos e 6 (seis) meses de reclusão pelo crime descrito no artigo 157, § 3º, do Código Penal, oportunidade em que foi solicitado, via ofício, seu recambiamento ao Estado do Espírito Santo.
+O Juízo da Execução de Teixeira de Freitas/BA indeferiu o pleito de permanência e/ou retorno/transferência do reeducando ao conjunto penal desta Comarca.
+Inconformada, a defesa interpôs agravo em execução, ao qual foi negado provimento, em acórdão assim ementado:
+AGRAVO EM EXECUÇÃO PENAL. PEDIDO DE TRANSFERÊNCIA DO APENADO PARA UNIDADE PRISIONAL PRÓXIMA À FAMÍLIA. AUSÊNCIA DE DIREITO SUBJETIVO. DECISÃO SUJEITA À CONVENIÊNCIA E DISCRICIONARIEDADE DA ADMINISTRAÇÃO PÚBLICA. RECURSO CONHECIDO E IMPROVIDO.
+Embora seja possível, em tese, que os apenados possam cumprir pena em Unidade Prisional próxima à família (art. 103 da LEP), compete à Administração Pública avaliar a conveniência e oportunidade da medida.
+Trata-se, no caso dos autos, de apenado condenado à pena de 24 (vinte e quatro) anos e 06 (seis) meses de reclusão, pela prática do crime de latrocínio (art. 157, § 3º, última figura, do CP), por Autoridade Judiciária da Comarca de Vila Velha/ES, e preso na Comarca de Teixeira de Freitas/BA, no dia 07/02/2019, em cumprimento a mandado de prisão expedido pelo juízo da condenação, tendo ali permanecido recolhido até o dia 02/10/2020, quando transferido para Presídio no Espírito Santo em razão da Direção da Unidade Prisional de Teixeira de Freitas informar que, além de não dispor de vaga para o apenado, cuida-se de preso de alta periculosidade, possuindo histórico de fuga e envolvimento com o tráfico interestadual de drogas, juntamente com grupos atuantes no Estado do Espírito Santo, não sendo recomendável o cumprimento da pena na referida Unidade.
+Apenado, ademais, que não responde a processos criminais no Estado da Bahia.
+Não cabimento, por não ser conveniente e oportuno à Administração Pública do Estado da Bahia, que o apenado cumpra pena em Unidade Prisional do interior do Estado, seja em Teixeira de Freitas ou Eunápolis. Manutenção da decisão impugnada, na íntegra." (e-STJ, fls. 62-63).
+Neste writ, a impetrante aponta constrangimento ilegal, na negativa de retorno à Comarca de Teixeira de Freitas-BA, onde poderia cumprir pena próximo de sua família.
+Sustenta ausência de fundamentação quanto à impossibilidade de cumprir pena no Estado da Bahia.
+Assevera que a periculosidade do paciente não deve ser causa para negativa da transferência do apenado, pois "embora tenha havido manifestação do Diretor em sentido contrário, tal fato não se coaduna com as informações constantes nos autos, tanto que conforme consta da CERTIDÃO DE CONDUTA CARCERÁRIA (doc. 09) da própria unidade prisional, onde esteve por quase 02 (dois) anos, assinada inclusive pelo Diretor Dr. Osíris, sua conduta foi aferida como BOA em todo este período" (e-STJ, fl. 9).
+Aduz ainda que haveria a possibilidade de ser transferido para outra unidade prisional que atendesse aos critérios estabelecidos (vaga e periculosidade).
+Requer, inclusive liminarmente, o imediato retorno do paciente para a Comarca de Teixeira Freitas/BA ou para a Comarca de Eunápolis/BA, para cumprimento do restante da pena próximo ao convívio de sua família.
+É o relatório.
+Decido.
+Em consulta à base de dados processuais desta Corte, constato que a controvérsia constitui mera reiteração do pedido formulado no HC 654.298/BA, de minha relatoria, que foi julgado monocraticamente em 25/5/2021, ocasião em que não se conheceu do mandamus.
+Como cediço, a identidade de partes, objeto e causa de pedir constitui óbice ao conhecimento da impetração em face da litispendência.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE JULGOU PREJUDICADO O HABEAS CORPUS. MEDIDA CAUTELAR ALTERNATIVA. PROIBIÇÃO DE VIAGENS AO EXTERIOR. NECESSIDADE. ADEQUAÇÃO. MATÉRIA EXAMINADA NO RHC 114.426/PR. INEXISTÊNCIA DE MODIFICAÇÃO DE FATO OU DE DIREITO. AGRAVO REGIMENTAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos.
+II - A identidade de partes, causa de pedir e pedido entre o presente recurso e o RHC 114.426/PR, apreciado por esta Corte e transitado em julgado, impede o seu conhecimento.
+III - As medidas cautelares decretadas para a tutela da investigação preliminar ou do processo penal submetem-se à cláusula rebus sic stantibus. No entanto, a revisão dessas medidas exige modificações significativas da situação de fato ou de direito que resultem em sua ilegalidade ou na desproporcionalidade, o que não foi demonstrado na espécie. Agravo regimental desprovido." (AgRg no RHC 124.870/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/06/2020, DJe 26/06/2020, grifou-se)
+"EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. CONHECIMENTO COMO AGRAVO REGIMENTAL. PROCESSUAL PENAL. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 594.026/RJ. LITISPENDÊNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não podem ser processados nesta Corte, concomitantemente, dois habeas corpus nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir.
+2. Agravo regimental desprovido." (EDcl no HC 600.600/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 25/08/2020, DJe 04/09/2020)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DE PEDIDO FORMULADO EM OUTRO WRIT. IMPOSSIBILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Inexistindo fato superveniente, é incabível a impetração de habeas corpus com objeto idêntico a outro feito anteriormente examinado no âmbito desta Corte.
+2. No caso em exame, as causas de pedir expostas em ambas impetrações são idênticas, bem como os pedidos de suspensão da execução provisória da pena imposta ao agravante pelas instâncias ordinárias.
+3. Hipótese em que a defesa pretende a obtenção da mesma prestação jurisdicional nas duas vias de impugnação, circunstância que caracteriza ofensa ao princípio da unirrecorribilidade das decisões judiciais.
+4. Agravo regimental não provido." (AgRg no HC 478.216/RJ, deste Relator, QUINTA TURMA, julgado em 12/02/2019, DJe 19/02/2019, grifou-se)
+Ante o exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se. Intimem-se.
