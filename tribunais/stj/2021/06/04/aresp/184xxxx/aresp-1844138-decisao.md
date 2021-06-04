@@ -1,0 +1,47 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial, interposto por MARIA DAS MERCEZ VIEGAS - ESPÓLIO, SILVERIO GABRIEL VIEGAS eJOSE GABRIEL FILHO,contra decisão do Tribunal de Justiça do Distrito Federal e dos Territóriosque não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ Fl. 408):
+APELAÇÃO. EMBARGOS DE TERCEIRO. IMÓVEL. PROCURAÇÃO EM CAUSA PRÓPRIA. TRANSFERÊNCIA DE DIREITOS. PENHORA. DESCONSTITUIÇÃO. LITIGÂNCIA DE MÁ-FÉ.
+I - A procuração outorgada ao embargante em caráter irrevogável, irretratável e isenta de prestação de contas consubstancia-se em verdadeiro negócio jurídico, em que há transferência de direitos, e o outorgado passa a atuar em nome e interesse próprios.
+II - A aquisição do imóvel pelo embargante ocorreu muitos anos antes da propositura da execução em que foi penhorado o bem. Mantida a r. sentença que julgou procedentes os embargos de terceiro e desconstituiu apenhora.
+III - Improcedente o pedido de aplicação da multa por litigância de má-fé ao apelante-embargado, pois a interposição da apelação não teve intuito protelatório.
+IV - Apelação desprovida.
+Opostos embargos de declaração, foram rejeitados à e-STJ Fls. 428/432.
+Nas razões do recurso especial, os recorrentes alegam dissídio jurisprudencial quanto à interpretação conferida aos arts.85, §§ 2º e 10º,do CPC/2015, aos arts. 134, 145 e 169 do CC/1916 e ao art. 1.245, § 1º do CC/02.Alegam contrariedade à Súmula 303/STJ, insurgindo-se contra a condenação em honorários e demais ônussucumbenciais, mormente ante ao expresso reconhecimento da conduta desidiosa do recorrido, o qual teria dado causa à demanda.
+É o breve relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Ato contínuo, verifico que o recurso especial não pode ser conhecido quanto à interposição pela alínea c do permissivo constitucional.
+Inicialmente, não obstante os agravantes apontem dissídio jurisprudencial quanto aos aos arts. 134, 145 e 169 do CC/1916 e ao art. 1.245, § 1º do CC/02, verifico que não há fundamentação atinente às matérias dos referidos dispositivos, a qual se restringe unicamente à temática do ônus sucumbencial. Assim, incidente a Súmula 284/STF à espécie.
+De outra parte,os recorrentes apontam enunciado de súmula que entendem vulnerado (Súmula 303/STJ), sem indicar os precedentes que deram origem a esse enunciado, o que implica, necessariamente,ausência de demonstração da similitude fática com o caso dos autos.
+Nesse sentido:
+AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. SERVIDOR. ENQUADRAMENTO FUNCIONAL. ALEGADA DIVERGÊNCIA JURISPRUDENCIAL COM SÚMULA DESTA CORTE. NÃO-CABIMENTO.
+Da leitura dos artigos 546, inciso I, do CPC, e 266 do RISTJ, conclui-se que os embargos de divergência não são cabíveis quando há alegação de divergência entre súmula e acórdão de uma das Turmas desta Corte. Como bem asseverou a egrégia Primeira Seção ao apreciar o tema em recente assentada, "a alegação de que, em face do art. 124 do RISTJ, basta citar o verbete indicado como divergente não procede, uma vez que o dispositivo em questão refere-se "a outros julgados no mesmo sentido", e não àqueles que deram origem à súmula" (EREsp 284.079/SP, Rel. Min. João Otávio de Noronha, DJ 9.5.2005). Mutatis mutandis, aplica-se aos embargos de divergência o entendimento pacificado neste Sodalício segundo o qual "o dissídio jurisprudencial com Súmula não autoriza a interposição do recurso especial fundado na letra "c" do permissivo constitucional, impondo-se a demonstração do dissenso com os julgados que originaram o verbete indicado como divergente" (REsp 338.474/PE, Rel. Min. Peçanha Martins, DJ 6.5.2004). Precedentes. Agravo regimental improvido. (AgRg nos EREsp 180792/PE, Rel. Ministro FRANCIULLI NETTO, CORTE ESPECIAL, julgado em 03/08/2005, DJ 27/03/2006 p. 135). - g.n.
+Outrossim, o dissídio jurisprudencial não foi comprovado conforme estabelecido nos arts. 541, parágrafo único, do CPC/73 (art. 1.029, § 1º, do CPC/2015), e 255, §§ 1º e 2º, do RISTJ.
+A divergência jurisprudencial, nesse passo,deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados.
+No caso concreto, entretanto, os recorrentes, a par de não procederem ao devido cotejo analítico,apontam julgados que não guardamsimilitude fática com o caso dos autos, mormente quanto à condenação em honorários sucumbenciais e ao reconhecimento de que o autor teria dado causa à constrição indevida, para fins de aplicação do princípio da causalidade.
+Veja-se o quanto manifestado na origem (e-STJ Fls. 430/432):
+O dispositivo do acórdão, ao majorar os honorários advocatícios, apenas mencionou que a r. sentençacondenou o apelado-autor aos honorários sucumbenciais e não houve alteração de oficio quanto à matéria. No entanto, a condenação aos honorários recursais foi aplicada ao apelante-réu, em 2% sobre o valor atualizado da causa.
+O acórdão foi expresso ao asseverar, quanto aos honorários recursais, que:
+"Dos honorários recursais art. 85, §11, do CPC
+Quanto à majoração dos honorários sucumbenciais, a Segunda Seção do e. STJfirmou a seguinte orientação no julgamento do AgInt nos EREsp 1.539.725/DF, em 09/08/17, in verbis:
+(..)
+Consoante julgamento acima destacado, haverá majoração de honorários se preenchidos os seguintes requisitos, concomitantemente: (1) recurso interposto de decisão publicada a partir de 18/03/16; (h) recurso não conhecido ou desprovido, integralmente, por decisão monocrática do Relator ou pelo Tribunal; (ih) fixação de honorários advocatícios na decisão interlocutória ou na sentença recorrida; e (h) não extrapolação dos limites previstos nos §§2º e 3º do art. 85 do CPC." (id. 17662192, págs. 7/8, grifos no original).
+Patente que a condenação do apelante-embargado-exequente ao pagamento dos honorários recursais decorreu do preenchimento dos requisitos acima expostos, mormente porque sua apelação foi desprovida integralmente.
+(..) (g.n.)
+O caso concreto, portanto, aponta para o preenchimento dos requisitos para amajoração de honoráriossucumbenciaiscom base no § 11 do art. 85 do CPC/2015, em harmonia com a jurisprudência desta Corte, e não à fundamentação referente àaplicação do princípio da causalidade,fundamento adotadonoacórdão tido por paradigma.
+Dessa forma, a par de não restar evidenciado o devido cotejo analítico entre os acórdãos confrontados, elidir as conclusões do aresto impugnadodemandaria o revolvimento do conjunto fático-probatório e contratual dos autos, providência vedada nesta sede especial a teor daSúmula7/STJ.
+Saliente-se, ainda,que tal entendimento encontra-se em harmonia com a jurisprudência desta Corte, senão vejamos:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DIREITO PROCESSUAL CIVIL E CIVIL. CONTRATO DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. FORÇA MAIOR. NÃO CONFIGURAÇÃO. MULTA POR RESCISÃO CONTRATUAL POR INADIMPLEMENTO. CABIMENTO. ANÁLISE.INTERPRETAÇÃO DAS CLÁUSULAS CONTRATUAIS E REEXAME DE PROVAS.VEDAÇÃO. SÚMULAS 5 E 7/STJ. INCIDÊNCIA. ÔNUS DA SUCUMBÊNCIA, PRINCÍPIO DA CAUSALIDADE E HONORÁRIOS ADVOCATÍCIOS. ANÁLISE. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA 7/STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. (..)
+2. O STJ possui entendimento uniforme no sentido de que a análise sobre a distribuição do ônus da sucumbência, a aplicação do princípio da causalidade e o valor dos honorários advocatícios demanda o reexame do conjunto fático-probatório, o que é inviável nesta via especial. Incidência da Súmula 7/STJ.
+3. Agravo interno não provido.(AgInt no AgInt no AREsp 1628525/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/06/2020, DJe 03/08/2020) - gn.
+Nesse passo, esta Corte firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissenso é apoiado em fatos, e não na interpretação da lei, como ocorreu na espécie.
+Destarte, inviável a pretensão dos recorrentes.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que o Tribunal de origem fixou a verba honorária em 2% sobre o valor atualizado da causa (e-STJ Fl. 416), em benefício do patrono da parte recorrida, a majoração dos honorários devidos pelos ora recorrentes em mais 1% é medida adequada ao caso, observada eventual anterior concessão da gratuidade judiciária.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL (CPC/2015). EMBARGOS DE TERCEIROS. DISSÍDIO JURISPRUDENCIAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. DIVERGÊNCIA COM ENUNCIADO DE SÚMULA. IMPOSSIBILIDADE.AUSÊNCIA DE SIMILITUDE FÁTICA E COTEJO ANALÍTICO. INCIDÊNCIA DASÚMULA 7/STJ. ORIENTAÇÃO PRETORIANA SEDIMENTADA.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
