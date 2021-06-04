@@ -1,0 +1,46 @@
+DECISÃO
+Vistos etc.
+Trata-se agravo em recurso especial interposto por VERONICA FREY WEEGE, contra decisão do Tribunal de Justiça do Estado deSão Paulo, que não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ Fl. 136):
+AGRAVO INTERNO  DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DA APELAÇÃO  INADEQUAÇÃO DA VIA ELEITA  Decisão interlocutória que acolheu impugnação ao cumprimento de sentença  Recurso de apelação interposto  Via eleita inadequada  Violação ao principio da taxatividade  Erro grosseiro  Inaplicabilidade do principio da fungibilidade - Decisão mantida - NEGARAM PROVIMENTO AO RECURSO.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: 203, § 1º, 487, inciso I, e, 1.009, do Código de Processo Civil/2015, além de divergência jurisprudencial.
+Sustenta, em síntese,que"a decisão que extingue a execução é uma sentença. No caso sob análise, após a decisão que resolveu a impugnação oferecida, não restou crédito em favor do exequente na fase de cumprimento de sentença. Portanto, não se pode negar foi extinta a execução fundada em título judicial" (e-STJ Fl. 108).Assim,passível de ser a sentença combatida pelo Recurso de Apelação (e-STJ Fl. 113).
+Pede o provimento do recurso.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, registro que o acórdão recorrido foi publicado já sob a vigência da Lei 13.105/2015, razão por que o juízo de admissibilidade é realizado na forma deste novo édito, conforme Enunciado Administrativo nº 3/STJ.
+A discussão é singela e se restringe ao cabimento do recurso de apelação contra a decisão que, segundo o acórdão, acolheu em parte o incidente de impugnação ao cumprimento de sentença, sem, contudo, implicar em extinção da fase de cumprimento.
+O acórdão recorrido não conheceu do recurso de apelação, sob os seguintes fundamentos: (e-STJ Fl. 137/138, gn):
+"(..)
+Muito embora a parte apelante sustente que o acolhimento da impugnação ao cumprimento de sentença resultará na extinção da execução, tal situação não é o que se verifica dos autos, máxime porque a decisão recorrida contém determinação de intimação da parte exequente para prosseguimento da execução em relação aos valores que entender ainda não adimplidos.
+(..)
+Portanto, conforme se verifica dos autos, tratando-se de grosseiro, impeditivo da aplicação do principio da fungibilidade, preclusa está a pretensão da agravante em modificar a decisão de primeiro grau, pelos motivos exaustivamente expostos".
+Portanto, o Tribunal de origem, ao reconhecer que o recursa cabível, na hipótese, seria o agravo de instrumento, decidiu em consonância com a jurisprudência desta Corte, no sentido de que as decisões prolatadas em cumprimento de sentença, que não põe fim à execução, serão impugnadas por meio de agravo de instrumento.
+Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. COBRANÇA DE ASTREINTES. INTIMAÇÃO DA DEVEDORA. PAGAMENTO DO DÉBITO EXEQUENDO. MULTA DO ART. 475-J DO CPC/1973. CONTEÚDO DECISÓRIO. POTENCIALIDADE DE GRAVAME. DECISÃO AGRAVÁVEL. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. SÚMULA N. 283/STF. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. De acordo com a jurisprudência do STJ, "as decisões prolatadas que não põe fim à execução ou cumprimento de sentença são desafiadas por meio do recurso de agravo de instrumento" (AgInt no AREsp n. 1.596.799/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/3/2020, DJe 1º/4/2020). Além disso, "o que distingue o despacho da decisão interlocutória impugnável via agravo de instrumento é a existência ou não de conteúdo decisório e de gravame para a parte" (AgRg no REsp n. 1.309.949/MS, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 5/11/2015, DJe 12/11/2015). Ademais, "possui caráter decisório o ato judicial que determina a intimação da parte executada para pagamento do débito indicado na petição de cumprimento de sentença, sob pena de incidência da multa prevista no art. 475-J do CPC/73" (AgRg no REsp n. 1.258.517/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/3/2018, DJe 27/3/2018).
+3. No caso, a Corte local, ao concluir pelo cabimento do agravo de instrumento, decidiu a controvérsia de acordo com a jurisprudência do STJ, porque o ato impugnado apresenta natureza jurídica de decisão interlocutória. Isso porque possui conteúdo decisório e é apto a gerar prejuízos à agravada, ante o acolhimento dos cálculos apresentados pelos recorrentes na fase de cumprimento de sentença, a título de astreintes, - no valor de R$ 1.111.050,64 (um milhão, cento e onze mil, cinquenta reais e sessenta e quatro centavos) -, bem como por determinar sua intimação para quitar tal montante no prazo de 15 (quinze) dias, sob pena de incidência da multa prevista no art. 475-J do CPC/1973.
+4. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+5. Dissídio jurisprudencial não comprovado, ante a incidência das Súmulas n. 283 do STF e 13 e 83 do STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1257439/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 28/08/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA EXECUTADA.
+1. Consoante entendimento deste Sodalício, as decisões prolatadas que não põe fim à execução ou cumprimento de sentença são desafiadas por meio do recurso de agravo de instrumento. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1596799/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/03/2020, DJe 01/04/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXCEÇÃO DE PRÉEXECUTIVIDADE. DECISÃO INTERLOCUTÓRIA. NULIDADE DE ATOS PROCESSUAIS. FORMAÇÃO DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. PROSSEGUIMENTO DO FEITO SEM EXTINÇÃO DO PROCESSO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. AGRAVO INTERNO. NÃO PROVIDO.
+1. A decisão proferida na exceção de pré-executividade, com amparo no art. 282 do NCPC, declarou a nulidade de todos os atos processuais praticados durante o prosseguimento do feito, sem contudo extinguir a fase cognitiva do processo, em razão da necessidade da formação de litisconsórcio passivo. Por conseguinte, o provimento jurisdicional se reveste de natureza jurídica de decisão interlocutória, passível de ser impugnado por agravo de instrumento. Precedentes.
+2. Pacífico o entendimento deste Sodalício no sentido de que, as decisões prolatadas que não põe fim à execução ou cumprimento de sentença desafiam o recurso de agravo de instrumento. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp 1369017/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/04/2019, DJe 08/04/2019)
+Alterar-se essa conclusão a que chegou o acórdão recorrido, ademais, exigiria a revisão do contexto fático probatório, providência vedada em sede de recurso especial, na forma do enunciado 7/STJ.
+A interposição de recurso de apelação, ainda, em lugar do agravo de instrumento, não tendo havido a extinção do cumprimento de sentença, configura, efetivamente, erro grosseiro, não se aplicando o princípio da fungibilidade, na forma da jurisprudência tranquila desta Corte Superior.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que o Tribunal de origem fixou a verba honorária em 10% do valor cobrado em excesso, atualizado, com juros de mora a contar do trânsito em julgado(e-STJ fl. 95), em benefício do patrono da parte recorrida, a majoração dos honorários devidos pela parte ora recorrente para 12% do valor cobrado em excesso, atualizado, com juros de mora a contar do trânsito em julgado, é medida adequada ao caso, observada a eventual anterior concessão da gratuidade judiciária.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO. DECISÃO INTERLOCUTÓRIA PROFERIDA EM IMPUGNAÇÃO AO CUMPRIMENTO DE SENTEÇA. ACÓRDÃO QUE AFIRMOU NÃO TER A DECISÃO COLOCADO FIM AO PROCESSO. PROVIMENTO JUDICIAL QUE DESAFIA AGRAVO DE INSTRUMENTO.
+AGRAVO CONHECIDO PARA NÃO CONHECERDO RECURSO ESPECIAL.
