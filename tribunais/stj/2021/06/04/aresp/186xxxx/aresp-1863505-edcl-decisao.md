@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CLAUDIA MELYSSA CAMARA COSTA e OUTRO em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustentam os embargantes que a decisão embargada foi omissa e carente de fundamentação a respeito da aplicação dos óbices das súmulas 07, do STJ, e 284 do STF (fl. 1346/1356).
+Requerem o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Os embargantes não discutiram os vícios previstos no art. 619 do CPP, limitando-se a repetir as alegações apresentadas no agravo em recurso especial e no apelo nobre, sem estabelecer conexão entre os fundamentos da decisão de não conhecimento de seu agravo e os destes aclaratórios, em total afronta ao princípio da dialeticidade.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, relatora Ministra Eliana Calmon, DJ de 13/8/2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28/6/2007". (EDcl nos EDcl no REsp 1642531/SC, relator Ministro Hermna Benjamin, Segunda Turma, DJe de 22/4/2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
