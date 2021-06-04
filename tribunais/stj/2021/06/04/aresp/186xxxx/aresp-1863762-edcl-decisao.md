@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LUIZ ALEXANDRE MUCERINO E OUTRO, à decisão de fls. 539/540, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Ocorre que, com a devida vênia, não pode ser entendido a certidão de fls. 530 como regular determinação para o saneamento do vício de ausência de preparo (fl. 543).
+ ..
+Porém, referida informação padeceu da devida precisão, ao passo que às fls.336/337, já estava encartada guia de recolhimento e comprovação do pagamento.  bem verdade que referida guia de recolhimento se trata de guia emitida pelo STF referente a Recurso Extraordinário, e foi equivocadamente emitida para instruir o Recurso Especial.
+O equivoco na emissão e recolhimento da guia, PE evidente tanto assim que no caso inexiste Recurso Extraordinário interposto. Ou seja, é evidente o equívoco na emissão e recolhimento da referida guia para instruir o único Recurso ingressado, qual seja o Recurso Especial.
+Também é cristalino, que a certidão de fls. 532, pela ausência de precisão, contribuiu de forma preponderante para a ausência do recolhimento regular das custas, isto porque não constou da referida certificação que as custas recolhidas se relacionava a outro tipo de recurso e de outro tribunal (fl. 544).
+ ..
+Por tal razão, e por acreditar verdadeiramente que o recolhimento de fls.336/337, fora regular, é que o ora Embargante peticionou às fls. 532, para nos termos do apontado na decisão embargada esclarecer que "foram sim recolhidas e anexadas juntamente com o Recurso Especial, e se encontram encartadas às fls. 336/337, o que não justifica novo recolhimento na sua forma dobrada"(fl. 545).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Esclareça-se que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Conforme já consignado na decisão ora embargada, que agora se repete, no ato da interposição, o recurso especial não foi instruído com a guia de custas devidas ao Superior Tribunal de Justiça e seu respectivo comprovante de pagamento.
+Veja-se que a guia e o comprovante juntados às fls. 336/337 referem-se a recurso extraordinário, com recolhimento destinado ao Supremo Tribunal Federal.
+Percebida, no STJ, a irregularidade, a parte foi intimada para sanar o vício, contudo, não regularizou, uma vez que se limitou a alegar na petição de fls. 532/536 que "as custas do Recurso Especial, foram sim recolhidas e anexadas juntamente com o Recurso Especial, e se encontram encartadas às fls. 336/337, o que não justifica novo recolhimento na sua forma dobrada".
+Portanto, não tendo cumprido a determinação, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Observe-se que não merece prosperar a alegação da parte de que há imprecisão na certidão para saneamento do preparo à fl. 530. A própria certidão tem fundamento na Resolução STJ/GP N. 15 de 26 de junho de 2020.
+Registre-se que é responsabilidade da parte observar o correto procedimento para apresentação de recursos perante os tribunais, incluindo a correta instrução do recurso. Se o recurso é dirigido ao Superior Tribunal de Justiça, cabe à parte recolher as custas para o referido tribunal e não para tribunal diverso.
+Somente agora, em sede destes aclaratórios a parte trouxe o devido comprovante de pagamento e a guia de recolhimento com o fim de regularizar o preparo, no entanto, não podem ser aceitos, em razão da preclusão. (AgInt no AREsp 1399586/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 3/12/2019; e AgInt nos EDcl nos EREsp 1454030/SP, relator Ministro Francisco Falcão, Cortes Especial, DJe de 26/11/2019.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
