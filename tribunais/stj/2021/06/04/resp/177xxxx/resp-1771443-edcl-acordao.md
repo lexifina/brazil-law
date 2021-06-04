@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE REJEITOU ANTERIORES ACLARATÓRIOS.
+INSURGÊNCIA RECURSAL DAS DEMANDADAS.
+1.Os embargos de declaração somente são cabíveis quando verificado algum dos vícios autorizadores do artigo 1022 do NCPC não sendo possível utilizá-los para mera rediscussão do julgado, notadamente quando a verba honorária já fora estabelecida no patamar máximo legal.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de novos embargos de declaração opostos por FUNDAÇÃO SISTEL DE SEGURIDADE SOCIAL E OUTRO em face de acórdão proferido pelo colegiado desta Quarta Turma que rejeitou anteriores aclaratórios, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE ACOLHEU O AGRAVO INTERNO PARA, DE PLANO, DAR PROVIMENTO AO RECLAMO ESPECIAL E JULGAR IMPROCEDENTE O PEDIDO FORMULADO NA INICIAL.INSURGÊNCIA RECURSAL DAS DEMANDADAS.1.Os embargos de declaração somente são cabíveis quando verificado algum dos vícios autorizadores do artigo 1022 do NCPC não sendo possível utilizá-los para mera rediscussão do julgado, notadamente quando a verba honorária já fora estabelecida no patamar máximo legal.2. Embargos de declaração rejeitados
+Dessume-se dos autos que no âmbito desta Corte Superior fora acolhido o agravo interno para, de plano, dar provimento ao recurso especial, a fim de julgar improcedente o pedido formulado na inicial, estabelecendo custas e honorários advocatícios sucumbenciais, arbitrados em 20% do valor atualizado da causa (R$ 1.000,00), a serem arcados pelos demandantes, observada a eventual gratuidade de justiça.
+Eis a ementa do referido julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL- AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA RECURSAL DAS DEMANDADAS.1. Nos termos da jurisprudência desta Corte, a correção plena da restituição das parcelas pagas pelo participante a plano de previdência privada, por índice que recomponha a efetiva desvalorização da moeda, é aplicável apenas quando do definitivo rompimento do participante com o vínculo contratual de previdência complementar, não tendo incidência nas situações em que, por acordo de vontades, mediante concessões recíprocas, haja migração dos participantes ou assistidos para plano de benefícios de previdência privada diverso e a pretensão de recomposição monetária esteja vinculada justamente ao período contemplado pela transação/migração, dada a impossibilidade de desconsideração unilateral da avença.2. A transação para migração de plano de benefícios implica novação, ocorrendo em um contexto de amplo redesenho da relação contratual previdenciária mediante o estabelecimento de um ato jurídico perfeito, cuja anulação de alguma de suas cláusulas implica um inegável retorno aos status quo ante, pretensão essa (anulatória) não pretendida pelos demandantes, haja vista que inviabilizaria, inclusive, a adesão ao plano de benefícios sobre o qual realizado o resgate das contribuições. 3. Agravo interno provido para, de plano, dar provimento ao recurso especial e julgar improcedente o pedido formulado na inicial
+Nas razões dos aclaratórios (fls. 1241-1247), aduzem existir "omissão quanto ao teor dos demais parágrafos do art. 85 do CPC/2015, sendo certo que é indevida, a leitura isolada do § 2º, utilizado para justificar a fixação dos honorários".
+Asseveram que "os honorários fixados em R$ 200,00 (duzentos reais) são, permissa vênia, irrisórios e desrespeitosos à atuação dos patronos, na representação das duas Corrés, em uma demanda ajuizada em 02/04/2008 (há mais de doze anos), com amplo trâmite na 1ª instância e no âmbito recursal. Relevada essa subjetividade, é fato que o douto Ministro não pode se apoiar exclusivamente sobre o § 2º do art. 85, para justificar que o valor dos honorários permaneça tão baixo, quando o próprio CPC apresenta a solução para tal questão, no precitado § 8º. Deve a verba honorária ser fixada por apreciação equitativa."
+Afirma, por fim, que "deve o egrégio colegiado acolher estes aclaratórios com efeitos infringentes para suprir a omissão, a fim de majorar o valor de R$ 200,00, de honorários sucumbenciais arbitrados em desfavor dos três Recorridos sucumbentes, para, ao menos R$ 333,33, a serem arcados por cada um dos três Recorridos".
+Impugnação às. fls. 1250-1252.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE REJEITOU ANTERIORES ACLARATÓRIOS.
+INSURGÊNCIA RECURSAL DAS DEMANDADAS.
+1.Os embargos de declaração somente são cabíveis quando verificado algum dos vícios autorizadores do artigo 1022 do NCPC não sendo possível utilizá-los para mera rediscussão do julgado, notadamente quando a verba honorária já fora estabelecida no patamar máximo legal.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não merecem acolhida.
+1. Inexiste no julgado qualquer dos vícios autorizadores do manejo do recurso integrativo nos termos do artigo 1022 do NCPC.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/2015, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado, inexistindo omissão acerca do quanto disposto nos demais parágrafos do artigo 85 do NCPC, notadamente quando mencionado que o valor dos honorários já foram estabelecidos no percentual máximo previsto pelo legislador.
+Ademais, a utilização do § 8º do artigo 85 do novel diploma afigura-se absolutamente desnecessária quando a própria parte embargante pretende sejam os honorários fixados em R$ 333,33, quantia essa muito pouco acima daquela já estabelecida.
+Por fim, o mero inconformismo da parte com o resultado do julgamento ou com qualquer dos seus consectários não justifica a utilização dos aclaratórios quando ausente vício intrínseco ao julgado.
+Inexistindo quaisquer das máculas previstas no aludido dispositivo, não há razão para modificar a deliberação impugnada, notadamente quando a pretensão recursal é nitidamente infringente.
+2. Do exposto, rejeita-se os embargos de declaração.
+É como voto.
