@@ -1,0 +1,33 @@
+DECISÃO
+SOCIEDADE DE AMIGOS DO VALE DAS LARANJEIRAS (SOCIEDADE DE AMIGOS) ajuizou ação de cobrança contra RICARDO PENACHIN NETTO, MARIA APARECIDA DE FREITAS PENACHIN, MARCELO SCALET ARAUJO E MARIA FERNANDA DE FREITAS PENACHIN ARAUJO (RICARDO e outros) visando ao recebimento dos rateios mensais das despesas de manutenção e melhoria referentes ao imóvel do lote de terra nº 3, quadra F, do loteamento "Colinas Mosteiro de Itaici - Vale das Laranjeiras", matrícula nº 41.582 (e-STJ, fls. 1/19), no montante de R$ 9.222,50 (nove mil, duzentos e vinte e dois reais e cinquenta centavos), em dezembro de 2017 (e-STJ, fls. 431/433).
+O Juízo de primeira instância julgou procedente o pedido, para condenar as partes rés ao pagamento do montante de R$ 9.222,50 (nove mil, duzentos e vinte e dois reais e cinquenta centavos), bem como as parcelas vincendas no curso da demanda até o efetivo pagamento, montante a ser corrigido monetariamente com base na Tabela Prática do Egrégio Tribunal de Justiça do Estado de São Paulo e acrescidos de juros de mora à razão de 1% ao mês, ambos contados a partir de cada vencimento. As partes rés foram condenadas, ainda, ao pagamento das custas processuais e honorários advocatícios da parte adversa, fixados em 10% sobre o valor da condenação (e-STJ, fls. 550/552).
+O Tribunal Bandeirante, nos termos do acórdão relatado pelo Des. MAURÍCIO CAMPOS DA SILVA VELHO, em julgamento estendido, por maioria de votos, negou provimento ao recurso de RICARDO e outros, majorando os honorários advocatícios para 15% sobre o valor da condenação,vencidos o 2º Juiz que declarou e o 4º Juiz, com a seguinte ementa:
+APELAÇÃO. Ação de cobrança de taxas de manutenção, conservação e segurança. Loteamento "Vale das Laranjeiras". Sentença de procedência. Insurgência dos requeridos. Não acolhimento. Supedâneo para cobrança dos valores decorrente de expressa previsão no contrato padrão do loteamento, arquivado no Cartório de Registro de Imóveis, de rateio de despesas de manutenção. Sentença mantida. Recurso a que se nega provimento (e-STJ, fls. 609).
+RICARDO e outros interpuseram recurso extraordinário (e-STJ, fls. 617/629).
+Inconformados, RICARDO e outros interpuseram recurso especial com fundamento no art. 105, III, c, da CF, alegando que se aplica ao caso o tema repetitivo nº 882 do STJ, já que não se pode exigir de não associados o pagamento de despesas cobradas por associações, ainda que o contrato que instituiu o loteamento obrigue os compradores dos lotes (e-STJ, fls. 638/659).
+Foram apresentadas contrarrazões ao recurso especial (e-STJ, fls. 690/721).
+O Tribunal de Justiça do Estado de São Paulo admitiu o apelo nobre (e-STJ, fls. 723/725).
+É o relatório.
+DECIDO.
+De início, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto, ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na Sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/15 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+RICARDO e outros sustentaramque se aplica ao caso o tema repetitivo nº 882 do STJ, já que não se pode exigir de não associados o pagamento de despesas cobradas por associações, ainda que o contrato que instituiu o loteamento obrigue os compradores dos lotes, sem, contudo, indicar o artigo infraconstitucional tido por violado.
+A jurisprudência desta Corte segue no sentido de que a ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso uma vez que não basta a mera menção a dispositivos legais ou a narrativa acerca da legislação federal.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. INDENIZAÇÃO POR DANOS MORAIS. 1. REDUÇÃO DO DANO MORAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL PORVENTURA VIOLADO OU OBJETO DE INTERPRETAÇÃO DIVERGENTE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 2. ARGUMENTAÇÃO DEDUZIDA SOMENTE NAS RAZÕES DO AGRAVO INTERNO. ANÁLISE INVIÁVEL. INOVAÇÃO RECURSAL. 3. SUCUMBÊNCIA RECÍPROCA EM DANOS MORAIS, À LUZ DO NOVO CPC. MATÉRIA NÃO PREQUESTIONADA. SÚMULAS 282 E 356 DO STF. 4. AGRAVO INTERNO DESPROVIDO.
+1. Concernente à pleiteada redução indenizatória, os agravantes não apontaram nenhum dispositivo tido por violado a fim de viabilizar o conhecimento da insurgência sobre a matéria, cuja providência é obrigatória para os reclamos interpostos pelas alíneas a e c do permissivo constitucional. Dessarte, constata-se que a argumentação apresentada no recurso revela-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.473.694/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 9/3/2020, DJe 13/3/2020 - sem destaques no original)
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CORREÇÃO MONETÁRIA. JULGAMENTO FORA DOS LIMITES DA LIDE. INEXISTÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+ ..
+4. O conhecimento do recurso especial fundamentado na alínea "c" do permissivo constitucional exige a indicação dos dispositivos legais que supostamente foram objeto de interpretação divergente. Ausente tal requisito, incide a Súmula n. 284/STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 754.994/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 19/4/2021, DJe 23/4/2021 - sem destaques no original)
+Assim, o recurso não pode ser conhecido em virtude da incidência da Súmula nº 284 do STF, por analogia.
+Nessas condições,NÃO CONHEÇOdo recurso especial.
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor de ASSOCIAÇÃO, limitados a 20%, nos termos do art. 85, § 11, do NCPC, observados, se o caso,os ditames do art. 98, § 3º, do NCPC.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação das penalidades fixadas nos arts. 1.021, § 4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL MANEJADOSOB A ÉGIDE DO NCPC. AÇÃO. COBRANÇA. TAXAS DE MANUTENÇÃO.TESE FIRMADA EM SEDE DE RECURSO REPETITIVO.APLICABILIDADE. TEMA Nº 882 DO STJ.FALTA DE INDICAÇÃO DO DISPOSITIVO INFRACONSTITUCIONAL TIDO POR VIOLADO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
