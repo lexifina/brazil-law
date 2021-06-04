@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SINDICATO DOS PSICOLOGOS DO ESTADO DO RIO DE JANEIRO, à decisão de fls. 341/342, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Que na peça de Recurso Especial (fls., 54), o Embargante/recorrente abriu um tópico sobre tempestividade e, expressamente, demonstrou feriado no dia 11/06/2020 (quinta-feira) e ponto facultativo dia 12/06/2020 (sexta-feira), de tal forma, que o prazo final para interposição do referido recurso expirou no dia 29/06/2020 (segunda- feira), data esta que efetivamente fora protocolado o recurso, logo, inegavelmente, o Recurso Especial foi protocolado dentro da quinzena legal e portanto tempestivo, neste particular merece a decisão ser declarada, o que desde já se requer.
+O acórdão do TJRJ de fls., 192, primeiro parágrafo, reconheceu a tempestividade do Recurso Especial e Extraordinário.
+ ..
+Veja que o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro às fls., 192 foi firme em dizer que o tanto o Recurso Especial como Extraordinário foram tempestivos, logo, a decisão ora embargada, se revela omissão e contraditória quanto à decisão/acórdão do TJRJ fls 192 merecendo ser declarado, que ora se requer (fl. 345).
+Alega ainda que:
+Com todas as vênias a decisão que inadmitiu o Agravo de Instrumento merece ser declarada pois foi omissa quanto às certidões de fls., 232 e 233 quando certificado a intimação do recorrente (SINDPSI-RJ) na data 16/11/2020.
+ ..
+Comprovou-se, portanto, a intimação tácita do recorrente no dia 16/11/2020 conforme fls., 232/233, sendo feriado dia 20/11/2020 DIA NACIONAL DA CONSCIÊNCIA NEGRA Lei Estadual nº 4.007, de 11 de novembro de 2002 Art. 66, Inciso V da Lei Estadual nº 6956, de 13 de janeiro de 2015 DORJ-I, nº 217, p. 3 14/11/2002 DORJ- I, n. 8, p. 4. 14/01/2015.
+ ..
+A Terceira Vice-Presidência do TJRJ ao examinar os requisitos de admissibilidade do Recurso de Agravo de Instrumento verificou tempestividade tendo determinado a remessa dos autos ao STJ para regular processamento.
+Portanto, a decisão ora embargada, foi omissa tanto com relação à certidão de fls., 232/233 como também quanto à decisão da Terceira Vice-Presidência do TJRJ que reconheceu preenchidos os requisitos de admissibilidade, merecendo ser declarado diante das omissões e contradições apontadas (fls. 346/347).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+É certo que feriado nacional não precisa ser comprovado. Porém, os dias 11/6/2020, 12/6/2020 e 20/11/2020 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Observe-se que "o juízo de admissibilidade do recurso especial é bifásico, assim, a decisão proferida pelo tribunal de origem não vincula esta Corte, que tem competência plena para verificar novamente o preenchimento dos pressupostos recursais". (EDcl no AgInt no REsp 1781795/ES, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 16/6/2020.)
+Ademais, nos termos do art. 1.042, §§ 2º e 4º, do Código de Processo Civil, a competência do Tribunal a quo, na análise do agravo em recurso especial, restringe-se apenas à possibilidade de eventual retratação.
+A competência para o julgamento do referido agravo é deste Superior Tribunal de Justiça, conforme estabelecido nos §§ 3º e 4º do mencionado dispositivo, os quais prevêem que logo após o oferecimento da resposta do agravado, os autos devem ser remetidos a esta instância superior (Rcl 39.515/PE, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 29/06/2020).
+Ressalte-se que, ainda que considerando o dia 16/11/2020 como a data da intimação da decisão que inadmitiu o recurso especial, o recurso permanece intempestivo, uma vez que não comprovado o feriado local de 20/11/2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
