@@ -1,0 +1,9 @@
+DECISÃO
+Consoante se verifica dos autos, foram interpostos agravos por THIAGO BRASIL DA ROSA e THIAGO DE OLIVEIRA DOMINGUES, contra o acórdão proferido pelo Tribunal Regional Federal da 4ª Região (e-STJ, fls. 1331-1333).
+O recurso especial interposto por Thiago Brasil da Rosa foi inadmitido em razão da aplicação do óbice da Súmula 7 do STJ (e-STJ, fls. 1490-1494). Daí a interposição do respectivo agravo (e-STJ, fls. 1525-1539).
+Quanto a esse, observa-se que se trata de recurso idêntico ao que foi protocolado nesta Corte Superior sob o número 1.753.472/SC, cuja decisão monocrática de minha relatoria foi publicada no DJe de 06/04/2021 e transitou em julgado em 29/04/2021, data em que os autos foram definitivamente baixados ao Tribunal Regional Federal da 4ª Região.
+No tocante ao agravo interposto por Thiago de Oliveira Domingues (e-STJ, fls. 1505-1522), todavia, verifica-se que esse não diz respeito aos presentes autos, haja vista a inexistência do respectivo recurso especial.
+Nesse sentido manifestou-se o Ministério Público Federal à fl. 1608 (e-STJ). A propósito, confira-se:
+"Diante da intimação do evento 57, o Ministério Público Federal, por sua Procuradora Regional da República signatária, vem, perante Vossa Excelência, dizer que foram apresentadas as contrarrazões ao agravo em recurso especial, interposto em favor de Thiago Brasil da Rosa apenas (evento 51), vez que o agravo em recurso especial constante do evento 49, apresentado em favor de Thiago de Oliveira Domingues, não diz respeito a estes autos, consoante já referido no item 15 das contrarrazões do evento 54." (sem grifos no original).
+Ante o exposto, julgo prejudicada a análise do agravo deThiago Brasil da Rosa, não conheço do agravo de Thiago de Oliveira Domingues e determino a baixa imediata dos autos ao Tribunal Regional Federal da 4ª Região.
+Publique-se.
