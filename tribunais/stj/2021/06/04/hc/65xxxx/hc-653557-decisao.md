@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de habeas corpusimpetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no julgamento da Apelação n. 1508714-69.2020.8.26.0228.
+Extrai-se dos autos que o paciente foi condenado às penas de 03 anos, 02 meses e 03 dias de reclusão, em regime fechado e, 14 dias-multa, no valor diário mínimo, por infração ao art. 155, § 4º, I, (furto qualificado) c. c. as circunstâncias agravantes previstas no art. 61, I e II, "j", ambos do Código Penal.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual desproveu o recurso, mantendo a sentença por seus próprios fundamentos (fls. 43/50).
+No presente writ, a defesa sustenta que o paciente foi denunciado pela prática de furto qualificado e que emjuízo confessou a prática de um furto qualificado tentado. Afirma assim que o fato de a confissão ter sido parcial em nada interfere no reconhecimento da atenuante. Requer, portanto, que seja reconhecida a atenuante da confissão e compensada integralmente com a reincidência.
+Assevera que nada há nos autos dando conta de que o paciente se prevaleceu da pandemia para a prática do furto, razão pela qual postula queseja afastada a agravante do art. 61, II, "j", do Código Penal.
+Pleiteia, em suma, o reconhecimento da atenuante da confissão e sua compensação, bem como o afastamento da agravantedo art. 61, II, "j", do Código Penal.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 60/66).
+É o relatório. Decido.
+O presente habeas corpus não merece ser conhecido, pois impetrado em substituição a recurso próprio.
+Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do ora paciente, capaz de justificar a concessão da ordem de ofício.
+A parte impetrante postula, primeiramente, que seja reconhecida a atenuante da confissão e compensada integralmente com a reincidência.
+"Requer o Apelante o reconhecimento da confissão espontânea, com consequente compensação com a reincidência.
+Todavia, o Apelante apresentou confissão meramente qualificada, isso porque negou tivesse sido abordado pelos policiais fora do local da subtração. O Apelante, embora tenha confessado o furto, afirmou que foi preso quando ainda estava dentro da agência bancária, com nítido intuito de ver sua conduta ilícita enquadrada em tipo penal menos gravoso, de menor reprimenda, todavia, o que restou suficientemente demonstrado nos autos foi que o Apelante praticou crime de furto qualificado consumado, sendo, portanto, incabível o reconhecimento pretendido". (fl. 47)
+Com efeito, para a jurisprudência consolidada desta Corte Especial, a confissão deve ser reconhecida e aplicada a atenuante legal,sendo indiferente ela ser qualificada ou parcial.
+Neste diapasão:
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NÃO CABIMENTO. IMPROPRIEDADE DA VIA ELEITA. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. DELITO QUALIFICADO, PACIENTE REINCIDENTE E VALOR DO BEM QUE ULTRAPASSA 10% DO VALOR DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO DELITO. CONFISSÃO PARCIAL UTILIZADA COMO ELEMENTO PARA A CONDENAÇÃO. RECONHECIMENTO. COMPENSAÇÃO COM A REINCIDÊNCIA. POSSIBILIDADE. PENA REDUZIDA. REGIME PRISIONAL INTERMEDIÁRIO. PENA-BASE ACIMA DO MÍNIMO LEGAL E REINCIDÊNCIA QUE JUSTIFICAM O REGIME ESCOLHIDO PELAS INSTÂNCIAS DE ORIGEM. DETRAÇÃO.SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+- É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que a confissão do acusado, ainda que parcial, condicionada ou posteriormente retratada, enseja a incidência da atenuante prevista no art. 65, inciso III, alínea "a", do Código Penal.
+- No caso, mesmo que parcial, a confissão judicial foi utilizada para corroborar o acervo probatório e fundamentar a condenação, devendo, no caso, incidir a atenuante prevista no art. 65, inciso III, "d", do Código Penal em favor do paciente. Inteligência da Súmula n. 545 desta Corte.
+- Com o reconhecimento da atenuante da confissão, de rigor sua compensação com a agravante da reincidência, nos termos do decidido no julgamento do EREsp n. 1.154.752/RS, ocorrido em 23/5/2012 (DJe 4/9/2012), segundo o qual é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal. Precedentes.
+(..)
+- Habeas corpus não conhecido. Ordem concedida ex officio, apenas para reduzir as penas do paciente para 1 ano, 6 meses e 20 dias de reclusão e 8 dias-multa, mantidos os demais termos da condenação.
+(HC 414.824/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 23/10/2017)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONFISSÃO QUALIFICADA.ATENUANTE. SÚMULA 545/STJ. MANUTENÇÃO DA PENA. EXTINÇÃO DA PUNIBILIDADE PELA PRESCRIÇÃO. AGRAVO DESPROVIDO.
+1. "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal" (Súmula 545/STJ), sendo indiferente que a admissão da autoria criminosa seja parcial, qualificada ou acompanhada de alguma causa excludente de ilicitude ou culpabilidade.
+2. Transcorrido lapso temporal superior a seis anos desde o último marco interruptivo do prazo prescricional - publicação da sentença condenatória (1º/3/2011) -, está extinta a punibilidade do agente, cuja pena privativa de liberdade foi fixada em 2 anos de detenção, pela prática do crime tipificado no art. 302 da Lei n. 9.503/97.
+3. Agravo regimental desprovido e mantida a extinção da punibilidade.
+(AgRg no REsp 1364464/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/08/2017, DJe 28/08/2017)
+Outrossim, a Terceira Seção deste eg. Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial Repetitivo nº 1.341.370/MT, firmou entendimento no sentido de que "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência".
+Assim, deve ser reconhecida a atenuante da confissão e consequentemente compensada integralmente com a agravante da reincidência na segunda fase dosimétrica, devendo os autos retornarem à instância primeva para a nova fixação da sanção quantoao ponto.
+No que tange ao pedido para queseja afastada a agravante do art. 61, II, "j", do Código Penal, a decisão exarou:
+"No que se refere ao pleito de afastamento da agravante prevista no art. 61, II, "j", do Código Penal, insta consignar que o Apelante não respeitou o período de calamidade pública decorrente da pandemia, não se dignou, como recomendado, ao isolamento social, expondo-se por sua conta e risco a eventual contágio, optando ao ataque a patrimônio alheio em situação de segurança já fragilizada.
+Note-se que o crime foi praticado em um dos momentos mais críticos da pandemia, quando havia proibição de abertura de comércio de itens não essenciais, inclusive, esta Egrégia Corte havia suspendido o expediente (presencial) e os prazos, tudo a fim de se evitar a circulação do vírus.
+Não restam dúvidas que o Apelante praticou o crime quando em estado de calamidade pública, devendo incidir a agravante respectiva."(fls. 47/48)
+Destarte, para que seja reconhecida a aplicação da agravante, deve ocorrera demonstração de que o agente se aproveitou do estado de calamidade pública para praticar o crime em exame.
+E, a propósito, não se pode cogitar em afastamento desta circunstância, já que o crime foi praticado na vigência do Decreto Legislativo nº 6, de 20 de março de 2020 citado na sentença em fl. 24, o qual reconheceu o estado de calamidade pública decorrente de pandemia de Covid-19.
+Assim, não é o caso de afastá-la, ou, muito menos, considerá-la como atenuante, posto que o réu rompeu o isolamento social e se valeu de uma conjuntura dramática vivida no seio social para realizar infração patrimonial, aproveitando-se de que estavaa segurança do local fragilizada diante do isolamento social que foi determinado à população, tornando-se, também, potencial disseminador do vírus.
+No mesmo sentido, as seguintes decisões: HC 614.137/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 02/02/2021, e HC 629.867/SP, Rel. Ministro SEBASTIÃO REIS JUNIOR, DJe 02/02/2021.
+Ante o exposto, não conheço do habeas corpus, mas concedo de ofício a ordem para compensar integralmente a agravante da reincidência com a atenuante da confissão.
+Publique-se.
+Intimem-se.
