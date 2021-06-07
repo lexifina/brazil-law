@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto por KEILA MUNIZ BARROS, com fundamento no art. 105, III, a, da CF, contra acórdão do Tribunal de Justiça do Estado do Tocantins, assim ementado (fl. 307):
+APELAÇÃO. AÇÃO DE COBRANÇA. FGTS. UNITINS. NATUREZA PÚBLICA.
+PRESCRIÇÃO QUINQUENAL. APLICAÇÃO DO DECRETO Nº 20.910/32. NORMA ESPECIAL. AÇÃO AJUIZADA ANTES DO JULGAMENTO DO ARE 709.212/DF. SENTENÇA CONFIRMADA. 1. A Fundação Universidade do Tocantins - UNITINS é pessoa jurídica de natureza pública, a qual integra a Administração Indireta do Poder Executivo Estadual, segundo o artigo 1º, alínea "b" item 13 da Lei nº. 2.425/11. 2. Cogente o reconhecimento da prescrição quinquenal, uma vez que não é aplicável o prazo trintenário para as hipóteses em que a cobrança das parcelas do FGTS é dirigida contra o poder público, devendo incidir a regra específica da prescrição quinquenal inserta no art. 1º, do Decreto nº. 20.910/32 que, por ser norma especial, prevalece sobre a lei geral. 3. Por se tratar de prestação de trato sucessivo, a condenação pode alcançar apenas as parcelas atinentes aos 05 (cinco) anos anteriores ao ajuizamento da ação. Logo, tendo a presente ação sido proposta em 24.04.2013, ao passo que as parcelas pleiteadas se referem ao período entre 30.01.1997 a 03.09.2007, clarividente que todas as parcelas foram alcançadas pela prescrição quinquenal, não sendo mais possível a cobrança do FGTS. 4. A modulação definida no julgamento do ARE nº 709.212/DF não alcança as demandas em trâmite, sendo aplicável somente para as ações ajuizadas após seu julgamento, diante dos efeitos prospectivos (ex nunc) atribuídos à alusiva decisão. 5. Recurso improvido.
+A recorrente alega inconstitucionalidade dos arts. 23, § 5º, da Lei n. 8.036/1990 e 55 do Regulamento do FGTS aprovado pelo Decreto n. 99.684/1990, aduzindo a respeito da prescrição e do entendimento do STF no AREs 709.212/DF
+Contrarrazões a fls. 430-434.
+Juízo positivo de admissibilidade (fls. 476-478).
+É o relatório. Decido.
+Inicialmente, anote-se que a recorrente não indica, nas razões do apelo nobre, dispositivo legal violado, situação que configura deficiência insanável da fundamentação recursal, a não permitir a exata compreensão da controvérsia. Aplicação da Súmula 284/STF.
+Com efeito, com base no disposto no art. 105, III, "a" e "c", da CFRB, é dever do recorrente indicar expressamente qual o dispositivo legal violado, ao interpor seu recurso excepcional, sob pena de não conhecimento do apelo nobre, o que não ocorreu no presente caso.
+Ao STJ, no âmbito do recurso especial, cabe a análise de violação de norma infraconstitucional, de modo que inadmissível o apelo nobre para alegar inconstitucionalidade de norma legal, matéria de competência exclusiva do STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FGTS. AUSÊNCIA DE INDICAÇÃO DA NORMA LEGAL VIOLADA. SÚMULA 284/STF. ALEGAÇÃO DE INCONSTITUCIONALIDADE. COMPETÊNCIA DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
