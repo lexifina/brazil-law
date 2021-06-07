@@ -1,0 +1,109 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Luis Felipe Salomão, Raul Araújo, Paulo de Tarso Sanseverino, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EMPRESA EM RECUPERAÇÃO. COMPETÊNCIA. AUSÊNCIA DE SIMILITUDE ENTRE OS CASOS CONFRONTADOS.
+1. No caso, enquanto o acórdão embargado definiu a competência para processar e julgar uma ação, o paradigma decidiu quem seria competente para enfrentar, especificamente, ato de constrição de um bem, essencial ou não para a recuperanda, circunstâncias suficientes para afastar a similitude e, por consequência, a divergência entre os casos confrontados.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA: Trata-se de agravo interno interposto por Brune Veículos Ltda. - em recuperação judicial - contra a decisão de fls. 1.410/1.415 (e-STJ), que indeferiu liminarmente os embargos de divergência.
+A agravante alega que a decisão agravada "deixou de observar que a agravante promoveu o cotejo analítico entre os acórdãos em sua peça recursal e demonstrou a identidade entre os casos. As circunstâncias similares entre os julgados são inequívocas e evidenciam a divergência no entendimento entre os Órgãos julgadores" (e-STJ fl. 1.436).
+Explica que, "enquanto o acórdão embargado afastou a competência do juízo recuperacional, por entender (1) que a ação originária foi proposta pela empresa em recuperação (e não conta ela), (2) bem como não haveria ato executório contra seu patrimônio, o aresto paradigmático concluiu que compete ao Juiz da recuperação "a análise do caráter extraconcursal das dívidas da empresa em recuperação,  ..  bem como o exame da essencialidade, par as atividades da sociedade recuperanda, dos bens pretendidos pelo credor" (e-STJ fl. 1.437).
+Assevera que "a similitude dos casos não reside na natureza da ação em que se discute a competência, mas sim no bem que a ação pretende tutelar" (e-STJ fl. 1.438), e que "o cerne da questão é que, em ambos os casos, a ação questionada apresenta-se totalmente vinculada à ação recuperacional - tanto a executória, no caso paradigmático, quanto a cautelar referente ao contrato na querela em apreço" (e-STJ fl. 1.438).
+As agravadas apresentaram impugnação (e-STJ fls. 1.448/1.459).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EMPRESA EM RECUPERAÇÃO. COMPETÊNCIA. AUSÊNCIA DE SIMILITUDE ENTRE OS CASOS CONFRONTADOS.
+1. No caso, enquanto o acórdão embargado definiu a competência para processar e julgar uma ação, o paradigma decidiu quem seria competente para enfrentar, especificamente, ato de constrição de um bem, essencial ou não para a recuperanda, circunstâncias suficientes para afastar a similitude e, por consequência, a divergência entre os casos confrontados.
+2. Agravo interno a que se nega provimento.
+AgInt nos EMBARGOS DE DIVERGÊNCIA EM RESP Nº 1.868.182 - BA (2019/0187968-9)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+BRUNE VEICULOS LTDA
+ADVOGADOS
+:
+FABIO CANDIDO PEREIRA - SP164691
+SANDRA QUESIA DE SOUZA COSTA PORTO - BA019872
+CARLOS MACEDO BARROS E OUTRO(S) - DF050253
+ELIANA CALMON ALVES - DF046625
+ROGERIO FRANÇA ATHAYDE DE ALMEIDA - DF058809
+ERIC DINIZ CASIMIRO - DF063071
+RENATO CALMON ALVES BERNARDO DA CUNHA - DF019863
+AGRAVADO
+:
+RENAULT DO BRASIL COMÉRCIO E PARTICIPAÇÕES LTDA
+AGRAVADO
+:
+RENAULT DO BRASIL S/A
+ADVOGADOS
+:
+RENATO ALBERTO DOS HUMILDES OLIVEIRA - BA014422
+MARCO DELUIGGI - SP220938
+ADVOGADOS
+:
+MANUELA BASTOS DE MATOS BRITTO - BA017595
+RAFAEL FERNANDES DE MELO LOPES - BA018323
+ADVOGADOS
+:
+DANÚBIA SOUTO DE FARIA COSTA - DF029843
+PEDRO HENRIQUE SILI VILHENA VIEIRA - RJ166578
+GUILHERME GUIDI LEITE - SP328861
+ADVOGADOS
+:
+ISABELA DE OLIVEIRA ALVES - DF046172
+BIANCA ROLDAN MUSSOLINO - SP384726
+LORENA LOSCHER ROCHA - SP409213
+ANTONIO VITOR OLIVEIRA BORGES - BA044788
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): O presente agravo interno não merece provimento, devendo-se manter a decisão agravada por seus próprios fundamentos, com o seguinte teor:
+Trata-se de embargos de divergência interpostos por Brune Veículos Ltda. - em recuperação judicial contra acórdãos da TERCEIRA TURMA, Rel. Ministra NANCY ANDRIGHI, assim ementados:
+RECURSO ESPECIAL. EXCEÇÃO DE INCOMPETÊNCIA. AÇÃO EM QUE SE DISCUTE A VALIDADE DE CLÁUSULAS DE CONTRATO DE CONCESSÃO COMERCIAL. VENDA DE VEÍCULOS AUTOMOTORES. AUTORA DA AÇÃO EM RECUPERAÇÃO JUDICIAL. CLÁUSULA DE ELEIÇÃO DE FORO. VIS ATTRACTIVA DO JUÍZO RECUPERACIONAL. INEXISTÊNCIA. PREVALÊNCIA DO FORO ELEITO. PRECEDENTES.
+1. Exceção de incompetência apresentada em 25/7/2014. Recurso especial interposto em 9/5/2018 e concluso ao Gabinete em 4/11/2019.
+2. O propósito recursal é definir o juízo competente para julgamento de ação - movida por sociedade empresária em recuperação judicial - que tem como objeto questões concernentes a contrato de concessão de venda de veículos automotores.
+3. A Lei 11.101/05 dispõe, em seu art. 6º, §§ 1º e 3º, que o deferimento do processamento da recuperação judicial tem como efeito, sobre as ações ajuizadas em face do devedor, a suspensão de seus processamentos nos juízos onde estejam tramitando, inclusive aquelas que envolvam discussão sobre o pagamento de quantias ilíquidas. Nesses casos, o juízo competente poderá determinar a reserva das importâncias que estimar devidas no processo de soerguimento, sendo o respetivo crédito incluído na classe própria quando reconhecida a liquidez do direito.
+4. Por outro lado, o julgamento de ações em que a recuperanda figure como autora ou litisconsorte ativa não compete ao juízo onde tramita a ação de soerguimento. Precedente da Terceira Turma.
+5. Ainda que assim não fosse, a formação de um juízo universal e indivisível, dotado de competência para conhecer de todas as ações sobre bens, interesses e negócios do devedor, somente foi prevista na LFRE para as hipóteses de falência (art. 76), não havendo regra semelhante incidindo sobre os casos que envolvam processos de recuperação judicial.
+6. O STJ possui entendimento consolidado no sentido de que a mera desigualdade de porte econômico entre a montadora de veículos e a respectiva concessionária não é capaz de caracterizar hipossuficiência econômica e ensejar o afastamento do dispositivo contratual de eleição de foro.
+7. Em contratos dessa espécie, a decretação da invalidade da cláusula de eleição de foro somente tem cabimento se ficar suficientemente comprovada a abusividade, o que se caracterizaria na hipótese de sua observância resultar em evidente inviabilidade ou em dificuldade excessiva de acesso ao Judiciário, circunstâncias não verificadas no particular.
+RECURSO ESPECIAL PROVIDO. (e-STJ fls. 1.310/1.311.)
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXCEÇÃO DE INCOMPETÊNCIA. AÇÃO EM QUE SE DISCUTE A VALIDADE DE CLÁUSULAS DE CONTRATO DE CONCESSÃO COMERCIAL. VENDA DE VEÍCULOS AUTOMOTORES. AUTORA DA AÇÃO EM RECUPERAÇÃO JUDICIAL. CLÁUSULA DE ELEIÇÃO DE FORO. VIS ATTRACTIVA DO JUÍZO RECUPERACIONAL. INEXISTÊNCIA. PREVALÊNCIA DO FORO ELEITO. PRECEDENTES. OMISSÃO INEXISTENTE. RECURSO REJEITADO.
+- O acórdão embargado enfrentou as questões controvertidas em sua integralidade, inexistindo a omissão apontada, uma vez que o fundamento para o reconhecimento da competência do foro de eleição contratualmente escolhido pelas partes foi articulado e desenvolvido extensamente no corpo do aresto impugnado.
+EMBARGOS DE DECLARAÇÃO REJEITADOS. (e-STJ fl. 1.353.)
+A embargante esclarece que "a questão central em discussão no presente recurso é a definição do juízo competente para apreciar ação cautelar, ajuizada pela embargante com o objetivo de manter a vigência de contrato que lhe credenciou como concessionária na rede da montadora embargada" (e-STJ fl. 1.364).
+Sustenta que o acórdão embargado, "embora tenha reconhecido a competência do Juízo da recuperação judicial para decidir sobre atos expropriatórios dos bens da empresa recuperanda, olvidou-se de que tal competência se estende aos bens essenciais ao funcionamento da atividade econômica e que o juízo de valor acerca da essencialidade ou não do bem deve ser realizado pelo Juízo da recuperação judicial" (e-STJ fl. 1.369). Acrescenta que, nesse ponto, "houve divergência entre o acórdão embargado e a Quarta Turma dessa Corte Superior. De fato, a jurisprudência pacífica informa que, quando a demanda versar sobre bem jurídico essencial ao funcionamento da empresa recuperanda, caberá ao juízo da recuperação judicial avaliar se tal bem deve ou não ser extirpado do patrimônio da empresa, pois só ele tem acesso a todas as informações sobre sua atividade econômico-financeira" (e-STJ fl. 1.369). Indica o seguinte paradigma:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPETÊNCIA. EXECUÇÃO. ALIENAÇÃO FIDUCIÁRIA DE BEM MÓVEL. RECUPERAÇÃO JUDICIAL. ATIVIDADE EMPRESARIAL. ESSENCIALIDADE DO BEM. AFERIÇÃO. COMPETÊNCIA DO JUÍZO UNIVERSAL.
+1. É firme a jurisprudência do STJ no sentido de que "ao juízo universal compete a análise do caráter extraconcursal das dívidas da empresa em recuperação, alegadamente garantidas por alienação fiduciária, bem como o exame da essencialidade, para as atividades da sociedade recuperanda, dos bens pretendidos pelo credor" (AgInt no CC 143.203/GO, Rel. Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 23/05/2018, DJe 30/05/2018).
+2. Na hipótese o TJDFT reconheceu a essencialidade do bem para a recuperanda, notadamente por ser o referido imóvel a sede da própria sociedade empresária em processo de recuperação. Entender de forma diversa demandaria o revolvimento fático-probatório dos autos, o que encontra óbice na Súm. 7 do STJ.
+3. Agravo interno não provido. (AgInt no REsp n. 1.861.934/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 13/8/2020.)
+Assevera que, "no acórdão paradigma, oriundo do recurso especial nº 1.861.934, a Quarta Turma manteve acórdão do TJDFT que reconheceu a competência do Juízo da recuperação para decidir sobre imóvel dado em garantia em pacto de alienação fiduciária, uma vez que era utilizado como sede da empresa recuperanda. O julgamento teve como fundamento a jurisprudência consolidada do STJ no sentido de conferir ao juízo da recuperação a competência para decidir sobre a essencialidade do bem" (e-STJ fl. 1.369). Além disso, "uma vez que o Tribunal de origem tinha reconhecido a essencialidade do bem para a recuperanda, "notadamente por ser o referido imóvel a sede da própria sociedade empresária em processo de recuperação", o Colegiado foi impossibilitado de rever tal posicionamento em razão do óbice da Súmula nº 7/STJ" (e-STJ fl. 1.369).
+Alega que, "assim como o imóvel foi considerado essencial no REsp nº 1.861.934/DF, o contrato em questão foi reputado como negócio jurídico essencial pelo Tribunal a quo. A modificação dessa conclusão pelo acórdão embargado conferiu interpretação divergente sobre os dispositivos apontados pelas embargadas como violados" (e-STJ fl. 1.370).
+Argumenta que "o entendimento firmado no acórdão paradigma já foi sedimentado em diversos outros julgados, inclusive da Terceira Turma" (e-STJ fl. 1.371) e que, "apesar de Conflito de Competência não servir de paradigma em embargos de divergência, convém registrar o entendimento firmado no CC nº 118.819/MG, no qual a Segunda Seção firmou a competência do Juízo da recuperação judicial para julgar ação anulatória de protesto judicial proposta pela empresa recuperanda" (e-STJ fl. 1.372).
+Na sequência, no mérito, defendeu a aplicação da tese da QUARTA TURMA nestes autos (cf. e-STJ fls. 1.377/1.381), requerendo ao final que:
+1) prevaleça a interpretação jurisprudencial exposta no precedente da Quarta Turma do Superior Tribunal de Justiça (REsp nº 1.861.934/DF), quanto à competência do Juízo da recuperação judicial para decidir sobre a essencialidade do bem para o plano de recuperação judicial e impossibilidade de modificar tal conclusão em razão da Súmula nº 7/STJ;
+2) aplicado o entendimento da Quarta Turma, sejam os presentes Embargos de Divergência providos, a fim de que se negue provimento ao Recurso Especial interposto pela Renault, mantendo-se o acórdão do TJBA. (e-STJ fl. 1.381.)
+É o relatório.
+Decido.
+Os presentes embargos de divergência não merecem processamento, tendo em vista que os acórdãos confrontados não guardam a indispensável semelhança fático-jurídica entre si.
+No acórdão embargado, foi definido o Juízo competente para processar e julgar ação proposta por sociedade empresária em recuperação judicial, "que tem como objeto questões concernentes a contrato de concessão de venda de veículos automotores" (e-STJ fl. 1.316). A TERCEIRA TURMA, distinguindo o presente caso daqueles em que são promovidos atos de execução sobre o patrimônio da sociedade recuperanda, concluiu que a ação objeto destes autos não seria atraída para o juízo universal, nos seguintes termos:
+6. Esta Corte Superior de Justiça firmou entendimento no sentido de que é do juízo em que se processa a recuperação judicial a competência para promover atos de execução (constritivos ou expropriatórios) sobre o patrimônio da sociedade empresária devedora, ainda que se trate de execuções fiscais ou trabalhistas, a fim de evitar, à luz do princípio da preservação da empresa (insculpido no art. 47 da Lei 11.101/05), que tais medidas afetem o cumprimento do plano de soerguimento. Nesse sentido, a título ilustrativo, confira-se o seguinte julgado desta Turma: REsp 1.598.130/RJ, Terceira Turma, DJe 14/3/2017.
+7. A particularidade da hipótese dos autos reside no fato de não se estar discutindo qual o juízo competente para a prática de atos executivos sobre o acervo dos bens titularizados pela recuperanda, mas sim a que juízo compete o processamento e o julgamento de ação cuja pretensão é a manutenção da vigência do contrato de concessão comercial firmado entre as litigantes.
+8. A Lei 11.101/05 dispõe, em seu art. 6º, §§ 1º e 3º, que o deferimento do processamento da recuperação judicial tem como efeito, sobre as ações ajuizadas em face do devedor - ou seja, sobre as ações em que a recuperanda figura como ré -, a suspensão de seus processamentos nos juízos onde estejam tramitando, inclusive aquelas que envolvam discussão sobre o pagamento de quantias ilíquidas. Nesses casos, o juízo competente poderá determinar a reserva das importâncias que estimar devidas no processo de soerguimento, sendo o respetivo crédito incluído na classe própria quando reconhecida a liquidez do direito.
+9. A única hipótese de prevenção do juízo recuperacional constante na referida lei se dá em relação a "qualquer outro pedido de recuperação judicial ou de falência, relativo ao mesmo devedor" (art. 6º, § 8º).
+10. A análise da Lei 11.101/05 revela, ademais, que a formação de um juízo universal e indivisível, dotado de competência para conhecer de "todas as ações sobre bens, interesses e negócios" do devedor, somente foi prevista para as hipóteses de falência (art. 76), não havendo regra semelhante incidindo sobre os casos que envolvam processos de recuperação judicial.
+ ..
+12. Vale notar que, mesmo em situações bastante sensíveis, como nas hipóteses de reclamatórias trabalhistas, de afetações indevidas de bens de terceiros, de ações de despejo e de consumo (v.g.), o STJ vem entendendo que não se pode cogitar da existência de força atrativa do juízo recuperacional para julgamento de tais demandas, devendo apenas ser a ele submetidos atos de penhora e de expropriação eventualmente incidentes sobre bens da recuperanda. Nesse sentido: CC 112.799/DF, Segunda Seção, DJe 22/3/2011; AgInt no CC 157.947/MT, Segunda Seção, DJe 13/8/2018; CC 148.803/RJ, Segunda Seção, DJe 2/5/2017; REsp 1.598.130/RJ, Terceira Turma, DJe 14/3/2017.
+13. De se lembrar, outrossim, que, no particular, a recuperanda figura como autora da presente ação (a qual, vale lembrar, ostenta natureza acautelatória), de modo que sequer poderia ser aventada, por mera inferência de lógica processual, a prática de atos executórios sobre seu patrimônio.
+14. Importa sublinhar, quanto ao ponto, que esta Terceira Turma já decidiu que nas ações em que a recuperanda figura como autora ou litisconsorte ativa, seu julgamento não compete ao juízo onde tramita a ação de soerguimento (REsp 1.766.412/RJ, DJe 15/2/2019).
+15. Portanto, seja porque a presente ação não foi movida em face da recorrida, mas sim por ela; seja porque, ainda que figurasse no polo passivo, o juízo da recuperação não possui força atrativa para dela conhecer e julgar, não pode subsistir o entendimento constante do acórdão recorrido. (eSTJ fls. 1.317/1.319.)
+O paradigma (AgInt no REsp n. 1.861.934/DF), por sua vez, diz respeito à constrição judicial de bem móvel objeto de alienação fiduciária, vinculado à recuperanda, realizado nos autos de ação de execução proposta por instituição financeira. Com base na jurisprudência do STJ, foi decidido que compete ao Juiz da recuperação "a análise do caráter extraconcursal das dívidas da empresa em recuperação,  ..  bem como o exame da essencialidade, para as atividades da sociedade recuperanda, dos bens pretendidos pelo credor" (e-STJ fl. 1.392).
+Portanto, enquanto o acórdão embargado define a competência para processar e julgar uma ação, o paradigma decide qual juízo seria o competente para enfrentar ato de constrição de um bem, essencial ou não para a recuperanda.
+Ante o exposto, INDEFIRO LIMINARMENTE os embargos de divergência.
+Publique-se e intimem-se. (e-STJ fls. 1.410/1.415.)
+Efetivamente, a agravante não traz nenhum argumento capaz de viabilizar a reforma da decisão agravada, cabendo reiterar, apenas, que, enquanto o acórdão embargado definiu a competência para processar e julgar uma ação, o paradigma decidiu quem seria competente para enfrentar, especificamente, ato de constrição de um bem, essencial ou não para a recuperanda, circunstâncias suficientes para afastar a similitude e, por consequência, a divergência entre os casos confrontados.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
