@@ -1,0 +1,34 @@
+DECISÃO
+Nestehabeas corpus, com pedido liminar, impetrado em favor deLuiz Carlos Balbino- condenado como incurso no crime de tráfico de drogas à pena de 5 anos, 6meses e 20 diasde reclusão, em regime inicial fechado, além do pagamento de 555 dias-multa (Apelação Criminal n. 1500333-82.2020.8.26.0548, do Tribunal de Justiça de São Paulo) -, sob alegação de constrangimento ilegal na negativa de compensação da agravante da reincidência (específica) com a atenuante (confissão) e na fixação do regime inicial mais gravoso para o cumprimento da pena, requer-se, em liminar e no mérito, seja concedida a compensação integral entre a atenuante da confissão e a agravante da reincidência, bem assim a fixação de regime inicial semiaberto(fl. 11).
+É o relatório.
+A ordem merece parcial concessão.
+Colhe-se dos autos que a Corte de origem obstou a compensação integral da agravante da reincidência com a atenuante da confissão considerando o fato de que a reincidência, no caso, é específica (fl. 273):
+ ..
+Em seguida, a Juíza sentenciante, acertadamente, reconheceu a agravante da reincidência (que, no caso, é específica fl. 72) e aumentou o castigo de 1/3, que perfez 6 anos e 8 meses de reclusão, mais o pagamento de 666 dias-multa, no piso. Depois, diante do reconhecimento da confissão espontânea, a pena foi reduzida em 1/6, totalizando, em definitivo, 5 anos, 6 meses e 20 dias de reclusão, além do pagamento de 555 dias-multa, no mínimo legal.
+Destaco que, ao meu ver, não era o caso do reconhecimento da atenuante da confissão espontânea, pois como vimos, em Juízo, BALBINO mudou sua versão dos fatos, negando ser traficante de narcóticos. Contudo, o silêncio do Promotor acabou colocando uma pá de cal sobre esse engano, de modo que, o apelante, na verdade, não tem do que reclamar, e nem, muito menos, pretender a compensação integral da agravante da reincidência (específica), que é circunstância preponderante, com a atenuante (genérica) da confissão espontânea, na dicção artigo 44, inciso II do Código Penal.
+ ..
+Tal fundamento, no entanto, é inidôneo à luz da orientação jurisprudencial consolidada na Terceira Seção desta Corte:
+ ..
+- Outrossim, recentemente, em 11/10/2017, a Terceira Seção, no julgamento do Habeas Corpus n. 365.963/SP, firmou a jurisprudência no sentido que a especificidade da reincidência não obstaculiza sua compensação com a atenuante da confissão espontânea. Todavia, tratando-se de réu multirreincidente, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade.
+ ..
+- Agravo regimental não provido.
+(AgRg no HC n. 645.530/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/5/2021 - grifo nosso)
+Logo, o paciente faz jus à compensação integral e, consequentemente, a pena deve ser reduzida, na segunda fase, ao mínimo legal (5 anos de reclusão e 500 dias-multa), restando definitiva, ante a inexistência de causas de aumento e diminuição na terceira fase.
+De outra parte, no que se refere ao regime inicial de pena, não há falar em ilegalidade.
+Ora,a compensação efetivada só gera efeitos na dosimetria da segunda fase, mas não exclui a condição de reincidente do paciente, sendo certo que tal circunstância, por si só, justifica o recrudescimento do regime para aquele imediatamente mais gravoso (fechado):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL E PROCESSO PENAL. FURTO.DOSIMETRIA DA PENA. PENA-BASE. CONDUTA SOCIAL E ANTECEDENTES CRIMINAIS NEGATIVADOS. FRAÇÃO DE AUMENTO DE 1/4 PARA CADA VETORIAL DESVALORADA. AUSÊNCIA DE FUNDAMENTAÇÃO. DESPROPORCIONALIDADE.PRECEDENTES. APLICAÇÃO DA FRAÇÃO USUAL DE 1/6. SEGUNDA FASE.COMPENSAÇÃO INTEGRAL ENTRE CONFISSÃO E REINCIDÊNCIA ESPECÍFICA.POSSIBILIDADE. NOVA DOSIMETRIA DA PENA REALIZADA. REGIME INICIAL FECHADO MANTIDO. PACIENTE REINCIDENTE E COM CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR MEDIDAS RESTRITIVAS DE DIREITOS. EXPRESSA PREVISÃO LEGAL. INCISOS II E III DO CÓDIGO PENAL. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+- A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+- A fração de aumento operada, na fração de 1/4 para cada vetorial negativada - maus antecedentes (apenas uma condenação) e conduta social -, é desproporcional, de forma que deve ser aplicada a fração usual de 1/6, nos termos da jurisprudência desta Corte Superior.
+Precedentes.
+- A Corte catarinense reconheceu tanto a agravante da reincidência quanto a incidência da atenuante da confissão espontânea, contudo, não operou a compensação integral entre ambas, por considerar a preponderância daquela sobre esta, fundamento inidôneo, nos termos da atual jurisprudência dessa Corte Superior, devendo ser operada a compensação integral entre ambas.
+- Nova dosimetria da pena realizada, ficando as reprimendas do paciente definitivamente estabilizadas em 1 ano e 4 meses de reclusão, além de 13 dias-multa. Mantido o regime inicial fechado, nos termos da Súmula n. 269 do STJ, e do art. 33, §§ 2º, "c" e 3º, do Código Penal, e negada a substituição da pena privativa de liberdade por medidas restritivas de direitos, por expressa previsão legal, nos termos do art. 44, II e III, do Código Penal.Precedentes.
+- Agravo regimental não provido.
+(AgRg no HC n. 578.712/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/6/2020)
+No mesmo sentido, confira-se: HC n. 573.675/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 17/6/2020.
+Ante o exposto,concedo parcialmente aordem,a fim de compensar integralmente a circunstância agravante (reincidência) com a circunstância atenuante (confissão) na segunda fase da dosimetria, reduzindo a pena imposta ao paciente a 5 anos de reclusão, mantido o regime inicial fechado, além do pagamento de 500 dias-multa (Apelação Criminal n. 1500333-82.2020.8.26.0548, do Tribunal de Justiça de São Paulo).
+Dê-se ciência ao Tribunala quo.
+Intime-se o Ministério Público de São Paulo.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. SUPOSTA ILEGALIDADE NA AUSÊNCIA DE COMPENSAÇÃO INTEGRAL DA CIRCUNSTÂNCIA AGRAVANTE (REINCIDÊNCIA) COM A CIRCUNSTÂNCIA ATENUANTE (CONFISSÃO). PROCEDÊNCIA. REINCIDÊNCIA ESPECÍFICA. FUNDAMENTO INIDÔNEO. PRECEDENTE DA TERCEIRA SEÇÃO DESTA CORTE. COMPENSAÇÃO. REDUÇÃO DA PENA NA SEGUNDA FASE. SUPOSTA ILEGALIDADE NA FIXAÇÃO DO REGIME INICIAL FECHADO. IMPROCEDÊNCIA. REINCIDÊNCIA. CIRCUNSTÂNCIA APTA A JUSTIFICAR O AGRAVAMENTO DO REGIME DE PENA.
+Ordem concedida em parte, nos termos do dispositivo.
