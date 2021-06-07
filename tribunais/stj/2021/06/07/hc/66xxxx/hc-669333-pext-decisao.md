@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de pedido de extensão, formulado em favor de FELIPE DE CARVALHO FELIZARI, dos efeitos da decisão de fls. 297-303, que, em 25/5/2021, beneficiou TIAGO LARA ASSUNÇÃO.
+O requerente sustenta, em síntese, que: a) as situações "dos réus Felipe de Carvalho Felizari e Tiago Lara Assunção se equivalem", na medida em que "Felipe igualmente ostenta a primariedade e também tem, no total, apreensão de entorpecentes que não se pode considerar relevante" (e-STJ, fl. 309); b) "a fundamentação relacionada à garantia da ordem pública pelo juízo a quo é exatamente a mesma para os dois réus do processo" (e-STJ, fl. 309).
+Pleiteia, com a extensão, a substituição da prisão preventiva imposta a ele por medidas cautelares alternativas.
+É o relatório.
+Dispõe o art. 580 do Código de Processo Penal que, "no caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+Nestes autos, verifica-se que a ordem de habeas corpus foi concedida, de ofício, ao paciente, Tiago Lara Assunção, tendo em consideração que, "com relação ao paciente", houve apenas fundamentos genéricos relacionados à gravidade abstrata do crime de tráfico de drogas, "sobretudo quando considerada sua primariedade" (e-STJ, fl. 302).
+De outro modo, a prisão preventiva imposta ao ora requerente, Felipe de Carvalho Felizari, consoante consignado no mesmo decreto preventivo, baseou-se, também, no fato de que ele - diferentemente do paciente, Tiago - "já respondeu a processo criminal por tráfico de drogas e também foi alvo de recente investigação que culminou com a decretação de sua prisão preventiva" (e-STJ, fl. 298). Ademais, em decisões nas quais se indeferiu pedidos de revogação da segregação cautelar, o Juízo de primeiro grau asseverou que Felipe "era alvo de mandado de prisão preventiva expedido em investigação recente" (e-STJ, fls. 300 e 301).
+Verifica-se, assim, que não há identidade fático-processual entre o beneficiado neste habeas corpus, Tiago Lara Assunção, e o corréu e requerente, Felipe de Carvalho Felizari.
+Ante o exposto, indefiro o pedido de extensão, sem prejuízo da análise, em processo próprio, da legalidade da prisão preventiva imposta ao ora requerente.
+Publique-se. Intimem-se.
