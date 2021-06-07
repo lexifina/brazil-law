@@ -1,0 +1,21 @@
+EMBARGOS DE DECLARAÇÃO – MERA PRETENSÃO DE EFEITOS MODIFICATIVOS – INADMISSIBILIDADE – AUSÊNCIA DE VÍCIOS – RECURSO REJEITADO.
+1. Para acolhimento desta espécie recursal incumbe à parte encaixar sua pretensão nos moldes do art. 1022 do CPC, especificando a incidência da omissão, contradição ou obscuridade na decisão recorrida.
+2. Inexistindo vício, hão de ser rejeitados os embargos de declaração, não se prestando tal meio para reexame da causa ou exercício de juízo de reconsideração.
+Vistos etc.
+Recurso de embargos de declaração oposto por GERACAO TRANSPORTES LTDA - ME, através da petição de ID 84246451, contra decisão que indeferiu a liminar vindicada no respectivo RAI 1005777-34.2021.8.11.0000, onde figura como parte contrária ACE SEGURADORA S.A..
+Em síntese, aduz que a decisão contém vício passível de correção haja vista que (i) o bem objeto de restrição é o único meio de manter as atividades da empresa, bem como ao seu sustento e de sua família; (ii) o Sr. Dioclécio é sócio da Embargante e sempre foi o único condutor do veículo, como do bem bloqueado em questão; (iii) a situação financeira da Embargante precária; (iv) onerosidade excessiva da execução e o da dignidade da pessoa humana; (v) o recurso não se funda contra a restrição de transferência, mas sim somente quanto a vedação à circulação do bem; (vi) ofensa ao principio da menor onerosidade do devedor; (vii) expropriação do bem só será permitida quando da quitação do contrato de financiamento a ele vinculado; (viii) inviável, incabível e inaceitável a restrição de circulação com veículo até que haja a finalização da alienação; (ix) omissão quanto pedido de intimação do credor fiduciário.
+Síntese necessária.
+Para acolhimento dos Embargos de Declaração deve a parte recorrente, de forma clara e precisa, encaixar sua pretensão nos moldes do art. 1022 do CPC, especificando a incidência da omissão, contradição ou obscuridade na decisão recorrida.
+O seu manuseio não tem como finalidade conferir um alcance fora dessa delimitação legal, estando vedada sua utilização como meio de nova incursão nas questões dirimidas com o fim de amoldar à tese defendida por aquele que o manuseia.
+Porém, a intenção neste caso concreto é de pura e simplesmente conferir-se efeitos infringentes ao recurso, não para complementar, mas para rediscutir o entendimento sobre a matéria decida, o que não se deve admitir.
+Veja que este julgador, dentro do livre convencimento, motivou seu entendimento no sentido de que foi acertada a decisão de primeiro grau, porquanto indeferiu o pedido formulado pelo executado para que seja retirada a ordem de restrição sobre o veículo objeto dos autos, cuja posse direta pertence a Embargante.
+Anotou-se ainda, que o fato de recair sobre o veículo gravame de alienação fiduciária não obsta a penhora, devendo apenas ser observada a preferência do crédito em favor do agente financeiro em eventual realização de leilões, bem ainda que a restrição judicial em questão encontra autorização legal.
+A modificação do interlocutório só é cabível em casos excepcionais ou de extrema ilegalidade, pois o Magistrado a quo é o destinatário da prova produzida pelo autor para fins de concessão de liminar, tratando-se, portanto, de um juízo de cognição sumária.
+Eventual questão relativa a intimação do credor fiduciário Banco Bradesco S.A., por ser terceiro interessado a lide, que o embargante entende ser necessária, deve levada e tratada pelo magistrado de piso, sob pena de supressão de instância.
+Adentrar mais na questão apenas acabaria por satisfazer a intenção da parte embargante em rever o entendimento manifestado, o que é vedado pelo atual ordenamento jurídico, além de ser crível que, dados os fatos, ao julgador cabe a aplicação do direito.
+Adverte-se que, ao julgar, o magistrado não tem obrigação de refutar, um a um, os argumentos dos litigantes, mas tão somente fundamentar suficiente e coerentemente suas conclusões, consoante exigido pelo art. 93, IX, da CF/88 e art. 11 do CPC/15.
+Com estas considerações, REJEITO os embargos de declaração.
+Publique-se para conhecimento dos interessados e, transcorrido o prazo recursal sem irresignação, realizem-se as anotações e baixa de estilo para regular processamento do Agravo de Instrumento.
+Às providências.
+Desembargador Sebastião de Moraes Filho
+= r e l a t o r =
