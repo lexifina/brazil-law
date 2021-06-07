@@ -1,0 +1,61 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial no Agravo de Instrumento no 1014921-66.2020.8.11.0000
+RECORRENTE(s): INSTITUIÇÃO EDUCACIONAL MATOGROSSENSE-IEMAT
+RECORRIDO(s): AYRLA LOANY ALVES CORDEIRO e OUTROS
+Vistos.
+Trata-se de Recurso Especial (ID 79795499) interposto por INSTITUIÇÃO EDUCACIONAL MATOGROSSENSE-IEMAT, com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado, assim ementado: (ID 68522471).
+AGRAVO DE INSTRUMENTO - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO ADICIONAL - CONTRATO DE PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS - ALUNO BENEFICIÁRIO DO FIES - DETERMINAÇÃO DE EXPEDIÇÃO DE OFÍCIO À CAIXA ECONÔMICA FEDERAL PARA PRESTAR INFORMAÇÕES SOBRE A CONDUTA DA IES NO TOCANTE AO PREENCHIMENTO/LANÇAMENTOS DAS INFORMAÇÕES SOBRE OS VALORES DA SEMESTRALIDADE NO SISTEMA EM DISSONÂNCIA AO ESTIPULADO NO CONTRATO DE FINANCIAMENTO FIRMADO COM A REFERIDA INSTITUIÇÃO E PROMOVER OS ADITAMENTOS DOS CONTRATOS DE FINANCIAMENTO ESTUDANTIL DOS AUTORES, COM A EMISSÃO DOS BOLETOS ÚNICOS PARA PAGAMENTO DOS VALORES DAS COPARTICIPAÇÕES – DETERMINAÇÃO EM DISSONÂNCIA COM JULGAMENTO DE OUTRO AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO PROFERIDA NO MESMO PROCESSO DE ORIGEM - DECISÃO REFORMADA EM PARTE - RECURSO PARCIALMENTE PROVIDO.
+Não devem ser analisadas em Segundo Grau de Jurisdição as questões não tratadas especificamente na decisão agravada, ainda que se versem sobre matéria de ordem pública, sob pena de supressão de instância.
+Pertinente o provimento parcial do recurso, para reformar a decisão agravada no ponto em que confronta com o julgamento de outro agravo de instrumento interposto contra decisão proferida no mesmo processo de origem, a fim de preservar a segurança jurídica.
+(TJMT AI no 1014921-66.2020.8.11.0000, Primeira Câmara de Direito Privado, Rel. Desa. Nilza Maria Possas de Carvalho, julgado em 24.11.2020).
+Interpostos Embargos de Declaração (ID 70300469) estes foram desprovidos, conforme acordão de ID 76333457.
+Na espécie, o recurso foi interposto contra o aresto proferido em sede de Agravo de Instrumento, aviado por AYRLA LOANY ALVES CORDEIRO e OUTROS, que reformou parcialmente a decisão proferida pelo juízo da 7a vara cível da comarca de Cuiabá, para o especial fim de, confirmando o efeito suspensivo outrora concedido, “afastar a expedição de ofício à Caixa Econômica Federal para prestar informações sobre a conduta da IES no tocante ao preenchimento/lançamentos das informações dos valores da semestralidade no sistema em dissonância ao estipulado no contrato de financiamento firmado com a referida instituição e promover os aditamentos dos contratos de financiamento estudantil dos agravantes, com a emissão dos boletos únicos para pagamento dos valores das coparticipações”. (ID 65336465).
+A recorrente alega violação aos artigos 5 LV da CF, 369 do Código de Processo Civil e artigo 4o§14 da Lei 13.530/2017, argumentando que:
+(a) A decisão recorrida incorreu em “clara inobservância ao Art. 4o, § 14 da Lei 13.530, de 2017 que estabelece de maneira inconteste que a parcela não financiada será paga pelo estudante em BOLETO ÚNICO AO AGENTE FINANCEIRO e que o agente financeiro e operador do FIES atualmente é a CAIXA ECONOMICA FEDERAL– CEF, não há falar em competência da justiça comum, mormente porque é indissociável a relação entre a pertinência subjetiva do Agente Financeiro do FIES para compor a lide e detém legitimidade atraindo a competência para a Justiça Federal (ID 79795499 Pág.8)
+(b) “ Negar a produção da prova deliberada pelo Juízo de primeiro grau (expedição de ofício à Caixa Econômica Federal para fins de prestar informações sobre conduta da IES no tocante ao preenchimento/lançamentos das informações sobre os valores da semestralidade no sistema em dissonância ao estipulado no contrato de financiamento firmado com a referida instituição e promover os aditamentos dos contratos de financiamento estudantil dos autores, com a emissão dos boletos únicos para pagamento dos valores das coparticipações. Assim, ao indeferir a produção dessa prova, estando diante de manifesta violação à Lei Federal, precisamente aos artigos 369 do CPC/2015 e artigo 5o, inciso LV, da Constituição Federal” (ID 79795499 - Pág. 8/9)
+Recurso tempestivo (ID 79798953) e preparado (ID 79847972).
+Sem contrarrazões (ID 84586494).
+É o relatório.
+Decido.
+1- Da sistemática de recursos repetitivos – Não ocorrência.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+2- Violação ao artigo 5o inciso LV da CF – Recurso Especial – Via inadequada.
+Consoante os artigos 102, III e 105, III, ambos da Constituição Federal, é patente que a afronta a dispositivo constitucional não pode ser objeto de análise nesta via, sob pena de usurpação de competência do STF, uma vez que ao STJ cabe apenas pacificar a interpretação dada a dispositivo de lei federal.
+Confira-se:
+“PROCESSO PENAL E PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO NO JULGADO COLEGIADO. INOCORRÊNCIA. MERO INCONFORMISMO DA PARTE. REGIME PRISIONAL. INOVAÇÃO RECURSAL. EXAME DE PRECEITOS CONSTITUCIONAIS. NÃO CABIMENTO. EMBARGOS REJEITADOS.
+(...)
+3. A via especial não comporta o exame de preceitos constitucionais, cuja competência encontra-se adstrita ao âmbito do Supremo Tribunal Federal, conforme prevê o art. 102 da Constituição Federal.
+4. Embargos de declaração rejeitados”. (EDcl no AgInt no AREsp 685.051/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 03/05/2018, DJe 11/05/2018).
+Assim, em relação à suposta violação aos artigos 5o inciso LV da CF/88, o Recurso Especial constitui via inadequada para a análise da questão, o que obsta a sua admissão neste ponto.
+3- Da violação aos artigos 369 do CPC e 13.530/2017 – Súmulas 735/283/284 do STF.
+Nos termos do artigo 105, inciso III, da Constituição Federal, compete ao Superior Tribunal de Justiça a aplicação e a uniformização da interpretação de normas infraconstitucionais, não sendo possível o cabimento de Recurso Especial contra acórdão proferido em sede de tutela provisória, ante o caráter precário da decisão.
+In casu, o órgão fracionário deu parcial provimento ao recurso dos agravados, no sentido de manter confirmar a liminar requestada para o especial fim de reformar a decisão de piso que determinara a expedição de ofício à Caixa Econômica Federal para que prestasse informações ao juízo sobre a conduta da IES no tocante ao preenchimento/lançamentos das informações sobre os valores da semestralidade no sistema em dissonância ao estipulado no contrato de financiamento firmado com a referida instituição, bem como promovesse os aditamentos dos contratos de financiamento estudantil, com a emissão dos boletos únicos para pagamento dos valores das coparticipações.
+Neste caso, a decisão é provisória, incidindo, por analogia, a Súmula n. 735/STF, segundo a qual, “não cabe recurso extraordinário contra acórdão que defere medida liminar”. Confira-se:
+“PROCESSUAL CIVIL. TUTELA ANTECIPADA. INDEFERIMENTO. NATUREZA PRECÁRIA E PROVISÓRIA DO DECISUM. REAVALIAÇÃO. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 7 DO STJ E 735 DO STF.
+1. O Superior Tribunal de Justiça, em sintonia com o disposto na Súmula 735 do STF, firmou o entendimento de que, via de regra, ‘não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito’ (STJ, AgRg no AREsp n. 438.485/SP, Rel. Ministro Humberto Martins, DJe de 17/02/2014).
+2. O juízo de mérito desenvolvido em sede liminar, fundado na mera verificação da ocorrência do periculum in mora e da relevância jurídica da pretensão deduzida pela parte interessada, não enseja o requisito constitucional do esgotamento das instâncias ordinárias, indispensável ao cabimento dos recursos extraordinário e especial, conforme exigido expressamente na Constituição Federal – ‘causas decididas em única ou última instância’. (...)
+6. Agravo interno desprovido”. (AgInt no AREsp 743.894/SP, Rel. Ministro GURGEL DE FARIA, Primeira Turma, julgado em 22/8/2017, DJe 4/10/2017).
+Portanto, no tocante à aventada violação ao aos artigos 369 e 4o §14 da Lei 13.530, inadmissível o recurso, face ao óbice da Súmula 735/STF.
+Por outro giro, e apenas por reforço argumentativo, ressalte-se que na interposição dos recursos, as respectivas razões devem ser redigidas de forma precisa e completa, de modo a questionar todos os fundamentos do acórdão impugnado, pois o apontamento incompleto dos supostos equívocos do decisum justifica a sua integral manutenção, já que a parte não impugnada pode ser suficiente como fundamentação e não permitir a reforma do julgado.
+Se não há impugnação completa, ocorre ofensa ao princípio da dialeticidade, incidindo o óbice das Súmulas 283 e 284, do STF.
+A propósito:
+“AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO REQUERIDO.
+1. Admissível o agravo, apesar de não infirmar a totalidade da decisão agravada, pois a jurisprudência do STJ é assente no sentido de que a impugnação de capítulos autônomos da decisão recorrida apenas induz à preclusão das matérias não impugnadas.
+2. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado e a apresentação de razões dissociadas desse fundamento, impõem o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+3. Os negócios jurídicos inexistentes e os absolutamente nulos não produzem efeitos jurídicos, não são suscetíveis de confirmação, tampouco não convalescem com o decurso do tempo, de modo que a nulidade pode ser declarada a qualquer tempo, não se sujeitando a prazos prescricionais ou decadenciais. Precedentes. Incidência da Súmula 83/STJ.
+4. Agravo regimental desprovido”. (AgRg no AREsp 489.474/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 08/05/2018, DJe 17/05/2018).
+Assim, quanto à alegação de que é necessária a manutenção da decisão de piso, que deferiu a prova requestada, posto que a Caixa Econômica Federal é a operadora do FIES, e a competência para processo e julgamento desta causa é atribuível a justiça federal, verifica-se que as razões recursais são incompletas e não impugnam precisamente todas as fundamentações do acórdão.
+Com efeito, na decisão impugnada, o órgão fracionário consignou que “(...)Sobre as preliminares arguidas pela agravada de que os questionamentos acerca da legalidade das regras do FIES e o percentual de financiamento é de responsabilidade do agente financeiro, bem como, acerca da incompetência da Justiça Estadual, não foram tratadas especificamente na decisão agravada (...) Ademais, apenas para registrar, a Súmula 34 do STJ estabelece que: “Compete à Justiça Estadual processar e julgar causa relativa a mensalidade escolar, cobrada por estabelecimento particular de ensino.” (ID 65336465)
+Com isso, observa-se que a parte recorrente abordou a questão de forma incompleta, porquanto não impugnou o fundamento da decisão recorrida acima exposto, qual seja, que o juízo singular ainda não se manifestara sobre a incompetência da justiça estadual para processar o feito, bem como eventual pronunciamento da Câmara sobre o ponto ocasionaria supressão de instância.
+Dessa forma, considerando que as razões recursais não impugnam exatamente os fundamentos do acórdão recorrido, há violação ao princípio da dialeticidade, o que impede a admissão do recurso.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Intimem-se.
+Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
