@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial com fundamento na Súmula 7 do STJ.
+Sustenta o agravante que a matéria deduzida no recurso especial prescinde de revolvimento fático-probatório, razão pela qual requerseu provimento.
+Apresentada contraminuta, manifestou-se o Ministério Público pelo improvimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada, razão pela qual deve ser conhecido para julgar orecurso especial, no qualsustenta que a quantidade e a natureza da droga apreendida, por si só, não autorizam a fixação da minorante no mínimo legal.
+O agravante foi condenado à pena de 1 ano e 8 meses de reclusão, em regime aberto e 166 dias-multa, como incurso no art. 33, § 4º, da Lei 11.343/06. Interposta apelaçãopelo Ministério Público, foi parcialmente provida. Na oportunidade, registrou oacórdão que, "levando-se em conta que a quantidade e a lesividade das drogas apreendidas são consideráveis (1kg demaconha, 35g de crack e 45g de cocaína), deve ser adequado o patamar de redução previsto no § 4ºdo artigo 33 da Lei11.343/06, para um terço (1/3), resultando em 03 (três) anos e 04 (quatro) meses de reclusão e a pagar 333 (trezentos e trinta e três) dias-multa" (fl. 454-455).
+O entendimento adotado corrobora a orientação jurisprudencial desta Corte de que, "considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante,as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas" (AgRg no HC 349.355/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 11/05/2021, DJe 18/05/2021).
+Desse modo,"a fração implementada na terceira fase da dosimetria da pena  ..  1/3revela-se proporcional e fundamentada, tendo o Tribunal de origem motivado a escolha do patamar mínimo em razão da grande quantidade de droga apreendida - mais de 1 kg (um quilo) de maconha" (HC 502.342/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 21/05/2019, DJe 03/06/2019).
+Incide, portanto, a Súmula 83 do STJ, que constituióbice ao processamento do recurso especial, tanto pela alínea a como pela alínea "c"(AgInt nos EDcl no AREsp n. 741.863/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/03/2020, DJe 1º/4/2020).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
