@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de CLEITON RICARDO DA MOTA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo(Processo n. 2061804-03.2021.8.26.0000) .
+O paciente teve a prisão em flagrante convertida em preventiva (fls. 36-40) pela suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na reincidência específica do paciente.
+A defesa alega que a decretação da prisão preventiva carece de fundamentação e que não estão preenchidos os requisitos autorizadores da custódia cautelar.
+Argumenta que foi apreendida uma pequena quantidade de entorpecente e que o paciente possui residência fixa e ocupação lícita.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva dopaciente, expedindo-se o alvará de soltura. Alternativamente, pleiteia a substituição da prisão pela imposição de medidas alternativas previstas no art. 319 do CPP.
+Por fim, defende observância à Recomendação CNJ n. 62/2020.
+O Tribunal de Justiça do Estado de São Pauloapresentou informações às fls. 65-108 e 112-115.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 117-119).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição a recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Inicialmente, em consulta ao site do Tribunal de origem constata-se que, em 25/5/2021, foiproferida sentença na Ação Penal n. 1500193-42.2021.8.26.0571, ocasião em que o paciente foi condenadoàs penas de 7anos e 6meses de reclusão em regime inicial fechadoe de 750dias-multa, como incursono art. 33 da Lei n. 11.343/2006, vedado o direito de recorrer em liberdade (fls. 132-136).
+Como o Juízo de primeiro grau manteve os fundamentos da prisão preventiva anteriormente decretada, não houve perda de objeto neste ponto.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+Confira-se excerto da decisão, mantida pelo Tribunal de origem, que,diante das circunstâncias em que ocorria a prática delitiva, converteu aprisão em flagrante em preventiva (fl. 37, destaquei):
+A manutenção da custódia cautelar é medida que se impõe, pois o autuado deu mostras de que faz do comércio ilícito seu meio de vida, haja visa a condenação anterior, tratando-se de indivíduo reincidente na prática delitiva, tendo praticado ilícitos em diversas cidades desta região do Estado (FA de fls.38/59), denotando-se que as condenações anteriores não foram suficientes para demovê-lo da conduta ilegal, anotando-se que estava cumprindo pena em meio aberto- Livramento Condicional em 4/11/2020 (fls. 59), sendo preso em flagrante em outro processo (1501741-39.2020.8.26.0571 - fls. 60), tenso obtido a liberdade em 1/2/2021, tornando a delinquir, de modo que se for colocado em liberdade certamente voltará a delinquir, sendo necessária a custódia para garantia da ordem pública.
+No presente caso,a reincidência específica do paciente foi consideradapelo Juízo de primeiro grau para a decretação da prisão preventiva.
+A reincidência específica evidencia maior envolvimento do paciente com a prática delituosa e constitui fundamento idôneo para a manutenção da custódia cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva (HC n. 603.340/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ademais, eventuais condições subjetivasfavoráveisdopaciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o preso preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, a defesa não demonstrou o alegado constrangimento ilegal decorrente da decisão impugnada.
+Ademais, para rever o entendimento adotado pela Corte de origem, seria necessário o revolvimento de matéria fático-probatória, procedimento vedado em habeas corpus. Confiram-se, a propósito, estes julgados: AgRg no HC n. 602.863/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020; e AgRg no HC n. 605.161/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 9/9/2020.
+Por fim, conforme acima mencionado, em primeiro grau, já houve a condenação, tendo sido indeferido o pleito de recorrer em liberdade.
+Assim, a manutenção da custódia cautelar ganha reforço com a prolação da sentença condenatória, que não concedeu ao paciente, que ficou presodurante toda a instrução processual, o direito de recorrer em liberdade, pois considerou mantidas as circunstâncias que justificaram a decretação da prisão preventiva.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
