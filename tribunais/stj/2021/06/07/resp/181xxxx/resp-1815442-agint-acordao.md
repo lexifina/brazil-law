@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino (Presidente) e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO INTERNO NORECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. Ainda que considerados os feriados dos dias 4, 5 e 6 de março de 2019, o recurso permaneceriaintempestivo.
+2. A jurisprudência desta Corte é de que, na vigência do CPC/2015, não é possível a comprovação posterior de feriados locais, exceto o feriado da Segunda-feira de Carnaval, desde que anterior a18/11/2019.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+RELATÓRIO
+Roberto Prado Maynart interpôs recurso especial contra o acórdão de fls. 287-292(e-STJ), proferidopelo Tribunal de Justiça do Estado de Sergipe, assim ementado:
+PROCESSUAL CIVIL E CIVIL. APELAÇÕES. PRETENSÃO INDENIZATÓRIA POR ATRASO NA ENTREGA DE OBRA IMOBILIÁRIA. CAIXA ECONÔMICA FEDERAL. FINANCIAMENTO PELO PROGRAMA MINHA CASA MINHA VIDA. LEGITIMIDADE PASSIVA AD CAUSAM. JUROS DE OBRA. RESTITUIÇÃO. CABIMENTO. PENALIDADES PELA MORA. INCIDÊNCIA DE MULTA E JUROS. DANOS MORAIS. INOCORRÊNCIA.
+I. Cuida-se de apelações em face de sentença que julgou parcialmente procedente o pedido formulado contra ALLIANCE - CONSTRUTORA E EMPREENDIMENTOS LTDA. e CAIXA ECONÔMICAFEDERAL, para: a) fazer cessar o pagamento dos "juros de obra", uma vez ultrapassado o prazo de entrega do bem sem qualquer justificativa prevista no contrato; b) que a CEF abata todos os valores pagos de acordo com a letra "a", desde a configuração da mora da construtora (10/03/2014), amortizando-os do saldo devedor; c) condenar a ALLIANCE - CONSTRUTORA E EMPREENDIMENTOS a pagar juros moratórios a partir de 10/03/2014, até a data do ajuizamento da ação, e multa de 2% (dois por cento) sobre o valor do imóvel atualizado. Quanto aos honorários advocatícios, estes foram fixados, na forma do art. 85, § 2º, do NCPC, no percentual de 10% incidente sobre a condenação referente a cada uma das litisconsortes.
+II. Em suas razões recursais, a CAIXA ECONOMICA FEDERAL - CEF suscita, preliminarmente, a ausência de responsabilidade solidária no tocante à entrega da obra, pois somente concederia o financiamento para a aquisição do imóvel para promitentes mutuários, que os escolheriam por sua livre vontade. No mérito, defende a legalidade da cobrança dos juros da obra.
+III. Por sua vez, o particular, em sede de preliminar, defendeu haver a sentença sido extra petita, porquanto requereu a restituição dos valores relativos ao pagamento indevido de juros de obra com a devida atualização e correção monetária, ao passo que o juízo ordenou a devolução dos valores, condenando a CAIXA ECONOMICA FEDERAL a abater os valores pagos do saldo devedor. Para o caso de não acolhimento da preliminar, postula seja reformada a sentença neste ponto, de modo que os valores pagos a título de juros de obra lhe sejam devolvidos com juros e correção monetária, e não abatidos do saldo devedor. No mérito, requer a condenação solidária das requeridas à reparação dos danos causados, inclusive ao pagamento de danos morais e o ônus da sucumbência de acordo com artigos 82, § 2º e 85 do NCPC.
+V. Quanto à preliminar levantada pelo particular, não revela extra petita a sentença que, decidindo sobre o pedido de restituição dos valores relativos ao pagamento indevido de juros de obra, com a devida atualização e correção monetária, assegura apenas o abatimento, no saldo devedor, dos valores pagos pelo mutuário.
+VI. Afastada a alegada ilegitimidade da CAIXA ECONÔMICA FEDERAL quanto à pretensão relacionada às repercussões no atraso na entrega na obra. É que, em se tratando de imóvel financiado com recursos do Programa Minha Casa, Minha Vida, no qual o banco tem poder de gestão sobre o contrato,havendo, ainda, cláusula (vigésima quarta) prevendo a substituição da Construtora em caso de não conclusão da obra dentro do prazo contratual, bem como na ocorrência de retardamento ou paralisação da obra, por período igual ou superior a 30 dias, sem motivo comprovadamente justificado e aceito pela CEF.
+VII. Configurado o atraso na obra a partir de 09.03.2014, se mostra indevida a cobrança dos denominados "juros de obra", havendo se mostrado correta, nos termos de precedentes desta colenda Segunda Turma, a providência determinada na sentença ora recorrida, consistente em proceder à conversão dos valores pagos pelos demandantes a título de juros de obra, contar de 09.03.2014, em amortização, ou seja, abatê-los do saldo devedor, mês a mês, como exposto na fundamentação da sentença.
+VIII. No que se refere ao pedido de lucros cessantes fundado na bilateralidade da cláusula que os prevê em favor da Construtora, esta Segunda Turma, ao julgar lide semelhante, definiu que " é duvidosa a possibilidade de tornar bilateral cláusula contratual que prevê direito da Construtora aos lucros cessantes, em caso de "eventual ocupação indevida, após sentença com trânsito em julgado que rescinda .(PROCESSO: o contrato", afinal o atraso na entrega da obra cuida de hipótese absolutamente distinta "08064672420164050000, AG/SE, DESEMBARGADOR FEDERAL PAULO ROBERTO DEOLIVEIRA LIMA, 2ª Turma, JULGAMENTO: 23/02/2017, PUBLICAÇÃO:)
+IX. Por outro lado, o atraso na entrega da obra, por si só, não configura danos morais a serem indenizados, sendo indispensável a comprovação do prejuízo moral sofrido, o que não se observa no caso apresentado. Precedente desta Terceira Turma (PROCESSO: 08012652020154058401, AC/RN,DESEMBARGADOR FEDERAL JANILSON BEZERRA DE SIQUEIRA (CONVOCADO), 3ª Turma, JULGAMENTO: 22/02/2017).
+X. Apelações desprovidas.
+Admitido o recurso na origem, acenderam os autos a esta Corte, em que, na decisão monocrática de fls. 466-467 (e-STJ), a Presidência do STJ não conheceu do recurso, concluindo pela sua intempestividade.
+Daí o presente agravo interno (e-STJ, fls. 470-503), no qual defende o agravante a tempestividade do recurso.
+Sem impugnação (e-STJ, fl. 506).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NORECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. Ainda que considerados os feriados dos dias 4, 5 e 6 de março de 2019, o recurso permaneceriaintempestivo.
+2. A jurisprudência desta Corte é de que, na vigência do CPC/2015, não é possível a comprovação posterior de feriados locais, exceto o feriado da Segunda-feira de Carnaval, desde que anterior a18/11/2019.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+VOTO
+Na decisão agravada, concluiu-se pelo não conhecimento do recurso especial, tendo em vista a sua intempestividade.
+Veja-se às fls. 466-467 (e-STJ):
+Mediante análise do recurso de ROBERTO PRADO MAYNART, a parte Recorrente foi intimada do acórdão recorrido em 13/02/2019, sendo o recurso especial interposto somente em 11/03/2019.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c. c. os arts. 1.003, § 5.º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+A segunda-feira de Carnaval, a Quarta-Feira de Cinzas, os dias que precedem a Sexta-Feira da Paixão e o de Corpus Christi não são feriados forenses, previstos em lei federal,para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais, deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+Na presente insurgência, defende o agravante a tempestividade do recurso, postulando a possibilidade de comprovação posterior dos feriados dos dias 4, 5 e 6 de março de 2019.
+Inicialmente, vale ressaltar que, embora conste na decisão agravada que o recorrente foi intimado do acórdãorecorridono dia 13/3/2019, na verdade ele foi intimado no dia 12/3/2019.
+Veja-se à fl. 312 (e-STJ):
+CERTIFICO que, em 12/02/2019 18:46, o(a) Sr(a) ROBERTO PRADO MAYNART foi intimado(a) acerca de Inteiro Teor do Acórdão registrado em 06/02/2019 17:21 nos autos judiciais eletrônicos especificados na epígrafe.
+Dessa forma, ainda que considerados os feriados dos dias 4, 5 e 6 de março de 2019, o recurso ainda seria intempestivo, pois o prazo se encerrariano dia 8/3/2019, e o recurso foi interposto no dia 11/3/2019.
+Ocorre, no entanto, que não é possível a comprovação posterior do feriado do dia 6/3/2019 (Quarta-feira de Carnaval).
+A jurisprudência desta Corte é no sentido de que, na vigência do CPC/2015, não háa impossibilidade de comprovação posterior de feriado local, exceto o feriado de Segunda-feira de Carnaval, que, por modulação dos efeitos da decisão proferida no REsp 1.813.684/SP, permitiu a sua comprovação posterior, desde que anterior à data de publicação do julgado,18/11/2019.
+Note-se:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. FERIADO LOCAL. NECESSIDADE DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. MODULAÇÃO DOS EFEITOS DA DECISÃO. NECESSIDADE. SEGURANÇA JURÍDICA. PROTEÇÃO DA CONFIANÇA.
+1. O novo Código de Processo Civil inovou ao estabelecer, de forma expressa, no § 6º do art. 1.003 que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso". A interpretação sistemática do CPC/2015, notadamente do § 3º do art.
+1.029 e do § 2º do art. 1.036, conduz à conclusão de que o novo diploma atribuiu à intempestividade o epíteto de vício grave, não havendo se falar, portanto, em possibilidade de saná-lo por meio da incidência do disposto no parágrafo único do art. 932 do mesmo Código.
+2. Assim, sob a vigência do CPC/2015, é necessária a comprovação nos autos de feriado local por meio de documento idôneo no ato de interposição do recurso.
+3. Não se pode ignorar, todavia, o elastecido período em que vigorou, no âmbito do Supremo Tribunal Federal e desta Corte Superior, o entendimento de que seria possível a comprovação posterior do feriado local, de modo que não parece razoável alterar-se a jurisprudência já consolidada deste Superior Tribunal, sem se atentar para a necessidade de garantir a segurança das relações jurídicas e as expectativas legítimas dos jurisdicionados.
+4. É bem de ver que há a possibilidade de modulação dos efeitos das decisões em casos excepcionais, como instrumento vocacionado, eminentemente, a garantir a segurança indispensável das relações jurídicas, sejam materiais, sejam processuais.
+5. Destarte, é necessário e razoável, ante o amplo debate sobre o tema instalado nesta Corte Especial e considerando os princípios da segurança jurídica, da proteção da confiança, da isonomia e da primazia da decisão de mérito, que sejam modulados os efeitos da presente decisão, de modo que seja aplicada, tão somente, aos recursos interpostos após a publicação do acórdão respectivo, a teor do § 3º do art. 927 do CPC/2015.
+6. No caso concreto, compulsando os autos, observa-se que, conforme documentação colacionada à fl. 918, os recorrentes, no âmbito do agravo interno, comprovaram a ocorrência de feriado local no dia 27/2/2017, segunda-feira de carnaval, motivo pelo qual, tendo o prazo recursal se iniciado em 15/2/2017 (quarta-feira), o recurso especial interposto em 9/3/2017 (quinta-feira) deve ser considerado tempestivo.
+7. Recurso especial conhecido.
+(REsp 1.813.684/SP, Rel. Ministro Raul Araújo, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 02/10/2019, DJe 18/11/2019).
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015. QUESTÃO DE ORDEM NO RESP 1.813.684/SP. CORTE ESPECIAL. POSSIBILIDADE RESTRITA AO FERIADO DA SEGUNDA-FEIRA DE CARNAVAL.
+1. O artigo 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de suspensão processual, feriado local ou de sua prorrogação no ato de interposição do recurso, o que impossibilita a regularização posterior.
+2. Considerando que o recurso especial foi interposto sob a égide do CPC/2015 e que não houve a comprovação do feriado local quando de sua interposição, não há como ser afastada a sua intempestividade.
+3. Segundo a modulação de efeitos determinada pela Corte Especial no REsp 1.813.684/SP, admitiu-se a comprovação posterior da tempestividade dos recursos dirigidos ao STJ apenas em relação ao feriado da segunda-feira de carnaval.
+4. Pedido de reconsideração recebido como agravo interno em decisão de fls. 428/429. Agravo interno não provido.
+(RCD no AREsp 1.808.026/PR, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 27/04/2021, DJe 04/05/2021).
+Dessa forma, prevaleceofundamentoda decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
