@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino (Presidente) e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL.CONTRATO DE PROMESSA DE COMPRA E VENDA. SERVIÇOS DE DESPACHANTE OU A COBRANÇA DE TAXAS DE SERVIÇOS CARTORÁRIOS. VALIDADE DA CLÁUSULA CONTRATUAL. ADESÃO VOLUNTÁRIA. APLICAÇÃO DA TESE FIRMADA NO RECURSO ESPECIAL JULGADO SOB O RITO DOS RECURSOS REPETITIVOS. SÚMULA 83/STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. A abusividade da SATI não deve implicar enriquecimento sem causa do consumidor de modo que eventual serviço específico prestado ao consumidor, como eventuais serviços de despachante ou a cobrança de taxas de serviços cartorários, podem ser efetivados. Precedente.
+2. Modificar o entendimento do Tribunal local, no que se refere à conclusão de que a recorrente teria se comprometido, expressamente, a pagar pelos serviços contratados, que não se confundiria com a taxa SATI, incorrerá na interpretação de cláusulas contratuais e em reexame de matéria fático-probatória, o que é inviável, devido aos óbices das Súmulas 5 e 7/STJ.
+3. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+4. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Maristela Krainer de Almeida contra decisão desta relatoria assim ementada (e-STJ, fl. 205):
+RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA. SERVIÇOS DE DESPACHANTE OU A COBRANÇA DE TAXAS DE SERVIÇOS CARTORÁRIOS. VALIDADE DA CLÁUSULA CONTRATUAL. APLICAÇÃO DA TESE FIRMADA NO RECURSO ESPECIAL JULGADO SOB O RITO DOS RECURSOS REPETITIVOS. SÚMULA 83/STJ. RECURSO ESPECIAL IMPROVIDO.
+Nas razões do agravo interno (e-STJ, fls. 211-217), a agravante afirma que devem ser afastados os óbices das Súmulas 5, 7 e 83 do STJ.
+Assevera não ser necessário o reexame de provas, pois, em verdade, discute-se a má adequação de fato comprovadamente existente (pagamento da taxa) à norma dita por violada (art. 51, IV, do CDC) e ao entendimento de outros Tribunais da Federação, inclusive ao do STJ, uma vez que a abusividade foi declarada por força do acórdão proferido em sede de julgamento repetitivo - REsp n. 1.599.511/SP.
+Ao final, pleiteia, a reconsideração da decisão ou o julgamento do recurso pelo Colegiado.
+Impugnação apresentada, oportunidade em que pede a aplicação da multa prevista no art. 1.021 do CPC/2015 (e-STJ, às fls. 239-244).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL.CONTRATO DE PROMESSA DE COMPRA E VENDA. SERVIÇOS DE DESPACHANTE OU A COBRANÇA DE TAXAS DE SERVIÇOS CARTORÁRIOS. VALIDADE DA CLÁUSULA CONTRATUAL. ADESÃO VOLUNTÁRIA. APLICAÇÃO DA TESE FIRMADA NO RECURSO ESPECIAL JULGADO SOB O RITO DOS RECURSOS REPETITIVOS. SÚMULA 83/STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. A abusividade da SATI não deve implicar enriquecimento sem causa do consumidor de modo que eventual serviço específico prestado ao consumidor, como eventuais serviços de despachante ou a cobrança de taxas de serviços cartorários, podem ser efetivados. Precedente.
+2. Modificar o entendimento do Tribunal local, no que se refere à conclusão de que a recorrente teria se comprometido, expressamente, a pagar pelos serviços contratados, que não se confundiria com a taxa SATI, incorrerá na interpretação de cláusulas contratuais e em reexame de matéria fático-probatória, o que é inviável, devido aos óbices das Súmulas 5 e 7/STJ.
+3. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+4. Agravo interno improvido.
+VOTO
+Reexaminando os autos, não se vislumbram razões para o provimento deste agravo interno.
+De início, conforme destacado na decisão que julgou o recurso especial interposto pela ora agravante, o Tribunal originário, ao julgar a apelação, assim concluiu (e-STJ, fls. 160-161, sem grifo no original):
+O recurso, em que pesem as alegações da apelante, não merece acolhimento.
+Nos termos do art. 927, III, do Código de Processo Civil, os juízes e tribunais observarão os acórdãos proferidos em julgamento de recursos especiais repetitivos. Trata-se de precedentes vinculantes, nos termos da lei.
+O Superior Tribunal de Justiça, no julgamento do Recurso Especial n. 1.551.951, ao qual foi atribuída eficácia repetitiva, reconheceu, em caráter vinculante, a legitimidade da promitente vendedora para responder por reembolso de comissão de corretagem e taxa de assessoria.
+ ..
+No entanto, o V. Acórdão proferido nos recursos paradigma excepcionou situações como a dos autos, estabelecendo expressamente:
+Ressalve-se, contudo, que a abusividade da SATI não deve implicar enriquecimento sem causa do consumidor de modo que eventual serviço específico prestado ao consumidor, como eventuais serviços de despachante ou a cobrança de taxas de serviços cartorários, podem ser efetivados. (g.n.)
+A situação não se confunde com a taxa SATI, e a autora aceitou expressamente o pagamento pelos serviços, que tinham caráter opcional (fls. 57/58), não havendo qualquer indício ou evidência nos autos, de que a contratação de referidos serviços lhe fora imposta pela apelante.
+Além disso, oportuno destacar o consignado pelo Juízo de primeiro grau ao julgar a demanda (e-STJ, fls. 111-112):
+Ao contrário do alegado pela autora, os serviços pelos quais pagou os valores cuja repetição ora pede não foram de assessoria técnico-imobiliária (SATI), nem de atividades congêneres, caracterizadas por esclarecimentos técnicos e jurídicos ao promitente comprador/adquirente acerca das cláusulas do contrato e das condições do negócio, que seriam inerentes à celebração do próprio contrato, inclusive no que tange ao dever de informação e, por isso mesmo, sua cobrança é tida por abusiva e ilegal.
+Os serviços cobrados foram outros, descritos no aditivo de f. 57/58, para a emissão de guias de ITBI, para o registro do contrato de financiamento no respectivo SRI e "outras providências necessárias ao registro do contrato junto ao Cartório" (f. 57).
+A execução desses serviços era necessária para a conclusão do negócio, mas a contratação da ré para executá-los era facultativa, tanto assim que consta do aditivo que "na hipótese de não optar pela contratação dos serviços ora estipulados, estou ciente de que serei integralmente responsável pela efetivação do registro tendo o prazo de 30 (trinta) dias para a entrega do contrato registrado à MRV e ao Banco, sob pena de cancelamento do financiamento pelo Banco" (f. 58).
+O aditivo não é abusivo, nem ilegal. A autora não estava obrigada a assiná-lo, já que ela mesma podia executar esses serviços, ou contratar um terceiro para fazê-lo, mas se contratou a ré para executá-los pelo valor acordado e ela os executou a contento, a autora não tem o direito de repetir os valores pagos o que implicaria em vantagem dela em detrimento da ré, noutras palavras, em enriquecimento sem causa (CCivil, art. 884).
+A autora não impugnou a alegação da ré de que tais serviços foram prestados e, ainda que tivesse feito tal impugnação, como o contrato foi efetivamente registrado e o registro não é gratuito, caberia à autora provar nos autos que foi ela quem fez diretamente o registro e pagou por ele. Como a autora não comprovou ter pago o registro do contrato no SRI, conclui-se que foi a ré quem o fez, em execução dos serviços para os quais foi contratada pela autora no aditivo, fazendo jus à remuneração cobrada da autora o que leva à improcedência de seu pedido.
+Com efeito, a Segunda Seção do STJ firmou entendimento, em sede de recurso repetitivo (tema 938), acerca da abusividade da cobrança pelo promitente-vendedor do serviço de assessoria técnico-imobiliária (SATI), ou atividade congênere, vinculado à celebração de promessa de compra e venda de imóvel (REsp 1599511/SP, Segunda Seção, DJe 06/09/2016).
+Entretanto, dos excertos acima transcritos, verifica-se que as instâncias de origem, ao considerar a validade da cobrança da taxa de despachante, aplicou a ressalva contida no voto do recurso repetitivo REsp n. 1.599.511/SP, no sentido de que "eventual serviço específico prestado ao consumidor, como eventuais serviços de despachante ou a cobrança de taxas, podem ser efetivados".
+Nessa mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM RESTITUIÇÃO DE QUANTIAS PAGAS. SERVIÇOS DE DESPACHANTE OU A COBRANÇA DE TAXAS DE SERVIÇOS CARTORÁRIOS. LEGALIDADE. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. NOVA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação declaratória de inexigibilidade de débito cumulada com restituição de quantias pagas.
+2. A abusividade da SATI não deve implicar enriquecimento sem causa do consumidor de modo que eventual serviço específico prestado ao consumidor, como eventuais serviços de despachante ou a cobrança de taxas de serviços cartorários, podem ser efetivados. Precedente.
+Ante o entendimento do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+3. Alterar o decidido no acórdão impugnado, no que se refere à conclusão de que o recorrente teria se comprometido, expressamente, a pagar pelos serviços de despachante, que não se confundiria com a taxa SATI, exige o reexame de fatos e provas e a renovada interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7/STJ.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1730937/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/03/2021, DJe 03/03/2021)
+Diante dessa conclusão, depreende-se que o posicionamento adotado pelo Tribunal local está em perfeita sintonia com a jurisprudência vigente no Superior Tribunal de Justiça, incidindo, portanto, o enunciado da Súmula 83/STJ.
+No mesmo sentido: REsp 1.830.597/SP, da relatoria do Ministro Luis Felipe Salomão; REsp 1.875.944/SP, da relatoria da Ministra Nancy Andrighi; REsp 1.803.531/SP, da relatoria do Ministro Luis Felipe Salomão.
+Além disso, modificar o decidido no acórdão impugnado, no que se refere à conclusão de que a recorrente teria se comprometido, expressamente, a pagar pelos serviços contratados, que não se confundiria com a taxa SATI, exige o reexame de fatos e a interpretação de cláusulas contratuais, vedados em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não há razões que justifiquem o acolhimento da pretensão recursal, razão pela qual permanece incólume o entendimento firmado na decisão agravada.
+Relativamente ao pleito da parte agravada para aplicação de multa, esta Corte Superior tem entendido que o mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, sendo imperioso para tal que seja nítido o descabimento do recurso.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n.
+182 do STJ e aplicação do art. 932, III, combinado com o art. 1.021, § 1º, do Código de Processo Civil.
+III - Em regra, descabe a imposição da multa, prevista no art.
+1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo interno não conhecido.
+(AgInt no RMS 43.766/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 17/12/2019, DJe 19/12/2019)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
