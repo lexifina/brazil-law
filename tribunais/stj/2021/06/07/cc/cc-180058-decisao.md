@@ -1,0 +1,13 @@
+DECISÃO
+O JUÍZO DE DIREITO DA VARA CRIMINAL DE IGARASSU - PE suscita conflito de competência, em inquérito policial, diante do JUÍZO DE DIREITO DA 5ª VARA CRIMINAL DE CAMPINA GRANDE - PB.
+Cinge-se a controvérsia, neste incidente processual, em saber a competência para a adoção de eventuais medidas judicias relativas à investigação pela suposta prática de crime de cárcere privado e, possivelmente, crimes contra honra.
+Segundo o relatório contido na decisão do Juízo suscitante, "a suposta vítima teria sido abordada quanto se encontrava trabalhando na sua empresa localizada na cidade de Massaranduba - PB, momento em que foi imobilizada e colocada em um veículo  ..  sendo trazida até uma clínica de recuperação localizada nesse município de Igarassu, onde teria permanecido contra a vontade pelo período de três meses" (fl. 152).
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo da 5ª Vara Criminal de Campina Grande - PB, ora suscitado (fls. 159-160).
+Decido.
+Depreende-se dos autos que os autores dos supostos delitos teriam determinado que a vítima José Ricardo de Souza Rêgo fosse imobilizada na cidade de Massaranduba - PB, local onde se encontrava trabalhando, e trazida involuntariamente até uma clínica de recuperação localizada na cidade de Igarassu - PE.
+Conforme entendimento desta Corte, "os crimes de sequestro e cárcere privado, de fato, possuem natureza jurídica de delito permanente, cujo momento consumativo, iniciado com o arrebatamento da vítima, se prolonga no tempo e perdura até o momento em que a vítima recupera a sua liberdade (REsp n. 1.557.916/PA, Rel. Ministro Jorge Mussi, DJe 22/11/2018, destaquei).
+Assim, levando-se em consideração que sua prática se estendeu em mais de um território, deve ser observado que dispõe o art. 71 do Código de Processo Penal: "Tratando-se de infração continuada ou permanente, praticada em território de duas ou mais jurisdições, a competência firmar-se-á pela prevenção".
+Nesse sentido é a orientação desta Corte, segundo a qual, nos crimes permanentes, como no caso dos autos, "a competência territorial deve ser firmada pela prevenção, nos termos do art. 71 do CPP" (HC n. 526.535/RJ, Rel. Ministro Nefi Cordeiro, DJe 5/8/2020, grifei).
+Logo, como destacou o Ministério Público Federal em seu parecer, "a hipótese é de declarar competente o Juízo suscitado, na medida em que prevento na espécie" (fl. 160).
+À vista do exposto, conheço do conflito para declarar competente o Juízo da 5ª Vara Criminal de Campina Grande - PB, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
