@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. INTEMPESTIVIDADE DO RECURSO ESPECIAL. PANDEMIA. SUSPENSÃO DO PRAZO PROCESSUAL. POSSIBILIDADE DE PUBLICAÇÕES SEREM REALIZADAS. AGRAVO NÃO PROVIDO.
+1. "Nos termos do art. 5º da Resolução 313/2020 do CNJ, para fins de aferição de tempestividade, suspende-se o prazo processual no período de 19/03/2020 a 30/04/2020, o que não impede que publicações sejam realizadas." (AgInt nos EDcl no AREsp 1741291/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/04/2021, DJe 15/04/2021)
+2. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Trata-se de agravo interno interposto por PEDRO CARLOS FRIAS contra a decisão da Presidência de fl. 595, integrada pela proferida em sede de embargos de declaração (fls. 607-609), que não conheceu do recurso especial, porquanto protocolado fora do prazo legal.
+Nas razões recursais (fls. 613-634), a parte agravante alega excesso de formalismo e que está sendo impedida de exercer o direito constitucional ao contraditório e à ampla defesa, bem como ao duplo grau de jurisdição. Afirma que o art. 932, parágrafo único, do CPC dispõe que a parte recorrente deve ser intimada a sanar vício que obstaculize o recurso. Aduz que a atual jurisprudência do STJ seria no sentido de ser possível a juntada posterior de documento idôneo que comprove a suspensão dos prazos em razão de feriados. Defende a tempestividade do recurso especial, uma vez que a decisão recorrida foi disponibilizada no DJe no dia 28.04.2020, retornando a contagem dos prazos processuais no dia 04.05.2020 em virtude da pandemia, nos termos da Resolução STJ/GP nº 10 de 28/04/2020, sendo assim o primeiro dia útil subsequente a disponibilização da decisão, de forma que a contagem do prazo recursal iniciou em 05.05.2020. Salienta que houve antecipação de feriado do dia 09.07.2020 para o dia 25.05.2020 no Tribunal Local, conforme Provimento nº 2.559/2020, sendo o prazo final para a interposição do recurso especial o dia 26.05.2020. Aponta violação aos arts. 5º, XXXV e LV, da CF. Pede o provimento do agravo interno.
+Impugnação ao agravo interno não apresentada pelas agravadas, conforme certificado às fls. 637-638.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. INTEMPESTIVIDADE DO RECURSO ESPECIAL. PANDEMIA. SUSPENSÃO DO PRAZO PROCESSUAL. POSSIBILIDADE DE PUBLICAÇÕES SEREM REALIZADAS. AGRAVO NÃO PROVIDO.
+1. "Nos termos do art. 5º da Resolução 313/2020 do CNJ, para fins de aferição de tempestividade, suspende-se o prazo processual no período de 19/03/2020 a 30/04/2020, o que não impede que publicações sejam realizadas." (AgInt nos EDcl no AREsp 1741291/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/04/2021, DJe 15/04/2021)
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. O agravo interno não merece prosperar.
+2.1 De início, quanto à matéria constitucional aduzida, ressalta-se que, embora seja dever de todo magistrado velar a Constituição Federal, para que se evite supressão de competência do egrégio STF, não se admite apreciação, na via especial, de matéria constitucional, ainda que para viabilizar a interposição de recurso extraordinário.
+A propósito, "é vedado a este Tribunal apreciar a violação de dispositivos constitucionais, ainda que para fins de prequestionamento, uma vez que o julgamento de matéria de índole constitucional é reservado ao Supremo Tribunal Federal" (EDcl no AgRg no REsp 1416980/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 15/12/2016, DJe 08/02/2017).
+2.2 A decisão ora agravada não conheceu do recurso especial ante a sua intempestividade. Segue trecho da fundamentação da decisão dos embargos de declaração (fls. 607-609):
+"Quanto à tempestividade do recurso, impende esclarecer que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada sob a égide do novo codex Processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Veja-se que houve a disponibilização da decisão do acórdão recorrido em 28/04/2020, considerando-se publicada em 29/04/2020 (fl. 535). Excluindo-se o dia 29/04/2020 (primeiro dia), inicia-se a contagem no dia 04/05/2020, em razão da suspensão dos prazos pela Resolução n.º 313/2020 do CNJ, finalizando o prazo no dia 22/5/2020, devendo ser comprovada a suspensão do expediente forense, acaso existente.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil, terminou no dia 22/5/2020, sendo que o recurso especial foi interposto somente em 22/5/2020, fora do prazo.
+Não se desconhece os documentos juntados às fls. 561/568, porém são insuficientes para afastar a intempestividade do recurso.
+É certo que, com a novel legislação processual, nos termos do art. 219, "na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão somente os dias úteis".
+Por sua vez, nos termos do art. 216 do CPC, "Além dos declarados em lei, são feriados, para efeito forense, os sábados, os domingos e os dias em que não haja expediente forense".
+Conclui-se, portanto, que para fins de contagem dos prazos processuais, somente serão considerados os dias da semana (de segunda a sexta-feira), desde que não sejam feriados e desde que tenha havido expediente forense. Assim, de outra forma, se durante a semana houver algum dia que seja feriado ou que não tenha havido expediente forense, ele se torna um dia "não-útil", para fins de contagem de prazo processual, sendo excluído da respectiva contagem, se devidamente comprovado.
+Ocorrendo feriado local na capital, ou qualquer outra intercorrência que acarrete a suspensão do expediente forense, deve a parte providenciar, no ato da interposição do recurso, a comprovação por meio de documento idôneo, conforme determina o § 6º do art. 1.003 do CPC e a jurisprudência desta Corte, caso contrário, os dias serão considerados úteis para todos os efeitos.
+No caso, a resolução n.º 313/2020 do CNJ apenas suspendeu o curso dos prazos processuais no período de 19/03 a 30/04/2020, mas não a prática dos atos.
+Assim, conforme previsto no art. 212 c/c art. 216 do CPC, como os atos poderão ser realizados em qualquer dia útil, não há impedimento para a realização da publicação e/ou intimação no período da suspensão dos prazos estabelecidos pela resolução."
+No caso, consoante consta da decisão agravada e da certidão de fl. 535, o acórdão recorrido foi disponibilizado em 28 de abril de 2020 e considerado publicado no primeiro dia útil subsequente, qual seja, em 29.04.2020 (quarta-feira).
+Em relação à citada Resolução STJ/GP nº 10 de 28/04/2020, ressalta-se que "Os recursos interpostos na instância de origem, mesmo que a esta Corte Superior, observam o calendário de funcionamento do tribunal local, não podendo se utilizar, para todos os casos, dos feriados e das suspensões previstas em Portaria e no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça estadual" (AgRg no AREsp 700.715/MG, Rel, Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/5/2016, DJe 23/5/2016).
+De qualquer forma, nota-se que a Resolução nº 313/2020 do CNJ, que dispôs sobre a suspensão de prazo processual no Poder Judiciário em âmbito nacional no período de 19/03/2020 a 30/04/2020, bem como a Resolução nº 314/2020 do CNJ no mesmo sentido da citada Resolução STJ nº 10 de 28/04/2020, sobre o retorno do prazo processual no dia 04.05.2020, não impediram as publicações realizadas no período. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. PANDEMIA. SUSPENSÃO DE PRAZO. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO.
+1. É intempestivo o recurso interposto fora do prazo recursal de 15 (quinze) dias úteis (recurso interposto sob a égide do CPC/2015).
+2. Nos termos do art. 5º da Resolução 313/2020 do CNJ, para fins de aferição de tempestividade, suspende-se o prazo processual no período de 19/03/2020 a 30/04/2020, o que não impede que publicações sejam realizadas.
+3. "O reinício ou prosseguimento dos prazos processuais se deu a partir de 04/05/2020 (inclusive)" (AgInt nos EAREsp 1515825/AL, CORTE ESPECIAL, DJe 18/12/2020).
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1741291/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/04/2021, DJe 15/04/2021)(g.n.)
+______________
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. ART. 5º DA RESOLUÇÃO 313/2020 DO CNJ. SUSPENSÃO DO PRAZO PROCESSUAL. POSSIBILIDADE DE PUBLICAÇÕES SEREM REALIZADAS. AGRAVO INTERNO NÃO PROVIDO.
+1. É intempestivo o recurso especial que é interposto fora do prazo recursal de 15 (quinze) dias úteis, a contar da publicação do acórdão recorrido (recurso interposto sob a égide do CPC/2015).
+2. Consoante o entendimento do Superior Tribunal de Justiça, não obstante tenha sido determinada a suspensão dos prazos processuais no período de 19/03/2020 a 30/04/2020, em virtude da pandemia causada pelo Covid-19, nos termos do art. 5º da Resolução 313/2020 do CNJ, as publicações ocorreram normalmente, voltando os prazos a fluir em 04/05/2020. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1757413/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/03/2021, DJe 26/03/2021)(g.n.)
+______________
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO NOS PRÓPRIOS AUTOS. NÃO CONHECIMENTO DO RECURSO. DECISÃO MANTIDA.
+1. O prazo para interposição do agravo nos próprios autos, do recurso especial e do agravo interno é de 15 (quinze) dias úteis, a teor do que dispõem os arts. 219, caput, 1.003, § 5º, e 1.070 do CPC/2015.
+2. A prova do feriado local ou da suspensão do expediente forense deve ser feita pela parte interessada, no ato de interposição do recurso, por meio de documento idôneo, o que não ocorreu.
+3. Os prazos processuais no STJ foram suspensos de 19/3/2020 a 30/4/2020. Nesse período, as publicações ocorreram normalmente. Observância do disposto nos arts. 5º, "caput" e § 1º, da Resolução STJ/GP n. 5, de 18/3/2020 (atualizada pela Resolução STJ/GP n. 6, de 20/3/2020), 6º da Resolução STJ/GP n. 9/STJ, de 17/4/2020, e 1º da Resolução STJ/GP n. 10, de 28/4/2020.
+4. Mesmo considerando a suspensão do prazo recursal, o recurso foi interposto após o lapso legal, o que impede seu conhecimento.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1731533/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 26/04/2021, DJe 29/04/2021)(g.n.)
+______________
+PROCESSUAL CIVIL. AÇÃO DE DESPEJO. EMBARGOS DE DIVERGÊNCIA. INTERPOSIÇÃO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. NÃO COMPROVAÇÃO DA ATUALIDADE DA DIVERGÊNCIA APONTADA. AGRAVO INTERNO IMPROVIDO.
+I - O presente feito decorre, na origem, de agravo de instrumento contra decisão que, nos autos de ação de despejo, indeferiu a inclusão no polo passivo do ex-cônjuge da ré, por não ter integrado a lide em sua fase de conhecimento. No Tribunal a quo, negou-se provimento ao agravo. Nesta Corte, o recurso especial não foi provido, sendo opostos os presentes embargos de divergência.
+II - Mediante análise dos autos, verifica-se que a parte embargante foi intimada do acórdão recorrido em 01/04/2020 e que os embargos de divergência foram interpostos somente em 25/05/2020.
+III - Ressalte-se que, embora a Resolução STJ/GP n. 5 de 18 de março de 2020 tenha suspendido os prazos processuais no período de 19 de março a 30 de abril de 2020, as publicações continuaram ocorrendo normalmente. Os prazos processuais voltaram a fluir em 4 de maio de 2020, conforme o art. 1º da Resolução STJ/GP n. 10 de 28 de abril de 2020.
+IV - Dessa forma, tendo o prazo recursal se iniciado em 04/05/2020, o recurso interposto em 25/05/2020 deve ser considerado intempestivo, porquanto apresentado fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, IX, c.c. os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+V - Ad argumentandum tantum, conforme dispõe o art. 266 do Regimento Interno do Superior Tribunal de Justiça, cabem embargos de divergência contra acórdão de Órgão Fracionário que divergir do julgamento atual de qualquer outro Órgão Jurisdicional desta Corte.
+VI - Em relação aos paradigmas REsp n. 225.051/DF, REsp n. 488.726/RJ e REsp n. 874.273/RS, o embargante não logrou comprovar a existência do dissídio atual entre os órgãos fracionários do Superior Tribunal de Justiça, uma vez que os referidos acórdãos foram proferidos em 18/12/2000, 04/08/2006 e 18/12/2009, respectivamente.
+VII - Agravo interno improvido.
+(AgInt nos EAREsp 1533705/RJ, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 01/12/2020, DJe 07/12/2020)(g.n.)
+______________
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. RECURSO INTEMPESTIVO. INTERPOSIÇÃO ALÉM DO PRAZO LEGAL. ART. 1.070 DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão publicada em 19/05/2020, que julgara Recurso Ordinário em Mandado de Segurança interposto contra acórdão publicado na vigência do CPC/2015.
+II. A decisão, objeto deste Agravo interno, foi disponibilizada em 18/05/2020 (segunda-feira), no Diário de Justiça eletrônico, considerando-se publicada em 19/05/2020 (terça-feira), e o presente recurso foi interposto em 11/06/2020, quando já escoado o prazo legal em 09/06/2020, conforme certificado nos autos.
+III. Descumprido, portanto, o prazo de quinze dias úteis, para a interposição do Agravo interno, previsto no art. 1.070 do Código de Processo Civil vigente, inviável a análise dos argumentos recursais, uma vez que não preenchido um dos requisitos extrínsecos de sua admissibilidade.
+IV. Não obstante tenha sido determinada, no STJ, pelo art. 5º da Resolução STJ/GP 5, de 18/03/2020, a suspensão dos prazos processuais, no período de 19/03/2020 a 30/04/2020 - período no qual as publicações ocorreram normalmente (§ 1º do art. 5º) -, voltaram eles a fluir, a partir de 04/05/2020 (art. 1º da Resolução STJ/GP 10, de 28/04/2020), ressalvados os processos judiciais que tramitam em meio físico (art. 1º, §1º), disposições consentâneas com as das Resoluções do CNJ 313, de 19/03/2020, 314, de 20/04/2020, e 318, de 07/05/2020.
+V. Agravo interno não conhecido.
+(AgInt no RMS 63.464/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 07/12/2020, DJe 11/12/2020)(g.n.)
+______________
+Observa-se que "A ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso, nos termos da disposição contida no § 6º do art. 1.003 do CPC de 2015" (AgInt no AREsp 1623838/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 07/12/2020, DJe 11/12/2020).
+Nesse contexto, conforme mencionado acima, a parte recorrente ora agravante foi intimada do acórdão recorrido em 29.04.2020 e em virtude da suspensão nacional dos prazos processuais no período de 19.03.2020 a 30.04.2020, nos termos das Resoluções 313 e 314 de 2020, iniciou o prazo recursal de 15 dias úteis em 04.05.2020 e findou em 22.05.2020 (arts. 219 e 1.003, §§ 5º e 6º, do CPC); porém, o recurso especial somente foi interposto em 26.05.2020, fora do prazo legal.
+Salienta-se que, no presente caso, o alegado feriado local no dia 25 de maio de 2020 foi comprovado por documento idôneo no ato de interposição do recurso às fls. 561-562 e que ocorrera já além do prazo recursal, sendo despicienda a discussão.
+Desse modo, não há como ser afastada a intempestividade do recurso especial, devendo ser mantida a decisão agravada.
+3. Ante o exposto, nego provimento ao agravo interno.
+É o voto.
