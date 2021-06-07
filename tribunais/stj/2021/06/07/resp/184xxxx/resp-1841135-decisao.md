@@ -1,0 +1,12 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado pelo DISTRITO FEDERAL contra acórdão do respectivoTRIBUNAL DE JUSTIÇAassim ementado (e-STJ, fl. 369):
+DIREITO PROCESSUAL CIVIL. ARROLAMENTO SUMÁRIO. PARTILHA AMIGÁVEL. FORMAL DE PARTILHA. EXPEDIÇÃO. PRÉVIA . QUITAÇÃO DOS TRIBUTOS. DESNECESSIDADE.
+1. O art. 659, §2º, do CPC excepciona o disposto no art. 192 do CTN, não se fazendo mais necessária a prévia comprovação de pagamento dos débitos fiscais para a expedição do formal de partilha, no caso de arrolamento sumário, na hipótese de partilha amigável, devendo a Fazenda Pública buscar satisfazer seus créditos tributários pelos procedimentos administrativos, consoante os ditames legais.
+2. Recurso conhecido e desprovido.
+É o relatório.
+O caso em comento constitui tema dos Recursos Especiais n. 1.896.526/DF e 1.895.486/DF (Tema 1.074 - Definição a respeito da necessidade de se comprovar, no arrolamento sumário, o pagamento do Imposto de Transmissão Causa Mortis e Doação - ITCMD como condição para a homologação da partilha ou expedição da carta de adjudicação, à luz dos arts. 192 do CTN e 659, § 2º, do CPC/2015), da relatoria da Min. Regina Helena Costa, sob o rito dos recursos repetitivos, na forma dos arts. 1.036 e seguintes do CPC/2015 e na Resolução STJ n. 8/2008, cujo processamento se encontra pendente na Primeira Seção.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniforme da tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverão ser encaminhados para os Tribunais Superiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, de modo que se: i) negue seguimento ao recurso, se o acórdão recorrido coincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergido da interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
