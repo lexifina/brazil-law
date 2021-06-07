@@ -1,0 +1,52 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5002257-91.2018.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: CLARO S.A.
+RECORRIDO: SUCESSO CONFECCOES LTDA - ME
+RELATOR(A
+):FABIO PRETTI
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+
+Recurso Inominado nos autos n° 5002257-91.2018.8.08.0030
+
+Recorrente: CLARO S.A.
+
+Recorrido: SUCESSO CONFECCOES LTDA
+
+VOTO
+
+DR. FABIO PRETTI – RELATOR
+
+(Minuta elaborada em conformidade com a Resolução TJES nº 12/2020)
+
+Relatório dispensado na forma do artigo 46 da Lei nº 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. RESPONSABILIDADE CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. CLÁUSULA QUE ESTIPULA PRAZO DE PERMANÊNCIA (FIDELIZAÇÃO). MULTA POR ENCERRAMENTO ANTECIPADO DO CONTRATO. ELEMENTOS DE PROVA NOS AUTOS QUE APONTAM O PRAZO ESTIPULADO DE FIDELIDADE POR 04 (QUATRO MESES). PRAZO TRANSCORRIDO. RESCISÃO CONTRATUAL EM MARÇO DE 2017. MULTA INDEVIDA. DECLARAÇÃO DE INEXISTÊNCIA DO DÉBITO QUE DEVE SER MANTIDA. NOVOS CÁLCULOS JUNTADOS COM O RECURSO INOMINADO QUE CARACTERIZAM INOVAÇÃO RECURSAL, VISTO QUE NÃO FORAM APRESENTADOS NA DEFESA OU NA INSTRUÇÃO DO PROCESSO. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS MOLDES DO ART. 46 DA LEI Nº 9.099/95. DEVIDA A CONDENAÇÃO DO RECORRENTE EM CUSTAS E HONORÁRIOS FIXADOS NO IMPORTE DE 20% SOBRE O VALOR DA CONDENAÇÃO.
+
+SIRLA MOSKEN TAMANHAO
+
+Juíza Leiga
+
+O Sr. Juiz de Direito Relator Dr. FABIO PRETTI
+– Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
