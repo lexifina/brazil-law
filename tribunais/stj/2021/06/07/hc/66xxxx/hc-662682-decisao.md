@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Hélio Lopes do Couto, preso em flagrante delito em 25/3/2021e denunciado pela prática, em tese, do crime descrito no art. 33, caput, da Lei n. 11.343/2006, c/c o art. 61, II, j, do Código Penal,porquetrazia consigo, para entrega de qualquer forma ao consumo de terceiros, 5 (cinco) invólucros, contendo 6,9 g (seis gramas e nove decigramas) de maconha, 3 (três) tabletes pequenos, contendo 14 g (quatorze gramas) de maconha, e 2 (dois) invólucros plásticos, contendo 1,4 g (umgrama e quatro decigramas) de cocaína, substâncias essas entorpecentes, sem autorização e em desacordo com determinação legal e regulamentar(Processo n. 1507398-84.2021.8.26.0228- fls. 122/125).
+Ataca-se o acórdão proferido pelo Tribunal de Justiça de São Paulo no HC n. 2067719-33.2021.8.26.0000 (fls. 12/17), que denegou a ordem liberatória, nos termos da seguinte ementa (fl. 13):
+HABEAS CORPUS - ARTIGO 33, DA LEI Nº 11.343/06 - CONCESSÃO DE LIBERDADE PROVISÓRIA - IMPOSSIBILIDADE - DECISÃO FUNDAMENTADA - PRESENÇA DOS REQUISITOS AUTORIZADORES DA CUSTÓDIA CAUTELAR.
+RECOMENDAÇÃO Nº 62/2020 DO CNJ - CONCESSÃO DE LIBERDADE - IMPOSSIBILIDADE - PEDIDO GENÉRICO - AUSÊNCIA DE COMPROVAÇÃO DE RISCO À SAÚDE DO RÉU.
+ORDEM DENEGADA.
+Sustenta-se, na presente impetração, constrangimento ilegal suportado pelo ora paciente decorrente de: (i) ausência dos requisitos autorizadores da prisão preventiva previstos no art. 312 do Código de Processo Penal; (ii) desnecessidade da segregação cautelar, tendo em vista a pequena quantidade de drogas apreendidas; e (iii)risco à saúde do paciente, que é deficiente visual (não enxerga doolho direito), diante da pandemia causada pelo novo coronavírus (Covid-19), com fundamento na Recomendação n. 62/2020 do Conselho Nacional de Justiça (CNJ).
+Requer-se, liminarmente e no mérito, a imediata revogação da prisão preventiva, com aplicação de medidas cautelares diversas previstas no art. 319 do Código de Processo Penal.
+Liminar deferida (fls. 154/158), informações prestadas (fls. 164/167 e 171/200), o Ministério Público Federal opinou pela prejudicialidade do writ (fls. 203/204).
+É o relatório.
+As informações prestadas pelo Juízo de Direito da 22ª Vara Criminal da comarca de São Paulo/SP dão conta de que sobreveio a prolação de sentença nos autos do Processo n. 1507398-84.2021.8.26.0228, restando o ora paciente condenado como incurso no art. 33, §4º, da Lei n. 11.343/2006, ao cumprimento da pena privativa de liberdade de 1 ano e 8 meses de reclusão, em regime inicial aberto, e ao pagamento de 166 dias-multa, substituída a pena privativa de liberdade por restritivasde direitos, consistentesem prestação de serviços à comunidade pelo lapso da pena corporal imposta e por uma pena de multa, facultado o recurso em liberdade (fl. 164).
+Tal o contexto, perdeu o objeto este writ, julgo-oprejudicado (art. 34, XI, do RISTJ). Por óbvio, fica sem efeito a liminar anteriormente deferida.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. REGIME INICIAL ABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. FACULTADO O RECURSO EM LIBERDADE. RELEVANTE ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Writ prejudicado.
