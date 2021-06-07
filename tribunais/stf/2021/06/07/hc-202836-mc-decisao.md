@@ -1,0 +1,22 @@
+Decisão: Trata-se de habeas corpus impetrado contra acórdão proferido no âmbito do Superior Tribunal de Justiça (AgRg no RHC 134.885/RS), assim ementado (eDOC 7, p. 147):
+    AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. WRIT NÃO CONHECIDO. REVOGAÇÃO DA CUSTÓDIA. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES PREVISTAS NO ART. 319 DO CPP. NÃO CABIMENTO. EXCESSO DE PRAZO. NÃO VERIFICAÇÃO. ALEGAÇÃO DE FALTA DE CONTEMPORANEIDADE. IMPROCEDÊNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+    1. A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+    2. O excesso de prazo na formação da culpa somente se caracteriza quando ocorre ofensa ao princípio da razoabilidade consubstanciada na desídia do Poder Judiciário ou da acusação, o que não se afere pela mera soma aritmética dos prazos processuais, devendo ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar o curso da persecução penal.
+    3. Inexiste constrangimento ilegal quando o feito, mesmo diante do não comparecimento de testemunhas às audiências de instrução e da situação excepcional de pandemia, tramita de forma regular, não havendo indícios de desídia estatal.
+    4. Não há falta de contemporaneidade nas situações em que os atos praticados no processo respeitaram a sequência necessária à decretação, em tempo hábil, de prisão devidamente fundamentada.
+    5. As condições pessoais favoráveis do agente não impedem, por si sós, a manutenção da segregação cautelar devidamente fundamentada.
+    6. Agravo regimental desprovido.
+    Narra o impetrante que: a) o recorrente, acusado da prática do delito de homicídio, encontra-se preso preventivamente desde 18.07.2018; b) o decreto autorizador da segregação cautelar fundou-se unicamente na gravidade abstrata do delito imputado, bem como “inexiste contemporaneidade entra a data do fato e a data da prisão preventiva, de sorte que não foi preso em flagrante, mas acusado como suspeito, sem qualquer prova robusta”; c) há excesso de prazo na formação da culpa, uma vez que “após quase 3 anos - mais de 8 solenidades, ainda não restou formada sua culpa na instrução do feito”; d) a demora na conclusão da fase instrutória não é imputável à defesa, visto que as testemunhas que não compareceram às audiências são as arroladas pela acusação; e) o recorrente integra o grupo de risco para o contágio pelo COVID-19 por ser portador de hipertensão; f) o presídio em que está recolhido encontra-se superlotado.
+    À vista do exposto, requer, liminarmente, seja o recorrente posto em liberdade ou, subsidiariamente, a substituição de sua segregação cautelar por prisão domiciliar. No mérito, pugna pela confirmação da medida liminar pleiteada.
+    É o relatório. Decido.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante na decisão atacada a justificar a concessão da liminar.
+    Outrossim, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirmou.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual indefiro a liminar.
+    Solicitem-se informações ao Juízo de origem, especialmente acerca da atual situação prisional do paciente e do histórico da tramitação do processo criminal, esclarecendo se há dados que justifiquem o alongar da marcha processual.
+    Com as informações, abra-se vista à PGR.
+    Publique-se. Intime-se.
+    Brasília, 7 de junho de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
