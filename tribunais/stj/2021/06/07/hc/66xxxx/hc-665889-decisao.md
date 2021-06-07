@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de William Messias Silva Fernandes, em que se aponta como autoridade coatora a Décima Sexta Câmara Criminal do Tribunal de Justiça de São Paulo.
+Consta dos autos que opaciente foi condenado, em primeira instância, por incursão nos arts. 33, caput, e 35, caput, ambos da Lei de Drogas, às penas de 9 anos e 4 meses de reclusão, em regime fechado, e 1.399 dias-multa, em face da apreensão de 361 g de cocaína e 316 g de maconha (fls. 22/31).
+Em sede de apelação (n.0010097-21.2016.8.26.0577.2), a defesa requer a absolviçãopor ausência de provase também a redução da pena. ADécima Sexta Câmara Criminal do Tribunal de Justiça de São Paulo deu parcial provimento ao recursopara absolver o paciente da imputação a ele feita como incurso no art. 35da Lei n. 11.343/2006 e mantida a condenação pelo crime de tráfico de drogasà pena de 6 anos e 8 meses de reclusão, e 666 dias-multa (fls. 32/38).
+No presente writ, a defesa requera fixação da pena-base no mínimo legal ou, subsidiariamente, a redução do aumento da pena para a fração de 1/6.
+Parecer ministerialopinando pela denegação da ordem (fls. 54/57).
+É o relatório.
+Na sentença, vê-se dos autos que a pena-base para o crime de tráfico de drogas foi fixada na piso mínimo de 5 anos de reclusão e 500 dias-multa. Na segunda fase, em razão da reincidência, a pena foi elevada na fração de 1/6, portanto, fixada em 5 anos e 10 meses de reclusão, e 583 dias-multa. Já na terceira fase, o Magistrado não fez incidir a causa de diminuição da pena, por entender excessiva a quantidade de drogas, 361 g de cocaína e 316 g de maconha, e que o paciente se dedicava a atividades criminosas, por não apresentar uma ocupação lícita.
+No julgamento do recurso de apelação, a Corte local absolveu o paciente quanto ao crime de associação, sob o fundamento de inexistência de prova em relação à estabilidade entre os agentes envolvidos. No entanto, trouxe motivação sobre não ser devida a aplicação da causa de diminuição da pena, na terceira fase da dosimetria, para o crime de tráfico, tanto em razão da quantidade de drogas, como pela existência de condenações anteriores ao crime de tráfico de drogas. Razão não assiste à defesa, pois, para que esta Corte entenda pela não dedicação ao tráfico, por parte do paciente, demandaria reexame dos fatos e provas dos autos. A quantidade de drogas não se mostra extremamente excessiva, porém, pode ser utilizada para afastar a causa de diminuição da pena, até porque a pena-base foi fixada no mínimo legal. Diante disso, mostra-se inviável que esta Corte chegue à conclusão diversa daquela já tomada pela instância ordinária.
+No mais, a pena foi fixada com bastante razoabilidade e a elevação da pena na fração de 1/6, pela reincidência, está adequada, não merecendo nenhum reparo por parte desta Corte.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO. DOSIMETRIA. PEDIDO DE REDUÇÃO DA PENA-BASE. IMPOSSIBILIDADE. REGULARIDADE DO DECISUM. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Ordem denegada.
