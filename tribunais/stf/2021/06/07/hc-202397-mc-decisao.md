@@ -1,0 +1,16 @@
+D E C I S Ã O
+    Trata-se de habeas corpus, com pedido de medida liminar, impetrado contra decisão monocrática de Ministro do Superior Tribunal de Justiça.
+    Tal o contexto, reputo inadmissível o presente habeas corpus.
+    Esta Suprema Corte consolidou sua jurisprudência no sentido de não se conhecer de habeas corpus, quando impetrado contra decisão monocrática de Ministro de Tribunal Superior, em razão de caracterizar-se inadmissível supressão de instância. Ilustram essa orientação os seguintes acórdãos: HC 158.755-AgR/SP, Ministro Dias Toffoli; HC 162.214-AgR/SP, Ministro Ricardo Lewandowski; HC 176.297-AgR/PR, Ministro Edson Fachin; HC 181.999/SP, Ministro Alexandre de Moraes; HC 184.614-AgR/SP, Ministro Gilmar Mendes; RHC 114.737/RN, Ministra Cármen Lúcia.
+    No caso em espécie, não vislumbro a presença de ilegalidade evidente apta a autorizar a superação desse consagrado entendimento jurisprudencial.
+    Conforme se verifica dos autos, o Ministro Relator do Superior Tribunal de Justiça afastou a suposta ocorrência de excesso de prazo na formação da culpa do ora paciente com fundamento na complexidade do feito. Destaco, no ponto, o seguinte trecho de referida decisão:
+    “Como se vê, dos trechos do aresto impugnado, trata-se de ação penal que possui nove réus, com necessidade de expedição de cartas precatórias e separação do feito em relação a alguns acusados (alguns ainda foragidos), além de diversos pedidos incidentes, encontrando-se o ora recorrente preso preventivamente desde 12/4/2019.
+    Logo, se o atraso é justificado por incidentes processuais não imputáveis ao juízo, em razão da complexidade do processo – expedição de várias cartas precatórias, separação do feito em relação a alguns acusados, uns ainda foragidos, além de diversos pedidos incidentes e, principalmente, do aparecimento de um evento imprevisível e extraordinário (pandemia da Covid-19), que paralisou todo o Poder Judiciário do nosso país no ano de 2020, e até hoje perdura –, não se reconhece o constrangimento ilegal.
+    Outrossim, ainda que o recorrente esteja preso desde 12/4/2019, não se revela desproporcional a custódia cautelar, nesse momento, diante das penas em abstrato atribuídas aos delitos pelos quais é acusado – art. 157, § 2º, I, II, e V, c/c o art. 288, ambos do Código Penal.
+    Assim, não evidenciada mora estatal em ação penal em que a sucessão de atos processuais infirma a ideia de paralisação indevida da ação penal, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.” (com meus grifos)
+    Este Supremo Tribunal Federal também possui firme entendimento de que a complexidade da causa penal e o caráter multitudinário do feito (nove réus, no caso), justificam uma maior duração do processo, salvo quando eventual retardamento se dê em virtude da inércia do Poder Judiciário, fato inocorrente no presente caso (HC 180.860-AgR/AL, Ministro Roberto Barroso; HC 108.010/PE, Ministra Cármen Lúcia; HC 115.873/RS, Ministro Ricardo Lewandowski).
+    Em face do exposto, não conheço deste habeas corpus.
+    Intime-se. Publique-se. Arquive-se.
+    Brasília, 07 de junho de 2021.
+Ministro NUNES MARQUES
+Relator
