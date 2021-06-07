@@ -1,0 +1,18 @@
+DECISÃO:
+EMENTA: DIREITO PENAL E PROCESSUAL PENAL. RECLAMAÇÃO. PRISÃO DOMICILIAR. HC COLETIVO 143.641. NÃO CABIMENTO.
+1. A reclamação perante o Supremo Tribunal Federal só é cabível para (i) evitar usurpação de sua competência, (ii) preservar a autoridade de suas decisões e (iii) garantir a observância de súmulas vinculantes.
+2. Não é cabível o uso da reclamação como meio de sucedâneo recursal.
+3. Reclamação a que se nega seguimento. Liminar prejudicada.
+    1.  Trata-se de reclamação, com pedido de liminar, ajuizada por Jéssica Trindade dos Santos, com fundamento no art. 102, I, l, da CF e no art. 156, do RI/STF, em face de decisão proferida nos autos da Prisão em Flagrante nº 0702247-44.2021.8.02.0001, em trâmite no 3ª Vara Criminal de União dos Palmares/AL, que supostamente teria violado autoridade da decisão proferida no Habeas Corpus Coletivo 143.641/SP, de Relatoria do Min. Ricardo Lewandowski.
+    2. A reclamante alega que teve sua prisão em flagrante, por tráfico de drogas, convertida para preventiva, ainda que seja mãe de dois filhos menores de 12 anos (2 e 6 anos), que necessitam de sua presença e cuidados. Afirma que, ao negar o pedido de revogação da prisão preventiva, o Tribunal de origem violou o entendimento do HC 143.641.
+    3. É o relatório. Decido.
+    4. Dispenso as informações, bem como o parecer ministerial, diante do caráter reiterado da matéria (art. 52, parágrafo único, do RI/STF).
+    5. De início, pontuo que a reclamação dirigida a esta Corte só é cabível quando se sustenta usurpação de sua competência, ofensa à autoridade de suas decisões ou contrariedade a súmula vinculante (CF/88, arts. 102, I, l, e 103-A, § 3º). Em particular, o Plenário já assentou que a cassação ou revisão das decisões dos juízes contrárias à orientação firmada em sede de repercussão geral hão de ser feitas pelo tribunal a que estiverem vinculados, pela via recursal ordinária. Nada autoriza ou aconselha que se substituam as vias recursais ordinária e extraordinária pela reclamação (Rcl 10.793/SP, Rel.ª Min.ª Ellen Gracie). No mesmo sentido: Rcl 9.302 AgR/PE, Rel. Min. Dias Toffoli; Rcl 12.600 AgR/SP, Rel. Min. Ricardo Lewandowski.
+    6. O precedente invocado pela reclamante não compreende nenhuma das hipóteses previstas em lei para o cabimento de reclamação.
+    7. No julgamento do próprio HC 143.641, Rel. Min. Ricardo Lewandowski, ficou assentado que não caberia o instituto da reclamação nas hipóteses de descumprimento da orientação nele fixada. Com efeito, o Relator alertou que, nas hipóteses de descumprimento da presente decisão, a ferramenta a ser utilizada é o recurso, e não a reclamação, como já explicitado na ADPF 347. No mesmo sentido, a Rcl 33.233 , Rel. Min. Alexandre de Moraes; Rcl 33.609, Rel. Min. Luiz Fux e Rcl 32.700, Rel.ª Min.ª Cármen Lúcia.
+    8. Ressalto, por fim, que a inadmissão da reclamação não implica, necessariamente, a afirmação de acerto do ato reclamado, mas apenas que a reclamação não se presta à análise de suposta desconformidade de ato com o direito objetivo. Caso entenda pertinente, a reclamante deve utilizar meio processual próprio para fazer valer os seus argumentos. Nas palavras do Ministro Celso de Mello, “a reclamação não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade se revela estranha à destinação constitucional subjacente à instituição dessa medida processual” (Rcl 4.381-AgR, Rel. Min. Celso de Mello).
+    9. Por todo o exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação, ficando prejudicado o pedido liminar.
+    Publique-se. Intime-se.
+          Brasília, 07 de junho de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
