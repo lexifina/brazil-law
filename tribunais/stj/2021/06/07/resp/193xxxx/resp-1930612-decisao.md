@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto comfundamentado no artigo 105, inciso III, alínea"a", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça de São Pauloassim ementado:
+"Plano de saúde - Cobertura de terapias pelo método ABA - Médico assistente dirige tratamento, não operadora (Lei nº 9.656/1998, art. 12 e jurisprudência) - Jurisprudência favorável ao dever de cobrir terapias pelo método ABA Sentença suficientemente específica - Operadora condenada a cobrir o serviço, seja por profissionais credenciados ou por reembolso ao beneficiário - Liminar determinou à operadora autorizar realização do tratamento por rede credenciada - Operadora não conta atualmente com profissionais habilitados no método ABA - Operadora não podia cumprir decisão - Aplicação de astreinte incabível - Recursos improvidos" (fl. 504 e-STJ).
+Os embargos de declaração foram rejeitados.
+No recurso especial, foi apontada a violação dos artigos 10, I, §4º, e51, IV,do Código de Defesa do Consumidor.
+A recorrente sustenta queé válida a cláusula contratual que impõe restrição temporal ao tratamento de saúde prescrito ao segurado.
+Subsidiariamente, afirma a possibilidade da cobrança de coparticipação quandoatingido o limite das sessões.
+Contrarrazões às fls. 569/570 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Na espécie, o autor foi diagnosticado como portador de autismo infantil, sendo prescrito pelo médico responsáveltratamento intensivo de terapia ABA (Applied Behavior Analysis), que engloba terapia ocupacional, psicologia comportamental, fonoaudiologia, psicopedagogia e musicoterapia. Acobertura foi negada, com o argumento de que não consta no rol de procedimentos da Agência Nacional de Saúde.
+As razões do recurso especial sustentam que "indiscutível é a possibilidade e a legalidade das limitações e restrições existentes nos contratos privados de assistência à saúde, a fim de que se mantenha o equilíbrio econômico-financeiro destes contratos. Se assim não fosse, não haveria motivo para as empresas de planos de saúde disporem de diversas opções de produtos, com coberturas e preços diferentes para melhor se adequar ao perfil do cliente, pois a sua abrangência seria obrigatoriamente única e igual para todos os seus segurados" (fl. 520 e-STJ).
+A jurisprudência desta Corte é no sentido de que são abusivas as cláusulas contratuais que impõem limitações ou restrições aos tratamentos médicos prescritos para doenças cobertas pelos contratos de assistência e seguro de saúde dos contratantes. Ademais, cabe ao profissional habilitado - e não ao plano de saúde - definir a orientação terapêutica a ser dada ao paciente.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIALETICIDADE RECURSAL. OBSERVÂNCIA. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PLANO DE SAÚDE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. LIMITAÇÃO OU RESTRIÇÃO A PROCEDIMENTOS MÉDICOS, FONOAUDIOLÓGICOS E HOSPITALARES. CARÁTER ABUSIVO. RECONHECIMENTO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(..)
+3. À luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fonoaudiológicos e hospitalares (v.g. limitação do tempo de internação, número de sessões de fonoaudiologia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes.
+4. Se há cobertura de doenças ou sequelas relacionadas a certos eventos, em razão de previsão contratual, não há possibilidade de restrição ou limitação de procedimentos prescritos pelo médico como imprescindíveis para o êxito do tratamento, inclusive no campo da fonoaudiologia.
+5. Agravo interno provido para afastar a falta de dialeticidade recursal, conhecer do agravo e negar provimento ao recurso especial" (AgInt no AREsp 1.527.318/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/3/2020, DJe 2/4/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. LIMITAÇÃO DE TRATAMENTO. ABUSIVIDADE. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO ANALÓGICA DA SÚMULA N.182/STJ. DECISÃO MANTIDA.
+1. A "jurisprudência desta Corte Superior já sedimentou entendimento no sentido de que "à luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fonoaudiológicos e hospitalares (v.g.limitação do tempo de internação, número de sessões de fonoaudiologia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes" (AgInt no AREsp 1219394/BA, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 7/2/2019, DJe 19/2/2019)"(AgInt no REsp n. 1.782.183/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/10/2019, DJe 28/10/2019).
+2. (..)
+3. Agravo interno a que se nega provimento" (AgInt no REsp 1.794.335/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/2/2020, DJe 18/2/2020)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CONSUMIDOR. PLANO PRIVADO DE SAÚDE. OBRIGAÇÃO DE FAZER. COBERTURA DE TRATAMENTO. PACIENTE. MENOR IMPÚBERE PORTADOR DE PATOLOGIA CRÔNICA. LIMITAÇÃO DE SESSÕES. ABUSIVIDADE. OCORRÊNCIA. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte Superior já sedimentou entendimento no sentido de que "à luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fonoaudiológicos e hospitalares (v.g. limitação do tempo de internação, número de sessões de fonoaudiologia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes" (AgInt no AREsp 1219394/BA, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 7/2/2019, DJe 19/2/2019).
+2. Agravo interno a que se nega provimento" (AgInt no REsp 1.782.183/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/10/2019, DJe 28/10/2019).
+Ademais, as questõesde limitação quantitativa de sessões, bem como deadoção do regime de coparticipação quando extrapoladas as sessões previstas em contrato deixaram de ser examinadas no acórdão recorrido, que afirmou, em julgamento dos embargos de declaração:"Quanto à alegação de descumprimento dos limites quantitativos à cobertura, não foi veiculada na Apelação, descabendo falar em omissão do v. acórdão" (fl. 544 e-STJ).
+Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Sobre o tema:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO QUINQUENAL. ALCANCE DAS PARCELAS VENCIDAS ANTERIORMENTE AO QUINQUÊNIO QUE PRECEDE O AJUIZAMENTO DA AÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo interno não provido" (AgInt no AREsp 1.097.857/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/11/2017 - grifou-se).
+Vale anotar que a jurisprudência desta Corte é firme no sentido de que "o prequestionamento é indispensável ao conhecimento da questão veiculada no âmbito do Superior Tribunal de Justiça, ainda que se trate de matéria de ordem pública" (AgRg no REsp nº 1.505.392/PE, Rel.Ministro Paulo de Tarso Sanseverino, DJe 6/11/2015).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282/STF INTERPRETAÇÃO DE CLÁUSULA E REEXAME DE PROVA. SÚMULAS Nº 5 E Nº 7/STJ. INVIABILIDADE.
+1. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+2. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+3. Rever questão decidida com base na interpretação das normas contratuais e no exame das circunstâncias fáticas da causa esbarra nos óbices das Súmulas nºs 5 e 7 deste Tribunal.
+4. Agravo regimental não provido" (AgRg no AREsp 568.759/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 27/10/2015 - grifou-se).
+Ante o exposto, não conheço do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 17,5% (dezessete e meio por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015.
+Publique-se.
+Intimem-se.
