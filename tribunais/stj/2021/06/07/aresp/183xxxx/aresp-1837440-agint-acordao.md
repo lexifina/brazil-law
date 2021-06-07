@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino (Presidente) e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE UM DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO. AGRAVO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo devem infirmar todos os fundamentos da decisão de admissibilidade do apelo especial, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. No caso, deixou a insurgente, nas razões do agravo em recurso especial, de impugnar especificamente um dos motivos da decisão agravada, consistente na incidência do enunciado n. 83 da Súmula do Superior Tribunal de Justiça.
+3. Esta Corte Superior tem entendido que o mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, sendo imperioso para tal que seja nítido o descabimento do recurso, o que não se verifica na espécie.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Notre Dame Intermédica Saúde S.A. contra decisão monocrática da Presidência desta Corte Superior que não conheceu do agravo em recurso especial, nos termos da fundamentação abaixo colacionada (e-STJ, fls. 600-601):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 83/STJ, Súmula 5/STJ, Súmula 7/STJ, ausência de afronta a dispositivo legal e ausência de similitude fática.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 83/STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. A propósito:
+( )
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Em suas razões (e-STJ, fls. 605-614), a agravante sustenta, em síntese, que teria se insurgido especificamente contra todos os fundamentos da decisão de admissibilidade proferida pela origem.
+Impugnação às fls. 617-623 (e-STJ), por meio da qual a parte agravada requer a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE UM DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO. AGRAVO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo devem infirmar todos os fundamentos da decisão de admissibilidade do apelo especial, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. No caso, deixou a insurgente, nas razões do agravo em recurso especial, de impugnar especificamente um dos motivos da decisão agravada, consistente na incidência do enunciado n. 83 da Súmula do Superior Tribunal de Justiça.
+3. Esta Corte Superior tem entendido que o mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, sendo imperioso para tal que seja nítido o descabimento do recurso, o que não se verifica na espécie.
+4. Agravo interno desprovido.
+VOTO
+No que tange à ausência de impugnação específica dos fundamentos da decisão de admissibilidade do apelo especial, o presente agravo não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Com efeito, o Superior Tribunal de Justiça tem entendimento firmado no sentido de que cabe à parte insurgente, nas razões do agravo em recurso especial, trazer argumentos para contestar a decisão do Tribunal de origem que inadmitiu o recurso, justificando, tese a tese, o cabimento do apelo especial, sob pena de incidência do art. 932, III, do CPC/2015.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. PEDIDO DE SUSPENSÃO DO PROCESSO. INOCORRÊNCIA DAS HIPÓTESES DO ART. 265 DO CPC/1973 (ATUAL 313, V, "A", DO CPC/2015). AUSÊNCIA DE PREJUÍZO. INDEFERIMENTO. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. INTELIGÊNCIA DO ART. 544, § 4º, I, 2ª PARTE, DO CPC/1973, ART. 253, PARÁGRAFO ÚNICO, INC. I, DO RISTJ E ART. 932, III, DO CPC/2015. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. Não se conhece do agravo em recurso especial que deixa de atacar especificamente e fundamentadamente todos os fundamentos da decisão de inadmissibilidade. Inteligência do art. 544, § 4º, I, do CPC/1973, do art. 253, I, do RISTJ e do art. 932, III, do CPC/2015.
+3. Agravo interno não provido.
+(AgInt no AREsp 872.750/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/08/2016, DJe 19/08/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. ENTENDIMENTO DOMINANTE. POSSIBILIDADE. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. SÚMULA 182/STJ. AGRAVO A QUE SE NEGA PROVIMENTO.
+(..)
+3. A ausência de impugnação específica, na petição de agravo em recurso especial, dos fundamentos da decisão que não admite o apelo especial atrai a aplicação do art. 932, III, do Código de Processo Civil de 2015.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1171609/SP, Rel. Ministro LÁZARO GUIMARÃES, DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO, QUARTA TURMA, julgado em 01/03/2018, DJe 09/03/2018)
+Consoante leitura da petição do agravo em recurso especial (e-STJ, fls. 572-583), verifica-se que, de fato, a insurgente deixou de impugnar especificamente o fundamento relativo à incidência do enunciado n. 83 da Súmula do Superior Tribunal de Justiça, o que evidencia o acerto da decisão agravada.
+Relativamente ao pleito da parte recorrida de aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, esclareça-se que esta Corte Superior tem entendido que o mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da referida multa, tornando-se imperioso para tal que seja nítido o descabimento do recurso, o que não se verifica na espécie.
+Sobre o tema, veja-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO CONFIGURADA. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO NCPC. DECISÃO PUBLICADA PARTIR DE 18/MAR/16. ENUNCIADO ADMINISTRATIVO Nº 7/STJ. NÃO CABIMENTO. RECURSO INTERNO. NÃO CONHECIMENTO OU IMPROCEDÊNCIA. MULTA DO ART. 1.021, § 4º, DO NCPC. ANÁLISE CASUÍSTICA. INOCORRÊNCIA, NA ESPÉCIE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+(..)
+2. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso, sob pena de afronta ao próprio direito de petição, estabelecido no art. 5º, XXXIV, da CF.
+3. Embargos de declaração acolhidos para sanar omissão, sem efeitos infringentes.
+(EDcl no AgInt no REsp 1480859/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/04/2017, DJe 03/05/2017)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
