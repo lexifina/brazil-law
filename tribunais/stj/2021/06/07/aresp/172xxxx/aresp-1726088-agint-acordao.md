@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino (Presidente), Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO INTERPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÕES APTAS, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE APRECIAÇÃO.
+1. Ação de cobrança, em fase de cumprimento de sentença.
+2. Caracteriza-se a ofensa ao art. 1.022 do CPC/15 nas hipóteses em que o Tribunal de origem, mesmo após a interposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia.
+3. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por GERVÁSIO OLIVEIRA E ADVOGADOS ASSOCIADOS contra decisão unipessoal que conheceu do agravo interposto por BANCO BRADESCO S/A, para conhecer do recurso especial e dar-lhe provimento.
+Ação: de cobrança, em fase de cumprimento de sentença, ajuizada por JOSÉ CÂNDIDO DE PAULA - ESPÓLIO (interessado), tendo como advogado o escritório GERVÁSIO OLIVEIRA E ADVOGADOS ASSOCIADOS (agravante), em face de BANCO BRADESCO S/A (agravado), em razão de pagamentos indevidos de cheques por parte do demandante, cujos valores serão apurados em sede de liquidação de sentença.
+Decisão interlocutória: acolheu a impugnação ao cumprimento de sentença apresentada por BANCO BRADESCO S/A (agravado).
+Acórdão: deu parcial provimento ao agravo de instrumento interposto por GERVÁSIO OLIVEIRA E ADVOGADOS ASSOCIADOS (agravante), para rejeitar a impugnação apresentada nos autos de cumprimento de sentença de honorários (0017045-54.1993.8.12.0001/50001), nos termos da seguinte ementa:
+Agravo de instrumento - Impugnação ao cumprimento de sentença - Preliminar de inadequação da via eleita - Rejeitada - Decisão que não extingue o cumprimento de sentença - Mérito - Existência de título executivo - Honorários fixados para pronto pagamento em execução de sentença - Trânsito em julgado - Impossibilidade de alterar o valor dos honorários do processo de conhecimento - Recurso conhecido e parcialmente provido.
+01. O agravo de instrumento é o recurso adequado contra as decisões interlocutórias - que acolhem apenas em parte a impugnação e as que decidem por sua total improcedência -, proferidas na fase de cumprimento de sentença. No caso, tendo o magistrado determinado o cumprimento de sentença por outros valores, não há se falar em inadequação da via eleita.
+02. Não obstante a fixação dos honorários para pronto pagamento em execução provisória de sentença, é certo que os demais recursos não impugnaram os honorários propriamente ditos, mas apenas o crédito principal, tendo ocorrido o trânsito em julgado com relação a tal capítulo. Por esse motivo, referidos honorários são exigíveis pelo valor fixado.
+03. Conforme entendimento do STJ, se a parte não concorda com a estipulação de honorários de sucumbência fixados no acórdão, cumpre-lhe se insurgir a tempo e modo, não sendo possível que na fase de liquidação se proceda a revisão de decisão já acobertada pelo manto da coisa julgada material. Uma vez proferido comando judicial contrário ao interesse da parte ou formulado um pedido objeto de ulterior decisão desfavorável, inaugura-se em prol do requerente a faculdade de impugná-la, sob pena de colmatar-se sua intangibilidade.
+04. Em razão do mesmo fundamento do trânsito em julgado, não se faz possível, em impugnação ao cumprimento de sentença, alterar o valor fixado como honorários no processo de conhecimento.
+05. Recurso conhecido e parcialmente provido. (e-STJ, fl. 100/101)
+Embargos de declaração: opostos pelo agravado, foram rejeitados.
+Decisão monocrática: conheceu do agravo interposto por BANCO BRADESCO S/A (agravado), para conhecer do recurso especial e dar-lhe provimento, nos termos do art. 932, V, "a", do CPC/15, bem como da Súmula 568/STJ (e-STJ, fls. 485/488).
+Agravo interno: alega, em síntese, a ausência de negativa de prestação jurisdicional na hipótese vertente, no sentido de não existir omissão em relação à questão referente à fixação de honorários de sucumbência em sede de execução provisória (e-STJ, fls. 493/510).
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO INTERPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÕES APTAS, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE APRECIAÇÃO.
+1. Ação de cobrança, em fase de cumprimento de sentença.
+2. Caracteriza-se a ofensa ao art. 1.022 do CPC/15 nas hipóteses em que o Tribunal de origem, mesmo após a interposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia.
+3. Agravo interno não provido.
+VOTO
+A decisão agravada conheceu do agravo interposto por BANCO BRADESCO S/A (agravado), para conhecer do recurso especial que interpusera e deu-lhe provimento, para reconhecer a existência de omissão por parte da Corte de origem no julgamento dos embargos de declaração opostos pele referida parte.
+-Julgamento: aplicação do CPC/15
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir entendimento firmado na decisão ora agravada.
+1. Da negativa de prestação jurisdicional
+Inicialmente, constata-se que o art. 1022 do CPC/15 realmente foi violado, porquanto o acórdão recorrido contém omissão. As razões recursais elaboradas em relação às supostas omissões do TJ/MS residem na alegação de que, não obstante instado a se manifestar por meio de embargos declaratórios, o órgão jurisdicional ficou silente no que concerne ao argumento de que a decisão que fixou honorários em favor do agravado em sede de cumprimento provisório perdeu efeito nos termos do art. 520, II, do CPC/15, pois o "decisum" executado provisoriamente pela parte agravante foi reformado e, com a reversão do julgado, todas as decisões proferidas na execução provisória perderam efeito.
+Imperioso frisar novamente que, consonante a parte agravada (BANCO BRADESCO S/A), o citado dispositivo do CPC/15 assevera que o cumprimento provisório da sentença fica sem efeito, se sobrevier decisão que modifique ou anule a sentença objeto da execução. Dessa forma, as partes são restituídas ao estado anterior, liquidando-se eventuais prejuízos nos mesmos autos.
+Verifica-se, da análise dos autos, que o Tribunal de origem, ao apreciar os embargos de declaração opostos pelo agravado (BANCO BRADESCO S/A), incorreu em omissão quanto a este argumento. Nota-se, contudo, que a questão foi objeto de devida insurgência nas razões dos embargos declaratórios interpostos.
+Tal como disposto na decisão agravada, a jurisprudência desta Corte Superior é no sentido de que existe ofensa ao art. 1.022 do CPC/15 nas hipóteses em que o Tribunal de origem, mesmo após a interposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia (REsp 1.693.086/SP, 3ª Turma, DJe 20/10/2017; AgInt no AREsp 429.547/RJ, 4ª Turma, DJe 08/09/2016).
+Dessa forma, observando o entendimento desta Corte, encontra-se adequada a decisão unipessoal que, nos termos da Súmula 568/STJ, impôs a cassação do acórdão que apreciou os declaratórios e determinou a remessa dos autos ao TJ/MS, para que a citada Corte de origem se pronuncie, nos termos do devido processo legal, acerca do ponto anteriormente mencionado, julgando prejudicadas as demais discussões aventadas no recurso especial.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
