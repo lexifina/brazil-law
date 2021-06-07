@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto com fulcro no art. 105, III, alínea"a", da Constituição Federal.
+Consta dos autos que o agravadofoi condenado pela prática do delito tipificado no art. 155, § 2º e § 4º,I,do Código Penal (furto qualificado), à pena de 03(três) anos de reclusão, em regime inicial aberto, e ao pagamento de 30 (trinta) dias-multa, substituída por duas penas restritivas de direitos.
+Irresignada, a defesa interpôs recurso de apelação, que restou parcialmente provido para afastar a qualificadora de rompimento de obstáculo, readequando a pena para 02(dois) anos, 04(quatro) meses 10 (dez) dias de reclusão, em regime inicial aberto, e ao pagamento de 10 (dez) dias-multa..
+O acórdão restou assim ementado:
+APELAÇÃO CRIMINAL - RECURSO DEFENSIVO - FURTO QUALIFICADO - CONCURSO DE PESSOAS E ROMPIMENTO DEOBSTÁCULO- PRETENSÃODEDESCLASSIFICAÇÃOPARAFURTOTENTADO - IMPOSSIBILIDADE - ALEGAÇÃO DE PARTICIPAÇÃO DEMENOR IMPORTÂNCIA - INCOERÊNCIA - RECURSO PARCIALMENTEPROVIDO. No caso concreto verificou-se que o furto foi praticado por vários agentes, tendo os comparsas do réu conseguido fugir com a res furtiva. Assim, tendo sido a subtração consumada para um dos agentes, tal fato objetivo se comunica a todos os demais integrantes, fazendo com que o crime reste consumado para todos os demais participantes da ação delituosa, por se tratar de circunstância objetiva. No caso concreto o réu arrombou a porta do estabelecimento comercial, possibilitando a entrada dos demais agentes e a consumação do delito de furto. Assim, tendo a conduta do apelante sido imprescindível para a consumação do delito, não há que se falar em participação de menor importância. A qualificadora prevista no art. 155, §4º, I, CP, deixa vestígios, pois não há possibilidade de se romper um obstáculo, sem que desapareça, modifique-se ou se deteriore algo no mundo exterior. Portanto, nessas hipóteses, é inafastável a perícia como regra (art. 158 do CPP), admitindo-se sua mitigação quando os vestígios deixados desaparecerem ou as circunstâncias do crime não permitirem a confecção do laudo, o que não se vislumbra no caso em apreço, em que a acusação, a quem cabia a produção da prova, deixou de apresentar motivo para a ausência do laudo pericial.
+Opostos embargos de declaração, restaram rejeitados.
+Na petição de recurso especial, o Ministério Público do Estado do Mato Grosso do Sulaponta violação ao disposto noart. 155, § 4º, I, do Código Penal e art. 167 do Código Processo Penal. Sustenta, em síntese, o restabelecimento da qualificadora do rompimento de obstáculo, em razão de outros elementos probatórios.
+A r. decisão agravada inadmitiu o recurso especial, haja vista o óbice contido na Súmula n. 83/STJ.
+Em agravo em recurso especial, o parquet refutou o aludido argumento.
+Contraminuta às fls. 443/449.
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 464/467).
+É o relatório.
+Decido.
+Atendidos os requisitos de admissibilidade e impugnado o fundamento da decisão agravada, conheço do agravo.
+Passo à análise do recurso especial.
+A irresignação não merece prosperar.
+O Tribunal de origem afastou a qualificadora do rompimento de obstáculo, ao entendimento de que não houve perícia ou qualquer justificativa que possibilitasse a sua manutenção, consoante trechos do acórdão recorrido(fls. 330/331):
+"Na hipótese, de fato, não houve perícia e não há quaisquer justificativas na sentença que leve à conclusão de que era impossível sua realização por haver em desaparecido os vestígios(art.167,CPP).
+Ora, nessa situação (rompimento de obstáculo), invariavelmente, a qualificadora deixa vestígios, pois não há possibilidade de se romper um obstáculo, sem que desapareça, modifique-se ou se deteriore algo no mundo exterior.
+Portanto, nessas hipóteses, é inafastável a perícia como regra (art.158 do CPP), admitindo-se sua mitigação quando os vestígios deixados desaparecerem ou as circunstâncias do crime não permitirem a confecção do laudo, o que não se vislumbra no caso em apreço, em que a acusação, a quem cabia a produção da prova, deixou de apresentar motivo para a ausência do laudo pericial."
+O entendimento do Tribunal a quo está em consonância com a jurisprudência desta Corte que é firme no sentido de que aincidência da qualificadora do rompimento de obstáculo exige exame pericial, admitindo-se a prova indireta quando justificada a impossibilidade de realização do laudo direto, o que não restou explicitado nos autos.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO DUPLAMENTE QUALIFICADO. QUALIFICADORAS MANTIDAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que a incidência das qualificadoras previstas no art.155, § 4º, inciso I e II, do Código Penal exige exame pericial para a comprovação do rompimento de obstáculo e da escalada, somente admitindo-se prova indireta quando justificada a impossibilidade de realização do laudo direto. Nesse sentido: AgRg no REsp 1.513.004/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 1º/10/2015, DJe 7/10/2015; AgRg no HC 300.808/TO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/3/2015, DJe 26/3/2015.
+(..)
+4. Agravo regimental desprovido.
+(AgRg no HC 573.801/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 24/08/2020).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO.ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE PROVA PERICIAL.EXCEPCIONALIDADE NÃO DEMONSTRADA. COMPROVAÇÃO POR OUTROS MEIOS DE PROVA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.1. O reconhecimento da qualificadora do rompimento de obstáculo exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo.2. Na hipótese, é incontroverso que não foi realizado exame pericial para atestar o rompimento do obstáculo. Ademais, os motivos apresentados pelas instâncias antecedentes não demonstraram nenhuma excepcionalidade que justificasse a sua ausência, haja vista que suposta demora ou impedimento para a realização do exame nem sequer foram comprovados.3. Agravo regimental não provido.
+(AgRg no AREsp 1812415/AL, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 22/03/2021).
+Ante o exposto, com fundamento na Súmula n. 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
