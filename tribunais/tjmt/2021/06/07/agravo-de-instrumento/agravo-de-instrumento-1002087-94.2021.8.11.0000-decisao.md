@@ -1,0 +1,46 @@
+PODER JUDICIÁRIO
+DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+1002087-94.2021.8.11.0000
+AGRAVANTE: VANDIR LOPES FILHO
+AGRAVADO: ALLYSON ARSENIO DA SILVA SARDY, ARSENIO BENEDITO SARDY
+DES. RUBENS DE OLIVEIRA SANTOS FILHO
+DECISÃO MONOCRÁTICA
+AGRAVO DE INSTRUMENTO – AÇÃO ANULATÓRIA DE INSTRUMENTO PARTICULAR DE CESSÃO DE DIREITO DE POSSE E OUTRAS AVENÇAS – TUTELA DE URGÊNCIA – SUBSTITUIÇÃO PROCESSUAL – QUESTÃO JÁ RESOLVIDA EM OUTRO AGRAVO –TRÂNSITO EM JULGADO – PERDA DO OBJETO – RECURSO NÃO CONHECIDO (ART. 932, III, DO CPC/2015).
+Se a questão submetida à análise já foi decidida em outro Agravo de Instrumento, inclusive com trânsito em julgado, ocorre a perda do objeto recursal.
+Agravo de Instrumento n. 1002087-94.2021.8.11.0000 de decisão da 3a Vara Cível da Comarca de Cuiabá que, em Ação Anulatória de Instrumento Particular de Cessão de Direito de Posse e Outras Avenças, deferiu a tutela de urgência para suspender “imediatamente os efeitos do “Instrumento Particular de Cessão de Posse e outras Avenças” tornando-o sem efeito, consequentemente, impedido a retificação do polo ativo no processo 128/2004 em tramite perante a Comarca de Brasnorte/MT, devendo ser mantido o 1 o autor no polo passivo daqueles autos”, e aplicou multa de R$ 10.000,00 em caso de não cumprimento da medida.
+O agravante defende a legalidade do Instrumento Particular de Cessão de Direito de Posse e Outras Avenças, assim como a sucessão processual.
+Sustenta que o juízo de origem antecipou o julgamento do mérito e extrapolou a pretensão inicial ao reconhecer a incapacidade civil do agravado.
+Argui o risco de dano inverso já que a decisão recorrida impede que ele, titular do direito, atue na Ação de Reintegração de Posse.
+Pede, então, que seja cassada para que prevaleçam os efeitos do Instrumento Particular de Cessão de Direito de Posse e Outras Avenças.
+O Recurso foi inicialmente distribuído para a relatoria da Desa. Serly Marcondes Alves, que determinou em 22/2/2021 a remessa para o Des. José Zuquim Nogueira em virtude de prevenção gerada pelo RAI 1025989-13.2020.8.11.0000 (Id n. 77055988).
+Os agravados alegaram a incompetência do Des. Zuquim para a apreciação do feito uma vez que assumiu o cargo de Corregedor-Geral da Justiça, biênio 2021/2022 (Id n. 77444469). A Desa. Serly reiterou seu entendimento e mais uma vez determinou o envio dos autos ao Des. Zuquim (Id n. 78439958).
+Com isso, os agravados ingressaram com Agravo Interno (Id n. 80038483), o agravante apresentou contraminuta (Id n. 84087988) e a relatora, sob o fundamento de que a discussão formada excedeu o razoável, declarou-se suspeita e mandou redistribuir o Recurso, que, por sorteio, veio para minha relatoria em 27/5/2021.
+É o relatório.
+Chamo o feito à ordem para revogar as decisões de Id n. 77055988 e 78439958, pois, ainda que se considere a exceção ao art. 83, XVII, do RITJMT, definida no dia 19/10/2018 em Consulta à Presidência deste Tribunal (CIA 0093758-26.2018.8.11.0000), o desembargador eleito para cargo de direção pode concorrer à distribuição como relator apenas no período de transição. E não é essa a hipótese ora em exame, já que este Agravo de Instrumento foi distribuído em 10 de fevereiro de 2021, quando esse intervalo já havia se esgotado. Logo, a forma como se deu a distribuição inicial está correta.
+Portanto, fica prejudicado o Agravo Interno de Id n. 80038483.
+Assim, tendo a relatora original se declarado suspeita e este Agravo de Instrumento redistribuído para minha relatoria, passo à sua apreciação.
+Na Ação Anulatória foi concedida a tutela de urgência (decisão ora impugnada) para “suspender imediatamente os efeitos do “Instrumento Particular de Cessão de Posse e outras Avenças” tornando-o sem efeito, consequentemente, impedido a retificação do polo ativo no processo 128/2004 em tramite perante a Comarca de Brasnorte/MT, devendo ser mantido o 1o autor no polo passivo daqueles autos”, com aplicação de multa de R$ 10.000,00 em caso de não cumprimento da medida.
+Contudo, depois de distribuídos a referida Ação e este Agravo, o juiz condutor da Reintegração de Posse, em que foi apresentado o Instrumento Particular de Cessão de Posse e outras Avenças e, por força desse documento, deferida a substituição processual dos agravados pelo agravante, revogou o decisum para manter no polo ativo o agravado e autor original naquela demanda Arsênio Benedito Sardy.
+Diante disso, o ora agravante, que buscava substituir Arsênio na mencionada lide, interpôs o RAI n. 1025989-13.2020.8.11.0000, distribuído ao Des. José Zuquim Nogueira, cujo acórdão, proferido em 10/03/2021 e com trânsito em julgado no dia 28/05/2021, manteve o entendimento do juízo a quo, pela permanência de Arsênio Benedito Sardy como autor na Reintegração de Posse.
+Confira-se o teor do aresto:
+“No caso, extrai-se dos autos que Vandir Lopes Filho, ora agravante, amparado no “Instrumento Particular de Cessão de Direito de Posse e Outras Avenças” firmado com o agravado Arsênio Benedito Sardy (Id. 6946464), pugnou no processo de origem a retificação do polo ativo do presente cumprimento de sentença da ação de reintegração de posse com a sua inclusão em sucessão ao autor Arsênio Benedito.
+Inicialmente o pedido foi deferido pelo juízo a quo, que, por sua vez, quando da análise dos embargos de declaração da decisão aviado por Arsênio Benedito, reviu seu posicionamento, porque entendeu que “o alegado vício de consentimento na declaração de vontade externada no instrumento particular de cessão de direito que embasou o pedido de substituição processual” lhe gerou dúvida razoável quanto à idoneidade do documento apresentado, de modo que, por isso, tornou sem efeito a decisão anteriormente proferida.
+É contra essa decisão que se insurge o agravante.
+Ocorre que, da análise dos autos e dos documentos que os instruem, tenho que o recurso não comporta provimento, porquanto apesar de vigorar, nas relações entre particulares, a regra segundo a qual a livre manifestação da vontade das partes é válida, se o instrumento particular de cessão de direito de posse que embasou o pedido de substituição processual, na hipótese em comento, gerou dúvida quanto a idoneidade do documento, entendo que agiu corretamente e com cautela o juízo a quo ao indeferir o pleito.
+Destaque-se que a conduta do juízo a quo não fere em momento algum os princípios inerentes ao devido processo legal, conforme salienta o agravante, uma vez que compete ao juiz adotar as providências cabíveis para esclarecer todas aquelas situações que entender obscuras e que lhe impedem de proferir decisão com a necessária segurança jurídica.
+Assim, verifico que o pedido de substituição processual foi indeferido porque o juízo a quo não sentiu segurança para decidir, haja vista a existência do alegado vício de consentimento no instrumento de cessão de direito, sendo certo que após a tomada das providências necessárias e esclarecimento dos fatos, certamente o direito do agravante não será negado.
+(...)
+Desse modo e em observância ao poder geral de cautela, entendo que, de fato, o pedido de substituição do polo ativo deve ser indeferido, considerando a relevância da questão sobre os vícios de consentimento existentes no instrumento particular de cessão de direito de posse.
+(...)
+A propósito, importante ressaltar, que como o próprio agravante informou em suas razões de recurso, o agravado, inclusive, já ajuizou a ação anulatória do referido instrumento de cessão de direito, em seu desfavor, sob no 1054727-82.2020.8.11.0041, que, inclusive teve o pedido de tutela de urgência deferido na data de 09/12/2020, para suspender os efeitos do negócio jurídico firmado entre as partes.
+Dessa forma, considerando a oposição do agravado Arsênio Benedito Sardy (cedente) à cessão de direito que ensejou o pedido de substituição processual pelo agravante, realmente não há como deferi-lo, devendo aguardar o deslinde final da referida ação anulatória. (...).”
+E da ementa:
+“AGRAVO DE INSTRUMENTO - REINTEGRAÇÃO DE POSSE - CUMPRIMENTO DE SENTENÇA – PRELIMINARES DE INCOMPETÊNCIA, DE NÃO CONHECIMENTO DO RECURSO E DE ILEGITIMIDADE DE PARTE REJEITADAS – FATO NOVO AINDA NÃO APRECIADO NA ORIGEM – ANÁLISE PELO TRIBUNAL – IMPOSSIBILIDADE - SUPRESSÃO DE INSTÂNCIA – CESSÃO DE DIREITO DE POSSE – SUBSTITUIÇÃO PROCESSUAL – POLO ATIVO – INVIABILIDADE – PODER GERAL DE CAUTELA – RECURSO DESPROVIDO.
+(...)
+Deve ser mantida a decisão que indeferiu o pedido de substituição processual do polo ativo, considerando a relevância da questão sobre os vícios de consentimento existentes no instrumento particular de cessão de direito de posse, tendo o magistrado agido em consonância com o seu poder geral de cautela.”
+Por conseguinte, como no presente Agravo de Instrumento a questão submetida à análise consiste na antecipação de tutela que reverteu a substituição processual na Ação de Reintegração de Posse e esse fato já está resolvido por colegiado, até mesmo com trânsito em julgado, ocorreu a perda do objeto deste Recurso, visto que já foi efetivada a prestação jurisdicional pretendida.
+Pelo exposto, com amparo no art. 932, III, do CPC, não conheço do Recurso, uma vez que está prejudicado em decorrência da perda superveniente do objeto.
+Cuiabá, 7 de junho de 2021.
+Des. Rubens de Oliveira Santos Filho
+Relator
