@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por JESSICA DE AMORIM NOVAES, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 27/01/2021.
+Concluso ao gabinete em: 06/05/2021.
+Ação: embargos à execução opostos por JESSICA DE AMORIM NOVAES, coontra execução movida por DEONICE DE FATIMA ALVES PARIZOTTO e OUTRA.
+Sentença: julgou parcialmente procedentes os pedidos dos embargos à execução, para:A) Reconhecer a ilegitimidade passiva de Ivone Conceição Bochnie para figurar no polo passivo da execução embargada, devendo ser promovidas as retificações necessárias para sua exclusão da lide; B) Reconhecer a inexistência de solidariedade passiva para o adimplemento da obrigação, devendo ser a execução limitada somente a prestação devida pela Sra. Jéssica de Amorim Novaes, ou seja, 50% de seu valor; C) Declarar o excesso de execução constante na cobrança das parcelas constantes na cláusula 10, itens "h" e "c" do contrato; D) Determinar a adequação da multa contratual de 50%, devendo incidir somente nos valores que remanescem devidos pela Sra. Jéssica de Amorim Novaes.
+Acórdão: negou provimento às apelações de ambas as partes, nos termos da ementa:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. SENTENÇA DE PARCIALPROCEDÊNCIA. APELAÇÃO DE JANETE PARISOTTO SANTANA E OUTRA. LEGITIMIDADEPASSIVA. DESCABIMENTO. EXECUTADA QUE NÃO FIGUROU NOCONTRATO DE COMPRA E VENDA DE ESTABELECIMENTO COMERCIAL. COBRANÇA DOS CHEQUES QUE DEVE SER REALIZADO PELA VIA ADEQUADA. PAGAMENTO DAS NOTAS PROMISSÓRIAS. NÃOCONHECIMENTO. MATÉRIA JÁ ANALISADA NOS AUTOS DE EXECUÇÃO. RESTITUIÇÃO DO VEÍCULO ENTREGUE COMO PARTE DO PAGAMENTO. NECESSIDADE DE UTILIZAÇÃO DA VIA ADEQUADA. ENTREGA DE COISACERTA. MULTA CONTRATUAL. MANUTENÇÃO SOMENTE EM RELAÇÃO A À PARTE NÃO ADIMPLIDA. RECURSO DE APELAÇÃO PARCIALMENTE CONHECIDO E NÃO PROVIDO. APELAÇÃO DE JÉSSICA DE AMORIM NOVAES. PRESCRIÇÃO. NÃO OCORRÊNCIA. PRAZO DECENAL. INEXEQUIBILIDADE DO CONTRATO. CARÁTER PRO SOLVENDO. AUSÊNCIA DE PREVISÃO DE QUITAÇÃO MEDIANTE A ENTREGA DO TÍTULO. MULTA CONTRATUAL. INCIDÊNCIA SOBRE A PARTE NÃO ADIMPLIDA. RECURSO CONHECIDO E NÃO PROVIDO.(e-STJ fl. 303)
+Embargos de Declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 206, § 5º, I, e 413 do CC/02. Sustenta a aplicação do prazo quinquenal para a hipótese dos autos, de modo que a pretensão da parte recorrida encontra-se prescrita. Aduz para tanto que a obrigação é certa e líquida a atrair o disposto no inciso I do § 5º do art. 206 do CC/02. Ademais, alega que a cláusula penal compensatória foi fixada em alíquota exorbitante de 50% do valor do contrato.
+Julgamento: aplicação do CPC/2015.
+RELATADO O PROCESSO. DECIDE-SE.
+- Da alegação de violação do art. 413 do CC/02
+O acórdão recorrido não analisou a controvérsia à luz dos argumentos lançados pela parte recorrente no tocante aoart. 413 do CC/02, indicadocomo violado, qual seja, a alegação de exorbitância da alíquota da multa compensatória, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Mesmo assim, para acolher a pretensão da recorrente, seria inevitávelo reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Do prazo prescricional. Súmula 568/STJ
+que a 2ª Seção e a Corte Especial deste STJ, recentemente, já definiram pela aplicação do referido prazo prescricional decenal quando a pretensão estiver fundamentada em inadimplemento contratual (EREsp 1.281.594, Corte Especial, DJe 23/05/2019; e EREsp 1.280.825/RJ, 2ª Seção, DJe 02/08/2018).
+Assim, a Corte de origem, ao reconhecer a aplicação do prazo decenal para a hipótese dos autos,foi aoencontro dajurisprudência deste STJ, na medida em quea discussão envolveinadimplemento contratual, de modoque o acórdão recorrido não merece reparos, nos termos da Súmula 568/STJ.
+Ademais, não prospera a alegação da recorrente no sentido de que esse entendimento foi superado, do modo a se aplicar somente aos os casos em que se discute obrigações ilíquidas em ação de conhecimento, visto que os argumentos lançados a esse título foram consignados em voto que restou vencido no julgamento do EREsp 1.281.594.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorridaem virtude da interposição deste recurso, majoro os honorários devidas pela parte recorrente e fixados anteriormente em 12% sobre o valor do proveito econômico(e-STJ fls. 312) para 14%, observados critérios adotados pelo Tribunal de origemconsignados às e-STJ fls. 149 c/c 312.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECEUÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.AÇÃO DE INADIMPLEMENTO CONTRATUAL. PRESCRIÇÃO. PRAZO DECENAL. SÚMULA 568/STJ.
+1. Embargos à execução.
+2. A ausência de decisão acerca dos argumentos invocados pela recorrente, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+4. Esta Corte Superior de Justiça firmou entendimento no sentido de que nas pretensões que tenham como fundamento a responsabilidade contratual incide o prazo prescricional decenal, nos termos do art. 205 do CC/2002. Súmula 568/STJ.
+5. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
