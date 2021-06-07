@@ -1,0 +1,49 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO.
+A interposição de recursos simultâneos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e princípio da unirrecorribilidade das decisões. Em razão desse entendimento, o recurso de fls. 400-424 (petição n. 500991/2021) não pode ser conhecido.
+Recurso não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer dos embargos.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de embargos de declaração no agravo regimental no recurso especial opostos por ELIEZER DOS SANTOS MOTE em face do v. acórdão proferido pela eg. Quinta Turma.
+Consta dos autos que o Juízo de primeiro grau, com fulcro no art. 386, inciso VII, do Código de Processo Penal, absolveu o ora agravante da conduta do art. 12, caput, da Lei n. 10.826/2003 (fls. 235-244).
+Interposta apelação criminal pela acusação, em decisão unânime, o eg. Tribunal de origem, deu-lhe provimento para condenar o ora recorrente como incuso nas sanções do art. 12, caput, da Lei n. 10.826/2003, à pena de 2 (dois) anos de detenção, em regime inicial semiaberto, mais 20 dias-multa (fls. 293-303), em acórdão assim ementado:
+"APELAÇÃO CRIMINAL. ART. 12, DA LEI 10.826/2003. CONDENAÇÃO. AUTORIA E MATERIALIDADE COMPROVADOS. MEDIDA QUE SE IMPÕE. DEVOLUÇÃO DE BENS E VALORES APREENDIDOS. ÓNUS DA PROVA DA PROPRIEDADE DO RÉU. DEVOLUÇÃO CONDICIONADA À INEXISTÊNCIA DE DÚVIDA DO DIREITO DO RECLAMANTE. RECURSO DO PARQUET PROVIDO. RECURSO DA DEFESA DESPROVIDO. 1. O crime de posse irregular de arma de fogo como crime de perigo abstrato, consumando-se com a mera posse do artefato bélico, sendo dispensável, portanto, resultado naturalistico ou efetiva exposição a perigo concreto. Consta dos autos prova da autoria e da materialidade, portanto não há que se falar em absolvição. 2. Em havendo dúvidas acerca da propriedade e da origem lícita do numerário, não há que se falar em devolução dos bens e valores apreendidos, eis que incumbe ao reclamante a prova da origem licita e da propriedade do material arrecadado, não sendo aplicável ao caso o princípio In dublo pro reo."
+Nas razões do recurso especial, a parte recorrente sustentou violação ao artigo 12, caput, da Lei n. 10.826/2003, aos arts. 155 e 120, § 1º, ambos do do Código de Processo Penal, e ao art. 63 do Código Penal (fls. 306-309).
+Apresentadas as contrarrazões (fls. 321-328), o recurso foi admitido na origem (fl. 330-333) e os autos ascenderam a este Superior Tribunal de Justiça.
+Em decisão de fls. 343-344, a d. Presidência deste Superior Tribunal não conheceu do recurso especial, por intempestividade.
+Foi interposto o respectito agravo regimental, por meio do qual se alegou, em síntese, que " o  recorrente foi intimado do acordão recorrido em 25/08/2020, sendo o recurso especial interposto em 13/10/2020. O ato normativo nº 088/2020 determinou o retorno dos trabalhos presenciais do Poder Judiciário do Estado do Espirito Santo apenas em 28/09/2020, dessa forma o presente recurso é tempestivo" (fl. 350).
+Conforme Certidão de fl. 353, " o  prazo para interposição de agravo regimental em relação à decisão de folha 343 teve início em 30/03 /2021 e término em 05/04/2021, e que a petição n. 312107/2021 (AgRg) foi protocolizada em 06/04/2021".
+Nos termos do despacho de fl. 357, foi determinada a redistribuição dos autos.
+Pelo Termo de Distribuição e Encaminhamento de fl. 360, o feito foi a mim atribuído.
+O d. representante do Ministério Público Federal manifestou-se pelo não conhecimento do agravo regimental (fls. 362-363).
+A eg. Quinta Turma, em decisão unânime, não conheceu do agravo regimental, nos termos da ementa a seguir transcrita (fl. 367):
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INTEMPESTIVIDADE. AGRAVO REGIMENTAL INTERPOSTO FORA DO PRAZO LEGAL DE 5 (CINCO) DIAS. NÃO CONHECIMENTO.
+I - Consoante o art. 258 do RISTJ, "A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a".
+II - In casu, a decisão objeto deste agravo regimental foi disponibilizada em 26/3/2021 e considerada publicada em 29/3/2021 (fl. 345). O agravo regimental, contudo, somente foi interposto em 06/04/2021 (fl. 350), quando já havia sido ultrapassado o quinquídio legal, sendo, pois, manifesta a intempestividade do recurso, conforme Certidão de fl. 353.
+Agravo regimental não conhecido."
+Daí a oposição dos presentes embargos de declaração (fls. 400-424), por meio dos quais se alega ocorrência de omissão no acórdão embargado, ao argumento de que " o  ato normativo nº 088/2020 determinou o retorno dos trabalhos presenciais do Poder Judiciário do Estado do Espirito Santo apenas em 28/09/2020, sendo o recurso interposto em 13/10/20, assim o presente recurso é tempestivo" (fl. 401).
+Ao final, requer, "seja reconhecido e provido o presente embargo, mesmo que de forma excepcional" (fl. 401).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO.
+A interposição de recursos simultâneos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e princípio da unirrecorribilidade das decisões. Em razão desse entendimento, o recurso de fls. 400-424 (petição n. 500991/2021) não pode ser conhecido.
+Recurso não conhecido.
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: Verifica-se que contra o v. acórdão de fls. 367-372, o ora embargante opôs 02 (dois) recursos (embargos de declaração).
+Como cediço, a interposição ou oposição de dois ou mais recursos, pela mesma parte e contra a mesma decisão ou acórdão, impede o conhecimento daquele(s) que foi(ram) apresentado(s) após o primeiro recurso, tendo em vista a preclusão consumativa e o princípio da unirrecorribilidade recursal.
+Nesse sentido, os seguintes precedentes:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS AGRAVOS INTERNOS, PELA MESMA PARTE, CONTRA A MESMA DECISÃO. PRECLUSÃO CONSUMATIVA E VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 02/08/2017, que julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. É assente, na jurisprudência do STJ, o entendimento de que a interposição de dois ou mais recursos, pela mesma parte e contra a mesma decisão, impede o conhecimento daqueles que foram apresentados após o primeiro apelo, haja vista a preclusão consumativa e o princípio da unirrecorribilidade. Precedentes do STJ: EDcl no AgRg no AREsp 799.126/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 09/06/2016; AgRg no REsp 1.525.945/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe de 03/06/2016.
+III. Isso porque, "no sistema recursal brasileiro, vigora o cânone da unicidade ou unirrecorribilidade recursal, segundo o qual, manejados dois recursos pela mesma parte contra uma única decisão, a preclusão consumativa impede o exame do que tenha sido protocolizado por último. Precedentes" (STJ, AgInt nos EAg 1.213.737/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 26/08/2016).
+IV. Agravo interno não conhecido" (AgInt nos EDv nos EREsp n. 1.314.479/RS, Primeira Seção, Relª. Minª. Assusete Magalhães, DJe de 14/11/2017).
+"RECURSO EXTRAORDINÁRIO. OFENSA AO ART. 93, INCISO IX, DA CONSTITUIÇÃO DA REPÚBLICA. NÃO OCORRÊNCIA. TEMA 339/STF. INTERPOSIÇÃO DE DOIS RECURSOS CONTRA A MESMA DECISÃO. PRECLUSÃO DO SEGUNDO. 1. Não subsiste a alegação de ofensa ao art. 93, inciso IX, da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+2. Não enseja conhecimento o agravo de fls. 720/728 (e-STJ), pois, "no sistema recursal brasileiro, vigora o cânone da unicidade ou unirrecorribilidade recursal, segundo o qual, manejados dois recursos pela mesma parte contra uma única decisão, a preclusão consumativa impede o exame do que tenha sido protocolizado por último. Precedentes" (AgInt nos EAg 1.213.737/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 17/8/2016, DJe 26/8/2016).
+3. Agravo regimental improvido. Agravo em recurso extraordinário de fls. 706/711 (e-STJ) não conhecido" (AgRg no RE nos EDcl no AREsp n. 765.376/BA, Corte Especial, Rel. Min. Humberto Martins, DJe de 21/03/2017).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO.
+1. No caso de interposição de dois recursos pela mesma parte e contra a mesma decisão, tem-se que apenas o primeiro poderá ser submetido à análise, em face da preclusão consumativa e do princípio da unicidade recursal, que proíbe a interposição simultânea de mais de um recurso contra a mesma decisão judicial.
+2. Agravo regimental não conhecido" (AgInt no AREsp n. 980.381/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 22/02/2017)
+Pelo exposto, não conheço do recurso de fls. 400-424 (petição n. 00500991/2021).
+É o voto.
