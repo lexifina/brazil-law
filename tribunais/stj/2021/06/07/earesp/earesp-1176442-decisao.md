@@ -1,0 +1,27 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos de divergência opostos por IVAN MENDES QUEIROS FILHO e AUREA MATSUBARA contra acórdão pela Quarta Turma do STJ, de relatoria do Ministro Antônio Carlos Ferreira (e-STJ, fls. 898/905),querestou assim ementado:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. DANOS MORAIS. INEXISTÊNCIA. DECISÃO MANTIDA.1. O mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. Precedentes.2. Agravo interno a que se nega provimento. (e-STJ, fl. 787)
+Irresignados,interpuseram os Embargos de Divergência (fls. 799-814), indicando como paradigmas os acórdãos dos AgInt no AREsp 1.437.144/SC, Quarta Turma, Rel. Ministro Luis Felipe Salomão, AgRg no REsp 1.557.577/SP, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, AgInt no REsp 1.507.737/DF, Terceira Turma, Rel. Ministro Paulo de Tarso Sanseverino, AgInt no REsp 1.215.192/GO, Segunda Turma, Rel. Ministra Assusete Magalhães e AgInt no REsp 1.570.563/PE, Segunda Turma, Rel. Ministro Mauro Campbell Marques.
+Alegam os embargantes que "o v. Acórdão da 4ª Turma do STJ divergiu ao concluir inexistentes danos morais, no mérito, das decisões das demais turmas ao negar revaloração da prova nos autos, como admitem e fazem os demais órgãos fracionários dessa Corte Superior" (e-STJ, fl. 800).
+A divergência apontada com os julgados proferidos pela Quarta Turma e Terceira Turma vieram distribuídos à Segunda Seção, nos termos da certidão de fl. 953 (e-STJ). As demais divergências foram examinadas pela Corte Especial, que indeferiu liminarmente os embargos de divergência, conforme decisão de fls. 916/922 (e-STJ).
+É o breve relatório.
+Decido.
+Os embargos de divergência estão prejudicados, porque não remanesce dissídio a ser dirimido pela Segunda Seção em relação aos paradigmas provenientes da Terceira e da Quarta Turma (AgInt no AREsp 1.437.144/SC, Quarta Turma; e AgInt no REsp 1.215.192/GO, Terceira Turma), nada obstante a cisão de julgamento determinada pela decisão de fls. 916/922(e-STJ).
+Inicialmente, os embargos foram distribuídos no âmbito da Corte Especial, tendo em vista que, no referido recurso, houve a indicação de divergência entre julgados de Turmas pertencentes a Seções diversas.
+Em decisão de fls. 916/922 (e-STJ), o Min. Felix Fischer, apreciando o próprio mérito do recurso, indeferiu liminarmente aos embargos de divergência, reconhecendo que "o acórdão ora vergastado encontra respaldo na jurisprudência atual desta Corte Superior no sentido de que o simples descumprimento contratual, por si só, não é capaz de gerar danos morais, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade" (e-STJ, fl. 918).
+Ora, embora osrecorrentes tenham indicado diversos julgados paradigmas em suas razões de recurso, o objeto do recurso é único e, conforme asseverado pelo em. Min. Felix Fischer, diz respeito a conhecida controvérsia já solucionada no âmbito desta Corte Superior, permitindo a aplicação daSúmula 168/STJ, segundo a qual, "não cabem os embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+Nesse contexto, apreciado o recurso pela Corte Especial, órgão jurisdicional máximo do STJ, impõe-se o reconhecimento da perda do objeto do que remanesceu dos embargos de divergência.
+Nessa linha de consideração, confira-se a orientação da própria Corte Especial do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. AGRAVO REGIMENTAL. PARADIGMAS ORIGINÁRIOS DE TURMA DA MESMA SEÇÃO E DE SEÇÃO DIVERSA. CISÃO DO JULGAMENTO DOS EMBARGOS DE DIVERGÊNCIA COM PRIMAZIA DA CORTE ESPECIAL. ART. 266 (SEGUNDA PARTE) DO RISTJ. HIPÓTESE DE UMA MESMA QUESTÃO. COMPETÊNCIA DO ÓRGÃO SUPERIOR. OFENSA AO ART. 535 DO CPC NO CONTEXTO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. INVIABILIDADE. INEXISTÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ARESTOS CONFRONTADOS.
+(..)
+2. Quando suscitada a divergência entre paradigmas de Turmas da mesma Seção e de Seção diversa daquela de que provém o aresto embargado, ocorre a cisão do julgamento com primazia da Corte Especial (art. 266, segunda parte, do RISTJ). Todavia, em se tratando de uma mesma questão, ainda que tenha sido indicado paradigma de Turma da mesma Seção, além daqueles oriundos de Turmas de Seções diversas, a competência para o julgamento será do colegiado mais amplo.
+(..)
+6. Agravo regimental desprovido.
+(AgRg nos EDcl nos EAg 901.062/SP, Rel. Min. JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe 26/09/2011 - grifou-se)
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC/15, julgo prejudicado exame dos embargos de divergência em relação aos paradigmas provenientes da Terceira e da Quarta Turma (AgInt no AREsp 1.437.144/SC, Quarta Turma; eAgInt no REsp 1.215.192/GO,Terceira Turma).
+Advirta-se para o disposto nos art s. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA. PROCESSUAL CIVIL.PARADIGMAS ORIGINÁRIOS DE TURMA DA MESMA SEÇÃO E DE SEÇÃO DIVERSA. CISÃO DO JULGAMENTO DO RECURSO COM PRIMAZIA DA CORTE ESPECIAL. ART. 266 (SEGUNDA PARTE) DO RISTJ. HIPÓTESE DE UMA MESMA QUESTÃO. DANOS MORAIS. ATRASO NA ENTREGA DO IMÓVEL.MATÉRIA JÁ EXAMINADA. COMPETÊNCIA DO ÓRGÃO SUPERIOR. PRECEDENTES.
+EMBARGOSDE DIVERGÊNCIA PREJUDICADOS.
