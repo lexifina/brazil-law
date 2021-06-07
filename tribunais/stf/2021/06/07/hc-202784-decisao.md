@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    Habeas corpus impetrado em favor de Otávio Antonio Capasso, apontando como autoridade coatora a Ministra Laurita Vaz, do Superior Tribunal de Justiça, que conheceu parcialmente do pedido e, nessa extensão, denegou a ordem, no HC nº 539292/SP.
+    Depreende-se dos autos que o paciente foi condenado às penas de 4 anos de reclusão, em regime aberto, de pagamento de 13 dias-multa e de perda do cargo público, pela prática do crime previsto no art. 311, § 1º, do Código Penal.
+    Sustenta o impetrante, em suma, que o paciente sofre constrangimento ilegal, porque i) a perda de cargo foi decretada sem fundamentação idônea; ii) a pena-base foi exasperada sem motivação; e iii) a valoração da prova dos autos foi equivocada.
+    Requer a concessão da ordem de habeas corpus para revisar a dosimetria (fixar a pena-base no mínimo legal) e afastar a decretação da perda do cargo público.
+    Examinados os autos, decido.
+    Transcrevo a ementa da decisão ora questionada:
+    “HABEAS CORPUS. PROCESSUAL PENAL. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. PLEITO DE ABSOLVIÇÃO. NECESSIDADE DE EXAME DO CONJUNTO PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. DOSIMETRIA E PERDA DO CARGO PÚBLICO. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. PENA-BASE JÁ FIXADA NO MÍNIMO LEGAL. PEDIDO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, ORDEM DE HABEAS CORPUS DENEGADA” (doc. 21).
+    Como visto, a impetração volta-se contra decisão singular. Logo, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14).
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    Consoante tranquila jurisprudência da Corte, o uso de habeas corpus como sucedâneo de revisão criminal é cabível apenas nas hipóteses excepcionais de manifesta ilegalidade ou teratologia (v.g. RHC nº 174.771-AgR, 2ªT, Rel. Min. Ricardo Lewandowski, DJe de 17/10/19), o que não ocorre na espécie.
+    No tocante à suposta exasperação da pena-base, conforme consignado pela autoridade coatora, a instâncias ordinárias a fixaram no mínimo legal, “razão pela qual não há interesse processual no ponto”, ressaltando o excerto da fundamentação utilizada pelo Juízo de primeira instância, na sentença:
+    Inicialmente, o Juiz de primeiro grau, ao dimensionar a pena, consignou o que se segue (fl. 137):
+    "Passo a dosar a pena. Não vejo dentre as circunstâncias do art. 59 do CP nenhuma a ditar a fixação da pena acima do mínimo legal: 03 anos de reclusão e 10 dias-multa. Incide atenuante da confissão, mas a pena já foi fixada no mínimo não cabendo redução aquém deste patamar. Não há agravantes, nem causas de diminuição de pena. Pela causa de aumento do paragrafo primeiro do art. 311 do CP por ser o réu funcionário publico e ter cometido crime em razão de sua profissão como perito no instituto de criminalística, onde se apossou da placa, aumento a pena em um terço passando a 4 anos de reclusão e 13 dias-multa. Regime aberto. Substituo a pena privativa de liberdade por prestação de serviços à comunidade e por prestação pecuniária consistente no pagamento de um salário mínimo por ano de pena substituída, mediante depósito ao Fundo Municipal da Criança edo Adolescente, administrado pelo Conselho Municipal dos Direitos da Criança e Adolescente 'responsável pela licitação pública de projetos voltados ao público infanto-juvenil e que serão financiados e monitorados com estes recursos"
+    É certo, ademais, que, não é o habeas corpus a via adequada reexaminar fatos e provas pra se chegar a conclusão diversa, não sendo cabível para revisitar o juízo feito pelas instâncias de mérito quanto à reprovabilidade da conduta do agente infrator para se ponderar a respeito de qual seria a pena adequada ao caso concreto.
+    Nesse sentido: RHC nº 133.974/RJ, Segunda Turma, de minha relatoria, DJe de 3/3/17; RHC nº 132.361/SP, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 22/4/16; e HC nº 87.684/AM, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/8/06, entre outros.
+    Ainda no entendimento da Corte, verifica-se que “[a] dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena” (HC nº 144.341/CE-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 27/9/17).
+    É assente, por fim, na jurisprudência da Corte que “[a] impugnação da pena de perda do cargo público não deve ser conhecida, pois não tem a ver com a liberdade de locomoção do paciente” (RHC 165548, Rel. Marco Aurélio, Rel. p/ ac. Alexandre de Moraes, Primeira Turma, DJe 26/11/2020).
+    Ante o exposto, com fundamento no art. 21, § 1º, do RISTF, nego seguimento ao presente habeas corpus.
+    Publique-se.
+    Brasília, 7 de junho de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
