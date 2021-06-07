@@ -1,0 +1,51 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5000999-84.2019.8.08.0006
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: TELEFONICA BRASIL S.A.
+RECORRIDO: HELI CARLOS CONFOLONIERI
+RELATOR(A
+):FABIO PRETTI
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+
+Recurso Inominado nos autos n°
+5000999-84.2019.8.08.0006
+
+Recorrente: TELEFONICA BRASIL S.A.
+
+Recorrido: HELI CARLOS CONFOLONIERI
+
+VOTOS
+
+DR. FABIO PRETTI – RELATOR
+
+(Minuta elaborada em conformidade com a Resolução TJES nº 12/2020)
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO DE DECLARAÇÃO DE NULIDADE DE DÉBITO E INDENIZAÇÃO POR DANOS MORAIS EM DECORRÊNCIA DE NEGATIVAÇÃO INDEVIDA. RECURSO APRESENTADO PELA OPERADORA DE TELEFONIA QUE É MERA REPRODUÇÃO DA CONTESTAÇÃO ANTES APRESENTADA. VIOLAÇÃO AO PRESSUPOSTO ESTABELECIDO PELO ART. 1.010, III, CPC, APLICADO, POR ANALOGIA, AO RECURSO INOMINADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA SENTENÇA. INEXISTÊNCIA DE DIALETICIDADE. NÃO PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. RECURSO NÃO CONHECIDO. CONDENAÇÃO DA RECORRENTE EM CUSTAS E HONORÁRIOS ADVOCATÍCIOS FIXADOS NO IMPORTE DE 10% SOBRE O VALOR DA CONDENAÇÃO.
+
+SIRLA MOSKEN TAMANHAO
+
+Juíza Leiga
+
+O Sr. Juiz de Direito Relator DR. FABIO PRETTI –
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+À unanimidade, não conhecer o recurso, nos termos do voto do Relator.
