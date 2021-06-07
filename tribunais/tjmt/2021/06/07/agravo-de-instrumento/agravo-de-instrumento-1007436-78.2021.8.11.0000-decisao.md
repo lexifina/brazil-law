@@ -1,0 +1,38 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+RECURSO DE AGRAVO DE INSTRUMENTO no 1007436-78.2021.8.11.0000 - CLASSE 202 – CNJ – CUIABÁ
+Agravante : MARNEIDE DE SOUZA REIS
+Agravados : TATIANI DIAS DA SILVA REIS E SEBASTIÃO SOARES DA SILVA
+Número do Protocolo : 1007436-78.2021.8.11.0000
+Cuida-se de Recurso de AGRAVO DE INSTRUMENTO interposto por MARNEIDE DE SOUZA REIS contra a r. decisão proferida pelo MMo. Juiz de Direito da 7a Vara Cível da Comarca de Cuiabá/MT, que nos autos da ação de “Despejo para Uso Próprio c/c Cobrança de Aluguéis” (Proc. no 1058105-46.2020.8.11.0041), ajuizada contra a agravante por TATIANI DIAS DA SILVA REIS e SEBASTIÃO SOARES DA SILVA, deferiu pedido de tutela de urgência formulado pelos agravados para determinar que, no prazo de 15 dias, “a parte demandada desocupe o imóvel, condicionando o seu cumprimento à apresentação de caução (que poderá recair sobre o próprio imóvel), nos termos do artigo 59, § 1o, da Lei n. 8.245/91, sem prejuízo de, no aludido prazo, provar a quitação dos valores apresentados na demanda ou mesmo purgar a mora, nos moldes do artigo 59, § 3o, da Lei n. 8.245/91” (cf. Id. no 52672162 dos autos de origem).
+A agravante alega, preliminarmente, que o imóvel está localizado na rua Atalaia, Quadra 142, casa 21, do bairro Dr. Fábio Leite 2, na cidade de Cuiabá/MT, mas quem proferiu a decisão agravada foi o juiz da comarca de Chapada dos Guimaraes, que é incompetente para julgar a ação.
+No mérito, diz que o contrato “de gaveta” apresentado pelos agravados, sem reconhecimento de firma, não é suficiente para comprovar que os requerentes são os proprietários do imóvel, e, além disso, o imóvel oferecido como caução não “merece crédito”, pois é objeto de ocupação ilegal.
+Alega que, embora só tenha assinado contrato de aluguel em 2016, mora no local desde 2014, sendo que em dezembro de 2016 celebrou com a agravada, que era sua nora, contrato de compra e venda verbal no valor de R$ 15.000,00, dos quais, R$ 9.800,00 foram pagos em dinheiro, sem recibo, e o restante foi depositado na conta do filho da vendedora, que na época era marido da agravada, conforme convencionaram na época.
+Afirma que lançou no imóvel benfeitorias no valor de aproximadamente R$ 40.000,00.
+Aduz que a agravada não precisa do imóvel, porque mora em Caxias do Sul-RS, enquanto ela e sua filha, que contraiu coronavírus grave e está se recuperando, ficarão sem moradia se a decisão for mantida.
+Pede, pois, a anulação da decisão proferida por Juízo incompetente, ou, no mérito, a revogação da decisão agravada; de imediato, pede a suspensão dos efeitos da decisão (cf. Id. n. 85625459).
+É o breve relatório.
+Trata-se de ação de despejo ajuizada pelos agravados contra a agravante fundada no alegado descumprimento de contrato de locação entre as partes, cuja cópia do instrumento encontra-se vinculada ao Id. n. 86045460, referente ao imóvel localizado na rua Atalaia, Quadra 142, casa 21, do Bairro Dr. Fábio Leite 2, na cidade de Cuiabá/MT, pelo valor mensal de R$ 350,00, que não foi pago desde janeiro de 2017 (cf. Id. n. 46263433 dos autos de origem).
+A decisão agravada deferiu o pedido de despejo pelos seguintes motivos:
+“Sem delongas desnecessárias, o contrato de locação encartado no id. 46263438 possui a vigência inicial em 01/08/2016 e foi firmado por prazo indeterminado, bem como é destituído de garantia, como elencado no artigo 37 da Lei n. 8.245/1991.
+Dentro desse quadrante, o artigo 59, inciso IX, da Lei n. 8.245/91 autoriza a concessão de liminar, independentemente da análise do periculum in mora, quando, como no vertente caso, se depara com a falta de pagamento de aluguel e acessórios da locação e o respectivo contrato está despido de garantia.
+No entanto, não obstante esse permissivo legal, mesmo se necessária a análise dos requisitos para concessão da tutela de urgência, outra não seria a solução.
+Afinal, o aluguel integra o ganho mensal do locador, assumindo a nítida natureza de alimentos e, como tal, é sempre urgente na medida em que parte do seu sustento está sendo desfalcado com o inadimplemento do locatário.
+(...)
+No vertente caso, a parte autora, com a liminar/tutela antecipada, pretende apenas retomar o imóvel que lhe pertence, após a aludida inadimplência.
+No entanto, mostra-se imprescindível a apresentação de caução, senão vejamos:
+(...)
+Ademais, se adimplente, bastará a parte demandada juntar o comprovante de quitação e, ainda, mesmo na hipótese de inadimplência, poderá purgar a mora, na forma do artigo 59, § 3o, da Lei n. 8.245/91.
+Posto isso, este Juízo:
+1 – DEFERE o pedido de liminar para que, no prazo de 15 dias, a parte demandada desocupe o imóvel, condicionando o seu cumprimento à apresentação de caução (que poderá recair sobre o próprio imóvel), nos termos do artigo 59, § 1o, da Lei n. 8.245/91, sem prejuízo de, no aludido prazo, provar a quitação dos valores apresentados na demanda ou mesmo purgar a mora, nos moldes do artigo 59, § 3o, da Lei n. 8.245/91.
+(...)”.
+É completamente descabida a tese de incompetência do Juízo, pois a decisão agravada foi proferida pelo MM. juiz da 7a Vara Cível da comarca de Cuiabá, e não pelo juiz de Chapada dos Guimarães.
+A tese recursal se apresenta contraditória, pois, por um lado, a agravante afirma que o imóvel nunca pertenceu aos agravados, e, por outro lado, diz que o comprou da agravada no final de 2016, e que justamente por isso, não pagou mais os aluguéis nos meses seguintes.
+Para comprovar a alegada aquisição do imóvel, a agravante juntou cópia dos comprovantes de depósitos realizados em favor de Jean Mark Reis Leite, filho da vendedora, entre janeiro e julho de 2017, no valor total de R$ 5.200,00 (cf. Id. n. 85625466), e “print” de trecho de conversa que a filha da agravante manteve com a agravada pelo aplicativo whatsapp:
+Não há prova efetiva da celebração do contrato de compra e venda, e nem da transferência de valores em favor dos agravados. Há apenas prova de que, após a alegada data da celebração verbal do contrato (dezembro de 2016), a agravante transferiu para a conta do filho da proprietária, que na época era casado com a agravada, o valor de R$ 5.200,00, e que, depois disso, em data não mencionada, a filha da agravante entrou em contato com a agravada, questionando o desfazimento da venda da casa, quando então a agravada respondeu apenas que o advogado dela entraria em contato com a autora.
+Embora nenhuma das partes tenham apresentado prova suficiente da existência ou não do contrato de compra e venda, negócio que teria justificado a interrupção no pagamento do valor dos alugueis, a tese da agravante analisada juntamente com o print da mensagem enviada para a agravada é relevante, e neste primeiro momento, suficiente para obstar os efeitos da decisão agravada, até que a dilação probatória permita que a questão seja devidamente esclarecida, pois nessa situação, a não concessão do efeito suspensivo realmente poderá causar lesão grave à agravante.
+Assim, admito a interposição recursal tal como efetivada (CPC, art. 1.019), de modo que recebo e autorizo o processamento do agravo por instrumento, e DEFIRO o pedido de atribuição de efeito suspensivo ao recurso, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se os agravados, na forma do art. 1.019, II, do CPC, para que respondam no prazo de 15 (quinze) dias.
+Cuiabá-MT, 07 de junho de 2021.
+Des. JOÃO FERREIRA FILHO
+Relator
