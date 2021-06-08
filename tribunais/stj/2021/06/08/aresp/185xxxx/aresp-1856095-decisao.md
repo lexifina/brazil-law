@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Banco da Amazônia S.A., com fundamento no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 260):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. PESSOA JURÍDICA EXTINTA. AUSÊNCIA DE PERSONALIDADE JURÍDICA. SENTENÇA MANTIDA. RECURSO CONHECIDO E IMPROVIDO. DECISÃO UNÂNIME. 1- Compulsando os autos observa-se que a empresa apelada é pessoa jurídica regularmente baixada em 2009 (evento 33 dos autos originários - CNPJ). Dessa forma, é certo que a empresa se encontra desprovida de personalidade jurídica o que a impossibilita de se apresentar como sujeito de direitos, inclusive processuais.
+2- As pessoas jurídicas podem ser partes, desde que regularmente constituídas. De outro vértice, segundo a doutrina, a capacidade de atuar em juízo constitui pressuposto processual. Os pressupostos de existência válida ou de desenvolvimento regular do processo, por sua vez, dividem se em subjetivos e objetivos. Entre os primeiros está a competência do juiz para a causa; a capacidade civil das partes e sua representação por advogado.
+3- Na hipótese dos autos, verifica-se que houve baixa do CNPJ da empresa autora junto à Receita Federal. De acordo com o artigo45 do Código Civil, a existência legal das pessoas jurídicas de direito privado tem início com a inscrição do ato constitutivo no respectivo registro, ao passo que, sua extinção, se dá com o cancelamento da inscrição, após a dissolução (art. 51, § 3º, CC).
+4- Assim, havendo a baixa da sociedade mercantil no órgão competente, cessa-se a capacidade civil daquela, que se consubstancia pela aptidão de ser titular de direitos e contrair obrigações. Em conseqüência, aquela entidade jurídica deixa de existir legalmente e tem fim sua capacidade processual.
+5- Sentença mantida. Apelo conhecido e improvido. Decisão unânime.
+Nas razões do apelo especial (e-STJ, fls. 264-290), orecorrentealegou a violação dos arts. 245,278, 284, 285 e338do Código de Processo Civil de 2015; e 301 do Código de Processo Civil de 1973, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que a nulidade de atos processuais deve ser alegada na primeira oportunidade, acrescentando que "não poderia nesse momento processual ter sido extinta ação, especialmente quando há precedentes jurisprudenciais divergentes sobre a matéria. Após defesa da parte que alegou exclusivamente nulidade do edital".
+Foram apresentadas contrarrazões (e-STJ, fls. 305-317).
+O Tribunal de origem não admitiu o processamento do recurso especial ante a falta de prequestionamento, aplicando-se a Súmula n. 282/STF; e a ausência de comprovação do dissídio jurisprudencial alegado(e-STJ, fls. 325-329).
+Brevemente relatado, decido.
+Com efeito, à luz da dialeticidade recursal, a parte agravante deve contestar motivadamente todos os fundamentos da decisão agravada, não sendo suficiente a apresentação de afirmações genéricas ou em sentido contrário ao julgado impugnado, nem a mera reiteração de argumentos já examinados por ocasião do julgamento do recurso anteriormente interposto (v.g. AgInt no AREsp n. 884.901/SP, Relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 17/5/2016, DJe 27/5/2016; AgRg no AREsp n. 773.710/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 10/5/2016, DJe 17/5/2016; AgRg no Ag n. 1.056.913/SP, Relatora Ministra Eliana Calmon, Segunda Turma, julgado em 6/11/2008, DJe 26/11/2008).
+Nessa linha de intelecção, o entendimento desta Corte é no sentido de que a parte recorrente deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge especificamente contra todos eles.
+A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. DUPLO JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO VINCULAÇÃO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA E DOS ARTIGOS 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO CONHECIDO.
+1. "O recurso especial sofre um duplo juízo de admissibilidade, não estando vinculado ao juízo de admissibilidade do Tribunal de origem" (AgRg no AREsp 395.588/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7/11/2013, DJe 21/11/2013).
+2. Constitui ônus da parte agravante a impugnação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade. Incidência da Súmula n. 182 do Superior Tribunal de Justiça e aplicação dos artigos 932, III, e 1.021, § 1º, do estatuto processual civil de 2015. Precedentes.
+3. Agravo interno não conhecido.
+(AgInt nos EDcl no REsp n. 1.810.291/AM, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/6/2020, DJe 3/8/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC. FIXAÇÃO DE HONORÁRIOS RECURSAIS. NECESSIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art.
+932, III, do NCPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 7 do STJ).
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.595.537/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/5/2020, DJe 20/5/2020).
+No caso em exame constata-se que a parte agravante não procedeu à impugnação específica de todos os argumentos mencionados pela Corte estadual para inadmitir o apelo especial.
+Incontestável, portanto, que não houve impugnação específica da decisão ora agravada, circunstância que impede o conhecimento do agravo, conforme o disposto pelo art. 932, III, do CPC/2015.
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários fixados na origem para 15% sobre o valor da causa.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. AÇÃO DE COBRANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
