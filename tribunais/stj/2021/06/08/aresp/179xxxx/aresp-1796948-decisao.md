@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por CLEIRI DE LOURDES MARINS SOUTO contra decisão do Tribunal de Justiçado Estado do Paraná, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 303):
+APELAÇÃO CÍVEL. AÇÃO PREVIDENCIÁRIA. PENSÃO POR MORTE.INDEFERIMENTO EXPRESSO DO BENEFÍCIO NA VIA ADMINISTRATIVA. AJUIZAMENTO DA AÇÃO DECORRIDO PRAZO SUPERIOR A CINCO ANOS DA DECISÃO ADMINISTRATIVA.PRESCRIÇÃO DO FUNDO DE DIREITO CONFIGURADA. ART. 1º DO DECRETO 20.910/32. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. SENTENÇA CONFIRMADA. HONORÁRIOS RECURSAIS.ART. 85, § 11, DO CPC. FIXAÇÃO. RECURSO NÃO PROVIDO.
+(..) III. Recentemente, a Primeira Seção desta Corte, em sessão realizada em 13/03/2019, nos autos dos EREsp 1.269.726/MG (Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, DJe de 20/03/2019), examinou a questão, para reconhecer que "o pedido de concessão do benefício de pensão por morte deve ser tratado como uma relação de trato sucessivo, que atende necessidades de caráter alimentar, (..).
+Assim, não havendo óbice legal a que se postule o benefício pretendido em outra oportunidade, o beneficiário pode postular sua concessão quando dele necessitar".
+IV. (..) V. Diversamente é o caso em que há indeferimento do pedido administrativo de pensão por morte - o que não ocorreu, no caso -, pois, em tal situação, o interessado deve submeter ao Judiciário, no prazo de cinco anos, contados do indeferimento, a pretensão referente ao próprio direito postulado, sob pena de ser (STJ-2ª Turma, AgInt no REsp 1.799.276/PA, Rel. ele fulminado pela prescrição." Ministra Assusete Magalhães, j. 03/12/2019, DJe 11/12/2019)
+Rejeitados os aclaratórios (e-STJ fls. XXX).
+No especial obstaculizado, a parte recorrente, além de divergência jurisprudencial, apontou violação doart. 3º do Decreto n. 20.910/1932, sustentando a nãoaplicaçãodeprescrição oudecadência a fulminar o fundo de direito no caso dos autos.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo os fundamentos sido impugnados no presente agravo.
+Contraminuta às e-STJ fls. 644/653.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Com efeito, esta Corte Superior entende que, nas hipóteses de demanda em que se busca pensão por morte, não há que se falar na prescrição do fundo de direito, exceto quando a Administração tiver negado o próprio direito buscado, como ocorreu no caso concreto.Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MILITAR. PENSÃO POR MORTE. REPETIÇÃO DE INDÉBITO.RESTITUIÇÃO DE VALORES DESCONTADOS. COISA JULGADA. SÚMULA 7/STJ.PRESCRIÇÃO. ATO OMISSIVO CONTINUADO DA ADMINISTRAÇÃO PÚBLICA. SÚMULA 85/STJ.
+1. Trata-se, na origem, de ação de repetição de indébito proposta com o objetivo de obter a restituição dos valores descontados de pensão militar.
+2. No que se refere à coisa julgada, a Corte de origem assim pronunciou: "Nessa quadra, a configuração da coisa julgada, in casu, esbarra no pedido. Conforme claramente se verifica, nos autos da ação 2002.71.11.001343-9, não houve pedido de restituição dos valores indevidamente descontados da pensão por morte da autora no período de julho de 2003 a novembro de 2007. Aliás, nem poderia ter havido pedido restituitório, uma vez que os descontos destacados no interregno acima (7/3 a 11/7) são supervenientes ao ajuizamento daquela ação judicial (2002)."
+3. Para afastar o entendimento a que chegou a Corte de origem é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+4. No que se refere à prescrição, a posição adotada pelo Tribunal de origem está em harmonia com a jurisprudência do STJ de que, "nas discussões de recebimento de vantagens pecuniárias em que não houve negativa inequívoca do próprio direito reclamado, tem-se relação de trato sucessivo, aplicando-se a Súmula 85/STJ, que prevê a prescrição apenas em relação ao período anterior aos cinco anos da propositura da ação" (AgInt no AREsp 859.401/DF, Rel. Min. Humberto Martins, Segunda Turma, DJe 30/8/2016).
+5. Agravo interno a que se nega provimento.
+(AgInt REsp 1.534.035/RS, Rel. Min. OG FERNANDES, Segunda Turma, DJe 08/06/2020).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO INTERNO EM RECURSO ESPECIAL. PENSÃO POR MORTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015.INEXISTÊNCIA. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA.
+1. Não ocorreu omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Inexistindo nos autos notícia de que o pedido de pensionamento por invalidez permanente tenha sido negado pela Administração, em momento anterior ao requerimento administrativo formulado pelo autor, e, ainda, sendo incontroverso que entre a data do indeferimento desse requerimento e o ajuizamento da subjacente ação ordinária não se passaram mais de 5 (cinco) anos, não há se falar em prescrição do próprio fundo de direito.
+3. Agravo interno não provido.
+(AgInt AgInt REsp 1.735.709/RS, Rel. Min. SÉRGIO KUKINA, Primeira Turma, DJe 03/10/2019).
+O aresto hostilizado não diverge daorientação aludida.
+Assim, aplica-se, na hipótese, a Súmula 83 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
