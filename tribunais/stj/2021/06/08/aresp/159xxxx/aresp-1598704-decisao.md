@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por JOSÉ MAZARIM e OUTROS, contra decisão do Tribunal de Justiça do Estado de Mato Grosso do Sul, que não admitiu recurso especialcom respaldonaalínea"a"do permissivo constitucionalo qual desafia acórdãoassim ementado (e-STJ fl. 244):
+E M E N T A - APELAÇÃO CÍVEL - LIQUIDAÇÃO DE SENTENÇA - PRELIMINAR DE INÉPCIA RECURSAL - AFASTADA - NECESSIDADE DE LIQUIDAÇÃO DO TÍTULO - PRESCRIÇÃO AFASTADA - ILEGITIMIDADE ATIVA - AUTOR QUE NÃO INTEGRA O GRUPO MAGISTÉRIO - CARÊNCIA DE AÇÃO RECONHECIDA - EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO - RECURSO PARCIALMENTE PROVIDO.
+Não há que se falar em inépcia recursal quando o recurso fala acerca das razões para pleitear a modificação da sentença.
+Nas relações jurídicas que versam pretensão de direito em face da Fazenda Pública, o artigo 1º do Decreto 20.910/32 instituiu o prazo prescricional de cinco anos, que se inicia a partir da data do ato ou do fato que deu origem ao dano discutido, logo, quando finda a liquidação, que é entendida como extensão da fase cognitiva. Precedentes.
+A ação coletiva movida pela Federação dos Trabalhadores em Educação de Mato Grosso do Sul (FETEMS) pleiteou a condenação do Estado de Mato Grosso do Sul ao pagamento da quantia despendida pelos servidores do grupo magistério, a título de custos operacionais dos empréstimos (taxas do próprio contrato, juros, IOF), que foram descontados dos valores repassados aos servidores. Conforme se verifica, para pleitear a execução da sentença coletiva genérica basta que a parte demonstre integrar o grupo magistério. Analisando detidamente os autos, verifica-se que um(ns) dos liquidantes não integra(m) o grupo magistério, logo, não se enquadra(m) no rol previsto na ação coletiva.
+Parcialmente provido o recurso.
+Embargos de declaração rejeitados (e-STJ fls. 283/287 e292/300).
+Em suas razões, a parte recorrente aponta violação dosarts. 502 do CPC/2015, porquanto que a "sentença meritória proferida nos autos da ação coletiva proposta pela FETEMS - Federação dos Trabalhadores em Educação do Estado de Mato Grosso do Sul -, consiste em condenação genérica, de abrangência regional, alcançado todos os filiados ou não filiados aos sindicatos associados à respectiva entidade" (e-STJ fl. 351).
+Defende que, "conforme revela os próprios contracheques trazidos pelos embargantes, os mesmos estão lotadas na Secretaria de Estado de Educação" (e-STJ fl. 352), bem como que, segundo o art. 2º da LC n. 87/2000, "as atribuições da Educação Básica não são limitadas apenas ao professor, mas também a todos os outros profissionais que trabalham para a Educação Básica, dentro da unidade escolar" (e-STJ fl. 353).
+Contrarrazões às e-STJ fls. 389/392.
+Passo a decidir.
+Feito esse registro, observa-se que não merece prosperar a presente irresignação.
+Extrai-se do aresto atacado que (e-STJ fl. 249):
+Na ação coletiva que ensejou a presente liquidação de sentença, a Federação dos Trabalhadores em Educação de Mato Grosso do Sul (FETEMS) pleiteou a condenação do Estado de Mato Grosso do Sul ao pagamento da quantia despendida pelos servidores do grupo magistério, a título de custos operacionais dos empréstimos (taxas do próprio contrato, juros, IOF), que foram descontados dos valores repassados aos servidores.
+Conforme se verifica, para pleitear a execução da sentença coletiva genérica basta que a parte demonstre integrar o grupo magistério.
+Analisando detidamente os autos, verifica-se que os liquidantes Antônio Cirelle, José Cirelle e Maria Creuza Sant"ana Vasconcelos exercem a função de auxiliar de portaria, auxiliar de limpeza e auxiliar de administração respectivamente, logo, não se enquadra no rol previsto na ação coletiva, exclusivo aos servidores estaduais ativos e inativos integrantes do grupo magistério e, portanto, não possui o direito pleiteado nesta liquidação.
+Nesse contexto, a revisão doentendimento do aresto hostilizado, a fim de acolher as teses da parterecorrente, esbarra no óbice da Súmula 7 doSTJ e da Súmula 280 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMPRÉSTIMO COMPULSÓRIO SOBRE O CONSUMO DEENERGIA ELÉTRICA. EMBARGOS À EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. CORREÇÃOMONETÁRIA E JUROS DE MORA. LIMITES DA COISA JULGADA.SÚMULA 7 DO STJ.
+ ..
+3. A alteração da conclusão das instâncias ordinárias sobre a correção doscálculos apresentados pela contadoria judicial importaria em reexame deprovas, o que é vedado no âmbito do recurso especial, sob pena de violação
+à Súmula 7 do STJ.
+(AgRg no REsp 1.239.718/SC, Rel. Ministro GURGEL DE FARIA, Primeira Turma,DJe 13/12/2017).
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA.REAJUSTE DA TABELA DO SUS. ALEGAÇÃO DE DESRESPEITO À COISA JULGADA.REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO PRODUZIDO NOS AUTOS. SÚMULA7/STJ.
+1. O Tribunal regional consignou: "atualmente, é no sentido de que opagamento do reajuste das tabelas do SUS, determinado pela AçãoCivil Pública nº 1999.71.00.021045-6, deve obedecer o limitetemporal de novembro de 1999, em vista de expressa disposição dotítulo executivo. A matéria restou bem analisada pela Juíza FederalSalise Monteiro Sanchotene na AC 5066071-96.2014.404.7100/RS, cujosfundamentos transcrevo abaixo" (fl. 24, e-STJ).
+2. Por sua vez, a recorrente alega: "Ao contrário do que manifestoua decisão ora recorrida, não há coisa julgada nos presentes autosdeterminando o pagamento dos reajustes dos procedimentos para apósout/1999" (fl. 74, e-STJ).
+3. Para alterar a conclusão a que chegou a Corte a quo sobre olimite e o alcance da coisa julgada na hipótese dos autos, énecessário reexame de provas, impossível ante o óbice da Súmula 7 doSTJ.
+4. O Superior Tribunal de Justiça possui orientação no sentido deque, em caso de sentença proferida em data posterior à publicação daPortaria 1.323/1999 do Ministério da Saúde, situação que ocorre naespécie, o pedido de limitação temporal de aplicação do índice de 9,56% apresentado somente na fase de execução ofende a coisa julgada,uma vez que foi concedida às partes a oportunidade de enfrentamentode todas as teses de formação do título judicial.
+5. Agravo Interno não provido. (AgInt REsp 1.811.078/RS, Min. Rel. HERMAN BENJAMIN, Segunda Turma, DJe 28/08/2020)
+Nesse ponto, incide a Súmula 83 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nostermos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se
