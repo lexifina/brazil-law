@@ -1,0 +1,36 @@
+D E C I S Ã O
+    Cuida-se de recurso extraordinário interposto, com fundamento em permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo que, em controle concentrado de constitucionalidade, julgou improcedente o pedido inicial em razão de não estar configurada a inconstitucionalidade do diploma legislativo questionado. Eis a síntese do julgado:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE – LEI Nº 10.118, DE 07 DE FEVEREIRO DE 2020, MUNICÍPIO DE PRESIDENTE PRUDENTE QUE INSTITUI NOVAS REGRAS PARA A CONTRIBUIÇÃO DE ILUMINAÇÃO PÚBLICA (CIP) - (…) NORMA QUE DISCIPLINA TEMA DE DIREITO TRIBUTÁRIO – COMPETÊNCIA LEGISLATIVA CONCORRENTE - (…) - NORMA QUE NÃO CRIA OBRIGAÇÕES OU AUMENTO DE DESPESA AO PODER PÚBLICO – ARTIGO 113 DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS QUE NÃO SE APLICA AOS MUNICÍPIOS – DISPOSITIVO QUE IMPÕE REQUISITO PARA PROJETOS DE LEIS FEDERAIS, RESTRITO AO NOVO REGIME FISCAL DA UNIÃO – PRECEDENTES – AÇÃO JULGADA IMPROCEDENTE.”
+    Em suas razões recursais, a recorrente alega que a manutenção da decisão a quo viola o art. 29, caput, da Constituição Federal, e o art. 113 do ADCT, sustentando, em suma, a inconstitucionalidade da Lei nº 10. 118/2020 do Município de Presidente Prudente que institui novas regras para a Contribuição de Iluminação Pública – CIP.
+    É o relatório. Decido.
+    Reputo inadmissível o recurso extraordinário.
+    De início, importante pontuar que a matéria articulada nas razões recursais quanto à suposta ofensa ao art. 29 da Constituição Federal não foi debatida no acórdão recorrido, tampouco suscitada mediante embargos de declaração, a atrair os óbices dos Enunciados 282 e 356 da Súmula/STF , consoante tem proclamado a jurisprudência do Supremo Tribunal Federal (ARE 1.164.481-AgR/BA , Ministra Rosa Weber; ARE 1.282.492-AgR/RJ, Ministro Luiz Fux; ARE 1.297.394-AgR/SP, Ministro Luiz Fux):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIMINAL. AUSÊNCIA DE PREQUESTIONAMENTO EXPLÍCITO . SÚMULAS 282 E 356 DO STF . DEFICIÊNCIA NA FUNDAMENTAÇÃO DO APELO EXTREMO. SÚMULA 284 DO STF. AGRAVO REGIMENTAL DESPROVIDO.
+    1 . A matéria constitucional invocada no recurso extraordinário não foi apreciada pelo acórdão recorrido e tampouco foram opostos embargos de declaração a fim de suscitá-la. Súmulas 282 e 356 do STF . Inadmissível o prequestionamento implícito. Precedentes.
+    2. Ausência de demonstração, nas razões do apelo extremo, de que forma o acórdão recorrido teria violado os dispositivos constitucionais dados como contrariados, o que inviabiliza a sua análise, nos termos da Súmula 284 do STF.
+    3. Agravo regimental a que se nega provimento.”
+    (ARE 1.235.044-AgR/PR , Ministro Edson Fachin com meus grifos)
+    Para além disso, acha-se, também, incabível o presente apelo extremo eis que o mesmo invoca como paradigma de confronto norma constitucional federal (art. 113 do ADCT) que não qualifica-se como mandamento de reprodução obrigatória por parte dos Estados-membros.
+     Em casos fronteiriços, há, entre muitos outros, os seguintes precedentes de ambas as Turmas do Supremo Tribunal Federal: RE 246.903-AgR/SC, Segunda Turma, Ministro Ricardo Lewandowski; RE 353.350- AgR/ES, Segunda Turma, Carlos Velloso; RE 588.426-AgR/RJ, Primeira Turma, Ministro Luiz Fux; AI 694.299-AgR/RJ, Primeira Turma, Ministro Dias Toffoli. cujas ementas transcrevo, respectivamente, abaixo:
+    “AGRAVOS REGIMENTAIS EM RECURSO EXTRAORDINÁRIO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE DE LEI MUNICIPAL EM FACE DE CONSTITUIÇÃO ESTADUAL. ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO APENAS SE ESTIVER EM JOGO QUESTÃO QUE ENVOLVA NORMA DA CONSTITUIÇÃO FEDERAL DE REPRODUÇÃO OBRIGATÓRIA PELOS ESTADOS MEMBROS. CONTROVÉRSIA QUE SE RESOLVEU NO ÂMBITO LOCAL. AGRAVOS AOS QUAIS SE NEGA PROVIMENTO.
+    I – Tratando-se de ação direta de inconstitucionalidade da competência do Tribunal de Justiça local – lei estadual ou municipal em face da Constituição estadual –, somente é admissível o recurso extraordinário diante de questão que envolva norma da Constituição Federal de reprodução obrigatória na Constituição estadual.
+    II – Agravos regimentais aos quais se nega provimento.”
+    “CONSTITUCIONAL. AÇÃO DIRETA. LEI MUNICIPAL. CONTROLE CONCENTRADO: TRIBUNAL DE JUSTIÇA ESTADUAL. C.F., art. 125, § 2º. SERVIDOR PÚBLICO: PROCESSO LEGISLATIVO. C.F., art. 61, § 1º, II, c.
+    I. – Tratando-se de ação direta de inconstitucionalidade da competência do Tribunal de Justiça local - lei estadual ou municipal em face da Constituição estadual - somente a questão de interpretação de norma central da Constituição Federal, de reprodução obrigatória na Constituição estadual, é que autoriza a admissão do recurso extraordinário.
+    II. – Leis que disponham sobre servidores públicos do Poder Executivo são de iniciativa reservada ao Chefe do Poder Executivo (C.F., art. 61, § 1º, II, c).
+    III. – Negativa de trânsito ao RE. Agravo não provido.”
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE PERANTE O TRIBUNAL DE JUSTIÇA LOCAL. LEI MUNICIPAL. CONTROLE ABSTRATO DE CONSTITUCIONALIDADE. AUSÊNCIA DE DEMONSTRAÇÃO DO PARÂMETRO DE CONTROLE NORMATIVO LOCAL QUE CORRESPONDE À NORMA DA CONSTITUIÇÃO FEDERAL DE OBSERVÂNCIA OBRIGATÓRIA PELOS DEMAIS ENTES INTEGRANTES DA FEDERAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+    1. O recurso extraordinário de ação direta de inconstitucionalidade estadual ou distrital somente é admitido quando o parâmetro de controle normativo local corresponder a norma da Constituição Federal de observância obrigatória pelos demais entes integrantes da Federação. Assim, é pressuposto de cabimento do recurso extraordinário interposto contra acórdão prolatado em ação direta, a demonstração de qual norma de repetição obrigatória inserida na Constituição local foi violada. Precedentes: RCL nº 383, Plenário, Relator o Ministro Moreira Alves, DJ de 21/05/1993; RCL nº 596-AgR, Plenário, Relator o Ministro Néri da Silveira, Plenário, DJ de 14/11/1996.
+    2. Ademais, ao julgar a ADI nº 3.225/RJ, esta Corte declarou constitucional o artigo 112, § 2º, da Constituição do Estado do Rio de Janeiro.
+    3. Agravo regimental a que se nega provimento.”
+    “Agravo regimental no agravo de instrumento. Representação de inconstitucionalidade de lei municipal em face de Constituição estadual. Ausência de normas de reprodução obrigatória. Incidência da Súmula nº 280/STF. Precedentes.
+    1. Para que seja admissível recurso extraordinário de ação direta de inconstitucionalidade processada no âmbito do Tribunal local, é imprescindível que o parâmetro de controle normativo local corresponda à norma de repetição obrigatória da Constituição Federal.
+    2. Inadmissível, em recurso extraordinário, a análise da legislação local. Incidência da Súmula nº 280 do Supremo Tribunal Federal.
+    3. Agravo regimental a que se nega provimento.”
+    Honorários advocatícios recursais.
+    Ao fundamento de referir-se a recurso interposto em processo de controle concentrado de constitucionalidade na origem, não se aplica o disposto no § 11 do art. 85 do CPC.
+    Em face do exposto, com amparo no inciso VIII do art. 932 do CPC c/c o § 1° do art. 21 do RISTF, nego provimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 08 de junho de 2021.
+Ministro NUNES MARQUES
+Relator
