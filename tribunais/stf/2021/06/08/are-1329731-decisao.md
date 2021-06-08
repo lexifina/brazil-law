@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. DIREITO ADMINISTRATIVO. SERVIDORA ESTADUAL INATIVA. PRETENSÃO DE ADEQUAÇÃO DE SEUS PROVENTOS CONFORME PISO SALARIAL NACIONAL PARA A CATEGORIA DE MAGISTÉRIO E REFLEXOS NO PLANO DE CARREIRA PREVISTO EM LEGISLAÇÃO ESTADUAL, COM O PAGAMENTO DAS DIFERENÇAS DEVIDAS.
+    SENTENÇA DE PARCIAL PROCEDÊNCIA.
+    IRRESIGNAÇÃO DOS RÉUS QUE MERECE PARCIAL ACOLHIDA.
+    CONSTITUCIONALIDADE DA LEI FEDERAL Nº 11.738/2008 RECONHECIDA PELA CORTE SUPREMA NA ADI 4.167, CONSIGNANDO A APLICAÇÃO DO PISO PROFISSIONAL NACIONAL ESTABELECIDO PARA AS CARREIRAS DO MAGISTÉRIO PÚBLICO DA EDUCAÇÃO BÁSICA AO VENCIMENTO INICIAL E NÃO À REMUNERAÇÃO GLOBAL, A CONTAR DE 27/04/2011.
+    ENTENDIMENTO CONSOLIDADO NO SUPERIOR TRIBUNAL DE JUSTIÇA, SOB A ÉGIDE DOS RECURSOS REPETITIVOS, NO SENTIDO DA INCIDÊNCIA AUTOMÁTICA EM TODA A CARREIRA E REFLEXO IMEDIATO SOBRE AS DEMAIS VANTAGENS E GRATIFICAÇÕES, ACASO PREVISTO NA LEGISLAÇÃO LOCAL. RESP Nº 1.426.210/RS.
+    PLANO DE CARREIRA DO MAGISTÉRIO ESTADUAL QUE ESTABELECE O ESCALONAMENTO DOS NÍVEIS REFERENCIAIS DA PROFISSÃO, MEDIANTE OBSERVÂNCIA DO INTERSTÍCIO DE 12% ENTRE AS REFERÊNCIAS, CONSIDERANDO O VENCIMENTO BÁSICO INICIAL. INTELIGÊNCIA DO ART. 2º DA LEI Nº 1.614/1990 C/C ART. 3º DA LEI Nº 5.539/2009. EXTENSÃO AOS SERVIDORES INATIVOS. ART. 2º, § 5º, DA LEI FEDERAL Nº 11.738/2008. PRECEDENTES DO TJRJ.
+    CORREÇÃO MONETÁRIA. QUESTÃO EXAMINADA PELO SUPREMO TRIBUNAL FEDERAL, NO JULGAMENTO DO RE 870.947/SE SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. EMBARGOS DECLARATÓRIOS OPOSTOS NO ÂMBITO DO RECURSO CONSTITUCIONAL QUE FORAM RECEBIDOS COM EFEITO SUSPENSIVO, NA FORMA DO ART. 1.026, § 1º, DO CPC. INCIDÊNCIA DA TR ATÉ ULTERIOR DELIBERAÇÃO DA SUPREMA CORTE SOBRE O TEMA.
+    SENTENÇA ILÍQUIDA. FIXAÇÃO DOS HONORÁRIOS QUE DEVE SE DAR POR OCASIÃO DA LIQUIDAÇÃO DO JULGADO. INTELIGÊNCIA DO ART. 85, §§ 3º E 4º, II, DO CPC.
+    REFORMA EM PARTE DA SENTENÇA QUE SE IMPÕE.
+    RECURSO A QUE SE DÁ PARCIAL PROVIMENTO.
+    Decido.
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Sobre o tema, os seguintes precedentes:
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. OFENSA CONSTITUCIONAL REFLEXA.1.Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 2. Agravo Interno a que se nega provimento” (RE nº 1.169.266/RS-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 13/2/19).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE ADMISSIBILIDADE. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo.II – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 8° e § 11, do CPC. III – Agravo regimental a que se nega provimento, com aplicação de multa” (ARE nº 1.161.422/SP-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 6/12/18).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR. APOSENTADORIA. REVISÃO. PREQUESTIONAMENTO. AUSÊNCIA. VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. 1. É inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo acórdão recorrido, em decorrência da ausência do requisito processual do prequestionamento. Súmula 282 do STF. 2. É inviável o processamento do apelo extremo quando a ofensa a dispositivo constitucional se dá de maneira reflexa e indireta, pois requer o exame prévio da orientação firmada sobre tese infraconstitucional pela instância ordinária. 3. Agravo regimental a que se nega provimento” (ARE nº 939.243/SP-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 7/4/16).
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 8 de junho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
