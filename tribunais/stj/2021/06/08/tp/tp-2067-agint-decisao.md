@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interno interposto por JOSE PUPIN AGROPECUÁRIA - EM RECUPERAÇÃO JUDICIAL e VERA LUCIA CAMARGO PUPIN - EM RECUPERAÇÃO JUDICIALcontra decisão do eminente Ministro MARCO BUZZI, proferida em 15 de maio de 2019, que deferiu o pedido de contracautela formulado pelo BANCO JOHN DEFERE S/A, para revogar o efeito suspensivo conferido pela Vice-Presidência do Tribunal de Justiça do Estado de Mato Grossoao recurso especial interposto pelos ora Agravantes (REsp nº 1.810.379/MT).
+Os Agravantes postulam a reconsideração da decisão agravada ou sua reforma pela Turma Julgadora, a fim de restabelecer a liminar anteriormente concedida no TJMT, agregando efeito suspensivo ao recurso especial respectivo, diante da presença dos requisitos autorizadores da tutela de urgência.
+Os autos vieram conclusos a este Relator, em 19 de maio de 2021, em razão de despacho do então Relator, Ministro MARCO BUZZI, que determinou a redistribuição do feito, em razão da redistribuição do processo principal (REsp nº 1.810.379/MT) - fl. 621 (e-STJ).
+É o relatório. Decido.
+Supervenientemente à prolação da decisão ora agravada, sobreveio decisão, em 03 de outubro de 2019, da lavra do eminenteMinistro MARCO BUZZI, no REsp nº 1.810.379/MT, que deferiu o efeito suspensivo ao recurso especial interposto pelos ora Agravantes, determinando, como consequência, a suspensão do mandado de apreensão expedido pelo Juízo de Direito da 1ª Vara Cível da Comarca de Campo Verde/MT nos autos do Processo nº 7.224-23.2018.811.0051, estendida aos Processos nº 2047-49.2016.811.0051 e Processo nº 4029-50.2017.811.0051.
+Nessa linha, verifica-se aperda de objeto, tendo em vista que a cautela que buscavam os Agravantes restou resguardada no REsp nº 1.810.379/MT, não subsistindo mais interesse na medida postulada.
+Diantedo exposto, com fundamento no artigo 34, XI, do RISTJ, julgoprejudicadaa presente tutela provisória pela superveniente perda de objeto.
+Publique-se.
