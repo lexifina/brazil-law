@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. PRISÃO PREVENTIVA. WRIT NÃO CONHECIDO. REVOGAÇÃO DA CUSTÓDIA. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES PREVISTAS NO ART. 319 DO CPP. NÃO CABIMENTO. ACRÉSCIMO DE FUNDAMENTO PELO TRIBUNAL DE ORIGEM. NÃO SUPRIMENTO DE MOTIVAÇÃO DO DECRETO RPEVENTIVO.DESPROPORCIONALIDADEDA PRISÃO PREVENTIVA. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prisão preventiva é cabível mediante decisão fundamentada em dados concretos quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+2. Tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas.
+3. A simples menção do tribunal de origema inquérito em andamento que investigaconduta deacusado não caracteriza suprimento convalidante damotivação de decisão que, ao decretara prisão preventiva,demonstraconcretamente o preenchimento dosrequisitos legais para a imposição da medida.
+4.A desproporcionalidade da prisão preventiva somente poderá ser aferida após a sentença, não cabendo, na via estreita do habeas corpus, a antecipação da análise da possibilidade de cumprimento de pena em regime menos gravoso que o fechado.
+5. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCOS MACIEL CRUZ DE SOUSA contra a decisão de fls. 135-137, que não conheceu do habeas corpus.
+O agravante encontra-se preso preventivamente, em razão de decreto expedido nos autos deação penal em que foi denunciado por ter supostamente praticado os delitos tipificados nos arts. 171, caput, e 304, c/c o art. 14, II, todos do Código Penal (fls. 22-26).
+No presente agravo,alega que a decisão que decretou a prisão preventiva é ilegal por ser desproporcional, além de não ter demonstrado a insuficiência de outras medidas menos gravosas que a preventiva.
+Registra que o acórdão que manteve a prisão preventiva utilizou-se de fundamentos não contidos na decisão do Juízo de origem, "buscando fundamentarindicando o "processo nº 4580/2018, na Central de Inquéritos e Custódia da Comarca de Imperatriz/MA"suprimindo a ausente motivação do Juízo natural" (fl. 147).
+Requer o provimento do agravo regimental.
+Às fls. 173-180, apresenta pedido de reconsideração da decisão de fls. 135-137, reiterando as razões do agravo regimental e anexando documentos.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo regimental (fls. 183-187).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. PRISÃO PREVENTIVA. WRIT NÃO CONHECIDO. REVOGAÇÃO DA CUSTÓDIA. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES PREVISTAS NO ART. 319 DO CPP. NÃO CABIMENTO. ACRÉSCIMO DE FUNDAMENTO PELO TRIBUNAL DE ORIGEM. NÃO SUPRIMENTO DE MOTIVAÇÃO DO DECRETO RPEVENTIVO.DESPROPORCIONALIDADEDA PRISÃO PREVENTIVA. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prisão preventiva é cabível mediante decisão fundamentada em dados concretos quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+2. Tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas.
+3. A simples menção do tribunal de origema inquérito em andamento que investigaconduta deacusado não caracteriza suprimento convalidante damotivação de decisão que, ao decretara prisão preventiva,demonstraconcretamente o preenchimento dosrequisitos legais para a imposição da medida.
+4.A desproporcionalidade da prisão preventiva somente poderá ser aferida após a sentença, não cabendo, na via estreita do habeas corpus, a antecipação da análise da possibilidade de cumprimento de pena em regime menos gravoso que o fechado.
+5. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+Com efeito, a prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi comprovado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+Como bem expôs o Tribunal a quo,o decreto preventivo encontra-se concretamente fundamentado em informações anexadas aos autos, entre as quais asque integram a delação feita pelo corréu Tennilton Pereira de Souza,que apontou o agravante "como participante ativo de organização criminosa voltada à prática de infrações contra instituições financeiras, em ações planejadas e com tarefas definidas, a demonstrar a efetiva necessidade da segregação cautelar, para fins de resguardar a ordem pública, conforme consta da peça acusatória anexada ao ID nº 3245707, pág. 6-14" (fls. 67-69).
+Ademais, reportando-se à decisão de primeiro grau, o colegiado destacou a existência do periculum libertatis e do fumus comissi delicti e a necessidade de decretação da prisão paragarantia da ordem pública.
+Diante disso, o TJMA demonstrou, de forma fundamentada, a necessidade de manutenção da prisão preventiva, não havendo falar em constrangimento ilegal decorrente da justificada impossibilidade de substituiçãopor medidas cautelares alternativas.
+Ressalte-se ainda que o Tribunal a quo tratou, motivadamente, da inaplicabilidade das medidas previstas no art. 319 do CPP, o que se coaduna com o entendimento do STJde que, tendo a necessidade da prisão preventiva sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+A simples menção do relator na origem a procedimento investigativo, sem que isso seja suprimentode fundamentos utilizados na decisão que decretou a preventiva, não caracteriza ilegalidade apta a justificar a nulidade da decisão primeva.
+No caso, o relator apenas fazreferência aoProcesso n.4580/2018da Central de Inquéritos e Custódia da Comarca de Imperatriz (MA), sem agregar fundamentos à decisão proferida pelo Juízo de primeiro grau que decretaraapreventiva com base no preenchimento dos requisitos legais do Código de Processo Penal.
+Não se ignora entendimento do Superior Tribunal de Justiça de que "o Tribunal de origem não pode suprir a ausência de motivação do decreto prisional proferido pelo juiz singular, sob pena de o habeas corpus servir de vetor convalidante do encarceramento ilegal"(RCD no HC n.555.929/SP, relatorMinistro Nefi Cordeiro, Sexta Turma, DJe de16/3/2020).
+No caso, como já se ressaltou, o decreto preventivo (fls. 22-26) fundamentou-se em vários elementos dos autos,como emdados telefônicos e na delação promovida pelo córreuTennilton Pereira de Souza. De forma fundamentadae com demonstração dopreenchimento dos requisitos do art.312 do CPP, o decreto preventivo expôs suficientementea necessidade da prisão cautelar.
+Assim, apesar de o acórdão ter feitoreferência ao Inquériton.4580/2018, ao qual responde o agravante, não há como concluir que houve suprimento defalta de motivação do decreto prisional.
+Por fim, nem mesmo a insurgência do agravante quanto àalegada desproporcionalidade da prisão preventivamereceria acolhida. Em diversas oportunidades, esta Corte já decidiuque a "desproporcionalidade da prisão preventiva somente poderá ser aferida após a sentença, não cabendo, na via eleita, a antecipação da análise quanto a possibilidade de cumprimento de pena em regime menos gravoso que o fechado" (AgRgRD no HC n. 623.526/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJe de27/11/2020).
+Portanto, o agravante não apresentou argumentos capazes de infirmar a decisão recorrida, que deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
