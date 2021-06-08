@@ -1,0 +1,10 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+PJE - AGRAVO DE INSTRUMENTO (202) 1000249-19.2021.8.11.0000
+AGRAVANTE: ESTADO DE MATO GROSSO
+AGRAVADO: VALDECI RODRIGUES DA SILVA, WALPECAS - MAQUINAS AGRICOLAS E FERRAGENS LTDA - ME
+Vistos
+Ante a ausência de pedido liminar, INTIME-SE os agravados para querendo apresentar contrarrazões, no prazo legal.
+Cumpra-se.
+Cuiabá, 1 de fevereiro de 2021
+Desa. MARIA EROTIDES KNEIP
+Relatora
