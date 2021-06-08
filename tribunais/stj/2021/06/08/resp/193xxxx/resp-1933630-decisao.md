@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/MG, assim ementado (fl. 668):
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - PROGRAMA DE PARCELAMENTO DE CRÉDITO TRIBUTÁRIO - ADESÃO - HONORÁRIOS DE SUCUMBÊNCIA - PAGAMENTO - NOVA CONDENAÇÃO - IMPOSSIBILIDADE -BIS IN IDEM. Ao aderir ao programa de parcelamento, o contribuinte fica obrigado ao pagamento de honorários advocatícios. Dessa forma, havendo o pagamento da verba honorária extrajudicialmente, não há como exigir sua quitação novamente pelo contribuinte, sob pena de configurar bis in idem.
+Embargos de declaração rejeitados (fl. 720).
+O recorrente alega violação dos arts. 489 e 1022 do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito da inaplicabilidade do entendimento firmado no REsp 1.143.320/RS (recurso repetitivo) ao Regularize mineiro.
+Quanto à questão de fundo, aponta violação do art.90 do CPC/2015. Sustenta, em síntese,que são devidos os honorários advocatícios na hipótese em que a parte desiste dos embargos à execução para aderir a parcelamento tributário.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 755/756.
+É o relatório. Passo a decidir.
+De início, afasta-se a alegada ofensa aosarts. 489 e 1022 do CPC/2015, pois a Corte de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+No que diz respeito à ofensaao art. 90 do CPC/2015, observa-se que a tutela jurisdicional foi prestada pelo acórdão recorrido com fundamento na Lei Estadual 22.549/2017, regulamentada pelo Decreto Estadual 47.210/2017, razão por que o recurso especial não deve ser conhecido nesta Corte Superior por demandar interpretação de normativo estranho à legislação federal.
+Outrossim, ressalta-se que conquanto tenha sido indicada ofensa aoreferidodispositivode lei federal, evidencia-se que a análise da tese recursal depende do exame das normas estaduais de regência, aduzindo o recorrente que os honorários eventualmente previstos no programa de parcelamento referem-se à execução fiscal, não abrangendo de modo algum aqueles devidos por força dos embargos à execução, ação autônoma que com aquela não se confunde, exatamente nos termos do que dispõe o Decreto Estadual 47.210/2017 que estabelece textualmente que os honorários pagos no programa de parcelamento "não compreendem, não prejudicam e não se compensam com os honorários devidos ou fixados em processo judicial promovido pelo contribuinte para discussão do crédito tributário".
+Aplica-se ao caso, por ambos os motivos, a Súmula 280/STF.
+Ante o exposto,conheço parcialmente do recurso especiale, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/2015. NÃO OCORRÊNCIA. EMBARGOS À EXECUÇÃO FISCAL. PROGRAMA DE PARCELAMENTO TRIBUTÁRIO. DESISTÊNCIA DA AÇÃO. HONORÁRIOS ADVOCATÍCIOS. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA EXTENSÃO, NÃO PROVIDO.
