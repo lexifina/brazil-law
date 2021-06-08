@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo interno cujo objeto é decisão monocrática de minha relatoria que negou seguimento ao recurso extraordinário interposto pelo contribuinte.
+    A parte agravante sustenta que o Tema 179 da sistemática da repercussão geral não se aplica ao presente caso, bem como que faz jus à compensação escritural dos créditos provenientes do sistema não cumulativo com os débitos do sistema cumulativo.
+    Assiste parcial razão à parte. Com efeito, no paradigma do Tema 179 da sistemática da repercussão geral discutiu-se acerca da compensação de créditos calculados com base nos valores dos bens e mercadorias em estoque, no momento da transição da sistemática cumulativa para a não cumulativa da contribuição para o PIS e da COFINS. No presente caso, o contribuinte almeja que seja reconhecido seu direito de compensar os créditos do regime não cumulativo com o cumulativo. Portanto, são situações diversas.
+    De modo que torno sem efeito a decisão monocrática anteriormente proferida. Passo à nova análise do recurso.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 195, I, b e § 12, da CF.
+    A pretensão recursal não merece prosperar. O acórdão recorrido consignou o seguinte:
+    “Além de inexistir amparo legal à compensação ou ao ressarcimento de créditos que não sejam aqueles determinados nas Leis nº 10.637/2002 e 10.833/2003, também o art. 74 da Lei nº 9.430/1996 (e suas alterações posteriores), não acolhe o intento da autora. A premissa básica imposta pela Lei nº 9.430/1996, para que se viabilize a compensação, é que o crédito seja 'passível de restituição ou de ressarcimento'. Essa expressão nos remete ao art. 165 do CTN, que define, nos incisos I a III, as hipóteses em que o sujeito passivo tem direito à restituição do tributo. Sem dúvida, não se pode considerar como pagamento indevido os créditos de PIS/COFINS, que derivam de uma técnica de arrecadação que consiste, em síntese, na dedução de certos créditos da base de cálculo das contribuições.”
+    O contribuinte, por sua vez, nas razões do seu recurso, defende que faz jus à compensação sob o fundamento de que houve violação ao art. 195, I, b e § 12, da Constituição Federal, uma vez que a sistemática da não cumulatividade, prevista na Constituição, permitiria a compensação tal como pleiteada. O recurso, portanto, apresenta razões dissociadas do acórdão recorrido. A hipótese atrai a incidência da Súmula 284/STF (ARE 905.375-AgR, Rel. Min. Luiz Fux; e ARE 1.020.743-AgR, Rel. Min. Edson Fachin).
+    Ainda que superado tal óbice, para firmar entendimento diverso do acórdão recorrido quanto aos pontos aduzidos pela parte recorrente, seria indispensável o reexame do acervo probatório constante dos autos e da legislação infraconstitucional pertinente. Nessas condições, a hipótese atrai a incidência do enunciado da Súmula 279/STF.
+    No mesmo sentido, veja-se a seguinte decisão monocrática transitada em julgado: RE 861.707/RS, Rel. Min. Dias Toffoli.
+    Diante do exposto, reconsidero a decisão monocrática anteriormente proferida, e, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso. Julgo prejudicado o agravo interno.
+    Publique-se.
+          Brasília, 08 de junho de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
