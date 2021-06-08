@@ -1,0 +1,42 @@
+DECISÃO
+MÁRIO ROBERTO SILVA, MARCOS FERNANDO RODRIGUES DOS SANTOS eGLEYBSON ALVES FREITAS DE OLIVEIRAinterpõem agravo regimental contra decisão daPresidência do STJque não conheceu do agravo em recurso especial com base na incidência da Súmula n. 182 do STJ.
+Os agravantes afirmam que o óbice sumular não deve prevalecer, uma vez que impugnaram os fundamentos eleitos pelo Tribunal de origem.
+Requer a reconsideração da decisão ou a submissão do recurso ao colegiado para apreciação e provimento.
+O Ministério Público Federal opina pelo desprovimento do agravo regimental (fls. 282-283).
+É o relatório. Decido.
+Razão assiste aos agravantes quanto à não incidência da Súmula n. 182 do STJ, uma vez que se mostra suficiente a impugnação apresentada no agravo em recurso especial.
+Assim, nos termos do art. 259, § 3º, do RISTJ, reconsidero a decisão de fls. 265-266e passo a nova análise das razões de agravo, que foi interposto contra a decisão que inadmitira o recurso especial com base na incidência das Súmulas n. 7 e 83do STJ, repita-se, óbices devidamente impugnados.
+No recurso especial (fls. 49-61), fundamentado no art. 105, III, a, da Constituição Federal, os recorrentes apontam violação dos arts. 337, §§ 1º, 2º, e 3º, do Código de Processo Civil e 83 do Código de Processo Penal.
+Argumentam que não se apreciou adequadamente a questão, na medida em que existe litispendência entre os Processos n. 0058754-76.2015.8.16.0042 e 0058796-28.2015.8.19.0042, afirmando que "foram denunciados, processados e condenados pela prática do mesmo fato delituoso (associação criminosa armada - artigo 288, parágrafo único, do Código Penal, tendo as ações penais tramitado simultaneamente perante o mesmo juízo, estando, sem sombra de dúvida, caracterizado o fenômeno da litispendência" (fl. 56).
+Também afirmam que, tramitando dois processos, seas decisões forem diversas, prevalecerá aquela que for mais favorável ao réu, razão pela qual deve deve preponderar o resultado do Processo n.0058796-28.2015.8.19.0042, no qual se deu a absolvição.
+Requerem o conhecimento e provimento do recurso para que seja reconhecida a litispendência, prevalecendo o julgado absolutóriopor lhes ser mais favorável, anulando-se a condenação ocorrida nos autos do Processo n.0058754-76.2015.8.16.0042.
+Foram apresentadas contrarrazões pelo Ministério Público estadual (fls. 65-70).
+É o relatório. Decido.
+No que diz respeito à alegada litispendência,o Tribunal de origem concluiu (fls. 28-34):
+A denúncia do processo n. 0058754-76.2015.8.19.0042, em que os ora requerentes foram condenados pelo crime do artigo 288,parágrafo único, do CP, e crime do artigo 14, da Lei de Armas, assim descreveu os fatos(doc. 35, do anexo 1):
+ ..
+Segundo essa denúncia, os ora requerentes, no dia 4 de dezembro de 2015,foram abordados pelos policiais que desconfiaram da conduta dos três, dentro de um carro, onde se encontravam armas e munições. Nessa ocasião, verificou-se que, na 106ª DP de Itaipava, foi lavrado o Registro de Ocorrência n.106-0197312015, acerca da prática do crime de roubo tentado, ocorrido em 23 de novembro de 2015, tendo sido utilizado noassalto o mesmo veículo em que os denunciados foram flagrados pelos policiais.
+Conforme foi apurado e julgado em primeira e segunda instância, os ora requerentes, pelo menos entre aquele registro de ocorrência(dia 23 de novembro de 2015), sem prisão em flagrante, e a data em que foram presos em flagrante(4 de dezembro de 2015),estavam associados para o cometimento de crimes, por meio de uma associação armada.
+Veja-se que essa denúncia não citou qualquer associação anterior ao dia 23 de novembro. Foi na denúncia do processo n. 0058796-28.2015.8.19.0042 (com base na qual os requerentes foram condenados pelo crime de roubo tentado mencionado na denúncia anterior),que foi imputado aos ora requerentes a associação armada em período antecedente ao dia 23 de novembro (doc. 38, do anexo 1):
+ ..
+Tendo em vista que as denúncias descreveram duas associações em períodos distinto se por motivos distintos(causas de pedir distintas), apesar de serem as mesmas partes, afastou-se a litispendência1, tendo restado, à análise probatória, a verificação sobre tais elementos.
+Isso porque a teoria da asserção também se aplica ao processo penal.
+Com base na teoria da asserção, as condições da ação devem ser analisadas com base nas assertivas autorais (in status assertiones), que deverão ser tidas por presumidamente verdadeiras.
+Feito isso, no decorrer do processo, caso verificada a ausência de alguma condição, em decorrência da análise probatória, a sentença não poderámais ser de extinção sem resolução do mérito; o julgamento, com base no acolhimento de qualquer delas, será pela improcedência do pedido.
+ ..
+Feita a análise probatória do segundo processo 0058754-76.2015.8.19.0042, não se verificou a litispendência, como exposto, já que os períodos são, de fato, diferentes, tendo sido perfeitamente possível a condenação, já que irrelevante a absolvição ocorrida no primeiro processo (0058796-28.2015.8.19.0042), por insuficiência de provas.
+Verifica-se, pois, diante da decisão acimaao analisar os fatos, as denúncias e oobjeto das condenações, que os períodos nos quais foram cometidos os delitos de associação criminosa são diversos, razão pela qual estaria justificada a instauração das duas ações penais.
+Assim, a inversão do julgado, de forma a reconhecer que estaria presente situação fática em que os réus foram denunciados e julgados pelos mesmos fatos, bem comoque há litispendência, como se alega, é providência somente possível mediante ampla incursão no conjunto fático-probatóriodos autos, o que éinviável em face do óbice da Súmula n. 7 do STJ.
+Nesse mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO. APELO NÃO CONHECIDO PELA DIVERGÊNCIA. COTEJO ANALÍTICO NÃO REALIZADO. LITISPENDÊNCIA. SÚMULA 7. NULIDADE DA INTERCEPTAÇÃO TELEFÔNICA. SÚMULA 182/STJ. AGRAVO CONHECIDO EM PARTE E NÃO PROVIDO.
+1. Não se revela cognoscível a interposição do apelo nobre com base na alínea "c", do art. 105, inciso III, da Carta Magna, quando a demonstração do dissídio interpretativo se restringe à mera transcrição de ementas. Precedentes.
+2. O simples fato de os delitos de tráfico de drogas e associação serem crimes permanentes não impede a ocorrência de infrações independentes quando verificada a ausência de identidade dos fatos apurados. A análise acerca dobis in idementre as ações penais, de modo a contrariar as conclusões das instâncias de origem, exigiriameticuloso exame sobre seus elementos da ação (identidade de partes, dos fatos e da pretensão), o que é vedado na via recursal eleita por força daSúmula 7/STJ.
+3. Se a decisão anterior rechaçou a pretensa nulidade da interceptação telefônica com base em dois fundamentos, limitando-se o agravante a impugnar um deles, é aplicável o óbice da Súmula 182/STJ.
+4. Agravo regimental conhecido em parte e, nessa extensão, não provido.(AgRg no AREsp n. 1.726.275/RJ, relatorMinistro Ribeiro Dantas, Quinta Turma, DJe de 6/4/2021.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL.CRIMES CONTRA O SISTEMA FINANCEIRO. GESTÃO FRAUDULENTA E DESVIO DE VALORES LEI N. 7.492/86, ARTIGOS 4º, CAPUT E 5º. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. JULGAMENTO MONOCRÁTICO.POSSIBILIDADE. PREVISÃO LEGAL. LITISPENDÊNCIA, ATIPICIDADE DA CONDUTA, PRINCIPIO DA CONSUNÇÃO E PRESENÇA DE DOLO NA CONDUTA DELITIVA. NECESSIDADE DE INCURSÃO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ.DILIGÊNCIAS REQUERIDAS. MAGISTRADO É O DESTINATÁRIO DA PROVA. SÚM.83/STJ. REPRIMENDA FUNDAMENTADA E DENTRO DOS LIMITES DA PROPORCIONALIDADE. SEM REPAROS. ALEGADO ERRO MATERIAL NO ACÓRDÃO RECORRIDO. INDEVIDA INOVAÇÃO RECURSAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. Os temas de litispendência, atipicidade de conduta, aplicação do princípio da consunção e a presença de dolo na conduta delitiva demandariam, obrigatoriamente, incursão no conjunto fático-probatório dos autos, inviável nesta instância recursal, por óbice do enunciado n. 7 da Súmula/STJ.
+ ..
+7. Agravo Regimental desprovido.(AgRg no REsp n. 1.380.645/MG, relatorMinistro Joel Ilan Paciornik, Quinta Turma, DJe de 1º/2/2019.)
+Ante o exposto, com fundamento no art. 259 do RISTJ, reconsidero a decisão agravada para conhecer do agravo em recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
