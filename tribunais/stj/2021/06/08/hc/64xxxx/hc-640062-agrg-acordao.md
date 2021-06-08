@@ -1,0 +1,78 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELO ESTUDO. SALDO REMANESCENTE. PRETENSÃO DE CÔMPUTO. POSSIBILIDADE. AGRAVO PROVIDO.
+1. Nos termos do entendimento mais recente desta Corte, uma vez admitido o cômputo das horas excedentes na remição pelo trabalho, não há razão plausível para inadmitir tal contagem quando se trata de remição por estudo. Precedentes.
+2. Agravo provido a fim de que sejam computadas as horas excedentes de estudo para fins de remição.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, dar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator) - Trata-se de agravo regimental interposto contra decisão que denegou a ordem.
+Alega o agravante que, no caso concreto, não houve mais de 4 horas de estudos por dia mas sim uma falha no registro dos dias a mais de estudo das horas do ensino a distância (fl. 68) e que, portanto, o paciente não fez horas excedentes por dia de estudo como se considerou na decisão de remição, pois as horas que aparentemente excedem à razão de 12 por 3 se referem a atividades desenvolvidas em dias que não puderam ser inseridos no sistema por falha deste, conforme própria resposta do Departamento Penitenciário do estado do Paraná (fl. 70). E mesmo que se entenda que foram estudados mais de 4 horas diárias, recentemente a própria Sexta Turma do STJ alterou a sua jurisprudência e definiu que o tempo de estudo que ultrapassa as quatro horas diárias previstas na lei deve ser considerado no cálculo da remição de pena (fl. 70)..
+Requer a reconsideração da decisão agravada ou o julgamento perante a 6ª Turma.
+É o relatório.
+VOTO
+MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator) - A decisão agravada foi posta nos seguintes fundamentos:
+Consoante relatado, o ponto nodal da presente impetração consiste em reconhecer toda carga horária de estudo, sem considerar o limite de 4 horas/dia.Quanto ao ponto, o Tribunal estadual assim referiu (fls. 13-16):
+Compulsando os autos de execução penal, verifica-se que o agravante RIVALDO CHAVES cumpre pena definida pelo trânsito em julgado dos autos nº 0012514-19.2014.8.16.0019, 2ª Vara Criminal de Ponta Grossa, de 12 anos, 11 meses e 12 dias de reclusão, em regime fechado, pela prática dos crimes previstos no art. 157, §2º, I, II e V do CP e no art. 288 do CP; e dos autos nº 0011996-29.2014.8.16.0019, da 2ª Vara Criminal de Ponta Grossa, pena de 08 anos de reclusão, em regime fechado, pela prática dos crimes previstos no art. 16 da Lei 10.826/03 e art. 33, caput, da Lei 11.343/06.
+Foi beneficiado pela remição da pena em 18/03/2019, por tempo de estudo. Em 30/08/2019 a Defesa requereu a complementação da quantidade de dias reconhecidos a título de remição por estudo (mov. 247.1).
+O juízo executivo indeferiu o pedido, limitando a quantidade de horas diárias de estudo, nos termos da Lei de Execução Penal, apresentando a seguinte fundamentação:
+"Trata-se de pedido de remição de pena por motivo de estudo do sentenciado acima nominado.
+O Ministério Público manifestou-se favoravelmente.
+O Sentenciado cursou as seguintes disciplinas:
+- EJA FASE II - Matemática - 23/02/2017 a 06/04/2017 - 152 horas em 19 dias;
+- EJA FASE II - Língua Estrangeira- 28/04/2017 a 05/09/2017 308 horas em 40 dias;
+- EJA FASE II - Ciências - 18/09/2017 a 11/12/2017 -88 horas em 11 dias;
+Dispõe o artigo 126, da Lei de Execuções Penais:
+Art. 126. O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena.
+§ 1o A contagem de tempo referida no caput será feita à razão de: I - 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar - atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 (três) dias;
+A divisão visa impedir que o preso alegue ter estudado 12 (doze) horas em um único dia, pretendendo fazer o desconto à razão de 01 (um) dia de estudo por 01 (um) dia de pena, preservando a lógica básica de que a remição atende a razão de 03 (três) por 01(um), seja pelo trabalho, seja pelo estudo. Desta forma, este Juízo tem analisado com maior critério as remições em razão de estudos.
+(..) No caso em tela, verifica-se que as disciplinas foram ministradas com um total superior a 04 (quatro) horas diárias.
+Tal montante ultrapassa o exigido na LEP, restrição esta já imposta para evitar que um sentenciado estude por 12h em apenas um dia e faça jus a remição.
+A exigência se deu a fim de que fossem desenvolvidas atividades em mais dias, no caso, 03 (três), para que então o sentenciado fosse beneficiado com um dia de pena.
+Necessário se faz obedecer à imposição legal, desprezando-se as horas excedentes.
+Desta forma, o cálculo será feito considerando o limite legal, o que enseja apenas 04 (quatro) horas diárias de estudos.
+Tem-se que o estudo teve duração de 70 (setenta) dias. Aplicando-se a limitação legal, tem-se que o mesmo realizou 280 (duzentos e oitenta) horas de estudos, o que enseja a remição de 23 (vinte e três). Ainda, infere-se do atestado de movimento 245.1 que o sentenciado trabalhou por 54 (cinquenta e quatro) dias no período de 05/06/2019 a 28/08/2019.
+Ministério Público manifestou-se favoravelmente à concessão de remição.
+Nesse sentido, o art. 126 da LEP prevê que a cada 03 (três) dias de trabalho tem-se direito a remir 01 (um) dia de pena, o que acarreta a remição de 18 dias de pena.
+Não incide, na hipótese, o art. 127 da LEP, ante a ausência de falta grave, conforme atestado emitido pela autoridade responsável por sua custódia.
+Não incide, na hipótese, o art. 127 da LEP, ante a ausência de falta grave.
+Destarte, declaro 41 (quarenta e um) dias remidos de pena do sentenciado, sendo 23 em decorrência de estudo e 18 dias pelo trabalho.
+Atualizem-se o relatório e o atestado de pena.
+Intimem-se." E o objeto do recurso.
+A Defesa busca afastar a limitação disposta pela Lei de Execução Penal apresentando como argumento o fato de que o apenado realizou parte das horas de estudo que pretende computar em sala de aula e parte do período em sua cela, o que não pode prejudicá-lo em relação ao direito à remição pois a fiscalização dos períodos de estudo é responsabilidade do Estado.
+Assim, a falta ou falha na forma de fiscalização não pode prejudicar um direito do sentenciado de ter sua pena remida.
+Trouxe ainda a tese de que a remição por horas de estudo deve guardar isonomia com a remição por horas trabalhadas, em que não se define limitação.
+A par disso, percebe-se que a postura judicial revela mero ato de subsunção do dispositivo legal. Não há maiores dúvidas nesse ponto, o juízo considera, em atenção ao art. 126, § 1º, inciso I da Lei de Execuções Penais, no sentido de que somente é possível o abatimento de 1 dia de pena a cada 12 horas de frequência escolar divididas no mínimo em 3 dias distintos. In verbis:
+"Art. 126 - O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena.
+§ 1º - A contagem de tempo referida no caput será feita à razão de:
+I - 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar - atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 (três) dias;" § 3º Para fins de cumulação dos casos de remição, as horas diárias de trabalho e de estudo serão definidas de forma a se compatibilizarem." Assim, sobre horas excedentes, em especial horas de estudo realizadas na cela do reeducando, não é possível extrair com a necessária certeza a veracidade sobre esta declaração documental, pois obviamente não houve fiscalização. A rigor, discussões que visam confrontar um verdadeiro permissivo legal, definido no intuito de beneficiar a população carcerária, retirando a validade da lei, mostram-se até mesmo inócuas.
+O dispositivo legal mencionado limita a remição, sendo reiterado em casos similares nossa compreensão de que não é possível utilizar as horas excedentes para diminuição do tempo de execução da pena, com mais razão quando impossível extrair com plena certeza a realização de estudo por parte do apenado. Ressalto que no início de minha atuação na 3ª Câmara Criminal entendia como dever estatal a fiscalização de horas de estudo excedentes, mas compreendi que a clareza do direito definido em lei não deve ser desconsiderada, da mesma forma que não se deve olvidar as dificuldades intrínsecas à fiscalização individual de detentos em nosso sistema carcerário. Adequei, com o passar do tempo, meu entendimento aos precedentes do Superior Tribunal de Justiça e de nosso Tribunal de Justiça do Estado do Paraná.
+Portanto, correta a postura judicial ao indeferir o pedido de remição na integralidade da carga horária pretendida. Nesse sentido são inúmeros os julgados:
+(..) Ainda, sobre o pleito de reconhecimento de isonomia entre o cálculo de horas trabalhadas e horas de estudo, recentemente decidiu o Superior Tribunal de Justiça no sentido de que não há que se falar em isonomia com horas trabalhadas para afastar a jornada máxima de estudo, por necessidade de aplicação da literalidade legislativa. Cito:
+(..) Novamente, na literalidade da lei descabe interpretação extensiva. Não se nega que a Lei de Execução Penal é em muitas partes contraditória e lacunosa, mas nesse ponto específico, no que tange à remição de pena, o legislador foi simples e direto.
+Não há que modificar a decisão agravada.
+Feitas tais considerações, voto pelo conhecimento e desprovimento do recurso.
+Ante o exposto, Acordam os Desembargadores integrantes da 3ª Câmara Criminal do TRIBUNAL DE JUSTIÇA DO PARANÁ, por unanimidade de votos, em conhecer e negar provimento ao recurso interposto por RIVALDO CHAVES.
+Como se vê, a Câmara Julgadora fundamentou o acórdão nos exatos termos do art. 126, § 1º, I, da Lei 12.433/2011, in verbis:
+Art. 126. O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena.
+§ 1º A contagem de tempo referida no caput será feita à razão de:
+I - 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar - atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 (três) dias;
+II - 1 (um) dia de pena a cada 3 (três) dias de trabalho.
+Não se desconhece a jurisprudência deste Superior Tribunal de Justiça, que já se manifestou no sentido de que A norma do art. 126 da LEP, ao possibilitar a abreviação da pena, tem por objetivo a ressocialização do condenado (REsp 744.032/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 5/6/2006), além de ser um dos objetivos da Lei de Execução Penal, ao instituir a remição, incentivar o bom comportamento do sentenciado e sua readaptação ao convívio social, a interpretação extensiva do mencionado dispositivo impõe-se nessas circunstâncias, o que revela, inclusive, a crença do Poder Judiciário na leitura como método factível para o alcance da harmônica reintegração à vida em sociedade (AgRg no HC 323.766/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 09/10/2015).
+Contudo, cumpre salientar que a interpretação extensiva mencionada por esta Corte cita que a jornada máxima de estudo fixada em 4 horas por dia é especificada pela literalidade normativa, o que não ocorre no caso de remissão para os dias de trabalho, prevista no inciso II do mesmo dispositivo - art. 126, § 1º, da Lei 12.433/2011, supramencionada, não havendo portanto que falar em isonomia. Nessa vertente, mutatis mutandis:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. REMIÇÃO DA PENA PELO TRABALHO. CRITÉRIO DE CÁLCULO DO DIA TRABALHADO. JORNADA NÃO INFERIOR A 6 NEM SUPERIOR A 8 HORAS. CÔMPUTO DA REMIÇÃO EM HORAS. IMPOSSIBILIDADE, SALVO AS HORAS EXTRAS EXCEDENTES À OITAVA HORA DIÁRIA.
+ ..  2. A remição da pena pelo trabalho, nos termos do art. 33, c/c 126, § 1º, da LEP, é realizada à razão de um dia de pena a cada três dias de trabalho, cuja jornada diária não seja inferior a 6 nem superior a 8 horas, o que impõe, para fins de cálculo, a consideração dos dias efetivamente trabalhados e não a soma das horas. Precedentes do STJ e do STF.
+ ..  4. A pretensão da impetrante de que seja efetuado o cálculo da remição de pena em horas, e não em dias de trabalho - remir 1 (um) dia de pena, a cada período de 18 (dezoito) horas de trabalho -, não encontra respaldo na legislação pátria, uma vez que, no presente caso, a jornada diária de trabalho foi inferior a 6 horas.
+5. A remição se dá por dias trabalhados, e não por horas, sendo que a contagem de tempo será feita à razão de um dia de pena a cada 3 dias trabalhados, exigindo-se, para cada dia a ser remido, o labor de no mínimo 6 e no máximo 8 horas (AgRg no HC n. 289.635/MG, Sexta Turma, Rel Min. Rogério Schietti Cruz, DJe de 3/2/2015).
+6. Apenas as horas trabalhadas após a jornada máxima legal poderão ser somadas a fim de que, atingindo 6 horas, sejam computadas como 1 dia para fins de remição (AgRg no REsp 1546982/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/09/2015, DJe 02/10/2015).
+7. Inexistente, portanto, constrangimento ilegal, a justificar a concessão da ordem de ofício.
+8. Habeas corpus não conhecido. (HC 351.951/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/05/2016, DJe 24/05/2016).
+Dessarte, inexiste qualquer constrangimento ilegal a ser sanado.
+Ante o exposto, denego o habeas corpus.
+De fato, a decisão agravada não se coaduna com a jurisprudência mais recente desta Corte, segundo a qual, uma vez admitido o cômputo das horas excedentes na remição pelo trabalho, não há razão plausível para inadmitir tal contagem quando se trata de remição por estudo. A propósito:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REMIÇÃO POR ESTUDO. LIMITE. ATIVIDADE ESCOLAR. TEMPO QUE EXCEDEU A CARGA DE 4 HORAS DIÁRIAS QUE DEVE SER COMPUTADO PARA REMIR A PENA. ISONOMIA COM A HIPÓTESE DE REMIÇÃO POR TRABALHO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se desconhece o entendimento desta Corte Superior no sentido de que a interpretação extensiva de que a jornada máxima de estudo fixada em 4 horas por dia decorre da especificada determinada pela literalidade normativa.
+2. Ocorre que, tendo a norma do art. 126 da LEP o objetivo de ressocialização do condenado, deve-se observar o recente entendimento da decisão proferida no âmbito da Sexta Turma desta Corte Superior, no julgamento do HC 461.047/SP, Rel. Ministra LAURITA VAZ, DJe 14/08/2020, no sentido de ser possível a remição das horas excedentes de estudo, não se limitando a jornada de estudo em 4 horas por dia.
+3. Não se mostra razoável admitir-se horas extras na remição pelo trabalho e, por outro lado, negá-las quando a remição é feita por meio do estudo.
+4. Agravo regimental não provido (AgRg no AREsp 1720688/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/10/2020, DJe 13/10/2020).
+Ante o exposto, dou provimento ao agravo regimental a fim de que sejam computadas as horas excedentes de estudo para fins de remição.
+É o voto.
