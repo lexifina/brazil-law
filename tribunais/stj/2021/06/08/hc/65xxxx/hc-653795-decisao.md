@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOSÉ UBIRAJÁ RIO SECUNDO ANDRADE em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Sergipe (Apelação Criminal n. 202000331427).
+Em primeiro grau, o paciente foi condenado às penas de 7 anos, 6 meses e 2 dias de reclusão em regime inicial fechado e de 749 dias-multa, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006. Foi-lhe indeferido o direito de recorrer em liberdade.
+Interposta apelação pela defesa, o Tribunal de origem negou provimento ao recurso, mantendo incólume a sentença.
+A defesa alega estar o paciente sofrendo constrangimento ilegal, pois não estão presentes os requisitos da custódia cautelar, além de carecer sua manutenção de fundamentação idônea, lastreada em elementos concretos, apta a individualizar e demonstrar a necessidade da medida para o caso.
+Afirma que "a sentença apenas decretou a prisão preventiva para a garantia da ordem pública E PARA APLICAÇÃO DA LEI PENAL DE FORMA GENÉRICA, utilizando o argumento da gravidade em abstrato do tráfico de drogas e não individualizando a necessidade do cárcere em relação ao único réu no processo" (fl. 5).
+Requer, liminarmente e no mérito, a concessão da liberdade provisória com ou sem a aplicação de medidas cautelares diversas (art. 319 do CPP).
+O pedido de liminar foi indeferido, nos termos da decisão de fls. 63-64.
+As informações foram prestadas às fls. 70-105 e 110-113.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 115-120).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+Confira-se excerto da sentença, que, ao condenar o paciente à pena de às penas de 7 anos, 6 meses e 2 dias de reclusão em regime inicial fechado e de 749 dias-multa, considerou presentes os requisitos para manutenção de segregação cautelar (fls. 51-52):
+Além de levar em conta o princípio da homogeneidade das medidas cautelares e o regime inicial de cumprimento da pena, também vislumbro estarem preenchidos os requisitos do art. 312 e 313, inciso I, do CPP, pois se trata de medida necessária para a garantia da ordem pública, abalada pela prática do tráfico ilícito de entorpecentes neste município, sendo notória a periculosidade social da conduta do réu para a paz, saúde e segurança públicas.
+Ressalte-se que se trata de crime equiparado a crime hediondo, nos termos do art. 2º da Lei nº 8.072/90, que exige uma postura mais rígida do Estado para reprimir e acautelar a sociedade de delitos desse jaez em prol do bem comum, finalidade normativa preconizada no art. 5º da LINDB, sujeitando o acusado a condições mais rígidas para a progressão de regime, por exemplo.
+Outrossim, é preciso salientar que o direito individual de liberdade, assim como os demais direitos fundamentais, não possuem caráter absoluto, como já assentado pela Suprema Corte, orientando-se a doutrina mais abalizada no sentido de ser aplicada em cada caso a técnica da ponderação de interesses desenvolvida pelo jusfilósofo alemão Robert Alexy, a fim de verificar qual o interesse constitucional preponderante no caso concreto.
+Ao que parece, entendo que preponderam concretamente os direitos fundamentais à paz, saúde e segurança públicas, de cunho transindividual, sobre o direito individual de liberdade do acusado, mormente por restar evidente o abuso de tal direito, o qual não pode ser utilizado para abroquelar a impunidade.
+Por fim, também entendo que a medida se mostra necessária para garantir a aplicação dalei penal, mormente a futura execução das penas cominadas na sentença, a fim de não comprometer a efetiva prestação jurisdicional.
+Assim, pelos motivos expostos, para garantia da ordem MANTENHO a custódia cautelar do réu pública e aplicação da lei penal.
+A propósito, assim se manifestou o Tribunal a quo (fls. 40-41):
+ ..  verifico que o magistrado de primeiro grau, com lastro no regime inicial do cumprimento da pena fixado; na presença dos requisitos previstos nos artigos 312 e 313, inciso I, ambos do CPP, especialmente, a garantia da ordem pública, além da notória periculosidade da conduta do réu, negou a este o direito de recorrer em liberdade.
+Cabe destacar, por oportuno, que o direito de apelar em liberdade não pode ser concedido ao acusado que permaneceu preso durante todo o processo, mormente porque o advento de sentença condenatória reforça o fumus comissi delicti, um dos requisitos da prisão preventiva. Destaco, ainda, que a previsão do art. 5º, inc. LVII, da Constituição Federal (presunção de inocência) não é afrontada pela prisão cautelar.
+ ..
+Destarte, a meu sentir, por entender que o magistrado de primeiro grau corretamentenegou o direito de o ora apelante recorrer em liberdade, mantenho assim a prisão paragarantia da ordem pública.
+Mantidas as circunstâncias que justificaram a decretação da prisão preventiva do paciente, que ficou preso durante toda a instrução processual, não há ilegalidade na sentença condenatória por não lhe conceder o direito de recorrer em liberdade (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; AgRg no HC n. 568.997/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta turma, DJe de 27/5/2020).
+Outrossim, cumpre ressaltar que a reincidência específica evidencia maior envolvimento do paciente com a prática delituosa e constitui fundamento idôneo para a manutenção da custódia cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva (HC n. 603.340/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Públic o Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
