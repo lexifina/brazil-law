@@ -1,0 +1,110 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Aurélio Bellizze, Moura Ribeiro, Nancy Andrighi e Paulo de Tarso Sanseverino (Presidente) votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. INEXISTÊNCIA. ART. 1.022 DO CPC/2015. ART. 1.013 DO CPC/2015. DEVOLUTIVIDADE. PRINCÍPIO DO TANTUM DEVOLUTUM QUANTUM APELLATUM. DANO MORAL. RESPONSABILIDADE CONTRATUAL. PASSAGEIRA. ÔNIBUS. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. CORREÇÃO MONETÁRIA. ARBITRAMENTO. SUMULA Nº 362/STJ. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, quanto ao pedido de redução do dano moral, a recorrente não logrou aduzir os motivos de fato e de direito que evidenciavam a intenção de reforma da decisão recorrida com base na dedução do seguro obrigatório. O pedido foi fundamentado no princípio da proporcionalidade e no enriquecimento ilícito.
+4. Em caso de responsabilidade contratual, os juros moratórios incidem a partir da citação. Precedentes.
+5. Nas indenizações por dano moral, o termo inicial para a incidência da correção monetária é a data em que foi arbitrado o seu valor. Precedentes.
+6. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por VIAÇÃO MADUREIRA CANDELÁRIA LTDA. contra a decisão que reconsiderou a decisão de fls. 551/552 (e-STJ) e conheceu do agravo para conhecer do recurso especial e negar-lhe provimento.
+Naquela oportunidade, aplicou-se a Súmula nº 568/STJ no que diz respeito ao termo inicial dos juros de mora. Além disso, entendeu-se que não foi demonstrada a violaçãodos arts. 1.013 e 1.022 do Código de Processo Civil de 2015.
+Nas presentes razões (fls. 589/609 e-STJ), a agravante alega, em síntese, que:
+(i) demonstrada a violaçãodos arts. 1.013 e 1.022 do CPC/2015, tendo em vista que o pedido de dedução do seguro DPVAT foi formulado na contestação, cabendo ao tribunal de origem, em virtude do efeito devolutivo da apelação, manifestar-se acerca de tal pedido.
+No ponto, afirmou ser cabível a dedução do valor relativo ao seguro DPVAT, acentuando que, nos termos da jurisprudência desta Corte,
+"(..)
+O seguro obrigatório de veículos tem a finalidade de reparar, ao menos parcialmente, os danos causados por acidentes de trânsito, devendo, por essa razão, ser deduzido do valor a ser pago à vítima ou aos familiares pelo réu a título de indenização por responsabilidade civil" (fl. 598 e-STJ).
+Além disso, sustenta que "a dedução do valor do seguro obrigatório dispensa comprovação do recebimento ou mesmo do requerimento do mesmo pela vítima" (fl. 599 e-STJ), e
+(ii) necessária areforma da decisão atacada quanto aos consectários legais, pois, desde o apelo nobre, afirma que a correção monetária incide a partir do momento definitivo do arbitramento que, no caso, se dá com a prolação do último acórdão que conhecer da matéria, ainda que não sofra nenhuma alteração.
+Quanto ao termo inicial dos juros moratórios, defende que são devidos a partir da sentença que determinou o valor da indenização.
+Devidamente intimada, a parte contrária não ofereceu impugnação (fl. 612 e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. INEXISTÊNCIA. ART. 1.022 DO CPC/2015. ART. 1.013 DO CPC/2015. DEVOLUTIVIDADE. PRINCÍPIO DO TANTUM DEVOLUTUM QUANTUM APELLATUM. DANO MORAL. RESPONSABILIDADE CONTRATUAL. PASSAGEIRA. ÔNIBUS. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. CORREÇÃO MONETÁRIA. ARBITRAMENTO. SUMULA Nº 362/STJ. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, quanto ao pedido de redução do dano moral, a recorrente não logrou aduzir os motivos de fato e de direito que evidenciavam a intenção de reforma da decisão recorrida com base na dedução do seguro obrigatório. O pedido foi fundamentado no princípio da proporcionalidade e no enriquecimento ilícito.
+4. Em caso de responsabilidade contratual, os juros moratórios incidem a partir da citação. Precedentes.
+5. Nas indenizações por dano moral, o termo inicial para a incidência da correção monetária é a data em que foi arbitrado o seu valor. Precedentes.
+6. Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece acolhida.
+Na origem, Rejane Cristina de Assis da Silva ajuizou ação de indenização contra Viação Madureira Candelária Ltda.objetivando o recebimento de dano moral sofrido em decorrência de queda ocorrida dentro de ônibus de propriedade da empresa ré.
+Em virtude da responsabilidade objetiva da ré, tenho havidocomprovação do dano e do nexo de causalidade, os pedidos iniciais foram julgados procedentes, tendo a ré sido condenada a pagar à autora a quantia de R$ 6.000,00 (seis mil reais) a título de danos morais, corrigida monetariamente a partir da publicação da sentença e acrescida de juros de mora de 1% (um por cento) ao mês, a contar da citação.
+Inconformada, a ré apelou, insurgindo-se contra o valor da condenação eos termos iniciais da correção monetária e dos juros de mora. Ao recurso foi negado provimento em acórdão assim ementado:
+"Apelações cíveis. Ação indenizatória. Autora que sofreu queda no interior do coletivo. Condição de passageira que restou demonstrada. Responsabilidade objetiva da empresa transportadora. Art. 37, § 6º, da CF. Dano e nexo causal configurados. Quantum indenizatório fixado em R$ 6.000,00 que se demonstra proporcional ao dano imaterial sofrido. Acerto da sentença. Recursos desprovidos" (fl. 390 e -STJ).
+Sob a alegação de que o acórdão foi omisso quanto à dedução do valor do seguro DPVAT, a ora agravante opôsdeclaratórios, argumentando que,
+"(..) tendo em vista o que dispõe o artigo 1.013 do CPC, necessário observar que a ré formulou pedido de dedução do valor do seguro DPVAT do valor da eventual condenação fixada nos autos, conforme se observa na sua peça de bloqueio, sendo certo que se trata de matéria incindível ao pedido de redução/minoração do valor indenizatório fixado em favor da autora como forma de reparação aos danos morais por ela postulados e reconhecidos nestes autos.
+(..)
+Desta feita, pugna a recorrente seja conhecido e provido o recurso para que seja determinado o abatimento da referida verba, em atenção ao posicionamento do STJ sobre a matéria" (fls. 396/397 e-STJ - grifou-se).
+Quando do julgamento dos aclaratórios, a Corte local acentuou não haver "pedido nesse sentido no recurso de apelação, incidindo, na hipótese, o disposto no art. 1.013 do CPC" (fl. 425 e-STJ - grifou-se).
+Conforme consta da decisão atacada, o tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 17/8/2017, DJe 25/8/2017 - grifou-se).
+Assim, impende asseverar que cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide. Desse modo, o não acolhimento das teses ventiladas pelo recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CHEQUES. RECONSIDERAÇÃO DA DECISÃO MONOCRÁTICA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial são inadmissíveis.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+6. Agravo interno provido. Agravo conhecido. Recurso especial não conhecido" (AgInt no AREsp 1.033.786/RS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 13/6/2017, DJe 20/6/2017 - grifou-se).
+No capítulo referente ao pedido de redução dos danos morais, consta da decisão atacadaque, no cotejo entre as razões da apelação e a fundamentação da sentença, a ora agravante fundamentou o seu pedido no princípio da proporcionalidade e no enriquecimento ilícito da agravada, porém, não no abatimento do DPVAT, ou seja, não logrou rebater os motivos de fato e de direito que evidenciavam a intenção de reforma da decisão recorrida com base na dedução do seguro obrigatório.
+Naquela oportunidade, citou-se trecho do voto proferido pela Ministra Nancy Andrighi nojulgamento do REsp nº 1.665.741/RS, segundo o qual
+"(..)
+No sistema recursal, o principal efeito dos recursos é o devolutivo, já que destinado a impedir o trânsito em julgado da sentença, permitindo o reexame, a nova apreciação, da matéria já decidida pelo Judiciário por outro órgão funcionalmente superior.
+Segundo ressalta a doutrina, o efeito devolutivo é regido pelo princípio dispositivo e pelo tantum devolutum quantum appellatum, pois, por meio do recurso, somente se devolve ao órgão superior a matéria recorrida pela parte interessada.
+Conforme destaca a doutrina, "a expressão matéria recorrida (..) faz referência ao comando imperativo da sentença, ao provimento do pedido declaratório, constitutivo ou condenatório do autor ou ao pedido declaratório negativo do réu" (CARVALHO, Carla Fernanda Rangel Silva. Efeito devolutivo da apelação e capítulos da sentença. Revista de Processo: RePro, v. 38, n. 217, p. 121-146, mar. 2013).
+Não obstante, "o apelante deve apresentar as razões pelas quais os comandos imperativos da sentença estariam errados, requerendo em seguida a sua reforma" (Idem, ibidem)" (grifou-se).
+Nesse contexto, entendeu-se que não restou demonstrada a violação do art. 1.013 do CPC/2015, pois a apelação não tinha que ser analisada com base em fundamentos que não foram devolvidos para deliberação.
+Sobre o tema:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ESTELIONATO. NULIDADE. CAPÍTULO NÃO DEVOLVIDO PELO PARQUET. IMPOSSIBILIDADE DE REFORMA EM DESFAVOR DO RÉU DA DECISÃO. VIOLAÇÃO À REGRA TANTUM DEVOLUTUM TANTUM APPELATUM. APELAÇÃO EXCLUSIVA DA DEFESA. NON REFORMATIO IN PEJUS. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. O efeito devolutivo em profundidade da apelação, de fato, é amplo, podendo o Tribunal apreciar todas as questões suscitadas e discutidas no processo, ainda que não tenham sido solucionadas, bem como os fundamentos remanescentes não valorados pelo juiz ao chegar à conclusão firmada na sentença (CPC, art. 1.013, §§ 1º e 2º).
+Entrementes, essa ampla devolução em profundidade é limitada pela devolutividade em extensão, nos termos da parte final do art. art, 1.013, § 1º, do Código de Processo Civil: trata-se da regra tantum devolutum tantum appelatum. Por conseguinte, somente pode o Tribunal analisar profundamente o mérito recursal dos capítulos da decisão efetivamente e especificamente impugnados, ou seja, o apelante deve atacar especificamente a decisão impugnada, expondo as razões do pedido de reforma ou decretação de nulidade de cada capítulo.
+3. No presente caso, verifica-se que o Tribunal a quo extrapolou a devolutividade em extensão, porquanto o Parquet apenas impugnou as circunstâncias judiciais da culpabilidade e antecedentes, constantes da pena-base. A pretensão genérica de reforma da dosimetria, sem impugnar especificamente os fundamentos da decisão combatida, não possui o condão de devolver ao Tribunal o exame da proporcionalidade da fixação da pena intermediária. Nesses termos, pela regra da non reformatio in pejus, não tendo o Ministério Público impugnado a matéria nas razões recursais, tal discussão encontra-se materialmente preclusa pela coisa julgada, não havendo meios no processo penal de alterar o entendimento em desfavor do réu.
+4. Habeas Corpus não conhecido. Ordem concedida, de ofício, para determinar que o Juízo das Execuções proceda à nova dosagem da pena, restabelecendo os critérios de exasperação adotados na 2ª fase da dosimetria pela sentença, ficando mantido, porém, o incremento da pena-base determinado pelo Colegiado de origem no julgamento do apelo ministerial" (HC 470.249/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/4/2019, DJe 30/4/2019 - grifou-se).
+No que tange aos termos iniciais dos consectários legais, verifica-se que a conclusão do tribunal de origem não destoa da orientação firmada nesta Corte Superior nosentido de que, em se tratando de responsabilidade contratual, os juros de mora fluem a partir da citação, e a correção monetária desde o arbitramento da indenização.
+Confiram-se:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. ADVOGADO. MANDATO. VIOLAÇÃO DO ART. 1.022 DO NCPC. INEXISTÊNCIA DE OMISSÃO. RESPONSABILIDADE CONTRATUAL. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+(..)
+3. A jurisprudência desta Corte é firme no sentido de que, nos casos de indenização por danos morais resultantes de responsabilidade contratual, a correção monetária incide desde a data do arbitramento, e os juros de mora desde a citação.
+(..)
+5. Agravo interno não provido, com imposição de multa" (AgInt no AREsp 1.280.822/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 29/10/2018, DJe 31/10/2018 - grifou-se).
+"AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE DANOS MATERIAIS E MORAIS - ERRO MÉDICO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DOS RÉUS.
+1. No tocante à incidência dos juros moratórios, o arbitramento de indenização por dano moral, resultante de obrigação contratual (caso dos autos, prestação de serviço hospitalar), enseja a incidência de juros moratórios desde a citação do réu, por força da norma cogente inserta no artigo 405 do Código Civil de 2002.
+2. O Tribunal local decidiu, com base na análise do acervo probatório acostado aos autos, pela presença dos requisitos ensejadores da reparação civil, definindo o quantum indenizatório segundo critérios de razoabilidade e proporcionalidade, razão pela qual, para o acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula n. 7 do Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+3. Esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+4. Agravo regimental desprovido" (AgRg no AREsp 436.188/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/11/2014, DJe 14/11/2014 - grifou-se).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE INTERNAÇÃO. INSCRIÇÃO INDEVIDA. DANO MORAL. FALTA DE FUNDAMENTAÇÃO E VALORAÇÃO DA PROVA. ALEGAÇÕES GENÉRICAS. SÚMULA Nº 284/STF. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA.
+1. Incide o óbice contido na Súmula nº 284/STF quando as razões de recurso limitam-se a alegar genericamente violação dos arts. 131 e 458, II, do Código de Processo Civil/1973 sem, contudo, especificar em que ponto o tribunal de origem deixou de fundamentar sua decisão ou qual foi a parte do julgado que valorou incorretamente a prova.
+2. A jurisprudência desta Corte firmou o entendimento de que, em se tratando de indenização por danos morais decorrentes de responsabilidade contratual, os juros moratórios fluem a partir da citação.
+3. Não tendo o recurso apontado qualquer julgado recente desta Corte Superior capaz de desconstituir a conclusão da decisão ora agravada, esta deve ser mantida por seus próprios fundamentos.
+4. Agravo interno não provido" (AgInt no REsp 1.608.548/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/10/2016, DJe 16/11/2016 - grifou-se).
+"CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO.
+DANOS MORAIS E MATERIAIS. RESPONSABILIDADE CIVIL. EMPRESA DE TRANSPORTES URBANOS. ACIDENTE COM PASSAGEIRO. DESCONTO DO VALOR DO SEGURO OBRIGATÓRIO. JUROS DE MORA. TERMO INICIAL. CORREÇÃO MONETÁRIA. TERMO INICIAL. INDENIZAÇÃO POR DANO MORAL. VALOR MANTIDO.
+1. O Tribunal a quo apreciou, fundamentadamente, em sede recursal, os pontos argüidos pelas partes, com base no conjunto probatório trazido aos autos, como se verifica às fls. 389/391, não havendo falar-se em omissão do decisum recorrido. Destarte, inocorreu à alegada contrariedade ao art. 535, II, do CPC.
+(..)
+6. Em caso de responsabilidade contratual, os juros moratórios incidem a partir da citação. Precedentes.
+7. Consoante jurisprudência firmada nesta Corte, nas indenizações por dano moral, o termo a quo para a incidência da correção monetária é a data em que foi arbitrado o seu valor. Precedentes.
+8. Recurso parcialmente conhecido e, nesta parte, provido" (REsp 861.319/DF, Rel. Ministro JORGE SCARTEZZINI, QUARTA TURMA, julgado em 21/09/2006, DJ 09/10/2006 - grifou-se).
+"CIVIL E PROCESSUAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE AUTOMOBILÍSTICO.ÔNIBUS. PASSAGEIRA FERIDA. DANOS MATERIAIS E MORAIS. JUROS. FLUÊNCIA A PARTIR DA CITAÇÃO. CORREÇÃO MONETÁRIA. DANO MORAL. TERMO INICIAL.ATUALIZAÇÃO DESDE SUA FIXAÇÃO PELO ÓRGÃO JURISDICIONAL.
+I. Em caso de responsabilidade contratual, os juros moratórios incidem a contar da citação. Precedentes.
+II. A atualização monetária da indenização por danos morais se faz a partir da fixação do seu quantum, portanto, no caso, desde a data do acórdão a quo.
+III. Recurso especial conhecido em parte e parcialmente provido" (REsp 728.314/DF, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 6/6/2006, DJ 26/6/2006 - grifou-se).
+Tal entendimento está consolidado na Súmula nº 362/STJ.
+Logo, não há como afastar a incidência da Súmula nº 568/STJ, aplicável em ambas as alíneas do permissivo constitucional.
+Esclareça-se, por oportuno, que o precedente citado pela ora agravante, REsp nº 1.423.942/SP, Terceira Turma, Relatora Ministra Nancy Andrighi, DJe 29/9/2017, no qual restou estabelecido que a incidência da correção monetária se dá a partir do arbitramento definitivo, não apresenta similitude fática com o presente caso, tendo em vista que aqui se trata de responsabilidade contratual, ao passo que lá é extracontratual.
+Assim, as razões do presente recurso são insuficientes para reformar a decisão atacada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
