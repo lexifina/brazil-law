@@ -1,0 +1,43 @@
+DECISÃO:
+EMENTA: Processual penal. Habeas corpus. Tráfico de drogas. Prisão preventiva. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTO VÁLIDO. FUGA DO DISTRITO DA CULPA. AGRAVO IMPROVIDO.
+    1. A constrição cautelar encontra-se fundada na necessidade de assegurar a aplicação da lei penal, em razão do descumprimento de restrição imposta, uma vez que a acusada está foragida desde abril de 2020.
+    2. O descumprimento de medida cautelar imposta para a concessão da liberdade provisória justifica a custódia cautelar. Nesse sentido: RHC n. 49.126/MG - 6a T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 26/09/2014; HC n. 281.472/MG - 5a T. - unânime - Rel. Min. Jorge Mussi - DJe 18/06/2014; HC n. 269.431/GO - 6a T. - unânime - Rel. Min. Rogério Schietti Cruz, DJe 11/04/2014; HC n. 275.590/BA - 5a T. - unânime - Rel. Min. Laurita Vaz, DJe 26/02/2014.
+    3. Agravo regimental improvido. ”
+    2. Extrai-se dos autos que o Tribunal de Justiça do Estado de São Paulo deu provimento ao recurso em sentido estrito interposto pelo Ministério Público, a fim de decretar a prisão preventiva da paciente pela prática do crime previsto no art. 33, caput, da Lei 11.343/2006.
+    3. Inconformada com a prisão, a defesa impetrou habeas corpus no Superior Tribunal de Justiça (HC 659.205/SP). O Relator, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), indeferiu liminarmente o writ. Contra essa decisão, sobreveio a interposição de agravo regimental, não provido.
+    4. Neste habeas corpus, a parte impetrante sustenta em síntese:
+    “- a ausência de justificativa concreta para a determinação da prisão processual (falta de elementos que identifiquem fuga, ao invés de mera revelia processual); e
+    - a ausência de contemporaneidade da prisão processual determinada e os fatos – valendo lembrar a vigência do novo §2º do art. 312 do CPP, o qual, para a legitimação da prisão preventiva, exige ‘[D]a decisão que [a] decretar (...) [a] existência concreta de fatos novos ou contemporâneos que justifiquem a aplicação da medida adotada.’”
+    5. A defesa requer a concessão da ordem, “restabelecendo-se a decisão liberatória do juízo de piso”.
+    6. Decido.
+    7. O habeas corpus não deve ser concedido.
+    8.  A orientação jurisprudencial do Supremo Tribunal Federal (STF) é no sentido de que “a prisão preventiva é a ultima ratio, a derradeira medida a que se deve recorrer, e somente poderá ser imposta se as outras medidas cautelares dela diversas não se mostrarem adequadas ou suficientes para a contenção do periculum libertatis (art. 282, § 6º, CPP)” (Inq 3.842-AgR-segundo-AgR, Rel. Min. Dias Toffoli).
+    9. No caso, o STJ não divergiu desse entendimento ao assentar que “a constrição cautelar encontra-se fundada na necessidade de assegurar a aplicação da lei penal, em razão do descumprimento de restrição imposta, uma vez que a ré está foragida desde abril de 2020”. Transcrevo, nesse sentido, as seguintes passagens do acórdão do STJ:
+    “[...]
+    A decisão agravada assim dispôs (fls. 130-133):
+    Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+    Consta do decreto de prisão (fls. 93/102):
+    O recurso merece prosperar.
+    […]
+    Trata-se, com efeito, de agente presa em flagrante delito, em conhecido ponto de venda de substâncias estupefacientes, pela prática de tráfico de entorpecentes, ou seja, crime equiparado a hediondo.
+    Com a ré, foram apreendidas significativas quantias em dinheiro (R$ 117,00) e de entorpecentes, parte dos quais mais viciante e de maior nocividade saúde dos usuários (42 porções de maconha e 04 de cocaína sob a forma de "crack').
+    Confirmada, assim, a periculosidade concreta da conduta perpetrada pela recorrida.
+    De ponderar-se, ainda, que este não foi um comportamento isolado por parte de Fabiane, que é pessoa claramente envolvida com a criminalidade: conforme se depreende da sua folha de antecedentes (fls. 84/90), a acusada é reincidente em crime doloso, possuindo condenação criminal anterior definitiva por roubo majorado.
+    Constata-se, portanto, que se encontram preenchidos dois dos requisitos necessários decretação da prisão preventiva da recorrida, previstos no art. 313, I (crime doloso punido com pena privativa de liberdade máxima superior a 4 anos) e II (ré condenada por outro crime doloso, em sentença transitada em julgado), do CPP.
+    Encontram-se presentes, ainda, três dos pressupostos de decretação da prisão preventiva, previstos no art. 312 do CPP: garantia da ordem pública, conveniência da instrução criminal e necessidade de assegurar a aplicação da lei penal, sendo ainda certo que há nos autos prova da existência do crime e indícios suficientes de autoria, bem como de perigo gerado pelo estado de liberdade da imputada.
+    Verifica-se, com efeito, que, desde que foi colocada em prisão domiciliar pela Juíza a quo (ocasião em que também foi notificada da denúncia apresentada em seu desfavor— fls. 116/123 e 199), a ré não mais foi localizada — tanto é que foi citada por edital (fls. 273). Está foragida, assim, desde abril de 2020. Em 05 de fevereiro de 2021, foi certificado, a fls. 307 do processo criminal, ter decorrido o prazo do edital sem manifestação da ré. Este é, aliás, o último andamento do feito de origem. Conclui-se, deste modo, que a ré não cumpriu as condições exigidas quer por ocasião da concessão de prisão domiciliar, quer quando do deferimento de liberdade provisória. Fabiane simplesmente desapareceu ao ser colocada em liberdade e notificada da existência de processo criminal contra si.
+    Evidente, assim, que a decretação de prisão preventiva se mostra necessária garantia da ordem pública ("para, além de impedir a prática de outros delitos, acautelar o meio social" — fls. 300), conveniência da instrução criminal e para assegurar a aplicação da lei penal, pois a "acusada se encontra em local incerto e não sabido, situação que a estimula cometer novos delitos de mesma natureza" (fls. 300). [...]
+    Em resumo, em razão das circunstâncias em que a agente praticou o delito de tráfico de entorpecentes e, ainda, da sua não localização, apos ter sido colocada em liberdade e notificada da instauração de ação penal contra si, é forçoso reconhecer estarem presentes os pressupostos e requisitos da decretação de sua prisão cautelar.
+    Ao analisa-los, deve o Magistrado considerar não apenas a natureza da infração, mas as circunstâncias e as condições pessoais da ré. Quando a acusada se encontra em lugar incerto e não sabido, de modo a ensejar sua citação por edital, como na hipótese dos autos, está-se diante de conjuntura que não apenas justifica, como recomenda, a decretação da custódia preventiva, especialmente para poder assegurar-se a aplicação da lei penal. Presentes, portanto, no caso em pauta, os requisitos e pressupostos da prisão preventiva, de rigor a decretação da custódia cautelar da recorrida, com fundamento no art. 312 e no art. 313, I e II, ambos do CPP.
+    Como se vê, a constrição cautelar se encontra fundada na necessidade de manter a ordem pública e assegurar a aplicação da lei penal, em razão do descumprimento de restrição imposta, uma vez que a ré não mais foi localizada — tanto é que foi citada por edital (fls. 273). Está foragida, assim, desde abril de 2020.
+     […]
+    Sobre a argumentação a respeito da ausência de contemporaneidade, consta da decisão que a paciente encontrava-se foragida desde abril de 2020, sendo, inclusive, determinada sua citação por edital, sendo assim, não se consta manifesta ilegalidade.”
+    10. Registro que eventual acolhimento da tese defensiva no sentido de que a paciente não descumpriu as medidas cautelares impostas demandaria o revolvimento do conjunto fático-probatório, inviável em habeas corpus.
+    11.  Ademais, o STF já decidiu que a “condição de foragido do distrito da culpa reforça a necessidade da custódia para se garantir a aplicação da lei penal” (RHC 118.011, Rel. Min. Dias Toffoli).
+    12. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 08 de junho de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                             Relator
