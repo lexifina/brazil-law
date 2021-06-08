@@ -1,0 +1,26 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PRINCÍPIO DA CONSUNÇÃO. APLICAÇÃO. DESCABIMENTO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. TERCEIRA FASE DA DOSIMETRIA. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. SÚMULA N. 443/STJ. NÃO OCORRÊNCIA DE VIOLAÇÃO.
+1. Preconiza esta Corte Superior que "se reconhece o princípio da consunção quando uma norma penal incriminadora constitui meio necessário ou uma normal fase de preparação ou de execução de outro crime, caracterizando-se entre as condutas a dependência ou subordinação, ainda que os crimes em voga envolvam a tutela de bens jurídicos diversos e a infração mais grave seja absorvida pela de menor gravidade. A alteração das conclusões a que chegaram as instâncias ordinárias acerca da autonomia entre as condutas depende de nova incursão no acervo fático-probatório dos autos" (AgRg no REsp n. 1.395.672/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/3/2018, DJe 27/3/2018).
+2. As instâncias ordinárias destacaram circunstâncias concretas que justificam, na terceira fase de dosimetria, a exasperação da pena em índice superior ao mínimo legal - delito cometido com emprego de arma de grosso calibre, concurso de sete agentes e restrição, por tempo relevante, da liberdade das vítimas, as quais foram algemadas, e uma delas ainda foi feita de refém -, em total consonância, portanto, com a Súmula n. 443 desta Corte. Precedentes.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto contra decisão de minha relatoria em que conheci parcialmente do habeas corpus e, nessa extensão, deneguei a ordem.
+O agravante, em suma, reitera os termos da impetração, mais uma vez postulando a aplicação do princípio da consunção entre os delitos de roubo e de evasão mediante violência, ao fundamento de que "o roubo dos uniformes e das armas dos agentes  penitenciários  ocorreu para que houvesse êxito na fuga. O roubo dos uniformes e das armas não era o fim da conduta ou o objetivo da ação do agravante, senão o instrumento ou a conduta-meio para que lograsse sucesso na fuga" (e-STJ fl. 791).
+Aduz que "não se pretende que essa Corte Superior se debruce sobre as provas colhidas, tampouco que reexamine os documentos acostados aos autos, senão que, à luz da jurisprudência, revalore os elementos dos autos" (e-STJ fl. 792).
+Finaliza, outrossim, apontando violação à Súmula n. 443/STJ, porquanto "a fundamentação acerca da quantidade de agentes serve tão somente para caracterizar o concurso de agentes (art. 157, § 2º, II, do CP); bem como a fundamentação acerca da restrição de liberdade, do mesmo modo, fundamenta apenas a incidência do inciso V, do § 2º, do art. 157, do CP" (e-STJ fl. 794).
+Requer, assim, a reconsideração da decisão agravada ou, caso contrário, a submissão da matéria ao colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A decisão agravada, na parte que interessa ao deslinde da controvérsia, foi proferida nos seguintes termos (e-STJ fls. 779 e 781):
+Como, no caso, a Corte local, soberana na análise das circunstâncias fáticas da causa, entendeu que a subtração praticada pelo paciente e por seus comparsas contra os ofendidos Natan e Atlas não constituiu meio necessário para concretizar a evasão do ergástulo onde cumpriam pena, chegar a entendimento diverso implicaria o revolvimento do contexto fático-probatório, inviável na via estreita do habeas corpus.  ..
+Com efeito, a exasperação da pena em fração superior à mínima não se deu tão só pelo número de majorantes reconhecidas, tendo sido apresentada fundamentação concreta, capaz de justificar a aplicação cumulativa das causas de aumento reconhecidas e de demonstrar a especial reprovabilidade da conduta, notadamente, pelo fato de que a empreitada criminosa foi praticada por 7 agentes  número superior ao necessário para majorar o delito pelo concurso de pessoas  , com o emprego de arma de grosso calibre e mediante restrição, por tempo relevante, da liberdade das vítimas, as quais foram algemadas, e uma delas ainda foi feita de refém. Nesse tear, entendo justificada a aplicação de fração superior à mínima legal na terceira etapa do cálculo da dosimetria da pena. (Grifei.)
+Como se vê, o agravante limita-se a repisar os termos da impetração em sua peça recursal, razão pela qual concluo que inexistem elementos suficientes para infirmar a decisão impugnada, que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça.
+Assim, nenhuma censura merece o decisório agravado, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+Ante o exposto, voto por negar provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
