@@ -1,0 +1,61 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. NULIDADE. ART. 156 DO CÓDIGO DE PROCESSO PENAL. INVERSÃO DO ÔNUS DA PROVA. NÃO OCORRÊNCIA. ORDEM DENEGADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. As instâncias ordinárias, amparadas no acervo probatório, demonstraram que a materialidade e a autoria do delito imputado ao agravante estariam evidenciadas em razão da apreensão da res furtiva em seu poder, de maneira que, tendo o agravante alegado que comprara o bem por R$ 150,00, caberia à própria defesa a comprovação da origem lícita do bem. Precedentes.
+2. Nos termos do art. 156 do Código de Processo Penal, a prova da alegação incumbirá a quem a fizer. Nesse sentido, não há que se falar em nulidade por inversão do ônus da prova na espécie, visto que caberia ao agravante no mínimo a declinação de mais detalhes acerca da pessoa que lhe teria feito a venda, o que não ocorreu, tendo o paciente sido encontrado pouco depois do furto em local próximo e na posse do bem subtraído, corroborando o que já havia constado dos relatos da testemunha e termos de apreensão e restituição.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por BRUNO HENRIQUE DA SILVA contra a decisão de e-STJ fls. 231/235, por meio da qual deneguei a ordem.
+Na hipótese, o agravante foi condenado, por infração do art. 155, § 4º, I, do Código Penal, a 2 anos e 8 meses de reclusão, em regime fechado, e 27 dias-multa (e-STJ fls. 93/96).
+Interposta a apelação, o Tribunal de origem deu parcial provimento ao recurso em acórdão cuja ementa foi assim definida (e-STJ fl. 157):
+APELAÇÃO CRIMINAL. FURTO QUALIFICADO. MATERIALIDADE E AUTORIA COMPROVADAS. PALAVRAS FIRMES DOS POLICIAIS MILITARES. POSSE DA RES FURTIVA. JUSTIFICATIVAS INSUFICIENTES. CONDENAÇÃO MANTIDA.
+Nos crimes contra o patrimônio, a posse da res furtiva constitui elemento forte e pode conduzir à inversão do ônus da prova, todavia cabe à acusação, que detém a obrigação jurídica de provar o alegado na denúncia, e não ao réu albergado constitucionalmente pelo princípio da presunção de inocência, em um sistema processual penal acusatório, derruir as justificativas eventualmente lançadas e apresentar outros elementos de convicção que corroborem aquela presunção.
+ABRANDAMENTO PARA O REGIME PRISIONAL SEMIABERTO. POSSIBILIDADE. PRINCÍPIO DA PROPORCIONALIDADE. SÚMULA 269 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. CULPABILIDADE ELEVADA E REINCIDÊNCIA. MEDIDA NÃO SOCIALMENTE RECOMENDÁVEL. RECURSO PARCIALMENTE PROVIDO.
+1 Em atenção aos princípios da individualização da pena e da proporcionalidade, bem como ao entendimento de que, em se tratando de penas curtas, o regime mais gravoso traz efeitos negativos que poderiam ser evitados, considera-se adequada a imposição da modalidade intermediária.
+2 A culpabilidade elevada e a reincidência obstam a substituição da pena privativa de liberdade por restritivas de direitos, porquanto informam que a medida não é socialmente recomendável.
+PENA DE MULTA. FALTA DE PROPORCIONALIDADE COM A SANÇÃO CORPORAL. ADEQUAÇÃO DE OFÍCIO.
+A multa deve ser aplicada de forma proporcional à pena privativa de liberdade.
+Neste writ, sustentou a Defensoria Pública que houve inversão do ônus da prova em detrimento do acusado, em violação ao disposto no art. 156 do CPP.
+Requereu, assim, o reconhecimento da nulidade do acórdão e a concessão da ordem para absolver o paciente.
+Às e-STJ fls. 231/235, deneguei a ordem.
+Nesta oportunidade, a Defensoria Pública da União reforça a alegação de que houve violação ao disposto no art. 156 do CPP, afirmando que "consta nos autos que a mera posse do bem gerou presunção de que o acusado efetivamente praticou o furto. Indo além, a mera posse do bem também foi utilizada para se inferir que o réu praticou furto qualificado por rompimento de obstáculo, não havendo, contudo, nenhuma prova que amparasse a afirmação" (e-STJ fl. 241).
+Pondera, nesse sentido, que "há  ..  patente presunção de culpabilidade do réu", pois, "se o Agravante comprou na rua uma mercadoria de terceiro ao qual não conhecia, não se pode exigir que esse lembre precisamente das características físicas do indivíduo, tampouco de seu nome" (e-STJ fl. 242).
+Sustenta que "utilizar a posse do bem para comprovar que o réu não apenas furtou o bem, mas também entrou em uma residência por meio de rompimento de obstáculo, demonstra a fraqueza da tese ministerial, que, não possuindo nenhuma prova contundente para asseverar sua afirmação, lança mão de presunções" (e-STJ fl. 242).
+Requer, ao final, o provimento do recurso para declarar a nulidade do acórdão e, por consequência, absolver o acusado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O agravo não merece prosperar.
+Acerca da controvérsia, assim consignou o Tribunal de origem (e-STJ fl. 161):
+Segundo entendimento dominante desta Corte, a posse da res furtiva, com a falta de explicação plausível para tanto, gera forte presunção de responsabilidade pela subtração (Apelação Criminal n. 2011.075782-8, de Içara, rel. Des. Leopoldo Augusto Brüggemann, j. em 26/6/2012).
+A denominada inversão do ônus da prova, o qual passa a ser atribuído aquele que detenha o produto de crime contra o patrimônio, não deve ser entendida como circunstância que lhe atribua a responsabilização objetiva pela prática do delito. Caso o agente seja encontrado nessa situação, fato que efetivamente constitui prova forte, incumbe-lhe a apresentação de justificativa plausível, suficiente para afastar a autoria e/ou demonstrar que a sua aquisição se deu de forma lícita ou diversa daquela estampada na inicial.
+Por outro lado, cabe à acusação, que detém a obrigação jurídica de provar o alegado na denúncia, e não ao réu albergado constitucionalmente pelo princípio da presunção de inocência, em um sistema processual penal acusatório, derruir as justificativas lançadas e apresentar outros elementos de convicção que corroborem a presunção firmada pela detenção dos objetos arrebatados.
+Na espécie, as escusas apresentadas pelo acusado, na tentativa de imputar a terceiro a autoria delitiva, não gozam de credibilidade nem se conformam com os demais elementos apresentados. Como se viu, o apelante, pouco tempo depois de ocorrida a subtração, nas proximidades da residência, foi surpreendido na posse de um dos televisores, conforme confessou e consta dos relatos da testemunha e dos termos de apreensão e restituição (fls. 6/7 e 67/68).
+Sendo assim, não pode ser acolhido o pedido absolutório. (Grifei.)
+Não vislumbrei, da análise do excerto acima colacionado, a existência da apontada ofensa ao disposto no art. 156 do Código de Processo Penal.
+Com efeito, as instâncias ordinárias, amparadas no acervo probatório, demonstraram que a materialidade e a autoria do delito imputado ao agravante estariam evidenciadas em razão da apreensão da res furtiva em seu poder, de maneira que, tendo o agravante alegado que comprara o bem por R$ 150,00, caberia à própria defesa a comprovação de tal alegação, nos termos do disposto no art. 156 do Código de Processo Penal.
+Ora, consoante o art. 156 do CPP, a prova da alegação incumbirá a quem a fizer. Nesse sentido, caberia ao agravante no mínimo a declinação de mais detalhes acerca da pessoa que lhe teria feito a venda (e-STJ fl. 94), o que não ocorreu, tendo o paciente sido encontrado pouco depois do furto na posse do bem subtraído, em local distante aproximadamente 1km (um quilômetro) do local da subtração, corroborando o que já havia constado dos relatos da testemunha e termos de apreensão e restituição.
+Em casos semelhantes, aliás, esta Corte decidiu da mesma forma, senão vejamos:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. FURTO CIRCUNSTANCIADO. ABSOLVIÇÃO. IMPROPRIEDADE NA VIA ELEITA. INVERSÃO DO ÔNUS DA PROVA. ART. 156 DO CÓDIGO DE PROCESSO PENAL. RÉU SURPREENDIDO NA POSSE DA RES FURTIVAE. DOSIMETRIA. MAUS ANTECEDENTES COMPROVADOS. NULIDADE DA SENTENÇA NÃO EVIDENCIADA. RÉU MULTIRREINCIDENTE. AUMENTO SUPERIOR A 1/6 PELA REINCIDÊNCIA. MOTIVAÇÃO IDÔNEA DECLINADA. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita. Precedentes.
+3. Se as instâncias ordinárias, mediante valoração do acervo probatório produzido nos autos, entenderam, de forma fundamentada, ser o réu autor do delito descrito na exordial acusatória, a análise das alegações concernentes ao pleito de absolvição demandaria exame detido de provas, inviável em sede de writ.
+4. Nos termos da jurisprudência desta Corte, "não há falar em nulidade absoluta em razão de alegada ofensa ao disposto no artigo 156 do Código de Processo Penal, eis que, diante da apreensão da res furtiva em poder do paciente, caberia à defesa apresentar prova acerca da origem lícita do bem" (HC 348.374/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016).
+ ..
+10. Writ não conhecido.
+(HC 390.920/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017, grifei)
+HABEAS CORPUS. RECEPTAÇÃO. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL. NULIDADE. INVERSÃO DO ÔNUS DA PROVA. OFENSA AO ARTIGO 156 DO CÓDIGO DE PROCESSO PENAL. INEXISTÊNCIA. DESCLASSIFICAÇÃO. REVOLVIMENTO FÁTICO- PROBATÓRIO. IMPOSSIBILIDADE. DOSIMETRIA. CONDUTA SOCIAL DESFAVORÁVEL. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. ILEGALIDADE EVIDENCIADA. NÃO CONHECIMENTO. ORDEM DE OFÍCIO.
+1. Tratando-se de habeas corpus substitutivo de recurso especial, inviável o seu conhecimento.
+2. Não há falar em nulidade absoluta em razão de alegada ofensa ao disposto no artigo 156 do Código de Processo Penal, eis que, diante da apreensão da res furtiva em poder do paciente, caberia à defesa apresentar prova acerca da origem lícita do bem.
+3. O mandamus se presta a sanar ilegalidade ou abuso de poder que resulte em coação ou ameaça à liberdade de locomoção. Não cabe nesta via estreita o revolvimento fático-probatório a ensejar a desclassificação do crime em apreço para receptação culposa.
+4. A dosimetria é uma operação lógica, formalmente estruturada, de acordo com o princípio da individualização da pena. Tal procedimento envolve profundo exame das condicionantes fáticas, sendo, em regra, vedado revê-lo em sede de habeas corpus. Na espécie, a pena-base foi fixada acima do mínimo legal em razão da valoração negativa da conduta social do paciente.
+Todavia, a exasperação cifrada em feitos criminais em curso esbarra no princípio da desconsideração prévia de culpabilidade, entendimento, aliás, constante do Enunciado Sumular n.º 444 desta Casa de Justiça. De rigor, o decote no incremento sancionatório.
+5. Nos termos do artigo 33 do Código Penal, é adequado o estabelecimento do regime inicial mais brando, tendo em vista que a pena definitiva é inferior a 4 anos, as circunstâncias judiciais são favoráveis, bem como pelo fato de o paciente não ser reincidente.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de reduzir a pena do paciente para 1 (um) ano de reclusão, mais 10 (dez) dias- multa, estabelecido o regime inicial aberto.
+(HC 348.374/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/03/2016, DJe 16/03/2016, grifei)
+Mantenho a decisão agravada, pois, por seus próprios fundamentos e nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
