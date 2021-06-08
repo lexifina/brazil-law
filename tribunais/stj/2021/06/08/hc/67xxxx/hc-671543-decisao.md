@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARCOS VINICIUS DA SILVA PINTO no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 1517972-06.2020.8.26.0228).
+Depreende-se dos autos que o paciente foi condenado, como incurso no art. 157, caput, do Código Penal, à pena de 5 anos, 7 meses e 6 dias de reclusão, no regime inicial fechado.
+Foi negado provimento ao recurso de apelação da defesa em acórdão assim ementado (e-STJ fl. 76):
+Apelação da Defesa Roubo Suficiência de provas à condenação Prisão em flagrante em poder dos bens subtraídos Reconhecimento pessoal pela vítima em ambas as fases da persecução penal Consistentes relatos da vítima e dos policiais militares Negativa do réu inverossímil e isolada no contexto probatório Condenação mantida Pena-base fixada acima no mínimo legal, com fundamento nos maus antecedentes e na dupla reincidência específica do réu Dosimetria em desacordo com os critérios processual penal estabelecidos pelo legislador, de forma benéfica ao acusado, mas que fica mantida, haja vista a resignação do representante do Ministério Público Circunstância agravante de crime praticado em situação da calamidade pública, bem reconhecida Regime inicial fechado, adequado Crime praticado com grave ameaça à pessoa, por réu reincidente específico e portador de maus antecedentes criminais Necessidade de maior rigor no cumprimento da pena Recurso de apelação desprovido.
+Alega a defesa, na presente impetração, que deve ser afastada a agravante inserta no art. 61, II, j, do Código Penal, "uma vez que o estado de calamidade decretado em virtude da pandemia em nada contribuiu ou facilitou a execução do delito" (e-STJ fl. 14).
+Requer, liminarmente e no mérito, a redução da pena.
+É, em síntese, o relatório.
+O Magistrado, ao aplicar a pena, majorou-a na segunda fase, aplicandoa agravante inserta no art. 61, II, j, do Código Penal, "pois vigia este estado à época" (e-STJ fl. 44).
+O Tribunal de origem chancelou a aplicação (e-STJ fl. 80):
+Na segunda fase da dosimetria, a pena foi exasperada em 1/6 por força da circunstância agravante de crime praticado em situação de calamidade pública pandemia de Covid-19 , a teor do artigo 61, inciso II, alínea "j", do Código Penal, tornando-se definitiva em 05 anos, 07 meses e 06 dias de reclusão e 14 dias-multa em seu mínimo unitário.
+Vê-se, portanto, que o acórdão atacado diverge da orientação firmada por esta Corte, no sentido de que "a incidência da agravante da calamidade pública pressupõe a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática delitiva" (HC n. 625.645/SP, RelatorMinistro FELIX FISCHER, DJe 4/12/2020), situação não descrita na hipótese.
+Ante o exposto, concedo liminarmente a ordem para afastar a aplicação da agravanteinserta no art. 61, II, j, do Código Penal.
+Publique-se. Intimem-se.
