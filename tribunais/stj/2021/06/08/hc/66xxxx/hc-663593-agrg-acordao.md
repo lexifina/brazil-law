@@ -1,0 +1,25 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INCOMPETÊNCIA DESTA CORTE. DECISÃO AGRAVADA QUE NÃO CONHECEU DA IMPETRAÇÃO, MAS CONCEDEU HABEAS CORPUS DE OFÍCIO PARA RESTABELECER O REDUTOR NOS MOLDES FIXADOS NA SENTENÇA. RECURSO QUE ALMEJA A FIXAÇÃO DO REDUTOR EM PATAMAR MAIS BENÉFICO AO PACIENTE. PROCEDÊNCIA. QUANTIDADE DE DROGAS QUE NÃO JUSTIFICA, NO CASO, FIXAÇÃO DE FRAÇÃO AQUÉM DO MÁXIMO LEGAL. REDUÇÃO DA PENA, ABRANDAMENTO DO REGIME INICIAL DE CUMPRIMENTO E SUBSTITUIÇÃO DA PENA CORPORAL POR DUAS RESTRITIVAS DE DIREITOS. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+Agravo regimental improvido. Habeas corpus concedido de ofício.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, mas conceder a ordem de ofício, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por José Augusto Rosa Derval contra a decisão monocrática, de minha lavra, assim ementada (fl. 44):
+HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INCOMPETÊNCIA DESTA CORTE. AUSÊNCIA DE JULGAMENTO DE MÉRITO PASSÍVEL DE REVISÃO. ILEGALIDADE FLAGRANTE. REDUTOR ESPECIAL AFASTADO APENAS COM BASE NA QUANTIDADE DE DROGAS. INIDONEIDADE. RESTABELECIMENTO DO REDUTOR NOS MOLDES FIXADOS NA SENTENÇA (FRAÇÃO DE 1/6).
+Writ não conhecido. Ordem concedida de ofício, nos termos do dispositivo.
+Nas razões, a defesa do agravante insistiu na tese de que há ilegalidade na fixação da fração do redutor especial da pena (art. 33,§ 4º, da Lei n. 11.343/2006) em patamar aquém do máximo legal.
+Aduziu, em síntese, que a quantidade de drogas deve ser sopesada na fixação da pena-base, e não na terceira fase da dosimetria da pena, tal como verificado no caso. Alegou, ainda, que a fração estipulada é inadequada, considerando a pouca quantidade de droga apreendida.
+Pugnou, assim, pela reforma da decisão agravada, a fim de que a pena seja reduzida na fração de 1/2 ou 2/3, com o consequente abrandamento do regime inicial de pena e concessão da pena substitutiva.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INCOMPETÊNCIA DESTA CORTE. DECISÃO AGRAVADA QUE NÃO CONHECEU DA IMPETRAÇÃO, MAS CONCEDEUHABEAS CORPUSDE OFÍCIO PARA RESTABELECER O REDUTOR NOS MOLDES FIXADOS NA SENTENÇA. RECURSO QUE ALMEJA A FIXAÇÃO DO REDUTOR EM PATAMAR MAIS BENÉFICO AO PACIENTE. PROCEDÊNCIA. QUANTIDADE DE DROGAS QUE NÃO JUSTIFICA, NO CASO, FIXAÇÃO DE FRAÇÃO AQUÉM DO MÁXIMO LEGAL. REDUÇÃO DA PENA, ABRANDAMENTO DO REGIME INICIAL DE CUMPRIMENTO E SUBSTITUIÇÃO DA PENA CORPORAL POR DUAS RESTRITIVAS DE DIREITOS. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+Agravo regimental improvido. Habeas corpus concedido de ofício.
+VOTO
+Cumpre rememorar quewritfoi impetrado contra condenação transitada em julgado, ou seja, é sucedâneo de revisão criminal, sendo esta Corte absolutamente incompetente para o processamento do pedido, pois inexiste julgamento de mérito passível de revisão.
+Assim, deve ser mantida a decisão que não conheceu dohabeas corpus.
+No entanto, por vislumbrarilegalidade flagrante na fundamentação lançada no acórdão da apelação para vedar a incidência do redutor especial da pena (art. 33, § 4º, da Lei n. 11.343/2006), entendi viável a concessão dehabeas corpusde ofício (art. 654, § 2º, do CPP), a fim de restabelecer o redutor nos moldes fixados na sentença (fração de 1/6) - fls. 44/47.
+O agravante, no entanto, almeja, no presente recurso, a fixação da fração de redução em patamar superior ao mínimo, sob o argumento de que a quantidade de droga apreendida não foi elevada(fl. 54).
+Compulsando os autos, entendopossível a concessão dehabeas corpusde ofício em termos mais benéficos.
+Ora, embora a quantidade/natureza dasdrogas consubstancie elemento apto a justificar a modulação da fração do redutor especial da pena (art. 33,§ 4º, da Lei n. 11.343/2006),a quantidade verificada no caso- 91 gramas de cocaína, 2,2 g de maconha e 23 unidades de4-Cloro 2,5 Dimetoxifeniletilamina(fl. 13)-, não justifica a fixação da fração em patamar aquém do máximo legal (2/3), pois não denota tráfico de drogas diferente do usual.
+Assim, é caso de conceder habeas corpusde ofício (art. 654, § 2º, do CPP), em favor do agravante, a fim de reduzir a pena a1 ano e 8 meses de reclusão, em regime aberto, substituída a pena corporal por duas restritivas de direitos (art. 44 do CP), a serem estabelecidas pelo juízo da execução (Processo n.1500734-43.2019.8.26.0572 (2ª Vara da comarca de São Joaquim da Barra/SP)
+Ante o exposto, nego provimentoao agravo regimental, mas concedohabeas corpusde ofício,nos moldes acima explanados.
