@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por VIA JAP COMÉRCIO DE VEÍCULOS LTDA. e OUTRAS contra decisão por mim proferida, constante às e-STJ fls. 650/659, em que, dando parcial provimento ao recurso especial do ESTADO DE MINAS GERAIS e dando provimento ao recurso especial das empresas, condicionei a restituição ou aproveitamentodecréditos de ICMS/ST referentes às operações realizadas com preço menor do que a base de cálculo presumida (RE 593.849/MG), atualizados pelos mesmos índices utilizados pela Fazenda Pública para atualização desse tributo, ao atendimento do procedimento preconizado no art. 10, §§ 1º e 2º, da LC n. 87/1996, com a determinação de retorno dos autos ao Tribunal de origem para que arbitre, desde logo, a verba honorária devida aos advogados da parte autora.
+Nas suas razões (e-STJ fls. 670/672), as empresas embargantes sustentam que o acórdão recorrido incorreu em omissão, pois não teria havido manifestação sobre a possibilidade de a restituição devida ocorrer judicialmenteviaprecatório.
+A parte embargada apresentou impugnação (e-STJ fls. 670/672).
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material, vícios esses inexistentes na espécie.
+Isso porque da fundamentação consignada na decisão agravada é facilmente possível compreender que o provimento judicial alcançado foi exclusivamente de cunho declaratório, qual seja, o de declarar o direito das contribuintes de postularem na via administrativa a restituição preferencial do ICMS que fora pago a maior pelo regime da substituição tributária, devidamente atualizado.
+Frise-se que o art. 10 da LC n. 87/1996 condiciona o exercício do direito à devolução do excedente recolhido à apresentação de requerimento administrativo, oportunizando previamente ao fisco a prerrogativa de verificar o montante do crédito reclamado pelo contribuinte.
+Assim, somente depois de eventualmenteindeferido tal requerimento administrativo é que surgirá para o contribuinte a possibilidade de, em demanda própria,questionar tal decisão e buscar a restituição do ICMS/STna esfera judicial, com a condenação do ente público à devolução do valor a ser apurado no processo via precatório.
+Ante o exposto, REJEITO os embargos de declaração.
+Transcorrido o prazo recursal, voltem-me os autos conclusos para o exame do agravo interno de e-STJ fls. 674/678.
+Publique-se. Intimem-se.
