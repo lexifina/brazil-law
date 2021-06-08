@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. SUSTENTAÇÃO ORAL EM AGRAVO REGIMENTAL. INADMISSIBILIDADE.PORTE DE ARMA DE FOGO DE USO PERMITIDO. PRINCÍPIO DA CONSUNÇÃO. INAPLICABILIDADE. DESÍGNIOS AUTÔNOMOS. ÓBICE DA SÚMULA N. 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do artigo 159, inciso IV, do RISTJ, não se admite sustentação oral no julgamento do agravo regimental.
+2.No caso dos autos, incabível a absorção do crime de porte ilegal de arma pelo de disparo de arma de fogo, mediante aplicação do princípio da consunção, notadamente diante da ocorrência de designíos autônomos, pois o porte ilegal de revólver precedeu à prática do disparo e se encontrava no veículo antes mesmo do uso. Aplicável o óbice da Súmula n. 83/STJ.
+3. Entender de forma diversa das instâncias ordináriasdemandaria o reexame do conjunto probatório, o que não se viabiliza em recurso especial, a teor do verbete n. 7 da Súmula do STJ.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisãode fls. 693/697, em que negadoprovimento ao recurso especial do ora agravante.
+O agravante sustenta ser desnecessário o reexame de provas, salientando que o porte de arma de fogo erameio necessário para o exercício da legítima defesa, com o disparo da arma de fogo (crime fim) para o alto, ocorrendo tudo no mesmo contexto fático, evidenciandoo princípio da consunção ou subsidiariedade, devendo ser absolvido dos crimes a ele imputados. Assegura que a decisão monocrática está divergente da interpretação atribuída por outros Tribunais.
+Pleiteia, assim, a reconsideração da decisão monocrática ou a submissão do recurso ao Órgão Colegiado, ou, ainda, a concessão de habeas corpus de ofício.
+O patrono requer a intimação para a sustentação oral.
+É o relatório
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. SUSTENTAÇÃO ORAL EM AGRAVO REGIMENTAL. INADMISSIBILIDADE.PORTE DE ARMA DE FOGO DE USO PERMITIDO. PRINCÍPIO DA CONSUNÇÃO. INAPLICABILIDADE. DESÍGNIOS AUTÔNOMOS. ÓBICE DA SÚMULA N. 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do artigo 159, inciso IV, do RISTJ, não se admite sustentação oral no julgamento do agravo regimental.
+2.No caso dos autos, incabível a absorção do crime de porte ilegal de arma pelo de disparo de arma de fogo, mediante aplicação do princípio da consunção, notadamente diante da ocorrência de designíos autônomos, pois o porte ilegal de revólver precedeu à prática do disparo e se encontrava no veículo antes mesmo do uso. Aplicável o óbice da Súmula n. 83/STJ.
+3. Entender de forma diversa das instâncias ordináriasdemandaria o reexame do conjunto probatório, o que não se viabiliza em recurso especial, a teor do verbete n. 7 da Súmula do STJ.
+4. Agravo regimental desprovido.
+VOTO
+O recurso não merece provimento.
+De início, nos termos do artigo 159, inciso IV, do RISTJ, não se admite sustentação oral no julgamento do agravo regimental.
+O agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático.
+Pretende a absorção do crime de porte de arma pelo crime de disparo de arma. O Tribunal de origem solveu a questão controvertida consignando o seguinte:
+"Assim, incabível o pleito de aplicação do princípio da consunção, reconhecendo o crime de porte ilegal de arma de fogo (artigo 14, "caput", da Lei nº 10.826/03) absorvido pelo delito de disparo (artigo 15 da referida lei), pois evidente a inexistência de relação necessária de meio e fim do porte ilegal de arma de fogo com o disparo efetuado. Importante ressaltar que, neste aspecto, o porte ilegal de revólver precedeu à prática do disparo, isto é, decorreu de desígnio autônomo, tendo sido praticado em momento distinto. O princípio da consunção, que está na base da progressão criminosa, só ocorre quando a potencialidade lesiva do crime antecedente se esgota no crime fim, o que não se verificou no caso, pois o apelante já transportava a arma de fogo, tendo-a guardada em seu veículo, antes de usá-la para efetuar o disparo. Portanto, já a portava anteriormente, sendo que não passou a possuí-la ou portá-la visando, unicamente, aquele específico disparo. Desígnios diversos, portanto. Assim, como bem verificado pela douta sentenciante, o recorrente agiu em razão da excludente de ilicitude, consistente em legítima defesa, apenas em relação ao delito previsto no artigo 15, " caput", da Lei nº 10.826/03." (fls. 263/264)
+No caso dos autos, incabível a absorção do crime de porte ilegal de arma pelo de disparo de arma de fogo, mediante aplicação do princípio da consunção, notadamente diante da ocorrência de designíos autônomos, pois o porte ilegal de revólver precedeu à prática do disparo e se encontrava no veículo antes mesmo do uso. No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA E DISPARO DE ARMA. PRINCÍPIO DA CONSUNÇÃO. NÃO APLICAÇÃO. CRIMES PRATICADOS COM DESÍGNIOS DIFERENTES. REVISÃO. REEXAME FÁTICO PROBATÓRIO. DESCABIMENTO EM SEDE DE HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo a jurisprudência desta Corte Superior de Justiça, aplica-se o princípio da consunção aos crimes de porte ilegal e de disparo de arma de fogo ocorridos no mesmo contexto fático, quando presente nexo de dependência entre as condutas, considerando-se o porte crime-meio para a execução do disparo de arma de fogo (AgRg no AREsp n. 1211409/MS, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 8/5/2018, DJe 21/5/2018).
+2. Na hipótese, as instâncias locais entenderam pela ocorrência de crime autônomo por ter o agente atuado com desígnios autônomos, uma vez que chegou ao evento portando a arma de fogo por volta das 21 horas, e somente efetuou o disparo a 1 hora da manhã, como represália por ter tido sua conduta ilícita de portar arma de fogo informada aos agentes públicos. Entendimento em sentido contrário demandaria o reexame de matéria probatória, inviável em sede de habeas corpus.
+3. Agravo regimental não provido.
+(AgRg no HC 632.308/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 4/2/2021).
+PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO E DANO QUALIFICADO. CONSUNÇÃO. CONTEXTOS FÁTICOS DISTINTOS. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ERRO DE TIPO E INEXISTÊNCIA DE QUALIFICADORA NO CRIME DE DANO. AUSÊNCIA DE PREQUESTIONAMENTO. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se caracteriza a alegada ofensa ao princípio da colegialidade diante da existência de previsão legal e regimental para que o relator julgue, monocraticamente, recurso especial, com esteio em óbices processuais e na jurisprudência dominante desta Corte, hipótese ocorrida nos autos. Precedentes.
+2. Tendo o Tribunal a quo entendido que o crime de porte de arma de fogo e de disparo de arma foram cometidos e contextos fáticos diversos, entender de forma diversa, demandaria o reexame do conjunto probatório, o que não se viabiliza em recurso especial. Incidente o verbete n. 7 da Súmula do STJ.
+3. As questões acerca da existência de erro de tipo e inexistência de qualificadora no crime de dano não foram objeto de debate pelo v. aresto recorrido, estando ausente o prequestionamento, requisito indispensável ao exame do apelo nobre, motivo pelo qual incidem as Súmulas n. 211 desta Corte e Súmulas ns. 282 e 356 do STF, aplicadas por analogia.
+4. Inviável o recurso especial pela alínea "c" do permissivo constitucional, quando não realizado o cotejo analítico e não comprovada a similitude fática entre o aresto recorrido e os trazidos à colação, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil/2015 - CPC e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça - RISTJ.
+5. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp 1627902/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 10/8/2020).
+Assim, aplicável o óbice da Súmula n. 83/STJ, que serve tanto para a alínea "a" quanto para a "b" do permissivo constitucional.
+Ademais, entender de forma diversa das instâncias ordináriasdemandaria o reexame do conjunto probatório, o que não se viabiliza em recurso especial, a teor do verbete n. 7 da Súmula do STJ. Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PORTE DE ARMA DE FOGO E DISPARO. CONSUNÇÃO. CONTEXTOS FÁTICOS DISTINTOS. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Aplica-se o princípio da consunção aos crimes de porte ilegal e de disparo de arma de fogo ocorridos no mesmo contexto fático, quando presente nexo de dependência entre as condutas, considerando-se o porte crime-meio para a execução do disparo de arma de fogo.
+2. Concluindo o Tribunal de origem, com apoio no conjunto probatório dos autos, que os crimes de posse e de disparo de arma de fogo não foram praticados no mesmo contexto fático, porquanto se aperfeiçoaram em momentos diversos e com desígnios autônomos, a reversão do julgado encontra óbice na Súmula 7/STJ.
+3. Agravo regimental improvido.
+(AgRg no AREsp 1.211.409/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/5/2018).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
