@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARLENE TERESINHA RIBAS FERREIRA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. POSSE (BENS IMÓVEIS). AÇÃO ANULATORIA CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. MANDATO. PODERES. Nos termos do §1º do art. 661 do CC, para alienar, hipotecar, transigir ou praticar quaisquer atos que exorbitem da administração ordinária, depende a procuração de poderes especiais e expressos.
+DOAÇÃO. Considera-se doação o contrato em que uma pessoa, por liberalidade, transfere do seu patrimônio bens ou vantagens para o de outra (art. 538 do CC). A doação realizada por procurador exige, além de poderes especiais expressos, a indicação do objeto da doação e do donatário, sob pena de nulidade. Precedente STJ.
+DANO MORAL. Simples transtornos ou meros dissabores nas relações econômicas e sociais não têm relevância suficiente para caracterizar dano moral. No caso concreto, inexiste prova mínima capaz de demonstrar que a nulidade do negócio jurídico objeto do litígio configure situação suficiente para formar convicção no sentido de que tenha ocorrido agressão a direito de personalidade defensável, considerando que inexistente demonstração inequívoca de ofensa superior ou extraordinária a direito de personalidade da parte.
+APELAÇÃO PARCIALMENTE PROVIDA.
+Quanto à controvérsia, alega violação do art. 662 do CC, sustentando a ratificação da doação praticada, porquanto tratar-se-ia de ato anulável e não nulo, conforme argumentos a seguir expostos:
+O r. acórdão recorrido foi no sentido de dar parcial provimento ao apelo, para bem de declarar a nulidade das escrituras públicas, com o fundamento de inexistência de poderes suficientes para a doação do imóvel.
+Contudo, da análise do artigo 662 do Código Civil, constata-se que, na hipótese de inexistência de poderes suficientes no mandato, conforme consta da r. decisão, os atos poderão ser ratificados, in verbis:  .. .
+ ..
+Ou seja, havendo possibilidade de ratificação de ato praticado com excesso de mandato, trata-se de ato anulável, não sendo nulo, uma vez que este jamais pode ser ratificado.
+ ..
+Demais disso, conclui-se que as escrituras públicas de doação e de usufruto não são passíveis de ação declaratória de nulidade, uma vez que são atos anuláveis, razão pela qual a manutenção da sentença de primeiro grau é medida imperiosa.
+Desta forma, rogando a devida vênia, cabe a este egrégio Tribunal, em última instância, e entendendo à competência constitucionalmente prevista, dar vigência ao disposto no artigo 662, do Código Civil, para bem de julgar totalmente improcedente a ação ajuizada, tendo em vista a impossibilidade de ratificação de ato nulo, devendo ter sido ajuizado ação ordinária objetivando a anulação das escrituras públicas objeto da lide, consoante apresentado nestas razões recursais (fls. 382/384).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Note-se que, além de inexistir a indicação do donatário, a procuração outorgada pelo autor à requerida sequer traz poderes especiais para doação, o que invalida o ato jurídico.
+Diante de tal quadro, inobservada exigência imprescindível à validade do negócio jurídico, impositivo o reconhecimento de sua anulação.
+Outrossim, decorrendo desta doação a escritura pública de constituição de usufruto n. 61.611 (fl. 21) e sua inscrição à matrícula do imóvel (R.18 da matrícula 90.600 do Registro de Imóveis de Capão da Canoa - RS - fl. 37), impositiva a nulidade e cancelamento de tais atos (fl. 340).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
