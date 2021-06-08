@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de decisão que indeferiu medida liminar no writ antecedente.
+A paciente foi presa preventivamente pelos delitos de tráfico de drogas e associação para o tráfico.
+O impetrante argumenta ser cabível a custódia domiciliar, diante da condição materna.
+Deferida a liminar e prestadas informações, o Ministério Público opinou pelo não conhecimento ou denegação da ordem.
+Na origem, ainda não foi apreciado o mérito do HC 5068457-57.2021.8.21.7000; contudo, os autos foram conclusos para julgamento, após juntado parecer ministerial, em 27/5/2021, consoante informações disponíveis na página da Corte local (acesso em 3/6/2021).
+A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal a quo, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+Consta da decisão do Tribunal de origem que indeferiu a liminar (fls. 24-26):
+Ademais, observa-se que o decreto prisional, lançado pela magistrada atuante na Comarca, está devidamente fundamentado, ao apontar o abalo da ordem pública, pressuposto presente no art.312 do CPP, para fundamentar a impossibilidade de eventual liberdade à paciente, bem como demonstrou suficientes indícios de autoria e da materialidade dos supostos crimes, nos seguintes termos:
+(..)
+"Com efeito, a representação da prisão preventiva de DÉBORA MARIA DOS SANTOS é feita em razão das suspeitas da prática dos crimes capitulados nos art. 33 e 35 da Lei 11.343/2006, cujas penas privativas de liberdade máximas são superiores a quatro anos.
+E tal imputação é feita com base em informações extraídas após quebra do sigilo telefónico dos aparelhos utilizados por Bruno Silveira de Carvalho e da própria investigada DÉBORA, apreendidos em cumprimento a mandados de busca e apreensão expedidos no âmbito da "Operação Supremacia". Através das conversas e fotografias, verifica-se que a representada, em tese, faz parte de uma organização criminosa (facção criminosa) com atuação nesta cidade, praticando os crimes de tráfico de drogas e associação para o tráfico.  ..
+Cumpre referir que em cumprimento ao mandado de busca e apreensão, a paciente não foi localizada, inexistindo nos autos informação de que tenha se apresentado em delegacia para esclarecimentos.
+Diante de tais circunstâncias, inegável a existência de indícios de que a representada faz parte, em tese, de uma associação criminosa, exercendo o tráfico de drogas nesta cidade de Sobradinho.
+Assim, o periculum libertatis é verificado a partir dos indícios que denotam a habitualidade delitiva e que, pela natureza do crime perpetrado, indicam probabilidade de reiteração, sem olvidar as informações de que a paciente tinha íntimo envolvimento com o comércio ilegal de drogas.
+Saliento, com o fito de evitar eventual recurso indesejado, que a existência de condições pessoais favoráveis, tais como a eventual primariedade, bons antecedentes, residência fixa, trabalho lícito, conduta abonada, entre outros, não é suficiente para determinar a liberdade provisória, ainda mais quando constatado, a partir das circunstâncias referidas, que a decretação da prisão é devida, como no caso.
+Importa referir, ainda, que as questões ligadas diretamente ao mérito da ação serão analisadas em momento oportuno, uma vez que é inviável o exame aprofundado das provas em sede de habeas corpus. A comprovação ou não da efetiva participação da paciente na prática dos delitos imputado constitui matéria de alta indagação, a demandar dilação probatória, razão pela qual deve ser realizada no bojo da ação de conhecimento.
+No que tange ao pedido subsidiário formulado pelo impetrante de aplicação das medidas cautelares previstas no art.319 do Código de Processo Penal, tenho por bem indeferi -lo, dado o caráter permanente do crime de tráfico de drogas, sendo latente o risco de reiteração da atividade criminosa. Da mesma forma, descabido o pedido de prisão domiciliar, nos termos do art.118, V do CPP, pois medidas insuficientes e inadequadas ao caso, por ora.
+Como visto, indeferiu-se o pedido de custódia domiciliar ao argumento de que a medida seria inadequada e insuficiente ao caso, destacando-se o caráter permanente do crime de tráfico de drogas e o risco de reiteração delituosa.
+No caso, sendo a paciente mãe de dois filhos com idades inferiores a 12 anos, a excepcionalidade à regra geral de proteção da primeira infância pela presença materna exigiria específica fundamentação concreta, o que não se verifica na espécie, evidenciando-se a ocorrência de constrangimento ilegal.
+Nesse sentido: HC 357.541/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2016, DJe 10/02/2017 e RHC 68.500/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 02/02/2017, DJe 09/02/2017).
+Ante o exposto, concedo o habeas corpus para substituir a prisão preventiva da pacientepor prisão domiciliar.
+Comunique-se.
+Publique-se.
+Intimem-se.
