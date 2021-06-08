@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Vision Med Assistência Médica Ltda., com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado (e-STJ, fls. 1.291-1.292):
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. VIOLAÇÃO DE CLÁUSULA CONTRATUTAL. MULTA ADMINISTRATIVA. CONTRATOS ANTERIORES À VIGÊNCIA DA LEI 9.656/98. SUJEIÇÃO À FISCALIZAÇÃO DA ANS. LEI N. 9.961/00. LEGALIDADE E LEGITIMIDADE DA MULTA IMPOSTA. CORRETA FIXAÇÃO DE JUROS E DEMAIS ENCARGOS NA CDA EXECUTADA. APELAÇÃO CONHECIDA E DESPROVIDA.
+1. Trata-se de Apelação Cível interposta pela Embargante contra Sentença que julgou improcedentes os pedidos formulados nos autos dos Embargos à Execução Fiscal ajuizados contra a ANS, em que objetiva a nulidade da Certidão de Dívida Ativa nº 18880-80, no valor originário de R$ 60.000,00 (sessenta mil reais) referente a multa administrativa, por ter deixado de garantir cobertura obrigatória prevista em lei, infringindo o art. 25, da lei 9656/98, com penalidade prevista no art. 78 da RN 124/06.
+2. O STF, ao julgar a ADIn 1.931-8/DF, declarou inconstitucional o art. 35-E da referida Lei, afastando a sua aplicação aos contratos preexistentes. Entretanto, tal decisão não afasta as atribuições e poderes fiscalizatórios estabelecidos na Lei 9.961/2000 à ANS.
+3. Compete à ANS fiscalizar não apenas o cumprimento das leis e de seus normativos, como também o cumprimento dos contratos, aí incluídos os anteriores à Lei 9.656/98, na forma do seu art. 25.
+4. A Apelante foi autuada em virtude de não ter realizado o ressarcimento integral das despesas do beneficiário nos procedimentos de angioplastia e cateterismo, requerido em dezembro de 2008, violando as cláusulas 18.0.4 e 20.0.19 do contrato e, por consequência, infringindo também o art. 25, da Lei 9.656/98, com penalidade prevista no art. 78 da RN 124/06. Portanto, inaplicável ao caso a decisão do Eg. STF.
+5. A Embargante pugna pela aplicação do instituto da Reparação Voluntária e Eficaz. No entanto, o reembolso integral somente foi efetivado em 04/03/09, após determinação judicial nesse sentido, nos autos do processo nº 001.2009.000752-3, afastando-se, assim, a voluntariedade da conduta, uma vez que resultante de coerção oriunda do Poder Judiciário.
+6. Quanto à correta aplicação da multa, a Resolução Normativa nº 124/06, da ANS, ao descrever de forma detalhada as infrações e determinar as respectivas sanções, encontrarespaldo no art. 25 da Lei n. 9.656/98, que expressamente prevê ser passível de sanção a violação a qualquer disposição daquele diploma legal ou de seus regulamentos.
+7. Não há qualquer desproporcionalidade na penalidade aplicada, na medida em que é estabelecido um valor fixo pela Lei à infração em tela. De fato, a penalidade a ser imposta deve observar seu caráter punitivo e pedagógico, de modo a evitar a ocorrência de novas lesões aos consumidores de seguros e planos de saúde.
+8. O recurso impugnando a multa aplicada na decisão administrativa tem a capacidade apenas de suspender o pagamento do débito. Assim, após a confirmação da referida pena, os valores cobrados serão devidamente atualizados, com a incidência dos respectivos juros e correção monetária.
+9. Gozando a CDA de presunção ex-lege de liquidez e certeza, ausente prova inequívoca de sua desconstituição e não havendo de se cogitar de mácula ao direito de defesa do sujeito passivo, é de rigor a manutenção da Sentença e consequente prosseguimento da execução.
+10. Apelação conhecida e desprovida.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1.324-1.328).
+Alega a recorrente ofensa ao art. 1.022 do CPC/2015.
+Sustenta que " ..  o v. acórdão não enfrentou argumento jurídico nitidamente capaz de influenciar na prestação jurisdicional direcionada ao presente processo" (e-STJ, fl. 1.349).
+Aduz não ter a Corte regional se manifestado acerca daefetivaocorrência de reparação voluntária e eficaz, bem como quanto à inexistência de decisão judicial determinando o reembolso de honorários médicos.
+Apresentadas contrarrazões às e-STJ, fls. 1.363-1.366.
+Admitido o recurso especial na origem (e-STJ, fls. 1.372-1.373), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+Não há a alegada falta de prestação jurisdicional, pois a Corte de origem manifestou claramente o seu entendimento quanto às alegações da recorrente.
+Com efeito, em relação à questão dareparação voluntária e eficaz,o acórdão recorrido assim decidiu (e-STJ, fl. 1.287):
+No mais, a Embargante, ora Apelante, não nega a violação dos mencionados dispositivos, apenas procura defender-se pugnando pela aplicação do instituto da Reparação Voluntária e Eficaz.
+No entanto, verifico que o reembolso integral somente foi efetivado em 04/03/09 (fl. 387), após determinação judicial nesse sentido, nos autos do processo nº001.2009.000752-3, afastando-se, assim, a voluntariedade da conduta, uma vez que resultante de coerção oriunda do Poder Judiciário.
+No tocante ao reembolso de honorários médicos, a Corte regional consignou que " .. a Sentença proferida no processo em que foi deferida a antecipação de tutela determinou o pagamento integral das despesas decorrentes do procedimento cirúrgico, o que afasta a alegação de que o reembolso médico estaria excluído"(e-STJ, fl. 1.327).
+Ademais, a solução da controvérsia de forma contrária à defendida pela insurgente, com fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outro vício constante do art. 1.022 do CPC/2015.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AMBIENTAL. AÇÃO DE DEPÓSITO. PRESCRIÇÃO. ALEGAÇÃO DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO VERIFICADA. PRESCRIÇÃO DE MADEIRA APREENDIDA. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. ANÁLISE DO DISSÍDIO PREJUDICADO. FUNDAMENTO NÃO REBATIDO. INCIDÊNCIA DAS SÚMULAS N. 283 E 284, AMBAS DO STF.
+ ..
+II - Com relação à alegação de violação dos arts. 489 e 1.022 do CPC/15, suscitada no apelo nobre, sem razão o recorrente a esse respeito, tendo o Tribunal a quo decidido a matéria de forma fundamentada, analisando todas as questões que entendeu necessárias para a solução da lide, não obstante tenha decidido contrariamente à sua pretensão no que diz respeito à ocorrência da prescrição.
+III - Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+IV - Tem-se, ainda, que o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+V - Descaracterizada a alegada omissão, se tem de rigor o afastamento da suposta violação do art. 1022 do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça: AgInt no AREsp 1046644/MS, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 05/09/2017, DJe 11/09/2017 e REsp 1649296/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 05/09/2017, DJe 14/09/2017.
+ ..
+VIII - Agravo interno improvido.
+(AgInt no REsp 1.757.501/SC, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 11/4/2019, DJe 3/5/2019).
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ e a Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
