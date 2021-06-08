@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a).
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL LICITAÇÃO. RESCISÃO CONTRATUAL. REVISÃO. ÓBICE DAS SÚMULAS 5 E 7 DO STJ.
+1. Rever o entendimento do Tribunal de origem, no tocante à rescisão do contrato e devolução dos valores pagos,demandaria induvidosamente o reexame de cláusulas contratuais e de todo o material cognitivo produzido nos autos, desiderato incompatível com a via especial, consoante teor das Súmulas 5 e 7 do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado por RENATA DE JESUS AMARAL eML CONSTRUÇÕES INDÚSTRIA E COMÉRCIO LTDA contra decisão que conheceu do agravo para não conhecer do recurso especial (e-STJ, fls. 726-729).
+Os agravantes alegam que não é necessário o reexame de provas ou de cláusulas contratuais, porquanto pretendem a correta interpretação do art. 475 do Código Civil.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL LICITAÇÃO. RESCISÃO CONTRATUAL. REVISÃO. ÓBICE DAS SÚMULAS 5 E 7 DO STJ.
+1. Rever o entendimento do Tribunal de origem, no tocante à rescisão do contrato e devolução dos valores pagos,demandaria induvidosamente o reexame de cláusulas contratuais e de todo o material cognitivo produzido nos autos, desiderato incompatível com a via especial, consoante teor das Súmulas 5 e 7 do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+Os agravantes não trouxeram tese jurídica capaz de modificar o posicionamento anteriormente firmado.
+Na espécie, o Tribunal de origem consignou que, embora seja possível a rescisão do contrato por força de inadimplemento, tal faculdade não se opera automaticamente, porquanto há previsão expressa de opção a ser exercida pela vendedora. Ressaltou, ainda, que determinar que a empresa recorrida devolva todos os valores pagos, sem ter agido com culpa para a resolução do contrato, não pode ser admitido (e- STJ, fls. 614-617):
+Merece registro que as cláusulas V, VII e VIII da escritura pública de compra e venda firmada entre a primeira demandante e a requerida, embora façam referência à possibilidade de distrato e de rescisão judicial da avença por força de inadimplemento, tal faculdade não se opera automaticamente, porquanto expressamente prevista a opção - a ser exercida pela outorgante vendedora - pelo cumprimento do contrato. A propósito, transcreve-se o teor dos mencionados dispositivos:
+V) A falta de pagamento de 03 (três) prestações, consecutivas ou alternadas, implicará na resolução do presente instrumento, de pleno direito, independente de interpelação judicial ou extrajudicial, ou, A CRITÉRIO DA OUTORGANTE VENDEDORA será exigido o cumprimento da obrigação, cabendo, em qualquer dos casos, indenização por perdas e danos, na forma dos artigos 474 e 475, do Código Civil Brasileiro.
+ ..
+VII) Na hipótese de distrato ou rescisão judicial da presente escritura, pelo inadimplemento das condições constantes da mesma e do edital licitatório, a OUTORGADA COMPRADORA perderá em favor da outorgante vendedora a importância paga como entrada inicial, constante da Cláusula Segunda do presente ajuste, valor este que será à época devidamente atualizado.
+VIII) Em caso de rescisão do contrato com o licitante comprador e, em havendo débito regularmente apurado de IPTU/TLP e, ocorrendo a hipótese de devolução das prestações pagas, à exceção do sinal e princípio de pagamento, será procedida a compensação entre os valores eventualmente pagos pela TERRACAP a título de IPTU, TLP e ITBI com o total das parcelas a serem devolvidas.
+Dito de outro modo, o eventual desfazimento do ajuste fica a critério da Concedente Vendedora, restrito ao seu exame discricionário, conferindo-se à parte lesada a resolução do ajuste ou o seu cumprimento, nos exatos termos do artigo 475 do Código Civil.
+Além disso, a existência de cláusula resolutiva para o caso de inadimplemento do contrato, com as penalidades impostas à compradora (cláusula VI), não estabelece a previsão de arrependimento que possibilite à adquirente rescindir o negócio sem demonstrar qualquer inadimplência da parte contrária. Por oportuno, transcreve-se o teor do artigo 79 da Lei n.º 8.666/93, o qual rege a relação jurídica havida entre as partes, demonstrando que a Administração não se sujeita à vontade privada.
+Art. 79. A rescisão do contrato poderá ser:
+I - determinada por ato unilateral e escrito da Administração, nos casos enumerados nos incisos I a XII e XVII do artigo anterior;
+II - amigável, por acordo entre as partes, reduzida a termo no processo da licitação, desde que haja conveniência para a Administração;
+III - judicial, nos termos da legislação;
+No caso dos autos, inexiste, ainda, causa para a aplicação de cláusula resolutiva tácita, (artigo 478 do Código Civil), porquanto não demonstrada eventual onerosidade excessiva, com a extrema vantagem para a outra parte em virtude de acontecimentos extraordinários e imprevisíveis.
+Não obstante alegado pela parte autora o expressivo incremento do valor devido, o documento de ID 4878530 exprime a situação real da dívida, esclarecendo que existem, no período entre 01/07/2014 e 01/04/2017, 34 (trinta e quatro) parcelas em atraso, no valor de R$ 292.540,19 (duzentos e noventa e dois mil, quinhentos e quarenta reais e dezenove centavos), sobre os quais incidiram multa, juros de mora e correção monetária, alcançando a cifra de 390.601,48 (trezentos e noventa mil, seiscentos e um reais e quarenta e oito centavos).
+Assim, o valor apontado pelas requerentes - R$ 1.155.598,95 (um milhão, cento e cinquenta e cinco mil, quinhentos e noventa e oito reais e noventa e cinco centavos) - expressa o valor total do financiamento, englobando, além das parcelas vencidas e não pagas, as prestações vincendas (o prazo para adimplemento da dívida é de 240 meses).
+Nada obstante, a rescisão da avença em virtude da invocação, pelo devedor, de seu próprio inadimplemento, ou da sua incapacidade de honrar com os compromissos assumidos, representaria beneficiar a sua torpeza, causando inequívoco prejuízo à ré, que teria de devolver os valores recebidos - inclusive com os encargos (juros) decorrentes do financiamento assumidos pelo comprador -, afrontando a supremacia do interesse público, bem como dos demais participantes perdedores na referida licitação.
+Nesse descortino, a interpretação das cláusulas contratuais no sentido de ser possível o distrato voluntário pelo particular, independente da ocorrência das circunstâncias previstas no artigo 79 da Lei n. 8.666/93, não se coaduna com os princípios norteadores do Direito Público e a legislação aplicável à espécie.
+ ..
+Em suma, permitir que o particular rescinda o contrato por mera liberalidade, sem atribuição de culpa à Terracap, determinando ainda a devolução dos valores pagos, representaria ferir de morte a segurança jurídica, implicando à vendedora o dever de manutenção de reserva financeira suficiente ao ressarcimento de todo e qualquer valor recebido a título de alienação de imóveis por meio de licitação.
+Ademais, tal imposição, quanto ao ressarcimento dos encargos do financiamento assumidos pelo comprador, configuraria verdadeira reparação civil, porém sem atribuição de qualquer ato ilícito - o que não deve ser admitido.
+Nesse diapasão, forçoso concluir pela reforma da sentença em sua totalidade, para julgar improcedentes os pedidos contidos na inicial, restando prejudicada a apreciação dos pedidos reconvencionais.
+Da leitura do acórdão recorrido, dessume-se que a modificação do entendimento firmado pelas instâncias ordinárias demandaria induvidosamente o reexame de cláusulas contratuais e de todo o material cognitivo produzido nos autos, desiderato incompatível com a via especial, consoante teor das Súmulas 5 e 7 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
