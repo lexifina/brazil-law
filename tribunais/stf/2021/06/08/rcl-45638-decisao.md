@@ -1,0 +1,19 @@
+DECISÃO
+RECLAMAÇÃO – COMPETÊNCIA DO SUPREMO – USURPAÇÃO – PEDIDO – PROCEDÊNCIA.
+    1. O assessor Vinícius Machado Calixto prestou as seguintes informações:
+    Welington Avancini Viana afirma haver o Presidente da Turma Recursal de Admissibilidade de Recursos Extraordinários do Estado da Bahia, no processo nº 0007694-16.2018.8.05.0150, usurpado a competência do Supremo.
+    Narra ajuizada, em face do Condomínio do Centro de Animação do Loteamento Vilas do Atlântico, ação visando afastar a proibição de locação por período inferior a trinta dias. Julgado improcedente o pedido, a óptica foi mantida em recurso inominado. Formalizado recurso extraordinário, no qual apontada inobservância do direito de propriedade, teve a sequência indeferida. Diz interposto agravo, nos termos do artigo 1.042 do Código de Processo Civil, declarado prejudicado.
+    Argumenta que, ao contrário do que fez ver a autoridade reclamada, suscitou-se, no recurso extraordinário, preliminar formal de repercussão geral. Destaca inadmitido o recurso, cabendo a remessa do subsequente agravo a este Tribunal.
+    Requereu, no campo precário e efêmero, a suspensão do processo na origem. Busca a cassação do pronunciamento impugnado e o envio do caso ao Supremo.
+    Vossa Excelência, em 1º de março de 2020, acolheu o pedido de liminar.
+    O Tribunal informou o histórico processual e os fundamentos da decisão.
+    O Condomínio do Centro de Animação do Loteamento Vilas do Atlântico, em contestação, sustenta o não cabimento da medida, uma vez que, eventuais equívocos dos tribunais na aplicação do instituto da repercussão geral só podem ser objeto de reclamação se houver recusa, quando do juízo de retratação, de observância do decidido pelo Supremo. Aponta que na hipótese de erro na aplicação da tese, não há se falar em alegação de usurpação da competência. Requer a condenação do reclamante nos ônus sucumbenciais.
+    O Ministério Público Federal opina pela improcedência do pedido. Diz negado seguimento ao recurso extraordinário ante o assentado no de nº 835.833 – Tema nº 800 –, no sentido da presunção relativa de inexistência de repercussão geral consideradas matérias versadas nos processos em curso nos Juizados Especiais Cíveis, a revelar a adequação de agravo direcionado ao Tribunal de origem. Destaca impertinente o agravo versado no artigo 1.042 do Código de Processo Civil, se a decisão de admissibilidade partir de entendimento firmado em regime de repercussão maior ou em julgamento de recursos repetitivos.
+    2. A leitura do pronunciamento atacado revela indeferida a sequência do recurso extraordinário tendo em conta o decidido no recurso extraordinário com agravo nº 835.833 – Tema nº 800, no qual debatida a presunção relativa de inexistência de repercussão geral consideradas matérias versadas nos processos em curso nos Juizados Especiais Cíveis.
+    O agravo subsequente, com fundamento no artigo 1.042 do Código de Processo Civil, foi declarado prejudicado ante a inadequação da remessa do processo ao Supremo, uma vez não demonstrada excepcionalidade a configurar a repercussão maior da controvérsia veiculada sob o rito dos Juizados Especiais.
+    É impróprio potencializar entendimento no sentido da ausência do requisito atinente à repercussão geral consideradas demandas formalizadas nos Juizados Especiais. Não havendo sido evocados precedentes, solucionados sob o ângulo da repercussão maior, versando as questões constitucionais suscitadas, surge a erronia quanto à sistemática.
+    3. Julgo procedente o pedido, para cassar a decisão da Turma Recursal de Admissibilidade de Recursos Extraordinários do Estado da Bahia, no processo nº 0007694-16.2018.8.05.0150, e determinar o envio do processo ao Supremo.
+    4. Publiquem.
+Brasília, 8 de junho de 2021.
+Ministro MARCO AURÉLIO
+Relator
