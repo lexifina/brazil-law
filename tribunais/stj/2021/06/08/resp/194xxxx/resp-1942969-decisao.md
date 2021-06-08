@@ -1,0 +1,7 @@
+DECISÃO
+1. Cuida-se de agravo interposto por GUALTIERO SCHLICHTING PICCOLIem face da decisão que negou seguimento ao recurso especial, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AGRAVO DE INSTRUMENTO. Reforma da decisão homologatória de acordo. Negada a concessão do efeito suspensivo pleiteado.Questão acerca da reserva dos honorários contratuais já resolvida por Acórdão transitado em julgado. Pedido de anulação do acordo judicial homologado. Impossibilidade.Necessidade de se ajuizar ação anulatória para combater vício que a parte entenda existente na decisão homologatória. Inteligência do art.966, § 4º, c.c. o art. 487, III, "b", CPC.Decisão de caráter iminentemente homologatório. Matéria discutida no recurso já afastada por Acórdão anterior. Precedentes do STJ. Questão dos honorários contratuais já resolvida por Acórdão anterior. Decisão mantida. Recurso desprovido.
+Sustenta violação aos artigos 158 e171, inciso II, do CC; 373 e 966, § 4º, do CPC de 2015.
+É o relatório.DECIDO.
+2. Em face das circunstâncias que envolvem a controvérsia e para melhor exame do objeto do recurso, com fundamento no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO ao presente agravo para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
