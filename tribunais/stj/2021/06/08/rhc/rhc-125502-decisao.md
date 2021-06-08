@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por ANDREIA ROSÁLIA PEDROSSINI contra acórdão oriundo do Tribunal de Justiça do Estado de Santa Catarina (HC n. 5000297-78.2020.8.24.0000).
+Depreende-se dos autos que a recorrente foi denunciada, como incursa no art. 2º, II, da Lei n. 8137/1990.
+Impetrado prévio writ na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 204):
+HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA (ARTS. 2º, II E 11, CAPUT, AMBOS DA LEI N. 8.137/1990).
+PRETENDIDO TRANCAMENTO DA AÇÃO PENAL POR AUSÊNCIA DE JUSTA CAUSA E INÉPCIA DA DENÚNCIA. IMPOSSIBILIDADE.PERSECUÇÃO PENAL FUNDADA EM ELEMENTOS PROBATÓRIOS MÍNIMOS DE MATERIALIDADE E AUTORIA. EXORDIAL QUE PREENCHE OS REQUISITOS DO ARTIGO 41 DO CÓDIGO DE PROCESSO PENAL. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO.
+ORDEM DENEGADA.
+Opostos na sequência os embargos de declaração,foram eles rejeitados (e-STJ fls. 228/234).
+Daí o presente recurso, no qual a defesa sustenta a inépcia da denúncia ea ausência de justa causa para o prosseguimento da ação penal em razão da ausência de indícios de autoria.
+Afirma que a recorrente jamais figurou no contrato social da empresa.
+Requer, ao final, o trancamento da ação penal.
+Contrarrazões às e-STJ fls. 246/250.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fl. 268).
+É, em síntese, o relatório.
+Transcrevo, de início, a imputação narrada pelo Ministério Público (e-STJ fls. 13/16):
+Os denunciados Andreia Rosália Pedrossini, Ernesto Osvaldo Antic, Imério Burger e Roberto Marchetti, na época dos fatos, exerciam a função de sócios/presidente/administradores/diretores da empresa Kreateva Industrial Ltda, com endereço comercial na rua Fritz Lorenz, n. 2033, Distrito Industrial, Timbó/SC.
+Na condição de sócios/presidente/administradores/diretores da referida empresa, os denunciados deliberavam, entre outras questões, sobre o pagamento, supressão ou redução de tributos devidos ao Estado de Santa Catarina.
+Nos períodos de janeiro a setembro de 2016, o denunciado Imério Burger; nos períodos novembro a dezembro de 2016 e janeiro a agosto e outubro a dezembro de 2017 a denunciada Andreia Rosália Pedrossini; e nos períodos de janeiro a dezembro de 2016, janeiro a agosto e outubro a dezembro de 2017, os denunciados Ernesto Osvaldo Antic e Roberto Marchetti passaram a praticar atos ilegais contra a fiscalização tributária, sonegando o tributo ICMS.
+Para tanto, em cada período elencado acima em que estavam à frente da administração da sociedade, os denunciados determinaram que a empresa Kreateva Industrial Ltda deixasse de efetuar, total ou parcialmente, o recolhimento do ICMS relativo às operações/prestações tributáveis, as quais foram escrituradas pelo própriocontribuinte no Livro Registro de Apuração do ICMS e declarado na Guia de Informação e Apuração de ICMS e/ ou Dl ME (Declaração do ICMS e do Movimento Econômico), cuja cópia segue anexa nestes autos.
+O valor do imposto reconhecido como devido, contudo, quando do vencimento, não foi recolhido, e a importância declarada acabou por não ingressar aos Cofres do Erário Estadual. Ao não recolherem os valores referentes ao imposto incidente sobre operações tributáveis devidos aos cofres públicos, dentro do prazo legal, os denunciados sonegaram elevada monta, resultando em prejuízo aos Cofres Públicos e a toda coletividade.
+Dessa forma, os denunciados deixaram de recolher aos cofres públicos a soma a seguir discriminada:
+(..)
+Foi assim que os denunciados, dolosamente, deixaram de efetuar o recolhimento do imposto devido dentro do prazo legal.
+Em assim sendo, agindo reiteradamente, os denunciados determinaram que a empresa deixasse de recolher aos cofrespúblicos, em suas condutas delituosas anteriormente descritas, a importância de R$ 995.720,82 (novecentos e noventa e cinco mil, setecentos e vinte reais e oitenta e dois centavos) com a multa e juros, ao Fisco Estadual, recursos estes que deveriam ser aplicados em proveito de toda a sociedade catarinense, ocasionando grave dano à coletividade.
+Nos casos em tela, a Secretaria de Estado da Fazenda, com base nos dados extraídos do Sistema de Administração Tributária - SAT, mediante as informações prestadas, voluntariamente e espontaneamente, pelo próprio contribuinte, constata eletronicamente a ocorrência da sonegação e, automaticamente, inscreve em dívida ativa o tributo sonegado e seus acréscimos legais, nos termos do artigo 62, parágrafo único, da Lei n. 5.983/81.
+Assim, não há qualquer diligência pessoal da autoridade fazendária no local onde encontra-se o contribuinte, pois toda a análise é realizada por meio eletrônico e automatizado pelo sistema da Fazenda, motivo pelo qual não é necessária a oitiva de auditor fiscal. O ato fiscal é materializado na certidão de dívida ativa emitida.
+Diante do exposto, incidiram os denunciados Andreia Rosália Pedrossini e Imério Burger nas sanções dos artigos 22, II, 11, caput, da Lei n. 8.137/ 90 e os denunciados Ernesto Osvaldo Antic e Roberto Marchetti nas sanções dos artigos 22, II, 11, caput, 12, I, da Lei n. 8.137/ 90, todos na forma do artigo 71, do Código Penal, razão porque é oferecida a presente denúncia, para, depois de provados os fatos descritos e processados nos regulares termos, serem, ao final, condenados.
+O Tribunal de origem denegou a ordem, valendo-se dos seguintes fundamentos (e-STJ fl. 209):
+Nesse caminho, a simples leitura da narrativa demonstra que entre os períodos de novembro a dezembro de 2016, janeiro a agosto de 2017 e outubro a dezembro de 2017, a paciente, que atuava em função administrativa na empresa, deixou de recolher tributos.
+Infere-se que as condutas delitivas praticadas pela paciente foram detalhadas pelo representante do Ministério Público, descartando, assim, as alegações de inépcia da denúncia.
+Prossegue a impetração aduzindo a falta de justa causa para ação penal, pois a paciente nunca figurou como sócia da empresa no Contrato Social.
+Contudo, extrai-se do contrato social acostado às fls. 163 nos autos n. 0901092-90.2018.8.24.0073, que a paciente foi nomeada para ocupar função de "Gerente Administrativo/Financeiro".
+Assim, as alegações inerentes à ausência de justa causa devem ser afastadas, pois foram colhidos elementos suficientes no caderno administrativo a fimde justificar a persecução penal em desfavor da paciente e dos corréus, os quais serão devidamente confirmados ou afastados durante o contraditório judicial, e estando preenchidos os requisitos legais da exordial, viabilizando o exercício da ampla defesa e contraditório, não há falar em trancamento da ação penal, por ausência de justa causa.
+No presente caso, constato, pela leitura da denúncia, que foram observados os requisitos insertos no art. 41 do Código de Processo Penal. A peça inclusive detalha o período em que a sugerida sonegação foi realizada por determinação da recorrente, à época desempenhando funções de administração na sociedade empresária:nos períodos de novembro a dezembro de 2016, dejaneiro a agosto e de outubro a dezembro de 2017.
+Assim, não há que se falar em inépcia da inicial, pois houve a descrição da conduta imputada à recorrente que, na condição de gerente, teria praticado o injusto penal.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIME TRIBUTÁRIO (ART. 1º, II E V, C.C ART. 12, I, AMBOS DA LEI N. 8.137/90). INÉPCIA DA DENÚNCIA. DESCRIÇÃO SUFICIENTE.PACIENTE SÓCIO-ADMINISTRADOR. ALEGAÇÃO DE APLICAÇÃO DA TEORIA OBJETIVA. ILEGALIDADE NÃO VERIFICADA. JUÍZO DE CERTEZA A RESPEITO DA AUTORIA DELITIVA. ANÁLISE A SER FEITA NO CURSO DA INSTRUÇÃO PROCESSUAL. AGRAVO IMPROVIDO.
+1. É afastada a inépcia quando a denúncia preenche os requisitos do art. 41 do CPP, com a individualização das condutas, descrição dos fatos e classificação dos crimes, de forma suficiente a dar início à persecução penal na via judicial e garantir o pleno exercício da defesa do acusado.
+2. Embora em empresas com divisão de tarefas entre várias pessoas seja possível admitir que o crime através dela praticado não pudesse ser presumidamente praticado por todos gestores, quando ao inverso se trata de pequena empresa, com quorum mínimo de agentes na gestão, há de se admitir como presente a justa causa por suficientes indícios de autoria na admissão de que colaboraram eles poucos para o crime através da pessoa jurídica - a definição da culpa provada cabendo à ação penal.
+3. Na espécie, trata-se de empresa onde apenas três agentes possuíam poder de administração e gerência, de modo que a imputação do crime através da empresa permite como admitir indiciarimente presente a prova de autoria de todos.
+4. Agravo regimental improvido.
+(AgRg no RHC 100.652/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/11/2018, DJe 05/12/2018)
+Ademais, questões referentes ao mérito da imputação, por demandarem exame aprofundado do material probatório, não podem ser realizados na via eleita.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intime-se.
