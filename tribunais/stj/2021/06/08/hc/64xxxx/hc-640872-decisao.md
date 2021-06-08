@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MICHEL ADRIANI BARBOSA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Habeas Corpusn. 0025479-92.2020.8.19.0000, de relatoria da Desembargadora Mônica Tolledo de Oliveira).
+A controvérsia foi bem sumariada pela Presidência desta Corte na decisão que indeferiu o pedido liminar, conforme excerto abaixo colacionado, in verbis (e-STJ fl. 77):
+O paciente foi condenado à pena de 6 anos de reclusão em regime inicial fechado pela infringência da regra contida no art. 213 do Código Penal. Atualmente cumpre a pena no regime semiaberto.
+A impetrante sustenta requisito temporal para progressão do regime para o aberto foi alcançado em 02/06/20 e que o paciente é portador de doença crônica (hipertensão arterial sistêmica), nos termos do artigo 117, da LEP, integrante de "grupo de risco".
+Requer, liminarmente, a progressão de regime do paciente para o aberto bem como a sua conversão para prisão domiciliar em consonância com a recomendação 62 do CNJ.
+A medida liminar foi indeferida (e-STJ fls. 77/78).
+Prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Quanto ao pedido de progressão de regime, a Corte local assim se manifestou (e-STJ fl. 50):
+Nesse sentido não há constrangimento ilegal nos autos, primeiro porque o requisito temporal foi atingido há poucos dias e o Juízo da Execução aguarda informações sobre a prática de falta grave pelo apenado no dia 07/05/2020, circunstância que poderia inviabilizar a progressão almejada.
+Como se vê, as instâncias ordinárias ainda não se manifestaram, no mérito, acercada pretensão relativa à progressão de regime prisional, uma vez que, consoante assinalado no excerto do acórdão acima transcrito, o Juízo executivo aguarda, antes de examinar a possibilidade de concessão do benefício pleiteado, informações sobre a prática de falta grave pelo apenado.
+Desse modo, descabe a esta Corte a análise inaugural da pretensão defensiva, sob pena de incursão em vedada supressão de instância.
+Relativamente ao pleito liberatório formulado à luz da Recomendação n. 62/2020 doCNJ, a origem assim se manifestou (e-STJ fls. 50/51):
+ ..  apesar do pedido de prisão domiciliar em razão das condições de saúde do paciente, que seria hipertenso e portanto faria parte do grupo de risco, nem o presente HC, nem o petitório apresentado em primeiro grau foram instruídos com qualquer comprovação mínima sobre a alegada condição de saúde.
+Na esteira à Resolução 62 do CNJ, não há qualquer prova no sentido de o paciente estar no grupo de risco, seja pela idade, seja por apresentar problemas de saúde que podem ser potencializados pela Covid-19.
+Além disso, o requerimento defensivo também não se fez acompanhar da indispensável prova pré-constituída, capaz de evidenciar, extreme de dúvidas, uma eventual impossibilidade de a SEAP gerir toda essa situação de aguda crise, sendocerto que, até onde se tem ciência, a Administração penitenciária do ERJ, através da Resolução Conjunta n. 736/20, das Secretarias de Saúde e do Sistema Penitenciário, juntamente com atos e esforços envidados pela Vara de Execuções Penais desta Corte, vêm tomando eficientes medidas de separação de casos suspeitos, de controle higiênico e sanitário, inclusive com previsão de deslocamento para unidades médicas de recepção dos detentos em situação de risco.
+Consoante se extraidos excertos acima colacionados, registre-se que não se verifica a ocorrência de manifesta ilegalidade, pois oart. 5º da Recomendação n. 62 do CNJ dispõeque cabe ao magistrado sopesar a situação em observância ao contexto local de disseminação do vírus, não havendo a demonstração nos autos de que opaciente seja realmente hipertenso eesteja, assim, enquadradono grupo de risco ou a indicação de que exista, atualmente, a possibilidade de agravamento do seu estado geral de saúde a partir do contágio no estabelecimento prisional, pois "o requerimento defensivo também não se fez acompanhar da indispensável prova pré-constituída, capaz de evidenciar, extreme de dúvidas, uma eventual impossibilidade de a SEAP gerir toda essa situação de aguda crise".
+Ante o exposto, não conheçodo habeas corpus.
+Publique-se. Intimem-se.
