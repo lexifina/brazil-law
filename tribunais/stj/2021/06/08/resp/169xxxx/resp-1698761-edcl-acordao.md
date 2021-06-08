@@ -1,0 +1,59 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COMERCIAL. FALHA NA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONTRATO. NATUREZA. REPRESENTAÇÃO COMERCIAL. MODIFICAÇÃO. SÚMULAS NºS 5 E 7/STJ. REGISTRO. AUSÊNCIA. MICROSSISTEMA DA LEI Nº 4.886/1965. NÃO INCIDÊNCIA. SERVIÇOS PRESTADOS. PAGAMENTO. CÓDIGO CIVIL. OMISSÃO, CONTRADIÇÃO OBSCURIDADE E ERRO NÃO VERIFICADOS. ANÁLISE DE DISPOSITIVO CONSTITUCIONAL. INADMISSIBILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos declaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição, ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Terceira Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr Ministro Relator. Os Srs. Ministros Marco Aurélio Bellizze, Moura Ribeiro, Nancy Andrighi e Paulo de Tarso Sanseverino (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Trata-se de embargos de declaração opostos por RODOFÁCIL CARGAS E ENCOMENDAS LTDA. impugnando acórdão assim ementado:
+"RECURSO ESPECIAL. CIVIL. COMERCIAL. FALHA NA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONTRATO. NATUREZA. REPRESENTAÇÃO COMERCIAL. MODIFICAÇÃO. SÚMULAS NºS 5 E 7/STJ. REGISTRO. AUSÊNCIA. MICROSSISTEMA DA LEI Nº 4.886/1965. NÃO INCIDÊNCIA. SERVIÇOS PRESTADOS. PAGAMENTO. CÓDIGO CIVIL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em falha na prestação jurisdicional se o Tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível, ainda que em desacordo com a expectativa da parte.
+3. A interpretação de cláusulas contratuais e o reexame de fatos e provas são providências inadmissíveis diante dos óbices das Súmulas nº 5 e 7/STJ.
+4. A ausência do registro do representante comercial no Conselho Regional afasta a incidência do microssistema de que trata a Lei nº nº 4.886/65, inclusive a indenização de que cuida o artigo 27, "j", do referido diploma legal. Precedente.
+5. Os serviços prestados e ainda não pagos devem ser adimplidos na forma do Código Civil.
+6. Recurso conhecido parcialmente e, nessa parte, parcialmente provido" (fl. 1.373, e-STJ).
+A embargante sustenta que o acórdão atacado contém contradição, omissão e erro material.
+A contradição teria ocorrido quando o acórdão não conheceu do recurso na parte em que discutia a natureza da relação jurídica subjacente em virtude da incidência das Súmulas nºs 5 e 7/STJ mas, ao mesmo tempo, concluiu que a ausência de registro do representante comercial afastava a incidência do microssistema de que trata a Lei nº 4.886/1965, pois
+"(..) o mesmo parâmetro que servia não conhecer do recurso (sic) quanto à natureza da relação jurídica subjacente, por demandar o exame das provas examinadas no acórdão recorrido, desprezou-as totalmente para prover em parte o recurso por considerar indevidas as obrigações decorrentes desse mesmo exame do conteúdo probatório, sob o aspecto da ausência de prova do registro da recorrente no Conselho de Representantes Comerciais, sem afastar o fundamento do acórdão proferido na origem, que o considerava desimportante, por constituir mera irregularidade administrativa" (fl. 1.387, e-STJ).
+No tocante à omissão, sua configuração teria se dado quando o acórdão apontou como precedente o REsp nº 1.678.551/DF, pois ele não representa uma unanimidade de entendimento, além de ser objeto de embargos de divergência. Cita como divergentes os seguintes julgados: REsp nº 698.598/RR, REsp nº 26.388/SP e o REsp nº 12.005/RS.
+Afirma, ademais, que o acórdão embargado, ao considerar que a ausência de registro (artigos 1º, 2º e 5º da Lei nº 4.886/1965) importava o afastamento da aplicação do disposto no artigo 27, alínea "a", da Lei nº 4.886/1965, teria incidido em erro material, pois se tratam de regras sem sanção de nulidade, além de referidos dispositivos não terem sido recepcionados pela Constituição Federal, estando ab-rogados, conforme já reconheceu esta Corte.
+Aduz que a Constituição Federal consagra o direito ao livre exercício de qualquer atividade ou profissão, devendo ser afastadas quaisquer limitações a essa disposição.
+Aponta, por fim, que não era o caso de fixar honorários recursais, nem sequer inverter os ônus sucumbenciais já que não ficou vencida.
+Requer que os embargos sejam acolhidos com efeitos infringentes, além de ser admitido o prequestionamento do artigo 5º, XIII, da Constituição Federal de 1988.
+Impugnação às fls. 1.394/1.403 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COMERCIAL. FALHA NA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONTRATO. NATUREZA. REPRESENTAÇÃO COMERCIAL. MODIFICAÇÃO. SÚMULAS NºS 5 E 7/STJ. REGISTRO. AUSÊNCIA. MICROSSISTEMA DA LEI Nº 4.886/1965. NÃO INCIDÊNCIA. SERVIÇOS PRESTADOS. PAGAMENTO. CÓDIGO CIVIL. OMISSÃO, CONTRADIÇÃO OBSCURIDADE E ERRO NÃO VERIFICADOS. ANÁLISE DE DISPOSITIVO CONSTITUCIONAL. INADMISSIBILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos declaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição, ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Não prospera a inconformidade veiculada nos presentes aclaratórios.
+A decisão atacada não padece de nenhum dos vícios ensejadores dos embargos declaratórios enumerados no artigo 1.022 do Código de Processo Civil de 2015 (CPC): obscuridade, contradição, omissão ou erro material.
+Vale esclarecer, de início, que a contradição a que alude o artigo 1.022 do CPC/2015 trata do descompasso entre os fundamentos do acórdão e sua conclusão, o que não ocorreu no presente caso.
+Com efeito, no que respeita à alegação de que a natureza da relação jurídica subjacente não seria representação comercial mas, sim, mero contrato de transporte, a apuração desse fato dependeria do reexame das provas constantes dos autos, inclusive testemunhal, bem como da interpretação dos contratos firmados entre as partes, providências que não são possíveis em recurso especial.
+A falta de registro, porém, não é uma questão controvertida. Sua análise não depende de reexame de provas, estando expresso no acórdão da apelação "a ausência do registro exigido pelo artigo 2º da Lei 4.886/65" (fl. 1.102, e-STJ). Observa-se, contudo, que a atribuição de consequência diversa ao fato reconhecido no acórdão estadual não esbarra na censura das Súmulas nºs. 5 e 7/STJ.
+Cumpre assinalar que o precedente citado, o REsp nº 1.678.551/DF, foi incluído no acórdão por representar o mais recente entendimento da 3ª Turma sobre o tema. O fato de terem sido opostos embargos de divergência naqueles autos não impede que seja referido no julgamento.
+Ademais, não foi negada a remuneração ao representante legal em decorrência da falta de registro, na forma do artigo 5º da Lei nº 4.886/1995. Ao contrário, o acórdão é expresso ao determinar o pagamento dos serviços prestados. A ausência do registro acarretou apenas o afastamento da indenização de que trata o artigo 27-J da referida lei.
+Diante disso, não é correto afirmar que o acórdão embargado inviabiliza o livre exercício da profissão ou que está em dissonância com o REsp nº 698.598/RR , que se cingiu a afirmar a legitimidade do representante comercial, ainda que não registrado, para propor a ação de cobrança de comissões. Assim também com o AI no REsp nº 12.005/RS, o REsp nº 26.388/SP e REsp nº 58.631/SP.
+É preciso esclarecer ainda, que os embargos de declaração não se prestam ao prequestionamento de matéria constitucional.
+Cumpre assinalar, além disso, que não foram fixados honorários recursais e que a Turma entendeu que a embargante, com o provimento do recurso, ficou vencida na maior parte dos seus pedidos, motivo pelo qual lhe foram carreados os honorários advocatícios.
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir o erro material, mas, sim, reformar o julgado por via inadequada.
+A propósito:
+"DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. MANDADO DE SEGURANÇA. VOTO CONDUTOR DO JULGADO QUE NÃO PADECE DE OMISSÃO. ACLARATÓRIOS INTERPOSTOS SOMENTE POR IRRESIGNAÇÃO QUANTO À PRESTAÇÃO JURISDICIONAL. PRETENSÃO DE NOVO EXAME DA CONTROVÉRSIA. MATÉRIA CONSTITUCIONAL. PREQUESTIONAMENTO. EMBARGOS REJEITADOS.
+1. Nos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material. Precedentes.
+2. Na espécie, inexiste vício que permita o manejo da presente insurgência, evidenciando-se o seu descabimento, pois visa a parte embargante - ao repetir os argumentos utilizados em seu agravo interno - o reexame da controvérsia devidamente solucionada pela Corte Especial, a qual chancelou integralmente e por unanimidade o voto condutor do julgado, não havendo se falar em omissões.
+3. Por outro vértice, não é demais lembrar que, consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, sequer a título de prequestionamento.
+4. No caso posto, portanto, inexistem os vícios apontadas pela embargante, tendo o acórdão embargado apreciado a insurgência de forma clara e fundamentada, não sendo possível, em embargos de declaração, rediscutir o entendimento adotado, sequer para fins de prequestionamento.
+5. Embargos declaratórios rejeitados."
+(EDcl no AgInt no MS 24.113/DF, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 10/9/2019, DJe 13/9/2019)
+"EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO CONFIGURADA. REFORMA DO JULGADO. IMPOSSIBILIDADE. CARÁTER MANIFESTAMENTE PROTELATÓRIO. MULTA. ART. 1.026, § 2º, DO CPC/15.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. A ocorrência de um dos vícios previstos no art. 1.022 do CPC/2015 é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de matéria constitucional não possibilita a sua oposição.
+3. Considerando o caráter manifestamente protelatório dos embargos de declaração, aplicável a multa inserta no art. 1.026, §2º, do CPC/2015.
+4. Embargos de declaração rejeitados, com aplicação de multa."
+(EDcl no AgInt nos EAREsp 931.889/MG, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 13/8/2019, DJe 20/8/2019)
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
