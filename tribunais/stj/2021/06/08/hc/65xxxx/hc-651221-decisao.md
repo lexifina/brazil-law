@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ALEXANDRE SILVA DIASapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS(HC n. 1.0000.21.004162-0/000).
+Extrai-se dos autos que o paciente teve a prisão preventiva decretada, em 9/10/2020 (e-STJ fls. 135/136), pela suposta prática do crime de tortura (art. 1º, incisos I, "a", e II, da Lei n. 9.455/1997, com a causa especial de aumento de pena prevista no § 4º, inciso III, "por ocasião da prática mediante sequestro" - e-STJ fl. 43, e concurso material) - e-STJ fls. 15/43.
+Irresignada, a defesa impetrou prévio writ na origem alegando ausência de fundamentação do decreto prisional, tendo o Tribunal de origem denegado a ordem conforme evidencia a ementa de e-STJ fl. 202:
+"HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. TORTURA. NEGATIVA DE AUTORIA. VIA INADEQUADA. PRISÃO PREVENTIVA. DECISÃO FUNDAMENTADA. NECESSIDADE DA MEDIDA RESTRITIVA. HIPÓTESES ELENCADAS NO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL. PENA MÁXIMA COMINADA SUPERIOR A QUATRO ANOS. GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS DO PACIENTE. IRRELEVÂNCIA. VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. INOCORRÊNCIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM DENEGADA.
+- A negativa de autoria pelo Paciente é tese que demanda aprofundado exame de provas, sendo imprópria a via estreita do ""Habeas corpus"" para a sua análise.
+- Não há que se falar em constrangimento ilegal se o decreto prisional encontra-se adequadamente fundamentado nos requisitos previstos no art. 312 do CPP, a fim de garantir a ordem pública.
+- Evidenciada a periculosidade do agente, a prisão preventiva é medida que se impõe.
+- As condições favoráveis do paciente não são suficientes para lhe garantir a liberdade provisória, mormente quando presentes outras circunstâncias autorizadoras da cautela.
+- Ordem denegada.
+No presente writ, a defesa reitera os argumentos lançados perante o Tribunal de origem acerca da carência de fundamentação idônea do decreto de prisão cautelar.
+Aduz que o paciente é primário, tem bons antecedentes, residência fixa, não responde a nenhum processo criminal, tampouco possui condenação contra sua pessoa.
+Afirma que ele integra o grupo de risco do novo coronavírus por ser obeso, pesando aproximadamente 150kg, fazendo jus à prisão domiciliar, caso não se entenda pela revogação da custódia cautelar.
+Requer, liminarmente e no mérito, seja revogada a prisão preventiva, expedindo-se imediatamente alvará de soltura em favor do paciente, ou, caso assim não se entenda, pleiteia que sejam aplicadas medidas cautelares alternativas, até mesmo o monitoramento eletrônico.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pelo parcial conhecimento da ordem e, nessa extensão, pela denegação do writ.
+É o relatório.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+Destacou o Juízo de piso ao decretar a prisão preventiva (e-STJ fls. 135/136):
+Isto porque, referidos elementos dão conta do envolvimento dos representados com a organização criminosa denominada Primeiro Comando da Capital, que, além de integrarem a referida organização criminosa, supostamente, praticam em nome dela, inúmeros delitos, como por exemplo, tráfico de drogas, furtos, posse e porte de armas de uso restrito ou proibido, e etc", acrescentando, ainda, que "a investigação aponta a existência de um Tribunal do Crime, que, para fim de fazer cumprir as "normas", vale-se, inclusive, de tortura, tendo sido realizados "julgamentos" pela referida organização em, pelo menos, duas oportunidades em Itajuba/MG.
+Assim, em razão das características da conduta delituosa narrada, o decreto prisional demonstrou que o ora paciente seria membro de organização criminosaligada ao grupo Primeiro Comando da Capital - PCC,especializada na prática de tráfico de drogas, furtos, posse e porte de armas e tortura..
+Tal circunstância autoriza a decretação da prisão preventiva pois, conforme magistério jurisprudencial do Pretório Excelso, "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, HC n. 95.024/SP, relatora MinistraCÁRMEN LÚCIA, Primeira Turma, DJe 20/2/2009).
+Nesse mesmo sentido:
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE DO CRIME. MODUS OPERANDI DELITIVO. ARTICULADA ORGANIZAÇÃO. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. FUNDAMENTAÇÃO IDÔNEA. OCORRÊNCIA. ORDEM DENEGADA.
+1. A necessidade da custódia cautelar está fundamentada na garantia da ordem pública, evidenciada pelo modus operandi da organização criminosa voltada para o tráfico de drogas, da qual, supostamente, o paciente faz parte, eis que, após um mês de investigações, identificou-se que ele e outros corréus transitavam entre os territórios/brasileiros e de Riviera/Uruguai na venda de drogas.
+ ..
+3. Ordem denegada.(HC 353.594/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/05/2016, DJe 16/05/2016)
+RECURSO EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO INTERESTADUAL DE DROGAS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. É possível a decretação da prisão preventiva quando se apresenta efetiva motivação para tanto.
+2. Na espécie, a prisão preventiva foi decretada tendo em vista as peculiaridades do caso concreto (agente supostamente integrante de complexa organização criminosa, voltada à disseminação de grande quantidade de drogas, as quais são adquiridas no Paraná com a finalidade de distribuição em Minas Gerais, tendo sido apreendidos 231 kg de maconha).
+3. Recurso em habeas corpus improvido.(RHC 65.669/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/04/2016, DJe 09/05/2016)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA, LAVAGEM DE DINHEIRO E CRIME CONTRA ECONOMIA POPULAR. PRISÃO PREVENTIVA. PREENCHIMENTO DOS REQUISITOS. GRAVIDADE CONCRETA DO DELITO. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. ORGANIZAÇÃO CRIMINOSA VOLTADA PARA A LAVAGEM DE DINHEIRO ORIUNDO DE ROUBOS E TRÁFICO ILÍCITO DE ENTORPECENTES. NECESSIDADE DE INTERROMPER AS ATIVIDADES DO GRUPO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. EXTENSÃO DE BENEFÍCIO CONCEDIDO ÀS CORRÉS. IMPOSSIBILIDADE. SITUAÇÃO FÁTICO-PROCESSUAL DISTINTA RECURSO IMPROVIDO.
+ ..
+2. Mostra-se fundamentada a prisão como forma de garantir a ordem pública em caso no qual se constata a existência de organização criminosa destinada a lavagem de dinheiro oriundo de delitos graves, como roubos e tráfico de entorpecentes, e estruturada com nítida divisão de tarefas, mormente pelo fato de que as atividades ilícitas permaneceram mesmo após a prisão de um de seus líderes (Tiago Gonçalves, companheiro da ora recorrente), evidenciando o alto risco de reiteração delitiva e a necessidade de desestruturar a organização criminosa a fim de interromper a atividade ilícita .
+3. A jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de organização criminosa como forma de interromper as atividades do grupo.
+ ..
+8. Recurso ordinário improvido.(RHC 83.321/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/08/2017, DJe 01/09/2017)
+No mais, frise-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória. Nesse sentido:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido.(RHC 64.879/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/03/2016)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública. A propósito, confiram-se estes precedentes:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+ ..
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, a conferir lastro de legitimidade à custódia.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso a que se nega provimento. (RHC 68.535/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/03/2016, DJe 12/04/2016)
+PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. MODUS OPERANDI DOS DELITOS. VIOLÊNCIA REAL CONTRA UMA DAS VÍTIMAS, NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+6. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+7. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido.(HC 393.464/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/08/2017, DJe 04/09/2017)
+De outro lado, como bem anotou o parecer ministerial (e-STJ fl. 315), infere-se dos autos que o Tribunal de origem não apreciou aalegação dorisco de contaminação decorrente da pandemia de covid-19. Sendo assim, a análise dotema não pode ser submetida à esta Corte Superior, sob pena de configurar indevida supressão de instância.
+Ante o exposto, conheço em parte do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se. Intimem-se.
