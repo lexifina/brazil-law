@@ -1,0 +1,33 @@
+DIREITO PENAL E PROCESSUAL PENAL. ROUBO. ALEGAÇÃO DE OFENSA AO ART. 5º, LVII, DA LEI MAIOR. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. PRESUNÇÃO DE INOCÊNCIA. MATERIALIDADE E AUTORIA. COMPREENSÃO DIVERSA. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. RECURSO EXTRAORDINÁRIO COM AGRAVO A QUE SE NEGA SEGUIMENTO.
+    Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação do art. 5º, LVII, da Lei Maior, bem como do princípio da isonomia.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    A matéria constitucional versada no art. 5º, LVII, da Lei Maior não foi analisada pelas instâncias ordinárias, tampouco opostos embargos de declaração para satisfazer o requisito do prequestionamento. Aplicável, na hipótese, o entendimento jurisprudencial vertido nas Súmulas n. 282 e 356/STF: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão suscitada” e “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”. Nesse sentido, o AI 743.256-AgR/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.3.2012, e o AI 827.894-AgR/RJ, Rel. Min. Marco Aurélio, 1ª Turma, unânime, DJe 07.11.2011, cuja ementa transcrevo:
+    “RECURSO EXTRAORDINÁRIO – PREQUESTIONAMENTO – CONFIGURAÇÃO – RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou tese explícita a respeito do fato jurígeno veiculado nas razões recursais, inviabilizado fica o entendimento sobre a violência ao preceito evocado pelo recorrente. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé."
+    Noutro giro, a Corte de origem decidiu:
+    “Pois bem.
+    A materialidade delitiva está comprovada pelo auto de prisão em flagrante (fl. 02), boletim de ocorrência (fls. 11/16), auto de exibição e apreensão (fls. 17/20), auto de avaliação (fls. 21) e laudo pericial (fls. 101/102).
+    A autoria é induvidosa. Na Polícia, o réu negou a acusação, alegando que conduzia o seu veículo Meriva, estando em companhia de seu colega, Danilo, quando foram abordados pela Polícia. Afirmou não ter cometido qualquer crime e as ferramentas encontradas no interior do carro eram utilizadas em seu trabalho (fls. 08).
+    Em Juízo, ele não compareceu para ser interrogado, tornando-se revel (fls. 685).
+    Entretanto, as provas produzidas nos autos são suficientes para sustentar o decreto condenatório.
+    A vítima, Giovani de Almeida Teles, proprietário do veículo atacado pelos ladrões, em Juízo, declarou estar descendo a via pública em companhia de seu colega, quando avistou dois rapazes mexendo no seu veículo, estando um deles no seu interior e o outro mexendo no capô. Eles estouraram a proteção que estava dentro do miolo da chave.
+    Os furtadores, ao avistá-los, saíram correndo e entraram em uma Meriva, de cor branca, e fugiram do local.
+    O seu colega chamou a Polícia e eles acabaram presos. Só viu o modelo do carro. Informou que quem reconheceu o réu foi o seu colega Silvio, porém os furtadores foram detidos no mesmo carro utilizado na fuga (Mídia).
+    A sua versão foi corroborada pelo relato da testemunha, Silvio Antônio Pereira, que, ouvida em Juízo, confirmou estar na companhia de Giovani quando ambos viram dois rapazes mexendo no veículo, os quais, ao avistá-los, saíram correndo e entraram numa Meriva branca.
+    Chamou a Polícia, que deteve os furtadores. Reconheceu o réu pelas características físicas, roupas e um pouco pelo rosto. Revelou ter visto bem o carro que eles utilizaram para fugir, uma Meriva. Na Delegacia, as michas e outros instrumentos que foram encontrados no interior da Meriva estavam em cima da mesa. (Mídia).
+    O policial militar, Irivelton de Moura Ribeiro, em audiência, declarou estar em patrulhamento quando foi avisado a respeito da tentativa de furto do veículo, praticada por dois rapazes que fugiram em uma Meriva branca.
+    Em diligências pelas proximidades, deparou-se com o referido carro próximo a uma praça.
+    Os dois passageiros foram abordados e diversos instrumentos foram encontrados no interior do veículo.
+    Eles foram conduzidos ao distrito policial e a vítima os reconheceu. Dentro desse carro tinha um instrumento (módulo) para ligar o veículo, bem como várias chaves de fenda. (Mídia).
+    As qualificadoras do concurso de pessoas e do rompimento de obstáculo restaram devidamente comprovadas pela prova oral e a última principalmente pelo laudo pericial (fls. 101/102), razão pela qual devem ser mantidas.
+    Diante desse contexto, em que pesem os argumentos defensivos, a condenação imposta em primeiro grau revelou-se acertada e deve ser mantida.”
+    Verifico que o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento acerca da materialidade e autoria, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 8 de junho de 2021.
+Ministra Rosa Weber
+Relatora
