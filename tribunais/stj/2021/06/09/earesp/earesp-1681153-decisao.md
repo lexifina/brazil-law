@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por Issa Paulo Kachy contra o acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça, assim ementado (fls. 875/880):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.ESTELIONATO. DECISÃO AGRAVADA PROFERIDA PELA PRESIDÊNCIA DESTA CORTE SUPERIOR. MANUTENÇÃO.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência da Súmula 7/STJ.
+Agravo regimental desprovido.
+Opostos embargos de declaração, esses foram acolhidos, sem efeitos modificativos (fls. 904/915).
+Aponta o embargante divergência jurisprudencial indicando como paradigma acórdão proferido pela Sexta Turma no HC n. 583.837/SC, de minha relatoria.
+Diz queconsiderar como ato jurídico perfeito o recebimento da denúncia, sem a devida "REPRESENTAÇÃO" das vítimas como determina a Nova Legislação, "inverteria a natureza do próprio direito fundamental, visto que equivaleria a permitir que o Estado invocasse uma garantia fundamental frente ao cidadão, contrassenso quando delimitamos os destinatários dos direitos fundamentais" (fl. 930).
+Aduz que, no caso em testilha, trata-se de ação penal intentada por iniciativa da Justiça Pública imputando a elea prática antijurídica descrita no art.171, caput, do Código Penal, sem, contudo, constar a expressa ratificação da(s) vítima(s) perante o Juízo originário. Ademais, tratando-se, de norma de natureza mista, inolvidável reconhecer a incidência da retroatividade da norma mais benéfica, tal como, no presente caso (fl. 931).
+Assevera que, verifica-se dos autos, tratar-se de vítima conceituada com pessoa jurídica de direito privado, todavia, não efetuou a ratificação da representação em juízo, assim, há evidente error in procedendo posto que, o vício apontado não se encontra em harmonia com a legislação em vigor (fl. 932).
+Defende que a melhor intepretação do comando constitucional inserido no art.5º, XL - é a manifestação da egrégia Sexta Turma do STJ, por meio do voto da lavra do arguto Ministro Sebastião Reis Júnior - com precisão lapidar, assentou: "4. A retroação do § 5º do art. 171 do Código Penal alcança todos os processos em curso, ainda sem trânsito em julgado, sendo que essa não gera a extinção da punibilidade automática dos processos em curso, nos quais a vítima não tenha se manifestado favoravelmente à persecução penal. Aplicação do art. 91 da Lei n. 9.099/1995 por analogia 5. O ato jurídico perfeito e a retroatividade da lei penal mais benéfica são direitos fundamentais de primeira geração, previstos nos incisos XXXVI e XL do art. 5º da Constituição Federal. Por se tratarem de direitos de origem liberal, concebidos no contexto das revoluções liberais, voltam-se ao Estado como limitadores de poder, impondo deveres de omissão, com o fim de garantir esferas de autonomia e de liberdade individual. Considerar o recebimento da denúncia como ato jurídico perfeito inverteria a natureza dos direitos fundamentais, visto que equivaleria a permitir que o Estado invocasse uma garantia fundamental frente a um cidadão" (fls. 937/938).
+É o relatório.
+Os presentes embargos não reúnem condições de serem admitidos.
+Com efeito, o Superior Tribunal de Justiça firmou entendimento no sentido de que, em sede de embargos de divergência, não se admite como paradigma acórdão proferido em ações que possuem natureza de garantia constitucional como habeas corpus, recurso ordinário em habeas corpus, mandado de segurança, recurso ordinário em mandado de segurança, habeas data e mandado de injunção.
+Nesse sentido, anotem-se: AgRg nos EDv nos EREsp n. 1.737.258/PE, Ministro Joel Ilan Paciornik, Terceira Seção, DJe 11/3/2019 e AgRg nos EREsp n. 1.509.492/SP, Ministro Nefi Cordeiro, Terceira Seção, DJe 18/9/2018.
+Ante o exposto, indefiro liminarmente os embargos de divergência (art. 266-C do RISTJ).
+Publique-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. DIVERGÊNCIA APONTADA COM PARADIGMA EM HABEAS CORPUS. IMPOSSIBILIDADE.
+Embargos de divergência liminarmente indeferidos.
