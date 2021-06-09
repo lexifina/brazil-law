@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manejado pela União Federal contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 30):
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PRESCRIÇÃO INTERCORRENTE. INOCORRÊNCIA. EMENTA RPV CANCELADA. LEI Nº 13.463/2017. POSSIBILIDADE DE EXPEDIÇÃO DE NOVO REQUISITÓRIO.
+IMPROVIMENTO.
+1. Agravo de instrumento interposto pela União Federal em face de decisão que nos autos da execução contra a Fazenda Pública, afastou a alegação de prescrição aduzida pela ora agravante.
+2. O cerne da controvérsia diz respeito à ocorrência de prescrição, bem como à possibilidade de expedição de nova requisição de pagamento.
+3. Na origem, o juízo executório determinou a reexpedição das requisições de pagamento RPV1153366-RN e PRC60773-RN, cujo cancelamento ocorreu em 30.10.2017 e 16.11.2017, respectivamente, após o advento da Lei nº 13.463/2017, que em seu art. 2º estabelece que "Ficam cancelados os precatórios e as RPV federais expedidos e cujos valores não tenham sido levantados pelo credor e estejam depositados há mais de dois anos em instituição financeira oficial".
+4. A agravante alega que, na espécie, ocorreu a prescrição intercorrente, pois, na data em que requerida a reexpedição dos ofícios requisitórios (04.02.2019), o montante já estava disponível para saque há mais de cinco anos, eis que teria sido disponibilizado para saque em 2009.
+5. Não merece acolhimento o argumento da parte agravante, pois o pedido de expedição de nova requisição é para meros fins de recebimento da quantia devida à parte recorrida, cuja restituição aos cofres públicos deu-se pelo advento de lei nova, a qual prevê o direito do credor de requerer a expedição de novo ofício requisitório, nos termos do seu art. 3º.
+6. Naturalmente, tal direito não poderia ser exercido contados cinco anos da data do depósito ocorrido em 2009, sobretudo porque a Lei nº 13.463 entrou em vigor tão somente em 06 de julho de 2017, razão pela qual descabe o argumento de que antes mesmo do advento do diploma legal já teria ocorrido a prescrição.
+7. Nesse contexto, o prazo de prescrição não poderia ser contado do trânsito em julgado da sentença do processo de conhecimento ou da data de disponibilização do primeiro requisitório, mas só poderia ser iniciado a partir dos cancelamentos da RPV e do PRC, razão pela qual deve ser afastada a alegação de prescrição, visto que este ocorreu tão somente em 2017.
+8. Precedentes: Processo 08011677620194050000, AG - Agravo de Instrumento, Desembargador Federal Fernando Braga, 3ª Turma; Processo 08028712720194050000, AG - Agravo de Instrumento, Desembargador Federal Rogério Fialho Moreira, 3ª Turma.
+9. Agravo de instrumento improvido.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 2º da Lei nº 13.463/2017, 3º do Decreto-Lei nº 4.597/1942 e 1º do Decreto nº 20.910/1932. Sustenta, em síntese, "queocorrendo o decurso do prazo de dois anos por inércia do interessado ou outra razão que RPV impossibilitou liberação dos recursos do precatório, estes devem retornar ao Ente Público conforme art. 2º, § 2º, da norma elaborada pelo Congresso Nacional dentro dos limites dados pelo âmbito de proteção da garantia constitucional do regime de precatórios",bem assim que "considerando a inércia dos interessados em promover o levantamento no tempo hábil e que não restou comprovada pelos agravados a ocorrência de qualquer causa de suspensão / interrupção desse direito , temos que PERECEU O DIREITO dos credores para promover os atos necessários ao recebimento de seus créditos e - de consequência - não fazem mais jus a expedição de nova RPV para quitação dos valores prescritos."
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não merece acolhimento.
+Segundo a jurispurdência predominatne no Superior Tribunal de Justiça, "inexiste prazo prescricional para que o credor solicite a reexpedição de precatório ou RPV cancelados com fundamento na Lei n. 13.463/2017, tendo em vista a ausência de previsão legal nesse sentido." (AgInt no REsp 1893168/RN, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 19/04/2021, DJe 23/04/2021)
+Nessa mesma linha, confiram-se:
+PROCESSUAL CIVIL. REQUISIÇÃO DE PEQUENO VALOR (RPV). CANCELAMENTO. LEI Nº 13.463/2017. REEXPEDIÇÃO. IMPRESCRITIBILIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. Ressalvado o entendimento do relator, a Primeira Turma do STJ, em recente julgamento colegiado, proferido no REsp n. 1.856.498/PE, sob a relatoria do Min. Napoleão Nunes Maia Filho, posicionou-se, por maioria, pela imprescritibilidade da pretensão à reexpedição da requisição de pequeno valor (RPV) cancelada nos termos da Lei n. 13.463/2017.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1742794/PB, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 26/04/2021, DJe 12/05/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PRECATÓRIO OU REQUISITÓRIO DE PEQUENO VALOR. LEI N. 13.462/2017. CANCELAMENTO APÓS DOIS ANOS DO DEPÓSITO. UTILIZAÇÃO DO DINHEIRO PELA UNIÃO. PRAZO PARA PEDIDO DE NOVO OFÍCIO REQUISITÓRIO. DIREITO POTESTATIVO. PRESCRIÇÃO.
+INEXISTÊNCIA. DISPOSITIVOS LEGAIS SEM COMANDO NORMATIVO APTO À ALTERAÇÃO DO ACÓRDÃO RECORRIDO. INADMISSIBILIDADE.
+1. Nenhum direito perece sem que haja previsão expressa do fenômeno apto a produzir esse resultado; portanto, não é lícito estabelecer-se, sem lei escrita, ou seja, arbitrariamente, uma causa inopinada de prescrição  (REsp 1.874.973/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 06/10/2020, DJe 13/10/2020).
+2. No caso dos autos, além de o acórdão recorrido estar em conformidade com esse entendimento, o conhecimento do recurso encontra óbice nas Súmulas 283 e 284 do STF.
+3. Agravo interno não provido.
+(AgInt no REsp 1864043/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/03/2021, DJe 25/03/2021)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
