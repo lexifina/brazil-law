@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo (art. 544 do CPC/73) (art. 1.042 do CPC/15) interposto por NORCON SOCIEDADE NORDESTINA DE CONSTRUÇÕES S/A em face da decisão acostada a fls. 468-477, e-STJ que, em juízo prévio de admissibilidade, negou seguimento ao recurso especial manejado pela parte insurgente.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 341-375, e-STJ, proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado:
+CONSUMIDOR E PROCESSO CIVIL - AÇÃO INDENIZATÓRIA - TESE DE INEXISTÊNCIA DE DESCUMPRIMENTO CONTRATUAL - CLÁUSULA DE TOLERÂNCIA - 180 (CENTO E OITENTA DIAS) - LEGALIDADE - CASO FORTUITO E FORÇA MAIOR - NÃO COMPROVAÇÃO - DANO MORAL DEVIDO - SÚMULA Nº 12 DO TJSE - MINORAÇÃO DO QUANTUM INDENIZATÓRIO - CLÁUSULA PENAL - PERDAS E DANOS - CUMULAÇÃO - POSSIBILIDADE - NATUREZAS DISTINTAS - DANOS MATERIAIS (EMERGENTES) - COMPROVAÇÃO - SUCUMBÊNCIA MÍNIMA DOS AUTORES - RECURSO CONHECIDO E EM PARTE PROVIDO - UNÂNIME.
+Opostos embargos de declaração pela parte ora agravante (fls. 376-384 / 514-521, e-STJ), esses foram parcialmente acolhidos para sanar o vício referente à redistribuição dos ônus sucumbenciais (fls. 536-545,-e-STJ).
+Nas razões de recurso especial (fls. 395-415, e-STJ), alegou a parte recorrente, além de dissídio jurisprudencial, que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) arts. 186 e 927, ambos do CC/02 , defendendo a impossibilidade de condenação por dano moral quando o deferimento da pretensão indenizatória estiver amparado em mero inadimplemento contratual; (iii) arts. 411 e 419, p. ú., ambos do CC/02, sustentando que é incabível a cumulação de indenização por danos emergentes quando já convencionada a Cláusula Penal e ausente qualquer pactuação nesse sentido.
+Contrarrazões às fls. 457-465, e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem negou seguimento ao apelo nobre pelos seguintes fundamentos: aplicação da Súmula 7/STJ; aplicação da Súmula 83/STJ.
+A parte, irresignada, interpôs o presente agravo em recurso especial, cuja minuta está acostada às fls. 482-489, e-STJ, alegando, em resumo, não serem aplicáveis os óbices invocados
+Contraminuta às fls. 504-508, e-STJ.
+Devolução dos autos à origem para seu sobrestamento e posterior aplicação da tese exarada no julgamento dos repetitivos (Tema 970) (fl. 554, e-STJ).
+Dessobrestamento do feito e reenvio para esta Corte, sob o argumento de disparidade entre a presente matéria e o objeto de apreciação do Tema 970/STJ (fl. 575, e-STJ).
+É o relatório.
+Decide-se.
+A irresignação merece prosperar em parte.
+1. Alegou a insurgente a não ocorrência do dano moral ante o mero inadimplemento contratual. Argumentou que o acórdão não traçou qualquer nota adicional que justificasse a compensação além dos danos materiais. Pugnou pela exclusão da condenação a título de dano moral.
+No ponto, a Corte Estadual consignou:
+Nessa senda, quanto a matéria relativa à configuração do danomoral também não mais importa discussão, de acordo com odecidido no Incidente de Uniformização Jurisprudencial nº201300125531.
+Tal como ocorreu com o tema do dano material (lucroscessantes), esta Corte de Justiça uniformizou seu entendimentotambém a respeito do dano moral decorrente do atraso deentrega de imóvel, conforme se verifica da redação doenunciado nº 12 da súmula de sua jurisprudência:
+ ..
+Segundo restou decidido, é devido dano moral na hipótese deatraso na entrega de imóvel superior ao prazo de tolerânciaprevisto no contrato, somente podendo ser afastado quandocomprovada hipótese de caso fortuito e/ou de força maior, oque, como já mencionado antes, não ocorreu no caso em tela.
+Na hipótese específica de atraso na entrega de imóvel, em decorrência do descumprimento do prazo previsto em contrato de promessa de compra e venda, essa análise deverá ser feita caso a caso, ficando afastado, em princípio, o caráter absoluto da presunção de existência do dever reparatório, salvo se existente algum fato concreto capaz de transformar a mera frustração quanto à expectativa inicial de cumprimento do prazo avençado - o que não ultrapassa a barreira do aborrecimento e dissabor próprios do cotidiano - em situação de grave abalo na esfera subjetiva do promitente comprador, e, por esse motivo, capaz de ensejar reparação por danos morais.
+Na hipótese, constata-se que, ainda que o imóvel tenha sido entregue após ultrapassado o prazo de tolerância, não foi comprovado que o atraso teria afetado, de maneira excepcional, o direito da personalidade dos recorridos, não havendo que se falar, portanto, em abalo moral indenizável.
+Nesse sentido:
+CIVIL. CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. ROMPIMENTO CONTRATUAL. PARCIAL PROCEDÊNCIA. ART 51, IV, DO CDC. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. DANOS MORAIS INEXISTENTES. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO.
+1. Aplicabilidade do NCPC ao caso concreto ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A matéria contida no art. 51, IV, do CDC, da forma em que discutida nas razões do especial, não foi enfrentada pelo Tribunal de origem, nem mesmo depois da oposição dos embargos de declaração.
+Incidência da Súmula nº 211 do STJ.
+3. A moderna jurisprudência firmada no âmbito da Terceira Turma desta Corte é no sentido de que o dano moral, na hipótese de atraso na entrega de unidade imobiliária, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação a direito da personalidade dos promitentes compradores.
+4. No caso concreto, a fundamentação do dano moral está justificada somente na frustração da expectativa de realização do sonho da casa própria, motivada pelo rompimento contratual decorrente do atraso na entrega da obra, sem tecer nota adicional ao mero atraso que pudesse, além dos danos materiais, causar grave sofrimento ou angústia a ponto de configurar verdadeiro dano moral. Incidência da Súmula nº 568 do STJ.
+5. Agravo interno não provido, com aplicação de multa.
+(AgInt no REsp 1656217/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/08/2017, DJe 01/09/2017)
+CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO C/C INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. ABORRECIMENTO E DISSADOR. EXAME DAS PREMISSAS FÁTICAS DO ACÓRDÃO RECORRIDO. ENUNCIADO N. 7 DA SÚMULA DO STJ. NÃO INCIDÊNCIA.
+1. O simples descumprimento contratual, por si, não é capaz de gerar danos morais, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável pela sua gravidade.
+2. A Corte local, para reformar a sentença e julgar procedente o pedido de indenização por danos morais, concluiu que o atraso na entrega do imóvel, de aproximadamente 9 (nove) meses, por si, frustrou a expectativa do casal de ter um lar, causando, consequentemente, transtornos por não ter domicílio próprio. Com efeito, o Tribunal de origem apenas superestimou o desconforto, o aborrecimento e a frustração da autora, sem apontar, concretamente, situação excepcional específica, desvinculada dos normais aborrecimentos do contratante que não recebe o imóvel no prazo contratual.
+3. A orientação adotada na decisão agravada não esbarra no óbice contido no enunciado n. 7 da Súmula do STJ, tendo em vista que foram consideradas, apenas, as premissas fáticas descritas no acórdão recorrido.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1408540/MA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 12/02/2015, DJe 19/02/2015)
+2. Com efeito, consoante a jurisprudência desta Corte, "A cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes." (REsp 1635428/SC, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 22/05/2019, DJe 25/06/2019).
+Da leitura do acórdão recorrido e da sentença, verifica-se que os danos materiais consubstanciaram-se no pagamento do dispêndio com o aluguel mensal custeado pelos autores durante o período da mora, enquanto a cláusula penal moratória prevista contratualmente não tem por base o valor locativo e sim deve ser calculada sobre o preço total atualizado do contrato, sendo de 0,01% por dia de atraso.
+Logo, na hipótese dos autos, verifica-se que o entendimento do acórdão recorrido não afronta a jurisprudência desta Corte, não havendo como ser acolhida a irresignação no ponto.
+3. Do exposto, com base no art. 932 do NCPC e na Súmula 568/STJ, dou parcial provimento ao recurso especial a fim de excluir a indenização por dano moral.
+Publique-se.
+Intimem-se.
+EMENTA
