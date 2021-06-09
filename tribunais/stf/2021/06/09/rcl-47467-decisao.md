@@ -1,0 +1,14 @@
+D E C I S Ã O
+    Trata-se de reclamação constitucional, com pedido de liminar, proposta por ANTONIO NATANAEL CANETTE contra sentença proferida pelo Juízo da Sexta Vara do Juizado Especial Federal da Seção Judiciária do Estado de Mato Grosso, nos autos do Processo nº 0015157- -24.2014.4.01.3600, pela qual teria sido desobedecida a decisão proferida pelo Ministro Roberto Barroso na Medida Cautelar na Ação Direta de Inconstitucionalidade (ADI) nº 5.090/DF, que determinou a suspensão de todos os processos que discutam a rentabilidade dos depósitos do FGTS.
+    Requer a procedência da presente Reclamação, para cassar a sentença prolatada nos autos de origem, em sede liminar, determinando o desarquivamento dos autos originários, e, consequentemente, a suspensão do feito, para então aguardar decisão de mérito nos autos da ADI nº 5090 – DF, em conformidade com as decisões de suspensão de todos os feitos determinada por essa Suprema Corte.
+    Essa reclamação, contudo, é manifestamente inadmissível.
+    É que o ato decisório ora impugnado foi proferido em 02/03/2016 (eDOC nº 14), antes, portanto, da decisão proferida pelo Ministro Roberto Barroso na ADI 5.090/DF, aos 06/09/2019, quando restou deferida a medida cautelar para suspender o trâmite de todos processos cujo objeto seja a discussão sobre índice de correção dos depósitos de FGTS.
+    Esta Suprema Corte possui entendimento pacífico no sentido de que não é cabível reclamação em que se pretende impugnar ato produzido anteriormente ao paradigma de controle invocado, pois não assistiria à parte reclamante, nessas situações, interesse de agir (Rcl 3.076/MA, Rel. Min. Cármen Lúcia; Rcl 4.962/SP, Rel. Min. Cármen Lúcia; Rcl 6.449- -AgR/RS, Rel. Min. Eros Grau; Rcl 7.989-AgR/SP, Rel. Min. Cármen Lúcia; Rcl 8.603-AgR/SP, Rel. Min. Luiz Fux; Rcl 10.019-AgR/SP, Rel. Min. Celso de Mello).
+    Aproveito o ensejo para ressaltar que não comungo da orientação restritiva que se formou na jurisprudência desta Corte. Entendo que há hipóteses excepcionais nas quais, mesmo que o ato impugnado haja sido praticado anteriormente à edição do correspondente paradigma de controle, o recebimento da reclamação encontra autorização nos escopos de preservar a competência e de garantir a autoridade das decisões do Supremo Tribunal (alínea 1 do art. 102 da Constituição Federal).
+    Isso porque a indevida aplicação de tese jurídica, núcleo central da hipótese discriminada no § 4º do art. 988 do Código de Processo Civil, também se aplica nos casos em que a decisão originalmente proferida projeta os seus efeitos de maneira prospectiva.
+    No entanto, em homenagem ao princípio da colegialidade, faz-se imperioso negar seguimento a pedidos que não reúnem condições mínimas de viabilidade perante esta Corte de Justiça.
+    Em face do exposto, nego seguimento a esta reclamação.
+    Publique-se. Intime-se. Arquive-se.
+    Brasília, 09 de junho de 2021.
+Ministro NUNES MARQUES
+Relator
