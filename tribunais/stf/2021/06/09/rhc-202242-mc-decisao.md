@@ -1,0 +1,18 @@
+D E C I S Ã O
+    Trata-se de recurso ordinário em habeas corpus, com pedido de medida liminar, interposto contra acórdão do Superior Tribunal de Justiça assim ementado:
+    “AGRAVO REGIMENTAL NO ‘HABEAS CORPUS’. ROUBO CIRCUNSTANCIADO PELO CONCURSO DE AGENTES E PELO EMPREGO DE ARMA DE FOGO. DOSIMETRIA. INCIDÊNCIA SUCESSIVA DE CAUSAS DE AUMENTO DE PENA. PLEITO DE APLICAÇÃO APENAS DA MAJORANTE DE MAIOR VALOR. IMPROCEDÊNCIA. INTERPRETAÇÃO CORRETA DO ART. 68, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL. POSSIBILIDADE DE APLICAÇÃO SUCESSIVA DAS DUAS CAUSAS DE AUMENTO, MEDIANTE FUNDAMENTAÇÃO CONCRETA. FUNDAMENTAÇÃO CONCRETA E SUFICIENTE, NO CASO. PRECEDENTES DESTA CORTE E DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL A QUE NEGA PROVIMENTO.
+    1. Referente à terceira fase da dosimetria da pena, quando presente mais de uma causa de aumento, a jurisprudência deste Tribunal tem exigido apenas que, na fixação da fração de exasperação punitiva, seja observado o dever de fundamentação específica do órgão julgador (art. 93, inciso IX, da Constituição Federal), com remissão às particularidades do caso concreto que refletem a especial gravidade do delito.
+    2. Conferindo interpretação diversa da pretendida pela defesa ao art. 68, parágrafo único, do Código Penal, o STF registrou que esse dispositivo estabelece, ‘sob o ângulo literal, apenas uma possibilidade (e não um dever) de o magistrado, na hipótese de concurso de causas de aumento de pena previstas na parte especial, limitar-se a um só aumento, sendo certo que é válida a incidência concomitante das majorantes, sobretudo nas hipóteses em que sua previsão é desde já arbitrada em patamar fixo pelo legislador’ (HC n. 110.960, Relator Min. Luiz Fux, Primeira Turma, julgado em 19/8/2014).
+    3. Assim, a depender do caso ‘sub judice’, a presença de mais de uma causa de aumento do crime de roubo, associada a outros elementos indicativos da gravidade em concreto do delito praticado, todos devidamente explicitados na motivação empregada na terceira etapa dosimétrica, enseja o incremento cumulativo da reprimenda, nos termos da mudança determinada pela Lei n. 13.654/2018. Precedentes desta Corte.
+    4. Na hipótese, como evidenciado pelas instâncias ordinárias e enfatizado na decisão ora agravada, o crime envolveu o concurso de três agentes e o auxílio de um adolescente, com o uso de arma de fogo, os quais empregaram ameaças de morte à vítima, tratando-se de elementos concretos que desbordam da conduta descrita no tipo, justificando-se o incremento da pena, especialmente diante do ‘modus operandi’ do delito.
+    5. Agravo regimental a que se nega provimento.”
+    (HC 649.232-AgRg/SC, Ministro Reynaldo Soares da Fonseca)
+    Em suas razões, o recorrente pretende, liminarmente, “a suspensão dos efeitos da condenação até que o mérito do presente ‘mandamus’ seja analisado e julgado em definitivo”.
+    Tal o contexto e abstendo-me de qualquer pronunciamento acerca do mérito do pedido, a mim me parecem ausentes os requisitos necessários à concessão da medida liminar pleiteada.
+    Em casos fronteiriços, Ministros desta Suprema Corte têm indeferido medidas liminares requeridas em habeas corpus com fundamento na carência de demonstração de probabilidade do direito invocado e de perigo da demora. Ilustram essa orientação as seguintes decisões: HC 190.587-MC/MG, Ministro Celso de Mello; HC 190.943-MC/PR, Ministro Edson Fachin; HC 191.847-MC/AC, Ministra Cármen Lúcia.
+    Em face do exposto, indefiro o pedido de medida liminar.
+    Vista ao Ministério Público Federal.
+    Intime-se. Publique-se.
+    Brasília, 09 de junho de 2021.
+Ministro NUNES MARQUES
+Relator
