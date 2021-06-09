@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por ESTADO DE SÃO PAULO contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO CUMPRIMENTO DE SENTENÇA EXCLUSÃO DOS JUROS MORATÓRIOS NO CÔMPUTO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS INADMISSIBILIDADE CÁLCULO DA VERBA HONORÁRIA QUE DEVE ABARCAR O MONTANTE ATUALIZADO DA CONDENAÇÃO DECISÃO PARCIALMENTE REFORMADA RECURSO PROVIDO.
+Quanto à controvérsia trazida aos autos, alega violação dos arts. 394 e 396 do CPC no que concerne à suficiência do depósito dos honorários de sucumbência em razão da inexistência de mora da Fazenda Pública, trazendo o(s) seguinte(s) argumento(s):
+Trata-se de processo ordinário em fase de execução em que, após a fixação do quantum debeatur foram expedidos ofícios na modalidade precatório e requisitório de pequeno valor para o pagamento da quantia executada.
+ ..
+Conforme é cediço, os juros de mora somente são devidos quando caracterizada a mora, nos termos dos arts. 394 e 396 do Código Civil, cuja transcrição segue abaixo:
+ ..
+Entretanto, no presente caso, não há que se falar em mora.
+Frisa-se, ainda, que esta verba, assim como as demais de natureza sucumbencial, não são consideradas capitalizáveis, pois não rendem frutos ou juros.
+Assim, nessa hipótese não há incidência de juros de mora. Isso porque a Fazenda não está em mora com relação ao crédito principal.
+Ademais, não existe qualquer decisão, seja na r. sentença ou no v. acórdão, que determine o pagamento de juros incidentes sobre os honorários.
+Por isso há apenas atualização da verba em comento. Sendo o advogado credor autônomo, não há mora em relação a ele.
+Somente se estivessem os valores a ele devidos incluídos na conta do credor principal, ele também teria direito a que os juros de mora incidissem sobre o valor que lhe é devido, pois nesse caso específico, haveria mora para o credor principal (fls. 457-458).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+A propósito, a questão relativa à mora do Estado e à incidência de juros no período compreendido entre a data de fixação do valor devido e a expedição do requisitório de pequeno valor já foi objeto de decisão nos autos do Agravo de Instrumento interposto pelo Estado, autuado sob o nº 3004525-13.2019.8.26.0000, em que ficou assim decidido:
+" ..  mesmo que o OPV seja pago dentro do vencimento, ou seja, logo após 60 dias do protocolo do ofício requisitório, isso não afasta a incidência de juros no período compreendido entre a data da realização da conta de liquidação e a da requisição, nos termos do entendimento firmado pelo Eg. STF no Tema 96, no que não se verifica ofensa à Súmula Vinculante 17, que trata do período posterior à expedição do precatório ou OPV. Ressalte-se, assim, que incidem juros de mora entre a data dos cálculos e a da requisição do pagamento e, depois, só em caso de eventual atraso no pagamento, após o vencimento, conforme o entendimento do Supremo Tribunal Federal, no Tema 96 e na Súmula Vinculante 17" (fls. 448-449).
+Da análise dos autos, percebe-se que há fundamento constitucional autônomo no acórdão recorrido e não houve apresentação do devido recurso ao Supremo Tribunal Federal.
+Aplicável, portanto, o óbice da Súmula n. 126/STJ, uma vez que é imprescindível a interposição de recurso extraordinário quando o acórdão recorrido possui, além de fundamento infraconstitucional, fundamento de natureza constitucional suficiente por si só para a manutenção do julgado.
+Nesse sentido: " ..  firmado o acórdão recorrido em fundamentos constitucional e infraconstitucional, cada um suficiente, por si só, para manter inalterada a decisão, é ônus da parte recorrente a interposição tanto do Recurso Especial quanto do Recurso Extraordinário. A existência de fundamento constitucional autônomo não atacado por meio de Recurso Extraordinário enseja aplicação do óbice contido na Súmula 126/STJ". (AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020.)
+Confiram-se ainda os seguintes precedentes: REsp 1.684.690/SP, relator Ministro Herman Benjamin, Primeira Seção, DJe de 16/4/2019; AgRg no REsp 1.850.902/MT, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 29/6/2020; REsp 1.644.269/RS, relator Ministro Og Fernandes, Segunda Turma, Dje de 7/8/2020; AgRg no REsp 1.855.895/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/6/2020; AgInt no AREsp 1.567.236/SC, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 4/6/2020; e AgInt no AREsp 1.627.369/PE, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
