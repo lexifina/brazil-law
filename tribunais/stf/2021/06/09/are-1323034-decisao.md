@@ -1,0 +1,39 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    “APELAÇÃO CÍVEL – SERVIDOR DO MUNICÍPIO DE MURIAÉ – REVISÃO DE PROVENTOS – DIREITO RECONHECIDO EM DECISÃO JUDICIAL ANTERIOR – AUSÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA – OBRIGAÇÃO DE COBERTURA ATRIBUÍDA AO MUNICÍPIO – ART. 34, § 6º DA LEI MUNICIPAL Nº 3.432/2007 – RECURSO DESPROVIDO.
+    1 – O art. 34, § 6º da Lei Municipal nº 3.432/2007 estabelece, de forma expressa, a responsabilidade do Município de Muriaé pela cobertura de eventuais insuficiências financeiras do fundo municipal de previdência que decorram do pagamento de benefícios previdenciários.
+    2 – Dessa forma, a busca pela preservação do equilíbrio financeiro e atuarial pelo fundo municipal de previdência não autoriza o descumprimento de ordem judicial, transitada em julgado, que determinou expressamente a revisão dos proventos de servidor aposentado, sob pena de vulneração ao princípio da segurança jurídica.
+    3 – Recurso desprovido”.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 40, §§ 3º e 18, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    “Da análise dos autos, observa-se que a autora, ora apelada, aposentada nos cargos efetivos de Professor I e Supervisora Pedagógica, tendo anteriormente ingressado com ação ordinária sob o argumento de que, no ato de concessão de sua aposentadoria o ente público não teria observado o direito à progressão na forma da legislação local, a qual foi julgada parcialmente procedente nos seguintes termos:
+    ‘Por todo o exposto, julgo PARCIALMENTE PROCEDENTES os pedidos formulados por Sônia Maria Vieira Martins para condenar o Município de Muriaé a implementar todas as progressões a que a autora fizer jus, conforme mencionado alhures (P21 no cargo de Professora e P 19 no cargo de Supervisora), bem como pagar à autora todas as diferenças de valores decorrentes do aumento de sua remuneração em face das promoções, observada a prescrição quinquenal’ (doc. nº 11).
+    A r. sentença foi parcialmente reformada por esta Turma Julgadora tão somente em relação ao valor dos honorários advocatícios fixados, sendo o v. acórdão assim ementado:
+    [...]
+    Diante disso, a servidora ingressou com ação ordinária requerendo a revisão de seus proventos de aposentadoria, para que passem a corresponder ao padrão de vencimento dos cargos correspondente ao nível alcançado em razão das progressões concedidas, cuja alteração foi certificada pela Coordenadora do Departamento de Pessoal da Prefeitura Municipal de Muriaé (MG) (doc. nº 18).
+    O pedido formulado foi negado administrativamente sob o seguinte fundamento:
+    ‘Diante do exposto, tem-se que no caso em tela há um cumprimento de sentença em curso para que o Município faça o pagamento dos valores à aposentada.
+    Assim, o Muriáe-Prev só terá possibilidade de fazer a revisão do cálculo de aposentadoria da Sra. Sônia Maria Vieira Martins após o pagamento da parte previdenciária (segurado e patronal) a este Fundo de Previdência, pois ainda não há contribuição previdenciária em relação a esta parcela referente às progressões judiciais.’ (doc. nº 20).
+    Como é curial, após as Emendas Constitucionais 20/98 e 41/03, a constituição estabeleceu, no âmbito previdenciário, o caráter contributivo, atuarial e solidário do regime.
+    Nesse sentido preceitua o art. 40 da Constituição Federal:
+    [...]
+    Todavia, em que pese a necessidade de preservação do equilíbrio financeiro e atuarial do sistema municipal de previdência, tal fato, por si só, não autoriza que o ente público, a seu alvedrio, descumpra decisão judicial, transitada em julgado, que determinou expressamente a revisão dos proventos da servidora em razão das progressões na carreira concedidas nos autos de nº 1.0439.10.006412-0/001, sob pena de vulneração ao princípio da segurança jurídica.
+    [...]
+    Nesse contexto, a ausência de contribuição previdenciária incidente sobre o valor dos proventos após a concessão das progressões na carreira não obsta que o ente previdenciário implemente, em cumprimento à ordem judicial anterior, a revisão dos proventos de aposentadoria da autora, ora apelada, notadamente a se considerar que a legislação municipal estabelece de forma expressa a obrigação de cobertura, pelo município, de eventuais insuficiências financeiras decorrentes do pagamento de benefícios previdenciários:
+    [...]
+    Assim, deve ser mantida a r. sentença que determinou que o recorrente promova a revisão dos proventos de aposentadoria da apelada, na forma determinada nos autos de nº 1.0439.10.006412- 0/001”.
+    Dessarte, verifica-se que, nas razões de seu recurso extraordinário, a parte recorrente deixou de impugnar fundamento autônomo e suficiente, por si só, à manutenção do acórdão recorrido.
+    Desse modo, incide na espécie o enunciado da Súmula 283/STF, que dispõe, in verbis: “É inadmissível o recurso extraordinário [...] quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”. Nesse sentido, citem-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – É deficiente a fundamentação do agravo regimental cujas razões não atacam todos os fundamentos suficientes da decisão agravada. Incidência da Súmula 283/STF. II – Agravo regimental a que se nega provimento” (ARE nº 1.173.331/RJ–AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 31/5/19).
+    “DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. ALEGAÇÃO DE OFENSA AOS ARTS. 23, I, 145, §§ 1º E 2º, 150, I E IV, 156, § 1º, E 182 DA CONSTITUIÇÃO DA REPÚBLICA. IPTU. PROGRESSIVIDADE. MATÉRIA PRECLUSA. QUESTÃO NÃO ATACADA NO APELO EXTREMO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULAS 283 E 284/STF. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/1973. 1. O entendimento assinalado na decisão agravada não diverge da jurisprudência firmada no Supremo Tribunal Federal. Razões do recurso extraordinário que não atacam os fundamentos do acórdão recorrido. Aplicação da Súmula nº 284/STF. 2. A jurisprudência desta Suprema Corte não admite recurso extraordinário contra acórdão que contém fundamento infraconstitucional suficiente e este se torna imodificável. Aplicação da Súmula 283/STF: ’É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles’. Precedentes. 3. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 4. Agravo interno conhecido e não provido‘ (RE nº 880.247/PE–AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 20/5/19).
+    No mesmo sentido: ARE nº 1.075.688/SP-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 22/11/17) e RE nº 601.550/PR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 20/5/19.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 9 de junho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
