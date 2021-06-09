@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em benefício de Austin Ifeanyi Egesi, em que se aponta como autoridade coatora o Tribunal Regional Federal da 3ª Região (Apelação Criminal n. 0006160-02.2017.4.03.6119).
+Consta dos autos que o paciente foi sentenciado como incursono art. 33, caput, c/c o art. 40, I, ambosda Lei n. 11.343/2006, à penade 7 anos, 3meses e 15dias de reclusão, em regimesemiaberto, e729 dias-multa(fls. 257/275).
+Ao recurso de apelação interposto pela defesa o Tribunal a quo deu parcial provimento redimensionando a pena do paciente para 6 anos, 5 meses e 23 dias de reclusão, e pagamento de 647 dias-multa (fls. 361/372).
+No presente writ, a defesa alega que,da leitura do presente feito, vislumbra-se, cristalinamente, a excepcionalidade apta a impor o conhecimento da impetração, ante a ilegalidade flagrante praticada pelo Tribunal Regional Federal da 3ª Região ao aferir a pena do paciente pelo crime de tráfico a ele imputado. Sem expressar qualquer motivação idônea, exasperou o TRF3 em 1/3 a pena base do paciente pela consideração de uma única vetorial negativa ao mesmo, atuando em flagrante desproporcionalidade(fl. 5).
+Aduz,ainda,queo TRF3 afastou a incidência da minorante do tráfico privilegiado (art. 33, § 4º, Lei n.11.343/2006) ao paciente, pessoa primária e de bons antecedentes, e sem qualquer demonstração de que o mesmo integre organização criminosa ou se dedique à vivência delitiva. Não apresentou o TRF3, ao agir assim, qualquer fundamentação, lastreada em preceitos legais, que se mostrasse apta a não aplicar a minorante ao paciente(fl. 5).
+Requer, assim,o redimensionamento da penae pede a aplicação do§ 4ºart. 33da Lei n. 11.343/2006, em seu patamar máximo, além do abrandamento do regime (fls. 25/26).
+Parecer ministerialopinando pela denegação da ordem(fls. 398/400).
+É o relatório.
+Não obstanteas razões da defesa, a insurgência não prospera.
+Na aplicação da pena-base, o Tribunal a quo fixou a fração de1/3, considerando a quantidade e qualidade do entorpecente apreendido (8.929 g de cocaína - massa líquida). Com efeito, não há qualquerilegalidade, pois, de fato, a quantidade de drogas se mostra excessiva e trata-se de cocaína, ou seja, mostra-se corretamente justificada a fixação da pena-base acima do mínimo legal (aumento de 1/3). Nesse sentido:AgRg no REsp n. 1.448.502/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma,DJe 23/10/2019.
+Nasegunda fase, peloreconhecimento da atenuante da confissão espontânea, a pena foireduzida em 1/6. Também não há o que ser alterado nesse ponto, pois proporcional a redução feita pela instância ordinária. Sobre o tema: AgRg no HC n. 658.156/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJe 14/5/2021.
+Já na terceira fase, quanto à aplicação da pretendida minorante, não há constrangimento ilegal ao paciente, posto que as instâncias ordinárias entenderamque é incompatível a aplicação da referida minorante, aplicável somente quando o caso concreto não deixar dúvida de se tratar de um caso isolado na vida do réu ou quando provas concretas não forem aptas a demonstrar tenha ele se envolvido em fatos criminosos anteriores, o que absolutamente não é o caso dos destes autos, diante do que se revelou no contexto probatório(fl. 369).
+Ora, a impossibilidade de incidência da causa de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, encontra-se fundamentada em fatos e evidências do caso concreto, o que impossibilitaadotar conclusão diversa, visto que demandaria a incursão em aspectos fático-probatórios, providência que é incabível na via estreita do habeas corpus, ação de rito célere e cognição sumária.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO INTERNACIONALDE DROGAS. 8.929 G DE COCAÍNA.DOSIMETRIA. FRAÇÃO DE AUMENTO DA PENA-BASE E NÃO APLICAÇÃO DO TRÁFICO PRIVILEGIADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Ordem denegada.
