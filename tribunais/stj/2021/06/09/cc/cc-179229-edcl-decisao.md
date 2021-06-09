@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela FAZENDA NACIONALàdecisão (fls. 1.366/1.369 e-STJ)que deferiu parcialmente a liminar.
+A embargante requer "a suspensão dos atos executórios aqui determinada não venha a atingir as demais empresas do grupo econômico de fato que não fizeram parte da aludida ação de recuperação judicial, como é o caso da suscitante EMEMPAR EMPREENDIMENTOS E PARTICIPAÇÕES, devendo ser mantidos os respectivos bloqueios já determinados pelos Juízos das Varas de Execuções Fiscais do RJ" (fl. 1.384 e-STJ).
+Requer que sejam acolhidos os embargos de declaração.
+Impugnação às fls. 1.415/1.423 (e-STJ).
+É o relatório.
+DECIDO.
+Os embargos de declaração merecem ser acolhidos.
+Cumpre ressaltar que,nas informações prestadas, o Juízo recuperacional afirma que "somente se processa neste este Juízo a Recuperação Judicial de SUPERPESA CIA DE TRANSPORTES ESPECIAIS E INTERMODAIS e SUPERPESA INDUSTRIAL LTDA. (processo 346534-33.2014.8.19.0001)" (fl. 1.439 e-STJ)
+Conforme já disposto, aliminar deve ser concedida parcialmente.
+Indefiro o pedido de devolução dos valores bloqueados ou penhorados. Não é o caso de levantamento da constrição realizada nos autos, mas, sim, de remessa dos bens ao juízo competente, qual seja, o da recuperação, para que este adote as providências cabíveis. Essa é a linha adotada por mim nos EDcl no CC nº 115.524 (DJe 30.9.2011) e também pelo Ministro Luis Felipe Salomão nos EDcl no CC nºs 112.300 (DJe 17.5.2011), 109.805 (DJe 10.2.2011) e 112.301 (DJe 2.2.2011). Não há falar em levantamento da penhora incidente sobre tais bens por se tratar aqui de conflito de competência.
+Ademais, o Superior Tribunal de Justiça possui firme entendimento no sentido de que é do Juízo de falências e recuperações judiciais a competência para a determinação de atos de expropriação em processos movidos contra a empresa recuperanda, consoante se observa dos seguintes precedentes:
+"AGRAVO NO CONFLITO POSITIVO DE COMPETÊNCIA. COMPETÊNCIA DO JUÍZO UNIVERSAL PARA TODOS OS ATOS QUE IMPLIQUEM RESTRIÇÃO PATRIMONIAL. PRECEDENTES.
+1. Respeitadas as especificidades da falência e da recuperação judicial, é competente o juízo universal para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros órgãos judiciais. Precedentes.
+2. Tratando-se de recuperação judicial, o destino dos bens da empresa seguirá o que estiver fixado no plano aprovado, cujo cumprimento é fiscalizado pelo juízo cível. A continuidade de atos de constrição em juízo diverso poderá implicar alienação judicial de bens indispensáveis ao regular desenvolvimento das atividades da recuperanda, inviabilizando o cumprimento do plano e violando o princípio de preservação daempresa, previsto no art. 47 da Lei 11.101/2005.
+3. Agravo interno no conflito de competência não provido."(AgInt no CC 145.089/MT, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 8/2/2017, DJe 10/2/2017)
+"PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. FALÊNCIA. TERMO LEGAL. RECLAMAÇÃO TRABALHISTA. BEM IMÓVEL PRACEADO PELO JUÍZO TRABALHISTA. DECRETAÇÃO DA FALÊNCIA. PRODUTO ARRECADADO PELO JUÍZO TRABALHISTA SEM REMESSA AO JUÍZO FALIMENTAR. NECESSIDADE. CONFLITO CONHECIDO. COMPETÊNCIA DO JUÍZO FALIMENTAR.
+1. Trata-se de conflito de competência suscitado por empresa submetida ao processo de falência, que teve seu bem imóvel praceado pelo Juízo Trabalhista.
+2. A jurisprudência do STJ tem entendimento firmado no sentido de que os atos de execução dos créditos individuais promovidos contra empresas em falência ou em recuperação judicial, sob a égide do Decreto-lei nº 7.661/45 ou da Lei nº 11.101/05, devem ser realizados pelo Juízo Universal, ainda que ultrapassado o prazo de 180 dias de suspensão previsto no art. 6º, § 4º, da Lei nº 11.101/05. Precedentes.
+3. O valor arrecadado com o praceamento do bem da falida no Juízo Trabalhista deve ser remetido ao Juízo falimentar, a quem compete a administração dos bens daquela, bem como o pagamento dos débitos por ela contraídos e apurados no âmbito do processo de falência.
+4. Conflito de competência conhecido para declarar a competência do Juízo Falimentar."(CC 146.657/SP, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 26/10/2016, DJe 7/12/2016)
+"PROCESSO CIVIL. AGRAVO REGIMENTAL. CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DA FALÊNCIA E JUÍZO DO TRABALHO. CONVOLAÇÃO DA RECUPERAÇÃO JUDICIAL EM FALÊNCIA. COMPETÊNCIA DO JUÍZO FALIMENTAR.
+1. Com a edição da Lei n. 11.101, de 2005, respeitadas as especificidades da falência e da recuperação judicial, é competente o respectivo Juízo para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros órgãos judiciais, inclusive trabalhistas.
+2. Agravo regimental provido."(AgRg no CC 114.916/SP, Relator o Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, DJe de 21/08/2013)
+Diante do exposto, em vista da demonstrada estabilidade jurisprudencial, concedo a parcialmente a liminar para determinar a suspensão dos atos executórios determinados nos autos dos processos nºs 0061128.32.2012.4.02.5101, 0506270.96.2009.4.02.5101 e 0043325.94.216.4.02.5101, que tramitam nos JUÍZOS FEDERAIS DAS 8ª E 9ª VARAS FEDERAIS DE EXECUÇÃO FISCAL DO RIO DE JANEIRO/RJ, tão somente os que atinjam o patrimônio daempresaSUPERPESA CIA DE TRANSPORTES ESPECIAIS E INTERMODAIS - EM RECUPERAÇÃO JUDICIAL.
+Designo o JUÍZO DE DIREITO DA 6ª VARA EMPRESARIAL DO RIO DE JANEIRO/RJ para resolver, em caráter provisório, as medidas urgentes, até ulterior deliberação no presente conflito.
+Tendo em vista que as informações dos Juízos suscitados já foram apresentadas às fls. 1.411/1.414, 1.424/1.428,1.429/1.432 e 1.439/1.487(e-STJ), abra-se vista ao Ministério Público Federal para parecer (artigo 198 do RISTJ).
+Ante o exposto, acolho os embargos de declaração,comefeitosinfringentes, para reconsiderar a decisão de fls. 1.366/1.369 (e-STJ), nos termos da fundamentação acima exposta.
+Publique-se.
+Intimem-se.
