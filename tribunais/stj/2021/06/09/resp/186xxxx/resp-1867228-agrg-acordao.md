@@ -1,0 +1,27 @@
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. INCIDÊNCIA DA SÚMULA 168/STJ. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Nos termos da Súmula 168/STJ, Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado. Não são os embargos de divergência a via recursal adequada para buscar a mera rediscussão da controvérsia.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros João Otávio de Noronha, Sebastião Reis Júnior, Rogerio Schietti Cruz, Ribeiro Dantas, Antonio Saldanha Palheiro e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Felix Fischer.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de agravo regimental interposto contra decisão monocrática prolatada pelo Ministro Nefi Cordeiro, que indeferiu liminarmente os embargos de divergência defensivos.
+A defesa reitera a alegação de que o caso dos autos não se reduz à mera possibilidade (ou não) de utilização da técnica de fundamentação per relationem; e que está buscando o cumprimento adequado da decisão desta Corte Superior que, quando do julgamento do Embargos de Divergência em REsp nº 1.384.669/RS, entendeu por declarar a nulidade do acórdão anteriormente enfrentado, determinando o retorno dos autos àquele Juízo para fins de que fundamentasse sua decisão de outra maneira que não única e exclusivamente com base nos fundamentos utilizados em outras manifestações no feito.
+Relata que, mesmo esta Corte Superior tendo determinado a reparação da nulidade existente no acórdão, quando da prolação da nova decisão verificou-se que o Desembargador, novamente, se utilizou da fundamentação remissiva e, o que é pior, justificou a desnecessidade de acrescentar qualquer fundamentação e, ainda, afirmou que o esforço intelectual teria sido da magistrada de piso.
+Portanto, o Desembargador acaba por descumprir determinação desta Corte Superior - E JUSTIFICA O SEU DESCUMPRIMENTO.
+Requero provimento do presente agravo regimental, de modo a determinar que os autos retornem à Primeira Câmara Criminal do TJRS, para fins de que seja de fato cumprida a determinação desta Terceira Seção quando do julgamento dos Embargos de Divergência em REsp nº 1.384.669/RS, razão pela qual persiste a nulidade reconhecida. Contrarrazões às fls. 14.101.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  O agravo não traz fundamentos capazes de infirmar as conclusões da decisão impugnada, que foi proferida nos seguintes termos (fls. 140062/140063):
+Os presentes embargos de divergência não superam o juízo de admissibilidade.
+Com efeito, a Terceira Seção do Superior Tribunal de Justiça, no julgamento do Habeas Corpus 216.659, ocorrido em 8/6/2016, com ressalva de compreensão pessoal, decidiu que a mera transcrição do parecer do Ministério Público não é apta a suprir a exigência constitucional de fundamentação das decisões judiciais, prevista no art. 93, IX, da Constituição Federal.
+No caso, conforme destacado no acórdão embargado, não prospera a alegação de ausência de fundamentação no acórdão que manteve a sentença, uma vez que o magistrado, cumprindo determinação desta Corte, indicou os motivos pelos quais adotou como razão de decidir os fundamentos da sentença, uma vez que entendeu que nada mais havia a acrescentar aos bem lançados argumentos jurídicos e fáticos da colega para decidir o feito (fl. 13973).
+Incide, no ponto, a Súmula 168/STJ, segundo a qual Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado.
+Os argumentos da parte embargante demonstram mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os embargos de divergência para tal fim.
+Ante o exposto, indefiro liminarmente os presentes embargos de divergência.
+Como se vê, a decisão agravada concluiu pela aplicação da Súmula 168/STJ, segundo a qual não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado, qual seja, de que a mera transcrição do parecer do Ministério Público não é apta a suprir a exigência constitucional de fundamentação das decisões judiciais, prevista no art. 93, IX, da Constituição Federal, como ocorreu no caso dos autos.
+Ademais, como destacado pelo Ministério Público do Rio Grande do Sul, os embargos de divergência claramente não são a via recursal adequada para buscar o cumprimento de decisão judicial, como erroneamente postula a defesa. Assim no tocante ao pretenso reconhecimento do descumprimento, pelo acórdão da Quinta Turma, da decisão proferida pela Terceira Seção do ERESP 1384669/RS, os embargos devem ser indeferidos liminarmente, diante o descabimento da via eleita para o resultado pretendido (fl. 14.098).
+Assim, a despeito das razões trazidas pela defesa, é de manter-se a decisão agravada por seus próprios fundamentos, contexto no qual nego provimento ao agravo regimental.
+É o voto.
