@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Instituto Nacional de Colonização e Reforma Agrária - INCRA com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 375):
+PROCESSUAL CIVIL. TRIBUTÁRIO. CONTRIBUIÇÃO SOBRE A FOLHA DE SALÁRIOS DEVIDA AO INCRA. MATRIZ. ILEGITIMIDADE PARA REIVINDICAR EXAÇÃO CUJO FATO GERADOR OCORREU EM OUTRO ESTABELECIMENTO. FILIAL. JUNTADA DE NOVOS DOCUMENTOS EM LIQUIDAÇÃO. EFICÁCIA DA COISA JULGADA.
+1. Em se tratando de tributo cujo fato gerador operou-se de forma individualizada tanto na matriz quanto na filial, não se outorga à matriz legitimidade para demandar, isoladamente, em juízo, em nome das filiais, porque para fins fiscais ambos estabelecimentos são considerados entes autônomos. Precedentes.
+2. Não há óbice da juntada de novas guias por ocasião da liquidação de sentença, desde que os documentos então carreados aos autos estejam compreendidos no campo da eficácia da coisa julgada, uma vez que o julgado não se limitou aos recolhimentos indevidamente efetuados até a propositura da ação de conhecimento.
+Opostos embargos declaratórios, foram acolhidos apenas para fins de prequestionamento (fls. 397/402).
+A parte recorrente apontaviolação ao art. 283 do CPC/73. Sustenta que "a petição inicial da ação deve ser instruída com os documentos indispensáveis à propositura da ação, sendo consequência do descumprimento dessa norma processual o indeferimento da peça inaugural. De igual maneira, a ação de execução de título executivo judicial deve necessariamente vir instruída com todos os documentos que comprovem o indébito a ser executado" (fl. 432).
+Contrarrazões às fls. 443/459.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário desta Corte, na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 -- devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Na hipótese dos autos, o Tribunal de origem assim dirimiu a controvérsia acerca da juntada de novas guias na fase de liquidação de sentença (fl. 370):
+Em relação à juntada de novas guias por ocasião da liquidação de sentença, entendo que não há óbice a tal procedimento, desde que os documentos então carreados aos autos estejam compreendidos no campo da eficácia da coisa julgada, uma vez que o julgado não se limitou aos recolhimentos indevidamente efetuados até a propositura da ação de conhecimento.
+Como se vê, a instância originárianão examinou a contenda sob o enfoque do art. 283do CPC/73, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, pois, incide o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo"). A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. DECISÃO PROLATADA POR MAGISTRADA SUSPEITA. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSIDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1.  ..
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ. Ademais, ainda que o Tribunal a quo tenha acolhido os embargos de declaração manejados na origem para dar como prequestionados os dispositivos constitucionais e infraconstitucionais tidos por violados, certo é que tal fato não enseja, por si só, o necessário prequestionamento da matéria, na medida que o referido requisito exige o efetivo debate da questão pelo Tribunal de origem, tendo por enfoque as normas supostamente malferidas.
+3.  ..
+4. Agravo interno não provido.
+(AgInt no REsp 1.355.915/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 27/2/2018, DJe 8/3/2018)
+Ademais, é patente que aalteração das conclusões adotadas pela Corte de origem acerca dos limites da coisa julgada (os quais permitiriam a juntada posterior dos referidos documentos)demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REAJUSTE DA TABELA DO SUS. LIMITAÇÃO TEMPORAL. QUESTÃO DECIDIDA NA AÇÃO DE CONHECIMENTO. REDISCUSSÃO EM EMBARGOS À EXECUÇÃO.INVIABILIDADE. COISA JULGADA. ALTERAÇÃO DA CONCLUSÃO DO TRIBUNAL DE ORIGEM. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1.  ..
+3. Ademais, para modificar a conclusão a que chegou a Corte a quo sobre o limite e o alcance da coisa julgada na hipótese dos autos, é necessário reexame de provas, impossível ante o óbice da Súmula 7 do STJ.
+4. Agravo Interno não provido.
+(AgInt no REsp 1.887.288/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/12/2020, DJe 18/12/2020)
+ANTE O EXPOSTO, não conheçodo recurso especial.
+Publique-se.
