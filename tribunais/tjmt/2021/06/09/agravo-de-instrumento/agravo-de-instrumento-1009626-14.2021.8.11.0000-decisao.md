@@ -1,0 +1,11 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE AGRAVO DE INSTRUMENTO No 1009626-14.2021
+AGRAVANTE: PORTO SEGURO NEGOCIOS EMPREENDIMENTOS E PARTICIPAÇOES S.A.
+AGRAVADO: M PEREIRA ADVOGADOS ASSOCIADOS.
+Vistos.
+Intime-se a parte agravante para que junte aos autos, as razões do Agravo e todos os documentos a ele inerentes.
+Às providências necessárias.
+Desembargador DIRCEU DOS SANTOS
+Relator
