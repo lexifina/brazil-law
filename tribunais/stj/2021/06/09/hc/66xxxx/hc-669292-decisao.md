@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se depedido de reconsideração apresentado às fls. 22-39, pela Defesa do Paciente JOAO VITOR CELANDRONI DE OLIVEIRA, da decisão de fls. 17-18, em que indeferi liminarmente a petição inicial em razão da instrução deficiente do feito.
+A pretensão defensiva continua desacompanhada dos documentos essenciais à sua análise, pois não foi acostada aos autos a cópia integral da sentença condenatória (fls. 26-31), bem como não foi juntado o suposto ato coator advindo do Tribunal de origem. Ressalta-se que sequer houve a indicação da autoridade coatora na inicial do writ.
+Como se sabe, compete à Defesa narrar e instruir completa e adequadamente o habeas corpus (ou seu respectivo recurso). Dessa forma, como aImpetrante não se desincumbiu do ônus de formar adequadamente os autos, não há como apreciar o mérito do pedido, olvidando-se de que " o  rito do habeas corpus - e do recurso ordinário em habeas corpus  - pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao recorrente  .. " (RCD no RHC 131.143/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 01/09/2020, DJe 04/09/2020).
+Ante o exposto, INDEFIRO o pedido de reconsideração.
+Publique-se. Intimem-se.
