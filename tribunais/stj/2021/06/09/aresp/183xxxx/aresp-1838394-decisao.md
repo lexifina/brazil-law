@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de agravo (artigo 1.042 do CPC/15), interposto por BANCO VOLKSWAGEN S.A., em face de decisão acostada às fls. 145-148, e-STJ, que, em juízo prévio de admissibilidade, negou seguimento ao recurso especial manejado pelo ora agravante.
+O apelo extremo, fundamentado no artigo105, inciso III, alíneas "a" e "c", da Constituição Federal, fora deduzido em desafio ao acórdão de fls. 76-80, e-STJ, proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (fl. 76, e-STJ):
+EMENTA - AGRAVO DE INSTRUMENTO - AÇÃO DE BUSCA E APREENSÃO - AUSÊNCIA DE PROVA DA CONSTITUIÇÃO EM MORA DO DEVEDOR - NOTIFICAÇÃO ENVIADA PARA O ENDEREÇO DO DEVEDOR - AR NÃO ENTREGUE - NOTIFICAÇÃO POR EDITAL - RECURSO DESPROVIDO.
+1. Para a constituição em mora por meio de notificação extrajudicial, é suficiente que seja entregue no endereço do devedor, ainda que não pessoalmente.
+Se a notificação extrajudicial não foi recebida, sob a anotação "mudou-se", imprescindível se faz a adoção de outras medidas para dar ciência do ato ao devedor.
+Opostos embargos de declaração (fls. 82-89, e-STJ), esses foram rejeitados (fls. 101-104, e-STJ).
+Em suas razões de recurso especial (fls. 115-123, e-STJ), a parte recorrente aponta, além de dissídio jurisprudencial, violação aoartigo2º, §§ 2º e 3º, do Decreto-Lei n.º 911/69. Sustenta, em síntese, a validade da notificação extrajudicial da forma como realizada para fins de constituição em mora do devedor fiduciário, porquanto enviada para o endereço constante do contrato, indicado pelo próprio recorrido. Assim, eventual alteração de endereço deveria ter sido comunicada, em observância ao princípio da boa-fé contratual.
+Sem contrarrazões.
+Em juízo prévio de admissibilidade (fls. 145-148, e-STJ), a Corte de origem negou seguimento ao apelo nobre, ante incidência da Súmula 7/STJ.
+Inconformado, interpôs o presente agravo (artigo 1.042 do CPC/15), cuja minuta está acostada às fls. 151-156, e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Sem contraminuta.
+É o relatório.
+Decide-se.
+O inconformismo merece prosperar.
+1. Cinge-se a controvérsia recursal a definir se válida ou não a notificação extrajudicial enviada ao endereço declinado no contrato, a qual não fora recebida por motivos de mudança do devedor fiduciário.
+Na hipótese em exame, as instâncias ordinárias assentaram inexistir, nos autos, comprovação da mora do devedor, ante a irregularidade da notificação extrajudicial, consoante se infere dos seguintes excertos do acórdão recorrido (fl. 78, e-STJ):
+À vista dos documentos que acompanharam a inicial da ação, verifico que a notificação (f. 15-17) foi enviada pelo banco credor por meio dos Correios, para o endereço do devedor constante do contrato firmado (f. 13-14).Contudo, o ato não se perfictibilizou em razão da informação constante do AR de que a correspondência não foi entregue porque a empresa "Mudou-se".
+Assim, a notificação enviada por carta registrada e que retorna com a informação de que o destinatário "mudou-se" não é suficiente para comprovação da mora e consequentemente não preenche os requisitos autorizadores da busca e apreensão do bem.
+A jurisprudência do Superior Tribunal de Justiça é no sentido de que a mora do devedor deve ser comprovada por notificação extrajudicial entregue no endereço declinado no contrato, sendo desnecessária a prova do recebimento pessoal. Importante destacar que o retorno do aviso de recebimento no qual consta que o devedor "mudou-se" não constitui, por si só, fundamento para concluir pela não comprovação da mora.
+A propósito, colhem-se os seguintes julgados desta Corte:
+RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. DL 911/69. CONSTITUIÇÃO EM MORA. NOTIFICAÇÃO EXTRAJUDICIAL. AVISO DE RECEBIMENTO (AR) COM INFORMAÇÃO DE QUE O DEVEDOR MUDOU-SE. COMPROVAÇÃO DO RECEBIMENTO PESSOAL. DESNECESSIDADE. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. INDEVIDA.
+1. Ação de busca e apreensão da qual se extrai este recurso especial, interposto em 16/5/19 e concluso ao gabinete em 1º/8/19.
+2. O propósito recursal consiste em definir se é imprescindível a comprovação simultânea do encaminhamento de notificação ao endereço constante no contrato e do seu recebimento pessoal, para a constituição do devedor em mora nos contratos de alienação fiduciária.
+3. O prévio encaminhamento de notificação ao endereço informado no contrato pelo Cartório de Títulos e Documentos é suficiente para a comprovação da mora, tornando-se desnecessário ao ajuizamento da ação de busca e apreensão que o credor fiduciário demonstre o efetivo recebimento da correspondência pela pessoa do devedor.
+4. O retorno da carta com aviso de recebimento no qual consta que o devedor "mudou-se" não constitui, por si só, fundamento para dizer que não foi constituído em mora.
+5. A bem dos princípios da probidade e boa-fé, não é imputável ao credor fiduciário a desídia do devedor que deixou de informar a mudança do domicílio indicado no contrato, frustrando, assim, a comunicação entre as partes.
+6. Na hipótese dos autos, o Tribunal de origem extinguiu o processo sem resolução de mérito, por ausência de comprovação da mora para o ajuizamento da ação de busca e apreensão, sob o fundamento de o AR constar a mudança do devedor. Esse entendimento não se alinha à jurisprudência do STJ.
+7. Recurso especial conhecido e provido.
+(REsp 1828778/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/08/2019, DJe 29/08/2019)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. CONSTITUIÇÃO EM MORA. NOTIFICAÇÃO DO DEVEDOR. ENVIO PARA O ENDEREÇO DECLINADO NO CONTRATO. FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE ATAQUE ESPECÍFICO.
+1. A prova do recebimento da notificação pelo devedor não é necessária para a constituição em mora, bastando que seja enviada ao endereço declinado no contrato. Precedentes.
+2. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/Superior Tribunal de Justiça, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1125547/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/03/2019, DJe 28/03/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. MORA. NOTIFICAÇÃO ENCAMINHADA E RECEBIDA NO ENDEREÇO DO DEVEDOR, CONSTANTE DO CONTRATO. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A mora decorre do simples vencimento, devendo, por formalidade legal, para o ajuizamento da ação de busca e apreensão, ser apenas comprovada, pelo credor, mediante envio de notificação por via postal, com aviso de recebimento no endereço do devedor indicado no contrato, o que ocorreu na presente hipótese, sendo prescindível, para esse efeito, a assinatura do destinatário. Incide, à espécie, a Súmula 83/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1064969/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/08/2017, DJe 30/08/2017)
+Ainda nesse sentido, as seguintes decisões monocráticas: REsp 1855412/DF, Rel. Ministra NANCY ANDRIGHI, DJe 03/03/2020; REsp 1852836/MG, Rel. Ministro MOURA RIBEIRO, DJe 14/02/2020; REsp 1844091/RS, Rel. Ministra MARIA ISABEL GALLOTTI, DJe 19/12/2019; REsp 1849192/RS, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 03/12/2019.
+Ademais, em razão do princípio da boa-fé e lealdade contratual, devem as partes informar eventual mudança de endereço até o término do negócio jurídico, ainda que não exista cláusula expressa.
+A propósito:
+AGRAVO INTERNO. BUSCA E APREENSÃO DE BEM OBJETO DE ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. MORA EX RE. NOTIFICAÇÃO. NECESSÁRIA APENAS À COMPROVAÇÃO PARA AJUIZAMENTO DA AÇÃO E DEFERIMENTO DA LIMINAR. DOMICÍLIO. ATUALIZAÇÃO, EM CASO DE MUDANÇA. DEVER DO DEVEDOR. ENVIO DE NOTIFICAÇÃO PARA O ENDEREÇO CONSTANTE DO CONTRATO. FRUSTRAÇÃO, EM VISTA DA DEVOLUÇÃO DO AVISO DE RECEBIMENTO, COM ANOTAÇÃO DE MUDANÇA DO NOTIFICADO. CUMPRIMENTO PELO CREDOR DA PROVIDÊNCIA PRÉVIA AO AJUIZAMENTO DA AÇÃO DE BUSCA E APREENSÃO, QUE PODERIA SER-LHE EXIGÍVEL.
+1. O acórdão recorrido apura que "a notificação extrajudicial foi enviada ao endereço constante no contrato firmado entre as partes", e como é cediço, a Corte de origem é soberana no exame das provas constantes nos autos. Com efeito, como consignado no julgamento do REsp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da Súmula 7-STJ".
+2. A moderna doutrina, ao adotar a concepção do vínculo obrigacional como relação dinâmica, revela o reconhecimento de deveres secundários, ou anexos, que incidem de forma direta nas relações obrigacionais, prescindindo da manifestação de vontade dos participantes e impondo ao devedor, até que ocorra a extinção da obrigação do contrato garantido por alienação fiduciária, o dever de manter seu endereço atualizado. Precedente.
+3. "A mora decorre do simples vencimento, devendo, por formalidade legal, para o ajuizamento da ação de busca e apreensão, ser apenas comprovada pelo credor mediante envio de notificação, por via postal, com aviso de recebimento, no endereço do devedor indicado no contrato" (REsp 1592422/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/05/2016, DJe 22/06/2016).
+4. Agravo interno não provido.
+(AgInt no REsp 1771864/SE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/05/2019, DJe 04/06/2019)
+Assim, observada a condição de procedibilidade da ação de busca e apreensão, qual seja: a notificação válida do devedor fiduciário, por meio da comunicação enviada ao endereço declinado no contrato, devem ser cassados os julgados proferidos na origem para novo julgamento da controvérsia, superada a discussão acerca da validade da comunicação em razão de não ter sido recebida por mudança do devedor não comunicada no curso do ajuste.
+2. Do exposto, com amparo no artigo 942 do NCPC, c/c a Súmula 568/STJ, conheço do agravo para, de plano, darprovimento ao recurso especial para, reformando o acórdão recorrido, determinar o retorno dos autos à origem para o prosseguimento da ação de busca e apreensão, porquanto válida a notificação extrajudicial do devedor fiduciário.
+Publique-se.
+Intimem-se.
