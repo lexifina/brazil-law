@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS METALÚRGICAS, MECÂNICAS E DE MATERIAL ELÉTRICO DE OSASCO E REGIÃO, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO - FIXAÇÃO DE HONORÁRIOS EM CUMPRIMENTO DE SENTENÇA - PEDIDO DE REDUÇÃO DA VERBA FIXADA EM 15% SOBRE O VALOR INCONTROVERSO - COMPLEXIDADE DA DEMANDA E COMBATIVIDADE DOS ADVOGADOS DOS EXECUTADOS QUE INTERPUSERAM INFINDÁVEIS RECURSOS E INCIDENTES DE CARÁTER PROTELATÓRIOS NÃO AUTORIZAM A REDUÇÃO - VERBA FIXADA DE ACORDO COM OS REQUISITOS DISPOSTOS NO ARTIGO 20 § 4º DO CÓDIGO DE PROCESSO CIVIL VIGENTE À ÉPOCA DOS FATOS - DECISÃO MANTIDA - RECURSO NÃO PROVIDO" (e-STJ fl. 218).
+Em suas razões, o recorrente alega violação do artigo 20, §§ 3º e 4º, do Código de Processo Civil de 2015, sustentando, em síntese, que a verba sucumbencial fixada no caso concreto em sede de cumprimento de sentença é exorbitante e desproporcional.
+Aduz que na fase de execução, os honorários devem ser arbitrados por apreciação equitativa, com modicidade e defende que a ocorrência de incidentes protelatórios não constitui critério para fixação de honorários advocatícios.
+Argumenta que poucos atos foram realizados após a execução ter se tornado definitiva e que, em razão de ter havido a penhora on line de dinheiro, nenhum trabalho precisou ser feito.
+Por fim, sustenta que a ocorrência de incidentes protelatórios não constitui critério válido para a fixação de honorários.
+Sem a apresentação das contrarrazões (fl. 248, e-STJ), o recurso foi admitido por força do provimento do AResp nº 1.398.741/SP para melhor exame da controvérsia (fls. 286/288 e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De acordo com a jurisprudência consolidada no STJ, "nos embargos à execução, os honorários advocatícios devem ser fixados equitativamente pelo Juiz, na forma do art. 20, § 4º, do CPC, não ficando adstritos aos parâmetros do mencionado § 3º, podendo situar-se acima ou abaixo do intervalo de 10% a 20%" (REsp 1366918/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/11/2013, DJe 06/12/2013 - grifou-se).
+Com efeito, a Corte Especial do Superior Tribunal de Justiça, ao julgar os EREsp n. 637.905/RS, de relatoria da e. Min. Eliana Calmon, entendeu que, "nas hipóteses do § 4º do art. 20 do CPC/73 - (..) -, a verba honorária deve ser fixada mediante apreciação equitativa do magistrado e, nessas hipóteses, a fixação de honorários de advogado não está adstrita aos percentuais constantes do § 3º do art. 20 do CPC/73".
+É dizer, no juízo de equidade, o magistrado deve levar em consideração o caso concreto, em face das circunstâncias previstas nas alíneas a, b e c do § 3º do art. 20 do CPC/73, podendo adotar, como base de cálculo, o valor da causa, o valor da condenação ou arbitrar valor fixo.
+Na hipótese vertente, o Tribunal de origem manteve os honorários fixados na fase de cumprimento de sentença, apresentando a seguinte justificativa:
+"(..)
+No caso dos autos, levando-se em consideração a complexidade da demanda, a combatividade dos advogados dos executados, que interpuseram uma quantidade infindável de recursos dos mais variados, bem como o tempo dedicado à demanda pelos patronos dos exequentes, muito além do necessário ao deslinde normal da causa, em razão da enxurrada de incidentes de caráter flagrantemente protelatórios, respeitados os nobres magistrados que entendem de modo diverso, a meu ver os honorários advocatícios não devem ser reduzidos." (e-STJ fl. 599).
+Nesse contexto, em que foram apontados, concretamente, os motivos que justificaram a manutenção da verba honorária na hipótese, não se observando o descumprimento de nenhuma norma cogente ou o ferimento dos parâmetros jurisprudencialmente consagrados, a pretendida revisão do critério adotado pela Corte de origem para a fixação dos honorários de advogado encontra inexorável óbice na Súmula nº 7/STJ.
+Como se sabe, o STJ possui firme o entendimento no sentido de que "a revisão dos honorários advocatícios, salvo se excessivos ou ínfimos, não pode ocorrer na instância especial, pois envolve reexame de circunstâncias fáticas" (AgInt no AREsp 1.009.704/SC, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 09.03.2017, DJe 24.03.2017).
+No caso, considerando-se os motivos apontados no aresto recorrido, não se vislumbra a desproporcionalidade ventilada pelo recorrente, não sendo justificável, portanto, a excepcional intervenção desta Corte Superior com vistas à adequação da verba honorária fixada na origem. A propósito:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. RECURSO ESPECIAL PROVIDO PARA MAJORAR O VALOR. DECISÃO MANTIDA.
+1. A fixação do valor dos honorários advocatícios deve observar os critérios estabelecidos nas alíneas "a", "b" e "c" do art. 20, § 3º, do CPC.
+2. No caso, considerando o trabalho realizado, o grau de zelo do profissional e o valor econômico em questão, os honorários advocatícios foram fixados em 15 % (quinze por cento) sobre o valor da execução, valor condizente com os parâmetros da proporcionalidade e da razoabilidade.
+3. Agravo regimental a que se nega provimento." (AgInt no REsp 1586287/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 03/05/2016, DJe 12/05/2016)
+Ante o exposto, nego provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da execução, não cabendo a majoração prevista no art. 85, § 11, do Código de Processo Civil de 2015, por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+Publique-se.
+Intimem-se.
