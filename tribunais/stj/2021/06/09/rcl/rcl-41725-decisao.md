@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de reclamação ajuizada por MERIDIANO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS MULTISEGMENTOS  NÃO PADRONIZADO contra acórdão proferido pela 18ª CÂMARA CÍVEL DO TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, com fundamento no art. 988 a 933 do CPC/15.
+Em síntese, o reclamante alega que acórdão do TJ/SP contrariou o disposto na Súmula 303 deste STJ.
+O Ministério Público Federal, em parecer de lavra do Subprocurador-Geral da República Sady d"Assumpção Torres Filho, opina pelo não conhecimento da reclamação.
+É O RELATO DO NECESSÁRIO. DECIDO.
+À luz do disposto nos arts. 988 do CPC e 187 do RISTJ, a reclamação, em razão de sua natureza excepcional, destina-se à preservação da competência deste Tribunal e à garantia da autoridade de seus julgados apenas quando objetivamente violados, não podendo servir como sucedâneo recursal para discutir o teor da decisão impugnada.
+Como ressaltou a Corte Especial por ocasião do julgamento do AgRg na Rcl 29.329/MS (Rel. Min. Laurita Vaz, DJe de 03/08/2016), a reclamação é cabível para assegurar que ordens diretas emanadas deste Sodalício não sejam descumpridas nas instâncias ordinárias, de forma que não se admite o manejo desta ação com o simples intuito de reexame de questões já decididas no Tribunal local.
+Saliente-se que este entendimento, já pacificado no âmbito desta Corte, não sofreu alteração em razão do advento do CPC/2015, uma vez que o novo Código, no que concerne à competência desta Corte, não trouxe outras hipóteses de cabimento da reclamação, apenas reiterando, no art. 988, incisos I e II, aquelas já previstas na Constituição Federal e no RISTJ.
+Assim, tendo em vista que na hipótese dos autos não se sobressai, de modo objetivo, ofensa direta a decisão emanada pelo STJ, sendo nítido o caráter de sucedâneo recursal, não prospera a presente reclamação.
+Ademais, este Tribunal Superior já manifestou entendimento no sentido de que não é cabível o manejo de reclamação cujo fundamento seja a inobservância de súmulas desta própria Corte, haja vista que o permissivo legal autoriza seu ajuizamento apenas quando se tratar de violação de súmulas vinculantes do STF (art. 988, III, do CPC/15). Nesse sentido: AgRg na Rcl 41.479/MG, Terceira Seção, DJe de 29/03/2021; AgRg na Rcl 37.232/RJ, Terceira Seção, DJe de 15/3/2019; e AgInt na Rcl 33.740/RS, Segunda Seção, DJe de 30/05/2017.
+Forte nessas razões, INDEFIRO liminarmente a petição inicial e, em consequência, JULGO EXTINTA a reclamação, sem exame de mérito, com fundamento no art. 34, XVIII, "a", do RISTJ.
+Previno a parte que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá ensejar a condenação nas penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. ACÓRDÃO DO TRIBUNAL RECLAMADO QUE NÃO OFENDE OBJETIVAMENTE DECISÃO EMANADA DO STJ. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. DESCUMPRIMENTO DE SÚMULA. DESCABIMENTO.
+1. Para que a reclamação seja admitida, é imprescindível que se caracterize, de modo objetivo, usurpação de competência deste Tribunal ou ofensa direta a decisão aqui proferida, circunstâncias não evidenciadas nos autos.
+2. De acordo com o entendimento firmado por este Tribunal Superior, não é cabível o manejo de reclamação cujo fundamento seja a inobservância de súmulas desta própria Corte, haja vista que o permissivo legal autoriza seu ajuizamento apenas quando se tratar de violação de súmulas vinculantes do STF (art. 988, III, do CPC/15).
+3. Petição inicial indeferida. Processo extinto sem resolução de mérito.
