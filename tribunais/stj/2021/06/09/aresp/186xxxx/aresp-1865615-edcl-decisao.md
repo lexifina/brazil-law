@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LLL SUSHI EIRELI à decisão de fl. 774, que determinou a baixa dos presentes autos ao tribunal de origem, tendo em vista a interposição do agravo interno de fls. 726/730.
+A embargante sustenta, em síntese, que laborou em equívoco ao interpor o mencionado agravo interno.
+Esclarece que, tempestivamente, requereu ao tribunal de origem fosse desconsiderada a petição recursal que veiculava o referido recurso, promovendo, na oportunidade, a apresentação do agravo regimental de fls. 738/742.
+Requer, dessa forma, o acolhimento dos embargos declaratórios, "suprindo a omissão e aplicando o efeito infringente." (fl. 779)
+A parte embargada foi devidamente intimada para contrarrazoar estes aclaratórios, não tendo se manifestado no prazo assinalado. (fl. 793)
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Da análise dos autos, observa-se que o Presidente da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo não admitiu o recurso especial com fundamento no art. 1.030, V, do Código de Processo Civil. (fls. 723/724)
+Contra essa decisão, a parte embargada interpôs agravo interno, requerendo a revisão da decisão agravada, ao argumento de que o "agravo é adequado, sobretudo quanto à possibilidade de retratação da decisão pelo Desembargador Relator (artigo 1.021, § 2º, do Código de Processo Civil)." (fl. 727).
+Ainda que a embargante tenha informado a ocorrência do equívoco em que laborou, com posterior apresentação de recurso por ela considerado cabível, cumpre ressaltar que, "no sistema recursal brasileiro, vigora o cânone da unicidade ou unirrecorribilidade recursal, segundo o qual, manejados dois recursos pela mesma parte contra uma única decisão, a preclusão consumativa impede o exame do que tenha sido protocolizado por último" (AgInt nos EAg 1213737/RJ, Rel. Ministro Luís Felipe Salomão, Corte Especial, julgado em 17/08/2016, DJe 26/08/2016).
+Dessa forma, conclui-se pela impossibilidade de ser conhecido o agravo regimental de fls. 738/742, tendo em vista a interposição prévia do agravo interno de fls. 726/730.
+Dito isso, cumpre esclarecer que o agravo interno (assim como o agravo regimental) não é o recurso adequado à espécie, pois, para atacar decisão que inadmite apelo especial, o recurso cabível é o agravo previsto no art. 1.042 do Código de Processo Civil,
+Portanto, equivocada a decisão do Tribunal a quo que recebeu o presente agravo interno como agravo em recurso especial, razão pela qual determinou-se a baixa dos autos à origem, orientação que aqui se mantém.
+Isso porque, conforme entendimento deste Superior Tribunal de Justiça, a interposição equivocada de recurso, quando há expressa disposição legal e ausente dúvida objetiva, constitui manifesto erro grosseiro, o que torna inaplicável o princípio da fungibilidade. Nesse sentido: AgInt nos EDcl no REsp 1857915/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 04/05/2020.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
