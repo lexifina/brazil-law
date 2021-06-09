@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido de liminar, impetrado em benefício deRenato Venâncio, em que se aponta como autoridade coatora a Oitava Câmara Criminal do Tribunal de Justiça de São Paulo.
+Tem-se dos autos que o paciente foi preso em flagrante pela suposta prática do crime de tráfico de drogas, tendo oJuízode Direito da 1ª Vara Criminal da comarca de Limeira/SP homologado o flagrante econvertido-o em prisão preventiva, com fundamento na garantia da ordem pública (fls. 29/31 - Processo n.1500234-83.2021.8.26.0320).
+Impetradohabeas corpusna Corte estadual, foi denegada a ordem, mantendo a constrição cautelar do paciente(fls. 19/28 -Habeas Corpusn.2023544-51.2021.8.26.0000).
+Nestewrit,alega-se constrangimento ilegal na prisão preventiva decretada em desfavor do paciente,porqueo decreto de prisão não traz qualquer motivação do caso concreto, fazendo referência a dispositivos legais e fundamentação acerca da gravidade do delito em abstrato, o que indica a ausência de fundamentos para o decreto prisional(fl. 4).
+Requer-se, assim,seja concedido liminarmente o benefício de Liberdade Provisória ao Paciente e por insuficiência de fundamentação conforme (art. 93, inciso IX, da CF), expedindo-se a favor dele o competente ALVARÁDE SOLTURA, notificando-se a DD. autoridade coatora a prestar as informações de estilo, concedendo-se ao final o presente HABEAS CORPUS também por não estar preenchido nenhum dos requisitos que autorizam a segregação cautelar dos pacientes e elencados no art. 312 do CPP(fl. 18).
+A liminar foi indeferida.
+Prestadas às informações às fls. 72/77, os autos foram encaminhados ao Ministério Público Federal, queemitiu parecer pela prejudicialidade dowrit,à vista dos fundamentos sintetizados na seguinte ementa:
+HABEAS CORPUS. PRISÃO PREVENTIVA. CABIMENTO. LIBERDADE PROVISÓRIA. IMPOSSIBILIDADE. TRÁFICO DE SUBSTÂNCIAS ESTUPEFACIENTES. CRIME PERMANENTE. AUDIÊNCIA DE INSTRUÇÃO, INTERROGATÓRIO, DEBATES E JULGAMENTO JÁ DESIGNADA PELO JUÍZO SINGULAR. PROMOÇÃO POR QUE SE JULGUE PREJUDICADO O WRIT, ANTE A PERDA SUPERVENIENTE DE SEU OBJETO.
+É o relatório.
+Ao que se tem dos autos, a prisão preventiva foi fundamentada na garantia da ordem pública, na conveniência da instrução criminal e na aplicação da lei penal,considerando as circunstâncias do flagrante, tendo em vista a variedade e quantidade de drogas apreendidas, somadas à elevada quantia em dinheiro, possível produto da venda de outras porções, e à apreensão de balanças de precisão e embalagens plásticas, conforme a denúncia (fls. 2/4 dos autos originais), a decretação da prisão preventiva era mesmo de rigor, para atender às finalidades previstas no art.312 do Código de Processo Penal(fl. 23).
+Da denúnciaextrai-se, ainda, que (fls. 36/37 - grifo nosso):
+ .. Em buscas pelo local, os policiais encontraram uma porção grande de cocaína em um compartimento do armário embutidoda suíte, bem como 1.100 (mil e cem) embalagens plásticas específicas para acondicionar drogas fracionadas, duas balanças digitais e duas colheres pequenas com resquícios de cocaína.
+Em continuidade à diligência, os policiais civis encontraram um liquidificador e uma bacia no gabinete da pia do banheiro, ambos também com resquícios de cocaína (cf. laudo de fls. 213/215).
+Seguidamente, dentro de uma bolsanecessaire, um dos investigadores de polícia encontrou a quantia de R$ 8.668,88 (oito mil, seiscentos e sessenta e oito reais) em dinheiro.
+Logo após, os agentes públicos deslocaram-se à residência de RENATO, situada uma rua abaixo do estabelecimento dos denunciados. Na moradia foram encontradas mais uma porção menor de cocaína e uma porção de maconha fracionada, que ambos os denunciados ali também mantinham em depósito, para fins de tráfico.
+Assim, pela quantidade e forma de acondicionamento das drogas, petrechos encontrados no local para preparação das drogas, vultosa quantia em dinheiro encontrada no local, bem como pelas circunstâncias da abordagem, não há dúvidas de que as substâncias apreendidas se destinavam aconsumo de terceiros, a qualquer título, e que os denunciados concorreram para o crime de tráfico de drogas.
+São fundamentos idôneos para a decretação da segregação cautelarno caso de tráfico ilícito de entorpecentes a quantidade, avariedade ou a natureza das drogas apreendidas, bem como a gravidadeconcreta do delito, o modus operandi da ação delituosa e apericulosidade do agente, elementos presentesin casu.
+No mesmo sentido,os seguintes precedentes:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. CUSTÓDIA DOMICILIAR. RECOMENDAÇÃO N. 62/2020 DO CNJ. EXCEPCIONALIDADE NÃO DEMONSTRADA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO NÃO PROVIDO.
+1. De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. Hipótese em que a custódia cautelar está motivada na garantia da ordem pública, diante da gravidade concreta da conduta, em que foram apreendidos em poder do agravante e do coinvestigado 400g de maconha, após realização de campana policial para averiguar denúncias acerca de intenso tráfico de drogas em determinado condomínio residencial.
+3. Conquanto seja notória a gravidade da ampla disseminação do novo coronavírus no Brasil, não houve comprovação de que o agravante se encontra em situação de vulnerabilidade que pudesse ensejar, de forma excepcional, a concessão do pedido com amparo na Resolução n.
+62 do CNJ.
+4. Agravo regimental não provido.
+(AgRg no HC n. 659.316/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/5/2021)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. INGRESSO NO DOMICÍLIO DO RÉU. NULIDADE. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE NÃO CONFIGURADA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O julgamento monocrático não caracteriza ofensa ao princípio da colegialidade, quando o acórdão impugnado observa a jurisprudência dominante acerca do tema. Ademais, o julgamento de agravo regimental torna superada a alegação, haja vista a devolução da matéria ao órgão colegiado.
+2. o decisum agravado foi claro ao demonstrar que: a) a questão da nulidade do ingresso no domicílio não foi apreciada, sob esse enfoque, pela Corte estadual; b) as circunstâncias descritas para converter a prisão em flagrante em custódia preventiva - notadamente, a diversidade e quantidade de drogas encontradas e a prática do comércio espúrio em comparsaria com adolescente - constituem motivos idôneos para a imposição da cautela extrema.
+3. A moldura fática delineada pelas instâncias ordinárias indica que: a) o paciente foi abordado em ato de comercialização de droga em frente à sua residência, o que configuraria justa causa para o ingresso no domicílio; b) os entorpecentes pertenceriam a ele, que os comercializaria juntamente com o irmão adolescente. Para alterar essa conclusão, seria necessária ampla dilação probatória, incompatível com a via estreita do habeas corpus.
+4. Agravo regimental não provido.
+(AgRg no HC n. 622.886/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 31/5/2021).
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL.HABEAS CORPUS.TRÁFICO DE DROGAS. QUANTIDADE E VARIEDADE DAS DROGAS E DEMAIS APETRECHOS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA.
+Ordem denegada.
