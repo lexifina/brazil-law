@@ -1,0 +1,27 @@
+DECISÃO:
+EMENTA: Processual penal. Habeas corpus. Tráfico de drogas. Associação para o tráfico de drogas. Extorsão. Prisão preventiva. Prisão domiciliar. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 668.038/SP, do Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que a paciente foi presa preventivamente pela suposta prática dos crimes previstos nos arts. 33, caput, e 35 da Lei 11.343/2006 e no art. 158 do Código Penal.
+    3. Inconformada com a prisão, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo. Indeferida a liminar, sobreveio a impetração de HC (668.038/SP) no STJ. O Relator, Ministro João Otávio de Noronha, indeferiu liminarmente o writ.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, a ausência de fundamentação idônea para a custódia processual. Afirma que “o Juízo estabeleceu a traficância a partir da apreensão de pequena quantidade de droga – as pouco mais de 2 gramas de cocaína –, veiculou a associação para o tráfico tendo presente uma relação conjugal – a paciente foi presa na companhia de seu marido – e lastreou a possibilidade de prática da extorsão numa cobrança de dívida que, apresentadas as duas versões, certamente a da alegada vítima não condiz com a realidade”. Aponta a possibilidade de prisão domiciliar, uma vez que a paciente é mãe de duas crianças menores de 12 anos.
+    5. A defesa requer:
+    “a) A concessão da medida liminar, determinando-se a expedição de alvará de soltura em favor da paciente, ante a violação ao versado nos artigos 312 e 315 do Código de Processo Penal;
+    b) Subsidiariamente, a imposição de medidas diversas da prisão, previstas no artigo 319 do Código citado;
+    c) Ou, ainda, a conversão da prisão provisória em domiciliar, nos termos do artigo 318-A do referido Diploma;
+    d) Oficie-se a autoridade coatora para prestar as informações necessárias, com posterior remessa dos autos à Procuradoria-Geral da República;
+    e) No mérito, a concessão da ordem com a confirmação das providências requeridas liminarmente.”
+    6. Decido.
+    7. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    8. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    9. As alegações da defesa não foram sequer analisadas pelas instâncias de origem (TJ/SP e STJ). Fato que impede o imediato exame da matéria pelo STF, sob pena de dupla supressão de instâncias.
+    10. Não é o caso de concessão da ordem de ofício. As peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize a imediata revogação da custódia preventiva. Até porque, tal como consignado no decreto prisional, “há indícios de que [a paciente e outro investigado] tenham praticado os crimes em questão, em particular a extorsão contra usuária droga e também notícia de que vendiam entorpecente, inclusive forneciam para ‘biqueiras’ da região, notadamente pela grande quantia de dinheiro apreendida pelos policiais, a qual acabara de ser entregue pela vítima aos autuados”. Ademais, o Juízo de origem ressaltou que, “[q]uanto à existência de filhos menores, denota-se pela conduta da autuada, em especial pelos delitos pelo qual foi autuada que sua presença é prejudicial à formação dos menores, que, ao que tudo indica, sequer eram cuidados pela autuada” .
+    11. Por fim, registro que a alegação de ausência de autoria e materialidade é insuscetível de deslinde em habeas corpus, que, como é cediço, não comporta reexame de fatos e provas (RHC 117.491, Rel. Min. Luiz Fux).
+    12. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 09 de junho de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                             Relator
