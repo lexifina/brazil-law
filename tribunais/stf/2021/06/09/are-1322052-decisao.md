@@ -1,0 +1,30 @@
+DECISÃO
+    Trata-se de Agravo contra decisão que inadmitiu o Recurso Extraordinário interposto em face de acórdão do Tribunal Superior Trabalho, assim ementado (Doc. 53, fl. 1):
+    “AGRAVO. AGRAVO DE INSTRUMENTO. LEI 13.015/2014. COMISSÕES SUPRIMIDAS. HORA EXTRA – TRABALHO EXTERNO – CONVENÇÃO COLETIVA. INDENIZAÇÃO DE LANCHE. SALÁRIO EXTRA-FOLHA. Nega-se provimento a agravo quando suas razões não conseguem infirmar os fundamentos do despacho agravado. Agravo a que se nega provimento.”
+    No Recurso Extraordinário (Vol. 56), com fundamento no art. 102, III, “a”, alega-se violação ao art. 7º, XXVI, da Constituição Federal, na medida em que o acórdão recorrido manteve a condenação do recorrente ao pagamento de horas extras, mesmo na hipótese dos autos em que se pode verificar que a aplicação da exceção do artigo 62, inciso I, da CLT, ao contrato de trabalho do recorrido decorreu de justo e válido ajuste existente no Acordo Coletivo de Trabalho da categoria.
+    Aduz que esta CORTE reconheceu a repercussão geral da matéria no Tema 1046.
+    Em juízo de admissibilidade, o Tribunal de origem, inicialmente, afastou a aplicação, ao caso, do Tema 1046/STF, ao fundamento de que o “acórdão recorrido não analisou a negativa ou não de validade do instrumento coletivo de trabalho como alegado pela parte recorrente” (Vol. 70, fl. 2). Quanto ao mais, negou seguimento ao RE, aplicando o óbice previsto na Súmula 279/STF e ante o caráter infraconstitucional da controvérsia.
+    No Agravo, a recorrente reitera a argumentação desenvolvida no apelo extremo acerca da validade das normas coletivas e da aplicação do Tema 1046 à hipótese dos autos. Ainda, defende a inaplicabilidade da Súmula 279/STF e a violação ao art. 7º, XXVI, da Constituição (Vol. 72).
+    É o relatório. Decido.
+    O recurso não merece prosperar. De fato, a reversão do acórdão recorrido demandaria o exame da legislação trabalhista (CLT), o que é inviável na via extraordinária, bem como do contexto fático-probatório dos autos e de cláusulas de acordo coletivo, medida igualmente incabível nos termos das Súmulas 279/STF (Para simples reexame de prova não cabe recurso extraordinário) e 454/STF (Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário).
+    Nesse sentido, citem-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM EMBARGOS DECLARATÓRIOS EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 09.10.2020. TRABALHO. TEMPO À DISPOSIÇÃO DO EMPREGADOR. HORAS EXTRAS. MINUTOS RESIDUAIS. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO STF. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE PERTINÊNCIA EM RELAÇÃO AO TEMA 1046 DA REPERCUSSÃO GERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    1. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, no que diz respeito ao reconhecimento do tempo à disposição do empregador ocasionando o pagamento de horas extras por minutos residuais, seria necessário o reexame dos fatos e das provas constantes dos autos, bem como a legislação infraconstitucional e a validade de cláusula contratual coletiva. Incidência das Súmulas 279 e 454/STF.
+    2. É entendimento sumulado do STF o não cabimento de recurso extraordinário, em decorrência de violação ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida (Súmula 636 do STF).
+    3. A discussão versada no processo de origem não guarda pertinência em relação ao Tema 1046 da sistemática da repercussão geral.
+    4. Agravo regimental a que se nega provimento, com imposição de multa. Mantida a decisão agravada quanto à multa de 2% sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC.” (ARE 1.272.922-ED-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 10/3/2021)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ACORDO E CONVENÇÃO COLETIVOS DE TRABALHO. DURAÇÃO DO TRABALHO. HORAS IN ITINERE. ADICIONAL NOTURNO E DE INSALUBRIDADE. REMUNERAÇÃO, VERBAS INDENIZATÓRIAS E BENEFÍCIOS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. Inviável o processamento do recurso extraordinário quando para seu deslinde seja necessária a análise de legislação infraconstitucional aplicável.
+    2. Para divergir da conclusão adotada pelo tribunal a quo, seria necessário o reexame de fatos e provas.
+    3. Agravo regimental, interposto em 30/05/2016, a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC.” (ARE 955.304, Rel. Min. EDSON FACHIN, Primeira Turma, DJe de 17/11/2016)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 13.3.2019. TRABALHO. TURNO ININTERRUPTO. JORNADA EXCEDENTE. HORAS EXTRAS. ACORDO COLETIVO. VALIDADE. RECURSO NEGADO.
+    1. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, no que diz respeito à configuração de jornada em turno ininterrupto e o cômputo de horas extras, seria necessário o reexame das reexame das provas dos autos e da interpretação das cláusulas de acordo coletivo. Incidência das Súmulas 279 e 454/STF.
+    2. É entendimento sumulado do STF o não cabimento de recurso extraordinário, em decorrência de violação ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida (Súmula 636 do STF).
+    3. A jurisprudência do Supremo Tribunal Federal é no sentido de que se situa no âmbito infraconstitucional a discussão relativa à jornada de trabalho no regime de turnos ininterruptos de revezamento.
+    4. Agravo regimental a que se nega provimento.” (ARE 1.166.867-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 24/7/2020)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+    Publique-se.
+    Brasília, 9 de junho de 2021.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
