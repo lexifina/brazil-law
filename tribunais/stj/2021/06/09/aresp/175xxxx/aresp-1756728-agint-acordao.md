@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a).
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO.AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELO NOBRE. CONTRARIEDADE AO ART. 1.022 DO CPC.RAZÕES.DEFICIÊNCIA. INCIDÊNCIA DA SÚMULA 284 DO STF.
+1. É deficiente a fundamentação do recurso especial em que a alegada ofensa ao art. 1.022 do CPC se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão combatido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência, por analogia,da Súmula 284/STF.
+2.Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo internomanejado porJ. M. F. Sub-Empreiteira de Obras Ltda.contra decisão (e-STJ, fls. 551-554)que conheceu do agravo para não conhecer do recurso especial em razão da deficiência nas alegações de nulidade do acórdão impugnado por violação das disposições do art. 1.022 do CPC, a ensejar a incidência, por analogia, do verbete 284da Súmula do STF.
+A parte agravante, transcrevendo trechos das razões do apelo nobre, defende a inaplicabilidade do verbete 284 da Súmula do STF.
+Aduz que "o recurso demonstrou de forma exaustiva a omissão a que incorreu o v. acórdão recorrido, bem como sua fundamental relevância no julgamento da lide" (e-STJ, fl. 561).
+A parte agravada não apresentou contraminuta (e-STJ, fl. 569).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO.AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELO NOBRE. CONTRARIEDADE AO ART. 1.022 DO CPC.RAZÕES.DEFICIÊNCIA. INCIDÊNCIA DA SÚMULA 284 DO STF.
+1. É deficiente a fundamentação do recurso especial em que a alegada ofensa ao art. 1.022 do CPC se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão combatido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência, por analogia,da Súmula 284/STF.
+2.Agravo interno a que se nega provimento.
+VOTO
+A parte interessada não trouxe fundamentos aptos a desconstituir o pronunciamento combatido.
+Quanto à suscitada contrariedade ao art. 1.022 do CPC, verifico que a parte recorrente, no caso, limitou-se a transcrever as razões lançadas no acórdão impugnado e nas contrarrazões aos declaratórios; portanto, não logrou êxito em demonstrar objetivamente os pontos omitidos pelo acórdão combatido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos.
+Tal circunstância atrai, portanto, a incidência da Súmula 284/STF: "Inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+No ponto, cito julgados deste Tribunal na mesma direção:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.EMBARGOS À EXECUÇÃO FISCAL. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ART.23, § 1º, DO DECRETO 70.235/72. NOTIFICAÇÃO DO LANÇAMENTO TRIBUTÁRIO VIA EDITAL. TENTATIVA FRUSTRADA DE NOTIFICAÇÃO POSTAL.VALIDADE. PRECEDENTES DO STJ. PROVA PERICIAL. ACÓRDÃO RECORRIDO QUE CONCLUIU PELA SUA IRRELEVÂNCIA, PARA A SOLUÇÃO DO LITÍGIO.CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. FALTA DE IMPUGNAÇÃO, NO RECURSO ESPECIAL, DE FUNDAMENTO DO ACÓRDÃO COMBATIDO, SUFICIENTE PARA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Embargos à Execução Fiscal, objetivando "reconhecer a nulidade dos processos administrativos que deram origem ao lançamento" e "reconhecer a necessidade de revisão do lançamento fiscal, atribuindo-se os parâmetros apurados mediante laudo para fins de definição da área tributável, do grau de utilização, da alíquota, e do valor devido para fins do ITR relativo aos exercícios de 2007 e 2008". O Juízo de 1º Grau julgou improcedentes os pedidos. Negando provimento à Apelação, o Tribunal de origem manteve a sentença.
+III. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 1.022 do CPC/2015, a agravante não evidencia qualquer vício, no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgInt no AREsp 1.229.647/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 15/06/2018; AgInt no AREsp 1.173.123/MA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 29/06/2018.
+IV. Nos termos do art. 23, § 1º, do Decreto 70.235/72, é válida a notificação do lançamento tributário por edital, quando frustrada aquela realizada por via postal, destinada ao endereço correto do contribuinte. Precedentes do STJ: AgInt nos EDcl no AREsp 820.445/MG, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 02/08/2019; AgInt no REsp 1.597.492/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.561.153/RS, Rel.Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/11/2015;REsp 959.833/SC, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 10/12/2009.
+V. Quanto à alegação de violação aos arts. 332 e 420 do CPC/73, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que "a perícia requerida é impertinente e irrelevante para o julgamento da demanda".
+VI. O entendimento firmado pelo Tribunal a quo, no sentido da irrelevância da prova pericial, para a solução da controvérsia, não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+VII. Ainda que superado o óbice da Súmula 7/STJ, não merece prosperar o Recurso Especial, quando a peça recursal não refuta determinado fundamento do acórdão recorrido, suficiente para a sua manutenção, em face da incidência da Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+VIII. Agravo interno improvido.
+(AgInt no REsp 1.660.549/SC, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 22/4/2020, DJe 24/4/2020.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ARTS. 489 E 1.022 DO CPC/2015.VIOLAÇÃO. ARGUIÇÃO GENÉRICA. FUNDAMENTAÇÃO PER RELATIONEM.POSSIBILIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".(Enunciado Administrativo n. 3).
+2. Incide a Súmula 284 do STF quando a parte aponta violação dos arts. 489 e 1.022, do CPC/2015, de forma genérica, sem explicitar qual a ausência de pronunciamento e sua relevância para a solução da controvérsia a ser julgada, como ocorreu na espécie.
+3. Esta Corte admite a adoção da fundamentação per relationem, hipótese em que o ato decisório se reporta a outra decisão ou manifestação existente nos autos e as adota como razão de decidir. Precedentes do STJ e do STF.
+4. Agravo interno desprovido.
+(AgInt no REsp 1.814.110/PE, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/10/2019, DJe 17/10/2019.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
