@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA DO ESTADO DE SÃO PAULO e SPPREV contra decisão do Tribunal de Justiça do daquele Estado, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 260):
+AÇÃO ORDINÁRIA DE COBRANÇA - Pretensão ao recebimento de valores, relativos ao ALE, no período imprescrito, vantagem esta incorporada por força de ação mandamental - Conquanto diverso, hoje, o entendimento da E. Câmara acerca da matéria, e mais, embora não se possa falar na existência de coisa julgada em condições de vincular a decisão, no presente caso, é certo que não se afigura razoável pudesse prevalecer, quanto a período anterior àquele em que o órgão colegiado, em outros tempos, reconheceu o direito à incorporação do ALE, orientação atual - Reexame necessário e apelação das rés parcialmente providos, tanto quanto o recurso dos autores.
+No especial obstaculizado, o recorrente sustenta violação dos arts. 1º e 9º do Decreto n. 20.910/1932 e dos arts.1º-F e 2º-A, parágrafo único, da Lei n. 9.494/1997.
+Contrarrazões (e-STJ fls. 298/327)
+O Presidente da Seção de Direito Público negou seguimento ao especial, no que tange a alega ofensa do art. 1º-F da Lei n. 9.494/1997, nos termos do art. 1.040 do CPC/2015 e inadmitiu o recurso especial quanto às demais teses.
+Passo a decidir.
+A irresignação não merece prosperar.
+No caso, a decisão ora impugnada não conheceu do recurso especial, louvando-se de que o acórdão recorrido - art. 2º-A da Lei n. 9.494/1997 - está de acordo com a jurisprudência desta Corte sobre a hipótese (Súmula 83 do STJ).
+Da leitura das razões do recurso, observa-se que o agravante não impugnou esse fundamento, circunstância que enseja a aplicação do Enunciado 182 desta Corte de Justiça.
+Cumpre registrar que, não conhecido o recurso especial com base no aludido fundamento, caberia à agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, o que não ocorreu na espécie.
+Ante o exposto, com base no art. art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
