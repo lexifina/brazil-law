@@ -1,0 +1,25 @@
+DECISÃO
+MANDADO DE SEGURANÇA CONTRA DESEMBARGADOR DO TRIBUNAL DE JUSTIÇA. AL. D DO INC. I DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. MANDADO DE SEGURANÇA NÃO CONHECIDO.
+Relatório
+    1. Mandado de segurança, com requerimento de medida liminar, impetrado por Lorena Rocha Batista Carvalho, em 3.6.2021, “em face do ato coator, decisão judicial monocrática, proferida pela autoridade coatora o Desembargador RAIMUNDO NONATO DA COSTA ALENCAR, do TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, Relator nos autos do Processo n° 0750908-13.2021.8.18.0000” (fl. 1, e-doc. 1).
+O caso
+    2. A impetrante relata o ajuizamento, na instância ordinária, de ação de obrigação de fazer “a fim de obter a transferência do seu curso de medicina para o CENTRO UNIVERSITÁRIO UNINOVAFAPI” (fl. 2, e-doc. 1), em Teresina, em decorrência de problemas de saúde resultantes de sua não adaptação à cidade de Porto Velho/RO para a qual se mudou após aprovação no vestibular e início das aulas.
+    Salienta que, embora tenha obtido tutela provisória favorável, “nos autos do Processo n° 0750908-13.2021.8.18.0000 (Agravo de Instrumento), em trâmite no Tribunal de Justiça do Estado do Piauí, interposto pela parte contrária, fora proferido pela autoridade coatora, o Desembargador Relator RAIMUNDO NONATO DA COSTA ALENCAR, decisão judicial monocrática, em que fora concedido efeito suspensivo a fim de retirar a eficácia da decisão liminar anteriormente concedida” (fl. 2, e-doc. 1).
+    Argumenta ser cabível a impetração, afirma-se titular de direito líquido e certo à educação, saúde e unidade familiar e a superioridade dos direitos fundamentais sobre normas infraconstitucionais e do princípio da dignidade da pessoa humana, da segurança jurídica além da inexistência de autonomia didático-científica da universidade requerida (fls. 3-16, e-doc. 1).
+    Requer “a concessão da medida liminar, a fim de determinar que a autoridade coatora cesse com o ato ilegal, decisão judicial monocrática, proferida nos autos do Processo n° 0750908-13.2021.8.18.0000 - PI, mantendo-se incólume a decisão judicial que determinou a transferência da impetrante no curso de medicina, do CENTRO UNIVERSITÁRIO SÃO LUCAS, em Porto Velho/RO, para a SOCIEDADE DE ENSINO SUPERIOR E TECNOLÓGICO DO PIAUI LTDA., com o nome fantasia CENTRO UNIVERSITÁRIO UNINOVAFAPI, em Teresina/PI” (fl. 20, e-doc. 1).
+    Pede “a concessão da segurança, confirmando-se a liminar requerida, sendo afastadas todas as razões esposadas na decisão judicial impugnada, proferida nos autos do Processo n° 0750908-13.2021.8.18.0000 - PI, conforme pleito liminar” (fl. 20, e-doc. 1).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. O presente mandado de segurança não cumpre os requisitos legais para ter seguimento válido neste Supremo Tribunal.
+    4. Na al. d do inc. I do art. 102 da Constituição da República, dispõe-se ser este Supremo Tribunal competente para conhecer e julgar mandado de segurança:
+    “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    d) (...) o mandado de segurança e o habeas-data contra atos do Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal”.
+     No rol dos casos submetidos pela Constituição da República à competência originária do Supremo Tribunal Federal não se inclui a atribuição de processar e julgar originariamente mandado de segurança no qual figure como autoridade coatora desembargador de Tribunal de Justiça.
+     A matéria não admite discussão mínima por se cuidar de norma de competência constitucional expressa, incabível, portanto, interpretação extensiva.
+    Confiram-se, por exemplo, os seguintes julgados: Mandado de Segurança n. 22.041-AgR/BA, Relator o Ministro Celso de Mello; Mandado de Segurança n. 21.559-AgR/DF, Relator o Ministro Moreira Alves; Mandado de Segurança n. 21.250/DF, Relator o Ministro Néri da Silveira; Mandado de Segurança n. 32.748/AP, de minha relatoria; Mandado de Segurança n. 30.193-AgR/DF, Relator o Ministro Celso de Mello; Mandado de Segurança n. 25.170-AgR/DF, Relator o Ministro Cezar Peluso; Mandado de Segurança n. 36.009/MA, Relator o Ministro Roberto Barroso, decisão monocrática, DJe 27.9.2018; e Mandado de Segurança n. 36.453, Relator o Ministro Ricardo Lewandowski, decisão monocrática, DJe 9.5.2019.
+    5. No julgamento dos Embargos de Declaração no Mandado de Segurança n. 25.087/SP, Relator o Ministro Ayres Britto, DJ 11.5.2007, o Plenário deste Supremo Tribunal decidiu que, negado seguimento ao mandado de segurança por incompetência manifesta, o encaminhamento dos autos ao Tribunal competente ocorreria em situação de iminente risco de perecimento de direito, o que não se demonstra na espécie.
+    6. Pelo exposto, não conheço do mandado de segurança (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 9 de junho de 2021.
+Ministra CÁRMEN LÚCIA
+Relatora
