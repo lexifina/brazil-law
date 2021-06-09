@@ -1,0 +1,21 @@
+D E C I S Ã O
+    Reputo correto o acórdão recorrido.
+    Trata-se de recurso extraordinário manejado, com fundamento em permissivo constitucional, em face de acórdão do E. Tribunal Regional Federal da 2ª Região assim ementado:
+    “ CONSTITUCIONAL E TRIBUTÁRIO. IMPORTAÇÃO DE VEÍCULO AUTOMOTOR. USO PRÓPRIO. PESSOA FÍSICA. CONSTITUCIONALIDADE DA INCIDÊNCIA DO IPI. SENTENÇA REFORMADA.
+    1. Trata-se de Remessa Necessária e de recurso de Apelação interposto pela UNIÃO FEDERAL/FAZENDA NACIONAL (fls. 114/142) em face de sentença (fls. 99/102) que julgou procedente o pedido para suspender a exigibilidade do crédito do IPI, relativo a importação do automóvel da marca Porshe Cayane, Turbo, 2013, White, VIN#WP1AC2A28DLA9023, bem como da motocicleta marca Yamaha, YZHF R1BB, 2012, Black, VIN #JYARN23E4CA013730, descritos na inicial. Ao final, condenou o ente federal ao pagamento de honorários sucumbenciais, fixando-os em 10% (dez por cento) sobre o valor da causa.
+    2. A hipótese é de ação sob o procedimento ordinário proposta por EMERSON TAVARES DA FONSECA em face da UNIÃO FEDERAL/FAZENDA NACIONAL, em que pugna pela declaração da inexigibilidade do Imposto sobre Produtos Industrializados (IPI) sobre as operações de importação dos veículos descritos na petição inicial, vez que seriam destinados a uso próprio.
+    3. Não há dúvida de que, sob o aspecto material da hipótese de incidência, o desembaraço aduaneiro é fato gerador do IPI, e que, sob o aspecto pessoal, o importador é contribuinte do IPI, seja ele pessoa física ou pessoa jurídica, inexistindo qualquer diferenciação constitucional ou legal que isente o contribuinte da exação se for ele pessoa física ou se o bem está sendo importado para uso pessoal. Precedentes do STF (RE 723651, com repercussão geral), do STJ e desta Corte Regional.
+    4. A pura e simples exoneração do tributo, além de operar contrariamente a sua finalidade extrafiscal, acarreta ofensa ao princípio da isonomia, uma vez que o veículo produzido no mercado interno passa a concorrer em condições desfavoráveis com os veículos importados, já que apenas o produto nacional seria tributado pelo IPI.
+    5. Na importação de produto industrializado no exterior, para uso próprio, haverá uma única incidência do IPI e o importador - pessoa física - será contribuinte direto do tributo. O fato de não haver uma operação sucessiva que permita o abatimento do valor pago na importação não conduz à conclusão de que não incide o tributo, nesta hipótese. Tal conclusão equivaleria à concessão de isenção, sem qualquer previsão legal. Assim, inexistindo operações sequenciais passíveis de tributação, não haveria que se falar em violação à não-cumulatividade.
+    6. Remessa necessária e recurso de Apelação da União Federal conhecidos e providos. Sentença reformada. Ônus da sucumbência invertidos.”
+    De início importante pontuar que este Supremo Tribunal Federal, no âmbito da repercussão geral, ao apreciar o RE 723.651/PR, Redator para o acórdão Ministro Marco Aurélio, Tema 643/RG, decidiu que incide o Imposto sobre Produtos Industrializados (IPI) na importação de bens para uso próprio, sendo neutro o fato de tratar-se de consumidor final, firmando a seguinte tese:
+    “Incide o imposto de produtos industrializados na importação de veículo automotor por pessoa natural, ainda que não desempenhe atividade empresarial e o faça para uso próprio.“
+    O acórdão recorrido está em conformidade com o aludido entendimento.
+    De outra parte, a matéria articulada nas razões recursais quanto ao suposto descumprimento do GATT constitui-se em inovação recursal, porquanto sequer foi debatida no acórdão recorrido, de modo que ausente o prequestionamento da referida questão. Incidem, pois, os óbices dos Enunciados 282 e 356 da Súmula/STF.
+    Honorários advocatícios recursais
+    Ao amparo do § 11 do art. 85 do CPC, majoro em 1% (um por cento), a verba honorária fixada pelas instâncias de origem, observados os limites previstos nos §§ 2º e 3º.
+    Em face do exposto, com fundamento no inciso VIII do art. 932 do CPC, c/c §1º do art. 21 do RISTF, nego seguimento ao agravo em recurso extraordinário.
+    Publique-se.
+    Brasília, 09 de junho de 2021.
+Ministro NUNES MARQUES
+Relator
