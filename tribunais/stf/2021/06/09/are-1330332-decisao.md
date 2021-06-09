@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    PREVIDENCIÁRIO E PROCESSUAL CIVIL. APOSENTADORIA POR INVALIDEZ. ADEQUAÇÃO AOS TETOS PREVIDENCIÁRIOS FIXADOS PELAS EMENDAS CONSTITUCIONAIS Nº 20/1998 E Nº 41/2003.
+    1. Trata-se de apelação interposta contra sentença que julgou procedente o pedido, condenando o réu a revisar a aposentadoria por invalidez (NB 040.210.781-0, DIB: 01/01/1979), para que sejam aplicados como limitadores máximos da renda mensal do benefício os valores fixados pelas Emendas Constitucionais nº 20/1998 e nº 41/2003. O INSS alega: 1) decadência do direito, porque restou ultrapassado o prazo de 10 ( dez ) anos previsto no art. 103, caput, da Lei nº 8.213/91; 2) os benefícios concedidos antes da CF/88 não têm direito à revisão em debate; 3) a correção monetária deve ser calculada nos termos do art. 1º-F da Lei nº 9.494/97 (com redação dada pela Lei nº 11.960/2009).
+    2. Não incide a decadência prevista no art. 103, caput, da Lei nº 8.213/1991 nas pretensões de aplicação dos tetos das Emendas Constitucionais nº 20/1998 e nº 41/2003 a benefícios previdenciários concedidos antes dos citados marcos legais, porque consubstanciam mera revisão das prestações supervenientes ao ato de concessão. Precedentes do STJ.
+    3. O STF decidiu, em matéria de repercussão geral, que "não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional n. 20/1998 e do art. 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional". (RE 564354, julgado em 08/09/2010). Não foi imposto "nenhum limite temporal para se perseguir os reajustes das mencionadas emendas. Desta forma, é possível a aplicação imediata dos tetos previstos nas EC 20/98 e 41/03 a todos os benefícios concedidos antes da entrada em vigor dessas normas, inclusive aqueles providos antes da CF/88". (RE 959519, julgado em 23/11/2018).
+    4. Correção monetária conforme o Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal, que está em harmonia com o REsp Repetitivo 1.495.146/MG.
+    5. Apelação improvida, majorando-se os honorários advocatícios para o percentual de 12% (doze por cento) sobre o valor da condenação, a título de honorários recursais (art. 85, § 11, do CPC).
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 14 da Emenda Constitucional 20/1998; 5º da Emenda Constitucional 41/2003; 58 do ADCT; e 5º, inciso XXXVI; 102, caput e alínea "l"; e 195, § 5º, da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279 do STF. Sobre o tema, a propósito:
+    AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. OFENSA CONSTITUCIONAL REFLEXA. REEXAME DE FATOS. SÚMULA 279/STF
+    1. (...)
+    4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 5. Agravo Interno a que se nega provimento. (RE 1.237.969-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 12/2/2020).
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas.3. Agravo regimental desprovido. (ARE 1.165.382 – AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 3/3/20).
+    RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA. O recurso extraordinário não é meio próprio ao revolvimento da prova. (RE 1066713-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe 20/2/20).
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 9 de junho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
