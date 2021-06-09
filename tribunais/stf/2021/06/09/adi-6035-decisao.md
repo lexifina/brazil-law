@@ -1,0 +1,33 @@
+DECISÃO
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE – ATO REGULAMENTAR – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Hazenclever Lopes Cançado Júnior prestou as seguintes informações:
+    Confederação Nacional das Carreiras Típicas de Estado – Conacate ajuizou esta ação direta, com pedido de concessão de liminar, questionando a compatibilidade, com a Constituição Federal, do artigo 36 da Instrução Normativa nº 2, de 12 de setembro de 2018, editada pela Secretaria de Gestão de Pessoas do Ministério do Planejamento, Desenvolvimento e Gestão, a condicionar à compensação das horas não trabalhadas a liberação de servidor público para participação em atividades sindicais. Eis o teor:
+    Art. 36. Poderá haver a liberação do servidor público para participar de atividades sindicais, desde que haja a compensação das horas não trabalhadas.
+    Ressalta a legitimidade, referindo-se ao artigo 103, inciso IX, da Carta da República, ante a condição de entidade de âmbito nacional representativa da categoria dos servidores públicos federais. Justifica a pertinência temática no fato de o dispositivo afetar diretamente os interesses dos associados.
+    Afirma cabível a ação direta, considerado ato normativo primário.
+    Aponta violados os artigos 5º, inciso XVII, e 37, inciso VI, da Lei Maior.
+    Alude ao processo histórico de sindicalização no setor público brasileiro.
+    Frisa assegurada ao trabalhador a liberdade de associação sindical como instrumento de defesa dos direitos das categorias organizadas, inclusive no âmbito da Administração Pública. Menciona precedentes.
+    Sublinha restrição injustificada à participação de servidor público em atividade realizada por entidade representativa de carreira do funcionalismo.
+    Sob o ângulo do risco, destaca o esvaziamento da atuação associativa dos servidores públicos.
+    Requereu, no campo precário e efêmero, a suspensão da eficácia do artigo 36 da Instrução Normativa. Postula a declaração de inconstitucionalidade.
+    Vossa Excelência acionou o disposto no artigo 12 da Lei nº 9.868/1999 e determinou fossem providenciadas informações, manifestação da Advocacia-Geral da União e parecer da Procuradoria-Geral da República.
+    A Secretaria de Gestão de Pessoas do Ministério do Planejamento, Desenvolvimento e Gestão salienta disciplinada a matéria nos artigos 44, inciso II, e 92 da Lei nº 8.112, de 11 de dezembro de 1990. Realça assegurada ao servidor licença para o desempenho de mandato classista em entidade sindical representativa da categoria. Sustenta que os demais servidores, associados, ou não, podem participar de eventos sindicais, desde que providenciem a compensação das horas não trabalhadas.
+    A Advocacia-Geral da União manifesta-se no sentido da inadmissibilidade da ação direta, tendo em conta a ilegitimidade ativa e a índole regulamentar do ato impugnado. No mérito, opina pela improcedência do pedido, nos seguintes termos:
+    Administrativo. Direito à livre associação sindical. Artigo 36 da Instrução Normativa nº 02/2018 do Ministério do Planejamento, Desenvolvimento e Gestão, que determina a compensação de horas não trabalhadas por servidor público liberado para participar de atividades sindicais. Preliminares. Ilegitimidade ativa. Natureza regulamentar do ato impugnado. Mérito. A sistemática de compensação de horas prevista pelo dispositivo sob invectiva fora adotada como mecanismo de harmonização entre o direito à livre associação sindical e o interesse público inerente ao exercício das atribuições e responsabilidades conferidas legalmente aos servidores públicos, circunstância que não encontra óbice no Texto Constitucional. Manifestação pelo não conhecimento da ação direta e, no mérito, pela improcedência do pedido formulado pela requerente.
+    A Procuradoria-Geral da República manifesta-se pela inadmissibilidade da ação. Menciona a natureza secundária do preceito, a ofensa reflexa ao texto constitucional e a ausência de impugnação do complexo normativo. Relativamente ao mérito, diz da improcedência do pedido, ante fundamentos assim resumidos:
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE. PORTARIA 20/2018. MPDG. ATO NORMATIVO SECUNDÁRIO. OFENSA REFLEXA À CONSTITUIÇÃO. NORMA INFRACONSTITUCIONAL INTERPOSTA. SERVIDOR PÚBLICO. OFENSA INDIRETA. ATIVIDADE SINDICAL. FALTA JUSTIFICADA. COMPENSAÇÃO DE HORAS. NECESSIDADE. LEI 8.112/1990. COMPLEXO NORMATIVO INCINDÍVEL. LIBERDADES DE ASSOCIAÇÃO E SINDICAL. ATOS DE NATUREZA SINDICAL. FALTAS. PRINCÍPIO DA LEGALIDADE. DEVER DE COMPENSAR JORNADA. POSSIBILIDADE.
+    1. Não cabe ação direta de inconstitucionalidade contra ato normativo de caráter secundário, que retire fundamento da legislação infraconstitucional e cuja incompatibilidade com o texto constitucional, se existente, dar-se-ia apenas de forma indireta. Precedentes.
+    2. A necessidade de prévia interpretação de legislação infraconstitucional interposta gera ofensa reflexa à Constituição, sendo incabível a ADI. Precedentes.
+    3. A não impugnação da totalidade das normas que compõem o complexo normativo apontado como inconstitucional impede o conhecimento da ADI, por inutilidade do provimento jurisdicional. Precedentes.
+    4. O Supremo Tribunal Federal reconheceu ao servidor público o direito de greve (MI 712/PA, 670/ES e 708/ DF) e, no RE 693.456-RG/RJ, afirmou o dever de a Administração Pública proceder ao desconto remuneratório das horas não trabalhadas, permitido acordo para compensação de horas, a fim de elidir o desconto financeiro.
+    5. A necessidade de compensação das horas não trabalhadas aplica-se com mais razão à ausência do servidor público justificada pelo comparecimento do servidor público em atividades sindicais.
+    – Parecer pelo não conhecimento da ação direta e, no mérito, pela improcedência do pedido.
+    2. O controle concentrado de constitucionalidade pressupõe ato normativo abstrato e autônomo. O impugnado mediante esta ação revela conteúdo de natureza regulamentar, disciplinando a atividade de servidores públicos. A estes cumpre observar a jornada de trabalho.
+    Tem-se previsão de liberação do servidor para participar de atividades sindicais, desde que haja a compensação das horas não trabalhadas.
+    Está-se diante de ato simplesmente regulamentar, visando a uniformização de procedimento, alusivo ao pessoal, pela Administração Pública, mais especificamente a federal. Embora se tenha rotulado o preceito como ligado a instrução normativa, nada mais encerra do que consequência jurídica do arcabouço legal, a implicar a inadequação do controle abstrato.
+    3. Nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 9 de junho de 2021.
+Ministro MARCO AURÉLIO
+Relator
