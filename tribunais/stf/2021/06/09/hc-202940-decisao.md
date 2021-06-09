@@ -1,0 +1,21 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar urgente, submetido a esta Presidência pela Relatora, Ministra Rosa Weber, mediante despacho com o seguinte teor:
+    “Trata-se de habeas corpus preventivo, com pedido de liminar, impetrado por Antônio Nabor Areias Bulhões em favor de Wilson Miranda Lima, Governador do Estado do Amazonas, contra ato do Senador Omar Aziz, Presidente da Comissão Parlamentar de Inquérito do Senado Federal - CPI da Pandemia-, instaurada para investigar “as ações e omissões do Governo Federal no enfrentamento da Pandemia da Covid-19 no Brasil“.
+    Na petição inicial de habeas corpus, a Defesa aponta ‘distribuição por prevenção ao eminente Ministro Ricardo Lewandowski, a teor do art. 77-D, caput, do RISTF, em razão de sua relatoria nos Habeas Corpus nºs 201.899/DF, 201.912/DF, 201.970/DF e 202.080/DF, todos relacionados à CPIPANDEMIA).
+    De outro lado, de acordo com a certidão de distribuição da Secretaria desta Suprema Corte, o presente feito foi a mim distribuído por prevenção à ADPF 848, de minha relatoria, nos termos do art. 69, caput, do RISTF – A distribuição da ação ou do recurso gera prevenção para todos os processos a eles vinculados por conexão ou continência.
+    Ante o exposto, submeto a distribuição do presente feito à consideração da Presidência desta Suprema Corte”.
+    É o relatório.
+    Decido.
+    Os habeas corpus impetrados por testemunhas de Comissões Parlamentares de Inquérito seguem, como regra geral, distribuição comum, inexistindo prevenção de relatoria para writs de pacientes diversos contra atos distintos (Precedentes: HC 129.213, HC 129.929, HC 150.180, HC 150.294, HC 151.457, HC 169.821, HC 168.866, HC 171.438).
+    À luz destes precedentes, a existência ou não de conexão instrumental e de continência deve ser analisada caso a caso. Analogamente ao que ocorre com os procedimentos extraídos de acordos de colaboração premiada, também os fatos investigados pelas Comissões Parlamentares de Inquérito podem dar origem tanto a investigações conexas como a investigações sem qualquer vínculo que atraia as regras processuais de prevenção de competência.
+    Em outras palavras: não há prevenção automática para a relatoria de writs impetrados contra atos de CPIs, aplicando-se a livre distribuição como regra geral.
+    In casu, a defesa requereu a “distribuição por prevenção ao eminente Ministro Ricardo Lewandowski, a teor do art. 77-D, caput, do RISTF, em razão de sua relatoria nos Habeas Corpus nºs 201.899/DF, 201.912/DF, 201.970/DF e 202.080/DF, todos relacionados à CPIPANDEMIA)”.
+    Bem analisados os writs mencionados, verifica-se que todos eles foram impetrados em favor de duas testemunhas. Ambas respondem, conjuntamente, a procedimento instaurado pelo Ministério Público, pelos mesmos fatos sobre os quais foram convocadas a depor na CPI, evidenciando a existência de conexão instrumental entre os habeas corpus.
+    Diversamente, o presente habeas corpus foi impetrado em favor de Governador de Estado, para investigação de fatos diversos dos imputados aos pacientes dos HCs 201.899, 201.912, 201.970 e 202.080. Eventuais procedimentos investigatórios que venham a ser instaurados não revelam conexão ou continência apta a determinar a prevenção da relatoria.
+    Ao mesmo tempo, o presente writ guarda relação de continência com a ADPF 848, de relatoria da Ministra Rosa Weber. É certo que, assim como as demais ações de controle abstrato, a regra é a inexistência de prevenção de relatoria entre feitos de natureza objetiva e subjetiva. Nada obstante, a arguição referida foi ajuizada por todos os Governadores de Estado convocados pela CPI, inclusive o paciente do presente habeas corpus, deduzindo pedido de natureza subjetiva idêntica à destes autos, a demandar soluções uniformes, ao menos em relação ao paciente (art. 55, §3º, do CPC).
+    Verificada a continência entre os feitos, mantenho a distribuição do writ para a eminente Ministra Rosa Weber, por prevenção gerada pela ADPF 848.
+    Encaminhem-se os autos, com urgência, ao gabinete da eminente Relatora.
+    Publique-se. Int..
+    Brasília, 09 de junho de 2021.
+Ministro Luiz Fux
+Presidente
+Documento assinado digitalmente
