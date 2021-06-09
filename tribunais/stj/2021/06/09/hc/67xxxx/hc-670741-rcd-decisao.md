@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Pedido de Reconsideração contra decisão monocrática que concedeua ordem de ofício, com superação da Súmula 691/STF, para determinar que o Juízo executório, caso efetivamente haja falta de vagas no regime semiaberto, promova, com brevidade, a saída antecipada de outro condenado que cumpre pena no regime intermediário, com menor saldo a cumprir, concedendo a este a prisão domiciliar com monitoramento eletrônico, abrindo-se, em consequência, vaga no regime intermediário para o ora paciente, de acordo com o estabelecido no julgamento do RE n. 641.320/RS (e-STJ, fls. 163/173).
+Neste requerimento, alega a defesa que a decisão ora impugnada, foiomissa pois apesar de conhecer da ilegalidade a qual o paciente é submetido, vinculou a suasituação à de terceiro indeterminado, violando o princípio da individualização da pena.
+Explica que é impossível prever o tempo que essa análise administrativa do cartório da vara de execuções, juntamente com as unidades prisionais de regime semiaberto, irão verificara situação dos presos.
+Assevera a crise da pandemia, que o paciente já está há mais de 50 dias em regime mais gravoso, possui lapso temporal para o regime aberto desde fevereiro de 2020, além de cumprir pena em estabelecimento de detenção provisória.
+Argumenta, no mais, quese o Estado não possui estrutura para gerir o sistema prisional que ele próprio criou, não pode despejar essa insuficiência sobre os ombros dos sentenciados.
+Assim, espera que o paciente aguarde em prisão domiciliar ou regime aberto domiciliar até que a decisão proferida por este E. Tribunal, que determinou a transferência do apenado ao regime intermediário, seja cumprida.
+É o relatório. Decido.
+O presente pedido não pode ser deferido.
+Embora louvávelo esforço da defesa, observe-se que esta Corte já concedeu a ordem, inclusive superando a Súmula 691/STF, a fim dedeterminar que o Juízo executório, caso efetivamente haja falta de vagas no regime semiaberto, promova, com brevidade, a saída antecipada de outro condenado que cumpre pena no regime intermediário, com menor saldo a cumprir, concedendo a este a prisão domiciliar com monitoramento eletrônico, abrindo-se, em consequência, vaga no regime intermediário para o ora paciente, de acordo com o estabelecido no julgamento do RE n. 641.320/RS.
+Embora o pedido do paciente tenha sido vinculado a outros apenados que cumprem pena no regime intermediário com menor saldo de pena a cumprir, sua situação foi melhorada, diante do descumprimento, pelo Juízo das execuções, de sua transferência para o regime adequado.
+Assim, deve a defesa aguardar, uma vez que as decisões dos Juízos têm sido cumpridas, com certa brevidade, sempre que há uma ordem emanada por esta Corte, como foi feito no deferimento da progressão ao regime semiaberto (e-STJ, fls. 22/23).
+A prisão domiciliar não pode ser deferida de forma imediata, sob pena de violação do princípio da igualdade, tendo em vista a situação de outros executados que estão há mais tempo no regime semiaberto.
+Não desconheço que o executado não pode arcar com a falta de estrutura do Estado, diante da ausência de vagas no regime adequado. Para tanto, conforme explicado na decisão impugnado, a questão é resolvida Súmula Vinculante 56, do Supremo Tribunal Federal, conforme os parâmetros do RE 641.320/RS.
+Assim, existem regras a serem seguidas, pois não é só o ora requerente que não pode arcar com a responsabilidade do Estado, e sim todos os presidiários.
+Desse modo, o princípio da individualização da pena deve sim ser respeitado, mas ele deve conviver com o princípio da igualdade.
+Ante o exposto, indefiro o presente Pedido de Reconsideração.
+Intimem-se.
