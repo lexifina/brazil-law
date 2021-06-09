@@ -1,0 +1,17 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+RECURSO DE AGRAVO DE INSTRUMENTO no 1008397-19.2021.8.11.0000 – CLASSE 202 – CNJ – CANARANA
+Agravante: ADAUTO ANTONIO SONZA
+Agravada : LOUIS DREYFUS COMPANY BRASIL S.A.
+Número do Protocolo: 1008397-19.2021.8.11.0000
+Trata-se de recurso de AGRAVO DE INSTRUMENTO interposto por ADAUTO ANTONIO SONZA contra a decisão proferida pela MMo Juiz de Direito da 3a Vara Cível da Comarca de Canarana/MT, que nos autos da ação de “Rescisão Contratual” (Proc. no 1000560-20.2021.8.11.0029), ajuizada pelo agravante contra a LOUIS DREYFUS COMPANY BRASIL S.A. indeferiu pedido de suspensão dos efeitos do contrato de compra e venda futura no 01-0150-2021-0032, e também da correspondente CPR registrada, bem como o pedido formulado para que a requerida se abstivesse de negativar o autor, porque, segundo o magistrado, “não restou demonstrada de plano a verossimilhança das alegações da parte autora de sua probabilidade do direito, que permitam a formação de um juízo de plausibilidade das alegações lançadas na peça vestibular” (cf. Id. n. 87275459).
+O agravante diz que não conseguiu cumprir as obrigações contratuais em razão da frustração da safra por eventos climáticos alheios à sua vontade (déficit hídrico), e por isso tem direito à suspensão temporária dos efeitos contratuais, e ao impedimento à negativação, sobretudo porque a inscrição restritiva de seu nome prejudicará extremamente a sua atividade, já que o impossibilitará de contrair empréstimos para as próximas safras.
+Pede, pois, o provimento do recurso, para que, desde já, seja a agravada impedida de promover inscrições restritivas, e os efeitos do contrato sejam imediatamente suspensos (contrato de compra e venda futura no 01-0150-2021-0032), com suspensão dos efeitos da CPR vinculada ao pacto.
+É o breve relatório.
+No caso, embora o autor tenha apresentado laudo unilateral elaborado pelo extensionista rural Gildomar Avrella, com a conclusão de que houve quebra de produtividade na lavoura da fazenda GB em razão de déficit hídrico na região de Canarana-MT (cf. Id. n. 54786109), para que haja aplicação da teoria da imprevisão, conforme pretende o agravante, deve ser demonstrada inequivocamente a superveniência de circunstância imprevisível, a alteração da base objetiva do contrato e a decorrente onerosidade excessiva, e, ao menos em primeira análise, as questões relativas ao nível de chuvas na região (ausência ou excesso) não podem ser consideradas acontecimentos imprevisíveis ou anormais na agricultura com aptidão para justificar a medida pretendida, o que já arrefece a pretensão autoral; depois, de qualquer forma, a questão necessariamente demanda ampla dilação probatória, não sendo suficiente o laudo unilateral apresentado pelo agravante para convencer sobre a probabilidade do direito alegado.
+Admito, pois, o recurso nos termos do art. 1.019 do CPC, mas INDEFIRO o pedido de antecipação recursal, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se a agravada, na forma do art. 1.019, II, do CPC, para que responda no prazo de 15 dias.
+Expeça-se o necessário.
+Cuiabá/MT, 09 de junho de 2021.
+Des. JOÃO FERREIRA FILHO
+Relator
