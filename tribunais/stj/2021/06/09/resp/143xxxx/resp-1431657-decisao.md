@@ -1,0 +1,84 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por ASSOCIAÇÃO CATALANA DE EDUCAÇÃO, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de Goiás (fls. 196-197 e-STJ), assim ementado:
+Ação Rescisória. Utilização como meio excepcional de impugnação. Nulidade de citação caracterizada. Decretação de oficio da nulidade dos atos processuais posteriores à citação. Possibilidade. I - Admite-se a rescisória como meio excepcional de impugnação para o reconhecimento da nulidade absoluta de atos processuais, em razão da nulidade da citação ocorrida nos autos, inclusive da sentença rescindenda, malgrado não seja esta hipótese contemplada pelos incisos do art. 485, do CPC. II -Verificando-se que não houve a utilização de todos os meios existentes para a obtenção do endereço da requerida na ação de cobrança, para fins de citação e, ainda, que a citação por edital não observou todas as formalidades estabelecidas pelo inciso III do art. 232, do CPC, impõe-se o reconhecimento da nulidade da citação, bem como de todos os atos processuais posteriores.
+Decretada a nulidade da citação e atos posteriores no processo de origem. Pedido Rescisório prejudicado
+Nas razões do especial (fls. 215-225 e-STJ), a insurgente alega violação aos seguintes dispositivos de lei federal:
+(i) artigo 485 do CPC/1973, ao argumento de que referido dispositivo não prevê a admissibilidade de ação rescisória para alcançar a nulidade de uma citação, que teria como meio jurídico adequado para sanar a questão a ação declaratória de nulidade (querela nulitatis insanabilis); aponta dissídio jurisprudencial em relação ao tópico;
+(ii) artigos 231 e 232 do CPC/73, pois o procedimento citatório atendeu às prescrições contidas na legislação processual civil.
+Apresentadas contrarrazões (fls. 234-235 e-STJ), o apelo extremo foi admitido na origem.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. Em relação ao cabimento da ação rescisória no caso de alegada nulidade da citação, o Tribunal de origem manifestou-se nos seguintes termos (fls. 185-188 e-STJ):
+Com efeito, o artigo 485, do Código de Processo Civil não contempla a possibilidade de rescisão do julgado em virtude de nulidade de citação, pois, nos casos em que a citação se encontre eivada de nulidade, não haverá a formação da coisa julgada, uma vez que a ação não terá se formado validamente e, portanto, serão inexistentes os atos processuais proferidos após o ato inquinado de nulidade, inclusive a sentença, razão pela qual não há que se falar em rescisão de um julgado inexistente.
+Assim, considerando-se as peculiaridades do caso e a possibilidade de declaração de nulidade da citação em qualquer tempo e grau de jurisdição, inclusive de oficio, constato ser imperiosa a apreciação das alegações constantes da peça de começo, não com o objetivo de rescindir a sentença, mas, para, se for o caso, decretar a nulidade absoluta da citação editalícia, bem como dos atos processuais posteriores a esta, a fim de corrigir a falha processual que porventura reste caracterizada após a análise pormenorizada do caso em deslinde.
+Insta salientar que este Egrégio Sodalício tem se manifestado favoravelmente à admissão da rescisória, como meio excepcional de impugnação para o reconhecimento da nulidade absoluta de atos processuais, em razão da nulidade de citação, malgrado esta situação não esteja enumerada dentre aquelas contidas nos incisos do art. 485, do Código de Processo Civil, senão, vejamos:
+ ..
+Dito isso, passo ao exame da alegada nulidade de citação.
+O acórdão recorrido decidiu em conformidade com a jurisprudência desta Corte Superior de Justiça, firmada no sentido de que a ação rescisória constitui instrumento adequado para a arguição de nulidade de citação, uma vez que referida matéria pode ser conhecida em qualquer tempo e grau de jurisdição, aplicando-se o princípio da fungibilidade relativo a referida querela nullitatis insanabilis.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO RESCISÓRIA. ALEGAÇÃO DE NULIDADE DE CITAÇÃO EM AÇÃO CIVIL PÚBLICA POR IMPROBIDADE ADMINISTRATIVA. INTERESSE PROCESSUAL NA PERSPECTIVA ADEQUAÇÃO PRESENTE PARA UTILIZAÇÃO DO INSTRUMENTO DA AÇÃO RESCISÓRIA. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. IRREGULARIDADE RELATIVA À NATUREZA DO PROCESSO E AO PRAZO PARA RESPOSTA NO MANDADO DE CITAÇÃO. NÃO ARGUIÇÃO DA NULIDADE NA CONTESTAÇÃO E AUSÊNCIA DE PREJUÍZO. VIOLAÇÃO AO ART. 247 DO CÓDIGO DE PROCESSO CIVIL DE 1973 NÃO VERIFICADA.
+I - Trata-se de ação rescisória cujo objetivo é a rescisão de acórdão da lavra do eminente e saudoso Ministro Teori Albino Zavascki, proferido no julgamento do AgRg no Agravo de Instrumento n. 1.418.856 - RS, que afastou a alegação de nulidade de citação em ação civil pública por improbidade administrativa.
+II - Ainda que o fundamento seja a nulidade de citação, a ação rescisória é instrumento adequado para análise dessa querela nullitatis insanabilis, porque essa matéria pode ser conhecida em qualquer tempo e grau de jurisdição, independentemente de forma. Como corolário do princípio da instrumentalidade das formas, aplica-se o da fungibilidade das ações. Preliminar de carência de ação afastadas. Precedentes: REsp 1456632/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 7/2/2017, DJe 14/2/2017; AR 3.234/MG, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 27/11/2013, DJe 14/2/2014.
+III - Mesmo se tratando de vício que pode ser conhecido de ofício - nulidade de citação, a parte não pode mantê-lo oculto, para sacá-lo mais de três anos depois do ato praticado, com o propósito de anular o processo e repetir os atos processuais. Essa postura, por óbvio, não atende aos princípios da cooperação, da boa-fé e do contraditório. Inadmissibilidade da chamada "nulidade de algibeira". Precedente: AgRg na PET no AREsp 204.145/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/06/2015, DJe 29/06/2015.
+IV - Embora se constate irregularidade no texto do mandado, não se pode reconhecer o vício da nulidade da citação caso o réu compareça, ofereça contestação, não alegue nela a nulidade e não se vislumbre prejuízo. Ausência de violação ao art. 247 do Código de Processo Civil de 1973. Precedentes: REsp 1316372/DF, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 6/12/2016, DJe 19/12/2016; AgRg no AREsp 613.320/BA, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 8/3/2016, DJe 17/3/2016.
+V - Improcedência dos pedidos formulados na ação rescisória.
+(AR 5.233/RS, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 28/10/2020, DJe 17/12/2020)  grifou-se
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. TERMO INICIAL DO PRAZO DECADENCIAL. NULIDADE DE CITAÇÃO. CABIMENTO. QUERELA NULLITATIS. FUNGIBILIDADE.
+1. Ação rescisória ajuizada em 18/10/2013, da qual foi extraído o presente recurso especial, interposto em 17/12/2015 e concluso ao Gabinete em 25/08/2016.
+2. Cinge-se a controvérsia a decidir sobre o termo inicial do prazo de decadência para o ajuizamento de ação rescisória, bem como sobre o cabimento desta, quando fundada em nulidade de citação.
+3. A decadência do direito de desconstituir, em ação rescisória, a coisa julgada material implementa-se no prazo de dois anos iniciado no dia seguinte ao término do prazo para a interposição do recurso em tese cabível contra o último pronunciamento judicial.
+4. O princípio da fungibilidade autoriza que a querela nullitatis assuma também a feição de outras formas de tutela - incluindo a ação rescisória -, cuja escolha dependerá da situação jurídica em que se encontrar o interessado no momento em que toma conhecimento da existência do processo (concurso eletivo): se antes do prazo de dois anos, previsto no art. 495 do CPC/73, caberá ação rescisória ou ação de nulidade; se depois de transcorrido o biênio, somente esta, já que não é atingida pelos efeitos da decadência.
+5. Recurso especial conhecido e desprovido.
+(REsp 1600535/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/12/2016, DJe 19/12/2016)  grifou-se
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. ART. 485, V, C/C ART. 487, II, DO CPC. PRELIMINARES: IMPUGNAÇÃO AO VALOR DA CAUSA, DECADÊNCIA, PREQUESTIONAMENTO, LITISCONSÓRCIO, QUERELA NULLITATIS. CISÃO PARCIAL DE EMPRESA POSTERIORMENTE AO AJUIZAMENTO DA AÇÃO. SOLIDARIEDADE PASSIVA QUANTO AOS DÉBITOS DA SOCIEDADE CINDIDA. OBRIGAÇÃO DA RÉ DE COMUNICAR. IMPOSSIBILIDADE DE ALEGAR NULIDADE. AÇÃO RESCISÓRIA IMPROCEDENTE.
+1. A impugnação ao valor da causa deve ser rejeitada por já haver trânsito em julgado sobre a questão.
+2. O prazo decadencial para o ajuizamento da ação rescisória inicia-se quando não for mais cabível recurso do último pronunciamento judicial, nos termos da Súmula 401/STJ.
+3. Admite-se ação rescisória por violação de lei, mesmo que a decisão rescindenda não tenha emitido juízo sobre o dispositivo supostamente violado. Na ação rescisória dispensa-se o prequestionamento. Precedentes.
+4. Nas ações rescisórias integrais devem participar, em litisconsórcio unitário, todos os que foram parte no processo cuja sentença é objeto de rescisão.
+5. Por alegada inexistência de citação, é possível debater-se a ausência de litisconsortes passivos necessários e a conseqüente anulação do feito rescindendo, tanto em ação rescisória quanto por meio de querela nullitatis, pois neste caso há concurso de ações. Precedentes.
+6. Operada a cisão parcial, cria-se um vínculo de solidariedade passiva das sociedades beneficiárias quanto aos débitos anteriores da sociedade cindida, atingindo todas as sociedades interessadas (§ 3º art. 42 CPC).
+7. Ocorrida a cisão parcial posteriormente ao ajuizamento da ação que pleiteava rescisão contratual e indenização, era obrigação da parte ré comunicar ao Juízo o fato, portanto há impossibilidade de alegar a nulidade que deu causa (art. 243 do CPC).
+8. Ação rescisória improcedente.
+(AR 3.234/MG, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 27/11/2013, DJe 14/02/2014)  grifou-se
+Incidente, portanto, o óbice da Súmula 83/STJ.
+Ressalta-se, por fim, que o óbice é aplicável tanto aos recursos interpostos com fundamento na alínea "c", como na alínea "a". Neste sentido: AgInt no AREsp 1331833/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/12/2018, DJe 01/02/2019; AgInt no AREsp 1340955/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 03/12/2018, DJe 13/12/2018.
+2. Em relação à apontada ofensa aos arts. 231 e 232 do CPC/73, igualmente, não assiste razão à parte insurgente.
+Da leitura do acórdão recorrido, percebe-se que o Tribunal de origem, à luz dos elementos de prova colacionados aos autos, concluiu pela irregularidade da citação realizada no processo de conhecimento, consoante se extrai dos seguintes trechos (fls. 188-194 e-STJ):
+Denota-se do caderno processual que a ré, Associação Catalana de Educação, ajuizou ação de cobrança contra a autora, a fim de obter o recebimento de 5 (cinco) parcelas, referentes às mensalidades do curso de Direito, em que esta última esteve matriculada no primeiro semestre do ano de 2006, conforme consta da cópia da petição inicial às fls.17/18.
+A primeira tentativa de citação da requerida na ação de cobrança, ora autora, foi inexitosa, constando da certidão do Oficial de Justiça que, segundo informação dos vizinhos, ela não mais residia naquele local e havia se mudado para um outro bairro na cidade de Catalão (fl. 27).
+A empresa autora, por sua vez, requereu a citação, via postal, ao argumento de que obtivera notícias de que a requerida estava residindo na cidade de Uberlândia - MG (fl. 35).
+Contudo, a carta de citação foi devolvida sem o devido cumprimento (fl. 39) e, ato contínuo, a requerente pleiteou a citação por edital (fl. 41), deferida pelo magistrado condutor do feito (fl. 42).
+O edital de citação foi publicado no Diário de Justiça Eletrônico (fl. 44) e afixado no placar do Fórum da Comarca de Catalão.
+Após a nomeação de Curadora Especial (fl. 52), que apresentou contestação genérica (fls. 54/55), foi proferida sentença condenando a requerida, Hannayama Nogueira Pereira, ao pagamento da importância de R$ 4.379,56 (quatro mil, trezentos e setenta e nove reais e cinquenta e seis centavos), com os acréscimos legais, custas processuais e honorários advocatícios em valor equivalente a 10% (dez por cento) sobre o total da condenação (fls. 57/59).
+Pois bem.
+Diante do quadro fático que ora se afigura, conclui-se, sem esforço, que a citação pela via editalícia foi deferida sem o devido esgotamento de todos os meios existentes para a localização da autora, parte requerida na ação de cobrança.
+Ora, não se pode afirmar, com apenas duas tentativas frustradas de citação, que a requerida na ação de cobrança se encontrava em local incerto e não sabido, notadamente porque, nos dias atuais, o Poder Judiciário dispõe de sistemas eletrônicos que facilitam a localização de endereços, além de ser possível o envio de ofícios à empresas de telefonia e, até mesmo, a órgãos públicos, para fins de obtenção de endereços de partes em processos judiciais, mediante determinação judicial.
+In casu, vê-se claramente que a autora da ação de cobrança não teve interesse em realizar diligências a fim de obter o endereço da requerida e, prematuramente, requereu a citação por edital, deferida pelo juízo monocrático.
+Não bastasse o deferimento da citação por edital, sem a utilização de todas as vias cabíveis à localização da requerida, o ato citatório não obedeceu as formalidades contidas na última parte do inciso III, do art. 232, do Código de Processo Civil, pois o edital de citação não foi publicado em jornal local, embora a cidade de Catalão possua periódico em circulação, mas, apenas no Diário de Justiça Eletrônico.
+(..)
+Nesse delinear, impõe-se o reconhecimento da nulidade da citação editalícia realizada nos autos da ação de cobrança, protocolo n. 201100599694, bem como de todos os atos processuais que a sucederam, a fim de possibilitar a citação da requerida naquela ação e a apresentação de defesa, em prestígio aos princípios do contraditório e da ampla defesa, previstos no inciso LV, do art. 5º da Constituição Federal.
+Derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela súmula 7/STJ.
+Nesse sentido, vejam-se os precedentes desta Corte:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+ ..
+3. A análise da alegada nulidade da citação demandaria o revolvimento do contexto fático dos autos, vedado em recurso especial por óbice da Súmula 7 do STJ.
+ ..
+7. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1585241/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/06/2020, DJe 03/08/2020)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. OMISSÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. ALEGAÇÃO DE NULIDADE DA CITAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DA CAUSA. DESCABIMENTO. SÚMULA 7/STJ. APLICAÇÃO DA TEORIA DA APARÊNCIA. RECURSO DESPROVIDO.
+ ..
+2. No caso, para ultrapassar as premissas fáticas estabelecidas pelo Tribunal de origem, a fim de acolher a alegação de nulidade da citação, seria necessário o reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula 7 deste Tribunal.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AgInt no AREsp 1539179/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC. INOVAÇÃO EM SEDE DE AGRAVO REGIMENTAL. INADMISSIBILIDADE. CITAÇÃO POR EDITAL. ESGOTAMENTO DAS DILIGÊNCIAS. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+ ..
+2. Para modificar o que foi decidido pela Corte de origem, no tocante à ausência de nulidade da citação por edital, em virtude do cumprimento de todas as diligências necessárias para citação pessoal dos devedores, seria necessário o revolvimento do conteúdo fático-probatório dos autos, providência incabível no recurso especial ante o óbice previsto na Súmula 7 desta Corte.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AgRg no AREsp 688.218/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/09/2015, DJe 01/10/2015)
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nega-se provimento ao recurso especial.
+Incabível a majoração de honorários (artigo 85, § 11, do CPC/15), por se tratar de recurso interposto ainda na vigência do CPC/73 (enunciado administrativo n. 7/STJ).
+Publique-se.
+Intimem-se.
+EMENTA
