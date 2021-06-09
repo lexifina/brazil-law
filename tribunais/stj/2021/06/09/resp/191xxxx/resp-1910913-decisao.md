@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SULcom fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (Apelação Criminal n. 0228993-98.2019.8.21.7000).
+A sentença, que julgou improcedente a denúncia movida em desfavor do ora recorrido, JACKSON DE OLIVEIRA GUIMARÃES, e o absolveu da suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, foi mantida pelo Tribunal de origem.
+Nas razões do recurso especial, alega o recorrente violação do art. 33, caput da Lei n. 11.343/2006, porquanto a quantidade e a variedade de drogas apreendidas em poder do recorrido (5,5g de cocaína, 23g de maconha e 2,7g de crack) evidenciam que a conduta por ele praticadaamolda-se a crime de tráfico de entorpecentes, sendo dispensável a realização de atos de mercancia para sua caracterização.
+Pugna, assim, pela condenação do recorrido como incurso no art. 33, caput, da Lei n. 11.343/2006.
+As contrarrazões foram apresentadas às fls. 229-304.
+Admitido o apelo extremo (fls. 306-311), o Ministério Público Federal apresentou parecer pelo provimento do recurso especial (fls. 325-326).
+É o relatório. Decido.
+O recurso não reúne condições de prosperar.
+O Tribunal a quo manteve a sentença, que absolvera o paciente do crime de tráfico de drogas. Confira-se excerto do acórdão (fls. 264-265):
+Nesse contexto, em que pese entenda que não há como rejeitar a validade dos depoimentos dos policiais ou reduzir o valor de seus testemunhos, sem motivo justificado, pois inexistem motivos para os policiais falsearem a verdade, tenho que, no caso concreto, os policiais não flagraram nenhum ato e não conseguiram nenhuma prova material de mercancia de JACKSON, cabe salientar que a droga apreendida - 07 pinos de cocaína, pesando aproximadamente 5,5 gramas; 25 tabletinhos de maconha, pesando aproximadamente 23 gramas, e 18 pedrinhas de crack, pesando aproximadamente 2,7 gramas - é plenamente compatível com o consumo.
+Outrossim, vale ressaltar que, em que pese o acusado quando preso estivesse em um ponto conhecido como de tráfico, houve denúncias anônimas, os policiais estavam em patrulhamento de rotina, visualizaram um indivíduo em atitude suspeita, contudo não houve a identificação de nenhum usuário, a fim de comprovar a mercancia.
+E, conforme salientado na sentença proferida pelo douto magistrado a quo, a qual, a fim de evitar despicienda tautologia, transcrevo parte:
+".. a constatação isolada da posse de drogas e inexpressivo valor apreendido não é suficiente à conclusão inequívoca da existência de tráfico, pois os policiais militares ouvidos em Juízo nada informaram sobre terem avistado o réu entregando drogas a alguém.."
+Ainda, é incontroverso que o local era ponto de tráfico, contudo a presença do acusado, JACKSON, não significa que estava comercializando, até porque o ponto onde o traficante vende é o mesmo onde o usuário compra. Nestes termos, é duvidosa a destinação circulatória das substâncias, ainda mais considerando que o acusado afirmou ser usuário de drogas.
+Assim, diante da incidência da Súmula n. 7 do STJ, é inviável, emrecurso especial, desconstituir o entendimento firmado pelas instâncias ordinárias, que, analisando a materialidade e a autoria do delito, a partir do acervo probatório e de modo fundamentado, decidiram pela absolvição quanto à prática do delito de tráfico de entorpecentes, por estarem ausentes as elementares do tipo penal.
+A propósito: AgRg no AREsp n. 1.840.915/SE, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 21/5/2021; e AgRg no REsp n. 1.779.821/MG, relator. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 18/2/2021.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, conheço do recurso especiale nego-lhe provimento.
+Publique-se. Intimem-se.
