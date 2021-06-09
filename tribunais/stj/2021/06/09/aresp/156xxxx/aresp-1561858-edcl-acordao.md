@@ -1,0 +1,33 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DA OCORRÊNCIA DO DELITO. REEXAME DE PROVAS. OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+2. Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos aclaratórios.
+3. Na espécie, ficou explicitamente consignado no decisum embargado que a afirmação feita pela defesa, relacionada à publicação no anuário sem a utilização de verbas públicas e com caráter estritamente técnico e informativo, foi contraditada pelo acórdão proferido pelo Tribunal de origem, que descreveu a ocorrência do desvio de verbas públicas. Uma vez delineado esse quadro fático, torna-se inviável sua modificação pela via do recurso especial, em razão da necessidade do reexame de provas.
+4. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+PAULO ALFREDO POLIS opõe embargos de declaração contra o acórdão de fls. 3.309-3.315, que negou provimento ao agravo regimental, nos termos desta ementa (fl. 3.310):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESVIO DE VERBAS PÚBLICAS. CONTROVÉRSIA SOBRE O QUADRO FÁTICO DELINEADO NA ORIGEM.
+IMPOSSIBILIDADE DE REEXAME. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Uma vez delineado determinado quadro fático, o qual veio amparado no amplo exame do material cognitivo pelas instâncias ordinárias, torna-se inviável sua modificação pela via do recurso especial, em razão da necessidade do reexame de provas. Incidência da Súmula n. 7 do STJ.
+Agravo regimental não provido.
+Em suas razões, afirma o insurgente que a pretensão esboçada no especial é apenas a de revaloração do quadro fático apresentado, com a finalidade de demonstrar que não houve a prática do crime previsto no art. 1º, I, do Decreto-Lei n. 201/1967.
+Assinala que "o Tribunal de origem, num exercício silogístico, embasou sua decisão em presunções e ilações incompatíveis com os preceitos constitucionais e legais" (fl. 3.321).
+Sustenta a defesa, ainda, que "uma coisa são as quatro páginas absolutamente legais, com inequívoco caráter informativo, com apenas dados técnicos do que foi realizado no período com o dinheiro público; outra, diz respeito à página destinada à manifestação da maior autoridade do Município, onde não houve qualquer dispêndio financeiro de nenhuma parte" (fl. 3.323).
+Requer, diante disso, "sejam acolhidos e apreciados os presentes embargos de declaração para sanar as omissões existentes, sob a ótica das disposições legais que fundamentam o presente, prestando, não só efeitos integrativos, como, se o caso, adequar-se o acórdão a verdade real controvertida" (fl. 3.324).
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DA OCORRÊNCIA DO DELITO. REEXAME DE PROVAS. OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+2. Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos aclaratórios.
+3. Na espécie, ficou explicitamente consignado no decisum embargado que a afirmação feita pela defesa, relacionada à publicação no anuário sem a utilização de verbas públicas e com caráter estritamente técnico e informativo, foi contraditada pelo acórdão proferido pelo Tribunal de origem, que descreveu a ocorrência do desvio de verbas públicas. Uma vez delineado esse quadro fático, torna-se inviável sua modificação pela via do recurso especial, em razão da necessidade do reexame de provas.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+De início, registro que os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos aclaratórios, situação que não ocorre na espécie.
+Deveras, ficou explicitamente consignado no decisum embargado que a afirmação feita pela defesa, relacionada à publicação no anuário sem a utilização de verbas públicas e com caráter estritamente técnico e informativo, foi contraditada pelo acórdão proferido pelo Tribunal de origem, o qual pontuou (fl. 3.312):
+De acordo com a denúncia, o recorrente Paulo, na condição de Prefeito, desviou renda pública (a quantia de R$ 19.000,00) em proveito próprio. Para tanto, objetivando promoção pessoal e com fins eleitoreiros, contratou a empresa de publicidade do recorrente Hélio para confeccionar material publicitário. O recorrente Hélio, por sua vez, apropriou-se de verba pública, mesmo sabendo que o material confeccionado tinha como único objetivo dar destaque à atuação de Paulo como Prefeito Municipal. O material foi distribuído em período pré - eleitoral, e o apelante Paulo era candidato à reeleição.
+Assim, como constou o do acórdão embargado, uma vez delineado o referido quadro fático, torna-se inviável sua modificação pela via do recurso especial, em razão da necessidade do reexame de provas.
+Ante o exposto, rejeito os embargos de declaração.
