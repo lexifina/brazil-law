@@ -1,0 +1,7 @@
+DECISÃO
+TIAGO RAFAEL SILVA PEREIRA - condenado a 7 anos e 7 meses pelo crime de tráfico de drogas - ajuíza reclamação "por conta de omissão do Tribunal de Justiça do Estado do Mato Grosso em resolver erro técnico para remessa dos autos para a segunda instância".
+A despeito da controvertida natureza jurídica da reclamação, é induvidoso que ela constitui o instrumento processual adequado para, no que diz respeito ao Superior Tribunal de Justiça, preservar a competência jurisdicional desta Corte ou garantir a autoridade das decisões aqui proferidas, conforme expressa previsão constitucional (art. 105, I, "f").
+A garantia da autoridade das decisões a que se refere o texto constitucional era compreendida de forma atrelada à necessidade da existência de processo subjetivo, isto é, de controvérsia estabelecida em torno da tutela de direito subjetivo, em que uma das partes que figuravam na lide (interessada) acabasse por ser prejudicada pelo não cumprimento de decisum deste Tribunal Superior que havia sido favorável à parte que ajuizou a reclamação (v. g., AgInt na Rcl n. 28.688/RJ, Rel. Ministro Marco Aurélio Bellizze, DJe 29/8/2016).
+Na espécie, a defesa não aponta nenhuma decisão que desafie a autoridade de decisão desta Corte Superior, motivo pelo qual inviável o conhecimento do pedido.
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço desta reclamação.
+Publique-se e intimem-se.
