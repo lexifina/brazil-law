@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos porVISION MED ASSISTENCIA MEDICA LTDAcontra decisão unipessoal que conheceu parcialmente do recurso especial e, nessa extensão, deu-lhe parcial provimento, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER E NÃO FAZER C/C REPETIÇÃO DE INDÉBITO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. PLANO DE SAÚDE. REAJUSTE POR SINISTRALIDADE. MATÉRIA SUBMETIDA A RECURSO REPETITIVO. RESP Nº 1.361.182/RS e RESP Nº 1.360.969/RS. PRAZO PRESCRICIONAL TRIENAL. ART. 206, § 3º, IV, DO CC/02. DEVOLUÇÃO DOS VALORES PAGOS A MAIS, OBSERVADO O TRIÊNIO QUE ANTECEDEU O AJUIZAMENTO DA DEMANDA.
+1. Ação de obrigação de fazer e não fazer c/c repetição de indébito. Reajuste por mudança de faixa etária em plano de saúde individual.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Nas relações jurídicas de trato sucessivo, quando não estiver sendo negado o próprio fundo de direito, pode o contratante, durante a vigência do contrato, a qualquer tempo, requerer a revisão de cláusula contratual que considere abusiva ou ilegal, seja com base em nulidade absoluta ou relativa. Porém, sua pretensão condenatória de repetição do indébito terá que se sujeitar à prescrição das parcelas vencidas no período anterior à data da propositura da ação, conforme o prazo prescricional aplicável.
+5. A pretensão de repetição do indébito somente se refere às prestações pagas a maior no período de três anos compreendidos no interregno anterior à data do ajuizamento da ação (art. 206, § 3º, IV, do CC/2002; art. 219, caput e § 1º, CPC/1973; art. 240, § 1º, do CPC/2015). Precedentes.
+6. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido.
+Em suas razões recursais, a parte embargante alega omissão quanto à necessidade de se determinar "que seja apurado o percentual adequado e razoável de majoração da mensalidade do contrato de Plano de Saúde da Autora, também as quantias a serem a esta restituídas, em fase de liquidação de sentença, observando-se, por analogia, o determinado pelo STJ no RESP nº 1.568.244/RJ". (e-STJ fl. 717)
+É O BREVE RELATÓRIO.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+Na hipótese, não ocorreu nenhum dos vícios mencionados. Efetivamente, nenhuma obscuridade, contradição, omissão ou erro material existe no corpo da decisão que justifique a oposição desse recurso, que, como é cediço, não se presta para o reexame da causa.
+Verifica-se que, ao contrário do quanto afirmado pelo embargante, da análise do recurso especial, não se vislumbra qualquer alegação quanto às questõesdo percentual adequado e dos valores a serem restituídos a serem apurados em fase de liquidação de sentença, mas tão somente a arguição sobre a questão do prazo prescricional, sendo, inclusive, este o único pedido recursal, nos exatos termos a seguir:
+Por todo o exposto, requer a Recorrente o PROVIMENTO do presente recurso, não havendo dúvidas de que o v. Acórdão violou o previsto no art. 206, § 1º, inciso II, alínea "b" do Código Civil, no art. 26, inciso II e no artigo 1º, § 2º, da Lei nº. 6.899/81,devendo haver a reforma do julgado para ser afastada a devolução dos valores cobrados em decorrência do reajuste. (e-STJ fl. 401)
+Na verdade, revela-se nítida a pretensão do embargante de se valer dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso. Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto erro de julgamento, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+Assim, dissociado, o pleito, de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. IMPOSSIBILIDADE.
+1. Rejeitam-se os embargos de declaração quando ausentes omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração norecurso especial rejeitados.
