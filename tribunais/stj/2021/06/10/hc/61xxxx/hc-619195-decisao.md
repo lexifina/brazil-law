@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor MAURICIO LUIZ DA SILVA contra acórdão do Tribunal de Justiça do Estado de São Paulo nos autos do HC n. 2213412-82.2020.8.26.0000.
+Consta dos autos que o Juízo da 2.ª Vara das Execuções Criminais e Infância e Juventude de Araçatuba/SP, no dia 31/08/2020, deferiu a progressão para o regime aberto ao Paciente, na modalidade de prisão albergue domiciliar, ressaltando que a "decisão somente deverá ser cumprida pela Unidade Prisional no dia em que atingido o requisito objetivo para o benefício, qual seja, 09/01/2021" (fl. 53; grifos originais).
+Irresignada com a data-base fixada para a progressão ao regime aberto, a Defesa do Apenado impetrou o writ originário no Tribunal de Justiça do Estado de São Paulo, que não conheceu da ordem, nos seguintes termos (fl. 58):
+"O pedido não pode ser conhecido, porque o remédio heroico, na definição de AIRES DA MATA, é, tão-só, a "ordem judicial de soltura de pessoa ilegalmente presa, ou para evitar que o seja", conforme assinala Damásio Evangelista de Jesus, ao comentar o artigo 647 do Estatuto de Rito (in "Código de Processo Penal Anotado", Saraiva, 2007, página 515).
+Ora, o paciente não está ilegalmente preso: cumpre pena. Então, se discordou da decisão proferida pelo Juiz da execução, deveria ter interposto o competente recurso, que é o Agravo de que trata o artigo 197 da Lei de Execução Penal.
+Portanto, o writ está sendo escancaradamente mal utilizado.
+Nestas condições, NÃO CONHEÇO do pedido."
+Defendem os Impetrantes "que a data-base para a progressão ao regime aberto é aquela em que o apenado preencheu o requisito objetivo para a progressão ao regime semiaberto, e não a data em que o Juízo concedeu o benefício ou a data da conclusão do exame criminológico do paciente (requisito subjetivo)" (fl. 4).
+Afirmam que "o Paciente requereu a progressão ao regime semiaberto em 24/01/2019 e, devido a ineficiência estatal, só foi submetido ao exame criminológico em 26/06/2019, demora de 06 (seis) meses sem nenhum ato protelatório a ele atribuível" (fl. 5).
+Buscam, assim, liminarmente, (fl. 18):
+" ..  seja concedida a ordem determinando que o juízo reanalise o pleito de progressão ao regime aberto nos termos expostos quanto ao aspecto objetivo, desconsiderando para qualquer fim a data em que foi deferida a progressão ao regime semiaberto ou a data da conclusão do exame criminológico do Paciente; no MÉRITO, requer a concessão da ordem para que seja definitivamente concedida ao Paciente a retificação do cálculo de penas e a consequente promoção ao regime aberto, por medida de justiça."
+Indeferi o pedido liminar às fls. 61-62 e o pedido de reconsideração da negativa do provimento urgente às fls. 89-91.
+As informações foram prestadas às fls. 71-87.
+O Ministério Público Federal opina não conhecimento da impetração, se conhecida, pela denegação da ordem às fls. 94-99.
+É o relatório. Decido.
+No caso, embora a efetiva transferência do Apenado esteja prevista para janeiro de 2021, a decisão do Juízo das Execuções observou a orientação do Superior Tribunal de Justiça no sentido de que, "quando da atualização do cálculo de penas, que a data-base para fins de progressão subsequente deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo" (fl. 53).
+Com efeito, a conclusão alcançada pela Corte estadual está em consonância com o entendimento desta Corte Superior de Justiça, no sentido de que a data-base para a concessão de nova progressão de regime é o dia em que o último requisito (objetivo ou subjetivo) do art. 112 da Lei n. 7.210/1984 estiver preenchido, tendo em vista que o dispositivo legal exige a concomitância de ambos para o deferimento do benefício.
+Ademais, uma vez constatada a necessidade de realização do exame criminológico para aferir a presença do requisito subjetivo, este somente pode ser considerado alcançado quando apresentado resultado favorável na referida diligência pericial.
+Sobre o tema, confiram-se:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. TERMO INICIAL PREENCHIMENTO DOS REQUISITOS LEGAIS. ART. 112 DA LEP. REQUISITO SUBJETIVO. REALIZAÇÃO DO EXAME CRIMINOLÓGICO. IMPLEMENTAÇÃO APÓS LAPSO TEMPORAL NECESSÁRIO (REQUISITO OBJETIVO). AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Dessarte, em respeito ao princípio da individualização da pena, a fixação da data-base para futuras progressões dar-se-á caso a caso, quando implementado o último pressuposto pendente, seja ele o subjetivo - na hipótese de ter sido superado o lapso temporal necessário - ou o objetivo - se já preenchido o requisito subjetivo.
+4. Assim, "sendo determinada a realização de exame criminológico, reputa-se preenchido o requisito subjetivo no momento da realização do exame favorável ao paciente, razão pela qual deve ser considerado como data-base para nova progressão, mesmo estando o requisito objetivo preenchido em momento anterior. Caso dos autos. Precedente: HC 414.156/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 21/11/2017, DJe 29/11/2017" (AgRg no HC 620.573/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/12/2020, DJe 07/12/2020).
+5. Agravo regimental não provido." (AgRg no HC 635.901/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/03/2021, DJe 15/03/2021, sem grifos no original).
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DATA-BASE. REQUISITOS OBJETIVO E SUBJETIVO. PREENCHIMENTO.
+1. Consolidou-se o entendimento segundo o qual a data-base da progressão de regime é o dia do preenchimento dos requisitos objetivo e subjetivo do anterior benefício. Precedentes.
+2. Na hipótese, o Tribunal de origem estabeleceu como marco a data em que verificado o requisito subjetivo, quando apresentado exame criminológico favorável ao apenado.
+3. Agravo regimental desprovido." (AgRg no HC 613.998/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020, sem grifos no original).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. PROGRESSÃO PARA O REGIME ABERTO. TERMO INICIAL EM QUE EFETIVAMENTE FORAM IMPLEMENTADOS OS REQUISITOS OBJETIVO E SUBJETIVO, E NÃO A DATA DA EFETIVA INSERÇÃO NO REGIME INTERMEDIÁRIO. CONSTRANGIMENTO ILEGAL INEXISTENTE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Sendo determinada a realização de exame criminológico, reputa-se preenchido o requisito subjetivo no momento da realização do exame favorável ao paciente, razão pela qual deve ser considerado como data-base para nova progressão, mesmo estando o requisito objetivo preenchido em momento anterior. Caso dos autos. Precedente: HC 414.156/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 21/11/2017, DJe 29/11/2017.
+4. Agravo regimental a que se nega provimento." (AgRg no HC 620.573/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/12/2020, DJe 07/12/2020, sem grifos no original).
+Portanto, o entendimento adotado no acórdão impugnado está em harmonia com a jurisprudência desta Corte, não havendo nenhum constrangimento ilegal.
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. TERMO INICIAL PARA PROGRESSÃO DE REGIME. DATA DO PREENCHIMENTO DO ÚLTIMO DOS REQUISITOS LEGAIS. ART. 112 DA LEI N. 7.210/1984. JURISPRUDÊNCIA PACÍFICA DO SUPERIOR TRIBUNAL DE JUSTIÇA CONCLUSÃO DO EXAME CRIMINOLÓGICO. NECESSIDADE PARA AFERIR O REQUISITO SUBJETIVO. ORDEM DE HABEAS CORPUS DENEGADA.
