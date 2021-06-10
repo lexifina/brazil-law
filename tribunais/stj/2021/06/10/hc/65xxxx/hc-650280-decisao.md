@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de LUIZ AUGUSTO OLIVEIRA DA ROSA , contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul no julgamento do HC n. 0006498-73.2021.821.7000.
+Extrai-se dos autos que o paciente foi preso em flagrante no dia 23/4/2020 por ter supostamente praticado os delitos tipificados nos artigos 33 e 35, c/c art. 40, inciso III, todos da Lei n. 11.343/2006 (tráfico de entorpecentes e associação para o narcotráfico majorados). Referida custódia foi convertida em preventiva e o pedido de liberdade provisória, após manifestação contrária do Ministério Público, foi indeferido.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. TRÁFICO DE ENTORPECENTES, PRISÃO PREVENTIVA, MEDIDA QUE SE IMPÕE. DETENÇÃO PROVISÓRIA MANTIDA. Mantém-se a prisão preventiva motivada na garantia da ordem pública. O paciente, reincidente específico, foi preso em flagrante com outras pessoas e na posse de boa quantidade de entorpecentes. Como é consabido, o tráfico de entorpecentes e seus autores, direta ou indiretamente, são os responsáveis pela quase totalidade da violência que se vem alastrando de maneira incontrolável pelo País, alarmando e intranquilizando toda a população. Os traficantes, seja qual o seu "status" na organização, são pessoas perigosas, porque, além de disseminarem a droga, atuam como o "exército" do traficante maior, agindo com violência contra rivais, usuários-devedores, testemunhas etc. A traficância também tumultua a ordem pública, porque leva os usuários a cometimento de outros delitos, em particular os crimes contra o patrimônio, para obterem bens que lhes permitam a compra de entorpecentes. Portanto, é de se manter a prisão provisória do paciente para garantia da ordem pública. Habeas corpus denegado" (fl. 528).
+No presente mandamus, alega que a prisão em flagrante foi convertida em preventiva de ofício pelo magistrado de primeiro grau, providência vedada pela nova redação do art. 311 do Código de Processo Penal.
+Sustenta, ainda, que o decreto prisional carece de fundamentação idônea e que não estão presentes os requisitos autorizadores da custódia cautelar, previstos no art. 312 do CPP. Assevera que os antecedentes criminais do paciente não são suficientes para justificar a imposição da medida extrema.
+Aduz excesso de prazo para a formação da culpa, porquanto a custódia cautelar perdura por quase um ano sem que tenha sido concluída a instrução. Ressalta, por fim, as condições pessoais favoráveis do paciente.
+Requer, assim, em liminar e no mérito, a expedição de alvará de soltura, ainda que mediante aplicação de medidas cautelares alternativas, nos termos do art. 319 do CPP. Subsidiariamente, pleiteia a conversão da prisão preventiva em domiciliar para tratamento médico.
+O pedido liminar foi indeferido (fls. 546/548). As informações foram prestadas pelas instâncias ordinárias (fls. 552/554 e 555/582).
+O Ministério Público Federal opinou pelo não conhecimento do wirt e, caso conhecido, pela denegação da ordem (fls. 591/595).
+É o relatório.
+Decido.
+O presente habeas corpus encontra-se prejudicado.
+Isso porque, em consulta ao sítio eletrônico do Tribunal de origem, verificou-se que em 1º/4/2021, nos autos da Ação Penal n. 008/2.20.0005927-9, que aqui se trata, o Magistrado de primeiro grau concedeu liberdade provisória ao paciente, expedindo o alvará de soltura na mesma data.
+Assim, diante do novo contexto fático, evidente a perda do objeto da presente impetração nesta Corte.
+Ante o exposto, com fulcro no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimações necessárias.
