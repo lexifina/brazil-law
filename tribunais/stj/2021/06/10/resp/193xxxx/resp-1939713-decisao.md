@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e/ou "c", da Constituição Federal, contra acórdão proferido pelo TRF da 4Região, assim ementado (fl. 40):
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EMPRESA EM RECUPERAÇÃO JUDICIAL. PRÁTICA DE ATOS CONSTRITIVOS. SUSPENSÃO DO FEITO. TEMA 987 DO STJ.
+1. O Superior Tribunal de Justiça selecionou os Recursos Especiais1.712.484, 1.694.316, e 1.694.261 para julgamento pela sistemática dos recursos repetitivos e determinou a suspensão em todo o território nacional dos feitos em que se discute a "Possibilidade da prática de atos constritivos, em face de empresa em recuperação judicial, em sede de execução fiscal".
+2. Assim, deve haver a suspensão não só de constrições, mas também da própria execução fiscal. Ademais, o Superior Tribunal de Justiça não fez distinção acerca do prosseguimento dos atos executivos em relação aos bens não abrangidos pelo plano de recuperação judicial, razão pela qual o processo deve ficar suspenso até a definição do Tema 987 por aquela Corte.
+3. Considerando que a execução se desenvolve precipuamente no interesse do credor, cabe à exequente empreender medidas à persecução do crédito tributário, não havendo ilegalidade na decisão que determina que a agravante informe nos autos o julgamento do Tema 987 pelo Superior Tribunal de Justiça.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 1.022do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito da tese de que "compete aos juízes federais nos termos do art. 109, I da CF, uma vez julgado paradigma determinar o retorno ao curso normal nos termos do art. 1040, III do CPC para julgamento e aplicação da tese repetitiva firmada", de modo a ser"equivocado atribuir-se ao credor o controle de quando e o momento de determinar o retorno do processo ao curso normal".
+Quanto à questão de fundo, sustenta ofensa ao artigo 1.040, III,do CPC/2015, requerendo a reformado acórdão regional para determinar que o juiz de primeiro grau faça o controle do julgamento da tese repetitiva, e não ao credor.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 95-96.
+É o relatório. Passo a decidir.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+É o que se evidencia da fundamentação que ora transcrevo:
+Ademais, a execução dá-se precipuamente no interesse do credor, cabendo à exequente empreender medidas à persecução do crédito tributário, não havendo ilegalidade na decisão que determinou que a agravante informe aos autos o julgamento do Tema nº 987 pelo STJ.
+Frise-se que a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro Og Fernandes, Corte Especial, DJe 3/8/2016).
+No caso dos autos, o recorrente apresentou argumentos genéricos, vagos a respeito da suposta ofensa aoartigo1.040, III, do CPC/2015, e que se encontram dissociados dos fundamentos aplicados pelo acórdão recorrido, que consignou que não há ilegalidade em se determinar que o exequenteempreenda as medidas necessárias à persecução do crédito. Talsituação não permite a exata compreensão da controvérsia e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC2015. NÃO OCORRÊNCIA.DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
