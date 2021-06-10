@@ -1,0 +1,51 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por NOTREDAME INTERMÉDICA SAÚDE S/A contra o acórdão do Egrégio Tribunal deJustiça do Estado de São Paulo, cuja ementa está assim redigida:
+PLANO DE SAÚDE. PEDIDO DE COBERTURA DE TRATAMENTO MULTIDISCIPLINAR (PSICOLOGIA COMPORTAMENTAL; TERAPIA OCUPACIONAL; FONOAUDIOLOGIA; PSICOPEDAGOGIA; EQUOTERAPIA; E MUSICOTERAPIA) PRESCRITO À AUTORA, MENOR PORTADORA DE TRANSTORNO DE ESPECTRO AUTISTA. TRATAMENTO QUE NÃO CONSTA DO ROL DE PROCEDIMENTOS E EVENTOS EM SAÚDE DA ANS. IRRELEVÂNCIA. JURISPRUDÊNCIA QUE SE VEM ORIENTANDO PELO RECONHECIMENTO DA ABUSIVIDADE DAS CLÁUSULAS DE EXCLUSÃO DE COBERTURA EM TAIS HIPÓTESES. PRECEDENTES DO STJ E SÚMULA 102 DO TJSP. COBERTURA DEVIDA. SENTENÇA MANTIDA. RECURSO IMPROVIDO
+Em suas razões recursais, além de dissídio, a recorrente alega afronta aos arts.369 do Código de Processo Civil;10, I, § 4ºe 16, VI,da Lei 9.656/98. Sustenta: (i) cerceamento de defesa diante do julgamento antecipadodo feito sem a produção de prova pericial sobre a natureza das terapias pleiteadas; (ii)a ausência de obrigatoriedade para cobertura de tratamentoexperimental não previstono rol da ANS.
+O recurso foi admitido na origem.
+É o relatório.
+Passo a decidir.
+No tocante à controvérsia acerca da negativa de cobertura ao custeio do tratamento, a Corte estadual concluiu:
+Resta saber se, ainda que experimentais os tratamentos prescritos à autora, a operadora do plano de saúde ainda assim estaria obrigada a sua cobertura. E a resposta, na espécie, só pode ser afirmativa.
+(..)
+Não bastasse, o Colendo Órgão Especial desta Corte aprovou recentemente súmulas que versam sobre questões relacionadas ao plano de saúde e firmou entendimento no sentido de que "Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS" (Súmula 102).
+Logo, a fim de evitar prolongamento da lide com a interposição de novos recursos, e levando em conta o interesse das partes, curva-se este Relator ao entendimento majoritário para manter a procedência do pedido cominatório.
+Em suma, mantém-se a condenação da ré à cobertura do tratamento prescrito à autora, por prazo indeterminado, na forma prescrita por seu médico assistente (fl. 25). (e-STJ fls. 426/428)
+Verifica-se que o entendimento do Tribunal de origem está em sintonia com a jurisprudência desta TURMA, conforme ilustram os seguintes julgados:
+CIVIL E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO EXPERIMENTAL. RECUSA DE COBERTURA.IMPOSSIBILIDADE. ROL DA ANS. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DOMINANTE DO STJ. SÚMULA Nº 568 DO STJ.COPARTICIPAÇÃO. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF. DANO MORAL. CONFIGURAÇÃO.REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO INTERPRETIVO PREJUDICADO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O entendimento dominante nesta Corte é de que o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica indicada por profissional habilitado na busca da cura, sendo abusiva a cláusula contratual que exclui tratamento, procedimento ou material imprescindível, prescrito para garantir a saúde ou a vida do beneficiário, inclusive os experimentais, ou ainda não previstos em rol da ANS.
+3. Em que pese a existência de precedente da eg. Quarta Turma entendendo ser legítima a recusa de cobertura com base no rol de procedimentos mínimos da ANS, esta eg. Terceira Turma, no julgamento do REsp nº 1.846.108/SP, Rel. Ministra NANCY ANDRIGHI, julgado aos 2/2/2021, reafirmou sua jurisprudência no sentido do caráter exemplificativo do referido rol de procedimentos. Incidência, à hipótese, da Súmula nº 568 do STJ.
+4.  ..
+7. Agravo interno não provido.
+(AgInt no REsp 1929629/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/05/2021, DJe 28/05/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER.PLANO DE SAÚDE. AUTISMO INFANTIL. TRATAMENTO MÉDICO. NÚMERO DE SESSÕES. LIMITAÇÃO CONTRATUAL. ABUSIVIDADE. SESSÕES EXCEDENTES.REGIME DE COPARTICIPAÇÃO. LIMITE MÁXIMO. PROCEDIMENTOS MÍNIMOS. ANS.ROL EXEMPLIFICATIVO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que são abusivas as cláusulas contratuais que impõem limitações ou restrições aos tratamentos médicos prescritos para doenças cobertas pelos contratos de assistência e seguro de saúde dos contratantes, cabendo apenas ao profissional habilitado - e não ao plano de saúde - definir a orientação terapêutica a ser dada ao paciente.
+3. É abusiva a limitação do contrato de plano de saúde em relação ao número de sessões de psicologia, terapia ocupacional, fonoaudiologia e psicoterapia para o tratamento contínuo de autismo infantil.
+4. O número de sessões excedentes ao mínimo coberto deverá ser custeado em regime de coparticipação, como forma de garantir o equilíbrio contratual, prezando-se pela continuidade do tratamento necessário ao paciente sem impor ônus irrestrito à operadora do seu custeio.
+5. O percentual da coparticipação deve ser estabelecido até o limite máximo de 50% (cinquenta por cento) do valor do contrato com o prestador, sendo aplicado, por analogia, o art. 22, II, "b", da RN ANS nº 387/2015, que estava vigente à época do tratamento.
+6. O rol de procedimentos mínimos regulamentos pela Agência Nacional de Saúde Suplementar (ANS) é meramente exemplificativo, podendo o médico prescrever o procedimento ali não previsto de forma fundamentada, desde que seja necessário ao tratamento de doença coberta pelo plano de saúde.
+7. Agravo interno não provido.
+(AgInt no REsp 1870789/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/05/2021, DJe 24/05/2021) g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AUTOGESTÃO. RECUSA DE COBERTURA A PROCEDIMENTO PRESCRITO PELA EQUIPE MÉDICA. ABUSIVIDADE. ALEGAÇÃO DE PROCEDIMENTO NÃO PREVISTO NO ROL DA ANS. IRRELEVANTE. ENUMERAÇÃO EXEMPLIFICATIVA. PRECEDENTES. DANO MORAL CONFIGURADO. REVISÃO SÚMULA 7/STJ.
+1. Descabida a negativa de cobertura de procedimento indicado pelo médico como necessário para preservar a saúde e a vida do usuário do plano de saúde.
+2. O fato de o procedimento não constar no rol da ANS não significa que não possa ser exigido pelo usuário, uma vez que se trata de rol exemplificativo.
+3. Verificado pela Corte de origem, com suporte nos elementos probatórios dos autos, que a recusa da operadora do plano de saúde em custear o tratamento para o câncer em estado avançado ocasionou danos morais.
+4. O acolhimento do recurso, quanto à inexistência de dano moral, demandaria o vedado revolvimento do substrato fático-probatório constante dos autos, a teor da Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1442296/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 23/03/2020, DJe 25/03/2020) g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO PRESCRITO PELO MÉDICO. 1. DOENÇA ABRANGIDA PELO CONTRATO. LIMITAÇÃO DAS SESSÕES TERAPÊUTICAS. CONDUTA ABUSIVA. INDEVIDA NEGATIVA DE COBERTURA. SÚMULA 83/STJ. 2. COPARTICIPAÇÃO. INVIABILIDADE. REEXAME PROBATÓRIO. SÚMULA 7/STJ. 3. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte Superior já sedimentou entendimento no sentido de que "não é cabível a negativa de tratamento indicado pelo profissional de saúde como necessário à saúde e à cura de doença efetivamente coberta pelo contrato de plano de saúde". E o "fato de eventual tratamento médico não constar do rol de procedimentos da ANS não significa, per se, que a sua prestação não possa ser exigida pelo segurado, pois, tratando-se de rol exemplificativo, a negativa de cobertura do procedimento médico cuja doença é prevista no contrato firmado implicaria a adoção de interpretação menos favorável ao consumidor" (AgRg no AREsp 708.082/DF, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 16/2/2016, DJe 26/2/2016).
+2. No que tange ao pedido de cobrança de coparticipação, a revisão da conclusão quanto à responsabilidade ao custeio integral do tratamento prescrito não prescinde do reexame fático-probatório dos autos, procedimento vedado pelo óbice da Súmula n. 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1532303/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/02/2020, DJe 13/02/2020) g.n.
+Registre-se, por oportuno, em que pese o precedente da eg. Quarta Turma reconhecendo que seria legítima a recusa de cobertura com base no rol de procedimentos da ANS, prevalece nesta eg. Terceira Turma o entendimento no sentido do caráter exemplificativo do referido rol.
+Por outro lado,quanto à tese de cerceamento de defesa, verifica-se que não foi objeto de exame pelo acórdão recorrido, tampouco oposição dos embargos de declaração, estando ausente o necessário prequestionamento, fazendo incidir a orientação disposta na Súmula 282 do STF.
+Por fim, com fundamento no §11 do art. 85 do CPC, majoro os honorários de advogado a que condenada a parte requeridana origem em R$ 400,00,observada a eventual e anterior concessão da gratuidade judiciária.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão,nego-lhe provimento.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. ROL DA ANS. EXEMPLIFICATIVO. TRATAMENTO EXPERIMENTAL.ABUSIVIDADE. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO DESTA TERCEIRA TURMA. CERCEAMENTO DE DEFESA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF.
+RECURSO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
