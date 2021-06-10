@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado Santa Catarina, assim ementado (eDOC 4, p. 81):
+    “PENAL. PROCESSUAL PENAL. APELAÇÃO CRIMINAL. CRIME CONTRA A SAÚDE PÚBLICA. TRÁFICO DE DROGAS. (LEI 11.343/2006, ART. 33, CAPUT). SENTENÇA ABSOLUTÓRIA. RECURSO DA ACUSAÇÃO. MATERIALIDADE NÃO IMPUGNADA. NATUREZA E QUANTIDADE DE ENTORPECENTES SUFICIENTE A REVELAR SUA DESTINAÇÃO AO TRÁFICO. DISCUSSÃO ACERCA DA AUTORIA DELITIVA. CONJUNTO PROBATÓRIO APTO A REVELAR O VÍNCULO ENTRE A DROGA LOCALIZADA EM TERRENO PRÓXIMO AO IMÓVEL DO RÉU. AÇÃO POLICIAL PRECEDIDA DE INVESTIGAÇÃO PRÉVIA. REAÇÃO DO RÉU AO IMPEDIR O INGRESSO DA FORÇA POLICIA SOMADA A APREENSÃO DE GARRAFA TÉRMICA CONTENDO O PRODUTO ESTUPEFACIENTE. ARTEFATO DO MESMO MODELO ENCONTRADO NA CASA DO RÉU. SENTENÇA REFORMADA. RECURSO PROVIDO.”
+    No recurso extraordinário, interposto com base no art. 102, III, a, do permissivo constitucional, aponta-se violação ao art. 5º, II, da Constituição da República, bem como a dispositivos da legislação infraconstitucional penal.
+    Nas razões recursais, sustenta-se que o acordão recorrido afrontou diretrizes impostas pela legislação processual penal e que fixou o decreto condenatório com base exclusivamente no depoimento dos policiais. Articula acerca da ausência de provas, além de assentar que a instrução processual deixou de observar a norma legal aplicável à espécie.
+    No mais, questiona a metodologia utilizada na dosimetria da pena, notadamente em relação às circunstâncias judiciais e ao aumento de pena promovido na primeira fase, asseverando que “o patamar de aumento de pena de 1/6 deve ser modificado, pelo que há que ser considerado para cada circunstância judicial do art. 59 do Código Penal, apenas a possibilidade de aumento de uma fração de 1/8, em razão da existência de oito circunstâncias judiciais” (eDOC 4, p. 147/148).
+    O Tribunal de origem inadmitiu o extraordinário mediante aplicação das Súmulas 282 e 356 do STF, bem como pela ofensa reflexa à Constituição Federal (eDOC 5, p. 30-32).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, observa-se que o Supremo Tribunal Federal já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional. (ARE-RG 748.371, da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013, Tema 660 da sistemática da RG)
+    Da mesma forma, importa destacar, no que diz respeito à individualização da pena, decisão desta Corte no sentido de que não possui repercussão geral o tema acerca da valoração das circunstâncias judiciais previstas no art. 59 do Código Penal na fundamentação da fixação da pena-base pelo juízo sentenciante (AI 742.460, Rel. Min. Cezar Peluso, DJe 25.09.2009, Tema 182).
+    Por fim, verifico que eventual divergência em relação ao entendimento adotado pelo Tribunal de origem demandaria o reexame dos fatos e provas constantes dos autos, o que inviabiliza o processamento do extraordinário, tendo em vista o óbice da Súmula 279 do STF.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 10 de junho de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
