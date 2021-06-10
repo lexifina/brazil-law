@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por NORBERTO DO PRADO AUGUSTOcom respaldo na alínea "a" do permissivo constitucionalcontra acórdão do Tribunal Regional Federal da 4ª Regiãoassim ementado (e-STJ fl. 287):
+AÇÃO ORDINÁRIA. RESPONSABILIZAÇÃO TRIBUTÁRIA.CANCELAMENTO DE REGISTRO EM JUNTA COMERCIAL APÓS CONTESTAÇÃO. IMEDIATO RECONHECIMENTO DA PROCEDÊNCIA DO PEDIDO. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.CAUSALIDADE.
+Com base no princípio da causalidade, descabe condenar a ré em honorários advocatícios quando o redirecionamento de execução fiscal contra o autor teve por fundamento registro de Junta Comercial somente cancelado após a apresentação da contestação, ao que se seguiu imediato reconhecimento da procedência do pedido.
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões, orecorrente aponta violação dosarts. 85,90 e 1.022, do Código de Processo Civil/2015.
+Alega, preliminarmente, que houve negativa de prestação jurisdicional, pois o Tribunal de origem não se manifestou sobre os dispositivos legais indicados.
+Sustenta que os ônus pelo pagamento dos honorários advocatícios devem ser imputados à Fazenda Nacional, que deu causa à instauração da demanda, conforme o princípio da causalidade.
+Contrarrazões apresentadas (e-STJ fls. 351/353).
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 356/357.
+Passo a decidir.
+De inicio, registro que o Superior Tribunal de Justiça firmou o entendimento de que não há violação ao art. 1.022 do CPC/2015, muito menos negativa de prestação jurisdicional, quando o acórdão decide de forma clara e integral a controvérsia, adotando fundamentação suficiente, não se confundindo decisão desfavorável com negativa de prestação jurisdicional.
+Acerca do tema, conferir, ainda: AgInt no AREsp 1168812/RS, rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/08/2018, DJe 24/08/2018 e EDcl no AgInt no REsp 1276901/PR, rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/08/2018, DJe 28/08/2018.
+No caso, o Tribunal a quo decidiu de forma suficientemente fundamentada sobre o tema apontado como olvidado (e-STJ fls. 290 e 322/323).
+No mais, a pretensão recursal não comporta conhecimento.
+Com efeito,a Primeira Seção doSTJ, ao julgar o REsp. 1.111.002/SP, sob o rito do art. 543-C do CPC/1973 (recursos repetitivos), firmou compreensão no sentido de que, extinta a execução fiscal após a citação do executado, os honorários advocatícios serão arbitrados em desfavor de quem deu causa à demanda,à luz doprincípio da causalidade (REsp 1111002/SP, rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 23/09/2009, DJe 01/10/2009).
+No caso, o TRF da 5ª Região, soberano nas circunstância fáticas da causa, pontuou o seguinte (e-STJ fl. 290):
+A União não pode ser penalizada pelo redirecionamento da execução fiscal contra o autor, uma vez que o pedido se baseou em ata de assembleia geral extraordinária arquivada na Junta Comercial do Estado do Paraná - JUCEPAR, a qual dava conta da nomeação do autor para o cargo de diretor estatutário da sociedade executada.
+De fato, até o trânsito em julgado da ação que determinou o cancelamento do registro pela JUCEPAR, não se podia exigir comportamento diverso da União na busca do crédito que lhe é devido. Mesmo porque as provas trazidas pelo autor não eram suficientes para comprovar as suas alegações, sobretudo tendo em vista as decisões judiciais proferidas em processo trabalhista, trazidas aos autos pela União, que davam conta de que o autor havia admitido ter sido diretor da sociedade temporariamente (evento 14, anexo2 e anexo3).
+Ademais, tão logo teve ciência do trânsito em julgado da ação que determinou o cancelamento do registro, a União reconheceu a procedência do pedido, não oferecendo resistência indevida.
+Nesse contexto, não cabe ao Superior Tribunal de Justiça rever a conclusão adotada pelo Tribunal de origem, quanto ao princípio da causalidade, por implicar o revolvimento do contexto fático-probatório, inviável em sede de recurso especial à luz da Súmula 7 do STJ.
+A propósito, destaco precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. SUCUMBÊNCIA. EXECUÇÃO FISCAL. EMBARGOS DO DEVEDOR EXTINTO EM RAZÃO DA LITISPENDÊNCIA. CONDENAÇÃO DO EMBARGANTE EM HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. PRINCÍPIO DA CAUSALIDADE. REVISÃO. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Inexiste a alegada violação ao art. 1.022 do CPC/2015, visto que a Corte de origem julgou integralmente a lide e solucionou, de maneira clara e amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. Segundo entendimento do STJ, "no caso de os embargos do devedor opostos contra execução fiscal serem extintos, sem resolução do mérito, em razão de litispendência com ação anulatória, na qual não houve suspensão da exigibilidade do crédito tributário, os honorários advocatícios devem ser suportados pela parte executada.
+Precedente: REsp 1040781/PR, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 17/03/2009" (AgRg no REsp 1.269.192/SC, Rel. Min.
+Benedito Gonçalves, DJe 27.5.2013).
+3. Ademais, no presente caso, o Tribunal a quo aplicou os ônus da sucumbência com base no princípio da causalidade, asseverando: "Com efeito, a ação anulatória já foi julgada, não tendo razão a parte agravante ao requerer o julgamento de mérito quando outra ação judicial já tratou da mesma questão. No tocante aos honorários advocatícios, a parte embargante deu causa ao ajuizamento da ação, razão pela qual deve arcar com os ônus sucumbenciais" (fl. 972, e-STJ).
+4. Pelas circunstâncias apontadas pelo Tribunal de origem, é evidente que, para alterar a conclusão alcançada no acórdão recorrido, averiguando-se a adequação do princípio da causalidade para a fixação dos honorários advocatícios, é necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme a Súmula 7/STJ.
+5. Agravo Interno não provido.
+(AgInt no AREsp 1660923/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/10/2020, DJe 12/11/2020)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AÇÃO ANULATÓRIA DE DÉBITOS. EXTINÇÃO DO FEITO APÓS A CITAÇÃO E APRESENTAÇÃO DE DEFESA. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. REVISÃO QUE DEMANDA, NA ESPÉCIE, O REVOLVIMENTO DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS.IMPOSSIBILIDADE NESTA VIA EXCEPCIONAL. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. O STJ, ao julgar o REsp. 1.111.002/SP, mediante o rito do art.
+543-C do CPC/1973, entendeu que, extinta a Execução Fiscal após a citação do devedor, deve-se perquirir quem deu causa à demanda a fim de imputar-lhe o ônus pelo pagamento dos honorários, em face do princípio da causalidade (Rel. Min. MAURO CAMPBELL MARQUES, DJe 1o.10.2009).
+2. No presente caso, o Tribunal de origem entendeu que a Fazenda quem deu causa ao ajuizamento da demanda, ao consignar que: se o Fisco dispunha dos meios necessários para verificar a existência do aludido indébito e proceder à quitação dos débitos apontados pelo contribuinte, é imperiosa a sua condenação ao pagamento dos encargos da sucumbência (fls. 536). Assim, para rever tal conclusão, necessário o revolvimento do suporte fático-probatório dos autos, o que é vedado em Recurso Especial.
+3. Agravo Interno da FAZENDA NACIONAL a que se nega provimento.
+(AgInt nos EDcl no AREsp 1667984/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 13/10/2020, DJe 16/10/2020)
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
