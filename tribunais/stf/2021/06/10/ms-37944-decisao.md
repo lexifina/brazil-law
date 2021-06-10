@@ -1,0 +1,27 @@
+DECISÃO
+MANDADO DE SEGURANÇA CONTRA O PRESIDENTE DO SUPERIOR TRIBUNAL MILITAR. AL. D DO INC. I DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. MANDADO DE SEGURANÇA NÃO CONHECIDO.
+Relatório
+    1. Mandado de segurança, com requerimento de medida liminar, impetrado em 31.5.2021, por Odilson Riquelme, “em face ao Acórdão em Agravo Interno (Evento 32), apontando como autoridade impetrada o PRESIDENTE DO SUPERIOR TRIBUNAL MILITAR” (fl. 1, e-doc. 1).
+O caso
+    2. O impetrante informa a interposição de “agravo Interno em face da Decisão Monocrática (Evento 14) que inadmitiu o Recurso Extraordinário e seu posterior encaminhamento para o Egrégio Supremo Tribunal Federal” (fl. 3, e-doc. 1) pela ausência de repercussão geral. Transcreve a íntegra do agravo (fls. 4-22, e-doc. 1) e do acórdão proferido pelo Superior Tribunal Militar (fls. 24-30, e-doc. 1), apontado como ato coator.
+    Sustenta a tempestividade e o cabimento do mandado de segurança, asseverando que “o Acórdão guerreado deve ser modificado para CONCEDER A SEGURANÇA no sentido de dar provimento ao Agravo Interno, admitindo o Recurso Extraordinário e seu posterior encaminhamento para o Egrégio Supremo Tribunal Federal, pois o Acórdão guerreado negou seguimento ao Recurso Extraordinário na forma do artigo 1.030, inciso I, do Código de Processo Civil, por considerar aplicável à espécie o entendimento firmado pelo Supremo Tribunal Federal quando do tema 660”, qual seja, “a questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e os limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do procedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009” (fl. 31, e-doc. 1).
+    Conclui que “o tema supra não impede o enfrentamento da questão na via extraordinária, pois o Acórdão guerreado violou o artigo 5º, LV, da Constituição, QUANDO deixou de apreciar a prova técnica (fls.213/238) CERCEANDO o direito de defesa do Impetrante, pois a Prova Técnica (Laudo Pericial Contábil - fls.213/238) não foi apreciada e atesta que o fato, objeto da lide, não constitui crime” (fl. 31, e-doc. 1).
+    Requer “seja determinado liminarmente o efeito suspensivo dos autos em referência até o julgamento do mérito no Mandado de Segurança por esta Corte” (fl. 35, e-doc. 1).
+    Pede “seja concedida a segurança no sentido de confirmar as preliminares arguidas determinando a reforma do Acórdão guerreado para dar provimento ao Agravo Interno, para admitir o Recurso Extraordinário e seu posterior encaminhamento ao Egrégio Supremo Tribunal Federal” (fl. 36, e-doc. 1).
+    3. Em 4.6.2021, o processo veio-me distribuído por prevenção nos termos do art. 69 do Regimento Interno deste Supremo Tribunal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O presente mandado de segurança não cumpre os requisitos legais para ter seguimento válido neste Supremo Tribunal.
+    O ato apontado coator é acórdão do Superior Tribunal Militar, sendo esse órgão judicial a autoridade apontada coatora.
+    5. Na al. d do inc. I do art. 102 da Constituição da República, dispõe-se ser este Supremo Tribunal competente para conhecer e julgar mandado de segurança:
+    “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    d) (...) o mandado de segurança e o habeas-data contra atos do Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal”.
+     No rol dos casos submetidos pela Constituição da República à competência originária do Supremo Tribunal Federal não se inclui a atribuição de processar e julgar originariamente mandado de segurança no qual figure como autoridade coatora o Presidente do Superior Tribunal Militar.
+     A matéria não admite discussão mínima por se cuidar de norma de competência constitucional expressa, incabível, portanto, interpretação extensiva.
+    Confiram-se, por exemplo, os seguintes julgados: Mandado de Segurança n. 22.041-AgR/BA, Relator o Ministro Celso de Mello; Mandado de Segurança n. 21.559-AgR/DF, Relator o Ministro Moreira Alves; Mandado de Segurança n. 21.250/DF, Relator o Ministro Néri da Silveira; Mandado de Segurança n. 32.748/AP, de minha relatoria; Mandado de Segurança n. 30.193-AgR/DF, Relator o Ministro Celso de Mello; Mandado de Segurança n. 25.170-AgR/DF, Relator o Ministro Cezar Peluso; Mandado de Segurança n. 36.009/MA, Relator o Ministro Roberto Barroso, decisão monocrática, DJe 27.9.2018; e Mandado de Segurança n. 36.453, Relator o Ministro Ricardo Lewandowski, decisão monocrática, DJe 9.5.2019.
+    6. No julgamento dos Embargos de Declaração no Mandado de Segurança n. 25.087/SP, Relator o Ministro Ayres Britto, DJ 11.5.2007, o Plenário deste Supremo Tribunal decidiu que, negado seguimento ao mandado de segurança por incompetência manifesta, o encaminhamento dos autos ao Tribunal competente ocorreria somente em situação de iminente risco de perecimento de direito, o que não foi demonstrado na espécie.
+    7. Pelo exposto, não conheço do mandado de segurança (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de junho de 2021.
+Ministra CÁRMEN LÚCIA
+Relatora
