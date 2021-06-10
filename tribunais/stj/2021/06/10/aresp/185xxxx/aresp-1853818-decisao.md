@@ -1,0 +1,84 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de Masilia de Godoy Martins Lopes, fundado nas alíneas "a" e "c" do permissivo constitucional e interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+TRIBUTÁRIO APELAÇÃO AÇÃO DECLARATÓRIA C.C. REPETIÇÃO DE INDÉBITO TAXA DE CONSERVAÇÃO DE VIAS E LOGRADOUROS, TAXA DE LIMPEZA PÚBLICA E TAXA DE BOMBEIRO MUNICÍPIO DE JAHU Sentença que julgou parcialmente procedente o pedido, reconhecendo a inexigibilidade da taxa de conservação de vias e logradouros públicos e taxa de bombeiros. Apelo da autora
+TAXA DE LIMPEZA PÚBLICA Lei Complementar Municipal no 185/2002 que alterou a redação do artigo 97 do Código Tributário Municipal, passando a ter como fato gerador apenas a coleta e remoção de lixo domiciliar Equivocada alteração no Código Tributário Municipal (Lei Municipal no 2.288/1984), que ao invés de ter substituído por completo o artigo 97, manteve o parágrafo único da redação anterior, misturando as duas redações, causando confusão entre a anterior descrição da taxa de limpeza pública e a atual
+Correção realizada por meio do Decreto Municipal n. 5.779/2008, que consolidou o Código Tributário Municipal em um único diploma Nova redação que retirou da hipótese de incidência do tributo a varrição, a lavagem e a capinação das vias e logradouros, passando a remunerar serviço público específico e divisível Supremo Tribunal Federal que já teve a oportunidade de reconhecer a constitucionalidade da referida taxa municipal (Reclamações no 22011/SP e 22095/SP) Constitucionalidade da cobrança Aplicação das Súmulas Vinculantes no. 19 e 29 Precedentes desta C. Câmara em casos análogos.Sentença mantida Recurso desprovido.
+Opostos embargos de declaração, foram eles rejeitados.
+No recurso especial, a recorrente alega, além do dissídio jurisprudencial,violação dos seguintes dispositivos: a) art. 77 do Código Tributário Nacional, sustentando a ilegalidade da cobrança da taxa de limpeza pública na medida em que, para a sua cobrança,considera-se como serviços de limpeza pública a varrição, a lavagem e a capinação das vias e logradouros, serviços de caráter indivisível e universal, não atendendo àexclusividade prevista naSúmula Vinculante n. 19; b) art. 79, II e III, do Código Tributário Nacional, aduzindo que a taxa em questão não atende aos requisitos de especificidade e divisibilidade umavez que o custo do serviço prestado não possui parâmetros legais para divisão entre os munícipes; c) art. 85, § 11, do Código de Processo Civil.
+Não houve contrarrazões.
+Sobreveio juízo negativo de admissibilidade pela existência de fundamento constitucional no acórdão recorrido, pelaincidência da Súmula n. 7/STJ e pela ausência de comprovação da divergência jurisprudencial.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial possui condições de admissão.
+Não houve contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante impugnou o fundamento adotado na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial.
+Cuida-se, na origem, de ação declaratória proposta pela ora recorrente pleiteando a inconstitucionalidade da taxa de limpeza pública, com fundamento na Súmula Vinculante n. 19 e a inexigibilidade da cobrança da taxa de conservação de vias e logradouros e da taxa de bombeiro referente ao imóvel da parte.
+No presente, a parte recorrente reitera a impossibilidade de cobrança da taxa de limpeza pública por ausência dos requisitos legais.
+A insurgência não merece prosperar.
+Isso porque, ao enfrentar a possibilidade da cobrança da taxa de limpeza pública, o acórdão recorrido fundamentou que (e-STJ fls. 276/277):
+Quanto à taxa de limpeza pública, o artigo 97 do Código Tributário Municipal de Jaú (Lei Municipal no 2.288/1984) previa:
+Art. 97 A taxa de limpeza tem como fato gerador a utilização efetiva ou a possibilidade de utilização, pelo contribuinte, de serviços municipais de limpeza das vias e logradouros públicos e particulares.
+Parágrafo único Considera-se serviço de limpeza:
+I a coleta e remoção de lixo domiciliar
+II a varrição, a lavagem e a capinação das vias e logradouros.
+A Lei Complementar Municipal no 185/20021alterou a redação do caput do artigo 97 do Código Tributário Municipal, passando a prever como fato gerador da taxa de limpeza pública a utilização efetiva ou a possibilidade de utilização, pelo contribuinte, de serviços municipais de coleta e remoção de lixo domiciliar:
+Art. 1o - Os artigos 32, 97 e 99, da Lei no 2.288, de 19 de dezembro de 1984 (Código Tributário do Município de Jahu) passam a vigorar com as seguintes alterações:
+ ..
+Art. 97 A taxa de limpeza pública tem como fato gerador autilização efetiva ou a possibilidade de utilização, pelo contribuinte, de serviços municipais de coleta e remoção de lixo domiciliar.
+No entanto, em consulta ao Código Tributário Municipal (Lei Municipal no 2.288/19842), verifica-se que ao invés de ter substituído por completo o artigo 97, foi mantido o parágrafo único da redação anterior, misturando as duas redações e causando, com isso, confusão entre a anterior descrição da taxa de limpeza pública e a atual:
+Art. 97 A taxa de limpeza pública tem como fato gerador a utilização efetiva ou a possibilidade de utilização, pelo contribuinte, de serviços municipais de coleta e remoção de lixo domiciliar (LC185/2002).
+Parágrafo único Considera-se serviço de limpeza:
+I a coleta e remoção de lixo domiciliar;
+II a varrição, a lavagem e a capinação das vias e logradouros.
+Ocorre que por meio do Decreto Municipal n. 5.779/20083, que consolidou o Código Tributário Municipal em um único diploma, houve a correção da redação da referida taxa, excluindo o parágrafo único:
+Art. 1o - Este decreto consolida o Código Tributário do Município de Jahu em um único diploma.
+ ..
+Art. 135 -A taxa de limpeza pública tem como fato gerador a utilização efetiva ou possibilidade de utilização, pelo contribuinte, de serviços municipais de coleta e remoção de lixo domiciliar. (art. 1o da Lei Compl. 185/2002)
+Art. 136 - O custo despedido com a atividade de limpeza pública será dividido proporcionalmente às testadas dos imóveis, situados em locais em que se dê a atuação da Prefeitura. (Art. 98 da Lei no 2.288/1984)
+Dessa forma, pelas alterações legislativas acima mencionadas, verifica-se que foi retirada da hipótese de incidência do tributo a varrição, a lavagem e a capinação das vias e logradouros, passando a remunerar serviço público específico e divisível, não representando sua cobrança, pois, afronta à ordem constitucional ou à legislação tributária, aplicando-se ao caso a Súmula Vinculante no 19 do STF:
+A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, não viola o art. 145, II, da Constituição Federal.
+O Supremo Tribunal Federal, aliás, já teve a oportunidade de reconhecer a constitucionalidade da referida taxa municipal, conforme pode-se extrair da Reclamação nº22011/SP:
+ ..
+Assim, verifica-se do excerto queo acórdão recorrido julgou a controvérsiasob a ótica da legislação local, e não à luz dos arts. 77 e 79 do CTN, razão pela qual o exame da questão nessa seara recursalesbarrano óbice da Súmula n. 280/STF.
+Exemplificativamente, cito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. MANDADO DE SEGURANÇA.ICMS. NORMA LOCAL. SÚMULA 280/STF. OFENSA A TEOR SUMULAR.DESCABIMENTO. SÚMULA 518/STJ. AUSÊNCIA DE PARTICULARIZAÇÃO DE ARTIGO FEDERAL. SÚMULA 284/STF. DISSÍDIO PRETORIANO ESTADUAL. SÚMULA 13/STJ. PREQUESTIONAMENTO INEXISTENTE. SÚMULA 211/STJ.
+1. A parte impugnou a incidência da Súmula 280/STF no AREsp (fl.596, e-STJ), muito embora o tenha feito com entendimento equivocado, haja vista que a jurisprudência cotidiana do STJ aplica o referido teor sumular para obstar Recursos Especiais.
+2. Apesar disso, percebe-se que o Apelo Nobre não se sustenta. O recorrente alega, nas razões do REsp, haver claríssima ofensa à LC 87/1996, à Constituição Federal e ainda à Súmula 166 do STJ, além de dissídio jurisprudencial e desrespeito ao precedente exarado no REsp 1.125.133/SP (fls. 341-358, e-STJ).
+3. Não houve especificação de qual artigo de lei federal teria sido violado. O cerne argumentativo é a tese de que a movimentação do gado bovino entre os Estados de Mato Grosso do Sul e São Paulo não é fato gerador do ICMS cobrado.
+4. Para tanto, a parte evoca ofensa à Lei Kandir e reitera que apenas existe "uma movimentação de estoque, do mesmo produtor rural, de um Estado para o outro Estado, sem qualquer ato de mercantia" (fl. 346, e-STJ), e que entendimento contrário violaria a Súmula 166/STJ e o precedente extraído do REsp 1.125.133/SP.
+5. Descabe Recurso Especial por violação de súmula, por não se enquadrar no permissivo constitucional, exatamente como prevê a Súmula 518/STJ. Precedentes do STJ.
+6. A falta de particularização dos dispositivos de lei federal que o acórdão recorrido teria contrariado ou aos quais teria atribuído interpretação divergente consubstancia deficiência bastante a inviabilizar o conhecimento do Apelo Especial, atraindo, na espécie, a incidência, por analogia, da Súmula 284/STF. Precedentes do STJ.
+7. A incidência do ICMS no caso concreto foi fundada na legislação estadual pertinente, fazendo incidir a Súmula 280/STF. Precedentes do STJ.
+8. Os dois acórdãos colacionados para exemplificar o dissídio jurisprudencial são oriundos do mesmo Tribunal paranaense, que deve ser pacificado na mesma instância, atraindo o empecilho da Súmula 13/STJ. Precedentes do STJ.
+9. A parte não submeteu previamente perante o Tribunal de piso sua irresignação acerca da valoração jurídica atribuída à movimentação do gado bovino em apreço. A reiterada alegação do recorrente de que "não há nenhuma menção no processo de que o gado (..) será comercializado imediatamente" (fl. 348, e-STJ) deveria ter sido primeiramente aduzida em Aclaratórios, significando, portanto, ausência de prequestionamento e a incidência da Súmula 211/STJ.
+Precedentes do STJ.
+10. Agravo Interno provido para conhecer do Agravo em Recurso Especial e não conhecer do Recurso Especial.
+(AgInt no AREsp 1637073/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/05/2020, DJe 14/05/2020)
+Com relação à ofensa ao art. 85 do CPC, a parte limitou-se a fundamentar que houve ofensa ao dispositivo na medida em que(e-STJ fl. 338):
+ ..  houve a majoração da verba sucumbencial arbitrada em primeira instância, apenas a parte Recorrida e tal procedimento deveria ter sido observado pelo Tribunal de origem, mesmo sendo objeto de Embargos de Declaração e não houve qualquer modificação, sendo mantido julgamento ocorrido na integralidade, violandotal dispositivo legal;
+Da leitura do trecho é impossível compreender a pretensão recursal, configurando argumentação deficiente e atraindo o óbice da Súmula n. 284/STF.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DA SÚMULA N. 283/STF. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. FALTA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL.DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N.284/STF. ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTOS CONSTITUCIONAIS.INOBSERVADO O PREQUESTIONAMENTO DO ART. 138 DO CTN. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. OBRIGAÇÃO ACESSÓRIA. COMUNICAÇÃO AO FISCO (DECLARAÇÃO SOBRE OPERAÇÕES IMOBILIÁRIAS - DOI). BASE DE CÁLCULO DA MULTA PREVISTA NO ART. 15 DO DECRETO-LEI N. 1.510/1976.VALOR DOS EMOLUMENTOS. TIPICIDADE TRIBUTÁRIA. IRRETROATIVIDADE DA LEI N. 10.426/2002.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, in casu, o Código de Processo Civil de 1973.
+II - Este Tribunal Superior tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal.
+III - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+IV - O recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a revisar acórdão com base em fundamentos eminentemente constitucionais, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte.
+V - É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+VI - A base de cálculo da multa relativa ao envio, a destempo, da DOI ao Fisco, cinge-se ao valor dos emolumentos cobrados pelos atos praticados por serventias, consoante dispõe o § 2º do art. 15 do Decreto-Lei n. 1.510/1976.
+VII - Incompatível com os elementos insertos na apontada norma sancionatória a exegese que amplia a base de cálculo da infração com fulcro na imprecisão do vocábulo "ato", porquanto malversa a tipicidade, expressão do princípio da legalidade e do sobreprincípio da segurança jurídica, bem como a interpretação benéfica.
+VIII - Irretroatividade da nova disciplina relativa à quantificação da aludida multa prevista no art. 8º da Lei n. 10.426/2002, porquanto mais gravosa.
+IX - Recurso especial parcialmente conhecido e, nessa extensão, provido para restabelecer a sentença, especificamente, no que tange à base de cálculo da multa. Agravo em Recurso Especial da Fazenda Nacional não provido.
+(REsp 1440099/GO, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 26/05/2020, DJe 29/05/2020)
+Ainda que assim não fosse, verifico que o art. 85 do CPC, bem como a questão referente aos honorários advocatícios, nãoforam tratados no aresto combatido, de forma que carecem de necessário prequestionamento (Súmula n. 211/STJ).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.RESPONSABILIDADE PELO PAGAMENTO DO IPTU DE BEM IMÓVEL ARREMATADO EM HASTA PÚBLICA. EXPRESSA PREVISÃO DE RESPONSABILIDADE DO ARREMATANTE NO EDITAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Firme o entendimento do Superior Tribunal de Justiça de que, "havendo expressa menção no edital de hasta pública nesse sentido, a responsabilidade pelo adimplemento dos débitos tributários que recaiam sobre o bem imóvel é do arrematante" (AgRg no AREsp 248.454/SP, Rel. Min. Arnaldo Esteves Lima, Primeira Turma, DJe 12/9/2013). No mesmo sentido: AgInt nos EDcl no AREsp 1.006.727/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 13/2/2019.
+2. No caso dos autos, tendo a Corte de origem consignado que o edital de hasta pública previa, expressamente, que os créditos tributários relativos ao IPTU seriam transferidos ao arrematante do bem imóvel, não há como afastar a responsabilidade deste pelo adimplemento do referido débito tributário.
+3. A matéria referente ao art. 686, V, do CPC não foi objeto de análise pelo Tribunal de origem, ainda que implicitamente. Desse modo, carece o tema do indispensável prequestionamento viabilizador do apelo extremo, motivo pelo qual não merece ser apreciado, consoante o que preceitua a Súmula 211 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1845861/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 18/05/2020, DJe 20/05/2020)
+Por fim, deixo de analisar a divergência em virtude do óbice aplicado ao conhecimento da questão de fundo pela alínea "a".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II,a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. TAXA DE LIMPEZA PÚBLICA. MATÉRIA ANALISADA À LUZ DA LEGISLAÇÃO LOCAL. SÚMULA N. 280/STF. OFENSA AO ART. 85 DO CPC. SÚMULAS N. 284/STF E 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
