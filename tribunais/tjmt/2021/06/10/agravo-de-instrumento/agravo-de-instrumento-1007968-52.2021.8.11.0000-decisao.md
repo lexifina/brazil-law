@@ -1,0 +1,21 @@
+Vistos etc.
+Trata-se de recurso de agravo de instrumento interposto por MARCELO DOS SANTOS BARBOSA em face da decisão proferida pelo juízo de direito da 7a Vara Cível da Comarca de Cuiabá/MT, nos autos do cumprimento de sentença no 0004851-49.2018.8.11.0041, que indeferiu o pedido formulado pela parte credora ante a vedação expressa do art. 833, IV do CPC.
+Sustenta a o agravante, em síntese, que (i) faz jus a gratuidade da justiça; (ii) o débito em questão se refere a honorários advocatícios, portanto, de caráter alimentar; (iii) possibilidade de penhora de crédito alimentar quando o débito também for de caráter alimentar; (iv) necessária a reforma da decisão agravada, visto o prejuízo irreparável a ser causado ao agravante bem como a preferência estabelecida pelo Artigo 835 CPC.
+Pede pela a concessão de liminar determinando a penhora do percentual de 40% (quarenta por cento) sobre o valor da pensão por morte recebida pela agravada.
+Síntese necessária.
+Com efeito, a obtenção dos benefícios da gratuidade está subordinada à existência de uma condição econômica que não permita à parte custear o processo, sendo que a comprovação da miserabilidade pode ser feita por documentos públicos ou particulares, desde que os mesmos retratem a precária saúde financeira da entidade.
+Não se nega que o § 3o do art. 99 do novel Código Processual Civil estabelece expressamente que “Presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural.”
+Todavia, essa presunção ostenta caráter relativo, podendo o magistrado indeferir se constatar a capacidade financeira ou, na dúvida, abrir oportunidade para que a parte apresentem novos documentos, capazes de atestar sua condição de necessidade.
+Partindo dessas premissas, verifica-se que o Requerente é autônomo (advogado), e nada trouxe a respeito dos seus rendimentos mensais, tal situação não permite a suspensão da exigência das despesas e custas do processo.
+Na hipótese em comento, mesmo instado a manifestar, deixou de apresentar extratos bancários, bem ainda apresentou declaração de imposto de renda parcial (incompleta), da qual é possível verificar que não pode ser considerada hipossuficiente, tendo em vista que possui rendimento mensal de R$ 3.302,91, o que se afigura incompatível com a condição de juridicamente necessitado.
+Também houve recusa em apresentação de documentos donde se pudesse extrair a realidade econômica da parte, como contas de consumo de energia elétrica, água, telefone, etc., comercial (dívidas, créditos, contratos, etc.), conduta essa que reforça a negativa do benefício.
+Cumpre salientar que a gratuidade é exceção dentro do sistema judiciário pátrio, e o benefício deve ser concedido àquelas pessoas que efetivamente são necessitadas, na acepção legal. Embora a Lei no 1.060/50 não exija condição de miserabilidade e eventual declaração da parte mereça credibilidade, é preciso que a situação retratada a coloque na condição de pessoa carente de recursos.
+Não se há de esquecer que, de acordo com o art. 5o, inciso LXXIV, da Magna Carta, “o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos”.
+Assim, em vista a tais dados, não há como se reputar o agravante hipossuficiente, haja vista que a situação apresentada contradiz a miserabilidade jurídica declarada, por existirem nos autos indícios de que a parte possui capacidade financeira suficiente para efetuar o pagamento das custas e despesas processuais, sem prejuízo de seu sustento ou de sua família. Deste modo, o pedido de concessão de justiça gratuita restou indeferido, tendo sido determinada a emenda da inicial e recolhida as custas.
+Destarte, existindo prova em sentido contrário a infirmar a presunção de pobreza, na acepção jurídica do termo, decorrente da afirmação prestada pelo agravante, impõe-se o indeferimento dos benefícios da gratuidade de justiça.
+Com essas considerações, não havendo prova da necessidade e com fulcro no artigo 99, § 7o, do novo Código de Processo Civil, indefiro o pedido de gratuita da justiça.
+Concedo o prazo de 05 (cinco) dias para o pagamento da taxa judiciária, nos termos do art. 101, § 2o, do Novo Código de Processo Civil e art. 79-B do Regimento Interno do TJMT, sob pena de não conhecimento do recurso.
+Intime-se
+Cumpra-se.
+Desembargador Sebastião de Moraes Filho.
+= r e l a t o r =
