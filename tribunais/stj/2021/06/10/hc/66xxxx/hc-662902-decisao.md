@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em face de acórdãoassim ementado (fl. 21):
+HOMICÍDIO TRIPLAMENTE QUALIFICADO. Apelação defensiva analisada com margens e valoração estabelecidas pela Súmula/STF, nº 713:"O efeito devolutivo da apelação contra decisões do Júri é adstrito aos fundamentos da sua interposição". PRELIMINARES.
+USO DE ANTECEDENTES CRIMINAIS, DURANTE AS SUSTENTAÇÕES ORAIS DA ACUSAÇÃO. Inexistência de ofensa ao CPP, art. 478. USO DE ALGEMAS. Justificativa bastante. Inteligência da Súmula Vinculante/STF, nº 11. CERCEAMENTO DE DEFESA(RETIRADA DO PLENÁRIO, SEM MOTIVO JUSTIFICADO, PARA A OITIVA DAS TESTEMUNHAS). Fundamentação adequada. Inteligência do CPP, art. 217. LEITURA DE DOCUMENTOS REFERENTES A SUPOSTOS FATOS NÃO EXISTENTES NO PROCESSO. Não ocorrência. OFENSA À INCOMUNICABILIDADE ENTRE AS TESTEMUNHAS. Ausênciade elementos a configurá-la. OFENSA À PLENITUDE DA DEFESA. Não caracterização, pois observados todos os ditames da legislação processual penal.
+MÉRITO. Decisão do Conselho de Sentença que se coaduna com o conjunto probatório. Autoria e materialidades obejamente comprovadas.
+DOSIMETRIA. Pena e regime fechado preservados.
+TESES ANALISADAS E PREQUESTIONADAS. IMPROVIMENTO.
+O paciente foi condenado à pena de24 anos de reclusão, em regime inicial fechado, pela prática docrimeprevistonoart. 121, §2º, II, III e IVdo Código Penal.
+Alega, em síntese, nulidade processual decorrente do uso de antecedentes criminais por parte da acusação durante a sustentação oral no julgamento do Tribunal do Júri, bem como em razão daleitura de documentos referentes afatos não existentes no processo.
+Requer a declaração de nulidade do julgamento.
+As informações foram prestadas e o Ministério Público manifestou-se pelo não conhecimento do writ, e no mérito, se conhecido, pela denegação da ordem.
+No que tange às alegadas nulidades, verifica-se do acórdão(fl. 22/24):
+Repelem-se as preliminares.
+i) uso de antecedentes criminais, durante as sustentações orais da acusação - inexiste qualquer irregularidade quanto à menção à vida pregressa do Apelante, pelo Parquet, durantea produção da prova oral, por fazer parte de suas arguições, sem se olvidar do livre convencimento dos Jurados.
+E nem se alegue qualquer ofensa ao CPP art. 478,porquanto tal alegação não está contida em seu rol taxativo.
+Ainda que assim não fosse, tal alusão utilizada pelo MINISTÉRIO PÚBLICO não foi objeto de impugnação e registro em ata (fls. 1155/1162), de modo que, não se manifestando a defesa em momento oportuno, preclusa a análise de eventual eiva.
+ ..
+iv) leitura de documentos referentes a fatos não existentes no processo - a ventilada questão (o documento de fls. 225/227 não guardaria relação com os autos) não se sustenta, porquanto se refere ao laudo necroscópico indireto do ofendido e não ao suposto relatório policial de outro procedimento.
+A Lei Processual Penal em vigor adota, em sede de nulidades processuais, o princípio da pas de nullité sans grief, segundo o qual somente há de se declarar a nulidade se, alegada em tempo oportuno, houver demonstração ou comprovação de efetivo prejuízo para a parte, o que, conforme as premissas delineadas no acórdão, não ocorreu, na espécie. Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. VIA IMPRÓPRIA. CRIME CONTRA A ORDEM TRIBUTÁRIA. ALEGAÇÃO DE NULIDADE. AUSÊNCIA DE INQUIRIÇÃO DE TESTEMUNHA DEVIDAMENTE INTIMADA. NÃO COMPARECIMENTO ÀS AUDIÊNCIAS E NÃO LOCALIZAÇÃO POSTERIOR. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO DO PREJUÍZO. EXPEDIÇÃO DE CARTA PRECATÓRIA. AUSÊNCIA DE SUSPENSÃO DA INSTRUÇÃO CRIMINAL. TRANSCRIÇÃO DOS DEPOIMENTOS PRESTADOS. DESNECESSIDADE. SÚMULA 83/STJ. EXECUÇÃO PROVISÓRIA DA PENA. AUSÊNCIA DE RECURSO COM EFEITO SUSPENSIVO. SÚMULA 267/STJ. PENA RESTRITIVA DE DIREITOS. EXECUÇÃO PROVISÓRIA. POSSIBILIDADE. AGRAVO IMPROVIDO.
+ ..
+2. O reconhecimento de nulidade depende da demonstração do prejuízo, ante a incidência do princípio pas de nullité sans grief, previsto no art. 563 do CPP.
+ ..
+7. Agravo regimental improvido. (AgRg no REsp 1420207/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 25/10/2016, DJe 22/11/2016)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 168, § 1º, INCISO III, C/C O ARTIGO 29 (POR TRÊS VEZES), NA FORMA DO ARTIGO 71, E ARTIGO 332, PARÁGRAFO ÚNICO (POR DUAS VEZES), NA FORMA DO ARTIGO 71, TODOS DO CÓDIGO PENAL. NULIDADE. EXPEDIÇÃO DE CARTA PRECATÓRIA.INTIMAÇÃO NO JUÍZO DEPRECADO. DESNECESSIDADE. PRESENÇA DE DEFESA AD HOC. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. INCIDÊNCIA DO PRINCÍPIO PAS DE NULLITÉ SANS GRIEF. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Nos termos do art. 563 do Código de Processo Penal, consubstanciado pela máxima do pas de nullité sans grief, não há que ser declarado um ato como nulo se da nulidade não resultar prejuízo.
+2. Na hipótese vertente incide o verbete n. 273 da Súmula do STJ, segundo a qual, "Intimada a defesa da expedição da carta precatória, torna-se desnecessária intimação da data da audiência no juízo deprecado", pois, como bem consignado pela Corte de origem, a defesa foi, de fato, intimada da expedição da carta precatória para a oitiva da vítima e da testemunha. É imperioso, ainda, destacar que a defesa técnica estava presente por ocasião da realização da audiência de inquirição da testemunha e da vítima, sendo tal ato acompanhado por defensor ad hoc.
+3. A jurisprudência do Superior Tribunal de Justiça vem se posicionando no sentido de que o postulado "pas de nullité sans grief impõe a manutenção do ato impugnado que, embora praticado em desacordo com a formalidade legal, atinge a sua finalidade, restando à parte demonstrar a ocorrência de efetivo prejuízo" (RHC n. 71.626/CE, rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 28/11/2017, DJe 1º/12/2017), o que não ficou evidenciado na espécie. 4. Agravo regimental desprovido. (AgRg no HC 433.634/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/08/2018, DJe 04/09/2018)
+Ademais,as alegaçõesde nulidadeencontram-se acobertadas pela preclusão, na medida em que não foram objeto de impugnação e registro em ata, pois consta que o Juízo de primeiro grauIndagou ainda ao Dr. Promotor de Justiça e aos Drs. Defensores se tinham algum requerimento ou reclamação a fazer, dos quais obteve resposta negativa(fl. 96).
+Outrossim, a defesa não logrou comprovar qualquer prejuízo processual decorrente dos vícios alegados, não havendo falar, assim, em decretação de nulidade processual.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
