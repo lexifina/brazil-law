@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por UNICURSO ENSINO LTDA - EPP contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DÉBITOS RELATIVOS AO NÃO-RECOLHIMENTO DE FGTS. LEGITIMIDADE DA FAZENDA NACIONAL. PREVISÃO NO ARTIGO 2º DA LEI 8.844/94. AGRAVO NÃO PROVIDO.
+1. Na hipótese, sustenta o excipiente, em sede de exceção de pré-executividade, a ilegitimidade ativa da Procuradoria da Fazenda Nacional para executar créditos relativos ao FGTS; a nulidade do processo administrativo fiscal por ausência de notificação para ciência e oportunização de defesa; ilegal cumulação de multas; inconstitucionalidade da Taxa Selic como fator de atualização monetária e o efeito confiscatório das multas aplicadas.
+2. É admitido, em processo de execução, o atravessamento de petição denominada exceção de pré-executividade quando esta visa apontar ao juízo vício ou irregularidade que se poderia conhecer de ofício, em casos nos quais se prescinde de contraditório e de dilação probatória.
+3. A legitimidade ativa da Procuradoria da Fazenda Nacional para ingressar com executivos fiscais relativos ao FGTS possui previsão legal na Lei nº 8.844/1994, em seu art. 2º.
+4. A análise da CDA que aparelha a presente execução, inscrita sob o nº FGSE201800173, tanto em seu Anexo I (Discriminativo de Débito Inscrito), como em seu Anexo II (Fundamentação Legal), em princípio, discriminam apenas uma única multa componente dos valores exequendos.
+5. Da decisão agravada se infere que, para cada competência, a base legal de cobrança dos juros de mora, em percentuais que variaram de 1% a 0,5%, esteve regida, sucessivamente, pelos diplomas legais do FGTS (Lei nº 7.839/1989 e Lei nº 8.036/1990), não havendo que se falar em adoção da Taxa SELIC.
+6. No tocante ao alegado confisco, o E. STJ já se posicionou em sede de recurso representativo da controvérsia sobre a legalidade dos encargos, juros e multa previstos na Lei nº 8.036/1990 em caso de inadimplemento de valores devidos ao FGTS, não reconhecendo qualquer caráter confiscatório nos valores de seus percentuais. Precedente: REsp 1032606; Rel. Min. Luiz Fux; 1ª Seção; julgado em 11/11/2009; DJ: 25/11/2009.
+7. Agravo improvido.
+No presente recurso especial, a recorrente aponta violação dos arts. 76 do CPC/2015 e 12 da Lei Complementar nº 73/1993, alegando, em síntese, a ilegitimidade processual da Procuradoria Geral da Fazenda Nacional para cobrança de dívida ativa relativaao FGTS.
+Alega, também, ofensa ao art. 2º da Lei nº 9.784/1999, sustentando, em suma, a violação aos princípios da proporcionalidade e da razoabilidade pelo nítido caráter confiscatório da multa aplicada.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Quanto à questão da legitimidade da PFN para cobrança de dívida ativa relativo ao FGTS, o reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, de que tal competência se encontra prevista de forma expressa na Lei nº 8.844/1994, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ademais, a decisão proferida pelo Tribunal de origem, de que assiste legitimidade à Fazenda Nacional para a cobrança de FGTS via execução fiscal, vai ao encontro da jurisprudência do STJ.
+Confira-se:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FGTS. ABSTENÇÃO DE COBRANÇA DE DÉBITO FUNDIÁRIO AINDA NÃO INSCRITO. CAIXA ECONOMICA FEDERAL - CEF. ILEGITIMIDADE PASSIVA.
+1. Esta Corte de Justiça possui entendimento no sentido de que a Caixa Econômica Federal é parte ilegítima para figurar no polo passivo das ações que visam ao reconhecimento da inexigibilidade das contribuições previstas na Lei Complementar n. 110/2001.
+2. "Não há razoabilidade em dizer que a União só é parte legítima nos casos que envolvam cobrança de débito fundiário devidamente inscrito. Se a Procuradoria-Geral da Fazenda Nacional tem competência para a inscrição e a correspondente cobrança dos débitos do FGTS, também será competente para a defesa da sua exigibilidade, nos casos em que o contribuinte a questionar, ainda que se trate de débito não inscrito" (REsp 948.535/RS, Rel. Min. José Delgado, Primeira Turma, DJe 5/3/2008).
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1454615/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 16/04/2015, DJe 04/05/2015)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FGTS. AÇÃO ANULATÓRIA DE DÉBITO. LEGITIMIDADE PASSIVA DA UNIÃO. DÉBITO FUNDIÁRIO NÃO-INSCRITO. ART. 2º DA LEI 8.844/1994 (REDAÇÃO DADA PELA LEI 9.467/1997). NEGATIVA DE VIGÊNCIA NÃO-CONFIGURADA.
+1. Recurso especial no qual se alega violação do art. 2º da Lei 8.844/1994 sob o argumento de ser ilegítima a Fazenda Nacional para responder demanda que envolva anulação de débitos não inscritos em dívida ativa.
+2. O art. 2º da Lei 8.844/1994 (redação dada pela Lei 9.467/1997) confere à Procuradoria-Geral da Fazenda Nacional a representação judicial e extrajudicial do FGTS, para a correspondente cobrança, relativamente à contribuição e às multas e demais encargos previstos na legislação respectiva.
+3. Não há razoabilidade em dizer que a União só é parte legítima nos casos que envolvam cobrança de débito fundiário devidamente inscrito. Se a Procuradoria-Geral da Fazenda Nacional tem competência para a inscrição e a correspondente cobrança dos débitos do FGTS, também será competente para a defesa da sua exigibilidade, nos casos em que o contribuinte a questionar, ainda que se trate de débito não inscrito.
+4. Recurso especial não-provido.
+(REsp 948.535/RS, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, julgado em 19/02/2008, DJe 05/03/2008)
+E quanto ao pretenso caráter confiscatório das multas por suposta afronta aos princípios da razoabilidade e proporcionalidade, tal alegação exigiria o reexame de elementos fático-probatórios do processo, providência esta que se encontra vedada no âmbito estreito do recurso especial nos termos da Súmula n. 7/STJ. (AgRg no REsp 1487769/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 02/06/2015, DJe 10/06/2015; AgRg no REsp 1545697/SC, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 10/03/2016, DJe 21/03/2016).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
