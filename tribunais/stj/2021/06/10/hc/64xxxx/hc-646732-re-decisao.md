@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fls. 127/133):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LEI N. 13.964/2019. PACOTE ANTICRIME. ALTERAÇÃO DO ART. 112 DA LEP. RETROATIVIDADE DA LEI PENAL POSTERIOR MAIS BENÉFICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Após as alterações do art. 112 da LEP promovidas pela Lei n.13.964/2019, criou-se uma lacuna jurídica sobre a progressão de regime aos apenados reincidentes, condenados por crimes hediondo (ou outro a ele equiparado) e comum.
+2. Nas disposições sobre a execução das sanções criminais, o julgador dever recorrer à analogia in bonam partem para a integração normativa, observados, ainda, o princípio da legalidade e a retroatividade da lei penal mais benéfica.
+3. Como na atual redação do art. 112, VII, da LEP, existe uma clara restrição, porquanto a palavra "reincidente" está acompanhada da expressão "na prática de crime hediondo ou equiparado", a exigência de 60% do cumprimento da pena refere-se somente ao reincidente na prática dessa natureza de delito e não é possível corrigir o erro dolegislador para interpretar a norma em prejuízo do sentenciado.
+4. Por isso, após a revogação do art. 2º, § 2º, da Lei 8.072/1990, em situação de reincidência genérica, os ilícitos têm de ser considerados isoladamente, cada qual de acordo com sua natureza, com a possibilidade de aplicação retroativa do art. 112, V, da LEP ao hediondo ou equiparado.
+5. Agravo regimental não provido.
+Os embargos de declaração opostos na sequência foram rejeitados (e-STJ fls. 149/152).
+Sustenta o recorrente a existência de prequestionamento erepercussão geral da matéria tratada, aduzindo que o aresto impugnado violaria o art. 5º, caput e incisos XLIII e XLVI, da Constituição Federal.
+Alega que teria havido opção legislativa legítima de seguir, tal como anteriormente à edição do Pacote Anticrime, com regras mais rigorosas de progressão de regime prisional ao condenado reincidente em comparação com aquelas destinadas ao apenado primário.
+Argumenta que, a despeito de alguma falta de apuro de técnica legislativa, extrai-se do processo legislativo, da circunstância de ser a reincidência condição pessoal e dos princípios da isonomiae da individualização da pena, a compreensão de que a reincidência, pouco importando seja ela específica em crime hediondo ou em crime comum, implicaria resposta penal mais severa.
+Pondera que "o percentual de 40% do cumprimento da pena para a progressão foi prevista para o condenado por crime hediondo ou equiparado, se for primário, sendo expressa a discriminação legal" (e-STJ fl. 170).
+Salientaque "a interpretação dada pela decisão recorrida viola frontalmente os princípios da isonomia e da individualização da pena, assim como a opção constitucional pelo tratamento mais rigoroso aos crimes hediondos" (e-STJ fl. 170).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Não foram apresentadas as contrarrazões (e-STJ fl. 180).
+É o relatório.
+Ao julgar o AI n. 754.008 RG/RS,o Supremo Tribunal Federal firmou o entendimento de quenão apresenta repercussão geral o recurso extraordinário queversasobre a análise dos requisitos para concessão de progressão de regime previstos no art. 112 da Lei de Execução Penal.
+Confira-se, por oportuno, a ementa do acórdão:
+RECURSO. Extraordinário. Inadmissibilidade. Progressão de regime. Requisitos. Interpretação do art. 112 da LEP. Lei nº 10.792/03. Exame criminológico. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que, versando sobre a análise dos requisitos para concessão de progressão de regime à luz da nova redação do art. 112 da LEP, pela Lei nº 10.792/03, em especial com relação à realização de exame criminológico (exigência de avaliação social e psicológica do apenado), trata de matéria infraconstitucional.
+(AI 754008 RG, Relator(a): CEZAR PELUSO, Tribunal Pleno, julgado em 24/09/2009, DJe-195 DIVULG 15-10-2009 PUBLIC 16-10-2009 EMENT VOL-02378-10 PP-02048)
+No caso dos autos, ao examinar a controvérsia, esta Corte Superior de Justiça assim se manifestou(e-STJ fls. 132/133):
+É oportuno rememorar que a alteração promovida pela Lei n. 13.964/2019 (Pacote Anticrime) no art. 112 da Lei de Execução Penal não definiu o enquadramento específico para o caso concreto - apenado que, apesar de reincidente, não o é na prática de crime hediondo ou equiparado -, motivo por que, como já devidamente exposto, cabe ao julgador integrar a norma em razão da lacuna legislativa e solucionar a controvérsia.
+A propósito de tal questão, do voto condutor do acórdão proferido pela Quinta Turma no julgamento do AgRg no HC n. 616.267/SP, da relatoria do Ministro Reynaldo Soares da Fonseca, cuja ementa foi transcrita na decisão objeto deste recurso, colhem-se as razões de decidir abaixo:
+Para tal hipótese - condenado por crime hediondo, mas reincidente em razão da prática de crime comum -, inexiste na novatio legis percentual a disciplinar a progressão de regime ora pretendida, pois os percentuais de 60% e 70% foram destinados aos reincidentes específicos.
+ ..
+Com efeito, em Direito Penal não é permitido o uso de interpretação extensiva para prejudicar o réu, impondo-se a integração da norma mediante a analogia in bonam partem. Logo, a lei penal deve ser interpretada restritivamente quando prejudicial ao réu, e extensivamente no caso contrário ( favorablia sunt amplianda, odiosa restringenda) - in NÉLSON HUNGRIA, Comentários ao Código Penal, v. I, t. I, p. 86.
+Recorde-se, aliás, que a interpretação extensiva em sentido amplo abrange a interpretação extensiva em sentido estrito e a interpretação analógica. A analogia é forma de integração de lacuna(quando não há na lei previsão sobre uma hipótese concreta). São pressupostos da analogia: certeza de que sua aplicação será favorável ao réu; existência de uma efetiva lacuna a ser preenchida.
+Nesse contexto, com a modificação da sistemática da progressão de regime - especialmente com a fixação de critérios correspondentes à natureza de cada delito -, o atual texto legal não prescreveu percentual aplicável à progressão nas hipóteses como a destes autos, razão pela qual se impõe a observância do percentual de 40% (inciso V do art. 112 da LEP), porquanto não se deveria mesmo aplicar, de modo extensivo e prejudicial ao paciente, a fração de 60%, prevista para reincidente na prática de crime hediondo ou equiparado (inciso VII).
+ ..
+Deve, portanto, a decisão ora questionada ser integralmente mantida por estarem seus fundamentos em conformidade com a jurisprudência do Superior Tribunal de Justiça sobre as questões suscitadas.
+Ante o exposto, nego provimento ao agravo regimental.
+Da leitura das referidas passagens,verifica-se que a discussãocinge-se à questão da alteração dos patamares de progressão de regime de cumprimento da pena previstos no art. 112 da Lei de Execução Penal, matéria que, nos termos do Tema 205/STF, possui natureza infraconstitucional e carece de repercussão geral, o que inviabiliza o prosseguimento deste apelo extremo.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", segunda parte, do Código de Processo Civil,nega-se seguimentoao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITOSPREVISTOS NO ART. 112 DA LEI DE EXECUÇÃO PENAL. MATÉRIA INFRACONSTITUCIONAL.TEMA 205/STF.AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
