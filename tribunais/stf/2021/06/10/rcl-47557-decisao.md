@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido liminar, ajuizada por Companhia Espírito Santense de Saneamento (CESAN) contra decisão proferida pela 2ª Vara do Trabalho de Cachoeiro de Itapemirim, que, nos autos do Processo nº 0000898-11.2020.5.17.0132, teria desobedecido a ordem de suspensão nacional de processos exarada pelo Ministro Gilmar Mendes, nos autos do ARE 1.121.633/GO (Tema 1.046 de repercussão geral).
+    Narra a reclamante que, na origem, foi ajuizada contra ela reclamação trabalhista proposta por Manoel Gomes Caetano, objetivando o pagamento de horas extras decorrentes do trabalho em turnos ininterruptos de revezamento superiores a seis horas.
+    Afirma que a autoridade reclamada, ao não atender o seu pedido preliminar de suspensão do processo formalizado em sede de contestação, proferiu sentença para
+    “conden[ar] a empresa ao pagamento de horas extras, ignorando a previsão de turno ininterrupto de revezamento previsto em norma coletiva (vide acordos coletivos de trabalho em anexo), ou seja, afastou-se claramente a previsão legal pactuada em instrumento de negociação coletiva.”
+    Pondera que “as horas extras pleiteadas e concedidas na r. sentença só podem ser válidas no mundo jurídico se afastada a previsão da norma coletiva que valida a jornada de turno ininterrupto de revezamento.”
+    Requer que seja deferido o pedido liminar para determinar a suspensão da lide na origem até que seja fixada a tese no Tema 1046 da repercussão geral pelo STF. No mérito, a confirmação da providência.
+    É o relatório. Decido.
+    No representativo da controvérsia do Tema 1.046 da RG (ARE nº 1.121.633/GO), o STF, superando entendimentos firmados anteriormente no sentido da infraconstitucionalidade do debate (Temas 357 e 762 da RG), consignou, in verbis, a existência de repercussão geral da matéria nos termos da manifestação do Ministro Gilmar Mendes (Relator):
+    “[A] controvérsia referente à validade de norma coletiva de trabalho que limita ou reduz direitos trabalhistas possui natureza constitucional e inegável relevância do ponto de vista social, econômico ou jurídico, além de transcender os interesses subjetivos da causa, já que a correta interpretação do art. 7º, XXVI, da Constituição Federal é tema recorrente nos tribunais trabalhistas brasileiros e tem gerado insegurança quanto à validade e alcance do pactuado em convenções e acordos coletivos em face das normas previstas na Consolidação das Leis Trabalhistas, à luz do citado preceito constitucional, o que dá ensejo ao reconhecimento da repercussão geral.”
+    O que se debate na repercussão geral é se acordos ou convenções coletivos podem prescrever direitos de maneira diversa da preceituada em lei, tendo como fundamento, em especial, o disposto no art. 7º, XXVI1, da CF/88.
+    Diferentemente do Tema 1.046 de repercussão geral, a controvérsia que exsurge dos autos em referência na presente reclamação diz respeito à flexibilização de direito expressamente previsto na constituição acerca do turno ininterrupto de revezamento (“jornada de seis horas”), presente o debate constitucional acerca da interpretação dada ao art. 7º, XIV2, da CF/88 pelo TST, à luz do art. 7º, XIII3, da CF/88.
+    Em outras palavras, a controvérsia não concerne a saber se o direito previsto em lei trabalhista pode ou não ser flexibilizado por acordo coletivo (Tema 1.046 RG), mas se a flexibilização expressamente permitida na parte final do inciso XIV do art. 7º da CF/88 está limitada pela duração de oito horas diárias ou quarenta e quatro horas semanais expressamente consignada para a jornada de trabalho normal no inciso XIII do art. 7º da CF/88.
+    Entendo que a controvérsia constitucional que se revela nos autos em referência na reclamatória não é alcançada pelo Tema 1.046 da RG, mesmo considerada a tendência de objetivação do debate na sistemática da repercussão geral, razão pela qual reputo não haver estrita aderência entre a controvérsia, objeto do processo originário, e o tema submetido à repercussão geral.
+    Ante o exposto, nego seguimento à presente reclamação constitucional, nos termos do artigo 21, § 1º, do RISTF. Julgo prejudicado o pedido liminar.
+    Publique-se. Int..
+    Brasília, 10 de junho de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
+1 Art. 7º São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social: [...] XXVI - reconhecimento das convenções e acordos coletivos de trabalho;
+2 Art. 7º […] XIV - jornada de seis horas para o trabalho realizado em turnos ininterruptos de revezamento, salvo negociação coletiva;
+3 Art. 7º […] XIII - duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho;
