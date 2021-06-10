@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal,contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 4.325):
+EXECUÇÃO FISCAL. EMBARGOS. PROCESSO DE INDUSTRIALIZAÇÃO CARACTERIZADO. BENEFICIAMENTO. DESTAQUE DE IPI. SUSPENSÃO NA SAÍDA DA MERCADORIA. APROVEITAMENTO DO CRÉDITO ESCRITURADO. POSSIBILIDADE.
+Demonstrado nos autos que a atividade desenvolvida pela empresas e caracteriza como de beneficiamento, a qual, por sua vez, está inserida em processo industrial (artigos 4º, II, do Regulamento do IPI e 46, parágrafo único, do CTN), com o consequente destaque de IPI. Aplicáveis, assim, os artigos 29da Lei nº 10.637/02 e 11 da Lei nº 9.779/99, devendo ser reconhecido o direito da embargante a fazer a saída das mercadorias com a suspensão do IPI e, via de consequência, a aproveitar os créditos de IPI apurados em sua contabilidade.
+Embargos de declaração rejeitados (fl. 4.366).
+A parte recorrente alega violação do art. 1.022, II e III e parágrafo único, IIc/c 489, § 1º, IV, do CPC/2015, sob o argumento de que o acórdão recorrido foi omisso em relação a questões relevantes ao deslinde da controvérsia.
+No mérito, aponta violação dos arts. 3º e parágrafo único, da LEF e 373, I, do CPC/2015. Sustenta, em síntese, que houve indevida inversão do ônus da prova quanto à comprovação do processo de industrialização. Afirma que o juízo se utilizou de perícia realizada no ano de 2015 para atestar fatos ocorridos em 2003 e 2004. Defende a presunção de certeza e liquidez da CDA, que somente pode ser ilidida por prova inequívoca a cargo do ora recorrido, o que não ocorreu no caso dos autos.
+Com contrarrazões (fls. 4.399/4.418).
+Juízo negativo de admissibilidade às fls. 4.421/4.423.
+Decisão de conversão do agravo para recurso especial (fl. 4.476).
+É o relatório. Decido.
+De início, afasta-se a alegada violação dos arts. 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No mérito, o Tribunal de origem concluiu que a recorrida contribuinte realiza atividades de industrialização, pelo que faz jus à saída do IPI com suspensão, com base nos seguintes fundamentos(fl. 4.309):
+Não obstante as alegações da União, no sentido de que o laudo foi produzido oito anos depois dos fatos, não espelhando a realidade fática do momento da autuação, e que não havia máquinas industriais, mas apenas uma máquina impressora, além de outros elementos que afastariam a conclusão de que se trata de atividade de industrialização de produtos, o fato é que o Tribunal se debruçou sobre todas estas questões nos processos anteriores e a segurança jurídica não pode tolerar que seja adotada solução diversa àquelas já proferidas.
+Nas decisões anteriores o Tribunal deixou assentadas a personalidade da embargante como industrial e a natureza jurídica dos produtos como industrializados.
+Acolher a pretensão da União comprometeria a relação jurídica já estabilizada e delineada pelas decisões anteriores, assentadas no mesmo suporte fático e jurídico, embora decorrente de outro auto de infração, gerando situação incompatível com a segurança jurídica e com a proteção da confiança que o contribuinte deposita nas decisões judiciais e também nos atos da administração.
+Assim, para alterar tal conclusão, a fim de verificar se houve ou não comprovação do processo de industrialização no período indicado na CDA, necessário o revolvimento do suporte fático-probatório dos autos, o que é vedado em recurso especial, ante o óbice da Súmula 7/STJ.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. INEXISTÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. EMBARGOS À EXECUÇÃO FISCAL. IPI. COMPROVAÇÃO DE QUE A CONTRIBUINTE REALIZAATIVIDADES DE INDUSTRIALIZAÇÃO. CONCLUSÃO DO ACÓRDÃO RECORRIDO MEDIANTE ANÁLISE DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
