@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial do Município de Santo André, fundado na alínea "a" do permissivo constitucional e interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO -Ação Declaratória de Inexigibilidade de Débito Fiscal - Autos de Infração -Exercíciosde 2005 a 2009 - Decisão que saneou e organizou o processo -Hipóteses de cabimento do recurso de agravo de instrumento - Taxatividade do art. 1015 do CPC - A relativização do rol é autorizada desde que em caráter excepcional e diante de urgência, que justifiquem a inutilidade ou risco de dano grave acaso impugnada posteriormente em recurso de apelação - Tese firmada pelo STJ na sistemática de julgamento de recursos repetitivos (Tema 988) - Requisitos não verificados - Recurso NÃO CONHECIDO
+Opostos embargos de declaração, foram eles acolhidos sem efeitos modificativos.
+No recurso especial, orecorrente alega violação dos seguintes dispositivos: a) arts. 357, II, e 1.022 do Código de Processo Civil, sustentando que o acórdão recorrido padece de obscuridade; b) arts. 1º do Decreto n. 20.910/32 e 487 do Código de Processo Civil,aduzindoque a prescrição pode ser reconhecida em qualquer grau de jurisdição e se enquadra em questão urgente para fins do art. 1.015, II, do Código de Processo Civil; c) arts. 319, III, e 320 do Código de Processo Civil, alegando tratar-se de matérias passíveis de apreciação em sede de agravo de instrumento em virtudeda urgência; d) arts. 141 e 369 do Código de Processo Civil, sustentando quenão há correlação entre os fatos alegados pelo recorrido e o que foi determinado pelo magistrado em Primeira Instância.
+Houve contrarrazões (e-STJ fls. 705/715).
+Sobreveio juízo negativo de admissibilidade pela incidência da Súmula n. 282/STF, bem como negativa de seguimento em virtude da conformidade do acórdão recorrido com o entendimento desta Corte Superior firmado em sede de recurso especial repetitivo (Tema n. 988).
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial possui condições de admissão.
+Houve contraminuta pela parte agravada (e-STJ fls. 969/978).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravante impugnou o fundamento adotado na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial.
+A insurgência não merece prosperar.
+Em primeiro lugar, deixo de analisar a violação dosarts. 1º do Decreto n. 20.910/32 e 319, III, 320 e487 do Código de Processo Civil,relacionados ao Tema n. 988/STJ,dado o esgotamento da questão na Instância a quopelaconformidadecom entendimento desse e.STJ firmado em sede derepetitivosnos termos doart. 1.030, § 2º, do CPC.
+Cuida-se, na origem, de agravo de instrumento de decisão que determinouo saneamento e a organização do processo em fase de conhecimento. O acórdão recorrido entendeu pelo não cabimento do agravo em virtude da ausência de urgência.
+Preliminarmente, a parte argumenta que "Em sede de embargos de declaração, foi apontado que a aferição da regularidade corresponde, em verdade, a juízo de ordem jurídica, e que não poderia estar na relação de fatos controvertidos, implicando obscuridade da decisão" (e-STJ fl. 689).
+O aresto que julgou os declaratórios fundamentou que (e-STJ fl. 700):
+Há de se esclarecer, por outro lado, que não existe obscuridade no acórdão embargado no que se refere da possibilidade de se agravar decisão que declara o feito saneado ou que fixa os pontoscontrovertidos da lide, pois estas matérias não são questões de mérito, tratando-se de questões meramente processuais, de maneira que não estão abarcadas no art. 1015 II do CPC.
+Com efeito, o decisium combatido limitou-se a analisar o cabimento ou não do agravo de instrumento, entendendo pela ausência de urgência apta a autorizar a mitigação da taxatividade do rol do art. 1.015 do CPC.
+Dito isso, não verifico o vício suscitado.
+No mérito, com relação à ofensa aosarts. 141 e 369, verifico que os dispositivos, bem como a tese a eles vinculada, não foramtratados na origem, razão pela qual carecem de necessário prequestionamento e atraem a incidência da Súmula n. 211/STJ.
+Exemplificativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.RESPONSABILIDADE PELO PAGAMENTO DO IPTU DE BEM IMÓVEL ARREMATADO EM HASTA PÚBLICA. EXPRESSA PREVISÃO DE RESPONSABILIDADE DO ARREMATANTE NO EDITAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Firme o entendimento do Superior Tribunal de Justiça de que, "havendo expressa menção no edital de hasta pública nesse sentido, a responsabilidade pelo adimplemento dos débitos tributários que recaiam sobre o bem imóvel é do arrematante" (AgRg no AREsp 248.454/SP, Rel. Min. Arnaldo Esteves Lima, Primeira Turma, DJe 12/9/2013). No mesmo sentido: AgInt nos EDcl no AREsp 1.006.727/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 13/2/2019.
+2. No caso dos autos, tendo a Corte de origem consignado que o edital de hasta pública previa, expressamente, que os créditos tributários relativos ao IPTU seriam transferidos ao arrematante do bem imóvel, não há como afastar a responsabilidade deste pelo adimplemento do referido débito tributário.
+3. A matéria referente ao art. 686, V, do CPC não foi objeto de análise pelo Tribunal de origem, ainda que implicitamente. Desse modo, carece o tema do indispensável prequestionamento viabilizador do apelo extremo, motivo pelo qual não merece ser apreciado, consoante o que preceitua a Súmula 211 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1845861/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 18/05/2020, DJe 20/05/2020)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ.OFENSA AO ART. 1.022 DO CPC. NÃO CONFIGURAÇÃO. OVENSA AOS ARTS. 141 E 369 DO CPC. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
