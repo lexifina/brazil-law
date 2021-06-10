@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos peloWELLINGTON PHILIPI DE SOUZA KLOCK (e-STJ fls. 1.015/1.025) contra decisão que reconsideroua decisão agravada às e-STJ fls. 970/972,paraconhecerdo agravo paraconhecer parcialmentedo seu recurso especial e, nessa parte, dar-lheprovimento parcial,para fixar a pena-base no mínimo legal,redimensionando a pena doagravante para 4anos e 2meses de reclusão e pagamento de 416dias-multa, mantidos os demais termos da condenação(e-STJ fls. 1.006/1.012).
+Alega a parte embarganteque a decisão embargada foi omissa, contraditória e obscura quanto aos seguintes pontos:(i) a ausência de prova concreta para a condenação do envolvido pelo crime de tráfico; (ii) a aplicação do benefício do art. 33, § 4º, da Lei n.º 11.343/2006 no patamar máximo; (iii)a fixação do regime diverso do fechado .
+É o relatório.Decido.
+Não existem vícios a serem sanados na decisão embargada.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+Verifica-se que esta Corte Superior posicionou-se de forma clara, adequada e suficiente ao concluir: (i) que,para afastar a condenação do acusado pelo delito de tráfico,em razão da inexistência de prova concretapara a condenação, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula7/STJ; (ii) que a quantidade e a variedade dos entorpecentes apreendidos (401,2g de cocaína e 19,2g de maconha - e-STJ fls. 807)justificam aincidência da causa de diminuição da pena descrita no § 4º do art. 33 da Lei de Drogas no patamar de 1/6, bem como a fixação do regime de cumprimento de pena mais gravosos, no caso, o fechado.
+Dessa forma, por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP,não é compatível com o recurso protocolado.
+Com essas considerações,rejeitoos embargos de declaração.
+Intimem-se.
