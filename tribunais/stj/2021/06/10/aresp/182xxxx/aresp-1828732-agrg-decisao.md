@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo regimental interposto por Ricardo Luis Soares contra adecisão monocrática da Presidência desta Corte,que não conheceu do agravo em recurso especial,em razão da incidência da Súmula 182/STJ (fls. 421/422).
+Nas razões do agravo regimental,a defesa sustentou, em suma, haver impugnado, fundamentadamente, todos os argumentos da respeitável decisão de inadmissão, contra a qual se invocou nulidade nas razões do agravo(fl. 426).
+Instado a se manifestar, o Ministério Público Federal opinou pelo conhecimento do agravo para não se conhecer do recurso especial (fls. 440/443).
+É o relatório.
+Observo que, nas razões do agravo, a defesa impugnou, satisfatoriamente, os fundamentos adotados para inadmissão do recurso especial na origem, de modo que não vislumbro a incidência da Súmula 182/STJ à espécie.
+Assim, dou provimento ao agravo regimental para reconsiderar a decisão agravada, passando à análise do agravo em recurso especial, anotando desde já, entretanto,que ainsurreição não merece amparo, uma vez que a pretensão deduzida exige indevido revolvimento fático, o que encontra óbice no teor da Súmula 7/STJ.
+Segundo consta da sentença condenatória, o Magistrado concluiu estar comprovada a materialidade delitiva do crime de receptação dolosapraticado pelo acusado. Para tanto, asseverou que, o pagamento de valor vil, a não identificação do suposto vendedor e a tentativa de fuga da abordagem policial são indicativos suficientes a evidenciar  acima de dúvida razoável  que o agente sabia da origem espúria do bem(fl. 310).
+Por sua vez, o Tribunal de origem, quando do julgamento do recurso apelatório, manteve tal conclusãoasseverandoquenão há que se cogitar em absolvição por insuficiência probatória, porquanto, em matéria de crime de receptação, a posse da coisa inverte o ônus da prova, gerando, em consequência, a presunção de responsabilidade do possuidor, possível de ser infirmada somente se for apresentada justificativa inequívoca, ausente na hipótese vertente (fl. 348).
+Nesse contexto, a insurgência recursal, nos moldes em que se encontra delineada, almeja que esta Corte de Justiça substitua as instâncias ordinárias, desconstituindo a conclusão apresentada pelo Magistrado e confirmada pelo Tribunala quo,e emita um novo pronunciamento jurisdicional, o que se mostra incabível por meio da via eleita.
+Com efeito,para desconstituir o entendimento firmado pelas instâncias ordinárias e concluir pela falta de dolo ou pela desclassificação para o delito de receptação culposa, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado nesta instância extraordinária (Súmula 7/STJ) -(AgRg no AgRg no AREsp n. 1.196.846/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 1º/8/2018).
+Nesse mesmo sentido, confiram-se:AgRg no HC n. 583.311/SP, Ministro Reynaldo Soares Da Fonseca, Quinta Turma, DJe 18/6/2020;e HC n. 374.013/SC, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 31/10/2018.
+Ante o exposto,dou provimentoaoagravo regimentalpara,reconsiderandoa decisão da Presidência, conhecerdo agravo paranão conhecerdo recurso especial.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. HIPÓTESE DE NÃO INCIDÊNCIA DA SÚMULA 182/STJ. RECONSIDERAÇÃO. CRIME DE RECEPTAÇÃO DOLOSA. PLEITO DE DESCLASSIFICAÇÃO PARA MODALIDADE CULPOSA. IMPOSSIBILIDADE. PRETENSÃO QUE EXIGE REVOLVIMENTO FÁTICO. INCIDÊNCIA DA SÚMULA 7/STJ.
+Agravo regimental provido para, reconsideradaa decisão da Presidência,conhecer do agravo para não conhecer do recurso especial.
