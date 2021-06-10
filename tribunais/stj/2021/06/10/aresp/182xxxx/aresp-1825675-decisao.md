@@ -1,0 +1,17 @@
+DECISÃO
+Na origem trata-se de ação em que se pretende a reforma da patente da parte autora. Na sentença, julgou-se extinta a ação em razão do reconhecimento da prescrição. No Tribunala quoa sentença foi mantida, conforme o seguinte resumo de ementa do acórdão:
+POLICIAL MILITAR REFORMADO POR INVALIDEZ PERMANENTE REVISÃO DO ATO DE REFORMA COM CONCESSÃO DE GRADUAÇÃO AO POSTO SUPERIOR NOS TERMOS DO ARTIGO 1 § 1 DA LEI ESTADUAL N 54511986 BENEFÍCIO CONCEDIDO MAIS DE CINCO ANOS ANTES DO AJUIZAMENTO DA AÇÃO ATO DE EFEITOS CONCRETOS RECONHECIMENTO DA PRESCRIÇÃO DO FUNDO DE DIREITO QUE SE IMPÕE INTELIGÊNCIA DO DECRETO N 2091032 DECRETO DE IMPROCEDÊNCIA DOS PEDIDOS QUE ERA MESMO DE RIGOR RECURSO DESPROVIDO
+Interposto recurso especial em que são partesJULIO CESAR GABARRONe FAZENDA DO ESTADO DE SÃO PAULO,o recurso foi inadmitido na origem. Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+Quanto a alegação de que os prazos prescricionais não correriam contra a parte autora, a Corte de origem assim analisou a alegação:
+Não acode o embargante alegação de que seria absolutamente incapaz, em razão de sua moléstia psiquiátrica, e que houve cerceamento de seu direito à produção de prova pericial. Ora, se o autor não foi interditado, esta ação obviamente não é adequada para o reconhecimento de sua incapacidade civil, muito menos seria o Patrono legitimado para formular pedido nesse sentido. Rigorosamente, até mesmo a procuração outorgada seria nula.
+O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, acerca da não comprovação da incapacidade civil ou de interdição da parte autora, bem como da inexistência de poderes do representante processual para ajuizar ação sobre a matéria, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Relativamente àsdemais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ : "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único,II, a,do Regimento Interno do STJ, conheço do agravo, e não conheço do recurso especial.
+Publique-se. Intime-se.
