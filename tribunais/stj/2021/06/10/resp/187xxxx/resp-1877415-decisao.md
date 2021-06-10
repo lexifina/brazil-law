@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 112):
+Acidente do Trabalho - Embargos à Execução - Apuração das parcelas atrasadas - Utilização dos índices oficiais de remuneração da caderneta de poupança, para fins de atualização monetária, conforme a Lei nº 11.960/09 - Impossibilidade - Aplicação da declaração de inconstitucionalidade por arrastamento proferida na ADIn nº 4.357, enquanto se aguarda a decisão da repercussão geral a respeito da aplicabilidade da Lei nº 11.960/09 aos cálculos dos débitos da Fazenda Pública - Recurso provido nessa parte.
+Dou provimento ao recurso do exequente, com observação.
+Aponta o recorrente violação aos arts. 5º da Lei 11.960/2009, que deu nova redação ao art. 1º-F da Lei 9.494/4997, na medida em que "não há fundamento legal para o v. acórdão recorrido determinar que, a partir de 30.06.2009, a correção das parcelas em atraso na presente ação será apurada pela aplicação do IGP-DI, tendo em vista que deve incidir o disposto na Lei nº 11.960/2009 para a atualização da condenação" (fl. 125).
+Ao final, requer "a reforma do v. aresto guerreado,para determinar a TR como índice de atualização das parcelas em atraso a partir da entrada em vigor da Lei nº 11.960/09" (fl. 128).
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, àsfls. 133/142.
+Em novo julgamento para eventual juízo de retratação, o acórdão foi parcialmente alterado nos seguintes termos (fl. 156):
+Acidente de Trabalho - Execução - Índice de atualização monetária dos valores atrasados - Aplicação do índice previsto na Lei nº 11.960/09 - Multiplicidade de recursos - Entendimento exarado pelo C. STF, no julgamento do RE nº 870.947/SE, em repercussão geral (Tema 810/STF), no qual a Suprema Corte declarou a inconstitucionalidade da TR, com efeitos retroativos - Acórdão proferido por este E. Tribunal que afasta o emprego do índice oficial de remuneração da caderneta de poupança -Aplicação do artigo 1.030, inciso II, do CPC em vigor -Juízo de retratação não exercido.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No caso, conforme se verifica dos autos, o Tribunal a quo, em juízo de retratação previsto no art. 1.030, II, do CPC/15, proferiu novo julgamento e manteveo entendimento anteriormente exarado, nos seguintes termos( fls. 157/158):
+Em decisão proferida no dia 20 de setembro de 2017, o Plenário do C. STF, em análise de repercussão geral sobre a matéria, nos autos do Recurso Extraordinário nº 870.947, declarou a inconstitucionalidade daaplicação do índice oficial de remuneração da caderneta de poupança, previsto na Lei nº 11.960/09, como critério de atualização monetária dos débitos da Fazenda Pública.
+Houve interposição de embargos de declaração, visando modulação dos efeitos dessa declaração.
+E, no dia 03 de outubro do corrente ano, o E. Plenário da Corte Suprema rejeitou todos os embargos, entendendo pela desnecessidade de modulação, emprestando, então, caráter retroativo à declaração de inconstitucionalidade do índice de correção monetária previsto na Lei nº 11.960/09, desde sua vigência.
+Em outras palavras, a tese defendida pelo v. acórdão retratando prevaleceu, qual seja, inaplicabilidade do índice previsto na Lei nº 11.960/09.
+Vale consignar, por oportuno, que o INSS, em seu recurso especial, não defendeu o emprego do INPC em qualquer período, apenas insistiu na substituição do IGP-DI pela TR.
+Desta forma, não exerço o juízo de retratação previsto no atual art. 1.030, inciso II, do CPC, mantendo o v. julgado de fls. 111/114, tal como lançado.
+Assim, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial.
+Ainda que assim não fosse, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, "o INSS, em seu recurso especial, não defendeu o emprego do INPC em qualquer período, apenas insistiu na substituição do IGP-DI pela TR." esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".A respeito do tema:AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/02/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/02/2021.
+Ademais, como houve alteração do fundamento adotado pela Corte de origem, a retificação do apelo nobre anteriormente interposto seria medida de rigor, sob pena de aplicação, por analogia e mutatis mutandis, daSúmula283/STF579/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 543-C, § 7º, INC. II, DO CPC/1973. ACÓRDÃO MANTIDO, MAS COM FUNDAMENTO NOVO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. SÚMULA 579/STJ.
+1. Submetido o recurso especial a juízo de retratação e reapreciado o caso, conforme o art. 543-C, § 7º, inc. II, do CPC/1973, o acórdão hostilizado foi mantido, acrescentando-se, todavia, fundamento novo.
+2. Hipótese em que necessária a ratificação do recurso especial, providência não observada. Incidência, por analogia, da Súmula 579/STJ.
+3. Agravo não provido.
+(AgInt no AREsp 828.379/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/08/2017, DJe 25/08/2017)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO PROFERIDO NOS TERMOS DO ART. 543-C, § 7º, II, DO CPC. FALTA DE RATIFICAÇÃO. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA
+1. "É inadmissível o recurso especial interposto antes da publicação do acórdão dos embargos de declaração, sem posterior ratificação" - Súmula 418/STJ.
+2. Hipótese em que o Recurso Especial foi submetido a juízo de retratação em razão de a matéria versada nele Recurso Especial ter sido submetida a julgamento no rito dos recursos repetitivos. Posteriormente, o órgão colegiado reapreciou o tema com base no art. 543-C, § 7º, II, do CPC; manteve-se o acórdão hostilizado, mas o Recurso Especial não foi reiterado ou ratificado pela parte interessada. Agravo regimental improvido.
+(AgRg no REsp 1.479.578/AL, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/12/2015, DJe 02/02/2016)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
