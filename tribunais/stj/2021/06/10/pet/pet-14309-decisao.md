@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de petição apresentada em favor de EDUARDO VEIGA DO NASCIMENTO, em que se requer "seja aplicada a lei penal mais benéfica, retificando-se o cálculo de penas para consta o prazo de 40% (quarenta por cento) para fins de progressão de regime prisional, nos termos da nova redação do artigo 112, inciso V, da Lei de Execução Penal" (fl. 10).
+Afirma-se que o Reeducando-condenado como incurso no art. 121,§ 2., incisos I e IV, do Código Penal à pena reclusiva de 15 (quinze) anos, no regime inicial fechado- não é reincidente específico na prática de crime hediondo ou equiparado.
+É o relatório. Decido.
+Como se sabe, acompetênciadesta Corte está prevista de forma taxativa no art. 105 da Constituição da República, no qual não há previsão para a apreciação originária de incidentes na execução penal em curso no juízo de primeiro grau.
+Está evidenciada a incompetência deste Superior Tribunal de Justiça para apreciar e julgar originariamente a causa.
+Mutatis mutandis, cito o seguinte julgado:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. REITERAÇÃO DE PEDIDO. NÃO CABIMENTO. MATÉRIA JÁ ARGUIDA EM WRIT ANTERIORMENTE IMPETRADO. APLICAÇÃO DA LEI PENAL MAIS BENIGNA. COMPETÊNCIA. JUÍZO DA EXECUÇÃO PENAL. IMPOSSIBILDIADE DE ANÁLISE DIRETA PELO STJ. RECURSO IMPROVIDO. 1. Tal como consignado na decisão agravada, em favor do paciente já havia sido impetrado perante esta Corte Superior de Justiça o HC n.º 236.159/SP, sob os mesmos argumentos expostos no writ em apreço, o que revela a simples reiteração de pedido, a ensejar o indeferimento liminar da petição inicial. Precedentes. 2. A competência para a análise da aplicabilidade da lei penal benigna é do juízo da execução penal, nos termos do artigo 66, inciso I, da Lei de Execução Penal, razão pela qual é inviável a deliberação da matéria diretamente pelo Superior Tribunal de Justiça, sob pena de supressão de graus de jurisdição. Súmula n. 611/STF. 3. Agravo regimental improvido."(AgRg no HC 250.812/SP, Rel. Ministro JORGE MUSSI, DJ 10/03/2014.)
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+PETIÇÃO. EXECUÇÃO PENAL. PLEITO DE RETIFICAÇÃO DO CÁLCULO DE PENA PARA QUE SEJA UTILIZADO O PERCENTUAL DE 40% (QUARENTA POR CENTO)PARA PROGRESSÃO DE REGIME. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL PARA APRECIAR O PEDIDO ORIGINARIAMENTE. PETIÇÃO LIMINARMENTE INDEFERIDA.
