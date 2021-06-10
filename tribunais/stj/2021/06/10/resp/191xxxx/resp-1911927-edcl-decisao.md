@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela FAZENDA NACIONAL, pedindo integração quanto à tributação dos "reflexos" do aviso prévio.
+Alega, em síntese (fls. 4357/4360):
+Conforme consignado na decisão embargada, o acórdão recorrido afastou a incidência das contribuições previdenciária, RAT/SAT e contribuições de terceiros sobre aviso prévio indenizado e reflexos. Ora, o que são reflexos do aviso prévio  São parcelas proporcionais de férias e décimo terceiro sobre as quais, que conforme demonstrado no recurso especial, incidem as contribuições em discussão. Todavia, a decisão embargada somente tratou da questão da incidência das contribuições em discussão sobre valores pagos a título de aviso prévio, sem examinar a questão relativa à incidência sobre os referidos reflexos.
+Sem impugnação pela parte embargada (fl. 4363).
+É o relatório. Decido.
+Nos termos do artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Este Tribunal Superior tem pacífica orientação jurisprudencial pela incidência da contribuição previdenciária sobre os valores recebidos a título de férias e décimo terceiro salário proporcional ao aviso prévio (v.g.: AgInt no REsp 1829495/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/08/2020, DJe 27/08/2020; AgInt nos EDcl no REsp 1566704/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 17/12/2019, DJe 19/12/2019).
+Ocorre que o TRF1 nada tratou das rubricas apontadas pela Fazenda Nacional, apreciando, efetivamente, somente a incidência da contribuição sobre o aviso prévio indenizado; e a só menção a "reflexos" não caracteriza o prequestionamento necessário.
+No caso dos autos, consta da decisão embargada: "A parte recorrente alega violação do art. 1.022 do CPC/2015 e dos arts. 22 e 28 da Lei n. 8.212/1991, sustentando, em síntese, a incidência de contribuição previdenciária sobre os valores pagos a título de férias, décimo terceiro proporcional ao aviso prévio indenizado  ..  o TRF1 julgou tão somente a questão da incidência das contribuições sobre aviso prévio indenizado, nada tecendo quanto a outras rubricas, por isso, o recurso só é conhecido quanto à matéria efetivamente julgada. E o acórdão recorrido está em conformidade com a orientação firmada pela Primeira Seção deste Tribunal, no julgamento do REsp 1230957/RS, sob a relatoria do em. Ministro Mauro Campbell Marques".
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. AVISO PRÉVIO INDENIZADO. NÃO INCIDÊNCIA. VÍCIOS DE INTEGRAÇÃO. INEXISTÊNCIA.
