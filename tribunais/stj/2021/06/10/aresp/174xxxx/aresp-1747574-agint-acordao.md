@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OSFUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar, especificamente e de forma particularizada, o fundamento da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Evani Marzagão Beringhs contra decisão que negou provimento ao agravo em recurso especial, em razão da incidência das Súmulas 282, 283 e 280 do STF (fls. 726/728).
+Inconformada, a parte agravante afirma a existência de prequestionamento implícito das matérias insertas nos arts. 7º e 8º do CPC. Pontua quehá de se considerar também que os artigos em questão (7º e 8º, ambos do CPC), que versam exclusiva e respectivamente sobre os princípios da paridade de armas e da dignidade da pessoa humana são matérias de ordem pública processual, as quais são passíveis de conhecimento a qualquer tempo e grau de jurisdição, não podendo, assim, serem "desprezadas" pelo Julgador que, por força legal (cognição de ofício), deve analisar o fato quando suscitado pela parte interessada (fl. 731). Acrescenta serinaplicável o teor da Súmula 282 do STF, eis que esta versa exclusivamente sobre Recurso Extraordinário, o que não é o caso da presente demanda(fl. 731).
+Defende a configuração do dissídio jurisprudencial, bem como o atendimento aos preceitos legais e regimentais da espécie. Invoca o princípio daprimazia da resolução do mérito e busca da efetiva tutela processual.
+Aduz que os verbetes n.283 e n. 280 daSúmulado STFestariam vinculados apenas e tão somente ao Recurso Extraordinário e não aos apelos de natureza Extraordinária, como o Recurso Especial, o que não justificaria a aplicabilidade destas na presente demanda (fl. 735).
+Reitera as razões anteriormente deduzidas no apelo nobre.
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OSFUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar, especificamente e de forma particularizada, o fundamento da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): De acordo com o art. 1.021, § 1º, do CPC/2015, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Nessa esteira, a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão agravada, sob pena de incidir o óbice contido na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida."). Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC eEAREsp 831.326/SP, Relator Ministro Luis Felipe Salomão, DJe de 30/11/2018).
+Convém ressaltar que a Primeira Turma desta Corte compreendeu que incumbe ao agravante se insurgir contra todos os capítulos específicos e autônomos da decisão agravada, admitindo-se o agravo interno parcial nas hipóteses em que há manifestação expressa de que sua irresignação se volta somente contra parcela do julgado e de que haveria concordância com o restante (AgInt no REsp 1.518.882/SC, Rel. Ministro Sérgio Kukina, DJe 21/02/2019; AgInt no REsp 1.695.426/RS, Rel. Ministra Regina Helena Costa, DJe 21/9/2018; e AgInt no AREsp 1.163.354/RJ, Rel. Ministro Gurgel de Faria, REPDJe 4/10/2018).
+O entendimento jurisprudencial assim consolidado conta, também, com o aval da autorizada doutrina. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+Pois bem, nas razões do agravo interno em exame, não se impugnaramos fundamentos segundo os quais, no tocante ao art. 976, II, do CPC/2015,remanesceramíntegros os alicercesdo acórdão proferido em sede aclaratória dequeo incidente de resolução de demandas repetitivas deve preceder o julgamento, conforme previsto nos arts. 976 a 987 do CPC e não pode ser acolhido por não ter sido observado o disposto no art. 977, II, do CPC(Súmula 283/STF)e o de que o apelo nobre não pode ser conhecido relativamente à apontada ofensa à Lei Estadual nº 16.122/2015 (Súmula 280/STF).
+Nesse contexto, incide a Súmula 182/STJ.
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
