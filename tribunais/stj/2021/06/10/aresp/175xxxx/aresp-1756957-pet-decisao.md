@@ -1,0 +1,7 @@
+DECISÃO
+Vistos etc.
+Trata-se de petição apresentada pela CAIXA SEGURADORA S/A às e-STJ Fls. 1219/1274, informando que o Supremo Tribunal Federal julgou recentemente o Recurso Extraordinário nº 827.996/PR, ao qual foi dado provimento, por maioria, para definir a competência da Justiça Federal para processar e julgar os feitos em relação aos contratos acobertados pelo FCVS.
+Requer que seja intimada a Caixa Econômica Federal - CEF, para que possa se manifestar acerca da presença do interesse jurídico em integrar o feito, oportunidade em que os autos deverão ser remetidos à Justiça Federal para ulterior deliberação sobre a efetiva presença dos requisitos caracterizadores deste interesse, nos termos do voto que conduziu o julgamento do Supremo Tribunal Federal.
+Contudo, no tocante a competência da Justiça Federal para processar e julgar os feitos em relação aos contratos acobertados pelo FCVS, não houve se discussão da questão no aresto recorrido, inexistindo prequestionamento e não houve qualquer impugnação no agravo interno anteriormente interposto, verificando-se evidente a preclusão.
+Sabe-se que até mesmo as questões de ordem pública e aquelas cognoscíveis de ofício, aí incluindo-se a competência, repito, não tratada no acórdão recorrido, submetem-se ao requisito do prequestionamento, na forma do art. 105 da CF, não se podendo, assim, delas conhecer já que não examinadas.
+Ante o exposto, indefiro a petição.
