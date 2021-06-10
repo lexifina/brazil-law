@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por RUBENS RONALDO MOURA BAPTISTAfundado na alínea "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ªRegião, assim ementado:
+PENAL. ART. 334, CAPUT, DO CÓDIGO PENAL. DESCAMINHO. PRINCÍPIO DA INSIGNIFICÂNCIA. MATÉRIA PRECLUSA. LAUDO MERCEOLÓGICO. DESNECESSIDADE. ORIGEM DA MERCADORIA DEMONSTRADA. MATERIALIDADE, AUTORIA E DOLO COMPROVADOS. CONDENAÇÃO MANTIDA.
+1. Não havendo quaisquer elementos novos nas provas produzidas durante a instrução criminal, a inaplicabilidade do princípio da insignificância encontra-se resolvida pela preclusão hierárquica, diante da decisão de instância superior transitada em julgado.
+2. A elaboração de laudo merceológico não é indispensável à propositura da ação penal, uma vez que a natureza, quantidade e origem podem ser feitas por todos os meios de prova.
+3. Para a caracterização da transnacionalidade, não se exige que o acusado pessoalmente realize a transposição da fronteira, bastando ter ciência da origem estrangeira das mercadorias
+4. Trata-se do crime de descaminho, ou seja, a conduta de importar ou exportar mercadoria valendo-se de fraude para evitar o pagamento de direito ou imposto devido pela entrada ou saída de mercadoria não proibida.
+5. Nos crimes de descaminho, a materialidade e a autoria são comprovadas, em regra, com os documentos elaborados e lavrados pela autoridade fiscal competente e responsável pela diligência por ocasião da apreensão das mercadorias.
+6. O dolo trata-se de elemento subjetivo estruturado de modo genérico no tipo penal em questão, motivo pelo qual se deve aferi-lo pela prática consciente e deliberada da conduta descrita no preceito primário da norma penal imputada ao réu.
+7. Presente prova da materialidade, da autoria e do dolo no agir, bem como inexistentes causas excludentes da culpabilidade ou da ilicitude, impõe-se manter a condenação. (e-STJ fls. 393/394)
+O recorrente apontadivergência jurisprudencial em relação à aplicação do princípio da insignificância, alegando que a existência de uma única condenação pretérita autoriza a aplicação do referido princípio.
+Apresentadas as contrarrazões (e-STJ fls. 413/426), o recurso foi admitido (e-STJ fl. 429), tendo o Ministério Público Federal opinado pelo improvimentodo recurso especial (e-STJ fls. 444/447).
+É o relatório. Decido.
+O recurso não merece acolhida.
+O conhecimento do recurso especial interposto com amparo no art. 105, III, c, da CF exige, além da indicação do dispositivo legal porventura violado pelo Tribunal estadual, a realização do cotejo analítico do dissídio jurisprudencial invocado, mediante a transcrição de trechos do acórdão recorrido e dos precedentes colacionados que demonstrem a similitude fática entre os casos e a interpretação diversa atribuída ao mesmo dispositivo da legislação infraconstitucional.
+No caso em tela não se verifica a similitude fática entre os julgados, isso porque no acórdão paradigma indicado pela defesa tem-se a existência de uma únicaanotação pretérita, situação muito diferente da hipótese em apreço em que o recorrente possui dez registros junto à Receita Federal, em que foi flagrado praticando descaminhoem diferentesmunicípios (Montes Claros/MG, Cascavel/PR, Foz do Iguaçu/PR, Joaçaba/SC, Santa Maria/RS e Santa Cruz do Sul/RS)
+Importante anotar quea existência de outras ações penais, inquéritos policiais em curso ou procedimentos administrativos fiscais, como no presente caso, em que pese não configurarem reincidência, denotam a habituação delitiva do réu e afastam, por consectário, a incidência do princípio da insignificância (ut,AgRg no REsp 1898367/PR, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 17/12/2020).
+Ante o exposto, com fundamento no art. 932, inciso IV, alínea "a", do CPC c/c o art. 255, § 4º, inciso II, do RISTJnego provimento ao recurso especial.
+Intimem-se.
