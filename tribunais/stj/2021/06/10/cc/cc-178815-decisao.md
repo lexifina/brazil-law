@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado nos autos da ação de cobrança ajuizada pelo SINDICATO DOS AGENTES COMUNITÁRIOS DE SAÚIDE E DOS AGENTES DE ENDEMIAS DO ESTADO DE RORAIMA - SINDACSE/RR em face do MUNICÍPIO DE BOA VISTA, objetivando o recebimento de diferenças remuneratórias referente a adicional de insalubridade.
+Inicialmente o processo foi distribuído ao Juízo da 3ª Vara do Trabalho de Boa Vista/RR, ora suscitado, que se declarou incompetente para processar e julgar o feito sob o fundamento de que "o STF, em razão do disposto no art. 39 da Constituição Federal de 1988, concebe que as demandas entre o Poder Público e seus servidores (lato senso), compreendidos os Agentes Comunitários de Saúde (ACS) e os Agentes de Combate às Endemias (ACE), devem ser submetidas ao crivo da Justiça Comum, independentemente das disposições contidas na Lei nº. 11.350/2006 ou de qualquer outra espécie normativa infraconstitucional que tenha por fim submeter os servidores ao regime celetista" (fl. 233).
+Os autos foram então remetidos ao Juízo de Direito da 2ª Vara da Fazenda Pública da Comarca de Boa Vista/RR, que julgou procedente o pedido autoral (fls. 355/362).
+Em grau de apelação, o Tribunal de Justiça do Estado de Roraima, ora suscitante, de ofício reconheceu a incompetência absoluta da Justiça Estadual, por entender que "o caderno processual revela a ausência de imperativo legal que submeta os ocupantes dos cargos referidos a vinculo estatutário ou de caráter jurídico-administrativo" (fl. 25).
+O Ministério Público Federal, em parecer da ilustre Subprocuradora-Geral da República DARCY SANTANA VITOBELLO, opinou pelo conhecimento do conflito de competência para que seja declarado competente oJuízo da 3ª Vara do Trabalho de Boa Vista/RR, ora suscitado (fls. 419/423).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conheço do conflito, porquanto suscitado entre juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal.
+É firme o entendimento desta Corte no sentido de que sendo regido pela CLT o vínculo entre os servidores e a Administração Municipal, por força da legislação de regência, eventuais ações objetivando o recebimento de diferenças remuneratórias devem tramitar na Justiça do Trabalho. Nesse sentido:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. RECLAMAÇÃO TRABALHISTA. AGENTE COMUNITÁRIO DE SAÚDE. REGIME CELETISTA. OBSERVÂNCIA.
+1. O art. 8º da Lei n. 11.350/2006 estabeleceu o regime celetista nas hipóteses de contratação de agente comunitário de saúde, salvo se o ente público adotar forma diversa por meio de lei local, de modo que "será celetista o regime aplicável apenas se Estados, Distrito Federal e Municípios não dispuserem de forma diversa" (AgRg no CC 136.320/RS, Rel. Ministro MAURO CAMPBELL MARQUES, Primeira Seção, julgado em 12/11/2014, DJe 17/11/2014).
+2. Hipótese em que a parte agravante foi contratada para a referida função sob o pálio do regime celetista, o qual foi mantido pela Lei Municipal n. 523/2007, o que atrai a competência da Justiça Obreira para julgar o feito.
+3. Agravo interno desprovido.
+(AgInt no CC 160.975/PE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, DJe 29/8/2019)
+ANTE O EXPOSTO, conheço do conflito para declarar competente para processar e julgar a causa o Juízo da 3ª Vara do Trabalho de Boa Vista/RR, ora suscitado.
+Dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se. Cumpra-se.
