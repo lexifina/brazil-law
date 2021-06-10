@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. BENEFÍCIOS. AUXÍLIO-DOENÇA. CANCELAMENTO. NECESSIDADE DE PRÉVIA PERÍCIA MÉDICA. PENA DE OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO.AGRAVO INTERNO. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO. INEXISTENTES.
+I - Na origem, trata-se de ação objetivando a concessão de auxílio-doença desde a DER, em 20/2/2014. Por sentença, julgou-se procedente o pedido. No Tribunal "a quo", a sentença foi mantida. Nesta Corte, o recurso especial foi improvido.
+II - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado. Não há vício no acórdão. A matéria foi devidamente tratada com clareza e sem contradições.
+III - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IV - O apontamento de vício pela parte embargante, foi tratado com clareza e sem contradições, com o apontamento de jurisprudência atual sobre a questão discutida, conforme se percebe do seguinte trecho do acórdão: "É pacífico o entendimento no Superior Tribunal de Justiça no sentido da impossibilidade da alta médica programada para cancelamento automático do benefício previdenciário de auxílio-doença, sem que haja prévia perícia médica que ateste a capacidade do segurado para o desempenho de atividade laborativa que lhe garanta a subsistência, sob pena de ofensa aos princípios da ampla defesa e do contraditório. In verbis: .. ."
+V - As alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+VI - Embargos de declaração rejeitados.
+RELATÓRIO
+Na origem, trata-se de ação objetivando a concessão de auxílio-doença desde a DER, em 20/2/2014. Por sentença, julgou-se procedente o pedido. No Tribunal "a quo", a sentença foi mantida, conforme a seguinte ementa do acórdão:
+PREVIDENCIÁRIO. PROCESSUALCIVIL. ACÓRDÃO ANULADO. DETERMINAÇÃO DO STJ DE ANÁLISE DA REMESSA NECESSÁRIA. BENEFÍCIO POR INCAPACIDADE. INCAPACIDADE TEMPORÁRIA DESDE A DER. AUXÍLIO-DOENÇA. JUROS E CORREÇÃO.
+1. Presentes os requisitos legais ao benefício e, tendo o laudo médico oficial concluído pela existência de patologia incapacitante para o exercício de atividades laborais, bem como pela possibilidade de reversão do quadro, cabível a concessão do auxílio-doença, no caso, desde a DER.
+2. O Supremo Tribunal Federal reconheceu no RE 870947, com repercussão geral, a inconstitucionalidade do uso da TR, sem modulação de efeitos.
+3. O Superior Tribunal de Justiça, no REsp 1495146, em precedente também vinculante, e tendo presente a inconstitucionalidade da TR como fator de atualização monetária, distinguiu os créditos de natureza previdenciária, em relação aos quais, com base na legislação anterior, determinou a aplicação do INPC, daqueles de caráter administrativo, para os quais deverá ser utilizado o IPCA-E.
+4. Os juros de mora, a contar da citação, devem incidir à taxa de 1% ao mês, até 29/06/2009. A partir de então, incidem uma única vez, até o efetivo pagamento do débito, segundo o percentual aplicado à caderneta de poupança.
+Inicialmente, em seu recurso especial, o INSS suscitou contrariedade ao art. 1.022 do CPC/2015, aduzindo que o Tribunal de origem a despeito da oposição dos aclaratórios, não se manifestou acerca dos dispositivos legais invocados como violados.
+Em seguida, ainda em suas razões de insurgência, o recorrente aponta como violados os arts. 71 da Lei n. 8.212/1991 e 59, 60 e 101 da Lei n. 8.213/1991, sustentando, em síntese, que a cessação do pagamento do auxílio-doença deve ocorrer em 120 (cento e vinte) dias, prescindindo da realização de perícia médica, tendo em vista que a decisão judicial que concedeu o mencionado benefício previdenciário não fixou prazo legal para o término de sua fruição pelo segurado.
+Nesta Corte, a decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial."
+Interposto agravo interno, este foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. BENEFÍCIOS. AUXÍLIO-DOENÇA. CANCELAMENTO. NECESSIDADE DE PRÉVIA PERÍCIA MÉDICA. PENA DE OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO.
+I - Na origem, trata-se de ação objetivando a concessão de auxílio-doença desde a DER, em 20/2/2014. Por sentença, julgou-se procedente o pedido. No Tribunal "a quo", a sentença foi mantida. Nesta Corte, o recurso especial foi improvido.
+II - É pacífico o entendimento no Superior Tribunal de Justiça no sentido da impossibilidade da alta médica programada para cancelamento automático do benefício previdenciário de auxílio-doença, sem que haja prévia perícia médica que ateste a capacidade do segurado para o desempenho de atividade laborativa que lhe garanta a subsistência, sob pena de ofensa aos princípios da ampla defesa e do contraditório. In verbis: REsp 1.597.725/MT, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/6/2019, DJe 1º/7/2019; REsp n. 1.631.392/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/12/2018, DJe 17/12/2018; AgInt no REsp n. 1.547.190/MT, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 15/5/2018, DJe 18/5/2018.
+III - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado, conforme seguintes trechos da petição:
+No entanto, com as todas as vênias, a r. decisão embargada está eivada de omissão, nos termos do art. 1.022, II, do CPC/2015, uma vez que não se pronunciou sobre o principal argumento veiculado nas razões recursais, bem como do agravo interno, a jurisprudência mencionada não se aplica.
+3.É possível verificar que os precedentes invocados pela decisão agravada tratam de questão diversa daquela debatida nestes autos, eis que fundamentados, direta ou indiretamente, na ilegalidade da "alta programada", instituída pelo Decreto 5.844/2006 que acrescentou os § § 1º, 2º e 3º do art. 78 do Decreto 3.048/1999, por contrariar o art. 62 da Lei nº 8.213/1991.
+4. Na hipótese em julgamento, discute-se a possibilidade de, após a alteração legislativa promovida no art. 60 da Lei 8.213/91, pelas MP nº 739/16 e MP nº 767/2017(convertida na Lei nº 13.457/2017), e respeitado o contraditório e a ampla defesa do segurado, da fixação de data, pelo perito médico, para cessação do benefício(DCB) ou, não havendo esta possibilidade, da definição do prazo de 120 dias para esta cessação, passível de prorrogação automática a pedido do segurado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. BENEFÍCIOS. AUXÍLIO-DOENÇA. CANCELAMENTO. NECESSIDADE DE PRÉVIA PERÍCIA MÉDICA. PENA DE OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO.AGRAVO INTERNO. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO. INEXISTENTES.
+I - Na origem, trata-se de ação objetivando a concessão de auxílio-doença desde a DER, em 20/2/2014. Por sentença, julgou-se procedente o pedido. No Tribunal "a quo", a sentença foi mantida. Nesta Corte, o recurso especial foi improvido.
+II - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado. Não há vício no acórdão. A matéria foi devidamente tratada com clareza e sem contradições.
+III - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IV - O apontamento de vício pela parte embargante, foi tratado com clareza e sem contradições, com o apontamento de jurisprudência atual sobre a questão discutida, conforme se percebe do seguinte trecho do acórdão: "É pacífico o entendimento no Superior Tribunal de Justiça no sentido da impossibilidade da alta médica programada para cancelamento automático do benefício previdenciário de auxílio-doença, sem que haja prévia perícia médica que ateste a capacidade do segurado para o desempenho de atividade laborativa que lhe garanta a subsistência, sob pena de ofensa aos princípios da ampla defesa e do contraditório. In verbis: .. ."
+V - As alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+VI - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+"O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida." (EDcl no MS 21.315/DF, relatoraMinistra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+O apontamento de vício pela parte embargante, foi tratado com clareza e sem contradições, com o apontamento de jurisprudência atual sobre a questão discutida,conforme se percebe do seguinte trecho do acórdão:
+É pacífico o entendimento no Superior Tribunal de Justiça no sentido da impossibilidade da alta médica programada para cancelamento automático do benefício previdenciário de auxílio-doença, sem que haja prévia perícia médica que ateste a capacidade do segurado para o desempenho de atividade laborativa que lhe garanta a subsistência, sob pena de ofensa aos princípios da ampla defesa e do contraditório. In verbis:
+ ..
+As alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017.)
+No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
