@@ -1,0 +1,1 @@
+Art. 2º-B Quando requisitado pelas autoridades competentes, as repartições públicas e instituições privadas disponibilizarão os registros de filmagem necessários para apuração dos fatos. (Incluído pela Lei nº 4.087, de 16/03/2023)
