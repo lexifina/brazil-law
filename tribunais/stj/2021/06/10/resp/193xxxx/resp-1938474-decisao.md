@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. REMESSA NECESSÁRIA. DESCABIMENTO. TEMPO DE SERVIÇO ESPECIAL. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. CONCESSÃO. EFEITOS FINANCEIROS. CONSECTÁRIOS. IMPLANTAÇÃO DO BENEFÍCIO.
+. Sentença proferida na vigência do Código de Processo Civil de 2015. O cabimento da remessa necessária deve ser analisado a partir dos parâmetros previstos no artigo 496, § 3º, do CPC, quando a condenação ou o proveito econômico obtido na causa for de valor certo e líquido inferior a 1.000 (um mil) salários-mínimos para a União, respectivas autarquias e fundações de direito público. Excepciona-se a aplicação do instituto quando, por meros cálculos aritméticos, é possível aferir-se que o montante da condenação imposta ao ente público é inferior àquele inscrito na norma legal.
+. Comprovada a exposição do segurado a agente nocivo, na forma exigida pela legislação previdenciária aplicável à espécie, possível reconhecer- se a especialidade da atividade laboral por ele exercida.
+. Tem direito à aposentadoria por tempo de serviço/contribuição o segurado que, mediante a soma do tempo judicialmente reconhecido com o tempo computado na via administrativa, possuir tempo suficiente e implementar os demais requisitos para a concessão do benefício.
+. Os efeitos financeiros devem ser contados desde a DER, conforme previsto no art. 49 c/c 57, §2º, LBPS, na forma do entendimento já consolidado nesta Corte (TRF4, AC nº5004029-74.2015.4.04.7100/RS, Relatora Des. Federal TAIS SCHILLING FERRAZ, 5ª Turma, unânime, j. 06/06/2017; TRF4, AC nº 5000182-58.2011.404.7212/SC, Relator Juiz Federal PAULO PAIM DA SILVA, 6ª Turma, unânime, j. 26/03/2014; TRF4, EINF nº 0000369-17.2007.404.7108, Relator Des. Federal CELSO KIPPER, 3ª Seção, unânime, D.E. 08/03/2012).
+. Correção monetária a contar do vencimento de cada prestação, calculada pelo INPC, para os benefícios previdenciários, a partir de 04/2006, conforme o art. 31 da Lei n.º 10.741/03, combinado com a Lei n.º 11.430/06, precedida da MP n.º 316, de 11/08/2006, que acrescentou o art. 41-A à Lei n.º 8.213/91, e pelo IPCA-E, para os benefícios assistenciais.
+. Juros de mora simples a contar da citação (Súmula 204 do STJ), conforme o art. 5º da Lei 11.960/2009, que deu nova redação ao art.1º-F da Lei 9.494/1997.
+. Determinada a imediata implantação do benefício.
+Após referido julgamento e da baixa do processo à origem, o INSS peticionou alegando erro material, petiçãoesta decidida monocraticamente sem nada a deliberar.
+Foram rejeitados também monocraticamente os embargos declaratórios opostos em face desta decisão.
+No presente recurso especial, a autarquia aponta inicialmente violação do art. 1.022 do CPC/15.Sustenta que, mesmo ante a oposição de embargos de declaração, o Tribunal a quo permaneceu omisso na apreciação da legislação apontada nos embargos declaratórios.
+Alega ainda, violação dos arts. 494, I, do CPC e 48, parágrafo único, da Lei 9.099/1995.Argumenta que o erro material não se torna intangível pela figura da preclusão, pois nem mesmo a preclusão máxima consubstanciada em coisa julgada é capaz de torná-lo imutável.
+Apresentadas as contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O recurso especial vertente é manifestamente incabível, haja vista que não foi exaurida a instância ordinária, pois contra a decisão monocrática recorrida caberia, ainda, a interposição de agravo interno, não sendo a decisão hostilizada final para fins de interposição de recurso especial.
+Incide, na espécie, a Súmula nº 281 do STF: É inadmissível o recurso extraordinário, quando couber, na justiça de origem, recurso ordinário da decisão impugnada.
+Nesse sentido, confiram-se os seguintes julgados desta Corte, verbis:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO OPOSTOS A ACÓRDÃO. JULGAMENTO MONOCRÁTICO. INTERPOSIÇÃO DE AGRAVO REGIMENTAL. NECESSIDADE. SÚMULA 281 DO STF. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Compete ao Superior Tribunal de Justiça, nos termos do art. 105, III, da Constituição Federal, julgar, em recurso especial, as causas decididas em única ou última instância pelos Tribunais Regionais Federais e Tribunais de Justiça. Nesse contexto, não cabe recurso especial interposto contra decisão monocrática, na medida em que um dos pressupostos para sua admissibilidade é o exaurimento das instâncias ordinárias.
+2. Na espécie, os embargos de declaração opostos ao acórdão que julgou a apelação foram julgados monocraticamente pelo relator. Não houve, portanto, julgamento colegiado dos declaratórios, razão pela qual incumbiria à parte interpor agravo interno, a fim de esgotar as vias recursais e, assim, viabilizar o processamento do apelo especial. 3. Nos termos da Súmula 281/STF, aplicável, por analogia, ao recurso especial, "é inadmissível o recurso extraordinário, quando couber, na justiça de origem, recurso ordinário da decisão impugnada".
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1129393/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 13/03/2018, DJe 19/03/2018)
+PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA. RECURSO ESPECIAL. IMPOSSIBILIDADE. EXAURIMENTO DA INSTÂNCIA. NÃO ATENDIMENTO. SÚMULA 281 DO STF.
+1. Um dos princípios que rege o nosso sistema processual é o que impõe o esgotamento das vias recursais cabíveis nos tribunais de segundo grau. Isso significa que só cabe recurso para as cortes superiores quando não for possível mais recurso para os tribunais regionais ou estaduais. É o que estabelece a Súmula nº 281 do STF.
+2. Agravo não provido.
+(AGREsp nº 583.238/BA, Relator Ministro CASTRO MEIRA, DJ de 30/08/2004, p. 261)
+RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. NÃO CABIMENTO. NECESSIDADE DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. SÚMULA 281/STF
+À luz do disposto no artigo 105, inciso III, da Constituição Federal, o recurso especial deve ser interposto contra decisão colegiada, sendo necessário, ademais, o exaurimento das instâncias ordinárias.
+Se da decisão monocrática cabia agravo regimental, para que a controvérsia fosse submetida ao crivo desta Corte, far-se-ia necessário, antes da interposição do presente recurso especial, que a decisão recorrida tivesse sido proferida pela Turma julgadora, a fim de submeter a matéria dos autos a julgamento por órgão colegiado e esgotar as vias ordinárias. Recurso especial não conhecido.
+(REsp nº 396.895/RS, Relator Ministro FRANCIULLI NETTO, DJ de 21/10/2002, p. 00348)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
