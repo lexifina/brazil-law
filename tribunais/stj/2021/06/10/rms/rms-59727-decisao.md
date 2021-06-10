@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por MAURÍCIO MATOS DOS SANTOScontra acórdão proferido pelo Tribunal de Justiça doEstado da Bahia, que denegou a ordem em razão da decadência para aimpetração do mandado de segurança.
+O recorrente alega, em síntese, que "o direito de requerer a proteção do Mandado de Segurança tem sua extinção120 dias da data da ciência do interessado do alegado ato coator sendo que, na hipótese dos autos, tem-se que foi com a publicação de edital para novo concurso em 10.05.2017, momento em que teve a certeza que o Estado da Bahia não iria realizar a redistribuição de pontos, consoante destacado na inicial" (e-STJ fl. 270).
+Aduz que "a mencionada decisão de reclassificação pela anulação de questões seadequaria a teoria da TRANSCENDÊNCIA DOS MOTIVOS DETERMINANTES, razão pela qual os efeitos da decisão operam-se erga omnes, pois todos os candidatosrealizaram as mesmas questões, ainda que em provas de modelos diferentes"(e-STJ fl. 275).
+Reafirma, ao final, seu direito líquido e certo à reclassificação noconcurso público e convocação para participar do Curso de Formação deSoldados da Polícia Militar do Estado da Bahia, apontando ofensa pelo atocoator aos princípios da segurança jurídica, boa-fé objetiva, confiança,legalidade e isonomia.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso(e-STJ fls. 351/358).
+Passo a decidir.
+O recurso não merece prosperar.
+Com efeito, da análise dos autos, verifica-se que a anulação de questõesda prova do certame para provimento de vagas do Curso de Formação deSoldados da Polícia Militar do Estado da Bahia deu-se em razão daprocedência da Ação Ordinária n. 0569986-78.2014.8.05.001, ajuizada poralguns candidatos.
+Foi publicada no Diário Oficial do Estado da Bahia n. 22.068, de02/12/2016, a reclassificação de alguns candidatos, sem observância aodisposto no item 10.11 do Edital do certame, o qual estabelece aatribuição a todos os candidatos dos pontos relativos às anulações.
+Assim, o prazo decadencial para a impetração do writ iniciou-se com areferida publicação (02/12/2016), sendo certo que nessa data teve oimpetrante ciência inequívoca da violação do seu direito líquido e certo àreclassificação em decorrência das anulações em comento. Não obstante, opresente writ somente foi impetrado em 27/07/2017, devendo ser reconhecidaa decadência, nos termos do art. 23 da Lei n. 12.016/2009.
+Nesse sentido, em hipótese similar à presente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃODEMONSTRADA. ATRIBUIÇÃO DE EFEITOS INFRINGENTES. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLICIAL MILITAR. ESTADO DA BAHIA. ANULAÇÃO DE QUESTÕES POR DECISÃO JUDICIAL. EXTENSÃO A CANDIDATOS QUE NÃO INTEGRARAM A LIDE. DECADÊNCIA DA IMPETRAÇÃO. TERMO INICIAL. ATO ADMINISTRATIVO QUE NÃO ESTENDEU A ANULAÇÃO DAS QUESTÕES.
+1. Na esteira da jurisprudência do STJ, cabem Embargos de Declaração paraos fins ordinários (correção dos vícios de omissão, obscuridade oucontradição) e, em caráter excepcional, para adequar o julgamento àorientação firmada no julgamento de recursos repetitivos ou superação depremissa equivocada.
+2. Trata-se, na origem, de Mandado de Segurança impetrado contra atoadministrativo que, em cumprimento a decisão judicial anulatória de seisquestões de raciocínio lógico do concurso público para provimento do cargode Policial Militar do Estado da Bahia (Edital SAEB 01/2012), determinou areclassificação dos candidatos beneficiados pela ordem judicial, semampliar, e esta é a irresignação do impetrante, tal compreensão para os
+demais candidatos.
+3. Na presente hipótese, a parte recorrente visa atacar os atosadministrativos que, ao cumprirem ordem judicial de anulação de questõesem favor de determinados candidatos, não estenderam a anulação, nem arespectiva reclassificação, a todos os demais participantes do concursopúblico.
+4. Segundo narra o recorrente na petição inicial: "Em decorrência danulidade de seis questões de raciocínio lógico não condizentes com oedital, houve reclassificação de alguns, em 10.08.2016, 09.09.20160,30.09.2016 e 02.12.2016 (esta última através de publicação no DOE 22.068),culminando com convocação para matricula no curso de formação em2510312017, através do DOE n.º 22.144, candidatos que sequer foramclassificados, conforme veremos, conforme documentos anexados".
+5. Não há como considerar o término do prazo de validade do concurso, como
+o fez o acórdão recorrido, pois nesse marco temporal nem sequer havia seconsubstanciado a ilegalidade invocada pela parte impetrante.
+6. Tendo em vista a pretensão mandamental deduzida, a não extensão a todosos participantes do concurso público da reclassificação atribuída adeterminados candidatos beneficiados por ação judicial ocorreu na primeira
+decisão administrativa publicada no Diário Oficial em 10.8.2016 (PortariaSAEB/SRH 51/2016), devendo ser este o termo inicial do prazo de decadênciapara impetração do presente Mandado de Segurança.
+7. Assim, o prazo de impetração do presente Mandado de Segurançaencerrou-se em 8.12.2016 (120 dias após 10.8.2016), incidindo, nahipótese, a decadência do direito, pois a ação foi ajuizada em 19.5.2017.
+8. Embargos de Declaração acolhidos, com efeitos modificativos, a fim dereconhecer a decadência para impetração do presente Mandado de Segurança.
+(EDcl no RMS 56.081/BA, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA,DJe 01/07/2019).
+Ainda, no mesmo sentido: RMS 59.999/BA, relatora Ministra REGINA HELENACOSTA, DJe 05/04/2019.
+Ante o exposto, nos termos do art. 34, XVIII, "b", do RISTJ, NEGOPROVIMENTO ao recurso.
+Publique-se. Intimem-se.
