@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a).
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze, Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 83/STJ. INEXISTÊNCIA DE INDICAÇÃO DE PRECEDENTES CONTEMPORÂNEOS OU SUPERVENIENTES AOS CONSTANTES DO "DECISUM" DE ADMISSIBILIDADE ORIUNDO DO TRIBUNAL "A QUO".MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por SUSANA TFELI DE RAAD, contra a decisão que não conheceu de seu agravo em recurso especial, por falta de impugnação ao fundamento do decisum de admissibilidade oriundo do Tribunal a quorelativo à incidência da Súmula 83/STJ.
+A agravante alega que "houve a impugnação da Súmula 83/STJ. Cuidou a agravante de demonstrar o cabimento do seu recurso especial, demonstrando que existe, é clara, nítida e patente a violação ao direito legal apontada, em especial ao artigo 525, parágrafo primeiro do CPC, que inclui nas matérias dedutíveis na impugnação ao cumprimento de sentença a falta de citação no processo de conhecimento, quando o processo corre à revelia, exatamente o caso dos autos."(e-STJ Fl.320)
+Argumenta, ainda, que "cuidou de demonstrar que o acórdão recorrido se equivocou ao aplicar ao caso o instituto da preclusão, invocando o disposto no artigo 507 do Código de Processo Civil, pois desconsiderou o fato de que existe norma específica para o tema (o art. 525, parágrafo primeiro do CPC), e que se trata de nulidade absoluta, matéria de ordem pública, apreciável até mesmo de ofício, como se vê da seguinte passagem das razões do agravo em recurso especial".(e-STJ Fl.321)
+Impugnação às fls. 337/370 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 83/STJ. INEXISTÊNCIA DE INDICAÇÃO DE PRECEDENTES CONTEMPORÂNEOS OU SUPERVENIENTES AOS CONSTANTES DO "DECISUM" DE ADMISSIBILIDADE ORIUNDO DO TRIBUNAL "A QUO".MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o presente agravo não deve ser provido.
+Em que pesem as razões apresentadas, a agravante não trouxe argumentos capazes de alterar o julgado, que deve ser mantidoin totum.
+Com efeito, o recurso especial foi inadmitido em razão da incidência da Súmula 83/STJ.
+Contudo, nas razões do agravo em recurso especial,em relação ao referido verbete sumular, a parte sustentou:
+Cumpre realçar que o despacho agravado praticamente reproduz a fundamentação do acórdão recorrido, amparando-se, para negar seguimento ao recurso especial, nas mesmas razões que levaram ao improvimento da apelação.
+Daí porque as razões de reforma do despacho agravado, relativas ao cabimento do recurso especial e as razões de mérito, concernentes a seu provimento, se entrelaçam, estando unificadas no capítulo seguinte.
+A orientação jurisprudencial adotada pelo respeitável despacho agravado e pelo acórdão recorrido não é aplicável ao caso concreto, que tratade hipótese de falta de citação de litisconsórcio necessário e, portanto, de inexistência do próprio processo.
+Além do mais, com a determinação de expedição de ofício à Junta Comercial, a esfera jurídica do outro sócio foi atingida concretamente, sendo que este fato não foi examinado anteriormente, não incidindo assim, também por este prisma, o artigo 507 do CPC.
+Ademais, os dispositivos apontados como violados, em especial o artigo 525 do CPC, não foram anteriormente examinados na fase de conhecimento, não havendo que se falar assim em imutabilidade da coisa julgada.
+Da mesma forma, a nulidade apontada, que é absoluta, pode ser alegada em qualquer tempo e grau de jurisdição, inclusive em sede de defesa na fase executiva. Neste sentido, já decidiu este Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. ARGUIÇÃO DE NULIDADE DA CITAÇÃO. PRECLUSÃO. INOCORRÊNCIA.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial quanto ao ponto.
+2. Os pressupostos de constituição e desenvolvimento válido e regular do processo, assim como as condições da ação - matérias de ordem pública -, não se submetem à preclusão nas instâncias ordinárias.
+3. A nulidade da citação constitui matéria passível de ser examinada em qualquer tempo e grau de jurisdição, independentemente de provocação da parte; em regra, pode, também, ser objeto de ação específica ou, ainda, suscitada como matéria de defesa em face de processo executivo. Trata-se de vício transrescisório. Precedente.
+4. O defeito ou a ausência de citação somente podem ser convalidados em hipóteses em que não s jam identificados prejuízos à defesa do réu.
+5. Recurso especial parcialmente provido. (REsp 1138281/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/10/2012, DJe 22/10/2012) ( e-STJ fls. 222/225).
+Todavia, estaCorte Superior assentou que"é dever do agravante impugnar, especificamente, todos os fundamentos da decisão agravada, mormente quanto à aplicação do óbice da Súmula nº 83/STJ, demonstrando que outro é o entendimento jurisprudencial desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo" (AgRg no REsp 1402488/PR, Rel. Min. RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 10/03/2014 - grifo nosso).
+Nesse sentido, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA.CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. FALTA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS. VALOR TOTAL DA CONDENAÇÃO, INCLUSIVE SOBRE O QUANTUM RECEBIDO A TÍTULO DE ANTECIPAÇÃO DE TUTELA. SÚMULA N. 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. No tocante à negativa de prestação jurisdicional, percebe-se que a apontada violação ao art. 1.022 do CPC/2015 não se sustenta, tendo em vista que o Tribunal de origem resolveu satisfatoriamente as questões deduzidas no recurso, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+1.1. De fato, o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa das teses apresentadas. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução, o que foi feito no caso.
+2. A jurisprudência desta Corte possui orientação de que "não configura contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao art. 1.022 do Código de Processo Civil de 2015, uma vez que é perfeitamente possível o julgado se encontrar devidamente fundamentado sem, no entanto, ter sido decidida a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está obrigado" (REsp 1.721.231/RS, Relator o Ministro Herman Benjamin, Segunda Turma, julgado em 1/3/2018, DJe 2/8/2018).
+3. Com relação à divergência a respeito da base de cálculo dos honorários advocatícios, o acórdão recorrido decidiu em harmonia com a jurisprudência deste Tribunal Superior, no sentido de que são devidos honorários advocatícios sobre a totalidade da condenação, inclusive computados os valores percebidos a título de antecipação de tutela. Incide, portanto, o teor da Súmula n. 83/STJ.
+4. Nos casos em que o recurso especial não é admitido com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte.
+5. Agravo interno improvido.
+(AgInt no AREsp 1475564/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020 - grifo nosso)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. INVENTÁRIO.PRESTAÇÃO DE CONTAS DO INVENTARIANTE. IMPUGNAÇÃO DOS HERDEIROS.ACOLHIMENTO DO INCIDENTE. HONORÁRIOS ADVOCATÍCIOS. INAPLICABILIDADE.PRECEDENTE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não é cabível honorários advocatícios nos incidentes processuais, exceto nos casos em que estes são capazes de extinguir ou alterar substancialmente o próprio processo principal, o que não se verificou no caso em apreço. Precedente da Corte Especial (EREsp 1.366.014/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Corte Especial, DJe 5/4/2017)
+3. A impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte, o que não se verifica no presente caso.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1578523/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/09/2020, DJe 24/09/2020 - grifo nosso)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ARTIGO 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de ser possível ao relator dar ou negar provimento ao recurso especial, em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema (Súmula nº 568/STJ).Eventual nulidade do julgamento singular, por falta de enquadramento nas hipóteses legais, fica superada em virtude da apreciação da matéria pelo órgão colegiado no julgamento do agravo interno.
+3. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, atraindo o disposto no art. 932, inciso III, do Código de Processo Civil de 2015.
+4. Quando o recurso especial não é admitido com fundamento na Súmula nº 83/STJ, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial do Superior Tribunal de Justiça, o que não ocorreu no caso.
+5. Agravo interno não provido.
+(AgInt no AREsp 1204223/ES, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/08/2020, DJe 31/08/2020- grifo nosso)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO ESPECÍFICO DA DECISÃO AGRAVADA.NÃO CONHECIMENTO. AUSÊNCIA DE DEMONSTRAÇÃO DE IMPUGNAÇÃO DIRETA E OBJETIVA À APLICAÇÃO DA SÚMULA Nº 83/STJ. ALEGAÇÕES GENÉRICAS.DESPROVIMENTO.
+1. O primeiro juízo de admissibilidade obstou o recurso pela aplicação da Súmula 83/STJ, indicando precedente desta Corte Superior no mesmo sentido do acórdão recorrido.
+2. As razões do agravo em recurso especial se apresentam de forma vaga e genérica, sem demonstrar de forma objetiva e analítica que o precedente apontado pela decisão agravada não se aplicaria ao caso ou que há precedentes contemporâneos ou posteriores desta Corte Superior em sentido diverso daquele mencionado na decisão.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1560453/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 25/05/2020, DJe 28/05/2020- grifo nosso)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO.INSURGÊNCIA RECURSAL DOS AGRAVANTES.
+1. Razões do agravo (art. 1042 do CPC) que não impugnaram especificamente os fundamentos invocados na decisão de inadmissão do recurso especial. Em razão do princípio da dialeticidade, deve a parte agravante demonstrar, de modo fundamentado, o desacerto da decisão agravada. Correta aplicação analógica da Súmula 182/STJ.
+2. A impugnação da Súmula 83/STJ se dá com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, providência não atendida pela agravante 3. Agravo interno desprovido.
+(AgInt no AREsp 1200737/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/09/2019, DJe 26/09/2019- grifo nosso)
+No caso concreto, verifica-se que, nas razões do agravo em recurso especial, a agravante limitou-se apresentadas em seu recurso especial e citar um precedente publicado no DJe 22/10/2012, deixando de apresentar julgados contemporâneos ou supervenientes àquele utilizado como fundamento para a inadmissão do apelo nobre (publicado em 2019).
+Assim sendo, a manutenção da decisão agravada é medida que se impõe.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
