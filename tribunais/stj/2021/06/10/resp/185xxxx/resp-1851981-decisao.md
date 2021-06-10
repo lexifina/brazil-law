@@ -1,0 +1,8 @@
+DECISÃO
+A questão jurídica referente à definição sobre a configuração do ato de aposentadoria de servidor público como negativa expressa da pretensão dereconhecimento e cômputo, nos proventos, de direito não concedido enquantoo servidor estava em atividade, à luz do art. 1º do Decreto 20.910/1932 eda Súmula 85 do STJ, foi submetida à Primeira Seção e julgada pelasistemática dos recursos repetitivos, tendo sido escolhido os RecursosEspeciais 1.783.975/RS e 1.772.848/RS da relatoria do em. Ministro HERMANBENJAMIN (acórdãos pendentes de julgamento) - Tema 1017/STJ.
+Nesse contexto, julgados os temas pela sistemática dos recursosrepetitivos, esta Corte Superior orienta que os recursos que tratam damesma controvérsia devem retornar ao Tribunal de origem para que este façao juízo de conformação, nos termos do que dispõe o art. 34, XXIV, doRISTJ, o qual estabelece, in verbis:
+Art. 34. Compete ao Relator:
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiaisfundados em controvérsia idêntica àquela já submetida ao rito dejulgamento de casos repetitivos para adoção das medidas cabíveis.
+Realizada essa providência, que representa o exaurimento da instânciaordinária, é que o recurso especial deverá ser encaminhado para esteTribunal Superior para, se for o caso, serem analisadas as questõesjurídicas nele suscitadas e que não ficaram prejudicadas pelo novopronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO o sobrestamento do julgamento do recursoespecial até a realização do juízo de conformação pela Corte de origem comosacórdãosproferidosnosaludidos recursosespeciaisem matéria repetitiva, bem como a devoluçãodos autos ao Tribunal a quo, com a respectiva baixa, para que essaprovidência seja efetivada.
+Publique-se. Intimem-se.
