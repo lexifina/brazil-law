@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por LUCAS DO NASCIMENTO NEVES, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 331):
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. NEGATIVA DE MANUTENÇÃO DO RECORRENTE NA UNIDADE DA FEDERAÇÃO ONDE SE ENCONTRA. DECISÃO SUFICIENTEMENTE FUNDAMENTADA. MANUTENÇÃO DO REEDUCANDO EM LOCAL PRÓXIMO À FAMÍLIA. DIREITO NÃO ABSOLUTO. CONVENIÊNCIA DA ADMINISTRAÇÃO. PRECEDENTES. AGRAVO DESPROVIDO.
+1. "Não há falar em obrigatoriedade do resgate da reprimenda perto dos familiares, pois, mesmo que a orientação legal seja no sentido de que, sempre que possível, o sentenciado deva cumprir pena em local perto da residência de sua família (art. 103 da LEP), tal direito não se revela absoluto e depende da observância de determinados requisitos, tais como a conveniência e oportunidade para a Administração Pública e a real necessidade da transferência pleiteada" (AgRg no HC n. 458.485/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 20/09/2018, DJe 18/10/2018).
+2. No caso, a decisão impugnada está suficientemente fundamentada, tendo salientado as instâncias ordinárias que não há vaga para que o Recorrente possa cumprir suas penas na Comarca onde se encontra atualmente, o que afasta a possibilidade de que o Sentenciado resgate suas penas em local perto da residência de sua família.
+3. Agravo regimental desprovido.
+Embargos de declaração rejeitados às fls. 353/358.
+Sustenta o recorrente a existência de repercussão geral e violação doartigo 5º, incisos XLVIII e XLIX, da Constituição Federal.
+Alega, para tanto, quee o acórdão recorrido ofendeprincípios que regem a Execução Penal, como o da legalidade e o da humanidade, ligado ao princípio da dignidade da pessoa humana, da vedação depenas de banimento ou cruéis e da garantia constitucional dorespeito à integridade física e moral do preso.
+Aduz que possui condenação proferidapelojuízodo Distrito Federal e que estaria em prisão preventiva na Comarca de Planaltina, Goiás, onde reside a sua família.
+Diante disso, requereu a deprecação do cumprimento de pena para a Comarca de Goiás, pleito que restou indeferido pelo juízo do DF sob o argumento de superlotação carcerária.
+Assevera que tal argumentonão poderia prevalecer, pois, tanto no Distrito Federal, quanto em Goiás, haveria superlotação.
+No mais, afirma que "o local ideal para o cumprimento da pena é aquele próximo ao meio social do condenado, ou seja, onde residem sua família e amigos, estabelecendo laços familiares, o que facilita sua reinserção à sociedade." (e-STJ fl. 376), em respeito à finalidaderessocializadora da pena.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Apresentadas as contrarrazões (e-STJ fls. 400/402).
+É o relatório.
+Compulsando-se os autos, verifica-se que a controvérsia cinge-se à questão do cumprimento de pena privativa de liberdade próximo àfamília do preso, estando o acórdão recorrido assim fundamentado (e-STJ fls. 334/338):
+"A irresignação não prospera.
+O Juízo da Vara de Execuções Penais do Distrito Federal indeferiu o pedido formulado pelo Paciente de permanecer custodiado na Comarca de Planaltina/GO com base nas seguintes razões (fl. 206; grifos diversos do original):
+ ..
+Ante as transcrições acima, não reputo configurado o constrangimento ilegal invocado, pois, segundo a orientação desta Corte Superior de Justiça, " n ão há falar em obrigatoriedade do resgate da reprimenda perto dos familiares, pois, mesmo que a orientação legal seja no sentido de que, sempre que possível, o sentenciado deva cumprir pena em local perto da residência de sua família (art. 103 da LEP), tal direito não se revela absoluto e depende da observância de determinados requisitos, tais como a conveniência e oportunidade para a Administração Pública e a real necessidade da transferência pleiteada" (AgRg no HC 458.485/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 20/09/2018, DJe 18/10/2018).
+No mesmo sentido, cito a seguinte jurisprudência:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DETERMINAÇÃO DE TRANSFERÊNCIA DO PACIENTE PARA OUTRA UNIDADE DA FEDERAÇÃO. DECISÃO SUFICIENTEMENTE FUNDAMENTADA. MANUTENÇÃO DO REEDUCANDO EM LOCAL PRÓXIMO À FAMÍLIA. DIREITO NÃO ABSOLUTO. CONVENIÊNCIA DA ADMINISTRAÇÃO. PRECEDENTES. AGRAVO DESPROVIDO.
+1. "Não há falar em obrigatoriedade do resgate da reprimenda perto dos familiares, pois, mesmo que a orientação legal seja no sentido de que, sempre que possível, o sentenciado deva cumprir pena em local perto da residência de sua família (art. 103 da LEP), tal direito não se revela absoluto e depende da observância de determinados requisitos, tais como a conveniência e oportunidade para a Administração Pública e a real necessidade da transferência pleiteada" (AgRg no HC n.º 458.485/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 20/09/2018, DJe 18/10/2018).
+2. No caso, a decisão impugnada está suficientemente fundamentada, tendo salientado as instâncias ordinárias que "não foi demonstrada qualquer exceção para o cumprimento de pena do recorrente em local diverso do que fora condenado" e que, "em face do excessivo déficit de vagas no sistema prisional do Distrito Federal, insuficiente para atender a demanda local, não éplausível admitir o cumprimento de pena de condenados de outra unidade da Federação".
+3. Agravo regimental desprovido." (AgRg no HC 562.320/DF, Rel.Ministra LAURITA VAZ, SEXTA TURMA, julgado em 23/06/2020, DJe 04/08/2020)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. TRANSFERÊNCIA DO APENADO PARA OUTRA UNIDADE DA FEDERAÇÃO. INDEFERIMENTO FUNDAMENTADO.DIREITO NÃO ABSOLUTO. FALTA DE ESTABELECIMENTO ADEQUADO. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, porquanto segundo jurisprudência pacífica do STJ, a manutenção ou transferência do preso para estabelecimento prisional situado próximo ao local onde reside sua família não é norma absoluta, cabendo ao Juízo de Execuções Penais avaliar a conveniência da medida.
+2. Na hipótese, o fato de não existir no Estado de residência dos familiares do paciente estabelecimento prisional adequado ao regime em que cumpre sua pena, no caso o semiaberto, constitui fundamento válido para negativa do pedido de transferência.
+3. Agravo regimental improvido." (AgRg no HC 564.558/SP, Rel.
+Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/06/2020, DJe 16/06/2020)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. TRANSFERÊNCIA DE PRESO PARA UNIDADE PRÓXIMA DA RESIDÊNCIA DA FAMÍLIA. CONVENIÊNCIA DA ADMINISTRAÇÃO DA JUSTIÇA. REQUISITO OBJETIVO ESTABELECIDO PARA GARANTIR A ISONOMIA. MOTIVAÇÃO CONCRETA E IDÔNEA PARA INDEFERIMENTO DO PEDIDO. DIREITO DE DE VISITAS. INOVAÇÃO RECURSAL. RECURSO DESPROVIDO.
+I - A decisão vergastada está de acordo com a jurisprudência desta Corte Superior de Justiça, consolidada no sentido de que a transferência do preso para estabelecimento prisional situado próximo ao local onde reside sua família não é norma absoluta, cabendo ao Juízo de Execuções Penais avaliar a conveniência da medida.
+ ..  Agravo regimental desprovido." (AgRg no HC 462.085/SP, Rel.Ministro FELIX FISCHER, QUINTA TURMA, julgado em 02/10/2018, DJe de 09/10/2018.)
+Assim, a decisão primeva e o acórdão impugnado não se mostram desarrazoados ou ilegais, pois deixaram consignado que não há vaga para que o Recorrente possa cumprir suas penas na Comarca onde se encontra atualmente, o que afasta a possibilidade de que o Sentenciado resgate suas penas em local perto da residência de sua família.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É o voto.
+Desse modo,a análise da matéria ventilada depende do exame do art. 103, da Lei de Execução Penal, razão pela qualeventual ofensa à Constituição Federal, se houvesse, seria reflexa ou indireta, não legitimando a interposição do apelo extremo.
+Em casos semelhantes, assim tem decidido o Supremo Tribunal Federal:
+Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MATÉRIA CRIMINAL. EXECUÇÃO PENAL. OFENSA REFLEXA. SÚMULA 636 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. É inviável o processamento do apelo extremo quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamentaram a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. Súmula 636 do STF. 2. Agravo regimental desprovido.
+(RE 1084002 AgR, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 31/05/2019, PROCESSO ELETRÔNICO DJe-129 DIVULG 13-06-2019 PUBLIC 14-06-2019)
+EMENTA Agravo regimental no recurso extraordinário com agravo. Direito Processual Penal. Prequestionamento. Ausência. Execução penal. Alteração da data-base. Legislação infraconstitucional. Ofensa reflexa. Impossibilidade. Precedentes. 1. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas nº 282/STF. 2. Não se presta o recurso extraordinário para a análise da legislação infraconstitucional. 3. Agravo regimental não provido.
+(ARE 1193250 AgR, Relator(a): DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 06/05/2019, PROCESSO ELETRÔNICO DJe-128 DIVULG 12-06-2019 PUBLIC 13-06-2019)
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. EXECUÇÃO PENAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. RECURSO NÃO ADMITIDO.
