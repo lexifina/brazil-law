@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 155):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. LEI N. 13.964/2019. ALTERAÇÃO DOS PATAMARES DE PROGRESSÃO DO ART. 112 DA LEI DE EXECUÇÃO PENAL. RETROATIVIDADE DA LEI PENAL POSTERIOR MAIS BENÉFICA. ORDEM CONCEDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte vem decidindo no sentido de que, com a nova redação do art. 112 da Lei de Execução Penal, alterada pela Lei n. 13.964/2019, quedou omissa a situação dos agentes condenados por crime hediondo com reincidência não específica, de maneira que tal situação, como prescrevem os princípios gerais do direito penal, deve sempre ser interpretada em favor do réu, o que impede a aplicação por analogia da fração de 3/5 (ou 60%) realizada pelas instâncias ordinárias no caso em tela, por se tratar de analogia in malam partem, possibilidade vedada em nosso ordenamento. Precedentes.
+2. Agravo regimental desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 178-188).
+Sustenta o recorrente que a questão é dotada de repercussão geral e aponta violação doart. 5º, incisosII e XLVI, da Constituição Federal.
+Alega que a Lei n. 13.964/2019, que instituiu o chamado "Pacote Anticrime" e alterou o art. 112 da Lei de Execução Penal, não teria feito menção à necessidade da reincidência específica.
+Pondera que seria inadmissível permitir os mesmos percentuais de cumprimento de pena para a concessão da progressão de regime aos condenados primários e aos reincidentes.
+Argumenta que o apenado somente faria jus à aplicação do percentual de 40% se fosse réu primário.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Contrarrazões às e-STJ fls. 204-212.
+É o relatório.
+Ao julgar o AI n. 754.008 RG/RS,o Supremo Tribunal Federal firmou o entendimento de quenão apresenta repercussão geral o recurso extraordinário queversasobre a análise dos requisitos para concessão de progressão de regime previstos no art. 112 da Lei de Execução Penal.
+Confira-se, por oportuno, a ementa do acórdão:
+RECURSO. Extraordinário. Inadmissibilidade. Progressão de regime. Requisitos. Interpretação do art. 112 da LEP. Lei nº 10.792/03. Exame criminológico. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que, versando sobre a análise dos requisitos para concessão de progressão de regime à luz da nova redação do art. 112 da LEP, pela Lei nº 10.792/03, em especial com relação à realização de exame criminológico (exigência de avaliação social e psicológica do apenado), trata de matéria infraconstitucional.
+(AI 754008 RG, Relator(a): CEZAR PELUSO, Tribunal Pleno, julgado em 24/09/2009, DJe-195 DIVULG 15-10-2009 PUBLIC 16-10-2009 EMENT VOL-02378-10 PP-02048)
+No caso dos autos, ao examinar a controvérsia, esta Corte Superior de Justiça assim se manifestou(e-STJ fls. 158-162):
+Com efeito, não obstante as razões recursais, reitera-se que esta Corte vem decidindo no sentido de que, com a nova redação do art. 112 da Lei de Execução Penal, alterada pela Lei n. 13.964/2019, quedou omissa a situação dos agentes condenados por crime hediondo com reincidência não específica, de maneira que tal situação, como prescrevem os princípios gerais do direito penal, deve sempre ser interpretada em favor do réu, o que impede a aplicação por analogia da fração de 3/5 (ou 60%) realizada pelas instâncias ordinárias no caso em tela, por se tratar de analogia in malam partem, possibilidade vedada em nosso ordenamento.
+Nesse sentido, os seguintes julgados:
+ ..
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. PLEITO DE RETIFICAÇÃO DO CÁLCULO DA PENA. ART. 112, VII, DA LEI DE EXECUÇÃO PENAL (INCLUÍDO PELA LEI N. 13.964/2019). PACOTE ANTICRIME. REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO. NÃO APLICAÇÃO. APENADO CONDENADO POR CRIME HEDIONDO E REINCIDÊNCIA NÃO ESPECÍFICA. OMISSÃO LEGISLATIVA.ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO INCISO V. DO ART. 112 DA LEP. CONSTRANGIMENTO ILEGAL VERIFICADO. HABEAS CORPUS CONCEDIDO.
+1. Firmou-se nesta Superior Corte de Justiça entendimento no sentido de que, nos termos da legislação de regência, mostra-se irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo) (AgRg no HC n. 494.404/MS, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/5/2019)" (AgRg no HC 521.434/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/10/2019, DJe 08/10/2019).
+2. Ocorre que a alteração promovida pela Lei n. 13.964/2019 (Pacote Anticrime) no art. 112 da Lei de Execuções Penais, ao estabelecer novos lapsos para a progressão de regime, deixou de abranger a situação característica do paciente (condenado por crime hediondo e reincidente não específico).
+3. Não há como aplicar de forma extensiva e prejudicial ao paciente o percentual de 60% previsto no inciso VII do art. 112 da LEP, que trata sobre os casos de reincidência de crime hediondo ou equiparado, merecendo, ante a omissão legislativa, o uso da analogia in bonam partem para aplicar o percentual de 40%, previsto no inciso V.
+4. Habeas corpus concedido para determinar que o Juízo da Execução retifique o cálculo da pena do paciente, aplicando-se o percentual de 40% para progressão de regime, salvo se cometida falta grave.
+(HC 605.783/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 13/10/2020, DJe 19/10/2020, grifei)
+ ..
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. ART. 112 DA LEI N. 7.210/1984, COM AS ALTERAÇÕES DA LEI N. 13.964/2019. REQUISITO OBJETIVO. PEDIDO DE RETIFICAÇÃO DO CÁLCULO DE PENAS, COM A APLICAÇÃO DO PRAZO DE 40% (QUARENTA POR CENTO) DA PENA. PROCEDÊNCIA. AGRAVO DESPROVIDO.
+1. Antes da vigência da Lei n. 13.964/2019, o art. 112 da Lei de Execução Penal previa como requisito objetivo o cumprimento da fração de 1/6 da pena no regime anterior, para os condenados por crimes comuns (primários ou reincidentes). Já para os condenados por crimes hediondos, a Lei n. 8.072/1990, em seu art. 2.º, § 2.º, estabelecia as frações de 2/5 (para os réus primários) e 3/5 (para os reincidentes).
+2. Com o advento do mencionado regramento, o sistema progressivo de regime prisional passou a ter critérios diferenciados, sobretudo no que concerne ao requisito objetivo. Assim, os lapsos temporais necessários à progressão prisional passaram a ser previstos exclusivamente no art. 112 da Lei de Execução Penal.
+3. No caso, a situação do Apenado - condenado pela prática de crime hediondo, mas reincidente em crime comum - não encontra previsão específica na nova lei, razão porque, diante da lacuna legislativa, deverá o julgador integrar a norma, resolvendo a controvérsia de maneira mais favorável ao Sentenciado, isto é, aplicando o percentual previsto para o Réu primário. Desse modo, o Reeducando alcançará o lapso temporal para a progressão de regime quando houver cumprido ao menos 40% (quarenta por cento) da reprimenda, segundo o disposto no art. 112, inciso V, da Lei n. 7.210/1984.
+4. Agravo regimental desprovido.
+(AgRg no HC 618.297/PR, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgadoem 03/11/2020, DJe 19/11/2020, grifei)
+ ..
+Portanto, sendo os delitos anteriores não hediondos nem equiparados, de rigor a aplicação da fração de 2/5 (ou 40%) para efeitos de progressão de regime.
+Da leitura das referidas passagens,verifica-se que a discussãocinge-se àquestão da alteração dos patamares de progressão de regime de cumprimento da pena previstos no art. 112 da Lei de Execução Penal,matéria que, nos termos do Tema 205/STF, possui natureza infraconstitucional e carece de repercussão geral, o que inviabiliza o prosseguimento deste apelo extremo.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", segunda parte, do Código de Processo Civil,nega-se seguimentoao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITOS PREVISTOS NO ART. 112 DA LEI DE EXECUÇÃO PENAL. MATÉRIA INFRACONSTITUCIONAL. TEMA 205/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
