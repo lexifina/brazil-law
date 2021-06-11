@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por VITÓRIA CAROLINE GAUDENCIOcom fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n 0000082-31.2018.8.26.0574).
+Em primeiro grau, a ora recorrente foi condenada às penas de 3 anos, 10 meses e 20 dias de reclusão no regime fechado e de 388 dias-multa, pela prática do delito descrito no art. 33, caput, c/c o art. 40, III, da Lei n. 11.343/2006.
+O Tribunal de origem deu parcial provimento ao recurso da defesa a fim de reduzir ao mínimo a pena-base e aplicar, na fração máxima, o redutor do tráfico privilegiado, redimensionando a reprimenda para 1 ano, 11 meses e 10 dias de reclusão no regime fechado e 194 dias-multa..
+Nas razões do recurso especial, alega a recorrente violação dos arts. 33, §§ 2º, c, e 3º, e44 do Código Penal, porquanto destituídade fundamentosa fixação de regime inicial mais gravoso e a negativa de substituição da reprimenda corporal por penas restritivas de direitos.
+As contrarrazões foram apresentadas às fls. 342-353.
+Admitido o apelo extremo (fls. 355-356), o Ministério Público Federal apresentou parecer pelo provimento do recurso especial (fls. 365-367).
+É o relatório. Decido.
+O recurso reúne condições de prosperar.
+O art. 33, §§ 2º, a, b e c, e 3º, do Código Penal estabelece a regra geral para fixação do regime inicial de cumprimento da pena, pautando-se pela quantidade da reprimenda imposta ao final da dosimetria: a) fechado para a pena superior a 8 anos e, em casos de reincidência, para a pena igual ou inferior a 8 e superior a 4 anos; b) semiaberto para a pena igual ou inferior a 8 e superior a 4 anos, se primário o condenado; e c) aberto para a pena de até 4 anos.
+O juiz pode fixar regime inicial mais gravoso do que aquele relacionado unicamente com o quantum da pena ao considerar a eventual existência de circunstâncias judiciais desfavoráveis, especialmente a natureza ou a quantidade da droga, até mesmo sua forma de acondicionamento, desde que fundamente a decisão (AgRg no HC n. 536.415/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19/8/2020).
+In casu, a pena-base foi fixada no mínimo legal e, na terceira fase, o redutor foi aplicado na fração máxima e mantido o regime inicial fechado pelas seguintes razões (fls.315-316):
+Em relação ao regime de cumprimento de pena, cumpre considerar que o tráfico de drogas causa indiscutível abalo à ordem pública, na medida em que o traficante consegue atingir um número elevado de pessoas, que acabam se envolvendo em outros delitos.
+Por isso, de rigor a segregação da apelante por mais tempo no regime fechado, onde poderá demonstrar aptidão e preparo para voltar a conviver em sociedade, sem desconsiderar, de qualquer forma, que foi declarada inconstitucional a obrigatoriedade desse regime.
+Finalmente, sem que se desconheça a orientação jurisprudencial que predomina no Col. Superior Tribunal de Justiça, tem-se como vedada a substituição da pena privativa de liberdade por restritiva de direitos, pois, repita-se, o traficante, longe de ser agraciado com os benefícios reservados a crimes menos graves, deve ser retirado da sociedade, cada vez mais temerosa e abalada com o avanço da criminalidade, a ponto de se justificar a imposição de tratamento mais rigoroso.
+Portanto, no presente caso, considerando as circunstâncias judiciais favoráveis, a primariedade da paciente e o quantum da pena aplicada (1 ano, 11 meses e 10 dias de reclusão), justifica-se a alteração para o regime aberto, nos termos do art. 33, § 2º, c, do Código Penal.
+Por fim, considerando a pena imposta e o não significativo volume da droga apreendida (49,32g de maconha), impõe-se a substituição da sanção privativa de liberdade por penas restritivas de direitos, a serem definidas pelo Juízo competente.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, conheço do recurso especial e dou-lhe provimento para estabelecer o regime aberto para o cumprimento da sanção imposta à recorrente, substituindo a pena privativa de liberdade por restritivas de direitos, a serem definidas pelo Juízo competente.
+Comunique-se com urgência ao Juízo de primeira instância e ao Tribunal de origem para que adotem as providências necessárias.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
