@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido peloTRF da 4 Região, assim ementado (fl. 42):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CDA INCLUSÃO AUTOMÁTICA DO NOME DO SÓCIO. INVIABILIDADE.
+1. No Recurso Extraordinário nº 562.276/PR, o Supremo Tribunal Federal afastou a possibilidade de inclusão automática do sócio no polo passivo da execução fiscal fundamentada na mera indicação de seu nome na certidão de dívida ativa.
+2. Não há no processo qualquer elemento que indique circunstância ensejadora da responsabilidade solidária do sócio.
+3. Agravo desprovido.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 1.022 do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito dofato de a sociedade ter sido extinta irregularmente, sem a correta liquidação de seu ativo, bem como acerca do disposto nos arts. 50, 1.016, 1.023 e 1.052, do Código Civil, e4º, V, da Lei 6.830/80, que autorizam o direcionamento da execução em face do sócio gerente como corresponsável, em caso de dissolução irregular.
+Quanto à questão de fundo, sustenta ofensa aosartigos 50, 1.016, 1.023 e 1.052do Código Civil, ao artigo 4º, V, da Lei 6.830/1980 e dissídio jurisprudencial. Nesse ponto, argui: (a) a legislaçãoautoriza expressamente o ajuizamento da execução em face do corresponsável pelo débito; (b)o art. 13 da Lei n. 8.620/1993é aplicável somente às execuções fiscais e demandas que incluem o INSS, o que não é o caso dos autos; (c)uma vez extinta a empresa irregularmente, sem a correta liquidação do ativo e encontrando-se a mesma baixada é possível a proposição indicado no contrato social; e (d)apenas o próprio executado pode pleitear sua exclusão, em razão da presunção de legitimidade da CDA - não podendo o magistrado, de ofício, determinar a emenda da CDA sem requerimento do interessado.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 104.
+É o relatório. Passo a decidir.
+De início, afasta-se a alegada violação do artigo 1.022, II, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Com efeito, a questão foi tratada pelo acórdão recorrido, nos seguintes termos:
+(..) não há qualquer prova da prática de atos com excesso de poderes ou infração à lei pelo apontado corresponsável, não sendo permitida a inclusão automática do sócio no polo passivo da execução fiscal com base na mera indicação de seu nome na certidão de dívida ativa. Ainda que não se trate, de fato, de INSS o exequente, o fato é que a inicial executiva e a CDA não trazem qualquer fundamento jurídico para a responsabilização automática do sócio-gerente.
+Frise-se que a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro Og Fernandes, Corte Especial, DJe 3/8/2016).
+Quanto à questão de fundo, verifica-se que a controvérsia foi decidida nos seguintes termos:
+No caso dos autos, entendeu o Juízo recorrido, relativamente ao corresponsável pelas obrigações da pessoa jurídica executada, que não há"fundamento jurídico para sua inclusão no título de dívida ativa e, em consequência, no polo passivo da execução".
+De fato, o STF, no julgamento do Recurso Extraordinário nº 562.276/PR, ao reconhecer a inconstitucionalidade do art. 13 da Lei nº 8.620/93, afastou a possibilidade de inclusão automática do sócio no polo passivo da execução fiscal com base na mera indicação de seu nome na certidão de dívida ativa(RE 562.276/PR, ELLEN GRACIE, STF).
+Com base nesta decisão, a jurisprudência orientou-se no sentido de que a inclusão do sócio no feito executivo pressupõe a comprovação da prática de atos, pelo sócio, com excesso de poderes, infração à lei ou ao contrato social.
+Verifica-se, portanto, que acontrovérsia foi dirimida com fundamento constitucional, especificamente com base na tese fixada pelo STF no julgamento do Recurso Extraordinário n.562.276/PR, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC2015. NÃO OCORRÊNCIA.FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. RECURSO PARCIALMENTE CONHECIDO E NÃO-PROVIDO.
