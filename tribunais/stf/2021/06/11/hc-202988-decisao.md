@@ -1,0 +1,24 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado por Luiz Fernando Adami Latuf e outro em favor de Marcelo Leite da Silva contra decisão monocrática do Superior Tribunal de Justiça que indeferiu a liminar nos autos do HC 669.850/SP.
+    Os impetrantes narram (eDOC 1) que o paciente, preso em flagrante em 9.4.2021, teve sua prisão preventiva decretada pela suposta prática do crime do art. 273, § 1º-B, I e V, do Código Penal.
+    Afirmam que o decreto de prisão preventiva não atenderia às provisões do art. 312 do CPP, pois teria sido decretada sobre razões genéricas, com base na gravidade do crime em abstrato, sem atenção às circunstâncias do caso concreto. (p. 2)
+    Declaram que o paciente é primário, possui residência fixa e ocupação lícita, e que “o processo ainda não teve trânsito em julgado”. (p. 3)
+    É o relatório.
+    Decido.
+    Inicialmente, a jurisprudência desta Corte é no sentido da inadmissibilidade da impetração de habeas corpus nas causas de sua competência originária, contra decisão denegatória de liminar em ação de mesma natureza articulada perante tribunal superior, antes do julgamento definitivo do writ. Conforme jurisprudência: HC (QO) 76.347/MS, Rel. Min. Moreira Alves, Primeira Turma, unânime, DJ 8.5.1998; HC 129.907-AgR/RJ, Rel. Min. Cármen Lúcia, Segunda Turma, unânime, DJe 13.10.2015; e HC 133.287/DF, Rel. Min. Luiz Fux, DJe 7.3.2016.
+    Essa conclusão está representada na Súmula 691 do STF, in verbis: Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+    É bem verdade que o rigor na aplicação de tal entendimento tem sido abrandado por julgados desta Corte em hipóteses excepcionais, em que: a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF (cf. as decisões colegiadas: HC 84.014/MG, Primeira Turma, unânime, Rel. Min. Marco Aurélio, DJ 25.6.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ 1º.9.2006; e HC 129.872/SP, Segunda Turma, unânime, de minha relatoria, DJe 29.9.2015).
+    Na hipótese dos autos, não vislumbro nenhuma dessas situações ensejadoras do afastamento da incidência da Súmula 691 do STF.
+    Para tanto, são relevantes os fundamentos contidos no acórdão que negou a ordem no primeiro habeas corpus, transcritos pelo ato coator:
+    “Durante operação policial que realizava o monitoramento de denúncias sobre a venda de anabolizantes em determinado local, policiais civis receberam informação de que o indivíduo alvo do monitoramento, ora paciente, realizaria a entrega de anabolizantes e para lá se dirigiram, oportunidade na qual flagraram o paciente na posse de grande quantidade de produtos sem registro no órgão de vigilância sanitária competente, de procedência ignorada e/ou sujeitos à Receita de Controle Especial em Duas Vias [42 (quarenta e duas) caixas lacradas, cada uma contendo 01 (uma) ampola de “Durateston” (Propinato de testosterona 30mg; fempropinato de testosterona 60mg; isocapronato de testosterona 60mg; e decanato de testosterona 100mg)”; 01 (uma) ampola contendo 100mg de medicação denominada “Darktrenbo” (contendo a substância anabolizante “trembolona”); e 01 (um) frasco contendo comprimidos de “Metandrostenolona”].
+    […]
+    Ademais, o paciente responde a outra ação penal pela prática do mesmo crime que agora lhe é imputado (artigo 273-B, §1º-B, do Código Penal), demanda na qual, caso a condenação proferida pela primeira instância se confirme e transite em julgado, poderá ser valorada como maus antecedentes.
+    […]
+    Sem adentrar no mérito da constitucionalidade da nova redação conferida pela Lei nº 13.964/2019 (“Pacote Anticrime”) ao artigo 310, § 2º, do Código Penal, mas com amparo no artigo 313, inciso II, do referido diploma legal, fato é que a reiteração de condutas criminosas demonstra a dificuldade do paciente em aceitar a ordem legal estabelecida, não hesitando em reiterar a prática delitiva”. (eDOC 3, p. 2)
+    Esta Corte tem considerado legítimos os decretos prisionais consubstanciados na possibilidade concreta de reiteração delitiva, de modo que não se vislumbra constrangimento ilegal pela motivação adotada. Precedentes: HC 141.170-AgR/SP, rel. Dias Toffoli; HC 175.086, de minha relatoria, DJe 10.9.2019).
+    Assim, não se tratando de decisão manifestamente contrária à jurisprudência do STF ou de flagrante hipótese de constrangimento ilegal, descabe afastar a aplicação da Súmula 691 do STF.
+    Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 11 de junho de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
