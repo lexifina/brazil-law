@@ -31,4 +31,4 @@ II - ao montante acrescido de capacidade instalada, caso a solicitação de alte
 § 9º (VETADO)
 § 10. (VETADO).
 § 11. Nos processos de outorga de autorização, inclusive na realização dos estudos e dos projetos, é facultada ao agente interessado a apresentação de qualquer uma das modalidades de garantia previstas no § 1º do art. 56 da Lei nº 8.666, de 21 de junho de 1993.
-§ 12. (VETADO).
+§ 12. O agente titular de outorga de autorização para geração de energia elétrica com prazo de 30 (trinta) anos, cuja usina esteja em operação em 1º de setembro de 2020 e que não tenha sido objeto de qualquer espécie de penalidade pela Aneel quanto ao cumprimento do cronograma de sua implantação, terá seu prazo de autorização contado a partir da declaração da operação comercial da primeira unidade geradora, com ajuste, quando necessário, do respectivo termo de outorga, após o reconhecimento pela Aneel do atendimento ao critério estabelecido neste parágrafo.
