@@ -1,0 +1,7 @@
+DECISÃO
+DREYK MOAN MOREIRA SANTOSalega ser vítima de constrangimento ilegal em sua liberdade de locomoção em decorrência deacórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+A defesa pleiteia, por meio deste writ, seja relaxada a custódia preventiva do paciente - decretada pela suposta prática dos crimes de porte ilegal de arma de fogo e receptação -, sob o argumento de que há excesso de prazo na tramitação do feito. Pontua, para tanto, que o réu foi preso em flagrante em 21/10/2019 e que "continua preso provisoriamente até a presente data, há exatos 15 (quinze) meses e 25 (vinte e cinco dias) dias, sem culpa formada num delito sem violência ou grave ameaça" (fl. 4).
+Após consulta à página eletrônica do TJSP, verificou-se que, no dia 22/6/2021, foi proferida sentença na ação penal originária para condenar o ora pacientepela prática dosdelitos descrtios nos arts. 180 do CP e 16, inciso IV, da Lei n. 10826/2003.Na ocasião, foi negado o direito de apelar em liberdade eo Juízo singular empreendeu nova avaliação sobre os fundamentos suscitados para a imposição da segregação cautelar.
+Assim, evidencia-se a prejudicialidade deste writ, em que se pretende a revogação da prisão preventiva, inclusive por excesso de prazo.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado este habeas corpus, pela perda do seu objeto.
+Publique-se e intimem-se.
