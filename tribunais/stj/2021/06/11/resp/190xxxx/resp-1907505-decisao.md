@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recursoespecialcom fulcro no art. 105, III, alínea "a", da Constituição Federal, interpostoem desfavor de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina.
+Consta dos autos queo juízo da execução indeferiu opedido de reconhecimento da prescrição da pretensão punitiva do Estado do recorrente. O agravo em execução penal da defesa não foi conhecido.
+Interposto agravo regimental, este foi desprovido, em acórdão assim ementado:
+AGRAVO INTERNO. DECISÃO UNIPESSOAL DE NÃO CONHECER DO RECURSO. APENADO QUE DEPOIS DE INTERPOSTO O RECURSO QUESTIONANDO A PRESCRIÇÃO DA PRESTAÇÃO PECUNIÁRIA A ELE IMPOSTA, PAGA O DÉBITO. ATO POSTERIOR INCOMPATÍVEL COM O DESEJO DE RECORRER. PRESCRIÇÃO, ADEMAIS, NÃO CONSUMADA. DECISÃO DE PRIMEIRO GRAU ADEQUADA AO POSICIONAMENTO ESTE TRIBUNAL. RECURSO DESPROVIDO.
+Opostos embargos de declaração, estes foram rejeitados.
+Na petição de recurso especial, o recorrente sustenta violação aos arts. 619 do CPP e 117, IV e V, do Código Penal. Afirma quenão houve manifestação acerca do entendimento de que, ainda que se considere a interrupção da fluência do prazo prescricionalpelo início do cumprimento provisório da pena, não se poderia entender o mesmo doacórdão ou pela simples intimação para o seu início de cumprimento. Assegura queo fato de ter sido obrigado a pagar a sua pena antes do julgamento do presente recurso não lhe retira o interesse recursal. Registra quequando realizada a audiência de admoestação para o início do cumprimento da pena, o prazo prescricional de 4 (quatro) anos já havia decorrido.
+Contrarrazões às fls. 229/242.
+Admitidoorecurso(fls. 244/247).
+Parecer ministerial pugnando pelo desprovimento dorecurso(fls. 268/271).
+Airresignação mereceprosperar.
+De início,não está caracterizada omissão por parte do Tribunal a quo, quesolveu a questão da inocorrência de prescrição da pretensão punitiva estatalno caso concreto,embora de forma contrária à tese mencionada pela defesa. Basta a leitura do excerto extraído do aresto hostilizado (fls. 49/50):
+"O agravante foi denunciado, processado e condenado às penas de 1 (um) ano de reclusão e 8 (oito) meses de detenção, pela prática dos crimes previstos nos art. 2º, II, c/c art. 11, caput, ambos da Lei n. 8.137/90, c/c art. 71 do Código Penal e no art. 299, caput, c/c art. 69, ambos do Código Penal. Os delitos descritos no art. 2º, II, c/c art. 11, caput, ambos da Lei n. 8.137/90, c/c art. 71 do Código Penal já foram declarados extintos em razão da prescrição (fls. 159-160 do PEP).
+Resta, portanto, apenas o delito descrito no art. 299 do Código Penal. Por este delito, o apenado foi condenado à pena de 1 (um) ano de detenção, em regime inicialmente aberto, substituída a pena corporal por prestação pecuniária. A prescrição desse delito, de acordo com o art. 109, V, do Código Penal, se dá em 4 (quatro) anos.
+A publicação da sentença penal condenatória ocorreu em 21-01-2015 (fl. 47 do PEP). Em 01-11-2016, foi prolatada decisão que confirmou a sentença penal condenatória (fl. 49 do PEP). Em 12-12-2018, o Min. Herman Benjamin determinou a comunicação do Tribunal de Justiça para que fosse iniciado o cumprimento de pena, já que os recursos pendentes não possuíam efeito suspensivo (fl. 116 do PEP) e o agravante foi intimado para recolher a prestação pecuniária a ele imposta.
+(..)
+Ademais, como já assentado na decisão unipessoal, esta e. Câmara já decidiu que a intimação para pagamento da prestação pecuniária é também marco interruptivo da prescrição."
+No que toca à matéria de fundo, em que pese à época se admitissea execução provisória da pena, essa orientação passou a não mais ser aceita peloPleno do Supremo Tribunal Federal, em apreciação àsADCs 43, 44 e 54, entendimento que também passou a ser seguidopor esta Corte.
+Destarte, diante da inviabilidadedaexecução provisória dapena, estanão serve como marco interruptivo do lapso prescricional da pretensão punitiva. No sentido:
+RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA INTERCORRENTE.
+EXECUÇÃO PROVISÓRIA ADMITIDA À ÉPOCA. NOVO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE. INTERRUPÇÃO DA PRESCRIÇÃO NÃO OPERADA. EXTINÇÃO DA PUNIBILIDADE DECLARADA. RECURSO PROVIDO.
+1. Em que pese à época se admitisse jurisprudencialmente a execução provisória da pena, veio o Pleno do Supremo Tribunal Federal, apreciando as ADCs 43, 44 e 54, a firmar compreensão de constitucionalidade do art. 283 do Código de Processo Penal, segundo o qual "Ninguém poderá ser preso senão em flagrante delito ou por ordem escrita e fundamentada da autoridade judiciária competente, em decorrência de sentença condenatória transitada em julgado ou, no curso da investigação ou do processo, em virtude de prisão temporária ou prisão preventiva", em consonância com o princípio da presunção de não culpabilidade.
+2. Audiência admonitória de execução, após tida como indevida, não serve como marco interruptivo da prescrição, mais ainda na modalidade da pretensão punitiva estatal.
+3. Pendentes recursos especial ou extraordinário, inviável é a execução provisória de pena não transitada em julgado, que não serve como marco interruptivo do lapso prescricional da pretensão punitiva.
+4. No caso, a prescrição opera em 8 anos, nos termos do art. 117, V, do CP, considerando a pena imposta individualmente a cada delito - 4 anos de reclusão quanto art. 332, parágrafo único, do CP e 2 anos e 5 meses de reclusão para o crime do art. 357, parágrafo único, do CP.
+5. Havendo a pendência de julgamento de recurso extraordinário defensivo, transcorrido lapso temporal superior a 8 anos desde a sessão de julgamento do acórdão condenatório, ocorrida em 17/5/2011, até a presente data, configura-se a perda da pretensão punitiva estatal.
+6. Recurso especial provido para declarar extinta a punibilidade de ROBERTO BERTHOLDO pela prescrição da pretensão punitiva.
+(REsp 1872570/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 18/12/2020).
+Passo então à análise da prescrição.
+No caso dos autos, considerando apenaaplicadaaorecorrente(1 ano de detenção), deve incidir o disposto no art. 109, V, do CP -4 (quatro) anos deprazo prescricional, sendo que entre a data da decisão que confirmou a sentença penal condenatória (01-11-2016) e a presente transcorreu prazo superior a 4 (quatro) anos.
+Assim, mesmo considerando a interrupção da prescrição com a decisão que confirmou a sentença condenatória, há o transcurso do referido lapso prescricional até a presente data, devendo ser declarada a prescrição da pretensão punitiva estatal para o delito descrito no art. 299 do Código Penal, por se tratar de matéria de ordem pública, que pode ser reconhecida de ofício e em qualquer grau de jurisdição.
+A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA N.182 DO STJ. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA.AGRAVO NÃO CONHECIDO.
+1. Incide a Súmula n. 182 do STJ quando a parte agravante não impugna especificamente todos os fundamentos da decisão agravada.
+2. Nos termos do inciso IV do art. 117 do Código Penal, o acórdão condenatório interrompe a prescrição, inclusive quando confirma a sentença de primeiro grau, mantendo, reduzindo ou aumentando a pena anteriormente imposta (STF, HC n. 176.473/RR).
+3. Agravo regimental não conhecido.
+(AgRg no AREsp 1814270/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 29/04/2021).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESCAMINHO.PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. ATUAL ENTENDIMENTO DO STF. PRINCÍPIO DA INSIGNIFICÂNCIA.HABITUALIDADE DELITIVA. INAPLICABILIDADE. AGRAVO NÃO PROVIDO.
+1. O prequestionamento é requisito imprescindível à admissibilidade do recurso especial incidente inclusive às matérias de ordem pública. Precedentes. Não obstante, a pretensão da defesa desconsidera o o atual entendimento do Supremo Tribunal Federal, segundo o qual o acórdão confirmatório de sentença implica a interrupção da prescrição da pretensão punitiva.
+2. Conforme jurisprudência uníssona desta Corte Superior, é inaplicável o princípio da insignificância aos réus contumazes no delito de descaminho, ainda que o valor do tributo iludido seja inferior a R$ 20.000,00. Precedentes. No caso, o réu ostenta, além de sete procedimentos administrativos fiscais, outras ações penais em andamento pela prática do crime previsto no artigo 334 do Código Penal.
+3. Agravo regimental não provido.
+(AgRg no AREsp 1724878/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 26/04/2021).
+Diante do exposto, dou provimento ao recurso especial para reconhecer a ocorrência daprescrição da pretensão punitiva estatal do delito do art. 299 do Código Penal e declararextinta a punibilidade dorecorrente, nos termos do art. 107, inc. IV, c/c. os arts. 109, inc. V e 110, § 1º, todos do Código Penal.
+Publique-se. Intime-se.
