@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de CLEUDE DO NASCIMENTO SILVA em que se aponta como autoridade coatora do Tribunal de Justiça do Estado do Acre (HC n. 1001765-87.2020.8.01.0000).
+O paciente teve sua prisão em flagrante convertida em preventiva pela suposta prática dos delitos descritos no art. 33, caput, c/c o art. 40, VI, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na garantia da ordem pública, tendo em vista a gravidade concreta da conduta, a periculosidade do agente e o risco de reiteração delitiva. Assentou-se também na conveniência da instrução criminal. O Tribunal de origem manteve a prisão preventiva com base nos mesmos fundamentos e denegou a ordem.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos ensejadores da segregação cautelar. Argumenta que a conversão do flagrante em preventiva se deu de ofício, razão pela qual o ato está eivado de ilegalidade.
+Ressalta que o paciente possui residência fixa, bons antecedentes, ocupação lícita e é primário.
+Requer seja revogada a prisão preventiva do paciente, expedindo-se alvará de soltura, ou seja concedida a liberdade provisória mediante imposição de cautelares diversas do cárcere previstas no art. 319 do CPP.
+O pedido de liminar foi indeferido às fls. 105-106.
+As informações foram prestadas às fls. 112-120 e 123-128.
+O Ministério Público Federal manifestou-se pela concessão da ordem de ofício(fls. 134-141).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, o pleito formulado no presentewrité dotado de plausibilidade jurídica, circunstância que autoriza a atuação ex officio.
+Com as alterações dos arts. 282, § 4º, e 311 do CPP pela Lei n. 13.964/2019 (Lei Anticrime), que entrou em vigor em 23/1/2020, não pode mais o juiz, de ofício, converter a prisão em flagrante em preventiva com fundamento no art. 310, II, do CPP, sendo indispensável para tanto o prévio requerimento do Ministério Público, do querelante ou de seu assistente, ou representação da autoridade policial.
+Esse foi o entendimento firmado pela Quinta Turma do STJ no HC n. 590.039/GO (relator Ministro Ribeiro Dantas), julgado em 20/10/2020, e pela Segunda Turma do STF no HC n. 188.888/MG (relator Ministro Celso de Mello), julgado em 6/10/2020.
+Na hipótese, o Juízo de primeiro grau, em 26/9/2020 - data posterior à da entrada em vigor da Lei n. 13.964/2019 -, converteu o flagrante em preventiva em desfavor do paciente, tendo o Ministério Público estadual se manifestado pela liberdade provisórianos seguintes termos (fl. 54, destaquei):
+Abriu-se vista ao Ministério Público conforme certidão às pp. 202, porém á há um posicionamento do Parquet às pp. 63/69, emitindo parecer pelo pela concessão de liberdade provisória Cleude do Nascimento mediante a imposição de outras medidas cautelares diversas da prisão;
+Como se observa no trecho acima, o Juízo de primeiro grau converteu a prisão em flagrante em preventiva sem a representação formal do Ministério Público pela prisão preventiva - que se manifestou tão somente pela imposição de medidas cautelares alternativas -, agindo, portanto, de ofício.
+Consoante orientação jurisprudencial do Supremo Tribunal Federal, "tornou-se inviável, mesmo no contexto da audiência de custódia, a conversão, de ofício, da prisão em flagrante de qualquer pessoa em prisão preventiva, sendo necessária, por isso mesmo, para tal efeito, anterior e formal provocação do Ministério Público, da autoridade policial ou, quando for o caso, do querelante ou do assistente do MP" (HC n. 186.421-MC/SC, relator Ministro Celso de Mello, Segunda Turma, DJe de 19/10/2020, destaquei ), o que não ocorreu no caso.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, mas concedo a ordemde ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, para anular a conversão do flagrante em prisão preventiva, assegurando aopacienteo direito de aguardar em liberdade, ressalvadas a possibilidade de nova decretação da prisão ou a aplicação de medidas cautelares previstas no art. 319 do CPP, desde que precedidas de requerimento, ou ainda a hipótese de estar cumprindo pena por outro processo ou de haver contra elemandado de prisão cautelar.
+Comunique-se com urgência ao Juízo de primeira instância e ao Tribunal de origem.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
