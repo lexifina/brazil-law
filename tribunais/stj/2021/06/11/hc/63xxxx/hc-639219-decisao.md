@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de habeas corpusimpetrado em benefício deHenrique LuísCarrer, em que se aponta como autoridade coatora a Décima Primeira Câmara Criminal do Tribunal de Justiça de São Paulo.
+Consta dos autos que o paciente foi condenadoà pena de 7 meses de detenção, em regimesemiaberto, e 11 dias-multa, por infração do art. 306 da Lei n.9.503/1997. Também foi proibido ao paciente obter a permissão ou habilitação para conduzir veículo automotor, pelo prazo de 3 meses(fls. 10/14).
+Em sede de apelação, a defesa apontou ausência de provas para a condenação e pediu a redução da pena. ADécima Primeira Câmara Criminal do Tribunal de Justiça de São Paulo negou provimento ao recurso (fls. 15/21). Esta, a ementa do julgado (fl. 16):
+1-) Apelação criminal. Condução de veículo automotor com capacidade psicomotora alterada em razão da influência de álcool. Não provimento do recurso defensivo.
+2-) Materialidade delitiva e autoria, além de incontroversas, estão comprovadas pela prova oral e pericial existentes nos autos.
+3-) Dosimetria. Na primeira-fase, a pena-base foi fixada 1/6acima do piso, pelos maus antecedentes. Na segunda fase, houve compensação integral da agravante da reincidência com a atenuante da confissão espontânea. Na terceira fase, inexistiam causas de diminuição ou de aumento. Penas finais: sete (7) meses de detenção e onze (11) dias-multa e pena acessória de suspensão ou proibição de se obter permissão ou habilitação para dirigir veiculo automotor, pelo prazo de três (3) meses.
+4-) Regime inicial semiaberto, pelos maus antecedentes e reincidência, para retribuição, prevenção e ressocialização criminais.
+5-) Não se pode substituir a pena privativa da liberdade por restritivas de direitos, tampouco conceder-se o "sursis", pela reincidência, maus antecedentes e inviabilidade subjetiva para bem individualizar a pena.
+6-) Determinada expedição de mandado de prisão após o trânsito em julgado, em virtude de recente decisão no Excelso Supremo Tribunal Federal (6x5).
+No presente writ, a defesa alega ser indevida a utilização de condenações pretéritas em diversas fases da dosimetria. Acrescenta que somente foram considerados os antecedentes como fundamento da fixação do regime mais gravoso, não levando em conta os demais elementos presentes no art. 59 do Código Penal (fls. 3/9).
+Decisão da Presidência desta Corteindeferindo a liminar (fls. 30/31).
+Parecer ministerialopinando pela denegação da ordem (fls. 50/54).
+É o relatório.
+Razão não assiste à defesa. Esta Corte deve intervir na dosimetria da pena somente quando essa se mostrar extremamente excessiva, sem que ocorra a devida fundamentação, por parte da instância ordinária. Sabe-se queorefazimento da dosimetria da pena em habeas corpus tem caráter excepcional, somente sendo admitido quando se verificar de plano e sem a necessidade de incursão probatória, a existência de manifesta ilegalidade ou abuso de poder(HC n. 366.639/SP, Ministro FELIX FISCHER, QUINTA TURMA, DJe 5/4/2017).Na hipótese, a fixação do regime mais gravoso foi devidamente justificada pelo fato de o paciente ser multirreincidente (Processo n.0011891-95.1999.8.26.0408, n.0012722-12.2000.8.26.0408e n. 0012784-86.1999.8.26.0408). Confira-se trecho do acórdão hostilizado (fls. 15/21):
+ ..  No que concerne ao regime, mantém-se o semiaberto como estabelecido na origem, ante a recidiva e maus antecedentes, por força dos arts. 33, §§ 2º "b" e "c", e 3º, e 59, III, do Código Penal, satisfazendo, portanto, o binômio necessidade/suficiência, até porque se trata de agente que registra quatro condenações definitivas  .. .
+Assim, não há ausência de motivação para a manutenção do regime mais rigoroso. O paciente voltou a delinquir, o que demonstra que é necessário maior rigor no regime inicial como forma terapêutica e repressiva ao crime. Nesse sentido:
+ ..
+Acrescente-se que, diante da pluralidade de condenações definitivas, é perfeitamente possível que sejam consideradas em fases distintas da dosimetria para justificar o respectivo aumento, não havendo se falar em ofensa ao enunciado da Súmula 241 do STJ. Aliás, o entendimento consolidado no Superior Tribunal de Justiça é no sentido de que "se o réu possuir mais de uma condenação transitada em julgado, não há bis in idem por algumas delas serem consideradas como maus antecedentes, a exasperar a pena-base acima do mínimo legal, e que as outras sejam utilizadas para se reconhecer a reincidência, agravando, assim, a reprimenda na segunda fase do cálculo da pena. É que, em tais casos, não se trata de valoração do mesmo fato em momentos distintos da fixação da pena, o que preserva a Súmula 241 do STJ ..
+(Habeas Corpus n. 166.471/SP, Ministro Vasco Della Giustina (Desembargador convocado do TJ/RS), Sexta Turma, DJe 28/6/2011)
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS.CRIME DE TRÂNSITO. REGIME PRISIONAL MAIS GRAVOSO. PACIENTE MULTIRREINCIDENTE. UTILIZAÇÃO DE CONDENAÇÕES DIVERSAS EM MOMENTOS DISTINTOS DA DOSIMETRIA DA PENA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Ordem denegada.
