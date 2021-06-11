@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por VALTER RIBEIRO DE ARAUJO ADVOGADOS ASSOCIADOS S/S contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+AGRAVO INTERNO - APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - INTIMAÇÃO DO APELANTE PARA RECOLHIMENTO DAS CUSTAS - INÉRCIA - IMPOSSIBILIDADE DE DISCUSSÃO - PRECLUSÃO TEMPORAL - RECURSO IMPROVIDO
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 507 do CPC, no que concerne à inocorrência de preclusão temporal, trazendo os seguintes argumentos:
+O Acórdão recorrido deve ser REFORMADO por esta Corte, pois NÃO HOUVE preclusão temporal no caso vertente, bem como não houve qualquer decisão nos autos acerca da justiça gratuita.
+O Recorrente junta, nesta oportunidade, cópia integral do processo a partir da Apelação, e nele se verifica que o Relator da Apelação interposta pelo Recorrente ordenou, por intermédio de decisão monocrática, a juntada do preparo da Apelação, todavia, NÃO APRECIOU o pedido de justiça gratuita contida nas razões da Apelação, o que fez com que o ora Recorrente, de forma imediata e dentro do prazo, interpusesse Agravo Interno que deu origem ao presente Recurso Especial.
+Desse modo, não houve preclusão temporal, pois na primeira oportunidade de manifestação quanto à ausência de apreciação do pedido de justiça gratuita o Recorrente manejou Agravo Interno (/50000).
+O que certamente causou confusão foi a certidão contida nos autos de que houve decisão colegiada acerca da justiça gratuita por parte da Turma julgada, entretanto, isso não ocorreu, tanto que não há qualquer Acórdão nos autos nesse sentido, e mais que isso, quem aprecia o pedido de justiça gratuita contido na Apelação é o próprio Relator.
+Vejam, doutos Ministros, que o Recorrente junta a cópia integral da Apelação interposta pelo mesmo, bem como dos dois Agravos Internos que tiveram final /50000 e /50001, sendo que o primeiro (/50000) é que deu origem ao presente Recurso Especial e trata da ausência de apreciação do pedido de justiça gratuita e o segundo (/50001) que trata da deserção, pois com a não juntada do preparo o TJ/MS entendeu como deserta a Apelação, mesmo estando a questão da justiça gratuita em discussão.
+Desse modo, o que se tem é que não houve a preclusão temporal alegada no Acórdão recorrido, muito pelo contrário, na primeira oportunidade de se manifestar nos autos, o Recorrente interpôs Agravo Interno combatendo a ausência de manifestação do Tribunal acerca do pedido de justiça gratuita e a ordem de juntada do preparo sem apreciar esse pedido.
+Verifica-se, pois, que o TJ/MS, pelo Acórdão recorrido, contrariou o art. 507 do Código de Processo Civil, na medida em que não houve preclusão temporal no caso vertente (fls. 1311/1312).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No momento que o agravante foi intimado para recolher as custas processuais era a oportunidade de impugnar a suposta ausência de indeferimento do pedido de gratuidade judicial. Ademais, numa simples consulta processual o agravante teria visto que o seu pedido havia sido indeferido, por maioria da 1ª Câmara Cível:
+ ..
+Sob este enfoque, não exercido o direito processual subjetivo in oportuno tempore, considera-se consumada a preclusão temporal, não se podendo permitir um retrocesso para fase anterior do procedimento.
+ ..
+Portanto, não oferecida impugnação ao despacho que determinou o recolhimento das custas, precluiu o direito do agravante de questioná-los, ainda mais, porque pela consulta processual era possível ver que seu pedido havia sido indeferido.
+Consequentemente, não há falar na análise dos requisitos para concessão da gratuidade judicial em sede de agravo interno (fls. 1304/1305).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
