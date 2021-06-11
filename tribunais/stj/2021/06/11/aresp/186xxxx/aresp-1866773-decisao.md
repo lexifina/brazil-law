@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por EDUARDO FIGUEIREDO LIMA NETO e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Agravo de instrumento. Embargos à execução. Justiça gratuita. Pessoa física. Indeferimento. Admissibilidade. Ausência de comprovação do estado de pobreza a ponto de ensejar a gratuidade. Decisão mantida.
+Recurso desprovido, com determinação.
+Quanto à controvérsia, alegam violação dos arts. 98, caput e § 1º, e 99, §§ 1º e 3º, do CPC; e arts. 1º e 4º da Lei n. 1.060/50, relativo ao indeferimento do benefício da gratuidade de justiça, trazendo o seguinte argumento:
+Os Agravantes precisam da Assistência Judiciária, posto que a situação financeira vivida não lhes permitem custear os gastos processuais, como taxas e demais despesas processuais. E que tal lhes deve ser conferido, inclusive, sob pena de suprimir e privar o acesso à Jurisdição, justamente por causa de falta de dinheiro. A negativa da Assistência Judiciária para aos Agravantes, equivale a negar acesso ao Poder Judiciário, uma vez que não poderão litigar acerca dos seus direitos. (fls. 249-250).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso em tela não restou comprovado que os agravantes encontrem-se em estado de pobreza a ponto de ensejar a concessão da gratuidade.
+Os agravantes qualificam-se como pecuaristas e não carreiam aos autos qualquer documento que comprove a alegada pobreza.
+Pelos informes de imposto de renda constantes nos autos, vislumbra-se que o patrimônio do casal supera o valor de R$ 1.000.000,00, não podendo, assim, ser considerados pobres na acepção jurídica do termo.
+Outrossim, realizaram cédula de crédito rural com o agravado no valor de R$ 170.000,00, inferindo-se, assim, a inexistência de precariedade econômica a ponto de impedir o recolhimento das custas processuais (fls. 238, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ademais, no que se refere aos arts. 1º e 4º da Lei n. 1.060/50, não é cabível a interposição de recurso especial fundado em dispositivo de lei federal não vigente, seja em razão de a questão fática ou jurídica ter surgido após a sua revogação, seja por ser anterior à sua entrada em vigor.
+Nesse sentido: REsp 1.425.740/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 03/02/2016; AgRg no AREsp 605.044/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/02/2015; REsp 726.446/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 29/04/2011.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
