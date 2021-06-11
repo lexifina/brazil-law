@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LUCIMAR DIAS MIRANDA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0005949-78.2016.8.26.0637.
+A Paciente foi condenada às penas de 1 (um) ano de reclusão, em regime inicial aberto, e pagamento de 10 (dez) dias-multa, pela prática no crime previsto no art. 171, caput, do Código Penal. Na ocasião, a pena privativa de liberdade foi substituída por uma sanção restritiva de direitos (fls. 173-180).
+Isso porque, conforme consta no aresto combatido (fl. 278):
+"A acusação acolhida, ensejadora da condenação, é a de que a recorrente obteve, para si, vantagem ilícita no valor de R$ 2.200,00, em prejuízo de Gislene Garcia de Oliveira Cruz, induzindo-a em erro, mediante artifício e meio fraudulento.
+Segundo a exordial, a ré se apropriou de folhas de cheque do Banco Bradesco, pertencentes a sua irmã, as quais subtraíra de uma gaveta da residência em que residem.
+Em seguida, decidiu utilizar-se de sobreditas cártulas, preenchendo-as no valor de R$ 1.100,00, cada, e as assinando em nome da correntista.
+Assim, a apelante foi até o estabelecimento vítima e efetuou uma compra no valor de R$ 2.245,00 e deixou os cheques como caução.
+Todavia, a suplicante deixou de efetuar o pagamento da dívida e quando a ofendida depositou as cártulas, soube que elas haviam sido sustadas junto ao banco sacado, devido ao extravio do talonário."
+O recurso de apelação interposto pela Sentenciada foi desprovido pelo Tribunal de origem. O acórdão foi assim ementado (fl. 276):
+"Estelionato - Recurso defensivo - Conjunto probatório suficiente para o reconhecimento da prática delitiva - Absolvição - Impossibilidade Pena adequada e motivadamente dosada, necessária e suficiente para reprovação e prevenção da conduta - Sentença mantida - Recurso desprovido."
+Conforme certidão acostada à fl. 288, constata-se que a condenação transitou em julgado para a Defesa em 02/12/2020.
+No presente writ, defende a Parte Impetrante a atipicidade da conduta imputada à Paciente, na medida em que as elementares do crime "consistentes em obtenção de vantagem ilícita e de prejuízo à vítima estão ausentes" (fl. 5).
+Ressalta que a Apenada "não pretendia causar qualquer prejuízo à vítima e tão somente atrasou as prestações por dificuldades financeiras", bem como que "a dívida fora paga, mesmo que em mora" (fl. 6). Salienta, ainda, que "o direito privado é a jurisdição correta para tutelar a presente relação jurídica" (fl. 7).
+Requer, liminarmente, a suspensão da execução da pena. No mérito, pleiteia a concessão da ordem "para absolver a paciente, ante a não configuração da totalidade das elementares do tipo penal sob apreço, bem como do dolo relativo a cada uma delas, com fundamento no art. 386, inc. III, do Código Processual Penal, pois não há infração penal" (fl. 11). Subsidiariamente, a absolvição por ausência de prova suficiente para a condenação.
+É o relatório.
+Decido.
+No caso, o acórdão do Tribunal de Justiça do Estado de São Paulo apontado como ato coator (Apelação Criminal n. 0005949-78.2016.8.26.0637) transitou em julgado para a Defesa no dia 02/12/2020 (fl. 288). Diante dessa situação, não deve ser processado o presente writ, pois a rediscussão da condenação definitiva exige a instauração de revisão criminal, ação autôno ma para a qual esta Corte Superior não possui competência na espécie.
+De fato, nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça julgar, originariamente, as revisões criminais e as ações rescisórias de seus próprios julgados, o que não é o caso dos autos.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DECISÃO MONOCRÁTICA. PRINCÍPIO DA COLEGIALIDADE. NÃO VIOLAÇÃO. CONDENAÇÃO TRANSITADA EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO. FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há ofensa ao princípio da colegialidade diante da existência de previsão legal e regimental para que o relator julgue, monocraticamente, inadmissível o habeas corpus.
+2. Não deve ser conhecido o habeas corpus substitutivo de revisão criminal de decisões proferidas por outros Tribunais, por não haver sido inaugurada a competência do STJ. Só compete a esta Corte Superior apreciar pedidos de revisão criminal de seus próprios julgados, nos termos do art. 105, I, "e", da Constituição Federal.
+ ..
+4. Agravo regimental não provido." (AgRg no HC 499.382/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 25/08/2020, DJe 01/09/2020; sem grifos no original.)
+De outra parte, também não verifico nenhuma ilegalidade flagrante capaz de autorizar a concessão de habeas corpus, de ofício, por esta Corte Superior, pois a Corte estadual consignou o seguinte ao julgar o recurso de apelação defensivo (fls. 278-281; sem grifos no original):
+" ..
+A materialidade está demonstrada pelo boletim de ocorrência (fls. 04/05); pelo auto de exibição e apreensão (fls. 07/08); pelo laudo de exame grafotécnico (fls. 37/44), bem como pela prova oral produzida em Juízo.
+De igual modo, a autoria recai, som segurança, sobre a acusada.
+Na Delegacia de Polícia, Lucimar admitiu que fez uma compra no estabelecimento da vítima e, como garantia, deu dois cheques do banco Bradesco, em nome de sua irmã, além de assinar duplicatas, combinando que os títulos seriam resgatados após quitação do pagamento. Não teve intenção em causar prejuízos à loja, mas, por problemas financeiros, não conseguiu efetuar os pagamentos e a proprietária depositou os cheques (fls. 15).
+Em Juízo, afirmou que era cliente da vítima e que tinha restrição em seu nome e, por isso, deixou cheques como caução pra efetuar compras. Juntamente com os cheques, assinava promissórias. Não conseguiu honrar o pagamento de algumas parcelas e, por isso, as cártulas foram depositadas e sustadas. Por fim, assinalou que tinha compulsão por compras e que se submeteu a tratamento psicológico (depoimento colhido via streaming, encartado aos autos digitais).
+A prova colhida sob o crivo do contraditório edificou-se em desfavor da recorrente.
+Gislaine Garcia de Oliveira Cruz, em juízo, reafirmou que Lucimar foi cliente de seu estabelecimento comercial e que, antes dos fatos, já apresentara problemas em adimplir dívidas contraídas. Na data dos fatos, ela retornou a sua loja, mas, devido a seu histórico, recusara-se a conceder-lhe crédito. Lucimara, então, sugeriu dar cheques de sua irmã, pessoa conhecida por sua idoneidade, como forma de caução. A compra foi dividida em parcelas e, caso o pagamento não fosse realizado, efetuaria o depósito. O acordo não foi cumprido e, após algum tempo tentando negociar, depositou os cheques, que voltaram por terem sido sustados. Entrou em contato com a irmã da ré, que afirmou que o talonário havia sido subtraído e que não tinha ciência do fato. Tentou entrar em acordo com a acusada, mas não recebeu o valor devido e, por isso, registrou a ocorrência policial (idem).
+Urge obtemperar, a propósito, que, em tema de crimes patrimoniais a palavra da vítima assume especial relevância na elucidação dos fatos e na identificação dos autores, tanto porque em consonância com os demais elementos probantes, quanto porque não detectado qualquer interesse em prejudicá-los gratuita e falsamente.
+No mais, Rosimeire Dias Miranda, irmã da acusada, confirmou que a proprietária do estabelecimento comercial a procurou, após a devolução de duas folhas de cheque emitidas em seu nome. Cerca de um ano antes, havia registrado um boletim de ocorrência pelo desaparecimento dos cheques e não tinha conhecimento de que a responsável havia sido a própria irmã. Por fim, informou ter ciência de que a acusada se envolveu em fatos semelhantes e que ela chegou a fazer tratamento em razão de sua compulsividade por compras (idem).
+Como se vê, restou bem delineado que a apelante, mediante expediente ardiloso, consistente na entrega de cártulas dadas em garantia, preenchidas sem conhecimento da titular da conta, induziu e manteve a vítima em erro para oferta de crédito, obtendo vantagem em prejuízo alheio.
+ ..
+Nesse contexto, a condenação era mesmo de rigor, não havendo se falar em atipicidade da conduta."
+Como se vê dos transcritos, a instância revisora, soberana quanto à análise das provas e dos fatos que instruem o processo, concluiu pela prática do crime de estelionato pela Paciente, tendo se baseado no exame das circunstâncias fáticas colhidas nos autos, especialmente dos depoimentos da Vítima e da própria irmã da Condenada.
+Diante desse quadro, para o Superior Tribunal de Justiça acolher como certo o pleito de absolvição teria, necessariamente, de rever o conjunto fático-probatório do processo criminal, providência, contudo, inviável no estreito âmbito de conhecimento do habeas corpus.
+A propósito:
+" ..
+1. Além de não se admitir a utilização do writ como sucedâneo de uma segunda apelação dirigida a esta Corte, o Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem mais a utilização do habeas corpus como substitutivo do meio processual adequado, sejam recursos próprios ou mesmo a revisão criminal, salvo situações excepcionais.
+2. Para acolher a pretensão da defesa de absolvição do ora agravante do crime de estelionato, nos moldes como colocado na impetração, seria necessário reexame de provas, inviável na via eleita.
+ ..
+5. Agravo regimental improvido." (AgRg nos EDcl no HC 507.612/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 06/06/2019, DJe 18/06/2019)
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. ESTELIONATO. PLEITO DE ABSOLVIÇÃO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO DA REPÚBLICA. INVIABILIDADE. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
