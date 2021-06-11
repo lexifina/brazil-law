@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por ERENILDO MIRANDA DA SILVA, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TJ/SP, assim ementado (e-STJ, fls. 1.075-1.085):
+"Apelação. Júri. Artigo 121, § 2º, incisos II e IV, c.c. oartigo 29, § 1º, ambos do Código Penal. Decisãomanifestamente contrária à prova dos autos, inexistindoprovas de nexo causalentre a conduta do acusado eamorte da vítima e da incidência das qualificadoras.Inocorrência. Veredicto que opta por uma das versõesexistentes nos autos e que se mostra em consonância como contexto probatório. Pleito subsidiário requerendo oreconhecimento da minorante referente à participação desomenos importância cm seu máximo de 1/3.Impossibilidade. Pena e regime prisional que nãocomportam alteração. Recurso defensivo não provido".
+Os embargos de declaração foram rejeitados (e-STJ, fls. 1.159-1.167).
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 315, § 2º, IV,593, III, "d", e 619 do CPP; e 489, § 1º, IV, do CPC/2015. Aduz para tanto, em síntese, que: (I) o acórdão recorrido conteria omissão sobre pontos relevantes da causa; e (II) em relação ao nexo causal, a decisão dos jurados seria manifestamente contrária às provas dos autos.
+Com contrarrazões (e-STJ, fls. 1.177-1.181), o apelo nobre foi inadmitido na origem (e-STJ, fl. 1.184), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento do recurso (e-STJ, fls. 1.235-1.242).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Inicialmente, não vislumbro ofensa ao art. 619 do CPP, pois o Tribunal de origem se pronunciou sobre todos os aspectos relevantes para a definição da causa. Ressalte-se que o julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento.
+Sobre a alínea "d" do art. 593, do CPP, a Corte de origem constatou que não há contrariedade manifesta entre o veredito condenatório e as provas dos autos (e-STJ, fls. 1.079-1.083). Assim, a modificação do julgado demandaria reexame do conjunto fático-probatório, providência vedada pela Súmula 7/STJ, como já entendeu este Tribunal Superior:
+"PENAL E PROCESSO PENAL. TRIBUNAL DO JÚRI. OMISSÃO PELA CORTE DE ORIGEM. NÃO OCORRÊNCIA. NULIDADE POSTERIOR À PRONÚNCIA REJEITADA. "RACHA". DOIS HOMICÍDIOS NA DIREÇÃO DE VEÍCULO. DOLO EVENTUAL. COMPETÊNCIA DO CONSELHO DE SENTENÇA. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. INOCORRÊNCIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. O Tribunal do Júri é soberano para decidir com fundamento nas provas produzidas no processo judicial, as quais serão submetidas ao crivo do contraditório e da ampla defesa. Dessa forma, o acolhimento pelo Conselho de Sentença de uma das teses existentes não resulta em decisão manifestamente contrária à prova dos autos, quando existente elemento probatório apto a amparar a decisão dos jurados.
+4. No presente caso, a Corte a quo, ao analisar os autos, em decisão devidamente motivada, entendeu que a decisão dos jurados, em condenar o acusado, encontra-se fundamentada na prova dos autos. Assim, concluir que a decisão do Júri mostrou-se dissociada das provas constante dos autos, como requer a parte recorrente, implica o revolvimento do conteúdo fático-probatório da demanda, providência vedada em recurso especial. Incidência da Súmula n. 7/STJ.
+5. Agravo regimental não provido".
+(AgRg no AREsp 1819464/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/03/2021, DJe 29/03/2021)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a" e "b", do Regimento Interno do STJ, conheçodo agravo paraconhecerem parte do recurso especial e, nesta extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
