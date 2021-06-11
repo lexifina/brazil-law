@@ -1,1 +1,2 @@
-Art. 17. (VETADO).
+Art. 17. Os valores recebidos a título de pagamento por serviços ambientais, definido no inciso IV do caput do art. 2º desta Lei, não integram a base de cálculo do Imposto sobre a Renda e Proventos de Qualquer Natureza, da Contribuição Social sobre o Lucro Líquido (CSLL), da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público (PIS/Pasep) e da Contribuição para o Financiamento da Seguridade Social (Cofins).
+Parágrafo único. O disposto no caput deste artigo aplica-se somente aos contratos realizados pelo poder público ou, se firmados entre particulares, desde que registrados no CNPSA, sujeitando-se o contribuinte às ações fiscalizatórias cabíveis.
