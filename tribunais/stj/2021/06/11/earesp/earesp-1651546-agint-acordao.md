@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze, Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO NA AÇÃO DE ARBITRAMENTO DE HONORÁRIOS. NEGATIVA DE PRESTAÇÃO JURISDICONAL. NÃO OCORRÊNCIA. DISPOSITIVOS SUPOSTAMENTE VIOLADOS. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ADEQUAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por QUINTINO ANTÔNIO FACCI contra decisão assim ementada(e-STJ fl. 548).
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO NA AÇÃO DE ARBITRAMENTO DE HONORÁRIOS. NEGATIVA DE PRESTAÇÃO JURISDICONAL. NÃO OCORRÊNCIA. DISPOSITIVOS SUPOSTAMENTE VIOLADOS. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. AGRAVO CONHECIDO PARA, DESDE LOGO, CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+Nas razões do agravo, a parte agravante pugna pela modificação do julgado, deduzindo que a Corte Estadual deixou de julgar pedidos importantes colocados no agravo. Com relação à incidência da Súmula 283/STF, afirma que o acórdão não apreciou a matéria apesar dos embargos de declaração opostos. Assevera que a Corte Estadual manteve a decisão em primeiro grau vilipendiou o artigo 357, incisos II, III e IV, ao parágrafo 6º do mesmo artigo 357 do Código de Processo Civilsem qualquer justificativa. Aduz que não houve preclusão da questão da não fixação dos pontos controvertidos em razão de sua ausência na audiência de instrução e julgamento.No que tange à incidência da Súmula 282/STF, assevera que(e-STJ fl. 559):
+Também não podemos concordar, com a máxima vênia, que o prequestionamento da matéria relativa aos artigos 9, 10 e 437 parágrafo 1º do CPC, colocados em embargos de declaração, não seriam suficientes para suprir o prequestionamento, uma vez que não houve apreciação pela Corte Estadual, incidindo, então, as súmulas 282 e 356 do STF.
+Excelência, não houve apreciação de quase nada pela Corte Estadual, justificando, ainda mais, o provimento do recurso especial pela violação ao artigo 1.022, inciso II do Código de Processo Civil.
+Foi apresentada impugnação ao recurso (e-STJ fls. 579-586).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO NA AÇÃO DE ARBITRAMENTO DE HONORÁRIOS. NEGATIVA DE PRESTAÇÃO JURISDICONAL. NÃO OCORRÊNCIA. DISPOSITIVOS SUPOSTAMENTE VIOLADOS. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ADEQUAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes colegas, o agravo interno não deve prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela parte agravante, capaz de alterar os fundamentos da decisão agravada, faz subsistir incólume o entendimento nela firmado.
+De fato, conforme já exposto na decisão agravada, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que, como os embargos de declaração não possuem efeito suspensivo, se a parte pretendia suspender a audiência em razão do tema ali abordado deveria ter adotado as medidas jurídicas necessárias e não faltar à audiência por vontade própria, situação que tornou preclusos os temas supostamente omissos.
+Dessa forma, não restou configurada negativa de prestação jurisdicional, mas mero inconformismo da parte com o julgamento contrário à pretensão da parte que não caracteriza falta de prestação jurisdicional.
+No que tange a incidência da Súmula 283/STF, constou da decisão agravada que (e-STJ fls. 551-552):
+Nas razões do especial, a recorrente assevera violado, ainda, o art. 357, II, III e IV, e § 6º, do Código de Processo Civil, com cerceamento de defesa porque foi proferida decisão de saneamento e organização do processo sem que fossem fixados os pontos controvertidos da demanda, razão pela qual foram opostos embargos de declaração na origem.
+Afirma que os embargos foram acolhidos em parte determinando que o perito judicial fosse intimado, por telefone, para que comparecesse em audiência e que essa decisão foi publicada dois dias depois da audiência.
+De seu turno, o acórdão recorrido afastou a existência do alegado cerceamento de defesa por reconhecer que a parte não compareceu à audiência por decisão única e exclusiva sua, fundamentada na ideia de que a audiência estaria prejudicada em virtude da oposição de seus embargos de declaração, situação que efetivamente não ocorreu, na medida em que referido recurso não tem efeito suspensivo, além do que não houve pedido para que lhe fosse atribuído tal efeito.
+Deixou claro, ainda, que não havia obstáculo à marcha processual com a realização da audiência designada no despacho saneador e que a recorrente não poderia alegar cerceamento de defesa calcada em sua própria inércia.
+De acordo com o acórdão, a conduta da parte recorrente fugiu à cooperação e lealdade processual, por ter deixado de comparecer à audiência para só depois insurgir-se contra ela. Vejamos (e-STJ fls. 323-325):
+Sua pretensão recursal, contudo, não merece prosperar.
+De início, anoto que o recurso de Embargos de Declaração não possui efeito suspensivo, conforme previsão expressa do art. 1.026 do Código de Processo Civil. Desse modo, não pode o agravante aduzir que teria faltado à audiência porque entendeu, por ilação própria, que sua ocorrência teria sido prejudicada pela oposição do mencionado recurso.
+Antes, se entendia imprescindível a apreciação dos Embargos de Declaração para a realização da audiência já designada em decisão saneadora, deveria ter requerido a atribuição excepcional do efeito suspensivo, conforme previsto no art. 1.026, §1º, do CPC. Em verdade, não pode o próprio agravante beneficiar-se de sua inércia quanto ao pleito de atribuição efeito suspensivo ao recurso oposto, sendo certo que lhe cabia tal precaução.
+ ..
+Acrescento ainda que a conduta do agravante fugiu à cooperação e lealdade processual exigidas pela principiologia inaugurada pelo diploma processual civil em vigor, in verbis:
+ ..
+Isso porque, se entendera prejudicada a audiência, deveria ter informado expressamente nos autos, justificando ao Juízo a quo a sua futura ausência, em virtude da pendência de publicação do julgamento dos Embargos de Declaração. Tal conduta permitiria ao Julgador aferir a pertinência de redesignação da data inicialmente estabelecida para a audiência de instrução e julgamento. Todavia, entendeu o agravante, em apreciação autônoma, sem declaração expressa do MM. Magistrado nesse sentido, que a audiência estaria prejudicada, pelo que simplesmente não comparecera.
+ ..
+No caso em comento, a primeira oportunidade de manifestação do recorrente se deu quando da oposição dos Embargos de Declaração, ocasião processual adequada para pleitear deferimento excepcional do efeito suspensivo ao recurso. Após, no próprio momento da audiência, poderia ter se insurgido sob a alegação de que não teria havido tempo de preparar as questões para oitiva do perito.
+A única conduta vedada seria justamente aquela tomada pelo agravante, qual seja, deixar passar in albis a realização da audiência para só depois alegar sua nulidade, o que previsivelmente retroagiria o percurso processual, de maneira a prejudicar a parte autora, que suporta sozinha o ônus da demora do processo.
+Nesse quadro, constata-se que, nas razões do recurso especial, a recorrente não impugnou os fundamentos que levaram a Corte Estadual a não reconhecer a existência, no caso concreto, do alegado cerceamento de defesa, pois se limitou a discutir acerca de temas considerados pelo Tribunal de origem como preclusos, pois deveriam ter sido debatidos e decididos em audiência de instrução e julgamento da qual a recorrente não participou por opção sua.
+Desse modo, a subsistência de fundamento não atacado, apto a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283/STF.
+Assim, o recurso não merece ser conhecido com relação aos arts. 357, II, III e IV, e § 6º, do CPC, em virtude da incidência do referido óbice sumular.
+Nas razões do agravo interno, no entanto, a parte não impugna de forma específica a incidência do referido óbice, restringindo-se a reprisar que a matéria do art. 357, II, do CPC não estaria preclusa e a alegar que "não houve "fundamentos" pela Corte Estadual porque a matéria sequer fora apreciada, nem mesmo após oposição de embargos de declaração" (e-STJ fl. 558).
+Por fim, quanto à ausência de prequestionamento da matéria relativa aos artigos 9, 10 e 437 parágrafo 1º do CPC, a agravante, não obstante afirme não concordar com o fundamento, não apresenta argumentos que o afaste.
+Vale observar que a matéria dos referidos dispositivos não foi objeto dos embargos de declaração opostos.
+Nesse contexto, a decisão recorrida deve ser mantida pelos seus próprios fundamentos, porquanto mantida a validade dos argumentos que a sustentam, uma vez que não foram trazidos elementos aptos a desconstituí-la.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015, inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
