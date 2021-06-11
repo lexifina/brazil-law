@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de FABRICIO ZARNOTT MENEGONI, em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Colhe-se nos autos que o Juízo da Vara de Execução Criminal reconheceu a prática de falta grave pelo apenado e decretou a alteração da data-base e a perda de 1/3 dos dias remidos até a data da falta.
+Inconformada a Defesa interpôs agravo em execução perante o Tribunal de origem, que lhe negou provimento.
+Eis a ementa:
+"AGRAVO EM EXECUÇÃO. PRÁTICA DE FATO PREVISTO COMO CRIME DOLOSO. FALTA GRAVE RECONHECIDA. CONSECTÁRIOS LEGAIS. INSURGÊNCIA DEFENSIVA.
+1. FALTA GRAVE. AFASTAMENTO. IMPOSSIBILIDADE. PRESCINDÍVEL A EXISTÊNCIA DE SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO PARA O RECONHECIMENTO DE FALTA DISCIPLINAR. SÚMULA 526 DO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA. RECONHECIMENTO DA FALTA GRAVE MANTIDA. RECONHECIDA A FALTA DE NATUREZA GRAVE ESCORREITA A DETERMINAÇÃO DE REGRESSÃO DO REGIME CARCERÁRIO, POIS NECESSÁRIO EMPRESTAR TRATAMENTO DIFERENCIADO AOS APENADOS QUE NÃO SE ADAPTAM ÀS NORMAS DA EXECUÇÃO PENAL, EM ESTRITA OBSERVÂNCIA AO PRINCÍPIO DA INDIVIDUALIZAÇÃO DAS PENAS. 2. ALTERAÇÃO DA DATA-BASE. RECONHECIDA A FALTA GRAVE IMPOSITIVA A ALTERAÇÃO DA DATA-BASE. AO SE EMPRESTAR TRATAMENTO MAIS SEVERO, COM A ALTERAÇÃO DO TERMO PARA BENEFÍCIOS DIANTE DA PRÁTICA DE FALTA DISCIPLINAR DE NATUREZA GRAVE, DESESTIMULAM-SE OS DEMAIS APENADOS À PRÁTICA DE ATOS DE INDISCIPLINA.
+3. PERDA DOS DIAS REMIDOS. O ARTIGO 127 DA LEI DEEXECUÇÕES PENAIS ESTABELECE QUE O COMETIMENTO DE FALTA GRAVE POR PARTE DO INFORTUNADO ENSEJA A REVOGAÇÃO DE UM SEXTO ATÉ UM TERÇO DOS DIAS REMIDOS. ESCORREITA A FRAÇÃO ESCOLHIDA PELA JUÍZO AQUO-1/3-, PORQUANTO O RECLUSO PRATICOU MAIS DE UM FATO DEFINIDO COMO CRIME DOLOSO. AGRAVO DEFENSIVO DESPROVIDO." (e-STJ, fl. 323)
+Neste writ, sustenta a Defensoria Pública estadual, em síntese, a existência de constrangimento ilegal em desfavor do paciente, pois o Tribunal de origem "manteve a determinação da perda de 1/3 dos dias remidos, patamar máximo, sem a devida fundamentação, em afronta a princípios constitucionais" (e-STJ fl. 4).
+Ressalta que não foi referido qualquer motivo concreto relacionado ao fato para aplicar o patamar máximo da perda da remição.
+Pleiteia a concessão da ordem, liminarmente, a fim de que seja determinada a suspensão da decisão do Tribunal a quo até o julgamento do mérito do presente writ. No mérito, pugna pela concessão final da ordem para cassar o acórdão impugnado.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+Quanto à perda dos dias remidos, o Juízo singular, assim decidiu:
+"Assim, RECONHEÇO, com base no artigo 50, II, c/c artigo 118, I, ambos da LEP, a prática de falta grave. Determino a regressão de regime para o fechado, nos termos do artigo 118, I, da LEP. Altere-se a data-base para a data do último delito - 13/06/2020. Declaro a perda de 1/3 de eventuais dias remidos." (e-STJ, fl. 17)
+O Colegiado de origem, ao dar provimento ao recurso ministerial, apresentou os seguintes fundamentos:
+" ..  correta a fração escolhida pelo Juízo a quo, três novas práticas criminosas atribuídas ao agravante, a demonstrar seu total descaso com a ressocialização, fazendo prescindível que o Julgador singular, na espécie, tecesse maiores considerações acerca do quantum eleito." (e-STJ, fl. 329).
+Com efeito, de acordo com jurisprudência desta Corte Superior a prática de falta disciplinar de natureza grave implica a perda da remissão, conforme estabelecido no art. 127 da LEP:
+"Art. 127. Em caso de falta grave, o juiz poderá revogar até 1/3 (um terço) do tempo remido, observado o disposto no art. 57, recomeçando a contagem a partir da data da infração disciplinar."
+Nesse sentido:
+" ..
+II - A jurisprudência deste Tribunal entende que "o cometimento de falta grave durante a execução da pena traz como consequência a regressão de regime e a perda dos dias remidos, sem que isso caracterize ofensa à coisa julgada" (AgRg no HC n. 247.606/MG, QUINTA TURMA, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe e 10/4/2013, grifei).
+Agravo regimental desprovido."
+(AgRg no HC 317.869/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/2/2016, DJe 17/3/2016).
+" ..
+- A prática de falta grave acarreta a alteração da data-base para fins de progressão de regime, a regressão de regime do apenado e a perda de até 1/3 (um terço) dos dias remidos. Precedentes.
+(..)
+- Habeas Corpus não conhecido. Ordem concedida de ofício para restringir a alteração da data base apenas para fins de progressão de regime, não interrompendo o prazo para o benefício da saída temporária e do trabalho externo."
+(HC 327.233/RS, Rel. Ministro ERICSON MARANHO, DESEMBARGADOR CONVOCADO DO TJ/SP, SEXTA TURMA, julgado em 6/10/2015, DJe 28/10/2015).
+Como é cediço, a perda dos dias remidos pela prática de falta grave exige fundamentação concreta, consoante determina a própria legislação de regência, segundo a qual devem ser observadas as diretrizes elencadas no art. 57 da LEP, a saber: "a natureza, os motivos, as circunstâncias e as consequências do fato, bem como a pessoa do faltoso e seu tempo de prisão".
+A propósito:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. FALTA GRAVE. DESRESPEITO A AGENTE PENITENCIÁRIO. INFRAÇÃO DISCIPLINAR DE NATUREZA GRAVE. ART. 50, VI, C/C O ART. 39, II, DA LEP. DESCLASSIFICAÇÃO. AMPLO REEXAME DA MATÉRIA FÁTICO PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA. PERDA DOS DIAS REMIDOS. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - No presente caso, o eg. Tribunal de origem, ao analisar as provas produzidas nos autos, entendeu que o paciente desrespeitou agente penitenciário, ao proferir insultos, o que caracteriza a falta grave tipificada no art. 50, VI, c/c o art. 39, II, ambos da LEP, não havendo que se falar na existência de flagrante ilegalidade no v. acórdão combatido. Precedentes.
+III - Rever o entendimento do eg. Tribunal a quo para afastar a falta grave imputada ao paciente, demandaria, necessariamente, amplo reexame da matéria fático probatória, procedimento incompatível com a estreita via do habeas corpus.
+IV - Segundo reiterada jurisprudência desta Corte de Justiça, a perda de até 1/3 (um terço) dos dias remidos, em razão da prática de falta grave, exige fundamentação concreta, consoante determina a LEP, nos arts. 57 e 127.
+V - Na hipótese, a perda de 1/6 dos dias remidos fundamentou-se em argumentação genérica, estando o v. acórdão em desacordo com a jurisprudência desta Corte Superior.
+Habeas Corpus não conhecido. Ordem concedida, de ofício, para determinar que o Juízo das Execuções faça nova análise acerca da perda dos dias remidos, de modo fundamentado, nos termos do art. 127 da LEP." (HC 468.742/RS, rel. Ministro FELIX FISCHER, QUINTA TURMA, j. 23/10/2018, DJe 31/10/2018).
+Verifica-se, portanto, que as instâncias ordinárias, em manifesto confronto com a orientação jurisprudencial deste Superior Tribunal, determinaram a perda dos dias remidos no patamar máximo de um terço sem a indicação de fundamento para tanto, razão pela qual, neste aspecto, verifica-se a flagrante ilegalidade apta a autorizar a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus. Todavia, concedo a ordem, de ofício, apenas para determinar o retorno dos autos ao Tribunal de origem a fim de que seja estabelecida, de maneira fundamentada, a fração da perda dos dias remidos aplicável ao caso, observado o limite de 1/3 (um terço).
+Publique-se. Intimem-se.
