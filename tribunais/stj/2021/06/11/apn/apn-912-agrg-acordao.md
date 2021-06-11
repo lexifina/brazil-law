@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Raul Araújo e Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Benedito Gonçalves.
+Licenciado o Sr. Ministro Felix Fischer.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. OFENSA AO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 895/STF. DESPROVIMENTO DO RECLAMO.
+1. A alegada violação do princípio da inafastabilidade de jurisdição, por implicar ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional e não possui repercussão geral (Tema 895/STF).
+2. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARINETE DA SILVA, ANTONIO FRANCISCO DA SILVA NETO, ANIELLE SILVA DOS REIS BARBOZA e MONICA TEREZA AZEREDO BENICIO contra decisão que negou seguimento ao recurso extraordinário, assim ementada (e-STJ fl. 1.525):
+RECURSO EXTRAORDINÁRIO. OFENSA AO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA 895/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
+Sustentam os agravantes que "não se está aqui se falar em óbice processual penal, mediante ofensa indireta da Constituição Federal, mas sim da inconstitucionalidade do artigo 143 do Código Penal de 1940, o qual não foi recepcionado pela Constituição da República de 1988, isto é, trata-se de matéria de direito material" (e-STJ fl. 1.534).
+Reiteram que não se pode permitir que a retratação prevista no art. 143 do Código de Processo Penal seja permitida após o recebimento da denúncia, tampouco depois de toda a fase instrutória, o que afastaria a prestação jurisdicional esperada por aquele que teve seu direito infringido.
+Argumentam que "qualquer retratação prevista no artigo 143 do Código Penal, jamais poderia acontecer depois do oferecimento da denúncia, muito menos após o transcurso de toda a ação penal, visto que se trata de procedimento - numa análise lógico-jurídica - é impossível dentro da sistemática presente na Constituição Federal" (e-STJ fls. 1.534/1.535).
+Ponderam que a "defesa assente com o tema 895/STF, todavia, a questão de fundo ora arguida está no marco temporal da possibilidade de retratação prevista no artigo 143 do Código Penal, a dizer, antes da prolação da sentença, a qual, pela exegese do art. 5º, inciso XXXV, da Constituição Federal, resta incompatível, merecendo ser declarada inconstitucional incidenter tantum" (e-STJ fl. 1.535).
+Requerem o provimento do reclamo para que o apelo extremo seja remetido ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 1.547/1.568.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. OFENSA AO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 895/STF. DESPROVIMENTO DO RECLAMO.
+1. A alegada violação do princípio da inafastabilidade de jurisdição, por implicar ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional e não possui repercussão geral (Tema 895/STF).
+2. Agravo regimental não provido.
+VOTO
+Inicialmente, tendo em vista que a decisão impugnada foi publicada em 28.4.2021 (e-STJ fl. 1.528), cumpre atestar a tempestividade da insurgência, pois interposta no dia 3.5.2021 (e-STJ fl. 1.537), ou seja, dentro do prazo recursal.
+Não obstante as razões declinadas pelos agravantes, a decisão monocrática deve ser mantida.
+Isso porque é assente na Suprema Corte o entendimento de que "a questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral" (Tema 895/STF).
+Essa tese foi estabelecida pelo Supremo Tribunal Federal no julgamento do RE n. 956.302 RG/GO, que restou assim ementado:
+PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL. Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.
+(RE 956.302/GO RG, Relator(a): Min. EDSON FACHIN, julgado em 19/05/2016, PROCESSO ELETRÔNICO DJe-124 DIVULG 15-06-2016 PUBLIC 16-06-2016)
+No caso dos autos, ao examinar a controvérsia, esta Corte Superior de Justiça assim se manifestou (e-STJ fls. 1.453/1.457):
+A despeito do descontentamento dos Querelantes quanto ao momento e a forma em que se deu a retratação apresentada pela Querelada - e, a propósito, do ponto de vista estritamente pessoal, entendo as razões de recusá-la -, ao meu sentir, foi feita dentro do limite temporal e em conformidade com as diretrizes do Código Penal, que dispõe:
+"Art. 143. O querelado que, antes da sentença, se retrata cabalmente da calúnia ou da difamação, fica isento de pena.
+Parágrafo único. Nos casos em que o querelado tenha praticado a calúnia ou a difamação utilizando-se de meios de comunicação, a retratação dar-se-á, se assim desejar o ofendido, pelos mesmos meios em que se praticou a ofensa." (Incluído pela Lei n.º 13.188/2015)
+Cumpre anotar que, ao contrário do sustentado pelas aguerridas Advogadas dos Querelantes, a retratação, admitida nos crimes de calúnia e difamação, não é ato bilateral, ou seja, não pressupõe aceitação da Parte ofendida para surtir seus efeitos na seara penal, porque a lei não exige isso. O Código, quando quis condicionar o ato extintivo da punibilidade à aceitação da outra Parte, o fez de forma expressa, como no caso do perdão ofertado pelo Querelante depois de instaurada a ação privada. Confira-se:
+"Art. 107. Extingue-se a punibilidade:
+ ..  V - pela renúncia do direito de queixa ou pelo perdão aceito, nos crimes de ação privada;
+VI - pela retratação do agente, nos casos em que a lei a admite."
+Como é sabido e consabido, não há como se fazer analogia in malam partem, contra o réu, para lhe impor condição para causa extintiva da punibilidade que a Lei Penal não erigiu.
+Na verdade, basta que ela seja cabal. Vale dizer: deve ser clara, completa, definitiva e irrestrita, sem remanescer nenhuma dúvida ou ambiguidade quanto ao seu alcance, que é justamente o de desdizer as palavras ofensivas à honra, retratando-se o ofensor do malfeito. E isso, como se viu, foi feito.
+ ..
+No mais, em se tratando de ofensa irrogada por meios de comunicação - como no caso, que foi por postagem em rede social na internet -, o parágrafo único do art. 143 do Código Penal dispõe que "a retratação dar-se-á, se assim desejar o ofendido, pelos mesmos meios em que se praticou a ofensa".
+A norma penal, ao abrir ao ofendido a possibilidade de exigir que a retratação seja feita pelo mesmo meio em que se praticou a ofensa, não transmudou a natureza do ato, que é essencialmente unilateral. Apenas permitiu que o ofendido exerça uma faculdade.
+Portanto, se o ofensor, desde logo, mesmo sem consultar o ofendido, já se utiliza do mesmo veículo de comunicação para apresentar a retratação, não se me afigura razoável desmerecê-la, porque o ato já atingiu sua finalidade legal.
+Em outras palavras: se tivessem sido consultados, os Querelantes, se assim desejassem, poderiam ter exigido da Querelada que a retratação fosse feita na mesma plataforma em que a ofensa foi publicada. Caso contrário, se tivessem dispensado tal forma, bastaria a retratação pura e simples, por outros meios, para que surtisse seus efeitos legais. Ou seja, não há possibilidade de recusa da retratação.
+Portanto, nos termos do art. 143 do Código Penal, se, "antes da sentença," a Querelada se retratou "cabalmente da calúnia", "pelos mesmos meios em que se praticou a ofensa," estão atendidos os requisitos legais.
+Insisto: é absolutamente compreensível a insatisfação dos familiares que, após perder um ente querido, ainda precisaram lidar, logo em seguida, com ofensas públicas à memória da filha, irmã e companheira brutalmente assassinada. Não bastasse, depois de buscar perante o Poder Judiciário a punição da ofensora - uma autoridade pública estadual, uma Desembargadora do Tribunal de Justiça, de quem menos se espera esse tipo de comportamento -, ainda verem a retratação ser oferecida somente depois de encerrada a instrução do processo, às vésperas do julgamento. Respeito profundamente o sentimento de frustração dessa família.
+Melhor teria sido, ao que parece, se a Ré tivesse sido mais diligente e, preocupada com a dor da família de Marielle, tivesse se retratado antes, de forma mais imediata. É verdade que, ainda no início do processo, a Querelada até tentou retratar-se, mas sem atender aos requisitos legais, tanto que os Querelantes e o Ministério Público foram enfáticos ao indicarem a precariedade da tentativa de retratação.
+No entanto, como consignado alhures, a Lei Penal Brasileira admite a retratação no tempo e no modo que ela foi feita desta vez.
+Por fim, não se cogita de inconstitucionalidade do art. 143 do Código Penal, por instituir causa exintiva de punibilidade de agente que comete o crime de calúnia ou difamação. Há outras tantas espalhadas no Código Penal, que, como essa, se apresenta como uma escolha do Legislador, sem nenhuma mácula aos princípios e normas constitucionais, muito embora, com razão, se possa questionar a real efetividade da reparação do malfeito advinda com a retratação.
+Contudo, como outros institutos vigentes na Lei Penal Brasileira, trata-se de mera ficção jurídica, criada pelo Legislador, como "política criminal" para mitigar a repressão do Estado em certas e determinadas situações, sendo vedado ao Poder Judiciário imiscuir-se nessas escolhas, cuja legitimidade a Constituição da República atribuiu ao Poder Legislativo, ressalvadas, é claro, hipóteses de flagrante ofensa à Lei Maior, o que, como visto, não é o caso.
+ ..
+Obiter dictum, convém anotar que se, eventualmente, a resposta do Direito Penal não for considerada satisfatória para os ora Querelantes, subsiste o Direito Civil, como ressaltado pelos ilustres Professores Pacelli e Callegari, via muito mais eficaz para se buscar outra forma de reparação do dano causado.
+Da leitura leitura das referidas passagens, verifica-se que a violação do art. 5º, inciso XXXV, da Constituição Federal é reflexa, pois depende da análise do art. 143 do Código Penal, além de importar em reexame do contexto fático-probatório, razão pela qual incide o Tema 895/STF.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO.  ..  ALEGAÇÃO DE CONTRARIEDADE AO PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO: INEXISTÊNCIA DE REPERCUSSÃO GERAL (TEMA 895). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(ARE 1256343 AgR, Relator(a): CÁRMEN LÚCIA, Segunda Turma, julgado em 29/06/2020, PROCESSO ELETRÔNICO DJe-169 DIVULG 03-07-2020 PUBLIC 06-07-2020)
+Quanto ao ponto, é imperioso destacar que, embora os recorrentes afirmem que no recurso extraordinário alegaram a não recepção do art. 143 do Código Penal pela Constituição Federal, da leitura das razões recursais, depreende-se que arguiram a inconstitucionalidade do referido dispositivo sob o argumento de que a admissão da retratação antes da sentença violaria o art. 5º, inciso XXXV, da Lei Maior (e-STJ fls. 1.468/1.485).
+E, como visto, é pacífico no Pretório Excelso o entendimento de que a ofensa ao princípio da inafastabilidade de jurisdição, quando há ofensa indireta à Constituição ou análise de matéria fática, exatamente como na espécie, tem natureza infraconstitucional e a ela se atribuem os efeitos da ausência de repercussão geral.
+Assim, realizado o juízo de admissibilidade do recurso extraordinário à luz da jurisprudência pacífica da Suprema Corte, que já afastou a repercussão geral da matéria tratada, constata-se que, na presente insurgência, os recorrentes almejam a própria revisão do mérito do acórdão proferido pela Corte Especial no julgamento da queixa-crime por eles ajuizada, questão que escapa à competência desta Vice-Presidência, restrita ao juízo de admissibilidade do apelo extremo.
+Ante o exposto, nega-se provimento ao agravo regimental.
+É o voto.
