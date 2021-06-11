@@ -1,0 +1,24 @@
+RAI 1009724-96.2021.8.11.0000
+Vistos,
+Recurso de Agravo de Instrumento, com pedido de antecipação de tutela recursal, interposto por Nelson Koch contra a r. decisão proferida pelo Juízo da 2a Vara Cível da Comarca de Sinop/MT nos autos da ação de reintegração de posse com pedido liminar no 1009150-28.2021.8.11.0015, movida em desfavor de Pedro Gilmar Nunes Gil, que indeferiu a liminar de reintegração de posse requerida.
+A parte Agravante esclarece que trata-se na origem de “ação de reintegração de posse, com pedido liminar, proposta por NELSON KOCH, ora Agravante em face de PEDRO GILMAR NUNES GIL objetivando provimento jurisdicional que determine a imediata Reintegração na Posse do imóvel localizado na Estrada Monalisa, s/no, chácara Recanto São Francisco, Chácara 604-B, Zona Rural da cidade de Sinop/MT.” (Id. 89568997; pág. 6)
+Afirma que “é o único POSSUIDOR do imóvel em questão desde o ano de 1997, portanto, são 24 (vinte e quatro) anos interruptos de propriedade do bem, ou seja, na posse, conforme (Anexo III - Fotos do Local - Chácara São Francisco na Estrada Monalisa).” (Id. 89568997; pág. 6), sendo de conhecimento público e notório que a área em discussão sempre pertenceu ao Padre, ora agravante.
+Narra que “a área em litígio cuja posse pertence unicamente ao Agravante possui metragem total de 9,93 (nove vírgula noventa e três) hectares, foram doados pelos Srs. Olivio Zanini e Zaira Maria Zanini, em 1997 e doação pura pelo Sr. Nelson Francisco no ano de 2001 (procurador da empresa Transportes e Comércio S.B. Ltda – EPP), conforme (Anexo X – doações Família Zanini e Nelson Ballen da Transportes). Denota-se, portanto, que é inquestionável a sua POSSE sobre a área esbulhada pelo Agravado, seja porque possui documentos comprobatórios, ou porquê há suficientemente provas testemunhais, documentais, conjectura está que pode ser provada em todas as fases processuais, por constatação em loco, e diligências em loco.” (Id. 89568997; pág. 11)
+Afirma que desempenha obras sociais na área e sempre a manteve limpa, preservada e inclusive edificou 02 (duas) casas, 01 (um) campo de futebol, 01 (um) restaurante e tanques de peixes.
+Sustenta que o agravado “invadiu de maneira sorrateira, violenta e ilegal a posse da chácara na parte APP (Área de Preservação Permanecente) de posse do Agravante destruiu todas as benfeitorias realizadas por este, tais como cerca, porteira, árvores frutíferas, e provocando desmate ilegal de uma área preservada há mais de 20 (vinte) anos, conforme (Anexo XI.1, 2 e 3 - Boletim de Ocorrência 23.04.2021, fotos invasores + vídeo da invasão).” (Id. 89568997; pág. 11)
+Aduz, que diante dos danos as benfeitorias, ameaças, disparos de arma de fogo, bem como dano ambiental procurou a polícia judiciária do município de Sinop e relatou o ocorrido.
+Aduz estarem presentes os requisitos para a concessão da tutela recursal, nos termos do artigo 561 do CPC.
+Ao final requer a concessão do efeito ativo nos termos do art. 1.019, I c/c 562 do CPC no sentido de reintegrar o autor na posse da propriedade. No mérito pugna para que a decisão agravada seja reformada para o fim de determinar a reintegração de posse do autor na posse do imóvel.
+É o relato do essencial.
+Decido.
+O agravante informa que a suposta invasão da área ocorreu em 23 de abril de 2021 e a ação de origem foi proposta no dia 30/04/2021, portanto, a situação dos autos remete a uma situação de posse nova de forma que para a concessão da liminar possessória está condicionada a presença dos requisitos do artigo 561 do CPC, quais sejam: a posse do requerente, a turbação ou esbulho praticado pelo réu, a data da turbação ou do esbulho, e perda da posse para as ações de reintegração de posse.
+Pois bem,
+Nesse contexto, da análise dos autos, em sede de cognição sumária, identifico a presença dos pressupostos autorizadores para se deferir o efeito ativo.
+Extrai-se dos autos que, o agravante juntou aos autos documentos que, a priori, indicam que detinha a posse do imóvel, dentre eles fotos do local (Id. 89578453), declaração de venda de produtos agropecuários para uso na propriedade (Id. 89578454), bem como o contrato de doação com encargo datado de 16 de setembro de 1997, pelo qual o Sr. Olivio Zanini doa a área ao agravante (Id.89578461).
+Destarte, com base nos documentos constantes dos autos verifico que o Agravante era possuidor da totalidade do imóvel objeto da lide, razão pela qual restou configurado o requisito presente no inciso I do artigo 561 do CPC, qual seja a posse.
+Ante o exposto, DEFIRO O EFEITO ATIVO, para o fim de determinar a expedição do mandato de reintegração de posse em favor do agravante.
+Intime-se a parte Agravada, na forma do art. 1.019, II do CPC, para, querendo, apresentar resposta no prazo legal.
+Comunique-se o Juízo de primeira instância sobre esta decisão e para prestar as informações que achar necessárias.
+Cumpra-se.
+Des. SEBASTIÃO BARBOSA FARIAS
+Relator
