@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recursos especiaisinterpostos por ISAIAS DIAS DE AMO e pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento no art. 105, inciso III, alíneasae c, da Constituição Federal, desafiando acórdão do Tribunal Regional Federal da 4ª Região.
+A controvérsia foi bem sumariada peloParquetFederal, cujo excerto transcrevo a seguir (e-STJ fls. 1180/1182):
+Cuidam os autos em epígrafe de dois Recursos Especiais interpostos pelo MINISTÉRIO PÚBLICO FEDERAL e por ISAÍAS DIAS DE AMO, ambos com fulcro no artigo 105, inciso III, alíneas "a" e "c", do permissivo constitucional, em face de acórdão do Eg. Tribunal Regional Federal da 4º Região.
+Segundo consta dos autos, o Recorrente/Recorrido Isaías dias de Amo foi denunciado, juntamente com o Recorrido Leandro Gonçalves Muller, pela prática dos crimes previstos nos arts. 297, caput , c/c art. 71, caput , (por 12 vezes) e 299, caput , c/c art. 71, caput , (por 4 vezes), na forma do art. 69, e c/c art. 29, todos do Código Penal.
+Instruído o feito, Isaías foi condenado à pena de 03 (três) anos e 04 (quatro) meses de reclusão, em regime inicial aberto, em razão da prática do delito definido no art. 297, CP. Por sua vez, Leandro foi condenado à pena de 03 (três) anos de reclusão, em regime inicial aberto, também em decorrência do cometimento do crime do art. 297.
+Inconformadas, tanto a Defesa como a Acusação apelaram. O Tribunal a quo deu provimento ao recurso ministerial e negou ao defensivo.
+A Corte Regional estabeleceu a Isaías a pena de 03 (três) anos e 09 (nove) meses de reclusão, em regime inicial aberto, e a Leandro a pena de 03 (três) anos e 04 (quatro) meses de reclusão, também em regime aberto.
+Por fim, Leandro teve a sua pena extinta, por ocorrência da prescrição retroativa.
+Eis a ementa do v. aresto recorrido (fl. 998):
+PENAL. PROCESSUAL PENAL. APELAÇÃO CRIMINAL.ART. 297 DO CP. VISTO AMERICANO FALSO.MATERIALIDADE E AUTORIA. COMPROVAÇÃO.DOLO CONFIGURADO. PRESCRIÇÃO. OCORRÊNCIA.
+1. Materialidade e autoria do delito comprovadas pelo conjunto probatório constante dos autos, corroborado pela prova oral.
+2. O dolo - consubstanciado na vontade livre e consciente de praticar a conduta típica - pode-se aferir da análise das circunstâncias fáticas que envolvem o evento criminoso, pois os réus falsificaram diversos documentos públicos e particulares, dentre eles passaporte, no intuito de obter, para outrem, mediante paga, visto de entrada nos Estados Unidos da América.
+3. Reconhecida a incidência da prescrição retroativa da pretensão punitiva Estatal pela pena concretizada na sentença.
+Em face dessa decisão, a Defesa opôs Embargos de Declaração, que foram acolhidos parcialmente para fins de prequestionamento.
+Daí os presentes Recursos Especiais.
+Em suas razões, o Ministério Público Federal alega contrariedade ao art. 59 do Código Penal, ao argumento de que o Tribunalde origem, equivocadamente, não valorou negativamente a circunstância judicial "culpabilidade", por entender que a verificada na hipótese é ínsita ao tipo penal.
+Já a Defesa sustenta contrariedade aos arts. 158 e 385, inciso VII, ambos do Código de Processo Penal, bem como interpretação divergente em relação à aplicação da agravante genérica do art. 62, inciso I, do Código Penal. Aduziu, para tanto, que a incidência desta à especie configuraria indevido bis in idem e julgamento ultra petita.
+Contrarrazões às fls. 1.126/1.142 e 1.154/1.157.
+Recursos admitidos na origem (fl. 1.145 e 1.160).
+Ouvido, o Ministério Público Federal manifestou-se pelo desprovimento dos recursos (e-STJ fls. 1.179/1.187).
+É o relatório.
+Decido.
+Antes de adentrar ao mérito do recurso, verifico que a pretensão, no particular, está prescrita. Como cediço, a prescrição, por se tratar de matéria de ordem pública, e nos termos do art. 61 do Código de Processo Penal, deve ser examinada a qualquer tempo, mesmo na instância superior.
+Dessarte, orecurso encontra-se prejudicado, tendo em vista a ocorrência da prescrição da pretensão punitiva relativamente ao recorrente ISAÍAS.
+Acerca do tema, o Supremo Tribunal Federal, no julgamento do HC n. 176.473/RR, de relatoria do Ministro Alexandre de Moraes, ao interpretar a alteração trazida pela Lei n. 11.596/2007 ao inciso IV do art. 117 do Código Penal, pacificou novo posicionamento acerca do tema, fixando a premissa segundo a qual, "nos termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1.º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta" (EDcl no AgRg no RHC n. 109.530/RJ, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 26/5/2020, DJe 1º/6/2020).
+Ainda a esse respeito, necessário ressaltar que, em 24/11/2020, esta Sexta Turma, no julgamento do HC n. 603.139/SP, relator Ministro Rogerio Schietti Cruz, consignou que a referida Lei n. 11.596/2007, de 29/11/2007, por ser "lei penal mais gravosa - porque criou um novo marco interruptivo da prescrição - não pode retroagir para alcançar os acusados por crimes ocorridos em datas anteriores".
+Na espécie, o ato criminoso imputado ao recorrente deu-se antes da entrada em vigor da norma em comento. Desse modo, imperiosa a aplicação do entendimento jurisprudencial vigente à época, segundo o qual"apenas o acórdão que reformasse a sentença absolutória ou alterasse, para maior, a pena cominada, seria interpretado como "sentença condenatória recorrível", consoante redação do inciso IV do art. 117 do Código Penal"(AgRg no HC n. 398.047/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, DJe 15/9/2020).
+Ademais, ainda que ultrapassado o entendimento acima sufragado, verifica-se que foipublicado o acórdão condenatório em outubro de 2012 (e-STJ fl. 998/999) e, considerando a pena concretamente aplicada ao recorrente-2anos e 3meses de reclusão-, entendo que o lapso prescricional de 8 anos (arts. 109, IV, e 119, do Código Penal) foi ultrapassado desde então.
+Ante o exposto,julgo prejudicados os recursos especiaise declaro extinta a punibilidade do recorrente ISAIAS DIAS DE AMO,tendo em vista o reconhecimento da prescrição da pretensão punitiva, nos termos doart. 109, inciso IV, do Código Penal.
+Publique-se. Intimem-se.
