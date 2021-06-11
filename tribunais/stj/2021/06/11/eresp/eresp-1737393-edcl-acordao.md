@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Felix Fischer.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. INDEFERIMENTO LIMINAR. SÚMULA 315 DO STJ. VÍCIO. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
+1.Inexistequalquer ambiguidade, obscuridade, omissão, contradição ou erro materiala ser sanado, uma vez que o acórdão embargado explicitou, fundamentadamente, as razões pelas quais manteve incólume a decisão que indeferiu liminarmente os embargos de divergência.
+2. Não se prestam os aclaratórios para rediscutir matéria devidamente enfrentada e decidida pelo acórdão embargado. Precedentes.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MARCO ANTONIO DA SILVA contra acórdão da Corte Especial, ementado nos seguintes termos:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. INDEFERIMENTO LIMINAR. RECURSO ESPECIAL. NÃO CONHECIMENTO. SÚMULA 315 DO STJ. ÓBICE AO CONHECIMENTO DO RECURSO UNIFORMIZADOR. JUNTADA DO INTEIRO TEOR DO ACÓRDÃO PARADIGMA. AUSÊNCIA. DISSÍDIO NÃO COMPROVADO. AGRAVO INTERNO DESPROVIDO.
+1. Na esteira da jurisprudência desta Corte Especial, não se admite a interposição de embargos de divergência quando não tiver sido apreciado o mérito do recurso especial, a teor do que dispõe a Súmula n. 315 do Superior Tribunal de Justiça.
+2. Na espécie, o acórdão embargado não conheceu do agravo interno interposto contra decisão que não conheceu do recurso especial, por incidência da Súmula n. 182 do STJ.
+3. Ademais, o conhecimento dos embargos de divergência impõe a demonstração efetiva do dissídio entre o aresto impugnado e o acórdão paradigma, através do denominado cotejo analítico, no qual se deverá explicitar as circunstâncias que identifiquem ou assemelhem os casos confrontados, tendo eles, porém, tido pronunciamentos judiciais diametralmente opostos. Nesse contexto, não é suficiente a mera transcrição da ementa e/ou trechos do voto do julgado paradigma, sem se observar as prescrições legais e regimentais aplicáveis à espécie.
+4. Segundo a jurisprudência desta Corte Especial, interpretando o § 4º do art. 1.043 do CPC e o art. 266, § 4º, do RISTJ, configura pressuposto indispensável para a comprovação ou configuração da alegada divergência jurisprudencial a adoção pela parte recorrente, na petição dos embargos de divergência, de uma das seguintes providências, quanto aos paradigmas indicados: (a) a juntada de certidões; (b) apresentação de cópias do inteiro teor dos acórdãos apontados; (c) a citação do repositório oficial, autorizado ou credenciado nos quais eles se achem publicados, inclusive em mídia eletrônica; e (d) a reprodução de julgado disponível na rede mundial decomputadores, com a indicação da respectiva fonte na Internet.
+5. No caso posto, das razões recursais deduzidas nos embargos de divergência, observa-se que a parte agravante tão somente transcreveu a ementa do acórdão tido por paradigma, deixando de instruir os autos com o seu inteiro teor, porquanto ausente a certidão de julgamento, requisito este indispensável para o conhecimento do recurso uniformizador, conforme previsto nos arts. 1.043, § 4º, do CPC c/c o art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, não restando, portanto, configurada a divergência jurisprudencial atual.
+6. Esta Corte firmou a orientação de que a ausência de demonstração do dissídio alegado no recurso uniformizador - nos moldes exigidos pelo art. 1.043, § 4º, do CPC e pelo art. 266, § 4º, do RISTJ - constitui vício substancial, resultante da inobservância do rigor técnico exigido na interposição do presente recurso, apresentando-se, pois, descabida a incidência do parágrafo único do art. 932 do CPC, para complementação de fundamentação.
+7. Agravo interno desprovido (e-STJ fls.553-554).
+Em suas razões recursais, sustenta o embargante a ocorrência de contradiçãono julgado, ao argumento de que, com o advento do Código de Processo Civil de 2015,a Súmula n. 315 do STJ estariasuperada.
+Aponta a existência de erro material, aduzindo que o acórdão teria adotado como fundamento para o indeferimento liminar dos embargos de divergência, a ausência de citação de repositório oficial autorizado, olvidando-se da indicação por si realizada nas razões do recurso.
+Requer, ao final, o acolhimento dos embargos de declaração em todos os seus termos.
+Contrarrazões, às e-STJ fls. 578-590.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. INDEFERIMENTO LIMINAR. SÚMULA 315 DO STJ. VÍCIO. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
+1.Inexistequalquer ambiguidade, obscuridade, omissão, contradição ou erro materiala ser sanado, uma vez que o acórdão embargado explicitou, fundamentadamente, as razões pelas quais manteve incólume a decisão que indeferiu liminarmente os embargos de divergência.
+2. Não se prestam os aclaratórios para rediscutir matéria devidamente enfrentada e decidida pelo acórdão embargado. Precedentes.
+3. Embargos de declaração rejeitados.
+VOTO
+Inicialmente, tendo em vista que o acórdão impugnado foi publicado em 30/04/2021 (e-STJ fl. 567), cumpre atestar a tempestividade dos embargos declaratórios, pois opostos em 07/05/2021(e-STJ fl. 568).
+O art. 1.022 do Código de Processo Civil disciplina que cabem embargos de declaração para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimentoe para corrigir erro material.
+Da análise do acórdão impugnado, conclui-se que não há qualquer mácula a ser corrigida, uma vez que esta Corte Especialjustificou adequadamente as razões pelas quais negou provimento ao agravo interno, mantendo incólume adecisão que indeferiu liminarmente os embargos de divergência.
+Com efeito, consignou-se que, naesteira dajurisprudência desta Corte Especial, não se admite a interposição de embargos de divergência quando não tiver sido apreciado o mérito do recurso especial, a teor do que dispõe a Súmula n. 315 do Superior Tribunal de Justiça, cujo entendimento se alinha ao disposto no art. 1.043, incisos I e III do CPC.
+Registrou-se que, no caso posto,o acórdão objeto dos embargos de divergêncianão conheceu do agravo interno interposto contra decisão que não conheceu do recurso especial, por incidência da Súmula n. 182 do STJ.
+Constou, ainda, que, segundo a jurisprudência deste Sodalício, interpretando o § 4º do art. 1.043 do CPC e o art. 266, § 4º, do RISTJ, configura pressuposto indispensável para a comprovação ou configuração da alegada divergência jurisprudencial a adoção pela parte recorrente, na petição dos embargos de divergência, de uma das seguintes providências, quanto aos paradigmas indicados: (a) a juntada de certidões; (b) apresentação de cópias do inteiro teor dos acórdãos apontados; (c) a citação do repositório oficial, autorizado ou credenciado nos quais eles se achem publicados, inclusive em mídia eletrônica; e (d) a reprodução de julgado disponível na rede mundial de computadores, com a indicação da respectiva fonte na Internet.
+A par dessa premissa, o voto condutor foi claro ao afirmar que a parte agravante tão somente transcreveu a ementa do acórdão tido por paradigma, nas razões da divergência,deixando de instruir os autos com o inteiro teor do acórdão paradigma, porquanto ausente a certidão de julgamento, requisito este indispensável para o conhecimento do recurso uniformizador, conforme previsto nos arts. 1.043, § 4º, do CPC c/c o art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, não restando, portanto, configurada a divergência jurisprudencial atual.
+Argumentou-se, por fim, queo link indicado à e-STJ fl. 504 não disponibiliza acesso a repositório oficial autorizado ou credenciado, sendo certo que a ausência de demonstração do dissídio alegado no recurso uniformizadorconstitui vício substancial, resultante da inobservância do rigor técnico exigido na interposição do presente recurso, apresentando-se, pois, descabida a incidência do parágrafo único do art. 932 do CPC, para complementação de fundamentação.
+Não se constata, portanto, nenhum defeito no julgado questionado, tendo este colegiado demonstrado, de forma fundamentada, as razões pelas quais não é possível a admissão dos embargos de divergência, estando-se diante de mera irresignação com o resultado do julgamento, o que revela o descabimento dos embargos declaratórios.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1011452/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/06/2020, DJe 05/08/2020)
+No mesmo diapasão:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME DA CAUSA. INEXISTÊNCIA DE VÍCIOS NO JULGADO. EMBARGOS REJEITADOS.
+1. Consoante a literalidade do artigo 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, e/ou corrigir eventual erro material.
+2. O recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende o embargante.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no RE nos EDcl nos EDcl nos EDcl no REsp 1338942/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 10/03/2020, DJe 13/03/2020)
+Ante o exposto, rejeitam-se os embargos de declaração.
+É o voto.
