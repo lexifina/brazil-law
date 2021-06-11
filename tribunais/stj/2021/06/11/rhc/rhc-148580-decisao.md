@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, impetrado em favor de THIAGO BELLI DE OLIVEIRAcontra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido no Habeas Corpusn.1.0000.21.078637-2/000.
+Consta dos autos que o Juízo das Execuções Penais reconheceu a prática de falta grave pelo Paciente, aplicando-lhe as sanções de alteração da data-base para aprogressão de regime e perda de 1/6 (um sexto) dos dias remidos (fls. 121-122).
+Irresignada, a Defesa impetrou habeas corpus no Tribunal de origem, sustentando a prescrição da falta grave. Todavia, a ordem foi denegada (fls. 155-159).
+Nas razões recursais, sustenta-se que "com a entrada em vigor da Lei Anticrime, não há mais dúvidas sobre o prazo de prescrição de falta grave ser doze meses" (fl. 169).
+Pleiteia-se, assim, o reconhecimento da prescrição da falta grave.
+É o relatório. Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+Portanto, passo a analisar diretamente o mérito do recurso.
+No caso, o Tribunal estadual decidiu que "oprazo prescricional para a apuração judicial de falta disciplinar de natureza grave, no curso da execução da pena, é de três anos, por aplicação analógica ao art. 109, inciso VI, do Código Penal" (fl. 155).
+Com efeito, a conclusão alcançada pela Corte estadual estáem consonância com o entendimentodesta Corte Superior de Justiça, no sentido de que, ante a ausência de norma legal expressa sobre o tema, aplica-se às faltas graveso menor dos prazos prescricionais gerais previstos no art. 109 do Código Penal, qual seja, 3 (três) anos.
+Sobre o tema, confiram-se:
+"RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. HOMOLOGAÇÃO DE FALTA GRAVE. INEXISTÊNCIA DE PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. RE 972.598/RS. REPERCUSSÃO GERAL. TEMA 941/STF. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PRESCRIÇÃO TRIENAL. APLICAÇÃO ANALÓGICA DO ART. 109, VI, DO CÓDIGO PENAL. RECONSIDERAÇÃO NOS TERMOS DO ART.1.030, II, DO CPC. NEGADO PROVIMENTO AO RECURSO ORDINÁRIO EM HABEAS CORPUS. ORDEM CONCEDIDA DE OFÍCIO PARA O RECONHECIMENTO DA PRESCRIÇÃO DA FALTA GRAVE.
+ ..
+3. É de 3 (três) anos o prazo prescricional para a aplicação de sanção disciplinar decorrente do cometimento de falta grave, após a edição da Lei n. 12.234/2010, utilizando-se, para tanto, o art. 109, VI, do Código Penal, diante da falta de norma específica quanto à prescrição em sede de execução. Na hipótese, verifica-se que a falta grave teria sido, em tese, cometida em 20/9/2014 e anulada por esta Corte em decisão Colegiada publicada em 9/12/2015. Assim, é de rigor o reconhecimento da ocorrência da prescrição, pois ultrapassado o referido lapso de 3 (três) anos para o reconhecimento judicial da suposta falta.
+4. Em juízo de retratação, recurso ordinário em habeas corpus improvido e ordem concedida de ofício para ver reconhecida a prescrição da falta grave."(RHC 58.726/MT, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/04/2021, DJe 26/04/2021, sem grifos no original).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRESCRIÇÃO.PRAZO. APLICAÇÃO ANALÓGICA DO ART. 109, VI, DO CP. OITIVA JUDICIAL.PRESCINDIBILIDADE. PRESENÇA DE DEFESA TÉCNICA NA APURAÇÃO DE FALTA DISCIPLINAR. AUSÊNCIA DE NULIDADE. TESE DE NÃO CONFIGURAÇÃO DA FALTA GRAVE. REVISÃO. VIA IMPRÓPRIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. AGRAVO IMPROVIDO.
+1. As Turmas que compõem a Terceira Seção desta Corte firmaram o entendimento de que, em razão da ausência de legislação específica, a prescrição da pretensão de se apurar falta disciplinar, cometida no curso da execução penal, deve ser regulada, por analogia, pelo prazo do art. 109 do Código Penal, com a incidência do menor lapso previsto, atualmente de três anos, conforme dispõe o inciso VI do aludido artigo (HC 527.625/SP, Rel.Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/11/2019, DJe 26/11/2019).
+ .. "(AgRg no HC 618.536/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/02/2021, DJe 17/02/2021, sem grifos no original).
+Portanto, o entendimento adotado no acórdão impugnadoestá em harmonia com a jurisprudência desta Corte, não havendo nenhum constrangimento ilegal.
+Ante o exposto, NEGO PROVIMENTO ao recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL.FALTA GRAVE. PRESCRIÇÃO. PRAZO TRIENAL. ART. 109, INCISO VI, DO CÓDIGO PENAL.RECURSO DESPROVIDO.
