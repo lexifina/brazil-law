@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    RECURSO INOMINADO. JUIZADO FAZENDÁRIO. PROCURADORES DO MUNICÍPIO DE SÃO GONÇALO. REQUERIMENTO DE REVISÃO SALARIAL COM BASE NA LEI MUNICIPAL 909/2018. SENTENÇA DE PROCEDÊNCIA DO PEDIDO. REVOGAÇÃO DA TABELA DE VENCIMENTO CONSTANTE NA LEI MUNICIPAL Nº 312/2010 QUE NÃO TEM O CONDÃO DE IMPEDIR O REAJUSTE, CONCEDIDO DE FORMA GERAL E IRRESTRITA A TODO O FUNCIONALISMO MUNICIPAL, ABARCANDO, INCLUSIVE, OS PROCURADORES DO MUNICÍPIO. DESPROVIMENTO DO RECURSO. MANUTENÇÃO DA SENTENÇA.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 37, inciso X; 39, § 4º; 61, § 1º, inciso II, alínea a; 93, inciso IX; 169 da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que o Plenário da Corte, em sede de repercussão geral, reafirmou a orientação de que o artigo 93,inciso IX, da Constituição não exige que o órgão judicante se manifeste sobre todos os argumentos apresentados pela defesa, mas sim que ele fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Tribunal Pleno, Rel. Min. Gilmar Mendes, DJe de 13/8/10).
+    Ademais, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    Ocorre que, como bem fundamentado na sentença recorrida, o pretenso reajuste fora concedido por lei, não havendo que se falar na aplicação do referido verbete sumular ao caso. A Lei Municipal nº 909/2018 fixou a revisão geral dos vencimentos dos servidores em 7,09% a partir de 19.11.2018, como se observa em seu artigo 1º:
+    Art. 1º - Ficam revisados, a partir de 1º de novembro de 2018, no percentual de 7,09% (sete vírgula zero nove por cento), as tabelas de vencimentos constantes nas leis municipais nº 414/2011, 388/2011, 312/2010, 287/2010, 386/2011, 008/2003 e Decreto nº 457/2011, anexo III.
+    O artigo 1º traz previsão expressa de que a revisão deverá ser aplicada aos servidores regidos pela Lei Municipal nº 312/2010, que é o Diploma Legal que regula o regime jurídico estatutário dos Procuradores Municipais.
+    [...]
+    No caso em análise, conforme mencionado na exordial, a Lei Municipal 909/2018 também contemplou a Carreira dos Procuradores do Município de São Gonçalo com o reajuste pretendido pelos autores e o fato de a tabela de vencimentos constante da Lei que rege a mencionada carreira ter sido revogada em 2013 pela Lei 497/2013 não exclui o direito dos autores ao reajuste.
+    Dessarte, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 280 desta Corte. Sobre o tema, a propósito:
+    RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL. A apreciação do recurso extraordinário faz-se considerada a Constituição Federal, não cabendo interpretar normas locais visando concluir pelo enquadramento no inciso III do artigo 102 da Lei Maior. (RE 597.603-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 19/02/2020).
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. PRESCRIÇÃO. DECRETO 20.910/1932. LEI DISTRITAL 7.515/1986. LEI LOCAL. SÚMULA 280. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Nos termos da orientação sedimentada na súmula 280 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação infraconstitucional pertinente à matéria em discussão. 2. Agravo Regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC. Mantida a decisão agravada quanto aos honorários advocatícios, eis que já majorados nos limites do art. 85, §§ 2º e 3º, do CPC. (ARE 1.127.544 AgR, Segunda Turma, Rel. Min. Edson Fachin, Segunda Turma, DJe de 27/02/2020)
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 11 de junho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
