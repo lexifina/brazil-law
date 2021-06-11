@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JULIET ADAKU ANYANWU, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo em Execução Penal n. 0034819- 12.2020.8.26.0050).
+O Juízo da execução penal indeferiu o pedido de livramento condicional por ausência de requisito objetivo.
+Inconformada, a defesa interpôs agravo, ao qual o Tribunal a quo negou provimento.
+O impetrante alega que falta grave praticada não interfere no requisito objetivo para concessão de livramento.
+Defende que, para fins de livramento condicional, o cálculo de pena deve considerar a data do início de cumprimento da reprimenda.
+Requer, liminarmente e no mérito, a retificação do cálculo, iniciando a contagem do início de cumprimento de pena e não da falta grave cometida.
+O pedido de liminar foi indeferido (fls. 77-78).
+Prestadas as informações (fls. 81-98), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou pela denegação da ordem (fls. 102-107).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+No presente caso, o Juízo da execução penal indeferiu o pedido de livramento condicionalnestes termos (fl. 56):
+A sentenciada condenada como incursa no artigo 33, "caput", e artigo 35, ambos da Lei 11.343/2006 (1ª GR) e artigo 35, "caput", da Lei de Drogas (2ª GR), não preenche o requisito objetivo, ou seja não resgatou o lapso legal exigido de 2/3 (dois terços) da pena total imposta (artigo 44, parágrafo único da Lei 11.343/2006), a contar do ICP que será alcançado apenas em 17/02/2025, conforme cálculo a fls. 33.
+Prematura, pois, a concessão do livramento condicional.
+O Tribunal de origem concluiu o seguinte (fls. 73-74):
+Sem razão, contudo.
+Isso porque, sem adentrar na controvérsia acerca da interrupção dos lapsos para a consecução ao livramento condicional, nos casos de cometimento de falta disciplinar de natureza grave no transcurso da expiação punitiva, certo é que a agravante não adimpliu o requisito objetivo.
+Consoante bem ponderado pelo ilustre preopinante, "..o pedido foi indeferido por ausência de lapso, eis que, conforme cálculo de 2/3 (dois terços), a contar do ICP, o lapso será alcançado em 17/02/2025 e, a contar da falta, o lapso será atingido em 17/10/2027 (fls. 31/33) - fls. 52.
+Logo, como claramente se vê, ainda que desconsiderada a interrupção dos lapsos para a consecução do livramento condicional ante o reconhecimento do cometimento de falta disciplinar de natureza grave, escorreito o cálculo de liquidação de penas elaborado que considerou o desconto mínimo de 2/3 da pena relativa ao crime hediondo para a benesse pleiteada.
+Nesse contexto, forçoso oreconhecimento de que, por ausência do preenchimento do requisito objetivo, não tem cabimento a outorga do benefício alvitrado recursalmente.
+Ante o exposto, NEGO PROVIMENTO ao recurso interposto pela sentenciada, mantendo, assim, a respeitável decisão agravada, por seus próprios e jurídicos fundamentos.
+No caso, não há flagrante ilegalidade, visto que a conclusão adotada coaduna com o entendimento do STJ, visto que independentemente da falta praticada a paciente não preencheu o requisito objetivo.
+O Superior Tribunal de Justiça entende que, para a obtenção do benefício de livramento condicional, em condenação pelo tipo penal previsto no art. 35 da Lei n.11.343/2006, deve-se cumprir 2/3 (dois terços) da pena.Assim, a paciente atingirá o lapso para livramento apenas em 17/2/2025.
+Nesse sentido:
+HABEAS CORPUS. EXECUÇÃO PENAL. ASSOCIAÇÃO PARA O TRÁFICO. CRIME NÃO CONSIDERADO HEDIONDO OU EQUIPARADO. BENEFÍCIOS. REQUISITO OBJETIVO. PROGRESSÃO DE REGIME E LIVRAMENTO CONDICIONAL. LAPSOS TEMPORAIS DISTINTOS. CUMPRIMENTO DE 1/6 (UM SEXTO) NO CASO DE PROGRESSÃO E DE 2/3 (DOIS TERÇOS) PARA O LIVRAMENTO, VEDADA A SUA CONCESSÃO AO REINCIDENTE ESPECÍFICO. ARTS. 112 DA LEI DE EXECUÇÃO PENAL E 44 DA LEI N. 11.343/2006. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. A jurisprudência pacífica do Superior Tribunal de Justiça reconhece que o crime de associação para o tráfico de entorpecentes (art. 35 da Lei n. 11.343/2006) não figura no rol de delitos hediondos ou a eles equiparados, tendo em vista que não se encontra expressamente previsto no rol taxativo do art. 2º da Lei n. 8.072/1990.
+2. Não se tratando de crime hediondo, não se exige, para fins de concessão do benefício da progressão de regime, o cumprimento de 2/5 da pena, se o apenado for primário, e de 3/5, se reincidente para a progressão do regime prisional, sujeitando-se ele apenas ao lapso de 1/6 para preenchimento do requisito objetivo.
+3. No entanto, a despeito de não ser considerado hediondo o crime de associação para o tráfico, no que se refere à concessão do livramento condicional, deve-se, em razão do princípio da especialidade, observar a regra estabelecida pelo art. 44, parágrafo único, da Lei n. 11.343/2006, ou seja, exigir o cumprimento de 2/3 (dois terços) da pena, vedada a sua concessão ao reincidente específico.
+4. Ordem parcialmente concedida para afastar a natureza hedionda do crime de associação para o tráfico e determinar que o Juízo da execução, no que se refere a tal delito, proceda a novo cálculo da pena, considerando, para fins de progressão de regime e de livramento condicional, respectivamente, as frações de 1/6 (um sexto) e 2/3 (dois terços). (HC n. 429672/SP, relator Ministro Antônio Saldanha Palheiro, SextaTurma, DJe de8/3/2018.)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. NATUREZA HEDIONDA. NÃO CARACTERIZAÇÃO. AUSÊNCIA DE PREVISÃO NO ROL TAXATIVO DO ARTIGO 2.º DA LEI N.º 8.072/1990. LIVRAMENTO CONDICIONAL. CONDIÇÃO OBJETIVA. ART. 44, PARÁGRAFO ÚNICO, DA LEI N. 11.343/2006. LAPSO NECESSÁRIO PARA A CONCESSÃO (2/3 DA PENA). PRINCÍPIO DA ESPECIALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. O crime de associação para o tráfico não é equiparado a hediondo, uma vez que não está expressamente elencado no rol do artigo 2.º da Lei n.º 8.072/1990.
+3. A jurisprudência desta Superior Corte de Justiça firmou-se no sentido de que, independentemente de o crime de associação para o tráfico não se enquadrar no rol de delitos hediondos, a Lei n. 11.343/2006, em seu art. 44, parágrafo único, previu expressamente a necessidade do cumprimento de 2/3 (dois terços) da pena, devendo essa previsão legal prevalecer em relação ao art. 83 do Código Penal, em atenção ao princípio da especialidade.
+4. Habeas corpus não conhecido.(HC n. 537943/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de26/11/2019.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
