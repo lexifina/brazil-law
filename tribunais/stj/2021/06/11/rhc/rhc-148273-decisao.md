@@ -1,0 +1,30 @@
+DECISÃO
+SANDRO RENATO DA SILVA alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n. 2284902-67.2020.8.26.0000.
+A defesa afirma que não há fundamentação idônea para fixação do regime fechado e que o réu preenche os requisitos para a substituição da reprimenda (fls. 50-63).
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (fls. 95-99).
+Decido.
+Consta nos autos que o recorrente foi condenado a 1 ano, 4 meses e 10 dias de reclusão, em regime fechado, e ao pagamento de 12 dias-multa, pela prática do crime previsto no art. 168, caput, do Código Penal.
+No julgamento da apelação, o Tribunal de origem manteve o regime prisionale anegativa de substituição da reprimenda nos seguintes termos (fl. 16, grifei):
+Por fim, o regime fechado afigura-se adequado, sopesado o exposto acima, a indicar que, não obstante a relativa gravidade da conduta em foco, o réu é infrator contumaz, anotadas a ousadia e desenvoltura demonstradas na execução do delito. Ainda, é ele reincidente e possuidor de maus antecedentes, como visto, tudo a externar intimidade com a atividade espúria.
+Inviável, pelos mesmos fundamentos, substituição da corporal por restritivas ou "sursis" (arts. 44, II e III, e 77, 1 e II, ambos do CP), nem sendo esses benefícios socialmente recomendáveis.
+A Corte estadual, ao analisar o habeas corpus, dispôs(fls. 44-45, destaquei):
+Em acórdão de relatoria do E. Des. Ivan Sartori, proferido no dia 14 de dezembro de 2017, pela C. 12ª Câmara de Direito Criminal deste E.Tribunal de Justiça, foi negado provimento ao recurso da Defesa, mantendo-se a r. sentença condenatória (fls. 11/16).
+Na ocasião, a imposição do regime inicial fechado para o cumprimento da pena foi devidamente analisada. Os nobres julgadores ratificaram, em votação unânime e em conformidade com o relator, a aplicação do regime mais gravoso, em razão da reincidência e dos maus antecedentes ostentados pelo paciente, que teria demonstrado ousadia e desenvoltura na execução do delito, sendo considerado infrator contumaz.
+E, em consulta ao andamento processual dos autos de origem nº 0003518-12.2010.8.26.0369, no site deste E. Tribunal de Justiça, é possível notar que o processo de execução da pena do paciente foi cadastrado em 18/12/2020.
+Assim, verifica-se que o impetrante pretende, mais uma vez, a reforma da r. sentença condenatória já transitada em julgado. Todavia, anote-se que tais pleitos não são objeto de apreciação pela via estreita do "remédio heroico", pois se trata de análise de matéria de mérito, que é inoportuna na via sumária. Caso existisse situação teratológica processual é que caberia eventualmente o writ. E não é o caso.
+Na espécie, não há falar em ilegalidade, pois, quanto ao regime prisional, apesar de a pena aplicada ser inferior a 4 anos, a reincidência e o registro de maus antecedentes justificam, em consonância com o art. 33, § 2º, "c", e § 3º, do CP, a aplicação do regime inicial fechado.Ainda, é incabível a substituição da pena privativa de liberdade ante a ausência dos requisitos dispostos no art. 44 do CP.
+A propósito:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. RECEPTAÇÃO. DOSIMETRIA.MAUS ANTECEDENTES. CONDENAÇÕES ATINGIDAS PELO PRAZO DEPURADOR DE CINCO ANOS. MOTIVAÇÃO IDÔNEA PARA A ELEVAÇÃO DA PENA-BASE. REGIME PRISIONAL FECHADO MANTIDO. ÓBICE À SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. AGRAVO DESPROVIDO.
+ ..
+3. No que se refere ao regime prisional, não se vislumbra desproporcionalidade do imposição do meio inicialmente mais gravoso para o desconto da reprimenda, pois, nada obstante ser a pena inferior a 4 anos de reclusão, os maus antecedentes da acusada implicaram majoração da pena-base, tendo, ainda, sido reconhecida a sua reincidência, não havendo se falar em negativa de vigência à Súmula 269/STJ.
+4. O art. 44 do Código Penal estabelece que será admitida a conversão da pena corporal por restritiva de direitos se "a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente". No caso em análise, o Tribunal de origem asseverou não ser admissível a concessão do benefício, em razão da recidiva da ré e de seus maus antecedentes, sem que possa inferir bis in idem ou arbitrariedade em tal conclusão.
+5. Agravo desprovido.
+(AgRg no HC n. 629.948/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 8/2/2021, grifei)
+PENAL. CONDENAÇÃO POR PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PENA PRIVATIVA DE LIBERDADE. REINCIDÊNCIA NÃO ESPECÍFICA.INDEFERIMENTO DO PEDIDO DE SUBSTITUIÇÃO POR RESTRITIVA DE DIREITO. POSSIBILIDADE SE A MEDIDA NÃO FOR SOCIALMENTE RECOMENDÁVEL. REQUISITOS DE ORDEM SUBJETIVA. SÚMULA 7/STJ.RECURSO DESPROVIDO.
+I - Não há ilegalidade na decisão que nega o pedido de substituição da pena privativa de liberdade por restritiva de direitos se, apesar da reincidência não ser específica, a medida não se mostra "socialmente recomendável" (CP, art. 44, § 3º). No caso dos autos, ainda que a reincidência não tenha sido específica - o recorrente já havia sido condenado à pena de 5 (cinco) anos e 4 (quatro) meses de reclusão em virtude da prática do delito de roubo circunstanciado (fl. 41) - a eg. Corte a quo entendeu que a medida não se mostraria "recomendável" (fl. 274).
+II - A revisão desse entendimento - com a consequente análise da presença dos requisitos de ordem subjetiva - demandaria revolvimento de matéria fático-probatória, providência vedada em sede de recurso especial. (Súmula 07/STJ).
+Agravo Regimental desprovido.
+(AgRg no REsp n. 1.557.466/MG, Rel. Ministro Felix Fischer, 5ª T., DJe 29/2/2016, destaquei).
+Por fim, a Corte de origem não analisou as alegações referentes à pandemia de Covid-19 para a concessão de prisão domiciliar. Assim, o Superior Tribunal de Justiça não pode delas conhecer, sob pena de indevida supressão de instância.
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, nego provimento a este recurso ordinário.
+Publique-se e intimem-se.
