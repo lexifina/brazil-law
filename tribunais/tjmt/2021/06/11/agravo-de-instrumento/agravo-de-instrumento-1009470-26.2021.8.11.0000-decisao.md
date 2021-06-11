@@ -1,0 +1,24 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1009470-26.2021.8.11.0000
+Vistos etc.
+Cuida-se de Recurso de Agravo de Instrumento interposto por BANCO DO BRASIL S.A em virtude de decisão proferida pelo Juiz da 2.a Vara Cível da Comarca de Canarana que, nos autos da Ação de Cumprimento de Sentença Coletiva n.o 1000274-76.2020.8.11.0029, declarou a incompetência absoluta do juízo, nos seguintes termos:
+“No presente caso, observa-se que o autor informou na petição inicial que possui residência e domicílio na cidade de Água Boa/MT, assim não sendo observado o foro de seu domicílio, uma vez que a ação foi proposta perante esta Comarca de Canarana/MT.
+Resta evidenciado, dessa forma, escolha aleatória do foro pelo consumidor, situação vedada pela jurisprudência, devendo prevalecer o foro previsto no CDC, qual seja, o domicílio do autor, in casu, o da Comarca de Água Boa/MT.
+Ante o exposto, DECLARO a incompetência absoluta deste juízo e DECLINO de minha competência jurisdicional para conhecer, processar e julgar a presente ação, em favor do douto Juízo da Comarca de Água Boa/MT, para onde DETERMINO a remessa deste feito”. (ID 52919710- Ação Principal)
+Inconformado, o banco Agravante almeja a reforma da decisão, ao argumento de que o título executivo judicial é originado da sentença coletiva proferida na Ação Civil Pública n.o 94.0008514-1 que tramitou na Justiça Federal, de modo que o Cumprimento de Sentença deve ser processado naquele órgão.
+Nas razões recursais, sustenta a necessidade de aplicação do art. 109, I da Constituição Federal, do art. 516, II do Código de Processo Civil, do art. 93 caput do Código do Consumidor, e salienta que “o inciso I do parágrafo 2.o do art. 98 do CDC, é textual ao fixar que a competência para a execução individual de sentença da ação coletiva é o Juízo da liquidação ou da ação condenatória, no caso, a Justiça Federal.”
+Por fim, aduz que a manutenção do decisum implica risco de dano, diante da possibilidade de nulidade dos atos que vierem a ser praticados.
+Com esses argumentos, pugna pela concessão do efeito suspensivo e, no mérito, pelo provimento do recurso, a fim de que seja reconhecida a competência da Justiça Federal para processar e julgar o cumprimento de sentença.
+É o Relatório. DECIDO.
+O Recurso comporta recebimento como Agravo de Instrumento, pois a hipótese se encaixa no artigo 1.015, parágrafo único, do Código de Processo Civil, bem como está instruído com os documentos necessários para sua análise e conhecimento.
+É cediço que o artigo 1.019 inciso I, do CPC, preconiza a possibilidade de o Relator conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada a plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+Analisando os argumentos vertidos pela parte Recorrente, nesta fase de cognição incompleta, observo que não estão presentes todos os requisitos legais para a concessão do pedido liminar.
+Extrai-se do caderno processual que o Juiz a quo, por entender que a Comarca de Canarana não guarda relação com os fatos descritos na inicial, declinou da competência para conhecer, processar e julgar o cumprimento de sentença e determinou a remessa do feito ao juízo da Comarca de Água Boa, consignando que “deve prevalecer o foro previsto no CDC, qual seja, o domicílio do autor”.
+Na hipótese, em que pesem as razões invocadas pelo Agravante, as insurgências recursais não desconstituem, neste momento, a fundamentação do Juiz a quo no que tange à possibilidade de aplicação do artigo 101, I, do CDC, motivo pelo qual não entrevejo a probabilidade do direito alegado.
+Com efeito, a Corte Especial do STJ firmou a orientação de que "a liquidação e a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário, porquanto os efeitos e a eficácia da sentença não estão circunscritos a linde geográficos, mas aos limites objetivos e subjetivos do que foi decidido, levando-se em conta, para tanto, sempre a extensão do dano e a qualidade dos interesses meta individuais postos em juízo. (arts.468, 472 e 474 do CPC e 93 e 103 do CDC)". (EDcl no REsp 1272491 / PB.EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL 2011/0138682-1. Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 08/10/2019, DJe 11/10/2019).
+Noutro vértice, o Agravante não comprova que o prosseguimento da demanda até o julgamento de mérito deste instrumental é manifestamente suscetível de causar-lhes grave dano de difícil ou incerta reparação.
+Por todo o exposto, pelo menos neste olhar perfunctório, não há como identificar todos os requisitos necessários, razão pela qual indefiro o efeito suspensivo.
+Comunique-se ao Juiz singular.
+Intime-se a parte Agravada para, querendo, apresentar contrarrazões no prazo legal.
+Cuiabá, 10 de junho de 2021.
+Des.a Clarice Claudino da Silva
+Relatora
