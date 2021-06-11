@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “OBRIGAÇÃO DE FAZER MEDICAMENTO AUSÊNCIA DE REGISTRO PERANTE A ANVISA IRRELEVÂNCIA EXCEPCIONALIDADE DO CASO CONCRETO. PRELIMINARES - Impossibilidade jurídica do pedido e ausência de interesse de agir Matérias que se confundem com o mérito e com ele serão analisadas.
+    PRELIMINAR Falta de legitimidade passiva Aplicação da Súmula n.º 37 deste E. Tribunal de Justiça de São Paulo Preliminar rejeitada.
+    MÉRITO - Autor hipossuficiente e portador de moléstia grave (Mieloma Múltiplo) - O direito à saúde, como garantia do cidadão e dever do Estado, decorre de expressa previsão constitucional e, com status de preceito fundamental, encontra-se positivado nos arts. 1º, III, 3º, IV, 5º, caput, 6º, caput, e 196 da Constituição Federal, de aplicabilidade imediata (art. 5º, § 1º, da CF), pois demandas voltadas à sua efetivação resolvem-se a partir de um contexto fático e suas peculiaridades Comprovação da moléstia e da consequente necessidade do fármaco postulado Excepcionalidade Registro do medicamento, ademais, no Departamento U.S. Food and Drug Administration (FDA) dos Estados Unidos e no European Medicines Agency (EMA) - Precedentes deste E. Tribunal Reforma da r. sentença - Apelo provido.” (eDOC 1, p. 101)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 2º, 30, 37, 165, III, 196 e 198, do texto constitucional.
+    Alega, em síntese, “a condenação viola as normas de direito financeiro-orçamentário e o sistema de saúde vigente, além de que direcionada ao Município em matéria de competência do Poder Executivo afronta ao princípio da independência e harmonia dos poderes estatuído no artigo 2º da Constituição Federal.” (eDOC 1, p. 114)
+    Afirma, ainda, que o medicamento pleiteado seria de alto custo e necessita importação e que não seria padronizado pelo SUS tampouco teria registro na ANVISA, matéria tratada no tema 500 da repercussão geral.
+    O Presidente da Seção de Direito Público decidiu pelo sobrestamento do recurso tendo em vista a repercussão geral (tema 500) até julgamento por esta Corte. (eDOC 1, p. 128)
+    Julgado o tema e fixada tese, os autos voltaram à turma julgadora que manteve julgado na forma da seguinte ementa:
+    “DEVOLUÇÃO DOS AUTOS À TURMA JULGADORA PARA REALIZAÇÃO DE EVENTUAL ADEQUAÇÃO (art. 1.040, inciso II, do CPC) Reapreciação decorrente do julgamento definitivo do mérito do RE nº 657.718/MG (Tema de Repercussão Geral nº 500/ STF) Medicamento Fornecimento pelo Estado Ausência de Registro na ANVISA Posterior registro do medicamento na ANVISA Desnecessidade de readequação, na forma do artigo 1.040, II, do CPC. Acórdão mantido.” (eDOC 1, p. 141)
+    Após, os autos tornaram ao Presidente da Seção de Direito Público que negou seguimento ao recurso. (eDOC 1, p. 146)
+    O Ministério Público Federal em parecer emitido pelo Subprocurador-Geral da República, Paulo Gustavo Gonet Branco, opina pela negativa de seguimento do recurso, em parecer assim ementado:
+    “Recurso extraordinário com agravo. Direito à saúde. Possibilidade de o Judiciário determinar ao Município o fornecimento de medicamento de alto custo não previsto na lista adotada no SUS. Parecer por que seja negado seguimento ao agravo, ante a falta de perspectiva de êxito do recurso extraordinário.” (eDOC 6)
+    É o relatório.
+    Decido.
+    As razões recursais não merecem acolhimento.
+    No caso dos autos, o recorrente defende, em síntese, que não possui obrigação de fornecer medicamento não registrado na ANVISA.
+    Registre-se que o STF, ao julgar o RE-RG 657.718, tema 500 da sistemática da repercussão geral, assentou que a seguinte tese:
+    I - O Estado não pode ser obrigado a fornecer medicamentos experimentais; II - A ausência de registro na ANVISA impede, como regra geral, o fornecimento de medicamento por decisão judicial; III - É possível, excepcionalmente, a concessão judicial de medicamento sem registro sanitário, em caso de mora irrazoável da ANVISA em apreciar o pedido (prazo superior ao previsto na Lei nº 13.411/2016), quando preenchidos três requisitos: (i) a existência de pedido de registro do medicamento no Brasil (salvo no caso de medicamentos órfãos para doenças raras e ultrarraras);(ii) a existência de registro do medicamento em renomadas agências de regulação no exterior; e (iii) a inexistência de substituto terapêutico com registro no Brasil; IV - As ações que demandem fornecimento de medicamentos sem registro na ANVISA deverão necessariamente ser propostas em face da União.
+    Todavia, conforme consta do acórdão que realizou o juízo de adequação, o medicamento em questão foi objeto de registro no órgão competente, de modo que não se verifica violação ao referido tema da repercussão geral. Vejamos:
+    “(...) observa-se que, após o julgamento do recurso (30/11/2016 fl. 100), conforme pesquisa realizada, nesta data, no endereço eletrônico “https://consultas.anvisa.gov.br/#/medicamentos/25351757160201560”, em 26/12/2017, tal medicamento “REVLIMID” (Lenalidomida) foi objeto de registro no órgão regulatório.
+    Assim, ficou prejudicada a discussão sobre a inexistência do registro do medicamento na ANVISA e, em consequência, inexistindo oposição ao quanto decidido no RE nº 657.718/MG (Tema de Repercussão Geral nº 500/ STF), o julgamento original, que deu provimento ao apelo do autor, fica mantido”.
+    Ante o exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 11 de junho de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
