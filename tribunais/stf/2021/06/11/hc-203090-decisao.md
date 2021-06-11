@@ -1,0 +1,20 @@
+Habeas corpus. Crime de tráfico transnacional de drogas. Reiteração. Não se conhece de habeas corpus cujo pedido se limita a reproduzir, sem inovação de fato e/ou de direito, os fundamentos de writ anterior. Precedentes. Negativa de seguimento.
+    Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Gianluca Sá Mantuano em favor de Jefferson Moreira da Silva, contra acórdão do Superior Tribunal de Justiça, da lavra do Ministro Jorge Mussi, que não conheceu do ARE no RE no agravo regimental no AREsp 1.421.634/SP (evento 8).
+    O Paciente foi condenado à pena de 12 (doze) anos de reclusão, em regime inicial fechado, pela prática do crime de tráfico transnacional de drogas (arts. 33, c/c 40, I, da Lei 11.343/2006) (evento 3).
+     Extraio do ato dito coator:
+    “AGRAVO EM RECURSO EXTRAORDINÁRIO. DECISÃO QUE NEGA SEGUIMENTO A RECURSO EXTRAORDINÁRIO. MANIFESTO DESCABIMENTO. NÃO CONHECIMENTO DO RECLAMO.
+    1. Nos termos do art. 1.030, § 2º, do Código de Processo Civil, é cabível agravo interno contra a decisão que nega seguimento ao recurso extraordinário, observando a sistemática da repercussão geral.
+    2. A interposição de agravo em recurso extraordinário contra o referido pronunciamento judicial configura erro grosseiro, impedindo a aplicação do princípio da fungibilidade. Precedentes do STJ e do STF.
+    3. Recurso não conhecido.”
+    No presente writ, o Impetrante alega, em síntese, falta de fundamentação idônea das decisões de autorização e renovação da interceptação telefônica, bem como a violação ao ‘prazo legal máximo estipulado na lei (15 dias, prorrogáveis por uma única vez), maculando com ilicitude a condenação dos Pacientes, o que impõe o reconhecimento da sua nulidade’. Requer, em medida liminar, a suspensão da execução do título condenatório, com expedição de alvará de soltura. No mérito, pugna pelo reconhecimento da nulidade apontada.
+    É o relatório.
+    Decido.
+    Verifico que o objeto do presente writ coincide com o do HC 202.529/SP, de minha relatoria, ao qual neguei seguimento em 31.5.2021. Ato contínuo, manejado agravo regimental, pendente de apreciação. Além da identidade de matérias e alegações, os feitos atacam a mesma decisão do Superior Tribunal de Justiça, com as mesmas partes, o mesmo pedido e a mesma causa de pedir, a delinearem a tríplice identidade definidora da litispendência.
+    Dessa maneira, não há como dar prosseguimento ao presente feito, enquanto mera reiteração de impetração anterior: “A mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus” (HC 146.334-AgR/PR, Rel. Min. Celso de Mello, 2ª Turma, DJe 23.10.2017); “a jurisprudência deste Supremo Tribunal já assentou a inadmissibilidade de ‘habeas corpus em que se reitera pretensão veiculada em impetração anterior já examinada e denegada’ (HC nº 126.835/DF-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe 18/8/15)”(HC 129.705-AgR/SP, Rel. Min. Dias Toffoli, 2ª Turma, DJe 14.12.2015); e “O habeas corpus é inadmissível quando se trata de mera reiteração das razões de medida anteriormente impetrada nesta Corte. Precedentes.”(RHC 113.089-AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 05.9.2014).
+    Anoto, por fim, que, não obstante a indicação defensiva de prevenção de relatoria ao Ministro Marco Aurélio, o Ministro Luiz Fux, Presidente desta Suprema Corte, em decisão exarada na presente data, no bojo do referido HC 202.529, consideradas as ‘informações prestadas pela Secretaria, no sentido de que, diante da multiplicidade de impetrações, observou-se “o artigo 6º parágrafo único da Resolução 706/STF de 15 de outubro de 2020, a anterioridade na distribuição, bem como decisão proferida pela D. Presidência deste Supremo Tribunal em 15/06/2020 nos autos do HC nº 186.334’, manteve ‘a distribuição do writ à Ministra Rosa Weber’.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de junho de 2021.
+Ministra Rosa Weber
+Relatora
