@@ -1,0 +1,21 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1008587-79.2021.8.11.0000 - CLASSE 202 - CNJ - TANGARÁ DA SERRA
+Agravante : ALDERINO DE AMORIM CAPELETTI
+Agravada : COOPERATIVA DE CREDITO DE LIVRE ADMISSAO DE ASSOCIADOS DO SUDOESTE DE MATO GROSSO - SICREDI SUDOESTE MT
+Número do Protocolo: 1008587-79.2021.8.11.0000
+Cuida-se de recurso de AGRAVO DE INSTRUMENTO interposto por ALDERINO DE AMORIM CAPELETTI contra a decisão proferida pelo MM. Juiz de Direito da 3a Vara Cível da Comarca de Tangará da Serra/MT, que nos autos da ação de “Execução de Título Extrajudicial” (Proc. no 0001411-74.2011.8.11.0046 - Código n. 36712), ajuizada contra o agravante pela COOPERATIVA DE CREDITO DE LIVRE ADMISSAO DE ASSOCIADOS DO SUDOESTE DE MATO GROSSO -SICREDI SUDOESTE MT, indeferiu o pedido de nova avaliação do imóvel denominado Fazenda Capeletti, matriculado sob o n. 977 do R.G.I. da Comarca de Comodoro (cf. Id no 87575982).
+O agravante diz que, em 11.06.2019, o imóvel foi avaliado em R$ 2.546.546,75, e um mês depois, nos autos de n. 49-42.2008.811.0046 (Código 25878), a mesma área foi avaliada em R$ 4.986.197,00.
+Alega que, como o exequente solicitou que o imóvel fosse levado a leilão, é evidente a necessidade de nova avaliação para auferir o correto valor do bem, até mesmo porque, após a data da primeira avaliação, houve valorização do preço do soja.
+Pede, pois, o provimento do recurso, para que, reformada a decisão agravada, seja determinada a realização de nova avaliação sobre o imóvel denominado Fazenda Capeletti, matriculado sob o n. 977 do R.G.I. da Comarca de Comodoro; de imediato, pede a suspensão do leilão judicial (cf. Id. n. 87570990).
+É a suma.
+A decisão agravada foi proferida com base nos seguintes fundamentos:
+“(...)
+A realização de nova avaliação é medida excepcional, somente admitida nos casos em que for demonstrada a ocorrência de erro na avaliação ou dolo do avaliados ou ainda quando o magistrado possui dúvida acerca do valor atribuído ao bem na primeira avaliação, nos termos do art. 873, CPC. A meu ver trata-se apenas de meras irresignações procrastinatórias com intuito de retardar a alienação judicial, porquanto desprovidas de qualquer comprovação por parte do devedor. Nestes termos, ante a não demonstração de erro do oficial de justiça avaliador e ausente qualquer das hipóteses do art. 873, CPC, INDEFIRO o requerimento apresentado. A propósito, notifique o leiloeiro, e desde já, determino que o primeiro e o segundo leilão deverá o ocorrer no mesmo dia, com intervalo mínimo de uma hora entre eles nos termos do art. 892 do CPC/2015.”
+Em primeira análise, admito que os fundamentos recursais não são suficientes para demonstrar a presença indispensável dos requisitos jurídicos que justificam o deferimento do pedido de tutela provisória (CPC, art. 300), pois, ao menos por ora, apesar da pertinência da discussão meritória, já que o agravante apresentou um auto de avaliação datado de 11.06.2019, no valor de R$ 2.546.546,75 (cf. Id. n. 87575990), e outro auto de avaliação datado de 04.07.2019, no valor de R$ 4.986.197,00 (cf. Id. n. 87575991), ambos elaborados por Oficial de Justiça, os argumentos do recorrente/executado não convencem a primo ictu oculi do desacerto da decisão agravada, pois o recorrente omitiu diversas peças necessárias para a compreensão inequívoca do caso, como é o caso da manifestação do exequente quanto ao pedido de nova avaliação da área, além de não ter mencionado qual é a data em que o leilão será realizado, e nem ter justificado o motivo pelo qual não impugnou a avaliação na época em que ela foi realizada (11.06.2019).
+Admito, pois, a interposição recursal tal como efetivada, de modo que recebo e autorizo o processamento do agravo de instrumento, mas INdefiro o pedido de antecipação da tutela recursal, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se a agravada, na forma do art. 1.019, II, do CPC, para que responda no prazo de 15 dias.
+Expeça-se o necessário.
+Cuiabá/MT, 11 de junho de 2021.
+Des. JOÃO FERREIRA FILHO
+Relator
