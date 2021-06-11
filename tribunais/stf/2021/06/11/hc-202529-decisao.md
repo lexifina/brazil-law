@@ -1,0 +1,15 @@
+Decisão: Trata-se de habeas corpus submetido a esta Presidência pela Ministra Rosa Weber, para análise de redistribuição, tendo em vista que a Defesa apontou prevenção para o Ministro Marco Aurélio.
+    Solicitadas informações quanto aos critérios empregados para considerar a prevenção apontada nos autos, a Coordenadoria de Processamento Inicial informou o seguinte:
+    “Trata-se de habeas corpus impetrado em favor de Jefferson Moreira da Silva e Luciano Hermenegildo Pereira contra acórdão proferido pelo STJ nos autos do AResp nº 1.421.634. As origens cadastradas vinculam o feito à “Operação Oversea/SP” (doc.2, fl.19; doc.3, fl.30, v.g.). Processo distribuído em 27/05/2021 a Vossa Excelência, por prevenção à Rcl 18.023 (primeiro processo vinculado à Operação Oversea/SP nos registros desta Corte). O impetrante suscita na inicial a distribuição por prevenção ao HC nº 185.443 de relatoria do Sr. Ministro Marco Aurélio.
+    A Rcl nº 18.023 apresentada pela Ordem dos Advogados do Brasil – Seccional de São Paulo em favor de Carlos Bodra Karpavicius, vinculada à Operação Oversea/SP (doc.6, fl.6. v.g) foi distribuída em 27/06/2014 a Vossa Excelência, por sorteio, liminar indeferida em 21/08/2014, negado seguimento em 29/04/2016 e trânsito em julgado em 25/05/2016.
+    O HC nº 185.443 impetrado também em favor de Jefferson Moreira da Silva foi distribuído em 13/05/2020 ao Sr. Ministro Marco Aurélio, por prevenção ao HC nº 178.045, liminar deferida em 22/05/2020, não conhecido em 24/08/2020 com substituição de Relatoria ao Sr. Ministro Alexandre de Moraes e trânsito em julgado em 21/10/2020.
+    Constam ainda vinculados à Operação Oversea/SP e com paciente Jefferson Moreira da Silva, o HC nº 189.287 (Rel. Sr. Min Marco Aurélio, extinto o processo em 24/09/2020 e trânsito em julgado em 03/10/2020) e o HC nº 202.682 de relatoria de Vossa Excelência, distribuído em 31/05/2021 por prevenção à Rcl. nº 18.023, negado seguimento em 02/06/2021, ainda em trâmite).
+    Ao distribuir o presente HC nº 202.529 em 27/05/2021, verificada a propositura múltipla de ações, esta Coordenadoria observando, salvo melhor juízo, o artigo 6º parágrafo único da Resolução 706/STF de 15 de outubro de 2020, a anterioridade na distribuição, bem como decisão proferida pela D. Presidência deste Supremo Tribunal em 15/06/2020 nos autos do HC nº 186.334 (doc. 21), apontou a prevenção do feito para a Rcl nº 18.023.”
+    É o relatório. Decido.
+    Diante das informações prestadas pela Secretaria, no sentido de que, diante da multiplicidade de impetrações, observou-se “o artigo 6º parágrafo único da Resolução 706/STF de 15 de outubro de 2020, a anterioridade na distribuição, bem como decisão proferida pela D. Presidência deste Supremo Tribunal em 15/06/2020 nos autos do HC nº 186.334”, mantenho a distribuição do presente writ à Ministra Rosa Weber.
+    Restituam-se os autos ao gabinete da eminente Relatora.
+    Publique-se.
+    Brasília, 11 de junho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
