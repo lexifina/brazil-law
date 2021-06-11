@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino (Presidente), Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM DECLARAÇÃO DE NULIDADE DE CLÁUSULA CONTRATUAL. PLANO DE SAÚDE. HARMONIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568 DO STJ.
+1. Ação cominatória cumulada com declaração de nulidade de cláusula contratual.
+2. A decisão recorrida que adota a orientação em harmonia com a jurisprudência do STJ não merece reforma.
+3. Agravo interno no recuso especial conhecido e não provido.
+RELATÓRIO
+Cuida-se de agravo interposto por COMPONENT INDÚSTRIA E COMERCIO LTDA, contra decisão unipessoal que deu provimento ao recurso especial interposto por UNIMED DE JOINVILLE - COOPERATIVA DE TRABALHO MÉDICO, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM NULIDADE DE CLAUSULA CONTRATUAL. RESCISÃO UNILATERAL DE CONTRATO DE PLANO DE SAÚDE COLETIVO. POSSIBILIDADE. RESOLUÇÃO NORMATIVA. AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR. CONDIÇÕES. OBSERVÂNCIA. ABUSIVIDADE. NÃO CONFIGURADA.
+1. Ação cominatória cumulada com declaração de nulidade de cláusula contratual.
+2. Há expressa autorização concedida pela Agência Nacional de Saúde Suplementar (ANS) para a operadora do plano de saúde rescindir unilateral e imotivadamente o contrato coletivo (empresarial ou por adesão), desde que observado o seguinte: i) cláusula contratual expressa sobre a rescisão unilateral; ii) contrato em vigência por período de pelo menos doze meses; iii) prévia notificação da rescisão com antecedência mínima de 60 dias. Precedentes.
+3. Na hipótese dos autos, a operadora de plano de saúde observou as condições para realizar a rescisão unilateral e imotivada do contrato coletivo empresarial, de modo que não há se falar em abusividade em sua conduta.4. Recurso especial conhecido e provido.
+Ação: cominatória com pedido de tutela antecipada cumulada com declaratória de nulidade de cláusula contratual apresentada por COMPONENT INDÚSTRIA E COMERCIO LTDA em face de UNIMED DE JOINVILLE - COOPERATIVA DE TRABALHO MÉDICO na qual alega, em síntese, que em 2010 celebrou contrato de plano de saúde coletivo para atender seus funcionários e após um ano houveram reajustes abusivos baseados na sinistralidade. Requer a declaração de nulidade das cláusulas que prevêem o reajuste por sinistralidade, da que permite a rescisão unilateral imotivada, bem como a restituição dos valores pagos.
+Agravo interno interposto em: 12/09/2019.
+Concluso ao gabinete em: 13/05/2021.
+Sentença: julgou parcialmente procedentes os pedidos para declarar a nulidade da cláusula que prevê o reajuste por sinistralidade, admitindo-se o reajuste anual com base no IGPM, bem como da cláusula que permite a rescisão unilateral imotivada. Arbitrou os honorários em 15% sobre o valor da condenação.
+Acórdão: deu parcial provimento à apelação interposta pela operadora para reconhecer a validade das cláusulas contratuais de reajuste de mensalidade por sinistralidade e rescisão unilateral imotivada do contrato, nos termos da seguinte ementa:
+Apelação cível. Ação cominatória com pedido de tutela antecipada c/c declaração de nulidade de cláusulas contratuais. Plano de saúde coletivo. Reajuste de mensalidade operado com fulcro no aumento da sinistralidade. Posterior rescisão unilateral do contrato. Sentença de parcial procedência. Pleito de restituição de valores. Inacolhido. Recurso da UNIMED. Aplicabilidade do Código de Defesa do Consumidor. Pleito objetivando o reconhecimento da validade das cláusulas contratuais que prevêem o reajuste da mensalidade de acordo com a sinistralidade e a possibilidade de rescisão unilateral imotivada do contrato. Subsistência. Cláusulas contratuais válidas. Precedentes do Superior Tribunal de Justiça. Sentença reforma nesse sentido. Pedido de reconhecimento da inexistência de abusividade e/ou ilegalidade no índice de reajuste aplicado em razão do aumento da sinistralidade, bem como da regularidade da rescisão unilateral do contrato operada. Insubsistência. Inexistência nos autos de elementos aptos a justificar o aumento de 25% (vinte e cinco por cento) ao ano no valor da mensalidade. Abusividade reconhecida. Preservação, apenas, do índice de reajuste anual pelo IGPM. Conjunto probatório, ademais, que demonstra ter sido a rescisão contratual operada com o objetivo de coagir o autor a aceitar o índice de reajuste aplicado. Conduta reprovável verificada. Exegese do artigo 422 do Código Civil. Manutenção do contrato confirmada. Requerimento de manifestação judicial para fins de prequestionamento. Descabimento. Recurso conhecido e parcialmente provido.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega a agravada violação dos arts. 472, 478, 479 e 607 do CC, bem como dissídio jurisprudencial. Sustenta, em síntese, que "há expressa autorização da Agência Nacional de Saúde Suplementar (ANS) para que as operadoras rescindam contrato coletivo empresarial desde que sejam observados alguns requisitos, como o aviso com dois meses de antecedência e vigência do contrato por no mínimo um ano". Requer a inversão da sucumbência e das custas judiciais.
+Decisão unipessoal: deu provimento ao recurso especial para autorizar a rescisão unilateral do contrato, desde que observados os pressupostos exigidos pela ANS e inverteu a sucumbência, mantendo o valor dos honorários estabelecido na sentença.
+Agravo interno: nas razões do presente recurso, a agravante sustenta a aplicabilidade da Súmula 568 do STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM DECLARAÇÃO DE NULIDADE DE CLÁUSULA CONTRATUAL. PLANO DE SAÚDE. HARMONIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568 DO STJ.
+1. Ação cominatória cumulada com declaração de nulidade de cláusula contratual.
+2. A decisão recorrida que adota a orientação em harmonia com a jurisprudência do STJ não merece reforma.
+3. Agravo interno no recuso especial conhecido e não provido.
+VOTO
+A decisão agravada deu provimento ao recurso especial interposto pelos agravados em razão da aplicação das Súmulas 568 do STJ.
+Pela análise das razões recursais apresentadas, verifica-se que a agravante, não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+- Da Súmula 568/STJ
+A agravante sustenta a abusividade da rescisão unilateral contratual imotivada pela operadora de plano de saúde e a inaplicabilidade da Súmula 568 do STJ.
+Verifica-se do presente recurso que o precedente colacionados pela agravante cuida de rescisão imotivada de segurado em tratamento continuado de emergência, não havendo, dessa forma, similitude fática com o caso dos autos.
+Nesse caso, conforme constou da decisão agravada, a operadora do plano de saúde pode rescindir unilateral e imotivadamente o contrato coletivo (empresarial ou por adesão), pois há expressa autorização concedida pela Agência Nacional de Saúde Suplementar (ANS), desde que observado o: I) cláusula contratual expressa sobre a rescisão unilateral; II) contrato em vigência por período de pelo menos doze meses; III) prévia notificação da rescisão com antecedência mínima de 60 dias. Nesse sentido: AgInt no Resp 1450785/SP, Terceira Turma, Dje 19/06/2019, AgInt nos EDcl no REsp 1694072/SP, Quarta Turma, DJe 26/10/2018 e REsp 1680045/RS Terceira Turma, DJe 15/02/2018.
+Na hipótese dos autos, a operadora de plano de saúde observou as condições para realizar a rescisão unilateral e imotivada do contrato coletivo empresarial, de modo que não há que se falar em abusividade em sua conduta.
+Dessa forma, mantenho a aplicação da Súmula 568 do STJ.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no recurso especial.
