@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de JOÃO ANTONIO ALVES LOBO DE OLIVEIRA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Colhe-se dos autos que o paciente teve a prisão preventiva decretada pela suposta prática do delito tipificado no art. 33, caput, da Lei 11.343/06.
+Nesta Corte, a defesa sustenta não estarem presentes os requisitos para decretação da prisão preventiva.
+Ressalta que "tanto no depoimento do condutor do flagrante quanto no despacho ratificador da prisão, não é possível extrair que o ora acusado tenha sido encontrado na posse das drogas elencadas no auto de apreensão - fato este que se encontra em perfeita harmonia com a declaração de João Antônio de que não seria traficante de drogas. Na oportunidade, esclareceu o flagranteado que conduzia o veículo que levava os outros dois indiciados apenas porque acreditava que o conhecido Cleydson buscaria um cavalo e o usaria para pagar uma dívida que tinha com João Antônio".
+Destaca que o paciente é primário, sem qualquer anotação criminal, tem residência fixa e atua como microempreendedor individual.
+Argumenta, ainda, pela possibilidade de substituição da prisão preventiva por medidas cautelares diversas, ante o risco de contágio por Covid-19 no ambiente prisional.
+Por fim, ressalta que o paciente tem um filho de 2 anos, sendo sua presença indispensável para seus cuidados, fazendo jus, portanto, à prisão domiciliar, nos termos do art. 318, III do CPP.
+Pleiteia, assim, a revogação da custódia provisória, com a aplicação de medidas cautelares diversas, se for o caso.
+O pedido liminar foi indeferido.
+O Ministério Público Federal opinou pela denegação da ordem.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Inicialmente, consigno que a legalidade dos fundamentos apresentados para a decretação da custódia cautelar, bem como a tese de não configuração de indícios de autoria não foram objeto de exame no acórdão impugnado, pois, segundo afirmou o Tribunal de origem, as questões já foram tratadas em outro habeas corpus (e-STJ, fl. 88). Nesse contexto, vale anotar que caberia à defesa o ônus de juntar à inicial deste feito a cópia da referida decisão - que apreciou a validade do decreto preventivo do paciente. Logo, ante a deficiente instrução do feito, fica inviabilizado o exame dos temas nesta impetração.
+No que tange à possibilidade de revogação da prisão ou sua substituição por medidas cautelares diversas, ante o risco de contágio por Covid-19, o Tribunal de origem consignou:
+"Não obstante os bem elaborados argumentos, destaca-se que o Paciente não deverá ser beneficiado pelo disposto na Recomendação n.º 62 do Conselho Nacional de Justiça (CNJ) e na Portaria Conjunta nº 19/PR-TJMG/2020.
+Isto porque, embora não se ignore a situação sensível propiciada pela transmissão alarmante da COVID-19, a gravidade concreta dos fatos atribuídos ao Paciente revela a inadequação da concessão do benefício, impondo-se a manutenção da segregação cautelar.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, a possibilidade de concessão da prisão domiciliar, em virtude da pandemia, somente se revela apropriada quando demonstrado, de plano, certos requisitos. Senão vejamos:
+ ..
+In casu, não se verifica o preenchimento dos aludidos requisitos, razão pela qual não se mostra adequada, ao menos neste momento, a aplicação das benesses previstas na Resolução nº 62 do CNJ.
+Frise-se, ainda, que os Poderes Judiciários e Executivos têm empregado todos os esforços e medidas necessárias a se assegurar a segurança dos custodiados, agentes e visitantes. Logo, presentes os requisitos autorizadores da medida excepcional, não há o alegado constrangimento ilegal passível de justificar a concessão do writ." (e-STJ, fls. 90-92)
+O acórdão impugnado está em consonância com a jurisprudência desta Corte.
+A recomendação n. 62 do CNJ prevê várias medidas sanitárias para se evitar o contágio e a disseminação da Covid-19 na população carcerária. Todavia, a colocação do preso provisório em regime domiciliar não é providência automática, devendo ser aferida a particularidade de cada situação.
+No caso, as instâncias ordinárias indeferiram a liberdade provisória, em decisão suficientemente motivada, tendo destacado que o paciente não preenche os requisitos constantes da Recomendação n. 62/2020 do CNJ e que já estão sendo tomadas medidas de prevenção de contração do referido vírus no estabelecimento em que se encontra. Pontuou-se ainda a necessidade da prisão cautelar para o fim de assegurar a ordem pública, haja vista a gravidade concreta da conduta do paciente - arremesso de 77 buchas de maconha para dentro do pátio de unidade penitenciária.
+Nesse contexto, de fato, mostra-se inviável a concessão de liberdade provisória ou de substituição da prisão preventiva por cautelares diversas, como posto pelas instâncias ordinárias.
+Por fim, quanto ao pedido de prisão domiciliar, nos termos do art. 318, III do CPP, o Juízo de origem concluiu pela ausência de comprovação da imprescindibilidade do paciente para os cuidados de seu filho. Logo, rever tal entendimento demandaria, necessariamente, o reexame do conjunto fático-probatór io dos autos, providência incabível nesta via mandamental.
+A propósito:
+" ..  VII - A concessão da substituição da prisão preventiva pela domiciliar ao pai com filho menor de 6 anos, de idade ou com deficiência, exige a comprovação da imprescindibilidade do agente ao cuidado especial da criança, o que não foi demonstrado nos autos. Ademais, modificar a conclusão das instâncias ordinárias sobre o tema demandaria, necessariamente, revolvimento fático-probatório, o que não se admite nesta via.
+ ..  Recurso ordinário desprovido."
+(RHC 93.414/PB, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 03/05/2018, DJe 11/05/2018).
+" ..  I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Este Tribunal Superior tem posicionamento no sentido de que, embora o art. 117 da Lei de Execuções Penais estabeleça como requisito para a concessão da prisão domiciliar o cumprimento da pena no regime aberto, é possível a extensão de tal benefício aos sentenciados recolhidos no regime fechado ou semiaberto quando a peculiaridade concreta do caso demonstrar sua imprescindibilidade.
+III - In casu, o Tribunal de origem indeferiu o pedido de prisão domiciliar em razão de se tratar de sentenciada que cumpre pena em regime fechado, sendo reincidente na prática de crimes graves (tráfico de drogas), e porque não restou comprovada a sua imprescindibilidade aos cuidados com as filhas menores, que são assistidas pela avó materna.
+IV - Assentado pelo eg. Tribunal Estadual, soberano na análise dos fatos, que a paciente não comprovou a sua imprescindibilidade aos cuidados com as filhas, a modificação desse entendimento - a fim de conceder o benefício da prisão domiciliar - demanda o reexame do acervo fático-probatório, inviável na via eleita.
+Agravo regimental desprovido"
+(AgRg no HC 429.878/MS, Quinta Turma, de minha relatoria, DJe 20/03/2018).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
