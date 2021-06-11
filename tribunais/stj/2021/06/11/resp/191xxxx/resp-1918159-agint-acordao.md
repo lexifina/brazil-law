@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino (Presidente), Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTENRO NO RECURSO ESPECIAL. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. REMUNERAÇÃO MÍNIMA POR NÍVEL E REGIME (RMNR). INDENIZAÇÃO. PARTICIPANTES EM ATIVIDADE. CONCESSÃO. INATIVOS. EXTENSÃO. IMPOSSIBILIDADE.
+1. Ação de revisão de benefício previdenciário.
+2. É inviável a extensão aos proventos de complementação de aposentadoria dos mesmos índices de reajuste referentes às verbas denominadas Plano de Classificação e Avaliação de Cargos - PCAC - e Remuneração Mínima por Nível e Regime - RMNR -, concedidas aos empregados em atividade por acordo coletivo de trabalho, em razão da ausência de prévia formação da reserva matemática. Súmula 568/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por ADEMIR MAURICIO SUSZEK e OUTROS contra decisão unipessoal que conheceu do recurso especial interposto por FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL PETROS e deu provimento.
+Ação: de revisão de benefício previdenciário, ajuizada pelos agravantes (ADEMIR MAURICIO SUSZEK e OUTROS), em face da agravada (FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL PETROS), ao argumento de que os demandantes são aposentados e/ou pensionistas da fundação ré e, ex-empregados da Petrobrás, motivo pelo qual se insurgem contra suposta ilegalidade cometida quando da celebração do Acordo Coletivo de Trabalho em 2002, com vigência até 31 de agosto de 2013, especificadamente com relação ao reajuste nas aposentadorias e pensões, ocorrido em setembro de 2012. Ponderam os demandantes que houve uma nova forma de burlar a extensão do reajuste dos ativos aos inativos, com a introdução do conceito de Remuneração Mínima por Nível e Regime (RMNR), a qual concedeu o reajuste de 8,16% a todos os empregados da ativa, indistintamente.
+Sentença: julgou improcedente o pedido.
+Acórdão: deu parcial provimento à apelação interposta pelos agravantes, para condenar a agravada ao pagamento das diferenças resultantes do cálculo a menor do valor da suplementação da aposentadoria dos autores, com relação ao reajuste de 8,16% aplicado à RMNR, abatido percentual já aplicado aos inativos e respeitada a prescrição das parcelas anteriores ao quinquênio que antecedeu à propositura da presente demanda, valores estes a serem apurados em liquidação de sentença.
+Nesse sentir, é a ementa do julgado:
+Apelação cível  Ação ordinária  Previdência privada  Complementação de aposentadoria  ACT 2011  Reajuste da RMNR  Caso concreto que permite percentual extensível aos inativos  Paridade entre ativos e inativos  Artigo 41 do RPB  Precedentes do Tribunal Superior do Trabalho e desta Corte  Inaplicabilidade do REsp repetitivo nº 1.425.326/RS  Ação que trata de reajuste e não concessão de abono ou outra vantagem pecuniária  Sentença reformada  Apelo provido.
+A Renda Mínima por Nível e Regime possui caráter geral, vez que é aplicada a todos os empregados, ainda que em valores distintos para cada região, ou seja, a diferença que existe é no seu valor, não na sua aplicabilidade, que é ampla, o que denota seu caráter de generalidade. (e-STJ, fls. 871/872)
+Decisão Monocrática: conheceu do recurso especial interposto pela parte agravada e deu-lhe provimento, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, para restabelecer os efeitos da sentença (e-STJ, fls. 1.123/1.125).
+Agravo interno: alega, em síntese, a inaplicabilidade da Súmula 568/STJ na situação vertente, sendo cabível se falar no reajuste da Remuneração Mínima por Nível e Regime (RMNR) aos inativos (e-STJ, fls. 1.128/1.135).
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTENRO NO RECURSO ESPECIAL. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. REMUNERAÇÃO MÍNIMA POR NÍVEL E REGIME (RMNR). INDENIZAÇÃO. PARTICIPANTES EM ATIVIDADE. CONCESSÃO. INATIVOS. EXTENSÃO. IMPOSSIBILIDADE.
+1. Ação de revisão de benefício previdenciário.
+2. É inviável a extensão aos proventos de complementação de aposentadoria dos mesmos índices de reajuste referentes às verbas denominadas Plano de Classificação e Avaliação de Cargos - PCAC - e Remuneração Mínima por Nível e Regime - RMNR -, concedidas aos empregados em atividade por acordo coletivo de trabalho, em razão da ausência de prévia formação da reserva matemática. Súmula 568/STJ.
+3. Agravo interno não provido.
+VOTO
+A decisão agravada conheceu do recurso especial interposto pela parte agravada e deu provimento, para restabelecer os efeitos da sentença (e-STJ, fls. 673/679) que julgou improcedente o pedido postulado pelos agravantes, referente à concessão do reajuste da Remuneração Mínima por Nível e Regime (RMNR) aos inativos.
+Julgamento: Aplicação do CPC/15.
+1. Da inviabilidade da extensão da verba "Remuneração Mínima por Nível e Regime (RMNR)" aos inativos (Súmula 568/STJ)
+Com efeito, não há qualquer equívoco na decisão agravada, tendo em vista que, de fato, o acórdão proferido pelo TJ/PR - ao entender ser possível a extensão aos inativos da verba Remuneração Mínima por Nível e Regime (RMNR), concedidas aos empregados ativos por meio de acordo coletivo de trabalho - está em dissonância com o entendimento adotado por esta Corte, no sentido de que é inviável a extensão aos proventos de complementação de aposentadoria dos mesmos índices de reajuste referentes às verbas denominadas Plano de Classificação e Avaliação de Cargos - PCAC - e Remuneração Mínima por Nível e Regime - RMNR -, concedidas aos empregados em atividade por acordo coletivo de trabalho, em razão da ausência de prévia formação da reserva matemática. Nesse sentido: Nesse sentir: AgInt no AREsp 1.548.116/RS (3ª Turma, DJe 12/03/2021) e AgInt no AREsp 1.602.044/RS (4ª Turma, DJe 14/12/2020).
+Inviável, portanto, a ausência de dissonância entre o acórdão recorrido com a jurisprudência desta Corte.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
