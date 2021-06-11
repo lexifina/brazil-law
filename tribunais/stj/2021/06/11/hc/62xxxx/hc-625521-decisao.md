@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de Silvio Soares da Rocha,em que se aponta como autoridade coatora a Quinta Câmara Criminal do Tribunal de Justiça de Santa Catarina.
+Consta dos autos que o paciente foi condenado à pena de 4 anos e 6 meses de reclusão, e 15 dias-multa, pelo Juízo da 2ª Vara Criminal da comarca de Joinville/SC,como incurso nos arts. 12 e 16, caput, ambos da Lei n. 10.826/2003 (fls. 91/95).
+Em sede de apelação, a defesa apontou ausência de fundamentos para a condenação e apontou atipicidade na conduta. A Quinta Câmara Criminal do Tribunal de Justiça de Santa Catarina deu parcial provimento ao recurso (fls. 180/196).
+No presente writ, a defesa requer a absolvição do paciente quanto ao crime capitulado no art. 16 da Lei n.10.826/2003 - posse de munições e estojos de munições -, em razão da atipicidade material da conduta, seja pela ausência de lesividade, seja pela aplicação do princípio da insignificância (fls. 3/9).
+Decisão deste Relatorindeferindo a liminar (fls. 199/200).
+Parecer ministerialopinando pela concessão da ordem (fls. 237/239).
+É o relatório.
+Entendo que não assiste razão à defesa. Sabe-se que se considera materialmente atípica a conduta de possuir ou portar pequena quantidade de munições, desacompanhadas de arma de fogo, porquanto inexistente potencialidade lesiva ao bem jurídico. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TESE DE FLAGRANTE FORJADO.SÚMULA N. 7 DO STJ. POSSE DE UMA MUNIÇÃO POR AGENTE SUSPEITO DEROUBO COM EMPREGO DE ARMA DE FOGO, CONDENADO PELO MESMO CRIME.PERIGO ABSTRATO À PAZ PUBLICA. IMPOSSIBILIDADE DE ABSOLVIÇÃO. AGRAVOREGIMENTAL NÃO PROVIDO.
+1. A alegação de flagrante forjado demanda dilação probatória para ser averiguada, providência incabível em recurso especial, que não comporta acertamento de fatos. Incide o óbice da Súmula n. 7 do STJ.
+2. Esta Corte admite a incidência do princípio da insignificância na situação de posse de pequena quantidade de munição, desacompanhada de armamento capaz de deflagrá-la, quando ficar evidenciado o inexistente ou irrisório perigo à paz social.
+ ..
+4. Agravo regimental não provido.
+(AgRg no REsp n. 1.924.310/SC, Ministro Rogerio Schietti Cruz, Sexta Turma,DJe 2/6/2021)
+No entanto, na hipótese dos autos, constou da denúncia (fls. 13/14):
+ ..
+No 19 de junho de 2020, o denunciado SILVIO SOARES DA ROCHA, consciente e voluntariamente, mantinha sob sua guarda na sua residência situada na Rua Jacob do Bandolim, n. 149, Bairro Boa Vista, Joinville, sem possuir registro, portanto, em desacordo com o disposto no art. 5º, caput, da Lei 10.826/03, uma arma de fogo do tipo espingarda de ante carga, marca Rossi, número de série "220Z"; uma pistolas automática, calibre 7,65 mm (.32 Auto), marca Taurus, número de série "J00657,acompanhada de um carregador com capacidade para quinze cartuchos"; dez munições intactas calibre 28; dois cartuchos intactos calibre .30; seis cartuchos intactos calibre.32; um cartucho intacto calibre .380; oito cartuchos intactos calibre .22 e um cartucho calibre .25, instrumentos estes eficientes para o fim que se destinam; além de um estojo vazio calibre 28; dezesseis estojos deflagrados calibre 32 e um estojo vazio do mesmo calibre; cinco estojos deflagrados calibre .45; trinta e três estojos vazios calibre .38 e onze estojos deflagrados do mesmo calibre; dezessete estojos deflagrados calibre .22 e três cartuchos do mesmo calibre com marca de percussão; e um estojo deflagrado calibre .25; todos de uso permitido. Ainda no interior de sua residência, o denunciado mantinha em depósito, consciente e voluntariamente, sem autorização e em desacordo com determinação legal ou regulamentar, três cartuchos intactos calibre 7,62mm, eficientes para o fim que se destinam, além de cinco estojos vazios calibre 6mm Remington, todos de uso restrito.
+ ..
+Como verificado, o presente caso não se adequa àpequena quantidade de munição, ainda que estivesse sem a presença de arma de fogo apta a dispará-la. Confira-se trecho do acórdão hostilizado (fls. 181/182 - grifo nosso):
+ ..
+No caso presente, entendo não ser possível a aplicação do princípio em questão, uma vez que, ainda que se trate de munição apreendida sem acompanhamento da arma de fogo apta a dispará-la, o caso difere do entendimento excepcional do Supremo Tribunal Federal, onde se decidiu pela atipicidade material de conduta em razão da apreensão de apenas uma munição de uso permitido desacompanhada de arma de fogo. Veja-se que estamos diante da apreensão de 3 cartuchos, intactos, calibre7,62mm e 5 estojos, vazios, calibre 6mm Remington, consideradas de uso das forçasarmadas. E embora a defesa alegue que elas estavam desacompanhadas da arma de fogo específica, não há como desconsiderar o contexto em que foram apreendidas, já que havia uma pistola semiautomática e uma espingarda com muitas outras munições na casado réu - vide fotografias de fls. 20/21 e termo de apreensão de fl. 25 do evento 1 do APF -. Sabe-se que para a caracterização do delito não é necessário verificar a potencialidade lesiva das munições, já que os crimes de porte ou posse ilegal de arma de fogo ou munição são considerados crimes de perigo abstrato e de mera conduta. Em outras palavras, não se exige resultado lesivo para caracterização, ou seja, a tipicidade da conduta é ligada somente à simples posse do artefato.
+ .. .
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. POSSE IRREGULAR DE ARMAS E MUNIÇÕES DE USO PERMITIDO E PORTE ILEGAL DE MUNIÇÕES DE USO RESTRITO. PEDIDO DE APLICAÇÃO DA ATIPICIDADE, SOB O ARGUMENTO DE AUSÊNCIA DE ARMA. CONCRETA FUNDAMENTAÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
