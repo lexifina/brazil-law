@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino (Presidente), Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Embargos de declaração que apontam suposta omissão em sua fundamentação.
+2. Ausentes os vícios previstos no art. 1.022 do CPC/2015, rejeitam-se os embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de embargos de declaração interpostos por C&A MODAS LTDA, IBI PROMOTORA DE VENDAS LTDA, contra acórdão que negou provimentoao agravo interno, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. "ASTREINTES". REVISÃO DO VALOR. SÚMULA 7/STJ. AUSÊNCIA DE MANIFESTA EXORBITÂNCIA.
+1. Ação civil pública, em fase de cumprimento de sentença, em razão de disponibilidade de planos de financiamento sem prévia autorização do consumidor.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração. Ademais, devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. A alteração da conclusão dos juízos de origem e o consequente acolhimento da tese recursal que pleiteia a redução do montante das astreintes demandariam o reexame dos fatos e das provas dos autos, providência vedada na via estreita do recurso especial, ante o teor da Súmula 7/STJ. Tal óbice, conforme assentado por esta Corte Superior, somente comporta temperamentos quando se trata de valor manifestamente irrisório ou exorbitante, o que não se verifica no particular.
+4. Agravo interno no agravo em recurso especial não provido.
+Nas razões do presente recurso, a parteembargante afirma que houve omissão no acórdão embargado, visto que a análise da tese aventada no apelo especial independe do reexame de fatos e provas. Reitera a desproporcionalidade entre "os valores históricos da multa (R$ 50.000,00 por evento) e os valores históricos dos supostos prejuízos causados (R$ 7,50 por evento)." (e-STJ, fls. 363) Aduz a negativa de prestação jurisdicional em razão de o acórdão embargado não ter analisado todos os fundamentos do recurso especial.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Embargos de declaração que apontam suposta omissão em sua fundamentação.
+2. Ausentes os vícios previstos no art. 1.022 do CPC/2015, rejeitam-se os embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de embargos de declaração interpostos por C&A MODAS LTDA, IBI PROMOTORA DE VENDAS LTDA, contra acórdão que negou provimento ao agravo interno.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+Verifica-se, nessa linha, que a questão apontada pela parte embargante, resume-se a pedido de reanálise das suas razões apresentadas no agravo interno, não se constituindo, portanto, em pontos omissos, contraditórios ou obscuros do julgado, mas mero inconformismo com os fundamentos adotados na decisão embargada.
+Conforme destacado no acórdão embargado, ao analisar o valor fixado a a título de "astreintes", consignou o acórdão recorrido que:
+Do contrário do que alegam os recorrentes, a decisão colegiada vergastada enfrentou corretamente a questão posta, considerando, inclusive, que o quantum da multa em ação coletiva não tem como premissa o valor individualizado do dano, mas a necessidade de impor medidas capazes de inibir novas microlesões individuais de relevância coletiva, senão vejamos:
+De outro giro, no que tange ao valor da multa, pertinente salientar que o seu quantum foi fixado em sede de ação civil pública, que indubitavelmente não tem como premissa o valor individualizado do dano, mas a necessidade de impor medidas idôneas aos fins de inibir novas microlesões individuais de relevância coletiva.
+Neste ponto, pertinente ressaltar que a medida tem o desiderato de atender ao real e legítimo propósito das ações coletivas no sentido de viabilizar um comando judicial célere e uniforme, em atenção à extensão do interesse metaindividual objetivado na lide, sob pena de "automatizar" as demandas, na contramão do moderno processo de sua "molecularização", consoante doutrina de Kazuo Watanabe1" (e-STJ, fls. 144) (sem grifos no original)
+Ademais, o acórdão embargado, no que tange à incidência da Súmula 7 do STJ, explicitou de forma clara que o valor das "astreintes" não se mostrava exorbitante, conforme se extrai:
+- Do reexame de fatos e provas (valor das "astreintes")
+Quanto à aplicação da Súmula 7/STJ, essa merece ser mantida, haja vista que os argumentos trazidos pela parteagravante não são capazes de demonstrar como alterar o decidido pelo Tribunal de origem acerca do valor da multa cominatória aplicada (decisão com trânsito em julgado no sentido da abstenção de vinculação de quaisquer produtos ou serviços aos planos de financiamento disponibilizados no mercado, sem prévia autorização do consumidor, sob pena de multa de R$ 50.000,00 por evento cujo valor total seria de R$ 615.912,48), não demandaria reexame de fatos e provas.
+De fato, tal óbice, conforme assentado por esta Corte Superior, somente comporta temperamentos quando se trata de valor manifestamente irrisório ou exorbitante, o que não se verifica no particular. Nesse sentido: AgRg no REsp 1.568.909/RS, Terceira Turma, DJe 10/5/2016; e AgInt no AREsp 1.008.842/SE, Quarta Turma, DJe 13/6/2017.Desse modo, rever tal entendimento, de fato, implicaria em reexame do acervo fático-probatório, o que é obstado pelo enunciado sumular nº 7/STJ.
+Frise-se que a Terceira Turma desta Corte possui entendimento pacificado que a que a razoabilidade e a proporcionalidade das "astreintes" deve ser verificada no momento em que fixadas, levando em conta o seu valor inicial, e não em relação ao valor da obrigação principal ou do montante consolidado pela desobediência do devedor. Dessa forma,por mais vultoso que seja o valor total da multa, não se pode perder de vista que o principal a ser discutido não é suposto enriquecimento de uma das partes, mas a coercibilidade das decisões proferidas pelo Poder Judiciário, que se veem atacadas em sua dignidade no momento em que são ignoradas e descumpridas pelos jurisdicionados.Precedentes:REsp 1.748.507/PE, 3ª Turma, DJe 12/08/2019;REsp 1.840.693/SC, 3ª Turma,DJe 29/5/2020. (sem grifos no original)
+Ademais, devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015. Conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, DJe 21/6/2016).No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+Quanto ao mais, ressalta-se queos precedentes desta Corte trazidos à colação pela parteembargante,nos quais houve a redução da multa cominatóriaem razão de sua exorbitância, possuem bases fáticas distintas das dos autos, cabendo ao órgãojulgador, ao analisar a hipótese específica de cadaprocesso, verificar a razoabilidade e a proporcionalidade da multa cominatória aplicada.
+Não há que se falar, então, em qualquer omissão por parte do acórdão embargado.
+Forte nessas razões, REJEITO os embargos de declaração.
+É o voto.
