@@ -1,0 +1,31 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Marcelo William Moreira de Lima, em favor de Rodrigo José Palma, contra acórdão proferido pelo Superior Tribunal de Justiça, nos autos do HC 663.474/SP.
+    Colho da decisão impugnada:
+    “Consta dos autos que o paciente encontra-se preso preventivamente em razão de suposta prática dos delitos previstos nos artigos 273, § 1º e § 1º-A, do Código Penal e 7º, inciso IX, da Lei n. 8.137/90, ambos em concurso material.
+    Aduz o impetrante a ocorrência de constrangimento ilegal decorrente da decisão monocrática que indeferiu pedido liminar formulado em habeas corpus impetrado perante o tribunal local, visando a soltura do paciente.
+    Sustenta, em síntese, a insuficiência de fundamentação do decreto prisional, a ausência dos requisitos autorizadores da prisão cautelar, a falta de justa causa e a desproporcionalidade da medida extrema. Ressalta, ainda a existência de circunstâncias pessoais favoráveis ao paciente, a situação de risco decorrente da pandemia de Covid-19 e a observância ao determinado na Recomendação n. 62/2020 do CNJ.
+    Requer a concessão da ordem, liminarmente, para que o paciente seja colocado em liberdade, mediante a aplicação das medidas cautelares diversas da prisão”. (eDOC 11)
+    No STJ, o habeas corpus foi indeferido liminarmente. Interposto agravo regimental, negou-se-lhe provimento.
+    Nesta Corte, o impetrante insiste nos pedidos formulados naquele Tribunal.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo Tribunal de Justiça nem pelo Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em dupla supressão de instância.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou ausente prévia manifestação colegiada das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC-AgR 131.320/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, decisão monocrática, DJe 3.3.2017; e HC 139.829/SP, Rel. Min. Dias Toffoli, decisão monocrática, DJe 8.3.2017.
+    É bem verdade que, em casos de manifesta e grave ilegalidade, tais entendimentos podem ser flexibilizados, inclusive por meio da concessão da ordem de ofício, o que não é o caso dos autos.
+    Observem-se trechos do decreto prisional:
+    “[...]
+    Observa-se que há relatos de testemunhas que levantam suspeitas da venda de anabolizantes, cuja venda ilegal é bastante comum. Nesse sentido há, também, arquivos de áudio, cujo conteúdo suscita indícios de venda da referida substância, suspeitas potenciais de irregularidades nas movimentações financeiras, em relatório emitido pela Unidade de Inteligência Financeira - UIF, pertencente ao Conselho de Controle de Atividades Financeiras – COAF, além da apreensão de substâncias ilícitas e anotações suspeitas em locais associados ao denunciado.
+    Observo, também, às fls. 104/105, depoimento em que se verifica que o denunciado supostamente teria vendido medicamento abortivo a um casal, aumentando as suspeitas de que possa estar envolvido em meio criminoso, notadamente relacionado à venda de ilegal medicamentos.
+    Não obstante, há diversos autos de infração emitidos pela Vigilância Sanitária, por irregularidades diversas, dentre as quais se encontra a venda de produtos de interesse à saúde não contendo prazo de validade ou com prazo de validade expirado (A.I. 8232/VS – fl. 265/266) e venda de produtos de interesse à saúde sem padrões de identidade, qualidade e segurança (A.I. 8302/VS), conforme Folha Informação de fls. 258/259.
+    Tais indícios são corroborados pelo depoimento da testemunha sigilosa, que alega ter adquirido anabolizantes supostamente vendidos pelo denunciado e que ele supostamente possui um local determinado para armazenar as substâncias ilícitas.
+    […]
+    Ainda em relação à ordem pública, nota-se que há fundadas suspeitas de reiteração criminosa, posto que o denunciado estaria exercendo o comércio espúrio já de longa data (ao menos dez anos) e teria supostamente continuado a exercê-lo mesmo após recentes diligências de busca e apreensão. Tais circunstâncias demonstram probabilidade de recalcitrância na prática criminosa, sendo a prisão preventiva necessária para que cesse a prática suposta delitiva.
+    Quanto à garantia de aplicação da lei penal, anote-se que há nos autos elementos concretos que evidenciam suposta influência do denunciado no meio policial, possuindo, inclusive, anotações com nome e endereço eletrônico institucional de um policial militar (fl. 346). Ademais, relata o Parquet que há suspeitas de que tal influência do denunciado tenha frustrado diligências da investigação, havendo o relato de que a mãe do denunciado parecia ter conhecimento prévio das diligências, executadas em sua residência, cujo sigilo abrangia até mesmo o âmbito interno. Tais elementos demonstram clara intenção de frustrar a atividade investigativa, além de descaso com a lei penal e aviltamento ao Poder Judiciário.
+    A segregação cautelar também se destina à conveniência da instrução criminal. Como se observa, há registro de ocorrência envolvendo suposto comportamento ameaçador e intimidatório por parte do denunciado (fl. 45). Não obstante, levanta-se suspeitas de que a testemunha D. D. M. tenha temor ao denunciado, podendo ter mentido para não o prejudicar, mesmo sob compromisso, sujeita às penas do crime de falso testemunho. Sendo assim a segregação cautelar se mostra necessária, também, para o resguardo da instrução criminal...” (eDOC 13)
+    Como se vê, a prisão está devidamente fundamentada e não há ilegalidade a autorizar a indevida supressão.
+    Colhe-se dos autos que o paciente aplicou esforços para tumultuar as investigações e teria continuado na prática delitiva mesmo após o cumprimento do mandado de busca e apreensão, razão por que a prisão preventiva se justifica.
+    Ante o exposto, nego seguimento ao habeas corpus. (art. 21, § 1º, RISTF)
+    Publique-se.
+    Brasília, 11 de junho de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
