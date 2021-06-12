@@ -1,0 +1,48 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+PJE - AGRAVO DE INSTRUMENTO (202) 1006305-68.2021.8.11.0000 – PROCESSO DE ORIGEM 0000050-04.2004.811.0099- COMARCA DE COTRIGUAÇU
+AGRAVANTE: MADEIRAS E LAMINADOS JURUENA LTDA.
+AGRAVADO: ESTADO DE MATO GROSSO
+Vistos etc.
+Trata-se de Agravo de Instrumento interposto por MADEIRAS E LAMINADOS JURUENA LTDA, em face da decisão que indeferiu o efeito suspensivo requerido na Exceção de Pré-executividade, proferida pelo Juízo da Comarca de Cotriguaçu, nos autos da Ação de Execução Fiscal no 0000050-04.2004.8.11.0099, (cód. 17447) ajuizada pelo ESTADO DE MATO GROSSO.
+Irresignado, o Agravante relata que foi inscrito em dívida ativa - CDA no 000698/2003, no valor de R$3.367,51, (três mil, trezentos e sessenta e sete reais e cinquenta e um centavos), decorrente de suposta infração consistente no depósito de resíduos e pó de madeira em APP e queima de resíduos de madeira, tendo sua origem no processo administrativo no 4690, constituído em 14.03.2002, expedido pela Fundação Estadual Ambiental de Mato Grosso (FEMA).
+Alega a nulidade da citação, devido ser endereçada para o antigo endereço da agravante, sendo que o exequente foi notificado no endereço da sua sede da decisão no Processo Administrativo no 4690, e na inscrição do débito em dívida ativa consta o antigo endereço da empresa, sendo recebida por pessoa desconhecida da agravante.
+Verbera que a prescrição deve ser pronunciada, eis que o crédito tributário teve sua constituição definitiva em 26.06.2002 e a citação do agravante somente ocorreu com o protocolo da Exceção de pré-executividade, em 29.03.2021.
+Afirma, que indicou bens imóveis à penhora, avaliado em quantia suficiente para garantir o débito, entretanto, foi recusada.
+Aduz que a probabilidade do direito está no fato da nulidade de citação e consequente prescrição do crédito tributário, dispensando-se dilação probatória; quanto ao perigo de dano, resta evidente diante da real e eminente possibilidade de sofrer constrições e especialmente, anulações negociais em trâmite, ante a manutenção da exigibilidade do crédito, com o prosseguimento da execução fiscal.
+Pugna pelo recebimento e atribuição de efeito "suspensivo" ao presente recurso, na forma do artigo 151, V, do CTN e art. 139, IV, do CPC.
+É o relatório.
+Decido.
+Constata-se, a regularidade formal na interposição do presente agravo, na forma instrumental, conforme disposto no artigo 1.015, parágrafo único, do Código de Processo Civil, bem como o preenchimento dos requisitos elencados nos artigos 1.016 e 1.017 do mesmo Diploma Legal.
+Por conseguinte, o artigo 1.019 do Código de Processo Civil, dispõe que:
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I – poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão;”
+Com efeito, para que se possa conceder a tutela postulada, é necessário verificar a presença concomitante dos requisitos necessários ao deferimento de qualquer medida liminar, quais sejam, o perigo de ocorrer dano irreparável, ou de difícil reparação e a relevância da fundamentação do direito invocado.
+Da análise dos autos, em cognição inicial, própria do estágio em que se encontra o feito, observa-se que não restaram demonstrados os requisitos autorizadores da medida pleiteada, sendo certo que não se vislumbra o “fumus boni iuris”, a par da Carta de Citação, que foi encaminhada no endereço apontado pelo Agravado na inicial, postada, recebida, datada e assinada. (Id. no 83484968 – p. 35 – autos de base)
+Neste aspecto, transcrevo os fundamentos da decisão recorrida:
+(...) Em relação ao fumus boni iuris, a parte-executada aduz que se encontra evidenciado, ante a ocorrência da prescrição, uma vez que a citação realizada nos autos é inválida, visto que foi direcionada ao antigo endereço da PJ executada.
+Contudo, a nulidade da citação realizada não foi demonstrada de maneira suficiente no bojo dos autos, visto que esta matéria depende de dilação probatória, que é vedado em sede de objeção.
+O assunto, da forma como trazido, carece de discussão acerca da ciência ou não da Fazenda Pública quanto à mudança de endereço da parte-executada, sendo necessário discutir, ainda, a possibilidade de aplicação da “Teoria da Aparência”, que considera válida a citação entregue para qualquer pessoa que aparentemente tenha poderes para recebê-la (representante da PJ executada).
+Ora, o deferimento do efeito suspensivo na Objeção de não-executividade tem cabimento nos casos em que há prova inequívoca da inexigibilidade do título executado, seja em função da nulidade, da decadência, da prescrição, ou porque o crédito já foi pago. Em outras palavras, é cabível em matérias que possam ser apreciadas de ofício, sem a necessidade de dilação probatória.
+No mesmo sentido é o entendimento do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. EXECUÇÃO FISCAL. NULIDADE DA CDA. QUESTÃO QUE DEMANDA DILAÇÃO PROBATÓRIA, INCOMPATÍVEL COM A EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RESP. 1.104.900/ES, REL. MIN. DENISE ARRUDA, DJE 01.04.2009, JULGADO SOB O RITO DO ART. 543-C DO CPC. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. [...] 2. No julgamento do REsp 1.104.900/ES, sob o rito dos recursos repetitivos, consolidou o entendimento segundo o qual a exceção de pré-executividade constitui meio legítimo para discutir questões que possam ser conhecidas de ofício pelo Magistrado, como as condições da ação, os pressupostos processuais, a decadência, a prescrição, entre outras, desde que desnecessária a dilação probatória. [...] 4. Agravo Regimental a que se nega provimento”. (STJAgRg no AREsp 449.834/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 01/09/2015, DJe 14/09/2015).
+PROCESSUAL CIVIL DIREITO BANCÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA. EXECUÇÃO DE TÍTULO DE CRÉDITO. CÉDULAS DE CRÉDITO COMERCIAL. AUSÊNCIA DE DOCUMENTOS COMPROBATÓRIOS DA LIQUIDEZ E CERTEZA DO TÍTULO EXECUTIVO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CABIMENTO. [...] 4. É cabível a exceção de pré-executividade para veicular a iliquidez, a incerteza e a inexigibilidade do título executivo, desde que devidamente instruída e desnecessária a dilação probatória, sendo tais vícios objetivos, portanto, aferíveis de plano, como ocorreu no caso dos autos. Precedentes. 5. Recurso especial parcialmente conhecido e, nessa extensão, não provido”. (STJ - REsp 1485797/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/12/2014, DJe 05/02/2015).
+Ainda que seja possível o pleito de tutela antecipada em sede de objeção de pré-executividade, o pedido só merece provimento se cabalmente demonstrado, sem necessidade de produção de provas outras, a constatação de plano do alegado.
+No que tange ao periculum in mora, indica também estar evidenciado, considerando que o prosseguimento da presente execução acarreta risco de dano grave a executada, na medida em que está sujeita à constrição de seu patrimônio, no valor atualizado de cerca de R$ 70.000,00, além de inscrição no CADIN e não liberação de certidão negativa de débitos.
+Todavia, não se concorda a existência do “risco” da constrição do patrimônio, uma vez que não há medida expropriatória em andamento e as tentativas realizadas pelo Juízo tiveram resultado negativo, conforme pode ser visto nos autos. Não por menos, houve o oferecimento em garantia de bem imóvel em nome de terceiro.
+Além disso, inexistindo o primeiro requisito (fumus boni iuris), não haveria sequer a necessidade de discussão em torno deste (periculum in mora), uma vez que a letra da norma exige a existência conjunta de ambos os requisitos.
+Por fim, a parte-executada oferece em garantia bem imóvel, indicando que seu valor é mais do que suficiente para fazer frente ao débito em questão.
+Ocorre que ao analisar os documentos juntados, percebeu-se que para além de estar desatualizado, o Inteiro Teor da matrícula do imóvel em questão conta com hipoteca registrada e mais 11 averbações de penhoras realizadas, todas, aparentemente, válidas, visto que não constam averbações de levantamento.
+Soma-se a isso o fato de a hipoteca ter sido averbada em moeda “cruzeiro”, não se sabendo qual seu valor atual. Além disso, as penhoras registradas não indicam quais os valores das cobranças realizadas pela Fazenda Nacional, de forma que, não obstante o alto valor atribuído ao bem (R$939.379,87), não se sabe se sobram cotas-partes suficientes para garantir a dívida executada neste processo.
+No mais, não foi realizada penhora, tampouco há notícias de depósito ou caução realizado em valor suficiente para garantia da execução.
+Assim, considerando a ausência dos requisitos necessários para concessão, INDEFERE-SE o efeito suspensivo pretendido.
+Ante o argumentado, RECEBE-SE a Objeção SEM EFEITO SUSPENSIVO, (...)” (Id. no 83484968, p. 226-227 – ação de base)
+Além do que, o “periculum in mora” não se mostra presente, sendo certo que não há risco de perecimento do provimento jurisdicional pleiteado em se aguardar o julgamento pela Turma Julgadora, quando poderá ter o seu pleito totalmente atendido.
+Dessa forma, sem prejuízo de uma análise mais acurada por ocasião do julgamento do mérito do presente recurso, INDEFIRO o almejado efeito suspensivo/ativo.
+Expeça-se ofício ao Juízo da causa, comunicando-lhe esta decisão.
+Ao Agravado para responder, no prazo legal.
+Publique-se.
+Intime-se.
+Cumpra-se.
+Cuiabá, data da assinatura digital
+Desa. MARIA EROTIDES KNEIP
+Relatora
