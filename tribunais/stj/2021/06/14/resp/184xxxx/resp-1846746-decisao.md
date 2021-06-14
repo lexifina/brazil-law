@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo apresentado pela FAZENDA NACIONAL,contra decisão da Corte de origem que não admitiu o recurso especial interposto contra acórdão proferido peloTRF da 5ª Região, assim ementado (fl. 229):
+TRIBUTÁRIO. IMPOSTO DE RENDA PESSOA JURÍDICA. LUCRO TRIBUTÁVEL. DIREITO ADEDUÇÕES DO PROGRAMA DE ALIMENTAÇÃO AO TRABALHADOR - PAT. LEI Nº 6.321/76. DEDUÇÃO INCIDENTE SOBRE A ALÍQUOTA BASE E SOBRE A ALÍQUOTA ADICIONAL DOIMPOSTO DE RENDA. LIMITAÇÃO ILEGAL.
+1. Remessa oficial e apelações interpostas em face de sentença que concedeu a segurança, para garantir à impetrante a dedução do Imposto de Renda das despesas realizadas com o PAT - Programa de Alimentação do Trabalhador, nos moldes estabelecidos na Lei nº 6.321/76, sem as limitações impostas pelo Manual de Instruções de Preenchimento do Imposto de Renda Pessoa Jurídica (MAJUR) em seu item15.7.2.
+2. Dessarte, no que pertine à apelação do impetrante, diante da concessão da segurança nos moldes pleiteados na petição exordial, este se sagrou totalmente vencedor na demanda perante o juízo monocrático. Patente, pois, o reconhecimento da ausência de interesse recursal da parte apelante em rever o julgamento de sentença que lhe fora favorável.
+3. Quanto à apelação da Fazenda Nacional, é pacífica a jurisprudência do colendo STJ e desta Corte Regional no sentido de que as pessoas jurídicas têm o direito a deduzir as despesas relativas ao PAT da base de cálculo do IRPJ, nos termos do art. 1º da Lei 6.321/76, que não prevê a limitação quanto à alíquota adicional do referido tributo.
+4. Apelação do particular não conhecida. Apelação da Fazenda Nacional e remessa oficial não providas.
+Os Embargos de Declaração opostos foram rejeitados (fl. 343).
+No recurso especial, o recorrente alega violação dos arts. 1º da Lei 6.321/1976, 5º da Lei 9.532/1997, 3º, § 4º, da Lei 9.249/1995 e 111, I, do CTN. Sustenta, em síntese, que "a dedução relativa ao incentivo fiscal do Programa de Alimentação do Trabalhador será considerada isoladamente, não podendo exceder a 4% do imposto de renda devido, não considerado o valor do adicional de 10%" (fl. 275).
+Com contrarrazões (fls. 451/458).
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+O Ministério Público Federal, segundo parecer de fls. 597/612, opinou pelo não conhecimento do recurso.
+É o relatório. Decido.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+A insurgência não merece prosperar.
+Conforme entendimento exposto pelo Tribunal de origem, a segurança foi concedida para garantir à impetrante a dedução do Imposto de Renda das despesas realizadas com o PAT - Programa de Alimentação do Trabalhador, nos moldes estabelecidos na Lei nº 6.321/76, sem as limitações impostas pelo Manual de Instruções de Preenchimento do Imposto de Renda Pessoa Jurídica (MAJUR), em seu item 15.7.2.
+Com efeito, cumpre registrar que tal entendimento encontra-se em consonância com a jurisprudência do STJ a respeito do tema, conforme se depreende dos seguintes julgados:
+TRIBUTÁRIO. IMPOSTO DE RENDA. ADICIONAL. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR (PAT). INCENTIVOS FISCAIS. LIMITAÇÕES. ATOS INFRALEGAIS. IMPOSSIBILIDADE.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+2. Ambas as Turmas que integram a Primeira Seção deste Tribunal Superior já decidiram que "os benefícios instituídos pelas Leis 6.297/75 e 6.321/76 aplicam-se ao adicional do Imposto de Renda da seguinte maneira: deduz-se as correspondentes despesas do lucro da empresa, chegando-se ao lucro real, sobre o qual deverá ser calculado o adicional (REsp. 1.754.668/RS, Rel. Min. HERMAN BENJAMIN, DJe 11.3.2019)" (AgInt no AREsp 647.485/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 13/05/2019, DJe 20/05/2019).
+3. As limitações impostas aos incentivos fiscais destinados ao Programa de Alimentação do Trabalhador não encontram arrimo na lei.
+4. Agravo interno não provido (AgInt no REsp 1.462.963/PE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 25/06/2019, DJe 09/08/2019).
+PROCESSUAL CIVIL E TRIBUTÁRIO. SUPOSTA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. IMPOSTO DE RENDA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. INCENTIVO FISCAL. LIMITAÇÃO. PORTARIA INTERMINISTERIAL 326/77 E INSTRUÇÃO NORMATIVA 267/02. ILEGALIDADE. PRECEDENTES. ART. 1º DA LEI 6.321/76. FORMA DE CÁLCULO. DEDUÇÃO SOBRE O LUCRO TRIBUTÁVEL DA EMPRESA E NÃO SOBRE O IMPOSTO DE RENDA DEVIDO. REFLEXO NO CÁLCULO DO ADICIONAL DO IMPOSTO DE RENDA. AFASTAMENTO DA VEDAÇÃO CONSTANTE DO ART. 3º, §4º, DA LEI 9.249/95. RECURSO ESPECIAL DO CONTRIBUINTE PROVIDO.
+1. Não se configura a alegada afronta ao artigo 1.022 do NCPC, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado e averiguando expressamente todos os dispositivos arguidos.
+2. A Portaria Interministerial 326/77 e a Instrução Normativa 267/02, ao fixarem custos máximos para as refeições individuais como condição ao gozo do incentivo fiscal previsto na Lei 6.321/76, violaram o princípio da legalidade, porque extrapolaram os limites do poder regulamentar. Precedentes do STJ.
+3. Os benefícios instituídos pelas Leis 6.297/75 e 6.321/76 aplicam-se ao adicional do Imposto de Renda da seguinte maneira: deduz-se as correspondentes despesas do lucro da empresa, chegando-se ao lucro real, sobre o qual deverá ser calculado o adicional. Precedentes do extinto TFR e do STJ.
+4. Recurso Especial da União não provido.
+5. Recurso Especial do contribuinte provido (REsp 1.754.668/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/10/2018, DJe 11/03/2019).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. IMPOSTO DE RENDA. ADICIONAL. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR (PAT). INCENTIVOS FISCAIS. LIMITAÇÕES. ATOS INFRALEGAIS. IMPOSSIBILIDADE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
