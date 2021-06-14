@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a).
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO O RECURSO ESPECIAL. AÇÃO POPULAR. DESAPROPRIAÇÃO PARA CONSTRUÇÃO DE RAMO DO METRÔ/DF. INDENIZAÇÃO. ACORDO. DAÇÃO EM PAGAMENTO. NULIDADE. VÍCIOS DE FUNDAMENTAÇÃO. INEXISTÊNCIA. INTIMAÇÃO PARA ALEGAÇÕES FINAIS. PREJUÍZO. AUSÊNCIA. VERIFICAÇÃO. PROVA. SUFICIÊNCIA. SÚMULA 7/STJ.
+1 A ação popular foi julgada procedente para anular o acordo de dação em pagamento alusivo àindenização por desapropriações para construção de ramo do Metrô/DF.
+2. Inexistem os vícios de fundamentação aduzidos acerca da intimação da agravante, imprestabilidade do laudo do TCDF e inconclusividade da perícia.
+3. Esbarra no óbice da Súmula 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial.") a verificação direta por esta Corte de prejuízo à parte afastado pela origem, bem como sobre a suficiência das provas consideradas pelo Tribunal local.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por Raízen Combustíveis S.A. contra decisão que conheceuem parte dorecurso especial e, nessa extensão, deu-lhe provimento apenas para fazer incidir a Selic como taxa dos juros de mora na vigência do Código Civil/2002(e-STJ, fls. 1.860-1.863).
+A parte agravante aduz, em suma: i) existência dos vícios de fundamentação alegados, acerca da não intimação da empresa insurgente para razões finais, imprestabilidade do laudo do TCDF e inconclusividade da perícia; e ii) desnecessidade de reexame fático para acolhimento da pretensão de nulidade e da insubsistência da prova.
+Requer, assim, a submissão do feito ao colegiado.
+Impugnação às fls. 1.894-1.895 e 1.897-1.907 (e-STJ).
+Processo com preferêncialegal (art. 12, § 2º, VII, do CPC/2015, combinado coma Meta 6/CNJ/2020 - "Identificar e julgar até 31/12/2020: 95% dos recursos oriundos de ações coletivas distribuídos a partir de 1º/1/2015").
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO O RECURSO ESPECIAL. AÇÃO POPULAR. DESAPROPRIAÇÃO PARA CONSTRUÇÃO DE RAMO DO METRÔ/DF. INDENIZAÇÃO. ACORDO. DAÇÃO EM PAGAMENTO. NULIDADE. VÍCIOS DE FUNDAMENTAÇÃO. INEXISTÊNCIA. INTIMAÇÃO PARA ALEGAÇÕES FINAIS. PREJUÍZO. AUSÊNCIA. VERIFICAÇÃO. PROVA. SUFICIÊNCIA. SÚMULA 7/STJ.
+1 A ação popular foi julgada procedente para anular o acordo de dação em pagamento alusivo àindenização por desapropriações para construção de ramo do Metrô/DF.
+2. Inexistem os vícios de fundamentação aduzidos acerca da intimação da agravante, imprestabilidade do laudo do TCDF e inconclusividade da perícia.
+3. Esbarra no óbice da Súmula 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial.") a verificação direta por esta Corte de prejuízo à parte afastado pela origem, bem como sobre a suficiência das provas consideradas pelo Tribunal local.
+4. Agravo interno a que se nega provimento.
+VOTO
+Conforme constou na decisão agravada, o acórdão recorrido tratou expressamente das matérias suscitadas, inexistindo os vícios de fundamentação aludidos. Transcrevo (e-STJ, fls. 1.861-1.862):
+Na origem, trata-se de ação popular contra acordo homologatório de indenização por desapropriação, com o propósito de construção de linha do Metrô/DF em Ceilândia.
+Inexiste a omissão acerca da intimação para alegações finais e do laudo do TCDF, tampouco obscuridade no que se refere à perícia judicial. Consignou o acórdão:
+Realmente, embora não se verifique a abertura de prazo específicopara a apresentação de alegações finais, o fato é que a empresa recorrente pôde se manifestar sobre todos os atos processuais realizados e os documentos acostados aos autos. Nesse sentido, a ausência da peça final não configura nenhum prejuízo à ré, mormente quando se limita a alegar tal situação, sem qualquer comprovação do dano causado. .. Realmente, ambos os laudos produzidos no curso da Ação Popular (fls. 62/64 e 679/692), quer porque não trazem a metodologia utilizada para a avaliação dos bens, quer porque inconclusivos, mostram-se inservíveis para esclarecer eventual disparidade entre os valores envolvidos na transação. .. O parecer técnico produzido pelo corpo técnico do Tribunal de Contas do Distrito Federal (fls. 390/425) apresenta-se extremamente detalhado, considerando elementos como a valorização dos terrenos, a correção monetária, benfeitorias e equipamentos envolvidos na desapropriação. Cumpre observar que as partes tiveram amplo acesso a esse documento, haja vista sua juntada aos autos no dia 30.01.2016 e as diversas oportunidades que tiveram de se manifestar no processo nos anos subsequentes. Sob esse aspecto, não há o que falar em ausência de intimação dos réus para se manifestarem sobre o respectivo laudo, conforme alega a apelante.
+Em seguida, analisando diretamente o mérito, em face do prequestionamento verificado das mesmas matérias, entendeu-se (e-STJ, fl. 1.862):
+No mérito, quanto à nulidade por falta de intimação, conforme se verifica do quanto transcrito, afirmou a origem que a parte teve ampla oportunidade de manifestar-se sobre o laudo administrativo, não se extraindo nulidade do ato especificamente impugnado.
+Ainda que a instância administrativa tenha desconsiderado o laudo produzido por seu corpo técnico, por entender faltar-lhe competência para a avaliação imobiliária, a instância judicial afirmou a validade e utilidade dessa mesma perícia. Ante a autonomia entre as esferas, descabe falar em influência vinculante da decisão do TCDF na apreciação judicial do laudo produzido.
+Note-se que o documento não foi apreciado apenas com fundamento em presunção de veracidade - que tampouco ficou afastada pela decisão do TCDF -, mas em cotejo com outros três laudos periciais constantes nos autos. Nesses aspectos, o recurso esbarra no óbice da Súmula 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Não há mesmo como afastar o óbice quanto à nulidade, na medida em que verificar a violação da ampla defesa demanda apreciação do prejuízo da parte, ponto que foi expressamente afastado pela origem em virtude danão manifestação oportuna de insurgência quanto ao documento juntado anos antes do julgamento. Como sabido, a jurisprudência não só exige a existência de prejuízo efetivo da parte para reconhecimento de nulidade na hipótese quanto repudia a chamada nulidade de algibeira. Afastar as conclusões da origem, no ponto, demandaria inviável alteração do substrato fático da causa.
+De modo similar, a origem fundamentou as razões de adoção do laudo do TCDF em cotejo com outras provas dos autos. Assentou-se na decisão agravada (e-STJ, fl. 1.862):
+Ainda que a instância administrativa tenha desconsiderado o laudo produzido por seu corpo técnico, por entender faltar-lhe competência para a avaliação imobiliária, a instância judicial afirmou a validade e utilidade dessa mesma perícia. Ante a autonomia entre as esferas, descabe falar em influência vinculante da decisão do TCDF na apreciação judicial do laudo produzido.
+Note-se que o documento não foi apreciado apenas com fundamento em presunção de veracidade - que tampouco ficou afastada pela decisão do TCDF -, mas em cotejo com outros três laudos periciais constantes nos autos.
+Nesse passo, correta, também aqui, a incidência do óbice sumular supra.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
