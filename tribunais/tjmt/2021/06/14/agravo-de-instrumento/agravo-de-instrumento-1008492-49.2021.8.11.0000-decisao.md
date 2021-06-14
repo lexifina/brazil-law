@@ -1,0 +1,27 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1008492-49.2021.8.11.0000 - CLASSE 202 - CNJ - PRIMAVERA DO LESTE
+Agravante : EGGER E MESQUITA ADVOGADOS ASSOCIADOS
+Agravada : Z M PADILHA - TRANSPORTES - ME
+Número do Protocolo: 1008492-49.2021.8.11.0000
+Trata-se de recurso de AGRAVO DE INSTRUMENTO interposto por EGGER E MESQUITA ADVOGADOS ASSOCIADOS contra a decisão proferida pela MMa. Juíza de Direito da 3a Vara Cível da Comarca de Primavera do Leste-MT, que nos autos do cumprimento de sentença da ação de “Busca e Apreensão” (Proc. no 0007940-73.2010.8.11.0037), ajuizada contra a agravante por Z M PADILHA - TRANSPORTES - ME, rejeitou a impugnação ao cumprimento da sentença apresentada pela agravada (cf. Id. no 55098708).
+A agravante diz que, “por erro da serventia”, foi excluída dos autos no dia 30.11.2017, e por isso deixou de receber as intimações que ocorreram a partir daquela data, inclusive quanto à sentença proferida em 25.09.2019 que extinguiu o processo por falta de promoção de atos processuais, e condenou a agravante ao pagamento de honorários sucumbenciais à agravada.
+Alega que, como não tomou ciência das intimações para dar andamento ao feito, deve ser acolhida a impugnação ao cumprimento de sentença, “declarando a nulidade de todos os atos praticados a partir de 30/11/2017, inclusive, a sentença de fls. 350 (ID 42388785 - Pág. 168) e os demais atos após a sentença, por conseguinte, seja julgado extinto sem resolução do mérito, o cumprimento de sentença apresentado em ID 42388785 - Pág. 215/217, por ausência de título executivo judicial, pela ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo, bem como, por ausência de legitimidade e interesse processual, nos moldes do art. 484, IV e VI, do Código de Processo Civil” (cf. Id. n. 87444961).
+É o breve relatório.
+Os autos versam sobre o pedido cumprimento de sentença, por meio do qual a agravada objetiva o recebimento do valor referente aos honorários advocatícios de 10% sobre o valor da causa, fixados na sentença vinculada ao Id. n. 42388785 – p. 169, que extinguiu a ação de busca e apreensão por falta de promoção dos atos processuais que incumbiam à agravante.
+A agravante apresentou impugnação, sustentando a nulidade da sentença, e consequentemente, do cumprimento de sentença, por falta de intimação da agravante quanto aos atos praticados anteriormente à sentença.
+A decisão agravada indeferiu o pedido pelos seguintes fundamentos:
+“Compulsando o feito, verifico que não merece guarida a alegação de nulidade da execução, sob o argumento de ausência de intimação da executada quanto a sentença proferida.
+Outrossim, consigno que a exequente pleiteou o cumprimento de sentença em outubro de 2014, com última manifestação no feito em julho de 2015, sendo que foi intimada para dar prosseguimento a execução e manteve-se inerte, conforme certidões emitidas em dezembro de 2016 e agosto de 2017, de id n. 42388785 (págs. 99 e 104).
+Assim, em que pese os erros ocasionados em razão da ausência de alteração por parte da Secretaria, conforme consignado na decisão retro, a parte exequente, apesar de intimada, deixou de promover os atos e diligências que lhe incumbia para dar prosseguimento ao feito, permanecendo o processo parado durante mais de 01 (um) ano, razão pela qual não há que se falar em nulidade na sentença proferida.
+Via de consequência, dou por prejudicada a análise dos demais pedidos, vez que dependentes de acolhimento do principal.
+Por fim, o artigo 486 do Código de Processo Civil dispõe que o pronunciamento judicial que não resolver o mérito não obsta a que a parte proponha de novo a ação.
+Desse modo, REJEITO a impugnação apresentada pela executada”.
+Como se vê, a decisão agravada rejeitou a arguição de nulidade, porque, antes mesmo da prolação do ato que indevidamente excluiu do processo a aqui agravante, ocorrido em 30.11.2017, por erro do escrivão, a agravante já havia sido intimada para dar andamento ao feito, sob pena de extinção (cf. Id. n. 42388785 – p. 100 dos autos de origem), mas deixou transcorrer o prazo (cf. Id. n. 42388785 – p.103 dos autos de origem), ou seja, mesmo não tendo sido intimada logo antes da sentença, já havia sido intimada para apresentar manifestação, e alertada de que o descumprimento causaria a extinção do feito.
+Quanto a isso, a agravante nada diz, se limitando a dizer que a sentença é nula por falta de intimação dos atos que ocorreram após ela ter sido indevidamente excluída do processo.
+Portanto, como houve intimação da agravante para dar andamento ao feito sob pena de extinção, e, em agosto de 2017 transcorreu o prazo sem qualquer manifestação, não há fundamentos suficientes para obstar os efeitos da decisão agravada.
+Assim, admito a interposição recursal tal como efetivada (CPC, art. 1.019), pelo que recebo e autorizo o processamento do agravo por instrumento, mas INDEFIRO os pleitos de antecipação da pretensão recursal e de concessão de efeito suspensivo, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, especialmente pelo contraponto ofertado pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se a agravada, na forma do art. 1.019, II, do CPC, para que apresente as contrarrazões.
+Cuiabá-MT, 14 de junho de 2021.
+Des. JOÃO FERREIRA FILHO
+Relator
