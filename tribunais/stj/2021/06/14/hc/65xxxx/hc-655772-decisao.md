@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de João Carlos de Souza- condenado como incurso no crime de roubo majorado-, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou a ordem ali impetrada (Habeas Corpus n. 2051009-35.2021.8.26.0000), mantendo a segregação cautelar imposta ao paciente pelo Juízo de Direito da 14ª Vara Criminal da comarca da Capital/SP (Autos n. 0001844-64.2016.8.26.0635).
+Alega a impetrante, em síntese, constrangimento ilegal na negativa de o paciente recorrer em liberdade, ao argumento de quefoi determinada a expedição de Mandado de Prisão, em que pese tenha respondido ao processo em liberdade, ainda que apenas parte dele, bem como que o pacientefoi colocado em liberdade por ordem do próprio Juízo que, depois, em sentença, decretou sua prisão. No mais, não houve qualquer referência ou menção aos requisitos do art.312 do Código de Processo Penal (fl. 8).
+Postula, então, a concessão da ordem para que seja deferida o direito de recorrer em liberdade.
+Liminar indeferida (fls. 67/68), o Ministério Público Federal ofereceu parecer pelo não conhecimento (fl. 74).
+É o relatório.
+Busca a impetração a revogação da prisão preventiva decretada na sentençacondenatória.
+O art. 387, § 1º, do Código de Processo Penal, dispõe que o juiz devedecidir, por ocasião da prolação da sentença, de maneira fundamentada,acerca da manutenção ou, se for o caso, da imposição de prisão preventivaou de outra medida cautelar, sem prejuízo do conhecimento da apelaçãointerposta.
+Ao decretar a prisão preventiva, o Juiz de piso teceu os seguintesfundamentos (fl. 34 - grifo nosso):
+ ..
+O réu não poderá recorrer em liberdade pelo fato de ter descumprido as medidas cautelares que lhe foram impostas para o gozo da liberdade provisória, encontrando-se em local incerto e não sabido, motivo pelo qual foi declarado revel, dando mostras suficientes de que pretende se furtar à aplicação da lei penal, bem como de que não se encontra apto ao convívio social, sendo de rigor acautelar o meio social e a própria credibilidade na Justiça.
+ ..
+O Tribunal a quo, no julgamento do habeas corpus, manteve a segregação cautelar ao afirmar que (fls. 58/59):
+ ..
+Ora, na audiência de instrução e julgamento realizada em 23 de agosto de 2016, reconhecendo-se o excesso de prazo, o paciente obteve a liberdade provisória, mediante as medidas cautelares elencadas no artigo 319, incisos I, III, IV e V, do Código de Processo Penal, consistentes no comparecimento mensal em Juízo, para informar e justificar as suas atividades; proibição de manter contato com as vítimas e seus familiares; proibição de ausentar-se da Comarca, sem autorização judicial; bem como no recolhimento domiciliar de segunda-feira à sexta-feira no período compreendido entre as 20 horas e as 06 horas do dia seguinte, e integral nos finais de semana, tendo sido determinada a expedição de alvará de soltura, com a advertência de que".. O RÉU DEVERÁ SER CIENTIFICADO DE QUE NO PRAZO DE 48 (QUARENTA E OITO) HORAS, ESTÁ OBRIGADO A COMPARECER EM CARTÓRIO, a fim de assinar o respectivo Termo de Compromisso, cujas condições já foram estabelecidas no item anterior, observando-se que o seu descumprimento, implicará no imediato restabelecimento da custódia cautelar.." (fls. 95/98, dos autos originários).
+O paciente foi solto e assinou o termo de compromisso aos 29 de agosto de 2016 (fls. 100, idem).
+Posteriormente, ao ser tentada a intimação do suplicante para participar da audiência de instrução e julgamento para o dia 04 de março de 2021, o Sr. Oficial de Justiça certificou em 23 de fevereiro do mesmo ano que ele não mais residia no local declinado nos autos e estava em lugar incerto (fls. 153, idem), o que resultou na decretação de sua revelia (fls. 10/21).
+Afrontados, pois, os artigos 282, § 4º, e 312, § 1º, do Código de Processo Penal, tornando irrelevante a circunstância de ter respondido o processo em liberdade.
+ ..
+Como se vê, a prisão preventiva foi decretada na sentença condenatória emrazão de o réu ter descumprido as medidas cautelares anteriormente impostas ese tornado revel durante o curso processual,fundamentação idônea e harmônica com ajurisprudência desta Corte Superior.
+Com efeito, não há falar em constrangimento ilegal quando a custódia está devidamente justificada, especialmente na garantia de aplicação da lei penal, uma vez que, beneficiado com a liberdade provisória, o réu descumpriu o compromisso firmado, deixando de informar a mudança de endereço, inviabilizando a regularidade da relação processual. Nos termos dos arts. 282, § 4º, e 312, parágrafo único, ambos do Código de Processo Penal, o descumprimento das medidas cautelares impostas quando deferida a liberdade provisória constitui motivação idônea para justificar a necessidade da segregação antecipada. Precedentes(RHC n. 80.603/PR, Ministro JORGE MUSSI, QUINTA TURMA, julgado em 18/4/2017, DJe 26/4/2017).
+Ainda nesse sentido:HC n. 647.929/MG,da minha relatoria, Sexta Turma, DJe 28/4/2021;HC n. 535.878/SC,Ministra Laurita Vaz, Sexta Turma, DJe 25/6/2020;eRHC n. 106.984/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJe 1º/3/2019.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS.ROUBO SIMPLES. SENTENÇA CONDENATÓRIA. DECRETAÇÃO DA PRISÃO PREVENTIVA. DESCUMPRIMENTO DE MEDIDA CAUTELAR ANTERIORMENTE IMPOSTA. REVELIA NO CURSO DO PROCESSO.INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
