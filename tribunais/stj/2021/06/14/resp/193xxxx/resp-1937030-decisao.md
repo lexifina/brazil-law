@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão que negou provimento a agravo em execução interposto peloMinistério Público, mantendo decisão que aplicara o percentual de 40% para progressão de regime, em crime hediondo.
+Aponta o recorrente violação do art. 112, inciso VII, da Lei de Execução Penal, bem como divergência jurisprudencial. Sustenta que, sendo o réu reincidente pela prática de crime hediondo, deve incidir a fração de 3/5, ainda que não se trate de reincidência específica.
+Requer o provimento do recurso para determinar a retificação do cálculo de pena, no percentual de 60%. Contrarrazoado e admitido, manifestou-se o Ministério Público pelo provimento do recurso especial.
+Insurge-se o recorrente contra acórdão que negou provimento a agravo em execução, mantendodecisão que aplicara o percentual de 40% para progressão de regime, em crime hediondo,nos termos da seguinte ementa (fl. 53 ):
+AGRAVO EM EXECUÇÃO PENAL. INSURGÊNCIA DO MINSTÉRIO PÚBLICO CONTRA DECISÃO QUE DEFERIU A PROGRESSÃO DE REGIME ABERTO AO REEDUCANDO, COM A UTILIZAÇÃO DO PATAMAR DE 2/5 (DOIS QUINTOS) PARA O CRIME EQUIPARADO A HEDIONDO. ALMEJADA A APLICAÇÃO DA FRAÇÃO DE 3/5 (TRÊS QUINTOS), EM RAZÃO DA REINCIDÊNCIA GENÉRICA. NÃO ACOLHIMENTO. LACUNA NA NOVA REDAÇÃO DO ART. 112 DA LEP, CONFERIDA PELA LEI N. 13.964/2019 (PACOTE ANTICRIME). INTERPRETAÇÃO "IN BONAM PARTEM" QUE SE MOSTRA ADEQUADA. PATAMAR DE 60% (3/5) QUE DEVE SER APLICADO SOMENTE AOS REEDUCANDOS REINCIDENTES ESPECÍFICOS EM DELITO HEDIONDO OU EQUIPARADO. PRECEDENTES DESTA CÂMARA E DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO CONHECIDO E NÃO PROVIDO.
+A orientação adotada corrobora o entendimento da Terceira Seção desta Corte, no REsp 1.910.240, representativo da controvérsia, julgado em 26/5/2021 (DJe 31/05/2021), de relatoria do Ministro Rogério Schietti Cruz, de que "É reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante" (Tema 1084).
+Incide, portanto, a Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
