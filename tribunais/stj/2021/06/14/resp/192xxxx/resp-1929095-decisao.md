@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por AGA Studio Comércio de Móveis Ltda. e outro, no qual se alega violação do art. 1.015, incisos II e XI, do Código de Processo Civil. Oacórdão recorrido está retratado na seguinte ementa (fl. 65):
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. HIPÓTESES DE CABIMENTO. INVERSÃO DO ÔNUS DA PROVA. AGRAVO NÃO CONHECIDO.
+1. O artigo 1.015, XI, do CPC, somente autoriza a interposição de agravo de instrumento em decisões que determinem a redistribuição do ônus da prova nos termos do artigo 373, § 1º, do mesmo diploma legal, ou seja, quando determinada a inversão pelo próprio juízo diante das peculiaridades da causa.
+2. Não está presente a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação, e, portanto, a irresignação da parte agravante deve ser suscitada em preliminar de apelação, se ainda entender cabível (art. 1009, § 1º, CPC/15).
+3. Agravo interno desprovido.
+Sustentam os recorrentes, em síntese, que é cabível a interposição de agravo de instrumento contra decisão interlocutória que disponha acerca dainversão do ônus da prova em ações que tratam de relação de consumo.
+Assim posta a questão, passo a decidir.
+Com efeito, registro que o acórdão recorrido está em dissonância com ajurisprudência desta Corte, que firmou o entendimento no sentido de que a decisão interlocutória que indefere o requerimento de inversão do ônus da prova em ação de consumo é imediatamente recorrível por agravo de instrumento. A propósito, confira-se:
+CIVIL E DIREITO DO CONSUMIDOR. PROCESSUAL CIVIL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZATÓRIA. DECISÃO INTERLOCUTÓRIA QUE INDEFERE O REQUERIMENTO DE INVERSÃO DO ÔNUS DA PROVA EM AÇÃO DE CONSUMO. RECORRIBILIDADE IMEDIATA POR AGRAVO DE INSTRUMENTO.POSSIBILIDADE. HIPÓTESE DE CABIMENTO QUE ABRANGE QUAISQUER MODIFICAÇÕES JUDICIAIS DO ÔNUS DA PROVA AUTORIZADAS PELO LEGISLADOR OU FUNDADAS EM DISTRIBUIÇÃO DINÂMICA. RECURSO CABÍVEL DAS DECISÕES INTERLOCUTÓRIAS QUE DEFEREM E DAS QUE INDEFEREM A REDISTRIBUIÇÃO DO ÔNUS DA PROVA. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1 - Ação proposta em 22/05/2014. Recurso especial interposto em 20/07/2018 e atribuído à Relatora em 06/05/2019.
+2 - O propósito recursal é definir se a decisão interlocutória que indefere o requerimento de inversão do ônus da prova em ação de consumo é imediatamente recorrível por agravo de instrumento com fundamento no art. 1.015, XI, do CPC/15.
+3 - É cabível o agravo de instrumento nas hipóteses de distribuição judicial do ônus da prova, seja nas situações em que há inversão autorizada pelo legislador (p. ex., art. 6º, VIII, do CDC, combinado com art. 373, § 1º, primeira parte, do CPC/15), seja com base na cláusula aberta de distribuição dinâmica do art. 373, § 1º, segunda parte, do CPC/15, tratando-se de regras de instrução com as quais o julgador deve se preocupar na fase instrutória. Precedente.
+4 - A partir do exame dos arts. 1.015, XI, e 373, § 1º, ambos do CPC/15, as decisões interlocutórias que deferem e também as decisões que indeferem a modificação judicial do ônus da prova são imediatamente recorríveis por agravo de instrumento, tendo em vista que o conteúdo normativo da referida hipótese de cabimento - "versar sobre redistribuição do ônus da prova nos termos do art. 373, §1º" - não foi objeto de limitação pelo legislador.
+5 - O provimento do recurso especial por um dos fundamentos torna despiciendo o exame dos demais suscitados pela parte. Precedentes.
+6 - Recurso especial conhecido e provido.
+(REsp 1.802.025/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 17.9.2019, DJe de 20.9.2019)
+Em face do exposto, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem para que prossiga no julgamento doagravo de instrumento como entender de direito, superada a questão acimatratada.
+Intimem-se.
