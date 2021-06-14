@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESPÓLIO DE ANTÔNIO ORLANDO DE QUEIROZ MACEDO contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região assim ementado:
+DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA. SERVIDOR PÚBLICO ESTADUALAPOSENTADO. AUSÊNCIA DE RETENÇÃO NA FONTE. CAPACIDADETRIBUTÁRIA ATIVA DA UNIÃO PARA EXIGIR O IMPOSTO DE RENDA. TRIBUTO ADMINISTRADO PELA SECRETARIA DA RECEITA FEDERAL DOBRASIL. APELAÇÃO PROVIDA.
+A parte recorrente alega, além da ocorrência de divergência jurisprudencial (REsp 989.419/RS), violação dos arts. 485 do CPC/2015 e do art. 9º da Lei n. 6.830/1980, sustentando, em síntese, a ilegitimidade ativa da União Federal para cobrar imposto de renda incidente sobre aposentadoria de servidor do Estado do Espírito Santo e recolhido na fonte pagadora, uma vez que a arrecadação do tributo pertence ao Estado (fls. 230/245).
+Contrarrazões apresentadas pela FAZENDA NACIONAL, nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento.
+Inadmitido o recurso, a parte interpôs o presente Agravo em Recurso Especial.
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 179/193):
+Trata-se de execução fiscal proposta pela UNIÃO FEDERAL/FAZENDANACIONAL, que objetiva é a cobrança de créditos tributários de Imposto de Renda incidente sobre os proventos de aposentadoria pagos pelo Regime Próprio de Previdência Social do Estado do Espírito Santo.
+Entendeu o juízo de origem que, como a execução fiscal objetiva a cobrança de créditos tributários relativos ao Imposto de Renda incidente sobre os proventos de aposentadoria por tempo de contribuição pagos pelo Regime Próprio de Previdência dos Servidores do Estado do Espírito Santo (IPAJM), de que o executado era beneficiário, o sujeito ativo da obrigação tributária seria o Estado do Espírito Santo, não tendo a União Federal legitimidade para a sua cobrança.
+ ..
+O Superior Tribunal de Justiça firmou orientação, plasmada na Súmula 447, no sentido de que "os Estados e o Distrito Federal são partes legítimas na ação de restituição de imposto de renda retido na fonte proposta por seus servidores".
+Assim, nas ações em que se pleiteia a restituição de imposto de renda retido na fonte incidente sobre a remuneração de servidores públicos estaduais e distritais, a legitimidade passiva ad causam será do ente público responsável pelo pagamento da remuneração.
+Isso porque é o ente público estadual ou distrital que compõe a relação jurídica material nas ações de repetição do indébito tributário, na medida em que, efetuada a retenção do imposto de renda pela fonte pagadora da remuneração do servidor, somente ela poderá promover a restituição do montante indevidamente retido, dando cumprimento a eventual decisão judicial favorável ao contribuinte.
+Tal entendimento, no entanto, não é aplicável aos casos em que, por qualquer ordem de razões, o imposto devido não tenha sido objeto de retenção pela fonte pagadora.
+Como visto, compete à União Federal instituir impostos sobre renda e proventos de qualquer natureza, nos termos do art. 153, I, da CRFB/88.
+O fato de o montante relativo ao imposto de renda apurado e não retido pela fonte pagadora da remuneração do servidor estadual ser destinado, após a sua apuração e recolhimento, aos cofres públicos estaduais (art. 157, I, da CF88) não descaracteriza a competência da União Federal para a instituição, fiscalização e arrecadação do tributo devido, tendo em vista ser ela a titular da capacidade tributária ativa relativa à exação.
+É que, nessas circunstâncias, a relação jurídica tributária tem como parte credora a União Federal, na qualidade de sujeito ativo da obrigação tributária, nos termos do artigo 119 do CTN, e o devedor obrigado por lei ao adimplemento do tributo, que integra a relação obrigacional como sujeito passivo (arts. 121 e 128, CTN).
+Assim, caso o imposto de renda não seja objeto de retenção na fonte na época própria pelo ente público pagador, caberá à União Federal a atribuição de fiscalizar e autuar o contribuinte devedor, com vistas a verificar a ocorrência do fato gerador e calcular o montante do tributo devido, para, em seguida, exigir o pagamento do crédito tributário correspondente, sem prejuízo do posterior repasse do produto da arrecadação ao ente federativo titular da receita.
+Essa é a orientação prevalecente na jurisprudência dos tribunais regionais federais, conforme se pode verificar da leitura dos seguintes arestos
+Pois bem.
+Porque o produto da arrecadação lhes é destinado, os Estados têm legitimidade passiva para as ações de repetição de indébito do imposto de renda (da União), retido na fonte, por eles, suas autarquias e fundações. Devem, pois, responder pela restituição do montante que retiveram, indevidamente. Nesse sentido: REsp 989.419/RS, repetitivo, Rel. Ministro Luiz Fux, Primeira Seção, julgado em 25/11/2009, DJe 18/12/2009.
+No caso dos autos, o órgão julgador decidiu a respeito da pretensão executória do imposto, vinculando-a à competência tributária (tema constitucional), e não a respeito de legitimidade para restituir o montante indevidamente recolhido.
+Nesse contexto, além de não haver similitude fático-jurídica reveladora da divergência, nota-se que o recurso especial não serve à pretensão da parte recorrente, pois não serve à revisão de acórdão cuja conclusão se apoia em fundamentação constitucional.
+Ante o exposto, conheço do agravo para não conhecerdo recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
