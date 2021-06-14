@@ -1,0 +1,27 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela União, com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão do Tribunal Regional Federal da 4ª Regiãoassim ementado (e-STJ, fl. 109):
+EMBARGOS À EXECUÇÃO FISCAL. CONTRIBUIÇÕES PREVIDENCIÁRIAS. SERVIDOR PÚBLICO MUNICIPAL. LICENÇA PARA EXERCÍCIO DE MANDATO ELETIVO. MANUTENÇÃO DA FILIAÇÃO OBRIGATÓRIA AO REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL (RPPS). PLANO DE SEGURIDADE SOCIAL DOS CONGRESSISTAS (PSSC). FILIAÇÃO FACULTATIVA. CONTRIBUIÇÕES DESTINADAS AO REGIME PREVIDENCIÁRIO DE ORIGEM. DIREITO DE COBRANÇA.
+O licenciamento para o exercício de mandato eletivo não é causa de perda da condição de segurado obrigatório do RPPS do Município de Porto Alegre, de modo que, durante o período do mandato, o servidor municipal ainda permanece vinculado ao regime próprio (arts. 23 e 24 da Lei Complementar Municipal nº 478, de2002, e art. 1º-A da Lei nº 9.171, de 1998), devendo, portanto, a cessionária (União, no caso) restituir à unidade gestora do RPPS da cedente (PREVIMPA) as contribuições previdenciárias patronais e as devidas pelo segurado, uma vez que responsável pela remuneração do servidor cedido (arts. 13 e 32 da Orientação Normativa nº 02, de 2009, da Secretaria de Políticas de Previdência Social).
+Os embargos de declaração opostos contra a aludida decisão foram improvidos.
+A recorrente alega a existência de contrariedade aos arts. 2º, 4º, I, 11 e 13 da Lei n. 9.506/1997, por entender que "tratando-se de servidor público afastado de seu cargo por força do comando constitucional do artigo 38 e empossado em mandato eletivo, participante do PSSC, nãose encontra obrigado a continuar vertendo contribuições para o regime próprio de origem" (e-STJ, fl. 169).
+Admitido o recurso especial na origem, os autos vieram-me conclusos.
+É o relatório.
+A questão relativa à incidência de contribuição previdenciária sobre os rendimentos pagos aos exercentes de mandato eletivo, decorrentes da prestação de serviços à União, tem cunho constitucional, pelo que a sua análise pelo Superior Tribunal de Justiça implica usurpar a competência do Supremo Tribunal Federal.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA SUBSTITUTIVA. REVOGAÇÃO DA MEDIDA PROVISÓRIA 774/2017 PELA MEDIDA PROVISÓRIA 794/2017. PERDA DA EFICÁCIA DE AMBAS EM DATAS DISTINTAS.NORMA APLICÁVEL. INTERPRETAÇÃO DO ART. 63, §§ 3º E 11, DA CONSTITUIÇÃO FEDERAL DE 1988. MATÉRIA CONSTITUCIONAL. APRECIAÇÃO RESERVADA AO STF. DEFICIÊNCIA NA INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA 284/STF, APLICADA POR ANALOGIA.
+1. Cuida-se, na origem, de Mandado de Segurança impetrado por Contabilizei Tecnologia LTDA., objetivando o reconhecimento do direito ao pagamento da contribuição previdenciária sobre a receita bruta até o final do exercício de 2017, nos moldes da Lei 12.546/2011, sem as alterações produzidas pela MP 774/2017.
+2. A questão de fundo gira em torno da interpretação e aplicação do art. 62, §§ 3º e 11, da Constituição Federal de 1988, matéria eminentemente constitucional. Sendo assim, é inviável a discussão, em Recurso Especial, de suposta ofensa a princípio constitucional, porquanto seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição.
+3. Ademais, a Fazenda Nacional, nas razões do Recurso Especial, não explicitou quais os artigos foram maculados. A menção de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se foram citados meramente a título argumentativo ou invocados como núcleo do Recurso Especial interposto. A ausência da indicação precisa dos dispositivos infraconstitucionais que teriam sido afrontados caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF.
+4. Recurso Especial não conhecido.
+(REsp 1.793.237/PR, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/3/2019, DJe 22/4/2019).
+PROCESSUAL CIVIL. TRIBUTÁRIO. CONTRIBUIÇÃO AO PSS ANTES DA EC N.20/98. CABIMENTO. OMISSÃO INEXISTENTE. INCONFORMISMO COM A TESE ADOTADA. PRETENSÃO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. PREQUESTIONAMENTO. IMPOSSIBILIDADE.
+1. Os embargos declaratórios somente são cabíveis para a modificação do julgado que se apresenta omisso, contraditório ou obscuro, bem como para sanar eventual erro material no acórdão, o que não ocorre na espécie.
+2. O acórdão é expressamente claro no sentido de que a exigência da contribuição previdenciária para o regime próprio de previdência social, incidente sobre os proventos dos servidores públicos aposentados e pensionistas, é cabível antes da EC n. 20/1998 e posterior à vigência da Lei n. 10.887/2004, que regulamentou a EC n.
+41/2003.
+3. Na verdade, a embargante busca, com a oposição destes embargos declaratórios, ver reexaminada e decidida a controvérsia de acordo com sua tese. Contudo, entendimento contrário ao interesse da parte e omissão no julgado são conceitos que não se confundem.
+4. A apreciação de suposta violação de preceitos constitucionais não é possível na via especial, nem à guisa de prequestionamento, porquanto matéria reservada, pela Carta Magna, ao Supremo Tribunal Federal.
+Embargos de declaração rejeitados.
+(EDcl no AgRg nos EDcl no REsp 1.263.612/PR, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 6/8/2013, DJe 14/8/2013).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
