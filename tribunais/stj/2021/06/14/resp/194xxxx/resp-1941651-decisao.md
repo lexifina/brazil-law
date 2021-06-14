@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por Associação de Amigos da Granja Vianna II - Glebas IV E V, com fundamento no art. 105, III, a e c, da Constituição Federal, contra decisão do Tribunal de Justiça do Estado de São Paulo.
+Na origem, a recorrente ajuizou ação para cobrança de taxas relativas à associação de moradores.
+A sentença afastou a preliminar de coisa julgada e julgou procedente o pedido em relação à Camila Helena Bornacina (recorrida), por considerar devida a exigibilidade da taxa associativa em virtude do advento da Lei n. 13.465/2017, sob o argumento de que a referida lei teria equiparado o Condomínio de Lotes em Condomínio Edílício.
+Interposta apelação, a Quinta Câmara de Direito Privado do Tribunal de origem deu provimento ao recurso da demandada, em acórdão assim ementado (e-STJ, fl. 272):
+DESERÇÃO. Não ocorrência. Diferença do preparo recolhida antes da intimação da parte, nos termos do disposto no artigo1.0007, §2º, do Código de Processo Civil.
+AÇÃO DE COBRANÇA. ASSOCIAÇÃO DE PROPRIETÁRIOS DE LOTES. TAXA DE MANUTENÇÃO. Coisa julgada material. Anteriores ações de cobrança de taxa de associação de moradores ,em que foi reconhecido o não cabimento da cobrança de taxa de associação de proprietários não associados. Prevalência do princípio da liberdade de associação. Entendimento firmado pelo STJ, em sede de recurso especial repetitivo (REsp nº 1.439.163). Eficácia preclusiva da coisa julgada. Art. 508, CPC. Cobrança de despesas de manutenção da associação, não especificação de serviços que tenham beneficiado a propriedade da ré. Sentença reformada para julgar extinta a ação, sem julgamento do mérito, com fundamento no artigo 485, inciso V, do Código de Processo Civil. Inversão do ônus da sucumbência. Honorários advocatícios majorados. Recurso provido.
+Nas razões do recurso especial (e-STJ, fls. 280-315), a recorrente aponta divergência jurisprudencial e violação dos arts. 884 e 1.358-A do CC/2002; 36-A da Lei 6.766/1979; 6º da LINDB, bem como ao Tema 492 do STF.
+Aduz que o princípio do enriquecimento ilícito se sobrepõe ao princípio da liberdade associativa. Afirma que a Lei 13.465/2017 equiparou as atividades desenvolvidas pela associação de moradores (condomínio de lotes) com atividades desenvolvidas pela administração de imóveis. Refuta a existência de coisa julgada, tendo em vista que as demandas propostas eram anteriores à vigência da Lei 13.465/2017.
+Apresentadas as contrarrazões (e-STJ, fls. 332-343), o apelo extremo foi admitido na origem (e-STJ, fls. 344-346), ascendendo os autos a esta Corte de Justiça.
+Brevemente relatado, decido.
+O Colegiado estadual consignou a ocorrência de coisa julgada material em razão das ações de cobrança ajuizadas anteriormente, sob a seguinte fundamentação (e-STJ, fls. 274-275):
+Pelo que se dessume dos documentos constantes dos autos, a autora ajuizou anteriormente duas ações de cobrança de taxas associativas (nº 490/95 e 0005124-96.2000.8.26.0152).
+A primeira ação foi julgada improcedente (fls.83/84), e ao recurso de apelação da autora foi dado provimento para condenar a ré ao pagamento de R$822,41, referente a condição especial prevista no contrato em sua cláusula 11ª (taxa de manutenção), tendo o acórdão firmado entendimento de que "não se cuida, pois de condomínio", bem como que "a ré, não sendo sócia, não tem obrigações junto à citada sociedade, inerentes aos associados" (fls.92/97).
+A segunda ação, foi julgada improcedente, tendo a sentença sido mantida em sede de apelação (fls.156/162).
+Com efeito, dispõe o artigo 337, parágrafos 1º, 2º e 4º, do Código de Processo Civil:
+"Art. 337.  ..
+§ 1º Verifica-se a litispendência ou a coisa julgada quando se reproduz ação anteriormente ajuizada.
+§ 2º Uma ação é idêntica a outra quando possui as mesmas partes, a mesma causa de pedir e o mesmo pedido.
+ ..
+§ 4º Há coisa julgada quando se repete ação que já foi decidida por decisão transitada em julgado".
+No caso, mera alteração do fundamento do pedido - de condição de associados para enriquecimento sem causa e advento da Lei nº 13.465/17 - não afasta a configuração da coisa julgada.
+A respeito, dispõe o artigo 508 do Código de Processo Civil: "transitada em julgado a decisão de mérito, considerar-se-ão deduzidas e repelidas todas as alegações e as defesas que a parte poderia opor tanto ao acolhimento quanto à rejeição do pedido".
+Dessa maneira, depreende-se que o Colegiado estadual julgou a lide com base no substrato fático-probatório dos autos.
+Com efeito, "é pacífica a jurisprudência desta Corte Superior no sentido de que a alteração das conclusões do Tribunal a quo no tocante à existência ou não de coisa julgada, por não haver nas demandas identidade de parte, causa de pedir e pedido, demandaria o revolvimento fático-probatório dos autos, o que encontra óbice na Súm 7 do STJ" (AgInt no AREsp 1.267.129/AM, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 07/05/2019, DJe 15/05/2019).
+Outrossim, a jurisprudência desta Casa, firmada sob o rito dos recursos repetitivos (art. 543-C do CPC/1973), no julgamento dos Recursos Especiais n. 1.439.163/SP e n. 1.280.871/SP, realizado pela Segunda Seção, em 11/3/2015, DJe de 22/5/2015, sendo o relator para acórdão o Ministro Marco Buzzi, pacificou que "as taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram".
+A propósito, confira-se a ementa dos respectivos julgados:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA - ART. 543-C DO CPC - ASSOCIAÇÃO DE MORADORES - CONDOMÍNIO DE FATO - COBRANÇA DE TAXA DE MANUTENÇÃO DE NÃO ASSOCIADO OU QUE A ELA NÃO ANUIU - IMPOSSIBILIDADE. 1. Para efeitos do art. 543-C do CPC, firma-se a seguinte tese: "As taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram". 2. No caso concreto, recurso especial provido para julgar improcedente a ação de cobrança.
+No mesmo sentido, os seguintes precedentes deste Tribunal:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. ASSOCIAÇÃO DE MORADORES. COBRANÇA DE TAXA DE MANUTENÇÃO DE NÃO ASSOCIADO OU QUE A ELA NÃO ANUIU.
+1. O reconhecimento de repercussão geral pelo STF, não enseja, automaticamente, o sobrestamento de recurso especial. Precedentes.
+2. A Segunda Seção do STJ, em sede de recurso repetitivo, pacificou o entendimento de que "as taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram". (REsp 1439163/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Rel. p/ Acórdão Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 11/03/2015, DJe 22/05/2015)
+3. Agravo regimental não provido.
+(AgInt no REsp n. 1.346.015/RJ, Relator o Ministro Luis Felipe Salomão, Quarta Turma, julgado em 18/8/2016, DJe 23/8/2016).
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ASSOCIAÇÃO DE MORADORES. AÇÃO DE COBRANÇA COM BASE EM ENRIQUECIMENTO ILÍCITO. TAXA DE MANUTENÇÃO. PROPRIETÁRIO DE IMÓVEL NÃO ASSOCIADO. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA.
+1. Consoante pacífica jurisprudência desta Corte, é possível a mitigação dos requisitos formais de admissibilidade do recurso especial diante da constatação de divergência jurisprudencial notória (EDcl no AgRg no REsp nº 1.356.554/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 22/5/2014).
+2. A Segunda Seção desta Corte possui o entendimento de que as taxas de manutenção ou melhoria, criadas por associações de moradores, não obrigam os não associados ou aqueles que a elas não anuíram (REsp nº 1.439.163/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Rel. p/ Acórdão Ministro MARCO BUZZI, Segunda Seção, julgado sob o rito dos recursos repetitivos, DJe 22/5/2015).
+3. Não há que se falar em enriquecimento ilícito do recorrido porque a existência de associação, congregando moradores com o objetivo de defesa e preservação de interesses comuns em área habitacional, não possui o caráter de condomínio, pelo que, não é possível exigir de quem não seja associado, nem aderiu ao ato que instituiu o encargo, o pagamento de taxas de manutenção ou melhoria (AgRg no AREsp nº 525.705/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, DJe 25/5/2015).
+4. Agravo regimental não provido.
+(AgRg no REsp n. 1.522.083/SP, Relator o Ministro Moura Ribeiro, Terceira Turma, julgado em 15/3/2016, DJe 28/3/2016).
+Destaca-se ainda que o art. 36-A da Lei 6.766/1979, o qual foi incluído pela Lei n. 13.465/2017, não se aplica ao caso dos autos, tendo em vista que a lei nova não pode retroagir para conferir à associação embargante o direito de cobrar as pretendidas despesas decorrentes de serviços condominiais, tampouco afasta a exigência de que o recorrido seja associado ou tenha aderido ao ato que instituiu o encargo.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 1% sobre o valor da condenação.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ASSOCIAÇÃO DE PROPRIETÁRIOS DE LOTES. COISA JULGADA. INCIDÊNCIA DA SÚMULA 7 DO STJ. TAXA DE MANUTENÇÃO. RESP REPETITIVO N. 1.439.163/SP. TEMA 882/STJ. IMPOSSIBILIDADE DE COBRANÇA NO CASO EM CONCRETO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
