@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por NATACHA NOZARI SANTONJA BREA, à decisão de fls. 342/343, que não conheceu do recurso.
+Sustenta a parte embargante que:
+A Embargante interpôs o Recurso Especial não conhecido em de 10/11/2020, data na qual, segundo consta no site deste Egrégio Tribunal, o sistema GRU de Cobrança estava indisponível, sendo que informou na petição de interposição do recurso acerca da indisponibilidade e rogou por prazo para recolhimento.
+Assim que a parte foi intimada para recolher o valor, emitiu a guia e recolheu sem o acréscimo, pois não pode arcar com o acréscimo pretendido por ter procedido assim tão unicamente por falha do sistema judiciário (fl. 345).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Esclareça-se que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Consta dos autos que o recurso especial, interposto em 10/11/2020, não foi instruído com a guia de custas do Superior Tribunal de Justiça e o respectivo comprovante de pagamento, sob a alegação de indisponibilidade do sistema nesta Corte, impossibilitando a emissão da guia de recolhimento do preparo.
+De fato, em consulta ao sítio do STJ, há certificação de que nos dias 03/11/2020 das 15h a 10/11/2020 às 00:00, houve indisponibilidade no sistema de emissão da GRU cobrança.
+Cumpre esclarecer que, conforme previsto no art. 8º, da Resolução STJ/GP n. 2/2017, que regulamenta o recolhimento das custas nesta Corte, no caso de indisponibilidade do sistema, o prazo para recolhimento do preparo será automaticamente prorrogado para o dia útil subsequente à retomada do serviço, se a indisponibilidade ocorrer das 6h às 23h, por período superior a 60 minutos, ininterruptos ou não.
+Dessa forma, a recorrente deveria ter recolhido as custas no dia útil subsequente à retomada do serviço, que foi o dia 12/11/2020, independentemente de intimação ou reabertura de prazo, uma vez que a determinação já se encontra inserta na referida resolução. A providência não foi tomada no caso concreto.
+Percebida, no Tribunal de origem, a irregularidade, a parte foi intimada para sanar o vício, nos termos do art. 1.007, § 4º do CPC, contudo, não regularizou, uma vez que trouxe o recolhimento da forma simples.
+Portanto, não tendo cumprido a determinação, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
