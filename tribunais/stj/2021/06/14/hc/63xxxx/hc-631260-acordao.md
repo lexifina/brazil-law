@@ -1,0 +1,43 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. IRRAZOÁVEL DURAÇÃO DO PROCESSO. EXCESSO DE PRAZO PARA ADMISSIBILIDADE DO RECURSO ESPECIAL. DELONGA NÃO JUSTIFICADA. HABEAS CORPUS CONCEDIDO.
+1. Os prazos processuais devem ser computados de maneira global e o reconhecimento do excesso deve pautar-se sempre pelos critérios da razoabilidade e da proporcionalidade. Conforme a garantia prevista no art. 5º, LXXVIII, da CF/1988, a todos, no âmbito judicial e no administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+2. A Convenção Americana sobre Direitos Humanos (Pacto de San José da Costa Rica), vigente no território nacional por força do Decreto n. 678, de 6/11/1992, confere à pessoa acusada em processo criminal o " ..  direito a ser julgada dentro de um prazo razoável  .. " (art. 7º, item 5).
+3. O processamento do recurso especial revela-se tormentoso, visto que após sua interposição em abril de 2020, ou seja, há mais de um ano, ainda não há previsão de análise de sua admissibilidade pelo órgão competente, pois não conta nem mesmo com a peça de contrarrazões.
+4. Está evidenciada a injustificada e irrazoável duração do processo, paralisado há tempos sem que a defesa tenha dado causa para tanto.
+5. Habeas corpus concedido para relaxar a prisão preventiva dos pacientes e assegurar-lhes o direito de aguardar em liberdade o trânsito em julgado da condenação, sem prejuízo de fixação de medida cautelar alternativa pelo Juiz natural da causa, nos termos do art. 319 do CPP.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, conceder o habeas corpus, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ADELSON ALTINO DE SOUZA e ROGER JEAN GALINARI alegam sofrer coação ilegal em seu direito de locomoção e insurgem-se contra suposta demora na tramitação do recurso especial interposto.
+Pondera a defesa que os recursos foram protocolados em abril e, desde julho, permanecem sem movimentação no Tribunal de origem.
+Requer, por isso, a soltura dos acusados.
+Às fls. 36-72, juntaram-se informações preliminares.
+A liminar foi indeferida e as informações, prestadas.
+Às fls. 90-94, 95-100 e 175-181, a defesa requereu a reconsideração da decisão liminar.
+O Ministério Público Federal opinou pela concessão da ordem, para assegurar aos pacientes o direito de aguardar em liberdade o processamento e o julgamento do recurso especial interposto.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. IRRAZOÁVEL DURAÇÃO DO PROCESSO. EXCESSO DE PRAZO PARA ADMISSIBILIDADE DO RECURSO ESPECIAL. DELONGA NÃO JUSTIFICADA. HABEAS CORPUS CONCEDIDO.
+1. Os prazos processuais devem ser computados de maneira global e o reconhecimento do excesso deve pautar-se sempre pelos critérios da razoabilidade e da proporcionalidade. Conforme a garantia prevista no art. 5º, LXXVIII, da CF/1988, a todos, no âmbito judicial e no administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+2. A Convenção Americana sobre Direitos Humanos (Pacto de San José da Costa Rica), vigente no território nacional por força do Decreto n. 678, de 6/11/1992, confere à pessoa acusada em processo criminal o " ..  direito a ser julgada dentro de um prazo razoável  .. " (art. 7º, item 5).
+3. O processamento do recurso especial revela-se tormentoso, visto que após sua interposição em abril de 2020, ou seja, há mais de um ano, ainda não há previsão de análise de sua admissibilidade pelo órgão competente, pois não conta nem mesmo com a peça de contrarrazões.
+4. Está evidenciada a injustificada e irrazoável duração do processo, paralisado há tempos sem que a defesa tenha dado causa para tanto.
+5. Habeas corpus concedido para relaxar a prisão preventiva dos pacientes e assegurar-lhes o direito de aguardar em liberdade o trânsito em julgado da condenação, sem prejuízo de fixação de medida cautelar alternativa pelo Juiz natural da causa, nos termos do art. 319 do CPP.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+I. Contextualização
+Consta dos autos que os pacientes, presos em flagrante em 20/8/2018, foram condenados a 8 anos e 2 meses de reclusão, em regime fechado, mais multa, pela prática do delito previsto no art. 33, caput, c/c o art. 40, V, ambos da Lei n. 11.343/2006. Foi-lhes negado o direito de recorrer em liberdade.
+De acordo com os autos, após investigações acerca do tráfico de drogas provenientes do Paraguai e de Foz do Iguaçu, os réus foram abordados e tinham em depósito 34.360,00 g de maconha.
+Julgada a apelação, em 27/4/2020, a defesa interpôs recurso especial.
+II. Excesso de prazo para a admissibilidade do recurso especial
+Na hipótese, é possível verificar que os pacientes permanecem presos há quase 3 anos e, apesar de a condenação e de sua confirmação pela Corte estadual haverem ocorrido em tempo razoável, o processamento do recurso especial revela-se tormentoso, visto que, após sua interposição em abril de 2020, ou seja, há mais de um ano, ainda não há nem previsão de análise de sua admissibilidade pelo órgão competente, pois não conta nem mesmo com a peça de contrarrazões.
+Aliás, conforme consulta ao sítio eletrônico do Tribunal de origem, é de se comentar que, após delonga de 8 meses para juntada da petição recursal - a peça foi protocolada em 27/4/2020 e juntada aos autos em 2/12/2020 -, o processo aguarda a confecção das contrarrazões pela Procuradoria de Justiça, desde dezembro de 2020.
+Assim, identifico a ocorrência de flagrante ilegalidade no caso ante a evidente demora da Corte local e da acusação em dar processamento ao feito.
+Em relação ao tema, a Convenção Americana sobre Direitos Humanos (Pacto de San José da Costa Rica), vigente entre nós por força do Decreto n. 678, de 6/11/1992, confere à pessoa acusada em processo criminal o " ..  direito a ser julgada dentro de um prazo razoável  .. " (art. 7º, item 5).
+Mais ainda, o mesmo preceito legal assegura à pessoa presa o direito a "ser conduzida, sem demora, à presença de um juiz ou outra autoridade por lei a exercer funções judiciais", o que vem reforçado no item I do art. 8º, em que se outorga à pessoa submetida à persecução penal o "direito de ser ouvida, com as devidas garantias e dentro de um prazo razoável, por um juiz ou Tribunal competente".
+O tema, a propósito, tem sido objeto de inúmeros julgados da Corte Interamericana de Direitos Humanos (CIDH), inclusive de processos em que se aponta o Brasil como responsável pelo constrangimento ilegal decorrente do descumprimento do direito à razoável duração do processo. A Corte, para aferir a razoabilidade ou a irrazoabilidade do prazo excedido pelo Estado reclamado, considera a ocorrência de fatores como: (a) as circunstâncias particulares de cada caso e a complexidade do litígio; (b) a conduta processual das partes ou, mais proximamente, do acusado; (c) a atuação das autoridades responsáveis pela condução do processo, sejam elas administrativas ou judiciais. Caso Ximenes Lopes versus Brasil, sentença de 4/7/2006; Caso Nogueira de Carvalho e outro versus Brasil, sentença de 28/11/2006; Caso "La  ltima tentacion de Cristo" (Olmedo Bustos y otros), sentença de 5/2/2001; Caso do Massacre de Puerto Bello versus Colômbia, sentença de 31/1/2006; Caso López Alvarez versus Honduras, sentença de 1º/2/2006. No mesmo sentido, coloca-se a homóloga Corte Europeia de Direitos Humanos (CEDH), como, v.g., no Caso Gaglione, sentença de 7/12/2010; no Caso Imbrioscia, sentença de 24/11/1993, e no Caso Delcourt, sentença de 17/1/1970.
+Nossa Constituição da República, a seu turno, acabou por seguir o Direito Internacional e incorporou ao seu texto, por meio da Emenda Constitucional n. 45/2004, o inciso LXXVIII ao art. 5º, que assim dispõe:
+LXXVIII - a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+Dessa forma, reconheço injustificada a demora para o encerramento do feito.
+III. Dispositivo
+À vista do exposto, concedo a ordem para, diante do excesso de prazo identificado na espécie, relaxar as prisões preventivas dos acusados, se por outro motivo também não estiverem presos, ressalvada a possibilidade de nova decretação da custódia cautelar, caso demonstrada a superveniência de fatos novos que indiquem a sua necessidade, sem prejuízo de fixação de medida cautelar alternativa, nos termos do art. 319 do CPP.
