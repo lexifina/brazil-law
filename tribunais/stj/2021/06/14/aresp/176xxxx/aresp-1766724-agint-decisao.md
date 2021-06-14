@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interno interposto por DEVILLE HOTÉIS E TURISMO LTDA, contra decisão de fls. 6060/6061, proferida pela Presidência desta Corte, que não conheceu de seu recurso em razão da intempestividade do recurso especial interposto.
+Sustenta a agravante, em resumo, que "a decisão recorrida não deve permanecer irradiando efeitos, pois conforme demonstrado no recurso especial (e-STJ Fl.5953) não havia expediente forense, fato comprovado por meio da indicação das portarias do Tribunal de Justiça do Estado de São Paulo, bem como a juntada do calendário do expediente forense (e-STJ Fl.5968)" (fl. 6066).
+Requer a reconsideração da decisão agravada ou a submissão da insurgência ao órgão colegiado.
+Contrarrazões apresentadas às fls. 6104/6108.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo arts. 1.021, § 2º, 2ª parte, do CPC/15 e 259 do RISTJ, reconsidero a decisão agravada, tornando-a sem efeito, passando novamente à analise do recurso:
+Trata-se de agravo em recurso especial interposto por DEVILLE HOTÉIS E TURISMO LTDA., desafiando decisão da Presidência do Tribunal de Justiça do Estado de São Paulo, que não admitiu seu recurso especial em razão do óbice previsto na Súmula 7/STJ e, quanto a alínea c do permissivo constitucional, não demonstração da divergência jurisprudencial nos moldes legais e regimentais.
+Sustenta o agravante, em resumo: (I) a usurpação de competência do Tribunal ad quem; (II) "Com relação à alegação de que a eventual revisão do V. Acórdão recorrido importaria em ofensa à Súmula 7 do C.STJ, necessário esclarecer que não se pretende no caso em testilha ocasionar o reexame das provas já acostadas aos autos  ..  O que se pretende é dar à documentação já acostada aos autos nova valoração, ou seja, corrigir eventual erro de direito no campo probatório cometido pelas instâncias ordinárias" (fls. 6025/6026); (III) "quanto à alegação de não observância da alínea "c" do inciso III do artigo 105 da CF, esta também não merece prosperar, uma vez que se verifica das razões de Recurso Especial que foram devidamente colacionadas as ementas e trechos dos julgados através dos quais o Agravante buscava demonstrar a existência de interpretação diversa sobre o tema" (fl. 6024).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Ressalte-se ser insuficiente para infirmar a incidência da Súmula 7/STJ à espécie a afirmação da parte agravante a defender que as matéria debatidas são de direito e não de fato. Isso porque a parte agravante não declinou os motivos pelos quais, no seu entender, o referido óbice não seria aplicável ao caso concreto.
+Também quanto à alínea c, insuficiente a mera alegação de que foram transcritas as ementas e trechos dos julgados tidos por divergentes.
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP.
+ANTE O EXPOSTO, torno sem efeito a decisão de fls. 6060/6061 e não conheço do agravo.
+Publique-se.
