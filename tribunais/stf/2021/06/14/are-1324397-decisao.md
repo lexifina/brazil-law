@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    APELAÇÃO - SERVIDOR MUNICIPAL DE SANTOS - EXONERAÇÃO EM ESTÁGIO PROBATÓRIO - AÇÃO ANULATÓRIA - Pretensão inicial do servidor voltada à anulação da sua exoneração do cargo de guarda municipal, sob o argumento de que se encontra apto para o trabalho, de modo que pleiteia sua reintegração aos quadros da Prefeitura de Santos - sentença que julgou improcedente a demanda, por entender que a exoneração do servidor foi válida e atendeu ao interesse público - servidor municipal que teve licença saúde superior a 180 dias durante o estágio probatório, nos termos do art. 24, I, da Lei Municipal nº 4.623/84 e do art. 15, §2º, do Decreto Municipal nº 5.894/11 - respeito à regra prevista no art. 41, §4º da Constituição Federal e ao art. 13, VI da Lei Municipal nº 4.623/84 - servidor que, no caso concreto, não demonstrou desenvolver a produtividade mínima no desempenho da sua função, ainda mais na hipótese em que ocuparia o cargo de guarda municipal, com risco à própria integridade física e de terceiros - necessidade de manter sua exoneração - precedentes do TJSP - sentença de improcedência do feito mantida. Recurso do autor desprovido.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 1º, III, 5º, 6º, e 40, § 1º, I, da Constituição Federal.
+    Decido.
+         Analisados os autos, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+         Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJede 26/3/2018)
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJede 9/10/2020)
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 14 de junho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
