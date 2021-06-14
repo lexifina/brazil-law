@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por VALTER ALMEIDA FERREIRA JORGE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. ERRO MÉDICO. PACIENTE SUBMETIDA A PROCEDIMENTO PARA A RETIRADA DO OVÁRIO ESQUERDO. ÓRGÃO NÃO FOI RETIRADO, COM ANOTAÇÃO DE PROCEDIMENTO REALIZADO. NÃO CIENTIFICAÇÃO DA PACIENTE. FALHA DE INFORMAÇÃO. OCORRÊNCIA. DANO MORAL BEM CARACTERIZADO. "QUANTUM" PLEITEADO QUE SE MOSTROU EXAGERADO. RECURSO PARCIALMENTE PROVIDO.
+Demonstrado que não foram prestadas as devidas informações acerca do ato cirúrgico a que a paciente foi submetida, é de rigor a condenação do médico ao pagamento de compensação por danos morais, em valor que respeita aos princípios da proporcionalidade e da razoabilidade.
+Sustenta a parte recorrente, pela alínea "a" do permissivo constitucional, violação dos arts. 141 e 492, ambos do CPC, no que concerne ao julgamento extra petita, trazendo o(s) seguinte(s) argumento(s):
+O Tribunal a quo com base na prova pericial reconheceu a inexistência de nexo causal entre as dores pélvico-abdominais apresentadas pela recorrida e a preservação do ovário esquerdo. Contudo, entendeu pela existência de culpa do médico-recorrente pela falta de observância do dever de informação, uma vez que no prontuário médico foi erroneamente descrito como  realizado ooforectomia esquerda , condenando-o a pagar R 15.000,00 por danos morais.
+ .. .
+Ademais, os limites da decisão devem respeitar não apenas o pedido, mas também a causa de pedir e os sujeitos da relação processual. É o que se define como limites objetivos e subjetivos da sentença.
+ .. .
+Foi exatamente o que ocorreu no caso em tela, o Tribunal de Justiça de São Paulo ao entender pela existência de culpa pela falha no dever de informação extrapolou os limites da lide, condenando o Recorrente em pedido não deduzido pela parte, surpreendendo-o e impedindo-o de impugnar o alegado na fase de instrução. (fls. 341/343).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem, nos embargos de declaração, se manifestou nos seguintes termos:
+Não foi proferida decisão de natureza diversa da pedida; não se condenou a parte em quantidade superior ou em objeto diverso do que lhe foi demandado. Pelo contrário, o mérito foi decidido nos limites propostos pelas partes e a decisão examinou toda a amplitude dos pedidos formulados.
+Ao contrário do que tenta fazer crer o embargante, é possível sim inferir da causa de pedir a falha de informação e, por essa razão, ele foi corretamente condenado ao pagamento de indenização por danos morais à embargada (fls. 333/334).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
