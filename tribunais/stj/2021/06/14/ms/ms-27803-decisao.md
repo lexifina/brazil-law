@@ -1,0 +1,30 @@
+DECISÃO
+Vistos, etc.
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por Lúcia de Fátima Vasconcelos de Almeida, apontando como autoridade coatora o Comandante da Aeronáutica.
+Narra a impetrante, em síntese, que a Junta Regularde Saúde vinculada ao Comando da Aeronáutica reconheceu a doença isentiva do imposto de renda, mas indeferiuo implemento imediato do benefício fiscal.
+Requer a concessão de medida judicial com vistas a impedir os descontos do tributo em seu contracheque.
+É o relatório.
+Entendo que o presentewritnão merece prosseguimento nesta instância.
+A competência originária desta Corte Superior para o julgamento de mandados de segurança está taxativamente fixada no art. 105, I,b, da Constituição Federal nestes termos:
+Art. 105. Compete ao Superior Tribunal de Justiça:
+I - processar e julgar, originariamente:
+ ..
+b) os mandados de segurança e oshabeas datacontra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+Na hipótese examinada, embora a parte impetrante tenha indicado como autoridade coatora o Comandante da Aeronáutica, não comprovou qual seria o suposto ato ilegal praticado pela referida autoridade.
+Tal consideração afasta a competência constitucionalmente atribuída a este Tribunal Superior para o julgamento domandamus,uma vez que o ato assinalado como coator partiu da Subdiretoria de Pagamento de Pessoal,autoridade que não figura entre as incluídas com foro nesta Casa.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ISENÇÃO DO IMPOSTO DE RENDA. SUSPENSÃO. ATO PRATICADO POR COMANDANTE DA 10ª REGIÃO MILITAR. INCOMPETÊNCIA DO STJ. SÚMULA 510/STF.
+1. Na espécie, apesar de apontar como autoridade coatora o Comandante do Exército, a parte impetrante insurge-se contra o ato que determinou a suspensão da isenção do imposto de renda, praticado pelo Comandante da 10ª Região Militar, autoridade que não está inserida no rol constante do aludido dispositivo constitucional, motivo pelo qual se mostra evidente a incompetência desta Corte Superior de Justiça para processar e julgar este mandamus.
+2.Precedentes: AgRg no MS 22.250/DF, Rel. Ministro Humberto Martins, Primeira Seção, DJe 29/03/2016 e AgRg no MS 22.213/DF, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 01/12/2015.
+3. Agravo interno a que se nega provimento.
+(AgInt no MS 22.661/DF, Rel. Min. SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 27/9/2017, DJe 6/10/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA INDIVIDUAL.MILITAR DA RESERVA REMUNERADA DO EXÉRCITO BRASILEIRO. NEOPLASIA MALIGNA. CANCELAMENTO DA ISENÇÃO DE IMPOSTO DE RENDA. AUTORIDADE COATORA: COMANDANTE DO EXÉRCITO. ATO COATOR: ATO ADMINISTRATIVO DO CHEFE DE SUBSEÇÃO DE PROCESSO DE PAGAMENTO. INCOMPETÊNCIA DO STJ.INTELIGÊNCIA DO ART. 105, I, "B", DA CONSTITUIÇÃO FEDERAL E DA SÚMULA 510/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A competência do juízo ou tribunal para o processamento e o julgamento do mandado de segurança está diretamente relacionada à autoridade coatora, consoante o disposto nos arts. 102, I, "d", 105, I, "b" e 108, I, "d", da Constituição Federal. Dessa forma, a correta indicação da autoridade coatora é de fundamental importância para a fixação da competência do órgão que irá processar e julgar a ação mandamental.
+2. O § 3º do art. 6º da Lei 12.016/2009 é categórico ao afirmar que "considera-se autoridade coatora aquela que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática".
+3. Nada obstante o impetrante apontar como autoridade coatora o Comandante do Exército, observa-se que o ato apontado como coator foi praticado pelo Chefe da Subseção de Processo de Pagamento.
+4. Precedente deste STJ: " ..  Por meio da Portaria 1.495, de 11/12/2014, o Comandante do Exército delegou ao Chefe do Departamento-Geral de Pessoal do Exército a pratica de atos administrativos relativos à concessão de isenção do imposto de renda aos servidores aposentados em razão de acidente em serviço ou portadores de doença especificada em lei (art. 1º, inciso V, alínea "ab", item 16), o que afasta a legitimidade passiva do Comandante do Exército para figurar no polo passivo do presente mandamus.Inteligência da Súmula 510/STF: "Praticado o ato por autoridade no exercício de competência delegada, contra ela cabe o mandado de segurança ou a medida judicial". Inaplicável ao presente caso o entendimento firmado pelo Pretório Excelso no julgamento do RMS 26.959/DF, rel. Min. Menezes Direito, julg. em 26/3/2009, DJe 15/5/2009, isso porque, naquele caso a Corte Suprema reconheceu a legitimidade passiva do Ministro de Estado da Defesa e do Comandante do Exército para figurarem no polo passivo de mandado de segurança em que a parte buscava o reconhecimento de direito à isenção do imposto de renda incidente sobre proventos recebidos a título de pensão de anistia político, nos termos da Lei 10.559/2001, ao entendimento de que a folha de pagamento dos militares correria à conta do Ministério do Exército, hipótese em que as referidas autoridades possuiriam poder para determinar a interrupção dos descontos relativos ao imposto de renda feitos nos proventos do servidor, o que não é o caso, porquanto no presente feito o impetrante insurge-se contra ato administrativo que revogou isenção tributária anteriormente deferida, diante da superveniente edição da Portaria 169-DGP/2015". (AgRg no MS 22.213/DF, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 25/11/2015, DJe 1º/12/2015)
+5. É descabida a correção superveniente do polo passivo da ação mandamental, bem como a juntada de documento posterior, com o intuito de dar supedâneo a fato pretérito. Inexistindo possibilidade de correção do polo passivo, não se há de falar em competência do juízo federal de primeiro grau.
+6. Agravo interno a que se nega provimento.
+(AgInt no MS 22.648/DF, de minha relatoria, PRIMEIRA SEÇÃO, julgado em 22/2/2017, DJe 2/3/2017).
+Ante o exposto, nos termos dos arts. 10 da Lei n. 12.016/2009 e 212 do RISTJ, indefiro liminarmente a inicial do presentemandamus.
+Publique-se. Intimem-se.
