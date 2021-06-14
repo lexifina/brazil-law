@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze, Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. PLANO DE SAÚDE. PRESCRIÇÃO DE MEDICAMENTO. NEGATIVA DE FORNECIMENTO. DOENÇA COBERTA PELO PLANO CONTRATADO. ROL DA ANS. ASSENTADA NO ACÓRDÃO A EXISTÊNCIA DE CLÁUSULA CONTRATUAL ABERTA QUE PERMITIRIA A COBERTURA PLEITEADA PELA PARTE RECORRIDA. FUNDAMENTO NÃO IMPUGNADO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 283/STF. REEXAME DE MATÉRIA FÁTICA E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. ALEGADO TRATAMENTO EXPERIMENTAL. FALTA DE PREQUESTIONAMENTO. ÓBICE DAS SÚMULAS 282 E 356 DO STF.
+AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por POSTAL SAUDE - CAIXA DE ASSISTENCIA E SAUDE DOS EMPREGADOS DOS CORREIOS contra decisão assim ementada:
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. PLANO DE SAÚDE. PRESCRIÇÃO DE MEDICAMENTO. NEGATIVA DE FORNECIMENTO. DOENÇA COBERTA PELO PLANO CONTRATADO. ROL DA ANS. ASSENTADA NO ACÓRDÃO A EXISTÊNCIA DE CLÁUSULA CONTRATUAL ABERTA QUE PERMITIRIA A COBERTURA PLEITEADA PELA PARTE RECORRIDA. FUNDAMENTO NÃO IMPUGNADO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 283/STF. REEXAME DE MATÉRIA FÁTICA E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL(e-STJ fl. 885).
+A agravante alega que a Súmula 283/STFnão obsta o recurso especial pois "expressamente teceu argumentos precisos contra os termos do v. acórdão inquinado, de modo que, mesmo que se entenda que o contrato preveja cobertura superior ao Rol definido pela ANS, o tratamento médico perseguido pela parte AGRAVADA é caracterizado como experimental, visto que sua BULA não disciplina tratamento para a enfermidade que acomete a parte adversa" (e-STJ fl. 925- grifo na petição).
+Assevera que o simples fato de haver cláusula contratual aberta não a obriga a fornecer tratamento experimental.
+Além disso, sustenta que as Súmulas 5 e 7 do STJ não incidem ao caso, porque não busca o reexame de provas, mas a "qualificação jurídica das matérias de direito" (e-STJ fl. 927).
+Sem impugnação(e-STJ fl. 951).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. PLANO DE SAÚDE. PRESCRIÇÃO DE MEDICAMENTO. NEGATIVA DE FORNECIMENTO. DOENÇA COBERTA PELO PLANO CONTRATADO. ROL DA ANS. ASSENTADA NO ACÓRDÃO A EXISTÊNCIA DE CLÁUSULA CONTRATUAL ABERTA QUE PERMITIRIA A COBERTURA PLEITEADA PELA PARTE RECORRIDA. FUNDAMENTO NÃO IMPUGNADO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 283/STF. REEXAME DE MATÉRIA FÁTICA E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. ALEGADO TRATAMENTO EXPERIMENTAL. FALTA DE PREQUESTIONAMENTO. ÓBICE DAS SÚMULAS 282 E 356 DO STF.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não deve ser provido.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo argumento trazido pela parte agravante, capaz de alterar os fundamentos da decisão agravada, faz subsistir incólume o entendimento nela firmado.
+Com efeito, o Tribunala quo, soberano na análise dos elementos de fato e provas constantes dos autos, assim se pronunciou ao julgara apelação interposta pela ora agravante:
+Cumpre ressaltar que, conforme entendimento do STJ (Súmula 608), as normas do Código de Defesa do Consumidor não se aplicam à espécie em exame, porquanto se trata de operadora de plano de saúde constituída na modalidade de autogestão. Assim, o contrato em questão, de adesão por natureza, é regido pelas normas do Código Civil.
+Assim é que da redação do art. 422 do Código Civil se observa a obrigatoriedade de que os contratantes são obrigados a guardar na conclusão do contrato e em sua execução, os princípios de probidade e boa-fé.
+Guardando relação de complementariedade, o art. 424 do mesmo regramento determina a nulidade das cláusulas insertas nos contratos de adesão que frustram a viabilidade do próprio objeto do negócio ou que restrinjam a obrigação inerente à natureza do contrato.
+Nesse sentido:
+(..)
+No caso dos autos, verifica-se do Manual do Beneficiário - Plano CORREIOSSAÚDE II, colacionado no ID nº 45427973, no CAPÍTULO 11 -DA COBERTURA DO PLANO CORREIOSSAÚDE II, item 11.1, que prevê:
+11.1. O Plano CorreiosSaúde II permite que você e seu(s) dependente(s) tenham uma ampla cobertura de procedimentos com base na tabela única de cobertura estabelecida para assistência médica e odontológica, a qual oferece cobertura superior ao rol definido pela Agência Nacional de Saúde Suplementar (ANS).
+E ainda, do Regulamento do Plano CORREIOSSAÚDE II, da POSTAL SAÚDE, colacionado no ID nº 45427974, pg. 17, no CAPÍTULO 09 -SERVIÇOS COBERTOS PELO PLANO CORREIOSSAÚDE II, item 9.1:
+9.1. O Plano tem cobertura de procedimentos com base em tabela única de cobertura estabelecida, a qual oferece coberturasuperior ao rol definido pela ANS e acompanha todas as atualizações determinadas pela citada Agência Reguladora. A tabela de procedimentos cobertos pelo plano encontra-se disponível para consulta no portal da operadora.
+Como visto, a própria operadora POSTAL SAÚDE traz em seus normativos a expressa previsão de cobertura superior ao constante do rol da ANS.
+Assim, ainda que os medicamentos IPILIMUMABE associado ao NIVOLUMABE não estejam albergados no rol mínimo de cobertura da ANS, a operadora não pode valer-se da cláusula inserta em seus normativos para cooptar associados e, por outro lado, para desobrigar-se de custear o procedimento alegar que o rol da ANS vincula as obrigações do plano. Seria beneficiar-se da própria torpeza, em evidente afronta à máxima da vedação ao venire contra factum proprium, princípio base do Direito Civil.
+Desta feita, não se aplica o julgado da 4ª Turma do STJ no REsp. nº 1.733.013-PR, dada a existência de cláusula contratual aberta que permite a inserção e consequente cobertura dos procedimentos reivindicados pela autora, ainda que não inclusos no rol de procedimentos de eventos da ANS.
+Prestigia-se aqui o que foi pactuado entre as partes da avença.
+Assim, de ser mantida a sentença no ponto em que determinou a cobertura dos procedimentos pleiteados, mormente porque há também previsão contratual para a patologia acometida pela apelada. Ademais, os medicamentos possuem registro na ANVISA, diversamente do alegado pela apelante(e-STJ fls. 607/609 - grifos no acórdão).
+Diante disso, caberia à parte impugnar os fundamentos em evidência, mormente o relativo à existência de cláusula contratual aberta que permitiria a cobertura buscada pela parte recorrida e afastaria a aplicação do precedente da Quarta Turma desta Corte (REsp 1.733.013/PR), assim como o de que a operadora não pode valer-se de cláusula contratual para cooptar associados e, por outro lado, alegar que o rol da ANS vincula as obrigações do plano, para desobrigar-se de custear os remédios.
+Todavia, nas razões do agravo em recurso especial, a agravante não infirmou especificadamente os referidos fundamentos, de modo que a aplicação, por analogia, da Súmula 283/STJ é medida que se impõe.
+Insta salientar, apenas a título de esclarecimento, que somenteno presente agravo interno a agravante alegou especificamente queofato de haver cláusula contratual aberta não a obriga a fornecer tratamento experimental, porém, no momento processual oportuno, qual seja, no agravo em recurso especial, não apresentou tal argumento, operando-se a preclusão consumativa.
+De toda sorte, como dito, não houve impugnação à impossibilidade de a operadora valer-se de cláusula contratual para cooptar associados e, ao mesmo tempo, alegar que o rol da ANS vincula as obrigações do plano.
+Outrossim, em momento algum a Corte de origem emitiu juízo de valor acerca da tese de que os medicamentos em debate seriam utilizados como tratamento experimental, mostrando-se patente afalta de prequestionamento a atrair, ainda, a incidência, também por analogia, das Súmulas 282 e 356 do STF.
+Ademais, conquanto a agravante alegue que não se cuida de hipótese de incidência das Súmulas 5 e 7 do STJ, é evidente que para elidir as premissas firmadas no acórdão recorrido, bem como as conclusões a que chegou o órgão colegiado do Tribunal Estadual, mormentea de que se prestigiou o pactuado entre as partes, seria preciso revolver a matéria fática e interpretar cláusulas contratuais, providências não permitidas no âmbito do recurso especial, consoante dispõem os mencionados verbetes sumulares.
+Assim, a pretensão do recorrente não merece guarida.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
