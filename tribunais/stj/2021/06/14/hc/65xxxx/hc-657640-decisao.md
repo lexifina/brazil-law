@@ -1,0 +1,3 @@
+DECISÃO
+Tendo em vista a informação trazida pelo Ministério Público Federal, às fls. 122-123, de que o Magistrado de primeiro grau proferiu sentença, em 10/5/2021, oportunidade em que condenou o paciente ao cumprimento de 1 ano e 8 meses de reclusão, em regime inicial aberto, mais pagamento de 166 dias-multa, substituída a pena privativa de liberdade por duas restritivas de direito, além de haver lhe concedido o direito de recorrer em liberdade, fica sem objeto este writ, no qual pretendia a concessão de liberdade provisória. Assim, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado este habeas corpus.
+Publique-se e intimem-se.
