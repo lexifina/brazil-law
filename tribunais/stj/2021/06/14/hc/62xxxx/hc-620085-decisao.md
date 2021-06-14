@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se dehabeas corpus, com pedido liminar, impetrado em benefício deANDRE VICTOR RASTE NETO, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAISno julgamento do HC n.1.0000.20.479029-9/000.
+Extrai-se dos autos que o paciente foi preso em flagrante por ter supostamente praticado o delito tipificado no art.art. 157, §2º, inciso II do Código Penal (roubo qualificado). Referida custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrouhabeas corpusperante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS - ROUBO MAJORADO - REVOGAÇÃO DA PREVENTIVA - IMPOSSIBILIDADE - NÃO REALIZAÇÃO DE AUDIÊNCIA DE CUSTÓDIA - DISPENSA MOTIVADA - PRISÃO DOMICILIAR - CORONAVÍRUS - INADEQUAÇÃO - MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - INSUFICIENTES. 1. Diante da gravidade concreta do crime que, por si só, evidencia a periculosidade do agente ínsita na conduta supostamente praticada, a saber, roubo perpetrado na companhia de comparsa e mediante a utilização de simulacro de arma de fogo em estabelecimento comercial, a manutenção da preventiva é medida que se impõe. 2. Teria confessado informalmente a prática delitiva, sem olvidar que foi reconhecido pelos ofendidos como sendo um dos autores do roubo. 3. É certo que, na ADPF 347, o STF atribuiu à audiência de custódia o status de direito subjetivo do preso, mas, no HC 186.421, o Ministro Celso de Mello ponderou sua dispensa motivada, assim como ocorreu no presente caso. 4. Não se mostra possível a concessão de prisão domiciliar, na medida em que as disposições contidas na Portaria Conjunta n.º 19/PRTJMG/2020 não têm efeito vinculante, devendo ser avaliadas as circunstâncias de cada caso concreto, tal como feito pelo Juízo monocrático. 5. Não comprovou residência fixa no distrito da culpa, sendo a prisão necessária para garantir a ordem pública e a instrução criminal. 6. Ordem denegada"(fl. 13).
+No presente mandamus, a defesa constrangimento ilegal decorrente da manutenção da prisão preventiva. Sustenta a insuficiência de fundamento da decisão que decretou a custódia, ao tempo que ressalta o caráter provisório da prisão, a qual não pode representar cumprimento antecipado de pena. Salienta a necessidade de revisão da prisão ante o teor da Recomendação n. 62/2020.
+Pretende, em liminar e no mérito, a revogação da prisão.
+Indeferido o pedido de liminar (fls. 25/26) e prestadas as informações solicitadas (fls. 35/51); o Ministério Público Federal opinou pela prejudicialidade da impetração (fls.673/675).
+É o relatório.
+Decido.
+O presente writestá prejudicado.
+Isso porque, de acordocom as informações obtidas na página eletrônica do Tribunal de origem, verifica-se que, em 30/11/2020, nos autos da Ação Penal n. 0083396-91.2020.813.0079, sobreveio sentença condenando o recorrente à pena de 7 anos, 1 mêse 3 dias de reclusão, em regime semiaberto, negado o direito de recorrer em liberdade.
+Contudo, o Juízo das Execuções, em 25/5/2021, autorizou o cumprimento da reprimenda em regime domiciliar, tendo sido expedidoalvará de soltura em favor do paciente no mesmo dia.
+Ante o exposto, com fundamento no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
