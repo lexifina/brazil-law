@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interno interposto por SHIGENORI KOBA contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especialmanejado em razãoda inadmissão, peloTribunal Regional Federal da 3ª Região, de recurso especialque impugna acórdão assim ementado:
+PREVIDENCIÁRIO. AGRAVO INTERNO. DESAPOSENTAÇÃO. QUESTÃO PACIFICADA PELO STF. RE 661.256/SC. IMPOSSIBILIDADE DE DESAPOSENTAÇÃO. AGRAVO IMPROVIDO.
+1. Questão pacificada pelo C. Supremo Tribunal Federal, no RE661.256/SC, submetido à sistemática de repercussão geral estabelecida no artigo 543-B, do CPC/73, decidindo pela impossibilidade de recálculo do valor da aposentadoria por meio da denominada desaposentação.
+2. Procedimento que contraria frontalmente os princípios constitucionais da solidariedade do sistema previdenciário e a garantia do ato jurídico perfeito.
+3. Agravo interno desprovido.
+Nas razões dorecurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional, aponta orecorrente, ora agravante, violação aos arts.1022, II, do CPC/2015; . 115, II, c/c §1º da Lei nº8.213/91.
+Aponta negativa de prestação jurisdicional, em especial, omissão acerca de tese de "desnecessidade da devolução de quaisquer valores percebidos a título de benefício previdenciário, em decorrência de decisão judicial provisória, posteriormente revogada, em razão de sua natureza alimentar".
+Afirma que "na descrição das hipóteses de desconto dos benefícios previdenciários, cogita apenas dos procedimentos administrativos em que ocorreu pagamento além do devido, sendo que o Decreto nº 3.048/1999 também o faz, quando focaliza a presença de erro ou não da Previdência Social para definir a forma de reembolso (artigo 154), não havendo qualquer referência aos processos judiciais.".
+Não foram apresentadascontrarrazões.
+Após juízo negativo de admissibilidade do recurso especial, ascenderam os autos por força de agravo.
+A Presidência do STJ não conheceu do agravo por considerar o recurso especial intempestivo.
+Nas razões do agravo interno, o recorrente argumenta que seu agravo em recurso especial preenche os requisitos de admissibilidade.Pugnapela reconsideração da decisão agravada e a consequente apreciação de seu apelo nobre.
+É o relatório.
+Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ que assim dispõe in verbis: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Com efeito, verifica-se que os argumentos trazidosrevelam-se plausíveis, o que impõe a reconsideração da decisão da Presidênciade e-STJ fls. 337/338.
+Oagravante impugnou os fundamentos adotados na decisão agravada e, mostrando-se preenchidos os demais pressupostos de admissibilidade do recurso especial, passo à sua análise.
+Reconhece-se a existência da indigitada violação do artigo 1022, II, do CPC/2015, uma vez que o acórdão de origem não se pronunciou sobre questões abordadas nos embargos de declaração, em especial, não apreciou as alegações de que "na condição de devolução dos valores recebidos do benefício cassado o v. Acórdão decidiu além dos pedidos delimitados pelas partes, sendo, pois, data máxima vênia, Extra petita, já que o recurso apresentado pela autarquia recorrente não dispõe acerca da devolução dos valores em caso da cassação datutela antecipada", e de que o benefício previdenciário recebido de boa -fé pelo segurado, em decorrência de decisão judicial, não está sujeito à repeticão de indébito.
+A jurisprudência deste Superior Tribunal de Justiça é assente no sentido de que a omissão quanto a tópico relevante para a solução da controvérsia, suscitado em momento oportuno, torna intransponível o óbice para o conhecimento do tema na via estrita do especial, visto que, ainda que se trate de matéria de ordem pública, a ausência de prequestionamento da tese inviabiliza a análise desta Corte.
+Nesse sentido, quanto a devolução do feito à origem para a completa análise dos pedidos da parte, os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. DEPÓSITO. LEVANTAMENTO. DECADÊNCIA DE CRÉDITO TRIBUTÁRIO. VIOLAÇÃO DO ARTIGO 1022 DO CPC/2015. CONFIGURAÇÃO. NECESSÁRIO RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA QUE SE MANIFESTE SOBRE A ÍNTEGRA DOS EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO PROVIDO.
+1. A jurisprudência deste Superior Tribunal de Justiça é assente no sentido de que a omissão quanto a tópico relevante para a solução da controvérsia, suscitado em momento oportuno, torna intransponível o óbice para o conhecimento do tema na via estrita do especial, visto que, ainda que se trate de matéria de ordem pública, a ausência de prequestionamento da tese inviabiliza a análise desta Corte.
+2. Agravo interno provido. (AgInt no REsp 1.718.459/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 11/06/2019, DJe 18/06/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÕES NÃO EXAMINADAS E IMPRESCINDÍVEIS À SOLUÇÃO DA CONTROVÉRSIA. DETERMINAÇÃO DE RETORNO DOS AUTOS À CORTE DE ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. A falta ou manifestação insuficiente a respeito de questão deduzida a tempo e modo pelo embargante e imprescindível à solução do litígio viola os arts. 489 e 1022 do CPC/2015.
+2. Agravo interno não provido. (AgInt no REsp 1.781.464/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 02/12/2019, DJe 04/12/2019)
+Ante o exposto, com fulcro no art. 1021, § 2º, do CPC/2015 c/c o art. 259 do RISTJ, reconsidero a decisão de e-STJ fls. 337/338e, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, e na Súmula 568/STJ, conheço do agravo e dou parcial provimento ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESAPOSENTAÇÃO.VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OCORRÊNCIA. OMISSÃO CARACTERIZADA. NULIDADE DO ACÓRDÃO. NECESSIDADE DE RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO DA PRESIDÊNCIA RECONSIDERADA. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AORECURSO ESPECIAL.
