@@ -1,0 +1,13 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado por Instituto Nacional do Seguro Social - INSS, com amparo na alínea "a" do permissivo constitucional, contra acórdão assim ementado:
+DIREITO PREVIDENCIÁRIO. DIREITO PROCESSUAL CIVIL.APELAÇÃO CÍVEL. AÇÃO DE CONCESSÃO DE AUXÍLIO-ACIDENTE.INDEFERIMENTO DA PETIÇÃO INICIAL. INTERESSE DE AGIR.RECURSO EXTRAORDINÁRIO N. 631.240. NECESSIDADE DE PRÉVIO REQUERIMENTO ADMINISTRATIVO QUANDO O SEGURADO NÃO RECEBEU BENEFÍCIO PELO MESMO FATO. CASO LEGAL EM QUE A PARTE AUTORA INFORMA O RECEBIMENTO PRÉVIO DE AUXÍLIO-DOENÇA. AUSÊNCIA DE COMPROVAÇÃO. NECESSIDADE DE INTIMAÇÃO DAS PARTES. REQUERIMENTO ADMINISTRATIVO REALIZADO DIRETAMENTE NA AUTARQUIA QUE DEVE SER CONSIDERADO. PROTOCOLO EFETUADO PELA ADMINISTRAÇÃO.
+1. O egrégio Supremo Tribunal Federal, no julgamento do Recurso Extraordinário n. 631.240, assentou o entendimento de que a concessão dos benefícios previdenciários depende do requerimento do interessado, com exceção das hipóteses de revisão, restabelecimento ou manutenção de benefício anteriormente concedido, salvo se depender de matéria de fato ainda não levada ao conhecimento da Administração.
+2. No presente caso legal (concreto), a Parte Autorainforma o recebimento anterior do benefício previdenciário de auxílio-doença - o que afastaria a necessidade de novo requerimento administrativo -, mas inexiste comprovação nos Autos, pelo que necessária a intimação das Partes a respeito.
+3. O requerimento administrativo formulado pelo Segurado diretamente na Autarquia deve ser aceito, pois devidamente protocolado pela Administração, motivo pelo qual se conclui estar presente o interesse de agir no caso.
+4. Recurso de apelação cível conhecido, e, no mérito, provido.
+O recorrente alega ofensa aos arts.489, § 1º,IV, e 1.022do Código de Processo Civil, sob o argumento de que persistem vícios de omissão e contradição nas decisões impugnadas; art.17 do Código de Processo Civil, aduzindo a inexistência de interesse de agir por parte do recorrido, na medida em que não houve formulação regular de requerimento administrativo; e art.103, parágrafo único, da Lei n. 8.213/1991e 1º, do Decreto n. 20.910/1932, sustentando a ocorrência da decadência previdenciáriae requerendo, sucessivamente, o reconhecimento da prescrição quinquenal.
+Decido.
+Há de reconhecer que não houve exame de todos os pontos essenciais ao deslinde da controvérsia com clara violação do art. 1.022 do CPC, mormente quando um dos tópicos não abordados versa sobre decadência previdenciária.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, "a", do RISTJ, conheço do recurso especial e dou-lhe provimento para determinar o retorno dos autos para novo exame dos embargos de declaração.
+Publique-se. Intimem-se.
