@@ -1,0 +1,8 @@
+DECISÃO
+JHONATAN RODRIGUES DE SOUZA alega sofrer coação ilegal, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, que não conheceu do HC n. 1406724-93.2021.8.12.0000.
+A impetração reconhece que, "constatada a ausência de exame do mérito pelo Tribunal de origem de questão relevante de Direito, não é possível a apreciação, imediata, neste Eg. Sodalício Superior dos fundamentos suscitados no vertente remédio heroico, sob pena de indevida supressão de instância  .. , deve o órgão julgador impetrado ser instado a examinar, previamente, a bradada ilegalidade dado que a hipótese revela manifesta negativa de prestação jurisdicional".
+Requer "a concessão in limine da ordem para determinar à autoridade coatora que se digne apreciar o mérito do HC  dosimetria da pena, reconhecimento da confissão  a si deduzido, como entender de Direito, já que o tema não foi objeto de prévio recurso de apelação".
+Todavia, observo que o acórdão não conheceu do writ, por entender que, a par de a defesa não ter suscitado a matéria por ocasião da apelação, o tema não poderia ser analisado no habeas corpus por não ser o writ como sucedâneo de recurso  revisão criminal .
+Na espécie, observo que, pelo fato de a tese defensiva não ter sido analisada pelo tribunal local, esta Corte Superior não pode conhecer do tema, sob pena de vedada supressão de instância. Forçoso concluir que cabe à defesa suscitar a matéria perante o Tribunal de Justiça do Estado do Mato Grosso do Sul no âmbito de revisão criminal.
+À vista do exposto, com base no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
