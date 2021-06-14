@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso em habeas corpusinterposto por Davi Fernandes Gomes contra o acórdão prolatado peloTribunal de Justiça do Cearáno HC n. 0631631-70.2020.8.06.0000,que manteve incólume a segregação cautelar renovada em sentença de pronúncia.
+Impetrado writ, na origem, o Tribunal a quo denegou a ordem.
+Neste recurso, a defesa alega, em síntese, ausência de fundamentos concretos para manutençãoda prisão cautelar.
+Requer, assim, o provimento do recurso, a fim de que seja revogada a prisão preventiva decretada em seu desfavor.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não provimento do recurso(fls. 104/107).
+É o relatório.
+Busca o recorrente a revogação da prisão preventiva.
+Consta do autos que, encerrada a primeira fase do procedimento atinente ao Tribunal do Júri, o réu foi pronunciado como incurso no art. 121, § 2º, Ie IV, do Código Penal, e art. 12, § 2º, da Lei n. 12.850/2013,ocasião em que foi mantida a prisão preventiva, nestes termos (fl. 26):
+ E m relação ao réu DAVI FERNANDES GOMES, não sobrevindo fato novo que desconstrua os fundamentos nos quais se apoia a decisão que decretou a prisão preventiva do acusado, mantenho-o, pelas mesmas razões, custodiado até ulterior deliberação.
+Inconformada, a defesa do ora recorrente impetrouhabeas corpusno Tribunal de Justiça local, sendo a ordem denegada, com os seguintes fundamentos (fls. 66/69 - grifo nosso):
+No presente caso, observa-se que há motivação idônea para a manutenção da prisãoquando da sentença de pronúncia, vez que os motivos ensejadores da prisão preventiva do paciente persistem, haja vista sua periculosidade evidenciada pela dinâmica do evento danoso.
+Ademais, verifica-se que na decisão de pronúncia, o Juízo a quo manteve a prisão preventiva do paciente, utilizando-se de fundamentação per relationem, afirmando persistirem os elementos que ensejaram tal desiderato, técnica de fundamentação essa que possui legitimidade jurídico constitucional reconhecida pela jurisprudência de nossa Suprema Corte, pois compatível com o que dispõe o artigo 93, inciso IX, da Constituição da República.
+No caso em tela, o paciente esteve preso durante a instrução criminal, tendo sido acertada a manutenção da custódia cautelar, na medida em que a liberdade dele oferece risco à ordem pública, considerando o modus operandi, uma vez que o paciente, junto com o também denunciado José Willami Freitas Siqueira, assassinaram a vítima Vilmar Bruno Andrade Freitas, vulgo "Bruno Tsunami", mediante disparos de arma de fogo. Ademais, conforme a peça delatória (fls. 179 do processo de nº 0146585-15.2019.8.06.0001) "a autoridade policial, por meio de diálogos de WhatsApp, descobriu que Davi "trabalhava" com a venda clandestina de armas de fogo, bem como tinha envolvimento com a facção criminosa Comando Vermelho, exercendo a função de comando na referida organização criminosa e sendo o responsável por autorizar ou não os homicídios perpetrados pela mesma", o que demonstra a conduta típica de crime organizado, o que, de fato, evidencia sua periculosidade.
+Assim, como bem lançou à Procuradoria de Justiça, foram sopesadas as condições pessoais desfavoráveis do paciente, o fato de ser o principal suspeito do delito, com envolvimento em outras práticas delitivas, bem como, foi explicitado, com ênfase, o seu papel de líder da facção Comando Vermelho e a compra e venda clandestina de armas de fogo.
+ ..
+Dessa forma, diante da demonstração do periculum libertatis, isto é, do perigo concreto que a liberdade do acusado representa para a sociedade, encontra-se justificada a necessidade da prisão para a garantia da ordem pública, em face da gravidade concreta da conduta e de seu modus operandi (crime praticado com extrema violência, sem possibilidade de defesa da vítima).
+Ademais, o entendimento aqui abraçado encontra-se em harmonia com a jurisprudência do STJ, no sentido de que, "tendo o recorrente permanecido preso durante todo o andamento da ação penal, não faria sentido, ausentes alterações nas circunstâncias fáticas, que, com a superveniência da condenação ou da sentença de pronúncia, fosse-lhe deferida a liberdade" (AgRg no RHC 126.409/BA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/06/2020, DJe 18/06/2020).
+Desse modo, não se vislumbra qualquer ilegalidade que venha a macular o referido ato, afigurando-se inviável, por conseguinte, a pretendida revogação do decreto prisional ou a substituição por medidas cautelares alternativas, previstas no art. 319 do Código de Processo Penal, considerando que há nos autos elementos concretos e suficientes que indicam a necessidade de manutenção da medida constritiva.
+ ..
+Diante do exposto, em consonância com o parecer da douta Procuradoria-Geral de Justiça, conheço do presente Habeas Corpus, mas para denegar a ordem.
+Cumpre rememorarque a defesajá impetrou recursonesta Corte, qual seja, o RHC n. 120.639/CE, o qual foi desprovido, considerando-se quea manutenção da constrição cautelar estavadevidamente fundamentada, sobretudo na necessidade de se assegurar a ordem pública, vulnerada diante da periculosidade do réu, revelada pelo modus operandi, visto que denunciado por homicídio qualificado e participação ativa em organização criminosa - inclusive, acusado de integrar afacção criminosa Comando Vermelho, exercendo a função de comando na referida organização criminosa, além de ter sido apontado comoo responsável por autorizar ou não os homicídios perpetrados pela mesma(fl. 67 - grifo nosso) -, bem como pelo risco de reiteração delitiva, uma vez que o recorrente respondeaoutra ação penal.
+Com efeito, a jurisprudência desta Corte Superior possui entendimento consolidado no sentido de quea periculosidade do agente, revelada pelo modo de agir, e a necessidade de se assegurar a aplicação da lei penal justificam a decretação da prisão preventiva, nos termos do art. 312do Código de Processo Penal(RHC n. 119.082/MG, Ministra Laurita Vaz, Sexta Turma, DJe 4/2/2020).
+Ainda nesse sentido:RHC n. 122.505/MT, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/3/2020; eHC n. 542.925/PR, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 10/2/2020.
+Ademais, conforme pacífica jurisprudência desta Corte,a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade(HC n. 648.249/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 13/5/2021).
+No mesmo sentido é a opinião do Subprocurador-Geral da República Luciano Mariz Maia(fls. 104/107).
+Além disso, não há falar em ilegalidade dapronúncia que, ao manter a prisão preventiva, fez referência àdecisão que decretou a prisão.
+Sobre o tema,esta Corte e o Supremo Tribunal Federal têm entendido ser suficiente a chamada fundamentação per relationem, admitindo, como válidas, tanto a decisão que se reporta aos termos do pedido quanto a que reproduz ou se refere a decisões anteriores.
+Nesse sentido:
+ ..
+2. "É válida a utilização da técnica da fundamentação per relationem, em que o magistrado se utiliza de trechos de decisão anterior ou de parecer ministerial como razão de decidir, desde que a matéria haja sido abordada pelo órgão julgador, com a menção a argumentos próprios, como na espécie, uma vez que a instância antecedente, além de fazer remissão a razões elencadas pelo Juízo natural da causa, indicou os motivos pelos quais considerava necessária a manutenção da prisão preventiva do réu e a insuficiência de sua substituição por medidas cautelares diversas" (RHC n. 94.488/PA, Ministro RogérioSchietti Cruz, Sexta Turma, DJe de 2/5/2018).
+ ..
+5. Habeas corpus conhecido em parte e, nessa extensão, denegado.
+(HC n. 544.065/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/3/2020)
+1. O Superior Tribunal de Justiça possui firme entendimento de ser válida a utilização da técnica da fundamentação per relationem, em que o magistrado emprega trechos de decisão anterior ou de parecer ministerial como razão de decidir, desde que a matéria tenha sido abordada pelo órgão julgador, com a menção a argumentos próprios, como ocorreu no caso em análise.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.420.569/RJ, Ministro Og Fernandes, Segunda Turma, DJe 14/2/2020)
+Desse modo, inexistindo elementos capazes de alterar os fundamentos da decisão anterior, subsiste incólume o entendimento nela firmado.
+Logo, tenho que ficou demonstrada a necessidade da prisão preventiva, não se revelando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIOQUALIFICADO E ASSOCIAÇÃO CRIMINOSA.PRISÃO PREVENTIVA MANTIDA NA PRONÚNCIA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA.MODUSOPERANDI. RISCO DE REITERAÇÃO DELITIVA.AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Recurso em habeas corpus improvido.
