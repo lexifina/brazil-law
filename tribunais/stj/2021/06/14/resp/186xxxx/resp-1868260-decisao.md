@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por GILBERTO SOARES DA SILVA, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o acórdão prolatado pelo Tribunal Regional Federal da 4.ª Região na Apelação Criminal n.5003359-25.2018.4.7005.
+Consta dos autos que o Juízo de primeiro grau condenou o Recorrente à pena de 2 (dois) anos e 8 (oito) meses de reclusão, em regime inicial semiaberto, como incurso no art. 334, § 1.º, inciso IV, do Código Penal. Houve apelação somente defensiva, a que o Tribunal de origem deu parcial provimento, reduzindo a reprimenda para 2 (dois) anos e 6 (seis) meses de reclusão, em acórdão assim ementado (fls. 347-348):
+"DIREITO PENAL. DESCAMINHO. ART. 334, § 1º, INCISO IV, DO CP.JUSTA CAUSA. PROVAS JUDICIALIZADAS. INSIGNIFICÂNCIA.CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO. DOSIMETRIA.
+1. Comete o crime de descaminho aquele que introduz no mercado nacional mercadorias de origem estrangeira, ou que sabe ser produto de introdução clandestina no território nacional, com a ilusão dos tributos federais correspondentes.
+2. A justa causa, como condição da ação penal, consubstancia-se no lastro probatório mínimo e firme acerca da existência de elementos indicativos da autoria e da materialidade da infração penal.
+3. Em relação às provas cautelares, antecipadas ou irrepetíveis, o contraditório é diferido para o momento em que os elementos são trazidos a juízo, atendendo às garantias do devido processo legal e da ampla defesa.
+4. A constituição definitiva do crédito tributário não é condição objetiva de punibilidade, para o crime de descaminho, e nem elemento constitutivo da materialidade delitiva.
+5. A existência de outras ações penais, inquéritos policiais em curso ou procedimentos administrativos fiscais, é suficiente para caracterizar a habitualidade delitiva e, consequentemente, afastar a incidência do princípio da insignificância, ainda que o valor dos tributos iludidos seja inferior ao limite legal. Precedentes do STF e STJ.
+6. Eventuais condenações criminais do réu transitadas em julgado e não utilizadas para caracterizar a reincidência somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização também para desvalorar a personalidade ou a conduta social do agente. Precedente da 3ªSeção do STJ."
+No recurso especial, alega a Defensoria Pública a violação aos arts. 59 e 68 do Código Penal, sustentando ser desproporcional o aumento da pena-base em 133 (cento e trinta e três por certo) da reprimenda mínima abstratamente cominada, tão-somente em razão da negativação de um único vetor.
+Pede o provimento do recurso, com a redução do aumento para a fração de 1/6 (um sexto).
+Oferecidas contrarrazões (fls. 385-397), admitiu-se o recurso na origem (fl.400).
+O Ministério Público Federal manifesta-se pelo parcial provimento do recurso e, ainda, pela concessão de habeas corpus, de ofício, nos termos da seguinte ementa (fls. 415-416):
+"RECURSO ESPECIAL FUNDADO NA ALÍNEA "A", DO INCISO III, DO ART. 105, DA CONSTITUIÇÃO FEDERAL. CONTRABANDO (ART. 334-A, § 1º, IV, DO CP).
+PLEITO DE REDUÇÃO DA PENA-BASE.VALORAÇÃO NEGATIVA DA CIRCUNSTÂNCIA DOS ANTECEDENTES. REFERÊNCIA A CONDENAÇÕES ANTERIORES TRANSITADAS EM JULGADO EM NOME DO RECORRENTE. ENTRETANTO, CONSIDERAÇÃO DA DESPROPORCIONALIDADE NA EXASPERAÇÃO DA PENA. FIXAÇÃO DO AUMENTO EM 8 (OITO) MESES DE RECLUSÃO, CONSIDERANDO-SE QUE FORAM AFASTADAS AS AVALIAÇÕES NEGATIVAS DE 2 (DUAS) OUTRAS CIRCUNSTÂNCIAS JUDICAIS PELA CORTE DE ORIGEM.
+CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+COMPENSAÇÃO INTEGRAL DA AGRAVANTE DA REINCIDÊNCIA COM A ATENUANTE DACONFISSÃO ESPONTÂNEA. REGIME INICIAL SEMIABERTO. RECORRENTE REINCIDENTE.
+PENA CORPORAL INFERIOR A 4 (QUATRO) ANOS DE RECLUSÃO. CRIME PRATICADO SEM VIOLÊNCIA OU GRAVE AMEAÇA À PESSOA.
+REGIME INICIAL ABERTO. SUFICIÊNCIA PARA A PREVENÇÃO E RETRIBUIÇÃO DA INFRAÇÃO PENAL. APLICAÇÃO DO PRINCÍPIO DA PROPORCIONALIDADE. NECESSIDADE DE REDUÇÃO DOS FATORES DE PROPAGAÇÃO DO NOVO CORONAVÍRUS (COVID-19) QUE SE SOMA, NA ESPÉCIE, PARA JUSTIFICAR A FIXAÇÃO DO REGIME INICIAL ABERTO.
+PARECER PELO PARCIAL PROVIMENTO DO RECURSO ESPECIAL, PARA DIMINUIR A FRAÇÃO DE AUMENTO DA PENA PELA AVALIAÇÃO NEGATIVA DOS ANTECEDENTES, E PELA CONCESSÃO DE HABEAS CORPUS DE OFÍCIO, PARA COMPENSAR INTEGRALMENTE A AGRAVANTE DA REINCIDÊNCIA COM A ATENUANTE DA CONFISSÃO ESPONTÂNEA E PARA FIXAR O REGIME INICIAL ABERTO AO RECORRENTE."
+É o relatório.
+Decido.
+No que diz respeito à dosimetria da pena, extrai-se do acórdão recorrido (fls. 353-354):
+"Dosimetria. O tipo criminal infringido pelo réu - art. 334 do Código Penal - prevê, em abstrato, pena de 01 (um) a 04 (quatro) anos de reclusão.
+A sentença fixou a pena base em 02 (dois) anos e 06 (seis) meses de reclusão, pela valoração negativa das vetoriais "antecedentes", "personalidade"e "conduta social".
+A defesa requer a diminuição da pena base, sustentando que não cabe a utilização de condenações transitadas em julgado para o juízo desfavorável da conduta social e da personalidade do agente.
+De fato, conforme entendimento exarado pela 3ª Seção do STJ, "eventuais condenações criminais do réu transitadas em julgado e não utilizadas para caracterizar a reincidência somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não seadmitindo sua utilização também para desvalorar a personalidade ou a conduta social do agente"(STJ, EREsp 1688077/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, ago/2019).
+Entretanto, ainda que seja valorada de forma negativa apenas a vetorial "maus antecedentes", observo que o réu ostenta 06 (seis) condenações criminais transitadas em julgado pela prática do crime tipificado no art. 334 do CP (EVENTO 53 - CERTANTCRIM1), razão pela qual eventual redução deve observar também esta circunstância.
+Desta forma, deve ser parcialmente provido o apelo para reduzir a pena base, que vai fixada em 02 (dois) anos e 04 (quatro) meses, nesta fase.
+Foi reconhecida a agravante da reincidência e a atenuante da confissão, sendo ambas compensadas, porém não de forma integral.
+De fato, "não é possível realizar a compensação integral entre a atenuante da confissão e a agravante da reincidência, quando se tratar de reincidência específica". (STJ, HC 334.558/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, dez/2015).
+Desta forma, a pena deve ser agravada em 04 (quatro) meses em face da reincidência, sendo reduzida em 02 (dois) meses em face da compensação parcial com a confissão. Por esta razão, a pena provisória deve ser fixada em 02 (dois) anos e 06 (seis) meses de reclusão.
+Não havendo causas de aumento e diminuição, a pena definitiva resta fixada em 02 (dois) anos e 06 (seis) meses de reclusão.
+Com relação ao regime de cumprimento de pena, trata-se de réu reincidente, cujas circunstâncias judiciais foram julgadas desfavoráveis."
+Como se verifica, a negativação dos antecedentes se deu em razão da existência de 6 (seis) condenações transitadas em julgado. Sendo assim, em princípio, não haveria desproporcionalidade na exasperação da pena-base, pela negativação desse vetor, em fração superior ao patamar jurisprudencialmente fixado de 1/6 (um sexto). No entanto, o aumento em mais que o dobro da pena mínima abstratamente cominada é desproporcional, pois remanesceu apenas esse vetor negativo, dada a exclusão do desvalor atribuído à personalidade e à conduta social.
+A propósito:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO TENTADO. PENA-BASE.MAUS ANTECEDENTES. 2/3 ACIMA DO MÍNIMO LEGAL. DESPROPORCIONALIDADE.PENA REDIMENSIONADA. 1. Segundo a jurisprudência desta Corte, a exasperação da pena-base, pela existência de circunstâncias judiciais negativas, deve seguir o parâmetro da fração de 1/6 para cada vetor desfavorável, em situações nas quais não há fundamentação específica que justifique a necessidade de elevação superior a esse patamar (REsp n. 1.741.828/SP, Ministro Jorge Mussi, Quinta Turma, DJe 12/9/2018).
+2. Na hipótese, negativada apenas uma circunstância judicial, denota-se excessiva a fixação da pena-base em 2/3 acima do mínimo legal previsto pelo preceito secundário do delito.
+3. Tendo o Tribunal a quo asseverado que os maus antecedentes decorrem de duas condenações anteriores transitadas em julgado (ameaça e tentativa de homicídio qualificado), a fixação da pena-base em 1/3 acima do mínimo legal atende ao princípio da proporcionalidade.
+4. Agravo regimental improvido."(AgRg no HC 473.257/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 13/12/2018, DJe 04/02/2019.)
+Passo ao redimensionamento das penas.
+Pela negativação dos antecedentes, fixo a pena-base em 1 (um) ano e 6 (seis) meses de reclusão. Na segunda fase, as instâncias ordinárias exasperaram a pena em 2 (dois) meses, diante do concurso entre atenuante e agravante, ficando a pena estabelecida em 1 (um) ano e 8 (oito) meses de reclusão, que é tornada definitiva, diante da ausência de causas de diminuição ou de aumento.São mantidas as demais cominações do acórdão recorrido.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial para diminuir a pena-base,ficando as reprimendas estabelecidas nos termos da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. DESCAMINHO. DOSIMETRIA. ANTECEDENTES. PENA-BASE. AUMENTO ACIMA DO DOBRO. DESPROPORCIONALIDADE. REDUÇÃO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
