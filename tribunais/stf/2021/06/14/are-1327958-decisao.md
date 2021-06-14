@@ -1,0 +1,13 @@
+DECISÃO:
+    1. Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. LEI N. 13.964/2019. ALTERAÇÃO DOS PATAMARES DE PROGRESSÃO DO ART. 112 DA LEI DE EXECUÇÃO PENAL. RETROATIVIDADE DA LEI PENAL POSTERIOR MAIS BENÉFICA. ORDEM CONCEDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+    1. "[A] alteração promovida pela Lei n. 13.964/2019 (Pacote Anticrime) no art. 112 da Lei de Execuções Penais, ao estabelecer novos lapsos para a progressão de regime, deixou de abranger a situação característica do paciente (condenado por crime hediondo e reincidente não específico)", de maneira que "não há como aplicar de forma extensiva e prejudicial ao paciente o percentual de 60% previsto no inciso VII do art. 112 da LEP, que trata sobre os casos de reincidência de crime hediondo ou equiparado, merecendo, ante a omissão legislativa, o uso da analogia in bonam partem para aplicar o percentual de 40%, previsto no inciso V" (AgRg no HC n. 595.609/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/11/2020, DJe 20/11/2020).
+    2. Agravo regimental desprovido.”
+    2. O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega que “a aplicação do percentual de 40%, como realizada pela decisão recorrida, além de contrariar o princípio da individualização da pena (art. 5º, XLVI, da CF), na medida em que confere percentual de cumprimento da pena menos rigoroso para a progressão de regime, considerando-se a condição de reincidente e de condenado por crime hediondo, vai de encontro ao princípio da isonomia (art. 5º, caput, da CF), conferindo igual tratamento a quem se encontra em situação desigual”.
+    3. O recurso é inadmissível, tendo em vista que a controvérsia relativa à individualização da pena passa necessariamente pelo exame prévio da legislação infraconstitucional. Nesse sentido, vejam-se o AI 797.666-AgR, Rel. Min Ayres Britto; o AI 796.208-AgR, Rel Min. Dias Toffoli; o RE 505.815-AgR, Rel. Min. Joaquim Barbosa; e o ARE 1.075.559, Rel. Min. Luiz Fux.
+    4. No caso, para chegar a conclusão diversa do acórdão recorrido, seria necessária a análise da legislação infraconstitucional pertinente, o que não é possível nesta fase processual. Nessa linha, vejam-se o ARE 1.324.505, Rel. Min. Luiz Fux; e o ARE 1.324.769, Rel. Min. Edson Fachin.
+    5. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 14 de junho de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
