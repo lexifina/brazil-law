@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de ELIZEU FELÍCIO DE SOUZA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO no julgamento da Apelação Criminal n. 0376300- 73.2010.8.19.0001.
+Extrai-se dos autos que o paciente foi condenado como incurso nas sanções do artigo 35, caput, c/c 40, IV, ambos da Lei n. 11.343/06 (associação para o tráfico com causa de aumento), à pena de 10 (dez) anos, 11 (onze) meses e 07 (sete) dias de reclusão, em regime fechado, e ao pagamento de 1.500 (mil e quinhentos) dias-multa.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual desproveu o recurso nos termos do acórdão que restou assim ementado:
+"APELAÇÃO. ASSOCIAÇÃO PARA O TRÁFICO COM CAUSA DE AUMENTO DE EMPREGO DE ARMA DE FOGO. Preliminar de nulidade da r. sentença cm razão de estar alicerçada em prova supostamente ilícita.
+Gravações ambientais. Validade do meio de prova.
+Nulidade não configurada. Pedido absolutório veiculado pela defesa com fulcro na aduzida insuficiência de provas.
+Entretanto, verifica-se que o acervo probatório coligido ao feito é bastante para a comprovação da autoria e da materialidade do delito. Discussões acerca da legitimidade ou validade dos depoimentos de policiais estão superadas a teor do Enunciado nº 70 da Súmula deste E. Tribunal de Justiça do Estado do Rio de Janeiro. No mais, desnecessidade de apreensão das armas exibidas nas gravações e da realização de sua perícia para a caracterização da causa de aumento prevista no inciso IV do artigo 40 da Lei nº 11.343/2006. Alegação de que as armas seriam réplicas. Ônus de prova que incube ao apelante, o qual não logrou trazer elementos que pudessem refutar as seguras provas cm sentido contrário.
+Conjunto probatório que labora no sentido da efetivautilização das armas de fogo. Apelo desprovido" (fl. 14).
+No presente writ, a defesa sustenta que o juízo sentenciante utilizou-se de argumentos vazios ao fundamentar a exasperação da pena-base em patamar tão acima do mínimo legal (7 anos), sem a menor relevância jurídica, o que torna essa decisão flagrantemente ilegal e desproporcional.
+Alega que se considerou desfavorável uma única circunstância (culpabilidade), em patamar exagerado.
+Aduz que o magistrado errou ao aplicação a fração de aumento em 1/4 para a reincidência, uma vez que confronta a jurisprudência das Cortes Superiores, que estabelece o patamar de 1/6 nesses casos.
+Alega, ainda, que o mesmo aconteceu na terceira fase, porquanto o aumento em 1/4 para uma só causa de aumento é excessivo.
+Pleiteia, em liminar, a concessão de liberdade ao paciente, recolhendo seu mandado de prisão e, no mérito, o refazimento da dosimetria da pena imposta ao paciente.
+Indeferido o pedido de liminar (fls. 33-35). Prestadas as informações, oMinistério Público Federal opinoupelo não conhecimento do Habeas Corpus(fls. 62-63).
+É o relatório. Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Os temas referentes à pena-base,reincidênciado paciente e fração aplicada em razão da causa de aumento não foram submetidos a debate na instância ordinária, sendo que este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância. A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. COMANDAR ORGANIZAÇÃO CRIMINOSA ARMADA. PRISÃO PREVENTIVA. NEGADO O DIREITO DE RECORRER EM LIBERDADE NA SENTENÇA CONDENATÓRIA. FUNDAMENTAÇÃO CONCRETA. PERICULOSIDADE DO AGENTE. UM DOS LÍDERES DE ORGANIZAÇÃO CRIMINOSA ARMADA VOLTADA À PRÁTICA DE VÁRIOS DELITOS, EM ESPECIAL O TRÁFICO DE DROGAS. GARANTIA DA ORDEM PÚBLICA E DE ASSEGURAR A APLICAÇÃO DA LEI PENAL. NECESSIDADE DE INTERROMPER A ATUAÇÃO DE INTEGRANTES DE ORGANIZAÇÃO CRIMINOSA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. EXCESSO DE PRAZO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM.SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+ ..
+6. Inadmissível a análise do alegado excesso prazal, tendo em vista que a referida irresignação não foi submetida ao exame do Tribunal a quo, por ocasião do julgamento do writ originário, não podendo este Tribunal Superior de Justiça enfrentar o tema, sob pena de incidir em indevida supressão de instância.
+7. Habeas corpus não conhecido.
+(HC 543.504/SC, por mim relatado, QUINTA TURMA, DJe 31/8/2020).
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço da presente impetração.
+Publique-se. Intimem-se.
