@@ -1,0 +1,10 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO (202) No 1009653-94.2021.8.11.0000
+AGRAVANTE: FLAVIO HENRIQUE STRINGUETA
+AGRAVADO: ASSOCIACAO MATO-GROSSENSE DO MINISTERIO PUBLICO
+Manifesto minha suspeição para atuar no feito e incidentes posteriores (art. 144 do CPC).
+Anote-se e redistribua-se.
+Cuiabá, 14 de junho de 2021.
+Des. Guiomar Teodoro Borges
