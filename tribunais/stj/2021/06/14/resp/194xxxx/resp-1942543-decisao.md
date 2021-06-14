@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por LISANDRA DA SILVA FONTANA, com fundamento no art. 105, III, a, da Constituição Federal, visando à reforma de acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+TRIBUTÁRIO. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. ANUIDADE. FATO GERADOR. INSCRIÇÃO.
+1. As anuidades devidas aos conselhos de fiscalização profissional constituem tributo da espécie contribuições do interesse das categorias profissionais, na forma do art. 149 da Constituição.
+2. Nos termos do art. 5º da Lei n.º 12.514/2011, "o fato gerador das anuidades é a existência de inscrição no conselho, ainda que por tempo limitado, ao longo do exercício", entendimento aplicável mesmo antes da vigência da lei, conforme decidido pela 1ª Seção desta Corte.
+3. No momento em que o profissional ou a pessoa jurídica opta por não exercer a atividade sujeita à fiscalização, deve formalizar o pedido de cancelamento da inscrição, para que, então, se desobrigue do pagamento da anuidade.
+4. Não havendo pedido de cancelamento da inscrição, é irrelevante, em regra, que não haja mais o exercício da atividade ou mesmo exercício de atividade diversa, não sujeita à fiscalização do conselho, porque a pessoa física ou jurídica permanece inscrita regularmente, apta, portanto, ao exercício da atividade profissional fiscalizada.
+5. Conforme precedentes do STJ, professores da rede pública de ensino estão sujeitos ao Registro junto ao Conselho de Educação Física.
+6. Assim, fixada a exigibilidade da inscrição, bem como comprovado o exercício da atividade fiscalizada no período relativo à cobrança, impende reconhecer a higidez da cobrança das anuidades em discussão nestes autos.
+7.Apelação provida.
+Nas razões de recurso especial, apontou a ofensa aos arts. 62 da Lei n. 9.394/1996 e 93 do Decreto n. 9.235/2017. Sustentou, em resumo, que não há fundamento legal para a exigência de anuidade e registro de professores do ensino básico de Educação Física.
+Foram apresentadas contrarrazões para que seja mantido o acórdão recorrido.
+É o relatório. Decido.
+O recurso não comporta seguimento.
+No caso, não informou a recorrente com precisão de que modo o dispositivo de lei federal teria sido violado. Apresentou razões recursais em que praticamente cingiu-se a discorrer sobre normativas infralegais, além de transcrever o acórdão recorrido.
+Assim, é deficiente a irresignação recursal pela alínea a do permissivo constitucional. Incide, por analogia, o Enunciado n. 284 da Súmula do STF. A propósito: AgInt no AREsp 1742579/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 25/3/2021; REsp 1659893/RJ, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 19/03/2021.
+Ainda que superado esse óbice, a apreciação dos fundamentos normativos em que se baseou a recorrente indica que seria necessário conhecer de normas infralegais (Decreto n. 9.235/2017; Portaria n. CONFEF 21/2000; Parecer Jurídico do Ministério da Educação n. 278/2000; dentre outros) para que se ingressasse no mérito recursal.
+Ocorre que tais atos normativos desbordam do conceito de tratado ou lei federal, para fins do art. 105, III, a, da Constituição Federal. A propósito: AgInt no AREsp 1673561/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/03/2021; AgInt no AREsp 1.552.802/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 13/4/2020; AgInt no REsp 1.471.645/CE, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 25/9/2019.
+Mesmo que fossem afastados referidos óbices, o Superior Tribunal de Justiça fixou que o profissional de educação física, investido em cargo de professor nos ensinos fundamental e médio, sujeita-se à inscrição no Conselho de Educação Física.
+Confiram-se:
+ADMINISTRATIVO. CONCURSO PÚBLICO. CARGO DE PROFESSOR DE EDUCAÇÃO FÍSICA. ENSINO FUNDAMENTAL E MÉDIO. EXIGÊNCIA DE INSCRIÇÃO NO CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA. PREVISÃO NA LEI N. 9.696/98. RETIFICAÇÃO DE EDITAL POR DECISÃO JUDICIAL. POSSIBILIDADE. AGRAVO INTERNO. IMPROVIDO.
+I - Nos termos da Lei n. 9.696/98, é legal a exigência de comprovação de inscrição no respectivo Conselho Regional para a investidura em cargo de professor de educação física do ensino fundamental e médio. Precedentes: AgRg no AREsp 819.752/SP, Rel. Min. Diva Malerbi (Desembargadora convocada do TRF 3ª Região), Segunda Turma, DJe 10/3/2016; RMS 26.316/RJ, Rel. Min. Maria Thereza de Assis de Assis Moura, Sexta Turma, DJe 15/6/2011; REsp 783.417/RJ, Rel. Min. Jorge Mussi, Quinta Turma, DJe 29/3/2010; e AgRg no REsp 1.317.760/MG, Rel. Min. Humberto Martins, Segunda Turma, DJe 25/10/2012.
+II - A retificação do edital determinada por decisão judicial não é capaz de afastar a legalidade da exigência, uma vez que realizada com a finalidade de se adequar o certame aos ditames legais.
+III - Agravo interno improvido. (AgInt no REsp 1612834/DF, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 13/6/2017).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXERCÍCIO PROFISSIONAL. MAGISTÉRIO. PROFESSOR DE EDUCAÇÃO FÍSICA. ATIVIDADE EXCLUSIVA DOS PROFISSIONAIS REGISTRADOS NO CONSELHO DE EDUCAÇÃO FÍSICA.
+1. A jurisprudência desta Corte orienta-se no sentido de que cabe exclusivamente aos profissionais registrados no Conselho Regional de Educação Física o exercício do magistério dos conteúdos de educação física nos ensinos fundamental, médio e superior. Precedentes: AgRg no AREsp 819.752/SP, Rel. Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Segunda Turma, DJe 10/3/2016; REsp 1.339.372/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 20/8/2013; REsp 783.417/RJ, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 29/3/2010.
+2. Agravo interno não provido. (AgInt no AREsp 885.353/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 17/11/2017) (grifei).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
