@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CATIA ORICENA DINIZ à decisão de fls. 736/737, que não conheceu do recurso.
+Sustenta a parte embargante que a decisão é omissa, uma vez que:
+Por ocasião da interposição do Recurso Especial, foi formulado para o Ilustre 3º Vice Presidente do Tribunal a quo, o pedido de deferimento de Gratuidade de Justiça a qual foi indeferido, fl.661,  .. .
+Diante do decisium que indeferiu a gratuidade de justiça foi interposto o agravo para 3ª Vice Presidencia do Tribunal de Justiça  ..  (fl. 748).
+ ..
+Assim, sendo, Vossa Exa. Adentrou ao mérito, porém não se manifestou sobre se a parte preenche os requisitos para o deferimento da Gratuidade de Justiça, pois caso preencha supre inclusive a falta de preparo, razão pela qual este Tribunal deve se manifestar sobre o pedido de Gratuidade, eis que fundamental, visto que se confunde com as razões de inadimissibilidade do Recurso Especial (fl. 749).
+ ..
+Resta a omissão quanto a apreciação da Gratuidade de Justiça, requerida nos termos do artigo 99, §7º do CPC, que dispõe "requerida a concessão de gratuidade da justiça em recurso, o recorrente estará dispensado de comprovar o recolhimento do preparo, incumbindo ao relator, neste caso, apreciar o requerimento, se indeferi-lo, fixar prazo para a realização do recolhimento" (fl. 750).
+Argumenta também que:
+No caso em tela, não se trata de aplicação da lei no tempo e no espaço e sim sobre a informatização do sistema judicial que permite o acesso a decisão recorrida antes mesmo de sua publicação oficial. Nesse sentido o Superior Tribunal de Justiça, no julgamento do AgRg no E.RESP 492.461/MG, com fundamento nessa realidade, o Superior Tribunal de Justiça passou a entender que o recurso interposto antes da intimação formal é tempestivo, visto que o recurso é um ato a ser praticado pela parte no seu exclusivo interesse, por isso pode optar por antecipá-lo (fl. 751)
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Numa primeira análise, essa Corte Superior acabou equivocadamente, analisando a peça de fls. 680/688 como um agravo em recurso especial, o que levou a conclusão de que o recurso era intempestivo, já que apresentado antes mesmo da realização do juízo de admissibilidade do recurso especial pelo tribunal a quo. Assim, não prevalece a tese da parte embargante de que teve acesso aos autos antes da publicação, se no caso, o recurso especial ainda não havia sequer sido analisado há época da apresentação do agravo.
+Também não podemos considerar o recurso como um agravo interno, e devolvê-lo ao Tribunal de origem para julgamento, tendo em vista as ponderações que serão feitas abaixo.
+Retornando aos autos, pode-se constatar que o pedido de gratuidade de justiça foi devidamente apreciado pelo Tribunal a quo. À fl. 661, em 17/1/2020, a desembargadora Vice-presidente do Tribunal de origem proferiu a seguinte decisão:
+Considerando-se os elementos constantes dos autos às fls. 627/659, INDEFIRO a gratuidade de justiça a parte recorrente.
+À parte recorrente para que providencie o preparo no prazo de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Após a publicação desta decisão, em 27/1/2020 (fl. 668), ao invés de cumprir a determinação de recolhimento das custas, a parte deixou transcorrer o prazo in albis, e após, antes da publicação da decisão que inadmitiu o recurso especial por deserção (fls. 672 e 679), apresentou agravo às fls. 680/688, em 10/2/2020.
+Inicialmente, cumpre esclarecer que o Código de Processo Civil, em seu art. 994, consagrou o Princípio da Taxatividade, segundo o qual são cabíveis somente os recursos expressamente previstos em Lei Federal.
+O recurso adequado para impugnar decisão que inadmite o recurso especial na origem, é o agravo em recurso especial, disciplinado no art. 1.042 do CPC. Deve ser dirigido ao presidente ou vice-presidente do Tribunal de origem, e, após aberto prazo para resposta ao agravado, será remetido ao STJ, que o apreciará.
+Já o agravo interno, previsto no art. 1.021 e art. 1.030, § 2º do Código de Processo Civil é cabível contra decisão de relator perante o próprio órgão prolator da decisão atacada, que será levado ao colegiado para apreciação.
+Nota-se claramente, na hipótese dos autos, uma nítida confusão da parte recorrente na interposição do agravo de fls. 680/688, já que apesar de fundamentado no art. 1.021 do CPC, que prevê o agravo interno, a parte nomeou a peça como "agravo em recurso especial".
+Ademais, apesar de endereçar a folha de rosto da petição ao Vice-presidente do Tribunal de origem e requerer a inclusão em pauta, nas razões da mesma peça, à fl. 681, endereça ao Superior Tribunal de Justiça, e inicia falando que "busca a retratação da decisão que negou seguimento ao recurso especial devido à falta de preparo".
+Ainda, ao final das razões, fl. 687, requer que "seja reconsiderada a decisão que deixou de conhecer a Gratuidade de Justiça a fim de que seu Recurso Especial seja apreciado e, nessa extensão, provido, ou, caso contrário, a submissão do presente agravo interno com o deferimento da tutela recursal, com o julgamento por órgão colegiado do Superior Tribunal de Justiça".
+Veja que não houve clareza sobre qual recurso foi interposto, se agravo interno ou agravo em recurso especial, havendo uma confusão na fundamentação da sua petição recursal. Portanto, de todo modo, ou pela intempestividade, ou pela aplicação do principio da taxatividade, não há como conhecer do recurso.
+Ressalte-se ainda que conforme entendimento deste Superior Tribunal de Justiça, a interposição equivocada de recurso quando há expressa disposição legal e ausente dúvida objetiva, constitui manifesto erro grosseiro.
+Desta forma, inaplicável também o princípio da fungibilidade, que "pressupõe dúvida objetiva a respeito do recurso a ser interposto, inexistência de erro grosseiro e observância do prazo do recurso correto, o que não ocorre na espécie". (AgRg nos EREsp 1.357.016/RS, relator Ministro Ari Pargendler, Primeira Seção, DJe de 2/8/2013.)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
