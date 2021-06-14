@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por DANNY WILLIAM ARAUJO BRAGA, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 523):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. POLICIAL MILITAR. PERDA DA GRADUAÇÃO. PENA ACESSÓRIA AO CRIME MILITAR. ART. 125, § 4º DA CONSTITUIÇÃO DA REPÚBLICA. INDEPENDÊNCIA DAS ESFERAS ADMINISTRATIVA E PENAL.ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O Supremo Tribunal Federal possui orientação segundo a qual o art. 125, § 4º, da Constituição da República diz respeito à perda de graduação como pena acessória à condenação por crime militar, não obstando a imposição da sanção por procedimento administrativo disciplinar, consoante Enunciado da Súmula n. 673/STF.
+III - O processo administrativo é, em regra, autônomo em relação ao processo penal, somente experimentando seus reflexos nos casos de decisão absolutória por inexistência de fato (art. 386, I, CPP) ou negativa de autoria (art. 386, IV, CPP).
+IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+Sustenta o recorrente a existência de repercussão geral e a violação do art. 125, § 4º, da Constituição Federal.
+Alega que teria ocorrido indevido bis in iden, pois foi condenado por duas vezes naesfera administrativa.
+Aduz que a condenação proferida com base no art. 125, § 4º, da Carta Magna teria natureza administrativa.
+Assevera que "Toda argumentação aqui tecida trata a respeito da natureza jurídica da decisão prolatada no procedimento Constitucional do art. 125, §4, que comina com a perda da graduação, que conforme os precedentes trazidos no Recurso Ordinário, trata-se de decisão judicialiforme, entretanto de exercício de competência de natureza administrativa proferida pelo Tribunal de Justiça Militar." (e-STJ fl. 549).
+Acrescenta, ainda, que "Sendo a decisão proferida no procedimento Constitucional de perda de graduação de natureza administrativa - que seja na aplicação de pena acessória criminal, que deveria ser lá resolvida- estamos diante de um bis in idem administrativo, já que o Paciente foi julgado e punido duplamente na esfera administrativa, primeiramente pelo conselho de disciplina a trinta dias de prisão, já cumpridos, e posteriormente pelo procedimento Constitucional de perda de graduação  .. ." (e-STJ fl. 553).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Apresentadas as contrarrazões (e-STJ fls. 548/554 e 557/572).
+É o relatório.
+Compulsando-se os autos, verifica-se que a controvérsia cinge-se à questão da perda da graduação de policial militar decorrente do procedimento previsto no art. 125, §, 4º, da Constituição Federal, estando o acórdão recorrido assim fundamentado (e-STJ fls. 526/529):
+"Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão ao Agravante.
+Conforme anteriormente pontuado, firmou-se orientação no âmbito do Supremo Tribunal Federal, segundo a qual o art. 125, § 4º, da Constituição da República diz respeito à perda de graduação como pena acessória à condenação por crime militar, não obstando a imposição da sanção por procedimento administrativo disciplinar, consoante Enunciado da Súmula n. 673/STF:
+O art. 125, § 4º, da Constituição não impede a perda da graduação de militar mediante procedimento administrativo.
+Nesse sentido, destaco os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO. OCORRÊNCIA DE OMISSÃO NO JULGADO. COMPETÊNCIA. COMANDANTE GERAL DA POLÍCIA MILITAR. EXCLUSÃO DA CORPORAÇÃO. POLICIAL MILITAR. AMPLA DEFESA E CONTRADITÓRIO. REEXAME DE FATOS E PROVAS.
+INCIDÊNCIA DA SÚMULA 279/STF. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, sobre a observância, ou não, das garantias do contraditório e da ampla defesa, seria necessário reexaminar os fatos da causa, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279/STF. A competência conferida à Justiça Militar pelo art. 125, § 4º, da Constituição, refere-se à perda de graduação como pena acessória criminal, e não à sanção disciplinaradministrativa, como acontece no caso em exame. Incidência da Súmula 673 do STF. Embargos de declaração acolhidos para sanar a omissão apontada, mantendo-se, contudo, a decisão que negou seguimento ao agravo de instrumento.
+(AI 539744 AgR-ED, Relator(a): Min. JOAQUIM BARBOSA, Segunda Turma, julgado em 07/02/2012, ACÓRDÃO ELETRÔNICO DJe-055 DIVULG 15-03-2012 PUBLIC 16-03-2012, destaque meu).
+FORÇA MILITAR - PRAÇA - PERDA DO POSTO. Relativamente a praça, é inexigível pronunciamento de Tribunal, em processo específico, para que se tenha a perda do posto.
+(RE 447859, Relator(a): Min. MARCO AURÉLIO, Tribunal Pleno, julgado em 21/05/2015, DJe-163 DIVULG 19-08-2015 PUBLIC 20-08-2015 EMENT VOL-03994-01 PP-00001).
+ ..
+Ademais, o processo administrativo é, em regra, autônomo em relação ao processo penal, somente experimentando seus reflexos nos casos de decisão absolutória por inexistência de fato (art. 386, I, CPP) ou negativa de autoria (art. 386,IV, CPP).
+Nesse sentido:
+ ..
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+Desse modo, a análise da matéria ventilada depende do exame da Legislação infraconstitucional e local sobre o tema, razão pela qual eventual ofensa à Constituição Federal, se houvesse, seria reflexa ou indireta, não legitimando a interposição do apelo extremo.
+Ademais, para afastar os pressupostos fáticos adotados no julgamento do recurso seria indispensável o reexame dos elementos de convicção existentes nos autos, o que não é permitido em recurso extraordinário, diante do óbice contido no enunciado 279 da Súmula do Supremo Tribunal Federal,in verbis:
+"Para simples reexame de prova não cabe recurso extraordinário."
+Em casos semelhantes, assim tem decidido a Corte Suprema:
+EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PERDA DA GRADUAÇÃO. COMPETÊNCIA DA JUSTIÇA MILITAR PARA PENA ACESSÓRIA: SÚMULA N. 673 DO SUPREMO TRIBUNAL FEDERAL. NECESSIDADE DE ANÁLISE DAS PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(ARE 1231458 AgR, Relator(a): CÁRMEN LÚCIA, Segunda Turma, julgado em 13/03/2020, PROCESSO ELETRÔNICO DJe-065 DIVULG 19-03-2020 PUBLIC 20-03-2020)
+EMENTA: DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSO ADMINISTRATIVO MILITAR. DEMISSÃO. SÚMULAS 673, 280 E 279/STF. NÃO VIOLAÇÃO AOS TERMOS DO ART. 125, § 5º, CF/1988. OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO. NÃO OCORRÊNCIA. 1. A solução da controvérsia demanda a análise da legislação infraconstitucional aplicada à espécie, bem como o reexame do conjunto fático-probatório dos autos, procedimentos vedados neste momento processual. 2. O Supremo Tribunal Federal firmou o entendimento no sentido de que o art. 125, § 5º, da Constituição, na redação dada pela EC nº 45/2004, ampliou o âmbito de atuação da Justiça Militar Estadual, autorizando sua competência para processar e julgar as ações judiciais ajuizadas contra atos disciplinares militares, envolvendo não só as questões de mérito mas também o seu aspecto formal. Precedentes. 3. A decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante 4. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, com a ressalva do art. 98, § 3º, do CPC/2015. 5. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+(ARE 1099963 AgR, Relator(a): ROBERTO BARROSO, Primeira Turma, julgado em 29/06/2018, PROCESSO ELETRÔNICO DJe-157 DIVULG 03-08-2018 PUBLIC 06-08-2018)
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO ART. 125, § 4º, DA CONSTITUIÇÃO FEDERAL. POLICIAL MILITAR. PERDA DA GRADUAÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ENUNCIADO 279 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
