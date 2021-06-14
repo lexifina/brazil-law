@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. POSSIBILIDADE DE ANULAÇÃO DA PORTARIA ANISTIADORA. EFICÁCIA VINCULATIVA DA TESE FIRMADA PELO SUPREMO TRIBUNAL FEDERAL, EM SEDE DE REPERCUSSÃO GERAL, NO JULGAMENTO DO RE 817.338/DF (TEMA 839). SUSPENSÃO DO FEITO EXECUTIVO ATÉ DESFECHO DO PROCEDIMENTO REVISIONAL DA ANISTIA INSTAURADO PELA UNIÃO, QUE DEVERÁ SER CONCLUÍDO EM ATÉ 60 (SESSENTA) DIAS, SOB PENA DE RETOMADA DO TRÂMITE PROCESSUAL. AGRAVO IMPROVIDO.
+1. Consoante decidiu o Supremo Tribunal Federal, no bojo do RE 817.338/DF (Tema 839), submetido à sistemática da repercussão geral, ainda que decorrido o prazo decadencial de 05 (cinco) anos, mostra-se possível à Administração Pública instaurar procedimento de revisão das anistias concedidas a cabos da Aeronáutica com fundamento na Portaria nº 1.104-GM3/1964, desde que comprovada a ausência de ato com motivação exclusivamente política, assegurando-se ao anistiado, na via administrativa, o devido processo legal e a não devolução das verbas recebidas.
+2. O sobrestamento do feito executivo até a conclusão do procedimento de revisão da anistia política, instaurado à luz da orientação adotada pela Excelsa Corte, de especial eficácia vinculativa, não ofende a coisa julgada. Contudo, considerando o caso concreto, mostra-se razoável que seja fixado o prazo de 60 (sessenta) dias para que o ente público em questão conclua o procedimento revisional deflagrado, sob pena de retomada do trâmite processual.
+3. Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros João Otávio de Noronha, Sebastião Reis Júnior, Rogerio Schietti Cruz, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Antonio Saldanha Palheiro e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Felix Fischer.
+Presidiu o julgamento o Sr. Ministro Ribeiro Dantas.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo interno de fls. 87-107 interposto por CARLOS ROBERTO SOARES contra decisão monocrática que, em sede de execução em mandado de segurança, determinou a suspensão do feito executivo até o encerramento do procedimento de revisão da anistia política instaurado pela UNIÃO.
+O agravante alega, em síntese, que: (a) "a tese objeto do RE n. 817.338/DF é estranha aos presentes autos", de forma que qualquer conclusão adotada pelo Supremo Tribunal Federal "não tem a consequência de obstar o pagamento pretendido"; (b) "o título judicial é válido e exigível, e está em conformidade com a tese fixada na Repercussão Geral no RE nº 553.710/DF"; (c) não se mostra possível a relativização da coisa julgada, que só poderá ser revista por meio dos instrumentos próprios, como, por exemplo, através da ação rescisória; e (d) "a possível e posterior anulação da portaria concessiva da anistia que embasou esta execução não retira a eficácia do título judicial transitado em julgado".
+Requer, por isso, seja provido o recurso.
+A agravada, por sua vez, pleiteia a manutenção da decisão agravada. Argumenta que: (a) "o mandado de segurança objeto da execução tem como objeto o cumprimento da portaria concessiva da anistia", "não discutiu a qualidade de anistiado do exequente, não tratou da legalidade ou ilegalidade da portaria", pois limitou-se a suprir a omissão da autoridade no cumprimento da portaria anistiadora; (b) foram trazidos como fundamentos do pedido de suspensão do feito "a decisão proferida pelo STF no RE 817338 e a edição da Portaria 3076/2019, de 16 de dezembro de 2019, pelo Ministério da Mulher, Família e Direitos Humanos, que determina a revisão de todas as portarias concedidas com base na Portaria nº 1.104/GM-3/1964, do Ministério da Aeronáutica"; e (c) aplicável ao exequente o entendimento da Suprema Corte "para permitir a revisão do ato concessivo a qualquer tempo", porquanto encerrada a controvérsia quanto à não ocorrência de decadência.
+É o relatório.
+AgInt na EXECUÇÃO EM MANDADO DE SEGURANÇA Nº 11.159 - DF (2019/0081513-3)
+RELATOR
+:
+MINISTRO PRESIDENTE DA TERCEIRA SEÇÃO
+AGRAVANTE
+:
+CARLOS ROBERTO SOARES
+ADVOGADO
+:
+ANDRE FRANCISCO NEVES SILVA DA CUNHA E OUTRO - DF016959
+AGRAVADO
+:
+UNIÃO
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. POSSIBILIDADE DE ANULAÇÃO DA PORTARIA ANISTIADORA. EFICÁCIA VINCULATIVA DA TESE FIRMADA PELO SUPREMO TRIBUNAL FEDERAL, EM SEDE DE REPERCUSSÃO GERAL, NO JULGAMENTO DO RE 817.338/DF (TEMA 839). SUSPENSÃO DO FEITO EXECUTIVO ATÉ DESFECHO DO PROCEDIMENTO REVISIONAL DA ANISTIA INSTAURADO PELA UNIÃO, QUE DEVERÁ SER CONCLUÍDO EM ATÉ 60 (SESSENTA) DIAS, SOB PENA DE RETOMADA DO TRÂMITE PROCESSUAL. AGRAVO IMPROVIDO.
+1. Consoante decidiu o Supremo Tribunal Federal, no bojo do RE 817.338/DF (Tema 839), submetido à sistemática da repercussão geral, ainda que decorrido o prazo decadencial de 05 (cinco) anos, mostra-se possível à Administração Pública instaurar procedimento de revisão das anistias concedidas a cabos da Aeronáutica com fundamento na Portaria nº 1.104-GM3/1964, desde que comprovada a ausência de ato com motivação exclusivamente política, assegurando-se ao anistiado, na via administrativa, o devido processo legal e a não devolução das verbas recebidas.
+2. O sobrestamento do feito executivo até a conclusão do procedimento de revisão da anistia política, instaurado à luz da orientação adotada pela Excelsa Corte, de especial eficácia vinculativa, não ofende a coisa julgada. Contudo, considerando o caso concreto, mostra-se razoável que seja fixado o prazo de 60 (sessenta) dias para que o ente público em questão conclua o procedimento revisional deflagrado, sob pena de retomada do trâmite processual.
+3. Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Verifica-se que o agravo interno interposto objetiva a reforma da decisão que determinou a suspensão da execução até que sobrevenha notícia acerca do desfecho do procedimento de revisão da anistia política instaurado pela UNIÃO.
+Contudo, consoante decidiu o Supremo Tribunal Federal, no bojo do RE 817.338/DF (Tema 839), submetido à sistemática da repercussão geral, ainda que decorrido o prazo decadencial de 05 (cinco) anos, mostra-se possível à Administração Pública instaurar procedimento de revisão das anistias concedidas a cabos da Aeronáutica com fundamento na Portaria nº 1.104-GM3/1964, desde que comprovada a ausência de ato com motivação exclusivamente política, assegurando-se ao anistiado, na via administrativa, o devido processo legal e a não devolução das verbas recebidas.
+Outrossim, cumpre anotar que na QO no MS 15.706/DF, esta Corte Superior ressalvou entendimento no sentido de que a coisa julgada não representa empecilho à eventual anulação da portaria anistiadora. Em consequência, comprovada a anulação até o levantamento do precatório, deve ser obstada a expedição do aludido requisitório (ou cancelado o pagamento daquele eventualmente já expedido).
+Ademais, o acórdão exequendo transitado em julgado, a que se refere o agravante, não foi proferido no âmbito de mandado de segurança no qual se discutira a possibilidade de anulação da portaria de anistia: diversamente, nesse writ, determinou-se apenas o cumprimento desta, mediante o pagamento dos valores pretéritos.
+Por essa razão, o sobrestamento do feito executivo até a conclusão do procedimento de revisão da anistia política, instaurado à luz da orientação adotada pela Excelsa Corte, de especial eficácia vinculativa, não ofende a coisa julgada.
+Por fim, considerando que a UNIÃO teve ciência da decisão agravada, que determinara o sobrestamento do feito executivo, em 22/6/2020 (consoante termo lavrado à fl. 84), e em atenção a casos similares ao presente, mostra-se razoável que seja fixado o prazo de 60 (sessenta) dias para que o ente público em questão conclua o procedimento revisional deflagrado, sob pena de retomada do trâmite processual.
+Desse modo, não merece reparo a decisão agravada.
+Ante o exposto, voto por negar provimento ao agravo interno.
