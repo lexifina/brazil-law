@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+SEGURO. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER. COBERTURA DE PROCEDIMENTOS CIRÚRGICOS PRESCRITOS À AUTORA. ADMISSIBILIDADE. REQUERIDA QUE, AO NÃO JUNTAR SEQUER O CONTRATO, NÃO LOGROU COMPROVAR SEJA A EXISTÊNCIA, SEJA A LICITUDE DA SUPOSTA CLÁUSULA LIMITATIVA. RECUSA INDEVIDA EVIDENCIADA. INEXISTÊNCIA, CONTUDO, DE DANO MORAL ADVINDO DE MERO DESCUMPRIMENTO CONTRATUAL. CABIMENTO, POR FIM, DO REEMBOLSO DOS VALORES DOS HONORÁRIOS CONTRATUAIS, DESDE QUE LIMITADOS AOS PARÂMETROS DA TABELA DA OAB PARA O CASO. DECISÃO ALTERADA EM PARTE, COM A REPARTIÇÃO DA SUCUMBÊNCIA. RECURSOS DE APELAÇÃO PARCIALMENTE PROVIDOS.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões de recurso especial, a parte recorrente alega violação dos artigos 12, 186, 187, 389, 395, 404, 475, 927 e 944 do Código Civil; 334 e 535 do Código de Processo Civil de 1973, 6º, IV e VI, 14, § 3º, I e II, do Código de Defesa do Consumidor; 4º e 10 da Lei 10.741/2003; e 26 da Lei 2.181/1977, além de divergência jurisprudencial.
+Não merece reforma o acórdão recorrido.
+De início, afasto a apontada ofensa ao artigo 535 do Código de Processo Civil revogado, na medida em que o Tribunal de origem se manifestou de forma suficiente e motivada sobre os temas postos em julgamento.
+Depois, anoto que somente é devida a condenação à indenização a título de danos morais quando a negativa de cobertura gerar abalo psíquico à intimidade da pessoa, ultrapassando o mero aborrecimento do cotidiano, o que não ocorreu no caso concreto, na medida em que o Tribunal de origem afirmou expressamente que não houve prova do abalo moral sofrido, não se prestando para tanto mera presunção (fl. 406/e-STJ).
+Nesse sentido, é, inclusive, o entendimento pacificado deste Superior Tribunal de Justiça, no sentido de que o mero inadimplemento contratual não gera danos morais indenizáveis, mormente em razão de divergência de interpretação de cláusula contratual. Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. DANO MORAL NÃO CONFIGURADO. REEXAME FÁTICO- PROBATÓRIO. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte entende que o simples inadimplemento contratual não gera, em regra, danos morais, por caracterizar mero aborrecimento, dissabor, envolvendo controvérsia possível de surgir em qualquer relação negocial, sendo fato comum e previsível na vida social, embora não desejável nos negócios contratados. 2. A Corte de origem, analisando o acervo fático-probatório dos autos, consignou que o procedimento recusado pela agravada não se trata de procedimento de urgência, que pudesse colocar a vida do paciente em risco, não havendo no relatório médico nenhuma avaliação detalhada quanto ao quadro clínico e outros aspectos médicos que evidenciassem a necessidade de urgência no procedimento solicitado, circunstâncias que afastam a ocorrência de dano moral indenizável. 3. A alteração do contexto fático delineado pelo acórdão recorrido demandaria o reexame do contexto fático-probatório dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1653897/TO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/6/2017, DJe 29/6/2017)
+Incidência, pois, das Súmulas 7 e 83/STJ, que se aplicam também ao dissídio.
+Da mesma forma, observo que o Tribunal de origem decidiu em consonância com o entendimento pacificado nesta Corte, no que se refere à impossibilidade de condenação da parte adversa pelos gastos feitos com honorários advocatícios contratuais. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. RESSARCIMENTO. ARTS. 389, 395 E 404 DO CC. DESCABIMENTO. PRECEDENTES. IMPUGNAÇÃO. COLAÇÃO DE JULGADOS CONTEMPORÂNEOS OU SUPERVENIENTES. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. A Segunda Seção do STJ já se pronunciou no sentido de ser incabível a condenação da parte sucumbente aos honorários contratuais despendidos pela vencedora.
+2. Se "fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ" (STJ, AgRg no REsp 1.374.369/RS, Rel. Ministro HERMAN BENJAMIN, DJe de 26/6/2013).
+3. Incidência do enunciado n. 182 da Súmula desta Corte face à ausência de impugnação específica dos fundamentos da decisão agravada.
+3. Agravo interno não conhecido.
+(AgInt no REsp 1653575/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/11/2017, DJe 23/11/2017)
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
