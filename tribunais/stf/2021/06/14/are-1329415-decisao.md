@@ -1,0 +1,29 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do princípio da coisa julgada.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    Sustenta o impetrante que "reconhecida a inconstitucionalidade declarada do art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei nº 11.960/2009, inclusive com efeitos retroativos, tendo em vista o não acolhimento do pedido de modulação dos efeitos da decisão em sede de recurso de embargos de declaração, cabível a execução complementar observados os critérios de correção fixados pelo STF, quando do julgamento do Tema 810.
+    Alega que "negado pela autoridade coatora o direito do líquido e certo do impetrante à execução complementar com base na diferença entre índices de correção monetária, aplicando-se o que fora decidido pelo STF no julgamento do RE 870.947, a concessão da segurança é medida que se impõe.
+    (...)
+    No caso dos autos, a sentença transitada em julgado condenou o INSS ao pagamento dos valores atrasados, da seguinte forma:
+    "Da atualização monetária, remuneração do capital e compensação da mora.
+    Considerando não ter transitado em julgado o Tema 810 do STF (RE 870947), bem como não ter sido concluído o julgamento das Ações Diretas de Inconstitucionalidade n. 4.357/DF e n. 4.425/DF, bem como ter sido recorrente a reforma de decisões judiciais prevendo a aplicação de critérios distintos, segundo sucessivas reclamações providas pela referida Suprema Corte (Rcl 19.050, Rel. Min. Roberto Barroso; Rcl 21.147, Rel. Min. Cármen Lúcia; Rcl 19.095, Rcl. Min. Gilmar Mendes, Rcl 21.147, Min. Cármen Lúcia, DJe 17.02.2016, e Rcl 17.495, Min. Teori Zavascki, DJe 5.2.2016), impõe-se a adoção do critério de atualização monetária, remuneração do capital e compensação da mora previsto no art. 1º-F da Lei n. 9.494/97, com redação dada pela Lei n. 11.960/09, porquanto ainda em plena vigência.”
+    Ora, o autor não se insurgiu contra os critérios de correção monetária e juros adotados pela decisão, mesmo tendo oportunidade de suscitar tal questão mediante recurso próprio.
+    Ressalto que o mandado de segurança não é sucedâneo de recurso que não foi interposto oportunamente.
+    Em sede de cumprimento de sentença, apenas é devido espaço para impetração de mandado de segurança quando se logra apontar franco desrespeito à coisa julgada.
+    Neste sentido, o artigo 5º da Lei n.º 12.016/2009 veda a concessão de mandado de segurança no caso de decisão judicial transitada em julgado: (...)
+    Logo, os critérios indicados para a atualização dos valores devidos à parte autora encontram-se sob o manto da coisa julgada e não podem ser alterados na fase do cumprimento do julgado, devendo as prestações em atraso seguir o título judicial.
+    Nessas condições, a pretensão do impetrante não se amolda à via estreita do mandado de segurança e, por isso, deve ser indeferida de plano a petição inicial.
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo e Previdenciário. Servidor estadual. Previdência complementar. Adesão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional, bem como do conjunto fático-probatório dos autos. Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.210.720/SP - AgR, Tribunal Pleno, Min. Rel. Dias Toffoli (Presidente), DJe de 18/09/19).
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 518.895/MG-AgR, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ de 15/4/5).
+    No mesmo sentido: RE nº 1.231.979/RJ - ED, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 18/12/19; RE nº 1.173.779/RS-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 31/5/19 e RE nº 832.960/DF-AgR, Primeira Turma, Rel. Min Luiz Fux, DJe de 21/5/19.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 14 de junho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
