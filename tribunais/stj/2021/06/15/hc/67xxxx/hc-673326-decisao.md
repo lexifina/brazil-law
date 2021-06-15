@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de ANDERSON DE ARAÚJO,contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no julgamento da Apelação Criminal n. 1.0407.14.003939-4/002 (CNJ n. 0039394-32.2014.8.13.0407).
+Extrai-se dos autos que, após julgamento perante o Tribunal do Júri,o paciente foi condenado pela prática decrimes previstos no artigo 1º, incisoI, alínea "a", c/c § 4º, inciso II,da Lei n. 9.455/97;e nos artigos 121, § 2º, incisoI e IV, 211, ambos do Código Penal (tortura majorada contra adolescente, homicídio qualificado e destruição, subtração ou ocultação de cadáver).
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual negou provimento ao recurso defensivo e, ainda,determinoua expedição de mandado de prisão após o exaurimento dos prazos ordinários. O acórdão restou assim ementado:
+"APELAÇÃO CRIMINAL - CRIME DE HOMICÍDIO QUALIFICADO (ART. 121, §2º, INC. I E IV, DO CP) E OCULTAÇÃO DE CADÁVER (ART. 201 DO CP) - CONDENAÇÃO PELO TRIBUNAL DO JÚRI - RECURSO DA DEFESA - DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS - INOCORRÊNCIA - SENTENÇA MANTIDA.
+-O conceito de decisão manifestamente contrária à prova dos autos (art. 593, III, "d", do Código de Processo Penal) é limitado pelo princípio da soberania dos veredictos, cabendo ao Tribunal, tão somente, verificar se a decisão dos jurados encontra amparo no conjunto probatório dos autos.
+-Havendo nos autos prova capaz de justificar a opção dos jurados, como in casu, não é lícito ao Tribunal de Justiça anular o julgamento do Conselho de Sentença por contrariedade à prova dos autos, sob pena de violar a soberana competência a este garantida constitucionalmente."(fl. 26).
+Segundo alegações, foram opostos embargos de declaração contra o julgado, os quais foram rejeitados.
+No presente mandamus, aimpetrante sustenta flagrante ilegalidade suportada pelo paciente em razão da expedição de mandado de prisão nos autosAção Penal n. 0039394-32.2014.8.13.0407, ante o esgotamento dos recursos da via ordinária.
+Alega ser incabível a execução penal provisóriaantes de findas as oportunidades para recurso, destacando que, no caso dos autos, não houve o trânsito em julgado de condenação para a defesa. Afirma, portanto, não haver justa causa para a prisão do paciente.
+Faz juntar o andamento processual da apelação e dos embargos de declaração perante a Corte estadual.
+Pugna, assim, em liminar e no mérito, pela expedição de salvo-conduto em favor do paciente, para que permaneça em liberdade até o trânsito em julgado da condenação.
+É o relatório.
+Decido.
+Owrit, conquanto impetrado por profissional legalmente habilitado, está deficientemente instruído.
+Verifica-se dos autos que, após o julgamento da apelação interposta pela defesa,houve a oposição de embargos declaratórioscontra referido julgado, entretanto, não consta do presentemandamuscópia do acórdão proferido pela Corte estadual no julgamento do referido recurso.
+Saliente-se que referido documento é essencial à exata compreensão da controvérsia e ao exame da plausibilidade do pedido e amera juntada do extrato processualnão supre a deficiência apontada.
+Cabe ressaltar que em razão da celeridade do rito dohabeas corpus, incumbe à defesa apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração.
+No mesmo sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL. HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE CÓPIA DA DECISÃO INDEFERITÓRIA PROFERIDA PELO DESEMBARGADOR RELATOR DO TRIBUNAL A QUO. INDEFERIDO LIMINARMENTE. POSSIBILIDADE. PRECEDENTES DESTA CORTE SUPERIOR. ÔNUS DO IMPETRANTE DE COLACIONAR OS DOCUMENTOS NECESSÁRIOS AO DESLINDE DO TEMA. DECISÃO MANTIDA.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, porquanto em perfeita sintonia com a jurisprudência deste Tribunal Superior no sentido de que, é devido o indeferimento da petição inicial do habeas corpus que não está devidamente instruído, sendo, portanto, ônus do impetrante, e não deste Tribunal, colacionar os documentos essenciais para a análise das ilegalidades apontadas.
+2. Ausente o documento comprobatório da irresignação defensiva, a despeito da alegação de transcrição integral do r. decisum na inicial, inviável o exame da questão por esta Corte Superior, porquanto não vinculado à demonstração de plano da ilegalidade, ou seja, não indicado por meio de prova pré-constituída; aliás, nem mesmo após a interposição de agravo regimental a peça essencial faltante foi juntada.
+3. Agravo regimental improvido (AgRg no HC 447.610/MG, Relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 1º/6/2018).
+PROCESSO PENAL. AGRAVOREGIMENTALDA DECISÃO QUE NÃO CONHECEU OWRIT. HABEAS CORPUS SUBSTITUTIVODE RECURSO PRÓPRIO.AUSÊNCIA DEFLAGRANTE ILEGALIDADE.DECISÃO FUNDAMENTADA. INSTRUÇÃO DEFICIENTE.AUSÊNCIA DEINFORMAÇÃONECESSÁRIA À ANÁLISE DO MANDAMUS QUANDO DASUAIMPETRAÇÃO.AGRAVO REGIMENTAL DESPROVIDO.
+I - O SuperiorTribunal de Justiça, alinhando-se à nova jurisprudência da CorteSuprema, também passou a restringir as hipóteses de cabimento dohabeas corpus, não admitindo que o remédio constitucional sejautilizado em substituição ao recurso ou ação cabível, ressalvadas as
+situações em que, à vista da flagrante ilegalidade do ato apontadocomo coator, em prejuízo da liberdade do paciente, seja cogente aconcessão, de ofício, da ordem de habeas corpus.
+II - Está assentado nesta Corte Superior de Justiça o entendimentosegundo o qual a ação mandamental de habeas corpus exige aapresentação de prova pré-constituída, recaindo sobre o impetrante oônus de informar e instruir corretamente o mandamus, a fim de que
+seja possível identificar o alegado constrangimento ilegal.
+III - No presente caso, a Defesa não juntou cópia dos embargosinfringentes e tampouco consignou informação essencial aoconhecimento do writ, consistente na ausência de correlação entre oobjeto dos embargos infringentes e o dispositivo do acórdão quedeterminou o início da execução provisória da sentença após o exaurimento da segunda instância.
+IV - A juntada de documento considerado imprescindível ao exame daquestão apenas por ocasião da interposição de agravo regimentalconfigura fato novo e, portanto, não tem o condão de alterar osfundamentos da decisão agravada. Agravo regimental desprovido (AgRg no HC 443.992/RS, RelatorMinistro FELIX FISCHER,QUINTA TURMA,Julgamento em15/5/2018,DJe 22/5/2018).
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça,indefiro liminarmenteo presentehabeas corpus.
+Publique-se.
+Intimem-se.
