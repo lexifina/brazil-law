@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de LUCAS ALVES DE MIRANDA, contra acórdão doTribunal de Justiça do Estado de Minas Gerais (Agravon. 1.0024.18.096268-0/001).
+O paciente praticou novo crime enquanto se encontrava em livramento condicional,ocasionando em que reconhecida a falta grave e promovida a revogação dobenefício.
+O Tribunal de origem manteve a decisão.
+A impetrante alega a existência de flagrante ilegalidade, defendendo que não é possível a aplicação de faltas disciplinares ao beneficiado com o livramento condicional.
+Requer, liminarmente e no mérito, seja cassada a decisãoque reconheceu a falta grave e seus consectários legaisem desfavor do paciente.
+O pedido de liminar foi indeferido (fls. 316-317).
+Após prestadas informações (fls. 320-349),o Ministério Público Federal opinou pelo não conhecimento do writ e pela concessão da ordem de ofício (fls. 354-361).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se identificada flagrante ilegalidade no ato judicial impugnado.
+No presente caso, o Juízo da execução decidiu nestes termos(fls. 229-230):
+A execução da pena privativa de liberdade é cumprida de forma progressiva. Contudo, sujeita-se à forma regressiva, quando o sentenciado pratica falta grave ou vem a ser condenado por crime anterior, cuja pena, somada ao restante da reprimenda pena em execução, torne incabível a manutenção do regime.
+No caso, o sentenciado, em pleno curso do processo executivo, foi preso, acusado do cometimento de novo crime, sendo, inclusive, condenado.
+Destarte, a homologação da falta é de rigor.
+Dispõe o artigo 52 da LEP que "a prática de fato previsto como crime doloso constitui falta grave e, quando ocasione subversão da ordem ou disciplina internas, sujeita o preso provisório, ou condenado, sem prejuízo da sanção penal, ao regime disciplinar diferenciado..".
+Assim sendo, entendo que o caso é de se reconhecer a pratica de falta grave, com interrupção do prazo, a partir desta data, para a aquisição de novos benefícios.
+Frisa-se que a homologação da falta se mostra imperiosa, mesmo após a soma das penas, por certo que pode vir a influenciar possíveis benefícios futuros, os quais dependem do preenchimento de certos requisitos subjetivos.
+Ademais, esclareço que a praxe deste juízo é a de estabelecer o prazo de 6 (seis) meses para análise do mérito de novos benefícios, a contar da decisão da homologação da falta. Após uma maior reflexão, percebe-se que, na maioria das situações, ocorre o transcurso de grande lapso temporal entre o cometimento da falta e a efetiva análise judicial.
+Isso se decorre diante da necessidade de oitiva do executado em juízo, bem como das posteriores movimentações processuais essenciais ao trâmite executório. Nesse aspecto, penso irrazoável a manutenção desta política criminal, que se mostra, a grosso modo, como uma espécie de dupla punição ao Sentenciado enquanto em cumprimento de pena.
+Diante do exposto, passo a adotar, como medida mais coerente, o entendimento de que deve-se aguardar o transcorrer de 6 (seis) meses, a contar da data da falta, para análise do requisito subjetivo visando a concessão de novas benesses.
+Declaro, ademais, a perda de 1/6 dos dias remidos, caso haja algum.
+Retifique-se o atestado de penas, devendo constar como data base para nova progressão de regime aquela em que se deu o cumprimento da ordem de prisão.
+O Tribunal de origemconcluiu o seguinte (fls. 282-284):
+O livramento condicional é um instituto destinado a permitir a redução do tempo de prisão do réu condenado a pena privativa de liberdade, sendo possível restituir sua liberdade antecipadamente, desde que cumpridos os requisitos da legislação.
+Por meio deste instituto, o condenado pode apresentar condições de reintegrar-se socialmente será colocado novamente no convívio social.
+Extrai-se dos autos, que o agravante, em cumprimento de pena total de 11 (onze) anos, 06 (seis) meses e 20 (vinte) dias de reclusão pela prática do delito de roubo majorado, por duas vezes e, no gozo do livramento condicional, praticou novo crime durante o período de prova, sendo-lhe suspenso o livramento condicional.
+Assim, havendo o recorrido perpetrado novo delito durante o gozo do benefício, deve ser reconhecida a prática falta grave e aplicadas as sanções previstas no art. 118, inc. I e art. 127, ambos da LEP, dentre elas, a regressão de regime, a perda de 1/6 dos dias remidos e alteração da data-base para a obtenção de novos benefícios, não havendo que se falar em bis in idem.
+Ao cometer o novo crime, o condenado, independente de estar beneficiado ou não com o livramento condicional, pratica falta grave, devendo arcar com as consequências de seu ato. E, estando em gozo do livramento condicional, deve ser o benefício suspenso, com base no art. 145 da LEP. Ambas são determinações expressas na Lei de Execução Penal.
+ ..
+Dessa forma, é plenamente possível que, respeitado o procedimento previsto em lei, seja reconhecida a prática de falta grave pelo liberado, sem que haja bis in idem, pois a Lei de Execuções Penais prevê efeitos diversos para o cometimento da falta.
+No caso, há flagrante ilegalidade, visto que a conclusão adotada é contrária ao entendimento do STJ, razão pela qual está constatada hipótese de constrangimento ilegal passível de ser sanado na presente via.
+O Superior Tribunal de Justiça entende que a prática de fato definido como crime durante o livramento condicional tem regras próprias, constantes dos arts. 83 a 90 do Código Penal e 131 a 146 da Lei de Execução Penal, não se confundindo com os efeitos legais decorrentes da falta grave praticada durante o cumprimento da pena.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. NOVO CRIME COMETIDO DURANTE O PERÍODO DE PROVA DO LIVRAMENTO CONDICIONAL.REGRAS PRÓPRIAS. CONSECTÁRIOS LEGAIS DA FALTA GRAVE.AFASTAMENTO. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte, no exame de casos análogos, "firmou entendimento no sentido de que a prática de fato definido como crime durante o livramento condicional tem regras próprias, previstas nos artigos 83 a 90 do Código Penal, e nos artigos 131 a 146 da Lei de Execução Penal, não se confundido, portanto, com os consectários legais decorrentes de falta grave praticada durante o cumprimento da pena". (AgRg no HC 344.486/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 13/3/2018).
+2. Agravo desprovido.(AgRg no HC n. 572.228/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2020.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO.EXECUÇÃO PENAL. NOVA INFRAÇÃO NO CURSO DO LIVRAMENTO CONDICIONAL. AUDIÊNCIA DE JUSTIFICAÇÃO. CONSTRANGIMENTO ILEGAL.EFEITOS DA PRÁTICA DE NOVA INFRAÇÃO NÃO SE CONFUNDEM COM OS CONSECTÁRIOS LEGAIS DA FALTA GRAVE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus substitutivo do recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem de ofício.
+II - A controvérsia, na hipótese vertente, circunscreve-se a definir se o cometimento de novo crime no curso do livramento condicional configura a prática de falta grave, nos termos do art. 52 da Lei de Execuções Penais, ou, se, com incidência das regras próprias do referido benefício, na forma dos arts. 83 a 90 do Código Penal e arts. 131 a 146 da LEP, tem por efeito apenas a sua suspensão e posterior revogação, com a desconsideração do tempo que o apenado esteve liberado.
+III - Os efeitos da prática de outra infração penal no curso do livramento condicional, de fato, submetem-se às regras próprias deste benefício e, portanto, não se confundem com os consectários legais da falta grave. Precedentes.
+IV - Revela-se, assim, manifestamente ilegal determinar a realização de audiência de justificação para apuração de infração disciplinar, que, fosse o caso, deveria ser apurada mediante instauração de Procedimento Administrativo Disciplinar, como é o entendimento desta Corte Superior.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para cassar o v. acórdão impugnado e afastar a apuração de falta grave em vista do cometimento de nova infração penal no curso do livramento condicional.(HC n. 479.923/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019.)
+Ante o exposto, não conheço do habeas corpus,mas, de ofício, concedo a ordem para afastar o reconhecimento de falta gravenos termos da fundamentação acima.
+Publique-se. Intimem-se.
