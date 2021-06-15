@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de recurso especial interposto por VILSON BILIBIO, fundamentado naalínea"a" do permissivo constitucional.
+Recurso especial interposto em: 07/02/2020.
+Concluso ao gabinete em: 10/12/2020.
+Ação:embargos à penhora ajuizada pelo recorrente em face de COOPERATIVA REGIONAL TRITÍCOLA SERRANA LTDA  COTRIM, na qual alega que nos autos da ação executiva, embasado pela Cédula de Produtor Rural n 2 002/2006, foi penhorado um imóvel, de sua propriedade, matriculado sob n. 234.098 do RI de Cruz Alta/RS. Aduz que a CPR n 2 002/2006 é objeto da ação revisional nº 016/1.12.0007996-3, juntamente a outros títulos executivos firmados pelo recorrente em favor da recorrida, desse modo, a ação de execução deve ser suspensa até a resolução do feito revisional. Pede a procedência do pedido para o fim de atribuir efeito suspensivo aos presentes embargos e desconstituir a penhora realizada pelo pagamento por compensação dos créditos e débitos havidos entre as partes.
+Sentença: julgou improcedentes os embargos.
+Acórdão: negou provimento ao recurso de apelação interposto pelo recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. EMBARGOS À PENHORA. A EXISTÊNCIA DE AÇÃO REVISIONAL, POR SI SÓ, NÃO É SUFICIENTE PARA OBSTAR O PROSSEGUIMENTO DA AÇÃO DE EXECUÇÃO. REQUISITOS PARA A CONCESSÃO DA TUTELA PROVISÓRIA NÃO DEMONSTRADOS. SENTENÇA CONFIRMADA. NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Embargos de Declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 313, V, "a", 341,489 §1º, III, IV e VI, 1.022, II, todos do CPC/15. Sustenta negativa de prestação jurisdicional e omissão no julgado, uma vez que não foram apreciadas questões relevantes para o correto desfecho da causa, quais sejam: a) pedido preliminar de nulidade e desconstituição da sentença, pois anterior a sentença da demanda revisional; b) invalidação e cancelamento da penhora e da hipoteca efetuadas na execução; e c) suspensão do curso da ação executiva até o trânsito em julgado da demanda revisional. No mérito, defendeu a necessidade de suspensão dosembargos à execução em razão do ajuizamento de ação revisional, bem como de desconstituição da penhora e hipoteca realizadas no feito executivo, a fim de que sejam compensados judicialmente os débitos e créditos recíprocos a serem definidos na demanda revisional.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca da suposta omissão do TJ/RS residem no argumento de que, apesar de instado a se manifestar por meio de embargos declaratórios, o órgão jurisdicional quedou-se silente, especialmente, no que concerne à apreciação dos seguintes argumentos:a) preliminar de nulidade e desconstituição da sentença, pois anterior a sentença proferida na ação revisional, e b) pedido de invalidação e cancelamento da penhora e hipoteca realizadas no feito executivo, a fim de que sejam compensados judicialmente os débitos e créditos recíprocos a serem definidos na demanda revisional, formulados pelo recorrente nas razões recursais do recurso de apelação.
+Da análise do processo, constata-se que o Tribunal de origem, ao julgar os embargos de declaração interpostos pelo recorrente, foi omisso quanto aos referidos argumentos.
+Verifica-se que as questões foram objeto de devida insurgência tanto nas razões da apelação, quanto nas razões dos embargos declaratórios interpostos.
+Assim, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que o Tribunal se pronuncie, na esteira do devido processo legal, acerca dos pontos elencados.
+Por conseguinte, tenho por prejudicada a análise das demais matérias insertas no recurso especial.
+Forte nessas razões, CONHEÇOparcialmente do recurso especial, e nessa extensão, DOU-LHE PROVIMENTO, com fundamento no art. 932, III e V, a , do CPC/2015, bem como na Súmula 568/STJ, para: a) anular o acórdão que julgou os embargos de declaração interpostos pelorecorrente; e b) determinar a remessa dos autos ao TJ/RS, a fim de que este se pronuncie, na esteira do devido processo legal, sobre os argumentos elencados nos embargos de declaração opostos ao acórdão recorrido.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. OFENSA CONFIGURADA. PREJUDICIALIDADE DAS TESES COMPLEMENTARES.
+1. Caracteriza-se ofensa ao art. 1.022 do CPC/2015 nas hipóteses em que o Tribunal de origem, mesmo após a oposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia.
+2. Recuso especial parcialmente conhecido e, nessa extensão, provido.
