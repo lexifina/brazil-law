@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANA LÍVIA SANTOS SILVAcom fundamento no art. 105, III, a,da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1501753-48.2019.8.26.0196).
+Em primeiro grau, arecorrente foi condenada às penas de 5 anos de reclusão no regime fechado e de 500 dias-multa, pela prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006. O Tribunal de origem deu parcial provimento à apelação da defesa para determinar a aplicação do redutor do tráfico privilegiado na fração de 2/3, redimensionando a reprimenda para 1 ano e 8 meses no regime fechado.
+Nas razões do recurso especial, alega a recorrente violação dos arts. 33 e 44do Código Penal, porquanto destituídas de fundamentos a fixação de regime inicial mais gravoso e a negativa de substituição da reprimenda corporal por penas restritivas de direitos.
+As contrarrazões foram apresentadas às fls. 432-443.
+Admitido o apelo extremo (fl. 458), o Ministério Público Federal apresentou parecer pelo provimento do recurso especial (fls. 467-470).
+É o relatório. Decido.
+O recurso reúne condições de prosperar.
+In casu, a pena-base foi fixada no mínimo legal e, na terceira fase, o redutor foi aplicadona fração máxima, mantido o regime inicial fechado pelas seguintes razões (fls. 920-921):
+O regime inicial fechado, diante das circunstâncias do caso concreto, é o único adequado e suficiente ao caráter preventivo e repressivo da carcerária, sendo inviável o abrandamento, não se olvidando que a traficância é mola propulsora da criminalidade que assola o país, uma vez que o usuário, na ânsia de sustentar seu vício, pratica toda sorte de delitos, abalando consequentemente toda a sociedade.
+ ..
+Também não era o caso de substituição da pena corporal do sentenciado por alternativa.
+É certo que a decisão do colendo Supremo Tribunal Federal nos autos do HC 97.256/RS, consolidada pela Resolução nº 5 do Senado Federal, reconheceu ser possível a aplicação do art. 44 do Código Penal para os delitos previstos na Lei de Drogas. Contudo, não afastou do julgador natural o poder de efetuar tal conversão levando em conta as circunstâncias concretas de cada caso, o que nem se cogita no presente, pois se entende que o benefício não seria suficiente para alcançar o caráter preventivo e repressivo da reprimenda, podendo incentivar as apelantes a permanecer na senda de crime tão nefasto.
+Por fim, oportuno destacar que, a despeito de o Excelso Supremo Tribunal Federal ter afastado a hediondez do tráfico privilegiado, tal decisão não é dotada de caráter vinculante, tendo sido aplicada de forma incidental. Desta forma, não pode tal interpretação ser estendida a todos os crimes de tráfico de drogas no país, já que se trata ainda de crime arrolado como assemelhado a hediondo, nos termos da legislação vigente, devendo ser tratado com rigor como estabelece a Constituição Federal.
+O art. 33, §§ 2º, a, b e c, e 3º, do Código Penal estabelece a regra geral para fixação do regime inicial de cumprimento da pena, pautando-se pela quantidade da reprimenda imposta ao final da dosimetria: a) fechado para a pena superior a 8 anos e, em casos de reincidência, para a pena igual ou inferior a 8 e superior a 4 anos; b) semiaberto para a pena igual ou inferior a 8 e superior a 4 anos, se primário o condenado; e c) aberto para a pena de até 4 anos.
+Ademais, nos termos da Súmula n. 269 do STJ, admite-se o regime semiaberto na hipótese de reincidente condenado a pena igual ou inferior a 4 anosse a pena-base tiver sido fixada no mínimo legal.
+Destaque-se que a escolha do regime fechado com base na hediondez do delito não encontra mais respaldo na jurisprudência das cortes superiores, mormente após a declaração de inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990 pelo Supremo Tribunal Federal.
+O juiz pode fixar regime inicial mais gravoso do que aquele relacionado unicamente com o quantum da pena ao considerar a eventual existência de circunstâncias judiciais desfavoráveis, especialmente a natureza ou a quantidade da droga, até mesmo sua forma de acondicionamento, desde que fundamente a decisão (AgRg no HC n. 536.415/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19/8/2020).
+É incabível, todavia, a fixação de regime prisional mais gravoso com base apenas na gravidade abstrata do delito, especialmente quando a pena-base foi estabelecida no mínimo legal.
+A propósito, confira-se o enunciado da Súmula n. 440 do STJ:
+Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+O STF também possui orientação firmada no mesmo sentido. Vejam-se, respectivamente, as Súmulas n. 718 e 719:
+- A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+- A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+No presente caso, considerando as circunstâncias judiciais favoráveis, a primariedade da recorrente e o quantum da pena aplicada (1 ano e 8 meses de reclusão), justifica-se a alteração para o regime inicial aberto, nos termos do art. 33, § 2º, c, do Código Penal.
+Por fim, diante da pena imposta e considerado não significativo o volume da droga apreendida (124,8g de maconha), impõe-se a substituição da sanção privativa de liberdade por penas restritivas de direitos, a serem definidas pelo Juízo competente.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, conheço do recurso especiale dou-lhe provimento para estabelecer o regime aberto para o cumprimento da sanção imposta à recorrente, substituindo a pena privativa de liberdade por restritivas de direitos, a serem definidas pelo Juízo competente.
+Comunique-se com urgência ao Juízo de primeira instância e ao Tribunal de origem para que adotem as providências necessárias.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
