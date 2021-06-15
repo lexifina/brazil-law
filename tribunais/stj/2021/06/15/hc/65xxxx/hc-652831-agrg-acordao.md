@@ -1,0 +1,64 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. MODUS OPERANDI. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. " O  entendimento majoritário desta Sexta Turma é no sentido de que a não realização da audiência de custódia não enseja nulidade da prisão preventiva em que posteriormente convertida, pois, observadas as outras garantias processuais e constitucionais, resta superado o exame desse tema.  ..  Cabe ressaltar ainda que a excepcionalidade do período de pandemia da doença Covid-19, pelo qual estamos passando, validamente permite a decretação da custódia cautelar sem a audiência de custódia" (AgRg no HC n. 630.066/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 2/3/2021, DJe 5/3/2021).
+2. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+3. No caso, a prisão preventiva está justificada no modus operandi empregado na conduta delitiva, revelador da periculosidade do agravante, que, por motivo fútil e em concurso de agentes, ceifou a vida da vítima mediante disparos de arma de fogo e sem possibilitar-lhe defesa. Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+4. Condições subjetivas favoráveis do paciente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória (precedentes).
+5. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+6. Na mesma linha a manifestação da Procuradoria-Geral da República, para quem " E ncontra-se plenamente motivada na decisão que decretou a prisão preventiva do ora paciente, tendo em vista seu alto grau de periculosidade".
+7. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Cuida-se de agravo regimental interposto por RENATO ALBUQUERQUE DE ARRUDA contra decisão monocrática de minha lavra em que deneguei o habeas corpus (e-STJ fls. 588/591).
+Em suas razões, repisa o agravante as alegações da nulidade pela ausência de realização de audiência de custódia, bem como pela ausência de fundamentação idônea para a decretação da prisão preventiva.
+Busca, assim, seja reconsiderada a decisão agravada ou submetido o presente recurso ao órgão colegiado.
+É, em síntese, o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Não há como acolher a insurgência.
+Sobre a alegação de nulidade, destaco que "o entendimento majoritário desta Sexta Turma é no sentido de que a não realização da audiência de custódia não enseja nulidade da prisão preventiva em que posteriormente convertida, pois, observadas as outras garantias processuais e constitucionais, resta superado o exame desse tema. A propósito: AgRg no HC 353.887/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 19/05/2016, DJe 07/06/2016; RHC 76.906/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/11/2016, DJe 24/11/2016; RHC 63632/PR, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 25/10/2016, DJe 18/11/2016. Cabe ressaltar ainda que a excepcionalidade do período de pandemia da doença Covid-19, pelo qual estamos passando, validamente permite a decretação da custódia cautelar sem a audiência de custódia" (AgRg no HC n. 630.066/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 2/3/2021, DJe 5/3/2021).
+Dessa forma, ausente a ilegalidade arguida pela não realização da audiência de custódia.
+Quanto ao mérito da prisão, insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência dopericulum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva (e-STJ fl. 194):
+Quanto ao periculum libertatis, decorre das circunstâncias concretas da infração penal. Isto é, tudo indica que houve uma homicídio, praticado em concurso de agentes, cometido com arma de fogo, por motivação fútil ou torpe, executado de de um modo que impossibilitou a defesa do ofendido. Essas circunstâncias denotam séria gravidade e reprovabilidade da conduta, a indicar que os investigados, em liberdade, tendem a reiterar na prática delitiva, colocando em risco a ordem pública. É da jurisprudência do Supremo Tribunal Federal:
+Vê-se que a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, revelador da periculosidade do agravante, que, por motivo fútil e em concurso de agentes, ceifou a vida da vítima mediante disparos de arma de fogo e sem possibilitar-lhe defesa.
+Tais circunstâncias, como já destacado, evidenciam a gravidade concreta da conduta, porquanto extrapolam a mera descrição dos elementos próprios do tipo de homicídio. Assim, por conseguinte, a segregação cautelar faz-se necessária como forma de acautelar a ordem pública.
+Nesse sentido:
+PROCESSUAL PENAL E PENAL. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. RENOVADO DECRETO DE PRISÃO APÓS PRÉVIA CONCESSÃO DA ORDEM. POSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA. LEGALIDADE. RECURSO IMPROVIDO.
+1. Precedente ilustrador da atuação da Corte em habeas corpus e da necessidade de motivação das decisões judiciais.
+2. Decisão que em persecução criminal por homicídio imputado a policiais em associação, com fraude processual, decreta a prisão por riscos sem expressar sequer em uma linha - ou mesmo palavra - os fatos justificadores dos invocados riscos. Ilegalidade reconhecida monocraticamente pelo Relator, sem recursos.
+3. Expressado já então na decisão do Relator, aliás de modo até redundante, pela provisoriedade ínsita às cautelares, que a concessão da ordem não impede nova e fundamentada decisão de necessária cautelar penal, inclusive menos gravosa do que a prisão processual, veio o magistrado de primeiro grau a novamente decidir sobre a necessidade da prisão preventiva.
+4. Nova decisão que agora explicita circunstâncias do caso justificadoras de risco social (gravidade concreta do crime e risco à ordem pública) e ao processo (alteração do local do crime, com riscos à instrução processual). Validade.
+5. Indicada a gravidade concreta da conduta criminosa, pois foram efetuados dezenas de disparos de diversas armas de fogo, de diferentes calibres, inclusive de fuzis, contra um veículo em que se encontravam cinco vítimas  ..  em via pública, aberta ao tráfego de pessoas e veículos, de modo que não há que se falar em ilegalidade a justificar a concessão da ordem.
+6. Em habeas corpus a Corte não prende, mas apenas confere a legalidade da decisão de prisão, mantendo-a se legal, por fundamentos nela explicitados.
+7. Recurso em habeas corpus improvido. (RHC 77.723/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/03/2017, DJe 13/03/2017)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. PREENCHIMENTO DOS REQUISITOS. GRAVIDADE CONCRETA DO DELITO. PERICULOSIDADE DO AGENTE. AMEAÇA A TESTEMUNHAS. FUGA APÓS COMETIMENTO. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DO ART. 319 DO CPP. INVIABILIDADE. COAÇÃO ILEGAL NÃO DEMONSTRADA. RECURSO DESPROVIDO.
+ ..
+2. No caso, as instâncias ordinárias apresentaram fundamentos suficientes para justificar a segregação cautelar do paciente, em especial o modus operandi adotado, uma vez que teria, em tese, efetivado o homicídio quando a vítima se encontrava em uma confraternização de carnaval, com presença de inúmeras pessoas da vizinhança, inclusive atingindo-a como novos disparos quando já se encontrava caída ao solo.
+3. Com efeito, "se a conduta do agente - seja pela gravidade concreta da ação, seja pelo próprio modo de execução do crime - revelar inequívoca periculosidade, imperiosa a manutenção da prisão para a garantia da ordem pública, sendo despiciendo qualquer outro elemento ou fator externo àquela atividade" (HC n. 296.381/SP, Relator Ministro Marco Aurélio Bellizze, Quinta Turma, julgado em 26/8/2014, DJe 4/9/2014).
+ ..  (RHC 91.056/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/02/2018, DJe 28/02/2018)
+No mais, frise-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória. Nesse sentido:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido. (RHC 64.879/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/03/2016)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública. A propósito, confiram-se estes precedentes:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+ ..
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, a conferir lastro de legitimidade à custódia.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso a que se nega provimento. (RHC 68.535/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/03/2016, DJe 12/04/2016)
+PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. MODUS OPERANDI DOS DELITOS. VIOLÊNCIA REAL CONTRA UMA DAS VÍTIMAS, NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+6. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+7. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido. (HC 393.464/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/08/2017, DJe 04/09/2017)
+No mesmo sentido opinou o Ministério Público Federal, de cujo parecer transcrevo excerto, in verbis (e-STJ fl. 644):
+5. Adentrando ao mérito, unicamente por amor ao debate, não deve lograr êxito o esforço recursal defensivo. Encontra-se plenamente motivada na decisão que decretou a prisão preventiva do ora paciente, tendo em vista seu alto grau de periculosidade.
+À vista do exposto, nego provimento ao agravo regimental, acolhido o parecer ministerial.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
