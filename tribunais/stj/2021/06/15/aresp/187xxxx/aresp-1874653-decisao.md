@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por BAGGIO & FILHOS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+AGRAVO DE INSTRUMENTO AÇÃO DE COBRANÇA EM FASE DE CUMPRIMENTO DE SENTENÇA PENHORA DE VALORES PROVENIENTES DE PRÓ-LABORE DO DEVEDOR IMPOSSIBILIDADE SITUAÇÃO QUE NÃO SE ENQUADRA NA EXCEÇÃO PREVISTA NO ART 833 § 2 DO CPC VERBA IMPENHORÁVEL EXISTÊNCIA DE OUTROS BENS APTOS À SATISFAÇÃO DO CRÉDITO PRINCÍPIO DA MENOR ONEROSIDADE AO EXECUTADO INTELIGÊNCIA DO ART 805 DO CPC RECURSO NÃO PROVIDO
+Quanto à controvérsia trazida nos autos, pela alínea "c" do permissivo constitucional, a parte recorrente alega violação do artigos 833, IV, e 805, CPC, no que concerne à possibilidade de mitigação da regra da impenhorabilidade de rendimentos em hipóteses excepcionais, trazendo os seguintes argumentos:
+Do atento exame do r. acórdão recorrido, tem-se que a pretendida penhora restou afastada com base na regra geral acerca da impenhorabilidade de rendimentos, consoante art. 833, IV, CPC. Entretanto, deixou o r. Tribunal de Base a se ater a correta jurisprudência desta Colenda Corte de Justiça, que admite a mitigação da regra da impenhorabilidade em casos excepcionais, para além daqueles elencados no §2º da referida norma processual civil. (fls. 268).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia em análise, na espécie, o acórdão recorrido assim decidiu:
+Veja-se que o Código de Processo Civil excepciona tal regra somente quando se tratar de penhora para pagamento de verba de natureza alimentar, que não é o caso em apreço:
+ ..
+No presente caso, compulsando os autos percebe-se que não se tem acesso às declarações de imposto de renda do executado, de modo que não é possível averiguar se efetivamente os valores constantes na declaração de imposto de renda do agravado e mencionados pelo recorrente são percebidos mensalmente/anualmente.
+Isto é, não se pode concluir com certeza que a referida importância se trata de pró-labore percebido pelo agravado de forma recorrente, a fim de ser deferida a penhora.
+Veja-se que conforme afirma o agravante, os referidos valores foram mencionados na Declaração de Imposto de Renda do ano de 2015 sendo que nas demais declarações apresentadas não há informações nos autos de percebimento de outros valores.
+Sendo assim, tal questão demanda maiores esclarecimentos, o que não se mostra possível em sede de cognição sumária.
+Ademais, cabe ressaltar que a execução deve ser pautar no princípio da menor onerosidade, ou seja, quando existir outro meio para o recebimento do crédito, deverá ser utilizado aquele que seja menos gravoso à parte devedora:
+ ..
+In casu, o agravante informou que a agravada Noeli figura como herdeira nos autos nº0000488-23.2017.8.16.0103, de inventário do Espólio de João Pedro Mendes de Paula, afirmando ainda que não haveria dificuldade de conclusão da ação, sendo que inclusive já restou deferida a penhora no rosto daqueles autos pelo juízo singular (mov. 78.1 - ação principal).
+Nesse passo, entende-se que já está em andamento a satisfação do crédito da parte recorrente, sendo incabível, portanto, a penhora de pró-labore. (fls. 177/178 - grifos meus)
+Assim, no que concerne à controvérsia debatida nos autos, na espécie, não foi comprovado o dissídio jurisprudencial, uma vez que inexistente a necessária similitude fática entre o acórdão recorrido e o paradigma indicado, que não decidiu a questão com base nas mesmas circunstâncias acima delineadas.
+Nesse sentido, o STJ decidiu: "Quanto à apontada divergência jurisprudencial, observa-se que os acórdãos confrontados não possuem a mesma similitude fática e jurídica, uma vez que, enquanto o acórdão recorrido trata da prescrição quanto à indenização pela demora injustificada na concessão de aposentadoria, os acórdãos paradigmas cuidam do termo inicial da prescrição para requerer a conversão de licença-prêmio não gozada em pecúnia". (AgInt no REsp 1.659.721/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 29/5/2020.)
+Confiram-se ainda os seguintes precedentes: AREsp 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; AgInt no AREsp 1.625.775/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 25/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
