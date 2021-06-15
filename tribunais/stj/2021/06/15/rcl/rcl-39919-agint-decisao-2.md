@@ -1,0 +1,20 @@
+DECISÃO
+Vistos
+Trata-se de Agravo Interno da União (fls. 132/146e) interposto contra decisão da lavra do Ministro Sr. Napoleão Nunes Maia Filho, o qual concedeu o pedido liminar aos servidores reclamantes, deferindo o " ..  sobrestamento da Apelação 0807171-86.2018.4.05.8400 até o julgamento final desta Reclamação, nos termos do art. 989, II do Código Fux, com a finalidade de evitar prejuízos irreparáveis ao reclamante" (fls. 120/121e).
+Preliminarmente, aponta-se a nulidade da decisão agravada por falta de fundamentação, argumentando não ter havido a identificação dos fundamentos determinantes e a adequação do caso sob exame àqueles fundamentos.
+Sustenta que a decisão reclamada encontra-se em perfeita harmonia com a jurisprudência desta Corte, destacando a impossibilidade de execução das diferenças dos reflexos gerados pela inclusão da Gratificação de Desempenho da Atividade Tributária - GAT no vencimento básico.
+Assevera não estar presente a probabilidade do direito invocado na Reclamação, porquanto não houve o descumprimento do título judicial.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 166/183e.
+É o relatório. Decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Tendo havido a reconsideração da decisão de fls. 196/199e, passo ao exame do Agravo Interno de fls. 132/146e.
+Em juízo de retratação, consoante o disposto no art. 1.021, § 2º, do Código de Processo Civil de 2015, verifica-se o desacerto da decisão de fls. 117/120, porquanto não estão presentes os requisitos autorizadores da tutela provisória requerida, razão pela qual de rigor sua reconsideração, passando a novo exame do pedido liminar manejado na Reclamação.
+A Reclamação prevista no art. 105, I, f, da Constituição da República, bem como nos arts. 13, da Lei n. 8.038/1990, e 187 do RISTJ, constitui ação constitucional destinada a garantir a autoridade das decisões do Superior Tribunal de Justiça ou à preservação de sua competência, sendo cabível em face de decisões de autoridades administrativas e judiciais (v.g. Rcl.. 3.506/ES, Rel. p/ acórdão Ministro Luiz Fux, Primeira Seção, julgado em 28/04/2010, DJe 30/06/2010; Rcl. 2.559/ES, Rel. Ministro Barros Monteiro, Corte Especial, julgado em 02/04/2008, DJe 05/05/2008).
+Nesse contexto, observados os limites da via eleita para a concessão de medida liminar, exige-se a presença simultânea da verossimilhança do direito alegado e do risco associado à demora na entrega da prestação jurisdicional.
+No caso em tela, não verifico, nessa fase sumária de cognição, a presença dos requisitos necessários ao deferimento da tutela de urgência requerida.
+Com efeito, ausente a relevância da fundamentação, uma vez que a leitura da decisão apontada como descumprida evidencia que a Gratificação de Desempenho de Atividade Tributária - GAT foi tida como vencimento, no sentido de remuneração comum, ou seja, não derivada de avaliação de desempenho, unicamente com o objetivo de estendê-la a todos os servidores da carreira, inclusive aos inativos.
+Registre-se que, em nenhum momento, o Sr. Relator a tratou como vencimento básico, senão na passagem do decisum em que narrou os argumentos do sindicato Autor (fl. 65e), não tendo havido debate sobre o reflexo de tal vantagem sobre as demais.
+De outra parte, entendo não demonstrado o periculum in mora, porquanto não vislumbro risco de dano irreparável ou de difícil reparação, nem ineficácia da decisão, caso seja, ao final, julgada procedente a Reclamação.
+Posto isso, nos termos do art. 1.021, § 2º, do Código de Processo Civil de 2015, RECONSIDERO a decisão de fls. 117/120e, restando, por conseguinte, PREJUDICADO o Agravo Interno de fls. 132/146e, e, em nova apreciação, INDEFIRO a tutela de urgência requerida pelas servidoras.
+Publique-se. Intimem-se.
