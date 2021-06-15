@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOÃO GOMES DA SILVA, com fundamento no art. 105, III, a, da CF, contra acórdãoproferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 104/105):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. APOSENTADORIA. NOVOS TETOS ESTIPULADOSPELAS EMENDAS CONSTITUCIONAIS N. 20/98 E N.41/2003. RE 564.354. APLICABILIDADE. COMPROVADA ALIMITAÇÃO DO SALÁRIO DE BENEFÍCIO
+1. O Supremo Tribunal Federal, em sessão plenária, por ocasião do julgamento do Recurso Extraordinário n.564.354,decidiu pela aplicação imediata das regras estabelecidas no artigo14 da EmendaConstitucional20,de15.12.98,e artigo50,da Emenda Constitucional 41,de 19.12.03, aos benefícios previdenciários limitados em seu teto por ocasião do cálculo da renda mensal inicial.
+2. Estabelecidos os tetos, respectivamente, em15.12.98(EC20/98)e 19.12.03 (EC41103),nos valores de R$1.200,00(um mil e duzentos reais) e R$2.400,00(dois mil e quatrocentos reais),deverão ser revistas as rendas mensais dos benefícios cujas datas de início ocorreram anteriormente à promulgação das referidas normas constitucionais e que sofreram limitação.
+3. Comprovada a limitação do salário de benefício da aposentadoria à época da concessão, aplicáveis ao caso as alterações introduzidas pelas Emendas Constitucionais n. 20/98 e41/2003.4. A propositura de ação civil pública não implica nos efeitos previstos no artigo 202, inciso VI, do Código Civil. A apuração do montante devido deve observar a prescrição das prestações vencidas antes do quinquênio que precede a propositura da presente ação (Súmula85do C. STJ).
+4. Apelação da parte autora parcialmente provida.
+Opostos embargos de declaração pela parte autora e pelo INSS, ambos foram rejeitados (fl. 128).
+Aponta o recorrente violação aos artigos 103, parágrafo único, da Lei 8.213/91, sustentando que deve ser fixada a prescrição quinquenal "a partir da publicação da sentença da ação civil pública, que foi publicada em 01/09/2011, sendo portanto, devidos os atrasados da presente ação a partir de 01/09/2006" (fls. 146/147)
+Afirma que "os honorários de sucumbência devem ser contados até a data da sentença de 2ºgrau, momento que o pedido do(a) autor(a) se tornou procedente, conforme prevê a Sumula 111 do STJ.." (fl. 147)
+Aduz que "fixada a abrangência nacional da ACP n.0004911-28.2011.4.03.6183, o ajuizamento resultou na interrupção da prescrição, sendo assim, devem ser declaradas prescritas as parcelas vencidas anteriormente a 05/05/2006, ou seja, 05 anos antes da data do ajuizamento da demanda coletiva" (fl.140).
+Às fls. 186 dos autos, conta decisão homologando "a desistência do recurso especial interposto pela parte autora unicamente no tocante à prescrição, conforme requerido".
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Isso porque, no que diz respeito aos honorários de sucumbência, aparte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+Ademais, em relação àSúmulanº 111/STJ, ressalte-se aimpossibilidade de seconhecer do recurso especial neste aspecto, uma vezque o enunciadode súmula não se enquadra no conceito de lei federal,conformeentendimento firmado por esta Corte Superior na Súmula n.518/STJ,in verbis: "Para fins do art. 105, III, a, da ConstituiçãoFederal,não é cabível recurso especial fundado em alegada violaçãodeenunciado de súmula.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SÚMULA. VIOLAÇÃO.ANÁLISE.INVIABILIDADE. PERDAS E DANOS. JUROS DE MORA. TERMO INICIAL. DATADACELEBRAÇÃO DO ACORDO. FUNDAMENTOS INATACADOS. REEXAME DOCONJUNTOFÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursosinterpostoscom fundamento no CPC/2015 (relativos a decisõespublicadas a partir de 18de março de 2016) serão exigidos osrequisitos de admissibilidade recursalna forma do novo CPC"(Enunciado Administrativo n. 3).
+2. É inviável o conhecimento de eventual contrariedade a súmula,que, paraos fins do art. 105, III, "a", da Constituição Federal,não se enquadra noconceito de lei federal (Súmula 518 do STJ).
+3. As razões do recurso especial não infirmaram a conclusão doacórdãorecorrido de que as partes celebraram um acordo na fase deliquidação desentença acerca do valor da indenização, o qualcomportaria os jurosmoratórios e a correção monetária.
+4. As instâncias ordinárias afastaram a incidência dos jurosmoratórios apartir do ato ilícito, pois, se aplicado sobre "o valorapresentado peloMunicípio, desde a data do evento danoso, conformepostulado pelosautores, obtém-se o astronômico valor de quase 37milhões de reais peloapartamento", não sendo tais fundamentosatacados pelos agravantes,impondo-se a aplicação da Súmula 283 doSTF.
+5. Para alterar a conclusão do Tribunal de origem seriam necessáriosoreexame do conjunto fático-probatório dos autos e a interpretaçãodecláusula do pacto formulado, o que é vedado em sede de recursoespecial,nos termos do que dispõem as Súmulas 5 e 7 do STJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp 1.407.113/SC, Rel. Min. GURGEL DE FARIA, DJe de12/03/2021)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
