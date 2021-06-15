@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO - CONVERSÃO DE OBRIGAÇÃO DE FAZER EM PERDAS E DANOS - VALOR FIXADO PELO JULGADOR - NECESSIDADE DE LIQUIDAÇÃO PRÉVIA - DECISÃO PARCIALMENTE REFORMADA.
+- Embora indiscutível a conversão da obrigação de exibição de documentos em perdas e danos, o valor destes não foi calculado em sede de liquidação, sob o crivo do contraditório e da ampla defesa, e com o rigor técnico necessário, como exige o art. 816, parágrafo único, do Código de Processo Civil, mas sim arbitrado pelo juiz de origem sem a devida apuração prévia, merecendo, portanto, a devida adequação.
+Alegou-se, no especial, violação dos artigos 264 e 265 do Código Civil, associada a dissídio jurisprudencial, sob o argumento de que não há fundamento legal ou contratual algum para a imputação solidária da obrigação aos recorrentes.
+Assim delimitada a controvérsia, passo a decidir.
+Colhe-se dos autos que o Tribunal local reformou a decisão de primeiro grau apenas para determinar a liquidação da obrigação de exibir em perdas e danos.
+Sobre a obrigação solidária, consignou a Corte estadual que "os dois réus foram condenados por esta Turma à exibição de documentos. Sendo frustrada tal obrigação, como já narrado, consequentemente, ficaram ambos responsáveis pela conversão da obrigação em perdas e danos, conforme dispõe o art. 264, CC" e arrematou, no sentido de que"o reconhecimento dessa obrigação conjunta surgiu justamente do descumprimento, pelos réus, da obrigação de exibição, devendo arcar, solidariamente, com os prejuízos (indenização por perdas e danos) dela decorrentes, atéporque sequer é possível delimitar quais deles é responsável pela exibição de cada um dos documentos, visto que não houve qualquer esclarecimento a esse respeito" (e-STJ, fls. 336/337).
+Se a obrigação era comum e houve condenação transitada em julgado nesse sentido, o reexame da questão não só depende do reexame dos elementos informativos do processo como torna incompreensível as razões lançadas no recurso especial, a atrair a incidência dos enunciados n. 7 da Súmula desta Casa e 284 do Supremo Tribunal Federal.
+Diante do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
