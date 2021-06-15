@@ -1,0 +1,38 @@
+DECISÃO
+1. Cuida-se de agravo interposto por VALDOMIRO DE MELO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. NEGATIVA DE INDENIZAÇÃO. INFORMAÇÕES PRESTADAS PELA ESTIPULANTE. NÚMERO DE FUNCIONÁRIOS VINCULADOS À EMPRESA MUITO SUPERIOR AO SEU QUADRO EFETIVO. BOA-FÉ OBJETIVA. DESCUMPRIMENTO. ARTIGO 766 DO CÓDIGO CIVIL.MÁ-FÉ DA REQUERIDA NÃO COMPROVADA. SENTENÇA ESCORREITA.HONORÁRIOS RECURSAIS.RECURSO DESPROVIDO.
+1. Ao celebrar o contrato de seguro, a estipulante informou número errado de funcionários, 150, ao invés de 17, que era o número correto, o que demonstra o abuso contratual e inobservância da boa-fé objetiva.
+2. Código Civil. Art. 766. Se o segurado, por si ou por seu representante, fizer declarações inexatas ou omitir circunstâncias que possam influir na aceitação da proposta ou na taxa do prêmio, perderá o direito à garantia, além de ficar obrigado ao prêmio vencido.
+3. Deixou o autor de comprovar a alegada ma-fé da Seguradora, ônus que lhe incumbia, nos termos do artigo 373 do Código de Processo Civil.
+4. Diante do desprovimento do recurso de apelação, aplicável à espécie o §11 do artigo 85 do Código de Processo Civil, devendo ser majorado o percentual da verba honorária fixada em primeiro grau.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 1.022, incisos I e II, 373, inciso II, do CPC de 2015; 422,766 e 932, inciso III, do CC; 14,34, 51, inciso IV e 54, do CDC.
+Defende ter havido negativa de prestação jurisdicional, "pois o v. acórdão confirmou que houve má-fé por ocasião da contratação, mas não se manifestou sobre os artigos 14, 34, 51 inciso IV e 54 parágrafo 4º do CDC e 932 inciso III do CC, cuja análise poderia levar ao provimento do recurso de apelação".
+Ressalta que "cabia à recorrida o ônus da prova de fatos impeditivos e extintivos do direito do recorrente,  .. ". E continua:
+Ao recorrente só foi atribuído o ônus de produzir provas dos fatos constitutivos de seu direito, ou seja, a existência do contrato de seguro e a ocorrência do sinistro, e deste ônus ele se desonerou muito bem.
+ .. .
+A violação dos artigos nºs 422 e 766 do Código Civil ocorre por que o v.acordão ratificou de forma contraditória que a empregadora do recorrente violou o princípio da boa-fé objetiva; mas os documentos anexados nas seq. 28.6, 28.7 e 32.2 demonstram ela prestou informações corretas ao representante da recorrida e que este preencheu equivocadamente uma só proposta quando deveria ter preenchido uma proposta para cada empresa do grupo; razão pela qual, não é legal nem justo que a recorrida tire proveito de sua conduta equivocada, ainda mais depois de estar recebendo o prêmio normalmente, o que demonstra comportamento contraditório.
+Enfatiza que o fornecedor/empregador é responsável por ato de seu preposto, razão pela qual o TJPR não poderia ter atribuído culpa ao recorrente, pois o erro do preposto da recorrida não pode prejudicar o recorrente.
+Aduz que o Tribunal local deixou de observar que se trata de contrato de adesão e que a recorrida agiu de forma abusiva.
+É o relatório.DECIDO.
+2. Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 1.022 do Código de Processo Civil de 2.015. Isso porque, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+3. Por outro lado, as matérias referentes aos artigos 422, 932, inciso III, do CC; 14, 34, 51, inciso IV e 54, do CDCnão foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 282/STF).
+4. No mais, em relação à alegada violação aos artigos 373, inciso II, do CPC de 2015 e 766 do CC, o Tribunal de origem,com base no conjunto fático-probatório presente nos autos e no instrumento contratual, assim consignou:
+Ao se observar o documento juntado ao mov. 28.7, onde, em resposta à solicitação do Banco do Brasil relativamente ao seguro de vida do ora apelante, a empresa MACLATEX IND DE TECIDOS E CONFECÇÕES LTDA, informou o número de funcionários de cada uma das empresas pertencentes ao mesmo grupo, o qual totaliza 371 funcionários, e não 150 conforme consta da apólice de mov. 1.10. Demais disso, de tal documento ainda se extrai que a apólice foi contratada tão somente em nome da empresa KIMONOS SHIROI LTDA, cujo CNPJ está indicado nos dois documentos, a saber, 80.833.346/0001-0000.
+Por outro lado, a proposta de seguro está devidamente assinada por preposta da estipulante, conforme documento juntado no mov. 28.6.
+Assim, corretamente aplicado ao caso o artigo 766 do Código Civil, verbis:
+ .. .
+No presente caso, as condições gerais do contrato juntadas aos autos no mov. 28.5 preveem expressamente a perda do direito à indenização na seguinte hipótese, cláusula 26:
+ .. .
+Consta, igualmente na cláusula 6, como obrigação do estipulante, "a. Fornecer à seguradora todas as informações, previamente estabelecidas, necessárias para a análise e aceitação do risco".
+Não resta dúvidas de que a contratação deste tipo de seguro para 17 funcionários ou para 150 funcionários acarreta uma grande diferença na estipulação do capital segurado, cujo risco deve ser previamente analisado pela seguradora.
+Veja-se, a propósito, o posicionamento do Superior Tribunal de Justiça acerca da boa-fé objetiva:
+ .. .
+A alegação de que a requerida não demonstrou que a estipulante agiu de má-fé igualmente não prospera, tendo em vista que cumpria ao autor a realização de tal prova, nos termos do artigo 373 do Código de Processo Civil, conforme estabelecido no despacho saneador (mov. 50.1).
+Deixou o autor, igualmente, de produzir qualquer prova de que houve equívoco do preposto da apelada ao confeccionar a proposta.
+Por fim, quanto à alegação de que a requerida não demonstrou que notificou o requerente ou a estipulante antes da ocorrência do sinistro de que iria cancelar a apólice, tal assertiva em nada influi no julgamento da lide, tendo em vista que a negativa da indenização não se deu em razão de que o contrato estivesse cancelado, mas sim em razão da inexatidão de informações prestadas pela estipulante no momento da contratação do seguro.
+Assim, aalteração do entendimento adotado pela Corte de origem demandaria, necessariamente, a nova interpretação das cláusulas do contrato e novo exame do acervo fático-probatório constante dos autos, providências vedadas na via estreita do recurso especial, conforme o óbice previsto nos enunciados n. 5 e 7 da Súmula deste Tribunal Superior.
+5. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
