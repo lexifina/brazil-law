@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por MALULY JUNIOR SOCIEDADE INDIVIDUAL DE ADVOCACIA,fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado em face de acórdãoassim ementado (fl. 21):
+Agravo de Instrumento.
+Cumprimento de sentença - Decisão que indeferiu pedido de suspensão da CNH e bloqueio de passaporte do executado - Medida que extrapola o permissivo do artigo 139, inciso IV, do Código de Processo Civil - Espírito meramente emulativo, que em nada contribuirá para satisfação do crédito alimentar - Manutenção da decisão agravada.
+Nega-se provimento ao recurso.
+Os embargos de declaração opostos foram rejeitados (fls. 65/70).
+A recorrentesustenta ofensa aos artigos11, 489, I, II e III, §1º, V, do Código de Processo Civil, alegando ausência de fundamentação e a consequente negativa de prestação jurisdicional. Aponta divergência jurisprudencial acerca da interpretação do art.139, IV, do Código de Processo Civil, defendendo a possibilidade de utilização de medidas atípicas requeridas para assegurar o cumprimento da ordem judicial.
+Assim delimitada a controvérsia, passo a decidir.
+A jurisprudência do STJ admiteexcepcionalmente a adoção de medidas alternativas voltadas à satisfação de execuções, todavia é assente que, para tanto, se faz necessária a demonstração de que respectivas medidas tenham real efetividade, não sendo admitidas automaticamente em casos onde a parte devedora simplesmente não possui patrimônio para satisfação do crédito.
+Nesse contexto, aCorte de origem, com base na análise de fatos e provas levados aos autos, destacou que as medidas pleiteadas não seriam eficientes para a satisfação do débito, conforme se verifica do trecho do acórdão abaixo reproduzido (e-STJ, fls. 23/27):
+A determinação de suspensão e bloqueio de passaporte e CNH do executado em nada contribuirá para satisfação do débito. Ao contrário, dificultará a situação do executado e poderá até mesmo prejudicar a satisfação do crédito, por restringir o direito de livre locomoção do executado garantido constitucionalmente. Seu espírito é meramente emulativo, não trazendo benefício prático à execução.
+A medida extrapola o permissivo do artigo 139, inciso IV, do Código de Processo Civil, uma vez que as medidas coercitivas que assegurem a efetividade do processo executivo devem ser pautadas na razoabilidade de forma a garantir o resultado útil processo.
+(..)
+Ademais, não indícios de ocultação patrimonial que tornasse necessária medida como apreensão da CNH e passaporte, cujo fim é eminentemente suasório, e não meramente punitivo.
+Observa-se que não se desconhece que há precedentes do Egrégio Superior Tribunal de Justiça que autorizam em casos excepcionais a adoção de tais medidas, mas nada há nos autos que justifique o deferimento da medida, diante da ausência de indícios de que o agravado seja devedor contumaz.
+Assim, considerando que a medida não se mostra eficaz ou adequada à satisfação do crédito, deve ser mantida a R. Decisão agravada.
+Não observo, portanto, nenhumvício no acórdão estadual, senão julgamento contrário aos interesses darecorrente, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Ressalto que o julgador não está obrigado a respondertodos os questionamentos das partes, todavia, deve resolver o litígio de forma clara e suficientemente fundamentada, explicitando às partes as motivações do seu convencimento, o que ocorreu no presente caso.
+No que se refere à divergência jurisprudencial, a revisão da conclusão adotada na origem, para que se acolha a tese de que o deferimento das medidas pleiteadas teriao condão de satisfazer o crédito perquirido pela parte recorrente, é medida que encontra veto na Súmula 7/STJ, por demandar necessário reexame de fatos e provas.
+A propósito:
+RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CHEQUES.VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. MEDIDASEXECUTIVAS ATÍPICAS. ART. 139, IV, DO CPC/15. CABIMENTO.DELINEAMENTO DE DIRETRIZESA SEREM OBSERVADAS PARA SUA APLICAÇÃO.
+1. Ação distribuída em 1/4/2009. Recurso especial interposto em21/9/2018. Autos conclusos à Relatora em 7/1/2019.
+2. O propósito recursal é definir se a suspensão da carteiranacional de habilitação e a retenção do passaporte do devedor deobrigação de pagar quantia são medidas viáveis de serem adotadaspelo juiz condutor do processo executivo.
+3. A interposição de recurso especial não é cabível com base emsuposta violação de dispositivo constitucional ou de qualquer atonormativo que não se enquadre no conceito de lei federal, conformedisposto no art. 105, III, "a" da CF/88.
+4. O Código de Processo Civil de 2015, a fim de garantir maiorceleridade e efetividade ao processo, positivou regra segundo a qualincumbe ao juiz determinar todas as medidas indutivas, coercitivas,mandamentais ou sub-rogatórias necessárias para assegurar ocumprimento de ordem judicial, inclusive nas ações que tenham porobjeto prestação pecuniária (art. 139, IV).
+5. A interpretação sistemática do ordenamento jurídico revela,todavia, que tal previsão legal não autoriza a adoção indiscriminadade qualquer medida executiva, independentemente de balizas ou meiosde controle efetivos.
+6. De acordo com o entendimento do STJ, as modernas regras deprocesso, ainda respaldadas pela busca da efetividade jurisdicional,em nenhuma circunstância poderão se distanciar dos ditamesconstitucionais, apenas sendo possível a implementação de comandosnão discricionários ou que restrinjam direitos individuais de formarazoável. Precedente específico.
+7. A adoção de meios executivos atípicos é cabível desde que,verificando-se a existência de indícios de que o devedor possuapatrimônio expropriável, tais medidas sejam adotadas de modosubsidiário, por meio de decisão que contenha fundamentação adequadaàs especificidades da hipótese concreta, com observância docontraditório substancial e do postulado da proporcionalidade.
+8. Situação concreta em que o Tribunal a quo indeferiu o pedido dorecorrente de adoção de medidas executivas atípicas sob o fundamentode que não há sinais de que o devedor esteja ocultando patrimônio,mas sim de que não possui, de fato, bens aptos a serem expropriados.
+9. Como essa circunstância se coaduna com o entendimento propugnadoneste julgamento, é de rigor - à vista da impossibilidade de estaCorte revolver o conteúdo fático-probatório dos autos - a manutençãodo aresto combatido.
+RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO. (REsp 1788950 / MT,Relatora:Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 26.4.2019);
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE ALIMENTOS. SUSPENSÃO DO DIREITO DE DIRIGIR E APREENSÃO DO PASSAPORTE DO DEVEDOR. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Segundo a jurisprudência desta Corte Superior, as medidas de satisfação do crédito devem observar os princípios da proporcionalidade e da razoabilidade, de forma a serem adotadas as providências mais eficazes e menos gravosas ao executado.
+Precedentes.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem concluiu que as medidas de apreensão do passaporte e suspensão da CNH do executado são inadequadas e desproporcionais aos propósitos da credora. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1805273/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 6.11.2019).
+Em face do exposto, nego provimento ao recurso.
+Intimem-se.
