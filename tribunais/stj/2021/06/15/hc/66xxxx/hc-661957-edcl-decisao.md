@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOÃO VÍTOR DE SOUZA AZEVEDO contra a decisão proferida às e-STJ fls. 192/198.
+Alega o embargante que ""existe vício relativo à omissão no acórdão, o que identifica a embargabilidade dodecisório em questão, conforme prescreve o art. 620, caput, do Código de Processo Penal. Por outro lado, no âmbito processual penal, mister se faz o prequestionamento da questão federal ou constitucional, conforme o caso. É necessário, destarte, que a matéria tenha sido decidida, e decidida manifestamente, o que não ocorreu, data vênia, na decisão em apreço, uma vez que a mesma não se manifestou em relação ao pedido de prisão domiciliar em favor do paciente, haja vista que se tratava do pedido principal dos embargos de declaração"" (e-STJ, fls. 203/204).
+Postula, dessa forma, ""o recebimento e procedência destes Embargos, onde requer-se que seja conhecido e provido este recurso, manifestando-se explicitamente este Tribunal acerca da concessão da prisão domiciliar em favor do Paciente"" (e-STJ, fl. 210).
+É o relatório. Decido.
+De fato, não houve manifestação expressa sobre a prisão domiciliar no decisum embargado.
+Assim, merece acolhimento os embargos para suprir a omissão apontada.
+Inicialmente, registre-se que a decisão ora embargada determinou ao Juízo das Execuções Penais da Comarca de Ribeirão das Neves/MG a apreciação domérito da prisão domiciliar postulada no presente habeas corpus, qual seja, o segundo pleito de concessão do benefício, com fundamento de que o trabalho que o paciente foi autorizado a exercer ficava distante da unidade prisional onde ele estava acautelado, e isso poderia ocasionar inúmeros prejuízos à plena execução da pena por parte do Paciente, que estaria correndo não só riscos relativos ao deslocamento de quase 100 km diários, mas também diante de eventuais perigos de atrasos, acidentes, e que acabariam causando punições e prejuízos ao Paciente.
+Ocorre que, não tendo ainda o Juízo das execuções e aCorte de origem deliberado sobre o tema, não há como esta Superior Corte de Justiça apreciar a matéria, sob pena de indevida supressão de instância.
+Deve, portanto, a parte ora embargante aguardar o julgamento das instâncias ordinárias, para, na hipótese de indeferimento, pleitear neste Tribunal a benesse almejada.
+Diante do exposto, acolho os embargos de declaração para suprir a omissão apontada, na forma acima explicitada, ficando mantido, no mais, o decisumembargado.
+Intimem-se.
