@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso emhabeas corpuscompedido de liminar interposto por JOÃO VICTOR RANGEL DO NASCIMENTO contra acórdão do Tribunal de Justiça do Estado de São Paulo(Processo n. 2015714-34.2021.8.26.0000).
+Orecorrentetevea prisão em flagrante convertida em preventiva(fls. 95-99) por suposta prática dos delitos descritos nos arts. 33, caput, e 35 da Lei n. 11.343/2006.
+O decreto prisional fundou-se na quantidade de entorpecentes apreendida, no fato de que o recorrenteresponde a outra ação penal pelo crime de tráfico de drogas e na garantia da ordem pública.
+O recorrente alegaque a decretação da prisão preventiva carece de fundamentação e que não estão preenchidos os requisitos autorizadores da custódia cautelar.
+Pondera que sofre constrangimento ilegal, em razão da ausência de materialidade da conduta ou autoria delitiva pois, segundo aduz, não foi encontrado entorpecente em seu poder.
+Argumenta que é primário, possui residência fixa e ocupação lícita.
+Requer, liminarmente e no mérito, sejarevogadaa sua prisãopreventiva, expedindo-se oalvaráde soltura.Alternativamente, pleiteia a substituição daprisãopela imposição de medidas alternativas referidas no art. 319 do CPP.
+O Tribunal de Justiça do Estado do São Paulo apresentou informações às fls. 165-170 e 171-226.
+O Ministério Público Federal opinou pelo desprovimento do recursoordinário(fls. 230-231).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+Está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+A propósito, assim se manifestou o Tribunal a quo (fl. 126,destaquei):
+De fato, há indícios de que o paciente e o corréu portavam entorpecentes diversos, em quantidade que apontam, ao menos para fins de manutenção da prisão preventiva, que não se trata de traficante eventual. Ademais, ele já responde a processo pelo mesmo delito, o que revela a periculosidade necessária para manter a prisão:
+Confira-se ainda excerto da decisão,mantida pelo Tribunal de origem, que, diantedas circunstâncias em que ocorria a prática delitiva, converteu a prisãoem flagrante em preventiva (fl. 97, destaquei):
+Nesse sentido, observo que os crimes, cuja autoria a eles é imputada, são gravíssimos, haja vista que foi apreendida em sua posse grande quantidade de droga, totalizando 88 porções de skunk, maconha e cocaína, prontas para a venda e consumo de terceiros,o que demonstra a gravidade do delito, havendo, inclusive, sérios indícios de os indiciados não se tratarem de traficante eventual, haja vista a grande quantidade de entorpecente.
+ ..
+Nesse diapasão, conforme consta na certidão de fls. 60, o averiguado João Victor já responde processo criminal pela prática de tráfico de drogas, de modo que, agora, foi preso acusado da prática do mesmo delito, o que demonstra a sua periculosidade e envolvimento com o mundo do crime.
+No presente caso,a quantidade, variedade e nocividade de drogas apreendida e o fato de o recorrente responder a outra ação penal em curso pelo delito de tráfico de drogasforam consideradospelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Conforme a orientação jurisprudencial do STJ, inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e HC n. 602.698/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 6/10/2020).
+Ressalte-se que a alteração da decisão que decretou a preventiva no que se refere à existência de indícios de autoria e de prova da materialidade do delito demanda reexame de fatos e provas, procedimento incompatível com a estreita via do habeas corpus, devendo a questão ser dirimida no trâmite da instrução criminal. Nesse sentido: HC n. 504.546/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/10/2019; e RHC n. 123.822/DF, relator Ministro Teori Zavascki, Segunda Turma, DJe de 20/10/2014.
+Ademais, eventuais condições subjetivasfavoráveisdo recorrente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Ante o exposto,com fundamento no art. 34, XVIII,b,do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
