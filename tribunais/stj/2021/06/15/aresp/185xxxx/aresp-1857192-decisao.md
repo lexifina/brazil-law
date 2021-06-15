@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo manejado por Helena Aparecida Affonso Gomes e Outro contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 653):
+RECURSO DE APELAÇÃO - AÇÃO DE PROCEDIMENTO COMUM - DIREITO ADMINISTRATIVO RESPONSABILIDADE CIVIL DO ESTADO - OMISSÃO "FAUTE DU SERVICE" - ROMPIMENTO PARCIAL DA GALERIA DE ÁGUAS PLUVIAIS BEM IMÓVEL DANIFICADO EM DECORRÊNCIA DAS PRECIPITAÇÕES PRETENSÃO AO RECEBIMENTO DE INDENIZAÇÃO A TÍTULO DE DANOS MATERIAIS E MORAIS IMPOSSIBILIDADE.
+1. Preliminarmente, legitimidade ativa da parte autora, reconhecida.
+2. A questão preliminar, relacionada à nulidade da r. sentença impugnada, por negativa de prestação jurisdicional, confunde-se com o mérito da lide e será analisada juntamente com a matéria de fundo.
+3. No mérito, ausência de demonstração do direito ora reclamado na lide, bem como, do necessário e imprescindível nexo de causalidade, entre os fatos e o resultado alcançado, para a caracterização dos alegados danos materiais e morais, passíveis de reconhecimento e reparação.
+4. A situação descrita na petição inicial decorre da conduta da própria parte autora, que realizou a edificação do bem imóvel em local inadequado e desprovida da devida autorização legal, conforme a prova pericial produzida nos autos, durante a instrução do processo, sob o crivo do contraditório.
+5. Culpa exclusiva da vítima, caracterizada.
+6. Construção irregular, desprovida de autorização ou licença do Poder Público.
+7. Precedentes da jurisprudência deste E. Tribunal de Justiça.
+8. Arbitramento dos honorários advocatícios recursais, em favor da parte vencedora, a título de observação, nos termos do artigo 85, § 11, do CPC/15.
+9. Ação de procedimento comum, julgada improcedente, em Primeiro Grau de Jurisdição.
+10. Sentença recorrida, ratificada.
+11. Recurso de apelação, apresentado pela parte autora, desprovido, com observação.
+Opostos embargos declaratórios, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aosarts.43, 186, 927, 944 e 945 do CCe 489, caput e §1º, IV e 1.022, I e II do CPC, além de dissídio jurisprudencial.
+De início, sustenta que o acórdão recorrido foi omisso a respeito de argumentos relevantes ao deslinde da controvérsia.
+Por outro lado, alega ter sido equivocado o entendimento que deixou reconhecer a responsabilidade civil da edilidade em razão de suposta culpa exclusiva da parte ora agravante.Defende os danos causados estão estritamente relacionados a problemas existentes na rede de água pluvial localizada debaixo do imóvel dos agravantes, além do quetal obra pública, realizada em terreno particular, sem ciência e autorização dos agravantes, que somente souberam disso muito tempo depois. Dessa forma, defende que eventual irregularidade da construção do imóvel (sem a obtenção de alvará) não afasta o direito dos autores, ao menos, a uma indenização pelo terreno que foi adquirido de forma regular antes da construção da galeria. Assim, pugna pela responsabilização objetiva e/sou subjetiva da municipalidade.
+Alternativamente, pugna pelo reconhecimento da culpa concorrente.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Por outro lado, o Tribunal local manteve a sentença de improcedência a partir da seguinte fundamentação(fls. 656/657):
+Pois bem. Não há demonstração da ausência ou falha na prestação do serviço público, bem como, do imprescindível e necessário nexo de causalidade, entre os fatos e o resultado alcançado, para a caracterização e reconhecimento dos reclamados danos materiais e morais, passíveis de reparação.
+Isso porque, a situação descrita nos autos decorre da conduta da própria parte autora, que realizou a edificação do bem imóvel em local inadequado e desprovida da devida autorização legal. É o que consta dos autos, principalmente, nos termos do resultado da prova pericial (fls.400/480), produzida durante a instrução do processo, sob o crivo do contraditório: "Discretas trincas e fissuras nas alvenarias e pisos, cujas ocorrências são compatíveis para construções simples sem apelos técnicos construtivos qualitativos." (fls.432).
+(..)
+De outra parte, não há falar, sequer, na culpa concorrente da Administração Pública, por ausência de fiscalização, no tocante à construção irregular ora questionada. Aliás, a imputação de tal responsabilidade ao Poder Público é inadmissível e beneficiaria, apenas e tão somente, a parte autora, em violação ao princípio do Nemo Auditur Propriam Turpitudinem Allegans. Daí porque, a r. sentença não padece, á evidência, de qualquer nulidade.
+Nesse contexto, aalteração das conclusões adotadas pela Corte de origem, no sentido de que a conduta da parte agravante causou a situação descrita nos autos, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESPONSABILIDADE CIVIL. CONTRATO DE TRANSPORTE. ACIDENTE. 1. AUTOR QUE SE DESINCUMBIU DO SEU ÔNUS PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. 2. RESPONSABILIDADE OBJETIVA DO TRANSPORTADOR CONFIGURADA.ALEGAÇÃO DE CULPA EXCLUSIVA DA VÍTIMA OU CULPA CONCORRENTE.INCIDÊNCIA DA SÚMULA 7/STJ. 3. REDUÇÃO DO VALOR ARBITRADO A TÍTULO DE DANOS MORAIS. IMPOSSIBILIDADE. 4. AGRAVO INTERNO IMPROVIDO.
+1. O acórdão recorrido foi devidamente fundamentado, mormente quanto à análise das preliminares de ilegitimidade ativa e litisconsórcio necessário, não havendo falar em violação ao art. 489, § 1º, do CPC/2015.
+2. O Tribunal estadual, ao dirimir a controvérsia, concluiu pela existência de nexo causal entre o acidente descrito e o dano causado; pela ausência de comprovação de culpa exclusiva ou concorrente da vítima; bem como pela configuração da responsabilidade civil da recorrente. A revisão da conclusão do Tribunal de origem, para reconhecer a ocorrência de culpa exclusiva da vítima ou de culpa concorrente, tal como pretendido pela agravante, esbarra no óbice contido na Súmula 7/STJ.
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais somente será revisto nas hipóteses em que a condenação se revelar manifestamente irrisória ou excessiva, o que não ocorreu no caso dos autos.
+4. Agravo interno improvido.
+(AgInt no AREsp 1797943/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/06/2021, DJe 07/06/2021)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
