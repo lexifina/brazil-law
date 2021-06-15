@@ -1,0 +1,46 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO (ART. 304 C/C 297, AMBOS DO CP). ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DE DISPOSITIVOS LEGAIS. SÚMULA 284/STF. INDEFERIMENTO DE PERÍCIA. PEDIDO CONSIDERADO DESNECESSÁRIO PELO JULGADOR. DESCLASSIFICAÇÃO DA CONDUTA. SÚMULA 7/STJ. REGIME PRISIONAL SEMIABERTO. ADEQUAÇÃO. RECURSO NÃO PROVIDO.
+1. Aplica-se a Súmula n. 284 do Supremo Tribunal Federal quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade.
+2. Segundo pacífica jurisprudência do Superior Tribunal de Justiça, o deferimento de realização de diligência e de produção de provas é faculdade do Magistrado, no exercício da sua discricionariedade motivada, cabendo ao órgão julgador desautorizar a realização de providências que considerar protelatórias ou desnecessárias e sem pertinência com a sua instrução. No caso em tela, o juiz sentenciante considerou como prova da materialidade o laudo de perícia papiloscópica e o laudo de exame de documento.
+3. A questão relativa da desclassificação da conduta não prescinde do revolvimento do conteúdo fático-probatório dos autos. Incidência do enunciado n. 7 da Súmula deste Tribunal.
+4. Apesar do quantum da pena imposta ser inferior a 4 (quatro) anos de reclusão, a presença de circunstância judicial desfavorável autoriza a fixação do regime inicial mais gravoso e obsta a substituição das penas, nos termos do art. 33, §§ 2.º e 3.º, c.c. os arts. 59 e 44, inciso III, todos do Código Penal.
+5. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Cuida-se de agravo regimental interposto contra decisão de fls. 795/798, de minha relatoria, em que conheci do agravo para não conhecer do recurso especial em razão do óbice do verbete n. 284 da Súmula do STF e 7 da Súmula do STJ. A título de reforço argumentativo, registrou-se que o acórdão estadual não se distanciou do entendimento desta Corte quanto às questões relativas ao indeferimento do pedido de produção de prova pericial e escolha do regime prisional.
+A defesa alega que não incide a súmula 284 do STF, porquanto o recurso foi apresentado com extrema clareza. Ressalta que "no que toca ao STJ, a despeito de alguma flexibilização observada nos últimos tempos, continua ele se valendo de questiúnculas e estratagemas, no afã de afastar o julgamento do mérito do recurso, em detrimento de sua missão constitucional em prol da unidade da aplicação do direito federal" (e-STJ fl. 806).
+Reitera a necessidade de realização de nova perícia para a demonstração da materialidade delitiva e ressalta que a existência de qualquer dúvida a esse respeito deve ser interpretada em favor do réu.
+Assevera também que a questão da desclassificação da conduta delitiva não enseja o reexame de provas, mas penas sua revaloração.
+Por fim, sustenta que o recorrente é tecnicamente primário, pois não servem para configurar maus antecedentes as condenações já atingidas pela prescrição.
+Objetiva, assim, a reconsideração da decisão agravada ou a remessa do feito à apreciação da Turma a fim de que o agravo seja provido.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO (ART. 304 C/C 297, AMBOS DO CP). ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DE DISPOSITIVOS LEGAIS. SÚMULA 284/STF. INDEFERIMENTO DE PERÍCIA. PEDIDO CONSIDERADO DESNECESSÁRIO PELO JULGADOR. DESCLASSIFICAÇÃO DA CONDUTA. SÚMULA 7/STJ. REGIME PRISIONAL SEMIABERTO. ADEQUAÇÃO. RECURSO NÃO PROVIDO.
+1. Aplica-se a Súmula n. 284 do Supremo Tribunal Federal quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade.
+2. Segundo pacífica jurisprudência do Superior Tribunal de Justiça, o deferimento de realização de diligência e de produção de provas é faculdade do Magistrado, no exercício da sua discricionariedade motivada, cabendo ao órgão julgador desautorizar a realização de providências que considerar protelatórias ou desnecessárias e sem pertinência com a sua instrução. No caso em tela, o juiz sentenciante considerou como prova da materialidade o laudo de perícia papiloscópica e o laudo de exame de documento.
+3. A questão relativa da desclassificação da conduta não prescinde do revolvimento do conteúdo fático-probatório dos autos. Incidência do enunciado n. 7 da Súmula deste Tribunal.
+4. Apesar do quantum da pena imposta ser inferior a 4 (quatro) anos de reclusão, a presença de circunstância judicial desfavorável autoriza a fixação do regime inicial mais gravoso e obsta a substituição das penas, nos termos do art. 33, §§ 2.º e 3.º, c.c. os arts. 59 e 44, inciso III, todos do Código Penal.
+5. Agravo regimental improvido.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que o agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Inafastável a incidência do Enunciado n. 284 da Súmula do STF, isso porque a parte alega genericamente a violação de artigos da lei federal, sem demonstrar, de forma clara e precisa, de que modo o acórdão recorrido os teria contrariado, circunstância que atrai, por analogia, a Súmula n. 284 do Supremo Tribunal Federal. Nessa linha: AgRg no Ag 1066156/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 20/05/2016.
+Ainda que assim não fosse, como bem destacou a decisão agravada, quanto à pericia, o TJPR consignou que o laudo foi acostado aos autos em data anterior à sentença, tendo sido aberto prazo para a defesa para o exercício do contraditório.
+Registrou que o indeferimento de novas diligências após a apresentação do laudo pericial não invalida o conjunto probatório dos autos, considerando que o juiz é o destinatário das provas, podendo indeferir os pleitos inúteis para o deslinde do caso. Tal entendimento está em perfeita harmonia com a jurisprudência desta Corte Superior. Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA (ART. 1º, INCISO II, DA LEI N. 8.137/1990). INDEFERIMENTO DA REALIZAÇÃO DE PERÍCIA CONTÁBIL. PLEITO CONSIDERADO DESNECESSÁRIO PELO ÓRGÃO JULGADOR. SUPOSTAS IRREGULARIDADES NO LANÇAMENTO TRIBUTÁRIO. INVIABILIDADE DE DISCUSSÃO EM JUÍZO CRIMINAL. AGRAVO IMPROVIDO.
+1. Segundo pacífica jurisprudência do Superior Tribunal de Justiça, o deferimento de realização de diligência e de produção de provas é faculdade do Magistrado, no exercício da sua discricionariedade motivada, cabendo ao órgão julgador desautorizar a realização de providências que considerar protelatórias ou desnecessárias e sem pertinência com a sua instrução.
+2. Não constitui constrangimento ilegal o indeferimento do pedido de realização de perícia contábil se o Magistrado, analisando os outros elementos constantes nos autos, decide fundamentadamente que a prova é desnecessária para a formação de seu convencimento (RHC 72.019/PA, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 17/8/2017, DJe de 23/8/2017).
+3. Não compete ao Juízo criminal examinar supostas irregularidades ocorridas no âmbito de procedimento administrativo-fiscal, a fim de, sob a alegação de bis in idem, atender à pretensão de desconstituição do crédito tributário, sobretudo na via mandamental do habeas corpus.
+4. Agravo regimental improvido.(AgRg no RHC 124.459/PB, desta Relatoria, DJe 30/06/2020)
+Anota-se, também, que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar, ou desclassificar a imputação feita ao acusado. Óbice do enunciado n.º 7 da Súmula deste STJ (ut, AgInt no AREsp 1265017/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma,DJe 24/05/2018).
+No mais, assinala-se que a questão da impossibilidade de se considerar a existência de condenação alcançada pelo período depurador para a análise desfavorável dos antecedentes não foi objeto de debate pelo acórdão recorrido. Incidência do Enunciado n. 282 e 356 da Súmula do STF.
+De toda forma, destaca-se que esta Corte Superior possui entendimento no sentido de que, para a configuração dos maus antecedentes, a análise das condenações anteriores não está limitada ao período depurador quinquenal, previsto no art. 64, I, do Código Penal. A propósito: AgRg no HC 663.881/SP, desta Relatoria, DJe 24/05/2021.
+No caso, apesar do quantum da pena imposta ser inferior a 4 (quatro) anos de reclusão, a presença de circunstância judicial desfavorável autoriza a fixação do regime inicial mais gravoso e obsta a substituição das penas, nos termos do art. 33, §§ 2.º e 3.º, c.c. os arts. 59 e 44, inciso III, todos do Código Penal.
+Com essas considerações, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
