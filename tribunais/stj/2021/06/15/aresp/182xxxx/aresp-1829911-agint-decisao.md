@@ -1,0 +1,70 @@
+DECISÃO
+Cuida-se de agravo interno (fls. 354-360 e-STJ), interposto por MICHEL MIGUEL MENEZES, contra decisão monocrática, da lavra do Ministro Presidente do STJ (fls. 349-351 e-STJ), que não conheceu do agravo em recurso especial manejado pela ora agravante.
+Pois bem. O apelo nobre, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, foi interposto em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fls. 146 e-STJ):
+APELANTE. PRODUÇÃO ANTECIPADA DE PROVAS. PROCEDIMENTO ADMINISTRATIVO. SEGURO DPVAT. APRESENTAÇÃO DOS DOCUMENTOS EM AÇÃO DE COBRANÇA. PERDA DE OBJETO. LITIGÂNCIA DE MÁ-FÉ. MULTA. ÔNUS DA SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. 1 - A alteração da verdade dos fatos e atuação temerária na lide constituem litigância de má-fé. 2 - Pelo princípio da causalidade, aquele que deu causa à propositura da demanda ou à instauração de incidente processual deve responder pelas despesas daí decorrentes. 3- Os honorários advocatícios em ações cautelares de exibição de documentos e produção antecipada de provas serão devidos apenas nas hipóteses de recusa administrativa e configurada a resistência à pretensão autoral.
+Opostos embargos de declaração (fls. 155-160 e-STJ), esses foram rejeitados (fls. 165-168 e-STJ).
+Em suas razões de recurso especial (fls. 189-208 e-STJ), a parte recorrente aponta que o acórdão recorrido violou artigos 80, 381 e 396 do Código de Processo Civil de 2015, além de dissídio jurisprudencial.
+Insurge-se contra a condenação em litigância de má-fé, sob o argumento, em suma, de que os documentos comuns as partes não podem ser objeto de recusa pela seguradora na hipótese de solicitação administrativa do segurado, estando presente, portanto, o interesse de agir no ajuizamento da presente ação de produção antecipada de provas.
+Contrarrazões às fls. 256-275 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 283-286 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob o fundamento da incidência do óbice da Súmula 7/STJ.
+Daí o agravo (fls. 290-300 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 304-321 e-STJ.
+Em juízo monocrático (fls. 349-351 e-STJ), o Ministro Presidente do STJ não conheceu do agravo, por aplicação do óbice da Súmula 182/STJ.
+Daí o presente agravo interno (fls. 354-361 e-STJ), no qual a parte agravante sustenta a inaplicabilidade do referido óbice.
+Impugnação às fls. 364-381 e-STJ.
+É o relatório.
+Decide-se.
+Ante as razões expendidas, reconsidera-se a decisão de fls. 349-351 e-STJ, a fim de conhecer do agravo, para negar provimento ao recurso especial por outros fundamentos.
+1. Cinge-se a pretensão recursal à verificação acerca do cabimento da condenação da parte ora recorrente, nos autos de ação de produção antecipada de provas, à pena por litigância de má-fé.
+Nos termos da jurisprudência desta Corte Superior, "a litigância de má-fé, passível de ensejar a aplicação da multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios" (AgInt no AREsp 1682588/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020)
+Nesse mesmo sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. MULTA DO ART. 1.021, § 4º, DO CPC/2015 APLICADA. NECESSIDADE DE RECOLHIMENTO PRÉVIO À INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO. AUSÊNCIA. AGRAVO INTERNO INTERPOSTO CONTRA ACÓRDÃO. RECURSO MANIFESTAMENTE INCABÍVEL. ERRO GROSSEIRO. PROVOCAÇÃO REITERADA DE INCIDENTES INFUNDADOS. LITIGÂNCIA DE MÁ-FÉ CARACTERIZADA.
+1. Aplicada multa por ocasião do julgamento de agravo interno declarado manifestamente inadmissível ou improcedente em votação unânime, a interposição de qualquer outro recurso pela mesma parte está condicionada ao depósito prévio do respectivo valor, à exceção da Fazenda Pública e do beneficiário da justiça gratuita, que farão o pagamento ao final (art. 1.021, § 5º, do CPC/2015).
+2. Não recolhida, na hipótese dos autos, a multa fixada no acórdão que não conheceu do agravo interno anteriormente interposto, mostra-se inviável o conhecimento do presente agravo interno.
+3. Ainda que assim não fosse, é manifestamente inadmissível o agravo interno interposto contra acórdão proferido por órgão colegiado, constituindo erro grosseiro. Precedentes.
+4. Caracteriza litigância de má-fé a provocação reiterada de incidentes manifestamente infundados, o que atrai a aplicação da multa prevista no art. 81, caput, do CPC/2015.
+5. Agravo interno não conhecido, com aplicação de multa por litigância de má-fé. Determinação da imediata certificação do trânsito em julgado, com a baixa dos autos à origem.
+(AgInt no AgInt nos EDcl nos EDcl no AgInt nos EDcl no AREsp 1394354/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 21/09/2020, DJe 24/09/2020)  grifou-se
+AGRAVO INTERNO NA RECLAMAÇÃO. RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA ACÓRDÃO DO STJ. AUSÊNCIA DE PREVISÃO LEGAL. LITIGÂNCIA DE MÁ-FÉ. MULTA. AGRAVO INTERNO DESPROVIDO.
+1. O recurso especial interposto contra acórdão do Superior Tribunal de Justiça não possui previsão constitucional, legal ou regimental, sendo manifestamente teratológico seu manejo.
+2. Considera-se litigante de má-fé aquele que deduz pretensão ou defesa contra texto expresso de lei, procede de modo temerário em qualquer incidente ou ato do processo e provoca incidente manifestamente infundado (art. 80, I, V e VI, do CPC). 3. A conduta do agravante que, desprezando as mais comezinhas regras de competência constitucional, aventura-se em interpor recurso especial contra texto expresso da Constituição Federal, do Código de Processo Civil e do RISTJ, reputa-se como de litigância de má-fé, devendo ser coibida mediante a incidência da multa prevista no art. 81 do CPC.
+4. Agravo interno desprovido, impondo-se à agravante a multa de 10% sobre o valor atualizado da causa.
+(AgInt na PET na Rcl 34.891/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), SEGUNDA SEÇÃO, julgado em 13/06/2018, DJe 19/06/2018)
+No caso em tela, o Tribunal de origem, com base nos elementos fáticos contidos nos autos, manteve a sentença de extinção da ação de produção antecipada de provas, sob o fundamento da falta de interesse processual, e condenou a parte ora recorrente à pena de litigância de má-fé, nos seguintes termos (fls. 148-149 e-STJ):
+Tratam os autos de ação de produção antecipada de prova, ajuizada com fulcro no art. 381, incisos II e III, do CC, por Michel Miguel Meneses em face da Seguradora Líder dos Consórcios do Seguro DPVAT S/A, por meio da qual o autor pretende obter os documentos relativos ao procedimento administrativo de indenização do seguro obrigatório.
+O douto Magistrado singular, em sentença, julgou extinto o feito, sem resolução de mérito, nos termos do art. 485, VI, do CPC, por verificar a ausência de interesse processual, por perda superveniente de objeto.
+Pois bem. Compulsando os autos do processo nº 5002707-41.2017.8.13.0479, via sistema PJe, ação de cobrança de seguro ajuizada pelo ora apelante em face da ora apelada, verifico que o autor teve acesso ao documento pretendido, qual seja, o procedimento administrativo para recebimento de indenização de seguro DPVAT.
+Diante do fato de que o apelante já possui o documento pleiteado, forçoso reconhecer que houve a perda superveniente do objeto da presente demanda, devendo ser mantida a sentença por meio da qual o Juiz extinguiu feito por ausência de interesse processual.
+Outrossim, o decisum recorrido não merece reforma quanto à fixação de multa por litigância de má-fé em desfavor do apelante.
+Nos termos do art. 80, do CPC: (..
+No caso em tela, vejo que o apelante está a agir com violação do postulado da boa-fé processual, pois afirma que a seguradora resiste em apresentar os documentos, que já foram exibidos, embora em autos diversos. Seja nas razões de apelação, seja por ocasião da intimação para se manifestar sobre a perda de objeto da presente demanda (doe. 42), a parte ignorou o fato de que a recorrida apresentou o processo administrativo requerido.
+Importante salientar que a insurgência recursal não repousa na impertinência dos documentos obtidos ou na incompletude destes, mas na ausência absoluta de sua exibição, fato que não se coaduna com a verdade, haja vista já estarem disponíveis para a parte.
+Portanto, tenho como violados os preceitos previstos no art. 80 do CPC, eis que o autor não expôs os fatos conforme a verdade, procedendo de modo temerário, devendo, portanto, ser penalizado nos termos do art. 81 do CPC.
+Como se observa, a multa em questão foi devidamente justificada pelas instâncias ordinárias. Nesse contexto, a modificação da conclusão adotada no acórdão recorrido, acerca da caracterização da litigância de má-fé da parte recorrente, demandaria o revolvimento de suporte fático-probatório dos autos, o que é obstado pelo enunciado da Súmula 7/STJ.
+Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECLARATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZATÓRIA. PROVA PERICIAL. INDEFERIMENTO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PLEITO INDENIZATÓRIO. DANO MORAL. DESCABIMENTO. APLICAÇÃO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ. AFASTAMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+ .. .
+5. Na hipótese, o Tribunal a quo, após o exame acurado dos autos e das provas, concluiu pela caracterização de litigância de má-fé da agravante, que alterou a verdade dos fatos com o intuito de enriquecimento ilícito.
+6. A alteração da conclusão do Tribunal de origem sobre a litigância de má-fé da agravante demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1614772/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/10/2020, DJe 24/11/2020)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. ALIMENTOS. ARTS. 489 E 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. SUFICIENTE FUNDAMENTAÇÃO. LIVRE APRECIAÇÃO DAS PROVAS. LIVRE CONVENCIMENTO MOTIVADO. PRECEDENTES. SÚMULA 83/STJ. LITIGÂNCIA DE MÁ-FÉ E INDEFERIMENTO DE GRATUIDADE DE JUSTIÇA. REEXAME. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO. FALTA DE COTEJO ANALÍTICO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. NÃO CABIMENTO NA HIPÓTESE. DECISÃO MANTIDA. AGRAVO INTERNO IMPROVIDO.
+ .. .
+4. A revisão as conclusões do Colegiado local sobre a ocorrência de litigância de má-fé implicaria em revolvimento fático-probatório, incidindo mais uma vez o óbice da Súmula n. 7/STJ.
+5. A modificação da premissa alcançada a respeito da não comprovação de que o recorrente faz jus ao benefício da gratuidade da justiça não prescindiria do revolvimento do conjunto fático-probatório deste processo, o que encontra barreira na Súmula 7/STJ.
+6. O dissídio jurisprudencial suscitado não foi demonstrado conforme estabelecido nos arts. 1.029, III, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, pois a demonstração da divergência não se perfaz com a simples transcrição de ementas, mas com o confronto entre trechos do acórdão recorrido e das decisões apontadas como divergentes, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não foi feito na hipótese.
+7. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+8. Agravo interno improvido.
+(AgInt no AREsp 1429943/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/08/2020, DJe 17/08/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE EMBARGANTE.
+1. Admite-se a execução de duplicatas virtuais, quando estejam acompanhadas dos instrumentos de protesto por indicação e dos comprovantes de entrega das mercadorias no endereço da executada.
+2. Rever a conclusão do acórdão recorrido, quanto à efetiva entrega das mercadorias no endereço da executada, a autorizar o protesto por indicação, demandaria reexame de provas, juízo obstado pela Súmula 7/STJ.
+3. É inviável a abertura dessa via especial para a discussão acerca da justiça na aplicação da multa por litigância de má-fé, por ser necessário o reexame do conjunto fático-probatório dos autos, o que é obstado pelo enunciado 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp 1644759/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/06/2020, DJe 30/06/2020)
+Dessa forma, incabível o provimento do recurso especial nessa parte, ante a incidência dos óbices das Súmulas 7 e 83 do STJ.
+2. Ademais, destaca-se que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido, confiram-se os seguintes precedentes: AgRg no AREsp 786.906/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/04/2016, DJe 16/05/2016; AgRg no AREsp 662.068/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/05/2015, DJe 22/06/2015.
+3. Do exposto, reconsidera-se a decisão de fls. 349-351 e-STJ e, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nega-se provimento ao agravo em recurso especial e, com base no art. 85, § 11, do CPC/2015, majora-se os honorários sucumbenciais em 10% (dez por cento), incidentes sobre o valor já arbitrado pela origem, em favor da parte recorrida
+Publique-se.
+Intimem-se.
