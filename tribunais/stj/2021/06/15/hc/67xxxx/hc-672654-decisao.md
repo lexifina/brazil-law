@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de MIKAEL DE SOUZA TAVARES contra acórdão do Tribunal de Justiça do Estado de Pernambuco, noHC n. 0003698-05.2019.8.17.0000.
+Narra aImpetrante que o Pacientefoi preso cautelarmente, por força de prisão temporária, em 14/12/2017, nos autos de investigação criminal relativa ao crime de homicídio qualificado, ocorrido em 30/10/2017. Após o prazo legal, a prisão temporária foi convertida em prisão preventiva com fundamento na garantia da ordem pública.
+Encerradas as investigações, o Paciente foi denunciado como incurso no art. 121,§ 2.º, incisos I e IV, c.c. o art. 29, do Código penal. A exordialfoi recebida em 12/01/2018.
+Em 16/07/2019, o Juízo processante indeferiu o pedido de revogação da prisão preventiva (fls. 470-471).
+Irresignada,a Defesa impetrou owritoriginário, alegando excesso de prazo na formação da culpa.
+A Cortea quodenegou a ordem, em 11/09/2019, nos termos doacórdão defl. 20.
+No presentewrit,a Impetrante repisa a tese de excesso de prazo na formação da culpa, pois a "prisão cautelar imposta sobre o Paciente  ..  já assumiu o caráter de antecipação de pena, uma vez que já perdura por mais de 03 (três) anos!" (fl. 14).
+Aduz, ainda,a ausência dos pressupostos da prisão preventiva, diante dainexistência depericulum libertatis, pois já ocorreu aoitiva da única testemunha ocular dos fatos, o Paciente possui residência fixa e jamais tentou se furtar do distrito da culpa, bem como falta de contemporaneidade.
+Pugna, em liminar e no mérito, pela revogação da prisão preventiva, ainda que com a imposição de medidas cautelares diversas da prisão.
+É o relatório. Decido.
+Verifico,inicialmente, quea tese de ausência dos pressupostos e motivos autorizadores da custódia cautelar não foi suscitada,tampouco apreciada no acórdão atacado, o que impede a manifestação desta Corte Superior, sob pena de indevida supressão de instância.
+Fora isso, a Parte Impetrante não acostou aos autos cópiadas peças processuais que comprovariam o andamento do feito ea situaçãoprocessual do Paciente, oacórdão impugnado está ilegível e foiproferido há quase três anos, oque inviabiliza a análise do pleito de soltura por excesso de prazo deduzido, visto que a situação processual certamente se modificou passado esse lapso temporal.
+Assim, no caso, a pretensão ora formulada não pode ser conhecida, seja por supressão de instância ou porque a documentação trazida aos presentes autos é incompleta.
+Comose sabe, "revela-se insuscetível de exame ohabeas corpusdesacompanhado de elementos que evidenciem o alegado constrangimento ilegal, porquanto a impetração deve fundamentar-se em inequívoca prova pré-constituída"(STF, HC 146.216-AgR, Rel. Ministro LUIZ FUX, TRIBUNAL PLENO, julgado em 27/10/2017, DJe 10/11/2017). Portanto, compete à Defesa narrar e instruir completa e adequadamente ohabeas corpus(ou seu respectivo recurso) -v.g.: STJ, HC 245.430/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 21/02/2013, DJe 28/02/2013.
+Com igualconclusão, citoos seguintes precedentes do Superior Tribunal de Justiça:
+"AGRAVO REGIMENTAL.HABEAS CORPUS.INDEFERIMENTO LIMINAR. .. . AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. ÔNUS DA DEFESA. IMPOSSIBILIDADE DE JUNTADA POSTERIOR DE DOCUMENTOS. .. . DESPROVIMENTO DO RECLAMO.
+1. .. .
+2. Omandamusnão foi instruído com a íntegra do acórdão impugnado, peça processual indispensável para a análise das ilegalidades suscitadas.
+3. O rito dohabeas corpuse do recurso ordinário emhabeas corpuspressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos que evidenciem a pretensão aduzida, a existência do aventado constrangimento ilegal suportado pelo acusado, ônus do qual não se desincumbiu a defesa, exercida por profissional da advocacia.
+4.Cumpre à defesa zelar pela correta formação do caderno processual que será apresentado à apreciação judicial, em respeito ao princípio dispositivo que vige no ordenamento jurídico pátrio, resguardando-se, assim, a necessária imparcialidade do órgão julgador.
+5. É ônus do impetrante instruir corretamente a ação constitucional com toda documentação necessária à apreciação das alegações nele formuladas no momento da sua apresentação, não se admitindo a posterior juntada de documentos imprescindíveis ao exame do pedido e que não foram anexados tempestivamente. Precedentes.
+6. .. .
+7. Agravo regimental desprovido."(AgRg no HC 547.736/MA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 03/12/2019, DJe 16/12/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL EMHABEAS CORPUS.PROCESSUAL PENAL. INSTRUÇÃO E NARRATIVA DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO E ESCLARECIMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. MANUTENÇÃO DA DECISÃO DE INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL QUE SE IMPÕE. AGRAVO DESPROVIDO.
+1. Compete à Defesa narrar e instruir completa e adequadamente o remédio constitucional dohabeas corpus(ou seu respectivo recurso), por cuidar-se de procedimento que"pressupõe prova pré-constituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Min. JORGE MUSSI, Quinta Turma, DJe de 28/06/2018).Assim, ao não se desincumbir do ônus de formar e narrar adequadamente os autos quando da impetração dowrit, a Parte Impetrante impede a apreciação do mérito dowrit.
+2. Agravo regimental desprovido."(AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; sem grifos no original.)
+Friso que o HC n. 666.899/PE, impetrado contra o mesmo acórdão originário e comidênticos fundamentos, foi indeferido liminarmente por deficiência na instrução. Ao invés de repisar seus argumentos em sucessivas impetrações, deve a Impetrante discutir a tese de excesso de prazo primeiramente nas instâncias originárias para que, analisada a situação atual da custódia cautelar noprocesso-crime pela Corte a quo, seja viável o exame da questão por esta Corte Superior de Justiça.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se.Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL.HOMICÍDIO QUALIFICADO. PRISÃOPREVENTIVA. FUNDAMENTOS. SUPRESSÃO DE INSTÂNCIA.TESE DE EXCESSO DE PRAZO NO ENCERRAMENTO DA INSTRUÇÃO. ACÓRDÃO IMPUGNADO PROFERIDO HÁ QUASE TRÊS ANOS. EVIDENTE MODIFICAÇÃO DA SITUAÇÃO PROCESSUAL. AUSÊNCIA DE MANIFESTAÇÃO CONTEMPORÂNEA DA CORTE A QUO A PERMITIR A ANÁLISE DA CONTROVÉRSIA. INSTRUÇÃO DEFICIENTE.PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
