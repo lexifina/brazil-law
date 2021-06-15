@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo manejado pelo INSS, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fls. 450/451):
+PROCESSO CIVIL. PREVIDENCIÁRIO. AÇÃO RESCISÓRIA. APOSENTADORIA. ATIVIDADE ESPECIAL. MANDADO DE SEGURANÇAANTERIOR. PERÍODOS DISTINTOS. CAUSAS DE PEDIR DISTINTAS. COISAJULGADA. INOCORRÊNCIA. ERRO DE FATO.
+1. Ação rescisória proposta com fundamento no art. 966, incisos V, do CPC (violação a norma jurídica), objetivando a desconstituição do Acórdão proferido nos autos do processo nº0007657-17.2012.4.05.8400, o qual deu provimento à remessa oficial e à apelação do INSS para extinguir o feito sem julgamento de mérito, por reconhecer a existência de coisa julgada no Mandado de Segurança 0004166-17.2003.4.05.8400, no qual fora julgado improcedente pedido autoral de conversão do período de 04/05/79 a 28/04/95 como especial, para fins de aposentadoria por tempo de contribuição.
+2. Embora o Mandado de Segurança tenha no polo passivo a autoridade coatora do ato impugnado, e na Ação Ordinária, figure como ré o Órgão ao qual pertence o agente público impetrado, tal fato não acarreta a inexistência de identidade de partes, haja vista que os envolvidos na relação processual são os mesmos, sendo a autoridade coatora mero fragmento da pessoa jurídica de direito público interessada.
+3. É a partir do objeto do processo, isto é, da pretensão deduzida pelo autor que se estabelece os limites objetivos da coisa julgada e, nesse aspecto, o pedido contido na Ação Ordinária, especificamente o relativo ao período de 03.05.78 a 11.11.2002, é mais amplo do que o da Ação Mandamental, que só contempla o interstício de 04.05.78 a 28.04.95.
+4. No Mandado de Segurança nº 0004166-17.2003.4.05.8400, a ordem fora denegada à míngua de direito líquido e certo à contagem de tempo de serviço como especial, uma vez que a atividade exercida pelo então impetrante, ora autor, de Técnico de Telecomunicações, não estava relacionada como especiais no Decreto nº 53.831/64, vigente à época, tampouco restaram comprovadas nos autos as condições em que tal atividade era exercida.
+5. O mérito do não fora apreciado, ante a necessidade de dilação probatória, mandamus incabível no remédio processual eleito. Em assim sendo, ficou resguardada à parte a possibilidade de buscar a satisfação de sua pretensão nas vias ordinárias, nos termos do Art.19 da Lei nº 12.016/2009. (AC - Apelação Civel - 543158 0005476-50.2010.4.05.8000,Desembargadora Federal Margarida Cantarelli, TRF5 - Quarta Turma, DJE -Data::12/07/2012 - Página::412.-grifos nossos)
+6. Além da busca por declaração de exercício de atividade em condição especial por período mais amplo, houve, ainda alteração substancial do quadro fático, mormente pelo reconhecimento pela Justiça do Trabalho, com esteio em laudo pericial judicial conclusivo, deque o autor fazia jus a adicional de periculosidade em face da exposição permanente ao agente nocivo eletricidade.
+7. Ainda que haja identidade de partes e de parte do pedido, entende-se também como distintas as razões de pedir dos feitos em questão, o que afasta a ocorrência de coisa julgada.
+8. Honorários advocatícios, a cargo do INSS, arbitrados em 10% sobre o valor da condenação, em observância ao art. 85, § 3º, do CPC.
+9. Ação Rescisória julgada procedente, em juízo rescindendo, para, em juízo rescisório, julgar improcedente a apelação e a remessa oficial interpostas contra a sentença proferida na Ação Ordinária nº 0007657-17.2012.4.05.8400.
+Opostos embargos de declaração, foram rejeitados (fls. 502/508).
+Nas razões do recurso especial, aponta o recorrente violação dos arts. 966, IV e V, e 337, §§ 1º e 4º, do CPC.
+Sustenta, em síntese, que existe coisa julgada, na ação de origem, que impede o julgamento do pleito de reconhecimento de tempo especial interposto pela parte autora.
+Nestes termos, defende que ".. os processos 0004166-17.2003.4.05.8400 e0007657-17.2012.4.05.8400 possuem o mesmo autor e a mesma causa de pedir (exercício de trabalho em condições especiais) e o mesmo pedido, já que em ambas as ações foi requerido o reconhecimento do tempo especial para períodos idênticos (04/05/1978 a 28/04/1995), ainda que na ação ajuizada em 2012,tenha sido requerido o reconhecimento de períodos posteriores.." (fl. 525).
+Aduz, também, que".. não resta dúvida que em relação ao período de 04/05/1978 a 28/04/1995 já havia uma decisão transitada em julgado, afastando o reconhecimento de tempo de serviço especial, razão pela qual foi acolhida acertadamente a alegação de coisa julgada no Processo nº 0007657-17.2012.4.05.8400." (fl. 525).
+Contrarrazões não apresentadas (fl. 532).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O recurso não prospera.
+Quanto à matéria de fundo, qual seja, a tese que sustenta a existência da coisa julgada, destaca-se o seguinte trecho do aresto recorrido, queassim deixou consignado (fls. 446/448):
+No mérito, merece análise específica cada elemento da questionada identidade entre as ações indicadas.
+Muito embora o Mandado de Segurança tenha no polo passivo a autoridade coatora do ato impugnado, e na Ação Ordinária, figure como ré o Órgão ao qual pertence o agente público impetrado, tal fato não acarreta a inexistência de identidade de partes, haja vista que os envolvidos na relação processual são os mesmos, sendo a autoridade coatora mero fragmento da pessoa jurídica de direito público interessada. Tanto que é dessa a legitimidade para interposição de eventual recurso.
+ ..
+É, porém , a partir do objeto do processo, isto é, da pretensão deduzida pelo autor que se estabelece os limites objetivos da coisa julgada. Nesse aspecto, vejamos o pedido de cada ação:
+Ação Ordinária nº 0007657-17.2012.4.05.8400:
+"a) condenar o INSS a converter, pelo fator 1,4, o tempo de atividade especial, relativo ao período de 03.05.78 a 11.11.2002, trabalhado com exposição à energia elétrica com tensões superiores a 250 volts, em tempo de atividade comum e, após a soma do resultado da conversão ao tempo de contribuição do autor, conceder-lhe aposentadoria voluntária por tempo de contribuição, retroativamente à data do pedido administrativo, qual seja, 23.09.2010,.."
+Mandado de Segurança 0004166-17.2003.4.05.8400:
+"a) .. converta o tempo de trabalho exercido pelo Impetrante em condições especiais, qual seja, 04.05.78 a 28.04.95, em tempo de trabalho comum, mediante a aplicação do fator 1,4, averbando o tempo convertido, para todos os fins previdenciários, inclusive concessão do benefício de aposentadoria;
+b).. conceda o benefício de aposentadoria, proporcional ao tempo de serviço e retroativamente à data de sua demissão da TELEMAR NORTE LESTE S. A, qual seja, 11.11.02, .."
+Tem-se que o pedido contido na Ação Ordinária, especificamente o relativo ao período de 03.05.78 a 11.11.2002, é mais amplo do que o da Ação Mandamental, que só contempla o interstício de 04.05.78 a 28.04.95.
+Percebe-se, pois, que o Acórdão fustigado laborou em equívoco ao afirmar que o lapso temporal da lide originária estaria inserido no período indeferido no Mandado de Segurança, eis que se verifica justamente o contrário, ou seja, o período objeto do Mandado de Segurança está contido no feito de origem, o que viabiliza a apreciação do tempo que não coincide com o analisado no writ.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem acerca do reconhecimento de inexistência de coisa julgada, demandaria novo exame do acervo fático-probatório constante dos autos, o que é vedado a esta Corte Superior, a teor da Súmula 7/STJ.
+A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. APOSENTADORIA RURAL POR IDADE. COISA JULGADA. IDENTIDADE DE PARTES, PEDIDO E CAUSA DE PEDIR. EXTINÇÃO DO SEGUNDO PROCESSO SEM RESOLUÇÃO DE MÉRITO. ART. 267, V, DO CÓDIGO DE PROCESSO CIVIL. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. A jurisprudência desta Corte está consolidada no sentido de que, reconhecido no acórdão recorrido a identidade de pedidos e causas de pedir entre o processo atual e outro anterior, nova análise demanda análise do material fático-probatório dos autos.
+2. Diante do contexto fático-probatório firmado no acórdão recorrido, a pretensão exposta nas razões de recurso especial encontra óbice da Súmula n. 7/STJ. Agravo regimental improvido.
+(AgRg no AREsp 446.807/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 07/03/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL APOSENTADO. PROGRESSÃO FUNCIONAL. EXISTÊNCIA DE COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS E FATOS. SÚMULA 7/STJ.
+1. Na espécie, o Tribunal de origem entendeu estar configurada a existência de coisa julgada, porquanto há identidade de fatos, pedido e causa de pedir.
+2. A revisão do entendimento referido exige o reexame do acervo fático-probatório do processado, o que é inviável na via do recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 386.216/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 17/12/2013)
+PROCESSUAL CIVIL. APOSENTADORIA RURAL POR IDADE. COISA JULGADA. IDENTIDADE DE PARTES, PEDIDO E CAUSA DE PEDIR. EXTINÇÃO DO SEGUNDO PROCESSO SEM RESOLUÇÃO DE MÉRITO. ART. 267, V, DO CÓDIGO DE PROCESSO CIVIL.
+1. Segundo a instância ordinária, a demanda posterior possuía identidade de partes, pedido e causa de pedir de ação que deixou de reconhecer o direito à aposentadoria rural por tempo de serviço. Diante do contexto fático-probatório firmado no acórdão recorrido, a pretensão exposta nas razões de recurso especial encontra óbice da Súmula n. 7/STJ.
+2. Agravo regimental improvido.
+(AgRg no AREsp 31.574/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 07/02/2012, DJe 05/03/2012)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
