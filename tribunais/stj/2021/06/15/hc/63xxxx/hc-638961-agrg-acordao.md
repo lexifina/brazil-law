@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. MERA REITERAÇÃO DE PEDIDO. REGIME MAIS BRANDO E SUBSTITUIÇÃO DA PENA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus não há como ser conhecido em relação à almejada incidência da minorante prevista no § 4º do art. 33 da Lei de Drogas, por se tratar de mera reiteração de pedido (AREsp n. 1.740.546/GO) já julgado por esta Corte.
+2. Diante do insucesso da tese defensiva que poderia levar à redução da reprimenda, ficam mantidas a imposição do regime inicial semiaberto, nos termos do art. 33, § 2º, "b", do CP (pena superior a 4 e inferior a 8 anos de reclusão), bem como a negativa de substituição da reprimenda privativa de liberdade por restritivas de direitos, por ausência de cumprimento do requisito objetivo previsto no art. 44, I, do CP (sanção superior a 4 anos).
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+DANIEL LUCAS PEREIRA DA SILVA interpõe agravo regimental contra decisão de minha relatoria, em que conheci em parte do habeas corpus e, nessa extensão, deneguei a ordem, mantendo, assim, inalterada a condenação a ele imposta pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa basicamente reitera a sua compreensão de que estão preenchidos todos os requisitos necessários para a incidência da minorante prevista no § 4º do art. 33 da Lei de Drogas.
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja aplicado o referido redutor e, por conseguinte, seja fixado o regime inicial aberto de cumprimento de pena e determinada a substituição da reprimenda privativa de liberdade por restritiva de direitos
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. MERA REITERAÇÃO DE PEDIDO. REGIME MAIS BRANDO E SUBSTITUIÇÃO DA PENA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus não há como ser conhecido em relação à almejada incidência da minorante prevista no § 4º do art. 33 da Lei de Drogas, por se tratar de mera reiteração de pedido (AREsp n. 1.740.546/GO) já julgado por esta Corte.
+2. Diante do insucesso da tese defensiva que poderia levar à redução da reprimenda, ficam mantidas a imposição do regime inicial semiaberto, nos termos do art. 33, § 2º, "b", do CP (pena superior a 4 e inferior a 8 anos de reclusão), bem como a negativa de substituição da reprimenda privativa de liberdade por restritivas de direitos, por ausência de cumprimento do requisito objetivo previsto no art. 44, I, do CP (sanção superior a 4 anos).
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos despendidos pela defesa, entendo que não lhe assiste razão.
+No que tange ao pretendido reconhecimento da minorante prevista no § 4º do art. 33 da Lei de Drogas, verifico que essa matéria já foi objeto de análise por esta Corte Superior de Justiça, por ocasião do julgamento do AREsp n. 1.740.546/GO (decisão publicada no DJe de 21/9/2020).
+Na ocasião, este Superior Tribunal concluiu pela impossibilidade de aplicação do referido redutor em favor do réu, em razão do enunciado na Súmula n. 7 do STJ, senão vejamos:
+Em desfecho, da compreensão dos excertos sublinhados, infere-se incidir o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial") quanto à aspiração defensiva alhures, destinada à desconstituição do acórdão definitivo, porquanto a "revisão criminal" das premissas assentadas perante as instâncias ordinárias, declinadas à aventada não dedicação habitual do agente - apenas "usuário de drogas" (fl. 225) na prática de "atividades criminosas" (fl.
+223), demandaria inexorável reexame do acervo fático- probatório carreado aos autos, mister incabível na via eleita.
+A propósito: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático- probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n.
+7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.) Na mesma direção, os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Assim, conforme bem concluiu o decisum ora agravado, o habeas corpus não há como ser conhecido em relação a essa matéria, por se tratar de mera reiteração de pedido.
+Consequentemente, diante do insucesso da tese defensiva que poderia levar à redução da reprimenda, ficam mantidas a imposição do regime inicial semiaberto, nos termos do art. 33, § 2º, "b", do CP (pena superior a 4 e inferior a 8 anos de reclusão), bem como a negativa de substituição da reprimenda privativa de liberdade por restritivas de direitos, por ausência de cumprimento do requisito objetivo previsto no art. 44, I, do CP (sanção superior a 4 anos).
+À vista do exposto, nego provimento ao agravo regimental.
