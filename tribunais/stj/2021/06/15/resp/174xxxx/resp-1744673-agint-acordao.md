@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a).
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO INTERNO NORECURSO ESPECIAL. PROCESSUAL CIVIL.TRIBUTÁRIO. OPERAÇÕES DE VENDAS INTERNAS PARA PESSOAS FÍSICAS OU JURÍDICAS NA ZONA FRANCA DE MANAUS. INEXIGIBILIDADE DA CONTRIBUIÇÃO PARA O PIS E DA COFINS.
+1. "O acórdão recorrido atuou em perfeita harmonia com a pacífica orientação do Superior Tribunal de Justiça, segundo a qual o benefício fiscal conferido à Zona Franca de Manaus alberga as operações realizadas no âmbito de tal região, afastando, nesses casos, a incidência da Contribuição do PIS e da COFINS sobre o faturamento ou receitas auferidas, não havendo que se falar em distinção quanto às vendas realizadas a pessoas físicas ou jurídicas, não contemplada na disciplina específica dessas contribuições" (AgInt no AREsp 1.601.738/AM, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 14/5/2020).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado pela Fazenda Nacional, contra a decisãomonocrática de e-STJ, fls. 497-501, por meio da qual se negou provimento ao recurso especial fazendário.
+Em suas razões, a parte agravante repisa sua argumentação no sentido de que "os arts. 2º, § 1º, da Lei 10.996/2004 e 5º-A da Lei10.865/2004, que dão amparo à interpretação extensiva do art. 4º do Decreto-Lei nº 288/76, garantindo, conforme jurisprudência do STJ, a isenção da contribuição ao PIS e daCOFINS sobre receitas auferidas com vendas a realizadas no âmbito da ZFM, não se aplicam às operações com pessoas físicas" (e-STJ, fls. 508-509).
+Assevera que o referido dispositivo legal, ao reduzir azero a alíquota das contribuições ao PIS e àCofins incidentes sobre as receitas de vendas de produtos para a Zona Franca de Manaus, foi expresso ao limitar o benefícios às operações evolvendo pessoas jurídicas.
+Por fim, acrescenta que "a decisão agravada não apresentou qualquer razão para afastar os trechos dos referidos dispositivos legais que limitam sua aplicação às operações com pessoas jurídicas, em flagrante ofensa ao princípio da obrigatoriedade da motivação das decisões judiciais e consequente violação ao inciso IX do art. 93 da Constituição Federal" (e-STJ, fl. 510)
+Protesta, assim, pelo juízo de retratação ou pelo provimento do agravo interno.
+Sem impugnação ao recurso de agravo.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NORECURSO ESPECIAL. PROCESSUAL CIVIL.TRIBUTÁRIO. OPERAÇÕES DE VENDAS INTERNAS PARA PESSOAS FÍSICAS OU JURÍDICAS NA ZONA FRANCA DE MANAUS. INEXIGIBILIDADE DA CONTRIBUIÇÃO PARA O PIS E DA COFINS.
+1. "O acórdão recorrido atuou em perfeita harmonia com a pacífica orientação do Superior Tribunal de Justiça, segundo a qual o benefício fiscal conferido à Zona Franca de Manaus alberga as operações realizadas no âmbito de tal região, afastando, nesses casos, a incidência da Contribuição do PIS e da COFINS sobre o faturamento ou receitas auferidas, não havendo que se falar em distinção quanto às vendas realizadas a pessoas físicas ou jurídicas, não contemplada na disciplina específica dessas contribuições" (AgInt no AREsp 1.601.738/AM, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 14/5/2020).
+2. Agravo interno a que se nega provimento.
+VOTO
+A pretensão recursal não merece êxito, na medida em que a parte interessada não trouxe argumentos aptos à alteração do posicionamento anteriormente firmado.
+Como registrado na primeira oportunidade, "o acórdão recorrido atuou em perfeita harmonia com a pacífica orientação do Superior Tribunal de Justiça, segundo a qual o benefício fiscal conferido à Zona Franca de Manaus alberga as operações realizadas no âmbito de tal região, afastando, nesses casos, a incidência da Contribuição do PIS e da COFINS sobre o faturamento ou receitas auferidas, não havendo que se falar em distinção quanto às vendas realizadas a pessoas físicas ou jurídicas, não contemplada na disciplina específica dessas contribuições" (AgInt no AREsp 1.601.738/AM, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 14/5/2020- grifos acrescidos).
+Nesse aspecto, vale conferir:
+TRIBUTÁRIO. PIS E COFINS. PRODUTOS DESTINADOS À ZONA FRANCA DE MANAUS. EMPRESAS QUE VENDEM PRODUTOS PARA OUTRAS NA MESMA LOCALIDADE. DESONERAÇÃO.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisõespublicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. À luz da interpretação conferida por esta Corte ao Decreto-Lei n.288/1967, a venda de mercadorias destinadas à Zona Franca de Manaus equivale à exportação de produto brasileiro para o estrangeiro, em termos de efeitos fiscais, não incidindo sobre tais receitas a contribuição social do PIS nem da COFINS.
+3. O acórdão recorrido atuou em perfeita harmonia com a pacífica orientação do Superior Tribunal de Justiça, segundo a qual o benefício fiscal conferido à Zona Franca de Manaus alberga as operações realizadas no âmbito de tal região, afastando, nesses casos, a incidência da Contribuição do PIS e da COFINS sobre o faturamento ou receitas auferidas, não havendo que se falar em distinção quanto às vendas realizadas a pessoas físicas ou jurídicas, não contemplada na disciplina específica dessas contribuições.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.601.738/AM, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 11/5/2020, DJe 14/5/2020.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AGRAVO INTERNO QUE NÃO IMPUGNA TODOS OS FUNDAMENTOS DO DECISUM. CONCORDÂNCIA EXPRESSA DA PARTE RECORRENTE COM O CAPÍTULO AUTÔNOMO NÃO IMPUGNADO. POSSIBILIDADE DE EXAME DO MÉRITO DA IRRESIGNAÇÃO. NÃO APLICAÇÃO DA SÚMULA N. 182/STJ. ZONA FRANCA DE MANAUS. BENEFÍCIO FISCAL. ISENÇÃO. PIS E COFINS. VENDA A PESSOAS FÍSICAS E JURÍDICAS. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, no caso, o Código de Processo Civil de 2015.
+II - Afasta-se a incidência da Súmula n. 182/STJ quando, embora o Agravo Interno não impugne todos os fundamentos da decisão recorrida, a parte recorrente manifesta, expressamente, a concordância com a solução alcançada pelo julgador, desde que o capítulo em relação ao qual a desistência foi manifestada seja independente e não interfira na análise do mérito da irresignação.
+III - O acórdão recorrido está em consonância com orientação consolidada nesta Corte segundo a qual o benefício fiscal conferido à Zona Franca de Manaus alcança as operações realizadas no âmbito dessa região, o que afasta a incidência do PIS e da COFINS, não havendo distinção quanto às vendas realizadas a pessoas físicas ou jurídicas.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo interno desprovido.
+(AgInt no REsp 1.881.153/AM, Rel. Min. REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 21/9/2020, DJe 23/9/2020.)
+Não havendo, pois, nova motivação hábil para alterar o entendimento anteriormente exarado, mantenho a decisão combatida.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
