@@ -1,0 +1,10 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. PIS/COFINS. TRIBUTAÇÃO PELO SISTEMA MONOFÁSICO. APROVEITAMENTO DE CRÉDITOS. RECURSO AFETADO À SISTEMÁTICA DOS RECURSOS REPETITIVOS: RESPS 1.894.741/RS E 1.895.255/RS, REL. MIN. MAURO CAMPBELL MARQUES (TEMA 1.093/STJ). SUSPENSÃO DO FEITO.
+1. Trata-se de Embargos de Divergência opostos por ITAIMBÉ AUTOMÓVEIS LTDA., contra acórdão proferido pela Segunda Turma, assim ementado:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.PIS/COFINS. REGIME ESPECIAL DE TRIBUTAÇÃO MONOFÁSICA.DECISÃO AGRAVADA EM CONFORMIDADE COM A JURISPRUDÊNCIA DA TURMA.
+1. A Segunda Turma do Superior Tribunal de Justiça possui firme entendimento de que " ..  o regime de tributação monofásica é incompatível com o direito ao creditamento das contribuições ao PIS e à COFINS" (REsp 1.806.338/MG, Rel. Min. Herman Benjamin, Segunda Turma, DJe 11/10/2019). Precedentes.
+2. Agravo interno a que se nega provimento.
+2. É o breve relatório.
+3. Constata-se que as questões debatidas nos autos, quais sejam, a) se benefício instituído no art. 17da Lei 11.033/2004, somente se aplica às empresas que se encontram inseridas no regime específico de tributação denominado REPORTO; b) se o art. 17da Lei 11.033/2004, permite o cálculo de créditos dentro da sistemática da incidência monofásica do PIS e da COFINS; e c) se a incidência monofásica do PIS e da COFINS se compatibiliza com a técnica do creditamento, encontram-se afetadas à Primeira Seção desta Corte Superior aguardando o julgamento dos REsps 1.894.741/RS e 1.895.255/RS, de relatoria do Ministro MAURO CAMPBELL MARQUES, sob o rito dos recursos repetitivos (Tema 1.093/STJ).
+4. Diante do exposto, determina-se o sobrestamento do presente feito, com remessa dos autos à Coordenadoria de Processamento de Feitos de Direito Público, até o julgamento dos recursos repetitivos acima indicados. Nesse sentido: EREsp 1.889.788/SE, Ministro HERMAN BENJAMIN, DJe 1º.6.2021.
+5. Publique-se. Intimações necessárias.
