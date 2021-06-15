@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manejado por LPPA Comércio e Representação de Veículos Automotivos Ltda., desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 178):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PRESCRIÇÃO. TRIBUTOS SUJEITOS A LANÇAMENTO POR HOMOLOGAÇÃO.
+1. O cabimento da exceção de pré-executividade em execução fiscal é questão pacífica consolidada na Súmula 393 do STJ.
+2. O termo inicial da contagem do prazo prescricional de cinco anos é a data da constituição definitiva do crédito tributário, nos termos do art. 174 do CTN.
+3. Na hipótese de tributo sujeito a lançamento por homologação, a constituição do credito se dá com a entrega da declaração pelo sujeito passivo.
+4. A constituição definitiva do crédito ocorrerá quando aperfeiçoada sua exigibilidade com o vencimento, desde que este seja posterior à entrega da declaração.
+5. Nos moldes do art. 149 do Código Tributário Nacional, na ausência de declaração do contribuinte ou se elaborada em desacordo com a legislação tributária, com omissões ou inexatidões a constituição do crédito tributário poderá ocorrer de ofício.
+6. Se o contribuinte impugnar o débito na via administrativa, a constituição ocorrerá com a última decisão administrativa, da qual não couber mais recurso. Infere-se, pois, que a exigibilidade do crédito tributário permanece suspensa enquanto pendente o processo administrativo.
+7. Releva notar que não corre o prazo prescricional no interstício de discussão do direito creditório, seja em âmbito judicial, seja no âmbito administrativo.
+8. O termo de confissão espontânea de débito fiscal é apto à constituição do crédito tributário, no entanto, se seguido do pedido de parcelamento, haverá a interrupção do prazo prescricional, que voltará a fluir a partir do inadimplemento do acordo firmado.
+9. As circunstâncias do caso concreto determinarão o marco inicial do prazo prescricional, que poderá ser a data do vencimento ou da entrega da declaração, o que for posterior; da intimação ou notificação da decisão final do processo administrativo fiscal; do termo de confissão espontânea de débito fiscal ou do inadimplemento do acordo firmado.
+10. A execução fiscal foi ajuizada cm 20.01.2011 (id 1381768 - Pág. 1) e determinada a citação em 31.01.2011 (id 1381768 -Pág. 3).
+11. Os débitos em execução são relativos a 2003 e foram constituídos mediante auto de infração lavrado em 31.05.2005 (id 1381768 - Pág. 5/18).
+12. Cumpre salientar, que não houve curso o prazo prescricional no interstício de 2005 a 2009, período em que o débito excutido foi objeto dc processo administrativo (19515.001563/2005-66).
+13. A teor da interpretação dada pelo E. STJ ao disposto no art. 174, parágrafo único, do CTN, c.c. o art. 219, § 1º, do CPC, após as alterações promovidas pela Lei Complementar 118/2005, o marco interruptivo atinente à determinação de citação do executado retroage à data do ajuizamento do feito executivo.
+14. Logo, não ocorreu a prescrição, haja vista que da data da constituição dos créditos, 31.05.2005, a suspensão do curso do prazo prescricional de 2005 a 2009, até o ajuizamento da ação, 20.01.2011, não decorreu o prazo de 05 (cinco) anos.
+15. Agravo deinstrumento improvido.
+Opostos embargos declaratórios, foram rejeitados (fls. 215/223).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 202 do CTN, 2º, §§5º e 6º, e 3º, da LEFe, 174 do CTN. Sustenta que: (I) deve ser reconhecida a nulidade da CDA, "tendo em vista que a própria Recorrente confessou no petitório contestatório que a data de constituição do credito tributário apontada na mencionada CDA está errada" (fl. 250) e (II) "o erro constante na CDA n. 80.2.09.012238-81 quanto à data da constituição definitiva do crédito tributário impede a defesa da Recorrente, pois a mesma não consegue identificar o termo a quo do prazo prescricional" (fl. 256).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, não se conhece da matéria relativa aos Temas 383,82 e 179 do STJ, que teve seu seguimento negado pela Corte de origem com base no art. 1.030, I, b, do CPC/2015, ante a existência de recurso próprio.
+No que remanesce, quanto a alegação de nulidade da CDA, o Tribunal de origem assim se pronunciou (fl. 221):
+Por fim, relativamente à insurgência da embargada - nulidade da CDA - anoto que não foi suscitada na peça de interposição do agravo, razão pela qual não se sustenta a alegação de que a r. decisão agravada deixou de se manifestar na hipótese dos autos.
+Assim, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, a tese suscitada não foi objeto do agravo interposto,esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".A respeito do tema:AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/02/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/02/2021.
+Por fim, orecurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional, porque o dissídio jurisprudencial não foi demonstrado na forma exigida pelos arts. 1.029, § 1º, do CPCe 255, § 1º, do RISTJ. Com efeito, a parte recorrente não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
