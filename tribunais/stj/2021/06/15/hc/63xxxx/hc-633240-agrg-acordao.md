@@ -1,0 +1,58 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO N. 8.172/2013. INEXISTÊNCIA DE TRÂNSITO EM JULGADO DA CONDENAÇÃO NA DATA DA PUBLICAÇÃO DO DECRETO. IMPOSSIBILIDADE DE CONCESSÃO DO BENEFÍCIO. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+1. Nos termos do art. 6º, incisos I e II, do Decreto n. 8.172/2013, para a concessão do benefício de indulto, é necessário que na data da publicação do decreto tenha havido o trânsito em julgado da condenação, ao menos para a acusação, ou que não haja recurso que vise à majoração da pena ou à discussão de condições exigidas para a declaração do indulto.
+2. No caso, a sentença condenatória da agravante foi proferida em 19/10/2016, de maneira que não há nenhuma ilegalidade no indeferimento do pedido de indulto formulado em razão da prisão provisória cumprida pela agravante anteriormente à data da publicação do referido decreto, já que não cumpridas as condições exigidas no art. 6º.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por NILCE ROSA DE OLIVEIRA contra a decisão de e-STJ fls. 141/144, por meio da qual deneguei a ordem.
+Na hipótese, a agravante foi condenada, pelo crime de tráfico de drogas, à pena de 1 (um) ano e 8 (oito) meses de reclusão, substituída a sanção privativa de liberdade por medidas restritivas de direitos.
+Nesse contexto, a defesa buscou o reconhecimento do indulto, com fulcro no art. 1º, inciso XIV, do Decreto Presidencial n. 8.172/2013. Entretanto, o Magistrado singular indeferiu o pedido por entender não estarem preenchidos os requisitos do referido ato normativo (e-STJ fl. 115).
+Interposto agravo em execução na Corte de origem, foi negado provimento ao recurso (e-STJ fls. 115/120).
+Neste habeas corpus, esclareceu a defesa que, "até o dia 25/12/2013, a paciente, ré primária, cumpriu 4 (quatro) meses e 19 (dezenove) dias de sua reprimenda em prisão provisória, ou seja, muito mais que o quantum de 1/6 (um sexto) do total da pena que lhe foi imposta na sentença penal condenatória. Com efeito, preencheu o requisito previsto no artigo 1º, inciso XIV, do Decreto Presidencial 8.172/2013 para concessão do indulto" (e-STJ fl. 6).
+Sublinhou que o "extenso período entre o cometimento do fato típico, em 17/06/2013, e a formação de coisa julgada, em 23/07/2018, é situação da qual a paciente não deu causa. Apesar de ter interposto recurso à condenação, o decurso de mais de cinco anos do processo não é de responsabilidade da paciente e, por isso, ela não pode ser punida além dos limites de sua pena, tanto por uma questão de razoabilidade, quanto de política criminal" (e-STJ fl. 9).
+Diante disso, pediu a extinção da punibilidade em virtude da concessão do indulto coletivo previsto no art. 1º, XIV, do Decreto Presidencial n. 8.172/2013.
+Às e-STJ fls. 141/144, deneguei a ordem.
+Nesta oportunidade, a defesa reitera as razões trazidas na inicial, sustentando que "o artigo 1º, inciso XIV, do Decreto Presidencial 8.172/2013, que trata da concessão do indulto, dispõe que o indulto será concedido às pessoas condenadas a pena privativa de liberdade sob o regime aberto ou substituída por pena restritiva de direitos, na forma do art. 44 do Código Penal, ou ainda beneficiadas com a suspensão condicional da pena, que tenham cumprido, em prisão provisória, até 25 de dezembro de 2013, um sexto da pena, se não reincidentes, ou um quinto, se reincidentes", e que, "no caso dos autos, em 25/12/2013, a paciente, ré primária, havia  cumprido  4 (quatro) meses e 19 (dezenove) dias de sua reprimenda em prisão provisória, ou seja, muito mais que o quantum de 1/6 (um sexto) do total da pena que lhe foi imposta na sentença penal condenatória. Deste modo, verifica-se que a paciente preencheu os requisitos previstos no artigo 1º, inciso XIV, do Decreto Presidencial 8.172/2013" (e-STJ fl. 152).
+Requer, assim, o provimento do recurso a fim de que seja concedida a ordem, declarando extinta a punibilidade da recorrente.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O agravo não merece prosperar.
+Colaciono, inicialmente, o seguinte excerto do acórdão proferido pelo Tribunal de origem acerca da controvérsia (e-STJ fl. 118):
+Certo que o indulto é admissível com relação a condenações definitivas, com trânsito em julgado anterior à publicação do ato presidencial, a qual se deu no ano de 2013, podendo-se estender o benefício à sentença que tenha transitado em julgado apenas para a acusação antes da edição do Decreto.
+Reitera-se o dito em linhas transatas, salientando que, ainda que a reeducanda tenha expiado 1/6 (um sexto) da reprimenda até 25/12/2013, não é cabível a concessão do perdão da pena, tendo em vista que o respectivo édito condenatório transitou em julgado para a acusação após referido marco.
+Quanto à aplicação da causa de extinção da punibilidade em tela com base na flexibilização do regramento, tendo em vista o extenso interregno entre a prática do fato típico e a formação da coisa julgada, cediço que a delonga pode ter se configurado por inúmeros fatores, consistindo, para mais, em ação penal movida pelo Ministério Público contra 02 (duas) denunciadas, ausentes informes mais detalhados quanto às notificações, intimações, necessidade de adiamento de audiências, etc., vê-se que o pleito não procede, uma vez que não restou demonstrado, de plano, a ausência de contribuição da defesa para o retardo. (Grifei.)
+Não vislumbrei, da leitura do acórdão da Corte a quo, nenhuma ilegalidade.
+Isso, porque o acórdão impugnado está em consonância com o entendimento firmado pela jurisprudência do Superior tribunal de Justiça no sentido de que, para a concessão de indulto, devem ser levadas em consideração apenas as condenações com trânsito em julgado, ao menos para a acusação, até a data da publicação do decreto presidencial.
+Citei, nesse sentido, os seguintes julgados:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. INDULTO. DECRETO N.º 7.046/2009. REQUISITO OBJETIVO. CONSIDERAÇÃO DE GUIA DE EXECUÇÃO EXPEDIDA EM MOMENTO POSTERIOR AO DECRETO. POSSIBILIDADE. TRÂNSITO EM JULGADO DA CONDENAÇÃO EM DATA ANTERIOR À PREVISTA NO DECRETO PRESIDENCIAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, em sua missão constitucional de unificar a interpretação do direito federal infraconstitucional, não se limita a repetir acriticamente seus próprios precedentes. Contudo, se o caso concreto não traz nenhum distinguish, inexiste razão para se deixar de aplicar entendimento jurisprudencial consolidado após a análise de diversos casos semelhantes.
+2. Na análise do preenchimento do requisito objetivo para fins de concessão do benefício do indulto, devem ser consideradas todas as condenações com trânsito em julgado até a data da publicação do Decreto Presidencial, sendo indiferente o fato da juntada da guia de execução penal ocorrido em momento posterior à publicação do decreto.
+3. A circunstância de a sentença concessiva do indulto ter natureza declaratória não modifica o referido entendimento, uma vez que a nova sentença condenatória transitada em julgado que impede a concessão da benesse já existia na data em que editado o decreto, consistindo a correspondente guia de execução apenas a formalização do início processo de execução da pena.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1792365/ES, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 17/02/2020, sem grifos no original.)
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. INDULTO. DECRETO N. 7.873/2012. REQUISITO OBJETIVO. CONSIDERAÇÃO DE GUIA DE EXECUÇÃO EXPEDIDA EM MOMENTO POSTERIOR AO DECRETO. POSSIBILIDADE. TRÂNSITO EM JULGADO DA CONDENAÇÃO EM DATA ANTERIOR À PREVISTA NO DECRETO PRESIDENCIAL.
+O fato da distribuição da Guia de Execução Penal ter sido realizada em momento posterior à publicação do Decreto n. 7.873/2012 não impede a consideração de referida condenação para fins de comutação e indulto, pois o seu trânsito em julgado ocorreu em momento anterior à publicação do Decreto e, nos termos da legislação regulamentar, deveria ter sido previamente computada.
+Logo, quando da publicação do Decreto, referida condenação já estava devidamente constituída em desfavor do apenado, razão pela qual deve ser considerada para análise do requisito temporal necessário ao indulto e comutação, sendo irrelevante o fato da execução criminal dela decorrente ter sido distribuída em momento posterior. Precedentes. Agravo regimental desprovido"
+(AgRg no REsp 1.756.386/ES, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 02/10/2018, DJe 08/10/2018, sem grifos no original.)
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. COMUTAÇÃO DE PENA. DECRETO N. 8.380/2014. REQUISITO OBJETIVO NÃO IMPLEMENTADO. CONSIDERAÇÃO DE GUIA DE EXECUÇÃO DISTRIBUÍDA EM MOMENTO POSTERIOR AO DECRETO. POSSIBILIDADE. TRÂNSITO EM JULGADO DA CONDENAÇÃO EM MOMENTO ANTERIOR À PUBLICAÇÃO DO DECRETO PRESIDENCIAL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para fins de apuração do requisito objetivo à concessão de comutação da pena devem ser apuradas todas as condenações definitivas com trânsito em julgado anterior à data da publicação do decreto presidencial.
+2. O fato da guia de execução penal ter sido juntada em momento posterior à publicação do Decreto 8.380/2014 não impede a consideração de referida condenação para fins de aferição do requisito objetivo, uma vez que o seu trânsito em julgado ocorreu em momento anterior. Precedentes.
+3. Segundo o disposto na Súmula 568 desta Corte, "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+4. Agravo Regimental desprovido"
+(AgRg no REsp n. 1.630.465/MG, QUINTA TURMA, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 23/10/2017, sem grifos no original.)
+Com efeito, assim dispõe o art. 6º do Decreto n. 8.172/2013:
+Art. 6º O indulto e a comutação de penas de que trata este Decreto são cabíveis, ainda que:
+I - a sentença tenha transitado em julgado para a acusação, sem prejuízo do julgamento de recurso da defesa na instância superior;
+II - haja recurso da acusação que não vise a majorar a quantidade da pena ou as condições exigidas para a declaração do indulto ou da comutação de penas;
+III - a pessoa condenada esteja em livramento condicional;
+IV - a pessoa condenada responda a outro processo criminal, mesmo que tenha por objeto um dos crimes previstos no art. 9º ; ou
+V - não tenha sido expedida a guia de recolhimento. (grifei)
+Dessarte, na hipótese, tendo a sentença sido proferida em 19/10/2016, não há que se falar em trânsito em julgado para a acusação ou existência de recurso da acusação que não visasse à majoração da pena, circunstâncias que, em tese, possibilitariam o eventual deferimento do indulto previsto no Decreto n. 8.172/2013.
+Assim, mantenho a decisão agravada e nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
