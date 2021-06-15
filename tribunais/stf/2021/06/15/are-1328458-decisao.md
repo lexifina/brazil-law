@@ -1,0 +1,32 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    "PRESCRIÇÃO - Relação de trato sucessivo - Súmula nº 85 do Superior Tribunal de Justiça - Preliminar rejeitada.
+    FUNCIONALISMO MUNICIPAL - Ascensão funcional - Pleito de realização da promoção vertical e progressão horizontal, conforme estabelecido na Lei Municipal nº 2.240/1976, com as alterações posteriores - Desídia da administração verificada - Descumprimento da legislação funcional - Ilegalidade da omissão - Discricionariedade administrativa quanto à verificação do preenchimento dos requisitos objetivos e subjetivos - Inocorrência - Mérito do ato administrativo ressalvado quanto à aferição singular dos critérios subjetivos, mas não quanto opção de efetiva verificação - Pretensão autoral quanto aos reflexos pecuniários sujeita ao prazo prescricional quinquenal - Precedente jurisprudencial - Apelação da Municipalidade de São Bernardo do Campo e remessa necessária não providas, com determinação.
+    LEI 11.960/2009: ATUALIZAÇÃO MONETÁRIA - Eficácia resolvida pelo Supremo Tribunal Federal, nas ADINs nºs 4.357 e 4.425 - Inconstitucionalidade da expressão 'índice oficial de remuneração básica da caderneta de poupança', inscrita no artigo 1º-F da Lei 9.494/1997, com a redação alterada pelo artigo 5º da Lei nº 11.960/2009 - Consequente vácuo para o estabelecimento de novo indexador mais consentâneo à vocação primordial da correção monetária, que é assegurar o poder de compra do capital comprometido em consequência da decisão judicial - Adoção do IPCA (Índice de Preços ao Consumidor Amplo) no que concerne à correção monetária, consoante precedente havido no Recurso Especial Representativo de Controvérsia nº 1.270.439/PR, do Eg. Superior Tribunal de Justiça (j. 26/06/2013). JUROS MORATÓRIOS - Escalonamento conforme edição da Medida Provisória nº 2.180-35, de 24/08/2001, e da Lei nº 11.960, de 30/06/2009 - Utilização dos critérios estabelecidos no REsp nº 937.528/RJ (STJ-5ª Turma, DJe 1º/11/2011). "
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 2º, 5º, inciso LXXVIII, 37, caput, e; 169, §1º, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    "(...)
+    2- Ação de cobrança ajuizada por Paulo Galdino Silva e Francisco Costa contra a Municipalidade de São Bernardo do Campo, pleiteando o reconhecimento do direito ao recálculo de seus vencimentos com a realização da promoção vertical e progressão horizontal determinadas por leis locais.
+    Paulo Galdino Silva ingressou no serviço público no ano de 2000, Francisco Costa em 1988, ambos ocupando a função de motorista sob o regime celetista, sendo incluídos, em 1994, no Regime Jurídico Único, de acordo com a Lei nº 4.172/1994. Exercem a função de Motorista, referência C.18. Porém, apesar das determinações legais que regem o seu regime funcional, a Municipalidade deixou de proceder às avaliações e procedimentos atinentes à progressão horizontal e promoção vertical.
+    Forçoso reconhecer a inércia do Município.
+    De acordo com a Lei local nº 2.240/1976, consolidada com modificações, a ascensão funcional é gênero, sendo espécies a progressão vertical e a horizontal, como modos de valorização do servidor.
+    (...)
+    Ou seja, mesmo com as revogações pontuais e expressas trazidas pela Lei nº 2.386/1979, o sistema de ascensão funcional permaneceu no ordenamento local, como determinação a ser cumprida. Ao Judiciário não compete verificar os critérios subjetivos (tirocínio, iniciativa, auto suficiência etc) trazidos pelo legislação municipal o que deve ficar a cargo dos órgãos e autoridades da Administração.
+    Contudo, no caso de desídia e descumprimento da lei, a questão resolve-se com a determinação de atuação efetiva, não havendo que se falar em discricionariedade administrativa, seja quanto à conveniência (modo), seja quanto à oportunidade (tempo).
+    E neste caso, havendo diferenças pecuniárias a perceber, a modificação funcional traz ínsita a necessidade de pagamento de valores, o que se submete ao lapso prescricional quinquenal. Assim, de se afastar o pleito autoral de retroação sem determinação temporal.
+    (...)
+    Assim, caberá ao Município verificar o atendimento dos requisitos legais para realização da ascensão funcional estabelecida."
+         Desse modo, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+         Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJede 26/3/2018)
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJede 9/10/2020)
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 15 de junho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
