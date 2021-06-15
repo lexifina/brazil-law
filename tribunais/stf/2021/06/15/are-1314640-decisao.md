@@ -1,0 +1,31 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (eDOC 2, p. 11):
+    “AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE DETERMINA A EXPEDIÇÃO DE REQUISIÇÃO DE PEQUENO VALOR (RPV) QUANTO à PARTE INCONTROVERSA DO CRÉDITO EXECUTADO. SISTEMÁTICA DE PAGAMENTO, ENTRETANTO, QUE DEVE SER DEFINIDA COM BASE NO VALOR TOTAL DA EXECUÇÃO. HIPÓTESE EM QUE A INTEGRALIDADE DO CRÉDITO SUPERA O LIMITE ESTABELECIDO NA LEI ESTADUAL N. 15.945/2013 QUE DEFINE AS OBRIGAÇÕES DE PEQUENO VALOR. IMPOSSIBILIDADE DE FRACIONAMENTO DO CRÉDITO, NOS TERMOS DO ART. 100, § 8°, DA CONSTITUIÇÃO FEDERAL. RECURSO PROVIDO.”
+    Os embargos de declaração foram rejeitados (eDOC 3, p. 11).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5°, LXXVIII; 37 e 100, §§ 3° e 8°, da Constituição da República. Nas razões recursais, sustenta-se, em suma, que (eDOC 6, p. 18):
+    “Há diferença entre fracionar e adiantar uma parte que pode até vir a ser o crédito integral. Definitivamente, operacionalizar o pagamento do valor incontroverso, desde logo, não é burlar o precatório.
+    O texto constitucional tem a finalidade evidente de vedar o fracionamento quando for sabido e certo que o crédito é maior (burla precatório). Mas não veda o pagamento por RPV quanto ao valor incontroverso, que poderá até mesmo vir a ser o valor total da execução.”
+    Alega-se, ademais, que “a interpretação do § 8° do art. 100 da CRFB feita pelo r. acórdão viola frontalmente as garantias da razoável duração do processo e da celeridade processual, ao pretender que a parte somente receba em 4 ou 5 anos, aquilo que pela lei deve receber em 2 meses (II, § 3° do art. 535 do CPC), somente porque haveria possibilidade do valor estipulado para a execução ser maior” (eDOC 6, p. 19).
+    A 2ª Vice-Presidência do Tribunal de Justiça de Santa Catarina inadmitiu o recurso extraordinário (eDOC 8, p. 8-12).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    A controvérsia acerca da possibilidade de fracionamento da execução contra a Fazenda Pública com expedição de precatório ou requisição de pequeno valor para pagamento de parte incontroversa da condenação foi objeto de análise e deliberação perante o Plenário dessa Corte no julgamento do RE-RG 1.205.530, da relatoria do Min. Marco Aurélio, DJe 01.07.2020. Na oportunidade, foi fixada a seguinte tese:
+    "Surge constitucional expedição de precatório ou requisição de pequeno valor para pagamento da parte incontroversa e autônoma do pronunciamento judicial transitada em julgado observada a importância total executada para efeitos de dimensionamento como obrigação de pequeno valor."
+    Por oportuno, trago à colação trechos do voto condutor do acórdão recorrido (eDOC 2, p. 15-16):
+    “Inicialmente, o art. 1°, da Lei Estadual n. 13.120/2004, que define as obrigações de pequeno valor a que alude o § 3° do art. 100 da Constituição Federal, alterado pela Lei n. 15.945/2013, estipula o limite de 10 (dez) salários mínimos para as obrigações de pequeno valor, in verbis:
+    Art. 1º Fica definido o limite de 10 (dez) salários-mínimos para as obrigações de pequeno valor a que alude o § 3º do art. 100 da Constituição Federal, com redação introduzida elas Emendas Constitucionais nº 30, de 13 de setembro de 2000, nº 37, de 12 de junho de 2002, e nº 62, de 09 de dezembro de 2009. (Redação do caput alterada pela Lei 15.945/13).
+    Parágrafo único. Se o valor da execução ultrapassar o estabelecido neste artigo, o pagamento será feito sempre por meio de precatório, sendo facultada à parte exeqüente a renúncia ao crédito do valor excedente, para que possa optar pelo pagamento do saldo sem precatório, na forma prevista no § 3° do art. 100 da Constituição Federal.
+    Embora seja admissível o prosseguimento da execução em relação à parte incontroversa, não é possível o fracionamento do crédito executado, para que parte seja paga por meio de RPV e outra por precatório, sob pena de afronta ao art. 100, § 8°, da Constituição Federal, segundo a qual:
+    Art. 100. Os pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e Municipais, em virtude de sentença judiciária, far-se-ão exclusivamente na ordem cronológica de apresentação dos precatórios e à conta dos créditos respectivos, proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para este fim.
+    (…).
+    § 3° O disposto no caput deste artigo relativamente à expedição de precatórios não se aplica aos pagamentos de obrigações definidas em leis como de pequeno valor que as Fazendas referidas devam fazer em virtude de sentença judicial transitada em julgado.
+    (…).
+    § 8° É vedada a expedição de precatórios complementares ou suplementares de valor pago, bem como o fracionamento, repartição ou quebra do valor da execução para fins de enquadramento de parcela do total ao que dispõe o § 3° deste artigo.
+    Dessa forma, no caso, a expedição de RPV para o valor incontroverso, mesmo que não supere o teto legal estipulado, configura indevido fracionamento do crédito, porque a sistemática de pagamento, por RPV ou precatório, deve ser definida com base no valor total da execução.”
+    Verifica-se, portanto, que o julgamento do Tribunal de origem está em consonância com o entendimento desta Corte, uma vez que o fracionamento da execução para pagamento de parcela incontroversa não possibilita a alteração do regime de pagamento, o qual é definido pelo valor total da obrigação.
+    Ressalte-se, ainda, mesmo que assim não fosse, eventual divergência em relação ao entendimento adotado pelo juízo a quo, no sentido do não enquadramento do caso nas hipóteses que autorizam o pagamento pela RPV, demandaria o reexame de fatos e provas constantes dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ante o exposto, nego provimento ao recurso extraordinário, nos termos do art. 932, IV, “a” e “b”, do CPC.
+    Publique-se.
+    Brasília, 15 de junho de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
