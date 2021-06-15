@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por RENAN GABRIEL COELHOcontra decisão que negou seguimento a recurso especial interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (e-STJ, fl. 1.360):
+AGRAVO DE INSTRUMENTO. DESPESAS CONDOMINIAIS. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. EFEITO SUSPENSIVO. PRECLUSÃO TEMPORAL. AUSÊNCIA REQUERIMENTO NO MOMENTO OPORTUNO E GARANTIA DO JUÍZO. ARTIGO 525, §6.º, DO CÓDIGO DE PROCESSO CIVIL. RECURSO NÃO PROVIDO
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, o recorrenteaponta violação doart. 525, §§ 1º, 6º e 11, do Código de Processo Civil de 2015, sob o fundamento de que énecessária aatribuição do efeito suspensivo à impugnação.
+Sustenta que foi comprovado o excesso de execução e quenão era possível a apresentação do valor que entedia devido em virtude da ausência de alguns dos boletos com os débitos condominiais.
+Alega que o juízo está garantido com a penhora do imóvel, tendo sido cumprido o requisito do art. 525, §6º, do CPC/2015.
+Afirma que a ausência de apresentação dos boletos dos débitos condominiais e, portanto, a impossibilidade de realização dos cálculos corretos, é fato superveniente a atrair a incidência do art.525, § 11, do CPC/2015.
+Aduz a negativa de vigência dos arts. 141 e 1.013 do CPC/2015 porque a decisão agravada se referia ao risco de expropriação dos bens e ao decidir pela intempestividade do requerimento de efeito suspensivo, o Tribunal de origem julgou o recurso além dos limites do pedido do recurso.
+Contrarrazões apresentadas.
+O recurso não foi admitido em virtude da incidência daSúmula 211 do STJ, no que se refere à violação do art.525, § 6º, do CPC/2015, e àimpossibilidade de reexame do conjunto fático-probatório no que se refere à violação dos art. 525, § 1º e 11, do CPC/2015.
+Nas razões deste agravo, o agravante afirmou a existência do prequestionamento dos artigos tidos por violados e a não incidência da Súmula 7 do STJ porque não hánecessidade de reexame do conjunto fático-probatório dos autos.
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que o recurso especial não merece ser conhecido, senão vejamos.
+A controvérsia dos autos se refere ao cumprimento dos requisitos para a oposição da impugnação ao cumprimento da sentença, sem a indicação do valor devido, em virtude da existência de fato superveniente, bem como a concessão ou não do efeito suspensivo.
+Sobre o tema, o Tribunal de origem consignou que (i) o pedido de concessão do efeito suspensivo nãofoi apresentado junto com a impugnação, ocorrendo a preclusão para a prática do ato; (ii) não há fato superveniente para justificar a incidência do§ 11do artigo 525 do CPC/2015; e (iii) o juízo não está garantido. Confira-se:
+O momento adequado para formular o requerimento de efeito suspensivo é com a apresentação da impugnação ao cumprimento de sentença, o que não foi observado pelo agravante.
+Isso porque, primeiramente apresentou a "impugnação ao cumprimento de sentença" no mov. 90.1 e, após o Magistrado singular ter deixado de atribuir o referido efeito, formulou tal requerimento (mov. 104.1), o que não importa na intempestividade da impugnação, mas sim quanto ao requerimento de atribuição do efeito suspensivo:
+ ..
+Observa-se que a exceção prevista no § 11, do artigo 525 do Código de Processo Civil não se aplica ao caso presente, uma vez que o "requerimento" deveria ter sido formulado na petição de impugnação pois não se trata de "fato superveniente".
+A decisão recorrida, que indeferiu a atribuição do efeito suspensivo à impugnação foi proferida em 15/06/2018 (mov. 108.1) e a interposição do recurso se deu no dia 10/07/2018. Portanto, tempestiva a impugnação, mas intempestivo o pedido de atribuição de efeitosuspensivo pois a decisão que recebeu a impugnação foi proferida em 27/03/2018 (mov. 99.1). Ou seja, ocorreu a preclusão temporal para a prática do ato.
+ ..
+Ainda que não fosse assim, o juízo não está garantido pela penhora, pressuposto para não preenchido para a concessão do efeito pretendido, nos termos do artigo supra citado  ..
+A jurisprudência desta Corte está consolidada no sentido de queé indispensável apontar, na petição de impugnação ao cumprimento de sentença, a parcela incontroversa do débito, bem como as incorreções encontradas nos cálculos do credor, sob pena de rejeição liminar da petição, não se admitindo emenda à inicial.
+Nesse sentido, confiram-se o precedente da Corte Especial do STJ:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. PROCESSUAL CIVIL.BRASIL TELECOM S/A. CONTRATO DE PARTICIPAÇÃO FINANCEIRA.COMPLEMENTAÇÃO DE AÇÕES. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA.ILIQUIDEZ DO TÍTULO. MATÉRIA PRECLUSA. EXCESSO DE EXECUÇÃO.INDEFERIMENTO LIMINAR. CABIMENTO. ART. 475-L, § 2º, DO CPC MULTA DO ART. 475-J DO CPC. ÓBICE DA SÚMULA 283/STF.
+1. Para fins do art. 543-C do CPC: "Na hipótese do art. 475-L, § 2º, do CPC, é indispensável apontar, na petição de impugnação ao cumprimento de sentença, a parcela incontroversa do débito, bem como as incorreções encontradas nos cálculos do credor, sob pena de rejeição liminar da petição, não se admitindo emenda à inicial".
+2. Caso concreto: 2.1. Impossibilidade de se reiterar, em impugnação ao cumprimento de sentença, matéria já preclusa no curso da execução. Precedentes.2.2. "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles" (Súmula 283/STF).2.3. Aplicação da tese firmada no item 1, supra, ao caso concreto.2.4. Inviabilidade de revisão de honorários advocatícios em sede de recurso especial, em razão do óbice na súmula 7/STJ, que somente pode ser afastado quando exorbitante ou irrisório o valor arbitrado, o que não ocorre na espécie.
+3. RECURSO ESPECIAL CONHECIDO, EM PARTE, E DESPROVIDO.
+(REsp 1387248/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, CORTE ESPECIAL, julgado em 07/05/2014, DJe 19/05/2014)
+O acórdão proferido pelo Tribunal de origem está, portanto, em consonância com o entendimento firmado nesta Corte o que atrai o óbice da Súmula 568 do STJ quanto ao ponto.
+Ademais,o Tribunal de origem solucionou toda a controvérsia à luz das provas presentes nos autos, concluindopela inexistência de fato superveniente à possibilitar a apresentação do valor devido após a oposição da impugnação e a ausência de garantia do juízo, de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do contrato e do conjunto fático-probatório dos autos, providência que esbarra no óbice daSúmula7 do STJ.
+A tese de negativa de vigência dos arts. 141 e 1.013 do CPC/2015 porque houve julgamento fora dos limites da lide, não foi tratada no acórdão recorrido e, portanto,não há como ser analisada nessa fase recursal em virtude da falta de prequestionamento, atraindo, quanto ao tema, o óbice da Súmula 282 do STF, por analogia.
+Em face do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
