@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. PROCURAÇÃO. FALSIDADE. RECONHECIMENTO. RELAÇÃO JURÍDICA COMERCIAL. INEFICÁCIA. AUSÊNCIA DE PODERES DE REPRESENTAÇÃO. DESÍDIA. ART. 662, DO CÓDIGO CIVIL. APLICABILIDADE. TEORIA APARÊNCIA. REQUISITOS. AUSÊNCIA. HONORÁRIOS RECURSAIS. FIXAÇÃO. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Em sendo incontroverso o fato de que foi utilizada procuração falsa para a compra e venda de produtos, a declaração de ineficácia do negócio jurídico é medida que se impõe.
+2. Para a aplicação da teoria da aparência, necessário se faz a efetiva comprovação dos requisitos que permitam concluir que a parte foi induzida em erro quanto a pessoa ou o objeto do contrato.
+3. Recurso conhecido e não provido.
+Opostos embargos de declaração, esses foram rejeitados.
+No recurso especial, a recorrente aponta violação aos artigos 411 e 1.022, inciso II, do Código de Processo Civil; 422 e 1.015 do Código Civil; 7º, inciso IV, da Lei 8.935/94, justificando, para tanto que o negócio jurídico entabulado pelas partes é válido pois admitiu a procuração com firma reconhecida ao sócio da empresa antes da celebração do contrato.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido na origem.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil/2015, conforme Enunciado Administrativo 3/2016 desta Corte.
+O recurso não merece prosperar.
+No que se refere à apontada violação aos arts. 489 e 1.022do CPC/2015, não observo omissão, contradição ou obscuridade no acórdão, senão julgamento contrário aos interesses dos recorrentes, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência. Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento.
+Para tanto, basta o pronunciamento fundamentado acerca dos fatos controvertidos, o que se observa no presente caso, em que os motivos tanto do acórdão recorrido, quanto do que julgou os embargos de declaração, encontram-se objetivamente fixados nas razões do acórdão recorrido. Nesse sentido: EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/8/2016.
+Ao solucionar a controvérsia, o Tribunal de origemassim dispôs:
+No caso dos autos, restou inconteste o fato de que a procuração utilizada para a realização do negócio jurídico objetado é falsa, não exprimindo, por óbvio, a vontade da apelada, ou seja, o negócio realizado foi perpetrado por procurador sem poderes para tanto.
+Além disso, não consta que houve ratificação expressa pela suposta outorgante. Importante ressaltar, que a falsidade do referido documento foi objeto de perícia, em virtude do incidente de falsidade arguido nos autos  .. . Sendo irrefragável a falsidade perpetrada, não há como se reconhecer a validade da compra e venda dela decorrente, porquanto é fruto de tal instrumento de mandato, não havendo qualquer reparo a se fazer no decisum de origem.
+Ademais, vale lembra que a nulidade do negócio jurídico implica no retorno da situação ao status quo ante, com as consequências de direito, tendo em conta o efeito ex tunc desta declaração.  .. .
+Para a aplicação da teoria da aparência, necessário se faz a efetiva comprovação dos requisitos que permitam concluir que a parte foi induzida em erro quanto a pessoa ou o objeto do contrato, o que não se configurou no caso.
+Ao contrário, o que se pode concluir é que a apelante não se cercou de todas as medidas cabíveis para realização do negócio. Evidente sua desídia na condução do negócio, pois sequer verificou a autenticidade do instrumento de procuração que lhe foi apresentado.  .. . No caso, apesar da apelante alegar a necessidade de aplicação tal princípio, não restou comprovada qualquer conduta por parte da apelada que dele se distanciasse. Ao contrário, restou claro que os negócios foram realizados em seu nome por pessoa completamente desautorizada para tanto.
+Vale dizer, ainda, que também nada veio aos autos que comprovasse a efetiva entrega dos produtos no estabelecimento da apelada. Ademais, importante salientar que no ordenamento jurídico pátrio vige o princípio que veda o venire contra factum proprium (comportamento contraditório da parte).
+Como se vê, o acórdão recorrido manteve a invalidade do negócio jurídico firmado entre as partes, e afastou a aplicação da teoria da aparência no caso concreto à luz do conjunto fático-probatório dos autos, de sorte que para modificá-lo, conforme as pretensões e teses desenvolvidas no recurso especial, seria necessário revisitar tal arcabouço, o que é vedado em sede de recurso especial, em razão do óbice erigido pela Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
