@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. DILIGÊNCIAS PROTELATÓRIAS INDEFERIDAS EM PRIMEIRO GRAU. ILEGALIDADE. NÃO OCORRÊNCIA. ALEGAÇÃO DE INEXISTÊNCIA DE DOLO. REEXAME DE PROVAS. INVIABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante entendimento pacificado nesta Corte, pode o magistrado indeferir a produção da prova ou diligência que entender desnecessária protelatória, nos termos da legislação de regência, à luz do princípio do livre convencimento motivado.
+2. É inviável a análise do pleito absolutório baseado na ausência de comprovação das elementares do delito, porquanto imprescindível o reexame do material cognitivo, situação obstada pela incidência da Súmula n. 7 do STJ.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ANELISE GROFF ALMEIDA interpõe agravo regimental contra a decisão de fls. 1.579-1.581, que negou provimento ao agravo em recurso especial.
+Em suas razões, a defesa, com o objetivo de ver provido este recurso, reitera que as diligências requeridas em primeiro grau (acesso a determinados documentos), longe de serem protelatórias, eram imprescindíveis para demonstrar a improcedência da acusação e, por consequência, a inocência da ré.
+Assinala, ainda, que as provas amealhadas não comprovariam a ocorrência do crime de estelionato, na medida em que não demonstrariam o dolo, "no sentido de obter vantagem ilícita mediante indução em erro dos administradores da empresa" (1.612-1.613).
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. DILIGÊNCIAS PROTELATÓRIAS INDEFERIDAS EM PRIMEIRO GRAU. ILEGALIDADE. NÃO OCORRÊNCIA. ALEGAÇÃO DE INEXISTÊNCIA DE DOLO. REEXAME DE PROVAS. INVIABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante entendimento pacificado nesta Corte, pode o magistrado indeferir a produção da prova ou diligência que entender desnecessária protelatória, nos termos da legislação de regência, à luz do princípio do livre convencimento motivado.
+2. É inviável a análise do pleito absolutório baseado na ausência de comprovação das elementares do delito, porquanto imprescindível o reexame do material cognitivo, situação obstada pela incidência da Súmula n. 7 do STJ.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos externados pela insurgente, a decisão impugnada deve ser mantida pelos seus próprios fundamentos, nestes termos (fls. 1.579-1.581, destaques no original):
+ANELISE GROFF ALMEIDA, condenada por estelionato, agrava de decisão que inadmitiu o processamento do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, que deu parcial provimento à apelação defensiva.
+Em suas razões, afirma a insurgente que, diversamente do consignado na decisão impugnada, o exame do caso prescinde do reexame de provas, mas apenas de sua revaloração. Assinala, ainda, que não se aplica, na hipótese, a Súmula n. 83 do STJ e que a pretensão esboçada no especial é de reconhecimento da violação dos arts. 189, 234, 396-A e 400, § 1º, todos do CPP, bem como do art. 171 do CP, haja vista o cerceamento de defesa na produção de provas e a necessidade de absolvição pela ausência de demonstração dos elementos constitutivos do tipo.
+Contrarrazoado o agravo, foram os autos ao Ministério Público Federal, que se manifestou pelo seu não conhecimento ou, caso conhecido, pelo não provimento do recurso especial (fls. 1.574-1.577).
+Decido.
+A decisão que inadmitiu o processamento do especial não merece reparos. O acórdão recorrido, em relação ao aventado cerceamento de defesa, assinalou o seguinte (fls. 1.246-1.247):
+Em sede de defesa preliminar (mov. 42.1) a ré formulou uma longa lista de requerimentos relativos à documentos das empresas Cooperativa Dental Uni  Cooperativa Odontológica, ALELO e SODEXO. O juízo a quo em determinou que a defesa justificasse a pertinência lógica do pedido no prazo de cinco dias sob pena de preclusão (mov. 56.1). A denunciada manifestou-se (mov. 60.1) reiterando o pedido e justificando que os documentos são de extrema relevância para a elucidação dos fatos. Em nova decisão (mov. 62.1) a magistrada de primeiro grau negou provimento aos pedidos formulados fundamentando sua decisão da seguinte forma:
+ ..  Cumpre salientar que não houve o indeferimento de nenhuma testemunha arrolada pela parte ré, bem como que as listas de recarga dos cartões correspondentes ao tempo descrito na denúncia já haviam sido acostadas aos autos (mov. 4.9 a 4.11).
+Outrossim, a magistrada deferiu o pedido para que a empresa vítima, Dental Uni  Cooperativa Odontológica, juntasse os cartões ponto da ré.
+Dessa forma, resta claro que uma nova diligência para a produção de mais provas surtiria apenas um efeito protelatório no feito, haja vista que, na audiência de instrução, seria possível fazer o cotejo das provas documentais já acostadas nos autos à época com o depoimento das testemunhas arroladas pela acusação e pela defesa, como de fato ocorreu.
+Como se observa, o pedido de diligência formulado pela defesa foi considerado desnecessário, isto é, de cunho protelatório, circunstância que justificou seu indeferimento. Segundo a orientação desta Corte, "pode o julgador indeferir a produção da prova ou diligência, fundamentadamente, quando entender irrelevante, impertinente ou protelatória, nos termos do que dispõe o art. 400, § 1º, do Código de Processo Penal, à luz do princípio do livre convencimento motivado" (AgRg no AREsp n. 1.780.803/PB, Rel. Ministro Nefi Cordeiro, DJe 2/3/2021). É o caso, portanto, de incidência da Súmula n. 83 do STJ.
+No que tange ao pleito absolutório, em razão da ausência de comprovação das elementares do delito, verifico que é necessário o reexame do material cognitivo, situação obstada pela incidência da Súmula n. 7 do STJ, sobretudo diante da conclusão do acórdão de que " a s provas dos autos são robustas e militam contra a ré" (fl. 1.260).
+À vista do exposto, com fundamento no art. 34, XVIII, "b", do RISTJ, nego provimento ao agravo em recurso especial.
+Deveras, a diligência requerida foi considerada desnecessária e, portanto, justificada seu não deferimento. Segundo o entendimento deste Superior Tribunal, em casos tais, "a diligência foi considerada impertinente de forma motivada, razão pela qual indeferida. Para se entender de modo diverso, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do STJ" (AgRg no AREsp n. 1363411/ES, Rel. Ministro Joel Ilan Paciornik, DJe 21/10/2019).
+Além disso, como destacou o decisum, é inviável a análise do pleito absolutório baseado na ausência de comprovação das elementares do delito, porquanto imprescindível o reexame do material cognitivo, situação obstada pela incidência da Súmula n. 7 do STJ.
+À vista do exposto, nego provimento ao agravo regimental.
