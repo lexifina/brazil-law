@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SERVIDOR PÚBLICO. GUARDA CIVIL MUNICIPAL. PRIMEIRO APELO. INADMISSIBILIDADE. INTEMPESTIVO. SEGUNDO APELO. HORAS EXTRAS. BASE DE CÁLCULO. REMUNERAÇÃO TOTAL DO SERVIDOR. SÚMULA VINCULANTE N. 16/STF. GRATIFICAÇÃO POR REGIME ESPECIAL DE TRABALHO DE GUARDA MUNICIPAL. CUMULAÇÃO COM DEMAIS VERBAS CONSTITUCIONAIS VEDADA. DISPOSITIVO INCONSTITUCIONAL. GRATIFICAÇÃO POR FORMAÇÃO EDUCACIONAL. DEVIDA. HONORÁRIOS RECURSAIS.
+    1. As intimações publicadas durante a suspensão dos prazos, em razão da pandemia pelo COVID-19, são regulares e válidas, visto que suspende-se apenas a prática de atos dos procuradores das partes, e não os atos do Poder Judiciário, motivo pelo qual inicia-se o prazo processual no primeiro dia útil após o fim do sobrestamento, in casu, dia 04 de maio de 2020 (segunda-feira).
+    2. Interposto o recurso fora do prazo legal, o seu não conhecimento é a medida que se impõe. Primeiro apelo não conhecido.
+    3. A base de cálculo para o pagamento das horas extras é o valor da remuneração totalpercebida pelo servidor, ou seja, o salário-base acrescido das parcelas de natureza salarial. Inteligência da súmula vinculante n. 16/STF.
+    4. Em controle difuso de constitucionalidade, tem-se por inconstitucional o art. 3º, caput, da lei municipal n. 2.104/18, restando possível a cumulação da gratificação proveniente do Regime Especial de Trabalho de Guarda Municipal (RETGM) com as demais verbas previstas constitucionalmente.
+    5. Em relação à gratificação por formação educacional, seja o curso superior cursado de forma presencial ou à distância, com ou sem correlação com o cargo desempenhado pelo servidor público, considerado ou não de graduação, faz jus o servidor que concluiu curso escolar de nível superior ao exigido para provimento do cargo efetivo, devidamente registado pelo Ministério da Educação.
+    6. Primeiro apelo não conhecido e segundo apelo desprovido, com majoração de honorários (art. 85, § 11 do CPC/15).
+    PRIMEIRA APELAÇÃO CÍVEL NÃO CONHECIDA. SEGUNDA APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA”.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 18; 29; 34, inciso VII, alínea "c" e 37, inciso XIV, da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 280 desta Corte. Sobre o tema, a propósito:
+    “RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL. A apreciação do recurso extraordinário faz-se considerada a Constituição Federal, não cabendo interpretar normas locais visando concluir pelo enquadramento no inciso III do artigo 102 da Lei Maior”. (RE 597.603-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 19/02/2020).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. PRESCRIÇÃO. DECRETO 20.910/1932. LEI DISTRITAL 7.515/1986. LEI LOCAL. SÚMULA 280. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Nos termos da orientação sedimentada na súmula 280 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação infraconstitucional pertinente à matéria em discussão. 2. Agravo Regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC. Mantida a decisão agravada quanto aos honorários advocatícios, eis que já majorados nos limites do art. 85, §§ 2º e 3º, do CPC”. (ARE 1.127.544 AgR, Segunda Turma, Rel. Min. Edson Fachin, Segunda Turma, DJe de 27/02/2020)
+    Ademais, o Supremo Tribunal Federal, examinando o Recurso Extraordinário nº 728428 segundo a sistemática da repercussão geral (Tema nº 654), decidiu que: não há repercussão geral (questão infraconstitucional) - Trânsito em Julgado em 06/06/2013.
+    Ex positis, no ponto relativo ao enquadramento, determino a devolução dos autos à Corte de origem para que adote, conforme a situação do(s) referido(s) tema(s) de repercussão geral, os procedimentos previstos nos incisos I a III do artigo 1.030 do Código de Processo Civil (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal) e, quanto ao mais, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de junho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
