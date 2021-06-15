@@ -1,0 +1,19 @@
+Decisão: Trata-se de habeas corpus impetrado contra acórdão proferido no âmbito do Superior Tribunal de Justiça (HC 669.409/SP), assim ementado (eDOC 4):
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA. TRÁFICO ILÍCITO DE ENTORPECENTES. APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006 EM FRAÇÃO INTERMEDIÁRIA. QUANTIDADE E NATUREZA ESPECIALMENTE DELETÉRIA DAS DROGAS APREENDIDAS. QUANTUM PROPORCIONAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. A quantidade e a natureza dos entorpecentes constituem fatores que, de acordo com o art. 42 da Lei 11.343/2006, são preponderantes para a fixação das penas no tráfico ilícito de entorpecentes.
+    2. No caso, a aplicação da minorante prevista no § 4º do art. 33 da Lei 11.343/2006 em 1/3 foi justificado pela quantidade e natureza especialmente deletéria das drogas apreendidas – 146,5g de maconha, 30,4g de cocaína e 17,1g de crack –, revelando-se razoável e proporcional. Precedentes.
+    3. Mantido o desvalor da quantidade e natureza das drogas apreendidas, persiste o fundamento utilizado para fixar o regime inicial semiaberto e negar a substituição da pena.
+    4. Agravo regimental não provido.
+    Narra o impetrante que: a) as pacientes foram condenadas pela prática do delito previsto no art. 33, caput, da Lei 11.343/2006, às penas de 5 (cinco) anos de reclusão e 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão, ambas no regime inicial fechado, mantida a condenação em sede de apelação; b) no STJ, a ordem foi concedida parcialmente para reduzir a pena de Emily para 3 (três) anos e 4 (quatro) meses de reclusão, no regime inicial semiaberto; c) a paciente Vanusa tem “retardo mental leve a moderado, de origem congênita, transtorno de personalidade com instabilidade emocional desde a adolescência, com consequente distúrbio de comportamento piorado pela dependência de drogas” e, no momento dos fatos, estava sob forte e perceptível efeito de entorpecentes, não sendo capaz de realizar o delito em questão; d) o reconhecimento simultâneo da reincidência e dos maus antecedentes configura bis in idem; e) deve ser aplicada a confissão das pacientes na dosimetria da pena; f) a quantidade de droga apreendida não justifica nem a fixação da fração aplicada na terceira fase, nem o regime prisional eleito.
+    À vista do exposto, pugna-se pela absolvição da paciente Vanusa ou a desclassificação de sua conduta para o tipo do art. 37 da Lei 11.343/2006; a fixação do redutor na fração máxima, com relação à paciente Emily, bem como a imposição do regime aberto; a aplicação da confissão na dosimetria para ambas as pacientes.
+    É o relatório. Decido.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante na decisão atacada a justificar a concessão da liminar.
+    Outrossim, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirmou.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual indefiro a liminar.
+    Abra-se vista à PGR.
+    Publique-se. Intime-se.
+    Brasília, 15 de junho de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
