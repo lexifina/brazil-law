@@ -1,0 +1,4 @@
+DECISÃO
+Por meio da petição de fls. 604-606, Lóreal Brasil Comercial de CosméticosLTDA. desiste e renuncia às alegações de direito discutidas no presente feito, em virtude de ter efetuado o pagamento à vista do crédito tributário sub judice, inscrito na dívida ativa do Estado do Rio de Janeiro sob o n.º 2011/027.905-4, na forma prevista nos artigos 1º, caput, e 3º, inciso I, da Lei Complementar Estadual n.º 189/2020 1 e na respectiva legislação regulamentar, qual seja, no Decreto Estadual n.º 47.488/2021 e na Resolução PGE n.º 4.671/2021..
+Tendo em vista que a petição foi subscrita por advogado com poderes para tal finalidade (fl. 36), homologo o pedido de renúncia à pretensão e, com fundamento nos arts, 487, III, c, do CPC/2015 e 34, IX, do RISTJ, julgo extinto o feito com resolução de mérito.
+Publique-se. Intimem-se.
