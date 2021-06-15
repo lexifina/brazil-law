@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de conflito negativo de competência instaurado entre o r. JUÍZO DE DIREITO DA 1.ª VARA CÍVEL DE LUZIÂNIA-GO, suscitante, e o r. JUÍZO DE DIREITO DA 2.ª VARA CÍVEL E EMPRESARIAL DE MARABÁ-PA, suscitado.
+Ação: Declaratória de Inexistência de Relação Jurídica c.c. Responsabilidade Civil, Indenização por Danos Morais e Tutela Antecipada movida por Josias Almeida dos Santos em face de Josias Santos Construção e Reforma e Outro.
+Decisão do juízo suscitado: declinou de sua competência para o juízo suscitante ao fundamento de "(..)que na ação em que for ré pessoa jurídica. será competente o foro do lugar onde está sua sede (Art. 53, III, "a", do CPC)." (fl. 27).
+Decisão do juízo suscitante: suscitou o conflito em análise, fundamentandoser inadmissível a declinação de competência territorial de ofício, nos termos da Súmula n.º 33/STJ(fls. 28-29).
+Parecer do Ministério Público Federal: pelo conhecimento do conflito e competência do r. juízo de Parauapebas-PA(fls. 172-176).
+É o relatório.
+Decide-se.
+1.Inicialmente, destaca-se a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. É firme a jurisprudência deste Tribunal, inclusive já sumulada (enunciado n.º 33/STJ), no sentido da impossibilidade de declaração ex officio da competência relativa, como a hipótese dos autos. Nesse sentido, confira-se: CC 37.149/RN, Rel. Ministro HÉLIO QUAGLIA BARBOSA, TERCEIRA SEÇÃO, julgado em 27/04/2005, DJ 09/05/2005; CC 151.824/SC, Rel. Min. Marco Aurélio Bellizze, DJe de 25/05/2017; CC 138.434/SP, Rel. Min. Paulo de Tarso Sanseverino, Dje de 07/08/2015.
+3.Com efeito, na esteira do parecer do Ministério Público Federal e do entendimento de que "o reconhecimento da competência de Juízo estranho ao conflito suscitado é perfeitamente possível ante a ausência de vedação legal, sendo procedimento adotado por esta Corte Superior em muitas oportunidades, garantindo-se, assim, a celeridade na tramitação do processo" (CC 120.556/CE, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 09/10/2013, DJe 17/10/2013), ressai a competência do Juízo de Direito da 2ª Vara Cível de Parauapebas-PA, domicílio do autor, onde já havia ajuizado ação idêntica, mas que foi extinta sem julgamento de mérito por ausência de recolhimento das custas (fls. 41-50 e 94-95), estando prevento, portanto, este Juízo.
+4. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ, conheço do presente conflito e, por conseguinte, declaro a competência do r. Juízo de Direito da 2ª Vara Cível de Parauapebas-PA.
+Publique-se. Intimem-se. Oficie-se.
