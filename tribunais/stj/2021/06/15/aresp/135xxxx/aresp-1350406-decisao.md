@@ -1,0 +1,29 @@
+DECISÃO
+TRIBUTÁRIO. FRAUDE À EXECUÇÃO. PRESUNÇÃO. AFASTAMENTO.O TRIBUNAL DE ORIGEM ATESTOU QUE, NO CASO,NÃO HÁ PROVA DE QUE O CRÉDITO ESTIVESSE INSCRITO EM DÍVIDAATIVA EM NOME DO ALIENANTE QUANDO HOUVE A DAÇÃO EMPAGAMENTO, DE MANEIRA QUE A PRESUNÇÃO DE FRAUDE DEVE SERAFASTADA. TAL ENTENDIMENTO ENCONTRA AMPARO NAJURISPRUDENCIA DESTA CORTE (EDCL NO ARESP 733.261/SP, REL.MIN.HUMBERTO MARTINS, DJE 23.9.2015) E SUA MODIFICAÇÃO NÃO DISPENSARIAO REVOLVIMENTO DE PROVAS, TAREFA DEFESA EM RESP. AGRAVO DAFAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento ao RecursoEspecial da FAZENDA NACIONAL, interposto com fulcro no art. 105, III, a, daConstituição Federal, contra acórdão proferido pelo egrégio Tribunal RegionalFederal da 4a. Região, assim ementado:
+TRIBUTÁRIO. FRAUDE À EXECUÇÃO. PRESUNÇÃO. PARTEPREVIAMENTE INSCRITA EM DÍVIDA ATIVA QUE REALIZA VENDA DEBEM. REDIRECIONAMENTO DA EXECUÇÃO. INCLUSÃO DO NOME DOREDIRECIONADO NA CDA. NÃO VERIFICAÇÃO. INAPLICABILIDADE DAPRESUNÇÃO.
+1. O Código Tributário Nacional, em seu artigo 185, presumefraudulenta a alienação ou oneração de bens ou rendas, ou seu começo, sehouver inscrição do crédito tributário tributário em dívida ativa em nome dapessoa que realizou a venda.
+2. Na hipótese, entretanto, de redirecionamento, em que não hajaa inclusão do nome do redirecionado na CDA, se este for a pessoa querealizou a venda do bem que constitui objeto dos embargos, não se aplicaa referida presunção.
+3. Provimento dos embargos de terceiros (fls. 426).
+2. Nas razões do Recurso Especial, a parte ora agravante apontaofensa ao art. 185 do CTN, sustentando que, no caso, a regulação acerca dapresunção de fraude está contida em tal dispositivo legal, sendo incontroversoque a transferência do bem ocorreu após a inscrição do crédito em dívida ativa,estando caracterizada a venda em fraude à execução, a partir do atendimentodos pressupostos exigidos pelo art. 185 do CTN.
+3. As contrarrazões foram apresentadas àsfls. 451/458.
+4. É o relatório.
+5. O inconformismo não merece acolhimento.
+6. O Tribunal de origem entendeu que, no caso, não há prova deque o crédito estivesse inscrito em dívida ativa em nome do alienante quandohouve a dação em pagamento, de maneira que a presunção de fraude deve serafastada (fls. 423). Confiram-se, a propósito, os seguintes arestos desta Corte:
+TRIBUTÁRIO. FRAUDE À EXECUÇÃO. ALIENAÇÃO DE BENSPOSTERIORMENTE AO DEFERIMENTO DO PEDIDO DEREDIRECIONAMENTO DA EXECUÇÃO AO SÓCIO-GERENTE.
+1. Hipótese em que o Tribunal de origem entendeu estarcaraterizada a fraude à execução, sob o fundamento de que, "para acaracterização da fraude à execução, na hipótese de a alienação dos bensse dar após a entrada em vigor da LC 118/2005, a notificação da pessoajurídica acerca da inscrição do crédito em dívida ativa estende seus efeitosao sócio redirecionado. Significa dizer, na segunda hipótese, que,notificada a empresa acerca da inscrição em dívida ativa, presume-secientificado o sócio redirecionado" (fl. 475, e-STJ).
+2. O Superior Tribunal de Justiça firmou entendimento deque não se considera fraude à execução, à luz do art. 185 do CTN,a alienação feita por sócio-gerente antes do redirecionamento daexecução, pois inconcebível considerá-lo devedor até aquelemomento. Precedente: EDcl no AREsp 733.261/SP, Rel. MinistroHumberto Martins, Segunda Turma, julgado em 15/09/2015, DJe23/09/2015.
+4. In casu, colhe-se dos autos que o redirecionamento aos sóciosgerentes ocorreu em 19.11.2012, e a alienação do bem em 14.4.2008; nãohá, portanto, falar presunção de fraude à execução prevista no art. 185 doCTN.
+5. Recurso Especial provido.
+(REsp 1692251/RS, Rel. Ministro HERMAN BENJAMIN,SEGUNDA TURMA, julgado em 12/12/2017, DJe 07/02/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOAGRAVO EM RECURSO ESPECIAL. ART. 535 DO CPC/73. VIOLAÇÃO.INEXISTÊNCIA. REDIRECIONAMENTO DA EXECUÇÃO FISCAL EM FACEDOS SÓCIOS. MODIFICAÇÃO DE PREMISSAS FÁTICAS.IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃOCOMPROVADO. AGRAVO IMPROVIDO.
+1. Inexiste omissão, obscuridade ou contradição do aresto. O fatode o Tribunal a quo ter decidido a lide de forma contrária à defendida pelaparte recorrente, elegendo fundamentos diversos daqueles por elapropostos, não configura omissão ou qualquer outra causa passível deexame mediante a oposição de embargos de declaração. Precedentes.
+2. Constatada a ausência do nome dos sócios na CDA -premissa que não se pode afastar ante o óbice da Súmula 7/STJ -, aconclusão a que chegou o Tribunal de origem, a de que o ônus daprova da prática de atos com dolo, fraude ou violação à lei fica acargo do exequente, encontra-se em consonância com ajurisprudência do Superior Tribunal de Justiça. Precedentes.
+3. A jurisprudência desta Corte é uníssona no sentido de que,para a demonstração do dissídio jurisprudencial, não basta a transcriçãode trechos da ementa e do voto paradigma, sendo necessária a indicaçãoclara das circunstâncias que identificam ou assemelham os casosconfrontados.
+4. Impossível o conhecimento do recurso especial interposto peladivergência jurisprudencial na hipótese em que o dissídio é apoiado emfatos e não na interpretação de lei federal, uma vez que o óbice da Súmula7/STJ também se aplica aos recursos especiais interpostos pela alínea "c"do permissivo constitucional.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 913.417/MT, Rel. Ministro OG FERNANDES,SEGUNDA TURMA, julgado em 10/11/2016, DJe 18/11/2016)
+7. Como visto, além de estar o entendimento do Tribunal de origemem consonância com o desta Corte, a modificação das conclusões assentadasno julgado não dispensaria nova incursão no acervo probatório da causa, tarefadefesa em Recurso Especial, ante o óbice da Súmula 07/STJ.
+8. Ante o exposto, nega-se provimento ao Agravo da FazendaNacional.
+9. Publique-se.
+10. Intimações necessárias.
