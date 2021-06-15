@@ -1,0 +1,57 @@
+DECISÃO
+Nos Autos n. 0001668-48.2021.8.26.0041, o Juízo de Direito do DEECRIM 1ª RAJ, ao apreciar o pedido de promoção ao regime aberto feito porEdson de Jesus Araujo, entendeu pela necessidade de realização de exame criminológico para análise do preenchimento do requisito subjetivo (fl. 14).
+Em face dessa decisão,impetrou-se o HC n. 2114838-87.2021.8.26.0000 no Tribunal de Justiça de São Paulo, tendo a ordem sido denegada.
+Daí estehabeas corpus, em que se pretende, inclusive em caráter liminar, a cassação do ato coator,determinando-se ao juízo de primeiro grau que analise o pleito progressional tão somente com os documentos já existentes nos autos(fl. 7). De forma subsidiária, caso o exame criminológico já tenha aportado aos autos principais, requer seja concedida a ordem em menor extensão tão somente para determinar ao juízo de piso que analise o pleito progressional desconsiderando suas conclusões (fl. 8).
+Sustenta-se, para tanto, que a decisão de piso é nula,porque foi tomada de ofício, sem pleito do MP, e,ainda, não houve oportunidade de a defesa se manifestar de maneira prévia - uma vez que a decisão foi tomada de surpresa, fato que viola a ampla defesa e o contraditório(fl. 4), e quea determinação de realização do exame, no presente caso, se deu tão somente pela gravidade em abstrato de delito e reincidência do sentenciado, fundamentação evidentemente inidônea(fl. 6).
+É o relatório.
+Da análise dos autos, verifico a existência de nítido constrangimento ilegal a ser sanado, o que autoriza a concessão da ordemin limine.
+O Juízo de piso, ao determinar a realização de exame criminológico para fins de verificação do preenchimento dorequisito subjetivo, adotou as seguintes razões (fls. 13/14 - grifo nosso):
+ ..
+Ante a peculiaridade do caso, em que pese o cumprimento do requisito objetivo necessário à obtenção do benefício, consoante cálculo de fls. 39/40, faz-se necessária uma análise mais profunda da personalidade do reeducando e de suas reais condições para ser beneficiado com a progressão de regime e retornar, ao convívio social.
+Isso porque o sentenciado é reincidente doloso, possuindo condenação pela prática de tentativa de furto qualificado durante o repouso noturno, bem como durante o estado de calamidade pública, o que demonstra personalidade voltada à prática delitiva.
+Com efeito, é absolutamente razoável, e por que não dizer recomendável, que, em casos tais, em razão da gravidade em concreto da conduta perpetrada e à vista dos demais elementos constantes dos autos, o magistrado tenha cautela e socorra-se de técnicos para auxiliá-lo na formação do seu convencimento sobre a conveniência da progressão do sentenciado para regime de cumprimento de pena mais brando.
+Convém destacar ainda que o regime aberto baseia-se na autodisciplina e senso de responsabilidade do condenado, o que torna ainda mais imprescindível a necessidade de um prognóstico minimamente favorável.
+E assim é que se decide tendo em vista a dicção da Súmula 439 do STJ. Neste sentido:
+ ..
+Assim, determino, excepcionalmente, em relação a EDSON DE JESUS ARAUJO, RG: 45402668, RJI: 170295002-22, Centro de Detenção Provisória de Pinheiros II, a realização de exame criminológico para análise do preenchimento do requisito subjetivo ou, em caso de impossibilidade, avaliação psicossocial, a ser realizada no próprio estabelecimento em que cumpre sua pena.
+ ..
+E o Tribunal a quo, mantendo a decisão primeva, disse o seguinte (fls. 20/23 - grifo nosso):
+ ..
+A denegação da ordem se impõe.
+Observa-se, de início, que a decisão combatida na impetração foi proferida após a manifestação das partes acerca da pretensão do paciente, de ver-se promovido para regime prisional mais brando, de modo a não se cogitar de violação ao devido processo legal.
+Quanto à questão de fundo, a determinação no sentido de que o ora paciente seja submetido a exame criminológico deve prevalecer.
+O atestado de comportamento carcerário emitido pela direção do presídio não é o único elemento a ser considerado para a aferição do mérito do sentenciado, sendo apenas um dos fatores a serem examinados pelo Juiz com essa finalidade e, consequentemente, para a verificação do preenchimento do requisito subjetivo legalmente exigido para a progressão prisional.
+A propósito:
+"1. De acordo com o art. 112 da LEP, o requisito subjetivo necessário à concessão de progressão prisional é aferido através de atestado de bom comportamento carcerário expedido pelo diretor do estabelecimento no qual o condenado cumpre sua sanção privativa de liberdade.
+2. No entanto, não é vedado ao magistrado o indeferimento do benefício quando, a despeito do reeducando apresentar atestado de bom comportamento carcerário, entender não implementado o requisito subjetivo, desde que aponte peculiaridades da situação fática que demonstrem a ausência de mérito do condenado."
+(Superior Tribunal de Justiça, AgRg no HC 391202/SP, Relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 20/06/2017, DJe 30/06/2017).
+No caso, o término da pena do paciente está previsto apenas para 05/10/2022 (fls. 7/8).
+E como foi consignado na decisão atacada (fls. 10/11), Edson é reincidente na prática de crime doloso, circunstância que faz recair dúvida sobre a sua capacidade de se adequar às regras do regime aberto, para o qual pretender ser promovido.
+Diante desse quadro, que aponta ser o paciente portador de uma personalidade desajustada, a determinação no sentido de que ele seja previamente avaliado por uma equipe técnica não se revela desarrazoada. Afinal, o regresso progressivo do sentenciado ao convívio social deve levar em conta fatores que não constam dos autos, como a avaliação da sua personalidade, suas tolerâncias e frustrações, graus de agressividade e impulsividade, mecanismos de contenção, crítica acerca do delito perpetrado, planos futuros, etc.
+É preciso considerar que, a rigor, a mera exibição de atestado de bom comportamento carcerário, em realidade, um dever de todo preso, é insuficiente para que se possa aferir se houve assimilação da terapêutica penal, com perfeita compreensão da gravidade do ilícito penal praticado, e verdadeira predisposição a uma mudança de comportamento quando do reingresso no meio social.
+A promoção do paciente para amodalidade prisional mais branda, sem que esses fatores sejam prévia e devidamente aferidos por meio de exame criminológico, seria temerária e representaria risco exacerbado para a sociedade, que também deve ser preservada, o que recomenda e justifica maior cautela no exame do pedido de benefício.
+Destarte, evidenciando-se, na hipótese concreta em exame, que o mérito do sentenciado não está demonstrado a contento, é forçoso concluir que a progressão prisional, sem prévia avaliação criminológica, seria prematura, o que justifica a manutenção da decisão combatida.
+Diante do exposto, denega-se a ordem.
+Como se vê, as instâncias ordinárias motivaram a exigência de realização do exame criminológicotão somente na circunstância de se tratar de apenado reincidente.
+Ocorre que, de acordo com a nossa jurisprudência, tal fundamentação não é suficiente para justificar a realização da perícia. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DEFERIMENTO PELO JUÍZO DAS EXECUÇÕES. CASSAÇÃO PELA CORTE DE ORIGEM. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA. PRECEDENTES.
+1. Na hipótese, o Tribunal a quo entendeu pela necessidade de realização de exame criminológico, em razão da reincidência do apenado, da gravidade abstrata do delito (roubo) e da longa pena a cumprir. Todavia, nos termos da jurisprudência desta Corte Superior, fundamentos abstratos e genéricos, como os apresentados pela Corte de origem, não justificam a exigência de exame criminológico, bem como a análise do preenchimento do requisito subjetivo somente poderá fundar-se em fatos praticados durante a execução penal.
+2. Agravo regimental improvido.
+(AgRg no HC n.590.322/SP, de minha relatoria, Sexta Turma, DJe 24/8/2020)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DETERMINAÇÃO DE EXAME CRIMINOLÓGICO BASEADA TÃO SOMENTE NA GRAVIDADE ABSTRATA DO DELITO, LONGA PENA A CUMPRIR E REINCIDÊNCIA. CONSTRANGIMENTO ILEGAL CONFIGURADO. JURISPRUDÊNCIA FIRMADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte Superior de Justiça pacificou entendimento no sentido de que fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento para a progressão de regime, de modo que a avaliação do cumprimento do requisito subjetivo somente poderá fundar-se em fatos ocorridos no curso da própria execução penal. Precedentes.
+2. No caso concreto, as instâncias ordinárias determinaram a realização de exame criminológico com fundamento apenas na gravidade dos crimes praticados, no tempo de pena ainda por cumprir e na reincidência do paciente, fatores que, por si sós, não justificam a realização do exame criminológico.
+Precedentes: HC 444.132/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/05/2018, DJe 30/05/2018; HC 436.653/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/03/2018, DJe 26/03/2018; AgRg no HC 590.322/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/08/2020, DJe 24/08/2020.
+3. Agravo regimental improvido.
+(AgRg no HC n. 628.977/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/2/2021)
+EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. PROGRESSÃO DE REGIME CONDICIONADA À REALIZAÇÃO DE EXAME CRIMINOLÓGICO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. GRAVIDADE ABSTRATA DO DELITO. REINCIDÊNCIA ESPECÍFICA. ELEMENTOS ESTRANHOS À EXECUÇÃO PENAL. SÚMULA 439/STJ. CONSTRANGIMENTO ILEGAL CARACTERIZADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado, a justificar a concessão da ordem, de ofício.
+2. De acordo com a Súmula 439/STJ: "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada". No caso dos autos, verifica-se que as instâncias ordinárias utilizaram-se de argumento inidôneo para determinar a realização de exame criminológico, baseando-se tão somente na gravidade em abstrata do delito, na reincidência específica e em considerações genéricas acerca da periculosidade do paciente.
+3. Habeas corpus não conhecido. Ordem concedida, de ofício, para cassar as decisões das instâncias ordinárias e determinar que o d.Juízo das Execuções prossiga no exame dos requisitos para a progressão de regime de cumprimento de pena, afastada a fundamentação anteriormente empregada.
+(HC n. 356.568/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 20/9/2016)
+Pelo exposto,concedo liminarmentea ordem para, cassando as decisões ora atacadas, determinar que o Juízo de Direito do DEECRIM 1ª RAJ reavalie o pleito de progressão de regime, abstendo-se de considerar a gravidade do crime praticado, a longa pena a cumprir e a reincidência do apenado.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO DA PENA. PROGRESSÃO DE REGIME. EXIGÊNCIA DE PRÉVIA REALIZAÇÃO DE EXAME CRIMINOLÓGICO EM RAZÃO DA REINCIDÊNCIA DO PACIENTE. FUNDAMENTOINIDÔNEO. PRECEDENTES. EVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem concedida liminarmente nos termos do dispositivo.
