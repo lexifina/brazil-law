@@ -1,0 +1,9 @@
+DECISÃO
+Neste recurso ordinário em habeas corpus, interposto por Allan Silvério dos Santos -preso em flagrante e denunciado pela suposta prática do crime de tráfico de drogas (Processo n. 1501016-86.2020.8.26.0559, em curso na 4ª Vara Criminal da comarca de São José do Rio Preto/SP) -, contra o acórdão denegatório exarado no julgamento do HC n.2180950-72.2020.8.26.0000 (Tribunal de Justiça de São Paulo),sob a alegação de falta de fundamentação idônea para a prisão cautelar, requer-se, inclusive em caráter liminar, a revogação da prisão preventiva.
+É o relatório.
+Sucede que o recurso está prejudicado, pois a questão atinente à prisão cautelar decretada nos autos da ação penal em referênciajá foi debatida no julgamento do HC n. 660.957/SP, no qual, na data de 29/4/2021, ratificando a liminar deferida naquele writ, concedi ordem de habeas corpus em favor do paciente, ora recorrente, para substituir a prisão preventiva por medidas cautelares, a serem implementadas pelo Juízo de origem, consistentes em:a) obrigação de comparecer em juízo sempre que intimado; e b) proibição de mudar de domicílio sem prévia autorização judicial, sem prejuízo da aplicação de outras cautelas pelo Juiz do processo ou de decretação da prisão preventiva em caso de descumprimento de qualquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto.
+Consequentemente, ante o exame da questão em outro feito, este recurso perdeu o seu objeto. Julgo-o, por conseguinte, prejudicado (arts. 38 da Lei n. 8.038/1990 e 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SUPOSTA INIDONEIDADE NA FUNDAMENTAÇÃO LANÇADA NA DECISÃO QUE CONVERTEU A PRISÃO EM FLAGRANTE EM PREVENTIVA. QUESTÃO JÁ DEBATIDA NO JULGAMENTO DO HC n. 660.957/SP. PREJUDICIALIDADE.
+Recurso julgado prejudicado.
