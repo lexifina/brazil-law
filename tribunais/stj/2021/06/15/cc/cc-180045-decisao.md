@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado pelo Juízo de Direito da 1.ª Vara da Fazenda Pública da Comarca de São José do Rio Preto/SP, em razão de decisão declinatória proferida pelo Juízo Federal da 4.ª Vara da Subseção Judiciária Federal de São José do Rio Preto/SP, nos autos da ação ordinária movida por Oziel Oliveira da Silva em desfavor da União.
+O Juízo federal suscitado justifica sua alegada incompetência por entender que o autor busca "benefício decorrente de acidente de trabalho" e "conversão de aposentadoria já concedida" (fl. 27), pelo que remeteu o feito à Justiça Estadual, deixando de suscitar o conflito de competência, ao fundamento de que "cabe exclusivamente à justiça Federal decidir sobre os assuntos de sua competência" (fl. 29).
+Recebendo os autos, o juízo suscitante também se deu por incompetente, firme em que "a competência estadual somente se justificaria em caso de acidente de trabalho no caso da ré ser o INSS. Ocorre que o policial militar rodoviário é regido pelo Estatuto dos Servidores públicos da União (Lei Federal 8.112/1990) e, portanto, a concessão de eventual auxílio por acidente de trabalho é da empregadora" (sic. fl. 31).
+Esta é a origem do presente incidente.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Porque presente a condição prevista no art. 66, II, do CPC, bem como satisfeita a exigência inserta no art. 954 do diploma processual com as peças apresentadas, conheço do presente conflito de competência.
+No mérito, por versar, como é o caso, de conflito em razão da matéria, deve a solução, segundo a compreensão deste STJ, partir da análise do pedido e da causa de pedir formulados na inicial.
+Nesse sentido:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. PROCESSUAL CIVIL.CONFLITO NEGATIVO ENTRE OS JUÍZOS FEDERAL E ESTADUAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INSTITUIÇÃO DE ENSINO PRIVADA.AUSÊNCIA DE INTERESSE DA UNIÃO A JUSTIFICAR A COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO INTERNO DO ESTADO DO PARANÁ DESPROVIDO.
+1. Em regra, o deslinde dos conflitos de competência entre Juízos em razão da matéria deve ser dirimido com a observância da relação jurídica controvertida, em especial no que se refere à causa de pedir e ao pedido indicados pelo autor da demanda. Precedentes: CC 117.722/BA, Rel. Min. CASTRO MEIRA, DJe 2.12.2011; CC 108.138/SC, Rel. Min. NANCY ANDRIGHI, DJe 6.9.2010; e AgRg no CC 104.283/RJ, Rel. Min. OG FERNANDES, DJe 24.2.2012.
+2.  ..
+3. Agravo Interno do ESTADO DO PARANÁ desprovido.
+(AgInt no CC 146.855/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, DJe 07/12/2018)
+Na hipótese que ora se examina, busca o autor, mediante ação declaratória,"após competente perícia com a especificação da doença, declarar que a patologia que o invalida decorreu das funções policiais, aposentando-o por doença funcional, com a integralidade de seus vencimentos e direitos" (fl. 19). O pedido é justificado com aalegaçãode se sentir definitivamente incapacitado para permanecer no exercício das atribuições do cargo de policial rodoviário federal, pelo que também "vem defendendo e requerendo administrativamente sua aposentadoria por doença funcional, de modo a aposentar-se com seu salário integral" (fl. 6) e ancora sua pretensão no art. 186 da Lei n. 8.1123/1990.
+Com efeito, à luz desse pedido e dessa causa de pedir, não deve remanescer dúvidas quanto à competência da Justiça Federal para o processamento e decisão da demanda. Nesse sentido, dentre outros, os seguintes acórdãos:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. AÇÃO PREVIDENCIÁRIA DE CONVERSÃO DE AUXÍLIO-DOENÇA EM APOSENTADORIA POR INVALIDEZ. NATUREZA PREVIDENCIÁRIA DO BENEFÍCIO.COMPETÊNCIA DA JUSTIÇA FEDERAL. JUÍZO SUSCITADO.
+1. Conflito Negativo de Competência instaurado entre o Juízo de Direito da 4ª Vara Cível de Cáceres/MT e o Juízo Federal do Juizado Especial Adjunto de Cáceres-SJ/MT, em ação previdenciária de conversão de auxílio-doença em aposentadoria por invalidez.
+2. No caso concreto, não se extrai da petição inicial qualquer alusão à ocorrência de acidente laboral que, como causa de pedir, estivesse a respaldar o pedido de aposentadoria por invalidez formulado pelo segurado ao INSS, cujo contexto desautoriza a tramitação da lide perante a Justiça Estadual.
+3. A Primeira Seção do STJ, no julgamento do CC 140.943/SP, Rel.
+Min. Mauro Campbell Marques, DJe 16.2.2017, firmou o entendimento de que "o acidente sofrido por trabalhador classificado pela lei previdenciária como segurado contribuinte individual, por expressa determinação legal, não configura acidente do trabalho, não ensejando, portanto, a concessão de benefício acidentário, apenas previdenciário, sob a jurisdição da Justiça Federal".
+4. Conflito de Competência conhecido para declarar competente para o processamento do feito o Juízo Federal do Juizado Especial Adjunto de Cáceres-SJ/MT, o suscitado.
+(CC 164.335/MT, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 27/03/2019, DJe 12/06/2019)
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. COMPETÊNCIA EM RAZÃO DA MATÉRIA DA JUSTIÇA FEDERAL DE ITAPERUNA/RJ.
+1. Consoante assentado pelo Superior Tribunal de Justiça, com fulcro no art. 105, I, "d", da CF, merece conhecimento este Conflito, uma vez que ambos os Juízos, vinculados a Tribunais diversos, declararam-se incompetentes.
+2. A competência ratione materiae, em regra, é determinada em função da natureza jurídica da pretensão deduzida, sendo esta caracterizada pelo pedido e pela causa de pedir. Na hipótese em exame, o interessado postulou a concessão de beneficio previdenciário sem referência a acidente de trabalho.
+3. No caso dos autos, conforme se extrai da Petição Inicial, o pedido da demanda é a concessão de benefício previdenciário por invalidez, tendo como causa de pedir o seu estado de saúde. Logo, a competência para processar e julgar a presente demanda é da Justiça Federal.
+4. Conflito de Competência conhecido a fim de declarar competente para processar o feito a Justiça Federal de Itaperuna/RJ.
+(CC 158.104/RJ, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 20/11/2018)
+ANTE O EXPOSTO, e amparado peloart. 955, parágrafo único, do CPC, bem como pelaSúmula 568 do STJ, decido, de plano, o presente conflito para declarar competente o Juízo Federal da 4.ª Vara da Subseção Judiciária Federal de São José do Rio Preto/SP,o suscitado, para que, afastada a preliminar de incompetência, prossiga no julgamento da ação, decidindo-a como entender de direito.
+Dê-se ciência desta decisão aos Juízos envolvidos.
+Publique-se.
