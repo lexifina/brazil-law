@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. DUPLO JUÍZO NEGATIVO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. RETROATIVIDADE NA CONTAGEM DO PRAZO. INTERPOSIÇÃO DE AGRAVO EM RECURSO EXTRAORDINÁRIO AINDA PENDENTE DE JULGAMENTO. NECESSIDADE DE SE AGUARDAR O DESFECHO A SER DADO PELO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na esteira da jurisprudência desta Corte, ficou assentado que o trânsito em julgado, nos casos em que o recurso especial não é admitido, deve retroagir à data do último dia do prazo para interposição do recurso especial, o qual deve ser colmatado com a decisão a ser proferida pelo STF, na medida em que o embargante também interpôs agravo em recurso extraordinário, que pode ou não possuir semelhante efeito, a depender o julgamento a ser realizado pela Suprema Corte.
+2. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ALOÍSIO ALVES DA COSTA JÚNIOR interpõe agravo regimental contra as decisões de fls. 2.998-2.999, que rejeitou os segundos embargos de declaração opostos, os quais pretendiam o reconhecimento da prescrição da pretensão punitiva.
+Em suas razões, reitera a alegação de que o caso se encontra prescrito, na medida em que "o prazo prescricional entre a data do último dia do prazo para interposição do Recurso Especial e o julgamento do Agravo em Recurso Especial também foi superior a 08 (oito) anos" (fl. 3.003).
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. DUPLO JUÍZO NEGATIVO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. RETROATIVIDADE NA CONTAGEM DO PRAZO. INTERPOSIÇÃO DE AGRAVO EM RECURSO EXTRAORDINÁRIO AINDA PENDENTE DE JULGAMENTO. NECESSIDADE DE SE AGUARDAR O DESFECHO A SER DADO PELO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na esteira da jurisprudência desta Corte, ficou assentado que o trânsito em julgado, nos casos em que o recurso especial não é admitido, deve retroagir à data do último dia do prazo para interposição do recurso especial, o qual deve ser colmatado com a decisão a ser proferida pelo STF, na medida em que o embargante também interpôs agravo em recurso extraordinário, que pode ou não possuir semelhante efeito, a depender o julgamento a ser realizado pela Suprema Corte.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Ao rejeitar os primeiros embargos de declaração opostos pelo insurgente, consignei o seguinte (fls. 2.971-2.972):
+Os embargos não procedem. A decisão impugnada, ao contrário do aventado pelo embargante, não considerou o acórdão como marco interruptivo, tampouco a data de julgamento do agravo em recurso especial. Na esteira da jurisprudência desta Corte, ficou assentado que o trânsito em julgado, nos casos em que o recurso especial não é admitido, deve retroagir à data do último dia do prazo para interposição do recurso especial, nestes termos (fl. 2.937, destaquei):
+ ..  na verificação da prescrição da pretensão punitiva estatal, sendo a decisão que inadmite o recurso especial de natureza eminentemente declaratória (ex tunc), o trânsito em julgado retroagirá a data de escoamento do prazo para a interposição do recurso cabível" (EDcl nos EDcl no AgRg no AREsp n. 20.642/DF, Rel. Ministro Ribeiro Dantas, DJe 26/9/2018).
+Levando-se em conta o entendimento deste Tribunal, portanto, a interrupção do prazo prescricional deve retroagir ao término do lapso do último recurso cabível contra a decisão proferida na origem, de tal modo que, quanto ao réu Aloísio Alves da Costa Júnior, haveria sido interrompido em setembro de 2010 (o próprio recurso especial é de 5 de outubro de 2010 - fl. 2.292).
+Ante o exposto, à mingua de omissão ou contradição, rejeito os embargos.
+Depois, foram opostos novos embargos de declaração, os quais não tiveram melhor sorte, neste termos (fl. 2.998, destaquei):
+ ..
+Alega a defesa, em síntese, que se "houve interrupção em setembro de 2010 e o presente Agravo somente foi julgado no dia 05 de dezembro de 2018, transcorreram 08 (oito) anos e 02 (dois) meses desde o último marco interruptivo e a presente data, o que faz com que tenha ocorrido o lapso prescricional para declaração da extinção da pretensão punitiva estatal em virtude da prescrição" (fl. 2.980).
+Não há omissão no decisum embargado. Em relação ao prazo prescricional relativo à pretensão punitiva, assinalo que a retroatividade do marco interruptivo, operada pela inadmissão do recurso especial, deve ser colmatada com a decisão a ser proferida pelo STF, na medida em que o embargante também interpôs agravo em recurso extraordinário, o qual pode ou não possuir semelhante efeito, a depender o julgamento a ser realizado.
+Ante o exposto, rejeito os embargos de declaração.
+De fato, não bastasse a interrupção do prazo prescricional retroagir à data do último dia para interposição do recurso especial, o qual teve duplo juízo de inadmissibilidade, tal como consignado em ambas as decisões proferidas, não há como desconsiderar que houve a interposição do recurso extraordinário, o qual, a depender do juízo de prelibação a ser realizado pelo STF, também influenciará na contagem do referido prazo, conforme o entendimento a ser dado por aquela Corte.
+Desse modo, não há como antever, dentro do prazo existente entre a interposição do agravo em recurso especial, qual será o desfecho dado pelo STF ao recurso que lá se encontra em tramitação, cuja dependência afeta, inclusive, o início da contagem do prazo para execução penal.
+Diante disso, nego provimento ao agravo regimental.
