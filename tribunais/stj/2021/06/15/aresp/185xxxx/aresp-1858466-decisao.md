@@ -1,0 +1,78 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015), interposto por MARCOS AURÉLIO PRADO BRANDÃO, em face de decisão de inadmissibilidade de recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado (fl. 190, e-STJ):
+AGRAVO INTERNO EM RECURSO DE APELAÇÃO - AÇÃO DE BUSCA E APREENSÃO - DECRETO-LEI Nº 911/69 - PROCEDÊNCIA - DECISÃO FUNDAMENTADA - RECURSO DESPROVIDO - AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA - RECURSO DESPROVIDO.
+Encontrando-se a decisão devidamente fundamentada e não havendo nos autos elementos novos capazes de modificar o entendimento quanto ao desprovimento do recurso de apelação interposto pelo ora agravante contra a sentença de procedência da ação de Busca e Apreensão ajuizada pela parte recorrida, há que ser desprovido o agravo interno.-
+Nas razões do recurso especial (fls. 219-235, e-STJ), oinsurgente aponta, além de dissídio jurisprudencial, ofensa aos artigos 256, §3º, e 280do CPC/2015, afirmando ser nula a citação por edital, porquanto esta só seriacabível quando frustradas as demais tentativas de localização do devedor, o que não ocorreu, no caso, e ocasionou ocerceamento do direito de defesa.
+Contrarrazões às fls. 252-255, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 257-259, e-STJ), dando ensejo ao presente agravo (fls. 262-270, e-STJ), por meio do qual oinsurgente pretendea reforma da decisão impugnada e o processamento do apelo.
+Sem contraminuta (fl. 273, e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1.Quanto à alegada ofensa aos arts. 256, §3º, e 280 do CPC/2015, afirma o recorrente ser nula a citação por edital, na medida em que, em tal hipótese, só seriacabível referido procedimento citatório depois de esgotados todos os meios para a localização do executado.
+No ponto, destaca-se os seguintes trechos do acórdão recorrido(fls. 196-202, e-STJ):
+Como é cediço, a citação por edital constitui procedimento que se caracteriza por sua excepcionalidade, ou seja, não pode ser utilizado pela parte autora de modo corriqueiro, devido às graves consequências que podem advir de tal fato. O seu deferimento somente pode ocorrer quando estiverem preenchidos todos os requisitos legais atinentes à espécie - artigo 256 do CPC/15.
+No caso, verifica-se que se encontravam presentes os requisitos para a citação do requerido - MARCOS AURELIO PRADO BRANDAO via edital, uma vez que, da análise dos autos, extrai-se que os Oficiais de Justiça diligenciaram várias vezes no sentido de localizá-lo no endereço do contrato, bem como em outros indicados pelo autor, sendo todas infrutíferas, senão vejamos:
+"CERTIFICO que, em cumprimento ao respeitável mandado,  ..  dirigimos nos endereços declinados no mandado por várias vezes no bairro Jd Vitoria, Novo Paraíso I e II, Florianópolis, Dr. Fábio, Três Barras, 1º de Março, Umuarama, em seguida dirigimos em outros bairros como: Parques das Nações VG, JD. Dos Ipês VG, JD. Imperial VF, Florianópolis, Jardim Vitória, Dist. Industrial, Jardim dos Ipês, JD.Imperial, da Manga, JD. Glória I e II, Santa Marta, Cohab Cristo Rei, Cohab Jaime Campos, Ponte Nova, Jardim Curvo, Jardim União, Novo Milênio, e outros bairros fornecidos pela parte autora, e lá estando, não procedemos a CITAÇÃO do (a) requerido (a): MARCOS AURELIO PRADO BRANDAO, tendo em vista que, o veículo foi apreendido com a Sra. Josiane Maria de Oliveira na sua residência  .. . Cuiabá-MR, 20 (terça feita) de junho de 2017  .. . " (Sic. ID 54033094)
+"Certifico que, em 08/08/17 às 15:15h e em 11/08/17 às 14:30h, respectivamente, na Av. Fernando Correa da Costa, 1675, Bairro Jardim das Américas, Cuiabá-MT - Plaenge Empreendimento e na Av. Brasília, n.º 146, Bairro Jardim das Américas, Cidade: Cuiabá-MT - Vanguard Home (Shopping Três Américas), Cidade: Cuiabá-MT, NÃO FOI POSSÍVEL PROCEDER A BUSCA E APREENSÃO DO BEM INDICADO NA PETIÇÃO INICIAL E AOS DEMAIS ATOS, pois, o bem e a parte devedora não foram localizados nestes endereços. 2.Constato que, na Av. Fernando Correa, n.º 1675, há somente um terreno cercado com tapumes, neste não há obra e não possui escritório da Plaenge Empreendimentos (localizado antes da Concessionária da Volkswagen);e, no outro endereço, o qual é no Shopping Três Américas, a Sra.Marcilene, funcionária da administração, informou que a Vanguard Home não há neste shopping. Cuiabá/MT, 14 de agosto de 2017  .. ." (Sic. ID 54035455)
+Ato continuo, foi deferido o pedido autor de buscas do endereço do requerido perante ao INFOJUD, resultando este na zona rural de Campo Verde - MT, consoante se observa da consulta no ID 54035460, ou seja, endereço totalmente incerto.
+Portanto, constatado que requerido se encontravam em local incerto e não sabido, escorreito o deferimento da sua citação por edital, consoante regra do artigo 256 do CPC/15 (art. 231 CPC/73), razão pela qual não há falar em nulidade.
+(..)
+Ademais, de se destacar que não é possível a declaração de nulidade de um ato sem que a parte interessada demonstre a existência de prejuízo.
+(..)
+Na hipótese, a despeito do labor combativo da Douta curadora do requerido, certo é que não demonstrou em nenhum momento quais foram os prejuízos advindos da citação deste por edital.
+Aliás, o que se extrai é justamente o contrário, visto que, conforme se observa da contestação apresentada no ID nº 54035474, além de não negar a inadimplência do requerido, deixou claro que não constatou qualquer abusividade a macular o contrato em discussão, senão vejamos:
+" ..  Não se verifica qualquer vício no Contrato nº 4370930201, firmado entre as partes, uma vez que, a taxa de juros remuneratórios pactuada no título foi 2,02% ao mês, o que não demonstra abusividade, se comparada à taxa média de mercado ao mesmo período de 1,69% ao mês (conforme planilha de cálculo confeccionada pela contadora da Defensoria Pública), pois, apesar taxa contratada ser superior em 19% a taxa média para a modalidade, considerando o julgamento do AGRAVO EM RECURSO ESPECIAL Nº 1.035.698 - MG (2016 -0333226 -3) o contrato não apresenta abusividade, visto que as taxas de juros cobradas a maior não superam em 50% a taxa média, bem como, não sendo conhecidos os valores de pagamento parcial da obrigação apenas pelo mencionado pela autora na inicial, podendo o débito em aberto ser discutido em apartado, caso compareçam os devedores oportunamente.
+Desta forma, conforme demonstrado pela contadoria da Defensoria Pública (parecer anexo), inexistindo cobrança abusiva de encargos contratuais, bem como, estando a planilha de cálculo do valor do débito apresentado pelo requerente encontra -se aparentementecorreta, a Defensoria Pública deixa de ofertar peça defensiva de maior amplitude, por não ter elementos necessários para sua confecção, uma vez que não teve contato com a requerida, não podendo extrair as informações necessárias para instruir sua peça de defesa  .. ." (Sic. ID 54035474)
+Portanto, ausente qualquer prejuízo a macular a citação do requerido por edital, imperiosa a manutenção da decisão recorrida. grifou-se
+Acerca do tema, ajurisprudência do STJ, aplicando a disciplina do §3º do art. 256 do CPC/2015, tem considerado que o réu deve ser tido como em local ignorado ou incerto após tentativas infrutíferas de sua localização, inclusive mediante requisição pelo juízo de informações acerca de seu endereço nos cadastros de órgãos públicos ou deconcessionáriasde serviços públicos.
+A propósito confiram-se os seguintes precedentes:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/15. AÇÃO MONITÓRIA. CITAÇÃO POR EDITAL. NECESSIDADE DE ESGOTAMENTO DE TODOS OS MEIOS DE LOCALIZAÇÃO DO RÉU. PESQUISA DO ENDEREÇO NOS CADASTROS DE ÓRGÃOS PÚBLICOS OU DE CONCESSIONÁRIAS DE SERVIÇOS PÚBLICOS. ART. 256, § 3º, DO CPC. NULIDADE PROCESSUAL CARACTERIZADA.
+1. Controvérsia em torno da legalidade da citação do recorrente por edital.
+2. O novo regramento processual civil, além de reproduzir a norma inserta no art. 231, II, do CPC/73, estabeleceu que o réu será considerado em local ignorado ou incerto se infrutíferas as tentativas de sua localização, inclusive mediante requisição pelo juízo de informações acerca de seu endereço nos cadastros de órgãos públicos ou de concessionárias de serviços públicos.
+2. No caso, o fundamento utilizado pelo acórdão recorrido de inexistir comando legal impondo ao autor o dever de provocar o juízo no sentido de expedir ofícios a órgãos ou prestadores de serviços públicos a fim de localizar o réu não subsiste ante a regra expressa inserta no § 3º, do art. 256, do CPC.
+3. RECURSO ESPECIAL PROVIDO PARA DECLARAR A NULIDADE DA CITAÇÃO POR EDITAL.
+(REsp 1828219/RO, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 03/09/2019, DJe 06/09/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.REINTEGRAÇÃO DE POSSE. BUSCA E APRENSÃO DE VEÍCULO. NOTIFICAÇÃO EXTRAJUDICIAL. DEVEDOR NÃO LOCALIZADO. ENDEREÇO DESATUALIZADO.INTIMAÇÃO POR EDITAL. VALIDADE. MORA. COMPROVAÇÃO. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Trata-se, na origem, de ação de reintegração de posse de veículo objeto de contrato de arrendamento mercantil, na qual o devedor foi constituído em mora mediante citação por edital.
+3. A validade da intimação por edital pressupõe o esgotamento das possibilidades de localização do devedor, como ocorreu no caso.Precedentes. Súmula nº 568/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1369934/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 29/04/2019, DJe 06/05/2019)
+No caso dos autos, consoante relatado, o Tribunal de origem registrou que, além dos Oficiais de Justiça terem diligenciadovárias vezes na tentativa de localizar o devedorno endereço do contrato, bem como em outrosindicados, foi procedida requisição de informações acerca de seu endereçono sistema INFOJUD, pelo que se pode considerar cumprido o requisito da busca em cadastro de órgãos públicos.
+3. Ademais,a averiguação das alegações do recorrente, no sentidoda nulidade da citação por edital, pelo não cumprimento de todas as diligências possíveis, bem como a reforma do acórdão recorrido, na parte relativa àausência de prejuízo, no caso em tela,implicaria o revolvimento de aspectos fáticos e probatórios dos autos, o que é vedado por força da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.CUMPRIMENTO DE SENTENÇA. CITAÇÃO POR EDITAL. NULIDADE. REJEITADA PELO TRIBUNAL DE ORIGEM. ESGOTAMENTO DE TODOS OS MEIOS DE LOCALIZAÇÃO. CUMPRIMENTO DOS REQUISITOS LEGAIS. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. A citação por edital é medida excepcional, razão pela qual só é admitida após esgotados todos os meios reais de localização da parte demandada.
+2. Alterar o entendimento do Tribunal de origem a respeito do esgotamento de todos os meios reais de localização da executada recai no óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1789536/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/03/2021, DJe 25/03/2021)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CITAÇÃO POR EDITAL.VALIDADE. ESGOTAMENTO DOS MEIOS NECESSÁRIOS PARA LOCALIZAR O RÉU.SÚMULA 7 DO STJ. EXPEDIÇÃO DE OFÍCIOS ÀS REPARTIÇÕES PÚBLICAS.AUSÊNCIA DE IMPOSIÇÃO LEGAL. PRECEDENTE DESTA CORTE. RECURSO NÃO PROVIDO.
+1. Para modificar o que foi decidido pela Corte de origem, no tocante à ausência de nulidade da citação por edital, em virtude do cumprimento de todas as diligências necessárias para citação pessoal do réu, seria necessário o revolvimento do conteúdo fático-probatório dos autos, providência incabível no recurso especial ante o óbice previsto na Súmula 7 desta Corte.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 1233310/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/05/2018, DJe 21/05/2018) grifou-se
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.CITAÇÃO POR EDITAL. VALIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu que foram observados todos os requisitos para a validade da citação por edital. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1039734/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/08/2017, DJe 14/08/2017) grifou-se
+AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CITAÇÃO POR EDITAL. DECLARAÇÃO DE NULIDADE. NECESSIDADE DE DEMONSTRAÇÃO DO PREJUÍZO. REEXAME. SÚMULA 7. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. A declaração da nulidade dos atos processuais depende da demonstração da existência de prejuízo à parte interessada (pas de nullité sans grief).
+2. Caso concreto em que derruir a conclusão a que chegou a Corte de origem no sentido de que da irregularidade em questão não decorreu qualquer prejuízo à defesa da parte recorrente demandaria o revolvimento do arcabouço fático-probatório o que encontra óbice no enunciado da Súmula 7 do STJ.
+3. Na hipótese em exame, o dissídio jurisprudencial não foi demonstrado uma vez que a parte recorrente não realizou o necessário cotejo analítico, em desatenção ao disposto na legislação processual pátria e no Regimento Interno do Superior Tribunal de Justiça.
+4. Ainda no que diz respeito a interposição do recurso pela alínea "c" do permissivo constitucional, importa consignar que não se pode conhecer do recurso pela referida alínea, uma vez que pretende a parte recorrente discutir idêntica tese já afastada, ficando prejudicada a divergência jurisprudencial aduzida.
+5. Agravo interno não provido.
+(AgInt no REsp 1588502/ES, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/06/2019, DJe 18/06/2019) grifou-se
+Assim, inviável o acolhimento da pretensão recursal em relação às presentes questões, nos termos das Súmulas 7 e 83 do STJ.
+4. Por fim, importante consignar que esta Corte de Justiça tementendimento no sentido de que a incidência da Súmula 7/STJ impede o examede dissídio jurisprudencial, na medida em que falta identidade entre osparadigmas apresentados e os fundamentos do acórdão, tendo em vista asituação fática do caso concreto, com base na qual deu solução a causa aCorte de origem.
+A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. OMISSÃO ECONTRADIÇÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. DANO MORAL.NÃO COMPROVAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVONÃO PROVIDO.
+(..)
+4. É impossível conhecer da alegada divergência interpretativa, pois aincidência da Súmula 7 do STJ na questão controversa apresentada é, porconsequência, óbice também para a análise do apontado dissídio, o queimpede o conhecimento do recurso pela alínea c do permissivoconstitucional.
+5. Agravo interno ao qual se nega provimento.
+(AgInt no AREsp 1152399/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADORCONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 06/02/2018, DJe09/02/2018.
+5. Doexposto, com amparo no artigo 932 do NCPC c/c Súmula 568/STJ, negoprovimento ao agravo em recurso especial. Deixo de majorar a verba honorária por já ter sido estabelecida no teto máximo previsto em lei.
+Publique-se.
+Intimem-se.
