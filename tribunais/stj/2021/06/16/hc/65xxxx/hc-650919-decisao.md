@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se  de  habeas  corpus, sem pedido liminar, impetrado  em  favor  de  LEANDRO DA SILVA  contra  acórdão  proferido  pelo Tribunal  de  Justiça  do  Estado  de  São  Paulo  no Agravo em Execução  n.  0001514-90.2021.8.26.0506.
+Consta  dos  autos  que  o  Juízo  das  Execuções  Criminais  homologou o cálculo de penas, considerando os dias remidos como pena efetivamente cumprida, para todos os efeitos, nos termos do artigo 128 da Lei de Execução Penal  (e-STJ ,  fls.  27/28 e 47).
+A  defesa,  então,  insatisfeita,  interpôs agravo em execução perante a Corte de origem.  O  Tribunal,  contudo,  negou provimento ao recurso  (e-STJ,  fl.  46/49).
+Nesta impetração, a Defensoria Pública relata queos cálculos elaborados consideraram o tempo remido apenas no total da pena executada, não considerando como pena cumprida para fins de obtenção de benefícios.
+Alega que desse modo o pacienteterá que cumprir período maior ao que de fato é seu direito.
+Com isso, pretende que sejadeterminada a retificação dos cálculos para que os dias remidos sejam contabilizados para todos os fins, nos termos do art. 128 da LEP, em especial na fração para aquisição dos benefícios de progressão de regime e livramento condicional, diretamente no lapso como pena cumprida e não apenas proporcionalmente em razão da diminuição da pena total(e-STJ, fl. 8).
+O Ministério Público Federal opina ""pelo não conhecimento do presente habeas corpus ou pela denegação da ordem, caso conhecido"" (e-STJ, fls. 58/61).
+É o relatório. Decido.
+O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+Nesse sentido, confiram-se os seguintes julgados, exemplificativos dessa nova orientação das Cortes Superiores do País: HC n. 320.818/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 21/5/2015, DJe 27/5/2015; e STF, HC n. 113.890/SC, Relatora Ministra ROSA WEBER, Primeira Turma, julg. em 3/12/2013, DJ 28/2/2014.
+Assim, de início, incabível o presente habeas corpus substitutivo de recurso próprio. Todavia, em homenagem ao princípio da ampla defesa, passa-se ao exame da insurgência para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+O Tribunal, acatando a decisão singular, não considerou o tempo de remição da pena diretamente no lapso dos benefícios da execução (e-STJ, fls.48/49):
+Verifica-se, pois, que o cálculo de liquidação de penas foi corretamente elaborado, ou seja, descontou-se o tempo remido, do lapso total de pena por cumprir, sendo certo que os cálculos para fins de benefícios progressão de regime e/ou livramento condicional serão feitos sobre o montante da reprimenda resultante desta subtração, de forma que o período remido já está computado, pois as frações serão calculadas sobre tempo menor.
+Elaborar o cálculo da forma pretendida pelo agravante importaria em considerar a remição duas vezes, o que é incorreto.
+Inviável, portanto, considerar a remição, também, paracálculo das frações de pena, a serem cumpridas para obtenção dos demais benefícios.
+Como bem fundamentou o Tribunal, o cálculo de liquidação das penas foi feito de forma correta, subtraindo-se os dias remidos do total da pena do executado, tendo sido devidamente atendido o art. 128 da LEP.
+Assim, o cálculosde cada benefício da execução serão elaboradossobre o total da pena, já diminuído em razão da subtração dos dias remidos, não procedendo o argumentodefensivo de que o paciente cumpriria tempo maior do que o efetivamente devido.
+De fato, subtrair, novamente, o tempo de remição a cada benefício pleiteado, seria considerar o tempo remido como pena cumprida, por duas vezes.
+Tal procedimento caracterizaria, efetivamente, consideração do mesmo fato,em duplicidade,para fins de obtenção de benefícios, o que não é admissível.
+Confira-se, a propósito, mutatis mutandis, o seguinte julgado( grifei):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. EXECUÇÃO PENAL.REMIÇÃO DE PENA. NOVA APROVAÇÃO NO ENCCEJA. DUPLICIDADE DE CONCESSÃO DO MESMO BENEFÍCIO. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r.decisão agravada por seus próprios fundamentos
+II - Não há dúvida de que o benefício da remição deve ser aplicado na situação em que o apenado obtém a aprovação no ENCCEJA ou ENEM, porquanto configura aproveitamento dos estudos realizados durante a execução da pena, conforme dispõem o art. 126 da LEP e a Recomendação n. 44/2013 do CNJ.
+III - Contudo,o objetivo da remição é de recompensar o preso pelo esforço que demonstra em crescer intelectualmente por galgar os diversos níveis de educação, não simplesmente reduzir a pena. A realização do mesmo exame não demonstra evolução, mas a mera reiteração da realização de uma prova para abatimento de pena, o que, obviamente, constitui concessão em duplicidade do benefício pelo mesmo fato, não restando configurado qualquer acréscimo intelectual.
+Agravo regimental desprovido.
+(AgRg no HC 592.511/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 08/09/2020, DJe 15/09/2020)
+Ante o exposto, não conheço do habeas corpus.
+Intimem-se.
+Sem recurso, arquivem-se os autos.
