@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino (Presidente), Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015. ATO DE PUBLICAÇÃO DA DECISÃO NÃO SE CONFUNDE COM O DE SUSPENSÃO DO PRAZO RECURSAL.
+1. Embargos de terceiro.
+2. O art. 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+3. Considerando que o recurso especial foi interposto sob a égide do CPC/2015 e que não houve a comprovação do feriado local, quando de sua interposição, não há como ser afastada a intempestividade do apelo.
+4. Não se confundem o ato de publicação da decisão com o de suspensão do prazo recursal. Aquele ocorreu sem nenhuma excepcionalidade. Houve a suspensão dos prazos processuais entre 19/03/2020 a 30/04/2020, por força da Resolução 313/20 do CNJ, e não suspensão das publicações ou a sua eficácia na data em que foram disponibilizadas no Diário da Justiça eletrônico. E o reinício ou prosseguimento dos prazos processuais se deu a partir de 04/05/2020 (inclusive). Precedente.
+5. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por VERA LÚCIA DA SILVA OLIVEIRA e OUTROS contra decisão unipessoal prolatada pelo Ministro Presidente do STJ.
+Ação: embargos de terceiro, opostos pelos agravantes, em face de MUNICÍPIO DE GUARULHOS, sob a alegação de serem os legítimos possuidores de bem imóvel, o qual teve a indisponibilidade decreta no âmbito da ação civil pública n. 0006654-64.2010.
+Decisão Monocrática: conheceu do agravo em recurso especial interposto pelos agravantes, para não conhecer do recurso especial, devido a intempestividade do apelo nobre, nos termos do art. 21-E, V, do RISTJ (e-STJ, fls. 478/479).
+Agravo interno: alega, em síntese, que, nos termos da Resolução 313/20 do CNJ, houve a suspensão dos prazos processuais entre 19/03/2020 a 30/04/2020. Dessa forma, é errôneo considerar que a publicação do acórdão que julgou a apelação ocorreu em 01/04/2020, pois, conforme a resolução citada, houve suspensão de prazo em relação à data referenciada. Nesse sentir, a contagem do prazo processual começou apenas em 05/05/2020. Afirma, ainda, que houve suspensão de prazo por feriados locais antecipados (Estado de São Paulo), de acordo com o Provimento CSM 2.558/2020 e com o Provimento CSM 2.559/2020, ambos do TJ/SP, em relação aos dias 20/05/2020, 21/05/2020, 22/05/2020 e 25/05/2020. Por derradeiro, assevera a existência de legislação federal prevendo a possibilidade desta Corte Superior desconsiderar vício formal ou determinar sua correção (e-STJ, fls. 482/500).
+É O RELATÓRIO.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015. ATO DE PUBLICAÇÃO DA DECISÃO NÃO SE CONFUNDE COM O DE SUSPENSÃO DO PRAZO RECURSAL.
+1. Embargos de terceiro.
+2. O art. 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+3. Considerando que o recurso especial foi interposto sob a égide do CPC/2015 e que não houve a comprovação do feriado local, quando de sua interposição, não há como ser afastada a intempestividade do apelo.
+4. Não se confundem o ato de publicação da decisão com o de suspensão do prazo recursal. Aquele ocorreu sem nenhuma excepcionalidade. Houve a suspensão dos prazos processuais entre 19/03/2020 a 30/04/2020, por força da Resolução 313/20 do CNJ, e não suspensão das publicações ou a sua eficácia na data em que foram disponibilizadas no Diário da Justiça eletrônico. E o reinício ou prosseguimento dos prazos processuais se deu a partir de 04/05/2020 (inclusive). Precedente.
+5. Agravo interno não provido.
+VOTO
+A decisão agravada inadmitiu o recurso especial interposto pela agravante, em razão da intempestividade.
+O recurso especial, de fato, é inadmissível por ser intempestivo. O acórdão prolatado pelo Tribunal de origem foi publicado em 01/04/2020 (e-STJ, fl. 421), quarta-feira. Exauriu-se, pois, o prazo legal para a interposição do recurso especial em 22/05/2020, sexta-feira. No entanto, a petição do recurso foi protocolizada em 29/05/2020, sexta-feira (e-STJ, fl. 383), ou seja, fora do prazo legal de 15 dias úteis.
+Na hipótese dos autos, o recurso especial foi manejado contra acórdão publicado em 01/04/2020, quando já em vigor o novo Diploma Processual Civil.
+Desse modo, nos termos do art. 1.003, § 6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+Além disso, a intempestividade é tida pelo CPC/15 como vício grave e, portanto, insanável. Dessa forma, não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15 (Antes de considerar inadmissível o recurso, o relator concederá o prazo de 5 dias ao recorrente para que seja sanado vício ou complementada a documentação exigível), reservado às hipóteses de vícios sanáveis. Nesse sentido: AgInt no AREsp 957.821/MS (Corte Especial, DJe 19/12/2017).
+Imperioso frisar que não se confundem o ato de publicação da decisão com o de suspensão do prazo recursal. Aquele ocorreu sem nenhuma excepcionalidade. Houve a suspensão dos prazos processuais entre 19/03/2020 a 30/04/2020, por força da Resolução 313/20 do CNJ, e não suspensão das publicações ou a sua eficácia na data em que foram disponibilizadas no Diário da Justiça eletrônico. E o reinício ou prosseguimento dos prazos processuais se deu a partir de 04/05/2020 (inclusive). A esse propósito: AgInt nos EAREsp 1.515.825/AL (Corte Especial, DJe 18/12/2020).
+Assim, considerando que o recurso especial foi interposto sob a égide do novo regramento processual e deixando os agravantes de comprovarem a ocorrência de feriado local quando de sua interposição, não há como ser afastada a intempestividade.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
