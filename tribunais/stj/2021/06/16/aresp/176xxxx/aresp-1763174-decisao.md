@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por ALDA GUERRA DE VASCONCELOS e OUTRAS de decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (fl. 2269):
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. ACÓRDÃO DO TCU. SUSPENSÃO DE VANTAGEM ECONÔMICA. 26,05%. SERVIDOR PÚBLICO. AUSÊNCIA DE DIREITO ADQUIRIDO.
+Hipótese na qual o ato coator apenas cumpre determinação do TCU, com origem em decisão judicial que rescindiu o título que supostamente autorizava o pagamento da verba suprimida. Não há direito adquirido a benesse concedida ao alvedrio da lei. A garantia constitucional é de irredutibilidade de vencimentos, mas vencimentos com amparo legal. Apelação desprovida.
+A esse acórdão foram opostos embargos de declaração, os quais restaram rejeitados (fls. 322/329).
+Sustenta a parte agravante, no recurso inadmitido, violação aos seguintes dispositivos legais:
+a) arts. 489, § 1º, IV, e 1.022, do CPC;
+b) art. 1º da Lei 12.016/2009, uma vez que todos os requisitos necessários para o processamento do subjacente mandado de segurança encontram-se presentes. Isso porque (fls. 357/358):
+ ..  se observa que todos os documentos necessários para o deslinde do presente mandado de segurança encontram-se nos autos.
+Frisa-se que o mandado de segurança é instrumento juridicamente cabível para proteger o direito líquido e certo invocado, vez que a situação narrada consagra violação a direitos  previstos na Constituição e em leis federais  da parte impetrante, notadamente ao devido processo legal e à decadência de a administração anular atos que produzam efeitos favoráveis por mais de cinco anos.
+Dessa forma, trata-se de interesse individual que pode ser protegido mediante mandado de segurança, nos termos do artigo 5º, LXIX, da Constituição da República", bem como nos termos do artigo 1º da Lei 12.016, de 2009 6 , pois, além de não serem cabíveis os habeas corpus e o habeas data, visa proteger direito líquido e certo ante ilegalidade ou abuso do poder de autoridade consubstanciado nos cortes remuneratórios implementados.
+ ..
+A legitimidade passiva é manifesta, vez que o ato coator é o corte remuneratório, assim, a Pró-reitoria de Pessoal, representada pelo Pró-Reitor de Pessoal, é responsável pelo controle e execução administrativa dos servidores vinculados à Universidade, tendo proferido outras decisões que anunciavam a possível implementação do corte remuneratório, bem como recebeu as manifestações apresentadas.
+Ainda, o Acórdão TCU 2648/2017 determinou que a UFRJ continuasse a executar plano de ação objetivando suspender os pagamentos da parcela. Em razão disso, o Reitor da UFRJ foi incluído como litisconsorte passivo necessário, em razão de ser a autoridade que pratica o ato determinado pelo TCU, pois possui atribuição de representar a Universidade, consoante prevê o inciso I do artigo 30 do seu Regimento Interno.
+Destarte, incontroversa a competência desse juízo federal que, conforme o disposto no artigo 109, VIII, da Constituição da República8, deverá processar e julgar os mandados de segurança contra ato de autoridade federal, salvo os casos de competência dos tribunais federais.
+Assim, não há que se falar em necessidade de maior conjunto probatório a ser juntado nos autos para fins de concessão da segurança, haja vista que todos os documentos necessários estão nos autos, sob pena de violação ao art. 1º da Lei 12.016/2009.
+c) art. 54 da Lei 9.784/1999, asseverando a decadência do direito de a Administração promover a anulação do pagamento do percentual de 26,05%;
+d) art. 2º, parágrafo único, XIII, da Lei 9.784/1999, tendo em vista que "nova interpretação promovida pelo TCU não pode alcançar as situações consolidadas de acordo com aquele entendimento administrativo, pois é aplicação retroativa de nova interpretação administrativa, praxe legalmente e constitucionalmente vedada" (fl. 364);
+e) art. 2º, caput, da Lei 9.784/1999, pois a ausência de notificação individual, para que as servidoras pudessem apresentar manifestação quanto à decisão que culminou no corte remuneratório importa em ofensa ao devido processo legal.
+Nas razões do agravo, aduz que os pressupostos de admissibilidade do recurso especial encontram-se presentes, repisando seus argumentos.
+Contraminuta às fls. 461/469.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Presentes os pressupostos de admissibilidade do agravo, examino o próprio recurso especial.
+De início, a parte recorrente limitou-se a apontar ofensa genérica aos arts. 489, § 1º, IV, e 1.022, do CPC, sem indicar, de forma clara, precisa e congruente, quais seriam os vícios contidos no acórdão recorrido não sanados a despeito da oposição de embargos de declaração. Assim, nesse ponto, incide na espécie a Súmula 284/STF.
+Quanto ao mérito, o Tribunal de origem adotou o entendimento segundo o qual não caso concreto não restaria efetivamente demonstrado o alegado direito líquido e certo alegado pela parte impetrante, ora recorrente, nos seguintes termos (fls. 266):
+A apelação não merece ser provida, data venia. Deve a sentença ser mantida por seus próprios fundamentos, que passam a integrar o presente voto, evitando-se transcrição, e pelos que se lhe acrescem, na forma adiante alinhada. O art. 1º da Lei nº 12.016/2009 dispõe que, in verbis:
+ ..
+Na ação mandamental, não é suficiente que o direito possa vir a ser demonstrado, mas é preciso que ele esteja desde logo definido em seu conteúdo, independentemente de comprovação posterior. Deve ser, portanto, de pronta e imediata comprovação, através da prova documental apresentada, sem que se admita dilação. Também, por ser via excepcional e célere, não se presta a postular atrasados, como ocorreu no presente caso.
+Não se identifica a apontada violação de direito líquido e certo, e sim o cumprimento de acórdão do Tribunal de Contas. A eventual ilegalidade não está delineada igualmente para todos os atingidos e exigirá perquirição específica. Ao contrário, ocorreu a desconstituição do julgado que mandava pagar a verba a maior, de modo que nada autoriza o writ.
+Na hipótese, há inclusive pedido de produção de prova "documental e pericial" (cf. doc. 2 de 25 do evento 1), o que não cabe na ação mandamental.
+A via do mandado de segurança é estreita e não comporta dilação probatória, devendo a prova ser pré-constituída de modo a ser imediatamente possível verificar o direito líquido e certo de quem o utiliza. Assim, resta totalmente descabida avia eleita.
+ ..
+Portanto, sendo inexistente o direito líquido e certo alegado pelos impetrantes, e por consequência, não havendo comprovação inequívoca de ilegalidade ou abuso de poder, a via eleita mostra-se incabível.
+ ..
+Sucede que para se rever tal conclusão seria necessário o reexame de matéria fática, o que esbarra no óbice da Súmula 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. MAGISTRADO APOSENTADO. INDENIZAÇÃO EM PECÚNIA. POSSIBILIDADE. PRECEDENTES. CABIMENTO DO WRIT. PRECEDENTES. DIREITO LÍQUIDO E CERTO. REEXAME. SÚMULA 7/STJ.
+1. O recurso especial não é via recursal adequada para analisar suposta ofensa a dispositivo constitucional, sob pena de usurpação da competência que, por expressa determinação da Constituição Federal, pertence ao Supremo Tribunal Federal.
+2. A excelsa Corte, no julgamento do ARE 721.001-RG, sob o regime da repercussão geral, reconheceu a possibilidade da conversão de férias não gozadas  bem como outros direitos de natureza remuneratória  em indenização pecuniária, por aqueles que não mais podem delas usufruir, sob pena de enriquecimento sem causa da Administração.
+3. Segundo a jurisprudência desta Corte "não configura substituto de ação de cobrança a impetração de mandamus cujo objetivo é desconstituir ato administrativo que nega conversão em pecúnia de licença-prêmio ou férias não gozadas por necessidade de serviço, pois o que se busca é a restauração de situação jurídica em razão do suposto ato ilegal, cujos efeitos patrimoniais são mera consequência do reconhecimento da ilegalidade, não se aplicando as Súmulas 269 e 271 do STF" (REsp 1.363.383/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 13/3/2013).
+4. Infirmar a conclusão do Tribunal de origem acerca do direito líquido e certo do impetrante, na forma pretendida pelo ente público, exigiria o exame do acerto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.552.147/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 25/3/2021)
+Nesse contexto, diante da impossibilidade de ultrapassar o referido óbice processual, restam prejudicadas as demais questões suscitadas pela parte recorrente quanto ao mérito da impetração, sendo irrelevante, outrossim, que sobre ele a Corte de origem tenha tecido comentários em em caráter meramente obiter dictum.
+ANTE O EXPOSTO, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
