@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LEANDRO ZUGE DO NASCIMENTO (ou LEANDRO ZUGUE DO NASCIMENTO), contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (Agravo em Execução Penal n. 5069339-53.2020.8.21.7000) assim ementado (fl. 222):
+AGRAVO EM EXECUÇÃO. COMETIMENTO DE NOVO CRIME DOLOSO NO CURSO DA EXECUÇÃO. PERDA DOS DIAS REMIDOS. FRAÇÃO ELEITA. INSURGÊNCIA MINISTERIAL.
+Reconhecida a fatal grave, impõe-se ao apenado a perda de até 1/3 dos dias remidos, recomeçando a contagem a partir da data da infração disciplinar, nos termos do artigo 127 da LEP. Constitucionalidade reconhecida pelo STF. No tocante ao quantum de perda de dias remidos, a legislação permite ao magistrado estabelecer a fração segundo os critérios estabelecidos no artigo 57 da LEP, devendo considerar, assim, a natureza, os motivos, as circunstâncias e consequências do fato, e, ainda, a pessoa do faltoso e seu tempo de prisão, limitada à fração máxima de 1/3. Na espécie, considerando que o apenado praticou o novo crime doloso quando recolhidos ao sistema prisional, utilizando-se aparelho de telefone celular para ameaçar sua ex-companheira, mostra-se mais adequada e proporcional a perda de 1/3 de dias remidos. Decisão objurgada reformada.
+AGRAVO EM EXECUÇÃO MINISTERIAL PROVIDO.
+O Juízo da execução penal reconheceu a prática de falta disciplinar grave e, em consequência, determinou a perda de 1/6 dos dias remidos.
+Interposto agravo em execução pelo Ministério Público, o Tribunal de origem deu provimento ao agravo em execução penal ministerial para determinar a perda de 1/3 dos dias remidos pelo paciente, ante a conduta faltosa gravíssima.
+A impetrante aponta constrangimento ilegal no reconhecimento da falta disciplinar grave, ante a inidoneidade de fundamentação.
+Sustenta que não foi comprovada a materialidade da posse de celular, considerando que nada foi encontrado com o paciente.
+Defende que "em que pese todo o cometimento de novo delito no curso da execução seja circunstância grave - por tal motivo se considera falta "grave", há que sopesar o grau de gravidade" (fl. 5) para estabelecer o quantum perdido.
+Requer, liminarmente e no mérito, o afastamento da falta disciplinar grave e o restabelecimento integral da remição .
+O pedido de liminar foi indeferido (fls. 241-242).
+Prestadas as informações (fls. 246-286 e 292-297), o Ministério Público Federal opinou pela denegação da ordem (fls. 299-300).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+No presente caso, o Juízo da execução penal reconheceu a prática de falta disciplinar grave e determinou a perda de 1/6 dos dias remidos nestes termos (fls. 114-115):
+Com efeito, tanto na fase administrativa (fl. 9 do evento 13.1) quanto na audiência de justificação (evento 46.1), apenado negou a prática das ameaças, porém, não apresentou qualquer argumento capaz de afastar o reconhecimento da falta grave, motivo pelo qual resta ela configurada, nos termos do artigo 11, inciso VIII, do Regimento Disciplinar Penitenciário.
+Além disso, em que pese não tenha encontrado nenhum aparelho celular em posse do apenado, o depoimento da vítima, prestado perante a autoridade policial, aliado às mensagens de celular (evento 4) conferem lastro probatório suficiente para o reconhecimento da prática da falta grave.
+Em razão do exposto, estando configurada a falta grave, homologo o Procedimento Administrativo Disciplinar e análise, assim como a sanção administrativa imposta.
+ ..
+Para declarar a quantidade de dias remidos perdidos, deve ser levado em consideração os princípios da proporcionalidade e da individualização da pena. In casu, as condições pessoais do reeducando á vista da falta cometida, observados os critérios da reprovação e da prevenção para evitar que nova falta grave seja cometida, entendo necessário e suficiente declarar a perda de 1/6 (um sexto) dos dias remidos.
+O Tribunal de origem deu provimento ao recurso ministerial, para declarar a perda de 1/3 dos dias remidos, adotando os seguintes fundamentos (fls. 214-220):
+Segundo relatório da situação processual executória, o ora agravado foi condenado à pena total de 15 anos de reclusão pela prática de homicídio qualificado.
+Durante a execução da aflitiva, viu reconhecida falta grave.
+ ..
+Feitas tais considerações, consigno que os elementos constantes nos autos demonstram, satisfatoriamente, que o apenado, ao que tudo indica, perpetrou novo crime no curso da pena - o que consiste em falta grave, consoante expressa redação do artigo 52 da LEP, tal como do artigo 11, inciso VIII, do Regimento Disciplinar penitenciário.
+Com efeito, no dia 21/08/2019, a vítima Adriane Anilda Hining registrou ocorrência policial, relatando que teve um relacionamento, de aproximadamente 02 anos, com o inculpado, sendo que, desde que foi preso pela prática de um homicídio, há, mais ou menos, 03 anos, Leandro vem lhe telefonando e enviando mensagens de texto, do interior do presídio. O contato é de cunho ameaçador, eis que o apenado alega que "jamais vai deixar ela se relacionar com outra pessoa, que sempre haverá carros estranhos circulando em frente a sua casa e que qualquer dia desses a vítima irá anoitecer e não irá amanhecer". Recentemente, o ex-companheiro sustentou, ainda que "logo que sairá da prisão e ela pagará com sua vida por todos os relacionamentos que teve".
+Na ocasião, a ofendida pleiteou medidas protetivas de urgência.
+Tal registro, efetuado pela ofendida, ao que tudo indica, gerou o processo criminal nº 133/2.19.0000750-0, que conta, inclusive, com denúncia recebida.
+Pois bem, tal cenário indica que Leandro, possivelmente, proferiu ameaças de ocasionar mal injusto e grave à vítima, com fim de causar-lhe temor e sofrimento - cometendo, assim, á princípio, ovo delito, no curso da execução penal.
+ ..
+Assim que, quando ao cometimento da falta grave pelo recluso, desnecessária qualquer consideração, fazendo-se incontroversa.
+ ..
+Ab initio, há que se referir, reconhecida a falta grave, impõe-se ao apenado a perda de até 1/3 dos dias remidos, nos moldes do artigo 127 da LEP, recomeçando a contagem a partir da data da infração disciplinar.
+ ..
+Daí que, considerando que o infortunado cometeu novo delito quando segregado ao estabelecimento prisional, ameaçando sua ex-companheira, utilizando, para tanto, de aparelho de telefone celular, objeto sabido, de uso proibido dentro de ergástulo público, tenho como mais proporcional a decretação da perda de 1/3 dos dias remidos, quantum que, a meu sentir, melhor observa as diretrizes do artigo 57 da LEP.
+O Tribunal a quo, soberano na análise dos fatos e das provas dos autos, concluiu que o paciente cometera falta disciplinar de natureza grave. Para alterar o entendimento das instâncias ordinárias nos moldes em que pleiteia a defesa, seria imprescindível adentrar o conjunto fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. CARACTERIZAÇÃO. PLEITO DE ABSOLVIÇÃO. VIA IMPRÓPRIA. DESCLASSIFICAÇÃO PARA FALTA MÉDIA. REITERAÇÃO DA PRETENSÃO FORMULADA NO HC N. 564.773/SP. AGRAVO DESPROVIDO.
+1. O exame da tese de não configuração da falta grave, com vistas à absolvição do Paciente, não se coaduna com a via estreita do habeas corpus, dada a necessidade de incursão na seara fático-probatória.
+2. "É pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/09/2019, DJe 18/09/2019).
+3. Agravo desprovido. (AgRg no HC n. 612.037/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/10/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. AGRESSÕES MÚTUAS ENTRE DETENTAS E DESOBEDIÊNCIA AO AGENTE PENITENCIÁRIO. RECONHECIMENTO. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE DE INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. PERDA DE 1/3 DOS DIAS REMIDOS. ART. 57 DA LEP. DECISÃO FUNDAMENTADA. MANIFESTA ILEGALIDADE NÃO VERIFICADA. AGRAVO NÃO PROVIDO.
+1. Na hipótese, as instâncias ordinárias concluíram que as provas são uníssonas em indicar a prática da falta grave cometida pela apenada, consistente em mútua agressão entre as detentas acrescida da desobediência aos agentes penitenciários, nos termos do artigo 50, incisos I e VI, combinado com o artigo 39, incisos II e V, ambos da Lei n. 7.210/1984.
+2. Analisar se o fato praticado configura ou não infração disciplinar administrativa, de natureza leve, média ou grave, demandaria o revolvimento do conteúdo fático-probatório dos autos, o que é inadmissível na via eleita. Precedentes.
+3. A jurisprudência desta Corte Superior é firme no sentido de que a perda de até 1/3 dos dias remidos, em razão da prática de falta grave, exige fundamentação concreta, consoante determina a própria legislação de regência, segundo a qual devem ser observadas as diretrizes elencadas no art. 57 da LEP (a saber: "a natureza, os motivos, as circunstâncias e as conseqüências do fato, bem como a pessoa do faltoso e seu tempo de prisão").
+4. Na hipótese dos autos, a perda de 1/3 dos dias remidos se deu de forma fundamentada, haja vista a gravidade da natureza da falta disciplinar e o histórico prisional da sentenciada.
+5. Agravo regimental não provido. (AgRg no HC n. 516.423/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/12/2019.)
+No que diz respeito ao quantum de perda dos dias remidos, a jurisprudência do Superior firmou-se no sentido de que a perda da fração máxima de 1/3 dos dias remidos exige fundamentação concreta, devendo ser observadas "a natureza, os motivos, as circunstâncias e as consequências do fato, bem como a pessoa do faltoso e seu tempo de prisão" (art. 57 da LEP), o que foi devidamente observado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
