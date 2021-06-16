@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado em favor de EDUARDO GARCIA DELGADOcontra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no julgamento do HC n.1.0000.20.604247-5/000.
+Consta dos autos que a prisão em flagrante do Paciente foi convertida em prisão preventiva em 28/12/2020. Em tese, teria praticado a conduta descrita no art. 33 da Lei de Drogas, pois transportava "quase cinquenta quilos de maconha"(fl. 52).
+Inconformada, a Defesa impetrouhabeas corpus, que foi parcialmente conhecido e, nessa parte, denegada a ordem (fls. 21-33).
+Nestewrit, a Parte Impetrante sustenta, em síntese: a) a ausência de requisitos e de fundamentos idôneos para a prisão preventiva; b)as condições pessoais favoráveis; c) a suficiência de cautelares alternativas; e d) a incompatibilidade da prisão em estabelecimento prisional com a situação de pandemia, mormente porque o Paciente integra grupo de risco de infecção pela Covid-19 (doenças respiratórias).
+Pleiteia "que sejam intimados todos os advogados constantes na procuração, nos termos do art. 272, §5º do Código de Processo Civil, sob pena de nulidade, bem como intimados da data da Sessão de Julgamento para que possam se inscrever para sustentação oral" (fl. 20).
+Requer, em liminar e no mérito, a revogação da prisão preventiva ou a substituição por prisão domiciliar.
+O pedido liminar foi indeferido (fls. 148-149).
+As informações foram prestadas (fls. 153-189).
+O Ministério Público Federal opinou pela denegação da ordem dehabeas corpus(fls. 191-193).
+É o relatório.Decido.
+Inicialmente, cumpre salientar que a tese de incompatibilidadeda prisão em estabelecimento prisional com a situação de pandemianão foi apreciadapelo Tribunal de origem, de modo que não pode ser conhecidaoriginariamente por esta Corte Superior, sob pena de supressão de instância.
+No caso, o Magistrado de piso converteua prisão em flagrante do Paciente em prisão preventiva "ante a gravidade em concreto do delito, visto que os acusados transportavam grande quantidade de substâncias entorpecentes" (fl. 52).
+A manutenção da custódia cautelar encontra-se suficientemente fundamentada em razão das circunstâncias do caso que, pelas características delineadas, retratam, in concreto, a periculosidade do Agente, a indicar a necessidade da segregação provisória para a garantia da ordem pública, considerando-se, sobretudo, a quantidade de droga apreendida - "quase cinquenta quilos de maconha", a aparente função de transportadores exercida pelos agentes e também a falta de vínculo com o distrito da culpa.(fl. 52).
+Com efeito, a jurisprudência desta Corte entende pela idoneidade da fundamentação que decreta a prisão preventiva com base na gravidade concreta da conduta em razão da substancial quantidade da droga apreendida, sobretudo quando aliada a outras circunstâncias caracterizadoras do risco à ordem pública, como na espécie, conforme se observa do seguinte julgado:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. FUNDAMENTAÇÃO SUFICIENTE. RECURSO NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. O Juiz de primeira instância apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar a quantidade de droga apreendida (11,67 Kg de maconha).
+3. Dadas as apontadas circunstâncias do fato e as condições pessoais do acusado, não se mostra adequada e suficiente a substituição da prisão preventiva por medidas a ela alternativas (art. 282 c/c art. 319 do CPP).
+4. Recurso não provido." (RHC 132.409/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020; sem grifos no original.)
+Destaco que a suposta existência de condições pessoais favoráveis não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes um dos requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema, como ocorre, in casu. Exemplificativamente:
+"PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. QUANTIDADE DE ENTORPECENTE APREENDIDO. PREDICADOS PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA.
+ ..
+3. Condições subjetivas favoráveis do recorrente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória (Precedentes).
+4. Recurso desprovido."(RHC 90.306/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/08/2018, DJe 04/09/2018; sem grifos no original.)
+Por fim, mostra-se inviável a aplicação de medidas cautelares diversas da prisão, pois diante da gravidade concreta do delito demonstram serem insuficientes para acautelar a ordem pública (HC 550.688/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 17/03/2020; e HC 558.099/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 05/03/2020).
+Ante o exposto, CONHEÇO, EM PARTE, dohabeas corpuse, NESSA PARTE, DENEGO a ordem.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. INCOMPATIBILIDADE DA PRISÃO COM A SITUAÇÃO DE PANDEMIA. TESE NÃO APRECIADA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. ESPECIAL GRAVIDADE DA CONDUTA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. HABEAS CORPUS CONHECIDO, EM PARTE, E, NESSA PARTE, DENEGADA A ORDEM.
