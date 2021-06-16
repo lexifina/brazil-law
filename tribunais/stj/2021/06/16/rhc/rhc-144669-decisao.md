@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por Luan Vieira Coelho contra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais (HC n.1.0000.21.021373-2/000 - fls. 107/112), que manteve a prisão preventiva decretada pelo Juízo de primeiro grau, em razão da suposta prática docrime de roubo circunstanciado (fls. 61/63).
+O recorrente alega falta de fundamentação idônea no decreto prisional, que teria sido baseado apenas na gravidade abstrata docrime. Sustenta ser primário. Aduz que, em caso de eventual condenação, faria jus ao cumprimento da pena em regime menos gravoso. Nesses termos, pretende a revogação da custódia ou, subsidiariamente, a aplicação de medidas cautelares alternativas.
+Liminar indeferida (fls. 138/139), informações prestadas (fls. 156/158), o Ministério Público Federal opinou pelo não provimento do recurso, em parecer da lavra daSubprocuradora-Geral da RepúblicaJulieta E. Fajardo Cavalcanti de Albuquerque, assim ementado (fl. 160):
+PROCESSUAL PENAL. RHC. CRIMES DE ROUBO MAJORADO E CORRUPÇÃO DE MENORES. PRISÃO PREVENTIVA.MANUTENÇÃO. GRAVIDADE CONCRETA DA CONDUTA.PERICULOSIDADE DO AGENTE. GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA.MEDIDAS CAUTELARES ALTERNATIVAS INSUFICIÊNCIA.
+PARECER PELO DESPROVIMENTO DO RECURSO.
+É o relatório.
+De acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas, caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+OJuízo de primeiro grau decretou a prisão preventiva, tendo em vista que o recorrente,em plena via pública,surpreendeua vítima, com violência, e subtraiu seu aparelho celular,com uso de armaarma de fogo e na companhia de um menor, que portavauma faca (fl. 62).
+O Tribunal a quo, por sua vez, manteve a prisão cautelar, entendendo-a idoneamente fundamentada(fls. 107/112))
+Como se vê, a custódia está idoneamente fundamentada na garantia da ordem pública, tendo em vista o modus operandi e a gravidade concreta dodelitopraticado.
+A propósito:
+PROCESSO PENAL. HABEAS CORPUS. ROUBO MAJORADO. ARMA DE FOGO. CONCURSO DE AGENTES. CORRUPÇÃO DE MENOR. RECORRER EM LIBERDADE. GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE. GRAVIDADE CONCRETA.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. Segundo o disposto no art. 387, § 1º, do Código de Processo Penal, "o juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta".
+3. É válida a utilização da técnica da fundamentação per relationem, em que o magistrado se utiliza de trechos de decisão anterior ou de parecer ministerial como razão de decidir, desde que a matéria haja sido abordada pelo órgão julgador, com a menção a argumentos próprios, como na espécie, uma vez que a instância antecedente, além de fazer remissão a razões elencadas pelo Juízo natural da causa, indicou os motivos pelos quais considerava necessária a manutenção da prisão preventiva do réu e a insuficiência de sua substituição por medidas cautelares diversas (RHC n. 94.488/PA, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/4/2018, DJe 2/5/2018).
+4. No caso, a prisão foi mantida para o resguardo da ordem pública, em decorrência da periculosidade do paciente e do modus operandi da conduta narrada, consistente em roubo cometido com violência exercida por meio do emprego de arma e concurso de pessoas (inclusive facilitando a corrupção de menor de idade), tendo o paciente rendido a vítima, motorista de UBER, que conduzia seu veículo com a finalidade de atender uma chamada, o que justifica a decretação e manutenção da prisão preventiva e a consequente negativa do direito de recorrer em liberdade.
+5. Ordem denegada.
+(HCn. 546.658/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/3/2020 - grifo nosso)
+HABEAS CORPUS. PROCESSUAL PENAL. CRIMES DE HOMICÍDIO QUALIFICADO, CONSUMADO E TENTADO. PRISÃO PREVENTIVA. CIRCUNSTÂNCIAS DOS CRIMES. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. CONTEMPORANEIDADE. TESE NÃO APRECIADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. ORDEM DE HABEAS CORPUS PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+1. A prisão preventiva foi suficientemente fundamentada, nos termos do art. 312 do Código de Processo Penal, destacando-se a necessidade da custódia para garantia da ordem pública, em razão da especial gravidade dos fatos delituosos.
+2. No caso, verifica-se dos autos que o Paciente, em concurso de pessoas, teria envolvimento em dois assassinatos e uma tentativa de homicídio, todos os crimes qualificados por motivo fútil, constando, ainda, que os executores, encapuzados, portavam pistola e fuzis, faziam alusão à organização criminosa Comando Vermelho, tendo efetuado mais de 40 (quarenta) disparos para o alto, como forma de atemorizar e conferir viés de exemplaridade à comunidade local, durante e após os atos.
+3. O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Ministro Dias Toffoli, Segunda Turma, julgado em 6/10/2017, DJe 26/10/2017).
+ ..
+5. Ordem de habeas corpus parcialmente conhecida e, nessa extensão, denegada.
+(HC n. 459.437/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 7/11/2018 - grifo nosso).
+Ademais, nos termos da jurisprudência desta Corte, eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva.
+Registro, também, que, concretamente demonstrada pelas instâncias ordinárias a necessidade da custódia, não se afigura suficiente a fixação de medidas cautelares alternativas.
+Por fim,não se pode dizer que a medida é desproporcional emeventual condenação que poderá sofrer ao final do processo, pois, em sede de habeas corpus, inviável concluir que ao réu será imposto regime menos gravoso que o fechado ou deferida a substituição de penas, especialmente em se considerando as particularidades do delito denunciado (RHC n.108.067/MG, Ministro Jorge Mussi, Quinta Turma, DJe 12/4/2019).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO.PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. MODUS OPERANDI. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso improvido.
