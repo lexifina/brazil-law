@@ -1,0 +1,34 @@
+Decisão:
+    Vistos.
+    Recurso ordinário em habeas corpus, interposto por Alexei Mikaelis Zappi, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC nº 618.167/SC, Relatora a Ministra Laurita Vaz.
+    Segundo os autos, o recorrente está condenado como incurso no art. 155, § 4.º, inciso III, do Código Penal, às penas de 2 (dois) anos e 6 (seis) meses de reclusão, em regime inicial fechado, e 12 (doze) dias multa.
+    Sustenta a defesa do recorrente que o Tribunal de origem
+    “aumentou a pena-base de forma desproporcional (1/4 da pena base) em virtude da negativação de apenas uma circunstância judicial, considerando que este Egrégio Supremo Tribunal Federal tem entendimento firmado que o aumento da pena, em razão das circunstâncias judiciais negativadas, deve ficar próxima da fração de 1/6 para cada circunstância.”
+    Afirma “ausente fundamentação para o aumento em fração superior a 1/6, [sendo] necessária à adequação da fração de aumento de pena.”
+    Argumenta-se, ainda, que
+    “o Tribunal de origem justificou a fixação do regime fechado na reincidência do r Agravante e na existência de circunstância judicial negativa (maus antecedentes).
+    Todavia, tal fundamentação não deve prevalecer no caso em tela, eis que necessária à utilização do princípio da razoabilidade para a fixação do regime inicial de cumprimento de pena. ”
+    Para a defesa, “o Agravante ostenta apenas uma circunstância judicial desfavorável e sua pena definitiva restou fixada em 2 anos e 6 meses de reclusão em um crime sem violência ou ameaça.”
+    Logo, “o regime semiaberto mostra-se razoável e é o que mais atenderá aos objetivos da pena.”
+    Requer o provimento do presente recurso ordinário constitucional, “para que, mesmo pela via da concessão de Habeas Corpus de ofício, readequar o aumento da pena-base para 1/6 e estabelecer o regime inicial aberto ou semiaberto de cumprimento de pena, em razão das peculiaridades do caso concreto.”
+    O Ministério Público Federal, em parecer de lavra do Subprocurador-Geral da República Wagner Natal Batista, opinou pelo desprovimento do recurso.
+    Examinados os autos, decido.
+    Transcrevo a ementado do aresto recorrido:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. PENA-BASE. EXASPERAÇÃO. CRITÉRIO MATEMÁTICO. INAPLICABILIDADE. DESPROPORCIONALIDADE. INEXISTÊNCIA. PENA INFERIOR A QUATRO ANOS DE RECLUSÃO. REGIME PRISIONAL FECHADO. POSSIBILIDADE. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MAUS ANTECEDENTES. PENA-BASE ACIMA DO MÍNIMO LEGAL. REINCIDÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+    1. O quantum de aumento a ser implementado em decorrência do reconhecimento das circunstâncias judiciais desfavoráveis fica adstrito à prudente discricionariedade do juiz, não havendo como proceder ao seu redimensionamento nesta via. Ressalvados os casos de manifesta ilegalidade ou arbitrariedade, é inadmissível a revisão dos critérios adotados na dosimetria da pena por esta Corte Superior.
+    2. Uma vez que o aumento da pena-base não está adstrito a critérios matemáticos e considerando-se o intervalo entre as penas mínima e máxima abstratamente cominadas ao delito de furto qualificado (2 a 8 anos de reclusão), não se verifica desproporcionalidade na exasperação da pena em 6 (seis) meses de reclusão, em razão do reconhecimento dos maus antecedentes.
+    3. Embora a pena fixada não alcance 4 (quatro) anos, pela existência de circunstância judicial desfavorável ao Agravante que levou à fixação da pena-base acima do mínimo legal, além do reconhecimento da reincidência, está justificado o estabelecimento do regime prisional mais severo, conforme a interpretação conjunta dos arts. 59 e 33, §§ 2.º e 3.º, do Código Penal.
+    4. Agravo regimental desprovido.”
+    Pelo que há no acórdão recorrido do Superior Tribunal de Justiça, não se vislumbre ilegalidade flagrante, abuso de poder ou teratologia que justifique o provimento do recurso. Pelo contrário, o aresto em questão encontra-se suficientemente motivado, restando justificado o convencimento formado, além de se mostrar consentâneo com a jurisprudência da Corte, no sentido de que a presença de circunstância judicial desfavorável e a reincidência, autorizam a imposição do regime inicial mais gravoso.
+    Cito precedentes:
+    “RECURSO ORDINÁRIO – HABEAS CORPUS ORIGINÁRIO – CONVERSÃO. Considerada a envergadura da ação, no que voltada à preservação da liberdade de ir e vir do cidadão, mostra-se cabível receber, como habeas corpus originário, recurso ordinário inadmissível. PENA – REGIME DE CUMPRIMENTO – REINCIDÊNCIA. A reincidência afasta regime menos gravoso. PENA – RESTRITIVA DA LIBERDADE – SUBSTITUIÇÃO – REINCIDÊNCIA – INVIABILIDADE. Ante a reincidência, fica afastada a substituição da pena privativa de liberdade por restritiva de direitos – artigo 44, § 3º, do Código Penal.” (RHC 181.789/SP, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 24/6/20)
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. DECISÃO MONOCRÁTICA. INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁ-LA. MANUTENÇÃO DA NEGATIVA DE SEGUIMENTO. REGIME INICIAL FECHADO. CIRCUNSTÂNCIAS JUDICIAIS REPUTADAS DESFAVORÁVEIS. AGRAVO REGIMENTAL DESPROVIDO.” (HC nº 138.186-AgR/MS, Primeira Turma, Relator o Ministro Edson Fachin, DJe 6/3/17)
+    “Recurso ordinário em habeas corpus. 2. Uso de documento falso. Condenação. Fixação de regime inicial fechado. 3. Agravo provido no STJ, para estabelecer o regime semiaberto para cumprimento inicial da pena privativa de liberdade. 4. Pedidos de concessão de regime aberto e de substituição da pena privativa de liberdade por restritivas de direitos. Impossibilidade. Valoração negativa das circunstâncias judiciais do art. 59 do CP (maus antecedentes). 5. Ausência de constrangimento ilegal. Recurso ordinário a que se nega provimento.” (RHC nº 131.736/SP, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 16/9/16)
+    Por fim, a pretendida redução da pena-base do recorrente não reúne condições de prosperar, pois, como é sabido, está cristalizado na jurisprudência do Supremo Tribunal Federal o entendimento de que “[n]ão se presta o habeas corpus para ponderar, em concreto, a suficiência das circunstâncias judiciais invocadas pelas instâncias antecedentes para a majoração da pena-base” (RHC nº 132.361/SP, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe 22/4/16).
+    No mesmo sentido: HC nº 129.920/SP-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe 18/12/15; RHC nº 127.819/DF-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe 14/2/15; RHC nº 127.254/SP, Segunda Turma, de minha relatoria, DJe 29/5/15.
+    Ante o exposto, nos termos do art. 192, caput, c/c o art. 312, caput, ambos do Regimento Interno, nego provimento ao recurso ordinário.
+    Publique-se.
+    Brasília, 16 de junho de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
