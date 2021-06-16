@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal Regional Federal da 3ª Região cuja ementa é a seguinte:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. SOLIDARIEDADE TRIBUTÁRIA. GUARDA NOTURNA DE SANTOS. NATUREZA JURÍDICA PRIVADA. I - Guarda Noturna de Santos que foi criada como associação privada. II - Alterações legislativas que em nenhum momento modificaram sua natureza jurídica, carecendo de fundamento legal sua caracterização como entidade autárquica. III. Agravo de instrumento desprovido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, arecorrente aponta ofensa ao art. 1.022 do CPC/2015, bem como aos arts. 131, 332, 333 e 334 do CPC/73 e ao art. 124 do CTN,alegando, em síntese, que: (a) o acórdão recorrido manteve-se omisso, mesmo após a oposição de embargos de declaração; (b)"arecorrente se insurge contra os critérios de valoração das provas constantes dos autos adotados pelos I. Julgadores, que não levaram em consideração a existência de comprovação nos autos da responsabilidade solidária do ESTADO DE SÃO PAULO em relação aos créditos previdenciários exequendos, tendo em vista a natureza jurídica de autarquia da GUARDA NOTURNA DE SANTOS"; (c) "incontestável, portanto, a solidariedade do Estado de São Paulo em relação aos créditos DEBCAD nºs 35.826.849-4 e 35.826.853-2, cobrados nos autos da execução fiscal nº 0001732-03.2009.4.03 6104/SP tendo em vista a natureza jurídica de autarquia da GUARDA NOTURNA DE SANTOS".
+Em suas contrarrazões, o recorrido pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi admitido pelo Tribunal de origem.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que se refere à alegada afronta ao art. 1.022 do CPC/2015, a recorrente se limita a mencionar a existência de omissão, de modo genérico, sem especificar em relação a qual tema seria necessário o pronunciamento do Tribunal de origem.
+Assim, a alegação genérica de violação do referido dispositivo atrai, por analogia, a incidência da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, destaca-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. TÍTULO JUDICIAL. LIQUIDEZ. REEXAME. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. O recurso especial que indica violação do artigo 1.022 do Código de Processo Civil de 2015, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.
+2. Rever a conclusão do acórdão, que concluiu pela liquidez do título judicial e a existência de valores incontroversos, encontra óbice na Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1077151/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/02/2018, DJe 14/02/2018)
+Por outro lado, constou do acórdão recorrido que:
+Com efeito, carece de fundamento legal a caracterização da executada corno entidade autárquica, tendo vista ter sido criada como associação particular pelo Decreto -Lei nº 11.724/1940 e, mesmo após as alterações legislativas que culminaram na sua revogação, em nenhum momento sua natureza jurídica foi modificada.
+Anoto que, após a revogação do referido Decreto -Lei, a executada passou a ser regida integralmente pela Lei nº 11.275/02, que disciplina o ( "registro de entidades públicas ou privadas que mantêm serviço de vigilância, entidades de guardas noturnos particulares e profissionais autónomos de segurança comunitária para guardas de rua".
+Destarte, descabida a responsabilização do Estado de São Paulo com fundamento no artigo 124, 1 do CTN.
+Como se verifica, o Tribunal de origem resolveu a controvérsia com base na legislação estadual. Ressalte-se que a própria recorrente, ao afirmar que há "total ingerência do Estado de São Paulo sobre a Guarda Noturna de Santos", leva em consideração tal legislação.
+Nesse contexto, não obstante o recorrente tenha apontado preceito de lei federal para fundamentar seu inconformismo, verifica-se que não é viável a reforma do aresto atacado, porquanto atrelada à verificação acerca da ocorrência ou não de afronta à legislação estadual.
+Aplica-se, por analogia, o disposto na Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário."
+No mais,verifica-se que, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado -e se reconhecer que houve equívoco no critério de valoração das provas -, é necessário o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+Diante do exposto, com base no art. 932, III, do CPC/2015 c/c o art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ.ALEGAÇÃO GENÉRICA. FUNDAMENTAÇÃO DEFICIENTE. ÓBICE DA SÚMULA 284/STF (POR ANALOGIA). DISCUSSÃO SOBRE A ADEQUADA VALORAÇÃO DAS PROVAS. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ.DISCUSSÃO SOBRE A LEGITIMIDADE PASSIVA DO ESTADO DE SÃO PAULO. ACÓRDÃO RECORRIDO BASEADO EM NORMA LOCAL. ÓBICE DA SÚMULA 280/STF (POR ANALOGIA).RECURSO NÃO CONHECIDO.
