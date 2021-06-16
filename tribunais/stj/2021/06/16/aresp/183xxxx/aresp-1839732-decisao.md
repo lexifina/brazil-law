@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial pela incidência das Súmulas 283do STF e 83 do STJ.
+Alega o agravante que a súmula nº 283 do STF não é barreira ao presente processo, poistodos os argumentos foram rechaçados veementemente(fl. 552).
+Alega, outrossim, a inaplicabilidade da Súmula 83 do STJ à espécie, uma vez que referida súmula dirige-se exclusivamente aos recursos especiais manejados pela via do art. 105, III, letra "c" da Constituição Federal(fl. 555).
+Requer o provimento do agravo para que o recurso especial seja processado.
+Apresentada contraminuta àfl. 566, o Ministério Público Federal manifestou-se pelo não conhecimento do agravo, ou, caso conhecido, por seu não provimento.
+O agravo não merece ser conhecido, tendo em vista a ausência de impugnação aos fundamentos da decisão agravada.
+Conforme relatado, a decisão de fls. 535-537 inadmitiu o apelo pela incidência das Súmula 283/STF e 83/STJ.
+No agravo em recurso especial, o agravante deixou de impugnar especificamente os fundamentos da decisão recorrida, limitando-se a reiterar argumentos lançados no apelo especial e alegara não incidência da súmula283 do STF, vez que todos o argumento foram rechaçados; e, quanto àSúmula 83/STJ, argumentou que esta dirige-se, exclusivamente, aos recursos especiais interposto com fundamento no art. 105, III, c, da Constituição da República.
+Consoante firme jurisprudência desta Corte Superior, a Súmula 83 do STJ é aplicável ao recursos especiais interpostos tanto pela alínea c quanto pela alínea a do permissivo constitucional.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. DECISÃO DA PRESIDÊNCIA DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N.º 83/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. É pacífico nesta Corte Superior que o óbice da Súmula n.º 83/STJ aplica-se tanto aos recursos especiais interpostos com fundamento na violação de lei federal (alínea a) quanto aos interpostos com fundamento na existência de divergência jurisprudencial (alínea c).
+2. O Tribunal de origem inadmitiu o recurso especial com amparo na Súmula n.º 83 desta Corte Superior. Todavia, nas razões do agravo contra esta decisão, o Agravante não trouxe nenhum precedente, não havendo a efetiva impugnação deste fundamento.
+3. Agravo regimental desprovido.(AgRg no AREsp 1620096/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/05/2020, DJe 22/05/2020.)
+Destarte, tendo o Tribunal de origem inadmitido o recurso especial com fundamento na Súmula 83/STJ, incumbe à parte agravante, com vistas a infirmar a conclusão da Corte a quo,apresentar precedente contemporâneo ou mais recente em sentido contrário aoapresentado na decisão agravada.
+Vale lembrar que ao recorrente incumbe demonstrar o equívoco da decisão em face da qual se insurge, não bastando a impugnação genérica dos fundamentos da decisão agravada, sendo imprescindível que impugne todos os óbices por ela apontados de maneira específica e suficientemente demonstrada.
+Por tal motivo, incide, ao caso, o art. 932, III, do CPC, e, por analogia, a Súmula 182/STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." A propósito, confira-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE QUADRILHA. VIOLAÇÃO DOS ARTS. 381, III, E 619, 231 E 234, TODOS DO CPP E MALFERIMENTO DO ART. 288 DO CP. AGRAVO INTERNO QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICABILIDADE DA SÚMULA 182/STJ. NEGATIVA DE VIGÊNCIA DOS ARTS. 33, § 2º, "C" E § 3º, 44, 59 E 62, I, TODOS DO CP. DOSIMETRIA DA PENA. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. INEXISTÊNCIA DE ILEGALIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Os recorrentes não se insurgiram no agravo interno quanto à incidência da Súmula nº 568/STJ, aplicado ao pleito de violação dos artigos 381, III, 619, 231 e 234 619, todos do CPP, bem como quanto à aplicação da Súmula nº 7/STJ, incidente sobre à alegação de ofensa ao artigo 288 do Código Penal, fato este que implica, quanto aos pontos, na aplicação do enunciado 182 da Súmula deste STJ.
+ ..
+3. Agravo regimental a que se nega provimento (AgRg no AREsp 962.681/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/09/2016, DJe 10/10/2016).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS. ART. 1.021, § 1º, do CPC. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+ ..
+2. É inviável o agravo regimental ou interno que deixa de atacar especificamente todos os fundamentos da decisão agravada, consoante o disposto no art. 1.021, § 1º, do CPC e na Súmula 182 do STJ. Precedentes.
+3. Agravo regimental não conhecido (AgRg no AREsp 1273071/GO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 04/12/2018, DJe 17/12/2018).
+Ante o exposto, não conheço do agravo.
+Publique-se.
+Intimem-se.
