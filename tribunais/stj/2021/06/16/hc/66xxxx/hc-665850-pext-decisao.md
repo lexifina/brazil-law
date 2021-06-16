@@ -1,0 +1,32 @@
+DECISÃO
+WENDER GONÇALVES DE MORAES RODRIGUES apresenta pedido de extensão dos efeitos do acordão proferido pela Quinta Turma deste Tribunal no julgamento do recurso do agravo regimental no HC n. 665.850/GO, assim ementado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. WRIT NÃO CONHECIDO. FLAGRANTE PRESUMIDO. REQUISITOS LEGAIS. ANÁLISE DE MÉRITO. NÃO DEMONSTRAÇÃO DE FLAGRANTE ILEGALIDADE. SÚMULA N. 691 DO STF. AUSÊNCIA DE NOMEAÇÃO DE DEFENSOR DATIVO. CONVERSÃO DO FLAGRANTE EM PREVENTIVA. CERCEAMENTO DE DEFESA. NULIDADE. OCORRÊNCIA. SUPERAÇÃO DA SÚMULA N. 691 DO STF. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. Não demonstrada, de plano, flagrante ilegalidade apta a justificar a superação da Súmula n. 691 do STF, a matéria de fundo não pode ser enfrentada pelo STJ, sob pena de indevida supressão de instância.
+2. A nomeação infrutífera de defensor dativo pelo magistrado não autoriza a realização de atos processuais que possam resultar na decretação da prisão sem que seja dada ao acusado a oportunidade de constituir advogado, sob pena de violação do princípio da ampla defesa.
+3. Caracteriza flagrante constrangimento ilegal apto a afastar a aplicação da Súmula n. 691 do STF o prosseguimento do trâmite processual com a decisão de conversão do flagrante em prisão preventiva sem a oportunidade de o acusado constituir defesa técnica.
+4. Agravo regimental parcialmente provido.
+Em suas razões, o requerente alega quefoi preso em flagrante,no dia 30 de abril de 2021, pela suposta prática dos crimes capitulados nos arts. 158, § 1º, e 288 do Código Penal e 12 da Lei n. 10.826/2003.
+Afirma que, no dia 1º de maio de 2021, o auto de prisão em flagrante foiremetido ao Poder Judiciárioem plantão forense, à semelhança do que ocorreracom o paciente original.
+Aduz que, ao analisar o flagrante, a Juíza, sem ouvir a defesa, proferiu decisão nos autos do mesmo procedimento (n.5212847-43.2021.8.09.0085), convertendo a prisão em flagrante em prisão preventiva.
+Registra que "o decreto preventivofoi proferido nos mesmos autos do procedimento originário, e de igual forma como ocorreu no referente ao paciente TIAGO SOARES SANTOS WOLPP, a magistrada se limitou a discorrer sobre os resultados de nações de busca e apreensão, elementos de prova que certamente serão enfrentados no momento próprio, sem que fizesse a necessária correlação entre fatos concretos e a necessidade da imposição de preventiva" (fl. 305).
+Argumenta que a falta de manifestação da defesa constitui nulidade absoluta.
+Ressalta que, da mesma forma que ocorreu com o paciente original, não houve o alegado flagrante, devendo ser afastado o fundamentode que os agentes estatais estavam em constantes diligências, pois já nãohavia mais perseguição.
+Pleiteia a possibilidade de aplicação de medida diversa da prisão. Salienta que goza de predicados pessoais favoráveis, além de ser primário.
+Requer o deferimento do pedido.
+É o relatório. Decido.
+O pedido merece ser parcialmente acolhido.
+Inicialmente, no que se refere à ilegalidade do flagrante presumido, não é possível conhecer dopedido, na medida em que, no acórdão, que deuparcial provimento ao agravo regimental,destacou-se que "a situação não foi tratada pela Corte de origem até o momento, pois a discussãoos autos encontra óbice na Súmula n. 691 do STF" (fl. 559).
+Também se ressaltouque "as alegações do agravante não expõem, nesse ponto, flagrante ilegalidade apta a justificar a superação do óbice sumular, limitando-se a discutir situação fática, cuja análise, além de caracterizar indevida supressão de instância, demandaria necessária produção de provas, procedimento inviável na estreita via do habeas corpus" (fl 590).
+No mais, o pedido de extensão merece prosperar.
+Observa-se que o pedido de extensão, nos termos do art. 580 do CPP, é direcionado aos casos em que há concurso de agentes e identidade fático-processual, ou seja, os motivos da decisão que beneficiou uma das partesnão podem ser de caráter exclusivamente pessoal para que possa haver o compartilhamento da concessão da ordem.
+De acordo com o entendimento doSuperior Tribunal de Justiça,a extensão do benefício de um dos corréus aos demais fica condicionada à identidade das situações fático-processuais e à inexistência de circunstância de caráter eminentemente pessoal (HC n. 447.378/SC, relator Ministro Jorge Mussi, DJe de 17/10/2018; HC n. 398.278/MG, relator Ministro Ribeiro Dantas, DJe de 15/8/2018).
+Na espécie, verifica-se que, à semelhança do paradigma, o corréuWENDER GONÇALVES DE MORAES RODRIGUES não foi assistido por advogado quando da conversão do flagrante em preventiva, tampouco lhe foi conferido prazo para constituir patrono de sua escolha.
+A magistrada, sob a justificativa de dar prosseguimento à marcha processual, deixou de nomear outro defensor para representar o paradigma, o que resultou em claro prejuízo para a defesa.
+Ademais, em mesma decisão, a magistrada, assim se manifestou (fls. 111-112):
+Preliminarmente, considerando a ausência de defensor dativo para atuar na Comarca em finais de semana e, tendo sido tentada a nomeação de advogado que acompanhou um dos acusados perante a autoridade policial, todavia, infrutífera, passo a decidir.
+No caso em apreço, não vislumbro irregularidade no procedimento flagrancial. Ao contrário, a prisãofoi efetuada legalmente, configurando o flagrante previsto no artigo 302, I, do Código de Processo Penal.
+Constam do procedimento as advertências legais quanto aos direitos constitucionais dos presos, nota de culpa e relatório médico, inexistindo vícios formais ou materiais capazes de macular a peça de comunicação, motivo pelo qual HOMOLOGO o auto de prisão em flagrante.
+No caso, a despeito da reprovabilidade das condutas imputadas ao requerente, deve-se reconhecer a nulidade da decisão que converteu o flagrante em prisão preventiva.
+Ante o exposto, defiro parcialmente o pedidopara estender aWENDERGONÇALVES DE MORAESRODRIGUES os efeitosdo acórdão que deu parcial provimento ao agravo regimentalem favor do corréu THIAGO SOARES SANTOS WOLPP e anular a decisão que converteu o flagrante em prisão preventiva, suspendendo seus efeitos e assegurando ao requerente o direito de responder ao processo em liberdade, ressalvada a hipótese de estar cumprindo pena por outro processo ou de haver contra ele mandado de prisão cautelar.
+Comunique-se com urgência ao Tribunal de origem e ao Juízo competente para a adoção de medidas necessárias ao cumprimento da presente decisão.
+Publique-se. Intimem-se.
