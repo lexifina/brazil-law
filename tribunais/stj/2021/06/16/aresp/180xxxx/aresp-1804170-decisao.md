@@ -1,0 +1,63 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por COOPERATIVA DE AGRICULTORES PARCEIROS DA REGIAO CENTRO OESTE DO ESTADO LTDA,contra decisão do Tribunal de Justiçado Estado do Rio Grande do Sulque não admitiu recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA C/C MANUTENÇÃO DE POSSE. PRELIMINAR DE NULIDADE DA SENTENÇA. REJEIÇÃO. DECISÃO FUNDAMENTADA. MÉRITO. CONTRATO DE LOCAÇÃO CELEBRADO ENTRE AS PARTES. MANUTENÇÃO DE POSSE. AUSÊNCIA DE TURBAÇÃO. ARTIGO 561 DO CÓDIGO DE PROCESSO CIVIL. RECURSO PROVIDO, EM PARTE. UNÂNIME.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte recorrente alega ofensa aos arts. 85, §10, 86, 493 e 1.022, inciso II, todos do Código de Processo Civil, sustentando, em síntese, omissão no v. acórdão quanto ao critério para distribuição e fixação do ônus sucumbencial, qual seja, a quantidade de pedidos, e no que se refere aos reflexos da ausência de turbação na perda do objeto e na sucumbência; a sucumbência recíproca das partes, mormente pelo fato de que o caso em tela trata de pedidos sucessivos; bem como dissídio pretoriano.
+Apresentadas contrarrazões (e-STJ fls. 449-460).
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/2015, conforme Enunciado Administrativo Nº 3/STJ.
+Ato contínuo, percebe-se que a irresignação não merece acolhida.
+A parte recorrente, em sede de recurso especial, alega ofensaaos arts. 85, §10, 86, 493 e 1.022, inciso II, todos do Código de Processo Civil, sustentando, em síntese, omissão no v. acórdão quanto ao critério para distribuição e fixação do ônus sucumbencial, qual seja, a quantidade de pedidos, e no que se refere aos reflexos da ausência de turbação na perda do objeto e na sucumbência; a sucumbência recíproca das partes, mormente pelo fato de que o caso em tela trata de pedidos sucessivos; bem como dissídio pretoriano.
+O acórdão recorrido, por sua vez, assim assentou (e-STJ fls. 276-279):
+O contrato de locação de imóveis urbanos, regulado pela Lei n. 8.245/91, é aquele pelo qual uma das partes, denominada locadora, mediante remuneração paga por outra, denominada locatária, compromete-se a fornecer, durante prazo determinado ou não, o uso e gozo de um imóvel urbano. Assim, conforme já destacado pelo MM. Juízo a quo, são características principais do contrato de locação de imóvel a cessão do bem, o prazo e o preço.
+Assim, observado o instrumento das fls. 40/45, concluo que se encontram preenchidos os requisitos legais, cedendo a locadora Pastifício Spiendore Ltda. à locatária COOPARCENTRO, pelo prazo de 08 (oito) anos, o uso e gozo do imóvel localizado na Rua Antônio Olvídio Severo, n. 1901, em Santa Maria/RS, mediante o preço total de R$530.000,00, a ser pago com a liquidação total do contrato de confissão de dívidas anteriormente celebrado entre as mesmas partes.
+De qualquer sorte, tal declaração, pretendida desde a exordial, não modifica os termos da conclusão da sentença ora apelada que, conforme o terceiro parágrafo da fl. 160, já consignou que, reconhecida a existência de negócio jurídico entre as partes (ainda que atípico fosse), garantida estaria a utilização do imóvel de propriedade da ré pela parte autora.
+Por outro lado, relativamente ao pedido de manutenção de posse formulado na exordial, ainda que declarada a validade do contrato (de locação) celebrado entre as partes e concluído que a contratação lhe garante o uso e o gozo do bem, improcede o pedido por não atendidos os requisitos do art. 561 do CPC/15. (..)
+Ante o exposto, DOU PROVIMENTO, EM PARTE, ao recurso apenas para o efeito de declarar a validade do contrato de locação celebrado entre as partes e acostado às fls. 40/45 dos autos. No entanto,entendo que tal declaração, em verdade, não implica em sucumbência da ré, motivo por que mantenho a condenação da autora ao pagamento da integralidade do ônus da sucumbência, conforme arbitrados em primeiro grau.
+Com efeito, quanto à alegada ofensa ao art. 1.022, inciso II,do Código de Processo Civilde 2015,vislumbra-se a não ocorrência de nulidade poromissão, contradição, obscuridade, ou erro material, tampouco de negativa de prestação jurisdicional, no acórdão que, em suma, conclui, de maneira integral e com fundamentação suficiente e clara,pelo provimento parcial do pedido, apenas para declarar a validade do contrato de locação, sendo que tal declaração, em verdade, não implica sucumbência da ré, motivo pelo qual manteve a condenação da autora ao pagamento da integralidade do ônus da sucumbência, conforme arbitrados em primeiro grau.
+Ademais, destaca-se que o juízo não está obrigado a se manifestar a respeito de todas as alegações e dispositivos legais suscitados pelas partes.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. 2. RESPONSABILIDADE PELOS SERVIÇOS PRESTADOS. INTERPRETAÇÃO DE CLÁUSULAS DA AVENÇA E REEXAME DE PROVAS. DESCABIMENTO. SÚMULAS 5 E 7 DO STJ. 3. PRINCÍPIOS DA CONGRUÊNCIA OU DA ADSTRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS. SÚMULAS N. 282 e 356 DO STF. 4. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. A revisão das conclusões estaduais (quanto à responsabilidade pelos serviços contratados) demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7 do STJ.
+3. Se o conteúdo normativo contido no dispositivo apresentado como violado não foi objeto de debate pelo Tribunal de origem, evidencia-se a ausência do prequestionamento, pressuposto específic o do recurso especial. Incide, na espécie, o rigor das Súmulas n. 282 e 356 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1487975/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020) - g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO INEXISTENTES. HONORÁRIOS. ARBITRAMENTO. CLÁUSULA CONTRATUAL. VALIDADE E EFICÁCIA DECLARADAS. PUBLICIDADE DO ATO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Afasta-se a violação dos arts. 489, § 1º, e 1.022 do CPC/2015 quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+3. A ausência de impugnação dos fundamentos do acórdão recorrido impede o conhecimento do recurso especial. Súmula nº 283/STF.
+4. Rever o posicionamento do tribunal de origem, que decidiu pelo não arbitramento dos honorários, encontra os óbices das Súmulas nºs 5 e 7/STJ.
+5. O reexame do conjunto fático-probatório da causa obsta a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+6. Agravo interno não provido.
+(AgInt no AREsp 1198828/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/09/2018, DJe 21/09/2018) - g.n.
+De outra parte,verifica-se que a pretensão da parte ora recorrente, deveras,não merece prosperar, haja vista que, em sede de recurso especial, é inviável o reexame do quantitativo em que o autor e o réu decaíram do pedido para fins de aferir a sucumbência recíproca ou mínima, por esbarrar no óbice constante do Enunciado Nº. 07/STJ.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RELAÇÃO DE CONSUMO.VÍCIO. PRODUTO. INDENIZAÇÃO. DANO. MORAL. GRAU DE SUCUMBÊNCIA.REEXAME DE PROVAS. SÚMULA Nº 7/STJ. DISSÍDIO INTERPRETATIVO.INVIABILIDADE. MULTA. ART. 1.021, § 4º, DO CPC/2015. NÃO AUTOMÁTICA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever a conclusão da instância ordinária, que entendeu pela configuração do dano moral, demandaria o reexame das provas constantes dos autos, procedimento inviável em recurso especial em virtude do óbice da Súmula nº 7/STJ.
+3. O julgado fundado em fatos e provas não enseja a possibilidade de demonstração da similitude fática, conforme pacífico entendimento desta Corte Superior.
+4. O Superior Tribunal de Justiça tem entendimento pacífico de que a aferição do quantitativo em que autor e réu saíram vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, mostra-se inviável em recurso especial, tendo em vista o disposto na Súmula nº 7/STJ.
+5. A multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno. Precedente.
+6. Agravo interno não provido.
+(AgInt no AREsp 1732884/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/05/2021, DJe 24/05/2021) - g.n.
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ATO ILÍCITO. ACIDENTE EM ESCADA ROLANTE. LESÕES CORPORAIS. PENSIONAMENTO CIVIL. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. AUSÊNCIA DE COMPROVAÇÃO DA PERDA DA CAPACIDADE LABORAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ.DANOS MORAIS REFLEXOS. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. VERIFICAÇÃO. SÚMULA N. 7/STJ. SUCUMBÊNCIA. EXTENSÃO.AFERIÇÃO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n.
+7/STJ).
+3. No caso, a Corte local assentou que a primeira agravante não se desincumbiu do ônus de provar sua incapacidade laboral, a fim de justificar o pensionamento do art. 950 do CC/2002. Alterar esse entendimento demandaria reexame de fatos e provas, vedado em recurso especial.
+4. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais reflexos arbitrados na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal a quo não se mostra irrisório, a justificar sua reavaliação em recurso especial.
+5. Segundo entendimento jurisprudencial do STJ, "a apreciação, em recurso especial, do quantitativo em que o autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da incidência da Súmula 7 do STJ" (AgInt no AREsp n. 1.547.630/MG, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 12/4/2021, DJe 15/4/2021).
+6. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp 1516545/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 31/05/2021, DJe 07/06/2021) - g.n.
+Destarte, melhor sorte não socorre à parte agravante, inclusive quanto ao alegado dissídio pretoriano.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015.
+O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que a sentença fixou a verba honorária em 10% do valor da causa (e-STJ fl. 202), em benefício do patrono da parte recorrida, a majoração dos honorários devidos pela parte ora recorrente em 5% do valor da causa é medida adequada ao caso.
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nesta extensão, NEGAR-LHE PROVIMENTO, com majoração de honorários.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AÇÃO DECLARATÓRIA C/C MANUTENÇÃO NA POSSE DE IMÓVEL. SUCUMBÊNCIA. ALEGADA OFENSA AOART.1.022 DO CPC/2015. NÃO OCORRÊNCIA. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO. HONORÁRIOS RECURSAIS (ART. 85, §11, DO CPC/2015).
