@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 17):
+Tráfico de entorpecentes. Conversão da prisão em flagrante em preventiva fundamentada. Necessidade da custódia para a garantia da ordem pública. Constrangimento ilegal inexistente. Ordem denegada.
+O paciente foi preso em flagrante, convertido em preventiva, como incurso no art. 33 da Lei n. 11.343/2006.
+Em síntese, aimpetrante aduz ilegalidade do decreto preventivo, calcado em gravidade abstrata, e aponta condições pessoais favoráveis.
+Liminarmente e no mérito, busca a revogação da custódia.
+Na origem, processo n.1500262-13.2021.8.26.0559, a denúncia foi recebida em 8/6/2021, consoante informações processuais disponíveis na página do TJSP (acesso: 8/6/2021).
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art.34, XVIII e XX, do RISTJ.
+Como cediço, a prisão preventiva (ou o não cabimento da substituição por outra medida cautelar), admitida excepcionalmente antes do trânsito em julgado de eventual sentença penal condenatória, deverá ser justificada em concreto e de forma individualizada, nos termos do art. 312 do Código de Processo Penal.
+A conversão do flagrante em preventiva foi assim motivada (fl. 21):
+A diversidade de droga apreendida, a quantidade (816,38g de maconha e 2,24g de cocaína) e a situação fática que ensejou a prisão obstam, ao menos nessa fase, o reconhecimento da figura privilegiada, afastando a aplicação da decisão exarada pelo E. Superior Tribunal de Justiça no HC coletivo nº 596.603.
+Desse modo, a prisão cautelar revela-se necessária para garantia da ordem pública, tratando-se, ao menos por ora, do meio adequado a impedir a reiteração delitiva (arts. 312 e 314, CPP), de forma que as medidas cautelares diversas da prisão mostram-se insuficientes (art. 282, §6º do CPP). Os elementos de convicção contidos nos autos não revelam a existência das excludentes previstas no art. 23, incisos I, II e III, do Código Penal.
+Como se vê, o édito prisional respalda-se em fundamento idôneo, calcado na quantidade e diversidadedos entorpecentes apreendidos: 816,38g de maconha e 2,24g de cocaína.
+Embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC 590.232/SP - Rel. Min. Reynaldo Soares da Fonseca - Quinta Turma - DJe 28/9/2020; HC 362.727/MS - Rel. Min. Rogerio Schietti Cruz - Sexta Turma - DJe 26/04/2017; HC 325.754/RS - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - Quinta Turma - DJe 11/09/2015; HC 313.977/AL - Rel. Min. Maria Thereza de Assis Moura - Sexta Turma - DJe 16/03/2015.
+Consigne-se que a existência de condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não têm o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes outros requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema. (RHC 107.803/RS - Rel. Ministra Laurita Vaz - Sexta Turma - DJe 21/05/2020).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
