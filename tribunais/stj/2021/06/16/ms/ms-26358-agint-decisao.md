@@ -1,0 +1,9 @@
+DECISÃO
+Vistos.
+Fls. 424/445e - Trata-se de Agravo Interno (art. 1.021 do CPC) interposto contra decisão monocrática de minha lavra, mediante a qual a segurança foi denegada com fundamento na ausência de violação ao princípio do devido processo legal (fls. 416/422e).
+Em juízo de retratação, de acordo com o disposto no § 2º do art. 1.021 do Código de Processo Civil de 2015 e à vista da alteração no entendimento da Primeira Seção desta Corte acerca do tema, de rigor a reconsideração da decisão, a fim de que, oportunamente, o writ seja novamente analisado.
+Verifico, contudo, que ROSSINE NEDER BARBOSA DA COSTA impetrou Mandado de Segurança, com pedido de liminar, contra ato da Sra. Ministra de Estado da Mulher, da Família e dos Direitos Humanos, qual seja, a Portaria n. 1.469/2020, anulatória da Portaria n. 2.592/2003, que declarou anistiado político o seu falecido pai, Inaldo Miguel da Costa.
+Considerando a anterior distribuição do Mandado de Segurança n. 26.326/DF em 16.06.2020, impetrado por Maria da Conceição de Sousa de Oliveira, o qual impugnou o mesmo ato coator, formulando pedidos idênticos com base em causa de pedir semelhante, consoante destacou a autoridade coatora (fls. 364/365e), e haja vista a possibilidade de decisões conflitantes acerca do mesmo processo administrativo (art. 55, §3º, do CPC), é pertinente a consulta ao Relator daquele feito acerca de eventual prevenção.
+Posto isso, nos termos do § 2º do art. 1.021 do Código de Processo Civil, RECONSIDERO a decisão de fls. 416/422e, julgo PREJUDICADO o agravo interno de fls. 424/445e, e DETERMINO o encaminhamento dos autos, após o transcurso do prazo legal, ao Exmo. Min. Mauro Campbell Marques consultando-lhe acerca de eventual prevenção.
+Em sendo reconhecida a aludida causa de determinação da competência, caberá à Sua Excelência exercer a faculdade prevista no art. 64, §4º, do Código de Processo Civil em relação à decisão de fls. 324/329e.
+Publique-se e intime-se.
