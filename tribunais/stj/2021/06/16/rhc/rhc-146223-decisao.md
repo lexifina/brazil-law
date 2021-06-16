@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por David Sousa dos Santoscontra o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios (HC n. 0704822-87.2021.8.07.0000 - fls. 94/99),que manteve incólume a segregação cautelar decretada pelo Juízo de primeiro grau, em razão da suposta prática docrimede homicídio qualificado, na forma tentada (Processo n. 0737693-07.2020.8.07.0001 - fls. 25/30).
+O recorrente aduz a falta de fundamentação idônea no decreto prisional, que teria sido baseado apenas na gravidade abstrata do delito.Nesses termos, pretende a revogação da custódia e, subsidiariamente, a aplicação de medidas cautelares alternativas.
+Liminar indeferida (fls. 133/134), informações prestadas (fls. 137/142),o Ministério Público Federal opinou pelo não provimento do recurso, por meio de parecer proferido pelo Subprocurador-Geral da RepúblicaFrancisco de Assis Vieira Sanseverino,assim ementado (fl. 146):
+RECURSO EM HABEAS CORPUS. HOMICÍDIO E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. FASE DA PRONÚNCIA. PRISÃO PREVENTIVA. REQUISITOS DA PRISÃO PREVENTIVA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+- Decretação da prisão preventiva: fundamentação idônea da decisão que decretou a prisão preventiva do recorrente.
+- Parecer pelo desprovimento do recurso.
+É o relatório.
+De acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+No caso, o Juízo de primeiro grau decretou a prisão preventiva, sob a seguinte fundamentação (fls. 28/29- grifo nosso):
+Verifica-se, por meio desses depoimentos, em especial a confissão qualificada de DAVID, de que há indícios suficientes de que tenha sido o autor dos disparos.
+Apesar de DAVID ter afirmado que efetuou os disparos para se defender, extrai-se de seu depoimento que mesmo após uma suposta ameaça de morte feita pela vítima, o acusado DAVID saiu do local, apossou-se de uma arma de fogo e voltou, o que indica que seu real intento não era defender-se, mas provocar a vítima com o intuito de efetuar disparos de arma de fogo contra ela.
+Ressalta-se que a testemunha presencial em nenhum momento narrou que viu um homem portando faca, mas apenas um homem efetuando disparos contra a vítima.
+A capitulação é aquela descrita no art. 121, § 2º, II, IV cc art. 14, II, todos do Decreto-Lei n.º 2848/40  código penal/CP, cuja pena máxima cominada é superior a 4 anos, além de envolver violência.
+A gravidade concreta do fato se extrai pela dinâmica descrita pela prova oral, bem como pelos laudos constantes na representação.
+Com efeito, fica claro que o representado, após a vítima informar que não havia mais alimentos para lhe vender, foi tomado por ira e ao invés de ir embora e se acalmar, na verdade apossou-se de uma arma de fogo e retornou ao local para ceifar a vida da vítima. Essa premeditação demonstra que havia um dolo intenso de praticar o homicídio.
+Ademais, conforme narrado pela vítima, o acusado é dado a causar terror desnecessário à comunidade em que vive, o que reforça a sua periculosidade.
+Por fim, o acusado, mesmo condenado e em prisão domiciliar, estava circulando livremente pela via pública e ainda portava arma de fogo, o que deixa evidente que sua liberdade é um risco à ordem pública.
+O Tribunal de origem, por sua vez, manteve a segregação, entendendo-a idoneamente fundamentada, nestes termos (fls. 98/99 - grifo nosso):
+A prisão preventiva foi decretada para garantia da ordem pública, ante a gravidade concreta da conduta, evidenciada pelo seu modus operandi, conforme descrito na denúncia, suficiente por si só para incutir juízo de extrema periculosidade, apto a justificar a necessidade da medida cautelar extrema como forma de prevenção de novos delitos e resguardo da comunidade onde os delitos foram supostamente praticados.
+Isso porque, não bastasse a extrema gravidade da conduta descrita na peça acusatória, vítima e testemunhas relataram o temor que o acusado incutia nos moradores da Vila Planalto, local de sua residência.
+Tais relatos foram confirmados pelo relatório policial, onde destacado pelos policiais encarregados da investigação, o perfil violento e antissocial do acusado, envolvido em diversas outras práticas criminosas graves, inclusive crimes contra a vida.
+ ..
+A imperiosidade da medida extrema resulta, portanto, evidente, ante o elevado perigo gerado pelo estado de liberdade do acusado.
+A alegação de mera gravidade abstrata como fundamento da decisão não encontra suporte nos autos, dada a extrema gravidade da conduta em tese perpetrada, que aliada às péssimas condições pessoais do paciente, reconhecido e identificado na comunidade em que vive como pessoa violenta e envolvida em graves delitos, justifica e recomenda a manutenção de sua custódia cautelar para resguardo e sossego da incolumidade pública.
+Registre-se, por fim, a candente inadequação das medidas cautelares diversas da prisão à hipótese, haja vista o sensível risco de reiteração delitiva extraído da prognose formulada pelo juízo impetrado com base nas circunstâncias do caso concreto.
+Tenho, portanto, que o decreto de prisão preventiva repousa em hígidos fundamentos de fato e de direito, ancorados em requisitos dos arts. 312 e 313, ambos da Legislação Processual Penal, para garantia da ordem pública.
+Como se vê, a custódia preventiva está motivadana gravidade concreta do crime e no modus operandi, bem comono fato de o recorrente ter agido quando cumpria pena por outra condenação criminal, em prisão domiciliar.
+Com efeito, a jurisprudência desta Corte de Justiça é firme ao asseverar que a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar" (RHC n. 76.929/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/11/2016, DJe 29/11/2016) - (HC n. 415.653/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 9/8/2018).
+Nesse sentido:
+HABEAS CORPUS. IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. FURTO QUALIFICADO TENTADO E FALSA IDENTIDADE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. RÉU QUE POSSUI OUTROS REGISTROS CRIMINAIS ANTERIORES POR CRIME DA MESMA ESPÉCIE. RISCO DE REITERAÇÃO. NECESSIDADE DA PRISÃO PARA GARANTIA DA ORDEM PÚBLICA. SEGREGAÇÃO JUSTIFICADA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. A privação antecipada da liberdade do cidadão acusado de crime revestese de caráter excepcional em nosso ordenamento jurídico, e a medida deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal. Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em motivação concreta, sendo vedadas considerações abstratas sobre a gravidade do crime.
+3. No presente caso, a prisão preventiva está devidamente justificada para a garantia da ordem pública, em razão da periculosidade do agente, evidenciada pelo efetivo risco de voltar a cometer delitos, porquanto o paciente possui outros registros criminais pela prática de crimes contra o patrimônio. A prisão preventiva, portanto, mostra-se indispensável para garantir a ordem pública.
+4. Nos termos da orientação desta Corte, inquéritos policiais e processos penais em andamento, muito embora não possam exasperar a pena-base, a teor da Súmula 444/STJ, constituem elementos aptos a revelar o efetivo risco de reiteração delitiva, justificando a decretação ou a manutenção da prisão preventiva (RHC n. 68.550/RN, da minha relatoria, DJe 31/3/2016).
+5. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+6. Habeas corpus não conhecido.
+(HC n. 446.504/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/6/2018 - grifo nosso).
+Da mesma forma, oSupremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC n. 146.874 AgR, Ministro Dias Toffoli, Segunda Turma, julgado em 6/10/2017, DJe 26/10/2017) -(HC n. 459.437/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 7/11/2018).
+Ademais, de acordo com as informações prestadas pelo Juízo de primeiro grau, o réu não foi localizado para ser citado pessoalmente (fl. 140).
+Por fim,concretamente demonstrada pelas instâncias ordinárias a necessidade da custódia, não se afigura suficiente a fixação de medidas cautelares alternativas.
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO.PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. MODUS OPERANDI.RÉU EM CUMPRIMENTO DE PENA POR ANTERIOR CONDENAÇÃO. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso improvido.
