@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALPHAVILLE PERNAMBUCO 02 EMPREENDIMENTO IMOBILIÁRIOS LTDA.contra a decisão que inadmitiu recurso especial fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+O referido acórdão do Tribunal de Justiça do Estado de São Paulo apresenta a seguinte ementa:
+"APELAÇÃO. Compromisso de compra e venda de imóvel. Atraso na entrega do imóvel. Caso fortuito/força maior. Inocorrência. Excludente que não se presta a elidir a responsabilidade da construtora. Súmula 161 do TJSP. Multa penal. Incabível. Cláusula penal aplicável apenas em razão de culpa exclusiva da parte adquirente. Devolução parcelada dos valores pagos. Impertinente. Devolução de forma única. Súmula 2 do TJSP. Danos morais. Ocorrência. Peculiaridades do caso que autorizam sua incidência (período de atraso - 2 anos). Inépcia da inicial. Afastada. Existência de irresignação aos fundamentos da sentença. Sentença mantida. RECURSO DESPROVIDO" (fl. 396 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No especial, além da divergência jurisprudencial, a recorrente alega violação dos arts. 1.022 do Código de Processo Civil de 2015, 393, 394, 395, 396, 884 e 944 do Código Civil.
+Sustenta, em síntese, (i) a ocorrência de caso fortuito/força maior, (ii) que o termo inicial dos juros de mora deve ser o trânsito em julgado da decisão que determinou a restituição e (iii) que deve ser afastada a condenação ao pagamento de danos morais.
+Contrarrazões (e-STJ fls. 450-459), o recurso foi inadmitido na origem em exame de prelibação, motivo pelo qual adveio o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial, que, todavia, não merece prosperar.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+De início, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Em relação à alegada ocorrência de caso fortuito externo,rever o entendimento do acórdão recorrido para acolher a pretensão recursal quanto à existência de caso fortuito e fato de terceirodemandaria o revolvimento do acervo fático-probatório dos autos, procedimento obstado pela Súmula nº 7/STJ.
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. COMPRA E VENDA DEIMÓVELEM CONSTRUÇÃO.ATRASONA ENTREGA DAOBRA.VIOLAÇÃO A DISPOSITIVOS DE LEI FEDERAL. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. CLÁUSULA DE TOLERÂNCIA. VALIDADE. CASO FORTUITO E FORÇA MAIOR. INEXISTÊNCIA. MORA CONFIGURADA. DEVER DE INDENIZAR.LUCROS CESSANTESAFASTADOS. DANOS EMERGENTES COMPROVADOS. INVERSÃO DA CLÁUSULA PENAL. POSSIBILIDADE (RESP 1.621.485/SP, DJE 25/6/2019, JULGADO SOB O RITO DOS RECURSOS REPETITIVOS (TEMA 971). HONORÁRIOS SUCUMBENCIAIS FIXADOS COM BASE NOS FATOS DA CAUSA. REVISÃO. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. RECURSO ESPECIAL NÃO PROVIDO.
+(..)
+3. O Tribunal bandeirante, sopesando os fatos da causa, reconheceu inexistir caso fortuito apto a afastar a condenação da demandada peloatrasona entrega daobra.Rever tal entendimento encontra óbice no enunciado da Súmula nº 7 do STJ. Precedentes.
+(..)
+6. Agravo interno não provido" (AgInt no REsp 1.858.141/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/4/2020, DJe 23/4/2020).
+Quanto aos juros, a jurisprudência desta Corte orienta que, em caso de rescisão de contrato de compra e venda de imóvel por culpa da promitente vendedora, os juros de mora sobre o valor a ser restituído incidem a partir da citação.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO. ATRASO NA ENTREGA DE IMÓVEL.CULPA DO VENDEDOR CONFIGURADA. DEVOLUÇÃO DA INTEGRALIDADE DOS VALORES PAGOS CUMULADA COM LUCROS CESSANTES ATÉ A IMISSÃO NA POSSE DO COMPRADOR. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ).
+2. A jurisprudência do STJ firmou o entendimento, em recurso repetitivo, de que, no caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma (REsp 1.729.593/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, DJe de 27/9/2019 (Tema 996). Incidência da Súmula 568 do STJ.
+3. No caso dos autos, a Corte de origem consignou expressamente que a rescisão contratual decorreu de culpa exclusiva da vendedora, haja vista o descumprimento dos prazos contratados. A modificação quanto à responsabilidade pela rescisão contratual demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. A jurisprudência desta Corte orienta que, em caso de rescisão de contrato de compra e venda de imóvel por culpa da promitente-vendedora, os juros de mora sobre o valor a ser restituído incidem a partir da citação.
+5. Agravo interno a que se nega provimento"(AgInt no AREsp 1.761.193/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/3/2021, DJe 13/4/2021)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DE IMÓVEL. RESTITUIÇÃO INTEGRAL.CABIMENTO. DANOS MORAIS CONFIGURADOS. QUANTUM ADEQUADO. CORREÇÃO MONETÁRIA DESDE O DESEMBOLSO. JUROS DE MORA DESDE A CITAÇÃO.SUCUMBÊNCIA RECÍPROCA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. FUNDAMENTOS INATACADOS. SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que conheceu do agravo para não conhecer do recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. Em caso de rescisão de contrato de promessa de compra e venda de imóvel por culpa exclusiva do promitente-vendedor, deve haver a restituição imediata e integral das parcelas pagas.
+3. O simples inadimplemento contratual, em razão do atraso na entrega do imóvel, não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que podem configurar lesão extrapatrimonial, como reconhecido pela Corte de origem.
+4. Quanto ao valor da indenização, o Superior Tribunal de Justiça firmou orientação de que somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade, o que, no entanto, não ocorreu no caso em exame.
+5. A Corte Estadual fixou a data da citação como o termo inicial dos juros de mora incidentes sobre o valor a ser restituído, e o momento dos respectivos desembolsos como termo inicial da correção monetária das parcelas pagas, alinhando-se ao entendimento desta Corte Superior. Incidência da Súmula 83 do STJ.
+6. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, tampouco suscitado em embargos de declaração para sanar eventual omissão, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+7. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+8. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do agravo e negar provimento ao recurso especial"(AgInt no AREsp 1.698.841/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 1º/3/2021, DJe 22/3/2021)
+Quanto à indenização por danos morais, a insurgência merece prosperar.
+Isso porquea jurisprudência desta Corte consolidou-se no sentido de que o meroatrasona entrega deimóvelnão gera o pagamento de indenização pordanos morais,sendo necessária a existência de uma consequência fática capaz de gerar abalo moral por sua gravidade, o que não se observa no caso
+dos autos.
+Confiram-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. ATRASONA ENTREGA DOIMÓVEL.DANO MORAL. INEXISTÊNCIA. MERO DESCUMPRIMENTO CONTRATUAL. RECURSO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça consolidou o entendimento de que o mero descumprimento contratual não acarreta, por si só, dano moral. Precedentes.
+2. No caso, não foram apontadas particularidades que demonstrem a existência de circunstância excepcional que extrapole o mero aborrecimento decorrente doatrasodaobra.Ausência de dano moral.
+3. Agravo interno não provido" (AgInt no REsp 1.827.064/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/3/2020, DJe 2/4/2020).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.OBRA.ENTREGA. ATRASO.DANOS MORAIS.CONTRATO. MERO DESCUMPRIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça consolidou o entendimento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar oimóvelno prazo contratual injustificadamente, não acarreta, por si só,danos morais.
+3. Agravo interno não provido" (AgInt no AREsp 1.487.683/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/11/2019, DJe 27/11/2019).
+Assim, a divergência entre oacórdão recorrido ea jurisprudência dominante desta Corte atrai a incidência da Súmula nº 568/STJ no ponto.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e dar-lhe parcial provimento para afastar a condenação relativa aosdanos morais, mantendo-se a sucumbência fixada na origem.
+Publique-se.
+Intimem-se.
