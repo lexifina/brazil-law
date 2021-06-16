@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL – SALÁRIO MATERNIDADE – PRECEDENTE DO PLENO – PROVIMENTO PARCIAL.
+    1. Eis a síntese do acórdão recorrido:
+    MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA. CONTRIBUIÇÕES SOCIAIS DESTINADAS A TERCEIROS. PAGAMENTO DOS PRIMEIROS QUINZE DIAS DE AFASTAMENTO DO TRABALHO POR INCAPACIDADE. AVISO-PRÉVIO INDENIZADO. TERÇO CONSTITUCIONAL DE FÉRIAS USUFRUÍDAS. SALÁRIO-MATERNIDADE. FÉRIAS GOZADAS. ADICIONAL DE HORAS EXTRAS. ADICIONAL NOTURNO. ADICIONAL DE INSALUBRIDADE. ADICIONAL DE PERICULOSIDADE. DESCANSO SEMANAL REMUNERADO. VALE-TRANSPORTE. AUXÍLIO-ALIMENTAÇÃO.
+    1. As conclusões referentes às contribuições previdenciárias também se aplicam às contribuições sociais destinadas a terceiros e ao SAT, uma vez que a base de cálculo destas também é a folha de salários.
+    2. Não incide contribuição previdenciária sobre o pagamento dos primeiros quinze dias de afastamento do trabalho por incapacidade, aviso-prévio indenizado, terço constitucional de férias gozadas, vale-transporte e auxílio-alimentação in natura.
+    3. É legítima a incidência de contribuição previdenciária sobre os valores recebidos a título de salário-maternidade, férias gozadas, descanso semanal remunerado e adicionais de horas extras, insalubridade, periculosidade e noturno.
+    No extraordinário, o recorrente alega violado os artigos 5º; 150, incisos I e IV;154, inciso I; 195, inciso I, alínea “a”, e §§ 4º e 5º, da Constituição Federal. Sublinha imprópria a tributação sobre os valores pagos a título de salário maternidade, destacando tratar-se de benefício previdenciário e não contraprestação por serviço prestado. Afirma a natureza indenizatória das verbas alusivas a horas extras, adicionais de insalubridade, periculosidade e noturno, descanso semanal remunerado, férias gozadas, sustentando a impossibilidade de ter-se a incidência da contribuição previdenciária sobre as parcelas.
+    No tocante ao salário maternidade, o entendimento do Colegiado local encontra-se em dissonância com a jurisprudência deste Tribunal. O Pleno, no exame do recurso extraordinário nº 576.967, relator ministro Luís Roberto Barroso, assentou a inconstitucionalidade da incidência de contribuição previdenciária sobre o salário maternidade.
+    Quanto às demais verbas questionadas, o Supremo, no denominado Plenário Virtual, no exame recurso extraordinário com agravo nº 1.260.750/RJ, consignando a natureza infraconstitucional da matéria, não reconheceu a repercussão maior do tema relativo à definição individualizada da natureza jurídica de verbas percebidas pelo empregado, bem como de sua respectiva habitualidade, para fins de incidência da contribuição previdenciária a cargo do empregado sobre a folha de salários e demais rendimentos conforme o artigo 22, inciso I, da Lei nº 8.212/1991.
+    3. Provejo parcialmente o recurso extraordinário interposto por Sollo Sul Insumos Agricolas Ltda para, reformando o acórdão recorrido, afastar a incidência da contribuição previdenciária sobre o salário maternidade.
+    4. Publiquem.
+Brasília, 16 de junho de 2021.
+Ministro MARCO AURÉLIO
+Relator
