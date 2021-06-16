@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por HYUNDAI CAOA DO BRASIL LTDA eCAOA MONTADORA DE VEICULOS LTDA contra decisãoque negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em:14/10/2020.
+Concluso ao gabinete em:28/05/2021.
+Ação:de rescisão contratual cumulada com restituição de valores e condenação ao pagamento de indenização por danos materiais e compensação por danos morais ajuizada por JOSÉ DE OLIVEIRA NERY, em face de HYUNDAI CAOA DO BRASIL LTDA eCAOA MONTADORA DE VEICULOS LTDA, na qual pretende a rescisão do contrato de compra e venda de veículo, além da restituição de valores e condenação ao pagamento de indenização por danos morais, em razão de vício no caminhão adquirido.
+Sentença:julgou parcialmente procedentes os pedidos.
+Acórdão:negou provimento à apelação interposta por HYUNDAI CAOA DO BRASIL LTDA eCAOA MONTADORA DE VEICULOS LTDA, nos termos da seguinte ementa:
+"Compra de veículo zero quilômetro. Rescisão contratual c.c indenização por danos materiais e morais. Defeitos apresentados em veículo novo e não sanados pelas rés. Ação julgada parcialmente procedente. Danos morais fixados em R$10.000,00.
+Apelação das rés. Alegada ilegitimidade passiva da revendedora:não acolhimento. Responsabilidade solidária, nos termos do artigo 34 do CDC.
+Prova documental que demonstra a ocorrência dos defeitos do veículo. Pedido de afastamento da indenização moral: não acolhimento. Aborrecimentos suportados pelo autor que superam o mero aborrecimento. Indenização mantida.
+Obediência aos Princípios da Razoabilidade e Proporcionalidade. Sentença mantida. Recurso improvido." (fl. 313, e-STJ).
+Embargos de declaração:opostos por HYUNDAI CAOA DO BRASIL LTDA e CAOA MONTADORA DE VEICULOS LTDA, foram rejeitados.
+Recurso especial:alega violação dos arts. 2ºe 18, § 1º, do CDC;373do CPC; e 186, 421, 422, 884, 927 e 944do CC.
+Sustenta, em síntese, i) a inaplicabilidade do CDC; ii) a ausência de responsabilização das empresas, ao argumento de que o veículo "não encontra qualquer vício passível de ensejar a rescisão contratual (fl. 372, e-STJ); iii) inexistência de fato constitutivo do direito, pois não houve falha na prestação do serviço, defeito de fabricação ou ato ilícito praticado pelas recorrentes; iv) violação dos princípios da função social do contrato e da boa-fé objetiva, pois o veículo não se tornou impróprio ao uso, devendo o contrato ser mantido e não rescindido; v) enriquecimento sem causa ante a devolução dos valores pagos pelo automóvel de forma atualizada;vi) ausência de comprovação dos danos morais sofridos; vii)excesso no valor fixado dacondenação à compensação por danos morais.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/2015
+1. Do reexame de fatos e provas
+No tocante à ausência de responsabilização civil das empresas recorrentes, à inexistência de ato ilícito eà falta decomprovação do fato constitutivo do direito, o acórdão recorrido assim assentou:
+"Inconsistentes as alegações das rés no sentido de que sanaram todos os defeitos apontados pelo autor, pois não há qualquer comprovação nos autos nessesentido, ônus do qual não se desincumbiram as rés, a teor do que dispõe o artigo 373, II do CPC.
+Ademais, os documentos acostados à inicial (fls. 31/39) indicam as inúmeras vezes em que o autor procurou solucionar os defeitos do veículo junto às rés, fato que demonstra a presença de vícios que impediam seu uso normal e atrapalharam a rotina pessoal e profissional, já que é caminhoneiro e dependia do veículo para trabalhar.
+Dessa forma, não tendo obtido solução para os problemas apresentados em seu veículo novo, por pelo menos oito meses, o autor por óbvio sofreu frustração em todas as expectativas geradas em relação ao produto, já que supera o mero dissabor a ocorrência de defeitos tão frequentes em produto novo." (fls. 314/315, e-STJ).
+Ademais, quanto àalegação de que oveículo não se tornou impróprio ao uso e que a rescisão do contrato se revelaria emenriquecimento sem causa do recorrido ante a devolução dos valores pagos pelo automóvel de forma atualizada, o Tribunal de origem assim esclareceu:
+"Não há razão para afastar a devolução do valor pago pelo veículo, pois, ao contrário do que alegam as apelantes, não foi sanado o vício do bem, o que gera ao consumidor a opção dentre as alternativas previstas pelo artigo 18, § 1º do CDC, e a restituição do valor pago foi a escolhida pelo autor.
+Importante ressaltar que não há nos autos prova de que referidos defeitos foram causados pelo uso de combustível de má qualidade, como afirmam as rés, que não cumpriram com seu ônus processual (art. 373, II CPC) também neste ponto." (fl. 315, e-STJ).
+Alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+2. Do pedido de revisão do valor da compensação por danos morais e de sua configuração
+Na hipótese dos autos, o valor da compensação por danos morais fixada em sentença foi mantida pelo Tribunal de origem em R$ 10.000,00 (dez mil reais), em observância ao binômio reparação/sanção, de tal modo que possa servir de alívio aos dessabores sofridos pelo ofendido e de reprimenda ao agir do ofensor, com base no acervo fático-probatório dos autos.
+Nesse sentido, o acórdão recorrido assim consignou quanto ao valor arbitrado a título de danos morais e a sua configuração:
+"Em relação ao dano moral, não assiste razão às apelantes.
+Isso porque o autor adquiriu veículo zero quilômetro para trabalhar e além de não esperar que o produto viesse com defeitos, não obteve os reparos devidos, já que por diversas vezes recorreu à oficina da ré com defeitos elétricos e mecânicos, sem qualquer expectativa de que seriam sanados definitivamente.
+Com relação ao valor da indenização, há que se observar a lógica do razoável, ou seja, "importa dizer que o juiz, ao valorar o dano moral, deve arbitrar uma quantia que, de acordo com seu prudente arbítrio, seja compatível com a reprovabilidade da conduta ilícita, a intensidade e a duração do sofrimento experimentado pela vítima, a capacidade econômica do causador do dano, as condições sociais do ofendido, e outras circunstâncias mais que se fizerem presentes"(cf. Sérgio Cavalieri Filho, "Responsabilidade Civil", pág. 116).
+Dessa forma, atento aos critérios acima mencionados, mantenho aindenização por dano moral fixada em R$ 10.000,00, suficiente para reparar o sofrimento do autor e ao mesmo tempo servir de alerta às rés para evitarem a desídia nos reparos dos veículos que comercializam." (fls. 315/316, e-STJ).
+Alterar o decidido no acórdão impugnado quanto à exorbitância do valor fixado a título de compensação por danos morais, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+3. Da legitimidade passiva
+O Tribunal de origem dirimiu a controvérsia adotando entendimento em consonância com a jurisprudência desta Corte, assentada no sentido de que a concessionária (fornecedora) e o fabricante de automóveis possuem responsabilidade solidária em relação ao vício do produto, ante a responsabilidade solidária entre os fornecedores de produtos e prestadores de serviços que integram a cadeia de consumo. Sobre o tema: AgInt no REsp 1640789/PR, 3ª TURMA, DJe 06/11/2017; AgRg no AREsp 692.459/SC, 4ª TURMA, DJe 23/06/2015.
+Incidência, no ponto, da Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados em 3% sobre o valor da condenação devidos pelas recorrentes.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES E CONDENAÇÃO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS.RESPONSABILIDADE CIVIL. ATO ILÍCITO. CONFIGURAÇÃO. DEVOLUÇÃO DE VALORES. ENRIQUECIMENTO SEM CAUSA. VALOR DO DANO MORAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.RESPONSABILIDADE SOLIDÁRIA ENTRE OS FORNECEDORES DE PRODUTOS E PRESTADORES DE SERVIÇOS QUE INTEGRAM A CADEIA DE CONSUMO. SÚMULA 568/STJ.
+1. Ação de rescisão contratual cumulada com restituição de valores e condenação ao pagamento de indenização por danos materiais e compensação por danos morais, em razão de vício no veículo adquirido.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+4. A concessionária (fornecedora) e o fabricante de automóveis possuem responsabilidade solidária em relação ao vício do produto, ante a responsabilidade solidária entre os fornecedores de produtos e prestadores de serviços que integram a cadeia de consumo. Súmula 568/STJ.
+5. Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
