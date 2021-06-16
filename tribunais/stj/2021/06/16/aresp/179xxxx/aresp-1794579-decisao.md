@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto pelaFUNDAÇÃOUNIVERSIDADE FEDERAL DO PAMPA -UNIPAMPA contra decisão doTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, quenão admitiu recurso especial fundadona alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fls. 353/354):
+MANDADO DE SEGURANÇA. COTAS. UNIVERSIDADE FEDERAL.EXTINÇÃO SEM EXAME DO MÉRITO. SENTENÇA ANULADA.
+1. Conforme preceitua a Constituição de 1988 e o artigo 1º da Lei doMandado de Segurança (Lei nº 12.016/2009), será concedido Mandado deSegurança para a proteção de direito líquido e certo, que não seja amparadopor outro remédio constitucional, sempre que houver ilegalidade ou abuso depoder, ou quando houver justo receio de a pessoa física ou jurídica sofrê-lo departe da autoridade coatora.
+2. Insurgindo-se a impetrante em face da decisão da Comissão deValidação da Autodeclaração de Raça/Etnia, por ausência de exame emotivação individual, bem como acostando fotogra as pessoais e outrosdocumentos o ciais, mostra-se despicienda uma maior instrução probatória,impondo-se anular a sentença de extinção sem exame de mérito, devendo osautos retornar para juízo de mérito.
+Embargos de declaração rejeitados (e-STJ fls. 394/396).
+No recurso especial obstaculizado, a parte apontouviolaçãodos arts.485, IV, 489, §1º, IVe 1.022 do CPC/2015e do art.1º da Lei n.12.016/2009.
+Aduznegativa de prestação jurisdicional, e, no mérito, argumentaque, "tratando-se, no presente caso, de fato controvertido (condição de parda autodeclarada pela Impetrante), não passível de demonstração de plano, por meio de prova pré-constituída (uma vez que meras fotografias e documentos não são suficientes para tanto), dependendo a comprovação da questão de dilação probatória, não se coaduna a pretensão deduzida na exordial ao procedimento aplicável à ação de Mandado de Segurança, o que impõe, ante a inadequação da via eleita e a consequente ausência de pressuposto de constituição e desenvolvimento válido e regular doprocesso, a extinção do feito, sem resolução de mérito"(e-STJ fl. 412).
+Sem contrarrazões.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 431/433), tendo sido os fundamentos da decisão atacados no presente recurso.
+O parecer ministerial, às e-STJ fls. 477/480, opinapelo conhecimento do agravo para negar seguimento ao recurso especial.
+Passo a decidir.
+A pretensão não merece prosperar.
+A jurisprudência desta Corte Superior é firme no sentido de que a decisão do Tribunal de origem de admissibilidade do recurso especial não vincula o Superior Tribunal de Justiça, o qual procederá a um novo juízo de admissibilidade, uma vez que é competência exclusiva desta Casa a análise definitiva de admissibilidade do recurso. Nesse sentido: AgRg no AREsp 570.216/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 05/04/2017.
+Em relação à alegada ofensados arts.489, § 1º, IV e 1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+Por outro lado, quanto à ofensa do art.485, IV, do CPC/2015 e do art. 1º da Lei n. 12.016/2009, destaco que esta Corte Superior entende que a verificação da existência de direito líquido e certo demanda a incursão na seara fático-probatória dos autos, o que é vedado pela Súmula 7 do STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. FISCALIZAÇÃO DE ESTABELECIMENTOS FARMACÊUTICOS. ART. 44 DA LEI 5.991/1973. COMPETÊNCIA DO ÓRGÃO DE VIGILÂNCIA SANITÁRIA. MANDADO DE SEGURANÇA. PROVA PRÉ-CONSTITUÍDA INSUFICIENTE. SÚMULA 7/STJ. APLICAÇÃO.
+ ..
+5. Como se trata de Mandado de Segurança ajuizado na origem, o Superior Tribunal de Justiça possui jurisprudência pacífica de que é "incabível, em Recurso Especial, o exame acerca da presença ou não dos pressupostos autorizadores da impetração do Mandado de Segurança, referentes ao direito líquido e certo e ao reexame da eventual desnecessidade de realização de dilação probatória. Incide, na espécie, a Súmula 7 deste Tribunal" (REsp 1.660.683/SP, Rel.Ministro Herman Benjamin, Segunda Turma, DJe 20.6.2017).
+6. Agravo Interno não provido.(AgInt no REsp 1.862.803/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/08/2020, DJe 09/09/2020).
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. REVISÃO DO ATO DE APOSENTADORIA. DECADÊNCIA. MÁ-FÉ NÃO RECONHECIDA PELA CORTE DE ORIGEM. SÚMULA 7/STJ. AGRAVO INTERNO DO ESTADO DE SANTA CATARINA A QUE SE NEGA PROVIMENTO.
+1. É firme o entendimento desta Corte de que a discussão acerca da existência ou não de direito líquido e certo, nos termos do art. 1ºda Lei 12.016/2009, bem como a verificação da inadequação da via eleita, demanda a incursão no conjunto fático-probatório dos autos, providência vedada pela Súmula 7/STJ.
+ ..
+4. Agravo Interno do ESTADO DE SANTA CATARINA a que se nega provimento.(AgInt no REsp 1.473.403/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/02/2019, REPDJe 26/02/2019, DJe 25/02/2019).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
