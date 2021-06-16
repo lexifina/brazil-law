@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por PAULINA DOMINGUES DE OLIVEIRA e OUTROS, com fulcro nas alíneas "a" e "c" do permissivo constitucional, insurgindo-se contra acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado (e-STJ fl. 177):
+ADMINISTRATIVO E PREVIDENCIÁRIO COMPLEMENTAÇÃO DE APOSENTADORIA INATIVOS FEPASA REAJUSTES DISSÍDIOS E ACORDOS COLETIVOS EQUIPARAÇÃO SALARIAL.
+Vantagem salarial concedida de forma genérica a todos os funcionários em atividade da CPTM por meio de dissídios e acordos coletivos de trabalho. Equiparação salarial entre os funcionários da ativa e os aposentados ou pensionistas devida nos termos do art. 40, § 8º, CF, acrescentado pela EC nº 20/98.
+Precedentes desta E. Câmara. Sentença confirmada. Reexame necessário e recursos desprovidos.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 200/202).
+Nas suas razões, a parte recorrente sustenta contrariedade do art. 20, §§ 3º e 4ª, do CPC/1973, tendo em vista que, "de fato, o valor arbitrado não observa a inteligência do art.20 do CPC em qualquer de seus parágrafos, ao passo que o termo "equidade"não pode se tornar um manto de economia em despesas judiciais para o ente Público, mormente ao despeito do trabalho de outrem e quando o estado de direito é voltado à dignidade da pessoa humana bem como voltado a valorização do trabalho pela ordem econômica" (e-STJ fl. 190).
+Contrarrazões às e-STJ fls. 224/230.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+Não obstante os argumentos tecidos, observo que a insurgência não merece prosperar.
+Ao decidir sobre a verba honorária, restou definido no acórdão recorridoque "os honorários advocatícios foram bem fixados em R$ 3.000,00, valor compatível com a natureza repetitiva da causa e o trabalho realizado pelo patrono dos autores, nos termos do art. 20, § 3º e 4º, CPC" (e-STJ fl. 182).
+Ocorre que a tese da alegada irrisoriedade dos honorários arbitrados nãofoi submetida ao Tribunal de origem, nos termos da tese que embasou o recurso especial- necessidade de observância da porcentagem mínima de 10% ou ao princípio da equidade e valor digno (e-STJ fl. 190)-, pois não foram essaquestão não foi objeto deaclaratórios opostos.
+Desse modo, sem oposição de declaratórios para essefim, tem-se que não ocorreu a efetiva análise da tese, na instância ordinária, em razão disso, carece o apelo nobre do necessário prequestionamento, o que impede o conhecimento do recurso especial, ante a incidência, na hipótese, da Súmula 282 do STF. Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA.
+1. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (Súmula 211 do STJ).
+2. Hipótese em que não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+3. Agravo interno desprovido. (AgInt no AREsp 1.624.263/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 8/9/2020).
+PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. REVISÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Conforme consignado no decisum agravado proferido pela Presidência do STJ, "não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente", como se extrai da leitura do acórdão impugnado: "Do exame mais minucioso dos documentos colacionados, tem-se que o Auto de Arrematação foi assinado em 10/1/2019 (fl. 46), publicada a decisão em 14/1/2019 (fl. 48), e não em 1º de março, como afirmado na inicial do agravo. Logo, o prazo de 10 dias para impugnar a arrematação começou a fluir da publicação, e não da data afirmada pelo agravante. Manifestamente intempestiva, portanto, a impugnação apresentada em 15/3/2019, estando a arrematação perfeita, acabada e irretratável, nos termos do artigo 903 do CPC".
+2. Ainda que se entendesse pela existência de prequestionamento do tema, não seria possível conhecer do recurso, tendo em vista que é necessário rever o conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido e alterar a conclusão do julgado, o que não é permitido em Recurso Especial. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+3. Agravo Interno não provido. (AgInt no AREsp 1.618.556/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 18/12/2020).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
