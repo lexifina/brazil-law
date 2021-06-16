@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por COOPERATIVA DE CRÉDITO, POUPANÇA E INVESTIMENTO VALE DO PIQUIRI ABCD - SICREDI VALE DO PIQUIRI ABCD PR/SP contra a decisão que inadmitiu o recurso especial em virtude de sua intempestividade.
+Nas razões do presente recurso, a agravante alega, em síntese, que o inconformismo foi protocolado dentro do prazo legal, sendo necessária a concessão de prazo para que apresente o documento necessário à comprovação da existência de feriado local, nos moldes preconizados pelo art. 932, parágrafo único, do Código de Processo Civil de 2015.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Nos termos do art. 219, caput, do CPC/2015, a contagem dos prazos processuais será realizada somente nos dias úteis e, nos termos do art. 1.003, § 5º, do CPC/2015, todos os recursos devem ser interpostos no prazo de 15 (quinze) dias, exceto os embargos de declaração.
+No caso concreto, o acórdão recorrido foi disponibilizado em 15/10/2020, com a leitura de intimação realizada pelo procurador da recorrente em 26/10/2020, com prazo de 15 dias úteis, conforme atesta a certidão de fl. 803 (e-STJ).
+Iniciando-se a contagem do prazo no primeiro dia útil seguinte (27/10/2020), o termo final para a interposição do apelo especial expirou em 17/11/2020. Contudo, o recurso foi protocolizado apenas em 18/11/2020 (e-STJ fl. 807), encontrando-se, portanto, intempestivo.
+Impende consignar que a jurisprudência deste Superior Tribunal de Justiça consolidou-se no sentido de que a comprovação da ocorrência de feriado local deverá ser efetivada no ato de interposição do recurso, não se aplicando nesses casos os ditames doart.932, parágrafo único, do Código de Processo Civil de 2015.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. EXPEDIENTE FORENSE. SUSPENSÃO. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. ARTIGO 1.003, § 6º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NOVO REGRAMENTO PROCESSUAL EXPRESSO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É intempestivo o agravo em recurso especial protocolizado após o prazo de 15 (quinze) dias, de acordo com o artigo 1.003, § 5º, c/c artigo 219, caput, do CPC/2015.
+3. Eventual documento idôneo apto a comprovar a ocorrência de feriado local ou a suspensão do expediente forense deve ser colacionado aos autos no momento de sua interposição, para fins de aferição da tempestividade do recurso, a teor do que dispõe o artigo 1.003, § 6º, do CPC/2015. Precedente da Corte Especial.
+4. A interpretação literal da norma expressa no § 6º do artigo 1.003 do CPC/2015, de caráter especial, sobrepõe-se a qualquer interpretação mais ampla que se possa conferir às disposições de âmbito geral insertas nos artigos 932, parágrafo único, e 1.029, § 3º, do citado diploma legal.
+5. O Dia do Servidor Público (28 de outubro), a segunda-feira de Carnaval, a quarta-feira de Cinzas, os dias que precedem a sexta-feira da Paixão e também o dia de Corpus Christi não são feriados nacionais, sendo imprescindível a comprovação de suspensão do expediente forense na origem. Precedentes.
+6. Agravo interno não provido" (AgInt no AREsp 1.723.418/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/4/2021, DJe 26/04/2021 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO. INCIDÊNCIA DO CPC DE 2015. FERIADO LOCAL. COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO. ENTENDIMENTO DA CORTE ESPECIAL. AGRAVO IMPROVIDO.
+1. A Corte Especial, ao interpretar os arts. 932, parágrafo único, e 1.003, § 6º, do CPC de 2015, bem assim os princípios consagrados pelo novo Código, por maioria, firmou orientação de que o recorrente deve comprovar "a ocorrência de feriado local no ato de interposição do recurso", de maneira que fica inviabilizada a apresentação de documento hábil em momento posterior para demonstrar sua tempestividade (AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe de 19/12/2017).
+2. Consoante a jurisprudência desta Corte, "a ocorrência de feriado local, paralisação ou interrupção do expediente forense há de ser demonstrada por documento oficial ou certidão expedida pelo Tribunal de origem, capaz de evidenciar, no ato de sua interposição, a prorrogação do prazo do recurso que se pretende seja conhecido por este Superior Tribunal, sob pena de preclusão consumativa, não servindo, para tanto, página extraída da rede mundial de computadores" (AgInt no AREsp 1.399.342/SP, Rel. Ministra MARIA ISABEL GALLOTTI, DJe de 16/5/2019).
+3. Agravo interno a que se nega provimento" (AgInt no AREsp 1.534.373/ES, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/11/2019, DJe 27/11/2019 - grifou-se).
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, os honorários sucumbenciais fixados pelas instâncias de origem, devidos pelo ora recorrente, devem ser acrescidos em 3% (três por cento) sobre a mesma base de cálculo estabelecida na sentença, observados o limite máximo estabelecido no § 2º do mesmo dispositivo legal e o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
