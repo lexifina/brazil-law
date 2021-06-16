@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CRISTIANE RODRIGUES SANDIM ROCHA à decisão de fls. 98/99, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Verificamos dos autos que o Acórdão que negou provimento a apelação do recorrente veiculou em 01/10/2020, de maneira que se iniciou a contagem em 02/10/2020, ocorre que na data de 06/10/2020 houve indisponibilidade do peticionamento eletrônico de 2º grau no âmbito do TJMS, ultrapassando o limite disposto no Provimento nº 305, Art. 21, de 16 de janeiro de 2014, ocasionando a prorrogação dos prazos processuais.
+Ademais, no dia 09/10/2020 (sexta-feira) ocorreu o Dia do Servidor Público, ponto facultativo/antecipação do dia 28 de outubro) Bem como, no dia 12/10/2020 (segunda-feira) ocorreu o Dia de Nossa Senhora Aparecida (feriado nacional).
+Assim sendo, no curso da contagem do prazo processual houve 03 (três) dias não úteis na contagem (06/10/2020, 09/10/2020 e 12/10/2020, sendo por tempestiva a interposição do recurso especial em 27/10/2020.
+Frisa-se que acompanhou o recurso especial o comprovante dos feriados locais e a certidão de indisponibilidade do sistema operacional do TJMS (fls. 101/102).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial. o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+No caso, o documento retirado da rede mundial de computadores, como feito pela parte (fls. 60/63), não tem o condão de afastar a intempestividade do recurso.
+A propósito: AgInt no AREsp 1587207/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/5/2020; AgInt no REsp 1687836/SP, relator Ministro Paulo De Tarso Sanseverino, Terceira Turma, DJe de 5/9/2019; AgInt no AREsp 1521541/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/3/2020.
+Por outro lado, o documento de fl. 64, apesar de válido, não é suficiente para afastar a intempestividade do recurso.
+Importante ressaltar que a consequência jurídica da indisponibilidade da comunicação eletrônica está prevista no art. 224, § 1º, do CPC: a prorrogação do dia do começo ou do dia do final do prazo. Se a indisponibilidade da comunicação eletrônica ocorrer durante o transcurso do prazo recursal, trata-se de dia útil, que se soma à contagem do prazo processual, não havendo exclusão do dia, como no caso dos autos.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
