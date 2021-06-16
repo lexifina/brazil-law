@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por ESPÓLIO DE LUIZ FELIPE ALVES FRANÇA contra decisão que inadmitiu o recurso especial. O apelo extremo, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"EMENTA: AGRAVO DE INSTRUMENTO - AÇÃO DE COBRANÇA - CUMPRIMENTO DE SENTENÇA - DISCUSSÃO ACERCA DA PRESCRIÇÃO INTERCORRENTE - QUESTÃO JÁ DECIDIDA - IMPOSSIBILIDADE DE APRECIAÇÃO - PRECLUSÃO. Tendo em vista que a matéria objeto do presente recurso resta superada, operando-se o instituto da preclusão e da coisa julgada, não há como proceder a sua rediscussão neste momento processual" (fl. 212 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fl. 233/240 e-STJ).
+Nas razões do especial (fls. 244/269 e-STJ), o recorrente alega violação dos arts. 507 e 1.022, inciso II, do Código de Processo Civil de 2015, art. 202 do Código Civil e art. 40, § 2º, da Lei nº 6.830/80. Sustenta, em síntese, que
+"(..)
+29 - A violação do artigo 1.022, II, do Código de Processo Civil, ocorreu, pois, a Recorrente apontou omissão relevante que tinha e têm o condão de modificar o resultado do julgamento caso sejam apreciadas. No entanto, mesmo provocado, o e. Tribunal de Justiça de Minas Gerais não se pronunciou sobre os vícios.
+30 - Em relação aos art. 40, § 2º, da Lei 6.830/1980 e art. 202 do CC/02 a negativa de vigência é clara, visto que mesmo estando reconhecido o abandono do feito por prazo superior ao da prescrição, nos termos das teses fixadas pelo STJ, o v. acórdão recorrido deixou de reconhecer a prescrição intercorrente.
+31 - Já a negativa de vigência ao comando art. 507 do CPC/15, decorre da ausência de preclusão a respeito da prescrição intercorrente, porquanto, ao contrário do entendimento do TJMG, não houve nos afastamento da tese do decurso do prazo prescricional, mas tão somente decisão do STJ impondo que a declaração da prescrição seja precedida de intimação da exequente, que é exatamente o que a Recorrente requereu que fosse realizado".
+Contrarrazões às fls. 287/298 (e-STJ).
+O recurso foi inadmitido na origem (fls. 303/307 e-STJ).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Inicialmente, no tocante à alegada negativa de prestação jurisdicional, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios, por inexistir omissão, contradição ou obscuridade no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada. A propósito os seguintes julgados:
+"ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. (..)
+1. Não merece prosperar a tese de violação do art. 1.022 do CPC/2015, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+2. Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+(..)
+5. Agravo interno a que se nega provimento" (AgInt no REsp 1.624.885/RS, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 16/3/2017, DJe 24/3/2017).
+"RECURSO ESPECIAL - NEGATIVA DE PRESTAÇÃO JURISDICIONAL - INOCORRÊNCIA - PRECLUSÃO - AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DO ACÓRDÃO RECORRIDO - INCIDÊNCIA DA SÚMULA 283/STF - TRANSAÇÃO E PRESCRIÇÃO - AUSÊNCIA DE PREQUESTIONAMENTO - INCIDÊNCIA DA SÚMULA 211/STJ - PRODUÇÃO DE PROVAS - CRITÉRIO DO MAGISTRADO - JULGAMENTO ANTECIPADO DA LIDE - CERCEAMENTO DE DEFESA - OCORRÊNCIA, NA ESPÉCIE - RECURSO IMPROVIDO.
+1. Os embargos de declaração consubstanciam-se no instrumento processual destinado à eliminação, do julgado embargado, de contradição, obscuridade ou omissão sobre tema cujo pronunciamento se impunha pelo Tribunal, não se prestando para promover a reapreciação do julgado.
+(..)
+6. Recurso improvido" (REsp 1.134.690/PR, Rel. Ministro MASSAMI UYEDA, Terceira Turma, julgado em 15/2/2011, DJe 24/2/2011).
+Quanto ao conteúdo normativo do art. 202 do Código Civil e art. 40, § 2º, da Lei nº 6.830/80, verifica-se que não foram objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e, nos embargos declaratórios opostos, não se provocou o pronunciamento acerca da questão. Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Em igual sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. 2. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. 3. LUCROS CESSANTES PRESUMIDOS INDENIZÁVEIS. POSSIBILIDADE. SÚMULA 83/STJ. 4. AGRAVO IMPROVIDO.
+1. Não ficou caracterizada a violação do art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Outrossim, apesar de opostos embargos de declaração na origem, os dispositivos legais supostamente violados, arts. 186, 408, 409, 476, 884, 927 e 1.315 do CC/2002; 15 e 52 da Lei n. 4.591/1964; e a Súmula 159 do TJSP, nem sequer foram indicados nas razões dos embargos declaratórios e, portanto, não foram objeto de manifestação pela Corte local, sendo certo que se trata de verdadeira inovação recursal, o que atrai a incidência da Súmula 282 do STF, não sendo o caso de considerar a ocorrência do prequestionamento ficto previsto no art. 1.025 do CPC/2015.
+(..)
+4. Agravo interno a que se nega provimento" (AgInt no REsp 1.704.671/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 6/3/2018, DJe 15/3/2018 - grifou-se).
+Ademais, verifica-se que as conclusões da corte a quo decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..) no caso in focu, operou-se a preclusão, na medida em que, em que pese o agravante recorrer alegando que a " ..  agravada, entre 18/09/1999 e 17/08/2014, abandonou o feito por prazo superior ao da prescrição da ação, que é de 03 (três) anos, vez que se tratar de execução instruída com notas promissórias  .. ", essa questão resta preclusa, na medida em que já foi analisada tanto em 1ª quanto em 2ª Instância e pelo c. STJ (documento nº 10), como dito pelo próprio agravante, restando superada, portanto, sua apreciação, em que pesem as alegações e documentos juntados pela parte recorrente.
+Tenho que a preclusão ocorrida aqui é, inequivocamente, consumativa, na medida em que já foi estabelecido pelo Judiciário, que não teria ocorrido a prescrição intercorrente no caso posto em análise, restando evidente, desta feita, a superação da referida matéria, em que pesem as alegações em sentido contrário da parte agravante" (fls. 216/217 e-STJ).
+Rever tais conclusões demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Deixo de fixar os honorários recursais (art. 85, § 11, do CPC/2015), haja vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
