@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor deJOÃO PEDRO FARIA LEITE RIBEIROem que se aponta como autoridade coatora Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.20.597774-7/000).
+O paciente foi condenado às penas 11 anos e 1 mês de reclusão em regime inicial fechado e de 1.575 dias-multa, em razão da prática dos delitos descritos nos arts. 33 e 35, c/c o art. 40, V, todos da Lei n. 11.343/2006. Impetrado writ originário, a ordem foi denegada.
+A defesa alega que a decisão que manteve o decreto preventivo na sentença carece de fundamentação idônea. Argumenta que o magistrado não apresentou elemento novo ou contemporâneo a fim de demonstrar a efetiva manutenção da custódia cautelar.
+Sustenta inexistirem os requisitos autorizadores da prisão preventiva e pondera que o paciente é primário, tem bons antecedentes e não apresenta periculosidade.
+Requer a concessão da ordem a fim de que seja revogada a prisão preventiva, expedindo-se alvará de soltura em favor do paciente, ainda que mediante a imposição de medidas cautelares alternativas previstas no art. 319 do CPP.
+O pedido de liminar foi indeferido àsfls. 163-164.
+As informações foram prestadas às fls. 168-211e 212-250.
+O Ministério Público Federal manifestou-se pela concessão da ordem(fls. 254-256).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJconsidera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Aprisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+Confira-se excerto da sentença, que, ao condenar o paciente à pena de11 anos e 1 mês de reclusão em regime inicial fechado, considerou presentes os requisitos para manutenção de segregação cautelar (fl.95):
+Tendo em vista a pena aplicada e o regime fixado, nego aos réus o direito de recorrerem em liberdade. RECOMENDE-OS.
+A propósito, assim se manifestou o Tribunala quo(fl.30):
+Isto porque, malgrado tenha sido conciso o trecho da decisio sobre a prisão preventiva, compreendo ser possível, da leitura integral da sentença proferida, depreender a necessidade de manutenção da custódia do paciente, haja vista a manutenção dos motivos que ensejaram a constrição (e que, inclusive, já foram objeto de habeas corpus anterior, de nº 1.0000.20.044148-3/000), não havendo, assim, falar em fundamentação inidônea da decisão.
+Acham-se demonstrados, ao longo do édito condenatório, prova da materialidade e indícios suficientes de autoria - tanto é que o réu foi condenado em primeira instância pelo crime que lhe é imputado. De igual modo, vislumbro se manter o perigo da liberdade de João, tendo em vista a elevada quantidade de droga apreendida quando de sua prisão em flagrante, igual a 2,6kg de maconha, cuja procedência seria o município de Ribeirão Preto/SP, envolvendo ainda, portanto, tráfico interestadual de substâncias ilícitas. O elevado quantum evidencia, a princípio, uma possível habitualidade do denunciado na mercancia ilícita, a tornar reprovável, neste momento, sua soltura, sob pena de hipotética reiteração delitiva, o que não se pode admitir.
+Assim, tenho como inviável a concessão, ao paciente, do direito de aguardar julgamento de recurso em liberdade à presença dos requisitos autorizadores do acautelamento, elencados nos arts. 312 e 313 do Código de Processo Penal, mostrando-se de rigor a manutenção da prisão preventiva como garantia à ordem pública - o que igualmente indica desarrazoadas as medidas cautelares diversas da prisão, tais quais comparecimento periódico em juízo, recolhimento noturno ou mesmo monitoramento eletrônico, pelo perigo que representa a liberdade do sentenciado.
+Mantidas as circunstâncias que justificaram a decretação da prisão preventivado paciente, que ficou preso durante toda a instrução processual, não há legalidade na sentença condenatória por não lhe conceder o direito de recorrer em liberdade (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; AgRg no HC n. 568.997/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta turma, DJe de 27/5/2020).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
