@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NOSEMBARGOS DECLARATÓRIOS NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos declaratórios opostos por José Carlos Guimarães Gomes e outros contra acórdão, assim ementado (fls. 1.415-1.420):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. REAJUSTE DE 3,17%. EMBARGOS À EXECUÇÃO DE SENTENÇA. COMPENSAÇÃO E LIMITE TEMPORAL. VIOLAÇÃO À COISA JULGADA. NÃO OCORRÊNCIA. PRECEDENTES. APLICAÇÃO DE MULTA. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO DE LEI FEDERAL. SÚMULA 282/STF. RAZÕES RECURSAIS DISSOCIADAS DO FUNDAMENTO ADOTADO PELO ACORDÃO RECORRIDO. ARGUMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 282/STF.
+2. A falta de argumentação ou sua deficiência implica não conhecimento do recurso especial quanto à questão deduzida, pois não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+3. É firme o entendimento neste STJ, segundo o qual o termo final do pagamento dos valores devidos a título de reajuste de 3,17% se opera ou na data da reestruturação/reorganização da carreira, consoante previsão do art. 10 da MP 2.225/2001; ou em 1º.1.2002, na hipótese da carreira não ter sido reestruturada/reorganizada até essa data, conforme previsão do art. 9º do aludido diploma, não resultando essa limitação em violação à coisa julgada. Nesse sentido: AgInt no AREsp 1.049.022/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 19/8/2019; AgRg nos EDcl no REsp 1.225.769/PR, Rel.Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 28/6/2017.
+4. Agravo interno não provido.
+Os embargantes informam que "a decisão do Tribunal a quo violou diversos dispositivos da legislação federal, razão pela qual foi interposto recurso especial" (fl. 1.433).
+Sustentam omissão quanto ao fato de de que não se pode limitar o reajuste de 3,17% a dezembro de 2001, pois o título executivo judicial não contém qualquer restrição temporal, sendo certo que a Lei n.10.405/2002 não promoveu qualquer reestruturação da carreira e não se pode limitar a incidência do reajuste de 3,17% ao mês de janeiro de 2001 e que a referida reestruturação "somente foi implementada, em abril de 2006, com o advento da Lei nº 11.344/2006". No ponto, asseveram que "o acórdão recorrido é evidentemente contrário à Jurisprudência, necessária sua reforma" (fl. 1.438).
+Apontam também omissão "com relação à sumula nº 98 do Superior Tribunal de Justiça, no que tange à imposição de multa pelo Tribunal a quopor terem considerados, os segundos embargos declaratórios, protelatórios" (fl. 1.446).
+Requerem, ao final, o acolhimento dos embargos declaratórios,para "dar total ou parcial provimento ao recurso especial, ao menos quanto à limitação do reajuste dos 3,17% à abril de 2006, de acordo com o entendimento deste Superior Tribunal de Justiça no Recurso Repetitivo REsp 1.371.750/PE e no REsp 644.662/PE, bem como quanto à imposição de multa pela oposição do segundo embargos declaratórios por inexistir o caráter protelatório" (fl. 1.449).
+Transcorreu prazo para resposta (cf. certidão de fl. 1.458).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NOSEMBARGOS DECLARATÓRIOS NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie, consigne-se que os ora embargantes desde a origem se insurgem contra sentençaque julgou parcialmente procedentes os embargos à execução opostos pela UNIRIO - Universidade Federal do Estado do Rio de Janeiro, sob a alegação de excesso de execução.
+O TRF da 2ª Região manteve a sentença aos seguintes fundamentos:
+A partir do advento da Lei nº 10.405/2002, houve o reajuste no vencimento dos professores das instituições federais de ensino, ocorrendo a hipótese do art. 10 da Medida Provisória nº 2.225- 45/2001 e a devida compensação, razão pela qual considerou-se incorporado o índice de 3,17%.
+Assim, os Embargados fazem jus ao pagamento das diferenças apuradas de 3,17% até a edição da Lei nº 10.405/2002. Ademais, o título executivo reconheceu expressamente a necessidade de compensação. A limitação temporal reconhecida pela sentença recorrida não está relacionada a qualquer espécie de compensação, mas ao disposto no art. 9º da referida MP nº 2.225/2001.
+O acórdão embargado por sua vez negou provimento ao agravo interno, mantendo decisão que conheceu parcialmente do recurso especial para, nessa extensão, negar-lhe provimento, nos seguintes termos:
+O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Preliminarmente, observa-se que o decisum agravado não fez incidir as Súmulas 282 e 284 do STF sobre o debate de mérito da controvérsia, mas tão somente no que se refere a aventada violação do art. 17, VII, do CPC/1973 e a alegação inexistência de má-fé processual.
+Quanto a aplicação da referida multa, face a oposição reiterada de embargos de declaração na origem, inclusive olvidou o agravante impugnar a fundamentação do decisum,limitando-se a repisar as razões de seu apelo especial.
+Com isso, não colacionando argumentos suficientes à alteração da conclusão alcançada, mantém-se a aplicação dos referidos óbices sumulares.
+Da mesma forma, não merece prosperar a irresignação recursal quanto as teses (i) de impossibilidade de limitação do reajuste de 3,17% em sede de embargos à execução se tal alegação poderia ser suscitada na fase de conhecimento do processo, e; (ii) de impossibilidade de limitar o reajuste ao advento da Lei 10.405/2002, pois essa não teria reestruturado/reorganizado a carreira dos agravantes, de modo que o termo final somente teria se dado em 2006, com a MP 295/2006.
+Isso porque, no caso concreto, destacou a Corte de origem que, "ainda que a Lei nº 10.405/2002 não tenha se referido à expressão "reestruturação ou reorganização de cargos e carreira", ela alterou a tabela de vencimentos dos professores das instituições federais de ensino" (fl. 1.012), razão pela qual incidiria a previsão de compensação, nos termos do art. 10 da MP 2.225/2001.
+Não bastante, frisou, ainda, o julgado atacado do apelo especial, que a sentença que apreciou os embargos à execução está fundada na limitação temporal prevista no art. 9º da MP 2.225/2001, o que não afrontaria a coisa julgada. Essa conclusão, consoante referido no decisum agravado, encontra consonânciana jurisprudência firmada por este eg.STJ.
+Nesse sentido, recentemente a Segunda Turma desta Corte superior apreciou o AgInt no AREsp 1.049.022/RJ, de relatoria do Ministro Francisco Falcão, cuja controvérsia é idêntica à que ora se apresenta, inclusive, oriundo de embargos à execução do mesmo título executivo, que deu ensejo ao presente apelo especial:
+ ..
+Ainda, no mesmo sentido, no âmbito desta Primeira Turma, o seguinte julgado:
+ ..
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
+No mesmo sentido do acórdão embargado, destaco julgado recente da colenda Primeira Turma:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. REAJUSTE DE 3,17%. ALEGADA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. INCONFORMISMO. LIMITAÇÃO PELA REESTRUTURAÇÃO DA CARREIRA. LEIS 11.344/2006. OFENSA À COISA JULGADA. INOCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA 283/STF, POR ANALOGIA. AUSÊNCIA DE INDICAÇÃO, NAS RAZÕES DO RECURSO ESPECIAL, DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA SIDO VIOLADO. SÚMULA 284/STF.AGRAVO INTERNO IMPROVIDO.
+ ..
+VI. Por fim, o acórdão recorrido está em perfeita consonância com a jurisprudência desta Corte Superior de Justiça, segundo a qual "(..) é cabível a limitação temporal do reajuste de 3,17% imposta pela citada Medida Provisória decorrente da reestruturação de cargos e carreiras, devendo a concessão da diferença ficar limitada à data da reorganização efetivada" e que "o reconhecimento, em execução, da limitação temporal determinada pela MP 2.225-45/2001 ao reajuste de 3,17% não implica violação da coisa julgada" (STJ, REsp 1.654.759/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 12/05/2017). No mesmo sentido: STJ, AgInt no AREsp 1.049.022/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 19/08/2019;REsp 1.371.750/PE, Relator Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 10/04/2015; AgRg no REsp 1.248.736/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 03/09/2015;. AgRg no REsp 1.540.941/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 17/09/2015.
+VII. Agravo interno improvido.
+(AgInt no REsp 1.383.037/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 01/3/2021)
+Dessa forma, ao contrário do que sustentam os embargantes, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Com efeito, os embargos declaratórios "não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão" (EDcl no AgInt no REsp 1.881.879/SE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 26/3/2021).
+Advirta-se, por fim, que eventual oposição de novos embargos de declaração sem argumentação plausível para o recurso, apenas para solicitar rejulgamento da controvérsia, pode ensejar a aplicação da multa prevista no artigo 1.026, § 2º, do CPC/2015.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
