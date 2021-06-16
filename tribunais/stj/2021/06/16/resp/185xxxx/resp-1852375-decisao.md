@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de recurso especial interposto por SANEN ENGENHARIA LTDA.- Em Recuperação Judicial, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, impugnando o acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado:
+"Agravo de instrumento - Recuperação judicial - Possibilidade de controle do Judiciário sobre o plano de recuperação aprovado em Assembleia Geral de Credores - Ajuste e nulidade de algumas cláusulas - Credores trabalhistas retardatários - Necessidade de ajuste do pagamento ao prazo previsto no artigo 54 da Lei 11.101/05 - Reconhecimento tardio pela recuperanda que implica pagamento de juros e correção monetária - Cláusula de novação que contraria os limites impostos pelo art. 59 e pelo § 1º do art. 49, ambos da Lei 11.101/2005, na medida em que prevê a liberação dos coobrigados e terceiros garantidores - Pretensão que contraria a Súmula 581/STJ e a Súmula 61/TJSP - Honorários do administrador judicial em conformidade com a LRF - Decisão mantida - Prequestionamento da matéria - Recurso desprovido"(fl. 107, e-STJ).
+No recurso especial, a recorrente aponta violação dos seguintes dispositivos, com as respectivas teses:
+(i) artigo 59 da Lei nº 11.101/2005 (LREF) - porque o plano de recuperação judicial obriga o devedor e todos os credores, independentemente de terem votado ou não em assembleia;
+(ii) artigo 35, I, "a", da Lei nº 11.101/2005 - porque o plano pode limitar o pagamento dos credores trabalhistas ao valor de 150 (cento e cinquenta) salários mínimos, não se referindo o artigo 83, I, da LREFsomente aos casos de falência. Ressalta que cabe à assembleia geral de credores aprovar, rejeitar ou modificar o plano. Entende que o mesmo tratamento deve ser dado às cláusulas 5, 7.1.3., 7.6. e 9 do plano, e
+(iii) artigo 24, § 1º, da Lei nº 11.101/2005 - porque não se mostra razoável majorar os honorários devidos ao administrador judicial para 3% (três por cento) do valor dos créditos sujeitos aos efeitos da recuperação judicial, devendo ser observados os princípios da proporcionalidade e razoabilidade. Destaca que o aumento implicou um acréscimo de mais de R$ 100.000,00 (cem mil reais) nas parcelas mensais, afetando seu fluxo de caixa. Entende que o valor de R$ 500.000,00 (quinhentos mil reais), dividido em parcelas mensais de R$ 20.000,00 (vinte mil reais), é suficiente para remunerar condignamente o trabalho do administrador.
+Por fim, requer o provimento do recurso especial.
+Contrarrazões às fls. 166/180 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelorecurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência merece parcial acolhida.
+1. Breve histórico
+Trata-se, na origem, de agravo de instrumento interposto contra a decisão que deferiu a recuperação judicial da recorrente, invalidando parte das cláusulas 5, 7.1.2., 7.1.3. e 7.6. do plano de recuperação, e majorou os honorários do administrador judicial.
+A Segunda Câmara Reservada de Direito Empresarial do Tribunal de Justiça do Estado de São Paulo, por maioria, negou provimento ao recurso, destacando-se do acórdão o trecho que interessa ao presente julgamento:
+"(..)
+A cláusula 7.1.2. (fls. 4.195/4.196 - autos originários) estabelece o limite de até 150 salários mínimos para pagamento dos créditos trabalhistas.
+A questão relativa à incidência do artigo 83 da Lei 11.101/05 à situação da recuperação judicial apresenta divergência nas Câmaras Reservadas de Direito Empresarial.
+O artigo 83, inciso I, da Lei 11.101/05 estabelece que: "Art. 83. A classificação dos créditos na falência obedece à seguinte ordem: 1 - os créditos derivados da legislação do trabalho, limitados a 150 (cento e cinqüenta) salários -mínimos por credor, e os decorrentes de acidentes de trabalho".
+Apesar da existência de julgados que admitem a extensão da regra do referido artigo para a recuperação judicial e, respeitado esse entendimento, este Relator acompanha aposição daqueles que consideram que a regra limitativa que cria teto de pagamento dos créditos trabalhistas prevista no artigo 83 se aplica exclusivamente à falência.
+A limitação imposta pelo artigo 83, I,da Lei nº11.101/05 tem por objetivo "impedir que se consumam os recursos da massa com o atendimento a altos salários dos administradores da sociedade falida"(Fábio Ulhoa Coelho, in Comentários à Lei de Falências e de Recuperação de Empresas, p.306, São Paulo, Saraiva, 12. edição, 2017); portanto, é aplicável somente ao processo falimentar e não à recuperação judicial.
+No caso da recuperação judicial, não há razão de limitação do crédito, pois não há concurso de credores.
+Na recuperação os créditos são pagos de acordo com o plano proposto pelo devedor e aprovado pela assembleia geral de credores. Os pagamentos são ditados pelo Plano de Recuperação, levando-se em conta o montante de todos os créditos, dentro dos prazos estabelecidos pela Lei nº 11.101/05"(fls. 113/114, e-STJ).
+Sobreveio o recurso especial.
+2. Da violação do artigo 59 da Lei nº 11.101/2005
+A recorrente sustenta que o plano de recuperação judicial obriga o devedor e todos os credores submetidos aos efeitos da recuperação judicial, independentemente de terem votado ou comparecido à assembleia geral de credores.
+A questão, como posta, desvinculada do caso concreto, não tem como ser analisada.
+Com efeito, é certo que o plano de recuperação, em regra, obriga o devedor e todos os credores sujeitos a seus efeitos. Essa afirmativa, porém, está condicionada a que o plano não contenha cláusula que contrarie disposição expressa da Lei de Recuperação de Empresas e Falência e que se trate de direito disponível.
+A título de exemplo, valemencionar que o artigo 49, § 1º, da Lei nº 11.101/2005 contém previsão no sentido de que os credores do devedor em recuperação judicial conservam seus direitos e privilégios contra os coobrigados, fiadores e obrigados de regresso.
+Diante disso, a cláusula do plano de recuperação judicial que preveja a perda do direito de o credor acionar os coobrigados, conquanto lícita, depende de aprovação expressa do titular da garantia, obrigando, portanto, somente os credores que votaram favoravelmente ao plano, sem ressalvas, conforme decidiu a SegundaSeção desta Corte no julgamento do REsp nº 1.794.209/SP.
+Nesse contexto, não ficando esclarecido nas razões do recurso especial de que forma o artigo 59 da Lei nº 11.101/2005 estaria violado na hipótese dos autos, incide a Súmula nº 284/STF.
+3. Da violação do artigo 35, I, "a", da Lei nº 11.101/2005
+A recorrente sustenta que a Corte de origem, ao afastar a possibilidade de que o plano limite os créditos trabalhistas ao valor de 150 (cento e cinquenta) salários mínimos, invadiu a competência da assembleia geral de credores, a quem cabe, nos termos do artigo 35, I, "a", da Lei nº 11.101/2005, deliberar acerca daaprovação do plano de recuperação.
+Defende que o mesmo entendimento deve ser aplicado às cláusulas que foram aprovadas pela assembleia geral de credores, mas extirpadas por decisão judicial.
+Nos termos da iterativa jurisprudência desta Corte, o juiz está autorizado a realizar o controle de legalidade do plano de recuperação judicial, sendo-lhe vedado, porém,imiscuir-se em suaviabilidade econômica.
+Confiram-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. APROVAÇÃO DO PLANO DE RECUPERAÇÃO. AUSÊNCIA DE ILEGALIDADES. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da jurisprudência firmada nesta Corte Superior, "o juiz está autorizado a realizar o controle de legalidade do plano de recuperação judicial, sem adentrar no aspecto da sua viabilidade econômica, a qual constitui mérito da soberana vontade da assembleia geral de credores"(REsp 1.660.195/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4/4/2017, DJe de 10/4/2017).
+2. No caso dos autos, a Corte de origem concluiu que não ficou demonstrada nenhuma ilegalidade no plano de recuperação da recorrida, que foi devidamente aprovado pelos credores na Assembleia de Credores, não havendo falar, portanto, em onerosidade excessiva ou enriquecimento sem causa da recuperanda. Incidência da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1643352/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/11/2020, DJe 14/12/2020)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE RECUPERAÇÃO JUDICIAL APROVADO EM ASSEMBLEIA. VIOLAÇÃO DOS ARTS. 165, 458 E 535 DO CPC/1973. OMISSÃO E CONTRADIÇÃO. NÃO OCORRÊNCIA. ATUAÇÃO JUDICIAL LIMITADA AO CONTROLE DA LEGALIDADE DAS DISPOSIÇÕES DO PLANO. SÚMULA N. 83/STJ. REVISÃO DE PROVAS E DE CLÁUSULAS DO PLANO. SÚMULAS N. 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 165, 458 e 535 do CPC/1973 quando a Corte local pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos e suficiente para o julgamento do recurso.
+2. "O juiz está autorizado a realizar o controle de legalidade do plano de recuperação judicial, sem adentrar no aspecto da sua viabilidade econômica, a qual constitui mérito da soberana vontade da assembleia geral de credores"(REsp 1.660.195/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4/4/2017, DJe 10/4/2017). Incidência da Súmula n. 83 do STJ.
+3. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. O conhecimento do recurso pela alínea "c"do permissivo constitucional exige a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ).
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 810.641/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 31/08/2020)
+No caso dos autos, a Corte local, ao analisar a cláusula 7.1.2. do plano de recuperação judicial na forma aprovada pelos credores, concluiu que estava em desacordo com o artigo 83, I, da Lei nº 11.101/2005, que somente incidiria na hipótese de falência.
+Assim, afastou a limitação de 150 (cento e cinquenta) salários mínimos estabelecida no plano aprovado e determinou que o pagamento dos créditos trabalhistas se desse de forma integral na classe I, limitando-se ao plano da legalidade.
+Cumpre assinalar, porém, que esta Corte, no julgamento do REsp nº 1.649.774/SP, decidiu que o artigo 83, I, da LREF não incide automaticamente na recuperação judicial. Apesar disso, a recuperanda e os trabalhadores podem definir um limite máximo para o tratamento preferencial dos créditos trabalhistas, o qual será submetido à aprovação da assembleia.
+Transcreve-se o seguinte trecho do acórdão para melhor compreensão da controvérsia:
+"(..)
+Cabe, portanto, às recuperandas e aos credores da respectiva classe, segundo os critérios e quórum definidos em lei, deliberarem sobre o estabelecimento de um patamar máximo para o tratamento preferencial dos créditos trabalhistas, não havendo a incidência automática do limite previsto no art. 83, I, da LRF, tal como pretendido, subsidiariamente, pelas recuperandas.
+Na presente hipótese, em relação aos débitos trabalhistas, no que se inserem os honorários advocatícios, as recuperandas estipularam o limite de R$ 2.000.000,00, (dois milhões de reais), a fim de assegurar a natureza alimentar, sendo que qualquer valor que excedesse esse limite seria tratado como crédito quirografário, o que foi devidamente aprovado pela correlata classe de credores"(grifou-se).
+Nesse contexto, deve ser considerada válida a cláusula do plano de recuperação judicial aprovada pela assembleia que limitou o tratamento privilegiado do crédito trabalhista a 150 (cento e cinquenta) salários mínimos, sendo que os valores remanescentes serão pagos na forma estabelecida para os créditos quirografários.
+No que respeita à pretensão de queesse entendimento seja estendido às demais cláusulas extirpadas do plano,incide a Súmula nº 284/STF, não sendo possível, diante da deficiência da fundamentação recursal,a exata compreensão da controvérsia.
+4. Da violação do artigo 24, § 1º, da Lei nº 11.101/2005
+A recorrente sustenta que não se mostra razoável majorar os honorários devidos ao administrador judicial para 3% (três por cento) do valor dos créditos sujeitos aos efeitos da recuperação judicial, devendo ser observados os princípios da proporcionalidade e razoabilidade.
+Quanto ao ponto, o voto condutor do acórdão estadual assim se pronunciou:
+"(..)
+Os honorários do administrador judicial são calculados com base no valor devido aos credores submetidos à recuperação judicial (Lei 11.101/05, § 1º, art. 24).
+Conforme constou na decisão (fls. 4.722/4.727 - autos originários), os honorários provisórios foram arbitrados em 1% sobre o valor devido aos credores e o passivo inicialmente conhecido era de R$ 22.000.000,00.
+Ocorre que esse valor aumentou no curso da recuperação com a habilitação do crédito de R$ 76.177.638,14 do Banco do Brasil e R$ 10.392.425,93 do Banco Santander (Brasil) S/A.
+Além disso, há mais de mil credores e cerca de 500 incidentes de crédito que necessitam de apuração minuciosa da administradora judicial para verificação dos créditos sujeitos à recuperação judicial.
+Descabe, ainda, a alegação de bis in idem, por se tratarem de recuperações judiciais distintas.
+Assim, a majoração dos honorários para 3% dos créditos sujeitos à recuperação judicial não é excessiva e respeita o limite previsto no art. 24, § 1º, da Lei 11.101/05"(fls. 119/120, e-STJ - grifou-se).
+Como se verifica do excerto acima transcrito, o Tribunal fundamentou o aumento dos honorários não somente em virtudeda inclusão dos créditos das instituições financeiras, mas também levou em conta a quantidade de credores e a complexidade do trabalho a ser realizado pelo administrador.
+Nesse contexto, o acolhimento da tese da recorrente, de que a remuneração estaria em descompasso com o princípio da razoabilidade, demandaria incursão no conjunto fático-probatório dos autos, providência que encontra óbice na Súmula nº7/STJ.
+Ante o exposto, conheço parcialmentedo recurso e, nessa parte, dou-lhe provimento para declarar a validade da cláusula7.1.2. do plano de recuperação judicial da recorrente, que regula o limite do tratamento privilegiado devido ao crédito trabalhista.
+Publique-se.
+Intimem-se.
