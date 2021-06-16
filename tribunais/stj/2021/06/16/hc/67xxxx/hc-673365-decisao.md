@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GLEISON ROBERTO DE JESUScontra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.21.054577-8/000).
+Consta dos autos que a defesa, irresignada com a decisão do Juízo da execução que indeferiu o pedido de concessão da prisão domiciliar ao paciente, impetrou préviowritperante a Corte de Justiça estadual, que não conheceu da impetração por inadequação da via eleita, nos termos do acórdão assim ementado:
+"EMENTA: "HABEAS CORPUS" - EXECUÇÃO PENAL - VIA IMPRÓPRIA - PRISÃO DOMICILIAR - PORTARIA CONJUNTA Nº 19/PR/TJMG/2020 E RECOMENDAÇÃO Nº 62 DO CNJ - PLEITO APRESENTADO PERANTE O JUÍZO DE ORIGEM - SUPRESSÃO DE INSTÂNCIA - "HABEAS CORPUS" NÃO CONHECIDO. O agravo em execução (art. 197, LEP) é o meio adequado para questionar as decisões do juízo de execução, não cabendo ao "habeas corpus" atuar como substituto recursal, o qual deve ser empregado somente quando flagrante a coação decorrente de ilegalidade da conduta, abuso de poder ou teratologia da decisão, o que não se vislumbra no presente caso. Configura supressão de instância a manifestação deste Eg. Tribunal de Justiça sobre matéria ainda não apreciada pelo juízo de origem"(fl. 124).
+No presente mandamus, sustenta o impetrante que o paciente, condenado pelo delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas) à pena de 5 (cinco) anos de reclusão, em regime semiaberto, faz jus àprisão domiciliar, com base na Recomendação n. 62/2020 do CNJ, pois com a pandemia do COVID-19 houve a suspensão do trabalho externo, ressaltandoque o apenado possuiemprego fixo e a declaração de manutenção de sua vaga pelo empregador.
+Ressalta que o Parquet foi favorável à concessão da prisão domiciliar, tendo em vista que o paciente"provou de forma razoável que já estava trabalhando antes da prisão, inclusive com carteira assinada, o que faz presumir a idoneidade do trabalho"(fl. 4).
+Requer, desse modo, em liminar e no mérito, o deferimento da prisão domiciliar ao paciente ou a concessão da ordem de ofício.
+É o relatório. Decido.
+De início, verifico que a Corte estadual não conheceu da impetração por entender inadequada, emhabeas corpus, a análise de questão relativa à execução da pena, uma vez que já fora interposto o competenteagravo em execução, ainda em trâmite naquele Tribunal.
+Desse modo, como a questão apresentadapela defesa não foiexaminadapeloTribunal de origem no acórdão ora impugnado, amatérianão podeser apreciada por esta Corte Superior nesta oportunidade, sob pena de atuar em indevida supressão de instância.
+Ressalte-se que, apesar de ser o agravo o recurso própriocontra decisão que resolve incidente em execução, não há óbice ao manejo dohabeas corpusquando a análise da legalidade do ato coator não exigir o exame aprofundado de provas e existapossibilidade de lesão à liberdade de locomoção do indivíduo.
+Contudo, a defesa já interpôs o recurso de agravo em execução, o qual se encontra pendente de julgamento na origem, conforme ressaltado no acórdãoimpugnado.
+Dessarte, atese suscitadanowritoriginário serámelhor examinadano âmbito do agravo em execução.
+Nessa linha de raciocínio:
+AGRAVO REGIMENTAL NOHABEAS CORPUS. COMUTAÇÃO DA PENA. DECRETO PRESIDENCIAL N. 8.615, DE 23/12/2015. AUSÊNCIA DOS REQUISITOS OBJETIVOS. DECISÃO FUNDAMENTADA DO JUIZ DE PRIMEIRO GRAU. AGRAVO EM EXECUÇÃO PENDENTE DE JULGAMENTO. SUPRESSÃO DE INSTÂNCIA.AGRAVO IMPROVIDO.
+ ..
+2. Cabe ao Tribunal estadual, e não a esta Corte Superior, reexaminar o cumprimento dos requisitos objetivos para a comutação da pena do paciente, o que não houve no presente caso, porque, conforme acórdão de fls. 105-118, a Corte local não conheceu dowritlá impetrado, pois"o ilustre advogado informou ter sido interposto agravo em execução com o mesmo questionamento (fls. 05)".
+3. Agravo regimental improvido.
+(AgRg no HC 592.805/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 16/11/2020).
+RECURSO ORDINÁRIO EMHABEAS CORPUS.PROCESSUAL PENAL. TENTATIVA DE LATROCÍNIO. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA CONDENATÓRIA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO EMODUS OPERANDI. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. IMPOSSIBILIDADE. ILICITUDE NA APREENSÃO DE APARELHO CELULAR, SUPOSTO VÍCIO NA CONFECÇÃO DO AUTO CIRCUNSTANCIADO DE BUSCA E APREENSÃO DOMICILIAR E FALTA DE COMPROVAÇÃO DA CONDIÇÃO DE ADOLESCENTE. MATÉRIAS NÃO APRECIADAS PELA CORTE DE ORIGEM, POR SER CABÍVEL O RECURSO DE APELAÇÃO. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+ ..
+4. Apesar de ser a apelação o recurso próprio cabível contra a sentença, não há óbice ao manejo dohabeas corpusquando a análise da legalidade do ato coator prescindir do exame aprofundado de provas e existir possibilidade de lesão à liberdade de locomoção do indivíduo. No entanto, na espécie, a Defesa já interpôs recurso de apelação, o qual se encontra pendente da apresentação das respectivas razões, conforme informação processual extraída do sítio daquela Corte.
+5. Diante dessa situação, as questões suscitadas nowritoriginário serão melhor examinadas como preliminares de mérito no âmbito da apelação, a qual é dotada de efeito devolutivo amplo, especialmente com a possibilidade de revolvimento da matéria fático-probatória.
+6. Recurso parcialmente conhecido e, nessa parte, desprovido.
+(RHC 105.032/MT, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 04/02/2019).
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presentehabeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se.
