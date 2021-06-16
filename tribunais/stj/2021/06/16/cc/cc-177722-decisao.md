@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA 5ªVARA CÍVEL DE NATAL - RN, o suscitante, e o JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE TABOÃO DA SERRA - SP,o suscitado, em demanda na qual a parte interessadapleiteia obter cópias de procedimento licitatório deflagrado pelo Município de Taboão da Serra/SP(e-STJ fls. 7/8).
+A ação foi proposta no juízo suscitadoque redistribuiu o feito parao foro do domicílio do autorem Natal/RN, após a manifestação daparte autora de que ocorreuequívoco na distribuiçãopara o juízo paulista(e-STJ fls. 17/18 e 26).
+O Juízo suscitante, por sua vez, declinou da competência por entender que o princípio da autonomia entre os Estados (art. 18 da CF) "impede o julgamento de um Ente Federado Estatal por outro" e que "o réu, na qualidade de ente federado, integra a administração direta, portanto, é da comarca do referido ente da federação a competência para julgar as ações em que figure como parte", salientando, ainda, que "o foro do postulante não é determinante, neste caso, para a fixação da competência, nem houve a ocorrência de nenhuma causa que determinasse a sua modificação." (e-STJ fls. 4/5).
+Manifestação do Ministério Público Federal pela competência do juízo suscitado(e-STJ fls. 35/36).
+Passo a decidir.
+A dicção do art. 34, XXII, do RISTJ permite ao relator "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, constato que assiste razão ao suscitante.
+Os Municípios não têm foro privilegiado (REsp 949.382/MG, Rel. Ministro JOSÉ DELGADO, Primeira Turma, julgado em 23/10/2007, DJ 19/11/2007, p. 206).
+Assim, aplica-sea regra do art. 46 do CPC/2015queestabelece o domicílio do réu como foro geral, o qual, para os Municípios, éa sede da administração municipal (CC, art.75, III e CPC/2015, art. 53, III, "a"), local, aliás, onde a ação foi proposta originalmente pelo autor.
+Uma vez não contemplada nenhuma hipótese para excepcionar a regra gerale por se tratar de competência territorial, não podia o juízo suscitado dela declinar, de ofício, como já sedimentado na Súmula 33 do STJ, que estabelece que "a incompetência relativa não pode ser declarada de ofício".
+Nesse sentido:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL PROPOSTA NA 18ª VARA FEDERAL DE SALVADOR/BA. COMPETÊNCIA RELATIVA.IMPOSSIBILIDADE DE DECLARAÇÃO DA INCOMPETÊNCIA DO JUÍZO DE OFÍCIO.
+1. Consoante assentado pelo Superior Tribunal de Justiça, com fulcro no art. 105, I, "d", da CF, merece conhecimento este Conflito, uma vez que ambos os Juízos, vinculados a Tribunais diversos, declararam-se incompetentes.
+2. A Ação de Execução Fiscal foi proposta na Seção Judiciária do Estado da Bahia, contudo o Juiz da 18ª Vara Federal de Salvador/BA declinou de sua competência para a Seção Judiciária do Paraná, visto que o domicílio da parte executada se encontra "sob a jurisdição de outro TRF, desde antes do ajuizamento da ação." Além disso, asseverou o magistrado em sua decisão, que seria evitada a expedição de "diversos ofícios e cartas precatórias para viabilizar o cumprimento de todos os atos pertinentes á persecução executiva." 3. O Juiz suscitante não aceitou sua competência, tendo em vista o teor do enunciado na Súmula 58 desta Corte.
+4. Com razão o Juízo suscitante, porquanto a incompetência relativa deverá ser alegada como questão preliminar de contestação (art. 64 do CPC), não podendo ser declarada de ofício, como fez o Juízo suscitado.
+5. Conflito de Competência conhecido a fim de declarar competente para processar o feito o Juízo da 18ª Vara Federal de Salvador/BA.
+(CC 167.679/PR, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 27/11/2019, DJe 07/05/2020).
+Ante o exposto, com base no art. 34, XXII, do RISTJ, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE TABOÃO DA SERRA - SP,o suscitado.
+Comunique-se.
+Publique-se. Intimem-se.
