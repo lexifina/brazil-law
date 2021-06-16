@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fls. 44-45):
+Agravo de execução penal. Continuidade delitiva. Inocorrência. Agravo não provido.
+1. Para configurar a continuidade delitiva, é necessário o preenchimento dos requisitos objetivos (condições de tempo, espaço e modus operandi) e subjetivo (unidade de desígnio) em consonância ao entendimento dos tribunais superiores. Precedentes.
+2. Agravo não provido.
+Consta dos autos que foi indeferido pelo Juízo de Execuções Penais o incidente de execução que buscava o reconhecimento da continuidade delitiva, nos termos do art 71 do Código Penal c/c art.66, III, "a", da LEP, com base em 2 guias de execução (itens n. 1.1 e 1.21) que liquidavam as penas de 2 roubos qualificados, ocorridos, respectivamente, em 20/07/2019 e 18/07/2019 (fl. 42-43).
+Inconformada, a defesa interpôs agravo de execução penal, que foi desprovido pelo Tribunal de origem.
+Daí o presente writ, em que o impetrante sustenta, em síntese, estarem preenchidos os requisitos objetivos e subjetivos exigidos pelo art. 71 do CP.
+Requer, liminarmente e no mérito, seja reconhecida a continuidade delitiva das condenações constantes dos Autos n. 0013487-44.2016.8.22.0501 e 0010254-39.2016.8.22.0501.
+Indeferida a liminar, prestadas as informações, manifestou-se o MPF pela denegação da ordem.
+Quanto ao pleito de unificação de penas,a Corte de origem, assim se manifestou (fl. 46):
+Por sua vez, como acertadamente mencionou o magistrado a quo, não houve desdobramento ou prolongamento do crime anterior, até porque o agravante demonstrou que prática inúmeros crimes, pois já foi condenado por diversos delitos.
+Dessa forma, não restou caracterizado o crime continuado tendo em vista que apesar de haver o preenchimento dos requisitos objetivos (condições de tempo, espaço e modus operandi), não houve o preenchimento do requisito subjetivo (unidade de desígnio). Aliás, tanto o Superior Tribunal de Justiça como o Supremo Tribunal de Justiça já se manifestaram sobre o assunto, neste sentido: STJ - HC: 153641 RJ 2009/0223298-0, Rel. Min. Jorge Mussi, data de julgamento: 3/5/2012, T5 - Quinta Turma, Data de Publicação: DJe 16/5/2012; e, STF - RHC: 107761/MS , Rel. Min. Dias Toffoli, Data de Julgamento: 9/8/2011, Primeira Turma, Data de Publicação: DJe-175 Divulg 12/9/2011 Public 13/9/2011 Ement VOL-02585-01 PP-00170.
+Por fim, registro por oportuno que é entendimento pacífico do STF e STJ de que a reiteração criminosa indicadora de delinquência habitual ou profissional é suficiente para descaracterizar o crime continuado. Neste sentido: STJ, HC n. 238.938/RS, Rel. ministra Marilza Maynard - Desembargadora Convocada do TJSE, 6ª T., DJe 2/9/2014; STF, HC 114725, Rel. Min. Ricardo Lewandowski, Segunda Turma, julgado em 4/6/2013, Processo Eletrônico DJe-114 Divulg 14/6/2013 Public 17/6/2013.
+Diante disso, NEGO PROVIMENTO ao agravo, mantendo inalterada a decisão combatida.
+Acerca da questão, nos termos do entendimento deste Superior Tribunal de Justiça, "além dos requisitos de ordem objetiva, para o reconhecimento da continuidade delitiva, é necessário que se observe a unidade de desígnios ou o vínculo subjetivo entre os crimes, adotando a teoria objetivo-subjetiva" (AgRg no REsp 1258206/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 16/04/2015; AgRg no REsp 1078483/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 06/12/2011).
+Como se vê, o Tribunal de origem considerou autônomos os desígnios, uma vez que os crimes forampraticados de forma autônoma, ausente o liame subjetivo entre as condutas.
+Deste modo, o reexame da matéria, com vistas ao reconhecimento da continuidade delitiva, demandaria o revolvimento do conjunto fático-probatório carreado durante a instrução processual, providência, no entanto, inadmissível na estreita via do writ.
+Confira-se o seguinte precedente nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. CONTINUIDADE DELITIVA. NÃO CONFIGURAÇÃO DOS REQUISITOS DO ART. 71 DO CP. AUSÊNCIA DE IDENTIDADE DE DESÍGNIOS. REANÁLISE FÁTICO-PROBATÓRIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Segundo a jurisprudência do col. Supremo Tribunal Federal e deste Tribunal Superior, para efeito de reconhecimento da continuidade delitiva, é indispensável que o réu tenha praticado as condutas em idênticas condições de tempo, lugar, maneira de execução e outras semelhanças e, ainda, que exista um liame a indicar a unidade de desígnios do agente. Precedentes.
+III - In casu, as instâncias ordinárias afastaram a hipótese de crime único e a aplicação da continuidade delitiva, por entender que não foram demonstrados os requisitos exigidos. Ao revés, concluíram que eram crimes autônomos, o que demonstraria a habitualidade criminosa.
+IV - Rever o entendimento assentado para reconhecer que houve crime único ou a figura da continuidade delitiva demandaria necessariamente, amplo reexame do acervo fático-probatório, procedimento incompatível com a estreita via do habeas corpus e de seu recurso ordinário.
+Habeas corpus não conhecido. (HC 599.831/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/09/2020, DJe 29/09/2020)
+Ante o exposto, denego a ordem.
+Publique-se.
+Intimem-se.
