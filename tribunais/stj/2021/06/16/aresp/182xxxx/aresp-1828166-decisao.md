@@ -1,0 +1,46 @@
+DECISÃO
+PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA RURAL.COMPROVAÇÃO DA QUALIDADE DE SEGURADO ESPECIAL. ALTERAÇÃO DO JULGADO.INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. REFORMATIO IN PEJUS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DA AUTARQUIA FEDERAL.
+1.Agrava-se de decisão que inadmitiu o recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, inciso III, alíneaa, da CF/1988, no qual se insurge contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+PREVIDENCIÁRIO. TEMPO RURAL. INÍCIO DE PROVA MATERIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REVISÃO DE RMI. COMPLEMENTO POSITIVO. PRESCRIÇÃO.
+1. Não havendo condenação em valor certo, deve-se conhecer do reexame necessário. Aplicação da súmula 4 90/STJ.
+2. A comprovação do exercício de atividade rural deve-se realizar na forma do art. 55, § 3º , da Lei 8.213/91, mediante início de prova material complementado por prova testemunhal idônea.
+3. Para comprovação do exercício de atividade rural, em regime de economia familiar, admite-se o início de prova material em nome de terceiros integrantes da família. Súmula 73 do T RF/4 ª Região.
+4.Comprovado o exercício da atividade rural, em regime de economia familiar, no período anterior aos 14 anos, deve ser reconhecido o tempo de serviço respectivo.
+5. A determinação de pagamento de diferenças sob a forma de complemento positivo está em confronto com o art. 100 da Constituição Federal, que prevê o precatório como forma de pagamento das dívidas do poder público e o seu §8º, que veda o fracionamento da execução.
+6. Aplicação da prescrição quinquenal do art. 103, parágrafo único, da Lei 8.213/91(fls. 496/502).
+2. Os embargos de declaração opostos foram acolhidos nos termos seguintes:
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. PRESCRIÇÃOQUINQUENAL. INTERRUPÇÃO DA PRESCRIÇÃO NA DATA DE AÇÃOCIVIL PÚBLICA ANTES AJUIZADA. ACOLHIMENTO.
+1. Os embargos de declaração são cabíveis quando há omissão, contradição ou obscuridade no julgado.
+2. A citação válida ocorrida em ação civil pública interrompe a prescrição(arts. 219 do CPC e 203 do CC)(fls. 531/534).
+3. Nas razões do recurso especial (fls. 540/556),a parte agravantesustenta violação do art.55, § 3º, da Lei 8.213/1991, do art. 5º da Lei 11.960/2009, que deu nova redação ao art. 1º-F da Lei 9.494/1997, do art.e 27 da Lei 9.868/1999 e dos arts.128, 460, 503 e 515, todosdo CPC/2015.
+4. Argumenta, para tanto, que: (a) os documentos juntados aos autos pela parte autora são insuficientes para comprovar o alegado labor rural; (b) a atualização do débito deve ser feita nos termos doart. 5º da Lei 11.960/2009; e(c) a alteração dos consectários legais, em prejuízo para a autarquia, semrecurso da parte autora, configura reformatio in pejus.
+5. Devidamente intimada (fls. 563), a parte agravada apresentou as contrarrazões (fls. 564/576). O recurso especial foi admitido na origem (fls. 578/579).
+6. Às fls. 589/591, determinou-sea devolução dos autos ao Tribunal de origem, para aguardar ojulgamento dos Recursos Especiais 1.495.144/RS, 1.495.146/MG e1.492.221/PR, de relatoria do eminente Ministro MAURO CAMPBELL MARQUES,submetidos ao regime de recursos repetitivos - Tema 905/STJ.
+7. Em juízo de retratação, oacórdão foi parcialmente reformado, nos termos da seguinte ementa:
+PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO. CORREÇÃO MONETÁRIA E JUROS DE MORA. TEMA 810 DO STF.
+1. A atualização monetária das parcelas vencidas deve observar o INPC no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/91, especialmente após a conclusão do julgamento, pelo Plenário do STF, em 03-10-2019, de todos os EDs opostos ao RE 870.947 (Tema 810 da repercussão geral), pois rejeitada a modulação dos efeitos da decisão de mérito.
+2. Quanto aos juros de mora, até 29-06-2009 devem ser fixados à taxa de 1% ao mês, a contar da citação, com base no art. 3º do Decreto-Lei n.2.322/1987, aplicável, analogicamente, aos benefícios pagos com atraso, tendo em vista o seu caráter alimentar, consoante firme entendimento consagrado na jurisprudência do STJ e na Súmula 75 desta Corte. A partir de 30-06-2009, por força da Lei n. 11.960, de 29-06-2009, que alterou o art. 1º-F da Lei n.9.494/97, para fins de apuração dos juros de mora haverá a incidência, uma única vez, até o efetivo pagamento, do índice oficial aplicado à caderneta de poupança, conforme decidido pelo Pretório Excelso no RE n. 870.947 (Tema STF 810).
+3. Índice de juros adequado de acordo com os parâmetros estabelecidos pelos Tribunais superiores (fls. 684/688).
+8. Sobreveio o juízo de admissibilidade negativo(fls. 702/705)fundadono óbice da Súmula 7/STJ,razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+9. É o relatório.
+10. A irresignação não merece prosperar.
+11. Nos termos do que decidido pelo plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+12. No que toca à comprovação da condição de segurado especial daparte agravante, para fins de percepção do benefício de aposentadoria rural, o Tribunal de origem assim se manifestou sobre o tema:
+CASO CONCRETO
+A sentença reconheceu em favor do autor, nascido em 20/05/1957, tempo de serviço rural, em regime de economia familiar, de 20/05/1969 a 31/12/74.
+Conforme consta do processo administrativo, o INSS reconheceu, em revisão, o tempo de serviço rural de 21/05/1971 a 31/12/1974 (evento 10, procadm2, fl. 93), que não chegou a fazer parte do pedido.
+A sentença fez referência aos documentos considerados como início de prova material:
+1. Certidão do INCRA, dando conta da existência de imóvel rural, cadastrado em nome dopai do autor - Eloy Amandio Serafim, no período de 1966 a 1974 (fl.24, doc. INIC3,evento1);
+2. Certidão do INCRA, dando conta da existência de imóvel rural, cadastrado em nome dopai do autor, no período de 1973 a 1987 (fl.25, doc. INIC3, evento1);
+3. certidão da Delegacia de Serviço Militar informando que o autor declarou exercer a atividade de lavrador quando do seu alistamento militar em 24.01.1975 (fl.7, doc. OUT4,evento1);
+4. certidão do Cartório de Registro de Imóveis de Itajaí, na qual consta a compra e venda de imóvel rural em 04.10.1956, na qual o pai do autor figura como adquirente e é qualificado como lavrador (fl.9, doc. OUT4, evento1).
+Como já se disse, o início de prova material de que trata o art. 55, § 3º, da Lei8.213/91, não passa de um sinal deixado no tempo, não sendo exigível, portanto, que seja conclusivo nem suficiente para a formação de juízo de convicção. É apenas uma indicação do que existiu, vindo daí a necessidade de sua complementação pela prova oral. Portanto, considero válidos para tal fim os documentos acostados.
+A prova oral (evento 3) confirmou o trabalho rural no período controverso, conforme mencionado em sentença:
+ ..
+Desta forma, porque comprovado o exercício de atividade rural em regime de economia familiar na forma do art. 55, § 3º, da Lei 8.213/91, é devido o reconhecimento do tempo de serviço rural dos 12 aos 14 anos (fls. 497/498).
+13. Com efeito, o tribunal de origem reconheceu que a parte agravada apresentara provas suficientes para comprovar o labor rural. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+14. No que concerne aosarts. 128, 460, 503 e 515, todos do CPC/2015, verifico que os dispositivos de lei federalnão foramapreciadospelo tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida. A ausência de enfrentamento pelo tribunal de origem da matériaimpugnada, objetodorecurso excepcional,impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do STF.
+15. Com relação aos consectários legais da condenação, fica prejudicadasua análise diante do juízo de retratação feito pelo tribunal de origem.
+16. Ante o exposto, conheço do agravo para não conhecer do recurso especial da autarquia federal.
+17. Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+18. Publique-se. Intimações necessárias.
