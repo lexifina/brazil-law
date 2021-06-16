@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO INATACADO. IRRESIGNAÇÃO. DEFICIÊNCIA. MATÉRIA CONSTITUCIONAL. ANÁLISE. INVIABILIDADE.
+1.O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+2. Conforme entendimento sedimentado na Súmula 283 do STF, não se conhece de recurso especial quando inexistente impugnação específica a fundamento autônomo adotado pelo órgão judicial a quo.
+3. Orecurso especial não serve à pretensão de revisão de acórdão cuja conclusão se apoia em fundamentação constitucional.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado pela FAZENDA NACIONALcontra decisão por mim proferida, constante às e-STJ fls. 732/736, em que não conheci do recurso especial, por entender (i) ausente prequestionamento dos arts. 156 do CTN e 381 do CC/2002; (ii) incidente aSúmula 283 do STFe (iii) contornos do acórdão combatido fulcrados em índole constitucional.
+Nas suas razões (e-STJ fls. 748/754), a agravante sustenta que impugnou todos os fundamentos do julgado, em especial (e-STJ fls. 749/750):
+Esclarecida a NATUREZA DO CRÉDITO, necessário ressaltar que as declarações de imunidade proferidas em outros feitos judiciais em favor da autora não têm o condão de anular a presente inscrição em dívida ativa, tendo em vista tratar-se de descumprimento de obrigação acessória, em razão da autonomia dos deveres instrumentais.
+É sobejo que pessoas imunes ou isentas devem cumprir as obrigações acessórias, nos exatos termos dos artigos 175, parágrafo único e 194, parágrafo único, ambos do CTN.
+Asseverou, outrossim, que não se trata de matéria constitucional, mas sim de violação delegislação federal: "parágrafo único do art. 175 do CTN e parágrafo único do art. 194 do CTN" (e-STJ fl. 750).
+Im  pugnação apresentada às e-STJ fls. 758/801.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO INATACADO. IRRESIGNAÇÃO. DEFICIÊNCIA. MATÉRIA CONSTITUCIONAL. ANÁLISE. INVIABILIDADE.
+1.O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+2. Conforme entendimento sedimentado na Súmula 283 do STF, não se conhece de recurso especial quando inexistente impugnação específica a fundamento autônomo adotado pelo órgão judicial a quo.
+3. Orecurso especial não serve à pretensão de revisão de acórdão cuja conclusão se apoia em fundamentação constitucional.
+4. Agravo interno desprovido.
+VOTO
+O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+Os argumentos ora deduzidos não convencem, devendo ser mantida a decisão agravada por seus próprios fundamentos.
+Na origem, cuida-se de mandado de segurança onde a parte impetrante postulou o reconhecimento de sua imunidade relativamente às contribuições previdenciárias federais e assistenciais destinadas a terceiros, tendo por fundamento o art. 195, § 7º, da CF/1988.
+A sentença fora concessiva da ordem, tendo o Tribunala quo amantidona íntegra, no que diz com o mérito da demanda.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 662 e seguintes):
+A documentação que instrui a inicial evidencia a peculiar situação jurídica do autor frente à União. Cumpre determinar se deste quadro decorrem ou não as conseqüências jurídicas por ele desejadas.
+A questão não é simples, e pode refletir na conduta dos entes federados em suas escolhas relativas ao modo de prestação de serviços que julguem necessários ao bem da coletividade, o que foi reconhecido na Repercussão Geral no Recurso Extraordinário nº 580264/RS, relatado pelo Ministro Joaquim Barbosa (LEXSTF, v. 31, nº 361, 2009, pg. 243/249).
+ ..
+"De fato, a vinculação do Grupo Hospitalar Conceição à União Federal teve sua gênese quando, através do Decreto 75.403/75, foram declaradas de utilidade pública as ações constitutivas do capital social das sociedades anônimas componentes de tal grupo (o Hospital Nossa Senhora da Conceição S.A., o Hospital Fêmina S.A. e o Hospital Cristo Redentor S.A.), como resultado de que a direção dessas entidades, então responsáveis pelo mais amplo atendimento médico-hospitalar prestado à Previdência Social no Estado do Rio Grande do Sul, comunicara oficialmente ao Instituto Previdenciário que não mais arcaria com esse ônus. Em seguida, o Decreto 75.457/75 restringiu a desapropriação das ações às quotas correspondentes a 51% do capital social, sob o fundamento de que o controle administrativo era suficiente a assegurar a continuidade dos serviços. Essa expropriação ensejou uma situação jurídica peculiar ao referido grupo hospitalar que de certa forma se assemelha à sociedade de economia mista. Resta verificar se as figura s jurídicas efetivamente coincidem.
+ ..
+O que se percebe dos autos é que os nosocômios integrantes do Grupo Hospitalar Conceição já pre-existiam à afetação da maior parte de seu capital social à União Federal, não tendo sido, à toda evidência, criados por lei. Se assim é, o que ressai evidente é que o domínio acionário federal possibilitado pelos decretos não deu gênese às empresas, e, portanto, não cumpriu o seu requisito formal de constituição. Mas, se de sociedades de economia mista nãose tratam os estabelecimentos hospitalares em apreço, em que consistem  Qual a figura jurídica que melhor reflete sua condição
+A meu ver, afastar-se o enquadramento de sociedade de economia mista a essas entidades impenderia de uma qualificação que melhor refletisse a conjuntura dessas instituições. Essa qualificação existe, e pode ser verificada na própria Constituição Federal de 1988 quando, em seu art. 37, XVII, ao lado das autarquias, fundações, das empresas públicas e das sociedades de economia mista, além de suas respectivas subsidiárias, refere as sociedades controladas, direta ou indiretamente, pelo poder público. Ao fazer menção a essas sociedades, o constituinte reconheceu expressamente a possibilidade de o poder público controlar determinadas sociedades que não se enquadram nos moldes tradicionais da administração pública indireta. A previsão de existência dessa nova forma de intervenção estatal no domínio privado, ademais, não escapara despercebida ao Poder Executivo, cujo Decreto 84.128/79 previa, dentre as empresas estatais, em seu art. 2º, I, o nomen juris posteriormente reproduzido na Carta de 1988.
+Com isso, ao que tudo indica, cuida-se o Grupo Hospitalar Conceição de sociedade controlada diretamente pelo poder público, seu acionista majoritário, não sendo passível de enquadramento nas acepções de sociedade de economia mista e tampouco de empresa pública - e muito menos como autarquia ou fundação pública -, nos termos da normativa supramencionada." As peculiaridades relativas à natureza e às finalidades institucionais do Grupo Hospitalar Conceição também foram reconhecidas nos mandados de segurança nº 2006.71.00.030740- 9 e 2007.71.00.027997- 2, nos quais se garantiu- se a imunidade do ora autor no tocante a tributos exigidos pela Receita Federal e Receita Previdenciária, com fundamento na sua peculiar situação jurídica frente à União.
+Muito embora tais decisões não vinculem este juízo, e ainda estejam sujeitas a recurso, cumpre considerá-las, no intuito de conferir tratamento jurídico uniforme ao autor.
+Estabelecidas tais premissas, conclui- se que o autor executa somente serviços de natureza pública da saúde, de acesso universal e gratuito, sem contraprestação dos tomadores, custeados por receitas decorrentes de tributos federais, repassadas pela própria ré, tanto para custeio quanto para investimento, quadro que evidencia o peculiar vínculo jurídico com a União.
+Tal quadro autoriza, ao menos em juízo delibatório, a conclusão de que o prosseguimento da exigência dos créditos fiscais acarreta confusão entre credor e devedor, tornando- os inexigíveis.
+ ..
+Diante do que foi acima transcrito, não vejo razões para deixar de adotar o referido entendimento, agregando-se a isso o teor da petição juntada no "evento 18 - pet1", em que a própria União informa que procura regrar a singular situação, externando que o Hospital Conceição, "que pertence totalmente à União (capital 100% federal), é objeto de especial preocupação da Fazenda Nacional". E mais, postulou, ao final, "a suspensão do processo por 120 dias", para que seja aguardada "definição do assunto" pela Câmara de Conciliação.
+Ainda que tal petição não seja (e não é) uma concordância com os argumentos alinhavados na inicial, e mesmo que o regramento a ser editado não venha a perdoar o montante total da dívida apurada, trata-se de um indicativo de uma possível saída administrativa que não traga maiores prejuízos a um hospital essencial na manutenção da saúde e, conseqüentemente, a toda a sociedade.
+ ..
+Com efeito, no caso, confundem-se a credora e a devedora, mantida com recursos públicos federais.
+Nesse sentido já decidiu esta Corte:
+ ..
+Ademais, o Colendo Supremo Tribunal Federal concluiu o julgamento do Tema 115 no âmbito da Repercussão Geral, relativo à aplicação da imunidade tributária recíproca às sociedades de economia mista que prestam serviços de saúde exclusivamente pelo SUS, nos seguintes termos:
+CONSTITUCIONAL. TRIBUTÁRIO. RECURSO EXTRAORDINÁRIO.
+REPERCUSSÃO GERAL. IMUNIDADE TRIBUTÁRIA RECÍPROCA.SOCIEDADE DE ECONOMIA MISTA. SERVIÇOS DE SAÚDE.
+1. A saúde é direito fundamental de todos e dever do Estado (arts. 6º e 196 da Constituição Federal). Dever que é cumprido por meio de ações e serviços que, em face de sua prestação pelo Estado mesmo, se definem como de natureza pública (art. 197 da Lei das leis).
+2 . A prestação de ações e serviços de saúde por sociedades de economia mista corresponde à própria atuação do Estado, desde que a empresa estatal não tenha por finalidade a obtenção de lucro.
+3. As sociedades de economia mista prestadoras de ações e serviços de saúde, cujo capital social seja majoritariamente estatal, gozam da imunidade tributária prevista na alínea "a" do inciso VI do art. 150 da Constituição Federal.
+3. Recurso extraordinário a que se dá provimento, com repercussão geral.
+(RE 580264, Relator: Min. JOAQUIM BARBOSA, Relator p/ Acórdão: Min.
+AYRES BRITTO, Tribunal Pleno, julgado em 16/12/2010, REPERCUSSÃO GERAL - MÉRITO DJe-192 DIVULG 05-10-2011 PUBLIC 06-10-2011 EMENT VOL-02602-01 PP-00078).
+Pois bem.
+Da leitura do excerto do acórdão supracitado, depreende-se que o fundamento central do acórdão recorridopara concluir que a sociedade hospitalar goza da imunidade tributária foi o fato de ser aplicável a "imunidade tributária recíproca às sociedades de economia mista que prestam serviços de saúde exclusivamente pelo SUS".
+Nas razões do apelo raro, todavia, a agravante não impugnou esse fundamento específico esuficiente para a manutenção do acórdão recorrido, quanto ao ponto, o que atrai a incidência da Súmula 283 do STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais, como se nota, o órgão julgador, com base em entendimento jurisprudencial do STF, considerou que a entidade agravada comprovou o direito à imunidade tributária.
+Nesse cenário, consoante afirmado na decisão monocrática,o recurso também não poderia ser conhecido, pois o voto condutor do acórdão recorrido se apoia em fundamentação constitucional, derivada da interpretação do art. 195, § 7º, da Constituição Federal, e o recurso especial, por isso, não serve à revisão do decisum, nos termos do art. 105, III, da CF/1988.
+Por fim, embora não merecedor de acolhimento, tenho que o presente inconformismo não representa interposição de agravo interno manifestamente inadmissível ou improcedente, a ensejar, por decisão unânime do Colegiado, a multa processual prevista no § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
