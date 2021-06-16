@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus com pedido liminar interposto por RAFAEL LAMOIA SANTANA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.20.554276-4/000).
+Conforme relatado pela Vice-Presidência do Superior Tribunal de Justiça (e-STJ fl. 142):
+O recorrente foi preso em flagrante pela prática, em tese, do delito previsto no art. 155, §§ 1º e 4º, inciso I, c/c art. 14, inciso II, ambos do Código Penal, sendo o flagrante convertido em prisão preventiva.
+A defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Sustenta o recorrente a ausência de fundamentação idônea para a decretação de sua prisão preventiva, destacando a possibilidade de aplicação de medidas cautelares diversas à prisão, as quais entende serem mais adequadas ao caso concreto (crime patrimonial realizado sem violência ou grave ameaça, que não chegou a consumar-se, tratando-se de delito não hediondo, que admite regime aberto ou semiaberto).
+Requer, liminarmente e no mérito, a revogação de sua segregação cautelar, se necessário, com aplicação de medidas cautelares previstas no art. 319 do Código de Processo Penal.
+O pedido de liminar foi indeferido (e-STJ fls. 142/143).
+Prestadas as informações pelas instâncias ordinárias(e-STJ fls. 146/154), oMinistério Público Federal exarou parecer opinando pelo desprovimento do recurso(e-STJ fls. 163/169).
+É, em síntese, o relatório.
+Decido.
+No caso, o Juízo de primeiro grau prestou as seguintes informações no dia 26/1/2021 (e-STJ fls. 151/152):
+Na presente data, Rafael Lamoia Santana foi condenado pela prática docrime previsto no art. artigo 155, §1º e 4º, inciso I, na forma do artigo 14,inciso II, ambos do Código Penal.
+Informo que, tendo em consideração as circunstâncias de ter o réuRafael Lamoia Santana respondido ao processo preso, e por entender queainda subsistem os motivos que ensejaram a manutenção da prisão cautelar ea negativa da liberdade provisória, corno o requisito da garantia da ordempública previsto no artigo 312 e seguintes do CPP para decretação da PrisãoPreventiva, tendo em mira as várias anotações na CAC de f. 48/49-v e f.59/61, a constatação de que o acusado, além de reincidente e possuidor demaus antecedentes, é conhecido no meio policial em ocorrência de furto,conforme depoimento prestado em Juizo pelo policial militar Sandro FerreiraTitonelli, determinei a manutenção da prisão do acusado, nos termos do artigo387, § 1º, do Código de Processo Penal, acrescentando que, conquanto não sedesconheça a gravidade da epidemia que assola o mundo (Covid-19), bemainda o teor da Portaria Conjunta nº 19/PR-TJMG/2020 e da Recomendação62/2020 do Conselho Nacional de Justiça, não vislumbrei conjunturaexcepcional capaz de ensejar a imediata substituição da prisão do acusado pormedidas cautelares alternativas.
+Por fim, informo que determinei a expedição de Guia de ExecuçãoProvisória para o cumprimento da pena imposta ao acusado, ora paciente,uma vez que, diante dos maus antecedentes, da reincidência e por entendercomo necessário para reprovação e prevenção do crime praticado por RafaelLamoia Santana, restou estabelecido que deve o réu iniciar o cumprimento dareprimenda no regime fechado.
+Ficou, portanto, semobjeto opedido contido na inicial, em que a defesa insurgia-se contra a custódia cautelar,visto que a restrição da liberdade, agora, decorre de novo título, não submetido ao pronunciamento do Tribunal de origem.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça,julgo prejudicadoo presente recurso.
+Publique-se. Intimem-se.
