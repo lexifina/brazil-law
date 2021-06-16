@@ -1,0 +1,32 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “FEPASA. Pensionista. Complementação de pensão. Preliminares de impossibilidade jurídica do pedido e prescrição afastadas. Piso salarial de 2,5 salários mínimos. Lei Estadual 9.343/96 que prevê complementação das aposentadorias e pensões nos termos do Contrato Coletivo de Trabalho 1995/1996. Pagamento do referido piso nos anos seguintes. Impossibilidade. Contrato válido apenas para o biênio 1995/1996. Inexistência de prorrogação. Aplicação da Súmula Vinculante 4. Recurso improvido” (pág. 2 do documento eletrônico 13).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se violação dos arts. 5°, XXXVI; 7°, XXVI; e 37, caput e VI, da mesma Carta.
+    A Presidência desta Corte determinou a devolução do feito à origem, nos termos do artigo 1.040 do CPC/2015, por entender que a controvérsia guardava identidade com os Temas 256 e 273 da repercussão geral (documento eletrônico 38).
+    Em sede de juízo de retratação, a 10ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo manteve integralmente o acórdão proferido anteriormente, nos seguintes termos:
+    “FEPASA. Pensionista. Complementação de pensão. Piso salarial de 2,5 salários mínimos. Lei Estadual 9.343/96 que prevê complementação das aposentadorias e pensões nos termos do Contrato Coletivo de Trabalho 1995/1996. Pagamento do referido piso nos anos seguintes. Impossibilidade. Contrato válido apenas para o biênio 1995/1996. Inexistência de prorrogação. Adequação do acórdão ao decidido pelo STF no RE nº 603451/SP. Mantida a sentença que julgou improcedente a ação. Acórdão mantido” (pág. 8 do documento eletrônico 41).
+    A pretensão recursal não merece acolhida.
+    Consta no voto condutor do acórdão recorrido:
+    “[...]
+     A autora pretende que se respeite o piso salarial determinado pela Lei 9.343/961. Não há como acolher a pretensão porque referida lei fixa o piso salarial da complementação somente no biênio 1995/1996, não determinando sua manutenção nos anos seguintes.
+    Por outro lado, é vedado vincular o salário mínimo para qualquer fim (art. 7º, IV da CF e Súmula Vinculante 4).
+    Nesse sentido já decidiu esta Décima Câmara na Apelação Cível nº 0617231-51.2008.8.26.0053, relatada pelo Desembargador Antonio Carlos Villen, cujos fundamentos ficam adotados:
+    […]
+    Quanto à tese com repercussão geral firmada no Recurso Extraordinário 603.451/SP, anoto que diz respeito à impossibilidade de o Judiciário determinar nova base de cálculo para cálculo de vantagens remuneratórias de servidores públicos e empregados, visto que atuaria como legislador positivo. O Estado de São Paulo recorreu do acórdão que determinou que a complementação de aposentadoria de ex-empregado da Fepasa levasse em conta o piso salarial de 2,5 salários mínimos, como ora é pleiteado. Contudo, não foi analisado propriamente o direito ao piso salarial pleiteado, mas à vedação, uma vez reconhecido tal direito (o que não é o caso), de se alterar de ofício o indexador da base de cálculo (salário mínimo), uma vez isso não é permitido ao Judiciário.
+    Por outro lado, no julgamento do AgR no RE nº 60358/SP (j. 09/11/2010, Rel. Min. Cármen Lúcia) ficou assentado que a questão dos reajustes é controvérsia infraconstitucional, havendo apenas ofensa indireta à Constituição Federal. Reafirmou que, por esse motivo, o recurso extraordinário não seria admitido” (págs. 3-5 do documento eletrônico 13).
+     Nesse contexto, verifico que para divergir do entendimento do Tribunal a quo e analisar os argumentos apresentados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF, bem como da legislação infraconstitucional pertinente, de modo que a ofensa à Constituição, seria apenas indireta, o que inviabiliza o recurso extraordinário. Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Aposentados e pensionistas da extinta Fepasa S/A. Restabelecimento do adicional por tempo de serviço. Cláusulas do contrato de trabalho. Fatos e provas. Análise. Impossibilidade. Precedentes.
+    1. Não se presta o recurso extraordinário para a análise de cláusulas de contrato de trabalho, nem para o reexame do conjunto fático-probatório da causa. Incidência das Súmulas nºs 454 e 279/STF.
+    2. Agravo regimental não provido” (ARE 913.206-AgR/SP, Rel. Min. Dias Toffoli).
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. FEPASA. INATIVOS. EXTENSÃO DE ABONO CONCEDIDO COM BASE EM DISSÍDIO COLETIVO. MATÉRIA INFRACONSTITUCIONAL. SÚMULA 280/STF. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO (AI 563.702-AgR/SP, Rel. Min. Teori Zavascki).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PENSIONISTAS DE EX-FERROVIÁRIOS DA FEPASA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356. DECRETO Nº 35.530/59. MATÉRIA INFRACONSTITUCIONAL. SÚMULA 280. REEXAME DE FATOS E CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454. AGRAVO IMPROVIDO.
+     I - Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido.
+    II - A análise da alegada ofensa à Constituição, demanda apreciação de normas infraconstitucionais locais (Decreto 35.530/59), o que inviabiliza o extraordinário a teor da Súmula 280 do STF.
+    III - Para se chegar à conclusão contrária a do acórdão recorrido, necessário seria o reexame do conjunto fático dos autos e de cláusulas contratuais, o que é vedado pelas cláusulas 279 e 454 do STF.
+    IV - Agravo regimental improvido.” (AI 793.610-AgR/SP, de minha relatoria).
+    Por fim, ressalto que essa orientação foi consolidada pelo Plenário desta Corte no exame do RE 610.223/SP, de relatoria da Ministra Ellen Gracie, onde se concluiu pela ausência da repercussão geral da matéria versada neste feito em virtude de sua natureza infraconstitucional. O acórdão desse julgamento ficou assim ementado:
+    “EXTENSÃO AOS APOSENTADOS E PENSIONISTAS DA ANTIGA FEPASA DE VANTAGENS SALARIAIS CONCEDIDAS AOS FERROVIÁRIOS EM ATIVIDADE COM BASE EM ACORDO COLETIVO. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL''.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 16 de junho de 2021.
+Ministro Ricardo Lewandowski
+Relator
