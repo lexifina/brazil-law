@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de AGRAVO EM RECURSO ESPECIAL interposto pelo MUNICÍPIO DE SÃO PAULO contra decisão da Corte de origem que não admitiu o recurso especial.
+Inicialmente consigne-se que ao presente recurso incide o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A decisão ora agravada obstou o recurso especial aos seguintes fundamentos: inadmissão devido i) àincidência da Súmula 7/STJ; ii) ao fato de os argumentos expendidos não serem suficientes para infirmar as conclusões do acórdão combatido;iii) ao fato de ter o recorrente deixado de atender ao requisito previsto nos arts. 541, parágrafo único do CPC/73, no tocante à alegada divergência jurisprudencial; enão seguimento, com fundamento no art. 1.030, I, b, do CPC/2015, por a vexata questio - o entendimento firmado no sentido de que o sujeito ativo da relação tributária, na vigência do DL 406/68, é o Município da sede do estabelecimento prestador e, a partir da LC 116/03, é aquele onde o serviço é efetivamente prestado- ter sido resolvida em conformidade com entendimento firmado pelo STJ, em sede de julgamento de representativo de mesma controvérsia, atinente ao Tema STJ n. 355.
+Na sistemática do Código de Processo Civil de 1973, quando o especial era inadmitido com fundamento no art. 543-C, § 7º, do referido estatuto processual, o Superior Tribunal de Justiça aplicava o princípio da fungibilidade a fim de determinar o retorno dos autos ao Tribunal de origem para a apreciação do recurso como agravo regimental/interno, uma vez que havia dúvida objetiva acerca do recurso adequado, notadamente em face da redação do art. 544 do CPC/1973.
+Todavia, o art. 1.030, § 2º, do Novo Estatuto Processual prevê expressamente o cabimento do agravo interno contra a decisão da Corte de origem que inadmitir o apelo nobre com base em entendimento desta Corte firmado em recurso repetitivo.
+Na espécie, o agravante interpôs agravo interno quanto às questões não admitidas com fundamento em entendimento firmado em recurso repetitivo, o qual foi negado provimento (fls. 5.741-5.745)
+Sendo assim, a análise do agravo em recurso especial restringer-se-á aos fundamentos utilizados, em seu teor, para impugnar a decisão agravada quanto ainadmissão do recurso especial.
+Pois bem.
+Verifica-se, no tocante i) à incidência da Súmula 7/STJ; ii) ao fato de os argumentos expendidos não serem suficientes para infirmar as conclusões do acórdão combatido; e iii) ao fato de ter o recorrente deixado de atender ao requisito previsto nos arts. 541, parágrafo único do CPC/73, que o agravante não impugna especificamente a sua aplicação pela decisão que inadmitiu o recurso especial, o que acarreta o não conhecimento do agravo.
+Ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, conforme dispõe o art. 932, III, do CPC/2015.
+Com efeito, a ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispunha o art. 544, § 4º, I, do CPC/1973, normativo esse que também faz parte do contido no art. 932, III, do CPC/2015 e no art. 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+A propósito, na parte que interessa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispunha o art. 544, § 4º, I, do CPC/1973, normativo esse que também faz parte do contido no art. 932, III, do CPC/2015 e no art. 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+ ..
+(AgInt nos EDcl no AREsp 713.374/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/8/2017, DJe 25/8/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO APELO NOBRE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. AGRAVO IMPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade do apelo nobre, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do artigo 932, III, do CPC/2015 (artigo 544, § 4º, I, do CPC/1973).
+ ..
+(AgInt no AREsp 993.261/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/8/2017, DJe 30/8/2017)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
