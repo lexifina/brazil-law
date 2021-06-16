@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de recurso especial interposto por BANCO BRADESCO S/A com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 22/02/2016.
+Conclusos ao gabinete em: 05/12/2018.
+Ação: de cumprimento individual de sentença coletiva, ajuizada por WILSON KOITI TASHIMA E OUTRA em face do recorrente, por meio da qual pleiteiam o recebimento de expurgos inflacionários referentes aos Planos Bresser e Verão, reconhecidos em sentença proferida em ação coletiva de consumo ajuizada pela Associação de Defesa do Consumidor de Mato Grosso do Sul (ADEC-MS).
+Decisão: acolheu parcialmente a impugnação ao cumprimento de sentença apenas para excluir do cálculo do valor executado a multa do art. 475-J do CPC/73 e fixar como termo inicial da incidência dos juros de mora a data da citação da recorrente na ação coletiva.
+Acórdão: manteve a decisão unipessoal do relator que negou provimento ao agravo de instrumento interposto pelo recorrente.
+Recurso especial: aponta violação dos arts. 219, § 5º, 269, IV, 468, 475-O, III, 543-C, caput e §§ 1º e 2º, 557, § 2º, do CPC/73; 178, § 10, III, do CC/16; 206, § 3º, III, do CC/02; e 27 do CDC, além de dissídio jurisprudencial.
+Afirma que a suspensão do curso da presente ação deveria perdurar até o trânsito em julgado dos recursos especiais repetitivos relativos ao Tema 685/STJ (termo inicial dos juros de mora em ação coletiva), o que ainda não ocorreu, e que a continuidade da tramitação do presente cumprimento individual de sentença dependeria do fracionamento da coisa julgada, o que reputa ilegal e prejudicial à ordem pública e à segurança jurídica.
+Argui a ilegitimidade ativa dos autores individuais, os quais, segundo entendimento do STF firmado em recurso extraordinário com repercussão geral, deveriam ser associados e ter concedido autorização expressa para que a associação ajuizasse a ação coletiva de consumo, sob pena de a sentença de procedência não lhes beneficiar.
+Aduz que o termo inicial da fluência dos juros de mora é a data de sua citação na fase de liquidação no cumprimento individual de sentença, e não no processo coletivo de conhecimento, e que há insegurança quanto à natureza jurídica dos juros, se compõe juros contratuais ou se tratam de juros judiciais.
+Argumenta que deveria ser reconhecida de ofício a prescrição, pois a cobrança do valor constante na sentença de procedência só pode ser realizada em até cinco anos após o trânsito em julgado da ação coletiva.
+Sustenta que o CDC não é aplicável à hipótese concreta, pois os fatos ocorreram antes de sua vigência e, assim, ou se aplica o prazo de vinte anos do CC/16, contados do conhecimento dos fatos narrados da inicial, ou o prazo de cinco anos, contados da vigência do código consumerista.
+Acrescenta que, como a prescrição da pretensão de cobrança dos juros remuneratórios é de cinco anos, deve ser limitada a exigência dos juros remuneratórios vencidos nos cinco anos anteriores à propositura da ação.
+Por fim, alega ser indispensável a apresentação de caução para o levantamento dos valores depositados na execução provisória.
+Decisão: diante de decisão proferida pelo e. STF e da deliberação da Segunda Seção de 24/04/2019, os recorridos foram intimados para se manifestarem sobre o interesse em aderir ao acordo homologado pela Suprema Corte (e-STJ, fl. 286).
+Petição: os recorridos informam não possuir interesse na adesão ao acordo (e-STJ, fl. 291).
+Suspensão do julgamento: após a inclusão do processo em pautacolegiada da Terceira Turma e o início de sua apreciação, foi acolhida, em 20/08/2019, questão de ordem para suspender o julgamento até a decisão finaldo Tema 948/STJ.
+Com o julgamento definitivo do Tema 948/STJ, aprecio o presente recurso pela via unipessoal.
+RELATADO O PROCESSO. DECIDE-SE.
+Julgamento: aplicação do CPC/73.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 468, 475-O, III, 543-C, caput e §§ 1º e 2º, 557, § 2º, do CPC/73; 178, § 10, III, do CC/16; e 206, § 3º, III, do CC/02, indicados como violados, não tendo sequer o recorrente oposto embargos de declaração com a finalidade de sanar eventual omissão do Tribunal de origem no exame dessas disposições e das matérias por elas regulamentadas.
+O julgamento do recurso especial quanto a esses temas é, portanto, inadmissível, à míngua do indispensável prequestionamento. Aplica-se, à hipótese, a Súmula 282/STF.
+- Do fracionamento da coisa julgada (deficiência de comprovação da divergência jurisprudencial)
+No que diz respeito à tese de que o acórdão recorrido estaria fracionando indevidamente os capítulos da sentença com trânsito em julgado, o recorrente não evidencia a suposta divergência jurisprudencial mediante os necessários cotejo analítico e comprovação da similitude fática, elementos indispensáveis à demonstração do alegado dissídio pretoriano.
+Assim, descumpridos os arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ, o recurso especial não ultrapassa a barreira da admissibilidade, o que impõe seu não conhecimento no ponto.
+-Do oferecimento de caução e da natureza jurídica dos juros em cobrança (Súmula 284/STF)
+Quanto à necessidade de oferecimento de caução, o recorrente não demonstrou como o Tribunal de origem teria violado o art. 475-O, III, do CPC/73, e, quanto à discussão sobre a natureza jurídica dos juros, não indicou dispositivo infraconstitucional tido por violado.
+Ademais, não impugnou o fundamento do acórdão recorrido de que "em relação ao questionamento acerca da natureza dos juros moratórios julgados, se são juros contratuais ou judiciais, bem como da caução, nota-se que o agravante carece de interesse recursal, porquanto a decisão agravada nada dispôs a respeito dessas matérias" (e-STJ, fl. 162).
+Atraiu, assim, mais uma vez, a incidência da Súmula 284/STF, ante a deficiência da fundamentação deduzida em seu recurso especial.
+- Da prescrição (Súmulas 282 e 284 do STF e deficiência de demonstração do suposto dissídio jurisprudencial)
+Constata-se, da leitura das razões do recurso especial, que quanto às alegadas a) prescrição da pretensão de cobrança de expurgos inflacionários e de juros remuneratórios e a b) inaplicabilidade do CDC, o recorrente não demonstra como o acórdão recorrido teria violado os arts. 219, § 5º, e 269, IV, do CPC/73 e 27 do CDC.
+De fato, não correlaciona seus argumentos ao fundamento do acórdão recorrido de que "o prazo prescricional para o ajuizamento de execução individual em pedido de cumprimento de sentença proferida em ação civil pública é de cinco anos" (e-STJ, fl. 158), razão pela qual, como "a ação civil pública no 2281/2008, cuja execução individual pretendem os agravados transitou em julgado em 08/09/2009", "o prazo quinquenal começou a fluir em 09/09/2009 e terminou em 09/09/2014, enquanto, de acordo com o agravante, a ação foi ajuizada em 2011, razão pela qual não se consumou a prescrição" (e-STJ, fl. 159).
+Ademais, os dispositivos tidos por violados nem sequer foram enfrentados no acórdão recorrido, estando, assim, ausente o indispensável prequestionamento.
+Incidem, portanto, as Súmulas 282 e 284 do STF, o que importa a inviabilidade do conhecimento do recurso especial no ponto.
+Não o suficiente, a suposta divergência jurisprudencial com julgado proferido por esta Corte relativo aos juros remuneratórios também não foi demonstrada a contento, o que impossibilita o conhecimento do recurso especial em relação à suposta ocorrência de prescrição também com fundamento na alínea "c" do permissivo constitucional.
+- Da legitimidade ativa para o cumprimento individual de sentença de procedência da ação coletiva (Tema 948/STJ)
+Em sede de recurso especial repetitivo, a e. Segunda Seção definiu tese a respeito do tema, consolidando a orientação segundo a qual "em ação civil pública proposta por Associação, na condição de substituta processual de consumidores, possuem legitimidade para a liquidação e execução da sentença todos os beneficiados pela procedência do pedido, independentemente de serem filiados à Associação promovente"(REsp 1438263/SP, Segunda Seção, DJe 24/05/2021).
+Na hipótese em exame, cuida-se de ação de cumprimento individual de sentença proferida em ação coletiva de consumo relacionada a direitos pertencentes a todos os poupadores cujos investimentos estivessem depositados em instituições financeiras durante a vigência dos Planos Bresser e Verão, o que configura a origem comum dos direitos e os qualifica como interesses individuais homogêneos, nos termos do art. 81, III, do CDC.
+Nessas circunstâncias, a autora coletiva atuou, portanto, na condição de substituta processual dos poupadores, tendo a ação coletiva seguindo, assim, rito especial, de forma que a eficácia subjetiva da sentença de procedência é erga omnes, nos termos do art. 103, III, do CDC, independentemente da concessão de autorização pessoal dos poupadores e de sua prévia associação à autora coletiva.
+Incide, assim, no ponto, a Súmula 568/STJ.
+- Do termo inicial dos juros moratórios em sentença de procedência de ação coletiva de consumo
+O entendimento do Tribunal de origem coincide com a orientação da Corte Especial, firmada em tese repetitiva, segundo a qual "os juros de mora incidem a partir da citação do devedor na fase de conhecimento da Ação Civil Pública, quando esta se fundar em responsabilidade contratual, sem que haja configuração da mora em momento anterior" (REsp 1361800/SP, Corte Especial, DJe 14/10/2014).
+Incide, assim, novamente, a Súmula 568/STJ.
+-Conclusão
+Forte nessas razões, com fundamento no art. 932, III e IV,a, do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que o recurso especial foi interposto na vigência do CPC/73.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL E CONSUMIDOR. AÇÃO COLETIVA DE CONSUMO. EXPURGOS INFLACIONÁRIOS. SENTENÇA DE PROCEDÊNCIA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. FUNDAMENTAÇÃO AUSENTE. DEFICIENTE. SÚMULA 284/STF. INTERESSES INDIVIDUAIS HOMOGÊNEOS. EFICÁCIA SUBJETIVA. ART. 103, III, DO CDC. LEGITIMIDADE ATIVA. TESE REPETITIVA. TEMA 948/STJ. JUROS DE MORA. TERMO INICIAL. TESE REPETITIVA. TEMA 685/STJ.
+1. Ação de cumprimento individual de sentença coletiva por meio da qual se pleiteia o recebimento de expurgos inflacionários referentes aos Planos Bresser e Verão reconhecidos em sentença proferida em ação coletiva de consumo ajuizada pela Associação de Defesa do Consumidor de Mato Grosso do Sul (ADEC-MS).
+2.A ausência de decisão acerca dos dispositivos legais indicados comoviolados impede o conhecimento do recurso especial.
+3.O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4.A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5."Em ação civil pública proposta por Associação, na condição de substituta processual de consumidores, possuem legitimidade para a liquidação e execução da sentença todos os beneficiados pela procedência do pedido, independentemente de serem filiados à Associação promovente". Tema 948/STJ.
+6. Os juros de mora incidem a partir da citação do devedor na fase de conhecimento da Ação Civil Pública, quando esta se fundar em responsabilidade contratual, sem que haja configuração da mora em momento anterior. Tese repetitiva. Tema 685/STJ.
+7. Recurso especial parcialmente conhecido e, nessa parte, desprovido.
