@@ -1,0 +1,27 @@
+Decisão:
+    Vistos.
+    Trata-se agravo contra a decisão que não admitiu recurso extraordinário manejado com fundamento na alínea “a” do permissivo constitucional para impugnar acórdão da 13ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, assim ementado:
+    “EMBARGOS DE DECLARAÇÃO. FASE DE CUMPRIMENTO DE SENTENÇA. CORREÇÃO MONETÁRIA. OPV APLICAÇÃO DA LEI Nº 11.960/09. PRECLUSÃO. Atribuição de excepcional efeito infringente. Pretensão à reforma de decisão que determinou o cálculo da correção monetária pelo IPCA-E e a complementação de ofício requisitório de pequeno valor. Cabimento. Agravados que concordaram com a aplicação integral da Lei nº 11.960/09, aceitando a incidência da Taxa Referencial - TR como índice de correção monetária. Ocorrência da preclusão lógica. Embargos de declaração acolhidos para dar provimento ao recurso de agravo de instrumento provido.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação dos artigos 5º, inciso XXII, e 93, inciso IX, da Constituição Federal, assim como contrariedade à tese firmada pelo Supremo Tribunal Federal no julgamento do RE 870.947 (Tema 810) e o efeito vinculante da modulação de efeitos das ADIs 4.357 e 4.425.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao analisar o caso dos autos, fundamentou seu convencimento nos seguintes termos:
+    “Cuida-se de agravo de instrumento interposto pela Fazenda Pública em face de decisão que determinou a complementação de depósito de OPV em razão da aplicação do tema 810 do STF, com incidência do IPCA-E por todo o período.
+    Contudo, conforme indicou a agravante, os agravados concordaram expressamente com a aplicação da Lei nº 11.960/09, aceitando, portanto, a aplicação da Taxa Referencial - TR como índice de correção monetária (fls. 10).
+    Logo, considerando que a parte expressamente concordou com a aplicação do disposto na Lei nº 11.960/09, está-se diante do instituto da preclusão lógica, não sendo possível a aplicação do Tema 810 do STF.
+    A preclusão decorre da inviabilidade de ser apresentada nova conta, à ausência de impugnação no momento adequado.
+    Logo, se as partes não mais controvertem sobre o valor devido, ocorreu preclusão lógica do direito de discutir a questão.
+    No mesmo sentido, o art. 473, do mesmo diploma legal: É defeso à parte discutir, no curso do processo, as questões já decididas, a cujo respeito se operou a preclusão.
+    (...)
+    Dessa forma, no presente caso, diante da concordância dos agravados com a aplicação integral da Lei nº 11.960/09, antes do julgamento do Tema nº 810 pelo STF, ocorreu a preclusão, sendo defeso à parte rediscutir a questão.”
+    Este Supremo Tribunal Federal tem entendimento pacificado no sentido de que discussões estritamente processuais, como no presente caso, que trata de preclusão, estão afetas ao ordenamento infraconstitucional, não ensejando a interposição de recurso extraordinário. Nesse sentido:
+    “DIREITO PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS EM AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. PRECLUSÃO PROCESSUAL. MATÉRIA INFRACONSTITUCIONAL. 1. O mero equívoco da parte ao nomear o recurso, na hipótese, não impede o seu conhecimento. 2. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que a questão relativa à verificação da preclusão das matérias suscitadas pelas partes, na origem, não alcançam status constitucional, haja vista que sua solução não prescinde da análise da legislação processual pertinente. 3. Embargos de declaração acolhidos para conhecer do agravo interno, o qual se nega provimento” (RE nº 802.009/SP-AgR-ED, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 6/11/2018).
+    “Agravo regimental no recurso extraordinário com agravo. Processual Civil. Preclusão. Ocorrência. Discussão. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. A Corte de origem assentou que “não se pode pretender, em sede de embargos à execução fundado em sentença judicial transitada em julgado, a rediscussão de matérias que deveriam ter sido suscitadas na ação de conhecimento”. 2. A discussão acerca da ocorrência ou não da preclusão não prescinde do exame do conjunto fático probatório da causa (Súmula nº 279/STF), nem da análise da legislação infraconstitucional, o que é inviável em recurso extraordinário. 3. Agravo regimental não provido” (ARE nº 832.157/MG-AgR, Segunda Turma, de minha relatoria, DJe de 24/9/2015).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PRESSUPOSTOS PROCESSUAIS. PRECLUSÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 848.724/RS-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 26/2/2015).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 16 de junho de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
