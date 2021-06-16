@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por MARIA HELENA ARRUDA PINHEIRO, com fundamento nas alíneas "a" e "c" do permissivo constitucional, em oposição a acórdão proferido pelo TJ/PR, assim ementado (e-STJ, fls. 397-423):
+"APELAÇÃO CRIMINAL. IMPUTAÇÃO DO CRIME DE FRAUDE ÀLICITAÇÃO (ARTIGO 96. INCISO II, DA LEI N.º8.666/93.
+1. PRELIMINAR DE NUUDADE PARCIAL DO PROCESSO, PELAFALTA DO INTERROGATÓRIO. RÉ QUE, DEVIDAMENTE INTIMADA,NÃO COMPARECEU PESSOALMENTE Ã. AUDIÊNCIA DE INSTRUÇÃOE JULGAMENTO. ADVOGADO CONSTITUÍDO, PRESENTE NASOLENIDADE, QUE NÃO JUSTIFICOU A AUSÊNCIA DA APELANTE.DECISÃO DE INDEFERIMENTO DE EXPEDIÇÃO DE CARTAPRECATÓRIA, E SUBSEQUENTE DECRETAÇÃO DA REVELIA, QUEFOI ESCORREITA. IMPOSSIBILIDADE, OUTROSSIM, DE QUE ADEFESA ARGUA NUUDADE A QUE TENHA DADO CAUSA.INTELIGÊNCIA DO ARTIGO 565 DO CÓDIGO DE PROCESSO PENAL.PRELIMINAR AFASTADA.
+2. PLEITO ABSOLUTÓRIO ANTE A AUSÊNCIA DE PROVAS.DESPROVIMENTO. MATERIALIDADE E AUTORIA DEUTIVASDEMONSTRADAS. CONJUNTO DE PROVAS HARMÔNICO.PRESENÇA DE ELEMENTOS SUFICIENTES PARA RESPALDAR ACONDENAÇÃO. RÉ QUE PRETENDIA CAUSAR PREJUÍZO ÀFAZENDA MUNICIPAL, POR MEIO DA VENDA DE CARTUCHOS ETONER5 QUE SABIA SEREM FALSIFICADOS. ALEGADAIMPRESCINDIBILIDADE DE PRODUÇÃO DA PROVA PERICIAL.LAUDO PERICIAL QUE É DESPICIENDO QUANDO AMATERIALIDADE DELITIVA PODE SER COMPROVADA POR OUTROSMEIOS DE PROVA. PRECEDENTES DESTA COLENDA CÂMARA.
+3. PLEITO DE DESCLASSIFICAÇÃO PARA A MODALIDADE TENTADADO DELITO IMPUTADO. PROCEDÊNCIA. DELITO PREVISTO NOARTIGO 96 DA LEI DE LICITAÇÕES QUE É MATERIAL, EXIGINDO,PARA SUA CONSUMAÇÃO, PREJUÍZO AO ERÁRIO. DOUTRINA.PRECEDENTES DO STJ. INICIADA A EXECUÇÃO DO DELITO, OPAGAMENTO NÃO OCORREU POR CIRCUNSTÂNCIAS ALHEIAS ÀVONTADE DA AGENTE. DESCLASSIFICAÇÃO PARA A TENTATIVADE FRAUDE À LICITAÇÃO (ARTIGO 95, INCISO II, DA LEI 8.665/93,C/C O ARTIGO 14, INCISO II, DO CÓDIGO PENAL).
+4. POSSIBILIDADE DE SUSPENSÃO CONDICIONAL DO PROCESSO.INTELIGÊNCIA DA SÚMULA 337./STJ. REMESSA DOS AUTOS AOJUÍZO A QUO, COM ABERTURA DE VISTAS AO PARQUET, PARAQUE SE MANIFESTE EM RELAÇÃO AO SURSIS PROCESSUAL.5. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. ANÁLISEDO MÉRITO PREJUDICADA EM RELAÇÃO AOS DEMAISREQUERIMENTOS".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 158 e 564, III, do CPP. Aduz para tanto, em síntese, que: (I) o indeferimento do pedido de realização de interrogatório por carta precatória, na cidade de seu domicílio, geraria nulidade, porque a ré não pôde comparecer à audiência de instrução; e (II) inexistiria prova da materialidade delitiva, porquanto não realizado exame de corpo de delito.
+Com contrarrazões (e-STJ, fls. 469-475), o apelo nobre foi inadmitido na origem (e-STJ, fls. 479-482), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 543-551).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Em relação ao interrogatório da ré, a Corte de origem constatou que esta deixou de comparecer à audiência de instrução, sem formular qualquer requerimento (antes de sua realização) para ouvida por precatória. Outrossim, seu advogado, que presenciou ato, deixou de justificar qualquer impossibilidade de deslocamento da recorrente à audiência (e-STJ, fls. 400-401).
+Neste cenário, realmente não há a nulidade pretendida, porque a expedição de carta precatória para interrogatório é cabível quando requerida e justificada pela defesa, o que não ocorreu no presente caso. A propósito:
+"PENAL E PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO. INTERROGATÓRIO.RESIDÊNCIA EM CIDADE DIVERSA. REQUERIMENTO. CARTA PRECATÓRIA.NULIDADE DA AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. INSUFICIÊNCIA DE RECURSOS NÃO SUSCITADA. IMPOSSIBILIDADE DE RECONHECIMENTO DO PREJUÍZO NA VIA ESTREITA DO HABEAS CORPUS. CORRÉUS PATROCINADOS PELO MESMO DEFENSOR. COLIDÊNCIA DE INTERESSES. SUPRESSÃO DE INSTÂNCIA.
+CONSTRANGIMENTO ILEGAL NÃO VERIFICADO.
+ ..
+2. Do precedente da Primeira Turma do Supremo Tribunal Federal, vê-se como necessária a delegação do interrogatório por precatória quando afirme o acusado não ter condições para o deslocamento de uma cidade a outra (RHC 103468, RelatorMinistro MARCO AURÉLIO, Primeira Turma, PUBLIC 19-12-2012), o que não se deu na espécie, uma vez que o paciente isto não suscitou na oportunidade e sequer era assistido pela Defensoria Pública.
+ ..
+6. Habeas corpus não conhecido".
+(HC 283.850/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/06/2016, DJe 16/06/2016; grifei)
+"RECURSO ESPECIAL. PROCESSO PENAL. INQUIRIÇÃO DE TESTEMUNHAS.INVERSÃO. NULIDADE RELATIVA. SUPERVENIÊNCIA DA LEI 11.719/08. NOVA CITAÇÃO. DESCABIMENTO. INTERROGATÓRIO POR CARTA PRECATÓRIA.INDEFERIMENTO. CONCENTRAÇÃO DOS ATOS PROCESSUAIS. ARREPENDIMENTO POSTERIOR. REPARAÇÃO INTEGRAL DO DANO.
+1. A nova redação do artigo 212 do Código de Processo Penal dada pela Lei 11.690/2008 eliminou o sistema presidencialista permitindo a inquirição das testemunhas diretamente pelas partes, mas não extinguiu a possibilidade de que o Juiz também formule perguntas, não havendo nulidade qualquer se é oportunizado à defesa perguntar diretamente às testemunhas, mormente porque eventual inobservância à ordem de inquirição caracteriza vício relativo, devendo ser arguido no momento processual oportuno, com a demonstração da ocorrência do dano sofrido pela parte, pena de preclusão.
+2. Incabível a renovação do ato processual se o réu foi regular e previamente citado para a audiência marcada antes da entrada em vigor da Lei nº 11.719/08 que, por se tratar de norma de natureza procedimental, submete-se ao princípio tempus regit actum, devendo a lei ser aplicada a partir da sua entrada em vigor, com aproveitamento dos atos pretéritos.
+3. É inviável o recurso especial na parte em que não impugna os fundamentos do acórdão recorrido. Incidência do enunciado nº 283/STF.
+4. Não há nulidade decorrente do indeferimento, na audiência de instrução e julgamento, do pedido de realização do interrogatório por carta precatória se a defesa não justificou a ausência do réu, que haveria, de qualquer modo, de comparecer à audiência que era destinada não somente ao interrogatório dos réus mas também à oitiva das testemunhas, não havendo razão legal para cindir o ato procedimental uno, em obséquio à regra da concentração dos atos processuais trazida pela Lei nº 11.719/08.
+ ..
+6. Recurso especial improvido".
+(REsp 1302566/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/06/2014, DJe 04/08/2014; grifei)
+Também não há ofensa ao art. 158 do CPP, porque o exame de corpo de delito não é imprescindível quando a materialidade delitiva restar comprovada, sem qualquer dúvida, por outro meio, como entendeu o TJ/PR no presente caso (e-STJ, fl. 409). Nesse sentido:
+"PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO E FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. PLEITO DE ABSOLVIÇÃO.INEXISTÊNCIA DE PROVA DA MATERIALIDADE DO CRIME PREVISTO NO ART. 297 DO CP. OFENSA AOS ARTS. 158 E 167 DO CPP. NÃO OCORRÊNCIA. EXAME DE CORPO DE DELITO. PRESCINDIBILIDADE. MATERIALIDADE COMPROVADA POR OUTROS MEIOS DE PROVA. POSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. REEXAME DO CONTEÚDO FÁTICO-PROBATÓRIO. DESCABIMENTO. ÓBICE DA SÚMULA 7/STJ.
+1. Esta Corte já firmou entendimento no sentido de que, embora não se desconheça a relevância do exame de corpo de delito quando a infração penal deixar vestígios, é possível a sua dispensa quando outros elementos probatórios demonstrarem, de forma inequívoca, a materialidade delitiva. Precedentes.
+ ..
+3. Agravo regimental improvido".
+(AgRg no AREsp 1689948/AL, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/09/2020, DJe 09/09/2020)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. FALSIFICAÇÃO DE AUTORIZAÇÃO DE VIAGEM. PRODUÇÃO DE PROVA DISPENSÁVEL. SÚMULA 7 DO STJ. ENQUADRAMENTO TÍPICO. ART. 297 DO CP. ADULTERAÇÃO DE AUTORIZAÇÃO DE VIAGEM OUTRORA VÁLIDA.MODIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência do STJ agasalha a possibilidade de dispensa do exame de corpo de delito quando outras provas demonstrarem de forma inequívoca a materialidade delitiva. Precedentes.
+ ..
+3. Agravo regimental improvido".
+(AgRg no AREsp 1334572/RS, de minha relatoria, QUINTA TURMA, julgado em 18/09/2018, DJe 26/09/2018)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b", do RISTJ,conheçodo agravo paranegar provimento ao recurso especial.
+Publique-se. Intimem-se.
