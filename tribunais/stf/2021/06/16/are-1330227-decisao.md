@@ -1,0 +1,12 @@
+DECISÃO:
+    1. Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que deu “provimento à apelação do Ministério Público, e parcial provimento ao recurso da Defesa, para, afastada a causa de diminuição prevista pelo artigo 33, § 4º, da Lei de Drogas, e readequada a conduta do réu para o crime previsto pelo artigo 33, caput, da Lei n° 11.343/2006, fixar sua pena em cinco anos de reclusão, em regime prisional inicial semiaberto”.
+    2. O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa ao art. 5º da CF. Sustenta que “o afastamento do tráfico minorado se deu sob o único fundamento de que a quantidade de droga apreendida supostamente indica que o recorrente estaria inserido em estrutura organizada com dedicação ao tráfico de drogas”.
+    3. O recurso é inadmissível, tendo em vista que a parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que é inviável nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF. Nessa linha, veja-se o ARE 1.312.369-AgR, Rel. Min. Luiz Fux, assim ementado:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSO PENAL. CRIME TIPIFICADO NO ARTIGO 33 DA LEI 11.343/06. REDISCUSSÃO DE CRITÉRIOS DE DOSIMETRIA DA PENA. PRETENSÃO DE RECONHECIMENTO DE TRÁFICO PRIVILEGIADO. REINCIDÊNCIA RECONHECIDA PELO TRIBUNAL DE ORIGEM. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS AUTOS. OFENSA REFLEXA. AGRAVO INTERNO DESPROVIDO.
+    1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos, bem como para a análise de matéria infraconstitucional. Precedentes: ARE 1.175.278-AgR-Segundo, Primeira Turma, Rel. Min. Luiz Fux, DJe de 25/2/19; ARE 1.197.962AgR, Tribunal Pleno, Rel. Min. Dias Toffoli (Presidente), DJe de 17/6/19; e ARE 1.017.861-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 5/6/17; ARE 1.048.461-AgR, Primeira Turma, Rel. Min Rosa Weber, DJe de 4/3/2020; e ARE 1.264.183-AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 26/5/2020.
+    2. Agravo interno desprovido.”
+    4. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 16 de junho de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
