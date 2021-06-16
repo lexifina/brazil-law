@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LESÃO CORPORAL. ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. CONDENAÇÃO. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7 DO STJ. CONFIRMAÇÃO DE DECISÃO DA PRESIDÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É acertada a decisão prolatada pela Presidência desta Corte Superior que conhece do agravo em recurso especial para não conhecer do apelo raro interposto pelo Ministério Público, quando a reforma do julgado prolatado pelas instâncias ordinárias demanda revolvimento fático-probatório dos autos.
+2. Na hipótese, as instâncias de origem concluíram pela absolvição, por entenderem, com base nas provas produzidas, queas lesões ocorreram em um contexto ofensivo mútuo, no qual não foi possível aferir, com precisão, quem iniciou as agressões. Assim, para reverter esse entendimento e condenar a agravada, tal como pugna a acusação, seria necessáriaimersão vertical sobre o conjunto fático-probatório delineado nos autos, procedimento vedado em recurso especial, a teor da Súmula n. 7 do STJ.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO interpõe agravo regimental contra a decisão de fls. 153-155, proferida pela Presidência desta Corte Superior, a qual conheceu do agravo para não conhecer do recurso especial, pelo óbice da Súmula n. 7 do STJ.
+Alega o agravante, em síntese:"deseja-se apenas que a questão jurídica relativa à controvérsia seja solucionada, por meio da revaloração de fatos incontroversos dispostos no acórdão" (fl. 161).
+Dessa forma, pondera: "uma vez reconhecida a lesão corporal pelo tribunal local, comprovada "por meio dos elementos cognitivos obtidos durante as fases persecutórias, não haveria como sustentar que o contexto de agressões recíprocas ("tendo a ofendida arranhado o braço da ré") impõe a absolvição da ré" (fl. 161).
+Requer, então, seja realizado o juízo de retratação, ou, alternativamente, seja admitido o presente agravo regimental, a fim de que seja julgado e provido pelo colegiado.
+O Ministério Público Federal opinou, às fls. 173-175, pelo não provimento do agravo regimental.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LESÃO CORPORAL. ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. CONDENAÇÃO. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7 DO STJ. CONFIRMAÇÃO DE DECISÃO DA PRESIDÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É acertada a decisão prolatada pela Presidência desta Corte Superior que conhece do agravo em recurso especial para não conhecer do apelo raro interposto pelo Ministério Público, quando a reforma do julgado prolatado pelas instâncias ordinárias demanda revolvimento fático-probatório dos autos.
+2. Na hipótese, as instâncias de origem concluíram pela absolvição, por entenderem, com base nas provas produzidas, queas lesões ocorreram em um contexto ofensivo mútuo, no qual não foi possível aferir, com precisão, quem iniciou as agressões. Assim, para reverter esse entendimento e condenar a agravada, tal como pugna a acusação, seria necessáriaimersão vertical sobre o conjunto fático-probatório delineado nos autos, procedimento vedado em recurso especial, a teor da Súmula n. 7 do STJ.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos aduzidos pelo agravante, deve a decisão recorrida ser mantida por seus próprios fundamentos.
+No caso, o Juízo de primeiro grau, ao absolver a agravadapela prática de lesões corporais no âmbito das relações domésticas e familiares, asseverou que, embora provada a materialidade e a autoria, não foi "possível ser verificada a responsabilidade do início das agressões, de forma que, se iniciadas pela vítima importaria em reconhecimento da legítima defesa, deverá ser aplicado o Princípio in dubio pro reo" (fl. 66).
+Ao julgar o apelo acusatório, a Corte de origem afirmou que "as provas dos autos evidenciam que as lesões corporais da vítima resultaram de agressões recíprocas entre esta e a apelada, em decorrência de uma discussão, não sendo possível identificar, com a certeza necessária, quem deu início às agressões" (fl. 101).
+Por fim, ressaltou que, "as provas colhidas, ainda que evidenciem a autoria e a materialidade ensejam dúvidas acerca dos fatos, não deixando claro quem deu início à briga, tampouco se a acusada agiu em legítima defesa, para evitar as agressões perpetradas pela ofendida. Pelo contrário, ambos os depoimentos demonstram que a ofendida e a acusada agrediram-se mutuamente" (fl. 102).
+Pela leitura dos excertos acima, verifica-se que as instâncias de origem concluíram pela absolvição, por entenderem, com base nas provas produzidas, queas lesões ocorreram em um contexto ofensivo mútuo, no qual não foi possível aferir, com precisão, quem iniciou as agressões.
+Assim, para reverter esse entendimento e condenar a agravada, tal como pugna a acusação, seria necessáriaimersão vertical sobre o conjunto fático-probatório delineado nos autos, procedimento vedado em recurso especial, a teor da Súmula n. 7 do STJ.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmulan. 7/STJ)"(AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, 5ª Turma, DJe 7/3/2019).
+À vista do exposto, nego provimento ao agravo regimental.
