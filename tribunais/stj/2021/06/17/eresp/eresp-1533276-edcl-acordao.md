@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, Marco Aurélio Bellizze, Moura Ribeiro, Nancy Andrighi, Luis Felipe Salomão, Raul Araújo, Paulo de Tarso Sanseverino e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL.CIVIL E PROCESSUAL CIVIL. INADIMPLEMENTO CONTRATUAL. PRESCRIÇÃO.OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. REDISCUSSÃO. INADMISSIBILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos declaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por SIDFER S.A. e DIMAV LOCAÇÃO DE BENS MÓVEIS E IMÓVEIS LTDA. ao acórdão assim ementado:
+"AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. INADIMPLEMENTO CONTRATUAL. PRESCRIÇÃO. PRAZO DECENAL. EVENTUAL ENRIQUECIMENTO ILÍCITO. CAUSA JURÍDICA. PRESCRIÇÃO TRIENAL. AFASTAMENTO. JURISPRUDÊNCIA ATUAL. SÚMULA Nº 168/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça pacificou-se no sentido de que incide, em regra, o prazo prescricional decenal do art. 205 do Código Civil às pretensões fundadas no inadimplemento contratual (responsabilidade contratual).
+2. A prescrição trienal atinente à responsabilidade civil aquiliana ou extracontratual (art. 206, § 3º, V, do CC) não incide nas pretensões indenizatórias do credor prejudicado por descumprimento negocial.
+3. A ação de enriquecimento sem causa (ação in rem verso) somente é cabível quando o indébito não tiver "causa jurídica", dada a sua subsidiariedade. Para a incidência da prescrição de 3 (três) anos inscrita no art. 206, § 3º, IV, do CC, a pretensão fundada no enriquecimento sem causa (arts. 884 e 886 do CC) deve possuir os seguintes requisitos: enriquecimento de alguém; empobrecimento correspondente de outrem; relação de causalidade entre ambos; ausência de causa jurídica; e inexistência de ação específica.
+4. A discussão acerca da entrega de bens patrimoniais decorrentes de reputada relação contratual e eventual repetição de indébito ou condenação em perdas e danos não se enquadra na hipótese do art. 206, § 3º, IV, do CC, seja porque há causa jurídica (relação obrigacional prévia entre as partes em que se debate a legitimidade de cobranças), seja porque a ação é específica, devendo ser aplicado o prazo decenal do art. 205 do CC.
+5. É possível, com base na Súmula nº 168/STJ, inadmitir embargos de divergência quando a jurisprudência desta Corte Superior estiver no mesmo sentido do acórdão embargado.
+6. Agravo interno não provido" (fl. 1.564).
+Em suas razões, as embargantes apontam a existência de omissão no acórdão atacado, reiterando a tese de que a Corteestadual reconheceu a "(..)ausência de comprovação do contrato verbal alegado pela Embargada para justificar o pedido reconvencional", fundamento que era apto "(..) a demonstrar a ausência de causa jurídica e igualmente de ação específica, não se tratando o presente caso de debate acerca de legitimidade de cobrança" (fl. 1.575).
+Sustentam que
+"(..)
+6. - A discussão travada nos autos trata, em síntese, do prazo prescricional aplicável à pretensão da Embargada concedida em sede de reconvenção, a qual consiste no ressarcimento pelas Embargantes de valores alegados por aquela como oriundos de um suposto contrato verbal estabelecido entre as partes que teria culminado na entrega de veículos a um terceiro em quantidade superior ao inicialmente ajustado.
+7. - Ocorre que, como é cediço, o art. 373, I, do CPC consagra, como regra, a distribuição estática do ônus da prova, competindo ao autor a comprovação dos fatos constitutivos de seu direito e ao réu dos fatos impeditivos, extintivos ou modificativos do direito do autor.
+8. - No presente caso, como se trata de pedido reconvencional, por óbvio, compete ao réu a comprovação do fato constitutivo do seu direito, de modo que suposta relação contratual existente entre as partes não pode ser presumida. Se o réu alega existir um contrato que embasa a sua pretensão, cabe a ele constituir prova do seu direito.
+9. - Assim, analisando-se a integralidade do acórdão proferido pelo Tribunal a quo (e não só a questão integrada posteriormente por meio de embargos de declaração), verifica-se que o que ocorreu foi uma presunção em favor da Embargada, que culminou na aplicação de prazo prescricional mais benéfico à sua pretensão, já que reconhecido expressamente que não foi possível afirmar se o aditamento existiu" (fls. 1.576/1.577).
+Alegam que pretendem que, "(..)diante da já reconhecida inexistência de relação contratual entre as partes, seja aplicada a jurisprudência do STJ, igualmente recente (acórdão paradigma publicado em 11.3.2020), que entende pela aplicação do art. 206, § 3º, IV do CC/2002, inclusive quando há relação jurídica mediata entre as partes" (fl. 1.580).
+Buscam, ao final, o acolhimento dosdeclaratórios, com efeitos modificativos
+"(..)a fim de que seja sanada a omissão existente no v. acórdão embargado (ao se abster de se manifestar acerca do reconhecimento expresso pelo Tribunal a quo da ausência de comprovação do contrato verbal que fundamentou o pedido reconvencional), conferindo-lhe efeitos infringentes, para dar provimento ao agravo interno, reconhecendo-se a divergência e a prevalência do acórdão paradigma e a consequente prescrição da pretensão reconvencional da Embargada, nos termos do art. 206, § 3º, IV do CC/2002" (fl. 1.588).
+A parte contrária apresentou impugnação àsfls. 1.592/1.601.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL.CIVIL E PROCESSUAL CIVIL. INADIMPLEMENTO CONTRATUAL. PRESCRIÇÃO.OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. REDISCUSSÃO. INADMISSIBILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos declaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados.
+VOTO
+Não prospera a inconformidade veiculada nos presentes aclaratórios.
+Com efeito, o acórdão embargado não padece de nenhum dos vícios ensejadores dos declaratórios enumerados no art. 1.022 do Código de Processo Civil de 2015: obscuridade, contradição, omissão ou erro material.
+Na hipótesedos autos, conformese extrai do julgado ora atacado, foi asseverado que o acórdão objeto da divergência concluiu existir, no caso, a "(..) responsabilidade contratual das embargantes, pois inadimpliram negócio jurídico, de forma que não deveria ser aplicado o prazo prescricional relativo à responsabilidade extracontratual"(fl. 1.565).
+É com base em tais fatos, reconhecidospela Quarta Turma,que deve haver a comparação com os paradigmas apresentados para se chegar ao prazo de prescrição, como foi feito.
+Registra-se que são os embargos de divergênciarecurso de limites restritos, vocacionado a dirimir dissonâncias de teses jurídicas no âmbito desta Corte Superior. Assim, os parâmetros utilizados são apenas acórdãosdo próprio tribunal, não podendo haver confrontos com acórdãos de Cortes locais, conformepretendem as embargantes.
+Assim, mantém-se a fundamentação do aresto combatido,que assim concluiu:
+"(..) como a discussão acerca da entrega de bens patrimoniais decorrentes de relação contratual e eventual repetição de indébito ou condenação em perdas e danos não se enquadra na hipótese do art. 206, § 3º, IV, do CC, seja porque há causa jurídica (relação obrigacional prévia entre as partes em que se debate a legitimidade de cobranças), seja porque a ação é específica, deve ser aplicado o prazo decenal do art. 205 do CC.
+De fato, verifica-se que o reputado enriquecimento das empresas tinha causa jurídica, consubstanciada na relação contratual, de forma que não incide a prescrição trienal, mas a decenal" (fl. 1.567).
+O órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles considerados suficientes para fundamentar sua decisão.
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir o erro material, mas, sim, reformar o julgado por via inadequada.
+A propósito:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. JULGAMENTO EM SESSÃO VIRTUAL. NULIDADE POR CERCEAMENTO DE DEFESA DESCARACTERIZADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver no acórdão embargado obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. Não se constatam os vícios alegados pela parte embargante, que busca rediscutir a admissibilidade de seu recurso, o que é incabível nos aclaratórios.
+3. Nulidade do julgamento em sessão virtual por cerceamento do direito de defesa não caracterizada. Com efeito, nos termos da decisão que indeferiu a retirada de pauta, os então agravantes, ora embargantes, poderiam se comunicar com os demais Ministros do colegiado por diversas formas, apresentando esclarecimentos de fato e de direito que entendessem necessários para apreciação do feito. Foi destacado também que o eventual julgamento presencial por videoconferência não viabilizaria sustentação oral. Ademais, não demonstraram efetiva e concretamente qual teria sido o suposto prejuízo à defesa e quais questões de fato - que não se confundem com sustentação oral - deveriam ter sido apresentadas.
+4. Embargos de declaração rejeitados." (EDclno AgInt nos EREsp nº 1.637.369/DF, rel.Ministro ANTONIO CARLOS FERREIRA, Segunda Seção, DJe 17/2/2021 - grifou-se)
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
