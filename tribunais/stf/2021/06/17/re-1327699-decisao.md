@@ -1,0 +1,28 @@
+DECISÃO: Trata-se de recurso extraordinário com base no art. 102, inciso III, da Constituição Federal.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    TRIBUTÁRIO. PIS E COFINS. ARTIGO 149, §2°, I, DA CF. RECEITAS DECORRENTES DE EXPROTAÇÃO. OPERAÇÃO BACK TO BACK CREDITS. NÃO CONFIGURAÇÃO. IMUNIDADE AFASTADA.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 149, § 2º da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    No caso concreto, indene de dúvidas que a primeira etapa referida pela impetrante subsume-se à hipótese prevista constitucionalmente de abrangência da regra da imunidade, qual seja, o envio do projeto e mercadorias diretamente ao cliente estrangeiro, não existindo controvérsia quanto a este ponto, pois se trata efetivamente de operação de exportação, restando as receitas daí decorrentes imunes à incidência das contribuições em comento.
+    Todavia, na segunda etapa, relativa à produção/industrialização do produto por fornecedor estrangeiro, com entrega direta deste ao cliente final estrangeiro, por óbvio não se configura a exportação, porquanto não há saída do produto do Brasil, o qual é produzido no exterior. Nesta etapa, na realidade, a impetrante está apenas intermediando a compra e venda das mercadorias.
+    Conquanto a impetrante refira-se ao processo como um todo, ou seja, um único projeto com etapas diferenciadas, é certo que não há como vislumbrar se tratarem todas elas de operações de exportação, pois, como já visto, a fabricação e remessa direta do fornecedor estrangeiro para o cliente final, não se configura operação de exportação, pois não há saída do Brasil de bem aqui produzido, configurando-se, na realidade, a denominada back to back credits.
+    A operação back to back credits consiste numa operação cambial destinada a amparar a compra e venda de mercadorias, sem que estas tenham efetivo trânsito pelo Brasil, ou seja, o produto é comprado por empresa brasileira de um fornecedor sediado no exterior, sendo posteriormente revendido a terceiro, também no exterior, e entregue diretamente do aludido fornecedor ao cliente final.
+    Trata-se, na realidade, de uma intermediação de compra e venda entre pessoas sediadas no exterior, ocorrendo em território nacional tão somente a realização de operação de câmbio, regulada pelo Banco Central do Brasil, por se tratar a intermediadora de empresa estabelecida no Brasil.
+    Na hipótese em análise, os produtos adquiridos pela impetrante do fornecedor estrangeiro, em que pese pertinentes a um único projeto por ela elaborado, foram fabricados no exterior, efetuando-se a revenda pela impetrante, com a entrega direta pelo fornecedor ao cliente final estrangeiro, de forma que os produtos não ingressaram em território nacional, não adquirindo, portanto, sequer a condição de mercadoria nacionalizada.
+    Concluindo, as operações denominadas back to back credits não caracterizam exportação, razão pela qual as receitas delas decorrentes não se encontram abrangidas pela imunidade constitucionalmente prevista relativamente às contribuições ao PIS e COFINS, máxime considerando-se não resultar em qualquer incremento à indústria nacional ou à sua competitividade no mercador externo, finalidade precípua do incentivo à exportação contida na norma imunizante.
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279 do STF. Sobre o tema, a propósito:
+    AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. OFENSA CONSTITUCIONAL REFLEXA. REEXAME DE FATOS. SÚMULA 279/STF
+    1. (...)
+    4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 5. Agravo Interno a que se nega provimento. (RE 1.237.969-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 12/2/2020).
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas.3. Agravo regimental desprovido. (ARE 1.165.382 – AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 3/3/20).
+    RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA. O recurso extraordinário não é meio próprio ao revolvimento da prova. (RE 1066713-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe 20/2/20).
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 17 de junho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
