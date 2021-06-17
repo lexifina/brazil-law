@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de FABRICIO SILVA PEREIRA contra decisão indeferitória de provimento urgente proferida pelo Desembargador Relator do HC n.31132-25.2021.8.16.0000, em trâmite noTribunal de Justiça do Estado do Paraná.
+Consta dos autos queo Paciente iniciou o cumprimento de penas restritivas de direitose, uma vez descumpridas as determinações da execução, teve a substituição das penas revogada,em consequência, passou a cumpri-las em regime aberto e mediante o uso de tornozeleira eletrônica.
+Objetivando cassar a determinação do Juízo de primeiro grau, a Defesa ingressou com prévio writ no Tribunal a quo. O pedido liminar foi indeferido (fls. 11-14).
+Neste mandamus, a parteImpetrante sustenta, em suma: a)que a determinação do uso da tornozeleira é ilegal, pois torna o regime abertoem prisão domiciliar mais gravoso do que o cumprimento da pena em casa de albergado, e colocaem risco a atividade laboral do Paciente; b) que a restrição à frequência de determinados lugares se equipara àpena restritiva de direito de interdição temporária de direitos e, por isso, viola a Súmula n. 493 desta Corte Superior.
+Requer, liminarmente e no mérito, a revogação da monitoração eletrônica e da medida de restrição de frequência a determinados lugares.
+É o relatório. Decido.
+O entendimento firmado pelo Supremo Tribunal Federal e por este Superior Tribunal de Justiça é no sentido de não se admitir habeas corpus contra decisão denegatória de liminarproferida em outro writ na instância de origem, sob pena de indevida supressão de instância. É o que está sedimentado na Súmula n. 691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, a este Superior Tribunal de Justiça (AgRg no HC 447.280/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 01/06/2018; AgRg no HC 446.100/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 21/05/2018; AgRg no HC 444.105/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 21/05/2018; AgRg no HC 376.599/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 12/06/2018).
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, deve preponderar a necessidade de se garantir a efetividade da prestação da tutela jurisdicional de urgência para que flagrante constrangimento ilegal ao direito de liberdade possa ser cessado, tarefa a ser desempenhada caso a caso. Todavia, esse atalho processual não pode ser ordinariamente usado, senão em situações em que se evidenciar decisão absolutamente teratológica e desprovida de qualquer razoabilidade, na medida em que força o pronunciamento adiantado da Instância Superior, subvertendo a regular ordem do processo.
+No caso, não é possível constatar ilegalidade patente que autorize a mitigação do entendimento consolidado na Súmula n. 691 do Supremo Tribunal Federal.
+A substituição da pena privativa de liberdade por restritivas de direitosfoi revogada em razão do descumprimento do dever de prestação de serviço à comunidade, sendo o Apenado incluídoem regime aberto a ser cumprido em prisão domiciliar diante da ausência de Casa de Albergado na comarca.
+Assim, foram estabelecidas as seguintes condições (fls. 17-18; grifos diversos dos originais):
+"1. Comprovar perante o juízo a sua residência, no prazo de 30 dias;
+2. Comparecer mensalmente ao juízo para informar e justificar suas atividades;
+3. Comunicar à autoridade judiciária qualquer alteração em seu local de residência;
+4. Recolher-se a sua residência no período noturno, das 22h00min às 06h00min, salvo se estiver trabalhando ou estudando(o que deverá ser comprovado documentalmente);
+5. Não se ausentar da comarca por mais de oito dias, sem prévia comunicação ao juízo;
+6. Monitoramento eletrônico, nos seguintes termos:
+Área de inclusão:
+1) Não sair da área delimitada em que possa circular, isto é, do Município de Jacarezinho/PR, bem como não mudar de endereço sem prévia autorização judicial, devendo solicitar previamente a este Juízo, por intermédio de advogado, qualquer necessidade de saída da área, ou alteração de endereço, e aguardar deliberação judicial a respeito;
+2) Recolher-se à sua residência impreterivelmente às 21h, permanecendo até às 6h do dia seguinte, para o repouso noturno, bem como ininterruptamente aos finais de semana e feriados;
+3) Comparecer ao CRESLON/DEPEN quando solicitado; Manutenção do dispositivo de monitoração eletrônica:
+4) Não retirar ou permitir que outra pessoa retire a tornozeleira eletrônica, exceto por determinação expressa deste juízo;
+5) Não queimar, quebrar, abrir, forçar, danificar ou inutilizar a tornozeleira eletrônica ou qualquer um dos acessórios que a acompanham, ou deixar que pessoa diversa o faça, sendo de sua integral responsabilidade a boa conservação do equipamento;
+6) Recarregar diariamente e de forma integral a bateria da tornozeleira;
+7) Receber visitas do servidor responsável pela monitoração eletrônica, responder a seus contatos e cumprir suas orientações;
+Outros termos:
+8) Dirigir-se a um local aberto sempre que o sistema informar alerta luminoso de cor azul, até sua regularização;
+9) Obedecer às orientações da Central de Monitoramento Eletrônico (CME fone: 08006435513), através de alertas sonoros, vibratórios, luminosos e contatos telefônicos, devendo entrar em contato telefônico com a equipe em caso de dúvida sobre alerta que desconheça, sendo que os alertas corresponderão: I. Alerta vibratório e alerta luminoso roxo (rosa): ligar para a CME; II. Alerta vibratório e alerta luminoso vermelho duplo: carregar a bateria da tornozeleira; III. Alerta de som: ligar para a CME; IV. Luz verde ou azul: tudo está correto;
+10) Não ingerir bebida alcoólica ou substância entorpecente; e não frequentar locais que os comercializam, bares, lanchonetes e casas de meretrício ou similar;
+11) Não possuir ou portar armas ofensivas a integridade física, ou substâncias entorpecentes.
+7. Não praticar nova infração penal."
+Vê se queomonitoramento eletrônico do Paciente lhe permite relativa liberdade, sendo-lhe assegurado o livre exercício do trabalho, de modo que a sua manutenção não me parece desarrazoada ou desproporcional.Desse modo, a princípio,não há constrangimento ilegal a ser sanado, sobretudo porqueo art. 146-B, inciso IV, da LEP autoriza expressamente o monitoramento eletrônico do custodiado, na hipótese de concessão de prisão domiciliar.
+Nesse sentido:
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. REGIME ABERTO. VIOLAÇÃO AO ART. 146-B DA LEP. INOCORRÊNCIA. PRISÃO DOMICILIAR. MONITORAMENTO ELETRÔNICO. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+I - O art. 146-B, inciso IV, da Lei de Execução Penal, autoriza expressamente a inclusão do apenado no sistema de monitoração eletrônica, quando deferida a prisão domiciliar.
+II - Na hipótese, o agravante cumpre pena em regime aberto, na condição de prisão domiciliar, o que permite a utilização do sistema de monitoração eletrônica. Precedentes.
+Agravo regimental não provido." (AgRg no REsp 1.624.796/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/11/2017, DJe 13/11/2017.)
+"EXECUÇÃO PENAL. HABEAS CORPUS. PROGRESSÃO DE REGIME. INEXISTÊNCIA DE VAGA NO ABERTO. PRISÃO DOMICILIAR, MEDIANTE USO DE TORNOZELEIRA. PEDIDO DE RETIRADA DO EQUIPAMENTO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+1. "E assente nesta Corte o entendimento de que a falta de vagas em estabelecimento adequado para o cumprimento da pena em regime aberto não justifica a permanência do condenado em condições prisionais mais severas. Em casos tais possível é a concessão, em caráter excepcional, da prisão domiciliar, no caso de inexistir no locaI casa de albergado, enquanto se espera vaga em estabelecimento prisional adequado." (AgRg no REsp 1.389.152/RS, Rei. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 24/10/2013, DJe 04/11/2013).
+2. É necessário o monitoramento eletrônico quando a prisão domiciliar para o resgate de pena é concedida, de forma excepcional, nos casos de ausência de vaga em estabelecimento prisional compatível com o regime para o qual houve a progressão.
+3. In casu, as limitações impostas pelo uso do monitoramento eletrônico, não se qualificam como mais graves do que aquelas que o reeducando estaria submetido no regime aberto, caso o sistema prisional apresentasse as adequadas condições. Ademais, a medida não implica em supressão de direito do apenado e garante a necessária vigilância estatal.
+4. Ordem denegada." (HC 383.654/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/10/2017, DJe 09/10/2017.)
+Outrossim, conforme determina o § 1.º do art. 36 do Código Penal, o condenado em regime aberto deverá trabalhar, frequentar curso ou exercer outra atividade autorizada, assim, em juízo de cognição sumária, não há flagrante ilegalidade quanto à restrição do Paciente de frequentar"bares, lanchonetes e casas de meretrício ou similar".
+Desse modo, não havendo notícia de que o Tribunal a quo tenha procedido ao exame meritório, reserva-se primeiramente àquele Órgão a apreciação da matéria ventilada no habeas corpus originário, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Corte a quo, mormente se o writ está sendo regularmente processado.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
