@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICIPIO DE NITEROI contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+AGRAVO DE INSTRUMENTO. AGRAVO INTERNO CONTRA O DEFERIMENTO DE EFEITO SUSPENSIVO.
+Agravo de instrumento da decisão que, em execução fiscal, deferiu a penhora de 10% sobre a renda mensal da agravante.
+Agravo interno contra decisão que deferiu o efeito suspensivo à Dalkia Brasil.
+1 - Nego provimento ao agravo interno, pois a decisão que concedeu o efeito suspensivo pautou-se na probabilidade de dano de difícil reparação, eis que a penhora de 10% sobre a renda mensal da agravante poderia inviabilizar sua atividade, conforme preconiza o § 1º, do art. 866, do CPC.
+2 - Passo a apreciar o agravo de instrumento e observo que a penhora sobre o faturamento da empresa é medida excepcional. O art. 866 do CPC determina a incidência prévia sobre outros bens penhoráveis. A agravante não indicou bem passível de obstar a sequência legal, portanto, a decisão prevalece quanto à possibilidade de penhora, ressalvando-se, porém, a incidência sobre o faturamento, e não sobre a renda. Quanto ao percentual, no cotejo do entendimento jurisprudencial e da lógica do razoável, entendo que o percentual de 10% exorbita, devendo ser reduzido para 5%.
+Agravo interno desprovido. Parcial provimento ao agravo de instrumento, nos termos do voto do desembargador relator.
+Alega violação do art. 11, § 1º, da LEF, no que concerne à possibilidade de fixação de penhora no percentual de 10% sobre o faturamento, trazendo os seguintes argumentos:
+22. A Corte Superior igualmente definiu os requisitos indispensáveis para que a penhora de faturamento possa ser aplicada, a saber: (i) que o devedor não possua bens ou, se os tiver, sejam esses de difícil execução ou insuficientes a saldar o crédito demandado; (ii) o percentual fixado sobre o faturamento não torne inviável o exercício da atividade empresarial; (iii) seja promovida a nomeação de administrador que apresente plano de pagamento.
+ ..
+24. Em relação ao requisito (i), é notório que todos os meios de constrição de bens restaram infrutíferos, o que torna lícita a interrupção da escala estabelecida pela lei quando os bens apresentados mostram-se incapazes de satisfazer, de imediato, o crédito, objeto de cobrança em processo executivo.
+25. Quanto ao requisito (ii), não há maiores considerações a serem feitas, uma vez que, sendo uma empresa de grande porte, é possível e perfeitamente viável ao Magistrado a fixação de um valor que não comprometa o exercício da atividade empresarial e que seja, ao mesmo tempo, suficiente ao pagamento das dívidas.
+26. Por fim, quanto ao requisito (iii), cumpre notar que a nomeação do administrador deve seguir a regra do artigo 866, parágrafo 2º do NCPC, que prevê a atuação, prestação de contas e entrega de valores por esse depositário e as sujeita à aprovação judicial.
+27. Assim, percebe-se que a penhora de faturamento não só revela-se perfeitamente possível como também é medida mais indicada, já que a presente hipótese atende a todos os requisitos (fls. 125-127).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+De plano, nego provimento ao agravo interno, uma vez que a decisão que concedeu o efeito suspensivo pautou-se na probabilidade de dano de difícil reparação, eis que a penhora de 10% (dez por cento) sobre a renda mensal da agravante poderia inviabilizar sua atividade, conforme preconiza o § 1º, do art. 866, do CPC:
+ ..
+Note-se que o caput daquele dispositivo especifica que eventual penhora deva incidir sobre o faturamento e não sobre a renda.
+Até porque o percentual de 10% (dez por cento) sobre a renda pode ultrapassar o lucro da sociedade empresária, eis que abrange todos os valores recebidos.
+Tomemos como exemplo uma empresa que opera com lucro de 8% (oito por cento), por óbvio que a penhora de 10% (dez por cento) pode comprometer suas atividades. (fls. 57/58).
+Da mesma forma como a agravante não indicou bens passiveis de penhora, também descurou do ônus de demonstrar qual o percentual de desconto lhe causaria prejuízo, razão pela qual não há como se apurar o quanto seria viável.
+No entanto, no cotejo do entendimento jurisprudencial e da lógica do razoável, em conjunto com o já fundamentado quando da apreciação do agravo interno, entendo que o percentual de 10% (dez por cento) exorbita, devendo ser reduzido para 5% (cinco por cento). (fls. 59).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; e AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
