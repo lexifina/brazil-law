@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e"c", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região,assim ementado (fl. ):
+AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE. LEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO. PRINCÍPIOS DA UNIDADE E DA INDIVISIBILIDADE (ART. 127, PARÁGRAFO 1º, DA CF). DEMANDA AJUIZADA PELOMINISTÉRIO PÚBLICO FEDERAL. AUSÊNCIA DE INTERESSE DA UNIÃO OU DE OUTRO ENTE DA ADMINISTRAÇÃO FEDERAL. REMESSA DOS AUTOS À JUSTIÇA ESTADUAL.
+1. Agravo de instrumento interposto pelo Particular com o fim de reformar decisão que, em Ação CivilPública por ato de improbidade administrativa, declarou a incompetência da Justiça Federal para julgar e processar a lide e determinou a remessa dos autos à Justiça Estadual.
+2. Na decisão recorrida o Magistrado entendeu que "os ilícitos decorrentes de tributos devidos pelos entesmunicipais à União, quando se encontrarem com o débito parcelado e com a quitação regular, o dano supostamente ocorrido é suportado pelo erário municipal, inexistindo, em tais hipóteses, interesse jurídico da União na causa, o que afasta a legitimidade ativa do Ministério Público Federal para o ajuizamento da respectiva Ação de Improbidade Administrativa e a competência da Justiça Federal para o processamento do feito".
+3. Em suas razões recursais, a parte aduz: a) necessidade de suspensão da decisão agravada para que ofeito não seja remetido à Justiça Estadual antes do julgamento final do agravo de instrumento; b) que o processo deverá ser extinto sem resolução do mérito, em face da ilegitimidade ativa do Ministério Público Federal.
+4. De acordo com o entendimento do STJ, o Juiz Federal, ao reconhecer a falta de atribuição do ParquetFederal, não necessariamente deverá proferir sentença de extinção do processo sem julgamento do mérito. Diante do princípio constitucional da unidade do Ministério Público, conclui-se que o MPF é parte ilegítima, mas não o Ministério Público Estadual e, pronunciando este fato, o Juiz Federal deve determinar a remessa dos autos ao Juízo Estadual para que o Ministério Público Estadual possa assumir a titularidade da ação, o que aconteceu no caso em comento. Precedente: TRF5 - Processo 08102583020184050000, Rel. Desembargadora Federal Carolina Souza Malta, 1ª Turma, Julgamento:01/02/2019.Agravo de Instrumento improvido.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos1.022 e 1.025 do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto àquestão de fundo, sustentadissídio jurisprudencial e ofensa aos artigos 17 e 485, VI, do CPC/2015, ao argumento de que constatada a ilegitimidade do MPF para ajuizar a demanda, o feito deveria ter sido extinto sem resolução de mérito. Defende que apersecução dos atos de improbidade administrativa relativos à sonegação de contribuições previdenciárias ou não repasse destas à Previdência Social, quando imputadas a agente público das esferas estadual ou municipal, é da atribuição do Ministério Público Estadual se efetivado o pagamento ou se existir parcelamento dos respectivos débitos.
+Sem contrarrazões.
+Juízo positivo de admissibilidade àfl. 163.
+Parecer do Ministério Público Federal, às fls. 195-201, pelo desprovimento do recurso especial.
+É o relatório. Passo a decidir.
+De início, não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, pois o recorrente não apresentou qualquer argumento a ensejar a apreciação da ofensa ao referido normativo. Incide à hipótese a Súmula 284/STF.
+No que diz respeito à alegação de ofensa aos artigos 17 e 485, VI, do CPC/2015, oacórdão recorrido consignou o seguinte (fls. 71-73):
+ ..
+Em que pese este juízo tenha reconhecido a ilegitimidade ativa do MPF, a falta de atribuição do Parquet federal não implica necessariamente a extinção do processo sem julgamento do mérito, na medida em que verificada a atribuição do Ministério Público Estadual para atuar sobre os fatos.
+Isso porque, em consideração aos princípios institucionais da unidade e da indivisibilidade, insculpidos na Constituição Federal, em seu art. 127, § 1º, na linha da fundamentação exposta na decisão de ID 4058404.4417685, em que não se vislumbra interesse federal e sim municipal, permanece a legitimidade ativa do Ministério Público para o ajuizamento da presente ação de improbidade, mas aquele com atuação na esfera estadual, razão pela qual, reconhecida a incompetência da Justiça Federal, a medida mais acertada não é a extinção do processo sem julgamento do mérito e sim a sua remessa ao juízo competente.
+ ..
+Por sua vez, é oportuno consignar o que dispõe o § 3º do Art. 64 do NCPC, In fine:
+Art. 64. A incompetência, absoluta ou relativa, será alegada como questão preliminar de contestação.
+(..)
+§ 3º Caso a alegação de incompetência seja acolhida, os autos serão remetidos ao juízo competente.
+Vislumbro que tal determinação não deixa margem de discricionariedade ao julgador que, ao proferir decisão que resulte em acolhimento de preliminar de incompetência para o julgamento de determinada lide, deverá providenciar o envio da demanda ao juízo competente, sob pena de afronta ao referido dispositivo.
+ ..
+Ocorre que o recorrente não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Por fim, ressalta-se que, segundo entendimento desta Corte, a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL.VIOLAÇÃO DO ART. 1.022 DO CPC/2015. AUSÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
