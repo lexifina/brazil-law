@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manifestado por Companhia de Eletricidade do Estado da Bahia - COELBAcontra decisãoque negou seguimento ao recurso especial interposto por Fairfax Brasil Seguros Corporativos S/A.O acórdão recorrido está retratado na seguinte ementa (fls. 177/178):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. PRELIMINAR. PERDA DO OBJETO. INOCORRÊNCIA. INSURGÊNCIA DO EXEQUENTE COM RELAÇÃO AO PERCENTUAL DE HONORÁRIOS FIXADOS PELO STJ APÓS JULGAMENTO DE AGRAVO. PEDIDO DE HOMOLOGAÇÃO DA QUANTIA INDICADA NO PEDIDO DE EXECUÇÃO. CÁLCULOS ELABORADOS EM OBSERVÂNCIA ÀS REGRAS DETERMINADAS POR SENTENÇA PARA CORREÇÃO E ACRÉSCIMO DE JUROS LEGAIS. HONORÁRIOS EFETIVAMENTE FIXADOS EM 20% SOBRE O VALOR DA CONDENAÇÃO E NÃO 11%, COMO PEDEM AS EXECUTADAS. AGRAVO CONHECIDO E PROVIDO.
+1. Deve ser afastada a preliminar de perda de objeto recursal, desde quando vários foram os pedidos formulados pelo agravante, sendo que apenas um deles em caráter de antecipação da tutela.
+2. Com relação ao pleito formulado pelas Executadas, para que seja considerado que a majoração dos honorários pelo STJ em 10% elevaria a verba para 11%, deve ser a tese rechaçada. O acréscimo no caso concreto deve levar em consideração o grau de zelo do profissional que assiste a parte e o trabalho executado, sendo certo que extrai-se do julgado que o Tribunal Superior quis em verdade majorar a verba para 20%.
+3. O tópico relacionado ao valor executado, com pedido de reconhecimento do valor indicado pelo Exequente, deve ser acolhido, pois os cálculos efetivamente refletem a correta aplicação da correção monetária e juros legais, na forma definida por sentença, não estando configurado excesso ou qualquer outro vício no demonstrativo.
+4. Agravo que deve ser conhecido e provido, para o fim de homologar o cálculo elaborado pelo Exequente e julgar improcedentes as Impugnações ao Cumprimento de Sentença interpostas por ambas as Executadas.
+5. Sucumbência integral das Executadas, que deverão suportar inteiramente tal ônus, ficando mantido, porém, o percentual arbitrado na lide originária.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 236):
+EMBARGOS DE DECLARAÇÃO. REDISCUSSÃO DO MÉRITO. PREQUESTIONAMENTO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+Com efeito,verifico que a ora agravante Companhia de Eletricidade do Estado da Bahia - COELBA não interpôs recurso especial contra o acórdão de fls. 176/198, integrado pelo acórdão de fls. 235/248,motivo pelo qual não é cabívelo presente recurso.
+Em face do exposto, não conheço do agravo em recurso especial de fls. 494/500.
+Intimem-se.
