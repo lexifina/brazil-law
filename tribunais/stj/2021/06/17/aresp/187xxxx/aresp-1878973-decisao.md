@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CRIMINAL - HOMICÍDIO QUALIFICADO - RECURSO MINISTERIAL - CASSAÇÃO DO JULGAMENTO - DECISÃO MANIFESTAMENTE CONTRÁRIA ÀS PROVAS DOS AUTOS - INOCORRÉNCIA - SENTENÇA MANTIDA
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do arts. 121, § 2º, I, c/c 14, II, do CP e 593, III, d, do CPP, no que concerne à decisão do Tribunal do Júri ter sido completamente contrária à prova dos autos, razão pela qual deve ser anulada, trazendo o(s) seguinte(s) argumento(s):
+"Assim procedendo, a colenda Câmara Julgadora laborou em inquestionável equívoco, na medida em que confirmou a decisão dos jurados que absolveu o recorrido, desprezando, por completo, o acervo probatório constante nos autos, inclusive reconhecido pelo voto vencido.
+Ora, basta uma leitura perfunctória nos autos, para se inferir que a conclusão adotada no julgado recorrido está inteiramente divorciada do caderno de provas, não havendo nada que ampare a decisão.
+ ..
+Portanto, não se nega aos jurados a soberania de decidirem conforme sua íntima convicção, contudo, ilegítima é a decisão proferida sem amparo na prova dos autos ou, ainda, como na hipótese vertente, quando a única versão contrária aos termos da denúncia, fundada na palavra do réu, abertamente infirmada pelo conjunto probatório.
+ ..
+Como decorrência do exposto, caracterizada a negativa de vigência aos artigos 121, §20 , 1, dc 14, II, do CP e ad. 593, III, "d" do CPP, espera- se o provimento do presente Recurso Especial, para que seja restabelecida a sua vigência" (fls. 722/730).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+"Na espécie em análise, os jurados acolheram a tese apresentada pela defesa - negativa de autoria - e, ao contrário do afirmado pelo parquet, as provas coligidas servem, sim, para sustentar a decisão popular.
+Analisando cuidadosamente o acervo probatório, em especial as declarações prestadas pelo réu, que, em todas as oportunidades em que foi ouvido, negou a prática do delito em questão (fls. 36137, 197/197v e 4721473), não vejo como prosperar a pretensão recursal.
+Ao contrário do que pretende o Ministério Público, não é possível afirmar que a absolvição é completamente distanciada das provas, pois, como apontado acima, existe base probatória para tal decisão.
+Assim, as provas autorizam a posição tomada pelos jurados. O respeito á decisão do Júri Popular é a conservação do princípio constitucional da soberania dos vereditos" (fl. 691).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, quanto à existência ou inexistência de decisão contrária à prova dos autos, seria necessária, a toda evidência, a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: "Para se entender de forma diversa do Tribunal de origem, no sentido de que a condenação foi contrária à prova dos autos ou que a dosimetria da pena foi indevidamente exasperada, seria imprescindível o reexame do conjunto probatório, tarefa vedada em recurso especial". (AgRg no AgRg no AREsp n. 1.711.973/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 30/09/2020.)
+Confiram-se ainda os seguintes julgados: AgRg no AREsp n. 1.755.363/TO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 02/02/2021, DJe 04/02/2021; AgRg no AREsp n. 1.680.222/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 11/02/2021; AgRg no AgRg no AREsp n. 1.631.730/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/09/2020; AgRg no AREsp n. 1.632.897/RS, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/06/2020; AgRg no AREsp n. 1.619.107/MG, relator Ministro Jorge Mussi, Quinta Turma, DJe de 04/08/2020; AgRg no AREsp n. 933.257/RO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 10/06/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
