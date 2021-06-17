@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MARCOS ANTONIO MENDES DE OMENA ePATRICIA APARECIDA PEREIRA ESTEVES DE OMENA, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, naalínea"a"do permissivo constitucional.
+Agravo em recurso especial interposto em: 06/05/2020.
+Concluso ao gabinete em: 24/05/2021.
+Ação:de imissão na posse, com pedido liminar, ajuizada por EDUARDO CORREIA DA SILVAem face de MARCOS ANTONIO MENDES DE OMENA e PATRICIA APARECIDA PEREIRA ESTEVES OMENA pretendendo a posse direta sobre o imóvel adquirido, localizado na Rua José Porfirio de Souza, s/n, lote 03, loteamento 39577, quadra B, Santíssimo, do PAL 39.577, Rio de Janeiro, e compensação por dano moral. Afirma que, em 28/12/2011, firmou compra e venda com terceiro, tendo por objeto o imóvel. Diz que, em razão de comprometimento financeiro, não iniciou a construção de sua casa no terreno, realizando, todavia, visitas regulares ao imóvel. Em 11/03/2016, ao visitar o imóvel, percebeu a existência de construção erigida pela parte ré. Enfim, afirma que o imóvel permanece ocupado pela parte ré.
+Sentença: julgou procedente o pedido paraimitir o agravado na posse do imóvel, no prazo de trinta dias, contados da intimação pessoal dos agravantesecondenar os agravantessolidariamente, ao pagamento, a título de indenização por danos morais, da quantia de R$ 8.000,00, corrigida em conformidade com os índices do TJERJ e acrescida de juros de mora de 1% (um por cento) ao mês a partir da publicação da sentença.
+Acórdão: deu parcial provimento ao recurso de apelação interposto pelos agravantes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE IMISSÃO NA POSSE C/C REPARAÇÃO POR DANOS MORAIS - MÁ-FÉ CONFIGURADA - AUTOR PROPRIETÁRIO DE TERRENO REGISTRADO NO RGI TARDIAMENTE POR IMPOSSIBILIDADE FINACEIRA - RÉUS QUE PROCURADOS CONTINUARAM A CONSTRUÇÃO E PERMANECEM NO LOCAL ATÉ OS DIAS ATUAIS - REJEIÇÃO DOS PLEITOS DE AQUISIÇÃO DA PROPRIEDADE PELOS RÉUS POR ACESSÃO INVERSA E INDENIZAÇÃO PELA ACESSÃO E BENFEITORIAS REALIZADAS - DISTINÇÃO ENTRE BENFENTORIA NECESSÁRIA E ACESSÃO - ACESSÃO NÃO INDENIZÁVEL - SENTENÇA DE PROCEDÊNCIA DO PEDIDO AUTORAL E IMPROCEDÊNCIA DO PEDIDO RECONVENCIONAL - REFORMA PARCIAL DA SENTENÇA APENAS PARA AFASTAR A CONDENAÇÃO EM VERBA COMPENSATÓRIA A TÍTULO DE DANO MORAL - CONHECIMENTO E PARCIAL PROVIMENTO DO RECURSO.
+Embargos de Declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: alegam violação dos arts. 1.255,1.219 e 1.220 do Código Civil. Defendem, em síntese, que acórdão concluiu que acessão inversa não restou configurada porque teria havido má-fé diante do fato dos recorrentes terem se comprometido a parar o andamento das obras e não terem feito e nem saído do imóvel quando souberam que a propriedade havia sido registrada. Contudo, sustentam que somente tiveram ciência do registro do agravadoao serem citados para a presente ação. Aduzem que, diante desses fatos, alei lhes garante o direito de retenção pelas benfeitorias realizadas.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, que quanto à alegada omissão, a parte agravante não alega violação de qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 1.255, 1.219 e 1.220 do Código Civil, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+O TJ/RJao analisar o recurso interposto pelosagravantes, concluiu o seguinte (e-STJ fls. 345/346):
+A tese dos Réus reside na alegação de que exerciam regularmente a posse, sendo esta de boa-fé, o que não se sustenta. Caso fosse verdade que os Réus exercessem a posse mansa e pacífica, com a visita do Autor reclamando sua propriedade, e ainda mais tarde, com o ajuizamento da Ação de Reintegração de Posse, plenamente cientes ficaram da precariedade de sua posse e da necessidade de devolver o imóvel.
+ ..
+Ressalta-se que, em que pese terem os Réus se comprometido a parar o andamento das obras não o fizeram. Terminaram a construção de uma casa de vários cômodos, o que leva tempo considerável para finalizar. Soma-se a isso o fato de permanecerem no local até a presente data, mesmo após o registro da propriedade do autor no RGI, feito em 10/06/2016, não havendo como se falar em boa-fé por parte dos Réus.
+No que se refere todavia ao dano moral, tal condenação deve ser afastada, eis que o mesmo não restou configurado no caso sob análise. Nota-se que não sendo a posse exercida pelos Demandados de boa-fé, também merece ser rejeitado o pleito de declaração de domínio em favor destes, por acessão inversa. Da mesma forma, não merece prosperar o pedido subsidiário, formulado em sede recursal, que consiste no ressarcimento pela acessão e benfeitorias realizadas. Ressalta-se que existe diferença entre acessões artificiais e benfeitorias.
+Aquelas são obras que criam uma coisa nova e que se aderem à propriedade anteriormente existente, enquanto estas são as obras feitas na coisa, com o fito de conservá-la, melhorá-la ou embelezá-la.
+A acessão artificial é a aquisição de uma coisa nova, sendo a boa-fé elemento fundamental para que haja indenização, enquanto na benfeitoria essa subjetividade seria irrelevante, quando se trata evidentemente de benfeitoria necessária.
+Nota-se que o bem imóvel em comento é um terreno, tendo os Réus realizado a construção de uma casa (acessão), não havendo que se falar em benfeitorias necessárias ou tampouco em indenização.
+Desse modo, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 5% os honorários fixados anteriormente, observada eventual gratuidade de justiça deferida.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE IMISSÃO NA POSSE. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial não conhecido.
