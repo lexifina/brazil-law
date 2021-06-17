@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso especial interposto por BANCO VOLKSWAGEN S.A., fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 26/11/2020.
+Concluso ao gabinete em: 12/05/2021.
+Ação: de busca e apreensão, ajuizada pelo recorrenteem face de OLISVALDO SEBASTIÃO FERREIRA JÚNIOR, devido ao inadimplementodocontrato de financiamento de veículo, com cláusula dealienação fiduciária em garantia, firmado entre as partes.
+Decisão interlocutória: não obstante tenha deferido a liminar de busca e apreensão do veículo, obstou a transferência ou a retiradado bem da comarcasem autorização judicial.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo recorrente, nos termos da seguinte ementa (e-STJ fl. 137):
+"Agravo de instrumento - Busca e apreensão - Alienação fiduciária - Irremovibilidade da comarca e eventual venda antecipada do veículo independentemente da autorização do juízo - Possibilidade - Ofensa ao princípio do contraditório e da ampla defesa - Recurso ao qual se nega provimento.
+Enquanto não decorrido o prazo legal previsto nos §§ 2º e 3º do art. 3º, do Dec. Lei n. 911/69, alterado pela Lei n. 10.931, de 2 de agosto de 2004, para o pagamento da integralidade da dívida pendente pelo devedor-fiduciante (parcelas vencidas e vincendas), a posse plena do credor sobre o bem apreendido não pode ser consolidada, sob pena de violação às garantias constitucionais do devido processo legal, da ampla defesa e do contraditório".
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: alega a violação do art. 3º, §§ 1º e 2º, do DL 911/69, bem como a existência de dissídio jurisprudencial. Sustenta que a norma de regência prevê a consolidação da propriedade do bem no patrimônio do credor fiduciáriose não houver a quitação da dívida no prazo de 5 dias a contar do cumprimento da liminar. Afirma inexistirdeterminação legal de que "o bem apreendido deva permanecer nos limites territoriais da comarca onde tramita o processo, ou mesmo limitação ao direito de alienação" (e-STJfl. 164).
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+- Da impossibilidade de imposição de condicionantes à propriedade do credor fiduciário.
+De acordo com o disposto noart. 3º do DL 911/69, pode o devedor, no prazo de cinco dias contados da execução da liminar de busca e apreensão, pagar a integralidade da dívida pendente e, assim, obter a restituição do bem alienado fiduciariamente.
+Caso contrário, ou seja, se não efetuado o pagamento do débito em aberto no mencionado prazo, ocorre a consolidação da plena propriedade sobre o bem em favor do credor, a partir do que "não se revela possível impor qualquer restrição ao direito de propriedade do credor, sendo descabida a determinação no sentido de que a parte autora somente possa alienar, transferir ou retirar o bem da comarca com autorização do Juízo".
+De fato, como já decidiu esta Corte, a imposição de restrições à remoção e alienação do bem até o término da ação de busca e apreensão, mesmoapós a consolidação da propriedade em favor do credor fiduciário, "ofende não só a sistemática prevista no art. 3º, §§ 1º e 2º, do Decreto-lei n. 911/1969, mas, também, acarreta nítida violação ao direito de propriedade" da instituição financeira (REsp 1.790.211/MS,3ª Turma, DJe 04/04/2019).
+Dessa forma, considerando que, na hipótese dos autos, o entendimento adotado no acórdão recorrido destoa da orientação firmada pelo STJ, impõe-se o acolhimento da irresignação recursal, tendo aplicação, na espécie, a Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do recurso especial e,com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ,DOU-LHE PROVIMENTO, paraafastar a restrição imposta ao direito de disposição do bem, após a consolidação da propriedade em favor do credor fiduciário, nos termos previstos no art. 3º do DL 911/1969.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Por derradeiro, previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO DE VEÍCULO ALIENADO FIDUCIARIAMENTE. LIMINAR. CONCESSÃO. PROIBIÇÃO DA INSTITUIÇÃO FINANCEIRA DE ALIENAR OU RETIRAR O BEM DA COMARCA SEM AUTORIZAÇÃO JUDICIAL. IMPOSSIBILIDADE. EXERCÍCIO DO PLENO DIREITO DE PROPRIEDADE PELO CREDOR FIDUCIÁRIO SE NÃO QUITADA A DÍVIDA NO PRAZO DE CINCO DIAS A CONTAR DA EXECUÇÃO DA LIMINAR. ART. 3º DO DL 911/69.
+1. Cuida-se, na origem, de ação de busca e apreensão de veículo objeto de contrato de financiamento, com cláusula de alienação fiduciária em garantia.
+2. Consoante já decidiu esta Corte, "havendo a consolidação da propriedade e da posse plena do bem no patrimônio do credor fiduciário, em razão do não pagamento da dívida pelo devedor no prazo estabelecido no Decreto-lei n. 911/1969, não se revela possível impor qualquer restrição ao direito de propriedade do credor, sendo descabida a determinação no sentido de que a parte autora somente possa alienar, transferir ou retirar o bem da comarca com autorização do Juízo"(REsp 1.790.211/MS, 3ª Turma, DJe 04/04/2019).
+3. Recurso especial conhecido e provido.
