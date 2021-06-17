@@ -1,0 +1,17 @@
+Decisão: 1. Trata-se de habeas corpus impetrado em favor de Delúbio Soares de Castro em face de acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental interposto no Resp 1.797.969/PR.
+    Narra a impetrante, em síntese, que o paciente foi condenado em primeiro grau pelo Juízo da 13ª Vara Federal de Curitiba/PR, em sentença eivadas de vícios.
+    Articula, a esse respeito, a ocorrência de ilegalidades na condenação penal do paciente, consubstanciadas nas irresignadas versadas no recurso especial: a) incompetência do Juízo da 13º Vara Federal de Curitiba/PR, pois não “há qualquer liame fático ou probatório entre a narrativa presente na Denúncia e a Petrobrás ou seus funcionários ou servidores” (e.Doc. 1, fl.22); b) reconhecimento da competência da Justiça Eleitoral ou da Justiça Federal de São Paulo; c) indevida inversão da ordem de realização do interrogatório e da apresentação das alegações finais do acusado Natalino Bertin, cuja confissão incriminava o ora paciente, “com a clara intenção de obter benefícios oriundos dessa sua colaboração” (e.Doc. 1, fl. 42); d) inépcia da denúncia, atipicidade da conduta ou ausência de provas à condenação do delito de lavagem de capitais; e e) equívocos na dosimetria da pena, em especial quanto à dosagem da pena privativa de liberdade, à pena pecuniária e ao regimental inicial de cumprimento da pena.
+    Aduz que, ao contrário do que aponta o ato coator, o HC 454.132 julgado pelo Superior Tribunal de Justiça não tratou das matérias suscitadas no recurso especial.
+    Reputa demonstrada a negativa de prestação jurisdicional, porquanto o Superior Tribunal de Justiça se negou a analisar as matérias suscitadas pela defesa, quer em habeas corpus, quer em recurso especial.
+    Invocando o perigo na demora do reconhecimento das nulidades articuladas, dada a iminência do trânsito em julgado da condenação, requer “seja deferida MEDIDA LIMINAR para suspender o curso da Ação Penal a que responde o Paciente, até o julgamento final do presente writ”(e.Doc. 1, fl. 89).
+    É o relatório. Decido.
+    2. Principio assinalando, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos, a saber: (i) a existência de plausibilidade jurídica (fumus boni juris); (ii) a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora). Sem que concorram esses requisitos, essenciais e cumulativos, não se legitima a concessão do provimento cautelar.
+    Num juízo de cognição sumária, próprio desta específica fase processual, não depreendo ilegalidade flagrante na decisão atacada a justificar a concessão da liminar.
+    Ao lado disso, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se impõe quando a situação demonstrada nos autos representa manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirma.
+    3. Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual, sem prejuízo de ulterior reapreciação da matéria no julgamento final do presente habeas corpus, indefiro a liminar.
+    Dê-se vista dos à Procuradoria-Geral da República para manifestação.
+    Publique-se. Intime-se.
+    Brasília, 17 de junho de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
