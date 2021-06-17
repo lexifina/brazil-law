@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA RURAL PIGNORATÍCIA. PRESCRIÇÃO INTERCORRENTE. EXCEÇÃO DE PRÉ-EXECUTIVIDADE REJEITADA. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA NO RESP N.º 1.604.412/SC. EXECUÇÃO QUE NÃO RESTOU PARALISADA POR PERÍODO SUPERIOR AO PRAZO TRIENAL PRESCRICIONAL DA PRETENSÃO. ARTIGO 70 DA LEI UNIFORME DE GENEBRA. DECISÃO MANTIDA, AINDA QUE POR FUNDAMENTO DIVERSO. RECURSO CONHECIDO E NÃO PROVIDO.
+Opostos embargos de declaração, esses não foram conhecidos pela origem.
+Nas razões do especial, os agravantes apontam existência de dissídio jurisprudencial, além de violação dos artigos 921 do Código de Processo Civil e 40 da Lei 6.830/80.
+Defendem a não aplicabilidade do CPC/15 para o caso, haja vista a execução ter-se iniciado antes da vigência da mencionada lei.
+Afirmam que ocorreu o abandono da causa e a prescrição intercorrente da execução pela superação do prazo trienal para a cobrança de dívida advinda de cédula rural pignoratícia, em face da desídia do credor em promover o andamento do processo, visto ficar paralisado por mais de quatro anos.
+Aduzem que o mero peticionamento não interrompe a contagem prescricional intercorrente e que o marco inicial do pedido do credor que dá impulso à execução é seu protocolo.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+Com referência à aventada irretroatividade da lei, verifica-se que não houve debate na origem quanto ao ponto. Anoto que os agravantes mesmo interpondo embargos de declaração, esses não foram conhecidos.
+De modo que as razões do recurso especial não são convincentes, já que nele não está indicado trecho ou passagem do acórdão recorrido em que tenha havido a abordagem da matéria controvertida, merecendo, assim, a aplicação das Súmulas 282 e 356 do STF, visto que ausente o indispensável prequestionamento com referência a essa questão ventilada no recurso especial, do qual não estão isentas sequer as questões de ordem pública.
+De igual teor:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. MATÉRIA NÃO DEBATIDA NA ORIGEM. FALTA DE PREQUESTIONAMENTO.
+1. Em que pese a omissão do acórdão recorrido ao tratar do termo inicial da prescrição quinquenal, não se poderia conhecer da irresignação, pois a tese legal apontada não foi analisada pelo acórdão hostilizado. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Acrescento que o recorrente não opôs Embargos de Declaração a fim de sanar possível omissão no julgado.
+2. O STJ possui compreensão pacífica no sentido da necessidade de prequestionamento, inclusive de matérias de ordem pública.
+3. Embargos de Declaração acolhidos, sem efeitos infringentes.
+(EDcl no REsp 1682995/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2017)
+No que se refere à preliminar suscitada, a jurisprudência do Superior Tribunal de Justiça pacificou entendimento no sentido de que "Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002; 1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980)" (REsp 1604412/SC, Rel. Ministro Marco Aurélio Bellizze, Segunda Seção, DJe 22/8/2018).
+Ocorre que, na hipótese em análise, o próprio Tribunal de origem consignou que o prazo prescricional não foi superado, como se extrai do trecho (fls. 101-102, e-STJ):
+No caso, não se constata que o feito ficou paralisado por prazo superior a três anos.
+Conforme relatado, a decisão proferida em 02.04.2013 (mov. 1.66 e 1.67) determinou a suspensão do feito por prazo indeterminado. Em tese, em 02.04.2014 teria início o cômputo do prazo prescricional.
+Todavia, destaca-se que o ora agravado se manifestou em 23.08.2013 e em 06.12.2013 (mov. 1.73 e 1.81), solicitando busca de bens pelos sistemas Bacenjud, Renajud e Infojud- o que impediu que o prazo prescricional tivesse início, nos termos do art. 921, parágrafo 4o, do CPC.
+(..)
+Após, ainda que o processo tenha sido arquivado em 09.05.2014 (mov. 1.84 e 1.85), o exequente pleiteou em 08.06.2017 a busca via Bacenjud, Renajud e Infojud (mov. 1.86). Assim, considerando o início do prazo um ano após a determinação de arquivamento, este se iniciou em 09.05.2015. Como a parte se manifestou já em 2017, não foi esgotado o prazo prescricional trienal.
+Na seqüência, conforme já elucidado, o ora agravado se manifestou reiteradamente, de modo que não se alcança o período de três anos necessários à configuração da prescrição.
+Destaco, inclusive, não ser possível acolher o argumento levantado em razões recursais no sentido de que apenas com a penhora efetiva realizada em 28.03.2018 é que o prazo foi obstado, na medida em que, se o exequente é diligente na satisfação do crédito durante todo o trâmite processual, não pode ser penalizado cm razão de a busca de bens restar infrutífera.
+Portanto, ainda que somados os intervalos em que o processo permaneceu inerte sem qualquer diligência do exequente (02.04.2013 a 23.08.2013 e 09.05.2015 a 08.06.2017), não há que se falar em prescrição, pois tal somatória não ultrapassa os três anos de prescrição, nos moldes do art. 70 da Lei Uniforme de Genebra.
+Diante disso, considerando que o feito não permaneceu sem qualquer diligência do credor por período superior ao prazo prescricional do direito material, que no caso é de três anos, se constatando inúmeras buscas de bens, é de rigor a manutenção da decisão agravada, ainda que por fundamento diverso.
+Com efeito, considerando a moldura fática delineada pela Câmara revisora, verifico que o acórdão recorrido se encontra em harmonia com a citada jurisprudência deste Superior Tribunal de Justiça. Além disso, reexaminar a questão esbarra nas disposições do verbete n. 7 da Súmula desta Casa.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
