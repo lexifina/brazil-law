@@ -1,0 +1,1 @@
+Art. 21-G - Os Procuradores designados para a Representação no Distrito Federal atuarão sob a orientação técnica das Procuradorias e sob a supervisão administrativa do Gabinete do Procurador Geral do Estado.

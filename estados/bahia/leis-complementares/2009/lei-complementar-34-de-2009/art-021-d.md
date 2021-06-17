@@ -1,0 +1,1 @@
+Art. 21-D - Os Procuradores do Estado lotados na Procuradoria do Interior poderão ter atividade itinerante nos Núcleos Regionais, de acordo com a necessidade do serviço, ressalvados os lotados nas Representações Regionais até a data de entrada em vigor desta Lei.

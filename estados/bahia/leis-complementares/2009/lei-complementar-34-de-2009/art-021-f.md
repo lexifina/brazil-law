@@ -1,0 +1,7 @@
+## SEÇÃO IV-A -
+## DA REPRESENTAÇÃO NO DISTRITO FEDERAL
+Art. 21-F - Compete à Representação no Distrito Federal, sem prejuízo de outras demandas que lhe sejam atribuídas pelo Procurador Geral do Estado, exercer a consultoria e o assessoramento jurídico, bem como a representação judicial do Estado no Distrito Federal, cabendo-lhe especialmente:
+I - representar e defender os interesses do Estado da Bahia junto aos órgãos e entidades federais, ao Congresso Nacional, ao Ministério Público Federal, ao Tribunal de Contas da União, ao Tribunal Regional Federal da 1ª Região e aos Tribunais Superiores;
+II - comparecer a reuniões e sessões de julgamento de órgãos colegiados, sempre que estiverem em pauta matérias de interesse do Estado da Bahia, dando de tudo ciência ao Procurador Geral do Estado;
+III - acompanhar no Congresso Nacional a tramitação de projetos de lei e, em órgãos colegiados federais, a edição de atos normativos que possam interferir na esfera jurídica do Estado da Bahia, dando de tudo ciência ao Procurador Geral do Estado;
+IV - assessorar e prestar assistência jurídica ao Escritório de Representação do Governo do Estado em Brasília - DF.
