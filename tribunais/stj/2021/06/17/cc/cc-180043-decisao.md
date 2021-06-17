@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre oJuízo de Direito da Vara de Execução em Meio Aberto e Medidas Alternativas do Novo Gama/GO,o suscitante, e oJuízo de Direito da Vara de Execuções das Penas em Regime Aberto do Distrito Federal,o suscitado.
+A natureza do dissenso foi assim sintetizada pelo Ministério Público Federal (fls. 1.191/1.192):
+ ..
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da Vara de Execução Meio Aberto e Medidas Alternativas do Novo Gama/DF e o Juízo de Direito da Vara de Execuções das Penas em Regime Aberto do Distrito Federal/DF, nos autos da execução penal (nº 0109910-38.2006.8.07.0015) instaurada em desfavor de Gilberto de Oliveira Brito, que atualmente cumpre pena em regime aberto domiciliar.
+2. Acolhendo parecer ministerial, o Juízo de Direito da Vara de Execução Meio Aberto e Medidas Alternativas do Novo Gama/DF observou que os autos foram remetidos àquele Juízo sem a prévia concordância da referida autoridade, "única e exclusivamente em razão de constar nos autos que o reeducando possivelmente tenha domicílio na Comarca de Novo Gama/GO" (fls. 705).
+3. Diante da referida irregularidade, remeteu os autos ao Juízo de Direito da Vara de Execuções das Penas em Regime Aberto do Distrito Federal/DF, ponderando também que, por se tratar de Município localizado no entorno do Distrito Federal, de pena em regime aberto domiciliar e considerando também o elevado acervo da Comarca, não restaria qualquer prejuízo à manutenção dos autos de execução sob a competência do juízo sentenciante.
+4. Todavia, o Juízo de Direito da Vara de Execuções das Penas em Regime Aberto do Distrito Federal/DF, considerando a evidência de que o apenado possui vínculo social com a Comarca de Novo Gama/GO, observou que é "direito do apenado e interesse da sociedade o cumprimento da pena na localidade em que melhor se possa desenvolver o processo de reintegração social perseguido pela execução penal" (fls. 1153).
+Daí o presente conflito negativo de competência.
+ ..
+No parecer, o Ministério Público Federal opinou pela declaração de competência do Juízo suscitado (fl. 1.192):
+ ..
+5. Com razão o suscitante, uma vez que o juízo competente para a execução é o que proferiu a sentença condenatória, ainda que o sentenciado venha a residir fora de sua jurisdição. A propósito, entende essa Corte Superior que "o fato de o sentenciado estar residindo em outra comarca não autoriza a modificação da competência para execução da pena" (AgRg no CC n. 141.896/PR, Rel. Min. Maria Thereza de Assis Moura, 3 a Seção, DJe 3/3/2016).
+6. Logo, pela competência do Juízo de Direito da Vara de Execuções das Penas em Regime Aberto do Distrito Federal/DF, o suscitado.
+É o relatório.
+Com razão o parecerista.
+Colhe-se dos autos que o Juízo suscitante firmou a absoluta impossibilidade de receber a execuçãodo apenado, em decorrência de mudança voluntária de domicílio, ante a ausência de estrutura adequada para a fiscalização do cumprimento da pena em regime aberto domiciliar.
+Em casos que tais, a jurisprudência desta Corte tem orientado no sentido da competência do Juízo do local da condenação, originalmente competente para executar a pena.
+Nesse sentido, confiram-se:
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. JUÍZO INDICADO NA LEI LOCAL DE ORGANIZAÇÃO JUDICIÁRIA OU JUÍZO DA CONDENAÇÃO. INCIDÊNCIA DO ART.65 DA LEI DE EXECUÇÕES PENAIS -LEP. MUDANÇA VOLUNTÁRIA DE DOMICÍLIO. NECESSIDADE DE PRÉVIA CONSULTA AO JUÍZO DE DESTINO.AUSÊNCIA DE VAGAS NO REGIME SEMIABERTO E INSUFICIÊNCIA DE TORNOZELEIRAS ELETRÔNICAS. FUNDAMENTAÇÃO IDÔNEA PARA O NÃO RECEBIMENTO DO APENADO.
+1. O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal  CF.
+2."Inexistindo vaga, na localidade de domicílio do reeducando, no regime em que se encontra em cumprimento de pena, tanto a execução quanto a fiscalização da reprimenda devem ser mantidas com o Juízo originário da Execução"(CC 148.441/DF, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, DJe 17/8/2017).
+3.A fiscalização da execução por meio de carta precatória -medida cabível nos casos de pena restritiva de direitos em substituição à pena privativa de liberdade-não se aplica ao caso dos autos, porquanto o apenado não fez jus à aludida substituição, conforme extrai-se da sentença condenatória. Em se tratando de cumprimento de pena privativa de liberdade, inviável impor ao Juízo de destino o ônus de disponibilizar vaga no regime semiaberto ou tornozeleira eletrônica, uma vez que informou não possuir estrutura suficiente sequer para os presos que foram condenados naquela unidade federativa. Inaceitável a transferência compulsória da execução criminal sem que tenha sido feita prévia consulta ao Juízo de destino e também não é o caso de obrigá-lo a fiscalizar o cumprimento de pena privativa de liberdade em regime semiaberto mediante uso de monitoramento eletrônico, se carente de tal aparato.Precedente: "No caso, o suscitado destacou a deficiência estrutural do sistema carcerário da Comarca de Goiânia - GO, que nem sequer dispõe de tornozeleira eletrônica para implementar o início da execução penal, o que, a priori, justifica a inviabilidade de transferência do condenado" (AgRg no CC 150.563/CE, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, 2/10/2018).
+4. Conflito conhecido para declarar a competência do Juízo de Direito da Vara de Execução em Meio Fechado e Semiaberto de Rolândia  PR, o suscitante.
+(CC 172.278/PR Ministro Joel Ilan Paciornik, Terceira Seção, DJe 18/8/2020 - grifo nosso)
+PROCESSO PENAL. CONFLITO DE COMPETÊNCIA. CONDENAÇÃO A PENA PRIVATIVA DE LIBERDADE. PROGRESSÃO AO REGIME SEMIABERTO. TRANSFERÊNCIA.DOMICÍLIO DO REEDUCANDO. NECESSIDADE DE PRÉVIA CONSULTA. COMPETÊNCIA PARA EXECUÇÃO E FISCALIZAÇÃO DA PENA: JUÍZO ORIGINÁRIO DA EXECUÇÃO PENAL.
+1. A competência para a execução da pena não se confunde com a fiscalização do seu cumprimento que, em algumas situações, é deprecada em razão da transferência do reeducando ao local de seu domicílio ou do domicílio de sua família.
+2. A jurisprudência desta Corte entende que a transferência de preso para local próximo de sua família, onde possa obter resultados mais favoráveis no processo de ressocialização, depende de consulta prévia ao juízo de destino.
+3. Inexistindo vaga, na localidade de domicílio do reeducando, no regime em que se encontra em cumprimento de pena, tanto a execução quanto a fiscalização da reprimenda devem ser mantidas com o Juízo originário da Execução.
+4. Conflito de competência conhecido para declarar competente o Juízo de Direito da Vara de Execuções Penais e Corregedoria dos Presídios de Foz do Iguaçu/PR, suscitado.
+(CC n. 148.441/DF, Ministro Nefi Cordeiro, Terceira Seção, DJe 17/8/2017 - grifo nosso)
+Ante o exposto, acolhendo o parecer,conheçodo conflito paradeclarara competência do Juízo de Direito da Vara de Execuções das Penas em Regime Aberto do Distrito Federal, o suscitado.
+Dê-se ciência aos Juízes em conflito.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL.PENA PRIVATIVA DE LIBERDADE. REGIME ABERTO. MUDANÇA VOLUNTÁRIA DEDOMICÍLIO DO REEDUCANDO. TRANSFERÊNCIA DA EXECUÇÃO.NEGATIVA DEVIDAMENTE JUSTIFICADA.COMPETÊNCIA DO JUÍZO ORIGINÁRIO DA EXECUÇÃO PENAL.
+Conflito conhecido para declarar a competência doJuízo de Direito da Vara de Execuções das Penas em Regime Aberto do Distrito Federal, o suscitado.
