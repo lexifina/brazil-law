@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVOEM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIOQUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA DA RÉ.
+1. Os embargos de declaração somente são cabíveis quando houver, nasentença ou no acórdão, obscuridade, contradição, omissão ou erromaterial, consoante dispõe o artigo 1.022 do CPC/15, o que não seconfigura na hipótese em tela, porquanto o aresto deste órgão fracionárioencontra-se devida e suficientemente fundamentado.
+2. Inexistindo quaisquer das máculas previstas no aludido dispositivo, nãohá razão para modificar a decisão impugnada. Precedentes.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Cuida-se de embargos de declaração, opostos por AMPLA IMAGEM COMERCIO DE PRODUTOS HOSPITALARES EIRELI, contra o acórdão de fls. 395/401, e-STJ, proferido pelo colegiado desta Quarta Turma, que desproveu o agravo interno interposto pelaora embargante. O aresto em questão está assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. O acolhimento da pretensão recursal exigiria derruir a convicção formada nas instâncias ordinárias sobre o descumprimento contratual e a consequente necessidade do retorno ao status quo ante, constatada mediante análise do acervo probatório e interpretação do contrato firmados entre as partes, procedimento inviável nesta sede extraordinária ante os óbices das Súmulas 5 e 7/STJ.
+3. A jurisprudência desta Corte Superior, entende que a apreciação do quantitativo em que autor e réu saíram vencidos na demanda, bem como a verificação da existência de sucumbência mínima ou recíproca, encontram inequívoco óbice na Súmula 7/STJ, por revolver matéria eminentemente fática.
+4. A majoração da verba honorária foi realizada nos moldes do art. 85, § 11, CPC/15, atendendo aos critériosJustiçada razoabilidade e proporcionalidade e observado o limite legal.
+5. Agravo interno desprovido.
+Irresignada, ainsurgenteopõeembargos de declaração (fls. 406/411, e-STJ), sustentando, em síntese, a existência de omissãoa macular o aresto embargado no que diz respeito a: i) ausência de fundamentação do acórdão recorrido, pois limitou-se a ratificar os fundamentosda decisão agravada; ii) aplicação do artigo 93, IX da Constituição Federal para fins de prequestionamento; iii) quanto à aplicação da Súmula 7 do STJ ao caso.No mais, reitera as razões do agravo interno.
+Sem impugnação (fl. 413, e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVOEM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIOQUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA DA RÉ.
+1. Os embargos de declaração somente são cabíveis quando houver, nasentença ou no acórdão, obscuridade, contradição, omissão ou erromaterial, consoante dispõe o artigo 1.022 do CPC/15, o que não seconfigura na hipótese em tela, porquanto o aresto deste órgão fracionárioencontra-se devida e suficientemente fundamentado.
+2. Inexistindo quaisquer das máculas previstas no aludido dispositivo, nãohá razão para modificar a decisão impugnada. Precedentes.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):Os embargos de declaração não merecem acolhimento, visto que aembargantenão demonstrou a existência de nenhum vício a macular ojulgado, possuindo o recurso nítido caráter infringente.
+1. Nos estreitos lindes do artigo 1.022 do Código de Processo Civil de2015, o recurso de embargos de declaração objetiva somente suprir omissão,dissipar obscuridade, afastar contradição ou sanar erro materialencontrável em decisão ou acórdão, não podendo ser utilizado comoinstrumento para a rediscussão do julgado, como pretende a ora embargante.
+Nesse sentido, precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART.1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL.INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE.PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO.PRECEDENTES. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que negou provimento ao agravo interno.
+4. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+5. Em razão de os embargos se mostrarem manifestamente protelatórios na medida em que foi aplicada a Súmula nº 281 do STF, deve ser cominada a multa prevista no art. 1.026, § 2º, do NCPC no percentual de 2% sobre o valor atualizado da causa, observada a justiça gratuita.
+6. Embargos de declaração rejeitados, com imposição de multa.
+(EDcl no AgInt no AREsp 1668064/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 11/11/2020, DJe 16/11/2020)
+Na hipótese dos autos, o decisumembargado não possui vício a ser sanadopor meio de embargos de declaração, visto que esta eg. Quarta Turmadecidiu a controvérsia com base no entendimento adotado no âmbito destaCorte, sendo clara na sustentação das razões do desprovimento do agravointerno interposto.
+Com efeito, destacou-se clara e coerentemente, quando do julgamento doagravo interno, as razões pelas quais esta Quarta Turma concluiu: i) pelonão acolhimento da negativa de prestação jurisdicional ante a ausência de fundamentação do acórdão recorrido; ii) incidência das Súmulas 5e 7 do STJ, no tocante à necessidade do retorno das parte ao status quo antes sob o fundamento de ser a medida mais eficaz e do pedido de redistribuição das custas e dos honorários advocatícios.
+É o que se extrai do seguinte excerto do aresto recorrido (fls. 398/399,e-STJ):
+1. De início, consoante asseverado na decisão agravada, não se vislumbra omissão ou deficiência de fundamentação no acórdão impugnado, visto que é clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia, inclusive quanto ao pedido de redistribuição dos honorários de sucumbência.
+É o que se observa do seguinte trecho do acórdão impugnado (fl. 324, e-STJ):
+A embargante assinala omissão quanto a pedido subsidiário referente a ônus sucumbenciais. Não obstante, houve no acórdão menção expressa quanto à manutenção integral da sentença, nela se incluindo a distribuição dos ônus, sobre os quais foi devidamente observada a sucumbência recíproca e proporcional das partes, em consonância com a legislação processual civil.
+Com efeito, as questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla e fundamentada, embora não tenha acolhido as pretensões da recorrente, portanto não há ofensa ao artigo 1.022 do CPC/15.
+2. Conforme registrado no decisum monocrático, o Tribunal de origem, após sopesar todo o acervo fático-probatório carreado aos autos, inclusive o contrato firmado entre as partes, concluiu pelo retorno das partes ao status quo ante sob o fundamento de ser a medida mais eficaz no caso dos autos, consoante se observa no seguinte trecho extraído do acórdão hostilizado (fl. 307, e-STJ):
+Nesse esteio, o impedimento de a autora ser restituída pelo valor pago constitui violação aos princípios da razoabilidade e da boa-fé contratual, a qual possui como fundamentos a honestidade, a retidão, a lealdade e a consideração para com os interesses do outro contratante. Com base nestas premissas, o retorno das partes ao status quo ante é a medida de justiça mais eficaz no caso dos autos, ainda que não se declare a rescisão contratual, uma vez que deve ser respeitada a proibição de ultratividade da sentença, já que não houve pedido nesse sentido.
+Encontrando-se a autora na posse do produto de menor valor (CR 35-X), e tendo em vista a renúncia do pedido de que apenas se devolva o crédito a que tinha direito em razão da troca por produto de menor valor, impõe-se a devolução total da quantia paga pelo produto original - uma vez que nela já se encontra incluído o referido crédito -, porém, com a condição da restituição do equipamento à ré, sob pena, também, de enriquecimento ilícito por parte da autora.
+Neste contexto, para superar as premissas em que se apoiou o Tribunal de origem, revelar-se-ia necessária uma incursão no acervo fático-probatório constante dos autos, os quais deveriam ser interpretados à luz do contrato firmado entre as partes, hipótese que encontra óbice nos enunciados contidos nas Súmulas 5 e 7/STJ.
+(..)
+Ademais, a discussão envolvendo a valoração da prova produzida nos autos, como pretende a recorrente, demandaria o reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte ante o óbice da Súmula 7 do STJ, conforme entendimento consagrado na jurisprudência deste Tribunal.
+3. Em relação à redistribuição das custas e dos honorários advocatícios, oportuno ressaltar que esta Corte Superior entende que "a apreciação do quantitativo em que autor e réu saíram vencidos na demanda, bem como a verificação da existência de sucumbência mínima ou recíproca, encontram inequívoco óbice na Súmula 7/STJ, por revolver matéria eminentemente fática" (AgRg nos EDcl no REsp 757.825/RS, Rel. Min. DENISE ARRUDA, Primeira Turma, DJ de 02.04.2009).
+No caso, o Tribunal de origem consignou que (fl. 308, e-STJ):
+Portanto, NEGO PROVIMENTO ao recurso para manter na íntegra a sentença apelada.
+Convém colacionar, ainda, o trecho da r. sentença recorrida no ponto (fl. 239, e-STJ):
+Considerando-se a sucumbência recíproca e equivalente, ficam rateadas entre as partes, em igual proporção, as despesas processuais e os honorários advocatícios, que, atento ao art. 85, § 2º, do NCPC, arbitro em10% (dez por cento) sobre o valor da condenação.
+Logo, conclusão diversa da alcançada pelo Tribunal estadual demandaria revolver o acervo fático-probatório, providência vedada em sede de especial, a teor do verbete sumular 7/STJ.
+4.Por fim, a parte alega que a majoração dos honorários sucumbência em 10% é exorbitante, tendo em vista o simplificado do trabalho decorrente da interposição do recurso.
+Com efeito, a aplicação do art. 85, § 11, do CPC/15 demanda, além da publicação do acórdão recorrido sob a égide do Novo CPC, a condenação prévia pela instância inferior em honorários sucumbenciais, como foi o caso dos autos.
+Diante desse quadro, a decisão agravada majorou os honorários em 10% (dez por cento) sobre o valor já fixado pelo Tribunal local, o que não refoge à razoabilidade, tampouco viola a legislação processual.
+Isso porque o citado percentual incidirá sobre a verba honorária já arbitrada, não extrapolando o limite legal de 20% (vinte por cento) sobre o valor da condenação.
+Ademais, a Segunda Seção do STJ possui entendimento no sentido de que "é dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba" (cf. AgInt nos EREsp 1.539.725/DF, Rel. Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, DJe 19/10/2017).
+2. Outrossim, no tocante ao pedido de apreciação de dispositivo constitucional para o fim de viabilização do recurso extraordinário, a pretensão recursal não pode prosperar.
+Isso porque o entendimento jurisprudencial desta Corte firmou-se no sentido da impossibilidade de manifestação do STJ, em sede de recurso especial, ainda que para fins de prequestionamento, acerca da violação a dispositivos da Constituição Federal, sob pena de usurpação da competência do STF, razão pela qual inexiste qualquer vício a ser sanado na presente via recursal dos aclaratórios.
+Sobre a temática, os precedentes a seguir:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. ANÁLISE DOMÉRITO DE RECURSO QUE NÃO ULTRAPASSA O JUÍZO DE ADMISSIBILIDADE.IMPOSSIBILIDADE. QUANTIFICAÇÃO DOS HONORÁRIOS RECURSAIS. OMISSÃO.EXISTÊNCIA. EMBARGOS PARCIALMENTE ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+1. Diante de sua natureza estrita, não se prestam os embargos dedeclaração ao prequestionamento de dispositivos constitucionais com vistasa eventual interposição de recurso extraordinário, sob pena de usurpaçãoda competência da Suprema Corte.
+2. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos dedeclaração a afastar eventual omissão, obscuridade, contradição ou erromaterial na decisão embargada, não se caracterizando via própria aorejulgamento da causa.
+3. Na hipótese, verifica-se a existência de omissão apenas em relação àquestão dos honorários advocatícios recursais.
+4. Quanto à alegação remanescente, não se constata o vício alegado pelosembargantes, uma vez que se busca discutir, pela via imprópria dosembargos declaratórios, o mérito do recurso especial que nem sequer mereceu conhecimento.
+5. A jurisprudência do STJ entende que a interposição de recurso cabívelnão enseja o reconhecimento de litigância de má-fé.
+6. Embargos de declaração parcialmente acolhidos, sem efeitosmodificativos.
+(EDcl no AgInt no AREsp 1479840/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE,TERCEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020)
+Consoante se observa dos trechos supratranscritos, não há contradição enem omissão no acórdão. Nota-se que os embargantes pretendem, na verdade,que a Turma reveja o decisum que manteve o teor da decisão monocráticaproferida, a fim de que sejam acolhidas suas teses, cuja pretensão nãoestá em harmonia com a natureza e a função dos embargos declaratórios, nãodemonstrando, em suas razões recursais, qualquer omissão, contradição,obscuridade ou erro material que a decisão embargada tenha incorrido.
+Diante disso, por inexistir qualquer das máculas prevista no artigo 1.022do CPC/15, não há razão para modificar o decisum embargado.
+3. Do exposto, rejeitam-se os embargos de declaração.
+É como voto.
