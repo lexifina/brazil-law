@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de AGRAVO EM RECURSO ESPECIAL interposto pelo ESTADO DE SÃO PAULOcontra decisão do TJSP que não admitiu o recurso especial em razão da ausência de prequestionamento do artigo indicado como violado (fls. 358-359).
+O apelo nobre obstado enfrenta acórdão, assim ementado (fls. 151-152):
+DIREITO PROCESSUAL CIVIL. TRIBUTÁRIO. CUMPRIMENTO DESENTENÇA. HONORÁRIOS ADVOCATÍCIOS. "VALOR DACONDENAÇÃO". COMPENSAÇÃO DE INDÉBITO FISCAL. INTEGRALIDADE DOS VALORES ENVOLVIDOS. APELAÇÃO PROVIDA.
+Reformado o acórdão da Turma pelo Superior Tribunal de Justiça, foi condenada a1. União a suportar a compensação do indébito pela majoração do PIS pelos Decretos-lei2.445 e 244/1988, com prescrição decenal, correção monetária por expurgosinflacionários e verba honorária de 5% do valor da condenação.
+2. A verba honorária tem como base de cálculo o valor a que foi condenada a União adevolver por meio de compensação, segundo os critérios estabelecidos na coisa julgada. Alimitação de tal valor com base exclusivamente no montante já compensado oucompensado até determinada data, sem considerar a totalidade do indébito fiscalpassível de compensação, viola a coisa julgada, que não pode ser modificada na fase decumprimento.
+3. Apelação provida para reformar a sentença a fim de que se prossiga pelo valorapurado pela autora, condenada a ré à verba honorária de sucumbência nos percentuaismínimos legais de cada faixa de proveito econômico, nos termos do artigo 85, § 2º, 3º e5º, do Código de Processo Civil.
+Embargos de declaração rejeitados às fls. 314-316.
+No recurso especial, orecorrente alega violação do artigo 85,§8º, do CPC/15, alegando, em síntese, que o acórdão recorrido deve aplicar o referido dispositivo, em observância ao princípio da proporcionalidade.
+Contrarrazões às fls. 338-346.
+Juízo negativo de admissibilidade às fls. 358-359.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Passo a decidir.
+Com efeito, evidencia-se que o artigo 85, §8º, do CPC/15(e a tese a ele vinculada) não foi apreciado pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+Ora, é cediço no Superior Tribunal de Justiça ser condição imprescindível ao conhecimento do recurso especial que tenham sido ventilados, ainda que implicitamente, no contexto do acórdão combatido, os dispositivos legais indicados como malferidos, emitindo-se, sobre cada um deles, juízo de valor, interpretando-se-lhes o sentido e a compreensão, de modo que se possa reconhecer qual norma direcionou o decisum objurgado. Todavia, no caso, tal circunstância não se concretizou em relação às normas em exame, aplicando-se, destarte, à hipótese, a Súmula 211/STJ.
+Nesse diapasão, esclarece-se que não cabe falar em prequestionamento ficto face ao art. 1025 do CPC/2015, pois, nos termos da jurisprudência desta Corte Superior, para se possibilitar a sua incidência, cabe à parte alegar, nas razões do seu recurso especial, ofensa ao art. 1022 do CPC/2015, de modo a permitir que seja sanada eventual omissão através de novo julgamento dos aclaratórios, caso existente, providência esta não observada pelo recorrente. Tal como dito, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Min. Nancy Andrighi, Terceira Turma, DJe de 10/4/2017).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DODISPOSITIVOTIDOPOR VIOLADO. SÚMULA 211/STJ.AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
