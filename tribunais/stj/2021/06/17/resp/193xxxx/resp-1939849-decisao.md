@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso especial interposto por BANCO DO BRASIL S/A, fundamentado na alínea "a", do permissivo constitucional, em desafio ao acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 458, e-STJ):
+ILEGITIMIDADE PASSIVA. INDENIZAÇÃO. Sentença que extinguira o processo sem resolução do mérito, nos termos do art. 485, VI, do CPC, em relação à corré-incorporadora e que julgara improcedente o pedido de indenização por danos materiais e morais. Ausência de recurso específico das partes. Coisa julgada formal e material (arts. 505 e 1.013, caput, do CPC). LEGITIMIDADE PASSIVA. Álbum probatório que aponta a participação do corréu Banco do Brasil S/A na relação jurídica negocial que embasa os pedidos formulados na exordial. Regime de responsabilidade civil solidária previsto no diploma consumerista (arts. 7º, parágrafo único; 12, caput; 14, caput, e 25, § 1º, da Lei n. 8.078/90). Preliminar rejeitada. DECLARATÓRIA. Não comprovação da legitimidade e regularidade dos cálculos que ensejaram a cobrança impugnada pelo consumidor (art. 373, II, do CPC; art. 6º, VIII, do CDC). Sentença mantida. Recurso desprovido.
+Nas razões de recurso especial (fls. 464/480, e-STJ), o recorrente pugna pelo reconhecimento da sua ilegitimidade para figurar no polo passivo da ação, afirmando que participou da relação jurídica apenas como agente financiador do imóvel, sob pena de afronta aos artigos 17, 337 XI, 339 e 485 VI, do CPC/15 e 7º da Lei 11.977/09.
+Contrarrazões às fls. 485/489 e 491/493, e-STJ.
+Admitido o recurso na origem (fls. 494/496, e-STJ), ascenderam os autos a esta Corte.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Insurge-se o recorrente com relação ao reconhecimento de sua legitimidade passiva.
+No ponto, concluiu a Corte local (fls. 459/460, e-STJ):
+Por sua vez, não prospera a tese de ilegitimidade passiva ad causam do corréu Banco do Brasil S/A, notadamente porque ele participara da relação jurídica versada nestes autos.
+Com efeito, integrara a instituição financeira o contrato de compra e venda de bem imóvel mediante financiamento garantido por alienação fiduciária na condição de credor fiduciário.
+Incide, outrossim, o regime de responsabilidade civil solidária estabelecido pelo CDC (arts. 7º, parágrafo único; 12,caput; 14,caput, e 25, § 1º, da Lei n. 8.078/90).
+Cristalina, portanto, a legitimidade passivado banco-corréu para figurar no polo passivo da presente relação jurídica processual, sobretudo porque inseparável a cadeia negocial a qual se vinculara.
+Nesse contexto, para rever tal conclusão seria imprescindível o reexame de todo o acervo fático e probatório dos autos, providência inviável em sede de recurso especial, a teor da Súmula 7 do STJ.
+No mesmo sentido:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPOSSIBILIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE MATÉRIA PROBATÓRIA. SÚMULAS 5 E 7/STJ. AGRAVO NÃO PROVIDO. 1. A reforma do acórdão quanto à legitimidade passiva ad causam da recorrente na presente ação de despejo por denúncia vazia, demanda interpretação do contrato de locação que embasa a demanda, além dos demais elementos que instruem o feito, providências inviáveis de serem adotadas em sede de recurso especial, ante os óbices das Súmulas 5 e 7 desta Corte. 2. Agravo regimental não provido. (AgRg no AREsp 785.955/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/11/2015, DJe 24/11/2015)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO. AÇÃO DE DESPEJO. LEGITIMIDADE ATIVA. PROVA DA PROPRIEDADE. DESNECESSIDADE. REEXAME DE PROVAS. 1. Tendo em vista a natureza pessoal da relação de locação, o sujeito ativo da ação de despejo identifica-se com o locador, assim definido no respectivo contrato de locação, podendo ou não coincidir com a figura do proprietário. 2. Inviável alterar a conclusão do aresto atacado quanto à legitimidade da locadora para propor a ação de despejo, pois demandaria o reexame do suporte fático-probatório, procedimento vedado em recurso especial, conforme previsto na Súmula nº 7 desta Corte. 3. Agravo regimental não provido. (AgRg nos EDcl no AREsp 692.769/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/10/2015, DJe 19/10/2015)
+Inafastável, portanto, o óbice da Súmula 7 do STJ.
+2. Do exposto, nega-se provimento ao recurso especial.
+Publique-se. Intimem-se.
