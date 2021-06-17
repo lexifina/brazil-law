@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUIZ FERNANDO SANTOS PIMENTEL contra decisão proferida pelo Juízo da 11ª Vara Criminal do Foro de Porto Alegre/RS(Proc. 5054443-50.2020.8.21.0001).
+Segundo consta dos autos, o paciente foi preso em flagrante no dia 11/8/2020, prisão posteriormente convertida em preventiva (e-STJ fls. 1086/1890), denunciado pela suposta prática dos delitos tipificados nos arts. 33, caput, e 35 da Lei n. 11.343/2006 (e-STJ fls. 3/8).
+Na presente oportunidade, alega a defesa constrangimento ilegal ante o excesso de prazo para formação da culpa do paciente, visto que " ..  o estado falha de forma repetida com o paciente, vez que não realiza solenidade essencial para o deslinde do feito e quando a realiza não conduz o réu para o local em que será realizada a solenidade. Ou seja, em todas as esferas a afronta de direitos do réu é absurda. Pois, o paciente está preso desde 11/8/2020, em latente afronta ao princípio constitucional da presunção da inocência, uma vez que ele foi preso em flagrante sema existência real de indícios da prática dos tipos penais que lhe estão sendo imputados" (e-STJ fl. 16).
+Diante disso, pleiteia, liminarmente e no mérito, a concessão de ordem para revogar a prisão preventiva do paciente, mediante a imposição de medidas cautelares alternativas, expedindo-se o alvará de soltura (e-STJ fls. 22/23).
+É o relatório. Decido.
+Não há como conhecer do habeas corpus, porquanto o inconformismo se volta contra ato de juiz de primeiro grau, sendo evidente a incompetência do Superior Tribunal de Justiça. Com efeito, "Falece competência ao Superior Tribunal de Justiça, a teor do art. 105, inciso I, "c", da Constituição Federal, para julgar habeas corpus impetrado diretamente nesta Corte Superior contra ato de Juiz de primeiro grau"(AgRg no HC 645.080/BA, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 9/3/2021, DJe 19/3/2021).
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO.NULIDADE PROCESSUAL E PRISÃO PREVENTIVA. WRIT CONTRA ATO DE JUIZ DE PRIMEIRO GRAU. CONDENAÇÃO DEFINITIVA (CERTIFICADO O TRÂNSITO EM JULGADO). AGRAVO REGIMENTAL DESPROVIDO.
+1. Caso em que a inicial aponta o Juízo de primeiro grau como autoridade coatora, o que evidencia a incompetência deste Superior Tribunal de Justiça para apreciar e julgar originariamente a causa. Embora tenha apresentado no agravo cópia de um acórdão proferido no HC 2123149-38.2019.8.26.0000, o órgão fracionário não apreciou as questões trazidas pelo agravante, o writ sequer foi conhecido, o que igualmente inviabiliza o debate das teses defensivas. Precedentes.
+2. Ainda, de acordo com o sistema de informações do Superior Tribunal de Justiça, todas as questões acerca da ação penal originária, levantadas pela defesa no Recurso Especial n.1.300.990/SP, já foram devidamente examinadas, inclusive certificado o trânsito em julgado, estando, portanto, exaurida a jurisdição desta Corte.
+3. Agravo regimental desprovido(AgRg no HC 538.006/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 7/11/2019, DJe 22/11/2019).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPUGNAÇÃO DE DECISÃO PROLATADA POR MAGISTRADO DE PRIMEIRO GRAU. COMPETÊNCIA PARA JULGAMENTO ATRAÍDA PELO TRIBUNAL DE JUSTIÇA LOCAL. SUPRESSÃO DE INSTÂNCIA.
+1. No sistema constitucional vigente, figurando como autoridade coatora magistrado de piso, a competência para o julgamento do habeas corpus é atraída pela Corte estadual a que ele esteja vinculado.
+2. A questão de fundo não pode ser analisada pelo Superior Tribunal de Justiça, tendo em vista que a irresignação do paciente ainda não foi apreciada pelo Tribunal de origem, fato que obsta a análise da impetração por esta Superior Corte de Justiça, sob pena de indevida supressão de instância.
+3. O art. 105, I, "c", da Magna Carta dispõe que compete a esta Corte processar e julgar habeas corpus quando o coator for tribunal sujeito à sua jurisdição. Contudo, não constam dos autos elementos que demonstrem a existência de decisão ou acórdão do Tribunal a quo apreciando a questão objeto deste writ.
+4. Agravo regimental a que se nega provimento(AgRg no HC 509.664/CE, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 4/6/2019, DJe 14/6/2019).
+HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO.PRETENSÃO ABSOLUTÓRIA POR INSUFICIÊNCIA DE PROVAS. ALEGAÇÃO DE EXCESSO DE PRAZO PARA O TÉRMINO DA INSTRUÇÃO CRIMINAL. AUTORIDADE COATORA. JUIZ DE DIREITO. WRIT NÃO CONHECIDO.
+1. Este Superior Tribunal de Justiça não tem competência para apreciar Habeas Corpus impetrado contra ato de Juiz de Direito.
+2. Parecer pelo não conhecimento do Habeas Corpus ou, alternativamente, que seja julgado prejudicado.
+3. Writ não conhecido.
+(HC 84.947/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Quinta Turma, julgado em 6/3/2008, DJe 31/3/2008)
+CRIMINAL. HC. ROUBO QUALIFICADO. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. ATO DE JUIZ DE PRIMEIRO GRAU. INCOMPETÊNCIA DESTA CORTE. SUPRESSÃO DE INSTÂNCIA. ORDEM NÃO CONHECIDA.
+I. Evidenciado que a alegação de excesso de prazo na formação da culpa volta-se contra ato de Juiz de primeirograu de jurisdição, o qual ainda não foi apreciado pela Corte Estadual, sobressai a incompetência desta Corte para o exame da matéria, sob pena de indevida supressão de instância.
+II. Ordem não conhecida, determinando-se a remessa dos autos ao Tribunal de Justiça do Paraná.
+(HC 70.115/PR, Rel. Ministro GILSON DIPP, Quinta Turma, julgado em 15/2/2007, DJ 19/3/2007, p. 378)
+Ante o exposto, indefiro liminarmente o presente recurso ordinário em habeas corpus.
+Intimem-se.
