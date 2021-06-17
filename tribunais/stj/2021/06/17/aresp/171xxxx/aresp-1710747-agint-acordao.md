@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. PRÉVIO PEDIDO ADMINISTRATIVO. NEGATIVA. ICMS. PEDIDO DE RESTITUIÇÃO. SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO
+1. Diante dos elementos fáticos colidos pelo acórdão recorrido, o Tribunal de origem consignou inexistente a formulação de pedido administrativo que objetivou pedido ressarcitório de ICMS. Neste sentido, não prospera a pretensão recursal do contribuinte ao pugnar pela tramitação deste pedido, com o seu imediato deferimento, uma vez que analisar a referida questão administrativa, implica no reexame de fatos e provas, o que é obstado pelo teor da Súmula 7/STJ.
+2. Agravo Interno não provido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por Centenário Diesel Ltda, contra decisão singular por mim proferida, cuja ementa assim estabelece, in verbis:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. INTERESSE PROCESSUAL. PRÉVIO PEDIDO ADMINISTRATIVO. NEGATIVA. SÚMULA N. 7/STJ. AGRAVO INTERNO CONHECIDO PARA, EM JUÍZO DE RETRATAÇÃO, CONHECER DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões do Agravo Interno, a recorrente assevera que a pretensão do contribuinte é apenas que este Superior Tribunal de Justiça aplique o direito à espécie, não sendo exigido o revolvimento fático probatório para examinar a questão jurídica objeto do recurso, pois os fatos estão delimitados na sentença de no v. acórdão recorrido.
+Contraminuta ao Agravo Interno às fls. 968/972 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. PRÉVIO PEDIDO ADMINISTRATIVO. NEGATIVA. ICMS. PEDIDO DE RESTITUIÇÃO. SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO
+1. Diante dos elementos fáticos colidos pelo acórdão recorrido, o Tribunal de origem consignou inexistente a formulação de pedido administrativo que objetivou pedido ressarcitório de ICMS. Neste sentido, não prospera a pretensão recursal do contribuinte ao pugnar pela tramitação deste pedido, com o seu imediato deferimento, uma vez que analisar a referida questão administrativa, implica no reexame de fatos e provas, o que é obstado pelo teor da Súmula 7/STJ.
+2. Agravo Interno não provido.
+VOTO
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, o recorrente postula o afastamento do teor da Súmula 7/STJ, ao afirmar que o acórdão dos embargos de declaração delimitaram o contexto fático subjacente à tese pleiteada quanto ao direito à restituição administrativa das diferenças do ICMS-ST, quando a base de cálculo efetiva da operação for inferior à presumida. Neste contexto, o recorrente afirma ter postulado tal pedido de restituição no ambiente administrativo, tendo a Secretaria de Fazenda do Estado do Rio Grande do Sul recursado o pleito, sob a justificativa que o órgão estadual não havia regulamentado o procedimento administrativo sobre a matéria.
+Em que pese as razões recursais, o pleito não merece prosperar.
+Isto porque, diferentemente do aduzido pelo contribiunte, a Corte de origem não reconheceu a existência da postulação de pedido administrativo deste jaez. Tal afirmação não consta do acórdão que julgou a apelação, tampouco daquele que rejeitou os embargos de declaração, in verbis:
+O fato de, à época, conforme alega a embargante, não ter sido recebida a postulação administrativa, tendo em conta orientação da Secretaria da Fazenda de que deveria ser aguardada a regulamentação da Lei 15.056/17, prevista no art. 36-A, demonstra que efetivamente não houve procedimento administrativo; logo, se essa recusa caracterizava ferimento a direito subjetivo, o caso era de ingresso em juízo para compelir a autoridade fiscal ao recebimento, e não para instaurar o procedimento substitutivo em juízo.
+Portanto, como se depreende do trecho destacado do acórdão proferido no julgamento dos Embargos de Declaração opostos na origem, não restou reconhecido a existência formal de pedido administrativo, tampouco a sua tramitação, razão pela qual o acolhimento da pretensão recursal exigiria o revolvimento do acervo fático-probatório dos autos, providência inviável nessa seara recursal a teor da Súmula n. 7/STJ.
+Diante dos elementos fáticos colidos pelo acórdão recorrido, o Tribunal de origem consignou inexistente a formula ção de pedido administrativo que objetivou pedido ressarcitório de ICMS. Neste sentido, não prospera a pretensão recursal do contribuinte ao pugnar pela tramitação deste pedido, com o seu imediato deferimento, uma vez que analisar a referida questão administrativa, implica no reexame de fatos e provas, o que é obstado pelo teor da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DO ART. 535 DO CPC. OMISSÃO. NÃO OCORRÊNCIA. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA. COBRANÇA SUSPENSA POR ORDEM JUDICIAL. RESTITUIÇÃO DOS VALORES RETIDOS INDEVIDAMENTE PELO SUBSTITUTO TRIBUTÁRIO. ILEGITIMIDADE PASSIVA DA FAZENDA PÚBLICA. REEXAME DE PROVAS. SÚMULA 7 DO STJ.
+1. Na hipótese em exame, não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada. Registre-se que não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Hipótese em que o Tribunal de origem consignou, com base no contexto fático-probatório dos autos, que "não há qualquer correspondência entre o pedido das autoras - restituição de valores indevidamente retidos pela agravante para pagamento de ICMS cuja cobrança encontrava-se suspensa por ordem judicial - com a permanência do Estado de Goiás no polo passivo da lide". A revisão desse entendimento implica reexame de fatos e provas, obstado pelo teor da Súmula 7/STJ.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 708.716/GO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/09/2015, DJe 09/11/2015)
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
