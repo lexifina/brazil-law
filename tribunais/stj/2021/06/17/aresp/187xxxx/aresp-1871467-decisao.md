@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por AMIR PEREIRA SAADO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Honorários advocatícios contratuais Arbitramento - Contrato verbal na hipótese Alegação de contratação de honorários advocatícios ad exitum Impossibilidade Exigência de pactuação por escrito Não produção de prova testemunhal que não caracteriza cerceamento de defesa Sentença mantida - Improvimento.
+Sustenta a parte recorrente, pela alínea "a" do permissivo constitucional, violação dos arts. 369 e 373, ambos do CPC, no que concerne ao cerceamento de defesa, trazendo o(s) seguinte(s) argumento(s):
+27. Isso porque, consoante se depreende dos autos as partes não negam que tenha havido contrato e que este se deu de forma verbal. 28. Ocorre que o cerne da questão estava no fato de que os honorários advocatícios apenas seriam adimplidos na hipótese de êxito e, não sendo o caso, não haveria a obrigação do pagamento, ficando apenas o Recorrente comprometido aos pagamento das custas e demais despesas processuais.
+ .. .
+30. Todavia, Nobres Julgadores, tal determinação feita pelo MM. Juízo de primeiro grau configura a chamada prova diabólica, impossível de ser produzida, pois se o contrato entabulado entre as partes foi verbal, não há como juntar elementos (documentos) comprobatórios. (fls. 285/286).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Não se vislumbra, porém, qualquer cerceamento de defesa, na medida em que a cláusula de êxito para o cabimento dos honorários reclama, para sua comprovação, a existência de contrato firmado por escrito, do que não se trata nos autos.
+Com efeito, a hipótese de remuneração do causídico pelos serviços prestados apenas em caso de obtenção de resultado positivo ao mandante é excepcional e, no caso dos autos, o réu não trouxe qualquer elemento mínimo de convicção nesse sentido a justificar a realização de prova oral, não se podendo pretender demonstrar a existência de cláusula ad exitum unicamente mediante prova testemunhal.
+ .. .
+Assim, inexistindo cerceamento de defesa ou nulidade a reconhecer e baseando-se a defesa apenas na tese de honorários ad exitum cuja contratação não se confirmou, a manutenção da sentença é de rigor (fls. 261/265).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
