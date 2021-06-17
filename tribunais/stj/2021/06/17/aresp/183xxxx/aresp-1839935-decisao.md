@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu seu recurso especial fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO ACIDENTÁRIA - CONDIÇÕES AGRESSIVAS - LESÃO NA COLUNA CERVICAL - REGIÃO LOMBAR - LAUDO PERICIAL CONCLUSIVO - INCAPACIDADE PARCIAL E PERMANENTE RECONHECIDA - NEXO CAUSAL COMPROVADO SENTENÇA DE IMPROCEDÊNCIA - REFORMA - RELAÇÃO DE TRABALHO CUJA NATUREZA É DE TRATO SUCESSIVO - INEXISTÊNCIA DE COISA JULGADA NA ESPÉCIE - APELAÇÃO DO AUTOR - CABIMENTO.
+Quanto à controvérsia, alega violação dos arts. 502 e 503 do CPC no que concerne à existência de coisa julgada, trazendo o(s) seguinte(s) argumento(s):
+Sabendo que nas ações previdenciárias vigora o princípio "da mihi facta, dabo tibi jus", não estando o magistrado limitado estritamente ao tipo de benefício que é pedido, atesta-se que a identidade é perfeita em ambas as ações.
+O INSS apelou da sentença nestes autos e anunciou a coisa julgada, anexando laudo médico pericial em que a conclusão foi ausência de incapacidade.
+Logo, atenta contra a Segurança Jurídica o não reconhecimento da Coisa Julgada, in casu, eis que é evidente que já houve pronunciamento do Poder Judiciário sobre a matéria que ora é novamente trazida à baila (fl. 257).
+ ..
+Assim, não existe diferença de pedido ou causa de pedir ao se pleitear um benefício ora invocando que tal é "acidentário" ora dizendo que é "previdenciário" pois a causa de pedir sempre será a incapacidade invocada e o pedido sempre será o benefício descrito na lei (simplesmente auxílio-doença, auxílio-acidente ou aposentadoria por invalidez).
+O questionamento sobre se o acidente se deu ou não no labor é meramente uma questão de COMPETÊNCIA JUDICIAL e define qual será o Tribunal julgador, nada tendo a ver com o conceito jurídico de pedido e causa de pedir.
+Se o entendimento não fosse como o exposto era de se admitir que um mesmo segurado recebesse, ao mesmo tempo um auxílio-doença "previdenciário" e outro auxílio-doença "acidentário", pois teria feito pedidos diferentes em duas competências distintas e recebido dois provimentos supostamente diferentes.
+Da mesma forma, outro obreiro poderia obter aposentadoria por invalidez "previdenciária" e concomitantemente aposentadoria por invalidez "acidentária", acumulando as duas porque não seria reconhecida a litispendência.
+O raciocínio é o mesmo para o auxílio-acidente, que é relacionado acidente de qualquer natureza pela lei e, dependendo da fixação da competência judicial é visto ora como "acidentário", quando guarda vínculo com o labor, ora como "previdenciário".
+Obviamente, é inadmissível tal situação, que representa um verdadeiro bis in idem. Vale repetir, a lei não faz distinção em nenhum momento sobre duas SUPOSTAS categorias de benefícios que dependam de quem julga.
+O fato, no entanto, é que ocorrem frequentemente situações em que o segurado obtém duas coisas julgadas, em flagrante arrepio da lei, e há extrema resistência do Poder Judiciário em reparar a situação consolidada.
+Em síntese, objetivamente os benefícios são exatamente os mesmos e se relacionam exatamente com as mesmas incapacidades. Subjetivamente as ações judiciais são propostas em tribunais distintos, dependendo se a incapacidade se originou por exercício do trabalho ou no trajeto dele e isso é meramente uma situação de competência judicial, nada dizendo em relação ao pedido ou causa de pedir.
+Observa-se claramente que as ações têm as mesmas partes (INSS e parte autora), mesmo pedido (benefício conforme a lei prevê derivado de incapacidade laboral) e mesma causa de pedir (incapacidade em determinado grau) (fls. 258/259).
+ ..
+Assim, a "causa de pedir", nas ações, sejam "acidentárias" ou "previdenciárias", é a incapacidade, com fixação da competência judicial pela existência de nexo com o trabalho, não havendo sentido em permitir que exista um processo por cada moléstia alegada ou mesmo um processo dito "acidentário" e outro "previdenciário", sobrecarregando indevidamente o Judiciário com artifício claramente inoportuno (fl. 259).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Por proêmio afasto a rejeito a preliminar de coisa julgada na hipótese em exame.
+De fato, foi proposta ação anterior, perante a Justiça Federal,conforme se depreende do extrato processual de fls. 101/103, a qual foi julgada improcedente por decisão transitada em julgado.
+Contudo, impõe-se observar que a pretensão veiculada neste feito é a de concessão de benefício de natureza acidentária, conforme se depreende dos pedidos onde consta (fls.06): (fl. 243).
+ ..
+Por outro lado, naquela outra demanda, ajuizada perante a Justiça Federal, o autor pretendia a concessão de aposentadoria por invalidez ou auxílio-doença, sucessivamente, conforme consta dos pedidos (fls. 107): (fl. 244).
+ ..
+Vê-se, portanto que, na ação ajuizada perante a Justiça Federal, o autor visava à concessão de benefício previdenciário, de natureza distinta desta, e que prescinde da existência de nexo causal com as atividades laborais.
+Por outro lado, nesta demanda, o autor pretende obter indenização em razão do evento infortunístico, que depende do reconhecimento do liame entre a moléstia alegada e as atividades laborais, além da constatação da incapacidade advinda do trabalho.
+Portanto, são diferentes os fundamentos e os pedidos entre as ações, não havendo falar-se em identidade entre as demandas, tampouco em coisa julgada na espécie (fl. 244).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal consiste na revisão da premissa fática assentada pela Corte de origem quanto à identidade dos elementos caracterizadores da coisa julgada, o que demanda o reexame do acervo fático-probatório juntado aos autos.
+A jurisprudência do STJ firmou-se no sentido de que, "em  ..  recurso especial, não se admite o reexame dos elementos do processo a fim de se apurar a alegada afronta à coisa julgada, em face da incidência da Súmula 7/STJ". (AgInt no AREsp 784.774/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 13/4/2018.)
+Confiram-se ainda os seguintes julgados: REsp 1.814.142/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/6/2020; EDcl no REsp 1.776.656/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 9/6/2020; e AgInt no REsp 1.629.962/AM, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 25/5/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor dos honorários sucumbenciais que serão fixados em liquidação de sentença, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
