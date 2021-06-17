@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino (Presidente), Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO EM FASE DE CUMPRIMENTO DE SENTENÇA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação de conhecimento em fase de cumprimento de sentença.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+Cuida-se de agravo interposto por UNIMED GOIÂNIA COOPERATIVA DE TRABALHO MÉDICO contra decisão unipessoal que conheceu do agravo para não conhecer do recurso especialque interpusera.
+Ação: de conhecimento em fase de cumprimento de sentença, ajuizada por OSMAR FELIPE DA SILVA, em face de UNIMED GOIÂNIA COOPERATIVA DE TRABALHO MÉDICO, na qual se insurge contra a decisão que definiu o valor dos lucros cessantes, objeto da liquidação de sentença, assentando-o em R$ 11.552.485,82 (onze milhões, quinhentos e cinquenta e dois mil, quatrocentos e oitenta e cinco reais e oitenta e dois centavos).
+Decisão interlocutória: definiu o valor dos lucros cessantes, objeto da liquidação de sentença, assentando-o em R$ 11.552.485,82 (onze milhões, quinhentos e cinquenta e dois mil, quatrocentos e oitenta e cinco reais e oitenta e dois centavos).
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravado e deu parcial provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+DUPLO AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO EM FASE DE LIQUIDAÇÃO DE SENTENÇA. LUCROS CESSANTES. DECISÃO FUNDAMENTADA EM LAUDOS PERICIAIS PRODUZIDOS EM JUÍZO. 1. Inapropriada a tentativa das partes em submeter à apreciação judicial, matéria já transitada em julgado, fulminada pela preclusão. 2. Deve ser confirmada a decisão a quo que, com base em laudos periciais, identifica o valor dos lucros cessantes, devido a um dos liquidantes. 3. "Não comprovada a extensão do dano (quantum debeatur), possível enquadrar-se em liquidação com "dano zero", ou "sem resultado positivo", ainda que reconhecido o dever (..) em indenizar." (STJ, REsp 1347136/DF). Desta arte, muito embora constatado nos autos que ambos os litigantes foram prejudicados pecuniariamente por culpa da liquidada, de outro modo, não comprovada a extensão do dano de um deles, não há como declarar um valor pecuniário apto ao ressarcimento. 4. RECURSO INTERPOSTO PELO LIQUIDANTE, CONHECIDO E DESPROVIDO. RECURSO AVIADO PELA LIQUIDADA, CONHECIDO E PARCIALMENTE PROVIDO. DECISÃO A QUO PARCIALMENTE REFORMADA. (e-STJ Fls. 124/125)
+Embargos de Declaração: opostos pelo agravado, foram acolhidos, e opostos pela agravante, foram rejeitados, nos termos da seguinte ementa:
+DUPLO EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO (LIQUIDAÇÃO DE SENTENÇA). LUCROS CESSANTES. EXCLUSÃO "BRANCA" DA LISTA DE COOPERADOS. CLÍNICA MÉDICA (PESSOA JURÍDICA) E MÉDICO (PESSOA FÍSICA). INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC NOS PRIMEIROS EMBARGOS. "DANO ZERO" OU "SEM RESULTADO POSITIVO". EXCLUSÃO DAPESSOAJURÍDICA. CRITÉRIOSDISTINTOSPARASITUAÇÃOIDÊNTICA. ACOLHIMENTO DOS SEGUNDOS ACLARATÓRIOS. 1. Somente é possível o acolhimento dos embargos de declaração quando existir algum dos vícios previstos no art. 1.022 do CPC, sendo inviável a rediscussão de questões já decididas por meio dos aclaratórios. 1 ºs aclaratórios conhecidos e rejeitados. 2. Diante da reconhecida impossibilidade de se chegar a um valor exato dos lucros cessantes, considerando anão apresentação da documentação de ambos os litigantes, deve ser utilizado somente um critério para determinar o valor a ser indenizado tanto à pessoa jurídica quanto à pessoa física, não havendo se falar em "dano zero" ou "sem resultado positivo" para a clínica médica, uma vez que seu lucro cessante deverá ser o mesmo da pessoa física do seu sócio, também irregularmente excluído. 3. Conhecidos e acolhidos os 2 ºs aclaratórios para reformar o acórdão uno do evento 40, de modo a negar provimento ao agravo de instrumento nº 5240043.54, a fim de garantir a cota-parte indenizatória da empresa Sonar Clínica de Diagnósticos em Medicina Ltda., pertencente ao recorrente Osmar Felipe da Silva, por força de disposição contratual. 1 ºs EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS. 2 ºs EMBARGOS DE DECLARAÇÃO CONHECIDOS E ACOLHIDOS. (e-STJ Fl. 310)
+Recurso especial: alega violação dos arts. 373, I, e 942, caput, §§ 1º, 2º e 3º, do CPC/15, e 402 do CC. Afirma que os lucros cessantes não foram efetivamente comprovados pelo agravado, de modo que o acórdão recorrido deve ser reformado. Sustenta a ocorrência de nulidade pela inobservância de rito processual. Pleiteia seja concedido efeito suspensivo ao presente recurso.
+Decisão unipessoal: conheceu do agravo para não conhecer do recurso especial.
+Agravo interno: nas razões do presente recurso, aagravante sustenta que as razões recursais foram devidamente fundamentadas, de modo que a aplicação da Súmula 284/STF à espécie se revela indevida. Afirma que os dispositivos arrolados foram prequestionados perante a Corte estadual, ainda que de forma implícita, mediante a oposição de embargos de declaração.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO EM FASE DE CUMPRIMENTO DE SENTENÇA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação de conhecimento em fase de cumprimento de sentença.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada foi assim fundamentada, na parte em que impugnada pela agravante:
+Julgamento: aplicação do CPC/2015.
+- Do efeito suspensivo
+A concessão do pretendido efeito suspensivo ao recurso especial depende do fumus boni juris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional.
+Por se tratar de atribuição de efeito suspensivo a recurso especial, tem-se que esses dois requisitos devem ser analisados com as vistas voltadas ao próprio recurso, ou seja: a plausibilidade do direito será pautada pela possibilidade de êxito recursal, e o interesse processual do requerente deve ser analisado, sempre, com base nos efeitos que se poderão extrair do eventual provimento de seu recurso.
+Na hipótese dos autos, a agravante afirma estarem presentes os requisitos para a concessão do efeito suspensivo, diante da possibilidade de anulação do julgamento perante o Tribunal de origem.
+Vê-se, ao menos em tese, com base em juízo perfunctório, que os argumentos da agravante não evidenciam qualquer risco iminente de dano irreparável ou de difícil reparação, tendo em vista que se limita a afirmar sobre a possibilidade de anulação do julgamento perante o Tribunal local, em decorrência de inobservância de rito processual.
+Com efeito, não foi indicado nenhum prejuízo que, concretamente, possa advir da demora no julgamento do recurso especial.
+Assim, indefiro a tutela provisória requerida.
+- Da fundamentação deficiente
+Os argumentos invocados pela agravante não demonstram como o acórdão recorrido violou o art. 402 do CC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 373, I, e 942, caput, §§ 1º, 2º e 3º, do CPC/15, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15. Publique-se. Intimem-se. (e-STJ Fls. 946/947)
+Pela análise das razões recursais apresentadas no agravo interno, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+1. Da ausência de prequestionamento
+De fato, os arts. 373, I, e 942, caput, §§ 1º, 2º e 3º, do CPC/15 não foram objeto de expresso prequestionamento pelo Tribunal de origem, apesar da interposição de embargos de declaração, o que importa na incidência do óbice da Súmula 211/STJ.
+Nessa hipótese, para viabilizar o conhecimento do recurso especial, caberia à agravante alegar ofensa ao art. 1.022 do CPC/15. Ressalto ainda que, nos termos da reiterada jurisprudência do STJ, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação pelo Tribunal local, que deverá emitir juízo de valor acerca dos dispositivos legais, ao decidir por sua aplicação ou afastamento em relação a cada caso concreto, o que não se deu na espécie.
+Ademais, a alegação da agravante de que a oposição de embargos de declaração perante o Tribunal de origem, por si só, haveria de ser suficiente para se considerar prequestionado o tema em análise só encontra guarida se o Tribunal superior considerar existentes erro, omissão, contradição ou obscuridade, o que, a toda evidência, não retrata a hipótese dos autos.
+2. Da fundamentação deficiente
+No que tange à fundamentação deficiente, a agravante não indicou, de forma clara, precisa e consistente, em que consistiu a pretensa ofensa aoart. 402 do CC.
+Consigne-se, ainda, que as razões da agravante, em seu recurso especial, encontram-se dissociadas da decisão prolatada pelo Tribunal de origem, o que torna deficiente a fundamentação recursal e impede a abertura da via especial.
+Inafastável, pois, a incidência da Súmula 284/STF à hipótese dos autos.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
