@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido  liminar  impetrado  em  favor  de  GESIEL PAULO DOS PASSOS SANTOS contra  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  São  Paulo  (Apelação  n.  1502657-69.2019.8.26.0616).
+Consta  dos  autos  que o paciente foi condenado "à penade 04 anos, 08 meses e 26 dias de reclusão, em regime inicial fechado epagamento de 26 dias multa, mínimo legal, .. por infração ao artigo155, §§ 1º e 4º, incisos I e IV furto qualificado ,c.c. artigo 29, caput, ambos do CódigoPenal" (e-STJ fl. 559).
+Interposta  apelação na origem ,  o  Tribunal  a  quo  deu-lhe  parcial  provimento em acórdão assim ementado (e-STJ fl. 559):
+FURTO QUALIFICADO Mérito. condenaçãomantida. Atenuante da confissão - reconhecimento -Penas readequadas. Regime de corréu alterado parasemiaberto. Apelos parcialmente providos.
+No  presente  writ,  a  defesa  alega  haver ilegalidade na exasperação  da pena-base, bem como na ausência de compensação integral da reincidência com a confissão espontânea,  a violar o entendimento consolidado na Súmula n.545 do Superior Tribunal de Justiça.
+Assim, requer, liminarmente, "a concessãoda ordem de habeas corpus, para:A) afastar o aumento da pena-base;B) reconhecer o direito à compensação da reincidência com a atenuante daconfissão espontânea" (e-STJ fls. 6/7).
+Liminar indeferida às e-STJ fls. 580/581.
+O Ministério Público Federal manifestou-se pela concessão parcialdowrit(e-STJ fls. 585):
+HABEAS CORPUS. EXECUÇÃO CRIMINAL. DOSIMETRIA DA PENA. FURTO QUALIFICADO. EXASPERAÇÃO DA PENA BASE. DEVIDAMENTE FUNDAMENTADA.PEDIDO DE RECONHECIMENTO DA COMPENSAÇÃO DA CONFISSÃO ESPONTÂNEA COM A AGRAVANTE DE REINCIDÊNCIA POSSIBILIDADE.PARECER PELA CONCESSÃO PARCIAL DA ORDEM.
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão emhabeas corpusapenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+No caso em tela, assim foi fundamentada a dosimetria da pena no acórdão vergastado,ipsis litteris(e-STJ fls. 562/563):
+No tocante à pena, há necessidade de readequação.
+Na primeira fase, a pena foi exasperada em 1/3.
+O magistrado considerou as consequências deletérias de uma invasão domiciliar na vida da vítima e agiu com acerto. Os réus demonstraram periculosidade invadindo uma residência e devem ser punidos com maior rigor, sendo que o aumento respeitou o princípio da individualização da pena. Havendo ainda duas qualificadoras, uma serviu como circunstância desfavorável, estando perfeitamente justificado o aumento de 1/3.
+Na segunda fase há necessidade de pequeno reparo, visto que a confissão deve ser considerada.
+GESIEL é reincidente, o que exasperou sua pena em 1/3, fração justificada pelo grave crime precedente.
+Não há como acolher a pretensão defensiva de integral compensação entre agravante e atenuante, porém diante do aumento de 1/3, considerando-se a confissão, o aumento cai para 1/6 03 anos, 01 mês e 10 dias de reclusão e pagamento de 15 dias-multa.
+Na derradeira etapa aumentada de 1/3 em razão do repouso noturno 04 anos, 1 mês e 23 dias de reclusão e pagamento de 20 dias-multa.
+Para GESIEL, reincidente, é caso de fixação do regime fechado, tendoem vista a necessidade de rigor por parte do Estado, de acordo com a Súmula 269 do STJ, lembrando que o réu apresenta circunstâncias desfavoráveis que também justificam a eleição de regime mais gravoso Grifei.
+Delineada a situação fática, passo à análise das teses aviadas.
+Aumento da pena-base
+A fixação das penas revela um labor regulado por princípios e regras constitucionais e legais, previstos no art. 5º, inciso XLVI, da Constituição Federal, nos arts. 59 e 68 do Código Penal e no art. 387 do Código de Processo Penal.
+Nessa toada, para chegar a uma aplicação justa e equânime da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve ater-se às singularidades do caso concreto para entregar a devida e substancial prestação jurisdicional.
+A ponderação das oito circunstâncias judiciais contidas no art. 59 do Código Penal não se resume a uma simples operação aritmética, uma conta matemática que fixa pesos estratificados a cada uma delas. Tal ponderação enseja um verdadeiro processo que impõe ao magistrado apontar, de forma motivada, as balizas para a fixação da pena-base e aplicar a reprimenda que melhor servirá para prevenção e repressão do fato delituoso.
+BITTENCOURT, ao citar Aníbal Bruno, descreve as circunstâncias judiciais como "condições acessóriasque acompanham o fato punível, mas não penetram na sua estrutura conceitual e, assim, não se confundem com os seus elementos constitutivos" (BITENCOURT, Cezar Roberto. Manual de Direito Penal: parte geral. v. 1. 7. ed. rev. e atual. São Paulo: Saraiva, 2002, p. 550).
+Quanto ao demérito das consequências do crime, tenho que está devidamente fundamentado, uma vez que, consoante a análise das provas acostadas aos autos, foram apontados elementos concretos aptos a justificar a exasperação da pena-base em razão dessa circunstância judicial, sobretudo diante do modus operandi, consubstanciado no fato de ter havido violação do domicílio para que o delito pudesse ser perpetrado.
+Diante desse cenário, entendo que o aumento operado na primeira etapa da dosimetria está devidamente justificado, nos termos do art. 59 do Código Penal.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO.DOSIMETRIA. CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME. MOTIVAÇÃO CONCRETA DECLINADA. VALORAÇÃO DA QUALIFICADORA REMANESCENTE NA FIXAÇÃO DA PENA-BASE. REGIME PRISIONAL SEMIABERTO MANTIDO. AGRAVO DESPROVIDO.
+ ..
+3. Para fins do art. 59 do Código Penal, as circunstâncias do crime devem ser entendidas como os aspectos objetivos e subjetivos de natureza acidental que envolvem o fato delituoso. In casu, não se infere ilegalidade na primeira fase da dosimetria, pois o decreto condenatório demonstrou que o modus operandi do delito revela gravidade concreta superior à ínsita aos crimes de furto qualificado, pois o crime foi perpetrado dentro de residência, a qual foi invadida pelos agentes, o que denota a maior gravidade da conduta.
+4. Em relação às consequências do crime, que devem ser entendidas como o resultado da ação do agente, a avaliação negativa de tal circunstância judicial mostra-se escorreita se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal. No caso, o prejuízo suportado pela vítima deve ser reconhecido como superior ao ínsito aos delitos contra o patrimônio, considerando se tratar de roubo de automóvel, o que autoriza a exasperação da reprimenda a título de consequências do crime.
+5. A jurisprudência desta Corte é firme no sentido de que, em caso de existência de duas circunstâncias qualificadoras, uma delas por ser utilizada para qualificar o delito e a outra para exasperar a pena-base"(HC n. 483.025/SC, Rel.ª Min.ª Laurita Vaz, SEXTA TURMA, DJe 9/4/2019). Nesse passo, não se vislumbra ilegalidade na valoração da qualificadora do concurso de agentes para exasperar a pena-base (CP, art. 155, § 4º, IV).
+6. Tendo sido estabelecida a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada circunstância do art. 59 do Estatuto Repressor, admite-se a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu 7. Agravo regimental desprovido.
+(AgRg no HC 599.949/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/10/2020, DJe 22/10/2020, grifei.)
+Compensação entre confissão espontânea e reincidência.
+Por fim, é cediço que esta Corte firmou o entendimento de que a confissão espontânea deve ser compensada com o instituto da reincidência de forma ampla, seja específica ou não, excetuando-se apenas a multirreincidência, conforme se extrai dos seguintes julgados:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO MAJORADO. DOSIMETRIA. COMPENSAÇÃO CONFISSÃO E REINCIDÊNCIA ESPECÍFICA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+II - A Terceira Seção deste Superior Tribunal de Justiça, quando do julgamento do habeas corpus n. 365.963/SP, em 11/10/2017, firmou a compreensão da "possibilidade de se compensar a confissão com o gênero reincidência, irradiando seus efeitos para ambas espécies (genérica e específica), ressalvados os casos de multireincidência".
+ ..
+Habeas corpus não conhecido. Ordem concedida de ofício. (HC 527.517/SP, relator Ministro LEOPOLDO DE ARRUDA RAPOSO, Desembargador convocado do TJPE), QUINTA TURMA, julgado em 12/11/2019, DJe 20/11/2019, grifei)
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO SIMPLES. DOSIMETRIA. CONFISSÃO PARCIAL. POSSIBILIDADE DE RECONHECIMENTO DA ATENUANTE. SÚMULA 545/STJ. COMPENSAÇÃO COM A AGRAVANTE DA REINCIDÊNCIA. REINCIDÊNCIA ESPECÍFICA. ÚNICA CONDENAÇÃO. POSSIBILIDADE. CONTINUIDADE DELITIVA. FRAÇÃO DE AUMENTO. MOTIVAÇÃO CONCRETA. REGIME INICIAL FECHADO. REINCIDÊNCIA E QUANTUM DE PENA APLICADA. FUNDAMENTAÇÃO IDÔNEA. DETRAÇÃO. MATÉRIA NÃO ENFRENTADA NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+V - Na hipótese, não obstante seja o paciente reincidente específico, entendo que podem ser compensadas a agravante da reincidência (específica) com a atenuante da confissão espontânea, mormente se considerada a ausência de qualquer ressalva no entendimento firmado por ocasião do julgamento do recurso especial repetitivo sobre o tema.
+ ..
+Ordem concedida de ofício para reconhecer a atenuante da confissão espontânea e compensá-la com a agravante da reincidência, redimensionando a pena do paciente para 6 (seis) anos, 4 (quatro) meses e 19 (dezenove) dias de reclusão, mantidos os demais termos da condenação. (HC 365.963/SP, relator Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 11/10/2017, DJe 23/11/2017)
+Ante o exposto, mantidos os parâmetros fixados pelas instâncias ordinárias, concedo parcialmente a ordem paracompensar a agravante da reincidência com a atenuante de confissão espontânea, fixando a pena definitiva em 3 anos, 6 meses e 20 dias de reclusão.
+Publique-se. Intimem-se.
