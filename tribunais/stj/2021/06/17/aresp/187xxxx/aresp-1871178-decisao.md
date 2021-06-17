@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOSE FERREIRA DE MORAIS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAUL, assim resumido:
+IMPUGNAÇÃO À JUSTIÇA GRATUITA Rejeição - Ausência de contundente demonstração de que o autor não faça jus à benesse.
+ACIDENTE DE TRÂNSITO - Ação de reparação de danos materiais e morais - Acidente incontroverso - Provas acostadas, todavia, não demonstram de forma consistente que ele ocorreu por culpa do requerido, condutor do ônibus de propriedade da Prefeitura de Socorro - Hipótese em que o autor não se desincumbiu do ônus de comprovar a alegada dinâmica do acidente Sentença de improcedência mantida Recurso improvido.
+Quanto à controvérsia, alega violação dos arts. 186, 187 e 927 do CC, no que concerne à ocorrência de danos materiais e morais indenizáveis, trazendo os seguintes argumentos:
+Como se observa da leitura dos autos, a presente demanda originou-se no ato imprudente praticado pelo motorista da PREFEITURA MUNICIPAL DA ESTÂNCIA DE SOCORRO.
+ ..
+Aliás, a testemunha ROSELI MACEDO, passageira do referido veículo, deixou claro, que ao descer ainda teve a oportunidade de ver a seta funcionando.
+Outrossim, a testemunha DANIELE VICENTE, motorista do veículo do Recorrente, também explicou que antes de fazer a conversão a esquerda, parou seu veículo e observou, com todas as cautelas necessárias, a possibilidade de efetuar a referida manobra a esquerda. Portanto, ficou claro que o erro praticado pelo motorista da Recorrida acabou por ocasionar o acidente e o dano aqui discutido.
+ ..
+Portanto, imprescindível se faz a TOTAL REFORMA do V. Acórdão recorrido, devendo consequentemente que os pleitos constantes na exordial sejam julgados TOTALMENTE PROCEDENTES, uma vez que o Recorrente demonstrou nos autos a ocorrência induvidosa dos danos, tal como o nexo causal atrelado aos Recorridos na culpa do evento. (fls. 247-249).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Todavia, não obstante os argumentos do recurso de apelação, o que se tem dos autos é que o autor não se desincumbiu do ônus de comprovar as alegações contidas na inicial, descumprindo o disposto no art. 373, I, do CPC. O autor, no que tange à comprovação da culpa, trouxe aos autos somente cópia do boletim de ocorrência (fls. 19/21), em que constam duas versões sustentas pelas partes litigantes, e, deste modo, conforme bem ressaltado na r. sentença, não se cuida de prova hábil a embasar nem a tese autoral, e tampouco a tese defensiva acerca da conduta imprudente dos condutores.
+De outro lado, a prova oral do requerente, mais precisamente a testemunha Roseli, ouvida somente como informante do juízo, não soube precisar a dinâmica do acidente. O depoimento pessoal do autor nenhum substrato probatório trouxe aos autos, porque não estava presente no local do acidente e limitou-se a reproduzir as informações prestadas por filha, condutora do veículo
+ ..
+Assim, o que se tem dos autos é que realmente o acidente foi incontroverso, mas as provas acostadas não demonstram de forma consistente que ele ocorreu por culpa do motorista do ônibus de propriedade da Prefeitura de Socorro (fls. 222-223).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
