@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DO RÉU.
+1. O acórdão embargado enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não há falar emnegativa de prestação jurisdicional.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por ROGÉRIO GROSSMANN em face de decisão monocrática de lavra deste signatário (fls. 823/827, e-STJ), que negou provimento ao agravo em recurso especial.
+Na origem, a demanda proposta versa sobre ação de rescisão contratual de locação cumulada com danos morais. Foi apresentada reconvenção pleiteando o ressarcimento de R$ 8.392,84 (oito mil trezentos e noventa e depois reais e oitenta e quatro centavos). O Juízo de primeiro grau julgou improcedentes os pedidos de ambas as partes.
+Eis o acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul (fl. 660, e-STJ):
+APELAÇÃO CÍVEL. LOCAÇÃO. AÇÃO DE RESCISÃO DE CONTRATO C/C PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS. RECONVENÇÃO, COM PEDIDO DE COBRANÇA.
+Reparos e danos ao imóvel. Não cabimento da cobrança. É ônus do locador comprovar que o imóvel não foi devolvido em condições idênticas daquelas em que recebido pelo inquilino e de que este foi responsável por eventuais danos. A prova dos autos evidencia que o laudo inicial não representava as reais condições do imóvel. Ausência de notificação para acompanhamento do laudo final de vistoria. Termo de encerramento da locação. Desocupação do imóvel, com entrega das chaves, ante a ausência de prova de que o locador ficou impedido de imitir-se na posse do bem. Notificação do fiador para constituição em mora. Desnecessidade. Em se tratando de contrato de locação, não é exigida pela lei a prévia notificação para constituição em mora, pois tal decorre da incidência do termo contratual ou legal sem a prova do pagamento. E o fiador, pelo fato de ter se obrigado conjuntamente com o locatário a cumprir o contrato, possui obrigação solidária ao pagamento da dívida. Danos morais. Não configurados. A empresa reconvinda foi cobrada por figurar como fiadora, não por conta da relação empregatícia existente entre esta e o locatário. Honorários de sucumbência. Majorados em favor do procurador dos recorridos, por expressa previsão legal.
+NEGARAM PROVIMENTO AOS RECURSOS. UNÂNIME.
+Opostos embargos de declaração, foram rejeitados pelo acórdão de fls. 700/706, e-STJ.
+Interposto recurso especial com fundamento na alínea "a" do permissivo constitucional, o recorrente, ora agravante, apontou ofensa ao artigo 1.022, I, do CPC/15. Sustentou, em síntese, a ocorrência de negativa de prestação jurisdicional, ante a presença dos seguintes vícios: o Tribunal de origem entendeu erroneamente que o valor dos reparos não foi quantificado; foi considerado indevidamente que o recorrente teria reconhecido a data de entrega das chaves em 21/07/2009, quando na verdade indicou a data de 16/10/2009; jamais conferiu quitação; o acórdão afastou a possibilidade de encerramento do contrato mediante vistoria realizada por ata notarial, possibilidade que é conferida pela legislação no Art. 23, III, da Lei 8.245/91 e; a Corte de origem considerou indevidamente a entrega das chaves como sendo a data em que realizada a vistoria preliminar pela imobiliária, passando ao largo das previsões expressas contratuais que traziam a obrigação do Recorrido em reparar o imóvel antes da sua entrega.
+Após a apresentação das contrarrazões (fls. 738/753 e 755/761, e-STJ), o apelo não foi admitido na origem (fls. 764/769, e-STJ), dando ensejo ao agravo (fls. 771/785, e-STJ), visando destrancar o processamento daquela insurgência, no qual o recorrente refutou os óbices aplicados pela Corte estadual.
+Em decisão monocrática de fls. 823/827 e-STJ, este signatário negou provimento ao agravo, sob o fundamento de inexistir a alegada negativa de prestação jurisdicional.
+Irresignado, o agravante interpôs agravo interno (fls. 830/837, e-STJ), no qual reiterou, em suma, a negativa de prestação jurisdicional.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Impugnação às fls. 840/848, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DO RÉU.
+1. O acórdão embargado enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não há falar emnegativa de prestação jurisdicional.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+A irresignação não merece prosperar, porquanto os argumentos tecidos pelo agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+1.A apontada violação do art. 1022 do CPC/15 não se configura, haja vista o Tribunal estadual ter dirimido clara e integralmente a controvérsia, expondo, fundamentadamente, as razões pelas quais negou o pagamento dos alugueis e encargos decorrentes do contrato de locação celebrado, de modo que não constando do acórdão recorrido os defeitos previstos no citado dispositivo do Código de Processual Civil, mas decisão adversa à pretendida pela parte agravante.
+É, aliás, o que se observa dos seguintes excertos do acórdão recorrido(fls. 663/664, e-STJ):
+" ..  "Vale registrar que a jurisprudência desta Câmara Cível é firme no sentido de desacolher as pretensões de cobranças desacompanhadas de vistoria inicial e final. Ou seja, não há como reconhecer legitimidade de cobrança decorrente reforma no imóvel após o encerramento da locação, quando sequer houve realização de vistoria inicial e tampouco a participação das partes interessadas (locatário e/ou fiadores) na vistoria final da locação.  ..  Como, no caso, não houve comprovação de acerto entre as partes em relação a vistoria inicial, tampouco de que o autor tenha sido notificado acerca da data e hora da realização da vistoria final. Aliás, como destacado pelo julgador de primeiro grau, os valores para a reforma no imóvel nem ao menos foram detalhados na inicial da reconvenção. Ainda, a data a ser considerada como termo de entrega das chaves do imóvel é 21.7.2009, "(..) admitido pela parte ré reconvinte (fl. 59), a qual reconheceu o valor da locação estava correto até último mês, inclusive com encargos, pelo depósito no processo.", conforme referido pelo julgador a quo. Logo, tem-se por indevido o débito imputado ao locatário, autor/reconvindo, e a fiadora, Dell Computadores do Brasil Ltda. a título de consertos - salvo em relação a uma cadeira quebrada, cf. destacado no e-mail da fl. 33 (porém, esse débito não fez parte de pedido em reconvenção).".
+Assim, verifica-se que o acórdão embargado enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual inocorrente a alegada negativa de prestação jurisdicional.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. PRESCRIÇÃO. RESPONSABILIDADE EXTRACONTRATUAL. ART. 206, § 3º, V, DO CÓDIGO CIVIL. DANO MORAL. VALOR. ARBITRAMENTO. RAZOABILIDADE. DESPROVIMENTO.
+1. Não há que se falar em negativa ou vício de prestação jurisdicional se o Tribunal de origem se pronuncia suficientemente ao deslinde da causa, notadamente em face da situação dos autos, em que os embargos de declaração opostos contra o acórdão recorrido buscavam o prequestionamento numérico e o rejulgamento da causa à luz dos argumentos da parte, pretensões para as quais não se presta a via integrativa eleita.
+2. Tratando-se de pedido de indenização por ato ilícito extracontratual, o prazo aplicável é o do art. 206, § 3º, V, do Código Civil, de modo que a ação ajuizada em 13.4.2007 (e-STJ fl.
+3), ou seja, pouco menos de dois anos após o fato considerado indenizável, não está prescrita.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1350603/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/12/2018, DJe 18/12/2018)
+DIREITO PROCESSUAL CIVIL. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC/1973. AUSÊNCIA. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E PREMISSA FÁTICO-PROBATÓRIA. CONCLUSÕES DO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE.
+1. O entendimento desta Corte é pacífico no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Precedentes.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 74.629/ES, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. INEXISTÊNCIA DE OFENSA AO ART. 535, II, DO CPC/73. ISENÇÃO DO IMPOSTO DE RENDA SOBRE PROVENTOS DE INATIVIDADE PAGOS AOS JÁ ANISTIADOS POLÍTICOS. ISENÇÃO QUE PRESSUPÕE O REQUERIMENTO DE SUBSTITUIÇÃO DE TAIS PROVENTOS PELA REPARAÇÃO ECONÔMICA, SOB O REGIME DE PRESTAÇÃO MENSAL, PREVISTA NA LEI 10.559/2002. PRECEDENTES DO STJ.
+I. Não procede a alegação de ofensa ao art. 535, II, do CPC/73, pois os Embargos de Declaração têm como objetivo sanar eventual obscuridade, contradição ou omissão existentes na decisão recorrida. Não há omissão no acórdão recorrido quando o Tribunal de origem pronuncia-se, de forma clara e precisa, sobre a questão posta nos autos, assentando-se em fundamentos suficientes para embasar a decisão. Ademais, o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte. Nesse sentido: STJ, REsp 739.711/MG, Relator o Ministro LUIZ FUX, PRIMEIRA TURMA, DJU de 14/12/2006. Além disso, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Em tal sentido: STJ, REsp 801.101/MG, Relator Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+ ..
+IV. Recurso Especial provido.
+(REsp 1259387/CE, Relatora a Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 23/10/2014, DJe 04/11/2014)
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nego provimento ao agravo interno.
+É como voto.
