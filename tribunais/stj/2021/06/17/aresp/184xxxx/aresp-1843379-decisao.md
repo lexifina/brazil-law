@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE DESFAZIMENTO DE NEGÓCIO JURÍDICO C/C PEDIDO DE REPARAÇÃO POR DANOS MORAIS E MATERIAIS. VEÍCULO. AQUISIÇÃO. DEFEITOS. INÉRCIA DA PRIMEIRA RÉ EM DEVOLVER O BEM. PAGAMENTO DAS PRESTAÇÕES DE FINANCIAMENTO. BOA-FÉ DO AUTOR.
+- Autor que adquiriu junto a primeira ré um veículo, pagando valor a título de entrada, financiando o restante com o segundo réu, concordando em efetuar o pagamento de 48 (quarenta e oito) parcelas mensais.
+- Autor que constatou defeito e o deixou nas dependências da primeira ré. Alegação desta de que o bem já não mais se encontrava na garantia. Aceitação da primeira ré em receber o bem em seu estabelecimento. Alegação não comprovada acerca da inexistência de defeitos. Bem que permaneceu nas dependências da primeira ré até fevereiro de 2014, sem que esta adotasse nenhuma providência em face do autor, para que o bem fosse retirado do local.
+- Demandante que novamente deixou o carro no estabelecimento da primeira ré, ao argumento da existência de defeito, tendo esta aceitado a conduta do autor. Alegação não comprovada de que o defeito não foi constatado. Mais uma vez a primeira demandada não comprovou ter acionado o autor para a retirada do bem, que se encontra nas dependências da mesma até os dias de hoje.
+- Autor que colacionou aos autos, no curso da lide, cópia dos comprovantes de pagamento do financiamento do veículo, ainda que não estivesse em sua posse, demonstrando sua boa-fé.
+- Desistência do demandante em produzir prova pericial, á medida que o bem se encontra na posse da primeira demandada, mesmo decorrido lapso temporal superior a 04 (quatro) anos até a data da prolação da sentença. Impossibilidade de ciência do estado do bem.
+- Artigo 422 do Código Civil. Conduta da primeira ré em permanecer com o veículo por tanto tempo, que transparece sua inércia em relação a situação jurídica relatada nos autos. Inércia prolongada da primeira ré que cria legítima expectativa na parte oposta, in casu, o autor. Pós-contrato que exige que as partes mantenham um respeito mínimo entre elas, devendo ser observado o dever de lealdade.
+- A boa-fé objetiva, configurada através da figura supressio, que visa à tutela da confiança e, como conseqüência, veda os comportamentos contraditórios. Comportamento omissivo, que implica a perda do direito de exercer, de forma legítima, uma determinada pretensão, em razão do longo período em que gerou uma situação de insegurança.
+- Surrectio, utilizada para designar o mesmo fenômeno, mas sob o ponto de vista de quem adquire o direito de gozar de uma posição jurídica criada pela conduta omissiva alheia. Assim, em razão do decurso do tempo, no caso sub judice, bem como das legitimas expectativas criadas pelo comportamento da primeira ré, há, à luz da boa-fé objetiva, o surgimento de um direito, em razão da supressão de outro.
+- Danos morais configurados e arbitrados nesta oportunidade, observando-se os critérios da razoabilidade e da proporcionalidade, no valor de R$ 10.000,00 (dez mil reais).
+- Pedido de reparação de danos materiais não deve ser acolhido, eis que não comprovado que a locação de veículo por ele realizada foi, de fato, imprescindível, mormente porque até os dias de hoje o bem se encontra nas dependências da primeira ré.
+PROVIMENTO PARCIAL DO RECURSO.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta a parte agravante violação dos artigos 5º, 9º, 373 e 489 do Código de Processo Civil.
+Aduz desacerto no acórdão estadual, que, ausente de apoio em prova mínima, atribuiu como verossímil somente a versão da parte adversa.
+Sustenta que houve violação do princípio da não surpresa, aduzindo que o "acórdão suscitou a ocorrência de "supressio" e "surrectio", argumentos que jamais foram ventilados pelas partes ao longo do processo" (fl. 454, e-STJ).
+Requer o afastamento da reparação econômica por danos materiais (R$ 24.000,00 - vinte e quatro mil reais) e morais (R$ 10.000,00 - dez mil reais).
+Pleiteia, outrossim, que seja deferido o efeito suspensivo no presente recurso, por justificado receio de lesão grave ou de difícil reparação.
+Assim delimitada a controvérsia, passo a decidir.
+Com relação à pretensão de efeito suspensivo, o recorrente não demonstrou a excepcionalidade necessária para a sua concessão, o que inviabiliza o pedido.
+Nesses termos:
+AGRAVO INTERNO EM PEDIDO DE TUTELA PROVISÓRIA. CONCESSÃO DE EFEITO SUSPENSIVO AO RECURSO ESPECIAL. JUÍZO DE ADMISSIBILIDADE PENDENTE. INCOMPETÊNCIA DO STJ. PEDIDO NÃO CONHECIDO. AUSÊNCIA DOS REQUISITOS PARA A CONCESSÃO DA TUTELA DE URGÊNCIA.
+(..)
+2. Apenas em situações absolutamente excepcionais o Superior Tribunal de Justiça tem admitido a apreciação de pedido de tutela de urgência visando à concessão do efeito suspensivo a recurso especial ainda pendente de juízo de admissibilidade, condicionando sua procedência à demonstração da presença concomitante do fumus boni iuris e do periculum in mora, bem como da situação de manifesta teratologia do acórdão recorrido, o que não restou demonstrado no caso concreto.
+3. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt no TP 1.322/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 26.4.2018)
+Com efeito, a Corte local, mediante análise da prova dos autos, assim dirimiu a controvérsia (fls. 396-397, e-STJ):
+Analisando a conduta da primeira ré, no caso dos autos, impõe-se notar que atenta contra o princípio da boa-fé objetiva, que permeia todas as relações contratuais, conforme dispositivo supramencionado, à medida que, além de ter aceitado que o bem fosse deixado em seu estabelecimento, mesmo alegando que não consentiu, deixou de comprovar que o veículo, nas duas vezes, não apresentada defeitos. Cumpre ressaltar que, apesar de sua assertiva de que entrou em contato, por várias vezes, para que o bem fosse retirado de suas dependências, a primeira ré não logrou êxito em produzir prova nesse sentido, frustrando a confiança e a legítima expectativa depositada pelo autor quando da celebração do contrato de compra e venda, contrariando, portanto, o fim primordial do pacto.
+Vale lembrar que o princípio da boa-fé constitui norte do ordenamento jurídico. E além das funções limitadora e interpretativa, apresenta função integradora, de criação de deveres anexos aos deveres de prestação contratual, como os deveres de informação, de cuidado, de proteção, de lealdade e de cooperação.
+Nesse diapasão, os parceiros contratuais devem não apenas adimplir os deveres assumidos no negócio, mas também tratar o outro com lealdade e respeito, abstendo-se de condutas que venham a lesar seu patrimônio ou a inviabilizar o cumprimento do próprio contrato.
+Frise-se, mais uma vez que a conduta da primeira ré em permanecer com o veículo por tanto tempo, transparece sua inércia em relação a situação jurídica relatada nos autos. A inércia prolongada da primeira ré cria legítima expectativa na parte oposta, in casu, o autor.
+(..)
+Destarte, merece prosperar o pedido de desfazimento do negócio jurídico entabulado, com a devolução dos valores pagos.
+O atuar da primeira ré, além de contrariar o ordenamento jurídico em vigor, mostra-se capaz de gerar aflições e angústias que ultrapassam os limites do razoável, passíveis, portanto, de justificar o acolhimento do pedido de reparação por danos morais pretendido.
+Dessa forma, ao contrário do alegado no recurso especial, o Tribunal de origem, após minudente análise do conjunto fático-probatório, concluiu pela responsabilidade da agravante na falha na prestação de serviço.Tendo, ainda, reconhecido a ocorrência de abalo psíquico na parte adversa capaz de gerar reparação econômica.
+Nesse contexto, rever as conclusões assentadas no acórdão recorrido, para se concluir de forma diversa, demandaria, outra vez, reexame do conjunto fático-probatório do processo, procedimento incompatível com o recurso especial, consoante a inteligência da Súmula 7 do STJ.
+Nessa linha:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE RESCISÃO DE CONTRATO C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. A Corte de origem dirimiu a matéria submetida a sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa aos artigos 489 e 1.022 do CPC/15.
+2. No que tange à tese de impossibilidade de rescisão contratual diante da ausência de mora na entrega do bem e inexistência dos vícios construtivos aptos a ensejarem o desfazimento do negócio, para alterar as premissas adotadas pelo decisum atacado, seria necessária a interpretação das cláusulas contratuais e a rediscussão da matéria fático-probatória, inviável em sede de recurso especial, ante o disposto nas Súmulas 5 e 7 desta Corte.
+3. No caso concreto, o Tribunal de origem examinou os elementos de convicção dos autos, concluindo pela ocorrência do dano moral.
+Alterar tal conclusão demandaria o reexame fático-probatório dos autos, providência vedada em sede de recurso especial, em razão do óbice da Súmula 7/STJ, incidente em amas as alíneas do permissivo constitucional.
+4. Agravo interno desprovido.
+(AgInt no REsp 1801651/SE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 26/9/2019)
+Quanto ao outro ponto, examinando as razões e fundamentos do acórdão atacado, verifico que não se há falar em decisão-surpresa, até porque "não constitui julgamento surpresa o lastreado em fundamentos jurídicos, ainda que diversos dos apresentados pelas partes, desde que embasados em provas submetidas ao contraditório" (Enunciado nº 6 aprovado no Seminário "O Poder Judiciário e o Novo Código de Processo Civil", realizado pela Escola Nacional de Formação e Aperfeiçoamento de Magistrados - ENFAM).
+Confira-se:
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. OBSCURIDADE.CONTRADIÇÃO. INEXISTÊNCIA. PRINCÍPIO DA NÃO SURPRESA. AUSÊNCIA DE OFENSA. EFEITOS MODIFICATIVOS. USO DE EMBARGOS DECLARATÓRIOS PARA CONFORMAÇÃO A JULGAMENTO EM REPETITIVO. APLICAÇÃO RESTRITIVA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. O "fundamento" ao qual se refere o art. 10 do CPC/2015 é o fundamento jurídico - circunstância de fato qualificada pelo direito, em que se baseia a pretensão ou a defesa, ou que possa ter influência no julgamento, mesmo que superveniente ao ajuizamento da ação - não se confundindo com o fundamento legal (dispositivo de lei regente da matéria). A aplicação do princípio da não surpresa não impõe, portanto, ao julgador que informe previamente às partes quais os dispositivos legais passíveis de aplicação para o exame da causa.
+O conhecimento geral da lei é presunção jure et de jure.
+3. O acolhimento dos embargos de declaração com efeitos modificativos para fim de adequação a precedente julgado em recurso repetitivo tem como pressuposto que a tese repetitiva seja anterior ao julgado embargado. Somente assim se poderia considerar que o acórdão embargado tivesse se omitido na consideração da orientação firmada no recurso repetitivo. Precedente da Corte Especial: EAg 1.014.027/RJ, rel. Ministro Jorge Mussi, DJe 26.10.2016.
+4. Ademais, tal efeito modificativo somente se justificaria, de forma excepcional, se se cuidasse da mesma matéria julgada no repetitivo.
+Os embargos de declaração não se prestam à aplicação analógica de tese repetitiva, o que deve ser buscado na via processual adequada.
+5. Embargos de declaração rejeitados.
+(EDcl no REsp 1280825/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 1º/8/2017)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Intimem-se.
