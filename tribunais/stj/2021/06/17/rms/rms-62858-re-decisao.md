@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto peloMUNICÍPIO DE PARAUAPEBAS, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fls. 690-691):
+PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. COTA PARTE. DECRETO N. 1.358/2015. GENERALIDADE E ABSTRAÇÃO. IMPUGNAÇÃO DE LEI EM TESE. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 266/STF. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+I - Na origem, trata-se de mandado de segurança contra ato supostamente ilegal do Governador do Estado do Pará e do Secretário de Fazenda do Estado do Pará, referente ao Decreto n. 1.358/2015, que estabelece os índices definitivos da cota parte pertencente ao Município de Parauapebas para o ano de 2016. No Tribunal a quo, o feito foi extinto sem resolução do mérito. Nesta Corte, não se conheceu do recurso ordinário.
+II - Com efeito, pretende o recorrente a impugnação do Decreto n. 1.358/2015, ato normativo genérico e abstrato, e de outros normativos estaduais, o que é vedado na via mandamental, consoante enunciado da Súmula n. 266 do Supremo Tribunal Federal.
+III - Ressalte-se que "o mandado de segurança não pode ser utilizado como mecanismo de controle abstrato da validade constitucional das leis e dos atos normativos em geral, posto não ser sucedâneo da ação direta de inconstitucionalidade" (STF, MS 34432, Rel. Min. Luiz Fux, Tribunal Pleno, julgado em 7/3/2017, DJe-056.)
+IV - Dessa forma, percebe-se que o recorrente utiliza-se da via mandamental para enfrentar lei em tese, pretensão repudiada pela jurisprudência desta Corte Superior de Justiça e contrária ao regramento constitucional. Nesse sentido, in verbis: AgRg no MS 22.159/DF, Rel. Ministro Mauro Campbell, Primeira Seção, julgado em 25/11/2015, DJe 1º/12/2015 e AgRg no MS 21.789/DF, Rel. Ministro Mauro Campbell, PrimeiraSeção, julgado em 25/11/2015, DJe 1º/12/2015.
+V - Agravo interno improvido.
+Os embargos de declaração opostos contra o referido acórdão foram rejeitados.
+Na presente via, sustenta o recorrente que o mandado de segurança é via adequada para a pretensão por si deduzida, consistente na declaração de inconstitucionalidade do Decreto Estadual n. 1.182/2014 e IN 026/2014, "pois gerou efeitos concretos, ferindo direito subjetivo do município na determinação do índice da cota parte do ICMS para o ano de 2015" (e-STJ fl. 788).
+Defende que o writ afigura-se como única medida "de defesa processual a ser exercida por Chefe do Poder Executivo Municipal contra ato normativo estadual reputado inconstitucional, pela absoluta falta do instrumento adequado para o exercício do controle abstrato da validade constitucional" (e-STJ fl. 792).
+Diz que, para o deslinde da controvérsia, não há necessidade de dilação probatória, aduzindo que houve violação ao princípio constitucional da reserva legal estabelecido pela LC n. 63/90, visto que "a definição do valor adicionado e os critérios para sua composição dizem respeito à matéria reservada à Lei Complementar" (e-STJ fl. 800).
+Assevera que possui "direito líquido e certo à aplicabilidade do art. 3º, §1º, I da Lei Complementar nº 63/90, único diploma legal autorizado constitucionalmente a definir critérios para o cálculo do valor adicionado fiscal dos municípios, não podendo ficar indevidamente sujeito a critérios monocráticos, de conformidade com a vontade do Governo do Estado do Pará, que edita Instruções Normativas, infringindo competência Federal" (e-STJ fl. 819).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Contrarrazões, às e-STJ fls. 832-844.
+É o relatório.
+Nos termos dos arts. 102, § 3º, da Constituição Federal, e 1.035, § 2º, do Código de Processo Civil, o recorrente deve demonstrar a repercussão geral das questões constitucionais discutidas no caso, tratando-se de requisito formal indispensável à admissão do recurso extraordinário.
+Confira-se:
+Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+(..)
+§ 3º No recurso extraordinário o recorrente deverá demonstrar a repercussão geral das questões constitucionais discutidas no caso, nos termos da lei, a fim de que o Tribunal examine a admissão do recurso, somente podendo recusá-lo pela manifestação de dois terços de seus membros.
+Art. 1.035. O Supremo Tribunal Federal, em decisão irrecorrível, não conhecerá do recurso extraordinário quando a questão constitucional nele versada não tiver repercussão geral, nos termos deste artigo.
+(..)
+§ 2º O recorrente deverá demonstrar a existência de repercussão geral para apreciação exclusiva pelo Supremo Tribunal Federal.
+Na espécie, da leitura das razões recursais (e-STJ fls. 786-822), verifica-se que o recorrente não se desincumbiu do ônus de alegar a repercussão geral da matéria tratada no apelo extremo, o que enseja a sua inadmissibilidade, consoante vem decidindo o Supremo Tribunal Federal:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. INEXISTÊNCIA DE PRELIMINAR FORMAL E FUNDAMENTADA DA REPERCUSSÃO GERAL. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. 1. O recorrente não apresentou preliminar formal e fundamentada de repercussão geral na petição de recurso extraordinário. 2. Agravo regimental a que se nega provimento com aplicação da multa prevista no art. 1.021, § 4º, do CPC, observado o disposto no art. 1.021, § 5º, do mesmo diploma legal. Incabível a aplicação do disposto no art. 85, § 11, do CPC, em virtude da ausência de fixação de honorários pelo Tribunal de origem.
+(ARE 1067322 AgR-segundo, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 31/08/2020, PROCESSO ELETRÔNICO DJe-228 DIVULG 14-09-2020 PUBLIC 15-09-2020)
+No mesmo diapasão:
+Agravo regimental no recurso extraordinário com agravo. 2. Constitucional, Penal e Processo Penal. 3. Estelionato. Art. 171, caput, do Código Penal. 4. Não aplicação, no caso, do contido no § 5º do art. 171 do Código Penal, acrescentado pela Lei 13.964/2019. 5. Pressuposto de admissibilidade do recurso extraordinário. Ausência de preliminar formal e fundamentada de repercussão geral. Art. 102, § 3º, da Constituição Federal, c/c o art. 1.035, § 2º, do Código de Processo Civil. 6. Autoria e materialidade. Alegações que dizem respeito à legislação infraconstitucional e ao necessário reexame do conjunto fático-probatório dos autos. Óbice da Súmula 279/STF. 7. Tema 660, da sistemática da repercussão geral da questão constitucional. 8. Precedentes. 9. Agravo regimental não provido.
+(ARE 1230095 AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 24/08/2020, PROCESSO ELETRÔNICO DJe-218 DIVULG 31-08-2020 PUBLIC 01-09-2020)
+Com igual orientação:
+EMENTA: DIREITO PENAL. AGRAVO INTERNO EM RECURSO EXTRARDINÁRIO COM AGRAVO. AUSÊNCIA DE PRELIMINAR FORMAL E FUNDAMENTADA DE REPERCUSSÃO GERAL DA MATÉRIA. JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. 1. A parte recorrente não apresentou preliminar formal e fundamentada de repercussão geral das questões constitucionais discutidas, o que atrai a incidência do art. 327, § 1º, do RI/STF. Nessa linha, vejam-se: ARE 650.948, Rel. Min. Ricardo Lewandowski; AI 849.474, Rel. Min. Ayres Britto; e AI 848.658, Rel. Min. Luiz Fux. 2. Agravo interno a que se nega provimento.
+(ARE 1277645 AgR, Relator(a): ROBERTO BARROSO, Primeira Turma, julgado em 24/08/2020, PROCESSO ELETRÔNICO DJe-218 DIVULG 31-08-2020 PUBLIC 01-09-2020)
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intime-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PRELIMINAR DE REPERCUSSÃO GERAL. AUSÊNCIA. REQUISITO INDISPENSÁVEL. RECURSO NÃO ADMITIDO.
