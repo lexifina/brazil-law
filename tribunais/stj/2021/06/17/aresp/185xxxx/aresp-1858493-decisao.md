@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de EVA FATIMA LORINE-MEinterposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação Cível Embargos à Execução - EXECUÇÃO FISCAL Sentença que REJEITOU os embargos liminarmente e JULGOU EXTINTO sem julgamento do mérito o feito, com base no artigo 485, inciso IV, do CPC, determinando o prosseguimento nos autos da execução Apelação que repisa os argumentos da inicial, tais como, e entre outros, de vício nos procedimentos administrativos fiscais que culminaram com as CDAs e desnecessidade de garantia do Juízo Pretensão de procedência dos embargos com a reforma da decisão Inadmissibilidade Parte que foi intimada por duas vezes a garantir o Juízo e não o fez Decisão escorreita Inteligência do artigo 16, § 1º, da legislação específica (Lei 6830/80) Precedentes -
+No recurso especial, a recorrente aponta violação aos arts. 5º, LV, da CF, 99 e 100 do CPC e 9º da Lei 1.060/1950.
+Foram apresentadas contrarrazões.
+Sobreveio juízo negativo de admissibilidade.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Houve contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Dessume-se dos autos que a decisão que negou seguimento ao recurso especial se baseou nos argumentos de que: a)assertivas de ofensa a dispositivos da Constituição da República não servem de suporte à interposição de recurso especial; b) os argumentos expendidos não são suficientes para infirmar as conclusões do acórdão combatido que contém fundamentação adequada para lhe dar respaldo; c) não ficou evidenciado o suposto maltrato às normas legais enunciadas; d) rever a posição da Turma Julgadora importaria em ofensa à Súmula nº 7 do Superior Tribunal de Justiça.
+Contudo, do exame do agravo interposto, observa-se que a agravante furtou-se de impugnar especificamente osfundamentosutilizadospelo Juízo a quo na decisão de inadmissibilidade.
+A parte recorrente, nas razões do agravo em recurso especial, limitou-se a repetir as mesmas razões do recurso especial, bem como aafirmar que:
+(..) Em que pese o entendimento de Vossa Excelência, insta mencionar que as alegações das patentes violações não se tratam de reexame de prova, mas o inconformismo diante da PATENTE VIOLAÇÃO AO DIREITO DA AGRAVANTE, QUE É BENEFICIÁRIA DA JUSTIÇA GRATUITA, SENDO ABARCADA A GARANTIA DO JUIZO, sendo cristalina a violação dos artigos mencionados, devendo assim ser analisadas com a finco, de modo que sejam conhecidas e providas por meio do recurso ao qual se espera a reforma da decisão.
+Nota-se que os argumentos apresentados, além de não impugnarem ofundamento do Juízo a quo de que não cabe recurso especial de suposta violação a dispositivos da Constituição Federal, são genéricos e insuficientes para impugnar os demais fundamentos da decisãode inadmissibilidadedo recursoespecial
+Dessa forma, o agravo em recurso especial carece de fundamentação, atraindo as consequências previstas no art. 932, III, do CPC/2015, segundo o qual não se conhecerá do agravo que não tenha atacado especificamente os fundamentos da decisão de inadmissibilidade.
+A jurisprudência do STJ é assente no sentido de que impugnação à fundamentação contida na decisão agravada deve ser específica e suficientemente fundamentada e atacar todos os pontos do decisum.
+Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art.
+1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
