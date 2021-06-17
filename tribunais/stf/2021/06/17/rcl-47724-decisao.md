@@ -1,0 +1,37 @@
+D E C I S Ã O
+    Trata-se de Reclamação ajuizada em face de decisão da 5ª Câmara Cível do Tribunal de Justiça do Estado da Bahia, nos autos do Processo nº 0503389-15.2014.8.05.0103, que, ao condenar o Município de Ilhéus ao pagamento de honorários em favor da Defensoria Pública do Estado da Bahia, teria violado o entendimento da Súmula Vinculante nº 10 desta Suprema Corte.
+    O Município reclamante aduz que a Lei Complementar Estadual nº 26/2006, em seu artigo 6º, inciso II, dispensa o recolhimento de honorários sucumbenciais da Defensoria Pública quando a parte adversa for qualquer pessoa jurídica de direito público.
+    Acrescenta que o art. 3º, I, da Lei 11.042/2008, que criou o Fundo de Assistência Judiciária da Defensoria Pública do Estado da Bahia – FAJDPE/BA, também excetuou as verbas de sucumbência em causas contra entes da Administração Pública direta e indireta.
+    Sustenta, assim, que o acórdão reclamado, ao conceder honorários advocatícios em favor da Defensoria Pública, afastou a citada legislação local sem, contudo, observar a reserva de Plenário, em afronta ao entendimento da Súmula Vinculante nº 10.
+    Requer, liminarmente, a suspensão da decisão reclamada e, no mérito, a sua cassação.
+    É o Relatório. Decido.
+    As hipóteses de cabimento da reclamação encontram-se previstas em rol taxativo constante do art. 988 do CPC, assim redigido:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I preservar a competência do tribunal;
+    II garantir a autoridade das decisões do tribunal;
+    III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    IV garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.”
+    No caso, o reclamante alega desrespeito ao enunciado da Súmula Vinculante n.º 10 deste Tribunal, segundo o qual: “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de Tribunal que embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+    Sustenta-se que a condenação do Município ao pagamento de honorários sucumbenciais em favor da Defensoria Público do Estado da Bahia ocorreu em detrimento de dispositivos das leis estaduais 26/2006 e 11.042/2008.
+    Todavia, analisando o acórdão guerreado, não extraio de sua fundamentação qualquer juízo, expresso ou velado, de inconstitucionalidade de preceitos normativos. Verifica-se, isso sim, mera atividade hermenêutica, a qual, por sua essencialidade, não pode ser dissociada do ofício jurisdicional. Confira-se trecho da fundamentação do ato reclamado:
+    No que se refere ao recurso apresentado pela Defensoria Pública do Estado da Bahia, que objetiva a condenação do Município de Ilhéus ao pagamento de honorários advocatícios em seu favor, também merece prosperar.
+    Com efeito, reconhece-se à Defensoria Pública o direito ao recebimento dos honorários advocatícios quando a atuação se dá em face de ente federativo diverso do qual é parte integrante, como no caso presente.
+    Nesta linha de intelecção, o entendimento do STJ e desta Corte de Justiça:
+    PROCESSUAL CIVIL E ADMINISTRATIVO. DEFENSORIA PÚBLICA ESTADUAL. ATUAÇÃO CONTRA MUNICÍPIO. CABIMENTO DE CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS.
+    1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 1.199.715/RJ, representativo de controvérsia, de Relatoria do Ministro Arnaldo Esteves Lima, julgado em 16/2/2011 pela Corte Especial, com publicação no DJe de 12/4/2011, firmou o entendimento de que não são devidos honorários advocatícios à Defensoria Pública quando ela atua contra pessoa jurídica de direito público que integra a mesma Fazenda Pública.
+    2. Na ocasião, foram fixadas as seguintes teses: "Tema n. 128/STJ: Os honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra a pessoa jurídica de direito público à qual pertença. Tema n. 129/STJ: Reconhece-se à Defensoria Pública o direito ao recebimento dos honorários advocatícios se a atuação se dá em face de ente federativo diverso do qual é parte integrante".
+    3. No caso dos autos, a demanda foi proposta pela Defensoria Pública do Estado do Mato Grosso contra o Município de Tangará da Serra/MT, o que não configura confusão. Recurso Especial provido. (STJ, REsp 1735352/MT, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/06/2018, DJe 22/11/2018)
+    PROCESSUAL CIVIL. DEFENSORIA PÚBLICA ESTADUAL. ATUAÇÃO CONTRA MUNICÍPIO. RECEBIMENTO DE VERBA HONORÁRIA. POSSIBILIDADE. MATÉRIA CONSOLIDADA NA PRIMEIRA SEÇÃO NO JULGAMENTO DO RESP 1.108.013/RJ, SUBMETIDO AO RITO DO ART. 543-C DO CPC.
+    1. A Primeira Seção do STJ consolidou o entendimento de que é possível a condenação em honorários advocatícios quando a atuação da Defensoria Pública Estadual se dá contra ente federativo diverso (in casu, Município de Maceió/AL).
+    2. Orientação firmada na Corte Especial, no julgamento do REsp 1.108.013/RJ, de relatoria da Ministra Eliana Calmon, sob o rito do art. 543-C do CPC.
+    3. Recurso Especial não provido. (REsp 1766872/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/10/2018, DJe 19/11/2018)”
+    EMBARGOS DE DECLARAÇÃO. EXISTÊNCIA DE OMISSÃO E OBSCURIDADE. EMBARGOS ACOLHIDOS. MUDANÇA DE ENTENDIMENTO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA DEFENSORIA PÚBLICA QUANDO ATUA CONTRA ENTE MUNICIPAL. INTERPRETAÇÃO DA LEI COMPLEMENTAR N.º 26/2006 E LEI ESTADUAL 11.045/2008 EM CONSONÂNCIA COM O ART. 4º, INCISO XXI, DA LEI COMPLEMENTAR 80/1994 E O ART. 24, INCISO XIII, § 1º A 4º, DA CONSTITUIÇÃO FEDERAL. APLICAÇÃO DA SÚMULA 421 DO STJ. PRECEDENTES DO TJ/BA. EMBARGOS CONHECIDOS E ACOLHIDOS. (TJBA, Embargos de Declaração, Número do Processo: 0512596-48.2017.8.05.0001/50001, Relator(a): Raimundo Sérgio Sales Cafezeiro, Quinta Câmara Cível, Publicado em: 24/04/2019)
+    APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. ISSQN. EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA. AUSÊNCIA DE FATO GERADOR. EXTINÇÃO DA AÇÃO EXECUTIVA E DO CRÉDITO TRIBUTÁRIO. CABIMENTO. HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE DA DEFENSORIA PÚBLICA PERCEBER HONORÁRIOS SUCUMBENCIAIS QUANDO ATUE CONTRA PESSOA JURÍDICA DE DIREITO PÚBLICO DISTINTA DA QUAL PERTENÇA. PRECEDENTES. RECURSO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA. (TJBA, Apelação, Número do Processo: 0773175-80.2014.8.05.0001, Relator(a): Baltazar Miranda Saraiva, Quinta Câmara Cível, Publicado em: 05/04/2019)
+    Nesse contexto, observa-se que foi desenvolvida interpretação razoável da legislação local, sem declaração de inconstitucionalidade, expressa ou implícita, o que justifica a inadequação da reclamação para a discussão que se pretende.
+    Se o Juízo reclamado não declarou a inconstitucionalidade de norma, nem afastou sua aplicabilidade com apoio em fundamentos extraídos da Constituição, não é pertinente a alegação de violação à Súmula Vinculante 10 e ao artigo 97 da Constituição.
+    No mesmo sentido, foi a decisão proferida na Reclamação de n.º 47.404, de relatoria do Ministro Edson Fachin, ajuizada pelo mesmo ente municipal em contexto fático praticamente idêntico ao dos presentes autos.
+    Ante o exposto, julgo improcedente a presente reclamação.
+    Intime-se. Publique-se. Arquive-se.
+    Brasília, 17 de junho de 2021.
+Ministro NUNES MARQUES
+Relator
