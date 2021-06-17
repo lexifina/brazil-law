@@ -1,0 +1,28 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Carlos Alberto Cunha Miranda e outros, com amparo na alínea "a" do inciso III do art. 105 da Constituição da República, contra acórdão do Tribunal Regional Federal da 5ª Regiãoassim ementado (e-STJ, fls. 281-282):
+PROCESSUAL CIVIL. ADMINISTRATIVO. HONORÁRIOS ADVOCATÍCIOS. OMISSÃO NO DESPACHO INICIAL DA EXECUÇÃO. NÃO OCORRÊNCIA DA PRECLUSÃO. HONORÁRIOS ADVOCATÍCIOS. CPC/1973.
+I. Trata-se de agravo de instrumento interposto contra decisão que, em sede de execução de sentença referente às diferenças relativas ao índice de 3,17%, fixou os honorários advocatícios sucumbenciais na fase de execução com base no art. 85, §§ 1º e 2º do CPC/2015.
+II. Em suas razões recursais, a UFPE alega que, embora a parte agravada tenha requerido a fixação de honorários na petição inicial da execução, tal pretensão não foi acolhida no despacho judicial em que se determinou a citação da autarquia executada e, apesar disso, a parte exequente não se insurgiu contra a ausência de arbitramento dos honorários pleiteados, o que consubstancia a preclusão. Na hipótese de ser mantida a fixação de honorários, requer que seja aplicado o disciplinamento do CPC/73.
+III. No caso, conforme informações do agravante, o juiz de primeiro grau, em seu despacho inicial, quando proposta a execução judicial, determinou a citação da executada, nos termos do artigo 730, do CPC/73, sem, contudo, arbitrar honorários advocatícios na forma do artigo 652-A do CPC/73, como requerido à exordial.
+IV. Restou evidenciado que a parte pediu a tempo, entretanto o magistrado restou silente quanto à fixação da verba honorária advocatícia. Não cabe a parte diligente restar prejudicada, restando ao juízo analisar a questão decidindo-a no curso do processo. Na hipótese, não se trata de caso de ocorrência de preclusão temporal a que aludia o artigo 183, do CPC/73, atual art. 223 do CPC/2015. Precedentes deste Regional:AC535892/RN, Primeira Turma, Relator: Desembargador Federal José Maria Lucena, DJE 07/06/2012;EDAC210030/01/SE, Terceira Turma, Relator: Desembargador Federal Paulo Machado Cordeiro, DJE 09/07/2015.
+V. No que diz respeito à verba honorária, apesar deste Relator entender ser aplicável o regramento trazido pela Lei 13.105/2015 - CPC, a Segunda Turma do TRF 5ª Região já pontua entendimento majoritário no sentido de prestigiar o princípio da vedação da surpresa, segundo o qual não podem as partes ser submetidas a um novo regime processual financeiramente oneroso, ao meio de uma liça que ainda se desenvolve. E nessa linha, há que ser aplicada a disciplina do CPC de 1973, que não proibia a fixação de honorários em quantia certa e também não previa honorários advocatícios recursais.
+VI. Nestes termos, levando-se em conta o trâmite da execução e complexidade da causa, bem como o disposto no art. 20, §4º, do CPC/1973, e os demais critérios estabelecidos no §3º da mesma norma legal, mostra-se razoável a fixação dos honorários advocatícios em R$ 2.000,00 (dois mil reais).
+VII. Agravo de instrumento parcialmente provido, para fixar os honorários advocatícios, nos termos do CPC/1973, em R$ 2.000,00 (dois mil reais).
+Os recorrentes alegam a existência de contrariedade aoart. 85, §§ 1º, 2º e 3º, do CPC/2015.
+Defendem, em suma, a aplicabilidade do atual Código de Processo Civil.
+Contrarrazões apresentadas às e-STJ, fls. 727-737.
+Parecer do Ministério Público Federal, às e-STJ, fls. 821-831, pelo provimento do recurso.
+É o relatório.
+Registro inicialmente que, segundo o entendimento do Superior Tribunal de Justiça, a regra processual aplicável, no que tange à condenação em honorários advocatícios sucumbenciais, é aquela vigente na data em que foi prolatada a sentença.
+Observe-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. HONORÁRIOS ADVOCATÍCIOS. MARCO TEMPORAL PARA A APLICAÇÃO DO CPC/2015. PROLAÇÃO DA SENTENÇA. PRECEDENTE. IMPUGNAÇÃO DO VALOR FIXADO A TÍTULO DE VERBA HONORÁRIA. MAJORAÇÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O recorrente alega que não há falar em direito adquirido a fim de conclamar incida o Novo Código de Processo Civil apenas às demandas ajuizadas após a sua entrada em vigor (conforme decidido pelo Tribunal a quo), porquanto, consoante estabelecido no artigo 14 do NCPC, o novel diploma normativo processual incidirá imediatamente aos processos em curso.
+2. A jurisprudência desta Corte tem entendido que o marco temporal que deve ser utilizado para determinar o regramento jurídico aplicável para fixar os honorários advocatícios é a data da prolação da sentença, que, no caso, foi na vigência do Código de Processo Civil de 1973. Precedente: REsp 1.636.124/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/12/2016, DJe 27/04/2017.
+3. Nesse contexto, sobrepõe-se o entendimento consolidado neste Tribunal, no sentido de que salvo as hipóteses excepcionais de valor excessivo ou irrisório, não se conhece de recurso especial cujo objetivo é rediscutir o montante da verba honorária fixada pelas instâncias de origem, a teor do enunciado nº 7, da Súmula do STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1.657.177/PE, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/8/2017, DJe 23/8/2017).
+Na hipótese, a decisão que determinou a fixação de honorários advocatícios pela promoção da execuçãoem favor dos recorrentes foi proferida em15/2/2017.
+Desse modo há de se aplicar o CPC de 2015.
+Ante o exposto, conheço do recurso especial e dou-lhe provimento, a fim dedeterminar a devolução dos autos ao Tribunal de origem parafixar os honorários advocatícios conforme as disposições constantes do atual Código de Processo Civil.
+Publique-se. Intimem-se.
