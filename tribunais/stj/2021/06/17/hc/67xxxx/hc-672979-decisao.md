@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor deEDGARD PEREIRA RAMOS FILHO contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeirono Agravo Regimental no HCn.0025743- 12.2020.8.19.0000, assim ementado (fls. 20-21):
+"AGRAVO REGIMENTAL EM FACE DE DECISÃO MONOCRÁTICA DE REJEIÇÃO LIMINAR DE HABEAS CORPUS - INSURGÊNCIA DEFENSIVA DIANTE DE DECISÃO MONOCRÁTICA QUE EXTINGUIU O REMÉDIO HEROICO SEM JULGAMENTO DO MÉRITO, POR SE TRATAR DE PLEITO MANIFESTAMENTE IMPROCEDENTE, AQUELE QUE PRETENDE A LIBERTAÇÃO CALCADA NO PERIGO DE CONTÁGIO COLETIVO DE INTEGRANTES DO EFETIVO CARCERÁRIO ESTATAL, EM DECORRÊNCIA DOS EFEITOS DA PANDEMIA DO COVID-19, EM SE TRATANDO DE TESE MONOLITICAMENTE DESACOLHIDA POR ESTE COLEGIADO, BEM COMO EM SE TRATANDO DE MATÉRIA QUE SEQUER MERECEU PRÉVIO ESVAZIAMENTO DE INSTÂNCIA PERANTE O JUÍZO ORIGINÁRIO, AGORA RETOMANDO A MESMA LINHA ARGUMENTATIVA PRIMITIVAMENTE DESCARTADA, E CALCADA EM PRETENSA VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE - IMPROCEDÊNCIA DA PRETENSÃO RECURSAL DEFENSIVA - DESMERECE ACOLHIDA A PRETENSÃO RECURSAL DEFENSIVA, PORQUANTO SE TRATA DE ENTENDIMENTO CONSOLIDADO DESTE COLEGIADO, ACERCA DA NECESSIDADE DE PRÉVIA SUBMISSÃO AO JUÍZO NATURAL DO PLEITO LIBERTÁRIO, O QUE, INCLUSIVE, FOI CHANCELADO POR MANIFESTAÇÃO DO PRETÓRIO EXCELSO EM HIPÓTESE ABSOLUTAMENTE ANÁLOGA À PRESENTE, MAIS PRECISAMENTE NO HC Nº 188820, SOB A RELATORIA DO MIN. LUIZEDSON FACHIN - DESTARTE E EM SE TENDO POR AJUSTADA A PROLAÇÃO DA ATACADA DECISÃO MONOCRÁTICA, HÁ QUE SER ESTA MANTIDA, EM SEUS INTEGRAIS TERMOS - DESPROVIMENTO DO RECURSO."
+Alega-se, na presente impetração, em suma, que a Corte de origem "andou mal ao denegar a ordem postulada, mantendo a execução provisória e imediata das penas nos termos da sentença prolatada pelo d. Juiz a quo, ignorando a necessidade de se aguardar o trânsito em julgado do édito condenatório" (fl. 6).
+Requer-se, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição por reprimendas restritivas de direitos.
+É o necessário para relatar.Decido.
+O pedido é incognoscível.
+O acórdão ora impugnado foi proferido em recurso interposto contra a decisão monocrática em que o Relator no Tribunalestadual,em 28/12/2020, consignou que na origem não houve a "comprovação de ter o Impetrante previamente protocolizado, junto ao Juízos de origem, pedido análogo ao presente, como forma de "esvaziamento da instância"e com isto prevenindo a violação ao princípio do Juiz Natural e a supressão de instância" (fl. 103; sem grifos no original).
+Por isso, esta Corte não pode manifestar-se,per saltum, sobre a pretensão defensiva, pois compete ao Superior Tribunal de Justiça, na via processual dohabeas corpus, apreciar matéria analisada colegiadamente por um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alíneaa, da Constituição da República), o que não é o caso, pois o mérito da alegação defensiva não foi julgado.
+A propósito, destaco o seguinte julgado,mutatis mutandis:
+"HABEAS CORPUS .. . MATÉRIA AINDA NÃO SUBMETIDA AO TRIBUNALA QUO. SUPRESSÃO DE INSTÂNCIA. PEDIDO QUE NÃO SE CONHECE.
+ ..
+2- Não se pode conhecer de pedido que não foi submetido ao Tribunala quo, sob pena de supressão de instância.
+ .. .
+4- Não se conhece do pedido."(HC 83.402/SP, Rel. Ministra JANE SILVA - Desembargadora convocada do TJ/MG -, QUINTA TURMA, DJ24/09/2007.)
+No mais, não há como conceder ordem dehabeas corpusde ofício, pois a Defesa, na inicial deste feito, não alegou que a impetração originária estava devidamente instruídae que por isso, consequentemente, não havia óbice processual para que a Corte de origemapreciasseo mérito da controvérsia lá ventilada.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, todos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS.PROCESSUAL PENAL. AUSÊNCIA DE COMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA PARA ANALISARPER SALTUMO MÉRITO QUANTO À ILEGALIDADE DA PRISÃO PREVENTIVA.PETIÇÃO INICIAL INDEFERIDALIMINARMENTE.
