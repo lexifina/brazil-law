@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus,com pedido liminar, impetrado em favor de RICARDO FERREIRA DE SOUZA contra decisão liminar proferidapor Desembargador do Tribunal de Justiça do Estado de São Paulo (HC n. 2130325-97.2021.8.26.0000).
+Consta dos autos que o paciente foi denunciadopela prática do crime previsto no art. 155, § 4º, inciso I,do Código Penal (e-STJ fls. 23/24), sendo a peça acusatória recebida pelo Juízo processante (e-STJ fls. 110/111 e 191/192).
+Irresignada, a defesa impetrou habeas corpusna Corte local, cujo pedido liminar foi indeferido (e-STJ fls. 194/196).
+No presentemandamus(e-STJ fls. 3/13), o impetrante sustenta que a decisão impugnadaimpôs constrangimento ilegal ao paciente, na medida em que não obstou o curso de ação penal por conduta manifestamente atípica. Defende que o valor subtraído é inexpressivo, razão pela qual deve ser aplicado o princípio da insignificância.
+Ao final, formula pedido liminar para que a ação penal seja suspensa e, no mérito, pedeo respectivo trancamento.
+É o relatório. Decido.
+De início, cumpre destacar que a a jurisprudência do Superior Tribunal de Justiça é firme no sentido de não caber habeas corpus contra decisão que indefere liminar na origem, na esteira do enunciado da Súmula 691/STF, aplicável por analogia, salvo se demonstrada flagrante ilegalidade. A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REGIME INICIAL DE CUMPRIMENTO DE PENA. INDEFERIMENTO DA LIMINAR DO PRÉVIO WRIT. SÚMULA691 DO STF. INEXISTÊNCIA DE ILEGALIDADE PATENTE. EXCEPCIONALIDADE. NÃO OCORRÊNCIA. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Segundo entendimento iterativo desta Corte, secundado pelo enunciado n.º 691 da Súmula do Supremo Tribunal Federal, não cabe habeas corpus contra indeferimento de liminar em prévio writ, por importar em verdadeira supressão de instância.
+2. Na espécie, inexiste manifesta ilegalidade apta a superar o óbice sumular. Decisão monocrática mantida por seus próprios fundamentos.
+3. Agravo regimental a que se nega provimento(AgRg no HC 447.280/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 1º/6/2018).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO DE LIMINAR NA ORIGEM. NÃO CABIMENTO. SUPERAÇÃO DO ENUNCIADO691 DA SÚMULA DO STF. IMPOSSIBILIDADE. ILEGALIDADE OU TERATOLOGIA. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Não se admite, em princípio, habeas corpus contra decisão que denega pedido liminar em sede de writ impetrado na origem, sob pena de configurar indevida supressão de instância. (enunciado 691, da Súmula do STF), ressalvadas as decisões teratológicas ou com deficiência de fundamentação.
+II - No caso, o impetrante se insurge contra decisão que indeferiu oitiva de testemunha, com fundamento na inobservância dos prazos legais, não comprovando a Defesa a ilegalidade ou teratologia do decisum.
+III - Não se verifica, portanto, a ocorrência de flagrante ilegalidade capaz de determinar o conhecimento da impetração, em afronta ao disposto na Súmula 691 do STF. Agravo regimental desprovido(AgRg no HC 434.862/RJ, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 27/4/2018).
+No caso, consoante se observa dos autos, a decisão que indeferiu o pedido liminar na origem não ostenta ilegalidade evidente e apta a desafiar controle antecipado por este Superior Tribunal, pois suficientemente motivada.Ademais, embora o valor da res furtiva não seja expressiva, a ação criminosa teria se dado mediante o arrombamento de uma porta e de um balcão de vidro, não sendo possível afirmar, de forma precoce e sem a devidaponderação pelas instâncias ordinárias, que a conduta foi insignificante.
+Assim, todas as questões suscitadas pela defesa do paciente serão tratadas naquele mandamus por ocasião do julgamento de mérito, sem o qual esta Corte fica impedida de apreciar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Em conclusão, entendo não configurada hipótese excepcional de flagrante ilegalidade que justifique a superação da Súmula691/STF, resultando incabível a presente impetração.
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
+Intimem-se.
