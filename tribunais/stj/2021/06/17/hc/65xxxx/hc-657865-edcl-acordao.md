@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. VÍCIOS DO ART. 619 DO CPP NÃO CONSTATADOS. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O recurso integrativo é cabível somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado; é inadmissível quando objetiva apenas a reversão do julgado.
+2. O acórdão da Sexta Turma não vícios do art. 619 do CPP. A pretensão do Ministério Público Federal é a rediscussão da controvérsia, o que não se admite nos limites dos aclaratórios.
+3. Não compete a esta Corte Superior o exame de suposta violação de dispositivos constitucionais, nem sequer para fins de prequestionamento, por ser matéria reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O  MINISTÉRIO  PÚBLICO  FEDERAL  opõe  embargos  de  declaração  ao  acórdão  de  fls.  2.197-2.198.
+Para  o insurgente, o acórdão que manteve a concessão do habeas corpusincorreu em omissão, pois, ao analisar o requisito objetivo da progressão de regime aos condenados por crimes hediondos ou a eles equiparados e"aplicar ao reincidente comum o mesmo percentual do reincidente específico, findou por igualar, de forma indevida, o apenado reincidente ao apenado primário, violando os princípios da isonomia e da individualização da pena" (fl. 2.210, destaquei).
+O Parquet assinala que a interpretação adotada no acórdão embargado subverteu "a separação dos poderes (art. 2º da Constituição Federal),uma vez que o Poder Judiciário, se substituindo ao legislador, limitaria o alcance da norma e da própria ratio do legislador, o qual, com a Lei nº 13.964/2019, objetivou recrudescer a aplicação da lei penal" (fl. 2.211).
+Destarte, "o entendimento esposado pelo acórdão embargado contraria frontalmente o princípio da igualdade e da individualização da pena previstos no art. 5º, caput e inc. XLVI, da Constituição Federal" (fl. 2.213). Ao "conceder tratamento isonômico a condenados primários e reincidentes, o aresto embargado deixou de observar o princípio da proibiçãode proteção insuficiente (necessidade de proteção da sociedade), contrariando diretamente o postulado do devido processo legal em sua vertente material (proporcionalidade) - art. 5º, inc. LIV, da Constituição Federal" (fl. 2.214).
+Requer o acolhimento dos aclaratórios, com efeitos infringentes.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. VÍCIOS DO ART. 619 DO CPP NÃO CONSTATADOS. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O recurso integrativo é cabível somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado; é inadmissível quando objetiva apenas a reversão do julgado.
+2. O acórdão da Sexta Turma não vícios do art. 619 do CPP. A pretensão do Ministério Público Federal é a rediscussão da controvérsia, o que não se admite nos limites dos aclaratórios.
+3. Não compete a esta Corte Superior o exame de suposta violação de dispositivos constitucionais, nem sequer para fins de prequestionamento, por ser matéria reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+4. Embargos de declaração rejeitados.
+VOTO
+O  recurso  integrativo  é  cabível  somente  nas  hipóteses  de  ambiguidade,  obscuridade,  contradição  ou  omissão  ocorridas  no  acórdão  embargado;  é  inadmissível  quando,  a  pretexto  de  vícios  elencados  no  art.  619  do  CPP,  objetiva  novo  julgamento  do  caso,  como  in  casu.
+O  acórdão  da  Sexta  Turma  não padece de omissão, pois se manifestou expressamente sobre a matéria controvertida.
+Após as alterações do art. 112 da LEP promovidas pela Lei n. 13.964/2019, criou-se uma lacuna jurídica sobre a progressão de regime aos apenados reincidentes, condenados por crimes hediondo (ou outro a ele equiparado) e comum.
+No âmbito desta Corte, em julgados da Quinta e da Sexta Turmas, prevaleceu a compreensão de que, nas disposições sobre a execução das sanções criminais, o julgador dever recorrer à analogia in bonam partem para a integração normativa, observados, ainda, o princípio da legalidade e o da retroatividade da lei penal mais benéfica.
+Como na atual redação do art. 112, VII, da LEP, existe uma clararestrição, porquanto a palavra "reincidente" está acompanhada da expressão "na prática de crime hediondo ou equiparado", a exigência de 60% do cumprimento da pena refere-se somente ao reincidente na prática dessa natureza de delito e não é possível corrigir o erro do legislador em prejuízo do sentenciado.
+A Terceira Seção desta Corte, em julgamento sob o rito dos recursos repetitivos (Tema n. 1.084), firmou a seguinte tese jurídica: "éreconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante" (REsp n. 1910240/MG e 1918338/MT).
+Oprincípio da legalidade, fundamento central do direito penal brasileiro e instrumento de controle da atuação do Estado não somente quando estabelece normas incriminadoras, mas também quando dispõe sobre a execução das sanções penais, impede a analogia que prejudique o criminoso, ainda que caracterizada a sua reincidência genérica.
+A menção aos princípios da isonomia, da separação dos poderes, da individualização da pena e da vedação à proteção deficienteemnada altera a compreensão externada, que culminou na concessão da ordem.
+A  pretensão  do Ministério Público Federal,  em  verdade,  é  rediscutir  a  matéria  decidida,  o  que  não  se  admite  nos  limites  do recurso integrativo.
+Por  fim,  não  compete  a  esta  Corte  Superior  o  exame  de  suposta  violação  de  dispositivos  constitucionais  (art. 2º, 5º, caput, XLVI e LIV, da CF),  nem  sequer  para  fins  de  prequestionamento,  por  ser  matéria  reservada  ao  Supremo  Tribunal  Federal,  nos  termos  do  art.  102,  III,  da  Constituição  Federal.
+À  vista  do  exposto,  rejeito  os  embargos  de  declaração.
