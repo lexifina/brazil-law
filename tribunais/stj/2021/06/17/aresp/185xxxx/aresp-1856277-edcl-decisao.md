@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de novos embargos de declaração opostos por CARLAILE COSTA PEREIRA, contra decisão unipessoal, que não conheceu do agravo em recurso especial que interpusera, pois não teria impugnado todos os fundamentos da decisão que inadmitiu seu recurso especial.
+No presente recurso, a parte embargante sustenta a ocorrência de suposta omissão quanto à matéria de mérito, em que pese seu recurso, sequer, tenha sido conhecido por ausência de impugnação específica dos fundamentos da decisão recorrida.
+É o relatório.
+Na hipótese, verifica-se que não ocorreu nenhuma obscuridade, contradição ou omissão existe no corpo do acórdão que justifique a oposição desse recurso, que, como é cediço, não se presta para o reexame da causa.
+Relembre-se que a decisão de admissibilidadedo TJ/RS: inadmitiu o recurso especial com base nos seguintes fundamentou: i) ausência de violação dos arts. 489 e 1022 do CPC; ii) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Como referido na decisão de fls. 547/548 (e-STJ), e reafirmado na decisãode fls. 573/575 (e-STJ), o agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Entretanto, vem a parte embargante, novamente, sustentar ausência de apreciação de mérito, em que pese, repita-se, vez mais, seu recurso não tenha sido conhecido por ausência de pressupostos. Ressalta-se que esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do recurso, que obstou a abertura desta instância superior e, portanto, a produção do efeito translativo. Logo, não há que se cogitar da ocorrência de omissão, uma vez que o recurso sequer ultrapassou o conhecimento para que o mérito fosse apreciado, evidenciando, portanto, o caráter procrastinatório dos novos embargos opostos.
+Dessa maneira, apreciada integralmente a questão suscitada pela parte embargante, embora de forma distinta daquela pretendida, não há qualquer reparo ou complementação a ser feita nos arestos embargados, sendo pertinente repisar o absoluto descabimento da presente via recursal para a alteração do julgado.
+Assim, considerando que o presente recurso não reúne os pressupostos específicos para o seu acolhimento, nos termos do art. 1.022 do CPC/2015, sendo manifesto, outrossim, o seu caráter protelatório, impõe-se a sua rejeição, com a aplicação da penalidade prevista no art. 1.026, §2º, do CPC.
+Forte nessas razões, REJEITO os embargos de declaração, condenando a parte embargante ao pagamento, em favor da parte embargada, de multa equivalente a 2% do valor atualizado da causa, nos termos do art. 1.026, §2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVOEM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. MULTA DO ART. 1.026, §2º, DO CPC/15.
+1. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem-se em recurso de natureza integrativa destinado a sanar vício de obscuridade, contradição, omissão ou erro material, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. Evidenciado o propósito manifestamente protelatório na oposição dos embargos de declaração, é imperativa a aplicação da multa prevista no art. 1.026,§ 2º do CPC/15.
+4. Embargos de declaração rejeitados, com aplicação de multa.
