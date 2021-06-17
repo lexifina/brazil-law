@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por CRED SYSTEM ADMINISTRADORA DE CARTÕES DE CRÉDITO LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. INSCRIÇÃO NOS CADASTROS DE PROTEÇÃO AO CRÉDITO. PROVA DA RELAÇÃO. AUSÊNCIA. INDENIZAÇÃO DEVIDA. QUANTUM INDENIZATÓRIO. ADEQUAÇÃO. RAZOABILIDADE E PROPORCIONALIDADE. JUROS DE MORA.
+1. Nas ações declaratórias negativas, em que uma das partes alega a inexistência da relação jurídica que deu ensejo ao débito, cabe ao réu a prova da realização do negócio que gerou a dívida.
+2. Não demonstrada pela demandada a existência de relação contratual, impõem-se o reconhecimento da ausência de relação jurídica entre as partes.
+3. Para a fixação dos danos morais, deve-se considerar a dupla finalidade do instituto, que é a punição do ofensor, como forma de coibir a sua reincidência na prática delituosa e a compensação da vítima pela dor e sofrimento vivenciados.
+4. Em se tratando de responsabilidade extracontratual, os juros moratórios fluem a partir da data do evento danoso, nos termos da Súmula nº 54/STJ.
+5. Primeiro recurso não provido e segundo recurso provido.
+Quanto à controvérsia, alega violação dos arts. 884 e 944 do CC, no que concerne à redução do valor arbitrado a título de indenização por danos morais, trazendo os seguintes argumentos:
+03. Ocorre que, o valor de R$ 15.000,00 (quinze mil reais) fixados no r. acórdão se mostra ABUSIVO, DESPROPORCIONAL E DESARRAZOADO aos fatos narrados nos presentes autos, considerando que a empresa Recorrente tomou todas as cautelas necessárias quando da contratação do cartão de crédito, não podendo, portanto, ser responsabilizada pela conduta delituosa de terceiro estelionatário, que promoveu sofisticada alteração documental, tornando imperceptível a fraude.
+ ..
+05. Por todo o exposto, imperiosa a reforma do acórdão recorrido, pois, diante do consolidado entendimento deste c. STJ, o valor da indenização fora fixado de forma desproporcional e desarrazoada, considerando a extensão do dano efetivamente sofrido pelo Recorrido, razão pela qual deve ser minorado o valor da condenação. (fls. 348-350).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No que diz respeito aos critérios de fixação do valor da indenização por danos morais, questão esta indagada em apelo, deve o Julgador considerar a máxima de que o dano não pode ser fonte de lucro desmesurado, ao mesmo tempo em que deve compensar a vítima pelo sofrimento experimentado com o constrangimento de ter seu nome incluído em cadastro de restrição ao crédito, além do caráter pedagógico de se evitar a perpetuação de práticas reprováveis dessa natureza.
+ ..
+Assim sendo, considerando os critérios punitivo e compensatório da reparação moral, e, ainda, o entendimento que se formou nesta 9ª Câmara Cível a respeito da matéria, tenho que a quantia fixada em inferior instância deve ser majorada para R$15.000,00 (quinze mil reais), por representar importância justa e adequada aos fins a que se destina (fls. 311-313).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
