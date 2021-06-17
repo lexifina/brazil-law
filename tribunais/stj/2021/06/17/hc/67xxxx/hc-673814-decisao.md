@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VAGNER BARRETO DOS SANTOS ALMEIDA contra decisão proferida por esta relatoria no julgamento do Recurso Especial n. 1.723.731-SP.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, como incurso no art. 273, §1º, §1º-A e §1º-B, inciso I, do CP, em aplicação análoga ao art. 33 da Lei n. 11.343/2006, a pena de 5 anos e 10 meses de reclusão em regime semiaberto.
+Irresignadas, as partes apelaram e o Tribunal Regional Federal da 3 Região deu provimento aos recursos. No entanto, aplicou ao paciente, de ofício, o redutor do art. 33, § 4º, da Lei n. 11.343/2006, fixando a reprimenda em 3 anos e 4 meses, em regime prisional inicialmente aberto, e substituindo a pena privativa de liberdade por restritiva de direitos (e-STJ, fls. 110/125).
+Ainda inconformado, o representante ministerial interpôs, neste Tribunal, o Recurso Especial n. 1.723.731/SP, o qual foi provido monocraticamente para afastar a incidência da redutora do tráfico privilegiado, redimensionando a pena do acusado para 5 anos de reclusão, em regime prisional inicialmente semiaberto.
+Em consulta ao sistema Justiça, verifiquei que a defesa do paciente ajuizou, ainda, Revisão Criminal (que foi autuada sob o n. 4869, contra a decisão que deu provimento ao recurso especial, insurgindo-se contra o afastamento do privilégio e o regime adotado), que não foi conhecida pelo Ministro ANTONIO SALDANHA PALHEIRO, já que a redutora foi afastada em decisão monocrática, não tendo sido a questão analisada pelo órgão colegiado correspondente.
+No presente writ (e-STJ, fls. 3/18), o impetrante sustenta haver constrangimento ilegal imposto ao paciente, em razão da alteração da pena procedida no julgamento do recurso especial.
+Aduz que o paciente preenche todos os requisitos para a concessão do redutor do §4º do art. 33, da Lei 11.343/2006, na fração máxima. Nesse sentido, alega que a negativa do benefício se deu sem fundamentação idônea, apenas com base em inquéritos em andamento.
+Uma vez reduzida a pena, argumenta queo paciente fará jus ao regime inicial aberto e à substituição da pena privativa de liberdade por restritivas de direitos.
+Diante disso, requer, liminarmente no mérito, a aplicação da causa especial de redução de pena, prevista no art. 33, § 4º, da Lei n. 11.343/2006, na fração máxima, e o abrandamento do regime e a substituição da pena.
+É o relatório. Decido.
+A impetração não pode ser conhecida.
+Inicialmente, verifico que, como já apontado pela própria defesa, a irresignação manifestada no presente habeas corpus decorre do julgamentodo REsp n. 1.723.731/SP, interposto pela acusação, o qual foi provido monocraticamente para afastar a incidência da redutora do tráfico privilegiado, redimensionando a pena do acusado para 5 anos de reclusão, no regime inicial semiaberto.
+Assim, já tendo sido o tema analisado por esta Corte, incabível nova impetração para tratar das mesmas questões.
+Nesse sentido:
+AGRAVO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO ANTERIOR. AGRAVO NÃO CONHECIDO.
+1. Não se conhece do recurso ordinário em habeas corpus quando a questão nele levantada já foi analisada em outro mandamus, por caracterizar reiteração de pedido.
+2. No caso, deixou-se de analisar o recurso ordinário em habeas corpus, por se tratar de mera reiteração de pedido formulado no RHC n. 58.051/MT.
+3. Agravo regimental não conhecido (AgRg no RHC 60.885/MT, Rel. Ministro ERICSON MARANHO, Sexta Turma, DJe 15/12/2015).
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O NARCOTRÁFICO. CONDENAÇÃO. INDEFERIMENTO DO RECURSO EM LIBERDADE. PRETENDIDA REVOGAÇÃO DA PRISÃO PREVENTIVA. QUESTÃO JÁ DEDUZIDA EM PRÉVIO WRIT. MERA REITERAÇÃO DE PEDIDO. ALEGADO EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. PRINCÍPIO DA RAZOABILIDADE. ELEVADA QUANTIDADE DE PENA APLICADA. AUSÊNCIA DE OFENSA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ORDEM DENEGADA.
+1. Tendo a tese da ilegalidade da prisão preventiva sido levantada em prévio recurso ordinário em habeas corpus interposto perante esta Corte Superior e, constatando-se que já houve o seu exame, tendo sido improvido, não merece conhecimento o writ nesse ponto, por se tratar de mera reiteração de reclamo anteriormente ajuizado.
+ ..
+4. Habeas corpus parcialmente conhecido, nesta extensão, denegada a ordem (HC 318.357/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 28/5/2015).
+Ademais, tendo a impetrante se insurgido contra decisão proferida no julgamento deRecurso Especial, fica evidenciada a incompetência deste Superior Tribunal de Justiça para apreciar e julgar originariamente a causa, nos termos do art. 105 da Constituição Federal. Confira-se:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROVA PRÉ-CONSTITUÍDA. DOCUMENTOS IMPRESCINDÍVEIS PARA A ANÁLISE DAS AVENTADAS ILEGALIDADES. AUSÊNCIA. INSTRUÇÃO DEFICITÁRIA. QUESTÃO DECIDIDA NO SUPERIOR TRIBUNAL DE JUSTIÇA EM RECURSO ESPECIAL. INVIABILIDADE DE REEXAME PELA CORTE LOCAL OU EM WRIT DIRIGIDO AO PRÓPRIO STJ. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL DO HABEAS CORPUS. ADEQUAÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+1. O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, incumbindo ao impetrante o dever de instruí-lo corretamente, com todos os documentos necessários à análise das teses trazidas a julgamento. A instrução deficitária impede o conhecimento do writ e a apreciação de eventual constrangimento ilegal, hábil a ensejar a atuação de ofício por este Superior Tribunal de Justiça. Precedentes.
+2. Revela-se adequada a negativa do Tribunal local em enfrentar, em sede revisional, o mérito de questão dirimida pelo Superior Tribunal de Justiça em anterior recurso especial interposto pelo paciente.
+Tampouco é cabível habeas corpus nesta Corte para impugnar suas próprias decisões, conforme ressai da competência constitucional atribuída ao Superior Tribunal de Justiça no art. 105 da Carta da República.
+3. Agravo regimental improvido (AgRg no HC 341.811/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 3/12/2015, DJe 10/12/2015).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intime-se.
