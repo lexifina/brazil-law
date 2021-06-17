@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por LEONARDO MAX SANTOS NASCIMENTO, em face de decisão que inadmitiu o Recurso Especial, manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS.
+Destaca-se, contudo, que,da análise dos autos, verifica-se que a fls. 1.855/1.881e, o ora Agravante já havia interposto o mesmo recurso, razão pela qual o Agravo em Recurso Especial interposto a fls. 1.883/1.889e não deve ser conhecido.
+Com efeito, vige no direito processual pátrio o princípio da singularidade recursal, segundo o qual, ressalvada expressa previsão legal, contra determinado provimento judicial cabe apenas um recurso.
+Desse modo, o segundo recurso interposto pela mesma parte e contra a mesma decisão não pode ser conhecido, não porque intempestivo, mas porque ocorrida a preclusão consumativa.
+Nesse sentido:
+"PROCESSUAL CIVIL. AÇÃO DE REVISÃO CONTRATUAL. DÉBITO EM CONTA CORRENTE.LIMITAÇÃO DE DESCONTOS A 30% DO VALOR DA REMUNERAÇÃO. PRECLUSÃOCONSUMATIVA E VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE.
+(..)
+II - No caso de interposição de dois recursos pela mesma parte e contra amesma decisão, apenas o primeiro poderá ser submetido à análise, em faceda preclusão consumativa e do princípio da unicidaderecursal, que proíbea interposição simultânea de mais de um recurso contra a mesma decisãojudicial. Nesse sentido: AgInt no AREsp 1.064.235/SP, Rel. Ministro MauroCampbell Marques, Segunda Turma, julgado em 8/6/2017, DJe 14/6/2017; EDclno AgRg no AREsp 799.126/RS, Rel. Ministro João Otávio de Noronha,Terceira Turma, DJe de 9/6/2016; AgRg no REsp 1.525.945/RJ, Rel. MinistroJoel Ilan Paciornik, Quinta Turma, DJe de EDcl no AgInt no AREsp1.037.203/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em27/6/2017, DJe 30/6/2017.
+III - Agravo interno improvido"(STJ, AgInt no REsp 1.850.233/DF, Rel. Ministro FRANCISCO FALCÃO, SEGUNDATURMA, DJe de 30/09/2020).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.SEGUNDOS EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA A MESMA DECISÃO. NÃOCABIMENTO. OBSERVÂNCIA AO PRINCÍPIO DA UNICIDADE OU UNIRRECORRIBILIDADERECURSAL. RECONHECIMENTO DA PRECLUSÃO CONSUMATIVA. EMBARGOS DE DECLARAÇÃONÃO CONHECIDOS.
+1. Adotado pelo ordenamento jurídico brasileiro o princípio da unicidadeou unirrecorribilidade recursal, caracteriza-se a preclusão consumativaquando interposto mais de um recurso contra a mesma decisão. Precedente.1.1. No caso, os presentes embargos de declaração são o segundo recursointerposto em desafio à mesma decisão já impugnada, o que evidencia a suainadmissão.
+2. Embargos de declaração não conhecidos" (STJ, EDcl no AgInt no AREsp1.654.974/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de03/08/2020).
+"ADMINISTRATIVO. ATO DE IMPROBIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE. NÃOCABIMENTO DE INTERPOSIÇÃO DE MAIS DE UM RECURSO. ACÓRDÃO EM CONFORMIDADECOM A JURISPRUDÊNCIA DESTA CORTE.
+(..)
+VII - Porém, revela-se defeso a interposição simultânea de dois recursospela mesma parte contra o mesmo ato judicial, diante do princípio daunirrecorribilidade ou singularidade recursal. Desse modo, a preclusãoconsumativa impede o exame do recurso que tenha sido protocolizado porúltimo, que, no presente caso, é a apelação de fls. 1.022/1.063, porqueconsumada a faculdade de recorrer. Nessa linha: AgRg no AREsp 792437 / RJAGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL 2015/0251411-9, Rel.Ministro HERMAN BENJAMIN, SEGUNDATURMA, julgado em 15/12/2015, DJe02/02/2016; EDcl nos EREsp 1135460 / RS EMBARGOS DE DECLARAÇÃO NOSEMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL 2014/0122776-7, Rel. MinistroHUMBERTO MARTINS, CORTE ESPECIAL, julgado em 26/03/2017, DJe 05/04/2017.
+(..)"(STJ, AgInt no REsp 1.720.809/GO, Rel.Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 28/10/2019).
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do Agravo em Recurso Especial de fls. 1.883/1.889e.
+I.
