@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL. CONTRATO DE CONTA CORRENTE/CHEQUE ESPECIAL. VIOLAÇÃO À DIALETICIDADE. ALEGAÇÃO EM CONTRARRAZÕES. NÃO ACOLHIMENTO. CAPITALIZAÇÃO MENSAL DE JUROS. ALEGAÇÃO GENÉRICA. EXPURGO. INADMIS SIBILIDADE. JUROS REMUNERATÓRIO S. EXCESSO CONSIDERÁVEL ANTE A MÉDIA DE MERCADO. NÃO DEMONSTRAÇÃO. TAXAS PRATICADAS. MANUTENÇÃO. SENTENÇA MANTIDA.
+1. Não há violação ao princípio da dialeticidade, quando a parte recorrente impugnar os fundamentos adotados na decisão recorrida.
+2. Não procede o pedido de expurgo da capitalização mensal de juros quando, a respeito do tema, o interessado limitar-se a tecer alegações genéricas, sem vinculação ao episódio examinado.
+3. Impõe-se a manutenção dos juros remuneratórios praticados, caso não comprovado excesso ante a média de mercado. 4. Apelação cível conhecida e não provida.
+Em juízo de retratação, nos termos do artigo 1.030, II, do Código de Processo Civil, a Corte estadual proferiu julgamento que foi assim ementado:
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL. CONTRATO DE CONTA CORRENTE/CHEQUE ESPECIAL. JUÍZO DE RETRATAÇÃO. ARTIGO 1.030, II, DO CÓDIGO DE PROCESSO CIVIL DE 2015. JUROS REMUNERATÓRIOS. ABUSIVIDADE. NÃO RECONHECIMENTO. PARÂMETRO. MÉDIA DE MERCADO. REQUISITO. EXCESSO CONSIDERÁVEL. NÃO DEMONSTRAÇÃO. ENTENDIMENTO EM CONSONÂNCIA AO RECURSOESPECIAL REPETITIVO N. 1.112.879/PR E SÚMULA N.º 530, DO SUPERIOR TRIBUNAL DE JUSTIÇA. JUÍZO DE RETRATAÇÃO NÃO EXERCIDO.
+1. Devem ser mantidos os juros remuneratórios praticados, quando não demonstrado excesso considerável em relação à média de mercado.
+2. Constatado que o entendimento adotado no julgamento de recurso de apelação está em consonância com a orientação firmada pelo Superior Tribunal de Justiça, em recurso repetitivo, não cabe exercício de juízo de retratação.
+3. Juízo de retratação não exercido.
+Acena-se com dissídio jurisprudencial sob o argumento de que, diante da ausência do contrato bancário, os juros remuneratórios não poderiam ser capitalizados e deveriam ser limitados à taxa média de mercado para operação da mesma espécie.
+Assim delimitada a controvérsia, passo a decidir.
+Quanto à capitalização, consignou o Tribunal local "que a empresa autora limitou-se a requerer o afastamento da capitalização apenas em tese, de forma genérica, sem ao menos indicar em quais períodos e como a sistemática aplicada ensejou a ocorrência de capitalização" (e-STJ, fl. 574), fundamento que, todavia, não foi impugnado pela recorrente, a atrair o disposto no verbete n. 283 da Súmula do Supremo Tribunal Federal.
+No exame dos juros remuneratórios, de outro lado, concluiu que, "ainda que a parte autora alegue ausência de prova da pactuação dos juros remuneratórios no contrato de conta corrente, impende esclarecer que, segundo entende a Corte Superior, os juros remuneratórios devem ser limitados à taxa média somente quando demonstrado que as taxas praticadas pelo banco superam consideravelmente esse patamar" (e-STJ, fl. 576)
+O enunciado n. 530 da Súmula desta Corte, todavia, professa entendimento de que a ausência de prova da pactuação da taxa de juros sujeita, por si só, sua limitação à média de mercado.
+Acontece que, em continuação da análise do tema, concluiu a Corte local que,"no caso dos autos, nem sequer há indícios de queos juros remuneratórioscobrados pela instituição financeira excederam a média de mercado" (e-STJ, fl. 577), fundamento de fato cujo reexame esbarra nas disposições do verbete n. 7 da Súmula desta Casa.
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
