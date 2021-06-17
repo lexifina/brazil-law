@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado por AGENCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim resumido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS (ANP). AUTO DE INFRAÇÃO E INTERDIÇÃO DE ESTABELECIMENTO. VENDA DE GAS LIQUEFEITO DE PETRÓLEO (GLP) PARA ESTABELECIMENTOS NÃO AUTORIZADOS. CAUTELARIDADE DA MEDIDA DE INTERDIÇÃO. REQUISITO NÃO ATENDIDO DEPOIS DE DECORRIDOS QUASE TRÊS MESES DO ATO INFRATOR. SENTENÇA MANTIDA. APELAÇÃO E REMESSA OFICIAL, NÃO PROVIDAS.
+1. Hipótese em que se constata a lavratura do Auto de Infração e de Interdição n. 141 710 12 24 387278, em 25.10.2012, pela ANP, em decorrência da prisão de empregado do posto revendedor de GLP, que foi flagrado vendendo botijões cheios de 13 Kg a 3 (três) empresas não autorizadas, conforme apurado no Inquérito Policial n. 022/2012.
+2. O ato de suspensão temporária, total ou parcial do funcionamento do estabelecimento comercial infrator encontra respaldo na legislação pertinente.
+3. Ocorre que o art. 5º, caput, da Lei n. 9.847/1999, prevê a aplicação da sanção como medida cautelar, de modo que está correto o magistrado a quo, ao concluir que a interdição ocorrida quase 3 (três) meses depois de constatada a prisão em flagrante do empregado da impetrante carece do requisito acautelatório que caracteriza a medida adotada pela ANP.
+4. Apelação e remessa oficial, não providas (fl. 133).
+A parte recorrente, pela alínea "c" do permissivo constitucional, alega violação do art. 5º, I e II, da Lei n. 9.847/99, no que concerne ao requisito temporal para a aplicação de medida de interdição de estabelecimento, trazendo os seguintes argumentos:
+Ora, a medida cautelar de interdição é um procedimento intentado para prevenir, conservar ou defender direitos dos usuários, mas não dispensa o devido processo legal, que garante ampla defesa e o contraditório ao revendedor. Por isso mesmo a Lei não prevê requisito temporal para sua implementação, cabendo à ANP a análise quanto a sua conveniência e oportunidade.
+ ..
+Noutros termos, o cidadão/empresário precisa conhecer a Lei e como seu descumprimento será tratado pelos Poderes Legislativo, Executivo e Judiciário, que devem adotar comportamentos que transmitam segurança das expectativas, sem a inserção da surpresa e da arbitrariedade (segurança de orientação juridicamente informada) (fls. 152/153).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Do exame dos autos, constata-se a lavratura do Auto de Infração e de Interdição n. 141 710 12 24 387278, em 25.10.2012, pela ANP, em decorrência da prisão de Anselmo Tinoco Martins, empregado do posto revendedor de GLP, que foi flagrado vendendo botijões cheios de 13 Kg a 3 (três) empresas não autorizadas a revender o produto, conforme apurado no Inquérito Policial n. 022/2012 (fls. 19-21).
+Consta dos autos cópia do auto de prisão em flagrante (fls. 22-25).
+A Lei n. 9.847/1999 estabelece em seu art. 1º:
+ ..
+O artigo 2º, inciso VI, da aludida Lei, por sua vez, assim está redigido:
+ ..
+O ato de suspensão temporária, total ou parcial do funcionamento do estabelecimento comercial infrator, portanto, encontra respaldo na legislação pertinente, como se vê.
+Ocorre que o art. 5º é claro ao determinar:
+ ..
+Não há nada a ser reparado na sentença recorrida. Correto o magistrado a quo ao concluir que a interdição ocorrida quase 3 (três) meses depois de constatada a prisão em flagrante do empregado da impetrante carece do requisito acautelatório da medida adotada pela ANP, razão por que não há como subsistir (fls. 136/137).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; e AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
