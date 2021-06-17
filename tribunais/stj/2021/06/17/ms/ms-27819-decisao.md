@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de mandado de segurança, com pedido de liminar, impetrado pelo espólio de Hamilton de Batista, representado pela inventariante Maria do Carmo Carneiro da Costa, em que se indica, como autoridade impetrada, a Ministra de Estado da Mulher, da Família e dos Direitos Humanos, e, como ato coator, a Portaria MMFDH n.º 1.558, de 5 de junho de 2020, publicada no D. O. U de 8 de junho de 2020 (fl. 41), mediante a qual foi anulada a anterior Portaria MJ n.º 1.453, de 28 de maio de 2004, instrumento que reconhecera a condição de anistiado político ao falecido ex militar, dando-lhe, em decorrência, direito à reparação econômica.
+O impetrante requer a concessão da liminar para "determinar que a autoridade coatora  ..  suspenda os efeitos da portaria de n. 1.558, de 5 de junho de 2020, que anulou a Portaria Anistiadora do impetrante, até a decisão do mérito do presente mandamus"(fl. 16).
+Representação regular (fl. 17).
+Gratuidade de justiça deferida pela Presidência (fl. 103).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Mediante a impetração do presente writ, almeja o Autor obter a concessão da ordem "para o fito de se reconhecer a violação do direito ao devido processo legal, no que pertine ao procedimento administrativo instaurado com a notificação de n. 578/2019/DGTI/CCP/CGP/CA, relativo à revisão/anulação da anistia do Impetrante, sendo, ipso facto, declarada sua nulidade, a partir da citada notificação e, consequentemente, restabelecida a Portaria de Anistia de n. 1.453, de 238 de maio de 2004, que concedeu anistia ao impetrante, da lavra do Ministro de Estado da Justiça" (fl. 16).
+Ocorre que a apontada notificação, encartada por cópia às fls. 39/40 destes autos, foi expedida aos 7 de janeiro de 2020 e o ato revogador da anistia, Portaria MMFDH n. 1.558, de 5 de junho de 2020, foi publicada no DOU de 8 de junho de junho do mesmo ano.
+Todavia, a presente ação mandamental foi apresentada a esta Corte somente em 11/06/201, quando já superado, há muito, o prazo decadencial previsto no art. 23 da lei n. 12.016/2009:
+Art. 23. O direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias contados da ciência, pelo interessado, do ato impugnado.
+Em razão da apontada decadência, não é possível conhecer da ação. Caberá ao impetrante, se assim o desejar, socorrer-se do que lhe faculta o art. 19 da lei de regência para pleitear, por ação própria, o direito que entende ter.
+ANTE O EXPOSTO, com fundamento nos artigos 10 da Lei do mandado de segurança e 34, XIX, do RISTJ, indefiro, liminarmente, a petição inicial e denego a ordem, extinguindo o feito sem resolução de mérito, prejudicado, com essa decisão, o exame do pedido de liminar.
+Sem honorários advocatícios, nos termos do art. 25 da Lei n. 12.016/2009 e Súmula 105/STJ.
+Publique-se.
