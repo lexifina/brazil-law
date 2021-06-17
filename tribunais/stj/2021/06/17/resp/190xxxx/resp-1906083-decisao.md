@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por EMERSON ALVES SENE, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TJ/SP, assim ementado (e-STJ, fls. 462-468):
+"Apelação. Apropriação indébita. Sentença condenatória. Apeloministerial requerendo a elevação da pena imposta. Advogado quecelebrada acordo extrajudicial em nome da vítima e se apropria devalores devidos à cliente.Pena-base fixada no mínimo legal. Impossibilidade de valorar naprimeira fase a qualidade de advogado. Circunstância já valoradana terceira fase, quando da aplicação da causa de aumento.Vedação ao bis in idem.Segunda fase. Cabimento da agravante do art. 61, II, h. Vítimacom 64 anos na data dos fatos. Acréscimo em 1/6.Arrependimento posterior. Pleito de afastamento. Inviabilidade.Não se exige espontaneidade, bastando a voluntariedade daconduta. Irrelevância de ser o ressarcimento feito após ainstauração de inquérito policial, bastando ser anterior aorecebimento da denúncia. Benefício mantido. Porém, a fração deveser alterada de 2/3 para 1/3, devido à demora de 3 anos para arestituição dos valores.Regime aberto e substituição mantidas. Apelo ministerialparcialmente provido".
+Os embargos de declaração foram rejeitados (e-STJ, fls. 483-487).
+Em suas razões recursais, a parte recorrente aponta violação doart. 61, II, "h", do CP, bem como dos arts. 155, parágrafo único, e 617 do CPP. Aduz para tanto, em síntese, que: (I) a pretensão punitiva estaria prescrita, porque o crime fora praticado em janeiro de 2009, enquanto o recebimento da denúncia ocorreu somente em 12/1/2015; (II) inexistiria documento comprobatório da idade da vítima, para fazer incidir a agravante da senilidade; e (III) como a apelação somente postulou o afastamento da minorante do arrependimento posterior, o TJ/SP não poderia tê-la mantido em patamar inferior ao consignado na sentença, porque isso não foi pedido peloParquet.
+Com contrarrazões (e-STJ, fls. 515-525), o apelo nobre foi admitido na origem (e-STJ, fls. 528-529).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 540-542).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+Sobre a prescrição, a Corte de origem constatou que o crime foi praticado em julho de 2010 (e-STJ, fl. 464), ao contrário do que aduz a defesa, quando já estava em vigor a Lei 12.234/2010. Assim, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+Quanto à segunda fase da dosimetria da pena, o TJ/SP verificou que a idade da vítima foi atestada pela autoridade policial, que conferiu seudocumento de identidade(e-STJ, fl. 486). Assim, é legítima a incidência da agravante, como já se pronunciou este STJ:
+PENAL E PROCESSUAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.
+ART. 61, INCISO II, ALÍNEA "H", DO CÓDIGO PENAL. COMPROVAÇÃO DA IDADE DA VÍTIMA. INFORMAÇÃO EXTRAÍDA DE DOCUMENTOS QUE GOZAM DE FÉ PÚBLICA.
+VALIDADE.
+1. A jurisprudência desta Corte Superior de Justiça consolidou-se no sentido de que o documento hábil para se comprovar a idade da vítima não se restringe ao registro civil, sendo outros documentos dotados de fé pública igualmente hábeis para a comprovação da idade.
+2. Pela leitura do acórdão recorrido, proferido nos embargos de declaração, é possível aferir que a idade da vítima (maior de 60 anos) foi consignada em boletim de ocorrência e nas declarações prestadas em juízo, gozando tais documentos de presunção de veracidade, uma vez que emanados de autoridade pública.
+Assim, havendo comprovação idônea, por documento hábil da idade da vítima, não há como afastar a referida agravante.
+3. Agravo regimental não provido.
+(AgRg no REsp 1504789/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/02/2016, DJe 23/02/2016)
+Por fim, também não vislumbro a ocorrência dereformatio in pejus. Com efeito, se a apelação ministerial pediu o completo afastamento da minorante do arrependimento posterior (e-STJ, fls. 415-417), de modo a elevar a pena do réu, é lícito ao órgão julgador dar-lhe parcial provimento, para manter a causa de diminuição em patamar inferior ao aplicado pelo juízoa quo. Com efeito, se comparada à medida postulada pelo MP/SP, a situação jurídica do réu é mais benéfica, porque o provimento total do recurso resultaria em pena maior. A esse respeito,mutatis mutandis:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 1º, I, DA LEI N.8.137/90. ABSOLVIÇÃO. RESTABELECIMENTO DA CONDENAÇÃO QUANTO AO CRIME DO ART. 299 DO CÓDIGO PENAL. POSSIBILIDADE. INEXISTÊNCIA DE CONFLITO APARENTE DE NORMAS. PRINCÍPIO DA CONSUNÇÃO. AFASTAMENTO. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O princípio da consunção destina-se a solucionar conflito aparente de normas, onde, a despeito da pluralidade de atos criminosos, o agente responderá apenas pelo crime-fim, restando o crime-meio absorvido por aquele, a fim de evitar o indesejável bis in idem.
+2. Restando o agente absolvido quanto ao crime-fim, viável sua condenação quanto ao crime-meio diante da inexistência de normas penais simultaneamente incidentes sob os fatos delituosos, situação que afasta, por si só, a aplicação do princípio da consunção.
+3. O princípio da non reformatio in pejus impede que, em recurso exclusivo da defesa, ocorra uma piora na situação jurídica do réu.
+Não há que se falar em reformatio in pejus quando o julgamento do recurso afasta condenação mais gravosa (crime-fim) que implica, automaticamente, no restabelecimento de decreto condenatório anterior (crime-meio) por infração menos grave e com reprimenda menor, diante da manifesta melhora na esfera jurídica do recorrente.
+4. Agravo regimental a que se nega provimento".
+(AgRg no REsp 1535884/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2015, DJe 17/09/2015)
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do Regimento Interno do STJ,conheço em partedo recurso especial e, nesta extensão,nego-lhe provimento.
+Publique-se. Intimem-se.
