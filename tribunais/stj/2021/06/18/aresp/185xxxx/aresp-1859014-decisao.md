@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Thiago Caetano da Silva e Juliana Cristina Caetano da Silva, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 487):
+APELAÇÃO - Ação de indenização por danos morais - Compromisso de compra e venda de imóvel - Prazo para indenização que é prescricional e não decadencial Prescrição inocorrente - Autores que adquiriram um apartamento térreo com área externa privativa - Construção de caixas de gordura, esgoto e área pluvial - Pericia realizada que demostrou a regularidade das caixas, além de previsão no memorial descritivo e projeto inicialNão demonstração de falta de informação, omissão ou engodo - Danos decorrentes da quebra de expectativa de construção de jardim privativo, mau cheiro e necessidade de manutenções preventivas - Experiências desagradáveis mas que não configuram o dano de natureza moral no caso - Recurso provido para julgar improcedente a ação.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 591-595).
+Em suas razões de recurso especial (e-STJ, fls. 495-511), os agravantes alegaram violação aos arts. 186 e 927 do Código Civil de 2002 e 6º, III, 31, 37, §§ 1º e 3º, 39, VIII, e 54, § 4º, do Código de Defesa do Consumidor,bem como a existência de dissídio jurisprudencial.
+Sustentaram, em síntese, ser cabível o pleito indenizatório, ante o sofrimento e angústia a que foram submetidos, que fogem do mero dissabor cotidiano. Requereram, dessa forma, o provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ, fls. 599-603).
+O processamento do apelo especial não foi admitido pela Corte local, levando a parte insurgente a interpor o presente agravo.
+Contraminuta não apresentada (e-STJ, fls. 615-618).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nas razões do presente recurso, osagravantes apontam terem cumprido com todos os requisitos exigidos para conhecimento e julgamento do recurso especial. Constatados os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+Com relação ao reconhecimento dos danos morais, o Tribunal de origem dirimiu a controvérsia sob os seguintes aspectos (e-STJ, fls. 490-491):
+Nesse contexto, muito embora não se negue que vivenciar a expectativa frustrada de construir uma área privativa dos sonhos, assim como ter que suportar manutenção preventiva e mau cheiro provenientes das caixas de gorduras tenha sido uma experiência desagradável, os fatos não passaram da esfera do mero aborrecimento, inserindo-se dentre os dissabores do cotidiano da vida moderna, sendo indenizáveis.
+Como se sabe, o reconhecimento de dano de natureza extrapatrimonial exige mais que aborrecimentos, exige ofensa a direitos da personalidade, vexame, humilhação, a serem aferidos caso a caso, o que sequer fora descrito pelos autores.
+Diante das informações acima extraídas, para desconstituir a convicção formada pelo Colegiado a quo, entendendo que os danos morais estariam caracterizados, seria indispensável o reexame de fatose provas, providência inadmitida na via extraordinária, ante o óbice doenunciado n. 7 da Súmula do STJ.
+Ademais, não se pode conhecer do recurso também pela alíneac, uma vez que, aplicada a Súmula n. 7/STJ quanto à alíneaa, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo, e não do entendimento diverso sobre uma mesma questão legal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte agravada em 2% sobre o valor atualizado da causa.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. REVISÃO DAS CONCLUSÕES DO ARESTO IMPUGNADO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
