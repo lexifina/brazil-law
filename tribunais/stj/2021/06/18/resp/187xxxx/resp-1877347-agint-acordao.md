@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino (Presidente) e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. 1. JULGAMENTO MONOCRÁTICO. CABIMENTO. SÚMULA 568/STJ. 2. AÇÃO DE EXIGIR CONTAS. PRIMEIRA FASE. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. CABIMENTO. POSSIBILIDADE. PRECEDENTES. 3. AGRAVO INTERNO DESPROVIDO.
+1. Os arts. 932, V, do CPC/2015; 34, XVIII, c, e 255, § 4º, III, do RISTJ devem ser interpretados, conjuntamente, com a Súmula 568/STJ, a qual dispõe que "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+1.1. Nessas hipóteses, não há se falar em usurpação de competência dos órgãos colegiados diante do julgamento monocrático do recurso, estando o princípio da colegialidade preservado ante a possibilidade de submissão da decisão singular ao controle recursal por meio da interposição de agravo interno.
+2. Consoante orientação do STJ, "a despeito da alteração, pelo novo diploma processual civil, da natureza jurídica do provimento jurisdicional que encerra a primeira fase da ação de exigir contas quando há a procedência do pedido, não há razões para que seja alterada a forma da condenação ao pagamento das verbas da sucumbência antes admitida sob a vigência do anterior código, afinal, o conteúdo do pronunciamento jurisdicional permaneceu o mesmo" (REsp 1.874.603/DF, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 3/11/2020, DJe 19/11/2020).
+3. Outrossim, é "cabível na primeira fase da ação de prestação a condenação em honorários advocatícios" (AgInt no REsp 1.829.646/DF, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/12/2020, DJe 18/12/2020).
+4.Agravo interno desprovido.
+RELATÓRIO
+Cuida-se, na origem, de agravo de instrumento interposto por J. S. Freitas & Cia Ltda e Jhonathas Aparecido Guimarães Sucupira contra decisão do Juízo da Segunda Vara Cível de Brasília que, nos autos da ação de prestação de contas, movida em desfavor do HSBC Bank Brasil S.A. - Banco Múltiplo, julgou procedente a primeira fase do procedimento, contudo, deixou as custas e honorários para serem tratados na segunda fase.
+A Segunda Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios negou provimento à insurgência, em acórdão assim ementado (e-STJ, fls. 346-352):
+AGRAVO DE INSTRUMENTO. PRESTAÇÃO DE CONTAS. PRIMEIRA FASE. NATUREZA JURÍDICA DE DECISÃO INTERLOCUTÓRIA. CABIMENTO DO AGRAVO. CONDENAÇÃO EM VERBA SUCUMBENCIAL. INVIABILIDADE. DECISÃO MANTIDA.
+1. Trata-se de agravo de instrumento interposto contra a decisão que, nos autos da ação de conhecimento (prestação de contas), julgou procedente a primeira fase e impôs ao réu o dever de prestá-las na forma prevista no artigo 551 do CPC, porém deixou os honorários advocatícios e custas processuais a serem definidas no término da segunda fase.
+2. O colendo Superior Tribunal de Justiça, ao abordar a questão, entendeu que "o ato judicial que encerra a primeira fase da ação de exigir contas possuirá, a depender de seu conteúdo, diferentes naturezas jurídicas: se julgada procedente a primeira fase da ação de exigir contas, o ato judicial será decisão interlocutória com conteúdo de decisão parcial de mérito, impugnável por agravo de instrumento; se julgada improcedente a primeira fase da ação de exigir contas ou se extinto o processo sem a resolução (REsp 1746337/RS, Rel. de seu mérito, o ato judicial será sentença, impugnável por apelação." Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 09/04/2019, DJe 12/04/2019)
+3. Julgada procedente a primeira fase de exigir contas, não há se falar em condenação em custas processuais e honorários advocatícios de sucumbência, em razão de não ostentar o aludido ato judicial a natureza jurídica de sentença. Precedentes.
+4. Recurso conhecido e desprovido. Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, J. S. Freitas & Cia Ltda e Jhonathas Aparecido Guimarães Sucupira apontaram, além de divergência jurisprudencial, ofensa ao art. 85 do CPC/2015.
+Defenderam que, julgada procedente a primeira fase da ação de prestação de contas, de rigor a condenação do réu ao pagamento dos ônus sucumbenciais.
+Contrarrazões apresentadas às fls. 457-469 (e-STJ).
+Em decisão monocrática proferida por este signatário, deu-se provimento ao recurso especial a fim de fixar a verba honorária em R$ 5.000,00 (cinco mil reais), nos termos do art. 85, § 8º, do CPC/2015.
+A decisão está assim ementada (e-STJ, fls. 489-493):
+RECURSO ESPECIAL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXIGIR CONTAS. PRIMEIRA FASE. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. CABIMENTO. POSSIBILIDADE. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 547-550).
+Inconformado, o Banco Bradesco S.A. interpõe agravo interno (e-STJ, fls. 507-520), alegando ser indevido o julgamento monocrático, haja vista que a inexistência de entendimento dominante no STJ acerca da matéria.
+Defende que, havendo procedência do pedido na primeira fase da ação de exigir contas, o provimento temnatureza de decisão interlocutória, razão pela qual não cabea condenação em honorários advocatícios.
+Aduz, ainda, a incidência das Súmulas 283, 284 e291 do STF, diante da faltade clareza e objetividade nas razões do recurso especial.
+Impugnação apresentada às fls. 526-544(e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. 1. JULGAMENTO MONOCRÁTICO. CABIMENTO. SÚMULA 568/STJ. 2. AÇÃO DE EXIGIR CONTAS. PRIMEIRA FASE. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. CABIMENTO. POSSIBILIDADE. PRECEDENTES. 3. AGRAVO INTERNO DESPROVIDO.
+1. Os arts. 932, V, do CPC/2015; 34, XVIII, c, e 255, § 4º, III, do RISTJ devem ser interpretados, conjuntamente, com a Súmula 568/STJ, a qual dispõe que "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+1.1. Nessas hipóteses, não há se falar em usurpação de competência dos órgãos colegiados diante do julgamento monocrático do recurso, estando o princípio da colegialidade preservado ante a possibilidade de submissão da decisão singular ao controle recursal por meio da interposição de agravo interno.
+2. Consoante orientação do STJ, "a despeito da alteração, pelo novo diploma processual civil, da natureza jurídica do provimento jurisdicional que encerra a primeira fase da ação de exigir contas quando há a procedência do pedido, não há razões para que seja alterada a forma da condenação ao pagamento das verbas da sucumbência antes admitida sob a vigência do anterior código, afinal, o conteúdo do pronunciamento jurisdicional permaneceu o mesmo" (REsp 1.874.603/DF, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 3/11/2020, DJe 19/11/2020).
+3. Outrossim, é "cabível na primeira fase da ação de prestação a condenação em honorários advocatícios" (AgInt no REsp 1.829.646/DF, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/12/2020, DJe 18/12/2020).
+4.Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pela instituição financeiranão são capazes de modificar as conclusões da decisão agravada.
+De início, quanto à alegada impossibilidade de julgamento monocrático, é preciso ressaltar que o art. 932, III, do CPC/2015 estabelece como atribuição do relator não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Outrossim, os arts. 34, XVIII, e 255, § 4º, do RISTJ autorizam o relator a decidir monocraticamente para não conhecer do recurso inadmissível, prejudicado ou daquele que não tiver impugnado especificamente todos os fundamentos da decisão recorrida.
+Na mesma linha, a Corte Especial do Superior Tribunal de Justiça editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Nessas hipóteses, não há falar em usurpação de competência dos órgãos colegiados diante do julgamento monocrático do recurso, porquanto o princípio da colegialidade é resguardado pela possibilidade de submissão da decisão singular ao controle recursal por meio da interposição de agravo interno, como ocorre na espécie.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. COMPROMISSO DE COMPRA E VENDA. ATRASO PARA ENTREGA DE UNIDADE IMOBILIÁRIA. CASO FORTUITO OU FORÇA MAIOR. NÃO OCORRÊNCIA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. DANO MORAL. OCORRÊNCIA. JULGAMENTO "EXTRA PETITA". NÃO OCORRÊNCIA.
+1. O relator está autorizado a decidir monocraticamente recurso fundado em jurisprudência dominante. Ademais, eventual nulidade da decisão singular fica superada com a apreciação do tema pelo órgão colegiado em agravo regimental.
+2. O Tribunal de Justiça de origem analisou as provas contidas no processo para afastar a alegação de caso fortuito ou força maior.
+3. Alterar esse entendimento demandaria reexame do conjunto probatório do processo, vedado em recurso especial.
+4. Existência de julgados no âmbito do Superior Tribunal de Justiça no sentido de que o atraso da promitente vendedora em entregar o imóvel no prazo contratual, injustificadamente, não acarreta, por si só, danos morais.
+5. Por outro lado, a jurisprudência do Superior Tribunal de Justiça entende cabível a indenização por danos morais, nos casos de atraso na entrega do imóvel, quando este ultrapassar o limite do mero dissabor.
+6. Na hipótese dos autos, o Tribunal de Justiça reconheceu a existência de dano moral em razão de o atraso na entrega do imóvel ter perdurado por mais de dois anos.
+7. Conforme a jurisprudência do Superior Tribunal de Justiça, se a controvérsia é decidida dentro dos limites delineados na petição inicial, não há falar em julgamento extra, citra ou ultra petita.
+8. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+9. AGRAVO INTERNO CONHECIDO E DESPROVIDO. (AgInt nos EDcl no REsp 1.764.598/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 21/9/2020, DJe 24/9/2020, sem grifo no original)
+No mérito, propriamente, da insurgênciaveiculada, é de se reconhecer quea decisão ora agravada, no que se refere ao cabimento de honoráriosadvocatícios ao ensejo da decisão que julga procedente ou parcialmenteprocedente a primeira fase da ação de prestação de contas, não comportanenhuma censura, pois se encontra, sim, em consonância com ajurisprudência do Superior Tribunal de Justiça, inclusive em interpretaçãodada sob a égide do Código de Processo Civil de 2015.
+Veja-se, a esse propósito, que esta Terceira Turma do STJ,sem descuidardo fato deque, a partir do novo diploma processual, a decisão que julgaprocedente (ou parcialmente procedente) a primeira fase da ação deprestação de contasnão é concebida como sentença, mas, sim,como decisãointerlocutória, compreende que, justamente por decidir o mérito do pedido,tal decisumcomporta a condenação em honorários advocatícios.
+Refiro-me aos seguinte julgado:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS.PRIMEIRA FASE. DECISÃO PARCIAL DE MÉRITO. HONORÁRIOS ADVOCATÍCIOS.CABIMENTO.
+1. Ação de exigir contas, tendo em vista descontos supostamenteinjustificados e desconhecidos efetuados na conta corrente da autora.
+2. Ação ajuizada em 09/05/2019. Recurso especial concluso ao gabinete em
+05/08/2020. Julgamento: CPC/2015.
+3. O propósito recursal é definir se é cabível a fixação de verbahonorária na primeira fase da ação de exigir contas.
+4. A ação de exigir contas ocorre em duas fases distintas e sucessivas -na primeira, discute-se sobre o dever de prestar contas; na segunda,declarado o dever de prestar contas, serão elas julgadas e apreciadas, se apresentadas.
+5. À luz do CPC/2015, o ato judicial que encerra a primeira fase da açãode exigir contas possuirá, a depender de seu conteúdo, diferentesnaturezas jurídicas: se julgada procedente a primeira fase da ação deexigir contas, o ato judicial será decisão interlocutória com conteúdo dedecisão parcial de mérito, impugnável por agravo de instrumento; sejulgada improcedente a primeira fase da ação de exigir contas ou seextinto o processo sem a resolução de seu mérito, o ato judicial serásentença, impugnável por apelação.
+6. A despeito da alteração, pelo novo diploma processual civil, danatureza jurídica do provimento jurisdicional que encerra a primeira faseda ação de exigir contas quando há a procedência do pedido, não há razõespara que seja alterada a forma da condenação ao pagamento das verbas dasucumbência antes admitida sob a vigência do anterior código, afinal, oconteúdo do pronunciamento jurisdicional permaneceu o mesmo.
+7. Com a procedência do pedido do autor (condenação à prestação das contasexigidas), o réu fica vencido na primeira fase da ação de exigir contas,devendo arcar com os honorários advocatícios como consequência doprincípio da sucumbência.
+8. Recurso especial conhecido e provido.
+(REsp N. 1.874.603/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em3/11/2020, DJe 19/11/2020)
+Nessa linha, sob à égide do CPC/2015, cita-se julgado da Quarta Turma doSTJ:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PRESTAÇÃO DE CONTAS. VIOLAÇÃO AOSARTS. 489 E 1.022, DO CPC. NÃO OCORRÊNCIA. ILEGITIMIDADE ATIVA. AUSÊNCIADE INTERESSE DE AGIR. IMPROCEDÊNCIA. CONCLUSÕES EMBASADAS NAS PROVAS DOSAUTOS. SÚMULA 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. PRIMEIRA FASE. CABIMENTO.AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art.1.022 do Código de Processo Civil. Isso porque, embora rejeitados osembargos de declaração, a matéria em exame foi devidamente enfrentada peloTribunal de origem, que emitiu pronunciamento de forma fundamentada, aindaque em sentido contrário à pretensão do recorrente.
+2. Em relação à fundamentação do acórdão, observa-se que, medianteconvicção formada do exame feito aos elementos fático-probatórios dosautos, o acórdão tratou de forma clara e suficiente a controvérsiaapresentada, lançando fundamentação jurídica sólida para o desfecho dalide, apenas não foi ao encontro da pretensão da parte recorrente, o queestá longe de significar violação ao art.489 do CPC/15.
+3. As matérias previstas nos arts. 10 e 550, § 5º, do Código de ProcessoCivil, não foram objeto de debate no acórdão recorrido, nem nos embargosde declaração opostos. A falta do necessário prequestionamento inviabilizao exame da alegada contrariedade ao dispositivo citado por este Tribunal,em sede de especial. Incidência na espécie da Súmula 211/STJ.
+4. No presente caso, o acolhimento da pretensão recursal quanto ailegitimidade ativa da parte e falta de interesse de agir, demandaria aalteração das premissas fático-probatórias estabelecidas pelo acórdãorecorrido, com o revolvimento das provas carreadas aos autos, o que évedado em sede de recurso especial, nos termos do enunciado da Súmula 7 doSTJ.
+5. Cabível na primeira fase da ação de prestação a condenação emhonorários advocatícios. Precedentes.
+6. Agravo interno não provido.
+(AgInt no REsp n.1.829.646/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTATURMA, julgado em 10/12/2020, DJe 18/12/2020)
+Desse modo, afigura-se correta a decisão agravada, quanto aocabimento de honorários advocatícios ao ensejo da decisão que julga procedente ou parcialmente procedente a primeira fase da ação de prestação de contas.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
