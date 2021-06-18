@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze, Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RAZÕES RECURSAIS QUE NÃO INDICAM QUALQUER VÍCIO QUE PUDESSE JUSTIFICAR A OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS.
+EMBARGOS DE DECLARAÇÃO REJEITADOS.
+RELATÓRIO
+Trata-se de embargos de declaração no agravo interno no agravo em recurso especial opostos por JOÃO LEONILDOCAPUCI contra acórdão assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO NÃO INFIRMADO ESPECIFICAMENTE. ARTIGO 1.021, § 1º, CPC/2015.
+AGRAVO INTERNO NÃO CONHECIDO.
+Nas razões deste recurso, o embargante afirma que "o Recurso Especial interposto pelo ora Embargante busca o direito de ter as provas testemunhais produzidas na fase de instrução da demanda, apreciadas pelo n. julgador em sua decisão, uma vez que o presente caso se trata exatamente do previsto nos artigos 444 e 445 do CPC, sendo que ignorar as referidas provas, como feito, viola os mencionados dispositivoslegais". Assevera que o acórdão recorrido não teria apreciado o fato de que o recorrente nas razões de seu recurso especial teria havido "a indicação clara dos dispositivos de normas federais violados, bem como a cristalina demonstração da controvérsia fixada", nem as "minúcias do caso concreto-constantes do v. acórdão recorrido". Sustenta que se teria ignorado "a intensa relação comercial existente entre as partes e a rotina da realização de pagamentos em favor de terceiros, devidamente comprovadas pelas provas testemunhais, fato este que ficou reconhecido taxativamente pela r. sentença de primeiro grau, a qual inclusive destacou os depoimentos que comprovam a regularidade dos procedimentos, tendo-os por suficientes". Assevera que o entendimento deste Tribunal Superior seria no sentido de que "os princípios norteadores dos títulos de créditos-Princípios da literalidade, da autonomia e da abstração-são fortemente fragilizados quando o título de crédito não entra em circulação", de modo que como na espécie "o litígio versa entre credor originário e devedor, torna-se uma obrigação,comum, podendo ser provada por todos os meios em direito admitidas, em especial, o testemunhal", razão pela qual não haveria "qualquer óbice da Súmula 284/STF ao Recurso Especial". Enfatiza que o Tribunal a quo teria violado os artigos 444 e 445 do Código de Processo Civil, pois teria ignorado "as provas testemunhais argumentando que não seriam admitidas para comprovar pagamento de dívida, matéria em que a lei exigiria prova documental", tese que não encontraria óbice na Súmula 7/STJ.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RAZÕES RECURSAIS QUE NÃO INDICAM QUALQUER VÍCIO QUE PUDESSE JUSTIFICAR A OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS.
+EMBARGOS DE DECLARAÇÃO REJEITADOS.
+VOTO
+Eminentes colegas, os embargos devem ser rejeitados.
+Os embargos de declaração são um recurso de fundamentação vinculada, destinando-se unicamente a "esclarecer obscuridade ou eliminar contradição"; "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento"; ou "corrigir erro material", conforme dispõe o artigo 1.022 do Código de Processo Civil.
+Trata-se, assim, de recurso destinado a sanar eventuais falhas na estrutura argumentativa da decisão, na concatenação das ideias apresentadas, ou omissões quanto ao substrato fático ou jurídico relevantes ao julgamento do feito.
+Nestes termos, somente haverá omissão a justificar a oposição de embargos declaratórios caso haja questão, ao menos a priori, apta a alterar o quanto decidido, sendo prescindível que haja apreciação expressa de questões manifestamente incapazes de influir na decisão embargada.
+Se, na espécie, o agravo interno sequer foi conhecido, pois as razões apresentadas não impugnaram de maneira específica a qualquer dos fundamentos apresentados na decisão monocrática para deixar de conhecer do recurso especial, somente se poderia falar em omissão quanto a questões aptas a alterar esta conclusão. Em outras palavras, somente se poderia falar em omissão se algum dos argumentos apresentados no agravo interno tivesse deixado de ser apreciado e pudesse ter evidenciando equívoco no quanto decidido.
+Na espécie, todavia, não há a indicação disto, argumentando o embargante como se estivesse interpondo agravo interno contra a decisão monocrática, questionando o mérito da decisão monocrática, não do acórdão embargado, razão pela qual não há que se falar em vício a ser sanado.
+Advirto ao embargante que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Ante o exposto, rejeito os embargos declaratórios.
+É o voto.
