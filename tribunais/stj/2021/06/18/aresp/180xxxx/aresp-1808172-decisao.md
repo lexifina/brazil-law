@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravointerposto por LUANA ELLEN RIBEIRO DA CONCEIÇÃO contra decisão que inadmitiu recurso especial aviado, com fundamento na alínea "a" do permissivo constitucional, contraoTribunal de Justiça doEstadode São Paulo, que, no julgamento da Apelação Criminal n. 0002581-42.2017.8.26.0535,negou provimento ao reclamo, mantendo integralmente a sentença que a condenou à pena de 1 ano, 11 meses e 10 dias de reclusão, em regime inicial fechado.
+No recurso especial, postuloua defesa, em síntese, que, condenadaaagravanteà pena inferior a 4anos de reclusão, pelo delito de tráfico de drogas, crime cometido sem violência ou grave ameaça, inexistentes circunstâncias judiciaisdesfavoráveis,e não se revestindo a conduta de gravidade, cabível a fixação do regime inicial aberto e a substituição da pena privativa, nos termos dos arts. 33, §§ 2º e 3º, e 44, ambos do Código Penal.
+Contrarrazões apresentadas.
+Inadmitido, o recurso seguiu a esta Corte por meio de agravo.
+O Ministério Público Federal opinou pelo provimentodo recurso.
+É o relatório.
+Decido.
+Acerca da irresignação recursal, essa Corte já decidiu que "adosimetria da pena e o seu regime de cumprimento inserem-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade."(AgRg no AgRg no AREsp n. 1718143/MT, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 11/5/2021, DJe 17/5/2021).
+O Tribunal de origem manteve o regime inicial fechado e o afastamento da substituição, sob o fundamento de que a conduta da agravante, consistente em tentativa de ingresso de entorpecentes em penitenciária, revestia-se de maior gravidade.
+Todavia, entendo que, ante a primariedade daacusada, a favorabilidade de todas ascircunstâncias judiciais, a apreensão dequantidade não relevante de droga -aproximadamente 122g (cento e vinte e dois gramas) de maconha-, o fundamento utilizado pelas instâncias ordinárias, a meu ver, não justificam a imposição deregime mais gravoso e o indeferimento da substituição da pena.
+A propósito:
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA.MINORANTE DO ART. 33, § 4º, DA LEI DE DROGAS. AUSÊNCIA DE INDICAÇÃO DE FUNDAMENTO CONCRETO. APLICAÇÃO EM 2/3. REGIME INICIAL ABERTO E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. ORDEM CONCEDIDA.
+1. O art. 33, § 4º, da Lei de Drogas prevê a possibilidade de redução da reprimenda, na terceira fase da dosimetria, de 1/6 a 2/3, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+2. Esta Corte superior entende ser possível, para fins de modulação do redutor mencionado, a utilização da quantidade, natureza, diversidade dos entorpecentes apreendidos, bem como a gravidade concreta do delito demonstrada pelas circunstâncias do crime.
+3. Entretanto, o fato de a agente ter tentado entrar com drogas, escondidas em partes do seu corpo, dentro do presídio com o objetivo de entregar ao seu marido, não constitui fundamento concreto a fim de mitigar a aplicação da benesse. Razão pela qual a ordem deve ser concedida, no ponto, para fixar a fração máxima prevista, qual seja, 2/3.
+4. Afastado o fundamento utilizado para justificar o agravamento do regime inicial e a negativa da conversão da pena privativa em restritiva, e fixada a pena final em patamar inferior a 4 anos de reclusão, o regime inicial deve ser alterado para o aberto e a pena privativa de liberdade substituída por restritiva de direitos.
+5. Habeas corpus concedido para reduzir a pena final a 1 ano, 11 meses e 10 dias de reclusão, mais 194 dias-multa, alterar o regime inicial para o aberto e substituir a pena privativa de liberdade por restritiva de direitos.
+(HC 532.434/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/11/2019, DJe 22/11/2019, grifei).
+Nesse sentido, inclusive, a manifestação doParquet, in verbis (e-STJ fls. 335 e 341):
+Na hipótese, verifica-se não ter sido dada a correta interpretação aos dispostos nos arts. 33 do CP e 42 da Lei de Drogas, pois a pena definitiva foi fixada em 1 ano, 11 meses e 10 dias de reclusão, razão pela qual o regime aberto é o cabível à espécie, considerando as circunstâncias preponderantes.
+Portanto, no caso, é possível estabelecer o regime apropriado para cumprimento da pena, em atenção ao art. 33, §§2º e 3o do Código Penal.
+Ademais, diante das reiteradas decisões dos Juízes e Tribunais de Justiça, desalinhadas ao entendimento firmado pela Corte Especial, o STJ fixou no julgamento do HC coletivo 596.603 - SP a impropriedade da fixação do regime fechado aos sentenciados a 1 ano e 8 meses de reclusão pelo crime de tráfico privilegiado sob a mesma situação fático- jurídica, determinando-se a fixação do regime aberto e a imediata expedição de alvarás de soltura aos presos beneficiados pelas medidas elencadas naquele acórdão.
+ ..
+Assim, o regime prisional aberto se mostra adequado e proporcional à gravidade e circunstâncias do delito em espécie, bem como pelo tempo em que a agravante permaneceu presa no curso processual, devendo essa instância analisar a possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, uma vez que preenchidos os requisitos do art. 44, do Código Penal.
+Desse modo, fixo o regime inicial aberto para desconto da reprimenda imposta à recorrente e determino a sua substituição por restritivas de direitos a serem definidas pelo Juízo da Execução.
+Ante o exposto, conheço do agravo e douprovimento ao recurso especial, nos termos ora delineados.
+Publique-se. Intimem-se.
