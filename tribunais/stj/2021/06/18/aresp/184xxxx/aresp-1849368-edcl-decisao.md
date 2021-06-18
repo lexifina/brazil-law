@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CEREALISTA COMIMPEX LTDA E OUTROS à decisão de fls. 2519/2520, que não conheceu do recurso.
+Sustenta a parte embargante que:
+8. A decisão embargada considerou que o Recurso Especial foi deserto e aplicou o óbice sumular nº 187/STJ. No entanto, há que se considerar o contexto fático-jurídico a fim de afastar tal formalismo exacerbado.
+9. No dia 11.11.2016, foram protocolizados vários Recursos Especiais no TRF4 e, em todos eles, houve o recolhimento de custas tempestivamente.
+10. Em três Recursos Especiais, especificamente, houve um equívoco no tocante à guia de custas e o comprovante de pagamento. Tanto que, ao chegar nesta Presidência do STJ, os Especiais foram barrados por suposta ausência de recolhimento do preparo.
+11. Essa situação foi identificada nos AREsps nºs 1.849.351/RS, 1.849.369/RS e no presente Agravo em Recurso Especial (nº 1.849.368/RS). Todos os recursos foram interpostos pelas mesmas partes e no mesmo dia (11.11.2016) (fl. 2523).
+ ..
+12. O equívoco ocorreu na juntada dos respectivos comprovantes de pagamento de cada um dos três Recursos Especiais, o que não implica necessariamente na conclusão de que os recursos são desertos (tal como afirmou a decisão ora Embargada). Todas as três guias de custas emitidas e juntadas aos autos foram efetivamente pagas no dia 09.11.2016 (inclusive a deste processo).
+13. O comprovante de pagamento da guia referente ao REsp interposto neste feito foi acostado, por mero equívoco, aos autos do AREsp nº 1.849.369 (Doc. 01). Ou seja, a guia deste REsp foi paga no dia 09.11.2016, conforme comprovante ora anexado. O único equívoco foi juntá-lo em outro processo.
+ ..
+15. No entanto, tal equívoco não afastou a possibilidade das ora Embargantes de regularizar o preparo nos dois outros Agravos em REsp.
+16. No AREsp nº 1.849.351/RS, esta Ilustre Presidência, ao constatar que o código de barras do comprovante de pagamento juntado pelas Embargantes não coincidia com o constante na guia de custas, as intimou para comprovar o recolhimento em dobro, na forma do artigo 1.007, §4º, do CPC/15. As Embargantes, então, regularizaram o preparo do Especial (fl. 2524).
+17. Igualmente ocorreu no AREsp nº 1.849.369/RS, no qual as Embargantes foram intimadas para comprovar o recolhimento em dobro, conforme previsão legal, ocasião na qual regularizaram o preparo.
+18. No entanto, no presente AREsp, o recurso não foi conhecido, retirando das ora Embargantes a oportunidade de regularizar o preparo, com o pagamento em dobro das custas (o que faz neste momento processual - Doc. 02).
+19. Há, no caso em tela, um verdadeiro formalismo exacerbado, visto que a decisão monocrática afastou das Embargantes a possibilidade de regularizar o preparo do seu Recurso Especial, tal como ocorreu nos dois outros processos (fl. 2525).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que a petição de recurso especial foi protocolada, na origem, sem comprovante de recolhimento das custas judiciais.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgInt no AREsp 1569257/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/6/2020; e AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020.
+No caso, mesmo após a intimação da parte, no Tribunal de origem, para sanear o vício, não houve a devida regularização, uma vez que apresentou comprovante de pagamento, à fl. 2291, com código de barras divergente do constante nas guias de fls. 2280 e 2291.
+Registre-se que este STJ consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020.)
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo, viabilizando a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+Veja-se que, ao contrário do alegado pelos embargantes, o caso dos autos difere do apresentado no AREsp 1.849.351 e AREsp 1.849.369, uma vez que, na espécie, a parte já havia sido intimada na origem e apresentou o preparo com irregularidade (fls. 2290/2291), assim, não há que se falar em nova intimação nesta Corte.
+Portanto, não tendo cumprido a determinação, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+No mais, registre-se que não importa se o recolhimento das custas judiciais foi efetuado na mesma data, ou em data anterior à apresentação do recurso especial, ou mesmo dentro do prazo concedido para regularização do vício, a questão envolve o momento da comprovação do recolhimento.
+Assim, ainda que tenha recolhido o valor referente às custas no interregno do prazo recursal ou do prazo para regularização, de nada adiantará se a parte não apresentar a devida comprovação desse recolhimento no momento oportuno.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/1973. APELAÇÃO. PREPARO.COMPROVANTE DE AGENDAMENTO DE PAGAMENTO. MEIO INIDÔNEO. DESERÇÃO.DECISÃO MANTIDA.
+1. O Superior Tribunal de Justiça, sob a égide do CPC de 1973, consolidou o entendimento de que a juntada do comprovante de agendamento não constitui meio apto à demonstração do preparo.Precedentes.
+2. "O recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal" (AgInt no AgRg no REsp n. 1.545.154/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/9/2017, DJe 2/10/2017).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 636.866/GO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 20/02/2020.)
+Somente agora, em sede destes aclaratórios a parte trouxe o devido comprovante de pagamento e a guia de recolhimento com o fim de regularizar o preparo, no entanto, não podem ser aceitos, em razão da preclusão. (AgInt no AREsp 1399586/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 3/12/2019; e AgInt nos EDcl nos EREsp 1454030/SP, relator Ministro Francisco Falcão, Cortes Especial, DJe de 26/11/2019.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
