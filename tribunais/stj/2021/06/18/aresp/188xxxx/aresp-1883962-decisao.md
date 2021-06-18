@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo (art. 1.042, do CPC/15), interposto por MAURÍCIO BONALDO eWALTER BONALDO FILHO, contra decisão que não admitiu recurso especial.
+O apelo nobre, amparado naalínea"a" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 676/680, e-STJ):
+Ação indenizatória. Alegação de inexistência de relação jurídica, afirmando-se que os apelantes, de par com os documentos do autor e falsificando sua assinatura, fraudulentamente, cederam suas quotas, fazendo-o constar como sócio. Laudo pericial atestando a falsidade da assinatura. Responsabilidade dos recorrentes verificada, porque não demonstrados fatos modificativos, impeditivos ou extintivos do direito do autor. Ato ilícito e responsabilidade civil reconhecidos.
+Juros de mora. Responsabilidade extracontratual decorrente de ato ilícito. Contagem a partir do evento danoso, conforme Súmula 54 do STJ.
+Recurso desprovido.
+Em suas razões de recurso especial (fls. 683/700, e-STJ), os recorrentes apontam ofensa aos artigos 186 e 407, do CC.
+Sustentam, em síntese, que apesar do decidido, "cederam as quotas sociais da empresa Ilusion de forma licita, não tendo conhecimento dos fatos alegados em exordial, assumindo com todas as obrigações tributárias, trabalhistas e comerciais decorrentes de sua administração, não recebendo nenhuma vantagem pela alegada fraude, e, desta forma, cabível a pretendida reforma do R. Acordão de fls." (fl. 692, e-STJ).
+Refutam, de igual forma, a condenação por danos morais. Aduzem, para tanto, que meros aborrecimentos da vida cotidiana não se revelam suficientes para caracterizar o aludido abalo psicológico supostamente suportados pelo autor.
+Insurgem-se, por fim, contra o termo inicial dos juros de mora. Defendem que sua incidência deve ocorrer a partir da sentença, momento em que restou determinado oquantum indenizatório.
+Contrarrazões às fls. 705/712 (e-STJ).
+Em juízo prévio de admissibilidade (fls. 713/716, e-STJ), negou-se o processamento do recurso especial, sob os seguintesfundamentos: i)impossibilidade de se analisar, na presente esfera recursal, suposta afronta a preceitos da Constituição da República; ii)conformidade entre o entendimento firmado pela instância de origem e a orientação jurisprudencial firmada por esta Colenda Corte, no que tange ao termo inicial dos juros de mora;iii)ausência de demonstração de ofensa ao art. 186, do CC; eIV)incidência do óbice contido na Súmula 7/STJ.
+Daí o presente agravo (fls. 719/737, e-STJ), buscando destrancar o processamento do apelo especial, no qual os insurgentes alegam superficialmente terpreenchido os pressupostos de admissibilidade, oportunidade em que sustentam o prequestionamento dos dispositivos de lei tidos como vulnerados, assim como refutam a necessidade de revolvimento dos elemento de prova constantes dos autos.
+Contraminuta àsl .s 764/770 (e-STJ).
+É o relatório.
+Decido.
+O recurso não é admissível, por violação ao princípio da dialeticidade.
+1.Com efeito, a parte recorrente limitou-se a renegar, genericamente, o juízo de admissibilidade realizado na origem, repisando os argumentos deduzidos no apelo nobre, sem, contudo, efetivamente demonstrar a inadequação dos óbices invocados.
+Conforme acima relatado, negou-se o processamento do recurso especial, sob os seguintes fundamentos (fls. 713/716, e-STJ): i) impossibilidade de se analisar, na presente esfera recursal, suposta afronta a preceitos da Constituição da República; ii) conformidade entre o entendimento firmado pela instância de origem e a orientação jurisprudencial firmada por esta Colenda Corte, no que tange ao termo inicial dos juros de mora; iii) ausência de demonstração de ofensa ao art. 186, do CC; e IV) incidência do óbice contido na Súmula 7/STJ.
+Todavia, em uma análise detida das razões de agravo (art. 1.042, do CPC/15), depreende-se que, relativamenteàconformidade entre o entendimento firmado pela instância de origem e a orientação jurisprudencial firmada por esta Colenda Corte, quanto ao termo inicial dos juros de mora - Súmula 83/STJ -a obstar a subida do especial às instâncias superiores, verifica-se que a parte agravante não discorreu qualquer consideração apta a combater oreferidoimpedimento.
+Como é cediço, a falta de ataque específico aos fundamentos da decisão agravada encontra óbice na Súmula 182/STJ e no artigo 932, III, do NCPC:
+Art. 932.Incumbe ao relator:
+(..)
+III - não conhecer de recurso inadmissível, prejudicado ouque não tenha impugnado especificamente os fundamentos da decisão recorrida; (grifos acrescidos)
+Conforme já decidiu o STJ,"à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira ademonstrarque o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja,não bastaque façaalegações genéricasem sentido contrário às afirmações do julgado contra o qual se insurge"(AgRg no Ag 1.056.913/SP, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 26.11.2008 - grifos nossos).
+E, ainda, "Inexistindo impugnação específicaao decisum impugnado,restou desatendido o princípio da dialeticidade, motivo pelo qual incide, no caso em exame, por analogia, a Súmula n. 182/STJ: "É inviável o exame do agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (AgRg no AgRg nos EAREsp 557.525/PR, Rel. Ministro Jorge Mussi, Corte Especial, DJe 14/12/2015).
+2.Do exposto, com fulcro no art. 932, III, do CPC/2015, e na aplicação, por analogia, do Enunciado n. 182 da Súmula deste STJ, não conheço agravo em recurso especial e,com base no art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor dos honorários sucumbenciais fixados pelo Tribunal de origem em favor da parte ora recorrida.
+Publique-se.
+Intimem-se.
