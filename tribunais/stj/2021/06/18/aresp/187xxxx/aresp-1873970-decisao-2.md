@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto JOÃO ALVES - ESPÓLIO contra decisão do Tribunal Regional Federal da 3ª Região que negou seguimento ao recurso especial, com apoio na Súmula 7/STJ (alíneas "a" e "c").
+Em suas razões de agravo em recurso especial, sustenta o agravante a desnecessidade de reexame do conjunto fático-probatório para o deslinde da demanda recursal.
+O recurso especial que se pretende o seguimento, impugna acórdão assim ementado:
+PREVIDENCIARIO. AGRAVO DE INSTRUMENTO. ÓBITO DO AUTOR NO CURSO DADEMANDA. SUSPENSÃO DO PROCESSO. PRESCRIÇÃO INTERCORRENTE. INOCORRÊNCIA. NULIDADE. INEXISTÊNCIA. AUSÊNCIA DE PREJUIZO. EXTINÇÃODO MANDATO. DEVOLUÇÃO DE VALORES LEVANTADOS A MAIOR
+.- A morte da parte autora é causa de extinção do mandato do advogado, nos termos do art. 682, inc. II, do Código Civil, necessitando, para regular processamento do feito, a habilitação dos sucessores e a regularização da representação processual.
+- O falecimento da parte implica na suspensão do processo, durante o qual não pode ser praticado nenhum ato processual nem corre prazo algum, consoante o disposto no art. 313,inc. I e § 1º, do Código de Processo Civil.
+- Não tendo havido a habilitação dos sucessores até o presente momento, também não há que se falar em prescrição da execução, que, não obstante ocorra no mesmo prazo da prescrição da ação, nos termos do art. 1º, do Decreto nº 20.910/32 e Súmula 150 do STF, no caso de morte ou perda da capacidade de uma das partes ou do representante legal, o processo deve ser suspenso até a intimação dos herdeiros ou sucessores para a habilitação, pois, é da intimação dos mesmos que passará a contar o prazo prescricional.
+- Não obstante a prescrição da execução ocorrer no mesmo prazo da prescrição da ação, nos termos do art. 1º, do Decreto nº 20.910/32 e Súmula 150 do STF, no caso de morte ou perda da capacidade de uma das partes ou do representante legal, o processo deve ser suspenso até a intimação dos herdeiros ou sucessores para a habilitação, pois, é da intimação dos mesmos que passará a contar o prazo prescricional.
+- A prescrição intercorrente ocorrerá desde que haja paralisação da execução por inércia do exequente, por período superior a 5 anos, o que no caso analisado não ocorreu. Denota-se que não transcorreu o lapso prescricional entre o trânsito em julgado da fase de conhecimento e o início da execução.
+- A lei não estabeleceu prazo para a habilitação dos sucessores, que pode se dar a qualquer tempo.
+- Não há que se falar na ocorrência de prescrição intercorrente.
+- Não vislumbro a presença de nulidade processual até o trânsito em julgado do processo de conhecimento, vez que não contemplo a existência de qualquer prejuízo às partes pelo julgamento do feito, na medida em que os interesses de todos os litigantes foram preservados reputo válidos os atos praticados até a prolação do v. acórdão que concedeu o benefício.
+- Quanto à fase de execução, o prejuízo da Autarquia é evidente já que os cálculos foram apresentados desde a DIB (2004) até o trânsito em julgado ocorrido em 2012, sendo que o autor faleceu em 2008, acarretando excesso de execução.- Viável o prosseguimento da execução, com apresentação de novos cálculos, em atenção ao princípio da economia processual.
+- O advogado da parte autora levantou os valores referentes à verba sucumbencial, tomou conhecimento do falecimento da parte, que até então representava, e ingressou com o pedido de abertura de inventário, no qual foi nomeado inventariante e deferido o levantamento dos honorários contratuais.
+- Os cálculos deverão ser refeitos adequando-se o termo final ao óbito do segurado, impondo-se a restituição ao Juízo dos valores levantados a maior pelo advogado, transferindo-se o valor dos sucessores ao Juízo do Inventário em estrita observância às regras de direito vigentes.
+- Agravo de instrumento parcialmente provido.
+Os embargos declaratórios opostos pelo INSS foram rejeitados.
+No recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, o recorrente sustenta violação aos artigos violação aos artigos 278 e 535 do CPC/2015.
+Pleiteia "que se reconheça a preclusão da discussão perpetrada pela Autarquia acerca do quantum devido nos autos bem como reconheça a incompetência da Justiça Federal, remetendo as questões para as vias ordinárias e para o Juízo do Inventário".
+Nas razões de agravo, a parteagravante postula o processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+Não houve contraminuta ao agravo.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ:"Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+Dessume-se dos autos que a decisão que negou seguimento ao recurso especial baseou-se noargumentode que pretensão veiculada enseja orevolvimento de matéria fático-probatória, o que encontra óbice na Súmula 7/STJ, aplicável tanto para a insurgênciafundada na alínea "a" do permissivo constitucional, quanto na alínea "c".
+Contudo, do exame do agravo interposto, observa-se que o agravante se furtou de impugnar específica e suficientemente este fundamento, restringindo-se a reiterar as teses expostas no apelo nobre.
+Competia à parte agravante demonstrar de que maneira o recurso especial, de fato, não depende de reanálise do conjunto fático-probatório - deixando claro, por exemplo, que todos os fatos estão devidamente consignados no acórdão recorrido; o que não aconteceu, conforme se pode observar das razões do agravo.
+Assim, na esteira do entendimento desta Corte Superior, não obedece ao comando do art. 932, III, do CPC/2015 (correspondente ao art. 544, § 4.º, inciso I, do CPC/1973), o agravo que não tenha atacado especifica e fundamentadamente todos os fundamentos da decisão de inadmissibilidade.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A teor do disposto nos arts. 544, § 4º, I, do CPC/1973 e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos da decisão de inadmissibilidade do apelo nobre, sejam eles autônomos ou não, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+3. O princípio da dialeticidade recursal impõe ao recorrente o ônus de explicitar os motivos pelos quais a decisão recorrida deve ser reformada, trazendo argumentações capazes de demonstrar o seu desacerto, sob pena de vê-la mantida por seus próprios fundamentos.
+4. Na hipótese, o agravante não se desincumbiu do ônus de impugnar, de forma clara e direita, os motivos que levaram o Tribunal de origem a inadmitir o apelo extremo, notadamente a aplicação do óbice da Súmula 7 desta Corte, em flagrante desrespeito ao princípio da dialeticidade.
+5. Agravo interno desprovido.(AgInt no AREsp 443.001/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23/06/2016, DJe 18/08/2016)
+PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE PROCESSAMENTO DO RECURSO ESPECIAL. SÚMULA 182 DO STJ.
+1. É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula 182 do STJ.
+2. A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada.
+3. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Agravo interno não conhecido.(AgInt no REsp 1600403/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/08/2016, DJe 31/08/2016)
+Relembre-se que arevaloração jurídica de provas em recurso de naturezaespecial pressupõe que, para as mesmas premissas de fatos (as quais são jungidas aos autos com soberania pela Corte a quo), seja possível determinar outra consequência jurídica. O pedido de revaloração, em casotal, deve conter, necessariamente, a demonstração de duas coisas: (a) oquadro fático, tal como delineado no decisum objurgado; (b) o resultadojurídico resultante de má aplicação do direito federal (sem olvidar osoutros limites processuais e constitucionais da via recursal).
+O pedidogenérico de afastamento da incidência da Súmula7/STJ constitui defeitograve de fundamentação recursal, que leva ao não conhecimento da matériaarguida.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 3/STJ. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
