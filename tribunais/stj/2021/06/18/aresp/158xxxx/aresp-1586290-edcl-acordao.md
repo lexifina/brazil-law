@@ -1,0 +1,94 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino (Presidente), Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECURSO INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. VÍCIOS DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. No caso, o acórdão embargado não incorreu nos vícios apontados, tendo concluído, fundamentadamenteque, mesmo considerando-se a comprovação do feriado da segunda-feira de Carnaval, o agravo se mostra intempestivo, pois o término do prazo recursal se daria nodia 25/3/2019 (segunda-feira).
+4.O entendimento desta Corte orienta-se no sentido de que eventual falha na digitalização dos autos deve ser demonstrada por meio de certidão comprobatória do Tribunal local, de modo que é insuficiente a mera afirmação da parte recorrente.
+7. Embargos de declaração rejeitados.
+RELATÓRIO
+LETÍCIA TERESINHA FINK (LETÍCIA) ajuizou ação de consignação em pagamento contra BANCO SANTANDER (BRASIL) S.A. pretendendo redução do valor da prestação contratada em contrato de alienação fiduciária de imóvel.
+Em primeira instância, o pedido foi julgado improcedente, ocasião em que LETÍCIA foi condenada ao pagamento das custas processuais e honorários advocatícios fixados em 10% sobre o valor atualizado da causa (e-STJ, fls. 25/26).
+A apelação interposta por LETÍCIA não foi provida pelo Tribunal de Justiça do Paraná, em acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO CONTRATO DE COMPRA E VENDA DE IMÓVEL E FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. NÃO APRECIAÇÃO DE TODOS OS PEDIDOS FORMULADOS NA INICIAL. ALEGAÇÃO DE NULIDADE. POR AUSÊNCIA DE FUNDAMENTAÇÃO. TESE REPELIDA. PEDIDO INICIAL RESTRITO À CONSIGNAÇÃO EM PAGAMENTO. ANÁLISE REALIZADA PELO JUIZO A QUO, QUE ENTENDEU PELA INADEQUAÇÃO DA VIA ELEITA. RECURSO NÃO PROVIDO (e-STJ, fl. 103).
+Os embargos de declaração opostos por LETÍCIA foram rejeitados (e-STJ, fls.146/153).
+Inconformada, LETÍCIA interpôs recurso especial com base no art. 105, III, a, da CF, alegando a violação dos arts. 11, 326, 374, II e III, 489, II, § 1º, IV; 505, 507 e 1.022, I e II, e parágrafo único, II, do NCPC; 471 e 473 da Lei nº 5.869/73.
+Em juízo de admissibilidade, a vice-presidência do TJPR inadmitiu o apelo nobre (e-STJ, fls. 236/239).
+Seguiu-se o agravo em recurso especial interposto por LETÍCIA que, em decisão monocrática da relatoria do então Ministro Presidente do STJ, JOÃO OTÁVIO DE NORONHA, não foi conhecido, com amparo no art. 21-E, V, do RISTJ, em razão de sua intempestividade (e-STJ, fls. 298/299).
+O agravo interno interposto por LETÍCIA não foi provido pela Terceira Turma, nos termos do acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECURSO INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recurso especial foi protocolado na vigência do NCPC, atraindo a aplicabilidade do art. 1.003, § 6º, do NCPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a sua demonstração quando interposto o recurso. Entendimento da Corte Especial.
+3. No caso concreto, mesmo admitindo-se a comprovação do feriado da segunda-feira de Carnaval, o término do prazo recursal se daria no dia no dia 23/3/2019 (sábado), estendendo-se até o dia 25/3/2019 (segunda-feira), portanto, o agravo é mesmo intempestivo.
+5. Agravo interno não provido (e-STJ, fls. 341/342).
+Nas razões dos presentes embargos de declaração, LETÍCIA alegou que (1)o acórdão embargado foi omisso, contraditório eincorreu em erro material no que se refere à ausência de digitalização de documento essencial à prova da tempestividade do recurso; e,(2)apesar do vencimento do prazo para a interposição doagravo em recurso especial no dia 25/03/2019, o protocolo do original no egrégio Tribunal a quo, realizado apenas três dias após (28/3/2019), não éintempestivo, poisno dia 25/3/2019(vencimento do prazo processual)enviou pelo correio e também via fax a irresignação recursal manuseada, destacando que houvefalha na digitalização de tais peças pelo STJ.
+Foi apresentada impugnação (e-STJ, fls. 368/369).
+É o relatório.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos contra acórdão publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da inexistência de violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão.
+Logo, a mera veiculação de inconformismo com o resultado do julgamento, que a parte reputa lhe ter sido desfavorável, não é finalidade a que se presta a via eleita.
+A propósito, confiram-se os precedentes:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM PEDIDOS DE OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANOS MORAIS. CONTRADIÇÃO. OMISSÃO. OBSCURIDADE. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação de indenização por danos materiais cumulada com pedidos de obrigação de fazer e compensação por danos morais.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui- se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.524.835/SE, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. em 17/2/2020, DJe 19/2/2020 - sem destaque no original)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. IMPUGNAÇÃO DE DECISÃO ANTERIOR AO JULGAMENTO PROFERIDO NO AGRAVO INTERNO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+3. "Os embargos de declaração devem ter como objeto apenas o decisum embargado, não se prestando para sanar eventual vício ocorrido em decisão judicial anterior, em face da ocorrência da preclusão.  ..  Nos termos do enunciado n.º 317 da Súmula do Supremo Tribunal, "São improcedentes os embargos declaratórios, quando não pedida a declaração do julgado anterior, em que se verificou a omissão" (EDcl nos EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no REsp 1.267.160/PR, Rel. Ministra Laurita Vaz, Corte Especial, DJe de 30/8/2016).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.427.815/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. em 17/2/2020, DJe 20/2/2020 - sem destaques no original)
+Nas razões deste aclaratório, LETÍCIA alegouque (1) o acórdão embargado foi omisso, contraditório e incorreu em erro material no que se refere à ausência de digitalização de documento essencial à prova da tempestividade do recurso; e, (2) apesar do vencimento do prazo para a interposição do agravo em recurso especial no dia 25/3/2019, o protocolo do original no egrégio Tribunal a quo, realizado apenas três dias após (28/3/2019), não é intempestivo, pois no dia 25/3/2019 (vencimento do prazo processual)enviou pelo correio e também via fax a irresignação recursal manuseada, destacando que houve falha na digitalização de tais peças pelo STJ.
+Há que se destacar, todavia, que o acórdão embargado não foi obscuro, omisso ou contraditório,tampouco apresentou erro material, tendo concluído, fundamentadamente que, mesmo considerando-se a comprovação do feriado da segunda-feira de Carnaval,o agravo seria intempestivo, pois otérmino do prazo recursal se daria no dia 25/3/2019 (segunda-feira).
+Por relevantes, transcrevem-se os seguintes trechos do voto proferido no julgamento do agravo interno:
+A tese de LETÍCIA de que seu agravo em recurso especial foi interposto dentro do prazo, considerando a ocorrência de suspensão do prazo recursal, não pode ser acolhida por ausência de comprovação no momento oportuno.
+À época da vigência do CPC/73, era firme a jurisprudência desta Corte no sentido de que eventual suspensão do prazo recursal, decorrente de ausência de expediente, recesso forense, feriados locais, paralisação ou interrupção do expediente, poderia ser demonstrada no agravo contra a decisão que reconhecia a intempestividade, desde que a comprovação se desse por documento oficial ou certidão expedida pelo Tribunal local.
+Contudo, o entendimento não pode ser aplicado ao caso dos autos, na medida em que o apelo nobre foi interposto já sob a égide do NCPC, de forma que deve ser por ele regido (Enunciado Administrativo nº 3, aprovado pelo Superior Tribunal de Justiça Plenário do STJ na sessão de 9/3/2016).
+É que o art. 1.003, § 6º, do NCPC não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a demonstração quando interposto o recurso.
+A propósito, veja-se o seguinte julgado:
+(..)
+Ademais, a Corte Especial, aos 20/11/2017, ao julgar o AREsp nº 957.821/MS (acórdão publicado aos 19/12/2017), assentou que o NCPC foi taxativo ao estipular que a comprovação do feriado local seja feita no ato da interposição do recurso.
+Nesse sentido, a Ministra NANCY ANDRIGHI, que lavrou o acórdão, concluiu que ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso e, em consequência, opera-se a coisa julgada.
+Confira-se a ementa a seguir:
+(..)
+Acrescente-se, ainda, que a Corte Especial do STJ, por maioria de votos, após o julgamento da Questão de Ordem no REsp nº 1.813.684, ocorrido aos 3/2/2020, firmou o posicionamento no sentido de que a possibilidade de comprovação do feriado local em momento posterior somente tem incidência quando o recurso (especial ou agravo em recurso especial) foi interposto antes do julgamento do citado apelo extremo e desde que a controvérsia somente gire em torno do feriado da segunda-feira de Carnaval.
+Veja-se a ementa:
+(..)
+No caso dos autos, verifica-se que a decisão que inadmitiu o recurso especial foi publicada no DJe aos 28/2/2019, iniciando-se a contagem de prazo no dia 1º/3/2019 (e-STJ, fl. 240), com término no dia 22/3/2019 (sexta-feira), e sua interposição somente se deu aos 28/3/2019 (quinta-feira - e-STJ, fl. 263), deve ser reconhecida a sua intempestividade, já que interposto fora do prazo de 15 dias, nos termos dos arts. 219, caput, e 1.003, § 5º, do NCPC, sem a demonstração da ocorrência de feriados locais, no momento oportuno e por documento idôneo.
+De qualquer forma, mesmo admitindo-se a comprovação do feriado da segunda-feira de Carnaval, o término do prazo recursal se daria no dia 23/3/2019 (sábado), estendendo-se até o dia 25/3/2019 (segunda-feira), portanto, o agravo é mesmo intempestivo.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno (e-STJ, fls. 343/346 - sem destaque no original).
+Ademais, o entendimento desta Corte também se orienta no sentido de que eventual falha na digitalização dos autos deve ser demonstrada por meio de certidão comprobatória do Tribunal estadual, de modo que é insuficiente a mera afirmação da parte embargante.
+A propósito, vejam-se estes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. ART. 1.003, § 6º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NOVO REGRAMENTO PROCESSUAL EXPRESSO. ERRO NA DIGITALIZAÇÃO. COMPROVAÇÃO. AUSÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É intempestivo o agravo em recurso especial interposto após o prazo de 15 (quinze) dias previsto nos arts. 219 e 1.003, § 5º, do Código de Processo Civil de 2015.
+3. Nos termos do § 6º do art. 1.003 do CPC/2015, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso.
+4. A interpretação literal da norma expressa no § 6º do art. 1.003 do CPC/2015, de caráter especial, sobrepõe-se a qualquer interpretação mais ampla que se possa conferir às disposições de âmbito geral insertas nos arts. 932, parágrafo único, e 1.029, § 3º, do citado diploma legal.
+5. Inadmissível o recurso especial interposto fora do prazo se não houve comprovação da suspensão dos prazos processuais ou de erro na digitalização no tribunal de origem. Precedentes.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.389.559/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 24/6/2019, DJe 1º/7/2019).
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DECLARATÓRIA C/C REVISÃO CONTRATUAL E OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NEGOU SEGUIMENTO AO RECLAMO, ANTE A INCIDÊNCIA DA SÚMULA 418/STJ E DESERÇÃO.
+INSURGÊNCIA DA INSTITUIÇÃO FINANCEIRA. 1. Em que pese assistir razão ao agravante no que tange à alegada inaplicabilidade da Súmula 418/STJ, correta a decisão agravada que negou seguimento ao recurso em razão da não comprovação do preparo recursal.
+2. A adequada comprovação do recolhimento do preparo, mediante a juntada de cópias legíveis, é requisito extrínseco de admissibilidade do recurso especial, cuja ausência enseja a deserção. Precedentes.
+3. A mera alegação de falha no procedimento de digitalização realizado pelo Tribunal de origem, destituída de qualquer indício de prova, não tem o condão de afastar o referido óbice ao conhecimento do recurso. Inviável a alegação de que a digitalização realizada nesta Corte Superior teria gerado prejuízo à parte, pois conforme certidão de fl. 238 "os autos eletrônicos correspondem aos físicos, adquirindo suas páginas nova numeração eletrônica". Caberia à parte realizar a prova da invalidade do quanto certificado, o que não ocorreu.
+Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 616.742/RN, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 20/3/2018, DJe 26/3/2018).
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, pelo meu voto, REJEITO os embargos de declaração.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECURSO INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. VÍCIOS DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. No caso, o acórdão embargado não incorreu nos vícios apontados, tendo concluído, fundamentadamenteque, mesmo considerando-se a comprovação do feriado da segunda-feira de Carnaval, o agravo se mostra intempestivo, pois o término do prazo recursal se daria nodia 25/3/2019 (segunda-feira).
+4.O entendimento desta Corte orienta-se no sentido de que eventual falha na digitalização dos autos deve ser demonstrada por meio de certidão comprobatória do Tribunal local, de modo que é insuficiente a mera afirmação da parte recorrente.
+7. Embargos de declaração rejeitados.
