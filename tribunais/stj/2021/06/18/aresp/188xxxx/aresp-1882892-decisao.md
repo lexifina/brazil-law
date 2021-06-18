@@ -1,0 +1,57 @@
+DECISÃO
+ERMELINDO RODRIGUES (ERMELINDO) ajuizou ação de obrigação de fazer cumulada com tutela de urgência contra NOTRE DAME INTERMEDICA SAUDE S.A (OPERADORA),alegando que ré negou cobertura securitária para realização de procedimento cirúrgico endovascular determinado por médico.
+Em primeira instância, o pedido foi julgado procedente para condenar OPERADORA a realizar a cobertura securitária na forma postulada (e-STJ, fls. 230/235).
+A apelação interposta por OPERADORA não foi provida pelo Tribunal de Justiça de São Paulo, nos termos do acórdão de relatoria do Des. MIGUEL BRANDI, assim ementado:
+OBRIGAÇÃO DE FAZER - Plano de assistência à saúde - Negativa de cobertura de prótese e materiais necessários para tratamento cirúrgico de que necessita o autor Procedência - Insurgência da requerida - Alegação de que o contrato seria anterior à Lei n.º 9.656/98 e não adaptado a ela, valendo todas as cláusulas, incluindo as exclusões contratuais Descabimento Nada impede o reconhecimento de cláusulas manifestamente abusivas pelo CDC -Negativa do fornecimento da prótese que redunda na negativa do tratamento da enfermidade coberta pelo plano RECURSO IMPROVIDO(e-STJ, fl. 281).
+Irresignada, OPERADORA interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, alegando, a par de dissídio jurisprudencial,violação dos arts. 436do CC e 35 da Lei n. 9.656/98, ao sustentar quepor força da própria relação privada estabelecida, deve-se respeitar o pacto estabelecido, evitando quaisquer alterações e interpretações desarrazoadas e que tragam eventual desequilíbrio contratual.
+Foram apresentadas as contrarrazões (e-STJ, fls. 328/341).
+O apelo nobre não foi admitido em virtude (1) não demonstrada a alegada vulneração aos dispositivos arrolados; (2) aplicabilidade do óbice contido na Súmulas n.5 e 7 do STJ; (3) ausência da demonstração analítica para comprovar a identidade do suporte fático e normativo em que se alega dissídio jurisprudencial.(e-STJ, fls. 342/344).
+Nas razões do presente agravo em recurso especial, OPERADORA afirmou (1) que demonstrou a alegada violação aos dispositivos arrolados; (2) pela inaplicabilidade dos óbices contidos nas Súmulas n. 5 e 7 do STJ; e, (3) que houve cotejo analítico comprovando a identidade do suporte fático e normativo entre o acórdão recorrido e o paradigma (e-STJ, fls. 347/357).
+Foi apresentada contraminuta (e-STJ, fls. 360/370).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar, devendo prevalecer o acórdão relatado peloDes.MIGUEL BRANDI.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A OPERADORA alegou, em síntese, quenão é possível a cobertura do tratamento pleiteado, ante a ausência de previsão contratual.
+O entendimento dominante nesta Corte é de que o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica indicada por profissional habilitado na busca da cura e que é abusiva a cláusula contratual que exclui tratamento, procedimento ou material imprescindível, prescrito para garantir a saúde ou a vida do beneficiário.
+Na verdade, se não fosse assim, estar-se-ia autorizando que a empresa se substituísse aos médicos na escolha da terapia adequada de acordo com o plano de cobertura do paciente. E isso é incongruente com o sistema de assistência à saúde, porquanto quem é senhor do tratamento é o especialista, ou seja, o médico que não pode ser impedido de escolher a alternativa que melhor convém à cura do paciente.
+Sendo assim, observa-se que o acórdão recorrido está em sintonia com a
+jurisprudência do STJ, senão veja-se:
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANOS DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AFASTADA. NEGATIVA DE FORNECIMENTO DE MEDICAÇÃO SOB O FUNDAMENTO DE SE TRATAR DE TRATAMENTO EXPERIMENTAL. ILEGALIDADE DA RESOLUÇÃO NORMATIVA DA ANS. USO FORA DA BULA (OFF LABEL). INGERÊNCIA DA OPERADORA NA ATIVIDADE MÉDICA. IMPOSSIBILIDADE. ROL DE PROCEDIMENTOS ANS. EXEMPLIFICATIVO. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS.
+1. Ação ajuizada em 06/08/14. Recurso especial interposto em 09/05/18 e concluso ao gabinete em 1º/10/18.
+2. Ação de obrigação de fazer, ajuizada devido à negativa de fornecimento da medicação Rituximabe - MabThera para tratar idosa com anemia hemolítica autoimune, na qual se requer seja compelida a operadora de plano de saúde a fornecer o tratamento conforme prescrição médica.
+3. O propósito recursal consiste em definir se a operadora de plano de
+saúde está autorizada a negar tratamento prescrito por médico, sob o
+fundamento de que sua utilização em favor do paciente está fora das
+indicações descritas na bula/manual registrado na ANVISA (uso off-label), ou porque não previsto no rol de procedimentos da ANS.
+4. Ausentes os vícios do art. 1.022, do CPC/15, rejeitam-se os embargos de declaração.
+5. A Lei 9.656/98 (Lei dos Planos de Saúde) estabelece que as operadoras de plano de saúde estão autorizadas a negar tratamento clínico ou cirúrgico experimental (art. 10, I).
+6. A Agência Nacional de Saúde Suplementar (ANS) editou a Resolução Normativa 338/2013, vigente ao tempo da demanda, disciplinando que consiste em tratamento experimental aquele que não possui as indicações descritas na bula/manual registrado na ANVISA (uso off-label).
+7. Quem decide se a situação concreta de enfermidade do paciente está adequada ao tratamento conforme as indicações da bula/manual da ANVISA daquele específico remédio é o profissional médico. Autorizar que a operadora negue a cobertura de tratamento sob a justificativa de que a doença do paciente não está contida nas indicações da bula representa inegável ingerência na ciência médica, em odioso e inaceitável prejuízo do paciente enfermo.
+8. O caráter experimental a que faz referência o art. 10, I, da Lei 9.656
+diz respeito ao tratamento clínico ou cirúrgico incompatível com as normas de controle sanitário ou, ainda, aquele não reconhecido como eficaz pela comunidade científica.
+9. A ingerência da operadora, além de não ter fundamento na Lei 9.656/98, consiste em ação iníqua e abusiva na relação contratual, e coloca concretamente o consumidor em desvantagem exagerada (art. 51, IV, do CDC).
+10. O fato de o procedimento não constar do rol da ANS não afasta o dever de cobertura do plano de saúde, haja vista se tratar de rol meramente exemplificativo. Precedentes.
+11. A recorrida, aos 78 anos de idade, foi diagnosticada com anemiahemolítica autoimune, em 1 mês teve queda de hemoglobina de 2 pontos, apresentou importante intolerância à corticoterapia e sensibilidade gastrointestinal a tornar recomendável superar os tratamentos infrutíferos por meio da utilização do medicamento Rituximabe - MabThera, conforme devidamente registrado por médico assistente. Configurada a abusividade da negativa de cobertura do tratamento.
+12. Recurso especial conhecido e não provido, com majoração dos honorários advocatícios recursais.
+(REsp 1.769.557/CE, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 21/11/2018 - sem destaques no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL - PLANO DE SAÚDE - RECUSA INDEVIDA DE CUSTEIO DE MEDICAMENTO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ.
+(..)
+3. Ainda que admitida a possibilidade de o contrato de plano de saúde conter cláusulas limitativas dos direitos do consumidor (desde que escritas com destaque, permitindo imediata e fácil compreensão, nos termos do § 4º do artigo 54 do Código de Defesa do Consumidor), revela-se abusivo o preceito excludente do custeio dos meios e materiais necessários ao melhor desempenho do tratamento clínico ou do procedimento cirúrgico voltado à cura de doença coberta. Precedentes. Ressalte-se também que, nos termos da jurisprudência desta Corte, "os planos de saúde podem, por expressa disposição contratual, restringir as enfermidades a serem cobertas, mas não podem limitar os tratamentos a serem realizados, inclusive os medicamentos experimentais" (AgInt no AREsp 1.014.782/AC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 17/8/2017, DJe 28/8/2017), entre outros. Incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp 1.685.177/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, DJe 8/3/2018 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. 1. ALEGADA VIOLAÇÃO AO ART. 6º DA LICC. INSTITUTO DE NATUREZA CONSTITUCIONAL. 2. VIOLAÇÃO DOS ARTS. 165, 458 E 535 DO CPC/1973. INEXISTÊNCIA. 3. INOVAÇÃO
+RECURSAL. 4. NEGATIVA DE COBERTURA. INCIDÊNCIA DO CDC. FORNECIMENTO DE TOXINA BOTULÍNICA TIPO A 100 U. MEDICAMENTO INDISPENSÁVEL AO TRATAMENTO DA SEGURADA. CLÁUSULA LIMITATIVA. ABUSIVIDADE. CONCLUSÃO DO ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. 5. AGRAVO IMPROVIDO.
+(..)
+4. Essa Corte possui orientação pacífica segundo a qual "é abusiva a cláusula restritiva de direito que exclui do plano de saúde o custeio dos
+meios necessários ao melhor desempenho do tratamento" (AREsp n. 354.006/DF, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 12/8/2013). Incidência, no ponto, do óbice da Súmula 83/STJ. Além disso, o Colegiado estadual julgou a lide de acordo com a convicção formada pelos elementos fáticos existentes nos autos, concluindo pela injusta negativa de cobertura ao procedimento médico solicitado. Portanto, qualquer alteração nesse quadro demandaria o reexame de todo o conjunto probatório, o que é vedado a esta Corte ante o óbice da Súmula n. 7 do STJ. 4.1. Ressalte-se também que, nos termos da jurisprudência desta Corte, "os planos de saúde podem, por expressa disposição contratual, restringir as enfermidades a serem cobertas, mas não podem limitar os tratamentos a serem realizados, inclusive os medicamentos experimentais" (AgInt no AREsp 1.014.782/AC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 17/8/2017, DJe 28/8/2017).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 898.228/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 23/10/2017 - sem destaque no original).
+Dessa forma, estando o aresto recorrido em conformidade com a jurisprudência dominante nesta Corte, não merece reforma o acórdão recorrido, tendo incidência a Súmula n. 568 do STJ.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor da OPERADORA, nos termos do art. 85, § 11 do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intime-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO SOB O RITO ORDINÁRIO. PLANO DE SAÚDE.RECUSA DE COBERTURA PARA TRATAMENTO DETERMINADO POR MÉDICO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM ENTEDIMENTO DESTA CORTE. PRECEDENTES. INCIDÊNCIA. SÚMULA N. 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
