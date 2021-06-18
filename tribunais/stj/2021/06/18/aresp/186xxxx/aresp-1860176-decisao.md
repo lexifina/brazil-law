@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por FAZENDA DO ESTADO DE SÃO PAULO, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AV. BRIGADEIRO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"Apelação. Responsabilidade Civil por danos morais e materiais (danos emergentes e lucros cessantes).Homicídio praticado dentro das dependências de estabelecimento prisional. Responsabilidade objetiva do Estado por morte de detento. Aplicabilidade do Tema 592 do STF. Dever constitucional de proteção ao detento que pressupõe a preservação da incolumidade física do sentenciado sob sua custódia. Precedentes.Excludentes de responsabilidade não demonstradas.Fato de terceiro afastado, uma vez que os envolvidos estavam sob a custódia do Estado. Sentença parcialmente reformada. Recurso dos autores parcialmente provido e recurso da ré improvido" (fl. 348e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 364/367e), os quais restaram parcialmente acolhidos, nos seguintes termos:
+"Embargos de Declaração. Acórdão proferido em Recurso de Apelação. Contradição verificada.Parcial acolhimento do recurso que impede a majoração da verba honorária de sucumbência, nos termos do art. 85, §11º do CPC. Ausência dos demais vícios alegados. Prequestionamento. Não cabimento. Objetivo dos embargos de declaração, ainda que para fins de prequestionamento, sempre deve ser a integração, ao acórdão recorrido, da correção de erro, nos exatos termos do artigo 1.022 do Código de Processo Civil. Embargos parcialmente providos" (fl. 369e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aoart. 407 do Código Civil, sustentando que "o termo inicial dos juros de mora sobre a indenização por dano moral é a data da decisão judicial, arbitramento ou acordo entre as partes que fixar o seu valor pecuniário"(fl. 377e).
+Por fim, requer o provimento do Recurso Especial.
+Contrarrazões, a fls. 383/388e.
+Inadmitido o Recurso Especial (fls. 389/390e), foi interposto o presente Agravo (fls. 394/401e).
+A irresignação não merece prosperar.
+Isso porque esta Corte possui jurisprudência consolidada no sentido de que, em se tratando de reparação de dano moral, os juros de mora incidem desde o evento danoso, em casos de responsabilidade extracontratual (Súmula 54/STJ), como no caso dos autos.
+Nesse sentido:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. FUNDAMENTOS AUTÔNOMOS NÃO ATACADOS. SÚMULA 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. JUROS DE MORA. TERMO INICIAL. SÚMULA 54/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA.
+1. (..)
+4. Está consolidada a orientação deste Tribunal Superior no sentido de que os juros de mora incidem desde a data do evento danoso nas hipóteses de condenação em ações de responsabilidade extracontratual, nos termos da Súmula 54/STJ.
+5. Quanto à suscitada divergência jurisprudencial, a parte recorrente não logrou êxito em demonstrar de forma satisfatória as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.037.112/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 02/05/2017).
+"ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. DANOS MORAIS. FUNDAMENTO DO ACÓRDÃO LOCAL INATACADO. SÚMULA 283/STF. DEVER DE INDENIZAR. QUANTUM INDENIZATÓRIO. REVISÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. JUROS MORATÓRIOS. SÚMULA 54/STJ.
+1. (..)
+4. "Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual." Súmula 54/STJ.
+5. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 756.676/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 11/12/2015).
+Destarte, estando o acórdão recorrido em sintonia com o entendimento dominante desta Corte, aplica-se, ao caso, o entendimento consolidado na Súmula 568 desta Corte, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Pelo exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo, para negar provimento ao Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
