@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que é suscitante o JUÍZO FEDERAL DA 1ª VARA DE FOZ DO IGUAÇU - PR, tendo como suscitado o JUÍZO DE DIREITO DA VARA CÍVEL DE SANTA HELENA - PR.
+Originariamente, ALBINO COLDEBELLA - ESPÓLIO e OUTROS ajuizaramjunto ao Juízo estadual ora suscitado o cumprimento provisório de sentença proferida na ação civil pública nº 94.008514-1, processada na Justiça Federal do Distrito Federal.
+O referido Juízo declinou da competência para a Justiça Federal com base nos seguintes argumentos:
+"Após detida análise dos autos, tem-se que esse Juízo não é competente para processar e julgar a presente ação de liquidação provisória de acórdão, tal como a seguir se passa a fundamentar.
+Pois bem. Versam os autos sobre Ação Civil Pública Coletiva ajuizada pelo Ministério PúblicoFederal perante a Justiça Federal de Brasília/DF (3ª Vara Federal) em favor dos agricultoresde todo o País que firmaram contratos de adesão com o Banco do Brasil S/A, denominados de Cédulas de Crédito Rural.
+Referida Ação Coletiva teve como resultado a procedência do pedido inicial, para condenaro réu ao pagamento da diferença entre o índice de correção monetária aplicado aos contratose o realmente devido, o que se verifica do documento anexado aos autos.
+Com efeito, após o trânsito em julgado da decisão em comento, emergiu discussão sobre o Foro Competente para a Liquidação Individual de Sentença Proferida em Ação Civil Pública, consubstanciada no Tema 408 do Superior Tribunal de Justiça, cuja tese firmada é a seguinte, in verbis:
+A liquidação e a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário, porquanto os efeitos e a eficácia da sentença não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos doque foi decidido, levando-se em conta, para tanto, sempre a extensão dodano e a qualidade dos interesses metaindividuais postos em juízo (arts. 468, 472 e 474, CPC e 93 e 103, CDC).
+Veja-se, também, a ementa do Recurso Especial nº 1243887/PR, julgado sob o rito dos RecursosEspeciais Repetitivos, ipsis litteris:
+(..)
+Em síntese, observa-se tanto da ementa quanto do Tema 408 acima transcritos que o Superior Tribunal de Justiça entendeu que a liquidação e a execução individual de sentença genérica proferida em ação civil coletiva podem ser ajuizadas no foro do domicílio do beneficiário. A propósito, esse é a regra insculpida no artigo 98, §2º, inciso I, do Código de Defesa do Consumidor, que assim dispõe, in verbis:
+(..)
+Em suma, há duas situações disponíveis ao beneficiário da sentença coletiva: a) executar individualmente a decisão no Juízo competente para a liquidação da sentença (que é o foro do seu domicílio); b) ou executar a decisão no Juízo da ação condenatória (no caso, 3ª Vara Federal de Brasília/DF).
+Entretanto, ao contrário do alegado pelo exequente, o foro do domicílio do beneficiário a que alude a decisão em questão não corresponde ao foro da Justiça Estadual onde reside, no caso à Comarca de Santa Helena/PR, mas única e exclusivamente ao foro da Justiça Federal ao qual o seu domicílio está circunscrito.
+Sobre o tema, assim prevê o artigo 109, da Constituição Federal:
+(..)
+Em resumo, as causas em que a União for interessada e/ou ré, como ocorre no caso em tela, devem ser processadas e julgadas perante os Juízes Federais, tratando-se de regra absoluta de competência.
+Com efeito, observa-se que a única exceção à competência absoluta dos Juízes Federais está prevista no parágrafo 3º, do mesmo artigo, e trata exclusivamente da relação segurado/Previdência Social, cujas causas podem ser processadas e julgadas pela Justiça Estadual, por meio da Competência Delegada.
+Isso posto, conquanto seja o beneficiário da sentença genérica proferida em ação civil coletiva autorizado a requerer a liquidação e execução individual da decisão no foro do seu domicílio, deverá fazê-lo perante o foro do seu domicílio abrangido pela Justiça Federal, ante a incompetência da Justiça Estadual para tanto.
+Tanto é verdade, que o artigo 93, do Código de Defesa do Consumidor ressalva a competência da Justiça Federal, estabelecendo a competência da Justiça Local como residual.
+Em outras palavras, somente é possível o processamento e julgamento de causa de competência absoluta da Justiça Federal perante a Justiça Estadual por determinação de Lei, oque atualmente só se aplica às ações previdenciárias, mediante a Competência Delegada.
+Assim, sendo formado o título perante o Juiz Federal de Brasília/DF, a execução individual da sentença pode ser proposta no foro do domicílio do autor, desde que perante o Juízo Federal, que no caso em mesa é a Subseção Judiciária de Foz do Iguaçu/PR.
+Isso posto, com fundamento no artigo 109, inciso I, da Constituição Federal c/c artigo 93, do Código de Defesa do Consumidor, ACOLHO a preliminar de incompetência arguida, declarando a incompetência deste Juízo para processar e julgar a presente demanda, determinando a remessa dos autos à Subseção Judiciária de Foz do Iguaçu/PR, com fundamento no artigo 64, §3º, do Código de Processo Civil" (fls. 491/493 e-STJ).
+O Juízo Federal, por sua vez, suscitou o presente conflito alegando que acabou se alinhando ao entendimento do Tribunal Regional Federal da 4ª Região que se curvou à jurisprudência do Superior Tribunal de Justiça, a qual diz que é da Justiça estadual a competência para cumprimento de sentença voltado contra pessoa jurídica não contemplada no artigo 109, inciso I, da Constituição Federal, a despeito de a ação coletiva originária ter sido processada na Justiça Federal.
+O Ministério Público Federal, em seu parecer de fls. 512/515 (e-STJ), opinou pela declaração de competência do Juízo Federal.
+É o relatório.
+DECIDO.
+O conflito encontra-se configurado e deve ser dirimido.
+Observa-se que, a despeito de a sentença exequenda ter sido proferida em ação civil pública ajuizada perante a Justiça Federal - a qual, a princípio, seria competente também para o respectivo cumprimento, a teor do que determina o artigo 516 do Código de Processo Civil de 2015 -, no caso temos no polo passivo apenas do Banco do Brasil S.A..
+Nesse contexto, não havendo no cumprimento de sentença em referência nenhum dos entes elencados no inciso I do artigo 109 da Constituição Federal, não se justifica, de fato, o seu processamento perante a Justiça Federal.
+A propósito:
+"DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. IMPUGNAÇÃO À FASE DE CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. CÉDULA RURAL. EXPURGOS INFLACIONÁRIOS.COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO INTERNO NÃO PROVIDO.
+. Esta Corte tem decidido reiteradamente não se justificar o deslocamento da competência do feito e remessa dos autos à Justiça Federal, quando nenhum dos entes indicados no inciso I do art. 109 da Constituição Federal integram a lide, sendo, pois, competente a Justiça Estadual para o julgamento da demanda, quando figura como parte apenas o Banco do Brasil com instituição financeira que celebrou a avença com a parte.
+2. Reconhecida a solidariedade entre União, Banco Central e o banco agravante, é possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários. É possível que a parte persiga seu crédito contra a instituição financeira com quem celebrou a avença, desde que não haja qualquer prova nos autos sobre a noticiada transferência do crédito à União.
+3. Agravo interno não provido" (AgInt no AREsp 1.309.643/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/4/2019, DJe 2/5/2019).
+Tem aplicação, no caso, a orientação contida na Súmula nº 508/STF: "Compete à Justiça Estadual, em ambas as instâncias, processar e julgar as causas em que for parte o Banco do Brasil S.A.".
+Em situações absolutamente semelhantes, esta Corte já declarou a competência da Justiça Estadual. Confiram-se: CC 159.253/MS, Relator Ministro Luis Felipe Salomão, publ. 10/9/2018; CC 159.097/MS, Relatora Ministra Maria Isabel Gallotti, publ. 6/9/2018; CC 157.891/MS, Relator Ministro Luis Felipe Salomão, publ. 2/8/2018; e CC 157.889/MS, Relator Ministro Moura Ribeiro, publ. 15/6/2018.
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DE DIREITO DA VARA CÍVEL DE SANTA HELENA - PR - ora suscitado.
+Oficiem-se.
+Publique-se.
