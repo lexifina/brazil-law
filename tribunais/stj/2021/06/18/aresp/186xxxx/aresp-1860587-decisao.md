@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Agravo, interposto por SIRTEC SISTEMAS ELÉTRICOS LTDA, contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. REPARAÇÃO DE DANOS CAUSADOS AO PATRIMÔNIO DO SAMAE  SERVIÇO AUTÔNOMO MUNICIPAL DE ÁGUA E ESGOTO, PELA QUEBRA DE REDES E RAMAIS EM ENDEREÇOS DIVERSOS.
+A empresa SIRTEC  SISTEMAS ELÉTRICOS LTDA.tem responsabilidade direta pelos danos causados à autarquia pela quebra de redes e ramais em endereços diversos da municipalidade.
+Ausente prova de que estaria a embargante a serviço de terceiro.
+A cópia dos processos administrativos revela que houve notificação da embargante acerca dos danos ocorridos na execução de obras particulares, respeitados os princípios da ampla defesa e do contraditório.
+Discriminados nas CDAs que instruem a execução, a origem e natureza do débito, número do processo administrativo, o valor do principal, da correção monetária, da multa e dos juros, bem como a forma de cálculo, tem-se cumpridos os requisitos do art. 2 2 , §§ 5º e 6º, da Lei n 2 6.830/80, e art. 202 do Código Tributário Nacional.
+Ausência de nulidade dos títulos executivos.
+Preliminar rejeitada. Apelação desprovida" (fl. 225e).
+Opostos Embargos Declaratórios (fls. 237/243e), restaram eles rejeitados nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL.EMBARGOS À EXECUÇÃO FISCAL. REPARAÇÃO DE DANOS CAUSADOS AO PATRIMÔNIO DO SAMAE  SERVIÇO AUTÔNOMO MUNICIPAL DE ÁGUA E ESGOTO, PELA QUEBRA DE REDES E RAMAIS EM ENDEREÇOS DIVERSOS.
+A rediscussão da matéria já enfrentada no acórdão e consequente rejulgamento do feito não se amolda às hipóteses do art. 1022, do CPC.
+Prequestionamento inviável.
+Ausência de obscuridade, contradição ou omissão (art. 1.022, do CPC).
+Embargos desacolhidos" (fl. 246e).
+Do exame dos autos, verifica-se que os fundamentos da decisão agravada, para inadmitir o Recurso Especial, são os seguintes: a) incidência do óbice daSúmula 7/STJ; b) "não há falar em negativa de prestação jurisdicional ou ausência de fundamentação da decisão, uma vez que o acórdão recorrido enfrentou as questões necessárias para a solução da controvérsia, conforme se lê do excerto do acórdão recorrido transcrito supra" (fl. 293e).
+O recorrente, no entanto, no Agravo, não cuidou de impugnar especificadamente a decisão quanto à incidência do óbice da Súmula 7/STJ, limitando-se a afirmar, genericamente, que, "como o caso se trata de clara afronta aos artigos 26 e 50 da Lei 9.784/99, se percebe que a discussão versa sobre matéria de direito e não de fato, de modo que não há que se falar em incidência da Súmula 7 desta Corte" (fl. 303e).
+Contudo, nos termos da jurisprudência desta Corte, "não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual" (STJ, AgInt no AREsp 1.067.725/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 20/10/2017).
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. FORNECIMENTO DE MEDICAMENTO. VIOLAÇÃO AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. IMPUGNAÇÃO GENÉRICA. SÚMULA 182 DO STJ. INCIDÊNCIA. ALEGAÇÃO DE AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. APLICAÇÃO DA SÚMULA 7 DO STJ.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Conforme reiterada jurisprudência desta Corte de Justiça, o agravante deve infirmar, nas razões do regimental, todos os fundamentos da decisão impugnada, sejam eles autônomos ou não, sob pena de não ser conhecido o seu recurso, a teor do disposto na Súmula 182 do STJ.
+3. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e específica, todos motivos da decisão ora agravada, limitando-se a alegar, genericamente, ofensa ao art. 535 do CPC/1973, sem explicitar os pontos em que teria sido omisso o acórdão recorrido, em flagrante desrespeito ao principio da dialeticidade.
+4. No tocante à incidência da Súmula 7 do STJ, a mera referência a julgados desta Corte favoráveis à revaloração do conjunto probatório, mas sem nenhuma identidade fática com o caso em análise, não tem o condão de ilidir os fundamentos da decisão agravada.
+5.Agravo regimental não conhecido" (STJ, AgRg no AREsp 721.539/PE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 18/08/2016).
+"PROCESSUAL CIVIL. AGRAVOS REGIMENTAIS. ARESP. RAZÕES DE AGRAVO QUE NÃO TRATAM DOS ARGUMENTOS DA DECISÃO QUE NEGA SEGUIMENTO A RECURSO ESPECIAL. SÚMULA N. 182 DESTA CORTE SUPERIOR E ART. 544, § 4º, INC. I, CPC.
+1. Não se pode conhecer do agravo regimental apresentado pelo Parquet estadual, uma vez que compete ao Ministério Público Federal a representação do Ministério Público no Superior Tribunal de Justiça nos termos da Lei Complementar n. 75/93 e da Lei n. 8.625/93.
+2. No mais, trata-se, originalmente, de agravo interposto contra decisão da instância ordinária que negou admissibilidade a recurso especial com base nos seguintes argumentos: (i) inexistência de ofensa ao art. 535 do CPC e (ii) aplicação da Súmula n. 7 desta Corte Superior.
+3. Nas razões de agravo (ARESP), a parte agravante não combateu todos os motivos que ensejaram a negativa de seguimento ao recurso especial (decisão agravada): afirmou-se não se pretender a análise de fatos e provas (com conseqüente não-incidência da Súmula n. 7/STJ), sem, contudo, demonstrar tal assertiva - trascrevendo, por exemplo, trechos do acórdão recorrido em que tenha sido travada a discussão do especial, para provar que não são necessários novos aportes de fatos e provas não contidos no acórdão. Combate deste tipo é genérico e não se presta como impugnação à decisão agravada.
+4. Incidem, no caso, a Súmula n. 182 desta Corte Superior (por analogia), segundo a qual " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" e o art. 544, § 4º, inc. I, segunda parte, do CPC.
+5. Agravo regimental do Ministério Público estadual não conhecido.
+Agravo regimental do Ministério Público Federal não provido" (STJ, AgRg no AREsp 27.323/GO, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 01/12/2011).
+Registre-se que a parte, ao recorrer, deve buscar demonstrar o desacerto do decisum contra o qual se insurge, refutando todos os óbices por ele levantados, sob pena de vê-lo mantido.
+Tal entendimento, inclusive, está consolidado na Súmula 182/STJ, segundo a qual o recorrente deve infirmar, especificamente, os fundamentos da decisão impugnada, mostrando-se inadmissível o Agravo que não se insurge contra todos eles.
+Nesse sentido:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À TOTALIDADE DOS FUNDAMENTOS ADOTADOS NA DECISÃO AGRAVADA. SÚMULA 182/STJ. INCIDÊNCIA. MULTA PROCESSUAL. ART. 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE.
+1. A teor da Súmula 182/STJ, inviável se faz a apreciação do agravo interno que deixa de empreender combate específico a todos os fundamentos da decisão agravada.
+2. Segundo entendimento consolidado na Primeira Turma desta Corte, admite-se o agravo interno parcial somente quando a parte recorrente informa que sua irresignação vai direcionada apenas contra específica parcela da decisão agravada, abrindo mão, expressamente, de impugnar o restante do julgado. Precedentes: AgInt no REsp 1.695.426/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 18/9/2018, DJe 21/9/2018; e AgInt no AREsp 1.163.354/RJ, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 4/9/2018, REPDJe 4/10/2018, DJe 25/9/2018.
+3. (..)
+4. Agravo interno não conhecido" (STJ, AgInt no AREsp 1.580.189/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 20/02/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+1. O agravante deve atacar, de forma específica, todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. Aplicação do art. 932, III, do CPC/2015 e, por analogia, da Súmula n. 182/STJ.
+2. (..)
+3. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 1.566.122/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 20/02/2020).
+Em face do exposto, com fundamento no art. 932, III, do CPC/2015 e art. 253, parágrafo único, I, do RISTJ, não conheço do Agravo.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
