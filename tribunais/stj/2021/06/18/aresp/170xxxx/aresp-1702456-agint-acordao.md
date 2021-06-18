@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino (Presidente), Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA Nº 282 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ
+3. A matéria referente ao tema referente ao art. 927, § 3º, do NCPC não foi objeto de debate prévio nas instâncias de origem. Ausente, portanto, o devido prequestionamento nos termos da Súmula nº 282 do STF, aplicável por analogia.
+4. Agravo interno não provido.
+RELATÓRIO
+CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI (PREVI) promoveu ação de consignação em pagamento contra DJALMA APARECIDO BASTOS (DJALMA), aduzindo que em demanda trabalhista proposta contra o Banco do Brasil foi reconhecido o direito da parte requerida ao recebimento de horas extras com determinação do recolhimento de contribuições patronais em seu favor, tendo havido o depósito. Afirmou ter efetuado o depósito extrajudicial, mas a parte ré se recusou a receber. Requereu a consignação do valor atualizado e a declaração de impossibilidade de receber os valores advindos da reclamação trabalhista.
+Em primeira instância, o d. Juízo extinguiu o feito sem julgamento do mérito, com fundamento no art. 485, inciso VI, do NCPC (e-STJ, fls 169/170).
+A apelação interposta por PREVI não foi provida pelo TJDFT nos termos do acórdão, assim ementado:
+APELAÇÃO CÍVEL. DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. ENTIDADE PRIVADA DE PREVIDÊNCIA COMPLEMENTAR. PREVI. CONTRIBUIÇÃO VERTIDA PELO PATROCINADOR EM DECORRÊNCIA DE DEMANDA TRABALHISTA. INADEQUAÇÃO DA VIA ELEITA. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO. RECURSO CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA.1. O interesse de agir é identificado pelos elementos da necessidade, utilidade e adequação. Ou seja, a parte litigante deve demonstrar a necessidade concreta de obter o provimento jurisdicional, apto a lhe trazer um resultado útil do ponto de vista prático, além do que deve haver adequação do procedimento escolhido à situação deduzida.2. Este egrégio Tribunal de Justiça tem firmado posicionamento no sentido de ser inadequada a ação de consignação em pagamento proposta por entidade privada de previdência complementar com a finalidade de se exonerar da revisão de benefícios, após ter recebido do patrocinador contribuições decorrentes de condenação em reclamação trabalhista. Precedentes.3. Restou evidenciado que a pretensão consignatória no presente caso tem a finalidade de exonerar a entidade da revisão de benefícios após ter recebido, do patrocinador, contribuições decorrentes de condenação em reclamação trabalhista, o que não se enquadra nas hipóteses previstas no artigo 335 do Código Civil.4. Honorários advocatícios majorados. Art. 85, §11, do CPC.5. Recurso conhecido e não provido. Sentença mantida (e-STJ. fl.230).
+Irresignada, a PREVI interpôs recurso especial com fulcro no art. 105, III, a, da CF, alegando a violação dos arts. 539, § 3º, do CPC/2015, e 335, IV e V, do CC/2002.
+O apelo nobre não foi admitido em virtude da incidência da Súmula nº 7 do STJ (e-STJ, fls. 285/286).
+O agravo em recurso especial daí decorrente foi conhecido para não conhecer do recurso especial em decisão monocrática de minha lavra assim ementada:
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL MANEJADO SOB À ÉGIDE DO NCPC. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. CONTRIBUIÇÃO VERTIDA PELO PATROCINADOR EM DECORRÊNCIA DE DEMANDA TRABALHISTA. ALEGAÇÃO DE VIOLAÇÃO À TESE FIRMADA EM RECURSO REPETITIVO. TEMAS NÃO PREQUESTIONADOS. SÚMULA Nº 282 DO STF, POR ANALOGIA. AUSÊNCIA DE INTERESSE DE AGIR EM AÇÃO CONSIGNATÓRIA. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 323 - com destaque no original).
+Nas razões do presente agravo interno, a PREVI, repisando os argumentos das razões recursais, alegou (1) inaplicabilidade da Súmula nº 7 do STJ, por não haver necessidade do reexame fático-probatório; (2) inaplicabilidade da Súmula nº 282 do STF, por ter havido o prequestionamento implícito da matéria; e(3) aplicação da tese do Tema nº 955 do STJ.
+Houve impugnação ao recurso (e-STJ, fls. 351/359).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA Nº 282 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ
+3. A matéria referente ao tema referente ao art. 927, § 3º, do NCPC não foi objeto de debate prévio nas instâncias de origem. Ausente, portanto, o devido prequestionamento nos termos da Súmula nº 282 do STF, aplicável por analogia.
+4. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Na hipótese, o v. acórdão concluiu, quanto a alegada a violação do art. 335, IV e V, do CC/2002, sustentando que possui interesse de agir para propor a ação de consignação em pagamento eque a PREVI não possui interesse de agir para propor a demanda consignatória, consoante se vê dos seguintes trechos:
+Verifica-se no presente caso que o depósito cuja consignação pleiteia a apelante, refere-se a contribuições declaradas devidas pelo apelado e por seu ex-empregador (Banco do Brasil) nos autos de reclamação trabalhista de n. 0000999-70.2010.5.10.0010 em favor da apelante (ID 10151069, p. 38).
+Nesse passo, não há como se reconhecer a presença de tais características no presente caso, sobretudo porque a causa de pedir e o pedido aqui pleiteado não guardam relação com as hipóteses legais previstas no artigo 335 do Código Civil, fato que elide, por si só, o critério da adequação.
+Da análise dos autos, verifica-se que a parte autora pretende, na verdade, obstar o recálculo do benefício previdenciário complementar decorrente do recolhimento, pelo patrocinador, de contribuições incidentes sobre as horas extras deferidas ao réu/apelado pelo Juízo Trabalhista, portanto, incabível em sede de ação consignatória, uma vez que possui seu objeto restrito.
+Este Egrégio Tribunal de Justiça tem entendido ser inadequada a ação de consignação em pagamento proposta por entidade privada de previdência complementar com a finalidade de se exonerar da revisão de benefícios após ter recebido, do patrocinador, contribuições decorrentes de condenação em reclamação trabalhista. Isso porque fica evidenciado que a pretensão consignatória neste caso tem a finalidade de exonerar a entidade da revisão de benefícios após ter recebido, do patrocinador, contribuições decorrentes de condenação em reclamação trabalhista, o que não se enquadra nas hipóteses previstas na lei civil (e-STJ, fl.234).
+Dessa forma, conforme se nota, a Corte local assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula nº 7 do STJ.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. NÃO VERIFICADO OS PRESSUPOSTOS DO ART. 335 DO CÓDIGO CIVIL. FALTA DE INTERESSE DE AGIR. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.184.369/RS, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 17/5/2018, DJe 23/5/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. ALEGADA PRESENÇA DE INTERESSE PROCESSUAL. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 1.145.385/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j.6/3/2018, DJe 9/3/2018)
+De outra parte, de uma simples leitura do aresto recorrido, pode-se observar que os temas referentes ao art. 539, §3º, do NCPC, bem como dos argumentos invocados pelo recorrente em seu recurso especial quanto à violação da tese firmada no Resp nº 1.312.736/RS (Tema 955) e quanto à impossibilidade de inclusão dos reflexos das verbas remuneratórias reconhecidas pela justiça do trabalho nos cálculos da renda mensal inicial dos benefícios de complementação de aposentadoria, não foram apreciados pelo v. acórdão recorrido e tampouco foram opostos embargos de declaração.
+Não houve, portanto, o indispensável debate prévio, condição sem a qual fica obstaculizada a via de acesso ao apelo excepcional.
+Inafastável, assim, a incidência da Súmula nº 282 do STF, por analogia, in verbis: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+A propósito, vejam-se os acórdãos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+1.  .. .
+2. Ausente o prequestionamento, até mesmo de modo implícito, do dispositivo apontado como violado no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.5780.06/MT, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 9/3/2020, DJe 13/3/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. OMISSÃO NO ACÓRDÃO DE ORIGEM. NÃO OCORRÊNCIA. NEGATIVA INDEVIDA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. DANO MORAL. VALOR. AUSÊNCIA DE INDICAÇÃO NO RECURSO ESPECIAL DE DISPOSITIVO TIDO COMO VIOLADO. SÚMULA 284/STF. COBERTURA. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO PROVIMENTO.
+1.
+ .. .
+4. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.811.358/PA, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. em 10/3/2020, DJe 17/3/2020)
+Assim, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, que não conheceu do apelo nobre, devendo ser ele mantido.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
