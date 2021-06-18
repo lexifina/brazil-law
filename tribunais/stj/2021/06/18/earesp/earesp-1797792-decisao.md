@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por REAL STATE - PARTICIPAÇÃO CONSULTORIA E ADMINISTRAÇÃO LTDA.contra a decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea"a", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Prestação de serviços. Fornecimento de água e esgoto. Ação de restituição de valores. Prescrição. Prazo vintenário, posteriormente reduzido para decenal pelo atual Código Civil. Exegese do artigo 177 do antigo Código Civil e artigos 205 e 2028 do Código Civil/2002. Sistema de economias. Pedido de restituição dos valores pagos a maior entre agosto de 1991 e dezembro de 1996. Período de vigência do Decreto Estadual nº 21.123/83. Cadastramento como economia única junto à empresa requerida. Adequação. Legitimidade das cobranças. Existência de unidades autônomas não demonstrada. Ônus da prova. Artigo 333, I do CPC. Lojas que não constituem unidades autônomas imobiliárias. Ação improcedente. Honorários de sucumbência. Redução. Recurso provido em parte"(fl. 821e-STJ).
+No especial, aagravante alegou violação dos arts. 2º, I, II e III, 11, 141, 370, 373, I, 489, 494, 1.013 e 1.022, II,doCódigo de Processo Civil de 2015 e173 e 277 da Lei de Registros Públicos (Lei nº 1.065/1973).
+A controvérsia dos autos diz respeito à restituição de valores pela recorrida, ante a suposta cobrança indevida de tarifas de água e esgotono período de vigência do Decreto Estadual nº 21.123/1983.
+É o relatório.
+DECIDO.
+A matéria se insere na competência das Turmas integrantes da Egrégia Primeira Seção, conforme disposto no art. 9º, § 1º, X, do Regimento Interno do Superior Tribunal de Justiça.
+A propósito:
+"CONFLITO NEGATIVO DE COMPETÊNCIA INTERNA. PRIMEIRA E QUARTA TURMAS DESTE E. STJ. SERVIÇO DE FORNECIMENTO DE ÁGUA. PREÇO PÚBLICO. TARIFA. ART. 9º, § 1º, INCISO X, DO RISTJ. COMPETÊNCIA DA E.
+PRIMEIRA SEÇÃO.
+I - Compete à e. Primeira Seção desta c. Corte Superior processar e julgar recurso especial cuja relação jurídica litigiosa versa sobre preço público (art. 9º, § 1º, inciso X, do RISTJ).
+II - Na espécie, cuida-se, originariamente, de ação ordinária proposta por particular contra a Companhia Estadual de Águas e Esgotos - CEDAE - , na qual se pleiteia a nulidade da cobrança de preço público, na modalidade de tarifa, afirmada ilegal e abusiva, bem como o restabelecimento do serviço de água no domícilio da demandante.
+III - Precedentes aplicáveis: CC 43324/RJ, Corte Especial, Rel. Min. Peçanha Martins, DJ de 5/2/2007; AgRg no REsp 985.522/RS, 1ª Turma, Rel. Min. Luiz Fux, DJe de 19/2/2009; AgRg no Ag 1.084.537/RJ, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 18/2/2009; AgRg no Ag 1.004.001/RJ, 1ª Turma, Rel. Min. Denise Arruda, DJe de 11/2/2009; REsp 1.062.975/RS, 2ª Turma, Rel. Min. Eliana Calmon, DJe de 29/10/2008; AgRg no REsp 1.081.718/RJ, 1ª Turma, Rel. Min. Francisco Falcão, DJe 29/10/2008; AgRg no REsp 1.027.844/RJ, 1ª Turma, Rel. Min. José Delgado, DJe de 23/6/2008; REsp 595.119/RJ, 2ª Turma, Rel. Min. João Otávio de Noronha, DJ 5/3/2007. Conflito conhecido para se declarar a competência da e. Primeira Seção" (CC 102.588/RJ, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 01/04/2009, DJe 20/04/2009).
+Ante o exposto, determino a remessa dos autos à Coordenadoria de Classificação de Processos Recursais para a redistribuição do feito a uma das Turmas integrantes da Primeira Seção.
+Publique-se.
+Intimem-se.
