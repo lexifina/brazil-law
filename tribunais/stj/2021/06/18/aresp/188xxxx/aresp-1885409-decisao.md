@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por Amil Assistência Médica Internacional S.A, com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ, fl. 410):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE AUTORIZAÇÃO DE HOME CARE. ALEGAÇÃO DE CLÁUSULA CONTRATUAL EXCLUDENTE DE TAL SERVIÇO. RELAÇÃO DE CONSUMO. RESPONSABILIDADE OBJETIVA. ARTS. 2º, 3º E 14 DO CDC. NECESSIDADE DE OBSERVÂNCIA DOS PRINCÍPIOS DA BOA-FÉ OBJETIVA E EQUIDADE NA FORMULAÇÃO DO CONTRATO. APLICAÇÃO DO ART. 51, IV, DO CDC, DEVENDO SER AFASTADAS AS CLÁUSULAS QUE COLOCAM O CONSUMIDOR EM DESVANTAGEM EXAGERADA OU SEJAM INCOMPATÍVEIS COM OS PRINCÍPIOS DA BOA-FÉ E EQUIDADE. TRATAMENTO INDICADO PELO PRÓPRIO MÉDICO CREDENCIADO DO RÉU. O EG. SUPERIOR TRIBUNAL DE JUSTIÇA JÁ SE MANIFESTOU NO SENTIDO DE QUE OS LIMITES CONTRATUAIS DO PLANO DE SAÚDE PODEM RESTRINGIR AS DOENÇAS QUE TERÃO COBERTURA DO PLANO, MAS NÃO O TIPO DE TRATAMENTO ELEITO PELOMÉDICO PARA SEU PACIENTE. CONFIRMAÇÃO DA OBRIGAÇÃO DE FAZER QUE SE IMPÕE. DANOS MORAIS CONFIGURADOS. SÚMULA Nº 209 DESTE TRIBUNAL. VERBA INDENIZATÓRIA ADEQUADAMENTE ARBITRADA EM R$10.000,00 (DEZMIL REAIS). SENTENÇA QUE NÃO MERECE REFORMA. NEGADO PROVIMENTO AO RECURSO.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 523-534).
+Nas razões do recurso especial (e-STJ, fls. 235-548), a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 1.022 do CPC/2015; 51, IV, do CDC; 10, 12 e 35-G da Lei 9.656/1998; e 186, 188, 927 e 944 do CC.
+Sustentou, em suma:
+a) negativa de prestação jurisdicional ante a omissão do Colegiado a quo em analisar questões relevantes para o deslinde da controvérsia;
+b)que o Código de Defesa do Consumidor deve ter aplicação subsidiária ao presente feito, tendo em vista a existência de legislação específica que regulamenta os planos de saúde;
+c) a legalidade das limitações existentes nos contratos privados de assistência à saúde a fim de que se mantenha o equilíbrio econômico-financeiro dos contratos firmados; e,
+(iv) não haver ilegalidade na negativa de cobertura ao tratamento pleiteado (home care), porquanto sua conduta estava amparada em cláusula contratual e na legislação que regulamenta a matéria, não havendo falar em dano moral.
+Subsidiariamente, destacoua desproporção da indenização fixada.
+Contrarrazões às fls. 566-572 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+De início, depreende-se que a apontada afronta ao art. 1.022 do CPC/2015 não ficou caracterizada, uma vez que a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Dessa forma, convém registrar que, apesar de rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. FALHA NA PRESTAÇÃO DE SERVIÇOS FUNERÁRIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. DANO MORAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. A Corte "a quo" pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em princípio, poderiam infirmar a conclusão adotada pelo Juízo, não havendo falar em ausência de prestação jurisdicional. O julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza negativa de prestação jurisdicional, tampouco viola os arts. 1.022 e 489 do CPC/2015.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n.7/STJ).
+3. No caso concreto, a reforma do acórdão recorrido, que concluiu pela caracterização dos danos morais decorrentes da ausência de disponibilização de local adequado para a realização de velório, demandaria revolvimento do conjunto fático-probatório, vedado em sede de recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.639.983/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/12/2020, DJe 14/12/2020)
+Com efeito, a orientação deste Tribunal Superior, firmada na Súmula 608/STJ, manifesta-se no sentido de que aos contratos de planos de saúde não inclusos em sistema de autogestão aplicam-se as disposições contidas no CDC (v.g. REsp 1.846.108/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 02/02/2021, DJe 05/02/2021).
+Acrescenta-se, ainda, que o entendimento do acórdão impugnado encontra-se alinhado à jurisprudência do STJ no que se refere a ser abusiva a cláusula contratual que exclui tratamento prescrito para garantir a saúde ou a vida do segurado - no caso dos autos, o serviço de internação domiciliar (home care).
+Dispõe esta Corte de Justiça que ""o contrato de plano de saúde pode limitar as doenças a serem cobertas não lhe sendo permitido, ao contrário, delimitar os procedimentos, exames e técnicas necessárias ao tratamento da enfermidade constante da cobertura" (AgInt no AREsp 622.630/PE, Relatora a Ministra Maria Isabel Gallotti, julgado em 12/12/2017, DJe 18/12/2017).
+Por oportuno:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. PRESTAÇÃO DE SERVIÇO HOME CARE. TRATAMENTO SOLICITADO PELO MÉDICO. REVISÃO DE CLÁUSULA CONTRATUAL ABUSIVA. INOVAÇÃO RECURSAL. AGRAVO DESPROVIDO.
+1. De acordo com a orientação jurisprudencial do STJ, o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para a cura de cada uma, sendo abusiva a cláusula contratual que exclui tratamento domiciliar quando essencial para garantir a saúde ou a vida do segurado.
+2. Fica inviabilizado o conhecimento de tema trazido somente na petição de agravo interno, configurando-se indevida inovação recursal.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.756.556/CE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/02/2019, REPDJe 26/02/2019, DJe 25/02/2019)
+No que se refere ao reconhecimento do dano moral indenizável, é pacífica a jurisprudência desta Corte no sentido de que, "embora o mero inadimplemento contratual não seja causa para ocorrência de danos morais, é reconhecido o direito à compensação dos danos morais advindos da injusta recusa de cobertura de seguro saúde, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do segurado, uma vez que, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo psicológico e com a saúde debilitada" (REsp n. 1.421.512/MG, Relatora a Ministra Nancy Andrighi, Terceira Turma, DJe 30/5/2014).
+Dessa forma, encontrando-se o acórdão recorrido em consonância com a jurisprudência desta Corte, inarredável a incidência da Súmula 83/STJ a obstar a análise do reclamo.
+Ademais, não há como afastar a premissa alcançada pelo acórdão quanto à configuração do dano moral e ao consequente quantum fixado sem proceder ao revolvimento do conteúdo fático-probatório dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ATENDIMENTO HOME CARE. NEGATIVA. ABUSIVIDADE. DOENÇA COBERTA PELO PLANO. ENTENDIMENTO EM HARMONIA COM O STJ. DANO MORAL. OCORRÊNCIA. REEXAME. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. RAZOABILIDADE NA FIXAÇÃO. SÚMULA 7/STJ.
+1. Descabida a negativa de cobertura de procedimento indicado pelo médico
+como necessário para preservar a saúde e a vida do beneficiário do plano de saúde. Precedentes do STJ.
+2. A recusa indevida pela operadora do plano de saúde em autorizar a cobertura de Home Care devidamente prescrito para o tratamento de doença coberta pelo plano, configurou danos morais indenizáveis, pois "agravou a situação de aflição psicológica e de angústia no espírito da paciente de 83 (oitenta e três) anos de idade, uma vez que, ao ter negada o tratamento requerido que se revelava essencial à melhora de seu estado de saúde, já se encontrava em condição de dor, abalo e saúde debilitada."
+3. Valor indenizatório estabelecido pelo Tribunal de origem que não se mostra excessivo a justificar sua reavaliação em recurso especial.
+4. O recurso especial não comporta exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+5. Agravo Interno não provido.
+(AgInt no AREsp 1.450.491/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/06/2020, DJe 12/06/2020)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. CIRURGIA. RECUSA DE COBERTURA. INEXISTÊNCIA DE MÉDICO COOPERADO APTO À APLICAÇÃO DA TÉCNICA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. DEVER DE COBERTURA. CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. DANO MORAL CARACTERIZADO NAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É vedado, no agravo interno, apreciar questões que não foram objeto de impugnação no recurso especial, sob pena de indevida inovação recursal.
+3. O acórdão recorrido está em conformidade com o entendimento desta Corte no sentido de que o plano de saúde pode estabelecer as doenças que terão cobertura, mas não pode limitar o tipo de tratamento a ser utilizado pelo paciente.
+4. A jurisprudência do STJ preleciona que, em regra, a recusa indevida pela operadora de plano de saúde de cobertura médico-assistencial gera dano moral, porquanto agrava o sofrimento psíquico do usuário, já combalido pelas condições precárias de saúde, não constituindo, portanto, mero dissabor, ínsito às hipóteses correntes de inadimplemento contratual.
+5. Modificar o entendimento exarado pelo acórdão recorrido no sentido de que inexiste o dano moral, demanda o necessário revolvimento do acervo
+fático-probatório, o que se mostra inviável em recurso especial em respeito ao enunciado da Súmula nº 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.777.588/MT, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 4/5/2020, DJe 7/5/2020)
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em 2% sobre o valor da condenação.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANO MORAL. SERVIÇO DE HOME CARE PRESCRITO PELO MÉDICO. RECUSA INDEVIDA À COBERTURA.APLICAÇÃO DO CDC. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. REVISÃO DAS CONCLUSÕES DO TRIBUNAL A QUO. IMPOSSIBILIDADE NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
