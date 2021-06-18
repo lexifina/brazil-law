@@ -1,0 +1,29 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    EMENTA: TRIBUTÁRIO. TAXA DE SERVIÇO (GORJETA). NATUREZA SALARIAL. PIS. COFINS. CPRB. NÃO INCIDÊNCIA.
+    1. A gorjeta, mesmo quando compulsória ou inserida na nota de serviço, tem natureza salarial, materializando valores que são repassados aos empregados como parte integrante de sua remuneração.
+    2. Sobre referidas verbas apenas podem incidir os tributos que pesam sobre a folha de salários, o que afasta a incidência do PIS, COFINS e CPRB. Precedentes do STJ e TRF da 5ª Região.
+    3. Apelação provida
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 2º; 195, inciso I, alínea 'b' da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    A "gorjeta", consoante estabelecido pelo art. 457 da Consolidação das Leis do Trabalho - CLT, ostenta natureza salarial, materializando valores que são repassados aos empregados, sendo parte integrante de sua remuneração.
+    O prestador de serviços caracteriza-se como mero depositário dos valores percebidos a esse título. Considerando-se que as gorjetas têm natureza remuneratória (Enunciado 354-TST e art. 457 da CLT), apenas podem incidir sobre tais importâncias os tributos que pesam sobre a folha de salários, o que afasta a incidência do PIS, COFINS. [...]
+    Outrossim, em relação a inclusão das gorjetas na base de cálculo da CPRB, entendo que aplica-se ao caso o mesmo raciocínio adotado em relação ao PIS e o COFINS, não prosperando os argumentos da Fazenda Nacional.
+    É que como a própria Fazenda Nacional alegou em sua contestação, o objetivo da Lei 12.546/2011 ao instituir a CPRB foi a desoneração da folha de pagamento de alguns setores produtivos, tendo havido a substituição as contribuições previdenciárias patronais previstas nos incisos I e III do artigo 22 da Lei 8.212/1991, incidentes sobre a folha de salários, pela nova contribuição, incidente sobre a receita bruta operacional.
+    Destaco que o apelante não questiona a constitucionalidade da CPRB, como faz crer a Fazenda Nacional em suas contrarrazões, mas sim sustenta que os valores relativos ao pagamento de gorjetas não podem ser incluídos na base de cálculo da CPRB, pois esta não incide sobre a folha de salários, mas sim sobre a receita bruta.
+    Com razão o apelante.
+    Como já foi dito acima, as gorjetas ostentam natureza salarial, remuneratória. Constituem entradas que não provocam incremento no patrimônio da empresa, representando mera passagem de valores a serem repassadas a terceiros. Apenas podem incidir sobre tais importâncias os tributos que pesam sobre a folha de salários, não sendo este o caso da CPRB.
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Sobre o tema, os seguintes precedentes:
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. OFENSA CONSTITUCIONAL REFLEXA.1.Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 2. Agravo Interno a que se nega provimento” (RE nº 1.169.266/RS-AgR, Primeira Turma, Rel. Min.Alexandre de Moraes, DJe de 13/2/19).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE ADMISSIBILIDADE. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo.II – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 8° e § 11, do CPC. III – Agravo regimental a que se nega provimento, com aplicação de multa” (ARE nº 1.161.422/SP-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski,DJe de 6/12/18).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR. APOSENTADORIA. REVISÃO. PREQUESTIONAMENTO. AUSÊNCIA. VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. 1. É inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo acórdão recorrido, em decorrência da ausência do requisito processual do prequestionamento. Súmula 282 do STF. 2. É inviável o processamento do apelo extremo quando a ofensa a dispositivo constitucional se dá de maneira reflexa e indireta, pois requer o exame prévio da orientação firmada sobre tese infraconstitucional pela instância ordinária. 3. Agravo regimental a que se nega provimento” (ARE nº 939.243/SP-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 7/4/16).
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 18 de junho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
