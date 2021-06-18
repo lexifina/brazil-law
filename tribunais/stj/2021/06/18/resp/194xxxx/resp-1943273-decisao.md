@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por DEIDSON LIMA DO NASCIMENTO, fundado naalínea "c"do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Rondônia, cuja ementaé a seguinte (e-STJ fls. 55/56):
+Agravo em execução penal. Exclusão de condições do regime aberto. Ausência de previsão legal. Ordem denegada.
+Não há que se falar em violação ao princípio da legalidade, quando em razão da interdição da Casa do Albergado, seja estabelecido como condição do aberto o recolhimento do agravante em sua residência, aos sábados, domingos e feriados, já que tal medida não se confunde com a pena restritiva de direitos de limitação de final de semana (nos termos dos artigos 36, § 1º, do CP e 115, I, da LEP).
+A condição de comparecer diariamente ou mensalmente no Patronato, a critério do apenado, para justificar as suas atividades ou receber orientação e capacitação funcional, não caracteriza prestação de serviços à comunidade ou qualquer outra pena restritiva de direito, não se tratando de sanção substitutiva de regime, mas de condição especial para a concessão do regime aberto ao reeducando que necessitara.
+Agravo não provido.
+Nas razões do recurso especial (e-STJ fls. 69/77), alega a parte recorrente violaçãodos artigos 36, 43 e 44do CP e dos artigos 114, 115, 131, 132 e137 da LEP.Sustenta quea aplicação das penas restritivas de direitos (limitação de fim de semana e prestação de serviços à comunidade) simultaneamente com o cumprimento do regime aberto, torna-se ilegal, ocasionando a fixação de duas penas para a mesma prática delitiva, incorrendo-se, assim, em bis in idem afrontando o princípio da legalidade (e-STJ fls. 76). Aduz observância a Súmula 493/STJ.
+Apresentadas as contrarrazões (e-STJ fls. 80/88), o recurso foi admitido (e-STJ fls. 89/91), tendo o Ministério Público Federal opinado peloprovimento do recurso especial (e-STJ fls. 102/107).
+É o relatório.Decido.
+O recurso merece acolhida.
+O Tribunal a quo, ao decidir a controvérsia, consignou (e-STJ fls. 54/55):
+Extrai-se dos autos que o agravante estava cumprindo pena em regime semiaberto, e posteriormente progrediu para o regime aberto, referente aos autos de execução n.º 0012480-46.2018.822.05, quando em 11/1/2019 compareceu à VEPEMA para audiência admonitória e assinatura de novas condições para o cumprimento do regime aberto, estabelecidas no ID n.º 8897351, vejamos:
+"  2. Nos sábados a partir das 18 horas, domingos e feriados o (a) apenado(a) deverá permanecer recolhido (a) em sua residência no período integral, sob pena de regressão de regime, excetuando-se os casos de permanência no Patronato;  5. Comparecer diariamente no Patronato denominado "Escritório Social da ACUDA", para justificar as suas atividades ou, a critério do(a) apenado, permanecer um dia do mês ao Patronato (mínimo de 8 horas), de acordo com o calendário da Instituição, em data deliberada pela entidade, onde prestará serviços e desenvolverá atividades;  .. ".
+Em que pese os argumentos defensivos, não reconheço ofensa ao princípio da legalidade ou incompatibilidade com o cumprimento da pena em regime aberto das condições 2 e 5.
+Como bem salientado pelo juízo a quo, as condições 2 e 5 estão em consonância com as previstas na LEP para o cumprimento de pena em regime aberto. Vejamos: Art. 115.
+O Juiz poderá estabelecer condições especiais para a concessão de regime aberto, sem prejuízo das seguintes condições gerais e obrigatórias:
+I - permanecer no local que for designado, durante o repouso e nos dias de folga;
+II - sair para o trabalho e retornar, nos horários fixados;
+III - não se ausentar da cidade onde reside, sem autorização judicial;
+IV - comparecer a Juízo, para informar e justificar as suas atividades, quando for determinado.
+Quanto à condição n.º 2, observa-se que a própria LEP prevê como condição geral e obrigatória a permanência no local designado, durante o repouso e nos dias de folga.
+Igualmente, o artigo 36, § 1º, do Código Penal dispõe que o condenado em regime aberto deverá, fora do estabelecimento e sem vigilância, trabalhar, frequentar curso ou exercer outra atividade autorizada, permanecendo recolhido durante o período noturno e nos dias de folgas.
+Contudo, em razão da interdição da Casa do Albergado na Capital, excepcionalmente, autorizou-se a permanência do apenado durante o repouso e nos dias de folga em sua residência.
+Assim, ao contrário do que afirma a defesa, não há nenhuma ilegalidade imposta na condição n.º 2, porquanto expressamente prevista no art. 115, I, da LEP e não se confunde a pena de limitação de fim de semana, prevista no art. 44 do Código Penal.
+Ademais, vale mencionar que o apenado está cumprindo pena privativa de liberdade, que lhe impõe algumas restrições. ..
+Neste sentido, a condição imposta coaduna com o objetivo do legislador, qual seja, possibilitar que o reeducando participe de cursos e palestras, contribuindo para a sua ressocialização e retorno ao convívio social.
+Ora, para que o condenado melhor atenda à finalidade do cumprimento da pena em regime aberto, é facultado ao Magistrado impor condições especiais, além das gerais e obrigatórias. É o que se extrai da leitura dos artigos 115 e 116 da Lei de Execução Penal, in verbis:
+Art. 115. O Juiz poderá estabelecer condições especiais para a concessão de regime aberto, sem prejuízo das seguintes condições gerais e obrigatórias:
+I - permanecer no local que for designado, durante o repouso e nos dias de folga;
+II - sair para o trabalho e retornar, nos horários fixados;
+III - não se ausentar da cidade onde reside, sem autorização judicial;
+IV - comparecer a Juízo, para informar e justificar as suas atividades, quando for determinado.
+Art. 116. O Juiz poderá modificar as condições estabelecidas, de ofício, a requerimento do Ministério Público, da autoridade administrativa ou do condenado, desde que as circunstâncias assim o recomendem.
+Ao interpretar tais dispositivos, aTerceira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1107314/PR, Rel. Ministra LAURITA VAZ, Rel. p/ Acórdão Ministro NAPOLEÃO NUNES MAIA FILHO, julgado em 13/12/2010, DJe 5/10/2011, sob o rito do art. 543-C, c/c o 3º do CPP, firmou entendimento de que élícito ao Juiz estabelecer condições especiais para a concessão do regime aberto, em complementação daquelas previstas na LEP (art. 115 da LEP), mas não poderá adotar a esse título nenhum efeito já classificado como pena substitutiva (art. 44 do CPB), porque aí ocorreria o indesejável bis in idem, importando na aplicação de dúplice sanção.
+Abaixo, ementa do referido julgado:
+PENAL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. REGIME ABERTO. CONDIÇÕES ESPECIAIS. ART. 115 DA LEP. PRESTAÇÃO DE SERVIÇOS À COMUNIDADE. BIS IN IDEM. RECURSO DESPROVIDO.
+1. É lícito ao Juiz estabelecer condições especiais para a concessão do regime aberto, em complementação daquelas previstas na LEP (art.115 da LEP), mas não poderá adotar a esse título nenhum efeito já classificado como pena substitutiva (art. 44 do CPB), porque aí ocorreria o indesejável bis in idem, importando na aplicação de dúplice sanção.
+2. Recurso Especial desprovido.(REsp 1107314/PR, Rel. Ministra LAURITA VAZ, Rel. p/ Acórdão Ministro NAPOLEÃO NUNES MAIA FILHO, TERCEIRA SEÇÃO, julgado em 13/12/2010, DJe 5/10/2011)
+Nessa linha, foi editada a Súmula 493/STJ:É inadmissível a fixação de pena substitutiva (art. 44 do CP) como condição especial ao regime aberto.
+Salienta-se, ainda, que é lícito que o magistrado, observando as particularidades do caso concreto, fixe condições especiais, além das gerais e obrigatórias, para o cumprimento da pena em regime aberto, podendo também, modificar as condições já estabelecidas, desde que as circunstâncias recomendem a alteração(REsp n.º 1649771/SC, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 1º/3/2018, DJe 12/3/2018).
+No caso dos autos, as instâncias ordinárias impuseram como condição especial ao recorrente a limitação de final de semana e a prestação de serviços à comunidade.
+Contudo, tais condições revelam-se, de fato, como penas restritivas de direitos, não podendo ser impostas como condições do cumprimento do regime aberto, sob pena de se incorrer embis in idem.
+Nessa linha, os seguintes julgados:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONDIÇÃO ESPECIAL ESTABELECIDA PARA O CUMPRIMENTO DA PENA EM REGIME ABERTO. LIMITAÇÃO DE FINAL DE SEMANA E PRESTAÇÃO DE SERVIÇOS À COMUNIDADE. SÚMULA 493/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Súmula 493/STJ estabelece que "é inadmissível a fixação de pena substitutiva (art. 44 do CP) como condição especial ao regime aberto", sendo lícita, porém, a imposição das medidas especiais constantes do art. 115 da Lei n.º 7.210/1984.
+2. Hipótese na qual se infere manifesta ilegalidade, pois o Tribunal a quo estabeleceu como condições especiais para o cumprimento da pena em regime aberto a limitação de final de semana e a prestação de serviços à comunidade, ambas penas restritivas de direitos, restando evidenciada a ocorrência de indevido bis in idem.
+3. Agravo regimental desprovido.(AgRg no REsp 1896279/RO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/2/2021, DJe 26/2/2021)
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. REGIME ABERTO. AUSÊNCIA DE VAGA EM ESTABELECIMENTO ADEQUADO.PRISÃO DOMICILIAR DEFERIDA. RECOLHIMENTO AOS FINAIS DE SEMANA EM UNIDADE PRISIONAL IMPOSTO COMO CONDIÇÃO ESPECIAL. ILEGALIDADE.LIMITAÇÃO DE FINAL DE SEMANA. PENA RESTRITIVA DE DIREITOS. SÚMULA 493/STJ. RECURSO PROVIDO.
+I - "A limitação de final de semana consiste em pena restritiva de direitos, prevista no inciso VI do art. 43 do Código Penal, revestindo-se de caráter autônomo e substitutivo, a teor do que dispõe o art. 44, caput do mesmo Estatuto, inexistindo previsão legal para a cumulação da pena restritiva com a privativa de liberdade" (RHC n.º 64.227/MG, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe de 6/11/2015).
+II - A eg. Terceira Seção desta Corte, ao julgar o REsp n.º1.107.314/PR, representativo de controvérsia (art. 543-C do CPC), firmou orientação no sentido de que, não obstante seja lícita a determinação de condições especiais a fim da concessão para o regime aberto, não é possível ao magistrado impor quaisquer das penas substitutivas (art. 44 do Código Penal), sob pena de bis in idem.
+III - Referido entendimento restou inclusive sumulado no enunciado 493 deste eg. Sodalício: "É inadmissível a fixação de pena substitutiva (art. 44 do CP) como condição especial ao regime aberto".
+Recurso ordinário provido.(RHC n.º 68.313/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 2/8/2016, DJe 12/8/2016)
+Ante o exposto, com fundamento no art. 932, incisos V, alíneas "a" e "b", e VIII,do CPC, e no art. 255, § 4º, inciso III, do RISTJ, e na Súmula 568/STJ,dou provimentoao recurso especial, paraafastar as condições especiais (2 e 5) impostas ao recorrente.
+Intimem-se.
