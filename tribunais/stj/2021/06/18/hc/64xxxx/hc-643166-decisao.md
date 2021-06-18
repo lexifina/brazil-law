@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso, com pedido liminar, impetrado em benefício de MIKE CABRAL SIMOES, DANIEL VITOR DA SILVA e RONALD PHILIPE VLIESE MOREIRA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO no julgamento do HC n. 0081961-60.2020.8.19.0000.
+Extrai-se dos autos que os pacientes foram presos em flagrante em 11/6/2019, convertido em preventiva, e restaram denunciados pela suposta prática dos delitos tipificados no art. 157, §2º, II e V e §2º-A, I, por duas vezes, c/c o art. 70, caput, segunda parte, e no art. 180, caput, todos do Código Penal (roubos circunstanciados em concurso formal e receptação).
+Posteriormente, o Juízo de primeiro grau reavaliou a prisão preventiva dos acusados, nos termos do art. 316 do Código Penal, mantendo- as.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdãoassim ementado:
+"HABEAS CORPUS - CONSTITUCIONAL - PROCESSO PENAL - ROUBO MAJORADO -RECEPTAÇÃO - PRISÃO PREVENTIVA NECESSÁRIA - EXCESSO DE PRAZO - DEMORA JUSTIFICADA -INSTRUÇÃO ENCERRADA - APLICAÇÃO DA SÚMULA 52 DO STJ - ORDEM DENEGADA.
+Ainda que não mais se controverta, até mesmo por força de expressa disposição constitucional, que toda pessoa tem o direito de ser julgada dentro de um prazo razoável (artigo 5º, LXXVIII, CF), o exame de eventual excesso da prisão cautelar não deve ter por base merocálculo aritmético. Dentro da discricionariedade que detém, o julgador na análise respectiva deve examinar as circunstâncias em concreto do caso, mormente a sua complexidade e o comportamento da autoridade judicial originária, sempre atento à razoabilidade, até mesmo a quantidade da pena mínima prevista em abstrato para o delito imputado.
+Na hipótese vertente, a demora não ultrapassou a razoabilidade, não podendo ser desconsiderada a situação de pandemia que suspendeu a realização de diversos atos judiciais, já estando a instrução encerrada, o que autoriza a aplicação da orientação contida no enunciado 52 da súmula do STJ" (fls. 29/30).
+No presente writ,o impetrante sustenta a existência de excesso de prazo no encerramento do feito, destacando que a instrução está encerrada e o feito concluso para sentença há aproximadamente 6 meses, sem que o Juiz de primeiro grau tenha proferido decisão. Ressalta que a prisão dos pacientes já dura quase 2 anos e aponta afronta ao princípio da razoabilidade, especialmente considerando que a demora decorre exclusivamente do Juízo.
+Assevera que a última decisão relativa à prisão preventiva dos pacientes ocorreu em 6/8/2020, razão pela qual aponta afronta ao art. 316 do CPP.
+Alega não estarem presentes os requisitos autorizadores da segregação antecipada, previstos no art. 312 do CPP, sendo desnecessária a manutenção da custódia.
+Requer, em liminar e no mérito, a revogação da prisão preventiva dos pacientes, ou por sua substituição por medidas cautelares previstas no art. 319 do CPP.
+A liminar foi indeferida às fls. 36/38. Informações prestadas às fls. 44/60 e 62/66. O Ministério Público Federal opinou pelo não conhecimento dowrit em parecer acostado às fls. 67/74.
+É o relatório.
+Decido.
+Em consulta à página eletrônica do Tribunal de origem, constata-se que, em 7/6/2021, nos autos da Ação Penal n. 0014357-15.2019.8.19.0066, foi proferida sentença condenando os pacientesDANIEL VITOR DA SILVA e RONALD PHILIPE VLIESE MOREIRAà pena de 9 anos e 26 dias de reclusão, em regime inicial fechado, pela prática dodelitoprevisto no art. 157, § 2º-A, inciso I, do Código Penal,eMIKE CABRAL SIMÕES à sanção de 10 anos e 26 dias de reclusão, em regime inicial fechado, como incurso no art. 157, § 2º-A, inciso I, e no art. 180,caput, ambos do Código Penal, sendo mantidaa custódia cautelar.
+Assim, com a superveniência da sentença condenatória,resta superada a alegação de excesso de prazo para a formação da culpa, nos termos da Súmula n. 52 desta Corte.
+Por fim, com relação à alegada ausência de fundamentação idônea para a manutenção da segregação antecipada e violação ao art. 316 do CPP, conforme se vê da leitura integral do acórdão impugnado, as questões não foram apreciadas na Corte de origem. Com isso, resta afastada a competência do Superior Tribunal de Justiça para a análise das referidas matérias trazidas no presente writ, as quais devem ser previamente examinadas por órgão colegiado do Tribunal a quo, sob pena de se incidir em indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. PLEITO DE ABSOLVIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE.DOSIMETRIA. REINCIDÊNCIA. BIS IN IDEM. NÃO CONFIGURADO. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. EMBARGOS DE DECLARAÇÃO. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. OFENSA À SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+ ..
+VI - Quanto à prisão preventiva, documentos essenciais mínimos deveriam ter instruído esta impetração, mas não o foram. Ainda, não foi possível proceder à análise da insurgência da d. Defesa por esta eg. Corte Superior porque representaria indevida supressão de instância.
+VII - No que atine aos embargos de declaração, como já decidido anteriormente, a r. decisão vergastada não padeceu de omissão, obscuridade, contradição, ambiguidade ou erro material, por ter sido proferida contra os anseios da d. Defesa. Apesar de o habeas corpus em questão não ter sido conhecido, teve o seu mérito apreciado.
+VIII - No mais, a d. Defesa se limitou a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.
+(AgRg no AgRg no HC 627.099/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 01/03/2021).
+Pelo exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
