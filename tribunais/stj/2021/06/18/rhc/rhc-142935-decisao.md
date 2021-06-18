@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus,com pedido liminar, interposto porRosaria Joana da Silvacontra o acórdão proferido pela Sétima Câmara Criminal do Tribunal de Justiça de Minas Gerais (HC n.1.0000.21.003695-0/000).
+Consta dos autos que a recorrente teve a prisão preventiva decretada em razão da suposta prática do crime de roubo circunstanciado.
+Neste recurso, a defesa alega, em síntese, a ausência de fundamentos concretos para a decretação da prisão, destacando que a recorrente é primária, sem antecedentes, possui residência fixa e filho menor de doze anos de idade, que necessita dos seus cuidados.
+Requer, em liminar, a expedição de alvará de soltura em favor da recorrente. No mérito, pugna pela confirmação da liminar, dando-se provimento ao recurso.
+Admitido, o recurso subiu a esta Corte.
+Indeferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Mário Pimentel, pelo desprovimento do recurso.
+Em consulta à página eletrônica do Tribunal de Justiça, observei queainda não foi proferida sentença na ação penal objeto destes autos.
+É o relatório.
+Insurge-se a defesa contra o acórdão que manteve a prisão cautelar da recorrente.Na espécie, contudo, não há ilegalidade passível de ser afastada medianteo provimento do recurso.
+No caso dos autos, colhe-se da decisão de prisão preventiva que as transcrições das mensagens de texto e e áudio constantes do laudo de extração de dados de aparelho celular (ff. 52/99), apreendidos em poder de Edimilson Chiarelli Ambrósio e Marcos Alves Marques, os quais se encontram presos preventivamente, dão conta do envolvimento dos representados com o crime de roubo circunstanciado praticado contra os avós de 75 anos e 90 anos da representada Rosaria, sendo esta a autora intelectual do crime, e o representado Anderson, seu companheiro, participe (fl. 315 - grifo nosso).
+Sobre o pedido de prisão domiciliar, disse o Magistrado que se trata de crime praticado com violência e grave ameaça à pessoa e, ainda, quenão houve a apresentação de substrato probatório mínimo a comprovar que a investigada possui filho(s) e que seria responsável por seus cuidados,devendo ser salientado que a própria investigada informou em audiência que a criança estaria sob os cuidados dos avósdevido ao período de férias escolares(fls. 321/322 - grifo nosso).
+Pois bem. No que se refere à manutenção da prisão preventiva, não divisoilegalidade flagrante, notadamente diante das circunstâncias referenciadasnas decisões acima, aptas a justificar a prisão pelagarantia da ordempública, ante a gravidade concreta docrime, apericulosidade da recorrente, que tramou um roubo contra os próprios avós idosos.
+E, mais, acerca do pedido de prisão domiciliar, com razão o nobre Ministério Público Federal quando destacou, em seu parecer, que, embora a recorrente possua filhos menores de 12 (doze) anos de idade, a gravidade concreta do contexto em que ela está inserida (crime de roubo circunstanciado praticado contra os avós de 75 anos e 90anos da representada Rosária), somada ao fato de que em momento algum foi demonstrado que ela exercia, efetivamente, o poder familiar sobre o filho, inclusive, infere-se dos autos que a criança está sendo cuidada pela avó (fl. 322), não recomenda o cumprimento da pena em prisão domiciliar(fl. 614).
+Nesse sentido, a propósito,não comprovado que o réu é o único responsável pelos cuidados do seu filho, que tem 3 (três) anos de idade, inviável a sua colocação em prisão domiciliar(HC n. 367.828/SP, Ministro Jorge Mussi, Quinta Turma, DJe 17/4/2017).
+Ademais, hádiversos julgados desta Corte, dispondo que não háfalar emconstrangimento ilegal quando a custódia cautelar está devidamentejustificada na garantia da ordem pública, em razão da periculosidadeefetiva do agente, evidenciada pelas circunstâncias adjacentes ao eventocriminoso denunciado (RHC n. 97.037/BA, Ministro Jorge Mussi, QuintaTurma, DJe 28/6/2018).
+Assim, tenho que ficou demonstrada a legalidade da manutenção da prisão cautelar, não se revelando suficientes, para o caso em análise, as medidasprevistas no art. 319 do Código de Processo Penal.
+Ante o exposto,nego provimentoao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EMHABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA.GRAVIDADE CONCRETA DO DELITO. CRIME PRATICADO CONTRA OS PRÓPRIOS AVÓSCOM A AJUDA DO SEU COMPANHEIRO. FILHO MENOR DE 12 ANOS DE IDADE. PRISÃO DOMICILIAR. IMPOSSIBILIDADE. PARECER ACOLHIDO.
+Recurso em habeas corpusimprovido.
