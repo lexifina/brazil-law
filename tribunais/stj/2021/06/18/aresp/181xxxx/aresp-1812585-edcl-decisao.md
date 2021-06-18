@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração, opostos por SPE CONSTRUTORA S/A CAVALCANTE L LTDA. e OUTRO, contra decisão monocrática de fls. 545/549 (e-STJ), a qualconheceudo agravo (art. 1.042, do CPC/15) apresentado pela ora insurgentes para, de pronto, negar provimento ao recurso especial.
+Em suas razões de fls. 551/554 (e-STJ), as embargantes apontam a ocorrência de omissão a macular odecisumrecorrido, consubstanciada na ausência de pronunciamento sobre ponto relevante para a solução da controvérsia, qual seja, teria a instância de origem partido de premissa equivocada quanto à rescisão do contrato de compra e venda de imóvel. Assevera que apesar do decidido, areferida resilição ela teria ocorrido por culpa exclusiva da parte autora.
+Sem impugnação (certidão de fl. 558, e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece acolhimento.
+1. Segundo entendimento consolidado desta Corte Superior, configura omissão relevante e impugnável por meio de embargos de declaração a não apreciação, pela manifestação jurisdicional, de tese ou matéria expressamente suscitada pela parte processual e cujo exame, se fosse realizado, poderia alterar o resultado da controvérsia.
+Há contradição, de outro lado, quando as premissas e conclusões da decisão estejam incongruentes, impedindo a exata compreensão do dispositivo.
+A obscuridade, a seu turno, é vício de fundamentação caracterizado pela falta de clareza, confusão e ambiguidade do conteúdo do ato jurisdicional.
+Por fim, o erro material é concebido com um equívoco ou inexatidão relacionado a aspectos objetivos do julgado, evidente e reconhecível à primeira vista.
+Na espécie, o decisum embargado não padece de quaisquer desses vícios.
+Conforme restou decidido,a partir da leitura do acórdão impugnado, verifica-se que a apontada ofensa não se configura, na medida em que a Corte Estadual, ao apreciar os recursos interpostos pela parte, dirimiu a controvérsia e decidiu as questões postas à apreciação de forma ampla e fundamentada, sem omissões, expondo os motivos para o desprovimento do recurso interposto, manifestando-se de forma expressa acerca do ponto apontado como omisso -responsabilidade das empresas demandadas pelo pedido de rescisão contratual, fundando no atraso injustificado, além do prazo de tolerância, para entrega do imóvel.
+É o que se extrai do seguinte trecho do julgado recorrido(fls. 443/444, e-STJ):
+Trata-se de resolução de contrato de compra venda de imóvel, com pedido de devolução integral dos valores pagos, em razão de atraso na entrega do imóvel.
+O prazo final de entrega estabelecido no contrato foi até outubro de 2016, já considerando a cláusula de tolerância, entretanto, somente em janeiro de 2017 ocorreu a entrega, sendo inegável o atraso e o inadimplemento das rés.
+As justificativas apresentadas pelas rés/apelantes para rechaçar a mora, notadamente a escassez de mão e obra e os entraves para obtenção do habite-se junto à Prefeitura, traduzem atividades próprias da construtora e da incorporadora, que se inserem no conceito de fortuito interno. Logo, não têm o condão de excluir a responsabilidade e não afastam o dever de indenizar, nos termos do verbete n.º 94 da Súmula deste Egrégio Tribunal:
+"Súmula n.º 94 TJRJ: Cuidando-se de fortuito interno, o fato de terceiro não exclui o dever do fornecedor de indenizar".
+Desse modo, patente a existência de falha na prestação do serviço pelo descumprimento do prazo de entrega do imóvel ao consumidor, resultando na responsabilidade objetiva da ré, consoante disposto no artigo 12 do Código de Defesa do Consumidor.
+Ao descumprirem o prazo limite para a entrega das chaves, sem qualquer justificativa capaz de elidira sua responsabilidade contratual, as rés deram ensejo a que o autor adimplente optasse pela rescisão contratual com a devolução integral do valor por ele pago. Portanto, não obstante as alegações das rés de que a pretensão do autor revelaria desistência do negócio jurídico, o atraso se deu por culpa exclusiva do promitente devedor, o que acarreta a devolução integral e imediata das quantias pagas pelo consumidor, nos termos da súmula 543 do STJ:
+"Súmula 543 -Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador -integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento."
+Na hipótese, o fundamento do desfazimento contratual não é a desistênciaimotivada, mas o inadimplemento do fornecedor, o que obsta a incidência das normas contratuais ou legais que estabeleçam a retenção, pelas rés, de parte do valor pago pelo autor em caso de desistência, ainda que se possa vislumbrar que a incorporadora sofra prejuízos decorrentes da rescisão.  sem grifos no original
+Depreende-se, portanto, que longe de apontar vícios de fundamentação no decisum embargado, pretendem asinsurgentes, em verdade, rediscutir o acerto da decisão recorrida, não se revelando os embargos declaratórios meio processual adequado para tanto.
+Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC/2015, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+2. Do exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
