@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de JOYCE KELLEN CAMILO, contra decisão indeferitória da liminar, proferida por Desembargador doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Extrai-se dos autos que o paciente foi condenada à pena de06 anos, 02 meses e 20 dias de reclusão, no regime inicial fechado, e pagamento de 14 dias-multa, pela prática do delito previsto no art. 157, 2º, II, do Código Penal. Com trânsito em julgado, foi determinada a expedição de mandado de prisão para o cumprimento da pena.
+A defesa impetrou habeas corpus perante o TJSP, tendo sido indeferido o pleito liminar.
+Neste writ, a impetrante alega, em síntese, a existência de flagrante ilegalidade capaz de superar o óbice da Súmula 691 do STF porquanto a paciente, que está em liberdade, é mãe de duas crianças menores, uma com apenas 8 meses de idade e ainda em fase de amamentação, que necessitam dos seus cuidados exclusivos, haja vista que tanto o pai da menor com 12 anos de idade, quanto o pai da criança com 8 meses encontram-se presos.
+Sustenta, ainda, que a paciente sofre com problemas na cervical e apenas não foi submetida a intervenção cirúrgica porque estava grávida.
+Ao final, requer a concessão da ordem, inclusive liminarmente para que seja a paciente colocada em prisão domiciliar.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+Sobre o tema, os seguintes precedentes:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PLEITO DE APRESENTAÇÃO DE MEMORIAIS ESCRITO E NO PRAZO RAZOÁVEL. ALEGADA COMPLEXIDADE DO FEITO. TEMA A SER EXAMINADO PELO JUÍZO PROCESSANTE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. Na espécie, o Juízo de 1º grau, explicitamente, afastou a necessidade de apresentação das alegações finais por escrito, ao afirmar que não se tratava de feito complexo, bem como o número de acusados fora reduzido com o desmembramento da ação penal. Assim, modificar tal entendimento demandaria incursão no acervo probatório dos autos, inviável na sede eleita. Impossibilidade de superação do enunciado sumular 691/STF.
+3. Por outro lado, nada impede que o Juízo Processante, ao final da instrução e pela proximidade com os fatos, possa reavaliar o pleito defensivo de apresentação de alegações finais por escrito, momento em que examinará a verdadeira complexidade do feito, lembrando-se que o cumprimento do princípio constitucional da duração razoável do processo (art. 5º, LXXVIII, da CF) não pode sobrepor às garantias constitucionais do cidadão no processo penal, em especial o respeito ao contraditório e à ampla defesa (art. 5º, LV, da CF).
+4. Agravo regimental improvido."
+(AgRg no HC 495.211/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/03/2019, DJe 29/03/2019)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.º 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF.
+2. No caso, não se constata ilegalidade patente que autorize a mitigação da Súmula n.º 691 da Suprema Corte, tendo em vista que foi demonstrada a necessidade de manutenção da segregação cautelar, em virtude da "participação ativa do paciente na quadrilha voltada ao tráfico de entorpecentes, com a qual foi apreendida mais de 01 (uma) tonelada de cocaína, figurando o paciente na ORCRIM como piloto da aeronave".
+3. Conforme orientação desta Corte, a quantidade e a natureza da droga apreendida, bem como a necessidade de se interromper as atividades de organização criminosa, são circunstâncias aptas a justificar a segregação provisória.
+4. Agravo regimental desprovido."
+(AgRg no HC 496.205/MT, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/03/2019, DJe 01/04/2019)
+No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem, na medida em que se encontraassim motivada:
+"Trata-se de Habeas Corpus Criminal, com pedido liminar, impetrado em favor de JOYCE KELLEN CAMILO, alegando, em síntese, que a paciente está sofrendo constrangimento ilegal por ato do Juízo da 2ª Vara Criminal do Foro de Birigui. Sustenta a impetrante, em síntese, que a paciente foi condenada à pena de 6 anos, 02 meses e 20 dias de reclusão, no regime inicial fechado, e pagamento de 14 dias-multa, como incursa no art. 157, parágrafo 2º,inciso II, do Código Penal, tendo sido expedido mandado de prisão para cumprimento de pena.
+Aduz que houve pedido de concessão de prisão domiciliarem favor da paciente, o qual não foi analisado pelo juízo de primeiro grau, uma vez que a condenação transitou em julgado e o referido pedido deveria ser apresentado junto ao Juízo das Execuções.
+Afirma o impetrante, contudo, que não houve a expedição da guia de recolhimento, eis que a paciente se encontra solta.
+Assevera que a paciente faz jus à prisão domiciliar pois possui dois filhos menores de 12 anos, sendo certo que os pais de cada uma das crianças também se encontram presos.
+Aduz que a paciente também é portadora de lesão cervical, motivo pelo qual também faz jus à prisão domiciliar. Pontua que a paciente trabalha como costureira, sendo o referido trabalho desenvolvido em âmbito domiciliar e responsável pela sobrevivência da paciente e de seus filhos.
+Com tais fundamentos, requer a concessão da prisão domiciliar ao paciente, em sede liminar, com posterior confirmação da ordem (fls.01/12).
+Indefiro a liminar.
+Em que pesem os argumentos trazidos pela Defesa, não se vislumbra, por ora, o fumus boni iuris e o periculum in mora necessários para a concessão da liminar.
+A medida liminar em habeas corpus somente é cabível quando o constrangimento ilegal for manifesto, detectado de imediato, através do exame sumário da inicial e dos documentos que a instruem. Em outras palavras, a concessão de liminar é medida excepcional, sendo que no presente caso não se divisa ilegalidade manifesta a ponto de ensejar a antecipação do mérito do writ.
+Anoto, pois, através de uma análise perfunctória própria do writ, que consta despacho mencionando o trânsito em julgado da sentença condenatória (fls. 14), de forma que, ao que tudo indica, a expedição de mandado de prisão em desfavor da paciente teria ocorrido de forma regular, para início do cumprimento da pena.
+Ainda, convém assinalar que a análise do pedido de concessão de prisão domiciliar recai sobre o Juízo das Execuções.
+Prudente, então, aguardar as informações a serem prestadas pela autoridade coatora. Processe-se e oficie-se solicitando informações, que deverão ser complementadas, oportunamente, em havendo ocorrência importante na tramitação processual, a teor do art. 495 e seu parágrafo único, das Normas de Serviço da Corregedoria Geral da Justiça.
+Após, remetam-se os autos a douta Procuradoria Geral de Justiça para r. parecer, em seguida retornem conclusos." (e-STJ, fls. 19-21).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
