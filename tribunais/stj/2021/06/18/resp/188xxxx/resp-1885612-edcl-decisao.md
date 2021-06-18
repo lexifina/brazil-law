@@ -1,0 +1,34 @@
+DECISÃO
+MAICON BORGES - ESPÓLIO e outros (ESPÓLIO e outros) ajuizaram ação de cobrança cumulada com exibição de documentos contra METROPOLITON LIFE SEGUROS E PREVIDÊNCIA PRIVADA S.A. (SEGURADORA).
+A sentença julgouprocedente os pedidos formulados na inicial.
+O Tribunal de Justiça de Santa Catarina deu provimento ao recurso de apelação da SEGURADORA em acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. INVALIDEZ PERMANENTE POR ACIDENTE. PERÍCIA MÉDICA. LAUDO QUE APONTA A EXISTÊNCIA DE INVALIDEZ PARCIAL PERMANENTE. PAGAMENTO PROPORCIONAL À EXTENSÃO DO DANO.
+APLICAÇÃO DA TABELA PARA O CÁLCULO E PAGAMENTO DA INDENIZAÇÃO PREVISTA NAS CONDIÇÕES GERAIS DA APÓLICE. CIÊNCIA PESSOAL SOBRE AS CLÁUSULAS LIMITATIVAS. SEGURO CONTRATADO VIA ESTIPULANTE. REPRESENTANTE DIRETA DO SEGURADO COM INCUMBÊNCIA DE INFORMAR SOBRE TODO O CONTEÚDO DA AVENÇA. SENTENÇA REFORMADA.
+RECURSO PROVIDO.
+"É aplicável a redução variável do capital segurado com base em tabela constante nas "Condições Gerais" do contrato, na medida em que indicada a existência de cláusula limitativa na apólice, cuja obrigação de cientificação não era da seguradora, mas da estipulante do seguro em grupo" (TJSC, Apelação Cível n. 0304346-08.2016.8.24.0036, de Jaraguá do Sul, rel. Des. Luiz Cézar Medeiros, Quinta Câmara de Direito Civil, j. em 18-6-2019)(e-STJ, fl. 442).
+Os embargos de declaração opostos por ESPÓLIO e outros foram rejeitados (e-STJ, fls. 457/464).
+Inconformado, o ESPÓLIO e outros interpuseramrecurso especial com fundamento no art. 105, III,aec, da CF, alegando dissídio jurisprudencial e ofensa aos arts. 6º, III, 14, 46, 47, 51, § 1º, I, II, III, IV, IX, XV, e 54, § 3º, do CDC; 489, IV, 490, 492 e 1.022 do NCPC e 422, 423, 757 e 765 do CC/02, sustentou, em síntese, (1) que houve omissão no acórdão recorrido, pois o Tribunal deixou de observar que não há comprovação de que a estipulante recebeu informações sobre o contrato de seguro, pressuposto necessário para que pudesse repassar informações ao autor; e (2) que, nos contratos de seguro de vida, é dever da seguradora informar ao segurado acerca das cláusulas limitativas da indenização ao grau de invalidez, sob pena de pagamento integral do capital segurado.
+Apresentadas contrarrazões, o recurso especial foi admitido na origem.
+Nesta Corte, o recurso foi provido em decisão monocrática de minha lavra assim sintetizada:
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA.IRRESIGNAÇÃO SUBMETIDA AO NCPC.NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. DEVER DE INFORMAÇÃO QUANTO ÀS CONDIÇÕES DA APÓLICE QUE DEVE SER OBSERVADA PELA SEGURADORA. PRECEDENTES. RECURSO ESPECIAL PROVIDO(e-STJ, fl. 556).
+O agravo interno interposto pela SEGURADORA foi provido para reconsiderar, em parte, a decisão agravada e, em novo julgamento, negar provimento ao recurso especial interposto por ESPÓLIO e outros, assim sintetizada:
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.IRRESIGNAÇÃO SUBMETIDA AO NCPC.AÇÃO DECOBRANÇA DE INDENIZAÇÃO SECURITÁRIA. SEGURO DE VIDA EM GRUPO. DEVER DEINFORMAÇÃO QUANTO ÀS CONDIÇÕES DA APÓLICE QUE DEVEM SER OBSERVADAS PELA ESTIPULANTE. ENTENDIMENTO RECENTE DA TERCEIRA TURMA DESTA CORTE. DECISÃO RECONSIDERADA EM PARTE. RECURSO ESPECIAL NÃOPROVIDO(e-STJ, fl. 605).
+No presente integrativo, ESPÓLIO e outrosalegaram omissão no julgado acerca do não cumprimento do dever primário por parte da seguradora junto à estipulante e consequentemente o não cumprimento do dever destapara com os segurados (dever secundário). Assim, eles devem receber o valor integral da apólice de seguro no que tange a cobertura de invalidez permanente por acidente.
+Impugnação foi apresentada (e-STJ, fls. 624/643).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nos presentes embargos de declaração, ESPÓLIO e outros alegaram omissão no julgado acerca do não cumprimento do dever primário por parte da seguradora junto à estipulante e consequentemente o não cumprimento do dever desta para com os segurados (dever secundário). Assim, eles devem receber o valor integral da apólice de seguro no que tange a cobertura de invalidez permanente por acidente.
+Entretanto, razão não lhe assiste.
+A decisão foi clara e fundamentadamente concluiu que, em contrato de seguro de vida coletivo, compete à estipulante o dever de informar aos segurados os limites e as condições da apólice do seguro de vida.
+Consignou, ainda, que o entendimento doTJSC estava em conformidade com o posicionamento desta Corte, ao concluir que:
+Por outro lado, é entendimento desta Câmara que a responsabilidade pelas informações sobre o conteúdo do contrato, das condições gerais e das cláusulas limitativas está diretamente ligada à estipulante e não à seguradora, pois àquela compete representar os interesses do segurado, nos casos de seguro de vida em grupo e em razão da natureza jurídica desse tipo de contratação (e-STJ, fl. 447).
+Além disso, a alegação de que a SEGURADORA não cumpriu com odever primário de informar à estipulante acerca das condições gerais e das cláusulas limitativas do seguro, e consequentemente o não cumprimento do dever desta para com os segurados (dever secundário), não foi apreciada pelo TJSC, carecendo, portanto, do necessário prequestionamento viabilizador do recurso especial.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC, merecendo ser mantida incólume a decisão embargada, que conta com fundamentação lógica, clara e suficiente.
+Nessas condições, REJEITO os embargos de declaração.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVOINTERNO NO AGRAVOEM RECURSO ESPECIAL. RECURSO MANEJADO NA ÉGIDE DO NCPC. VIOLAÇÃO DO ART. 1.022 DO NCPC. VICIOS. NÃO CONFIGURADOS.PRETENSÃO DEREJULGAMENTO DA CAUSA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
