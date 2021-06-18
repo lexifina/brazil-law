@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial do MUNICÍPIO DE TRÊS LAGOAS interposto contra acórdão do Tribunal de Justiça do Mato Grosso do Sul, assim ementado:
+AGRAVO DE INSTRUMENTO - EMBARGOS EM EXECUÇÃO FISCAL - INCOMPETÊNCIA RECONHECIDA - REMESSA PARA A COMARCA DE RESIDÊNCIA DO RÉU - ART. 46, §5º DO CPC - RECURSO CONHECIDO E IMPROVIDO - DECISÃO MANTIDA.
+O art. 46, § 5º, do novo CPC, estabelece expressamente que "a execução fiscal será proposta no foro de domicílio do réu, no de sua residência ou no do lugar onde for encontrado", de modo que o processo deve ser remetido a uma das Varas de Execução Fiscal da comarca do Rio de Janeiro-RJ, local de residência do executado.
+Recurso conhecido e improvido. Decisão mantida.
+Os embargos de declaração foram rejeitados.Nas razões do recurso especial, o recorrente aponta, além do dissídio jurisprudencial,violação aos arts.1º, 2º, 5º da Lei 6830/1980, 7º, 127 do CTN e 44, 53, III, "d", e 797 do CPC, aduzindo que o decisum, ao declinar a competência da presente execução fiscal ao juízo competente da comarca do Rio de Janeiro - RJ, negou vigência aos dispositivos citados, uma vez que a norma do crédito tributário é soberana, e exclui qualquer outro foro (em se tratando de créditos da Fazenda Pública prevalece o juízo da execução fiscal competente para processar o feito), além do que a execução fiscal deverá ser proposta no local do fato gerador do crédito tributário - local onde a obrigação deve ser cumprida-, e não no domicilio do executado.
+Foram apresentadas contrarrazões.
+Sobreveio juízo negativo de admissibilidade fundado na incidência da vedação da Súmula 83/STJ.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Houve contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Preenchido os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A matéria elencada nos arts. 1º, 2º, 5º da Lei 6830/1980, 7º, 127 do CTN e 44, 53, III, "d", e 797 do CPC, não comporta exame no âmbito desta Corte de Justiça, porquanto ausente o necessário prequestionamento.
+Não há dúvida de que, enfrentada a questão/tese pelo Tribunal a quo, haverá prequestionamento. No entanto, se a questão não houver sido examinada por esse, não obstante ter sido instada a se manifestar - ainda que em sede de embargos declaratórios - é dever da parte recorrente interpor recurso especial por violação ao art. 1.022 do CPC, demonstrando em qual ponto o exame de tal dispositivo seria capaz de comprometer a verdade posta nos autos. Quedando-se inerte quanto a tal providência, incide, sim, à espécie o enunciado sumular nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Ademais, o Tribunalde origem decidiu a controvérsia nos seguintes termos:
+(..) Com a entrada em vigor do novo Código de Processo Civil, o ordenamento passou a prever o critério de competência territorial para as execuções fiscais, nos termos do art. 46, §5 o , que expressamente dispõe que "a execução fiscal será proposta no foro de domicílio do réu, no de sua residência ou no do lugar onde for encontrado".
+Havendo, pois, norma expressa e clara no sentido de que a execução fiscal deverá ser proposta no foro de domicílio do réu, não há outra saída que não a adotada pela douta juíza a quo, que reconheceu sua incompetência para o processamento do feito, remetendo os autos à comarca do Rio de Janeiro.
+(..)Ademais, embora o município sustente que a norma especial se impõe sobre a norma geral, é certo que não há disposição em contrário na Lei de Execução Fiscal.
+Ademais, não há como retirar a natureza especial do dispositivo supratranscrito, já que se refere especificamente à execução fiscal, resolvendo-se a questão por um critério temporal, ou seja, norma posterior revoga norma anterior.
+Ocorre que a parte recorrente, em seu recurso especial, não impugnou o argumento utilizado pelo Tribunal de origem como fundamento de decidir.Dessa forma, incide, na espécie, a Súmula 283 do Supremo Tribunal Federal, por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. PODER DE POLÍCIA. FORO COMPETENTE. EXECUÇÃO FISCAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTO ADOTADO PELA ORIGEM NÃO COMBATIDO PELO ESPECIAL. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
