@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino (Presidente), Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL.FALÊNCIA. AÇÃO REVOCATÓRIA.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. NULIDADE DE INTIMAÇÕES. DESÍDIA DO SÍNDICO NA PUBLICAÇÃO DO AVISTO PREVISTO PELO ART. 114 DO DECRETO-LEI Nº7.661/45. TEMAS NÃOS PREQUESTIONADOS. VIOLAÇÃO DO ART. 1.022DO NCPC. OMISSÃO QUANTO AO PEDIDO DE RETIRADA DA PAUTA VIRTUAL. DESEJO DE REALIZAÇÃO DE SUSTENTAÇÃO ORAL. NULIDADE DE JULGAMETNO AFASTADA. ALEGAÇÃO DE QUE OS TEMAS ESTAVAM PREQUESTIONADOS. INTENÇÃO DE REJULGMAENTO DA CAUSA. OMISSÃO NÃO CONFIGURADA.EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. Não se reconhece a violação do art. 1.022 do NCPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+ROBERT BOSCH LTDA. (BOSCH) ajuizou ação revocatória contra TECDIESEL COMERCIAL DIESEL LTDA. (TECDIESEL), JOSÉ MARCELO MATOS DE FREITAS (JOSÉ) e DENISE CAVALCANTE DE FREITAS (DENISE) alegando que,após o termo legal da falência, isto é, durante o período suspeito, TECDIESEL alienou fraudulentamente o imóvel que servia de estabelecimento comercial. Ao final, requereu a declaração de ineficácia do negócio jurídico e a arrecadação do bempara satisfação dos credores da massa falida (e-STJ, fls. 30/36).
+A sentença julgou procedente o pedido, condenando os réus ao pagamento de honorários advocatícios equivalentes a 20% sobre o valor do imóvel (e-STJ, fls. 203/210).
+O Tribunal de Justiça do Cearánegou provimento aos recursos de apelação interpostos por JOSÉ e por TECDIESEL e DENISE em acórdão assim ementado:
+FALIMENTAR. APELAÇÃO CÍVEL. AÇÃO REVOGATÓRIA. PRELIMINAR DE CERCEAMENTO DE DEFESA REJEITADA. INOCORRÊNCIA DE JULGAMENTO "EXTRA PETITA". ALEGAÇÃO DE DECADÊNCIA DO DIREITO DE AÇÃO AFASTADA. ALIENAÇÃO DE IMÓVEL NO PERÍODO "SUSPEITO". APLICAÇÃO DA NORMA CONTIDA NO ARTIGO 52, VIII, DA ANTIGA LEI DE FALÊNCIAS. COMPROVAÇÃO DO CONSILIUM FRAUDIS E DO EVENTUS DAMNI. SENTENÇA QUE JULGA PROCEDENTE O PEDIDO INICIAL. CONFIRMAÇÃO. RECURSOS DESPROVIDOS.
+1. Preliminar de cerceamento de defesa. De acordo com o que alegam os apelantes, houve cerceamento de defesa, sendo nula adecisão, tendo em vista a ausência de intimação acerca do despacho que comunicou estar o feito pronto para julgamento.
+2. Hipótese em que a alegação de cerceamento de defesa não subsiste. Isto porque o i. Juiz "a quo" - o destinatário da prova, a quem compete manejar os meios probatórios, aferindo sobre a necessidade ou não de sua realização - entendeu que os documentos levados aos autos já se faziam hábeis e suficientes à elucidação dos pontos controvertidos da lide, e, assim, à formação do seu convencimento. Preliminar rejeitada.
+3. Preliminar de julgamento "extra petita". Aduzem mais que, na espécie, houve julgamento "extra petita", uma vez que a parte autora teria pleiteado apenas a retirada da eficácia do ato praticado, e não a sua anulação.
+4. Todavia, a sentença primeva encontra-se em plena consonância com o pedido constante na inicial, qual seja, a declaração de ineficácia da alienação do imóvel em relação à massa falida. Ora, ao anular a venda, tornou o juiz ineficaz o ato. Ademais, conforme pacificado no ordenamento jurídico, nos termos do brocadonarra mihi factum dabo tibi ius, o juiz conhece o direito e o aplica aos fatos apresentados, sem qualquer vinculação aos exatos termos e fundamentos trazidos pelas partes. Preliminar rejeitada.
+5. Decadência. O prazo decadencial previsto para a propositura da ação revocatória é de 1 (um ano), nos termos do art. 56, § 1º do Decreto-Lei n. 7.661/45. O referido dispositivo arrola como termo inicial para a contagem do citado prazo a publicação do aviso a que se refere o art. 114 e seu parágrafo. Dessa forma, tendo em vista a certidão de inocorrência da publicação do aviso previsto no art. 114 (fl. 270), não se iniciou ainda o marco temporal para início da contagem do prazo, não havendo que se falar, portanto, na ocorrência da decadência.
+6. A ação revocatória falencial é instrumento do qual pode se valer o síndico, ou, em caso de omissão do mesmo, qualquer credor, para o escopo de tornar ineficaz, perante a massa, atos que se revelem lesivos ao patrimônio do falido, quando, objetiva ou subjetivamente, o reduzam ao estado de insolvência.
+7. Não merece qualquer reforma a sentença. É que, de fato, de acordo com a prova documental colacionada, a alienação do imóvel operou-se no período "suspeito", ou seja, posteriormente ao termo inicial da falência, onde é proibida a prática de atos considerados lesivos por parte do falido, incindindo, portanto, o disposto no art. 52, inciso VIII, do Decreto-Lei n. 7.661/45.
+8. No caso em tela, confrontando os documentos acostados nos autos, pode-se concluir se encontram presentes os requisitos doconsilium fraudise oeventus damni, razão pela qual deve a alienação do bem ser declarada ineficaz em relação à massa falida, visto a comprovação da ocorrência da fraude.
+9. Recursos conhecidos e desprovidos. Sentença confirmada(e-STJ, fl. 423/424).
+Irresignado, JOSÉ interpôs recurso especial com fundamento no art. 105, III,a, da CF, alegando ofensa aos arts.(1)238 e247do CPC/73, porque não foi regularmente intimado da decisão que acenou com o julgamento antecipado do feito; e(2)56, § 1º, do Decreto-lei nº 7.661/45,330 e 333 do CPC/73,pois consumado o prazo decadencial para a propositura da ação revocatória. A propósito, alegou que referido prazo teve iníciocom a publicação do aviso ao interessadosprevisto no art. 114 do Decreto-lei nº 7.661/45, pois aarrecadação de bens da falida, ainda quede forma atípica, foi levada a efeito, com a manifestação do síndico, informado que teriam sido localizados bens penhoráveis (e-STJ, fls. 482/494).
+TECDIESEL e DENISEmanejaramrecurso especialidêntico (e-STJ, 482/494).
+Apresentadas contrarrazões (e-STJ, fls. 550/563), os recursos foram ambos admitidosna origem (e-STJ, fls. 594/596).
+O Ministério Público Federal opinou pelo não conhecimento dos apelos nobrescom fundamento nas Súmulas nºs 7 do STJ e 283 do STF.
+Em seguida, neguei conhecimentoaos recursos em duas decisões monocráticasresumidas, igualmente, nos seguintes termos:
+RECURSO ESPECIAL. AÇÃO REVOCATÓRIA. IRRESIGNAÇÃO SUBMETIDA AO NCPC. NULIDADE DE INTIMAÇÕES. DESÍDIA DO SÍNDICO NA PUBLICAÇÃO DO AVISTO PREVISTO PELO ART. 114 DO DECRETO-LEI 7.661/45. TEMAS NÃOS PREQUESTIONADOS. RECURSO ESPECIAL NÃO CONHECIDO(e-STJ, fls. 620 e 624)
+JOSÉ, TECDIESEL e DENISE, interpuseram, em conjunto, um únicoagravo interno, impugnando ambas as decisões. Alegaram que, ao contrário do que afirmado,(1)o tema relativo a ausência de intimação das partes acerca do julgamento antecipado da lide estaria devidamente prequestionado e que (2)estaria igualmente prequestionadaa alegação de decadência para a propositura da ação revocatória.
+O agravo interno foi desprovido pela Terceira Turma por acórdão prolatado em sessão virtual de julgamento, assim ementado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. FALÊNCIA. AÇÃO REVOCATÓRIA. IRRESIGNAÇÃO SUBMETIDA AO NCPC. NULIDADE DE INTIMAÇÕES. DESÍDIA DO SÍNDICO NA PUBLICAÇÃO DO AVISTO PREVISTO PELO ART. 114 DO DECRETO-LEI 7.661/45. TEMAS NÃOS PREQUESTIONADOS. AGRAVO INTERNO NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. O Tribunal local não se manifestou sobre a alegação de nulidade do processo por falta de intimação prévia das partes acerca do julgamento antecipado da lide. Tampouco se manifestou sobre a afirmativa de que o prazo decadencial para a propositura da ação revocatória falimentar teria início na data em que o síndico informou não haver bens da falida passíveis de penhora.
+3. Os temas suscitados no recurso especial carecem, portanto, do devido prequestionamento, merecendo aplicação as Súmulas nºs 282 e 356 do TF.
+4. Agravo interno não provido (e-STJ, fl. 670).
+Nos presentes embargos de declaração, igualmente manejado de forma conjunta porJOSÉ, TECDIESEL e DENISE, alegou-se que o acórdão foi omisso, porque (1)não se manifestou quanto a impugnação à realização de julgamento virtual; e(2) não levou em consideração que os temas suscitados no recurso especial estariam devidamente prequestionados.
+Foi apresentada impugnação aos embargos (e-STJ, fls. 696/702).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL.FALÊNCIA. AÇÃO REVOCATÓRIA.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. NULIDADE DE INTIMAÇÕES. DESÍDIA DO SÍNDICO NA PUBLICAÇÃO DO AVISTO PREVISTO PELO ART. 114 DO DECRETO-LEI Nº7.661/45. TEMAS NÃOS PREQUESTIONADOS. VIOLAÇÃO DO ART. 1.022DO NCPC. OMISSÃO QUANTO AO PEDIDO DE RETIRADA DA PAUTA VIRTUAL. DESEJO DE REALIZAÇÃO DE SUSTENTAÇÃO ORAL. NULIDADE DE JULGAMETNO AFASTADA. ALEGAÇÃO DE QUE OS TEMAS ESTAVAM PREQUESTIONADOS. INTENÇÃO DE REJULGMAENTO DA CAUSA. OMISSÃO NÃO CONFIGURADA.EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. Não se reconhece a violação do art. 1.022 do NCPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+4. Embargos de declaração rejeitados.
+VOTO
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Impugnação à realização de julgamento virtual
+De fato, após a interposição do agravo interno,foi juntadaaos autospetição de que o julgamento não se realizasse de forma virtual.
+Essa pretensão, no entanto, tinha por objetivo propiciar a sustentação oral das razões recursais, conforme se depreende da seguinte passagem:
+Foi tomado conhecimento, por meio da publicação no Diário da Justiça Eletrônico, que o presente recurso seria julgado em sessão virtual. No entanto, Excelência, os recorrentes impugnam o julgamento em sessão virtual, tendo em vista a preferência pela realização de defesa oral junto ao Superior Tribunal de Justiça.
+Dessa forma, pede-se que seja realizada a sustentação oral segundo § 2º, do art. 937 do NCPC, prestando devida observância aos normativos do Superior Tribunal de Justiça.(e-STJ, fls. 665/666).
+Nos termos do RISTJ, porém, não cabe sustentação oral no julgamento de agravo interno interposto em processos de competência recursal.
+Anote-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUSTENTAÇÃO ORAL. NÃO CABIMENTO. JULGAMENTO VIRTUAL.FUNDAMENTAÇÃO. AUSÊNCIA.
+1. Descabida a sustentação oral em agravo interno contra decisão que nega provimento a recurso especial, conforme dispõem os arts. 159, inciso IV, do Regimento Interno do Superior Tribunal de Justiça e 937, § 3º, IX, e 1.021 do Código de Processo Civil de 2015.
+2. A oposição ao julgamento virtual prevista no art. 184-D, parágrafo único, II, do RISTJ deve se dar de forma fundamentada pela parte nas razões do recurso, circunstância não configurada no caso dos autos. Precedentes.
+3. Embargos de declaração acolhidos para fins de esclarecimentos, sem efeitos modificativos.
+(EDcl no AgInt no AREsp 1.587.488/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/5/2021)
+EMBARGOS DE DECLARAÇÃO. PEDIDO DE SUSTENTAÇÃO ORAL EM AGRAVO INTERNO. DESCABIMENTO.
+1. Nos termos do artigo 159, IV, do Regimento Interno do STJ, não haverá sustentação oral no julgamento de agravo interno, salvo expressa disposição legal em contrário.
+2. Embargos de declaração acolhidos sem efeitos modificativos.
+(EDcl no AgInt nos EDcl no REsp 1.889.429/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 3/3/2021)
+Isso significa que não era mesmo o caso de deferir o pedido de retirada do julgamento da pauta virtual, razão pela qual não há falar em nulidade do julgamento.
+(2)Prequestionamento
+JOSÉ, TECDIESEL e DENISE, alegaram que o acórdão foi omisso, porque não levou em consideração que os temas suscitados no recurso especial estavam devidamente prequestionados.
+De acordo com a jurisprudência desta Corte, a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Da acurada análise dos autos se verifica que o acórdão embargado foi claro ao pontuar que os temas suscitados no recurso especial não estavam prequestionados.
+Observa-se, dessa forma, que não foi demonstrado nenhum vício no acórdão embargado a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão é clara e suficiente para respaldar a conclusão alcançada.
+Nesse sentido, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa, o que não se pode admitir.
+Anote-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. EX-EMPREGADOS APOSENTADOS. PERMANÊNCIA NO PLANO DE SAÚDE COLETIVO. ART. 31 DA LEI N. 9.656/1988. CONDIÇÕES ASSISTENCIAIS E DE CUSTEIO. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca o simples rejulgamento da causa.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp 1.818.487/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Segunda Seção, DJe 20/4/2021)
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, pelo meu voto, REJEITO os embargos de declaração, com esclarecimentos.
