@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo fundadomanejado pelo Posto de Serviços Leste Oeste Ltda., desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 548):
+ICMS - Substituição tributária "para frente" - Comércio varejista de combustíveis automotivos  Insurgência do contribuinte contra a imposição de restrições administrativas ao creditamento do tributo recolhido a maior pela refinaria e/ou distribuidoras  Exigências administrativas legitimas - Prece-
+dentes desta Corte - Apelação fazendária provida - Reexame necessário provido.
+Opostos embargos declaratórios, foram rejeitados (fls. 576/581).
+Nas razões do recurso especial, a recorrente alega, além da divergência jurisprudencial, violação ao art. 10 da LC nº 87/96. Defende o "reconhecimento do direito de restituição IMEDIATA e PREFERENCIAL das quantias pagas indevidamente por estarem sujeitas ao regime de Substituição Tributária do ICMS" (fl. 596).
+Recurso extraordinário interposto às fls. 709/737.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+De início,destaca-se da fundamentação do acórdão recorrido o seguinte trecho (fls. 549/551):
+No caso sub judice, ocorreu baixa generalizada no preço dos combustíveis automotivos  cujas causas são irrelevantes ao desfecho da demanda  mas que forçaram o contribuinte a também depreciar sua mercadoria, sob pena de sucumbir à concorrência. Por óbvio, ganhou o consumidor final, descontada a qualidade do que se lhe vende. Mas o empresário, acabou praticando preço inferior ao valor presumido e, em resumo, reclama o reembolso da diferença do ICMS recolhido a maior, por antecipação.
+Pretensão lastreada numa primeira leitura do artigo 150, § 7o, da Carta Federal, com a redação acrescentada pela EC nº 3/93: A lei poderá atribuir a sujeito passivo de obrigação tributária a condição de responsável pelo pagamento de imposto ou contribuição, cujo fato gerador deva ocorrer posteriormente, assegurada a imediata e preferencial restituição da quantia paga, caso não se realize o fato gerador presumido.
+Eis dois pontos dignos de realce:
+1o) O texto constitucional garante o direito à restituição do imposto previamente recolhido, "caso não se realize o fato gerador". E fato gerador nestes autos, reitero, é a venda do combustível ao consumidor final, independentemente do preço cobrado do freguês;
+2o) O fato gerador, a venda, se realizou, embora com preço abaixo do especulado. Mas o legislador paulista foi adiante e, com surpreendente generosidade, permitiu a restituição do ICMS calculado tão somente sobre a base de cálculo, desprezada a ocorrência ou não do fato gerador. Foi como dispôs a Lei Estadual nº 6.734/89, redação alterada pela de nº 9.176/95:
+Artigo 66B - Fica assegurada a restituição do imposto pago
+antecipadamente em razão da substituição tributária:caso não se efetive o fato gerador presumido na sujeiçãopassivaII - caso se comprove que na operação final com mercadoria ou serviço ficou configurada obrigação tributária de valor inferior à presumida.
+O pedido de restituição, sem prejuízo de outras provas
+exigidas pelo fisco, será instruído com cópia da documentação fiscal da operação ou prestação realizada que comprove o direito à restituição.
+§ 2o - O Poder Executivo disporá sobre os pedidos de restituição que serão processados prioritariamente, quer quanto à sua instrução, quer quanto à sua apreciação, podendo, também, prever outras formas para devolução do valor, desde que adotadas para opção do contribuinte.
+Não obstante respeitáveis precedentes contrários, colhidos perante o E. Supremo Tribunal Federal1, no Eg. Superior Tribunal de Justiça2, e mesmo nesta Corte3, afirmo a constitucionalidade da legislação estadual. Sem restringir os limites do artigo 150, § 7o, da Carta Federal, obrou o legislador paulista conforme seu poder discricionário, ampliando o direito de restituição (proibido seria restringir) ao caso de venda da mercadoria por valor inferior àquele presumido.
+Houve naturalmente exigências administrativas. Exigências sobretudo ditadas pelo dever estatal de bem pagar; de pagar somente o que é correto a quem prove cabalmente a legitimidade para receber. O Estado não paga por presunção de crédito. Por isso o Comunicado CAT-45/96 (com remissão à Portaria CAT 83/91), os Decretos Estaduais 41.653/97 e 42.039/97, e a Portaria CAT 17/99, normas estas impugnadas no caso vertente, como potencialmente inviabilizadoras da restituição tributária.
+Assim, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local (RICMS Paulista), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+Verifica-se, ainda, que o Tribunal de origem decidiu a controvérsia à luz de fundamentos constitucionais, a saber, a constitucionalidade da legislação estadual que regulamenta a restituição do imposto pago a maior, matéria insuscetível de ser examinada em sede de recurso especial.
+É imperioso frisar que as razões do presente recurso ensejam, em última análise, a contestação de uma lei local em face de lei federal. Contudo, a análise da questão refoge aos limites do recurso especial, uma vez que, nos termos do art. 102, III,d, da Constituição da República, é de competência exclusiva do Supremo Tribunal Federal. Nesse mesmo sentido, destaca-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIÇO DE ÁGUA E ESGOTO. TARIFA. SISTEMA DE ECONOMIAS. ANÁLISE DO DECRETO ESTADUAL N. 41.446/1996. IMPOSSIBILIDADE. SÚMULA 280/STJ. APRECIAÇÃO DE VALIDADE DE NORMA LOCAL EM FACE DE LEI FEDERAL. COMPETÊNCIA DO STF.
+1. A conclusão do Tribunal de origem pela aplicação do sistema de economia única teve por base a interpretação do Decreto n. 41.446/1996 e demais normas locais, cujo exame é na via eleita, nos termos da Súmula 280/STJ.
+2. Após a edição da Emenda Constitucional n. 45/04, a competência para o julgamento de causas nas quais lei local é contestada em face de lei federal foi transferida para o STF, consoante a dicção do art. 102, inc. III, alínea "d", da Constituição Federal.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 340.246/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 3/2/2014)
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
