@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso especial interposto por TELEFÔNICA BRASIL S.A, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: declaratória cumulada com repetição de indébito e compensação por dano moral, ajuizada pela recorrida, em face da recorrente, na qual alega que a recorrenteinseriu indevidamente serviço adicional identificado pela rubrica "VIVO CONTROLE SERVICO DIGITAL" em sua fatura telefônica, sem a sua anuência. Pleiteia seja declarada a ilegalidade da cobrança, a devolução, em dobro, dos valores pagos pelo mencionado serviço, bem como compensação por dano moral.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: deu parcial provimento à apelação interposta pela recorrida, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. TELEFONIA MÓVEL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE COBRANÇA, CUMULADA COM PEDIDOS DE REPETIÇÃO DE INDÉBITO EM DOBRO E INDENIZAÇÃO POR DANOS MORAIS. COBRANÇAS INDEVIDAS. AUSÊNCIA DE PROVA DA REGULARIDADE DAS COBRANÇAS EFETUADAS. ÔNUS QUE INCUMBIA À RÉ, A TEOR DO ART. 373, INC. II, DO CPC, E DO ART. 6º,INC. VIII, DO CDC, E DO QUAL NÃO SE DESINCUMBIU. FALHA NA PRESTAÇÃO DO SERVIÇO EVIDENCIADA. REPETIÇÃO DE INDÉBITO EM DOBRO. INCIDÊNCIA. DANOS MORAIS CONFIGURADOS. CONFIRMADA A FALHA NA PRESTAÇÃO DE SERVIÇO, DIANTE DAS COBRANÇAS REALIZADAS EM DESACORDO COM O AVENÇADO, CABÍVEL A REPETIÇÃO DE INDÉBITO EM DOBRO, EM RAZÃO DA CONDUTA DE MÁ-FÉ DA RÉ, OBSERVADA A PRESCRIÇÃO TRIENAL. NO CASO, RESTOU CONFIGURADO O DANO MORAL IN REIPSA SUPORTADO PELA AUTORA, ANTE AS COBRANÇAS INDEVIDAS. CONDENAÇÃO DA RÉ AO PAGAMENTO DA INTEGRALIDADE DAS DESPESAS PROCESSUAIS E DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS, EM FACE DO DECAIMENTO MÍNIMO DA AUTORA. RECURSO PARCIALMENTE PROVIDO. (e-STJ Fl. 274)
+Embargos de Declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 18 do CDC; 186 e 927 do CC, bem como dissídio jurisprudencial. Sustenta que a cobrança indevida, por si só, não tem o condão de gerar dano moral, sendo este apenas configurado quando há inscrição dos dados do consumidor nos órgãos de proteção ao crédito. Insurge-se contra a condenação ao pagamento de compensação por dano moral no valor de R$ 10.000,00 (dez mil reais).
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Do descabimento de compensação por dano moral na hipótese de cobrança indevida
+O TJ/RS, ao decidir pela "configuração do dano moral in re ipsa nos casos em que há cobrança indevida na prestação do serviço de telefonia" (e-STJ Fl. 271), contrariou o entendimento do STJ no sentido de que "não há falar em dano moral in re ipsa em virtude de cobrança indevida, quando inexistente ato restritivo de crédito ou inscrição em cadastro de inadimplentes" (AgInt no AREsp 1628556/PR, Quarta Turma, DJe de 23/03/2021;AgInt no AREsp 1689624/GO, Quarta Turma, DJe de 07/04/2021 eAgInt no AgInt no AREsp 1313832/SP, Terceira Turma, DJe de 04/10/2019). Logo, o acórdão recorrido merece reforma.
+Forte nessas razões, CONHEÇO do recurso especial, para DAR-LHE PROVIMENTO, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, para afastar da condenação a obrigação de compensar dano moral.
+Ante o provimento do recurso, redistribuo os ônus sucumbenciais fixados na origem (fl. 272, e-STJ), devendo a parte autora, ora recorrida, arcar com 30% do valor da sucumbência.
+Deixo de majorar honorários advocatícios, nos termos do art. 85, § 11, doCPC/2015, em razão do provimento do apelo especial (EDcl no AgInt no REsp 1573573/RJ, Terceira Turma, DJe de 08/05/2017).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO E COMPENSAÇÃO POR DANO MORAL.COBRANÇA INDEVIDA. MERO ABORRECIMENTO. DANO MORAL INEXISTENTE.
+1. Ação declaratória cumulada com repetição de indébito e compensação por dano moral.
+2. Consoante entendimento desta Corte Superior, não há falar em dano moral in re ipsa em virtude de cobrança indevida, quando inexistente ato restritivo de crédito ou inscrição em cadastro de inadimplentes. Precedentes.
+3. Recurso especial conhecido e provido.
