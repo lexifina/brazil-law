@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto, às e-STJ fls. 449/456, por JORGE MIGUEL MARQUES, com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado, no que interessa(e-STJ fl. 424/427):
+PROCESSUAL CWIL. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ATIVIDADE ESPECIAL. RUÍDO. RECONHECIMENTO PARCIAL. BENEFÍCIO INTEGRAL INDEVIDO. HONORÁRIOS ADVOCATÍCIOS. APELAÇÃO DA PARTE AUTORA PARCIALMENTE PROVIDA.
+ ..
+21- Tendo em vista que a parte autora recebe o beneficio de aposentadoria integral por tempo de contribuição desde 19/04/2010 (fl.192) e que a concessão de aposentadoria proporcional, em razão do reconhecimento da especialidade dos períodos acima mencionados, teria como termo inicial a data da citação (20/07/2010 - fl.168), visto que a especialidade somente foi reconhecida em função da perícia judicial, não há de se falar em condenação à concessão de qualquer beneficio à parte autora, restando apenas o reconhecimento parcial da especialidade vindicada.
+ ..
+23 - Apelação da parte autora parcialmente provida.
+Rejeitados os aclaratórios (e-STJ fls. 440/446).
+Nas suas razões, o recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 49, II, 54 e 57 da Lei n. 8.213/1991, ao argumento de que o termo inicial do benefício de aposentadoria por tempo de contribuição, bem como do pagamento das prestações vencidas devem ser fixados a partir do requerimento administrativo.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às e-STJ fls. 479/481.
+Passo a decidir.
+O acórdão recorrido fixou o termo inicial da concessão do benefício na data da citação, tendo em vista que, à época do requerimento administrativo, a parte autora não haviapreenchido o requisito do tempo necessário àconcessão da aposentadoria integral, in verbis(e-STJ fl. 421):
+Conforme planilha anexa, somando-se a atividade especial reconhecida nesta demanda aos demais períodos constantes no Resumo de Documentos para Cálculo de Tempo de Contribuição (fl. 149), verifica-se que a parte autora alcançou 34 anos, 04 meses e 01 dia de serviço na data do requerimento administrativo (20/04/2009 - fl. 157), tempo suficiente apenas à concessão da aposentadoria proporcional por tempo de contribuição, conforme disposição do art. 9º, §1º, da Emenda Constitucional nº20/98.
+Tendo em vista que a parte autora recebe o beneficio de aposentadoria integral por tempo de contribuição desde 19/04/2010 (fl. 192) e que a concessão de aposentadoria proporcional, em razão do reconhecimento da especialidade dos períodos acima mencionados, teria como termo inicial a data da citação (20/07/2010 - fl.168), visto que a especialidade somente foi reconhecida em função da perícia judicial, não há de se falar em condenação à concessão de qualquer beneficio à parte autora, restando apenas o reconhecimento parcial da especialidade vindicada. Esclareço que se sagrou vitoriosa a parte autora ao ver reconhecida parte do período especial vindicado. Por outro lado, não foi concedida a aposentadoria integral por tempo de contribuição, restando vencedora nesse ponto a autarquia.
+Dessa forma, verifica-se que o Tribunal de origem decidiu a questão ora ventilada com base na realidade delineada à luz do suporte fático-probatório dos autos, cuja revisão é inviável no âmbito do recurso especial diante do óbice estampado na Súmula 7 do STJ.
+No mesmo sentido, mutatis mutandi:
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO.IMPLEMENTAÇÃO DO BENEFÍCIO CONCEDIDO. AUSÊNCIA DE PEDIDO ADMINISTRATIVO. TERMO INICIAL FIXADO A PARTIR DA CITAÇÃO. DISCUSSÃO ACERCA DA EXISTÊNCIA DE REQUERIMENTO ADMINISTRATIVO. SÚMULA 7/STJ.
+1. Conforme a jurisprudência do STJ, o termo inicial do benefício deve ser fixado a partir do requerimento administrativo. Na ausência de requerimento administrativo, o termo inicial do benefício deve ser fixado a partir da citação.
+2. Hipótese em que o Tribunal de origem afirmou que o requerimento administrativo não foi apresentado. Assim, considerando a fundamentação adotada, o acórdão recorrido, quanto ao termo inicial do benefício, somente poderia ser modificado mediante o reexame dos aspectos fáticos da causa, o que encontra óbice na Súmula 7 do STJ.
+3. Recurso Especial não conhecido.(REsp 1722214/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/03/2018, DJe 13/11/2018) (Grifos acrescidos).
+Por fim, quanto ao recurso especial interposto com base na alínea "c" do permissivo constitucional, a análise do dissídio jurisprudencial está prejudicada em razão da aplicação da Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se e intimem-se.
