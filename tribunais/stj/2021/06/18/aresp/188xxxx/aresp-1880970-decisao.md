@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo interposto por José Humberto Resende de Miranda e outros contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que o agravado ajuizou ação de cobrança, julgada procedente.
+Interposta apelação pelos ora insurgentes, a Décima Oitava Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais negou provimento ao recurso, em acórdão assim ementado (e-STJ, fl. 1.070):
+APELAÇÃO CÍVEL  AÇÃO DE COBRANÇA  COMISSÃO DE CORRETAGEM  ATUAÇÃO DO CORRETOR COMPROVADA  CONCRETIZAÇÃO DO NEGÓCIO APÓS ENCERRADO O PRAZO DO CONTRATO DE PRESTAÇÃO DE SERVIÇOS  IRRELEVÃNCIA  DIREITO À REMUNERAÇÃO
+- Nos termos do artigo 725 do Código Civil, o corretor faz jus à remuneração "uma vez que tenha conseguido o resultado previsto no contrato de mediação".
+- É devida a comissão de corretagem ainda que a compra e venda imobiliária tenha se concretizado após o término do prazo estipulado no contrato de corretagem, provado que o negócio ocorreu por força da atuação do corretor, consoante disposição do art. 727 do CC.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, os recorrentes alegaram, além da existência de divergência jurisprudencial, violação dos arts. 50, 128, 219, caput e parágrafo único, 725 e 727 do Código Civil e; 3º, 6º, 7º, 17, 133, caput, § 1º, 134, caput, § 2º, 135, 136, caput, 137, 371, 373, I e II, 374, II e III, 447, § 3º, II, 489, caput, II e III, e § 1º, II e IV, e 1.022, II, do Código de Processo Civil de 2015, sob as seguintes assertivas:
+(i) existência de omissões no aresto relevantes ao julgamento da lide, notadamente quanto à ilegitimidade passiva das pessoas físicas; ao interesse da testemunha Diógenes na vitória do recorrido; eà insuficiência de atuação do corretor na compra e venda do imóvel, vício caracterizador de negativa de prestação jurisdicional;
+(ii) ilegitimidade passiva das pessoas físicas recorrentes, tendo em conta que a propriedade do imóvel objeto da lide era da pessoa jurídica Jotared, não sendo a condição de sócios apta a responderem a demanda, além ter o prazo de vigência do instrumento firmado se esgotado quando da realização do negócio jurídico;
+(iii) o entendimento do Tribunal de origem de ser devida a comissão de corretagem é equivocada, feito a partir de premissas decorrentes da má valoração de provas constantes dos autos, haja vista a não comprovação de que o recorrido participou efetivamente do desenrolar e concretização do negócio, porquanto, na melhor das hipóteses, a atuação deste limitou-se a meramente aproximar as partes.
+Requereram a concessão de efeito suspensivo ao recurso.
+Sem contrarrazões, fl. 1.179 (e-STJ).
+O processamento do recurso especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta não apresentada, fl. 1.189 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, a apontada afronta aos arts. 489, caput, II e III, e § 1º, II e IV, e 1.022, II,do CPC/2015 não ficou caracterizada, uma vez que a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+No tocante à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Desse modo, aplica-se à espécie o entendimento pacífico do STJ segundo o qual "não se configura a ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada" (REsp n. 1.638.961/RS, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 02/02/2017).
+Em relação à ilegitimidade passiva das pessoas físicas, o Tribunal estadual, observadas as peculiaridades da causa, rejeitou a preliminar, consignando expressamente que os Srs. Red Rider Felix Rodrigues e José Humberto Resende de Miranda, de acordo com cópia de instrumento constante dos autos, firmaram contrato de prestação de serviços de corretagem com o recorrido (fl. 1.072, e-STJ).
+Nesse contexto, reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos e a análise de cláusulas contratuais, o que se mostra impossível ante a natureza excepcional da via eleita, conforme enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+Quanto à comissão de corretagem, observa-se que a jurisprudência deste Superior Tribunal se firmou no sentido de que a verba será devida apenas se o negócio jurídico for formalizado, ou seja, quando o trabalho útil do corretor resultar no aperfeiçoamento do contrato por ele intermediado.
+Ilustrativamente:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CPC/73. AÇÃO DE COBRANÇA. CORRETAGEM.
+1. Caso concreto em que o corretor de imóveis pretende o recebimento de comissão por ter intermediado a celebração de contrato de compromisso de parceria para loteamento urbano.
+2. É devida a comissão de corretagem por intermediação imobiliária se o trabalho de aproximação realizado pelo corretor resultar, efetivamente, no consenso das partes quanto aos elementos essenciais do negócio. Precedentes.
+3. Conforme expressamente reconhecido pelas instâncias ordinárias, em razão da atuação do corretor, os recorridos celebraram com a empresa Realiza Loteadora, Incorporadora, Pavimentação e Obras LTDA um "contrato de compromisso de parceria para loteamento urbano".
+4. Inegável o benefício patrimonial obtido pelos recorridos com a parceria realizada, pois a gleba de terra rural, sem uso e benfeitorias, foi transformado em um empreendimento imobiliário de grande porte.
+5. Deve ser remunerada a atuação do corretor que, no caso concreto, promoveu a aproximação dos seus contratantes com a interessada em assumir o loteamento, em razão do inegável resultado útil obtido.
+6. Diante das particularidades do caso concreto e para evitar o "bis in idem", a comissão de corretagem deve observar o sugerido pelos próprios recorridos.
+7. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+(REsp 1.765.004/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Rel. p/ Acórdão Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 27/11/2018, DJe 05/12/2018)
+Na espécie, a Corte de origem, corroborando a sentença, assim se manifestou (e-STJ, fl. 1.075):
+Tudo considerado, é de concluir que a participação do autor no negócio jurídico discutido, qual seja, venda da "Fazenda da Chuva" efetivada em 25/11/2008 foi decisiva, tendo o apelado intermediado diretamente a negociação ao realizar visitas no imóvel para acompanhar o representante da empresa adquirente.
+Frise-se, ademais, que, apesar do negócio ter se concretizado após encerrado o prazo do período de exclusividade que o corretor detinha para apresentar o bem a possíveis compradores, a alienação do imóvel foi feita para empresa com a qual participou ativamente das intermediações, conforme acima assinalado, fazendo jus, portanto, ao pagamento da comissão.
+Assim, a controvérsia foi solvida sob premissas fáticas, inviáveis de reexame no especial. Dessa maneira, como é cediço, aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+A propósito:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. VENDA DE IMÓVEL. COMISSÃO DE CORRETAGEM. CABIMENTO. DESISTÊNCIA DO VENDEDOR APÓS A ASSINATURA DO CONTRATO DE PROMESSA DE COMPRA E VENDA. SÚMULA N. 83/STJ. REVISÃO DE PROVAS. SÚMULA N. 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF.
+1. É devida a comissão de corretagem por intermediação imobiliária se os trabalhos de aproximação realizados pelo corretor resultarem, efetivamente, no consenso das partes quanto aos elementos essenciais do negócio. Súmula n. 83/STJ.
+2. Incide a Súmula n. 7 do STJ se a tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+3. Aplica-se a Súmula n. 282/STF na hipótese em que a questão suscitada no recurso especial não tenha sido debatida no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1.440.053/MS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 15/03/2016, DJe 28/03/2016)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMISSÃO DE CORRETAGEM. EMPRESA CORRETORA LOGRA ÊXITO EM APRESENTAR CASAL INTERESSADO NA AQUISIÇÃO DO IMÓVEL. NEGÓCIO CONCRETIZADO DOIS ANOS DEPOIS. PAGAMENTO DEVIDO. O FIM ÚLTIMO DO CONTRATO FOI ALCANÇADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. REVOLVIMENTO DO ACERVO FÁTICO E PROBATÓRIO. SÚMULA 7 DO STJ. INCIDÊNCIA. DISSÍDIO JURISPRUENCIAL ALEGADO SEM COTEJO ANALÍTICO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1.022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+2. As alegações desafiam as premissas fáticas e probatórias do v. acórdão recorrido e exigiriam o revolvimento do acervo estabelecido nos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+3. O conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência, exigindo a transcrição dos trechos que configurem o dissenso, mencionando as circunstâncias que identifiquem os casos confrontados.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.415.937/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/10/2019, DJe 07/11/2019)
+Ademais, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PRECLUSÃO E PRESCRIÇÃO INTERCORRENTE. NÃO CONFIGURAÇÃO. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ e impede o conhecimento do recurso por ambas alíneas do permissivo constitucional.
+2. Agravo interno não provido.
+(AgInt no AREsp 949.860/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/10/2016, DJe 28/10/2016)
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMISSÃO DE CORRETAGEM. 1. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. ILEGITIMIDADE PASSIVA AD CAUSAM. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE PROVAS. DESCABIMENTO. SÚMULAS 5 E 7 DO STJ. 3. COMISSÃO DE CORRETAGEM. OBTENÇÃO DE RESULTADO ÚTIL. REVISÃO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. 4. CONCESSÃO DE EFEITO SUSPENSIVO À INSURGÊNCIA. FUMUS BONI IURIS NÃO EVIDENCIADO 5. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
