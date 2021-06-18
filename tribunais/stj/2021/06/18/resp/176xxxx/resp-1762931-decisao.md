@@ -1,0 +1,30 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que A. C. SOARES SANTOS - ME (A.C. SOARES) ajuizou ação monitória contra MMX AMAPÁ MINERAÇÃO LTDA. atualmente denominada ZAMIN AMAPÁ MINERAÇÃO S. A. (ZAMIN AMAPÁ), pretendendo o recebimento de importâncias relativas a contrato de prestação de serviços firmado entre as partes.
+A ação foi julgada procedente.
+Iniciado o cumprimento de sentença, o d. Juízo de primeira instância efetivou a constrição judicial pela penhora on line de saldo da conta corrente, através do sistema Bacenjud, da empresa ANGLO FERROUS BRAZIL PARTICIPAÇÕES S. A. (ANGLO FERROUS), tendo em vista ter sido indicada como empresa sócia da executada ZAMIN AMAPÁ.
+Em decisão interlocutória proferida o Juízo de 1º grau determinou a imediata devolução dos valores constritos, considerando que na 44º alteração contratual desta, a empresa ZAMIN AMAPÁ lhe sucedeu; determinou que ZAMIN AMAPÁ comprove a data de publicação da decisão do Juízo da 2º Vara de Falências e Recuperações Judiciais; bem como que todas as constrições recaiam sobre o patrimônio da empresa ZAMIN AMAPÁ e suas filiais.
+Contra essa decisão interlocutória, A.C SOARES interpôs agravo de instrumento que foi provido peloTribunal estadual nos termos do acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO.ANÁLISE CONFORME CPC DE 1973. DECISÃO QUE ALTERA CONTEÚDO DE MÉRITO DA SENTENÇA. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. ALTERAÇÃO SOCIAL. REPASSE INTEGRAL DE COTAS SOCIETÁRIAS. MANUTENÇÃO DA RESPONSABILIDADE PELO PASSIVO. PROVIMENTO DO RECURSO. 1) Em consonância com o Enunciado Administrativo nº 2 do Superior Tribunal de Justiça, nos recursos interpostos em face de decisões publicadas até 17 de março de 2016, devem ser exigidos os requisitos de admissibilidade na forma prevista no CPC/1973; 2) A decisão que, em cumprimento de sentença, altera o conteúdo da última, fora das hipóteses previstas em lei, viola os princípios da inalterabilidade da sentença e da segurança jurídica, sendo passível, portanto, de recurso. Precedentes do STJ;3) A alteração social da agravada não tem o condão de exonera-la de dividas anteriores, mormente quando o débito vindicado se originou previamente àquela alteração, remanescendo a responsabilidade da primeira pelo passivo; 4) Agravo conhecido e provido (e-STJ, fl. 268).
+Os embargos de declaração opostos por ANGLO FERROUS foram rejeitados (e-STJ, fls. 277/283).
+Irresignada, ANGLO FERROUS interpôs recurso especial com fulcro no art. 105, III, a, da CF, alegando a violação dos arts. 485, VI, §§ 3º e 7º, 505 e 1.022, II do NCPC; e 50 e 1.032 do CC/02, ao sustentar(1) ausência de fundamentação e negativa de prestação jurisdicional, pois o Tribunal estadual deixou de apreciar os argumentos embasadores de sua tese de quenão detém responsabilidade pelo débito contraído pela ZAMIN AMAPÁ o que afastaria a obrigação ao pagamento de dívida contraída por pessoa jurídica de grupo econômico do qual não fazia parte; (2) inexistência de indício comprobatóriodo elemento subjetivo da confusão patrimonial ou do desvio de finalidade para ensejar a responsabilidade dos sócios resultante da desconsideração da personalidade jurídica; e(3) necessidade de liberação dos valores indevidamente penhorados(e-STJ, fls. 314/383).
+Foram apresentadas as contrarrazões (e-STJ, fls. 387/399).
+O apelo nobre admitido (e-STJ, fls. 285/289)
+É o relatório.
+DECIDO.
+O recurso especial  merece prosperar.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da negativa de prestação jurisdicional
+O TJAP, ao analisar os embargos de declaração, incorreu em omissões relativas aos argumentos embasadores de sua tese de que não detém responsabilidade pelo débito contraído pela ZAMIN AMAPÁ o que afastaria a obrigação ao pagamento de dívida contraída por pessoa jurídica de grupo econômico do qual não fazia parte.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o TJAPa se manifestar sobre as questões federais terminou por negar prestação jurisdicional àRecorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE. 1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC. 2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a analise das demais questões.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, determinando o retorno dos autos ao TJAPpara que analise as questõestrazidas nos embargos de declaração, como entender de direito.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO MONITÓRIA. AGRAVO DE INSTRUMENTO. OMISSÕES.OFENSA AO ART. 1.022 DO NCPC CONFIGURADA. OMISSÕES. RECURSO ESPECIAL PROVIDO.
