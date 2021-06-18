@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze, Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. DESERÇÃO. AUSÊNCIA DE RECOLHIMENTODAS CUSTAS MESMO APÓS INTIMAÇÃO DA CORTE LOCAL. SÚMULA 187/STJ.
+AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por ELIETE DA CRUZ MARTINS contra decisão exarada pela Presidência desta Corte a qual não conheceu do recurso diante da incidência da Súmula 187/STJ.
+Nas razões do presente recurso, a parte agravante, pugna pela modificação do julgado esustenta, em síntese, que "Conforme já esclarecido, demonstrado e comprovado nos autos, a Agravante, ao interpor o Recurso Especial, em data de 02/09/2019, já havia efetuado o pagamento das custas judiciais devidas ao STJ, através da GRU nº 2483139 no valor de R$ 186,10, na data de 30/08/2019, ou seja, 3 dias antes da interposição do Recurso Especial e foi comprovado através da inserção do número da GRU na folha de rosto do recurso e também o número da GRERJ Eletrônica Judicial devida ao TJRJ" (e-STJ Fl.282).
+Impugnação à e-STJ Fls. 290/293, requerendo a majoração dos honorários para 20% do valor arbitrado e multa por litigância de má-fé.
+É o breve relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. DESERÇÃO. AUSÊNCIA DE RECOLHIMENTODAS CUSTAS MESMO APÓS INTIMAÇÃO DA CORTE LOCAL. SÚMULA 187/STJ.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece provimento.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Mediante a reanálise do recurso de ELIETE DA CRUZ MARTINS,o recurso especial de fato foi instruído de forma insuficiente quanto ao preparo, no ato de sua interposição, uma vez quenão foram recolhidas as custas devidas ao Superior Tribunal de Justiça, o que leva à deserção do recurso em razão da não comprovação integral do recolhimento das verbas que compõem o preparo.
+Nos termos da jurisprudência desta Corte, "a parte recorrente deve comprovar, no momento da interposição do recurso especial, o recolhimento das custas e do porte de remessa e retorno devidos à União, bem como dos valores locais, estipulados pelo Tribunal de origem"(AgInt no REsp n. 1.660.202/SP, relator Ministro Lázaro Guimarães (DesembargadorConvocado do TRF 5ª Região), Quarta Turma, DJe de 27/2/2018.)
+Assim, as "custas locais são devidas ao Tribunal de origem e pagas por meio da respectiva guia estadual"(AgInt nos EDcl no AREsp n. 1.120.489/PE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 1º/8/2018.)
+Outrossim, constatou-se, no Tribunal de origem, haver irregularidade no recolhimento do preparo. Ao contrário do que arecorrente afirma no presente agravo interno, verifica-se que aparte, emboraintimada para regularizar o preparo (e-STJ Fl. 229 e 233), não sanou o referido vício em tempo oportuno. Portanto, o recurso especial não foi devidoe oportunamente preparado e regularizado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Vale ressaltar que,"de acordo com a jurisprudência deste Superior Tribunal, é considerado deserto o recurso especial quando a parte recorrente, mesmo após ser devidamente intimada para efetuar o recolhimento das custas processuais estabelecidas em ato normativo da Corte estadual, realiza pagamento insuficiente. Aplicação da Súmula 187/STJ"(AgInt no AREsp 1056840/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/06/2020, DJe 18/06/2020).
+Frise-se, por fim, ser descabida a pretensão de nova majoração dos honorários, deduzida em sede de impugnação, por ocasião do julgamento do presente agravo interno, senão vejamos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. LEILÃO EXTRAJUDICIAL. RECURSO QUE NÃO ENFRENTA ESPECIFICAMENTE OS TERMOS DA DECISÃO RECORRIDA. APLICAÇÃO DA SÚMULA 182/STJ. PLEITO POR NÃO ELEVAÇÃO DA VERBA HONORÁRIA. DESNECESSIDADE. QUANTUM JÁ AUMENTADO NO JULGAMENTO DO AGRAVO. AGRAVO INTERNO NÃO CONHECIDO.1. Viola-se o princípio da dialeticidade recursal quando as razões do agravo interno deixam de infirmar especificadamente os fundamentos da decisão agravada. A inobservância do preceito contido no art. 1.021, § 1º, do CPC/2015 atrai a aplicação do enunciado da Súmula n. 182/STJ.2. Não é cabível a majoração dos honorários recursais, por ocasião do julgamento do agravo interno, tendo em vista que a referida verba deve ser aplicada, apenas uma vez, em cada grau de jurisdição, e não a cada recurso interposto na mesma instância. Precedente.3. Agravo interno não conhecido.(AgInt no AREsp 1374512/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/04/2019, DJe 06/05/2019) - g.n.
+Por ora, deixo de aplicar a sanção requerida em sede de impugnação ao presente recurso, advertindo-se a parte de que eventual recurso interposto contra este acórdão estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
