@@ -1,0 +1,27 @@
+DECISÃO
+Nestehabeas corpus, com pedido liminar, impetrado em favor de José Eduardo Roque Maciel - condenado como incurso no crime de tentativa de furto qualificado pelo rompimento de obstáculo (Apelação Criminal n.0133090-04.2020.8.19.0001, do Tribunal de Justiça do Rio de Janeiro) -, sob alegação de constrangimento ilegal na tipificação da conduta na forma qualificada, ante a ausência de perícia nos lacres rompidos, requer-se, em liminar, a suspensão do mandado de prisão ou a revogação da prisão e, subsidiariamente, a exclusão da qualificadora em questão.
+É o relatório.
+A ordem merece concessão.
+Para reconhecer a qualificadora do art. 155, § 4º, I, do CP, o Tribunal a quo assinalou a possibilidade de substituir o exame pericial por outros elementos de prova (fl. 23):
+ ..
+No caso em exame, a prova produzida sob o crivo do contraditório e não desconstituída pela defesa, consubstanciada no depoimento da fiscal de segurança, é bastante a suprir a ausência do laudo pericial, atestando a existência do prefalado lacre e o seu rompimento pelo apelado, a partir do encontro desses dispositivo no chão, no exato local onde se abaixara o apelado para colocar dentro da sua bolsa as bermudas subtraídas.
+ ..
+Sucede que, no âmbito desta Corte, predomina entendimento contrário, qual seja, de que, para o reconhecimento da qualificadora em questão, é imprescindível a realização de exame pericial, sendo possível a sua substituição por outros meios probatórios somente se não existirem ou tenham desaparecido, ou se as circunstâncias do crime não permitirem a confecção do laudo (EDcl no HC n. 408.471/MS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 27/10/2017 - grifo nosso).
+No mesmo sentido: HC n. 207.588/DF, Ministro Og Fernandes, Sexta Turma, DJe 8/9/2011; e HC n. 104.672/MG, Ministro Jorge Mussi, Quinta Turma, DJe 6/4/2009.
+No caso,as instâncias ordinárias não consignaram nenhum óbice à confecção do exame pericial.
+Consequentemente, não há outra solução, senão excluir a qualificadora em questão, ante a inexistência de prova acerca da materialidade.
+Excluída a qualificadora, a pena privativa de liberdade imposta ao recorrente deve retornar ao patamar estabelecido na sentença, qual seja, 8 meses de reclusão,mantido, no entanto,o regime inicial semiaberto e a vedação da pena substitutiva, estabelecidos no acórdão impugnado, ante a existência de fundamentação idônea, extraída da condição de multirreincidente.
+Nesse sentido, confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.FURTO QUALIFICADO TENTADO. ABSOLVIÇÃO POR APLICAÇÃO DO PRINCÍPIO DA BAGATELA. IMPOSSIBILIDADE. PARTICULARIDADES DO CASO CONCRETO.MULTIRREINCIDÊNCIA ESPECÍFICA DO PACIENTE EM CRIMES PATRIMONIAIS.VALOR DA RES FURTIVAE QUE NÃO PODE SER CONSIDERADO INEXPRESSIVO POIS EQUIVALENTE A 17,56% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS.LESÃO JURÍDICA EXPRESSIVA. AUSÊNCIA DOS REQUISITOS EXIGIDOS PARA A CONFIGURAÇÃO DA ATIPICIDADE MATERIAL DA CONDUTA ANTE A INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. PRECEDENTES. DOSIMETRIA DA PENA.PENA-BASE. REDUÇÃO DA FRAÇÃO DE AUMENTO. AUSÊNCIA DE ILEGALIDADE.MAIOR REPROVABILIDADE DA CONDUTA. MAUS ANTECEDENTES POR CONDENAÇÕES JÁ ALCANÇADAS PELO PERÍODO DEPURADOR QUINQUENAL. POSSIBILIDADE.PRECEDENTES. COMPENSAÇÃO INTEGRAL DA REINCIDÊNCIA COM A CONFISSÃO.INVIABILIDADE. PACIENTE MULTIRREINCIDENTE. PRECEDENTES. AUMENTO DA FRAÇÃO DE REDUÇÃO PELO FURTO TENTADO. INVIABILIDADE. EXTENSÃO DO ITER CRIMINIS. REVOLVIMENTO FÁTICO-PROBATÓRIO NÃO COMPATÍVEL COM A VIA ELEITA. ABRANDAMENTO DO REGIME PRISIONAL PELA DETRAÇÃO. REGIME MAIS GRAVOSO FIXADO EM RAZÃO DAS PARTICULARIDADES DO CASO CONCRETO.CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS E MÚLTIPLA REINCIDÊNCIA.SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR MEDIDAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+- Apesar de a pena privativa de liberdade do paciente haver sido fixada em 11 meses e 3 dias de reclusão, o regime inicial semiaberto foi estabelecido em virtude da múltipla reincidência, aliado à existência de circunstâncias judiciais desfavoráveis - maus antecedentes e culpabilidade -, o que determinou a fixação do regime mais gravoso, independente do período de prisão cautelar já cumprido, cabendo agora, ao Juízo das Execuções Penais, avaliar se o paciente preenche os requisitos para a progressão de seu regime prisional.
+- No mesmo sentido em relação à negativa de substituição da pena privativa de liberdade por medidas restritivas de direitos, ante o não preenchimento dos requisitos previstos no art. 44, II e III, do Código Penal.
+- Agravo regimental não provido.
+(AgRg no HC n. 645.530/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/5/2021)
+Em face do exposto, concedo a ordem paraafastar a forma qualificada do crime, reduzindo a pena privativa de liberdade imposta ao paciente a 8meses de reclusão, em regime inicial semiaberto, além do pagamento de 6 dias-multa(Apelação Criminal n. 0133090-04.2020.8.19.0001, do Tribunal de Justiça do Rio de Janeiro).
+Dê-se ciência ao Tribunala quo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO TENTADO. SUPOSTA ILEGALIDADE NA INCIDÊNCIA DA QUALIFICADORA (ROMPIMENTO DE OBSTÁCULO), POR AUSÊNCIA DE LAUDO PERICIAL APTO A ATESTAR A MATERIALIDADE. PROCEDÊNCIA. IMPRESCINDIBILIDADE DO EXAME PERICIAL NA HIPÓTESE. PRECEDENTES DESTA CORTE. EXCLUSÃO. REDIMENSIONAMENTO DA PENA.
+Ordem concedida nos termos do dispositivo.
