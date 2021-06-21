@@ -1,0 +1,98 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. COMPRA E VENDA. ANÚNCIO DE MOTOCICLETA. VIOLAÇÃO AO ART.1.022 DO CPC/2015. INEXISTÊNCIA. ILEGITIMIDADE PASSIVA DO PROVEDOR DE ANÚNCIOS NA INTERNET. ILEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA. AUSÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO BANCÁRIO. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022, II, do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. Nos termos da jurisprudência desta Corte Superior, "o provedor de buscas de produtos que não realiza qualquer intermediação entre consumidor e vendedor não pode ser responsabilizado por qualquer vício da mercadoria ou inadimplemento contratual" (REsp 1.444.008/RS, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25.10.2016, DJe 9.11.2016).
+3. No caso dos autos, a Corte de origem consignou expressamente que o serviço prestado pela recorrida não inclui participação efetiva na compra e venda, mas mera disponibilização de espaço virtual para anúncios, razão pela qual não há que se falar em legitimidade passiva para responder pelos danos decorrentes da inserção de anúncio fraudulento.
+4. De igual forma, foi consignado que não houve participação da instituição financeira na aludida compra e venda, apenas prestando serviço bancário, atinente ao depósito e transferência de valores feitos pelo próprio autor em nome de terceiro, não lhe cabendo fiscalizar as intenções do favorecido/sacador do numerário ou tampouco averiguar a origem e movimentações das contas de seus clientes.
+5. A modificação do entendimento da Corte de origem demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+6. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): Trata-se de agravo interno interposto por BRUNO DALACQUA DE CARVALHO contra decisão monocrática desta Relatoria que conheceu do agravo para negar provimento ao recurso especial.
+Nas razões recursais, o agravante reitera as alegações trazidas no recurso especial de que houve violação dos arts. 1.022, do CPC, art. 3º, 7º, 14, 18, 19 e 20, 21, todos do Código de Defesa do Consumidor (CDC), bem como dos artigos 275, 389, 186, 187 e 927, todos do Código Civil, arts. 2º, 3º, 4º e 7º da Lei 2.965/2014, Súmula 479 do STJ, e divergência jurisprudencial.
+Sustenta, em síntese, que: 1) o Tribunal a quo foi omisso quanto ao descumprimento contratual por parte da OLX em fornecer ambiente seguro de compras, bem como deixou de analisar as razões fáticas e jurídicas que afastam a fachada de mero site de anúncios para comprovar que ela efetivamente atua como intermediadora da negociação entre o comprador e o vendedor; 2) a OLX é fornecedora de serviços e integra a cadeia de consumo na medida em que tem ingerência sobre os anúncios e negócios de veículos que ocorrem através de seu site, fornece ambiente/plataforma para a negociação entre as partes, lucra com sua atividade e, por conseguinte, tem responsabilidade civil pela fraude praticada através da sua plataforma; 3) a OLX não se importa em fornecer ambiente seguro de comércio para seus usuários, descumprindo cláusulas contratuais expressas relativas ao seu dever de fornecer ambiente seguro, ferramentas e funcionalidades e 4) o Banco do Brasil (BB), ora Recorrido, quando autorizou saque em limite superior sem obedecer aos próprios procedimentos internos de segurança, falhou na prestação do seu serviço e por isso responde objetiva e solidariamente pelas fraudes praticadas por terceiros no âmbito de sua atuação, nos termos da súmula 479 do Superior Tribunal de Justiça, logo deverá permanecer no polo passivo da referida ação e suportar os danos oriundos da falha de serviço por ele disponibilizado.
+Afirma, ainda, que a indicação de ofensa à Súmula 479 do STJ não ilide os dispositivos infraconstitucionais violados e devidamente prequestionados, mas tão só revela o entendimento do Superior Tribunal de Justiça sobre o tema.
+Ao final, requer a reforma da decisão agravada pela Turma Julgadora.
+Intimada, as partes agravadas não apresentaram manifestação (e-STJ fl. 493/495).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. COMPRA E VENDA. ANÚNCIO DE MOTOCICLETA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. ILEGITIMIDADE PASSIVA DO PROVEDOR DE ANÚNCIOS NA INTERNET. ILEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA. AUSÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO BANCÁRIO. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022, II, do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. Nos termos da jurisprudência desta Corte Superior, "o provedor de buscas de produtos que não realiza qualquer intermediação entre consumidor e vendedor não pode ser responsabilizado por qualquer vício da mercadoria ou inadimplemento contratual" (REsp 1.444.008/RS, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25.10.2016, DJe 9.11.2016).
+3. No caso dos autos, a Corte de origem consignou expressamente que o serviço prestado pela recorrida não inclui participação efetiva na compra e venda, mas mera disponibilização de espaço virtual para anúncios, razão pela qual não há que se falar em legitimidade passiva para responder pelos danos decorrentes da inserção de anúncio fraudulento.
+4. De igual forma, foi consignado que não houve participação da instituição financeira na aludida compra e venda, apenas prestando serviço bancário, atinente ao depósito e transferência de valores feitos pelo próprio autor em nome de terceiro, não lhe cabendo fiscalizar as intenções do favorecido/sacador do numerário ou tampouco averiguar a origem e movimentações das contas de seus clientes.
+5. A modificação do entendimento da Corte de origem demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+6. Agravo interno a que se nega provimento.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.819.064 - SP (2021/0006945-1)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+BRUNO DALACQUA DE CARVALHO
+ADVOGADO
+:
+ALINNE CARDIM ALVES - SP288123
+AGRAVADO
+:
+BANCO DO BRASIL SA
+ADVOGADO
+:
+JORGE LUIZ REIS FERNANDES - SP220917
+AGRAVADO
+:
+BOM NEGOCIO ATIVIDADES DE INTERNET LTDA
+ADVOGADO
+:
+EDUARDO CHALFIN - SP241287
+AGRAVADO
+:
+MARCOS ROGERIO QUINZOTE (ASSISTÊNCIA JUDICIÁRIA)
+ADVOGADO
+:
+BEATRIZ GALVÃO RAPOSO - SP361544
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): A irresignação não merece prosperar.
+Cuida-se, na origem, de agravo de instrumento interposto por BRUNO DELACQUA DE CARVALHO, contra decisão proferida nos da ação de indenização por danos materiais e morais por ele ajuizada, que reconheceu a ilegitimidade passiva de OLX BOM NEGÓCIO ATIVIDADES DE INTERNET LTDA e do BANCO DO BRASIL S/A para responder pelos danos decorrentes da realização de negócio jurídico fraudulento, envolvendo a compra e venda de uma motocicleta, por intermédio de anúncio introduzido por terceiro no site da corré OLX.
+O recorrente alega, de início, que a Corte a quo foi omissa quanto ao descumprimento contratual por parte da OLX em fornecer ambiente seguro de compras, bem como deixou de analisar as razões fáticas e jurídicas que afastam a fachada de mero site de anúncios para comprovar que ela efetivamente atua como intermediadora da negociação entre o comprador e o vendedor.
+Não prospera a alegada ofensa, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia, como se verá adiante. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+O recorrente alega, em síntese, que a recorrida OLX é fornecedora de serviços e integra a cadeia de consumo, na medida em que tem ingerência sobre os anúncios e negócios de veículos que ocorrem através de seu site, fornece ambiente/plataforma para a negociação entre as partes, lucra com sua atividade, tendo portanto, responsabilidade civil pela fraude praticada através da sua plataforma. Alega, ainda, que a OLX deixou de fornecer ambiente seguro de compras, conforme consta em sua publicidade.
+Sobre o tema, a Corte de origem concluiu:
+"Em que pese os argumentos do agravante, de fato, a situação narrada não permite considerar que os agravados tenham integrado a cadeia de consumo, à luz do artigo 7º do Código de Defesa do Consumidor.
+Isso porque o serviço prestado pela corré OLX é mecanismo de anúncios disponibilizados em um espaço virtual, semelhante a um serviço de classificados, sem realizar qualquer intermediação entre comprador e vendedor.
+(..)
+Embora o julgamento se refira a serviços de busca na internet, é plenamente aplicável ao caso sub examine, pois o serviço prestado pela apelada OLX não inclui participação efetiva na compra e venda, mas mera disponibilização de espaço virtual para anúncios.
+Assim, não há que se falar em responsabilidade solidária em relação aos danos suportados pelo autor." (e-STJ fl. 328/331)
+O entendimento acima encontra-se de acordo com a jurisprudência desta Corte Superior, firmada no sentido de que "o provedor de buscas de produtos que não realiza qualquer intermediação entre consumidor e vendedor não pode ser responsabilizado por qualquer vício da mercadoria ou inadimplemento contratual" (REsp 1.444.008/RS, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25.10.2016, DJe 9.11.2016).
+Nesse sentido, confiram-se, ainda, os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/1973). COMPRA REALIZADA NA INTERNET. SITE DE BUSCA. LEGITIMIDADE PASSIVA. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PRODUÇÃO DE PROVA. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. PUBLICAÇÃO DE SENTENÇA. AUSÊNCIA DE INTIMAÇÃO. ALEGAÇÃO DE NULIDADE. TRIBUNAL A QUO QUE DECIDIU A QUESTÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. PREJUÍZO NÃO CONSTATADO. REVISÃO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ. RESPONSABILIDADE DO SITE DE BUSCA. AUSÊNCIA DE RELAÇÃO DE CONSUMO. DANO. CARACTERIZAÇÃO. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA. SÚMULA 211/STJ. AGRAVO DESPROVIDO. (AgInt no AREsp 644.992/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 25/10/2016, DJe 17/11/2016)
+AGRAVO REGIMENTAL. AÇÃO INDENIZATÓRIA. PUBLICAÇÃO DE ANÚNCIO FALSO NA INTERNET. LEGITIMIDADE PASSIVA DO PROPRIETÁRIO DO VEÍCULO DE COMUNICAÇÃO. SÚMULA STJ/7. DANO MORAL. AUSÊNCIA DE RESPONSABILIDADE. DECISÃO AGRAVADA. MANUTENÇÃO.
+I. A convicção a que chegou o Tribunal a quo quanto à legitimidade passiva ad causam do proprietário do site em que se publicou o anúncio falso decorreu da análise do conjunto probatório. O acolhimento da pretensão recursal demandaria o reexame do mencionado suporte. Incide nesse ponto a Súmula STJ/7.
+II. A responsabilidade pelo dano decorrente de fraude não pode ser imputada ao veículo de comunicação, visto que esse não participou da elaboração do anúncio, tampouco do contrato de compra e venda do veículo.
+Agravo Regimental improvido.
+(AgRg nos EDcl no Ag 1360058/RS, Rel. Ministro SIDNEI BENETI, Terceira Turma, julgado em 12/4/2011, DJe 27/4/2011)
+CIVIL E PROCESSUAL. AÇÃO DE COBRANÇA, CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. CONTRATAÇÃO DE EMPRÉSTIMO JUNTO A INSTITUIÇÃO FINANCEIRA. DEPÓSITO DE IMPORTÂNCIA A TÍTULO DE PRIMEIRA PRESTAÇÃO. CRÉDITO MUTUADO NÃO CONCEDIDO. ATRIBUIÇÃO DE RESPONSABILIDADE CIVIL AO PRESTADOR DO SERVIÇO E À REDE DE TELEVISÃO QUE, EM PROGRAMA SEU, APRESENTARA PROPAGANDA DO PRODUTO E SERVIÇO. "PUBLICIDADE DE PALCO". CARACTERÍSTICAS. FINALIDADE. AUSÊNCIA DE GARANTIA, PELA EMISSORA, DA QUALIDADE DO BEM OU SERVIÇO ANUNCIADO. MERA VEICULAÇÃO PUBLICITÁRIA. EXCLUSÃO DA LIDE. MULTA PROCRASTINATÓRIA APLICADA PELA INSTÂNCIA ORDINÁRIA. PROPÓSITO DE PREQUESTIONAMENTO. EXCLUSÃO. SÚMULA N. 98-STJ. CDC, ARTS. 3º, 12, 14, 18, 20, 36, PARÁGRAFO ÚNICO, E 38; CPC, ART. 267, VI.
+I. A responsabilidade pela qualidade do produto ou serviço anunciado ao consumidor é do fornecedor respectivo, assim conceituado nos termos do art.
+3º da Lei n. 8.078/1990, não se estendendo à empresa de comunicação que veicula a propaganda por meio de apresentador durante programa de televisão, denominada "publicidade de palco".
+II. Destarte, é de se excluir da lide, por ilegitimidade passiva ad causam, a emissora de televisão, por não se lhe poder atribuir co-responsabilidade por apresentar publicidade de empresa financeira, também ré na ação, que teria deixado de fornecer o empréstimo ao telespectador nas condições prometidas no anúncio.
+III. "Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório" (Súmula n. 98/STJ).
+IV. Recurso especial conhecido e provido." (REsp 1157228/RS, Rel. Ministro ALDIR PASSARINHO JUNIOR, Quarta Turma, julgado em 3/2/2011, DJe 27/4/2011)
+O recorrente defende, ainda, a legitimidade passiva do Banco do Brasil, sustentando que o banco falhou na prestação do seu serviço e por isso responde objetiva e solidariamente pelas fraudes praticadas por terceiros no âmbito de sua atuação e deve suportar os danos oriundos da falha de serviço por ele disponibilizado.
+De início, cumpre esclarecer que a indicação de ofensa à súmula não enseja a abertura do recurso especial, por não se enquadrar no conceito de lei previsto no art. 105, inciso III, alínea "a", da Constituição Federal (AgRg no REsp 782.818/ES, Rel. Min. Sidnei Beneti, 3ª Turma, DJe 30.11.2009).
+Ainda que superado tal óbice, verifica-se que o entendimento adotado pela Corte de origem encontra-se de acordo com a Jurisprudência desta Corte Superior. Isto porque a Corte assim decidiu:
+"Da mesma maneira, não se visualiza legitimidade "ad causam" no tocante ao "Banco do Brasil".
+Como visto, não houve qualquer participação da instituição financeira na aludida compra e venda, apenas prestando serviço bancário, atinente ao depósito e transferência de valores feitos pelo próprio autor/agravante em nome de terceiro, não lhe cabendo fiscalizar as intenções do favorecido/sacador do numerário ou tampouco averiguar a origem e movimentações das contas de seus clientes." (e-STJ fl 332/333)
+E neste mesmo sentido já se manifestou o STJ:
+RECURSO ESPECIAL. CONSUMIDOR. RESPONSABILIDADE CIVIL. DANOS. FRAUDE. COMPRA ON-LINE. PRODUTO NUNCA ENTREGUE. RESPONSABILIDADE OBJETIVA DAS INSTITUIÇÕES FINANCEIRAS. SERVIÇOS BANCÁRIOS. INTERMEDIAÇÃO FINANCEIRA ENTRE PARTICULARES. COMPRA E VENDA ON-LINE. PARTICIPAÇÃO. AUSÊNCIA. RESPONSABILIDADE OBJETIVA. NÃO CONFIGURAÇÃO.
+1. Ação ajuizada em 30/06/2015. Recurso especial interposto em 16/03/2018 e atribuído em 22/10/2018.
+2. O propósito recursal consiste em determinar se o banco recorrido seria objetivamente responsável pelos danos suportados pelo recorrente, originados após ter sido vítima de suposto estelionato, perpetrado na internet, em que o recorrente adquiriu um bem que nunca recebeu.
+3. Nos termos da Súmula 479/STJ, "as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias".
+4. O banco recorrido não pode ser considerado um fornecedor da relação de consumo que causou prejuízos à recorrente, pois não se verifica qualquer falha na prestação de seu serviço bancário, apenas por ter emitido o boleto utilizado para pagamento.
+5. Não pertencendo à cadeia de fornecimento em questão, não há como responsabilizar o banco recorrido pelos produtos não recebidos. Ademais, também não se pode considerar esse suposto estelionato como uma falha no dever de segurança dos serviços bancários prestados pelo recorrido.
+6. Recurso especial não provido.
+(REsp 1786157/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 03/09/2019, DJe 05/09/2019)
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
