@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. INEXISTÊNCIA DE ERRO MATERIAL OU OMISSÃO NO JULGADO ATACADO. A TROCA DO AUXÍLIO-SUPLEMENTAR PELO AUXÍLIO ACIDENTE NÃO SERIA PROVEITOSA PARA AS PRETENSÕES DO AGRAVANTE. AGRAVO INTERNO IMPROVIDO.
+1. Pretende o agravante, com a presente ação, ver transformado o benefício que lhe fora concedido de auxílio-suplementar em auxílio acidente, para que, dessa forma, lhe seja permitido receber o benefício vitaliciamente.
+2. Nesse contexto, em que o próprio recorrente sustenta ser detentor de auxílio-acidente deferido em 1994 e de aposentadoria concedida em 2008, a pretensão recursal esbarra na jurisprudência desta Corte.
+3. De fato, a Primeira Seção deste Tribunal Superior firmou entendimento, em recurso especial repetitivo, de que somente podem ser cumulados os benefícios de auxílio-acidente e aposentadoria no caso de ambos terem data de início anterior à data de vigência da Medida Provisória n. 1.596-14/1997, posteriormente convertida na Lei n. 9.528/1999, que proibiu tal cumulação.
+4. Dessa forma, ainda que fosse reconhecido o auxílio-suplementar como auxílio acidente, não seria proveitoso para as pretensões do agravante.
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por João Batista Marçal, contra decisão monocrática que conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento.
+Alega o agravante que, nas razões do recurso especial, não se discute erro material do juízo de primeiro grau de jurisdição, mas de omissão do Tribunal a quo que não analisou referido erro material.
+Aduz que seu pedido ao Tribunal de origem consiste em analisar erro material referente ao benefício que lhe foi concedido na vigência da Lei n. 8.213/1991 que, em razão de perdas auditivas, foi-lhe deferido o benefício de auxílio-suplementar, quando o correto seria a concessão do benefício de auxílio acidente, mesmo porque, à época da concessão, 1/7/1994, o auxílio-suplementar não mais existia, em razão do advento da lei de regência dos benefícios previdenciários.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. INEXISTÊNCIA DE ERRO MATERIAL OU OMISSÃO NO JULGADO ATACADO. A TROCA DO AUXÍLIO-SUPLEMENTAR PELO AUXÍLIO ACIDENTE NÃO SERIA PROVEITOSA PARA AS PRETENSÕES DO AGRAVANTE. AGRAVO INTERNO IMPROVIDO.
+1. Pretende o agravante, com a presente ação, ver transformado o benefício que lhe fora concedido de auxílio-suplementar em auxílio acidente, para que, dessa forma, lhe seja permitido receber o benefício vitaliciamente.
+2. Nesse contexto, em que o próprio recorrente sustenta ser detentor de auxílio-acidente deferido em 1994 e de aposentadoria concedida em 2008, a pretensão recursal esbarra na jurisprudência desta Corte.
+3. De fato, a Primeira Seção deste Tribunal Superior firmou entendimento, em recurso especial repetitivo, de que somente podem ser cumulados os benefícios de auxílio-acidente e aposentadoria no caso de ambos terem data de início anterior à data de vigência da Medida Provisória n. 1.596-14/1997, posteriormente convertida na Lei n. 9.528/1999, que proibiu tal cumulação.
+4. Dessa forma, ainda que fosse reconhecido o auxílio-suplementar como auxílio acidente, não seria proveitoso para as pretensões do agravante.
+5. Agravo interno a que se nega provimento.
+VOTO
+Pretende o agravante, com a presente ação, ver transformado o benefício que lhe fora concedido de auxílio-suplementar em auxílio acidente, para que, dessa forma, lhe seja permitido receber o benefício vitaliciamente.
+Constou da decisão agravada:
+ ..
+No mais, o Tribunal de origem entendeu que "não é permitida a cumulação do auxílio-suplementar com aposentadoria, por expressa vedação legal (artigo 9º, parágrafo único, da referida lei)" (e-STJ, fl. 167).
+Por sua vez, o recorrente objetiva demonstrar que obteve benefício acidentário em 1º/7/1994, e não na vigência da Lei n. 6.367/1976.
+Assim, alega tratar-se de auxílio-acidente, de caráter vitalício, e não de auxílio-suplementar, e que, consoante a redação original da Lei n. 8.213/1991, "o recebimento de outro benefício não prejudicaria o auxílio-acidente" (e-STJ fl. 215 - grifo no original).
+Narra, ainda, que se aposentou em 23/4/2008.
+Veja-se o seguinte trecho extraído das razões recursais (e-STJ, fl. 199):
+Cuida-se de ação de restabelecimento de benefício acidentário concedido judicialmente a partir de 01.07.1994 (fls. 81/83, 85/88), que explicou o recorrente na inicial ter sido concedido em razão deperda auditiva, indevidamente como auxílio-suplementar  .. .
+Propôs a presente demanda o recorrente, porque ao se aposentar, aos 23.04.2008, teve seu auxílio-suplementar cessado aos 22/04/2008. (fls. 82)" (Grifos no original)
+Nesse contexto, em que o próprio recorrente sustenta ser detentor de auxílio-acidente deferido em 1994 e de aposentadoria concedida em 2008, a pretensão recursal esbarra na jurisprudência desta Corte.
+De fato, a Primeira Seção deste Tribunal Superior firmou entendimento, em recurso especial repetitivo, de que somente podem ser cumulados os benefícios de auxílio-acidente e aposentadoria no caso de ambos terem data de início anterior à data de vigência da Medida Provisória n. 1.596-14/1997, posteriormente convertida na Lei n. 9.528/1999, que proibiu tal cumulação.
+Nota-se a ementa do aludido julgado:
+RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA. MATÉRIA REPETITIVA. ART. 543-C DO CPC E RESOLUÇÃO STJ 8/2008. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. CUMULAÇÃO DE BENEFÍCIOS. AUXÍLIO-ACIDENTE E APOSENTADORIA. ART. 86, §§ 2º E 3º, DA LEI 8.213/1991, COM A REDAÇÃO DADA PELA MEDIDA PROVISÓRIA 1.596-14/1997, POSTERIORMENTE CONVERTIDA NA LEI 9.528/1997. CRITÉRIO PARA RECEBIMENTO CONJUNTO. LESÃO INCAPACITANTE E APOSENTADORIA ANTERIORES À PUBLICAÇÃO DA CITADA MP (11.11.1997). DOENÇA PROFISSIONAL OU DO TRABALHO. DEFINIÇÃO DO MOMENTO DA LESÃO INCAPACITANTE. ART. 23 DA LEI 8.213/1991. CASO CONCRETO. INCAPACIDADE POSTERIOR AO MARCO LEGAL. CONCESSÃO DO AUXÍLIO-ACIDENTE. INVIABILIDADE.
+1. Trata-se de Recurso Especial interposto pela autarquia previdenciária com intuito de indeferir a concessão do benefício de auxílio-acidente, pois a manifestação da lesão incapacitante ocorreu depois da alteração imposta pela Lei 9.528/1997 ao art. 86 da Lei de Benefícios, que vedou o recebimento conjunto do mencionado benefício com aposentadoria.
+2. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+3. A acumulação do auxílio-acidente com proventos de aposentadoria pressupõe que a eclosão da lesão incapacitante, ensejadora do direito ao auxílio-acidente, e o início da aposentadoria sejam anteriores à alteração do art. 86, §§ 2º e 3º, da Lei 8.213/1991 ("§ 2º O auxílio-acidente será devido a partir do dia seguinte ao da cessação do auxílio-doença, independentemente de qualquer remuneração ou rendimento auferido pelo acidentado, vedada sua acumulação com qualquer aposentadoria; § 3º O recebimento de salário ou concessão de outro benefício, exceto de aposentadoria, observado o disposto no § 5º, não prejudicará a continuidade do recebimento do auxílio-acidente."), promovida em 11.11.1997 pela Medida Provisória 1.596-14/1997, que posteriormente foi convertida na Lei 9.528/1997. No mesmo sentido: REsp 1.244.257/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 19.3.2012
+ ..
+4. Para fins de fixação do momento em que ocorre a lesão incapacitante em casos de doença profissional ou do trabalho, deve ser observada a definição do art. 23 da Lei 8.213/1991, segundo a qual "considera-se como dia do acidente, no caso de doença profissional ou do trabalho, a data do início da incapacidade laborativa para o exercício da atividade habitual, ou o dia da segregação compulsória, ou o dia em que for realizado o diagnóstico, valendo para este efeito o que ocorrer primeiro". Nesse sentido: REsp 537.105/SP, Rel. Ministro Hamilton Carvalhido, Sexta Turma, DJ 17/5/2004, p. 299; AgRg no REsp 1.076.520/SP, Rel. Ministro Jorge Mussi, Quinta turma, DJe 9/12/2008; AgRg no Resp 686.483/SP, Rel. Ministro Hamilton Carvalhido, Sexta turma, DJ 6/2/2006; (AR 3.535/SP, Rel. Ministro Hamilton Carvalhido, Terceira Seção, DJe 26/8/2008).
+5. No caso concreto, a lesão incapacitante eclodiu após o marco legal fixado (11.11.1997), conforme assentado no acórdão recorrido (fl. 339/STJ), não sendo possível a concessão do auxílio-acidente por ser inacumulável com a aposentadoria concedida e mantida desde 1994.
+6. Recurso Especial provido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução 8/2008 do STJ.
+(REsp 1296673/MG, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 22/8/2012, DJe 3/9/201 - Grifo acrescido)
+Sobre a questão, confira-se ainda o seguinte julgado proferido pela Corte Especial deste Tribunal Superior:
+AGRAVO INTERNO INTERPOSTO SOB A ÉGIDE DO NOVO CPC. EMGARGOS DE DIVERGÊNCIA. CUMULAÇÃO DE BENEFÍCIOS. AUXÍLIO-ACIDENTE E APOSENTADORIA. CUMULAÇÃO. LESÃO INCAPACITANTE E APOSENTADORIA ANTERIORES À PUBLICAÇÃO DA MP N. 1.596-14/1997 (11.11.1997). JURISPRUDÊNCIA DO STJ. SÚMULA N. 168/STJ. FINALIDADE DO RCURSO.
+1. Somente é possível a cumulação de auxílio-acidente com proventos de aposentadoria se a eclosão da lesão incapacitante ensejadora do direito ao auxílio-acidente e o início da aposentadoria forem anteriores à alteração do art. 86, §§ 2º e 3º, da Lei n. 8.213/1991, promovida em 11.11.1997 pela Medida Provisória n. 1.596-14/1997, que posteriormente foi convertida na Lei n. 9.528/1997 (Recurso Especial repetitivo n. 1.296.673/MG).
+2. "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado" (Súmula n. 168/STJ).
+3. Agravo interno desprovido.
+(AgInt nos EREsp 1468250/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/6,2016, DJe 29/6/2016)
+Dessa forma, ainda que fosse reconhecido o auxílio-suplementar como auxílio acidente, não seria proveitoso para as pretensões do agravante.
+Assim, não sendo as razões trazidas pelo agravante suficientes para infirmar o julgado, nego provimento ao agravo interno.
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes: 1) no caso de ter sido aplicado na origem o art. 85, §3º, elevo os honorários ao percentual máximo da faixa respectiva; 2) no caso de ter sido utilizado na origem o art. 85, §2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma; 3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento). Restam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC.
+É como voto.
