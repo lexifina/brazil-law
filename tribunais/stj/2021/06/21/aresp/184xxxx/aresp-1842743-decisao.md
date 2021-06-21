@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo (art. 1.042, do CPC/15), interposto porSCANIA BANCOS/A, contra decisão que não admitiu recurso especial.
+O apelo nobre, amparado naalínea"a", do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim sintetizado (fls. 70/82, e-STJ):
+AGRAVO. RECUPERAÇÃO JUDICIAL. CRÉDITOS FIDUCIÁRIOS. DECISÃO QUE DETERMINOU QUE EVENTUAIS ATOS DE EXPROPRIAÇÃO DEVEM SER REALIZADOS PELO JUÍZO UNIVERSAL DA RECUPERAÇÃO JUDICIAL. ESSENCIALIDADE DO BEM. POSSIBILIDADEDIANTE DAS PECULIARIDADES DO CASO CONCRETO. PRECEDENTES DO STJ E TJRJ.
+A sistemática da Lei 11.101/2005 objetiva recompor a saúde financeira da sociedade, resguardando a continuidade de suas atividades, como preconizam os princípios da preservação e da função social da empresa e da valorização do trabalho humano, esculpidos no art. 170 da Constituição da República. O crédito do proprietário fiduciário, em regra, não se submete aos efeitos da recuperação judicial, todavia, o juízo universal é competente para avaliar se o bem é indispensável à atividade produtiva da empresa. No caso específico, tendo em vista que a agravada atua no ramo de transportes, a retirada de bens de capital essenciais à sua atividade empresarial inviabilizaria a possibilidade de reerguimento da empresa. Desta forma, o prosseguimento das ações de busca e apreensão com a consecução de eventuais atos expropriatórios pode implicar restrição de bens indispensáveis ao regular desenvolvimento das atividades da recuperanda, inviabilizando o cumprimento do plano e violando o princípio de preservação da empresa. Portanto, o recurso não merece conhecimento.
+RECURSO A QUE SE NEGA PROVIMENTO
+Os embargos de declaração opostos foram rejeitados (fls. 98/108, e-STJ).
+Nas razões do recurso especial, o insurgente alega ofensa aos arts. 489, § 1º, inciso IV, e1.022, II, do CPC/2015.
+Sustenta, em síntese,negativa de prestação jurisdicional ante a ausência de manifestação quanto ao modo de prosseguimento daação de busca e apreensão no juízo de origem.
+Contrarrazões às fls. 129/147, e,STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, o que justificou a interposição do presente reclamo.
+Contraminuta apresenta pela parte adversa.
+É o relatório.
+A irresignaçãonão merece prosperar.
+1. De início, consigne-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 2015, conforme Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Quanto à alegação de violação aos artigos 489 e 1.022 do NCPC, suscitando negativa de prestação jurisdicional pela Corte de origem, é sabido, consoante a jurisprudência deste Superior Tribunal de Justiça, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Destaque-se, por oportuno, que a matéria apontada como omitida - esclarecimento quanto à forma que seria realizada a expropriação- foi objeto de expressa manifestação pelo Tribunal local, consoante denotam os seguintes excertos do acórdão que julgou os embargos de declaração (fl, 101/102 -e-STJ - grifos acrescidos):
+A toda evidência, não cabe ao Tribunal, instância revisora neste caso, funcionar como órgão de consulta das partes, muito menos predeterminar o procedimento que deve ser adotado pelos jurisdicionados para a satisfação de seu interesse, tampouco cabe ao tribunal ordenar, de maneira antecedente, a forma pela qual 02 (dois) juízos de primeira Instância deverão agir e/ou gerir seus processos.
+Ademais o "questionamento" formulado pela embargante exorbita o limite do pedido. As questões pertinentes à solução da demanda, nos limites propostos no pedido formulado no agravo, foram integralmente tratadas, conforme se verifica dos trechos a seguir transcritos:
+Portanto, não há falar em negativa de prestação jurisdicional, tampouco em nulidade do aresto estadual.
+Ademais, consoante jurisprudência desta Corte Superior, o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+Nesse sentido, são os seguintes precedentes: AgRg no AREsp n. 55.751/RS, Terceira Turma, Relator o Ministro Paulo de Tarso Sanseverino, DJe 14.6.2013; AgRg no REsp n. 1.311.126/RJ, Primeira Turma, Relator o Ministro Napoleão Nunes Maia Filho, DJe 22.5.2013; REsp n. 1244950/RJ, Terceira Turma, Relator o Ministro Sidnei Beneti, DJe 19.12.2012; e EDcl no AgRg nos EREsp n. 934.728/AL, Corte Especial, Relator o Ministro Luiz Fux, DJe 29.10.2009.
+2. Ante o exposto, nego provimento ao reclamo.
+Publique-se. Intimem-se.
