@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCIO HENRIQUE PINHEIRO DE SOUZA contra sentença proferida pela Vara Única da Comarca de Lima Duarte/MG.
+Narra aImpetrante que o Paciente foi condenado, de forma injusta,à pena de 32 (trinta e dois) anos de reclusão pelo crime de latrocínio, em regime fechado, cumprindo pena desde 15/04/2015.
+Nas razões destewrit, a Defesaafirma que o Paciente sofre de constrangimentopela condenação ilegal, pois o "menor LEONARDO usou a justiça em benefício próprio e para proteger terceiros (Ramon) para se vingar de seus desafetos ( o paciente e o corréu Rodrigo)" (fl. 11), aponta falha nas investigações e erro judiciário.
+Pede, liminarmente e no mérito, a imediata expedição de alvará de soltura.
+É o relatório. Decido.
+Consoante relatado, a Defesa se insurge contra ato supostamente praticado pelo Juiz de Direito da Vara Única da Comarca de Lima Duarte/MG.
+Nesse contexto, está evidenciada a incompetência deste Superior Tribunal de Justiça para apreciar e julgar originariamente a causa, nos termos do que dispõe o art. 105, inciso I, alínea c, da Constituição da República, na medida em que o ato apontado como coator foi praticado por Juiz de Direito e não pelo Tribunal a quo.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPUGNAÇÃO DE DECISÃO PROLATADA POR MAGISTRADO DE PRIMEIRO GRAU. COMPETÊNCIA PARA JULGAMENTO ATRAÍDA PELO TRIBUNAL DE JUSTIÇA LOCAL. SUPRESSÃO DE INSTÂNCIA.
+1. No sistema constitucional vigente, figurando como autoridade coatora magistrado de piso, a competência para o julgamento do habeas corpus é atraída pela Corte estadual a que ele esteja vinculado.
+2. A questão de fundo não pode ser analisada pelo Superior Tribunal de Justiça, tendo em vista que a irresignação do paciente ainda não foi apreciada pelo Tribunal de origem, fato que obsta a análise da impetração por esta Superior Corte de Justiça, sob pena de indevida supressão de instância.
+3. O art. 105, I, "c", da Magna Carta dispõe que compete a esta Corte processar e julgar habeas corpus quando o coator for tribunal sujeito à sua jurisdição. Contudo, não constam dos autos elementos que demonstrem a existência de decisão ou acórdão do Tribunal a quo apreciando a questão objeto deste writ.
+4. Agravo regimental a que se nega provimento." (AgRg no HC 509.664/CE, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 04/06/2019, DJe 14/06/2019; sem grifos no original.)
+Além disso, verifica-se que o Impetrante pretende promover verdadeira revisão criminal da condenação imposta ao Paciente, com revisão dos fatos e provas que ensejaram o decreto condenatório, o que não é possível na via estreita do habeas corpus e não se insere na competência do Superior Tribunal de Justiça, a quem compete a revisão criminal apenas de seus próprios julgados. Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUCEDÂNEO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INCOMPETÊNCIA DO STJ. TESE QUE PREVALECE NO ÂMBITO DESTA CORTE SUPERIOR DE JUSTIÇA. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE. QUESTÃO ANALISADA EM HABEAS CORPUS ANTERIOR.REITERAÇÃO DE PEDIDO.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior. Nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+2. Não se constata, no caso, flagrante ilegalidade apta a ensejar a concessão de habeas corpus, de ofício, tendo em vista que o writ é mera reiteração de pedido anterior, cuja decisão já transitou em julgado, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos o mesmo acórdão.
+3. Agravo regimental improvido."(AgRg no HC 633.925/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 25/05/2021, DJe 04/06/2021)
+Ante o exposto, com base nos arts. 34, inciso XVIII, e 210, ambos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS.IMPETRAÇÃO CONTRA ATO DE JUIZ DE PRIMEIRO GRAU. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL PARA APRECIAR E JULGAR ORIGINARIAMENTE A CAUSA. SUBSTITUTIVO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
