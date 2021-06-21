@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOSIANE ROSA DA PAZ, apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Acre.
+Colhe-se dos autos que apaciente foi presaem flagrante (convertida a custódia em prisão preventiva) em razão de suposto cometimento dos delitos previstos nos artigos33 e 35 da Lei n.º 11.343/2006, e no art. 12 da Lei n.º 10.826/2003.
+Na presente oportunidade, a defesa argumenta que apaciente faz jus à prisão domiciliar, nos termos da lei, por ser mãe de uma criança de apenas umano de idade. A par disso, alega que a acusada reúne condições pessoais favoráveis e se encontraria na mesma situação fático-jurídica do corréu DOURIAN ROBERTO CAVALCANTE, beneficiado com a liberdade provisória em outros autos, demonstrando possuir direito, portanto, à extensão do referido benefício, nos termos do disposto no art. 580 do CPP.
+Diante disso, requer, em liminar e no mérito, a concessão da liberdade provisória e consequente expedição do alvará de soltura.
+É o relatório. Decido.
+Não há como prosseguir a irresignação, isso porque o habeas corpus não foi devidamente instruído, uma vez que não foramcolacionadaspeças processuaisindispensáveis à verificação do alegado constrangimento ilegal, quaissejam, cópia do decreto de prisão preventiva e do acórdão proferido pelo Tribunal a quo.
+Em verdade, o que se nota é que foram juntadas decisões aparentementeoriundas do mesmo processo originário, mas que mencionam apenas outros corréus, não se evidenciando a suposta constrição de liberdade imposta à paciente.
+De toda forma, éde se ressaltar que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n.º 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n.º 549.417/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Por fim, convém destacar que o exame dos pedidos deextensão devem ocorrer nos próprios autos em que proferida a decisão ou oacórdão que beneficiou o corréu, por meio de simples petição.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
