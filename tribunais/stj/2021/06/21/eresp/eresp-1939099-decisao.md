@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso especial interposto por S/A O ESTADO DE SÃO PAULO com fulcro nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 489):
+APELAÇÃO - Ação com pedido de obrigação de fazer cumulado com pedido de indenização por danos morais - Veiculação de notícias envolvendo o nome do autor - Pretensão de que seja reformada a respeitável sentença que julgou procedente em parte a demanda - Cabimento parcial - Preliminar de prescrição rejeitada- Hipótese em que a notícia era inverídica e depreciativa à honra e imagem do autor - Informação trazida pela imprensa que, antes de tudo, deve ser verdadeira, o que impõe limites à sua atuação - Inexatidão da notícia que faz com que a informação prestada não corresponda à realidade, além de, por certo, atingir a honra e imagem do autor - Fixação dos honorários que, todavia, deve ser feita sobre o valor da condenação, nos termos do artigo 85, §2º do Código de Processo Civil - RECURSO PROVIDO EM PARTE.
+Opostos embargos de declaração, esses foram acolhidos para sanar erro material(e-STJ, fls. 534-539 e 572-581).
+Em suas razões recursais (e-STJ, fls. 584-603), alega a parte recorrente, além de dissídio jurisprudencial, a existência de violação aos artigos 86 e 1.022, incisos I e II, do CPC/15, 188, inciso I, 189 e 206, §3.º, V, todos do Código Civil.
+Sustenta, em síntese:
+a) omissão quanto à análise de prova de extrema relevância à resolução da lide, qual seja o ofício do Presidente do Tribunal de Contas encaminhado ao Procurador Geral de Justiça.
+b) omissões relativas à sucumbência recíproca;
+c) que a pretensão do autor da ação estaria fulminada pela prescrição, uma vez que as publicações ocorreram em 23 e 24 de maio de 2012 e a ação somente foi proposta em 06/02/2018.
+d) que publicação trouxe assunto de interesse público e verossímil, fundada em fonte fidedigna;
+e) que o recorrido decaiuem um dos seus pedidos, razão pela qual deve ser revista a sucumbência.
+Contrarrazões às fls. 642-668, e-STJ.
+Admitido o processamento do recurso na origem, consoante decisão de fls. 693-695(e-STJ), ascenderam os autos a esta Corte.
+É o relatório.
+Decido.
+A irresignação comporta acolhimento quanto à arguida prescrição.
+1. Na hipótese, verifica-se que o Tribunal de origem afastou a prescrição por entender que a conduta ofensiva se prolongaria no tempo, consoante se extrai do seguinte trecho do acórdão impugnado (fl. 490, e-STJ ):
+A conduta que o autor pretende seja reconhecida como ofensiva se prolonga no tempo, permanentemente, pois continua disponível para acesso público na internet desde o momento da publicação das notícias.
+A decisão recorrida destoa da jurisprudência desta Corte, pacífica ao afirmar que "uma vez veiculada matéria jornalística que se reputa ofensiva à honra, tem-se por configurado, em tese, dano moral capaz de ensejar ação de indenização, cujo termo inicial, para fins de prescrição, é a própria data da publicação da referida matéria. (AgRg no AREsp n. 496.307/RS, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 27/5/2014, DJe 16/6/2014). Nesse sentido:
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PUBLICAÇÃO DE MATÉRIA JORNALÍSTICA. PRESCRIÇÃO. TERMO INICIAL. DATA DA PUBLICAÇÃO. DECISÃO MANTIDA. RECURSO DESPROVIDO. 1. A pretensão de indenização por danos morais decorrentes de publicação de matéria jornalística de conteúdo ofensivo tem como termo inicial, para fins de prescrição, a data de veiculação da matéria, não havendo que se falar em aplicação analógica da ação civil ex delicto ou em causa impeditiva de prescrição. Precedentes. 2. No caso, a eventual apuração na esfera criminal não era questão prejudicial ao ingresso do pedido indenizatório na esfera cível, afastando-se a incidência do artigo 200 do Código Civil. 3. Agravo interno desprovido. (AgInt nos EDcl nos EDcl no AgRg no AREsp n. 565.154/SP, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 16/8/2018, DJe 24/8/2018)
+RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. VEICULAÇÃO DE MATÉRIA JORNALÍSTICA. CONTEÚDO OFENSIVO. RESPONSABILIDADE CIVIL. PRESCRIÇÃO. TERMO INICIAL. DATA DA PUBLICAÇÃO.
+1. Ausentes os vícios do art. 535 do CPC, rejeitam-se os embargos de declaração.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+4. O excesso ou o abuso no exercício da liberdade de informação ensejam dano moral a ser compensado, de forma independente do resultado das investigações e do processo penal noticiado, ou seja, ainda que o acusado venha a ser absolvido.
+5. Desse modo, a pretensão de compensação de danos morais decorrentes da publicação de matéria jornalística de conteúdo ofensivo pode ser proposta desde a publicação da matéria, não havendo que se falar em aplicação analógica da ação civil ex delicto ou em causa impeditiva de prescrição.
+5. Recurso especial parcialmente conhecido e, nesta parte, não
+provido. (REsp1307439/ SP,Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 17/12/2013, DJe 04/02/2014
+AGRAVO REGIMENTAL NO AGRAVO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANO MORAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ALEGAÇÃO DE VIOLAÇÃO AO ARTIGO 333, INCISO I, DO CPC. INCIDÊNCIA DA SÚMULA Nº 7/STJ. PUBLICAÇÃO DE MATÉRIA JORNALÍSTICA. FATO QUE TAMBÉM CONFIGURARIA, EM TESE, CRIME. PRESCRIÇÃO. ART. 200 DO CÓDIGO CIVIL. APLICABILIDADE APENAS AOS CASOS DE AÇÃO CIVIL EX DELICTO. PRAZO CUJA FLUÊNCIA, NO CASO, NÃO ENCONTRA IMPEDIMENTO LEGAL. TERMO INICIAL. DATA DA PUBLICAÇÃO. INCIDÊNCIA DA SÚMULA Nº 83/STJ. ALEGAÇÃO DE OCORRÊNCIA DE DANO MORAL. IMPOSSIBILIDADE DE REVISÃO NESTA CORTE. APLICAÇÃO DA SÚMULA Nº 7/STJ. AUSÊNCIA DE ARGUMENTOS CAPAZES DE ELIDIR A DECISÃO RECORRIDA. MANUTENÇÃO PELO SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. (AgRg no AREsp 283690 / DF, Rel. Min.PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 03/03/2015, DJe 09/03/2015)
+Da leitura da sentença de fls. 372/382 (e-STJ), verifica-se que as publicações das matérias jornalísticastidas por ofensivas ocorreram nos dias23 e 24 de maio de 2012e aação foi distribuídasomente em 12.09.2018, após o decurso do prazoprescricionalde três anos, previsto no art. 206, §3º, V, do CC, sendo, portanto, inegável o reconhecimento daprescriçãodo direito vindicado na presente ação indenizatória.
+2. Do exposto, dou provimento ao recurso especial paradeclarar prescrita a pretensão da parte autora.
+Responderáoautorpelo pagamento das custas processuais e honorários advocatícios, que fixo em R$ 15.000,00 (quinze mil reais).
+Publique-se.
+Intimem-se.
