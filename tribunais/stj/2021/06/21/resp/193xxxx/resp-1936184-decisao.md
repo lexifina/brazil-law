@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial, interposto por Renan Gomes de Oliveira,com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça Estadual, assim ementado (e-STJ fl. 237):
+APELAÇÃO CÍVEL - DIREITO ADMINISTRATIVO - CORONEL DA POLÍCIA MILITAR - PRETENSÃO AO RECEBIMENTO DA GRATIFICAÇÃO DE ENCARGOS ESPECIAIS (GEE) COM AMPARO NO PROCESSO ADMINISTRATIVO Nº E-12/790/1994, BEM COMO DAS PRESTAÇÕES VENCIDAS E NÃO PRESCRITAS, ACRESCIDAS DE SEUS CONSECTÁRIOS LEGAIS - SENTENÇA DE PROCEDÊNCIA - IRRESIGNAÇÃO DO ESTADO - REVOGAÇÃO DA SÚMULA Nº 342 DESTE TRIBUNAL DE JUSTIÇA, QUE POSSIBILITAVA A EXTENSÃO DO RECEBIMENTO DA REFERIDA GRATIFICAÇÃO POR AQUELES QUE TENHAM OBTIDO A REFERIDA PATENTE EM DATA POSTERIOR À CONCESSÃO ADMINISTRATIVA DO BENEFÍCIO - VIRADA JURISPRUDENCIAL - INVIÁVEL A EXTENSÃO DA GRATIFICAÇÃO AOS MILITARES PROMOVIDOS APÓS A PUBLICAÇÃO DA DECISÃO PROFERIDA NA ESFERA ADMINISTRATIVA, A PRETEXTO DE ISONOMIA, TENDO EM VISTA A NATUREZA PROPTER LABOREM DA VANTAGEM - PRECEDENTES DO E. STJ - REFORMA DA SENTENÇA.
+DÁ-SE PROVIMENTO AO RECURSO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 300-301).
+No apelo especial, a parte recorrente alega, preliminarmente, violação do art. 1.022, II, do NCPC, ao argumento de que a Corte local não se manifestou sobre pontos importantes para o deslinde da controvérsia
+No mérito, afirma que o verbete sumular 342/TJRJ, que foi cancelado, não possuía força vinculante, servindo apenas como argumento de reforço da pretensão autoral e, por esta feita, não deve e não pode ser entendido como sinônimo de improcedência do pedido autoral. Defende que os servidores públicos que ostentem a patente de coronel após a publicação do Processo Administrativo E-12/790/94, sejam ativos ou inativos, fazem jus à G.E.E. concedida no referido ato administrativo. Ademais, em respeito ao principio da isonomia, a GEE deve ser estendida aos demais militares da corporação que tenham sido promovidos a coronéis após o ano de 1994, em razão do seu caráter genérico.
+Sem contrarrazões (e-STJ fl. 358).
+Juízo positivo de admissibilidade àe-STJ fl. 534.
+É o relatório. Passo a decidir.
+A insurgência não merece prosperar.
+De início, deve ser rejeitada a alegada violação do art. 1.022, II, do NCPC, uma vez que o acórdão recorrido está devidamente fundamentado. A jurisprudência desta Corte é uníssona no sentido de que o julgador não está adstrito a responder a todos os argumentos das partes, desde que fundamente sua decisão. O Tribunal de origem apreciou a demanda de modo suficiente, pronunciando-se acerca de todas as questões relevantes ao deslinde da controvérsia.
+Quanto ao mérito, cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal.
+Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência doóbice 284 da Súmula do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+Nesse diapasão: AgInt no AgInt no AREsp 793.132/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 12/3/2021; AgRg no REsp 1.915.496/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/3/2021; e AgInt no REsp 1.884.715/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 1º/3/2021.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lheprovimento, nos termos da fundamentação. Prejudicada a análise do pedido de e-STJ fls. 540-541.
+Majoro em 2% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (artigo 98, § 3º, CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL.OFENSA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CORONEL DA POLÍCIA MILITAR.GRATIFICAÇÃO DE ENCARGOS ESPECIAIS - GEE.AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO INFRACONSTITUCIONAL TIDO POR VIOLADO. SÚMULA 284/STF.RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
