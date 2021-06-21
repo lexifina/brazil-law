@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182 DO STJ.
+1. Inexistindo impugnação específica, como seria de rigor, de todos os fundamentos da decisão agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide, na espécie, o disposto nos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015; e a Súmula n. 182 do Superior Tribunal de Justiça.
+2. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno interposto por INDÚSTRIA DE HOTEIS GUZZONI S/A contra decisão que não conheceu do recurso especial, assim ementado:
+"PROCESSO CIVIL E DIREITO MARCÁRIO. ÔNUS DA PROVA. ART.373, I, DO CPC. ARGUMENTAÇÃO DEFICIENTE. ENUNCIADO 284/STF. REVISÃO DOS CRITÉRIOS DE DITRIBUIÇÃO DO ÔNUS DA PROVA. REVISÃO DE FATOS E PROVAS. ENUNCIADO 7/STJ. SEMELHANÇA ENTRE AS MARCAS. INEXISTÊNCIA DE CONFUSÃO ENTRE O PÚBLICO. ARGUMENTO NÃO CONTRADITADO. ENUNCIADOS 283 E 284/STF. MULTA. EMBARGOS PROTELATÓRIOS. 1.026, § 2º, do CPC/2015. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. INEXISTENTE PROPÓSITO DE PREQUESTIONAMENTO. CABIMENTO. RECURSO ESPECIAL NÃO CONHECIDO
+1. O argumento de que o acórdão recorrido teria distribuído o ônus da prova com enfoque na confusão gerada entre as marcas, e não com base no direito do recorrente à marca, é manifestamente dissociado do fundamento adotado na decisão agravada, que permanece incólume. Assim, a deficiência insanável da argumentação atrai o óbice do enunciado 284/STF.
+2. Tendo o Tribunal de origem concluído que não restou comprovado o direito constitutivo do autor, não é possível reverter a conclusão do Tribunal estadual, pois essa providência demandaria o revolvimento dos fatos da causa, atraindo a incidência do enunciado 7 da Súmula do STJ.
+3. A Corte local concluiu que a semelhança entre as marcas não daria ensejo à confusão entre os consumidores, acentuando a diferença entre os símbolos de cada qual; a grafia, inteiramente diversa, bem como do público alvo. Todavia, o recorrente alude à proteção nacional do registro à marca; o que é insuficiente para afastar a confusão entre as marcas, e, por consequência, modificar a conclusão do acórdão recorrido. Incidência dos enunciados 283 e 284/STF.
+4. A análise quanto à possível confusão gerada pelas marcas entre o público alvo demandaria a incursão em matéria fática, inviável em recurso especial; atraindo o óbice do enunciado 7/STJ.
+5. Nos termos da jurisprudência desta Corte Superior, a reiteração dos argumentos já repelidos de forma clara e coerente pelo acórdãoembargado e a ausência de demonstração do notório propósito de prequestionamento configuram o caráter protelatório dos embargos de declaração, a ensejar a aplicação da multa do art. 1026, § 2º, do CPC/15. Incide, portanto, o enunciado 83/STJ.
+6. Recurso especial não conhecido." (fls. 672-673)
+Nas razões, insurge-se a recorrente contra o óbice do Enunciado 7/STJ, referente à alegada violação do art. 373, I, do CPC. Argumenta que o exame do ponto não implicaria revisão do contexto fático-probatório, senão constatação da sinonímia entre as marcas, razão por que não incidiria o óbice sumular aludido.
+Quanto ao mais, reitera os argumentos do recurso especial. Salienta que adistinção entre os nomes das marcas não impediria a confusão entre os consumidores, por se tratar da mesma atividade empresária (hotelaria).
+Ressalta, ainda, a impertinência damulta aplicada em razão de terem sido opostosembargos de de declaração, considerado o propósitode prequestionamento.
+Requer, portanto, a reconsideração do decisum ora impugnado, com o consequente julgamento do agravo em recurso especial.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182 DO STJ.
+1. Inexistindo impugnação específica, como seria de rigor, de todos os fundamentos da decisão agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide, na espécie, o disposto nos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015; e a Súmula n. 182 do Superior Tribunal de Justiça.
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. In casu, como revela a atenta leitura das razões de fls. 673-680, a parte agravante não rebateu, como lhe competia, os fundamentos da decisão agravada, que são suficientes, por si só, para o não provimento do recurso especial, em especial, a incidência da Súmulas 284/STF e 7/STJquanto à suposta violação ao art. 373, I, do CPC.
+Quanto ao mérito, verifica-se que a decisão recorrida concluiu pela impossibilidade de examinar o tema, uma vez que o recorrente não teria impugnado fundamentonecessárioe suficiente para manter a conclusão do acórdão recorrido, qualseja: que " ..  asemelhança entre as marcas não daria ensejo à confusão entre os consumidores, acentuando a diferença entre os símbolos de cada qual; a grafia, inteiramente diversa, bem como do público alvo" (fl. 676).
+Daí a conclusão pela incidência do óbice constante nos enunciados 283 e 284/STF.
+Todavia, os óbice sumulares aludidos sequer foram objeto de impugnação por parte doagravante, obstando o conhecimento do agravo regimental quanto ao ponto, porausência de impugnação específica..
+Do mesmo modo, no que se refere à multa pela oposição deembargos de declaração protelatórios;verifica-se que o agravante também não rebateu o fundamento determinante da decisão recorrida.
+Com efeito, enquanto a decisão recorrida concluiu pelo caráter protelatório dos embargos de declaração em razão de ter sido oposto fora das hipótese de cabimento; a parte agravante limita-se a tecer considerações sobre a boa-fé no uso do recurso, na forma da vedação de presumir comportamento contraditório da parte.
+Assim, de acordo com o entendimento recentemente fixado pela Corte Especial deste Superior Tribunal, a ausência de impugnação específica de todos os fundamentos da decisão que nega admissibilidade ao recurso especial impede o conhecimento do agravo.
+A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp nos AREsp 701.404/SC, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, CORTE ESPECIAL, julgado em 19/9/2018)  g.n.
+Menciona-se, ainda, outros precedentes no mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PRETENSÃO INFRINGENTE. EMBARGOS DE DECLARAÇÃO JULGADOS COMO AGRAVO INTERNO. PRINCÍPIO DA FUNGIBILIDADE. REQUISITO DO ART. 1.024, § 3º, DO CPC/2015 ATENDIDO. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Cumprido o disposto no art. 1.024, § 3º, do CPC/2015, aplica-se o princípio da fungibilidade para julgar como agravo interno os presentes embargos de declaração.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso especial impede o conhecimento do agravo, nos termos do que dispunha o art. 544, § 4º, I, do CPC/1973, normativo esse que também faz parte do contido no art. 932, III, do CPC/2015 e no art. 253, parágrafo único, I, do RI/STJ.
+3. Embargos de declaração recebidos como agravo interno, ao qual se nega provimento.
+(EDcl nos EDcl no AREsp 899.238/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 17/08/2017, DJe 28/08/2017)  g.n.
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispunha o art. 544, § 4º, I, do CPC/1973, normativo esse que também faz parte do contido no art. 932, III, do CPC/2015 e no art. 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+2. A impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 713.374/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/08/2017, DJe 25/08/2017)  g.n.
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. PLEITO DE SUSPENSÃO DO PROCESSO QUE DEVE SER DIRIGIDO AO JUÍZO DE ORIGEM. PRECEDENTES. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art.
+932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (ausência de obscuridade, contradição, omissão ou erro).
+3. Agravo interno não provido.
+(AgInt no AREsp 1068830/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 03/08/2017, DJe 24/08/2017)  g.n.
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. ART. 544, § 4º, I, DO CPC/1973. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. NÃO OCORRÊNCIA.
+ ..
+3. Conforme reiterada jurisprudência desta Corte, nos termos do art. 544, § 4º, I, do CPC/1973, o conhecimento do agravo em recurso especial está condicionado à impugnação específica de todos os fundamentos da decisão que nega admissibilidade ao apelo nobre, sejam eles autônomos ou não. Precedentes.
+4. Hipótese em que o recorrente, ao interpor agravo em recurso especial, não se desincumbiu de infirmar integralmente os motivos impeditivos de seguimento do especial.
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no AREsp 419.689/ES, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 24/05/2016, DJe 08/06/2016)
+Ademais, tal circunstância atrai a incidência, por analogia, da Súmula 182 do Superior Tribunal de Justiça, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 544, § 4o., I, DO CPC/1973 (ART. 932, III, CPC/2015) E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO REGIMENTAL DO MUNICÍPIO DE JUIZ DE FORA/MG DESPROVIDO.
+1. Nos termos do art. 544, § 4º. do CPC/1973 (Art. 932, III do CPC/2015), bem como da Súmula 182/STJ, por analogia, a parte agravante deve infirmar especificamente os fundamentos da se insurge contra todos eles. decisão impugnada, mostrando-se inadmissível o recurso que não
+2. A impugnação da incidência da Súmula 83/STJ na admissibilidade recursal só se aperfeiçoa com a indicação de precedentes contemporâneos ou supervenientes ao referido na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior (AgRg no AREsp. 556.195/SE, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe 24.4.2015. 3. Prevalecem, pois, íntegros os fundamentos da decisão agravada.
+4. Agravo Regimental do Município de Juiz de Fora/MG desprovido.
+(AgRg no AREsp 474.506/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 15/08/2017, DJe 25/08/2017)  g.n.
+3. Ante o exposto, com fulcro nas razões acima aduzidas, nego provimento ao agravo interno.
+É como voto.
