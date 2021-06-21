@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 NCPC), interposto por IGREJA UNIVERSAL DO REINO DE DEUS, contra decisão que não admitiu recurso especial. O apelo nobre desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+AGRAVO DE INSTRUMENTO . TUTELA PROVISÓRIA DE URGÊNCIA. MODIFICAÇÃO . INDEFERIMENTO . INTERESSE RECURSAL SOMENTE DA REQUERENTE. PRAZO PARA INTERPOSIÇÃO DO RECURSO CABÍVEL. CONTAGEM. FORMA SIMPLES . A RTIGO 229 DO CPC. INAPLICABILIDADE. RECURSO INTEMPESTIVO.
+1. A pretensão rejeitada pelo Juízo a quo foi formulada somente pela agravante, e o seu indeferimento, portanto, somente a ela se refere, não havendo sequer interesse recursal dos demais réus em vergastar a mencionada decisão.
+2. A caução concernente ao valor pago pelo terreno foi requerida em face da segunda ré, cuja rejeição pelo juízo a quo afasta o interesse de recorrer da sociedade SEDAN.
+3. Nenhum pedido foi formulado em favor da primeira demandada, razão pela qual o indeferimento do pleito da agravante não afetou qualquer pretensão daquela, o que igualmente afasta eventual interesse de recorrer.
+4. A finalidade do prazo em dobro é viabilizar o acesso dos advogados aos processos que tenham pluralidade de réus, com diferentes procuradores de escritórios distintos, para que não obrigue vários litisconsortes a produzirem defesa num prazo exíguo.
+5. Não se verifica a hipótese prevista no caput do artigo 229 do Código de Processo Civil, uma vez que o interesse recursal era apenas da ora agravante e não das demais integrantes do polo passivo da ação. Súmula do STF e precedentes do STJ e do TJRJ.
+6. Rejeitados os embargos de declaração interpostos, com publicação da decisão em 29/01/2018, a contagem do prazo para a interposição do presente agravo deinstrumento teve início em 30/01/2018 e fim em 27/02/2019, na forma do artigo 219 do CPC.
+7. O presente recurso foi interposto somente em 15/03/2018, recursal. portanto, quando já expirado o prazo.
+8. Agravo não conhecido.
+Opostos os embargos de declaração, restaram acolhidos apenas para corrigir erro material (fls. 265/269, e-STJ)
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto no art. 229 do Código de Processo Civil.
+Sustenta, em síntese, que com o advento do CPC/15 "há expressa previsão de que a interrupção da contagem do prazo em dobro somente vigorará quando a defesa é oferecida apenas por um deles, ou seja, não mais, quando só um dos litisconsortes haja sucumbido" (fls. 280, e-STJ). Aduz que deve ser feita uma releitura do enunciado da Súmula n. 641/STF.
+Defende que "a questão de ganhadora/vencedora é uma interpretação subjetiva, posto que poderiam os litisconsortes passivos perfeitamente terem recorrido da decisão que indeferiu o pedido de tutela e caução" e que na hipótese em análise "as partes rés são sim sucumbentes na medida que sofrem os mesmos prejuízos, conflitos e ônus que a parte Recorrente" (fls. 283, e-STJ)
+Contrarrazões apresentadas.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, o que justificou a interposição do presente reclamo.
+Contraminuta apresenta pela parte adversa.
+É o relatório.
+Decido.
+1. O tribunal de origem assim decidiu sobre a questão:
+A agravante se insurge contra a decisão que indeferiu a modificação da tutela provisória de urgência concedida à demandante.
+O pleito da terceira ré, ora recorrente, consistia na prestação de caução pela autora, nos valores correspondentes ao IPTU, à Taxa de Incêndio por ela pagos e ao dano decorrente da privação do uso do imóvel, além de outra suplementar, correspondente ao valor do terreno por ela adquirido da segunda ré, Sedan Administração, Participação e Incorporação Ltda.
+Nota-se que a pretensão rejeitada pelo Juízo a quo foi formulada somente pela Igreja Universal do Reino de Deus, e o seu indeferimento, portanto, somente a ela se refere, não havendo sequer interesse recursal dos demais réus em vergastar a mencionada decisão de primeiro grau. Dessa forma, não se verifica a hipótese prevista no capuz" do artigo 229 do Código de Processo Civil, uma vez que o interesse recursal eraapenas da ora agravante e não das demais integrantes do polo passivo da ação.
+Aliás, é importante salientar, por oportuno, que a caução referente ao valor pago pelo terreno foi requerida em face da segunda ré, SEDAN Administração, Participação e Incorporação Ltda., cuja rejeição pelo juízo a quo afasta por completo o interesse desta em recorrer.
+Por seu turno, nenhum pedido foi formulado em favor da Sra Bianca Mariana Cabral Marinho Pompei, razão pela qual o indeferimento do pleito da agravante não afetou qualquer pretensão da primeira demandada, o que igualmente afasta eventual interesse de recorrer.
+No caso, o tribunal deixou de aplicar o prazo em dobro porque a parte ora recorrente teria sido a única sucumbente, foi a única que teve seu direito material em tese violado, de modo que apenas sobrou interesse recursal a ela e que o prazo recursal não seria dobrado.
+Com efeito, a conclusão do acórdão recorrido se coaduna com o entendimento jurisprudencial consolidado nesta Corte, o qual se firmou no sentido de que a regra que anuncia o prazo em dobro para litisconsortes com diferentes procuradores, previsto do art. 191 do CPC/1973, correspondente aoart. 229do CPC/2015, deixa de incidir quando apenas um dos litisconsortes apresenta recurso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. ART. 191 DO CPC/73. INAPLICABILIDADE. CONTAGEM EM DOBRO DO PRAZO RECURSAL. IMPOSSIBILIDADE. AUSÊNCIA DE INTERESSE RECURSAL DOS LITISCONSORTES REPRESENTADOS POR PROCURADORES DISTINTOS. INTELIGÊNCIA DA SÚMULA 641/STF.
+1. O Superior Tribunal de Justiça consolidou o entendimento de que o prazo só será contado em dobro, nos termos do art. 191 do Código de Processo Civil de 1973, nos casos em que a decisão recorrida cause gravame a litisconsortes com procuradores distintos, não tendo aplicabilidade quando o interesse recursal é apenas daqueles que se encontram representados pelos mesmos causídicos. Precedentes.
+2. Aplica-se, por analogia, a Súmula 641 do eg. Supremo Tribunal Federal, segundo a qual "não se conta em dobro o prazo para recorrer, quando só um dos litisconsortes haja sucumbido".
+3. Em que pese a presença de outros réus na lide principal, somente os recorrentes, que são representados pelos mesmos procuradores, tinham interesse em recorrer do acórdão que deixou de apreciar o pedido de gratuidade de justiça por eles formulado, não se aplicando, no caso, o benefício do prazo em dobro.
+4. Agravo interno a que se nega provimento. (AgRg no AREsp 706872 / RJ, Rel. Min. RAUL ARAÚJO, QUARTA TURMA, julgado em 09/04/2019, DJe 29/04/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. LITISCONSÓRCIO. INAPLICABILIDADE DO PRAZO EM DOBRO. ART. 191 DO CPC/73. INTERESSE RECURSAL DE UM DOS LITISCONSORTES. INTELIGÊNCIA DASÚMULA Nº 641DO STF. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. AGRAVO NÃO PROVIDO.
+1. Aplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não se aplica a norma contida no art. 191 do CPC/73 quando apenas um dos litisconsortes tem interesse em recorrer. Inteligência da Súmula nº 641/STF.
+3. Agravo interno não provido. (AgInt no AREsp 1.014.853/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/8/2017, DJe 6/9/2017)
+2.Ademais, para a aferição da sucumbência dosintegrantes do feito,seria necessárioo reexame do acervo fático-probatório juntado aos autos, o que é vedado em sede de recurso especial ante a aplicação da Súmula n. 7/STJ.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019
+3. Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
