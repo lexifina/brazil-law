@@ -1,0 +1,29 @@
+DECISÃO
+JEANE ONOFRE DA ROCHA E ISABELA CRISTINA ROCHA BENEDITO ajuizaram ação de indenização por danos morais e materiais contra TATAI LOCAÇÃO DE VEÍCULOS LTDA (TATAI) E DOMINGOS JARDIM DA COSTA (DOMINGOS) decorrente de acidente de trânsito provocado por DOMINGOS, funcionário da ré TATAI.
+Em primeira instância, foi deferida a denunciação à lide deNOBRE SEGURADORA DO BRASIL S.A (NOBRE SEGURADORA), bem como os pedidos iniciais foram julgados parcialmente procedentes para condenar os réus no pagamento de danos materiais, morais e estéticos e nas custas processuaise honorários advocatícios fixados em 15% sobre o valor da condenação apurado até a data do efetivo pagamento atualizado.
+A denunciação à lide foi julgada procedente para condenar NOBRE SEGURADORA nopagamento de tudo o quanto a denunciante TATAI tiver de despender para pagar as verbas a que foi condenada, respeitados os limites constantes da apólice de seguro(e-STJ, fls. 489/497).
+O Tribunal de Justiça de São Paulodeu parcialprovimento aos recursos de apelação interpostos por NOBRE SEGURADORA e TATAI nos termos doacórdão relatado pelo Des. ARANTES THEODORO,assim ementado:
+Acidente automobilístico. Ação indenizatória. Particularidade de a seguradora denunciada à lide se achar em liquidação extrajudicial não impedia o prosseguimento do feito, mas apenas a suspensão da exigibilidade dos juros de mora quanto a ela.Transporte coletivo de passageiros. Incidência do regime de responsabilidade objetiva. Culpa exclusiva de terceiro não caracterizada.Danos morais e estéticos em concreto verificados. Necessária redução do valor das indenização pela primeira sorte de dano. Inocorrência de "bis in idem" pela cumulação de indenização por danos estéticos com a obrigação de ressarcir despesas médicas. Pensão mensal devida nos termos do artigo 950 do Código Civil. Cabimento da dedução do valor devido pelo DPVAT quanto a essa verba. Recursos parcialmente providos(e-STJ, fl. 566).
+Os embargos de declaração opostos por TATAI foram rejeitados (e-STJ, fls. 584/587).
+Inconformada, TATAI interpôs recurso especial com fulcro no art. 105, III, a, da Constituição Federal, apontando violação dos arts. 29, II do CTB; 884 e 950 do CC/02; 14,§ 3º, III do CDC, ao sustentar, em síntese (1) culpa exclusiva de terceiro; e, (2) enriquecimento sem causa do recorridos.
+Em juízo de admissibilidade, a presidência da seção de direito privado do TJSPinadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Sem contraminuta.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegação de culpa exclusiva de terceiro
+O TJSP afastou a alegação de culpa exclusiva de terceiro nos seguintes termos:
+Ora, ficou bem revelado que o acidente não ocorreu por culpa das próprias vítimas, eis que tanto os depoimentos colhidos quanto a prova documental (fls. 21 e seguintes) afastava essa hipótese.
+Tampouco se havia de dizer presente culpa exclusiva de terceiro, isto é, do condutor do caminhão, já que segundo os elementos informativos a colisão só ocorreu porque ao parar o ônibus o motorista réu deixou a parte traseira fora do acostamento, isto é, sobre a pistada rodovia.
+Consigne-se que não isentava os réus de responsabilidade a notícia de que o ônibus precisou parar porque apresentava pane elétrica, eis que isso se compreendia no chamado risco da atividade, que estava abrangido pela responsabilidade objetiva.
+Logo, caso não era mesmo de se afastar o dever dos réus de indenizar as autoras pelos danos advindos do acidente (e-STJ, fls. 571/572).
+Assim, ultrapassar a conclusão a que chegou o eg. Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+(2) Da alegação de enriquecimento sem causa
+Verifica-se que o tema não foi objeto de discussão no acórdão recorrido e tampouco foram opostos embargos de declaração para esta finalidade. Assim, inexistente o prequestionamento, obstaculizada está a via de acesso ao apelo excepcional. Inafastável assim, por analogia, a incidência da Súmula nº 282 do STF: É inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial deTATAI LOCAÇÃO DE VEÍCULOS LTDA.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de TATAI, nos termos do art. 85, § 11 do NCPC, observado, se o caso, o art. 98, § 3º do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE AUTOMOBILÍSTICO. RECURSO ESPECIAL. INTERPOSTO NA VIGÊNCIA DO NCPC. CULPA EXCLUSIVA DE TERCEIRO. INEXISTÊNCIA. ALTERAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. ENRIQUECIMENTO SEM CAUSA. FALTA DE PREQUESTIONAMENTO. SÚMULANº 282, DO STF.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
