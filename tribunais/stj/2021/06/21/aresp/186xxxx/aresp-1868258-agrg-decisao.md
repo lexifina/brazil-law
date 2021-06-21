@@ -1,0 +1,21 @@
+DECISÃO
+ANDERSON LIMA agravade decisão proferida pela presidênciadeste Tribunal que não conheceu do agravo em recurso especial interposto contra a inadmissão do recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação Criminal n.70082617887.
+Consta dos autos que o agravante foi condenado à pena de 5 anos e 8 meses de reclusão, no regime inicial fechado, como incurso no art. 33, caput, da Lei n. 11.343/2006, c/c o art. 61-I, do Código Penal. Inconformado, interpôs apelação perante a Corte estadual, que, por unanimidade, negou provimento ao recurso.
+Nas razões do especial, a defesa apontouviolação do art.93, IX, da Constituição da República, pois o acórdão recorrido teria se estruturado em indevidafundamentação per relationem e dos arts. 157, § 1º, e 158 do Código de Processo Penal, pois a condenação teria sido firmada a partir de material probatório produzido de forma ilícita, por quebra de custódia da prova.
+O recurso especial foi inadmitido pela incidência das Súmulas n. 284 e 282 do STF,o que ensejou a interposição do respectivo agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do agravo.
+Decido.
+Acolho as razões do regimental, pois oagravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento.
+Constato a tempestividade do recurso especial, interposto com espeque no art. 105, III, "a", da Constituição Federal, mas não verifico o preenchimento dos requisitos constitucionais, legais e regimentais para seu processamento, por incidir na espécie as Súmulas 282 e284, ambas do STF.
+De início, em relação à supota ilegalidade do acórdão recorrido, que teria se estruturado em indevida fundamentação per relationem, observo que o agravante indicou afronta à norma de forma genérica, sem especificar quais artigos, incisos ou alíneas legais teriam sido violados.
+É assente que a ausência de particularização dos artigos da lei supostamente infringidos, assim como a não especificação dos incisos dos artigos supostamente violados, inviabilizam a compreensão da irresignação recursal, em face da deficiência da fundamentação do apelo raro.
+Portanto, incide, na espécie, a Súmula n. 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Exemplificativamente:
+ ..
+3. A ausência de particularização dos artigos supostamente violados, inviabiliza a compreensão da irresignação recursal, em face da deficiência da fundamentação do apelo raro. Súmula 284/STF.
+ ..  (AgRg no AREsp n. 1.011.601/MS, Rel. Ministro Maria Thereza de Assis Moura, 6ª T., DJe 2/2/2017)
+Importante, ainda, reproduzir trecho do voto proferido pela relatora no julgado acima citado (grifei):
+Lado outro, nos moldes do assentado na decisão impugnada, quanto à aventada contrariedade ao artigo 593 do Código de Processo Penal, verifica-se que o recorrente indicou de forma genérica violação ao referido artigo, sem especificar qual (ais) inciso (s) entende tido (s) por violado (s). É assente que a ausência de particularização dos dispositivos legais supostamente violados inviabiliza a compreensão da irresignação recursal, em face da deficiência da fundamentação do apelo raro. Dessarte, incide, in casu, o enunciado 284 da súmula do STF, verbis: "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".  ..
+Outrossim, em relação à aventada violação 157, § 1º, e 158 do Código de Processo Penal, verifico que a defesa não suscitou a nulidade da prova em seu recurso de apelação, situação apontadapela própria defesa no agravo. Dessa forma, as alegações defensivas carecem, nesse ponto, do necessário prequestionamento.
+Aplica-se ao caso, portanto, o óbice da Súmula n. 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+À vista do exposto, reconsidero a decisão de fls. 618-619e conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
