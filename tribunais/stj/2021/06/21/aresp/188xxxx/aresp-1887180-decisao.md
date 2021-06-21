@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravointerposto pelo Instituto Nacional do Seguro Socialcontra inadmissão, na origem, de recurso especial que ataca acórdão doTribunal Regional Federal da 2ª Região,assimementado:
+CIVIL E PROCESSUAL CIVIL - APELAÇÃO CÍVEL - AÇÃO DE RESSARCIMENTO AOERÁRIO - BENEFÍCIO ASSISTENCIAL - SENTENÇA ABSOLUTÓRIA NA SEARA CRIMINAL- REFLEXOS NA SEARA CÍVEL
+- O Superior Tribunal de Justiça firmou a compreensão de que as esferas cível, administrativa e penal são independentes, com exceção dos casos de absolvição, no processo criminal, por afirmada inexistência do fato ou inocorrência de autoria.
+- A sentença absolutória que decidir que o fato imputado não constitui crime não obsta a propositura de ação cível pelo mesmo fato, conforme art. 67, III, do CPP. Todavia, a absolvição da parte se fundou na efetiva comprovação de que não laborou quando do recebimento do benefício assistencial, razão pela qual restou afastada a sua responsabilidade pelo ressarcimento ao erário.
+- Recurso provido.
+Os embargos declaratórios opostos pelo INSS foram rejeitados.
+Nas razões de recurso especial manejado com fulcro na alínea "a" do permissivo constitucional, alega o recorrente, ora agravante, que o Tribunala quoviolou os artigos 489, II e § 1º, IV e 1.022, II do CPC/2015.
+Aponta negativa de prestação jurisdicional, ao argumento de que "a fundamentação de que não se trata de infração penal não vincula a esfera cível. A sentença penal se baseou em instrução probatória diversa, a qual pode ter sido deficitária. No caso da presente demanda houve profunda investigação na fase administrativa, a qual verificou, de forma irrefutável, a existência da infração e a necessidade do ressarcimento ao erário".
+Assevera que "os pontos relevantes e nodais para solução do caso concreto não foram, nos presentes autos, apreciados concreta e fundamentadamente pelo Colegiado a quo, o que importa em falta da entregada prestação jurisdicional à parte".
+Requer "o provimento do seu recurso, de forma a cassar o Acórdão vergastado, determinando o retorno dos autos para que o Tribunal Regional profira outra decisão, analisando os argumentos dos embargos de declaração".
+Não foram apresentadas contrarrazões.
+A inadmissão do recurso especial se deu com fundamento na Súmula7/STJ e na ausência de negativa de prestação jurisdicional.
+Em suas razões de agravo, sustenta oagravante que não há necessidade derevolvimento de provas, pois a questão jurídica é de interpretação dalegislação.
+É o relatório.
+Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação não merece prosperar.
+Com efeito, da leitura do acórdão recorrido depreende-se que o Tribunal de origem manifestou-se de maneira clara e bem fundamentada acerca das questões relevantes para o deslinde da controvérsia, discorrendo acerca da autonomia das esferas cível e penal, bem como acerca da razão pela qual, no caso concreto, a absolvição na seara penal gerou emanações na esfera cível, nos seguintes termos:
+Compulsando os autos da ação penal n. 0000690-36.2014.4.02.5112, que tramitou perante a 1ª Vara Federal de Itaperuna, é possível verificar que se buscou a responsabilização criminal do apelante pelos mesmos fatos que são objeto do presente processo, senão vejamos (Evento 77 daqueles autos):
+"Segundo a denúncia, o réu, de forma livre e consciente, recebeu o benefício Amparo Social ao Idoso em concomitância com o exercício de atividades laboral, mais precisamente como taxista registrado na Prefeitura de Santo Antônio de Pádua/RJ.
+Ainda conforme narrado na peça acusatória, para viabilizar sua empreitada criminosa e burlar a proibição do exercício de atividade laboral juntamente como recebimento do benefício, o réu transferiu sua licença de taxista para seu filho Marco Aurélio Paulino Machado. Com isso, logrou êxito em auferir indevidamente benefício previdenciário entre 09/11/2010 a 08/05/2013, gerando um prejuízo ao INSS de R$19.415,88 (dezenove mil, quatrocentos e quinze reais e oitenta e oito centavos)."
+Na referida ação penal, concluiu-se que o Sr. ERCI não exerceu a atividade de taxista durante o tempo em que recebeu o benefício Amparo Social ao Idoso, sendo certo que "transferiu a autonomia antes de requerer o benefício previdenciário, o que indica ausência de motivação inidônea ao formular o pleito administrativo à autarquia previdenciária.".
+Por esta razão, absolveu-se o apelante ERCI DA ROCHA MACHADO pelos fatos deduzidos na denúncia, com espeque no art. 386, III do Código de Processo Penal. A sentença transitou em julgado em 01/02/2019 (Evento 89 daqueles autos).
+O Superior Tribunal de Justiça firmou a compreensão de que as esferas cível, administrativa e penal são independentes, com exceção dos casos de absolvição, no processo criminal, por afirmada inexistência do fato ou inocorrência de autoria.
+Desse modo, em que pese a sentença absolutória que decidir que o fato imputado não constitui crime não obstar a propositura de ação cível pelo mesmo fato, conforme art. 67, III, do CPP, observa-se que a absolvição se fundou na efetiva comprovação de que o Sr. ERCI não trabalhou como taxista quando do recebimento do benefício assistencial.
+Com isso, a sentença criminal, na hipótese dos autos, produz evidentes reflexos na seara civil, sob pena de se gerar situação absolutamente desarrazoada e contraditória.
+Na linha da jurisprudência do STJ, não há falar em negativa de prestação jurisdicional, tampouco em vício, quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 1.022 DO CPC/2015INEXISTENTE. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTES E APÓS A CF/1988.MATÉRIA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DEAPRECIAÇÃO EM RECURSO ESPECIAL. COMPETÊNCIA RESERVADA AO STF.
+1. Inexiste a alegada negativa de prestação jurisdicional, visto que aCorte de origem apreciou todos os pontos relevantes ao deslinde dacontrovérsia de modo integral e adequado, não padecendo o acórdãorecorrido de qualquer omissão, contradição ou obscuridade.
+2. O Tribunal a quo resolveu a questão da revisão do benefícioprevidenciário com fundamentação eminentemente constitucional, razão pelaqual não é possível sua revisão na via eleita.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.(REsp 1.740.348/RS, SEGUNDA TURMA, Relator Ministro HERMAN BENJAMIN, DJe22/11/2018)
+A alegada violação aos artigos 489 e 1022 do CPC/2015, portanto, não merece ser acolhida.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o artigo253, parágrafo único, II, a e b, do RISTJ, bem como na Súmula 568/STJ, conheço do agravo para nega provimento ao recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e julgamento, bem comoa complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados, bem como eventual concessão da gratuidade da justiça.
+Publique-se Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL.ENUNCIADO ADMINISTRATIVO 3/STJ.AÇÃO RESSARCITÓRIA. VIOLAÇÃO AOS ARTS. 489 E 1022 DO CPC/2015NÃO CONFIGURADA.AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
