@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EMHABEAS CORPUS.FEMINICÍDIO. NULIDADE. CERCEAMENTO DE DEFESA. PLEITO DE SUSTENTAÇÃO ORAL. NÃO DISPONIBILIZAÇÃO DO LINK PARA ACOMPANHAMENTO DA SESSÃO DE JULGAMENTO DO RECURSO DEFENSIVO. SUPRESSÃO DE INSTÂNCIA. EMBARGOS DE DECLARAÇÃO PENDENTES DE JULGAMENTO NA ORIGEM. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. O agravante não logrou êxito em demonstrar qualquer argumento capaz de modificar as razões expostas na decisão ora combatida, numa nítidatentativa de rediscussão da matéria enfrentada e rechaçada monocraticamente.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Chateaubriand Bandeira Diniz Filho contra a decisãoda lavra deste Relator (fls. 1.727/1.730),que denegou a ordem do writimpetrado em seu favor. Esta, a ementa da decisão:
+HABEAS CORPUS. FEMINICÍDIO. NULIDADE. CERCEAMENTO DE DEFESA. PLEITO DE SUSTENTAÇÃO ORAL. NÃO DISPONIBILIZAÇÃO DO LINK PARA ACOMPANHAMENTO DA SESSÃO DE JULGAMENTO DO RECURSO DEFENSIVO. SUPRESSÃO DE INSTÂNCIA. EMBARGOS DE DECLARAÇÃO PENDENTES DE JULGAMENTO NA ORIGEM. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Ordem denegada.
+O agravante reitera os argumentos lançados na inicial do habeas corpus, destacando que o direito de defesa, a publicidade dos atos, ou até mesmodireito ao adiamentoforam sim mitigados em prol de um julgamento secreto(fl. 1.734).
+Requero processamento do Agravo Regimental, com a aplicação do juízo de reconsideração, ou não sendo este o entendimento de Vossa Excelência, o regular processamento do Agravo Regimental com a consequente admissão, análise e concessão do Habeas Corpus por esta Egrégia Corte de Justiça (ainda que de ofício - Conforme artigo 654, §2º do CPP, c. c. artigo 203, II do Regimento Interno deste Egrégio Superior Tribunal de Justiça)- fl. 1.742.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EMHABEAS CORPUS.FEMINICÍDIO. NULIDADE. CERCEAMENTO DE DEFESA. PLEITO DE SUSTENTAÇÃO ORAL. NÃO DISPONIBILIZAÇÃO DO LINK PARA ACOMPANHAMENTO DA SESSÃO DE JULGAMENTO DO RECURSO DEFENSIVO. SUPRESSÃO DE INSTÂNCIA. EMBARGOS DE DECLARAÇÃO PENDENTES DE JULGAMENTO NA ORIGEM. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. O agravante não logrou êxito em demonstrar qualquer argumento capaz de modificar as razões expostas na decisão ora combatida, numa nítidatentativa de rediscussão da matéria enfrentada e rechaçada monocraticamente.
+2. Agravo regimental desprovido.
+VOTO
+O agravo regimental objetiva a reforma da decisão com a consequenteanulação do julgamento da apelação criminal, determinando-se não apenas o acesso à publicidade do ato, como a realização da sustentação oral.
+Contudo, não merece acolhida a pretensão do agravante. A bem da verdade, as razões do regimental apenas evidenciam sua utilizaçãocomo forma de expressar a insatisfação do recorrente com o decisum oraquestionado, na tentativa de rediscutir a matéria rechaçada.Tanto é assim que praticamente repete os mesmos argumentos trazidos no habeas corpus.
+Tal questão, todavia, foi devidamente enfrentada e rechaçada na decisãomonocrática ora questionada, na qualacolhi o parecer do Ministério Público Federal, que assim se manifestou (fl. 1.729):o inconformismo pelo cerceamento de defesa, especificamente pelo não envio do link para acompanhar a sessão de julgamento do recurso de apelação, não foi examinado pelo i. Relator, pelo colegiado, constando, apenas dos embargos declaratórios opostos, como se vê à fl. 1.712. Neste contexto, não caberia a esse C. STJ se manifestar, sob pena de indevida supressão de instância.Demais disso, pelo que se depreende das informações constantes da intimação oficial disponibilizada no Diário de Justiça Eletrônico de 4/3/2021, acostada às fls. 1.686/1.687, a disponibilização do link de acesso à sessão é para viabilizar a realização da sustentação oral, e quanto à sessão de julgamento, "será gravada e posteriormente poderá ser requisitado acesso ao seu conteúdo" (fl. 1.686). E contra este ponto, a defesa não se opôs. Dito isto, como o pleito de sustentação oral foi indeferido - por intempestivo, como se verá - não se reconhece ilegalidade na ausência de envio do link para tal finalidade.
+Conclui-se, então, que razão não assiste ao regimental, pois o agravante não logrou êxito em demonstrar argumento capaz de modificar as razões expostas na decisão ora combatida, em uma nítida tentativa de rediscussão da matéria enfrentada e rechaçada monocraticamente.
+Ante o exposto,nego provimentoao agravo regimental.
