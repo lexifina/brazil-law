@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por Antônio Rosalino dos Santos Filho em face de acórdão proferido pelo Tribunal de Justiça do Estado da Bahia.
+Na inicial do mandado de segurança, o recorrente impetrou mandado de segurança contra o Governador de Estado da Bahia, o Secretário de Administração do Estado da Bahia e o Comandante Geral da Polícia Militar do Estado da Bahia. Alega que é policial militar aposentado desde 2011 na patente de 1º Tenente, porém não foi para a reserva com os proventos de Capitão. Com base no art. 40, § 8º, da CF/1988, do art. 51, II, da LE n. 3.933/1981e do art. 1º da LE n. 7.154/1997, defende que seus proventos devem ser pagos na patente de Capitão da PM.
+O acórdão recorrido, que denegou a segurança, foi sintetizado nestes termos (e-STJ fl. 223):
+DIREITO CONSTITUCIONAL E DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. POLICIAL MILITAR APOSENTADO. PRELIMINAR. ILEGITIMIDADE PASSIVA DO GOVERNADOR DO ESTADO DA BAHIA. REJEIÇÃO. PREJUDICIAL. PRESCRIÇÃO DO DIREITO. RELAÇÃO DE TRATO SUCESSIVO. INOCORRÊNCIA. MÉRITO. REVISÃO DO SOLDO. IMPOSSIBILIDADE. POLICIAL MILITAR QUE OCUPAVA NA ATIVA O POSTO DE PRIMEIRO SARGENTO. INATIVAÇÃO. PAGAMENTO DE PROVENTOS NO VALOR CORRESPONDENTE AO SOLDO DE CAPITÃO. RECLASSIFICAÇÃO INAPLICÁVEL. INEXISTE PROMOÇÃO NO ATO DE APOSENTADORIA, APENAS, CLÁLCULO DOS PROVENTOS COM BASE NO POSTO HIERARQUICAMENTE SUPERIOR NO MOMENTO DE SUA TRANSFERÊNCIA PARA A RESERVA REMUNERADA. PROVENTOS A SEREM PAGOS COM BASE NO SOLDO DE 1º TENENTE, QUE EQUIVALE À PATENTE IMEDIATAMENTE SUPERIOR. OCORRÊNCIA. INTELIGÊNCIA DO ARTIGO 92, III, DA LEI 7.990/2001. ILEGALIDADE ADMINISTRATIVA NÃO CARACATERIZADA. DIREITO LÍQUIDO E CERTO NÃO COMPROVADO. SEGURANÇA DENEGADA.
+Nas razões do recurso ordinário, o militar reformado defende alteração de sua patente com base em direito a promoção e a ressarcimento de preterição. Assevera, em síntese, que (e-STJ fl. 266): "a ascensão pelo critério de promoção por ressarcimento da preterição para evoluir nas patentes, cumpridas as demais exigências formais da lei e, com tal exegese, fazer aplicar em sua essência a antiguidade, fim da norma." Alega a inexistência de prescrição do fundo de direito e a incidência da Súm. n. 85/STJ.
+Contrarrazões às e-STJ fls. 282/301.
+No âmbito do STJ, o Ministério Público Federal manifestou-se pelo não conhecimento do recurso ordinário pela impossibilidade de inovação recursal.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+A promoção por preterição não foi elencada na inicial do mandado de segurança. É argumentação nova, então, por ter sido formulada somente em nível recursal. Essa inovação não é admitida, pois o recurso deve se ater a impugnar as questões (e fundamentos) apresentados no julgado impugnado. Logo, o recurso ordinário não deve ser conhecido. Nesse sentido, o parecer do Ministério Público:
+Não se admite o recurso ordinário fundamentado em teses novas, violando o princípiotantum devolutum quantum appellatum.
+Verifica-se que o recorrente alega tese nova no recurso ordinário, não apresentada na inicial dowrit.
+O Tribunal denegou a ordem sob o fundamento de que não há direito à promoção do militar aposentado com base fato posterior à inativação, mas apenas de receber os proventos conforme o soldo da graduação ou posto imediatamente superior - fls. 223/238.
+O militar, no entanto, alega que preenche os requisitos para ser promovido a 1º Tenente em ressarcimento de preterição, e, por conseguinte, tem direito de receber os proventos conforme o soldo do posto imediatamente superior de Capitão PM.
+Ocorre que o mandado de segurança foi impetrado com a finalidade de ser promovido a 1º Tenente e ter seus proventos calculados com base no posto de Capitão PM, por entender que preenche os requisitos para a referida promoção, em virtude da entrada em vigor da Lei Estadual nº 7.147/97, do art. 40, § 8º, da CF e do princípio da isonomia.
+Acerca da impossibilidade de questões novas, que figuram inovação recursal, os seguintes precedentes do STJ:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DEMISSÃO. CAIXEGO. ANISTIA. ALEGAÇÃO DE PERSEGUIÇÃO POLÍTICA. FATOS NÃO COMPROVADOS.EXTENSÃO DO ALCANCE DA LEI ANISTIADORA. TESE NÃO SUBMETIDA AO TRIBUNAL. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. Na hipótese em julgamento, a Corte Estadual, examinando as provas documentais apresentadas pelas partes, concluiu pela insubsistência dos fatos narrados pelo impetrante na petição inicial.
+2. Em sede de mandado de segurança, a não correspondência entre os fatos narrados e aqueles documentalmente provados subtrai do impetrante a liquidez e certeza que autorizariam a impetração.
+3. A devolutividade que marca o recurso ordinário, apesar de ampla, não é ilimitada, por isso que os temas sobre os quais a Corte revisora pode se pronunciar se restringem àqueles veiculados na exordial, os quais foram submetidos ao Tribunal de origem, ressalvadas as questões de ordem pública. Fora desse leque, não é possível conhecer de teses apresentadas apenas nas razões de inconformismo, por se traduzirem em indevida inovação recursal.
+Precedente: AgInt no RMS 62.397/GO. Rel. Min. SÉRGIO KUKINA, Primeira Turma, DJe de 13/3/2020.
+4. Recurso ordinário em mandado de segurança não provido.
+(RMS 48.780/GO, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 23/02/2021, DJe 02/03/2021)
+ADMINISTRATIVO. RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA IMPETRADO PELO MUNICÍPIO DE MARÍLIA CONTRA ATO DO GOVERNADOR DO ESTADO DE SÃO PAULO, CONSUBSTANCIADO NO DECRETO 64.997/2002, EM QUE ESTABELECIDO O REGIME DE QUARENTENA DE CADA UMA DE SUAS REGIÕES. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA IGUALDADE, POIS O REGIME DE QUARENTENA DO MUNICÍPIO DE SÃO PAULO LEVA EM CONTA APENAS SEUS DADOS LOCAIS, E NÃO OS REGIONAIS. VIOLAÇÃO A DIREITO LÍQUIDO E CERTO NÃO DEMONSTRADA.DESPROVIMENTO DO RECURSO.
+ ..
+5. Não podem ser conhecidos os argumentos do recurso ordinário na linha da inconstitucionalidade dos decretos que tratam da quarentena e da instituição do Plano São Paulo, bem assim os de esvaziamento da autonomia municipal prevista na Constituição Federal, pois não foram apresentados como causa de pedir na inicial do mandado de segurança, constituindo, por isso, indevida inovação recursal.
+ ..
+9. Recurso ordinário a que se nega provimento.
+(RMS 65.812/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 13/04/2021, DJe 19/04/2021)
+Ante o exposto, não conheço do recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO N. 3/STJ. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. RECURSO ORDINÁRIO NÃO CONHECIDO.
