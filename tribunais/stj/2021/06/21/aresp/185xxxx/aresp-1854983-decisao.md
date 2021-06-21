@@ -1,0 +1,22 @@
+DECISÃO
+1. Cuida-se de agravo interposto por BANCO BRADESCO S.A. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS, assim ementado:
+APELAÇÕES CÍVEIS EM AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. LEGITIMIDADE DO BANCO PARA FIGURAR COMO LITISCONSORTE NECESSÁRIO. RESTITUIÇÃO INTEGRAL DEVIDA.ENTREGA APELOS RESCISÃO PROVOCADA PELA DEMORA NA DO IMÓVEL. JUROS E CORREÇÃO MANTIDOS.CONHECIDOS E DESPROVIDOS.
+1.Nos termos do contrato (fls. 39), o crédito das parcelas devidas após a entrega das chaves foi cedido aoBanco Bradesco S/A, logo, sendo atingido juridicamente pela rescisão daquele negócio jurídico, ressai imperiosa sua participação no processo.
+2. O ressarcimento deve ser integral, nos moldes do enunciado n. 543 da Súmula do STJ, porque para o atraso que esvaziou o interessa da consumidora no negócio jurídico ela não contribuiu, nem a ele deu causa.
+3. Também desmerece endosso a pretensão recursal de redução do percentual contratual de retenção para, no mínimo, 25% (vinte ecinco por cento) dos valores pagos, baseado no art. 67-A, da Lei n. 13.786/15, visto que tal dispositivo, expressamente, tem incidência restrita aos casos de distrato ou de resolução por inadimplemento do devedor, ou seja, situações estranhas às apuradas no presente feito.
+4. Juros desde o desembolso das parcelas e atualização desde a citação. Embora a jurisprudência admita que ambos encargos tenham por termo inicial a data dospagamentosoperados peloconsumidor, se contentado com os marcos fixados na sentença, descabe reformá-los.
+5. O uso do trânsito em julgado como marco da mora, pretendido pela incorporadora, desmerece endosso, posto recusado pela jurisprudência.
+6. O percentual de juros fixado na sentença encontra amparo no contrato, não havendo margem para aplicação, destarte, na SELIC.
+7. Recursos conhecidos e não providos.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 337, inciso XI, 338 e 485, inciso IV, do CPC de 2015, defendendo sua ilegitimidade para figurar no polo passivo.
+É o relatório.DECIDO.
+2. As matérias referentes aos artigos 338 e 485, inciso IV, do CPC de 2015 não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 282/STF).
+Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. No mais, com base no conjunto fático-probatório presente nos autos, o Tribunal de origem reconheceu a legitimidade passiva do banco agravante, nos seguintes termos:
+O primeiro recurso desmerece endosso, pois, conforme bem anotado pelo togado de piso às fls. 153 e 194, a condição do Banco Bradesco S/A de "interveniente anuente" no contrato de promessa de compra e venda (fls. 38/41) torna sua presença no processo em que se discute a rescisão do ajuste necessária, afinal, não há como resolver dito negócio jurídico entre a incorporadora e a consumidora sem afetar a relação com a instituição financeira.
+Ademais, releva notar que, nos termos do contrato (fls. 39), crédito das parcelas devidas após a entrega das chaves foi cedido ao Banco Bradesco S/A, logo, sendo atingido juridicamente pela rescisão daquele negócio jurídico, ressai imperiosa sua participação no processo.
+Nesse contexto, verifico que o acolhimento da pretensão recursal, a fim de acolher as alegações da parte agravante, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
