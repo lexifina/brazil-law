@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de LUCAS HENRIQUE PEREIRA DOS SANTOS contra decisão indeferitória de provimento urgente proferida pelo Desembargador Relator do HC n. 2130906-15.2021.8.26.0000, em trâmite no Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Paciente foi pronunciado como incurso no art. 121, § 2., incisos I e IV, do Código Penal.
+Designada a sessão plenária do Tribunal do Júri para 04/08/2021, a Defesa requereu ao Juízo de primeiro grau a liberação do Paciente do uso do uniforme utilizadono cárcere. O pedido foi indeferido (fls. 13-14).
+Irresignada, a Defesa impetrou préviohabeas corpusperante o Tribunal de origem, tendo sido indeferido o pedido liminar.
+Nestewrit, a Parte Impetrante alega que "a vestimenta de uniforme prisional traz sim más impressões aos juízes leigos, podendo ferir a imparcialidade dos julgadores" (fl. 5).
+Requer, liminarmente e no mérito, seja autorizado ao Réu que se apresente diante dos jurados com roupas civis.
+É o relatório.
+Decido.
+O entendimento firmado pelo Supremo Tribunal Federal e por este Superior Tribunal de Justiça é no sentido de não se admitirhabeas corpuscontra decisão denegatória de liminar proferida em outrowritna instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n. 691/STF ("não compete ao Supremo Tribunal Federal conhecer dehabeas corpusimpetrado contra decisão do Relator que, emhabeas corpusrequerido a tribunal superior, indefere a liminar"), aplicável,mutatis mutandis, a este Superior Tribunal de Justiça.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, deve preponderar a necessidade de se garantir a efetividade da prestação da tutela jurisdicional de urgência para que flagrante constrangimento ilegal ao direito de liberdade possa ser cessado-tarefa a ser desempenhada caso a caso.
+Todavia, esse atalho processual não pode ser ordinariamente usado, senão em situações em que se evidenciar decisão absolutamente teratológica e desprovida de qualquer razoabilidade, na medida em que força o pronunciamento adiantado da Instância Superior, subvertendo a regular ordem do processo, o que não se verifica na hipótese em apreço, especialmente porque, não obstante designada a sessão do Júri para o dia 04/08/2021,o writ originário já foi remetido ao Ministério Público estadual para manifestação, a indicar a breve apreciação meritória. Com efeito, atramitação regular da causa não justifica análise per saltum do Superior Tribunal de Justiça, porquanto há tempo hábil para o Tribunal estadual decidir antes da data designada para a submissão do Paciente ao Tribunal do Júri.
+Ressalto que o Juízo de primeiro grau consignou que "não foi demonstrada concretamente a razão de merecer tratamento diferenciado daquele dispensado a todos os acusados que se encontram na mesma situação, o que, somando à inexistência de prejuízo trazido por parte da defesa, não autoriza o deferimento do pedido" (fl. 13).
+Assim, por não se observar, ao menosprimo ictu oculi, nenhuma teratologia, não há como superar o óbice processual previsto na Súmula n. 691 do Supremo Tribunal Federal, cuja essência vem sendo reiteradamente ratificada por julgados do Pretório Excelso e deste Superior Tribunal de Justiça.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial, com recomendação de que sejam envidados esforços para julgamento do writ antes da data designada para realização do Júri.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS.PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO QUE INDEFERIU O PEDIDO LIMINAR EM OUTROHABEAS CORPUSNA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
