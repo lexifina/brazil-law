@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de GABRIEL HENRIQUE GARBIN contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina na Apelação Criminal n. 5003971-07.2020.8.24.0019.
+Consta dos autos que o Paciente foi condenado às penas de "3 (três) anos, 2 (dois) meses e 3 (três) dias de reclusão, em regime inicial fechado, e ao pagamento de 26 (vinte e seis) dias-multa .. , ao cumprimento de pena privativa de liberdade de 8 (oito) meses e 5 (cinco) dias de detenção, em regime inicial semiaberto, por infração aos art. 155, caput e art. 155, 155, § 4º, III, na forma do art. 71, todos do Código Penal em concurso material com o art. 163, III, do Código Penal" (fl. 431).
+A Defesa interpôs recurso de apelação, que foi parcialmente provido, para "ajustar a pena do apelante Gabriel Henrique Garbin para 2 (dois) anos, 8 (oito) meses e 20 (vinte) dias de reclusão e 12 (doze) dias-multa em relação ao crime de furto, e 7 (sete) meses de detenção e 11 (onze) dias-multa em relação ao crime de dano, a ser cumprida inicialmente em regime semiaberto" (fl. 542).
+Foram opostos embargos de declaração pela Defesa, os quais não foram conhecidos(fls. 564-570).
+Nestewrit, a Impetrante sustenta a atipicidade da conduta do Paciente quanto ao crime de dano, pois a sua intenção não era a de causa prejuízo, mas de se evadir do estabelecimento prisional.
+Alega, ainda, que não deve incidir na espécie a agravante do estado de calamidade pública, pois não ficou demonstrado que o Paciente aproveitou-se da situação de calamidade para o cometimento do delito.
+Requer, liminarmente e no mérito, a absolvição do Paciente quanto ao crime de dano qualificado e o afastamento da agravante da prática do crime durante calamidade.
+É o relatório. Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+No mesmo sentido, ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL.CONCESSÃO DA ORDEM SEM OPORTUNIDADE DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO FEDERAL. INOCORRÊNCIA DE NULIDADE PROCESSUAL.HOMENAGEM AO PRINCÍPIO DA CELERIDADE E À GARANTIA DA EFETIVIDADE DAS DECISÕES JUDICIAIS. PROGRESSÃO DE REGIME. CÁLCULO DE PENAS.REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO. PACOTE ANTICRIME.OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO ART.112, V, DA LEP. AGRAVO REGIMENTAL DESPROVIDO.
+1. Malgrado seja necessário, em regra, abrir prazo para a manifestação do Parquet antes do julgamento do writ, as disposições estabelecidas no art. 64, III, e 202, do Regimento Interno desta Corte, e no art. 1º do Decreto-lei n. 522/1969, não afastam do relator o poder de decidir monocraticamente o habeas corpus.
+2. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta"(AgRg no HC 530.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+3. Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Precedentes.
+ ..
+6. Agravo regimental não provido."(AgRg no HC 656.843/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021; sem grifo no original.)
+Portanto, passo a analisar diretamente o mérito da impetração.
+Quanto à tese de atipicidade da conduta quanto ao crime da dano, em razão da suposta inexistência de dolo de causar o prejuízo, observo que a questão suscitada não foi apreciada pelo Tribunal a quo, de modo que não pode ser conhecida originariamente por esteSuperior Tribunal de Justiça, sob pena de supressão de instância.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. MODUS OPERANDI E PERICULOSIDADE DO AGENTE. AUSÊNCIA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. A alegada ausência de contemporaneidade não foi apreciada pelo Tribunal de origem, de modo que o debate diretamente por esta Corte superior incorreria em indevida supressão de instância, inexistindo, desse modo, omissão a ser sanada.
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento." (EDcl no HC 542.121/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020; sem grifos no original.)
+No que se refere à agravantea agravante prevista no art.61, inciso II, alíneaj, do Código Penal, o Juízo sentenciante reconheceu sua incidência nos seguintes termos (fl. 427):
+" .. Ademais, plenamente cabível a majorante disposta no art. 61, II, "J", do CP, porquanto o delito se deu durante o cenário de calamidade pública decorrente do enfrentamento do novo coronavírus (COVID-19), sendo fato público e notório em todo o mundo, motivo pelo qual, inclusive, foi editado o Decreto Legislativo n. 6 de março de 2020 declarando o estado de calamidade no país.
+A propósito, frise-se que à época dos fatos, vigia o Decreto Estadual n. 562, de 17 de abril de 2020, que assim dispunha: "Art. 1º Fica declarado estado d e calamidade pública em todo o território catarinense, para fins de enfrentamento à epidemia da COVID-19, pelo prazo de 180 (cento e oitenta) dias".
+Portanto, aplico a fração majorante de 1/6 a pena-base, fixando-a em 1 (um) ano, 4 (quatro) meses e 10 (dez) dias de reclusão e 12 (doze) dias-multa."
+O Tribunal de origem manteve a agravante, consignando o que segue (fl. 536):
+"Nesse contexto, o art. 61 do Código Penal disciplina: "São circunstâncias que sempre agravam a pena, quando não constituem ou qualificam o crime:  ..  j) em ocasião de incêndio, naufrágio, inundação ou qualquer calamidade pública, ou de desgraça particular do ofendido". grifei De fato, constata-se que os crimes apurados foram cometidos durante o período de calamidade pública notoriamente divulgado pela mídia nacional, de modo que a conduta do apelante merece maior grau de reprovabilidade, tal como previsto no artigo supracitado.
+Na época dos fatos, foi publicado em âmbito nacional o Decreto Legislativo n.6 de 2020, o qual reconheceu a ocorrência do estado de calamidade pública.
+Ainda, encontrava-se vigente o Decreto Estadual n. 562 de 17/04/2020, no qual o Governador do Estado de Santa Catarina declarou estado de calamidade pública em todo o território catarinense, nos termos do COBRADE nº 1.5.1.1.0 - doenças infecciosas virais, para fins de enfrentamento à COVID-19.
+Consoante artigo 1º, o estado de calamidade pública foi declarado pelo prazo de 180 (cento e oitenta) dias a partir da data mencionada.
+Por estas razões, deve ser mantida a agravante prevista no art. 61, alínea "j" do Código Penal."
+Ocorre, porém, quea jurisprudência desta Corte Superior orienta no sentido de que a incidência da agravante da calamidade pública exige a demonstração de que o Réu, de algum modo, prevaleceu-se desta situação fática para a prática do crime. Desse modo, não é suficiente a mera referência genérica à existência de uma calamidade pública contemporânea aos fatos, sendo imprescindível a demonstração de que esta foi empregada para possibilitar ou facilitar o delito.
+Nesse sentido:
+"AGRAVO REGIMENTAL NOHABEAS CORPUS.IRRESIGNAÇÃO MINISTERIAL. ROUBO SIMPLES. AGRAVANTE DO CRIME PRATICADO EM ESTADO DE CALAMIDADE PÚBLICA. NÃO DEMONSTRAÇÃO DE QUE O AGENTE SE PREVALECEU DESSA CIRCUNSTÂNCIA PARA A PRÁTICA DO DELITO. AGRAVANTE AFASTADA, COM A CONSEQUENTE REDUÇÃO DA PENA E ABRANDAMENTO DO REGIME INICIAL.DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A incidência da agravante da calamidade pública pressupõe a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática delitiva (HC 625.645/SP, Rel.Ministro FELIX FISCHER, DJe 04/12/2020). No mesmo sentido, dentre outros: HC 632.019/SP, Rel. Ministro FELIX FISCHER, DJe 10/2/2021;HC 629/981/SP, Rel. Ministro JOEL ILAN PACIORNIK, DJe 9/2/2021; HC 620.531/SP, Ministro SEBASTIÃO REIS JÚNIOR, DJe 3/2/2021.
+2. Hipótese em que a agravante prevista no art. 61, inciso II, alínea j, do Código Penal foi aplicada apenas pelo fato de o delito ter sido praticado na vigência do Decreto Estadual nº 64.879 e do Decreto Legislativo nº 06/2020, ambos de 20.03.2020, que reconhecem estado de calamidade pública no Estado de São Paulo em razão da pandemia da COVID-19, sem a demonstração de que o agente se aproveitou do estado de calamidade pública para praticar o crime em exame, o que ensejou o respectivo afastamento, com o redimensionamento da pena e o abrandamento do regime inicial.
+3. Agravo regimental não provido."(AgRg no HC 655.339/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/04/2021, DJe 19/04/2021, sem grifos no original).
+Assim, por não haver sido demonstrado, pelas instâncias ordinárias, a existência de vínculo entre a calamidade pública invocada e a prática do delito, deve ser afastada a incidência da agravante prevista no art. 61, inciso II, alíneaj, do Código Penal.
+Portanto, passo a refazer a dosimetria da pena.
+Do crime de furto simples:
+Na primeira fase, a pena-base foi fixada no mínimo legal, de 1 (um) ano de reclusão e 10 (dez) dias-multa.
+Na segunda fase,deve ser afastada a agravante da calamidade pública, mantendo-se a compensação entre a agravante da reincidência e a atenuante da confissão espontânea. Desse modo, a pena intermediária permanece em1 (um) ano de reclusão e 10 (dez) dias-multa.
+Na terceira fase, não há causas de aumento ou de diminuição.
+Do crime de furto qualificado:
+Na primeira fase, a pena-base foi fixada no mínimo legal, de 2 (dois) anos de reclusão e 10 (dez) dias-multa.
+Na segunda fase, deve ser afastada a agravante da calamidade pública, mantendo-se a compensação entre a agravante da reincidência e a atenuante da confissão espontânea. Desse modo, a pena intermediária permanece em 2 (dois) anos de reclusão e 10 (dez) dias-multa.
+Na terceira fase, não há causas de aumento ou de diminuição.
+Em razão da continuidade delitiva entre os crimes de furto simples e furto qualificado, a pena deve ser aumentada em 1/6, perfazendo 2 (dois) anos e 4 (quatro) meses de reclusão e 11 (onze) dias-multa.
+Do crime de dano qualificado:
+Na primeira fase, a pena-base foi fixada no mínimo legal, de 6 (seis) meses de detenção e 10 (dez) dias-multa.
+Na segunda fase, deve ser afastada a agravante da calamidade pública, mantendo-se a compensação entre a agravante da reincidência e a atenuante da confissão espontânea. Desse modo, a pena intermediária permanece em 6 (seis) meses de detenção e 10 (dez) dias-multa.
+Na terceira fase, não há causas de aumento ou de diminuição.
+Considerando oquantumda pena imposta e a reincidência, mantém-se oregime inicial semiaberto.
+Ante o exposto, CONHEÇO EM PARTE do writ e, nessa extensão, CONCEDO a ordem dehabeas corpuspara afastar a incidência da agravante prevista no art. 61, inciso II, alíneaj, do Código Penal e, por consequência, reduzir as penas impostas, nos termos desta decisão.
+Comunique-se ao Juízo de origem.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. FURTO SIMPLES, FURTO QUALIFICADO E DANO QUALIFICADO. ALEGAÇÃO DE ATIPICIDADE QUANTO AO CRIME DE DANO. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.AGRAVANTE DO ESTADO DE CALAMIDADE PÚBLICA. AUSÊNCIA DE FUNDAMENTAÇÃO ESPECÍFICA. ILEGALIDADE. ORDEM DEHABEAS CORPUSPARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, CONCEDIDA.
