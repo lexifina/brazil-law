@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RONNY EVERTHYFERREIRA BORGEScontra acórdão do Tribunal de Justiça do Estado de Goiásproferido no HC n.5229933-88.2021.8.09.0000.
+Extrai-se do acórdão atacadoque oPaciente foi preso preventivamente no dia 20/04/2021 e denunciado pela suposta prática dos seguintes delitos (fl. 1.155-1.156):
+" ..  artigo 121, § 2º, incisos I e IV, combinado com artigo 29, ambos do Código Penal, em relação às vítimas Julia Martins Rodrigues de Paiva e Warley Christofer Machado da Cruz, e artigo 121, § 2º, incisos I e IV, combinado com o artigo 14, inciso II, do Código Penal, no tocante às vítimas Fabiano Rodrigues, Nathaly Noriely Teixeira Costa e Luiz Martins de Paiva .. .Ao que consta, os crimes teriam sido praticados pelos denunciados Lucas Ribeiro de Moura, Cleiton Ferreira de Souza, vulgo "Cirilo"ou "Neguim"e Matheus Henrique Vaz Lopes, vulgo "BA", acompanhados do menor Thyago Dayan da Silva Lima, vulgo "Loirinho", todos, em conluio eunidade de desígnios, agindo a mando do ora paciente" .
+Em 04/05/2021, foi indeferido o pedido de revogação da custódia (fls. 1.121-1.125).
+Impetrado préviowritna origem, a Corte local denegou a ordem (fls. 1.154-1.160).
+Nestehabeas corpus, a Defesa alega: a)a negativa de autoria; b) aausência dos requisitos e de fundamentação idônea para a prisão preventiva; c)a existência de condições pessoais favoráveis ao Paciente; d)a suficiência dasmedidas cautelares alternativas; e)excesso de prazo para a formação da culpa; f) a necessidade de observância à situação de pandemia decorrente da Covid-19; e g) que o Paciente faz jus à prisão domiciliar, nos termos do art. 318 do Código de Processo Penal, por ter filho menor de 12 (doze) anos de idade.
+Requer, liminarmente e no mérito,a revogação da prisão preventiva, ainda que mediante a imposição de medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+Verifico não ser possível analisar a viabilidade do pleito deduzido, diante da instrução deficitária dowrit, visto que a Defesa não acostou aos autosa cópia da decisão que decretou a prisão preventivado Paciente, mas, tão somente, da decisão que indeferiu pedido de revogação da custódia.
+Como se sabe,compete à Defesanarrareinstruircompleta e adequadamente ohabeas corpus(ou seu respectivo recurso). No caso, como a Defesa não se desincumbiu do ônus de formar adequadamente os autos, olvidando-se de que ohabeas corpuspressupõe prova pré-constituída do direito alegado, não há como apreciar o mérito dowrit.
+A propósito:" .. a adequada instrução dohabeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que omandamusvenha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas nowrit" (STF, HC 16.6543-AgR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 29/04/2019, DJe 07/05/2019).
+No mesmo sentido: " é pacífico o entendimento desta Corte Superior no sentido de que ohabeas corpus, porquantovinculado à demonstração de plano de ilegalidade, não se presta à dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído. Precedentes" (AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgadoem 18/08/2020, DJe 26/08/2020).
+Ante o exposto, com base nos arts. 34, inciso XVIII, e 210, ambos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL.INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOESSENCIALÀ ANÁLISE DA CONTROVÉRSIA. PETIÇÃOINICIAL LIMINARMENTE INDEFERIDA.
