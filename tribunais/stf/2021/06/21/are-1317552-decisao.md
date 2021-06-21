@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 6, p. 16):
+    “Ementa: Agravo de instrumento. Cumprimento de sentença. Desapropriação. Juros compensatórios de 12% fixados no título executivo. Superveniente julgamento da ADIN nº 2.332/DF. Impossibilidade de aplicação dos juros compensatórios de 6% nos termos do art. 15-B do Decreto-lei nº 3.365/41. Precedência axiológica e cronológica da garantia individual da coisa julgada. Tema nº 733 da repercussão geral do STF. Decisão mantida. Recurso improvido.”
+    Os embargos de declaração foram rejeitados (eDOC 7, p. 11).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos artigos 5º, XXIV; e 37, caput, da Constituição da República. Nas razões recursais, sustenta-se que (eDOC 9, p. 3):
+    “Ao aplicar os juros compensatórios de 12% ao ano, a decisão vergastada vai contra a decisão prolatada pela Corte Suprema e contra a Constituição Federal, na medida que a Súmula 618 foi revogada e que hodiernamente os 6% ao ano remunera adequadamente e se coaduna com o princípio da justa indenização.”
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso extraordinário em virtude de incidir na hipótese a Súmula 636 do STF (eDOC 11, p. 6-7).
+    É o relatório. Decido.
+    Verifica-se que o Tribunal de origem, quando do julgamento do agravo de instrumento, assim asseverou (eDOC 6, p. 17-18):
+    “A decisão judicial em cumprimento determinou expressamente o cômputo de juros moratórios à taxa de 12% ao ano.
+    Há precedência axiológica e cronológica da garantia individual da coisa julgada sobre os efeitos da decisão proferida em controle de constitucionalidade.
+    Neste sentido é a doutrina de Gilmar Ferreira Mendes (Controle de Constitucionalidade, Editora Saraiva, 1990, pág. 280).
+    Em sede definitiva de repercussão geral, ao apreciar o RE nº 730.462, o C. STF fixou no Tema nº 733 que:
+    A decisão do Supremo Tribunal Federal declarando a constitucionalidade ou a inconstitucionalidade de preceito normativo não produz a automática reforma ou rescisão das decisões anteriores que tenham adotado entendimento diferente. Para que tal ocorra, será indispensável a interposição de recurso próprio ou, se for o caso, a propositura de ação rescisória própria, nos termos do art. 485 do CPC, observado o respectivo prazo decadencial (art. 495).
+    Logo, não há fundamento para o acolhimento da pretensão recursal de ver calculado o crédito mediante a aplicação da taxa anual de 6% com base no art. 15-B do Decreto-lei nº 3.365/41 na redação dada pela MP nº 2.183-56, e conforme o que foi decidido na ADIN nº 2.332/DF.”
+    Assim, conforme os fundamentos que constam no acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo, demandaria o exame da legislação aplicável à espécie (Medidas Provisórias 2.183-56 e 1.997-34; e Decreto-Lei 3.365/41) e o reexame de fatos e provas. Dessa forma, constata-se a inexistência de ofensa direta à Constituição e a incidência ao caso da Súmula 279 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PRECATÓRIO. JUROS DE MORA. INCIDÊNCIA DURANTE O PRAZO PREVISTO NA CONSTITUIÇÃO PARA SEU PAGAMENTO. LIMITES DA COISA JULGADA. MATÉRIA INFRACONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO.” (RE 621.637-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 14.10.2015).
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. JUROS COMPENSATÓRIOS. TAXA. 12% AO ANO. SÚMULA 618 DO STF E ADI 2.332-MC/DF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – Impossibilidade de revisão do acervo fático-probatório para dissentir da conclusão do acórdão recorrido sobre a justa indenização do imóvel desapropriado. Incidência da Súmula 279 do STF. II – O Supremo Tribunal Federal possui entendimento firmado no sentido de que na desapropriação, direta ou indireta, a taxa dos juros compensatórios é de 12% ao ano, nos termos da Súmula 618 desta Corte e da ADI 2.332-MC/DF. III – Agravo regimental a que se nega provimento.” (ARE 731.980-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 25.3.2014).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC e art. 21, §1º, RISTF.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 21 de junho de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
