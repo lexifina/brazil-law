@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Manoel Erhardt (Desembargador convocado do TRF-5ª Região).
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC/2015. RAZÕES GENÉRICAS. SÚMULA 284/STF. NÃO FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA PELA CORTE DE ORIGEM. HONORÁRIOS RECURSAIS. NÃO CABIMENTO.
+1. A alegação genérica de violação do art. 1.022 do CPC/2015, sem demonstração de qual questão de direito não foi abordada ou estaria deficientemente fundamentada no acórdão proferido em sede de embargos de declaração e sua efetiva relevância para fins de novo julgamento pela Corte de origem é situação que não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+2. Incabível a fixação de honorários recursais se não houve condenação anterior em honorários advocatícios nas instâncias ordinárias.
+3. Agravo interno parcialmente provido, para excluir a condenação da agravante em honorários recursais.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão que não conheceu alegação de violação do artigo 1.022 do CPC/2015, por força do óbice da Súmula 284/STF, e, quanto à violação do art. 185 do CTN, aplicou a Súmula 7/STJ.
+Em suas razões, afirma a recorrente, inicialmente, que sua irresignação vai direcionada apenas contra a parte da decisão agravada que aplicou a Súmula 284/STF, deixando de recorrer quanto à tese de violação ao art. 185 do CTN, pela qual a recorrente pugnou pela reforma do acórdão e sobre a qual a decisão monocrática aplicou o óbice da Súmula 7/STJ.
+Para tanto, sustenta que "efetivamente demonstrou que o acórdão recorrido é nulo em razão de não ter analisado as omissões apontadas em sede de embargos de declaração, deixando, por conseguinte, de apreciar ponto essencial para a solução da controvérsia, tanto assim que, em razão do improvimento dos embargos de declaração, o mérito do recurso especial foi improvido ante a aplicabilidade do julgamento do REsp 1.141.990/PR, que se aplica apenas aos casos de execução fiscal, o que, conforme apontado, não é o caso dos autos" (fl. 370). Entende, assim, que isso afasta a incidência da Súmula 284/STF.
+Afirma, por fim, que ao fixar os honorários recursais a decisão agravada fundamentou-se na premissa equivocada de que foram fixados honorários advocatícios na instância de origem. A sentença não fixou condenação em honorários advocatícios e o Tribunal de origem negou provimento à apelação e à remessa oficial, mantendo-se a sentença na íntegra.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC/2015. RAZÕES GENÉRICAS. SÚMULA 284/STF. NÃO FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA PELA CORTE DE ORIGEM. HONORÁRIOS RECURSAIS. NÃO CABIMENTO.
+1. A alegação genérica de violação do art. 1.022 do CPC/2015, sem demonstração de qual questão de direito não foi abordada ou estaria deficientemente fundamentada no acórdão proferido em sede de embargos de declaração e sua efetiva relevância para fins de novo julgamento pela Corte de origem é situação que não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+2. Incabível a fixação de honorários recursais se não houve condenação anterior em honorários advocatícios nas instâncias ordinárias.
+3. Agravo interno parcialmente provido, para excluir a condenação da agravante em honorários recursais.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Observa-se que o presente recurso merece prosperar em parte.
+A princípio, conforme jurisprudência da Primeira Turma desta Corte, "admite-se o agravo interno parcial somente quando a parte recorrente informa que sua irresignação vai direcionada apenas contra específica parcela da decisão agravada, abrindo mão, expressamente, de impugnar o restante do julgado"(AgInt no AgInt no REsp 1753805/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 28/04/2020, DJe 04/05/2020).
+Observa-se, no caso, que a recorrente manifestou, expressamente, concordância com a aplicação da Súmula 7/STJ, razão por que é de ser conhecido o recurso.
+No que diz com a alegação de violação do art. 1.022 do CPC/2015, a recorrente deixa de demonstrar qual questão de direito não foi abordada ou estaria deficientemente fundamentada no acórdão proferido e qual sua efetiva relevância para fins de novo julgamento pela Corte de origem. Assevera apenas ter oposto embargos de declaração, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o julgamento do feito.
+A propósito, confira-se o seguinte excerto das razões recursais (fls. ):
+Nesse sentido, vale ressaltar, que, em face acórdão de fls.256/267, a UNIÃO opôs embargos declaratórios, tendo em vista a ocorrência de omissão do douto decisum quanto à manifestação acerca de matéria legal cujo enfrentamento era essencial ao manejo de recursos extremos.
+Assim, ao opor os embargos declaratórios, a UNIÃO buscou sanar erro material e prequestionar a matéria federal não enfrentada no decisum embargado, porquanto detentora do direito legal e constitucional de ver decididas tais questões levantadas.
+Não obstante, o TRF-5ª Região rejeitou os embargos declaratórios manejados pela UNIÃO, contrariando o art. 1.022 do Código de Processo Civil vigente, incorrendo, assim, em negativa de prestação jurisdicional.
+Desse modo, cumpre registrar que o acórdão de fls. 272/277 é nulo de pleno direito, na medida em que rejeitou os embargos declaratórios pertinentemente opostos pela UNIÃO.
+Assim; requer-se o pronunciamento, por parte desse MM. Tribunal ad quem, da nulidade de que padece o acórdão recorrido.
+Essa situação, como se vê, não permite a exata compreensão da controvérsia. Assim, inviável o conhecimento do recurso no ponto, razão por que incide a Súmula 284/STF.
+Lado outro, no concernente aos honorários recursais, de fato descabida sua fixação no caso concreto. É que a sentença, que foi confirmada pelo TRF5, ao julgar a controvérsia realmente não fixou honorários de sucumbência.
+Nesse diapasão, a jurisprudência do STJ se firmou no sentido de que a fixação dos honorários recursais não tem existência autônoma, estando sua fixação condicionada à imposição anterior de verba honorária pelas instâncias ordinárias, pois representam apenas um acréscimo ao que tiver sido estabelecido pelas instâncias julgadoras precedentes.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PREMISSA EQUIVOCADA. CABIMENTO. ATRIBUIÇÃO DE EFEITOS INFRINGENTES. 1. Na esteira da jurisprudência do STJ, cabem Embargos de Declaração para os fins ordinários (correção dos vícios de omissão, obscuridade ou contradição) e, em caráter excepcional, para adequar o julgamento à orientação firmada no julgamento de recursos repetitivos ou superação de premissa equivocada (esta última a situação do caso concreto).
+2. Hipótese em que o acórdão embargado acolheu os Embargos de Declaração da União para determinar a aplicabilidade do § 11 do art. 85 do CPC/2015 e majorar "em 5% os honorários advocatícios (fixados pela instância de origem em R$ 800,00 (oitocentos reias) (fl 689, e-STJ), considerando que a atuação recursal da embargante consistiu unicamente na apresentação de contrarrazões".
+3. De fato, o art. 85, § 11, do CPC/2015, ao prescrever que "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal", estabeleceu uma condição para que ocorra a condenação em honorários recursais, que é justamente a condenação prévia pela instância inferior em honorários sucumbenciais.
+4. In casu, ao julgar o Agravo de Instrumento interposto pela União, o Tribunal de origem não fixou honorários sucumbenciais, não sendo cabível, portanto, tal majoração.
+5. Embargos de Declaração acolhidos, com efeitos modificativos, para reconhecer a inaplicabilidade do art. 85, § 11, do CPC/2015 à hipótese em exame.
+(EDcl nos EDcl no REsp 1.644.080/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/12/2017, DJe 19/12/2017)
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA ENTRE O RESULTADO DO JULGAMENTO E O INTEIRO TEOR. CONTRADIÇÃO CONFIGURADA. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS EM SEDE RECURSAL.
+ART. 85, §§ 1º E 11, DO CPC.  ..  ..  3. A majoração de honorários em sede recursal, prevista no parágrafo 11 do art.
+85 do CPC de 2015, reclama como requisito que a verba honorária sucumbencial seja devida no processo no qual foi interposto o recurso especial. Precedente da Terceira Turma deste Tribunal Superior.
+4. "Os honorários recursais não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo (o CPC/2015 fala em "majoração") ao ônus estabelecido previamente, motivo por que na hipótese de descabimento ou na de ausência de fixação anterior, não haverá falar em honorários recursais. Assim, não são cabíveis honorários recursais na hipótese de recurso que reconhece "error in procedendo" e que anula a sentença, uma vez que essa providência torna sem efeito também o capítulo decisório referente aos honorários sucumbenciais e estes, por seu turno, constituem pressuposto para a fixação ("majoração") do ônus em grau recursal. Exegese do art.
+85, § 11, do CPC/2015" (AREsp 1.050.334/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/3/2017, DJe de 3/4/2017).
+ ..  (EDcl no AgInt no AREsp 1.098.460/AC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/12/2017, DJe 18/12/2017) Inviável, pois, a pretensão da União, visto a ausência de condenação anterior em honorários sucumbenciais nas instâncias ordinárias.
+Ante o exposto, dou parcial provimento ao agravo interno, apenas para excluir a condenação da agravante em honorários recursais.
+É como voto.
