@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial manejado por Global Informática Ltda-ME com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado (fl. 211):
+Apelação. Execução fiscal. Indeferimento de gratuidade da justiça. Natureza. Decisão interlocutória. Recurso. Agravo de instrumento. Princípio da fungibilidade. Inaplicabilidade. Recurso não conhecido.
+Segundo a jurisprudência do Superior Tribunal de Justiça a regra para se apurar o cabimento do recurso é o conteúdo da decisão, qual seja, a extinção ou não da relação processual. In casu, o juiz indeferiu a gratuidade da justiça e determinou conclusão dos autos para sentença - decisão nitidamente de cunho interlocutório que desafia recurso de agravo de instrumento (CPC, 1.015, V) e não apelação como o fez o recorrente. Inexistindo dúvida objetiva acerca do recurso cabível, inaplicável o princípio da fungibilidade. Erro grosseiro configurado. Recurso não conhecido.
+Opostos embargos declaratórios, foram rejeitados (fls. 240/246).
+A parte recorrente aponta violação ao art. 277 do CPC. Sustenta, em resumo, que, "apesar da utilização da via inadequada e da determinação expressa do art. 1.015, V do CPC, a finalidade do ato teria sido alcançada se houvesse sido conhecido o recurso de apelação como agravo de instrumento ante o princípio da fungibilidade, pois de qualquer forma ambos os recursos tem a finalidade de atacar decisão com a qual não se concorda e pretende ver reformada", e que, "tendo sido alcançada a finalidade do ato de modo diverso do prescrito pelo lei, será considerado válido" (fl. 267).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A matéria pertinente ao art. 277 do CPC não foi apreciada pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 356/STF.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
