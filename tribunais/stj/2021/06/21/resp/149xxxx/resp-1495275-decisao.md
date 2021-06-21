@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial manejado por Cleria Bitencorte Melles e Outros, com fundamento no art. 105, III, a, da CF, contraacórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado(fl. 749):
+ADMINISTRATIVO. PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA.HONORÁRIOS ADVOCATÍCIOS. CUMULAÇÃO. VERBA SUCUMBENCIAL. DISPOSITIVO DECISÃO INICIAL. RETIFICAÇÃO.
+1. Pacificou-se a jurisprudência do STJ no sentido da viabilidade da cumulação dos honorários advocatícios fixados na ação de execução com aqueles arbitrados nos respectivos embargos do devedor.
+2. Com efeito, tratando-se de ações distintas e autônomas, os honorários fixados nos embargos à execução não substituem os arbitrados em sede de execução, contudo, 3. A cumulação de honorários, contudo, somente ocorre se houver, também cumulativamente, a procedência da execução e improcedência dos embargos, considerando-se, ainda, que a depender do desfecho dos embargos, haverá reflexo na verba devida na execução.
+4. Ao executar honorários advocatícios sucumbenciais, o advogado exerce direito próprio, de modo que não há relação de causalidade a ensejar novo arbitramento da verba, independentemente da oposição de embargos, devendo, destarte, ser excluído da base de cálculo dos honorários fixados na execução, o valor referente aos honorários advocatícios do processo de conhecimento.
+5. Esclarecido que o dispositivo da decisão inicial é pelo parcial provimento e não, como constou, pela negativa de seguimento.
+Opostos embargos declaratórios, foram parcialmente acolhidos (fls. 778)
+Em suas razões, indica, preliminaremente, ofensa ao artigos 458 e535 do CPC/73, alegando que o Tribunal de origem, mesmo provocado em sede de embargos declaratórios, foi omisso quanto ao exame de questões relevantes para o correto deslinde da controvérsia.
+Quanto ao mérito, aponta violação ao art. 20,§ 3º e 4º do CPC/73, sustentando, em sítnese, que "é cabível, no caso em comento, a fixação de honorários advocatícios na execução, INDEPENDENTEMENTE DO CRÉDITO SER PROVENIENTE DE HONORÁRIOS SUCUMBENCIAIS, eis que o montante executado não ultrapassa o valor a ser pago mediante RPV." (fl. 802)
+Aduz, ainda, que "a verba colacionada na ação de conhecimento e aquela fixada no feito executório não caracterizam bis in idem como entendeu o acórdão regional, pois oriundas de processos distintos" (fl. 803)
+Por meio da decisão de fls. 842/843, determinou-se o sobrestamento e a devolução dos autos à origem em razão da afetação do Recurso Especial Repetitivo nº 1.520.710/SC,
+Devolvidos os autos à origem, a Corte Regioanl, em juízo de retratação, adequou o acórdão recorrido ao quanto decidido pelo STJ no tema repetitivo número 587 (fls. 892/900)
+Nada obstante, a Presidência do Tribunal de origem admitiu o recurso especial em razão da existência de questões remanescentes ventiladas no apelo especial (fl. 961)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Como antes relatado, em relação à possibilidade de cumulação da verba honorária fixada nos embargos à execução com a arbitrada na própria execução, o Tribunal de origem execeru o juízo de rtratação para adequar o acórdão recorrido ao que restou decidido no Tema 587/STJ, ficando, quanto ao ponto, prejudicado o apeloespecial.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto ao mais, melhor sorte assiste à parte recorrente.
+Com efeito, observas-se que o acórdão recorrido foi proferido em dissonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qual é cabível o arbitramento de honorários na execução de sentença, ainda que o crédito exequendo se refira aos honorários advocatícios fixados na fase de conhecimento, sem que isso implique bis in idem, por se tratarem de etapas processuais distintas.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. HONORÁRIOS ADVOCATÍCIOS.EXECUÇÃO DE SENTENÇA. SÚMULA 568/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual é cabível o arbitramento de honorários na execução de sentença, ainda que o crédito exequendo se refira aos honorários advocatícios fixados na fase de conhecimento, sem que isso implique bis in idem, por se tratarem de etapas processuais distintas.
+III - O relator poderá, monocraticamente, dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema, a teor da Súmula n. 568/STJ.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Honorários recursais. Não cabimento. VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp 1666948/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 14/08/2018, DJe 20/08/2018)
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. EMBARGOS À EXECUÇÃO. HONORÁRIOS SOBRE HONORÁRIOS. FASES DIVERSAS. CABIMENTO.
+1. A tese recursal refere-se à possibilidade de os honorários fixados na execução incindirem sobre os honorários de sucumbência fixados na ação de conhecimento.
+2. O Tribunal de origem, ao dirimir a controvérsia, afastou os honorários advocatícios oriundos da fase de conhecimento do cálculo dos honorários da execução. Verifica-se, portanto, que o acórdão recorrido está em dissonância com o atual entendimento do Superior Tribunal de Justiça, quanto à possibilidade da fixação de honorários sobre honorários, sem que isso implique bis in idem, porquanto referente a fase diversa (execução).
+3. Recurso Especial provido.
+(REsp 1.659.466/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/05/2017, DJe 16/06/2017).
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL. JULGAMENTO DE MATÉRIA DIVERSA. EXECUÇÃO DE SENTENÇA. EMBARGOS À EXECUÇÃO. IMPULSO DO CREDOR. HONORÁRIOS SOBRE HONORÁRIOS. FASES DIVERSAS. CABIMENTO.
+1. Hipótese em que foi negado provimento ao recurso dos embargantes com base no entendimento jurisprudencial do STJ, de que é vedado o arbitramento de verba honorária em duplicidade dentro da mesma fase processual e em favor de advogado da mesma parte (exequente), uma vez que configuraria ofensa ao postulado do non bis in idem.
+2. Ocorre que a tese recursal dos embargantes refere-se à possibilidade de os honorários fixados na execução incindirem sobre o valor total executado, o que inclui os honorários de sucumbência fixados na ação de conhecimento.
+3. São cabíveis Embargos de Declaração nos casos de obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, para corrigir erro material, servia como instrumento para aperfeiçoar o julgado.
+4. Na hipótese dos autos, o Tribunal de origem, ao dirimir a controvérsia, afastou os honorários advocatícios oriundos da fase de conhecimento do cálculo dos honorários da execução. Verifica-se, no entanto, que o acórdão recorrido está em dissonância com o atual entendimento do Superior Tribunal de Justiça, quanto à possibilidade da fixação de honorários sobre honorários, sem que isso implique bis in idem, porquanto referente a fase diversa (execução).
+5. Embargos de Declaração acolhidos com efeitos infringentes"
+(STJ, EDcl nos EDcl no AgRg no REsp 1.461.262/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/09/2016).
+ANTE O EXPOSTO, dou provimento ao recurso especial, para que a verba honorária arbitrada incida sobre o valor total da execução, incluindo os honorários arbitrados na fase de conhecimento.
+Publique-se.
