@@ -1,0 +1,25 @@
+D E C I S Ã O
+    Trata-se de embargos de divergência opostos em face de acórdão proferido pela Segunda Turma desta Suprema Corte. A correspondente ementa está assim redigida:
+    “RECURSO EXTRAORDINÁRIO – NEGATIVA DE REGISTRO DO ATO DE ADMISSÃO DE PESSOAL PELO TRIBUNAL DE CONTAS – RESTRIÇÃO IMPOSTA À ESFERA JURÍDICA DE SERVIDOR PÚBLICO – INSTAURAÇÃO DE PROCEDIMENTO ADMINISTRATIVO – OBRIGATORIEDADE – NECESSÁRIA OBSERVÂNCIA DA CLÁUSULA DA AMPLA DEFESA E DO CONTRADITÓRIO – DECISÃO QUE SE AJUSTA À JURISPRUDÊNCIA PREVALECENTE NO SUPREMO TRIBUNAL FEDERAL – CONSEQUENTE INVIABILIDADE DO RECURSO QUE A IMPUGNA – SUBSISTÊNCIA DOS FUNDAMENTOS QUE DÃO SUPORTE À DECISÃO RECORRIDA – SUCUMBÊNCIA RECURSAL – MAJORAÇÃO DA VERBA HONORÁRIA – PRECEDENTE (PLENO) – NECESSÁRIA OBSERVÂNCIA DOS LIMITES ESTABELECIDOS NO ART. 85, §§ 2º E 3º DO CPC – AGRAVO INTERNO IMPROVIDO.”
+    Sustenta a embargante, em síntese, a divergência do julgado com o que decidido pela Primeira Turma do Supremo Tribunal Federal ao apreciar o ARE 870.169-AgR-segundo/RS, Ministro Luiz Fux, cuja ementa transcrevo abaixo:
+    “SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. AUDITORIA NA FUNDAÇÃO MUNICIPAL. IRREGULARIDADE NA NOMEAÇÃO. NEGATIVA DE REGISTRO PELO TRIBUNAL DE CONTAS DO ESTADO DO RIO GRANDE DO SUL. INOCORRÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA NO PROCESSO ADMINISTRATIVO LEVADO A EFEITO PELO MUNICÍPIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283 DO STF. VIABILIDADE OPERACIONAL DO ÓRGÃO DE CONTROLE. SÚMULA VINCULANTE 3. INAPLICABILIDADE AOS ATOS GENÉRICOS. AGRAVO REGIMENTAL DESPROVIDO.”
+    Requer “(...) sejam admitidos e acolhidos os presentes embargos de divergência, para que seja reformado o acórdão da colenda Segunda Turma do STF, dedicando-se à controvérsia solução consentânea com aquela dada pela colenda Primeira Turma ao paradigmático  ARE 870.169 AgR-segundo (STF, 1ª Turma. Rel. Min Luiz Fux, DJe 07/11/2018).”
+    É o relatório do essencial. Decido.
+    Reputo admissíveis os presentes embargos de divergência.
+    O Código de Processo Civil disciplina a oposição dos embargos de divergência por meio dos arts. 1.043, III e 1.044:
+    “Art. 1.043. É embargável o acórdão de órgão fracionário que:
+    III – em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia;
+    Art. 1.044. No recurso de embargos de divergência, será observado o procedimento estabelecido no regimento interno do respectivo tribunal superior.”
+    Os arts. 330 e 331 do RISTF, por sua vez, regulam os requisitos para cabimento dos embargos no âmbito do Supremo:
+    “Art. 330. Cabem embargos de divergência à decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do direito federal.
+    Art. 331. A divergência será comprovada mediante certidão, cópia autenticada ou pela citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que tiver sido publicada a decisão divergente, ou ainda pela reprodução de julgado disponível na internet, com indicação da respectiva fonte, mencionando, em qualquer caso, as circunstâncias que identifiquem ou assemelhem os casos confrontados.”
+    Ante tal parâmetro normativo, observo o cumprimento pela embargante do quanto preconizado na citada disciplina.
+    Demonstrou-se a efetiva divergência entre o contido no pronunciamento embargado e as razões de decidir existentes no paradigma. Isso porque, enquanto o primeiro consignou ‘haver necessidade de observância do contraditório e da ampla defesa em negativas de registro de admissão de pessoal pelo Tribunal de Contas do Estado’, o segundo entendeu que ‘na análise, genérica e impessoal, feita pelo Tribunal de Contas para concessão do registro de atos de admissão de pessoal em que constatada irregularidade na nomeação, a garantia constitucional resta observada quando o contraditório e a ampla defesa são diferidos para um segundo momento, em que o controle externo afeta a esfera jurídica individual’.
+    Anoto que a situação em exame no acórdão paradigma, inclusive, envolve idêntica controvérsia, onde o Tribunal de Contas do Estado do Rio Grande do Sul apontou irregularidades no tocante a algumas admissões de servidores públicos ocorridas no exercício de 2004, decorrentes da inexistência de cargo vago na data da admissão, para o quadro de pessoal da Fundação Hospital Centenário de São Leopoldo/RS.
+    Tal o contexto, o escopo uniformizador dos embargos em análise depõe em favor de sua admissibilidade.
+    Em face do exposto, com fundamento no § 3º do art. 335 do RISTF, admito os presentes embargos de divergência.
+    À Secretaria para a regular redistribuição.
+    Publique-se.
+    Brasília, 21 de junho de 2021.
+Ministro NUNES MARQUES
+Relator
