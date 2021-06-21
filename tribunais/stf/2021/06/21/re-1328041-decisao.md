@@ -1,0 +1,29 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (eDOC 1, p. 129):
+    “ADMINISTRATIVO, CONSTITUCIONAL E PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE AUTO DE INFRAÇÃO. TRANSPORTE IRREGULAR DE PASSAGEIROS. LEIS DISTRITAIS Nº 232/92 E Nº 953/95. COMPETÊNCIA LEGISLATIVA. UNIÃO. ARTIGO 22, XI, CF. SERVIÇO PÚBLICO DE INTERESSE LOCAL. VEÍCULO DE PASSEIO. FRAUDE NO SISTEMA DE TRANSPORTE PÚBLICO COLETIVO. NÃO CARACTERIZAÇÃO.
+    1. O Egrégio Conselho Especial deste Tribunal, ao examinar a Arguição de Inconstitucionalidade nº 2009.00.2.006922-7, declarou inconstitucional o artigo 28, da Lei nº 232/92, alterada pela Lei nº 953/95. 1.1. Assim, não é dado ao Distrito Federal legislar sobre matéria de trânsito e transporte, de competência privativa da União, nos termos do artigo 22, inciso XI, da Constituição Federal.
+    2. De toda forma, não há conduta caracterizadora de fraude à operacionalização de transporte público coletivo de passageiros, se o automóvel objeto da autuação é um veículo de passeio, visto que tal espécie de veículo não ostenta as características necessárias para dar ensejo à fraude nas operações de transporte coletivo, razão por que não tem aplicabilidade as disposições do artigo 28 da Lei Distrital nº 239/92, com a redação conferida pela Lei nº 953/95.
+    3. Recurso conhecido e improvido.”
+    Os embargos de declaração foram rejeitados (eDOC 1, p. 149).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos artigos 22, IX; e 30, V, da Constituição da República. Nas razões recursais, sustenta-se que (eDOC 1, p. 177):
+    “(...) o acórdão recorrido violou as disposições do artigo 30, V, da Lei Maior ao declarar incidentalmente a inconstitucionalidade da Lei Distrital 239/92, com a redação dada pela Lei Distrital 953/95.”
+    Acrescenta-se, ainda, que (eDOC 1, p. 177-178):
+    “Para cumprir a obrigação de zelar pelo direto dos usuários, por uma política tarifária adequada e módica e por um serviço adequado, o Poder Público competente há de ter a prerrogativa de punir aqueles que prestem serviço público de forma irregular, burlando as normas de concessão e permissão, visto que desrespeitam frontalmente o princípio da legalidade, afetando toda a estrutura do regime de prestação de serviço e em especial a política tarifária.”
+    A Presidência do TJDFT determinou o retorno dos autos ao órgão julgador para reexame e possível retratação, conforme o tema 546 (eDOC 1, p. 211). Entretanto, o órgão de origem manteve o acórdão recorrido, nestes termos (eDOC 1, p. 220):
+    “Vê-se, pois, que a ementa não deixa pairar dúvida de que não é o caso de aplicação das disposições do artigo 28 da Lei Distrital nº 239/92.
+    Assim, entendo que a fundamentação do aresto não se pauta na questão da constitucionalidade da norma distrital, firmada no Recurso Extraordinário 661702/DF.
+    Inexiste, desta feita, divergência para se proceder à adequação do julgamento proferido pela Quinta Turma Cível.”
+    Após, a Presidência do Tribunal de origem determinou a remessa dos autos a esta Corte Suprema (eDOC 1, p. 295).
+    É o relatório. Decido.
+    Inicialmente, convém esclarecer que no julgamento eletrônico do RE 661.702-RG, de relatoria do Min. Marco Aurélio, DJe de 19.2.200 (Tema 546), esta Corte firmou a seguinte tese: “Surge constitucional previsão normativa local voltada a coibir fraude considerado o serviço público de transporte coletivo e inconstitucional condicionar a liberação de veículo apreendido ao pagamento de multas, preços públicos e demais encargos decorrentes de infração”.
+    O caso ora em exame, entretanto, trata de matéria diversa, não sendo de aplicação desse tema de repercussão geral.
+    Na espécie, o Tribunal de origem afastou a aplicação do RE 661.702-RG, por concluir que o transporte em veículo de passeio não seria capaz de fraudar o sistema de transporte coletivo, pelo que “o automóvel objeto da autuação é um veículo de passeio (fl. 13), e a jurisprudência desta Egrégia Turma é firme no sentido de que tal espécie de automóvel não ostenta as características necessárias para dar ensejo à fraude nas operações de transporte coletivo, passando-se por permissionário do Serviço de Transporte Público Alternativo do DF.” (eDOC 1, p. 132).
+    Assim, conforme os fundamentos que constam no acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo, demandaria o exame da legislação aplicável à espécie (Leis Distritais 232/92 e 953/95) e o reexame de fatos e provas. Dessa forma, constata-se a inexistência de ofensa direta à Constituição e a incidência ao caso da Súmula 279 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. TRANSPORTE DE PASSAGEIROS EM VEÍCULO NÃO AUTORIZADO. TEMA 967 DA REPERCUSSÃO GERAL. AUTO DE INFRAÇÃO. REGULARIDADE. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 1.232.908-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 5.5.2020).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. TRANSPORTE DE PASSAGEIROS. APLICATIVO. REGULAMENTAÇÃO. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTES.” (ARE 1.180.297-AgR, Rel. Min. Dias Toffoli, Plenário, DJe 15.4.2019).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC e art. 21, §1º, RISTF.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 21 de junho de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
