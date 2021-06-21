@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PIS E COFINS. BASES DE CÁLCULO. EXCLUSÃO DO ICMS. DELIMITAÇÃO DE TESE FIRMADA PELO STF. COMPETÊNCIA.
+1. Não compete a este Tribunal Superior delimitar o alcance de teses definidas pelo Supremo Tribunal Federal, após o reconhecimento da repercussão geral.
+2. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno da FAZENDA NACIONAL contra decisão da Presidência deste Tribunal Superior, que, ao conhecer do agravo, deixou de conhecer do recurso especial, quanto ao tema referente à inclusão do ICMS nas bases de cálculo da contribuição ao PIS e da COFINS, negando-lhe provimento quanto à tese de violação dos arts. 489 e 1.022 do CPC/2015.
+A parte agravante sustenta, em síntese, que a matéria recursal tem natureza infraconstitucional. Pugna pela suspensão do processo até o julgamento dos embargos de declaração pelo STF.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PIS E COFINS. BASES DE CÁLCULO. EXCLUSÃO DO ICMS. DELIMITAÇÃO DE TESE FIRMADA PELO STF. COMPETÊNCIA.
+1. Não compete a este Tribunal Superior delimitar o alcance de teses definidas pelo Supremo Tribunal Federal, após o reconhecimento da repercussão geral.
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+A pretensão fazendária não deve prosperar, pois o recurso não pode ser conhecido quanto à pretensão relacionada ao alcance da tese definida pelo Supremo Tribunal Federal. É que se trata de matéria constitucional, cuja competência para revisão não é deste Tribunal Superior, nos termos do art. 105, III, da Constituição Federal de 1988.
+De fato, "tem natureza constitucional a controvérsia inerente à interpretação da tese definida pelo Supremo Tribunal Federal, após o reconhecimento da repercussão geral e respectivo julgamento, sendo certo que, relacionando-se o debate com a forma de execução do julgado do Supremo, não poderia outro tribunal, em princípio, ser competente para solucioná-lo" (AgInt no AREsp 1.508.001/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/10/2019, DJe 17/10/2019).
+A respeito, na parte que interessa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. DESNECESSIDADE DE SOBRESTAMENTO DO FEITO. AUSÊNCIA DE DECISÃO SOBRE AFETAÇÃO DO TEMA À SISTEMÁTICA DOS RECURSOS ESPECIAIS REPETITIVOS. VIOLAÇÃO AO ART. 1.022, CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL.
+COMPETÊNCIA DO STF. BASE DE CÁLCULO. PIS E COFINS. CONCEITO DE FATURAMENTO. MATÉRIA CONSTITUCIONAL.  ..  2. A existência de precedente firmado pelo Plenário do STF em julgamento de recurso com repercussão geral, de caráter vinculante e obrigatório, autoriza o imediato julgamento dos processos com o mesmo objeto, não tendo que se falar em sobrestamento do presente feito ao argumento de eventual possibilidade de modulação de efeitos, em sede de embargos de declaração.  ..  4. Na hipótese, tem-se que o acórdão do Tribunal de origem está fundamentado exclusivamente na interpretação dada pelo STF sobre à inclusão do ICMS na base de cálculo do PIS e da COFINS. Dessa feita, dada a natureza estritamente constitucional do decidido pelo Tribunal a quo, refoge à competência desta Corte Superior de Justiça a análise da questão, sob pena de usurpação da competência do Supremo Tribunal Federal. 5. Por fim, verifica-se que o STJ tem entendido que a interpretação do conceito de faturamento para fins de incidência da contribuição ao PIS e à Cofins é matéria eminentemente constitucional, que foge à sua competência do âmbito do Recurso Especial.  ..  6. Agravo interno não provido.
+(AgInt no REsp 1840083/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 25/11/2019, DJe 27/11/2019)
+Dentre outros, ainda: EDcl no AgInt no AREsp 1.521.832/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 22/4/2020, DJe 24/4/2020; AgInt no AREsp 1.508.068/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 5/3/2020, DJe 11/3/2020; AgInt no AREsp 1.506.537/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 17/2/2020, DJe 3/3/2020; AgInt no REsp 1.834.634/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 28/10/2019, DJe 30/10/2019; AgInt no AREsp 1.519.714/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/9/2019, DJe 24/9/2019.
+Quanto ao art. 1.022 do CPC/2015, não se verifica a apontada violação, pois o órgão julgador, de forma clara e coerente, externou fundamentação adequada e suficiente à conclusão do acórdão embargado.
+Por fim, quanto à argumentação aduzida para pugnar pela suspensão do presente, cabe resgatar o entendimento do Supremo Tribunal Federal no sentido de que a existência de precedente firmado pelo Plenário daquela Corte autoriza o imediato julgamento dos processos com o mesmo objeto, independentemente do trânsito em julgado do paradigma.
+A propósito:
+Embargos de declaração nos embargos de declaração no agravo regimental no recurso extraordinário. Embargos com o objetivo de sobrestamento do feito. Aposentadoria especial. Conversão de tempo comum em especial. Repercussão geral. Ausência. Análise concluída.
+Trânsito em julgado. Desnecessidade. Precedentes.
+1. A existência de precedente firmado pelo Tribunal Pleno da Corte autoriza o julgamento imediato de causas que versem sobre a mesma matéria, independentemente da publicação ou do trânsito em julgado do paradigma.
+2. Inexistência dos vícios previstos no art. 1.022 do Código de Processo Civil.
+3. Segundos embargos de declaração rejeitados, com aplicação de multa de 2% sobre o valor atualizado da causa (art. 1.026, § 2º, do CPC)" (RE 1.006.958 AgR-ED-ED, Rel. Min. Dias Toffoli, Segunda Turma, julgado em 21/8/2017, processo eletrônico DJe-210, divulgado em 15/9/2017, publicado em 18/9/2017)
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO.
+ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS. REAFIRMAÇÃO DA JURISPRUDÊNCIA SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. RE 855.178-RG. JULGAMENTO IMEDIATO. POSSIBILIDADE. TRÂNSITO EM JULGADO. DESNECESSIDADE.
+AGRAVO REGIMENTAL DESPROVIDO (ARE 909.527/RS-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/5/2016)
+Esta posição é a firmada pela Corte Especial desta Corte Superior:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. VIOLAÇÃO DOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E CONTRADITÓRIO. REPERCUSSÃO GERAL INEXISTENTE. TEMA 660/STF.
+1. A Fazenda Pública manejou recurso extraordinário suscitando que "o acórdão que rejeitou os embargos violou os princípios do devido processo legal, da ampla defesa e do contraditório (artigo 5º, incisos LIV e LV, da Constituição Federal)".
+2. E neste contexto, limitando-se o extraordinário a suscitar afronta aos referidos incisos e princípios, legítima a incidência à espécie do entendimento do STF firmado no Tema 660, que expressamente consigna que os princípios do devido processo legal, do contraditório e da ampla defesa não apresentam repercussão geral. ARE 748.371 RG, Rel. Min. Gilmar Mendes, julgado em 6/6/2013, publicado em 1º/8/2013.
+3. "A existência de precedente firmado pelo Tribunal Pleno da Corte autoriza o julgamento imediato de causas que versem sobre a mesma matéria, independentemente da publicação ou do trânsito em julgado do paradigma" (RE 1.006.958 AgR-ED-ED, Relator Min. DIAS TOFFOLI, Segunda Turma, julgado em 21/8/2017, processo eletrônico DJe-210, divulgado em 15/9/2017, publicado em 18/9/2017.).
+4. Já tendo o STF consignado, no Tema 69/STF, que "o ICMS não compõe a base de cálculo para a incidência do PIS e da Cofins", não subsiste a alegada prematuridade em razão de eventual possibilidade de modulação de efeitos.
+Agravo interno improvido.
+(AgInt no RE nos EDcl no REsp 1.214.431/RJ, Rel. Min. HUMBERTO MARTINS, CORTE ESPECIAL, DJe 22/8/2018)
+Confiram-se, ainda, na parte que interessa, os seguintes precedentes:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ICMS.
+BASE DE CÁLCULO DO PIS E DA COFINS. RECENTE POSICIONAMENTO DO STF EM REPERCUSSÃO GERAL (RE 574.706/PR) EM SENTIDO CONTRÁRIO. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+ ..  2. Contudo, na sessão do dia 15.3.2017, o Plenário do Supremo Tribunal Federal, julgando o RE 574.706/PR, em repercussão geral, Relatora a Ministra CÁRMEN LÚCIA, entendeu que o valor arrecadado a título de ICMS não se incorpora ao patrimônio do contribuinte e, dessa forma, não pode integrar a base de cálculo dessas contribuições, que são destinadas ao financiamento da Seguridade Social.
+3. Dessa forma, não é caso de sobrestamento do feito, pois o Recurso Extraordinário já foi julgado pelo STF em sentido contrário à tese da parte agravante. Ademais, a partir da proclamação do resultado na sessão de julgamento, a incidência da orientação do STF pode, e deve, ser imediata, porque se trata, aliás, de diretriz jurisprudencial vinculante, cujo conhecimento se acha na categoria de fato público e notório.4. Agravo Interno da FAZENDA NACIONAL a que se nega provimento.
+(AgInt no AREsp 432.295/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 22/5/2018)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PIS E COFINS. BASE DE CÁLCULO. INCLUSÃO DO ICMS. NÃO CABIMENTO. TESE FIXADA EM REPERCUSSÃO GERAL. SOBRESTAMENTO DO FEITO PARA AGUARDAR O TRÂNSITO EM JULGADO DE PROCESSO SUBMETIDO À SISTEMÁTICA DA REPERCUSSÃO GERAL. DESNECESSIDADE.  ..  ..  II - Este Tribunal Superior, após o julgamento do RE n. 574.706/PR, Relatora a Ministra Cármen Lúcia, diante do efeito vinculante dos pronunciamentos emanados em sede de repercussão geral, passou a adotar o entendimento do Supremo Tribunal Federal segundo o qual o ICMS não compõe a base de cálculo da contribuição para o PIS e da COFINS.
+III - Não merece acolhida o pedido sobrestamento do recurso a fim de que aguarde eventual modulação de feitos pelo Pretório Excelso da tese firmada em repercussão geral, porquanto não houve determinação por aquela Corte, ausente previsão legal para tanto e, ainda, porque a jurisprudência do Supremo Tribunal Federal e deste Tribunal Superior encontra-se consolidada no sentido da desnecessidade de que se aguarde o trânsito em julgado para aplicação da tese firmada em precedente qualificado.  .. .
+(AgInt no REsp 1.742.075/MG, Rel. Min. REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 20/8/2018)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
