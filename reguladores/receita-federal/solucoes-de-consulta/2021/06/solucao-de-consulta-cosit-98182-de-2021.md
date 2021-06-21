@@ -1,0 +1,9 @@
+Solução de Consulta Cosit nº 98182, de 19 de maio de 2021
+Assunto: Classificação de Mercadorias
+Código NCM: 8525.80.29
+Mercadoria: Câmera digital com sensor CMOS 1/2.3" integrada a um helicóptero de quatro rotores teleguiado, também chamado de "drone" ou "quadricóptero" , dobrável, com dimensões de 245 × 289 × 56 mm (não dobrado e com hélices), e peso de 249 g, utilizada para captar imagens aéreas e transmiti-las a dispositivo externo ou gravá-las em cartão de memória, apresentada como um sortido para venda a retalho numa única caixa de papelão com drone, controle remoto, 3 baterias, suporte gimbal e drone, hub de carregamento, chaves e parafusos, 6 hélices, 2 manípulos extras, cabo USB/ USBC, cabos USB, lightning, micro USB e USB tipo c e bolsa. O equipamento possui receptor GPS/GLONASS/Galileo, velocidade máxima de 16 m/s e autonomia de voo de 31 min. O aparelho de radiotelecomando opera nas frequências de 2,4 GHz e 5,8 GHz, com distância máxima de transmissão de 10 km, e possui suporte para dispositivo móvel do tipo smartphone, no qual o operador pode usar um aplicativo específico para controlar a câmera.
+Dispositivos Legais: RGI 1 (texto da posic¿a¿o 85.25), RGI 3 b), RGI 6 (texto da subposic¿a¿o 8525.80), e RGC 1 c/c RGI 3 c) (textos do item 8525.80.2 e do subitem 8525.80.29), da Nomenclatura Comum do Mercosul (NCM) constante da Tarifa Externa Comum (TEC), aprovada pela Resoluc¿a¿o Camex nº 125, de 2016, e da Tabela de Incide¿ncia do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto nº 8.950, de 2016, IN RFB nº 1.926, de 2020, e subsi¿dios extrai¿dos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+SC Cosit nº 98.182-2021
+[arquivo anexo: SC Cosit nº 98.182-2021 .pdf]
+DANIELLE CARVALHO DE LACERDA
+Presidente da 3ª Turma do Ceclam
