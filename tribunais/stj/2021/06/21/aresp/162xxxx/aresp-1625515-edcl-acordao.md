@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. HONORÁRIOS PERICIAIS. RATEIO ENTRE AS PARTES. ACÓRDÃO RECORRIDO.EXISTÊNCIA DEOMISSÃO QUANTO ÀALEGAÇÃO DE NULIDADE POR INCOMPETÊNCIA. EMBARGOS ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+I -Na origem, trata-se de agravo de instrumento interposto contra a decisão do Juízo da 2ª Vara Cível de Alfenas que, em processo de execução fiscal, determinou de ofício o pagamento de honorários periciais pelo agravante. No Tribunal a quo, julgou-se procedente o recurso, ficando consignado que a perícia determinada de ofício fosse rateada entre as partes. Esta Corte conheceu do agravo para negar provimento ao recurso especial.
+II - De fato, a matéria relacionada à suposta nulidade em razão de incompetência por suposta prevenção não foi analisada no julgamento do agravo interno. Passa-se a tratar da alegação.
+III - Inicialmente, salienta-se que a alegação de prevenção deve ocorrer até o julgamento do recurso (AgRg nos EDcl no RMS 37.989/DF, relatorMinistro Sidnei Benetti, Terceira Turma, julgado em 28/5/2013, DJe 17/6/2013). No caso, a parte não alegou a existência de suposta prevenção nas razões do agravo em recurso especial.
+IV - Além disso, segundo entendimento desta Corte, a competência interna do Superior Tribunal de Justiça tem natureza relativa, não caracterizando nenhuma nulidade a inobservância da suposta prevenção,caso houvesse (AgInt nos EREsp 1.382.576/MS, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, julgado em 11/6/2019, DJe 14/6/2019.)
+V - Por fim, tem-se que o exercício da atribuição de análise dos pressupostos de conhecimento do recurso especial pela Presidência desta Corte é prévio à distribuição, não importando em nulidade porquanto fundamentada no regimento interno desta Corte.
+VI -Não se verifica, portanto, a existência de qualquer nulidade na decisão ora embargada.
+VII - Embargos de declaração parcialmente acolhidos para sanar omissão, sem efeitos modificativos, nos termos da fundamentação.
+RELATÓRIO
+Na origem, o presente feito decorre de agravo de instrumento interposto pela parte ora recorrente, o qual objetiva à reforma de decisão proferida pelo Juízo da 2ª Vara Cível de Alfenas que, em processo de execução fiscal, determinou de ofício o pagamento de honorários periciais pelo agravante.
+O Tribunal de Justiça do Estado de Minas Gerais julgou procedente o agravo, ficando consignado que a perícia determinada de ofício fosse rateada entre as partes.
+O referido acórdão foi assim fundamentado, in verbis:
+In casu, verifica-se da decisão vergastada que o d. Julgador, a fim de sanar a divergência quanto ao valor do bem penhorado, determinou de ofício a perícia, nomeando desde já o perito, concedendo prazo ao Agravante para arcar com o pagamento do procedimento.
+Quanto à matéria debatida, o eg. Tribunal de Justiça de Minas Gerais se posicionou:
+EMENTA: AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO DE SENTENÇA - PERÍCIA CONTÁBIL DETERMINADA DE OFÍCIO - HONORÁRIOS PERICIAIS - ARTIGO 95 DO NOVO CPC - RATEIO ENTRE AS PARTES - RECURSO NÃO PROVIDO.
+1. Ainda que o Município de Uberlândia tenha sido condenado de forma subsidiária nos autos da ação ordinária, litigando o embargado sob o pálio da justiça gratuita, deve ser observada a nova regra processual, segundo a qual, determinada de ofício pelo juiz, deve a perícia ser rateada pelas partes, nos termos do artigo 95 do CPC/2015.
+2. Recurso não provido. (TJMG - Agravo de Instrumento-Cv 1.0702.14.043128-0/001, Relator(a): Des.(a) Teresa Cristina da Cunha Peixoto , 8a CÂMARA CÍVEL, julgamento em 24/11/2016, publicação da súmula em 16/12/2016)
+Diante de tais considerações, DOU PROVIMENTO AO RECURSO para que a perícia determinada de ofício pelo d. Julgador seja rateada entre as partes.
+Os embargos de declaração opostos foram acolhidos sem efeitos infringentes, para sanar omissão e erro material, conforme a seguinte ementa de acórdão:
+EMENTA: EMBARGOS DE DECLARAÇÃO - AGRAVO DE INSTRUMENTO - PEDIDO DE CASSAÇÃO DA DECISÃO - OMISSÃO - PARTE DISPOSITIVA DO ACÓRDÃO - ERRO MATERIAL - EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS INFRINGENTES Os embargos de declaração se revestem de natureza integrativa e buscam salvaguardar o direito das partes a urna prestação jurisdicional coerente e razoavelmente fundamentada. No presente caso, devem ser acolhidos os embargos para sanar omissão e erro material no acórdão embargado, contudo, sem efeitos infringentes.
+Opostos novos embargos de declaração, foram estes rejeitados.
+Contra as decisões acima transcritas, Emílio da Silveira Santos interpôs recurso especial, apontando violação dos arts. 489 e 1.022, ambos do CPC.
+Sustenta, em resumo, que, não obstante a oposição dos declaratórios, o Tribunal de origem não apreciou a questão relativa à nulidade da decisão objeto do agravo de instrumento, uma vez que supostamente permitiu o prosseguimento da execução pelo valor original, a despeito da anulação parcial do débito em Embargos do Devedor.
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial."
+Interposto agravo interno, este foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. HONORÁRIOS PERICIAIS. RATEIO ENTRE AS PARTES. ACÓRDÃO RECORRIDO. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+I - Na origem, trata-se de agravo de instrumento interposto contra a decisão do Juízo da 2ª Vara Cível de Alfenas que, em processo de execução fiscal, determinou de ofício o pagamento de honorários periciais pelo agravante. No Tribunal a quo, julgou-se procedente o recurso, ficando consignado que a perícia determinada de ofício fosse rateada entre as partes. Esta Corte conheceu do agravo para negar provimento ao recurso especial.
+II - Em relação à indicada violação do art. 1.022, II, do CPC/2015, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, qual seja, da existência de nulidade da decisão objeto de agravo de instrumento, tendo o julgador abordado a questão à fl. 338, consignando que não há falar em nulidade na decisão recorrida que determinou o prosseguimento da execução fiscal e a consequente realização de pericial judicial.
+III - A oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+IV - Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022, II, do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça: (AgInt no REsp n. 1.625.513/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/2/2017, DJe 8/2/2017 e EDcl no AgRg no AgRg no REsp n. 958.813/RS, Rel. Ministro Sérgio Kukina, Primeira Turma,julgado em 2/2/2017, DJe 13/2/2017.)
+V - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado, conforme seguintes trechos da petição:
+9. Or. decisum embargado é nulo, porquanto nele não há qualquer menção à alegação, expressamente ventilada nas razões do Agravo Interno, acerca da incompetência do juízo que proferiu a r. decisão então agravada.
+Com efeito, o Embargante explicou em sua insurgência que, em primeiro grau, o Embargado ajuizou Execução Fiscal (proc. nº 0145588-65.2014.8.13.0016), perante a 2ª Vara Cível da Comarca de Alfenas. E que o ora Embargante defendeu-se dessa ação exacional por meio de Embargos à Execução (proc. nº 0028807-23.2015.8.13.0016), os quais, em sede de apelação, redundaram no reconhecimento da nulidade parcial da CDA e, pois, do feito executivo.
+10. Inconformado com o acórdão proferido pelo TJMG em tal apelação-eis que sempre pretendera o reconhecimento da nulidade integral da execução -, o ora Embargante interpôs o Recurso Especial nº 1.689.076/MG (2017/0187777-4), autuado em 17/08/2017, o qual restou distribuído ao eminente ministro Napoleão Nunes Maia Filho, da Eg. Primeira Turma desta Corte. É o que se colhe do documento que acompanhou as razões do Agravo Interno (e-STJ fl. 484).
+Ressalte-se que Sua Excelência já chegou a apreciar -e deferir-pedido de concessão de tutela provisória de urgência formulado pelo ora Embargante, para conferir efeito suspensivo àquele Nobre Apelo, determinando-se a suspensão da exigibilidade dos débitos executados.
+ ..
+12. Como sustentado nas razões do Agravo Interno, sabe-se que, por força do disposto no art. 71 do RISTJ, a distribuição do recurso torna preventa a competência do relator para todos os feitos posteriores referentes ao mesmo processo ou a processo conexo.
+Logo, o em. Ministro Napoleão Nunes Maia Filho é competente, por prevenção, para a apreciação e julgamento tanto do Recurso Especial nº 1.625.515, quanto do Agravo pelo qual o ora Embargante buscou destrancar o referido Apelo nobre.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. HONORÁRIOS PERICIAIS. RATEIO ENTRE AS PARTES. ACÓRDÃO RECORRIDO.EXISTÊNCIA DEOMISSÃO QUANTO ÀALEGAÇÃO DE NULIDADE POR INCOMPETÊNCIA. EMBARGOS ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+I -Na origem, trata-se de agravo de instrumento interposto contra a decisão do Juízo da 2ª Vara Cível de Alfenas que, em processo de execução fiscal, determinou de ofício o pagamento de honorários periciais pelo agravante. No Tribunal a quo, julgou-se procedente o recurso, ficando consignado que a perícia determinada de ofício fosse rateada entre as partes. Esta Corte conheceu do agravo para negar provimento ao recurso especial.
+II - De fato, a matéria relacionada à suposta nulidade em razão de incompetência por suposta prevenção não foi analisada no julgamento do agravo interno. Passa-se a tratar da alegação.
+III - Inicialmente, salienta-se que a alegação de prevenção deve ocorrer até o julgamento do recurso (AgRg nos EDcl no RMS 37.989/DF, relatorMinistro Sidnei Benetti, Terceira Turma, julgado em 28/5/2013, DJe 17/6/2013). No caso, a parte não alegou a existência de suposta prevenção nas razões do agravo em recurso especial.
+IV - Além disso, segundo entendimento desta Corte, a competência interna do Superior Tribunal de Justiça tem natureza relativa, não caracterizando nenhuma nulidade a inobservância da suposta prevenção,caso houvesse (AgInt nos EREsp 1.382.576/MS, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, julgado em 11/6/2019, DJe 14/6/2019.)
+V - Por fim, tem-se que o exercício da atribuição de análise dos pressupostos de conhecimento do recurso especial pela Presidência desta Corte é prévio à distribuição, não importando em nulidade porquanto fundamentada no regimento interno desta Corte.
+VI -Não se verifica, portanto, a existência de qualquer nulidade na decisão ora embargada.
+VII - Embargos de declaração parcialmente acolhidos para sanar omissão, sem efeitos modificativos, nos termos da fundamentação.
+VOTO
+Os embargos merecem ser parcialmente acolhidos.
+De fato, a matéria relacionada à suposta nulidade em razão de incompetência por suposta prevenção não foi analisada no julgamento do agravo interno. Passa-se a tratar da alegação.
+Inicialmente, salienta-se que aalegação de prevenção deve ocorrer até o julgamento do recurso (AgRg nos EDcl no RMS 37.989/DF, relator Ministro Sidnei Benetti, Terceira Turma, julgado em 28/5/2013, DJe 17/6/2013). No caso, a parte não alegou a existência de suposta prevenção nas razões do agravo em recurso especial.
+Além disso,segundo entendimento desta Corte, a competência interna do Superior Tribunal de Justiça tem natureza relativa, não caracterizando nenhuma nulidadea inobservância da suposta prevenção,caso houvesse. (AgInt nos EREsp 1.382.576/MS, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, julgado em 11/6/2019, DJe 14/6/2019.)
+Ademais, tem-se que o exercício da atribuição de análise dos pressupostos de conhecimento do recurso especial pela Presidência desta Corte é prévioà distribuição, não importando em nulidade porquanto fundamentada no regimento interno desta Corte.
+Diante disso,não se verifica a existência dequalquer nulidade na decisão ora embargada.
+Ante o exposto, acolho parcialmente os embargos de declaração para sanar omissão nos termos da fundamentação, sem efeitos modificativos, visto que não altera o resultado do julgamento do agravo interno.
+É o voto.
