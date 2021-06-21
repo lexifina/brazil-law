@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO.FUNDAMENTO CONSTITUCIONAL. REVISÃO. IMPOSSIBILIDADE.
+1. A legitimidade do instituto de previdência estadual para figurar no polo passivo do cumprimento de sentença, quanto à restituição de imposto de renda deferida judicialmente, foi decidida noacórdão combatido mediante emprego de fundamentação eminentemente constitucional, cuja revisão é incabível pela via do recurso especial.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado peloINSTITUTO DE PAGAMENTOS ESPECIAIS DE SAO PAULO - IPESP contra decisão de e-STJ fls. 165/167, exarada pela Presidência desta Corte Superior, em que se conheceu do agravo para não conhecer do recurso especial em razão do acórdão recorrido estar amparado em fundamento constitucional.
+Nas razões recursais, alega o instituto que a questão relativa à legitimidade para cumprir a determinação judicial de restituição de imposto de renda encontra apoio nos arts. 17 e 485, VI, do CPC/2015, não havendo óbice para seu exame nesta instância extraordinária.
+Impugnação apresentada às e-STJ fls. 179/184.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO.FUNDAMENTO CONSTITUCIONAL. REVISÃO. IMPOSSIBILIDADE.
+1. A legitimidade do instituto de previdência estadual para figurar no polo passivo do cumprimento de sentença, quanto à restituição de imposto de renda deferida judicialmente, foi decidida noacórdão combatido mediante emprego de fundamentação eminentemente constitucional, cuja revisão é incabível pela via do recurso especial.
+2. Agravo interno desprovido.
+VOTO
+A irresignação recursal não merece prosperar.
+Cuidam os autos, na origem, de agravo de instrumento apresentado pela exequente contra decisão interlocutória que reconheceu a ilegitimidade do instituto de previdência estadual para cumprir a decisão exequenda, pela qual se reconheceu o direitoà isenção de imposto de renda, nos termos do art. 6º, XIV, da Lei 7.713/1988, no que se refere à restituição do tributo recolhido indevidamente.
+O Tribunal de Justiça deu provimento ao recurso, no particular, pautando-se na seguinte motivação (e-STJ fl. 85):
+Ora, o artigo 157, inciso I da Constituição Federal dispõe que "pertencer aos Estados o produto da arrecadação do imposto da União sobre renda e proventos de qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e pelas fundações que instituírem e mantiverem" Neste sentido, afirmar que o IPESP não tem legitimidade para cumprir a determinação judicial porquanto "já repassou os valores para a Receita Federal" é um entendimento equivocado das repartições tributárias. O imposto de renda, retido na fonte, dos servidores públicos estaduais pertence ao Estado e não há qualquer repasse. Vale dizer, "nenhum interesse tem a União na concessão, ou não, de tal isenção, que nenhum benefício ou prejuízo lhe causa. O interesse da União assume feição meramente acadêmica, teórica, já que nenhum interesse econômico tem na causa" (Apelação nº 1040463-80.2015.8.26.0053, 10ª Câmara de Direito Público, Rel. Des. Torres de Carvalho, dj. 04/09/2017).
+É certo que o IPESP encaminhou o impetrante para a Receita Federal e, ao que tudo indica, o referido órgão efetuou o pagamento das restituições referente aos exercícios de 2014 a 2017, no entanto, tal pagamento não transfere ao órgão da União a responsabilidade pelo cumprimento da decisão judicial. Em verdade, a autarquia impetrada "busca transferir para a Receita Federal a obrigação de restituir o imposto de renda que reteve na fonte e que permanece no seu patrimônio" (Apelação nº 1037815-30.2015.8.26.0053, 10ª Câmara de Direito Público, Rel Desa. Teresa Ramos, dj. 18/12/2017).
+Assim, o Instituto de Pagamentos Especiais de São Paulo IPESP- tem legitimidade para o cumprimento da decisão judicial.
+Do que se observa, a Corte local, ao tratar da legitimidade do instituto para cumprir a decisão exequenda, no que tange à restituição do imposto de renda indevidamente descontado, amparou-se em fundamento estritamente constitucional e, nessa medida, é inviável o conhecimento do recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. ACIDENTE COM AMPUTAÇÃO DE DEDO. DANOS MORAIS E MATERIAIS. CABIMENTO E VALOR. SUCUMBÊNCIA.
+REVISÃO. IMPOSSIBILIDADE. REEXAME DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. A controvérsia acerca da legitimidade passiva ad causam foi dirimida com fundamento constitucional, especificamente com base no artigo 146, III, "a", da Constituição Federal, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+3. Na hipótese, a parte pretende revisão ampla da lide, no sentido de que esta Corte se pronuncie a respeito da existência de responsabilidade civil, cabimento e valor das indenizações concedidas em razão do evento danoso, situações que já foram devidamente consideradas e ponderadas pelas instâncias ordinárias em estrita observância às normas de regência, bem como à descrição fática - controversa - e às provas carreadas aos autos, razão pela qual incide a Súmula 7/STJ.
+4. A jurisprudência do STJ é assente no sentido de que a revisão dos critérios adotados para atribuição da sucumbência, com intuito de aferir se foi mínima ou recíproca, demanda incursão nos suportes fático e probatório dos autos, também esbarrando no óbice contido na Súmula 7/STJ.
+5. O dissídio jurisprudencial deve ser comprovado nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, com realização do devido cotejo analítico e a demonstração clara da divergência entre os casos confrontados, identificando os trechos que os assemelhem, o que não ocorreu na hipótese dos autos.
+6. Agravo interno não provido.
+(AgInt no REsp 1.692.855/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 19/03/2019, DJe 22/03/2019).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO CONTRA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO. ART. 1.022, II, DO CPC. FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF PARA JULGAR A CAUSA. AUSÊNCIA PARCIAL DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. O Presidente ou Vice-presidente do Tribunal de origem pode julgar a admissibilidade do Recurso Especial, negando seguimento caso a pretensão do recorrente encontre óbice em alguma Súmula do Superior Tribunal de Justiça, sem que haja violação à sua competência.
+2. Não se configurou a ofensa ao art. 1.022, II, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada. Ademais, verifica-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. O Tribunal bandeirante utilizou fundamento constitucional para decidir sobre a legitimidade do ente público em participar da relação processual e sobre a responsabilidade do titular do cartório na hipótese sub judice. Conforme interativa jurisprudência do STJ, descabe ao STJ analisar infringência a fundamento constitucional em Recurso Especial, mesmo que para viabilizar interposição de Recurso Extraordinário.
+4. A indicada afronta aos arts. 3º e 485, VI, do CPC e o art. 39, § 2º, da Lei 8.935/1994 não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+5. Agravo de que se conhece, para conhecer parcialmente do Recurso Especial, somente quanto à infringência ao art. 1.022, II, do CPC, e, nessa extensão, negar-lhe provimento.
+(AREsp 1.689.491/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/10/2020, DJe 18/12/2020).
+Nesse panorama, mostra-seincólume a decisão agravada.
+Por fim, embora não merecedor de acolhimento, tenho que o presente inconformismo não representa interposição de agravo interno manifestamente inadmissível ou improcedente, a ensejar, por decisão unânime do Colegiado, a multa processual prevista no § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
