@@ -1,0 +1,26 @@
+DECISÃO
+RICARDO AUGUSTO SALERNO (RICARDO) ajuizou ação de indenização por danos morais e materiais contra MADRID INVESTIMENTOS IMOBILIÁRIOS SPE LTDA. e TECNISA CONSULTORIA IMOBILIÁRIA LTDA. (MADRID e outra), alegando em suma, que houve atraso na entrega da unidade imobiliária adquirida por meio decontrato de compromisso de compra e venda. Alegou, ainda, queo solo em que o imóvel foi construído é contaminado, o que limita o uso da propriedade e a desvaloriza.
+Em primeira instância, os pedidos foramjulgados improcedentes em relação à MADRI. Em relação à TECNISA,o processo foi julgado extinto. RICARDO foi condenado ao pagamento das custas edespesas processuais, bem como honorários advocatícios fixados em 10% do valor da causa, nos termos do art. 85, §2º, do NCPC (e-STJ, fls. 262/264).
+A apelação interposta por RICARDOfoi parcialmente provida pelo TJSPnos termos do acórdão de relatoria do Desembagador ALCIDES LEOPOLDO, assim ementado:
+COMPROMISSO DE COMPRA E VENDA Legitimidade passiva da corré Tecnisa configurada Cadeia de fornecimento - Atraso na entrega da obra Transação firmada para indenizar o atraso Ausência de alegação de vícios de consentimento ou de abusividade no valor pago extrajudicialmente Contaminação do solo Direito de informação observado O autor recebeu informações claras e prévias acerca da existência da contaminação e consequentes restrições de uso, não cabendo,portanto, o pleito indenizatório por desvalorização decorrente de fato conhecido antes da contratação, e estimado pelo comprador na aceitação do preço Recurso provido em parte(e-STJ, fl. 336).
+Os embargos de declaração opostos por RICARDO foram rejeitados(e-STJ, fls. 370/373).
+Irresignado, RICARDO interpôs recurso especial com fulcro no art. 105, III, a, da CF, alegando a violação do art. 170, V, da CF e arts. 402 do NCPC e3º, §2º,47 e 51 do CDC, ao sustentar que o atraso na entrega do imóvel impõe o dever de indenizar por perdas e danos e lucros cessantes, independentemente do imóvel ter sido adquirido para uso próprio ou se o adquirente reside na propriedade (e-STJ, fls. 345/368).
+Foram apresentadas as contrarrazões (e-STJ, fls. 377/391).
+O apelo nobre não foi admitido em virtude da (1) impossibilidade de alegação de ofensa a dispositivos constitucionais como suporte à interposição de recurso especial; e, (2) ausência de demonstração da alegada vulneração aos dispositivos arrolados(e-STJ, fls. 392/394).
+Nas razões do presente agravo em recurso especial, RICARDO afirmou que (1) houve ofensa ao art. 170 da CF; (2) foi demonstrada a violação dos dispositivos de lei federal; e. (3) as Súmulas nºs 5 e 7 do STJ são inaplicáveis ao caso(e-STJ, fls. 397/420).
+Foi apresentada contraminuta (e-STJ, fls. 423/427).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da ausência de impugnação aos fundamentos da decisão agravada
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observo que o inconformismo não se dirigiu de forma específica contra os fundamentos da decisão agravada, pois RICARDO não refutou o descabimento do recurso especial por ofensa ao texto constitucional, fundamento indicado na decisão de admissibilidade como obstáculo ao conhecimento do apelo nobre.
+E isso não fez porque somente alegou, nas razões do seu agravo em recurso especial, que houve ofensa aos dispositivos arrolados, de lei federal e constitucional,e afirmou que não se trata de reexame de provas. No mais, repisou as razões contidas no especial.
+Assim, como não houve a demonstração do adequado enfrentamento do fundamento de impossibilidade de alegação de ofensa a dispositivos constitucionais como suporte à interposição de recurso especial, o recurso não deve ser admitido.
+Nessas condições, com fundamento no art. 932, III, do NCPC, NÃO CONHEÇO do agravo interposto.
+MAJORO os honorários advocatícios anteriormente fixados em favor de MADRID e outra em 5%, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. COMPROMISSO DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. APLICAÇÃO DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
