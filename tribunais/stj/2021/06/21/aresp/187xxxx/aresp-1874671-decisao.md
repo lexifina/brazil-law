@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por BANCO ITAUCARD S.A. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+APELAÇÃO CÍVEL - Ação Declaratória. Financiamento de Veículo. Declaração de ilegalidade de tarifas. Anulação. Juros incidentes sobre tarifas declaradas ilegais. Impossibilidade. Restituição. Necessidade. Manutenção da sentença.
+Desprovimento do recurso.
+- Em face do reconhecimento, por sentença transitada em julgado proferida em ação revisional, de ilegalidade da cobrança de tarifas contratuais, o valor referente aos juros remuneratórios incidentes sobre essas tarifas deve ser restituído ao consumidor. (fl. 163).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega o recorrente violação do art. 337, § 4º, do Código de Processo Civil, no que concerne ao não reconhecimento da coisa julgada pelo Tribunal a quo, trazendo os seguintes argumentos:
+O Tribunal de origem ao julgar a questão, afastou a coisa julgada. Tal entendimento viola frontalmente o art. 337, § 4º, do CPC 1 , vez que tendo como núcleo da insurgência a cobrança de juros sobre tarifas próprias do contrato bancário, uma vez declaradas nulas referidas tarifas e exigida a repetição dos valores pagos em ação pretérita, estão inclusos os juros e demais consectários. .
+Analisando o pedido direcionado na ação pretérita, extrai-se que foi pleiteado expressamente o pagamento da quantia indevida em dobro, bem como dos acréscimos decorrentes, sendo corrigidos pelos mesmos índices aplicados pela instituição.
+Desse modo, ao formular tal pedido, a parte recorrida o fez de forma abrangente, incluindo na sua pretensão, além da restituição de tarifa, também, os acréscimos derivados. Evidentemente, tais acréscimos, impostos ao valor do financiamento, incluindo o montante das tarifas, correspondem exatamente aos acessórios citados na inicial.
+Portanto, a causa de pedir e o pedido formulados na ação proposta abrangiam, indubitavelmente, a pretensão repetida nesta ação, ou seja, a de receber os juros incidentes sobre a tarifa diluída nas parcelas do financiamento. Logo, se está a repetir, agora, ação idêntica à outra já definitivamente julgada. (fls. 213).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Não há também, se falar em coisa julgada.
+Isso porque, a extinção do processo, sem resolução de mérito, em razão da existência de coisa julgada, somente é admitida quando houver perfeita identidade entre os elementos da ação (partes, pedido e causa de pedir) de ambas as demandas.
+No caso concreto, para que restasse configurado o óbice da coisa julgada, seria necessário que os elementos desta nova ação fossem perfeitamente idênticos aos da ação anterior, o que, todavia, não aconteceu.
+É que, na Ação Declaratória de Nulidade de Cláusulas Contratuais c/c Repetição de Indébito, tombada sob o nº 028783-51.2012.815.2001, que tramitou no 1º Juizado Especial Cível da Capital, a controvérsia cingiu-se à abusividade de determinadas cláusulas do contrato, ao passo em que, nestes autos, questiona-se apenas a incidência de juros remuneratórios sobre as tais cláusulas.
+Em assim sendo, não há que se falar em identidade de ações, nem tampouco em coisa julgada. (fl. 199).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal consiste na revisão da premissa fática assentada pela Corte de origem quanto à identidade dos elementos caracterizadores da coisa julgada, o que demanda o reexame do acervo fático-probatório juntado aos autos.
+A jurisprudência do STJ firmou-se no sentido de que, "em sede de recurso especial, não se admite o reexame dos elementos do processo a fim de se apurar a alegada afronta à coisa julgada, em face da incidência da Súmula 7/STJ". (AgInt no AREsp 784.774/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 13/4/2018.)
+Confiram-se ainda os seguintes julgados: REsp 1.814.142/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/6/2020; EDcl no REsp 1.776.656/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 9/6/2020; AgInt no REsp 1.629.962/AM, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 25/5/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
