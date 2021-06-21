@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo, nos próprios autos, de ANNA PAULA VALLADÃO SANTOS, objetivando a reforma da decisão de inadmissão do recurso interposto perante o Tribunal de Justiça do Estado do Rio de Janeiro, em razão da incidência da Súmula n. 7 do Superior Tribunal de Justiça (e-STJ fls. 726/728).
+O acórdão recorrido da Corte local está assim ementado (e-STJ fl. 655):
+Agravo interno nas apelações cíveis. Transporte ferroviário. Lesões corporais sofridas por passageira. Queda entre a composição férrea e a plataforma. Meras marcas de abrasão. Sentença que julgou parcialmente procedentes os pedidos, condenando a ré a pagar à autora a quantia de R$ 4.000,00 (quatro mil reais), a título de indenização por danos estéticos, corrigida monetariamente desde a data do acidente e acrescida de juros moratórios legais desde a citação, bem como a pagar-lhe o valor de R$ 2.000,00 (dois mil reais) como indenização por dano moral. Decisão monocrática que cassou a sentença, de ofício, na parte que extrapolou o pedido e condenou a ré na indenização por danos estéticos não pretendidos pela autora, dando parcial provimento ao apelo da concessionária de transportes para reconhecer a ocorrência da sucumbência recíproca na proporção de 1/3 (um terço) a ser arcado pela ré, e 2/3 (dois terços) pela parte autora, com honorários advocatícios arbitrados em 15% (quinze por cento) sobre o valor condenatório. Agravos internos interpostos por ambas as partes, no qual repisam os mesmos argumentos suscitados nos recursos de apelação. Condição de passageira e nexo causal que restaram suficientemente demonstrados. Responsabilidade objetiva decorrente da relação de consumo. Serviço não fornecido de forma adequada, eficiente e segura. Descumprimento da cláusula de incolumidade proveniente do contrato de transporte. Indenização por dano moral ocorrido in re ipsa, arbitrada no valor de R$ 2.000,00 (dois mil reais) considerando-se as peculiaridades do caso. Danos emergentes não comprovados. Condenação por dano estético no valor de R$ 4.000,00 (quatro mil reais) sem que houvesse qualquer pedido na inicial. Nulidade que se reconhece de ofício. Recorrentes que não trazem argumentos suficientes para alterar a decisão agravada. Improvimento dos agravos internos.
+Não foram opostos embargos de declaração.
+Sustenta estarem presentes os pressupostos de admissibilidade do recurso especial (e-STJ fls. 736/741).
+Com contraminuta (e-STJ fls. 749/757), os autos foram encaminhados a esta Corte.
+No recurso especial, fundado no artigo 105, III, "a", da Constituição Federal, a parte recorrente aponta violação ao artigo 944 do Código Civil de 2002 (e-STJ fls. 677/685 e 687).
+Alega que a " ..  quantia de R$ 2.000,00 (dois mil reais), fixada a título de indenização por danos morais para a ora Recorrente não observa os critérios da razoabilidade e proporcionalidade, a extensão do dano suportado pela mesma, nem o caráter pedagógico-punitivo  .. ", visto que " ..  suportou, em razão do ato ilícito praticado pelas ora Agravada, escoriações trauma facial e dano estético em grau mínimo, ficando incapacitada total e temporariamente durante 15 (quinze) dias  .. " (e-STJ fl. 682).
+Postula, ao final, " ..  majoração da condenação da ora Recorrida ao pagamento de indenização por danos morais para a quantia jamais inferior a R$ 30.000,00 (trinta mil reais)  .. " (e-STJ fl. 684).
+Com contrarrazões (e-STJ fls. 718/724).
+Assim delimitada a controvérsia, passo a decidir.
+Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, no presente caso, aplica-se o Código de Processo Civil de 2015.
+Correta a decisão de inadmissibilidade (e-STJ fls. 726/728).
+Não assiste razão à parte agravante.
+De início, quanto às questões aventadas pela parte ora agravante, assim decidiu o Juízo de primeiro grau (e-STJ fl. 507):
+ ..
+Desta forma, estando comprovado o dano sofrido pela parte autora e o nexo de causalidade entre este e os atos praticados pelo réu, através de seus prepostos, impõe-se a obrigação de indenizar.
+O quantum debeatur deve ser fixado sob os parâmetros da razoabilidade e da proporcionalidade.
+Considerando que a parte autora não comprovou qualquer outro evento além dos descritos acima, mostra-se o valor de R$ 2000,00 (dois mil reais) compatível com a reprovação necessária acerca da conduta do réu, mormente se levada em conta a gravidade do dano produzido e o lapso temporal de inadimplência.
+ ..
+Da mesma maneira, o Tribunal de origem, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, corroborou o mesmo entendimento, sob os seguintes fundamentos (e-STJ fls. 659/660):
+ ..
+No que se refere ao dano moral, ocorreu in re ipsa, sendo certo que o montante equivalente a R$ 2.000,00 (dois mil reais), considera, com precisão, a repercussão do evento danoso e todas as peculiaridades do caso, principalmente se considerado não ter havido sequelas funcionais, mas meras marcas de abrasão na vítima menor.
+E como se tem reiteradamente afirmado, a indenização pelo dano moral deve ser arbitrada segundo padrões de razoabilidade, traduzindo um voto de solidariedade à vítima, mas sem lhe proporcionar enriquecimento. Entretanto, o Poder Judiciário não pode olvidar com relação à função pedagógica que a indenização por danos morais deve exercer, posto que, se por um lado, funciona objetivando minorar as consequências experimentadas pela vítima, por outro, não pode perder seu caráter punitivo e, porque não dizer, educativo.
+E não se deve ir de encontro aos princípios da razoabilidade e da proporcionalidade, razão pela qual se entende que a verba fixada melhor refletindo a justiça na reparação dos danos pela vítima efetivamente sofridos, adequando-a aos parâmetros utilizados pela Câmara.
+ ..
+No caso dos autos, em que a indenização foi fixada em R$ 2.000,00 (dois mil reais), entendo bem observados os padrões de razoabilidade e proporcionalidade, não se configurando situação cuja excepcionalidade justifique a intervenção desta Corte. Desse modo, somente a partir de novo exame de tais provas seria possível rever a conclusão do acórdão recorrido, nesse aspecto, o que é incabível em recurso especial, consoante orientação sedimentada na Súmula n. 7 desta Corte Superior. Guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes precedentes:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/1973. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ.
+1. Aplica-se o óbice da Súmula n. 7 do STJ se o acolhimento da tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 182.361/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 5/5/2016, DJe 10/5/2016).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Para modificar as conclusões consignadas no acórdão impugnado, na forma como posta, seria necessária a incursão no conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, a teor da Súmula 7 do STJ.
+ ..
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.698.665/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/10/2020, DJe 18/11/2020).
+Em face do exposto, nego provimento ao agravo e, ainda, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites dos §§ 2º e 3º do mesmo artigo, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
