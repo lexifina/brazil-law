@@ -1,0 +1,54 @@
+AGRAVO DE INSTRUMENTO No 1009762-11.2021.8.11.0000
+AGRAVANTES: M J G DE OLIVEIRA – ME e MARIA JANETE GONCALVES DE OLIVEIRA
+AGRAVADO: ESTADO DE MATO GROSSO
+Vistos.
+Trata-se de agravo de instrumento, com pedido de efeito suspensivo, interposto por M J G DE OLIVEIRA – ME e MARIA JANETE GONCALVES DE OLIVEIRA contra decisão proferida pelo da Juízo da 2a Vara Especializada Fazenda Pública da Comarca de Rondonópolis/MT, que, nos autos da Execução Fiscal no 0008576-68.2015.8.11.0003, indeferiu o pedido para reconhecimento da nulidade da citação editalícia, bem como deixou de condenar o Estado de Mato Grosso ao pagamentos das verbas sucumbenciais, ao acolher parcialmente os pedidos da exceção de pré-executividade, reconhecendo a prescrição dos créditos tributários relativos à CDA n. 20157276.
+Relata a Defensoria Pública que, no juízo de origem, foi realizada a citação editalícia “sem qualquer tentativa de localização dos executados por meio dos sistemas disponíveis ao poder judiciário e sem qualquer expedição de ofício às concessionárias de serviço público no intuito de obter o atual paradeiro dos executados” (id. 89693974, p. 02).
+Aduz, nesse contexto, a nulidade da citação, sob o argumento de que o Código de Processo Civil, em seu art. 256, é expresso quanto à necessidade de diligências prévias antes de se reconhecer situação autorizadora da citação ficta e que, a seu sentir, “é nitidamente desnecessária a citação editalícia que, no caso, apenas visou cercear a ampla defesa dos executados, os quais poderiam constituir patrono de sua livre escolha para atuar em sua defesa, bem como deduzirem outras matérias que não são de conhecimento desta curadoria especial” (id. 89693974, p. 07).
+Assim, argumenta que se impõe reconhecer a nulidade da citação, que trata de questão de ordem pública, passível de ser conhecida de ofício pelo julgador, sendo descabido cogitar a ausência de prejuízo, que é presumível na hipótese, pois as formalidades inobservadas referem-se à própria essência do ato.
+De outro lado, salienta que o juízo a quo acolheu parcialmente a exceção de pré-executividade, reconhecendo a prescrição dos créditos tributários relativos à CDA n. 7276/2015, mas deixou de condenar o agravado nas verbas de sucumbência, ressaltando que a Defensoria Pública possui autonomia e dotação orçamentária própria, bem como não há se falar em confusão, quando a verba honorária, uma vez paga pelo Estado, reverterá em favor do fundo de aparelhamento da Defensoria Pública do Estado de Mato Grosso.
+Assim, com fincas no art. 1.019, I, do CPC, requer seja concedido efeito suspensivo ao presente recurso, para sobrestar o trâmite do processo executivo até o julgamento deste agravo.
+Ao fim, pretende o conhecimento e provimento do recurso para reformar a decisão combatida e declarar a nulidade do ato citatório realizado no processo executivo, com a intimação do exequente para esgotar as diligências necessárias à efetiva localização dos executados.
+Ainda, almeja a condenação do agravado nas verbas sucumbenciais, fixando-se honorários justos em prol da recorrente Defensoria Pública Do Estado de Mato Grosso, nos termos do artigo 85 e seguintes do CPC.
+É o relatório.
+Decido.
+A decisão recorrida tem natureza interlocutória, logo, atacável via recurso de agravo de instrumento, razão pela qual o conheço, notadamente por se enquadrar nas hipóteses previstas no art. 1.015, do CPC/2015.
+Após breve análise do caderno processual, observa-se que o pedido liminar não merece acolhimento, porquanto não se verifica, em cognição sumária, a presença dos pressupostos autorizadores da medida de urgência, quais sejam, a probabilidade do direito e o fundado receio de dano grave e de difícil reparação, nos termos dos artigos 300 e 1.019, I, do Código de Processo Civil.
+Inicialmente, quanto à determinação da citação editalícia, verifica-se, a princípio, estrita observância ao quanto dispõe a Lei de Execução Fiscal e a súmula 414 do Superior Tribunal de Justiça.
+Tem-se que o Estado de Mato Grosso ajuizou ação de execução fiscal em face de M J G DE OLIVEIRA – ME e a co-responsável MARIA JANETE GONCALVES DE OLIVEIRA, com o objetivo de receber o crédito tributário inscrito na Certidão de Dívida Ativa (CDA) no 20157276, no valor total de R$ 21.305,19 (vinte e um mil, trezentos e cinco reais e dezenove centavos), quando do ajuizamento da demanda.
+O juízo a quo determinou a citação dos executados via correio, vindo as correspondências a serem devolvidas após tentativa infrutífera de entrega. Após frustrada a citação via correio, foi determinada citação por oficial de justiça.
+Em seguida, após nova tentativa inexitosa de localização dos executados, a parte exequente requereu a citação via edital, o que foi deferido e realizado, vindo a ser certificado o transcurso do prazo legal sem que houvesse qualquer manifestação.
+A respeito da temática suscitada, versa o art. 8o da Lei no 6.830/1980:
+“Art. 8o - O executado será citado para, no prazo de 5 (cinco) dias, pagar a dívida com os juros e multa de mora e encargos indicados na Certidão de Dívida Ativa, ou garantir a execução, observadas as seguintes normas:
+I - a citação será feita pelo correio, com aviso de recepção, se a Fazenda Pública não a requerer por outra forma;
+II - a citação pelo correio considera-se feita na data da entrega da carta no endereço do executado, ou, se a data for omitida, no aviso de recepção, 10 (dez) dias após a entrega da carta à agência postal;
+III - se o aviso de recepção não retornar no prazo de 15 (quinze) dias da entrega da carta à agência postal, a citação será feita por Oficial de Justiça ou por edital;”.
+Referido dispositivo legal revela que, em se tratando de execução fiscal, dispõe a lei regulamentadora da matéria que a citação do devedor será feita pelo correio e, quando esta não for possível, por oficial de Justiça ou edital.
+Assim, a Lei n. 6.830/1980 – que por ser específica deve prevalecer sobre a norma geral invocada (artigo 256 do CPC) – não prevê que à adoção da citação via edital faz-se imprescindível exaurir todos os meios disponíveis para localização de outro endereço das executadas.
+Aliás, o Superior Tribunal de Justiça, no enunciado sumular n. 414, consolidou o entendimento de que “a citação por edital na execução fiscal é cabível quando frustradas as demais modalidades”.
+Vale dizer, “na execução fiscal, a citação por edital pode ocorrer depois de frustradas as diligências realizadas por carta e por mandado a ser cumprido por oficial de justiça, nos termos do art. 8o da Lei no 6.830/80, como ocorreu no caso em comento, não havendo que falar em nulidade nesse ponto” (N.U. 1020669-79.2020.8.11.0000, Rel. Des. Mario Roberto Kono de Oliveira, Segunda Câmara de Direito Público e Coletivo, Julgado em 24/11/2020, Publicado no DJE 06/12/2020).
+Por fim, em relação a almejada condenação do agravado nas verbas sucumbenciais, com a devida fixação de honorários justos em prol da recorrente Defensoria Pública Do Estado de Mato Grosso, de acordo com entendimento pacífico do Superior Tribunal de Justiça, não são cabíveis honorários advocatícios quando a atuação da Defensoria Pública do Estado se verifica contra a pessoa jurídica de direito público da qual ela é parte integrante.
+Confira-se, mutatis mutandis:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RECURSO ESPECIAL PARCIALMENTE PROVIDO. ART. 1.025 DO CÓDIGO DE PROCESSO CIVIL. HONORÁRIOS. DEFENSÓRIA PÚBLICA. MATÉRIA CONSTITUCIONAL. AUSÊNCIA. SÚMULA N. 421 DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIA.
+ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4o, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I – (...)
+III - A análise do cabimento da fixação de honorários advocatícios não implica em interpretação de normas constitucionais, porquanto o acórdão recorrido está em confronto com orientação desta Corte, segundo a qual são devidos honorários advocatícios à Defensoria Pública quando a atuação se dá em face de ente federativo diverso do qual pertença, consoante entendimento sumulado no enunciado n. 421 desta Corte.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4o, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp 1644456/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 12/12/2017, DJe 15/12/2017).
+A matéria, inclusive, resta sumulada pelo Tribunal da Cidadania no verbete 421, cujo teor é o seguinte, verbis:
+“Os honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra a pessoa jurídica de direito público à qual pertença”.
+Destarte, evidente o descabimento dos honorários advocatícios neste caso, o mesmo ocorrendo, consoante entendimento firmado por esta Corte após o advento da EC no 80/2014, que alterou o art. 134 da Constituição Federal, quando a Defensoria Pública atua contra ente diverso ao que pertence, pois referida norma lhe conferiu, ressalvadas as peculiaridades de cada qual, as mesmas prerrogativas da Magistratura e do Ministério Público.
+Logo, seja em relação ao ente estadual, seja ao ente municipal, não mais é possível a condenação de honorários advocatícios em favor da Defensoria Pública, devendo esta prestar a sua função institucional de forma integral e gratuita.
+A propósito, veja-se o trecho do seguinte julgado deste Tribunal de Justiça, verbis:
+“(...) Conforme o entendimento desta Primeira Câmara de Direito Público e Coletivo, a Defensoria Pública não mais faz jus ao recebimento de honorários advocatícios, seja quando atua contra a pessoa jurídica de direito público a que pertença, seja quando o faz em relação a ente federativo diverso, devendo prestar sua função institucional de forma integral e gratuita, ante sua equiparação à Magistratura e ao Ministério Público. (Apelação / Remessa Necessária 20824/2018, DES. MÁRCIO VIDAL, PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 15/10/2018, Publicado no DJE 23/10/2018)”.
+Assim, a princípio, não se verificando, em sede de cognição sumária, a presença dos pressupostos autorizadores da medida de urgência, a decisão proferida pelo juízo a quo deve ser mantida até o julgamento final deste agravo.
+Ante o exposto, indefiro o pedido de concessão de efeito suspensivo.
+Intime-se o agravado para apresentar contrarrazões, facultando-lhe a juntada da documentação que entender necessária para o julgamento do recurso.
+Dispensada vista à PGJ, a teor da Súmula 189 do STJ.
+Intime-se.
+Cumpra-se.
+Cuiabá, 18 de junho de 2021.
+Alexandre Elias Filho
+Relator Convocado
