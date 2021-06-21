@@ -1,0 +1,38 @@
+DECISÃO:
+EMENTA: Processo penal. Recurso ordinário em habeas corpus. Lavagem de dinheiro, tráfico e associação para o tráfico de drogas. Absolvição. Fatos e provas. Dosimetria da pena. Causa especial de diminuição de pena. Inaplicabilidade. Jurisprudência do Supremo Tribunal Federal.
+    1.  Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. LAVAGEM DE DINHEIRO, TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. CONFISSÃO ESPONTÂNEA. TEMA NÃO DEBATIDO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. PEDIDO DE ABSOLVIÇÃO DOS DELITOS DE ASSOCIAÇÃO PARA O TRÁFICO E LAGAVEM DE DINHEIRO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. RÉ CONDENADA PELO ART. 35 DA LEI DE DROGAS. RECURSO DESPROVIDO.
+    1. A tese de que a agravante faz jus à atenuante da confissão espontânea deixou de ser objeto de exame pelo Tribunal de origem, o que impede o conhecimento do tema diretamente por este Tribunal Superior, sob pena de indevida supressão de instância.
+    2. A instância ordinária, mediante valoração do acervo probatório produzido nos autos, entendeu, de forma fundamentada, existir elementos suficientes da estabilidade e da permanência entre a agravante e o corréu no reiterado comércio ilícito de drogas, bem como da ocorrência do delito de lavagem de dinheiro, sendo inviável nesta célere via do habeas corpus, que exige prova pré-constituída, pretender conclusão diversa.
+    3. A condenação pelo delito de associação para o tráfico de drogas obsta a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, conforme reiterada jurisprudência desta Corte.
+    4. Agravo desprovido.”
+    2. Extrai-se dos autos que a paciente foi condenada pela prática dos crimes previstos no art. 33, c/c o art. 40, III, no art. 35 da Lei 11.343/2006 e no art. 1º, § 1º, III, da Lei 9.613/1998, à pena total de 13 anos 3 meses e 15 dias de reclusão, em regime inicial fechado, sendo-lhe negado o apelo em liberdade. Interposta apelação pela defesa, o Tribunal estadual negou provimento ao recurso.
+    3. Na sequência, houve a impetração de habeas corpus no Superior Tribunal de Justiça (STJ). O Relator do HC 646.337, Min. Ribeiro Dantas, não conheceu do writ. Interposto agravo regimental, o recurso foi desprovido.
+    4. Neste recurso ordinário, a defesa a sustenta que:
+          (i) “não demonstrado que o vínculo da recorrente ao namorado/companheiro ultrapassava os limites do relacionamento amoroso e às chantagens a que esta vez ou outra chegou ceder, e visava a participação habitual, estável e permanente à prática de crimes relativos ao tráfico de entorpecentes, de rigor a sua absolvição do delito previsto no artigo 35 da Lei 11.343/06 como medida de direito”;
+          (ii) “sem a demonstração de referido dolo, extremamente necessário à configuração do delito, vê-se duvidosa a atribuição da conduta típica prevista no artigo artigo o 1º, parágrafo 1º, inciso III da Lei 9.613/98”;
+          (iii) “ante a necessidade de absolvição do delito de associação ao tráfico, bem como diante do preenchimento dos demais requisitos legais, aguarda-se, na terceira fase da dosimetria, a aplicação do redutor previsto no artigo 33, parágrafo 4º, da Lei 11.343/06, bem como a readequação do regime inicial, em atenção ao regramento contido no artigo 33, parágrafo 2º, do Código”.
+    5. Decido.
+    6. O recurso não deve ser provido.
+    7. A orientação do Supremo Tribunal Federal (STF) é no sentido de que “o habeas corpus não é, considerado o seu rito estreito, a via processual adequada ao reexame de fatos e provas para chegar-se à absolvição” (HC 107.550, Rel. Min. Luiz Fux). No mesmo sentido: HC 124.479, Rel. Min. Luiz Fux; RHC 122.183 e HC 122.436, Rel. Min. Dias Toffoli). Ainda nessa linha, veja-se o HC 112.768-AgR, Relª. Minª. Rosa Weber.
+    8. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. De modo que a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    9. Ademais, a jurisprudência do STF é firme no sentido de que a “condenação pela associação ao tráfico ilícito de drogas (art. 35 da Lei 11.343/2006), por si só, impede a aplicação daquela causa especial de diminuição de pena (vide RHC 128.452/MS, Rel. Min. Dias Toffoli; HC 110.652/GO, Rel. Min. Teori Zavascki; e HC 121.724/SP, Rel. Min. Gilmar Mendes)” (HC 184.381, Rel. Min. Ricardo Lewandowski).
+    10. A decisão recorrida não divergiu dessas orientações. Vejam-se as seguintes passagens do voto condutor do acórdão proferido pelo Superior Tribunal de Justiça:
+    “[...]
+    A pretensão recursal não merece êxito, uma vez que a defesa não apresentou fundamentos capazes de modificar o entendimento anteriormente adotado.
+    Dessa forma, mantenho a decisão agravada a seguir transcrita, por seus próprios fundamentos:
+    […]
+    Quanto ao pedido de absolvição pelos delitos de associação para o tráfico e lavagem de dinheiro, razão não assiste à defesa. Na hipótese, observa-se que a condenação está amparada no laudo de degravação das conversas telefônicas interceptadas e na prova oral colhida ao longo da instrução criminal (mídia).
+    Segundo se infere, foram apreendidas com a paciente 6 sacos plásticos de cocaína (1.278,6g) e 5 pedras de crack (457,8g), bem como balanças de precisão e o celular com o qual ela mantinha contato com o corréu Ewerton.
+    Conforme ressaltado pelo Tribunal de origem, restou ‘evidente o animus associativo, com estabilidade e permanência, e não de forma meramente ocasional, ficando claro através das investigações policiais a atuação de Ewerton, que comandava de dentro do presídio por meio de ligações telefônicas a venda de drogas, os depósitos e as retiradas de dinheiro em conta bancária em nome de Luciana, que, por sua vez, executava as tarefas a mando do namorado.’ (e-STJ, fl. 733)
+    Dessa forma, concluído pelas instâncias ordinárias, em decisão motivada, existir elementos suficientes da estabilidade e da permanência da paciente e do corréu no reiterado comércio ilícito de drogas, bem como da ocorrência do delito de lavagem de dinheiro, a alteração desse entendimento é inadmissível na via eleita, uma vez que exige o reexame do conteúdo fático probatório.
+    […]
+    Em relação ao pedido de reconhecimento do tráfico privilegiado, mais uma vez não assiste razão à defesa. Condenada a paciente pelo crime de associação para o tráfico de entorpecentes, é incabível a aplicação do redutor por ausência de preenchimento dos requisitos legais.
+    […]
+    Por fim, consigne-se que mantido o quantum da sanção corporal imposta em patamar superior a 8 anos de reclusão, é incabível a alteração do regime prisional para o aberto ou o semiaberto e a substituição da pena privativa de liberdade por restritivas de direitos, a teor dos arts. 33, § 2º, ‘a’, e 44, I, ambos do CP.
+    […].”
+    11. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+      Publique-se.
+          Brasília, 21 de junho de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
