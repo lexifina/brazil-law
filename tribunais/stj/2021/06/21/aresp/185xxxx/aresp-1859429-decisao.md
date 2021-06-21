@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042, CPC/15), interposto por ERBE INCORPORADORA S.A. e OUTRO, em face de decisão que inadmitiu o recurso especial dainsurgente.
+O apelo extremo, manejado com amparo na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 610-611, e-STJ):
+APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO DA ENTREGA DO IMÓVEL. SENTENÇA DE PARCIAL PROCEDÊNCIA DOS PEDIDOS.IRRESIGNAÇÃO DE AMBAS AS PARTES.
+1. Legitimidade passiva da ré Brookfield Incorporações S/A.
+Os réus são empresas pertencentes a um mesmo grupo econômico e, assim, são solidariamente responsáveis por eventuais danos causados aos compradores Em transações imobiliárias como a dos autos, construtoras, incorporadoras e corretoras estão coligadas e interessadas na venda de unidades imobiliárias. Inteligência do contido no art. 7º, parágrafo único, do CDC.
+2. Os motivos alegados na peça de defesa a justificar o descumprimento do prazo contratual para entrega do bem fazem parte do chamado risco do empreendimento, caracterizando o que se denomina na doutrina de fortuito interno, que não tem o condão de romper o nexo causal.
+3. Computado o prazo de tolerância, a unidade somente foi entregue 29 meses após a data prevista. Falha na prestação do serviço configurada.
+4. O que define a responsabilidade pelo pagamento das obrigações condominiais é a efetiva imissão na posse do imóvel, momento no qual o comprador ou proprietário passa a exercer o domínio direto sobre o imóvel, usufruindo dos serviços prestados pelo condomínio, fato que justifica a contribuição. A parte ré é responsável pelo pagamento das cotas condominiais vencidas antes da entrega das chaves.
+5. Convencionando as partes o pagamento de indenização pelo atraso na entrega do imóvel, com quitação até março de 2014, resta vedado aos autores vindicar quantias oriundas da referida multa incidente em data pretérita a emissão do termo.
+6. Prova colacionada aos autos a demonstrar que o valor estipulado ficou aquém do prejuízo suportado pelos demandantes, haja vista a prorrogação da mora até maio/2015.
+Os embargos de declaração foram rejeitados (fls. 651-662, e-STJ).
+Nas razões do recurso especial (fls. 664-675, e-STJ), a insurgente aponta violação aos arts. 421, 482 e 1.225do CC, aduzindo que a demora na conclusão da obra se deu por fatos alheios à vontade darecorrente e, ademais, por se tratar de obrigaçãopropter rem, é de responsabilidade dos adquirentes o pagamento do IPTU e das taxas condominiais.
+Foram apresentadas contrarrazões (fls. 711-723, e-STJ).
+Em juízo de admissibilidade, o Tribunal a quo negou seguimento ao recurso especial (fls. 726-732, e-STJ), dando ensejo a interposição do presente agravo (fls.754-760, e-STJ).
+Foi apresentada contraminuta (fls. 780-787, e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Alega a agravante ofensa aos arts.421 e 482 do CC, aduzindoque a demora na conclusão da obra se deu por fatos alheios à vontade darecorrente.Denota- se que o acórdão recorrido utilizou como razão de decidir os seguintes fundamentos (fl. 622, e- STJ - grifou-se):
+Desse modo, restou incontroverso nos autos que o prazo final para entrega do imóvel objeto da lide era dezembro/2012. Todavia, observa-se que as chaves somente foram entregues em maio/2015 (indexador 90).
+Nesse ponto, cumpre ressaltar que não prospera a tese defensiva acerca de caso fortuito ou força maior em razão da ausência de mão de obra e de fortes chuvas, pois em se tratando de empresa construtora/incorporadora, os motivos alegados na peça de defesa a justificar o descumprimento do prazo contratual para entrega do bem fazem parte do chamado risco do empreendimento, caracterizando o que se denomina na doutrina de fortuito interno, que não tem o condão de romper o nexo causal.
+Assim, o acórdão recorrido utilizou, como razão de decidir, ofundamento da aplicação da teoria de fortuito interno, argumento estesuficientepara manutenção do decisum, oqualnão foirebatidonas razões do recurso especial.
+Deste modo, a subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado no ponto, impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, in verbis: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". Precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ATRASO NA ENTREGA DO IMÓVEL. LUCROS CESSANTES. FUNDAMENTO INATACADO. MORA DO COMPRADOR. SÚMULA 283 E 284 DO STF. MATÉRIA QUE DEMANDA REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".  ..  3. Agravo interno não provido. (AgInt nos EDcl no AREsp 874.193/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/09/2016, Dje 08/09/2016)  grifou- se  PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.  ..  EXISTÊNCIA DE FUNDAMENTO NÃO ATACADO NO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA Nº 283 DO STF.  ..  5. A existência de fundamento inatacado no julgado, suficiente para manter a decisão, atrai o óbice contido na Súmula nº 283 do STJ, aplicável por analogia. 6. Agravo regimental não provido. (AgRg no AREsp 719.286/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TU RMA, julgado em 14/06/2016, Dje 21/06/2016)  grifou-se .
+Incide, portanto, o teor da Súmula 283 do STF.
+2. Ademais, "Segundo a jurisprudência do STJ, as despesas de condomínio e IPTU são de responsabilidade da construtora até a entrega do imóvel ao adquirente.Isso porque, apesar de o IPTU ter como fato gerador a propriedade, o domínio útil ou a posse do imóvel (CTN, art. 32), se os recorridos não deram causa para o não recebimento do imóvel, não podem ser obrigados a pagar as despesas condominiais nem o citado imposto referente ao período em que não haviam sido imitidos na posse." (AgInt no REsp 1697414/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 15/12/2017).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS. ATRASO. INDENIZAÇÃO. DESPESAS CONDOMINIAIS. POSSE.
+IMÓVEL. PREVISÃO CONTRATUAL. SÚMULAS NºS 5 E 7/STJ. VALOR DA INDENIZAÇÃO. INOVAÇÃO RECURSAL.
+ ..  3. A jurisprudência desta Corte de Justiça é no sentido de que o promitente comprador passa a ser responsável pelo pagamento das despesas condominiais a partir da entrega das chaves, tendo em vista ser o momento em que tem a posse do imóvel.
+ ..  (AgRg no AREsp 693.206/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/03/2018, DJe 22/03/2018)
+No caso, o Tribunal de origem assim concluiu (fl. 627, e-STJ):
+No que se refere à responsabilidade pelo pagamento das cotas condominiais vencidas nos meses anteriores à imissão na posse do imóvel dos autores, não assiste razão aos réus.
+Com efeito, o que define a responsabilidade pelo pagamento das obrigações condominiais é a efetiva imissão na posse do imóvel, momento no qual o comprador ou proprietário passa a exercer o domínio direto sobre o imóvel, usufruindo dos serviços prestados pelo condomínio, fato que justifica a contribuição.
+Portanto, considerando que a parte autora recebeu as chaves da casa em maio/2015, a parte ré é a responsável pelo pagamento das cotas condominiais vencidas até abril/2015.
+Dessa forma, constata-se que o acórdão recorrido também nesse ponto está em consonância com a jurisprudência dessa Casa, o que atrai a incidência da Súmula 83 do STJ.
+3. Do exposto, nego provimento ao agravo. Com base no art. 85, § 11, do CPC/2015, majoro em 2% (dois por cento) o valor dos honorários recursais (fl. 635, e-STJ), totalizando em 12% (doze por cento) o percentual da verba .
+Publique-se.
+Intimem-se.
