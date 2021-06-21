@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por LUIS GUSTAVO CARVALHO DE ARAUJO PEREIRA contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. SEGURO DESEMPREGO. PEDIDO INDEFERIDO EM SEDE RECURSAL. AGRAVO INTERNO DA PARTE AUTORA. DESPROVIMENTO. COMPROVADO O RECOLHIMENTO DE CONTRIBUIÇÕES PREVIDENCIÁRIAS AO RGPS APÓS A DEMISSÃO SEM JUSTA CAUSA. ABERTURA DE EMPRESA INDIVIDUAL. JULGADO MANTIDO. RECURSO DESPROVIDO.
+1. Agravo interno manejado pela parte autora visando a liberação das parcelas do seguro-desemprego decorrente de sua demissão sem justa causa.
+2.Indeferimento do pedido declarado em sede recursal, tendo em vista a existência de empresa individual ativa em nome do autor já à época de sua dispensa, inclusive, com o recolhimento de contribuições previdenciárias em período posterior à sua demissão sem justa causa.
+3. O contribuinte individual é tido como segurado obrigatório do RGPS, logo, o recolhimento de contribuições previdenciárias decorre da aplicação de alíquota sobre o rendimento auferido, independentemente da emissão de nota fiscal.
+4. A percepção de renda própria inviabiliza o concomitante recebimento de seguro-desemprego, nos termos definidos pelo art. 3º, inc. V, da Lei n.º 7.998/90.
+5. Agravo interno da parte autora desprovido.
+O recorrente aponta divergência de interpretação jurisprudencial relativa ao art. 3º, § 4º, Lei n. 7.998/90 no que concerne à possibilidade de concessão do seguro desemprego, in casu, trazendo os seguintes argumentos:
+Dessa forma, o v. Acórdão deve ser reformando para que se amolde a jurisprudência pátria, inclusive a adotada pelas demais turmas do mesmo Tribunal Regional Federal da 3ª Região, por tratar-se de matéria pacificada até em âmbito administrativo com a CIRCULAR 12, de 04 abril de 2019 que orienta a concessão administrativa de seguro desemprego para quem possui MEI. (fls. 181)
+Por todo o exposto, o Recorrente espera que seu recurso seja admitido, conhecido e provido para REFORMAR o v. Acordão combatido, para conceder manter a sentença de piso pelos seus próprios fundamentos, reconhecendo o direito do recorrente ao Seguro Desemprego, ante ao fato que ter um MEI não é suficiente para que seja presumida uma renda, inclusive, comprovou com as declarações que sequer foram emitidas notas fiscais (fl. 182).
+É, no essencial, o relatório. Decido.
+Na espécie, verifica-se que tanto o agravo interno e quanto o recurso especial foram interpostos no dia 10/9/2019, respectivamente, às 11h52 e às 11h56, contra decisão monocrática proferida pelo Tribunal a quo (fls. 147-151).
+Conforme jurisprudência pacífica, é vedada a interposição simultânea de dois recursos contra o mesmo ato judicial, em razão do princípio da unirrecorribilidade e da ocorrência da preclusão consumativa.
+Ademais, o STJ, com base na Súmula n. 281 do STF, aplicável também aos recursos especiais, pacificou o entendimento de que é necessário que a parte interponha todos os recursos ordinários no Tribunal de origem antes de buscar a instância especial, ou seja, a apresentação de recurso especial pressupõe o julgamento de questão controvertida pelo órgão colegiado de origem.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
