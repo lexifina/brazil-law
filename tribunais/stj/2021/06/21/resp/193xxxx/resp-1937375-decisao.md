@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especialinterposto por ANTÔNIO CARLOS VASCONCELOS COSTA e JOSÉ MAGELA DA COSTA, com amparonasalíneas "a" e "c" do permissivo constitucional, desafiando acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais, assim sintetizado (fls. 340-349, e-STJ):
+EMENTA: AGRAVO DE INSTRUMENTO -CUMPRIMENTO DE SENTENÇA -DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA -MEDIDA EXCEPCIONAL -DESVIO DE FINALIDADE OU CONFUSÃO PATRIMONIAL -AUSÊNCIA DE COMPROVAÇÃO - INDEFERIMENTO. O instituto da desconsideração da personalidade jurídica trata-se de medida excepcional, cabível somente quando caracterizada prática abusiva da pessoa jurídica, por desvio de finalidade ou pela confusão patrimonial. Conforme entendimento jurisprudencial majoritário, a dissolução irregular da sociedade, por si só, não é causa para o deferimento do pedido de desconsideração da personalidade jurídica se não demonstrados os demais requisitos justificadores do provimento e sua necessidade.
+Opostos embargos declaratórios, foram estes rejeitados, nos termos do aresto de fls. 367-372(e-STJ).
+Em suas razões de recurso especial (fls. 376/385, e-STJ), osrecorrentes apontam ofensa aos arts. 7º, 70, 98, 320, 485, §1º, 489, §1º, inciso IV, e 1.022, inciso II, do Código de Processo Civil e artigo 51, §3º, do Código Civil.
+Sustentam, em síntese: a) negativa de prestação jurisdicional; b) que a empresa executada, da qual os ora recorridoseram sócios, não existe mais desde 23/10/2018, implicando na impossibilidade da prática de atos expropriatórios; c) necessidade de intimação pessoal para sanar vício de representação; d) nulidade do processo que deu origem ao título judicial exequendo; e) ausência de documentos necessários para a propositura do cumprimento de sentença; f) que não houve a demonstração, por parte da executada, de sua hipossuficiência financeira.
+Contrarrazões às fls. 396-402, e-STJ.
+Após decisão de admissão do recurso especial (fls. 424-427, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Nos termos do art. 996, caput, do CPC/2015, "o recurso pode ser interposto pela parte vencida, pelo terceiro prejudicado e pelo Ministério Público, como parte ou como fiscal da ordem jurídica".
+Contudo, a legitimidade do terceiro para a interposição de recurso exige que seja demonstrada "a possibilidade de a decisão sobre a relação jurídica submetida à apreciação judicial atingir direito de que se afirme titular ou que possa discutir em juízo como substituto processual" (CPC/2015, art. 996, parágrafo único).
+Efetivamente, na linha da jurisprudência do Superior Tribunal de Justiça, o recurso de terceiro prejudicado está condicionado à demonstração de prejuízo jurídico da decisão judicial, e não somente de prejuízo econômico, ou seja, deve existir nexo de interdependência entre o interesse do terceiro e a relação jurídica submetida à apreciação judicial.
+Nesse sentido:
+ADMINISTRATIVO. RECURSO ESPECIAL. SERVIÇO DE TRANSPORTE PÚBLICO DE PASSAGEIROS. RECURSO DA TRANSBRASILIANA TRANSPORTE E TURISMO LTDA.: TERCEIRO PREJUDICADO. INTERESSE JURÍDICO NÃO DEMONSTRADO. ILEGITIMIDADE RECURSAL.
+1. Por força do artigo 499, § 1º, do CPC, o recurso de terceiro prejudicado está condicionado à demonstração de prejuízo jurídico da decisão judicial, e não somente do prejuízo econômico, como ocorre no caso dos autos. Precedentes: REsp 362.112/MG, Rel. Ministro Paulo Gallotti, Sexta Turma, DJ 7.5.2007; REsp 740.957/RJ, Rel. Min. Castro Filho, Terceira Turma, DJ de 7.11.2005; AgRg no REsp 782.360/RJ, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, DJe 07/12/2009; REsp 762.093/RJ, Rel. Min. Luiz Fux, Primeira Turma, DJe 18/06/2008; EDcl na MC 16.286/MA, Rel. Min. João Otávio Noronha, Quarta Turma, DJe 19/10/2010; e REsp 661.122/PR, Rel. Min. Herman Benjamin, Rel. p/ Acórdão Min. Eliana Calmon, Segunda Turma, DJe 11/11/2009.
+2. Recurso especial não conhecido.(REsp 1.264.953/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 03/03/2015, DJe de 12/03/2015)
+PROCESSUAL CIVIL - RECURSO ESPECIAL - EMBARGOS DE DECLARAÇÃO OPOSTOS POR TERCEIRO ESTRANHO À LIDE - NÃO INTERRUPÇÃO DO PRAZO - TERCEIRO PREJUDICADO - AUSÊNCIA DE INTERESSE JURÍDICO - INADMISSIBILIDADE.
+1. Não interrompe o prazo para interposição de recurso especial a oposição de embargos declaratórios por terceiro estranho ao feito, que restaram não conhecidos pelo Tribunal de origem. Recurso especial intempestivo.
+2. A intervenção do terceiro prejudicado no feito somente se admite caso haja prejuízo jurídico e não econômico, como sustentado no recurso especial. Recurso especial não conhecido.
+3. Ainda que superados tais óbices, restam inviáveis os recursos especiais, ambos idênticos, pois inexiste violação do art. 535 do CPC, a um dos recorrentes por não haver oposto embargos declaratórios, ao outro, por não estar o Tribunal de origem obrigado a se manifestar acerca de recurso oposto por parte estranha ao feito.
+4. Quanto às demais teses apresentadas, incide com propriedade as Súmulas 282/STF e 7/STJ.
+5. Recursos especiais não conhecidos."(REsp 919.427/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 17/12/2013, DJe de 14/02/2014)
+No caso, verifica-se que osrecorrentes foram excluídos da lide.Confira-se o excerto da decisão do Tribunal de origem (fls. 345-347, e-STJ):
+Compulsando os autos tenho que assiste razão aos agravantes, isso porque sequer foi requerida a instauração do incidente de desconsideração da personalidade jurídica por parte do agravado, não podendo se presumir pelo mero encerramento irregular de suas atividades. O instituto da desconsideração da personalidade jurídica tratase de medida excepcional, cabível somente quando caracterizada prática abusiva da pessoa jurídica, por desvio de finalidade ou pela confusão patrimonial, possibilitando que os bens particulares dos seus sócios e administradores sejam atingidos, para satisfazer obrigações contraídas por ela, conforme preceitua o art. 50 do Código Civil:
+(..)
+Nesse sentido, tratando-se de medida excepcional, a desconsideração da personalidade jurídica deve ser analisada caso a caso, para que se verifique alguma das hipóteses legais que autorize sua aplicação. A jurisprudência majoritária é no sentido de que a mera insolvência da empresa, bem como o encerramento de suas atividades, ou a sua dissolução irregular não enseja, por si só, a aplicação da medida, em razão da impossibilidade de se presumir a ocorrência de desvio de finalidade e de confusão patrimonial.
+(..)
+Assim, em análise perfunctória dos autos, não restando demonstrada a ocorrência de desvio de finalidade ou de confusão patrimonial da empresa devedora, nos termos do que estabelece o art. 50 do Código Civil, não há que se falar em responsabilização dos sócios pelas dívidas da sociedade.
+Portanto, forçoso reconhecer a ilegitimidade recursal dosrecorrentes, impondo-se, em consequência, o não conhecimento do presente recurso. A propósito:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE PRESTAÇÃO DE CONTAS. CONTRATO DE CÂMBIO CELEBRADO POR PESSOA JURÍDICA. DEMANDA AJUIZADA PELO SÓCIO-GERENTE. ILEGITIMIDADE ATIVA "AD CAUSAM". PRINCÍPIO DA AUTONOMIA DA PESSOA JURÍDICA. PRECEDENTES.
+1. Ilegitimidade do sócio-gerente para ajuizar ação de prestação de contas relativas a contrato celebrado pela sociedade.
+2. Aplicação do princípio da autonomia da pessoa jurídica.
+3. AGRAVO REGIMENTAL DESPROVIDO. (AgRg no REsp 1554658 / SP, Rel. Min.PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/03/2016, DJe 14/03/2016)
+DIREITO CIVIL E PROCESSUAL CIVIL. COMERCIAL. CONTRATO DE LICENÇA DE USO DE MARCA. ILEGITIMIDADE ATIVA DO SÓCIO PARA POSTULAR DIREITO DECORRENTE DE PACTO CELEBRADO COM A SOCIEDADE. AUSÊNCIA DE INTERESSE JURÍDICO.
+1. A personalidade jurídica da sociedade não se confunde com a personalidade jurídica dos sócios. Assim, por constituírem pessoas distintas, distintos são também seus direitos e obrigações.
+2. Ninguém pode pleitear em nome próprio direito alheio, salvo quando autorizado por lei. Por isso, o sócio não tem legitimidade para figurar no polo ativo de demanda em que se busca indenização por prejuízos eventualmente causados à sociedade de que participa.
+3. Hipótese em que o sócio tem interesse meramente econômico, faltando-lhe interesse jurídico a defender.
+4. Recurso especial provido. Processo extinto sem julgamento de
+mérito. (REsp 1188151/AM, Rel. Min. JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 14/06/2011, DJe 12/04/2012)
+2. Do exposto, NEGO PROVIMENTO do recurso especial.
+Publique-se.Intimem-se.
