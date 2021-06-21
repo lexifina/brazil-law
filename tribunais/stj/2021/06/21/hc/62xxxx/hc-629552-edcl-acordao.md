@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. REGIME FECHADO. PEDIDO DE PRISÃO DOMICILIAR EM RAZÃO DA COVID-19. RECOMENDAÇÃO N. 62/2020 DO CONSELHONACIONAL DE JUSTIÇA. GRUPO DE RISCO. IDOSO E PORTADOR DE DOENÇA CRÔNICA. EMBARGANTE NÃO INSERIDO NA EXCEPCIONALIDADE. INTENÇÃO DE REDISCUTIR O MÉRITO DA IMPETRAÇÃO. INEXISTÊNCIA DOS VÍCIOS APONTADOS. ACOLHIMENTO PARA FINS DE PREQUESTIONAMENTO. IMPOSSIBILIDADE.
+1. Inviável a oposição dos embargos de declaração com o fim de rediscutir tese analisada e decidida pelo órgão julgador.
+2. Ficou bem claro, nas decisões vergastadas, que o pleito de prisão domiciliar para tratamento de saúde foi analisado pelas instâncias ordinárias e pela Sexta Turma do Superior Tribunal de Justiça. Além disso, nota-se que a doença de risco apresentada pelo paciente está controlada e sendo monitorada pelo juízo da execução.
+3. Com relação à Recomendação n. 62 do Conselho Nacional de Justiça afirmou-se que, embora o paciente possa ser portador de doença crônica - hipertensão e problemas respiratórios, não comprovou que esteja em situação de vulnerabilidade no ambiente prisional a justificar a excepcionalidade do direito ao benefício da prisão albergue domiciliar.
+4. Esta Corte Superior possui entendimento pacificado no sentido da impossibilidade de oposição dos embargos de declaração para fins de prequestionamento, quando não evidenciados os referidos vícios no julgado.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de embargos de declaração opostos por Armando Luiz Sobrinho ao acórdão de minha lavra, em que a Sexta Turma deste Superior Tribunal negou provimento ao agravo regimental no habeas corpus, pelos fundamentos sintetizados na seguinte ementa (fl. 120):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. REGIME FECHADO. PEDIDO DE PRISÃO DOMICILIAR EM RAZÃO DA COVID-19. RECOMENDAÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. GRUPO DE RISCO. IDOSO E PORTADOR DE HIPERTENSÃO ARTERIAL SISTÊMICA. RÉU NÃO INSERIDO NA EXCEPCIONALIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Não há dúvidas de que, ante a crise de pandemia mundialmente causada pela Covid-19 e, especialmente, a iminente gravidade do quadro nacional, intervenções e atitudes mais ousadas são demandadas das autoridades públicas, inclusive do Poder Judiciário.
+2. Entretanto, tais atitudes devem ser tomadas em conformidade com a recente Recomendação n. 62/2020 do Conselho Nacional de Justiça, que orienta os magistrados com competência para a fase de conhecimento que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, reavaliem as prisões provisórias.
+3. No caso, verificou-se que o Tribunal estadual afirmou que, até o momento, não há provas de que o agravante faça parte de grupo de risco ou não esteja recebendo o tratamento adequado. Portanto, embora possa ser idoso e portador de hipertensão arterial sistêmica, não está inserido na excepcionalidade para fazer jus ao benefício da prisão albergue domiciliar, pois não comprovou que esteja em situação de vulnerabilidade no ambiente prisional.
+4. Agravo regimental improvido.
+Nesta via, o embargante reitera as alegações da impetração em relação à prisão domiciliar.
+Aduz que o embargante é idoso e apresenta problemas respiratórios há quase dois anos.
+Requer o presente embargos de declaração acolhidos para que possa ser transferido para o regime domiciliar.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. REGIME FECHADO. PEDIDO DE PRISÃO DOMICILIAR EM RAZÃO DA COVID-19. RECOMENDAÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. GRUPO DE RISCO. IDOSO E PORTADOR DE DOENÇA CRÔNICA. EMBARGANTE NÃO INSERIDO NA EXCEPCIONALIDADE. INTENÇÃO DE REDISCUTIR O MÉRITO DA IMPETRAÇÃO. INEXISTÊNCIA DOS VÍCIOS APONTADOS. ACOLHIMENTO PARA FINS DE PREQUESTIONAMENTO. IMPOSSIBILIDADE.
+1. Inviável a oposição dos embargos de declaração com o fim de rediscutir tese analisada e decidida pelo órgão julgador.
+2. Ficou bem claro, nas decisões vergastadas, que o pleito de prisão domiciliar para tratamento de saúde foi analisado pelas instâncias ordinárias e pela Sexta Turma do Superior Tribunal de Justiça. Além disso, nota-se que a doença de risco apresentada pelo paciente está controlada e sendo monitorada pelo juízo da execução.
+3. Com relação à Recomendação n. 62 do Conselho Nacional de Justiça afirmou-se que, embora o paciente possa ser portador de doença crônica - hipertensão e problemas respiratórios, não comprovou que esteja em situação de vulnerabilidade no ambiente prisional a justificar a excepcionalidade do direito ao benefício da prisão albergue domiciliar.
+4. Esta Corte Superior possui entendimento pacificado no sentido da impossibilidade de oposição dos embargos de declaração para fins de prequestionamento, quando não evidenciados os referidos vícios no julgado.
+5. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Não obstante a opinião do embargante, ressalto ser incabível a oposição dos embargos de declaração para a rediscussão da tese jurídica analisada e aplicada pelo órgão julgador. Isso porque os embargos de declaração somente podem ser utilizados quando, na decisão embargada, houver obscuridade, contradição ou omissão acerca de ponto sobre o qual devia se pronunciar o Juiz ou o Tribunal, e não o fez, nos termos do que dispõe o art. 619 do Código de Processo Penal.
+Na hipótese, não há omissão a ser sanada.
+Ora, ficou bem claro na decisão embargada, bem como no acórdão do Tribunal a quo, que, embora não conste a expressão "problema respiratório", utilizada pelo embargante, a questão foi devidamente analisada, tanto pelo Tribunal estadual como pelo Superior Tribunal de Justiça. Além disso, nota-se que a doença de risco apresentada está controlada e sendo monitorada pelo juízo da execução (fl. 125).
+De outro lado, com relação à Recomendação n. 62 do Conselho Nacional de Justiça, afirmou-se que, embora o embargante possa ser portador de doenças crônicas, não comprovou que esteja em situação de vulnerabilidade no ambiente prisional a justificar a excepcionalidade do direito ao benefício da prisão albergue domiciliar.
+Nesse contexto, verifica-se que o embargante, na verdade, não se conforma com a conclusão alcançada, buscando, mais uma vez, rediscutir, com intuito infringente, questões já devidamente enfrentadas e decididas, providência incompatível com a via eleita.
+Como é cediço, o descontentamento com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que não se prestam para rediscutir a lide, por mais que a parte sustente insatisfação com as respostas dadas.
+Por fim, cumpre ressaltar que esta Corte Superior possui entendimento pacificado no sentido da impossibilidade de oposição dos embargos de declaração para fins de prequestionamento, quando não evidenciados vícios no julgado.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. CRIME DE DISPENSA DE LICITAÇÃO FORA DAS HIPÓTESES PREVISTAS EM LEI. ART. 89 DA LEI 8.666/93. AUSÊNCIA DE DEMONSTRAÇÃO DO DOLO ESPECÍFICO. ART. 619 DO CPP. VÍCIOS INEXISTENTES. MERA REDISCUSSÃO. DISPOSITIVOS CONSTITUCIONAIS. PREQUESTIONAMENTO. NÃO CABIMENTO. ART. 580 DO CPP. IDENTIDADE FÁTICO-PROCESSUAL. APLICABILIDADE. EMBARGOS REJEITADOS. PEDIDO DE EXTENSÃO DEFERIDO.
+1. Admite-se embargos de declaração tão somente quando evidenciada deficiência no acórdão recorrido com efetiva obscuridade, contradição, ambiguidade ou omissão, conforme o art. 619 do CPP.
+2. Existindo fundamentação reconhecendo a inépcia da denúncia, diante da ausência de demonstração do elemento subjetivo específico de dano ao erário e seu efetivo prejuízo, não se prestam os embargos declaratórios para a rediscussão do aresto recorrido quando revelado mero inconformismo com o resultado do julgamento.
+3. Não cabe a esta Corte manifestar-se, em embargos de declaração, ainda que para fins de prequestionamento, sobre suposta afronta a dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Constatado que o corréu Oscar Norio Yasuda encontra-se na mesma situação fático-processual dos recorrentes, ora embargados, impõe-se a extensão dos efeitos do acórdão embargado, nos termos do art. 580 do CPP.
+5. Embargos de declaração rejeitados, e estendidos os efeitos do acórdão proferido no recurso em habeas corpus ao corréu Oscar Norio Yasuda.
+(EDcl no RHC n. 105.014/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 29/10/2019)
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. USO DE SINAL PÚBLICO FALSIFICADO. EXECUÇÃO DA PENA RESTRITIVA DE DIREITOS. ANÁLISE DO TEMA SOB ENFOQUE CONSTITUCIONAL. INCOMPETÊNCIA DO STJ. EMBARGOS REJEITADOS.
+1. Não compete a esta Corte Superior o exame de supostas violações de dispositivos constitucionais (arts. 5º, caput, XLVI e LIV) - em razão da determinação de que a execução da pena restritiva de direitos inicie-se após o trânsito em julgado da sentença condenatória -, nem sequer para fins de prequestionamento, por ser matéria reservada à competência do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+2. Embargos rejeitados.
+(EDcl no HC n. 505.751/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 02/09/2019)
+Ante o exposto, rejeito os embargos de declaração.
