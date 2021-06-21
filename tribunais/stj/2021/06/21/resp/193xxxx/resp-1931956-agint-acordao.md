@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino (Presidente) e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. COMPETÊNCIA PARA PROCESSAMENTO E JULGAMENTO DA AÇÃO DE ADIMPLEMENTO CONTRATUAL. FORO DA SEDE DA PARTE RÉ. PRECEDENTES. PRETENSÃO CONTIDA NO APELO ESPECIAL. NÃO INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. A competência para processamento e julgamento da demanda é do foro da sede da pessoa jurídica ré, exceto nas hipóteses em que a transação tenha sido realizada especificamente com filial, agência ou sucursal.
+2. No acórdão estadual, inexistem informações que conduzam ao entendimento de que as obrigações tenham sido contraídas por filial, agência ou sucursal situada na comarca de Curitiba/PR, sendo imperiosa a declaração de competência do juízo da comarca do Rio de Janeiro/RJ para julgar a ação, por ser o local onde se encontra a sede da companhia telefônica.
+3. A conclusão pelo provimento do apelo especial interposto pela parte adversa não demandou o reexame de fatos e provas, razão pela qual não prospera a alegação de violação ao enunciado n. 7 da Súmula desta Corte Superior.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Lumina Participações e Aquisições Ltda. contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 754):
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE INCOMPETÊNCIA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. CESSÃO DE DIREITOS. COMPETÊNCIA. FORO DA SEDE DA PARTE RÉ. PRECEDENTES. 3. RECURSO ESPECIAL PROVIDO.
+Em suas razões (e-STJ, fls. 760-769), afirma ser possível concluir, da leitura do acórdão estadual, que a obrigação foi assumida por filial, em outra cidade que não a do Rio de Janeiro.
+Sustenta que o reconhecimento da competência do foro da Comarca do Rio de Janeiro/RJ é providência que demanda o reexame fático-probatório, tendo havido violação ao verbete sumular n. 7/STJ.
+Impugnação às fls. 774-791 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. COMPETÊNCIA PARA PROCESSAMENTO E JULGAMENTO DA AÇÃO DE ADIMPLEMENTO CONTRATUAL. FORO DA SEDE DA PARTE RÉ. PRECEDENTES. PRETENSÃO CONTIDA NO APELO ESPECIAL. NÃO INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. A competência para processamento e julgamento da demanda é do foro da sede da pessoa jurídica ré, exceto nas hipóteses em que a transação tenha sido realizada especificamente com filial, agência ou sucursal.
+2. No acórdão estadual, inexistem informações que conduzam ao entendimento de que as obrigações tenham sido contraídas por filial, agência ou sucursal situada na comarca de Curitiba/PR, sendo imperiosa a declaração de competência do juízo da comarca do Rio de Janeiro/RJ para julgar a ação, por ser o local onde se encontra a sede da companhia telefônica.
+3. A conclusão pelo provimento do apelo especial interposto pela parte adversa não demandou o reexame de fatos e provas, razão pela qual não prospera a alegação de violação ao enunciado n. 7 da Súmula desta Corte Superior.
+4. Agravo interno desprovido.
+VOTO
+A irresignação não merece prosperar.
+Conforme consignado na decisão agravada, o Superior Tribunal de Justiça tem se orientado, em casos similares, oriundos do próprio TJPR, no sentido de que a competência para processamento e julgamento da demanda é do foro da sede da pessoa jurídica ré, exceto nas hipóteses em que a transação tenha sido realizada especificamente com filial, agência ou sucursal.
+A título exemplificativo:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO, A FIM ACOLHER A EXCEÇÃO DE INCOMPETÊNCIA, PARA DECLARAR A COMPETÊNCIA DO FORO DA COMARCA DO RIO DE JANEIRO/RJ PARA O JULGAMENTO DA DEMANDA. IRRESIGNAÇÃO DA PARTE EXCIPIENTE/AGRAVANTE.
+1. Quanto à regra de competência aplicável ao caso dos autos, em se tratando de cessionário de contrato de participação financeira, esta Corte Superior tem entendido que se amoldam à hipótese, de maneira sistemática, a regra geral contida no art. 94 do Código de Processo Civil de 1973, que dispõe acerca da competência do foro de domicílio do réu, e o comando estabelecido no art. 100, inciso IV, alínea "a", do mesmo diploma legal, que prevê como competente o foro "do lugar onde está a sede, para a ação em que for ré a pessoa jurídica". Precedentes: AgInt nos EDcl no REsp 1632585/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/06/2017, DJe 19/06/2017; REsp 1608700/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/03/2017, DJe 31/03/2017; e REsp nº 1.632.693-PR, Rel. Min. Paulo de Tarso Sanseverino, Dje 28/06/2017.
+1.1. Assim, não havendo nos autos qualquer referência a obrigações contraídas por agência ou sucursal da recorrente situada na comarca de Curitiba/PR, impõe-se a declaração de competência de juízo da comarca do Rio de Janeiro/RJ para julgar a ação, por ser o local onde se encontra a sede da recorrente.
+2. Agravo interno desprovido.
+(AgInt no AREsp 745.605/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/02/2018, DJe 02/03/2018)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EXCEÇÃO DE INCOMPETÊNCIA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. COMPLEMENTAÇÃO DE AÇÕES. RELAÇÃO ENTRE SOCIEDADE CESSIONÁRIA DO CONTRATO E A COMPANHIA DE TELEFONIA. RECONHECIMENTO DA COMPETÊNCIA DO FORO ONDE ESTÁ LOCALIZADA A SEDE DA PESSOA JURÍDICA RÉ. AUSÊNCIA DE NOTÍCIA ACERCA DA EXISTÊNCIA DE OBRIGAÇÃO CONTRAÍDA POR FILIAL LOCALIZADA NA COMARCA DO JUÍZO EXCEPTO. EMPREGO ATÉCNICO DO TERMO "SEDE" NO ACÓRDÃO RECORRIDO. DESNECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. AFASTAMENTO DA INCIDÊNCIA DA SÚMULA 7/STJ. INDICAÇÃO DA COMPETÊNCIA DE TERCEIRO FORO QUE NÃO FOI SUSCITADO ANTERIORMENTE PELAS PARTES. INOVAÇÃO RECURSAL. ADEQUAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+(AgInt nos EDcl no REsp 1632693/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 12/12/2017, DJe 01/02/2018)
+No caso, tem-se que a Corte a quo concluiu que a ora agravada poderia ser demandada no foro de Curitiba/PR,conforme fundamentação abaixo colacionada (e-STJ, fl. 504):
+No tocante à competência territorial para o ajuizamento da demanda, tendo a empresa de telefonia agravada filiais estabelecidas em diversas localidades do país, revela-se possível o ajuizamento e julgamento da ação de adimplemento contratual no foro de Curitiba, nos termos dos artigos 94, § 1º, e 100, inc. IV, alíneas "b" e "d", do CPC de 1973, comportando guarida, portanto, as razões recursais expendidas nesse sentido.
+Ademais, não há qualquer prejuízo ao exercício do direito de defesa pela agravada com o trâmite da demanda perante a Comarca de Curitiba, tampouco ao cumprimento de eventual obrigação que sobrevenha com o julgamento da pretensão esposada no feito.
+Da leitura do aresto hostilizado, em especial o trecho acima transcrito, observa-se que inexistem informações que conduzam ao entendimento de que as obrigações tenham sido contraídas por filial, agência ou sucursal situada na comarca de Curitiba/PR, motivo pelo qual era imperiosa a declaração de competência do juízo da comarca do Rio de Janeiro/RJ para julgar a ação, por ser o local onde se encontra a sede da companhia telefônica ora insurgida.
+Outrossim, é certo que foi desnecessária a revisão de fatos e provas para a conclusão pelo provimento do apelo especial interposto pela parte adversa,não prosperando, portanto, a alegação de violação ao enunciado n. 7 da Súmula desta Corte Superior.
+Com efeito, a informação de que a sede da companhia se encontra atualmente no Rio de Janeiro/RJ pode ser extraída da deliberação da primeira instância que determinou a remessa do processo àquela comarca - peça processual que não se assemelha à prova.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
