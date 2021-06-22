@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por NAIR PIRES DE QUADROS com respaldonas alíneas "a" e "c"do permissivo constitucionalcontra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOassim ementado (e-STJ fl. 365):
+PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. IDOSO. RISCO SOCIAL. CONCESSÃO.
+Não comprovado o risco social, é indevida a concessão do benefício assistencial.
+Embargos de declaração rejeitados (e-STJ fls. 378/384).
+Em suas razões, a recorrente aponta violaçãodos arts.464, 479,489, § 1º, IV e VI, e 1.022, todos do CPC/2015 e doart. 20, caput e parágrafo único, da Lei n. 8.742/1993, postulando a anulação do julgado, visto que o Tribunal incorreu em omissão em insuficiência de fundamentaçãosobre:
+(i) a existência detrês laudos sociais produzidos em seu favor;
+(ii) a não inclusão das rendas do marido idoso e do filho no cálculo da renda mensal familiar, conforme jurisprudência do STJ, firmada no julgamento repetitivo proferido no REsp n. 1.355.052, a respeito da composição da renda familiar para efeito de concessão do benefício assistencial; e
+(ii) a necessidade de análise da situação da autora ao longo dos anos detramitação entre a concessão do benefício e a sua reforma pelo tribunal de origem, postulando que as provas produzidas sejam "analisadas e ponderadas se não para conceder o benefício hoje, ao menos para garanti-lo no período anterior ao último estudo social" (e-STJ fl. 395).
+Sem contrarrazões (e-STJ fl. 412).Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 413.
+Passo a decidir.
+Verifico que a pretensão recursal nãomerece prosperar.
+Em relação à alegada ofensa dos arts.489 e 1.022 do CPC/2015, cumpre destacar que, ainda que arecorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação.
+No caso, o Tribunal de origem assentou que a inclusão da renda mensal do marido da requerente dobenefício assistencial foi determinada por decisão do STJ, in verbis (e-STJ fls. 360/361):
+Do Benefício Assistencial
+O caso em comento merece peculiar atenção, uma vez que é inviável aplicar o atual entendimento desta 6ª Turma acerca da forma como deve ser aferida a renda familiar, visto que, interposto recurso especial pelo INSS, o Superior Tribunal de Justiça-STJ deu parcial provimento ao recurso, determinando o retorno dos autos à origem para a inclusão do benefício previdenciário recebido pelo cônjuge da autora no cômputo da renda familiar.
+ ..
+Contudo, limitada à determinação do Superior Tribunal de Justiça-STJ, forçoso reapreciar a renda familiar considerando o esposo da demandante, bem como o benefício por ele percebido. (Grifos no original).
+E, dando sequência ao exame da controvérsia, o Tribunal Regionalconsignou as razões para fundamentar a improcedência do pedido nos seguintes termos(e-STJ fls. 361/362):
+Destaco que a condição de idoso da parte autora é incontroversa, consoante documento de identidade anexado aos autos (fls. 08 - 08/04/1939). O laudo socioeconômico (fls. 207 a 210) demonstra que a parte autora (74 anos) reside com o esposo (75 anos) e 01 filho (34 anos) em casa própria, de madeira com 08 cômodos, em boas condições de habitabilidade. Equipada com mobiliário em bom estado, o qual atende às necessidades da família, possuindo os seguintes eletrodomésticos: 01 televisor de tela plana de 42polegadas, 01 antena parabólica, 01 geladeira frost free, 01 fogão elétrico, 01forno de microondas e 01 fogão a gás. São referidos gastos com medicação no valor de R$ 100,00 e consultas médicas no valor de R$ 300,00. A requerente declarou que a municipalidade paga metade das despesas com médicos e também com exames de saúde.
+O laudo também informa que a renda familiar declarada provém dos ganhos do filho, no valor de alegado de R$ 700,00, bem como do esposo, que recebe salário mínimo. Neste contexto, considerando a existência de renda em torno de dois salários mínimos para um grupo composto por ter pessoas, tenho que não está demonstrada uma situação de risco social, merecendo observar que uma família efetivamente necessitada de benefício assistencial, não tem condições econômicas de arcar com eletrodomésticos dispendiosos, e, muito menos, possuir gastos mensais relativos a consultas médicas particulares no valor de R$ 150,00. Ademais, ressalto o consignado no estudo, às fls. 299, que:
+Com parte do valor que alega merecer, pretende (a autora) realizar reformas na moradia. (Grifei)
+Veja-se que não se nega as dificuldades financeiras, contudo a teleologia da LOAS não é proteger aqueles que, embora com dificuldades, conseguem se manter razoavelmente. O benefício assistencial não se presta à complementação de renda familiar, é quantia indispensável ao sustento, muitas vezes até necessária ao suprimento alimentar de uma família, o que no caso em tela, não se verifica.
+Logo, inexistente a situação de risco social, o recurso do INSS e a remessa oficial merecem provimento para julgar improcedente o pedido.
+Com efeito, não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+Ante o exposto, com base no art. 255, § 4º, II, do RISTJ, NEGO PROVIMENTO ao recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
