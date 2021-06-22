@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de recurso especial interposto por VERO EMPREENDIMENTOS LTDA, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso Especial interposto em: 11/08/2020.
+Concluso para o gabinete em: 15/12/2020.
+Ação: de rescisão contratual c/c pedido de devolução de quantias pagas, ajuizada por TERESINHA MARIA DE MAGALHAES, em face da recorrente, em razão de celebração entre as partes de contrato de promessa de compra e venda de imóvel. Afirma a demandante que não pôde dar continuidade com o pagamento do que fora negociado, tendo em vista não ter conseguido o financiamento, em instituição financeira, para a aquisição do bem objeto desta ação.
+Sentença: julgou parcialmente procedentes os pedidos, para determinar a devolução dos valores pagos, com a retenção de 10% a título de multa contratual.
+Acórdão: deu parcial provimento à apelação interposta pela recorrente, para fixar o termo dos juros de mora a partir do trânsito em julgado, nos termos da seguinte ementa:
+Apelação - Ação de rescisão de contrato de promessa de compra e venda de imóvel e pedido de restituição de valores - Prazo prescricional de 10 anos - Prescrição afastada - Percentual da retenção de valores, em caso de inadimplemento pelo promitente comprador, do contrato de promessa de compra e venda de imóvel, entre os índices de 10% a 25% da quantia total paga, conforme é a orientação jurisprudencial do STJ - Comissão de corretagem e compra e venda feita direta no stand de vendas da promitente vendedora - Cobrança da comissão de corretagem afastada - Início dos juros de mora dos valores a serem restituídos a partir do trânsito em julgado e não da citação - Apelação parcialmente provida - Sentença reformada em parte.
+É de 10 anos, conforme a jurisprudência do STJ (AgInt no Resp 1544768/DF) e não de 03 anos, o prazo da prescrição da pretensão e restituição de valores decorrentes de rescisão e contrato de compra e venda de imóvel.
+Conforme a jurisprudência do STJ, a retenção de valores decorrente de inadimplemento contratual pelo promitente comprador, do contrato de promessa de compra e venda de imóvel, flutua entre os percentuais de 10% a 25% do total da quantia paga.
+É de ser afastada a cobrança da comissão de corretagem, se a promessa de venda foi feita diretamente no stand de vendas da promitente vendedora e se sequer foi dada opção de escolha da contratação do serviço de corretagem ao promitente comprador, mesmo porque se o corretor atua no interesse da promitente vendedora, dela é a obrigação e arcar com os custos do referido serviço.
+O início dos juros de mora dos valores a serem restituídos em razão de rescisão de contrato de promessa de compra e venda de imóvel se dá a partir do trânsito em julgado e não da citação. (e-STJ, fl. 216) (grifo nosso)
+Embargos de declaração: opostos pela recorrente, foram acolhidos, sem efeitos infringentes, para sanar a omissão apontada, nos termos da seguinte ementa:
+Embargos de declaração - Apelação cível - Ação de rescisão de contrato de promessa de compra e venda de imóvel e pedido de restituição de valores - Comissão de corretagem - Ausência de transparência no contrato - Inviabilidade da retenção do valor - Proposta de compra com reserva de unidade - Não demonstrada a cobrança da comissão de corretagem - Embargos de declaração providos para sanar omissão, sem atribuir efeitos infringentes.
+Os embargos de declaração não prestam à reforma do julgado, mas, tão somente, à correção de erro material ou eliminação dos vícios de contradição, omissão ou obscuridade, consoante dispõe o art. 1.022 e seguintes do Código de Processo Civil. Constatada a existência de omissão, no caso concreto, no acórdão embargado, o acolhimento dos embargos se faz necessário, sem, no entanto, impor modificação ao julgado diante do fato de que não ficou demonstrado e efetivo pagamento da comissão de corretagem pela parte embargada. (e-STJ, fls. 304/305) (grifo nosso)
+Recurso especial: alega a violação dos arts. 421, 422 e 476, todos do CC/02, bem como a existência de dissídio jurisprudencial. Sustenta:
+i) a ocorrência de violação dos princípios da função social do contrato, da probidade e da boa-fé nas relações negociais;
+ii) a ocorrência de exceção de contrato não cumprido; e
+iii) a impossibilidade de restituição à recorrida dos valores pagos por ela a título de comissão de corretagem em favor de corretor de imóveis autônomo.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 421, 422 e 476, todos do CC/02, indicados como violados, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, portanto, a Súmula 211/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusula contratual
+Alterar o decidido no acórdão impugnado, no que se refere à ausência de prestação de serviços de corretagem por profissional autônomo e desvinculado da recorrente, bem como no que tange à constatação de que - nos documentos acostados aos autos pela recorrente - não há referência aos custos e ao pagamento da aludida comissão de corretagem, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+A esse propósito, segue a transcrição de trechos do acórdão recorrido e do acórdão que julgou os embargos de declaração:
+Acórdão recorrido
+Aliás, a informação que se tem é que a compra foi feita direta no stand de vendas da promitente vendedora.
+E neste caso, a orientação é de que não há escolha ao consumidor, para optar pela contratação ou não do serviço da corretagem, se este dirige ao stand de vendas da vendedora e é atendido por corretor a ela subordinado.
+Logo, se o corretor atua no interesse da vendedora, é dela a obrigação de arcar com as despesas do serviço por ele prestado. (e-STJ, fl. 220)
+Acórdão dos embargos de declaração
+Realça-se, no contrato não consta a transferência para a autora, aqui Embargada, dos custos da verba de corretagem.
+Da mesma forma, a planilha demonstrativa de pagamento "Relatório de Resumo de Venda" não faz referência aos custos da comissão de corretagem (Id. 7999802 - págs. 11/12).
+Quanto ao documento identificado pela fl. 59 do processo físico, juntado pela parte autora, aqui Embargada (Id. 7999803 - pág. 1), que trata da "Proposta de Compra com Reserva de Unidade", tem-se que o espaço reservado aos "Serviços de Intermediação e Forma de Pagamento" está em branco, não consta o valor expresso da comissão de corretagem ou o percentual. E não há qualquer recibo de pagamento do serviço de intermediação, a fim de comprovar a ciência da autora pela cobrança dos honorários do corretor.
+Frisa-se, a demandada, aqui Embargante, não trouxe, oportunamente, documentos para comprovar a cobrança da comissão de corretagem, faz referência, nas razões do apelo, a um "print" que alega se referir ao documento de fl. 59 do processo (7999841 - pág.13). (e-STJ, fl. 313).
+- Da divergência jurisprudencial
+Constata-se, da leitura das razões do recurso especial, que quanto à alegação de dissídio jurisprudencial, a recorrente não aduz a violação a qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Ademais, a título de reforço argumentativo, ainda que fosse possível superar a aplicação da Súmula 284/STF, a falta do cotejo analítico, requisito indispensável à demonstração da divergência, inviabiliza a análise do dissídio. Necessário frisar que não basta "a mera transcrição das ementas dos julgados paradigmas, sendo este o entendimento pacífico nesta Corte de Justiça." (AgInt no AREsp 1741774/SP, 3ª Turma, DJe 07/06/2021). No mesmo sentido, conferir: AgInt no AREsp 1.726.284/AM (4ª Turma, DJe 07/06/2021).
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC/2015.
+Nos termos do art. 85, §11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15 % sobre o valor da condenação (e-STJ, fl. 229) para 18%, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO DE DEVOLUÇÃO DE QUANTIAS PAGAS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. COTEJO ANALÍTICO. AUSENTE. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de rescisão contratual c/c pedido de devolução de quantias pagas.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Alterar o decidido no acórdão impugnado, no que se refere à ausência de prestação de serviços de corretagem por profissional autônomo e desvinculado da recorrente, bem como no que tange à constatação de que - nos documentos acostados aos autos pela recorrente - não há referência aos custos e ao pagamento da aludida comissão de corretagem, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Recurso especial não conhecido, com majoração de honorários.
