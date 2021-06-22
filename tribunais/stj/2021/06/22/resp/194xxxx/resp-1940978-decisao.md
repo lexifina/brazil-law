@@ -1,0 +1,8 @@
+DECISÃO
+A questão tratada nos autos - Possibilidade de um ato administrativo, caso evidenciada a violação direta ao texto constitucional, ser anulado pela AdministraçãoPública quando decorrido o prazo decadencial previsto na Lei 9.784/1999 -teve sua Repercussão Geral admitida pelo Supremo Tribunal Federal nos autos do RE 817.338/DF, Rel. Min. Dias Toffoli- Tema 839.
+Consoante a jurisprudência desta Corte, o reconhecimento da Repercussão Geral da matéria constitucional, nos termos do art. 1.036 do CPC/2015, justifica o sobrestamento, pela instância ordinária, dos recursos especiais, que tragam em seu bojo a mesma questão jurídica a ser definida pelo STF.
+Assim, cuidando-se de recurso que versa sobre tema que teve Repercussão Geral reconhecida, posterior decisão da Suprema Corte poderá afetar o seu julgamento, sendo conveniente o sobrestamento deste recurso, em homenagem aos princípios processuais da economia e da efetividade, com a devolução dos autos ao Tribunal de origem para que seja oportunamente realizado o juízo de conformação ou seja mantido o acórdão recorrido ao que vier a ser decidido pelo Supremo Tribunal Federal, situação que representa o exaurimento da instância ordinária.
+Nesse sentido: REsp 1.486.671/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2014; AgRg no REsp 1.467.551/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 9/9/2014.
+No caso em apreço, observa-se que houve também a interposição de recursoextraordináriona origem (e-STJ fls. 500-526).
+Ante o exposto, determino a devolução dos autos ao Tribunal a quo para quesejaexercido o juízo de retratação ou declarado prejudicado orecursoextraordinário, nos termos do art. 1.040 do CPC/2015.
+Publique-se. Intimem-se.
