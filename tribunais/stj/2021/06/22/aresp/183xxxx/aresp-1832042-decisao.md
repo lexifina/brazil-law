@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por ASSOCIAÇÃO DOS PASTORES E MINISTROS DO BRASIL - ASPEM-BRASIL, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Espírito Santo assim ementado (e-STJ, fl. 172):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. SEGURO. NEGATIVA DE PAGAMENTO POR NÃO REALIZAÇÃO DE VISTORIA. DESCABIMENTO. RECURSO IMPROVIDO.
+1. O Apelado contratou a junto a Apelante contrato para cobertura de seu veiculo em caso de sinistro.
+2. Restou comprovado nos autos o pagamento dos valores ajustados, bem como a inexistência de notificação para realização de vistoria no veiculo e a ocorrência de sinistro, sendo devido o pagamento dos danos dele decorrentes.
+3. Recurso conhecido e improvido.
+No recurso especial, a recorrente apontou, além de divergência jurisprudencial, violação dos arts. 421 e 422 do Código Civil.
+Esclareceu que se opôs ao acórdão que deferiu indenização por danos materiais correspondente a 100% (cem por cento) da tabela Fipe relativa a veículo aderido à associação, ora insurgente.
+Afirmou ser incabível essa condenação, poiso contrato previa que o início da vigência do programa de proteção somente ocorreria quando da vistoria prévia do veículo associado, o que não aconteceu previamente ao sinistro.
+Firmou que o entendimento no sentido de que a referia vistoria não seria necessária para a ativação da cobertura é negar de forma incontestável vigência ao contrato, que foi considerado válido. Pleiteou o provimento do recurso especial para afastar a condenação(e-STJ, fls. 181-190).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 222-229).
+Contraminuta apresentada (e-STJ, fls. 231-251).
+Brevemente relatado, decido.
+Conforme o acórdão, o caso ensejaria relação de consumo, portanto, aplicável o CDC. Nesse contexto, firmou-se a ausência do dever de informação ao aderentede quea contratação efetivada só teria valor após a realização de vistoria; ao passo que o autor, por sua vez, comprovou a existência da cobertura e o pagamento do que fora ajustado para gozar da devida proteção o seu veículo.
+Veja-se (e-STJ, fls. 175-176):
+Pois bem, verifica-se dos autos que o Apelado adquiriu junto à Apelante, em 09/10/2011, proteção para o seu veiculo Scania placa BTR 0996 (fl. 12), o qual veio a sofrer um acidente em 17/10/2011 (fls. 20/30), gerando, para seu reparo, uma despesa de R$ 71.400,00 (setenta e um mil e quatrocentos reais  f1.31).
+Extrai-se dos documentos inerentes à contratação efetuada (fls. 10/12), a existência de uma cobertura para danos materiais de até R$ 100.000,00 (cem mil reais)."
+Conforme entendimento consolidado por esta Colenda Câmara, de forma unanime, por ocasião do julgamento do agravo de instrumento 0025709-35.2016.8.08.0048 (fls. 113/118), aplica-se ao presente caso as disposições da legislação consumerista, e não vejo razões para modificar o entendimento alcançado "na origem.
+Os documentos. constantes dos autos, e não impugnados, comprovam a contratação- da proteção, o pagamento, pelo Apelado, do que fora ajustado entre as partes, a ocorrência do acidente e os prejuízos dele decorrentes.
+Cumpre anotar que contrato de seguro é, na definição legal, aquele pelo qual urna das partes se obriga para com a outra, mediante o pagamento de um valor, a indenizá-la pelo prejuízo resultante de riscos futuros, previstos no contrato, vez que tal avença é formada a partir da promessa condicional de indenização de um valor contratado na hipótese de ocorrência do sinistro, fato aleatório, porque se vincula a evento futuro e incerto, causador do prejuízo.
+Certo é que, em momento algum a Apelante comprovou, conforme lhe competia, estar o Apelado ciente de que a contratação efetivada só teria valor após a realização de vistoria e este, por sua vez, comprovou a existência da cobertura e o pagamento do que fora ajustado para gozar da devida proteção ao seu veiculo.
+Embora, ao que se extrai dos autos, a Apelante, seja uma intermediária, não gozando das devidas autorizações para operar diretamente com seguros, situação observada, inclusive, por ocasião do julgamento do agravo (fl. 118), foi responsável por toda transação, devendo arcar com as responsabilidades ali assumidas, até porque não nega a contratação e, nem mesmo, os valores contratados, defendendo apenas que o pagamento seria indevido por ausência de vistoria no veículo o que, conforme já explicitado, é, incabível.
+ ..
+Assim, considerando que em momento algum a Apelante comprovou ter notificado o Apelado, de que o seu veículo não estaria coberto por não ter feito a alegada vistoria, e por ter recebido os valores contratados pela cobertura, é incabível sua tentativa de eximir-se da responsabilidade pelos danos decorrentes do sinistro, até porque dentro dos limites de cobertura contratados.
+Desse modo, considerando ser a realização de vistoria a única divergência deste feito, porquanto é fato incontroverso tanto a regularidade no pagamento do prêmio como a ocorrência do acidente e os prejuízos dele decorrentes, outro não poderia ser o provimento senão o sufragado pelo juiz sentenciante, não merecendo qualquer reparo.
+Dessa forma, a conclusão estadual foi fundada na apreciação de fatos, provas e termos da avença entabulada, o que atrai a aplicação das Súmulas 5 e 7/STJ, que incidem sobre ambas as alíneas do permissivo constitucional.
+Não bastasse isso, a insurgente não atacou, diretamente, as premissas de que seriam aplicáveis ao caso as disposições do CDC e, nesse sentido, não teria o recorrido sido plenamenteinformadodas limitações do contrato. Essas considerações, suficientes para a manutenção do julgado, atraem a incidência da Súmula 283/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte ora recorrida em mais 2% (dois por cento) do valor da condenação.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CONCLUSÃO NO SENTIDO DO CABIMENTO DO PAGAMENTO DA REPARAÇÃO FUNDADA EM FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7/STJ. ENTENDIMENTO NO SENTIDO DA INCIDÊNCIA DO CDC. CARÊNCIA DE CONHECIMENTO DO AUTOR ACERCA DE LIMITAÇÃO DO CONTRATO. PREMISSAS DO ARESTO INATACADAS NO RECURSO ESPECIAL. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
