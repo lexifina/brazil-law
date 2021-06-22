@@ -1,0 +1,58 @@
+DECISÃO
+Depreende-se dos autos que VITORINA HOOD CAMINHAajuizouação de indenização por danos morais contra BUNGE FERTILIZANTES S.A., tendo o Magistrado de primeiro grau julgado extintoo processo ante o reconhecimentoda prescrição.
+Interposta apelação pela autora, o Tribunal de Justiça do Estado do Rio Grande do Sul deu provimento ao recurso com vistas a afastar o decreto de prescrição e determinar o prosseguimento do feito, nos termos do acórdão assim ementado (e-STJ, fl. 731):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DANO AMBIENTAL. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA. INTERRUPÇÃO DA PRESCRIÇÃO.
+1. A AÇÃO CIVIL PÚBLICA N. 98.1002702-8/RS NÃO BENEFICIA A VÍTIMA DO DANO NO QUE DIZ RESPEITO À PRESCRIÇÃO, PORQUANTO DEBATEU EXCLUSIVAMENTE A CESSAÇÃO DO DANO, NÃO A RESPONSABILIDADE PELO DANO AMBIENTAL.
+2. JÁ A AÇÃO CIVIL PÚBLICA N. 2000.71.01.001891-1/RS, QUE TRATA EFETIVAMENTE DA RESPONSABILIDADE CIVIL POR DANO AMBIENTAL, AINDA NÃO TRANSITOU EM JULGADO, RAZÃO PELA QUAL NÃO HÁ FALAR EM IMPLEMENTAÇÃO DO PRAZO PRESCRICIONAL. PRECEDENTES. RECURSO PROVIDO. SENTENÇA DESCONSTITUÍDA.
+Os embargos de declaração opostosforam rejeitados (e-STJ, fls. 776-780).
+Inconformada, BUNGE FERTILIZANTES S.A. interpôsrecurso especial, com base no art. 105, III, a e c, da Constituição Federal, alegandoviolação aos arts. 104 do CDC; 313, V,a, 489, § 1º, IV, e 1.022, II, do CPC/2015; 189, 200 e 202 do CC, além de afirmar a existência de dissídio jurisprudencial.
+Aduziu, preliminarmente, a negativa de prestação jurisdicional por parte do acórdão recorrido, porque o julgado não analisou as alegações da recorrente sobre a impossibilidade de interrupção da prescrição no caso dos autos.
+No mérito sustentou, em suma, que a pretensão indenizatória perseguida pela parte recorrida em ação individual é distinta do direito difuso objeto da ação civil pública invocada, de modo que o ajuizamento desta, dada a falta de pertinência jurídica entre as referidas demandas, não configura causa de interrupção da prescrição.
+Argumentou, ainda, que é descabido aguardar o trânsito em julgado da ação civil pública para que se inicie o prazo prescricional da pretensão do recorrida.
+Sem contrarrazões.
+O Tribunal de origem não admitiu o processamento do recurso especial, o que levou a insurgente à interposição de agravo.
+Sem contraminuta.
+Brevemente relatado, decido.
+De início, no tocante à alegação de negativa de prestação jurisdicional, constata-se que o acórdão combatido resolveu satisfatoriamente todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, notadamente quanto aos motivos pelos quais concluiu pela interrupção da prescrição da pretensão individual em virtude do ajuizamento da ação civil pública n. 2000.71.01.001891-1, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assim, tendo o Tribunal de origem decidido de modo claro e fundamentado, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, inexistem vícios suscetíveis de correção por meios dos embargos de declaração apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Desse modo, aplica-se à espécie o entendimento pacífico do STJ segundo o qual "não se configura a ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada" (REsp n. 1.638.961/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 2/2/2017).
+Com efeito, no caso em estudo, a Corte estadual afastou a alegação de prescrição suscitada pela recorrente, sob os seguintes argumentos (e-STJ, fls. 734-735 - sem grifo no original):
+A hipótese trata do pedido indenizatório decorrente do derramamento de ácido sulfúrico pelo navio Bahamas no Porto de Rio Grande e consequente prejuízo alegado pelos pescadores da região.
+A sentença declarou a prescrição trienal em razão do trânsito em julgado da ação civil pública n. 98.1002702-8/RS, ocorrido em 06-06-2011, que tramitou na Justiça Federal.
+Pois bem. Respeitado o entendimento firmado na origem, penso que o caminho a trilhar é diverso.
+Isso porque na ação civil pública n. 98.1002702-8/RS foi discutida exclusivamente a cessação do dano, não a responsabilidade pelo dano ambiental. Assim, tal demanda não beneficia a vítima do dano no que diz respeito à prescrição.
+Por seu turno, a ação civil pública n. 2000.71.01.001891-1/RS, que trata efetivamente da responsabilidade civil por dano ambiental, ainda não transitou em julgado, razão pela qual não há falar em implementação do prazo prescricional.
+Em situações idênticas, assim decidiu o Tribunal:
+AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. AÇÃO CIVIL PÚBLICA PORDANO AMBIENTAL. INTERRUPÇÃO DO PRAZO PRESCRICIONAL PARA AJUIZAMENTODE DEMANDAS INDIVIDUAIS. PRESCRIÇÃO NÃO IMPLEMENTADA. 1. O ajuizamento da Ação Civil Pública nº 2000.71.01.001891-1/RS, na qual se discute a responsabilidade por dano ambiental decorrente de acidente havido com o Navio Bahamas, no Município de Rio Grande, interrompeu o prazo prescricional de ações individuais como a presente, nas quais os autores buscam reparação pelos prejuízos decorrentes do dano ambiental. 2. O ajuizamento de prévia Ação Civil Pública, cujo trânsito em julgado ocorreu em 2011, não beneficia a parte agravante no que diz com a prescrição, já que na referida demanda coletiva não houve discussão acerca da responsabilidade pelo dano ambiental, mas buscou-se apenas a cessação do dano, com fulcro no poder de requisição previsto no art. 5º, XXV, da Constituição Federal. 3. Prescrição inocorrente. Decisão agravada mantida. AGRAVO DE INSTRUMENTO DESPROVIDO.(Agravo de Instrumento, Nº 70083129841, Décima Câmara Cível, Tribunal de Justiça do RS, Relator: Thais Coutinho de Oliveira, Julgado em: 19-12-2019)
+(..)
+No que diz respeito à interrupção da prescrição, a jurisprudência do STJ é iterativa no sentido de que o ajuizamento de ação coletiva tem o condão de interromper o transcurso do prazo prescricional para a propositura da ação individual.
+Vejam-se:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. DANO AMBIENTAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. PRESCRIÇÃO DA PRETENSÃO INDIVIDUAL. INTERRUPÇÃO. TEMA 957 DOS RECURSOS ESPECIAIS REPETITIVOS. INAPLICABILIDADE.
+1. Cuida-se, na origem, de ação de indenização por danos materiais e compensação por danos morais, ajuizada por pescadores em razão dos prejuízos sofridos por dano ambiental decorrente de derramamento de ácido sulfúrico na Lagoa dos Patos pelo navio Bahamas, que estava atracado no porto de Rio Grande/RS.
+2. Não ocorre ofensa ao art. 535 do CPC/73 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, examina fundamentada e expressamente todos os pontos relevantes para a solução da controvérsia, ainda que de forma distinta daquela pretendida pela parte.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Para que se tenha por satisfeito o requisito do prequestionamento, "há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal" (AgInt no AREsp 1.487.935/SP, 4ª Turma, DJe 04/02/2020).
+Por essa razão é que não basta ao cumprimento do requisito do prequestionamento a mera oposição de embargos de declaração na origem.
+5. Alterar o decidido no acórdão impugnado, no que se refere à ocorrência do dano ambiental, aos danos suportados pelos pescadores e à responsabilidade da empresa agravante, exige o reexame de fatos e provas, o que é vedado em recurso especial.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. A citação válida em ação coletiva configura causa interruptiva do prazo de prescrição para o ajuizamento da ação individual.
+Precedentes.
+8. O Tema 957 dos recursos especiais repetitivos se refere especificamente aos danos derivados da explosão do navio Vicu a no Porto de Paranaguá/PR, do que não cuida a presente demanda.
+9. Agravo interno não provido" (AgInt no AREsp 1.264.833/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/5/2020, DJe 25/5/2020 - sem grifo no original).
+RECURSO ESPECIAL. DIREITO CIVIL E AMBIENTAL. CONTAMINAÇÃO AMBIENTAL POR PRODUTOS QUÍMICOS UTILIZADOS EM TRATAMENTO DE MADEIRA DESTINADA À FABRICAÇÃO DE POSTES. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. AUSÊNCIA. PRINCÍPIO DA ADSTRIÇÃO OU CONGRUÊNCIA. INTERPRETAÇÃO AMPLA DA INICIAL. POSSIBILIDADE. DANO AMBIENTAL INDIVIDUAL. PRESCRIÇÃO. TERMO INICIAL. CIÊNCIA INEQUÍVOCA. PRECEDENTES. AÇÃO COLETIVA. INTERRUPÇÃO DA PRESCRIÇÃO DE AÇÕES INDIVIDUAIS. POSSIBILIDADE.
+1. Ação ajuizada em 07/12/2012. Recurso especial interposto em 05/02/2014 e atribuído a este gabinete em 25/08/2016.
+2. Inviável o reconhecimento de violação ao art. 535 do CPC/73 quando não verificada no acórdão recorrido omissão, contradição ou obscuridade apontadas pelos recorrentes.
+3. A decisão que interpreta de forma ampla o pedido formulado pelas partes não viola os arts. 128 e 460 do CPC, pois o pedido é o que se pretende com a instauração da ação. Precedentes.
+4. O dano ambiental pode ocorrer na de forma difusa, coletiva e individual homogêneo este, na verdade, trata-se do dano ambiental particular ou dano por intermédio do meio ambiente ou dano em ricochete.
+5. Prescrição: perda da pretensão de exigibilidade atribuída a um direito, em consequência de sua não utilização por um determinado período.
+6. O termo inicial do prazo prescricional para o ajuizamento de ação de indenização por dano ambiental suportado por particular conta-se da ciência inequívoca dos efeitos decorrentes do ato lesivo.
+Precedentes.
+7. O ajuizamento de ação versando interesse difuso tem o condão de interromper o prazo prescricional para a apresentação de demanda judicial que verse interesse individual homogêneo.
+8. Necessidade, na hipótese dos autos, da completa instrução processual.
+9. Recurso especial conhecido e não provido.
+(REsp 1641167/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/03/2018, DJe 20/03/2018 - sem grifo no original)
+Desse modo, nota-se que o acórdão recorrido, ao decidir que o ajuizamento da ação civil pública configura causa de interrupção da prescrição para propositura da demanda individual, está ajustado à jurisprudência do Superior Tribunal de Justiça. Incidência da Súmula 83/STJ no ponto.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA.AÇÃO COLETIVA. INTERRUPÇÃO DA PRESCRIÇÃO DE AÇÕES INDIVIDUAIS. POSSIBILIDADE. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ.AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
