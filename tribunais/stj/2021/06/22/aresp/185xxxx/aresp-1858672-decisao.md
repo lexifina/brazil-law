@@ -1,0 +1,45 @@
+DECISÃO
+ATACÍLIO DE ARAÚJO (ATACÍLIO) ajuizou ação de obrigação de fazer cumulada com pedido de danos materiais e morais em desfavor de FCA FIAT CHRYSLER AUTOMÓVEIS BRASIL LTDA. (FIAT), alegando defeitos em veículo adquirido, não sanados pela fabricante, requerendo a restituição dos valores pagos, além de indenização por danos morais.
+Em primeira instância, o pedido foi julgado procedente, condenando-se FIAT ao pagamento da multa por descumprimento de tutela de urgência no importe de R$ 15.000,00 (quinze mil reais), indenização por danos materiais no montante de R$ 43.528,00 (quarenta e três mil, quinhentos e vinte e oito reais) e por danos morais, na quantia de R$ 8.000,00 (oito mil reais), além das custas processuais e honorários advocatícios, estes fixados em 10% sobre o valor da condenação (e-STJ, fls. 180/185).
+A apelação interposta por FIAT não foi provida pelo TJ/MG nos termos do acórdão assim ementado:
+EMENTA: APELAÇÃO CÍVEL -AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS -PRELIMINAR -AUSÊNCIA DE INTERESSE DE AGIR -REJEIÇÃO -PRELIMINAR DE NULIDADE DA SENTENÇA ULTRA PETITA -REJEIÇÃO -PREJUDICIAL DE MÉRITO MULTA POR DESCUMPRIMENTO DA TUTELA DE URGÊNCIA -CONFIRMAÇÃO -VEÍCULO -CONCESSIONÁRIA E FABRICANTE -DISPONIBILIZAÇÃO DE PEÇAS -PRAZO RAZOÁVEL -ARTIGO 18, § 1º DO CDC -DESCUMPRIMENTO -DANOS MATERIAIS -RESTITUIÇÃO DEVIDA -TABELA FIPE -AJUIZAMENTO DA AÇÃO -DANOS MORAIS -OCORRÊNCIA -QUANTUM -RAZOABILIDADE E PROPORCIONALIDADE -JUROS DE MORA -RESPONSABILIDADE CONTRATUAL -DATA DA CITAÇÃO E CORREÇÃO MONETÁRIA -DATA DA PUBLICAÇÃO DA DECISÃO -SENTENÇA MANTIDA.
+- Em relação de consumo, as pessoas jurídicas atuantes na respectiva cadeia respondem objetiva e solidariamente por prejuízos decorrentes de falhas no fornecimento de bens e serviços. Tendo em vista que a recorrente é fabricante e fornecedora do veículo avariado, deve ser afastada a preliminar de ausência de interesse de agir.
+-Conforme dispõe o art. 492, do CPC, é vedado ao juiz proferir decisão de natureza diversa da pedida, bem como condenar a parte em quantidade superior ou em objeto diverso do que lhe foi demandado.
+-Restando incontroverso que o réu descumpriu o seu dever legal contido no art. 32 do CDC, deve ser mantida a condenação do pagamento da multa em sua totalidade.
+-Os fabricantes e importadores deverão assegurar a oferta de componentes e peças de reposição enquanto não cessar a fabricação ou importação do produto (CDC, art. 32).
+-Configura-se o dano moral sofrido pelo consumidor resta impossibilitado de utilizar o veículo por falta de peça essencial e é obrigado a suportar os inconvenientes de sucessivas reclamações e privação da adequada utilização do produto adquirido.
+-Na fixação do quantum devido a título de danos morais, o Julgador deve pautar-se pelo bom senso, moderação e prudência, sem perder de vista que, por um lado, a indenização deve ser a mais completa possível e, por outro, ela não pode tornar-se fonte de lucro.
+-Em se tratando de responsabilidade contratual, sobre o valor da indenização por danos morais devem incidir juros de mora a partir da citação, nos termos do artigo 405 do Código Civil, e correção monetária desde a publicação da decisão, nos termos da Súmula 362 do STJ.
+-Deve ser mantida a sentença quanto aos danos materiais, pois, considerando que o autor/apelado não mais usufruiu do veículo, devida a indenização por danos materiais, consubstanciada restituição do valor pago pelo automóvel, que deverá tomar como base a tabela FIPE à época do ajuizamento da ação.
+-Preliminares rejeitadas. Sentença mantida. Recurso não provido (e-STJ, fl. 248).
+Os embargos de declaração opostos por FIAT foram rejeitados (e-STJ, fls. 290/294).
+Irresignada, FIAT interpôs recurso especial com fulcro no art. 105, III, a, da CF, alegando a violação dos arts. 489, 1.013 e 1.022 do NCPC, ao sustentar que o acórdão recorrido incorreu em omissão ao não apreciar as alegações de que (1) no ato da entrega o veículo deve estar quitado e acompanhado de toda a documentação, livre de multas e ônus, bem como de que (2) o valor de pagamento deve ser o estabelecido na tabela FIPE, visto que os defeitos não comprometeram o uso.
+Foram apresentadas as contrarrazões (e-STJ, fls. 316/317).
+O apelo nobre não foi admitido em virtude da ausência de omissão (e-STJ, fls. 334/336).
+Nas razões do presente agravo em recurso especial, FIAT afirmou que o colegiado deixou de apreciar questões relevantes para o deslinde da controvérsia (e-STJ, fls. 343/350).
+Foi apresentada contraminuta (e-STJ, fls. 354/355).
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da ausência de violação do art. 1.022, do NCPC
+Nas razões do seu recurso, FIAT alegou a violação dos arts. 489, 1.013, 1.022, do NCPC em virtude da omissão do colegiado local ao não apreciar as alegações de que no ato da entrega o veículo deve estar quitado e acompanhado de toda a documentação, livre de multas e ônus, bem como de que o valor de pagamento deve ser o estabelecido na tabela FIPE, visto que os defeitos não comprometeram o uso.
+Contudo, verifica-se que o Tribunal estadual se pronunciou sobre o tema relativo ao valor de referência para restituição, consignando que deverá ter como base a tabela FIPE à data do ajuizamento da ação, confira-se:
+Ora, ressalto que no mencionado acórdão foi adotado o entendimento "de que devida a indenização por danos materiais, consubstanciada restituição do valor pago pelo automóvel, que deverá tomar como base a tabela FIPE à época do ajuizamento da ação" (e-STJ, fl. 293).
+Quanto à documentação do veículo na data da entrega, observa-se que referido tema não foi suscitado em apelação, apenas inaugurado em embargos declaratórios, não estando o Tribunal Mineiro obrigado a se manifestar a respeito de questão não alegada oportunamente.
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte. Precedente: AgRg no AREsp 529.018/MS, Rel. Ministro SIDNEI BENETI, Terceira Turma, DJe 1º/9/2014.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. 2. RESPONSABILIDADE PELOS SERVIÇOS PRESTADOS. INTERPRETAÇÃO DE CLÁUSULAS DA AVENÇA E REEXAME DE PROVAS. DESCABIMENTO. SÚMULAS 5 E 7 DO STJ. 3. PRINCÍPIOS DA CONGRUÊNCIA OU DA ADSTRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS. SÚMULAS N. 282 e 356 DO STF. 4. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. A revisão das conclusões estaduais (quanto à responsabilidade pelos serviços contratados) demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7 do STJ.
+3. Se o conteúdo normativo contido no dispositivo apresentado como violado não foi objeto de debate pelo Tribunal de origem, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incide, na espécie, o rigor das Súmulas n. 282 e 356 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.487.975/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 17/02/2020, DJe 19/02/2020)
+Afasta-se, portanto, a alegada violação.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em favor de ATACÍLIO em 5%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. DANOS MATERIAIS E MORAIS. AQUISIÇÃO DE VEÍCULO. DEFEITOS. OMISSÃO. AUSÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
