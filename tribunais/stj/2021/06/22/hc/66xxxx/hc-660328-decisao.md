@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido de liminar impetrado em favor de JANDERSON ALMEIDA VERASem que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Acre(HC n. 0000246-46.2020.8.01.0016).
+O paciente teve a prisão em flagrante convertida em preventiva pela suposta prática dos delitos descritos noart. 33, caput, c/c o art. 40, VI, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na garantia da ordem pública, tendo em vista a gravidade concreta da conduta e o risco de reiteração delitiva.
+O Tribunal de origem manteve a prisão preventiva com base nos mesmos fundamentos e denegou a ordem.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegalem face do excesso de prazo da prisão preventiva e do não preenchimento os requisitos ensejadores da segregação cautelar. Pugna pelaextensão dos efeitos da ordem concedida aWires Pereira de Limanos autos do HC n. 636.612/AC.
+Ressalta que o paciente possui residência fixa, ocupação lícita e bons antecedentes.
+Requer a concessão da ordem a fim de que seja revogada a prisão preventiva, expedindo-se alvará de soltura em favor do paciente. Subsidiariamente, pleiteia a imposição de medidas cautelares alternativas previstas no art. 319 do CPP.
+O pedido de liminar foi indeferido às fls. 147-148.
+As informações foram prestadas às fls. 154-162e 163-164.
+O Ministério Público Federal manifestou-se pelo não conhecimentodowrit, mas pela concessão da ordem de ofício(fls. 176-180).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Em consulta ao sistema do Tribunal de origem, constata-se que,em 11/6/2021, foi proferidasentençana Ação Penal n. 0000246-46.2020.8.01.0016. Opaciente foi condenado às penas de 15anos e 4 meses de reclusão no regime inicial fechadoe de 1.800 dias-multas, como incurso nos arts. 33, caput, e 35 da Lei n. 11.343/2006, c/c o art. 69 do Código Penal, vedado o direito de recorrer em liberdade.
+Quanto à alegação de ausência de requisitos da prisão preventiva, considerando a nova realidade fático-processual, evidencia-se a prejudicialidade dopedido ante a perda superveniente de objeto.
+Ademais, consoante se observa do novo decreto deprisão preventiva, o Juízo de primeiro grau desenvolveu novosfundamentos para a custódia cautelar,diversos dos anteriormente analisados pelo Tribunal de origem, pois considerou a expressiva quantidade de entorpecentes apreendida(3,8kg de maconha e 1,03kg de pasta-base de cocaína) e ofato de o paciente integrar a organização criminosa Comando Vermelho.
+Dessa forma, a prolação da nova decisão com novos fundamentos evidencia a prejudicialidade deste habeas corpus, pois "não cabe a esta Corte averiguar a motivação do novo decreto constritivo sem que haja prévia submissão dessa tese ao Tribunal de origem, sob pena de indevida supressão de instância" (AgRgno HC n. 251.260/MG, relator Ministro Og Fernandes, Sexta Turma,DJede 24/6/2013). No mesmo sentido, confira-se o seguinte julgado da Quinta Turma: HC n. 243.953/MG, relator Ministro Marco AurélioBellizze,DJede 13/3/2013.
+Assim, o feito não possui mais objeto.
+No que diz respeito ao alegado excesso de prazo, a questão não foi enfrentada pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, também sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Ainda que assim não fosse, como visto acima, a ação penal já foi julgada pelo Juízo de primeira instância. A essa hipótese aplica-sea orientação já consolidada pelo STJ com a edição da Súmula n.52, no sentido de que, tendo sido proferida sentença condenatória, fica superada a alegação de excesso de prazo para a formação da culpa (HC n. 605.103/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe  de26/10/2020; e HC n. 563.269/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 30/6/2020).
+Por fim, sobre o pedido de extensãoda ordem concedida no HC n.  636.612/ACa Wires Pereira de Lima, verifica-se também sua prejudicialidade, considerando que a sentença, ao condená-lo às penas de 14 anos,8 meses e 15 dias de reclusãoem regime inicialfechadoe de 1.700 dias-multas, também lhe negouo direito de recorrer em liberdade, decretando a prisão preventiva para garantira ordem pública e assegurar a aplicação da lei penal, em razão daquantidade de drogas apreendidae do fato de referido paciente integrar organização criminosa.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
