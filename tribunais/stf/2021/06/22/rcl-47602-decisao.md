@@ -1,0 +1,39 @@
+Decisão: Trata-se de reclamação constitucional proposta por André Luiz Dias Franco, assistido pela Defensoria Pública, em face de acórdão do Conselho da Magistratura do Tribunal de Justiça do Distrito Federal e Territórios, nos autos da ação penal 0010519-40.2015.8.07.0001.
+    Na inicial, alega-se que a decisão reclamada teria ofendido a autoridade desta Corte, consubstanciada na futura decisão dos embargos de declaração no RE-RG 593.818, paradigma do tema 150 do Plenário Virtual, ao negar seguimento a recurso extraordinário.
+    O reclamante narra (eDOC 1) haver sido condenado pela prática do crime do art. 33, caput, da Lei 11.343/2006, à pena de 5 anos de reclusão, em regime inicialmente semiaberto (eDOC 2, p. 250). Interpôs recurso extraordinário do acórdão de apelação com fundamento no art. 102, III, a, da Constituição Federal, apontando violação aos arts. 5º, XLVI e LXVII, do texto constitucional, e alegando, em síntese, que o transcurso do período depurador de cinco anos após a extinção da pena permitiria a aplicação do benefício do art. 33, § 4º, da Lei 11.343/2006 em seu favor. (eDOC 2, p. 369)
+    O recurso extraordinário foi sobrestado por vinculação ao tema 150 da sistemática da repercussão geral. (eDOC 2, p. 391)
+    Em 10.2.2021, o Presidente do TJDFT negou seguimento ao RE, por entender que o acórdão recorrido estaria em consonância à tese fixada no recurso paradigma (eDOC 2, p. 404). O reclamante exauriu sem sucesso as vias ordinárias para impugnação desse decisum, manejando a presente reclamação para que esta Corte impeça o trânsito em julgado da condenação e o início da execução penal.
+    Prossegue afirmando que a Defensoria Pública interpôs embargos de declaração contra o acórdão do RE-RG 593.818 para complementação da tese fixada, ainda não julgados. Afirma que o acolhimento desses embargos, que reputa provável, permitiria o provimento do recurso extraordinário e a redução de sua pena.
+    Pleiteia a cassação do ato reclamado para manter o sobrestamento de seu recurso extraordinário, até o julgamento dos embargos no RE-RG 593.818.
+    É o relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Decido.
+    Conforme disposto na Constituição Federal, compete ao STF processar e julgar originariamente reclamação para a preservação de sua competência, garantia da autoridade de suas decisões e da observância das Súmulas Vinculantes (arts. 102, I, l, e 103-A, § 3º da CF/88). Nesse sentido, o Código de Processo Civil também regulamentou a matéria e assentou as seguintes hipóteses de cabimento da reclamação:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (…)”.
+    O § 4º do mesmo artigo esclarece que as hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondem.
+    Transcrevo a fundamentação do ato reclamado, no pertinente:
+    “De início, cumpre pontuar que o tema que ensejou a aplicação do regime disciplinador da repercussão geral diz respeito à consideração de condenações transitadas em julgado há mais de cinco anos como maus antecedentes para efeito de fixação da pena-base (RE 593.818 – Tema 150).
+    A ementa do representativo é a seguinte: (…)
+    A turma julgadora, no mesmo sentido, decidiu que (ID 14761679):
+    ‘(...) O Código Penal conceitua a reincidência como a prática de novo fato pelo agente, depois de transitar em julgado a sentença que o tenha condenado por crime anterior, quer no país quer no exterior (art. 63 do CP). O referido código estabelece, ainda, limite temporal para que as condenações anteriores configurem a reincidência.
+    (...) Inexiste, no entanto, regramento legal que trate dos antecedentes, como circunstância judicial, especificamente acerca de limite temporal em que as condenações por fatos anteriores transitadas em julgado poderão ser consideradas como desabonadoras de referida circunstância judicial.
+    Assim, o entendimento jurisprudencial prevalente no âmbito do egrégio Superior Tribunal de Justiça e desta Corte de Justiça é no sentido de que as condenações que não se prestam para configurar reincidência, diante do decurso do prazo depurador assinalado no artigo 64, inciso I, do Código Penal, representam antecedentes a serem avaliados na primeira fase da dosimetria.
+    (...) É imperioso ressaltar que tal entendimento não afronta o inciso XLVII do artigo 5º da Constituição da República, que proíbe a aplicação de penas de caráter perpétuo.
+    In casu, trata-se tão somente de individualização da pena, também por imperativo constitucional (art. 5º, XLVI, da CF), de acordo com as peculiaridades da vida penal pretérita do acusado, que não podem ser menosprezadas’.
+    Logo, verifica-se que a decisão recorrida está em conformidade com as orientações do Supremo Tribunal Federal, situação que atraiu a negativa de seguimento do apelo constitucional, em cumprimento aos ditames previstos no artigo 1.030, inciso I, alínea “a”, do CPC. No mais, o fato de ter havido a oposição de embargos de declaração no julgamento do paradigma aplicado não obsta o enquadramento da questão ao tema fixado no RE 593.818. Confiram-se, por oportuno, os seguintes julgados: (…)
+    Cumpre acrescentar, ainda, que, em que pese o pedido de atribuição de efeito modificativo, não há, no âmbito da Corte Suprema, qualquer determinação de suspensão do processo, consoante previsão do artigo 1.037, inciso II, do CPC, tampouco qualquer orientação de não observância imediata ao decidido no Tema 150 pelos processos que versem sobre idêntica questão e que estejam pendentes de apreciação no território nacional, tal como o caso concreto.
+    Constata-se, portanto, que se a hipótese dos autos se amolda perfeitamente à orientação do precedente aplicado, não existe razão para se aguardar o seu trânsito em julgado”. (eDOC 2, p. 454)
+    No julgamento do RE-RG 593.818, esta Corte fixou o seguinte entendimento:
+    “Não se aplica ao reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal”.
+    Ainda não foram julgados os embargos de declaração opostos pela Defensoria Pública, que, como alegado pelo reclamante, visam a acrescer o seguinte complemento à tese referida: “podendo o julgador, fundamentada e eventualmente, não promover qualquer incremento da pena-base, por condenações pretéritas, quando as considerar desimportantes, ou demasiadamente distanciadas no tempo, e, portanto, não necessárias à prevenção e repressão do crime, nos termos do comando do artigo 59, do Código Penal”.
+    Referidos embargos não foram recebidos com efeito suspensivo pelo relator. Logo, correto o Tribunal reclamado ao negar seguimento ao recurso extraordinário, seguindo a orientação desta Corte de que “a existência de precedente firmado pelo Plenário desta Corte autoriza o julgamento imediato de causas que versem sobre o mesmo tema, independente da publicação ou do trânsito em julgado do paradigma”. (ARE 930647 AgR, rel. Roberto Barroso, Primeira Turma, DJe 11.4.201; e ARE 679894 AgR, rel. Dias Toffoli, Primeira Turma, DJe 4.4.2013)
+    Ante o exposto, nego seguimento à reclamação (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de junho de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
