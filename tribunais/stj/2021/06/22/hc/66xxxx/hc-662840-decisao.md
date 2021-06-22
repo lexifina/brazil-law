@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício deCARLOS HENRIQUE MACEIO DIAS, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que opaciente teve a prisão preventiva decretada em razão da suposta prática docrimeprevistonoartigo33, caput,da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus junto à Corte de origem, que denegou a ordem.
+Neste writ, a impetrantealega, em suma, ausência de fundamentação idônea para a prisão preventiva.
+Assevera que "a pretensão acusatória não tem por objeto crime que envolve violência ou grave ameaça, motivo pelo qual resta afastado o fundamento basilar da medida aplicada, da mesma forma que sequer existem condenações prévias aptas a justificar ou legitimar a prisão sem julgamento." (e-STJ, fl. 8)
+Aduz que o acórdão impugnado "viola a presunção de inocência e ignora completamente a proporcionalidade adstrita ao processo penal, vez que em caso de eventual condenação, o Paciente fará jus ao regime mais brando, posto que primário." (e-STJ, fl. 9)
+Requer, assim, a revogação da prisão preventiva, ainda que com afixação de medidas cautelares diversas da prisão.
+A liminar foi indeferida (e-STJ, fl. 185).
+Informações prestadas (e-STJ, fls. 185-191 e 194-222).
+O Ministério Público Federal opinou pelo não conhecimento do write a concessão de habeas corpus, de ofício, para que seja revogada a prisão preventiva, com aplicação das medidas cautelares alternativas previstas no art. 319 do CPP(e-STJ, fls. 224-228).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Por oportuno, vejamos o que consta no referido decreto constritivo:
+" ..
+O autuado foi preso em flagrante por infração ao artigo 33, "caput", da Lei nº 11.343/06.
+Consta dos autos que os policiais militares abordaram André Argeneu Garcia na condução de uma motocicleta e na posse de quatro porções de cocaína, dizendo que havia adquirido do autuado. Desse modo, os policiais foram ao local indicado e, então, encontraram na casa do autuado cento e dezenove porções de cocaína e outras porções de crack.
+O(a) representante do Ministério Público pleiteou a conversão do flagrante em prisão preventiva e a i. defesa pleiteou a concessão da liberdade provisória.
+O laudo de constatação (págs. 22/26) indica que as substâncias apreendidas, descritas nos autos de exibição e apreensão de págs. 19/20, são entorpecentes (Portaria nº 344/1998, SVS/MS), do que decorre a materialidade do delito de tráfico de drogas (art. 33, Lei nº 11.343/06), para o qual se prevê pena privativa de liberdade máxima superior a 4 (quatro) anos.
+Apesar de primário, o autuado tinha consigo grande quantidade e variedade de droga. Desse modo, a prisão cautelar revela-se necessária para garantia da ordem pública, tratando- se, ao menos por ora, do meio adequado a impedir a reiteração delitiva (arts. 312 e 314, CPP), de forma que as medidas cautelares diversas da prisão mostram-se insuficientes (art. 282, § 6º do CPP). Os elementos de convicção contidos nos autos não revelam a existência das excludentes previstas no art. 23, incisos I, II e III, do Código Penal.
+Não é caso de aplicação de medidas diversas da prisão, preconizadas na Recomendação CNJ 62/2020. Isso porque, além de presentes os pressupostos e requisitos da prisão cautelar, imprescindível demonstração inequívoca de que o preso se encontre no grupo de vulneráveis, com impossibilidade de receber tratamento no estabelecimento prisional, ausentes na hipótese.
+Posto isto, com fundamento nos arts. 310, II, e § 2º, 312, 313, I, e 315, do Código de Processo Penal, CONVERTO A PRISÃO EM FLAGRANTE de CARLOS HENRIQUE MACEIO DIAS em PRISÃO PREVENTIVA." (e-STJ, fls. 66-67; sem grifos no original)
+O Tribunal de origem manteve aprisão cautelar nos seguintes termos:
+" ..
+A decisão que decretou a prisão cautelar do paciente encontra- se devidamente motivada para a garantia da ordem pública e aplicação da lei penal, considerando as circunstâncias do crime e a gravidade concreta da conduta perpetrada.
+Nesse sentido, é importante ressaltar a quantidade e diversidade de drogas apreendidas e a forma como estavam acondicionadas (29,92 gramas de cocaína e 156,31 gramas de crack, distribuídas em 130 porções 56/59), bem como a apreensão da quantia de 3.278,00 reais (fls.52), o que reforça a necessidade da sua custódia cautelar para assegurar a garantia da ordem pública.
+Por tais motivos, também não se mostra socialmente recomendável a aplicação das medidas cautelares previstas no artigo 319 do Código de Processo Penal, com a redação dada pela Lei nº 12.403/11, porquanto são insuficientes à manutenção da ordem pública.
+Em que pesem as alegações da defesa em relação ao COVID-19, o espírito que norteou a Recomendação nº 62/2020 do Conselho Nacional de Justiça não autoriza, por si só, a soltura imediata das pessoascustodiadas. Todo pedido formulado deve ser analisado concretamente diante das circunstâncias que o envolvem.
+No caso, não há indicativos mais concretos, mas meras alegações genéricas que afastam o paciente, nesta análise sumária, de hipótese de natureza excepcional a autorizar a concessão do pedido.
+Assim, não há ilegalidade ou abuso na decisão objurgada, a qual se revela escorada na justa causa da prisão, consubstanciada na prova da materialidade e nos indícios de autoria, bem como nos fundamentos da prisão preventiva, sendo assim, medida adequada e necessária às exigências do caso, nos termos dos artigos 282, § 6º, 312 e 313 do Código de Processo Penal, após a vigência das leis 12.403/11 e 13.964/19.
+Pelo exposto, por meu voto, denego a ordem impetrada." (e-STJ, fls. 34-35; sem grifos no original)
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso,observa-se que a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois opaciente foi presoem flagrante com29,92gde cocaína e 156,31gde crack.
+Esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+" ..
+2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente mantida na sentença, a qual indeferiu o direito de recorrer em liberdade com base em elementos concretos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas pela natureza e elevada quantidade das drogas apreendidas (177 porções de "cocaína", com peso de 40,36g e 01 uma porção de "maconha", com peso de 23,59g), o que denota a necessidade da prisão para resguardar a ordem pública, não havendo falar em existência de evidente flagrante ilegalidade.
+ ..
+Habeas corpus não conhecido."
+(HC 393.308/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favorável ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada."
+(HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Pelos mesmos motivos acima delineados, é inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do paciente. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017.
+Por fim, cumpre anotar que a tese de desproporcionalidade da custódia cautelar à provável futura pena do réu não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual. Nessa linha: RHC 94.204/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 10/4/2018, DJe 16/4/2018; e RHC 91.635/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/3/2018, DJe 5/4/2018.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
