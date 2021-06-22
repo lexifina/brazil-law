@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+O acórdão recorrido foi assim ementado (e-STJ fl. 484):
+PROCEDIMENTO COMUM - COBRANÇA - INDENIZAÇÃO - DIREITO DE PROPRIEDADE - PESQUISA E EXPLORAÇÃO MINERAL - ARGILA ÚMIDA E AREIA DE CAVA - OCUPAÇÃO DE TERRENO.
+Pretensão à condenação no pagamento de renda pela ocupação de propriedade imóvel para pesquisa e exploração de minério. Argila úmida e areia de cava. Indenização e ressarcimento de danos causados ao imóvel. Ajuste extrajudicial. Carta de anuência firmada pelo proprietário do solo em que autoriza os trabalhos de extração mineral em sua propriedade. Pagamento de remuneração pela exploração com base na produção extraída a preços de mercado. Pedido improcedente. Indenização e ressarcimento de danos que não foram objeto de ajuste prévio pelas partes. Fixação judicial com base em prova pericial. Admissibilidade. Apurada a inexistência de pagamento da prévia indenização pela ocupação do terreno e daquela decorrente dos danos e prejuízos causados (artigos 27 e 60 do Decreto-lei nº 227/67). Pedido procedente.
+Sentença reformada. Recurso provido.
+Em nova análise, verifico que a matéria tratada nos presentes autos encontra-se inserida na competência das Turmas da Primeira Seção do STJ, nos termos do art. 9º, § 1º, XIV, do RISTJ.
+A competência interna das Turmas do STJ é fixada em razão da natureza da relação jurídica no curso da qual surge a controvérsia levada à apreciação do Poder Judiciário.
+No caso, cuida-se de ação indenizatória com base em normas específicas do Código de Minas (Decreto-Lei n. 227/1967), decorrente de lavra no imóvel de propriedade da parte autora, havendo menção, inclusive, a danos ambientais, sendo que a análise do mérito demanda a interpretação de norma de natureza pública.
+Diante do exposto, torno sem efeito a decisão de fls. 550/552 (e-STJ), ficando prejudicado o agravo interno de fls. 555/559 (e-STJ). Determino a remessa dos autos à Coordenadoria de Análise e Classificação de Temas Jurídicos e Distribuição de Feitos, para que proceda à redistribuição do feito a uma das Turmas que integram a Primeira Seção.
+Publique-se.
