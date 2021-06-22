@@ -1,0 +1,30 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    "APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA – DÉCIMO TERCEIRO SALÁRIO – PROCEDÊNCIA DO PEDIDO DA AÇÃO – ALEGAÇÃO DE NULIDADE DA SENTENÇA EM RAZÃO DO APROVEITAMENTO DOS ATOS PRATICADOS POR JUIZ INCOMPETENTE – ART. 113, §2º, DO CPC/1973 – CELERIDADE PROCESSUAL – PAGAMENTO NÃO COMPROVADO – RECURSO IMPROVIDO.
+    1. Na esteira do §2º do art. 113 do CPC, declarada a incompetência absoluta, somente os atos decisórios serão nulos, remetendo-se os autos ao juiz competente.
+    2. Mesmo tendo o feito tramitado perante juízo incompetente, é possível o aproveitamento dos atos praticados, homenageando-se a celeridade processual.
+    3. Como o juiz é o destinatário das provas, cabe a ele decidir sobre a necessidade ou não da realização de novas provas.
+    4. Assim, não demonstrado pela municipalidade o pagamento da parcela requerida, a manutenção da sentença de procedência do pedido da ação é medida imperativa.
+    5. Decisão unânime."
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 37, caput; 93, inciso IX; e 167, incisos II e IX, da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que o Plenário da Corte, em sede de repercussão geral, reafirmou a orientação de que o artigo 93,inciso IX, da Constituição não exige que o órgão judicante se manifeste sobre todos os argumentos apresentados pela defesa, mas sim que ele fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Tribunal Pleno, Rel. Min. Gilmar Mendes, DJe de 13/8/10).
+    Ademais, colhe-se do voto dos embargos declaratórios a seguinte fundamentação:
+    "Inicialmente, a despeito das verbas remuneratórias não constarem do orçamento vigente na data do pagamento, não pode o administrador público a pretexto de eximir-se do pagamento de verbas salariais constitucionalmente garantida, conforme art. 7° e 39, §3° do texto constitucional, invocar a Lei de Responsabilidade Fiscal do Município.
+    Na hipótese, é cediço que não obstante a ausência de previsão para o aludido pagamento é sabido que o embargante, Município de Corrente, por ser pessoa jurídica de direito público interno, deve responder com impessoalidade nos termos doa art. 37, caput, da CF pelas suas dívidas contraídas, independente de quem seja o gestor, cabendo a atual gestão, regressivamente acionar o gestor anterior civil e criminalmente se for o caso, pois, como já dito no acórdão embargado a divida é do Município e não do gestor.
+    Ora, a Administração Pública não pode se valer de sua própria torpeza para justificar sua inadimplência para com aqueles que lhe prestaram serviços, sob risco de afronta aos princípios da boa-fé objetiva e do não enriquecimento ilícito. Colaciono abaixo, entendimentos jurisprudenciais que se amolda ao presente caso:
+    (...)
+    Na verdade o embargante/apelante não comprovou o fato desconsfitutivo do seu direito, não satisfazendo o art. 333, II do CPC, sendo o Município responsável pela dívida contraída."
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo e Previdenciário. Servidor estadual. Previdência complementar. Adesão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional, bem como do conjunto fático-probatório dos autos. Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.210.720/SP - AgR, Tribunal Pleno, Min. Rel. Dias Toffoli (Presidente), DJe de 18/09/19).
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 518.895/MG-AgR, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ de 15/4/5).
+    No mesmo sentido: RE nº 1.231.979/RJ - ED, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 18/12/19; RE nº 1.173.779/RS-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 31/5/19 e RE nº 832.960/DF-AgR, Primeira Turma, Rel. Min Luiz Fux, DJe de 21/5/19.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 22 de junho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
