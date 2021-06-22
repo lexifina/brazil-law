@@ -1,0 +1,20 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1010106-89.2021.8.11.0000 - CLASSE 202 - CNJ - PONTES E LACERDA
+Agravante : VARELLA INDÚSTRIA E COMÉRCIO DE VIDROS LTDA–ME
+Agravados: BARROS & TEIXEIRA LTDA–ME e JOSÉ ORLANDO NUNES TEXEIRA
+Número do Protocolo : 1010106-89.2021.8.11.0000
+Cuida-se de Recurso de AGRAVO DE INSTRUMENTO interposto por VARELLA INDÚSTRIA E COMÉRCIO DE VIDROS LTDA–ME contra a r. decisão proferida pelo MM. Juiz de Direito da 1a Vara da Comarca de Pontes e Lacerda/MT, que nos autos da ação “Monitória” (Proc. no 0005743-13.2016.8.11.0013), ajuizada pela agravante contra BARROS & TEIXEIRA LTDA–ME e JOSÉ ORLANDO NUNES TEXEIRA, revogou “ex officio” o benefício de assistência judiciária gratuita por verificar que a benesse fora concedida “por evidente equívoco” (cf. Id. no 90211486 - pág. 14).
+A autora/agravante afirma que “encerrou suas atividades e fechou suas portas” há cinco anos e sustenta que “provou a inexistência de meios para custear as despesas processuais pertinentes” e “demonstrou a existência de diversas dívidas vencidas, negativadas, protestadas em seu nome, bem como as inúmeras demandas trabalhistas decorrentes de ter encerrado suas atividades”.
+Argumenta que “simples revogação dos benefícios da gratuidade da Justiça, sem que a parte agravada sequer a impugnasse ou apresentasse qualquer documento ou prova cabal da alteração da situação financeira da agravante é negar à mesma o direito de litigar” e pede, sob esses fundamentos, provimento do recurso, para cassar a r. decisão agravada, mantendo-se o benefício da assistência judiciária gratuita; requer, de imediato, atribuição de efeito suspensivo ao recurso (sic – cf. Id. no 90211469 - pág. 6/9).
+É a suma.
+Sem delongas, relembro que a atribuição de efeito suspensivo ao agravo não se opera automaticamente só porque a parte quer e requer; essa medida, a exemplo da concessão da antecipação da pretensão recursal, exige, antes, fundamentos relevantes apoiados em prova idônea e capaz de demonstrar que o diferimento da análise do pleito recursal possa tornar inútil a pretensão almejada se mais tarde concedida.
+No caso, não enxergo necessidade de imediato pronunciamento jurisdicional sobre o acerto ou desacerto técnico da decisão agravada ao revogar o pedido de assistência judiciária gratuita, e, muito menos, que a manutenção da decisão agravada poderá acarretar danos irreparáveis à agravante, ou, então, que, caso mantida até ulterior julgamento da questão, caracterizará risco de perecimento fatal ao direito pleiteado.
+Aliás, nem mesmo a agravante soube precisar qual seria o dano e qual seria o risco ao resultado útil do processo; comumente, diríamos aqui que a parte se restringiu a alegações imprecisas e genéricas, mas, no caso, nem mesmo isso ocorreu, pois a esse trabalho não se deu a recorrente, que sequer menciona as expressões “perigo da demora” ou “risco de dano”, ou qualquer sinonímica.
+Não há nem mesmo argumentação cíclica e redundante de que o perigo de dano é o simples prosseguimento da tramitação do feito sem acolhimento do seu pedido, argumentação reflexiva essa que, relembro, é insuficiente para a finalidade colimada, porque, do contrário, haveria atribuição indiscriminada de efeito suspensivo a todo e qualquer recurso interposto contra toda sorte de determinação judicial.
+Pelo exposto, à míngua dos requisitos à concessão de efeito suspensivo ao recurso ou à antecipação da pretensão recursal (CPC, arts. 300 e 995, p.ú.), apenas recebo o Agravo de Instrumento nos termos do art. 1.019 do CPC, mas INDEFIRO o pedido antecipatório (CPC, art. 1.019, I), ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intimem-se os agravados, na forma do art. 1.019, II, do CPC, para que responda no prazo de 15 dias.
+Expeça-se o necessário.
+Cuiabá, 22 de junho de 2021.
+Des. JOÃO FERREIRA FILHO
+Relator
