@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de TIAGO DE CAMPOS SIQUEIRAcontra decisão proferida por Desembargador do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente teve prisão preventiva decretada contra si, sendo, ainda, denunciado e pronunciado como incurso no artigo 121, §2º, inciso I (por motivo torpe) e IV (recurso que dificulte a defesa do ofendido), c/c. artigo 14, inciso II, e com o artigo 29, "caput", todos do Código Penal.
+Na presente oportunidade, oimpetrante sustenta, em síntese, a ilegalidade da segregação cautelar, ante o indevido excesso de prazo para o término da instrução criminal, estando o paciente encarcerado há mais de 2 anos, sem que haja qualquer atraso que possa ser atribuídoà atuação da defesa.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva, com a expedição do respectivo alvará de soltura.
+É o relatório. Decido.
+Em princípio, não há como prosseguir a irresignação.
+Primeiramente, porque o habeas corpus não foi devidamente instruído, uma vez que não foi colacionada peça processual indispensável à instrução do mandamus, qual seja, cópia do inteiro teor da decisão proferida pelo Tribunal de origem.
+É de se ressaltar que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+Por outro lado, rememore-se também que o Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Ademais, quanto à tese levantada na inicial,cumpre lembrar que o alegado excesso de prazo não pode ser apreciado apenas pela soma aritmética dos prazos, pois o processo penal é dinâmico, com vários incidentes, podendo sofrer empeços diversos, provocados inclusive pela defesa.
+Nesse raciocínio, em que pese o considerável tempo de prisão cautelar no presente caso,não há informações que atestem, de plano, haver demora injustificada resultante exclusivamente de uma atuação omissa ou desidiosa do Poder Judiciário.
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+Nesse contexto, portanto, a partir das peças trazidas aos autos, entendo não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.Recomenda-se, entretanto, ao Tribunal local, que imprima celeridade no julgamento do recurso em sentido estrito.
+Intimem-se.
