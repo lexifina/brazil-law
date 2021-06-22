@@ -1,0 +1,39 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL CRIME AMBIENTAL. DESMATAMENTO. ANO AGRAVO EM RECURSO ESPECIAL. ROUBO QUALIFICADO POR LESÃO CORPORAL DE NATUREZA GRAVE. PENA-BASE. CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No tocante à fixação da pena-base acima do mínimo legal, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+2. A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação.
+3. Pode haver a valoração negativa das circunstâncias do crime, pois o fato do delito do art. 157, §3º, do CP ter sido praticado em concurso de agentes e com o uso de arma de fogo, fatos que impõem maior temor á vítima, denotam um grau de reprovabilidade mais acentuado, aumentando a censurabilidade da conduta praticada. Ademais, o fato do delito ter sido praticado mediante o emprego de arma de fogo e em concurso de agentes justifica a exasperação da pena-base, uma vez que tais circunstâncias não foram sopesadas como majorantes do art. 157, § 2º, I e II, do CP.
+4. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto por LEANDRO BATISTA DO NASCIMENTO e FERNANDO ARACELI DA SILVA (e-STJ fls. 588/597) contra decisão monocrática de e-STJ fls. 580/582, que conheceu do agravo para negar provimento ao seu recurso especial.
+A parte agravante alega a redução da pena-base ao mínimo legal, uma vez que não houve fundamentação concreta no tocante às circunstâncias do crime.
+Requer, assim, a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL CRIME AMBIENTAL. DESMATAMENTO. ANO AGRAVO EM RECURSO ESPECIAL. ROUBO QUALIFICADO POR LESÃO CORPORAL DE NATUREZA GRAVE. PENA-BASE. CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No tocante à fixação da pena-base acima do mínimo legal, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+2. A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação.
+3. Pode haver a valoração negativa das circunstâncias do crime, pois o fato do delito do art. 157, §3º, do CP ter sido praticado em concurso de agentes e com o uso de arma de fogo, fatos que impõem maior temor á vítima, denotam um grau de reprovabilidade mais acentuado, aumentando a censurabilidade da conduta praticada. Ademais, o fato do delito ter sido praticado mediante o emprego de arma de fogo e em concurso de agentes justifica a exasperação da pena-base, uma vez que tais circunstâncias não foram sopesadas como majorantes do art. 157, § 2º, I e II, do CP.
+4. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+O Tribunal de origem, ao analisar a pena-base, consignou (e-STJ fls. 428):
+Muito embora a culpabilidade e os motivos sejam ínsitos e próprios do tipo penal e a personalidade do apelante Fernando não possa ser Considerada desfavorável, porque inexistem dados no processo para aferi-las, as circunstâncias do Crime são desfavoráveis aos réus, vez que o crime foi cometido em concurso de agentes e com emprego de arma de fogo, fato que impõe maior temor á vítima e aumenta a possibilidade de sucesso da empreitada criminosa, além disso, o acusado Fernando é poriador de maus antecedentes (CAC 3241329) e as consequências do delito realmente pesam contra os acusados porquanto a vítima teve prejuízo e, conforme fundamentado na r. Sentença, sofreu iminente perigo de morte, o que justifica a exasperação das penas-base no quantum fixado na sentença.
+Levando-se em consideração a variação da pena prevista no tipo penal (artigo 157, § 3, primeira parte, do Código Penal) de 07 (sete) a 18 (dezoito) anos de reclusão e diante de duas circunstâncias judiciais valoradas de forma negativa, as penas-base fixadas em 09 (nove) anos de reclusão não são exorbitantes.
+As penas-base fixadas de modo suficiente e eficiente para a prevenção e repressão do crime bem como para a reeducação do infrator não devem ser modificadas.
+No tocante à fixação da pena-base acima do mínimo legal, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+No presente caso, a parte recorrente requer o afastamento da negativação das circunstâncias do crime na pena-base, desvalor afastado pela Corte de origem.
+A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação. Precedentes: HC n. 272.126/MG, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 8/3/2016, DJe 17/3/2016; REsp n. 1.383.921/RN, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 16/6/2015, DJe 25/6/2015; HC n. 297.450/RS, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 21/10/2014, DJe 29/10/2014.
+No caso, pode haver a valoração negativa das circunstâncias do crime, pois o fato do delito do art. 157, §3º, do CP ter sido praticado em concurso de agentes e com o uso de arma de fogo, fatos que impõem maior temor á vítima, denotam um grau de reprovabilidade mais acentuado, aumentando a censurabilidade da conduta praticada.
+Ademais, o fato do delito ter sido praticado mediante o emprego de arma de fogo e em concurso de agentes justifica a exasperação da pena-base, uma vez que tais circunstâncias não foram sopesadas como majorantes do art. 157, § 2º, I e II, do CP. Precedentes: AgRg no AgRg no HC 493.923/GO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/04/2021, DJe 16/04/2021; HC 212.449/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/03/2015, DJe 15/04/2015.
+Dessa forma, conclui-se que os fundamentos utilizados para a majoração da pena-base são idôneos, devendo ser mantidos.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
