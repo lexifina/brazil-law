@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interno interposto porRUMO S.A. contra a decisão da Presidência desta Corte Superior de fls. 567-569 (e-STJ), que não conheceu do agravo em recurso especial.
+O apelo especial foi fundado nas alíneas aec do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Paraná assim ementado (e-STJ, fl. 339):
+AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO EM FASE DE CUMPRIMENTO DE SENTENÇA. LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO. REQUERIMENTO DE QUE SEJA FEITA PELO PROCEDIMENTO COMUM. NÃO ACOLHIMENTO. DESNECESSIDADE DE PROVAR FATO NOVO. DECRETO CONDENATÓRIO QUE RECONHECEU O DIREITO RECLAMADO PELA AGRAVADA EESTABELECEU AS PREMISSAS A SEREM OBSERVADAS PARA AULTERIOR APURAÇÃO DOS VALORES DEVIDOS À RECORRIDA RELATIVO AOS DANOS MATERIAIS. POSSIBILIDADE DO PERITO SOLICITAR NOVOS DOCUMENTOS E OUVIR TESTEMUNHAS. INTELIGÊNCIA DO ART.473, §3º DO CPC.HONORÁRIOS PERICIAIS QUE DEVEM SER SUPORTADOS PELA AGRAVANTE. MANUTENÇÃO DA DECISÃO AGRAVADA. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados, com aplicação de multa(e-STJ, fls. 430-435).
+No recurso especial, arecorrente apontou, além de divergência jurisprudencial, ofensa aos arts. 95, 489, § 1º,509, II,e 1.022 do Código de Processo Civil de 2015.
+Esclareceu que se insurgiu contra o acórdão que, sem apreciar todos os argumentos da insurgente e a incidênciados arts.489, § 1º, e 509, II, do novo CPC, firmou a responsabilidade civil da insurgente, sem a existência de nexo de causalidade entre sua atuação e o dano causado.
+Nesse sentido, firmou a ausência de dever reparatório peloincêndio que atingiu a propriedade e móveis das recorridas, ainda mais em quantias tão elevadas, principalmente com relação aos valores fixados a título de danos morais.
+Arguiua inadequação da via eleita com relação à liquidação de sentença por arbitramentoe o pagamento de honorários periciais somente pela ora insurgente. Pontuou que o cumprimento da sentençadependeria da juntada de novos documentos pelos agravados, principalmente para apuração dos lucros cessantes, que devem ser calculados sobre o lucro líquido da parte; sendo, portanto, necessária a juntada de comprovante dos valores percebidos pela recorrida nos meses antecedentes ao acidente, bem como dos valores gastos com a própria atividade.
+Dessa forma, frisou que aliquidação de sentença deveria ser feita pelo procedimento comum, sendo facultado à insurgenteapresentar contestação acerca dos novos documentos trazidos aos autos pela recorrida. Argumentou que deve ser determinado o rateio dos honorários periciais, tendo em vista que ambas as partes requererama produção de prova pericial. Pleiteou o conhecimento e provimento do recurso especial (e-STJ, fls. 449-462).
+Negado seguimento ao apelo especial, foi interposto agravo em recurso especial, o qual foi julgado pela Presidência deste Tribunal Superior, negando conhecimento ao agravo em recurso especial. Contra esse decisum interpõe a demandante agravo interno.
+Neste recurso, assevera que atacou todos os fundamentos da decisão de inadmissibilidade do recurso especial, inclusive a aplicação da Súmula 83/STJ. Reafirma as teses lançadas no apelo especial, acima sinteticamente sumariadas. Pugna pelo conhecimento e provimento do agravo (e-STJ, fls. 572-579).
+Contraminuta não apresentada (e-STJ, fls. 582-583).
+Brevemente relatado, decido.
+Reexaminando a petição de agravo em recurso especial, observa-se que a insurgente questionou todos os pontos da decisão de inadmissibilidade do recurso especial, conforme as fls. 516-524(e-STJ), inclusive a aplicação da Súmula 83/STJ(e-STJ, fls. 516-521).
+Logo, é caso de reconsideração da decisão da Presidência desta Corte Superior, estabelecendo o conhecimento do agravo em recurso especial.
+Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489, § 1º, e1.022 do Código de Processo Civil de 2015.
+O julgado dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+Consoanteo acórdão da segunda instância, a condenação objeto de execuçãoreconheceu o direito reclamado pelos agravados e estabeleceu as premissas a serem observadas para a ulterior apuração dos valores devidos relativos aos danos materiais consistentes na perda de fretes (lucros cessantes) e à aferição da desvalorização das duas carretas em razão da colisão com o trem. Dessa forma, não havia fato novo a ser provado, cabendo a liquidação por arbitramento.
+Confira-se (e-STJ, fls. 342-343):
+3.1. Com efeito, no caso, o decreto condenatório delegou ao cumprimento de sentença: a) a apuração do valor devido a título de danos materiais consistentes na perda de fretes (lucros cessantes), e, b) a aferição da desvalorização das duas carretas em razão da colisão com o trem.3.2. Dispõe o artigo 509 do Código de Processo Civil:
+ ..
+3.3. Nessa senda, quando houver necessidade de se alegar e provar fato novo, a liquidação dever ser feita pelo procedimento comum (inciso II do art. 509 do CPC).
+3.4. Assim, conforme ensina Daniel Amorim Assumpção Neves, " 1 Por fato novo deve-se entender aquele que não foi objeto de análise e decisão no processo no qual foi formado o título executivo que se busca liquidar. A novidade, portanto, não é temporal, mas diz respeito ao próprio Poder Judiciário, que pela primeira vez enfrentará e decidirá determinados fatos referentes ao quantum debeatur."
+ ..
+3.6. Volvendo ao caso concreto, verifica-se que o acórdão exequendo reconheceu o direito reclamado pela agravada e estabeleceu as premissas a serem observadas para a ulterior apuração dos valores devidos à recorrida relativo aos danos materiais consistentes na perda de fretes (lucros cessantes) e a aferição da desvalorização das duas carretas em razão da colisão com o trem.
+3.7. Logo, não é caso de liquidação pelo procedimento comum, por desnecessária a alegação ou a prova de fato novo; mas sim, de liquidação por arbitramento, devendo-se observar as balizas fixadas no exequendo para a apuração do decisum quantum debeatur.
+ ..
+3.9. Cumpre consignar, outrossim, que "É possível que o perito tenha no caso concreto necessidade de ouvir testemunhas, exigir novos documentos, conforme lhe faculta o art. 473, § 3º, do Novo CPC para uma melhor elucidação dos fatos já fixados em sentença, providências que não desvirtuam a natureza da liquidação".
+3.10.Assim, deve ser mantida a liquidação por arbitramento.
+Logo, essas ponderações a respeito do cabimento da liquidação por arbitramento foram fundadas na incursão fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ, que incide sobre ambas as alíneas do permissivo constitucional.
+No tocante ao pedido por rateio dos honorários advocatícios periciais, o aresto não acolheu a pretensão da agravante. Justificou que, por se tratar de cumprimento de sentença, tal parcela caberia a ela, tendo em vista que,versando o feito sobre liquidação, já se parte da premissa de que o vencedor é o liquidante, de forma que não teria sentido de aplicar ao caso o teor do art. 95 do novo CPC.
+Confira-se (e-STJ, fl. 349):
+4. Por fim, quanto ao pleito de rateio entre as partes dos honorários periciais, melhor sorte não lhe assiste, isso porque versando o propósito de liquidação "já se parte da premissa de que o vencedor é o liquidante, de forma que não teria sentido aplicar nesse caso a previsão consagrada no art. 95 do Novo CPC, exigindo dele um adiantamento para depois cobrar o valor do réu" 4 .
+Esse entendimento não destoa da jurisprudência desta Corte Superior, sendo caso do óbice da Súmula 83/STJ.
+Observem-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.HONORÁRIOS PERICIAIS. ÔNUS DE PAGAMENTO. RECURSO REPETITIVO.SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. "Na fase autônoma de liquidação de sentença (por arbitramento ou por artigos), incumbe ao devedor a antecipação dos honorários periciais" (REsp n. 1.274.466/SC, SEGUNDA SEÇÃO, Rel. Min. PAULO DE TARSO SANSEVERINO).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1061905/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/12/2017, DJe 12/12/2017)
+RECURSO ESPECIAL. AÇÃO DE DISSOLUÇÃO PARCIAL DE SOCIEDADE LIMITADA.FASE DE LIQUIDAÇÃO. HONORÁRIOS PERICIAIS. ANTECIPAÇÃO. ÔNUS QUE INCUMBE A QUEM REQUEREU A PERÍCIA. CIRCUNSTÂNCIAS FÁTICAS QUE NÃO AUTORIZAM A APLICAÇÃO DO ART. 603 DO CPC/15.
+1. Ação ajuizada em 29/10/2014. Recurso especial interposto em 12/9/2018. Conclusão ao Gabinete em 8/2/2019.
+2. O propósito recursal consiste em definir a quem incumbe, em processo de dissolução parcial de sociedade limitada, o adiantamento dos honorários devidos ao perito designado para apurar os haveres do sócio excluído.
+3. De acordo com o art. 95, caput, do CPC/15, a despesa concernente à antecipação dos honorários periciais incumbe a quem requereu a prova técnica (no particular, o recorrente).
+4. A moldura fática da hipótese desautoriza a aplicação da regra do art. 603, § 1º, do CPC/15, pois essa norma exige, para que possa haver o rateio das despesas processuais entre as partes, "manifestação expressa e unânime pela concordância da dissolução", circunstância ausente no particular.
+5. A pretensão de rateio dos honorários fundada na alegação de que a perícia contábil seria realizada independentemente de requerimento de quaisquer das partes também não se coaduna com as circunstâncias fáticas da espécie. 6. Ademais, o STJ já se manifestou - muito embora em demanda derivada de fatos distintos da presente - no sentido de que, após o trânsito em julgado da sentença, os encargos relacionados à fase de liquidação devem ser imputados à parte que foi derrotada (no particular, o recorrente), a fim de se garantir a observância da regra geral que impõe ao vencido o pagamento das despesas processuais.
+RECURSO ESPECIAL NÃO PROVIDO.
+(REsp 1821048/GO, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/08/2019, DJe 29/08/2019)
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. PROCESSUAL CIVIL.TELEFONIA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. COMPLEMENTAÇÃO DE AÇÕES. LIQUIDAÇÃO DE SENTENÇA. HONORÁRIOS PERICIAIS. ENCARGO DO VENCIDO.
+1. Para fins do art. 543-C do CPC: (1.1) "Na liquidação por cálculos do credor, descabe transferir do exequente para o executado o ônus do pagamento de honorários devidos ao perito que elabora a memória de cálculos".
+(1.2) "Se o credor for beneficiário da gratuidade da justiça, pode-se determinar a elaboração dos cálculos pela contadoria judicial".
+(1.3) "Na fase autônoma de liquidação de sentença (por arbitramento ou por artigos), incumbe ao devedor a antecipação dos honorários periciais ".
+2. Aplicação da tese 1.3 ao caso concreto.
+3. RECURSO ESPECIAL DESPROVIDO.
+(REsp 1274466/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 14/05/2014, DJe 21/05/2014)
+Ante o exposto, em juízo de retratação, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ATAQUE A TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. RECONSIDERAÇÃO. CONCLUSÃO DO TRIBUNAL ESTADUAL NO SENTIDO DO CABIMENTO DA LIQUIDAÇÃO POR ARBITRAMENTOFUNDADA EM MATÉRIA FÁTICA. SÚMULA 7/STJ. EXECUÇÃO. IMPOSIÇÃO AO DEVEDOR DA RESPONSABILIDADE PELOS HONORÁRIOS PERICIAIS. ENTENDIMENTO DA SEGUNDA INSTÂNCIA EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ.EM JUÍZO DE RECONSIDERAÇÃO, AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
