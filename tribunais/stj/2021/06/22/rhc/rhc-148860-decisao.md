@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus interposto por ANTONIO BRUNO AMORIM NETO contra acórdão do Tribunal de Justiça do Estado de São Paulonos autos do HC n. 2019434-09.2021.8.26.0000.
+Consta dos autos que o paciente foi condenado, em primeiro grau, a 3 anos de detenção, em regime aberto, como incurso no art. 89, caput e art. 89, parágrafo único, da Lei n. 8.666/90, na forma do art. 29 do Código Penal, tendo a pena privativa de liberdade substituída por duas restritivas de direitos.
+Irresignada, a defesa impetrou o writ originário, o qual teve a ordem denegada, nos termos da seguinte ementa:
+"Habeas Corpus - Crime previsto na lei de licitações - Sentença de procedência - Recurso de apelação interposto pela defesa em processamento - Pedido para oferta de acordo de não persecução penal - Recusa do Parquet em primeira instância bem justificada - Indeferimento de remessa dos autos ao Procurador Geral de Justiça, nos termos do art. 28-A, § 14, do Código de Processo Penal - Ausência de discordância do Juízo com a decisão do parquet - Inexistência de constrangimento ilegal - Ordem denegada." (fl. 76)
+No presente recurso a defesa alega que o recorrente preenche todos os requisitos legais necessários à aplicação do acordo de não persecução penal.
+Aduz que, tratando-se de norma mais benéfica, deve retroagir para casos ainda não atingidos pelo trânsito em julgado. Sustenta que a determinação de remessa dos autos ao Procurador de Justiça, nos termos do § 14 do art. 28-A, não está condicionada à concordância do magistrado.
+Requer, assim, "em caráter liminar, a suspensão do feito originário, até que não se decida sobre a matéria trazida a debate neste Recurso Ordinário e, no mérito, aguarda-se o provimento do recurso, reformando-se o v. acórdão, determinando-se ao Juiz de piso que remeta os autos com o pedido de acordo de não persecução penal, à Procuradoria-Geral de Justiça, para que formule a proposta almejada" (fl. 141).
+Decido.
+No presente recurso, insurge-se o paciente contra o mesmo acórdão do TJSP, aduz os mesmos argumentos e traz pedido idêntico ao formulado no HC662.075. Sendo, conforme consabido, inadmissível a reiteração de pedidos, obstaculizado o conhecimento deste feito.
+Nesse sentido:
+"AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. NEGATIVA DE SEGUIMENTO. REITERAÇÃO DE PEDIDO FORMULADO NO RHC N. 42.510/RJ. MANIFESTAÇÃO DO COLEGIADO. AGRAVO REGIMENTAL DESPROVIDO. I - O presente recurso é mera reiteração do pedido já formulado e decidido, nos autos do RHC n. 42.510/RJ, pela col. Quinta Turma. II - Observa-se do termo de recebimento e autuação que ambos os processos possuem o mesmo número de origem, além de aduzirem os mesmos argumentos e formularem idênticos pedidos. Agravo regimental desprovido." (AgRg no RHC 42.638/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 10/12/2014)
+Por tais razões, não conheço do presente recurso em habeas corpus.
+Publique-se. Intimem-se.
