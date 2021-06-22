@@ -1,0 +1,60 @@
+DECISÃO
+AILTON LAIDIMAR SPANIER, JULIO FRANCO, ILIANE MARIA GOES CINTRA, IVONETE LOPES TEIXEIRA eEULER DE FREITAS SILVA(AILTONe outros) ajuizaram ação de cobrança contra CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL (PREVI), pleiteando o repasse aos seus benefícios de suplementação de aposentadoria dos expurgos inflacionários referentes a JUN/87 (26,06%), JAN/89 (42,72%), FEV/89 (10,14%), MAR/90 (84,32%), ABR/90 (44,80%), MAI/90 (7,87%) e FEV/91 (21,87%). com o respectivo pagamento dos valores em atraso.
+Em primeira instância, o pedido foi julgado procedente (e-STJ, fls. 441/450).
+O Tribunal de Justiça do Paraná negouprovimento à apelação da PREVI, nos termos do acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. DEMANDA JULGADA PROCEDENTE. INSURGÊNCIA.PRELIMINAR: CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PRODUÇÃO DE PERÍCIA PERICIAL ATUARIAL. DESNECESSIDADE. PRELIMINAR: ATAQUE AO PRINCÍPIO DA DIALETICIDADE. VERIFICADO. RECORRENTE QUE REPRISOU ARGUMENTOS ANTERIORMENTE EXARADOS EM CONTESTAÇÃO. ÔNUS SUCUMBENCIAIS MANTIDOS.HONORÁRIOS RECURSAIS. IMPOSIÇÃO LEGAL. APELO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, NÃO-PROVIDO(e-STJ, fl. 390).
+Na sequência, PREVI interpôs agravo interno (e-STJ, fls. 675/684), o qual teve o seguimento negado por decisão monocrática da Relatora, com aplicação da multa prevista no art. 1.021, § 4º, do NCPC, fixada em 5% sobre o valor corrigido da causa(e-STJ, fl. 715/718).
+Os embargos de declaração opostos por AILTON e outros foram rejeitados (e-STJ, fls. 648/653).
+Ainda irresignada, PREVImanejou recurso especial com base no art. 105, III, a e c,da Constituição Federal alegando, a par de divergência jurisprudencial,a violação dos arts. 178,§ 10, II, do CC/16;1º, 18, 19 e 75 da LCP nº 109/2001, aduzindo, em síntese, (1) a consumação do prazo prescricional quinquenal incidente à hipótese; e (2) a impossibilidade do repasse de expurgos inflacionários aos benefícios de suplementação de aposentadoria dos recorridos, uma vez que, no caso, não houve o resgate das reservas de poupança, nem o rompimento definitivo do vínculo contratual dos participantes com a entidade previdenciária.
+Houve o oferecimento de contrarrazões (e-STJ, fls. 789/792)
+O apelo nobre não foi admitido pelo Tribunal paranaense em virtude da ausência derecolhimentoda multa imposta no julgamento do agravo interno, em descumprimento ao que dispõe o art. 1.021,§ 5º, do NCPC (e-STJ, fls. 795/796).
+Nas razões do presente agravo em recurso especial, PREVI sustentou(1) a ilegalidade da multa aplicada pelo TJPR no julgamento do agravo interno, o qual deveria ter sido apreciado peloórgão colegiado e não por decisão monocrática daRelatora; (2) que é incabível condicionar a interposição do apelo extremo ao recolhimento prévio da referida multa, sob pena de cerceamento do direito de defesa e violação aos princípios da isonomia e do contraditório; e (3) alternativamente, que lhe seja oportunizada a abertura de prazo parao recolhimento da multa.
+É o relatório.
+DECIDO.
+O recurso não comporta provimento.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Consoante pacífico entendimento desta Corte, o art. 1.021, § 5º, do NCPC, é claro ao estabelecer o prévio recolhimento da multa prevista no § 4º do referido artigo, sendo pressuposto objetivo de admissibilidade de qualquer impugnação recursal, não se conhecendo do recurso manejado sem esse pagamento.
+Na espécie, mediante análise dos autos, verifica-se que a decisão proferida pela Relatora no TJPR, ao negar seguimento aoagravo interno interposto pela PREVI,aplicou multa de 5% sobre o valor atualizadoda causa, ficando a interposição de qualquer outro recurso condicionada ao prévio depósito do respectivo valor.
+Ocorre que, no ato da interposição do recurso especial, a parte deixou de recolher os valores correspondentes à penalidade aplicada.
+Nessa hipótese, não se conhece do recurso especial quando interposto sem o prévio recolhimento da multa inserta no art. 1.021, § 4º, do NCPC imposta pelo Tribunal de origem, vez que tal medida configura-se pressuposto objetivo de admissibilidade recursal, com natureza de penalidade processual.
+Saliente-se que, de acordo com o entendimento do STF, ainda que o recurso vise afastar a sanção pecuniária aplicada com base no citado dispositivo legal, o prévio recolhimento da multa é pressuposto objetivo de recorribilidade e, portanto, o descumprimento dessa imposição é óbice à admissão do recurso.
+Nesse sentido, confira-se o seguinte julgado:
+PROCESSUAL CIVIL. MULTA PREVISTA NO ART. 557, § 2º, DO CPC. AUSÊNCIA DE RECOLHIMENTO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+I - O prévio depósito da multa aplicada, com base no art. 557, § 2º, do Código de Processo Civil, configura pressuposto objetivo de recorribilidade, sendo certo que a interposição de qualquer outro recurso fica condicionada ao recolhimento da multa imposta, sob pena de não conhecimento.
+Precedentes.
+II - Embargos de declaração não conhecidos.
+(AI 636.616 AgR-ED-EDv-AgR-AgR-ED-AgR-ED, Relator Min.RICARDO LEWANDOWSKI, Tribunal Pleno, DJe 9/11/2011)
+Vejam-se, de igual forma, no âmbito doSTJ:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.MULTA PROCESSUAL APLICADA NO AGRAVO INTERNO. NÃO COMPROVAÇÃO DO RECOLHIMENTO. PRESSUPOSTO RECURSAL OBJETIVO DE ADMISSIBILIDADE. EMBARGOS NÃO CONHECIDOS.
+- A aplicação de multa no agravo interno declarado manifestamente inadmissível ou improcedente em votação unânime (art. 1.021, § 4º, do CPC/15), condiciona a interposição de qualquer outro recurso ao depósito prévio do valor da referida sanção processual, conforme inteligência do art. 1.021, § 5º, do CPC/15.
+- Embargos de declaração não conhecidos.
+(EDcl no AgInt no AREsp 805.753/DF, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. em 6/6/2017,DJe 12/6/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. MULTA DO ART. 557, § 2º, DO CPC/1973.NECESSIDADE DE RECOLHIMENTO PRÉVIO À INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO.PRESSUPOSTO OBJETIVO DE ADMISSIBILIDADE. JUNTADA POSTERIOR. IMPOSSIBILIDADE. PRECLUSÃO. AGRAVO IMPROVIDO.
+1. A falta de comprovação do prévio recolhimento da multa impostapelo Tribunal de origem, no momento da interposição do recurso especial, implica na sua inadmissão por ausência de pressuposto recursal objetivo.
+2.  ..
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 628.238/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 27/9/2016, DJe 5/10/2016)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DO PAGAMENTO DA MULTA PROCESSUAL.PRESSUPOSTO RECURSAL OBJETIVO DE ADMISSIBILIDADE. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Não merecem ser conhecidos os embargos de declaração uma vez que a parte não efetuou o recolhimento da multa processual imposta pelo acórdão embargado com fundamento no artigo 1.021, § 4º, do Código de Processo Civil de 2015.
+2. Segundo a clara dicção do artigo 1.021, § 5º, do Código de Processo Civil de 2015, o prévio recolhimento da multa prevista no § 4º do referido artigo é pressuposto objetivo de admissibilidade de qualquer impugnação recursal, não se conhecendo do recurso manejado sem esse pagamento.
+3. Embargos de declaração não conhecidos.
+(EDcl no AgInt no AREsp 859.529/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 23/8/2016, DJe 29/8/2016)
+Por derradeiro, nas hipóteses de imposição de multa como requisito de admissibilidade para a interposição de novos recursos não é possível abrir prazo para regularização com fundamento no art. 932, parágrafo único, do NCPC.
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO PUBLICADO NA VIGÊNCIA DO CPC/2015. APLICAÇÃO, PELO TRIBUNAL DE ORIGEM, DA MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015.AUSÊNCIA DE RECOLHIMENTO PRÉVIO, NOS TERMOS DO § 5º DO MESMO DISPOSITIVO LEGAL. RECURSO ESPECIAL NÃO CONHECIDO. INTIMAÇÃO PARA REGULARIZAR O VÍCIO. NÃO CABIMENTO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Na forma da jurisprudência do STJ, "não se conhece do recurso especial quando interposto sem o recolhimento da multa inserta no art.1.021, § 4.º, do Código de Processo Civil, imposta pelo Tribunal de origem, vez que tal recolhimento configura-se pressuposto objetivo de admissibilidade recursal, com natureza de penalidade processual" (STJ, AgInt no AREsp 1189709/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 03/05/2018). No mesmo sentido: STJ, AgInt no AREsp 1.173.359/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 12/03/2018;AgInt no AREsp 1.084.253/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 26/06/2017.
+IV. Consoante a firme jurisprudência do STJ, "como o pressuposto objetivo de admissibilidade do recurso diz respeito ao prévio depósito do valor da multa, não há que se cogitar da necessidade de concessão de prazo para que o vício seja sanado, sendo o pagamento posterior da penalidade admitido apenas nas hipóteses legalmente previstas" (STJ, AgInt no AREsp 1.250.886/RN, Rel. Ministro LÁZARO GUIMARÃES (Desembargador Federal convocado do TRF/5ª Região), QUARTA TURMA, DJe de 27/09/2018). Em igual sentido: STJ, AgInt no AREsp 1185988/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 02/04/2018;AgInt no AREsp 1149021/SE, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 21/05/2018.
+V. Agravo interno improvido.
+(AgInt no AREsp 1.382.583/CE, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, DJe 6/3/2019 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM NÃO CONHECIDOS. FALTA DE RECOLHIMENTO DA MULTA APLICADA NO AGRAVO INTERNO. AUSÊNCIA DE INTERRUPÇÃO DO PRAZO. RECURSO ESPECIAL INTEMPESTIVO. AGRAVO INTERNO NÃO PROVIDO.
+1. Os embargos de declaração não conhecidos por falta de recolhimento da multa prevista no art. 1.021, § 4º, do CPC/2015 não têm o condão de interromper o prazo para a interposição de novos recursos. Por essa razão, o subsequente recurso especial apresentado há de ser considerado intempestivo.
+2. "Como o pressuposto objetivo de admissibilidade do recurso diz respeito ao prévio depósito do valor da multa, não há que se cogitar da necessidade de concessão de prazo para que o vício seja sanado, sendo o pagamento posterior da penalidade admitido apenas nas hipóteses legalmente previstas" (AgInt no AREsp 1.149.021/SE, Rel.Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 15/05/2018, DJe de 21/05/2018).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.250.886/RN, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Quarta Turma, DJe 27/9/2018 - sem destaque no original)
+Nessas condições, NEGO PROVIMENTO ao agravo.
+Inaplicável ao caso a majoração de honorários advocatícios.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se.Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSOMANEJADO SOB A ÉGIDE DO NCPC. MULTA PROCESSUAL APLICADA NO AGRAVO INTERNO. ART. 1.021, §§ 4º E 5º, DO NCPC. NÃO COMPROVAÇÃO DO PRÉVIO RECOLHIMENTO.PRESSUPOSTO RECURSAL OBJETIVO DE ADMISSIBILIDADE.PRECEDENTES DO STJ E DO STF. INTIMAÇÃO DA PARTE PARA REGULARIZAÇÃO. DESCABIMENTO.AGRAVO NÃO PROVIDO.
