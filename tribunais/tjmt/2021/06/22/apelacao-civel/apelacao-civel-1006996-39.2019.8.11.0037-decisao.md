@@ -1,0 +1,34 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe – Processo Judicial eletrônico
+Recurso Especial na Apelação Cível no 1006996-39.2019.811.0037
+Recorrente: CHERNENKO DO NASCIMENTO COUTINHO
+Recorrido: BANCO VOLKSWAGEN S/A
+Vistos.
+Trata-se de recurso especial (id. 84008955) interposto por CHERNENKO DO NASCIMENTO COUTINHO, com fundamento no art. 105, III, alínea “a”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado, que negou provimento ao seu recurso de apelação cível, com a seguinte ementa (id. 65729477):
+“APELAÇÃO CÍVEL – AÇÃO DE BUSCA E APREENSÃO – CONTRATO DE FINANCIAMENTO GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA – PRELIMINAR DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE CITAÇÃO VÁLIDA DO RÉU – REJEIÇÃO – COMPARECIMENTO ESPONTÂNEO DO RÉU NOS AUTOS – TESE DEFENSIVA APRESENTADA TEMPESTIVAMENTE – AUSÊNCIA DE PREJUÍZO PARA A DEFESA – CONSTITUIÇÃO EM MORA DO DEVEDOR VALIDAMENTE REALIZADA – NOTIFICAÇÃO EXTRAJUDICIAL ENVIADA PARA O ENDEREÇO CONTRATUAL – EPÍSTOLA RECEBIDA – NOTIFICAÇÃO VÁLIDA – RECURSO DESPROVIDO. 1. O § 1o, do art. 239 do CPC, dispõe que “o comparecimento espontâneo do réu ou do executado supre a falta ou a nulidade da citação, fluindo a partir desta data o prazo para apresentação de contestação ou de embargos à execução”, e não se pode declarara qualquer nulidade sem ocorrência de prejuízo. 2. “O envio da notificação extrajudicial no endereço contratual do devedor é suficiente para constituí-lo em mora decorrente do inadimplemento de contrato de alienação fiduciária. (STJ - Quarta Turma - AgInt no AREsp 1286619/MS – Rela. Ministra MARIA ISABEL GALLOTTI - Julgado em 13/11/2018 - DJe 20/11/2018)”. (RAC n° 1006996-39.2019.811.0037, Rel. JOÃO FERREIRA FILHO, PRIMEIRA CÂMARA DE DIREITO PRIVADO, j. em 03/11/2020)”
+Interpostos embargos de declaração, estes foram rejeitados, conforme acórdão lançado no id. 80769496.
+O recorrente sustenta em suas razões, violação aos arts. 5o, LIV, LV, XXXV e 93, IX, da CF/88; arts. 5o; 278; 371 e 485, do CPC e arts. 113; 187 e 422, do CC, ao argumento de que o acórdão não observou a legislação federal, deixando de apreciar as transgressões aos mencionados dispositivos legais.
+Recurso tempestivo (id. 85493485).
+Não houve recolhimento do preparo quando da interposição, em razão do pedido de justiça gratuita (Certidão id. 85360496).
+Intimado para comprovar a condição de hipossuficiente, o recorrente deixou transcorrer o prazo, sem qualquer manifestação (id. 87606959), razão pela qual a gratuidade almejada foi indeferida (id. 87622984).
+Devidamente intimado para providenciar o recolhimento do preparo, o recorrente não o fez, eis que deixou transcorrer o prazo para tanto (certidão no id. 89931980).
+Contrarrazões no id. 89024493.
+É o relatório.
+Decido.
+Deserção
+Afere-se que no id. 87622984, esta Vice-Presidência determinou a intimação do recorrente para recolher o preparo, fazendo consignar o seguinte:
+“Ante o exposto, com essas considerações e nos termos do art. 99, § 2°, do CPC, indefiro a gratuidade de justiça ao recorrente e, nos termos do art. 99, § 7o do CPC, determino a intimação do mesmo para que, no prazo de 05 (cinco) dias, providencie o devido recolhimento do preparo, sob pena de deserção” (grifei).
+O recorrente, após intimado para tanto, deixou escoar o prazo concedido, sem qualquer manifestação nos autos. Nesse contexto, quando desatendida a determinação ou atendida a destempo, o recurso há de ser declarado deserto.
+Além da previsão contida no art. 1.007, caput, do CPC, há súmula impeditiva de seguimento para casos tais, a saber:
+“Súmula 187/STJ. É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos”.
+A propósito, nesse sentido:
+“ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA. PESSOA JURÍDICA. SÚMULA 481/STJ. INDEFERIMENTO. PREPARO. AUSÊNCIA DE RECOLHIMENTO. DESERÇÃO. SÚMULA 187/STJ. (...) 2. Hipótese em que não ficou evidenciada a situação de hipossuficiência financeira da pessoa jurídica agravante e, não recolhido o preparo no prazo fixado, deve ser decretada a deserção do agravo em recurso especial, nos termos da Súmula 187/STJ: " É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e de retorno dos autos." 3. Agravo interno não provido. (AgInt no AREsp 1517591/PE, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, j. em 31/08/2020, DJe 09/09/2020)” (grifei).
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO PUBLICADO NA VIGÊNCIA DO CPC/2015. PEDIDO DE CONCESSÃO DO BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA NO BOJO DO RECURSO. INDEFERIMENTO. INTIMAÇÃO PARA REALIZAÇÃO DO PREPARO, NO PRAZO DE 5 (CINCO) DIAS, NA FORMA DOS ARTS. 99, § 7°, E 101, § 2°, DO CPC/2015. NÃO ATENDIMENTO. NÃO CONHECIMENTO DO RECURSO ESPECIAL. DESERÇÃO. SÚMULA 187/STJ. INCIDÊNCIA. PRECEDENTES. AGRAVO INTERNO IMPROVIDO. (...) II. No caso, em que pese a parte recorrente tenha formulado pedido de concessão do benefício da assistência judiciária no bojo do Recurso Especial, deixou de trazer documentação apta a comprovar sua situação de hipossuficiência financeira, pelo que restou indeferido o pedido e determinada sua intimação, a fim de proceder ao recolhimento do preparo e à respectiva comprovação, em 05 (cinco) dias, sob pena de não conhecimento do recurso. Entretanto, a parte agravante deixou transcorrer in albis o aludido prazo. III. Na forma da jurisprudência do STJ, "o benefício da gratuidade judiciária não tem efeito retroativo, de modo que a sua concessão posterior à interposição do recurso não tem o condão de isentar a parte do recolhimento do respectivo preparo. Desse modo, nem mesmo eventual deferimento da benesse nesta fase processual, descaracterizaria a deserção do recurso especial" (STJ, AgInt no AREsp 1.769.760/MS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/03/2021). IV. O não recolhimento do preparo recursal, bem como sua comprovação, inviabiliza o conhecimento do Recurso Especial, nos termos da Súmula 187 desta Corte, in verbis: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos". V. Agravo interno improvido. (AgInt no AREsp 1732695/GO, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, j. em 31/05/2021, DJe 04/06/2021)” (grifei).
+Ante o exposto, nego seguimento ao recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
