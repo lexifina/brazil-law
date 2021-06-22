@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso ordinário em face de acórdão do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL INDEFERIDO. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. FALTAS DISCIPLINARES GRAVES. COMETIMENTO DE CRIME NO CURSO DO RESGATE DA REPRIMENDA. LIMITAÇÃO DO PERÍODO DE AFERIÇÃO. IMPOSSIBILIDADE. DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO”. (eDOC 1, p. 108)
+    Narra o recorrente, em suma, que não teve seu pedido de livramento condicional deferido em razão de haver cometido faltas disciplinares (em 2007 e 2008) e praticado novo delito (em 2012) durante a execução da pena.
+    Alega que esses fatos já lhe teriam gerado as sanções específicas e que, em virtude de sua antiguidade, não poderiam exercer, no tempo presente, o efeito de obstar a concessão do benefício, frustrando o caráter ressocializador da pena. (eDOC 1, p. 122)
+    Pleiteia a concessão da ordem de habeas corpus para que lhe seja deferido o livramento condicional.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Transcrevo a fundamentação do ato impugnado:
+    “Nos termos do que dispõe o art. 83 do Código Penal – CP, o apenado deverá cumprir os requisitos de natureza objetiva (lapso temporal) e subjetiva (comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover à própria subsistência mediante trabalho honesto) para a obtenção do benefício do livramento condicional.
+    Nesse sentido, esta Corte pacificou o entendimento segundo o qual, apesar de a falta grave não interromper o prazo para a obtenção de livramento condicional, Súmula n. 441 do Superior Tribunal de Justiça – STJ, as infrações disciplinares praticadas no decorrer da execução penal justificam o indeferimento do benefício, pelo inadimplemento do requisito subjetivo.
+    Cumpre ressaltar ainda que não se aplica limite temporal ao requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado”. (eDOC 1, p. 111)
+    Verifico que o acórdão recorrido está em consonância com a jurisprudência desta Corte, que reconhece que a análise do requisito subjetivo do sentenciado deve abranger todo o período em que cumpriu pena, não apenas os anos mais recentes. Nesse sentido, cito o HC 134.247, rel. p/ acórdão Alexandre de Moraes, Primeira Turma, DJe 5.10.2017; e o HC 192.170, rel. Ricardo Lewandowski, Segunda Turma, DJe 9.11.2020, este último assim ementado:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. LIVRAMENTO CONDICIONAL REVOGADO PELO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO. COMPORTAMENTO INSATISFATÓRIO DURANTE A EXECUÇÃO DA PENA. COMETIMENTO DE FALTA GRAVE PELO PACIENTE DURANTE O PERÍODO EM QUE ESTEVE EM REGIME SEMIABERTO. INTELIGÊNCIA DO ART. 131 DA LEP, COMBINADO COM O ART. 83, III, DO CÓDIGO PENAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – Especificamente sobre o livramento condicional, o art. 131 da Lei de Execução Penal – LEP determina que “poderá ser concedido pelo Juiz da execução, presentes os requisitos do art. 83, incisos e parágrafo único, do Código Penal, ouvidos o Ministério Público e Conselho Penitenciário”. II – No caso, a revogação do livramento condicional pelo Tribunal de Justiça do Estado de São Paulo – TJSP deu-se em razão do cometimento de falta grave pelo paciente durante o período em que esteve em regime intermediário. III – O entendimento que orientou as decisões do TJSP e do STJ encontra-se consonante com a jurisprudência do Supremo Tribunal Federal, firmada no sentido de que a modificação legislativa não afastou a necessidade de comprovação do comportamento satisfatório durante a execução da pena previsto no art. 83, III, do Código Penal. IV – Agravo regimental a que se nega provimento.
+    No caso concreto, destaca-se que “o apenado possui 10 condenações, as quais somam 26 anos e 20 dias. No curso de sua execução, empreendeu fuga por 02 vezes, tendo o seu regime de pena regredido. Além do mais, enquanto gozava do regime aberto veio a cometer novo delito, envolvendo-se assim em prática de falta de natureza grave” (eDoc 2, p. 10).
+    Logo, reputo inexistente ilegalidade manifesta ou constrangimento ilegal passível de correção pela via estreita do mandamus.
+    Ante o exposto, nego seguimento ao recurso ordinário em habeas corpus (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 22 de junho de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
