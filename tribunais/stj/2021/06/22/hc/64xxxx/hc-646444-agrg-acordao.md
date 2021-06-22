@@ -1,0 +1,59 @@
+EMENTA
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE. SANÇÃO COLETIVA. ABSOLVIÇÃO. IMPOSSIBILIDADE. INFRAÇÃO PRATICADA EM COAUTORIA OU PARTICIPAÇÃO. REVOLVIMENTO DO MATERIAL FÁTICO-PROBATÓRIO DOS AUTOS. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+1. Na hipótese, deve ser afastada a alegação de aplicação de sanção coletiva, uma vez que os agentes de segurança identificaram o agravante como um dos integrantes do grupo responsável pela subversão da ordem que articulou a entrada de armas e aparelhos de telefonia celular no estabelecimento prisional por meio de drones, demonstrando que a conduta foi praticada em coautoria ou participação.
+2. Revisar os elementos de prova para absolver o agravante da conduta imputada exigiria o revolvimento do contexto fático-probatório, procedimento incompatível com a estreita via do habeas corpus, na qual não se admite dilação probatória.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por MIKAEL MEIRA DEZEDERIO contra a decisão de e-STJ fls. 200/204, por meio da qual deneguei a ordem.
+Na hipótese, o Juízo da Vara de Execuções Penais da Comarca de Presidente Prudente/SP reconheceu a falta grave praticada pelo paciente (art. 50, VI, c/c o art. 39, incisos I e II, ambos da Lei de Execução Penal), bem como determinou a alteração do marco inicial para nova progressão e a perda de 1/3 (um terço) dos dias remidos (e-STJ fls. 19/21).
+A defesa interpôs agravo em execução na Corte de origem, que desproveu o recurso, em acórdão cuja ementa foi assim definida (e-STJ fl. 7):
+AGRAVO EM EXECUÇÃO. FALTA GRAVE APURADA EM REGULAR SINDICÂNCIA ADMINISTRATIVA. REALIZADO CONTROLE JUDICIAL DA LEGALIDADE E ANOTAÇÃO NA EXECUÇÃO CRIMINAL. JUSTA CAUSA PARA O RECONHECIMENTO DA FALTA GRAVE. MANUTENÇÃO DA PERDA DE 1/3 DOS DIAS REMIDOS. RECURSO IMPROVIDO
+Neste habeas corpus, a impetrante argumentou que não haveria provas suficientes acerca da prática da falta grave pelo paciente.
+Aduziu que a "suposta ação caracterizadora de infração disciplinar foi atrelada indistintamente à conduta suposta de outros doze sentenciados, não restando demonstrado em que medida o reeducando teria participado da infração administrativa apurada", e que, "nos termos do §3º do art. 45 da LEP, é vedada a sanção coletiva, devendo prevalecer o princípio da individualização da culpa. Nesse sentido, prova alguma há de que o agravado participou do evento, e em qual medida" (e-STJ fl. 4).
+Afirmou que, "à falta de prova segura, a absolvição do paciente se faz necessária" (e-STJ fl. 4) e requereu a concessão da ordem para absolver o paciente da falta a ele imputada.
+Às e-STJ fls. 200/204, deneguei a ordem.
+Nesta oportunidade, a defesa reitera as razões trazidas na inicial, alegando que "os relatos dos agentes não foram capazes de individualizar a conduta do requerente, nem mesmo superficialmente sendo que as sanções coletivas são expressamente vedadas pelo art. 45, paragrafo 3 da LEP" (e-STJ fl. 206).
+Reforça que, "tendo sido instaurada sindicância contra outros 12 sentenciados, todos condenados pelos exatos termos acima descritos, é certo que o §3º do art. 45 da LEP veda a sanção coletiva, devendo prevalecer o princípio da individualização da culpa. Nesse sentido, prova alguma há de que o reeducando subverteu a ordem do estabelecimento, exercendo liderança negativa, e em qual medida" (e-STJ fls. 207/208), e requer o provimento do recurso a fim de absolver o agravante da falta grave.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O agravo regimental não merece prosperar.
+No caso, os fatos que deram ensejo à instauração da sindicância para a apuração de prática de falta grave estão devidamente delineados no acórdão impugnado. Confira-se (e-STJ fls. 9/10):
+No caso em tela, observada a regularidade da apuração da falta disciplinar, com observância dos princípios do contraditório e da ampla defesa, não se vislumbra a ocorrência de ilegalidade ou teratologia da decisão administrativa.
+Pelo que verte do procedimento administrativo, há justa causa para o reconhecimento e anotação da falta disciplinar de natureza grave imputada ao sentenciado, ocorrida em 12/04/2019, com a verificação dos efeitos que lhe são inerentes.
+Pelo que verte dos autos, o agravante, em concurso com outros sentenciados, realizou reunião com a finalidade de articulação de uso de drones, visando entrada de aparelhos de telefone celular e armas no presídio, subvertendo a ordem e disciplina.
+Nesse sentido, são os depoimentos dos agentes de segurança penitenciária Celso Antônio Ferracini (fls. 54 idem 237) e Wladimir Aparecido Pascoalato (fls. 53 idem 236).
+A negativa apresentada pelo sentenciado (fl. 88 idem 271), sem respaldo nos autos, e afastada, com segurança, não comporta acolhimento.
+A r. decisão judicial contra a qual insurge-se o agravante reconheceu a legalidade do procedimento e a existência de justa causa para a aplicação da sanção.
+Inquestionável, portanto, a responsabilização do agravante pela prática de falta disciplinar de natureza grave nos termos do art.50, I, e VI, combinado com o art. 39, II e V, ambos da LEP, razão pela qual não há que se falar em desconstituição da falta disciplinar de natureza grave.
+Importa considerar, neste aspecto, ainda, que não se trata, em tese, de imposição de sanção coletiva, tampouco não individualizada, mas de reconhecimento da participação do agravante em conjunto com outros sentenciados, no cometimento de falta grave.
+De rigor, assim, a anotação da falta grave cometida pelo sentenciado. Raciocínio diverso, aliás, consistiria, inclusive, em potencialização de distorções no sistema prisional. (Grifei.)
+Asseverei, na decisão agravada, que deve ser afastada a alegação de aplicação de sanção coletiva, uma vez que, da leitura do excerto acima transcrito, tem-se que os agentes de segurança identificaram o agravante como um dos integrantes do grupo responsável pela subversão da ordem que articulou a entrada de armas e aparelhos de telefonia celular no estabelecimento prisional por meio de drones, demonstrando que a conduta foi praticada em coautoria ou participação.
+Não há que se falar, pois, em sanção coletiva, sendo "inquestionável, portanto, a responsabilização do agravante pela prática de falta disciplinar de natureza grave nos termos do art. 50, I, e VI, combinado com o art. 39, II e V, ambos da LEP, razão pela qual não há que se falar em desconstituição da falta disciplinar de natureza grave" (e-STJ fls. 9/10).
+Nesse sentido, citei o seguinte julgado:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA DE NATUREZA GRAVE RECONHECIDA APÓS REGULAR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. CONTRADITÓRIO E A AMPLA DEFESA ASSEGURADOS. NULIDADE DECORRENTE DA AUSÊNCIA DA OITIVA JUDICIAL DO APENADO QUE FOI DEVIDAMENTE ACOMPANHADO DE DEFESA TÉCNICA NO ÂMBITO DO PROCEDIMENTO ADMINISTRATIVO. NÃO OCORRÊNCIA. DESNECESSIDADE DE NOVA OITIVA. INEXISTÊNCIA DE SANÇÃO COLETIVA. FALTA COMETIDA POR TODOS OS 12 SENTENCIADOS QUE HABITAVAM DETERMINADA CELA, DENTRE ELES O ORA PACIENTE. ATIPICIDADE DA CONDUTA NÃO VERIFICADA. DESCLASSIFICAÇÃO. DISCUSSÃO QUE DEMANDARIA O REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. PERDA DE 1/3 (UM TERÇO) DOS DIAS REMIDOS FUNDADA NA NATUREZA, NOS MOTIVOS, NAS CIRCUNSTÂNCIAS E NAS CONSEQUÊNCIAS DO FATO, BEM COMO NA PESSOA DO FALTOSO. FUNDAMENTAÇÃO IDÔNEA.
+ ..
+3. A alegada sanção de natureza coletiva foi afastada na medida em que o paciente estava entre os 12 sentenciados que praticaram a falta disciplinar, todos ocupantes da mesma cela, o que caracteriza hipótese de autoria coletiva, e não de sanção coletiva.
+4. Uma vez reconhecida a tipicidade da conduta, classificada como falta grave, qualquer discussão acerca da configuração da infração disciplinar ou até mesmo sua desclassificação para falta de natureza média demandaria o reexame de matéria fático-probatória dos autos, incabível em habeas corpus.
+5. A perda dos dias remidos em grau máximo encontra-se devidamente fundamentada na natureza, nos motivos, nas circunstâncias e nas consequências do fato, bem como na pessoa do faltoso, não havendo, assim, falar em falta de fundamentação idônea
+6. Agravo regimental a que se nega provimento. (AgRg no HC 408.879/SP, de minha relatoria, SEXTA TURMA, julgado em 10/04/2018, DJe 16/04/2018, grifei.)
+Frisei que, no mais, revisar os elementos de prova para absolver o agravante da conduta imputada exigiria o revolvimento do contexto fático-probatório, procedimento incompatível com a estreita via do habeas corpus, na qual não se admite dilação probatória.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. APREENSÃO DE MATERIAIS PROIBIDOS. FALTA GRAVE CONFIGURADA. DESCLASSIFICAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. PERDA DE 1/3 (UM TERÇO) DOS DIAS REMIDOS. CABIMENTO. FUNDAMENTAÇÃO CONCRETA. AGRAVO DESPROVIDO.
+1. Conforme precedentes desta Corte Superior, condutas como desobediência ao servidor ou às ordens recebidas constitui falta de natureza grave, nos termos do art. 50, inciso VI, da Lei de Execução Penal.
+2. "Não há que se falar em atipicidade ou desclassificação da falta grave atribuída ao paciente para outra de natureza média ou leve, sobretudo porque isso demandaria o revolvimento de matéria fático-probatória, o que é inadmissível na via estreita do habeas corpus" (AgRg no HC 425.059/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/03/2018, DJe 23/03/2018).
+ ..
+4. Agravo regimental desprovido. (AgRg no HC 497.509/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 17/10/2019, DJe 28/10/2019, grifei)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA DISCIPLINAR. NATUREZA GRAVE. FUNDAMENTAÇÃO ADEQUADA. REEXAME DE PROVAS. VIA INADEQUADA. PERDA DOS DIAS REMIDOS. CONSTRANGIMENTO ILEGAL. NÃO CONFIGURADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No que diz respeito aos pleitos de afastamento da configuração da falta grave ou de desclassificação da indisciplina para natureza média, esta Corte Superior firmou a orientação de que, para entender de modo diverso e desconstituir o entendimento da Corte estadual, é necessário o exame aprofundado de provas, providência que é inadmissível na via eleita do habeas corpus, mormente pelo fato de que vigora no processo penal brasileiro o princípio do livre convencimento, desde que devidamente fundamentado.
+2. No caso posto, verifica-se que o Tribunal de origem manteve a decisão de primeiro grau e reconheceu que a indisciplina praticada pela apenada está inserida no rol do artigo 52 da Lei de Execução Penal, consistindo, portanto em falta disciplinar de natureza grave, conclusão a que chegou com base nas evidências de provas.
+3. Nesse contexto, afigura-se incabível a emissão de juízo de valor acerca da gravidade das práticas indisciplinares imputadas à agravante, ante o necessário revolvimento fático-probatório, vedado por meio de habeas corpus, que não permite análise dilatada de prova no intuito de reanalisar as razões e motivos pelos quais o Tribunal a quo formou o seu convencimento.
+ ..
+6. Agravo regimental desprovido. (AgRg no HC 591.564/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 18/08/2020, DJe 25/08/2020, grifei.)
+Ante o exposto, mantenho a decisão agravada por seus próprios fundamentos e nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
