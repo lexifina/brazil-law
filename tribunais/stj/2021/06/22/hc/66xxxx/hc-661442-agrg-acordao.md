@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EMHABEAS CORPUS. CRIMES PREVISTOS NO ESTATUTO DO DESARMAMENTO. SUPOSTA ILICITUDE NA PROVA OBTIDA NO INGRESSO DOS POLICIAIS NA RESIDÊNCIA DO PACIENTE. INADMISSIBILIDADE. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INCOMPETÊNCIA DO STJ. FUNDAMENTO SUBSIDIÁRIO, INEXISTÊNCIA DE ILEGALIDADE. EXISTÊNCIA DE UM CONTEXTO FÁTICO PRÉVIO APTO A INDICAR A PRÁTICA DE CRIME PERMANENTE NO LOCAL DA BUSCA.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Pedro Orlando Dolberth contra a decisão monocrática, de minha lavra, assim ementada (fl. 524):
+HABEAS CORPUS. CRIMES PREVISTOS NO ESTATUTO DO DESARMAMENTO. SUPOSTA ILICITUDE NA PROVA OBTIDA NO INGRESSO DOS POLICIAIS NA RESIDÊNCIA DO PACIENTE.INADMISSIBILIDADE. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL.INEXISTÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE.INCOMPETÊNCIA DO STJ. FUNDAMENTO SUBSIDIÁRIO, INEXISTÊNCIA DE ILEGALIDADE.
+Writ não conhecido (art. 34, XVIII, a, do RISTJ).
+Nas razões, a defesa do agravante insistiu na procedência da tese veiculada na impetração, qual seja, de ilicitude na prova obtida com a busca domiciliar.
+Asseverou quea busca e apreensão foi realizada sem mandado judicial e com base unicamente em denúncia anônima e na mera suspeita da atitude de terceiro desconhecido, o que a torna nula de pleno direito(fl. 537).
+Pugnou, assim, pela reforma da decisão agravada.
+Devidamente intimado na condição de parte agravada, o Ministério Público de Santa Catarina manifestou-se no sentido do desprovimento do recurso (fls. 554/558).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EMHABEAS CORPUS. CRIMES PREVISTOS NO ESTATUTO DO DESARMAMENTO. SUPOSTA ILICITUDE NA PROVA OBTIDA NO INGRESSO DOS POLICIAIS NA RESIDÊNCIA DO PACIENTE. INADMISSIBILIDADE. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INCOMPETÊNCIA DO STJ. FUNDAMENTO SUBSIDIÁRIO, INEXISTÊNCIA DE ILEGALIDADE. EXISTÊNCIA DE UM CONTEXTO FÁTICO PRÉVIO APTO A INDICAR A PRÁTICA DE CRIME PERMANENTE NO LOCAL DA BUSCA.
+Agravo regimental improvido.
+VOTO
+A decisão agravada deve ser mantida.
+Em consultaaos autos da Apelação Criminal n. 0002971-82.2019.8.24.0022/SC (Tribunal de Justiça de Santa Catarina), obtive a informação de que a condenação em referência játransitou em julgado.
+O presentewrit, pois, ésucedâneo de revisão criminal,sendo esta Cortemanifestamenteincompetentepara análise do pleito revisional, notadamente porqueinexiste julgamento de mérito, neste Tribunal, passível de revisão.
+Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃOTRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA ACOMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. PEDIDO DE CONCESSÃO DEHABEAS CORPUS DE OFÍCIO. DESCABIMENTO. INICIATIVA DO ÓRGÃO JULGADOR.
+Agravo regimental improvido.
+(AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019)
+ ..  1. O habeas corpus foi impetrado contra acórdão do Tribunal deJustiça do Estado de São Paulo transitado em julgado; é, portanto,substitutivo de revisão criminal. Por força do art. 105, I, "e", daConstituição Federal, a competência desta Corte para processar e julgarrevisão criminal limita-se às hipóteses de seus próprios julgados. Comonão existe, neste Tribunal, julgamento de mérito passível de revisão emrelação à condenação sofrida pelo paciente, forçoso reconhecer aincompetência deste Tribunal para o processamento do presente pedido.
+ ..
+(HC n. 288.978/SP, da minha relatoria, Rel. p/ Acórdão Ministro RogerioSchietti Cruz, Sexta Turma, DJe 21/5/2018)
+Comofundamento subsidiário, destaco que, ainda que fosse possível conhecer dohabeas corpus, a ordem seria denegada.
+A moldura fática delineada no acórdão da apelação indica que o ingresso dos policiais na residência do paciente não se deu de forma precipitada, tampouco exclusivamente em razão de denúncia anônima, mas diante deum contexto fático concreto apto a indicar a prática de crime permanente no local(fabricação e comérciode arma de fogo),sendo a diligência precedida de inúmeras rondas policiais e só deflagrada quando os policiais verificaram fundada suspeita da prática de crime no momento da abordagem(fls. 493/494 - grifo nosso):
+ ..
+Da análise dos autos, verifica-se a presença de circunstâncias a permitir que os Policiais presumissem o estado de flagrância.
+Diz-se isso porque, segundo orelatoapresentadopelo Policial Militar Jânio Mário de Oliveira, em ambas as fases da persecução criminal, os Agentes Públicosdecidiram realizar rondas na frente da residência doApelante, que já era conhecido pela guarnição em razão da prática do delito de comércio ilegal de arma de fogo, porquanto receberam denúncias no sentido de quemesmo após ter saído do sistema prisional, o Recorrente estaria reiterando a prática delituosa.
+Ainda, de acordo com a narrativa dos Agentes Públicos,o ingresso no imóvel do acusado teria ocorrido em razão da atitude suspeita de um indivíduo que se encontrava na porta da casa do réu.
+A propósito, extrai-se o seguinte excerto danarrativa extrajudicial da testemunha Jânio:"tínhamos uma denúncia de que ele estava fazendo arma de fogo, como a gente tava fazendorondas na residência dele, a gente não ia nem entrar, a gente só foi no local porque visualizou essa pessoa, e como ela tava na porta da residência dele, parecia que ele tinha descartado alguma coisa. Como a gente já tinha suspeita, a gente desceu, no olhar, daí a gente visualizou isso aqui  .. "(registro audiovisual do evento n. 03).
+Em Juízo,o mencionado Agente Público confirmou a versão apresentada anteriormente asseverando"na verdade na verdade, agente tinha uma informação que ele tinha voltado a fabricar as armas dele, eu estava fazendo rondas comguarnição de serviço no Bairro Bom Jesus, esse local onde ele tava ali tinha uma movimentação, e como nós já tínhamos até denúncias e vimosmovimentação dentro da casanós adentramos dentro da residência dele ali, e ele estava fabricando uma pistolinha .22, foram encontradas algumas munições"(registro audiovisual de fl. 95).
+Destaca-se que o relato da citada testemunha foi corroboradopelo depoimentodo colega de farda Alexandre de Córdova Carneiro, o qual asseverou sob o crivo do contraditório:"o sargento Jânio que tava com a gente tinha recebido uma denúncia de que ele estava fabricando e comercializando armas de fogo novamente. Quando nós se aproximamos de onde era a casa dele a gente viu um masculino em atitude suspeita e realizou a abordagem dele, sobre a suspeita de ele estar comprando armas né. Aí na abordagem foi visualizado que o "Pedrinho Armeiro"tinha uma garrucha, que ele tava confeccionando, daí diante disso foi feito a busca no local e foi encontrado mais algumas munições estojos, e alguns materiais que ele usa pra confeccionar"(registro audiovisual de fl. 95).
+Desse modo, considerando que os Policiais Militares foram uníssonos, em suas narrativas,no sentido de que possuíam informações sobre a prática do comércio de armas pelo Recorrente, o que restou confirmado no momento da prisão, não há dúvidas acercada situação de flagrância doRecorrente.
+Cabe salientar que a Defesa deixou de apontar qualquer elemento que pudesse retirar a credibilidade dos relatos apresentados pelas referidas testemunhas.
+Ainda, tem-se que"O crime de posse ou porte de arma defogode uso restrito possui natureza permanente, razão pela qual ainvasão do domicílio,mesmo desamparada de mandado judicial, não viola o disposto no art. 5º, inciso XI, da CFRB/88, posto que a situação de flagrante delito perdura no tempo e reflete justamente a exceção prevista no texto constitucional. .. "(TJSC, Apelação Criminal n. 0001367-93.2013.8.24.0023, da Capital, rel. Des. Jorge Schaefer Martins, Quinta Câmara Criminal, j. 23-11-2017).
+Ainda, tratando-se de crime permanente, entende-se inexistente a ilegalidade da busca e apreensão sem ordem judicial, sob o argumento de violação dedomicílio,tendo em vista que a situação de flagrância se protrai no tempo.
+ ..
+Em caso análogo, esta Corte assim decidiu:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CRIME PERMANENTE. FLAGRANTE DELITO. INGRESSO DOMICILIAR SEM MANDADO JUDICIAL. ELEMENTOS CONCRETOS A AMPARAR A MEDIDA. PROVA LÍCITA.AGRAVO IMPROVIDO.
+1. É pacífico, nesta Corte, o entendimento de que, nos crimes permanentes, tal como o tráfico de drogas, o estado de flagrância se protrai no tempo, o que, todavia, não é suficiente, por si só, para justificar busca domiciliar desprovida de mandado judicial, exigindo-se a demonstração de indícios mínimos de que, naquele momento, dentro da residência, se está ante uma situação de flagrante delito.
+2. Consoante julgamento do RE 603.616/RO, não é necessária certeza quanto à ocorrência da prática delitiva para se admitir a entrada em domicílio, bastando que, em compasso com as provas produzidas, seja demonstrada a justa causa na adoção da medida, ante a existência de elementos concretos que apontem para o flagrante delito.
+3. Extrai-se, do contexto fático delineado pelas instâncias ordinárias, a existência de elementos concretos que evidenciaram o flagrante delito, não baseado em denúncia anônima, mas em prévia investigação policial, o que afasta o pleito de declaração de nulidade das provas e absolvição do recorrente.
+4. Agravo regimental improvido.
+(AgRg no HC n. 622.879/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 17/2/2021)
+Ante o exposto, nego provimento ao agravo regimental.
