@@ -1,0 +1,39 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    “CRIMES CONTRA A PESSOA, CONTRA A SAÚDE E A PAZ PÚBLICA, E CONTRA A INCOLUMIDADE PÚBLICA. HOMICÍDIO QUALIFICADO, TRÁFICO DE DROGAS, ASSOCIAÇÃO AO TRÁFICO E PORTE DE ARMAS DE FOGO. DESCLASSIFICAÇÃO PELO TRIBUNAL DO JÚRI. SENTENÇA DE PARCIAL PROCEDÊNCIA. CONDENAÇÃO PELOS CRIMES TIPIFICADOS NO ARTIGO 329 DO CÓDIGO PENAL, E NO ARTIGO 33, NA FORMA DO ARTIGO 40, INCISO IV, AMBOS DA LEI 11.343/06. RECURSO DEFENSIVO. NULIDADE. IMPOSSIBILIDADE. ABSOLVIÇÃO DOS CRIMES PREVISTOS NAS LEIS 11.343/06 E 10.826/03. DESCABIMENTO. PROVAS ROBUSTAS DE AUTORIA E MATERIALIDADE DELITIVAS. APLICAÇÃO DA PENA DO TRÁFICO DE DROGAS NO MÍNIMO LEGAL, EXCLUSÃO DA MAJORANTE PREVISTA NO ARTIGO 40, INCISO IV, DA LEI Nº 11.343/06, RECONHECIMENTO DO TRÁFICO PRIVILEGIADO, DETRAÇÃO E EXTINÇÃO DA PUNIBILIDADE PELO CUMPRIMENTO INTEGRAL DA PENA. INADMISSIBILIDADE.
+    (...)"
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, incisos XXXIX, XLIII, LI, LIV, LV e LX, e 93, inciso IX, da Constituição Federal.
+    Decido.
+    Analisados os autos, no que tange à alegação de violação do(s) art(s). 5º, incisos LIV e LV, e 93, inciso IX, da Constituição, verifica-se que a decisão de inadmissão do recurso extraordinário está amparada em aplicação de precedente firmado com base na sistemática da repercussão geral.
+    Todavia, o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver-se dado exclusivamente com base na sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015). Sobre o tema, destaque-se:
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia (Presidente), DJe de 25/9/18).
+    Assim, não conheço do recurso quanto ao(s) capítulo(s) acima referenciado(s).
+    Ademais, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    "(...)
+    Portanto, a materialidade e a autoria dos crimes de resistência e de tráfico de drogas encontram-se provadas por meio do Auto de Prisão em Flagrante de fls. 02/03, pelo Registro de Ocorrência de fls. 07/09, pelo Auto de Apreensão de fls. 21/25, pelo Laudo de Exame de Entorpecentes de fls. 147/150, pelo Laudo de Exame em Armas de Fogo de fls. 151/155, bem como pela prova oral produzida.
+    De acordo com o Laudo nº 39.104/2017, foram apreendidos em poder dos traficantes:
+    (...)
+    Por sua vez, ambas as testemunhas foram muito claras em precisar que o recorrente estava portando arma de fogo, bem como que todos os traficantes do local fizeram uso de seus respectivos instrumentos bélicos para oporem-se à execução da abordagem, mediante grave violência.
+    As circunstâncias concretas do caso em questão impedem o reconhecimento do tráfico privilegiado. A grande quantidade e diversa qualidade de material entorpecente apreendido, somadas ao fato de o recorrente estar, na ocasião, portando arma de fogo em local dominado pelo tráfico de drogas, evidenciam que este se dedicava, com habitualidade, a atividades criminosas.
+    Não houve bis in idem na aplicação da causa de aumento pelo emprego de arma de fogo, em razão desta majorant e só ter incidido no crime de tráfico de drogas.
+    Portanto, entende-se correto e devidamente fundamentado o título penal condenatório recorrido.
+    III – DA APLICAÇÃO DA PENA
+    As penas foram devidamente aplicadas ao recorrente.
+    III.1 – DO CRIME DE RESISTÊNCIA
+    As penas definitivas do crime de resistência foram estabelecidas no mínimo legal, não merecendo reparos.
+    III.2 – DO CRIME DE TRÁFICO
+    Nos termos do que prescreve o artigo 42 da Lei nº 11.343/06, na fixação das penas-base, deve ser considerada, com preponderância sobre o artigo 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente. A alta capacidade de gerar dependência apresentada pela cocaína, bem como do subproduto de sua pasta denominado 'Crack', somada aos distúrbios psiquiátricos (depressão, ansiedade, distúrbios de humor e paranoia) de quem faz uso crônico e compulsivo da droga justificam a aplicação das penasbase pelo Juízo a quo. Sob outra perspectiva, foram apreendidas duas espécies de substâncias entorpecentes, produzidas mediante três modalidades distintas, em grande quantidade, pelo que se mostra proporcional e razoável a fixação das penas-base em 08 (oito) anos de reclusão e 832 (oitocentos e trinta e dois) dias-multa.
+    Constatando-se ter sido o crime praticado com emprego de arma de fogo, correta a incidência da causa de aumento prevista no artigo 40, inciso IV, da Lei nº 11.343/06, na fração de 1/6 (um sexto), totalizando as reprimendas definitivas em 09 (nove) anos e 04 (quatro) meses de reclusão, e 970 (novecentos e setenta) diasmulta, à razão unitária mínima.
+    Aplicada a regra do cúmulo material, foram as reprimendas somadas, atingindo o quantum de 09 (nove) anos e 04 (quatro) meses de reclusão, 02 (dois) meses de detenção, e 970 (novecentos e setenta) dias-multa, no valor unitário mínimo legal.
+    O Juízo a quo já operacionalizou a detração, e a pena privativa de liberdade ainda não foi integralmente cumprida."
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa Reflexa. Precedentes. 1. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos, tampouco para a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 2. Agravo regimental não provido” (ARE 1183314/CE - AgR, Tribunal Pleno, Rel. Min. Dias Toffoli (Presidente), DJe de 15/4/19).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas. 3. Agravo regimental desprovido” (ARE 1165382/SP - AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 4/3/20).
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – MATÉRIA PENAL – ALEGADA VIOLAÇÃO AO PRECEITO INSCRITO NO ART. 5º, LVII, DA CONSTITUIÇÃO DA REPÚBLICA – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – AGRAVO INTERNO IMPROVIDO” (ARE 1131709 AgR, Segunda Turma, Rel. Min. Celso de Mello, DJe de 30/10/18).
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 22 de junho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
