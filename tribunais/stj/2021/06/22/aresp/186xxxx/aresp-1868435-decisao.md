@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por Samambaia Veículos Ltda. contra decisão que não admitiu o processamento do apelo extremo.
+Infere-se dos autos que a Quinta Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios negou provimento à apelação interposta pela ora insurgente, conforme ementa abaixo colacionada (e-STJ, fl. 229):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. ILEGITIMIDADE PASSIVA PARA A CAUSA. TEORIA DA ASSERÇÃO. PRELIMINAR AFASTADA. COMPRA E VENDA DE VEÍCULO. FINANCIAMENTO. AUTOMÓVEL RECUPERADO DE SINISTRO. RESPONSABILIDADE DA EMPRESA QUE FIGURA COMO VENDEDORA NO CONTRATO. ÔNUS DA PROVA. RESSARCIMENTO. DANO MORAL. CONFIGURAÇÃO. LITIGÂNCIA DE MÁ-FÉ. NÃO DEMONSTRAÇÃO.
+1. O presente caso deve ser regido pelo sistema jurídico autônomo instituído pelo Código de Defesa do Consumidor (Lei n. 8.078/1990) que, por sua vez, regulamenta o direito fundamental de proteção do consumidor, previsto no art. 5º, inc. XXXII, da Constituição Federal.
+2. As questões relacionadas à condição da ação, como a legitimidade passiva, são aferidas "in status assertionis", ou seja, à luz do que o autor afirma na petição inicial. Ultrapassado este momento e sendo necessária uma cognição mais aprofundada a questão passa a ser de mérito.
+3. O art. 373, inc. I, do Código de Processo Civil estabelece que cabe ao autor o ônus da prova de fato constitutivo de seu direito.
+4. O art. 373, inc. II, do Código de Processo Civil, dispõe que cabe ao réu a prova de fato impeditivo, modificativo ou extintivo do direito do autor.
+5. O dano moral decorre de uma violação de direitos da personalidade, atingindo, em última análise, o sentimento de dignidade da vítima. Pode ser definido como a privação ou lesão de direito da personalidade, independentemente de repercussão patrimonial direta, desconsiderando-se o mero mal-estar, dissabor ou vicissitude do cotidiano, sendo que a sanção consiste na imposição de uma indenização, cujo valor é fixado judicialmente, com a finalidade de compensar a vítima, punir o infrator e prevenir fatos semelhantes que provocam insegurança jurídica.
+6. À míngua de parâmetros legais, matemáticos ou exatos, o juiz deve utilizar o seu prudente arbítrio, o bom senso, a proporcionalidade ou razoabilidade para valorar o dano moral. A atuação do juiz dirige-se a encontrar uma quantia que não seja ínfima, simbólica, que não represente uma mera censura judicial, ou reduzida a ponto de desmerecer a relevante natureza jurídica do bem da vida violado (direitos da personalidade).
+7. Não verificada a prática de nenhuma das condutas enumeradas nos incisos do art. 80 do Código de Processo Civil, mostra-se incabível a condenação da parte por litigância de má-fé.
+8. Apelação desprovida.
+Opostos aclaratórios, estes foram rejeitados.
+Nas razões do apelo especial, a recorrente apontou ofensa ao art. 489, § 1º e seu inciso IV, do CPC/2015, sob o argumento de que "a decisão desconsiderou a assistência prestada pelo Sr. Nelson" (e-STJ, fl. 273).
+Contrarrazões às fls. 287-291 e 294-297 (e-STJ).
+O processamento do apelo extremo não foi admitido pela Corte de origem, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação do óbice apontado na decisão de admissibilidade.
+Brevemente relatado, decido.
+Na espécie, verifica-se que o Colegiado distrital concluiu que, a despeito da tentativa da ora insurgente de afastar a sua responsabilidade, sob a alegação de que o negócio jurídico teria sido firmado exclusivamente pelo Sr. Nelson e sua empresa, os elementos constantes nos autos conduziriam à conclusão de que o contrato foi firmado com a ora recorrente, conforme se depreende do excerto abaixo transcrito (e-STJ, fl. 259):
+O julgado é claro ao afirmar que a parte autora/embargada demonstrou, por meio do contrato de financiamento do veículo, que o negócio jurídico de compra e venda do automóvel foi firmado com a empresa Samambaia Veículos. Consigna, expressamente, ainda, que a parte ré/embargante não se desincumbiu de comprovar fato impeditivo, modificativo ou extintivo do direito do autor. Salienta que, no contrato de financiamento, consta expressamente como concessionária/revenda/lojista a seguinte informação: Lamara Pauline SS Samambaia Veic. Ltda, CNPJ 12.433.126/0001-39 (TD 14646156, f. 1), que é justamente o CNPJ da empresa embargante.
+Nesse contexto, é certo que o Tribunala quose manifestou de forma fundamentada sobre as questões necessárias para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da recorrente. Portanto, não se vislumbra a apontada ofensa ao art. 489 do CPC/2015.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE VEÍCULO. ACÓRDÃO DISTRITAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO NÃO CONFIGURADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
