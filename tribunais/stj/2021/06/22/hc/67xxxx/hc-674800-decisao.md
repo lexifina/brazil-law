@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de RONNE AGRIPINO CALIXTO apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0007831-51.2017.8.26.0278).
+Depreende-se dos autos que o paciente foi condenado, pelos crimes de receptação e adulteração de sinal identificador de veículo automotor, à pena de 6 anos de reclusão, a ser cumprida inicialmente no regime fechado, bem assim ao pagamento de 40 dias-multa.
+Contra o édito condenatório insurgiu-se a defesa.
+Entretanto, o Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso, corrigindo erro material no cálculo da pena pecuniária.
+No Superior Tribunal de Justiça, sustenta a defesa a ilegalidade, ante a ausência de fundamentos suficientes, do acórdão que manteve a pena-base acima do mínimo legal. Destaca que "a pena-base da receptação foi DOBRADA, com base em "passagens criminais anteriores", bem como a pena da adulteração foi aumentada em 1/3, com base em uma única circunstância reputada negativa" (e-STJ fl. 4).
+Sublinha que "o paciente conta com apenas duas condenações aptas a configurarem reincidência ou maus antecedentes, de modo que o aumento da pena pelo dobro (receptação) ou em 1/3 (adulteração), somado ao aumento na segunda fase pela reincidência é visivelmente abusivo" (e-STJ fl. 7).
+Diante dessas considerações, pede, liminar e definitivamente, a redução das sanções aplicadas ao paciente.
+É o relatório.
+Decido.
+Na espécie, a avaliação dos julgadores a respeito dos antecedentes do réu - vasta folha de antecedentes - levou à exasperação das penas-base.
+Sobre o tema, rememoro que, de acordo com a orientação jurisprudencial desta Corte, o cálculo da pena é questão afeta à discricionariedade motivada do magistrado, passível de revisão em habeas corpus apenas quando ficar evidenciada notória ilegalidade, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+A ponderação das peculiaridades da causa não se resume a uma simples operação aritmética, uma conta matemática que fixa pesos estratificados a cada uma delas. Tal apreciação enseja um verdadeiro processo que impõe ao magistrado apontar, de forma motivada, as balizas para aplicar a reprimenda que melhor servirá para a prevenção e repressão do fato delituoso.
+Ao Superior Tribunal de Justiça cabe a revisão dos casos flagrantemente desproporcionais ou desarrazoados, não lhe competindo a análise de toda irresignação defensiva relativa à fração de aumento ou redução da pena.
+No caso em apreço, a persuasão racional dos julgadores para fixar o aumento da pena-base não revela flagrante ilegalidade, haja vista a menção a 4 (quatro) outras condenações transitadas em julgado em desfavor do paciente.
+De acordo com o entendimento do Superior Tribunal de Justiça, "no processo penal brasileiro, em razão do sistema da persuasão racional, o juiz forma sua convicção "pela livre apreciação da prova" (art. 155 do CPP), o que o autoriza a, observadas as limitações processuais e éticas que informam o sistema de justiça criminal, decidir livremente a causa e todas as questões a ela relativas, mediante a devida e suficiente fundamentação" (AgInt no HC n. 462.238/SP, relator Ministro Rogerio Schietti, Sexta Turma, DJe 13/12/2018).
+No mesmo caminhar:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE FURTO. PENA-BASE ACIMA DO MÍNIMO LEGAL. MAUS ANTECEDENTES. VÁRIOS TÍTULOS CONDENATÓRIOS COM TRÂNSITO EM JULGADO. PROPORCIONALIDADE NA INDIVIDUALIZAÇÃO DA PENA-BASE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Como é cediço, a individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade.
+2. No caso, a pena-base do recorrente foi exasperada em razão do maior desvalor da vetorial "antecedentes". Considerando a presença de vários títulos condenatórios com trânsito em julgado a serem valorados na pena-base, importa reconhecer a possibilidade de aumento superior à fração de 1/8 pelos maus antecedentes, sendo descabido falar em desproporcionalidade na individualização da pena-base. 3. Ademais, considerando os limites máximo e mínimo previstos no preceito secundário do tipo do artigo 155, caput, do Código Penal (mínimo de 1 ano e máximo de 4 anos), o aumento da pena-base em 6 (seis) meses em razão de 1 (uma) circunstância judicial devidamente fundamentada não se revela desproporcional ou excessivo.
+4. Com efeito, importa destacar que os critérios adotados pela jurisprudência e pela doutrina, diante do silêncio do legislador em estabelecer critérios para o aumento da pena-base, são meramente indicativos e não vinculantes, sendo possível, teoricamente, estabelecer a pena-base no patamar máximo com fundamento em apenas uma circunstância judicial desabonadora.
+5. Agravo regimental não provido.
+(AgRg no AREsp 1445055/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/05/2019, DJe 21/05/2019, grifei.)
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
