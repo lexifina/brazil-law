@@ -1,0 +1,23 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO DOMICILIAR – INADEQUAÇÃO.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Edvaldo Ramos Nobre Filho prestou as seguintes informações:
+    O Juízo da Primeira Vara Criminal dos Crimes Dolosos Contra a Vida e Tribunal do Júri da Comarca de Goiânia/GO, ao receber denúncia – processo-crime nº 5612023-58.2020.8.09.0051, converteu em preventiva a prisão temporária do paciente, ocorrida em 17 de novembro de 2020, considerado o crime do artigo 121, § 2º, incisos I e IV (homicídio qualificado por motivo torpe e recurso que dificultou ou tornou impossível a defesa da vítima), duas vezes, do Código Penal. Assentou materialidade, aludindo a exames cadavéricos e laudo por morte violenta. Reportando-se a dados obtidos mediante investigações realizadas pela Polícia – inquérito nº 285/2020 –, destacou indícios de ser o mandante dos crimes. Referiu-se a mensagens trocadas pelo aplicativo WhatsApp, por meio das quais a vítima Marcus, advogado, disse do receio de atuar em processo de reintegração de posse envolvendo os interesses da família de Nei Castelli. Ressaltou o interrogatório do corréu Cosme, no qual declarou ter sido indagado, pelo paciente, se conhecia alguém para "cobrar dívidas", ocasião em que mencionou o corréu Pedro Henrique. Salientou indispensável a custódia para garantir a ordem pública. Realçou a periculosidade e a gravidade dos crimes, premeditado por grupo de pessoas e praticado no interior do escritório profissional das vítimas, sendo Marcus Aprigio Chaves atingido por 3 disparos de arma de fogo – 2 na região craniana e 1 na região nasal – e Frank Alessandro Carvalhaes de Assis por 1 projétil no tórax. Concluiu configurado risco de fuga do paciente, sublinhando o poderio econômico e frisando que, ao ser preso em outra cidade, portava R$ 34.000,00 em espécie.
+    Em 28 de abril de 2021, indeferiu pedido de revogação da prisão, assentando permanecerem os motivos que a ensejaram.
+    No Superior Tribunal de Justiça, o Relator inadmitiu o habeas corpus nº 672.032/GO.
+    Os impetrantes sublinham ausentes indícios de autoria, destacando ter o corréu Cosme afirmado haver sido torturado por policiais para indicar o paciente como mandante dos crimes. Alegam insubsistentes os fundamentos do ato, dizendo-os genéricos. Articulam com a viabilidade do recolhimento domiciliar, aludindo à crise sanitária decorrente do novo coronavírus. Apontam integrar grupo de risco, no que portador de diabetes e hipertensão. Citam a Recomendação nº 62/2020 do Conselho Nacional de Justiça.
+    Requerem, no campo precário e efêmero, o afastamento. Buscam, alfim, a confirmação da providência.
+    Vossa Excelência, no habeas corpus nº 197.195, com idêntico objeto ao deste processo, em 25 de fevereiro de 2021, indeferiu liminar. A Primeira Turma, em 8 de abril seguinte, inadmitiu a impetração.
+    2. A controvérsia relacionada à falta de comprovação da autoria dos crimes vincula-se ao mérito do processo-crime. O exame pressupõe dilação probatória, devendo ocorrer após a instrução processual, ou seja, mediante sentença.
+    Quanto aos fundamentos da prisão, cumpre reiterar a óptica adotada ao deixar de implementar, no habeas corpus nº 197.195, a medida acauteladora:
+    […]
+    2. O Juízo, ao determinar a prisão preventiva, aludiu à investigação realizada pela Polícia Civil, reveladora de indícios de ser o paciente o mandante dos crimes, dizendo-os premeditados por grupo de pessoas e praticados em interior do escritório profissional das vítimas, advogados, sendo atingidas por disparos de arma de fogo. Referiu-se a mensagens trocadas pelo aplicativo WhatsApp, a depoimento de testemunhas e interrogatório de corréus, a indicarem motivação relacionada a disputa de posse de terras e temor da vítima Marcus em atuar contra os interesses da família do paciente. Sem prejuízo do princípio constitucional da não culpabilidade, a medida surgiu viável, ante a periculosidade, ao menos sinalizada. Daí ter-se como fundamentado o ato. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    […]
+    A pandemia covid-19 é insuficiente ao acolhimento da providência pretendida. Embora apontado ser o paciente portador de diabetes, trata-se de crime cometido com violência, não havendo notícia de o tratamento estar inviabilizado ou o atendimento impossibilitado de vir a ser realizado de forma adequada no local da custódia.
+    3. Indefiro a liminar.
+    4. Colham parecer da Procuradoria-Geral da República.
+    5. Publiquem
+Brasília, 22 de junho de 2021.
+Ministro MARCO AURÉLIO
+Relator
