@@ -1,0 +1,19 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1010704-43.2021.8.11.0000 - CLASSE 202 - CNJ - PORTO DOS GAÚCHOS
+Agravante : RAFAEL VIEIRA BISPO
+Agravado : BANCO OLÉ BONSUCESSO CONSIGNADO S.A.
+Número do Protocolo : 1010714-87.2021.8.11.0000
+Cuida-se de Recurso de AGRAVO DE INSTRUMENTO interposto por RAFAEL VIEIRA BISPO contra a r. decisão proferida pelo MM. Juiz de Direito da Única Vara da Comarca de Porto dos Gaúchos/MT, que nos autos da ação “Declaratória de Nulidade/Inexigibilidade de Desconto em Folha de Pagamento c/c Repetição de Indébito e Danos Morais” (Proc. no 1000319-76.2021.8.11.0019), ajuizada pelo agravante contra o BANCO OLÉ BONSUCESSO CONSIGNADO S.A., indeferiu pedido de assistência judiciária gratuita (cf. Id. no 91261993 - pág. 48/50).
+O autor/agravante sustenta que “os documentos juntados nos autos são mais do que suficientes para comprovar a condição de hipossuficiência”, pois, como se vê do extrato de sua declaração de imposto de renda, ela “percebe uma renda bruta anual de aproximadamente R$ 13.579,00”.
+Alega, no mais, que “o douto magistrado tão-somente poderia indeferir o pedido, quando absolutamente seguro e fundamentando que a parte, em verdade, teria condições de arcar com as custas e despesas judiciais”, e assegura que “não é o caso”, já que o extrato de seu benefício previdenciário prova de que ele “tem como renda bruta o valor de R$ 1.100,00” e que “a renda auferida (...) é de apenas R$ 690,35, pois há alguns descontos referente a empréstimos” (sic – cf. Id. no 91261992 - pág. 6/7).
+Pede, sob esses fundamentos, provimento do recurso “para o fim de reformar a decisão que indeferiu a concessão da justiça gratuita de pleito, requerendo que seja deferida de forma integral os benefícios da justiça gratuita”; requer, de imediato, atribuição de efeito suspensivo ao recurso (sic – cf. Id. no 91261992 - pág. 15/16).
+É o breve relatório.
+No caso, não enxergo necessidade de imediato pronunciamento jurisdicional sobre o acerto ou desacerto técnico da decisão agravada ao indeferir o pedido de assistência judiciária gratuita, e, muito menos, que a manutenção da decisão agravada poderá acarretar danos irreparáveis ao agravante, ou, então, que, caso mantida até ulterior julgamento da questão, caracterizará risco de perecimento fatal ao direito pleiteado.
+Aliás, nem mesmo o agravante soube precisar qual seria o dano e qual seria o risco ao resultado útil do processo, restringindo-se à alegação genérica de que o pedido se justifica porque “que a matéria aqui discutida é o deferimento da justiça gratuita a não suspensão do processo em primeiro grau poderá acarretar dano de difícil ou incerta reparação” (sic – cf. Id. no 91261992 - pág. 3), ou seja, reproduz argumentação cíclica e redundante de que o perigo de dano é o simples prosseguimento da tramitação do feito sem acolhimento do seu pedido, argumentação reflexiva essa que, relembro, é insuficiente para a finalidade colimada, porque, do contrário, haveria atribuição indiscriminada de efeito suspensivo a todo e qualquer recurso interposto contra toda sorte de determinação judicial.
+Pelo exposto, à míngua dos requisitos à concessão de efeito suspensivo ao recurso ou à antecipação da pretensão recursal (CPC, arts. 300 e 995, p.ú.), apenas recebo o Agravo de Instrumento nos termos do art. 1.019 do CPC, mas INDEFIRO o pedido antecipatório (CPC, art. 1.019, I), ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se o agravado, na forma do art. 1.019, II, do CPC, para que responda no prazo de 15 dias.
+Expeça-se o necessário.
+Cuiabá, 22 de junho de 2021.
+Des. JOÃO FERREIRA FILHO
+Relator
