@@ -1,0 +1,48 @@
+PRIMEIRA CÂMARA CRIMINAL
+HABEAS CORPUS No 1010512-13.2021.8.11.0000 - COMARCA DE SORRISO
+IMPETRANTE(S): DRa. FRANCISLAINE CANDIDO DE ALMEIDA
+PACIENTE(S): DANIEL DURÇO
+DECISÃO INTERLOCUTÓRIA
+Vistos,
+Habeas Corpus impetrado em favor de DANIEL DURÇO contra ato comissivo do Juízo da 1a Vara Criminal da Comarca de Sorriso, nos autos de ação penal (PJe 0000993-77.1999.811.0040 - Código 5492), que indeferiu a revogação da custódia preventiva pelo cometimento, em tese, de homicídio qualificado [motivo torpe e emprego de recurso que dificultou a defesa da vítima] – art. 121, § 2o, I e IV, do CP – (fls. 133/135).
+O impetrante sustenta que: 1) a decisão constritiva não estaria fundamentada em pressupostos da custódia cautelar; 2) o paciente foi preso por crime ocorrido no ano de 1999, a demonstrar ausência de contemporaneidade; 3) o paciente “possui trabalho lícito, endereço fixo na cidade de Colíder/MT há 20 anos, primariedade e bons antecedentes” e pertence ao “grupo de risco de contágio pelo coronavírus”, por possuir “65 (sessenta e cinco) anos de idade e fazer uso contínuo de medicamento para tratamento do coração”.
+Requer a concessão da ordem liminarmente para que seja revogada a prisão preventiva do paciente ou substituída por medidas cautelares alternativas (fls. 4/28), com documentos (fls. 29/179).
+Relatos.
+Em 3.8.1999, o juiz da causa decretou a prisão preventiva do paciente por ter cometido, em tese, homicídio qualificado pelo motivo torpe e dissimulação contra a vítima Antônio Rodrigues da Silva Neto (Sistema Primus - Código 5492 - decisão não disponibilizada).
+Em 24.11.1999, determinou a citação do paciente por edital (Sistema Primus - Código 5492).
+Em 23.7.2001, o processo foi suspenso nos termos do art. 366 do CPP.
+Em 7.6.2021, o paciente foi preso na Comarca de Colíder/MT.
+Em 11.6.2021, o juiz da causa indeferiu pedido de revogação da prisão preventiva nestes termos:
+“O detido foi denunciado pela prática do crime de homicídio qualificado pelo motivo torpe e mediante dissimulação, conforme se apura dos elementos apurados nos presentes autos, o réu cometeu a conduta em razão da vítima não ter pago a quantia devida de R$ 400,00 (quatrocentos reais).
+Para consumar a ação, o algoz foi até o estabelecimento comercial da vítima, pouco tempo depois de ter discutido com ela em relação a dívida, afirmando que havia uma ligação para ela em um orelhão próximo. Aproveitando-se da distração da vítima, quando se dirigia ao telefone, efetuou 08 (oito) disparos de arma de fogo, tendo a maioria atingindo-a pelas costas.
+Após a conduta, o algoz entrou em seu veículo e se evadiu do local.
+Após recebida a denúncia, foi tentada a citação do paciente no endereço declinado quando do seu interrogatório, entretanto a diligência restou infrutífera. Foram empreendidas várias diligências no decurso destes mais de 20 (vinte) anos objetivado localizar o acusado, sem êxito, até o cumprimento do mandado em 08 de junho de 2021, na Comarca de Colíder/MT. [...]
+No presente caso, inconteste seu preenchimento, haja vista o crime, em questão, conter a pena privativa de liberdade superior a 04 (quatro) anos.
+Importante destacar a ousadia, a periculosidade e a motivação do crime, uma simples inadimplência, e o fato de ter sido premeditado e cometido após atrair a vítima até próximo de um orelhão, quando a vítima, em tese, não poderia esperar o ocorrido. [...]
+O réu foi denunciado por fatos graves, cometidos de forma brutal, e que abalaram a comunidade local, estampando-se a necessidade da manutenção da prisão preventiva para a garantia da ordem pública e da aplicação da lei penal.
+Assim, revela-se a segregação antecipada como meio de assegurar não só a tranquilidade social, mas a ordem pública e a instrução processual, sendo que o crime em tese praticado pelo indiciado é dos que causam maior repulsa na sociedade.
+Quanto à ausência de contemporaneidade registrada pela defesa, destaco que o réu permaneceu foragido por mais de 20 (vinte) anos, apenas sendo localizado quando do cumprimento do mandado de prisão, evidenciando o seu ímpeto de frustrar-se da aplicação da lei penal. [...]
+A Defesa sustenta que o réu se quadra no grupo de risco de contágio pelo vírus do Covid-19, por se idoso (65 anos de idade) e passa por tratamento do coração, entretanto acostou aos autos, para comprovar a enfermidade do agente, prontuário e receituários médicos datados de 2017 e 2018, ou seja, de mais de três anos atrás.
+O único receituário, datado deste ano, receita vitaminas e remédio para alergia (loratadina), estando comprovado, contemporaneamente, apenas a idade do acusado. [...]
+Além disso, é acusado de crime praticado com violência.
+Outrossim, pela idade do acusado, presume-se que este já foi vacinado contra o Covid-19 e/ou será vacinado, caso queira, por se encontrar segregado sob a custódia do Estado, fato que não impede a infecção pelo vírus, mas diminui a possibilidade de agravamento de eventual infecção.
+Diante dos fatos supracitados, entendo que, ao menos por ora, a medida ainda se mostra necessária para garantia da ordem pública e da aplicação da lei penal, diante das peculiaridades do caso concreto, a gravidade concreta dos fatos lhe imputados e do modus operandi utilizado.
+Afigura-se necessário assinalar, neste ponto, por relevante, que, segundo torrencial entendimento jurisprudencial existente a respeito da temática ‘sub judice’, a circunstância de o réu ser primário, manter residência fixa e atividade laboral regular, só por si, não tem o condão de acarretar na revogação da prisão preventiva, máxime quando se mostra como sendo medida necessária, tendente a salvaguardar a ordem pública.
+Ante o exposto, INDEFIRO o pedido de Liberdade Provisória veiculado pela defesa da denunciado Daniel Durço.” (Emanuelle Chiaradia Navarro Mano, juíza de Direito – fls. 133/135)
+Pois bem.
+O Juízo singular fundamentou a manutenção da custódia preventiva do paciente na garantia da ordem pública, diante da gravidade do homicídio [paciente teria simulado ligação em telefone público e alvejado a vítima com 8 (oito) disparos de arma de fogo, motivado por dívida no valor de R$400,00], bem como para assegurar a aplicação da lei penal, ao considerar que o paciente permaneceu foragido.
+Todavia, a gravidade da conduta não justifica, em si, a segregação cautelar, visto que transcorrido extenso lapso temporal – mais de 20 (vinte) anos – entre a data do fato criminoso e a efetivação da prisão, sem qualquer registro de novos delitos praticados pelo paciente, a elidir o pressuposto da garantia da ordem pública (STJ, RHC no 119009/PE – Relator: Min. Reynaldo Soares da Fonseca - 4.11.2019).
+Ademais, o paciente não citado pessoalmente, a evidenciar aparente desconhecimento da imputação.
+O c. STJ firmou entendimento no sentido de que a presunção de fuga, decorrente do fato de o paciente não ser encontrado para citação, constitui motivação inidônea para decretação da prisão preventiva, notadamente porque os conceitos de evasão e não localização são distintos (HC 520216/DF – Relator: Min. Reynaldo Soares da Fonseca – 27.9.2019; HC 446.010/SP – Relator: Min. Felix Fischer – 27.8.2018).
+Frise-se que a impetração está instruída com traslado de declaração de trabalho do paciente como “diarista” no Sítio Barros, localizado no Município de Colíder, desde janeiro de 2020 (fls. 36); declaração do CRAS – Centro de Referência de Assistência Social de Colíder subscrito em 28.11.2017 (fls. 41); declarações de idoneidade moral assinada por 5 (cinco) pessoas que residem naquele Município (fls. 34), bem como comprovante de endereço em seu nome (“Rua Rio Teles Pires, no 519, Setor Sul, Colíder/MT” - fls. 35).
+Sob essa ótica, não se identifica ato comissivo ou omissivo do paciente que demonstre a intenção de furtar-se à aplicação da lei penal.
+Em situação semelhante, esta e. Câmara assim decidiu:
+“HABEAS CORPUS - HOMICÍDIO - PRISÃO PREVENTIVA - APLICAÇÃO DA LEI PENAL - [...] PACIENTE QUE LOGO APÓS O FATO MUDOU DE ENDEREÇO SEM INFORMAR AO JUÍZO - DESAPARECIMENTO DO MOTIVO - SUFICIÊNCIAS DAS CAUTELARES MENOS ONEROSAS - ORDEM PARCIALMENTE CONCEDIDA. Não mais subsiste a necessidade da prisão preventiva para aplicação da lei penal quando o acusado informa nos autos o seu atual endereço, desempenhando atividade lícita e se alistando como eleitor.” (TJMT, HC N.U 1018569-88.2019.8.11.0000 - Relator: Des. Paulo da Cunha - 7.2.2020)
+Logo, não persistem os fundamentos para segregação cautelar.
+Não obstante, sopesada a residência em outro Município [Colíder] e o decurso de tempo da persecução penal, mostra-se recomendável a substituição da custódia preventiva por medidas cautelares alternativas, instrumentos de natureza inibitória e/ou proibitiva eficazes para atingir a mesma finalidade da prisão, haja vista seu caráter excepcional (TJMT, N.U 0001879-84.2017.8.11.0092 - Relator: Des. Luiz Ferreira da Silva - Terceira Câmara Criminal - 8.5.2018).
+Com essas considerações, DEFERE-SE PARCIALMENTE o pedido liminar para substituir a prisão preventiva pelas seguintes medidas cautelares: 1) comparecimento a todos os atos processuais, salvo se dispensado; 2) proibição de se aproximar ou manter qualquer contato com as testemunhas; 3) comunicar à autoridade judiciária eventual mudança de endereço (CPP, art. 319, I e III), ressalvada a dispensa de qualquer delas e sem prejuízo da fixação de outras pelo Juízo singular, sob pena de revogação do benefício.
+Por efeito, COMUNIQUE-SE ao Juízo singular para expedir o apto alvará de soltura, mediante termo de compromisso com condições impostas, facultadas informações, no prazo de até 5 (cinco) dias.
+Após, VISTA à i. PGJ.
+Cumpra-se.
+Cuiabá, 21 de junho de 2021.
+Des. MARCOS MACHADO
