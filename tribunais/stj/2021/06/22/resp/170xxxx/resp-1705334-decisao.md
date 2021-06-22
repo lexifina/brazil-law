@@ -1,0 +1,67 @@
+DECISÃO
+Vistos.
+Trata-se de Recursos Especiais interpostos por SÃO PAULO OBRAS - SP e por MUNICIPALIDADE DE SÃO PAULO, contra acórdão prolatado, por unanimidade, pela 6ª Câmara de Direito Público do Tribunal de Justiça de São Paulo no julgamento de apelação, assim ementado (fls. 250/256e):
+AGRAVO DE INSTRUMENTO Ação ordinária Indeferimento da tutela antecipada Desapropriação de imóvel de propriedade de terceiro Pedido de indenização pela perda do fundo do comércio Possibilidade Interesse de agir presente Documentos indispensáveis aos desate da controvérsia constantes dos autos - Presença dos requisitos do artigo 273 do CPC Conceito de justa indenização que abrange o valor do fundo de comércio Artigo 5º, XXIV, da CF Possuidor que faz jus à indenização - Precedentes Rejeição da matéria preliminar - Provimento do recurso.
+SÃO PAULO OBRAS - SP Obras, com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta ofensa aos arts. 15, 20, 35 do Decreto-Lei nº 3.365/41, alegando, em resumo:
+a) "o suposto fundo de comércio alegado pela Recorrida não está sendo desapropriado e muito menos retirado compulsoriamente do seu patrimônio para integrar o patrimônio do poder público e servir a uma dada utilidade pública, nem direta e nem indiretamente, como ocorre no processo expropriatório, portanto este remanesce com o particular, não sendo cabível a sua indenização nos moldes pretendidos" (fl. 271e);
+b) "não se verifica a identidade de posição jurídica entre o titular do domínio e o titular do estabelecimento comercial, em face do poder de império desapropriante" (fl. 276e);
+c) "não pretende a titulação do fundo de comércio, não há que se falar na sua desapropriação. Por isso, reparação de eventuais prejuízos que o locatário detentor do fundo de comércio venha a sofrer, se dá em ação indenizatória autônoma que não pode interferir de forma alguma na ação de desapropriação que corre em separado, considerando que os pressupostos para indenização, especialmente a comprovação do prejuízo efetivamente sofrido, a constituição regular do comércio, e etc., deverão ser objeto da devida instrução probatória em ação própria" (fl. 276e).
+A MUNICIPALIDADE DE SÃO PAULO, com fundamento no art. 105, III, c, da Constituição da República, sustenta divergência jurisprudencial, aduzindo, em síntese, que "a imissão provisória na posse não deve ser condicionada ao depósito prévio do valor relativo ao fundo de comércio eventualmente devido ao locatário, tendo em vista que o pagamento da indenização, apurada em ação própria, está sujeito à sistemática do art. 100 da Constituição Federal" (fl. 351e).
+Com contrarrazões (fls. 356/375e), os recursos foram inadmitidos (fls. 377/378e), tendo sido interpostos Agravos, posteriormente convertidos em Recursos Especiais (fl. 512e).
+O Ministério Público Federal opinou pelo não conhecimento dos recursos especiais (fls. 520/530e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Faço a análise conjunta dos recursos especiais.
+Nos termos do art. 557, § 1º-A, do Código de Processo Civil, o Relator está autorizado, por meio de decisão monocrática, a dar provimento ao recurso quando o acórdão recorrido estiver em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+No tocante a alínea "a", ao tratar da questão relativa à inclusão do valor referente ao fundo de comércio de locatário no valor da indenização decorrente de desapropriação, condicionando o depósito dessa parcela para autorizar a imissão provisória na posse, o tribunal de origem manifestou-se nos seguintes termos (fl. 255e):
+A exigência de que seja a indenização seja justa e prévia, nos casos de desapropriação, decorre do texto expresso da própria Constituição Federal (artigo 5º, XXIV, CF).
+Por sua vez, a indenização não é justa se não for integral, ou seja, se não abranger toda a significação econômica do bem expropriado.
+Irrelevante o fato da agravante não ser a proprietária do bem, eis que, em casos como este, o possuidor do bem também faz jus à indenização.
+Consoante depreende-se do julgado, o acórdão impugnado possui como fundamento matéria eminentemente constitucional, porquanto o deslinde da controvérsia deu-se à luz do art. 5º, XXIV, da Constituição da República (desapropriação prévia, justa e em dinheiro).
+Apesar disso, a matéria não foi impugnada por meio de recurso extraordinário, circunstância que atrai o óbice da Súmula 126 desta Corte, segundo a qual "é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+Nesse sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. ANISTIA. REVISÃO. ESTABILIDADE EXTRAORDINÁRIA. DUPLA FUNDAMENTAÇÃO. RECURSO EXTRAORDINÁRIO NÃO INTERPOSTO. INCIDÊNCIA DA SÚMULA 126/STJ. ARTIGOS 54 DA LEI 9.784/99 E 143 da 8.112/90. SÚMULA 282/STF. REQUISITO TEMPORAL. AFERIÇÃO QUE DEMANDARIA O REEXAME DE PROVAS. SÚMULA 7/STJ. LEI 8.878/94. DETENTORA DE FUNÇÃO DE ASSESSORAMENTO SUPERIOR - FAS. INAPLICABILIDADE. DECISÃO QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Em recurso especial não cabe invocar violação a norma constitucional.
+2. O Tribunal de origem, ao decidir a questão relativa à estabilidade extraordinária para ocupantes de função de confiança, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ.
+(..)
+(AgRg no AREsp 440.559/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/05/2014, DJe 16/05/2014).
+ADMINISTRATIVO E PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS. NECESSIDADE DE APRESENTAÇÃO DE RECEITA MÉDICA ATUALIZADA EMITIDA POR MÉDICO VINCULADO AO SUS. ACÓRDÃO COM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. PROCESSUAL CIVIL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1. Da simples leitura do acórdão recorrido observa-se que o Tribunal a quo decidiu a causa com base em argumentos constitucionais e infraconstitucionais. No entanto, o recorrente interpôs apenas o Recurso Especial, sem discutir a matéria constitucional, em Recurso Extraordinário, no excelso Supremo Tribunal Federal. Assim, aplica-se, na espécie, o teor da Súmula 126 deste colendo Superior Tribunal de Justiça, segundo a qual "é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+(..)
+(AgRg no REsp 1.421.283/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/05/2014, DJe 20/06/2014).
+Porém, quanto à interposição do recurso especial pela alínea c, do permissivo constitucional, esta Corte Superior possui entendimento pacificado no sentido de que, em se tratando de dissídio jurisprudencial notório, como no caso dos presentes autos, revela-se possível a mitigação das exigências legais e regimentais acerca da demonstração da divergência pretoriana.
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CORREÇÃO MONETÁRIA. PARCELAMENTO DO PAGAMENTO DOS 28,86% POR ACORDO JUDICIAL. TERMO INICIAL DA CONTAGEM DO PRAZO PRESCRICIONAL. PAGAMENTO DA ÚLTIMA PARCELA. PRINCÍPIO DA ACTIO NATA. DISSÍDIO JURISPRUDENCIAL. NOTÓRIA DIVERGÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. Em se tratando de notória divergência e nos casos de matérias reiteradamente examinadas por esta Corte, é de se dispensar o rigor formal na demonstração do dissídio. A transcrição de ementas que, por si sós, sejam suficientes a evidenciar a dissonância interpretativa, presta-se a ensejar a admissibilidade do recurso pela alínea c do permissivo constitucional.
+(AgRg no AREsp 442.669/AC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 10/06/2014, DJe 04/08/2014).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO - RECURSO ESPECIAL - DISSÍDIO NOTÓRIO - MITIGAÇÃO DE EXIGÊNCIAS FORMAIS - EXECUÇÃO - ÓBITO DA PARTE AUTORA - PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA - NÃO OCORRÊNCIA - SUSPENSÃO DO PRAZO PRESCRICIONAL ATÉ HABILITAÇÃO DOS SUCESSORES - PRECEDENTES DO STJ.
+1. A Jurisprudência do STJ, em hipótese de notória divergência interpretativa, mitiga as exigências de natureza formal, tais como cotejo analítico, indicação de repositório oficial e individualização de dispositivo legal.
+2. Nos termos dos arts. 265, I, e 791, II, do CPC, a morte de uma das partes importa na suspensão do processo, razão pela qual, na ausência de previsão legal impondo prazo para a habilitação dos respectivos sucessores, não há falar em prescrição intercorrente.
+3. Recurso especial provido.
+(REsp 1.369.532/CE, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/11/2013, DJe 13/11/2013).
+Assim, verifico que o acórdão recorrido está em confronto com orientação desta Corte, segundo a qual importa para conclusão da controvérsia o fato do dono do fundo de comércio ser (ou não) proprietário do imóvel desapropriado.
+Outrossim, a imissão provisória na posse não deve ser condicionada ao depósito prévio do valor relativo ao fundo de comércio eventualmente devido ao locatário, tendo em vista que o pagamento da indenização, apurada em ação própria, está sujeito à sistemática do art. 100 da Constituição Federal.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. DESAPROPRIAÇÃO. AÇÃO DE INDENIZAÇÃO. LOCAÇÃO. FUNDO DE COMÉRCIO. IMISSÃO PROVISÓRIA. DEPÓSITO. DESNECESSIDADE. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. MULTA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal de origem afastou a necessidade, para fins de imissão provisória na posse, de depósito prévio de valor relativo a fundo de comércio apurado em perícia contábil em favor de locatário de imóvel objeto de desapropriação.
+2. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+3. A imissão provisória na posse não deve ser condicionada ao depósito prévio do valor relativo ao fundo de comércio eventualmente devido ao locatário, tendo em vista que o pagamento da indenização, apurada em ação própria, está sujeito à sistemática do art. 100 da Constituição Federal. Precedentes do STJ.
+4. Rever os fundamentos do Tribunal de origem para aplicação de multa ao recorrente, demanda, in casu, reexame do conjunto fático-probatório dos autos, obstado nos termos da Súmula 7/STJ.
+5. Recurso Especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp 1337295/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/02/2014, DJe 07/03/2014).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AÇÃO DE DESAPROPRIAÇÃO. PLEITO DE INDENIZAÇÃO POR FUNDO DE COMÉRCIO PELO LOCATÁRIO DO IMÓVEL EXPROPRIADO. VIA INADEQUADA. NECESSIDADE DE AÇÃO PRÓPRIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A indenização pela perda do fundo de comércio quando pleiteada por terceiro, locatário do imóvel expropriado, exige o ajuizamento de ação própria destinada à busca desse direito, não cabendo a tal pleito a Ação de Desapropriação.
+2. Agravo Regimental desprovido.
+(AgRg no REsp 1258122/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 23/02/2016, DJe 03/03/2016).
+AGRAVO REGIMENTAL NA SUSPENSÃO DE LIMINAR E DE SENTENÇA. GRAVE LESÃO À ORDEM E ECONOMIA PÚBLICAS. EXISTÊNCIA. PEDIDO DE SUSPENSÃO DEFERIDO. AGRAVO REGIMENTAL DO PARTICULAR DESPROVIDO.
+I - Consoante a legislação de regência (v.g. Lei n. 8.437/1992 e n.
+12.016/2009) e a jurisprudência deste Superior Tribunal e do c.
+Pretório Excelso, somente será cabível o pedido de suspensão quando a decisão proferida contra o Poder Público puder provocar grave lesão à ordem, à saúde, à segurança e à economia públicas.
+II - Na hipótese, causa lesão à ordem e à economia públicas a decisão que impede, em ação de desapropriação de imóvel por utilidade pública, a imissão provisória na posse pelo ente expropriante, em virtude da ausência de indenização prévia referente ao fundo de comércio, pois tal decisão paralisa obra de suma importância para a cidade de São Paulo/SP, qual seja, a expansão de seu sistema metroviário.
+III - A indenização pelo fundo de comércio, apesar de devida, não pode obstar a imissão provisória da posse pelo ente expropriante, cujos requisitos são a declaração de urgência e o depósito do valor estabelecido conforme o art. 15 do Decreto-lei nº 3365/41.
+Agravo regimental desprovido.
+(AgRg na SLS 1.681/SP, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL,
+julgado em 17/12/2012, DJe 01/02/2013)
+Posto isso, com fundamento no art. 557, § 1º-A, do Código de Processo Civil, DOU PROVIMENTO aos Recursos Especiais, para reconhecer que a indenização pelo fundo de comércio, apesar de devida ao locatário, não pode obstar a imissão provisória da posse pelo ente expropriante.
+Publique-se. Intime-se.
