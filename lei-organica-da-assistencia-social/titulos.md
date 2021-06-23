@@ -21,6 +21,7 @@ SEÇÃO IV
 Dos Programas de Assistência Social
 SEÇÃO V
 Dos Projetos de Enfrentamento da Pobreza
+Seção VI
 Do Auxílio-Inclusão
 CAPÍTULO V
 Do Financiamento da Assistência Social
