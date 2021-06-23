@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARGUMENTAÇÃO DEFICIENTE. SÚMULA284DO STF. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. SÚMULA 284 DO STF.
+1.A falta de indicação ou de particularização dos dispositivos de lei federal que o acórdão recorrido teria contrariado ou aos quais teria atribuído interpretação divergente consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do STF.
+2.Não se conhece do recurso especial interposto com base na alínea "c" do permissivo constitucional quando, além da não indicação dos dispositivos de lei federal que tiveram interpretação divergente pela Corte de origem, o dissenso interpretativo não é demonstrado nos termos em que exigido pela legislação processual de regência (1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ). Situação que atrai o óbice da Súmula 284 do STF.
+3.Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES(Relator): Trata-se de agravo interno interposto contra decisão da Presidência desta Corte Superior de Justiça que conheceu do agravo para não conhecer do recurso especial, assim ementada (e-STJ fl. 249-250).
+Em suas razões, o agravante sustenta, em síntese, que em seu recurso especial articulou de forma muito clara seus fundamentos, de forma a permitir a compreensão da controvérsia e apontar para sua correta solução e que está demonstrado a violação dos arts. 3º e 267, VI do CPC/73.
+Por fim, requer a reconsideração da decisão agravada ou para que seja o feito levado à Turma competente para julgamento.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARGUMENTAÇÃO DEFICIENTE. SÚMULA284DO STF. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. SÚMULA 284 DO STF.
+1.A falta de indicação ou de particularização dos dispositivos de lei federal que o acórdão recorrido teria contrariado ou aos quais teria atribuído interpretação divergente consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do STF.
+2.Não se conhece do recurso especial interposto com base na alínea "c" do permissivo constitucional quando, além da não indicação dos dispositivos de lei federal que tiveram interpretação divergente pela Corte de origem, o dissenso interpretativo não é demonstrado nos termos em que exigido pela legislação processual de regência (1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ). Situação que atrai o óbice da Súmula 284 do STF.
+3.Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão impugnada.
+Com efeito, no caso, revisitando o recurso especial, verifica-se que nas razões recursais o recorrente não indicou dispositivos de lei federal supostamente violados ou que tiveram interpretação divergente, vindo a fazê-lo, tardiamente, no presente agravo interno. Dessa forma, a análise do presente recurso encontra óbice na Súmula 284 do STF.
+Frise-se que é requisito de admissibilidade do recurso especial a indicação clara e precisa do dispositivo legal, tido por violado, ou, sobre o qual paira divergência jurisprudencial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC/1973. FUNDAMENTAÇÃO GENÉRICA. NO MÉRITO, AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI FEDERAL SUPOSTAMENTE VIOLADOS. INCIDÊNCIA DA SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. SÚMULA 284/STF.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/1973 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. A falta de indicação ou de particularização dos dispositivos de lei federal que o acórdão recorrido teria contrariado ou aos quais teria atribuído interpretação divergente consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do STF.
+3. Na forma da jurisprudência do STJ, "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do recurso especial pela alínea "a" do permissivo constitucional" (AgInt no AREsp 912.838/BA, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 3/3/2017).
+4. Agravo interno não provido.(AgInt no REsp 1.624.940/RS, de mina relatoria, Primeira Turma, DJe 12/04/2018)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA 284/STF. INCIDÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. PROVAS. REEXAME. IMPOSSIBILIDADE.
+1. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+(..)
+4. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp Documento: 1656778 - Inteiro Teor do Acórdão - Site certificado - DJe: 24/11/2017 Página 1 6 de 19Superior Tribunal de Justiça 732.546/MA, Rel. Min. Og Fernandes, Segunda Turma, DJe de 12/11/2015).
+Quanto à alegada divergência pretoriana entendeu-se que o recorrente além de não indicar quais os dispositivos legais seriam objeto do dissídio interpretativo, não realizou o devido cotejo analítico o que ensejou a aplicação da Súmula 284 do STF.
+Nesse contexto, com acerto a decisão agravada, pois a jurisprudência desta Corte Superior firmou-se no sentido de que a falta de indicação clara e precisa do dispositivo de lei federal de cuja interpretação o acórdão impugnado divergiu implica deficiência na fundamentação do recurso especial. (AgInt no AREsp 518.665/TO, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 9/2/2017)
+In casu, não há como acatar a tese recursal no sentido de afastar a incidência do óbice da Súmula 284 do STF, pois além da falta de indicação clara e precisa dos disposivos de lei federal violado ou que tiveram interpretação divergente, deixou o recorrente de demonstrar de forma inequívoca a similitude fática entre os julgados confrontados, procedimento indispensável ao conhecimento do recurso interposto com fulcro nas alíneas "a" ou "c" do permissivo constitucional.
+Anote-se, para o conhecimento do recurso especial, é imprescindível, em qualquer caso, a demonstração analítica da divergência jurisprudencial invocada, por intermédio da transcrição dos trechos dos acórdãos que configuram o dissídio e da indicação das circunstâncias que identificam ou assemelham os casos confrontados (fática e jurídica), não se oferecendo, como bastante, a simples transcrição de ementas ou votos, conforme dispõe o art. 1.029, § 1º, do CPC/2015 e art. 255, § 1º, do RI-STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
