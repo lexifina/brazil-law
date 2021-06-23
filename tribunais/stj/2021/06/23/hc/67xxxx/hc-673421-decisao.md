@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Marcia Borlini Marim Sanches-presa preventivamente pela suposta prática dosdelitos de organização criminosa,tráfico e associação para o tráfico de drogas majorados por duas vezes -, em que se aponta como autoridade coatora o Tribunal de Justiça do Espírito Santo, que, em decisão monocrática, indeferiu o pedido liminar no writ ali impetrado (Habeas Corpus n. 0001169-91.2021.8.08.0000), mantendo o curso da ação penal em trâmite no Juízo de Direito da 1ª Vara Criminal da comarca de Guarapari/ES, denominada Operação Vade Mecum(Autos n. 0003336-52.2020.8.08.0021).
+Alega-se, em síntese, constrangimento ilegal consistente em nulidade das provas produzidas pelo agente infiltrado na operação, que, como agente penitenciário, não teria legitimidade para atuarcomo tal.
+Sustenta-se quea infiltração de agentes só pode ser efetivada pelas polícias judiciárias (POLÍCIA CIVIL OU FEDERAL), conforme determina a Lei n. 12.850/2013 (fl. 12).
+Portanto, argumenta-se que as provas produzidas pelo agente seriam ilegítimas e as decorrentes delas estariam contaminadas pela mesma razão.
+Postula-se, ao final, a superação da Súmula 691/STF, com a concessão liminar da ordem,com o escopo de que se realize o imediato SOBRESTAMENTO no curso do Processo n. 0003336-52.2020.8.08.0021, em tramite da 1ª Vara Criminal de Guarapari/ES, a partir da decisão proferida no dia 28/12/2020, que INDEFERIU a declaração de nulidade das provas, arguidas na RESPOSTA ACUSAÇÃO da paciente, até o julgamento final do presente writ (fl. 30).
+É o relatório.
+A teor do Enunciado n. 691 da Súmula do Pretório Excelso,entende-se não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminarem açãoajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+Tal posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que aqui não se observa.
+É assente nesta Corte Superior de Justiça que o trancamento de uma ação penal por meio da ação constitucional de habeas corpus, só é albergado nas hipóteses em que constatada, aprima facie, a atipicidade da conduta, a incidência de causa de extinção da punibilidade, a ausência de indícios de autoria ou de prova de materialidade do delito, ou ainda, a indiscutível deficiência da peça vestibular, o que não ocorre no caso dos autos.
+Ademais, no presente caso, o Relator do mandamus original, ao indeferir o pedido liminar, simplesmente constatou a ausência dos pressupostos autorizadores da medida requerida. E nisso não há nenhum constrangimento ilegal.
+Ressaltou, ainda, o Relator que (fls. 2.062/2.064 - grifo nosso):
+ ..
+Ou seja, o que estou a sustentar é que apesar da presente ordem de habeas corpus aparentar conter pedidos diversos, na verdade, é repetição de outra impetração, com o mesmo objetivo, qual seja, revogar a prisão preventiva da Paciente a partir de uma suposta nulidade na infiltração do agente penitenciário em designação temporária Cristiano Ribeiro e do inspetor penitenciário Jônatas Porto Ferreira, bem como da suposta ausência de comprovação dos requisitos elencados nos artigos 312 e 315, ambos do Código de Processo Penal, para a decretação da custódia preventiva da Paciente.
+ ..
+Com efeito, após acurada análise dos fundamentos da impetração e de toda a prova documental carreada aos autos, pude constatar que inexiste o alegado prejuízo ao conceito moral e profissional experimentado pela Paciente, na medida em que, por tudo que foi dito, inexistente a comprovação da atipicidade da conduta, de incidência de causa de extinção da punibilidade ou a ausência de indícios de autoria ou de prova sobre a materialidade do delito, razão pela qual entendo que não há falar em constrangimento ilegal que resulte no trancamento da ação registrada sob o n.0003336-52.2020.8.08.0021.
+ ..
+Assim, parece-meque desconstituir o disposto na decisão monocrática a quo ensejaria profundo revolvimento fático-probatório, incompatível com a via eleita.
+Todavia, diante da inadmissível supressão de instância, convém aguardar o trâmite dowritna origem, a fim de permitir que o órgão competente analise com melhor propriedadea matéria ali levantada.
+Ante o exposto, com fundamento nos arts. 38 da Lei n. 8.038/1990 e 210 do RISTJ,indefiro liminarmentea petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. OPERAÇÃO VADE MECUM. ORGANIZAÇÃO CRIMINOSA, TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS MAJORADOS POR DUAS VEZES. NULIDADE. PLEITO DE TRANCAMENTO DA AÇÃO PENAL.WRIT IMPETRADO CONTRA A DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU MEDIDA DE URGÊNCIA EMMANDAMUS ORIGINÁRIO. TERATOLOGIA OU ILEGALIDADE. AUSÊNCIA.
+Inicial indeferida liminarmente.
