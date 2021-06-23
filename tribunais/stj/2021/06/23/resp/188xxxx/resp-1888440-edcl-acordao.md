@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. VÍCIOSNÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão assim ementado (fl. 734):
+EMENTA PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS FIXADOS PELO JUÍZO SINGULAR. PROVIMENTO DE RECURSO. INVERSÃO AUTOMÁTICA DOS ÔNUS SUCUMBENCIAIS.PRECEDENTES. FIXAÇÃO DE HONORÁRIOS RECURSAIS. ARTIGO 85, § 11, CPC/2015. CABIMENTO.
+1. Esta Corte Superior firmou entendimento no sentido de que "a reforma in totum do acórdão ou da sentença acarreta inversão do ônus da sucumbência, ainda que não haja pronunciamento explícito sobre esse ponto" (REsp 1.129.830/SC, Rel. Ministro Castro Meira, Segunda Turma, DJe 8/3/2010).
+2. No presente caso, houve fixação de honorários advocatícios pelo juízo singular e posterior provimento integral da apelação interposta pelo vencido, o que gerou a inversão implícita e automática dos ônus sucumbenciais, em desfavor da União.
+Como não houve o provimento do apelo especial do ente público, cabível o arbitramento de honorários recursais, na forma do artigo 85, § 11, do CPC/2015.
+3. Agravo interno não provido.
+Aembargante, em suma,sustentaque "ainda que tivesse ocorrido a inversão automática, tal medida não basta para a majoração na instância acima, porque deve existir parâmetro objetivo para incidência do §11 do artigo 85 do CPC/2015.Tal dispositivo disciplina que o cabimento de honorários recursais pressupõe a existência de arbitramento anterior de honorários sucumbenciais, que no caso concreto não existiu, ponto em que reside a omissão do julgado" (fl. 743).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. VÍCIOSNÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado resolveu a controvérsia ao assentar que (a) "a jurisprudência desta Corte firmou-se no sentido de que "a reforma in totum do acórdão ou da sentença acarreta inversão do ônus da sucumbência, ainda que não haja pronunciamento explícito sobre esse ponto" (REsp 1.129.830/SC, Rel. Ministro Castro Meira, Segunda Turma, DJe 8/3/2010), o que é o caso dos autos", colacionando diversos julgados recentes que amparam o referido entendimento; e (b)"Tem-se, desse modo, que a fixação dos honorários recursais pleiteada pela parte ora agravada, tal como assinalado pelo decisum combatido, não encontra qualquer óbice, haja vista que ao julgar extinta a execução, o Juízo a quo condenou a parte autora ao pagamento de honorários advocatícios (fls. 365-366), sendo dita sentença reformada integralmente em sede de apelação (fls. 458-460), o que gerou a inversão implícita e automática dos honorários sucumbenciais. Como não houve o provimento do recurso especial da União (fls. 623-629), cabível o arbitramento da verba honorária recursal, na forma do artigo 85, § 11, do CPC/2015" (fls. 736-737).
+Apenas a título de esclarecimento, importa salientar que o cabimento dos honorários recursais, na forma do art. 85, § 11, do CPC/2015, encontra-se amparado justamente na existência de arbitramento anterior de verba honorária sucumbencial, decorrente da inversão automática do ônus da sucumbência ocorrida com base nos fundamentos jádelineados no aresto hostilizado.
+Nessa senda, frisa-se, por oportuno, que a resolução do conflito de interesses, por meio da aplicação do direito que o colegiado entendeu adequado à hipótese, ainda que a solução jurídica seja diversa da pretendida por um dos litigantes, não traduz negativa ou ausência de prestação jurisdicional.
+Ainda nessa esteira, salienta-se que a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro Og Fernandes, Corte Especial, DJe 3/8/2016).
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
