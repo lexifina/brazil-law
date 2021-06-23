@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA NACIONAL, contra decisão que inadmitiu recurso especial ao argumento de que o acórdão recorrido possui enfoque eminentemente constitucional.
+O recurso especial obstado enfrenta acórdão com a seguinte ementa (fls. 3843):
+TRIBUTÁRIO. TEMA 69 DA REPERCUSSÃO GERAL. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS. Adoção da orientação firmada pelo Supremo Tribunal Federal (Tema 69), segundo a qual "o ICMS não compõe a base de cálculo para fins de incidência do PIS e da COFINS"
+Embargos de declaração rejeitados.
+No recurso especial, a Fazenda Nacional alega violação ao art. 1.022, II, e parágrafo único, II, c/c art. 489, § 1º, ambos do CPC/2015, e, no mérito, ofensa aos arts. 10, 141, 490 e 192 do CPC, bem como aos arts. 13, §1º, I, 19 e 20 da Lei Complementar nº 87, de 1996, ao art. 1º da Lei 10.637, 2002, ao art. 1º da 10.833, de 2002, ao art. 2º da Lei 9.715, de 1998, e ao art. 2º da Lei Complementar nº 70, de 1991.
+Com contrarrazões.
+Neste agravo, a recorrente afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+A pretensão fazendária não deve prosperar, pois o recurso não pode ser conhecido quanto à pretensão relacionada ao alcance da tese definida pelo Supremo Tribunal Federal.
+É que se trata de matéria constitucional, cuja competência para revisão não é deste Tribunal Superior, nos termos do art. 105, III, da Constituição Federal de 1988. De fato, "tem natureza constitucional a controvérsia inerente à interpretação da tese definida pelo Supremo Tribunal Federal, após o reconhecimento da repercussão geral e respectivo julgamento, sendo certo que, relacionando-se o debate com a forma de execução do julgado do Supremo, não poderia outro tribunal, em princípio, ser competente para solucioná-lo" (AgInt no AREsp 1.508.001/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/10/2019, DJe 17/10/2019).
+A respeito, na parte que interessa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. DESNECESSIDADE DE SOBRESTAMENTO DO FEITO. AUSÊNCIA DE DECISÃO SOBRE AFETAÇÃO DO TEMA À SISTEMÁTICA DOS RECURSOS ESPECIAIS REPETITIVOS. VIOLAÇÃO AO ART. 1.022, CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF. BASE DE CÁLCULO. PIS E COFINS. CONCEITO DE FATURAMENTO. MATÉRIA CONSTITUCIONAL.
+ ..
+2. A existência de precedente firmado pelo Plenário do STF em julgamento de recurso com repercussão geral, de caráter vinculante e obrigatório, autoriza o imediato julgamento dos processos com o mesmo objeto, não tendo que se falar em sobrestamento do presente feito ao argumento de eventual possibilidade de modulação de efeitos, em sede de embargos de declaração.
+ ..
+4. Na hipótese, tem-se que o acórdão do Tribunal de origem está fundamentado exclusivamente na interpretação dada pelo STF sobre à inclusão do ICMS na base de cálculo do PIS e da COFINS. Dessa feita, dada a natureza estritamente constitucional do decidido pelo Tribunal a quo, refoge à competência desta Corte Superior de Justiça a análise da questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+5. Por fim, verifica-se que o STJ tem entendido que a interpretação do conceito de faturamento para fins de incidência da contribuição ao PIS e à Cofins é matéria eminentemente constitucional, que foge à sua competência do âmbito do Recurso Especial.  ..
+6. Agravo interno não provido. (AgInt no REsp 1.840.083/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 25/11/2019, DJe 27/11/2019)
+Dentre outros, ainda: EDcl no AgInt no AREsp 1.521.832/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 22/4/2020, DJe 24/4/2020; AgInt no AREsp 1.508.068/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 5/3/2020, DJe 11/3/2020; AgInt no AREsp 1.506.537/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 17/2/2020, DJe 3/3/2020; AgInt no REsp 1.834.634/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 28/10/2019, DJe 30/10/2019; AgInt no AREsp 1.519.714/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/9/2019, DJe 24/9/2019.
+Enfim, inadmissível a via especial quanto a normas de cunho eminentemente constitucional, sob pena de supressão de competência do próprio STF, ainda que seja a título de prequestionamento objetivando a interposição de recurso extraordinário.
+Outrossim, dirimida a controvérsia à luz de fundamentos eminentemente constitucionais, eventual ofensa à legislação infraconstitucional seria apenas indireta e reflexa, sendo, pois, inviável a revisão do julgado, em sede de recurso especial, diante da competência do STF determinada no art. 102, III, da CF.
+Por fim, afasta-se a apontada alegação de fundamentação deficiente, pois o órgão julgador, de forma clara e coerente, externou fundamentação adequada e suficiente, dirimindo a controvérsia, com lastro no entendimento firmado pelo STF no Tema 69 da repercussão geral, nos autos do RE 574.706.
+A aplicação do direito ao caso, ainda que por solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Transitado em julgado o presente recurso, retornem os autos à origem para fins do despacho de fls. 4090.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÃO AO PIS E COFINS. BASE DE CÁLCULO. ICMS. NÃO INCLUSÃO. INTERPRETAÇÃO DE TESE FIRMADA PELO STF, EM REPERCUSSÃO GERAL, NOS AUTOS DO RE 574.706. TEMA 69/STF. FUNDAMENTAÇÃO CONSTITUCIONAL. REVISÃO. IMPOSSIBILIDADE. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO
