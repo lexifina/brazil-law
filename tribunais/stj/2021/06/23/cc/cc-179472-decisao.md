@@ -1,0 +1,11 @@
+DECISÃO
+O JUÍZO FEDERAL DA 2ª VARA DE CAMPOS DOS GOYTACAZES - SJ/RJ suscita conflito de competência diante do JUÍZO DE DIREITO DO PRIMEIRO JUIZADO ESPECIAL CRIMINAL DE CAMPOS DOS GOYTACAZES - RJ.
+A controvérsia estabelecida neste incidente processual, cinge-se em saber a competência para processar e julgar a prática do crime de esbulho possessório, previsto no art. 161, §1º, II, do Código Penal, em imóvel construído pelo programa "Minha Casa Minha Vida", da Caixa Econômica Federal.
+Ouvido, manifestou-se o Ministério Público Federal, às fls. 62-67, pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito do Primeiro Juizado Especial Criminal de Campos dos Goytacazes - RJ, ora suscitado.
+Decido.
+Segundo a orientação firmada por esta Corte, compete à Justiça Estadual processar e julgar crime de esbulho possessório em imóvel construído mediante financiamento da Caixa Econômica Federal, pois se trata de delito que não ofende de forma direta bens, serviços ou interesse da União, nos termos do art. 109, IV, da CF.
+Com efeito, como destacou o Juízo suscitante, "o crime de esbulho possessório tem como vítima aquele que tem a posse direta da coisa. Na hipótese, a vítima do crime é a particular representante, Neuza Firmina Vita Costa, a qual alega ter sido esbulhada da posse de bem obtido através do programa de financiamento habitacional" (fl. 36, destaquei)
+De fato, "a vítima concreta do esbulho possessório é o devedor fiduciário integrante do Programa Minha Casa Minha Vida, que é o efetivo detentor da posse direta do imóvel" (CC n. 158.421/SP, Rel. Ministro Reynaldo Soares da Fonseca, DJe 28/6/2018, grifei).
+Nesse sentido, mutatis mutandis, caminha a jurisprudência há algum tempo: "O esbulho possessório de residência construída mediante financiamento do Sistema Financeiro de Habitação, e de que trata o art. 9º da lei 5.741/71, não atrai a competência da Justiça Federal, uma vez que não praticado em detrimento de bens, serviços ou interesse da União ou da Caixa Econômica Federal" (CC n. 28.707/SP, Rel. Ministro Hélio Quaglia Barbosa, DJ 05/10/2005.
+À vista do exposto, conheço do conflito para declarar competente o Juízo de Direito do Primeiro Juizado Especial Criminal de Campos dos Goytacazes - RJ, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
