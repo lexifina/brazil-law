@@ -1,0 +1,24 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por FIT 25 SPE EMPREENDIMENTOS IMOBILIÁRIOS LTDA em face de acórdão do Tribunal de Justiça do Estado do Pará assim ementado:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. PROCESSUAL CÍVEL. DECISÃO QUE NÃO CONHECEU DO RECURSO. PELO PRINCÍPIO DA UNICIDADE RECURSAL, É CABÍVEL APENAS UMA MODALIDADE RECURSAL PARA CADA DECISÃO PROFERIDA DURANTE A MARCHA PROCESSUAL. DESTE MODO, O RECURSO CABÍVEL MEDIANTE SENTENÇA, NESTE CASO, É O RECURSO DE APELAÇÃO, CONFORME DISPÕE O ART. 1009 DO CPC. ASSIM, O AGRAVO DE INSTRUMENTO É REMÉDIO IMPRÓPRIO PARA O CASO DE INSURGÊNCIA CONTRA SENTENÇA DE MÉRITO, RAZÃO PELA QUAL NÃO PODE TER SEGUIMENTO, POIS AUSENTE UM DOS REQUISITOS DE ADMISSIBILIDADE RECURSAL, QUAL SEJA, CABIMENTO. RECURSO CONHECIDO E IMPROVIDO.
+No recurso especial, a recorrente aponta ofensa aos arts. 356, § 5º, e 1.015, II, do CPC/15, defendendo que (a) a decisão que homologa parcialmente o acordo extrajudicial noticiado nos autos, com a determinação expressa de prosseguimento da demanda com relação aos autores desistentes, não encerrou o processo;(b) o novo CPC previu expressamente que a decisão que julga parcialmente o mérito é desafiada por agravo de instrumento.
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+Colhe-se dos autos que, contra a sentença que homologou parcialmente o acordo noticiado nos autos, a recorrente opôs agravo de instrumento.
+À e-STJ Fl. 1.173, consta expressamente que a sentença forapublicada no dia 9/9/2016, ou seja, quando já em vigor o Código de Processo Civil de 2015.
+Em julgamento ocorrido no dia 29/5/2020,o Tribunal de origem não conheceu do agravo de instrumento, sob a seguinte fundamentação:
+Não vislumbro razão para o inconformismo da recorrente.
+Ora, é certo que houve a homologação parcial em data posterior a sentença de mérito já prolatada nos autos (IDs 179134 e 179134), portanto, inexistia possibilidade de prosseguimento daquilo que já tinha sido julgado.
+E como se tal não bastasse, como bem posicionado pelos agravados, "a Recorrente interpôs Agravo de Instrumento almejando desconstituir a sentença que homologou parcialmente a transação, todavia, insurgiu-se contra todas as partes envolvidas no polo ativo da lide, inclusive as que transacionaram e tiveram seus acordos homologados, logo, mostra-se inaceitável juridicamente o recurso manejado, pois o fim do mesmo a alterar por completo o mérito do julgado".
+É certo que a decisão de primeiro grau contra a qual se insurgiu o recorrentenão tem natureza interlocutória, mas, sim, de sentença, contra ela sendo cabível o recurso de apelação, e não, o de agravo de instrumento.
+Estabelece o Código de Processo Civil, em seu artigo 162, § 1º, que "sentença é o ato do juiz que implica alguma das situações previstas nos arts. 267 e 269".
+Já o § 2º do mesmo dispositivo legal prevê que "decisão interlocutória é o ato pelo qual o juiz, no curso do processo, resolve questão incidente".
+O Agravo de Instrumento é remédio impróprio para o caso de insurgência contra sentença de mérito, razão pela qual não pode ter seguimento, pois ausente um dos requisitos de admissibilidade recursal, qual seja, cabimento.
+Como se vê, o acórdão proferido pelo Tribunal de origemnão guarda nenhuma compatibilidade com a controvérsia original a ser dirimida, sobretudo com relação à lei processual aplicável ao caso que, como se sabe, trouxe inúmeras inovações no tocante ao sistema recursal.
+Assim,impõe-se o conhecimento de ofício da nulidade processual, por afronta direta ao disposto nosarts. 141, 492 e 1.046 do CPC,a fim deque o Tribunal de origem renove o julgamento do recurso submetido à sua apreciação, atentando para as peculiaridadesdos autos, sobretudo a natureza jurídica do decisum recorrido à luz da legislação processual civil aplicável.
+Com efeito, consoante ponderava osaudoso Ministro Teori Zavascki, "em virtude da sua natureza excepcional, decorrente das limitadas hipóteses de cabimento (Constituição, art. 105, III), o recurso especial tem efeito devolutivo restrito, subordinado à matéria efetivamente prequestionada, explícita ou implicitamente, no tribunal de origem. Todavia, embora com devolutividade limitada, já que destinado, fundamentalmente, a assegurar a inteireza e a uniformidade do direito federal infraconstitucional, o recurso especial não é uma via meramente consultiva, nem um palco de desfile de teses meramente acadêmicas. Também na instância extraordinária o Tribunal está vinculado a uma causa e, portanto, a uma situação em espécie" (REsp 609.144/SC, PRIMEIRA TURMA, julgado em 06/04/2004, DJ 24/05/2004).
+Diante do exposto, conheço do recurso especial para, de ofício, anular o acórdão recorrido paraque outro seja proferido.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo àaplicação de multa.
+Intime-se.
