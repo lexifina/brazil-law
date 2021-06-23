@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Jose Lucas Ferreira Bandeira contra a decisão do Tribunal de Justiça do Distrito Federal e dos Territórios, que inadmitiu o recurso especial por ele apresentado, manifestado, por sua vez, contra acórdão proferido no Agravo de Execução Penal n. 0707359-90.2020.8.07.0000, assim ementado (fl. 131):
+AGRAVO NA EXECUÇÃO PENAL. RESTRIÇÃO DO DIREITO DE VISITA AO PRESO PELA IRMÃ MENOR DE IDADE. JURISPRUDÊNCIA DA CÂMARA CRIMINAL. PREDOMINÂNCIA DO PRINCÍPIO DA PROTEÇÃO INTEGRAL DA CRIANÇA E DO ADOLESCENTE. DECISÃO MANTIDA.
+1 Reeducando impedido de receber a visita da irmã, adolescente com dezessete anos de idade, em razão da prejudicial exposição da infante aos riscos próprios do ambiente penitenciário. A Câmara Criminal adota o princípio da proteção integral da criança e do adolescente.
+2 Agravo não provido.
+Nas razões do especial, a Defensoria Pública apontou, além de divergência jurisprudencial, afronta aos arts. 1º e 41, X, da Lei n. 7.210/1984, e 1º do Código Penal, ao argumento de que a irmã do recorrente sofre limitação ao gozo de um direito individual em razão de sua idade, constituindo a restrição ou suspensão do direito do preso de receber visitas regulares da sua irmã uma sanção disciplinar imposta ao próprio apenado, conforme o art. 53, III, da Lei de Execução Penal (fl. 142). Requereu o provimento do recurso, com a remessa dos autos às instâncias ordinárias, a fim de que seja assegurado ao recorrente o direito de visita de sua irmã, consoante preceitua o art.41, X, da Lei no 7.210/1984, violado no acórdão recorrido (fl. 150).
+Apresentadas contrarrazões (fls. 155/158), o recurso especial não foi admitido, por incidência das Súmulas 7 e 83/STJ (fls. 161/162).
+Daí o presente agravo (fls. 165/171). Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do agravo, mediante os seguintes fundamentos (fl. 191):
+AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. DIREITO A VISITAÇÃO POR IRMÃ MENOR EM PENITENCIÁRIA. PRINCÍPIO DA PROTEÇÃO INTEGRAL. PRECEDENTES. SÚMULA 83/STJ.
+- "Consoante reiterada jurisprudência deste Superior Tribunal de Justiça, as razões do agravo regimental devem se limitar a atacar especificamente os fundamentos da decisão agravada, sob pena de atração, por analogia, da incidência da Súmula n. 182/STJ." (AgRg no AREsp 1394624/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 12/03/2019, DJe 19/03/2019)
+- Parecer pelo não conhecimento do agravo regimental.
+É o relatório.
+A insurgência não merece prosperar.
+Narram os autos que o ora agravante interpôs agravo em execução contra a decisão proferida pelo Juízo da Vara de Execuções Penais, que indeferiu o ingresso de sua irmã, menor com 17 anos de idade, em estabelecimento prisional.
+O Tribunal de Justiça do Distrito Federal e dos Territórios, ao negar provimento ao recurso, asseverou (fl. 132 - grifo nosso):
+ ..  O reeducando sofreu restrição do direito de visita da irmã menor púbere, fundando-se a decisão no artigo 2º da Portaria VEP/DF nº 8/2016, afirmando ser temerária a exposição de infantes aos riscos inerentes ao ambiente prisional.
+Sabe-se que ninguém é obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei que o obrigue, de sorte que todo cidadão brasileiro tem o direito subjetivo de realizar seus sonhos e praticar todas as ações que quiser na busca da felicidade, por todos os meios ao seu alcance, desde que não contrarie o direito dos concidadãos, ou seja, desde que não afronte a lei. Portanto, a restrição ao direito individual só pode ser implementada quando existente razão ponderável que a justifique, com fundamentação jurídica idônea. Do contrário, o exercício do poder se revela mero arbítrio.
+É dever do Estado, por meio do Juízo da Execução Penal e demais instituições responsáveis pelo Sistema Penitenciário, proporcionar condições para a harmônica integração do reeducando, o que exige que as limitações impostas aos direitos e garantias individuais não afetados pela sentença sejam executadas com estrita observância dos direitos fundamentais estabelecidos na Constituição Federal.
+Ressalte-se que limitar a visitação de menores somente aos pais segregados provoca flagrante afronta à própria Constituição, pois estabelece restrições sem previsão legal, o que contraria os saudáveis objetivos da execução penal de ressocialização e integração do preso na família e na sociedade. Tal entendimento ancora-se em precedentes da Segunda Turma do Supremo Tribunal Federal, que asseguram ser responsabilidade do Estado garantir condições de segurança para que o direito de visitação dos reeducandos seja efetivado.
+Todavia, a Câmara Criminal desta Corte de Justiça firmou entendimento em sentido oposto ao definir que a permanência de menores no interior das penitenciárias contraria o princípio da proteção integral da criança e do adolescente, não sendo razoável a exposição destes aos riscos e constrangimentos ínsitos ao ambiente carcerário, salvo em casos excepcionais de filhos de detentos. Confira-se:
+ ..
+Verifica-se, da transcrição acima, que o indeferimento do pleito de visita da irmã menor do interno foi devidamente motivado pelas instâncias ordinárias, considerando a peculiaridade do caso em concreto, qual seja, a necessidade de se assegurar a integridade física e psíquica da irmã adolescente do reeducando.
+Com efeito, tal fundamentação não destoa da orientação firmada por esta Corte Superior, no sentido de que o direito de visita do preso não é absoluto ou ilimitado, sendo imprescindível, para aferi-lo, um juízo de interesses. A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. AUTORIZAÇÃO DE VISITA DE CRIANÇA EM ESTABELECIMENTO PRISIONAL. DIREITO DO PRESO E PROTEÇÃO INTEGRAL DO MENOR. PONDERAÇÃO DE INTERESSES. PREPONDERÂNCIA DA PRESERVAÇÃO DA INTEGRIDADE FÍSICA, MORAL E PSICOLÓGICA DOS MENORES.
+1. O direito do preso a visitação não é absoluto nem ilimitado. Para aferi-lo, é imprescindível, em juízo de ponderação, considerar as particularidades do caso concreto e medir os interesses envolvidos.
+2. Os estabelecimentos prisionais são, por sua própria natureza, ambientes impróprios à formação psíquica e moral de crianças e adolescentes, cuja proteção integral tem base constitucional, nos termos do art. 227 da Constituição Federal (HC 304.325/DF, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 23/06/2015).
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1.789.332/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/3/2019)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. DIREITO DE VISITA. NEGADA A ENTRADA DE CRIANÇA EM ESTABELECIMENTO PRISIONAL. CONSTRANGIMENTO ILEGAL AUSENTE. ORDEM DENEGADA. DESPROVIMENTO DO AGRAVO REGIMENTAL.
+1. Espécie em que o Juízo da Vara de Execuções Penais indeferiu o pleito do Paciente de permissão de receber visita de enteado menor de idade. Preponderância da preservação da integridade física, moral e psicológica do menor ao direito de visita previsto no art. 41, inciso X, da Lei de Execução Penal.
+2. Ausência de constrangimento ilegal. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 442.557/SC, Ministra Laurita Vaz, Sexta Turma, DJe 3/10/2018)
+Nesse contexto, encontrando-se o acórdão recorrido em consonância com a orientação jurisprudencial desta Corte sobre o tema, descabida a pretensão recursal.
+Ante o exposto, com fundamento no art. 253, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. DIREITO DE VISITA. IRMÃ MENOR DE IDADE. PREPONDERÂNCIA DO PRINCÍPIO DA PROTEÇÃO INTEGRAL À CRIANÇA E AO ADOLESCENTE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM AJURISPRUDÊNCIA DESTA CORTE.
+Agravo conhecido para negar provimento ao recurso especial.
