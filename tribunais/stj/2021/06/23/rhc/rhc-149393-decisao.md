@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por DIONE JUNIOR ALVES DE ARAUJO contra o acórdão proferido no julgamento do writ impetrado no Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"EMENTA: HABEAS CORPUS-DETERMINAÇÃO DE PRIMEIRO GRAU DEEXECUÇÃO DEFINITIVA DA PENA DO PACIENTE -CASSAÇÃO-INVIABILIDADE -TRÂNSITO EM JULGADO DA CONDENAÇÃO CERTIFICADA PELO STJ -POSTULAÇÃO QUE EQUIVALE AOBTENÇÃODE EFEITO SUSPENSIVO EM AGRAVO REGIMENTAL QUE TRAMITA PERANTE O STJ -COMPETÊNCIA EXCLUSIVA DA INSTÂNCIA SUPERIOR. 1. Não há que se falar em cassação da determinação de base de expedição de mandado de prisão e guia de execução definitiva, para o cumprimento da pena do paciente, se houve a certificação do trânsito em julgado de sua condenação pelo c. STJ. 2. A postulação ora formulada, de manutenção da liberdade ambulatorial do paciente até o julgamento do Agravo Regimental, equivale apedido de concessão de efeito suspensivo ao referido recurso que tramita perante o STJ, decisão essa que deve ser buscada na alçada da colenda Instância Superior, refugindo à jurisdição deste e. Tribunal".
+Em razões, o recorrente requer sejareconhecida a ocorrência do erro material do Exmo. Sr. Ministro Presidente doSuperior Tribunal de Justiça, a fim de reconhecero não trânsito em julgado da sentença condenatória, revogando-se o decreto prisional.
+É o relatório.
+Decido.
+Com efeito, conforme o já reconhecido no bojo do AREsp 1667492/MG, descabe falar em expedição de alvará de soltura poisa sentença condenatóriatransitou em julgado, tratando-se, portanto, de clara reiteração de pedido, o que constitui óbice ao conhecimento recursal.Além disso, a defesa já impetrou o HC 672722/MG com o mesmo intuito.
+Ainda que assim não fosse, não compete ao Superior Tribunal de Justiça o exame de habeas corpus impetrado em face de ato de Ministro desta Corte, conforme a dicção do art.105 da Constituição Federal.
+Ante o exposto, indefiro o recurso liminarmente.
+Publique-se. Intimem-se.
