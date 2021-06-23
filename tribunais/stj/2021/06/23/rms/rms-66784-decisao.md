@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança, com pedido de liminar, interposto por MAURICIO BETITO NETOcontra acórdão proferido pelo Tribunal de Justiça do Estado de São Pauloque denegou a ordem, no julgamento do Mandado de Segurança n.2011201-23.2021.8.26.0000.
+Orecorrenteimpetrou o mandamus visandoque a cassação da decisão que determinou o arquivamento do inquérito policial n. 1500390-40.2020.8.26.0568, requerendo a remessa ao Procurador Geral de Justiça paranova análise de prova e convicção.
+O Tribunal de Justiça denegou a ordem, entendendo quenem a incidência de prazo decadencial nem a condição de crime próprio do tipo previsto no art. 325 do CP seriamquestões controversas, inexistindo direito líquido e certo a ser resguardado.
+Sem ementa.
+No presente recurso, o recorrente sustenta querestou "indevidamente e criminosamente" atacado em seu mais íntimo interior, sua honra, sua moral, tudo, diante de um discurso desconexo promovido pelo acusado nos autos originários, e mesmo assim, o órgão ministerial simplesmente emite parecer com pedido de arquivamento, contudo, sob argumentos efêmeros.
+Pugna, assim, seja deferida liminar, para análise dos motivos anteriores e posteriores da mantença dos termos da r. denúncia, bem como a constatação da atuação irregular do parquet noticiado, em flagrante constrangimento ilegal ou até mesmo abuso de direito.
+Requer a concessão definitiva da presente ORDEM DE MANDADO DE SEGURANÇA com o consequente acolhimento do pedido de remessa dos autos do inquérito policial em destaque ao Nobre EXMO. SR. DR. PROCURADOR GERAL DE JUSTIÇA do Estado de São Paulo, visando análise minuciosa dos fatos assim como a possibilidade de formalização de denúncia em desfavor do acusado naqueles autos originários com as formalidades legais pertinentes a espécie.
+É o relatório.
+Decido.
+O acórdão impugnado esclareceu que a pretensão doimpetrante(cassação da decisão de arquivamento do inquérito policial n. 1500390-40.2020.8.26.0568) envolve a discussão de questões controversas - prazo decadencial e condição de crime próprio, inexistindo direito líquido e certo a ser resguardado (fls. 588/590).
+Com efeito, aimpetração do mandado de segurança só é admissível quando, de plano, se puder aferir o direito líquido e certo, não podendo ser utilizado para impugnar decisões judiciais das quais caiba recurso próprio, não evidenciada flagrante ilegalidade na medida que se pretenda desconstituir, nos termos do que dispõe a orientação jurisprudencial desta Corte:
+AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. INCOMPETÊNCIA DO JUÍZO. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. INVIABILIDADE DE REDISCUSSÃO DAS PREMISSAS FÁTICAS FIRMADAS PELAS INSTÂNCIAS ORDINÁRIAS. AGRAVO REGIMENTAL IMPROVIDO.
+1. "Nos termos da jurisprudência deste Superior Tribunal de Justiça, o cabimento do mandado de segurança está atrelado à existência de direito líquido e certo a ser tutelado, não podendo ser utilizado o remédio heróico para impugnar decisões judiciais das quais caibam recurso próprio, exceto quando evidenciada flagrante ilegalidade ou teratologia que se pretenda desconstituir." (RMS 50.246/AP, Rel.
+Ministro JORGE MUSSI, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018).
+2. Hipótese em que a tese de incompetência do MM. Juiz de Direito da 4.ª Vara Criminal de Uberlândia-MG foi devidamente afastada pelas instâncias ordinárias.
+3. A tentativa de afastar a relação existente entre a colaboração premiada e os fatos apurados na ação penal em discussão escapa aos limites da via mandamental escolhida, sendo inviável a valoração de tais provas com intuito de contrariar as premissas firmadas pelas instâncias ordinárias, soberanas na análise fático-probatória dos autos.
+4. Agravo regimental improvido.
+(AgRg no RMS 61.588/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA,DJe 25/08/2020).
+Ademais, "não cabe mandado de segurança para impugnar decisão judicial que,
+acolhendo o pedido do Ministério Público, determina o arquivamento de inquérito policial, por ausência de elementos probatórios mínimos que autorizem a deflagração de uma ação penal."(RMS 50.276/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/09/2017, DJe 20/09/2017).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. 1. AÇÃO PENAL DE TITULARIDADE DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE INDÍCIOS DE MATERIALIDADE. ARQUIVAMENTO DE INQUÉRITO. CONCORDÂNCIA DO MAGISTRADO. IMPOSSIBILIDADE DE APLICAÇÃO DO ART. 28 DO CPP. 2.
+PLEITO QUE VISA A IMPEDIR O ARQUIVAMENTO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. 3. AGRAVO REGIMENTAL IMPROVIDO.
+1. O inquérito policial, cuja instauração requereu o recorrente, foi arquivado por ausência de indícios de materialidade que possibilitem a propositura da competente ação penal. Cabe ao Ministério Público, como titular da ação penal, aferir a presença de justa causa, ressalvada a hipótese prevista pelo art. 28 do Código de Processo Penal, a qual apenas se aplica na hipótese de o Magistrado discordar do membro do parquet no tocante às razões da promoção de arquivamento, o que não é o caso dos autos.
+2. "Não há ilegalidade ou abuso de poder, passível de correção via mandado de segurança, na decisão judicial que, acolhendo manifestação do Ministério Público, ordena o arquivamento de inquérito policial" (RMS n. 13.717/PR, Relator Ministro Vicente Leal, DJ 7/4/2003).
+3. Agravo regimental a que se nega provimento.
+(AgRg no RMS 48.260/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/09/2015, DJe 08/09/2015)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. 1. ARQUIVAMENTO DE INQUÉRITO POLICIAL. PLEITO FORMULADO PELO TITULAR DA AÇÃO PENAL. AUSÊNCIA DE INDÍCIOS DE MATERIALIDADE.CONCORDÂNCIA DO MAGISTRADO. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO DA VÍTIMA. NÃO CABIMENTO DO MANDAMUS. 2. AGRAVO REGIMENTAL IMPROVIDO.
+1. A ação penal pública é regida por diversos princípios, dentre eles o da obrigatoriedade, que impõe ao Ministério Público a propositura da ação penal. Contudo, é possível que não sejam reunidos elementos suficientes ao início do processo-crime, em virtude da ausência de provas ou em razão da existência de elemento concreto que determine o arquivamento da investigação. Portanto, "não há ilegalidade ou abuso de poder, passível de correção via mandado de segurança, na decisão judicial que, acolhendo manifestação do Ministério Público, ordena o arquivamento de inquérito policial" (RMS n. 13.717/PR, Relator o Ministro Vicente Leal, DJ 7/4/2003).
+2. Agravo regimental a que se nega provimento.
+(AgRg no RMS 34.264/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA,DJe 28/08/2014).
+Ante o exposto, com fundamento no art. 932, IV, do Código de Processo Civil de 2015 e art. 34, XVIII, b, do Regimento Interno desta Corte, NEGO PROVIMENTO ao Recurso Ordinário.
+Publique-se. Intimem-se.
