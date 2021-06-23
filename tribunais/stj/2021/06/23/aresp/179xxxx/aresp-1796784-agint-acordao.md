@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial por entender inadequada a via eleita quanto à alegação de ofensa aos arts. 1.022, inc. II, c/c o parágrafo único, inc. II, do CPC/2015 (visto que a nulidade decorreria de omissão no exame de questão de natureza constitucional) e 2º-A da Lei 9494/1997 (visto que o acórdão está assentado em fundamento eminentemente constitucional), bem como incidentes à hipótese as Súmulas 282/STF, 356/STF e 7/STJ.
+A agravante alega que "(..) os argumentos lançados no Apelo Extremo não se tratam de análise de matéria de ordem constitucional, mas, sim, a falta (omissão) de sopesamento do Tribunal a quo nos fundamentos vertidos no referido recurso. (..) O que impera, portanto, é a inobservância ao Código Processual quanto à necessidade de análise do conjunto carreado aos autos "sobre o qual devia se pronunciar o juiz de ofício ou a requerimento", de forma que tal análise pudesse resultar um julgamento diferente do que foi pronunciado." (fl. 995). Sustenta que não incidem ao caso as Súmulas 282/STF e 356/STF porque "(..) todos os elementos essenciais ao deslinde da controvérsia foram pontuados no Tribunal a quo, (..)". (fl. 996). Afirma que o posicionamento adotado pelo Tribunal de origem nega vigência ao art. 2º-A da Lei 9494/1997, que é uma norma federal, de modo "(..) que a discussão em voga não foge da competência desta Colenda Corte Superior." (fl. 997). Acrescenta que não incide ao caso também a Súmula 7/STJ, pois não se trata de reexame dos elementos fáticos e jurídicos em torno da questão, mas sim de sua revaloração.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): A decisão agravada conheceu do agravo para não conhecer do recurso especial por entender inadequada a via eleita quanto à alegação de ofensa aos arts. 1.022, inc. II, c/c o parágrafo único, inc. II, do CPC/2015 (visto que a nulidade decorreria de omissão no exame de questão de natureza constitucional) e 2º-A da Lei 9494/1997 (visto que o acórdão está assentado em fundamento eminentemente constitucional), bem como incidentes à hipótese as Súmulas 282/STF, 356/STF e 7/STJ.
+Ocorre que a agravante não impugnou, especificamente, nenhum dos fundamentos da decisão, razão pela qual impõe-se a incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se: AgInt no RE no AgRg no AREsp 786.603/RJ, Rel. Min. Humberto Martins, Corte Especial, DJe 18/10/2016; AgRg nos EREsp 1.424.371/SC, Rel. Min. Humberto Martins, Primeira Seção, DJe 20/4/2016; AgRg na Rcl 20.329/SC, Rel. Min. Napoleão Nunes Maia Filho, Primeira Seção, DJe 12/11/2014; AgInt no AREsp 884.901/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 27/5/2016; AgRg no AREsp 569.843/PE, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 11/11/2015; AgRg nos EDcl no AREsp 540.188/GO, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 13/10/2015; AgInt no AREsp 873.251/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 30/5/2016; AgInt no AREsp 866.675/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 25/5/2016; e AgRg no REsp 1.463.385/RN, Rel. Min. Og Fernandes, Segunda Turma, DJe 22/10/2015.
+Sendo oportuno, ressalta-se que conquanto a parte tenha referido a todos os fundamentos da decisão agravada, as alegações trazidas no presente agravo não podem ser tidas por suficientes à impugnação de tais fundamentos.
+Com efeito, ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão agravada foram lançados e impugná-los, de forma individualizada, clara e específica, o que não ocorreu na hipótese. A falta ou a insurgência genérica (como ocorrida no caso), no tempo e modo oportunos, obsta o conhecimento do agravo.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
