@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo Instituto Nacional do Seguro Socialcontra decisão proferida pelo Presidente do Tribunal de Justiça do Estado de São Pauloque negou seguimento ao seu recurso especial ante a ausência de violação à legislação enfocada.
+Em suas razões de agravo em recurso especial, alega a agravante que houve ofensa dos artigos 71 da Lei 8.212/1991 e 101, §4º da Lei 8.213/1991.
+O prazo para apresentação de agravo em recurso especial transcorreuin albis.
+O recurso especial que se pretende o seguimento, impugna acórdãoassim ementado:
+ACIDENTE DO TRABALHO - APOSENTADORIA PORINVALIDEZ - Restabelecimento - Benefício que foi concedido judicialmente - Cessação administrativa do benefício - Ajuizamento da presente ação visando ao restabelecimento da aposentadoria - Perícia médica judicial reconheceu incapacidade total e permanente- Pedido julgado procedente para conceder aposentadoria desde a cessação administrativa - Nada obstante, é entendimento consolidado de que, concedido judicialmente benefício previdenciário ou acidentário, é necessário ingresso de nova ação judicial para a sua revisão - Princípio do paralelismo das formas - Efeitos da coisa julgada - Procedência do pedido, porém, para restabelecimento da aposentadoria por invalidez em razão da impossibilidade de o INSS cessar administrativamente benefício concedido por decisão judicial transitada em julgado. CORREÇÃO MONETÁRIA: Lei nº 8.213/91 e alterações posteriores - Após 30.06.2009, deverá ser obedecida a orientação estabelecida no RE nº 870.947 (Tema 810 - Repercussão Geral) pelo Supremo Tribunal Federal - JUROS DE MORA: 1% ao mês, a partir da entrada em vigor do CC/02, e de acordo com a remuneração da caderneta de poupança, após 30.06.2009, na formado art. 1º-F da Lei nº 9.494/97, com as alterações introduzidas pela Lei nº 11.960/09, e nos termos do quanto decidido no precitado recurso extraordinário. HONORÁRIOS ADVOCATÍCIOS: Fixação na fase de execução, consoante o disposto no artigo 85, §4º, II, do CPC. REMESSA NECESSÁRIA PROVIDA EM PARTE.
+Opostos embargos de declaração, rejeitados.
+Em suas razões de recurso especial, sustenta orecorrente, ora agravante, a violação dos artigos47,60 e 71, da Lei n8.213/1991e artigo 101 da Lei 8.213/1991, alegando que ser possível a revisão e o cancelamento administrativode um benefício concedido judicialmente. Ressalva queo INSS pode e deve cessar a aposentadoria por invalidez, ainda que restabelecida judicialmente, quando constatada a recuperação da capacidade laboral do segurado.
+O prazo para apresentação de contrarrazões ao recurso especialtranscorreu in albis.
+É o relatório.
+Decido.
+Inicialmente é necessário consignar que o presente recurso atraia incidência do Enunciado Administrativo 3/STJ: "Aos recursosinterpostos com fundamento no CPC/2015 (relativos a decisões publicadas apartir de 18 de março de 2016) serão exigidos os requisitos deadmissibilidade recursal na forma do novo CPC".
+O agravante impugnou de forma adequada a fundamentação contida nadecisão agravada e mostrando-se preenchidos os demais pressupostosde admissibilidade do presente recurso, adentra-se o mérito.
+Cinge-se a controvérsia emdefinir se o benefício de aposentadoria por invalidezconcedido ao agravado, por meio de decisão judicial transitada emjulgado, pode ser revisado na via administrativa.
+O entendimento pacífico do STJ é no sentido de somente ser possívela revisão da aposentadoria por invalidez concedida judicialmente através de outra açãojudicial.
+Neste sentido:
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ CONCEDIDA JUDICIALMENTE. CANCELAMENTO NA VIA ADMINISTRATIVA. IMPOSSIBILIDADE. AÇÃO REVISIONAL. IMPRESCINDIBILIDADE. ART. 471, I, DO CPC. PARALELISMO DAS FORMAS. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Deferida a aposentadoria por invalidez judicialmente, pode a autarquia previdenciária rever a concessão do benefício, uma vez tratar-se de relação jurídica continuativa, desde que por meio de ação judicial, nos termos do art. 471, inciso I, do Código de Processo Civil, e em respeito ao princípio do paralelismo das formas.
+2. Recurso especial a que se nega provimento.
+(REsp 1201503/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 19/11/2012, DJe 26/11/2012)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PREVIDENCIÁRIO. OMISSÃO. INEXISTÊNCIA. BENEFÍCIO CONCEDIDO POR VIA JUDICIAL. CESSAÇÃO. NECESSIDADE DE MANIFESTAÇÃO JUDICIAL.
+1. O magistrado não está obrigado a responder a todas as questões suscitadas em Juízo quando já tenha encontrado motivo suficiente para proferir a decisão.
+2. Havendo concessão de benefício previdenciário por via judicial, apenas por esta mesma via poderá ser ele cessado. Precedentes. 3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1224701/RS, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 14/05/2013, DJe 27/05/2013)
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ.CONCESSÃO POR ATO JUDICIAL. CANCELAMENTOADMINISTRATIVO. IMPOSSIBILIDADE. NECESSIDADE DE AÇÃOJUDICIAL PARA REVISÃO DE BENEFÍCIO CONCEDIDOJUDICIALMENTE. ANÁLISE DE VIOLAÇÃO DE MATÉRIACONSTITUCIONAL. COMPETÊNCIA DO STF. AGRAVOREGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "Deferida a aposentadoria por invalidez judicialmente, pode aautarquia previdenciária rever a concessão do benefício, uma veztratar-se de relação jurídica continuativa, desde que por meio deação judicial, nos termos do art. 471, inciso I, do Código deProcesso Civil, e em respeito ao princípio do paralelismo dasformas." (REsp 1201503 / RS, Relatora Ministra MARIA THEREZADE ASSIS MOURA, SEXTA TURMA, Data do Julgamento19/11/2012, DJe 26/11/2012)
+2. Não compete ao Superior Tribunalde Justiça manifestar-se sobre suposta ofensa constitucional, aindaque para fins de prequestionamento, sob pena de invasão dacompetência do Supremo Tribunal Federal.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1267699/ES, Rel. Ministra ALDERITA RAMOS DEOLIVEIRA (DESEMBARGADORA CONVOCADA DO TJ/PE), SEXTATURMA, julgado em 16/05/2013, DJe 28/05/2013)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PREVIDENCIÁRIO. AUXÍLIO-DOENÇA.CONCESSÃO ATRAVÉS DE DECISÃO JUDICIAL. CANCELAMENTO ADMINISTRATIVO.INADMISSIBILIDADE. NECESSIDADE DE AÇÃO JUDICIAL. RECURSO NÃO PROVIDO.
+1.  pacífico o entendimento desta Corte no sentido de somente ser possível a revisão da aposentadoria por invalidez concedida judicialmente através de outra ação judicial.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1218879/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 18/09/2014, DJe 25/09/2014)
+Ressalte-se por oportunoque a previsão do artigo71 da Lei nº 8.212/91, autorizando o INSS a reavaliar a permanência da incapacidade do beneficiário, bem como a obrigação da submissão deste ao exame a cargo da Previdência Social, disciplinada pelo artigo 101 da Lei 8.213/1991, não infirmam a necessidade de propositura de nova ação judicial para o cancelamento do benefício em casos de recuperação da capacidade laborativa.
+Desta feita, se for constatado que o segurado não mais preenche o requisito da incapacidade exigida paraa obtenção do benefício, cabe ao INSS propor nova ação revisional.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e julgamento e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. CONCESSÃO POR ATO JUDICIAL. CANCELAMENTO ADMINISTRATIVO. IMPOSSIBILIDADE. NECESSIDADE DE AÇÃO JUDICIAL PARA REVISÃO DE BENEFÍCIO CONCEDIDO JUDICIALMENTE. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
