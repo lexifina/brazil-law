@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fls. 388):
+PREVIDENCIÁRIO. ATIVIDADE ESPECIAL. RECONHECIMENTO.APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REVISÃO DA RMI. CORREÇÃO MONETÁRIA. TUTELA ESPECÍFICA.
+1. Apresentada a prova necessária a demonstrar o exercício de atividade sujeita a condições especiais, conforme a legislação vigente na data da prestação do trabalho, o respectivo tempo de serviço especial deve ser reconhecido.
+2. Comprovando tempo de serviço não computado no ato de concessão da aposentadoria, a parte autora tem direito à majoração da renda mensal inicial de seu benefício pela opção que lhe for mais vantajosa, a contar da DER, observada a prescrição quinquenal.
+3. O Supremo Tribunal Federal reconheceu no RE 870.947, com repercussão geral (Tema STF 810), a inconstitucionalidade do uso da TR como fator de atualização monetária, sem modulação de efeitos. O Superior Tribunal de Justiça, no REsp 1.495.146 (Tema STJ 905), em precedente também vinculante, e tendo presente a inconstitucionalidade da TR, distinguiu os créditos de natureza previdenciária, em relação aos quais, com base na legislação anterior, determinou a aplicação do INPC, daqueles de caráter administrativo, para os quais deverá ser utilizado o IPCA-E.
+4. Determina-se o cumprimento imediato do acórdão, por se tratar de decisão de e cácia mandamental que deverá ser efetivada mediante as atividades de cumprimento da sentença stricto sensu previstas no art. 497 do CPC/15, sem a necessidade de um processo executivo autônomo (sine intervallo).
+Embargos de declaração parcialmente providos para fins exclusivos de prequestionamento.
+O recorrente sustenta ofensa ao artigo 1.022, II, do CPC/2015, diante nulidade da decisão recorrida por negativa de prestação jurisdicional. Defende, em síntese, que "Especificamente, não foi apreciada a alegada incidência dos artigos 502, 503 e 508 do CPC no caso dos autos, na medida em que o benefício previdenciário da parte autora foi obtido em outra ação judicial, de modo que incabível o ajuizamento de nova ação para reconhecimento de tempo de serviço que já poderia ter sido objeto da ação anterior." (fls. 440).
+Com contrarrazões.
+Decisão de reversão em recurso especialàs fls. 479.
+É o relatório. Passo a decidir.
+Primeiramente, registra-se que, de acordo com o estatuído no art. 1022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado e, ainda, para corrigir erro material.
+Não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso. Percebe-se, pois, que o embargante maneja os presentes aclaratórios em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do CPC/2015, a inquinar tal decisum.
+Ainda, afasta-se a alegada ofensa ao artigo 1.022, II, do CPC/2015, pois, no caso, a tese jurídica supostamente não apreciada foi suscitada somente em embargos de declaração opostos ao julgamento do recurso, uma vez que no recurso de apelação (e-STJ, 354/362) nada consta sobre a irresignação da autarquia.
+Assim, a questão, ao tempo e modo em que questionada, traduz indevida inovação recursal superada pela preclusão consumativa. Desse modo, conclui-se que a dedução de tese jurídica por meio de argumentos só apresentados em embargos de declaração não implica ofensa ao artigo 1.022, II, do CPC/2015.
+Ante o exposto, nego provimento ao recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias na vigência do CPC/2015, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO.RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. TESE JURÍDICA APRESENTADA APENAS EM SEDE DE EMBARGOS DE DECLARAÇÃO. INOVAÇÃO RECURSAL. RECURSO NÃO PROVIDO.
