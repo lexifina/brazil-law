@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ROGÉRIO FRANÇA ROCHA contra decisão da lavra deste signatário que deu parcialprovimento ao recurso especial.
+Nas razões do presente recurso (e-STJ, fls. 1.900-1.908), a parte embargante aponta as seguintesomissõesno julgado recorrido: i) inclusão das férias e do décimo terceiro salário no pensionamento; ii)índicede correção monetária e dos juros de mora e o termo final do pensionamento; iii) pedido de majoração da indenização de danos morais; iv) majoração dos honorários.
+Sem impugnação.
+É o relatório.
+Decido.
+Acolho em parte os embargos declaratórios, entretanto sem efeitos modificativos.
+1. Depreende-se do artigo 1022, incisos I, II e III, do CPC/15, que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado, bem como na hipótese de erro material. A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CARÁTER PROTELATÓRIO. PEDIDO DE MULTA. OMISSÃO VERIFICADA.
+EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso, verificada a omissão, acolhem-se os embargos para suprir o vício.
+3. Embargos de declaração acolhidos sem efeitos infringentes.
+(EDcl nos EDcl no AgInt nos EDcl no AREsp 1679681/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/03/2021, DJe 05/04/2021)
+No caso, conforme relatado, o embargante sustenta omissão no tocante:i) inclusão das férias e do décimo terceiro salário no pensionamento; ii) índice de correção monetária e dos juros de mora e o termo final do pensionamento; iii) pedido de majoração da indenização de danos morais; iv) majoração dos honorários.
+Quanto à primeira omissão alegada, verifica-se que não houve pedido expresso na petição inicial, sendo assimimpossível o seu acolhimento.
+No tocanteao termo final de pensionamento, não há o que se falar em omissão, visto querestou claro no acórdão recorrido, como se vê:
+Relativamente ao termo final da indenização por dano material, a jurisprudência do STJ é no sentido de que a pensão para o viúvo deve ser paga até a expectativa média de vida da vítima, segundo tabela do IBGE na data do óbito, ou até o falecimento do beneficiário, sendo devida aos filhos menores até o limite de 25 anos de idade.
+Não merece guaridaa pretensão do embargante de ver expressamente indicados quais os índices de correção monetária incidentes na espécie. Tal pormenorização é completamente desnecessária, sendo certo que deverão ser adotados os índices discriminados nas tabelas de atualização monetária do tribunal estadual. (AgInt no AREsp nº 1.125.026/RS, Relator o Ministro Moura Ribeiro, Terceira Turma, DJe de 1º/3/2018).
+Todavia, a decisão embargadafoi omissaao deixar de especificar que, nesse cenário, tanto as parcelas vencidas quanto as vincendas da referida obrigação reparatória devem ser corrigidas monetariamente a contar da data do evento danoso (a teor do que estabelece a Súmula nº 43/STJ), bem como ser acrescidas de juros de mora a partir da data de seus respectivos vencimentos (no caso de inadimplemento), por ser essa a orientação jurisprudencial consolidada nesta Corte Superior a respeito da incidência de juros legais sobre prestações de trato sucessivo.
+Ademais, também restou a decisão embargada sobre o pleito de majoração do valor arbitrado de danos morais. No ponto, o Tribunal de piso fixou o valor dos danos morais em 300 salários mínimos.
+Com efeito, não obstante o grau de subjetivismo que envolve o tema da fixação da indenização, uma vez que não existem critérios determinados e fixos para a quantificação do dano moral, reiteradamente tem-se pronunciado esta Corte no sentido de que a reparação do dano deve ser fixada em montante que desestimule o ofensor a repetir a falta, sem constituir, de outro lado, enriquecimento indevido.
+Com a apreciação reiterada de casos dessa natureza, concluiu-se que a intervenção desta Corte ficaria limitada aos casos em que o quantum fosse ínfimo ou exagerado, diante do quadro fático delimitado em primeiro e segundo graus de jurisdição. No caso em tela, consideradas as circunstâncias e peculiaridades do caso, o Tribunal local assim concluiu:
+No que diz respeito a reparação dos danos morais, opera-se a mesma solução tocante aos demais recorrentes MARCOS e SUELI, ou seja, deixa-se de se majorar a reparação moral, já arbitrada em primeiro grau em quantia equivalente a 300 (trezentos) salários mínimos na data da prolação, correspondentes a R$ 264.000,00 (duzentos e sessenta e quatro mil reais), porém deslocam-se os juros de mora da citação para a data do evento danoso, 15 de abril de 2012, nos termos do enunciado da Súmula nº54 do Superior Tribunal de Justiça.
+E, em decorrência desse ajuste dos juros moratórios, reflexamente opera-se a majoração da reparação moral para valor aproximado, em termos atuais para janeiro de 2019, a R$ 650.000,00 (seiscentos e cinquenta mil reais), quantia suficiente para compensar economicamente as dores pela perda da esposa e da filha, assim como aquelas sentidas também enquanto vítima direta do acidente.
+Referido valor, de fato, consideradas as circunstâncias fáticas, não destoa daqueles reputados razoáveis e proporcionais por esta Corte, em situações semelhantes, de modo a não haver justificativa para afastamento do óbice inserto na Súmula 7 do STJ.
+Por fim, em relação à majoração dos honorários de sucumbência, pelo provimento parcial do recurso especial, esses já foram arbitrados pelo magistrado primevo em 10% do valor da condenação, sendo assim, aumentado o valor da condenação do embargado, consequentemente, há um aumento dos honorários sucumbenciais.
+2. Do exposto, acolho parcialmente os embargos de declaração apenas para fazer constar o termo inicial da correção monetária do pensionamento, nos termos da fundamentação supra.
+Publique-se.
+Intimem-se.
