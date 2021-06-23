@@ -1,0 +1,42 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NOS AUTOS DO HABEAS CORPUS CRIMINAL No 1025688-66.2020.8.11.0000
+RECORRENTE: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+RECORRIDA: MÔNICA MARCHETT
+Vistos.
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO, com fundamento no art. 105, III, alínea “a” da Constituição Federal, contra o acórdão da Segunda Câmara Criminal do Tribunal de Justiça do Estado de Mato Grosso que, por unanimidade, concedeu a ordem para o trancamento da ação penal, nos termos da seguinte ementa (Id. 74841491):
+“HABEAS CORPUS – HOMICÍDIO QUALIFICADO – TRANCAMENTO DA AÇÃO PENAL – PROCEDÊNCIA – AUSÊNCIA DE JUSTA CAUSA – PACIENTE IMPRONUNCIADA EM PROCESSO ANTERIOR – INDÍCIOS NOVOS INSUFICIENTES PARA LEGITIMAR A PERSECUTIO CRIMINIS IN JUDICIO – CONSTRANGIMENTO ILEGAL CONFIGURADO – ORDEM CONCEDIDA.
+A impronúncia autoriza o ajuizamento de nova ação penal desde que, antes da extinção da punibilidade, surjam novas provas, consoante o parágrafo único do artigo 414 do Código de Processo Penal. Todavia, impõe-se o trancamento dessa segunda ação penal, por falta de justa causa, quando os elementos indiciários que subsidiam a nova denúncia não são aptos a infirmar os fundamentos da sentença original.”
+Nas razões do recurso especial (Id. 80606956), o recorrente sustenta violação aos artigos aos artigos 395, III, 647 e 648, I, todos do Código de Processo Penal, ao argumento de que “equivocou-se o e. Tribunal de Justiça ao decidir pelo trancamento da ação penal, visto que preenchidos os requisitos do artigo 41 do Código de Processo Penal, especialmente no que concerne à demonstração de justa causa,” uma vez que “não resplandece, de imediato, a ausência de justa causa para a deflagração de nova ação penal em desfavor da recorrida, razão pela qual as questões atinentes à autoria do delito depende do exame acurado de toda a prova produzida na instrução criminal.”
+Assim, o recorrente assevera que ao trancar a ação penal, o Tribunal de Justiça de Mato Grosso extrapolou os limites de cognição do writ, pois examinou, sopesou e valorou o contexto fático-probatório, razão pela qual entende que “a ação penal deve prosseguir, diante da presença de indícios de crime e de autoria, considerando que as demais circunstâncias deverão ser apuradas e verificadas durante a instrução processual.”
+Recurso tempestivo (Id. 80946955).
+Contrarrazões (Id. 83308995).
+É o relatório.
+Passo ao juízo de admissibilidade.
+Do exame dos autos, observa-se que o recurso especial atende aos pressupostos genéricos de admissibilidade, quais sejam: tempestividade, legitimidade e interesse em recorrer.
+Da sistemática de recursos repetitivos
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Pressupostos satisfeitos.
+O órgão fracionário desta Corte, ao conceder a ordem para o trancamento da ação penal, consignou que:
+“Todavia, compulsando detidamente o caderno processual, inclusive as informações prestadas pelo impetrado, observo que não há justa causa para a retomada da persecutio criminis in judicio no caso dos autos.
+Nesta segunda ação penal, a acusação se lastreia (1) na existência de um documento, supostamente assinado pela paciente, autorizando a transferência de um veículo Volkswagen Gol, de cor branca, a Célio Alves de Souza, um dos executores do delito, como forma de pagamento pelo “serviço” e (2) na própria confissão de Célio perante o Tribunal do Júri, uma vez que, por quase duas décadas, ele teria apenas negado o seu próprio envolvimento no crime.
+Ocorre que a inautenticidade da mencionada assinatura foi amplamente discutida no julgamento do Recurso em Sentido Estrito n. 130821/2012. A propósito, entendo necessário rememorar os fundamentos do extenso voto que proferi pela despronúncia da paciente, não apenas porque a composição desta Câmara se modificou consideravelmente desde então, mas também para pontuar a inaptidão dos “novos” elementos probatórios para infirmar a conclusão a que chegou o colegiado naquela oportunidade:
+(...)
+Portanto, nota-se que, ao contrário do que sustentado pelo parquet, a prova pericial produzida no curso das investigações e da ação penal original – inclusive pelo Instituto Nacional de Criminalística, em Brasília/DF – demonstra que a assinatura em questão (constante do documento de autorização de transferência de veículo) não partiu do punho da paciente.
+Resta, portanto, apenas a análise das afirmações feitas por Célio Alves de Souza perante o Conselho de Sentença, em sessão de julgamento realizada no dia 14 de junho de 2018. Para tanto, confira-se a transcrição dos trechos mais relevantes de seu interrogatório:
+(...)
+É verdade que o interrogatório de Célio Alves de Souza, ao menos em termos formais, constitui novo elemento probatório – daí por que reputo inaplicável o enunciado sumular n. 524 do STF, que preceitua a impossibilidade de ajuizamento de ação penal “sem novas provas” após o arquivamento do inquérito.
+Contudo, em termos materiais ou substanciais, esse interrogatório não trouxe nenhuma informação inédita, nenhuma perspectiva que não tenha sido apreciada pela Segunda Câmara Criminal no julgamento anterior ou que contradiga, de alguma maneira, os fundamentos que levaram à despronúncia da paciente. E se não havia motivos plausíveis para que ela fosse submetida a julgamento pelo Tribunal do Júri naquela oportunidade, muito menos há agora, considerando-se que as alegações de Célio apenas ecoam os relatos do corréu Hércules de Araújo Agostinho, detidamente examinados no processo original. E esses relatos são vagos demais para legitimar o desencadeamento de uma segunda ação penal em desfavor de Mônica Marchett, na medida em que ambos os executores apenas “ouviram dizer” e conjecturaram acerca da possível identidade do(s) mandante(s).
+Vê-se que em nenhum momento Célio implicou a paciente como mandante dos homicídios dos irmãos Araújo. Pelo contrário: enfatizou que deveria tomar cuidado com suas próprias palavras para não incriminar injustamente alguém com base em informações de terceiros, porque tudo o que ficou sabendo a respeito dos motivos do crime e da identidade do(s) suposto(s) “contratantes” foi por meio de José de Jesus Freitas, o “Sargento Jesus”, intermediário da negociata, que faleceu antes que as investigações o alcançassem.
+Além disso, Célio confirmou que não recebeu o documento concernente à transferência do veículo das mãos da paciente, mas de um indivíduo que parecia ser funcionário da empresa, o que corrobora a tese de que ela realmente não tinha ciência da trama criminosa.
+Em síntese, “nada de novo no front”.
+Destarte, à míngua de indícios suficientes de que Mônica Marchett tenha concorrido dolosamente para a consecução do crime noticiado na exordial acusatória, faz-se necessário o reconhecimento da carência de justa causa para a deflagração da ação penal, impondo-se, por consequência, o trancamento do feito, pois, do contrário, perpetuar-se-ia o constrangimento ilegal a que presentemente sujeita a paciente.” (Id. 74841481).
+Nesse contexto, ao apontar ofensa aos artigos 395, III, 647 e 648, I, todos do Código de Processo Penal., alega o recorrente que o “acórdão invectivado revela nítido julgamento antecipado do meritum causae, travestido em suposta inexistência de justa causa para a propositura da ação penal pública”, porém na fase inicial da persecução penal “vigora o princípio do in dubio pro societate, ou seja, na dúvida, sagra-se vencedora a deflagração da ação penal, o que, in casu, não ocorreu.”
+No caso, observa-se que a matéria acima mencionada, além de ter sido discutida no aresto impugnado, o que impede a incidência das Súmulas 211 do STJ, 282 e 356, do STF, é exclusivamente de direito, porquanto não se pretende reexaminar fatos e provas, (não aplicação da Súmula 7 do STJ), não incidindo, também, no caso concreto, nenhuma outra súmula impeditiva.
+Ante o exposto, preenchidos os requisitos específicos de admissibilidade, admito o recurso especial com fundamento no art. 1.030, V, da Código de Processo Civil.
+Publique-se. Cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
