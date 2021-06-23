@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial com fundamento na Súmula 7 do STJ.
+Sustenta o agravante que o recurso especial pretende a análise de matéria exclusivamente de direito.
+Requer seja conhecido o agravo para prover o recurso especial, absolvendo-se o réu por atipicidade material da conduta.
+Apresentada contraminuta, manifestou-se o Ministério Público pelo improvimento do recurso.
+O agravo é tempestivo e ataca os fundamentos da decisão agravada. Passa-seà análise do mérito.
+O agravante foi condenado à pena de 2 anos de reclusão, em regime aberto, e 10 dias-multa, como incurso no art. 14 da Lei 10.826/2003.
+Nas razões do especial, alega atipicidade da conduta, ao fundamento de que não consta dos autos nenhum laudo pericial confirmando a potencialidade lesiva do objeto apreendido.
+Interposta apelação, foi improvida, relativamente à matéria ora impugnada, nos seguintes termos (fls. 331-332):
+ .. .
+O argumento de que a ausência de perícia técnica na arma de fogo apreendida inviabiliza a imputação criminosa contra o ora apelante, pelas mesmas razões, é improcedente: tratando-se de crime de perigo abstrato, desnecessária a realização de laudo pericial para atestar a potencialidade lesiva da artefato, assim como é desimportante que as munições estejam (des)acompanhadas da respectiva arma de fogo, pois, como já se disse, a consumação do crime em questão se dá com a mera conduta de ter consigo qualquer dos artefatos bélicos dispostos, alternativamente, na figura típica.
+Veja-se, por relevante, que a própria Defesa, já no apelo recursal, não nega que a arma de fogo apreendida, de fato, foi encontrada em poder do recorrente  o qual, gize-se, é réu confesso, inclusive quanto ao fato de que, na época em que se deu o flagrante de crime, não possuía o registro da arma de fogo, que somente foi providenciado quase 01 (um) ano depois dos fatos narrados na denúncia, precisamente no dia 06.08.02015 (fl. 165) -, limitando sua irresignação, tão só, à suposta ausência de dano penalmente relevante, ante a ausência de perícia, a descaracterizar a materialidade do delito.
+A propósito do tema, seguem decotadas algumas jurisprudências de nossos Tribunais, que afastam a necessidade de comprovação do potencial ofensivo da arma para a configuração do injusto penal:
+ .. .
+O acórdão recorrido, refutando a tese apresentada pela defesa, registrou que,tratando-se de crime de perigo abstrato, é dispensável a realização de laudo pericial para atestar a potencialidade da arma apreendida e, consequentemente, caracterizar o crime de porte ilegal de arma de fogo, entendimento que se encontra de acordo com a jurisprudência desta Corte. A reversão das premissas fáticas demandaria incursão fático-probatória, o que encontra óbice na Súmula 7/STJ. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. PORTE DE ARMA DE FOGO. PERÍCIA. PRESCINDIBILIDADE. RECEBIMENTO DA DENÚNCIA. JUSTA CAUSA. INDÍCIOS MÍNIMOS. AUSÊNCIA DE APREENSÃO DO OBJETO. OUTROS ELEMENTOS INDICIÁRIOS. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Tratando-se de crime de perigo abstrato, é prescindível a realização de laudo pericial para atestar a potencialidade da arma apreendida e, por conseguinte, caracterizar o crime de porte ilegal de arma de fogo.
+2. Apesar de não haver sido possível a apreensão da arma alegadamente portada pelas Agravantes, a Corte local concluiu que há indícios mínimos de materialidade e autoria, especialmente em razão das informações prestadas pelas Acusadas e da existência de imagens nas quais estas empunham objetos que são, no mínimo, muitos similares a armas de fogo.
+3. Ante existência de lastro probatório mínimo, mostra-se adequada a instauração da ação penal, no curso da qual poderão ser discutidos a credibilidade destes indícios iniciais, bem como produzidas outras provas destinadas a localizar o armamento alegadamente portado ou a melhor identificá-lo mediante exame das imagens presentes no autos.
+4. Agravo regimental desprovido. (AgRg no AREsp 1388977/SE, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 25/06/2019, DJe 02/08/2019)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 14 DA LEI N. 10.826/2003. CRIME DE PERIGO ABSTRATO. ARMA DESMUNICIADA. IRRELEVÂNCIA. PRESCINDIBILIDADE DO EXAME PERICIAL. PERÍCIA EFETIVADA QUE DEMONSTROU A EFICÁCIA DA ARMA. TIPICIDADE. DIVERGÊNCIA JURISPRUDENCIAL. ACÓRDÃO PROFERIDO EM HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O crime de porte ilegal de arma de fogo é de perigo abstrato, portanto são prescindíveis, para o reconhecimento da materialidade delitiva, a realização de perícia para atestar a potencialidade lesiva do artefato ou a constatação de seu efetivo municiamento.
+2. O recorrido transportava e mantinha sob sua guarda espingarda de uso permitido, à margem do controle estatal, artefato que, mesmo desmuniciado, possui potencial de intimidação e reduz o nível de segurança coletiva exigido pelo legislador, conduta que se subsume ao tipo penal previsto no art. 14 da Lei n. 10.826/2003.
+3. Apesar de ser prescindível o laudo pericial para a configuração da materialidade do crime, o exame de constatação de potencialidade do armamento registrou que, embora o sistema de repetição da espingarda seja ineficiente, "a arma de fogo descrita efetua disparo".
+4. Consoante pacífica jurisprudência desta Corte, "acórdão proferido em habeas corpus, por não possuir a mesma extensão almejada no recurso especial, não serve de paradigma para fins de comprovação da divergência jurisprudencial, ainda que se trate de dissídio notório" (AgRg no AREsp n. 864.672/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 1º/6/2016).
+5. Agravo regimental não provido. (AgRg no AREsp 1262717/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/10/2018, DJe 16/11/2018)
+Ante o exposto, nego provimento ao agravo emrecurso especial.
+Publique-se.
+Intimem-se.
