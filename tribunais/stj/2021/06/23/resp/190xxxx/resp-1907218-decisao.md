@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de recurso especial interposto por BANCO VOLKSWAGEN S/A, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 17/08/2020.
+Concluso ao gabinete em: 10/12/2020.
+Ação: revisional, ajuizada por ALEXANDRE PAULO SOARES, em face do recorrente, fundada na cobrança de encargos abusivos.
+Sentença: julgou parcialmente procedentes os pedidos, nos seguintes termos (e-STJ, fl. 349):
+Ante o exposto, julgo parcialmente procedentes os pedidos formulados na petição inicial, nos seguintes termos:
+a) admito a cobrança da comissão de permanência, no período de inadimplência, limitada à soma dos juros remuneratórios (15,94% ao ano), com os juros moratórios (12% ao ano) e a multa contratual (2%);
+b) proíbo a cobrança de honorários advocatícios ou a profissional encarregado da cobrança da dívida na esfera extrajudicial.
+Os valores eventualmente pagos pela parte autora em razão dos encargos contratuais extirpados nesta sentença deverão ser compensados do novo saldo devedor, depois de atualizados pelo INPC desde cada desembolso e acrescidos de juros de mora de 1% ao mês desde a citação.
+Como a instituição financeira decaiu de parte mínima dos pedidos (CPC, art. 86, parágrafo único), condeno a parte autora ao pagamento das despesas processuais e honorários advocatícios, que fixo em 15% do valor atualizado da causa, nos termos do art. 85, § 2.º do CPC, observada a suspensão de que trata o art. 98, § 3.º, do CPC, ante a gratuidade da justiça que lhe foi deferida.
+Acórdão: conheceu parcialmente da apelação interposta pelo recorrido e negou-lhe provimento, bem como negou provimento à apelação interposta pelo recorrente, termos da seguinte ementa:
+APELAÇÕES CÍVEIS. AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO PARA AQUISIÇÃO DE VEÍCULO. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DE AMBAS AS PARTES.
+APELO DO AUTOR. JUSTIÇA GRATUITA. AUSÊNCIA DE INTERESSE RECURSAL. PEDIDO CONCEDIDO PELO JUÍZO DE ORIGEM. PRESCINDIBILIDADE DA REITERAÇÃO DA PRETENSÃO. PRELIMINAR. CERCEAMENTO DE DEFESA PELO JULGAMENTO ANTECIPADO DA LIDE. EVIDENTE DISPENSABILIDADE DA PROVA TESTEMUNHAL. PREFACIAL AFASTADA. MÉRITO. PRETENDIDA APLICAÇÃO DOS JUROS REMUNERATÓRIOS EM 12% AO ANO. IMPOSSIBILIDADE. ORIENTAÇÃO DO STJ NO RECURSO ESPECIAL N. 1.061.530/RS, DETERMINANDO QUE: A ESTIPULAÇÃO DE JUROS REMUNERATÓRIOS SUPERIORES A 12% AO ANO, POR SI SÓ NÃO INDICA ABUSIVIDADE. MANUTENÇÃO DA SENTENÇA QUE MANTEVE A TAXA DE JUROS CONTRATADA PORQUE INFERIOR A TAXA MÉDIA DE MERCADO DIVULGADA PELO BANCO CENTRAL PARA OPERAÇÃO DE MESMA NATUREZA E MESMO PERÍODO. NÃO CONHECIMENTO NO PONTO. CAPITALIZAÇÃO MENSAL DOS JUROS. POSSIBILIDADE, DESDE QUE EXPRESSAMENTE PACTUADO, CONSIDERANDO-SE COMO TAL TAMBÉM A HIPÓTESE EM QUE A TAXA DE JUROS ANUAL É SUPERIOR AO DUODÉCUPLO DA TAXA MENSAL. CASO CONCRETO QUE SE ENQUADRA NESTE ENTENDIMENTO. COBRANÇA DA CAPITALIZAÇÃO AUTORIZADA. COMISSÃO DE PERMANÊNCIA. INSURGÊNCIA DE AMBAS AS PARTES NESTE PONTO. LICITUDE DA INCIDÊNCIA DE TAL RUBRICA, DESDE QUE EXPRESSAMENTE PREVISTO NO PACTO. IMPOSSIBILIDADE DE CUMULAÇÃO, TODAVIA, COM OUTROS ENCARGOS DE IMPONTUALIDADE. EXEGESE DAS SÚMULAS 294 E 472 DO SUPERIOR TRIBUNAL DE JUSTIÇA E DO ENUNCIADO III DO GRUPO DE CÂMARAS DE DIREITO COMERCIAL DESTE SODALÍCIO. SENTENÇA MANTIDA. TARIFAS DE ABERTURA DE CRÉDITO (TAC) E DE EMISSÃO DE CARNÊ (TEC). AUSÊNCIA DE CONTRATAÇÃO. NÃO CONHECIMENTO, NESTE TOCANTE. PLEITO DE DESCARACTERIZAÇÃO DA MORA. IMPOSSIBILIDADE. INEXISTÊNCIA DE ABUSIVIDADES NO PERÍODO DA NORMALIDADE. AUSÊNCIA DE REQUISITOS PARA DESCONFIGURAR A MORA. REPETIÇÃO DE INDÉBITO. COBRANÇA DE ENCARGOS QUE NÃO SE MOSTRAM ABUSIVOS DENTRO DO PERÍODO DE NORMALIDADE. INEXISTÊNCIA DE VALORES A REPETIR. CLÁUSULA DE VENCIMENTO ANTECIPADO DA DÍVIDA EM CASO DE INADIMPLEMENTO. ABUSIVIDADE INEXISTENTE. MANUTENÇÃO. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. CABIMENTO, NOS TERMOS DO ART. 85, § 11, DO CPC/2015. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+INSURGÊNCIA DO RÉU. ALEGAÇÃO DE IMPOSSIBILIDADE DE REVISÃO DOS CONTRATOS PARTES. BANCÁRIOS FIRMADOS ENTRE AS DESCABIMENTO. POSSIBILIDADE DE REVISAR CLÁUSULAS CONTRATUAIS, CASO CDC. CONSTATADAS ABUSIVIDADES. INCIDÊNCIA DO CLÁUSULA DE RESSARCIMENTO DE HONORÁRIOS ADVOCATÍCIOS EXTRAJUDICIAIS. AFRONTA AO ART. 51, XII, DO CDC. NULIDADE MANTIDA. HONORÁRIOS RECURSAIS. IMPOSSIBILIDADE DE FIXAÇÃO DE OFÍCIO EM RAZÃO DA INEXISTÊNCIA DE FIXAÇÃO DA VERBA EM PRIMEIRO GRAU. RECURSO CONHECIDO E DESPROVIDO.
+Recurso especial: alega violação dos arts. 389, 395 e 404, do CC/02, e do art. 51, XII, do CDC, bem como dissídio jurisprudencial.
+Defende a legalidade da cláusula que estipula ao devedor a obrigação de pagar honorários advocatícios na hipótese de cobrança extrajudicial de dívida em mora.
+Desta forma, havendo cobrança extrajudicial de dívida vencida e não paga pelo devedor, seria lícita a cobrança de honorários advocatícios em função da atuação de advogado especificamente contratado para esse fim.
+Admissibilidade: o recurso foi admitido na origem pelo TJ/SC.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Da Súmula 568/STJ
+As duas Turmas de Direito Privado do STJ entendem que "é possível a cobrança de honorários advocatícios extrajudiciais se expressamente prevista em contrato, ainda que de adesão, em caso de mora ou inadimplemento por parte do consumidor" (AgInt no AgInt nos EDcl no REsp 1837360/DF, 3ª Turma, DJe de 17/11/2020).
+Ainda nesse sentido: AgInt nos EDcl no AgInt no AREsp 1593916/SP, 4ª Turma, DJe de 30/06/2020; AgInt no REsp 1813017/DF, 4ª Turma, DJe de 24/10/2019; e AgInt no REsp 1377564/AL, 3ª Turma, DJe de 02/08/2017.
+Na hipótese, o Tribunal de origem entendeu pela nulidade da cláusula relativa aos honorários advocatícios extrajudiciais (e-STJ, fl. 451), em dissonância com o entendimento dominante sobre o tema nesta Corte.
+Aplica-se, portanto, a Súmula 568/STJ no particular.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para reconhecer a legalidade da cobrança de honorários advocatícios extrajudiciais pactuados em contrato.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação revisional fundada na cobrança de encargos abusivos.
+2. É possível a cobrança de honorários advocatícios extrajudiciais se expressamente prevista em contrato, ainda que de adesão, em caso de mora ou inadimplemento por parte do consumidor. Precedentes. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+3. Recurso especial conhecido e provido.
