@@ -1,0 +1,25 @@
+DECISÃO: 1. Trata-se de reclamação em que se articula violação à Súmula Vinculante 56 pelo Tribunal de Justiça do Estado de São Paulo.
+    Alega o reclamante que, embora condenado ao cumprimento de pena em regime semiaberto, foi transferido para unidade prisional com déficit de vagas na qual “os detentos estão passando 100% do tempo fechados em suas celas, estando privados, inclusive, de banho de sol”.
+    Busca-se, em síntese, “o envio do Reclamante (i) à prisão domiciliar; (ii) ao cumprimento da pena no regime aberto ou (iii) sua colocação em liberdade eletronicamente monitorada”.
+    Solicitadas, as informações foram prestadas pelo Juízo da execução (eDOCs 15 e 23).
+    É o relatório. Decido.
+    1. A função precípua da reclamação constitucional reside na proteção da autoridade das decisões de efeito vinculante proferidas pela Corte Constitucional e no impedimento de usurpação da competência que lhe foi atribuída constitucionalmente. É dizer: a reclamação não se destina a funcionar como sucedâneo recursal ou incidente dirigido à observância de entendimento jurisprudencial sem força vinculante.
+    Nessa quadra, o cabimento do instituto jurídico da reclamação deve ser aferido nos estritos limites das normas de regência, que somente a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF), bem como contra atos que contrariem ou indevidamente apliquem súmula vinculante (art. 103-A, § 3º, da CF).
+    2. Fixadas tais premissas, consigno que a Súmula Vinculante 56/STF enuncia que:
+    “A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS”
+    No referido precedente representativo da controvérsia assentada sob o Tem n. 423, consignado que o cumprimento de pena em regime fechado, na hipótese de inexistir vaga em estabelecimento adequado a seu regime, incorre em violação aos princípios da individualização da pena (art. 5º, XLVI) e da legalidade (art. 5º, XXXIX), razão pela qual a falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso.
+    Os juízes da execução penal poderão avaliar os estabelecimentos destinados aos regimes semiaberto e aberto, para qualificação como adequados a tais regimes. São aceitáveis estabelecimentos que não se qualifiquem como “colônia agrícola, industrial” (regime semiaberto) ou “casa de albergado ou estabelecimento adequado” (regime aberto) (art. 33, § 1º, b e c). No entanto, não deverá haver alojamento conjunto de presos dos regimes semiaberto e aberto com presos do regime fechado.
+    Havendo déficit de vagas, deverão ser determinados: (i) a saída antecipada de sentenciado no regime com falta de vagas; (ii) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; (iii) o cumprimento de penas restritivas de direito e/ou estudo ao sentenciado que progride ao regime aberto. Até que sejam estruturadas as medidas alternativas propostas, poderá ser deferida a prisão domiciliar ao sentenciado.
+(RE 641.320, Relator(a) Min. Gilmar Mendes, julgado em 11.05.2016)
+    3. No caso concreto, todavia, noticiou a autoridade reclamada que, a despeito do alegado pelo reclamante “o apenado encontra-se atualmente custodiado no Centro de Progressão Penitenciário de Franco da Rocha/SP, em regime compatível com o regime semiaberto”.
+    Diante das informações prestadas não há que se falar em ofensa à Súmula Vinculante 56 do STF.
+    Outrossim, considerando que a reclamação configura via afunilada, despida de dilação probatória, não há como divergir dessa conclusão sem proceder ao reexame de fatos e provas nem mesmo colacionadas aos presentes autos. Nesse sentido, a jurisprudência desta Suprema Corte:
+    [...] 2. Firme na excepcionalidade da via processual da reclamação, a jurisprudência do Supremo Tribunal Federal se assentou no sentido da inviabilidade do uso da reclamação para o revolvimento do conjunto fático probatório do processo de origem. Precedentes: Rcl 35.657 AgR/RS, Rel. Min. Rosa Weber, Primeira Turma, DJe 11/12/2019; Rcl 29.200 AgR/SP, Rel. Min. Luiz Fux, Primeira Turma, DJe 29/11/2018 (RCL 38973, Relator(a) Min. Luiz Fux, Primeira Turma, DJe 13.05.2020).
+    [...] 2. Inviável o uso da reclamação para reexame de conjunto probatório. Precedentes [...] (RCL 19849 AgR, Relator(a) Min. Rosa Weber, Primeira Turma, DJe 09.05.2017).
+    [...] Inviabilidade do uso da reclamação para se operar o reexame do conteúdo do ato reclamado e de todo o conjunto fático-probatório para se chegar a conclusão diversa. Precedentes. [...] (RCL 25497 AgR, Relator(a) Min. Dias Toffoli, Segunda Turma, DJe 13.03.2017)
+    4. Ante o exposto, com fulcro no art. 21, § 1º, do RISTF, julgo improcedente a reclamação.
+    Publique-se. Intime-se.
+    Brasília, 23 de junho de 2021.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
