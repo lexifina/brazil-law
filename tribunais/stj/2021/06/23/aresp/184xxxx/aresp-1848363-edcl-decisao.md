@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ALAIN KORALL HORN em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+Pois bem, primeiramente compreende-se que Vossa Excelência entendeu por impugnadas as razões da decisão recorrida no tocante ao suposto óbice a Sumula 7 deste E. Tribunal de Justiça. Caso contrário, de rigor seja sanada a omissão neste ponto.
+No concerne ao entendimento de que os Embargantes não impugnaram a fundamentação da decisão na parte atinente aos dispositivos legais, entendem os Embargantes que a r. decisão ora embargada carece de maiores esclarecimentos, eis que nas razões do Agravo a questão foi amplamente abordada. Vejamos:
+ ..
+Observa-se, Excelência, que os Embargantes impugnaram especificamente e pormenorizadamente o fundamento da r. decisão recorrida, explanando que, in casu, o Tribunal a quo exerceu Juízo de mérito sobre o Recurso Especial interposto, ao invés de Juízo de admissibilidade.
+ ..
+Por tais razões, entende-se que a r. decisão embargada carece de esclarecimentos, tendo em vista que não observou com a máxima vênia e no entendimento dos Embargantes, com o costumeiro brilhantismo o cerne do recurso de Agravo interposto.
+Isto posto, pugnam-se sejam conhecidos e acolhidos os presentes aclaratórios, para o fim de que Vossa Excelência (i) sane a omissão apontada, de modo a manifestar-se expressamente acerca dos fundamentos de impugnação para óbice do recurso na sumula 7/STJ, bem como (ii) esclareça as razões de não conhecimento do agravo, no tocante a impugnação à decisão agravada na parte atinente a suposta não demonstração de violação aos dispositivos infraconstitucionais, tendo em vista que, em verdade, a decisão agravada exerceu juízo de mérito e não de admissibilidade ao Recurso Especial (fl. 135/137).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Verifica-se dos autos que a decisão embargada foi clara e restou bem fundamentada. De fato, não conheceu do recurso especial, tendo em vista que analisar se a personalidade jurídica é ou não obstáculo ao recebimento do crédito implicaria reexaminar o acervo fático-probatórios dos autos, como restou bem consignado no decisum embargado.
+Ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
