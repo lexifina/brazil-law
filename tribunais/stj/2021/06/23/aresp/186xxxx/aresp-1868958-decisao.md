@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICÍPIO DE TENENTE LAURENTINO CRUZ contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO NORTE, assim resumido:
+CONSTITUCIONAL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. SENTENÇA DE PROCEDÊNCIA PARCIAL. APELAÇÃO CÍVEL. SERVIDOR PÚBLICO DO MUNICÍPIO DE TENENTE LAURENTINO CRUZ. VERBAS SALARIAIS. INADIMPLEMENTO MUNICIPAL. SERVIÇO EFETIVAMENTE PRESTADO. AUSÊNCIA DE PROVAS ACERCA DO EFETIVO PAGAMENTO PELA MUNICIPALIDADE. ADICIONAL POR TEMPO DE SERVIÇO (ANUÊNIOS) SOBRE O SALÁRIO BASE.
+INTELIGÊNCIA DO ARTIGO 94 DA LEI MUNICIPAL Nº 011/1997. NÃO COMPROVAÇÃO DO FATO EXTINTIVO DO DIREITO AUTORAL. VERBAS PLEITEADAS DEVIDAS. CONHECIMENTO E DESPROVIMENTO DA APELAÇÃO CÍVEL.
+1. A Constituição Federal, em seu art. 7º, inciso X, prevê a proteção ao salário na forma da lei, vedando o trabalho gratuito, sob pena de locupletamento indevido.
+2. A Lei Municipal nº 011/1997, em seu artigo 94, prevê o pagamento do referido adicional de tempo de serviço, à razão de 1% (um por cento) por cada ano de serviço público efetivo.
+3. Portanto, há a previsão legal para pagamento e, no entanto, não houve a implantação, por via de consequência, é devido o pagamento dos meses não atingidos pela prescrição e a partir do advento da Lei Municipal nº 011/1997.
+4. A Lei de Responsabilidade Fiscal, que regulamentou o art. 169 da Constituição Federal, não pode servir de fundamento para elidir o direito dos servidores públicos de perceber vantagem legitimamente assegurada por lei.
+5. Precedentes do STJ (AgRg no REsp 1467347/RN, Rel. Min. Herman Benjamin, Segunda Turma, j. 14/10/2014) e do TJRN (AC 2017.013117-0, Rel. Des. João Rebouças, 3ª Câmara Cível, j. 03.04.2018; AC nº 2018.006560-9, Rel. Des. Amaury Moura Sobrinho, 3ª Câmara Cível, j. 16/08/2018; MS nº 2012.015008-9, Relª. Desª. Maria Zeneide, Tribunal Pleno, j. 30/01/2013).
+6. Conhecimento e desprovimento do apelo (fls. 150-151).
+A parte recorrente, pela alínea "a" do permissivo constitucional, alega violação do art. 167, II, da CF/88 no que concerne à realização de despesa excedente aos créditos orçamentários ou adicionais.
+É, no essencial, o relatório. Decido.
+Na espécie, é incabível o recurso especial quando visa discutir violação de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, trata-se de matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; e EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor dos honorários sucumbenciais que serão fixados em liquidação de sentença, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
