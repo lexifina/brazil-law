@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo apresentado por GUMERCINDO DE SOUSA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Ação rescisória. Violação literal de disposição legal. Inocorrência. Pretensão ostensiva de novo julgamento da causa. Inicial indeferida. Processo extinto sem resolução do mérito.
+Alega violação dos arts. 21-A e 86 da Lei n. 8.213/1991, no que concerne à comprovação da relação entre a lesão e a atividade laboral, trazendo os seguintes argumentos:
+O Venerável acórdão rescindendo julgou improcedente a ação de acidente do trabalho baseando-se em uma prova judicial QUE MANIFESTAMENTE VIOLOU A NORMA JURIDICA DO ARTIGO 21-A E NOTADAMENTE O ARTIGO 86, AMBOS DA LEI 8.213/91, SEM QUE OS "OS TRABALHOS HABITUAIS TENHAM SIDO AVALIADOS EM VISTORIA TÉCNICA". (fls. 207).
+É, no essencial, o relatório. Decido.
+Na espécie, tem-se que o recurso especial interposto contra acórdão proferido em ação rescisória deve veicular controvérsia relativa ao exame das hipóteses de cabimento previstas no art. 966 do Código de Processo Civil (art. 485 do CPC/73), e não a matéria relativa ao próprio mérito do acórdão rescindendo.
+Tendo em vista que o presente recurso especial não observa o acima exposto, incide, na espécie, o óbice da Súmula n. 284/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "No presente caso, o recorrente se insurge unicamente quanto aos fundamentos do acórdão rescindendo, não se insurgindo quanto à eventual violação ao art. 966 do CPC/2015 (antigo art. 485 do CPC/1973) e aos pressupostos da ação rescisória, razão pela qual deficiente a fundamentação recursal". (AgInt no REsp n. 1.741.745/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 5/9/2019.)
+Nesse sentido, os seguintes julgados desta Corte: AgRg no REsp n. 1.119.541/PI, relator Ministro Raul Araújo, Quarta Turma, DJe de 17/5/2016; AgInt no REsp n. 1.575.704/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 26/6/2019; AgInt no AREsp n. 1.212.813/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 25/6/2019; e AgInt no REsp n. 1.587.696/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/11/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
