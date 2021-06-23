@@ -1,0 +1,51 @@
+DECISÃO
+Vistos.
+Trata-se de embargos de declaração opostos por ARLINDO DE OLIVEIRA,contra decisão que deu provimento ao recurso especial interposto pela União, para reconhecer a ilegitimidade passiva da União nos autos de açãorelativaàs contribuições para o Programa de Formação do Patrimônio do Servidor Público  PASEP, enquanto sociedade de economia mista gestora do programa" (fls. 299/304e).
+Alega (fls. 306/309e):
+No entanto, cumpre salienta que, existe decisão desse Superior Tribunal que decidiu pela suspensão de todas as ações relativas a contas PASEP.
+Cumpre ao Embargante trazer aos autos decisão monocrática exarada pelo excelentíssimo Ministro do Superior Tribunal de Justiça Senhor Paulo de Tarso Sanseverino no procedimento de Suspensão em Incidente de Resolução de Demandas Repetitivas Nº 71 - TO, na qual se determinou a suspensão de todos os processos a nível nacional que tratem de questões referentes a divergências no saque/PASEP, conforme se segue:
+(..)
+Sendo assim, e devido ao fato do presente procedimento se enquadrar no determinado pelo excelentíssimo Ministro, respeitosamente pugna o Embargante pela suspensão do processo, até o pronunciamento desta Corte superior sobre as questões relativas a contas PASEP.
+Por entender não ser plausível decidir sobre questões relativas à ilegitimidade, é que o Embargante entende que a presente deve ser suspensa, nos moldes da decisão exarada pelo eminente Ministro.
+Requer o acolhimento dos aclaratórios, para que seja sanada a omissão e determinadaa devolução dos autos à origem para que permaneça suspensa até que se opere o trânsito em julgado da decisão que vier a ser proferida em qualquer um dos IRDRs admitidos no SIRDR n.71-TO, conferindo os efeitos jurídicos decorrentes dessa nova manifestação (art. 1.023, § 2º, do CPC), notadamente o sobrestamento do recurso até que se ultime a controvérsia repetitiva.
+Comimpugnação (fls. 313/314e).
+Os embargos foram opostos tempestivamente.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.Sustenta a Embargante que há omissão a serem sanada, nos termos do art. 1.022, II, do Código de Processo Civil.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Código de Processo Civil considera, ainda, omissa, a decisão que incorra em qualquer uma das condutas descritas no art. 489, § 1º, no sentido de não se considerar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e, vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Sobreleva notar que o inciso IV do art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado.
+Esposando tal entendimento, precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA ORIGINÁRIO. INDEFERIMENTO DA INICIAL.OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL.AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+3. No caso, entendeu-se pela ocorrência de litispendência entre o presente mandamus e a ação ordinária n. 0027812-80.2013.4.01.3400, com base em jurisprudência desta Corte Superior acerca da possibilidade de litispendência entre Mandado de Segurança e Ação Ordinária, na ocasião em que as ações intentadas objetivam, ao final, o mesmo resultado, ainda que o polo passivo seja constituído de pessoas distintas.
+4. Percebe-se, pois, que o embargante maneja os presentes aclaratórios em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil, a inquinar tal decisum.
+5. Embargos de declaração rejeitados.
+(EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI - DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO, PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+No caso, não está presente qualquer vício de fundamentação da decisão embargada.
+O Embargante requer o acolhimento dos aclaratórios,para determinar a suspensão nacional dos processos individuais, determinada na SIRDR 71/TO, dada a pendência de controvérsia repetitiva sobre a temática em julgamento.
+Nos termos do Código de Processo Civil e do Regimento Interno desta Corte,os recursos especiais emIncidentes de Resolução de Demandas Repetitivas - IRDR tramitarãonesta Corte Superior em consonância com o procedimento estabelecidopara o recurso representativo da controvérsia (RISTJ, arts. 256-H), uma vez que o julgamento do referido recurso gera efeitos sobre osdemais processos sobre a questão (art. 987, § 2º, do CPC).
+Entretanto, a suspensão perante esta Corte Superior somente se aplica após o julgamento da Proposta de Afetação de Tese Repetitiva perante às Seções.
+Assim, eventual suspensão determinada em proposta da Suspensão de Incidente de Resolução de Demandas Repetitivas, consoante art. 982 do Código de Processo Civil, não se aplica a esta Corte Superior.
+Ademais, na hipótese, em 18.12.2020, o Sr. Ministro Paulo de Tarso Sanseverino, na condição de Presidente da Comissão Gestora de Precedentes, determinou a distribuição dos Recursos Especiais ns. 1.895.936/TO e 1.895.941/TO, com indicativo de afetação da Controvérsia n. 247/STJ para julgamento sob o rito de Recursos Repetitivos, que consiste na mesma temática aqui em julgamento.
+Na mesma data, os apontados recursos especiais, foram distribuídos ao Sr. Ministro Marco Buzzi, sem posterior decisão deProposta de Afetação de Tese Repetitiva.
+Portanto, descabe a suspensão do processo, pois a matéria afeta a essainsurgência ainda não foi submetida ao rito dos recursos repetitivos perante esta Corte Superior, nos termos do art. 1.037 do Código de Processo Civil de 2015.
+Assim, não verifico, no caso, a existência de vício a ensejar a declaração do julgado ou a sua revisão mediante embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ACÓRDÃO DO STJ. AUSÊNCIA DE TERATOLOGIA. ART. 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE.
+INEXISTÊNCIA. REDISCUSSÃO DAS QUESTÕES DECIDIDAS.
+DESCABIMENTO.
+1. Os embargos de declaração são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido e corrigir erros materiais. O CPC/2015 ainda equipara à omissão o julgado que desconsidera acórdãos proferidos sob a sistemática dos recursos repetitivos, incidente de assunção de competência, ou ainda que contenha um dos vícios elencados no art.
+489, § 1º, do referido normativo.
+2. No caso, não estão presentes quaisquer dos vícios de fundamentação no aresto embargado, o qual reconheceu o descabimento do mandado de segurança impetrado contra acórdão da Terceira Turma do STJ, haja vista a inexistência de teratologia do ato judicial impugnado.3. Está evidenciado o exclusivo propósito do embargante de rediscutir o mérito das questões já decididas pelo órgão colegiado, o que não se admite na estreita via aclaratória.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no MS 25.187/DF, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 20/11/2019, DJe 26/11/2019).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO MANDADO DE SEGURANÇA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt no MS 25.432/DF, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 11/02/2020, DJe 26/02/2020).
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro material do julgado.
+Posto isso, REJEITO os Embargos de Declaração.
+Publique-se e intimem-se.
