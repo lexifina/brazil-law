@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por VANESCA NAZARETH DOS SANTOS DE ALMEIDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO REIVINDICATÓRIA. MANUTENÇÃO DA SENTENÇA. RECURSO DESPROVIDO.
+1. Cuida-se de ação reivindicatória, na qual pretende o autor a desocupação do imóvel pelo réu.
+2. A sentença julgou procedente o pedido, extinguindo o processo, com resolução do mérito.
+3. Com arrimo no artigo 1228, caput, do Código Civil, a ação reivindicatória tem como fundamento o direito do proprietário de buscar a restituição da coisa de quem injustamente a possua ou detenha.
+4. Conforme assentado pelo Superior Tribunal de Justiça, em aresto da lavra do Ministro Luis Felipe Salomão, a ação reivindicatória (art. 1.228 do CC), fundada no direito de sequela, outorga ao proprietário o direito de pleitear a retomada da coisa que se encontra indevidamente nas mãos de terceiro, tendo como requisitos específicos: (i) a prova do domínio da coisa reivindicanda; (ii) a individualização do bem; e (iii) a comprovação da posse injusta. (REsp 1152148/SE, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13/08/2013, DJe 02/09/2013) 5. O artigo 1245, do Código Civil, estabelece que a propriedade adquire-se mediante a transcrição do título aquisitivo no Registro de Imóveis.
+6. O autor é o proprietário que consta na Certidão de Registro de Imóveis do imóvel lote 23 da quadra 8 do loteamento "Boa Sorte", localizado em Hospício, zona urbana de Araruama, adquirido por escritura pública lavrada desde 1982.
+7. De outro lado, denota-se que a ré ocupou o bem e não arcou com o pagamento dos tributos inerentes ao imóvel.
+8. Quanto ao direito à indenização em decorrência das benfeitorias realizadas no imóvel, a jurisprudência do Superior Tribunal de Justiça firmou orientação no sentido de reconhecer que o possuidor de boa-fé tem direito de retenção pelo valor das benfeitorias necessárias e úteis, e, por semelhança, das acessões, sob pena de enriquecimento ilícito.
+9. Na forma do art.1219, do CC/02, o possuidor de boa-fé tem direito à indenização das benfeitorias necessárias e úteis, bem como, quanto às voluptuárias, se não lhe forem pagas, a levantá-las, quando o puder sem detrimento da coisa, e poderá exercer o direito de retenção pelo valor das benfeitorias necessárias e úteis.
+10. Dispõe o art.1255, do CC/02, que aquele que semeia, planta ou edifica em terreno alheio perde, em proveito do proprietário, as sementes, plantas e construções; se procedeu de boa-fé, terá direito a indenização.
+11. De acordo com o art. 1.201 do Código Civil, possuidor de boa-fé é aquele que desconhece o vício ou obstáculo que impede a aquisição do bem.
+12. Bem de ver que sobre o possuidor com justo título recai a presunção de boa-fé, salvo prova em contrário, ou quando a lei expressamente não admite esta presunção.
+13. Com efeito, a posse de boa-fé só perde este caraterística quando as circunstâncias façam presumir que o possuidor não ignorava que possuía indevidamente o bem.
+14. De certo que a boa-fé reclama a observância dos deveres de cuidado e diligência, sendo certo que incumbe ao possuidor conhecer os vícios decorrentes de sua posse em virtude das circunstâncias fáticas que se delineiam em seu entorno.
+15. Diante de tais considerações, não há dúvidas de que a ré possuía ou deveria possuir conhecimento de que sua posse era injusta eis que possuía indevidamente o bem e, por conseguinte, não poderia construir no local, o que impede o pagamento de indenização em decorrência da acessão construída.
+16. Recurso desprovido.
+Quanto à controvérsia, alega violação do art. 884 do CC, no que concerne ao enriquecimento sem causa ao não reconhecer o direito à indenização, trazendo os seguintes argumentos:
+Ressalte-se a injuridicidade do Acórdão recorrido, em não ter reconhecido o direito de indenização à recorrente, o que equivale a verdadeiro locupletamento sem causa em prejuízo de terceiro, o que é vedado no ordenamento jurídico, consoante dispõe o art. 884, CC (fl. 279).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Diante de tais considerações, não há dúvidas de que a ré possuía ou deveria possuir conhecimento de que sua posse era injusta eis que possuía indevidamente o bem e, por conseguinte, não poderia construir no local, o que impede a indenização perseguida (fls. 242).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "Ainda que assim não fosse, o acolhimento da pretensão recursal, a fim de verificar os alegados julgamento ultra petita e o enriquecimento sem causa, demandaria o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ." (AgInt no AREsp 1.592.066/MT, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 7/6/2021.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
