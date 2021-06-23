@@ -1,0 +1,57 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. PRINCÍPIO DA COLEGIALIDADE. OFENSA. INEXISTÊNCIA. REGIME INICIAL FECHADO. PEDIDO DEDUZIDO NO HC N. 572.473/SP. REITERAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. O julgamento monocrático do recurso inadmissível ou prejudicado tem respaldo nas disposições do CPC e do RISTJ.
+2. Os agravantes deixaram de impugnar fundamento da decisão agravada, atraindo a aplicação do óbice previsto na Súmula 182 desta Corte. Precedentes.
+3. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por RODRIGO HENRIQUE APARECIDO LAVEZZO e FRANCISCO DE ASSIS FERREIRA LUIZ contra decisão que conheceu parcialmente do recurso especial por eles interposto e, nessa parte, deu-lhe parcial provimento para aplicar a fração de 1/3 pelas causas de aumento dos incisos I e II do § 2º do art. 157 do Código Penal, readequando as sanções definitivas.
+Consta dos autos que os agravantes foram condenados pela prática do crime tipificado na anterior redação do art. 157, § 2º, I e II, do Código Penal (roubo circunstanciado), tendo-lhes sido impostas as penas definitivas de 6 anos, 10 meses e 15 dias de reclusão, em regime fechado, além de 16 dias-multa.
+Em apelação criminal manejada pela defesa, foi dado parcial provimento ao recurso para readequar as reprimendas a 6 anos, 7 meses e 6 dias de reclusão, em regime inicial fechado, e ao pagamento de 16 dias-multa nos termos da ementa de e-STJ fl. 477:
+Apelação. Roubo circunstanciado pelo emprego de arma e concurso de pessoas. Art. 157, § 2º, I e II, do CP. Pedido de absolvição pela insuficiência de provas e, subsidiariamente, a elevação da pena-base na fração de 1/8 ou 1/6, a incidência da atenuante da confissão espontânea em relação a Francisco, o afastamento da causa de aumento relativa ao emprego de arma, a majoração da pena na terceira fase no patamar de 1/3, ainda que reconhecidas as duas causas de aumento e a modificação do regime carcerário para outro menos severo. Impossibilidade. Materialidade e autoria comprovadas. Pena reduzida. Regime mantido, pois bem fixado e fundamentado. Recurso parcialmente provido.
+Irresignada, a defesa interpôs recurso especial, do qual se conheceu parcialmente para, nessa extensão, prover em parte a fim de redimensionar as penas dos réus: i) 6 anos, 4 meses e 24 dias de reclusão, em regime fechado, além de 16 dias-multa, para RODRIGO HENRIQUE APARECIDO LAVEZZO; e ii) 5 anos e 4 meses de reclusão, em regime fechado, e pagamento de 13 dias-multa, para FRANCISCO DE ASSIS FERREIRA LUIZ, mantidas as demais disposições do acórdão local.
+O Ministério Público Federal manifestou-se conforme o parecer assim ementado (e-STJ fl. 682):
+PENAL e PROCESSUAL PENAL. Recurso especial. Roubo majorado. Dosimetria. Pena-base. Fração de aumento aplicada à circunstância judicial desfavorável acima de 1/6. Juízo de discricionariedade. Proporcionalidade e compatibilidade com as peculiaridades do caso. Confissão espontânea. Cabimento da atenuante. Incidência da Súmula n. 545/STJ. Causa de aumento de uso de arma de fogo. Desnecessidade de apreensão e perícia. Decisão conforme a jurisprudência do STJ. Incidência da Súmula n. 83/STJ. Quantum da fração de aumento na terceira fase da dosimetria. Mera indicação da pluralidade de majorantes. Fundamentação inidônea. Óbice da Súmula n. 443/STJ. Regime mais severo. Julgamento definitivo por essa Corte Superior em habeas corpus. Prejudicialidade. Ausência de comprovação da existência de dissídio jurisprudencial nos moldes legais. Recurso especial que deve ser parcialmente conhecido e, nessa extensão, provido.
+No presente regimental, a defesa reitera a tese de que os agravantes preenchem os requisitos para a fixação de regime inicial menos gravoso.
+Argui ofensa ao princípio da colegialidade.
+Assim, requer a reconsideração da decisão agravada ou a submissão do presente recurso à apreciação da Turma competente.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Verifico que o recurso não comporta conhecimento.
+A defesa postula a fixação do regime semiaberto. No entanto, conforme enfatizei na decisão agravada, o recurso estava prejudicado nesse ponto, tendo em vista o julgamento do HC n. 572.473/SP, referente à mesma ação penal originária, no qual deneguei a ordem conforme os fundamentos a seguir transcritos:
+Conforme consignado no decisum ora agravado, embora a pena imposta aos pacientes seja inferior a 8 anos de reclusão, a análise desfavorável da circunstância judicial relativa aos antecedentes faz com que o regime fechado seja o adequado para o cumprimento da pena reclusiva, nos termos do art. 33, §§ 2º e 3º, do Código Penal.
+Nas presentes razões, a defesa deixou de infirmar esse fundamento, insistindo no mérito da controvérsia.
+Dessa forma, ante a ausência de impugnação específica, tenho que do recurso não se pode conhecer nos termos da Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido, citam-se:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. PRELIMINAR. INDEFERIMENTO DE PROVA. CERCEAMENTO DE DEFESA. NÃO VISTO PELO TRIBUNAL DE ORIGEM. ADICIONAL POR SERVIÇOS EXTRAORDINÁRIOS. INSUFICIÊNCIA PROBATÓRIA NA VISÃO DA CORTE A QUO. PRETENSÃO DE INVERSÃO DO JULGADO. SÚMULA 7. REMANESCÊNCIA DE FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182.
+ ..
+2. "Nos termos da Súmula 182 do Superior Tribunal de Justiça, "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (AgRg no AREsp 531.511/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 20/08/2015, DJe 25/08/2015).
+3. Agravo Regimental improvido. (AgRg no REsp 1.150.295/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/9/2015, DJe 19/10/2015.)
+PENAL E PROCESSUAL PENAL. AGRAVOS REGIMENTAIS NO RECURSO ESPECIAL. RECURSO DA DEFESA QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. RECURSO DO PARQUET. REGIME INICIAL SEMIABERTO. PENA-BASE FIXADA NO MÍNIMO LEGAL. RÉU PRIMÁRIO.
+I - Agravo regimental que não infirma todos os fundamentos da decisão agravada não pode ser conhecido. (Súmula 182 do STJ).
+ ..
+Agravo regimental da defesa não conhecido.
+Agravo regimental do Ministério Público desprovido. (AgRg no REsp 1.458.476/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 4/8/2015, DJe 17/8/2015.)
+Não verifico, ainda, ofensa ao princípio da colegialidade.
+Com efeito, o julgamento monocrático do recurso especial prejudicado ou manifestamente inadmissível tem respaldo nas disposições do Código de Processo Civil e do Regimento Interno desta Corte. Ademais, é facultado à parte submeter a controvérsia ao colegiado competente por meio de agravo regimental, não havendo, portanto, nenhuma vulneração do princípio da colegialidade.
+A propósito:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROCESSUAL PENAL. ROUBO SIMPLES. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. SÚMULA 568/STJ. ART. 255, § 4º, DO RISTJ. AGRAVO INTERPOSTO EM RAZÃO DA ADMISSIBILIDADE PARCIAL DO RECURSO ESPECIAL. NÃO CABIMENTO. APLICAÇÃO ANALÓGICA DAS SÚMULAS 292 E 528, AMBAS DO STF. PEDIDOS DE REDUÇÃO DA PENA-BASE E DE PROGRESSÃO DE REGIME. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO REGIMENTAL QUE NÃO INFIRMOU, DE FORMA ESPECÍFICA, OS FUNDAMENTOS DO DECISUM COMBATIDO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. O argumento de que houve violação do princípio da colegialidade não merece prosperar, porquanto, conforme expressa previsão regimental (art. 255, § 4º, do RISTJ) e reiterada jurisprudência desta Corte, é possível ao relator, mesmo em matéria penal, não conhecer do recurso, provê-lo ou desprovê-lo, sem que haja ofensa ao referido postulado.
+2. Nos termos da Súmula 568/STJ e do art. 255, § 4º, do RISTJ, é possível que o Ministro Relator decida monocraticamente o recurso especial quando o apelo nobre for inadmissível, estiver prejudicado ou houver entendimento dominante acerca do tema. Além disso, a interposição do agravo regimental devolve ao Órgão Colegiado a matéria recursal, o que torna prejudicada eventual alegação de ofensa ao princípio da colegialidade (AgRg no AgRg no AREsp n. 1.374.756/BA, Ministra Laurita Vaz, Sexta Turma, DJe 1º/3/2019).
+3. Quanto ao aludido agravo interposto, ressalto que não cabe este tipo de recurso contra decisão que admite parcialmente recurso especial, uma vez que, em razão da admissão parcial do reclamo, este subirá a esta Corte, ocasião em que se procederá ao refazimento do juízo de admissibilidade da íntegra do recurso. Aplicam-se, por analogia, as Súmulas 292 e 528/STF.
+4. A presente insurgência não merece prosperar, haja vista o agravante não ter atacado de forma específica os fundamentos da decisão agravada, incidindo, no caso, a Súmula 182/STJ.
+5. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula 182/STJ (AgRg no AREsp n. 1.609.745/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/2/2020).
+6. A ausência de impugnação específica dos fundamentos da decisão combatida atrai a incidência do disposto nos arts. 1.021, § 1º, do CPC e 253, parágrafo único, I, do RISTJ e da Súmula 182/STJ, por analogia (AgRg no AREsp n. 1.582.235/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 27/2/2020).
+7. Agravo regimental desprovido. (AgRg no REsp 1902691/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 04/05/2021, DJe 07/05/2021, grifei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. RECURSO ESPECIAL INTEMPESTIVO. INTEMPESTIVIDADE DOS EMBARGOS DECLARATÓRIOS. NÃO INTERRUPÇÃO DO PRAZO PARA INTERPOR RECURSO ESPECIAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se caracteriza a alegada ofensa ao princípio da colegialidade diante da existência de previsão legal e regimental para que o relator julgue, monocraticamente, o agravo em recurso especial quando constatadas as situações descritas no art. 932, VIII, do Código de Processo Civil, c/c o art. 253, parágrafo único, II, "a" e "b", parte final, do RISTJ, situação ocorrida nos autos.
+2. É intempestivo o recurso especial interposto após o prazo de 15 dias, nos termos do art. 1.003, § 5º, do novo CPC.
+3. A jurisprudência, para coibir abusos e desvirtuamento do efeito interruptivo dos embargos, firmou a compreensão de que a oposição de embargos aclaratórios, quando intempestivos ou manifestamente incabíveis, não tem o condão de interromper o prazo para a interposição do recurso especial. Precedentes.
+4. Agravo regimental não provido. (AgRg no AREsp 1409788/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 11/04/2019, DJe 26/04/2019, grifei.)
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
