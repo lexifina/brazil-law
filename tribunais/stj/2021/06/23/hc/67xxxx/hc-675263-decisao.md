@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EDUARLEN RANGEL HENRIQUE, apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro.
+Consta dos autos que o paciente foi preso em flagrante (convertida a custódia em prisão preventiva) pela suposta prática dos delitos previstos no art. 33 da lei 11. 343/2006, art.16, §1, IV da Lei 10.826/2003 e art. 12 da Lei 10.826/2003.
+Na presente oportunidade, o impetrante sustenta, inicialmente, a ilegalidade da segregação cautelar, diante de abuso de autoridade ocorrido quando do suposto flagrante, notadamente porque não teria ocorrido justa causa que legitimasse a invasão domiciliar pelos policiais. Acrescenta que os materiais sequer foram encontrados na residência e que sequer houve indício que sinalizasse que o paciente realizava a mercancia de entorpecentes.
+Argumenta que A falta de Advertência ao direito ao silêncio, no momento em que o dever de informação se impõe, torna ILICITA A PROVA. Ademais, qualquer suposta confissão firmada no momento de qualquer abordagem, sem observação ao direito é imprescindível para fins de condenação e, ainda INVALIDA DEMAIS PROVAS OBTIDAS ATRAVES DE TAL INTERROGATÓRIO. (e-STJ fl. 14).
+Salienta, ainda, a ausência dos motivos autorizadores previstos no art. 312 do Código de Processo Penal, bem como a desproporcionalidade da custódia cautelar, sobretudo diante da existência de condições pessoais favoráveis ao paciente, como primariedade, bons antecedentes e ocupação lícita, e a possibilidade de aplicação de medidas cautelares alternativas.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva, com a expedição do respectivo alvará de soltura e a aplicação de medidas cautelares previstas no art. 319 do CPP, se for o caso.
+É o relatório. Decido.
+Não há como prosseguir a irresignação.
+Isso porque o habeas corpus não foi devidamente instruído, uma vez que não foi colacionada peça processual indispensável à cabal compreensão da tese levantada na inicial, qual seja, cópia do inteiro teor do acórdão impetrado.
+É de se ressaltar que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
