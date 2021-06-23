@@ -1,0 +1,47 @@
+Decisão: Trata-se de reclamação constitucional com pedido de liminar, proposta por Ricardo Silva Pogorelsky, contra ato do Tribunal de Justiça do Estado do Rio Grande do Sul, nos autos do Processo 70085002970.
+    Na petição inicial, a parte reclamante sustenta que o juízo reclamado teria descumprido a orientação firmada por esta Corte no RE-RG 632.853 (tema 485), processo-paradigma da repercussão geral.
+    Afirma que teria havido extrapolamento das decisões que negaram seguimento ao recurso extraordinário uma vez que “não se limitaram a uma análise do cabimento recursal, mas adentraram em análise que somente poderia ser legitimamente realizada por esta Corte Constitucional”. (eDOC 1, p. 4) Sustenta que, ao aplicar o entendimento do tema 485, o tribunal teria obstacularizado a subida do recurso para devida análise desta Corte.
+    Assim, aduz que “a negativa de trânsito ao Recurso Extraordinário baseou-se não em questões relativas ao preenchimento dos pressupostos de admissibilidade, mas sim em aspecto relacionado ao próprio mérito recursal, cujo pronunciamento compete exclusivamente ao Supremo Tribunal Federal, deve esta Reclamação ser julgada procedente, cassando a decisão do egrégio TJRS que sustou a subida do Recurso Extraordinário de maneira indevida, determinando o seu processamento e remessa ao STF, na forma da lei e do que determina a Constituição. (eDOC 1, p. 6)
+    No mérito, argumenta a existência de erro grosseiro na elaboração da questão impugnada e a necessidade de intervenção do poder judiciário.
+    Desta forma, requer a procedência da reclamação, “cassando o acórdão proferido pela Colenda CÂMARA DA FUNÇÃO DELEGADA DOS TRIBUNAIS SUPERIORES – TJRS, que sustou a subida do Recurso Extraordinário de maneira indevida, determinando o seu processamento e remessa ao STF, na forma da Lei e do que determina a Constituição.” (eDOC 1, p. 19) Requer ainda a manutenção dos benefício da gratuidade da justiça nos termos na lei.
+    É o breve relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Decido.
+    Inicialmente, defiro o pedido de assistência judiciária gratuita, nos termos da Lei n. 1.060/1950.
+    No caso dos autos, o ora reclamante interpôs recurso extraordinário contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO PARA DELEGADO DA POLÍCIA CIVIL. EDITAL Nº 08/2018. NULIDADE DA QUESTÃO DE Nº 5 PROVA DISCURSIVA DE DIREITO PENAL. IMPOSSIBILIDADE. DANO MORAL NÃO CARACTERIZADO. 1. É defeso ao Judiciário se imiscuir em matéria relativa ao mérito das questões de concurso público, salvo controle de legalidade e análise de situação teratológica (erro grosseiro) na questão formulada. Julgamento sob repercussão geral do RE nº 632.853/CE e precedentes desta Corte. 2. Ausência de erro grosseiro na questão impugnada que impede o reconhecimento do direito líquido e certo invocado. 3. Da não atribuição, pela banca examinadora, dos pontos referentes à questão ora anulada não emerge o dano moral in re ipsa. APELAÇÃO DESPROVIDA, POR MAIORIA, NOS TERMOS DO ART. 942, DO CPC.” (APC 70083057000 TJRS)
+    Opostos embargos de declaração foram parcialmente acolhidos, sem efeitos modificativos, na forma da seguinte ementa:
+    EMBARGOS DECLARATÓRIOS. CONCURSO PÚBLICO PARA DELEGADO DA POLÍCIA CIVIL. EDITAL Nº 08/2018. NULIDADE DA QUESTÃO DE Nº 5 PROVA DISCURSIVA DE DIREITO PENAL.
+    1. Deve ser sanado o erro material constante na ementa do acórdão.
+    2. Ausência de omissão em relação à suspensão da exigibilidade das verbas de sucumbência, pela AJG, porquanto não foi objeto da divergência parcial.
+    3. Em relação ao mérito, não há qualquer omissão, contradição ou obscuridade. O embargante pretende, em verdade, a rediscussão do mérito, não sendo os embargos declaratórios a via correta para tal fim, considerando a sua natureza integrativa.
+    EMBARGOS PARCIALMENTE ACOLHIDOS. (ED-APC 70084530583 TJRS)
+    A Presidência da Corte Estadual negou seguimento ao recurso extraordinário interposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, por entender que a matéria em discussão encontra-se submetida à sistemática da repercussão geral (tema 485).
+    Inconformado, o reclamante interpôs agravo interno, o qual teve o provimento negado, nos termos da seguinte ementa:
+    “AGRAVO INTERNO. JUÍZO DE ADMISSIBILIDADE. RECURSO EXTRAORDINÁRIO. CONCURSO PÚBLICO. DELEGADO DE POLÍCIA. PROVA DISSERTATIVA. ANULAÇÃO DA QUESTÃO N.º 5 DA PROVA DE DIREITO PENAL. INTERPRETAÇÃO. CORREÇÃO. CONTROLE JUDICIAL. LIMITES. NEGATIVA DE SEGUIMENTO. REPERCUSSÃO GERAL. TEMA 485 DO STF. RECURSO DESPROVIDO COM APLICAÇÃO DE MULTA.” (eDOC 12, p. 43)
+    Registre-se que o Novo Código de Processo Civil, na linha da jurisprudência anteriormente firmada por esta Corte (Rcl 10.793, rel. Min. Ellen Gracie, Tribunal Pleno, DJe 6.6.2011), vedou expressamente a utilização da reclamação para impugnar decisões judiciais que revelem contrariedade a tese firmada pelo Supremo Tribunal Federal em recursos extraordinários com repercussão geral, antes do exaurimento das instâncias ordinárias. Transcrevo os dispositivos pertinentes:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016)
+    IV – garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (…)
+    § 5º É inadmissível a reclamação:
+    (...)
+    II – proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias”. (Redação dada pela Lei nº 13.256, de 2016)”. (Grifou-se)
+    O §4º do mesmo artigo prevê que as hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondem.
+    Verifica-se, ainda, nos termos do §5º, que a reclamatória proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida somente será cabível quando presentes os seguintes pressupostos necessários e cumulativos, quais sejam: o esgotamento da instância de origem, com a interposição de agravo interno da decisão monocrática que sobresta o feito, inadmite liminarmente o recurso da competência do STF ou julga-o prejudicado; e a plausibilidade na tese de erronia na aplicação do entendimento do Supremo Tribunal Federal firmado na repercussão geral pelo Juízo a quo, a indicar teratologia da decisão reclamada.
+    No caso dos autos, não obstante a parte reclamante ter exaurido as instâncias ordinárias, não vislumbro a aplicação errônea da tese firmada por esta Corte no âmbito da repercussão geral (tema 485), a dar ensejo ao provimento da presente reclamação.
+    Com efeito, no aludido paradigma, o Pleno desta Corte assentou que não compete ao Poder Judiciário substituir a banca examinadora para reexaminar o conteúdo das questões e os critérios de correção utilizados, cabendo-lhe apenas controlar a pertinência do exame aplicado ao conteúdo discriminado no edital. Eis ementa desse julgado:
+    “Recurso extraordinário com repercussão geral. 2. Concurso público. Correção de prova. Não compete ao Poder Judiciário, no controle de legalidade, substituir banca examinadora para avaliar respostas dadas pelos candidatos e notas a elas atribuídas. Precedentes. 3. Excepcionalmente, é permitido ao Judiciário juízo de compatibilidade do conteúdo das questões do concurso com o previsto no edital do certame. Precedentes. 4. Recurso extraordinário provido.”
+    Desse modo, observo que a parte pretende, em verdade, a revisitação da tese firmada por este Tribunal em recurso afetado pela sistemática da repercussão geral.
+    Por fim, ao manter a inadmissão de recurso extraordinário com fundamento em paradigma da repercussão geral, a autoridade reclamada se utilizou de atribuição própria, inexistindo cogitar de usurpação da competência desta Corte (art. 1.030, § 2º, do CPC).
+    Assim, inadmissível esta reclamação.
+    Finalmente, registre-se que o Código de Processo Civil de 2015 determina a citação do beneficiário da decisão impugnada, que terá prazo de 15 (quinze) dias para apresentar a sua contestação (art. 989, III).
+    Consoante o art. 319, II, c/c o art. 321, do CPC/2015, é ônus da parte reclamante indicar o endereço atualizado do beneficiário da decisão impugnada, sob pena de indeferimento da inicial.
+    A citação é dispensável em casos, como o presente, de improcedência liminar do pedido. Entretanto, na eventualidade de interposição de recurso, deverá a parte reclamante fornecer o endereço da parte beneficiária do ato impugnado nesta sede reclamatória, para fins de observância do art. 332, § 4º, do Código de Processo Civil.
+    Ante o exposto, nego seguimento à reclamação. (art. 21, § 1º, RISTF)
+    Publique-se.
+    Brasília, 23 de junho de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
