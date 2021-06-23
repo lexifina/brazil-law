@@ -1,0 +1,36 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NA REVISÃO CRIMINAL No 1022551-76.2021.8.11.0000
+RECORRENTE: CLEBER ROCHA BATISTA
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos.
+Trata-se de recurso especial interposto por CLEBER ROCHA BATISTA, com fundamento no art. 105, III, alínea “a” da Constituição Federal, contra o acórdão da Turma de Câmaras Criminais Reunidas do Tribunal de Justiça do Estado de Mato Grosso que, por unanimidade, julgou improcedente a ação revisional, nos termos da seguinte ementa (Id. 83437972):
+“REVISÃO CRIMINAL – CONDENAÇÃO POR ROUBO MAJORADO PELO EMPREGO DE ARMA DE FOGO E CONCURSO DE PESSOAS, EM CONCURSO FORMAL – PRETENSÃO REDIMENSIONAMENTO DA PENA – ROUBOS PRATICADOS EM CONCURSO FORMAL – ALEGAÇÃO DE CRIME ÚNICO – AFASTAMENTO DO CONCURSO FORMAL – MEMBROS DA MESMA FAMÍLIA – IRRELEVÂNCIA – OBJETOS INDIVIDUAS SUBTRAÍDOS EM ÚNICA CONDUTA – PRECEDENTES DO STJ (AGRG NO ARESP 1651955/GO) – REVISÃO CRIMINAL IMPROCEDENTE.
+Independente de se tratar de membros de uma mesma família, se forem subtraídos bens particulares de cada indivíduo, mediante uma só ação ou omissão, não há que se falar em crime único, devendo ser aplicado, neste caso, o disposto no art. 70 do Código Penal.
+1. Nos termos da jurisprudência deste Sodalício, ainda que as vítimas façam parte da mesma família, não há que se falar em crime único quando no mesmo contexto fático são subtraídos bens pertencentes a patrimônios distintos, incidindo, neste caso, a regra do concurso formal, prevista no art. 70 do Código Penal...” (AgRg no HC 520.815/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/12/2019, DJe 19/12/2019).”
+Nas razões do recurso especial (Id. 84794451), o recorrente sustenta violação ao art. 70 do Código Penal , ao argumento de que se trata de “crime único, uma vez que atingiu apenas um patrimônio [da unidade familiar]” (sic, Id. 84794451).
+Recurso tempestivo (Id. 84904952).
+Contrarrazões (Id. 84923958).
+É o relatório.
+Passo ao juízo de admissibilidade.
+Do exame dos autos, observa-se que o recurso especial atende aos pressupostos genéricos de admissibilidade, quais sejam: tempestividade, legitimidade e interesse em recorrer.
+Da sistemática de recursos repetitivos
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Nos termos do art. 105, inc. III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, o exame de matéria fático-probatória.
+No caso, quanto à pretensão de se reconhecer a ocorrência de apenas um crime, incide a Súmula n. 07 do STJ, pois para se entender de forma diversa do v. aresto recorrido, imprescindível o reexame das provas, o que não se viabiliza em recurso especial.
+A propósito:
+“AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. AUTORIA E MATERIALIDADE. PEDIDO DE ABSOLVIÇÃO. CONCURSO FORMAL. PEDIDO DE RECONHECIMENTO DE CRIME ÚNICO. REVOLVIMENTO FÁTICO-PROBATÓRIO INCIDÊNCIA DO VERBETE N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. RESTRIÇÃO DA LIBERDADE. CONFIGURADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal a quo, ao apreciar as provas, concluiu pela comprovação da autoria e materialidade delitivas, de modo que entender de forma diversa, como pretendido, demandaria o revolvimento das provas carreadas aos autos, procedimento sabidamente inviável na instância especial. Inafastável, assim, a aplicação do enunciado n. 7 da Súmula desta Corte. 2. Do mesmo modo incide o referido verbete sumular quanto à pretensão de se reconhecer a ocorrência de apenas um crime. Com efeito, para se entender de forma diversa do v. aresto recorrido, imprescindível o reexame das provas, o que não se viabiliza em recurso especial. 3. Tendo o Tribunal de origem consignado que restou configurada a restrição de liberdade, considerando como circunstância judicial desfavorável, não procede a alegação de que só mantiveram as vítimas sobre seu poder apenas durante o período do cometimento do crime. 4. Agravo regimental desprovido.”
+(AgRg no AREsp 1307585/DF, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 12/03/2019, DJe 19/03/2019)
+“PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO QUALIFICADO E EXTORSÃO. CONCURSO FORMAL. CONFIGURAÇÃO. AÇÃO ÚNICA E VÍTIMAS DISTINTAS. PRECEDENTES. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. DOSIMETRIA. PENA-BASE. CONSEQUÊNCIAS DO CRIME DE EXTORSÃO. FUNDAMENTAÇÃO IDÔNEA. TERCEIRA FASE. CAUSAS DE AUMENTO DO CRIME DE ROUBO. FRAÇÃO DE 3/8. FUNDAMENTAÇÃO IDÔNEA E CONCRETA. QUATRO AGENTES NA PRÁTICA DELITIVA. RESTRIÇÃO DE LIBERDADE E AGRESSÃO. MAIOR REPROVABILIDADE NA CONDUTA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento desta Corte é o de que a prática do crime de roubo mediante uma só ação, mas contra vítimas distintas, enseja o reconhecimento do concurso formal, e não de crime único. Precedentes do STJ (HC 366.078/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 21/2/2017). 2. Quanto ao concurso de crimes, inafastável a incidência do enunciado n. 7 da Súmula desta Corte, porquanto necessário o reexame do conjunto fático-probatório. 3. A dosimetria da pena só pode ser reexaminada em recurso especial quando se verificar, de plano, a ocorrência de erro ou ilegalidade, em flagrante violação do art. 59 do Código Penal - CP, o que não se constata no tocante ao vetor consequências do crime de extorsão, que foi considerado negativo com fundamento em elementos concretos. 4. O Superior Tribunal de Justiça - STJ consagrou o entendimento de que o recrudescimento da pena na terceira fase da dosimetria alusiva ao delito de roubo majorado, em fração mais elevada que 1/3, demanda fundamentação concreta, não se afigurando idônea a simples menção ao número de causas de aumento. Nesse diapasão, a Súmula n. 443/STJ. In casu, a pena foi aumentada em 3/8 pelo Tribunal de origem, com fundamentação concreta, reveladora da acentuada gravidade do delito de roubo cometido por 4 indivíduos que restringiram a liberdade das vítimas e agrediu uma delas. Essas circunstâncias indicam o grau mais elevado de periculosidade e reprovabilidade da conduta, justificando o tratamento mais rigoroso adotado pela instância ordinária, em observância ao princípio da individualização da pena.5. Agravo regimental desprovido.”
+(AgRg no AREsp 968.423/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/02/2019, DJe 13/02/2019)
+Dessa forma, por demandar o revolvimento do acervo fático-probatório delineado nos autos, torna-se insuscetível de revisão o entendimento do órgão fracionário deste Tribunal e, portanto, impossibilitada análise das referidas questões pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, inadmito o recurso especial, nos termos do art. 1.030, inc. V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
