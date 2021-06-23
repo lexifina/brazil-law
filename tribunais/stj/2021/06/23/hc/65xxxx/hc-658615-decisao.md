@@ -1,0 +1,27 @@
+DECISÃO
+CLAUDIOMAR BITTENCOURT DO NASCIMENTOalega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+A Defensoria Pública pretende a soltura do paciente - cujo flagrante, na posse de 116,35 gramas de maconha e 58,60 gramas de cocaína,foi convertido em prisão preventiva, no dia 12/2/2021 -, sob o argumento de que o Juízo de primeira instância atuou deofício e de falta de fundamentação concreta do periculum libertatis.
+Deferida a liminar, os autos foram encaminhados ao Ministério Público Federal, que opinou pela concessão da ordem.
+Decido.
+Inicialmente, consigno que a alegação de que a decisão foi exarada de ofício não foi analisada pela Corte local, evidenciando-se, assim, a impossibilidade de conhecimento do tema, sob pena de vedada supressão de instância.
+No que tange à tese de ausência de preenchimento dos requisitos da prisão preventiva,verifico o manifesto constrangimento ilegal a ensejar a concessão da ordem.
+O Juízo de Direito converteu o flagrante em prisão preventiva lastreado na seguinte fundamentação (fls. 88/89):
+Vistos em plantão.
+Cuida-se de auto de prisão em flagrante lavrado contra CLAUDIOMAR BITTENCOURT DO NASCIMENTO, pela prática do delito de tráfico de entorpecente.
+Narra o expediente policial, em síntese, que o flagrado teria sido o autor de delito de tráfico de drogas, tendo em vista que foi abordado em local tido como ponto de venda deste tipo de substância. Em seu poder estava uma sacola e em seu interior foram localizadas 86 porções de maconha e 112 pinos de cocaína, além de uma soma em dinheiro.
+A Autoridade Policial representou pela decretação da prisão preventiva do flagrado.
+Foram observadas as garantias legais, constitucionais e infra, na medida em que: ouvido o condutor, inquiridas duas testemunhas, comunicada a prisão a pessoa indicada pelo flagrado, o conduzido foi interrogado na presença de defensor ou lhe foi facultada tal condição, recebeu nota de culpa e foi cientificado de seus direitos.
+A situação de flagrância, conforme se extrai do expediente, é a prevista no art. 302, inciso IV, do Código de Processo Penal.
+Em razão do exposto, HOMOLOGO este APF.
+De acordo com o artigo 310 do Código de Processo Penal, ao receber o APF, cabe ao juiz: (I) relaxar a prisão, quando manifestamente ilegal; (II) converter em prisão preventiva, quando observados os requisitos do art. 312 do CPP; ou (III) conceder liberdade provisória, com ou sem fiança.
+No caso concreto, verifico ser necessária a conversão da prisão em flagrante em preventiva, para garantia da ordem pública. A existência material do delito e os suficientes indícios de autoria previstos no artigo 312 do Código de Processo Penal como condição para o segrego preventivo estão bem demonstrados diante da homologação do APF.
+A ordem pública merece ser assegurada em razão desta espécie de delito, eis que acarreta um verdadeiro flagelo social.
+Sopesados tais elementos, tenho como necessária a medida de exceção, até mesmo para que o investigado, em liberdade, não volte a mesma prática delitiva, o que demonstra, com este tipo de empreitada criminosa, não nutrir respeito com a lei e a justiça.
+Quanto aos princípios que norteiam a medida constritiva - adequação e necessidade - tratando-se de crime de extrema gravidade, uma vez que afeta a saúde e o equilíbrio social, preenchidos os requisitos previstos no artigo 313, incisos I e II, do Código de Processo Penal; impõe-se neste primeiro momento acautelar a ordem pública, bem como preservar a futura instrução criminal preservando o bem estar e a saúde de toda uma comunidade.
+Isso posto, com base no artigo 310, inciso II, e no artigo 312, ambos do Código de Processo Penal, CONVERTO a prisão em flagrante de CLAUDIOMAR BITTENCOURT DO NASCIMENTO em preventiva, para garantia da ordem pública e preservação da instrução criminal.
+Não houve indicação de elementos dos autos, relacionados à gravidade concreta do tráfico de drogas (modus operandi) ou ao comportamento anterior do paciente (anotações criminais, reincidência etc.),suficientes a demonstrar sua periculosidade e, portanto, o risco de reiteração delitiva e a necessidade da prisão preventiva para garantia da ordem pública.
+O Juizapontou genericamente a presença dos vetores contidos no art. 312 do CPP, uma vez que se limitou a afirmar que "a ordem pública merece ser assegurada em razão desta espécie de delito, eis que acarreta um verdadeiro flagelo social", bem como consignar " ser  necessária a medida de exceção, até mesmo para que o investigado, em liberdade, não volte a mesma prática delitiva, o que demonstra, com este tipo de empreitada criminosa, não nutrir respeito com a lei e a justiça".
+É patente a ilegalidade, pois, ateor do art. 315, § 2º, III, do CPP, "não se considera fundamentada qualquer decisão judicial  ..  que invocar motivos que se prestariam a justificar qualquer outra decisão".
+Conforme pontuou oSubprocurador-Geral da RepúblicaMarcelo Muscogliati: "tendo em vista a ausência de fundamentação idônea do decreto de prisão cautelar, a impossibilidade de complementação pelo tribunal estadual e a ostentação de condições pessoais favoráveis pelo paciente, deve ser reconhecida a nulidade da decisão que decretou a custódia" (fl. 107).
+À vista do exposto, concedo o habeas corpus para, ratificada a liminar, revogar a decisão que decretou a prisão preventiva do paciente, sem prejuízo de imposição, pelo Juiz natural da causa, de medida cautelarconcretamentefundamentada, nos termos dos arts. 282 e 319 do CPP.
+Publique-se. Intimem-se.
