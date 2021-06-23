@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de DANIEL AULO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, no julgamento do HC n. 5041696-87.2020.8.24.0000.
+Extrai-se dos autos que o paciente foi preso preventivamente por ter supostamente praticado o delito tipificado no art. 171,caput, do Código Penal, por duas vezes(estelionato).
+Irresignada, a defesa impetrou habeas corpus perante a Corte estadual, tendo sido denegada a ordem em acórdão assim ementado:
+"HABEAS CORPUS. CRIME CONTRA O PATRIMÔNIO. ESTELIONATO (CÓDIGO PENAL, ART. 171, CAPUT). PRISÃO PREVENTIVA DECRETADA E POSTERIOR INDEFERIMENTO DE PLEITO REVOGATÓRIO.
+INVOCADO CONSTRANGIMENTO ILEGAL CONSUBSTANCIADO NA AUSÊNCIA DE INDICAÇÃO DE FATO CONCRETO, DOS PRESSUPOSTOS E DOS REQUISITOS AUTORIZADORES DA PROVIDÊNCIA EXTREMA. VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA (CONSTITUIÇÃO FEDERAL, ART. 5º, LVII). INOCORRÊNCIA. PRONUNCIAMENTOS EMBASADOS EM ELEMENTOS SÓLIDOS E INDÍCIOS CONSISTENTES DA NECESSIDADE DA CUSTÓDIA PARA GARANTIA DA ORDEM PÚBLICA, DIANTE DA GRAVIDADE CONCRETA E REPROVABILIDADE DA CONDUTA, ALÉM DA POSSIBILIDADE DE REITERAÇÃO DELITIVA, BEM ASSIM PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL. PACIENTE QUE TERIA INDUZIDO AS VÍTIMAS EM ERRO, MEDIANTE ARDIL, EXIGINDO DIVERSOS PAGAMENTOS QUE TOTALIZARAM APROXIMADAMENTE DEZOITO MIL REAIS, PARA REALIZAÇÃO DE RITUAIS QUE SUPOSTAMENTE LIVRARIAM A FAMÍLIA DE "PROBLEMAS ESPIRITUAIS" E "MAU OLHADO". INFORMES DE QUE TERIA PRATICADO CRIME SEMELHANTE HÁ POUCO MAIS DE UM ANO NO ESTADO DO RIO GRANDE DO SUL. MODUS OPERANDI QUE DENOTA A PERICULOSIDADE DO AGENTE E RISCO DE QUE VOLTARÁ A DELINQUIR. IMPRESCINDIBILIDADE DA SEGREGAÇÃO. PRESENÇA DOS REQUISITOS E PRESSUPOSTOS DOS ARTS. 312, CAPUT, E 313, I, AMBOS DO CPP.
+AVENTADA OSTENTAÇÃO DE PREDICADOS PESSOAIS POSITIVOS. INSUBSISTÊNCIA. CARACTERES QUE POR SI SÓS NÃO IMPEDEM A CONSTRIÇÃO DA LIBERDADE.
+PROJEÇÃO DE PROVÁVEL APLICAÇÃO DE SANÇÃO INFERIOR A QUATRO ANOS E REGIME PRISIONAL DIVERSO DO FECHADO. IRRELEVÂNCIA. EXISTÊNCIA DE ETAPA PRÓPRIA.
+POSTULADA SOLTURA COM FUNDAMENTO NA RECOMENDAÇÃO 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. IMPROCEDÊNCIA. NORMATIVA QUE TRAZ INDICAÇÕES SEM EFEITOS VINCULANTES E QUE RESSALTA A NECESSIDADE DE, ANTES DE ADOTAR ALGUMA MEDIDA LIBERATÓRIA, OBSERVAR O CONTEXTO LOCAL DE DISSEMINAÇÃO DO VÍRUS E A SITUAÇÃO PESSOAL DO RECLUSO. INFRATOR DE APENAS TRINTA E QUATRO ANOS DE IDADE E SEM NOTÍCIAS DE QUE ESTÁ INSERIDO NO GRUPO DAQUELES MAIS SUSCETÍVEIS A COMPLICAÇÕES NA HIPÓTESE DE INFECÇÃO PELO NOVO CORONAVÍRUS - COVID-19 OU COM OS SINTOMAS CORRELATOS. ESTADO, ADEMAIS, QUE VEM ADOTANDO AÇÕES PREVENTIVAS DENTRO DOS ESTABELECIMENTOS PRISIONAIS. CONCOMITANTE INCIDÊNCIA DO PRINCÍPIO DA CONFIANÇA NO JUIZ DA CAUSA. PRECEDENTES.
+ALMEJADA SUBSTITUIÇÃO DA CLAUSURA POR MEDIDAS CAUTELARES ALTERNATIVAS, PREVISTAS NO ART. 319 DA LEI ADJETIVA PENAL, EM ESPECIAL A MONITORAÇÃO ELETRÔNICA. INVIABILIDADE. ADEQUAÇÃO E SUFICIÊNCIA DA BENESSE NÃO DEMONSTRADAS. CABIMENTO DA ULTIMA RATIO. INTELIGÊNCIA DO RESPECTIVO ART. 282, § 6º.
+ORDEM DENEGADA"(fls. 188/189).
+No presente writ, alega que a segregação antecipada do paciente é desnecessária, tendo em vistas suas favoráveis condições pessoais, bem como o fato de aconduta imputada não envolver emprego de violência ou grave ameaça.
+Reputa ausentes os requisitos da prisão preventiva previstos no art. 312 do Código de Processo Penal e aponta a suficiência, no caso em exame, das medidas cautelares alternativas.
+Ressalta a pandemia da COVID-19 e destaca a maior vulnerabilidade da população carcerária, invocando a incidência da Recomendação n. 62/2020 do CNJ.
+Salienta que há a possibilidade de orepresentante do Ministério Público propor acordo de não persecução penal, porquanto preenchidos os requisitos do art. 28-A do CPP.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva, ainda que mediante imposição de medidas cautelares previstas no art. 319 do Código de Processo Penal.
+A liminar foi indeferida às fls. 229/230. Informações prestadas às fls. 233/277. O Ministério Público Federal opinou pelo não conhecimento dowrit em parecer acostado às fls. 285/295.
+É o relatório.
+Decido.
+O pedido está prejudicado.
+Isso porque, em consulta ao andamento processual no sítio eletrônico do Tribunal de origem, verifica-se que, na Ação Penal n. 5001277-75.2020.8.24.0242, de que aqui se cuida, em 2/3/2021, sobreveio sentença que condenou o paciente àpenade 1 ano e 9meses de reclusão, e ao pagamento de 17dias-multa, pela prática dodelitoprevistono art. 171, caput, do Código Penal, tendo sido efetua a detração do tempo de prisão provisória e fixado o modo de execução aberto, sendo revogada a custódiapreventiva.
+Desse modo, constata-se a perda superveniente do objeto do presente mandamus.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
