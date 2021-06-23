@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por ALEXANDRE LUIS TOILLIER ANACLETO contra acórdão oriundo do Tribunal de Justiça do Estado de São Paulo (HC n. 2030099-84.2021.8.26.0000).
+Depreende-se dos autos que o recorrente foi preso em flagrante, acusado de ter praticado os delitos previstos nos arts. 33 e 35 da Lei n. 11.343/2006. A prisão foi convertida em preventiva.
+Impetrado writ na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fls. 147/148):
+Habeas corpus com pedido liminar Tráfico de Drogas e associação para o tráfico Pretensão de revogação da prisão preventiva, de sua substituição por cautelar do art. 319 do Código de Processo Penal ou de prisão domiciliar em razão da pandemia causada pela covid-19 Alegação de ausência dos requisitos que permitem a prisão preventiva, além de ausência de fundamentação idônea e de desproporcionalidade da medida Decisão que decretou a prisão cautelar do paciente bem fundamentada, entendendo estarem presentes os pressupostos da prisão preventiva Crimes que, por sua natureza e gravidade demonstram a personalidade deturpada do paciente, justificando a prisão cautelar para a garantia da ordem pública, nos termos do artigo 312 do Código de Processo Penal Eventuais condições favoráveis do paciente não garantem direito à liberdade provisória se a manutenção da custódia é recomendada por outros elementos constantes dos autos Presentes os pressupostos da prisão preventiva Inviabilidade de realizar ilações do suposto desfecho da ação penal nesta estreita via do habeas corpus a ensejar qualquer antecipação do mérito, não se vislumbrando, por ora,qualquer desproporcionalidade na manutenção da segregação do paciente Insuficiência das demais cautelares no caso concreto Pandemia causada pela covid-19 - Recomendação n. 62/2020 do Conselho Nacional de Justiça indica diretrizes aos magistrados para reduzir os efeitos da crise sanitária, nos âmbitos penal e socioeducativo, sem qualquer efeito vinculante Diploma editado que não tem o condão de conceder o benefício de forma automática e irrestrita aos sentenciados Ausência de comprovação de que o paciente faz parte do grupo de risco Inviabilidade da substituição para a prisão domiciliar - Inexistência de constrangimento - Ordem denegada.
+Reitera a defesa, na presente insurgência, que não há fundamentação concreta no decreto prisional e que o recorrente ostenta condições pessoais favoráveis.
+Além disso, destaca o risco de manter o recorrente segregado em razão da pandemia de COVID-19.
+Requer, liminarmente, seja o recorrente colocado em liberdade.
+Liminar indeferida às e-STJ fls. 199/200.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso.
+É, em síntese, o relatório.
+O presente recurso está prejudicado.
+Isso, porqueinformações prestadas pela instância ordinária dão conta de que sobreveio decisão do Magistrado de piso concedendo liberdade provisória ao ora recorrente. Consta, ainda, dos autos que foi "determinada a expedição do alvará de soltura, o que foi devidamente cumprido pela serventia" (e-STJ fl. 222).
+Assim, patente que o presente recurso está prejudicado, haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente recurso.
+Publique-se. Intimem-se.
