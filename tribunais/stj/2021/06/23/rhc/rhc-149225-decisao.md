@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por LUIZ GUSTAVO ANTONIOcontra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Agravo Regimental no HC n. 2070862-30.2021.8.26.0000/50000).
+Depreende-se dos autos que o paciente foi condenado, como incurso no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas), à pena de 7 anos, 9 meses e 10 dias de reclusão, em regime fechado, tendo-lhe sido negado o direito de recorrer em liberdade. Segundo a acusação, em poder doréu foramapreendidos aproximadamente 3g (três gramas) de cocaína.
+Irresignado, o paciente impetrouhabeas corpus no Tribunal de origem, pretendendo a readequação da dosimetria da pena.
+O Desembargador relator não conheceu da ordem.
+Interposto agravo regimental, o recurso foi desprovido.
+No presente recurso emhabeas corpus, a defesa defende "predicados pessoais do recorrente favoráveis; circunstâncias judiciais favoráveis; pequena quantidade de drogas; natureza da droga e ações penais em curso não são aptas a afastar a minorante; indevida interpretação extensiva; fixação de regime mais gravoso sem motivação idônea" (e-STJ fl. 99).
+Requer, inclusive liminarmente, "a) fixar a pena-base no mínimo legal; b) afastar a causa de aumento de pena prevista no artigo 40, III, 4ª figura, da Lei de Drogas; c) aplicar a minorante prevista no artigo 33, § 4º, da Lei de Drogas; d) fixar o regime aberto para início do cumprimento de pena, nos termos do artigo 33, § 2º, "c", do CP; ou, subsidiriamente, no regime semiaberto, nos termos do artigo 33, § 2º, "b", do CP; e) substituir a pena privativa de liberdade pela pena restritiva de direitos, nos termos do artigo 44, do CP, até o julgamento do mérito deste recurso, com seu provimento ao final, a fim de garantir os direitos do recorrente" (e-STJ fl. 121).
+É o relatório.
+Decido.
+No caso, pendente o julgamento do recurso de apelação pelo Tribunal de origem (Apelação Criminal n. 1500349-43.2019.8.26.0557), consoante registrado no acórdãoà e-STJ fl. 136,fica esta Corte impedida de analisar o mérito do pedido de readequação da dosimetria, sob pena de indevida supressão de instância.
+Nesse sentido:
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. MODUS OPERANDI. QUANTIDADE DE DROGA. SENTENÇA CONDENATÓRIA. NEGADO RECURSO EM LIBERDADE. FUNDAMENTAÇÃO PER RELATIONEM. POSSIBILIDADE. DOSIMETRIA. FLAGRANTE ILEGALIDADE RECONHECIDA. SEM ALTERAÇÃO NA PENA. APELAÇÃO PENDENTE DE APRECIAÇÃO. CONTEXTO QUE AGUARDAR O JULGAMENTO DO RECURSO NO REGIME SEMIABERTO. PROPORCIONALIDADE.
+ ..
+5. Reconhecida ilegalidade na dosimetria da pena porque considerados desfavoráveis os motivos e as consequências do delito mediante fundamentos inerentes ao tipo penal de tráfico de drogas, bem como porque a condenação anterior que ensejou o reconhecimento da reincidência deu-se pelo delito previsto no art. 28 da Lei n.11.343/2006. Tal reconhecimento, todavia, não tem impacto na dosimetria, já que o recurso de apelação ainda está pendente de apreciação, sendo incabível, neste momento, sua alteração, por configurar indevida supressão de instância.
+6. A fim de equalizar a situação prisional do paciente, entendo ser suficiente e proporcional que o mesmo aguarde, no regime semiaberto, o julgamento da apelação defensiva, para garantia da ordem pública, da instrução criminal e da aplicação da lei penal.
+7. Ordem concedida em parte apenas para permitir que o paciente aguarde o julgamento da apelação no regime semiaberto(HC 574.911/MG, de minha relatoria, SEXTA TURMA, julgado em 23/06/2020, DJe 30/06/2020).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
