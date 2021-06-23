@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 3ª Vara de São João de Meriti - SJ/RJ, o suscitante, e o Juízo Federal da 35ª Vara Criminal de Belo Horizonte - SJ/MG, o suscitado.
+Versam os autos acerca de execução da pena imposta ao apenado Valter Tavares de Paula, condenado ao cumprimento de pena de 2 anos de reclusão, em regime aberto (substituída por duas restritivas de direitos).
+Verificando que o apenado residia no município de Nova Iguaçu/RJ, o Juízo Federal da 35ª Vara Criminal de Belo Horizonte - SJ/MG declinou da competência em favor do Juízo Federal daquela localidade (fl. 57).
+Recebendo os autos, o Juízo Federal da 3ª Vara de São José do Meriti - SJ/RJ suscitou o conflito, ao seguinte fundamento (fls. 234/238):
+ ..
+Com todas as vênias ao eminente Juízo da 35ª Vara Federal da Seção Judiciária de Minas Gerais, entendo que o regramento dado ao novo Sistema Eletrônico de Execução a partir da implantação do sistema SEEU-CNJ não tenha o condão de se sobrepor à legislação vigente e à cristalizada jurisprudência do Superior Tribunal de Justiça.
+Com efeito, o artigo 65 da LEP e o artigo 668 do CPP são expressos em afirmar a competência executiva do Juiz indicado na lei local de organização judiciária e, na sua ausência, ao Juiz da condenação .
+Tais normas de competência executiva têm incidência tanto para os condenados a penas restritivas de direito como para aqueles condenados à pena privativa de liberdade. Imperioso destacar que a hipótese de deslocamento de execução exposta no artigo 86 da LEP se refere exclusivamente à pena privativa de liberdade, sendo certo que não abrange os condenados a penas restritivas de direito, restando prorrogada a competência do Juízo executivo originário mesmo nos casos em que o apenado venha a residir em local distinto daquele em que se consumou o delito e perante o qual se iniciou a execução.
+Por isso é que, nos casos de cumprimento de penas restritivas de direito, quando o condenado reside em localidade distinta do Juízo executivo do local da condenação, este depreca para o Juízo competente do local da residência do apenado tão somente a fiscalização do cumprimento daquelas penas restritivas, permanecendo o Juízo executivo originário competente para decidir todos os incidentes da execução e decretar a extinção de punibilidade ao término do cumprimento das penas.
+E é exatamente nessa linha que se cristalizou a jurisprudência do Superior Tribunal de Justiça, como deixam certos os seguintes julgados, já sobre a égide do sistema SEEU-CNJ:
+ ..
+Observe-se que o novo Sistema Eletrônico de Execução Unificado não se fez acompanhar de mudança legislativa que permita o deslocamento de competência executiva almejada pelo r. Juízo da 35ª Vara Federal da Seção Judiciária de Minas Gerais.
+Em verdade, no que tange às penas restritivas de direito, o novo Sistema Unificado de Execução do CNJ, por celeridade e praticidade, retirou a necessidade de se formular pedido de fiscalização de cumprimento de penas restritivas de direito por meio de Carta Precatória. Afinal, por se tratar de um sistema eletrônico unificado, os próprios autos processuais eletrônicos podem ser diretamente encaminhados ao Juízo da localidade da residência do condenado para que este (o Juízo) fiscalize o cumprimento das restritivas de direito.
+Contudo, é importante frisar que não há deslocamento de competência, uma vez que inexiste previsão legal de deslocamento de competência para o cumprimento das restritivas de direito, como assente na jurisprudência do Superior Tribunal de Justiça. Assim, se no curso da fiscalização, surgir algum incidente de execução passível de ser decidido, os autos eletrônicos devem regressar ao Juízo executivo originário para deliberação, tal qual determinado por este Juízo no seq. 32. Decidida a questão, os autos eletrônicos devem ser novamente encaminhados ao Juízo da fiscalização, utilizando-se da praticidade que o sistema SEEU-CNJ proporciona.
+O novo Sistema de Execução Unificado, como visto, logrou simplificar a tramitação processual dos feitos executivos no país, suprimindo a necessidade de que os atos de cooperação sejam deprecados por Carta Precatória. Doravante, basta o encaminhamento direto, por meio eletrônico, dos autos processuais, ao Juízo do local da residência, que permanece com a atribuição meramente fiscalizatória. O Juízo executivo natural, nos casos de execução de pena restritiva de direito, permanece sendo aquele do local da condenação.
+Destarte, pelos fundamentos expostos, entendo que a este Juízo da 3ª Vara Federal de São João de Meriti/RJ deveria ter sido delegada, tão somente, a fiscalização do cumprimento das penas restritivas de direitos impostas no decreto condenatório, conservando-se, contudo, a competência originária do Juízo da 35ª Vara Federal da Seção Judiciária de Minas Gerais para processar e julgar o presente executivo, mormente no tocante a eventuais incidentes no curso da execução, bem como a consequente prolação de sentença extintiva da punibilidade em razão do cumprimento das penas.
+Ante o exposto, suscito o conflito negativo de competência, e determino o encaminhamento da questão ao Egrégio Superior Tribunal de Justiça, para o qual rogo que decida pela prevalência da competência do Juízo 35ª Vara Federal da Seção Judiciária de Minas Gerais, determinando a este Juízo tão somente a fiscalização do cumprimento das penas restritivas de direito facultadas ao apenado.
+ ..
+Instado a se manifestar, o Ministério Público Federal opinou pela declaração de competência do Juízo suscitado, nos termos do parecer assim ementado (fl. 251):
+DIREITO PROCESSUAL PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS. COMPETÊNCIA DO JUÍZO DA CONDENAÇÃO. PARECER PELA COMPETÊNCIA DO JUÍZO SUSCITADO.
+É o relatório.
+Não há óbice ao julgamento monocrático do conflito, pois a matéria objeto do dissenso já foi debatida em outros julgados desta Corte.
+Nos termos do art. 65 da Lei de Execuções Penais, compete ao Juízo da sentença, em regra, a execução da pena:
+Art. 65. A execução penal competirá ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença.
+A simples mudança de domicílio do condenado à sanção restritiva de direitos para fora da sede do Juízo das Execuções Penais não implica o deslocamento da competência.
+Em casos que tais, consoante o disposto no art. 66, V, g, da Lei de Execuções Penais, cabe ao Juízo da execução a expedição de carta precatória, deprecando a fiscalização do cumprimento da pena ao Juízo do domicílio do apenado:
+Art. 66. Compete ao juiz da execução:
+ ..
+V - determinar:
+ ..
+g) o cumprimento de pena ou de medida de segurança em outra comarca.
+Nesse sentido, os seguintes precedentes da Terceira Seção:
+ ..
+1. Segundo o atual entendimento desta Corte, os propósitos da Lei de Execução Penal são atendidos com a expedição de carta precatória pelo juízo da condenação para o do domicílio do apenado a fim de que nesta última localidade seja empreendida a fiscalização do cumprimento de pena restritiva de direitos.
+(CC n. 115.754/SP, Ministra Maria Thereza de Assis Moura, DJe 21/3/2011)
+ ..
+1. A simples mudança de domicílio do condenado à pena restritiva de direitos para fora da sede do Juízo das Execuções Penais não provoca o deslocamento da competência, sendo certo que apenas deve ser deprecada a fiscalização do cumprimento das condições impostas na concessão da benesse, consoante o disposto nos arts. 65 e 66 da Lei de Execuções Penais.
+(CC n. 98.167/SC, Ministro Jorge Mussi, DJe 3/8/2009)
+ ..
+1. No caso de mudança de domicílio do réu condenado, o juízo das execuções penais competente - sendo este o indicado pela lei local de organização judiciária de onde o processo teve seu curso regular - deve expedir carta precatória ao juízo da nova localidade para a realização da audiência admonitória e a fiscalização do cumprimento das condições estipuladas, bem como para o pagamento do saldo remanescente da prestação pecuniária, o que, evidentemente, não implica transferência da competência.
+ ..
+(CC n. 40.781/SP, Ministra Laurita Vaz, DJ 24/5/2004)
+Ressalto que o advento de uma nova solução tecnológica (SEEU) não constitui fundamento idôneo para inobservância do preconizado na Lei de Execução Penal.
+De fato, cabe aos Juízes envolvidos no uso desse novo instrumento, lançar mão de procedimentos que extraiam os benefícios da ferramenta, sem, contudo, desrespeitar as diretrizes estabelecidas na legislação, sob pena de que a tecnologia prevaleça em detrimento da vontade do legislador.
+Aliás, não há falar em obrigatoriedade de que a execução tenha curso via Sistema Eletrônico de Execução Unificado (SEEU), pois foi suspensa a obrigatoriedade de tramitação da execução via esse sistema, ante a decisão monocrática exarada pelo eminente Ministro Alexandre de Moraes, nos autos da ADI n. 6.259.
+Confira-se (trecho obtido em consulta processual ao portal eletrônico do Supremo Tribunal Federal):
+ ..
+Dessa forma, no intuito de preservar a regularidade e continuidade das ações desenvolvidas por cada Tribunal local em matéria de processamento de informações sobre execuções penais, sem prejuízo aos esforços do CNJ no mesmo sentido, mostra-se necessária a suspensão da eficácia, até o conhecimento do mérito da presente ação pela CORTE, dos dispositivos da Resolução 280/2019 que tratam da obrigatoriedade do trâmite de processos pelo SEEU, quais sejam: o art. 2º, que vincula o processamento de informações e prática de atos processuais ao disposto na Resolução; o art. 3º, que obriga a que todos os processos tramitem pelo SEEU a partir de 31 /12/2019; o art. 9º, por obrigar os Tribunais locais a fornecerem dados na forma especificada pelo CNJ; o art. 12, que determina a manutenção de "administradores locais do sistema" e "centrais de atendimento aos usuários" por parte dos Tribunais locais; e o art. 13, por atribuir a órgão do CNJ a competência para a elaboração de cronograma de implantação nacional do SEEU por parte de todos os Tribunais do país.
+ ..
+Ante o exposto, conheço do conflito para declarar competente o Juízo Federal da 35ª Vara Criminal de Belo Horizonte - SJ/MG, o suscitado, para processar e julgar a execução penal de Valter Tavares de Paula, inclusive todos os incidentes; sendo-lhe assegurada a possibilidade de expedir carta precatória ao Juízo do domicílio do apenado, deprecando a fiscalização e o acompanhamento da execução.
+Dê-se ciência aos Juízes em conflito.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. JUÍZES FEDERAIS. PENA RESTRITIVA DE DIREITOS. DECLINAÇÃO PELO JUÍZO DO LOCAL DA CONDENAÇÃO PARA O JUÍZO DO DOMICÍLIO DO RÉU. COMPETÊNCIA DO JUÍZO DO LOCAL DA SENTENÇA, COM POSSIBILIDADE DE DEPRECAÇÃO EM FAVOR DO JUÍZO DO LOCAL DO DOMICÍLIO DO APENADO, PARA FINS DE FISCALIZAÇÃO E ACOMPANHAMENTO. PRECEDENTES DA TERCEIRA SEÇÃO.
+Conflito conhecido para declarar a competência do Juízo Federal da 35ª Vara Criminal de Belo Horizonte - SJ/MG, o suscitado, para processar e julgar a execução penal de Valter Tavares de Paula, inclusive todos os incidentes; sendo-lhe assegurada a possibilidade de expedir carta precatória ao Juízo do domicílio do apenado, deprecando a fiscalização e o acompanhamento da execução.
