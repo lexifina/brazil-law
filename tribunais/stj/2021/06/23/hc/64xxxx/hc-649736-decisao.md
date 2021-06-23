@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício deJORGE LUIS FRAGA BRITTOcontra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que opaciente foi preso em flagrante, na data de 14/10/2020, pela prática, em tese, dos crimes de tráfico de drogas e porte ilegal de arma de fogo, cuja prisão foi posteriormente convertida em preventiva, com fundamento na garantia da ordem pública.
+Impetrado habeas corpus na origem, a ordem foi denegada.
+No presente writ, alega a defesa, em suma, a ausência dos requisitos autorizadores da prisão cautelar.
+Aduz que "no caso dos autos a prisão da paciente nunca poderia ser fundamentada na garantia da ordem pública, visto que o paciente é primário, desempenha atividade lícita e tem endereço no distrito da culpa." (e-STJ, fl. 6)
+Assevera que "e em caso de condenação para o delito de tráfico de drogas, muito provável que o paciente será agraciado com o benefício contido no §4º, do artigo 33, da Lei 11.343/2006, uma vez que a mesma não possui condenações criminais, não se dedica a atividade criminosa e nem tampouco integra organização criminosa, podendo inclusive ser a pena privativa de liberdade substituída por restritiva de direitos, conforme HC nº 97256/RS, julgado pelo Supremo Tribunal Federal." (e-STJ, fl. 8)
+Requer, assim a revogação da prisão preventiva, ainda que com a aplicação de medidas cautelares diversas.
+A liminar foi indeferida (e-STJ, fl. 148).
+Informações prestadas (e-STJ, fls. 151-171).
+O Ministério Público Federal opinoupela prejudicialidade do writ(e-STJ, fls. 175-178).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+De início, impende ressaltar que, conforme se observa das informações prestadas peloTribunal de origem, às fls. 151-171 (e-STJ), em 15/3/2021, foi prolatada sentença que condenou o pacientecomo incurso nas sanções do art. 33, caput, e § 4º, da Lei n.11.343/2006, e art. 16, caput, da Lei n. 10.826/2003, em concurso material, à pena total de 7 anos e 2 meses de reclusão, inicialmente em regime semiaberto, e ao pagamento de 433 dias-multa sendo indeferido o benefício do apelo em liberdade, nos seguintes termos:
+"Considerando que o réu respondeu a todo o processo segregado, tendo sido condenado por crime cuja pena fixada deverá ser cumprida inicialmente em regime semiaberto, não poderá apelar em liberdade, eis que mantidos os requisitos da prisão cautelar, em especial para a garantia da ordem pública e, agora, para a aplicação da lei penal. Oficie-se a SUSEPE para que se realize a adequação ao regime ora aplicado." (e-STJ, fl. 170)
+No ponto, anote-se que a jurisprudência da Quinta Turma desta Corte já se manifestou que a sentença penal condenatória superveniente, que não permite ao condenado o recurso em liberdade, somente prejudica o exame do habeas corpus quando contiver fundamentos diversos daqueles utilizados na decisão que decretou a prisão preventiva, o que não ocorreu no caso dos autos.
+Por oportuno, vejamos o que consta no referido decreto constritivo:
+"No caso, encontram-se presentes esses requisitos, pois além de o tráfico de entorpecentes tratar-se de crime hediondo que muitos prejuízos traz à sociedade, a quantidade de drogas apreendidas com o indiciado é considerável (955 gr de manhonha), a afastar eventual privilégio decorrente da primariedade. Além disso, o indiciado também portava um fuzil cabibre 30 enrolado em um cobertor na mão, uma pistola 9mm municiada na cintura e dentro da mochilamais cartuchos de arma de fogo, totalizando 84 cartuchos de munição, e um carregador para arma de fogo, gandola do exército, de modo que o forte armamento do indiciado pressupõe sua periculosidade e exige maiores cuidados, tornando inviável a concessão de outras medidas cautelares.
+Ante o exposto, converto a prisão em flagrante em prisão preventiva para a garantia da ordem pública, nos termos do art. 310, II, do art. 312, e do art. 313, I, todos dispositivos do Código de Processo Penal." (e-STJ, fls. 58-59; sem grifos no original)
+E no acórdão impugnado:
+"No entanto, do exame dos documentos que instruem o presente writ, não verifico qualquer ato ilegal ou abusivo por parte da magistrada a quo.
+A decisão de lavra do Juiz de Direito Dra. Keila Silene Tortellique decretou a prisão preventiva do paciente encontra-se devidamente motivada, em atenção ao disposto no artigo 93, inciso IX, da Constituição Federal, consoante transcrição:
+ ..
+A decisão está calcada nos elementos de convicção existentes nos autos, diante da quantidade de entorpecentes, armamento e apetrechos típicos da traficância que, em tese, estavam na posse da paciente.
+No caso, como se pode observar da decisão segregatória, ela está fundada na garantia da ordem pública, uma vez que presentes o fumus comissi delicti e o periculum libertatis.
+É de se ressaltar que há indícios suficientes da autoria e materialidade do delito de tráfico de drogas imputado ao paciente.
+E mais, os argumentos expendidos pelo Magistrado, ao menos em uma primeira análise para efeitos de liminar, não me parecem genéricos, pois foram levados em conta elementos advindos dos autos.
+O fumus comissi delicti vem amparado nos indícios suficientes de autoria e prova da materialidade do delito, por conta da prisão em flagrante do acusado em posse de aproximadamente 955 gramas de maconha, um fuzil calibre 30, 52 cartuchos calibre 30, 9 cartuchos calibre 556, uma pistola calibre 9mm, um carregador de pistola, 23 cartuchos calibre 9mm, uma gandola do exército e a quantia de R$129,95 (cento e vinte nove reais e noventa e cinco centavos) em moeda diversa, conforme se extrai do auto de apreensão de fls.24-25 dos autos do inquérito policial.
+ ..
+Outrossim, presente também o periculum libertatis, mostrando-se necessária a manutenção da segregação cautelar para garantir a ordem pública, uma vez que evidenciadas a gravidade concreta dos delitos imputados ao paciente e a periculosidade dele.
+No ponto, insta salientar que, para além da grande quantidade de droga apreendida, o paciente também portava consigo armamentos de uso restrito e irrestrito, com diversos cartuchos de munição, e parte da vestimenta do Exército Brasileiro. A variedade dos armamentos apreendidos com o paciente denota claramente o perigo gerado pelo seu estado de liberdade.
+ ..
+Dessa forma, a decisão combatida visa a proteção da comunidade ordeira, não se verificando qualquer violação ao princípio da presunção de inocência, uma vez que devidamente fundamentada e legalmente amparada.
+Nessa senda, restaram evidenciadas a gravidade concreta dos delitos imputados ao paciente, a periculosidade e a possibilidade de reiteração, haja vista a grande quantidade de droga apreendida.
+ ..
+Ainda, observo que embora o crime não tenha envolvido violência e/ou grave ameaça contra a pessoa, a gravidade concreta do delito está demonstrada, ao menos em um primeiro momento, ante o laudo de constatação preliminar da natureza da substância ilícita apreendida, bem como no armamento que estava na posse do paciente, e diante do relato policial.
+ ..
+Nestas circunstâncias a manutenção da prisão a fim de garantir a ordem pública, resguardando a sociedade ordeira da reiteração criminosa, ao menos por ora, é medida imperativa.
+ ..
+É de se observar que o delito em questão tem assolado, numa proporção cada vez maior, famílias e a sociedade em geral, impactando, além da vida dos usuários, na segurança de todos. Isso porque, não obstante as consequências danosas à vida dos envolvidos com o tráfico de drogas, tal prática resulta em diversos homicídios de inocentes, bem como daqueles vinculados à traficância, em face da disputa de pontos de comercialização.
+Portanto, tenho por preenchidos os requisitos expressos nos artigos 312 e 313, ambos do Código de Processo Penal. Logo, perfeitamente cabível e justificada a necessidade da prisão preventiva dos pacientes como forma de acautelar a ordem pública.
+ ..
+Com relação às condições pessoais do paciente, elas não têm o condão de imuniza-lo quando presentes os requisitos autorizadores da segregação cautelar.
+Com efeito, na linha do posicionamento jurisprudencial exarado pelos Tribunais Superiores, a presença de condições pessoais favoráveis, ainda que comprovadas, não têm o condão, por si sós, de revogar a custódia cautelar.
+Nesse sentido, jurisprudência do Superior Tribunal de Justiça
+ ..
+Por tais razões, estando presentes os requisitos autorizadores da segregação cautelar e não havendo qualquer indicativo de que o paciente esteja sofrendo constrangimento ilegal, voto no sentido de denegar a ordem." (e-STJ, fls. 131-145)
+No caso, cabe ressaltar que o Superior Tribunal de Justiça possui entendimento pacífico de que a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente para a satisfação do art. 387, § 1º, do Código de Processo Penal, o entendimento de que permanecem inalterados os motivos que levaram à decretação prisão preventiva, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma.
+No caso, entendo que a prisão preventiva está suficientemente fundamentadana garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois o paciente foi preso em flagrante com 955 gramas de maconha, além de "um fuzil calibre 30, 52 cartuchos calibre 30, 9 cartuchos calibre 556, uma pistola calibre 9mm, um carregador de pistola, 23 cartuchos calibre 9mm, uma gandola do exército" (e-STJ, fl. 132).
+Esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+" ..
+2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente mantida na sentença, a qual indeferiu o direito de recorrer em liberdade com base em elementos concretos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas pela natureza e elevada quantidade das drogas apreendidas (177 porções de "cocaína", com peso de 40,36g e 01 uma porção de "maconha", com peso de 23,59g), o que denota a necessidade da prisão para resguardar a ordem pública, não havendo falar em existência de evidente flagrante ilegalidade.
+ ..
+Habeas corpus não conhecido."
+(HC 393.308/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favorável ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada."
+(HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Cumpre frisar que a Quinta Turma firmou orientação no sentido de que "não há lógica em deferir ao condenado o direito de recorrer solto quando permaneceu segregado durante a persecução criminal, se persistentes os motivos para a preventiva" (HC 396.974/BA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 22/8/2017, DJe 30/8/2017).
+Pelos mesmos motivos acima delineados, entendo que, no caso, é inviável a aplicação de medidas cautelares diversas da prisão, porquanto a gravidade concreta da conduta delituosa e a periculosidade do paciente indicam que a ordem pública não estaria acautelada com sua soltura. Sobre o tema: RHC 91.896/BA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/03/2018, DJe 23/03/2018; HC 426.142/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 5/4/2018, DJe 16/4/2018; e HC 400.411/SE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 7/12/2017, DJe 15/12/2017.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
