@@ -1,0 +1,11 @@
+DECISÃO
+O JUÍZO DE DIREITO DA 1ª AUDITORIA DA JUSTIÇA MILITAR DE BELO HORIZONTE - MG suscita conflito de competência diante do JUÍZO DE DIREITO DO JUIZADO ESPECIAL CRIMINAL DE BELO HORIZONTE - MG.
+A discussão, neste incidente processual, cinge-se em saber a competência - militar ou comum - para o processo e julgamento de acusado, policial militar, que teria supostamente praticado crime de lesão corporal contra civil, no momento em que estava de folga.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito do Juizado Especial Criminal de Belo Horizonte - MG, ora suscitado (fls. 216-222).
+Decido.
+Com razão o Juízo suscitante. Depreende-se dos autos que o acusado teria supostamente praticado o delito de lesão corporal contra civil, "ocasião em que estava de folga e praticando atividade física" (fl. 193, destaquei).
+Conforme destacou o Ministério Público Federal, às fls. 221-222, "o interessado, policial militar da ativa, agiu, na ocasião, como civil, pois estava fora de serviço e não praticou o referido ato no exercício da função, tampouco se encontrava em lugar sujeito à Administração Militar, razão pela qual a conduta por ele praticada não se enquadra nas hipóteses previstas no art. 9º, II, do Código Penal Militar" (grifei).
+Em casos similares, esta Corte tem afirmado: "a conduta criminosa do militar da ativa, fora do lugar e horário de serviço, sem ter se valido do cargo para cometimento do delito, permite caracterizar o agente, nesta hipótese, como civil, circunstância que afasta a aplicação do art. 9º, II, a, do Código Penal Militar e, por conseguinte, firma a competência da Justiça comum" (RHC n. 110.556/MS, Rel. Ministro Nefi Cordeiro, DJe 12/8/2019).
+Nesse sentido, ainda, destaco os seguintes precedentes: CC n. 157.328/MG, Rel. Ministro Reynaldo Soares da Fonseca, DJe 5/6/2018; CC n. 166.739/RN, Rel. Ministro Jorge Mussi, DJe de 15/8/2019; CC n. 114.205/SP, Rel. Ministro Sebastião Reis Júnior, DJe 9/11/2011.
+À vista do exposto, conheço do conflito para declarar competente o Juízo de Direito do Juizado Especial Criminal de Belo Horizonte - MG, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
