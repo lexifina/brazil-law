@@ -1,0 +1,52 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que JORGE BARBOSA BOSCH e outros (JORGE e outros) ajuizaram ação de repetição de indébito contra SERPROS FUNDO MULTIPATROCINADO (SERPROS), alegando descontos indevidos nos benefícios previdenciários de JORGE e outros.
+O pedido foi julgado procedente, condenando-se SERPROS a restituir os valores pleiteados.
+Iniciado o cumprimento de sentença, o d. Juízo de primeira instância rejeitou a impugnação oferecida por SERPROS, homologando os cálculos da contadoria judicial.
+Contra essa decisão interlocutória, SERPROS interpôs agravo de instrumento sustentando que (1) os cálculos apresentados pela contadoria divergiam da coisa julgada; (2) é imprescindível a realização de perícia atuarial; e (3) o termo inicial para incidência dos juros deve ser a citação válida.
+O Relator no TJ/DF não conheceu do agravo de instrumento em virtude de sua intempestividade (e-STJ, fls. 37/39).
+Interposto agravo interno, não foi provido pelo TJ/DF, nos termos do acórdão assim ementado:
+AGRAVO INTERNO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. INTIMAÇÃO ELETRÔNICA E NO DIÁRIO DE JUSTIÇA. PREVALÊNCIA DA INTIMAÇÃO ELETRÔNICA. INTEMPESTIVIDADE CONFIGURADA. 1. Em se tratando de processo eletrônico, e conforme expressamente previsto no art. 5º, da Lei nº 11.419/2006, deve prevalecer a intimação eletrônica, em virtude de tal modalidade dispensar a publicação via Diário de Justiça Eletrônico.2. Agravo interno não provido (e-STJ, fl. 138).
+Os embargos de declaração opostos por SERPROS foram rejeitados (e-STJ, fls. 210/215).
+Inconformado, SERPROS manejou recurso especial com fundamento no art. 105, III, a, da CF, alegando a violação dos arts. 196 e 1.022 do NCPC, ao sustentar que (1) o acórdão recorrido foi omisso quanto à aplicação do art. 196 do NCPC; e (2) havendo dupla intimação, prevalece a publicação no Diário de Justiça Eletrônico em detrimento da intimação eletrônica.
+Foi oferecida contraminuta (e-STJ, fls. 263/275).
+O apelo nobre foi admitido (e-STJ, fl. 278/279).
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da ausência de violação do art. 1.022, do NCPC
+Nas razões do seu recurso, SERPROS alegou a violação do art. 1.022 do NCPC em virtude da omissão quanto à incidência do art. 196 do NCPC, no que se refere à prevalência da intimação por publicação no Diário de Justiça Eletrônico.
+Contudo, verifica-se que o TJ/DF se pronunciou sobre o tema consignando que a intimação realizada por meio eletrônico sobrepõe-se à publicação via Diário de Justiça Eletrônico, confira-se:
+Em regra, os litigantes devem ser intimados, na pessoa de seus respectivos advogados, pelo órgão oficial (Diário de Justiça Eletrônico). Entretanto, nos termos do art. 5º, da Lei nº 11.419/06, a intimação também pode ser realizada por meio eletrônico em canal próprio, desde que o advogado tenha se cadastrado, conforme dispõe o art. 2º, da referida lei.
+Na hipótese de a intimação ter sido realizada por meio eletrônico, fica dispensada a intimação pelo Diário de Justiça Eletrônico. Assim, conclui-se que a intimação formalizada por meio eletrônico tem prevalência sobre a intimação realizada via DJe. Na hipótese em análise, houve dupla intimação da parte para a prática do mesmo ato: a primeira enviada via eletrônica e a outra pelo DJe. Nesses casos, deve ser considerada como válida a intimação realizada via eletrônica, a partir da qual iniciou-se a contagem do prazo (e-STJ, fl. 140).
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte. Precedente: AgRg no AREsp 529.018/MS, Rel. Ministro SIDNEI BENETI, Terceira Turma, DJe 1º/9/2014.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. 2. RESPONSABILIDADE PELOS SERVIÇOS PRESTADOS. INTERPRETAÇÃO DE CLÁUSULAS DA AVENÇA E REEXAME DE PROVAS. DESCABIMENTO. SÚMULAS 5 E 7 DO STJ. 3. PRINCÍPIOS DA CONGRUÊNCIA OU DA ADSTRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS. SÚMULAS N. 282 e 356 DO STF. 4. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. A revisão das conclusões estaduais (quanto à responsabilidade pelos serviços contratados) demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7 do STJ.
+3. Se o conteúdo normativo contido no dispositivo apresentado como violado não foi objeto de debate pelo Tribunal de origem, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incide, na espécie, o rigor das Súmulas n. 282 e 356 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.487.975/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 17/02/2020, DJe 19/02/2020)
+Afasta-se, portanto, a alegada violação.
+(2) Da incidência da Súmula nº 568 do STJ
+Nas razões do presente recurso, SERPROS afirmou a violação do art. 196 do NCPC, sustentando que, havendo dupla intimação, prevalece a publicação no Diário de Justiça Eletrônico em detrimento da intimação eletrônica.
+Sobre o tema o TJ/DF consignou que a intimação realizada por meio eletrônico sobrepõe-se à publicação via Diário de Justiça Eletrônico, confira-se:
+Em regra, os litigantes devem ser intimados, na pessoa de seus respectivos advogados, pelo órgão oficial (Diário de Justiça Eletrônico). Entretanto, nos termos do art. 5º, da Lei nº 11.419/06, a intimação também pode ser realizada por meio eletrônico em canal próprio, desde que o advogado tenha se cadastrado, conforme dispõe o art. 2º, da referida lei.
+Na hipótese de a intimação ter sido realizada por meio eletrônico, fica dispensada a intimação pelo Diário de Justiça Eletrônico. Assim, conclui-se que a intimação formalizada por meio eletrônico tem prevalência sobre a intimação realizada via DJe. Na hipótese em análise, houve dupla intimação da parte para a prática do mesmo ato: a primeira enviada via eletrônica e a outra pelo DJe. Nesses casos, deve ser considerada como válida a intimação realizada via eletrônica, a partir da qual iniciou-se a contagem do prazo (e-STJ, fl. 140).
+No mesmo sentido, a Corte Especial do STJ uniformizou o entendimento de que, na hipótese de duplicidade de intimações, a intimação eletrônica deve prevalecer em face da publicação no Diário de Justiça Eletrônico.
+Confira-se o precedente:
+DIREITO PROCESSUAL. EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. PROCESSO JUDICIAL ELETRÔNICO. DUPLICIDADE DE INTIMAÇÕES: PUBLICAÇÃO NO DIÁRIO DA JUSTIÇA ELETRÔNICO E POR PORTAL ELETRÔNICO (LEI 11.419/2006, ARTS. 4º E 5º). PREVALÊNCIA DA INTIMAÇÃO PELO PORTAL ELETRÔNICO. RECURSO CONHECIDO E PROVIDO.
+1. A Lei 11.419/2006 - Lei do Processo Judicial Eletrônico - prevê dois tipos de intimações criados para atender à evolução do sistema de informatização dos processos judiciais. A primeira intimação, tratada no art. 4º, de caráter geral, é realizada por publicação no Diário da Justiça Eletrônico; e a segunda, referida no art. 5º, de índole especial, é feita pelo Portal Eletrônico, no qual os advogados previamente se cadastram nos sistemas eletrônicos dos Tribunais para receber a comunicação dos atos processuais.
+2. Embora não haja antinomia entre as duas formas de intimação previstas na Lei, ambas aptas a ensejar a válida intimação das partes e de seus advogados, não se pode perder de vista que, caso aconteçam em duplicidade e em diferentes datas, deve ser garantida aos intimados a previsibilidade e segurança objetivas acerca de qual delas deve prevalecer, evitando-se confusão e incerteza na contagem dos prazos processuais peremptórios.
+3. Assim, há de prevalecer a intimação prevista no art. 5º da Lei do Processo Eletrônico, à qual o § 6º do art. 5º atribui status de intimação pessoal, por ser forma especial sobre a genérica, privilegiando-se a boa-fé processual e a confiança dos operadores jurídicos nos sistemas informatizados de processo eletrônico, bem como garantindo-se a credibilidade e eficiência desses sistemas.
+Caso preponderasse a intimação por forma geral sobre a de feitio especial, quando aquela fosse primeiramente publicada, é evidente que o advogado cadastrado perderia o prazo para falar nos autos ou praticar o ato, pois, confiando no sistema, aguardaria aquela intimação específica posterior.
+4. Embargos de divergência conhecidos e providos, afastando-se a intempestividade do recurso especial.
+(EAREsp 1.663.952/RJ, Rel. Ministro RAUL ARAÚJO, Corte Especial, j. em 19/05/2021, DJe 09/06/2021)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, deve ser ele mantido.
+Dessa forma, incide a Súmula nº 568 do STJ.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REPETIÇÃO DE INDÉBITO. BENEFÍCIO PREVIDENCIÁRIO. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. AUSÊNCIA. INTIMAÇÃO DUPLA. INTIMAÇÃO ELETRÔNICA. PUBLICAÇÃO NO DIÁRIO DE JUSTIÇA. PREVALÊNCIA DA PRIMEIRA. RECURSO ESPECIAL NÃO PROVIDO.
