@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BRUNO PAVANATE PEREIRAcontra decisão proferida pelo Tribunal de Justiça do Estado de São Pauloque não admitiu seu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 552/556, in verbis:
+Trata-se de agravo em recurso especial interposto por BRUNO PAVANATE PEREIRA contra decisão que inadmitiu seu apelo nobre tirado contra acórdão que negou provimento ao seu recurso de apelação.
+O agravante foi condenado à pena de 10 anos de reclusão, em regime inicial fechado, pela prática do crime de latrocínio tentado. Ao seu recurso de apelação o Tribunal a quo negou provimento, (fl. 442). O aresto está assim ementado:
+ ..
+Os embargos de declaração aviados não foram conhecidos, porque "o embargante opôs embargos declaratórios após escoado o prazo legal de 02 (dois) dias, previsto no artigo 619 do Código de Processo Penal, de rigor o reconhecimento de sua intempestividade. " (fl. 485)
+Em sede de apelo nobre, o agravante sustentou que o aresto recorrido negou vigência ao artigo 29, § 2º, do Código Penal, que reza:
+"Art. 29 - Quem, de qualquer modo, concorre para o crime incide naspenas a este cominadas, na medida de sua culpabilidade.
+ ..
+§ 2º - Se algum dos concorrentes quis participar de crime menos grave, ser-lhe-á aplicada a pena deste; essa pena será aumentada até metade, na hipótese de ter sido previsível o resultado mais grave."
+Aduz inexistir fundamentação comprobatória de que "o Apelante aderiu a intenção homicida, mesmo porque ele não portava arma e, no momento, não teve contato com a vítima, "(fl. 463) Lado outro, "mesmo que o Recorrente tivesse assumido o risco do evento "morte ", também seria o caso de aplicação do referido dispositivo de Lei Federal violado." (fl. 464)
+Pediu o provimento do recurso especial "para que seja desclassificada a conduta do Recorrente para o crime de roubo majorado pelo concurso de agentes, nos termos do artigo 29, §2º, do Código Penal, por ser medida de inteira JUSTIÇA . " (fl. 464)
+O apelo nobre foi inadmitido sob a seguinte fundamentação:
+"O recurso é extemporâneo. Com efeito, os embargos de declaração, não conhecidos em virtude de sua intempestividade (fls. 496/499), não interromperam o prazo de quinze dias para o recurso extremo, que começou a fluir com a publicação do aresto prolatado na apelação, ocorrida em 18 de dezembro de 2019 (fls. 466), sendo que o especial foi protocolado apenas aos 03 de junho de 2020 (fls. 471) ".
+No agravo aviado, aduz-se que está equivocado o fundamento da decisão agravada para negar trânsito ao apelo nobre. Sustenta-se que publicado o acórdão da apelação em 18/12/2019, o prazo fatal para oposição de embargos ocorreria dia 20/12, data, porém, de início do recesso forense, conforme Resolução 244/2016 do CNJ, vigente entre 20/12/2019 a 06/01/2020;
+Neste cenário, uma vez opostos os aclaratórios em 04/01/2020, antes do dies ad quem - 07.01.2020 - avulta evidente a tempestividade do recurso e, consequentemente, do apelo nobre aviado na sequencia. (fls. 515/524)
+Contraminuta do Ministério Público acha-se às fls. 303/305.
+Subindo o recurso, vieram os autos, digitalizados, com vista a este Órgão Ministerial, para parecer.
+E o Relatório.
+O Parquet opinou pelo não conhecimento do recurso especial.
+É o relatório. Decido.
+O Tribunal de origem concluiu "que não há se cogitar de ausência de animus necandina atitude tomada pelos réus, os quais, após subtrair os pertences do ofendido, desferiram facadas na vítima, somente não o matando por circunstâncias alheias às suas vontades, pois recebeu pronto atendimento hospitalar" (e-STJ fl. 450).
+Desse modo, constata-se que a Corte originária, com base nos elementos fáticos-probatórios dos autos, entendeu configurado o animus necandi, razão pela qual, para modificar o referido entendimento, seria necessário rever os elementos fático-probatórios dos autos (Súmula n. 7 do Superior Tribunal de Justiça).
+Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. LATROCÍNIO TENTADO. PLEITO DE DESCLASSIFICAÇÃO PARA O CRIME DE FURTO QUALIFICADO. ANIMUS NECANDI RECONHECIDO PELAS INSTÂNCIAS ORDINÁRIAS.IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO NA VIA ELEITA.DOSIMETRIA. CULPABILIDADE. INCIDÊNCIA DA SÚMULA/STJ 444. REPRIMENDA ESTABELECIDA NO PISO LEGAL PELA ATENUANTE DA CONFISSÃO ESPONTÂNEA.ÓBICE DA SÚMULA/STJ 231. PENA INALTERADA. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. No caso, não se observa flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+2. Se as instâncias ordinárias, mediante valoração do acervo probatório produzido nos autos, concluíram, de forma fundamentada, pela existência de animus necandi, a análise das alegações concernentes ao pleito de desclassificação demandaria exame detido de provas, inviável em sede de writ.
+3. Nos moldes do art. 157 do Código Penal, a violência ou grave ameaça caracterizadoras do crime de roubo poderão ser empregadas antes, durante ou logo após a subtração do bem. Assim, malgrado possa ter o agente iniciado a prática de conduta delitiva sem o uso de violência, se terminar por se valer de meio violento para garantir a posse da res furtivae ou, ainda, a impunidade do delito, terá praticado o crime de roubo, ainda que em sua modalidade imprópria (CP, art. 157, § 1º), não havendo se falar em furto. Além disso, se o resultado morte for alcançado em razão da violência empregada no crime de roubo, seja ele próprio ou impróprio, restará caracterizada a hipótese do § 3º, in fine, do artigo 157 do Código Penal.
+4. No que se refere à dosimetria, é pacífica a jurisprudência desta Corte Superior de Justiça e do Supremo Tribunal Federal no sentido de que inquéritos e processos penais em andamento, ou mesmo condenações ainda não transitadas em julgado, não podem ser negativamente valorados para fins de elevação da reprimenda-base, sob pena de malferirem o princípio constitucional da presunção de não culpabilidade (Súmula/STJ 444).
+5. Ainda que deva ser afastada a valoração negativa da culpabilidade do réu, verifica-se que a pena-base restou restabelecida ao piso legal na segunda fase da dosimetria, em razão da incidência da atenuante da confissão espontânea. Diante disso, ante a impossibilidade de fixação de pena inferior ao mínimo estabelecido pelo preceito secundário do tipo penal incriminador, conforme a dicção da Súmula/STJ 231, deve a pena permanecer inalterada, nos moldes do imposto pelas instâncias ordinárias.
+6. Writ não conhecido.
+(HC 351.548/PE, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 02/02/2017, DJe 10/02/2017, grifei)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
