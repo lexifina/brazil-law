@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesasolicita que se proceda à notificaçãoda parte interessada, CESAR GOMES DA COSTA, de sentença penalque o condenou pelo crime de condução de veículo em estado de embriaguez e do despacho que converteu a pena de multa em prisão subsidiária.
+A intimação prévia foi recebida pelo próprio interessado, já que expedida via postal com "mão própria", conforme documento de fls. 46-47. Porém transcorreu in albis o prazo para a apresentação de impugnação (fl. 48).
+A Defensoria Pública da União, na qualidade de curadora especial, apresentou impugnação, requerendo a denegação do exequatur à carta rogatória, por ofensa à dignidade da pessoa humana, pois"o direito português admite a possibilidade de utilização da pena privativa de liberdade como forma de ensejar o adimplemento de dívida eminentemente civil, fato que contrasta com preceito basilar da Constituição da República Federativa do Brasil" (fl. 53).
+O Ministério Público Federal opinou pelaconcessão do exequatur para notificar o interessado,havendode se reconhecer que não há manifesta ofensa à ordem pública, porquanto o objeto da comissão destina-se apenas a dar ciência ao interessado de despacho proferido pela Justiça portuguesa(fls. 58-60).
+É, no essencial,o relatório. Decido.
+De início, observo que o pedido nestes autos se refere à diligência para simples notificação do interessado, e o ato de comunicação processual não produz efeito atentatório à ordem pública, uma vez que se presta apenas a cientificar a parte de ação que tramita na Justiça estrangeira, para que ali possa exercer defesa, e não à sua extradição.Assim, não merece guarida aalegação da Defensoria Pública da União de que o objeto da comissãoofende adignidade da pessoa humananesta fase.
+Desse modo, entendo que oobjeto da presente carta rogatória não atenta contra a soberania nacional, a dignidade da pessoa humana e/ou a ordem pública, razão pela qual, com fundamento no art. 216-O, c/c o art.216-P do RISTJ, concedo oexequatur.
+Diante do êxito na intimação pessoal da parte interessada (fls. 46-47), considero consumado o objeto da comissão, sendo desnecessária a remessa dos autos à Justiça Federal.
+Confira-se o seguinte precedente da Corte Especial:
+AGRAVO INTERNO NA CARTA ROGATÓRIA. INTIMAÇÃO PRÉVIA, VIA POSTAL. AVISO DE RECEBIMENTO ASSINADO PELO PRÓPRIO INTERESSADO. DEVOLUÇÃO DOS AUTOS À JUSTIÇA ROGANTE ANTE O CUMPRIMENTO DA DILIGÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Como a parte Interessada assinou o aviso de recebimento da intimação prévia, conclui-se que esteja ciente da notificação objeto da rogatória, uma vez que acompanhada de cópia integral dos autos.
+2. Consumada a diligência requerida, desnecessária a remessa dos autos à Justiça Federal, motivo pelo qual eles devem ser devolvidos à Justiça rogante, por intermédio da autoridade central competente.
+3. Agravo interno desprovido. (AgRg na CR n. 11.262/EX, relatora Ministra Laurita Vaz, DJe de 14/9/2017.)
+Ante o exposto, com fundamento no art. 216-X do RISTJ, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente, independentemente do trânsito em julgado.
+Publique-se. Intimem-se.
