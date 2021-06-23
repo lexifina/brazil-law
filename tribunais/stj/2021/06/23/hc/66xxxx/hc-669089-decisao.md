@@ -1,0 +1,17 @@
+DECISÃO
+RODRIGO RIBEIRO DE SOUZAalegasofrer constrangimento ilegal em virtude de acórdão doTribunal de Justiça do Estado do Rio de Janeiro, na Apelação Criminal n. 0027630-23.2019.8.19.0014.
+Nesta Corte, a defesa pretende, liminarmente e no mérito, a fixação do regime semiaberto ao paciente, pois a modalidade fechada foi imposta em inobservância às Súmulas n. 440 do STJ e 718 e 719 do STF.
+Prestadasas informações, veio o parecer do Ministério Público Federal, que opinou pela concessãoda ordem (fls. 68-73).
+Decido.
+Consta dos autos que opacientefoi condenado à pena de 8 anos de reclusão, em regime fechado, mais multa,pela prática do delito previsto no art. 157, § 2º-A, I, por duas vezes, e 157, § 2º-A, I, c/c o art. 14, II, na forma do art. 70, caput, todos do Código Penal.
+O Juiz de primeiro grau fixou o regime fechado para início do cumprimento da pena, pois "o crime de roubo foi praticado com o emprego ostensivo de arma de fogo" (fl. 40). Tal conclusão foi mantida no acórdão do TJRJ, uma vez que "crime de roubo com emprego de arma de fogo recomenda o regime fechado" (fl. 50).
+Quanto à almejada modificação do regime inicial para o semiaberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, aoquantumde reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido peloquantumda pena (HC n. 279.272/SP, Rel. MinistroMoura Ribeiro, 5ª T., DJe 25/11/2013;HC n. 265.367/SP, Rel. MinistraLaurita Vaz, 5ªT., DJe 19/11/2013;HC n. 213.290/SP, Rel. MinistraMaria Thereza de Assis Moura, 6ª T., DJe 4/11/2013;HC n. 148.130/MS, Rel. MinistroSebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+Diante dessas premissas e dos trechos anteriormente transcritos, verifico a ocorrência do apontado constrangimento ilegal, pois, embora apena-basehajasido estabelecidano mínimo legal, oquantumde pena tenha sido definido em 8 anos de reclusão e o pacientesejaprimário, o regime inicial fixado foi o fechado.
+No caso, verifico que as instâncias ordinárias não apontaram nenhum elemento dos autos (como a indicação de número excessivo de agentes, por exemplo) que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso. Nesse sentido, entendo que os elementos apresentados não extrapolam as elementares inerentes ao crime praticado e a majorante incidente ao caso, razão pela qual não se revestem da devida idoneidade para sustentar a fixação do regime mais gravoso do que o permitido em razão da sanção aplicada.
+A propósito, o entendimento consolidado nas Súmulas n. 440 do STJ, 718 e 719 do STF, respectivamente:
+Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+À vista do exposto,concedo a ordem, a fim defixar o regime semiaberto ao paciente.
+Publique-se e intimem-se.
