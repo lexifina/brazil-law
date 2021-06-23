@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus, com pedido de liminar, interposto em face de acórdão assim ementado (fl. 85):
+TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE. CONVERSÃO EM PRISÃO PREVENTIVA. DEVIDAMENTE JUSTIFICADA. MEDIDAS CAUTELARES INSUFICIENTES. PREDICADOS PESSOAIS. 1) Não caracteriza constrangimento ilegal a decretação da prisão preventiva, quando a medida constritiva excepcional está alicerçada na garantia da ordem pública, conveniência da instrução criminal e aplicação da lei penal, além da expressiva quantidade e variedade de droga apreendida somado aos instrumentos utilizados para traficância, requisitos estes que, aliado à prova do crime e dos indícios de autoria, inviabilizam a revogação da segregação cautelar. 2) Preenchidos os requisitos legais para a manutenção da prisão preventiva, incomportável é a aplicação das medidas cautelares diversas da prisão, por restarem demonstradas insuficientes para garantir a ordem pública. 3) A alegação de bons predicados pessoais, por si sós, não ensejam a liberdade provisória, especialmente quando não comprovados nos autos e demonstrada a imprescindibilidade da custódia cautelar. ORDEM CONHECIDA E DENEGADA.
+O recorrente foi preso em flagrante em 5/12/2020, convertido em preventiva, sendo denunciado pela prática do delito tipificado no art. 33, caput, da Lei 11.343/2006.
+Neste recurso, argumenta, em suma, ausência dos requisitos do art. 312 do CPP e desproporcionalidade da medida extrema, requerendo, liminarmente e no mérito, a sua revogação ou substituição pelas medidas cautelares previstas no art. 319 da mesma lei processual.
+Deferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo provimento do recurso, confirmando-se a liminar deferida.
+Na origem, Processo 5624957-81.2020.8.09.0137, verifica-se a prolação de sentença, conforme informação de fl. 118.
+Conforme informações prestadas pelo Juízo de 1º grau,no dia 17 de fevereiro do corrente ano foi prolatada sentença, na qual foi julgada improcedente a denúncia oferecida em face de Divino Márcio de Souza Júnior, sendo desclassificada a imputação feita ao paciente para a conduta descrita no art. 28, da Lei n.º 11.343/06. Na ocasião, foi determinada a expedição de alvará de soltura em favor do paciente (fl. 118).
+Desse modo, não há como negar a prejudicialidade deste writ, ante a perda superveniente do objeto.
+Ante o exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
