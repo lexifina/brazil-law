@@ -1,0 +1,19 @@
+DECISÃO
+LUAN RIBEIRO CAVIQUIOLI LUIZ opõe embargos declaratórios contra a decisão de fls. 59-62, por meio da qual conheci em parte do habeas corpus, para denegar a ordem pretendida.
+Em suas razões, o embargante alega obscuridade e contradiçãona decisão, ao argumento de que o fundamento adotado para manter o regime mais gravoso, qual seja, a existência de circunstância judicial negativa, foi equivocado, uma vez que o TJSP afastou o incremento da pena-base.
+Pleiteia, assim, o acolhimento dos aclaratórios, a fim de que seja fixado o regime semiaberto.
+Decido.
+Primeiramente, registro que estes embargos de declaração, a bem da verdade, não se prestam a sanar omissão, contradição ou obscuridade, mas sim, a obter a revisão do decisum que denegou a ordem pretendida, motivo pelo qual recebo os aclaratórios comopedido de reconsideração.
+Após análise mais detida do caso, entendo que razão assiste ao embargante, pelos motivos a seguir.
+De fato, como bem salientado pela defesa, por ocasião do julgamento da apelação defensiva, o TJSP afastou o incremento da pena-base, por entender que "não cabia considerar nessa fase uma das qualificadoras como circunstância judicial favorável, pois ela deve incidir na terceira fase do cálculo, de modo que as penas retroagem ao menor patamar de quarto anos de reclusão" (fl. 47).
+Em relação ao regime, o acórdão manteve a modalidade mais gravosa ao paciente, "pois, de fato, ele revelou audácia e temibilidade praticando delito de extrema gravidade à mão armada e em comparsaria" (fl. 48).
+Quanto à almejada modificação do regime inicial para o semiaberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, aoquantumde reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido peloquantumda pena (HC n. 279.272/SP, Rel. MinistroMoura Ribeiro, 5ª T., DJe 25/11/2013;HC n. 265.367/SP, Rel. MinistraLaurita Vaz, 5ªT., DJe 19/11/2013;HC n. 213.290/SP, Rel. MinistraMaria Thereza de Assis Moura, 6ª T., DJe 4/11/2013;HC n. 148.130/MS, Rel. MinistroSebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+Diante dessas premissas e dotrechoanteriormente transcritos, verifico a ocorrência do apontado constrangimento ilegal, pois, embora apena-basehajasido estabelecidano mínimo legal, oquantumde pena tenha sido definido em 6anos e 8meses de reclusão e opacientesejaprimário, o regime inicial fixado foi o fechado.
+No caso, verifico que as instâncias ordinárias não apontaram nenhum elemento dos autos (como a indicação de número excessivo de agentes, por exemplo) que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso. Nesse sentido, entendo que os elementos apresentados não extrapolam as elementares inerentes ao crime praticado, razão pela qual não se revestem da devida idoneidade para sustentar a fixação do regime mais gravoso do que o permitido em razão da sanção aplicada.
+A propósito, o entendimento consolidado nas Súmulas n. 440 do STJ, 718 e 719 do STF, respectivamente:
+Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+À vista do exposto,reconsidero a decisão de fls. 59-62, para, mantido o conhecimento parcial daimpetração, concedera ordem, a fim defixar o regime semiaberto ao paciente.
+Publique-se e intimem-se.
