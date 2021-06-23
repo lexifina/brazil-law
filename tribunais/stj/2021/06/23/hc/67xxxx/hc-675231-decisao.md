@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RAFAEL DE MOURA SILVA contra o Tribunal de Justiça do Estado de São Paulo (HC n.2132339-54.2021.8.26.0000).
+Segundo consta dos autos, o ora paciente foi condenado a 6 anos de reclusão, e 600 dias-multa, em regime inicial fechado, por violação ao artigo 33, caput, da Lei n.11.343/2006, ocasião em que foi indeferido o direito de apelar em liberdade, considerando que ele permaneceu preso cautelarmente durante a instrução processual.
+Interposto recurso de apelação contra a sentença condenatória, a 7ª Câmara Criminal Tribunal de Justiça do Estado de São Paulo, embora tenha declarado a nulidade do feito desde o interrogatório e determinando, em consequência, a sua renovação e dos atos posteriores, manteve a prisão preventiva do paciente, por entender presentes os requisitos do artigo 312 do Código de Processo Penal.
+Os embargos de declaração opostos visando a revogação da custódia cautelar foram rejeitados.
+A defesa impetrou, então, habeas corpus perante o Tribunal de origem, onde questionou o indeferimento da substituição da prisão preventiva por medidas restritivas de direito do art. 319 do CPP. O mandamus, contudo, teve o seguimento negado, nos termos da seguinte ementa (e-STJ fl. 58):
+Habeas corpus - Paciente que se insurge contra a sua prisão preventiva, que foi mantida por decisão colegiada proferida por esta 7ª Câmara Criminal quando do julgamento do recurso de Apelação ofertado contra decisão que o condenou pela prática do delito de tráfico de drogas - Nos termos do art. 105, I, "c", da Constituição Federal, compete ao Superior Tribunal de Justiça o julgamento de "habeas corpus" contra decisão de Tribunal sujeito à sua jurisdição - Habeas corpus que não comporta seguimento, nos termos do art. 168, § 3º, do Regimento Interno deste Tribunal de Justiça.
+Na presente oportunidade, alega a defesa constrangimento ilegal ante o excesso de prazo, e a ausência de fundamentação idônea para a manutenção da constrição cautelar.
+Diante disso, pleiteia, liminarmente e no mérito, a concessão de ordem para revogar a prisão preventiva do paciente, com a aplicação de medidas cautelares diversas, se necessário.
+É o relatório. Decido.
+De plano, verifico que nesta Corte também houve a impetração do HC n. 674.853/SP, em favor do ora paciente, requerendo, igualmente, a revogação do decreto prisional, sob os mesmo fundamentos ora apresentados, cuja ordem não foi conhecida, por não haver nenhum constrangimento ilegal a ser sanado por esta Corte.
+Assim, por se tratar de mera reiteração, o presente writ não merece ser conhecido. Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N. 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n. 316.928/GO, DE MINHA RELATORIA, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015.
+2. Agravo regimental improvido (AgRg no RCD no HC n. 329.224/GO, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 1º/9/2015, DJe 22/9/2015).
+Ante o exposto, não conheço do mandamus.
+Intimem-se.
