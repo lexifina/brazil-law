@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+1. A ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do agravo.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno (fls. 328/334) apresentado contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO.
+O agravante sustenta, em suma, que impugnou todos os fundamentos adotados pela Corte de origem para a inadmissão do recurso especial.
+Acrescenta que a questão discutida é exclusivamente jurídica, sendo necessário o deferimento das diligências pleiteadas, não se podendo falar em incidência da Súmula 283/STF.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+1. A ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do agravo.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+O recurso não merece prosperar.
+Inicialmente, é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Constou da decisão que inadmitiu o recurso especial na origem:
+Compulsando os autos, verifica-se que a Turma Julgadora dirimiu a controvérsia posta em juízo, sob o entendimento de que:
+"No caso em espécie, o curador especial pretende a anulação da sentença para que seja possibilitado a expedição de ofício à Caixa Econômica Federal para que esta informe se os valores bloqueados o foram em conta poupança ou conta corrente para fins de futura alegação de impenhorabilidade dos bens.
+Entretanto, ao contrário de suas ponderações, a possibilidade de penhora constitui a regra e a impenhorabilidade a exceção, e, assim, incumbe ao executado, o ônus da prova quanto à existência de fato impeditivo do direito do autor, nos termos do art. 373, II do Código de Processo Civil.
+Neste contexto, caberia ao embargante comprovar que a penhora, do modo como efetuada, não poderia ter sido realizada.
+Por certo, sabe-se que o executado, na espécie dos autos, foi citado por edital e encontra-se representado por curador especial. No entanto, o fato de a curadoria especial não dispor de elementos fáticos para saber qual o tipo de conta bancária que incidiu o bloqueio judicial não aparenta justificar a expedição de ofício do modo requerido.
+A propósito, a dificuldade de visualização do contexto fático pelo curador especial o desonera de impugnar de forma especificada os fatos, nos termos do parágrafo único do art. 341 do Código de Processo Civil" (Acórdão da Apelação Cível, documento eletrônico de ordem 54, págs. 02- 03 - g. n.)
+Essa deliberação, suficiente para manter o julgado, não foi eficazmente rebatida nas razões recursais, porquanto o recorrente não logrou trazer aos autos melhores razões que as declinadas pela Turma Julgadora, deixando, assim, de demonstrar o suposto desacerto da dicção contida no acórdão recorrido, o que atrai a incidência do Enunciado nº 283 da Súmula do Supremo Tribunal Federal, a impossibilitar o trânsito almejado.
+Com efeito, da análise do agravo em recurso especial observa-se que o agravante limitou-se a reiterar os termos do recurso especial não impugnando o fundamento adotado na decisão que inadmitiu o recurso especial na origem, no que tange à impossibilidade de manejo do especial para discutir matéria de prova, o que atrai a incidência da Súmula 7/STJ.
+No mesmo sentido:
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/1973. ENUNCIADO ADMINISTRATIVO Nº 2. PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS (SÚMULA 182 do STJ). PIS/PASEP E COFINS. BASE DE CÁLCULO. RECEITA OU FATURAMENTO. INCLUSÃO DO ICMS. TEMA JÁ JULGADO EM SEDE DE RECURSO REPRESENTATIVO DA CONTROVÉRSIA.1. Não tendo sido admitido o recurso especial na origem, com base em entendimento consolidado no âmbito deste Superior Tribunal de Justiça, incumbe à agravante demonstrar, no agravo de instrumento, que a orientação jurisprudencial não está pacificada no mesmo sentido do acórdão recorrido, e não simplesmente reiterar as razões do recurso denegado ou alegar que o Presidente do Tribunal a quo não poderia adentrar o mérito recursal. Incide na espécie, por analogia, a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 2. Este Superior Tribunal de Justiça, no julgamento do recurso representativo da controvérsia REsp. n. 1.144.469 - PR (Primeira Seção, Rel. Min. Napoleão Nunes Maia Filho, Rel. p/acórdão Min. Mauro Campbell Marques, julgado em 10.08.2016), firmou as teses de que: a) "O valor do ICMS, destacado na nota, devido e recolhido pela empresa compõe seu faturamento, submetendo-se à tributação pelas contribuições ao PIS/PASEP e COFINS, sendo integrante também do conceito maior de receita bruta, base de cálculo das referidas exações"; e b) "O artigo 3º, § 2º, III, da Lei n.º 9718/98 não teve eficácia jurídica, de modo que integram o faturamento e também o conceito maior de receita bruta, base de cálculo das contribuições ao PIS/PASEP e COFINS, os valores que, computados como receita, tenham sido transferidos para outra pessoa jurídica". 3. Agravo regimental não provido. (AgRg no AREsp 287.296/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/12/2016, DJe 19/12/2016)
+Assim, aplica-se o disposto no art. 932, III, do CPC/2015, c/c o princípio estabelecido na Súmula 182/STJ, os quais determinam o não conhecimento do agravo em recurso especial que não ataca especificamente os fundamentos da decisão agravada.
+A corroborar esse entendimento, destaca-se:
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO QUE DEIXA DE IMPUGNAR OS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. SÚMULA Nº 182/STJ. 1. Fundada a inadmissão do recurso especial na incidência dos enunciados nºs 284 e 400 da Súmula do Supremo Tribunal Federal e 7 da Súmula deste Superior Tribunal de Justiça, bem como em que o dissídio jurisprudencial alegado não restou demonstrado, imperioso faz-se o não conhecimento do agravo de instrumento em que apenas se afirma que a divergência jurisprudencial restou demonstrada e que é suficiente a indicação de ofensa à legislação federal para que o recurso especial seja admitido. 2. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (Súmula do STJ, Enunciado nº 182). 3. Agravo regimental improvido. (AgRg no Ag 777.658/RJ, 6ª Turma, Rel. Min. Hamilton Carvalhido, DJ de 26.2.2007)
+Diante do exposto, nego provimento ao agravo interno.
+É o voto.
