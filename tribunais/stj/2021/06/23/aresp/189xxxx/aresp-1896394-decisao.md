@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOSÉ ALMINO DE ARAÚJO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, assim resumido:
+PROCESSO CIVIL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA. POSTERGAÇÃO DO PAGAMENTO DAS CUSTAS PROCESSUAIS AO FINAL DA DEMANDA. POSSIBILIDADE. RECURSO PARCIALMENTE PROVIDO.
+1. In casu, no que toca ao indeferimento do pedido de gratuidade judiciária, não parecem razoáveis e relevantes as alegações do agravante, pois, compulsando os autos, vê-se que a decisão guerreada não foi proferida de forma açodada, eis que respeitou o novel procedimento previsto no CPC quando determinou ao recorrente que demonstrasse, através de documentos hábeis, a sua insuficiência de recursos.
+2. De fato, o julgador pode indeferir os benefícios, contudo, não poderá fazê-lo liminarmente, conforme determina o art. 99, §2º, do CPC/2015. Deverá, antes, oferecer oportunidade à parte para comprovação documental da condição alegada, o que ocorreu no vertente caso.
+3. Entretanto, diante da complexidade do feito e dos valores discutidos, hei por bem ressalvar, sobretudo em observância aos princípios do acesso à justiça e ao devido processo legal, na medida em que, no meu entender, é cabível a postergação do pagamento das custas processuais para o final da demanda.
+4. Em que pese o Código de Processo Civil determinar o adiantamento das custas judiciais iniciais pela parte autora, em casos excepcionais como o do caso em tela, a jurisprudência pátria admite o diferimento das custas processuais para o final do processo, ante a razoabilidade e proporcionalidade da medida, sob pena de vedar o acesso à Justiça.
+5. Recurso parcialmente provido.
+Quanto à controvérsia, alega violação dos arts. 98 do CPC e 5º, XXXV, da CF/88, relativo à concessão do benefício da gratuidade de justiça, trazendo o seguinte argumento:
+Ora, Ilustríssimos Ministros, o acórdão proferido pelo juízo ad quem está claramente excluindo o direito da parte Apelante de ter seu pleito apreciado pelo Poder Judiciário.
+Observa-se no caso em comento que a parte recorrente comprovou devidamente que não possui condições de arcar com as custas processuais, anexando aos autos farta documentação comprovando tal fato.
+ ..
+É o fundamento do presente recurso a negativa de vigência a lei federal, qual seja, o supracitado Código de Processo Civil, Lei 13.105 de março de 2015, quando negou a parte recorrente os benefícios da justiça gratuita, posto que garantidos por esta referida lei. (fl. 92).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+7. In casu, no que toca ao indeferimento do pedido de gratuidade judiciária, não parecem razoáveis e relevantes as alegações do agravante, pois, compulsando os autos, vê-se que a decisão guerreada não foi proferida de forma açodada, eis que respeitou o novel procedimento previsto no CPC quando determinou ao recorrente que demonstrasse, através de documentos hábeis, a sua insuficiência de recursos. A propósito:
+ ..
+8. De fato, o julgador pode indeferir os benefícios, contudo, não poderá fazê-lo liminarmente, conforme determina o art. 99, §2º, do CPC/2015. Deverá, antes, oferecer oportunidade à parte para comprovação documental da condição alegada, o que ocorreu no vertente caso, como se verifica na decisão de fl. 56. (fls. 81, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
