@@ -1,0 +1,16 @@
+Habeas corpus. Alegada demora no julgamento de writ impetrado junto ao Superior Tribunal de Justiça. Manifesta ilegalidade ou teratologia não identificadas. Negativa de seguimento.
+    Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Cássio David Araújo em favor de Janiel Humberto de Queiroz, contra conduta omissiva do Relator do RHC 138.523/MG, Ministro Ribeiro Dantas, do Superior Tribunal de Justiça.
+    O paciente foi preso em flagrante delito, convertido o título em prisão preventiva, pela suposta prática do crime de homicídio qualificado (art. 121, § 2º, IV, do Código Penal) (evento 5).
+    No presente writ, o Impetrante alega, em síntese, demora injustificada da Corte Superior para o julgamento do RHC 138.523/MG. Aduz que os autos estão conclusos ao Relator, com o parecer ministerial, desde 19.02.2021, sem previsão de julgamento. Requer, em medida liminar e no mérito, a concessão da ordem de habeas corpus para determinar o imediato julgamento do RHC 138.523/MG pelo Superior Tribunal de Justiça.
+    É o relatório.
+    Decido.
+    Em consulta ao sítio eletrônico do Superior Tribunal de Justiça, verifico que o RHC 138.523/MG foi distribuído ao Ministro Ribeiro Dantas em 27.11.2020. A decisão que indeferiu a liminar foi publicada em 02.12.2020. Os autos retornaram conclusos para julgamento, com o parecer ministerial e com as informações prestadas pelo Juiz de primeiro grau, em 19.02.2021.
+    Ao exame dos autos, reputo não configurada a alegada demora no julgamento do referido recurso ordinário, distribuído na Corte Superior há 7 meses e com autos conclusos para julgamento há 4 meses. Na linha da orientação jurisprudencial desta Suprema Corte, ‘a quantidade de demandas em trâmite no órgão judicial, a complexidade e a natureza das causas postas em juízo são fatores que não podem ser ignorados nesse exame de regularidade do desenvolvimento do processo. Em suma, não há inércia ou excesso de prazo atribuíveis ao Poder Judiciário a justificar a intervenção desta CORTE na ordem de trabalhos do Superior Tribunal de Justiça. Por fim, qualquer juízo desta CORTE, enquanto não apreciadas pelo STJ as irresignações postas na presente impetração, implicaria supressão de instância e contrariedade à repartição constitucional de competências, o que não é admitido pela jurisprudência do STF (HC 196.351-AgR/RS, 1ª Turma, Rel. Min. Alexandre de Moraes, DJe 05.3.2021) e não se identifica, a princípio, uma tramitação heterodoxa do feito imputável apenas ao aparelho judiciário, tampouco configurada situação anômala que compromete a efetividade do processo ou desprezo estatal pela liberdade do cidadão (HC 142.177/RS, Rel. Min. Celso de Mello).
+    Ademais, ‘está sedimentado, em ambas as Turmas da Suprema Corte, que a demora no julgamento do writ impetrado ao Superior Tribunal de Justiça, por si só, não pode ser interpretada como negativa de prestação jurisdicional’ (HC 132.610-AgR/MS, Rel. Min. Dias Toffoli).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Encaminhe-se cópia desta decisão ao Ministro Relator do RHC 138.523/MG, no Superior Tribunal de Justiça
+    Publique-se.
+    Brasília, 23 de junho de 2021.
+Ministra Rosa Weber
+Relatora
