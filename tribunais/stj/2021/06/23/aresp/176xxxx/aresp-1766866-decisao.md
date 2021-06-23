@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos porLINCOLN TAYLOR FERREIRAcontra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Em suas razões recursais, a parte embargante alega omissão quanto à alegação de contradição entre as notas taquigráficas e o resultado do julgamento, de modo que não teria havido decisão a respeito dos arts. 8º, 11, 943 e 944 do CPC e que igualmente a decisão embargada estaria omissa na análise dos arts. 421, 997, 999 e 1031, §§ 1º e 2º do CC.
+É O BREVE RELATÓRIO.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+Na hipótese dos autos, no que se trata da apontada omissão quanto à manifestação a respeito dos arts. 421, 997, 999 e 1031 do CC, não há que se falar no referido vício.
+Com efeito, a decisão embargada, ao tratar do tema da necessidade da apuração de haveres, aplicou os óbices das Súmulas 283/STF e 7/STJ. Isso porqueum dos fundamentos do acórdão recorrido, qual seja, o de que é dispensável a apuração de haveres em razão de se tratar de ação de indenização e não de dissolução de sociedade,não teria sido devidamente combatido nas razões recursais, bem como ante a necessidade do revolvimento probatório dos autos quanto à prescindibilidade da apuração de haveres.
+Contudo, no que se refere à alegada omissão quanto aos arts.8º, 11, 943 e 944 do CPC, assiste parcial razão ao embargante. Por certo,embora a alegação de negativa de prestação jurisdicional relativa ao tema da necessidade da juntada das notas taquigráficas ante a alegada ocorrência de contradição entre o voto proferido pelo relator e o acórdão publicado tenha sido integralmente afastada, ante a suficiente manifestação sobre o tema pela Corte local, não houve o enfrentamento direto às apontadas violações, razão pela qual passo a fazer.
+Primeiramente, as apontadas ofensas não merecem ser conhecidas ante a aplicação do óbice da Súmula 283/STF, uma vez que a Corte de origem, no julgamento dos embargos de declaração do ora embargante, aduziu que a intenção de degravação das notas taquigráficas deveria ser objeto de petição direcionada ao presidente da câmara, e não pedido a ser enfrentado em sede de embargos declaratórios.
+Ainda que superado este ponto, melhor sorte não merece o recurso quanto ao tema. Com efeito, a Corte de origem, no julgamento dos mesmos embargos de declaração, decidiu a respeito da regularidade do julgamento da apelação do embargante, afastando a ocorrência de qualquer contradição ou irregularidade no julgamento, de modo que rever tal conclusão demanda a reapreciação do conjunto probatórios dos autos, medida incabível em sede de recurso especial, nos termos da Súmula 7/STJ.
+Assim, conheço dos embargos de declaração, acolhendo-os parcialmente para sanar omissão quanto à análise da ofensa aos arts. 8º, 11, 943 e 944 do CPC, sem, contudo, atribuir-lhe efeitos infringentes, mantendo o desprovimento do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OCORRÊNCIA.FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. A existência de omissão na decisão embargada conduz ao acolhimento da pretensão.
+2.A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3.O reexame de fatos e provas em recurso especial é inadmissível.
+4. Embargos de declaração no agravo em recurso especial acolhidos em parte.
