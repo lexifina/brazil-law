@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICÍPIO DE SANTANA DE PARNAÍBA contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO ANULATÓRIA MULTA PODA IRREGULAR DE EXEMPLARES ARBÓREOS REALIZADA POR MORADOR DO LOTEAMENTO INDIVIDUALIZAÇÃO EFETUADA PELA AUTORA QUE NA QUALIDADE DE ASSOCIAÇÃO CIVIL DE MORADORES APLICOU MULTA PELO ATO ILÍCITO AUTUAÇÃO DA AUTORA PELA MUNICIPALIDADE - IMPERTINÊNCIA AUTUAÇÃO AMBIENTAL ANULADA INEXISTÊNCIA DE SOLIDARIEDADE PROCEDÊNCIA DO FEITO SENTENÇA MANTIDA POR SEUS FUNDAMENTOS ART 252 DO RITJSP RECURSO NÃO PROVIDO.
+Quanto à controvérsia, alega violação do Súmula n. 623 do STJ no que concerne a que a obrigação de reparar danos ambientais é propter rem, visto que a responsabilidade por esse dano é de natureza objetiva, de modo que a imposição ao poluidor da obrigação de reparar ou indenizar esse dano persiste, quanto a terceiro, mesmo sem culpa.
+É, no essencial, o relatório. Decido.
+Na espécie, não foi comprovada a divergência jurisprudencial, uma vez que não cabe alegação de dissídio com súmula, ainda que vinculante, mas apenas com os julgados que lhe deram origem.
+Nesse sentido: "não é admissível a realização do cotejo analítico com súmula, mas apenas com os julgados que a originaram". (AgInt no REsp 1.681.656/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 27/6/2019.)
+Confiram-se ainda os seguintes precedentes: AgRg no REsp 1.293.337/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/11/2016; AgInt no AREsp 959.727/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 20/10/2016; e AgRg no AREsp 468.219/RS, relator Ministro Sidnei Beneti, Terceira Turma, DJe de 13/6/2014.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
