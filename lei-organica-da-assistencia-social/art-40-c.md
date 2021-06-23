@@ -1,0 +1,1 @@
+Art. 40-C. Os eventuais débitos do beneficiário decorrentes de recebimento irregular do benefício de prestação continuada ou do auxílio-inclusão poderão ser consignados no valor mensal desses benefícios, nos termos do regulamento.
