@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de Goiás cuja ementa é a seguinte:
+EMENTA: AGRAVO DE INSTRUMENTO. AÇÃO MONITÓRIA EM FASE DE CUMPRIMENTO SENTENÇA. IMPUGNAÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS. MATÉRIA ALHEIA AO OBJETO DO RECURSO. RATIFICAÇÃO. PRESCINDIBILIDADE. TEMA 810. SOBRESTAMENTO. DESNECESSIDADE. FAZENDA PÚBLICA. JUROS E CORREÇÃO MONETÁRIA INCIDENTES SOBRE A CONDENAÇÃO. COISA JULGADA. IMUTABILIDADE. INOVAÇÃO RECURSAL.
+1. O Agravo de Instrumento deve limitar-se ao exame do acerto ou desacerto do que ficou decidido no ato judicial atacado, sob pena de supressão de instância.
+2. Embora tenham sido acolhidos os embargos de declaração opostos pela parte contrária, o decisum foi alterado somente na parte em que versa sobre honorários advocatícios, não alcançando a matéria objeto do recurso, razão pela qual se torna desnecessária a ratificação dos termos recursais.
+3. Não há que se falar em sobrestamento da demanda até julgamento do Tema 810 pelo STF, porquanto encerrada a tramitação do Recurso Extraordinário, o que torna prejudicada aludida pretensão.
+4. Os parâmetros de juros e correção monetária fixados na sentença transitada em julgado não são passíveis de modificação, sob pena de violação ao princípio da segurança jurídica e a imutabilidade da sentença, conf. precedentes do c. STJ, em sede de recursos repetitivos.
+5. Ademais, não discutida a questão na decisão agravada, impossível sua apreciação neste recurso, sob pena de supr essão de instância, configurando inovação recursal. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, a recorrente aponta ofensa ao art. 1º - F da Lei 9.494/97, bem como divergência jurisprudencial.
+Sustenta, em síntese, que:
+Destarte, equivocada a decisão recorrida, uma vez que não utilizou o parâmetro aplicado à caderneta de poupança, gerando um consequente excesso de execução.
+Nessa linha, deve ser reformado o acórdão recorrido, para que os juros e a correção sejam calculados sob o índice aplicado à poupança a partir da citação completa do requerido, aqui recorrente.
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 291/292, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal de origem decidiu que:
+O Agravante pretende a alteração do índice de correção monetária aplicado à condenação, em confronto com o título transitado em julgado que determina a incidência do INPC, assim como os juros de mora, estabelecidos conf. determina o art. 1º-F da Lei n. 9.494/97 (mov. nº 14, proc. originário); requerendo a incidência do TR - BACEN até 25/3/2015 (data da modulação dos efeitos das ADIs nºs 4357/DF e 4425/DF) e, depois, pelo IPCA-E.
+Em que pese a prevalência do entendimento firmado no julgamento do RE 870.947 pelo Supremo Tribunal Federal (Tema 810), tenho que o Agravante não se insurgiu quanto a este ponto, no momento oportuno, deixando a sentença exequenda transitar em julgado, em 19.06.2018 (mov. nº 19 do proc. originário).
+Com efeito, as matérias de ordem pública podem ser suscitadas em qualquer momento processual, desde que pendente a causa de julgamento.
+In casu, estabilizada a questão, com o trânsito em julgado, não é possível a mudança de critério de juros e correção monetária, expressamente fixados, em homenagem ao princípio da segurança jurídica e a imutabilidade da sentença.
+Da leitura da petição do recurso especial, percebe-se que tal fundamento, hábil à manutenção do julgado, não restou infirmado pela recorrente, o que atrai o óbice da Súmula 283/STF, aplicável por analogia, que dispõe, in verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Vale destacar que o princípio da dialeticidade recursal impõe ao recorrente o ônus de evidenciar os motivos de fato e de direito suficientes à reforma do acórdão recorrido, trazendo à baila novas argumentações capazes de infirmar todos os fundamentos do decisum que se pretende modificar, sob pena de vê-lo mantido por seus próprios fundamentos.
+Confiram-se os seguintes precedentes:
+ADMINISTRATIVO. PROCESSUAL CIVIL. PEDIDO GENÉRICO. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS SUFICIENTES. INCIDÊNCIA DA SÚMULA 283/STF. PEDIDO GENÉRICO. PECULIARIDADES DO CASO. REEXAME. SÚMULA 7/STJ. VERIFICAÇÃO DO INTERESSE DE AGIR. REALIZAÇÃO DE OBRAS. SÚMULA 7/STJ.
+1. No caso dos autos, os argumentos do acórdão recorrido não enfrentados são suficientes para manter o decisum recorrido, o que atrai na espécie, por analogia, o óbice da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+2. O Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, ao negar provimento às apelações, entendeu por manter a sentença de extinção do feito tendo em vista que o pedido constante da inicial é genérico, o que conduz à inépcia da inicial. Modificar o acórdão recorrido demandaria a incursão na seara fático-probatória constante dos autos, o que é vedado a teor do disposto na Súmula 7/STJ.
+3. Por fim, quanto à alegação da parte recorrente de que foi "constatado - com demonstram os documentos de fls. 13/29 - que a UFRJ não tem realizado qualquer obra de conservação no referido imóvel, tendo em vista o estado de conservação em que se constatou estar o imóvel", a Corte de origem asseverou que tais obras ocorreram. Dessa forma, averiguar se de fato foi realizada alguma obra demandaria a análise dos fatos e provas trazidas aos autos, o que novamente encontra óbice na Súmula 7/STJ.
+Agravo regimental improvido. (AgRg no REsp 1376352/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 13/05/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. INDEFERIMENTO DA INICIAL. AUSÊNCIA DE DOCUMENTAÇÃO INDISPENSÁVEIS. REVISÃO. SÚMULA 7/STJ. FUNDAMENTO DO ACÓRDÃO DE QUE FORAM CONCEDIDAS MAIS DE UMA OPORTUNIDADE PARA SUPRESSÃO DA IRREGULARIDADE NÃO IMPUGNADO. APLICAÇÃO DA SÚMULA 283/STF.
+I - In casu, rever o entendimento do Tribunal de origem, quanto à documentação indispensável à propositura da ação, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+II - A falta de combate a fundamento suficiente para manter o acórdão recorrido - de foram concedidas mais de uma oportunidade para a supressão da irregularidade, antes do indeferimento da inicial - justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+III - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+IV - Agravo Regimental improvido. (AgRg no AREsp 607.618/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 11/05/2015)
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. DIREITO DAS SUCESSÕES. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. IMPOSSIBILIDADE DE INVERSÃO DO JULGADO. NECESSIDADE DE AMPLA DILAÇÃO PROBATÓRIA. SÚMULA Nº 7 DO STJ. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Os recorrentes deixaram de impugnar fundamentos suficientes, por si sós, para manter o acórdão recorrido, o que atrai o óbice da Súmula nº 283 do STF.
+2. Se a análise da alegação recursal demanda o reexame do conjunto fático-probatório, não pode este Tribunal apreciar o inconformismo a teor da sua Súmula nº 7.
+3. Recurso especial a que se nega provimento. (REsp 1488870/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 12/05/2015)
+Cumpre esclarecer que oóbiceaplicadoimpedeo conhecimento do recurso por quaisquer das alíneas do permissivo constitucional.
+Diante do exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO NAS RAZÕES RECURSAIS. ÓBICE DA SÚMULA 283/STF (POR ANALOGIA). AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
