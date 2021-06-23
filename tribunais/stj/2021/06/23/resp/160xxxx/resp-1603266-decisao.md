@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial manejado pela União, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado(fl. 170):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. DENTISTA. GRATIFICAÇÃO DE RAIOS X. ADICIONAL DE INSALUBRIDADE. CUMULAÇÃO.
+POSSIBILIDADE.
+1. A Lei nº 1.234, de 14/11/1950, dispõe que o adicional será devido ao servidor que opere diretamente com os raios X. A lei foi regulamentada pelo Decreto nº 81.384, de 22/02/1978, que estabeleceu os requisitos para o deferimento do direito, elencando, de igual forma, a operação direta, obrigatória e habitual com raios X, por um período mínimo de 12 horas semanais, como parte integrante das atribuições do cargo ou função exercida (art. 4º).
+2. Quanto à cumulação de gratificação de raio X e adicional de insalubridade, a jurisprudência tem entendido que a gratificação de raio X possui natureza diversa dos adicionais de insalubridade e de periculosidade, não incidindo, portanto, a vedação contida no §1º do art. 68 da Lei nº 8.112/90.
+Opostos embargos declaratórios, foram parcialmente acolhidos (fl. 255)
+Em suas razões, indica, preliminarmente, ofensa ao artigo 535 do CPC/73, alegando que o Tribunal de origem, mesmo provocado em sede de embargos declaratórios, foi omisso quanto ao exame de questões relevantes para o correto deslinde da controvérsia.
+Quanto ao mérito, apontaviolação aos artigos 1º, 8º e 9º do Decreto 20.910/32 e 68,§ 1º, da Lei 8.112/90, sustentando ter ocorrido a prescrição, bem assim que o autor não fas jus à perpecção cumuladado adicional de insalubridade e do adicional de raio x, pois "tanto um quanto outro, possui natureza nitidamente indenizatória. Sobre o assunto, a Lei nº 8.112/1990"
+Por meio da decisão de fl. 7403, determinou-se o sobrestamento do feito até o julgamento do Tema repetitivo 905/STJ.
+A Corte Regioanl, em juízo de retratação, adequou o acórdão recorrido ao quanto decidido pelo STJ no tema repetitivo número 905 e 810 da Repercussão Geral (fls. 454/456)/
+Nada obstante, a Presidência do Tribunal de origem admitiu o recurso especial em razão da existência de questões remanescentes ventiladas no apelo especial (fl. 486/487)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Como antes relatado, em relação aos critérios de correção monetária e e juros de mora previstos na Lei 11.960/09, o Tribunal de origem execeru o juízo de rtratação para adequar o acórdão recorrido ao que restou decidido no Tema 905/STJ e 810/STF, ficando, quanto ao ponto, prejudicado o apeloespecial.
+Dito isso, verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto ao mais, melhor sorte não assiste à parte recorrente.
+Em relação ao prazo prescricinal, colhe-se da fundamentação do aresto hostilizado o seguinte excerto:
+Não se verificou, no caso, a prescrição do fundo de direito, visto ter o autor formulado requerimento administrativo em 24.11.2005 (fl. 23) e ação ter sido ajuizado em 27.09.2009, portanto quando ainda não transcorrido o prazo prescricional. 3) O prazo prescricional de dois anos previsto no art. 206, §2º do Código Civil não se aplica em relação aos prazos prescricionais em face da Fazenda Pública, persistindo, em relação a esta, o prazo prescricional de 5 anos, nos termos do art. 1º do Decreto 20.910/32, por se cuidar de lei especial em relação ao citado dispositivo do Código Civil.
+Assim, verifica-se que a parda Corte de origem não ter examinado a controvérsia sobre a possível interrupção do prazo prescricional em razão do pedido administrativo, orecurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, a inaplicabilidade do prazo previsto no artigo 206,§ 2º, do Código Civil,esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".A respeito do tema:AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/02/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/02/2021.
+Quanto ao mérito, o aresto regional nãodestoa da orientação jurisprudencial deste Superior Tribunal, firme no sentido de que não há óbice ao recebimento do adicional de insalubridade em grau médio, cumulado com a gratificação por trabalhos com raios X e com o adicional de irradiação ionizante, enquanto presentes as circunstâncias especiais que lhes dão ensejo (AgRg no REsp 1107616/RS, relator Ministro Rogério Schietti Cruz, DJe 2/2/2016).
+A propósito, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDORES PÚBLICOS. GRATIFICAÇÃO DE RAIO X E ADICIONAL DE IRRADIAÇÃO IONIZANTE. ACUMULAÇÃO. POSSIBILIDADE. NATUREZAS JURÍDICAS DISTINTAS.
+1. O art. 68, § 1º, da Lei nº 8.112/90, veda a percepção cumulativa dos adicionais de insalubridade e periculosidade, nada dispondo acerca da impossibilidade de cumulação de gratificações e adicionais.
+2. O Superior Tribunal de Justiça já se manifestou no sentido de ser possível a percepção cumulativa do adicional de irradiação ionizante e da gratificação de Raio X, por possuírem naturezas jurídicas distintas.
+3. Agravo regimental improvido.
+(AgRg no REsp 1243072/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 09/08/2011, DJe 16/08/2011)
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDORES PÚBLICOS. CIRURGIÕES-DENTISTAS. ADICIONAL DE INSALUBRIDADE. GRATIFICAÇÃO DE RAIO X. ACUMULAÇÃO. POSSIBILIDADE. AGRAVO IMPROVIDO.
+1. É possível a percepção cumulativa do adicional de insalubridade e da gratificação de raio X, pois o que o art. 68, § 1º, da Lei 8.112/90 proíbe é a cumulação dos adicionais de insalubridade e periculosidade, nada prevendo quanto à cumulação de gratificações e adicionais, vantagens que não podem ser confundidas. Precedentes do STJ.
+2. Agravo regimental improvido.
+(AgRg no REsp 951.633/RS, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 04/12/2008, DJe 02/02/2009).
+ANTE O EXPOSTO, nego provimento ao recurso especial.
+Publique-se.
