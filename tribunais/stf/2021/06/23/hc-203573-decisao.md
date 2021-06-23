@@ -1,0 +1,32 @@
+DECISÃO:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Brendon Lucas da Silva, no qual se aponta como autoridade coatora o Ministro Sebastião Reis Júnior, que indeferiu liminarmente a inicial do HC nº 674.148/SP.
+    Depreende-se dos autos que o paciente foi condenado à pena de 05 anos, 06 meses e 20 dias de reclusão e 555 dias-multa, no mínimo legal, pelo crime previsto no artigo 33, caput, da Lei nº 11.343/06, em regime inicial fechado.
+    Os impetrantes dizem indevidos o afastamento da causa de redução do § 4º do art. 33 da Lei nº 11.343/06 e o aumento da pena-base com fundamento na quantidade de drogas apreendida.
+    Apontam a ocorrência de bis in idem, pois o juízo de origem e o Tribunal local teriam se valido da natureza e quantidade das drogas na primeira e na terceira fases da dosimetria, para aumentar a pena-base e obstar a aplicação da citada causa de redução.
+    Aduzem, ainda, que seria o caso de alteração do regime inicial de cumprimento da pena e, reconhecido o redutor, de substituição da pena privativa de liberdade por restritiva de direitos.
+    Requerem, liminarmente, a concessão da ordem para que:
+    “1. Seja aplicado o REDUTOR PREVISTO NO ARTIGO 33, §4º, DA LEI 11.343/06, ante a primariedade do paciente, os bons antecedentes, bem como a ausência de fatos concretos que indique a dedicação do mesmo à atividade criminosa; bem como pelo fato que a quantidade de drogas foi valorada na primeira fase da dosimetria da pena.
+    2. Seja fixado regime aberto ou, ao menos, regime semiaberto – em observância a quantidade da pena aplicada e a primariedade do paciente, nos termos do artigo 33, §§2º e 3º, do Código Pena, convertendo-se a pena privativa de liberdade em restritivas de direitos, nos moldes do artigo 44 do CP;
+    3. Se for o caso, requeiro que se conceda a ordem de ofício nos termos do artigo 6547 ·, parágrafo 2º do Código de Processo Penal, para o mesmo fim.”
+    Examinados os autos, decido.
+    Ressalto, inicialmente, que a impetração volta-se contra decisão singular proferida nos autos do HC nº 674.148/SP. Portanto, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14).
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros. Confira-se, ainda, as seguintes decisões monocráticas: HC nº 189.920/SP, Relator o Ministro Luiz Fux, DJe de 24/8/20; HC 185.310/RJ, Relatora a Ministra Cármen Lúcia, DJe de 18/5/20; e HC nº 171.024/SP, Relator o Ministro Edson Fachin, DJe de 10/6/19.
+    De qualquer modo, registro que a decisão questionada está assim fundamentada, na parte que interessa:
+    “Com efeito, busca a impetração a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, ao argumento da ocorrência de bis in idem, uma vez que as instâncias ordinárias teriam considerado a natureza e a quantidade de droga apreendida em duas etapas do critério trifásico, bem como do adimplemento dos requisitos necessários para tanto.
+    Ocorre que, da atenta análise dos autos observa-se que, na terceira etapa do critério trifásico, não foi levada em consideração apenas a quantidade de droga apreendida, mas outras circunstâncias que, somadas, denotariam a dedicação a atividades criminosas (ausência de vínculo empregatício, tentativa de levar a droga para outro estado da Federação, existência de circunstâncias que demonstrariam poder e prestígio no mundo criminoso), de modo que, alcançar conclusão inversa, demandaria reexame de provas.
+    Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.”
+    Verifica-se, portanto, que a negativa de aplicação da causa especial de redução da pena, prevista no § 4º do art. 33 da Lei de Drogas, está consubstanciada na conclusão de que o paciente se dedicava à atividade criminosa.
+    É firme a jurisprudência deste Supremo Tribunal no sentido de que, “[s]e as circunstâncias concretas do delito ou outros elementos probatórios revelam a dedicação do paciente a atividades criminosas, não tem lugar o redutor do § 4º do art. 33 da Lei 11.343/2006.” (HC nº 123.042/MG, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 31/10/14)
+    Ademais, se a instância ordinária, soberana na análise da prova, concluiu que o paciente se dedicava à atividade criminosa para negar a incidência da causa especial de redução de pena, para se chegar a uma conclusão diversa, necessário seria o reexame de fatos e provas que o habeas corpus não comporta.
+    De acordo com o entendimento da Corte é inviável a utilização do habeas corpus para se revolver o contexto fático probatório e glosar os elementos de prova que ampararam aquela conclusão. Nesse sentido: RHC nº 105.150, Primeira Turma, Relator o Ministro Dias Toffoli, DJe de 4/5/12; RHC nº 121.092/SP, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 12/5/14; HC nº 118.602/SP, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 11/3/14; e o HC nº 111.398/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 3/5/12.
+    No tocante ao suposto bis in idem, a autoridade coatora destacou que não se verifica a sua existência, porque,
+    “da atenta análise dos autos observa-se que, na terceira etapa do critério trifásico, não foi levada em consideração apenas a quantidade de droga apreendida, mas outras circunstâncias que, somadas, denotariam a dedicação a atividades criminosas (ausência de vínculo empregatício, tentativa de levar a droga para outro estado da Federação, existência de circunstâncias que demonstrariam poder e prestígio no mundo criminoso).”
+    Por fim, as questões relacionadas à fixação do regime inicial não foram analisadas pelo STJ no ato decisório questionado, estando caracterizada a supressão de instância.
+    Ausente constrangimento ilegal, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 23 de junho de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
