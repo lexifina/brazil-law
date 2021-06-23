@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de BRUNO LUIS DE SOUZA GOMES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento do Agravo em Execução n. 0002787-89.2021.8.26.0026 .
+Consta dos autos que a defesa do paciente requereu a retificação do cálculo das penas visando à progressão de regime para que fosse utilizado percentual de 40% (quarenta por cento) sob o argumento de que a alteração legislativa trazida pela Lei 13.964/19 (pacote anticrime) lhe seria mais favorável. O pedido foi deferido pelo Juízo singular.
+Irresignado, o Ministério Público interpôs agravo em execução perante a Corte de origem, que deu provimento ao recurso, nos termos do acórdão assim ementado:
+"AGRAVO EM EXECUÇÃO Cálculo de penas Sentenciado reincidente que cometeu delito hediondo ou equiparado Aplicação do art. 112, inciso VII, da Lei de Execução Penal, com a redação dada pela Lei nº 13.964/2019 Dispositivo que não faz distinção entre reincidência comum ou específica Inciso V do mesmo artigo que exige a primariedade Lógica adequada à orientação jurisprudencial e ao contexto da criação do Pacote Anticrime Precedentes Recurso provido" (fl. 20 ).
+Na presente impetração, sustenta a impetrante a ocorrência de constrangimento ilegal por ter o Tribunal de Justiça estadual reformado a decisão primeva que deferiu a retificação do cálculo de liquidação de pena, utilizando, para tanto, a fração de 3/5 (três quintos) para a progressão de regime em confronto à norma aplicável à espécie - Lei n. 13.964/19.
+Argumenta que, embora seja o apenado reincidente, não se trata de reincidência específica. Destarte, afirma que o lapso aplicável ao caso é de 40% (quarenta por cento) para progressão de regime, equivalente a fração de 2/5 (dois quintos).
+Requer, em liminar e no mérito, que seja reconhecida a incidência do disposto no inciso V do artigo 112 da LEP com redação dada pela Lei n. 13.964/2019, determinando-se a aplicação da fração de 40% (quarenta por cento) no cálculo de penas do paciente, porquanto reincidente simples.
+É o relatório.
+Decido.
+O writ, conquanto impetrado por profissional legalmente habilitada, está deficientemente instruído. Não foi juntada aos autos a cópia da decisão proferida pelo Juízo da execução que concedeu a retificação do cálculos das penas , documento essencial à exata compreensão da controvérsia e ao exame da plausibilidade do pedido.
+Cabe ressaltar que, em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração. Nesse sentido, confiram-se os seguintes precedentes, entre outros:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. ACÓRDÃO OBJURGADO INEXISTENTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL IN CASU. LEGITIMIDADE LIMITADA DO ASSISTENTE DE ACUSAÇÃO. NO MAIS, NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. OFENSA À SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No presente caso, anteriormente explicado que a falta do acórdão objurgado impede a devida apreciação da controvérsia.
+III - Assente na jurisprudência desta eg. Corte Superior que a impetração deve vir adequadamente instruída desde a inicial, o que não destoa do entendimento do col. Supremo Tribunal Federal, que, aqui, exemplificativamente, colaciono: "Constitui ônus processual do impetrante do habeas corpus produzir elementos documentais consistentes e pré-constituídos, destinados a comprovar as alegações veiculadas no writ, o qual possui rito sumaríssimo e não comporta, portanto, maior dilação probatória. (..) No habeas corpus, assim como no mandado de segurança, hão de ser apresentadas provas pré-constituídas do constrangimento ilegal imposto ao paciente" (HC n. 137.315, Segunda Turma. Rel. Min. Ricardo Lewandowski, DJe de 13/02/2017).
+ ..
+Agravo regimental desprovido.
+(AgRg no HC 634.746/PB, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 12/02/2021)
+PEDIDO DE RECONSIDERAÇÃO NO HABEAS CORPUS. RECEBIMENTO COMO AGRAVO REGIMENTAL. INSTRUÇÃO DEFICIENTE. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. PLEITO NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.
+3. As informações juntam a cópia integral do documento faltante - que a defesa alegava ter sido exarado de forma incompleta, sem comando final, e levado à expedição de mandado de prisão -, mas, ao mesmo tempo, noticiou a existência de outra decisão (que analisou pedido de revogação da prisão preventiva) não juntada aos autos pela defesa, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental. Pleito não provido.
+(RCD no HC 620.486/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 24/11/2020).
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL E NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.
+2. A inicial do writ não veio acompanhada da cópia do acórdão proferido por ocasião do julgamento da apelação, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+3. Pedido de reconsideração recebido como agravo regimental. Agravo não provido.
+(PET no HC 584.863/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 17/06/2020).
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimações necessárias.
