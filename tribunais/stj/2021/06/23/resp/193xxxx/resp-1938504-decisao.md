@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fls. 218-219):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. CONCESSÃO DE DOIS PERÍODOS DE TRINTA DIAS DE FÉRIAS NO MESMO ANO. POSSIBILIDADE. ARTIGO 77 DA LEI Nº 8.112/1990.APELAÇÃO.DESPROVIMENTO.
+Apelação/Remessa Necessária em face de Sentença proferida pelo MM. Juiz Federal da 8ª Vara da Seção Judiciária do Ceará que julgou procedente o pedido para determinar que a União assegure a concessão do gozo das férias do autor ainda durante o respectivo período aquisitivo, em data a ser programada pelamesma, independentemente disso implicar na fruição de dois períodos de férias no mesmo ano.
+O artigo 77 da Lei nº 8.112/1990 dispõe que o servidor fará jus a 30 (trinta) dias de férias, que podem ser acumuladas, até o máximo de dois períodos, no caso de necessidade do serviço, ressalvadas as hipóteses em que haja legislação específica.
+Apenas para o primeiro período aquisitivo de férias serão exigidos 12 (doze) meses de exercício, conforme parágrafo primeiro do mencionado artigo. Logo, a partir do primeiro período de férias, é possível ao servidor público usufruir do descanso remunerado relativo a período aquisitivo ainda em curso.
+Com efeito, não há vedação legal ao gozo de 60 (sessenta) dias de férias no mesmo ano (2 períodos de 30 dias), sendo certo que mera orientação normativa não tem o condão de criar restrição não imposta legalmente, sendo essa a hipótese dos autos, razão pela qual deve ser mantida a Sentença.
+Quanto aos Honorários Recursais, ante o não provimento da Apelação, majora-se a condenação em Honorários Advocatícios, a título de Honorários Recursais (art. 85, parágrafo 11, do CPC/2015), em 2%.
+Desprovimento da Apelação.
+Embargos de declaração não acolhidos.
+Nas razões de sua irresignação, a recorrente aponta preliminarmente violação doartigo1.022do CPC/2015, apontando nulidade do acórdão recorrido. No mérito, sustenta ofensa aos artigos 77 e 78, § 3º, da Lei nº 8.112/1990, ao argumento de que "a concessão de duas férias de trinta dias no mesmo exercício, salvo em decorrência de acumulação por necessidade do serviço, é ilegal" (fl. 246).
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 324.
+É o relatório. Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+Feito esse destaque, passa-se a análise das alegações.
+De início, não se conhece da alegada violação do artigo 1.022 do CPC/2015, porquanto a parte recorrente aponta, genericamente, ser nulo o acórdão recorridoquanto à apreciação de dispositivode lei federal, sem, contudo, demonstrar especificamente sua relevância para o julgamento do feito. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF. Nesse sentido: REsp n. 1.825.179/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/05/2020.
+Cabe ainda ressaltar que a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto" (AgInt no AREsp 1.344.268/SC, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 14/2/2019). Nesse mesmo sentido: AgInt no REsp 1.689.834/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 10/09/2018; AgInt no AREsp 1.079.824/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 07/03/2018; AgInt no AREsp 1.653.798/GO, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 03/03/2021; AgInt no AREsp 753.635/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 01/07/2020; AgInt no REsp 1.876.152/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 11/02/2021.
+No que diz respeito ao artigo 78, § 3º, da Lei nº 8.112/1990 (e a tese a ele vinculada), verifica-se que, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 282/STF.
+No mais, a Corte de origem a firmou compreensão de que (fl. 218, grifo acrescido):
+ ..
+O artigo 77 da Lei nº 8.112/1990 dispõe que o servidor fará jus a 30 (trinta) dias de férias, que podem ser acumuladas, até o máximo de dois períodos, no caso de necessidade do serviço, ressalvadas as hipóteses em que haja legislação específica.
+Apenas para o primeiro período aquisitivo de férias serão exigidos 12 (doze) meses de exercício, conforme parágrafo primeiro do mencionado artigo. Logo, a partir do primeiro período de férias, é possível ao servidor público usufruir do descanso remunerado relativo a período aquisitivo ainda em curso.
+Com efeito, não há vedação legal ao gozo de 60 (sessenta) dias de férias no mesmo ano (2 períodos de 30 dias), sendo certo que mera orientação normativa não tem o condão de criar restrição não imposta legalmente, sendo essa a hipótese dos autos, razão pela qual deve ser mantida a Sentença.
+Todavia, a partir da leitura dos trechos do acórdão recorrido, acima transcritos e grifados, verifica-se que a fundamentação nele expendida não foi especificamente impugnada nas razões do apelo especial, o que caracteriza deficiência na argumentação recursal. Com efeito, à míngua da devida impugnação, preservam-se incólumes os fundamentos aplicados no decisum vergastado, que se mostram capazes, por si só, de manter o resultado do julgamento ocorrido na Corte de origem, tornando inadmissível o recurso que não os impugnou. Incide ao caso as Súmulas 283 e 284/STF. Nesse sentido: AgInt no REsp 1.678.341/ES, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 8/5/2019.
+Percebe-se ainda que, além da ausência de impugnação à fundamentação retrocitada, a recorrente apresentou argumentos genéricos, vagos, inaptos a demonstrar efetivamente a suposta ofensa aos artigos 77 e 78, § 3º, da Lei nº 8.112/1990. Assim, as razões recursais revelam-se dissociadas dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+Outrossim, evidencia-se que os dispositivos legais indicados como malferidos não contêm comando normativo capaz de sustentar a tese deduzida e infirmar o juízo formulado pelo Tribunal a quo, que somente os aplicou em sua literalidade. Portanto, percebe-se que os referidos artigos não albergam a sustentação apresentada pela recorrente, o que atrai a aplicação analógica do enunciado sumular 284, da Suprema Corte.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC.
+DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. JUROS MORATÓRIOS NO CÔMPUTO DA BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DA SÚMULA N.
+83/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+ ..
+VII - Agravo Interno improvido. (AgInt no REsp 1.604.668/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 26/6/2019)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE.
+SÚMULA 284 DO STF. INCIDÊNCIA. DECRETO REGULAMENTAR. LEI FEDERAL.
+CONCEITO. NÃO ENQUADRAMENTO. DIVERGÊNCIA JURISPRUDENCIAL.
+DISPOSITIVO VIOLADO. INDICAÇÃO. AUSÊNCIA.
+ ..
+2. Estando a pretensão recursal dissociada dos argumentos do aresto recorrido, deve a fundamentação ser considerada deficiente, a teor da Súmula 284 do STF.
+ ..
+5. Agravo interno desprovido. (AgInt no REsp 1.626.238/PB, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 1/3/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC/73. INOCORRÊNCIA. EXECUÇÃO DE SENTENÇA. REAJUSTE DE 28,86% SOBRE OS ANUÊNIOS. INCIDÊNCIA, EXCETO SE A BASE DE CÁLCULO HOUVER SIDO REAJUSTADA PELO MESMO ÍNDICE. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+ ..
+VIII - Agravo Interno improvido. (AgInt no REsp 1.343.673/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 31/8/2018)
+Ante o exposto, não conheço do recurso especial, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ.
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (artigo 98, §3º, CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. VIOLAÇÃO DOARTIGO1.022 DO CPC/2015. ARGUMENTAÇÃO GENÉRICA. SÚMULA 284/STF. OFENSA AO ARTIGO 78, § 3º, DA LEI 8.1121990. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. CONCESSÃO DE DOIS PERÍODOS DE TRINTA DIAS DE FÉRIAS NO MESMO ANO. FUNDAMENTAÇÃO AUTÔNOMA NÃO IMPUGNADA. SÚMULAS 283 E 284 DO STF. ARGUMENTAÇÃO GENÉRICA E DISSOCIADA. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS COMO MALFERIDOS. SÚMULA 284/STF. RECURSO NÃO CONHECIDO.
