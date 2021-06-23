@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso interposto por LUIZ CARLOS PEREIRA DA SILVAcontra o acórdão doTRIBUNAL DE JUSTIÇA DE SÃO PAULOno HC n. 2207775-53.2020.8.26.0000.
+O recorrente requerseja convertida a prisão preventiva em prisão domiciliar (art. 318, II, do CPP, eRecomendação 62/2020 do CNJ), com a alegação de que estãocomprovadas a doença respiratória crônicae a ausência de tratamento na unidade prisional onde se encontra custodiado (CDP de São Vicente/SP).
+Contrarrazões às fls. 275/282, propondoque se julgue prejudicado o presente recurso em razão da superveniência de sentença penal condenatória e, quando não, o seu desprovimento.
+Pedido liminar indeferido e dispensadas as informações (fls. 293/294).
+Sobreveio pedido de reconsideração, com juntada de relatório produzido pelo Núcleo Especializado de Situação Carcerária da Defensoria Pública do Estado de São Paulo, a partir de inspeção no Centro de Detenção Provisória de São Vicente/SP, onde o recorrente está custodiado (fls. 297/339).
+O pedido de reconsideração foi indeferido e informações foram requeridas ao Juízo a quo (fl. 343).
+O Juízo de Direito da 3ª Vara Criminal da comarca de Cubatão/SP prestou informações acerca da situação do Processo n. 1502041-09.2020.8.26.0536 (fls. 357/361)e, quanto à atual situação do recorrente dentro do sistema prisional, teve o cuidado de repassar o pedido ao Juízo doDepartamento Estadual de Execução Criminal da 7ªRegião Administrativa Judiciária - DEECRIM da 7ªRAJ, onde tramita o respectivo Processo de Execução Criminal  PEC n.0003479-17.2020.8.26.0158 (fl. 381).
+O Ministério Público Federal opinou nos termos desta ementa (fl. 366):
+RECURSO EM HABEAS CORPUS. PROCESSO PENAL. CRIME DE TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N.º 11.343/2006). PLEITO DE SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR MEDIDAS CAUTELARES DIVERSAS EM RAZÃO DA PANDEMIA DA COVID-19. DESCABIMENTO.RECORRENTE QUE, EMBORA PERTENÇA AO GRUPO DE RISCO (BRONQUITE ASMÁTICA), DEMONSTROU ESTAR FAZENDO USO DA MEDICAÇÃO E ESTAR EM BOM ESTADO DE SAÚDE, NOS TERMOS DA RECOMENDAÇÃO N.º 62/2020 DO CNJ. TODAVIA, ÚLTIMA AVALIAÇÃO DA MEDIDA EXTREMA SE DEU HÁ MAIS DE 90 DIAS. NECESSIDADE DE REAVALIAÇÃO. ART. 316, PARÁGRAFO ÚNICO, DO CPP.CONSTRANGIMENTO ILEGAL PARCIALMENTE VERIFICADO. PARECER PELO PARCIAL PROVIMENTO DO PRESENTE RECURSO EM HABEAS CORPUS, PARA QUE SEJA DETERMINADA A REAVALIAÇÃO IMEDIATA DA NECESSIDADE E ADEQUAÇÃO DA PRISÃO DO RECORRENTE, NOS TERMOS DO ART. 316, PARÁGRAFO ÚNICO, DO CPP, PRECEDIDA DE REAVALIAÇÃO MÉDICA, NOS TERMOS EXPOSTOS.
+É o relatório.
+Como indicado nas contrarrazões e confirmado pelas informações,já ocorreu a prolação de sentença na origem, o que torna prejudicado o recurso, o qual ataca o anterior título judicial. A negativa do recurso em liberdade após a condenaçãoà pena de 6 anos e 9 meses de reclusão de reclusão, em regime fechado, e pagamento de 680 dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n.11.343/2006,é objetodo HC n. 656.715/SP, em curso no Superior Tribunal de Justiça.
+De mais a mais, não há indicativo de necessidade deconcessão de ordem de ofício, pois não há comprovação do quanto alegado para justificar o deferimento, aqui e agora, da prisão domiciliar na forma da Recomendação 62, do Conselho Nacional de Justiça.
+Conforme a parecerista,embora o recorrente pertença ao grupo de risco, por possuir bronquite asmática, ressai dos autos, ao contrário do que alega a defesa, que ele vem fazendo uso dos medicamentos e está em bom estado de saúde, não tendo restado demonstrada, por conseguinte, a hipótese excepcional que justificaria a concessão da prisão domiciliar(fl. 373).
+E de acordo com a Juíza da execução (fl. 381 - grifo nosso):
+O paciente encontra-se recolhido no CDP de São Vicente, jurisdicionado por esta Corregedoria dos Presídios.
+Foram solicitadas informações à Unidade Prisional sobre a assistência médica dispensada ao preso, conforme seguem em anexo.
+Ante as informações prestadas, depreende-se que o reeducando vem recebendo atendimento médico na unidade.
+Resta salientar, em relação à juntada dos documentos de fls. 297/340, que se trata de denúncia formulada pela Defensoria Pública do Estado de São Paulo - através do NESC - Núcleo Especializado de Situação Carcerária, que foi objeto de Pedido de Providências instaurado nesta Corregedoria dos Presídios do DEECRIM 7" RAJ - Santos, para apuração dos fatos, onde, após oitivas de vários detentos não restou caracterizada negligência por parte do quadro funcional da unidade, que presta atendimento médico aos reeducandos da melhor forma que é possível dentro das conhecidas limitações do sistema público de saúde.  ..
+Segundo o Diretor Técnico do referido centro de detenção provisória (fl. 383):
+No dia 16/6/21, o detento foi atendido pela enfermeira da Unidade Prisional, relatório em anexo, que apresenta queixas de dor no glúteo. O detento será encaminhado para avaliação com o médico na Unidade prisional.
+O relatório médico de 17/6/2021, diz o seguinte (fl. 388):
+O sentenciado Luiz Carlos Pereira da Silva, Matrícula n. 359.909, esteve em consulta médica nesta enfermaria na presente data.
+Apresenta histórico de bronquite  abcesso em região glútea. Ao exame - consciente, orientado, eupneico, sem sinais respiratórios no momento.
+Foi prescrita medicação específica (antibioticoterapica  antinflamatório) e orientado quanto às noções de higiene pessoas. Para o quadro respiratório foi prescrito inaloterapia (aerolin spray).
+Como visto, ao lado de não ter ficado demonstrado que o atual estado de saúde do recorrente esteja debilitado, não se comprovou a eventual situação de contágio na unidade prisional onde está cumprindo pena provisoriamente. Além disso, não ficou caracterizadaa impossibilidade de ele receber tratamento no estabelecimento prisional ondese encontra.
+Por essas razões, conheço em parte do recurso e, nessa extensão, nego-lhe provimento.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SUPERVENIENTE SENTENÇA CONDENATÓRIA. NOVO TÍTULO JÁ OBJETO DE WRIT NO SUPERIOR TRIBUNAL DE JUSTIÇA. PREJUDICIALIDADE. PRISÃO DOMICILIAR. RECOMENDAÇÃO N. 62/2020 DO CNJ. PANDEMIA DA COVID-19. FALTA DE DEMONSTRAÇÃO DOS PRESSUPOSTOS. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso parcialmente conhecido e, nessa extensão, improvido.
