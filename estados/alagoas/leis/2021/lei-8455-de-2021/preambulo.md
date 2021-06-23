@@ -1,0 +1,7 @@
+LEI Nº 8.455, DE 22 DE JUNHO DE 2021.
+
+DETERMINA A DIVULGAÇÃO DA LEI DO MINUTO SEGUINTE DA REDE PÚBLICA DE SAÚDE, NO ÂMBITO DO ESTADO DE ALAGOAS.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS
+
+Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
