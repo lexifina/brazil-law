@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+
+ADMINISTRATIVO.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  SERVIDOR  PÚBLICO  FERROVIÁRIO.  CONDIÇÃO  DE  FERROVIÁRIO.  AUSÊNCIA  DE  PROVA.  ALTERAÇÃO  DO  JULGADO.  INVIABILIDADE.  REEXAME  FÁTICO-PROBATÓRIO.  SÚMULA  7/STJ.  AGRAVO  INTERNO  DO  PARTICUALAR  A  QUE  SE  NEGA  PROVIMENTO.
+1.  O  Tribunal  de  origem  reconheceu  não  haver  prova  nos  autos  de  que  o  ora  agravante  detinha  a  condição  de  ferroviário  quando  do  início  da  concessão  de  seu  benefício  previdenciário  em  novembro  de  2010.  Entendimento  diverso,  conforme  pretendido,  implicaria  o  reexame  do  contexto  fático-probatório  dos  autos,  circunstância  que  redundaria  na  formação  de  novo  juízo  acerca  dos  fatos  e  provas,  e  não  de  valoração  dos  critérios  jurídicos  concernentes  à  utilização  da  prova  e  à  formação  da  convicção,  o  que  impede  o  seguimento  do  recurso  especial.  Sendo  assim,  incide  a  Súmula  7  do  STJ,  segundo  a  qual  a  pretensão  de  simples  reexame  de  prova  não  enseja  recurso  especial.
+2.  Agravo  interno  do  particular  a  que  se  nega  provimento.
+RELATÓRIO
+  1.  Trata-se  de  agravo  interno  interposto  por  JORGE  LUIZ  DE  AGUIAR  AMORIM,  contra  decisão  que  negou  seguimento  ao  recurso  especial,  nos  termos  da  seguinte  ementa:
+ADMINISTRATIVO.  RECURSO  ESPECIAL.  SERVIDOR  PÚBLICO  FERROVIÁRIO.  EXTINTA  RFFSA.  COMPLEMENTAÇÃO  DE  APOSENTADORIA  E  REMUNERAÇÃO  EQUIPARADA  AOS  SERVIDORES  DA  ATIVA.  AUSÊNCIA  DE  DOCUMENTOS  QUE  COMPROVEM  A  CONDIÇÃO  DE  FERROVIÁRIO.  SÚMULA  7  DO  STJ.  RECURSO  ESPECIAL  DO  PARTICULAR  A  QUE  SE  NEGA  SEGUIMENTO  (fls.  368/375).
+2.  Nas  razões  de  seu  agravo  interno,  a  parte  agravante  alega,  em  suma,  não  ser  o  caso  da  incidência  da  Súmula  7/STJ.
+3.  Pugna,  desse  modo,  pela  reconsideração  da  decisão  agravada  ou  para  que  o  feito  seja  levado  à  Turma  competente  para  julgamento.
+4.  Com  impugnação  ao  recurso  (fls.  377/381).
+5.  É  o  relatório  do  essencial.
+EMENTA
+
+ADMINISTRATIVO.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  SERVIDOR  PÚBLICO  FERROVIÁRIO.  CONDIÇÃO  DE  FERROVIÁRIO.  AUSÊNCIA  DE  PROVA.  ALTERAÇÃO  DO  JULGADO.  INVIABILIDADE.  REEXAME  FÁTICO-PROBATÓRIO.  SÚMULA  7/STJ.  AGRAVO  INTERNO  DO  PARTICUALAR  A  QUE  SE  NEGA  PROVIMENTO.
+1.  O  Tribunal  de  origem  reconheceu  não  haver  prova  nos  autos  de  que  o  ora  agravante  detinha  a  condição  de  ferroviário  quando  do  início  da  concessão  de  seu  benefício  previdenciário  em  novembro  de  2010.  Entendimento  diverso,  conforme  pretendido,  implicaria  o  reexame  do  contexto  fático-probatório  dos  autos,  circunstância  que  redundaria  na  formação  de  novo  juízo  acerca  dos  fatos  e  provas,  e  não  de  valoração  dos  critérios  jurídicos  concernentes  à  utilização  da  prova  e  à  formação  da  convicção,  o  que  impede  o  seguimento  do  recurso  especial.  Sendo  assim,  incide  a  Súmula  7  do  STJ,  segundo  a  qual  a  pretensão  de  simples  reexame  de  prova  não  enseja  recurso  especial.
+2.  Agravo  interno  do  particular  a  que  se  nega  provimento.
+VOTO
+1.  A  despeito  das  alegações  da  parte  agravante,  razão  não  lhe  assiste.
+2.  Inicialmente,  é  importante  ressaltar  que  o  presente  recurso  atrai  a  incidência  do  Enunciado  Administrativo  3  do  STJ,  segundo  o  qual,  aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016),  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  Código.
+3.  No  mais,  nos  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o  tema:
+Nos  termos  do  que  dispõe  o  art.  4º  da  Lei  8.186/91,  constitui  condição  essencial  para  a  concessão  da  complementação  de  aposentadoria  a  detenção,  pelo  beneficiário,  da  condição  de  ferroviário,  na  data  imediatamente  anterior  ao  inicio  da  aposentadoria  previdenciária.
+Contudo,  no  caso  em  exame,  conforme  pode  ser  constatado  na  documentação  juntada  aos  autos  em  fls.  42/48,  não  há  provas  de  que  o  apelante  detinha  a  condição  de  ferroviário  quando  do  início  da  concessão  de  seu  benefício  previdenciário  em  novembro  de  2010,  não  fazendo  jus  à  concessão  da  complementação  de  aposentadoria  de  que  tratam  as  Leis  n.  8.186/91  e  n.  10.478/2002  (STJ,  REsp  1472759,  Rel.  Min.  SÉRGIO  KUKINA,  dec.  monocrática,  DJe  22.11.2018;  e  STJ,  AREsp  599243,  Rel.  Min.  NAPOLEÃO  NUNES  MAIA  FILHO,  dec.  monocrática,  DJe  10.8.2018)  (fls.  208).
+4.  Com  efeito,  o  Tribunal  de  origem  reconheceu  não  haver  prova  nos  autos  de  que  o  ora  agravante  detinha  a  condição  de  ferroviário  quando  do  início  da  concessão  de  seu  benefício  previdenciário  em  novembro  de  2010.  Entendimento  diverso,  conforme  pretendido,  implicaria  o  reexame  do  contexto  fático-probatório  dos  autos,  circunstância  que  redundaria  na  formação  de  novo  juízo  acerca  dos  fatos  e  provas,  e  não  de  valoração  dos  critérios  jurídicos  concernentes  à  utilização  da  prova  e  à  formação  da  convicção,  o  que  impede  o  seguimento  do  recurso  especial.  Sendo  assim,  incide  a  Súmula  7  do  STJ,  segundo  a  qual  a  pretensão  de  simples  reexame  de  prova  não  enseja  recurso  especial.
+5.  Ante  o  exposto,  nego  provimento  ao  agravo  interno  do  particular.
+6.  É  o  voto.
