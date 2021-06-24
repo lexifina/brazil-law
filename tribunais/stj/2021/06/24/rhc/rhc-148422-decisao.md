@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por Ismael Ferreira Barbosacontra o acórdão proferido pelo Tribunal de Justiça de Alagoas (HC n.0810335-19.2020.8.02.0000 - fls. 185/192),que manteve incólume a segregação cautelar decretada pelo Juízo de primeiro grau, em razão da suposta prática do crimede roubo circunstanciado (Processo n. 0707255-59.2020.8.02.0058 - fls. 47/53).
+O recorrentealega falta de fundamentação idônea no decreto prisional, que seria genérico ebaseado apenas na gravidade abstrata do delito. Nesses termos, pretende a revogação da custódia, com a aplicação de medidas cautelares alternativas.
+Liminar indeferida (fls. 223/224), informações prestadas (fls. 228/231), o Ministério Público Federal opinou pelo não provimento do recurso, por meio de parecer proferido peloSubprocurador-Geral da RepúblicaMário Pimentel Albuquerque (fls. 235/237).
+É o relatório.
+De acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+No caso, o Juízo de primeiro grau decretou a prisão preventiva, asseverando, principalmente, que o ora recorrente possuioutra ação penal em andamento, tratando-se de indivíduo afeito à prática delitiva(fl. 52).
+O Tribunal de origem, por sua vez, manteve a segregação, entendendo-a idoneamente fundamentada, nestes termos (fls. 190/191- grifo nosso):
+15. A leitura do excerto acima transcrito permite concluir que a decisão que decretou a segregação cautelar se pautou, precipuamente, no risco concreto de reiteração delitiva, o qual é extraído do fato de que Ismael Ferreira Barbosa responde a, pelo menos, mais 01 (um) processo criminal (n.0002859- 91.2019.8.02.0001).
+16. Em consulta aos referidos autos é possível observar que o ora paciente é acusado pela suposta prática dos crimes de organização criminosa armada (art.2º, § 2º, da Lei n.12.850/13), tráfico de drogas e associação para o tráfico (arts. 33 e 35 da Lei n.11.343/06, respectivamente), tendo-lhe sido concedida, naquele feito, a liberdade provisória mediante a imposição de medidas cautelares diversas da prisão (fls. 807/824 do processo n.0002859- 91.2019.8.02.0001), as quais não foram suficientes para evitar que Ismael Ferreira Barbosa voltasse a ser preso em flagrante, desta feita pelo cometimento, em tese, do delito de roubo majorado ora em análise.
+17. Tais circunstâncias denotam a periculosidade do agente, o risco concreto de reiteração delitiva, bem como a insuficiência da aplicação de medidas cautelares alternativas, constituindo fundamentos reconhecidamente aptos aensejar a imposição da medida extrema  ..
+Como se vê, a custódia preventiva estámotivada, principalmente, no fato de o recorrente possuir outra ação penalem andamento.
+Ora, a jurisprudência desta Corte de Justiça é firme ao asseverar que a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar" (RHC n. 76.929/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/11/2016, DJe 29/11/2016) - (HC n. 415.653/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 9/8/2018).
+Ademais, eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva, sendo certo que, concretamente demonstrada pelas instâncias ordinárias a necessidade da custódia, não se afigura suficiente a fixação de medidas cautelares alternativas.
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS.ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA.AÇÃOPENALEM ANDAMENTO. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso improvido.
