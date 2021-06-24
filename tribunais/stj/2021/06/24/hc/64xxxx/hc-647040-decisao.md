@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de NEIDE TOSSINcontra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n. 0021115-82.2020.8.26.0000.
+Consta dos autos que aPaciente foi presaem flagrante, em 10/07/2020 (convertido o flagrante em prisão preventiva no dia seguinte) pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, em razão da apreensão de 63 gramas de crack.
+Impetrado prévio writna origem, a Corte local denegou a ordem (fls. 56-62).
+Nas razões deste habeas corpus, a Parte impetrante alega, em síntese, a ausência dos requisitos necessários para a prisão preventiva e a existência de condições pessoais favoráveis à Paciente.
+Afirma a necessidade de observância à situação decorrente do novo coronavírus, destacando que a Acusada integra grupo de risco para a Covid-19, por ser idosa com mais de 60 (sessenta) anos de idade.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva daPaciente.
+A liminar foi deferida às fls. 65-68.
+As informações foram prestadas às fls. 74-76.
+O Ministério Público Federal opinoupelo "não conhecimento ou pela denegação do habeas corpus, com a consequente revogação da liminar deferida" (fl. 89).
+É o relatório.
+Decido.
+Na decisão que converteu o flagrante em prisão preventiva, o Magistrado singular consignou o seguinte (fls. 49-50; sem grifos no original):
+" ..
+Há indícios suficientes da autoria e da materialidade delitiva, tornando-se assim, necessária a excepcionalidade da segregação da autuada para assegurar a aplicação da lei penal, conforme preceitua o poder geral de cautela concedido ao magistrado. O laudo preliminar acostado aos autos evidencia, pela quantidade e de droga (peso líquido de 63 gramas de crack), bem como pela forma como estava embalada a materialidade delitiva.
+A residência onde foram encontradas as demais pedras de crack fica a menos de 01 minuto de um Convento Religioso, conforme foto juntada.
+O fato de a autuada ter mais de 60 anos, neste momento, não tem o condão de beneficiá-la com a liberdade provisória, até porque, caso a própria autuada estivesse se resguardando de eventual infecção pelo novo Coronavírus, não estaria na rua, à noite, traficando drogas.
+Com efeito, a pandemia do Covid19 não pode ser utilizada como salvo conduto para a criminalidade, até porque não há noticias de circulação do vírus dentro dos estabelecimentos prisionais de São Paulo.
+A conduta criminosa da autuada ocasiona na sociedade um sentimento negativo e, caso seja colocado em liberdade, o sentimento negativo da sociedade passa à sensação de impunidade, da total ausência do Estado-juiz.Na cátedra do professor e Desembargador Guilherme de Souza Nucci .. .
+Assim, necessária a segregação cautelar da autuada, para a garantia da paz social e da tranquilidade da sociedade que não pode ficar a mercê da traficância de entorpecentes nas portas de seus lares, nas praças e esquinas de seus bairros.
+A prisão cautelar em nada ofende a presunção de inocência porque não advém do reconhecimento da culpa, mas tão somente à finalidade do processo, como garantia da ordem pública, a conveniência da instrução criminal e a futura aplicação da lei penal.
+Desta forma, entendo presentes os requisitos e pressupostos ensejadores para a conversão da prisão em flagrante em preventiva quais sejam: indícios suficientes de autoria e prova da materialidade delitiva, garantia da ordem pública, o crime, em tese praticado é doloso e punido com pena privativa de liberdade máxima superior a 04 anos.
+De outra sorte, não vislumbro que quaisquer das medidas cautelares diversas da prisão, previstas no artigo 319 do CPP, sejam suficientes e adequadas para que, em liberdade, a autuada não volte a se dedicar ao comércio maldito."
+Pois bem, aprisão preventiva, para ser legítima à luz da sistemáticaconstitucional, exige que o Magistrado, sempre mediante fundamentosconcretos extraídos de elementos constantes dos autos (arts. 5.º, LXI, LXVe LXVI, e 93, inciso IX, da Constituição da República), demonstre aexistência de prova da materialidade do crime e de indícios suficientes deautoria delitiva (fumus comissi delicti), bem como o preenchimento de aomenos um dos requisitos autorizativos previstos no art. 312 do Código deProcesso Penal, no sentido de que o réu, solto, irá perturbar ou colocarem perigo (periculum libertatis) a ordem pública, a ordem econômica, ainstrução criminal ou a aplicação da lei penal.
+Ressalte-se que o Plenário do Supremo Tribunal Federal, por ocasião dojulgamento do HC n. 84.078/MG, Rel. Ministro EROS GRAU, decidiu que acustódia cautelar só pode ser implementada se devidamente fundamentada,nos termos do art. 312 do Código de Processo Penal. A referida orientaçãodeve ser adotada por todos os Tribunais Pátrios, como forma de se tornarmais substancial o princípio constitucional da presunção de inocência.
+No caso, deve-se atentar quea quantidade de droga apreendida - 63gramasde crack-, apesar de não ser ínfima, não é capaz de demonstrar,por si só, o periculum libertatis daAcusada.
+Nesse sentido:
+" ..
+2. No caso, apesar da constrição cautelar estar baseada em elementosvinculados à realidade, quais sejam a variedade e a quantidade de drogasencontradas - 71 porções de skunk (47 g), 122 porções de maconha (458 g),
+72 g de crack (em pedras) e 116 porções de cocaína acondicionadas emampolas (130 g) -, entendo que a quantidade de drogas apreendidas não érelevante, capaz de justificar, por si só, a prisão preventiva. .. "(HC 562.862/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA,julgado em 09/06/2020, DJe 15/06/2020.)
+Por fim, registre-seque, embora o Tribunal de origem tenha afirmado ser a Paciente reincidente específica, tal fundamento não foi utilizado pela decisão de primeira instância ao decretar a custódia, sendo certo que, conforme a jurisprudência desta Corte, " n ão é dado ao Tribunal estadual agregar fundamentos não presentes na decisão do Juízo singular, sob pena de incidir em indevida inovação" (HC 424.308/AM, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 19/06/2018, DJe 27/06/2018).
+No mesmo sentido:
+"HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA, TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. APREENSÃO DE PÉS DE MACONHA. DECISÃO QUE DECRETOU A SEGREGAÇÃO CAUTELAR BASEADA UNICAMENTE NA GRAVIDADE EM ABSTRATO DO DELITO. IMPOSSIBILIDADE. ACRÉSCIMO DE MOTIVAÇÃO PELO TRIBUNAL A QUO. IMPOSSIBILIDADE. NECESSIDADE DE CONFIRMAÇÃO DA LIMINAR ANTERIORMENTE DEFERIDA. EXISTÊNCIA DE CORRÉU EM SITUAÇÃO FÁTICO-PROCESSUAL IDÊNTICA (ART. 580 DO CPP). EXTENSÃO DOS EFEITOS. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO.
+1. No caso, apesar das circunstâncias do delito, o Magistrado singular não apontou fundamento concreto para a imposição da medida extrema, baseando-se somente na gravidade em abstrato do delito, o que é inadmissível.
+2. Ademais, o Tribunal de origem, embora tenha considerado relevantes os argumentos para a manutenção da custódia, acrescentou fundamentos em ação exclusiva da defesa, o que também é inadmissível.
+ ..
+5. Ordem concedida, confirmando-se a decisão liminar anteriormente deferida, para assegurar ao paciente o direito de aguardar em liberdade o julgamento do mérito da ação penal, podendo o Juiz singular manter as medidas cautelares porventura impostas, devendo os efeitos da presente decisão ser estendidos ao corréu Robson Benites."(HC 609.038/BA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 07/12/2020, DJe 17/12/2020; sem grifos no original.)
+Ante o exposto,CONCEDO A ORDEM para, confirmando a liminar, determinar a soltura daPaciente, se por outro motivo não estiver presa, advertindo-ada necessidade de permanecer no distrito da culpa e atender aos chamamentos judiciais, sem prejuízo de nova decretação de prisão provisória, por fato superveniente a demonstrar a necessidade da medida ou da fixação de medidas cautelares alternativas (art. 319 do Código de Processo Penal), desde que de forma fundamentada.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA. GRAVIDADE ABSTRATA DO DELITO. QUANTIDADE DE ENTORPECENTES QUE NÃO DEMONSTRA, POR SI SÓ, O PERICULUM LIBERTATIS DA ACUSADA. ORDEM CONCEDIDA. LIMINAR CONFIRMADA.
