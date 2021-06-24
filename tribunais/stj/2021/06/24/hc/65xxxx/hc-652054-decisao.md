@@ -1,0 +1,49 @@
+DECISÃO
+CLEBER RIAN PEREIRA BALBINOalega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2039357-21.2021.8.26.0000, que manteve a prisão preventiva do agente, decretada pela suposta prática de tráfico de drogas.
+Neste writ, a defesa assevera não haver indícios suficientes de autoria. Sustenta que a prisão em flagrante foi ilegal, porque "uma denúncia apócrifa não é suficiente.Deveria ter havido investigação, ou, ao menos, campana para averiguar movimentação a ratificar a notícia precária recebida" (fl. 18).
+Aduz não estarem presentes os requisitos necessários para a decretação da custódia cautelar. Ademais, faz menção à Recomendação n. 62/2020 do CNJ esalienta as condições pessoais favoráveis do agente, a fim de demonstrar a suficiência da imposição de medidas alternativas.
+Requer a revogação da constrição preventiva ou suasubstituição por cautelares diversas.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou, subsidiariamente, pela denegação da ordem(fls. 234-242).
+Decido.
+I. Contextualização
+Consta dos autos que o ora recorrente foi preso em flagrante pela prática, em tese, de tráfico de drogas. O Juízo de primeiro grau converteu a custódia em preventiva pelos seguintes fundamentos (fl. 42, grifei):
+Os indícios de autoria decorrem das circunstâncias descritas no auto de prisão em flagrante, que apontam para o envolvimento do indiciado na atividade de comercialização dessas substâncias entorpecentes.
+Quanto ao requisito do periculum libertatis, tem-se que os policiais que conduziram o custodiado, se dirigiram ao local dos fatos em razão de denúncia de tráfico de entorpecentes com esconderijo de drogas em uma mata próxima ao Bairro Luiz Spina. Ao chegarem ao local, avistaram o custodiado desenterrando algo do chão, o qual tentou empreender fuga ao perceber a presença dos policiais, contudo foi detido.Na posse do flagranteado foi encontrada a quantia de R$ 500,00 e, no local onde Cleber cavava, havia 779 gramas de crack, 44,2 gramas de cocaína e uma balança de precisão.
+As circunstâncias da prisão, a posse de quantidade nada desprezível de drogas, objeto comumente utilizado no comércio deentorpecentes, além de dinheiro em espécie em posse de indivíduo pobre, sem qualquer comprovação de sua origem, são indicativos de que o flagranteado, dedicava-se ao tráfico ilícito de entorpecentes, não se pode descartar, pelo menos neste instante, pelas circunstâncias da prisão, a possibilidade de tráfico e reiteração.
+Irresignada, a defesa impetrou habeas corpus perante a Corte de origem, a qual denegou a ordem pelos seguintes motivos (fls. 34-36, destaquei):
+A materialidade delitiva e os indícios de autoria estão comprovados pelos depoimentos das testemunhas ouvidas na fase investigatória e devidamente demonstrados pelas provas colhidas no inquérito policial.
+No mais, exame mais apurado da questão, como quer a Defesa, exige análise aprofundada do acervo probatório dos autos, e até a produção de provas, com acurada apreciação das circunstâncias do caso, incabível em sede de habeas corpus.
+Quanto ao periculum libertatis, evidencia-se anecessidade da segregação cautelar do paciente para garantir a ordem pública, a instrução criminal e a aplicação da lei.
+Nesse passo, verifica-se que o i. Magistrada converteu a prisão em flagrante em preventiva, em razão da gravidade concreta da conduta, que pode ser aferida pela apreensão de expressiva quantidade de drogas mais de 800g de cocaína e crack bem como de uma balança de precisão e de dinheiro em espécie (R$ 500,00), sem comprovação de sua origem, a indicar, em tese, que o indiciado se dedicava a atividades criminosas, não se podendo descartar, pelo menos neste instante, pelas circunstâncias da prisão, a possibilidade de tráfico e reiteração. (..) Portanto, há a necessidade de adoção de redobradas cautelas acerca do seu comportamento, existindo lastro factual idôneo para a decretação da custódia cautelar para a garantia da ordem pública, a qual abrange a adoção de medidas preventivas tendentes a tutela dos superiores bens jurídicos da incolumidade das pessoas e do patrimônio" (fls. 75/79).
+ ..
+Além disso, consoante bem observou o d. Procurador de Justiça, "o paciente ostenta registros de atos infracionais equiparados ao tráfico de drogas, contando, inclusive com cumprimento de medidasocioeducativa, demonstrando concreta possibilidade de reiteração criminosa (fls. 62). Ressaltando-se, nesse contexto, que a prática de atos infracionais é elemento apto a demonstrar o risco concreto de reiteração delitiva, constituindo fundamento idôneo para a decretação de prisão preventiva para garantia da ordem pública" (fls. 148).
+ ..
+Ressalte-se, por oportuno, que as medidas cautelares diversas da prisão (art. 319 do CPP) não parecem adequadas no caso dos autos, tendo em vista que não seriam suficientes para impedir a reiteração criminal, mormente do crime de tráfico de drogas supostamente praticado pela paciente (art. 282, § 6º do CPP).
+II. Negativa de autoria- não conhecimento
+Em relação à alegação defensiva de que o réu é inocente e não tem relação com as drogas apreendidas, observo que a Corte estadual não apreciou a matéria, por ser tema objeto de análise pelo Juízo natural da causa na sentença. Por isso, a tesenão pode ser analisada pelo STJ, sob pena de incorrer em supressão de instância.
+Ademais, ressalto, em obiter dictum, que "A decretação da prisão preventiva, a teor do art. 312 do CPP, não exige que haja provas sólidas e conclusivas acerca da autoria delitiva, reservada à condenação criminal, mas apenas indícios suficientes de autoria, evidenciados pelo reconhecimento fotográfico dos pacientes, realizado na fase inquisitiva" (HC n. 319.910/SP, Rel.Ministro Rogerio Schietti, 6ª T., DJe 22/6/2015).
+Na hipótese, as instâncias de origem demonstraram, de modo suficiente, haver materialidade e indícios de autoria, por meio do auto de prisão em flagrante, que narrou as circunstâncias que em o réu foi apreendido: o agente foi surpreendido desenterrando entorpecentes de um esconderijo no chão de uma mata. Ao avistar os policiais, tentou empreender fuga, mas foi detido na posse de mais de 800 g de drogas.
+III. Prisão preventiva- fundamentação idônea
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Os juízos antecedentes ressaltaram a gravidade concreta da conduta, evidenciada pela elevada quantidade de entorpecentes apreendidos - 779 g de crack e 44,2 g de cocaína(fl. 42) -, além de uma balança de precisão, petrecho comumente usado no tráfico de drogas.
+O STJ é firme ao asseverar que, nas situações em que a quantidade e/ou a natureza dos entorpecentes e outras circunstâncias dos casos revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e denotam a necessidade de se acautelar a ordem pública.
+Nessa perspectiva:
+ ..
+3. No caso, a gravidade concreta da conduta, evidenciada pela quantidade da droga apreendida - aproximadamente 810g (oitocentos e dez gramas) de cocaína, acondicionados em 699 (seiscentas e noventa e nove) embalagens plásticas e em 1 (um) tablete envolto por filme plástico - bem como pela expressiva quantidade de arma e munições encontradas, denota a periculosidade do agente.
+ ..
+6. Condições subjetivas favoráveis do agente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+7. Os fundamentos adotados para a imposição da prisão preventiva indicam, no caso, que as medidas alternativas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+ ..
+10. Ordem denegada.
+(HC n. 556.419/RJ, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 18/3/2020, grifei)
+ ..
+3. No caso dos autos, verifico que a prisão preventiva foi adequadamente motivada, tendo sido demonstrada, com base em elementos concretos, a gravidade concreta da conduta e a maior periculosidade do paciente, evidenciadas pela natureza e quantidade de drogas apreendidas - 165g de cocaína, divididos em 34 porções - bem como pela apreensão de elevada quantia em dinheiro.  ..
+4. Habeas corpus não conhecido.
+(HC n. 548.474/GO, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 23/3/2020, destaquei)
+Diante das apontadas circunstâncias do fato, que demonstram a periculosidade do agente, não se mostra adequada e suficiente a substituição da prisão preventiva por medidas a ela alternativas (art. 282, c/c o art. 319 do CPP).
+Especificamente sobre a pandemia do novo coronavírus, a defesa não comprovou ser o pacienteportador de doença que possa se agravar com a Covid-19, estar com a saúde debilitada ou impossibilitado de receber tratamento adequado no estabelecimento em que se encontra. Confira-se, a propósito, o que registrou a Corte local (fl. 40):
+In casu, não há comprovação de que, dentro do estabelecimento prisional, não terá o paciente atendimento e proteção adequados, sabido que doença não é motivo de soltura quando cabível ao Estado o dever de cuidado e saúde ao preso.
+Também não se provou que atualmente há risco concreto, no presídio onde se encontra, maior do que aquele suportado pelas pessoas em geral, que estão em meio livre, de contrair o já referido vírus.
+IV. Dispositivo
+À vista do exposto, conheço parcialmente do habeas corpus e, nessa extensão,denego a ordem.
+Publique-se e intimem-se.
