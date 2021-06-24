@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo TRF1 assim ementado (fl. 223):
+APELAÇÃO CÍVEL. TRIBUTÁRIO. AÇÃO ORDINÁRIA. ASSOCIAÇÃO. PESSOA JURÍDICA. GRATUIDADE DA JUSTIÇA. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIENCIA. HONORÁRIOS ADVOCATICIOS. REDUÇÃO. 2
+1. As pessoas jurídicas de direito privado, ainda que sem fins lucrativos, para obterem os benefícios da justiça gratuita, devem comprovar o estado de hipossuficiência, não bastando simples declaração de pobreza. O ônus da prova é da associação que, in casu, não se desincumbiu de provar o alegado. Agravo retido não provido.
+2. Honorários nos termos do voto.
+3. Agravo retido não provido. Apelação parcialmente provida.
+Embargos de declaração com provimento negado.
+A recorrente alega violação do art. 1022, incs. I e II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito das seguintes questões: a) contradição entre as premissas, pois apesar de consignar que a regra aplicável, no caso, é o CPC/2015, deixou de observá-lo na cominação dos honorários; b) omissão quanto ao art. 85, §4º, inc. III, do CPC/2015.
+Quanto à questão de fundo, sustenta ofensa ao art. 85, §§2º, 3º, inc. II, 4º, inc. III, e 6º do CPC/2015, sob os seguintes argumentos: a) as decisões proferidas após a vigência do CPC/2015, independentemente da data da propositura da demanda, deverão observar a nova disciplina; b) no presente caso, deve prevalecer a regra processual já vigente quando da prolação da sentença (art. 85 do novo CPC), sendo que o TRF1, reformando a decisão de primeiro grau (que fixara os honorários em 10% sobre o valor da causa), decidiu por arbitrar a verba de sucumbência ao largo da legislação (CPC/2015), no valor fixo de R$ 5.000,00; c) considerando que não houve condenação (ação julgada improcedente), não sendo, pois, possível mensurar o proveito econômico obtido, a condenação em honorários deverá se dar sobre o valor atualizado da causa, consoante previsão expressa do art. 85, §§2º, 3º e 4º, inc. III, do CPC/2015; d) o arbitramento dos honorários em R$ 5.000,00 não cumpre, objetivamente, os preceitos indicados, pois equivale a 0,3% do valor da causa.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 259-260.
+É o relatório. Passo a decidir.
+A recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de que remanesce contraditório e omisso o julgamento da controvérsia.
+Extrai-se dos autos que a recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito da seguinte questão: a) omissão ao fixar os honorários por apreciação equitativa, negando vigência à legislação aplicável ao caso concreto, precisamente o art. 85, §§2º, 3º, 4º, inc. III, e 6º, do CPC/2015, que determinam, no caso concreto, o valor da causa como base de cálculo dos honorários advocatícios.
+Julgando os aclaratórios, o Tribunal de origem assentou que "(..) não há que se falar em qualquer omissão quando, em nenhum momento, esta Corte foi provocada a manifestar-se sobre a matéria." (fl. 237). Todavia, verifica-se que a matéria havia sido indicada nas contrarrazões à apelação (fls. 192-195).
+Nesse diapasão, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A manifestação sem esclarecimento suficiente a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao art. 1022, incs. I e II, do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1022, INCS. I E II, DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
