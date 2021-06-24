@@ -1,0 +1,13 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por PARTIDO SOCIALISTA BRASILEIRO contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 261):
+CUMPRIMENTO DE SENTENÇA PROVISÓRIO Penhora Fundo Partidário Legitimidade Decisão já proferida no julgamento da apelação Vedada rediscussão nesta sede Sem notícia de concessão de efeito suspensivo ou de efeito ativo ao recurso especial interposto Inaplicabilidade das alterações legislativas realizadas na Lei nº 9.096/95 pela Lei nº 11.694/2.008 Partido Político uno Prestação de serviço de propaganda política em campanha eleitoral Observância da disciplina do artigo 44 da Lei nº 9096/85 Ausente hipótese para a aplicação absoluta do artigo 833, XI, do Novo Código de Processo Civil Possibilidade Decisão agravada mantida. Agravo não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 279-284).
+Nas razões de seu recurso especial, a parte recorrente sustenta que o acórdão vulnerou o art. 15-A, caput, da Lei n. 9.096/1995 que consolida de forma expressa a responsabilidade exclusiva de cada instância partidária por suas próprias obrigações, não havendo solidariedade entre as deferentes instâncias de um mesmo partido político, situação que torna patente a ilegitimidade passiva da recorrente. Vulnera, ainda, o parágrafo único do art. 15-A da Lei n. 9.096/1995, em virtude da incompetência absoluta do órgão julgador, porquanto o órgão nacional do partido político somente pode ser demandado na circunscrição especial judiciária de sua sede, em Brasília/DF. Afirma violados os arts. 506 e 513, § 5º, do CPC, pois nunca participou da demanda, tendo sido incluída apenas na fase de bloqueio judicial de suas contas bancárias. Assevera que o bloqueio judicial atingiu contas que movimentam exclusivamente verbas públicas oriundas do Fundo Partidário, recursos absolutamente impenhoráveis, ofendendo o art. 833, XI, do CPC. Subsidiariamente, aponta violação ao art. 1.022, II, do CPC.
+Foram apresentadas contrarrazões (e-STJ fls. 315-322).
+Sobreveio juízo negativo de admissibilidade do Tribunal de origem (e-STJ fls. 333-334), o que ensejou a interposição do presente agravo.
+É o relatório. Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial e para melhor análise da controvérsia, converto o presente agravo em recurso especial.
+Ante o exposto dou provimento ao agravo, determinando sua conversão em recurso especial.
+Após a regularização do novo registro, retornem os autos conclusos para julgamento.
+Intimem-se.
