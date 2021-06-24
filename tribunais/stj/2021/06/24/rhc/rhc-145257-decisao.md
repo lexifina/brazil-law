@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso em habeas corpusinterposto contra acórdão,assim ementado (fl. 111-116):
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃOPREVENTIVA. MEDIDA QUE SE IMPÕE. DETENÇÃO PROVISÓRIA MANTIDA.
+Mantém-se a prisão preventiva motivada na garantia da ordem pública. O paciente participava de uma organização criminosa, chefiada por seu irmão, responsável pela comercialização de entorpecentes na cidade.
+Como é consabido, o tráfico de entorpecentes e seus autores, direta ou indiretamente, são os responsáveis pela quase totalidade da violência que se vem alastrando de maneira incontrolável pelo País, alarmando e intranquilizando toda a população.
+Os traficantes, seja qual o seu "status" na organização, são pessoas perigosas, porque, além de disseminarem a droga, atuam como o "exército" do traficante maior, agindo com violência contra rivais, usuários-devedores, testemunhas etc. A traficância também tumultua a ordem pública, porque leva os usuários a cometimento de outros delitos, em particular os crimes contra o patrimônio, para obterem bens que lhes permitam a compra de entorpecentes. Portanto, é de se manter a prisão provisória do paciente para garantia da ordem pública. Habeas corpus denegado.
+Consta dos autos que o recorrente foi preso preventivamente em razão da prática dos delitos de tráfico de drogas e organização criminosa.
+No presente recurso, alega a defesa, em síntese, a ausência de fundamentação do decreto prisional, bem como dos requisitos autorizadores da custódia cautelar, tratando-se de fatos ocorridos há mais de um ano.
+Requer, assim, a revogação da prisão preventiva.
+Sem pedido liminar, manifestou-se o Ministério Público Federal pelo desprovimento do recurso.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que decretou a prisão em preventiva encontra-se assim fundamentada (fls. 72-75):
+ ..
+De acordo com o relatório elaborado na extração de dados de seu celular, verifica -se que este realizou inúmeras negociações de drogas do interior do presídio, tendo como associado seu companheiro de cela, RODRIGO BARBOZA DE SOUZA - que, na época tinha direito a saídas para trabalhar - além de seu irmão ALEX BORGES VILAGRANDE, que estava recolhido no Presídio de São Gabriel.
+Na análise das conversas extraídas na quebra de sigilo, FLÁVIO e seu irmão combinam sobre a venda de entorpecentes ("dura"), assim como sobre a entrega e pagamentos a usuários e fornecedores. FLÁVIO, além de comprar e revender (em associação com RODRIGO) a droga do irmão, ainda realiza a captação de clientes e busca oportunidades de negócios para ALEX.
+ ..
+Quanto a ALEX BORGES VILAGRANDE, irmão de FLÁVIO, conforme já mencionado, este possui grande participação na organização. Mesmo estando preso, este seria um dos principais fornecedores de entorpecentes para os pequenos pontos de tráfico na cidade de Rosário do Sul.
+Em conversas com seu irmão FLÁVIO, observa-se a negociação de drogas, com o envolvimento de imóveis e armas de fogo como objetos de troca.
+ ..
+Além disso, verifico que a gravidade em concreto da conduta - considerando tratar-se de uma organização criminosa composta por oito suspeitos, seis deles presos - e a probabilidade de reiteração criminosa sustentam o risco à ordem pública, considerando o delito ter sido perpetrado.
+Isso porque, conforme bem menciona o Ministério Público, os antecedentes criminais dos suspeitos comprovam que todos eles, exceto CATIELE, possuem envolvimento prévio com crimes violentos e com tráfico de drogas, sendo todos reincidentes e/ou portadores de maus antecedentes.
+ ..
+ALEX VILAGRANDE possui duas denúncias recebidas por homicídio qualificado, além de ser portador de maus antecedentes pelo crime de roubo (031/2.03.0000439-4) e por possuir sentença condenatória em primeiro grau nesta Comarca pelo crime de tráfico de drogas. Esses fatos comprovam o seu envolvimento em crimes violentos, assim como o prévio envolvimento com tráfico de drogas, sendo indicado, inclusive, no expediente n.º 062/2.19.0000002-1, corno pertencente à organização criminosa.
+ ..
+Como se vê, consta no decreto prisional fundamento que deve ser entendido como idôneo, pois ressaltou-se a vivência delitiva do recorrente, e também o fato dele integrar complexa organização criminosa, destacando-se que "a gravidade em concreto da conduta - considerando tratar-se de uma organização criminosa composta por oito suspeitos, seis deles presos - e a probabilidade de reiteração criminosa sustentam o risco à ordem pública".
+Justifica a prisão preventiva o fato de o acusado integrar organização criminosa, em razão da garantia da ordem pública, quanto mais diante da complexidade dessa organização, evidenciada no número de integrantes, na presença de diversas frentes de atuação, ou contatos no exterior. Nesse sentido: RHC n. 46.094/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 4/8/2014; RHC n. 47242/RS - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 10/6/2014; RHC n. 46341/MS - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 11/6/2014; RHC n. 48067/ES - 5ª T. - unânime - Rel. Min. Regina Helena Costa - DJe 18/6/2014.
+Igual posicionamento se verifica no Supremo Tribunal Federal, v. g.: AgRg no HC n. 121622/PE - 2ª T. - unânime - Rel. Min. Celso de Mello - DJe 30/4/2014; RHC n. 122094/DF - 1ª T. - unânime - Rel. Min. Luiz Fux - DJe 4/6/2014; HC n. 115462/RR - 2ª T. - unânime - Rel. Min. Ricardo Lewandowski - DJe 23/4/2013.
+Ressalta-se ainda que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Por fim, verifica-se que a matéria referente à contemporaneidade da prisão não foi objeto de análise pelo colegiado do Tribunal de origem, conforme cópia de acórdão de fls. 111-116. Então, esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
