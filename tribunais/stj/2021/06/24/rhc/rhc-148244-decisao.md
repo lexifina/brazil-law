@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por Willian Natan da Silva Avelino - presopreventivamente pela prática, em tese, do crime de tráfico de drogas -contra o acórdão do Tribunal de Justiça do Paraná, que denegou a ordem ali impetrada, mantendo a prisão preventiva imposta aorecorrente pelo Juízo de Direito da Vara Criminal da comarca de Campina Grande do Sul/PR (Autos n. 0000486-18.2021.8.16.0037).
+Alega orecorrente, em síntese, ausência de fundamentação na decretação e manutenção da prisão cautelar a eleimposta.
+Postula, então, o conhecimento e o provimento do recurso, a fim de que aguarde em liberdade o julgamento de mérito da ação penal.
+Deferi o pedido liminar (fls. 279/280).
+Prestadas as informações (fls. 283/284), o Ministério Público Federal opinou pelo provimento do recurso, conforme se extrai (fls. 287/293):
+EMENTA: PENAL e PROCESSUAL PENAL. ROC em habeas corpus. Tráfico de drogas. Prisão em flagrante convertida em preventiva com base na quantidade da droga apreendida. Quantidade de entorpecente que, por si só, não denota a periculosidade social do acusado. Ausência de demonstração da imprescindibilidade da prisão para a garantia da ordem pública. Medidas cautelares diversas. Suficiência e adequação. Provimento do recurso ordinário, com a confirmação da liminar deferida.
+É o relatório.
+Faz-se necessário confirmar a liminar anteriormente deferida.
+Não obstante as relevantes considerações realizadas pelo Magistrado singular relacionadas à prática do crime, em especial, às circunstâncias do delito (fl. 176- apreensão de 388 g de maconha, balança de precisão e petrechos),considerando tanto a atual pandemia que assola o País e ameaça o sistema prisional como os fatos de orecorrente ser primárioe o crime, apesar de grave, ter sido cometido sem violência ou grave ameaça à pessoa, aplicáveis à espécie as medidas cautelares diversas da prisão constantes do art. 319 do CPP.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto. A propósito: HC n. 255.834/MG, Ministro Jorge Mussi, Quinta Turma, DJe 15/9/2014.
+À vista do exposto, dou provimentoao recurso, confirmando a liminar anteriormente deferida,para, sob o compromisso de comparecimento a todos os atos processuais, substituir a custódia cautelar dorecorrente por medidas alternativas, a serem implementadas pelo Magistrado singular, consistentes em: a) comparecimento quinzenal em juízo para informar e justificar suas atividades (art. 319, I, do CPP); b) proibição de ausentar-se da comarca (art. 319, IV, do CPP); e c) recolhimento domiciliar no período noturno e nos dias de folga (art. 319, V, do CPP), sem prejuízo da aplicação de outras cautelas pelo Magistrado singular, ou de nova decretação da prisão preventiva, em caso de descumprimento de qualquer das obrigações impostas ou caso haja motivos concretos e supervenientes para tanto.
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. APREENSÃO DE 388 G DE MACONHA. ACUSADO PRIMÁRIO. DELITO COMETIDO SEM VIOLÊNCIA OU GRAVE AMEAÇA. ART. 319 DOCPP. POSSIBILIDADE. NECESSIDADE DE CONFIRMAÇÃO DA LIMINAR ANTERIORMENTE DEFERIDA. CONSTRANGIMENTO ILEGAL MANIFESTO.
+Recurso provido nos termos do dispositivo.
