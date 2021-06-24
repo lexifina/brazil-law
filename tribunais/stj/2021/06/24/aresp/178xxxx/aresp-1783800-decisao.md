@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015), interposto por MARIA TERESINHA ALTÍSSIMO,contra decisão que deixou de admitir recurso especial, ao fundamento deque o dissidio pretoriano não foi demonstrado e, ainda, aplicável, aocaso, o enunciado da Súmula 07 do STJ.
+Nas razões de agravo, em síntese, ainsurgente sustenta que restarampreenchidos os requisitos autorizativos para a interposição do apelonobre.
+Contraminuta apresentada pela parte adversa.
+É o relatório.
+Decido.
+O recurso não é admissível, por violação ao princípio da dialeticidade.
+1. Com efeito, o insurgente se limitou a renegar, genericamente, o juízode admissibilidade realizado na origem, sem, contudo, efetivamentedemonstrarem a inadequação dos óbices invocados.
+Com efeito, no que se refere à aplicação da Súmula 07 do STJ, convémdestacar que a alegação genérica de que o tema discutido no recursoespecial representa matéria de direito e não fático-probatória, não é aptaa impugnar, de modo específico, o fundamento da decisão atacada. Ao revés,devem as partes agravantes refutarem o citado óbice mediante a exposiçãoda tese jurídica desenvolvida no recurso especial e a demonstração daadoção dos fatos tais quais postos nas instâncias ordinárias.
+A propósito, cita-se o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL QUE NÃO INFIRMA A FUNDAMENTAÇÃO DADECISÃO QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA
+182/STJ. 1. O agravo regimental que não impugna especificamente osfundamentos da decisão agravada não merece êxito ante o óbice imposto pelaSúmula 182 do STJ. 2. No caso, o decisório agravado entendeu pertinente ainvocação das Súmulas 211 e 7, desta Corte, sob o fundamento denão-prequestionamento dos dispositivos tidos por violados e pelo fato de aapreciação da litispendência, suscitada pelo agravante, necessitar deanálise de matéria fática. Nas razões do agravo regimental, cingiu-se aagravante a manifestar o preenchimento de pressupostos genéricos deadmissibilidade do apelo especial e a afirmar ter sido demonstrada aviolação ao art. 273, I, do CPC, eis que presentes os requisitosautorizadores para sua concessão, tratando-se de matéria de direito e nãofático-probatória. 3. Agravo regimental não-conhecido. (AgRg no REsp826.902/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe21/11/2008)
+Ora, como é cediço, a falta de ataque específico aos fundamentos dadecisão agravada atrai, por analogia, o óbice contido no Enunciado n.º182, da Súmula do STJ, verbis: "É inviável o agravo do art. 545 do CPC quedeixa de atacar especificamente os fundamentos da decisão agravada".Conforme já decidiu o STJ, "à luz do princípio da dialeticidade, quenorteia os recursos, deve a parte recorrente impugnar todos os fundamentossuficientes para manter o acórdão recorrido, de maneira a demonstrar que ojulgamento proferido pelo Tribunal de origem merece ser modificado, ouseja, não basta que faça alegações genéricas em sentido contrário àsafirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP,Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 26/11/2008).
+2. Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
