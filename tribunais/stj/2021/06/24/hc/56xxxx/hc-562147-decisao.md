@@ -1,0 +1,10 @@
+DECISÃO
+Diante da informação, obtida na página eletrônica do Tribunala quo, de que, no dia 21/6/2021, no Processo n. 0167549-03.2018.8.19.0001, da 11ª Vara Criminal da comarca da Capital/RJ, sobreveio a prolação de sentença, perdeu o objeto este feito.
+Isso porque aplicável a reiterada jurisprudência desta Corte Superior de Justiça segundo a qual a superveniência de sentença penal condenatória, por constituir novo título judicial a embasar a constrição cautelar do acusado, torna prejudicado o exame dewritque questiona decreto de prisão preventiva anterior (HC n. 365.344/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 28/8/2017).
+Afinal, na ocasião da prolação da sentença,em que se reconheceu, ainda que em decisão sujeita a recurso, mas em cognição exauriente, a culpa do paciente, .. a adequação da medida cautelar imposta foi reexaminada à luz de um espectro fático-processual de maior amplitude e profundidade.Assim, o estado de liberdade, atualmente, é alvo de ato jurisdicional superveniente, autônomo, de requisitos específicos e que desafia impugnação própria(STF: HC n. 138.238/PR, Ministro Edson Fachin, DJe 22/2/2017).
+De qualquer maneira, pelo que se tem dos autos,o anterior título judicial não revelava nenhuma ilegalidade aparente, uma vez que adotada motivação idônea para a decretação da prisão cautelar, qual seja, a periculosidade concreta dos agentes, tendo o Juízo de pisodestacado, a esse respeito, que os fatos imputados são concretamente graves, pois os delitos envolvem ao menos quarenta e cinco acusados associados para a prática de tráfico de drogas e/ou roubo de veículos de carga, utilizando-se de armas de fogo de uso restrito e envolvendo, ainda, adolescentes(fl. 38).
+Assim, com fundamento nos arts. 659 do Código de Processo Penal e 34, XI, do RISTJ,julgo prejudicadoo presentehabeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO.SUPERVENIÊNCIA DE SENTENÇA. NOVO TÍTULO. PERDA DO OBJETO.
+Writprejudicado.
