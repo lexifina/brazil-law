@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+    “juízo de retratação (art. 1.030, ii, cpc/15). Ação civil pública ajuizada pelo ministério público contra o estado de santa catarina. Acórdão desta câmara que determinou a realização de obras emergenciais, alusivas à segurança e à salubridade do estabelecimento prisional. Entendimento em conformidade com a tese fixada pelo supremo tribunal federal no tema n. 220. juízo de retratação negativo.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta que “o acórdão recorrido, ao concluir pela impossibilidade de se atender a pretensão do Parquet relacionada à transferência de presos, em vista do princípio da reserva do possível, contrariou o disposto nos arts. 1º, III; 5º, XLVI e XLVIII;, e 144, caput, da Constituição da República”.
+    O recurso não merece provimento. O acórdão recorrido não divergiu da jurisprudência do Supremo Tribunal Federal, que, ao analisar o RE 592.581-RG, Rel. Min. Ricardo Lewandowski, submetido à sistemática da repercussão geral (Tema 220), fixou a tese de que: “É lícito ao Judiciário impor à Administração Pública obrigação de fazer, consistente na promoção de medidas ou na execução de obras emergenciais em estabelecimentos prisionais para dar efetividade ao postulado da dignidade da pessoa humana e assegurar aos detentos o respeito à sua integridade física e moral, nos termos do que preceitua o art. 5º, XLIX, da Constituição Federal, não sendo oponível à decisão o argumento da reserva do possível nem o princípio da separação dos poderes”.
+    Com efeito, o Tribunal de origem, ao negar o pedido do Ministério Público quanto à remoção de presos, afastou a aplicação da orientação jurisprudencial desta Corte, tendo em vista questões fáticas intransponíveis. Vejam-se trechos pertinentes do acórdão recorrido:
+    “[...]
+    Acerca da primeira parte (transferência de presos condenados e provisórios) insta dizer que o Presídio de Biguaçu não é uma instituição autônoma, ele integra o sistema estadual composto por todos os estabelecimentos prisionais.
+    Embora desejável o pretendido pelo Parquet, não há como, na senda do princípio da reserva do possível, atender a essa postulação. Uma visão sistêmica presta-se para coarctar tal pretensão, porque colocaria o Presídio em tela em situação ideal, em detrimento de outros, que ficariam literalmente inadministráveis.
+    Conquanto deva-se reconhecer a legitimidade da preocupação do Ministério Público, imaginemos a possibilidade de, em todas as Comarcas onde há presídio, vir a ser adotada idêntica medida. Far-se-ia o que, se, como é ressabido, há um considerável déficit de vagas em todo o sistema?
+    Segue-se, como corolário, que, se, por um lado, o Promotor de Justiça age legitimamente em buscar melhores condições para o Presídio submetido à sua atuação funcional, o Julgador estadual há de ter uma visão holística, abrangendo todo o território barriga-verde, alicerçada no limite das possibilidades.
+    […].”
+    Dissentir desse entendimento exigiria a análise de fatos e provas, procedimento inviável de ser realizado neste momento processual (Súmula 279/STF).
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (arts. 17 e 18, Lei nº 7.347/1985).
+    Publique-se.
+          Brasília, 24 de junho de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
