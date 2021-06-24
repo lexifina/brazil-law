@@ -1,0 +1,15 @@
+Solução de Consulta Cosit nº 81, de 21 de junho de 2021
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+MICRORREGIME APLICADO AO SETOR AGROPECUÁRIO. INSUMOS. SUSPENSÃO. ALÍQUOTA ZERO. CRÉDITOS.
+A venda de amendoim em casca, classificado no código 1202.41.00 da Nomenclatura Comum do Mercosul (NCM), realizada por pessoa jurídica que exerça atividade agropecuária, a ser utilizado, pelo respectivo adquirente, como insumo na fabricação de paçoca, pasta e óleo de amendoim, não está sujeita à suspensão do pagamento da Cofins, visto que estes três últimos produtos não se encontram elencados na legislação concessiva desse benefício fiscal.
+Por outro lado, está reduzida a zero a alíquota da Cofins incidente sobre a receita bruta da venda, no mercado interno, de sementes de amendoim destinadas a plantio, em conformidade com o disposto na Lei nº 10.711, de 2003, o que não impede a manutenção, pelo vendedor, dos créditos ordinários (básicos) vinculados à operação, desde que apurados nos termos da legislação pertinente.
+Dispositivos Legais: Lei nº 5.172, de 1966, art. 111; Lei nº 10.711, de 2003; Lei nº 10.925, de 2004, arts. 1º, III e § 2º, 8º e 9º; Lei nº 11.033, de 2004, art. 17; Lei nº 11.116, de 2005, art. 16; Lei nº 12.839, de 2013, art. 2º; Decreto nº 5.153, de 2004; Instrução Normativa SRF nº 660, de 2006; Instrução Normativa RFB nº 1.717, de 2017; Instrução Normativa RFB nº 1.911, de 2019; Parecer Normativo RFB/Cosit nº 5, de 2018.
+Assunto: Contribuição para o PIS/Pasep
+MICRORREGIME APLICADO AO SETOR AGROPECUÁRIO. INSUMOS. SUSPENSÃO. ALÍQUOTA ZERO. CRÉDITOS.
+A venda de amendoim em casca, classificado no código 1202.41.00 da Nomenclatura Comum do Mercosul (NCM), realizada por pessoa jurídica que exerça atividade agropecuária, a ser utilizado, pelo respectivo adquirente, como insumo na fabricação de paçoca, pasta e óleo de amendoim, não está sujeita à suspensão do pagamento da Contribuição para o PIS/Pasep, visto que estes três últimos produtos não se encontram elencados na legislação concessiva desse benefício fiscal.
+Por outro lado, está reduzida a zero a alíquota da Contribuição para o PIS/Pasep incidente sobre a receita bruta da venda, no mercado interno, de sementes de amendoim destinadas a plantio, em conformidade com o disposto na Lei nº 10.711, de 2003, o que não impede a manutenção, pelo vendedor, dos créditos ordinários (básicos) vinculados à operação, desde que apurados nos termos da legislação pertinente.
+Dispositivos Legais: Lei nº 5.172, de 1966, art. 111; Lei nº 10.711, de 2003; Lei nº 10.925, de 2004, arts. 1º, III e § 2º, 8º e 9º; Lei nº 11.033, de 2004, art. 17; Lei nº 11.116, de 2005, art. 16; Lei nº 12.839, de 2013, art. 2º; Decreto nº 5.153, de 2004; Instrução Normativa SRF nº 660, de 2006; Instrução Normativa RFB nº 1.717, de 2017; Instrução Normativa RFB nº 1.911, de 2019; Parecer Normativo RFB/Cosit nº 5, de 2018.
+SC Cosit nº 81-2021
+[arquivo anexo: SC Cosit nº 81-2021.pdf]
+FERNANDO MOMBELLI
+Coordenador-Geral
