@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo interno interposto por IKRO COMPONENTES AUTOMOTIVOS LTDA. em face de decisão monocrática da Presidência desta Corte Superior, que conheceu do agravo para não conhecer do recurso especial ante a aplicação da Súmula 211/STJ (e-STJ, fls. 412).
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado (fl. 238, e-STJ):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE EXECUÇÃO. HONORÁRIOS PERICIAIS. A preliminar de não conhecimento do recurso deve ser afastada, pois em se tratando de ação de execução, as decisões agraváveis não são somente aquelas previstas nos incisos do caput do artigo 1.015 do CPC, conforme prevê o parágrafo único do referido artigo. Como foi a recorrida quem requereu a produção da prova pericial, a ela incumbia o pagamento da verba honorária pericial, conforme prevê o artigo 95 do CPC, razão pela qual não havia necessidade de a agravante ter sido intimada da pretensão honorária. PRELIMINAR AFASTADA E AGRAVO DE INSTRUMENTO DESPROVIDO. UNÂNIME.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fl. 259).
+Nas razões do especial (e-STJ, fls. 270-297), a parte recorrente sustentou violação aos arts. 465, § 3º, 82, §2º, 272, §5º e 278, caput, todos do Código de Processo Civil, alegando não ter sido intimado para se manifestar sobre a pretensão honorária do perito indicado pelo juízo, de forma que apresentou sua impugnação na primeira oportunidade de falar aos autos. Argumentou que teve seu direito ao contraditório cerceado, uma vez que se for sucumbente na demanda, terá que arcar com as despesas antecipadas pela parte adversa, mesmo sem ter tido a oportunidade de se manifestar sobre elas.
+Apontou, ainda, divergência jurisprudencial sobre o tema.
+Oferecidas as contrarrazões às fls. 328-338 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 343-348, e-STJ), o que ensejou o manejo do agravo (fls. 353-378, e-STJ).
+Em decisão monocrática, a Presidência desta Corte Superior conheceu do agravo para não conhecer do recurso ante a aplicação da Súmula 211/STJ (e-STJ, fls. 410-412).
+Inconformada, no presente agravo interno (e-STJ, fls. 415-436), a ora agravante combate o óbice supracitado e reitera as razões do apelo extremo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Impugnação às fls. 439-447 (e-STJ).
+É o relatório.
+Decido.
+Ante as razões expendidas no agravo interno, reconsidero a decisão monocrática anteriormente proferida e passo, de plano, ao reexame do reclamo.
+A irresignação não merece prosperar.
+1. Em suas razões recursais, a parte recorrente sustentou violação aos arts. 465, § 3º, 82, §2º, 272, §5º e 278, caput, todos do Código de Processo Civil, alegando não ter sido intimado para se manifestar sobre a pretensão honorária do perito indicado pelo juízo, de forma que apresentou sua impugnação na primeira oportunidade de falar aos autos. Argumentou que teve seu direito ao contraditório cerceado, uma vez que se for sucumbente na demanda, terá que arcar com as despesas antecipadas pela parte adversa, mesmo sem ter tido a oportunidade de se manifestar sobre elas.
+Sobre o tema, o Tribunal de origem asseverou o seguinte (e-STJ, fl. 241):
+Cuida-se, na origem, de ação de execução movida pela agravada contra a agravante, em que aquela requereu a realização de prova pericial.
+Ouvido o expert, ele estimou seus honorários em 14 salários mínimos nacionais, conforme a manifestação da fl. 127. Foi dado vista à agravada da pretensão da verba honorária (fl. 129), a qual prontamente depositou a quantia, juntando aos autos a respectiva guia de custas.
+Com efeito, como foi a recorrida quem requereu a produção da prova, a ela incumbia o pagamento da verba honorária pericial, conforme prevê o artigo 952 do CPC.
+Assim, não havia necessidade de a agravante ter sido intimada da pretensão honorária.
+De qualquer forma, ela acabou sendo intimada, pois a nota 523/2018, de 14/08/2018, foi disponibilizada em nome de ambas as partes.
+Assim, tivesse a recorrente interesse em impugnar o valor, deveria tê-lo feito nos cinco dias seguintes à publicação da nota, ex vi do artigo 218, § 3º, do CPC, o que acabou não ocorrendo, pois a manifestação do recorrente foi apenas na data de 10/09/2018.
+Como se vê, o Tribunal de origem asseverou que a parte recorrente poderia ter se manifestado no prazo de cinco dias sobre os honorários periciais, pois foi intimada por meio da nota 523/2018, de 14/08/2018, tendo, todavia, apresentado manifestação somente no dia 10/09/2018.
+Nesse contexto, o acolhimento da pretensão recursal, no ponto, demanda o reexame do acervo fático-probatório dos autos a fim de verificar se houve, ou não, intimação da parte,o que é vedado em sede de recurso especial, ante a incidência da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ORDINÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA DA AUTORA.
+1. As questões trazidas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões ou contradições, portanto, inexiste a alegada violação aos artigos 489 e 1.022 do CPC/15.
+2. Na espécie, a Corte de origem afirmou inexistir cerceamento de defesa, diante da ocorrência de preclusão do direito da autora, ora agravante, de se manifestar sobre o laudo pericial. O Tribunal local consignou, ainda, que todos os documentos foram apresentados ao perito, bem como não houve prejuízo à realização do laudo. Assim, rever tal o entendimento demandaria, inevitavelmente, o exame do contexto fático-probatório dos autos, atraindo o óbice da Súmula 7/STJ.
+3. Além disso, nos termos da jurisprudência do STJ, não há nulidade ou cerceamento de defesa, se a parte devidamente intimada deixa transcorrer in albis o prazo para apresentar impugnação ao laudo pericial (REsp 1838279/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 22/10/2019, DJe 28/10/2019).
+4. Agravo interno desprovido.
+(AgInt no AgInt no AREsp 1429984/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.NULIDADE POR FALTA DE INTIMAÇÃO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 535 do Código de Processo Civil de 1.973. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente, 2. O Tribunal de origem concluiu, após análise atenta dos autos, que não houve nulidade dos atos processuais por falta de intimação dos atuais procuradores. Alterar o entendimento do acórdão recorrido neste ponto, demandaria reexame do conjunto fático - probatório dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 762.312/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/02/2017, DJe 24/02/2017)
+2.Registre-se, por fim, que, consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE DESPEJO. ALEGAÇÃO DE EXISTÊNCIA DE CONTRATO VERBAL DE LOCAÇÃO. NÃO COMPROVAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO IMPROVIDO. (..) 2. A incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional. Precedentes. 3. Agravo regimental improvido. (AgRg no AREsp 834.644/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/03/2016, DJe 12/04/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. SÚMULA 7 DO STJ. 1. Ação de indenização por danos materiais e morais. 2. O reexame de fatos e provas não é possível na via especial, devido ao óbice da Súmula 7 desta Corte. 3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. 4. Agravo interno no agravo em recurso especial não provido. (AgInt no AREsp 1423333/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 29/04/2019, DJe 02/05/2019)
+3. Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 410-412, e-STJ, tornando-a sem efeitos. Em seguida, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
