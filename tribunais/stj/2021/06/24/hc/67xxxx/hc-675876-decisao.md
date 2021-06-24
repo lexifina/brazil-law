@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GILSON RUFINO - preso cautelarmente e denunciado pela suposta prática dos crimes de estelionato e associação criminosa - contra decisão liminar do Tribunal de Justiça do Estado do Espírito Santo.
+Nas razões da presente ação, a defesa alega ausência de motivos legais para a prisão preventiva do paciente, porquanto teria sido decretada com base apenas na gravidade abstrata dos crimes, sem apoio nas hipóteses do art. 312 do CPP. Ainda, argumenta que acusado possui residência fixa, ocupação lícita, compareceu espontaneamente a todos os atos do processo a que fora chamando,e pretende colaborar com toda a persecução penal, e que a medida extrema viola o princípio da presunção de inocência, sendo possível, na hipótese, a aplicação de outras medidas mais brandas.
+Diante disso, pede, em liminar e no mérito, a revogação da prisão preventiva do paciente.
+É o relatório, decido.
+Não há como prosseguir a irresignação. Isso porque o writ foi deficitariamente instruído, porquanto não foram juntadas peças processuais indispensáveis à compreensão da controvérsia, notadamente o ato impugnado que teria sido praticado pelo Tribunal estadual - decisão liminar no HC 0003575-85.2021.8.06.0000.
+É de se ressaltar que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Intimem-se.
