@@ -1,0 +1,20 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo manejado peloINSTITUTO NACIONAL DO SEGURO SOCIAL - INSScontra decisão que negou seguimento a recurso especialcom fundamento nos arts.1.030, I, "b", e 1.040, I, do CPC/2015, ao argumento deque o acórdão estaria em consonância com o Tema 995/STJ.
+O INSS, às e-STJ, fls. 701-704,opôs agravo interno interposto contra a decisão da Vice-Presidência que negou seguimento ao recurso especial. Em juízo de retração, o Colegiado regional manteve a negativa de seguimento ao apelo nobre do INSS.Contudo, mesmo com a negativa de seguimento do especial,determinou o encaminhamento do feito"à Corte Superior para a devida análise do recurso"(e-STJ, fl. 742).
+Decido.
+Verifica-se, da análise dos autos, que o Tribunal de origem negou seguimento ao recurso especial do INSS em sua totalidade, não havendo parte admitida. Ademais, também não houve oposição de agravo em recurso especial pelo INSS.
+Posto isso, não seria caso de encaminhamento do recurso da autarquia federal para nova análise.Ocorre queé entendimento sedimentado neste Superior Tribunal de que não cabe tal apelo contra decisão que não admite o recurso especial com amparo em precedente proferido em recurso representativo de controvérsia, ainda que tenha por objetivo discutir a correta aplicação do repetitivo.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO. INADMISSÃO COM BASE NO ART. 1.030, I, B, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. IMPOSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Revela-se manifestamente inadmissível a interposição de Agravo em Recurso Especial para impugnar decisão mediante a qual o Recurso Especial teve seguimento negado (art. 1.030, I, b, do CPC/2015) porque o acórdão recorrido estaria em consonância com o entendimento fixado em recurso repetitivo, porquanto cabível agravo interno.
+III - É inviável a determinação de retorno dos autos ao tribunal de origem, para que o agravo em recurso especial interposto seja apreciado como agravo interno, porquanto na sistemática vigente deixou de existir dúvida objetiva acerca do recurso cabível.
+Precedentes das Turmas componentes da 1ª, 2ª e 3ª Seções desta Corte.
+IV - Razões de agravo interno nas quais não impugnado especificamente o fundamento da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus da Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, c/c art.1.021, § 1º, todos do Código de Processo Civil de 2015.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - A parte agravante não apresenta, no recurso, argumentos suficientes para desconstituir a decisão agravada.
+VII - Agravo Interno não conhecido.
+(AgInt no AREsp 1.377.768/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 12/8/2019, DJe 14/8/2019).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo.
+Publique-se. Intimem-se
