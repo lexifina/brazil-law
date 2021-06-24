@@ -1,0 +1,37 @@
+DECISÃO
+VINICIUS DA SILVA PERES e MARTA AMARILHA BUENO SCHINAIDERinterpõemrecurso especial com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido peloTribunal Regional Federal da 4ª Regiãona Apelação Criminal n. 5006214-43.2019.4.04.7004/PR.
+Consta dos autos que os ora recorrentes foramcondenados, em primeiro grau, a 3anos, 7 meses e 22 diasde reclusão, em regime aberto, mais multa, pela prática docrimeprevistono art. 33,caput, da Lei n. 11.343/2006.
+O Tribunal de origem negou provimento ao recurso defensivo mas, de ofício, reconheceu a atenuante prevista no art. 65, I, do Código Penal em favor do acusado Vinícius e tornou sua reprimenda definitiva em 3 anos e 6 meses de reclusão, em regime aberto, mais multa.
+Nas razões do recurso especial, a defesa aponta violação do art. 59 do Código Penal, ao argumento de que é inidôneo o fundamento usado pelo Magistrado para considerar desfavoráveis as circunstâncias do crime, além de quefoi desproporcional a majoração operada pela instância de origem porque superior à fração de 1/6.
+Requer, portanto, o redimensionamento da sanção.
+Decisão de admissibilidade àfl. 391.
+O Ministério Público Federal manifestou-se pelonão provimentodo recurso.
+Decido.
+I. Pena-base
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de sanção a ser aplicada ao condenado criminalmente, com vistas à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto, e deve, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal.
+No caso, a instância ordinária majorou as reprimendas dos réus em 1 ano e 3 meses por considerar desfavoráveis as circunstâncias do delito.
+Este Tribunal Superior é firme em garantir a discricionariedade do julgador, sem a fixação de critério aritmético, na escolha da sanção a ser estabelecida na primeira etapa da dosimetria. Assim, o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, decidirá o quantum de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade.
+Na hipótese, percebe-se quena primeira etapa do processo dosimétricoo Magistrado, ao quantificar a sanção, estabeleceu a pena-base em 6 mês e 3 meses, ou seja, 1 ano e 3 meses de majoraçãoem razão de uma vetorial desfavorável, qual seja a circunstância do delito.Para tanto, mencionou que o "modus operandi do delito dificultou a fiscalização e a ação policial", pois "a ocultação da droga implicou dissimulação da forração interna, criando espaço com finalidade de enganar a fiscalização, denotando maior grau de planejamento e sofisticação por parte de terceiros traficantes" (fl. 243).
+Nesse particular, elucidoque a inidoneidade dos fundamentos mencionados pelo Juiz sentenciante para majoração da pena-base não foi analisada pelo Tribunal de origem porque nem mesmo foi objeto da apelação, o que evidencia carecer o especial do necessário prequestionamento nesse ponto.
+Entretanto, em que pese a ausência de prequestionamento, a título de ilustração, menciono entendimento desta Corte acerca do tema: "A quantidade de droga apreendida e a utilização de compartimentos especialmente preparados para a sua ocultação, com o viés de dificultar a fiscalização das autoridades competentes, são fundamentos robustos para a exasperação da pena-base" (AgRg no REsp n. 1.888.000/RS, Rel. MinistroSebastião Reis Junior, 6ª T., DJe 8/6/2021).
+Em relação à majoração, a jurisprudência uníssona das Turmas quecompõem a Terceira Seção entende que cabe ao magistrado, dentro do seulivre convencimento e de acordo com as peculiaridades do caso concreto,decidir oquantumde exasperação da pena-base, em observância aosprincípios da razoabilidade e da proporcionalidade.
+Nesse sentido: "embora não haja vinculação a critérios puramente matemáticos - como, por exemplo, os de 1/8 (um oitavo) ou 1/6 (um sexto) por vezes sugeridos pela doutrina -, os princípios da individualização da pena, da proporcionalidade, do dever de motivação das decisões judiciais, da prestação de contas (accountability) e da isonomia exigem que o Julgador, a fim de balizar os limites de sua discricionariedade, realize um juízo de coerência entre (a) o número de circunstâncias judiciais concretamente avaliadas como negativas; (b) o intervalo de pena abstratamente previsto para o crime; e (c) o quantum de pena que costuma ser aplicado pela jurisprudência em casos parecidos" (AgRg no HC n. 529.765/SP, Rel. Ministro Antonio Saldanha Palheiro, Rel. p/ Acórdão Ministra Laurita Vaz, 6ª T., DJe 2/9/2020, grifei).
+Logo, com base nas premissas mencionadas, considero desproporcional, apenas com fundamento em uma circunstância desfavorável, a majoração operada pela instância de origem, de modo quedeve ser o recuso provido com vistas à fixar as penas-base dos réus em 5 anos e 6 meses e 550 dias-multa, montante que considero proporcional face à justificativa apresentada pelo Juiz sentenciante.
+Deve, por conseguinte, ser realizada a nova dosimetria das penas.
+II. Nova dosimetria
+a) Vinicius da Silva Peres
+Na primeira fase, a pena-base ficou estabelecida em 5 anos e 6 meses de
+reclusão e 550 dias-multa.
+Na segunda etapa, reduzo a reprimenda em 2/6, em decorrência das atenuantes da menoridade relativa e confissão espontânea, de modo que a pena provisória chega a 5 anos de reclusão e 500 dias-multa, em obediência aos ditames da Súmula n. 231 do STJ.
+Na terceira fase, exaspero a pena em1/6, tal comoefetivado pelas instâncias ordinárias, em razão da majoranteprevista no art. 40, I, da Lei n. 11.343/2006. Além disso, com a incidência da minorante prevista no art. 33, § 4º, da Lei de Drogas, reduzo a sanção em 2/5 e torno a reprimendado réu definitivamente estabelecida em 3 anos e 6 meses de reclusão e 350 dias-multa.
+b)Marta Amarilha Bueno Schinaider
+Na primeira fase, a pena-base ficou estabelecida em 5 anos e 6 meses de
+reclusão e 550 dias-multa.
+Na segunda etapa, reduzo a reprimenda em 1/6, em decorrência daatenuanteda confissão espontânea, de modo que a pena provisória chega a 5 anos de reclusão e 500 dias-multa, em obediência aos ditames da Súmula n. 231 do STJ.
+Na terceira fase, exaspero a pena em 1/6, tal como efetivado pelas instâncias ordinárias, em razão da majorante prevista no art. 40, I, da Lei n. 11.343/2006. Além disso, com a incidência da minorante prevista no art. 33, § 4º, da Lei de Drogas, reduzo a sanção em 2/5 e torno a reprimenda darédefinitivamente estabelecida em 3 anos e 6 meses de reclusão e 350 dias-multa.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do Código deProcesso Civil, c/c o art. 3º do Código de Processo Penal, e no art. 34,XVIII, "c", parte final, do RISTJ, dou provimento ao recurso especial, afim de reduzir as penas-base impostas aos réuse, assim, diminuir as sanções impostaspara 3 anos e 6meses de reclusão e pagamento de 360 dias-multa.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
