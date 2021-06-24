@@ -1,0 +1,11 @@
+DECISÃO
+MAYCKY FERNANDO ZENI interpõe agravo regimental contra o acórdão, de fls. 2.478-2.482, proferido em embargos de declaração, assim sumariado (fl. 2478):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO PARADIGMA PROFERIDO EM HABEAS CORPUS. IMPOSSIBILIDADE DE CONFIGURAÇÃO DA DIVERGÊNCIA. OMISSÃO. NÃO OCORRÊNCIA. SUSTENTAÇÃO ORAL. NÃO CABIMENTO EM AGRAVO REGIMENTAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+2. Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos aclaratórios.
+3. As matérias ventiladas no âmbito da divergência não foram apreciadas em seu mérito, por esta Corte, porque o aresto apontado como paradigma foi proferido em habeas corpus. Segundo firme entendimento deste Superior Tribunal, o acórdão proferido em habeas corpus não é apto para configuração do dissenso interpretativo.
+4. A jurisprudência desta Corte Superior pacificou a compreensão, com suporte em previsão regimental, de que o julgamento do agravo regimental prescinde de pauta e não comporta pedido de sustentação oral.
+5. Embargos de declaração rejeitados.
+Entretanto, nos termos do art. 258 do RISTJ, o agravo regimental somente é cabível contra decisões monocráticas, mas nunca contra acórdãos proferidos pelos órgãos colegiados, situação que configura erro grosseiro e impede, inclusive, a adoção do princípio da fungibilidade ou a interrupção do prazo para eventual recurso cabível.
+Nesse sentido é a pacífica orientação desta Corte: "É manifestamente incabível (e configura erro grosseiro) a interposição de agravo regimental contra acórdão" (AgRg no AREsp n. 701.833/SP, Rel. Ministro Ribeiro Dantas, DJe 28/5/2021, destaquei).
+Assim, diante do evidente não cabimento do agravo regimental, consoante dispõe o art. 34, XVIII, "a", do RISTJ, não conheço do recurso.
