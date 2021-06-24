@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por RNG DISTRIBUIDORA DE VEÍCULOS LTDA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+AQUISIÇÃO DE VEÍCULO ZERO KM COM GARANTIA DE 06 ANOS SEM LIMITE DE QUILOMETRAGEM NEGATIVA DE CONSERTO FALHA NA PRESTAÇÃO DO SERVIÇO NEGATIVA DO CONSERTO QUE SE DEU NO PRAZO DA GARANTIA CONTRATUAL DANO MATERIAL COMPROVADO DANO MORAL CONFIGURADO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 186, 927 e 944 do CC, no que concerne à necessidade de redução do valor fixado a título de danos morais, trazendo os seguintes argumentos:
+Por qualquer ângulo que se analise a questão debatida, é forçoso concluir que a Recorrente não cometeu nenhuma conduta que possa ser considerada ilícita e que possa implicar na sua responsabilização civil no montante de R$ 10.000,00.
+A Recorrente auxiliou o Recorrido em todas as formas possíveis.
+Ademais, os danos morais não guardam qualquer relação com o "sentimento" do indivíduo, sendo que para o seu surgimento necessário se faz demonstrar o dano causado aos chamados direitos da personalidade daquele que se diz moralmente atingido, o que não restou comprovado nos presentes autos.
+A relação havida entre a Recorrente e o Recorrido indicaria, supostamente e quando muito, um ilícito contratual, o que, como bem se sabe, não justifica qualquer indenização de cunho extrapatrimonial, como já assentou o C. STJ:
+ ..
+No presente caso, a indenização imposta no montante de R$ 10.000,00 confrontou os princípios da proporcionalidade e da razoabilidade, exacerbando-se além da extensão do dano e configurando clara vantagem indevida da Recorrida em detrimento de injustificado prejuízo da Recorrente.
+Por fim, inegável que as circunstâncias do caso indicam que a decisão recorrida contraria o exposto nos artigos 186, 927, e 944 do Código Civil, de forma que se o Recorrido sofreu algum dano, este foi irrisório e a condenação imposta de R$ 10.000,00 não está em consonância com os princípios da razoabilidade e proporcionalidade, devendo ser minorado para patamar razoável, sob pena de se financiar uma verdadeira indústria do dano moral.
+ ..
+a) o acolhimento e provimento do presente Recurso Especial diante da negativa de vigência aos artigos 186, 927, e 944 do Código Civil, para reformar o v. acórdão recorrido a fim de minorar a condenação de danos morais imposta para patamares da razoabilidade de proporcionalidade (fls. 380/382).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+E finalmente o dano moral, diverso do alegado pelos apelantes, houve a lesão aos direitos de personalidade do apelado, em relação a sua esfera extrapatrimonial.
+Embora o autor tenha adquirido o veículo zero km no ano de 2015, e que seu defeito aconteceu no ano de 2019, houve a contratação da garantia de 06 anos, não tendo os réus efetivado o conserto.
+Se o consumidor contratou uma garantia tão extensa é para que problemas como os que vivenciou, no caso em tela, fossem evitados, esperando assim a tranquilidade de um bem que não lhe cause problemas.
+Presente, assim, a lesão a direito de personalidade, pela quebra da expectativa de quem adquire carro zero, com uma garantia extensa de 6 anos sendo frustrada a tranquilidade desejada.
+Assim, o valor da verba compensatória por danos morais deverá ser mantido no montante de R$ 10.000,00, eis que atende as circunstâncias do caso em tela, já que apesar das diversas reclamações com o preposto do réu quanto à demora do conserto, não logrou êxito na solução de seu problema o que demanda a perda de seu tempo útil, tendo, inclusive, que se socorrer ao Judiciário para resolver a questão (fl. 374).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
