@@ -1,0 +1,10 @@
+DECISÃO
+PAULO WILLIAN SIQUEIRA alega sofrer coação ilegal em face de acórdão prolatado pelo Tribunal a quo.
+O apenado do regime fechado pede, em liminar e no mérito, o deferimento do livramento condicional. Assinala que a passagem pelo regime aberto não é exigida pelo legislador e que não há fundamentação legal para o indeferimento do benefício.
+Decido.
+De acordo como princípio da dialeticidade, a parte deve atacaros motivos da decisão hostilizada, de modo a possibilitar ao órgão revisor a análise quanto ao seu acerto ou desacerto.
+O habeas corpus requerido ao Tribunal de origem deixou de ser conhecido em face de seu manifesto descabimento,pois se voltava contra decisão do Juiz da VEC já impugnadaporagravo em execução. Confira-se: "em face da r. decisão que ora se postula pela reforma, já foi interposto o recurso correto, isto é, o agravo em execução" (fl. 16).A parte não refutou afundamentação do aresto e essa deficiência impede o conhecimento do writ.
+Não há flagrante ilegalidade passível de correção de ofício, pois também no âmbito deste Superior Tribunal não se admite o uso desvirtuado do remédio heroico, de formacumulativa (e não substitutiva) arecurso próprio, com risco de prolação de decisões conflitantes pelo mesmo órgão jurisdicional.
+Ilustrativamente: "não se vislumbra qualquer ilegalidade no não conhecimento do mandamus originário, pois este Superior Tribunal de Justiça consolidou o entendimento no sentido de não ser cabível a impetração de habeas corpus concomitante  ..  aos recursos cabíveis"(HC 253.821/BA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/09/2013, DJe 26/09/2013).
+Finalmente, não há causa decidida, em única ou última instância sobre a pretensa ilegalidade da decisão que indeferiu o livramento condicional. Assim: "É inviável a análise nesta Corte Superior de matéria não apreciada no Tribunal de origem, pena de indevida supressão de instância" (AgRg no HC 445.407/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/05/2018, DJe 24/05/2018).
+À vista do exposto, não conheço do habeas corpus.
