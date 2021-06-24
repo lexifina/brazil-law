@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “APELAÇÃO. REAPRECIAÇÃO. ART. 1.040, II, CPC. REPERCUSSÃO GERAL. TEMA N.º 546. STF. LEI DISTRITAL N.º 239 DE 1992. ARTIGO 28. CONSTITUCIONALIDADE. IRRELEVANTE AO CASO CONCRETO. TRANSPORTE IRREGULAR UTILIZANDO VEÍCULO DE PASSEIO. NÃO SUBSUNÇÃO À LEI EM COMENTO. AUSÊNCIA DE DIVERGÊNCIA. ACÓRDÃO MANTIDO.
+    1. Apelações que retornam a esta Turma em cumprimento ao disposto no artigo 1.040, inciso II, do CPC, para análise de suposta divergência entre o acórdão proferido e o entendimento adotado pelo Supremo Tribunal Federal no RE n.º 661.702/DF (Tema n.º 546), que declarou a constitucionalidade do artigo 28 da Lei Distrital n.º 239/1992, alterado pelas Leis de n.º 953/1995 e n.º 3.229/2003, excetuado o §7º, em relação ao qual declarou a inconstitucionalidade da expressão ‘das multas, preços públicos e demais encargos’.
+    2. Tendo o acórdão entendido pela inaplicabilidade, ao caso concreto, do disposto no artigo 28 da Lei Distrital n.º 239/1992 (que trata sobre fraude no transporte coletivo), pelo fato de o veículo conduzido pelo autor não possuir os atributos necessários para ludibriar o usuário do serviço de transporte coletivo, mostra-se irrelevante a discussão sobre a constitucionalidade da norma distrital.
+    3. In casu, o decidido pelo STF no RE n.º 661.702/DF (constitucionalidade do artigo 28 da Lei Distrital n.º 239/92) não infirma o entendimento da Turma. Imperiosa, assim, a manutenção do acórdão – com a ressalva da fundamentação relativa ao decidido pelo Conselho Especial do TJDFT quanto à inconstitucionalidade do dispositivo em tela, a qual deve ser desconsiderada.
+    4. Acórdão mantido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 30, V, e 32, § 1º, da CF.
+    O recurso é inadmissível, tendo em vista que a solução da controvérsia demanda necessariamente a análise da legislação infraconstitucional aplicada ao caso, bem como a reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário. Nessa linha, vejam-se: o RE 1.312.001, Relª. Minª. Cármen Lúcia; o RE 1.304.689, Rel. Min. Ricardo Lewandowski; e o RE 1.292.627-AgR, Rel. Min. Marco Aurélio.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 24 de junho de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
