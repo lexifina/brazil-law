@@ -1,0 +1,32 @@
+EMBARGOS DE DECLARAÇÃO EM DECISÃO MONOCRÁTICA. DIREITO PENAL E PROCESSUAL PENAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO JUÍZO DE ADMISSIBILIDADE DA CORTE DE ORIGEM. SÚMULA Nº 287/STF. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INEXISTÊNCIA. CARÁTER MERAMENTE INFRINGENTE. EMBARGOS REJEITADOS.
+    1. O art. 1.022 do CPC/2015 admite embargos de declaração “contra qualquer decisão judicial”, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+    2. Não se prestam os embargos de declaração, não obstante a vocação democrática e a finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas na decisão embargada.
+    3. A jurisprudência desta Suprema Corte é firme no sentido de que inadmissível o agravo que não ataca especificamente os fundamentos da decisão que inadmitiu o recurso extraordinário. Incidência da Súmula nº 287/STF.
+    4. Ausência de omissão, contradição e obscuridade justificadoras da oposição de embargos declaratórios, nos termos do art. 1022 do CPC/2015, a evidenciar o caráter meramente infringente da insurgência.
+    5. Embargos de declaração rejeitados.
+    Vistos etc.
+    Trata-se de embargos de declaração opostos por Kesley Rodrigues de Oliveira, de decisão monocrática da minha lavra, pela qual negado seguimento ao recurso extraordinário com agravo ante a ausência de impugnação dos óbices opostos pela Presidência da Corte de origem ao trânsito do recurso extraordinário.
+    O embargante aduz “omisso e/ou obscuro” o julgado, ao articular “se entende que há a duvida que o agravante demonstrou a fundamentação, onde há sim a duvida da autoria e da materialidade. Onde assim apresentamos tal recurso possível, com o intuito de sanar da argumentação”. Requer que “sejam conhecidos e providos os presentes embargos com a manifestação a respeito do tema objeto da omissão alegada, bem como a modificação da sentença primeva com vistas no ato de constatar ou retratar a referente imposição sentencial, fazendo imperar a Justiça Plena”.
+    É o relatório.
+    Decido.
+    Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios, opostos já na vigência do Código de Processo Civil (Lei nº 13.105/2015).
+    O art. 1.022 do CPC/2015 admite embargos de declaração “contra qualquer decisão judicial”, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+    Com base, pois, nesse permissivo legal, procedo à apreciação singular destes aclaratórios, independentemente do caráter infringente que ostentam.
+    Reputo inexistente vício a ensejar o acolhimento dos presentes embargos declaratórios.
+    De início, sobrelevo devidamente explicitadas as razões de decidir e enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, consideradas, nos termos do art. 489, IV, do CPC/2015, bem como da jurisprudência desta Corte, aquelas assertivas recursais capazes de, em tese, infirmar a conclusão adotada pelo julgador. Precedentes: AR 2374 AgR-ED, Tribunal Pleno, Relator Min. Teori Zavascki, DJe 15.9.2016, e ARE 919777 AgR-ED, Tribunal Pleno, Relator Min. Ricardo Lewandowski (Presidente), DJe 21.9.2016.
+    Realço inexistente a veiculada omissão na decisão embargada, haja vista expressamente registrado o entendimento de que o recurso não comporta conhecimento ante a ausência de impugnação dos óbices opostos na decisão de inadmissibilidade do apelo extremo exarada na origem, verbis:
+    “Deixou a parte agravante de impugnar os óbices opostos pela Presidência da Corte de origem ao trânsito do recurso extraordinário, relativos a ausência de demonstração da repercussão geral no apelo extremo; a aplicação da Súmula nº 284/STF, por ausência de indicação de dispositivo constitucional; ao entendimento de que eventual ofensa à Constituição seria reflexa; e a aplicação da Súmula nº 279/STF, em desalinho com a exigência contida no inciso III do art. 932 do CPC/2015, verbis:
+    ‘Art. 932. Incumbe ao relator: [...]
+    III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.’
+    Aplicável, na hipótese, o entendimento jurisprudencial vertido na Súmula nº 287/STF: ‘Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia’.”
+    Saliento não se ressentir do vício da omissão, ao feitio legal, o decisum no qual se assenta, de forma inequívoca, a inviabilidade do apelo extremo, haja vista não preenchida a exigência contida no inciso III do art. 932 do CPC/2015.
+    A esse respeito, torno a enfatizar consolidado, nesta Corte Suprema, o entendimento segundo o qual inviável o agravo que não impugna os fundamentos da decisão agravada. Nesse compasso, os seguintes precedentes, inter plures:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. PROCESSO PENAL. INCIDÊNCIA DO ENUNCIADO 287 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. INOBSERVÂNCIA DO DEVER DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO RECORRIDA. AGRAVO INTERNO NÃO CONHECIDO. 1. A impugnação específica da decisão agravada, quando ausente, conduz ao desprovimento do agravo interno. Precedentes: ARE 1.2615.88-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli (Presidente), DJe de 29/6/2020); ARE 790.499-ED-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 1º/8/2019; ARE 880.671-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 30/6/2015. 2. Agravo interno não conhecido” (ARE 1.322.530-AgR, Rel. Luiz Fux (Presidente), Tribunal Pleno, DJe 24.6.2021).
+    Inexistente, ainda, o vício da obscuridade no decisum no qual se assenta, de forma clara, a inviabilidade do apelo extremo, nos moldes da decisão embargada.
+    De mais a mais, enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, bem como aquelas tidas por omissas, afasta-se a tese veiculada nos embargos declaratórios de que omisso o decisum.
+    Por conseguinte, reputo desatendidos os pressupostos de embargabilidade, consoante o art. 1022 do CPC.
+    Rejeito os embargos declaratórios (art. 1024, § 2º, do CPC de 2015).
+    Publique-se.
+    Brasília, 24 de junho de 2021.
+Ministra Rosa Weber
+Relatora
