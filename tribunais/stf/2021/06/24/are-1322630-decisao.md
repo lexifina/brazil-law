@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário, no qual se alega contrariedade ao art. 150, VI, c, da Constituição Federal.
+     O acórdão recorrido foi assim ementado:
+    “Apelação. Embargos a execução fiscal. Imposto predial e territorial urbano. Exercício de 2005. Reconhecimento de imunidade. Admissibilidade. Imóvel pertencente a entidade sindical de trabalhadores. Falta de prova de que o patrimônio do executado não se destina às finalidades essenciais deste. Inteligência do artigo 150, VI, ‘c’, e § 4º, da Constituição Federal. Recurso denegado”.
+    O Município de São Paulo, em seu recurso extraordinário, alega que o tribunal a quo “adotou a tese de que a imunidade não está condicionada à comprovação do preenchimento dos requisitos legais e que o benefício constitucional não depende de qualquer formalidade”. Aduz também que “não foram juntados os livros obrigatórios e os balanços comerciais dos exercícios anteriores, documentos necessários para a comprovação exigida pelo artigo 14 do CTN”.
+    Decido.
+    Irresignação não merece prosperar.
+    O Tribunal de origem, analisando o conjunto fático-probatório, mormente o estatuto social acostado aos autos, assentou ser a parte ora recorrida entidade sindical de trabalhadores. Em seguida, consignou que:
+    “Evidenciado o caráter sindical do embargante, não há exigir, para reconhecimento de imunidade, demonstre ele estar o imóvel relacionado com suas finalidades essenciais. Ao município é que cabe o ônus de produzir prova de fato impeditivo, modificativo ou extintivo do direito daquele.
+    Nenhum indício veio à tona, outrossim, de irregularidade na escrituração contábil do apelado; nada se apurou a indicar possível distribuição de parcela do patrimônio ou da renda; sinal inexiste de que se não apliquem integralmente no país eventuais recursos auferidos com a utilização do imóvel, com vistas à manutenção dos objetivos da entidade” (grifo nosso).
+    No entendimento atual da Corte, a presunção de que o imóvel ou as rendas da entidade estão afetados às suas finalidades institucionais milita em favor da entidade. Cabe ao Fisco o ônus de elidir a presunção, mediante a constituição de prova em contrário. Dessa orientação não divergiu o Tribunal de origem.
+    Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Entidade beneficiada pela imunidade tributária. 4. Comprovação dos requisitos. 5. Presunção em favor da entidade. 6. Ônus do Fisco de afastá-la, por meio de atividade probatória. 7. Agravo regimental a que se nega provimento” (ARE nº 1.095.156/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 9/4/18).
+    “EMENTA Imunidade. Entidade educacional. Artigo 150, inciso VI, alínea c, da Constituição Federal. ITBI. Aquisição de terreno sem edificação. Fato gerador. Momento da aquisição. Destinação às finalidades essenciais da entidade. Presunção. Ônus da prova. Precedentes. 1. No caso do ITBI, a destinação do imóvel às finalidades essenciais da entidade deve ser pressuposta, sob pena de não haver imunidade para esse tributo. 2. A condição de um imóvel estar vago ou sem edificação não é suficiente, por si só, para destituir a garantia constitucional da imunidade. 3. A regra da imunidade se traduz numa negativa de competência, limitando, a priori, o poder impositivo do Estado. 4. Na regra imunizante, como a garantia decorre diretamente da Carta Política, mediante decote de competência legislativa, as presunções sobre o enquadramento originalmente conferido devem militar a favor das pessoas ou das entidades que apontam a norma constitucional. 5. Quanto à imunidade prevista no art. 150, inciso VI, alínea c, da Constituição Federal, o ônus de elidir a presunção de vinculação às atividades essenciais é do Fisco. 6. Recurso extraordinário provido” (RE n° 470.520/SP, Primeira Turma, de minha relatoria, DJe de 21/11/13 – grifo nosso).
+    Na mesma direção: ARE n° 758.289/RJ-AgR, Primeira Turma, de minha relatoria, DJe de 10/4/14.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 24 de junho de 2021.
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
