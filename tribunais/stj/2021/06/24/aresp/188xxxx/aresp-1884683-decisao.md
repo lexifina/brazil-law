@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOSE FABRICIO HONORATO DOS SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado por JOSE FABRICIO HONORATO DOS SANTOS, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim resumido:
+PENAL E PROCESSUAL PENAL APELAÇÃO CRIMINAL CRIMES DE TRÁFICO DE DROGAS E POSSE ILEGAL DE MUNIÇÃO DE USO RESTRITO PRETENSÃO DE ABSOLVIÇÃO ARGUMENTO DE INEXISTÊNCIA DE PROVAS REJEIÇÃO CONJUNTO PROBATÓRIO SUFICIENTE A AMPARAR O ÉDITO CONDENATÓRIO PEDIDO SUBSIDIÁRIO APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA POR TRÁFICO PRIVILEGIADO IMPOSSIBILIDADE REITERAÇÃO DE CONDUTAS DELITIVAS PROCESSOS EM ANDAMENTO DEMONSTRAÇÃO DE DEDICAÇÃO À PRÁTICA DE ATIVIDADES CRIMINOSAS PRECEDENTES DO STJ PEDIDO DE SUBSTITUIÇÃO DA PENA RECLUSIVA POR RESTRITIVAS DE DIREITOS NÃO CABIMENTO AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS DO ART 44 DO CP PENA SUPERIOR AO PATAMAR MÍNIMO REGIME MANTIDO RECURSO CONHECIDO E NÃO PROVIDO
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 33, § 4º, da Lei nº 11.343/06, no que concerne ao preenchimento dos requisitos exigidos para a redução de pena pela figura do tráfico privilegiado, trazendo o(s) seguinte(s) argumento(s):
+"Verifica-se que, no caso concreto, merece incidir a causa de diminuição constante no art. o 33, § 4º, da Lei nº 11.343/06, haja vista estarem presentes todos os requisitos autorizadores da (x5 2 a. sua aplicação.
+ ..
+Veja-se que o substrato fático que embasa o apelo nobre, no ponto, é incontroverso: o acórdão recorrido reconhece a existência de inquieritos e processos em curso contra o recorrente e, com base nisso, deixa de aplicar a redução de pena relativa ao "tráfico privilegiado".
+ ..
+Assim, sendo o recorrente primário e de bons antecedentes, não se dedicando a atividades criminosas nem integrando organização criminosa, era de rigor a redução de pena pretendida.
+ ..
+Assim, o acórdão recorrido, ao tomar elementos inidôneos para caracterizar a dedicação do recorrente a atividades criminosas, ofendeu o disposto no artigo 33, §4º, da Lei 11.343/06, merecendo reforma" (fls. 288/290).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+"15  Consoante se infere, para a incidência da causa de diminuição de pena aí inserida, necessário se faz o preenchimento de 4 (quatro) requisitos cumulativos (e não alternativos), quais sejam: ser o acusado primário, possuir bons antecedentes, não se dedicar a atividades criminosas e não integrar organização criminosa.
+16  No caso em tela, como bem destacado pelo juízo sentenciante (fl. 143), o recorrente não faz jus ao dito benefício, haja vista restar demonstrado nos autos que o mesmo se dedica dedica a atividades criminosas, possuindo contra ele diversos processos em andamento, conforme Registros de Ocorrências da Secretaria de Estado e Defesa Social, colacionados à fl. 15 (os quais demonstram 2 ocorrências por tráfico de drogas e duas tentativas de homicídio), além do constatado no Saj 1º grau, consoante acima já mencionado.
+ ..
+19 - Assim, uma vez demonstrado que o recorrente é dedicado a atividades criminosas, não se aplica ao mesmo o benefício previsto no § 4º do art. 33, da Lei de Drogas (denominado de tráfico privilegiado)" (fls. 277/278).
+Tal o contexto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, quanto à existência ou inexistência da habitualidade delitiva para efeito de configuração do tráfico privilegiado, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido, vale citar o seguinte julgado desta Corte:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. APLICAÇÃO DA REDUTORA DO ART. 33, § 4º, DA LEI Nº 11.343/06. IMPOSSIBILIDADE. DEDICAÇÃO DO PACIENTE A ATIVIDADES CRIMINOSAS. PRECEDENTES. FUNDAMENTOS DO ACÓRDÃO IMPUGNADO. REVISÃO. INVIABILIDADE. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A fim de se aplicar a redutora do art. 33, § 4º, da Lei n.11.343/2006, é necessário o preenchimento de quatro requisitos cumulativos, quais sejam: (a) ser primário; (b) possuir bons antecedentes; (c) não dedicar-se a atividades criminosas; (d) não integrar organização criminosa. No caso concreto, a decisão proferida pela instância primeva expressamente ressaltou que o agravante se dedica a atividades criminosas.
+2. Para concluir diversamente do Tribunal de origem que entendeu que o réu se dedicava a atividades criminosas seria necessário o revolvimento do conteúdo probatório dos autos, providência inviável em sede de recurso especial. Óbice do enunciado de n. 7 da Súmula do STJ.
+ ..
+4. Agravo regimental desprovido. (AgRg nos EDcl no REsp n. 1.879.787/AM, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 08/02/2021.)
+Confiram-se ainda os seguintes julgados: AgRg no AREsp n. 1.663.688/GO, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 26/02/2021; AgRg no REsp n. 1.895.013/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 21/10/2020; AgRg no AgRg no AREsp n. 1.682.761/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/08/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
