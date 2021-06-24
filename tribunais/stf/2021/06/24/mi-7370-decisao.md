@@ -1,0 +1,20 @@
+Decisão: Trata-se de mandado de injunção impetrado por Valdemar dos Santos Amaral em face do Município de Ajuricaba-RS, sob o fundamento de que a Lei Complementar municipal 7/2015 não lhe acoberta o direito de manter-se dependente de servidor falecido, a despeito de apresentar deficiência mental leve.
+    Eis o teor do ato editado pela parte impetrada:
+    “Em atendimento ao processo nº 82/2020 protocolado por parte do Sr. Valdemar dos Santos Amaral, e atendendo o Despacho do Gabinete do Prefeito, constato que não há registro de dependência do solicitante junto a ficha/pasta funcional do segurado Sr. Ervino Amaral, sendo assim aconselho pelo indeferimento do pedido, justificado na perda da qualidade de segurado, conforme redação dada na Lei Complementar nº 007/2015 do Município de Ajuricaba-RS (...) Sendo expresso, que a deficiência deve ser reconhecida antes de completar os 21 anos de idade e classificada como grave, que também no caso do requerente não se enquadra, sendo que o mesmo apresentou junto a documentação através do protocolo 278/2020 um atestado médico atual o diagnosticando com a CID 10 – F70.0 (Retardo mental leve – menção de ausência de ou de (sic) comprometimento mínimo do comportamento).” (eDOC 4, p. 17)
+    Na exordial, o impetrante alega que o regime próprio de previdência social de estatura municipal discrepa da Lei 8.213/1991, que rege o regime geral previdenciário administrado pelo INSS, haja vista que neste não ocorre a qualificação da deficiência intelectual como grave.
+    Igualmente, sustente o seguinte:
+    “Assim, temos que a deficiência intelectual ou mental de grau LEVE do filho maior é suficiente ao enquadramento como dependente do segurado, de acordo com o artigo 16, I da Lei nº 8.213/91.
+    Nesse prisma, não há justificativa para os Regimes Próprios preverem normas com exigências que destoem do Regime Geral, de forma a prejudicar os dependentes.
+    Portanto, ao presente caso deve-se aplicar por analogia in bona partem, as regras do RGPS, vindo a assegurar ao Impetrante o seu direito a pensão por morte, eis que portador de deficiência mental leve, desde o nascimento.” (eDOC 1, p. 4-5)
+    É o relatório. Passo a decidir.
+    De plano, constata-se o manifesto descabimento desta via processual de um lado e, de outro, deste juízo.
+    Por evidente, é certo que o remédio constitucional em tela encontra expressa guarida no art. 5º, LXXI, da Constituição Federal. Porém, no que toca à competência deste STF, a alínea “q” do inciso I do art. 102 do texto constitucional é hialino no sentido de que as omissões passíveis de conhecimento por esta Corte referem-se aos atos imputáveis ao Presidente da República, Congresso Nacional, Câmara dos Deputados, Senado Federal, Mesas de uma dessas Casas Legislativas, Tribunal de Contas da União, um dos Tribunais Superiores, ou o próprio Supremo Tribunal Federal.
+    No caso dos autos, o impetrante insurge-se em face de lei complementar municipal que, ao seu juízo, seria omissa na proteção das pessoas com deficiência, ao prever condição mais grave para manter deficiente intelectual na qualidade de dependente segurado.
+    Ademais, o pleito em questão traduz-se em articulação de vício de inconstitucionalidade, por força do princípio da igualdade, tendo em conta que o regime jurídico local seria menos benéfico às pessoas com deficiência. Prova disso é a pretensão de conferir-se interpretação analógica à Lei federal 8.213/1991. Portanto, sequer em tese, com esteio na teoria da asserção, seria o caso de mandado de injunção.
+    Sendo assim, a presente demanda é manifestamente incabível, seja pela incompetência absoluta deste Tribunal, seja pela inépcia da petição inicial, na medida em que da narração dos fatos não decorre logicamente a conclusão.
+    Ante o exposto, não conheço do mandado de injunção, por ser manifestamente incabível, nos termos do art. 21, §1º, do RISTF, e do art. 330 do CPC.
+    Publique-se.
+    Brasília, 24 de junho de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
