@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por LEILA DE ALMEIDA, com respaldo na alínea "a"do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (e-STJ fls. 163/164):
+PREVIDENCIÁRIO. DIREITO PROCESSUAL CIVIL. REVISÃO DE BENEFÍCIO. EMENDAS CONSTITUCIONAIS NºS. 20/1998 E 41/2003. BENEFÍCIO CONCEDIDO ANTES DA CONSTITUIÇÃO DE 1988. MENOR VALOR TETO. DESCABIMENTO.
+- Ação proposta em face do INSS, pretendendo seja condenada a Autarquia à revisão do benefício previdenciário, mediante a aplicação do novo teto estabelecido nas Emendas Constitucionais nº 20/1998 e 41/2003, com o pagamento das diferenças encontradas.
+- O aposentado que teve seu benefício limitado ao teto vigente à época de sua concessão, com o advento das Emendas Constitucionais nº 20/98 e 41/03, que elevou o teto dos benefícios previdenciários para R$ 1.200,00(hum mil e duzentos reais) e R$ 2.400,00 (dois mil e quatrocentos reais), respectivamente, teria direito à aplicação do novo teto e reajuste do valor percebido.
+-Outro argumento a corroborar a não aplicação da ratio decidendi contida no RE no. 564.354 aos benefícios concedidos anteriormente à Constituição está na percepção de que o único elemento extrínseco ao cálculo dos benefícios era o limite máximo de pagamento mensal (art. 25, parágrafo único, Decreto no. 89.312/84).
+- Os assim chamados menor valor-teto do salário-de-benefício e maior valor-teto do salário-de-benefício nada mais eram do que variáveis intrínsecas ao cálculo da renda mensal inicial (art. 23, Decreto no.89.312/84).
+- O benefício da parte Autora foi concedido com RMI no valor de $ 826.320,00 e DIB em 18/09/1984, época em que o limite máximo dos salários de contribuição era de $ 1.652.640,00. Assim, o benefício teve RMI em valor inferior ao teto do salário de contribuição à época da concessão.
+- Honorários recursais fixados em 1% (um por cento), nos termos do art. 85, § 11, do CPC de 2015, considerando os parâmetros do § 2º do mesmo artigo, observado, no entanto, o disposto no art. 98, parágrafo 3º, do mesmo diploma legal.
+- Apelação improvida.
+Embargos de declaração rejeitados, nos seguintes termos(e-STJ fl. 225):
+PROCESSUAL CIVIL - EMBARGOS DE DECLARAÇÃO - AUSÊNCIA DEOMISSÃO. CONTRADIÇÃO. RECURSO DE FUNDAMENTAÇÃOVÍNCULADA. HIPÓTESES PREVISTAS NO ART. 1.022 DO CPC/2015. REDISCUSSÃO DO MÉRITO DA LIDE.
+- Os Embargos de Declaração somente são cabíveis quando interpostos para suprir eventual omissão, contradição ou obscuridade existente no julgado (art. 1022 do CPC), tal não é a hipótese.
+- No caso em tela, a parte Autora é titular de um benefício de aposentadoria concedido antes da Constituição Federal de 1988 (DIB em 18/09/1984), cuja RMI foi de $ 826.320,00; sendo que o teto máximo dos salários de contribuição era de $ 1.652.640,00. Assim, o benefício teve RMI em valor inferior ao teto do salário de contribuição à época da concessão.
+- A contradição deve ser interna, ou seja, verificada entre os elementos da própria decisão, não se admitindo embargos de declaração que afirmem ser a decisão contrária a determinadas provas dos autos, à jurisprudência, ou mesmo à legislação pertinente à matéria (TRF2, 7ª Turma Especializada, EDcl na AC 0015031-95.2017.4.02.5101, Rel. Des. Fed. SÉRGIOSCHWAITZER, E-DJF2R 03.07.2019).
+- Não se admite o uso dos embargos de declaração para rediscussão do mérito da lide (TRF2, 1ª Turma Especializada, EDcl na AC 0016047-21.2016.4.02.5101, Rel. Des. Fed. ANTONIO IVAN ATHIÉ, E-DJF2R28.02.2019; e TRF2, 2ª Turma Especializada, EDcl na AC 0000973-23.2013.4.02.5103, Rel. Des. Fed. SIMONE SCHREIBER, E-DJF2R03.10.2018).
+- Embargos de declaração não providos.
+Não conhecidos os novos aclaratórios (e-STJ fls. 263/267).
+Em suas razões, a parte recorrente aponta violaçãodos arts. 11,489, § 1º, VI, e 1.022, todos doCPC/2015,por negativa de prestação jurisdicional e ausência de fundamentação, ante o não suprimento de omissões apontadas em sede de embargos de declaração acerca da sua arguição denulidade da sentença, por cerceamento de defesa, com base noart. 369do CPC/2015 e no art.5º, LV, da Constituição Federal.
+Afirma que "o Magistrado entende que os limitadores eram calculados de forma diferente da regra atual e que os benefícios concedidos antes da CF/88 não teriam direito à readequação por já terem recuperado seu poder aquisitivo, por força do art. 58 do ADCT, inclusive" (e-STJ fl. 284).
+Contrarrazões às e-STJ fls. 316/322.Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 332/333.
+Passo a decidir.
+Verifico que a pretensão recursal nãomerece prosperar.
+Em relação à alegada ofensa dos arts. 11,489 e1.022 do CPC/2015, cumpre destacar que, ainda que arecorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação.
+Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+No caso, o Tribunal de origem assim elucidoua questão, in verbis(e-STJ fls. 229/230):
+Verifica-se que não foi determinado nenhum limite temporal. Logo, é possível, em tese, a aplicação imediata dos tetos previstos nas EC 20/98 e 41/03 a todos os benefícios concedidos antes da entrada em vigor dessas normas, inclusive aqueles providos antes da Constituição Federal de 1988.
+Com efeito, o único requisito para a aplicação dos novos tetos aos benefícios concedidos anteriormente a Constituição Federal de 1988 é que o salário de benefício tenha sofrido, à época de sua concessão, diminuição em razão da incidência do limitador previdenciário então vigente.
+No caso em tela, a parte Autora é titular de um benefício de aposentadoria concedido antes da Constituição Federal de 1988 (DIB em 18/09/1984 - Evento 6, CONT1, fls. 12), cuja RMI foi de $ 826.320,00; sendo que o teto máximo dos salários de contribuição era de $ 1.652.640,00.
+Assim, o benefício teve RMI em valor inferior ao teto do salário de contribuição à época da concessão.
+Assim, não há como confundir o resultado desfavorável à parte litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Ante o exposto, com base no art. 255, § 4º, II, do RISTJ, NEGO PROVIMENTO ao recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
