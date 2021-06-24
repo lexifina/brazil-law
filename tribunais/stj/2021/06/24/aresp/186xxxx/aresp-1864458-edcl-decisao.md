@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por BANCO SANTANDER (BRASIL) S.A. à decisão de fls. 203/204, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Com o devido respeito, a r. decisão é omissa pelo fato de que o Agravante/Embargante além de ter destacado preliminarmente em seu recurso a suspensão do prazo pelo período, ainda comprovou documentalmente, que em razão do encerramento antecipado do expediente forense do e. TJSP, os prazos existentes no dia 10.02.2020 foram expressamente suspensos pelo Exmo. Desembargador Presidente daquele e. Tribunal (v. fl. 111), conforme autoriza o art. 221 do CPC.
+A propósito, a suspensão do prazo inclusive se deu por força maior, em razão das fortes chuvas no Estado de São Paulo (nos termos do art. 313 do CPC).
+Com efeito à suspensão do prazo no dia 10.02.2020 (segunda feira) - data esta não contabilizado na contagem recursal -- , eis que se dá apenas em dias úteis, o prazo recursal encerrou- se no dia 12.02.2020 (quarta-feira).
+Tanto é verdade, que o Recurso Especial passou pelo crivo de admissibilidade do e.
+TJSP, que houve apenas por não conhece-lo já que usurpou a competência deste e. STJ ao adentrar ao mérito recursal, e não por sua intempestividade, razão pela qual, originou o presente Agravo em Recurso Especial (fls. 206/207).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial. o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+No caso, as cópias de páginas de notícias da internet juntadas às fls. 111/112, não têm o condão de afastar a intempestividade do recurso.
+A propósito: AgInt no AgInt no REsp 1625104/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 10/4/2019; AgInt no AREsp 1456817/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/10/2019.
+Ademais, observe-se que "o juízo de admissibilidade do recurso especial é bifásico, assim, a decisão proferida pelo tribunal de origem não vincula esta Corte, que tem competência plena para verificar novamente o preenchimento dos pressupostos recursais". (EDcl no AgInt no REsp 1781795/ES, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 16/6/2020.)
+Do mesmo modo, certidão lavrada por servidor público ou pelo sistema, nos autos do processo, atestando a tempestividade do recurso, não impede o reexame desse requisito pelo STJ. Nesse sentido, o AgInt nos EDcl no AREsp 1544693/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 5/5/2020; e o AgInt no AREsp 1547898/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 12/3/2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
