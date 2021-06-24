@@ -1,0 +1,7 @@
+DECISÃO
+Vistos, etc.
+Verifica-se que a questão jurídica objeto da presente PUIL - direta ou indiretamente - constitui tema dos Recursos Especiais n. 1.878.849/TO, 1.878.854/TO e 1.879.282/TO (Tema 1.075 - Legalidade do ato de não concessão de progressão funcional do Servidor Público, quando atendidos todos os requisitos legais, sob o fundamento de que superados os limites orçamentários previstos na Lei de Responsabilidade Fiscal, referentes a gastos com pessoal de Ente Público), de relatoria do Ministro Manoel Erhardt, submetido ao rito dos recursos repetitivos, estabelecido pelo disposto no art. 1.036, § 5º, do CPC/2015.
+Embora o processamento dos repetitivos não seja aplicável à sistemática de "Pedido de Uniformização de Interpretação de Lei" de maneira imediata, entendo que indiretamente atingirá os referidos procedimentos em virtude de o julgamento dos recursos especiais implicar o entendimento da Corte Especial, inclusive como precedente de eficácia normativa.
+Assim, o julgamento imediato do PUIL seria prematuro.
+Ante o exposto, devolvo o presente PUIL ao órgão jurisdicional de origem para que, com a decisão dos repetitivos e a formação da tese normativa da Corte Especial, seja possível à Turma Recursal adequar seu entendimento à orientação firmada pelo STJ, nos termos doart. 19, § 6º, da Lei dos Juizados Especiais da Fazenda Pública. De acordo com o dispositivo, o órgão jurisdicional poderá exercer juízo de retratação ou julgar prejudicado o pedido caso veicule tese não acolhida pelo Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
