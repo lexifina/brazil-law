@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu recurso especial (com fundamento no art. 105, III,a, da Constituição Federal) apresentado contra oacórdãoproferidopelo Tribunal de Justiça de Santa Catarina (Apelação Criminal n. 0023607-56.2011.8.240020), que manteve a condenação de Altermir Cândido Barreiros Bernardes como incurso no crime de furto qualificado à pena de 2 anos de reclusão, em regime aberto (substituída por duas restritivas de direitos), além do pagamento de 10 dias-multa.
+Nas razões do recurso especial, a defesa do agravante suscitou ilegalidade na falta de reconhecimento da prescrição da pretensão punitiva com base na pena em concreto e considerando olapso temporal transcorrido entre o recebimento da denúncia e a publicação da sentença condenatória no DJe (fls. 692/697).
+A Corte de origem inadmitiu o recurso com base na intempestividade do reclamo (fls. 727/729).
+Contra odecisuma defesa interpôs o presente agravo (fls. 736/740).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do recurso especial e, se conhecido, pelo desprovimento do recurso (fl. 786):
+AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. RECURSO ESPECIAL. INTEMPESTIVIDADE. NÃO CONHECIMENTO. PRESCRIÇÃO.NÃO OCORRÊNCIA.
+1. "É dever do recorrente, no ato da interposição do recurso, comprovar sua tempestividade, conforme o art.1.003, § 6º, do CPC, inclusive, a ocorrência de feriados locais e a suspensão do expediente forense, sendo incabível a comprovação posterior". Precedente do STJ.
+2. Há interrupção do curso da prescrição da pretensão punitiva quando proferido acórdão confirmatório da condenação de primeira instância, independentemente da manutenção, majoração ou redução da pena. Recente orientação jurisprudencial do Supremo Tribunal Federal, já acolhida por essa Corte Superior.
+3. Parecer pelo conhecimento do agravo, para não conhecer do especial, ou para negar-lhe provimento, se acaso conhecido.
+É o relatório.
+O agravo é admissível, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+Quanto ao recurso especial em si, também não diviso óbice ao conhecimento do reclamo.
+Em razão da pandemia relativa à Covid-19, os prazos processuais foram suspensos no período de 19/3/2020 a 30/4/2020, conforme art. 5º da Resolução do CNJ 313, de 19 de março de 2020, voltando a fluir o prazo, para os processos eletrônicos, em 4/5/2020 (art. 3º, caput, da Resolução CNJ n. 314, de 20/4/2020).
+No caso, o acórdão exarado no julgamento da apelação foi publicado em 11/3/2020 (fl. 690), iniciando o prazo recursal em 12/3/2020, como suspensão em 19/3/2020 e retomadaem 4/5/2020,sendo o recurso especial protocolizado em 8/5/2020 (fl. 692), circunstância que firma a tempestividade do recurso, pois interposto dentro do prazo de 15 dias.
+No mérito, contudo, a insurgência não merece acolhida.
+A tese defensiva é no sentido da prescrição da pretensão punitiva considerando a pena em concreto e o lapso temporal transcorrido entre o recebimento da denúncia a publicação da sentença condenatória.
+Ocorre que, ao contrário do alega a defesa, não transcorreu lapso temporal superior a 4 anos entre o recebimento da denúncia e a publicação da sentença condenatória, pois a publicação aludida no art. 117, IV, do Código Penal (causa interruptiva da prescrição), verifica-se pelo simplesrecebimento da sentença em cartório, sendo que, no caso, essa publicação se efetivou em 25/5/2017 (fl. 576), circunstância que rechaça a prescrição alegada, considerando que entre o recebimento da denúncia (3/7/2013) e a referida publicação transcorreu lapso temporal inferior a 4 anos.
+Nesse sentido, destaco precedentes das duas Turmas que integram a Terceira Seção desta Corte:
+ ..
+5. Nos termos do art. 117, IV, do Código Penal, a prescrição se interrompe na data da publicação da sentença em cartório, ou seja, quando de sua entrega ao escrivão, e não da intimação das partes ou da publicação no órgão oficial.
+6. Embargos de declaração parcialmente acolhidos sem efeitos infringentes.
+(EDcl no AgRg nos EDcl no AREsp n. 1.742.926/SP, Ministro João Otávio de Noronha, Quinta Turma, DJe 21/5/2021 - grifo nosso)
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA.PRESCRIÇÃO DA PRETENSÃO PUNITIVA. LAPSO ENTRE O RECEBIMENTO DA DENÚNCIA E A SENTENÇA CONDENATÓRIA. ORDEM CONCEDIDA. ALEGAÇÃO RECURSAL. MARCO TEMPORAL. PUBLICAÇÃO DA SENTENÇA EM CARTÓRIO.PRECEDENTES.
+1. A jurisprudência deste Superior Tribunal de Justiça é pacífica no sentido de que, nos termos do artigo 117, inciso IV, do Código Penal, a prescrição se interrompe na data da publicação da sentença em cartório, ou seja, de sua entrega ao escrivão, e não da intimação das partes ou publicação no órgão oficial (AgRg no AREsp n.1.380.415/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 19/2/2019).
+2. A denúncia foi recebida em 8/9/2008 (fls. 214/220) e a sentença condenatória publicada em 4/9/2012 (fl. 788). Então, o lapso entre as duas causas interruptivas (3 anos, 11 meses e 27 dias) não foi superior ao prescricional (4 anos - art. 109, V, do CP).
+3. Embargos de declaração acolhidos para cassar a decisão de fls.1.093/1.096 e, consequentemente, denegar a ordem.
+(EDcl no HC 420.658/MT, de minha relatoria, Sexta Turma, DJe 19/02/2020)
+Também não há falar em prescrição subsequente, ou seja, após a publicação da sentença condenatória,pois o julgamento da apelação em 5/3/2020 (acórdão confirmatório)também consubstanciou novo marco interruptivo.
+Nesse sentido, destaco precedentes recentes da Quinta e Sexta Turmas desta Corte (grifo nosso):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRAZO PRESCRICIONAL. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. INTERRUPÇÃO. EMBARGOS DE DECLARAÇÃO COM EFEITOS MODIFICATIVOS ACOLHIDOS.
+1. Embora a jurisprudência desta Corte, à época do julgamento do recurso especial, assinalasse que o acórdão confirmatório da sentença condenatória não interrompia o lapso prescricional, foi omisso o aresto relativamente ao dissenso interpretativo que existia no âmbito do STF, cuja uniformização jurisprudencial redundou em entendimento contrário ao então dominante neste Superior Tribunal.
+2. O Plenário do Supremo Tribunal Federal compreendeu que o Código Penal não faz distinção entre acórdão condenatório inicial ou confirmatório da decisão para fins de interrupção da prescrição. Por isso, o acórdão que confirma a sentença condenatória, por revelar pleno exercício da jurisdição penal, interrompe o prazo prescricional, nos termos do art. 117, IV, do Código Penal.
+3. O referido decisum foi exarado no julgamento doHabeas Corpusn. 176.473/RR, de relatoria do Ministro Alexandre de Moraes, o qual fixou a seguinte tese: "Nos termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta".
+4. Na espécie, verifica-se a seguinte situação: a denúncia foi recebida em 5/6/2012. Entre a denúncia e a sentença condenatória, proferida em 30/4/2014, não transcorreu o prazo de que trata o art. 109, V, do CP, isto é, de 4 anos. Tampouco entre a sentença e o acórdão que confirmou a decisão de primeiro grau, proferida em 9/2/2017.
+5. Embargos de declaração acolhidos, com efeitos modificativos, a fim de dar provimento ao agravo regimental e, por consequência, afastar o reconhecimento da incidência da prescrição.
+(EDcl no AgRg no AREsp n. 1.140.403/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 14/8/2020)
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EMHABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO PUNITIVA RECONHECIDA. ACÓRDÃO CONFIRMATÓRIO DE CONDENAÇÃO. NOVO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. REVISÃO DO JULGADO. EMBARGOS ACOLHIDOS. EFEITOS MODIFICATIVOS.
+1. Os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. É pacífico nesta Corte Superior que "o acórdão que apenas confirma a sentença de primeiro grau, sem decretar nova condenação por crime diverso, não configura marco interruptivo da prescrição, ainda que haja reforma considerável na dosimetria da pena" (AgRg no REsp 1.362.264/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 13/5/2015).
+3. Na espécie, aplicada ao réu pena inferior a 2 anos de reclusão, a prescrição da pretensão punitiva ocorre em 4 anos (art. 109, V, do CP). Considerando que a publicação da sentença ocorreu em 30/08/2013, e não sobrevindo outro marco interruptivo no prazo de 4 anos, uma vez que o Tribunal a quo, em grau de apelação, apenas confirmou a sentença condenatória, foi declarada a extinção da punibilidade do recorrente e, por extensão, de outros corréus.
+4. O Supremo Tribunal Federal, no julgamento do HC n.º 176.473, de Relatoria do Exmo. Ministro Alexandre de Moraes, pacificou novo posicionamento acerca do tema, fixando a premissa segundo a qual " n os termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1.º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta".
+5. Necessidade de adequação da jurisprudência deste Tribunal ao entendimento firmado pela Suprema Corte, de modo que o acórdão que confirma a condenação seja considerado, também, marco interruptivo da prescrição.
+6. Embargos de declaração acolhidos, com efeitos infringentes, para que seja afastada a ocorrência da prescrição da pretensão punitiva anteriormente reconhecida.
+(EDcl no AgRg no RHC n. 109.530/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 1º/6/2020)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. MANIFESTA IMPROCEDÊNCIA. PRECEDENTES DESTA CORTE.
+Agravo conhecido para negar provimento ao recurso especial.
