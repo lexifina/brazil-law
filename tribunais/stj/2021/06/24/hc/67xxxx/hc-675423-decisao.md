@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício deANDERSON RODRIGO PEIXOTO contra decisão do Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS Relator do HC n.º 1.0000.21.079777-5/000,que indeferiu a liminar pleiteada naquela instância.
+Consta dos autos que o paciente foi preso preventivamente pela suposta prática dos crimes previstosnos art. 288 e 317, §1º, ambos do Código Penal.
+Contra a decisão, a defesa impetrou a ordem originária e o Desembargador Relator indeferiu o pedido de liminar.
+Nesta oportunidade, a defesa afirma quehá dois processos na origem vinculados ao paciente, um por corrupção passiva, e o outro por formação de organizaçãocriminosa. Em relação à corrupção passiva, houve concessão da ordem, pelo Tribunal de Justiça local, para revogar a sua prisão preventiva (HC n.º 1.0000.21.078868-3/000), por ausência dos requisitos autorizadores da medida extrema. Todavia, em virtude da prisão decretada no segundo processo, o paciente permanece segregado.
+Afirma a defesa que o pedido liminar foi indeferido, na origem, mas não há razões para a manutenção da prisão, tendo em vista a ausência de fundamentação idônea e dos requisitos do art. 312 do Código de Processo Penal.
+Ressalta as condições subjetivas favoráveis ao paciente,primário, com bons antecedentes e residência fixa. Esclarece que a suposta organização criminosa já foi desmantelada, esua empresa está com todas as atividades suspensas.
+Destaca, ainda, que o paciente é portador de Diabetes Mellituse corre risco de contaminação e agravamento pelaCOVID-19.
+Diante disso, pleiteia, liminarmente e no mérito, a revogação da prisão preventiva do paciente, mesmo mediante a imposição de medidas cautelares, ou sua substituição por prisão domiciliar.
+É o relatório, decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular, notadamente se considerado o que foi enfatizado pelo Desembargador Relator, o qual, ao indeferir a liminar, aduziu o seguinte (e-SJT fls. xxx):
+Sabe-se que, em juízo cognitivo precário, a análise do julgador deve-se ater às balizas autorizadoras do perigo da demora e da fumaça do bom direito.
+Destaco que resta cabível a prisão preventiva, conforme o art. 313, I, do CPP, haja vista que a pena máxima cominada para os crimes supostamente cometidos pelo paciente é maior do que 4 (quatro) anos.
+Ademais, após colacionar detidamente os autos, entendo presentes os pressupostos da segregação cautelar, tendo em vista a materialidade e os indícios de autoria (fls. 32/302 - doc. único).
+Lado outro, como muito bem ressaltado pela digna autoridade apontada como coatora, verifico os fundamentos da constrição cautelar: " .. entendo que resta configurada, em cognição sumária, agravidade em concreto da conduta em apuração, posto que, segundo os autos, os acusados formavam um grupo articulado para a prática e êxito das fraudes, fazendo com que candidatos inaptos para a obtenção da Carteira Nacional de Habilitação pudessem obtê-la, expondo a si e a outros em perigo, mediante o pagamento de quantia em dinheiro para tanto  .. "(fls. 586/591 - doc. único).
+Logo, a segregação cautelar deve ser mantida em sede liminar, não restando demonstrada qualquer excepcionalidade a justificar conclusão diversa.
+Ademais, as questões postas pela defesa exigemaveriguação mais profunda pelo Tribunal estadual, no momento adequado.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
