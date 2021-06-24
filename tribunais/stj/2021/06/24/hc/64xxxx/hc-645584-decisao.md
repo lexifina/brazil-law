@@ -1,0 +1,24 @@
+DECISÃO
+FELIPE JESUS DA SILVA, paciente neste habeas corpus, alega sofrer constrangimento ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Geraisna Apelação n. 1.0518.20.001046-1/001.
+Neste writ, a defesa pleiteia seja reduzida a pena-base, a qual teria sido recrudescida sem proporcionalidade.
+Instado a se manifestar, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+I. Contextualização
+Depreende-se dos autos que o paciente foi condenado pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, à pena de 8 anos e 2 meses de reclusão, no regime inicial fechado, mais multa. Na ocasião, a sanção foi assim dosada (fls. 397-398, destaquei):
+Atento às diretrizes traçadas no artigo 5º, XLVI, da Constituição Federal e no disposto no artigo 59 e 68, todos do Código Penal Brasileiro, passo a dosar e aplicar as penas ao réu:
+Da natureza e da quantidade da substância: A potencialidade de dependência da maconha, é média, porém fora localizado considerável quantidade desta substância, isto é, 01 (uma) barra pesando aproximadamente 211,64g (duzentos e onze gramas e sessenta e quatro centigramas); Culpabilidade: verifica -se que o grau de reprovabilidade do delito é normal. Antecedentes: verifica-se que o réu tem maus antecedentes (autos nº 023997674.2012.8.13.0518 - CAC de fls. 135/136), bem como é reincidente específico, agravante esta que será analisada na próxima fase de aplicação da pena. Conduta social e Personalidade: não há dados para avaliar. Motivos do crime: são os consistentes ao tipo penal. Circunstâncias:são inerente ao tipo penal. Consequências: são inerentes ao tipo penal. Comportamento da vitima: não há que se falar em comportamento da vitima.
+Assim, seguindo as diretrizes do art. 59 e 68, todos do CP, fixo a pena em 07 (sete) anos de reclusão e 700 (setecentos) dias-multa.
+Irresignada, a defesa interpôs apelação criminal perante a Corte de origem, que lhe negou provimento, a fim de manter inalterada a sentença condenatória. A dosimetria foi preservada nos termos seguintes (fls. 376, destaquei):
+Ademais, melhor sorte não socorre à defesa ao pugnar pela redução das penas-base fixadas.
+Ora, vê-se nos autos, às ff. 160-160v, que o d. Sentenciante fixou as penas-base em patamares apenas um pouco superiores aos mínimos cominados no respectivo tipo penal no qual incorreu o réu  quais sejam, em 07 (sete) anos de reclusão e multa, sendo aumentadas pela reincidência do acusado (comprovada na CAC de ff. 135-136) e concretizadas em 08 (oito) anos e 02 (dois) meses de reclusão e 816 (oitocentos e dezesseis) dias-multa  , devendo-se lembrar que as sanções cominadas ao delito vão de 05 (cinco) a 15 (quinze) anos de reclusão e de 500 (quinhentos) a 1.500 (mil e quinhentos) dias-multa  ou seja, foram estabelecidas muito mais próximas do mínimo do que do máximo legal  , sendo certo que a quantidade de droga apreendida e os antecedentes criminais maculados do réu, por si sós, já justificariam a eleição daqueles patamares estabelecidos pelo d. Sentenciante.
+Nesta conjuntura, não havendo qualquer equívoco a ser reconhecido na dosimetria das reprimendas impostas ao apelante, a manutenção destas também é medida que se impõe.
+Feito esse registro, passo à análise das teses defensivas.
+II. Pena-base
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal, e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+Nos autos em exame, as instâncias ordinárias entenderam adequado o aumento da pena-base em 2 anos em razão da presença de duas circunstâncias judiciais desfavoráveis: os maus antecedentes e a quantidade do entorpecente apreendido.
+Entendo, assim, além de serem concretos os fundamentos mencionados e atinentes às peculiaridades do caso, ser também proporcional o aumento de 2 anospara o crime em comento, haja vista que o réu apresenta maus antecedentes e quefoi apreendida droga em quantidade não insignificante - 211,64 g de maconha.
+Vale dizer, é lícito às instâncias ordinárias sopesar, dentro de sua discricionariedade juridicamente vinculada, as peculiaridades do caso concreto e recrudescer a reprimenda na primeira fase da dosimetria, mas desde que o faça não só de maneira fundamentada, mas também proporcional. Evita-se, assim, excesso na pena-base, tal como na espécie. Isso porque, conforme anteriormente salientado, a quantidade de substância entorpecente apreendida é, de fato, significante.
+III.Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
