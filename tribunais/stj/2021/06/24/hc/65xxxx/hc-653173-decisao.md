@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso, com pedido liminar, impetrado em benefício de GABRIEL RODRIGUES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA no julgamento do HC n. 5004496-12.2021.8.24.0000.
+Extrai-se dos autos que o paciente teve a prisão preventiva decretada em 15/1/2021, após representação da Autoridade Policial e manifestação favorável do Ministério Público, pela suposta prática dos delitos tipificados no art. 155, §§ 1º e 4º, I e IV, e no art. 288, ambos do Código Penal (furto qualificado e associação criminosa). Em 4/2/2021, o Juízo de primeiro grau indeferiu pedido de revogação da custódia formulado em favor do ora paciente.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. FURTO QUALIFICADO PELO CONCURSO DE AGENTES E ROMPIMENTO DE OBSTÁCULO E MAJORADO PELO REPOUSO NOTURNO, E ASSOCIAÇÃO CRIMINOSA (ART. 155, § 1º E §4º, I E IV, DO CP, E ART. 288, AMBOS DO CPP). PRISÃO PREVENTIVA. SUSTENTADA AUSÊNCIA DOS REQUISITOS PARA A PRISÃO. OBSERVÂNCIA DO PRINCÍPIO DA CONFIANÇA DO JUIZ.PRISÃO DEVIDAMENTE JUSTIFICADA. CIRCUNSTÂNCIAS DOS FATOS E CONDIÇÕES SUBJETIVAS DO PACIENTE QUE JUSTIFICAM A CUSTÓDIA. PACIENTE COM DIVERSOS PROCESSOS EM ANDAMENTO (CRIMES DE FURTO, RECEPTAÇÃO E FURTO QUALIFICADO). NECESSIDADE DE SE EVITAR A REITERAÇÃO DELITUOSA. AINDA, PACIENTE QUE SE ENCONTRA FORAGIDO. REQUISITOS PARA A CUSTÓDIA CAUTELAR EVIDENCIADOS. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO QUE SE MOSTRA INSUFICIENTE. EVENTUAIS PREDICADOS SUBJETIVOS POSITIVOS QUE NÃO OBSTAM A MANUTENÇÃO DA CUSTÓDIA. CONSTRANGIMENTO ILEGAL INEXISTENTE. ORDEM DENEGADA" (fl. 39).
+No presente writ o impetrante sustenta a ausência dos requisitos previstos art. 312 do Código de Processo Penal de modo que a imposição da custódia cautelar não estaria suficientemente justificada, tendo em vista a ausência de demonstração de elementos concretos que a autorizem.
+Assevera que a gravidade abstrata do delito não constitui elemento apto a justificar a custódia, e acrescenta não haver falar em risco de reiteração delitiva, tendo em vista tratar-se de agente primário e que responde a apenas duas ações penais, ainda em curso.
+Ressalta as condições pessoais favoráveis do paciente e assevera ser suficiente, no caso concreto, a aplicação de medidas cautelares alternativas, especialmente considerando que os delitos imputados não envolvem violência ou grave ameaça à pessoa.
+Destaca que o fato de o paciente permanecer em local desconhecido não demonstra seu descompromisso com o feito.
+Pugna, assim, em liminar e no mérito, pela revogação da prisão preventiva do paciente. O impetrante requer a intimação acerca da data de julgamento do mandamus a fim de oportunizar a realização de sustentação oral.
+A liminar foi indeferida (fls. 43/45),as informações foram prestadas (fls. 49/90) eo Ministério Público se manifestou pelo não conhecimento do habeas corpus (fls. 94/100).
+É o relatório.
+Decido.
+O pedido está prejudicado.
+Das informações obtidas na página eletrônica do Tribunal de origem, verifica-se que, em 18/6/2021, nos autos da Ação Penal n.5015835-93.2021.8.24.0023, foi proferida sentençaabsolvendo o paciente quanto à imputação do art. 288 do CPe ocondenando, pela prática do delito previsto noart. art. 155, §1º e § 4º, I e IV, do CP, às penas de 3anos, 2meses e 2dias de reclusão, em regime aberto, e pagamento de 67 dias-multa, ocasião em que a reprimenda corporal foi substituída por duas restritivas de direito e concedidoo direito de recorrer em liberdade,expedindo-se alvará de soltura em seu favor.
+Assim, constata-se a perda superveniente do objeto deste mandamus.
+Ante o exposto, nos termos do art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimações necessárias.
