@@ -1,0 +1,64 @@
+DECISÃO
+HABEAS CORPUS. PROCESSUAL PENAL. EXCESSO DE PRAZO PARA JULGAMENTO DE APELAÇÃO PELO TRIBUNAL DE ORIGEM. MEDIDA LIMINAR INDEFERIDA NO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPERVENIENTE JULGAMENTO DO MÉRITO. HABEAS CORPUS PREJUDICADO.
+Relatório
+    1. Habeas corpus, com requerimento de medida liminar, impetrado por Robson Fidélis da Cunha, advogado, em benefício de Douglas Aparecido de Castro Ribeiro, contra decisão do Ministro Reynaldo Soares da Fonseca, do Superior Tribunal de Justiça, pela qual, em 27.5.2021, indeferida a medida liminar no Habeas Corpus n. 669.958/SP.
+O caso
+    2. Consta dos autos ter sido o paciente condenado pelo juízo da Primeira Vara da Comarca de Laranjal Paulista/SP às penas de cinco anos de reclusão, em regime inicialmente fechado, e quinhentos dias-multa, no valor unitário mínimo, pela prática do crime previsto no caput do art. 33 da Lei n. 11.343/2006 (fls. 3-9, e-doc. 5).
+    3. A defesa interpôs apelação ao Tribunal de Justiça de São Paulo, pendente de julgamento, conclusos os autos ao relator em 15.10.2020.
+    4. Alegando excesso de prazo para julgamento desse recurso, impetrou-se o Habeas Corpus n. 669.958/SP, indeferida a medida liminar pelo Ministro Reynaldo Soares da Fonseca, do Superior Tribunal de Justiça (e-doc. 8):
+    “Trata-se de habeas corpus impetrado em favor de DOUGLAS APARECIDO DE CASTRO RIBEIRO apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+    Infere-se dos autos que o paciente foi condenado, por infração ao art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos de reclusão, em regime inicial fechado, além de multa, sendo-lhe negado o direito de apelar em liberdade.
+    Irresignada, a defesa interpôs recurso de apelação que pende de julgamento.
+    Na presente impetração, a defesa alega, em síntese, a existência de constrangimento ilegal diante do excesso de prazo da custódia do paciente.
+    Sustenta que o réu está preso desde 13/8/2019 e não há previsão para o término de seu processo, destacando que a apelação está conclusa ao relator desde 13/10/2020.
+    No ponto, destaca, ainda, que ‘[...] se levarmos em conta que o recurso pode ser provido, com a eventual redução de sua pena para o mínimo, ou seja, 01 (ano) e 08 (oito) meses, poderá estar cumprindo pena além do devido’ (e-STJ fl. 4).
+    Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva do paciente.
+    É o relatório. Decido.
+    A liminar em recurso ordinário em habeas corpus, bem como em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto.
+    No caso dos autos, ao menos em juízo de cognição sumária, não verifico manifesta ilegalidade apta a justificar o deferimento da medida de urgência.
+    Não obstante os argumentos apresentados, mostra-se imprescindível um exame mais aprofundado dos elementos de convicção carreados aos autos, para se aferir a sustentada ilegalidade da prisão. Isso porque, o alegado excesso de prazo não pode ser apreciado apenas pela soma aritmética dos prazos, pois o processo penal é dinâmico, com vários incidentes, podendo sofrer empeços diversos, provocados inclusive pela defesa.
+    Assim, o excesso de prazo não pode ser medido apenas em razão do tempo decorrido para o julgamento do recurso de apelação, devendo ser apreciado, também, a partir do princípio da razoabilidade e da proporcionalidade, tendo em vista a complexidade da causa em julgamento e do quantum da pena imposta na sentença condenatória.
+    Em princípio, considerando a pena total a que foi condenado o paciente – 5 anos de reclusão –, não verifico flagrante excesso de prazo para o julgamento do feito.
+    Além disso, expedida a competente guia de execução provisória, o réu já pode usufruir de benefícios relativos à execução da pena, que já foi iniciada.
+    Por isso, nesses casos, é imprescindível aguardar a vinda das informações.
+    Ademais, o pedido liminar confunde-se com o próprio mérito da impetração, o qual deverá ser analisado em momento oportuno, por ocasião do julgamento definitivo deste writ.
+    Ante o exposto, indefiro a liminar.
+    Solicitem-se informações à autoridade impetrada, a serem prestadas, preferencialmente, pela Central do Processo Eletrônico - CPE do STJ, inclusive o envio da senha para acesso aos dados processuais constantes do respectivo portal eletrônico, tendo em vista a restrição determinada pela Resolução n. 121 do CNJ.
+    Após, encaminhem-se os autos ao Ministério Público Federal.
+    Intimem-se. (...)” (e-doc. 8).
+    5. Essa decisão é o objeto do presente habeas corpus, no qual o impetrante alega flagrante ilegalidade apta à superação do disposto na Súmula n. 691 deste Supremo Tribunal.
+    Afirma que “o paciente se encontra preso desde o dia 13.08.2019, já cumpriu 01 (um) ano e 09 (nove) meses de sua pena, sem, contudo, ter-lhe sido até a presente data julgado seu recurso que encontra-se concluso desde a data de 05.11.2020.
+    Por entender injusto, o paciente impetrou ordem de habeas corpus ao STJ, HC n. 669.958, com pedido liminar, o qual, foi indeferido, sendo solicitada explicações a corte bandeirantes sobre eventual julgamento do recurso de apelação, a reposta encaminhada por ao STJ, denota que após apresentação do parecer do PGJ, não ocorreu a analise haja vista o Douto Desembargador Relator esta afastado por tratamento médico, com data de retorno prevista para 15 de julho próximo, conforme oficio
+    O paciente está cumprindo pena em regime fechado, há recurso de apelação aguardando ser julgado, a quem esteja preso além de sua pena quiçá por um único dia, não há compensação que posso justificar o sofrimento e a angustia que a privação da liberdade além do necessária possa existir compensação, considerando os princípios da celeridade processual e da razoável duração do processo (art. 5º , LXXVIII , da CF ), como no caso dos autos”.
+    Argumenta que, “se levarmos em conta que o recurso poderá ser provido, com a eventual redução de sua pena para o mínimo, ou seja, 01 (ano) e 08 (oito) meses, poderá estar cumprido pena além do necessário”.
+    Estes o requerimentos e os pedidos:
+    “Diante do exposto, com os documentos que instruem a presente impetração, que demonstram ictu oculi os requisitos relevantes do pedido, REQUERSE: a. Concessão da MEDIDA LIMINAR, por estar evidente a existência de fumus boni iuris e periculum in mora, para revogar de imediato a prisão preventiva decretada, expedindo de imediato alvará de soltura em favor do paciente. (…) d. Que se dê prosseguimento ao feito para, ao final, conceder, de forma definitiva, a Ordem do presente writ, determinando assim a revogação da prisão preventiva decretada em desfavor do paciente pela ocorrência do excesso de prazo, nos termos do art. 648, II, do Código de Processo Penal”.
+    6. Examinada a matéria posta à apreciação, DECIDO.
+    7. A presente impetração está prejudicada.
+    Esta ação volta-se contra decisão do Ministro Reynaldo Soares da Fonseca, do Superior Tribunal de Justiça, pela qual indeferida a medida liminar no Habeas Corpus n. 669.958/SP, requisitadas informações à autoridade impetrada e determinada a abertura de vista dos autos ao Ministério Público Federal (e-doc. 8).
+    Consta do sítio eletrônico do Superior Tribunal de Justiça que, em 23.6.2021, foi denegado o habeas corpus, substituindo-se, assim, o ato coator objeto de análise nesta impetração. Estes os fundamentos da decisão:
+    “Trata-se de habeas corpus impetrado em favor de DOUGLAS APARECIDO DE CASTRO RIBEIRO apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+    Infere-se dos autos que o paciente foi condenado, por infração ao art. 33, caput , da Lei n. 11.343/2006, à pena de 5 anos de reclusão, em regime inicial fechado, além de multa, sendo-lhe negado o direito de apelar em liberdade.
+    Irresignada, a defesa interpôs recurso de apelação que pende de julgamento.
+    Na presente impetração, a defesa alega, em síntese, a existência de constrangimento ilegal diante do excesso de prazo da custódia do paciente.
+    Sustenta que o réu está preso desde 13/8/2019 e não há previsão para o término de seu processo, destacando que a apelação está conclusa ao relator desde 13/10/2020.
+    No ponto, destaca, ainda, que "[...] se levarmos em conta que o recurso pode ser provido, com a eventual redução de sua pena para o mínimo, ou seja, 01 (ano) e 08 (oito) meses, poderá estar cumprindo pena além do devido" (e-STJ fl. 4).
+    Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva do paciente. Indeferida a liminar (e-STJ fl. 39/41) e prestadas as informações (e-STJ fls. 46/54), o Ministério Público Federal manifestou-se pela denegação da ordem, com recomendação (e-STJ fls. 56/62).
+    É o relatório. Decido.
+    Busca-se, em síntese, no presente recurso, a revogação da prisão cautelar do paciente condenado a 5 anos de reclusão, em regime inicial fechado, por tráfico ilícito de entorpecentes.
+    O entendimento desta Corte Superior é no sentido de que, embora a lei processual não estabeleça prazo para o julgamento da apelação, tratando-se de recurso defensivo, a demora injustificada por circunstâncias não atribuíveis à defesa, quando o réu se encontra preso, configura constrangimento ilegal. (…)
+    Todavia, o excesso de prazo não pode ser medido apenas em razão do tempo decorrido para o julgamento do recurso, devendo ser apreciado, também, a partir do princípio da razoabilidade e da proporcionalidade, tendo em vista a complexidade da causa em julgamento.
+    No presente caso, em 15/6/2019, foi proferida sentença condenando o recorrente à pena de 5 anos de reclusão, em regime inicial fechado, negado o direito de recorrer em liberdade.
+    Em suas informações, o Tribunal esclareceu (e-STJ fl. 46):
+    ‘Em atenção à solicitação, esclareço que a Defesa se insurgiu contra a sentença proferida nos autos da Ação Penal n° 1500349-90.2019.8.26.0315, da Primeira Vara da Comarca de Laranjal Paulista, na qual foi o ora paciente condenado, juntamente com outro corréu, por infração ao art. 33, caput, da Lei n° 11.343/06, às penas de 05 anos de reclusão, no regime inicial fechado, e 500 dias-multa, vedado o direito de recorrer em liberdade. Os autos foram recebidos nesta Casa aos 15 de outubro de 2020, sendo distribuídos aos 23 de outubro seguinte, remetidos à Procuradoria Geral de Justiça para elaboração de parecer aos 26 de outubro subsequente e, após o seu oferecimento, conclusos ao Relator, o qual se encontra em licença-saúde, com término previsto para o dia 15 de julho próximo’.
+    A partir das informações prestadas e do andamento do feito extraído do endereço eletrônico da Corte de origem, verifica-se que o recurso chegou ao Tribunal a quo em 15/10/2020 e distribuído em 23/10/2020, Aberta vista dos autos ao Ministério Público em 26/10/2020, finalmente, foram conclusos os autos ao relator em 5/11/2020. Noticiou-se, ainda, que o Desembargador relator está de licença-médica, com término previsto para o dia 15/7/2021.
+    Nesse contexto, considerando os trâmites necessários, não se visualiza desídia que possa ser atribuída ao Judiciário, a justificar o relaxamento da prisão por excesso de prazo.
+    Além disso, vale lembrar que eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade de pena imposta na sentença condenatória (HC n. 234.713/CE, Relator Ministro MARCO AURÉLIO BELLIZZE, Quinta Turma, julgado em 12/6/2012, DJe 28/6/2012).
+    Assim, considerando a pena total a que foi condenado o paciente – 5 anos de reclusão –, não verifico flagrante excesso de prazo para o julgamento do recurso, pois não demonstrado que, em razão de eventual demora para a apreciação da apelação, o paciente se encontra impedido de usufruir benefícios relativos à execução da pena, que já foi iniciada, tendo sido expedida a competente guia de execução provisória.
+    Ante o exposto, denego a ordem. Recomendo, contudo, ao Tribunal de origem que promova maior celeridade ao julgamento dos recurso de apelação”.
+    8. As alegações deduzidas na inicial da presente impetração, referentes à delonga na apreciação da apelação interposta pela defesa, foram analisadas no julgamento superveniente do mérito da impetração no Superior Tribunal de Justiça. Colhidas as informações da autoridade impetrada, embora denegada a ordem, recomendou-se celeridade no julgamento do recurso pelo Tribunal de Justiça de São Paulo, para definição da situação do paciente.
+    9. Pelas mudanças processadas no quadro fático-jurídico após a impetração, julgo prejudicado o habeas corpus (inc. IX do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 24 de junho de 2021.
+Ministra CÁRMEN LÚCIA
+Relatora
