@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado por MARIA CRISTIANA BRANDAO DE MORAES, JAILSON ABRANCHES DA SILVA, ANTONIA KADNA LIMA OLIVEIRA, LEONARDO AGUIAR DE OLIVEIRA, FRANCISCO JANIEL ALVES DE CASTRO, CAIQUE DA SILVA SANTOS e LUCAS VINICIUS DA SILVA FARIASem que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Ceará.
+Consta dos autos que os ora Pacientes foram presos em flagrante no dia 11/06/2021, pois, em tese, teriam praticado os "crimes tipificados nos art(s). 171, c/c art. 14, II, do CPB, art. 7, VII, da Lei de Crimes Contra a Ordem Tributária, art. 7, VII, da Lei Contra a Ordem Econômica, art. 1, Lei de Crimes de Lavagem de Dinheiro ou Ocultação de Bens, art. 2º, Lei de Organizações Criminosas" (fl. 138).As prisões em flagranteforam convertidas em prisões preventiva (fls. 138-140).
+Nestehabeas corpus, a parte Impetrante alega, em síntese, a ilegalidade das prisões, porquanto não ocorreu situação de flagrância, não foi realizada audiência de custódia e não há justa causa para a persecução penal.
+Requer, em liminar e no mérito, a soltura dos Pacientes.
+É o relatório.Decido.
+Da acurada análise dos autos, observa-se que a matéria alegada no habeas corpus não foi apreciada pelo Tribunal de Justiça do Estado do Ceará, tampouco foi objeto de decisão por parte do Desembargador Relator (não foi juntada qualquer cópia capaz de comprovar a existência do alegado ato coator), motivo pelo qual o debate nesta Corte Superior implicaria indevida supressão de instância, com explícita violação à competência originária para o julgamento de habeas corpus, definida no art. 105, inciso I, alínea c, da Constituição da República.
+Confira-se, a propósito, o seguinte julgado:
+"AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO TENTADO. NULIDADES. INTERCEPTAÇÕES TELEFÔNICAS. DILIGÊNCIAS REQUERIDAS PELA DEFESA. SUPRESSÃO DE INSTÂNCIA. RECURSO EM SENTIDO ESTRITO INTERPOSTO. AUSÊNCIA DE ILEGALIDADE A SER REPARADA.
+1. A concessão da ordem de habeas corpus é medida cabível quando a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, o que não ocorre no presente caso, no qual as teses trazidas na impetração ainda não foram examinadas pelo Tribunal de origem, vedada a pretendida supressão de instância. Matéria impugnada que ainda será objeto de discussão e análise pelo Tribunal de origem por ocasião do julgamento do recurso em sentido estrito já interposto.
+2. Inviabilidade, nos autos de habeas corpus, de cognição sumária, de ampla incursão em elementos fático-probatórios.
+3. Agravo regimental improvido." (AgRg no HC 443.343/BA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/08/2018, DJe 23/08/2018; sem grifos no original.)
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TESE DE ILEGALIDADE DAS PRISÕES. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM. AUSÊNCIA DE ATO COATOR. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA PARA APRECIAR E JULGAR ORIGINARIAMENTE A CAUSA. ART. 105, INCISO I, ALÍNEA C, DA CONSTITUIÇÃO DA REPÚBLICA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
