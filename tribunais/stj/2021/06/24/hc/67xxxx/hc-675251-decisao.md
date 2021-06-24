@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de Wesley da Silva de Oliveiracontra o acórdão proferido pelo Tribunal de Justiça local no Agravo em Execução n. 0710588-24.2021.8.07.0000, que indeferiu a aplicação retroativa da Lei n. 13.964/2019, por não se mostrar mais benéfica ao apenado reincidente.
+Narram os autos que o Juízo da Vara de Execuções Penais do Distrito Federal indeferiu o pedido de aplicação retroativa da Lei n. 13.964/2019, nos autos do Processo n. 0032849-28.2011.8.07.0015, por considerá-la mais gravosa ao paciente, fundamentando o que se segue (fl. 35 - grifo nosso):
+ ..  tendo em vista que a reincidência foi reconhecida em parte das condenações, cujas penas foram unificadas, a agravante deve ser considerada para todos os efeitos e em todas as condenações versadas nesta execução penal.
+Diante de tal condição, a fração para progressão de regime relativo a penas comuns à razão de 1/6 (um sexto), conforme redação original do art. 112 da LEP, como atualmente consta no RSPE, mostra-se mais benéfica que a de 20% estabelecida na atual redação do art. 112, II, da LEP, conferida pela Lei 13.964/2019.
+A novatio legis, no caso em tela, não é mais benéfica e não pode ser aplicada, portanto, sob pena de ofensa ao art. 5º, XL, da Constituição da República.
+A defesa aponta, na presente impetração, constrangimento ilegal na execução penal do paciente, argumentando que a unificação da execução prevista no art. 111 da LEP não implica na extensão dos efeitos da reincidência à totalidade das execuções. A finalidade do dispositivo citado é apenas de organizar o procedimento executório. Assim, o início de cada nova execução penal, pautada em título condenatório específico, delimita as circunstâncias a serem observadas, bem como a legislação a ser aplicada (fls. 7/8).
+Diz que a avaliação do pleito de aplicação retroativa da Lei n. 13.964/2019 deve se dar individualmente às execuções em curso, considerando-se a reincidência (verificada ou não) à época da formação do título condenatório (fl. 8).
+Aduz que, superado o entendimento de que a reincidência configura condição pessoal do apenado, especialmente em razão das alterações promovidas pela Lei n. 13.964/2019, negar ao recorrido a retroatividade da Lei n. 13.964/2019 se consubstancia em um patente constrangimento ilegal, dado que o percentual por ela estabelecido é inferior à fração exigida sob a perspectiva da reincidência como condição pessoal do apenado (fl. 10).
+Busca a aplicação retroativa da Lei n. 13.964/2019, individualmente às execuções em curso, considerando-se a reincidência (verificada ou não) à época da formação do título condenatório (fl. 11).
+É o relatório.
+A impetração não merece prosseguir.
+Ao que se observa, o Tribunal de Justiça distrital manteve o indeferimento da aplicação retroativa da Lei n. 13.964/2019 (Pacote Anticrime) na execução penal do ora paciente, afirmando que o entendimento externado pelo d. Juízo Executório está em conformidade com o posicionamento desta egrégia Corte de Justiça e do c. Superior Tribunal de Justiça, no sentido de que a reincidência, por se tratar de condição pessoal, acompanha o apenado durante toda a execução da pena, não se limitando apenas no processo de fixação de pena pelo magistrado sentenciante. Deve, pois, ser observada pelo d. Juízo Executório para a concessão de benesses relativas à execução penal, ainda que não constante do título condenatório (fl. 206 - grifo nosso).
+Tal conclusão, a meu ver, vai ao encontro do entendimento do Superior Tribunal de Justiça de que, no advento da unificação de penas, a reincidência deve ser observada sobre a totalidade das penas, sendo incabível a aplicação de percentuais diferentes para cada condenação.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. BENEFÍCIOS PRISIONAIS. REINCIDÊNCIA. UNIFICAÇÃO DE PENAS. FRAÇÕES DIFERENCIADAS. IMPOSSIBILIDADE. CONDIÇÃO PESSOAL DO ORA AGRAVANTE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É firme a jurisprudência desta Corte Superior de Justiça, no sentido de que a "condição de reincidente, uma vez adquirida pelo sentenciado, estende-se sobre a totalidade das penas somadas, não se justificando a consideração isolada de cada condenação e tampouco a aplicação de percentuais diferentes para cada uma das reprimendas" (HC n. 307.889/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 10/9/2015.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 476.422/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/3/2019).
+Por conseguinte, estando o acórdão impugnado em conformidade com a jurisprudência do Superior Tribunal de Justiça, não há falar em constrangimento ilegal.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. APENADO REINCIDENTE. UNIFICAÇÃO DE PENAS. REINCIDÊNCIA. INCIDÊNCIA SOBRE A TOTALIDADE DAS REPRIMENDAS. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
