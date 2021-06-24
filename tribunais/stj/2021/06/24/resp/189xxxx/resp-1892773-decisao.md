@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo, interposto por ALCENI JOAQUIM SÉRIO eOUTRA, em face de decisão que não admitiu recurso especial dos ora insurgentes.
+O apelo nobre (art. 105, III, alínea "c", CF) desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 947, e-STJ):
+DIREITO CIVIL. APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA C/C INDENIZAÇÃO. PRELIMINAR - INEXISTÊNCIA DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. MÉRITO RECURSAL - VICIO REDIBITÓRIO CONSTATADO - LOTE COMPREENDIDO DENTRO DE ÁREA NÃO EDIFICÁVEL DE 30 METROS DA MARGEM DE UM CÓRREGO - EFEITOS - RESCISÃO CONTRATUAL - RESTITUIÇÃO DO VALOR PAGO - RETORNO DAS PARTES AO STATUS QUO ANTE- DEVOLUÇÃO DOS VALORES PAGOS COM DESPESAS INERENTES AO PRÓPRIO BEM - OBRIGAÇÕES PROPTER REM. EMBARGOS NÃO PROTELATÓRIOS - MULTA POR LITIGÂNCIA DE MÁ-FÉ - AFASTADA. RECURSO DE APELAÇÃO E RECURSO ADESIVO CONHECIDOS E PARCIALMENTE PROVIDOS.
+Embargos de declaração rejeitados (fls. 1040/1043 e 1135/1138, e-STJ).
+Nas razões do recurso especial (fls. 1224/1231, e-STJ), os agravantes apontam divergência jurisprudencial quanto àformação de litisconsórcio necessário.
+Contrarrazões às fls. 1271/1283, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 1315/1316, e-STJ), dando ensejo ao presente agravo (fls. 1331/1335, e-STJ), por meio do qual os agravantes pretendem a reforma da decisão impugnada e o processamento do apelo.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Osagravantes apontam divergência jurisprudencial quanto à formação de litisconsórcio necessário.
+No ponto, observa-se que os insurgentes deixaramde indicarem suas razões recursaiso dispositivo legal que teria sido interpretado de forma divergente,se mostrando deficiente a fundamentação recursal.
+Com efeito, em prejuízo da compreensão da controvérsia, não foi demonstrada com clareza e precisão a necessidade de reforma da decisão, incidindo no óbice previsto na Súmula 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.".
+Nos termos do entendimento desta Corte, os recursos interpostos, tanto pela alínea "a", quanto pela alínea "c", do permissivo constitucional exigem a indicação do dispositivo legal violado ou ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio mediante o cotejo analítico dos acórdãos recorrido e paradigmas.
+Precedentes:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. ..  DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO A QUE O ACÓRDÃO TERIA DADO INTERPRETAÇÃO DIVERGENTE. INCIDÊNCIA DA SÚMULA Nº 284 DO STF.  ..  4.Inviável análise de recurso especial interposto pela alíneac do permissivo constitucional que não indica, com clareza eprecisão, os dispositivos de lei federal em relação aos quaishaveria dissídio jurisprudencial. Incidência da Súmula nº 284 do STF. Precedente.5. Agravo regimental não provido. (AgRg no AREsp 733.193/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/10/2016, DJe 08/11/2016)  grifou-se
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. EMPRESA DE TELEFONIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE REALIZAÇÃO DO NECESSÁRIO COTEJO ANALÍTICO. AGRAVO NÃO PROVIDO. 1.A jurisprudência desta Corte épacífica no sentido de que a não individualização e indicaçãodo dispositivo supostamente violado não enseja a abertura davia especial, aplicando-se, por analogia, a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão dacontrovérsia."2. Para a demonstração da divergência, nos moldes preconizados pelo art. 255, § 2º, do RISTJ, c/c o art. 541, parágrafo único, do CPC, é necessária a realização do cotejo analítico entre os arestos confrontados, de modo a evidenciar o alegado dissenso das teses jurídicas adotadas, alegadamente, em situações de evidente similitude fática. 3. Agravo regimental não provido. (AgRg no AREsp 572.796/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/03/2015, DJe 23/04/2015)  grifou-se
+Inafastável, no ponto, a incidência da Súmula 284 do STF.
+2. Do exposto, nega-se provimento ao agravo interposto porALCENI JOAQUIM SÉRIO E OUTRA.
+Publique-se.
+Intimem-se.
