@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALESSANDRO ADORNE MATHEUScontra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido na Revisão Criminal n.2107635-11.2020.8.26.0000.
+Consta dos autos que o Paciente foi condenado, em primeiro grau de jurisdição,"como incurso nas sanções do art. 33, "caput", da Lei nº 11.343/2006, à pena de seis (06) anos, nove (09) meses e vinte (20) dias de reclusão  em regime inicial fechado  e pagamento de seiscentos e oitenta (680) dias-multa, no valor unitário mínimo." (fl. 93). Inconformado, o Sentenciado interpôs recurso de apelação, que foi desprovido pela Corte local. A ação penal transitou em julgado.
+O Apenado ajuizou ação de revisão criminal. O pedido revisional foi indeferido pelo Órgão colegiado estadual (fls. 63-75).
+Neste writ, a Defensoria Pública sustenta, em síntese, que não foi realizadolaudo definitivo de constatação da droga, mas apenas laudo de constatação provisório, assim, não há comprovação da materialidade delitiva.
+Requer, em liminar, a soltura do Paciente até o julgamento final destehabeas corpuse, no mérito, a absolvição por ausência de comprovação da materialidade delitiva.
+Liminar indeferida pelo Ministro JOÃO OTÁVIO DE NORONHA, no exercício da Presidência desta Corte Superior (fls. 134-135).
+Informações prestadas às fls. 146-180.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 182-186).
+É o relatório. Decido.
+O acórdão combatido, na parte que interessa, está fundado nas seguintes razões de decidir (fl. 66; sem grifos no original):
+"A controvérsia desta ação revisional cinge-se a análise da necessidade ou não do laudo toxicológico definitivo, para a comprovação da materialidade no crime de tráfico de drogas.
+Com efeito, tendo sido juntado laudo preliminar de constatação provisória de substância entorpecente, assinado por perito criminal, identificando as substâncias apreendidas, no caso, cocaína e maconha, através dos testes realizados, por certo que a materialidade está devidamente comprovada, permitindo grau de certeza análogo ao do laudo definitivo, prescindindo-se da existência deste último.
+Ademais, corroborada pelas demais provas constantes dos autos, notadamente os firmes depoimentos policiais."
+Como se vê, o entendimento adotado pelo Tribunala quoestáem consonância com ajurisprudência desta Corte Superior de Justiça,segundo a qual, conquanto o laudo toxicológico definitivo, via de regra, seja imprescindível para provar a materialidade do delito de tráfico de drogas, a ausência da mencionada prova técnica não afasta a possibilidade de que, em casos excepcionais (tal como na hipótese dos autos) essa comprovação se dê "pelo próprio laudo de constatação provisório, quando ele permita grau de certeza idêntico ao do laudo definitivo, pois elaborado por perito oficial, em procedimento e com conclusões equivalentes", pois "a depender do grau de complexidade e de novidade da droga apreendida, sua identificação precisa como entorpecente pode exigir, ou não, a realização de exame mais complexo que somente é efetuado no laudo definitivo" (EREsp 1.544.057/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 26/10/2016, DJe 09/11/2016).
+No mesmo sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AGRAVO NÃO CONHECIDO POR INCIDÊNCIA DA SÚMULA 182/STJ. FUNDAMENTOS IMPUGNADOS. CONHECIMENTO. AUSÊNCIA DE LAUDO TOXICOLÓGICO DEFINITIVO. MATERIALIDADE COMPROVADA POR LAUDO PRELIMINAR E OUTROS MEIOS DE PROVA. SÚMULA 83/STJ. AGRAVO REGIMENTAL PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL, MAS LHE NEGAR PROVIMENTO.
+1. Havendo impugnação específica aos fundamentos da decisão agravada, deve ser conhecido o recurso.
+2. Tendo sido juntado laudo preliminar de constatação da substância entorpecente, assinado por perito criminal, identificando o material apreendido como cocaína, e estando corroborado com as demais provas dos autos, a materialidade do crime de tráfico de drogas encontra-se devidamente comprovada, sendo prescindível a existência de laudo toxicológico definitivo.
+3. Estando o acórdão recorrido em consonância com o entendimento firmado pelo Superior Tribunal de Justiça, impõe-se a incidência da Súmula 83/STJ, a obstar o processamento do recurso especial.
+4. Agravo regimental provido para conhecer do agravo em recurso especial, mas lhe negar provimento."(AgRg no AREsp 1.578.818/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/12/2019, DJe 13/12/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. MATERIALIDADE. COMPROVAÇÃO. LAUDO PRELIMINAR ASSINADO POR PERITO OFICIAL. GRAU DE CERTEZA. AGRAVO DESPROVIDO.
+1. A Terceira Seção deste Superior Tribunal de Justiça, no julgamento do ERESp n. 1.544.057/RJ, entendeu que o laudo de constatação provisório que possua condições técnicas de atestar a natureza da droga apreendida supre a ausência de laudo definitivo (ut, REsp 1727453/RJ, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 15/6/2018).
+2. In casu, foi juntado laudo prévio de constatação da substância, assinado por perito criminal, identificando o material apreendido como cocaína/crack, de forma que a materialidade do delito encontra-se devidamente comprovada.
+3. Agravo regimental desprovido."(AgRg no REsp 1.542.110/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 26/02/2019, DJe 15/03/2019.)
+No caso concreto, àfl. 77, o exame preliminar, subscrito por perito criminal oficial, afirma que foramapreendidassubstâncias como cocaína e maconha, sendo este exame apto a suprir a ausência do laudo toxicológico definitivo, para a comprovação da materialidade.
+Ante o exposto, DENEGO A ORDEM de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. MATERIALIDADE. LAUDO TOXICOLÓGICO DEFINITIVO. PRESCINDIBILIDADE, QUANDO ACOSTADO AOS AUTOS LAUDO DE CONSTATAÇÃO, ASSINADO POR PERITO OFICIAL, QUE PERMITA, COM GRAU DE CERTEZA, AFERIR A NATUREZA DA DROGA APREENDIDA. PRECEDENTES. ORDEM DENEGADA.
