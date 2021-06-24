@@ -1,0 +1,25 @@
+DECISÃO:
+EMENTA: Processual Penal. Habeas Corpus. Homicídio qualificado e ocultação de cadáver. Prisão preventiva. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que não conheceu do HC 671.218, do Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que o paciente foi denunciado e pronunciado pela suposta prática dos crimes previstos nos arts. 121, § 2º, I, e 211 do Código Penal. Em 15.08.2018, o Juízo de origem decretou a prisão preventiva do acusado, tendo o mandado sido cumprido apenas em 16.12.2020.
+    3. Da sentença de pronúncia, a defesa interpôs recurso em sentido estrito. O Tribunal de Justiça do Estado de São Paulo (TJ/SP) negou provimento ao recurso.
+    4. Na sequência, foi impetrado habeas corpus no STJ. O Relator do HC 671.218, Ministro Reynaldo Soares da Fonseca, não conheceu do writ.
+    5. Neste habeas corpus, a parte impetrante alega ausência de fundamentação idônea para a decretação da custódia preventiva. Afirma que “a mera gravidade abstrata do delito não é suficiente para decretação da prisão preventiva, bem como não há respaldo para manter (...) preso com espeque na garantia da ordem pública, haja vista tratar-se de Paciente primário, bons antecedentes, com residência fixa e trabalho lícito”. Além disso, destaca que o paciente “nunca esteve foragido, apenas não compareceu em solo policial, bem como em audiência de instrução por temor às represálias que se mostravam na época, latentes”.
+    6.  A defesa requer a concessão da ordem a fim de revogar a prisão processual do acionante. Subsidiariamente, pleiteia a substituição da custódia por outra medida cautelar.
+    7. Decido.
+    8. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    9. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    10.  Não é o caso de concessão da ordem de ofício.
+    11. As que peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize o pronto acolhimento da pretensão defensiva. Para além de observar que a hipótese é de paciente denunciado e pronunciado pelos crimes de homicídio qualificado e ocultação de cadáver, tal como assentou o TJ/SP, “o réu permaneceu foragido por mais de dois anos, a demonstrar sua intenção de se furtar à aplicação da lei penal”.
+    12. Sendo assim, o caso atrai o entendimento do STF, no sentido de que a “condição de foragido do distrito da culpa reforça a necessidade da custódia para se garantir a aplicação da lei penal” (RHC 118.011, Rel. Min. Dias Toffoli).
+    13. Não bastasse isso, eventual acolhimento da tese defensiva, no sentido de que o paciente “nunca esteve foragido, apenas não compareceu em solo policial, bem como em audiência de instrução por temor às represálias que se mostravam na época, latentes”, demandaria o revolvimento do conjunto fático-probatório, inviável em habeas corpus.
+    14. Por fim, dou especial relevância ao fundamento adotado pelo Juízo de origem para decretar a prisão preventiva do acusado no sentido de que “a forma e as circunstâncias em que o crime foi cometido, bem como a forma da ocultação do corpo da vítima, denotam concretamente personalidade agressiva e perigosa do réu. Configurada, pois, a necessidade da garantia da ordem pública”.
+    15. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 24 de junho de 2021.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
