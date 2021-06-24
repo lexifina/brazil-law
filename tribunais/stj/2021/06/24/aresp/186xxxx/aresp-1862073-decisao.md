@@ -1,0 +1,16 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. FIXAÇÃO COM FUNDAMENTO EM JUÍZO DE EQUIDADE (TEMA REPETITIVO 1.046). RETORNO DOS AUTOS PARA SOBRESTAMENTO PERANTE O EGRÉGIO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DO ART. 1.040 DO CPC/2015.
+1. Trata-se de Agravo em Recurso Especial interposto por SANEAMENTO DE GOIAS S/A, com fundamento nas alíneasa e c do art. 105, III, da CF/1988, contra acórdão proferido pelo egrégio TJ/GO, assim ementado:
+DUPLA APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO FISCAL. EXTINÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AÇÃO ANULATÓRIA JULGADA PROCEDENTE. HONORÁRIOS ADVOCATÍCIOS. DIREITO INTERTEMPORAL. MARCO TEMPORAL PARA A INCIDÊNCIA DO CPC/2015. PROLAÇÃO DA SENTENÇA. EQUIDADE. EXCEÇÃO. POSSIBILIDADE.
+1. A sentença, como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015. Precedentes do STJ.
+2. Nos casos de sentença proferida a partir do dia 18.3.2016, as normas do novel diploma processual relativas a honorários sucumbenciais é que serão utilizadas.
+3. A aplicação do juízo de equidade na hipótese vertente não caracteriza negativa de vigência do § 3º do art. 85 do CPC/2015,mas interpretação sistemática de regra de processo civil orientada conforme os princípios constitucionais da razoabilidade e da proporcionalidade.
+4. Cuidando-se de ação executiva de baixa complexidade e com poucas peças apresentadas pelos advogados da executada, sendo o processo, inclusive, extinto de maneira prematura, sem sequer serem realizados atos expropriatórios dos bens da devedora, afigura-se desarrazoado o arbitramento de sucumbência demasiadamente elevada ao ente municipal. APELAÇÕESCONHECIDAS E PARCIALMENTE PROVIDAS. (fls. 797).
+2. Nas razões de seu Recurso Especial, a parte recorrente afirma que a fixação dos honorários advocatícios deve obedecer ao disposto no art. 85, § 3o., do CPC/2015, uma vez que o arbitramento da verba honorária, com base na equidade, aplica-se apenas aos casos em que o proveito econômico for inestimável/irrisório ou quando o valor da causa for muito baixo.
+3.Apresentadas as contrarrazões (fls. 867/885), o apelofoi inadmitido na origem (fls. 901/902).
+4.É o relatório.
+5.Verifica-se que a matéria debatida nos autos refere-se à discussão sobre a possibilidade de fixação de honorários advocatícios com fundamento em juízo de equidade, nos termos do art. 85, §§ 2o. e 8o., do CPC/2015, que se encontra afetada noTema repetitivo 1.046 - REsps. 1.812.301/SC e 1.822.171/SC.
+6. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma do art. 1.040 do CPC/2015.
+7. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia, o Tribunal de origem proceda nos termos dos arts. 1.040 e seguintes do CPC/2015.
+8. Publique-se.
+9. Intimações necessárias.
