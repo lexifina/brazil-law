@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Servidor público municipal. Auditor Fiscal do Município de Limeira. Licença Prêmio. Base de cálculo. Vencimento padrão. A base de cálculo de licença prêmio, mesmo não usufruída, corresponde ao vencimento padrão. Verba denominada gratificação de produtividade fiscal que tem caráter “propter laborem” e desta forma eventual. Não integrante da remuneração. A previsão de que a licença prêmio é calculada sobre a remuneração ofende o artigo 37, inciso XIV, da Constituição Federal, que proíbe efeito cascata. Não se pode considerar a gratificação de produtividade fiscal como acréscimo disfarçado ao vencimento, sob pena de ofensa ao princípio da legalidade. Recurso a que se dá provimento.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI; 37, caput; e 39, § 1º, I e III, da CF.
+    O recurso extraordinário não deve ser provido. Isso porque, para dissentir da conclusão do Tribunal de origem, seria necessária a análise da legislação infraconstitucional pertinente e a reapreciação de fatos e provas, o que não é cabível nesse momento processual. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF.
+    Importa destacar o entendimento do STF no sentido da ausência de repercussão geral da controvérsia relativa à violação aos princípios da legalidade, do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, quando o julgamento da causa depender de prévia análise da adequada aplicação de normas infraconstitucionais (ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 24 de junho de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
