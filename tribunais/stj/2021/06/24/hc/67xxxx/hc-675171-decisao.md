@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em benefício de Adao Jeremias Alves Martins, em razão do acórdão proferido pelo Tribunal de Justiça de Minas Gerais no Agravo em ExecuçãoPenal n. 1.0351.16.000209-0/008, cuja ementa é a seguinte (fl. 59):
+EMENTA: AGRAVO EM EXECUÇÃO - CONHECIMENTO PARCIAL - PEDIDO DE RETIFICAÇÃO DO ATESTADO DE PENA PARA FINS DE ALTERAÇÃO DA FRAÇÃO NECESSÁRIA À PROGRESSÃO PRISIONAL E DA DATA BASE PARA OBTENÇÃO DE BENEFÍCIOS - EXAME ANTERIOR DA PRIMEIRA QUESTÃO PELO TRIBUNAL - SEGUNDA NÃO DECIDIDA EM PRIMEIRA INSTÂNCIA - REMIÇÃO PELO ESTUDO - APROVAÇÃO PARCIAL NO ENCCEJA - ADMISSIBILIDADE.
+- Se uma das questões ventiladas no agravo em execução já foi decidida pelo Tribunal e outra não foi examinada em primeira instância, não tem o recurso como ser conhecido nesta parte.
+- O artigo 1º, inciso IV, da Recomendação nº 44/2013 do CNJ, estabelece que o estudo por conta própria, havendo aprovação nos exames nacionais que certificam a conclusão do ensino fundamental ou médio, quais sejam, Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) e Exame Nacional do Ensino Médio (ENEM), pode ensejar a remição da pena, nos termos do artigo 126, da LEP.
+Alega-se, em síntese, que a reiteração de pedidos foi reconhecida na origem de forma equivocada, eis que apresentado novo fundamento para o pleito de alteração da fração relativa à progressão de regime, consistente nas inovações trazidas pela Lei n. 13.964/2019 (Pacote Anticrime), e suscitada tese inteiramente inédita, consistente na necessidade de modificação da data-base para a data da última prisão.
+Requer-se, inclusive em caráter liminar, a fixação do percentual de 40% (2/5) para progressão de regime, bem como a alteração da data-base, para fins de constar a data da última prisão do paciente, qual seja, 31/03/2016 (fl. 11), tudo em observância à jurisprudência mais recente deste Superior Tribunal e do próprio Tribunal mineiro.
+É o relatório.
+Inicialmente, urge salientar que, não debatidas as questões pelas instânciasa quo, inadmissível a sua análise diretamente por esta Corte Superior, sob pena de dupla supressão de instância.
+Observo que, no tocante ao pedido de alteração da data-base, nem sequer foram opostos embargos de declaração para sanar eventual omissão do magistrado de piso, devendo a questão ser analisada primeiramente naquele juízo.
+No entanto, entendo que caberia à Corte de origem se manifestar acerca do pedido de retificação com amparo no novo regramento trazido pela Lei n. 13.964/2019, a fim de reconhecer eventual ilegalidade na decisão de primeiro grau, que, de maneira alegadamente equivocada, teria reconhecido a reiteração de pedidos, sematentar para o novo fundamento consistente noquadro instaurado pelo "Pacote Anticrime" quanto à Execução Penal, quevigora desde 23/01/2020 (fl. 6).
+Impõe-se, assim, a concessão da ordem de ofício.
+Pelo exposto,não conheçodo presentehabeas corpus. Contudo,de ofício, expeço a ordem para determinar ao Tribunal de Justiça de Minas Gerais que julgue o mérito do Agravo em Execução Penaln. 1.0351.16.000209-0/008 quanto aopedido de retificação do cálculo de penaspara fins de progressão prisional, considerando o novo fundamento consistente nas alterações promovidas pela Lei n. 13.964/2019.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO DA PENA. MODIFICAÇÃO DA FRAÇÃO PARA PROGRESSÃO DE REGIMEE DA DATA-BASE PARA BENEFÍCIOS. TESESNÃO CONHECIDAS PELO TRIBUNALA QUO. INVIABILIDADE DE SUPRESSÃO DE INSTÂNCIA. QUESTÃODE DIREITO. INEXISTÊNCIA DA APONTADA REITERAÇÃO DE PEDIDOS. RETORNO DOS AUTOS À ORIGEM PARA O ENFRENTAMENTO DA MATÉRIA.
+Writnão conhecido. Ordem concedida de ofício.
