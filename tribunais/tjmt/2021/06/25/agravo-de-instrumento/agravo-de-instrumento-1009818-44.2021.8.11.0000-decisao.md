@@ -1,0 +1,46 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1009818-44.2021.8.11.0000
+AGRAVANTE:
+VALDOMIRO DIAS DOS SANTOS
+AGRAVADAS:
+ENEIDA MELO CRUZ, EUNICE MELO CRUZ e ESMERALDA MELO CRUZ NASTARI
+Vistos.
+Trata-se de recurso de agravo de instrumento com pedido de efeito ativo recursal interposto por VALDOMIRO DIAS DOS SANTOS, contra decisão proferida pelo MM. Juiz de Direito da 2a Vara da Comarca de Água Boa/MT, Dr. Jean Paulo Leão Rufino, nos autos da Ação de Reintegração de Posse no 1002966-72.2020.8.11.0021, proposta por ENEIDA MELO CRUZ, EUNICE MELO CRUZ e ESMERALDA MELO CRUZ NASTARI que rejeitou a alegação do requerido, ora agravante, quanto à necessidade de apresentação de memorial descritivo do perímetro litigioso em coordenadas geográficas georreferenciadas com anotações de responsabilidade técnica, nos termos do art. 225, § 3o da Lei 6.015/1973.
+Aduz o agravante em suas razões recursais, que as agravadas ajuizaram Ação de Reintegração de Posse sustentando a posse como imanência do domínio, fundamentando a aquisição do título dominial através de sucessão hereditária.
+Discorre que o agravante “exerce a posse direta (apreensão física) imputando à parte adversa e respectivos antecessores do título dominial a prática de inúmeras fraudes, inclusive recentes praticadas no intuito de induzir o juízo a erro” (sic).
+Entende que “em razão da disposição legal no sentido de que “julgada a partilha, fica o direito de cada um dos herdeiros circunscrito aos bens do seu quinhão” (art. 2.023, Código Civil), incumbiria às agravadas individualizarem o perímetro litigioso de acordo com sua proporção porquanto “ninguém poderá pleitear direito alheio em nome próprio” (art. 18, CPC)” (sic).
+Assim, o requerido (ora agravante) atravessou petição na possessória redarguindo que “em razão da necessidade de resguardar direitos de terceiros e coibir abusos, faz-se necessário intimar as autoras para que, no prazo legal, apresentem memorial descritivo do perímetro litigioso com coordenada geográficas georreferenciadas e anotação de responsabilidade técnica, conforme determina o artigo 225, § 3o Lei de Registros Públicos, ressaltando a necessidade de melhor individualização do perímetro litigioso” (sic).
+Assevera que diante de tal pretensão, foi proferida a decisão da qual recorre por meio do presente instrumento.
+Ressalta que “O juízo de primeira instância rejeitou a preliminar redarguindo que “a exigência de memorial descritivo com as coordenadas geográficas georreferenciada com Anotação de Responsabilidade Técnica (ART) somente deve ser exigido em demanda judicial que possa resultar em alteração do registro imobiliário, o que não ocorre nesta demanda”, indicando precedente da Corte Superior (REsp 1.646.179 - MT)” (sic).
+Anota que “diversamente do que pontua o juízo de piso, pode sim resultar em alteração do registro imobiliário à medida que a inicial alega serem as agravadas titulares da integralidade das matrículas 39.174 e 39.176 do Cartório de Registro de Imóveis de Barra do Garças/ MT” (sic).
+Afirma que apenas através da obrigatoriedade de individualização do perímetro litigioso seria permitido aquilatar eventual ilegitimidade ativa das agravadas em postularem a integralidade do quantitativo da área, objeto da lide.
+Ante ao exposto, “requer o recebimento e autuação do presente recurso, bem como a concessão de efeito ativo para determinar às agravadas que promovam a emenda da inicial mediante a perfeita individualização do perímetro requerido, declinando a poligonal requestada” (sic). Ao final, pugna pelo provimento do recurso para ratificar a medida de urgência eventualmente deferida, “ordenando às agravadas que promovam a perfeita individualização do perímetro, sugerindo-se a obrigatoriedade de apresentação de memorial descritivo com coordenada geográfica e anotação de responsabilidade técnica” (sic).
+É o relatório.
+Decido.
+Por tempestivo e próprio recebo o recurso na forma do art. 1.015, inc. XIII c/c art. 1.017, ambos do CPC.
+Constata-se pela leitura do recurso interposto, que o processo de origem trata de ação de reintegração de posse movida pelas agravadas, onde foi indeferido o pleito do requerido/agravante, concernente à individualização do perímetro litigioso.
+O artigo 1.019, inciso I c/c o art. 300, ambos do Código de Processo Civil, dispõem que o relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada à plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+Na espécie dos autos, atenta ao expendido na exordial, ao exame da documentação acostada em juízo provisório e nos estritos limites da cognição sumária permitida a esta fase processual, verifico que não restaram configurados os pressupostos autorizativos para a concessão do pleito desde logo.
+Pois bem. A controvérsia está em definir se a identificação dos limites da área rural objeto de demanda possessória deve ser feita mediante a apresentação de memorial descritivo georreferenciado.
+No entanto, de início entendo que o georreferenciamento é imprescindível somente em processos judiciais aptos a provocar alterações no registro imobiliário. Isso porque a sua finalidade "é a de evitar qualquer tipo de distorção ou fraude no espelho imobiliário, e garantir, por consequência, maior realidade das informações constantes nos registros públicos" (LOUREIRO, Luiz Guilherme. ‘Registros públicos: teoria e prática’. Rio de Janeiro: Forense; São Paulo: Método, 2014, pág. 414).
+No caso, a princípio, a procedência dos pedidos formulados pelas autoras, ora agravadas, não enseja a modificação no registro do imóvel objeto da lide, mas apenas o reconhecimento do direito de reintegração na posse, motivo pelo qual não se faz necessário exigir o georreferencimento do imóvel.
+Observa-se que o § 3o do art. 225 da Lei no 6.015/1973 (Lei de Registros Públicos), realmente prescreve que, em caso específico de processos judiciais que versem sobre imóveis rurais, "a localização, os limites e as confrontações serão obtidos a partir de memorial descritivo assinado por profissional habilitado e com a devida Anotação de Responsabilidade Técnica - ART", devendo conter "as coordenadas dos vértices definidores dos limites dos imóveis rurais, geo-referenciadas ao Sistema Geodésico Brasileiro e com precisão posicional a ser fixada pelo INCRA”.
+Entretanto, o art. 10 do Decreto no 4.449/2001, com a redação dada pelo Decreto no 5.570/2005, estatuiu que a identificação da área rural do imóvel por meio de memorial descritivo georreferenciado será exigida nas hipóteses de desmembramento, parcelamento, remembramento e transferência da titularidade do bem. Por oportuno, transcreve-se a redação do mencionado dispositivo legal:
+"Art. 10. A identificação da área do imóvel rural, prevista nos §§ 3o e 4o do art. 176 da Lei no 6.015, de 1973, será exigida nos casos de desmembramento, parcelamento, remembramento e em qualquer situação de transferência de imóvel rural, na forma do art. 9o, somente após transcorridos os seguintes prazos: (Redação dada pelo Decreto no 5.570, de 2005)" (sem destaques no original).
+Nesse sentido, o entendimento do Superior Tribunal de Justiça:
+“RECURSO ESPECIAL. REGISTROS PÚBLICOS. AÇÃO POSSESSÓRIA. IMÓVEL RURAL. GEORREFERENCIAMENTO. DESNECESSIDADE. ART. 225, CAPUT, DA LEI No 6.015/1973. ART. 10 DO DECRETO No 4.449/2001.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nos 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se a identificação dos limites da área rural objeto de demanda possessória deve ser feita mediante a apresentação de memorial descritivo georreferenciado.
+3. A identificação da área rural do imóvel por meio de georreferenciamento será exigida nas hipóteses de desmembramento, parcelamento, remembramento e transferência da titularidade do bem.
+4. É dispensável o georreferencimento do imóvel rural em ações possessórias nas quais a procedência dos pedidos formulados na inicial não enseja a modificação no registro do imóvel.
+5. Recurso especial não provido.” (STJ - REsp 1646179/MT, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 04/12/2018, DJe 07/12/2018).
+Nesse contexto, o georreferenciamento é imprescindível somente em processos judiciais aptos a provocar alterações no registro imobiliário.
+Em que pesem os argumentos alçados pela parte recorrente, nesta seara de cognição sumária não se vislumbra necessidade de alteração do registro imobiliário.
+Não há, pois, demonstração quanto à probabilidade do direito vindicado pelo agravante.
+Da mesma forma, nesta quadra preambular, não se verifica qualquer prejuízo ou risco de dano grave, de difícil ou impossível reparação, se deixar a questão para ser amplamente analisada por ocasião do julgamento do mérito, até porque o recurso elegido tem tramitação célere (art. 1.020, CPC).
+Diante do exposto, INDEFIRO a antecipação da tutela recursal.
+Intime-se a parte agravada para apresentar resposta no prazo de 15 (quinze) dias, onde poderá juntar a documentação que entender conveniente, nos termos do artigo 1.019, inciso II, do CPC.
+Intime-se. Cumpra-se.
+Cuiabá/MT, 25 de junho de 2021.
+Desa. Antônia Siqueira Gonçalves
+Relatora
