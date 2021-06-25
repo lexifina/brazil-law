@@ -1,0 +1,10 @@
+DECISÃO
+BRUNO EDUARDO MARIA DA SILVA alega sofrer coação ilegal em face de acórdão do Tribunal de Justiça do Estado de São Paulo nos Autos n.0008154-31.2020.8.26.0026.
+O impetrante se insurge contra a decisão que reconheceu a prática de falta grave (cometimento de crime doloso, consistente em dano contra o patrimônio público). Pede a absolvição do apenado, por insuficiência probatória, pois ele não danificou a a algema.Em verdade, o que ocorreu foi o choque do objeto com o corrimão em razão da freada brusca da viatura. Ademais, não houve realização de exame pericial para confirmar a conduta.
+Decido.
+Ainda que a defesa apresente justificativa para a não interposição deagravo em execução tempestivo, para inauguração das atribuições jurisdicionais desta Corte, nos termos do art. 105 da CF, era necessário existir causa decidida ou decisão denegatória do habeas corpus, em última ou única instância, pelo Tribunal estadual, o que não se verifica.
+Assim, "Matéria não apreciada pelo Tribunal de origem não pode ser analisada diretamente nesta Corte Superior, sob pena de indevida supressão de instância"(HC 589.175/MG, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe 27/8/2020).
+Ilustrativamente: "Falece competência ao Superior Tribunal de Justiça, a teor do art. 105, inciso I, c, da Constituição Federal, para julgar habeas corpus impetrado diretamente nesta Corte Superior contra ato de Juiz de primeiro grau. Precedentes"(AgRg no HC 645.080/BA, Rel. Ministro Felix Fischer, QUINTA TURMA, DJe 19/03/2021).
+Finalmente, não verifico a possibilidade deconceder ordem de ofício, pois o habeas corpus, instrumento de uso exclusivo da defesa,não comporta discussão unilateral sobre fatos, sendo incabível, em seu bojo, dilação probatória ou a intervenção de terceiro (o Ministério Público)para efetivar o contraditório.Ademais, nos termos da jurisprudência desta Corte não é imprescindível exame pericial para atestar a falta grave (v.g.: AgRg no HC n. 534231/ES,Rel. Ministro Ribeiro Dantas, 5ª T., Dje 5/3/2020).
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
