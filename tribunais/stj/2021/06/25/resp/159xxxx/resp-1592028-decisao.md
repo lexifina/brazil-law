@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL,com respaldo na alínea "a" dopermissivo constitucional, contra acórdão doTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOassim ementado (e-STJ fl. 214):
+AGRAVO. INSUFICIÊNCIA DAS RAZÕES.
+Não é de acolher-se o agravo quando insuficientes as razões apresentadas para modificação da decisão agravada.
+Embargos de declaração rejeitados (e-STJ fls. 227/229).
+Em suas razões, a parte recorrente aponta violação dos arts. 535, II, e649, IV,do CPC/1973, sustentando, em resumo, que "os valores penhorados foram acumulados pelo devedor ao longo de meses, ou seja, não foram utilizados para as suasnecessidades básicas e passaram para a sua esfera de reserva sujeita a rendimentos.Em outras palavras, os valores estavam afetados ao patrimônio disponível do devedor. Como visto, as verbas acumuladas passam a caracterizar investimento, e, nessa qualidade, podem perfeitamente serem penhoradas para o abatimento da dívida do executado" (e-STJ fls. 254/255).
+Contrarrazões às e-STJ fls. 263/272.
+Admissão recursal (e-STJ fl. 275).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostoscom fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Impõe-se afastar a indigitada ofensa ao art.535do CPC/1973, visto que o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, nenhuma contrariedade das normas invocadas.
+Ademais, consoante entendimento jurisprudencial pacífico do Superior Tribunal de Justiça, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa. Nesse sentido: AgRg no AREsp 750.650/RJ, rel. Ministro Humberto Martins, Segunda Turma, julgado em 22/09/2015, DJe 30/09/2015; e AgInt nos EDcl no REsp 1.591.711/SC, rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 05/06/2018, DJe 08/06/2018.
+Considerado isso, verifico a inviabilidade do apelo nobre.
+É que, ao analisar o caráter salarial do montante bloqueado, o Tribunal de origem consignou (e-STJ fls. 212/213):
+Pelo que se vê dos autos, para garantir a execução fiscal de origem foi bloqueado, via sistema Bacenjud, o montante de R$ 2.324,45 da conta-corrente nº 18.986-3, Agência 4297-8, do Banco do Brasil, pertencente ao executado Eduardo Reis Domingos (evento 31 do processo originário). Postulou o executado, então, o seu desbloqueio, diante da natureza salarial da verba, o que foi deferido pelo juízo a quo, pelo fundamento antes indicado.
+Pois bem, de acordo com a jurisprudência dominante do Superior Tribunal de Justiça (STJ), constatada a existência de saldo positivo na conta do executado, relativo à sobra dos proventos salariais recebidos em meses anteriores, tal montante perde a sua natureza alimentar e, portanto, a proteção do artigo 649, inciso IV, do Código de Processo Civil ("A Segunda Seção pacificou o entendimento de que a remuneração protegida pela regra da impenhorabilidade é a última percebida - a do último mês vencido - e, mesmo assim, sem poder ultrapassar o teto constitucional referente à remuneração de Ministro do Supremo Tribunal Federal. Após esse período, eventuais sobras perdem tal proteção.", cf. EREsp 1330567/RS, 2ª SEÇÃO, julgado em 10/12/2014).
+Ocorre que, no caso dos autos, a penhora online de R$ 2.324,45 ocorreu em 15-04-2015 (cf.evento 31 do processo originário), tendo o executado recebido o seu salário de R$ 4.045,47 em 06-04-2015 (cf. evento 39 - EXTR5 do processo originário). E, ainda que houvesse um saldo excedente de R$ 2.347,75 na conta bancária do executado por ocasião do recebimento do seu salário (cf. evento 39 - EXTR5 do processo originário), o fato é que tal saldo excedente, quando da realização da constrição, já havia sido integralmente consumido para o suprimento das necessidades básicas do devedor. Não havia, portanto, um saldo positivo na conta do executado no momento da realização da penhora online.
+Assim, por não haver excedente salarial quando da realização da penhora online e dada a comprovação da natureza salarial da verba constrita (cf. evento 33 - CHEQ7 do processo originário), protegida pela regra de impenhorabilidade do artigo 649, inciso IV, do Código de Processo Civil, deve ser mantida a decisão agravada que determinou o desbloqueio de ativos financeiros depositados em conta bancária do executado Eduardo Reis Domingos.
+Ante o exposto, nego seguimento ao agravo de instrumento, por manifestamente improcedente, o que faço com base no caput do art. 557 do Código de Processo Civil.
+Desse modo, não há como modificar a conclusão a que chegou o Tribunal de origem a respeito da natureza salarial do numerário bloqueado, visto que a revisão do julgado demandaria o reexame de prova, inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Ilustrativamente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AÇÃO DE COBRANÇA DE ALUGUERES. PENHORABILIDADE DA REMUNERAÇÃO DO DEVEDOR. POSSIBILIDADE. PRESERVAÇÃO. SUSTENTO. DEVEDOR. PRECEDENTES. SÚMULA Nº7/STJ
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Em situações excepcionais, admite-se a relativização da regra deimpenhorabilidadedas verbas salariais prevista no art. 833, § 2º, do CPC/2015, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família.
+Precedentes.
+3. Na hipótese, o acolhimento da pretensão recursal, no sentido de que o deferimento da penhora compromete o sustento da devedora e de sua família, esbarra no enunciado da Súmula nº7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1.825.923/SP, Rel.Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 9/3/2020, DJe 13/3/2020).
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. PENHORA DE PERCENTUAL DESALÁRIO.DÍVIDA DE CARÁTER NÃO ALIMENTAR. RELATIVIZAÇÃO DA REGRA DEIMPENHORABILIDADE.POSSIBILIDADE.
+1. Ação de execução de título executivo extrajudicial - nota promissória.
+2. Ação ajuizada em 13/10/1994. Recurso especial interposto em 29/10/2009. Embargos de divergência opostos em 23/10/2017. Julgamento: CPC/2015.
+3. O propósito recursal é definir sobre a possibilidade de penhora de vencimentos do devedor para o pagamento de dívida de natureza não alimentar.
+4. Em situações excepcionais, admite-se a relativização da regra deimpenhorabilidadedas verbas salariais prevista no art. 649, IV, do CPC/73, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família. Precedentes.
+5. Na espécie, a moldura fática delineada nos autos - e inviável de ser analisada por esta Corte ante a incidência da Súmula7/STJ- conduz à inevitável conclusão de que a constrição de percentual desalárioda embargante não comprometeria a sua subsistência digna.
+6. Embargos de divergência não providos.
+(EREsp 1.518.169/DF, Rel. Ministro HUMBERTO MARTINS, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 03/10/2018, DJe 27/02/2019).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇOdo recurso especial.
+Sem honorários recursais sucumbenciais (art. 85, § 11, do CPC/2015), à vista do Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
