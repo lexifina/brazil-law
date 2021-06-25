@@ -1,0 +1,46 @@
+D E C I S Ã O
+    Cuida-se de Mandado de Segurança, com pedido de liminar, impetrado por Luiz Carlos Batista, contra ato praticado pelo Plenário do Conselho Nacional de Justiça – CNJ, nos autos da Reclamação Disciplinar nº 008245-29.2020.2.00.0000.
+    Requer o impetrante, inicialmente, a prioridade de tramitação do presente feito, por ser idoso (art. 71, Caput, § 1º, da Lei nº 10.741/2003), e o deferimento dos benefícios da justiça gratuita.
+    Alega que o CNJ, por meio de decisão monocrática da Corregedora Nacional de Justiça, arquivou sumariamente a Reclamação Disciplinar nº 008245-29.2020.2.00.0000, fundamentando-se, exclusivamente, na primeira parte do art. 103-B, § 4º, da CF/88, se omitindo sobre segunda parte daquele dispositivo, que trata dos deveres funcionais dos magistrados, dentre eles, a parcialidade.
+    Aduz que interpôs recurso administrativo em face da citada decisão monocrática, ao qual foi negado provimento.
+    Entende que o voto condutor do recurso administrativo 1) induziu em erro os demais Conselheiros; 2) não analisou corretamente a petição inicial da reclamação, a peça recursal e os documentos juntados aos autos; 3) não observou a omissão constante da decisão monocrática impugnada acerca da segunda parte do art. 10-B, § 4º, da CF/88, que trata do não cumprimento dos deveres funcionais dos magistrados; 4) deixou de aplicar jurisprudência recente do CNJ no sentido da possibilidade de suspensão dos efeitos de decisões judiciais, quando proferidas em prejuízo de garantias constitucionais, mormente quando demonstrado abuso de poder e cometimento de ilegalidades por juízes (Processo nº 0007737-83.2020.2.00.0000); e 5) não atentou para as diversas ilegalidades cometidas pelo magistrados nos Processos nsº 0018147- -14.2016.8.08.0035 e 0027708-28.2017.8.08.0035.
+    Requer a concessão de medida liminar para:
+    “1) Suspender os efeitos do acórdão proferido na Reclamação Disciplinar nº 008245-29.2020.2.00.0000;
+    2) Suspender os efeitos da decisão monocrática proferida em 03/12/2020 pela Corregedora Nacional de Justiça, que determinou o arquivamento sumário da Reclamação Disciplinar nº 008245-29.2020.2.00.0000;
+    3) Conceder a ordem para determinar que a Corregedora Nacional de Justiça receba e conheça da Reclamação Disciplinar nº 008245-29.2020.2.00.0000, nos termos do art. 103-B, §§ 4º e 5º, da CF/88;
+    4) Conceder ordem para determinar que a Corregedora Nacional de Justiça analise o pedido de liminar na Reclamação Disciplinar nº 008245-29.2020.2.00.0000; e, finalmente,
+    5) Conceder a ordem para determinar que a Corregedora Nacional de Justiça receba e conheça da Reclamação Disciplinar nº 008245-29.2020.2.00.0000 e, em consequência, apure as ilegalidades cometidas pelos magistrados por ele indicados.”
+    Postula, ao final, a confirmação da medida liminar e a consequente concessão da segurança, bem como a intimação do Ministério Público Federal para intervir nos autos e apurar “o abuso de poder, arbítrio, corporativismo e parcialidade do CNJ”.
+    É o relatório. Decido.
+    Inicialmente, defiro o pedido de justiça gratuita.
+    No caso, a segurança deve ser denegada.
+    O ato tido por coator recebeu a seguinte ementa:
+    “RECURSO ADMINISTRATIVO. RECLAMAÇÃO DISCIPLINAR. PRETENSÃO DE EXAME DE MATÉRIA ESTRITAMENTE JURISDICIONAL. ART. 103-B, § 4º, DA CF. NÃO CABIMENTO. AUSÊNCIA DE INDÍCIOS DA PRÁTICA DE INFRAÇÃO DISIPLINAR. MANUTENÇÃO DA DECISÃO DE ARQUIVAMENTO.
+    1. Os fatos narrados neste expediente referem-se ao exame de matéria estritamente jurisdicional, relacionada à revisão/anulação de decisões e acórdãos prolatados nos autos de ação de reintegração de posse, que foram desfavoráveis ao reclamante e aos quais atribui um viés administrativo-disciplinar, o que é inadmissível.
+    2. O Conselho Nacional de Justiça possui competência adstrita ao âmbito administrativo do Poder Judiciário, não podendo intervir em decisão judicial com o intuito de reformá-la ou invalidá-la. A revisão ou anulação de ato judicial não se enquadra no âmbito das atribuições do CNJ, nos termos do art. 103-B, § 4º, da Constituição Federal.
+    3. Ante a ausência de indícios de que os magistrados reclamados tenham praticado infração disciplinar ou descumprido seus deveres funcionais, deve ser mantida a decisão de arquivamento da reclamação disciplinar.
+    4. Recurso administrativo não provido.”
+    Vê-se, assim, que o CNJ decidiu pelo arquivamento da reclamação administrativa, ao entendimento de que não caberia, naquela sede, por se pretender a revisão de questão jurisdicional e em razão da ausência de comprovação da infringência dos deveres funcionais pelos magistrados.
+    Nesse contexto, a impetração volta-se contra deliberação negativa do CNJ.
+    Ocorre que o Supremo Tribunal Federal possui entendimento no sentido de que as deliberações negativas do CNJ não estão sujeitas à apreciação pela via do mandado de segurança. Nesse sentido, vejam-se julgados proferidos, inclusive, em mandados de segurança contra decisão do CNJ que determinara o arquivamento sumário de reclamação disciplinar:
+    “Direito processual civil. Agravo interno em mandado de segurança. Conselho Nacional de Justiça. Arquivamento sumário de reclamação disciplinar contra atos jurisdicionais. Ausência de injuridicidade ou manifesta irrazoabilidade.
+    1. Agravo interposto em face de decisão monocrática que negou seguimento a mandado de segurança impetrado contra decisão do Corregedor Nacional de Justiça, que determinou o arquivamento sumário da Reclamação Disciplinar nº 0004156-94.2019.2.00.0000, formalizada perante o Conselho Nacional de Justiça.
+    2. O arquivamento da reclamação disciplinar teve por fundamento o fato de a reclamante se limitar a questionar o conteúdo de atos jurisdicionais. Ausência de injuridicidade ou manifesta irrazoabilidade no ato coator, na medida em que o Conselho Nacional de Justiça somente tem competência para exercer o controle da atuação administrativa do Poder Judiciário, nos termos do art. 103-B, § 4º, da Constituição Federal. Precedentes. 3. Agravo a que se nega provimento por manifesta improcedência, com aplicação de multa de 2 (dois) salários mínimos, ficando a interposição de qualquer recurso condicionada ao prévio depósito do referido valor, em caso de decisão unânime (CPC/2015, art. 1.021, §§ 4º e 5º, c/c art. 81, § 2º).”
+    (MS 36704 AgR, Relator(a): ROBERTO BARROSO, Primeira Turma, julgado em 24/02/2021, PROCESSO ELETRÔNICO DJe-039 DIVULG 02-03-2021 PUBLIC 03-03- -2021)
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. ACÓRDÃO DO CONSELHO NACIONAL JUSTIÇA. ARQUIVAMENTO SUMÁRIO DE RECLAMAÇÃO DISCIPLINAR CONTRA MAGISTRADO. IMPUTAÇÕES QUE ENVOLVEM ATOS DE NATUREZA JURISDICIONAL, E NÃO ADMINISTRATIVA. OBSERVÂNCIA DA COMPETÊNCIA ESTABELECIDA NO ART. 103-B, § 4º, DA CF/88. ILEGALIDADE. INOCORRÊNCIA. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. RECURSO DE AGRAVO A QUE SE NEGA PROVIMENTO.
+    1. O ato questionado não violou direito líquido e certo dos impetrantes, uma vez que não comprovada a ilegalidade decorrente da decisão que determinou o arquivamento sumário da Reclamação Disciplinar 0000912-94.2018.2.00.0000, sob o fundamento de que o Conselho Nacional de Justiça não serve como instância recursal, estando sua atribuição adstrita ao âmbito administrativo do Poder Judiciário, em fiel observância ao art. 103-B, § 4º, da CF/88.
+    2. O CNJ atuou conforme suas prerrogativas constitucionais e de acordo com o previsto em seu Regimento Interno, não incorrendo em qualquer ilegalidade ou abuso de poder, ao extinguir liminarmente a reclamação disciplinar.
+    3. Essa atuação está em consonância com as diretrizes lançadas pela jurisprudência desta SUPREMA CORTE, consolidadas no sentido de que como regra geral, o controle dos atos do CNJ pelo STF somente se justifica nas hipóteses de (i) inobservância do devido processo legal; (ii) exorbitância das competências do Conselho; e (iii) injuridicidade ou manifesta irrazoabilidade do ato impugnado (MS 33.690 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 18/2/2016).
+    4. Agravo interno a que se nega provimento.”
+    (MS 36139-AgR-2ºJULG, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 21/12/2020, PROCESSO ELETRÔNICO DJe-040 DIVULG 03-03-2021 PUBLIC 04-03- -2021)
+    Na mesma linha, os seguintes precedentes: MS 36139, Relator Ministro Alexandre de Moraes, e MS 36010 ED-AgR-ED, Relator Ministro Gilmar Mendes.
+    O que pretende o impetrante, por vias transversas, é transformar esta Corte em instância recursal das decisões administrativas do CNJ, no regular exercício de suas atribuições constitucionais (MS 36716, Relator Ministro Luiz Fux), o que não pode ser admitido.
+    Ante o exposto, denego a segurança (art. 6º, § 5º, da Lei 12.016/09), prejudicado o pedido de liminar.
+    Ao amparo do art. 71 da Lei 10.741, de 1º de outubro de 2003, retifique-se a autuação para dela fazer constar a prioridade na tramitação do feito, porquanto o impetrante possui idade superior a 60 (sessenta) anos.
+    Custas legais.
+    Sem honorários advocatícios.
+    Preclusas as vias impugnatórias, arquivem-se.
+    Publique-se.
+    Brasília, 25 de junho de 2021.
+Ministro NUNES MARQUES
+Relator
