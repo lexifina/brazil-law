@@ -1,0 +1,46 @@
+DECISÃO
+MARGARIDA DE CASSIA SPACEK EVANGELISTA (MARGARIDA) promoveu contra CLÁUDIO JOSÉ URBANO RODRIGUES e FLÁVIO GOMES MUNHOZ (CLÁUDIO e OUTRO) ação de indenização por danos materiais e morais cumulados com obrigação de fazer.
+Alegou ter contratadoos réus para trabalharem como pedreiro e ajudante de pedreiro em construção de imóvel residencial, e que houve falhas na prestação do serviço que causaram defeitos estruturais na obra.
+Pugnou pela condenação dos réus no refazimento do serviço ou, alternativamente, no pagamento de danos materiais no valor de R$ 7.000,00 (sete mil reais), além de indenização por danos morais equivalentes a 20 (vinte) salários mínimos.
+Após a instrução probatória, com a elaboração de laudo pericial, o pedido foi julgado parcialmente procedentepara condenar os réus ao pagamento do valor de R$ 7.000,00 a título de indenização por danos morais, corrigido pela variação da UFIR a partir da prolação da sentença, com juros de 1% ao mês, desde a citação, e ainda ao pagamento, a título de restituição, do valor de R$ 2.800,00 (40% de R$ 7.000,00), corrigido pela variação da UFIR e com juros de mora de 1% ao mês, a contar do desembolso realizado pela autora. Em face da sucumbência mínima da autora, os réus foram condenados ao pagamento das custas processuais, despesas processuais e honorários advocatícios fixados em 10% sobre o valor da condenação (e-STJ, fls. 219/224).
+A apelação interposta por CLAÚDIO e outro não foi provida, pelo Tribunal fluminense, nos termos do acórdão, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA. IRRESIGNAÇÃO DOS RÉUS. AGRAVO RETIDO INTERPOSTO E REITERADO PELOS RÉUS. DESPROVIMENTO. PROVAS PRODUZIDAS QUE ERAM SUFICIENTES AO DESLINDE DA CONTROVÉRSIA. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. NO MÉRITO, LAUDO PERICIAL QUE INDICA ERRO NA EXECUÇÃO E NECESSIDADE DE SUPERVISÃO DE RESPONSÁVEL TÉCNICO. NECESSIDADE DE DEVOLUÇÃO DOS VALORES NA FORMA FIXADA NA SENTENÇA. SERVIÇO CONTRATADO NÃO PRESTADO A CONTENTO. DANO MORAL NÃO CONFIGURADO. AUSÊNCIA DE COMPROVAÇÃO DE CONTRATAÇÃO DE RESPONSÁVEL TÉCNICO PELA PARTE APELADA. APELANTES QUE DEVEM OBSERVAR OS PROJETOS ELABORADOS POR ENGENHEIRO OU ARQUITETO E SER SUPERVISIONADOS NA EXECUÇÃO DE SEU TRABALHO, O QUE NÃO SE COMPROVOU NA HIPÓTESE. SUCUMBÊNCIA RECÍPROCA. ADEQUAÇÃO DOS ÔNUS SUCUMBENCIAIS. AGRAVO RETIDO DESPROVIDO. APELO A QUE SE DÁ PARCIALPROVIMENTO. (e-STJ, fls. 416/417).
+Irresignados, CLAUDIO e outro interpuseram recurso especial, com fulcro no art. 105, III, a, da CF, alegando a violação dos arts. 489, §1º e IV, e 1022, II, do CPC, 884 do CC, ao sustentar (1) a existência de omissão não sanada pelo Tribunal estadual, e, (2) que o laudo pericial deixou clara a ausência de responsabilidade dos recorrentes e que os erros na execução da obra se deram em razão da ausência de um responsável técnico (e-STJ, fls. 474/486).
+Após o decurso do prazo sem a apresentação das contrarrazões, o apelo nobre não foi admitido em virtude da (1) expressa manifestação acerca dos temas necessários à integral solução da lide, não sendo legítimo confundir fundamentação deficiente com fundamentação sucinta, porém suficiente, mormente quando contrária aos interesses da parte; e, (2) aplicação do óbice contido na Súmula n. 7 do STJ (e-STJ, fls. 491/496).
+Nas razões do presente agravo em recurso especial, CLAÚDIO e outro afirmaram que seu recurso merece trânsito, uma vez que preenchidos os requisitos necessários a sua admissibilidade, refutando, no mais, o óbice sumular aplicado na origem (e-STJ, fls. 526/541).
+Não foi apresentada contraminuta (e-STJ, fl.581).
+É o relatório.
+DECIDO.
+O presente recurso não comporta provimento.
+De plano vale pontuar que a disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da violação dos arts. 489 e 1022 do NCPC
+CLÁUDIO e outro alegaram omissão e falta de fundamentação no acórdão, que, apesar de ter sido oportunamente provocado por meio de embargos de declaração, não teria se manifestado sobre a ausência de exame do agravo retido interposto, no qual pugnaram pela realização de prova testemunhal.
+Sem razão, contudo.
+Ao se manifestar sobre o tema, o Tribunal fluminense destacou que:
+Pontua-se, ainda, que o agravo retido oposto pelos embargantes está devidamente consignado no corpo do relatório, não sendo apreciado por este Colegiado, em razão do declínio de competência.
+Nada obstante, o exame do agravo retido (referente à produção de prova testemunhal) não se confunde com a determinação de juntada de documentos em sede recursal, mormente, porque a suposta conexão entre a presente demanda e a ação trabalhista constitui matéria afeta a prova documental, situação que apenas ratifica o indeferimento da prova testemunhal como realizado pelo Magistrado de origem, nos termos do art. 443, II, do CPC/15. (e-STJ, fls. 301/302).
+Desse modo, observa-se que os pontos tidos por omissos foram devidamente apreciados pelo TJRJ, não havendo falar em omissão e/ou falta de fundamentação.
+Portanto, inexistentes os vícios elencados no recurso aclaratório, não há falar em violação dos arts. 489 e 1022 do NCPC.
+(2) Do art. 884 do CC/02
+Os recorrentes afirmaram que o laudo pericial deixou claro a ausência de sua responsabilidade e que os erros na execução da obra se deram em razão da ausência de um responsável técnico, de sorte que a manutenção da sentença que os condenou ao pagamento da reparação material pretendida por MARGARIDA importa em enriquecimento sem causa.
+Pois bem.
+O Tribunal fluminense ao se manifestar sobre a responsabilidade dos demandados, pontificou o seguinte:
+Em relação à condenação de restituição de valores, a mesma deverá ser mantida.
+Os apelantes foram contratados para a prestação de um serviço que não foi realizado a contento e reconhecem, à fl. 194 de suas razões de apelação, terem recebido da parte apelada, R$ 7.000,00 (sete mil reais) pelo trabalho. Considerando os erros na execução, apontados no laudo pericial, correta a determinação de devolução de parte do valor, qual seja, R$ 2.800,00 (dois mil e oitocentos reais), como fixado na sentença recorrida. (e-STJ, fls. 429).
+Ao contrário do quanto alegado no apelo nobre, houve reconhecimento, no acórdão recorrido, de que o serviços contratados a CLÁUDIO e outro não foram prestados a contendo, tendo ocorrido erros na execução, conforme apontado em laudo pericial, trazendo prejuízos materiais à contratante.
+Desse modo, a condenação dos demandados à devolução de parte do valor (R$ 2.800,00) recebido de MARGARIDA (R$ 7.000,00) pela prestação do seus serviços de pedreiro não representa enriquecimento ilícito da parte.
+Assim, rever o entendimento firmado no Tribunal fluminense encontra óbice na já citada Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. 1. PROVA PERICIAL. NULIDADE NÃO CONSTATADA. LIVRE CONVENCIMENTO MOTIVADO DO JUIZ. REVISÃO. SÚMULA 7/STJ. 2. DANO MATERIAL E MORAL. CARACTERIZAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO ST .. . 6. AGRAVO IMPROVIDO.
+1. De fato, a prova constitui elemento de formação da convicção do magistrado acerca dos fatos, tendo como destinatário o juiz, o qual possui a prerrogativa de livremente apreciá-la através de motivada decisão.
+1.1. Na hipótese, a Corte estadual entendeu que as provas dos autos, especificamente o laudo pericial, mostraram-se conclusivas a respeito dos fatos. Assim, para afastar esse entendimento seria necessário o revolvimento de fatos e provas, vedado pela Súmula 7/STJ.
+2. A revisão da conclusão estadual (concernente à caracterização tanto do dano material como do dano moral) demandaria o revolvimento do acervo fático-probatório dos autos, providência inviável no âmbito do recurso especial, ante o óbice da Súmula 7/STJ.
+ .. .
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 820.128/MA, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 9/3/2020, DJe 13/3/2020).
+Nessas condições, CONHEÇO do agravo para, desde logo, NEGAR PROVIMENTO ao recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO SUJEITA ÀS NORMAS DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS.PRESTAÇÃO DE SERVIÇOS DE CONSTRUÇÃO. ARTS. 489 E 10-22 DO NCPC. OMISSÃO E FALTA DE FUNDAMENTAÇÃO INEXISTENTE. ART. 884 DO CC/02. DANO MATERIAL. RESTITUIÇÃO DE PARTE DOS VALORES PAGOS. ENRIQUECIMENTO ILÍCITO. INOCORRÊNCIA. ENTENDIMENTO FIRMADO COM BASE NOS FATOS DA CAUSA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
