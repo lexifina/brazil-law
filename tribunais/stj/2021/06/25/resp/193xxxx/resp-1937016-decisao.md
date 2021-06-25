@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alínea "a", da Constituição Federal, interposto em desfavor de acórdão proferido pelo Tribunal Regional Federal da 3ª Região.
+Consta dos autos que o Ministério Público Federal ofereceu denúncia criminal contra o recorrente, imputando-lhe a prática do delito tipificado no art. 334-A, § 1º, I, do Código Penal (contrabando). O magistrado rejeitou a peça acusatória, com fundamento no art. 395, III, do CPP.
+Irresignado, o Ministério Público Federal interpôs recurso em sentido estrito, que restouprovido para receber a denúncia criminal e determinar o prosseguimento do feito.
+O acórdão restou assim ementado:
+RECURSO EM SENTIDO ESTRITO. REJEIÇÃO DA DENÚNCIA. ARTIGO334-A, §1º, INCISO I, DO CÓDIGO PENAL C/C ARTIGO 3º DO DECRETO-LEI Nº399/1968. CIGARROS. CRIME DE CONTRABANDO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PRECEDENTES DO STF E DO STJ. RECURSO PROVIDO.1. Denúncia que narra a prática, em tese, do crime definido no artigo 334-A,§1º, inciso I, do Código Penal c/c artigo 3º do Decreto-Lei nº 399/1968.2. Seguindo o entendimento jurisprudencial sedimentado nos Tribunais Superiores, ressalvada a posição pessoal deste Relator, passa-se a considerar que a introdução de cigarros de origem estrangeira desacompanhados da documentação comprobatória da regular importação configura crime de contrabando (mercadoria de proibição relativa).3. Tratando-se de crime de contrabando, resta inaplicável o princípio da insignificância, independentemente do valor dos tributos elididos, na medida em que o bem jurídico tutelado envolve, sobremaneira, o interesse estatal no controle da entrada e saída de produtos, assim como a saúde e segurança públicas. Precedentes.4. Recurso em sentido estrito provido.
+Opostos embargos de declaração, restaram rejeitados.
+Na petição de recurso especial, a defesaaponta violação ao disposto nos arts. 334-A, § 1º, I, do Código Penal e arts. 28-A e 395, III, ambos do Código de Processo Penal. Sustenta, em síntese, a aplicação do princípio da insignificância e, subsidiariamente, a oportunidade de celebrar acordo de não persecução penal.
+Contrarrazões às fls. 295/302.
+Admitido o recurso (fls. 304/308), os autos vieram a esta Corte.
+Parecer ministerial pugnando pelo parcial provimento do recurso (fls. 321/327).
+É o relatório.
+Decido.
+O recurso merece parcial provimento.
+De início, ajurisprudência desta Corte é no sentido de que a importação não autorizada de cigarros constitui o crime de contrabando, insuscetível de aplicação do princípio da insignificância.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. AGRAVO IMPROVIDO. 1. O Superior Tribunal de Justiça firmou o entendimento de que a introdução clandestina de cigarros, em território nacional, em desconformidade com as normas de regência, configura o delito de contrabando, ao qual não se aplica o princípio da insignificância, por tutelar interesses que transbordam a mera elisão fiscal. 2. Agravo regimental improvido. (AgRg no REsp 1717048/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 24/09/2018).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO. 1. Nos termos da pacífica orientação da Terceira Seção desta Corte, a importação não autorizada de cigarros constitui o crime de contrabando, insuscetível de aplicação do princípio da insignificância. 2. Agravo regimental desprovido.
+(AgRg no REsp 1706397/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 28/02/2018).
+No que tange àaplicação do acordo de não persecução penal (ANPP), verifica-se que, no momento do recebimento da denúncia (11/12/2020 - fls. 193/200), já se encontrava em vigor a Lei Federal n. 13.964 de 24/12/2019, que incluiu o art. 28-A ao Código de Processo Penal, todavia, não foi oportunizada a formalização do aludido acordo, às partes processuais.Assim, revela-se possível, no caso concreto, a proposta de acordo de não persecução penal.
+Ressalta-se que a restrição àaplicação do disposto no art. 28-A do Código de Processo Penal, limitou-se a casos em que o recebimento da denúncia tenha ocorrido antes da vigência daLei Federal n. 13.964/2019.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. VIA INADEQUADA. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. APLICAÇÃO DO ART. 28-A DO CPP.ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). DENÚNCIA JÁ RECEBIDA.IMPOSSIBILIDADE. PRECEDENTES DESTA 5ª TURMA E DO SUPREMO TRIBUNAL FEDERAL. HABEAS CORPUS NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e este Superior Tribunal de Justiça, por sua Terceira Seção, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. A Lei n. 13.964/2019 (comumente denominada como "Pacote Anticrime"), ao criar o art. 28-A do Código de Processo Penal, estabeleceu a previsão no ordenamento jurídico pátrio do instituto do acordo de não persecução penal (ANPP).
+3. O acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei nº 13.964/2019, desde que não recebida a denúncia. (HC-191.464/STF, 1ª TURMA, Rel. Ministro GILMAR MENDES, DJe de 12/11/2020). No mesmo sentido: (EDcl no AgRg no AgRg no AREsp 1635787/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, DJe 13/8/2020 e Petição no AREsp 1.668.089/SP, da Relator Ministro FELIX FISCHER, DJe de 29/6/2020).
+4. No caso dos autos, a discussão acerca da aplicação do acordo de não persecução penal (art. 28-A do CPP) só ocorreu em sede de apelação criminal e no momento do recebimento da denúncia não estava em vigência a Lei nº 13.964/2019, o que impede a incidência do instituto.
+5. Habeas corpus não conhecido.
+(HC 607.003/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA,DJe 27/11/2020).
+Diante do exposto, com fundamento na Súmula n. 568/STJ, dou parcial provimento ao recurso especial para que os autos sejam remetidos ao órgão ministerial competente a fim de avaliar a conveniênciado acordo de não persecução penal no presente caso.
+Publique-se. Intimem-se.
