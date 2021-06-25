@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus,sem pedido liminar, impetrado em favor de ALEXANDRO CANDIDO PEREIRAcontra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 1526987-48.2020.8.26.0050).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, à pena de 8anos de reclusão, em regime inicial fechado, e 20 dias-multa, pela prática do crime previsto no art. 157,§ 2º, inciso II, e§ 2º-A, inciso I,doCódigo Penal (e-STJ fls. 85/88).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi desprovido (e-STJ fls. 155/167), em acórdão assim ementado:
+ROUBO QUALIFICADO - Artigo 157, § 2º, II, e § 2º-A,I, do CP. Autoria e materialidade comprovadas. Condenação mantida.
+PENAS - Bem dosadas e justificadas, não comportando modificação.
+REGIME PRISIONAL - Inicial fechado é o que convém a autor de crime patrimonial violento. Recurso desprovido.
+No presente mandamus (e-STJ fls. 3/20),a impetrante sustenta que o acórdão impugnado impôs constrangimento ilegal ao paciente, pois manteve sentença que aplicou a agravante prevista no art. 61, inciso II, alínea j, do Código Penal. Para tanto, assevera que o estado de calamidade decretado em virtude da pandemia em nada contribuiu ou facilitou a execução do delito, sendo imprescindível a demonstração de nexo causal entre a situação vivenciada no período de calamidade pública e o delito praticado.
+Ao final, pede a concessão da ordem para que a pena do paciente seja reduzida.
+O Ministério Público Federal, por meio do parecer exarado às e-STJ fls. 177/180, opinou pelo não conhecimento dowrit, mas pela concessão da ordem, de ofício, cuja ementa segue transcrita:
+Habeas corpus substitutivo de recurso próprio. Roubo majorado (artigo 157-II e 2º-A-I c/c 61-II-j do Código Penal).
+I - Dosimetria. Inexistência de bis in idem. Enunciado 241 do STJ.
+II - Agravante prevista no artigo 61-II-j do Código Penal. Covid-19. Ausência de demonstração de que o agente valeu-se dessa circunstância para a prática do delito. Constrangimento ilegal constatado.
+- Promoção pelo não conhecimento do writ, mas pela concessão da ordem, nos termos deste parecer.
+É o relatório. Decido.
+Inicialmente, o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio.
+Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção dopaciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício. Nesse sentido, a título de exemplo, confiram-se os seguintes precedentes: STF, HC n. 113.890/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 3/12/2013, publicado em 28/2/2014; STJ, HC n. 287.417/MS, Relator Ministro SEBASTIÃO REIS JÚNIOR, Quarta Turma, julgado em 20/3/2014, DJe 10/4/2014; e STJ, HC n. 283.802/SP, Relatora Ministra LAURITA VAZ, Quinta Turma, julgado em 26/8/2014, DJe 4/9/2014.
+Na espécie, embora aimpetrantenão tenhaadotado a via processual adequada, para que não haja prejuízo à defesa dopaciente, passo à análise da pretensão formulada na inicial, a fim de verificar a existência de eventual constrangimento ilegal.
+Busca-se, em síntese, o afastamento da agravante do crime praticado em estado de calamidade pública.
+Como é cediço, a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+No caso,segue a fundamentação utilizada pelo Juízo sentenciante para reconhecer a agravante prevista no art. 61, inciso II, alínea j, do Código Penal, bem como o aumento operado na segunda fase da dosimetria(e-STJ fl. 87):
+Quanto à agravante da calamidade pública, de rigor seu reconhecimento, já que é público e notório a atual pandemia de Covid-19, conforme Decreto Legislativo nº 06/2020, datado de 20/03/2020. Além disso, trata-se de período em que há menos circulação de pessoas em locais públicos, de modo que a consumação do delito se mostra mais provável.
+ ..
+Na segunda fase, por ter confessado a prática do delito, retorno a pena ao mínimo legal, ou seja, 04 (quatro) anos de reclusão e pagamento de 10 (dez) dias-multa. Pelas agravantes da reincidência e por ter praticado o delito em período de estado de calamidade pública, agravo a pena em 1/5 (um quinto), o que perfaz 04 (quatro) anos, 09 (nove) meses e 18 (dezoito) dias de reclusão e 12 (doze) dias-multa.
+O Tribunal a quo manteve os critérios constantes da sentença, conformesegue (e-STJ fls. 165/166):
+No que tange à agravante do artigo 61, inciso II, alínea "j", do CP, nada há a ser considerado, pois o acusado praticou o crime em plena situação de calamidade pública, decorrente da pandemia da COVID19, sendo prescindível se tal situação facilitou ou não a conduta criminosa.
+A prática de crime em cenário no qual toda a população passa por privações e incertezas em meio a diversas recomendações de recolhimento domiciliar e restrição de atividades de toda ordem é ainda mais reprovável e merece resposta penal diferenciada.
+A propósito, esta Colenda Câmara já se manifestou sobreo tema, mantendo a referida agravante:  ..
+Logo, incidente a majorante.
+Dessa forma, extrai-se que a agravante prevista no art. 61, inciso II, alíneaj, do Código Penal foi aplicada apenas pelo fato de o delito ter sido praticado na vigência doDecreto Estadual nº 64.879 e do Decreto Legislativo nº 06/2020, ambos de 20.03.2020, que reconhecem estado de calamidade pública no Estado de São Paulo em razão da pandemia da COVID-19.
+Entretanto,a incidência da agravante da calamidade pública pressupõea existência desituação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática da traficância(HC 625.645/SP, Rel. Ministro FELIX FISCHER, DJe 04/12/2020). No mesmo sentido: HC 632.019/SP, Rel. Ministro FELIX FISCHER, DJe 10/2/2021; HC 629/981/SP, Rel.Ministro JOEL ILAN PACIORNIK, DJe 9/2/2021; HC 620.531/SP, Ministro SEBASTIÃO REIS JÚNIOR, DJe 3/2/2021.
+Nesse contexto, ausente a demonstração de que o agente se aproveitou do estado de calamidade pública para praticar o crime em exame, revela-se inidônea a respectiva incidência.
+Em consequência da ilegalidade reconhecida supra, passo ao redimensionamento da pena do paciente.
+Estabelecida a pena-base na origem em 4 anos e 8 meses de reclusão e 11 dias-multa, afasto a agravante da calamidade pública, remanescendo a agravante da reincidência e a atenuante da confissão espontânea na segunda fase, as quais ficam compensadas. Mantidos os critérios utilizados na origem para aumentar a pena na terceira fase, com acréscimo de 2/3, torno a pena do paciente definitiva em 7 anos, 9 meses e 10 dias de reclusão e 18 dias-multa.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do habeas corpus, mas concedo a ordem, de ofício, para reduzir apena dopaciente para 7 (sete) anos, 9 (nove) meses e 10 (dez) diasde reclusão e 18 (dezoito) dias-multa, mantidos os demais termos da condenação.
+Intimem-se.
