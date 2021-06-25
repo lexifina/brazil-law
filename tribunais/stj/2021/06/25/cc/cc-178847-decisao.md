@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado por AGROPECUÁRIA LAGO GRANDE S.A. em face do JUÍZO DA 2ª VARA CÍVEL DE VILA RICA - MT e o JUÍZO DA 3ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO - SP.
+Ação em trâmite perante o juízo de Vila Rica: manutenção de posse, movida por JOÃO MILZANYR ESTEVES GALVÃO E OUTROS em face da suscitante (n. 1000555-35.2021.8.11.0049).
+Ação em trâmite perante o juízo do São Paulo: falência da sociedade FRIGORÍFICO KAIOWA S/A (n. 0037797-06.2020.8.26.0100).
+Conflito de competência: alega, em síntese, que o imóvel que constitui o objeto da ação de manutenção de posse foi adquirido - em hasta pública - pela suscitante nos autos do processo falimentar de FRIGORÍFICO KAIOWA, de modo que o juízo falimentar é o único competente para processar e julgar referida ação.
+Tutela antecipada: foi indeferida às fls. 1.547/1/549 e-STJ.
+Informações do Juízo de Vila Rica: afirmou que deixou de aplicar o art. 76 da Lei 11.101/05, pelos seguintes fundamentos: (i) o imóvel deixou de pertencer à massa falida; (ii) a regra de competência absoluta da situação do imóvel deve prevalecer em razão da maior facilidade da instrução probatória, bem como diante da repercussão na vida econômica e social da localidade onde está situado o imóvel; (iii) a aplicabilidade da competência atrativa do juízo falimentar deve ser flexibilizada ante ao procedimento especial previsto no CPC, cuja vigência é contemporânea em mais de dez anos (e-STJ, fls. 1.563/1.567).
+Informações do síndico dativo da massa falida: afirma que os autores da reintegração de posse "detinham o conhecimento sobre o leilão das áreas desde há muito, e somente agora, após terem todos os pleitos negados pelo juízo falimentar, vieram ao Juízo local pleitear medida judicial sobre aspectos de sua posse, já devidamente analisadas". Acrescenta causar "estranheza o fato de o mesmo juízo que cumpriu a ordem e imitiu a arrematante na posses das áreas, venha, por outra via, reintegrar outras pessoas na posse da mesma área" (e-STJ, fls. 1.602.1612).
+Parecer do MPF: opinou pela declaração da competência do juízo de Vila Rica.
+É O RELATÓRIO. DECIDO.
+Diante da petição de fls. 1.619/1.642 e-STJ, em que a própria suscitante informa que, em 18/6/2021,sobreveio decisão do Juízo Cível reconhecendo a sua incompetência absoluta, com a determinação da remessa dos autos ao Juízo falimentar, deve ser reconhecido que o presente conflito de competência restou esvaziado, resultando em sua perda de objeto, tal como requerido.
+Forte nessas razões, JULGO PREJUDICADO o conflito de competência suscitado por Agropecuária Lago Grande S.A., bem como o exame do agravo interno interposto contra a decisão liminar.
+Publique-se. Intimem-se. Comunique-se.
