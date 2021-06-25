@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por ANALICE DA SILVA eJOÃO PAULO VARELA ADOLFO, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TJ/DFT, assim ementado (e-STJ, fls. 1.124-1.133):
+"PENAL E PROCESSO PENAL. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO. RECURSOS DAACUSAÇÀO E DA DEFESA. DOSIMETRIA. ADEQUAÇÃO. SENTENÇA PARCIALMENTEREFORMADA.
+1. Demonstra alto grau de reprovabilidade da conduta o fato de que os disparos expuseram a risco de mortenão apenas a vítima, mas também outra pessoa que se encontrava com ela dentro do veículo.
+2. Correto o aumento da pena-base com fundamento na valoração negativa das circunstâncias do delito, emrazão de ter sido cometido na presença dos filhos menores dos acusados.
+3. O comportamento da vítima deve ser analisado em benefício dos réus, considerando que a atitude anteriordo ofendido (tentativa de homicídio contra os acusados) contribuiu para a ocorrência do crime.
+4. Se a confissão espontânea, embora qualificada, torna-se relevante para formar a convicção dos julgadoresleigos, merece ser considerada para fins da atenuante prevista no art. 65, inc. III,alínea "d", do CP.
+5. Recursos da acusação e defesa conhecidos e parcialmente providos".
+Os embargos de declaração foram parcialmente acolhidos, para reduzir a pena de ANALICE a 10 anos e 8 meses de reclusão (e-STJ, fls. 1.163-1.169).
+Em suas razões recursais, a defesa aponta violação dos arts. 617 do CPP e 59 do CP. Aduz para tanto, em síntese, que: (I) o acórdão recorrido aumentou a pena de ANALICE em 2 anos, pela reincidência - patamar superior ao da sentença, que a exasperou em 1 ano -, sem pedido doParquet; e (II) não haveria fundamentação válida para valorar negativamente a culpabilidade, na primeira fase da dosimetria.
+Com contrarrazões (e-STJ, fls. 1.194-1.197), o apelo nobre foi inadmitido na origem (e-STJ, fls. 1.200-1.201), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo parcial provimento do recurso, apenas para reduzir oquantumde aumento da reincidência(e-STJ, fls. 1.234-1.237).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+A respeito da dosimetria da reprimenda, vale anotar que sua individualização é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+Quanto à valoração negativa da culpabilidade, a quantidade de disparos de arma de fogo não foi o elemento central examinado pelas instâncias ordinárias, até porque este aspecto foi corrigido pelo Tribunal de origem no julgamento de embargos de declaração (e-STJ, fl. 1.168).O que levou a Corte a considerar desfavorável a culpabilidade foi o fato de que o réu atirou contra a vítimana presença de outra pessoa,que estava próxima dela (dentro do mesmo carro), colocando em risco também a vida do terceiro (e-STJ, fls. 1.130-1.131). Essa dinâmica fática reclama, efetivamente, maior juízo de censura sobre a conduta delitiva.
+Quanto ao impacto dareincidência de ANALICE, por outro lado, deve ser provido o recurso. Com efeito, a sentença agravou sua pena, na segunda fase da dosimetria, em somente 1 ano (e-STJ, fl. 864); sem que a apelação ministerial (e-STJ, fls. 1.012-1.022) se insurgisse contra esse ponto, o TJ/DFT aumentou oquantumde agravamento para 2 anos (e-STJ, fl. 1.132). Tal agir de ofício em favor da acusação não é admitido em nosso sistema processual, tanto pela vedação àreformatio in pejuscomo pelo princípio da correlação.
+Por isso, refaço a dosimetria da pena da ré ANALICE.
+Na primeira fase, mantenho a reprimenda básica em 14 anos de reclusão (e-STJ, fl. 1.169). Na segunda etapa, a reincidência eleva a pena em 1 ano, totalizando 15anos de reclusão. Por fim, com o reconhecimento da participação de menor importância na fração de 1/3, a pena definitiva é de10 anos de reclusão.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b" e "c", do Regimento Interno do STJ, conheçodo agravo paradar parcial provimento ao recurso especial, a fim de fixar a pena de ANALICE DA SILVA em 10 anos de reclusão.
+Publique-se. Intimem-se.
