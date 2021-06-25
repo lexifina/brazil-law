@@ -1,0 +1,28 @@
+DECISÃO
+O  MINISTÉRIO  PÚBLICO  DO  ESTADO  DE  MINAS  GERAIS,  com  fundamento  no  art.  105,  inciso  III,  alínea  "a",  da  CF,  interpõe  recurso  especial  contra  acórdão  do  Tribunal  de  Justiça  do  Estado  de  Minas  Gerais  que  negou  provimento  ao  seu  apelo  e  manteve  a  absolvição  sumária  do  acusado  pela  prática  de  apropriação  indébita  previdenciária,  ante  a  não  constatação  do  dolo  específico  na  conduta  do  agente.
+O  Parquet  aponta  a  violação  do  artigo  168-A,  do  Código  Penal  e  do  artigo  155,  do  Código  de  Processo  Penal,  porquanto  o  tipo  penal  não  exige  dolo  específico  e  se  caracteriza  com  a  prática  de  descontar,  dos  salários  dos  servidores,  a  contribuição  previdenciária  e  não  repassá-la  ao  órgão  responsável  por  gerir  o  fundo  previdenciário,  tal  qual  o  réu  realizou  por  anos.
+Pugna  pela  cassação  da  absolvição  sumária,  seguida  do  retorno  dos  autos  ao  Juízo  de  primeiro  grau,  com  vistas  à  instrução  do  feito,  para  ao  final  condenar  o  réu  por  incursão  no  art.  168-A,  §  1º,  do  CP.
+Contrarrazões  às  fls.  521-537.
+O  Ministério  Público  Federal  opinou  pelo  provimento  do  reclamo.
+Decido.
+O  recurso  endereçado  a  esta  Corte  (fls.  503-517)  é  tempestivo  e  preenche  os  demais  requisitos  de  admissibilidade.  A  matéria  é  jurídica,  não  demanda  reexame  de  provas  para  ser  dirimida  e  o  Ministério  Público  apontou  o  dispositivo  de  lei  federal  supostamente  violado,  em  razões  inteligíveis.
+No  mérito,  o  reclamo  comporta  provimento.
+O  réu  foi  denunciado  por  apropriação  indébita  previdenciária.  O  Juiz  de  primeiro  grau  assim  decidiu:  "não  havendo  o  mínimo  de  de  prova  da  existência  de  desvio  dos  valores  apontados  na  denúncia  em  proveito  pessoal  do  acusado,  ABSOLVO  SUMARIAMENTE  MARCOS  CÉSAR  BRUNOZZI  da  imputação  inicial  (CPP,  art.  397,  III)"  (fl.  396).
+O  Tribunal  de  origem  manteve  a  absolvição  sumária , porquanto  não  existiam  provas  de  que  o  réu  "agiu  com  animus  rem  sihi  habendi,  dolo  específico  do  tipo  penal  previsto  no  art.  168  do  CP"  (fl.  446).
+O  aresto  está  em  desconformidade  com  a  jurisprudência  desta  Corte,  o  que  autoriza  a  solução  monocrática  do  recurso  especial  por  decisão  monocrática  do  relator (Súmula n. 568 do STJ).  Aplica-se  à  hipótese  o  entendimento  consolidado,  de  que:
+ ..
+Nos  termos  da  jurisprudência  desta  Corte  Superior,  os  crimes  de  sonegação  fiscal  e  apropriação  indébita  previdenciária  prescindem  de  dolo  específico,  sendo  suficiente,  para  a  sua  caracterização,  a  presença  do  dolo  genérico  consistente  na  omissão  voluntária  do  recolhimento,  no  prazo  legal,  dos  valores  devidos"  (AgRg  no  AREsp  469.137/RS,  Rel.  Ministro  REYNALDO  SOARES  DA  FONSECA,  QUINTA  TURMA,  julgado  em  5/12/2017,  DJe  13/12/2017).
+ ..
+(AgRg  no  REsp  1887326/RS,  Rel.  Ministro  Ribeiro  Dantas,  5ª  T.,  DJe  30/4/2021).
+Em  crimes  de  sonegação  fiscal  e  de  apropriação  indébita  de  contribuição  previdenciária,  este  Superior  Tribunal  de  Justiça  pacificou  a  orientação  no  sentido  de  que  sua  comprovação  prescinde  de  dolo  específico  sendo  suficiente,  para  a  sua  caracterização,  a  presença  do  dolo  genérico.
+ ..
+(AgRg  no  AREsp  1667529/ES,  Rel.  Ministro  Nefi  Cordeiro,  6ª  T.,  DJe  29/9/2020).
+Essa  compreensão  foi  pacificada  pela  Terceira  Seção,  há  tempos,  e  adoto,  para  o  caso  sob  exame,  as  seguintes  razões  de  decidir:
+ ..
+I  -  Observa-se  que  a  infração  penal  tipificada  no  art.  168-A  do  Código  Penal  constitui-se  em  delito  omissivo  próprio.  O  núcleo  do  tipo  é  o  verbo  deixar,  que  se  perfaz  com  a  simples  conduta  negativa  do  sujeito,  caracterizando-se  com  o  não  fazer  o  que  a  lei  determina,  sendo  desnecessária,  para  a  configuração  do  crime,  a  comprovação  do  fim  específico  de  apropriar-se  dos  valores  destinados  à  Previdência  Social  consistente  no  animus  rem  sibi  habendi.
+II  -  Não  se  deve  emprestar  maior  relevo  à  nomenclatura  utilizada  pelo  legislador  na  edição  da  Lei  nº  9.983/2000,  para  definir  o  crime  -  apropriação  indébita  previdenciária  -,  de  modo  a  se  considerar  como  elemento  do  tipo  o  dolo  específico,  a  vontade  livre  e  consciente  do  sujeito  de  se  apropriar  dos  valores  relativos  às  contribuições,  a  exemplo  do  que  ocorre  no  crime  de  apropriação  indébita.  Ao  contrário  deste,  que  é  crime  de  resultado,  a  apropriação  indébita  previdenciária  é  crime  formal;  a  intenção  específica  ou  vontade  de  se  beneficiar  com  a  ausência  do  recolhimento  nada  tem  a  ver  com  a  consumação  do  fato  que  ocorre  no  momento  que  ele  deixa  de  recolher  as  contribuições  no  prazo  legal.
+III-  A  Terceira  Seção,  no  julgamento  do  EREsp  1296631/RN,  Relatora  Ministra  LAURITA  VAZ,  TERCEIRA  SEÇÃO,  DJe  17/09/2013,  pacificou  o  entendimento  da  desnecessidade  do  dolo  específico  para  se  configurar  o  delito  de  apropriação  indébita  previdenciária.
+IV  -  Embargos  acolhidos.
+(EREsp  1207466/ES,  Rel.  Ministro  Gurgel  de  Faria,  TERCEIRA  SEÇÃO,  DJe  6/11/2014).
+À  vista  do  exposto,  conheço  e  dou  provimento  ao  recurso  especial,  para  cassar  a  absolvição  sumária  do  réu  e  determinar  o  retorno  dos  autos  ao  Juízo  de  primeiro  grau,  para  processamento  da  ação  penal.
+Publique-se  e  intimem-se.
