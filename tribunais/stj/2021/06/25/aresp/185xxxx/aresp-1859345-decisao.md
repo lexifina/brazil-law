@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por Solange Maria Emiliano Rohneltdesafiando decisão davice-Presidência do Tribunal de Justiça do Estado de Rondônia, que não admitiu recurso especial, por entender queincide no caso a Súmula 7/STJ.
+Recebidos os autos nesta Corte, o Ministério Público Federal, em parecer de lavra doSubprocurador-Geral da República Aurélio Virgílio Veiga Rios, opinou pelo não conhecimento do agravo (fls. 1.128/1.130).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não ultrapassa a barreira do conhecimento.
+Com efeito, aagravante deixou de declinar os motivos pelos quais, em seu entender, o anteparo sumular 7/STJ não seria aplicável especificamente ao caso em exame, limitando-se a afirmar que a decisão agravada estaria desprovida de fundamentação, o que configura ausência de impugnação específica a tal fundamento, como demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.PECULATO. ASSOCIAÇÃO CRIMINOSA. PRESCRIÇÃO INTERCORRENTE.DECISÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. IMPUGNAÇÃO GENÉRICA.INSUFICIÊNCIA. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO IMPROVIDO.
+1. Quanto ao óbice da Súmula 83/STJ, cumpre destacar que a interpretação constante do acórdão recorrido, e destacada na decisão de inadmissão do recurso especial, está em consonância com a jurisprudência dominante do STJ acerca do tema da prescrição, pois "a Terceira Seção desta Corte Superior firmou o entendimento de que apenas a interposição do recurso cabível impede a formação da coisa julgada. Na oportunidade, assentou-se ainda que, sendo a decisão que inadmite o recurso especial de natureza eminentemente declaratória (ex tunc), o trânsito em julgado retroagirá a data de escoamento do prazo para a interposição do recurso cabível" (AgInt no AREsp 1290627/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 24/09/2019, DJe 30/09/2019) .
+2. "Para afastar a incidência da Súmula 182/STJ, não basta que o recorrente tenha explicitado, de maneira genérica, a desnecessidade do reexame das provas dos autos para a análise da tese suscitada no apelo nobre. Faz-se necessário que o agravante, analiticamente, contraste as conclusões do acórdão combatido com os fundamentos da decisão de inadmissibilidade do recurso especial, demonstrando que, na situação dos autos, a Súmula 7/STJ foi aplicada indevidamente" (STJ, AgInt no AREsp 1.160.579/SP, Rel.Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 11/04/2018).
+3. Agravo regimental improvido.
+(AgRg no AREsp 1.572.817/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/09/2020, DJe 23/09/2020)
+SEM DESTAQUES NO ORIGINAL
+Nesse contexto, incide a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
