@@ -1,0 +1,27 @@
+RAI No 1010934.85.2021.811.0000
+Vistos, etc...
+Trata-se de Recurso de Agravo de Instrumento interposto por EDIMAR RAMOS, em face da r. decisão proferida pelo juízo da 2o Vara Cível de Mirassol D Oeste/MT, que nos autos da ação de Liquidação por Arbitramento tombada sob o n. o 1001583-89.2020.8.11.0011, indeferiu o pedido de Justiça Gratuita.
+Sustenta que, ‘extrai dos documentos anexos, que o Agravante trabalha como vendedor na empresa Cervejaria Petrópolis Centro-Oeste Ltda, inscrita no CNPJ/MF n.o 08.415.791/0017-90, percebendo salário fixo mensal de R$ 1.050,83 (mil e cinquenta reais e oitenta e três centavos), valor que, acrescido de comissões vinculadas ao êxito nas vendas por ele realizadas, bem assim, com o acréscimo de todos os reflexos trabalhistas (férias, 13o Salario, etc) lhe gerou, durante todo o ano de 2020, rendimentos totais de R$ 54.096,26 (cinquenta e quatro mil, noventa e seis reais e vinte e seis centavos) valor esse que infelizmente não seria suficiente para o custeio das despesas do processo, nem mesmo se o Agravante, por hipótese, não tivesse despesas pessoais e familiares para suportar, pois, conforme pode ser observado abaixo, o valor das custas (R$ 54.605,14) supera o valor recebido (durante todo o ano) pelo Agravante.’.
+Argumenta que referida decisão, deste modo, com todo respeito ao entendimento firmado pelo douto juízo prolator, caracteriza-se evidente restrição do Agravante ao direito de acesso à justiça, previsto no art. 5o, inciso XXXV, da Constituição Federal.
+Aduz ainda, que a eventual demora no provimento do presente recurso acabará por colocar em risco ao resultado útil objetivado com a sua interposição, acarretando significativos prejuízos processuais ao agravante ainda que, futuramente, ocorra o julgamento de procedência do presente recurso.
+Requer o recebimento e processamento do presente Agravo de Instrumento, para que seja inicialmente concedida a antecipação dos efeitos da tutela recursal pretendida, nos moldes do artigo no artigo 300 do mesmo codex, deferindo-se provisoriamente a assistência judiciária gratuita em favor do Agravante, até o efetivo julgamento do presente recurso; no mérito, pelo provimento do presente recurso, reformando-se a decisão agravada, porquanto manifestamente ilegal e, nesse sentido, sejam concedidos ao Agravante os benefícios da assistência judiciária gratuita, uma vez que devidamente comprovada sua hipossuficiência para arcar com as custas e despesas processuais referentes aos autos de Liquidação de Sentença.
+É o relatório.
+DECIDO.
+Para a concessão da antecipação da tutela recursal requerida (no caso o prosseguimento da ação de origem sem o recolhimento de custas), faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância na fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos artigos 300 e 1.019, I, do Código de Processo Civil de 2015:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo.”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão”;
+No que tange ao efeito suspensivo esclareço que ele condiciona-se à relevância da fundamentação formulada pelo Agravante, bem como à possibilidade de lesão grave e de difícil reparação, nos termos dos artigos 995, § único, do Código de Processo Civil:
+“Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se dá imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Pois bem.
+Nesse contexto, identifico a presença dos pressupostos autorizadores para deferir o efeito suspensivo, especialmente em decorrência da possibilidade de indeferimento da inicial, o que caracteriza o risco de dano grave previsto no parágrafo único do art. 995 do Código de Processo Civil.
+Por outro lado, desde já, esclareço ao Agravante que a concessão do benefício da justiça gratuita está condicionada à efetiva comprovação de que a parte não possui condição financeira de arcar com as custas advindas do processo, em harmonia com o disposto no inciso LXXIV, art. 5o da Constituição Federal, a dizer, “o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos”. (destaquei)
+Desta feita, da análise dos documentos juntados aos autos (ID’s.91559482/91559491), verifico que o Agravante obteve êxito na demonstração de sua incapacidade momentânea financeira, motivo pelo qual defiro a gratuidade recursal.
+Ante o exposto, DEFIRO a medida vindicada e concedo o efeito suspensivo, para, suspender os efeitos da decisão agravada, até o julgamento do mérito deste recurso.
+Defiro também a gratuidade recursal.
+Comunique-se ao Juiz da causa, facultando-lhe prestar informações.
+Intimem-se os Agravados, para, querendo apresentar contrarrazões.
+Cumpra-se.
+Des. Sebastião Barbosa Farias
+Relator
