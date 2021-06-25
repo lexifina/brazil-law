@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOAO VITOR DOS SANTOS NETO apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Nas razões deste writ, ao que se depreende da inicial, a Defesa faz várias considerações acerca da tramitação processual e da dosimetria da pena do Paciente. Ao final, limita-se a pedir que seja concedida a ordem de habeas corpus "contra a sentença do Juízo singular confirmada pelo Tribunal de Justiça de São Paulo, a fim de estabelecer o regime semiaberto inicial conforme as condenações estabelecidas" (fls. 11-12).
+É o relatório. Decido.
+No caso, não é possível analisar a viabilidade do pleito deduzido, pois a Defesa não acostou aos autos cópia das peças processuais necessárias à compreensão da controvérsia, notadamente do inteiro teor de acórdão da apelação ou de qualquer outro acórdão em que o Tribunal de origem tenha se pronunciado sobre o regime inicial da pena.
+Ressalte-se que o único acórdão apresentado pelo Impetrante (Agravo em Execução Penal n. 0002170-77.2021.8.26.0496) limitou-se a tratar do percentual de cumprimento da pena necessário para a progressão de regime do Paciente, não examinando, em nenhum momento, o regime prisional inicial ou os demais requisitos para a modificação do regime prisional.
+É importante destacar, ainda, que o Tribunal de origem deu provimento ao referido Agravo em Execução Penal, sendo certo que não se pode considerar como ato coator em habeas corpus um acórdão que acolheu a pretensão formulada pelo Paciente.
+Ademais, como noticia o próprio Impetrante, o atual regime prisional do Paciente decorre de decisão do Juízo das Exceções Penais que unificou as penas impostas em processos diversos. Ocorre que, ao que de depreende dos autos, a decisão que unificou as penas e impôs o prosseguimento da execução sob o regime fechado não foi previamente debatida pelo Tribunal de origem, o que impede o conhecimento da matéria nesta Corte Superior.
+Como se sabe, compete à Defesa narrar e instruir completa e adequadamente o habeas corpus (ou seu respectivo recurso).
+Dessa forma, como a Defesa não se desincu mbiu do ônus de formar adequadamente os autos, olvidando-se de que o habeas corpus "pressupõe prova pré-constituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/06/2018), não há como apreciar o mérito do writ .
+No mesmo sentido: HC n. 508.081/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 08/05/2019; HC n. 507.614/ES, Rel. Ministro ANTONIO SALDANHA PALHEIRO, DJe 08/05/2019; HC n. 507.591/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 08/05/2019; HC n. 507.828/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 08/05/2019.
+Ante o exposto, com base nos arts. 34, inciso XVIII, e 210, ambos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
