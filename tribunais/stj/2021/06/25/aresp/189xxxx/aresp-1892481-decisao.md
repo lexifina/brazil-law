@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manejado pelo Departamento Nacional de Infra-Estrutura de Transportes - DNITcontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 444):
+ADMINISTRATIVO. DNIT. ACIDENTE DE TRÂNSITO. PISTA IRREGULAR. BURACO. DANO MORAL CONFIGURADO. SENTENÇA DE PARCIAL PROCEDÊNCIA MANTIDA. APELAÇÕES IMPROVIDAS.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 884 e 944 doCC. Sustenta, em síntese,que o valor da indenização devida à parte agravada deve ser proporcional aos danos e à sua parcela de culpa no evento danoso, razão pela qual merece ser redimensionado, sob pena de ensejar enriquecimento sem causa.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A insurgência não prospera.
+Ao analisar o valor da indenização, a Corte regional adotou os fundamentos da sentença de piso, assim proferida(fl. 454):
+6. Danos morais.
+Considerando a distribuição de responsabilidade de acordo com a concorrência de culpa, bem como o fato de inexistir informações sobre ter o autor corrido risco de morte em razão dos danos físicos temporários que suportou pela colisão, fixo a indenização em R$ 7.000,00 (sete mil reais). O que foi trazido nas razões de recurso não me parece suficiente para alterar o que foi decidido, mantendo o resultado do processo e não vendo motivo para reforma da sentença.
+Nesse contexto, amodificaçãodoquantumindenizatório exigiria oreexame dos elementos probatórios constantes dos autos, providência esbarra no óbice da Súmula7/STJ.
+Sobre o tema, confira-se:
+PROCESSUAL CIVIL. RECURSOS ESPECIAIS. AÇÃO DE DANOS MORAIS. ACIDENTEAUTOMOBILÍSTICO COM MORTE. QUANTUM INDENIZATÓRIO. SÚMULA 7/STJ. ÔNUS DAPROVA. SÚMULA 7/STJ. LEGITIMIDADE DO DNIT. SÚMULA 83/STJ.
+1.Trata-se na origem de Ação de Danos Morais proposta contra o DNIT e aUnião em razão de acidente automobilístico (colisão com animal solto napista) resultando na morte do filho dos recorrentes.Recurso Especial deLuiza de Marilac Pessoa de Carvalho e outro.
+2.Somente em hipóteses excepcionais, quando estiver evidente que oquantum indenizatório foi fixado em montante irrisório ou exorbitante, épossível ao STJ rever o valor arbitrado pelas instâncias ordinárias comesteio nos deslindes fáticos da controvérsia. Dessa forma, aplicarposicionamento distinto do proferido pelo aresto confrontado implicareexame da matéria fático-probatória, inviável no Superior Tribunal deJustiça, ante o óbice da Súmula 7/STJ.Recurso Especial do DNIT
+3. Descabe, nesta via recursal, a análise dos requisitos referentes a quemdeve responder pelo ônus da prova, tendo em vista óbice da Súmula 7 destaCorte. Precedentes: AgRg no AREsp 276.040/SP, Rel. Ministro Mauro CampbellMarques, Segunda Turma, DJe 18/3/2013; AgRg no REsp 1.259.114/SP, Rel.Ministro Humberto Martins, Segunda Turma, DJe 14/10/2011.
+4. Em análise ao acórdão recorrido, o qual reconheceu a legitimidade doDNIT para figurar no polo passivo da ação originária - que tem por objetoa reparação de danos em decorrência de acidente em rodovia federal, emrazão da presença de animal na pista - constata-se que o referido decisumencontra-se em consonância com a jurisprudência do STJ, conforme sedepreende da leitura dos seguintes precedentes: AgInt no REsp1.627.869/PB, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe30/3/2017, REsp 1.625.384/PE, Rel. Ministro Og Fernandes, Segunda Turma,DJe 8/2/2017.
+5. Com relação à comprovação dos danos e ao valor determinado a título deindenização, conforme decidido pelo Tribunal de origem, após análise dosfatos e provas, está "ajustada aos limites que este órgão julgador vemadotando, em casos análogos" (fl. 290, e-STJ).Assim, consigna-se queiniciar qualquer juízo valorativo a fim de adotar posicionamento distintodo alcançado pela Corte a quo, para acolher a tese do recorrente, excedeas razões colacionadas no aresto impugnado, implicando revolvimento docontexto fático-probatório dos autos, o que é vedado em Recurso Especial,
+ante o disposto na Súmula 7/STJ.
+6. Recursos Especiais não conhecidos.
+(REsp 1824364/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em05/09/2019, DJe 11/10/2019)
+ANTE O EXPOSTO,nego provimento ao agravo. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
