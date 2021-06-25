@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2031, de 24 de junho de 2021
+Substitui o Anexo IV da Instrução Normativa RFB nº 1.891, de 14 de maio de 2019, que dispõe sobre os parcelamentos de débitos de que tratam os arts. 10 a 13 e 14 a 14-F da Lei nº 10.522, de 19 de julho de 2002.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 464 da Instrução Normativa RFB nº 971, de 13 de novembro de 2009, resolve:
