@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de MARCEL FREDERICO DAVELLO contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido na Apelação n. 0056715-82.2018.8.26.0050.
+Consta dos autos que o paciente foi condenado, em primeiro grau, como incurso no art. 157, § 3º, parte final, c.c. o art. 14, II, ambos do Código Penal (latrocínio tentado), a 20 anos, 8 meses e 26 dias de reclusão, em regime inicial fechado.
+O Tribunal a quo negou provimento ao recurso da defesa, em acórdão assim ementado:
+"Apelação criminal Latrocínio- Tentativa Sentença condenatória pelo art. 157, § 3º, parte final, c.c. 14-II, do Código Penal, em regime inicial fechado.
+Recurso Defensivo de Pablo - preliminar de cerceamento de defesa. No mérito, busca absolvição, por falta de provas, ou desclassificação do delito para roubo agravado pela lesão grave, com tese de desistência voluntária, aplicação de fração de maior de redução da pena pela tentativa e regime prisional mais brando.
+Recurso Defensivo de Vitor pleito de desclassificação para o delito de "furto tentado" ou para o delito de "roubo agravado pela lesão corporal", reconhecimento da participação de menor importância, redução máxima da pena pela tentativa, e fixação de regime mais brando.
+Recurso Defensivo de Marcel pleito de desclassificação para "furto tentado" ou "roubo tentado", ou a redução da pena e direito de recorrer em liberdade.
+Preliminar - Recurso em liberdade não cabimento. Bem justificada a manutenção da prisão.
+Preliminar cerceamento de defesa não ocorrência. Defesa que providenciou o exame pericial que pleiteada, o qual foi analisado no conjunto probatório para a prolação da r. sentença. Ademais, agente reconhecido pela vítima inteligência do art. 400, § 1º, do CPP.
+Autoria e materialidade comprovadas laudo pericial de local que constatou vestígios de sangue na casa do idoso e um pedaço de sua orelha. Laudo de exame de corpo de delito que comprovou lesão corporal gravíssima no idoso, com necessidade de cirurgia na região cervical, além de perda de parte da orelha direita, cicatrizes de ferimentos pérfuro-contusos em ambos os antebraços com ferimentos transfixantes, com perigo de vida e deformidade estética permanente. Denunciados que, mediante grave ameaça com arma de fogo, tentaram subtrair dinheiro e joias da vítima idosa (82 anos), com tentativa de matá-la, não ocorrendo morte em razão de rápida e eficaz intervenção médica. Réu Marcel que negou a autoria em delegacia, e a admitiu parcialmente em juízo, delatando o corréu Vitor. Réu Vitor que admitiu parcialmente a acusação, dizendo que ajudou Marcel a planejar um "furto" na casa do avô da ex-namorada dele, atribuindo a terceiro a execução direta do delito. Réu Pablo que negou a acusação, dizendo ser cunhado de Vitor e não conhecer Marcel. Vítima que, em ambas as fases processuais, reconheceu o réu Pablo com certeza como sendo quem tentou matá-lo, bem como reconheceu Marcel como certeza como mandante do crime e ex-companheiro de sua neta. Narrou com detalhes a prática do delito, sendo que ficou internado e passou por cirurgia. Policiais Civis que relataram como se deram as investigações e a apuração das autorias, confirmando que o ofendido reconheceu Pablo como executor direto, dentre os vários sujeitos perfilados. Prova que demonstrou que Marcel e Vitor admitiram que planejaram o crime patrimonial para se vingar do ofendido que se opunha ao relacionamento de Marcel e a neta do ofendido, e o roubo se transformou em latrocínio porque o ofendido foi alvejado com arma de fogo, gerando perigo devida.
+Impossibilidade de desclassificação para o crime de furto ou de roubo. Tese de desistência voluntária afastada. Manutenção da condenação que se faz de rigor.
+Tese de participação de menor importância não acolhimento delito que foi detalhadamente planejado pelos réus, inclusive com o executor direto usando uniforme de carteiro para que a vítima lhe abrisse a porta e o ameaçasse com arma de fogo, e desferindo- lhe disparos.
+Latrocínio, na forma tentada, e que restou configurado dolo direto quanto ao roubo e eventual quanto à morte da vítima (idoso), que somente não ocorreu por circunstâncias alheias à vontade do agente.
+Dosimetria Penas-base de todos os acusados fixadas acima do mínimo legal, justificadamente Na segunda fase, consideração da confissão de Marcel e Vitor, bem como das agravantes do motivo torpe e idade da vítima (idoso). Circunstâncias compensadas parcialmente, para os réus Marcel e Vitor, exasperando-se a pena em fração mínima, e exasperação em fração adequada para Pablo.
+Na terceira fase, redução, pela tentativa, em fração adequada ao "iter criminis" percorrido.
+Regime inicial fechado mantido fundamentado e mais adequado.
+Preliminares rejeitadas.
+Recursos das Defesas improvidos" (fls. 19/20).
+No presente writ, a impetrante sustenta, em síntese, que não restou devidamente comprovada a prática do crime de latrocínio. Busca, assim, a desclassificação para o delito de roubo qualificado pelo resultado lesão corporal grave tentado ou o reconhecimento da participação em crime menos grave, nos termos do art. 29, § 2º, do Código Penal.
+Indeferido o pedido de liminar e dispensadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do mandamus e, se conhecido, pela denegação da ordem (fls.73/76).
+É o relatório.
+Decido.
+O presente habeas corpus não merece ser conhecido, pois impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do ora paciente, capaz de justificar a concessão da ordem de ofício.
+A controvérsia diz respeito à tipificação da conduta delituosa.
+Confiram-se, a propósito, os seguintes trechos da fundamentação apresentada pelo Tribunal a quo:
+" ..
+O pleito de desclassificação do delito para o de mero "furto", ou de roubo seguido de lesão corporal, não comporta acolhimento. Como se sabe, o delito de furto, via de regra, é cometido às escondidas, longe das vistas de testemunhas. Neste caso, restou mais do que evidente que houve grave ameaça e violência real contra o ofendido, de modo que o delito praticado jamais poderia ser tipificado com um mero "furto". A conduta praticada pelos denunciado se amolda perfeitamente ao delito de latrocínio, nos termos da r. denúncia, restando afastado o pleito de desclassificação para qualquer outro delito" (fl. 40).
+Tendo em vista os fundamentos apresentados, verifica-se que a análise do pedido de desclassificação do delito ou reconhecimento da participação em crime menos grave exige a incursão aprofundada no conjunto fático-probatório dos autos, o que é inviável na via eleita.
+Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. DESCLASSIFICAÇÃO DO CRIME DE LATROCÍNIO. PRETENSÃO DE SIMPLES REFORMA. DECISÃO DE NÃO CONHECIMENTO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte Superior firmou o entendimento no sentido de que é plenamente possível a ocorrência de latrocínio em sua forma tentada, quando não se obtenha o resultado morte, bastando a comprovação de que, no decorrer da prática delitiva, o agente tenha atentado contra a vida da vítima, com a intenção de matá-la, não atingindo o resultado, por circunstâncias alheias à sua vontade.
+2. A tese de desclassificação do crime de latrocínio tentado para roubo, esbarra na necessidade de revolvimento fático-probatório, o que se afigura inviável na estreita via do mandamus.
+3. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma.
+4. Agravo regimental não provido.
+(AgRg no HC 429.657/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 16/04/2018).
+HABEAS CORPUS. LATROCÍNIO TENTADO. CONDENAÇÃO CONFIRMADA NO TRIBUNAL A QUO. PRETENSÃO DE DESCLASSIFICAÇÃO PARA ROUBO IMPRÓPRIO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. ORDEM NÃO CONHECIDA.
+1. O habeas corpus constitui-se em instrumento processual impróprio para a análise de questões que dependem do reexame ou valoração do conjunto fático-probatório, como a eventual desclassificação do delito, se não demonstrada flagrante ilegalidade ou abuso de poder.
+2. Ordem não conhecida.
+(HC 46.642/PR, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, DJ 24/04/2006).
+PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. MAJORANTES. QUANTUM DE ACRÉSCIMO. EXASPERAÇÃO ACIMA DO MÍNIMO LEGAL. JUSTIFICATIVA IDÔNEA. AUSÊNCIA DE ILEGALIDADE. PACIENTE FRANCINE. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. WRIT CONHECIDO EM PARTE E, NESSA EXTENSÃO, ORDEM DENEGADA.
+ ..
+2. Para se reconhecer a participação de menor importância da paciente Francine, seria necessária uma análise acurada dos fatos, depoimentos e elementos de convicção em que se arrimaram as instâncias ordinárias. Tal procedimento é inviável em sede de habeas corpus, pois importaria em transformar o writ em recurso dotado de ampla devolutividade. Ademais, as instâncias de origem asseveraram que a paciente teve efetiva participação na empreitada criminosa.
+3. Habeas corpus conhecido em parte e, nessa extensão, ordem denegada.
+(HC 396.273/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 30/05/2017).
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. ROUBO DUPLAMENTE MAJORADO. ALEGAÇÃO DE PARTICIPAÇÃO DE MENOR IMPORTÂNCIA DOS RECORRENTES CRISTIANO E DANIEL. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO PARA A REFORMA DO QUE DECIDIU A INSTÂNCIA A QUO. INADEQUAÇÃO DA VIA. DOSIMETRIA. MENORIDADE RELATIVA E CONFISSÃO. INCIDÊNCIA DAS ATENUANTES APÓS AS CAUSAS DE AUMENTO. VIOLAÇÃO DO ARTIGO 68 DO CÓDIGO PENAL. IMPOSSIBILIDADE DE FIXAÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL NA SEGUNDA FASE DA DOSIMETRIA. SÚMULA 231/STJ. AGRAVO DESPROVIDO.
+I - A instância a quo consignou que haveria "verdadeira coautoria" por parte do recorrente DANIEL e que a atuação do recorrente CRISTIANO teria sido "imprescindível ao próprio sucesso da empreitada delinquencial". Para a reversão do referido entendimento, fazendo incidir a causa de diminuição de pena da participação de menor importância, não se poderia prescindir de amplo revolvimento do acervo fático-probatório, a que a via estreita, de cognição sumária, do writ, não se presta.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC 371.171/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 01/02/2017).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se
+Intimações necessárias.
