@@ -1,0 +1,28 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    "APELAÇÃO CRIMINAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ARTIGO 2°, INCISO II, DA LEI N. 8.137/90. SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. PLEITO ABSOLUTÓRIO. ATIPICIDADE DA CONDUTA. MERA INADIMPLÊNCIA FISCAL. INVIABILIDADE. MATERIALIDADE E AUTORIA DEVIDAMENTE DEMONSTRADOS. ACUSADO QUE, NA QUALIDADE DE SÓCIO-ADMINISTRADOR DA EMPRESA, DECLARA ICMS EM LIVRO FISCAL, MAS DEIXA DE REPASSAR/RECOLHER, NO PRAZO LEGAL, VALOR DOS TRIBUTOS, DESCONTADO OU COBRADO, COMO SUJEITO PASSIVO DE OBRIGAÇÃO AO ESTADO DE SANTA CATARINA. CONFISSÃO DO ACUSADO CORROBORADO COM OS DEPOIMENTOS TESTEMUNHAIS. DOLO CONFIGURADO. CRIME DE NATUREZA FORMAL QUE DISPENSA RESULTADO. FATO TÍPICO CARACTERIZADO. EXCLUDENTE DE CULPABILIDADE. INEXIGIBILIDADE DE CONDUTA DIVERSA. DIFICULDADE FINANCEIRA QUE NÃO AFASTA A EXIGÊNCIA DO TRIBUTO. CULPABILIDADE DO AGENTE CONFIGURADA. EXCEPCIONALIDADE. AUSÊNCIA DE PROVAS. ÔNUS QUE COMPETE À DEFESA. PRECEDENTES DESTE TRIBUNAL. CONDENAÇÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO."
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, inciso XXXIX, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    "Ao analisar o conjunto probatório constante nos autos, verifica-se que o pleito absolutório não deve prosperar.
+    A absolvição é discutida pelo apelante ao sustentar que as provas amealhadas nos autos não foram suficientes em resguardar a sua condenação, posto que ausente qualquer intenção de apropriar-se indevidamente dos recursos destinados ao ICMS, e o fez, tão somente, em razão de severas dificuldades financeiras pelas quais a empresa vinha passando à época dos fatos, configurando a sua conduta mero inadimplemento fiscal diante da patente atipicidade da conduta por ausência de dolo.
+    Contudo, entendo que tais premissas não devem prosperar haja vista que os elementos de prova demonstraram que sua real intenção foi a de infringir o artigo de lei em comento.
+    A materialidade ficou devidamente demonstrada através das notificações fiscais ns. 136030020279 (fl. 551), 136030062087 (fl. 343), 136030472340 (fl. 305), 136030521502 (450), 146030004114 (fl. 561) e 146030012176 (fl. 590), dos documentos de Dívida Ativa (fls. 349, 445, 452, 592 e 568), demonstrando a ocorrência do crime contra a ordem tributária.
+    No que tange à autoria não restam dúvidas, posto que ficaram devidamente comprovadas através do vasto conjunto probatório analisado pelo magistrado singular, ocasionando na sua condenação na sentença de fls. 787/798. Assim, para referida análise e com o fito de evitar qualquer tipo de redundância, transcreve-se fragmentos do decisum, no que se relaciona a prova oral. Veja-se:
+    (...)
+    Acerca do tipo penal do artigo 2°, inciso II, da Lei n. 8.137/90 e da distinção entre inadimplência e crime contra a ordem tributária, leciona Alecio Adão Lovatto:
+    (...)
+     In casu, a qualidade de empresário à época dos fatos é inconteste, diante da comprovada responsabilidade do apelante como sócio administrador da matriz da empresa HÉLIOS COLETIVOS E CARGAS LTDA, tanto pelos relatos das testemunhas Lucas Pivatto, Romeu Elias Kipper e Ricardo Kipper ouvidas em juízo apontando a gerência do estabelecimento pelo acusado no período compreendido na denúncia (gravação audiovisual de fls. 717, 742 e 761), bem como pelas palavras do réu confirmando a compra e administração da empresa e o não pagamento dos tributos devidos em decorrência de dificuldades financeiras enfrentadas (gravação audiovisual de fl. 761).
+    Com isso, vê-se que, como responsável tributário, é sua obrigação por lei, em repassar os valores dos tributos (ICMS) descontado ou cobrado indiretamente do consumidor final ao Estado de Santa Catarina, mas não o fez, incidindo assim, no crime descrito no artigo 2°, inciso II, da Lei n. 8.137/90.
+    (...)"
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Penal. Crime tributário. Supressão de tributos. Prequestionamento. Ausência. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se admite o recurso extraordinário quando a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas nºS 282 e 356/STF. 2. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos (Súmula nº 279/STF), bem como da legislação infraconstitucional pertinente. 3. Agravo regimental não provido” (ARE nº 1.184.865/SP – AgR, Tribunal Pleno, Rel. Min. Dias Toffoli (Presidente), DJe de 24/4/19).
+    No mesmo sentido: ARE nº 1.096.533/ES-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 11/12/18.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de junho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
