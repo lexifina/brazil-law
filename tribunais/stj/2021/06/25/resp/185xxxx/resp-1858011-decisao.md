@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por MILLER BRAGA DA SILVA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas na Apelação Criminal n.0645347-89.2018.8.04.0001.
+Está contido nos autos que o Recorrente foi condenado a 1 (um) ano e 8(oito) meses de meses de reclusão, em regime aberto, convertida a sanção corporal por restritivas de direitos (fls. 104-106), pelo delito de tráfico de drogas, caracterizado pela apreensão de53 (cinquenta e três) trouxinhas de cocaína, pesando 19,51g (dezenove gramas e cinquenta e um centigramas);53 (cinquenta e três) trouxinhas de cocaína, contendo 29,89g (vinte e nove gramas e oitenta e nove centigramas) e 20 (vinte) microtubos contendo cocaína, pesando 5,12g (cinco gramas e doze centigramas), além de R$ 10,00 (dez reais)(quantias informadas àfl. 150 do acórdão recorrido).
+A Corte estadual negou provimento ao apelo defensivo (fls. 148-152).
+Inconformada, a Defesa aponta, nas razões do recurso especial, violação dos arts. 157,capute § 1.º; eao art. 386, inciso VII, ambos do Código de Processo Penal (fl. 161).
+Alega, em suma, ter a condenação do Recorrente sido lastreadaem provas ilícitas por derivação, pois colhidas da violação de dados do seu aparelho telefônico (fls. 162-168).
+Requer, assim, o reconhecimento da nulidade do processoab initio, com a absolvição do Recorrente(fl. 168).
+Contrarrazões às fls. 173-180.
+O Ministério Público Federal opinou pelo não conhecimentodo recurso especial (fls. 196-199).
+É o relatório.
+Decido.
+A Corte de origem considerou comprovadas a autoria e materialidade do crime de tráfico de drogas nestes termos(fls. 150-52, sem grifos no original):
+"02.03. Extrai-se do caderno processual, mais precisamente da denúncia que no dia 27/09/2018, por volta de 21h30, uma equipe de policiais estava realizando patrulhamento de rotina, quando receberam denúncia anônima de que na Rua Zumbi, no bairro Armando Mendes, havia indivíduos comercializando entorpecentes.
+02.04. Tem-se ainda que, ao se deslocarem até o local, avistaram o ora denunciado Miller Braga da Silva, o qual ao avistar a guarnição tentou evadir-se, entretanto foi acompanhado e abordado, tendo sido encontrado em sua posse: 53(cinquenta e três) trouxinhas de substância entorpecente petrificada pardacenta (cocaína), contendo massa líquida de 19,51g (dezenove e nove gramas e cinquenta e um centigramas), acondicionadas em material plástico azul; 53 (cinquenta e três) trouxinhas de substância entorpecente granulada amarelada (cocaína), contendo massa líquida de 29,89g (vinte e nove gramas e oitenta e nove centigramas), acondicionadas o em material plástico azul; 20 (vinte) microtubos contendo substância entorpecente pulverulenta esbranquiçada (cocaína), contendo massa líquida de 5,12g (cinco gramas edoze centigramas); e a quantia de R$10,00 (dez reais) em espécie.
+02.05. Analisando o feito, observo que o conjunto probatório dos autos, principalmente, quando se analisa a oitiva de um dos policiais que efetuaram a prisão, e narra como os fatos que culminaram com a prisão da ora apelante, não deixam dúvidas quanto a participação do apelante para o cometimento do delito.
+02.04. O policial Bruno Luiz Cavalcante da Costa que efetivou a prisão apresenta depoimento harmônico e coerentes com aqueles prestados em sede policial, inclusive, foi este policial que encontrou a droga e afirma, categoricamente em juízo, por duas oportunidades, que também apreendeu o celular do apelante que continha mensagens diversas mandando pegar dinheiro em locais, deixar entorpecentes em o outros". Entretanto, não sabe as razões pelas quais este aparelho não consta no Auto o de Exibição e Apreensão.
+ ..
+02.06. Inexiste, portanto, qualquer dúvida acerca da autoria e materialidade delitiva da apelante e sua negativa de autoria é fato isolado, não se coadunando com as demais provas dos autos, devendo, portanto, a sentença ser mantida."
+Como se vê dos transcritos, a Corte de origem não apreciou a tese defensiva de condenação lastreada em prova ilícita por derivação, provenienteda violação de dados do aparelho telefônico do Recorrente. Aliás, essa alegação sequer foi arguida nas razões da apelação, assim, não havia mesmo como o Tribunal local se pronunciar a respeito dela. Portanto, o óbice da ausência de prequestionamento apresenta-se insuperável, não permitindo o conhecimento do apelo nobre.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. TESE DE CONDENAÇÃO LASTREADA EM PROVA ILÍCITA POR DERIVAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE INTRANSPONÍVEL. RECURSO ESPECIAL NÃO CONHECIDO.
