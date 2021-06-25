@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a).
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PEDIDO DE ADESÃO AO PROGRAMA DE REGULARIZAÇÃO FISCAL MUNICIPAL.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. SÚMULA 7/STJ.INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE.SÚMULA 280/STF.
+1. Inexiste contrariedade ao art. 1.022 do CPC/2015 quando o Tribunal deorigem decide fundamentadamente todas as questões postas ao seu exame.Ademais, não se deve confundir decisão contrária aos interesses da partecom ausência de prestação jurisdicional.
+2. Rever o entendimento do Tribunal de origem quanto à tese de validade do ingresso da parte contribuinteao REFIM, como pretende a parte ora agravante,esbarra no óbice da Súmula 7/STJ.
+3.Analisar a pretensão da empresa agravante também demanda a interpretação da Lei complementar n. 618/2017 do Município de Uberlândia, que instituiu programa de recuperação fiscal naquele ente, o que não é cabível na via eleita ante a incidência, por analogia, da Súmula 280/STF.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado porBRF S.A. contra decisão que conheceudo agravo para não conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Aparterecorrentedefende, em síntese, a inaplicabilidade dos óbices dasSúmula 7/STJ e 280/STF.Argumenta que a questão da"validade do ingresso ao REFIM é unicamente de direito, pois pauta-se nostermos e requisitos da lei, não sendo necessário o reexame do conjuntoprobatório" (e-STJ, fl.834).Argumenta, ainda, quenão buscouquestionar os termosda Lei Complementar municipal n. 618/2017.
+Quanto ao mais, insiste na tese de que (e-STJ, fl. 836):
+O artigo 8º da Lei Complementar n.º 618/2017, o pedido deparcelamento importa confissão do débito e implica em expressa renúncia aqualquer defesa ou recurso administrativo ou judicial, a saber:
+Art. 8º O pedido de parcelamento importa em confissão irretratável do débitoe configura confissão extrajudicial, nos termos dos artigos 389, 394 e 395do Código de Processo Civil e implica expressa renúncia a qualquerdefesa ou recurso administrativo ou judicial, bem como na desistênciaem relação aos já interpostos. (destaques da Agravante).
+Pela singela leitura do texto da lei, verifica-se que a adesão aoprograma de parcelamento implica em renúncia a qualquer defesa ou recurso,seja no âmbito administrativo ou judicial. Assim, se a ação anulatória já havia seencerrado definitivamente, inclusive com o trânsito em julgado da decisão, certoé que não havia mais qualquer defesa ou recurso cabível naquela ação.
+Também repisao argumentocontrariedade ao art. 1.022 do CPC. Assevera que "v. Acórdão deixou de considerar queo trânsito em julgado da Ação Anulatória, nos termos do artigo 502 doCódigo de Processo Civil, encerra o litígio, não havendo que se impor anecessidade de manifestação de desistência e renúncia"(e-STJ, fl. 839).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PEDIDO DE ADESÃO AO PROGRAMA DE REGULARIZAÇÃO FISCAL MUNICIPAL.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. SÚMULA 7/STJ.INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE.SÚMULA 280/STF.
+1. Inexiste contrariedade ao art. 1.022 do CPC/2015 quando o Tribunal deorigem decide fundamentadamente todas as questões postas ao seu exame.Ademais, não se deve confundir decisão contrária aos interesses da partecom ausência de prestação jurisdicional.
+2. Rever o entendimento do Tribunal de origem quanto à tese de validade do ingresso da parte contribuinteao REFIM, como pretende a parte ora agravante,esbarra no óbice da Súmula 7/STJ.
+3.Analisar a pretensão da empresa agravante também demanda a interpretação da Lei complementar n. 618/2017 do Município de Uberlândia, que instituiu programa de recuperação fiscal naquele ente, o que não é cabível na via eleita ante a incidência, por analogia, da Súmula 280/STF.
+4. Agravo interno a que se nega provimento.
+VOTO
+A pretensão recursalnão merece êxito.
+Nas razões do especial, alegouaparteinsurgenteque o Tribunal de origem incorreu em omissão, porquanto deixou de tratar sobre as teses apontadas nos embargos de declaração, em especial quanto ao fundamento de quais "requisitos deveriam ter sido atendidos pela Recorrente, e não foram, para validar à adesão ao REFIM" (e-STJ, fl. 698).
+Contudo, como consignado originalmente,não prospera a tese de afronta aosarts. 489, § 1º, IV, e 1.022 do CPC, uma vez que o acórdão combatido fundamentou claramente seu posicionamento, consignando expressamente que (e-STJ, fl. 623):
+(..) após intimada a comprovar a adesão ao parcelamento administrativo, a agravante indicou tão somente a existência de 2 petições apresentadas à Administração Tributária Municipal (ff. 1943/1945 e 1972/1974) e outras 2 petições direcionadas ao juiz da causa (ff. 1861/1863 e 1961/1971", bem como que, "segundo a Lei Complementar nº 618/2017, que instituiu o Programa de Recuperação Fiscal no Município de Uberlândia, haveria outro fundamento latente que impediria a admissão do contribuinte no REFIM e que permanece até a presente data, qual seja: a necessidade de renúncia pelo contribuinte do direito sobre o qual se funda a presente ação judicial"
+Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de a Corte de origem haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura nenhumvício passível de exame em embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. SERVIDOR PÚBLICO FEDERAL. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. REINTEGRAÇÃO. OFENSA AO ART. 557 DO CPC/1973. INOCORRÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO RECORRIDO ASSENTADO NO CONJUNTO FÁTICO-PROBATÓRIO DO FEITO. REVISÃO. IMPOSSIBILIDADE. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação ao art. 557 do CPC/1973 alegada pela parte agravante, tendo em vista que a questão suscitada encontra óbice na Súmula 7/STJ, sendo o recurso especial, por conseguinte, manifestamente inadmissível. Ainda que assim não fosse, é de se ressaltar que fica superada eventual ofensa ao referido dispositivo legal, pelo julgamento colegiado do agravo regimental interposto contra a decisão singular do Relator. Precedentes.
+2. Inexiste violação aos arts. 458, II e 535, II, do CPC/1973, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunala quoapreciou a demanda em toda a sua extensão, fazendo-o de forma clara e precisa, estando bem delineados os motivos e fundamentos que o embasam.
+ ..
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp 1.595.272/SC, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 2/6/2016, DJe 8/6/2016.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. INOCORRÊNCIA DA ALEGADA VIOLAÇÃO AOS ARTS. 535 E 458 DO CPC. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. RECURSO QUE SE FUNDA, TÃO SOMENTE, NESSA ALEGAÇÃO. AGRAVO REGIMENTAL DO ESTADO DO PARÁ A QUE SE NEGA PROVIMENTO.
+1. No caso, não há como acolher a alegada violação aos arts. 458, II e 535, II do CPC/73, visto que a lide foi resolvida com a devida fundamentação, ainda que sob ótica diversa daquela almejada pelo ora Recorrente. Todas as questões postas em debate foram efetivamente decididas, não tendo havido vício algum que justificasse o manejo dos Embargos Declaratórios.
+ ..
+3. Agravo Regimental do ESTADO DO PARÁ a que se nega provimento.
+(AgRg no AREsp 884.151/PA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 24/5/2016, DJe 13/6/2016.)
+Quanto ao mais, inafastáveisos óbices constantesdas Súmula 7/STJ e 280/STF.
+No caso em tela, o Tribunal de origem, soberano na análise das provas, ao tratar sobre o pedido,negou provimento ao recurso interposto pela parte ora agravante, pelos seguintes fundamentos (e-STJ, fls. 623-624):
+Em suma, a parte agravante aduz que "uma vez feita a adesão perante o Município de Uberlândia, fato que já havia ocorrido em 08/09/2017, caberia ao Judiciário tão somente decidir quanto à possibilidade de utilização do depósito para o pagamento dos valores, ao invés de deferir o levantamento do depósito judicial sem considerar as reduções do REFIM".
+Analisando os autos, entendo que a pretensão da BRF S/A não procede.
+Em primeiro lugar, verifica-se que, após intimada a comprovar a adesão ao parcelamento administrativo, a agravante indicou tão somente a existência de 2 petições apresentadas à Administração Tributária Municipal (ff. 1943/1945 e 1972/1974) e outras 2 petições direcionadas ao juiz da causa (ff. 1861/1863 e 1961/1971). Pelas referidas petições, infere-se que a contribuinte realmente pretendia o pagamento do crédito tributário através da conversão do depósito em renda em favor do Município, de modo que o crédito sob judice fosse extinto com as reduções previstas no plano de regularização do município.
+No entanto, constata-se que o recorrente não logrou comprovar que teria cumprido todos os requisitos previstos em lei para fazer jus ao seu pleito administrativo, já que as citadas petições não são suficientes para tal finalidade.
+Em segundo lugar, haveria outro fundamento latente que impediria a admissão do contribuinte no REFIM e que permanece até a presente data, qual seja: a necessidade de renúncia pelo contribuinte do direito sobre o qual se funda a presente ação judicial. Segundo a Lei Complementar nº 618/2017, que instituiu o Programa de Recuperação Fiscal no Município de Uberlândia:
+ ..
+Considerando que os créditos tributários que a agravante pretendia pagar com benefícios fiscais encontrava-se em processo judicial, o requisito objetivo do art. 8º da Lei Complementar nº 618/2017 não foi cumprido, o que afasta o direito pretendido pela parte.
+Logo, entendo que a parte não comprovou ter aderido administrativamente ao REFIM, o que impede a sua pretensão recursal.
+Desse modo, de fato, não há como reconhecer a pretensão da empresa contribuinte sem que se revisem as circunstâncias fáticas dos autos, o que atrai a incidência da Súmula 7/STJ.
+Em idêntica direção:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE NULIDADE DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO, POR SUPOSTA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FALTA DE INDICAÇÃO DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015, NAS RAZÕES DO RECURSO ESPECIAL, O QUE IMPEDE SEU CONHECIMENTO, NA FORMA DA JURISPRUDÊNCIA DO STJ. TESE DE VIOLAÇÃO AOS EFEITOS PRECLUSIVOS DA COISA JULGADA, SOB INDICAÇÃO DE OFENSA AOS ARTS. 223, 502, 503, 505, 507 E 508 DO CPC/2015. HIPÓTESE EM QUE O TRIBUNAL DE ORIGEM, COM BASE NAS PROVAS DOS AUTOS, CONCLUIU PELA INEXIGIBILIDADE DO TÍTULO JUDICIAL TRANSITADO EM JULGADO. INADMISSIBILIDADE DO RECURSO ESPECIAL, NO PONTO, POR INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. No tocante à tese de violação aos efeitos preclusivos da coisa julgada, sustentada sob alegação de contrariedade aos arts. 223, 502, 503, 505, 507 e 508 do CPC/2015, o Recurso Especial é inadmissível, por incidência, na espécie, da Súmula 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Com efeito, na forma da jurisprudência desta Corte, descabe ao STJ analisar, em sede de Recurso Especial, a alegação de ofensa às disposições processuais que disciplinam os efeitos preclusivos da coisa julgada, quando o exame da controvérsia pressupõe reexame do contexto-fático probatório dos autos, como no presente caso. Nesse sentido: STJ, AgRg no AREsp 268.156/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 16/12/2013; REsp 1.642.697/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/03/2017.
+V. Agravo interno improvido.
+(AgInt no AREsp 1.410.302/DF, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 7/5/2019, DJe 13/5/2019.)
+Ademais, como consta doacórdão recorrido, analisar a pretensão da empresa agravante demanda a interpretação da Lei complementarn. 618/2017 do Município de Uberlândia,que instituiu programa de recuperação fiscal naquele ente, o que não é cabível na via eleita ante a incidência, por analogia, da Súmula 280/STF.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
