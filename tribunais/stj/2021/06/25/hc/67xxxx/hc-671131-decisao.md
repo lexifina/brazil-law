@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim relatado (fl. 31):
+Trata-se de habeas corpus impetrado em favor de EMANUEL GONÇALVESPACHECO preso preventivamente desde 06.01.2021 pela suposta prática do crime de tráfico de drogas. Sustenta o impetrante, em síntese, a ocorrência de constrangimento ilegal. Diz que o decreto prisional carece de fundamentação adequada. Refere a ausência dos requisitos do art. 312 do CPP. Afirma que não restou comprovada a relação entre os entorpecentes apreendidos e a responsabilidade do paciente. Aduz também a ausência de fundamentação na decisão que recebeu a denúncia. Aponta a ilicitude da prova por violação de domicílio, argumentando que os policiais adentraram na residência do paciente em razão de denúncias anônimas, sem mandado de busca e apreensão. Requer a concessão da ordem de soltura, ou a imposição de medidas cautelares diversas.
+O pedido liminar foi indeferido.
+A douta Procuradoria de Justiça opinou pela denegação da ordem.
+Vieram os autos conclusos.
+É o relatório.
+Consta dos autos que o paciente foi preso em flagrante, convertido em prisão preventiva, em 6/1/2021,pela prática do crime previsto no art. 33, caput, da Lei nº 11.343/06.
+Alegao impetrante ausência dos requisitos da prisão preventiva, ao argumento de que o Juízo de primeiro grause utilizou de fundamentação genéricacomo motivaçãopara justificar a prisão cautelar.
+Aponta, ainda, ailicitude da prova por invasão de domicílio.Requer, liminarmente e no mérito, a revogação da prisão ou a substituição pormedidas cautelares diversas.
+A concessão deliminarem habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se constrangimento ilegal.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos exigidos pelo art. 312 do CPP.
+O decreto prisional indicou os seguintes fundamentos (fl. 43):
+Trata-se de Auto de Prisão em Flagrante lavrado em desfavor de EMANUEL GONCALVES PACHECO pela suposta prática do crime de tráfico de drogas.
+A prisão em flagrante obedeceu às formalidades legais e constitucionais, motivo por que tenho por homologá-la.
+O Ministério Público manifestou-se pela conversão da prisão em flagrante em preventiva.
+A defesa constituída pelo suspeito não se manifestou no prazo fixado. Dessa forma, a fim de evitar tornar a prisão ilegal, passo à sua análise.
+A existência material do crime, os indícios de autoria e a materialidade estão consubstanciados pelo registro de ocorrência policial, pelo auto de apreensão e pelos depoimentos dos policiais que efetuaram a prisão.
+Abordado o suspeito, restaram apreendidos 52 (cinquenta e dois) tijolos de "maconha", pesando, ao total, 26,260 kg (vinte e seis quilos e duzentos e sessenta gramas), bem como 11 (onze) buchas de cocaína, pesando 115 g (cento e quinze gramas).
+Ainda, foram apreendidos uma balança de precisão e um telefone celular.
+Gize-se que a liberdade do flagrado representa risco à sociedade, uma vez que se trata de suspeito multirreincidente em crimes dolosos, ostentando sentenças transitadas em julgado pelos delitos de tráfico de drogas, roubo e porte de arma de uso restrito (evento 02), o que demonstra a sua dificuldade de se afastar da senda criminosa.
+Tais circunstâncias indicam que a segregação cautelar se mostra, neste momento, imprescindível para a garantia da ordem pública, considerando que as circunstâncias do fato indicam que o investigado faz da atividade criminosa o seu meio de vida.
+Como se vê, o decreto preventivo apresentafundamentação idônea baseada na gravidade concreta da ação delituosa perpetrada, uma vez que foi apreendido em poder do paciente uma grande quantidade e diversidade de drogas - 52 (cinquenta e dois) tijolos de "maconha", pesando, ao total, 26,260 kg (vinte e seis quilos e duzentos e sessenta gramas), bem como 11 (onze) buchas de cocaína, pesando 115 g (cento e quinze gramas) -, além de apetrechos utilizados na comercialização ilegal de entorpecentes. Destacou-se, ainda, queo paciente émultirreincidente em crimes dolosos,justificando-se, assim,a segregação cautelar para garantir a manutenção da ordem pública.
+A periculosidade e riscos sociais podem justificar a custódia cautelar ao acusado pelo crime de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Ademais, a reiteração delitiva constitui motivação idônea para o decreto da custódia ca utelar, como garantia da ordem pública, como no caso dos autos. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Havendo indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. -unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) _ DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+No tocante à alegada ilicitude da prova, em decorrência de violação de domicílio, a Corte de origem, ao examinar o tema, assim decidiu (fls. 35):
+Quanto à arguição de nulidade da prova por violação de domicílio, em desrespeito ao direito fundamental inserido no art. 5º, inciso XI, da Constituição Federal, entendo que a mesma não merece acolhida. O delito de tráfico de drogas tem natureza permanente, não se fazendo necessária a existência de mandado de busca, quando caracterizada flagrância nos termos do art. 302 do CPP. In casu, o paciente foi, em tese, flagrado em via pública na posse das substâncias entorpecentes, o qual, inclusive, durante a abordagem indicou onde morava e, a princípio, autorizou que os agentes adentrassem no interior da residência.
+ ..
+A respeito dos temas trazidos à baila, corroborando o entendimento aqui esposado, colaciono trechos do parecer da e. Procuradoria de Justiça, acrescentando às razões de decidir:
+"..
+A Defesa alega a ilicitude da prova por violação de domicílio, argumentando que os policiais adentraram na residência do paciente em razão de denúncias anônimas, sem mandado de busca e apreensão.
+Entretanto, de acordo com a prova coligida, a abordagem do paciente ocorreu na frente de sua residência, oportunidade em que foram localizados 03 tabletes de maconha em sua posse, tendo os policiais somente ingressado no local após o flagrante e, segundo os relatos, com a autorização do acusado.
+Portanto, pontue-se que a apreensão de parte da droga se deu fora da residência do paciente. Após referida apreensão é que, mediante sua autorização, houve a entrada no imóvel.
+Dessa forma, em consonância com o que decidiram as instâncias ordinárias, não há que se falar em nulidade da prova produzida. Isso porque a apreensão inicial se deu fora de residência e também ante o franqueado acesso à residência do paciente, após o encontro de entorpecentesquetrazia consigo.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
