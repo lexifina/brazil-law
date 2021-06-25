@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de recurso especial interpostopor MONTEIRO PARANHOS EMPREENDIMENTOS IMOBILIARIOS LTDA. - EPP, fundamentado na alíneaado permissivo constitucional, visando reformaracórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 39):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - Insurgência do executado contra decisão que indeferiu seu pedido de desbloqueio de quantia penhorada em sua conta corrente Caso dos autos que é hipótese de proteção ao pequeno poupador - Inteligência do art. 833 do Código de Processo Civil - Aplicação financeira equiparada à poupança Posicionamento do C. Superior Tribunal de Justiça - Recurso provido.
+Nas razões do recurso especial, a insurgente alega violação ao art. 833, X, do CPC/2015, argumentando, em suma, que os valores até o limite de 40 (quarenta) salários mínimos depositados em conta-corrente não estão incluídos no rol taxativo do aludido dispositivo de lei, sendo, portanto, passíveis de penhora.
+Contrarrazões às fls. 64-68 (e-STJ).
+O Tribunal de origem admitiu o processamento do recurso especial, ascendendo os autos a esta Corte (e-STJ, fl. 69-70).
+Brevemente relatado, decido.
+Com efeito, as Turmas de Direito Privado deste Tribunal Superior já pacificaram o entendimento de que os valores pertencentes ao devedor, até o limite de 40 (quarenta) salários mínimos, mantidos em conta-corrente, caderneta de poupança ou fundos de investimentos são impenhoráveis.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PENHORA. ATIVOS FINANCEIROS. CONTA-POUPANÇA VINCULADA À CONTA-CORRENTE. IMPENHORABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de que, até o limite de 40 (quarenta) salários mínimos depositados em qualquer tipo de conta bancária, a impenhorabilidade deve ser respeitada.
+3. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1643889/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/08/2020, DJe 31/08/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE VALOR DE ATÉ 40 (QUARENTA) SALÁRIOS MÍNIMOS MANTIDO EM CONTA BANCÁRIA OU FUNDOS DE INVESTIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. A Segunda Seção desta Corte Superior pacificou o entendimento de que "é possível ao devedor poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda" (EREsp 1.330.567/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, DJe de 19/12/2014).
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1453468/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/03/2020, DJe 25/03/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DISSÍDIO NOTÓRIO. CONTA CORRENTE BANCÁRIA. IMPENHORABILIDADE. LIMITE. QUARENTA SALÁRIOS MÍNIMOS.
+1. Julgamento sob a égide do CPC/15
+2. Ação de execução de título extrajudicial.
+3. A existência de dissídio notório autoriza a flexibilização dos requisitos de admissibilidade para o conhecimento do recurso especial fundado na alínea "c" do permissivo constitucional.
+4. Exceto se comprovada a ocorrência de abuso, má-fé ou fraude e ainda que os valores constantes em conta corrente percam a natureza salarial após o recebimento do salário ou vencimento seguinte - a quantia poupada pelo devedor, no patamar de até 40 salários mínimos, é impenhorável. Súmula 568/STJ.
+5. Agravo interno não provido. (AgInt no REsp 1786530/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 17/06/2019, DJe 19/06/2019)
+No caso em estudo, o Tribunal de origem, ao julgar o agravo de instrumento interposto pela parte executada,afastou o bloqueiode valores existentesem sua conta-corrente, por entender que a impenhorabilidade a que se refere o art. 833, X, do CPC/2015 não tem aplicação restrita à hipótese de valores depositados em caderneta de poupança, de acordo com as seguintes justificativas (e-STJ, fls. 40-41):
+Dispõe o art. 833, inciso X, do Código de Processo Civil, ser impenhorável "a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos".
+O dispositivo em tela é alvo de crítica doutrinária, haja vista que cria injustificável distinção quanto aos investimentos passíveis de guarida, preocupando-se mais em conferir proteção à poupança do que ao princípio da dignidade humana e à manutenção de um patrimônio mínimo ao executado que justificam o instituto da impenhorabilidade. Neste sentido, afirma DANIELAMORIMASSUMPÇÃO NEVES: "A opção do legislador parece ter atendido a interesses governamentais, considerando-se ser a poupança a forma de investimento mais vantajosa para o Estado na medida em que, no mínimo, 65% dos recursos catados devem ser direcionados para operações de financiamento habitacional, sendo 80% desse percentual em operações ligadas ao Sistema Financeiro de Habitação." (Novo Código de Processo Civil comentado. Salvador: Ed.JusPodivm, 2016, p. 1.326)
+Atento a essa realidade, o Superior Tribunal de Justiça, em paradigmático acórdão, decidiu que a impenhorabilidade a proveitaa qualquer reserva financeira existente, desde que somente dela disponha seu titular:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPENHORABILIDADE. ARTIGO 649, IV e X, DO CPC. FUNDO DE INVESTIMENTO. POUPANÇA. LIMITAÇÃO. QUARENTA SALÁRIOS MÍNIMOS. PARCIAL PROVIMENTO.1. A remuneração a que se refere o inciso IV do art. 649 do CPC é a última percebida, no limite do teto constitucional de remuneração (CF, art. 37, XI e XII), perdendo esta natureza a sobra respectiva, após o recebimento do salário ou vencimento seguinte. Precedente. 2. O valor obtido a título de indenização trabalhista, após longo período depositado em fundo de investimento, perde a característica de verba salarial impenhorável (inciso IV do art. 649). Reveste-se, todavia, de impenhorabilidade a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta-corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos, e ressalvado eventual abuso, má-fé, ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias da situação concreta em julgamento (inciso X do art. 649). 3. Recurso especial parcialmente provido. (REsp nº 1.230.060, Rel. Min. Maria Isabel Gallotti, Segunda Seção, j. 29.08.2014)
+(..)
+In casu, o valor bloqueado encontra-se em aplicações na conta corrente do agravante, em quantum inferior a 40 salários mínimos, de modo que à quantia bloqueada é aplicável a impenhorabilidade prevista pela legislação processual civil, que visa à proteção do pequeno poupador.
+Pelo exposto, dou provimento ao recurso.
+Com efeito, como pode se observar, essa conclusão está ajustada ao entendimento da jurisprudência do STJ sobre a referida temática, razão pela qual o acórdão não recorrido merece reforma. Incidência da Súmula 83/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. IMPENHORABILIDADE DE VALORES MANTIDOS EM CONTA-CORRENTE ATÉ O LIMITE DE 40 (QUARENTA) SALÁRIOS MÍNIMOS. PRECEDENTES. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE.SUMÚLA N. 83/STJ.RECURSO ESPECIAL DESPROVIDO.
