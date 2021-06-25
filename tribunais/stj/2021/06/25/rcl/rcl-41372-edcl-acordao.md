@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Paulo de Tarso Sanseverino, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃONA RECLAMAÇÃO.OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. AUSÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausente qualquer vício a ser sanado no acórdão embargado.
+2.Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por FFE CONSTRUCOES, INCORPORACOES E PARTICIPACOES LTDA e CONSTRUTORA ALAVANCA LTDA, contra o acórdão que negou provimento ao agravointerno que interpuseram, com a aplicação de multas processuais, nos termos da seguinte ementa (e-STJ fls. 1.1552/1.553):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. DIVERGÊNCIA ENTRE ACÓRDÃO DE TURMA RECURSAL E PRECEDENTE DO STJ. COMPETÊNCIA. CORTE LOCAL. RESOLUÇÃO STJ N. 3/2016. EXAME DA COMPETÊNCIA INTERNA DO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO. INVIABILIDADE. MANIFESTA IMPROCEDÊNCIA DO AGRAVO INTERNO. APLICAÇÃO DA MULTA DO ART. 1.021, § 4º, DO CPC/15. LITIGÂNCIA DE MÁ-FÉ CARACTERIZADA. APLICAÇÃO DA MULTA PREVISTA NO ART. 81, CAPUT, DO CPC/15. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.
+1. A Resolução STJ n. 12/2009, que regulava o cabimento de reclamação ao STJ em relação a processos em tramitação no âmbito dos Juizados Especiais, foi expressamente revogada pela Emenda Regimental n. 22, de 16/03/2016.
+2. Conforme prevê a Resolução STJ n. 3/2016, a partir de 7 de abril de 2016, é da competência das Câmaras Reunidas ou da Seção Especializada dos Tribunais de Justiça a apreciação de reclamação destinada a dirimir divergência entre acórdão prolatado por Turma Recursal e a jurisprudência do STJ.
+3. O excepcional instrumento da reclamação não é a via adequada para analisar a distribuição interna da competência no âmbito do TJ/SP, tampouco para o exame de eventual ilegalidade da Resolução nº 759/2016, que delegou à Turma de Uniformização do Sistema dos Juizados Especiais do Estado de São Paulo a competência para julgar reclamações ajuizadas com o propósito de dirimir divergência entre acórdão de Turma Recursal e a jurisprudência do STJ.
+4. "O insucesso de reclamação anterior pelo Tribunal estadual não rende ensejo à propositura de uma nova reclamação com os mesmos fundamentos à esta Corte, devendo-se coibir sua utilização como sucedâneo recursal, sendo defesa a pretensão de, por via reflexa, ver analisada por esta Corte Superior a reclamação contra uma decisão de mérito proferida por Juízo do Juizados Especial Cível" (AgInt nos EDcl na Rcl 39.657/SP, 2ª Seção, DJe 22/06/2020).
+5. Tem-se como manifestamente improcedente o agravo interno quando a parte agravante repisa a mesma pretensão e os mesmos argumentos já examinados e rejeitados, definitivamente, por esta Corte, em anterior reclamação envolvendo as mesmas partes (Rcl 40.787/SP).
+6. Caracteriza litigância de má-fé a provocação reiterada de incidentes manifestamente infundados e a resistência injustificada ao andamento do processo, o que atrai a aplicação da multa prevista no art. 81, caput, do CPC/2015.
+7. Não angularizada a relação processual mediante a citação do beneficiário do ato impugnado (art. 989, III, do CPC/15), em razão do indeferimento liminar da petição inicial da reclamação, é incabível a fixação de honorários advocatícios de sucumbência.
+8. Agravo interno não provido, com a aplicação das multas de que tratam os arts. 81, caput, e 1.021, § 4º, do CPC/15".
+Nas razões do presente recurso (e-STJ fls. 1.565/1.590), as embargantesreiteram que houvenegativa de prestação jurisdicional por parte do Tribunal de origem, bemcomo de que houve total contrariedade aos precedentes do STJ que dispõem acerca da legalidade da cobrança da comissão de corretagem.
+Insurgem-se, no mais,contra a condenação ao pagamento da multa prevista no art. 1.021, § 4º, doCPC/2015, bem como contra a sua condenação às penas por litigância de má-fé.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃONA RECLAMAÇÃO.OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. AUSÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausente qualquer vício a ser sanado no acórdão embargado.
+2.Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+Na hipótese, não ocorreu nenhum dos vícios mencionados.
+Efetivamente, nenhuma obscuridade, contradição, omissão ou erro material existe no corpo do acórdão que justifique a oposição deste recurso, que, como é cediço, não se presta para o reexame da causa.
+Ressalte-se, inclusive, que as razões dos presentes aclaratórios - a não ser pela insurgência relativa à condenação ao pagamento de multas - ,são meras reproduções dos argumentos constantes da própria petição inicial da reclamação, bem como da petição de agravo interno, já anteriormente rechaçadas sob os fundamentos de que: (i) nos termos da Resolução STJ n. 3/2016, não mais cabe a este Tribunal a competência para apreciar reclamação destinada a dirimir divergência entre acórdão prolatado por Turma Recursal e a jurisprudência do STJ; (ii) oexcepcional instrumento da reclamação não é a via adequada para analisar a distribuição interna da competência no âmbito do TJ/SP, tampouco para o exame de eventual ilegalidade da Resolução nº 759/2016, que delegou à Turma de Uniformização do Sistema dos Juizados Especiais do Estado de São Paulo a competência para julgar as reclamações de que trata a ResoluçãoSTJ n. 3/2016; e, (iii) oinsucesso de reclamação anterior pelo Tribunal estadual não rende ensejo à propositura de uma nova reclamação com os mesmos fundamentos à esta Corte, devendo-se coibir sua utilização como sucedâneo recursal.
+Diferentemente do que querem fazer crer as embargantes, as razões que levaram ao indeferimento da reclamação foram suficientes, claras e expressas, não ensejando, por oportuno, a oposição de embargos de declaração.
+No mais, foi devidamente fundamentada a aplicação das multas previstas nos arts. 81 e 1.021, § 4º, do CPC/2015, na medida em que evidenciado o abuso das embargantes no manejo do instrumento da reclamação - repise-se, nesse aspecto, que a pretensão deduzida neste incidente é idêntica àquela formulada nos autos da Rcl 40.787/SP -, para além da repetição de argumentos já exaustivamente examinados e rejeitados.
+Destarte, não havendo qualquer vício a ser sanado, nem complementação a ser feita, impõe-se a rejeição do presente recurso.
+Forte nessas razões, REJEITO os embargos de declaração.
