@@ -1,0 +1,18 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento, interposto por ENERGISA MATO GROSSO – DISTRIBUIDORA DE ENERGIA S.A., com o fito de reformar a decisão que, nos Autos da Ação Declaratória de Inexistência de Débito de no 1016994-48.2021.8.11.0041, ajuizada por ANDRÉ LUIS COLUNA DA SILVA, deferiu o pedido liminar de tutela de urgência para determinar que a agravante se abstenha de inserir o nome do autor, ora agravado, no banco de dados do SPC e SERASA.
+Para tanto, narra a agravante que o autor pede na ação a declaração da inexigibilidade das faturas de 2016 e de 2017 que foram levados à inscrição no SPC/SERASA, sob o argumento de que, durante o período do débito, estava cumprindo pena de reclusão, de modo que não poderia ter consumido a energia elétrica cobrada.
+Alega que, diferente do alegado pelo agravado, as faturas cobradas durante o período são dotadas de plena exigibilidade, dada a existência de consumo na unidade consumidora titularizada pelo autor, razão pela qual, deve ser mantida a negativação do devedor nos cadastros de proteção ao crédito.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição de efeito suspensivo ao Recurso de Agravo de Instrumento se sujeita aos pressupostos que lhe são próprios, nem sempre consentâneos com aqueles que, por outro lado, tocam à decisão combatida.
+Em outras palavras, a obtenção de efeito suspensivo depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+Como já dizia Nelson Nery Júnior:
+Atuação do relator. O relator do agravo deve analisar a situação concreta, podendo ou não conceder o efeito suspensivo ao recurso. Se verificar que a execução da decisão agravada pode trazer perigo de dano irreparável (periculum in mora) e se for relevante o fundamento do recurso (fumus boni iuris), deve dar efeito suspensivo ao agravo. (Código de processo civil comentado e legislação extravagante. 9 ed. São Paulo: Revista dos Tribunais, 2006, P. 819).
+Na espécie, não decorre da análise da questão posta fundamento bastante para convencer da concessão da liminar recursal pretendida.
+É que, conforme destacado na decisão hostilizada, a determinação para que a agravante promova a exclusão do registro de cadastro de inadimplentes teve pertinência a partir da comprovação de que o agravado se tornou inadimplente no montante de R$ 71.518,13 (setenta e um mil quinhentos e dezoito reais e treze centavos), referente às faturas dos meses de Junho à Dezembro/2016 e Janeiro, Fevereiro e Julho de 2017.
+Ocorre que, durante o período em questão, o agravado encontrava-se cumprindo pena de reclusão na Penitenciária Central da Capital, sendo controverso, portanto, a dívida, objeto da lide.
+Dessa feita, apesar do esforço da agravante em demonstrar a possível existência de prejuízo diante da decisão que determinou a imediata exclusão do nome do agravado dos órgãos de proteção ao crédito, percebe-se também que, a questão em exame tem toda a aptidão a causar transtornos maiores para a parte agravada.
+Assim, não há por onde atender a súplica do agravante, pois não atendido a contento, os pressupostos da tutela jurisdicional pretendida, razão pela qual deve ser indeferida a liminar recursal.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
