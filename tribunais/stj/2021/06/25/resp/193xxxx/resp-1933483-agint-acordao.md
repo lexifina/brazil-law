@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino (Presidente), Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PEDIDO DE CANCELAMENTO DE HIPOTECA. GARANTIA DADA PELA CONSTRUTORA AO AGENTE FINANCEIRO. TERCEIROS ADQUIRENTES. INEFICÁCIA. SÚMULA 308/STJ.
+1. Ação de obrigação de fazer.
+2. De acordo com a Súmula 308/STJ, a hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel.
+3. Agravo não provido.
+RELATÓRIO
+Cuida-se do agravo interposto pela CAIXA ECONÔMICA FEDERAL, contra decisão unipessoal que deu provimento aorecurso especial interposto porJOSEFA MARIANO DA SILVA.
+Ação: de obrigação de fazer, ajuizada pela agravada, em face da agravante e da CONSTRUTORA HUMBERTO LOBO LTDA - EM RECUPERAÇÃO JUDICIAL, na qual pleiteia o cancelamento de hipoteca em imóvel adquirido pela agravada.
+Sentença: julgou procedente o pedido, para determinar a imediata baixa da hipoteca gravada no imóvel indicado na petição inicial.
+Acórdão: deu provimento à apelação interposta pela agravante, a fim dejulgar improcedente o pedido, nos termos da seguinte ementa:
+CIVIL. PROMESSA DE COMPRA E VENDA. IMÓVEL OBJETO DE HIPOTECA FIRMADAENTRE A CONSTRUTORA PROMITENTE-VENDEDORA E A CEF. EFICÁCIA PERANTE OS TERCEIROS ADQUIRENTES DA UNIDADE IMOBILIÁRIA. SÚMULA Nº 308 DO STJ. INAPLICABILIDADE AOS NEGÓCIOS JURÍDICOS REALIZADOS SEM A INTERVENIÊNCIA DO AGENTE FINANCEIRO. PRECEDENTE DESTA CORTE. CANCELAMENTO DO GRAVAME. IMPOSSIBILIDADE.
+1. Apelação interposta pela Caixa Econômica Federal em face da sentença que julgou procedente o pedido autoral, para determinar a imediata baixa da hipoteca gravada no imóvel de matrícula 177549, referente à unidade 601, do Edifício Residencial Jardim Siena, perante o1º Registro Geral de Imóveis de Maceió - Alagoas, ficando as custas cartorárias sob responsabilidade da Ré Construtora Humberto Lobo Ltda.
+2. Nas suas razões de apelo, pugna a Apelante pela reforma da sentença, alegando, em suma, a validade da hipoteca instituída em seu favor, tendo em vista a absoluta ineficácia do negócio jurídico firmado pela Apelada diante da hipoteca pré-existente, nos termos do art. 54, III da Leinº 13.097/2015, restando inaplicável ao caso a Súmula 308 do STJ.
+3. No caso concreto, a Demandante/Apelada adquiriu, por meio de Contrato de Promessa de Compra e Venda, unidade imobiliária objeto de hipoteca firmada previamente entre a construtorapromitente-vendedora e a CEF, devidamente registrada no Cartório da matrícula do imóvel, de modo que, sendo pública a hipoteca, deveria a parte Autora/Apelante ter observado a existência de tal gravame quando da aquisição do bem, não havendo que falar em boa-fé objetiva do terceiro adquirente, a justificar o reconhecimento da ineficácia do gravame hipotecário perante o promitente comprador. Precedente da Terceira Turma deste Tribunal (Processo AC 0807542-53.2018.4.05.8302, Rel. Desembargador Federal Rogério Fialho Moreira, data do Julgamento: 12/04/2019).
+4. É certo que, tratando-se de imóvel adquirido por meio do SFH, o STJ sedimentou o entendimento (Súmula nº 308) no sentido de que a hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes das unidades habitacionais que compõem o prédio hipotecado. Ocorre que à teor da jurisprudência deste Tribunal, o enunciado sumular reportado somente é aplicável às hipóteses em que os bens hipotecados são adquiridos com recursos oriundos de financiamento habitacional, obtido juntamente à própria credora hipotecária, no âmbito do SFH, não sendo este o caso dos autos onde a Demandante adquiriu o imóvel por meio de Contrato de Compra e Venda, sem a intermediação da Caixa. Precedentes desta Corte Regional:(Processo 0805751-19.2017.4.05.8000, Rel. Desembargador Federal Leonardo Carvalho, 2ª Turma, Julgamento: 06/06/2018; e Processo AR 6667/AL, Rel. Desembargador Federal Fernando Braga, Pleno, DJe 14/02/2014).
+5. Apelação provida, para que seja julgada improcedente a pretensão autoral, com a inversão do ônus de sucumbência, para pagamento pela Recorrida das custas e honorários advocatícios, fixados em 10% sobre o valor da causa, nos termos do art. 85, § 2º, do Código de Processo Civil, e na forma do art. 98, § 3º do CPC, fica suspensa a exigibilidade de tal despesa processual até que se comprove que a parte perdeu a situação jurídica de beneficiária da gratuidade da justiça.
+Embargos de declaração: interpostos pela agravada, foram rejeitados.
+Recurso especial: alega violação do art. 1.418 do CC/02, bem como dissídio jurisprudencial. Sustenta a ineficácia, perante o adquirente de unidade imobiliária, da hipoteca firmada entre a construtora e a instituição financeira responsável pela construção da edificação.
+Decisão agravada: conheceu do recurso especial interposto pela agravada e deu-lhe provimento,para restabelecer os efeitos da sentença de primeiro grau, inclusive em relação às verbas de sucumbência.
+Agravo interno: nas razões do presente recurso, a agravante argumenta queé inaplicável a Súmula 308/STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PEDIDO DE CANCELAMENTO DE HIPOTECA. GARANTIA DADA PELA CONSTRUTORA AO AGENTE FINANCEIRO. TERCEIROS ADQUIRENTES. INEFICÁCIA. SÚMULA 308/STJ.
+1. Ação de obrigação de fazer.
+2. De acordo com a Súmula 308/STJ, a hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel.
+3. Agravo não provido.
+VOTO
+A decisão agravada conheceu do recurso especial interposto pela agravada e deu-lhe provimento, tendo em vista que o acórdão recorrido contrariou o entendimento do STJ consolidado com a edição da Súmula 308.
+Pela análise das razões apresentadas, verifica-se que a agravante não trouxe qualquer argumento capaz de ilidir os fundamentos da decisão agravada.
+De fato, a jurisprudência do STJ consolidou-se no sentidode que a hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel, e queo fato de o imóvel sobre o qual recai a hipoteca não ter sido adquirido com recursos oriundos do Sistema Financeiro da Habitação, como na hipótese dos autos, não afasta a aplicação da Súmula308/STJ.
+Nesse sentido: AgInt no AREsp 1.411.290/SP, 3ª Turma, DJe de 04/06/2020; AgInt no AREsp 1.236.910/RJ, 4ª Turma, DJe de02/05/2019; AgRg no REsp 1.261.198/GO, 3ª Turma, DJe de 01/09/2017;REsp 953.510/PR, 3ª Turma, DJe de 22/08/2008; e REsp 593.474/RJ, 3ª Turma, DJe de 01/12/2010.
+A decisão agravada, portanto, não merece reforma.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo.
