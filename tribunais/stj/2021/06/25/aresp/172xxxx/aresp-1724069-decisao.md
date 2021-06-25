@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO AMAZONAScontra decisão do Tribunal de Justiça daquela unidade da Federação, que não admitiu recurso especial, fundado naalínea"a" do permissivo constitucional, o qual desafia acórdãoassim ementado (e-STJ fl. 109):
+APELAÇÃO CÍVEL. POLICIAL MILITAR.INATIVIDADE. LICENÇA -ESPECIAL NÃO USUFRUÍDA.POSSIBILIDADE DE CONVERSÃO EM PECÚNIA. VEDAÇÃO AO ENRIQUECIMENTO ILÍCITO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. CERTIDÃO FORNECIDA PELO ESTADO. PROVA INCONTESTE DO DIREITO DO SERVIDOR. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+1. É firme a orientação jurisprudencial tanto no STJ como nesta Corte no sentido de ser possível a conversão em pecúnia de licenças - especiais não usufruídas pelo servidor após a passagem para a inatividade, ante a vedação do enriquecimento ilícito do Estado, que pretende valer-se dos serviços prestados no momento de descanso sem arcar com a devida contraprestação.
+2. In casu, restou comprovada pela certidão fornecida que a policial militar nunca gozou do benefício quando em atividade, fazendo, portanto, jus a conversão em pecúnia de todo o período não gozado.
+3. Recurso conhecido e não provido, em consonância com o parecer do Ministério Público.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 216/222).
+No especial obstaculizado, a parte recorrente sustenta contrariedade do art. 1.022, II, do CPC/2015, argumentando, em síntese, que, "de se ver, no particular, que a matéria referente à existência ou não de direito à licença especial do militar estadualapós a extinção da benesse em relação aos militares federais não foi enfrentada. O Órgão Judicante a quo quedou-se omisso nesse ponto, muito embora provocado por Embargos de Declaração"(e-STJ fl.139 ), pois não se pode mais falar em concessão de licença especial após a Medida Provisória 2.131/2000.
+Contrarrazões às e-STJ fls. 149/160.
+Passo a decidir.
+Observa-se que a pretensão recursal não comporta acolhida.
+Em relação ao art. 1.022 do CPC/2015, cumpre destacar que, ainda que a parte recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA - CREA/PR. ENQUADRAMENTO NO REGIME JURÍDICO ESTATUTÁRIO. LEI 8.112/1990. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. ACÓRDÃO RECORRIDO QUE ADOTA FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. OFENSA AO ARTIGO 64, § 3º, DO CPC/2015. ARGUMENTAÇÃO DEFICIENTE E DISSOCIADA. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1. Não há falar em violação dos artigos 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A aplicação do direito ao caso, ainda que por meio de solução jurídica diversa da requerida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+ ..
+6. Agravo interno não provido. (AgInt no REsp 1.747.348/PR, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 10/06/2020).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LICITAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. INABILITAÇÃO NO PROCEDIMENTO LICITATÓRIO. REVISÃO. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ.
+1. Não prospera a tese de violação dos arts. 489 e 1.022 CPC/2015, porquanto o acórdão proferido pela Corte local fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+2. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pelas insurgentes, elegendo fundamentos diversos daqueles por elas propostos, não configura omissão ou outra causa passível de exame mediante a oposição de embargos de declaração.
+ ..
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 1.526.177/SP, Relator Ministro OG FERNANDES, SEGUNDA TURMA, DJe 29/05/2020).
+In casu,sendo que o aresto atacado entendeu por bem em negar provimento à apelação do Estado do Amazonas (e-STJ fls. 112/117):
+ ..
+Cinge-se o recurso a definir se é possível converter-se em pecúnia as licenças -especiais não gozadas por policial militar atualmente na inatividade.
+Inicialmente esclareço ser possível converter-se em pecúnia as licenças -especiais não gozadas pelo servidor quando em atividade, postoconfigurar-se direito regulado pela Lei 2.199 de 1993, mais especificamente em seu artigo 65, que estabelece que fará jus o militar ao benefício de 3 (três) meses de descanso a cada quinquênio de efetivo serviço, com todos os direitos e o vantagens do seu cargo efetivo.
+Na esteira da pacífica jurisprudência do Superior Tribunal deJustiça, caso as licenças -especiais a que o servidor militar tem direito não sejam gozadas e nem contadas em dobro para fins de passagem para a inatividade, estas haverão de ser convertidas em valores, sob pena de indevidolocupletamento por parte da Administração Pública. Neste sentido apresento o em destaque os seguintes arestos do Tribunal Superior:
+ ..
+Impende destacar que o STJ decidiu em caso condutor que o direito à conversão encontra-se dentro da responsabilidade objetiva do Estado, prevista constitucionalmente no artigo 37, § 6º, de modo que não depende, portanto, de de haver previsão legal, podendo ser concedida pelo Poder Judiciário, senão vejamos:
+ ..
+Igualmente, cabe trazer à baila que este Tribunal de Justiça do Amazonas, seguindo o que já decidiu de forma remansosa o STJ, fincou entendimento no sentido de que é devida a conversão em pecúnia das licenças - especiais não gozadas, como se observa dos seguintes precedentes:
+Com fincas nestes argumentos, formo convencimento no sentido de poder converter-se a licença-especial não usufruída quando em atividade em pecúnia, eis que, diante da inatividade, não mais poderá gozá-lo, evitando-se, assim, o enriquecimento ilícito por parte do Estado.
+Outrossim, no que tange a alegação do Estado do Amazonas de que a partir da edição da Medida Provisória nº 2.131/2000 o benefício não poderia ser concedido, anoto que a Apelada requereu a conversão com base na nova redação do art. 65, dado pela Lei n.º 2.199/93, não se aplicando, portanto, a vedação trazida pela Medida Provisória em destaque.
+Desta forma, não prosperam as razões do Estado Apelante de que há vedação à conversão da de licença prêmio da Apelada, ainda que posterior ao citado normativo. (grifos acrescidos)
+Desse modo, não há que falar na apontada violação dodispositivoinvocado, porque a fundamentação do aresto foi clara e suficiente à solução da demanda.
+Ante o exposto, com base no art. 255, § 4º, II, do RISTJ, NEGO PROVIMENTO ao recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
