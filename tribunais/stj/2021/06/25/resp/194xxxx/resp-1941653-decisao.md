@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO - MPE, com fulcro no art. 105, III, alínea "a", da Constituição Federal - CF, em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO - TJRJ.
+Consta dos autos que o recorrido foi denunciado como incurso noart. 306 da Lei n. 9.503/97 (conduzir veículo automotor sob efeito de álcool), sendo a denúncia rejeitada (fls. 29/34).
+Irresignado, o MPE interpôs recurso em sentido estrito que foi desprovido, nos termos deacórdão que recebeu a seguinte ementa:
+"RECURSO EM SENTIDO ESTRITO. ARTIGO 306 DA LEI Nº 9.503/97. DENÚNCIA. REJEIÇÃO. ATIPICIDADE DA CONDUTA. AUSÊNCIA DE JUSTA CAUSA. ARTIGO395, INCISO III, DA LEI PROCESSUAL PENAL. INCONFORMAÇÃO DO MINISTÉRIO PÚBLICO POSITIVADA NO SENTIDO DE QUE A CONDUTA PRATICADA PELORECORRIDOÉ TÍPICA. IMPROVIMENTO DO RECURSO. AUSÊNCIA DE DESCRIÇÃO QUANTO A EXISTÊNCIA DE ALGUM ELEMENTO QUE PUDESSE REVELAR QUE ORECORRIDOESTIVESSE CONDUZINDO O VEÍCULO AUTOMOTOR,NO MOMENTO EM QUE FOI PARADANA BLITZ DENOMINADA COMO LEI SECA,A PONTO DE COLOCAR EM RISCO A SEGURANÇA VIÁRIA. DESSA FORMA,AUSENTE ANARRATIVA QUE DE FATO DEMONSTRASSE UMA SITUAÇÃO QUE ENVOLVESSE UM PERIGO CONCRETO É DE SE VISLUMBRAR A AUSÊNCIA DE JUSTA CAUSA PARA A DEFLAGRAÇÃO DA AÇÃO PENAL. RECURSO NÃO PROVIDO. DECISÃO CONFIRMADA."(fl. 173)
+Em sede de recurso especial de fls. 208/226, o MPE apontou violação ao artigo 306 do CTB, bem como aos artigos 41 e 395, I e III, ambos do CPP, porque o Tribunal de origem manteve a rejeição da denúncia, embora o recorrido conduzisse o veículo com concentração de álcool no sangue superior ao permitido por lei.
+O MPE sustenta que o delito é de perigo abstrato, sendo prescindível comprovar direção anormal do veículo para sua tipificação. Destaca que o art. 306, § 1º, I, do CTB, traz presunção absoluta de alteração da capacidade psicomotora do condutor que possuir concentração igual ou superior a 0,3 miligramas de álcool por litro de ar alveolar, sendo o caso dos autos.
+Requereu seja provido o recurso especial para recebimento da denúncia.
+Contrarrazões apresentadas às fls. 230/329.
+Os autos foram encaminhados para juízo de retratação (fls. 331/334).
+Novo acórdão foi proferido para manter o acórdão recorrido (fls. 352/362).
+O recurso especial foi admitido (fls. 387/391).
+Encaminhados os autos a esta Corte, a Subprocuradoria Geral da República se manifestou pelo provimento do recurso (fls. 406/412).
+É o relatório.
+Decido.
+O recurso merece acolhimento.
+Sobre a violação ao artigo 306 do CTB, o Tribunal de origem entendeu que a redação atual do referido dispositivo não permite a tipificação apenas pela mera concentração de álcool no sangue, devendo ser avaliado casuísticamente a inaptidão do motorista. Cito o trecho:
+"Verifica-se dos autos que o recorrido foi parado durante a realização da operação denominada como "Lei Seca", na Rua Dr. Nilo Peçanha, em São Gonçalo, sendo compelido a realizar o teste de verificação de alcoolemia, por meio do aparelho de etilômetro, apurando-se, naquela oportunidade, que ele apresentava o teor de 0,36mg/l de álcool por litro de ar expelido dos pulmões (páginas 07do arquivo 000009).
+Constata-se, que o acusado foi denunciado apenas em razão de que o resultado do teste de etilômetro apontou grau acima do limite legal, sem, contudo, demonstrar a imputação penal sob o fundamento da concreta ofensividade à segurança viária, de modo que se limitou a narrar um fato que possui mera tipicidade formal, sendo totalmente desprovido de tipicidade material, uma vez que não representa nenhum ato de perigo concreto à segurança viária, sendo tal fato salientado pelo douto magistrado de piso na decisão que rejeitou a denúncia.
+ ..
+Não há dúvida de que a hipótese delituosa apenas se daria caso houvesse prova eficaz da direção de veículo automotor sob o efeito do álcool ou outra substância psicoativa.
+Acontece que para a configuração do crime é necessário a prova de que houve perigo concreto. Ou seja, nas circunstâncias apuradas não existiu qualquer evidência dessa realidade.
+ ..
+Não basta a ingestão do álcool, impõe-se que o agente, dirigindo sob sua influência, apresente uma conduta anormal, colocando em risco ao menos iminente a segurança das vias.
+Não constando nenhuma narrativa de fato que demonstrasse uma situação que envolvesse um perigo concreto é de se vislumbrara ausência de justa causa para a deflagração da ação penal, impondo-se, como consequência lógica legal, a sua rejeição, tudo a teor do que prevê o disposto no artigo 395, inciso III, do Código de Processo Penal." (fls. 172/189)
+Pois bem, o entendimento encontra-se em dissonância com a jurisprudência desta Corte, a qual se consolidou no sentido da suficiência do teste de etilômetro para a tipificação do delito, eis que se trata de crime de perigo abstrato. Cito precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. COMPROVAÇÃO. QUALQUER MEIO DE PROVA. CRIME DE PERIGO ABSTRATO. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. AUMENTO DECORRENTE DA AUSÊNCIA DE PRESTAÇÃO DE SOCORRO. QUADRO FÁTICO. IMPOSSIBILIDADE DE REEXAME. ÓBICE DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante entendimento desta Corte, a comprovação da embriaguez ao volante passou a ser admitida por qualquer meio de prova (vídeo, testemunhos etc), como ocorreu no caso. Além disso, o crime previsto no art. 306 do CTB é de perigo abstrato. Incidência da Súmula n. 83 do STJ.
+2. O aumento da pena no delito de lesão corporal culposa no trânsito se baseou no conjunto probatório produzido pelas instâncias ordinárias, segundo as quais o acusado deixou de prestar socorro à vítima e evadiu-se do local do acidente. Logo, não é possível se contrapor à afirmação feita na origem, em razão do óbice da Súmula n. 7 do STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 1776885/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 20/04/2021, DJe 30/04/2021)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIMES DE TRÂNSITO.EMBRIAGUEZ AO VOLANTE. ALTERAÇÃO DA CAPACIDADE PSICOMOTORA.DESNECESSIDADE. HOMICÍDIO CULPOSO. ABSOLVIÇÃO. PROVA. PERDÃO JUDICIAL. DOSIMETRIA. ADEQUAÇÃO DAS PENAS PELO CRIME DE HOMICÍDIO AOS MOLDES DO ANTIGO ARTIGO 302, §2º, DO CTB E NÃO PELOS DOIS CRIMES A QUE RESTOU CONDENADO PENA-BASE E PECUNIÁRIA. REDUÇÃO. SÚM. 7/STJ.
+1. O crime previsto no art. 306 do Código de Trânsito Brasileiro é de perigo abstrato, sendo suficiente, para a sua caracterização, que o condutor do veículo esteja com a capacidade psicomotora alterada em razão da influência de álcool ou outra substância entorpecente, dispensada a demonstração da potencialidade lesiva da conduta.
+2. As instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, concluíram que o recorrente praticou homicídio culposo. Chegar a entendimento diverso proclamando a absolvição, implica exame aprofundado do material fático-probatório, inviável em recurso especial, a teor da Súm. n. 7/STJ.
+3. O perdão judicial é ato de clemência do Estado, que, em hipóteses expressamente previstas em lei, como é o caso do homicídio culposo praticado no trânsito, deixa de aplicar a pena, afastando, assim a punibilidade.
+4. No caso dos autos, o recorrente, após ingerir bebida alcoólica, desenvolvendo velocidade excessiva e incompatível com as condições da pista (madrugada e com veículoS estacionados do lado esquerdo), perdeu o controle do automóvel, colidindo com um poste de concreto, causando a morte do carona.
+5. As instâncias ordinárias, soberanas nas circunstâncias fáticas da causa, entenderam não ser a hipótese de concessão da benesse.
+Concluir de forma diversa, implica exame aprofundado de provas, vedado em sede de recurso especial, a teor da Súmula n. 7 do STJ, valendo aqui ressaltar que foi concedida ao recorrente a substituição da pena privativa de liberdade por duas restritivas de direito.
+6. A Lei 12.971/14, que veio a ser revogada pela Lei 13.281/16, não é mais benéfica ao réu, pois prevê pena de reclusão, que possibilita, em tese, o desconto da reprimenda corporal no regime fechado, ou seja, com a total segregação do condenado, o que é impossível na pena de detenção, aplicada ao apelante.
+7. A fixação da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelada às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+8. Na hipótese, a pena-base foi estabelecida acima do mínimo legal, de forma razoável e proporcional, em razão das particularidades do caso em comento que desbordam das elementares do tipo, não havendo que se falar em ilegalidade a ser reparada por esta Corte.
+9. O valor da prestação pecuniária foi concretamente motivado, em observância à situação econômica do acusado, não cabendo ao Superior Tribunal de Justiça desconstituir o quantum, por demandar indevido revolvimento de fatos e provas.
+10. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1854277/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/08/2020, DJe 31/08/2020)
+Incidente, pois, a Súmula n. 83/STJ.
+Diante do exposto, com fundamento na súmula 568/STJ, dou provimento ao recurso especial para afastar a falta de justa causa da denúncia e determinar o seu recebimento.
+Publique-se. Intimem-se.
