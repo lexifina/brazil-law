@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. MEDIDA CAUTELAR FISCAL. AGRAVO INTERNO. ALEGADA OMISSÃO NO ACÓRDÃO. NÃO VERIFICADA.
+I - Na origem, trata-se de ação cautelar ajuizada pela Fazenda Nacional objetivando a indisponibilidade dos bens da requerida em razão dos créditos tributários, apurados em processo administrativo, decorrentes da alienação de bens, sem comunicação à Secretaria da Receita Federal. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida. Esta Corte não conheceu do recurso especial.
+II - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado. Não há vício no acórdão. A matéria foi devidamente tratada com clareza e sem contradições.
+III - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IV- Embargos de declaração rejeitados.
+RELATÓRIO
+Na origem, trata-se de ação cautelar ajuizada pela Fazenda Nacional objetivando a indisponibilidade dos bens da requerida em razão dos créditos tributários, apurados em processo administrativo, decorrentes da alienação de bens, sem comunicação à Secretaria da Receita Federal. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. AGRAVO. ART. 557, § 1º, DO CÓDIGO DE PROCESSO CIVIL. TRIBUTÁRIO. MEDIDA CAUTELAR FISCAL. LEI 8.397/1992, ARTIGO 2º, INCISO VI. DÉBITOS SUPERIORES A TRINTA POR CENTO DO PATRIMÔNIO CONHECIDO DO DEVEDOR. CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO. DESNECESSIDADE. INEXISTÊNCIA DE DILAPIDAÇÃO DO PATRIMÔNIO. IRRELEVÂNCIA. AJUIZAMENTO DE EMBARGOS À EXECUÇÃO FISCAL. PENDÊNCIA DE JULGAMENTO DA APELAÇÃO. HIGIDEZ DO CRÉDITO TRIBUTÁRIO. MANUTENÇÃO DA SITUAÇÃO ANTERIOR. AGRAVO DESPROVIDO.
+1. Não é pressuposto da medida cautelar fiscal, proposta com fundamento no artigo 2", inciso VI, da Lei 8.397/1992, que o crédito esteja constituído definitivamente.
+Precedente desta Turma.
+2. Para as ações que tem como finalidade o acautelamento, não é necessário que o crédito encontre-se exigível, apenas que haja prova literal da dívida líquida e certa e prova documental de um dos casos mencionados no artigo 2º da Lei 8.397/1992.
+3. Não é requisito para a configuração da situação disposta no artigo 2º, inciso VI, da Lei nº 8.397/92, que o contribuinte esteja dilapidando o seu patrimônio.
+4. Os embargos à execução, que ainda se encontram em grau de recurso, não tem o condão de desconstituir o crédito tributário. Desta forma, mantendo-se a situação anterior, na qual a dívida tributária do contribuinte supera em 30% (trinta por cento) o seu patrimônio conhecido, é de rigor a manutenção da medida cautelar, nos termos do artigo 2", inciso VI, da Lei nº 8.397/92.
+5. Agravo desprovido.
+Sustenta, em síntese, que a medida cautelar fiscal tem caráter preparatório, devendo ser observados os procedimentos da Lei n. 8.397/1992, alegando, ainda, a execução foi ajuizada em prazo superior ao estabelecido nos incisos I e II do art. 13 do referido diploma legal.
+Também foi apontada divergência jurisprudencial.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial."
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AÇÃO CAUTELAR.ALIENAÇÃO DE BENS. DÉBITO TRIBUTÁRIO.INDISPONIBILIDADE DE BENS. RECURSO ESPECIAL.DEFICIÊNCIA NA FUNDAMENTAÇÃO. FALTA DE INDICAR OS DISPOSITIVOS LEGAIS VIOLADOS. APLICAÇÃO DO ENUNCIADO N. 284 DA SÚMULA DO STF.
+I - Na origem, trata-se de ação cautelar ajuizada pela Fazenda Nacional objetivando a indisponibilidade dos bens da requerida em razão dos créditos tributários, apurados em processo administrativo, decorrentes da alienação de bens, sem comunicação à Secretaria da Receita Federal. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida. Esta Corte não conheceu do recurso especial.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que se evidencia a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de Lei Federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+III - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n.284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+IV - O recorrente deixou de indicar com precisão quais os dispositivos legais que teriam sido violados. Apresenta-se evidente adeficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+Acerca do assunto, destaco os seguintes precedentes: (AgInt no AREsp n.
+1.584.832/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 29/4/2020, DJe 5/5/2020 e REsp n. 1.751.504/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/11/2019, DJe 18/11/2019) V - Conforme a previsão do art. 255, § 1º, do RISTJ, é de rigor a caracterização das circunstâncias que identifiquem os casos confrontados, cabendo a quem recorre demonstrar tais circunstâncias, com indicação da similitude fática e jurídica entre os julgados, apontando o dispositivo legal interpretado nos arestos em cotejo, com a transcrição dos trechos necessários para tal demonstração. Em face de tal deficiência recursal, aplica-se o constante da Súmula n. 284 do STF.
+VI - O recorrente não aponta qual o dispositivo infraconstitucional objeto de interpretação divergente pelos julgados em confronto, desbordando da previsão contida no art. 105, III, c, da Lex Mater, o que impede a apreciação dessa parcela recursal pelo Superior Tribunal de Justiça. Nesse mesmo sentido, confiram-se: (AgInt nos EDcl no REsp n. 1.826.211/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/3/2020, DJe 19/3/2020 e AgInt no AREsp n. 1.524.220/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/3/2020, DJe 18/5/2020).
+VII - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. MEDIDA CAUTELAR FISCAL. AGRAVO INTERNO. ALEGADA OMISSÃO NO ACÓRDÃO. NÃO VERIFICADA.
+I - Na origem, trata-se de ação cautelar ajuizada pela Fazenda Nacional objetivando a indisponibilidade dos bens da requerida em razão dos créditos tributários, apurados em processo administrativo, decorrentes da alienação de bens, sem comunicação à Secretaria da Receita Federal. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida. Esta Corte não conheceu do recurso especial.
+II - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado. Não há vício no acórdão. A matéria foi devidamente tratada com clareza e sem contradições.
+III - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IV- Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp n. 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp n. 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp n. 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+Com efeito, o acórdão foi bastante claro ao estabelecer que o recurso especialnão indicaqual dispositivo de Lei Federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+Ademais, odissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais.
+As alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
