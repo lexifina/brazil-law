@@ -1,0 +1,32 @@
+DECISÃO
+PEDRO DA SILVA DE CARVALHO alega sofrer coação ilegal, em decorrência de decisão do Desembargador relator do HC n. 4004246-51.2021.8.04.0000, em trâmite no Tribunal de Justiça do Estado do Amazonas, que, ao indeferir o pedido liminar, manteve a prisão temporária.
+A defesa pretende a soltura do paciente - com prisão temporária decretada pelos crimes de tráfico de drogas, associação para o tráfico, incêndio, dano qualificado e participação em organização criminosa-, sob o argumento de que a prisão teria sido executada antes da expedição do mandado judicial.
+Decido.
+I. Vedada supressão de instância
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Nesse sentido, permanece inalterado o entendimento dos Tribunais Superiores: HC n. 179.896 AgR, Rel. Ministro Alexandre de Moraes, 1ª T., DJe 2/4/2020; HC n. 182.390 AgR, Rel. Ministro Cármen Lúcia, 2ª T., DJe 24/4/2020; AgRg no HC n. 561.091/RJ, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 16/4/2020; AgRg no RHC 119.330/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/11/2019, DJe 02/12/2019; AgRg no HC n. 548.761/PE, Rel. Ministra Laurita Vaz, 6ª T., DJe 4/2/2020.
+III. Ato apontado como coator
+Impetrado habeas corpus perante o Tribunal local, houve decisão monocrática do Desembargador-relator, vazada nos seguintes termos:
+Habeas Corpus nº 4004246-51.2021.8.04.0000 Impetrante: Gerdeson Zuriel de Oliveira Menezes, Paciente: Pedro da Silva de Carvalho Impetrado: Juízo de Direito da Central de Inquéritos da Capital-manaus Recebi hoje, às 8h45.
+Trata-se de Habeas Corpus impetrado em favor de Pedro da Silva de Carvalho, cuja prisão temporária foi decretada em 18/6/2021, tendo sido cumprida por meio de mandado expedido em 19/6/2021.
+Argumentou o Impetrante que a prisão foi ilegal, porquanto não teria havido participação do Ministério Público e a prisão teria sido executada antes da expedição do mandado judicial. Dessa forma, requereu a concessão de medida liminar no sentido de relaxar a prisão do paciente.
+É o relatório.
+De acordo com a doutrina majoritária, os pressupostos cumulativos para a decretação da prisão temporária são o fumus comissi delicti e o periculum libertatis, previstos nos incisos III e I ou II, do artigo 1º, da Lei m. 7.960/1989.
+No caso dos autos, o fumus comissi delicti se encontra devidamente demonstrado, uma vez que, conforme ressaltado pela decisão que decretou a prisão do paciente, este ostenta, conforme investigações preliminares da polícia, posição de liderança dentro da facção Comando Vermelho, sendo um dos responsáveis pelos ataques ocorridos na semana passada na cidade de Manaus.
+Em relação ao periculum libertatis, considero-o também presente à medida em que, a prisão do paciente é necessária para a identificação de novas fontes de prova e elementos informativos. Nesse contexto, entendo que o encarceramento do paciente é imprescindível para que o fato delituoso seja plenamente elucidado, ainda mais considerando-se que o paciente sequer se encontrava na cidade de Manaus.
+De acordo com o Impetrante, a prisão do paciente foi realizada antes mesmo da expedição do mandado judicial, porém, não há nos autos qualquer comprovação da veracidade do fato narrado.
+O Impetrante também alega que a ausência de prévia manifestação do Ministério Público tornaria a prisão decretada ilegal. Contudo, a meu ver, a inversão da ordem procedimental, com a oitiva do Ministério Público após a decisão que decretou a prisão, pode suprir eventual ilegalidade no procedimento adotado.
+Desse modo, entendo que não cabe o deferimento liminar de relaxamento de prisão no presente habeas corpus.
+Pelo exposto, indefiro o pedido liminar de concessão de habeas corpus.
+À Secretaria para que remeta os autos ao seu Relator.
+Manaus, 20 de junho de 2021.
+Cláudio Roessing Relator
+Tais elementos afastam, à primeira vista, a plausibilidade jurídica do direito tido como violado, sobretudo em razão de a análise demandada pela tese defensiva- de que a prisão teria sido executada antes da expedição do mandado judicial - se mostrar incompatível com este momento processual, marcado pela cognição sumaríssima própria do pedido de superação da Súmula n. 691 do STF, em que se alega, necessariamente, a existência de teratologia.
+Com efeito, verifico que a inicial do writ não oferece elementos para concluir-se pela ocorrência da coação ilegal aventada, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Na mesma diretriz: HC n. 235.131/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 29/8/2013.
+Assim, inviável, na espécie, identificar-se ilegalidade manifesta no ato, fazendo a ressalva de que não preclui o exame mais acurado da matéria, em eventual impetração que venha a ser aforada já a partir da decisão colegiada do tribunal competente.
+IV. Dispositivo
+À vista do exposto, indefiro liminarmente este habeas corpus, com fulcro na Súmula n. 691 do STF e no art. 210 do RISTJ.
+Publique-se. Intimem-se.
