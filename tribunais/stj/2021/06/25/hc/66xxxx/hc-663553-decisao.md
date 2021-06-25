@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em face de acórdão assim ementado (fl. 9):
+HABEAS CORPUS com pedido liminar. Suposta prática furto qualificado, dano ao patrimônio e associação criminosa. Pleito para restabelecimento do acordo de não persecução penal. Inadmissibilidade por não se tratar de direito subjetivo do réu. Ministério Público deve observar se as condições são suficientes para reprovação e repressão do crime. Não cumprimento de todos os requisitos estabelecidos no art. 28-A do CPP. Prisão preventiva fundamentada. Presentes, portanto, os requisitos do art. 312 do CPP, estando, ainda, presentes os critérios de admissibilidade contidos no art. 313,incisos I e II, do mesmo diploma. Decreto mantido. Constrangimento ilegal não configurado. Ordem denegada.
+Extrai-se da impetração que o paciente foi denunciado pelo crime de furto qualificado, bem como pelo de crime de dano ao patrimônio.
+É informado que, apesar da acusação ter ofertado ao paciente acordo de não persecução criminal, e do último tê-lo aceitado, o Ministério Público voltou atrás e ofereceu a denúncia.
+Irresignada, a defesa interpôs recurso para o Procurador-Geral de Justiça do Estado, no intuito de que fosse celebrado o ANPP, restando desprovido, tendo, em seguida, o juízo de piso mantido a prisão preventiva do paciente.
+Daí o presente writ, no qual sustenta, em síntese, ausência de fundamentação idônea do decreto, o qual teria se baseado na gravidade em abstrato dos delitos, bem como na ausência de contemporaneidade e desproporcionalidade da prisão.
+Frisa a primariedade do paciente e o fato dos delitos terem sido praticados sem violência ou grave ameaça. Entende serem cabíveis medidas cautelares diversas.
+Requer, liminarmente e no mérito, que o paciente seja processado em liberdade.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal ofertou parecer, manifestando-se pela concessão da ordem.
+Na origem, processo n.1500277-43.2021.8.26.0571, encontra-se ainformação de petição juntada após manifestação do Ministério Público sobre a necessidade ou não da manutenção da prisão, conforme informações processuais eletrônicas extraídas dositedo Tribunala quoem 21/6/2021.
+De início, a tese referente à ausência de contemporaneidade da prisão não foi examinada pelo Tribunal de piso, o que inviabiliza o conhecimento da matéria por esta Corte superior, sob pena de indevida supressão de instância.
+Ainda, a desproporcionalidade do regime em que cumprida a prisão não pode ser aferida antes da dosimetria da pena pela sentença, não cabendo, na via eleita, a antecipação dessa análise. A esse respeito: AgRg no RHC 77.138/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/02/2017, DJe 10/02/2017 e HC 360.342/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016.
+No mais, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que manteve a prisão preventiva foi assim fundamentada (fl. 14):
+ .. .
+Conforme bem demonstrada na decisão de decretação da prisão preventiva Gustavo e Adilson ostentam maus antecedentes, notadamente em crimes patrimoniais. Ainda em relação ao denunciado Adilson Silva Júnior, o artigo 310, § 2º veda a concessão de liberdade provisória, eis que reincidente, conforme se vê da certidão de fls. 84/85.
+Outrossim, quanto ao denunciado Josimar, verifica-se pelos elementos apontados nos autos que supostamente teria sido o condutor do veículo que assegurava a fuga dos demais acusados, de modo que agiu ativamente para o sucesso da empreitada criminosa, inclusive colocando em risco a vida de policiais e eventuais pessoas que pudessem ser atingidas durante a fuga.
+ .. .
+Conforme já antecipado no exame do pleito de liminar, o decreto possui fundamentação que deve ser considerada idônea, evidenciadanas circunstâncias fáticas em que se deu o delito, pois, conforme descrito no decisum, quanto ao denunciado Josimar, verifica-se pelos elementos apontados nos autos que supostamente teria sido o condutor do veículo que assegurava a fuga dos demais acusados, de modo que agiu ativamente para o sucesso da empreitada criminosa, inclusive colocando em risco a vida de policiais e eventuais pessoas que pudessem ser atingidas durante a fuga.
+Esta Corte Superior entende majoritariamente que a tentativa de fuga no momento da abordagem policial, após a prática criminosa, inclusive com resistência física, perseguição em alta velocidade, e troca de tiros com agentes policiais, são circunstâncias fáticas que justificam a prisão preventiva. Conforme os seguintes precedentes: RHC 71.563/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 2/8/2016, DJe 9/8/2016; HC 398.318/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 17/8/2017, DJe 29/8/2017; HC 403.269/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 21/11/2017, DJe 1/12/2017; RHC 74.131/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/12/2016, DJe 01/02/2017.
+Ante o exposto, denego ohabeas corpus.
+Publique-se.
+Intimem-se.
