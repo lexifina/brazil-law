@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela Fazenda do Estado de São Paulo contra decisão assim ementada (fl. 835):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
+A embargante aponta erro material e omissão na decisão embargada, alegando que foram opostos, na origem, dois embargos de declaração, ambos devidamente julgados, mas apenas o acórdão referente aos segundos aclaratórios foi juntado aos presentes autos, "(..) gerando a falsa percepção de que o tribunal de origem teria sido omisso, por não enfrentar os argumentos trazidos pelo contribuinte nos embargos de declaração." (fl. 840). Anexa o acórdão faltante e o examina, no sentido de demonstrar que não se pode falar, no caso, em violação do art. 1022 do CPC/2015 e que deve ser negado provimento ao recurso especial do particular.
+Com impugnação.
+É o relatório. Decido.
+Inicialmente, registra-se que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2016.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão embargada deu provimento ao recurso especial da parte ex adversa por reconhecer ocorrida a ofensa ao art. 1022 do CPC/2015, tornando, deste modo, nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem se manifeste a respeito da questão relativa à suposta improcedência da glosa de créditos de que tratam os itens III.3 e IV.4 do auto de infração em decorrência de evidente afronta ao princípio da não-cumulatividade (arts. 155, §2º, inc. I, da CF/1988 e 19 e 20 da LC 87/1996).
+Nos presentes embargos, a parte interessada aponta erro material e omissão na decisão embargada, alegando que foram opostos, na origem, dois embargos de declaração, ambos devidamente julgados, mas apenas o acórdão referente aos segundos aclaratórios foi juntado aos presentes autos, "(..) gerando a falsa percepção de que o tribunal de origem teria sido omisso, por não enfrentar os argumentos trazidos pelo contribuinte nos embargos de declaração." (fl. 840). Anexa o acórdão faltante e o examina, no sentido de demonstrar que não se pode falar, no caso, em violação do art. 1022 do CPC/2015 e que deve ser negado provimento ao recurso especial do particular.
+Pois bem.
+De fato, a questão da incompletude dos autos foi observada nesta Corte Superior. Todavia, como verificado por esta relatoria,o colegiado bandeirante deixou de se manifestar sobre matéria relevante para a devida solução da controvérsia, apesar de instado a tanto quando da oposição dos primeiros embargos de declaração pela contribuinte. Nesse diapasão é que foi reconhecida a ofensa ao art. 1022 do CPC/2015, dando-se provimento ao recurso especial da empresa.
+Deste modo, tudo considerado, não há falar em qualquer dos vícios autorizadores apontados nos presentes embargos.
+Assim, evidencio não ter ocorrido insuficiência de fundamentação, falta de clareza ou erro material a ensejar integração ou esclarecimento do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS AUTORIZADORES DO ART. 1.022 DO CPC/2015. EMBARGOS REJEITADOS.
