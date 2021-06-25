@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE em face de decisão proferida pelo Tribunal de Justiça do Estado do Rio de Janeiro, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. Impugnação ao cumprimento de sentença. Prévio julgamento que reconheceu a inexigibilidade da cobrança efetuada pelo sistema de tarifa progressiva. Agravante que invoca a modificação superveniente da legislação e jurisprudência, com a pretensão de alterar a coisa julgada. Questão que foi expressamente debatida no feito matriz, motivo pelo qual houve controvérsia e pronunciamento judicial em torno do fato. Irresignação da concessionária agravante com o resultado do julgamento. Decisão interlocutória ordenando a intimação da agravante para comprovar o cumprimento da obrigação de fazer estabelecida no julgamento. Determinação que se ateve rigorosamente aos termos estabelecidos no Acórdão. Impossibilidade de modificação, sob pena de violação à coisa julgada. Execução de título judicial que não pode ser obstada na forma pretendida pela agravante. Formação da coisa julgada que inviabiliza a pretensão de rediscussão da lide, bem como a pretensão de rejulgamento da causa. Acerto da decisão interlocutória. RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, negaram provimento.
+Nas razões do recurso especial, interposto com base naalíneaa do permissivo constitucional, a recorrente aponta violação aos arts. 489, §1º e IV, e 1022, II, do CPC, ao argumento de falta de fundamentação do acórdão recorrido. Defende ausência de violação à coisa julgada, ausência de necessidade de intimação pessoal de seu presidente e possibilidade de redução da multa.
+A inadmissão do recurso especial se fez à consideração de que quanto à suposta violação aos arts. 489 e 1.022 do CPC, o acórdão recorrido se manifestou expressamente acerca dos temas necessários à integral solução da lide, não sendo legítimo confundir fundamentação deficiente com fundamentação sucinta, bem como a pretensão recursalenseja, necessariamente, incursão no suporte fático-probatório dos autos, inviável ante o óbice sumular nº 7/STJ.
+Nas razões de agravo, postula o processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+Decisão de redistribuição dos autos à fl. 310 (e-STJ).
+É o relatório.
+Passo a decidir.
+A pretensão não merece acolhida.
+Isso porque o presente agravo não pode ser conhecido, pois "compete ao agravante, em sede de agravo regimental, infirmar especificamente os fundamentos da decisão agravada, nos termos da Súmula 182/STJ, sendo insuficiente repetir as mesmas razões expendidas no recurso especial"(AgRg nos EREsp 443.065/PR, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 20/09/2010).
+Da leitura da decisão de inadmissibilidade observa-se que o Tribunal de origem concluiu que não houve a alegada violação aos arts. 489 e 1.022 do CPC e que incide na espécie oóbicedaSúmula nº7 do STJ.
+Contudo, do exame do agravo interposto, observa-se que a agravante furtou-se de impugnar especificamente o primeiro fundamento de inadmissibilidade - ausência de violação ao artigo 1.022 do CPC/2015, limitando-se a repetir as razões expendidas em seu apelo especial.
+Saliente-se que " ..  o agravante deve demonstrar o desacerto da decisão denegatória, sendo certo que arepetição das razõesde recursos anteriores é ineficaz para tal fim  .. " (AgRg nos EDcl no AREsp n. 718.211/MG, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 24/5/2016, DJe 1º/6/2016).
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária aimpugnaçãoespecífica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, porausênciade cumprimento dos requisitos exigidos nos artigos 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015, segundo o qual não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada.
+Assim, o agravo em recurso especial carece de fundamentação, não se conhecendo do agravo que desenvolve a mesma tese desenvolvida nas razões do recurso especial ou que não tenha atacado específica e suficientemente os fundamentos da decisão de inadmissibilidade.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PROVAS. REEXAME INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Decisão que nega seguimento a recurso especial invocando a incidência da Súmula nº 7/STJ. Fundamento inatacado. Repetição das razões do recurso especial. Nas razões do agravo regimental, devem ser expressamente impugnados os fundamentos lançados na decisão hostilizada. Incidência da Súmula 182 do Superior Tribunal de Justiça.
+ ..
+3. Agravo regimental não provido.
+(AgRg no REsp 688.656/MG, Rel. Min. RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 07/02/2012)
+Ademais, é dever do agravante demonstrar o desacerto do magistrado ao fundamentar a decisão impugnada, atacando especificamente e em sua totalidade o seu conteúdo, o que não ocorreu na espécie, uma vez que as razões apresentadas contra um dos fundamentos da decisão de inadmissibilidade do recurso especial têm conteúdo genérico e repetiu literalmenteas razões do recurso especial, sem impugnar o referido fundamento.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. REPETIÇÃO DE FUNDAMENTOS DO RECURSO ESPECIAL. PRECEDENTES. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
