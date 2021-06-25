@@ -1,0 +1,38 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 2.º, INCISO II, DA LEI N. 8.137/1990. PLEITO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE APENAS PELA PENA DE MULTA. IMPOSSIBILIDADE. SÚMULA N. 171/STJ. AGRAVO DESPROVIDO.
+1. O Tribunal local, ao negar o pedido de substituição da pena privativa de liberdade apenas pela pena de multa, não divergiu da orientação desta Corte Superior, pois aplicou, na hipótese, a intelecção do entendimento consolidado no Verbete Sumular n. 171 deste Superior Tribunal de Justiça, in verbis: "Cominadas cumulativamente, em lei especial, penas privativa de liberdade e pecuniária, é defeso a substituição da prisão por multa.".
+2. Não se mostra socialmente recomendável a aplicação de uma nova pena de multa, em caráter substitutivo, no caso de o preceito secundário do tipo penal possuir previsão de multa com a pena privativa de liberdade, devendo-se privilegiar a incidência de outras medidas restritivas de direitos nessa hipótese.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por SANDRO TOBIAS contra decisão de minha lavra, assim ementada (fl. 336):
+"HABEAS CORPUS. ART. 2.º, INCISO II, DA LEI N. 8.137/1990. PLEITO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE APENAS PELA PENA DE MULTA. IMPOSSIBILIDADE. SÚMULA N. 171/STJ. ORDEM DENEGADA."
+Nas razões deste recurso, o Agravante reitera, em síntese, que não foi apresentada fundamentação idônea para a substituição da pena privativa de liberdade por uma pena restritiva de direitos e, por isso, deve ser substituída por pena de multa - opção mais favorável.
+Pede, desse modo, a reconsideração da decisão impugnada ou a apreciação do feito pelo Órgão Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 2.º, INCISO II, DA LEI N. 8.137/1990. PLEITO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE APENAS PELA PENA DE MULTA. IMPOSSIBILIDADE. SÚMULA N. 171/STJ. AGRAVO DESPROVIDO.
+1. O Tribunal local, ao negar o pedido de substituição da pena privativa de liberdade apenas pela pena de multa, não divergiu da orientação desta Corte Superior, pois aplicou, na hipótese, a intelecção do entendimento consolidado no Verbete Sumular n. 171 deste Superior Tribunal de Justiça, in verbis: "Cominadas cumulativamente, em lei especial, penas privativa de liberdade e pecuniária, é defeso a substituição da prisão por multa.".
+2. Não se mostra socialmente recomendável a aplicação de uma nova pena de multa, em caráter substitutivo, no caso de o preceito secundário do tipo penal possuir previsão de multa com a pena privativa de liberdade, devendo-se privilegiar a incidência de outras medidas restritivas de direitos nessa hipótese.
+3. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+O Tribunal de origem afastou a tese defensiva com os seguintes argumentos (fls. 327-328):
+"Por fim, no que se refere ao pedido de adequação da substituição da pena corporal por multa (CP, art. 44, § 2º), não há como submeter a escolha da pena alternativa à simples vontade do insurgente, pois tal penalidade, que, na verdade, constitui benefício por substituir a pena corporal, insere-se no critério subjetivo do Magistrado, em seu âmbito de discricionariedade
+ ..
+Aliás, a defesa não demonstrou a impossibilidade de cumprimento ou a desproporcionalidade da reprimenda restritiva imposta, o que não afasta a possibilidade de readequação no juízo de execução, desde que amparada por legítima justificativa, ocasião em que se poderá averiguar as reais possibilidades do apelante quanto ao cumprimento da medida aplica."
+Como se vê, o Tribunal local, ao negar o pedido de substituição da pena privativa de liberdade apenas pela pena de multa, não divergiu da orientação desta Corte Superior, pois aplicou, na hipótese, a intelecção do entendimento consolidado no Verbete Sumular n. 171 deste Superior Tribunal de Justiça, in verbis: "Cominadas cumulativamente, em lei especial, penas privativa de liberdade e pecuniária, é defeso a substituição da prisão por multa."
+Ademais, não se mostra socialmente recomendável a aplicação de uma nova pena de multa, em caráter substitutivo, no caso de o preceito secundário do tipo penal possuir previsão de multa com a pena privativa de liberdade, devendo-se privilegiar a incidência de outras medidas restritivas de direitos nessa hipótese.
+A propósito:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE TRÂNSITO. EMBRIAGUEZ AO VOLANTE. ART. 306, CAPUT, DA LEI N. 9.503/1997. PLEITO DE SUBSTITUIÇÃO DA PENA RESTRITIVA DE DIREITO DE PRESTAÇÃO DE SERVIÇOS À COMUNIDADE POR PENA PECUNIÁRIA. IMPOSSIBILIDADE. SÚMULA 171/STJ. INCIDÊNCIA. PREVISÃO EXPRESSA DO ART. 312-A DO CÓDIGO DE TRÂNSITO BRASILEIRO. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - Na hipótese, o agravante foi condenado como incurso nas sanções do art. 306, do Código de Trânsito Brasileiro, que prevê, em seu preceito secundário, a cominação de pena de detenção, de 6 (seis) meses a 3 (três) anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor, substituída a pena corporal por prestação de serviços à comunidade.
+II - Não se vislumbra constrangimento ilegal na espécie, uma vez que o v. acórdão vergastado está em consonância com a orientação jurisprudencial desta Corte de Justiça, segundo a qual "se ao tipo penal é cominada pena de multa cumulativa com a pena privativa de liberdade substituída, não se mostra socialmente recomendável a aplicação da multa substitutiva prevista no art. 44, § 2º, 2ª parte do Código Penal" (AgRg no HC n. 415.618/SC, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 04/06/2018).
+III - Tal matéria encontra-se, inclusive, sumulada, conforme se depreende do enunciado sumular nº 171 desta Corte Superior,in verbis: "Cominadas cumulativamente, em Lei Especial, penas privativa de liberdade e pecuniária, é defeso a substituição da prisão por multa.". Precedentes.
+IV - Acrescente-se, por oportuno, que a escolha da pena restritiva de direitos, nos termos do art. 44, § 2º, do Código Penal, está afeita ao juízo de discricionariedade do juízo, não se vislumbrando, na hipótese, desproporcionalidade ou flagrante ilegalidade capaz de ensejar sua revisão por esta Corte.
+V - Em complemento, ressalte-se que para o crime previsto no art. 306 da Lei n. 9.503/1997 (Código de Trânsito Brasileiro), nos casos de substituição de pena privativa de liberdade, a pena restritiva de direitos deverá ser, obrigatoriamente de prestação de serviços à comunidade, por determinação expressa do dispositivo legal contido no seu art. 312-A. Precedentes.
+VI - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes. Agravo regimental desprovido." (AgRg no HC 622.369/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/12/2020, DJe 18/12/2020.)
+Na ausência de argumento apto a infirmar as razões consideradas no julgado agravado, deve ser mantida a decisão impugnada por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
