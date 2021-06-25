@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 579/582) interposto contra decisão da Presidência do STJ (e-STJ fls. 575/576) que não conheceu do agravo nos próprios autos.
+Em suas razões, a parte afirma a tempestividade do recurso, sob o fundamento de que o prazo deve ser contado da intimação eletrônica.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Foram apresentadas contrarrazões (e-STJ fls. 586/634).
+É o relatório.
+Decido.
+A parte alega a tempestividade, sob o fundamento de que a contagem do prazo recursal deve considerar a intimação eletrônica, e não a publicação no Diário da Justiça.
+A Corte Especial do STJ, no julgamento dos EAREsp n. 1.663.952/RJ (Relator Ministro RAUL ARAÚJO, julgado em 19/5/2021, DJe 9/6/2021), firmou precedente no sentido de que, ocorrendo publicação no Diário da Justiça e intimação eletrônica, o prazo processual é contado a partir da intimação eletrônica.
+Desse modo, nos termos do art. 927, V, do CPC2015, reconsidero a decisão agravada, proferida pela Presidência do STJ, e passo ao exame do recurso.
+A petição de agravo nos próprios autos impugnou adequadamente os fundamentos da monocrática do Tribunal de origem que inadmitiu o especial.
+O acórdão recorrido está assim ementado (e-STJ fl. 463):
+EMBARGOS DE DECLARAÇÃO.INTEMPESTIVIDADE. NÃO CONHECIMENTO.INTIMAÇÃO TÁCITA E INTIMAÇÃO NO DJe. Na esteira de entendimento do E. STJ, quando ocorrer a intimação tácita e a intimação no DJe, deve prevalecer a última, considerando que nos termos da legislação processual a publicação em Diário de Justiça eletrônico substitui qualquer outro meio de publicação oficial para quaisquer efeitos legais (Aglnt no AREsp 1054198IRJ). Impossibilidade de aplicação do artigo 933, parágrafo único, do CPCI2015, eis que a intempestividade é vício insanável.Embargos de declaração não conhecido, nos termos do voto do Desembargador Relator.
+Os embargos declaratórios foram rejeitados (e-STJ fls. 477/483).
+O recurso especial (e-STJ fls. 505/512), fundamentado no art. 105, inc. III, alínea"a", da CF, apontou ofensa aos arts. 4º, § 2º, e5º, § 3º, da Lei n. 11419/2006 e 219, 270, 272e 1.023 do CPC,argumentando com a "prevalência da intimação eletrônica sobre a realizada via Diário Oficial"(e-STJ fl. 507).
+Foram oferecidas contrarrazões (e-STJ fls. 526/536).
+Conforme destacado na reconsideração da monocrática da Presidência do STJ, aCorte Especial do STJ, no julgamento dos EAREsp n. 1.663.952/RJ, firmou precedente no sentido de que, ocorrendo publicação no Diário da Justiça e intimação eletrônica, o prazo processual é contado a partir da intimação eletrônica. Confira-se a ementa do julgado:
+DIREITO PROCESSUAL. EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. PROCESSO JUDICIAL ELETRÔNICO. DUPLICIDADE DE INTIMAÇÕES: PUBLICAÇÃO NO DIÁRIO DA JUSTIÇA ELETRÔNICO E POR PORTAL ELETRÔNICO (LEI 11.419/2006, ARTS. 4º E 5º). PREVALÊNCIA DA INTIMAÇÃO PELO PORTAL ELETRÔNICO. RECURSO CONHECIDO E PROVIDO.
+1. A Lei 11.419/2006 - Lei do Processo Judicial Eletrônico - prevê dois tipos de intimações criados para atender à evolução do sistema de informatização dos processos judiciais. A primeira intimação, tratada no art. 4º, de caráter geral, é realizada por publicação no Diário da Justiça Eletrônico; e a segunda, referida no art. 5º, de índole especial, é feita pelo Portal Eletrônico, no qual os advogados previamente se cadastram nos sistemas eletrônicos dos Tribunais para receber a comunicação dos atos processuais.
+2. Embora não haja antinomia entre as duas formas de intimação previstas na Lei, ambas aptas a ensejar a válida intimação das partes e de seus advogados, não se pode perder de vista que, caso aconteçam em duplicidade e em diferentes datas, deve ser garantida aos intimados a previsibilidade e segurança objetivas acerca de qual delas deve prevalecer, evitando-se confusão e incerteza na contagem dos prazos processuais peremptórios.
+3. Assim, há de prevalecer a intimação prevista no art. 5º da Lei do Processo Eletrônico, à qual o § 6º do art. 5º atribui status de intimação pessoal, por ser forma especial sobre a genérica, privilegiando-se a boa-fé processual e a confiança dos operadores jurídicos nos sistemas informatizados de processo eletrônico, bem como garantindo-se a credibilidade e eficiência desses sistemas.
+Caso preponderasse a intimação por forma geral sobre a de feitio especial, quando aquela fosse primeiramente publicada, é evidente que o advogado cadastrado perderia o prazo para falar nos autos ou praticar o ato, pois, confiando no sistema, aguardaria aquela intimação específica posterior.
+4. Embargos de divergência conhecidos e providos, afastando-se a intempestividade do recurso especial.
+(EAREsp n. 1.663.952/RJ, Relator Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 19/5/2021, DJe 9/6/2021.)
+Desse modo, o acórdão recorrido merece reforma, a fim de adequar o exame da tempestividade dos embargos de declaração ao entendimento firmado nosEAREsp n. 1.663.952/RJ.
+Diante do exposto, DOU PROVIMENTO ao agravo interno para CONHECER do agravo nos próprios autos, a fim de DAR PROVIMENTO ao recurso especial para anular os acórdãos de fls.462/465 e 477/493 (e-STJ), devendo a Corte de origem reexaminar a tempestividade da primeira petição de embargos de declaração(e-STJ fls. 456/457) à luz do entendimento firmado nosEAREsp n. 1.663.952/RJ.
+Publique-se e intimem-se.
