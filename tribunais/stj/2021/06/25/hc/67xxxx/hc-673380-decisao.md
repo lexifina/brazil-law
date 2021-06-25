@@ -1,0 +1,23 @@
+DECISÃO
+SIDNEY LOPES DE OLIVEIRAalega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, na Apelação Criminal n. 0000322-60.2016.8.26.0357.
+Neste writ, a defesa pretende a substituição do concurso material pela continuidade delitiva, por entender que o paciente preenche os requisitos subjetivo e objetivo para a incidência de tal regra entre os furtos pelos quais foi condenado.
+Indeferida a liminar e dispensadas as informações, veio o parecer do Ministério Público Federal, que opinou pelo não conhecimento do habeas corpus ou pela denegação da ordem (fls. 545-552).
+Decido.
+Com efeito, há continuidade delitiva, a teor do art. 71 do CP, quando o agente, mediante mais de uma ação ou omissão, pratica crimes da mesma espécie e, em razão das condições de tempo, lugar, maneira de execução e outras semelhantes, devam os delitos seguintes ser considerados continuação do primeiro.
+Ademais: "Conforme a jurisprudência deste Superior Tribunal, no tocante ao crime continuado, exige-se, como requisito de ordem subjetiva, o dolo global ou unitário entre os crimes parcelares, isto é, para ficar caracterizada a continuidade delitiva, além dos requisitos objetivos, é necessária a demonstração da unidade de desígnios" (AgRg no REsp n. 1.753.472/SP, Rel. MinistraLaurita Vaz, 6ª T., DJe 25/4/2019).
+No caso concreto, o Juiz de primeiro grau afastou a continuidade delitiva, pois entendeu que "os locais em que ocorreram os furtos (Cuiabá Paulista, Bairro Bessarábia, Bairro Santo Antônio e Bairro Marco II) não guardam proximidade espacial, apesar da proximidade temporal entre os delitos" (fl. 30, grifei).
+A Corte estadual manteve os termos da sentença e registrou que "fica mantido o concurso material, tratando-se de delitos praticados com desígnios autônomos, em locais distintos, possuindo vítimas diferentes, havendo apenas mera aproximação temporal" (fl. 44, destaquei).
+Urge consignar, novamente, que " o  Superior Tribunal de Justiça entende que, para a caracterização da continuidade delitiva (art. 71 do Código Penal), é necessário que estejam preenchidos, cumulativamente, os requisitos de ordem objetiva (pluralidade de ações, mesmas condições de tempo, lugar e modo de execução) e o de ordem subjetiva, assim entendido como a unidade de desígnios ou o vínculo subjetivo havido entre os eventos delituosos" (REsp n. 1.602.771/MG, Rel. MinistroRogerio Schietti Cruz, 6ª T., DJe 27/10/2017).
+E, na hipótese, além de não haverem sido preenchidos os requisitos objetivo e subjetivo,as instâncias antecedentes tambémconcluíram que o paciente fez da prática criminosa uma habitualidade e que os crimes foram perpetrados com desígnios autônomos, motivação que também impede a aplicação do art. 71, parágrafo único, do CP.
+Mutatis mutandis:
+ ..
+1. De acordo com a Teoria Mista, adotada pelo Código Penal, mostra-se imprescindível, para a aplicação da regra do crime continuado, o preenchimento de requisitos não apenas de ordem objetiva - mesmas condições de tempo, lugar e forma de execução - como também de ordem subjetiva - unidade de desígnios ou vínculo subjetivo entre os eventos.
+2.Indeferido o pedido de unificação das penas por não haverliame lógico entre os delitos, mas sim a habitualidade delitiva, a pretensão de reconhecimento do crime continuado implicaa revisão do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+3. Agravo regimental improvido (AgInt no AREsp n. 898.845/ES, Rel. MinistroNefi Cordeiro, 6ª T., DJe 16/12/2016, sublinhei).
+ ..
+1. Este Superior Tribunal firmou o entendimento de que, para o reconhecimento e a aplicação do instituto do crime continuado, é necessário que estejam preenchidos, cumulativamente, os requisitos de ordem objetiva (pluralidade de ações, mesmas condições de tempo, lugar e modo de execução) e o de ordem subjetiva, assim entendido como a unidade de desígnios ou o vínculo subjetivo havido entre os eventos delituosos. Vale dizer, adotou-se a Teoria Mista ou Objetivo-subjetiva.
+2.O Tribunal de origem afastou a existência de continuidadedelitiva entre os delitos de roubo praticados pelo paciente,haja vista a ausência de liame subjetivo entre os diversos delitos.
+3. Habeas corpus não conhecido (HC n. 222.225/SP, Rel. MinistroRogerio Schietti Cruz, 6ª T., DJe 31/3/2016).
+Assim, para se infirmar a interpretação apresentada pelo Tribunala quoacerca dos requisitos para caracterização da continuidade delitiva, de forma a possibilitar conclusão diversa da exarada no acórdão vergastado, demandadilação probatóriaou reexame dos fatos, o que evidencia aimpossibilidade de este Superior Tribunal apreciar o pedido formulado nowrit.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
