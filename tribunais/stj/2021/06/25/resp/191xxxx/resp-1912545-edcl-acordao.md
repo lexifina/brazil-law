@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino (Presidente), Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÕES. INEXISTÊNCIA. REDISCUSSÃO DE MATÉRIAS JÁ DECIDIDAS. IMPOSSIBILIDADE.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por LUIZ INÁCIO LULA DA SILVA contra o acórdão que negou provimento ao agravo interno que interpusera, conforme a seguinte ementa:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. AUSÊNCIA DE EXERCÍCIO ABUSIVO DO DIREITO DE IMPRENSA. DEVER DE VERACIDADE. OBSERVÂNCIA. DANOS MORAIS. INOCORRÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se alfar em violação dos arts. 489 e 1.022 do CPC/2015.
+2. O direito à liberdade de imprensa não é absoluto, devendo sempre ser alicerçado na ética e na boa-fé, sob pena de caracterizar-se abusivo.
+3. A jurisprudência desta Corte Superior é consolidada no sentido de que a atividade da imprensa deve pautar-se em três pilares, quais sejam: (i) dever de veracidade, (ii) dever de pertinência e (iii) dever geral de cuidado. Se esses deveres não forem observados e disso resultar ofensa a direito da personalidade da pessoa objeto da comunicação, surgirá para o ofendido o direito de ser reparado.
+4. A proteção aos direitos da personalidade é assegurada a todos os indivíduos. É certo, no entanto, que a esfera de proteção dos direitos da personalidade de pessoas públicas ou notórias é reduzida. Especialmente com relação aos representantes do povo, a redução da salvaguarda se justifica à medida em que são responsáveis pela gestão da coisa pública. A transparência de certas condutas tem especial relevância no regime democrático, porquanto viabiliza o controle e a fiscalização pelo povo. É verdade que se o fato for eminentemente relacionado à vida privada, não guardando qualquer pertinência com o desempenho da atividade pública, estará ausente o interesse público a justificar a sua divulgação pela imprensa.
+5. Na hipótese dos autos, a Corte a quo, soberana no exame do acervo fático-probatório, constatou que os artigos jornalísticos não propagaram informações falsas acerca da pessoa do recorrente, mas apenas veicularam dados extraídos de delação premiada e da atuação do Procurador-Geral da República, à época, no âmbito da operação Lava-Jato. Aferiu-se, ademais, a existência de interesse público nos fatos noticiados, bem como a ausência de violação aos direitos da personalidade do recorrente.
+6. Assim, o aresto impugnado está em harmonia com a jurisprudência desta Corte Superior acerca da matéria. Ademais, a alteração da conclusão alcançada pelo Tribunal local demandaria o incurso em matéria fático-probatório, o que é vedado em sede de recurso especial ante o óbice da Súmula 7 do STJ.
+7. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas. Somado a isso, a incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido.
+8. Agravo interno no recurso especial desprovido.
+Nas razões, argumenta que o acórdão embargado contém omissões, pois foi desconsiderada a base empírica transcrita no recurso especial e bem delineada pelo Tribunal de Apelação, o que, aduz, afasta a necessidade de reexame do acervo probatório. Sustenta, ainda, que foi realizado o cotejo analítico, de modo que restou demonstrada a similitude fática entre os acórdãos confrontados e a divergência jurisprudencial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÕES. INEXISTÊNCIA. REDISCUSSÃO DE MATÉRIAS JÁ DECIDIDAS. IMPOSSIBILIDADE.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Embargos de declaração rejeitados.
+VOTO
+O embargante não aponta verdadeiras omissões, contradições ou obscuridades no acórdão que justifiquem esclarecimento. Ao contrário, veicula inconformismo com a conclusão alcançada por esta Turma.
+Relembre-se que, nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material, situações que não se mostram presentes na presente hipótese.
+Com efeito, esta Corte expressamente transcreveu excerto do acórdão prolatado pelo Tribunal estadual e consignou no acórdão a incidência da Súmula 7/STJ à hipótese. Não há, assim, qualquer omissão quanto ao ponto.
+No que concerne ao dissídio jurisprudencial, diversamente do que afirma o embargante, verificou-se que "Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência" (e-STJ, fl. 664). Não só, registrou-se que:
+Não bastasse isso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, também impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp n. 821.337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp n. 964.391/SP, Terceira Turma, DJe de 21/11/2016. (e-STJ, fl. 664)
+Nessa linha, os embargos de declaração não constituem via apropriada para a rediscussão acerca de eventual divergência jurisprudencial.
+Forte nessas razões, REJEITO os embargos de declaração.
