@@ -1,0 +1,31 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DE AGRAVO REGIMENTAL CONTRA ACÓRDÃO. NÃO CABIMENTO MANIFESTO. ERRO GROSSEIRO. PRAZO PROCESSUAL. NÃO INTERRUPÇÃO.INTEMPESTIVIDADE DO RECURSO ESPECIAL. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Agrava-se de decisão que inadmitiu o recurso especial interposto porANDREA APARECIDA GONCALVES DE OLIVEIRA, com fundamento no art. 105, inciso III, alíneaa, da CF/1988, no qual se insurge contra acórdão proferido pelo TRF da 3ª Região, assim ementado:
+PREVIDÊNCIA SOCIAL. APOSENTADORIA POR INVALIDEZ OU AUXÍLIO-DOENÇA. SENTENÇA CONCESSIVA DE AUXÍLIO-DOENÇA. REMESSA OFICIAL NÃO CONHECIDA. APELAÇÃO DO INSS. INCAPACIDADE TOTAL E TEMPORÁRIA. AUSÊNCIA DA QUALIDADE DE SEGURADO(A). APELAÇÃO DO INSS PROVIDA.
+I - Considerando que o valor da condenação ou proveito econômico não ultrapassa 1.000 (mil) salários mínimos na data da sentença, conforme art. 496, § 3º, I, do CPC/2015, não conheço da remessa oficial.
+II - Para a concessão da aposentadoria por invalidez é necessário comprovar a condição de segurado(a), o cumprimento da carência, salvo quando dispensada, e a incapacidade total e permanente para o trabalho. O auxílio-doença tem os mesmos requisitos, ressalvando-se a incapacidade, que deve ser total e temporária para a atividade habitualmente exercida.
+III - Comprovada incapacidade total e temporária.
+IV - Requerimento administrativo realizado quando a parte autora não mantinha qualidade de segurado(a). Não comprovação da existência de incapacidade em momento anterior.
+V - A documentação carreada aos autos e o relatado no laudo pericial não permite a retroação da data de início da incapacidade laborativa, sendo imperiosa a decretação da perda da qualidade de segurado(a).
+VI - Honorários advocatícios fixados nos termos do § 8º do art. 85 do CPC/2015,observados os §§ 2º e 3º do art. 98 do mesmo diploma legal.
+VII - Remessa oficial não conhecida e apelação do INSS provida.(fls. 260/269).
+2. Nasrazões do seurecurso especial (fls. 324/332), a parte agravante sustenta violação dosarts.15, II, §1º, 24, 42, § 2º, e 59 da Lei 8.213/1991,156, 464 a 480 e 489, §1º, I eIV, do CPC/2015, argumentando, para tanto, ter preenchido todos os requisitos para concessão da aposentadoria por invalidez, conforme laudo pericial, o qual foi afastado pelo acórdão recorrido sem fundamentação legal.
+3. Devidamente intimada (fls. 334), a parte agravadadeixou de apresentar contrarrazões (fls. 351).
+4. Sobreveio o juízo de admissibilidade negativo(fls. 336/338),fundadona incidência da Súmula 7/STJ,razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+5. É o relatório.
+6. A irresignação não merece prosperar.
+7. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+8. Na presente hipótese, o Tribunal de origem deu provimento à apelação interposta pelo INSS para julgar improcedente o pedido inicial.
+9. Irresignada, a parte interpôs, contra o acórdão (fls. 260/265),agravo interno, não conhecido, diante do erro grosseiro no manejo do recurso, incabível para atacar pronunciamentos judiciais colegiados, como foi o caso (fls. 321/323).E assim, após a publicação desse segundo julgado, a parte interpôs o presente recurso especial.
+10. A jurisprudência deste egrégio Superior Tribunal de Justiçaé firme no sentido de que os recursos manifestamente incabíveis não são capazes de interromper ou suspender o prazo para interposição do recurso próprio. A propósito, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL CONTRA ACÓRDÃO DA CORTE ESPECIAL. INVIABILIDADE.RECURSO MANIFESTAMENTE INCABÍVEL. CERTIFICAÇÃO DO TRÂNSITO EM JULGADO.
+1. Não se revela cabível agravo interno/regimental contra decisão colegiada, conforme o teor dos arts. 258 e 259 do Regimento Interno do Superior Tribunal de Justiça.
+2. O recurso manifestamente incabível ou intempestivo não suspende ou interrompe o prazo para interposição de outro recurso.Precedentes: ARE 813.750 AgR, Relatora Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 28/10/2016, publicado em 22/11/2016; ARE 823.947 ED, Relator Min. EDSON FACHIN, Primeira Turma, julgado em 15/12/2015, publicado em 19/2/2016; ARE 819.651 ED, Relator Min.LUIZ FUX, Primeira Turma, julgado em 9/9/2014, publicado em 10/10/2014.Agravo regimental não conhecido com determinação de certificação do trânsito em julgado(AgRg no AgRg no RE nos EDcl no AgRg nos EAREsp 822.343/MG, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 15/08/2018, DJe 22/08/2018).
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. RECURSO MANIFESTAMENTE INCABÍVEL NÃO SUSPENDE PRAZO. INTEMPESTIVIDADE DO RECURSO ESPECIAL.
+1. O recurso manifestamente incabível, como agravo regimental, que no caso dos autos foi interposto contra decisão colegiada, não suspende ou interrompe o prazo para a interposição do recurso especial.
+2. Na hipótese dos autos, observa-se a intempestividade do apelo nobre, interposto em 06/11/14, quando já escoado o prazo recursal de 15 dias contados da publicação do acórdão recorrido, ocorrida em 30/06/14 (fl. 143).
+3. Agravo interno a que se nega provimento(AgInt no AREsp 1040292/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/06/2017, DJe 19/06/2017).
+11. Assim, deve ser reconhecida a intempestividade do recurso especial, interposto somente em 27/01/2020, quando já transcorrido o prazo de 15 (quinze) dias úteis, contados da publicação do acórdão recorrido, ocorrida em 15/07/2019 (fls. 352).
+12. Ante o exposto, conheço do agravo para não conhecer do recurso especial da particular.
+13. Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+14.  Publique-se.  Intimações  necessárias.
