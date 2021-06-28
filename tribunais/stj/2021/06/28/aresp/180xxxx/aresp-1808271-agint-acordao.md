@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. IMUNIDADE TRIBUTÁRIA. SÚMULA 730 DO STF. SÚMULA 284/STF. APLICAÇÃO.
+1. Trata-se de Agravo Interno contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do Agravo em Recurso Especial por incidência da Súmula 284/STJ.
+2. Pretendeu a parte o reconhecimento da imunidade prevista no art. 150 VI, "c", da Constituição Federal com os requisitos expressos no art. 14, I, II, III, do CTN. Todavia, a Sentença julgou improcedente o pedido entendendo que "a atividade desenvolvida pelas requerentes tem por escopo beneficiar somente os empregados e administradores das organizações que as patrocina, não se equiparando às instituições de assistência social, de modo que impertinente o pedido formulado na inicial".
+3. Considera-se deficiente a fundamentação recursal amparada em alegada violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo apto a amparar a tese defendida no Recurso Especial, incidindo o óbice da Súmula 284 do STF.
+4. Para alterar o entendimento firmado pela instância de origem (conforme a Súmula 730/STF) de que a Fundação Sanepar de Assistência Social "não faz jus à imunidade tributária, pois não exerce atividade de assistência social, tampouco cumpre os requisitos previstos no artigo 14 do CTN", "por se tratar de entidade privada fechada de assistência à saúde e previdência social, contando com participação onerosa dos beneficiários para o seu custeio", seria imprescindível promover o reenfrentamento do acervo fático-probatório dos autos, providência vedada a este Superior Tribunal de Justiça ante o óbice da Súmula 7/STJ.
+5. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão da Presidência deste Superior Tribunal que não conheceu do Agravo em Recurso Especial por incidência da Súmula 284/STJ.
+Pretendeu a parte o reconhecimento da imunidade prevista no art. 150 VI, "c", da Constituição Federal com os requisitos expressos no art. 14, I, II, III, do CTN. Todavia, a Sentença julgou improcedente o pedido entendendo que "a atividade desenvolvida pelas requerentes tem por escopo beneficiar somente os empregados e administradores das organizações que as patrocina, não se equiparando às instituições de assistência social, de modo que impertinente o pedido formulado na inicial".
+O acórdão foi assim ementado (fls. 392-395, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA CUMULADA COM RESTITUIÇÃO DE INDÉBITO. ENTIDADE PRIVADA DE ASSISTÊNCIA SOCIAL E PREVIDÊNCIA COMPLEMENTAR. IMUNIDADE TRIBUTÁRIA (ART. 150, VI, "C" DA CF). PREENCHIMENTO DOS REQUISITOS PREVISTOS NO ART. 14 DO CTN. IMPERTINÊNCIA. INVIABILIDADE DE EXTENSÃO DA IMUNIDADE EM DECORRÊNCIA DA PREVISÃO DE CONTRIBUIÇÃO ONEROSA DOS PARTICIPANTES PARA CUSTEIO DOS BENEFÍCIOS. APLICABILIDADE DA SÚMULA 730 DO STF. HONORÁRIOS RECURSAIS DEVIDOS. RECURSO NÃO PROVIDO.
+Os Embargos de Declaração foram desacolhidos. O Recurso Especial não foi admitido por incidência das Súmula 7 e 83/STJ.
+Combatendo a decisão presidencial, defendem as agravantes:
+Trata-se de Recurso Especial interposto com fundamento na contrariedade do v. acórdão a quo aos arts. 927 e 928, do Código de Processo Civil - CPC, art. 14, I, II e III, do Código Tributário Nacional - CTN e por divergência jurisprudencial, a fim de reconhecer à imunidade tributária da Fundação Sanepar de Assistência Social (Entidade de Autogestão em Saúde, sem fins lucrativos), em relação a 50% do IPTU do imóvel/indicação fiscal nº 11.071.008000-6.
+(..)
+Contudo, como se passa a demonstrar, a r. decisão ora agravada merece ser reformada, vez que todos os fundamentos da decisão que inadmitiu o recurso especial das ora Agravantes foram devidamente atacados no âmbito do seu agravo e houve, inclusive, a indicação clara e precisa do dispositivo de lei federal tido por violado no seu Recurso Especial (fls. 462, 463, 464 e 465), o que afasta a aplicação da Súmula 284/STF.
+(..)
+Neste sentido, ressalta-se que:
+(i) a imunidade tributária constante do art. 150, VI, "c", da Constituição Federal de 1988, de acordo com a jurisprudência desse Eg. Superior Tribunal de Justiça, depende da prova do preenchimento dos requisitos constantes do art. 14, do CTN, nada além disso. Tal dispositivo foi devidamente citado no seu Recurso Especial (fls. 462, 463, 464 e 465); e (ii) que no presente caso, o pedido de imunidade se restringe apenas à fração ideal (50%) que é de propriedade da Fundação Sanepar de Assistência Social (AUTOGESTÃO EM SAÚDE) e não a parte da Fundação Sanepar de Previdência Privada, tanto é que foram abertas duas contas judiciais para fins de depósito do montante incontroverso.
+Destaca-se, ainda, que as Agravantes colacionaram jurisprudência pacífica desse Eg. STJ, corroborando os seus fundamentos de que, nos casos em que a Corte de origem delineou os fatos envolvidos na discussão, a análise do direito aplicado não implica em aplicação da Súmula 7/STJ, vez que não se está diante de necessidade de reexame das provas.
+(..)
+Portanto, todos os fundamentos da r. decisão que inadmitiu o recurso especial das Agravantes foram devidamente combatidas no seu agravo.
+É o que se espera seja reconhecido, com a reforma do r. despacho agravado, afastando-se a aplicação da Súmula nº 284/STF in casu.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. IMUNIDADE TRIBUTÁRIA. SÚMULA 730 DO STF. SÚMULA 284/STF. APLICAÇÃO.
+1. Trata-se de Agravo Interno contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do Agravo em Recurso Especial por incidência da Súmula 284/STJ.
+2. Pretendeu a parte o reconhecimento da imunidade prevista no art. 150 VI, "c", da Constituição Federal com os requisitos expressos no art. 14, I, II, III, do CTN. Todavia, a Sentença julgou improcedente o pedido entendendo que "a atividade desenvolvida pelas requerentes tem por escopo beneficiar somente os empregados e administradores das organizações que as patrocina, não se equiparando às instituições de assistência social, de modo que impertinente o pedido formulado na inicial".
+3. Considera-se deficiente a fundamentação recursal amparada em alegada violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo apto a amparar a tese defendida no Recurso Especial, incidindo o óbice da Súmula 284 do STF.
+4. Para alterar o entendimento firmado pela instância de origem (conforme a Súmula 730/STF) de que a Fundação Sanepar de Assistência Social "não faz jus à imunidade tributária, pois não exerce atividade de assistência social, tampouco cumpre os requisitos previstos no artigo 14 do CTN", "por se tratar de entidade privada fechada de assistência à saúde e previdência social, contando com participação onerosa dos beneficiários para o seu custeio", seria imprescindível promover o reenfrentamento do acervo fático-probatório dos autos, providência vedada a este Superior Tribunal de Justiça ante o óbice da Súmula 7/STJ.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 26 de maio de 2021.
+A irresignação não merece acolhida. Considera-se deficiente a fundamentação recursal amparada em alegada violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo apto a amparar a tese defendida no Recurso Especial, incidindo o óbice da Súmula 284 do STF.
+Mesmo que assim não fosse, para alterar o entendimento firmado pela instância de origem (conforme a Súmula 730/STF) de que a Fundação Sanepar de Assistência Social "não faz jus à imunidade tributária, pois não exerce atividade de assistência social, tampouco cumpre os requisitos previstos no artigo 14 do CTN", "por se tratar de entidade privada fechada de assistência à saúde e previdência social, contando com participação onerosa dos beneficiários para o seu custeio", seria imprescindível promover o reenfrentamento do acervo fático-probatório dos autos, providência vedada a este egrégio Superior Tribunal de Justiça ante o óbice da Súmula 7/STJ.
+Por todo o exposto, nego provimento ao Agravo Interno.
+É como voto.
