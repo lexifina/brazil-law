@@ -1,0 +1,109 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Raul Araújo.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. AÇÃO DE COBRANÇA. COMISSÕES. TABELA DE REFERÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem o revolvimento do contexto fático-probatório dos autos e a interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+2. No caso concreto, o Tribunal de origem analisou a prova dos autos (laudo pericial), bem como o contrato celebrado entre as partes, para concluir que o pagamento das comissões ocorreu de forma indevida. Alterar tal conclusão é inviável em recurso especial.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 1.099/1.107) interposto contra decisão do Ministro Presidente desta Corte que conheceu do agravo para não conhecer do recurso especial.
+Em suas razões, a agravante afirma que não busca o reexame de provas nem a interpretação de cláusulas contratuais.
+Repisa ainda os argumentos do especial.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Sem contrarrazões (e-STJ fl. 1.111).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. AÇÃO DE COBRANÇA. COMISSÕES. TABELA DE REFERÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem o revolvimento do contexto fático-probatório dos autos e a interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+2. No caso concreto, o Tribunal de origem analisou a prova dos autos (laudo pericial), bem como o contrato celebrado entre as partes, para concluir que o pagamento das comissões ocorreu de forma indevida. Alterar tal conclusão é inviável em recurso especial.
+3. Agravo interno a que se nega provimento.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.835.134 - SC (2021/0035836-6)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+OI S.A. - EM RECUPERACAO JUDICIAL
+ADVOGADOS
+:
+WILSON SALES BELCHIOR - SC029708
+LEONARDO REIS DE OLIVEIRA - SC015986
+AMANDA KARINA TORRES - SC033636
+AGRAVADO
+:
+JOSENILDE CROZETA
+OUTRO NOME
+:
+TDF INFORMÁTICA LTDA
+ADVOGADOS
+:
+TATIANE BISOGNIN - RS060951
+MIRIANE MAZIERO - RS100296
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 1.089/1.095):
+Cuida-se de agravo apresentado por OI S.A. - EM RECUPERAÇÃO JUDICIAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÃO CÍVEL AÇÃO DE COBRANÇA SENTENÇA DE IMPROCEDÊNCIA CONTRATO DE AGÊNCIA INSURGÊNCIA DA PARTE AUTORA COMISSÕES RELATIVAS ÀS ATIVIDADES DESENVOLVIDAS E INADIMPLIDAS PARCIALMENTE OU EM SUA INTEGRALIDADE PROVA PERICIAL QUE DEMONSTROU A TESE REQUERIDA QUE NÃO COMPROVOU OS MOTIVOS QUE LEVARAM INADIMPLEMENTO DESCUMPRIMENTO DO ÔNUS QUE LHE CABIA ART 373 II DO CPC RECURSO PROVIDO NO PONTO PARA ACOLHER A PRETENSÃO CONDENATÓRIA PEDIDOS (1) DE DIFERENÇAS DE COMISSÕES EM RAZÃO DA ALTERAÇÃO INDEVIDA DA TABELA IDE REFERÊNCIA DECORRENTES CONTRATUAIS E (2) DE PERDAS E DANOS DECORRENTES DA ALTERAÇÃO DAS BASE CONTRATUAIS QUE OCASIONOU DESEQUILIBRIO ECONÔMICO FINANCEIRO SENTENÇA MANTIDA AUSÊNCIA DE PROVA POR PARTE DA AUTORA ALUSIVA À ALTERAÇÃO INDEVIDA DA TABELA E DA MODIFICAÇÃO DO PACTO QUE LEVOU AO DESEQUILÍBRIO FINANCEIRO INÉRCIA DA AUTORA MESMO DIANTE DA MARCHA PROCESSUAL QUE ASSEGUROU A AMPLA PRODUÇÃO DE PROVAS DANOS MORAIS DESCUMPRIMENTO CONTRATUAL QUE NÃO IMPLICA NECESSARIAMENTE EM DANOS À HONRA OBJETIVA AUSÊNCIA DE CONDUTA CAPAZ GERAR TAL ABALO 0 LUCROS CESSANTES AUSÊNCIA DE PROVA DO PREJUÍZO SOFRIDO INOBSTANTE A CONSTATAÇÃO DESCUMPRIMENTO CONTRATUAL ÔNUS PROBATÓRIO DA AUTORA NOVAMENTE DESCUMPRIDO INEXISTÊNCIA ENTÃO DE PREJUÍZO PATRIMONIAL FUTURO INDENIZAÇÃO DESCABIDA ÔNUS SUCUMBENCIAIS REDISTRIBUIÇÃO SUCUMBÊNCIA RECIPROCA NA PROPORÇÃO DE 34 DA AUTORA E 14 DA REQUERIDA HONORÁRIOS QUE SE COMPENSAM ENTRE SI ART 85 §14 DO C EXIGIBILIDADE SUSPENSA DOS ENCARGOS DE RESPONSABILIDADE DA AUTORA PORQUE BENEFICIÁRIA DA JUSTIÇA GRATUITA ART 98 §3º CPC HONORÁRIOS RECURSAIS NÃO MAJORAÇÃO APLICAÇÃO DA REGRA DO ART 85 §11 DO CPC E EPS PARÂMETROS DELINEADOS NO ED NO AI NO RESIE N 1.573.573/RJ DO STJ RECURSO CONHECIDO E PROVIDO EM PARTE.
+Quanto à controvérsia apresentada, pela alínea "a" do permissivo constitucional, alega violação do art. 373, I e II, do CPC, no que concerne à falta de comprovação das alegações da recorrida, trazendo os seguintes argumentos:
+A promovente limitou-se a requerer, de forma vaga e lacuriosa, o pagamento das parcelas referentes às comissões das atividades desempenhadas e não pagas, às diferenças de comissões causadas pela alteração da Tabela de Referência, à indenização por perda e danos e à imposição de lucros cessantes. Todavia, em nenhum momento a autora descriminou, precisamente, quais valores são, supostamente devidos.
+ALÉM DE NÃO DELIMITAR O FEITO E INDICAR OS VALORES E AS PARCELAS SUPOSTAMENTE DEVIDAS, A RECORRIDA NÃO ACOSTOU AOS AUTOS QUAISQUER DOCUMENTOS QUE ATESTASSEM A EXISTÊNCIA PARA DELIMITAR A SUA CONTABILIZAÇÃO.
+O fato de ser admitido o processamento do feito judicial, com pedido incerto e indeterminado e fundamentado em peça vestibular, sem qualquer documento apto, constitui um verdadeiro cerceamento de defesa, incorrendo no malferindo aos princípios do devido processo legal, da ampla defesa e do contraditório, pois destitui a possibilidade de questionar e rebater vastamente as alegações apresentadas pela autora.
+Em análise, a apelação interposta pela parte recorrida foi acolhida de forma mínima pelo TJ-SC, condenando a empresa recorrente ao pagamento da suposta diferença a titulo de comissão.
+Contudo, os demais pedidos da autora foram desprovidos sob o fundamento de que a autora não juntou provas suficientes para comprovar o alegado.
+ ..
+Ocorre que o entendimento quanto a ausência de provas deve ser aplicado também para o pedido referente as comissões.
+É fato incontroverso nos autos a variação no pagamento das comissões e remunerações previstas no contrato. Conforme destacado ao longo da lide, a comissão destinada aos agentes autoritários não.é paga sobre as vendas realizadas, mas sim sobre vendas efetivadas.
+O contrato é explicito ao determinar que o parceiro só receberá comissão caso as ordens de serviço sejam comprovadamente fidelizadas, bem como que todo desconto oferecido ao cliente é retirado do valor de comissionamento do parceiro, não restando dúvidas quanto à legalidade e legitimidade de tais atos.
+Logo, tem-se que o afirmado pelo Sr. Perito de que os pagamentos não seguiam um percentual fixo não os caracteriza como equivocados, já que não levou em consideração os outros fatores aqui apontados.
+Para receber a comissão deveria o promovente cumprir o estipulado no item 2.3 do Termo aditivo firmado, sendo certo que em caso de não cumprimento das exigências contratualmente previstas o estorno da comissão poderia ser realizado.
+A comissão a ser recebida estaria condicionada, portanto, a efetiva utilização/efetivação do serviço pelo cliente, pois, por lógico a contraprestação do contrato corresponde a sua própria produtividade. Ademais, como já apontando, a possibilidade de estorno dos valores é fato incontroverso nos autos.
+Não há dúvidas quanto à total validade de todas as cláusulas contratuais, as quais contaram na sua elaboração com a nítida aceitação da peculiaridade que os contratos de prestação de serviço de agente autorizado exigem, mormente quanto às formas de remuneração do contrato.
+ ..
+Verifica-se, portanto, que a recorrente cumpriu com seu ônus probatório explicitando o motivo da variação das comissões através do instrumento contratual firmado entre as partes à luz do princípio da autonomia da vontade das partes.
+Por outro lado, a parte autora/recorrida não se desincumbiu de seu ônus probatório. A inicial foi apresentada de forma totalmente genérica e a prova pericial realizada é totalmente inconclusiva, nada acrescentado ao deslinde da controvérsia.
+Em diversos pontos do Laudo Pericial incompleto e, diga-se, incompleto não por culpa do ilustre perito, mas sim pela precariedade da prova, consta-se a impossibilidade de ir além de respostas às indagações impertinentes da parte autora, isto porque esta não cumpriu seu múnus probatório, ou seja, não trouxe aos autos a documentação de suporte às suas alegações.
+Insubsistente, portanto, a afirmação genérica (sem demonstrar in concreto os valores devidos) da autora de que o posterior adimplemento por parte dos usuários inadimplente implicaria no ressurgimento de seu direito à percepção dos valores das comissões estornadas, tendo em vista que não há previsão contratual para tanto. (fls. 1029-1031).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia exposta, o Tribunal de origem se manifestou nos seguintes termos:
+No que diz respeito às comissões relativas às atividades desenvolvidas e inadimplidas, razão assiste à autora.
+Eis os termos da prova pericial:
+1- Diga o senhor perito se da análise das planilhas e contrato se contata uma mudança nos valores pagos (comissões) pelos serviços prestados durante a vigência do contrato.
+Resposta: De acordo com análise das planilhas de comissões pagas, trazidas as fls. 39/94, 100/109, 116/119 e fls. 133/156, verifica-se que houve variação percentual junto aos valores pagos a titulo de comissão, identificada pela perícia junto às colunas "VARIAÇÃO PERCENTUAL" dos ANEXOS I a IV, cujos percentuais oscilaram na casa de 0,214% a 96,324% de comissão paga.
+ ..
+2- Diga o senhor perito se a tabela de referência mencionada em contrato da cláusula 10.1 é seguida durante todo o período da contratação em exame. Caso não, aponte as datas de mudança bem como o novo parâmetro adotado para comissionamento.
+Resposta: Inicialmente cumpre informar que a cláusula 10.1 não especifica eventual tabela de referência.
+Caso o presente questionamento esteja se referindo a cláusula 1.1 de fls. 379, pode-se afirmar que a tabela mencionada naquela cláusula (tabela de fls. 394) aparentemente não foi seguida na forma descrita, pois os percentuais oscilam, todavia tal tabela de fls. 394 que refere-se aos percentuais de comissões a serem pagas trazem percentuais fixos. Portanto não.
+Para tal afirmação a perícia tratou de analisar as informações junto aos demonstrativos de fls. 38/119, no qual foram identificados junto à investigação técnica os percentuais de comissão pagos a cada venda realizada (produtos/serviços), conforme ANEXO I a IV do lado pericial, cujas datas, bem como o percentual praticado pela ré para comissionamento seguem devidamente descriminados em tais anexos.
+Por fim, informamos que perícia deixa de realizar eventuais comparativos sobre os percentuais pagos e os efetivamente devidos, bem como os valores em reais (R$) pelo motivo de que não há informações claras nas tabelas de comissões pagas trazidas às fls. 39/94, 100/109, 116/119 e fls. 133/145 sobre quais planos referem-se tais comissões a ser confrontado com a categoria de produto/serviços trazidos no anexo do contrato à fl. 394.
+ ..
+4- Diga o senhor perito, no caso contestação de pagamento (quando não há o pagamento da comissão ou pagamento a menor) suscitadas pela Demandante, se há elementos que apontem pagamento (por parte da Demandada) de comissões em desacordo com a Tabela Referência - cláusula 10.1 do contrato. Detalhar a quantidade e o somatório.
+Resposta: Como afirmado no "quesito 2" acima, restou notório para a perícia que tais percentuais de comissões pagas não foram cumpridas de forma regular, frisa-se, com base nos relatórios de fls. 39/94, 100/119, 116/119 e fls. 133/145, conforme se observa na apuração técnica realizada junto aos ANEXOS I a IV cujos percentuais pegas se mostram oscilantes.
+Desta feita pode-se afirmar que com base na investigação realizada junto aos ANEXOS I a IV verifica-se que á elementos que apontam pagamento de comissões em desacordo com a Tabela Referência: Portanto sim.
+ ..
+6- Diga o senhor perito se houve estorno de comissões em contratos que foram perfectibilizados e posteriormente rescindidos pela Demandada junto ao consumidor final ou vice-versa.
+Resposta: De acordo com análise dos relatórios de fls. 39/94, 100/109, 116/119 e 133/145, verifica-se que houveram em média 635 (seiscentos e trinta e cinco) estornos realizados para vendas de "PCC"s" e 39 (trinta e nove) para "ADSL"s", no qual seguem descriminados junto ao ANEXO Vê VI, respectivamente.
+Quanto aos eventuais motivos de tais estornos a perícia não pode afirmar sua razão, uma vez que os relatórios sob análise técnica não contemplam tais informações, mas tão somente de que houve eventuais devoluções.
+ ..
+8- Diga o senhor perito, com base nos serviços prestados pela Demandante e analisando os contratos firmados, se houve alterações posteriores ao contrato, de modo unilateral, firmadas pela Demandada.
+Resposta: De acordo com análise da cópia do "2º TERMO ADITIVO AO CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE AGENTE AUTORIZADO - MERCADO EMPRESARIAL - Nº 3300016185" juntados às fls. 396/398, devidamente assinado pelas partes, verifica-se que foram alteradas eventuais cláusulas contratuais.
+Ocorre que, quanto ao julgamento se houve unilateralidade ou não em tais alterações, este profissional se reserva a não emitir opinião uma vez que é vedado ao perito apresentar parecer que excedam ao exame técnico ou científico do objeto da perícia, conforme art. 473, §2º do CPC/2015.
+Houve complementação do trabalho pericial às fls. 830/831.
+Conforme descrito ao longo do trabalho técnico, mais especificamente ao responder os quesitos "1", "2" e "4" formulados pela autora, percebe-se que não houve o recebimento das comissões ao longo do período da contratação conforme a tabela de referência, porquanto os percentuais repassados oscilaram quando dos repasses, apesar da tabela de fls. 394 possuir apenas previsão em montante fixo, independente da categoria a que se enquadre o agenciador.
+Ao se compulsar os anexos I a IV constante da perícia (fls. 552/627), facilmente se constata os mais variados percentuais pagos a título de comissão, o que demonstra evidente pagamento parcial do que deveria ter recebido.
+A requerida, a respeito dos percentuais pagos a menor que o devido, justificou que assim o fez em razão de estornos decorrentes de inadimplemento dos clientes, o que, por força da cláusula del credere, ensejou a redução do montante a ser repassado. Para tanto, vide fundamentação da contestação lançadas às fls. 436/442 e da manifestação à perícia às fls. 654/655.
+Entretanto, a requerida não demonstrou a veracidade de suas informações, o que lhe cabia, por força do ónus probatório (art. 333, II, do CPC/73, atual art. 373, II, do CPC/15).
+Assim, diante dos repasses parciais ou inexistentes, o recurso é provido no sentido de condenar a requerida ao pagamento ou da diferença faltante ou da integralidade que restou inadimplida. (fls. 993-995).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+Conforme destacado na decisão transcrita, revisar os fundamentos do acórdão recorrido - que, levando em consideração as provas dos autos (laudo pericial) e o contrato firmado entre as partes, concluiu que o pagamento das comissões ocorreu de forma indevida - esbarra nas Súmulas n. 5 e 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
