@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Anderson Simati à decisão de fls. 567/569, de minha lavra, que não conheceu do pedido de reclamação em agravo interno, por ausência de previsão legal.
+Aduz o embargante, em síntese, que a referida decisão foi omissa, pois deixou de apreciar todo o conteúdo da Reclamação (fl. 574).
+Após um relato do feito, defende o prequestionamento da matéria, a existência de divergência jurisprudencial, a absolvição por ausência de provas, o reconhecimento da prescriçãoe o cabimento da reclamação em recurso de agravo interno em agravo em recurso especial, vistoque, na decisão de fls. houve decisão da turma não conhecendo o Agravo Interno em Agravo de Instrumento em Recurso Especial, portanto, pertinente o cabimento da propositura da presente reclamação pelas divergências apontadas com a decisão (fls. 581/584).
+Requer, ao final: o recebimento, processamento e julgamento da presente reclamação com a concessão dos efeitos suspensivos e a reforma do acórdão para a absolvição do Recorrente por inexistência de provas, nos termos do artigo 386, inciso VII, do Código de Processo Penal. E por conseqüência nos termos do artigo 109, inciso, V do Código Penal pela extinção da punibilidade em razão do reconhecimento da prescrição, advinda do reconhecimento do crime continuado e da redução da pena abaixo de 02 anos. E sendo condenado que a pena seja fixada no mínimo legal, substituída por outras medidas restritivas de direito (fl. 584).
+É o relatório.
+Os embargos de declaração são manifestamente intempestivos.
+Com efeito, a decisão embargada foi disponibilizada no DJe de 11/6/2021, sendo considerada publicada em 14/6/2021, segunda-feira, conforme a certidão de fl. 570. Consequentemente, o prazo de 2 dias para o oferecimento de embargos de declaração (art. 619 do CPP e art. 263 do RISTJ) iniciou-se em 15/6/2021, encerrando-se em 16/6/2021. A petição, entretanto, foi protocolizada apenas em 22/6/2021 (fls. 573 e 586), fora, portanto, do prazo recursal.
+Imperioso registrar que o prazo para a oposição do recurso integrativo em controvérsias que versam sobre matéria penal é de 2 dias, haja vista que a entrada em vigor do novo Código de Processo Civil não modificou a forma de contagem dos prazos em matéria criminal, estando mantidas as disposições expressas dos arts. 619 e 798 do Código de Processo Penal.
+Nessa linha: EDcl no AgRg nos EAREsp n. 1.632.268/SC, Ministro João Otávio de Noronha, Corte Especial, DJe 12/5/2021; AgInt nos EDcl no AREsp n. 1.363.665/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 14/5/2021; EDcl nos EDcl no AgRg no AREsp n. 1.493.523/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 15/5/2020; e EDcl nos EDcl no AgRg no AREsp n. 1.503.301/SP, de minha relatoria, Sexta Turma, DJe 16/3/2020.
+Em face do exposto, não conheço dos embargos.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NA PETIÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECURSO MANIFESTAMENTE INTEMPESTIVO.
+Embargos de declaração não conhecidos.
