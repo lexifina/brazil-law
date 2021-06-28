@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de OSMAR DE SOUZA CARVALHO apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo em Execução n. 0000415-70.2021.8.26.0996).
+Depreende-se dos autos que o Magistrado singular declarou remidos, em razão de leitura, 20 dias do total das penas do paciente.
+Contra essa decisão insurgiu-se o Ministério Público.
+O Tribunal de Justiça do Estado de São Paulo deu provimento ao recurso para cassar a decisão singular.
+No Superior Tribunal de Justiça, sustenta a Defensoria Pública que a Lei de Execução Penal, ao prever a remição por estudo, não faz qualquer restrição ao tipo de estudo efetuado por pessoa em cumprimento de pena privativa de liberdade. Em consequência, no intuito de conferir aplicabilidade à norma legal, o Conselho Nacional de Justiça editou a Resolução n. 44/2013 do CNJ, a qual estabelece parâmetros para a remição de penas com base na leitura.
+Diante dessas considerações, pede, liminar e definitivamente, seja cassado o acórdão local, restabelecendo-se a decisão singular que declarou remidos 20 dias do total das penas do reeducando.
+É o relatório.
+Decido.
+No caso, o Tribunal de origem, ao dar provimento ao agravo ministerial, cassou a decisão de primeiro grau, consignando, para tanto, que (e-STJ fl. 72):
+Observo que o instituto da remição está regulado pelos artigos 126 a 130 da Lei de Execução Penal, que estabelecem os requisitos para sua concessão nas hipóteses de frequência escolar em atividade de ensino fundamental, médio, superior ou requalificação profissional, ou diante do exercício de trabalho.
+Assim, não há no referido diploma qualquer dispositivo que aborde a possibilidade da remição pela simples leitura, a qual também não poderia ser equiparada ao ensino, diante da exigência de frequência escolar.
+Nesse sentido, resta impossível a concessão do benefício por parte do Juízo das Execuções, porquanto, ao conceder benesse em hipótese não prevista em lei, estaria usurpando verdadeira função do Poder Legislativo.
+Nessas circunstâncias, verifico a existência de constrangimento ilegal apto a ensejar a concessão da ordem, uma vez que a pretensão da defesa encontra amparo na jurisprudência desta Corte.
+A propósito, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO PELA LEITURA. POSSIBILIDADE. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM DISSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. MANUTENÇÃO DA DECISÃO AGRAVADA. INSURGÊNCIA DESPROVIDA.
+1. Hipótese em que o reeducando teve remidos quatro dias de sua reprimenda privativa de liberdade pela leitura, nos termos da Recomendação n.º 44/2013, do Conselho Nacional de Justiça.
+2. Esta Corte Superior de Justiça firmou entendimento no sentido de ser viável a concessão da remissão por atividades não expressas na lei, diante de uma interpretação extensiva in bonam partem do artigo 126 da Lei de Execução Penal.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 696.637/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 20/2//23/0, DJe 04/03/2016)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. REMIÇÃO DE PENAS. LEITURA. POSSIBILIDADE. ART. 126 DA LEI DE EXECUÇÃO PENAL. RECOMENDAÇÃO N. 44/2013 DO CONSELHO NACIONAL DE JUSTIÇA. ENTENDIMENTO DAS INSTÂNCIAS ORDINÁRIAS CONTRÁRIO À JURISPRUDÊNCIA DESTE STJ. PRESENÇA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Supremo Tribunal Federal, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A jurisprudência deste Superior Tribunal de Justiça tem admitido que o art. 126 da Lei de Execução Penal, ao possibilitar a abreviação da pena, tem por objetivo a ressocialização do condenado, sendo possível o uso da analogia in bonam partem, que admita o benefício em comento em razão de atividades que não estejam expressas no texto legal, como no caso, a leitura e resenha de livros, nos termos da Recomendação n. 44/2013 do Conselho Nacional de Justiça. Precedentes.
+III - Ademais, importa registrar que mesmo que o estabelecimento penal assegure acesso a atividades laborais e à educação formal, não há o impedimento de que se obtenha também a remição pela leitura, que é atividade complementar, mas não subsidiária, podendo ocorrer concomitantemente. Precedentes.
+IV - In casu, o eg. Tribunal a quo ratificou o decisão proferida pelo d. Juízo das execuções que indeferiu o benefício ao paciente. Flagrante ilegalidade presente.
+Habeas corpus não conhecido. Ordem concedida, de ofício, cassando as decisões proferidas pelas instâncias ordinárias, a fim de determinar ao d. Juízo das execuções que proceda à remição da pena do paciente em razão da execução de estudo de leitura, caso preenchidos todos os requisitos necessários, conforme previsto no art. 126 da Lei de Execução Penal e nos termos da Recomendação n. 44/2013 do Conselho Nacional de Justiça.
+(HC 527.446/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 12/11/2019, DJe 20/11/2019)
+Ante o exposto, concedo a ordem, in limine, para restabelecer a decisão de e-STJ fls. 58/59, que declarou remidos, em razão de leitura, 20 dias do total das penas do paciente.
+Publique-se. Intimem-se.
