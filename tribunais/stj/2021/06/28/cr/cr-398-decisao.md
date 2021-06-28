@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qualo Juizado Civil e Comercial da 49ª Nominação de Córdoba, República Argentina, solicitaa execução da sentença proferida pela Justiça argentina que condenou os interessados ao pagamento de US$ 879,002.80 (oitocentos e setenta e nove mil, dois dólares e oitenta centavos), "em conceito de capital e interesses", e $ 291,989.48 (duzentos e noventa e um mil, novecentos e oitenta e nove pesos argentinos e quarenta e oito centavos), "que correspondem às despesas adquiridas em juízo".
+Concedido o exequatur, os autos foram encaminhadosà Justiça Federal do Estado de São Paulo para as providências cabíveis.
+O Juízo Federal da 12ª Vara Cível da Primeira Subseção Judiciária do Estado de São Paulo, considerando consulta aos sistemas Bacenjud e Webservice, consignou que os bens encontram-se na Comarca de Indaiatuba, razão pela qual procedeu àexpedição de carta precatória, para esgotar os meios para encontrar bens dos executados (fl. 34).
+O Juízo deprecado informou que, diante da certidão de ausência de manifestação da parte exequente, determinou-se, então, a devolução da carta precatória ao Juízo deprecante(fls. 521-522).
+Desse modo,foram esgotados todos os meios para dar cumprimento à comissão, razão pela qual determino a devolução dos autos à Justiça rogante, por intermédio da autoridade centralcompetente (art. 216-X do RISTJ), independentemente do trânsito em julgado.
+Publique-se.
