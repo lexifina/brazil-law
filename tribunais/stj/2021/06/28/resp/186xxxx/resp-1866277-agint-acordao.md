@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. CRIMES FALIMENTARES. INDÍCIOS. REDIRECIONAMENTO AOS SÓCIOS- GERENTES. PRESCRIÇÃO. TEORIA DA ACTIO NATA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ SOBRE O TEMA.
+1. O entendimento do STJ é no sentido de que o prazo prescricional quinquenal para redirecionamento da pretensão executiva contra os contra sócios-gerentes não necessariamente é de ser contado da data da citação da pessoa jurídica, dependendo, nos casos de responsabilização com base no art. 135, inc. III, do CTN, do momento em que surgir para o Fisco exequente a possibilidade do redirecionamento.
+2. Acórdão de origem de acordo com a teoria da actio nata.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por José Luiz Machado e Luiz Alberto Machado contra decisão assim ementada (fl. 417):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. CRIMES FALIMENTARES. INDÍCIOS. REDIRECIONAMENTO AOS SÓCIOS- GERENTES. PRESCRIÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ SOBRE O TEMA. RECURSO ESPECIAL NÃO PROVIDO.
+Os agravantes alegam que "(..), na espécie não se cogita de dissolução irregular. Tendo havido falência da empresa, o "ato inequívoco indicador do intuito de inviabilizar a satisfação do crédito tributário" é logicamente anterior à "cobrança executiva promovida contra a empresa contribuinte" - pelo que, vale reiterar, "o prazo de redirecionamento da Execução Fiscal, fixado em cinco anos" deve ser "contado da diligência de citação da pessoa jurídica". Essa é a jurisprudência consagrada no Tema STJ 444." (fl. 429). Assim, o acórdão recorrido não está em conformidade com o entendimento do STJ sobre o tema, cabendo ainda lembrar que a falência não configura modo irregular de dissolução da sociedade.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. CRIMES FALIMENTARES. INDÍCIOS. REDIRECIONAMENTO AOS SÓCIOS- GERENTES. PRESCRIÇÃO. TEORIA DA ACTIO NATA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ SOBRE O TEMA.
+1. O entendimento do STJ é no sentido de que o prazo prescricional quinquenal para redirecionamento da pretensão executiva contra os contra sócios-gerentes não necessariamente é de ser contado da data da citação da pessoa jurídica, dependendo, nos casos de responsabilização com base no art. 135, inc. III, do CTN, do momento em que surgir para o Fisco exequente a possibilidade do redirecionamento.
+2. Acórdão de origem de acordo com a teoria da actio nata.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, conforme se retira da decisão agravada, em nenhum momento se disse que o caso dos autos é de dissolução irregular, mas que a hipótese dos autos (autorização de redirecionamento da execução fiscal em vista da existência de indícios da ocorrência de crime falimentar) se assemelha ao quanto decidido por esta Corte Superior nos casos de redirecionamento por ocorrência de dissolução irregular.
+Nesse diapasão, consignou-se na oportunidade que o entendimento do STJ é no sentido de que o prazo prescricional quinquenal para redirecionamento da pretensão executiva contra os contra sócios-gerentes não necessariamente é de ser contado da data da citação da pessoa jurídica, dependendo, nos casos de responsabilização com base no art. 135, inc. III, do CTN, do momento em que surgir para o Fisco exequente a possibilidade do redirecionamento. Trata-se, a bem de ver, da teoria da actio nata, que impede a fluência do prazo prescricional enquanto inexigível a pretensão do credor, teoria esta amplamente admitida nesta Corte Superior.
+Veja-se inclusive que os próprios agravantes, na argumentação dispendida no agravo interno interposto na origem, a fim de fazer subir seu recurso especial, conforme transcrito no presente agravo, sustentaram que "Com a quebra, a massa falida responde pelas obrigações a cargo da pessoa jurídica até o encerramento da falência, só estando autorizado o redirecionamento da execução fiscal caso fique demonstrada a prática pelo sócio de ato ou fato eivado de excesso de poderes ou de infração de lei, contrato social ou estatutos" (STJ-2ª. T., Resp. 697.115, Min. Eliana Calmon)." (fl. 430, grifa-se). Os próprios agravantes reconhecem que antes da demonstração da ocorrência dos crimes falimentares a Fazenda Nacional não poderia pretender o redirecionamento executivo.
+De se ressaltar que a própria Corte de origem, no mesmo sentido, fixou o momento no qual se verificaram as condições para o redirecionamento:
+No caso sub judice, observo que os indícios da prática de crimes falimentares pelos sócios-administradores da executada foram evidenciados nos autos da execução fiscal concomitantemente ao pedido de redirecionamento formulado pela Fazenda Nacional (cf. evento 1, OUT2, fls. 81- 86 e 88-90), de modo que não se cogita de pedido intempestivo e, portanto, da prescrição da pretensão ao redirecionamento da execução de origem contra José Luiz Machado e Luiz Alberto Machado.
+O recurso especial não questiona os indícios de crime falimentar como causa para o redirecionamento, mas apenas a sua fixação como termo inicial da prescrição.
+Ao condicionar o termo inicial do lustro prescricional ao momento a partir do qual se verificam as condições para o redirecionamento, a decisão se mostra em pleno acordo com a teoria da actio nataprestigiada pela jurisprudência deste Tribunal. Portanto,o acórdão recorrido está, sim, em conformidade com o entendimento do STJ sobre o tema.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
