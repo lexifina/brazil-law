@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo INSTITUTO DE PREVIDÊNCIA E ASSISTÊNCIA DO MUNICÍPIO DO RIO DE JANEIRO contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO.
+INSTITUTO DE PREVIDÊNCIA E ASSISTÊNCIA DO MUNICÍPIO DO RIO DE JANEIRO.
+GRATIFICAÇÃO DE DESEMPENHO. LEI nº 2.506/1996. VALORES PAGOS A TODOS OS SERVIDORES. PEDIDO DE INCORPORAÇÃO AOS VENCIMENTOS. SENTENÇA DE PROCEDÊNCIA.
+RECURSO DE APELAÇÃO DAS PARTES.
+SENTENÇA QUE DE FROMA CORRETA RECONHECEU O DIREITO DOS AUTORES.
+PRECEDENTES DO TRIBUNAL LOCAL E DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+PROVIMENTO DO RECURSO DOS AUTORES.
+PARTE RÉ QUE DEVERÁ REEMBOLSAR OS VALORES ADIANTADOS A TÍTULO DE CUSTAS E TAXA JUDICIÁRIA.
+Alega violação do art. 11 da Lei n. 2.506/96 no que concerne à natureza vencimental da gratificação de desempenho prevista nesse dispositivo legal, trazendo o(s) seguinte(s) argumento(s):
+Ademais, a própria norma regencial (Lei 2506/96) estabeleceu, em seu artigo 11, vedação expressa à incorporação da gratificação ao vencimento básico, sendo irrelevante o tempo de recebimento da benesse, in litteris: Art. 11 - As parcelas remuneratórias referidas nos incisos III e IV do art. 7º não são passíveis de incorporação. (Grifou-se) Portanto, ao reconhecer natureza vencimental à referida gratificação, a bem da verdade, o acórdão defere sua incorporação ao vencimento básico da servidora, violando mais esta cristalina disposição normativa em sentido contrário (fls. 465).
+Assim, da interpretação sistemática dos dispositivos legais que de forma ESPECÍFICA disciplinam a matéria, deduz-se o total descabimento da condenação imposta à autarquia ré, qual seja, de dotar a gratificação de desempenho de natureza vencimental, vez que a sua regular incorporação ao vencimento básico dependeria de previsão legal específica (INEXISTENTE!), em observância aos ditames constitucionais da reserva administrativa e da legalidade. Em suma: pelo princípio da legalidade, não se pode cogitar de interpretação e, muito menos, para criar direitos, já que, em matéria de pessoal e de remuneração, vige o princípio da reserva legal (art. 5º, II e 37, caput da CF/88). É importante ressaltar que foi o Legislador que assim escolheu, e enquanto para a gratificação em questão, instituída pela Lei 2506/96, não há tal previsão de incorporação ou de incidência sobre os triênios, OUTRAS gratificações de desempenho pagas a OUTROS cargos, algumas citadas na exordial, têm tal previsão em sua lei de instituição (fls. 465).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 280/STF, aqui aplicada por analogia, uma vez que não é cabível a interposição de recurso especial alegando ofensa ou interpretação divergente de dispositivo de lei estadual ou municipal.
+Nesse sentido: "Incabível, na estreita via do recurso especial especial, examinar violação de direito local, por incidência da Súmula 280/STF". (AgRg no AREsp 1.539.944/PR, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.)
+Confiram-se ainda os seguintes precedentes: REsp 1.854.792/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 9/6/2020; REsp 1.810.850/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/9/2019; AgInt no REsp 1.583.153/MG, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 10/5/2019; e AgInt no AREsp 1.264.067/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 15/10/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
