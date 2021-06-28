@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. HOMICÍDIO QUALIFICADO.PRISÃO PREVENTIVA.AUSÊNCIA DE ILEGALIDADE MANIFESTA. IMPRESCINDIBILIDADE DA PRISÃO PREVENTIVA FUNDAMENTADA. PRAZO DA DENÚNCIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPPimpede a aplicação dasmedidas cautelares alternativas previstas no art. 319 do CPP.
+2. O não enfrentamento de matéria pelas instâncias originárias impede sua análise pelo STJ, sob pena de supressão de instância.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto porFERNANDO BARBOZA (ou FERNANDO BARBOSA) contra a decisão de fls. 122-124, quenão conheceu dohabeas corpusimpetrado em seu favor, em que fora apontado como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Processo n.2248220-16.2020.8.26.0000).
+O agravanteteve a prisão preventiva decretada por suposta prática do delito descrito no art. 121, § 2º, II, do Código Penal (fls. 18-19).
+Alega que a decisão do TJSP sequer analisou os fatos apresentados na impetração, limitando-se a tecer considerações sobre o delito esua gravidade abstrata, sem qualquer elemento que comprove risco para aordem pública.
+Sustenta inidoneidade dos motivos apresentados para justificar a prisão preventiva, uma vez que não foi demonstradode que forma representa perigo à ordem pública.
+Aduz que a supressão de instância não pode servir como obstáculo para garantia do direito material.
+Requer seja o presente agravo recebido e provido a fim de que seja concedida a ordem de habeas corpus.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. HOMICÍDIO QUALIFICADO.PRISÃO PREVENTIVA.AUSÊNCIA DE ILEGALIDADE MANIFESTA. IMPRESCINDIBILIDADE DA PRISÃO PREVENTIVA FUNDAMENTADA. PRAZO DA DENÚNCIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPPimpede a aplicação dasmedidas cautelares alternativas previstas no art. 319 do CPP.
+2. O não enfrentamento de matéria pelas instâncias originárias impede sua análise pelo STJ, sob pena de supressão de instância.
+3. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+Sabe-se que oSupremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração dehabeas corpusem substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+No que diz respeito ao prazo para propositura da denúncia, tal questão não foienfrentadapela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma,DJede 14/9/2018).
+Ainda que assim não fosse, "aalegação de excesso de prazo para oferecimento da denúncia resta superada em razão da notícia de que a exordial acusatória foi apresentada pelo Ministério Público e recebida pelo Juízo de primeiro grau" (HC n. 634.072/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 12/2/2021).
+Quanto à prisão preventiva, a jurisprudência desta Corte é no sentido de que elaé cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 45-47):
+ .. Conforme narrativa constante do boletim de ocorrência (fls. 09/10), o paciente aproximou-se de seu cunhado, que estava sentado no degrau de uma escadaria, e efetuou um disparo de espingarda contra ele. Após a vítima cair no chão, o paciente tornou a municiar sua arma e efetuou outro disparo contra a vítima, que veio a óbito no local. Em seguida, o paciente evadiu-se do local, não sendo posteriormente localizado em sua residência pelos agentes policiais.
+ ..
+Além disso, a irmã do paciente e esposa da vítima,Sandra Barboza Santana, declarou, perante a autoridade policial(fls. 14), queo paciente há anos ameaçava a vítima em virtude de um desacordo relacionado ao conserto de um freezer.Além disso,relatou ter presenciado o paciente agredir a pauladas a vítima anteriormente. Por fim, consignou que, no ano anterior, o veículo em que estava junto da vítima foi alvejado por um disparo de arma de fogo, que acredita tersido realizado pelo paciente, que tinha inveja da vítima e queria prejudicá-lo de qualquer forma.
+O próprio paciente parece ter confessado a prática delitiva perante a autoridade policial, alegando tê-lo feito em virtude do temor de que a vítima, que reiteradamente o ameaçava de morte, concretizasse os rumores existentes pela cidade de que o matariaem virtude de desentendimentos de longa data. Especificamente com relação aos fatos, consignou que"avisei que CLAUDINEI estava sentado na borracharia do Dú. Nesta ocasião, não houve provocação, mas por estar correndo comentários na cidade de que ele iria me matar, decidi para o carro e fui na direção de CLAUDINEI, mas fui segurando uma cartucheira calibre 36, e falei "você disse que vai dar tiro na minha cara, então atira que estou aqui". Nesse momento CLAUDINEI tentou correr, porém efetuei um disparo contra CLAUDINEI, que na sequência caiu no chão. Ato contínuo, recarreguei a arma de fogo colocando outro cartucho e efetuei outro disparo contra CLAUDINEI, o qual já estava inerte." (fls. 62/63).
+ ..
+Com efeito, ascircunstâncias concretasdo delito, tal como acima narrado destacando-se que avítima foialvejada de inopino, aparentemente, sem chances de defesa, e a existência deindícios de que o paciente já a havia agredido anteriormente, indicam que o paciente épessoa perigosa, cuja liberdade põe em risco a coletividade, a reclamar uma pronta reação do ordenamento jurídico, com o escopo de tutelar bens jurídicos fundamentais.
+Convém ainda citar odecreto prisional no que diz respeito àmatéria (fls. 18-19):
+Com efeito, apurou-se que o investigado vinha ameaçando a vítima há algum tempo em razão de desentendimento passado, sobre a compra de um freezer. Consta,nos autos 1502448-14.2019.8.26.0095, que é investigado por desferir tiro de arma de fogo contra a vítima em outra oportunidade.
+Embora primário, o investigado está em local incerto e não sabido, o que demonstra que não pretende se submeter ao eventual resultado decorrente do processo penal, em clara demonstração de que pretende evitar as consequências de sua conduta e aocompleto esclarecimento dos fatos havidos.
+Verifico, portanto, que a decisão que decretou a preventiva apontou critérios concretos para manutenção da prisão, como ameaças anteriores, agressões à vítima e depoimento testemunhal contundente, expondo a periculosidade do agente e o risco à coletividade, caso colocado em liberdade.
+Dessa forma, entendo que o acórdão impugnado está em consonância com a jurisprudência desta Corte que admite, de acordo com as circunstâncias do caso concreto, queinquéritos policiais ou ações penais em curso possam justificar a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e HC n. 602.698/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 6/10/2020).
+Ante o exposto,nego provimento ao agravo regimental.
+É o voto.
