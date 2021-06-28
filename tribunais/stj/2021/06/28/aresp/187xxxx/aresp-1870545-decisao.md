@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por ESTADO DO RIO GRANDE DO NORTEem face de decisão do TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO NORTE, que negou admissibilidade a recurso especial em que se discute a necessidade de remessa necessária.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Na origem, foi julgado: " ..  o recurso é manifestamente inadmissível, na medida em que a sentença a quo não se sujeita ao reexame necessário, pois o valor controvertido não ultrapassa 500 (quinhentos) salários mínimos".
+Em casos em que se reconhece como devido valores a servidor público, manifesta-se esta Corte Superior no sentido de que, se o montante for mensurável, a aparente iliquidez do julgado, quando abaixo dos limites legais, não justifica a remessa necessária. Precedentes: AgInt no REsp 1705814/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 04/09/2020; AgInt no REsp 1873359/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 17/09/2020; EDcl no REsp 1891064/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 18/12/2020.Entende-se, com efeito, que " ..  os pedidos são efetivamente líquidos, pois passíveis de determinação com a elaboração de cálculos aritméticos simples" (AgInt no TutPrv no AREsp 1680259/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 02/12/2020).
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. REMESSA NECESSÁRIA. DESNECESSIDADE. MONTATE MENSURÁVEL. ILIQUIDEZ MERAMENTE APARENTE. PRECEDENTES DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
