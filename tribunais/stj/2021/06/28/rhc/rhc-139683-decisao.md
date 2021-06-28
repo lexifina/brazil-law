@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto por JOÃO VICTOR MENESES PEREIRA DE MORAEScontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2186850-36.2020.8.26.0000).
+O recorrente teve sua prisão preventiva decretada e foi denunciado em razão da suposta prática do delito descrito no art. 157, § 2º, II, c/c o art. 61, II, j, ambos do Código Penal.
+Alega não subsistirem os motivos da decretação da prisão preventiva em face de novos fatos, pois, além de a vítima não o terreconhecidocomo autor do crime, o proprietáriodo imóvel em que foram localizados os objetos roubados não o conhece.
+No depoimento,declarou ter alugado o imóvel a outra pessoa. Sustenta que inseriu o chip no aparelho roubado para testá-lo, pois pretendiaadquiri-lo, mas não efetuou a compra.Aduz que, ainda que comprovado que mora no imóvel em que foram localizados os objetos, responderia pelo crime de receptação, enão pelo delito de roubo.
+Requer, ao final, a reforma da decisão e sua absolviçãosumáriacom fundamento no art. 386, IV, do Código de Processo Penalou a revogação da prisão preventiva.
+O pedido de liminar foi indeferido às fls. 199-200.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 222-225).
+É o relatório. Decido.
+No que diz respeito à tipificação da conduta, a questão não foi enfrentada pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma,DJede 14/9/2018). Portanto, neste ponto, o recurso não merece conhecimento.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção dapreventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunala quo(fls. 170-171):
+Há nos autos indícios suficientes de que tenha o paciente praticado o crime que lhe está sendo imputado, ressaltando que os bens subtraídos foram encontrados na residência apontada como sendo sua, pela própria mãe, bem como o capacete e a mochila utilizados por um dos assaltantes terem sido reconhecidos pela vítima.
+Além do mais, trata-se de crime cometido mediante grave ameaça exercida com emprego de simulação de arma de fogo e pluralidade de agentes, que grande mal psicológico causou à vítima, autorizando sua segregação durante a instrução criminal.
+ ..
+Ademais, a não concessão ao paciente da liberdade não fere o princípio da presunção de inocência, contrariamente ao alegado pelo impetrante, pois tal presunção refere-se tão somente ao reconhecimento definitivo da responsabilidade criminal do agente.
+ ..
+Pelos mesmos motivos, inadmissível a substituição da prisão preventiva por uma das medidas cautelares previstas no art. 319 do Código de Processo Penal.
+Confira-se também trecho da decisão que negou a revogação da prisão preventiva em primeiro grau (fls. 106-107):
+Com efeito, não há que se falar em revogação da prisão preventiva do acusado, na medida em que ausente qualquer fato ou fundamento novo que pudesse ensejar a revogação da custódia cautelar decretada na decisão de fls. 50/52, a qual se mostra necessária para garantia da ordem pública, ante a gravidade em concreto do delito, perpetrado, a princípio, mediante grave ameaça de simulação arma de fogo, em plena luz do dia e em via pública, tendo o chip do aparelho celular da vítima sido encontrado no aparelho de sua genitora do denunciado, bem como em imóvel identificado como sua residência sido encontrados parte dos pertences subtraídos da vítima (fls. 20/21). Cumpre ainda ressaltar que a vítima reconheceu o capacete e a mochila apreendidos na residência do acusado como aqueles utilizados na empreitada criminosa por um dos roubadores (fls. 21).
+Ademais, o denunciado, do que se infere dos autos, já foi processado por crime patrimonial, estando em cumprindo suspensão condicional do processo, nos termos da Lei 9.099/95, a demonstrar que, em liberdade, não consegue se manter afastado da seara criminosa e que faz do crime seu meio de vida, sendo a prisão preventiva do acusado mais do que necessária, assim, para garantia da ordem pública.
+Convêm ainda observar as informações prestadas pelo Juízo de primeiro grauem 16/12/2020 (fls. 206-208):
+A denúncia foi recebida em 02 de julho de 2020, sendo que, na mesma ocasião, foi decretada a prisão preventiva do paciente  .. .
+ ..
+Atualmente, aguarda-se o cumprimento do mandado de prisão expedido em desfavor do paciente (fls. 53/54) e a designação de audiência de instrução, interrogatório, debates e julgamento.
+Tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidascautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 21/9/2020).
+Registre-se ainda que se admite o trancamento prematuro de persecução penal pela via estreita do writ somente nos casos em que se constatam, sem necessidade de dilação probatória, a falta de indícios mínimos de materialidade e autoria, a absoluta falta de justa causa, a evidente atipicidade da conduta ou a ocorrência de causa de extinção da punibilidade (HC n. 580.099/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 4/9/2020), excepcionalidades não demonstradas nos autos.
+Anteo exposto, conheço em parte do recurso e nego-lhe provimento.
+Publique-se. Intimem-se.
