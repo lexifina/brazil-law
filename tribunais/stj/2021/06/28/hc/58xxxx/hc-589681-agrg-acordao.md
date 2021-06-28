@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS NÃO CONHECIDO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. TRÁFICO DE ENTORPECENTES. CONDENAÇÃO TRANSITADA EM JULGADO. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTOS NÃO IMPUGNADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. APLICAÇÃO ANALÓGICA DA SÚMULA N. 182 DO STJ.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. A ausência de impugnação dos fundamentos da decisão recorrida atrai, por analogia, a incidência da Súmula n. 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão gravada").
+3. Agravo regimental não conhecido.
+RELATÓRIO
+JORGE ALEXANDRE CÂNDIDO MARIA interpõe agravo regimental contra a decisão de fls. 369-372, que não conheceu do habeas corpus em que se apontou como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (HC n. 5015018-34.2021.8.21.7000).
+O agravante foi condenado definitivamente às penas de 17 anos de reclusão no regime inicial fechado e de 315 dias-multa, pela prática dos delitos de tráfico de entorpecentes, associação para o tráfico e porte ilegal de arma de fogo (arts. 12 e 14 da Lei n. 6.368/1976 e 10, §§ 2º e 3º, da Lei n. 9.437/1997).
+Em seu habeas corpus, a defesa aponta existência de constrangimento ilegal diante: a) do cerceamento de defesa por ausência de disponibilização das degravações relativas às interceptações telefônicas; b) do necessário redimensionamento das penas-base e da aplicação da fração de 1/7 de acréscimo da pena em decorrência da reincidência; e c) do concurso formal de crimes entre o tráfico de drogas e o porte de armas.
+A decisão de fls. 369-372 não conheceu do writ, porquanto não pode ser utilizado como substitutivo de revisão criminal,também porque não verificada flagrante ilegalidade. Foram estes osfundamentos adotados: a) supressão de instância quanto ao alegado cerceamento de defesa fundado na falta de acesso às provas produzidas por meio de interceptação telefônica, bem como ao concurso formal;b) condenação fundada unicamente em referidas provas; c) não cabimento de habeas corpuspara a apreciação de alegações referentes à absolvição do delito de tráfico de entorpecentes; e d) no que se refere à dosimetria da pena, configuração da reiteração de pedido já analisado no julgamento do HC n. 63.704/RJ.
+O agravante alega que "se aquietará quanto aos argumentos utilizados para rejeitar as pretensões de reconhecimentos da nulidade, da redução da pena-base, e, ainda, do concurso formal, insistindo, contudo, tão somente com relação à necessidade de estabelecimento da reincidência na fração de 1/7 (um sétimo), haja vista que, nesse particular, houve flagrante ilegalidade do v. Acórdão ora questionado" (fl. 378).
+Requer a reconsideração da decisão impugnada ou o provimento do agravo regimental"para, em  se  reformando parcialmente a Decisão ora questionada, conceder, desta feita, a ordem, nem que seja de ofício, tão só para estabelecer, com relação a todos os delitos, na segunda fase, a fração de aumento decorrente da reincidência em 1/7, desistindo, dessa forma, das demais teses aventadas na Inicial" (fl. 380).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS NÃO CONHECIDO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. TRÁFICO DE ENTORPECENTES. CONDENAÇÃO TRANSITADA EM JULGADO. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTOS NÃO IMPUGNADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. APLICAÇÃO ANALÓGICA DA SÚMULA N. 182 DO STJ.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. A ausência de impugnação dos fundamentos da decisão recorrida atrai, por analogia, a incidência da Súmula n. 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão gravada").
+3. Agravo regimental não conhecido.
+VOTO
+O recurso não merece conhecimento.
+Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia (AgRg no RHC n. 126.338/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/9/2020).
+A decisão de fls. 369-372 não conheceu do writ, porquanto não é admissível como substitutivo de revisão criminal e também porque não verificada flagrante ilegalidade. Para tanto, adotou osseguintes fundamentos:a) supressão de instância quanto ao alegado cerceamento de defesa fundado na falta de acesso às provas produzidas por meio de interceptação telefônica, bem como ao concurso formal; b) condenação fundada unicamente em referidas provas; c) não cabimento de habeas corpus para a apreciação de alegações referentes à absolvição do delito de tráfico de entorpecentes; e d) no que se refere à dosimetria da pena, configuração da reiteração de pedido já analisado por esta Corte.
+Ainda que se considereque o agravo só pretende impugnar a questão relativa à fração utilizada para,na segunda fase, aumentar a penaem razão da reincidência, a decisão agravada não conheceu do writ por ter sido utilizado como substitutivo de revisão criminal e por ser reiteração de pedido já analisado pelo STJ.
+O agravante, contudo, limitou-se a defender que tem direito à diminuição da fração de agravamento da pena, tema que, aliás, não foi expressamente tratado no acórdão de apelação, inviabilizando sua análise, sob pena de supressão de instância.
+Assim, a ausência de impugnação dos fundamentos da decisão recorrida atrai, por analogia, a incidência da Súmula n. 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão gravada").
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
