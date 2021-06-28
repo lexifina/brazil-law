@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de CARLOS EVANDRO CARDOSO apontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (Apelação Criminal n. 0001295-32.2017.8.24.0067).
+Foi o paciente condenado, pelo crime de estelionato, à pena de 1 ano e 4 meses de reclusão, a ser cumprida inicialmente no regime aberto, bem assim ao pagamento de 14 dias-multa.
+Contra o édito condenatório insurgiu-se a defesa.
+Entretanto, o Tribunal de Justiça do Estado de Santa Catarina negou provimento ao recurso, adequando a conduta para o art. 171, caput, do Código Penal.
+No Superior Tribunal de Justiça, sustenta a Defensoria Pública que as instâncias de origem deixaram de observar o direito do paciente de extinção de sua punibilidade em relação ao crime de estelionato, tendo em vista a aplicação retroativa da Lei n. 13.964/2019.
+Diante disso, pede, liminar e definitivamente, seja aplicada a referida legislação à espécie, com a consequente extinção da punibilidade do paciente.
+É o relatório. Decido.
+Não assiste razão à defesa.
+A temática que ora se apresenta foi devidamente sedimentada em recente precedente emanado da Terceira Seção desta Corte, cujo acórdão foi ementado nos seguintes termos:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO. ESTELIONATO. LEI N. 13.964/2019 (PACOTE ANTICRIME). RETROATIVIDADE. INVIABILIDADE. ATO JURÍDICO PERFEITO. CONDIÇÃO DE PROCEDIBILIDADE. WRIT INDEFERIDO.
+1. A retroatividade da norma que previu a ação penal pública condicionada, como regra, no crime de estelionato, é desaconselhada por, ao menos, duas ordens de motivos.
+2. A primeira é de caráter processual e constitucional, pois o papel dos Tribunais Superiores, na estrutura do Judiciário brasileiro é o de estabelecer diretrizes aos demais Órgãos jurisdicionais. Nesse sentido, verifica-se que o STF, por ambas as turmas, já se manifestou no sentido da irretroatividade da lei que instituiu a condição de procedibilidade no delito previsto no art. 171 do CP.
+3. Em relação ao aspecto material, tem-se que a irretroatividade do art. 171, §5º, do CP, decorre da própria mens legis, pois, mesmo podendo, o legislador previu apenas a condição de procedibilidade, nada dispondo sobre a condição de prosseguibilidade. Ademais, necessário ainda registrar a importância de se resguardar a segurança jurídica e o ato jurídico perfeito (art. 25 do CPP), quando já oferecida a denúncia.
+4. Não bastassem esses fundamentos, necessário registrar, ainda, prevalecer, tanto neste STJ quanto no STF, o entendimento "a representação, nos crimes de ação penal pública condicionada, não exige maiores formalidades, sendo suficiente a demonstração inequívoca de que a vítima tem interesse na persecução penal. Dessa forma, não há necessidade da existência nos autos de peça processual com esse título, sendo suficiente que a vítima ou seu representante legal leve o fato ao conhecimentos das autoridades." (AgRg no HC 435.751/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/08/2018, DJe 04/09/2018).
+6. Habeas corpus indeferido. (HC n. 610.201/SP, Rel. Ministro Ribeiro Dantas, Terceira Seção, DJe 8/4/2021)
+Com efeito, na hipótese vertente, o entendimento do Tribunal de origem está em consonância com o recente posicionamento desta Casa, pois, como bem consignou a Corte local, "no caso concreto, em se tratando de crime de estelionato, embora lei superveniente tenha exigido a representação da vítima (Lei 13.964/2019), vê- se que o ofendido formalizou a notícia criminal e compareceu tanto Delegacia de Polícia como em juízo para prestar informações (fls. 03/04 e 33/34 do Evento 1 e Vídeo 304 do Evento 92), o que é suficiente para se ver implementada a condição de prosseguibilidade, uma vez que a representação criminal prescinde de maiores formalidades" (e-STJ fl. 68).
+Ante o exposto, indefiro liminarmente o habeas corpus .
+Publique-se. Intimem-se.
