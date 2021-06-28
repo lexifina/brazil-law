@@ -1,0 +1,2 @@
+Art. 6º Nos processos administrativos eletrônicos, os atos processuais deverão ser realizados em meio eletrônico, exceto se o usuário solicitar de forma diversa, nas situações em que esse procedimento for inviável, nos casos de indisponibilidade do meio eletrônico ou diante de risco de dano relevante à celeridade do processo.
+Parágrafo único. No caso das exceções previstas no caput deste artigo, os atos processuais poderão ser praticados conforme as regras aplicáveis aos processos em papel, desde que posteriormente o documento-base correspondente seja digitalizado.

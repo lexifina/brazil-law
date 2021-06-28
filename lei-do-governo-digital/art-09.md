@@ -1,0 +1,1 @@
+Art. 9º O acesso à íntegra do processo para vista pessoal do interessado poderá ocorrer por intermédio da disponibilização de sistema informatizado de gestão ou por acesso à cópia do documento, preferencialmente em meio eletrônico.

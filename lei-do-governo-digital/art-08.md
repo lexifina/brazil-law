@@ -1,0 +1,3 @@
+Art. 8º Os atos processuais em meio eletrônico consideram-se realizados no dia e na hora do recebimento pelo sistema informatizado de gestão de processo administrativo eletrônico do órgão ou da entidade, o qual deverá fornecer recibo eletrônico de protocolo que os identifique.
+§ 1º Quando o ato processual tiver que ser praticado em determinado prazo, por meio eletrônico, serão considerados tempestivos os efetivados, salvo disposição em contrário, até as 23h59 (vinte e três horas e cinquenta e nove minutos) do último dia do prazo, no horário de Brasília.
+§ 2º A regulamentação deverá dispor sobre os casos e as condições de prorrogação de prazos em virtude da indisponibilidade de sistemas informatizados.

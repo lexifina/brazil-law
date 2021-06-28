@@ -1,0 +1,4 @@
+Art. 49. A auditoria interna governamental deverá adicionar valor e melhorar as operações das organizações para o alcance de seus objetivos, mediante a abordagem sistemática e disciplinada para avaliar e melhorar a eficácia dos processos de governança, de gestão de riscos e de controle, por meio da:
+I - realização de trabalhos de avaliação e consultoria de forma independente, conforme os padrões de auditoria e de ética profissional reconhecidos internacionalmente;
+II - adoção de abordagem baseada em risco para o planejamento de suas atividades e para a definição do escopo, da natureza, da época e da extensão dos procedimentos de auditoria;
+III - promoção da prevenção, da detecção e da investigação de fraudes praticadas por agentes públicos ou privados na utilização de recursos públicos federais.

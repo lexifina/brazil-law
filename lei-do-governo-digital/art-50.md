@@ -1,0 +1,1 @@
+Art. 50. O acesso e a conexão para o uso de serviços públicos poderão ser garantidos total ou parcialmente pelo governo, com o objetivo de promover o acesso universal à prestação digital dos serviços públicos e a redução de custos aos usuários, nos termos da lei.

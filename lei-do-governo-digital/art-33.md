@@ -1,0 +1,1 @@
+Art. 33. A solicitação de abertura da base de dados será considerada atendida a partir da notificação ao requerente sobre a disponibilização e a catalogação da base de dados para acesso público no site oficial do órgão ou da entidade na internet.
