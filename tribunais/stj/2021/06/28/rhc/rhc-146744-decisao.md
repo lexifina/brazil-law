@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpussem pedido de liminar impetrado em favor de BRUNO EDUARDO LINDEMANN, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (HC n. 5013210-58.2021.8.24.0000).
+O recorrente teve indeferido o pleito de conexão entre os crimes de sonegação fiscalpor ausência de recolhimento do ICMS, constantes dos Autos n. 5017152-45.2019.8.24.0008 (2ª Vara Criminal de Blumenau -distribuído em 6/12/2019)en. 0904807-44.2018.8.24.0008 (1ª Vara Criminal de Blumenau, distribuído em 25/10/2018) -decisão mantida pelo Tribunal de origem.
+Sustenta queé sócio-administrador de uma pequena empresa transportadora rodoviária de cargas e foi denunciado pela prática de sonegação fiscal por ausência de recolhimento do ICMS (art. 2º-II e 12-I da Lei n.8.137/1990) em duas ações penais que correm em separado.
+Requerseja reconhecida a continuidade delitiva em relação aos crimes de sonegação fiscal.
+O Ministério Público Federal opinoupelonão provimento do recurso ordinário(fls. 87-89).
+É o relatório. Decido.
+A respeito da questão, o Juízo Criminalassim consignou (fls. 14-15):
+Pois bem, com razão o representante ministerial.
+Sem adentrar no mérito das imputações feitas ao réu, o que ocorrerá no momento oportuno, ou seja, na sentença, assinalo que apesar dos delitos apurados nestes autos guardarem relação com aqueles investigados nos autos n. 0904807-44.2018.8.24.0008, já que imputado o mesmo tipo penal ao mesmo acusado, não é o caso, ao menos não neste momento, de reconhecer a continuidade delitiva.
+Isso porque, conforme tem-se posicionado a doutrina e jurisprudência, o reconhecimento dessa hipótese de concurso de crimes não é compatível com a figura do criminoso habitual, ou seja, aquele que faz das atividades nefastas seu meio de vida, o que, em princípio, é o caso dos autos.
+ ..
+Assim, em que pese a semelhança entre ambos os processos, diante do quadro fático apresentado pelas exordiais acusatórias, ao menos nesta etapa processual, não é possível reconhecer a continuidade delitiva entre os fatos apurados neste processo e aqueles investigados nos autos n. 0904807-44.2018.8.24.0008, razão pela qual INDEFIRO o pedido formulado pela defesa.
+Por sua vez, o Tribunal de origem assim decidiu(fls. 48-49):
+A denegação da ordem é medida de rigor.
+Enquanto a ação penal n. 5017152-45.2019.8.24.0008 imputa ao paciente fatos praticados nos períodos de janeiro a dezembro de 2018, o processo-crime n. 0904807-44.2018.8.24.0008 descreve ações ilícitas nos períodos de janeiro a dezembro/2016, janeiro a março/2017 e junho a dezembro/2017.
+Ao menos em sede de cognição sumarizada, verifica-se que há um intervalo entre as condutas, o que, ao menos em tese, afasta o reconhecimento da continuidade delitiva.
+Aliado a isso, o magistrado sugeriu a hipótese de habitualidade criminosa, pois o paciente estaria deixando de cumprir com suas obrigações fiscais por praticamente três anos ininterruptos. O exame de tal hipótese exige aprofundamento da matéria fática, situação inviável em sede de habeas corpus.
+Assim, não se vislumbra, de plano, a possibilidade da reunião dos processos-crime, devendo seguir seus trâmites regulares, ainda pendentes de instrução, providência necessária no sentido de aclarar o tema.
+É assente noSuperior Tribunal de Justiça o entendimento de que, para a configuração da continuidade delitiva, deve haver a concomitância de exigências de ordem objetiva -mesmas condições de tempo, espaço e modo de execução -, bem como de ordem subjetiva, configurada na unidade de desígnios.
+No presente caso, as instâncias ordináriasconstataramqueas exigências acima não foram comprovadas, razão pela qual se concluiu pela não ocorrência de crime continuado, estando afastada, consequentemente, a possibilidade de unificação das penas.
+Sendo assim, os fundamentos adotados pelo Tribunal de origem não podem ser revisados em habeas corpus, diante do necessário revolvimento de matéria fático-probatória.
+Confiram-sejulgados que tratam daquestão:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.TRÊS DELITOS DE ROUBO QUALIFICADO E RECEPTAÇÃO EM CONCURSO MATERIAL.DOSIMETRIA DA PENA. PRETENDIDO RECONHECIMENTO DA CONTINUIDADE DELITIVA ENTRE OS ROUBOS. INVIABILIDADE. NÃO ATENDIMENTO DOS REQUISITOS EXIGIDOS. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO NÃO CONDIZENTE COM A VIA ESTREITA DO HABEAS CORPUS. PRECEDENTES. MANTIDA A REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+- O instituto da continuidade delitiva, previsto no art. 71 do Código Penal, prescreve que há crime continuado quando o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes da mesma espécie e, pelas condições de tempo, lugar, maneira de execução e outras semelhantes, de forma que os delitos subsequentes devem ser havidos como continuação do primeiro.
+- A jurisprudência desta Corte Superior firmou entendimento no sentido de que a caracterização da continuidade delitiva pressupõe a existência de ações praticadas em idênticas condições de tempo, lugar e modo de execução (requisitos objetivos), além de um liame a indicar a unidade de desígnios (requisito subjetivo).
+- Na espécie, em que pese os crimes da mesma espécie (três roubos majorados) hajam sido cometidos nas mesmas condições de tempo (lapso inferior a 30 dias) e com alguma semelhança de modo de execução, foram praticados em locais distintos e contra vítimas diversas, bem como ausente o requisito subjetivo, isto é, uma ligação concreta, por meio da qual, necessariamente, ficasse demonstrado que os crimes tenham sido praticados um em continuidade do outro. Afinal, a Corte estadual consignou expressamente que os crimes foram cometidos em datas distintas, contra vítimas distintas, e com modus operandi distintos, o que, inclusive, reverberou nas penas-bases e nas majorantes de cada um dos roubos, caracterizando, portanto, reiteração delitiva (e-STJ, fl. 52). Assim, o caso é de reiteração e não de continuidade delitiva, inexistindo, portanto, ilegalidade a ser sanada.
+- Entendimento em sentido contrário, como pretendido, demandaria a imersão vertical na moldura fática e probatória delineada nos autos, procedimento incompatível com a via mandamental eleita.
+Precedentes.
+- Agravo regimental não provido.(AgRg no HC n. 616.743/SP, relatorMinistro Reynaldo Soares da Fonseca, QuintaTurma,DJe de 26/10/2020.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. EXECUÇÃO CRIMINAL. UNIFICAÇÃO DE PENAS. CONTINUIDADE DELITIVA. REEXAME DE PROVAS.
+1. Conforme a jurisprudência do STJ, para a aplicação da regra do crime continuado, é imprescindível o preenchimento de requisitos não apenas de ordem objetiva - mesmas condições de tempo, de lugar e de forma de execução - como também de ordem subjetiva - unidade de desígnios ou vínculo subjetivo entre os eventos.
+2. Indeferido o pedido de unificação das penas por não haver liame lógico entre os delitos, mas, sim, a habitualidade criminosa. A pretensão de reconhecimento do crime continuado implica na revisão do conjunto fático-probatório dos autos, providência inadmissível na via do habeas corpus.
+3. Agravo regimental improvido.(AgRg no HC n. 569.022/SP, relatorMinistro SebastiãoReisJúnior, SextaTurma, DJe de 23/6/2020.)
+Desse modo, não se verifica flagrante ilegalidade, apta a justificar a concessão da ordemde ofício pelo STJ.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
