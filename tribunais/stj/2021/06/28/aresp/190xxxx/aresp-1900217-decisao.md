@@ -1,0 +1,59 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto porSALIMI SAHAO E OUTROScontra decisão que negou seguimento ao recurso especial no tocante ao índice de correção monetária e oinadmitiu pelos seguintes fundamentos: i) incidência da Súmula 7/STJ; e ii) desatendimento dorequisito previsto nos arts. 1.029, § 1º, do Código de Processo Civil e255, § 1º, do RISTJ(e-STJ, fls. 556-557).
+A parte agravante sustenta: a) que não há necessidade de reexame de fatos e provas para aferição da irrisoriedade da verba honorária; e b) o cumprimento dos requisitos dos arts. 1.029, § 1º, do Código de Processo Civile255, § 1º, do RISTJ(e-STJ, fls. 561-567).
+Sem contraminuta (e-STJ, fl. 573).
+É o relatório.
+Atendidos os requisitos de conhecimento dopresente agravo, passo a examinar o apelo nobre(e-STJ, fls. 371-397).
+Trata-se de recurso especial manejado, com amparo nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOassim ementado (e-STJ, fls. 309-310):
+APELAÇÃO - MAGISTÉRIO ESTADUAL - SERVIDORES PÚBLICOS ESTADUAIS INATIVOS - GRATIFICAÇÃO DE GESTÃO EDUCACIONAL (GGE) - Vantagem instituída pela Lei Complementar Estadual nº 1.256/2015 - Pagamento da vantagem não pressupõe a sujeição do servidor a qualquer condição especial de trabalho ou função que a justifique, mas sim se dá indiscriminadamente a todos os titulares de cargos que integram as classes de suporte pedagógico do Quadro do Magistério (Diretor de Escola, Supervisor de Ensino e/ou Dirigente Regional de Ensino), o que denota o caráter genérico e permanente da verba em tela - Benefício de caráter genérico e permanente, "aumento disfarçado", extensivo, indiscriminadamente, a todos os servidores Caráter genérico indicado tanto pela integração da vantagem às bases de cálculo do décimo terceiro salário, das férias e respectivo terço constitucional (artigo 9º, § 2º, da Lei Complementar Estadual nº 1.256/2015), dos descontos previdenciários e da assistência médica (artigo 9º, § 3º, da mesma lei),quanto do seu cômputo no cálculo dos proventos (artigo13, sempre da Lei Complementar Estadual nº 1.256/2015) - Extensão aos inativos, por força da paridade remuneratória preconizada pela Constituição Federal (artigo 40, § 8º, com as alterações introduzidas pelas Emendas Constitucionais nº 20/98 e 41/03, artigo7º) Procedência da demanda de rigor, para o fim de condenar a Autarquia-ré a pagar aos autores a Gratificação de Gestão Educacional (GGE),preconizada pela Lei Complementar Estadual nº 1.256/2015, desde a sua instituição (ou desde aaposentação, se posterior àquela), com os consectários legais (artigo 9º, §§ 1º e 2º, da Lei Complementar Estadual nº 1.256/2015),acrescida de correção monetária, a partir do vencimento de cada parcela, e juros moratórios, a fluírem da citação Juros moratórios e correção monetária que devem observar a modulação de efeitos operada pelo STF nas Ações Diretas de Inconstitucionalidade nº 4.357 e nº 4.425 Inversão dos encargos sucumbenciais Recurso provido.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 333-337).
+Alegaa parterecorrente, quanto ao capítulo recursal admitido, a violação do art. 20, §§3º e 4º, do CPC/1973, por considerar irrisórios os honorários arbitrados em R$ 950,00 (novecentos e cinquenta reais), haja vista o grau de zelo profissional, o fato de se tratar de litisconsórcio ativo composto por30 servidores e o tempo despendido com o processo.
+Suscitaainda dissídio jurisprudencial.
+Requer a majoração da verba honorária, preferencialmente em percentual de 10 a 20% do valor da condenação.
+Apresentadas contrarrazões (e-STJ, fls. 482-490).
+Decido.
+A jurisprudência deste Superior Tribunal de Justiça é no sentido de que, para o arbitramento da referida verba, o julgador, na apreciação subjetiva, pode utilizar-se de percentuais sobre o valor da causa ou da condenação, ou mesmo de um valor fixo, não se restringindo aos percentuais previstos no § 3º do art. 20 do CPC/1973.
+Confira-se:
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. PAGAMENTOS EFETUADOS EM ATRASO PELA MUNICIPALIDADE. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. CORREÇÃO MONETÁRIA. MATÉRIA DE ORDEM PÚBLICA. EXPURGOS INFLACIONÁRIOS. INCLUSÃO DE OFÍCIO. POSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. TEMPO DE DURAÇÃO DO PROCESSO. 22 ANOS. APRECIAÇÃO EQÜITATIVA DO MAGISTRADO. ART. 20, § 4º, DO CPC. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Hipótese na qual se discute a cobrança relativa a obras e serviços contratados pela municipalidade.
+2. O Tribunal de origem, soberano em matéria de fato e prova, analisando o ocorrido nos autos, concluiu que "o percentual de 10% sobre o valor da condenação atenta aos critérios estabelecidos pelo artigo 20, parágrafo 3º, do CPC e à equidade".
+3. O acórdão recorrido enfrentou expressamente os pontos da lide relativos aos arts. 20, 459 e 460 do CPC, a saber, razoabilidade da fixação dos honorários e prescindibilidade de pedido de correção monetária e inclusão de expurgos inflacionários, não sendo obrigado, por outro lado, a enfrentar meros aspectos ou questões da lide, os quais ficam, implicitamente rejeitados.
+4. O entendimento desta Corte é no sentido de que a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, conforme o grau de zelo profissional, o lugar da prestação do serviço, a natureza da causa, o trabalho realizado pelo advogado e, no caso dos autos, além daqueles, o valor total devido e tempo exigido para o seu serviço, 22 anos, tudo conforme o critério de equidade.
+5. Não se caracterizando exorbitância dentre das peculiaridades do caso dos autos, a revisão da verba honorária fixada implica, como regra, reexame da matéria fático-probatória, o que é vedado em Recurso Especial (Súmula 7/STJ).
+6. Agravo regimental não provido.
+(AgRg no Ag 1.408.072/RJ, Rel. Ministro BENEDITO GONÇALVES, DJe 26/8/2011).
+Além disso, em regra, o arbitramento da verba honorária pelo critério da equidade, na instância ordinária, é matéria de ordem fática, insuscetível de reexame na via especial nos termos da Súmula 7/STJ, que assim orienta: "A pretensão de simples reexame de prova não enseja recurso especial.".
+No ponto:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. HONORÁRIOS. DECISÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. NATUREZA E IMPORTÂNCIA DA CAUSA. QUALIDADE DO TRABALHO E TEMPO EXIGIDO. QUESTÕES DEPENDENTES DO REEXAME DE MATÉRIA FÁTICA DA LIDE. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+1. Conforme posicionamento consagrado na jurisprudência do STJ, nas causas em que não houver condenação, os honorários advocatícios devem ser fixados de forma equitativa pelo juiz, nos termos do § 4º do art. 20, CPC, considerando, como no caso dos autos, "a natureza e importância da causa" e "a qualidade do trabalho profissional desenvolvido e o tempo exigido", não estando o magistrado restrito aos limites percentuais estabelecidos no § 3º do referido artigo. Precedentes.
+2. Inviável a análise de questão relativa a matéria dependente do reexame do conteúdo fático da lide, vedado nos termos da Súmula 7 do STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 700.946/MS, Rel. Ministra ISABEL GALLOTTI, DJe 4/5/2012).
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. INDENIZAÇÃO. TORTURA E MORTE DE MENOR. RESPONSABILIDADE OBJETIVA. DANOS MORAIS E MATERIAIS CONFIGURADOS. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO. HONORÁRIOS. CRITÉRIO DA EQUIDADE. PRETENSÃO DE REEXAME DE PROVA. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONHECIDA. JUROS DE MORA E CORREÇÃO MONETÁRIA. FALTA DE PREQUESTIONAMENTO.
+1. Não há omissão, contradição, obscuridade ou erro material a ser sanado no acórdão embargado, o qual encontra-se suficientemente fundamentado e em consonância com a jurisprudência desta Corte.
+2. A fixação da verba honorária, pelo critério da equidade, envolve circunstâncias de natureza fática insuscetíveis, portanto, de reexame na via do recurso especial, por força do entendimento consolidado na Súmula 7/STJ.
+3. O Superior Tribunal de Justiça firmou entendimento no sentido da impossibilidade de se analisar pretensão referente a danos morais com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo os acórdãos serão sempre distintos.
+4. Impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal. Incidência da Súmula 211/STJ.
+5. Agravo regimental improvido.
+(AgRg no AREsp 132.628/PA, Rel. Ministro HUMBERTO MARTINS, DJe 2/5/2012).
+Entretanto, nos termos da jurisprudência desta Corte, é possível mitigar os rigores da Súmula 7/STJ para a readequação dos honorários atribuídos na origem se o valor fixado for claramente irrisório ou exorbitante, fugindo dos critérios da razoabilidade e proporcionalidade.
+A propósito:
+PROCESSO CIVIL. EXECUÇÃO FISCAL. HONORÁRIOS DE ADVOGADO.
+No âmbito do recurso especial o valor arbitrado a título de honorários de advogado só pode ser revisado se for excessivo ou irrisório; espécie em que verba honorária foi fixada em quantia exorbitante.
+Recurso especial conhecido e provido em parte.
+(REsp 1.318.867/BA, Rel. Ministro ARI PARGENDLER, DJe 19/12/2013).
+No caso, urge reconhecer que são irrisórios os honorários fixados em R$ 950,00 (novecentos e cinquenta reais)em uma demanda ajuizada em litisconsórcio ativo por 30 (trinca) servidores, o que representa menos de R$ 32,00 (trinta e dois reais)por autor.
+Admitir honorários em um patamar tão ínfimo ensejaria um prejuízo aos causídicos da parteautora, por terem optado por reunir, em um único processo, diversos servidores em situações similares - o quecontribui com a economia processual e a eficiência do Poder Judiciário.
+Isso porque, caso fossem ajuizadas ações de forma individual por cada servidor, dificilmente seriam fixados honorários no montante de R$ 32,00 (trinta e dois reais)pelas instâncias ordinárias.
+Nesse sentido, levando-se em conta o grau de zelo profissional, o tempo despendido com o processo e a importância da causa, nos moldes do art. 20, §§3º e 4º, do CPC/1973,é razoável a fixação dos honorários no percentual de 5% sobre o valor da condenação.
+Sobre o tema:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. HONORÁRIOS IRRISÓRIOS. MODIFICAÇÃO. POSSIBILIDADE.
+1. Em conformidade com o disposto no § 4º do art. 20 do CPC, hipótese dos autos, "os honorários serão fixados consoante apreciação equitativa do juiz, atendidas as normas das alíneas "a", "b" e "c" do parágrafo anterior".
+2. A jurisprudência desta Corte adotou o entendimento de que os honorários advocatícios são passíveis de modificação na instância especial tão somente quando se mostrarem irrisórios ou exorbitantes.
+3. Na espécie, a quantia atribuída aos honorários - R$ 285,00 (duzentos e oitenta e cinco reais) - é ínfima, considerando a duração da demanda, instaurada em 2007, bem como a extensão dos efeitos da condenação, por se tratar de ação coletiva promovida por sindicato.
+4. Cumpre, assim, elevar a verba ao montante equivalente a 5% sobre o valor da condenação, que representa um patamar adequado com a atuação dos advogados da parte vencedora.
+5. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.386.465/MG, de minha relatoria, SEGUNDA TURMA, julgado em 18/6/2014, DJe 27/6/2014).
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, a fim de majorar a condenação dos honorários advocatícios, fixando-os em 5% do valor atualizado da condenação.
+Publique-se. Intimem-se.
