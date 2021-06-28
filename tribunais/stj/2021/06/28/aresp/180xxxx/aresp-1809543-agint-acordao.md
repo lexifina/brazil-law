@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ALEGAÇÃO DE PERSEGUIÇÕES DE CUNHO POLÍTICO SOFRIDAS NO PERÍODO DA DITADURA MILITAR. AUSÊNCIA DE COMPROVAÇÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. LEI LOCAL. SÚMULA 280/STF.
+1. Alterar o decisum recorrido, o qual afirmou que "não se vislumbra qualquer ato a justificar a concessão de indenização por dano material ou moral ao autor", implica reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+2. A demonstração de divergência jurisprudencial pressupõe a análise de lei local (Lei Estadual 11.255/1995), o que é vedado em Recurso Especial por força da Súmula 280 do STF.
+3. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão monocrática da Presidência do STJ de fls. 1.526-1.529, e-STJ, que conheceu do Agravo para não conhecer do Recurso Especial.
+O agravante alega (fls. 1.536-1.539, e-STJ):
+O agravante foi vítima de perseguição política e em razão da restrição de direitos durante o período da ditadura, nos "tempos de chumbo", há aproximadamente 50 anos atrás, teve seu nome fichado por órgãos de segurança, com restrição de direitos ao manifestar-se em relação ao regime vigente à época, fatos públicos e notórios.
+Os fatos ocorreram há aproximados 40/50 anos atrás, época em que fazer o registro das provas era precário, considerando que geralmente as provas desapareciam ou eram eliminadas pelo sistema estatal da época.
+Incumbe ao julgador abrir o "farol do tempo", avaliar caso a caso, se o contexto permitia ou não a coleta de provas, ou se as provas foram "apagadas" pelo sistema (regime ditatorial), como comumente acontece nestes tipos de regime.
+(..)
+Quanto à similitude fática entre os casos confrontados e à divergência jurídica de interpretações, vislumbra-se que o TJPR ao analisar a Lei Estadual do Paraná nº 11.255/95, entendeu equivocadamente que o referido texto normativo AUTORIZA O PAGAMENTO DE INDENIZAÇÃO APENAS ÀS PESSOAS QUE FORAM DETIDAS OU FICARAM SOB RESPONSABILIDADE E GUARDA DOS ÓRGÃOS PÚBLICOS DO ESTADO DO PARANÁ, ao contrário da Lei Estadual do Estado do Rio Grande do Sul nº 11.042/1997, que ao tratar no seu art. 1º do mesmo teor que a norma legal paranaense (indenização por prisão legal ou ilegal na época da ditadura), também prevê a hipótese de indenização por outros motivos, inclusive, EXÍLIO E PERDA DE EMPREGO, condições estas que agregam profundo abalo psicológico à dignidade da pessoa humana.
+Impugnação às fls. 1.563-1.566, e-STJ.
+O Ministério Público Federal, mediante o parecer de fls. 1.573-1.579, e-STJ, opinou pelo não provimento do Agravo Interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ALEGAÇÃO DE PERSEGUIÇÕES DE CUNHO POLÍTICO SOFRIDAS NO PERÍODO DA DITADURA MILITAR. AUSÊNCIA DE COMPROVAÇÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. LEI LOCAL. SÚMULA 280/STF.
+1. Alterar o decisum recorrido, o qual afirmou que "não se vislumbra qualquer ato a justificar a concessão de indenização por dano material ou moral ao autor", implica reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+2. A demonstração de divergência jurisprudencial pressupõe a análise de lei local (Lei Estadual 11.255/1995), o que é vedado em Recurso Especial por força da Súmula 280 do STF.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos nesse Gabinete em 1º.6.2021.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Em relação à violação apontada ao art. 371 do CPC, o Tribunal de origem consignou (fls. 1.112-1.119, e-STJ):
+Os fatos alegados pelo autor/apelante para justificar a pretensão de reparação de dano moral e material não restaram configurados, eis que inexistentes nos autos provas de que, durante o período da ditadura militar, tenha sofrido violência, ameaça, prisão ilegal ou qualquer outra modalidade de perseguição política pelos agentes do Estado do Paraná.
+É cediço que o artigo 80 dos Atos das Disposições Constitucionais Transitórias reconheceu o instituto da anistia àqueles que "foram atingidos, em decorrência de motivação exclusivamente política, por atos de exceção, institucionais ou complementares, aos que foram abrangidos pelo Decreto Legislativo no 18, de 15 de dezembro de 1961, e aos atingidos pelo Decreto-lei no 864, de 12 de setembro de 1969".
+Igualmente, sobrevieram as Leis no 9.140/1995, a qual reconheceu mortas as pessoas desaparecidas no período ditatorial e, no 10.559/2002, que regulamentou o art. 80 do ADCT, prevendo a reparação econômica de caráter indenizatório aos cidadãos vítimas do referido período.
+Singularmente, o Estado do Paraná editou a Lei nº 11.255/1995, que dispõe sobre as indenizações às pessoas detidas sob a acusação de terem participado de atividades políticas, entre 02.09.1961 a 15.08.1979 e, que hajam ficado sob a responsabilidade e guarda dos órgãos públicos do Estado do Paraná.
+( ) In casu, o apelante não logrou êxito em comprovar que tenha sido vítima de perseguições políticas pelos agentes do Estado do Paraná, tampouco que tal motivo tenha sido a causa da perda do cargo público que ocupava.
+Observa-se do depoimento do próprio autor (mov. 91.1): "que não requereu administrativamente pedido de indenização em face do Estado do Paraná (..) porque não foi preso no Estado do Paraná (..) que nunca foi intimado a prestar depoimento, (..) interrogado ou preso no DOPS ou em estabelecimento público estadual; que foi autorizado a deixar o país (..)".
+O próprio autor admite que nunca foi preso, interrogado ou mesmo intimado aprestar depoimento por qualquer órgão estadual, assim como lhe foi autorizada a sua saída do país.
+( )
+Da prova oral colhida no processo, constata-se que o apelante não sofreu qualquer violência, perseguição ou restrição de sua liberdade pelos agentes do cenário político da época.
+Estado do Paraná por motivos relacionados ao Aliás, dos documentos colacionados aos autos, vislumbra-se que Manoel de Andrade nunca foi preso ou torturado, inexistindo atos violência a justificar a segregação.
+É verdade que, conforme consta no mov. 1.11, a Delegacia de Ordem Política e Social (DOPS) mantinha anotações, datada inicialmente de 09.08.1966, no "fichário provisório individual" sobre o autor, constando como profissão "POETA - Jornalista e Func. Púb", "(1969 - Marinheiro)", "Ex-Func. Sec. Fazenda e D.E.R. do PR", "é sindicalizado".
+Ressalta-se que a "ficha" do DOPS possui oito anotações dos anos de 1966, 1969, 1972 e 1973 (mov. 1.13 a 1.17), relatando que o autor assinou o "manifesto dos intelectuais" (1965); a saída permitida do país, em 1969, com a observação de que "o fichado requereu visto de saída, para viajar ao exterior, como marinheiro, tendo confessado que assinou o manifesto supra, porém, nunca foi nem é subversivo ou comunista, e que assinou, quando trabalhava como jornalista, mediante isso, o Del. deferiu seu pedido" (mov. 1.16).
+Constam, também, pedido de informações sobre o autor, datado de fevereiro de 1972, relatando que este esteve na Bolívia em 1970, sendo autor de poemas publicados, que estaria fazendo estudos e palestras sobre a realidade brasileira. Em dezembro de 1972, relatos de que foi encontrado o poema escrito pelo autor, "Saudação a Che Guevara" e, em novembro de 1973, "que o fichado é genro do ex- senador Rubens de Mello Braga, que desde 1967 vinha percorrendo diversos países da América proferindo conferências de caráter difamatório ao Brasil. O epigrafado está de volta a Curitiba e estaria gerenciando uma granja de propriedade de seu sogro, pretende até o final deste ano, montar um escritório de advocacia em Itajaí/SC.
+Portanto, nada indica que os agentes do Estado do Paraná tenham perseguido o autor por suas convicções políticas ao ponto de restringir sua liberdade de locomoção e pensamentos.
+Frise-se que inexiste ilegalidade no ato de ser fichado pela Delegacia de Ordem Política e Social (DOPS), desde que haja uma causa plausível para tanto eque desse ato não tenha advindo qualquer outro tipo de constrangimento como, por exemplo, perseguição e prisão, o que, in casu, não se perfez.
+Assim, como bem apontou o magistrado singular, "a contraposição política do autor em relação ao regime vigente à época é evidente, porém a perseguição política e a violação de direitos do autor por agentes estaduais não foram demonstradas, não se desincumbindo o autor de seu ônus processual de provar os fatos constitutivos de seu direito (art. 333, I, do CPC/73 e 373, Ido CPC/2015".
+Consequentemente, não se vislumbra qualquer ato a justificar a concessão de indenização por dano material ou moral ao autor, vez que a Lei Estadual no 11.255/95 autoriza o pagamento de indenização apenas às pessoas que foram detidas ou ficaram sob responsabilidade e guarda dos órgãos públicos do Estado do Paraná, que na hipótese dos autos, não houve.
+( ) Irrepreensível a sentença no que tange à análise das provas constante nos autos, afastando-se qualquer violação ao art. 371 do CPC.
+Portanto, alterar o decisum recorrido - o qual afirmou que "não se vislumbra qualquer ato a justificar a concessão de indenização por dano material ou moral ao autor" - implica reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Por fim, a demonstração de divergência jurisprudencial pressupõe a análise de lei local (Lei Estadual 11.255/1995), o que é vedado em Recurso Especial por força da Súmula 280 do STF.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
