@@ -1,0 +1,86 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 556/558) opostos à decisão desta relatoria que negou provimento ao agravo nos próprios autos (e-STJ fls. 550/554).
+A embargante alega, em síntese, a existência de omissãona decisão embargada, argumentando o seguinte (e-STJ fl. 557):
+(..)Diz a norma federal que é ônus do "réu, quanto à existência de fato impeditivo,modificativo ou extintivo do direito do autor. " (inciso II artigo 373 - CPC)
+Repito, por força da LEI e entendimento pacificado do STJ, o ônus da prova comrelação ao pagamento é do devedor e não do credor.
+Em razão da fundamentação aduzida pelo TJRS, tornou-se incontroverso quehouve a negativa do "recebimento do respectivo valor" e "embora a negativa de pagamento darequerente ".
+Como dito, apesar da LEI e entendimento pacificado do STJ dizer que é ônus dodevedor a prova do pagamento "fato" "extintivo do direito do autor." (inciso II artigo 373 -CPC). O Tribunal de piso decidiu inverter a distribuição do ônus probatório sem observa o § 1ºdo artigo 373 do CPC, que impõe "decisão fundamentada, caso em que deverá dar à parte aoportunidade de se desincumbir do ônus que lhe foi atribuído."
+Data vênia e salvo melhor juízo a decisão ora embargada que "não enfrentar todosos argumentos deduzidos no processo capazes de, em tese, in firmar a conclusão adotada pelojulgador", (inciso IV, §1º artigo 489 - CPC), pode ser considerada nula, vez que NÃO indicou(OMISSÃO), a decisão do TJRS que proporcionou a embargante "a oportunidade de sedesincumbir do ônus que lhe foi atribuído" (§1º do artigo 373 do CPC - princípio docontraditório e ampla defesa).
+Face ao exposto, sob pena de nulidade (inciso IV, §1º artigo 489 - CPC), digne-seV. Exa a sanar a omissão,
+Requer sejasanada a omissão "para indicar nos autos onde se encontra a decisão do TJRS que atendeu o requisito imposto na LEI que oportunizou a embargante "de se desincumbir do ônus que lhe foi atribuído" (§ 1º do artigo 373 do CPC) em respeito aos princípios do contraditório e da ampla defesa quando da "inversão do ônus da prova "(e-STJ fl. 557).
+Impugnação apresentada às fls. 561/566(e-STJ).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pretendido é possível apenas em casos excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, o que não se evidencia no caso em exame.
+Sob esse enfoque, os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. ALEGADA OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. NÃO OCORRÊNCIA. PRETENSÃO DA PARTE EM OBTER EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. É inadmissível a interposição de embargos declaratórios para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide. Precedentes.
+2. O simples descontentamento com o decisum, a despeito de legítimo, não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AgRg no AREsp 738.681/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 6/11/2018, DJe 12/11/2018.)
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. SÚMULA 568 DO STJ. ARGUMENTO DE NÃO INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. REDISCUSSÃO DE TEMA JÁ APRECIADO. IMPOSSIBILIDADE. MULTA PREVISTA NO ART. 557, § 2º DO CPC/1973 (ART. 1.021, § 4º, DO CPC/2015). NÃO INCIDÊNCIA.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022). A ausência do enquadramento fático às hipóteses mencionadas não permite o acolhimento do presente recurso.
+2. Não há qualquer omissão concernente à possibilidade de julgamento monocrático, visto que esta Corte Superior possui firme jurisprudência no sentido de que a legislação processual (art. 557 do CPC/1973, equivalente ao art. 932 do CPC/2015, combinados com a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal, sendo certo, ademais, que a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+3. No que tange ao argumento de não incidência da Súmula nº 7 do STJ, verifica-se que está nítido o propósito da parte embargante de rediscutir temas que foram devidamente apreciados, o que, contudo, não é cabível na via estreita dos embargos de declaração.
+4. Em consonância com a jurisprudência pacífica desta Corte Superior, a simples interposição de agravo contra decisão do relator não implica a imposição de multa.
+5. Embargos de declaração parcialmente acolhidos, apenas para excluir a multa do art. 557, § 2º, do CPC/1973
+(EDcl no REsp 1.269.844/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/10/2018, DJe 23/10/2018.)
+A decisão embargada abordou, expressamente, as questões suscitadasno especial, estando assim redigida (e-STJ fls. 550/554 - grifei):
+Trata-se de agravo nos próprios autos contra decisão que inadmitiu recurso especial por ausência de violação dos arts. 489 e 1.022 do CPC/2015 e incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 498/508).
+O acórdão recorrido está assim ementado (e-STJ fl. 372):
+APELAÇÃO CÍVEL DIREITO PRIVADO NÃO ESPECIFICADO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. BRASIL TELECOM. S.A.OFERTA PÚBLICA ACEITA. ÔNUS DA PROVA.
+Comprovação de que a demandante assinou formulário de aceitação da oferta pública, no entanto, nega que o valor do investimento tenha sido efetivamente restituído. Ocorre que além da oferta pública, a parte assinou formulário de quitação referente ao crédito decorrente do contrato de participação financeira em questão.
+Diante da presunção juris tantum de pagamento da oferta pública, com a juntada do comprovante do aceite e com o documento de quitação firmado com o Banco, cabia à requerente a contraprova. Não basta a alegação de não recebimento dos valores, deveria a contestante fazer a prova do inadimplemento, o que, no caso dos autos, não ocorreu. Sentença confirmada.
+NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Os embargos de declaração foram rejeitados (e-STJ fls. 404/409).
+No recurso especial, fundamentado no art. 105, III, "a" e "c", da CF, o recorrente apontou divergência jurisprudencial e violação dos arts. 489 e 1.022 do CPC/2015, alegando cerceamento de defesa, por considerar que o Tribunal de origem não resolveu questões essenciais ao deslinde do feito, pois (e-STJ fl. 419):
+a) não indicou o cumprimento pelo Magistrado do requisito imposto no § 1o do artigo 373 do CPC; b) nega-se a analisar a documentação juntada pelo Banco.
+Suscitou afronta ao art. 373, II, do CPC/2015, defendendo que o ônus probatório caberia à parte recorrida, haja vista que "a "presunção" de pagamento não existe à luz da norma federal" (e-STJ fl. 426).
+Requer, em síntese, que seja "(..) determinado o retorno dos autos ao Tribunal a quo para analisar as omissões e contradições articuladas nos embargos de declaração, principalmente quanto a aplicação §1º do artigo 373 do CPC, ou ainda, ou ainda, analisar a documentação juntada pelo Banco, ou no mérito lhe dê provimento para os fins de modificar-se a decisão ora recorrida, para anular as decisões recorridas, para reabrir a fase instrutória tendo em vista a violação do § 1º do artigo 373 do CPC, ou reformar a decisão recorrida para julgar procedente o pedido, em razão da violação artigo 373, II do CPC, (distribuição do ônus probatório) condenando a Recorrida a devolução do valor pago corrigido desde da data do desembolso com juros desde da citação. Declaro nos termos da letra "a", § 1º do artigo 255 do Regimento Interno do Superior Tribunal de Justiça, que as cópias que comprovam o dissídio jurisprudencial, são copias fieis das extraídas das páginas dos respectivos tribunais" (e-STJ fl. 427).
+Contrarrazões apresentadas (e-STJ fls. 480/496).
+No agravo (e-STJ fls. 510/519), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 521/534).
+É o relatório.
+Decido.
+O Tribunal negou provimento à apelação, por descumprimento do ônus probatório da recorrente, que não trouxe aos autos elementos que comprovassem o inadimplemento das obrigações devidas pela empresa sucessora, concluindo nos seguintes termos (e-STJ fl. 407):
+No acórdão hostilizado, foi negado provimento ao apelo da embargante, afastando a pretensão de cobrança em face da recorrida, o que restou juridicamente fundamentado, claro e coerente.
+Consoante enfrentado na decisão atacada, a requerente não logrou êxito em se desincumbir do seu ônus probatório, uma vez que não trouxe ao feito prova robusta de que o negócio jurídico não se efetivou.
+Nesse sentido, não há falar em violação dos arts. 489 e 1.022 do CPC/2015, visto que a decisão foi suficientemente fundamentada naquilo que era determinante ao deslinde da causa, inclusive em sede de embargos declaratórios. O inconformismo com o posicionamento adotado pelo Tribunal não se mostra suficiente ao julgamento do recurso especial.
+Ademais, em relação à prova, o TJRS decidiu o seguinte (e-STJ fls.374/375):
+No mérito, tenho que não merece provimento o apelo.
+Com efeito, foi firmado contrato de participação financeira que previa a adesão da promitente assinante às normas regulamentadoras do Ministério das Comunicações, em face da natureza da concessão do serviço público.
+Nesta senda, a promitente assinante pagava o valor correspondente à participação financeira como contribuição para expansão e melhoramentos do serviço público de telecomunicações. Assim, a companhia telefônica instalava um terminal telefônico e retribuía o investimento mediante a emissão de ações em favor do aderente.
+Todavia, no ano de 1996 as ações da companhia telefônica foram desvinculadas do uso dos terminais, sendo que o aumento de capital foi totalmente subscrito e integralizado pelos acionistas com direito de preferência. Diante da impossibilidade de entrega das ações, a companhia telefônica viabilizou oferta pública de restituição.
+No caso dos autos, a requerente aderiu ao termo de aceitação da oferta pública, porém nega o recebimento do respectivo valor.
+Ocorre que, embora a negativa de pagamento da requerente, tenho que aceitação da oferta pública, faz presumir a quitação das obrigações. Nesse contexto, incumbia à parte autora demonstrar, por meio de prova robusta, que o negócio jurídico não se efetivou.
+Assim, diferente do que alegado, a autora assinou formulário de quitação referente ao crédito decorrente do contrato de participação financeira em questão (fl. 77).
+O referido documento autorizava a instituição financeira (Banco Girobank S/A) a receber da extinta CRT à restituição dos valores referente à oferta pública aceita, para o abatimento do débito da autora junto ao banco e havendo saldo à favor do autor, o mesmo deveria ser repassado pelo Banco ao titular do crédito.
+Assim, a restituição não necessariamente seria feita por ordem de pagamento, já que a requerente não possuía conta-corrente, mas quitada diretamente com o Banco Girobank S/A, diante da autorização de quitação.
+Portanto, como já referido e mencionado na sentença a quo, incumbia à autora demonstrar, por meio de prova robusta, que o negócio jurídico não se efetivou conforme demonstra a documentação, e tal ônus probatório não foi atendido.
+Desta forma, diante da presunção juris tantum de pagamento da oferta pública, com a juntada do comprovante da oferta pública aceita e com o documento de quitação firmado com o Banco, cabia a requerente a contraprova. Não basta a alegação de não recebimento dos valores, deve esta fazer a prova do inadimplemento, o que, de fato, no caso dos autos não ocorreu.
+Nesse sentido:
+ ..  Concluo, por tais razões, que a sentença merece ser mantida.
+Do exposto, VOTO em NEGAR PROVIMENTO ao apelo.
+Considerando a negativa de provimento aos recursos, presente a sucumbência recursal, com arrimo no art. 85, § 11, do CPC, MAJORO a verba honorária fixada em favor do procurador dos apelados, para 3.500,00 (três mil e quinhentos reais), observada a suspensão da exigibilidade em razão da concessão, pretérita, do benefício da gratuidade à requerente.
+É como voto.
+Acerca da inversão do ônus da prova, verifica-se que o Tribunal de origem atribuiu à recorrente a responsabilidade de trazer aos autos prova do fato constitutivo do seu direito, no caso, "demonstrar que o negócio jurídico não se efetivou conforme demonstra a documentação" (e-STJ fl. 375), e tal ônus probatório não foi atendido.
+Desse modo, a decisão foi proferida de acordo com a jurisprudência desta Corte Superior, pacífica em considerar não automática a inversão do ônus da prova.
+Sobre o tema:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL.PROCESSUAL CIVIL. JULGAMENTO MONOCRÁTICO. PRINCÍPIO DA COLEGIALIDADE. POSSIBILIDADE. EMBARGOS À EXECUÇÃO.IMPROCEDÊNCIA. INCIDÊNCIA DO CDC AFASTADA NA ORIGEM.SÚMULA 7/STJ. TÍTULO EXECUTIVO EXTRAJUDICIAL LÍQUIDO CERTO E EXIGÍVEL. ALTERAÇÃO DAS PREMISSAS FÁTICAS. INVIABILIDADE.SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO  ..  4. "A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações do consumidor" (AgInt no AREsp 1370593/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/08/2019, DJe 12/09/2019).
+5. As conclusões da Corte Estadual, no tocante à certeza, liquidez e exigibilidade do título executivo não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame dos elementos fático- probatórios dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.550.026/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/12/2019, DJe 16/12/2019.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.COMPRA E VENDA. BEM MÓVEL (AR CONDICIONADO).ARREPENDIMENTO NO PRAZO LEGAL (7 DIAS). DEVOLUÇÃO DOS BENS E RECEBIMENTO DO VALOR DA COMPRA. APELO NOBRE. (1) RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. (2) VIOLAÇÃO DOS ARTS. 131, 165, 458 E 535 DO CPC. OMISSÃO E FALTA DE FUNDAMENTAÇÃO INEXISTENTES. (3) ÔNUS DA PROVA. INVERSÃO.CRITÉRIO DO JUIZ. REFORMA. SÚMULA Nº 7 DO STJ. (4) TRIBUNAL A QUO QUE RECONHECEU A EXISTÊNCIA DE ABALO MORAL E FIXOU A REPARAÇÃO COM BASE NOS FATOS DA CAUSA. REFORMA DO JULGADO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.
+ ..  3. A jurisprudência desta Corte firmou o entendimento de que a inversão do ônus da prova fica a critério do juiz, conforme apreciação dos aspectos de verossimilhança da alegação do consumidor e de sua hipossuficiência, conceitos intrinsecamente ligados ao conjunto fático-probatório dos autos delineado nas instâncias ordinárias, cujo reexame é vedado em especial, em função da aplicação da Súmula nº 7 do STJ.
+4. O Tribunal local, soberano na análise fático-probatória dos autos, reconheceu configurado o dano moral indenizável. A reforma de tal entendimento atrai o óbice da Súmula nº 7 do STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp 613.913/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/6/2016, DJe 23/6/2016.)
+Ainda que assim não fosse, para alterar a conclusão do acórdão recorrido, seria necessário o reexame da matéria fática, no sentido de verificar se o autor descumpriu seu ônus probatório e analisar a suposta existência de fato incontroverso, o que é inviável em recurso especial ante o óbice da Súmula n. 7 do STJ.
+Por fim, o juízo acerca da necessidade ou não da produção de prova é uma faculdade do magistrado, a quem caberá decidir se há nos autos elementos e provas suficientes para formar sua convicção. "O juiz, com base em seu convencimento motivado, pode indeferir a produção de provas que julgar impertinentes, irrelevantes ou protelatórias para o regular andamento do processo, o que não configura, em regra, cerceamento de defesa" (AgInt no AREsp 911.218/BA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 9/10/2018, DJe 16/10/2018).
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo, ficando suspensa a exigibilidade em virtude da gratuidade de justiça (art. 98, § 3º, do CPC/2015).
+Publique-se. Intimem-se.
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Assim, não se constata nenhuma das hipóteses de cabimento dos embargos declaratórios.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
