@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. FGTS E CONTRIBUIÇÕES SOCIAIS. MUNICÍPIO. CONTRATAÇÃO DE PESSOAL POR PRAZO DETERMINADO. ART. 37, IX, DA CONSTITUIÇÃO FEDERAL. É indevida a exigência de FGTS e contribuições sociais do Município que contrata pessoal por tempo determinado para atender a necessidade temporária de excepcional interesse público, conforme o inciso IX do art. 37 da Constituição Federal, quando observadas as hipóteses e situações especificadas em lei municipal.”
+    O recurso busca fundamento no art. 102, III, a e b da Constituição Federal. A parte recorrente alega violação aos arts. 7º, III; e 37, II, V, IX e § 2º, da CF.
+    O recurso extraordinário não pode ser provido, uma vez que o acórdão recorrido está alinhado com a jurisprudência do Supremo Tribunal Federal, que, no julgamento do RE 596.478-RG, Redator para o acórdão o Ministro Dias Toffoli, assentou serem devidos os valores relativos ao Fundo de Garantia de Tempo de Serviço (FGTS) àqueles cujo contrato de trabalho fora declarado nulo pela Administração em decorrência de violação à regra do concurso público (Tema 191).
+    No caso, o Tribunal de origem não declarou nulo o contrato de trabalho do recorrente. Dissentir desse entendimento exigiria a análise dos fatos e provas constantes dos autos, bem como da legislação local pertinente, procedimentos inviáveis de serem realizados neste momento processual (Súmulas 279 e 280/STF).
+    Quanto à interposição do recurso extraordinário pelo art. 102, III, c, da Constituição Federal, faz-se necessário que o acórdão recorrido tenha considerado válidos lei ou ato de governo local contestados ante a Constituição, o que não se deu no caso.
+    Por fim, importa destacar que a peça recursal não aponta, de forma clara e concreta, as razões pelas quais seria cabível a interposição do recurso extraordinário pelo art. 102, III, b, da Constituição, o que atrai a incidência da Súmula 284/STF (“É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”).
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 28 de junho de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
