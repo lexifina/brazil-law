@@ -1,0 +1,62 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 0001719-19.2013.8.11.0086
+Recorrente: Bunge Alimentos S/A
+Recorridos: Edegar Luis Tombini e outros
+Vistos.
+Trata-se de recurso especial (id 84932467) interposto por Bunge Alimentos S/A, com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Privado, assim ementado (id 82067481):
+“RAC – AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO – DEPÓSITO DE GRÃOS EM ARMAZÉM – PACTO FIRMADO ENTRE PRODUTOR RURAL E A PROPRIETÁRIA DO ARMAZÉM PARA QUE O PRODUTO DEPOSITADO SEJA ENTREGUE NAS MÃOS DE TERCEIRO – RECUSA INJUSTIFICADA DA BUNGE S.A. – ALEGADO COMETIMENTO DE ILÍCITO PENAL POR PARTE DOS PRODUTORES – APURAÇÃO EM INQUÉRITO POLICIAL – INVESTIGAÇÃO NÃO ENCERRADA E COM TRÂMITE HÁ MAIS DE UMA DÉCADA – QUITAÇÃO DA OBRIGAÇÃO DURANTE O DECURSO DO PROCESSSO – PRETENDIDA EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO – IMPOSSIBILIDADE – INDEPENDÊNCIA DAS ESFERAS CIVIL E PENAL – PEDIDOS DOS AGRICULTORES PROCEDENTES – ÔNUS DA SUCUMBÊNCIA SUPORTADO PELA PROPRIETÁRIA DO ARMAZÉM - PRINCÍPIO DA CAUSALIDADE RESPEITADO – ÔNUS PARA A BAIXA DE GRAVAME DO DEVEDOR – SENTENÇA REFORMADA NESTA PARTE – RECURSO PARCIALMENTE PROVIDO.
+1 – No caso concreto, apenas um dos pedidos foi cumprido antes de prolatada a sentença, o que obsta a extinção da ação sem resolução do mérito, pois ainda subsistia o interesse de agir no tocante aos pedidos de reconhecimento do depósito dos grãos efetuado em fevereiro e março/2011, de quitação da dívida atinente ao Contrato de Confissão de Dívida de 5.779 (cinco mil setecentos e setenta e nove) sacas de soja, e de baixa da hipoteca do penhor Cedular.
+2 - A existência de Inquérito Policial em trâmite desde em 29/06/2011, para apurar eventual participação dos Apelados em suposto esquema de fraude no depósito de soja do armazém em Novo Horizonte/MT, não tem o condão de obstar o pronunciamento do julgador na esfera civil, pois o artigo 935 do Código Civil dispõe que há independência entre as jurisdições civil e penal.
+3 - Pelo princípio da causalidade, a Bunge S.A. foi a única que deu causa ao manejo desta ação, o que significa que deve suportar sozinha o ônus da sucumbência, incluindo o pagamento dos honorários advocatícios.
+4 - É do devedor a obrigação, depois de quitada a dívida, de providenciar o cancelamento de protesto, penhor ou outra garantia registrada em Cartório”. (TJMT – Segunda Câmara de Direito Privado –Apelação n. 0001719-19.2013.8.11.0086, Relatora: Desembargadora Clarice Claudino da Silva, j. 31/03/2021, p. 12/04/2021).
+Na espécie, o presente recurso foi interposto contra o aresto proferido em sede de apelação, proposta por Bunge Alimentos S.A., em face da sentença exarada pelo Juiz da 1a Vara da Comarca de Nova Mutum, que julgou procedentes os pedidos formulados na ação declaratória de inexistência de débito ajuizada por Edegar Tombini e outros, em face da apelante e da empresa KPM Empreendimentos e Participações Ltda.
+A Câmara julgadora deu parcial provimento ao recurso, apenas para excluir da sentença a condenação da apelante ao pagamento das taxas e emolumentos do Cartório para a baixa do penhor cedular. (id 82067481 - p. 8)
+A parte recorrente alega violação aos artigos 315 e 330, III, do Código de Processo Civil, ao argumento de que “apesar do V. Acórdão ter entendido que o pedido de satisfação dos Instrumentos de Cessões de Crédito diz respeito apenas à parte dos requerimentos formulados na inicial, persistindo o interesse no tocante aos pedidos de reconhecimento do depósito dos grãos efetuado em fevereiro e março de 2011, de quitação da dívida do Sr. Edegar Tombini, atinente ao Contrato de Confissão de Dívida de 5.779 sacas de soja, e de baixa da hipoteca do penhor cedular, ainda, que o pagamento se deu depois da citação, não há dúvidas que na hipótese estamos diante de uma situação que levaria à extinção da ação sem julgamento do mérito, por carecer, sim, os Recorridos de interesse processual, mesmo que por perda superveniente do objeto, o que não foi observado, levando à violação do texto legal acima”.
+Assevera que “deixou-se de considerar que a Recorrente QUITOU A OBRIGAÇÃO JUNTO A CORRÉ ‘AGRO AMAZÔNIA’, OBJETO DOS CONTRATOS DE CESSÃO MENCIONADOS NA INICIAL, TENDO ELES ENGLOBADO O RECONHECIMENTO DO DEPÓSITO DOS GRÃOS E O PEDIDO DE QUITAÇÃO DA DÍVIDA FEITO PELO SR. EDEGAR TOMBINI, BEM COMO DE BAIXA DO PENHOR CEDULAR”.
+Argumenta que “(...) muito diversamente do entendimento do V. Acórdão, e no que toca ao interesse de agir, os Recorridos carecem de tal requisito, uma vez que a Recorrente cumpriu com todas as suas obrigações em 14 de novembro de 2013. (...) Isso porque, diferentemente do que foi alegado, a Recorrente jamais se negou a cumprir com as suas obrigações. Portanto, notório que inexiste interesse processual”.
+Recurso tempestivo (id 85493490) e preparado (id 85360493).
+Contrarrazões no id 88306979.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Consoante a previsão da Súmula 7 do STJ, em sede de recurso especial não é possível o exame de fatos e provas, pois segundo se depreende do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se exclusivamente à aplicação e à uniformização da interpretação das leis federais.
+A parte recorrente, por sua vez, alega violação ao artigo 330, III, do CPC, amparada na assertiva de que “quitou a obrigação junto à corré ‘agro amazônia’, objeto dos contratos de cessão mencionados na inicial, tendo eles englobado o reconhecimento do depósito dos grãos e o pedido de quitação da dívida feito pelo sr. edegar tombini, bem como de baixa do penhor cedular”.
+No entanto, neste ponto, constou do aresto impugnado in verbis:
+“Conforme minuciosamente relatado, o pedido de satisfação dos Instrumentos de Cessões de Crédito, nos quais Adilson e Alexandre cederam, respectivamente, 238,314 quilos e 108,428 quilos se soja para empresa KPM Empreendimentos e Participações Ltda., diz respeito apenas à parte dos requerimentos formulados na inicial.
+Nota-se que os Apelados, ainda, tinham interesse de agir no tocante aos pedidos de reconhecimento do depósito dos grãos efetuado em fevereiro e março/2011, de quitação da dívida do Sr. Edegar Tombini, atinente ao Contrato de Confissão de Dívida de 5.779 (cinco mil setecentos e setenta e nove) sacas de soja, e de baixa da hipoteca do penhor Cedular”.
+Logo, para rever a conclusão adotada no acórdão recorrido sobre a abrangência da quitação efetuada pela recorrente, isto é, se abarca todos os contratos objeto da demanda, faz-se mister o reexame do quadro fático-probatório dos autos.
+Por se tratar de pretensão de reanálise de fatos e provas, o exame do aventado dissídio jurisprudencial fica prejudicado, em virtude da incidência da Súmula 7/STJ.
+A propósito:
+“PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. POSSIBILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4o, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(...)
+VII O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+(...)
+X Agravo Interno improvido”. (AgInt no REsp 1912960/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 29/03/2021, DJe 06/04/2021). [g.n.]
+Dessa forma, o recurso especial não alcança admissão neste ponto, em razão da inviabilidade de revisão do entendimento do órgão fracionário deste Tribunal, por demandar o reexame do conjunto fático-probatório dos autos.
+Falta de dialeticidade (Súmulas 283 e 284 do STF)
+Na interposição dos recursos, as respectivas razões devem ser redigidas de forma precisa e completa, de modo a questionar todos os fundamentos do acórdão impugnado, pois o apontamento incompleto dos supostos equívocos do decisum justifica a sua integral manutenção, já que a parte não impugnada pode ser suficiente como fundamentação e não permitir a reforma do julgado.
+Se não há impugnação completa, ocorre ofensa ao princípio da dialeticidade, incidindo o óbice das Súmulas 283 e 284, do STF.
+A propósito:
+“AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO REQUERIDO.
+1. Admissível o agravo, apesar de não infirmar a totalidade da decisão agravada, pois a jurisprudência do STJ é assente no sentido de que a impugnação de capítulos autônomos da decisão recorrida apenas induz à preclusão das matérias não impugnadas.
+2. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado e a apresentação de razões dissociadas desse fundamento, impõem o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+3. Os negócios jurídicos inexistentes e os absolutamente nulos não produzem efeitos jurídicos, não são suscetíveis de confirmação, tampouco não convalescem com o decurso do tempo, de modo que a nulidade pode ser declarada a qualquer tempo, não se sujeitando a prazos prescricionais ou decadenciais. Precedentes. Incidência da Súmula 83/STJ.
+4. Agravo regimental desprovido”. (AgRg no AREsp 489.474/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 08/05/2018, DJe 17/05/2018).
+Assim, quanto à alegação de violação ao artigo 315 do Código Processo Civil, a parte recorrente alega que “o IP no 196/2011 foi instaurado justamente para apuração de fraude envolvendo operações de entrega de soja, não se podendo declarar o cumprimento de obrigações que dependem do desfecho daquela investigação para ser apurado, a qual ainda está em curso”.
+Afirma que “os recorridos, em seus pedidos (item b) requerem a declaração da existência do ‘depósito’ total de 346.742 kg de grãos de soja nos armazéns da recorrente bunge, apesar de saberem que aludidas entregas de tais quantidades constituem exatamente o objeto de uma investigação criminal em curso, ou seja, agiram de má-fé ao tentar conseguir, por meio de uma ação civil, uma declaração que somente será positiva ou negativa ao final do curso do processo criminal”.
+No entanto, verifica-se que as razões recursais são incompletas e não impugnam precisamente todas as fundamentações do acórdão.
+Com efeito, na decisão impugnada, o órgão fracionário consignou que “(...) as assertivas da Apelante de que há razoáveis dúvidas no depósito dos grãos por parte dos Apelados ainda estão na fase investigativa, e não há notícias de qual foi o seu desfecho. Ademais, já se passaram mais de 10 (dez) anos desde o suposto ilícito cometido, o que poderia atrair a ocorrência da prescrição da pretensão punitiva”. (id 82067481 - p. 7)
+Com isso, observa-se que a parte recorrente abordou a questão de forma incompleta, porquanto não impugnou o fundamento da decisão recorrida acima exposto, qual seja, o avançado decurso de tempo do suposto ato ilícito, bem como do trâmite do inquérito policial, o que, inclusive, pode ter implicado em prescrição da pretensão punitiva.
+Dessa forma, considerando que as razões recursais não impugnam exatamente os fundamentos do acórdão recorrido, há violação ao princípio da dialeticidade, o que impede a admissão do recurso.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
