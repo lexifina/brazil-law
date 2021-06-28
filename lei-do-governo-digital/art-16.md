@@ -1,0 +1,1 @@
+Art. 16. A administração pública de cada ente federado poderá editar estratégia de governo digital, no âmbito de sua competência, buscando a sua compatibilização com a estratégia federal e a de outros entes.

@@ -1,0 +1,1 @@
+Art. 10. A classificação da informação quanto ao grau de sigilo e a possibilidade de limitação do acesso aos servidores autorizados e aos interessados no processo observarão os termos da Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação), e das demais normas vigentes.
