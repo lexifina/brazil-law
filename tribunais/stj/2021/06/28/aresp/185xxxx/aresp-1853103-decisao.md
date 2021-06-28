@@ -1,0 +1,28 @@
+DECISÃO
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA.CÔMPUTO DO TEMPO DE CONTRIBUIÇÃO. ERRO MATERIAL. ALTERAÇÃO DOJULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DA AUTARQUIA FEDERAL.
+1. Agrava-se de decisão que inadmitiu o recurso especial interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, inciso III, alíneaa, da CF/1988, no qual se insurge contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. COISA JULGADA.
+Não é possível modificar o título executivo formado na fase de conhecimento. A coisa julgada deve ser respeitada(fls. 111/115).
+2. Os embargos de declaração opostos foram rejeitados (fls. 134/139).
+3. Nasrazões do seurecurso especial (fls. 147/157), a parte agravante sustenta violação dos arts. 494, I, e 1.022, ambos do CPC/2015, argumentando, para tanto, que: (a) houve negativa de prestação jurisdicional; e (b) há erro material no título exequendo, consistente no cômputo do tempo de contribuição, uma vez quea segurada conta com apenas 168 contribuições computáveis para fins de carência, o que é insuficiente para a implantação do benefício.
+4. Devidamente intimada (fls. 159/160), a parte agravada apresentou as contrarrazões (fls. 162/167).
+5. Sobreveio o juízo de admissibilidade negativo(fls. 170/173),fundado no óbice da Súmula 7/STJ;razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+6. É o relatório.
+7. A irresignação não merece prosperar.
+8.Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+9. Inexiste a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de qualquer erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+10. Quanto à matéria de fundo,a Cortede origem reconheceu que, ao contrário do que afirma a parte agravante, asalegações da autarquianão veiculam mero erro material, mas suposto equívoco quanto ao tempo de contribuição apurado na sentença, não impugnado oportunamente pelo INSS.
+11. Dessa forma, a adoção de entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+12. Nesse sentido, citoos seguintes julgados deste Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. ERRO MATERIAL. DESTINATÁRIO.JUÍZO. PRECEDENTES. AFERIÇÃO DO ERRO MATERIAL. SÚMULA 7/STJ.
+1. O Tribunal de origem não se limitou a consignar que não analisaria a ocorrência de erro material na elaboração dos cálculos, porque estaria preclusa a questão, mas por concluir que, ainda que superada a preclusão, não estaria configurado erro material.
+2. É assente no STJ que o erro material mencionado no art. 463, I, do CPC/73 tem como destinatário o juiz, e não a parte. Na hipótese, o alegado erro de cálculo decorreu da própria atuação da parte, que apresentou cálculos equivocados, o que afastaria a alegada ocorrência de erro material por parte do magistrado.
+3. Outrossim, consoante entendimento jurisprudencial, "o erro de cálculo, passível de correção de ofício e a qualquer tempo, é aquele evidente, decorrente de simples equívoco aritmético ou inexatidão material, e não o erro relativo aos critérios de fixação de cálculo" (AgRg nos EDcl no AREsp 615.791/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/10/2015, DJe 23/10/2015.).
+4. Nesse contexto, concluindo o Tribunal de origem que não se tratava de erro material, insuscetível de alteração a conclusão em atenção ao óbice da Súmula 7/STJ.Agravo interno improvido(AgInt no REsp 1532312/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 02/06/2016, DJe 08/06/2016).
+PROCESSUAL CIVIL. ERRO MATERIAL. CORREÇÃO APÓS TRÂNSITO EM JULGADO DO DECISUM. ALTERAÇÃO DO CONTEÚDO DO JULGADO. IMPOSSIBILIDADE.
+1. Consoante entendimento desta Corte, o erro material passível de correção é aquele que seja perceptível sem a necessidade de maior exame da sentença ou do acórdão e que produz dissonância evidente entre a vontade do julgador e a expressa no julgado.
+2. Erro material não se confunde com o error in judicando, sendo certo que esse somente é passível de correção, após o trânsito em julgado do decisum, por meio de ação rescisória.
+3. Hipótese em que não se trata apenas de correção de erro material, e sim de alteração de todo o conteúdo do julgado.
+4. Agravo regimental desprovido(AgRg no REsp 1267296/PR, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 07/05/2015, DJe 26/05/2015).
+13. Ante o exposto, conheço do agravo para não conhecer do recurso especial da autarquia federal.
+14. Publique-se. Intimações necessárias.
