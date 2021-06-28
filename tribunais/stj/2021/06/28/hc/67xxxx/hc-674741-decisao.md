@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus,com pedido de liminar, impetrado embenefício deMarco Antonio da Silva, em que se aponta como autoridadecoatora o Desembargador Relator do HC n.0006976-21.2021.8.25.0000(202100317784), em curso no Tribunal de Justiça de Sergipe.
+Alega-se, na inicial, que houve a distribuição do préviowritem 11/6/2021, porém, até o ajuizamento deste feito, o pedido liminar encontrava-se sem apreciação.
+Aduz-se a existência de constrangimento ilegalna expedição e cumprimento de mandado de prisão em desfavor do paciente para cumprimento de pena de 1 (um) mês em regime semiaberto que, no entanto, diante do cumprimento no Estado de São Paulo no dia 25/5/2021, encontra-se detido em regime fechado aguardando vaga em estabelecimento prisional adequado ao regime semiaberto(fl. 4 - PEC n. 5000604-38.2020.8.25.0086/SEEU).
+Defende-seque a hipótese não se tratade supressão de instância, uma vez que a impetração ocorrera na origem; também não se trata de situação sob a égide da Sumula 691 do STF, já que a liminar nem mesmofoi apreciada.
+Requer-se, inclusive em caráter liminar, a expedição de alvará de soltura em favor do paciente, pois ele se encontra preso desde o dia 25/5/2021, tendo cumprido mais de 2/3 da pena em regime mais gravoso que o fixado.
+Diante da notícia de ausência de apreciação do pedido liminar no préviohabeas corpus,solicitei informações antes de apreciar a liminar (fl. 105), as quais foram prestadas às fls. 108/119.
+Como os informes encaminhados referiam-se a outro processo, determinei a reiteração do pedido anterior (fl. 218). Contudo, conforme certificado à fl. 225, até a presente data, as informações solicitadas não foram prestadas.
+Consta dos autos petições formuladas pela defesa, às fls. 121/125 e 220/223, reiterando o pedido de concessão da medida de urgência.
+É o relatório.
+Verifica-se da página eletrônica do Tribunal a quo na internet que, no dia 22/6/2021, houve prolação de decisão nohabeas corpusa que se refere a petição inicial.
+NaocasiãoaDesembargadoraElviraMariadeAlmeidaSilva-emrazãoda redistribuição dos autos -, monocraticamente, não conheceudos pedidos formulados pela defesa. Segue abaixo trecho da fundamentação lançada para tanto (conteúdo obtido na internet - grifo nosso):
+ ..
+Cuidam os autos deHabeas Corpusimpetrado em favor do paciente MARCOS ANTONIO DA SILVA, a fim de que estetenha expedido a seu favor um alvará de soltura. Para tato, utiliza-se dos seguintes argumentos: absoluta falta de conhecimento da Ação Penal; ter sido fixado,na sentença, oregime aberto, e não fechado;e estar exposto a risco pela pandemia do novo coronavírus.
+O impetrante requer, portanto, a concessão da liminar, a fim de que seja assegurado ao pacienteo estado deliberdade,pelas razões acima expostas.
+Delogo, insta esclarecer que o presente feito foi distribuído(11/6/2021), inicialmente, para aRelatoria do Des. Osório de Araújo Ramos Filho.Posteriormente (21/6/2021), o presentewritfoi redistribuído para esta Relatoria, em razão da decisão exaradana última data citada.
+Ademais, ressalte-se que, a despeito do argumento deabsoluta falta de conhecimento daAçãoPenal,da análise do SCP-V (Sistema de Controle Processual Virtual), observa-se que,recebida a denúncia (2/3/2017), foi expedido mandado de citação em face do Sr. Marcos Antônio da Silva, ora paciente, o qual fora devidamente cumprido, com aposição da assinatura do destinatário, conforme se infere da juntada realizada em 14/3/2017 nos autos daAção Penal n.201786000181.
+Em audiência realizada no dia 06/09/2017 foi decretada a revelia do então acusado, nos termos do que dispõe o art. 367, do CPP, sob o argumento de que o mesmo mudou de endereço, sem informar ao Juízo.
+Após todo o trâmite processual, inclusive com apresentação de alegações finais pelas partes (acusado assistido pela Defensoria Pública), em 25/1/2018, foi prolatada sentença pela procedência pela pretensão punitiva estatal, fixando uma pena de um mês de detenção, a qual fora substituída por uma pena restritiva de direito, consistente em prestação de serviços à comunidade.
+AExecução da Pena (n.201886001920), distribuída em 10/12/2018, teve o julgamento prolatado nos seguintes termos:
+"( ) Forte em tais razões, CONVERTO a pena restritiva de direitos imposta na sentença proferida nos autos nº 201786000181 em privativa de liberdade, nos termos do art. 44, § 4º do CP e, com fulcro no art. 118 da LEP, determino a regressão do regime de cumprimento da pena pelo condenado MARCOS ANTÔNIO DA SILVA, que deverá ter início no regime semiaberto, atendendo ao prazo fixado na referida sentença.
+Assim, por todo o exposto, determino à Secretaria Judicial que EXPEÇA GUIA DE EXECUÇÃO ELETRÔNICA DEFINITIVA À VEC - 7ª VARA CRIMINAL DE ARACAJU - VARA DE EXECUÇÕES CRIMINAIS para cumprimento da pena pelo réu MARCOS ANTÔNIO DA SILVA imposta por ocasião da sentença proferida nos autos nº 201786000181, e desta decisão que determinou a regressão do regime EM SEMIABERTO, abstendo-se de expedir o mandado de prisão, anexando à Guia de Execução Eletrônica a presente decisão, com a finalidade de justificar a ausência de mandado de prisão cumprido em desfavor do apenado.
+Distribuída a aludida Execução Definitiva de Pena, certifique-se, arquivando-se os autos."
+Posteriormente, a citada Execução da Pena n. 201886001920 migrou para oSistema Eletrônico de Execução Unificada - SEEU, sob o nº 5000604-38.2020.8.25.0086, na qual o magistrado, em 04/09/2020, proferiu decisão,cuja parte dispositiva segue transcrita:
+"( ) Ante o exposto, determino a regressão cautelar de MARCOS ANTONIO DA SILVA para o regime fechado.
+Expeça-se mandado de prisão, assinalando o dia 30/10/2021,como data provável para a prescrição da pretensão executória.
+Cadastrem-se os incidentes concedidos de revogação de progressão de regime e de regressão cautelar.
+Redistribua-se para o ambiente fechado/semiaberto.
+Intimem-se."
+Em 15/12/2020, o mandado de prisão foi expedido,conforme se avista da movimentação processual do Sistema Eletrônico de Execução Unificada - SEEU.
+Pois bem.Examinando a pretensão contida na inicial dopresentemandamus,bem como todo o trâmite processual havido e registrado por meio do SCP-V e do SEEU, constato óbice legal à apreciação por esta Cortede Justiça.Explico:
+Aprisão preventiva inserta no art. 312 do CP trata-se de medida de restrição de liberdade de caráter cautelar ou provisório, decretada pelo juiza quo(a requerimento do Ministério Público, do querelante ou do assistente, ou por representação da autoridade policial), durante o inquérito ou a instrução criminal, com finalidade acautelatória, isto é, natureza processual ou instrumental.
+Já a prisão definitiva é aquela resultante de sentença penal condenatória, consistente no cumprimento da pena privativa de liberdade determinada com finalidade de executar a decisão judicial, ou seja, medida penal destinada à satisfação da pretensão executória do Estado.
+Dessa forma, tratam-se de institutos diversos, e no caso concreto, como já explicitado alhures, o paciente encontra-se cumprindo pena em regime fechado, referente ao Processo de Execução Penal nº 5000604-38.2020.8.25.0086, que tramita perante a 7ª Vara Criminal (VEP).
+Nesse toar, entendo que o pleitosub examineé matéria a ser analisada pelo Juízoda Vara de Execuções Penais, nos termos no art. 112, da Lei de Execução Penal.
+Em assim sendo, apreciar o pleito objeto do presentemandamus, seria incorrer em supressão de instância, uma vez que o Juízo competente para analisar tal situação seria o da Execução Penal.
+Em assim sendo, apreciar o pleito objeto do presente "mandamus", seria incorrer em supressão de instância, uma vez que o Juízo competente para analisar tal situação seria o da Execução Penal, nos termos do art. 66, inciso III, alínea "b", da Lei nº 7.210/84.
+Convém salientar queos membros da Câmara Criminal deste Tribunal vem adotando o mesmo entendimento na questão em debate, é o que se depreende daementaa seguir transcrita:
+HABEAS CORPUS - PACIENTE CONDENADO PELA PRÁTICA DE FURTO QUALIFICADO (ART. 155, § 4º, INCISO II, DO CÓDIGO PENAL) -INSURGÊNCIA RELATIVA À CONCESSÃO DO DIREITO DE RECORRER EM LIBERDADE OU FIXAÇÃO DO REGIME INICIAL MENOS GRAVOSOPOR INEXISTIR NO ESTADO DE SERGIPE ESTABELECIMENTO PARA CUMPRIMENTO NO SEMIABERTO -SUPRESSÃO DE INSTÂNCIA- CONFECCIONADA A GUIA DE EXECUÇÃO Nº202100474, CADASTRADA NO SEEU COM O Nº. 5000859-30.2019.8.25.0086 -COMPETÊNCIA DO JUÍZO DA VARA DAS EXECUÇÕES - HABEAS CORPUS NÃO CONHECIDO- DECISÃO UNÂNIME. (Habeas Corpus Criminal nº 202000341468 nº único0013924-13.2020.8.25.0000 - CÂMARA CRIMINAL, Tribunal de Justiça de Sergipe - Relator(a): Ana Lúcia Freire de A. dos Anjos - Julgado em 28/1/2021)
+Observe-se ainda que nada impedirá que a questão ora suscitada, após ser decidida pelo Juízo "a quo", possa ser novamente apreciada por esta Instância, mediante recurso próprio.
+Pelos motivos supracitados, concluo que é defeso a este grau de jurisdição conhecer das alegações desenvolvidas por meio da presente ordem deHabeas Corpus, de modo a afastar a supressão de instância, uma vez que não pode ser olvidada a competência originária do Juízoda Execução para analisar o caso.
+ ..
+Tal o contexto, não se mostra cabível o remédio constitucional contra decisão monocrática não submetida à apreciação do Colegiado competente, de modo a exaurir a instância antecedente.
+Inviávela análise dos temas por esta Corte Superior, sob penade indevida supressão de instância(HC n. 326.880/ES, de minha relatoria, Sexta Turma, DJe 14/12/2016).
+Por tais razões, indefiro liminarmenteo habeas corpus(art. 210 doRISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO. CUMPRIMENTO DE PENA EM REGIME MAIS GRAVOSO QUE O FIXADO NA CONDENAÇÃO.DECISÃO MONOCRÁTICA DE DESEMBARGADORA RELATORA. NÃO CONHECIMENTO DO PRÉVIO WRIT.AUSÊNCIA DE ESGOTAMENTO DE INSTÂNCIA.PROVOCAÇÃO DOCOLEGIADO. NECESSIDADE.
+Writindeferido liminarmente.
