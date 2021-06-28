@@ -1,0 +1,18 @@
+DECISÃO
+Estes autos foram a mim distribuídos por prevenção do processo HC n. 617.789/RS (fl. 1.445).
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Cristiano Lopes dos Santos, em que se aponta como autoridade coatora o Juízo da Vara Criminal da comarca de Sapiranga/RS, que decretou a sua prisão preventiva (fl. 3).
+Na presente impetração, menciona a parte impetrante que o paciente está preso preventivamente desde 30/9/2019, tendo a audiência de instrução e julgamento sido encerrada em 22/4/2021, não havendo, até a presente data, a prolação da sentença, muito menos previsão para tanto (fl. 3).
+Aduz que o paciente faz jus à prisão domiciliar, com monitoramento eletrônico, em razão de doença grave, a qual enseja a realização de diversos exames médicos, tratamento ambulatorial contínuo, medicação contínua, alimentação especial e prática de exercícios físicos, sob risco de morte (fls. 5/7), e que o delito em apresso não detém violência ou grave ameaça à pessoa e não tendo sido o paciente preso em flagrante (fl. 8).
+Menciona que o quadro de saúde do paciente está amplamente demonstrado; que ele se encontra em presídio com ocupação cima da capacidade física, e que preenche os requisitos da Recomendação CNJ n. 62/2020, tendo em vista que responde por crimes sem violência ou grave ameaça (fls. 8/12), e ressalta, ainda, os pressupostos favoráveis do paciente para a obtenção da liberdade provisória(não possui habitualidade delitiva; é proprietário do mercado C. L. dos Santos Minimercado - ME; detém endereço fixo e não é enraizado por violência ou grave ameaça à pessoa - fl. 13).
+Ao final, requer, em liminar e no mérito, a substituição da prisão preventiva pela domiciliar, com monitoramento eletrônico, com expedição de alvará de soltura em favor do paciente (fl. 13).
+É o relatório.
+A presente impetração não pode prosperar.
+Depreende-se da impetração, em apertada síntese, que os impetrantes insurgem-se contra possível ato coator emanado pelo Juízo de Direito da Vara Criminal da comarca de Sapiranga/RS, nos Autos n. 132/2.19.0002632-0 (CNJ.0005994-78.2019.8.21.0132) - fls. 1.420/1.423, não contendo a inicial nenhuma referência à impetração de habeas corpus no Tribunal a quo, o que evidencia a incompetência deste Superior Tribunal para apreciar e julgar originariamente a causa, nos termos do art. 105, II, da Constituição Federal.
+Confiram-se: AgRg no HC n. 624.902/SP, Ministro Felix Fischer, Quinta Turma, DJe 9/2/2021; AgRg no HC n. 612.817/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 23/11/2020; AgRg no HC n. 558.712/RS, Ministra Laurita Vaz, Sexta Turma, DJe 15/6/2020; AgRg no HC n. 534.810/DF, Ministro Rogerio Schietti Cruz, Sexta Turma, REP. DJe 8/6/2020, DJe 30/10/2019; e o RCD nos EDcl no HC n. 487.202/PE, de minha relatoria, Sexta Turma, DJe 2/4/2019.
+Impende salientar que as inúmeras alegações dos impetrantes constantes deste writ não foram apreciadas, em nenhum momento, pelo Tribunal de Justiça do Rio Grande do Sul, em segunda instância, ficando, portanto, impedida esta Corte Superior de proceder àsua análise, sob pena de incorrer em indevida supressão de instância, conforme reiterada jurisprudência desta Corte.
+A propósito: RCD no HC n. 594.943/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 14/9/2020 e HC n. 521.341/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 11/10/2019.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o pedido.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PLEITO DE PRISÃO DOMICILIAR DECORRENTE DE DOENÇA GRAVE. ATO COATOR IMPUTADO A JUIZ DE PRIMEIRA INSTÂNCIA. MANIFESTA INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ART. 105, I, C, DA CF.
+Petição inicial indeferida liminarmente.
