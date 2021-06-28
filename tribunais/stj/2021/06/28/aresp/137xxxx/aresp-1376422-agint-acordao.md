@@ -1,0 +1,117 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Raul Araújo.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA DEMANDADA.
+1. Não se admite o recurso especial, quando não tratada na decisão proferida pelo Tribunal de origem a questão federal suscitada, tampouco foram apresentados embargos de declaração para sanar eventual omissão ou prequestionar a matéria, ante a ausência do indispensável prequestionamento. Incidência da Súmula 282 do STF.
+2. A jurisprudência desta Corte é no sentido de ser incabível, em sede de recurso especial, o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Aplicação, por analogia, da Súmula 735/STF.
+3. A conclusão quanto a necessidade de produção de prova técnica para aferir as semelhanças e diferenças entre os produtos das partes a fim de concluir, ou não, pela ocorrência de contrafação, reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ. Precedentes.
+4. A conclusão da Corte de origem no sentido de que a pretensão deduzida em juízo, referente à possível confusão nos consumidores pela alegada prática de concorrência desleal, é questão complexa que "depende de prova técnica, a ser produzida oportunamente", encontra ressonância na jurisprudência desta Corte Superior, razão pela qual a pretensão recursal também encontra obstáculo na Súmula 83 do STJ.
+5. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por BRITANIA ELETRODOMESTICOS S/A, contra a decisão monocrática de fls. 945-950, e-STJ, negou provimento ao agravo em recurso especial.
+O apelo extremo (art. 105, inciso III, alínea "a", da CF), a seu turno, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 768, e-STJ):
+DIREITO COMERCIAL. PROPRIEDADE INTELECTUAL. AGRAVO DE INSTRUMENTO. AÇÃO DE ABSTENÇÃO DE USO DE DESENHO INDUSTRIAL. LIQUIDIFICADOR - PRODUTO DE DOMÍNIO PÚBLICO - CLARA IDENTIFICAÇÃO DA MARCA - DIFERENÇA APARENTE ENTRE OS DESENHOS DOS PRODUTOS DOS FABRICANTES - QUESTÃO QUE DEPENDE DE PROVA - ATIVIDADE COMERCIAL - PRINCÍPIOS DA LIBERDADE ECONÔMICA E LIVRE CONCORRÊNCIA - INEXISTÊNCIA DE ELEMENTOS CONSISTENTES PARA JUSTIFICAR A IMPOSSIBILIDADE DE COMERCIALIZAÇÃO DO PRODUTO NESTE MOMENTO PROCESSUAL.
+RECURSO CONHECIDO E PROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do especial (fls. 784-824, e-STJ), a recorrente apontou, além do dissídio jurisprudencial, violação aos artigos 2º, II, 42, 109 e 209, § 1º, da Lei n. 9.279/96 e 300 do Código de Processo Civil de 2015.
+Afirmou que "o registro BR 30 2014 000052-7 concedido pelo INPI garante à BRITANIA ELETRODOMÉSTICOS S/A, sem dúvida, a proteção sobre o seu direito de propriedade industrial, de forma que a violação da exclusividade de uso do respectivo desenho industrial, por si só, gera a presunção da ocorrência de dano".
+Defendeu a necessidade de restabelecimento da decisão do juízo de piso deliberada no sentido de determinar, em caráter liminar, a proibição de comercialização do produto "Turbo Premium L 1000W", diante de todas as evidências da prática de contrafação pela demandada, em flagrante violação do direito de propriedade do desenho industrial.
+Contrarrazões apresentadas às fls. 851-877, e-STJ.
+Em razão do juízo prévio negativo de admissibilidade (fls. 893-894, e-STJ), a recorrente interpôs o agravo (fls. 897-910, e-STJ), visando destrancar o processamento daquela insurgência.
+Em decisão monocrática (fl. 945-950, e-STJ), este signatário negou provimento ao agravo em recurso especial, ante os seguintes fundamentos: (i) ausência de prequestionamento; (ii) incidência da Súmula 735/STF, uma vez que se trata de recurso contra acórdão que decidiu medida acautelatória; (iii) incidência da Súmula 7/STJ, pois a reforma do acórdão demandaria modificar a convicção formada na origem sobre a necessidade de dilação probatória; (iv) incidência da Súmula 83/STJ quanto a imprescindibilidade da prova pericial para apurar a contrafação.
+Daí o agravo interno de fls. 953-974, e-STJ, no qual a agravante sustentou a inaplicabilidade dos óbices sumulares utilizados, afirmando: a) que a matéria foi prequestionada de forma implícita; b) haver "casos em que a interposição do REsp é medida necessária na intenção de se evitar danos e injustiças (..)" (fl. 964, e-STJ); c) não pretender revolvimento de matéria fática, mas revalorização da prova; d) a matéria suscitada no reclamo não vai de encontro à orientação jurisprudencial firmada.
+Impugnação às fls. 978-991, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA DEMANDADA.
+1. Não se admite o recurso especial, quando não tratada na decisão proferida pelo Tribunal de origem a questão federal suscitada, tampouco foram apresentados embargos de declaração para sanar eventual omissão ou prequestionar a matéria, ante a ausência do indispensável prequestionamento. Incidência da Súmula 282 do STF.
+2. A jurisprudência desta Corte é no sentido de ser incabível, em sede de recurso especial, o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Aplicação, por analogia, da Súmula 735/STF.
+3. A conclusão quanto a necessidade de produção de prova técnica para aferir as semelhanças e diferenças entre os produtos das partes a fim de concluir, ou não, pela ocorrência de contrafação, reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ. Precedentes.
+4. A conclusão da Corte de origem no sentido de que a pretensão deduzida em juízo, referente à possível confusão nos consumidores pela alegada prática de concorrência desleal, é questão complexa que "depende de prova técnica, a ser produzida oportunamente", encontra ressonância na jurisprudência desta Corte Superior, razão pela qual a pretensão recursal também encontra obstáculo na Súmula 83 do STJ.
+5. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O presente recurso não merece prosperar, porquanto as razões deduzidas pela insurgente são insuficientes a derruir a fundamentação do decisum impugnado.
+1. Consoante asseverado na decisão agravada, o conteúdo normativo inserto nos artigos 2º, II, 42, 109 e 209, § 1º, da Lei n. 9.279/96, não foi objeto de discussão pela instância ordinária, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do reclamo.
+Saliente-se, ainda, que a parte insurgente não opôs embargos declaratórios contra a decisão impugnada, a fim de atender ao aludido requisito de admissibilidade ou à pretensa alegação de negativa de prestação jurisdicional. Incidindo, ao caso, portanto, o óbice disposto na Súmula 282 do STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+INSURGÊNCIA DA DEMANDADA.
+1. Não se admite o recurso especial, quando não tratada na decisão proferida pelo Tribunal de origem a questão federal suscitada, tampouco foram apresentados embargos de declaração para sanar eventual omissão ou prequestionar a matéria, ante a ausência do indispensável prequestionamento. Incidência da Súmula 282 do STF.
+ ..
+3. Agravo interno desprovido.
+(AgInt no AgInt nos EDcl no AREsp 1111572/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 02/10/2018, DJe 10/10/2018)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CONTRATO COLETIVO. FALTA DE PREQUESTIONAMENTO. REAJUSTE POR FAIXA ETÁRIA. ABUSIVIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+ ..
+2. Ausente o prequestionamento da questão apresentada no recurso especial, incide o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp 1238365/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 01/10/2018, DJe 04/10/2018)  grifou-se
+Com efeito, esta Corte admite o prequestionamento implícito/ficto dos dispositivos tidos por violados, desde que a tese debatida no apelo nobre seja expressamente discutida no Tribunal de origem, o que não ocorreu na hipótese. Precedentes:
+PROCESSO CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇO. DESCUMPRIMENTO CONTRATUAL. ATO ILÍCITO. COMPROVAÇÃO. SÚMULA N. 7 DO STJ. VIOLAÇÃO DE DISPOSITIVO DE LEI. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 211 DO STJ E 282 DO STF. PREQUESTIONAMENTO IMPLÍCITO. NÃO OCORRÊNCIA.  ..  2. É inadmissível o recurso especial se o dispositivo legal apontado como violado não fez parte do juízo firmado no acórdão recorrido e se o Tribunal a quo não emitiu juízo de valor sobre a tese defendida pela parte. Incidência das Súmulas n. 211 do STJ e 282 do STF. 3. Há prequestionamento implícito dos dispositivos legais quando o acórdão recorrido emite juízo de valor fundamentado acerca da matéria por eles regida. 4. Agravo interno desprovido. (AgInt no AREsp 332.087/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 18/08/2016, DJe 25/08/2016)  grifou-se
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DE COBRANÇA. SEGURO DE VIDA. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. PERCENTUAL. ART. 20 DO CPC/73. AUSÊNCIA DE PREQUESTIONAMENTO. OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO, SEM MANIFESTAÇÃO DO TRIBUNAL A QUO. SÚMULA Nº 211 DO STJ. AUSÊNCIA DE ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/73. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.  ..  2. Esta Corte admite o prequestionamento implícito dos artigos tidos por violados, mas desde que a tese debatida no apelo nobre seja expressamente discutida no Tribunal de origem. 3. Ausência de alegação de violação do art. 535 do CPC/73 a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.  ..  5. Agravo regimental não provido. (AgRg no AREsp 748.582/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 10/05/2016, DJe 13/05/2016)  grifou-se
+Inclusive, esta Corte já deliberou, na vigência do novo CPC, que "o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscitar a violação ao art. 1.022 do mesmo Diploma, pois somente dessa forma é que o Órgão julgador poderá verificar a existência do vício e proceder à supressão de grau." (AgInt no AREsp 1329977/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/11/2018, DJe 22/11/2018).
+No mesmo sentido, ainda, confira-se: AgInt no AREsp 1171207/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 12/11/2018, DJe 16/11/2018; AgInt no REsp 1744635/MG, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 08/11/2018, DJe 16/11/2018; AgInt no REsp 1725538/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/10/2018, DJe 26/10/2018; AgInt no AREsp 1274393/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/10/2018, DJe 23/10/2018.
+Na hipótese, inafastável o teor da Súmula 282/STF, ante a ausência de prequestionamento, porquanto os dispositivos apontados como violados não tiveram o competente juízo de valor aferido, nem foram interpretados pelo Tribunal de origem.
+2. No que se refere à alegada aos arts. 209, § 1º, da Lei n. 9.279/96 e 300 do Código de Processo Civil de 2015, observa-se que o apelo extremo visa reformar acórdão que cassou decisão de deferimento parcial de pedido de tutela de urgência "a fim de determinar à parte ré que se abstenha, imediatamente, de "colocar à venda, vender, oferecer à venda, expor à venda, e no prazo de 30 dias, retirar do mercado o produto "Turbo Premium L 1000W" (se já estiver em circulação), sob pena de multa diária de R$ 50.000,00 (cinquenta mil reais) em caso de descumprimento" (e-STJ, fl. 769).
+Quanto ao tema, a jurisprudência desta Corte é no sentido de ser incabível, em sede de recurso especial, o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Aplicação, por analogia, da Súmula 735/STF, a saber: "Não cabe recurso extraordinário contra acórdão que defere medida liminar.".
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SOCIEDADE. DISSOLUÇÃO PARCIAL. DATA. DECISÃO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REEXAME. IMPOSSIBILIDADE. SÚMULAS 7/STJ E 735/STF.
+1. A jurisprudência deste STJ, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1085584/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 05/12/2017, DJe 14/12/2017)  grifou-se
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ANTECIPAÇÃO DE TUTELA. ANÁLISE DO MÉRITO DA AÇÃO PRINCIPAL. IMPOSSIBILIDADE. DECISÃO MANTIDA. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A jurisprudência do STJ firmou-se no sentido de que apenas a violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. Súmula nº 735 do STF.
+ ..
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no REsp 1649198/CE, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/10/2017, DJe 30/10/2017)  grifou-se
+3. Tocante ao pleito de afastamento do óbice da Súmula 7/STJ, deduzido nas razões do agravo interno (fls. 964-965, e-STJ), outrossim, não assiste razão a insurgente.
+A respeito da produção de prova técnica para aferir as semelhanças e diferenças entre os produtos das partes a fim de concluir, ou não, pela ocorrência de contrafação, o Tribunal local concluiu pela necessidade das provas, nos seguintes termos:
+No caso dos autos, a situação jurídica, envolvendo conflito de interesse das partes, se revela complexa, na medida em que a pretensão deduzida em juízo se baseia em alegações que ainda dependem de prova técnica, a ser produzida oportunamente.
+ ..
+Importante salientar que a alegação de que a embalagem do produto pode provocar confusão aos consumidores não pode, de per si, levar à concessão da liminar, pois não houve pedido de seu registro junto ao órgão competente. Além disso, a alegada confusão é afastada pela circunstância de que a marca de cada produto se sobressai de modo claro e distinto, não havendo como se confundir um e outro nesse relevante aspecto. Também se observa que a embalagem da marca da ré é vertical e a da marca da autora, horizontal.
+ ..
+Por último, quanto ao desenho aplicado ao produto, podem ser observadas prima facie várias dessemelhanças entre o de propriedade da autora e o aplicado pela requerida, o que implica serem diferentes os desenhos mencionados. Cumpre salientar que a proteção do desenho industrial não inclui a forma geométrica. Tal questão, porém, ainda deverá ser analisada em maior profundidade ao longo da instrução processual.
+Destarte, considerando o evidente perigo decorrente da impossibilidade de colocação do produto no mercado, os relevantes argumentos apresentados, especialmente a demonstração de clara identificação da marca nas embalagens do aparelho (liquidificador) produzido pela agravante, bem como as apontadas diferenças entre os desenhos dos produtos perceptíveis a olho nu, por ora, deve ser afastada a impossibilidade de comercialização do produto. (fls. 788-789, e-STJ)
+Na hipótese, para desconstituir as conclusões das instâncias ordinárias, isto é, pela desnecesssidade da prova técnica, que a embalagem de cada produto não gera confusão entre os consumidores e que, prima facie, os desenhos dos produtos não são diferentes, como pretende a insurgente, seria necessário a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+Nesse sentido, precedentes:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DESENHO INDUSTRIAL.ORIGINALIDADE. PROVA PERICIAL PRODUZIDA. REEXAME DE PROVA.
+1. Inviável a análise do recurso especial quando dependente de reexame de matéria fática da lide (Súmula 7 do STJ).
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 562.652/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/08/2015, DJe 10/08/2015)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DE PROPRIEDADE INTELECTUAL. DIREITOS AUTORAIS. NÃO OCORRÊNCIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. ART. 1.022 DO NCPC. AUSÊNCIA DE OMISSÕES. MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. A reforma do acórdão estadual, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1222625/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/09/2018, DJe 26/09/2018)  grifou-se
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+2. No caso concreto, o Tribunal de origem baseou-se nos fatos e nas provas dos autos, especialmente no laudo da perícia realizada, para concluir pela caracterização da concorrência desleal e do desvio de clientela.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1010456/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 04/05/2017, DJe 12/05/2017)
+ grifou-se
+4. Por fim, esta tem Corte de Justiça tem entendido pela necessidade de prova técnica para aferição da ocorrência ou não prática de concorrência desleal pela violação de propriedade intelectual.
+Confira-se, a propósito, a ementa do seguinte julgado:
+PROPRIEDADE INDUSTRIAL. RECURSO ESPECIAL. CONJUNTO-IMAGEM (TRADE DRESS). COMERCIALIZAÇÃO DE PRODUTO AFIM. EMBALAGENS ASSEMELHADAS.
+CONCORRÊNCIA DESLEAL. ART. 209 DA LEI N. 9.279/1996 (LPI). PERÍCIA TÉCNICA REQUERIDA. DISPENSA INJUSTIFICADA. CERCEAMENTO DE DEFESA CONFIGURADO. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. O conjunto-imagem (trade dress) é a soma de elementos visuais e sensitivos que traduzem uma forma peculiar e suficientemente distintiva, vinculando-se à sua identidade visual, de apresentação do bem no mercado consumidor.
+2. Não se confunde com a patente, o desenho industrial ou a marca, apesar de poder ser constituído por elementos passíveis de registro, a exemplo da composição de embalagens por marca e desenho industrial. 3. Embora não disciplinado na Lei n. 9.279/1996, o conjunto-imagem de bens e produtos é passível de proteção judicial quando a utilização de conjunto similar resulte em ato de concorrência desleal, em razão de confusão ou associação com bens e produtos concorrentes (art. 209 da LPI).
+4. No entanto, por não ser sujeito a registro - ato atributivo do direito de exploração exclusiva - sua proteção não pode servir para ampliar direito que seria devido mediante registro, de modo que não será suficiente o confronto de marca a marca para caracterizar a similaridade notória e presumir o risco de confusão.
+5. A confusão que caracteriza concorrência desleal é questão fática, sujeita a exame técnico, a fim de averiguar o mercado em que inserido o bem e serviço e o resultado da entrada de novo produto na competição, de modo a se alcançar a imprevisibilidade da conduta anticompetitiva aos olhos do mercado.
+6. O indeferimento de prova técnica, para utilizar-se de máximas da experiência como substitutivo de prova, é conduta que cerceia o direito de ampla defesa das partes.
+7. Recurso especial conhecido e provido.
+(REsp 1353451/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/09/2017, DJe 28/09/2017)  grifou-se
+RECURSO ESPECIAL. USO INDEVIDO DE MARCA. PROPRIEDADE INDUSTRIAL. CONJUNTO-IMAGEM (TRADE DRESS). COMPARAÇÃO NECESSIDADE DE PRODUÇÃO DE PROVA TÉCNICA. ACÓRDÃO RECORRIDO FUNDAMENTADO EM SIMPLES OBSERVAÇÃO DAS EMBALAGENS DOS PRODUTOS EM CONFRONTO. DIREITO À PRODUÇÃO DE PROVA.
+1. A fim de se concluir pela existência de concorrência desleal decorrente da utilização indevida do conjunto-imagem de produto da concorrente é necessária a produção de prova técnica (CPC/73, art.
+145). O indeferimento de perícia oportunamente requerida para tal fim caracteriza cerceamento de defesa 2. Recurso especial provido.
+(REsp 1778910/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/12/2018, DJe 19/12/2018)
+Dessa forma, a conclusão da Corte de origem no sentido de que a pretensão deduzida em juízo, referente à possível confusão nos consumidores pela alegada prática de concorrência desleal, é questão complexa que "depende de prova técnica, a ser produzida oportunamente", (fl. 772, e-STJ) encontra ressonância na jurisprudência desta Corte Superior, razão pela qual a pretensão recursal também encontra obstáculo na Súmula 83 do STJ.
+De rigor, portanto, a manutenção da decisão agravada.
+5. Do exposto, nega-se provimento ao agravo interno.
+É o voto.
