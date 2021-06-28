@@ -1,0 +1,1 @@
+Art. 13. A guarda dos documentos digitais e dos processos administrativos eletrônicos considerados de valor permanente deverá estar de acordo com as normas previstas pela instituição arquivística pública responsável por sua custódia.

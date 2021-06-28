@@ -1,0 +1,2 @@
+Art. 19. Poderá o Poder Executivo federal estabelecer Base Nacional de Serviços Públicos, que reunirá informações necessárias sobre a oferta de serviços públicos em cada ente federado.
+Parágrafo único. Cada ente federado poderá disponibilizar as informações sobre a prestação de serviços públicos, conforme disposto nas suas Cartas de Serviços ao Usuário, na Base Nacional de Serviços Públicos, em formato aberto e interoperável e em padrão comum a todos os entes.
