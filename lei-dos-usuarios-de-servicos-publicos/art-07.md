@@ -15,3 +15,4 @@ IV - procedimentos para receber e responder as manifestações dos usuários; e
 V - mecanismos de consulta, por parte dos usuários, acerca do andamento do serviço solicitado e de eventual manifestação.
 § 4º A Carta de Serviços ao Usuário será objeto de atualização periódica e de permanente divulgação mediante publicação em sítio eletrônico do órgão ou entidade na internet.
 § 5º Regulamento específico de cada Poder e esfera de Governo disporá sobre a operacionalização da Carta de Serviços ao Usuário.
+§ 6º Compete a cada ente federado disponibilizar as informações dos serviços prestados, conforme disposto nas suas Cartas de Serviços ao Usuário, na Base Nacional de Serviços Públicos, mantida pelo Poder Executivo federal, em formato aberto e interoperável, nos termos do regulamento do Poder Executivo federal.
