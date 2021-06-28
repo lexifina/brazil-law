@@ -1,0 +1,18 @@
+DECISÃO
+HAPAG-LLOYD AG (HAPAG) ajuizou ação de cobrança contra AEREOMAR IMPORTADORA E EXPORTADORA LTDA. (AEREOMAR), objetivando o recebimento de despesas de sobre-estadia de contêineres utilizados para transporte marítimo de mercadorias, as quais foram calculadas em U$ 16.440,00 (dezesseis mil, quatrocentos e quarenta dólares americanos).
+A sentença julgou extinto o processo, com julgamento do mérito, pelo reconhecimento da prescrição anual(e-STJ, fls. 111/113).
+O Tribunal de Justiça de São Paulo deu provimento àapelação de HAPAG para, afastando a prescrição reconhecida em primeiro grau, julgar procedente o pedido autoral, em acórdão da relatoria da Des. LÍGIA ARAÚJO BISOGNI, assim ementado:
+PRESCRIÇÃO Pretensão de cobrança de dívidas líquidas constantes de instrumento particular (Art. 206, parágrafo 5º, I, do CC) Precedente do C. STJ Matéria pacificada nesta Corte por meio de Uniformização de Jurisprudência Posicionamento no sentido de que a prescrição do direito de cobrança de "demurrage" de contêiner é de cinco anos Prescrição afastada.
+COBRANÇA Sobreestadia de contêiner Conhecimento de embarque e Regulamento de Tarifas Documentos suficientes para a comprovação das alegações da autora Responsabilidade pela ré pelo pagamento decorrente do atraso na restituição do contêiner Descumprimento do prazo de devolução diante da incontrovérsia estabelecida nos autos Prova documental apta ao decreto de procedência Valor pretendido que observa o câmbio oficial na data do ajuizamento da ação, incidindo, após correção monetária pela Tabela Prática do E. TJSP Recurso provido (e-STJ, fl. 206).
+Os embargos de declaração opostos por AEREOMARforam rejeitados (e-STJ, fls. 224/230).
+Na sequência, AEREOMAR manejourecurso especial, com fundamento nas alíneas a e c da CF alegando, a par de divergência jurisprudencial, violação dos arts. 141, 238, 239, 240, 280, 335, 336, 492 e 1.013,§1º,do NCPC, pelos seguintes motivos: (1) cerceamento do direito de defesa devido à ausência de sua citação nos autos principais para contestar a ação; e (2) a ocorrência de julgamento extra petita, uma vez que, na hipótese,o Tribunal bandeirante não poderia ter julgado o mérito da controvérsia, mediante a aplicação da teoria da causa madura, porquanto no recurso de apelação interposto por HAPAG, a matéria impugnada e devolvida ao conhecimento da Corte localfoi, exclusivamente, a questão atinente ao cômputo do prazo prescricional para o ajuizamento da ação de cobrança de "sobrestadia de containers/demurrage", razão pela qual os autos deveriam retornar à instância originária para o seu regular prosseguimento.
+Houve o oferecimento de contrarrazões (e-STJ, fls. 254/261).
+O apelo nobre não foi admitido na origem em virtude de (a) inexistência de cerceamento de defesa; (b) não ter sidodemonstrada a alegada vulneração aos dispositivos arrolados no especial; (c) incidência da Súmula nº 7 do STJ; e (d) ausência da comprovação analítica do dissídio jurisprudencial(e-STJ, fls. 262/264).
+Nas razões do presente agravo, AEREOMAR reiterou a argumentação deduzida no apelo extremo, afirmando que a solução das questõescontrovertidas independedo reexame de provas, bem como que foi demonstradaa divergência jurisprudencial, na forma legal e regimental.
+Foi apresentada impugnação (e-STJ, fls. 295/304).
+É o relatório.
+DECIDO.
+Tendo em vista as razões expostas pela recorrente, determino a conversão do presente agravo em recurso especial, para melhor análise da controvérsia.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. AÇÃO DE COBRANÇA DE SOBRE-ESTADIA DE CONTÊINER - DEMURRAGE. CERCEAMENTO DE DEFESA E APLICAÇÃO DA TEORIA DA CAUSA MADURA. CONVERSÃO DOAGRAVO EMRECURSO ESPECIAL.
