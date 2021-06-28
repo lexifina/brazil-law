@@ -1,0 +1,68 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 0035735-03.2014.8.11.0041
+RECORRENTE: ASSOCIAÇÃO DE PROTEÇÃO À MATERNIDADE E À INFÂNCIA DE CUIABÁ
+RECORRIDO: HERCULES JOSE DOS SANTOS E OUTROS
+Vistos.
+Trata-se de Recurso Especial (id 88058984) interposto por ASSOCIAÇÃO DE PROTEÇÃO À MATERNIDADE E À INFÂNCIA DE CUIABÁ com fundamento no artigo 105, inciso III, alíneas “a” e “c” da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado, assim ementado (id 65025460):
+APELAÇÃO CÍVEL – RECURSO ADESIVO DE APELAÇÃO - AÇÃO DE INDENIZAÇÃO POR MORAIS – ERRO MÉDICO – RETARDAMENTO PARA FEITURA DO PARTO CESÁREO – NEGLIGÊNCIA, IMPRUDÊNCIA E IMPERÍCIA CARACTERIZADOS – LAUDO PERICIAL APONTANDO PROCEDIMENTO INDEVIDO – AUSÊNCIA DE DECISÃO EM TEMPO OPORTUNO PARA REALIZAÇÃO DO PARTO CESÁREO ACARRETANDO PROBLEMAS NEUROLÓGICOS, ESTADO VEGETATIVO E MORTE DA CRIANÇA – EXISTÊNCIA DE NEXO CAUSAL ENTRE A CONDUTA E O RESULTADO RESPONSABILIDADE SUBJETIVA APURADA – VERBA FIXADA FORA DO RAZOÁVEL E PROPORCIONAL – NECESSIDADE DE MAJORAÇÃO – OBSERVÂNCIA AOS CRITÉRIOS PEDAGÓGICOS DA CONDENAÇÃO – RECURSO DE APELAÇÃO DESPROVIDO – RECURSO ADESIVO PROVIDO.
+Mostra-se escorreita a condenação por dano moral decorrente de erro médico configurado, com base em interpretação de Laudo Pericial que atestou o retardamento do procedimento de cesárea, que traria maior segurança ao parto e evitaria que o bebê experimentasse problemas neurológicos – estado vegetativo e por fim a morte, uma vez que o corpo médico agiu com negligência, imprudência e imperícia e foi o responsável pelo resultado, mostrando-se patente o nexo causal entre a conduta e o resultado subsequente.
+Não é o fato do hospital demandado atender pelo Sistema Único de Saúde que retira dele a condição de indenizar a gestante, com razoabilidade e proporcionalidade, o que não condiz com o pedido irrisório de minoração para R$ 10.000,00, ante todo o sofrimento experimentado, culminando com a morte do bebê.
+Descabida plausível a tese de majoração da verba indenizatória para R$ 50.000,00 (cinquenta mil reais) para cada um dos recorrentes do adesivo de apelação, eis que o montante arbitrado pelo Juízo “a quo”, em sentença, encontra-se fora dos parâmetros da razoabilidade e proporcionalidade e não observam o caráter pedagógico da condenação.
+(TJ-MT 00357350320148110041 MT, Relator: SEBASTIÃO BARBOSA FARIAS, Data de Julgamento: 03/11/2020, Primeira Câmara de Direito Privado, Data de Publicação: 06/11/2020)
+Opostos embargos de declaração (id 66377491), estes foram rejeitados (id 84987474).
+O presente recurso foi interposto contra o acórdão proferido em sede de apelações cíveis, interpostas por ambas as partes, que negou provimento ao recurso da ré, ora recorrente, e deu provimento ao recurso dos autores, ora recorridos, para majorar a indenização por danos morais para R$ 50.000,00 (cinquenta mil reais) para cada um.
+A recorrente alega a violação aos artigos 489, §1o, inciso IV e 1022 do CPC, ao argumento de que o aresto recorrido não supriu todas as obscuridades, as omissões, as contradições e os erros materiais apontados.
+Aponta a contrariedade ao artigo 473 do CPC, sob a alegação de que o laudo pericial produzido nos autos é nulo.
+Suscita, além da divergência jurisprudencial, a afronta aos artigos 186 do Código Civil e 14, §4o do CDC, sob a alegação de que não restou caracterizado o erro médico ou a falha hospitalar na espécie.
+Por fim, alega que o valor fixado a título de danos morais se revela exorbitante, razão pela qual se impõe a sua redução.
+Recurso tempestivo (id 88153971) e preparado (id 88201988).
+Contrarrazões apresentadas (id 90402994).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+De início, não restou verificada a existência, no Superior Tribunal de Justiça, de tema que se relativo às questões objeto deste recurso, de forma que não há aplicação da sistemática de recursos repetitivos, razão pela qual não incide, na espécie, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Feitas essas considerações, passo ao exame dos demais pressupostos de admissibilidade.
+Da deficiência de fundamentação (Súmula 284 do STF)
+Na interposição do Recurso Especial é necessário que as razões recursais sejam redigidas com fundamentações precisas, com identificação exata do suposto dispositivo legal violado, a controvérsia correspondente, bem como das circunstâncias de como ocorreu a afronta legal, conforme prevê a Súmula 284 do STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. OMISSÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. RESPONSABILIDADE CIVIL. CUMPRIMENTO DE SENTENÇA EM AÇÃO DE INDENIZAÇÃO DECORRENTE DE ACIDENTE DE TRABALHO. JULGAMENTO POR MAIORIA. ART. 942 DO CPC/2015. NÃO INCIDÊNCIA. ALEGAÇÃO DE ENRIQUECIMENTO ILÍCITO. AUSÊNCIA DE PREQUESTIONAMENTO. JULGAMENTO EXTRA PETITA. INEXISTÊNCIA. ALIENAÇÃO DA MARCA DA EMPRESA EXECUTADA. FRAUDE À EXECUÇÃO RECONHECIDA. MÁ-FÉ DA ADQUIRENTE (SÚMULA 375/STJ). REEXAME DE MATÉRIA FÁTICA (SÚMULA 7/STJ). PRESCRIÇÃO TRIENAL. ART. 206, § 3o, IV, DO CC/2002. NÃO INCIDÊNCIA. OBRIGAÇÃO DECORRENTE DE CONDENAÇÃO EM AÇÃO ACIDENTÁRIA. RECURSO IMPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+(...)
+7. Agravo interno a que se nega provimento”.
+(AgInt no AREsp 1233242/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5a REGIÃO), QUARTA TURMA, julgado em 18/09/2018, DJe 24/09/2018). (g.n.)
+Assim, embora tenha alegado violação aos artigos 489, §1o, inciso IV e 1022 do CPC, a recorrente não apontou de forma específica e individualizada a contradição/omissão do acórdão, tampouco por que seria relevante a discussão da matéria para o deslinde da causa, o que faz incidir a Súmula 284/STF e, por consequência, obsta a admissão do recurso.
+Do reexame de matéria fática (Súmula 7 do STJ)
+A teor do que dispõe o artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça está adstrita à aplicação e à uniformização da interpretação das leis federais, de forma que não é cabível o exame de matéria fático-probatória, por força da Súmula 7/STJ.
+In casu, a recorrente alega a violação ao artigo 473 do CPC, ao argumento de que o laudo pericial produzido nos autos é nulo.
+Suscita, ainda, a afronta aos artigos 186 do Código Civil e 14, §4o do CDC, sob a alegação de que não restou caracterizado o erro médico ou a falha hospitalar na espécie, bem como que o valor fixado a título de danos morais se revela exorbitante, razão pela qual se impõe a sua redução.
+Quanto às questões apontadas, consignou-se no aresto recorrido:
+“(...) a sentença recorrida baseou-se em Laudo Pericial, a meu viso, acertadamente, eis que, ainda que não tivesse sido aferida qualquer anomalia na gestação da paciente, tem-se que houve a conduta desidiosa do corpo médico no procedimento de parto, acarretando o retardamento do nascimento do bebê, e, posteriormente, os problemas neurológicos graves que culminaram com a insuficiência respiratória, traqueostomia, sepse urinária e, finalmente o óbito.
+O conteúdo do Laudo é de clareza solar que se a ação durante o parto fosse diversa, ou seja, que se tivesse optado pela cesárea, o resultado seria outro.
+(...)
+O nexo causal é incontroverso.
+A negligência, a imprudência e a imperícia médica em buscar fazer o que seria necessário e mais seguro ao parto é notória e evidente, não bastando que o recorrente aponte que até o momento do parto as condições da gestação eram normais.
+Em face disso, considero que ocorreu o erro médico, aplicando-se a teoria da responsabilidade subjetiva.
+(...)
+Não se discute a dor suportada pelos recorrentes com o procedimento de parto, que acarretou inúmeros problemas de saúde no recém-nascido, sendo o mais severo – o neurológico – diante do incorreto procedimento cirúrgico, que retardou, de maneira desnecessária, a cesárea, e provocou o resultado – estado vegetativo da criança, culminando com o óbito.
+E por isso, a meu viso, o valor fixado a título de danos morais deve ser majorado, ante a patente dor, de valor incalculável, podendo-se somente haver uma compensação, uma amenização. Com esses termos, mostra-se insuficiente o “quantum” fixado pelo Juízo “a quo” e, observando-se os critérios de razoabilidade e proporcionalidade, a fim de que se iniba a reiteração da conduta, e que haja a devida reparação, tem-se que o valor deve ser majorado para R$ 50.000,00 (cinquenta mil reais) para cada um dos recorrentes. (...)”. (g.n)
+Logo, a revisão do entendimento adotado no aresto recorrido acerca do preenchimento dos requisitos ensejadores da responsabilidade civil e do valor fixado a título de indenização por danos morais enseja o exame dos fatos e provas dos autos, o que encontra óbice na destacada súmula, conforme o entendimento do STJ:
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIOS DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO E ERRO MATERIAL. INEXISTENTES. LEGITIMIDADE PASSIVA AD CAUSAM. CONDIÇÕES DA AÇÃO. TEORIA DA ASSERÇÃO. RESPONSABILIDADE DE HOSPITAL E OPERADORA DE PLANO DE SAÚDE. INFECÇÃO DE PARTURIENTE. DEFEITO NA PRESTAÇÃO DO SERVIÇO. CONFIGURADO. ÓBITO DA PACIENTE. NEXO DE CAUSALIDADE. LAUDO PERICIAL. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DO DANO MORAL. EXORBITÂNCIA. INOCORRÊNCIA. JULGAMENTO ULTRA PETITA. NÃO CONFIGURADO. (...) 7. A responsabilidade objetiva para o prestador de serviço, prevista no art. 14 do CDC, na hipótese de tratar-se de hospital, limita-se aos serviços relacionados ao estabelecimento empresarial, tais como estadia do paciente (internação e alimentação), instalações, equipamentos e serviços auxiliares (enfermagem, exames, radiologia). 8. Se o dano decorre de falha técnica restrita ao profissional médico, que não possui qualquer vínculo com o hospital - seja de emprego ou de mera preposição - não cabe atribuir ao nosocômio a obrigação de indenizar a vítima. 9. A responsabilidade das operadoras de plano de saúde decorre da falha na prestação dos serviços médicos e hospitalares próprios ou credenciados. 10. A argumentação em torno da inexistência de dano ao paciente - inclusive destacando trechos do laudo pericial que, em tese, amparam a pretensão - encontra óbice na Súmula 7/STJ, pois inadmissível em recurso especial a revisão de fatos e provas que atestaram os danos de ordem material e moral, decorrentes da infecção e óbito da parturiente. 11. Em relação ao valor arbitrado pelo Tribunal de origem a título de compensação por danos morais, a jurisprudência desta Corte orienta que apenas em hipóteses excepcionais, em que configurado evidente exagero ou irrisoriedade da quantia, o recurso especial seria a via adequada para nova fixação excepcional. Circunstâncias não identificadas na hipótese concreta. 12. Considerando o ato ilícito absoluto, causador da morte da paciente, sobre o valor da condenação por danos morais incidem juros de mora desde a data do evento danoso e correção monetária a partir do arbitramento (Súmula 362/STJ). Precedente da Corte Especial. 13. Não há se falar em julgamento além do pedido, quando a prestação jurisdicional guarda correlação com a pretensão concretamente manifestada pelos demandantes. 14. Recursos especiais conhecidos e não providos.
+(STJ - REsp: 1769520 SP 2016/0087746-0, Relator: Ministra NANCY ANDRIGHI, Data de Julgamento: 21/05/2019, T3 - TERCEIRA TURMA, Data de Publicação: DJe 24/05/2019) (g.n)
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. FIXAÇÃO IRRISÓRIA DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA PREJUDICADA.
+(...)
+2. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das Instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura.
+3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’.
+4. A análise do dissídio jurisprudencial fica prejudicada, em virtude da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+5. Recurso Especial não conhecido”. (REsp 1765987/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 23/11/2018). (g.n.)
+A partir dessas premissas, é incabível a revisão do entendimento adotado pela câmara de origem, por demandar o reexame do conjunto fático-probatório dos autos, o que obsta a admissão do recurso.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
