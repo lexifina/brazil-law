@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interno interposto pela AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS contra decisão proferida pela Presidência desta Corte Superior que não conheceu do recurso especial em decorrência da incidência do óbice da Súmulas 283/STF, uma vez que a parte recorrente deixou de atacar fundamentos autônomo e suficiente para manter o julgado.
+Sustenta aagravante que impugnou os fundamentos do acórdão recorrido, apresentando trechodo recurso especial para justificar suas razões.
+Não houve impugnação.
+É o relatório. Passo a decidir.
+Verifica-se que os argumentos aduzidos nas razões do agravo interno revelam-se plausíveis, o que impõe a reconsideração da decisão agravada.
+Presentes os pressupostos de admissibilidade do agravo, passo a análise do recurso especial.
+Nas razões do recurso especial, a recorrente aponta violação ao art. 65, §26, da Lei 12.249/2010, alegando que: a) a interpretaçãoque se deve dar ao dispositivo legal é em sentido diverso ao entendimento do acórdão recorrido, ou seja, de que a norma da lei federal se aplica a depósitos judiciais; b) o saldo residual decorrente da aplicação dos descontos previstos na lei do REFIS não deve ser levantado pela recorrida, ante a existência de outros débitos da parte sendo cobrados e discutidos em outras ações judiciais.
+Sem razão a recorrente.
+A jurisprudência desta Corte entende que é possível o levantamento da quantia depositada, após o pagamento da dívida objeto do programa de parcelamento extraordinário, sendo incabível a utilização do valor depositadopara a quitação de outras dívidas em aberto. Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. PARCELAMENTO. DEPÓSITO EM JUÍZO.PARÁGRAFOS 25 E 26 DO ARTIGO 65 DA LEI 12.249/2010. CONVERSÃO AUTOMÁTICA DO SALDO DEPOSITADO EM RENDA. IMPOSSIBILIDADE. 1. A irresignação não merece prosperar, porque o aresto vergastado está em sintonia com o entendimento do Superior Tribunal de Justiça de que é possível o levantamento da quantia depositada, após o pagamento da dívida objeto do programa de parcelamento extraordinário, não cabendo a utilização de eventuais depósitos judiciais para a quitação de outras dívidas em aberto.
+2. Recurso Especial não provido.
+(REsp 1790995/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/03/2019, DJe 23/04/2019)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. PARCELAMENTO FISCAL. QUITAÇÃO. DÉBITOS EM ABERTO DIVERSOS DOS ABRANGIDOS PELO PARCELAMENTO. UTILIZAÇÃO DE DEPÓSITOS JUDICIAIS PARA CONVERSÃO EM RENDA. INVIABILIDADE. ART. 65, §§ 25 E 26, DA LEI 12.249/2010.OFENSA NÃO CARACTERIZADA.
+1. O entendimento do Tribunal a quo está em sintonia com a jurisprudência do Superior Tribunal de Justiça de que é possível o levantamento da quantia depositada, após o pagamento da dívida objeto do programa de parcelamento extraordinário, não cabendo a utilização de eventuais depósitos judiciais para a quitação de outras dívidas em aberto. Nesse sentido: REsp 1.706.349/RJ, DJe de 6/8/2018, de Relatoria do Ministro Mauro Campbell Marques, e REsp 1.435.654/RJ, Rel.Francisco Falcão, Segunda Turma, DJe 25/10/2016.
+2. Recurso Especial não provido.
+(AgInt no REsp 1775994/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/05/2019, DJe 19/06/2019)
+ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO E AGRAVO. ART. 557, CPC/73. ART. 65, § 26, LEI N. 12.249/2010. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. MULTA. ANP. PARCELAMENTO. DEPÓSITO EM JUÍZO. CONVERSÃO EM RENDA. INCOMPATIBILIDADE. VIOLAÇÃO AO § 25, ART. 65, LEI N. 12.249/2010 NÃO CARACTERIZADA.
+I - Trata-se, na origem, de ação ajuizada contra a ANP para anular multas decorrentes de infrações administrativas, sob a alegação de que essas multas não poderiam ter sido estabelecidas em Portaria, mas somente mediante lei formal.
+II - Posteriormente à decisão de improcedência do pedido, noticiou-se o parcelamento da dívida, nos termos da Lei n. 12.249/2010, possibilitando o levantamento do depósito realizado em juízo relativo à dívida objeto da discussão.
+III - Ausência do necessário prequestionamento no tocante à apontada violação ao art. 557 do CPC/73 e art. 65, § 26, da Lei n. 12.249/2010, uma vez que o acórdão recorrido não cuidou das matérias neles dispostas, pois nem mesmo o agravo da ANP foi conhecido. Não foram opostos embargos declaratórios. Incidência da Súmula n. 282/STF.
+IV - Não se constata a apontada violação ao § 25, art. 65, da referida lei, considerando que o valor levantado pelo ora recorrido foi exatamente aquele relacionado à própria dívida em questão, o qual foi efetuado em juízo, para a suspensão da exigibilidade e exclusão do nome da empresa do CADIN. O parcelamento do débito foi devidamente acordado e cumprido.
+V - Recurso parcialmente conhecido e, nesta parte, improvido.
+(STJ, REsp 1.435.654/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 18/10/2016, DJe 25/10/2016).
+Dessa forma, a decisão do Tribunal de origem está em consonância com a jurisprudência desta Corte superior, incidindo o enunciado da Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO RECONSIDERADA. DEPÓSITO JUDICIAL.ADESÃO AO REFIS. LEVANTAMENTO DE SALDO REMANESCENTE.DÉBITOS EM ABERTO DIVERSOS DOS ABRANGIDOS PELO PARCELAMENTO. UTILIZAÇÃO DE DEPÓSITOS JUDICIAIS PARA CONVERSÃO EM RENDA. INVIABILIDADE.ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 568/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
