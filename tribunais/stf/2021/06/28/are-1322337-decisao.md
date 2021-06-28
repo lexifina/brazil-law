@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto por Rosa Maria Donega de Castro e Outro(a/s) contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. NOVO CÓDIGO FLORESTAL. TEMPUS REGIT ACTUM. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+    I – Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+    II – Esta Corte Superior encampa orientação segundo a qual prequestionados implicitamente os dispositivos tidos por violados, afasta-se a alegada ofensa ao art. 535, II, do Código de Processo Civil. Precedentes.
+    III – As disposições do Novo Código Florestal, em regra, obedecem ao princípio do tempus regit actum. Precedentes.
+    IV – A 1ª Turma desta Corte, à luz do decidido pelo Supremo Tribunal Federal no julgamento das Ações Diretas de Inconstitucionalidade ns. 4.901, 4.902, 4.903 e 4.937, e da Ação Declaratória de Constitucionalidade n. 42, e considerando, ainda, a natureza propter rem da obrigação ambiental, consoante o enunciado da Súmula n. 623 desta Corte, reafirmou tal orientação (REsp n. 1.646.193/SP, 1ª Turma, Rel. p/ acórdão Min. Gurgel de Faria, julgado em 12.05.2020).
+    V – Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+    VI – Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+    VII – Agravo Interno improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 5º, XXXV e LV; 93, IX; e 97 da Constituição. Alega que, “[c]onsiderando que a propriedade rural dos Recorrentes JÁ HAVIA SIDO ABERTA EM 1960, é sob a égide desta Lei que deveremos nos pautar para a verificação da regularidade dos desmatamentos, em clara atenção e respeito ao artigo 68 do vigente Código Florestal.”
+    O Supremo Tribunal Federal, no julgamento conjunto da ADC 42 e das ADIs 4.901; 4.902; 4.903 e 4.937, Rel. Min. Luiz Fux, analisou a constitucionalidade de dispositivos da Lei 12.651/2012. Naquela assentada, no ponto em que interessa ao caso, esta Corte declarou a constitucionalidade dos arts. 15, 66 e 68 da respectiva lei.
+     A não aplicação desses dispositivos, sob o argumento de que o novo código não poderia alcançar fatos pretéritos, resulta em esvaziamento da eficácia da referida norma, cuja validade constitucional foi afirmada por este Tribunal. Nesse sentido, vejam-se os seguintes precedentes: Rcl 39.991, Rel. Min. Ricardo Lewandowski; Rcl 42.711, Relª. Minª Rosa Weber; Rcl 43.202, Rel. Min. Dias Toffoli; e RE 1.051.404-AgR, de minha relatoria, cuja ementa transcrevo:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. APLICAÇÃO. CÓDIGO FLORESTAL. ADI 4.901.
+    1. O Supremo Tribunal Federal, no julgamento da ADI 4.901, reconheceu a constitucionalidade dos arts. 61-A e 62 do Código Florestal. De modo que a não aplicação desses dispositivos, sob o argumento de que o novo código não poderia alcançar fatos pretéritos, resulta no esvaziamento da eficácia da referida norma, cuja validade constitucional foi afirmada por esta Corte. Precedentes.
+    2. Agravo interno a que se nega provimento.”
+    Diante do exposto, com base no art. 932, V, do CPC/2015 e no art. 21, § 2º, do RI/STF, dou parcial provimento ao recurso extraordinário de Rosa Maria Donega de Castro e Outro(a/s), para determinar o retorno dos autos ao Superior Tribunal de Justiça, para que seja proferido novo julgamento observando a premissa assentada na ADI 4.901.
+    Publique-se.
+          Brasília, 28 de junho de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
