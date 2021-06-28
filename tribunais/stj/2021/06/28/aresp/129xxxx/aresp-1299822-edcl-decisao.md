@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 1.825/1.827) opostos à decisão desta relatoria que deu parcial provimento ao recurso especial da embargante, paradeterminar que a base de cálculo das comissões inclua os impostos e os encargosfinanceiros, a ser apurada em liquidação de sentença, invertendo-seos ônus de sucumbêncianos termos fixados na sentença(e-STJ fls. 1.818/1.823).
+A embargante alega obscuridade na decisão embargada, ressaltando que (e-STJ fl. 1.825):
+O v. acórdão de fls. 1818/1823, ao conferir parcialprovimento ao recurso especial, assim determinou em relação à sucumbência:"Inverto os ônus de sucumbência nos termos fixados na sentença de fls.1.609/1612 (e-STJ)".
+(..) A Agravante, receosa de que essa inversão possa serinvocada pelas Agravadas como eventual condenação dela aos ônussucumbenciais, requer a V.Exa. elimine dita obscuridade, afirmando,taxativamente, a condenação das Agravadas nos exatos termos da r. sentençade primeiro grau, de fls. e- STJ 1609/1612.
+(..) Eventual condenação da Agravante seria hipótese "suigeneris" porquanto a base de cálculo percentual incidiria sobre o próprio valorda sua vitória, a ser apurada em liquidação de sentença.
+Menciona a existência de omissão, argumentando que requereu a majoração dos honorários no recurso especial, com fundamento no art. 85,§ 11, do CPC/2015, "situação que não foi considerada no v. acórdão" (e-STJ fl. 1.826).Requer seja sanadoo vício, com indicação do "percentual a ser acrescido à taxa de 10% (dez por cento), a título de honorários, fixada na r. sentença de primeiro grau" (e-STJ fl. 1.826).
+Busca o acolhimentos dos embargos de declaração para o fim de (e-STJ fl. 1.826):
+(i) determinar a eliminação daobscuridade relacionada à condenação em verba de sucumbência, afirmando acondenação das Agravadas, no percentual de 10% (dez por cento), cada uma,após regular liquidação de sentença; e
+(ii) suprir a omissão apontada, indicandoo percentual a título de honorários a ser acrescido à taxa de 10% (dez por cento),fixada na r. sentença de primeiro grau, nos exatos termos do artigo 85, parágrafo11, do Código de Processo Civil.
+As embargadasapresentaram impugnação (e-STJ fls. 1.830/1.838).
+É o relatório.
+Decido.
+Os embargos de declaração só são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+No caso dos autos, assiste razão àembargante quanto à existência de obscuridadeem relação à inversão dos honorários de sucumbência e omissão acerca da majoração da referida verba.
+No caso concreto, a embargante é a autora da demanda originária, sendo que o Juiz de Direito da 33ª Vara Cível do Foro Central deSão Paulo -SP decidiu o seguinte (e-STJ fl. 1.612):
+Ante o exposto, JULGO PROCEDENTE EM PARTE o pedido deextinto o processo com resolução do mérito, nos termos do artigo 269,1, do CPC. Condenoas rés, cada qual, ao pagamento de diferenças de comissão e antecipação de indenização(1/12), a serem apuradas em liquidação de sentença, mediante utilização de base-de-cálculodo valor total das notas. Não há solidariedade, de modo que a responsabilidade de cada rése restringe às vendas por ela realizadas. Incide correção monetária pela tabela DEPREdesde cada pagamento e juros de mora legais (0,5% ao mês até a vigência do CC/2002, epartir de então 1% ao mês).
+Pela maior sucumbência, arcarãoas rés, cada qual, com metade das custase despesas processuais, bem como honorários advocatícios fixados em 10% do valor dacondenação imposta a cada uma.
+O Tribunal de origem, por sua vez, deu provimento parcial à apelação de Soprano Eletrometalúrgica e Hidraúlica Ltda.e Global Eletrometalúrgica Ltda., nos seguintes termos(e-STJ fls. 1.669/1.672):
+De toda sorte, entendo que apesar dessa peculiaridade, a cláusula de interesse em questão está de acordo com o regime normal de mercado, qual seja, incidência do percentual de comissões sobre o valor total das notas fiscais, sem considerar o IPI, frete e seguro.
+O ICMS - Imposto sobre circulação de mercadorias e serviços, contribuições como PIS, COFINS, contribuição social e imposto de renda integram a base de cálculo para incidência.
+Não haveria como agregar as despesas como frete, seguro e embalagem de transporte.
+Além do mais, foi o que as partes livremente pactuaram e praticaram durante os anos de relacionamento - pacta sunt servanda.
+Ante o exposto, por entender também que o legislador atuou na "suplência", não configurando o § 4º, do art. 32, norma cogente de imposição inexorável, meu voto dá provimento para excluir da base de cálculo o IPI, frete, seguro, embalagem para transporte.
+Como visto, em sede de apelação, com aparcial procedência da ação, as embargadas foram condenadas ao pagamento de diferençasde comissão e antecipação de indenização (1/12),mantido apenas um pedido da embargante, conforme decidido pelo Juízo de primeiro grau.
+Acerca do IPI,frete,seguro e embalagem,da base de cálculo das comissões, o TJSP determinou a exclusão das despesas, em dissonância com a jurisprudência desta Corte, decaindo a embargante de parte de seus pedidos. Portanto, ambas as partes foram vencedoras e vencidas.
+Em razão do parcial provimento do recurso especial e configurada a sucumbência recíproca, nos termos do art. 86 do CPC/2015,as custas e o valor dos honorários advocatícios deverão ser suportados na proporção do decaimento das partes, observada eventual gratuidade de justiça, apurando-se os respectivos valores em liquidação de sentença.
+Acerca da omissão apontada pela embargante quanto à majoração dos honorários sucumbenciais em sede recursal, com fundamento no art. 85, § 11, do CPC/2015, "situação que não foi considerada no v. acórdão" (e-STJ fl. 1.826), requerendo seja sanado o vício, com indicação do "percentual a ser acrescido à taxa de 10% (dez por cento), a título de honorários, fixada na r. sentença de primeiro grau" (e-STJ fl. 1.826), o inconformismo não prospera.
+Isso porque, embora a decisão recorrida seja posterior a 18 de março de 2016, o Tribunal de origem não fixou referida verba eo recurso especial interposto por Bosseti Representação Comercial Ltda.foi provido parcialmente.
+Oportuno ressaltar que, de acordo com a jurisprudência da Corte Especial do STJ, é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso(AgInt nos EAREsp n. 762.075/MT, Relator para o acórdão Ministro HERMAN BENJAMIN, Corte Especial, DJe 7/3/2019).
+Ante o exposto, ACOLHO os embargos de declaraçãopara sanar os vícios apontados, sem efeitos infringentes.
+Publique-se e intimem-se.
