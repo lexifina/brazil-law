@@ -1,0 +1,23 @@
+RECLAMAÇÃO. ALEGADO DESCUMPRIMENTO DA DECISÃO PROFERIDA NESTES AUTOS. PLEITO DE RELAXAMENTO DA PRISÃO. IMPOSSIBILIDADE. PEDIDO INDEFERIDO.
+    Vistos etc.
+    Referente à Petição/STF 59.497/2021.
+    A parte reclamante reporta, por meio das petições em epígrafe, o descumprimento da decisão proferida na presente reclamação, em que julgado procedente o pedido para (i) determinar a realização, presencial ou por videoconferência, no prazo de 24 (vinte e quatro) horas, a contar da comunicação desta decisão, da audiência de custódia do Reclamante, acaso ainda preso, devendo na oportunidade o magistrado reapreciar a necessidade, ou não, de manutenção da prisão preventiva imposta ou de aplicação das medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal; ou (ii) caso esteja respondendo solto ao processo, a presente ordem valerá como determinação para que seja intimado o Reclamante a fim de oportunizar-lhe, em tendo interesse, sua oitiva perante a autoridade judiciária a respeito das circunstâncias de sua prisão em flagrante.
+    Requisitei informações à autoridade reclamada que deixou de prestá-la.
+    A reclamante requer, ante o descumprimento da ordem exarada por esta Corte, o imediato relaxamento de sua prisão.
+    É o relatório.
+    Decido.
+    Acentuo, inicialmente, no tocante à tese de que a não realização da audiência de custódia no prazo de 24h (vinte quatro horas) após a realização da constrição de liberdade enseja, por si só, a ilegalidade da prisão, a conduzir a seu relaxamento, que nada colhe o pedido deduzido a respeito na petição em epígrafe.
+    Referida temática jamais foi abordada no paradigma de controle invocado (ADPF 347-MC/DF), até mesmo pelo fato de o dispositivo legal supostamente descumprido ser posterior à referida deliberação plenária. Assim, não há identidade material entre o ato reclamado e o paradigma de controle.
+    Nessa linha, esta Suprema Corte já decidiu que O relaxamento da prisão em decorrência da não realização da audiência de custódia consiste tema estranho ao paradigma de controle invocado (ADPF 347-MC/DF). Desse modo, à míngua de identidade material entre o paradigma invocado e o ato reclamado, não há como divisar a alegada afronta à autoridade da decisão desta Suprema Corte (Rcl 44.456-AgR/SC, de minha relatoria, Primeira Turma DJe 13.4.2021).
+    Como se sabe, [o]s atos questionados em qualquer reclamação – nos casos em que se sustenta desrespeito à autoridade de decisão do Supremo Tribunal Federal – hão de se ajustar, com exatidão e pertinência, aos julgamentos desta Suprema Corte invocados como paradigmas de confronto, em ordem a permitir, pela análise comparativa, a verificação da conformidade, ou não, da deliberação estatal impugnada em relação ao parâmetro de controle emanado deste Tribunal (Rcl 16.097-AgR/PB, Rel. Min. Celso de Mello, Tribunal Pleno, DJe 30.10.2014).
+    Assim, à míngua de identidade material entre o ato reclamado e o paradigma de controle invocado, concluo pela ausência aderência estrita.
+    Ainda que assim não fosse, considerando a decisão monocrática do Ministro Luiz Fux, Presidente deste Supremo Tribunal Federal, na ADI 6.299-MC/DF, suspendendo a eficácia do artigo 310, §4°, do Código de Processo Penal (CPP), na redação introduzida pela Lei n° 13.964/2019, e tendo em vista a atual jurisprudência desta Corte, a não realização da audiência de custódia dentro do prazo de 24h (vinte quatro horas) após a prisão em flagrante não conduz ao imediato relaxamento da privação cautelar de liberdade, notadamente nos casos em que decretada a prisão preventiva (Rcl 45.349-AgR/SP, de minha relatoria, Primeira Turma, DJe 13.4.2021):
+    “CUSTÓDIA AUDIÊNCIA REALIZAÇÃO AUSÊNCIA. A falta de audiência de custódia constitui irregularidade, não tendo o efeito, por si só, de afastar a preventiva imposta, uma vez assentados, pelo Juízo, os requisitos autorizadores do citado artigo 312 e observados os direitos e garantias versados na Constituição Federal.”
+    (HC 178.547/RS, Rel. Min. Marco Aurélio, Primeira Turma, DJe 09.3.2020)
+    Finalmente, em consulta ao sítio eletrônico do Tribunal de Justiça do Estado do Pará, verifico haver sido realizada, em 13.6.2021, a audiência de custódia.
+    Ante o exposto, indefiro o pedido deduzido por meio da petição em epígrafe.
+    Observo não manejado qualquer recurso contra a decisão que proferi em 02.6.2021 e publicada em 07.6.2021. Desse modo, à Secretaria Judiciária desta Corte para certificar, imediatamente, o trânsito em julgado da decisão prolatada (evento 9) e proceder ao arquivamento dos presentes autos.
+    Publique-se.
+    Brasília, 28 de junho de 2021.
+Ministra Rosa Weber
+Relatora
