@@ -1,0 +1,28 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Edna Gomes, apontando como autoridade coatora a Sexta Turma do Superior Tribunal de Justiça, que não conheceu do agravo regimental no HC nº 651.309/SC, Relatora a Ministra Laurita Vaz.
+    Narram os autos que a paciente, após representação da Autoridade Policial, teve decretada a prisão preventiva, em 21/10/19, e posteriormente denunciada, pela suposta prática do crime previsto no art. 35 da Lei nº 11.343/06.
+    Sustenta o impetrante, em síntese, a presença de constrangimento ilegal em decorrência do excesso de prazo para formação da culpa, pois a “audiência marcada somente para 22/03/2022.”
+    Afirma que ausência de fundamentação idônea no decreto de prisão preventiva, sustentando o cabimento e suficiência de medidas cautelares diversas.
+    Refere a pandemia de Covid-19, citando as condições precárias dos estabelecimentos penais em geral, dizendo pertencer a paciente a grupo de risco (portadora de diversos problemas de saúde).
+    Requer, liminarmente, a concessão da ordem para que seja revogada a prisão preventiva, expedindo-se o contramandado. Alternativamente, busca a aplicação de medidas cautelares diversas.
+    Examinados os autos, decido.
+    Transcrevo o teor do acórdão questionado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. PRISÃO PREVENTIVA. SUPOSTA OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. PRINCÍPIO DA DIALETICIDADE. EXIGÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA N. 182 DESTA CORTE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+    1. Segundo reiterada manifestação desta Corte, não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, mormente em razão da possibilidade de submissão do julgado ao exame do Órgão colegiado, mediante a interposição de agravo regimental.
+    2. O princípio da dialeticidade impõe ao agravante o ônus de demonstrar o desacerto da decisão agravada. No caso, nas razões do regimental, a Recorrente não rebateu, especificamente, o fundamento da decisão recorrida e apresentou razões de pedir dissociadas do ato judicial combatido. Aplicação da Súmula n. 182/STJ, mutatis mutandis.
+    3. Agravo regimental não conhecido.”
+    A decisão monocrática mantida pelo referido julgamento colegiado apresenta ementa com o seguinte teor:
+    “HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. PRISÃO PREVENTIVA. MATÉRIAS REFERENTES À LEGALIDADE E EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA NÃO APRECIADAS PELO TRIBUNAL ESTADUAL. SUBSTITUIÇÃO DA CUSTÓDIA PELA PRISÃO DOMICILIAR, EM RAZÃO DA PANDEMIA DA COVID-19. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA CAPAZ DE EVIDENCIAR A IMPOSSIBILIDADE DO RECEBIMENTO DE TRATAMENTO MÉDICO. RÉ FORAGIDA. WRIT CONHECIDO EM PARTE E, NESSA EXTENSÃO, ORDEM DENEGADA.”
+    Pelo que há no julgado proferido por aquela Corte de Justiça não se vislumbra ilegalidade flagrante, abuso de poder ou teratologia. Pelo contrário, o aresto em questão encontra-se suficientemente motivado, restando justificado o convencimento formado.
+    Com efeito, com relação ao alegado excesso de prazo para formação da culpa e aos fundamentos para manutenção da decretação da prisão preventiva, submetidos à discussão do Superior Tribunal Justiça e reiterados neste habeas corpus, não foram objeto de análise por parte daquela Corte Superior por não terem sido apreciados pelo Tribunal local. Portanto, sua apreciação, de forma originária, neste ensejo, configuraria inadmissível dupla supressão de instância.
+    Nesse sentido, destaco os precedentes seguintes: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07, entre outros.
+    Ainda que assim não fosse, a notícia de que a paciente se encontra foragida afasta o alegado constrangimento ilegal por excesso de prazo para o início da instrução processual, cuja relevância estaria justificada se ela estivesse presa e, por esse suposto excesso, fosse pleiteada sua soltura (v.g. HC nº 132.803-AgR/RJ, Segunda Turma, de minha relatoria, DJe de 28/3/16; e RHC nº 80.525/RS, Primeira Turma, Relator o Ministro Moreira Alves, DJ de 15/12/2000).
+    Por fim, quanto a alegação de que deve ser revogada a prisão preventiva da paciente, em razão da pandemia do COVID-19, bem pontou o STJ que, “[n]o caso, não há prova pré-constituída capaz de evidenciar a impossibilidade do recebimento de tratamento no estabelecimento prisional, especialmente quando considerado que a Paciente está foragida.” (Grifos no original).
+    É firme a jurisprudência deste Supremo no sentido de que “[e] legítima a manutenção da prisão preventiva decretada em desfavor de réu foragido, dada a necessidade concreta da medida para assegurar a aplicação da lei penal.” (HC nº 181.993-AgR/SP, Segunda Turma, Relator o Ministro Edson Fachin, DJe de 9/3/21)
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 28 de junho de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
