@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial, interposto por Eduardo Guimarães Pereira e outros, com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça Estadual,assim ementado (e-STJ fls. 1.097-1.098):
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. PROMOÇÃO DE MILITARES PELO CRITÉRIO DE EXCEPCIONALIDADE. LEI ESTADUAL N. 2.664/2012. LEGALIDADE. MATÉRIA INFRACONSTITUCIONAL.
+1. A promoção em ressarcimento de preterição depende de comprovação de ilegalidade ou injustiça na promoção. No caso em tela a Lei Estadual 2.664/2012, permite que se aplique aos militares da ativa a hipótese da promoção por excepcionalidade, e, portanto, as promoções ocorridas não se apresentam eivada de ilegalidade. Julgamento fundamentado em matéria infraconstitucional.
+2. Muito embora a promoção pelo critério de excepcionalidade seja exercida através do poder discricionário da Administração Pública, as promoções noticiadas foram feitas obedecendo ao princípio da legalidade, respeitando-se ao princípio constitucional da separação de funções (art. 2º da CF).
+3. Situação não justifica a promoção dos apelantes, pois, ainda que o tratamento adotado fosse, em tese, inconstitucional, por supostamente ferir princípios da impessoalidade e da moralidade, não pode o Poder Judiciário caminhar no sentido inverso da jurisdição e consumar tal ilegalidade ao ponto de introduzi-la para o mundo do direito, em nome do princípio da isonomia. Não havendo ilegalidade, pois, não há que se falar em promoção em ressarcimento por preterição.
+4. Recurso de apelação conhecido a que se nega provimento.
+Osembargos de declaração foram rejeitados (e-STJ fls. 1.144-1.145).
+Nas razões de sua irresignação, osrecorrentes alegam violação dos artigos 489, § 1º, IV e V, e 1.022, II, do Código de Processo Civil/2015,sob oargumento de que o acórdão recorrido não se manifestou sobre pontos importantes para o deslinde da controvérsia.
+Argumentam, ainda, que o Tribunal de origem não apreciou a aplicação da Teoria dos Motivos determinantes ao presente feito.
+Com contrarrazões (e-STJ fls. 1.182-1.188).
+Juízo positivo de admissibilidade às e-STJ fls. 1.195-1.197.
+É o relatório. Passo a decidir.
+A insurgência não merece prosperar.
+Deve ser rejeitada a alegada violação dos arts. 489, § 1º, IV e V,, e 1.022, do NCPC, uma vez que o acórdão recorrido está devidamente fundamentado. A jurisprudência desta Corte é uníssona no sentido de que o julgador não está adstrito a responder a todos os argumentos das partes, desde que fundamente sua decisão. O Tribunal de origem apreciou a demanda de modo suficiente, pronunciando-se acerca de todas as questões relevantes ao deslinde da controvérsia.
+No tocante aos vícios apontadospelosrecorrentes, o Tribunal a quo assim se manifestou, quando do julgamento dos embargos de declaração (e-STJ fls. 1.134-1.139,grifono original):
+Conforme bem trabalhado no voto condutor, não ocorreram irregularidades nas promoções dos militares, não havendo que se falar emressarcimento de preterição:
+Extrai-se dos autos e da legislação em vigor que os requisitos para a promoção por excepcionalidade será restrito ao Governador do Estado, de modo que possui discricionariedade para avaliar quais os Policiais Militares apresentam "notória idoneidade moral" e "ilibada reputação", bem como quais condutas seriam caracterizadas como "relevantes serviços à sociedade e ao Estado", não podendo o Judiciário se imiscuir no mérito da decisão administrativa (art. 2º, da CF).
+É preciso ressaltar que, no caso em tela, não há que se falar em preterição, uma vez que a escolha foi efetuada com base na lei, por indicação discricionária do Chefe do Poder Executivo, exatamente nos termos da Lei Estadual n. 2.664/2012, que permanece hígida.
+Com efeito, ao eliminar as exigências de que tratam os arts. 21, 36 e 39, da Lei Estadual nº 2.575, de 20 de abril de 2012, dentre as quais: a antiguidade; o merecimento; a escolha, a bravura, o tempo de contribuição, realização de cursos, serviço arregimentado e exercício de função específica, a promoção, segundo o critério de excepcionalidade, passa a ter cunho notadamente discricionário, dentro de outro critério previsto em lei.
+Muito embora a promoção pelo critério de excepcionalidade seja exercida através do poder discricionário da Administração Pública, as promoções noticiadas foram feitas obedecendo ao princípio da legalidade, respeitando-se ao princípio constitucional da separação de funções (art. 2º da CF).
+A situação referida pelos apelantes não justificam sua promoção, pois, ainda que o tratamento adotado fosse em tese, inconstitucional, por supostamente ferir princípios da impessoalidade e da moralidade, não pode o Poder Judiciário caminhar no sentido inverso da jurisdição e consumar tal ilegalidade ao ponto de introduzi-la para o mundo do direito, em nome do princípio da isonomia.
+Não havendo ilegalidade, pois, não há que se falar em promoção em ressarcimento por preterição.
+ ..
+Nem se fale que haveria inconstitucionalidade da imposição da promoção por excepcionalidade, que no entender do apelante quebraria a ordem de antiguidade e hierarquia, ao direito de promoção, por preterição, pelo critério de antiguidade, em homenagem ao princípio da isonomia constitucional, especificamente com relação aos arts. 3º, IV, 5º, 7º, XXX, todos da Constituição Federal do Brasil, pois, como já dito, a Lei Estadual n. 2.664/2012, que permanece hígida, produzindo efeitos. Portanto, com fundamento em matéria infraconstitucional é que a questão restou decidida.
+Em que pese a tentativa de revolver o mérito pela parte, trazendo à lumea "mensagem n. 107" da Administração, verifica-se que a Lei Estadual nº 2.664/12 fora objeto de apreciação dos Poderes correlatos, possuindo incidência e eficácia no mundo jurídico normalmente. Não se estáa tratar de um ato administrativo simples, mas de uma Lei que obedeceu os tramites legais.
+Desse modo, inexiste omissão, obscuridade, contradição ou falta de prestaçãojurisdicional no acórdão recorrido.
+Ante o exposto, nego provimento aorecurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL.PROMOÇÃO DE MILITARES PELO CRITÉRIO DE EXCEPCIONALIDADE.VIOLAÇÃO DOS ARTS. 489, § 1º, IV E V, E 1.022, II, DO CÓDIGO DE PROCESSO CIVIL/2015. INEXISTÊNCIA.RECURSO NÃOPROVIDO.
