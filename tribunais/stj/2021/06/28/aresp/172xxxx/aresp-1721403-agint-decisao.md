@@ -1,0 +1,61 @@
+DECISÃO
+CRISTOPHER ALEXSSANDER BARBOZA DOS SANTOS e JAQUELINE DOS SANTOS BARGOSA (CRISTOPHER e outra) promoveram ação de indenização por danos morais contra LOCALFRIO S.A. ARMAZÉNS GERAIS FRIGORÍFICOS (LOCALFRIO), em virtude de incêndio em terminal de administração da LOCALFRIO que atingiu vários containers com diferentes produtos, dentre eles um produto à base de cloro que perdurou por 37 (trinta e sete) horas.
+Em primeira instância, o pedido foi julgado improcedente (e-STJ, fls. 664/666).
+A apelação interposta CRISTOPHER e outra não foi provida pelo TJ/SP, nos termos do v. em acórdão prolatado pelo Des. Carlos Alberto de Salles, assim ementado:
+INDENIZATÓRIA POR MORAIS. INCÊNDIO EM ZONA PORTUÁRIA. DANOS NÃO COMPROVADOS. Insurgência do autor em face da sentença de improcedência. Pedido indenizatório pautado em danos decorrentes dos efeitos causados por incêndio em containers pertencentes à empresa ré no porto de Santos. Cerceamento de defesa. Não ocorrência. Autor que teve oportunidade para produzir provas, mas que acabou restringindo-as ao dano ambiental. Falta de comprovação do dano individual decorrente do incêndio. Alegações genéricas feitas na inicial. Não comprovação de que a saúde da criança teria sido afetada. Falta de comprovação por documentos que a parte deveria ter no momento de ajuizamento da demanda. Desnecessidade de maior instrução probatória. Ação ajuizada três anos após o evento. Insuficiência da prova testemunhal. Sentença de improcedência mantida. Precedentes nesse sentido, em outras ações idênticas deste Tribunal. Recurso desprovido(e-STJ, fls. 1.026 - com destaques no original).
+Os embargos de declaração opostos por CRISTOPHER e outra foram rejeitados (e-STJ, fls. 1.449/1.451).
+Inconformados, CRISTOPHER e outra interpuseram recurso especial, com amparo no art. 105, III, a e c, da CF, alegando violação dos arts. 319, 355, 356, 361, 369, 370, 372, 374 e 435 do NCPC, 4º e 14 da Lei nº 6.938/1981 e 927 do CC/2002, bem como divergência jurisprudencial.
+O apelo nobre não foi admitido em virtude (1) da não demonstração da vulneração dos dispositivos arrolados; (2) da incidência da Súmula nº 7 do STJ; e, (3) não demonstração do dissenso jurisprudencial e incidência da Súmula nº 13 do STJ.
+Seguiu-se agravo em recurso especial, que, em decisão monocrática do Ministro Presidente do STJ, não foi conhecido, com amparo no art. 21-E, V, c/c o art. 253, parágrafo único, I, do RISTJ, porque não foram atacados especificamente os fundamentos das decisões agravadas.
+Nas razões do presente agravo interno, CRISTOPHER e outra, repisando os argumentos trazidos nas razões recursais, alegaram (1) que comprovaram a divergência jurisprudencial e não incidência da Súmula nº 13 do STJ; e, (2) não incidência da Súmula nº 7 do STJ.
+Houve impugnação ao recurso (e-STJ, fls. 1.858/1.870).
+É o relatório.
+DECIDO.
+Tendo em vista as alegações trazidas no agravo interno, reconsidero a decisão agravada para conhecer do agravo em recurso especial e passo à nova análise do recurso especial.
+O recurso não comporta provimento.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O TJ/SP, em relação a não demonstração de ter ocorrido o dano passível de indenização, manifestou-se nos seguintes termos:
+Em momento algum o apelante mencionou, no recurso apresentado, quais provas não teriam sido produzidas em virtude do julgamento antecipado da lide e que seriam relevantes para julgamento do mérito do processo.
+Além disso, ressalta-se que a ocorrência de dano ambiental é fato mais do que comprovado e incontroverso no processo.
+O apelante ignora, porém, que, a despeito da responsabilidade civil objetiva da apelada, era necessária a comprovação do dano individualizado mencionado na inicial e do nexo de causalidade com o incêndio.
+Entretanto, o dano individual é sustentado de maneira genérica: o apelante, basicamente, sustenta que o simples fato de estar nos arredores da região afetada pelo incêndio e pela fumaça tóxica já seria suficiente, por si, para comprovação do dano. Essa tentativa é evidente pela petição e documentos de ps. 935/1022, o que somente reforça a conclusão de que o dano individual é sustentado apenas no campo da probabilidade de ter ocorrido.
+A comprovação do dano individual não precisava de toda essa narrativa arquitetada pelo patrono do apelante. Bastava que a parte apresentasse documentos que demonstrassem a existência de problemas de saúde à criança no período em que o incêndio ocorreu, como comprovantes de aquisição de medicamentos e de realização de consultas médicas, ambulatoriais e/ou internação hospitalar.
+Como constou na sentença: "A responsabilidade da ré pelo fato é clara. Contudo, a meu ver, inexiste dano a ser indenizado. Diante da generalização apresentada na exordial e da inexistência de qualquer documento que comprove atendimento na UPA, muito menos receita médica, ou sequer indicados os medicamentos que teriam sido prescritos para a parte autora, impossível emprestar ao acontecimento a extensão e, principalmente, a repercussão desenhada na exordial" (p. 665).
+Nada disso ocorreu e tais documentos não dependiam de instrução probatória: a parte já deveria tê-los consigo no momento do ajuizamento da demanda, até mesmo porque a presente ação foi ajuizada praticamente três anos após a ocorrência do acidente.
+Nesse contexto, ainda, diante do longo tempo decorrido, ressalta-se que qualquer prova testemunhal seria insuficiente, por si, para comprovar efetivamente a alegação de que a criança teria sido afetada de alguma forma com o incêndio no porto de Santos.
+Sendo assim, não há demonstração de dano à parte autora. Logo, de rigor é a manutenção da sentença de improcedência (e-STJ, fls. 1.027/1.028).
+Desse modo, para se chegar à conclusão diversa da que chegou o eg. Tribunal local, seria inevitável o revolvimento do arcabouço fático-probatório, procedimento sabidamente inviável na instância especial por incidir a Súmula nº 7 do STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+Nesse sentido os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. CULPA EXCLUSIVA DA VÍTIMA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. QUANTUM INDENIZATÓRIO. MINORAÇÃO. DISPOSITIVO CORRELATO NÃO INDICADO. CONTEÚDO NORMATIVO DO DISPOSITIVO APONTADO QUE NÃO AMPARA A PRETENSÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O Tribunal estadual assentou que o motorista da ré não agiu com a devida cautela e foi imprudente ao efetuar manobra interceptando a via em que transitava a vítima, bem como que não havia elementos que comprovassem a tese da empresa de culpa exclusiva da vítima.
+Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta a Súmula nº 7 do STJ.
+3. O conteúdo normativo do dispositivo legal invocado no recurso especial não tem condições de amparar o pleito recursal, na medida em que cuida de tema diverso, revelando a fundamentação deficiente do recurso especial, nos termos da Súmula nº 284 do STF, por analogia.
+4. Agravo interno parcialmente provido.
+(AgInt no AREsp 1694937/SP, de minha relatoria, TerceiraTurma, j. 26/10/2020, DJe 29/10/2020)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO. ALEGAÇÃO DE OFENSA AOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+INEXISTÊNCIA. DANO MORAL. VALOR RAZOÁVEL.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que a verba indenizatória, consideradas as circunstâncias de fato da causa, foi estabelecida pela instância ordinária em conformidade com os princípios da proporcionalidade e razoabilidade.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1594946/MT, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 26/10/2020, DJe 13/11/2020)
+De outra parte, a jurisprudência desta Corte é no sentido de que a divergência jurisprudencial deve ser comprovada, cabendo ao agravante demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fático-jurídica entre eles, sendo necessária a realização do cotejo analítico entre os acórdãos, com o intuito de caracterizar a interpretação legal divergente, nos termos do art. 541, parágrafo único, do CPC/1973, art. 1.029, § 1º, do NCPC e art. 255 do RISTJ.
+Ademais, o dissídio não pode ser conhecido, também quanto ao ponto, pois nos termos da Súmula nº 13 desta Corte a divergência entre julgados do mesmo Tribunal não enseja recurso especial.
+A esse respeito, vejam-se os julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. INDEFERIMENTO NA ORIGEM. AUSÊNCIA DE PROVA DE HIPOSSUFICIÊNCIA. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. PLEITO QUE EXIGE REEXAME DE PROVAS. ENUNCIADO Nº 7/STJ. DISSÍDIO. NÃO CONHECIDO. SÚMULA Nº 13/STJ.
+1. Aferir a condição de hipossuficiência da recorrente, para o fim de aplicação da Lei Federal nº 1.060/1950, demandaria o reexame do contexto fático-probatório dos autos, o que é defeso a este Tribunal, em vista do óbice materializado no enunciado nº 7/STJ.
+2. O dissídio não pode ser conhecido, pois nos termos da Súmula 13 desta Corte "a divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+3. Agravo interno não provido.
+(AgInt no AREsp 955.005/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, 25/10/2016, DJe 10/11/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. A ..  ACÓRDÃO RECORRIDO E ACÓRDÃO PARADIGMA ORIUNDOS DO MESMO TRIBUNAL. INCIDÊNCIA DA SÚMULA 13/STJ. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que "a decisão monocrática não serve como paradigma para a demonstração do dissídio jurisprudencial".
+2. Não se admite recurso especial por dissídio entre julgados do mesmo Tribunal, nos termos da Súmula 13 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.383.885/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 19/3/2019, DJe 29/3/2019)
+Nessas condições, DOU PROVIMENTO ao agravo interno para CONHECER do agravo em recurso especial e NEGAR PROVIMENTO ao apelo nobre.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor de CRISTOPHER e outra, proporcionalmente, em 5% sobre o valor da condenação, limitados a 20%, nos termos do art. 85, §§ 2º e 11, do NCPC,observada a suspensão da exigibilidade dos ônus sucumbencias, a teor do art. 98, § 3º, do mesmo diploma legal.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECONSIDERAÇÃO. INDENIZAÇÃO. REVISÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7, DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA NOS MOLDES LEGAIS. PARADIGMA ORIUNDO DO MESMO TRIBUNAL PROLATOR DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 13 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL E NEGAR PROVIMENTO AO APELO NOBRE.
