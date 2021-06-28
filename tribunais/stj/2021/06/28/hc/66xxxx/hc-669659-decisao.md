@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JEFERSON LINO SERAFIM contra ato do Tribunal de Justiça do Estado de Minas Gerais (Processo n. 481.20.000.318-6).
+O paciente foi condenado como incurso, por três vezes, nos arts. 157, § 2º, II, c/c 157, § 2º-A, I, na forma do art. 70, todos do Código Penal, às penas de 20 anos de reclusão em regime inicial fechado.
+A impetrante aponta constrangimento ilegal consistente no excesso de prazo para julgamento da apelação.
+Alega que os autos foram recebidos pelo Tribunal de origem em 21/10/2020, que o julgamento virtual designado para o dia 25/5/2021 foi cancelado e, redistribuídos os autos, não há previsão de julgamento.
+Defende a aplicação do efeito extensivo, nos termos do art. 580 do Código de Processo Penal, argumentando que a apelação dos corréus já foi julgada e que o resultado lhes foi favorável, já que as penas foram reduzidas.
+Requer, liminarmente e no mérito, a aplicação do "efeito extensivo ao recurso de apelação provido aos corréus, que reduziu a pena para 08 (oito) anos e aplicou o regime semiaberto" (fl. 8). Subsidiariamente, pleiteia o relaxamento da prisão diante do excesso de prazo no julgamento da apelação.
+O pedido de liminar foi indeferido (fls. 93-94).
+Prestadas as informações (fls. 98-106), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou pela denegação da ordem (fls. 110-114).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se identificada flagrante ilegalidade no ato judicial impugnado.
+Acerca do apontado excesso de prazo, o Tribunal de origem informou que (fl. 104):
+(..) tramita neste Tribunal Apelação Criminal nº 1.0481.20.000318-6/001, interposta pelo ora paciente, sob minha relatoria, a mim redistribuído aos 11/05/2021, em virtude da aposentadoria do antigo Relator, o Desembargador Paulo Cézar Dias, nos termos do artigo 78, caput do Regimento Interno do TJMG, em data de 01/05/2021. Esclareço, ainda, que o feito em epígrafe, foi devolvido ao Cartório da 3ª Câmara Criminal em 24/05/2021, para inclusão no Programa de Cooperação - PROJEF, conforme Resolução do Órgão Especial nº 945/2020 deste Tribunal de Justiça, no qual, após redistribuição e conclusão ao Juiz cooperador, será dado o devido andamento.
+Em consulta ao site do TJMG, Processo n. 0003186-11.2020.8.13.0481, constata-se que o processo vem recebendo andamento. Os autos foram recebidos no Tribunal a quo em 21/10/2020, juntada as razões do apelante Jeferson Lino Serafim em 19/11/2020, apresentadas contrarrazões e parecer em 23/11/2020, conclusos ao relator Desembargador Paulo César Dias em 11/1/2021, que apresentou relatório em 16/4/2021. Em 23/4/2021 foram conclusos à revisão. Em 10/5/2021 foram redistribuídos ao Desembargador Franklin Higino Caldeira Filho e em 1/6/2021 o feito foi encaminhado ao Cooperador.
+Conforme bem observado pelo representante do Ministério Público Federal, "o cumprimento dos prazos processuais deve ser analisado à luz do princípio da razoabilidade. Os prazos para a formação da culpa não são rígidos, devendo sua análise ser feita de forma global" (fl. 112).
+Dessa forma, não se verifica, na hipótese, excesso de prazo a ensejar a concessão da ordem de habeas corpus, de ofício, considerando-seaindaque o paciente foi condenado por três roubos qualificados à pena de 20 anos de reclusão.
+No que diz respeito ao pedido de extensão na forma do art. 580 do CPP, a questão não foi enfrentada pela instância de origem. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
