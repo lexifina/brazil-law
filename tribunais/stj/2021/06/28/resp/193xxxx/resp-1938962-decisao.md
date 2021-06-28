@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSCassim ementado (e-STJ fls. 815/816):
+CIVIL - RESPONSABILIDADE CIVIL - ACIDENTE DE TRÂNSITO - COLISÃO ENTRE AUTOMÓVEL E MOTOCICLETA - MANOBRA DE CONVERSÃO SEM AS DEVIDAS CAUTELAS - CULPA DEMONSTRADA
+1 "Responde civilmente o motorista que, ao realizar manobra de conversão à esquerda, vem a abalroar motociclista que seguia na via principal em sua mão de direção, dando causa ao acidente. A transposição de rodovia com o intuito de ingresso em via secundária é manobra que exige cautela redobrada do motorista, só podendo ser executada se houver certeza de que não obstruirá a trajetória de veículos que por ela trafegam e sobrepõe-se até mesmo a eventual excesso de velocidade do outro condutor" (AC n.0016384-18-2008.8.24.0033, Des. Sebastião César Evangelista).
+2 Nessa perspectiva, inexistindo provas nos autos que demonstrem indícios de uma situação diferente, isto é, de que a colisão seria fruto de uma conduta imprudente ou negligente do condutor do motocicleta, que seguia em sua mão de direção, ganha relevância a culpa do motorista que cruzou a via, corroborada pelo suposto estado de embriaguez deste.
+Suficientemente demonstrada a culpa da parte requerida para a ocorrência do acidente de trânsito, tese esta com respaldo nas testemunhas e não derruída pelos elementos contidos nos autos, mantém-se a sentença que lhe imputou a culpa pelo sinistro.
+DANOS MORAIS - MORTE DE FAMILIAR - ABALO ANÍMICO PRESUMIDO - QUANTUM - MINORAÇÃO
+1 O dano extrapatrimonial decorrente da morte abrupta e inesperada de filho em razão de ato ilícito perpetrado por terceiro é presumido e deve ser indenizado com o objetivo de confortar e atenuar a dor daqueles que viram ceifada prematuramente a vida do familiar amado.
+2 Na fixação do valor dos danos morais deve o julgador, na falta de critérios objetivos, estabelecer o quantum indenizatório com prudência, de maneira que sejam atendidas as peculiaridades e a repercussão econômica da reparação, devendo esta guardar proporcionalidade com o grau de culpa e o gravame sofrido.
+CIVIL - SEGURO VEICULAR - ACIDENTE DE TRÂNSITO - DANOS MORAIS - EXCLUSÃO EXPRESSA DE COBERTURA - IMPOSSIBILIDADE DE ENQUADRAMENTO COMO DANOS CORPORAIS Somente na ausência de exclusão expressa, é que o montante indenizatório a título de danos morais pode ser garantido pela cobertura de danos corporais. Havendo expressa exclusão de cobertura na apólice, não há que se falar em pagamento da indenização a título de danos morais.
+SEGURO VEICULAR - DESPESAS COM FUNERAL - PRETENSÃO DE ENQUADRAMENTO COMO DANOS CORPORAIS - INSUBSISTÊNCIA - ESPÉCIE DE DANOS MATERIAIS As despesas com o funeral da vítima de acidente de trânsito, que configuram prejuízo patrimonial dos genitores do falecido, devem ser enquadradas como danos materiais para fins de classificação nas rubricas da cobertura securitária.
+Os embargos de declaração foram rejeitados (e-STJ fls. 856/864).
+Nas razões recursais (e-STJ fls. 578/592), fundamentadas no art. 105, III, "a" e "c", da CF, o recorrente aponta, além de dissídio jurisprudencial, ofensa aos arts. 99, §§ 2º e 3º, 373, II, 489, II, 1.013 e 1.022, I e II, do CPC/2015e 47 do CDC. A insurgência cuida dos seguintes pontos: (a) negativa de prestação jurisdicional, (b) necessidade de se oportunizar a prova da hipossuficiência financeira para obter o benefício da justiça gratuita, (c) violação do princípio do tantum devolutum quantum apellatum, ao se tratar da redistribuição dos honorários, (d) impossibilidade de ter apresentado provas desconstitutivas do direito do autor e (e) existência de cobertura securitária para os danos morais.
+Foram apresentadas contrarrazões (e-STJ fls. 911/921).
+É o relatório.
+Decido.
+Nos embargos declaratórios, orecorrente indicou a necessidade de pronunciamento expresso pela Corte local a respeito da prova da gratuidade da justiça, dos limites da apelação, da prova desconstitutiva e da cobertura dos danos morais(e-STJ fls. 842/849).
+No julgamento dos embargos de declaração, não houve enfrentamento de todas asquestões alegadas, notadamente do tema dos honorários, que não poderiam ter sido redistribuídos, uma vez que sequer fixados anteriormente. Esse tema mostra-se relevante, pois causador de contradição entre o que foi decidido na sentença e no acórdão.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação de matéria dos declaratórios concernente a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado. Sobre o assunto, a título de exemplo, os seguintes precedentes:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. NATUREZA DO CONTRATO FIRMADO ENTRE A RECORRENTE E A CORRÉ. EXPLICITAÇÃO. NECESSIDADE. ART. 535, II, DO CPC. VIOLAÇÃO CONFIGURADA.
+1. Há ofensa ao art. 535, II, do CPC quando o Tribunal a quo, a despeito da omissão existente no acórdão e da oposição de embargos declaratórios, deixa de emitir juízo de valor especificamente sobre questão desenvolvida nos autos e relevante para o deslinde da controvérsia.
+ ..
+3. Recurso especial provido.
+(REsp n. 1.130.311/RJ, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 4/8/2011, DJe 15/8/2011.)
+PROCESSO CIVIL. DIREITO DAS OBRIGAÇÕES. NOVAÇÃO. POSSIBILIDADE DE ANÁLISE DO NEGÓCIO JURÍDICO ANTECEDENTE. MITIGAÇÃO DO PRINCÍPIOPACTA SUNT SERVANDA. SÚMULA 286 DO STJ. VIOLAÇÃO DO ART. 535 DO CPC CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. A violação do art. 535 do CPC configurou-se, no caso dos autos, uma vez que, a despeito da oposição de embargos de declaração, nos quais os recorrentes apontam a existência de omissões, mormente no tocante à possibilidade de exame judicial de supostas ilegalidades substanciais nos contratos celebrados anteriormente à alegada novação com a instituição financeira (fls. 1.052-1.053), o Tribunal não se manifestou de forma satisfatória sobre o apontado vício, consoante se infere do voto condutor às fls. 1.061-1.066.
+ ..
+3. Recurso especial provido para determinar o retorno dos autos ao Tribunal de origem.
+(REsp n. 866.343/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/6/2011, DJe 14/6/2011.)
+Fica prejudicado o exame das demais questões alegadas.
+Diante do exposto, DOU PROVIMENTO ao recurso especial, a fim de anular o acórdão proferido no julgamento dos embargos de declaração e determinar o retorno dos autos ao Tribunal de origem, para exame das omissões apontadas.
+Publique-se e intimem-se.
