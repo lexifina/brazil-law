@@ -1,0 +1,2 @@
+Art. 34. É direito do requerente obter o inteiro teor da decisão negativa de abertura de base de dados.
+Parágrafo único. Eventual decisão negativa à solicitação de abertura de base de dados ou decisão de prorrogação de prazo, em razão de custos desproporcionais ou não previstos pelo órgão ou pela entidade da administração pública, deverá ser acompanhada da devida análise técnica que conclua pela inviabilidade orçamentária da solicitação.

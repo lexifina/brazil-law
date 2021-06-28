@@ -1,0 +1,2 @@
+Art. 5º A administração pública utilizará soluções digitais para a gestão de suas políticas finalísticas e administrativas e para o trâmite de processos administrativos eletrônicos.
+Parágrafo único. Entes públicos que emitem atestados, certidões, diplomas ou outros documentos comprobatórios com validade legal poderão fazê-lo em meio digital, assinados eletronicamente na forma do art. 7º desta Lei e da Lei nº 14.063, de 23 de setembro de 2020.

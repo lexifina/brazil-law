@@ -1,0 +1,5 @@
+Art. 48. Os órgãos e as entidades a que se refere o art. 2º desta Lei deverão estabelecer, manter, monitorar e aprimorar sistema de gestão de riscos e de controle interno com vistas à identificação, à avaliação, ao tratamento, ao monitoramento e à análise crítica de riscos da prestação digital de serviços públicos que possam impactar a consecução dos objetivos da organização no cumprimento de sua missão institucional e na proteção dos usuários, observados os seguintes princípios:
+I - integração da gestão de riscos ao processo de planejamento estratégico e aos seus desdobramentos, às atividades, aos processos de trabalho e aos projetos em todos os níveis da organização, relevantes para a execução da estratégia e o alcance dos objetivos institucionais;
+II - estabelecimento de controles internos proporcionais aos riscos, de modo a considerar suas causas, fontes, consequências e impactos, observada a relação custo-benefício;
+III - utilização dos resultados da gestão de riscos para apoio à melhoria contínua do desempenho e dos processos de governança, de gestão de riscos e de controle;
+IV - proteção às liberdades civis e aos direitos fundamentais.

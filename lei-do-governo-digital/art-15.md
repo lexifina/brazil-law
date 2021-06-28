@@ -1,0 +1,1 @@
+Art. 15. A administração pública participará, de maneira integrada e cooperativa, da consolidação da Estratégia Nacional de Governo Digital, editada pelo Poder Executivo federal, que observará os princípios e as diretrizes de que trata o art. 3º desta Lei.
