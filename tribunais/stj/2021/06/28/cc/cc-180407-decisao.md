@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de conflito positivo de competência tendo como suscitante N & C INDÚSTRIA DE CALÇADOS LTDA - EM RECUPERAÇÃO JUDICIALe suscitados, o JUÍZO DE DIREITO DA 1ª VARA DE SÃO JOÃO BATISTA - SCe o JUÍZO DA 3ª VARA CÍVEL DE ASSIS - SP.
+A suscitanteinformaquefoi deferido o processamento de sua recuperação judicial em 25/02/2021, ocasião em que foi determinada a suspensão de todas as ações e execuções contrárias.
+Afirmaque,nos autos do cumprimento de sentença n. 0000665-40.2021.8.26.0047,foi realizado bloqueio de valores via SISBAJUD.
+Sustenta que, após o deferimento da recuperação judicial, todos os atos constritivos e expropriatórios devem passar pelo crivo do juízo universal, em respeito ao princípio da preservação da empresa, o que não ocorreu.
+Requer, liminarmente, a suspensão de atos constritivos e alienatórios e, no mérito, sejafixada a competência do Juízo universal.
+A tutela de urgência foi deferida (e-STJ fls. 64/66).
+Informações prestadas (e-STJ fls. 72/110 e152/155).
+Parecer do Ministério Público Federal pela competência do Juízo da recuperação, nos termos da seguinte ementa (e-STJ fl. 86):
+CONFLITO POSITIVO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE TÍTULO JUDICIAL. SUSPENSÃO. COMPETÊNCIA DO JUÍZO UNIVERSAL DA RECUPERAÇÃO JUDICIAL. INTELIGÊNCIA DOS ARTS. 6º, §2º, E 47, AMBOS DA LEI 11.101/2005. PRECEDENTES DESSE STJ.
+O Juízo universal é o competente para os atos que importem em constrição do patrimônio da empresa em processo de recuperação judicial, enquanto mantida essa condição. Homenagem ao princípio da preservação da empresa.
+Parecer pelo conhecimento do conflito, para que seja declarada a competência do MM. Juízo de Direito da 1ª Vara de São João Batista - SC.
+É o relatório.
+Decido.
+Seguindo orientação desta Corte Superior consolidada na Súmula n. 568/STJ, o relator pode decidir monocraticamente o conflito de competência, quando exista jurisprudência dominante do Tribunal sobre o tema.
+É esse o caso dos autos, em que se busca fixar o juízo competente para processar atos executórioscontra o patrimônio da recuperanda.
+Com efeito, a jurisprudência do STJ é pacífica quanto ao tema, afirmando que, "com a edição da Lei n. 11.101, de 2005, respeitadas as especificidades da falência e da recuperação judicial, é competente o respectivo Juízo para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros órgãos judiciais, ainda que tenha ocorrido a constrição de bens do devedor" (AgRg n. CC n. 127.629/MT, Relator Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 23/4/2014, DJe 25/4/2014). Ainda nesse sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL. ATOS DE CONSTRIÇÃO. RECUPERAÇÃO JUDICIAL. ENCERRAMENTO. TRÂNSITO EM JULGADO. AUSÊNCIA DE DECISÕES CONFLITANTES. DESCABIMENTO DO INCIDENTE COMO SUCEDÂNEO RECURSAL. AGRAVO NÃO PROVIDO.
+1. A Segunda Seção do STJ consolidou o entendimento de que, uma vez iniciada a recuperação judicial, com a determinação da suspensão de todas as ações e execuções em face da devedora, ou aprovado o plano de recuperação, fundamental se mostra que eventuais atos constritivos dos ativos da sociedade em recuperação sejam submetidos ao crivo do juízo universal, sob pena de se esvaziar o propósito da recuperação.
+2. Todavia, encerrada a recuperação judicial da empresa, as execuções singulares cujos créditos não foram habilitados no processo de soerguimento devem retornar a seus respectivos juízos para o devido prosseguimento e satisfação de seus credores.
+3. Na hipótese dos autos o recurso especial da empresa recuperanda, interposto contra a decisão que declarou o encerramento da recuperação judicial, não foi admitido, ensejando a interposição de agravo em recurso especial que não foi provido pelo STJ. O recurso extraordinário também não foi admitido, ocorrendo o trânsito em julgado do acórdão proferido no agravo interno no agravo em recurso extraordinário processado nesta Corte Superior.
+4. Agravo regimental não provido.
+(AgRg no CC 142.082/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 17/03/2020, DJe 19/03/2020 - grifei.)
+Assim, mesmo quando ultrapassado o prazo de suspensão previsto noart.6º, § 4º, da Lei n.11.101/2005,cumprirá ao juízo universal deliberar sobre os atos constritivos do patrimônio da devedora.Nessa linha:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA - JUSTIÇA COMUM ESTADUAL E JUSTIÇA DO TRABALHO - RECUPERAÇÃO JUDICIAL - RECLAMAÇÃO TRABALHISTA - ATOS EXECUTIVOS - COMPETÊNCIA DO JUÍZO DE DIREITO DA VARA EMPRESARIAL - AGRAVO REGIMENTAL NÃO CONHECIMENTO - INCIDÊNCIA DA SÚMULA 115/STJ. INSURGÊNCIA DO EMBARGANTE.
+1. Os embargos de declaração são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material (artigo 1.022 do CPC/2015). Verificada a existência de omissão no acórdão embargado, os aclaratórios devem ser acolhidos para sanar o vício apontado.
+2. "A jurisprudência do STJ tem entendimento firmado no sentido de que os atos de execução dos créditos individuais promovidos contra empresas em falência ou em recuperação judicial, sob a égide do Decreto-lei nº 7.661/45 ou da Lei nº 11.101/05, devem ser realizados pelo Juízo Universal, ainda que ultrapassado o prazo de 180 dias de suspensão previsto no art. 6º, § 4º, da Lei nº 11.101/05." (ut. CC 146.657/SP, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 26/10/2016, DJe 07/12/2016). E ainda: AgInt no CC 146.036/RS, Rel.
+Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 14/09/2016, DJe 20/09/2016; AgRg no CC 116.594/GO, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 14/03/2012, DJe 19/03/2012.
+3. Embargos de declaração acolhidos apenas para sanar a omissão detectada, sem efeitos infringentes.
+(EDcl nos EDcl no AgRg no CC 122.671/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 22/02/2018, DJe 01/03/2018)
+Diante do exposto, CONHEÇO do conflito positivo de competência, a fim de DECLARAR COMPETENTE o o JUÍZO DE DIREITO DA 1ª VARA DE SÃO JOÃO BATISTA - SCparadecidir acercada penhora de ativos financeiros realizado nos Autos do Cumprimento de Sentençan. 0000665-40.2021.8.26.0047,bem como para exercer o controle sobre bens e valores pertencentes à suscitante, que eventualmente permaneçambloqueados ou penhorados nos referidos autos.
+Publique-se e intimem-se.
