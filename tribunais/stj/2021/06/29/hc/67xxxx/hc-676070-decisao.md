@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Gabriel da Costa Soarescontra o acórdão proferido pelo Tribunal de Justiça de São Paulo, em que se negou provimento à apelação defensiva, mantendo-se a condenação imposta ao paciente,pelo crime de tráfico de drogas,àpenade 5anos de reclusão, em regime inicial semiaberto, e ao pagamentode 500dias-multa, não comporta processamento(Ação Penal n. 1510992-65.2019.8.26.0038).
+Primeiro, porque se trata de habeas corpus substitutivo de revisão criminal e o impetrante se utiliza da via como uma segunda apelação criminal, pretendendo o reexame de matérias afetas às instâncias ordinárias, mediante análise de fatos e provas, o que é inadmissível nos termos da jurisprudência desta Corte.
+Depois, porque, da análise dos autosobserva-se que o Juízo de primeiro grau, com fundamento nos elementos probatórios constantes dos autos, concluiu que o paciente se dedicaria a atividades criminosas, afastando a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, em especial,porque o réu é conhecido traficante desde tenra idade, gerenciando à época pontos de tráfico de seu tio então detido em estabelecimento prisional (fl. 231), de modo que, para alcançar conclusão inversa, seria necessário reexame de provas, inviável na via estreita do habeas corpus.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. FALTA DE CABIMENTO. UTILIZAÇÃO DA VIA ELEITA COMO UMA SEGUNDA APELAÇÃO. IMPOSSIBILIDADE. DOSIMETRIA DA PENA. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. CONVICÇÃO DAS INSTÂNCIAS ORDINÁRIAS DE QUE O PACIENTE SE DEDICAA ATIVIDADES CRIMINOSAS. CONCLUSÃO INVERSA. REEXAME DE PROVAS. INVIABILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
