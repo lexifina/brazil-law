@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interno interposto por GLOBAL CONSULTORIA IMOBILIÁRIA LTDA. contra decisão singular, da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial, nos termos dos artigos 21-E, V, e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), porquanto a parte agravante absteve-se de impugnar alguns dos fundamentos da decisão agravada, a qual foi proferida nos seguintes termos (e-STJ fl. 601):
+ ..
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ (arts. 186 e 927 do CC; art. 485, VI, do CPC; e arts. 7º e 14 do CDC) e Súmula 7/STJ (art. 944 do CC).
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 7/STJ (arts. 186 e 927 do CC; art. 485, VI, do CPC; e arts. 7º e 14 do CDC).
+Como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+ ..
+Sustenta a parte agravante, em síntese, não incidir o óbice processual apontado.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, que seja submetida ao pronunciamento do Colegiado (e-STJ fls. 605/611).
+Transcorreu in albis o prazo para impugnação, conforme certidão de fl. 615 (e-STJ).
+De fato, observo que a parte agravante impugnou, inclusive em tópico específico, a aplicação do verbete sumular n. 7 do Superior Tribunal de Justiça.
+Assim, reconsidero a decisão de fls. 601/602 (e-STJ) e passo à análise do agravo em recurso especial.
+Cuida-se de agravo, nos próprios autos, de GLOBAL CONSULTORIA IMOBILIÁRIA LTDA., objetivando a reforma da decisão de inadmissão do recurso interposto perante o Tribunal de Justiça do Estado de Mato Grosso, em face de acórdão assim ementado (e-STJ fls. 521/522):
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - PRELIMINAR DE ILEGITIMIDADE - REJEITADA - CONTRATO DE COMPRA E VENDA DE IMÓVEL - RESCISÃO CONTRATUAL - CULPA EXCLUSIVA DO PROMITENTE VENDEDOR/CONSTRUTOR - RESTITUIÇÃO INTEGRAL - SÚMULA 543 DO STJ - DANO MORAL - CONFIGURADO - QUANTUM RAZOÁVEL - RECURSO CONHECIDO E DESPROVIDO.
+O Código de Defesa do Consumidor (arts. 7º, 25, § 1º, e 34) estabelece a responsabilidade solidária de todos aqueles que integram a cadeia de negócios do produto fornecido ou serviço contratado, sendo evidente portanto a legitimidade deles para responderem por cobranças indevidas e demais danos sofridos pelo consumidor.
+"Súmula 543 STJ - Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento."
+A indenização por danos morais ocorre quando há violação a um dos direitos da personalidade, como a integridade física ou psicológica, liberdade, honra, imagem, nome, dentre vários outros direitos que asseguram a dignidade da pessoa humana e, ainda, que sua fixação deve ser pautada na razoabilidade e proporcionalidade, de modo que seu valor não seja excessivo a ponto de gerar o enriquecimento ilícito do ofendido nem se mostrar irrisório e, assim, estimular a prática danosa.
+No recurso especial, fundado no artigo 105, III, "a" e "c", da Constituição Federal, além de divergência jurisprudencial, a parte recorrente aponta violação aos artigos 485, VI, do Código de Processo Civil de 2015; 7º, § 1º, e 14 do Código de Defesa do Consumidor (Lei n. 8.078/1990); e 186, 927 e 944 do Código Civil de 2002 (e-STJ fls. 543/563).
+Alega ilegitimidade passiva ad causam, visto que a " ..  Recorrente, na qualidade de corretora imobiliária, não foi parte integrante da promessa de compra e venda, não podendo responder pelo inadimplemento de obrigações que não assumiu, tampouco pela devolução de valores que não recebeu  .. " (e-STJ fl. 546).
+Afirma que " ..  somente aquele que praticou o ato ilícito contratual (nexo causal) responde pelos riscos deles decorrente  .. ", pois " ..  sem que tenha havido concorrência para os fatos, não há que se cogitar em responsabilidade civil contratual da Recorrente  .. " (e-STJ fl. 551). Refuta, ainda, o cabimento dos danos pleiteados.
+Assiste razão à recorrente.
+De início, verifico que a sentença reconheceua ilegitimidade passiva ad causam da ora recorrente pelos seguintes fundamentos (fl. 453):
+Da ilegitimidade passiva da empresa Avance Negócios ImobiliáriosS/A:
+Em defesa, a Avance Negócios Imobiliários arguiu preliminar de ilegitimidade passiva, ao argumento de que apenas intermediou a venda do imóvel à autora, não fazendo efetivamente parte da negociação.
+Verifica-se que a Avance Negócios Imobiliários foi a responsável pela divulgação e intermediação do empreendimento construído e comercializado pela segunda ré PDG Realty Empreendimentos e Participações.
+De acordo com o parágrafo único do artigo 7º do CDC, tendo mais de um autor a ofensa, todos responderão solidariamente pelos danos causados ao consumidor.
+Rejeito, portanto, a preliminar de ilegitimidade passiva.
+O Tribunal de origem manteve a sentença com as seguintes considerações em relação ao ponto (e-STJ fls. 523/524):
+ ..
+A apelante suscita a sua ilegitimidade passiva, ao argumento de que o contrato foi firmado exclusivamente com a outra ré.
+Em que pese o fato de que a parte autora não manteve vínculo contratual direto com a apelante, é certo que esta participou ativamente do planejamento do empreendimento, com envolvimento para o sucesso integral da empreitada, além de ser parceira das corrés neste mesmo negócio e, portanto, deve responder solidariamente por eventuais perdas e danos que possa causar em decorrência do empreendimento que toca em parceria, diante aplicação das regras do Código Consumerista (arts. 7º, 25, § 1º, e 34).
+ ..
+Verifica-se, assim, que a apelante fez parte da cadeia de negócios envolvendo o imóvel adquirido pela apelada, ainda que não tenha subscrito o contrato com a apelada, porquanto participou ativamente do planejamento e desenvolvimento do empreendimento.
+Desse modo, constitui parte legítima para figurar no polo passivo da ação.
+ ..
+Referida conclusão das instâncias ordinárias, entretanto, não encontra amparo na jurisprudência desta Corte.
+Em que pese a jurisprudência desta Corte reconhecer que os integrantes da cadeia de consumo são responsáveis pelo danos gerados ao consumidor, nos presentes autos não foi reconhecido nexo de causalidade entre a conduta da corretora, responsável apenas pela intermediação do negócio, e o descumprimento da obrigação contratual pelo vendedor.
+Nenhum defeito na atividade de intermediação do imóvel é atribuído à corretora. Igualmente não se alega que integre o mesmo grupo econômico da incorporadora e da construtora e nem confusão ou desvio patrimonial das responsáveis pela construção em benefício da corretora.
+A atuação do corretor é de intermediação, de aproximação das partes, sendo, via de regra, alheia ao contrato de compra e venda a ser celebrado entre o incumbente e o interessado.
+Assim, "a responsabilidade do corretor de imóveis está vinculada, em regra, ao serviço ofertado pelo intermediador que é o de aproximar, de modo diligente, comprador e vendedor, prestando ao cliente as necessárias informações acerca do negócio a ser celebrado (art. 723 do CC)" (REsp 1645614/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 29.6.2018).
+No caso concreto, conforme já delineado, a responsabilidade da corretora por fato estranho ao serviço de intermediação foi reconhecida sem análise de sua atuação, por mera presunção decorrente da aplicação da legislação consumerista à relação jurídica.
+Não há suporte fático, portanto, para enquadramento da ora recorrente como integrante da cadeia de fornecimento a justificar sua condenação, de forma solidária, pelos danos causados ao adquirente.
+Em caso assemelhado, no julgamento do REsp 1.779.271/SP, desta relatoria, a Quarta Turma deste Superior Tribunal concluiu nesse sentido. Leia-se a ementa do referido julgado:
+COMPROMISSO DE COMPRA E VENDA. ATRASO NA ENTREGA DA UNIDADE IMOBILIÁRIA. LUCROS CESSANTES PRESUMIDOS. TERMO FINAL. ENTREGA DO IMÓVEL AO ADQUIRENTE. APLICAÇÃO DA SÚMULA 83/STJ. CORRETORA. LEGITIMIDADE PASSIVA AD CAUSAM. ARTS. 722 E 723 DO CÓDIGO CIVIL.INEXISTÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO DE CORRETAGEM AFASTAMENTO DA RESPONSABILIDADE SOLIDÁRIA.
+1. A jurisprudência desta Corte se firmou no sentido de que "no caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma" (REsp 1.729.593/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, DJe de 27.9.2019).
+2. Em vista da natureza do serviço de corretagem, não há, em princípio, liame jurídico do corretor com as obrigações assumidas pelas partes celebrantes do contrato, a ensejar sua responsabilização por descumprimento de obrigação da incorporadora no contrato de compra e venda de unidade imobiliária. Incidência dos arts. 722 e 723 do Código Civil.
+3. Não sendo imputada falha alguma na prestação do serviço de corretagem e nem se cogitando do envolvimento da intermediadora na cadeia de fornecimento do produto, vale dizer, nas atividades de incorporação e construção do imóvel ou mesmo se tratar a corretora de empresa do mesmo grupo econômico das responsáveis pela obra, hipótese em que se poderia cogitar de confusão patrimonial, não é possível seu enquadramento como integrante da cadeia de fornecimento a justificar sua condenação, de forma solidária, pelos danos causados ao autor adquirente.
+4. Agravo interno parcialmente provido para dar parcial provimento ao recurso especial.
+Reconhecida a ilegitimidade da recorrente, ficaprejudicada a análise das demais questões suscitadas no recurso especial.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para afastar a responsabilidade da corretora, ora recorrente.
+Intimem-se.
