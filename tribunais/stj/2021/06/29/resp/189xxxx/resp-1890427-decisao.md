@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA DE ADIMPLEMENTO CONTRATUAL.SENTENÇA DE PROCEDÊNCIA. PRESCRIÇÃO.
+PRETENSÃO DE NATUREZA PESSOAL. INCIDÊNCIA DOS PRAZOS PREVISTOS NOS ARTIGOS 177 DO CÓDIGO CIVIL DE 1916 E 2.028 DO NOVO CÓDIGO CIVIL. PRESCRIÇÃO VINTENÁRIA CONFIGURADA EM RELAÇÃO A UM DOS AUTORES. ILEGITIMIDADE ATIVA RECONHECIDA EM RELAÇÃO A DOIS AUTORES. CESSÃO DE DIREITOS.CESSIONÁRIOS QUE NÃO TROUXERAM AOS AUTOS DOCUMENTOS INDISPENSÁVEIS, CAPAZES DE ATESTAR A EXISTÊNCIA DA RELAÇÃO JURÍDICA ENTRE ELES E A EMPRESA DE TELEFONIA RÉ.
+ILEGITIMIDADE PASSIVA. NÃO CABIMENTO. OI S/A (BRASIL TELECOM S/A) COMO SUCESSORA UNIVERSAL DAS ANTIGAS EMPRESAS TELEPAR E TELEBRÁS. PRECEDENTES. PRECLUSÃO CONFIGURADA EM RELAÇÃO A ESSA ÚLTIMA PRELIMINAR. MATÉRIA JÁ DECIDIDA ANTERIORMENTE NO JULGAMENTO DO AGRAVO DE INSTRUMENTO1.105.347-1. MÉRITO. MÉRITO. CONTRATO. IRRELEVÂNCIA DO REGIME.CRITÉRIOS LESIVOS AO ADQUIRENTE.
+SUBSCRIÇÃO DE AÇÕES À MENOR.DETERMINAÇÃO DE COMPLEMENTAÇÃO. OBSERVÂNCIA DA SÚMULA 371 DO STJ. ENTENDIMENTO JURISPRUDENCIAL PACIFICADO NO SENTIDO DE APURAÇÃO PELO VALOR PATRIMONIAL COM BASE NO BALANCETE DO MÊS DA INTEGRALIZAÇÃO. APLICABILIDADE DO RESP REPETITIVO 1.301.989 STJ.CONVERSÃO EM INDENIZAÇÃO POR PERDAS E DANOS.
+POSSIBILIDADE APÓS LIQUIDAÇÃO. PAGAMENTO DE DIVIDENDOS, BONIFICAÇÕES E JUROS.
+VALOR DA COTAÇÃO NA BOLSA DE VALORES NA DATA DO TRÂNSITO EM JULGADO DA DEMANDA. JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO. MATÉRIA VEICULADA NO REPRESENTATIVO DA CONTROVÉRSIA RESP1.301.989/RS.SENTENÇA PARCIALMENTE REFORMADA.
+MAJORAÇÃO DE HONORÁRIOS FIXADA PELO JUÍZO NOS EMBARGOS.
+IMPOSSIBILIDADE NO MESMO A QUO GRAU DE JURISDIÇÃO. MULTA APLICADA NOS EMBARGOS. NÃO CABIMENTO.REDISTRIBUIÇÃO DA SUCUMBÊNCIA, NOS TERMOS DO ART. 85 § 2º E 86 DO CPC.
+RECURSO DE APELAÇÃO CÍVEL CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos a esse acórdão foram rejeitados.
+A parte recorrente alega que o acórdão recorrido contrariou:
+a) oartigo 170 da Lei 6.404/1976, porque a parte autora não tem direito a resíduo acionário, considerando-seque o contrato de participação financeira foi celebrado sob regime diferenciado, denominado Plano de Atendimento Integral da Demanda (PAID), o qual não se confunde com o Plano de Expansão (PEX); que, tal como sucede no sistema Planta Comunitária de Telefonia (PCT), no regime PAID a integralização não ocorreu em dinheiro, mas por dação de bem, com prévia avaliação do acervo a ser transferido (incorporado) à concessionária de telefonia; que a retribuição acionária (emissão) se processou de acordo com tal avaliação, e não com base nas quantias pagas pelos consumidores; que foi observado o procedimentoprevisto na legislação vigente à época; e que os consumidores celebraram contratos com a empreiteira encarregada da implantação do empreendimento.Quanto a esse tema, aponta também divergência jurisprudencial; e
+b) oartigo 1.022 do Código de Processo Civil (CPC), porque não foi fornecida a correta prestação jurisdicional.
+Inicialmente, anoto que, nos autos do Recurso Especial 1.776.345/PR - interposto pela parte ré, ora recorrente, contra acórdão proferido no julgamento de agravo de instrumento em que discutida questão incidental (decisão interlocutória determinando exibição de documentos) surgida no curso da presente demanda -, concluímos pela procedência da pretensão de reforma do acórdão recorrido e, em consequência, demos provimento ao recurso especial" .. para extinguir o feito por ausência de interesse de agir da parte recorrida.  .. ".Essadecisão tornou-se definitiva em 24.5.2019.
+Assim, o exame do presente recurso especial ficou prejudicado em virtude do julgamento favorável à pretensão da parte ré, prolatado no Recurso Especial1.776.345/PR.
+Em face do exposto, julgo prejudicado o recurso.
+Intimem-se.
