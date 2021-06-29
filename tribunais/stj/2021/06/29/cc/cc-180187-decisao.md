@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido de liminar, instaurado por NACIONAL EXPRESSO LTDA - EM RECUPERAÇÃO JUDICIAL, envolvendo o r. Juízo de Direito da 7ª Vara Cível de Uberlândia/MG, no qual se processa a recuperação judicial da suscitante (Processo nº 5002607-33.2016.8.13.0702), e o r. Juízo da 5ª Vara do Trabalho de Uberlândia/MG, onde tramita a Reclamação Trabalhista nº 011068-65.2016.5.03.0134, movida pelo SINDICATO DOS TRABALHADORES EM TRANSPORTES RODOVIÁRIOS DE UBERLÂNDIA/MG.
+Aduz a suscitante, em síntese, que o Juízo Trabalhista determinou a realização de atos executórios contra seus bens nos autos da mencionada ação trabalhista, na qual figura como reclamada, invadindo, assim, competência exclusiva do Juízo da Recuperação Judicial, que, conforme alega, é o foro competente para tratar de atos que afetem seu patrimônio.
+Cita, em favor de sua tese, os seguintes julgados deste STJ:AgRg nos EDcl no CC 136.571/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, unânime, DJe de 31.5.2017;AgInt no CC 123.834/SP, Rel. Min. Ricardo Villas Bôas Cueva. DJ 29/05/2017.
+Diante disso, requer a concessão de liminar objetivando o sobrestamento dos atos executivos determinados na demanda laboral, com designação do Juízo Universal para resolver, em caráter provisório, as medidas urgentes, evitando-se, assim, que a constrição de seus bens prossiga e inviabilize o processo de soerguimento ao qual está submetida.
+No mérito, pugna pela declaração de competência do Juízo da Recuperação Judicial para tratar dos atos de caráter executório que afetem seu acervo patrimonial.
+É o relatório.
+Decisão.
+1. De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. Em conflitos similares, envolvendo, de um lado, o Juízo da Recuperação Judicial e, de outro, o Juízo Laboral, no qual tramita execução trabalhista movida contra sociedade recuperanda, o Superior Tribunal de Justiça tem reconhecido a competência do primeiro para efetivar atos de constrição e/ou expropriação que, de alguma forma, afetem o patrimônio envolvido no processo de soerguimento.
+Assim, após o deferimento do processamento da recuperação judicial, é do juízo da recuperação a competência para analisar o prosseguimento dos atos de execução relacionados a reclamações trabalhistas movidas contra a empresa recuperanda.
+Nesse sentido, confiram-se:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. PROSSEGUIMENTO. ATOS DE CONSTRIÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. Após o deferimento da recuperação judicial, é do juízo de falências e recuperação judicial a competência para o prosseguimento dos atos de execução relacionados a reclamações trabalhistas movidas contra a empresa recuperanda.
+2. Nesses casos, a competência da Justiça do Trabalho se limita à apuração do respectivo crédito (processo de conhecimento), sendo vedada a prática, pelo citado Juízo, de qualquer ato que comprometa o patrimônio da empresa em recuperação (procedimento de execução).
+3. Agravo interno não provido.
+AgInt no CC n. 147.032/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 13/9/2017, DJe 19/9/2017.
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL.EXECUÇÕES INDIVIDUAIS. LEI N. 11.101/05. INTERPRETAÇÃO SISTEMÁTICO-TELEOLÓGICA DOS SEUS DISPOSITIVOS. MANUTENÇÃO DA ATIVIDADE ECONÔMICA.
+1. A competência para o pagamento dos débitos de sociedade empresária no transcurso de processo de recuperação é do juízo em que se processa o pedido de recuperação e em observância ao plano aprovado e homologado.
+2. A manutenção da possibilidade de os juízos de execuções individuais procederem à constrição do patrimônio das sociedades recuperandas afrontaria os princípios reitores da recuperação judicial, privilegiando-se determinados credores, ao arrepio do que hegemonicamente restou estabelecido no plano de recuperação. Inteligência do art. 6, §2º, da LF n. 11.101/05. Concreção do princípio da preservação da empresa (art 47).
+3. AGRAVO REGIMENTAL DESPROVIDO.
+AgRg no CC n. 125.697/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 4/2/2013, DJe 15/2/2013.
+E ainda, na mesma linha de cognição: CC n. 121.327/DF, Ministra NANCY ANDRIGHI, DJe 2/5/2012, CC n. 102.613/SP, Ministro MASSAMI UYEDA, DJe 7/10/2011, CC n. 118.574/SP, Ministro SIDNEI BENETI, DJe 27/10/2011, CC n. 118.524/SP, Ministro LUIS FELIPE SALOMÃO, DJe 4/5/2012, CC n. 120.454/SP, Ministra Maria Isabel Gallotti, DJe 30/4/2012.
+Diante da jurisprudência supramencionada, e das decisões cujas cópias foram juntadas às fls. 38/42 (Juízo da Recuperação Judicial) e às fls. 28/35 (Justiça do Trabalho), revela-se, de rigor, o conhecimento do presente incidente e a declaração de competência do r. juízo universal porquanto determinada a realização de atos constritivos/executórios em face da suscitante, sem o devido exame pelo Juízo Recuperacional.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ, conheço do presente conflito e, por conseguinte, declaro a competência do r. juízo da 7ª Vara Cível de Uberlândia/MG.
+Publique-se. Intimem-se.
