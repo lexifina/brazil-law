@@ -1,0 +1,7 @@
+DECISÃO
+Oart. 71 do Regimento Interno do STJ prevê que "a distribuição da ação, do recurso ou do incidente torna preventa a competência do relator para todos os feitos posteriores referentes ao mesmo processo ou a processo conexo, inclusive na fase de cumprimento de decisão (..)" (grifamos). Desse modo, deve ser considerado como critério para a prevenção a data da distribuição do Recurso Especial.
+Nesses termos, o processo que primeiro foi distribuído neste STJ, que trata da mesma matéria, foi o REsp 1.917.462/SP, distribuído em 8/2/2021 às 9h e 02 min, de relatoria do Min. Og Fernandes, ainda sem decisão.
+Na atual demanda em questão, o Recurso Especial foi distribuído em 15/4/2021 ao Min. Mauro Campbell Marques e foi remetido ao meu Gabinete em razão de decisão monocrática já proferida no AREsp 1.803.580/SP, o qual, por sua vez, foi distribuído em 11/3/2021.
+Considerando que a jurisprudência do STJ tem reconhecido, seguindo a redação do art. 55 do CPC/2015, a possibilidade da reunião de ações para julgamento conjunto, a fim de evitar decisões contraditórias, fixando como o juízo competente aquele que teve a primeira ação ajuizada ou recurso distribuído, que no caso seria o REsp 1.917.462/SP, bem como considerando a possibilidade de se tornar sem efeito a decisão monocrática proferida no AREsp 1.803.580/SP, caso a prevenção ao Min. Og Fernandes seja confirmada, encaminho o presente ao Gabinete do Exmo. Sr. Ministro Og Fernandes para que seja verificadaa ocorrência de prevenção.
+Publique-se.
+Intimem-se.
