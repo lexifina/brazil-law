@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Recurso Especial interposto com fundamento no art. 105, III, "a", da Constituição da República contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado:
+EXECUÇÃO FISCAL. PARCELAMENTO DA DÍVIDA. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO E DA AÇÃO EXACIONAL. MANUTENÇÃO DE PENHORA REALIZADA ATRAVÉS DO SISTEMA BACENJUD. IMPOSSIBILIDADE. PONDERAÇÃO ENTRE OS PRINCÍPIOS DE QUE A EXECUÇÃO SE REALIZA E SE DESENVOLVE NO INTERESSE DO CREDOR (ART. 612 DO CPC) E DA FORMA MENOS ONEROSA PARA O DEVEDOR (ART. 620 DO CPC). MANUTENÇÃO DE PENHORA REALIZADA ATRAVÉS DO SISTEMA RENAJUD ANTERIORMENTE AO PARCELAMENTO. PARCIAL PROVIMENTO DO AGRAVO DE INSTRUMENTO.
+1. Agravo de instrumento interposto por HOTEL DA BARRA LTDA, FIESAL GHAZI SABIEAH AL KHUDHAIRI e ADRIANA DE MELO AL KHUDHAIRI em face de decisão que indeferiu o pedido de liberação de bens e valores bloqueados via Bacenjud/Renajud, sob o fundamento de que as medidas constritivas foram realizadas quando ainda não estava suspensa a exigibilidade do crédito, não se podendo olvidar a legalidade das constrições já efetuadas quando do parcelamento do débito, inclusive para evitar despicienda renovação de atos executórios em caso de descumprimento do pacto firmado.
+2. Não se desconhece o entendimento pacífico no Egrégio STJ segundo o qual o parcelamento tributário, conquanto apto a determinar a suspensão da exigibilidade do crédito e, por conseguinte, de execução fiscal em curso até o seu efetivo adimplemento, não tem o condão de desconstituir a garantia dada em juízo (Precedentes: AgRg no REsp 1249210/MG, Rel. Min. Humberto Martins, Segunda Turma, DJe de 24.6.2011; AgRg no REsp 1208264/MG, Rel. Min. Hamilton Carvalhido, Primeira Turma, DJe de 10.12.2010).
+3. No entanto, situações como a do caso concreto propõem certa dose de temperamento diante da correlação entre os princípios de que a execução se realiza e se desenvolve no interesse do credor (art. 612 do CPC) e da forma menos onerosa para o devedor (art. 620 do CPC).
+4. In casu,a executada aderiu a parcelamento do débito (02/02/2019), o que, nos termos do art. 151, VI, do CTN, deu ensejo à suspensão da exigibilidade do crédito tributário e, por isso, da própria execução fiscal.
+5. Desde então vem cumprindo com o pacto administrativo (pois não existe nos autos alegação contrária), o que demonstra o propósito de assim persistir até o pleno adimplemento da dívida.
+6. Nesse caso, "Embora exista o risco de inadimplência do referido parcelamento, tal ensejo decorre da própria previsão legal acerca desse benefício" (TRF 5ª Região - AG nº 98.797 - Rel. Des. Federal Paulo Roberto de Oliveira Lima) sem que se perca de vista, também, que a negativa do desbloqueio de numerário, amparada exclusivamente nesse suposto evento, vai totalmente de encontro ao princípio da boa-fé.
+7. Não é difícil perceber que a permanência da constrição judicial, quando a lei não faz a exigência de qualquer garantia para a adesão ao parcelamento, é medida que não é dotada de razoabilidade, principalmente quando o dinheiro bloqueado poderia estar sendo revertido para a quitação do próprio parcelamento.
+8. Ademais, "Em se tratando de penhora de numerário, a permanência dos valores bloqueados acarreta efeito análogo ao do pagamento à vista, sendo, dessa forma, incompatível com o ato de concessão do parcelamento, já que se configura numa dupla e excessiva garantia do débito exequendo (esferas judicial e administrativa)". (TRF 5ª Região - AG nº 125.621 - Rel. Des. Federal Convocado Rubens de Mendonça Canuto).
+9. A situação é diferenciada daquelas em que a penhora recai sobre outros bens que, de regra, não retiram do proprietário a prerrogativa de sua fruição direta ou, também, de se beneficiar de seus frutos, como se dá, in casu, em relação aos veículos penhorados antes do parcelamento, devendo permanecer constritos.
+10. Agravo de instrumento parcialmente provido.
+A recorrente alega violação do art. 151, VI, do CTN. Afirma que deve ser mantida a penhora realizada antes do parcelamento do tributo, até que ocorra o integral pagamento do débito.
+Não há contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 11 de junho de 2021.
+O recurso não ultrapassa o juízo de admissibilidade.
+Com efeito, a recorrente apresentou suas razões de forma genérica, limitando-se a afirmar que deve ser mantida a penhora realizada antes do parcelamento, tendo em vista que, na época de sua efetivação (isto é, da medida constritiva), não havia hipótese de suspensão da exigibilidade do tributo.
+A Corte regional expressamente consignou conhecer a orientação jurisprudencial a respeito do tema, mas concluiu,com acerto ou não, que no caso concreto - penhora de dinheiro, que, diferentemente de outros bens, não permanece em poder do devedor durante a tramitação do feito -devem ser equilibrados os princípios segundo os quais a execução se processa no interesse do credor com o da menor onerosidade (art. 620 do CPC/1973).
+A ausência de impugnação ao referido fundamento atrai a incidência da Súmula 283/STF.
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
