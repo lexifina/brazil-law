@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 143):
+HABEAS CORPUS - TRÁFICO DE ENTORPECENTES E POSSE ILEGAL DE ARMA DE FOGO - Revogação da prisão preventiva - Alegação ainda de excesso de prazo na formação da culpa - Não ocorrência - Trâmite regular e dentro dos prazos previstos em lei - Feito que aguarda somente a prolação de sentença - Constrangimento ilegal não configurado - Ordem denegada.
+Consta dos autos que o paciente foi preso preventivamente e denunciado como incurso no art. 33, caput, da Lei 11.343/06, art. 12, caput, da Lei 10.826/03, na forma do art. 69, do Código Penal.
+No presentewrit, a defesa alega, em síntese, a ocorrência de excesso de prazo, tendo em vista que o paciente encontra-se preso há 23 meses e ainda não foi proferida sentença.
+Requer, assim, liminarmente e no mérito, a revogação da prisão preventiva.
+Em petição de fls. 207/216 a defesa reitera os termos da petição inicial e na petição de fl. 217 pede preferência no julgamento do feito.
+Indeferida a liminar e, prestadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem.
+Inicialmente, deve ser destacado que a inobservância dos prazos processuais, nas hipóteses de réus presos, pode configurar coação ilegal, com a concessão de habeas corpus, nos termos do art. 648, II, do CPP. A jurisprudência, no entanto, tem tolerado as dilações razoáveis nos casos de processos complexos, com réus numerosos, sobretudo quando a demora se deve aos interesses da defesa.
+Nesse sentido, eventual constrangimento ilegal por excesso de prazo não resulta de mero critério matemático, mas de uma ponderação do julgador, observando os princípios da razoabilidade e proporcionalidade, à luz do disposto no art. 5º, LXXVIII, da Constituição Federal, levando em consideração as peculiaridades do caso concreto, procurando evitar o retardamento injustificado da prestação jurisdicional.
+No caso, colhe-se dos autos queem 30/9/2019 foi decretada a prisão preventiva do paciente e demais comparsas e, após a notificação para apresentar resposta à acusação, em decisão datada de 8/10/2019, a denúncia foi recebida em 1/4/2020, oportunidade em que foi designada audiência de interrogatório, instrução e julgamento para o dia 1/6/2020, determinando o retorno dos autos ao Ministério Público para apreciação do pedido de revogação da prisão preventiva, que restou indeferido em 18/6/2020.
+Em decorrência da pandemia se fez necessária nova redesignação da audiência para o dia 1/10/2020, oportunidade na qual foram ouvidas as testemunhas arroladas pelas partes e interrogados os acusados e, declarada encerrada a instrução, as partes apresentaram memoriais e, atualmente, os autos estão conclusos para sentença.
+Nesse contexto, verifica-se que o processo possui andamento constante e marcha regular, sobretudo em se tratando de ação penal que envolve 4 réus e apura a prática de crimes graves (tráfico, posse de arma de fogo e associação para o tráfico), circunstâncias quejustificam o elastério dos prazos processuais.
+Ademais, encerrada a instrução criminal, incide na espécie o enunciado da Súmula 52 do STJ, segundo o qual encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo.
+Não evidenciada mora estatal em ação penal em que a sucessão de atos processuais infirma a ideia de paralisação indevida da ação penal, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+Ante o exposto, denego ohabeas corpus, com recomendação de celeridade no julgamento da ação penal n. 1505522-27.2019.8.26.0564.
+Publique-se.
+Intimem-se.
