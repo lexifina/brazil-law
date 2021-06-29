@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por MUNICÍPIO DE SÃO PAULO contra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 504):
+MANDADO DE SEGURANÇA - LEI 13.614/2003 - Inconstitucionalidade parcial da lei reconhecida pelo Órgão Especial - Reconhecimento da inconstitucionalidade da Lei Municipal na parte em que impõe condicionamentos retribuição pelo uso do solo para a implantação e instalação de equipamentos de infraestrutura urbana destinados à prestação de serviçospúblicos - Surge devida a pretensão da impetrante de não se sujeitar à cobrança de retribuição mensal pelo uso do solo - Recurso provido para desconstituir a r. sentença de extinção (art. 515, § 3º, do CPC)e, no mérito, conceder a segurança.
+Embargos de declaração rejeitados (e-STJ fls. 519/525).
+No recurso especial obstaculizado, a parte apontou violação aos seguintes dispositivos legais:
+(a) art. 535, II, do Código de Processo Civil de 1973, porque, apesar de opostos embargos de declaração, o Tribunal de origem o Tribunal de origem não indicou os dispositivos que teriam fundamentado a sua conclusão;e
+(b) art. 106 do Código Civil, sustentando que o uso de bens públicos pode ser oneroso e a Lei Municipal n. 13.614/2003 prevê a retribuição pecuniária pelo uso do subsolo para a implantação de instalação de equipamentos de infraestrutura destinados à prestação de serviços públicos, não podendo ser compelida a ceder gratuitamente a utilização de bens de uso comuma empresa que explora atividade de telecomunicações.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 595/596), tendo sido os fundamentos da decisão atacados no presente recurso (e-STJ fls. 607/615).
+O Ministério Público Federal opina pelo não conhecimento do agravo e, se conhecido, pelo não conhecimento do recurso especial (e-STJ fls. 670/677).
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 - STJ).
+Dito isso, à luz dodisposto no art. 544, § 4º, I, do CPC/1973, quanto nosarts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ, não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada.
+Confira-se o teor dos dispositivos citados:
+Art. 544. Não admitido o recurso extraordinário ou o recurso especial, caberá agravo nos próprios autos, no prazo de 10 (dez) dias.
+ ..
+§ 4º No Supremo Tribunal Federal e no Superior Tribunal de Justiça, o julgamento do agravo obedecerá ao disposto no respectivo regimento interno, podendo o relator:
+I - não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada. (Grifos acrescidos)
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (Grifos acrescidos)
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014) 120 Superior Tribunal de Justiça
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016) (Grifos acrescidos)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+In casu, da análise dos autos, verifico que a inadmissão do especial se deu com base no(s) seguinte(s) fundamento(s): a) ausência de violação do art. 535 do CPC/1973; b) o posicionamento do acórdão recorrido não desrespeita a legislação indicada e se encontra em conformidade com a jurisprudência desta Corte de Justiça.
+Entretanto, a parte agravante deixou de impugnar específica e adequadamente todos os fundamentos da decisão combatida, limitando-se a afirmar, no tocante ao art. 535 do CPC/1973, que a Corte de origem adentrou indevidamente no mérito do recurso especial, além de defender a ocorrência de negativa de vigência ao art. 103 do Código Civil.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+Inadmitido o recurso especial com base em entendimento do Superior Tribunal deJustiça,caberia à agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, o que não ocorreu na espécie.
+Outrossim, cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo quefalar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/03/2015, DJe 24/03/2015, e AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/10/2016, DJe 27/10/2016.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
