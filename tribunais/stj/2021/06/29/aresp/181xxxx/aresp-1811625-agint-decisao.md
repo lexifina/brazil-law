@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interno interposto porEGA-ADMINISTRAÇÃO, PARTICIPAÇÕES E SERVIÇOS LTDA. contra decisão prolatada pela Presidência desta Corte Superior (e-STJ, fls. 815-818) que conheceu do agravo para não conhecer do recurso especial.
+Nas razões do recurso, a recorrente sustenta a inaplicabilidade da Súmula 283/STF.
+Defende que a divergência jurisprudencial foi devidamente comprovada.
+Sendo assim, requer a reconsideração da decisão agravada.
+Impugnação às fls. 847-855 (e-STJ).
+Diante dos argumentos apresentados, constata-se assistir razão à agravante.
+Assim, mediante juízo de retratação, nos termos do art. 259 do RISTJ, reconsidero a decisão de fls. 815-817 (e-STJ) e passo a novo exame do agravo em recurso especial (e-STJ, fls. 783-791).
+Cuida-se de agravo interposto por EGA - ADMINISTRAÇÃO, PARTICIPAÇÕES E SERVIÇOS LTDA. contra decisão que inadmitiu recurso especial (e-STJ, fls. 778-780)proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (e-STJ, fl. 654):
+AGRAVO DE INSTRUMENTO. CIVIL. PROCESSUAL CIVIL. PRELIMINAR DE NÃOCONHECIMENTO PARCIAL DO RECURSO SUSCITADA EM CONTRAMINUTA ACOLHIDA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE LOCAÇÃO DE IMÓVEL COMERCIAL. PENHORA DE BEM DE FAMÍLIA DO FIADOR. IMPOSSIBILIDADE. RECURSO PARCIALMENTECONHECIDO E, NO ASPECTO, DESPROVIDO.
+1. Se a exequente, ao ser instada a responder a impugnação à penhora apresentada no feito executivo, não se manifesta a contento quanto à ausência de caracterização de bem de família do fiador, limitando-se a alegar a inaplicabilidade de precedente jurisprudencial, não se revela cabível a reportada análise no agravo de instrumento, com o cotejo dos documentos coligidos, sob pena de supressão de instância. Preliminar de não conhecimento parcial do recurso suscitada em contraminuta acolhida.
+2. O bem de família pertencente a fiador, em caso de locação comercial, reveste-se do manto da impenhorabilidade RE n., conforme entendimento exarado pela Excelsa Corte, à ocasião do julgamento do605.709/SP.3. Recurso parcialmente conhecido e, no aspecto, desprovido.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 685):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC. PREQUESTIONAMENTO. ENFRENTAMENTO DA QUESTÃO JURÍDICA DISCUTIDA NOS AUTOS. EMBARGOS CONHECIDOS E REJEITADOS.
+1. A inexistência de qualquer um dos vícios do art. 1.022 do Código de Processo Civil impõe a rejeição dos embargos.
+2. Os embargos de declaração, mesmo para fins de prequestionamento, devem estar pautados na existência de um dos vícios do art. 1.022 do CPC, sob pena de rejeição. O prequestionamento exigido pelos Tribunais Superiores, para conhecimento dos Recursos Especial e Extraordinário, é da questão jurídica discutida nos autos, deste modo, o órgão jurisdicional não é obrigado a se manifestar sobre todas as teses apresentadas pelo litigante, nem mesmo transcrever dispositivos constitucionais ou legais.
+3. Embargos conhecidos e rejeitados.
+Nas razões do recurso especial, a recorrente, com fulcro nas alíneas a e c do permissivo constitucional, alegou divergência jurisprudencial e violação ao art. 3º, VII, da Lei 8.099/1990.
+Defendeu a possibilidade de penhora do bem de família oferecidocomo garantia em contrato de locação comercial. Asseverou que essa tese está pacificada nos tribunais pátrios e firmada na Súmula 549/STJ desta Corte Superior.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls.778-780).
+Diante de tal fato, foi interposto o presente agravo em recurso especial (e-STJ, fls. 783-791).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nas razões do agravo, aagravante apontou ter cumprido com todos os requisitos exigidos para conhecimento e julgamento do recurso especial. Constatados os pressupostos de admissibilidade do agravo, passo à análise do recurso excepcional.
+A respeito da penhora do imóvel, o Tribunal de origem assim se manifestou (e-STJ, fls. 656-658):
+Como sabido, como regra, a impenhorabilidade do bem de família é oponível a qualquer processo de execução civil, fiscal, previdenciária, trabalhista ou de outra natureza, consoante preconiza o art. 3 da Lei n. 8.009/90.
+ ..
+Entretanto, a Lei n. 8.009/90 também traz exceções à regra de impenhorabilidade do bem de família, como na exata hipótese dos autos, de processo de execução movido por obrigação decorrente de fiança prestada em contrato de locação (art. 3, VII).
+Anote-se, por oportuno, que o Supremo Tribunal Federal declarou a constitucionalidade do art. 3, VII, do referido diploma legal quando do julgamento do RE n. 407.688-8/SP (Relator(a): Min. CEZAR PELUSO, Tribunal Pleno, julgado em 08/02/2006, DJ 06-10-2006 PP-00033 EMENT VOL-02250-05 PP-00880 RTJVOL-00200-01 PP-00166 RJSP v. 55, n. 360, 2007, p. 129-147).
+Todavia, a Excelsa Corte, à ocasião do julgamento do RE n. 605.709/SP, excepcionou tal entendimento em casos de locação comercial, afastando a possibilidade de penhora de bem de família do fiador, confira-se:
+ ..
+Malgrado o referido julgado não ostente natureza vinculante, vislumbra-se que, em razão das premissas fáticas distintivas delineadas em caso de locação comercial, foram sopesados valores constitucionais para se ultimar pela reportada conclusão, exsurgindo forçoso aplicar o entendimento à hipótese versada nos autos. Em verdade, a fiança consiste em garantia, livremente assumida pelo fiador, que não exige contra prestação do afiançado e, por isso, comporta interpretação restritiva.
+ ..
+Ademais, convêm registrar que, ante a penhora no rosto dos autos n. 2016.01.1.126284-3, que tramitou perante o Juízo da 23ª Vara Cível de Brasília, foram depositados valores penhorados em conta vinculada ao feito executivo por Via Norte Construtora e Incorporadora de Imóveis Ltda., devedora de Wellington Guimarães no citado processo, e determinada a liberação da quantia em favor da exequente EGA -Administração, Participações e Serviços Ltda. - ME, ora agravante.
+Nessa toada, constata-se que o feito prossegue em direção à satisfação do crédito da exequente, ressaltando-se que a constrição de dinheiro é preferível àquela realizada sobre bens imóveis, consoante o art. 835 do CPC. Além disso, o crédito exequendo no feito executivo perfaz o montante deR$ 2.667.734,41 (dois milhões, seiscentos e sessenta e sete mil, setecentos e trinta e quatro reais e quarenta e um centavos), sendo que o executado Wellington Guimarães é credor no processo n. 2016.01.1.126284-3 de R$ 6.604.208,45 (seis milhões seiscentos e quatro mil duzentos e oito reais e quarenta e cinco centavos).
+Do excerto supracitado, depreende-se que a instância originária entendeu que não pode ser objeto de penhora o bem de família oferecido em garantia de contrato de locação comercial.
+Segundo o Tribunal a quo, mesmo que houvesse a possibilidade de constrição do imóvel, foi efetuado depósito em favor da recorrente, o qual, porser menos gravoso ao devedor, configura a prejudicialidade da penhora do bem.
+Ademais, consta dos autos a informação de que a parte recorrida é credora da agravante no valor de R$6.604.208,45 (seis milhões, seiscentos e quatro mil, duzentos e oito reais e quarenta e cinco centavos), cujo abatimento deverá ser efetuado do débito.
+Ocorre que, analisando os argumentos expostos nas razões do recurso especial, constata-se que a recorrente deixou de impugnar todos os fundamentos mencionados pelo acórdão recorrido, especificamente sobre a prejudicialidade da penhora do bem de família e a existência de crédito em favor dorecorrido,situação que impede o prosseguimento do recurso excepcional.
+Nos termos do enunciado da Súmula 283/STF, aplicado por analogia ao recurso especial, é "inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ante o exposto, mediante juízo de reconsideração, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO COMERCIAL. BEM DE FAMÍLIA. FIANÇA. DEPÓSITO DO VALOR DO DÉBITO. PREJUDICIALIDADE DA GARANTIA. EXISTÊNCIA DE CRÉDITO EM FAVOR DO DEVEDOR.FALTA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. DECISÃO DA PRESIDÊNCIA DO STJ RECONSIDERADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
