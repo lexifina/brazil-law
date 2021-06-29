@@ -1,0 +1,36 @@
+DECISÃO
+Oriente Construção Civil Ltda., em recuperação judicial, suscita o presente conflito de competência apontando como suscitados o Juízo de Direito da 1ª Vara Cível de Araruama/RJ e o Juízo da 1ª Vara do Trabalho de Itaperuna/RJ.
+Em suas razões, sustenta a suscitante que, diante da situação de crise de retração do crédito, ingressou com pedido de recuperação judicial em 01.12.2015, de n.
+0012334-80.2015.8.19.0052, perante o MM. Juízo da 1ª Vara Cível da Comarca de Araruama/RJ, que teve processamento deferido no dia 09.06.2016.
+Informa que, na mesma decisão, foi determinada a suspensão das execuções de créditos concursais, nos termos do art. 6º da Lei 11.101/05, período prorrogado até a Assembleia Geral de Credores (AGC) para deliberação sobre o plano de recuperação da empresa.
+Narra que o plano de recuperação judicial foi votado e aprovado por quase unanimidade dos credores em 22.05.2017 e devidamente homologado em 13.03.2018 pela "decisão homologatória" de fls. 6.488, que concedeu a recuperação judicial na forma do art. 58 da Lei n. 11.101/2005, ratificada em segundo grau, causando assim a novação da dívida.
+Afirma que, não obstante o Juízo da Recuperação tenha determinado o encerramento da recuperação judicial, "a sentença foi objeto de recurso de apelação por dois credores, assim, a competência do juízo recuperacional se preserva, uma vez que ausente o trânsito em julgado da referida decisão" (e-STJ, fl. 5).
+Todavia, o Juízo da 1ª Vara do Trabalho de Itaperuna/RJ, mesmo ciente da preservação da competência do Juízo Universal, entendeu pela realização de atos constritivos sobre o caixa da suscitante, tomados no bojo da Reclamação Trabalhista n. 0053900-10.2008.5.01.0471, em fase de cumprimento de sentença.
+Nesse contexto, ressalta encontrar-se configurado o presente conflito de competência, cabendo ao Juízo em que processa sua recuperação judicial deliberar, com exclusão de qualquer outro, as causas de interesses e bens da suscitante.
+Diante dessas considerações, pede a concessão de "MEDIDA LIMINAR COM A MÁXIMA URGENCIA, a fim de sobrestar o andamento do feito nº 0053900- 10.2008.5.01.0471, inclusive dos eventuais atos de constrição e levantamento de valores, até que seja dirimido o Conflito Positivo suscitado, determinando o desbloqueio/devolução de todos os valores penhorados e designando-se o Juízo da 1ª Vara Cível de Araruama/RJ (Processo nº 0012334-80.2015.8.19.0052) para apreciar as questões urgentes" (e-STJ, fl. 17).
+Por fim, requer "seja acolhido o presente Conflito para declarar a competência do Juízo do MM Juízo da 1ª Vara Cível de Araruama/RJ (Processo nº 0012334-80.2015.8.19.0052), para decidir sobre a destinação dos bens da Suscitante e de seus ativos, bem como na forma disposta no artigo 957, caput, do CPC, declarando, em conseguinte, a nulidade e ineficácia dos atos processuais praticados por Juízo incompetente nos processos ação nº 0053900- 10.2008.5.01.0471, inclusive quanto aos atos de constrição realizados, determinando o desbloqueio/devolução de todos os valores penhorados" (e-STJ, fl. 18).
+A liminar foi deferida às fls. 632-635 (e-STJ).
+As informações foram prestadas às fls. 639-642 e 644-651 (e-STJ).
+Instado a se manifestar, o Ministério Público Federal opinou pela competência do Juízo Recuperacional, em parecer assim resumido:
+PROCESSUAL CIVIL. CONFLITO POSITIVO DE COMPETÊNCIA.JUÍZO DE DIREITO E JUÍZO DO TRABALHO. RECUPERAÇÃO JUDICIAL. ATOS CONSTRITIVOS. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO. ART. 6º, § 2º e 47, DA LEI N. 11.101/2005.RETOMADA DAS EXECUÇÕES. FALTA DE RAZOABILIDADE.
+O Juízo universal é o competente para os atos que importem em constrição do patrimônio da empresa em processo de recuperação judicial, enquanto mantida essa condição. Homenagem ao princípio da preservação da empresa.
+Parecer pelo conhecimento do conflito, para que seja declarada a competência do MM. Juízo de Direito da 1ª Vara Cível de Araruama - RJ.
+Brevemente relatado, decido.
+Conforme consignado na decisão agravada,a jurisprudência consolidada no âmbito da Segunda Seção desta Corte de Justiça reconhece ser o Juízo em que se processa a recuperação judicial o competente para julgar as causas em que estejam envolvidos interesses e bens da empresa recuperanda, inclusive para o prosseguimento dos atos de execução que tenham origem em créditos trabalhistas.
+Confiram-se, a propósito, os seguintes julgados:
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO E DE VENDA DE BENS INTEGRANTES DO PATRIMÔNIO DA EMPRESA. COMPETÊNCIA. JUÍZODA RECUPERAÇÃO JUDICIAL. PRECEDENTES. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- A controvérsia posta nos autos encontra-se pacificada no âmbito da Segunda Seção desta Corte, no sentido de que compete ao Juízo da recuperação judicial tomar todas as medidas de constrição e de venda de bens integrantes do patrimônio da empresa sujeitos ao plano de recuperação judicial, uma vez aprovado o referido plano.
+2.- O agravo não trouxe nenhum argumento novo capaz de modificar o decidido, que se mantém por seus próprios fundamentos.
+3.- Agravo Regimental improvido.
+(AgRg no CC n. 130.363/SP, Relator o Ministro Sidnei Beneti, DJe de 13/11/2013);
+PROCESSUAL CIVIL. CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DE DIREITO E JUIZADO ESPECIAL CÍVEL. PROCESSO DE RECUPERAÇÃO JUDICIAL (LEI N. 11.101/05). AÇÃO DE INDENIZAÇÃO.DANOS MORAIS. VALOR DA CONDENAÇÃO. CRÉDITO APURADO.HABILITAÇÃO. ALIENAÇÃO DE ATIVOS E PAGAMENTOS DE CREDORES. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.PRECEDENTES DO STJ.
+1. Com a edição da Lei n. 11.101/05, respeitadas as especificidades da falência e da recuperação judicial, é competente o respectivo Juízo para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros órgãos judiciais, inclusive trabalhistas, ainda que tenha ocorrido a constrição de bens do devedor.
+2. Após a apuração do montante devido, processar-se-á no juízo da recuperação judicial a correspondente habilitação, sob pena de violação dos princípios da indivisibilidade e da universalidade, além de desobediência ao comando prescrito no art. 47 da Lei n. 11.101/05.
+3. Conflito de competência conhecido para declarar competente o Juízo de Direito da 1ª Vara Empresarial do Rio de Janeiro (RJ).
+(CC n. 90.160/RJ, Relator o Ministro João Otávio de Noronha, DJe de 5/6/2009).
+Além disso, "a jurisprudência do STJ, em casos de recebimento, no duplo efeito, do recurso de apelação interposto contra sentença de encerramento da recuperação judicial, tem se erigido no sentido de que, não tendo ocorrido o trânsito em julgado dessa decisão, permanece a competência do juízo da recuperação para deliberar acerca do patrimônio da empresa recuperanda" (EDcl no AgInt no CC 169.765/MG, Relator o Ministro Luis Felipe Salomão, DJe de 10/12/2020).
+Por essas razões, conheço do conflito e declaro a competência do Juízo de Direitoda 1ª Vara Cível de Araruama/RJ, para decidir sobre os atos de constrição no patrimônio da suscitante, no bojo da referida execução trabalhista.
+Dê-se ciência aos Juízos suscitados.
+Publique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. ATOS DE CONSTRIÇÃO NO PATRIMÔNIO DA SUSCITANTE DETERMINADOS POR JUÍZO TRABALHISTA. IMPOSSIBILIDADE. COMPETÊNCIA DO JUÍZO RECUPERACIONAL.
