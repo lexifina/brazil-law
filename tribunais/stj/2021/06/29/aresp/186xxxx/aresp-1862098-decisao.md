@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Cyrela Dinamarca Empreendimentos Imobiliários Ltda., com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ, fl. 46):
+AGRAVO DE INSTRUMENTO. UNIDADE EM INCORPORAÇÃO IMOBILIÁRIA. AÇÃO INDENIZATÓRIA. SUPOSTOS VÍCIOS CONSTRUTIVOS. PRAZO DA GARANTIA DA OBRA PREVISTO NO ART. 618 DO CÓDIGO CIVIL NÃO SE CONFUNDE COM PRAZO PARA O AJUIZAMENTO DA AÇÃO DE REPARAÇÃO DE DANOS. PRAZO PRESCRICIONAL DOS VÍCIOS CONSTRUTIVOS É O GERAL DO CÓDIGO CIVIL. ART. 205 DO CC. PRESCRIÇÃO. PRAZO DECENAL. JURISPRUDÊNCIA DO STJ. SÚMULA Nº 194 DO SUPERIOR TRIBUNAL DE JUSTIÇA, EDITADA AINDA SOB A ÉGIDE DO CÓDIGO CIVIL DE 1916, MAS AINDA APLICÁVEL. NÃO APLICAÇÃO DO ART. 27 DO CDC QUE SE REFERE À PRETENSÃO INDENIZATÓRIA FUNDADA EM FATO DO PRODUTO OU SERVIÇO EM UMA RELAÇÃO DE CONSUMO. RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 72-81).
+Em suas razões de recurso especial (e-STJ, fls. 83-90), a agravante alegou violação aos arts. 27 do Código de Defesa do Consumidor, 618 do Código Civil de 2002 e 1.022 do Código de Processo Civil de 2015.
+Sustentou, em síntese, a ocorrência de prescrição da pretensão para o conserto dos vícios no empreendimento, uma vez que já se passaram mais de 5 (cinco) anos após a entrega do imóvel.
+Salientou, ainda, que, "caso se entenda que não houve adequado debate na origem (nos acórdãos de fls. 47/51 e fls. 78/82), é de se reconhecer que a discussão atinente ao disposto no art. 27 do CDC e no art. 618 do CC foi veiculada oportunamente pela recorrente, o que justificaria a declaração de violação ao art. 1.022 do CPC/15" (e-STJ, fl. 89). Requereu, dessa forma, o provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ, fls. 100-111).
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta não apresentada.
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nas razões do presente recurso, a agravante aponta ter cumprido com todos os requisitos exigidos para conhecimento e julgamento do recurso especial. Constatados os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+A respeito da prescrição suscitada, o Tribunal de origem consignou o seguinte (e-STJ, fls. 48-49):
+Na presente hipótese o magistrado de primeiro grau afastou a alegação de prescrição feita pelo agravante, pois entendeu que o prazo prescricional aplicável ao caso em comento é de dez anos e não de cinco anos, nos termos alegados pelo recorrente.
+Conforme dito na manifestação do agravado, o verbete sumular do STJ n.º 194 afirma que o prazo de prescrição para o manejo do direito de ação de responsabilidade do construtor/incorporador é o da regra geral do Código Civil, ou seja, decenal, que não se confunde com o prazo de garantia da obra.
+O teor do verbete sumular nos diz que: ""prescreve em vinte anos a ação para obter, do construtor, indenização por defeitos da obra"".
+Ao tempo da edição do referido Enunciado, esse prazo vigente era nos termos do CC/16 de vinte anos e, após a redução do prazo prescricional realizada pelo atual Código Civil, o referido prazo passou a ser de dez anos, conforme entendimento doutrinário e jurisprudencial do TJRJ e STJ.
+Que fique claro que o prazo quinquenal previsto no art. 27 do CDC apenas é aplicável à pretensão indenizatória fundada em fato do produto ou serviço em uma relação de consumo. Contudo, nos autos temos um inadimplemento contratual, que comprometeria a qualidade do produto adquirido, não havendo que se falar na aplicação do artigo consumerista.
+( )
+Assim, considerando a incidência do prazo decenal, não se terá implementado a prescrição para a pretensão deduzida nestes autos, nos termos da decisão recorrida. Dessa forma, nenhum reparo deve ser feito no decisum atacado, mantendo-se.
+Das informações acima extraídas, verifica-se que o acórdão recorrido encontra-se em harmonia com a jurisprudência desta Corte, no sentido de que o prazo prescricional da ação para obter, do construtor, indenização por defeito da obra na vigência do Código Civil de 2002 é de 10 (dez) anos. Incide, portanto, o teor da Súmula n. 83/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE PERDAS E DANOS. INDENIZAÇÃO POR DEFEITO DA OBRA. PRESCRIÇÃO. PRAZO DECENAL DO ART. 205 DO CÓDIGO CIVIL DE 2002. ACÓRDÃO ESTADUAL EM CONSONÂNCIA COM JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. "O prazo prescricional da ação para obter, do construtor, indenização por defeito da obra na vigência do Código Civil de 2002 é de 10 anos" (AgRg no AREsp 661.548/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 10/6/2015).
+2. De acordo com a iterativa jurisprudência desta Corte, a Súmula 83/STJ se aplica também aos recursos especiais fundados na alínea a do permissivo constitucional. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1355163/GO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/05/2019, DJe 29/05/2019)
+DIREITO CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS E COMPENSAÇÃO DE DANOS MORAIS. PROMESSA DE COMPRA E VENDA DE IMÓVEL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO ADEQUADA. DEFEITOS APARENTES DA OBRA. METRAGEM A MENOR. PRAZO DECADENCIAL. INAPLICABILIDADE. PRETENSÃO INDENIZATÓRIA. SUJEIÇÃO À PRESCRIÇÃO. PRAZO DECENAL. ART. 205 DO CÓDIGO CIVIL.
+1. O propósito recursal é o afastamento da prejudicial de decadência em relação à pretensão de indenização por vícios de qualidade e quantidade no imóvel adquirido pelos consumidores.
+2. É de 90 (noventa) dias o prazo para o consumidor reclamar por vícios aparentes ou de fácil constatação no imóvel por si adquirido, contado a partir da efetiva entrega do bem (art. 26, II e § 1º, do CDC).
+3. No referido prazo decadencial, pode o consumidor exigir qualquer das alternativas previstas no art. 20 do CDC, a saber: a reexecução dos serviços, a restituição imediata da quantia paga ou o abatimento proporcional do preço. Cuida-se de verdadeiro direito potestativo do consumidor, cuja tutela se dá mediante as denominadas ações constitutivas, positivas ou negativas.
+4. Quando, porém, a pretensão do consumidor é de natureza indenizatória (isto é, de ser ressarcido pelo prejuízo decorrente dos vícios do imóvel) não há incidência de prazo decadencial. A ação, tipicamente condenatória, sujeita-se a prazo de prescrição.
+5. À falta de prazo específico no CDC que regule a pretensão de indenização por inadimplemento contratual, deve incidir o prazo geral decenal previsto no art. 205 do CC/02, o qual corresponde ao prazo vintenário de que trata a Súmula 194/STJ, aprovada ainda na vigência do Código Civil de 1916 ("Prescreve em vinte anos a ação para obter, do construtor, indenização por defeitos na obra").
+6. Recurso especial conhecido e provido.
+(REsp 1717160/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/03/2018, DJe 26/03/2018)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. UNIDADE EM INCORPORAÇÃO IMOBILIÁRIA. AÇÃO INDENIZATÓRIA. SUPOSTOS VÍCIOS CONSTRUTIVOS. PRAZO PRESCRICIONAL. PRAZO DECENAL. ART. 205 DO CÓDIGO CIVIL DE 2002. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
