@@ -1,0 +1,20 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    "EMENTA: ADMINISTRATIVO. REMESSA NECESSÁRIA E APELAÇÃO. AÇÃO ORDINÁRIA. SERVIDORA APOSENTADA COM PROVENTOS PROPORCIONAIS. PRÊMIO POR DESEMPENHO FISCAL. PAGAMENTO PROPORCIONAL. POSSIBILIDADE. DESCONTOS MENSAIS COM FINS DE DEVOLUÇÃO AO ERÁRIO. BOA-FÉ. IMPOSSIBILIDADE. PRECEDENTES. REMESSA NECESSÁRIA E APELAÇÃO CONHECIDAS E PARCIALMENTE PROVIDAS. SENTENÇA REFORMADA.
+    I. O cerne da demanda ora em apreço cinge-se em analisar a legalidade de redução nos proventos da autora, servidora estadual da Secretária da Fazenda – SEFAZ aposentada com proventos proporcionais, referente ao pagamento proporcional da gratificação Prêmio por Desempenho Fiscal, bem como da devolução ao erário dos valores percebidos a maior do período de abril de 2011 a julho de 2012.
+    II. As diversas gratificações pagas aos servidores aposentados proporcionalmente, deverão igualmente serem pagas de forma proporcional, sob pena de infringir a regra constitucional que disciplina a aposentadoria proporcional, bem como o princípio da isonomia, tendo em vista que não se pode pretender que um servidor aposentado com proventos integrais receba a mesma remuneração daquele que se aposenta com proventos proporcionais.
+    III. O entendimento firmado no e. Superior Tribunal de Justiça é no sentido de que não é devida a restituição de valores pagos de boa-fé, por força de interpretação errônea ou má aplicação da lei por parte da Administração, bem como em casos de mero equívoco operacional da Administração Pública.
+    IV. Remessa Necessária e Apelação conhecidas e parcialmente providas. Sentença reformada."
+    Opostos os embargos de declaração, foram rejeitados.
+    Decido.
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário interpretar a legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279, 280 desta Corte. Sobre o tema, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Servidor público. Extensão de vantagens ao inativos. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise de matéria ínsita ao plano normativo local, tampouco para o reexame dos fatos e das provas constantes dos autos. Incidência das Súmulas nºs 280 e 279/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.200.593/RS – AgR, Tribunal Pleno, Rel. Min. Dias Toffoli (Presidente), DJe de 19/6/19).
+    No mesmo sentido: ARE nº 1.038.486/SP-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 6/9/17 e RE 953.104, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 7/12/17).
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 29 de junho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
