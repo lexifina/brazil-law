@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “APELAÇÃO CÍVEL. REVISÃO DE PROVENTOS DE APOSENTADORIA. PLEITO DE ATUALIZAÇÃO DA VERBA REFERENTE À REGÊNCIA DE CLASSE. SENTENÇA DE PROCEDÊNCIA. APELAÇÃO CÍVEL INTERPOSTA PELA AUTARQUIA RÉ QUE NÃO MERECE ACOLHIDA. APLICABILIDADE DOS PRINCÍPIOS DA INTEGRALIDADE E PARIDADE A TEOR DO DISPOSTO NAS EMENDAS CONSTITUCIONAIS Nº 20/1998 E 41/2003. VALORES A SEREM APURADOS EM SEDE DE LIQUIDAÇÃO, QUE DEVERÁ OBSERVAR A PRESCRIÇÃO QUINQUENAL, A TEOR DO ART. 1º, DO DEC. 20.910/32 E A SÚMULA Nº 85, DO STJ. RECURSO CONHECIDO. PROVIMENTO NEGADO”  (págs. 24-26 do documento eletrônico 4).
+    Neste RE, fundamentado no art. 102, III, a, da Constituição Federal, alega-se, em suma, violação dos arts. 2°; 27, X; e 40 § 2°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Quanto à alegada violação do art. 2° da Constituição, a jurisprudência do Tribunal firmou o entendimento de que o exame da legalidade dos atos administrativos pelo Poder Judiciário não viola o princípio da separação de Poderes. Nesse sentido, cito o ARE 655.080-AgR/DF, de relatoria do Ministro Gilmar Mendes, assim ementado:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Concurso público. 4. Controle judicial dos atos administrativos quando eivados de ilegalidade ou abuso de poder. Possibilidade. Ausência de violação ao Princípio da Separação de Poderes. Precedentes do STF. 5. Discussão acerca da existência de ilegalidade e quanto à apreciação do preenchimento dos requisitos legais, pela agravada, para investidura no cargo público de magistério estadual. Necessário reexame do conjunto fático-probatório da legislação infraconstitucional e do edital que rege o certame. Providências vedadas pelas súmulas 279, 280 e 454. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento”.
+    Além disso, o Supremo Tribunal Federal, após reconhecida a repercussão geral da matéria no RE 563.965-RG/RN (Tema 41), sob a relatoria da Ministra Cármen Lúcia, reafirmando sua jurisprudência, assentou a constitucionalidade do instituto da estabilidade financeira. Naquela assentada, fixou-se tese no sentido de que “não há direito adquirido a regime jurídico, desde que respeitado o princípio constitucional da irredutibilidade de vencimentos”.
+    Verifico que o acórdão recorrido encontra-se em harmonia com esse entendimento.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 29 de junho de 2021.
+Ministro Ricardo Lewandowski
+Relator
