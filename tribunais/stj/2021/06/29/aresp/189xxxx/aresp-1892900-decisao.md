@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo INSTITUTO DE PREVIDÊNCIA DO ESTADO DO RIO DE JANEIRO contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL AÇÃO DE CONCESSÃO DE PENSÃO FALECIMENTO DE SERVIDORA PÚBLICA ESTADUAL PENSÃO POR MORTE PLEITEADA POR SUA GENITORA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 2º, 141 e 492 do CPC no que concerne à impossibilidade de manutenção da sentença extra petita, trazendo o seguinte argumento:
+Como já dito, o juízo de primeira instância julgou procedente o pedido para "condenar o réu a conceder à autora o benefício de pensão por morte em razão do falecimento de sua filha, ex-servidora pública estadual Maria Ovídia de Oliveira, pagando-lhe o benefício desde a data do falecimento (12/10/2009)".
+Ocorre que a parte autora não formulou pedido de condenação do réu ao pagamento de parcelas atrasadas (a contar do óbito da ex-servidora), como se verifica na petição inicial (fls. 07/08). (fls. 257).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+ ..  é importante considerar que a interpretação do pedido deve refletir o conjunto da postulação e observará, sempre, a boa fé. Disso entende-se que o pleito autoral poderá advir não apenas do pedido expresso, mas de uma interpretação conjunta da postulação.
+A autora, ao intentar que o benefício da pensão por morte lhe fosse assegurado, evidentemente considerou que tal direito existia desde o passamento da filha, posto que suportou, a partir de então, ampla restrição econômica, ao não contar com a fonte de custeio do núcleo familiar.
+Cabe esclarecer que, em sua contestação, a parte ré expressamente argumentou contrariamente ao pagamento de valores retroativos, nos seguintes termos (index 35):
+"Em atenção ao princípio da eventualidade, contudo, vêm os réus ressaltar a impossibilidade de condenação dos mesmos ao pagamento de atrasados desde o óbito do servidor, como pleiteado pela parte autora.
+Isto porque, como dito anteriormente, a parte autora requereu o seu benefício na via administrativa, porém não apresentou nenhum tipo de comprovação de dependência econômica, de modo que o réu nada poderia fazer.
+Assim, não há que se falar em pagamento de atrasados desde o óbito do servidor, eis que, como dito anteriormente, neste período não havia qualquer mora por parte da Administração Pública.
+Vê-se, pois, que em caso de eventual condenação, o réu fica exonerado de qualquer obrigação de pagamento de atrasados à autora, razão pela qual o pleito autoral de pagamento de atrasados não merece prosperar".
+Logo, a parte ré não foi surpreendida pela determinação contida no dispositivo da sentença, eis que teve franca ciência e devidamente rebateu tal possibilidade no curso da instrução processual.
+Desta forma, afasta-se a alegação de sentença ultra petita veiculada pela parte ré em suas razões recursais, mantendo-se a sentença nos moldes em que prolatada. (fls. 240/241).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor dos honorários sucumbenciais que serão fixados em liquidação de sentença, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
