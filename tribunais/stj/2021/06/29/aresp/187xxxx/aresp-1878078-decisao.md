@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que inadmitiu o recurso especial extemporâneo (e-STJ fls. 211/213).
+O acórdão do Tribunal de origem está assim ementado (e-STJ fls. 52/53):
+EMENTA -AGRAVO DE INSTRUMENTO EXPURGOSINFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - EXECUÇÃO INDIVIDUAL - Suspensão do trâmite processual com fulcro no RE nº 632.212/SP - Descabimento - Suspensão naquele recurso tratada que abrange apenas o curso de liquidações, cumprimentos de sentença e execuções relativamente a expurgos inflacionários decorrentes do Plano Econômico Collor II - Decisão monocrática proferida no RE comentado, aliás, que foi recentemente reconsiderada, revogando-se a medida suspensiva vigorante - Cumprimento de sentença sob análise que deve ter seu curso regular.
+AGRAVO DE INSTRUMENTO EXPURGOSINFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - EXECUÇÃO INDIVIDUAL - ILEGITIMIDADE ATIVA - Necessidade de filiação ao IDEC - Descabimento _ Possibilidade de ajuizamento de ação executiva individual por todos os poupadores -Entendimento pacificado pelo STJ em análise de recurso repetitivo - Prefacialrejeitada.
+AGRAVO DE INSTRUMENTO- EXPURGOS ÍNFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - CUMPRIMENTO DE SENTENÇA - PRESCRIÇÃO - É qüinqüenal o prazo prescricional para o ingresso com pedido de cumprimento de sentença pelo poupador, a contar do trânsito em julgado da ação coletiva - Entendimento pacificado pelo STJ em análise de recurso repetitivo _ Prefaciai de mérito rejeitada.
+AGRAVO DE INSTRUMENTO EXPURGOSÍNFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - EXECUÇÃO INDIVIDUAL - JUROS MORATÓRIOS - TERMO INICIAL - Data da citação para a ação coletiva - Entendimento pacificado pelo STJ em análise de recurso repetitivo.
+AGRAVO DE INSTRUMENTO - EXPURGOS ÍNFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - EXECUÇÃO INDIVIDUAL - JUROS REMUNERATÓRIOS - Incidência - Adequação - Embargos de declaração apresentados na Ação Civil Pública que ensejaram nova decisão admitindo-se a incidência de juros remuneratórios.
+AGRAVO DE INSTRUMENTO EXPURGOSÍNFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - JUROS REMUNERATÓRIOS - TERMO FINAL - Questão que não foi alvo de impugnação específica na impugnação apresentada pelo executado - Inovação recursal - Não conhecimento.
+AGRAVO DE INSTRUMENTO EXPURGOSÍNFLACIONÁRIOS - AÇÀO CIVIL PÚBLICA - EXECUÇÃO INDIVIDUAL - CORREÇÃO MONETÁRIA - TABELA PRÁTICA DO TJ/SP - Pretensão deduzida pelo banco de que sejam utilizados os índices da caderneta de poupança - Descabimcnto - Tabela Prática do TJ/SP que se revela mais adequada para atualizar monetariamente os débitos para fins de cobrança judicial - Entendimento pacificado pela 17a Câmara de Direito Privado.
+RETENÇÃO DO LEVANTAMENTO DE VALORES OU PRESTAÇÃO DE CAUÇÃO - Descabimento - No curso do processo foram feitas as verificações pertinentes, analisaram-se as defesas do agravante trazidas cm sua impugnação c nenhuma delas restou acolhida, nada mais havendo para se desenvolver no processo que levasse a retenção de valores ou exigência de caução
+AGRAVO DE INSTRUMENTO - EXPURGOS ÍNFLACIONÁRIOS - AÇÀO CIVIL PÚBLICA - CUMPRIMENTO DE SENTENÇA - HONORÁRIOS ADVOCATÍCIOS - Falta de interesse recursal - Não conhecimento.
+Agravo conhecido em parte, e na parte conhecida, desprovido.
+Nas razões do recurso especial (e-STJ fls. 68/93), interposto com base no art. 105, III, "a", da CF, o recorrente apontou dissídio jurisprudencial e ofensa à legislação, afirmando que:
+(a) os juros de mora somente incidiriam a partir de sua citação no cumprimento de sentença, não da citação na ação civil pública (e-STJ fls. 70/72),
+(b) a pretensãopara executar a sentença coletiva estaria prescrita, porque decorridos mais de 20 (vinte) anos entre a data da decisão e o ajuizamento da ação individual (e-STJ fls. 72/73),
+(c) os recorridos,sem provar sua filiação ao IDEC à época da propositura da ação coletiva, não deteriam legitimidade para oferta do cumprimento individual de sentença, à luz do art. 2º-A da Lei n. 9.494/1997 e do entendimento firmado pelo STF no julgamento, sob o rito dos recursos repetitivos, do RE n. 612.043/PR (e-STJ fls. 73/78),
+(d) "os juros remuneratórios a serem incluídos nos cálculos de liquidação deverão ter incidência única no mês de fevereiro de 1989, correspondente ao mês de pagamento da correção monetária relativa ao mês de janeiro de 1989, em que foi reconhecido o expurgo da correção monetária, sobpena de violação à coisa julgada - art. 503 do CPC -, com a indevida modificação da sentença na fase de execução (art. 509, §4ºdo CPC" (e-STJ fl. 81),
+(e) os juros remuneratórios acaso considerados devidos somente incidiriam até a data de encerramento da conta (e-STJ fls. 81/84),
+(f) estaria prescrita a pretensão de exigir osjuros remuneratórios (e-STJ fls. 84/85),
+(g) seria vedado o uso da Tabela Prática de cada Estadopara atualizar o valor do débito (e-STJ fls. 86/91) e
+(h) seria necessário suspender o processo, ante a decisão proferida pelo STJ no REsp n. 1.438.263/SP (e-STJ fls. 91/92).
+Foram ofertadas contrarrazões (e-STJ fls. 166/183).
+No agravo (e-STJ fls. 216/220), afirma a tempestividade do recurso e a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 225/229).
+É o relatório.
+Decido.
+Súmula n. 284/STF
+Nas razões recursais, o recorrente não indica a legislação federal objeto de afronta pela Corte de origem ao argumentar sobre:
+(a) a incidência dosjuros de mora somente a partir de sua citação no cumprimento de sentença (e-STJ fls. 70/72) e dejuros remuneratórios apenasaté o encerramento da conta poupança (e-STJ fls. 81/84),
+(b) aprescrição da pretensão de executar a sentença coletiva(e-STJ fls. 72/73) e de exigir os juros remuneratórios acaso devidos (e-STJ fls. 84/85),
+(c)a vedação de uso daTabela Prática do Tribunal a quo paraatualizar o débito (e-STJ fls. 86/91)e
+(d) a necessidade de suspender o processo, ante a decisão proferida pelo STJ no REsp n. 1.438.263/SP (e-STJ fls. 91/92).
+Ausente citada providência, a fundamentação recursalem tais pontosmostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF, como óbice ao recurso.
+A propósito: "No recurso interposto pela alínea "a" do permissivo constitucional é imprescindível a individualização do artigo de lei federal tido por violado, se m o que incide, por analogia, a Súmula 284 do STF" (AgInt no AREsp n. 623.110/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/9/2017, DJe 2/10/2017).
+Legitimidade ativa e abrangência da sentença coletiva
+O Tribunal de origem reconheceu, além da abrangência nacional da sentença proferida na Ação Civil Pública ajuizada pelo IDEC, a legitimidade ativadosrecorridos para a propositura do cumprimento de sentença, independentemente de prova de sua filiação à entidade de classe à época do ajuizamento da demanda coletiva.
+A decisão da Corte local, em tais pontos, está em sintonia com o entendimento firmado pela Segunda Seção no REsp n. 1.391.198/RS, julgado sob o rito do art. 543-C do CPC/1973, a respeito dos temas. Confira-se:
+AÇÃO CIVIL PÚBLICA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. SENTENÇA PROFERIDA PELO JUÍZO DA 12ª VARA CÍVEL DA CIRCUNSCRIÇÃO ESPECIAL JUDICIÁRIA DE BRASÍLIA/DF NA AÇÃO CIVIL COLETIVA N. 1998.01.1.016798-9 (IDEC X BANCO DO BRASIL). EXPURGOS INFLACIONÁRIOS OCORRIDOS EM JANEIRO DE 1989 (PLANO VERÃO). EXECUÇÃO/LIQUIDAÇÃO INDIVIDUAL. FORO COMPETENTE E ALCANCE OBJETIVO E SUBJETIVO DOS EFEITOS DA SENTENÇA COLETIVA. OBSERVÂNCIA À COISA JULGADA.
+1. Para fins do art. 543-C do Código de Processo Civil: a) a sentença proferida pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva n. 1998.01.1.016798-9, que condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal;
+b) os poupadores ou seus sucessores detêm legitimidade ativa - também por força da coisa julgada -, independentemente de fazerem parte ou não dos quadros associativos do Idec, de ajuizarem o cumprimento individual da sentença coletiva proferida na Ação Civil Pública n. 1998.01.1.016798-9, pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF.
+2. Recurso especial não provido.
+(REsp n. 1.391.198/RS, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/8/2014, DJe 2/9/2014.)
+Aplica-se a Súmula n. 83/STJ, que incide como óbice ao recurso interposto com base em ambas as alíneas do permissivo constitucional.
+Juros remuneratórios - Súmula n. 283/STF
+A Justiça local reconheceu a validade da inclusão dos juros remuneratórios no cumprimento individual de sentença, porque admitidos na nova decisão proferida após os aclaratórios opostos pelo Ministério Público na origem,assentando que (e-STJ fl. 59):
+Sustenta-se no agravo que não foram na sentença amparados os juros remuneratórios, porém, vistos os autos com maior cuidado, facilmente se percebe que embora, realmente, na sentença originalmente proferida a questão dos mencionados juros não tenha sido abordada, em razão de embargos declaratórios opostos contra aludida decisão pelo Ministério Público, o MM. Juiz a quo, acolhendo a tais embargos, expressamente tratou do tema, e proferiu nova decisão admitindo a incidência dos juros remuneratórios questionados, tudo como consta dos autos principais.
+Portanto, quando estes juros remuneratórios vêm a ser considerados para fins de liquidação, nada mais se está a fazer do que empregar para definição do quantum debeatur as prévias e claras instruções do título judicial liquidando, título este composto não só pelos termos da sentença, mas por aqueles que a esta foram integrados no julgamento dos embargos declaratórios como acima explanado.
+Logo, os juros remuneratórios devem persistir computados no cálculo do débito decorrente da condenação externada na sentença em questão.
+A respeito de tal razão de decidir, suficiente para manter o acórdão recorrido, o recorrente não se manifestou, o que atrai a aplicação da Súmula n. 283/STF, por analogia, como óbice ao recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
