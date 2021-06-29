@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de Value Assessoria e Consultoria na Área de Engenharia e Administração de Empresas e Gestão de Recursos LTDA, fundado na alínea "a" do permissivo constitucional e interposto contra acórdão do Tribunal deJustiçado Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO.CONSIGNAÇÃO EM PAGAMENTO. ISS. EXTINÇÃO SEM JULGAMENTO DO MÉRITO. NÃO ENQUADRAMENTO NAS HIPÓTESES LEGAIS. INEXISTÊNCIA DE COBRANÇA EM DUPLICIDADE. DEPÓSITOS. CONVERSÃO EM RENDA AO PODER PÚBLICO. CASO CONCRETO. DEPÓSITO DE VALORES QUE A PRÓPRIA EMPRESA DEVEDORA ENTENDEU DEVIDOS. INVERSÃO DO ÔNUS DA SUCUMBÊNCIA.
+1. Em se tratando de matéria tributária, a consignação em pagamento fica limitada as hipóteses elencadas no artigo 164 do Código Tributário Nacional.
+2. Não basta, para o ajuizamento de ação de consignação em pagamento, a existência de risco de cobrança em duplicidade. Para que seja cabível a referida ação, nos termos do artigo 164, inciso III, do CTN, imperioso que, no plano fático, diferentes entes públicos tenham exigido do contribuinte idêntico tributo sobre o mesmo fato gerador, o que não ocorre no caso.
+3. Não se enquadrando em nenhuma das hipóteses legais do artigo 164 do CTN, impõe-se a extinção da demanda sem resolução de mérito, nos termos do artigo 485, IV e VI, do Código de Processo Civil.
+4. No caso, correta a conversão do montante depositado em renda ao ente público, haja vista que a própria empresa devedora se dispôs a consignar judicialmente os valores que entendeu devidos, não tendo o município tributante, em nenhum momento, se recusado a receber o tributo.
+RECURSO PROVIDO
+Opostos embargos de declaração, foram eles rejeitados.
+No recurso especial, a recorrente alega violação dos seguintes dispositivos: a) art. 1.022, II, do Código de Processo Civil, sustentando que o acórdão recorrido padece de omissão; b) art. 164, III, do Código Tributário Nacional, aduzindo o cabimento daação deconsignação em pagamento em virtude da injustificadacoaçãopor parte de diferentes entes públicos comrelação àcobrança da dívida em duplicidade.
+Houve contrarrazões (e-STJ fls. 164/175).
+Sobreveio juízo negativo de admissibilidade pela ausência de negativa de prestação jurisdicional, bem como incidência das Súmulas n. 7/STJ e 280/STF.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial possui condições de admissão.
+Houve contraminuta pela parte agravada (e-STJ fls. 218/228).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante impugnou o fundamento adotado na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial.
+Cuida-se, na origem, de ação de consignação em pagamento ajuizada pela ora recorrente que restou extinta sem julgamento de mérito por não se enquadrar nas hipóteses do art. 164 do CTN.
+A insurgência não merece prosperar.
+Preliminarmente, a parte argumenta que o aresto combatido deixou de se manifestar acerca dos fundamentos invocados pela parte com relação à alteração na legislação do Município de São Paulo que passou a exigir o ISSQN no local em que estabelecido o tomador do serviço de administração de fundos de investimento.
+Não verifico o vício suscitado.
+Isso porque a ação de consignação em pagamentofoi extinta sem julgamento de mérito por decisium devidamente fundamentado que entendeu que o caso concreto não se enquadra em nenhuma das hipóteses do art. 164 do CTN.
+Dito isso, não se pode falar em negativa de prestação jurisdicional por ausência de exame da legislação local com relação a questões meritórias.
+No mérito, a parte pretende o reconhecimento do cabimento da ação de consignação em pagamento.
+Com relação à questão, o acórdão recorrido fundamentou que (e-STJ fls. 46/47):
+Ocorre que, em que pese a ora apelada tenha afirmado emsua inicial que a presente demanda é sustentada no risco de exigência detributo idêntico sobre um mesmo fato gerador por mais de uma pessoa jurídica de direito público, não basta, para o ajuizamento de ação de consignação em pagamento, a existência de risco de cobrança em duplicidade. Para que seja cabível a referida ação, nos termos do artigo 164, inciso III, do CTN, imperioso que, no plano fático, diferentes entes públicos tenham exigido do contribuinte idêntico tributo sobre o mesmo fato gerador, o que não ocorre no caso.
+Ora, em verdade, como muito bem salientou o Ilustre Procurador de Justiça Paulo Valério Dal Pai Moraes os argumentos da autora são meramente teóricos, de cunho estritamente abstrato (e até incompatível com a realidade demonstrada pelas provas), o que milita direta e inafastavelmente contra a sua pretensão, pois, como se viu e demonstrou acima, o cabimento da ação de consignação em matéria tributária se restringe a três hipóteses taxativas, sendo que tais hipóteses pressupõem fatos ou casos concretos.
+Destarte, não se enquadrando em nenhuma das hipóteses legais do artigo 164 do CTN, impõe-se a extinção da demanda sem resolução de mérito, nos termos do artigo 485, IV e VI, do CPC1, com a consequente inversão do ônus de sucumbência.
+Do excerto depreende-se que a controvérsia foi solucionada na origem à luz do acervo fático-probatório dos autos, de forma que o acolhimento da pretensão recursal esbarra no óbice da Súmula n. 7/STJ.
+Exemplificativamente:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL.REDIRECIONAMENTO. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE DIANTE DO CONTEXTO FÁTICO DOS AUTOS CONCLUIU PELA COMPROVAÇÃO DE DISSOLUÇÃO IRREGULAR DA SOCIEDADE. IMPOSSIBILIDADE DE REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7 DO STJ. PRECEDENTES.
+1. A jurisprudência desta Corte consolidou o entendimento de que a dissolução irregular da pessoa jurídica é causa suficiente para o redirecionamento da execução fiscal, na forma do art. 135 do CTN.Consoante a Súmula 435 do STJ, a dissolução irregular é presumida quando, sem comunicar aos órgãos competentes, a empresa deixa de funcionar no seu domicílio fiscal. Precedentes: AgRg no AREsp 562085/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 17/08/2016; AgInt no AREsp 974886/SP, Rel. Min. Assussete Magalhães, Segunda Turma, DJe 08/03/2017.
+2. Na hipótese, o Tribunal a quo expressamente constatou com base no conjunto fático- probatório dos autos, "que há certidão do oficial de justiça atestando que a executada não mais funcionava no seu domicílio tributário". Nesse contexto, tal elemento concreto de prova mostra-se apto a ensejar a presunção acerca da dissolução irregular da executada, o que, nos termos da Súmula nº. 435 do Egrégio STJ, autoriza o redirecionamento".
+3. Sendo assim, a questão foi decidida com base no suporte fático-probatório dos autos, rever o entendimento do Tribunal de origem é inviável no âmbito do recurso especial, ante o óbice da Súmula 7 do STJ. Precedentes: AgRg no AREsp 562085/SP, Rel. Min.Gurgel de Faria, Primeira Turma, DJe 17/08/2016; AgInt no AREsp 974886/SP, Rel. Min. Assussete Magalhães, Segunda Turma, DJe 08/03/2017.
+4. Agravo interno não provido.
+(AgInt no REsp 1894451/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 07/06/2021, DJe 10/06/2021)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. RISCO DE COBRANÇA EM DUPLICIDADE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
