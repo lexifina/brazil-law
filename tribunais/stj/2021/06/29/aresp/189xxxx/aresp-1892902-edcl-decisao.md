@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por PAULO HENRIQUE FARIA à decisão de fls. 936/937, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Diante da pandemia que se iniciava, o Eg. Tribunal de Justiça de Minas Gerais, por meio de seu Presidente publicou (DJ. 13/03/2020, Pub. 16/03/2010), a PORTARIA CONJUNTA nº 946/PR/2020, (e. STJ. Fl. 893 e 894), nos termos do seu art.
+1º, determinou a suspensão dos prazos processuais aos processos que tramitam por meio físico no âmbito da Justiça de Primeiro e Segundo Graus, do Estado de Minas Gerais..", sendo prorrogada a suspensão dos prazos sucessivamente.
+Com o constante agravamento do Pandemia, os prazos processuais permaneceram suspensos pelo longo período, perfazendo suspensos os prazos por 06 (seis) meses. No entanto, apenas em 11/09/2020, o Eg. Tribunal de Justiça de Minas Gerais, publicou a PORTARIA CONJUNTA DA PRESIDÊNCIA nº 1047/2020 (e-STJ Fls. 895 a 899), que restabeleceu a retomada das atividades e prazos processuais no Judiciário Mineiro a partir de 14/09//2020, segunda-feira, conforme descrito no art. 1º da portaria.
+Sendo assim, considerando que os prazos processuais permaneceram suspensos no Tribunal a quo entre o período de 16/03/2020 a 14/09/2020, o prazo de 15 (quinze) dias corridos para interposição do presente recurso, começou a fluir em 14 09 2020, (segunda-feira), primeiro dia útil após o longo período de suspensão dos prazos, decorrente da pandemia/COVID-19, findando-se, portanto, em 28 09 2020, (segunda-feira), tendo o presente recurso sido protocolizado em 25/09/2020, três dias antes do prazo (fl. 941).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Registre-se que, em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ n. 313/2020 e 322/2020, voltando a fluírem, para os processos físicos, em 15/6/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso.
+Veja-se que a parte embargante colacionou aos autos apenas as Portarias Conjuntas Nº 948/PR/2020 (fls. 900/902) e Nº 1047/2020 (fls. 895/896), que comprovam o início da suspensão dos prazos em 16/3/2020 e a retomada dos prazos em 14/9/2020, respectivamente, ficando desse modo sem comprovação a suspensão durante o período de 15/6/2020 a 14/9/2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
