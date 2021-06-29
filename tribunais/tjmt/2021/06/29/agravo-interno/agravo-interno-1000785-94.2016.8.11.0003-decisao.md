@@ -1,0 +1,59 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe – Processo Judicial eletrônico
+Recurso Especial no Agravo Interno, na Apelação Cível no 1000785-94.2016.811.0003
+Recorrente: RAQUEL DE JESUS OLIVEIRA
+Recorrida: ARTHUR LUNDGREN TECIDOS S/A – CASAS PERNAMBUCANAS
+Vistos.
+Trata-se de recurso especial (id. 86803961) interposto por RAQUEL DE JESUS OLIVEIRA, com fundamento no art. 105, III, alíneas “a” e “c”, da Constituição Federal, contra acórdão da Segunda Câmara de Direito Privado deste Sodalício, o qual negou provimento ao seu recurso de agravo interno em apelação cível, conforme a seguinte ementa (id. 83735462):
+“AGRAVO INTERNO CONTRA DECISÃO MONOCRÁTICA EM RECURSO DE APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS – IMPROCEDÊNCIA – APELO DESPROVIDO – INOVAÇÃO RECURSAL E AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA – RECURSO DESPROVIDO.
+Consoante entendimento do STJ, é incabível o exame de tese arguida somente em sede de agravo interno, por configurar indevida inovação recursal. (STJ - AgInt no AREsp 1559818/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 04/05/2020, DJe 06/05/2020)
+Encontrando-se a decisão monocrática devidamente fundamentada que negou provimento ao Recurso de Apelação Cível interposto pela agravante, mantendo inalterada a sentença de improcedência da Ação Declaratória de Inexistência de Débito c/c Indenização por Danos Morais e, não havendo nos autos elementos novos capazes de modificar o entendimento, há que ser desprovido o agravo interno. (AgInt n° 1000785-94.2016.8.11.0003, Rel. MARILSEN ANDRADE ADDARIO, SEGUNDA CÂMARA DE DIREITO PRIVADO, j. em 14/04/2021)”.
+A recorrente sustenta em suas razões violação aos arts. 6o, VIII, e 42, parágrafo único, do CDC, ao argumento de que houve demora para baixa do nome da recorrente dos cadastros de proteção ao crédito. Diante disso, sustenta que restou configurada a cobrança indevida, ensejadora do dano moral almejado na origem.
+Recurso tempestivo (id. 87932998) e isento de preparo, ante a gratuidade de justiça (Certidão de id. 87741996).
+Contrarrazões pelo não seguimento do recurso (id. 90333970).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Ainda que o acórdão hostilizado tenha ventilado questão afeta ao Tema 735/STJ, cuja tese fixada foi no sentido de: “"Diante das regras previstas no Código de Defesa do Consumidor, mesmo havendo regular inscrição do nome do devedor em cadastro de órgão de proteção ao crédito, após o integral pagamento da dívida, incumbe ao credor requerer a exclusão do registro desabonador, no prazo de 5 (cinco) dias úteis, a contar do primeiro dia útil subsequente à completa disponibilização do numerário necessário à quitação do débito vencido”, afere-se que quando do julgamento, apesar de colegiado reconhecer que esse prazo foi superado (apenas 03 dias), considerou que a permanência da negativação nesse exíguo espaço de tempo não ensejou a configuração do dano moral.
+Assim, o objeto do recurso versa apenas e tão somente sobre a possível configuração do abalo moral passível de indenização, de maneira que não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+A hipótese prevista no art. 105, III, letra “a” e “c” da Constituição Federal prescreve a apreciação, pelo STJ, de recurso especial oposto contra acórdão que, em única ou última instância, tenha contrariado lei federal ou negado sua vigência (“a”) e der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal (“c”).
+Entretanto, em que pesem as argumentações da recorrente, o recurso não pode alcançar o normal seguimento.
+Do Prequestionamento (Súmula 282 /STF)
+Ao interpor o recurso especial a recorrente, pretende submeter ao crivo do STJ matéria que, a despeito de seu inconformismo, não foi analisada/decidida pelo acórdão hostilizado.
+Para que o Superior Tribunal de Justiça tenha condições de reexaminar a controvérsia suscitada, é preciso que a questão tenha sido decidida em única ou última Instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, ex vi da Súmula 282 do STF.
+No caso, fato é que a questão afeta a questão da facilitação de defesa de direitos (alegada ofensa ao art. 6°, VIII, do CDC) sequer restou ventilada no acórdão hostilizado, razão pela qual fica obstado o juízo positivo de admissibilidade, a inteiro teor do que dispõe a Súmula 282/STF (também aplicável à esta via recursal):
+“Súmula 282/STF. É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada”.
+Dessa forma, tem-se que a alegada ofensa ao art. 6 °, VIII, do CDC, não foi debatida/decidida pelo acórdão deste Sodalício, carecendo, pois, de prequestionamento, nos termos da Súmula 282 do STF, razão pela qual fica obstado o juízo positivo de admissibilidade nesse ponto.
+Do reexame de matéria fática (Súmula 07 do STJ)
+Nos termos do art. 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não se mostrando possível que se examine matéria fático-probatória, ante o teor da Súmula 07 do STJ:
+“Súmula 07/STJ. A pretensão de simples reexame de prova não enseja recurso especial”.
+O caso dos autos trata de análise quanto à existência do dano moral indenizável, na hipótese em que, após quitado o débito, o credor excedeu (em 03 dias) o prazo razoável (05 dias úteis) para que providenciasse a baixa dos cadastros de restrição ao credito.
+O órgão fracionário deste Sodalício ponderou a questão no seguinte sentido:
+“Induvidoso que a manutenção do registro do nome do devedor em cadastro de inadimplentes após esse prazo, quando por muito tempo, impõe ao credor o pagamento de indenização por dano moral, diferentemente do caso em tela.
+Ao sentenciar, o magistrado fundamentou que a requerida procedeu a baixa em 07/05/2016, além do prazo de 04/05/2016 (ID 69518582).
+Na hipótese, o juiz singular entendeu que foram apenas 03 (três) dias o ínterim em que o nome da autora/apelante permaneceu negativado, ou seja, reconheceu que a parte requerida/recorrida extrapolou o prazo, mas também considerou ser exíguo o prazo da permanência da negativação, razão pela qual julgou improcedente a ação.
+[...]
+Em virtude do curto prazo, não se aventa ter a autora sofrido abalo psicológico tão grave a ponto de acarretar-lhe desequilíbrio emocional, não passando a situação retratada de mero aborrecimento, dissabor, mágoa ou irritação, sem maiores consequências, principalmente porque incontroverso que referido pagamento se deu com atraso.
+[...]
+In casu, comungo do mesmo entendimento do magistrado singular, não merecendo qualquer reforma a sentença que julgou improcedente o pedido de indenização por dano moral, não se olvidando que no caso foi curtíssimo o prazo em que o nome da parte autora/recorrente continuou no cadastro de inadimplentes.
+Além disso, ausente a comprovação de ofensa ao atributo da personalidade que ensejasse a indenização por dano moral, pois a situação vivenciada pela autora demonstra apenas a ocorrência de mero aborrecimento, sendo certo ainda que a própria recorrente demorou em efetuar o pagamento do débito, o que ensejou a negativação” (grifei).
+Em que pese a recorrente pretender em suas razões a reforma do julgado para que seja reconhecido e arbitrado o dano moral, tem-se que o recurso não comporta o juízo positivo de admissibilidade, eis que para rever o entendimento de que no caso houve apenas mero dissabor, seria imprescindível o reexame de premissas fático-probatórias, o que esbarra no óbice da Súmula 07/STJ.
+O acórdão levou em conta o exíguo prazo em que o nome da recorrente permaneceu restrito (03 dias), frente ao tempo em que a negativação perdurou válida ante a demora para adimplir o débito reconhecido.
+O reexame da premissa fixada por este Sodalício quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial. A propósito, nesse sentido:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. CARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. TESE DO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. DECISÃO MANTIDA. 1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ). 2. O Tribunal de origem concluiu que a parte não comprovou os danos morais e assim qualificou os fatos como mero aborrecimento. Alterar esse entendimento demandaria o reexame das provas, o que é vedado em recurso especial. 3. A simples indicação dos dispositivos legais tidos por violados, sem enfrentamento do tema pelo acórdão recorrido, obsta o conhecimento do especial, por falta de prequestionamento, a teor da Súmula n. 211 do STJ. 4. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 1621397/MG, Rel. Min. ANTONIO CARLOS FERREIRA, QUARTA TURMA, j. em 24/08/2020, DJe 28/08/2020)” (grifei).
+“CIVIL E PROCESSUAL. AÇÃO DE INDENIZAÇÃO. NULIDADE DO ACÓRDÃO. CPC, ART. 535. INOCORRÊNCIA. DÍVIDA RENEGOCIADA. MORA PREEXISTENTE DO AUTOR. QUITAÇÃO ANTECIPADA DA PRIMEIRA PARCELA. PERMANÊNCIA DA INSCRIÇÃO EM CADASTRO DE DEVEDORES POR CURTO PERÍODO. MERO DISSABOR. DANOS MORAIS E MATERIAIS NÃO CONFIGURADOS. AÇÃO IMPROCEDENTE. I. Resolvidas todas as questões devolvidas ao órgão jurisdicional, o julgamento em sentido diverso do pretendido pela parte não é fonte de nulidade. II. Não configura dano moral a demora da baixa do nome por curto período de tempo, se o autor já vinha há muito tempo inadimplente, havendo renegociado o débito e pago a primeira parcela apenas três dias antes, sem que houvesse tempo para o processamento administrativo do cancelamento da inscrição. Precedentes. III. Não sendo nitidamente demonstrada qualquer redução do patrimônio do recorrido, não se pode cogitar de danos materiais na espécie. IV. Recurso especial conhecido em parte e, nessa extensão, provido. Ação improcedente. (REsp 1045591/MA, Rel. Min. ALDIR PASSARINHO JUNIOR, QUARTA TURMA, j. em 02/09/2008, DJe 20/10/2008)” (grifei).
+Diante desse quadro, pela alegada ofensa ao art. 42, parágrafo único do CDC, ao argumento de que restou cobrado por quantia indevida, o que lhe renderia indenização a título de dano moral, o presente recurso não alcança o juízo positivo de admissibilidade.
+Ausência de cotejo analítico
+A rigor, o recurso também não deve alcançar o normal seguimento, porque a recorrente, apesar de indicar a interposição pela alínea “c” do permissivo constitucional, deixou de atender o comando dos arts. 255, § 1o do RISTJ c/c 1.029, § 1o, do CPC.
+Fundando-se o recurso em dissídio jurisprudencial, este deve ser demonstrado mediante a comparação analítica entre as decisões conflitantes de tribunais, com indicação clara e precisa da semelhança de assuntos e interpretações díspares.
+In casu, não houve qualquer comprovação de dissídio mediante a transcrição do relatório e voto dos acórdãos recorrido e paradigma, bem como cotejo analítico de maneira a evidenciar a similitude fática entre os casos e a dissonância das interpretações entre um e outro Tribunal.
+Diante desse quadro, inviável também a admissão do recurso com base na alínea “c” do art. 105, III, da CF.
+Ante o exposto, nego seguimento ao recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
