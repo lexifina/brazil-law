@@ -1,0 +1,26 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    "EMENTA: APELAÇÃO. CORRUPÇÃO PASSIVA E ATIVA. ESTELIONATO. REJEIÇÃO DA PRELIMINAR DE INTEMPESTIVIDADE DO APELO MINISTERIAL POR FALTA DE AMPARO LEGAL. DECISÃO UNÂNIME. NÃO CONHECIMENTO DA PRELIMINAR DEFENSIVA DE INÉPCIA DA PEÇA RECURSAL POR MANIFESTO DESCABIMENTO. DECISÃO UNÂNIME. REJEIÇÃO DA PRELIMINAR DEFENSIVA DE NULIDADE PROCESSUAL POR SUBSTITUIÇÃO DOS MEMBROS DO CONSELHO SEM O AVAL DO SUPERIOR TRIBUNAL MILITAR. MOTIVAÇÃO EM DECORRÊNCIA DAS CARREIRAS DOS JUÍZES MILITARES. PROMOÇÕES E TRANSFERÊNCIA PARA A RESERVA. PRECLUSÃO DA MATÉRIA. DECISÃO UNÂNIME. NÃO CONHECIMENTO DAS PRELIMINARES DEFENSIVAS DE NULIDADE DA CONDENAÇÃO FUNDADA EM ILAÇÕES DIVERSAS DO CONTEXTO PROBATÓRIO E DE DESCLASSIFICAÇÃO DAS CONDUTAS DE CORRUPÇÃO ATIVA PARA O DELITO DE ESTELIONATO POR IMBRICAÇÃO COM O MÉRITO. DECISÕES UNÂNIMES. INDEVIDA VANTAGEM FINANCEIRA PAGA POR EMPRESAS PRESTADORAS DE SERVIÇO. FAVORECIMENTO A MILITARES RESPONSÁVEIS PELAS EXECUÇÕES DE CONTRATOS NO ÂMBITO DO HOSPITAL MILITAR DE ÁREA DO RECIFE - HMAR. FALSAS DECLARAÇÕES DE ENTRADA E DE SAÍDA DE MATERIAIS DE INFORMÁTICA E HOSPITALARES DOS ALMOXARIFADOS. PRETERIÇÃO DOLOSA DE UTILIZAÇÃO DOS SISTEMAS SISCOFIS E SIMATEX DE CONTROLE DE ESTOQUE. LANÇAMENTOS EM BOLETINS MANUSCRITOS. DOCUMENTOS DESTRUÍDOS CONFORME NORMATIVO DA ORGANIZAÇÃO MILITAR EM DECORRÊNCIA DE PRAZO SUPERIOR A CINCO ANOS. POSSIBILIDADE DE CONCORRÊNCIA DE CRIMES. INAPLICABILIDADE DO PRINCÍPIO DA CONSUNÇÃO. AUSÊNCIA DE PROVA DO CRIME CONTRA O PATRIMÔNIO. MANUTENÇÃO DAS ABSOLVIÇÕES. SUBSISTÊNCIA DOS CRIMES CONTRA A ADMINISTRAÇÃO MILITAR. DESPROVIMENTO DOS APELOS DO MINISTÉRIO PÚBLICO MILITAR E DAS DEFESAS. DECISÃO UNÂNIME."
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 1º, III, e 5º, XLVI, LVI e LXIII, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto de embargos declaratórios a seguinte fundamentação:
+    "(...)
+    Assim, não existiu a apontada omissão em relação à aplicação das atenuantes, pois o Órgão Julgador não as identificou com vistas ao favorecimento do Ten Cel Ex PAULO ROBERTO SOARES PINHEIRO por ocasião da dosimetria da pena.
+    O Tribunal, por sua vez, além de ter enfrentado e refutado os argumentos defensivos, ratificou a condenação operada em primeiro grau pelos seus próprios e jurídicos fundamentos, referendando a não identificação das pretendidas atenuantes.
+    Conforme destacou o Custos Legis em sua manifestação:
+    (...)
+    Nada obstante, é importante salientar que a atenuante da confissão espontânea da alínea "d" do inciso III do artigo 72 do Código Penal Militar é reconhecida quando evidenciada a contribuição efetiva do Acusado para o esclarecimento do fato criminoso, hipótese que não se identifica no presente caso, haja vista que a autoria do crime não era ignorada, tampouco atribuída a terceiro.
+    Conforme leciona Guilherme de Souza Nucci (Código Penal Militar Comentado. Revista dos Tribunais. São Paulo. 2013. p. 146):
+    (...)"
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa Reflexa. Precedentes. 1. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos, tampouco para a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 2. Agravo regimental não provido” (ARE 1183314/CE - AgR, Tribunal Pleno, Rel. Min. Dias Toffoli (Presidente), DJe de 15/4/19).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas. 3. Agravo regimental desprovido” (ARE 1165382/SP - AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 4/3/20).
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – MATÉRIA PENAL – ALEGADA VIOLAÇÃO AO PRECEITO INSCRITO NO ART. 5º, LVII, DA CONSTITUIÇÃO DA REPÚBLICA – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – AGRAVO INTERNO IMPROVIDO” (ARE 1131709 AgR, Segunda Turma, Rel. Min. Celso de Mello, DJe de 30/10/18).
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 29 de junho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
