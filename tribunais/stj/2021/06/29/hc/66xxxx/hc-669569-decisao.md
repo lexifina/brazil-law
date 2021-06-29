@@ -1,0 +1,19 @@
+DECISÃO
+RODRIGO RICARTE MIRANDA SILVAalega sofrer coação ilegal no seu direito de locomoção em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulona Apelação n. 1525058-62.2019.8.26.0228.
+Nesta impetração, a defesa pretende o abrandamento do regime. Para tanto, aduz que o paciente faz jus ao regime semiaberto, visto que a reprimenda final foi estabelecida abaixo de 8 anos, ele é primário e a pena-base foi fixada no mínimo legal. Indica contrariedade aos enunciados das Súmulas n. 440 desta Corte Superior e 718 e 719 do STF.
+Prestadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem.
+Decido.
+I. Contextualização
+Extrai-se dos autos que o réu foi condenado a 5 anos, 5 meses e 10 dias de reclusão e 26 dias-multa, em regime inicial fechado, pela prática do delito tipificado no art. 157, § 2º, II, na forma do art. 70, ambos do Código Penal.
+O Tribunal estadual negou provimento ao apelo defensivo e manteve os fundamentos da sentença condenatória.
+II. Regime prisional
+No tocante ao regime prisional, manifestou-se o Tribunal a quo (fls. 15-16, grifei):
+Em relação ao regime deve ser mantido no inicial fechado para ambos. JOHN em razão da reincidência especifica e ainda porque tinha pena a cumprir. Com relação a RODRIGO, segundo ele mesmo admitiu já respondeu a crimes de trafico e receptação no Estado de Minas Gerais, não sendo jejuno nos crimes, não sendo recomendável seja beneficiado com regime mais brandodiante do caso concreto. Conforme fundamentou a sentença, roubaram duas vitimas, de forma sequencial evidenciando a ousadia e reprovabilidade da conduta, havendo necessidade de reflexão.
+Cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva, que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena. Nesse sentido: HC 596.157/AC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 02/02/2021, DJe 08/02/2021, AgRg no AREsp 1608617/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/06/2020, DJe 23/06/2020 e AgRg no RHC 107.602/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 04/06/2019, DJe 11/06/2019.
+Pelo trecho transcritoacima, verifica-se queas instâncias antecedentes fixaram o regime prisional com base na gravidade abstrata do delito cometido, com a imposição de regime prisional mais gravoso do que o permitido em virtude da sanção aplicada, em ofensa aos enunciados das Súmulas ns. 440 do STJ, 718 e 719 do STF, como alegado pela defesa.
+Nos termos da jurisprudência desta Corte, "Ações penais em andamento não podem servir de fundamento para aimposição de regime mais gravoso" (HC 332.944/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/11/2015, DJe 24/11/2015). Assim, não se pode admitir o recrudescimento do regime calcado no fato de ter o réuadmitido que já respondeu a outros dois crimes em outro estado da federação. Referidos processos não figuraram nos autos nem como maus antecedentes, nem como reincidênciae, logo, também nãosão aptos a justificar regime mais gravoso. Tampouco o fato de serem duas as vítimas do roubo reclama a imposição do regime fechado.
+Desse modo, ao se considerar a quantidade de pena imposta ao réu - 5 anos, 5 meses e 10 dias de reclusão, a valorização positiva de todas as circunstâncias judiciais e a primariedade do acusado, impõe-se a fixação do regime inicial semiaberto.
+III. Dispositivo
+Ante o exposto, concedo a ordem a fim de fixar o regime inicial semiaberto ao pacienteRodrigo Ricarte Miranda Silva.
+Publique-se e intimem-se.
