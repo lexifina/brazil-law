@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra a decisão de fls. 338/339, da presidência desta Corte, em que não conhecido do agravo em recurso especial do ora agravante por incidência da Súmula n. 182/STJ.
+A defesa sustenta, em suma, que: "(..) nas razões do Agravo em Recurso Especial interposto, o ora agravante impugnou o fundamento para o seguimento do Recurso Especial, por suposto óbice contido na Súmula 83 do STJ, dedicando um tópico específico para afastá-lo."(fl. 348).
+Requer o provimento do recurso para que o recurso especial seja julgado procedente.
+É o relatório.
+Decido.
+O recurso prospera.
+Há impugnação ao fundamento de incidência à Súmula n. 83/STJ, razão pela qual deve ser conhecido o agravo em recurso especial da parte.
+Passo à análise do recurso especial.
+O recorrente sustenta violação aos artigos 155 e 157, do Código Penal. Argumenta a insuficiência de provas apta a sustentar a condenação pela pratica do crime de roubo. Afirma ter ocorrido um furto, poisnão foi utilizado oemprego de grave ameaça para materializar o delito, inexistindo, no caso, incidência da Súmula n. 7/STJ.
+Aduz que o Tribunal de Justiça de Mato Grosso do Sul manteve a valoração negativa da moduladora judicial das "consequências do crime", sem, contudo, haver motivação idônea e concreta para tanto, eisque o prejuízo e a violência a pessoa sãoconsequências naturaisdo delito, sendo, ainda, que o bem foi restituído à vítima.
+O recurso especial não merece provimento.
+No caso dos autos, restou consignado que "o conjunto probatório indica seguramente queo Apelante agiu mediante violência, razão pela qual inviável o pleito desclassificatório." (fls. 245/246).
+Assim, não há como atender o pleito desclassificatório, sob pena de incursão fático-probatória, que encontra impeço na Súmula n. 7/STJ desta Corte. No sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. RECURSO INTERNO. ALEGAÇÃO DE IMPUGNAÇÃO AOS FUNDAMENTOS DA INADMISSÃO DO APELO NOBRE PELA CORTE DE ORIGEM. AUSÊNCIA DE INTERESSE RECURSAL.ROUBO SIMPLES. DESCLASSIFICAÇÃO. FURTO. MATÉRIA FÁTICO-PROBATÓRIA.SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Não há interesse a amparar o recurso interno, na parte em que sustenta que o agravo em recurso especial impugnou a aplicação da Súmula n. 7 do Superior Tribunal, pela decisão do Tribunal de origem que inadmitiu o apelo nobre. A decisão ora agravada em nenhum momento afirmou que não teria sido efetivada tal impugnação, tanto que conheceu do agravo. Porém, ultrapassada a admissibilidade do agravo, entendeu acertada a aplicação do referido óbice como empeço ao conhecimento do próprio recurso especial.
+2. As instâncias ordinárias entenderam estar provado que a subtração patrimonial veio acompanhada de grave ameaça "intimidadora o suficiente a caracterizar o delito de roubo". Para rever a conclusão, no intuito de se desclassificar a conduta para o crime de furto, bem assim se permitir a substituição da pena privativa de liberdade por restritivas de direitos, seria necessário o reexame de fatos e provas, inviável em recurso especial, nos termos da Súmula n.º 7 do Superior Tribunal de Justiça.
+3. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.
+(AgRg no AREsp 1746654/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA,DJe 27/11/2020).
+Quanto às consequências, a valoração negativa da circunstancial foi fundamentada no prejuízo expressivo do patrimônio da vítima, o que encontra respaldo na jurisprudência desta Corte. No sentido:
+RECURSO ESPECIAL. ROUBO MAJORADO. PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS. CULPABILIDADE E CONSEQUÊNCIAS DO CRIME. EMPREGO DE VIOLÊNCIA EXCESSIVA. PREJUÍZO PATRIMONIAL EXPRESSIVO. EXASPERAÇÃO.POSSIBILIDADE. CORRUPÇÃO DE MENOR. CAUSA ESPECIAL DE AUMENTO DA REPRIMENDA. PARTICIPAÇÃO DE ADOLESCENTE NA ASSOCIAÇÃO CRIMINOSA.INEXISTÊNCIA DE BIS IN IDEM. RECURSO DESPROVIDO.
+1. Conquanto a violência seja elementar do tipo penal do roubo, não há dúvidas de que, nos casos em que a conduta do agente transcender ou extrapolar as circunstâncias ou as consequências naturais do tipo, a agressividade excessiva pode e deve servir de fundamento para a elevação da pena-base.
+2. É possível a fixação da pena-base acima do mínimo legal na hipótese de crime de roubo majorado, em que as vítimas não recuperaram os bens que lhe foram subtraídos e experimentaram prejuízo patrimonial expressivo.
+3. Apesar de o roubo próprio exigir para a sua consumação a produção do resultado, que é a subtração da coisa alheia móvel mediante violência ou grave ameaça, não se pode dizer que o prejuízo da vítima seja inerente ao tipo penal, já que existem casos em que há recuperação total ou parcial da res furtiva independentemente da vontade do agente, circunstância que merece ser devidamente sopesada quando da aplicação da pena base, em observância do princípio da individualização da pena.
+4. Não há ilegalidade na imposição da reprimenda básica em patamar superior ao mínimo legal, já que, embora não haja notícias de que os agentes tenham agredido fisicamente as vítimas, o certo é que o grupo do qual fazia parte, armado com revólveres, ingressou em residência, rendeu os moradores, aprisionou-os num cômodo e, mediante severas ameaças de morte, subtraiu diversos bens, circunstâncias que extrapolam aquelas inerentes ao tipo penal violado, servindo para o aumento de pena na primeira etapa da dosimetria.
+5. A jurisprudência desta Corte Superior se assentou no sentido de que não configura bis in idem a incidência da causa de aumento referente ao concurso de agentes pelo envolvimento de adolescente na prática do crime, seguida da condenação pelo crime de corrupção de menores, já que se está diante de duas condutas autônomas e independentes, que ofendem bens jurídicos distintos.
+6. Recurso provido.
+(REsp 1714810/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 03/10/2018).
+Com efeito, incidente, portanto, a Súmula n. 83/STJ, aplicável também ao recurso especial interposto com base na alínea "a" do permissivo constitucional.
+Ante o exposto, reconsidero a decisão de fls. 338/339, dando provimento ao agravo regimental, para conhecer do agravo, mas negar provimento ao recurso especial.
+Publique-se. Intimem-se.
