@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se deagravo interposto por MANARA COMERCIO DE VEICULOS AUTOMOTORES LTDA, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de MANARA COMERCIO DE VEICULOS AUTOMOTORES LTDA, a petição de recurso especial foi protocolada, na origem, sem a guia de recolhimento das custas devidas ao STJ, apesar de presente o comprovante de pagamento (fl. 474).
+Antes de o Tribunal de origem proceder à intimação para o recolhimento em dobro, previsto no § 4º do art. 1.007 do Código de Processo Civil, a parte juntou a guia de recolhimento e o respectivo comprovante de pagamento; no entanto, de forma simples (fls. 478/479).
+Ademais, o recolhimento das custas devidas ao STJ foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso, a qual dispõe que, nos processos recursais, o campo "Processo na Origem" da GRU deverá ser preenchido com o número do processo no Tribunal de origem.
+De fato, a parte fez a indicação errônea do "Processo na Origem" ou "Número do Processo que consta no Acórdão Recorrido" na guia de recolhimento das custas devidas ao STJ juntada aos autos, uma vez que o número utilizado está dissociado dos existentes na origem.
+Além disso, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, nos termosdo § 2º c/c o § 4º do art. 1.007 do Código de Processo Civil, quedou-se inerte.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
