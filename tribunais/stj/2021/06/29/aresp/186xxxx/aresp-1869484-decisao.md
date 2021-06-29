@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.044) interposto contra decisão que inadmitiu o recurso especial, ante a aplicação da Súmula n. 13/STJ (e-STJ fls. 573/575).
+O acórdão do TJSP está assim ementado (e-STJ fl. 514):
+APELAÇÃO CÍVEL. Compra e venda de imóvel. Atraso na entrega. Parcial procedência para declarar resolvido o contrato por culpa das fornecedoras e condená-las na restituição da integralidade dos valores pagos a título de preço da unidade adquirida, somada à cláusula penal. Inconformismo das rés. Prazo para entrega da obra. Cláusula estabelecendo que as obras seriam realizadas de acordo com o cronograma físico aprovado pela prefeitura. Decreto municipal que determinou a realização das obras em 36 meses. Prazo de quatro anos previsto na Lei de Parcelamento do Solo (Lei Federal nº 6.766/79) que somente representa o máximo legal. Caso em que a prefeitura concedeu prazo inferior, não cumprido. Mora que justifica o desinteresse superveniente do comprador. Responsabilidade objetiva do fornecedor. Dever de ressarcimento pelos danos advindos de sua conduta. Preceptivo do artigo 927, parágrafo único, do CC e dos artigos 12 e 14 do CDC. Condenação pela restituição da integralidade dos valores pagos mantida. Exegese da Súmula nº 543, do A. STJ. Danos materiais. Condenação das rés na multa moratória de 20% sobre os valores pagos. Adequação. Caso que não representa inversão da cláusula penal, posto que existe previsão expressa para a mora da ré. Penalidade pautada nos ditames da razoabilidade e proporcionalidade. Prestígio ao pacta sunt servanda. RECURSO DESPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 526/539), interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, asrecorrentes sustentaram que:
+(i) não há falar em descumprimento contratual de sua parte,
+(ii)seria incabível inverter em prejuízo das vendedoras a cláusula penal pactuada para as hipóteses de inadimplemento dos consumidores, e
+(iii)a rescisão judicial do compromisso de compra e venda implicaria no retorno das contratantes aostatus quo anteri.Dessa forma, seria indevido condená-las ao pagamento de multa contratual invertida aos compradores.
+Alegaram dissídio jurisprudencial eviolação dosarts. 422 do CC/2002 e 51 e 54 do CDC, porque seria lícito reter 20% (vinte por cento) dos valores das parcelas pagas pelos recorridos, por causa da rescisão do compromisso de compra e venda do imóvel por iniciativa desses.
+Foram apresentadas contrarrazões (e-STJ fls. 544/570).
+No agravo (e-STJ fls. 578/589), afirmam a presença de todos os requisitos de admissibilidade do especial.
+A Corte de origem, em juízo de retratação, na sistemática dos recursos repetitivos, decidiu que (e-STJ fl. 611):
+AGRAVO INTERNO EM RECURSO ESPECIAL. RESOLUÇÃO DE CONTRATO DE COMPROMISSO DE COMPRA E VENDA. Contrato submetido ao Código de Defesa do Consumidor. Abusividade da cláusula que prevê a restituição de valores somente ao término da obra ou de forma parcelada. Restituição imediata e integral em caso de culpa exclusiva do promitente vendedor/construtor pelo desfazimento do negócio (tema 577). Ausência de demonstração do desacerto da aplicação do entendimento firmado no E. STJ em julgamento repetitivo. Decisão mantida. Recurso desprovido.
+Contraminutaapresentada (e-STJ fls. 623/633).
+É o relatório.
+Decido.
+Com exceção do requerimento de retenção parcial dos valores pagos pelos recorridos,a parte deixou de indicar os dispositivos legais supostamente ofendidosou que tiveram sua aplicação negada pela Corte local.
+Ausente tal requisito, a fundamentação recursal mostra-se deficiente e torna inviável o conhecimento do recurso, ante o óbice da Súmula n. 284/STF, aplicada por analogia.
+Nesse contexto: AgRg no AREsp n. 410.404/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/12/2016, DJe 14/12/2016, e AgRg no AREsp n. 816.653/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/3/2016, DJe 4/4/2016.
+Sobre a devolução dos valores pagos pelosadquirentes do imóvel, a jurisprudência desta Corte é no sentido de que o direito à retenção de parte do valor das parcelas pagas somente é assegurado às construtoras quando a rescisão decorre da desistência ou da inadimplência do adquirente. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. CULPA EXCLUSIVA DO PROMITENTE VENDEDOR. RESTITUIÇÃO DAS PARCELAS PAGAS. SÚMULA 543 DO STJ. MÁ-FÉ. NÃO OCORRÊNCIA. INVERSÃO DA CLÁUSULA PENAL. REVISÃO. SÚMULAS 5 E 7 DO STJ.
+1. "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ).
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.124.791/MG, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/12/2017, DJe 18/12/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. 1. ARTS. 394 E 395 DO CC/02. IMPOSSIBILIDADE DE ANÁLISE. INOVAÇÃO RECURSAL. 2. ATRASO DA OBRA. RESCISÃO CONTRATUAL. EXCLUDENTE DE RESPONSABILIDADE NÃO CONFIGURADA. REEXAME FÁTICO-PROBATÓRIO E ANÁLISE E INTERPRETAÇÃO DAS CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7 DO STJ. 3. DEMORA NA ENTREGA DO IMÓVEL POR CULPA DA INCORPORADORA. RESTITUIÇÃO DOS VALORES. POSSIBILIDADE. SÚMULA N. 345 DO STJ. 4. AGRAVO INTERNO IMPROVIDO.
+(..)
+3. A resolução do contrato pela demora na entrega do imóvel, por culpa da incorporadora, demanda a restituição dos valores pagos pela adquirente integralmente. Súmula n. 543 do STJ.
+4. Agravo interno improvido.
+(AgInt no AREsp 889.388/DF, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/8/2016, DJe 22/8/2016.)
+O Tribunal de origem, com base nos elementos de prova, concluiu que o atraso na entrega do imóvel decorreu de culpa exclusiva das recorrentes. Confira-se o seguinte excerto (e-STJ fl. 520):
+Assim, restando patente o inadimplemento das promitentes vendedoras, caracterizado pelo atraso na entrega do imóvel comercializado, inegável se reconhecer a hipótese de resolução contratual por culpa destas e, consequentemente, o direito dos autores em rescindirem o contrato e verem-se restituídos na integralidade dos valores pagos a título de preço da unidade adquirida.
+Para dissentir dessa conclusão, a fim de descaracterizar o inadimplemento contratual das empresas, seria necessário revolver o conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+Diante de tal premissa fática, verifica-se que o acórdão recorrido decidiu em consonância com a jurisprudência pacífica desta Corte Superior, ao manter a condenação das empresas à devolução integral dos valores pagos pela parte recorrida (e-STJ fl. 520).
+Estando o acórdão impugnado conforme a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontadose a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, §1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais as recorrentes não se desincumbiram.
+Registre-se, por fim, que "a divergência entre julgados do mesmo Tribunal não enseja recurso especial" (Súmula n. 13/STJ).
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
