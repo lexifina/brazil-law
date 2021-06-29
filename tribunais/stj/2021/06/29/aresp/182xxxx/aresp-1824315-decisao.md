@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO E AGRAVO INTERNO - AÇÃO CIVIL PÚBLICA - ANTECIPAÇÃO DOS EFEITOS DA TUTELA - NULIDADE DA DECISÃO POR AFRONTA AO DISPOSTO NO ARTIGO 2º DA LEI Nº 8.437/92 - ALEGAÇÃO DE PEDIDO GENÉRICO E INDETERMINADO - REJEIÇÃO - ENERGIA ELÉTRICA - REALIZAÇÃO DE TODAS AS MEDIDAS NECESSÁRIAS PARA A MANUTENÇÃO E REPAROS NA REDE DE DISTRIBUIÇÃO - DECISUM MANTIDO - AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO - AGRAVO INTERNO PREJUDICADO.
+1. O artigo 2º da Lei nº 8.437/92 não se aplica à concessionária de energia elétrica que possui natureza de pessoa jurídica de direito privado, mesmo exercendo função delegada do poder público.
+2. Não caracteriza pedido genérico e indeterminado o fato de o autor citar, de maneira geral, as medidas a serem adotadas pelo requerido, especialmente por se tratar de matéria técnica que necessita de acompanhamento especializado e adequado e que, de forma alguma, interfere na aferição do cumprimento da obrigação quanto à cessação das excessivas oscilações e quedas de energia na região.
+3. O serviço público é assentado no princípio da continuidade, que obriga a administração, ou a empresa concessionária/permissionária, ao fornecimento contínuo da prestação, sem qualquer interrupção, principalmente nos casos em que este é de natureza essencial.
+4. A agravante não logrou êxito em comprovar que as irregularidades que ocasionaram as interrupções no fornecimento de energia foram previamente comunicadas aos usuários ou mesmo que decorreram de fatos imprevisíveis.
+5. Com o julgamento do agravo de instrumento, mantendo-se o decisum impugnado, torna-se prejudicado o agravo interno interposto contra a negativa de efeito suspensivo ao referido recurso" (fls. 85/86e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 110/114e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. MATÉRIA ENFRENTADA E DECIDIDA COM CLAREZA NO DECISUM COMBATIDO. AUSÊNCIA DOS VÍCIOS ELENCADOS NO ARTIGO 1.022 DO CPC. EMBARGOS REJEITADOS.
+Considerando que a fundamentação adotada no decisum é suficiente para respaldar a conclusão alcançada, mostra-se ausente pressuposto a ensejar a oposição de embargos de declaração" (fl. 124e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos seguintes dispositivos:
+"(a) art. 2º da Lei n. 8.437/72, na medida que o acórdão desconsidera que a ENERGISA, na condição de signatária de contrato de concessão com a União Federal, age como agente delegado do Poder Público na execução dos serviços concedidos e deveria ter participado de audiência antes da concessão da liminar (acórdão - Num. 52507971 - Pág. 2).;
+(b) art. 300, § 3º do CPC, visto que a concessão da liminar causa danos graves e de difícil reparação à ENERGISA, além de estabelecer obrigação impossível (acórdão - Num. 24133957 - Pág.3)
+(c) arts. 2º e 3º da Lei nº 9.427/96 e art. 29, V da Lei nº 8.987/95, tendo em vista que a ENERGISA cumpre os padrões da ANEEL, única entidade pública que tem a atribuição de definir os procedimentos, padrões, sanções, obrigações e política tarifária, entre outros vários assuntos relacionados ao fornecimento de energia elétrica (acórdão - Num. 52507971 - Pág. 5);
+(d) art. 2º, da Lei n. 9.784/99, pois a liminar mantida pelo E. Tribunal a quo fere os princípios da proporcionalidade, razoabilidade e finalidade do ato, ao pretender que a ENERGISA realize investimentos fora dos limites impostos pelo Poder Concedente e além dos recursos tarifários estabelecidos, de maneira a tornar a obrigação excessivamente onerosa de ser cumprida (acórdão - Num. 52507971 - Pág. 5)" (fls. 137/138e).
+Alega, ainda, ofensa ao art. 492, caput e parágrafo único, do CPC/2015, tendo em vista que os pedidos formulados pelo Ministério Público, deferidos pelo acórdão recorrido, são absolutamente genéricos, o que torna impossível o seu cumprimento.
+Por fim, requer o provimento do Recurso Especial.
+Contrarrazões, a fls. 166/177e.
+Inadmitido o Recurso Especial (fls. 178/186e), foi interposto o presente Agravo (fls. 191/200e).
+Contraminuta, a fls. 205/208e.
+A irresignação não merece prosperar.
+Inicialmente, cumpre destacar que o Tribunal de origem não se manifestou acerca do teor dos arts. 2º e 3º da Lei 9.427/96 e 29, V, da Lei 8.987/95. Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial no ponto, incidindo o teor da Súmula 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+No que concerne à violação ao art. 2º da Lei 8.437/92, por ausência de intimação prévia à análise do pedido liminar em ação civil pública, também não prospera a irresignação recursal.
+A Lei 8.437/92, que dispõe sobre a concessão de medidas cautelares contra atos do Poder Público, em seu art. 2º estabelece:
+"Art. 2º. No mandado de segurança coletivo e na ação civil pública, a liminar será concedida, quando cabível, após a audiência do representante judicial da pessoa jurídica de direito público, que deverá se pronunciar no prazo de setenta e duas horas."
+Contudo, no caso concreto, não há falar em ofensa ao art. 2º da Lei 8.437/92, pois, excepcionalmente, é possível conceder liminar sem prévia oitiva da pessoa jurídica de direito público, quando presentes os requisitos legais para a concessão de medida liminar em ação civil pública.
+Esse é o entendimento jurisprudencial do Superior Tribunal de Justiça, que tem abrandado a regra, em casos excepcionais, em especial para resguardar bens maiores.
+Nesse sentido:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. LEGITIMIDADE DO MINISTÉRIO PÚBLICO PARA PROPOR AÇÃO CIVIL PÚBLICA. TRATAMENTO DE SAÚDE. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. MENOR. COMPETÊNCIA ABSOLUTA DA VARA DA INFÂNCIA E DA JUVENTUDE. CONCESSÃO DA ANTECIPAÇÃO DOS EFEITOS DA TUTELA, SEM A PRÉVIA OITIVA DO PODER PÚBLICO. POSSIBILIDADE. JURISPRUDÊNCIA DOMINANTE DO STJ. QUESTÃO DE MÉRITO AINDA NÃO JULGADA, EM ÚNICA OU ÚLTIMA INSTÂNCIA, PELO TRIBUNAL DE ORIGEM. EXAME. IMPOSSIBILIDADE. SÚMULA 735/STF. REQUISITOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 27/02/2018, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+(..)
+V. A jurisprudência do STJ, "em casos excepcionais, tem mitigado a regra esboçada no art. 2º da Lei 8437/1992, aceitando a concessão da Antecipação de Tutela sem a oitiva do poder público quando presentes os requisitos legais para conceder medida liminar em Ação Civil Pública" (STJ, AgRg no Ag 1.314.453/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 13/10/2010).
+(..)
+X. Agravo interno improvido" (STJ, AgInt no AREsp 1.238.406/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 21/06/2018, DJe de 27/06/2018).
+"ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. CONCESSÃO DE LIMINAR SEM OITIVA DO PODER PÚBLICO. ART. 2º DA LEI 8.437/1992. AUSÊNCIA DE NULIDADE.
+1. O STJ, em casos excepcionais, tem mitigado a regra esboçada no art. 2º da Lei 8437/1992, aceitando a concessão da Antecipação de Tutela sem a oitiva do poder público quando presentes os requisitos legais para conceder medida liminar em Ação Civil Pública.
+(..)
+3. Agravo Regimental não provido" (STJ, AgRg no Ag 1.314.453/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/09/2010, DJe de 13/10/2010).
+"PROCESSO CIVIL - RECURSO ESPECIAL - AÇÃO CIVIL PÚBLICA - IMPROBIDADE ADMINISTRATIVA - VIOLAÇÃO DO ART. 535 DO CPC - INEXISTÊNCIA - REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS - SÚMULA 7/STJ - CONCESSÃO DE LIMINAR SEM A OITIVA DO PODER PÚBLICO - ART. 2º DA LEI 8.437/92 - AUSÊNCIA DE NULIDADE.
+(..)
+3. Em tese, não se aplica às hipóteses de concessão de liminar em ação de improbidade administrativa a regra de intimação prévia no prazo de 72 horas, prevista no art. 2º da Lei 8.437/92, porquanto, via de regra, a ação não se direciona de forma direta a impugnar ato administrativo da pessoa jurídica de direito público, mas atos praticados por agentes públicos.
+4. Ademais, a jurisprudência do STJ tem mitigado, em hipóteses excepcionais, a regra que exige a oitiva prévia da pessoa jurídica de direito público nos casos em que presentes os requisitos legais para a concessão de medida liminar em ação civil pública (art. 2º da Lei 8.437/92). Precedentes do STJ.
+(..)
+6. Recurso especial conhecido em parte e, nessa parte, provido em parte" (STJ, REsp 1.018.614/PR, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 17/6/2008, DJe de 06/08/2008).
+No mais, o Tribunal de origem, com base no contrato de concessão e no exame dos elementos fáticos dos autos, consignou que:
+"Com efeito, cinge-se a controvérsia à antecipação dos efeitos da tutela, determinando a realização de todas as medidas necessárias para a manutenção e reparos da rede de distribuição de energia elétrica situada no Assentamento Geraldo Pereira de Andrade, no Município de Juscimeira - MT, visando à cessação das excessivas oscilações e quedas de energia.
+(..)
+Do mesmo modo, não prospera a alegação de existência de pedido genérico e indeterminado, pois não caracteriza indeterminação no pleito o fato de o autor ter citado, de maneira geral, as medidas a serem adotadas, especialmente por se tratar de matéria técnica que necessita de acompanhamento especializado e adequado e que, de forma alguma, interfere na aferição do cumprimento da obrigação quanto à cessação das excessivas oscilações e quedas de energia na localidade.
+Ademais, é cediço que o serviço público, segundo pacífica orientação doutrinária, é assentado no princípio da continuidade, que obriga a administração, ou a empresa concessionária/permissionária, ao fornecimento contínuo da prestação, sem qualquer interrupção, principalmente nos casos em que este é de natureza essencial.
+(..)
+No caso, a agravante não logrou êxito em comprovar que as irregularidades que ocasionaram as interrupções no fornecimento de energia para o Assentamento Geraldo Pereira de Andrade foram previamente comunicadas aos usuários ou mesmo que decorreram de fatos imprevisíveis.
+A Lei das Concessões (Lei nº 8.987/95), estabelece que:
+(..)
+Com efeito, a determinação no decisum vergastado impõe à agravante obrigação determinada pela legislação e firmada no Contrato de Concessão de Distribuição nº 03/1997, como bem consignou o parecer ministerial, in verbis:
+(..)
+Alfim, não vislumbro a possibilidade de a decisão recorrida causar à agravante lesão grave ou de difícil reparação, pois embora alegue a impossibilidade técnica e financeira de atendimento à decisão judicial, não há dentre os documentos colacionados quaisquer provas que corroborem o aduzido" (fls. 88/90e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, constata-se que a reversão do entendimento adotado pelo acórdão recorrido, demandaria a análise do referido contrato de concessão, bem como a incursão no conteúdo fático-probatório dos autos, o que é vedado, em sede de Recurso Especial, em razão dos óbices das Súmulas 5/STJ e 7/STJ, respectivamente.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo, para negar provimento ao Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
