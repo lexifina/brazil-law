@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. PRODUÇÃO DE PROVAS.REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1.A jurisprudência do Superior Tribunal de Justiça é assente nosentido de que o juiz é o destinatário da prova e pode, assim,indeferir, fundamentadamente, aquelas que considerar desnecessárias, nos termosdo princípio do livre convencimento motivado.
+2. Hipótese em que o Tribunal de origem, além de concluir que as provas apresentadas eram suficientes à solução da controvérsia, salientou que "cabe ao magistrado descartar sumariamente as pretensões que entenda indevida ou impertinente", de modo que a revisão do julgado mostra-se inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+3.Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FRUTAS LIDER LTDA.contra decisão de minha lavra, que não conheceu do recurso especialpela incidência da Súmula 7 do STJ (e-STJ fls. 766/769).
+Sustenta a parte agravante, em resumo, que (e-STJ fl. 776):
+(..) em que pese a prova ser destinada ao Juízo, ela é produzida pelas partes, e são estas que ao menos num primeiro momento são detentoras do melhor discernimento acerca do direcionamento das provas, tendo em vista a sustentação de uma tese.
+Ora, se para o Magistrado o processo já está pronto, ou mesmo, que na sua concepção a complementação pretendida não altere o seu entendimento, é de se ter em mente que o processo não se extinguirá na sua instância, e assim, para a melhor defesa do direito, com exceção de diligências absurdas, todo e qualquer pedido formulado acerca de produção de prova deve ser deferido.
+Requer, assim, a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado.
+Intimada, a parte agravada não formulou impugnação (e-STJ fl. 785).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. PRODUÇÃO DE PROVAS.REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1.A jurisprudência do Superior Tribunal de Justiça é assente nosentido de que o juiz é o destinatário da prova e pode, assim,indeferir, fundamentadamente, aquelas que considerar desnecessárias, nos termosdo princípio do livre convencimento motivado.
+2. Hipótese em que o Tribunal de origem, além de concluir que as provas apresentadas eram suficientes à solução da controvérsia, salientou que "cabe ao magistrado descartar sumariamente as pretensões que entenda indevida ou impertinente", de modo que a revisão do julgado mostra-se inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+3.Agravo interno desprovido.
+VOTO
+Não obstante as razões apresentadas, a decisão agravada deve ser mantida.
+A postulada complementação/esclarecimento acerca do lauto pericial foi negada pelas instâncias ordináriaspela circunstância de terem considerado suficientes as provas apresentadas.
+Ademais, restou destacado no voto condutor do acórdão recorrido que "identificada a questão a ser solucionada e apresentados elementos suficientes à verificação e julgamento do direito posto, cabe ao magistrado descartar sumariamente as pretensões que entenda indevida ou impertinente" (e-STJ fl. 715).
+Veja-se, a propósito, o excerto infra (e-STJ fls. 715/716):
+De início, não vislumbro cerceamento de defesa no ato decisório do magistrado que, de forma fundamentada, indefere o pedido de esclarecimento do laudo pericial.
+Isso porque, o sistema processual consagra o princípio do livre convencimento motivado do juiz, sendo a este facultado a formação de sua convicção a partir dos elementos probatórios legalmente permitidos/ não proibidos desde que expostas as razões que o levaram àquela conclusão.
+Identificada a questão a ser solucionada e apresentados elementos suficientes à verificação e julgamento do direito posto, cabe ao magistrado descartar sumariamente as pretensões que entenda indevida ou impertinente.
+Dito isso, passo ao mérito.
+É dever da pessoa jurídica tributada com base no lucro presumido a manutenção de escrituração contábil nos termos da legislação comercial, sendo tal requisito dispensável quando mantiver Livro Caixa, devidamente escriturado, contendo toda a movimentação financeira, inclusive bancária.
+No caso concreto, sobejou constatada a inexistência de Livro de Caixa ou escrituração contábil, sendo insuficientes os elementos apresentados pela apelante para afastar a obrigação legal do registro cronológico e específico da natureza de todos os fatos que ocorrem na empresa, e, portanto, de seu dever acessório, a autorizar a utilização pela administração tributária da sistemática do lucro arbitrado.
+Restando ao Fisco o arbitramento do lucro, não há qualquer irregularidade no empréstimo de informações apresentadas pelo contribuinte ao Fisco Estadual relacionados ao ICMS para quantificação do lançamento do tributo objeto defiscalização.
+Na espécie, não há como modificar os aludidos fundamentos.
+A uma, porque a jurisprudência do Superior Tribunal de Justiça é assente no sentido de que o juiz é o destinatário das provas e pode, assim, indeferir, fundamentadamente, aquelas que considerar desnecessárias, nos termosdo princípio do livre convencimento motivado.
+A propósito:
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL. INDEFERIMENTO DE PRODUÇÃO DE NOVA PROVA PERICIAL. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. LIVRE CONVICÇÃO DO JUIZ. TRANSFORMAÇÃO DE APOSENTADORIA POR INVALIDEZ EM APOSENTADORIA ACIDENTÁRIA. AUSÊNCIA DE NEXO CAUSAL. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Conforme legislação de regência, cumpre ao magistrado, destinatário da prova, valorar sua necessidade. Assim, tendo em vista o princípio do livre convencimento motivado, não há cerceamento de defesa quando, em decisão fundamentada, o juiz indefere produção de prova, seja ela testemunhal, pericial ou documental.
+2. A teor da Lei n. 8.213/91, a concessão de benefícioacidentário apenas se revela possível quando demonstrados a redução da capacidade laborativa, em decorrência da lesão, e o nexo causal.
+3. No caso, o Tribunal de origem, com base no laudo pericial, concluiu que inexiste nexo causal entre a doença incapacitante e as atividades laborativas exercidas pela parte autora, motivo pelo qual o benefício não é devida a pretendida transformação da aposentadoria por invalidez em aposentadoria acidentária
+4. Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 312.470/ES, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/04/2015, DJe 20/04/2015).
+A duas, porque, além de concluir que a documentação apresentada era suficiente para a solução da controvérsia, o acórdão recorrido asseverou quecabe ao magistrado descartar sumariamente as pretensões que entenda indevidas ou impertinentes, conclusõescuja revisão mostra-se inviávelno âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. AÇÃO POPULAR. ILUMINAÇÃO PÚBLICA.ESTIMATIVA. NECESSIDADE DE PROVA PERICIAL. OCORRÊNCIA DE CERCEAMENTO DE DEFESA. REVISÃO. IMPOSSIBILIDADE.SÚMULA 7/STJ.
+1. O Tribunal de origem, soberano na análise das circunstâncias fático- probatórias da causa, entendeu que houve cerceamento de defesa ante a falta de produção de prova pericial necessária ao deslinde da controvérsia. Rever a necessidade ou não de produção de prova pericial, para fins de formação da convicção do juiz, requer indispensável reapreciação do conjunto probatório existente no processo, o que é vedado por óbice da Súmula 7/STJ.
+2. Agravo regimental não provido.
+(AgRg no AREsp 379.264/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 11/11/2013).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REDIRECIONAMENTO DA EXECUÇÃO CONTRA O SÓCIO. ART. 135 DO CTN. RESPONSABILIDADE TRIBUTÁRIA. ALTERAÇÃO DA DECISÃO QUE IMPLICA NO REVOLVIMENTO DE PROVAS. PROVIDÊNCIA VEDADA EM SEDE DE RECURSO ESPECIAL. ARTS. 2o. DA LEI 9.784/1999, 15, 16, 18 DO DECRETO 70.235/1972 E 203 DO CTN. FALTA DE PREQUESTIONAMENTO. NÃO FORAM OPOSTOS EMBARGOS DE DECLARAÇÃO COM O OBJETIVO DE SANAR EVENTUAIS OMISSÕES. SÚMULAS 282 E 356/STF. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO. ALTERAÇÃO DO JULGADO QUE TAMBÉM DEMANDA ANÁLISE DO CONJUNTO FÁTICO PROBATÓRIO. DISSÍDIO PRETORIANO AFASTADO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. A suposta violação dos arts. 2o. da lei 9.784/1999, 15, 16, 18 do Decreto 70.235/1972 e 203 do CTN não foram objeto de exame pela corte de origem e sequer foram opostos Embargos de Declaração com o objetivo de sanar eventuais omissões, atraindo o óbice das Súmulas 282 e 356/STF, ante a falta de prequestionamento.
+2. Segundo a jurisprudência desta Corte, para que se legitime o redirecionamento da Execução Fiscal é imprescindível o preenchimento de pelo menos um dos requisitos do art. 135 do CTN ou a demonstração de que houve dissolução irregular da empresa, não bastando, apenas, o exercício da gerência no período do fato gerador do tributo cobrado. Precedentes: AgInt no REsp. 1.611.500/SC, Rel. Min. FRANCISCO FALCÃO, DJe 18.3.2019; REsp. 1.651.600/SP, Rel. Min. HERMAN BENJAMIN, DJe 20.4.2017.
+3. O Tribunal de origem consignou que da prova documental trazida aos autos, constata-se que Jeffrey Copeland Brantly foi eleito pela sócia da empresa executada, na assembléia de 29/07/1996, para o cargo de Diretor Vice - Presidente, sendo membro do Conselho Executivo, no período da ocorrência dos fatos geradores. Ora, é muito pouco verossímil crer que referido cargo tenha sido titular apenas a título formal ou simbólico, ainda mais diante dos poderes que lhe foram atribuídos por força da cláusula 8 do Contrato Social da Sociedade, quais sejam, as prerrogativas para movimentar valores em conta corrente, efetuar saques, autorizar débitos, transferências e pagamentos, além do poder geral de administração (cf. fls. 123/124) (fls. 599/600). Reexaminar essa questão probatória é medida inviável no âmbito do Recurso Especial, por implicar não somente a revalorização dos fatos, mas a sua própria configuração.
+4. Outrossim, conforme bem salientado na decisão combatida, não caracteriza cerceamento de defesa, por si só, a circunstância de não ter sido produzida prova pericial ou testemunhal. Nesse contexto, rever a conclusão adotada pelo Tribunal de origem demandaria o reexame do conjunto fático-probatório dos autos, tarefa que não se viabiliza nesta sede, a teor da Súmula 7 deste Pretório Precedentes: AgRg no REsp. 1.540.723/RJ, Rel. Min. HUMBERTO MARTINS, DJe 10.2.2016; AgRg no AREsp. 528.588/PR, Rel. Min. OG FERNANDES, DJe 19.8.2014; AgRg no REsp. 1.312.402/MG, Rel. Min. BENEDITO GONÇALVES, DJe 22.5.2012.
+5. Quanto à interposição pela alínea c, este Tribunal tem entendimento no sentido de que a incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa.
+6. Agravo Interno do Particular a que se nega provimento.
+(AgInt no AREsp 1.470.889/SP, Rel.Ministro NAPOLEÃO NUNES MAIA FILHO,PRIMEIRA TURMA, julgado em 05/10/2020,DJe 09/10/2020).
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do
+CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
