@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em benefício deValdecir Tiago dos Santos, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo - que indeferiu pedido liminar nowritali impetrado (fls. 29/31 -Habeas Corpusn. 2141801-35.2021.8.26.0000), mantendo a decisão do Juízo de Direito da Unidade Regional de Departamento Estadual de Execução Criminal DEECRIM - 4ª RAJ, que indeferiu o pedido de livramento condicional dopaciente(fls. 22/24- Autos n. 0001782-64.2018.8.26.0502) -, alegando-se constrangimento ilegal consistente no indeferimento do benefício da execução, aos argumentos de que:
+a) opaciente possui direito ao livramento condicional, uma vez que preencheu os requisitos;
+b) a prática de faltagrave não interrompe o lapso para a concessão do benefício; e
+c) a pandemia de Covid-19, associada ao elevado risco de contaminação do paciente, que seria do grupo de risco, levaria à necessária reconsideração da decisão que indeferiu o pedido de prisão domiciliar ou de livramento condicional.
+Postula-se, então, a concessão liminar da ordem para que seja concedido o livramento condicional aopaciente.
+É o relatório.
+Inicialmente, tem-se que o presentemandamusfoi impetrado contra a decisão monocrática de Desembargador, relator na Corte local dohabeas corpusoriginário, que indeferiu o pedido liminar.
+Em tais casos, esta Corte, seguindo o preceituado no Enunciado n. 691 da Súmula do Supremo Tribunal Federal, tem entendimento pacificado no sentido denão ser cabível a impetração dehabeas corpuscontra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau,salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta. Julgados nesse sentido: AgRg no HC n. 627.042/AL, Ministro Nefi Cordeiro, Sexta Turma, DJe 18/12/2020; e AgRg no HC n. 629.203/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/12/2020.
+Da análise dos autostem-se que a pretensão mandamental foi indeferida em primeiro grau, aos seguintes fundamentos (fl. 7 - grifo nosso):
+ ..
+Outrossim, não obstante a maioria dos estabelecimentos penais da região sabidamente esteja em situação de superlotação, no caso dos autos, nenhuma notícia há no sentido que a condição de saúde do executado esteja comprometida ou que o ambiente carcerário específico esteja em piores condições que o externo.
+Anote-se que o executado é soropositivo, mas conforme relatório ultimo, de fl.398, vem recebendo desde maio de 2021 tratamento antirretroviral. Não há notícias de que se encontre debilitado ou em situação de vulnerabilidade extremada a justificar a concessão de prisão domiciliar.
+De se observar que o reeducando foi condenado por crime de roubo e apenas retornou ao regime semiaberto por descumprimento das regras do regime aberto, o que demonstra ao juízo não ter assimilado em nada a terapêutica penal.
+Assim, INDEFIRO o pedido.
+2. Quanto à concessão do livramento condicional, o juízo não desconhece o atingimento do lapso para a obtenção da benesse. Não obstante, o art. 83, III, b, do Código Penal, modificado pela Lei n.º 13.964/19, acrescentou, como condição para o livramento condicional, o "não cometimento de falta grave nos últimos12 (doze) meses". Dessa forma, ante o reconhecimento da falta que justificou a regressão de regime, aponto que a reabilitação apenas se dará em 17.10.2021.
+ ..
+A seu turno, a Corte local assim indeferiu o pedido liminar nowritoriginário (fls. 30/31):
+ ..
+A análise sumária da impetração não autoriza inferir se houve o preenchimento dos requisitos cumulados típicos da medida liminar.
+Isso porque, não há como aferir, de imediato, se o paciente faz jus à concessão da prisão domiciliar ou ao livramento condicional, eis que os benefícios em execução de sentença, exigem profundo exame da prova para verificação da presença dos requisitos objetivos e subjetivos.
+Ademais, a matéria arguida se confunde com o próprio mérito do presente "writ", escapando, portanto, aos restritos limites de cognição da cautelar, que há de ser deferida apenas nos casos em que exsurge flagrante a ilegalidade afirmada.
+Vale consignar que, de acordo com o artigo 197 da Lei de Execução Penal, das decisões proferidas pelo Juízo da Vara das Execuções Criminais caberá recurso de agravo, sem efeito suspensivo.
+De outra parte, sequer foi juntado aos autos qualquer documento ou laudo médico que demonstrasse que o paciente estaria em grupo de risco, a justificar a aplicação de medidas excepcionais de abrandamento do rigorpenitenciário.
+Não fosse o bastante, a Portaria Interministerial nº 07 de 18 de março de 2020 adota providências suficientes à contenção da pandemia no sistema prisional, a tornar despicienda, ao menos nesse momento, a imediata soltura do paciente.
+ ..
+Ao que se tem, o pedido de livramento condicional foi indeferido por ausência de cumprimento dorequisitoobjetivo - ao fundamento de que, não obstante, o art. 83, III, b, do Código Penal, modificado pela Lei n.13.964/2019, acrescentou, como condição para o livramento condicional, o "não cometimento de falta grave nos últimos 12 (doze) meses". Dessa forma, ante o reconhecimento da falta que justificou a regressão de regime, aponto que a reabilitação apenas se dará em 17.10.2021(fl. 7).
+Em relação ao requisito objetivo, tem-se que razão assiste à impetração, pois o acórdão hostilizado não está de acordo com o entendimento desta Corte, para a quala falta grave não interrompe o prazo para obtenção de livramento condicional(Enunciado n. 441 da Súmula do Superior Tribunal de Justiça, Terceira Seção, DJe 13/5/2010).
+A despeito disso, quanto ao requisito subjetivo, sem razão a impetração, pois,no caso dos autos, o indeferimento do livramento condicional se deu em razão da ausência do requisito subjetivo, considerando, para tanto, o histórico prisional do paciente, no qual consta que ele praticou falta de natureza grave (fuga), o que evidencia a idoneidade da fundamentação utilizada, não havendo falar, portanto, em existência de flagrante ilegalidade que justifique a concessão da ordem(AgRg no HC n. 584.224/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/12/2020).
+Conclui-se, então, que a impetração não demonstrou inquestionável teratologia ou ilegalidade manifesta na decisão hostilizada, razão pela qual não se justifica a intervenção prematura deste Superior Tribunal.
+Em razão disso,indefiro liminarmenteo presentewrit.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL.LIVRAMENTO CONDICIONAL.WRITIMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU O PEDIDO LIMINAR NOMANDAMUSORIGINÁRIO. INDEFERIMENTO. INADIMPLEMENTO DO REQUISITO OBJETIVO. FUNDAMENTAÇÃO. FALTA GRAVE. INTERRUPÇÃO DO PRAZO. IMPOSSIBILIDADE. ENUNCIADO N. 441 DA SÚMULA DO STJ. APLICABILIDADE. INADIMPLEMENTO DO REQUISITO SUBJETIVO. HISTÓRICO PRISIONAL QUE REGISTRA A PRÁTICA DE FALTA GRAVE. IDONEIDADE DA FUNDAMENTAÇÃO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. TERATOLOGIA OU ILEGALIDADE MANIFESTA. AUSÊNCIA.ENUNCIADO N. 691 DA SÚMULA DO STF. APLICABILIDADE.
+Writindeferido liminarmente.
