@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpusinterposto por ENIO ROBERTO BORNHOLDT, ERLI KONIG BORNHOLDT e DOUGLAS KONIG JUNKES, em face de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. PARCELAMENTO DO DÉBITO. INDEFERIMENTO DO PEDIDO DESUSPENSÃO DA AÇÃO PENAL ATÉ A SUA QUITAÇÃO. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+1. De acordo com o verbete da Súmula Vinculante nº 24, do STF, Não se tipifica crime material contra a ordem tributária, previsto no art. 1º,incisos I a IV, da Lei nº 8.137/90, antes do lançamento definitivo do tributo.
+2. Dessa forma, para fins de aplicação da lei no tempo, deve ser observada a data da constituição definitiva do crédito tributário, que, na espécie, ocorreu em 28-11-2011 (DBAC n. 37.135.586-9) e em 14-07-2017(DBAC n. 37.517.167-3), ou seja, quando já se encontrava em vigor a alteração promovida no § 2º do art. 83 da Lei nº 9.430/96 pela Lei nº 13.382, de 26-02-2011.
+3. Considerando que o parcelamento fiscal se deu posteriormente ao recebimento da denúncia, inviável o acolhimento do pedido vertido na inicial.
+4. Ordem de habeas corpus denegada. (e-STJ. fl. 505).
+Os aclaratórios foram rejeitados.
+Irresignados, os recorrentes afirmam que o entendimento do TRF 4 está dissonante com a jurisprudência do Supremo Tribunal Federal. Nesse sentido, afirma que, para a Corte constitucional, ainda que após o recebimento da denúncia, mas antes do trânsito em julgado da sentença condenatória, é possível a suspensão da ação penal quando houver o parcelamento do débito tributário.
+Além disso, afirma que a suposta prática delituosa teria ocorrido entre o período de 1º/1/2003 e 31/5/2007, com representação penal fiscal em 8.2.2008, pouco importando a data de constituição dos créditos (e-STJ, fl. 575). Requer, portanto, a aplicação da lei vigente ao tempo da conduta.
+Nestes termos, pede o provimento do recurso, para que seja suspensa a ação penal.
+O Ministério Público Federal opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Inicialmente, é necessário esclarecer que o efeito do parcelamento tributário na persecução penal, inclusive daquela atinente ao art. 2º, II, da Lei 8.137/90, é objeto de sucessivas normas regentes. Como explica a doutrina, "aplicam-se ao crime em comento as regras dos arts. 9º da Lei 10.684/03 (STJ, HC 29745, Carvalhido, 6ªT., u., 19.4.05), 68 da Lei 11.941/09 e 6º da Lei 12.382/11" (BALTAZAR JÚNIOR, José Paulo. Crimes Federais. 11ª ed. São Paulo: Saraiva, 2017, p. 844). A solução de qual norma incide no caso concreto, porém, exige perquirir-se as datas dos fatos supostamente delitivos e do efetivo parcelamento.
+Trata-se de instigante questão de Direito Intertemporal ou, em outros termos, aplicação da lei no tempo. Assim, é importante averiguar os marcos temporais acima referidos. Conforme consta do acórdão recorrido:
+" .. a data da constituição definitiva do crédito tributário, que, na espécie, ocorreu em 28-11-2011 (DBAC n. 37.135.586-9) e em 14-07-2017(DBAC n. 37.517.167-3), ou seja, quando já se encontrava em vigor a alteração promovida no § 2º do art. 83 da Lei nº 9.430/96 pela Lei nº 13.382, de 26-02-2011." (e-STJ, fl. 505).
+Deve-se destacaraindaque, nos termos da Súmula Vinculante 24/STF, a conduta criminosa só se consuma ao tempo do lançamento definitivo do crédito tributário (no caso,28-11-2011 e 14-07-2017). Antes disso,não há crime. A literalidade do enunciado sumular é bastante clara nesse sentido:
+Súmula Vinculante 24
+Não se tipificacrime material contra a ordem tributária,previsto no art. 1º,incisos Ia IV,da Lei 8.137/1990, antes do lançamento definitivo do tributo.
+Portanto, não procede a alegação defensiva de que o crime teria ocorrido antes de fevereiro de 2011.Isso porque, como se vê da súmula, os delitos do art. 1º, I a IV, da Lei 8.137/90 são materiais, exigindo resultado naturalístico e não se contentando com a mera sonegação ou fraude.
+Com efeito, passa-se agora ao cotejo entre a norma e os fatos. Para as condutas posteriores a 25 de fevereiro de 2011, José Paulo Baltazar Júnior ensina que incidem as Leis n. 11.941/09 e a n. 12.382/11. Nesse sentido, assevera que "o pagamento integral, a qualquer tempo, mesmo após a denúncia ou sentença extingue a punibilidade (Lei 11.941/09, art. 69). O parcelamento até o recebimento da denúncia implica suspensão da punibilidade (Lei 12.382/11, art. 6º).
+Especificamente quanto ao parcelamento tributário, note-se que a Lei 12.382/11, ao tratar inteiramente da matéria, revogou tacitamente os arts. 9º e 68, respectivamente das Leis n. 10.684/03 e 11.941/09, na forma do art. 2º, §1º, da LINDB. Por isso, ao contrário do que sustenta o ora recorrente, não se deve aplicar à hipótese (fatos posteriores a fevereiro de 2011) o art. 9º da Lei n. 10.684/03, mas sim a Lei 12.382/11, que alterou o art. 83, 2º, da Lei n. 9.430/96, conferindo-lhe a seguinte redação:
+Lei 12.382/2011
+"Art. 6º O art. 83 da Lei no 9.430, de 27 de dezembro de 1996, passa a vigorar acrescido dos seguintes §§ 1º a 5º, renumerando-se o atual parágrafo único para § 6º:
+"Art. 83. ..
+§ 1o Na hipótese de concessão de parcelamento do crédito tributário, a representação fiscal para fins penais somente será encaminhada ao Ministério Público após a exclusão da pessoa física ou jurídica do parcelamento.
+§ 2o É suspensa a pretensão punitiva do Estado referente aos crimes previstos no caput, durante o período em que a pessoa física ou a pessoa jurídica relacionada com o agente dos aludidos crimes estiver incluída no parcelamento, desde que o pedido de parcelamento tenha sido formalizado antes do recebimento da denúncia criminal.
+§ 3o A prescrição criminal não corre durante o período de suspensão da pretensão punitiva.
+§ 4o Extingue-se a punibilidade dos crimes referidos no caput quando a pessoa física ou a pessoa jurídica relacionada com o agente efetuar o pagamento integral dos débitos oriundos de tributos, inclusive acessórios, que tiverem sido objeto de concessão de parcelamento.
+§ 5o O disposto nos §§ 1o a 4o não se aplica nas hipóteses de vedação legal de parcelamento.
+§ 6o As disposições contidas no caput do art. 34 da Lei no 9.249, de 26 de dezembro de 1995, aplicam-se aos processos administrativos e aos inquéritos e processos em curso, desde que não recebida a denúncia pelo juiz." (NR) " (grifou-se).
+Nesse contexto, verifica-se que a lei vigente à época dos fatos e mesmo do parcelamento é a Lei n. 12.382/2011. Assim sendo, constata-se que o parcelamento do débito tributário não se deu antes do recebimento da denúncia, o que afasta a possibilidade de suspensão da ação penal, nos termos do art. 6º da Lei n. 12.382/2011. Nesse sentido:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. ARTIGO 1º, INCISOS I, II, E IV DA LEI Nº 8.137/1990. ALEGAÇÃO DE INÉPCIA DA INICIAL AFASTADA. PARCELAMENTO DO CRÉDITO TRIBUTÁRIO. SUSPENSÃO DO PROCESSO. ART. 83, § 2º, DA LEI N. 9.430/1996. ALTERAÇÃO LEGISLATIVA PROMOVIDA PELA LEI N. 12.386/2011. DELITO PRATICADO, EM TESE, ENTRE JULHO E OUTUBRO DE 2011. PARCELAMENTO REQUERIDO APÓS O RECEBIMENTO DA DENÚNCIA. APLICAÇÃO DA NOVA REGRA. ÓBICE À SUSPENSÃO PROCESSUAL CONFIGURADO  .. . RECURSO ORDINÁRIO DESPROVIDO.
+ ..
+4. A Lei n. 12.382/2011 de 25/02/2011 entrou em vigor no primeiro dia do mês subsequente à data de sua publicação. Referida lei alterou a redação do § 2º do art. 83 da Lei n. 9.403/1996 para impedir a suspensão da ação penal em virtude de parcelamento realizado após o recebimento da denúncia. Por ser mais gravosa, a nova lei não se aplica aos aos créditos tributários anteriores à sua vigência. Todavia, na espécie, a denúncia descreve que a prática delitiva se deu entre os meses de julho e outubro de 2011 e que parcelamento da dívida tributária foi realizado pelo acusado em 25/10/2017, após o recebimento da denúncia. Consequentemente não se identifica flagrante ilegalidade na incidência da Lei nº 12.382/2011 ao caso concreto. Precedentes: RHC 96.175/RS, de minha relatoria, QUINTA TURMA, DJe 25/3/2019 e RHC 94.845/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 1º/8/2018.
+ ..
+6. Recurso ordinário em habeas corpus desprovido."
+(RHC 128.050/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/08/2020, DJe 31/08/2020).
+"PENAL. HABEAS CORPUS. APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA. ALTERAÇÃO LEGISLATIVA PARA FINS DE SUSPENSÃO DO PROCESSO. CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO ANTES DA NOVA REGRA. EXCLUSÃO DO PARCELAMENTO ANTERIOR POR INADIMPLEMENTO. REALIZAÇÃO DE NOVO PARCELAMENTO EM MOMENTO POSTERIOR AO RECEBIMENTO DA DENÚNCIA E À ALTERAÇÃO LEGISLATIVA. SUSPENSÃO DO PROCESSO. IMPOSSIBILIDADE. RECURSO IMPROVIDO.
+1. A nova redação do art. 83, § 2º, da Lei n. 9.430/1996, atribuída pela Lei n. 12.382/2011, por restringir a formulação do pedido de parcelamento ao período anterior ao recebimento da denúncia, é mais gravosa em relação ao regramento que substituiu, que não trazia essa limitação, o que impede sua aplicação às condutas a ela pretéritas.
+(REsp 1493306/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/8/2017, DJe 24/8/2017).
+2. O novo parcelamento do débito tributário, realizado pelo recorrente em 2017, pela exclusão do parcelamento anterior em razão de inadimplemento, após a alteração legislativa e ao recebimento da denúncia, não é apto a suspender a pretensão punitiva do Estado.
+3. Recurso em habeas corpus improvido."
+(RHC 96.587/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 04/12/2018, DJe 13/12/2018).
+Dessa forma, não vislumbro qualquer ilegalidade a permitir a concessão da ordem por esta Corte Superior.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
