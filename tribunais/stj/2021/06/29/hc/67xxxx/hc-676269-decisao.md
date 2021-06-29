@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de MARCELO MARINHO JORGE, condenado às penas de 30 anos de reclusão (em regime fechado) e 15 dias-multa pela prática de latrocínio (art. 157, §3º, inciso II do Código Penal).
+Os impetrantes sustentam que o paciente estásofrendo constrangimento ilegal pela manutenção de sua segregação cautelar após o encerramento da instrução do processo, pugnando pela substituição da prisão por medidas cautelares diversas. Aduzem que a sua colocação em liberdade não implicarisco de fuga ou ameaça à ordem pública.
+Apontam ainda suposta nulidade da sentença condenatória por desobediência ao devido processo legal e ampla defesa. Alegam que a despeito do deferimento de produção de laudo pelo sistema DETECTA (que realiza o monitoramento inteligente de veículos através de câmeras), prova necessária para demonstração de que não estaria nas imediações do local do crime no momento de sua prática, o feito teria sido prematuramente sentenciado, antes da juntada aos autos do laudo respectivo.
+É o relatório. Decido.
+A Terceira Seção do Superior Tribunal de Justiça firmou entendimento no sentido da inadequação da impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio.Admite-se, no entanto, atuação de ofício na hipótese de flagrante ilegalidade ou teratologia caracterizadoras de constrangimento ilegal.
+O exame dos autos não convence da existência de mácula suficiente a provocar a atuação ex officio desta Corte. Em se tratando de crime praticado com violênciapor réu reincidente, constatou-se a necessidade de manutenção de suaprisão cautelar para salvaguarda da ordem pública,conclusão que encontra respaldo na profunda análise das provas e elementos dos autos, promovida pela primeira e segunda instâncias. O encerramento da instrução não afasta a mencionada motivação, que permanece íntegra.
+Especificamente quanto à alegada violação da ampla defesa, por suposta prematuridade da sentença prolatada, verifico não ter sido objeto de exame pelo Tribunal estadual, sendo, por consequência, inviável o seu conhecimento direto por esta Corte Superior, sob pena de indevida supressão de instância.
+Como bem observado pelo Tribunal a quo, o manejo de habeas corpus não pode fazer as vezes do recurso de apelação (já interposto), sendo via inadequada para o reexame pormenorizado do acervo probatório.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
