@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de LUCAS DE SOUZA BERNARDO contra acórdão do Tribunal Regional Federal da 3.ª Região proferido no HC n.5015180-48.2020.4.03.0000.
+Consta dos autos que o Ministério Público do Estado de São Paulo denunciou o Paciente e demais corréus pela suposta prática do crime de associação para o tráfico ilícito de drogas.
+O Juízo de Direito Titular I da 7.ª Vara Criminal da Comarca de São Paulo - SP, por entender haver vários indícios de transnacionalidade do delito, acolheu a representação da autoridade policial e decretou a prisão preventiva dos Envolvidos, "ad referendum" do Juízo Federal competente, determinando, com urgência, a remessa do feito a uma das Varas Federais Criminais da Capital (fls. 21-26).
+O Juízo da 8.ª Vara Criminal Federal de São Paulo manteve a prisão preventiva dos Denunciados (fl. 14).
+Irresignada, a Defesa impetrouhabeas corpusperante a Corte de origem, tendo sido denegada a ordem.
+Nas razões destewrit, os Impetrantes afirmam que "o ora paciente, teve decretadacontra si prisão cautelar, na modalidade preventiva, pelos magistrados da r. 7ª Vara Estadual Criminal da comarca de São Paulo; magistrado da r. 8ª Vara Federal Criminal da comarca de São Paulo/SP, e ainda pelo juízo da r. 5ª Vara Federal Criminal da comarca de Santos/SP" (fl. 4).
+Sustentam que o Paciente se encontra preso por decisão proferida por Juízo incompetente, sendo nulo o decreto prisional.
+Requerem, em liminar e no mérito, seja declarada a nulidade do decreto de prisão preventiva, com a expedição de alvará de soltura em favor do Paciente, ainda que mediante a imposição de medidas cautelares diversas.
+Indeferi o pedido liminar às fls. 68-70.
+As judiciosas informações foram prestadas às fls. 74-78.
+O Ministério Público Federal opina pela não admissão do writ, descabida a concessão de habeas corpus ex officio, às fls. 80-84.
+Ofício do Supremo Tribunal Federal às fls. 87-94, noticiando que negou seguimento ao HC n. 190.306/SP, impetrado contra a decisão que indeferiu o provimento urgente.
+É o relatório.Decido.
+Informa a Seção Judiciária do Estado de São Paulo que (fls. 75-76):
+"Analisando os pleitos, o Exmo. Juiz da 7ª Vara Criminal da Comarca de São Paulo/SP entendeu por bem declinar à Justiça Federal a competência para processar e julgar os fatos denunciados, destacando em sua decisão a transnacionalidade do delito, considerando os elementos até então coligidos revelarem associação para a prática de tráfico internacional.
+O feito foi encaminhado para a Justiça Federal, sendo distribuído ao Colendo Juízo da 8ª Vara Criminal Federal de São Paulo/SP, o qual, após ouvir o Ministério Público Federal, declinou os autos à Justiça Federal de Santos/SP, ressaltando no mesmo provimento a necessidade de manutenção das prisões preventivas decretadas em desfavor dos denunciados.
+Distribuídos os autos a este Juízo, após a análise da situação processual dos investigados, ratifiquei os decretos de prisões preventivas anteriormente exarados pelosJuízos da 7ª Vara Criminal da Comarca de São Paulo/SP e 8ª Vara Criminal Federal de São Paulo/SP.
+Sem prejuízo, após a oitiva do membro do Ministério Público Federal, suscitei conflito negativo de competência ao Egrégio Tribunal Regional Federal da 3ª Região com base no art. 78, inciso II, alínea "c", c.c. art. 83 do Código de Processo Penal, conforme fundamentos expostos em decisão proferida aos 23.06.2020.
+Na mesma oportunidade, em razão da urgência revelada pela existência de denunciados presos cautelarmente, determinei a redistribuição incontinenti dos autos à Colenda 8ª Vara Criminal da Justiça Federal da São Paulo/SP, onde o feito tramita atualmente."
+Consoante a firme jurisprudência assentada pelo Superior Tribunal de Justiça, o reconhecimento da incompetência do Juízo não acarreta, por si só, a nulidade da decisão que decretou a prisão preventiva do acusado, pois o Juízo competente, ao receber o feito, pode ratificar a referida decisão, como ocorreu na presente hipótese.
+A propósito:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. NULIDADE. JUÍZO INCOMPETENTE.INOCORRÊNCIA. REMESSA AO JUÍZO COMPETENTE. RECEBIMENTO DA DENÚNCIA.RATIFICAÇÃO TÁCITA OU IMPLÍCITA DO DECRETO PRISIONAL. POSSIBILIDADE.AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA DO DECRETO PRISIONAL. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA PARA A GARANTIA DA ORDEM PÚBLICA.REITERAÇÃO DELITIVA. REGISTROS CRIMINAIS. RISCO DE CONTAMINAÇÃO PELO COVID-19. LOCAL COM AGLOMERAÇÃO DE PESSOAS. MATÉRIA NÃO EXAMINADA PELAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO INSTÂNCIA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - No que pertine à arguição de nulidade absoluta do decreto prisional ante a incompetência do juízo, a jurisprudência deste Superior Tribunal de Justiça admite a possibilidade de ratificação implícita dos atos decisórios - inclusive da ordem de prisão cautelar - quando o juízo competente dá normal seguimento ao processo.
+ .. "(AgRg no HC 563.330/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/04/2020, DJe 17/04/2020; sem grifos no original.)
+"AGRAVO REGIMENTAL. HABEAS CORPUS. NÃO CONHECIMENTO. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. ASSOCIAÇÃO CRIMINOSA E HOMICÍDIO SIMPLES. INCOMPETÊNCIA DO JUÍZO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. POSSIBILIDADE DE RATIFICAÇÃO DOS ATOS PRATICADOS POR JUÍZO ABSOLUTAMENTE INCOMPETENTE. COAÇÃO ILEGAL INEXISTENTE. DESPROVIMENTO DO RECLAMO.
+ ..
+4. Eventual reconhecimento da incompetência do Juízo da 1ª Vara Criminal da comarca de São Luís/MA não tem o condão de anular os decretos de prisão expedidos em desfavor do paciente, uma vez que é pacífico neste Superior Tribunal de Justiça que mesmo nos casos de incompetência absoluta é possível a ratificação dos atos decisórios, o que reforça a inexistência de ilegalidade passível de ser sanada na via eleita.
+5. Agravo regimental desprovido." (AgRg no HC 467.614/MA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 20/09/2018, DJe 27/09/2018; sem grifos no original.)
+Outrossim, consoante a decisão proferida pelo Supremo Tribunal Federal (fls. 92-93):
+"Consulta ao sítio eletrônico do TRF3 evidenciou que foi julgado "procedente o presente Conflito de Jurisdição, declarando, por consequência, competente o MM. Juízo Suscitado (8ª Vara Federal Criminal de São Paulo/SP) para o tramitar do Inquérito Policial (com denúncia ofertada) nº 5002939- 26.2020.403.6181, nos termos do relatório e voto que ficam fazendo parteintegrante do presente julgado", em acórdão publicado em 4.8.2020.
+Ora se o Juízo da 8ª Vara Federal Criminal de São Paulo manteve a prisão preventiva e o Tribunal declarou a sua competência, não se vislumbra prisão preventiva decretada por Juízo incompetente."
+Como bem ressaltou o Pretório Excelso, não há ilegalidade na prisão preventiva inicialmente decretada por Juízo declarado incompetente, uma vez que houve a necessária ratificação pelo Juízo competente.
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. MEDIDA DECRETADA POR AUTORIDADE INCOMPETENTE. RATIFICAÇÃO POSTERIOR PELO JUÍZO COMPETENTE. POSSIBILIDADE. NULIDADE. INEXISTÊNCIA. DECRETO CONSTRITIVO RATIFICADO. ORDEM DE HABEAS CORPUS DENEGADA.
