@@ -1,0 +1,17 @@
+Decisão: Trata-se de habeas corpus impetrado contra acórdão proferido no âmbito do Superior Tribunal de Justiça (HC 623.054/PE), assim ementado (eDOC 8):
+    HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. OPERAÇÃO MAR ABERTO. SONEGAÇÃO FISCAL, LAVAGEM DE DINHEIRO, ORGANIZAÇÃO CRIMINOSA E USO DE DOCUMENTO FALSO. CABIMENTO DO RECURSO EM PRIMEIRO GRAU. SUPRESSÃO DE INSTÂNCIA. RECURSO MINSTERIAL PROVIDO EM PARTE APLICANDO MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO. EXPRESSA PREVISÃO LEGAL POSSIBILITANDO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+    1. Hipótese de habeas corpus substitutivo de recurso próprio em que a impetração sequer deveria ser conhecida segundo a atual orientação jurisprudencial do Supremo Tribunal Federal – STF e do próprio Superior Tribunal de Justiça – STJ. Contudo, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que autorize a concessão da ordem de ofício.
+    2. A par da discussão sobre a ocorrência de revogação ou substituição da prisão preventiva, é possível constatar que o tema aqui deduzido não foi objeto de análise e debate no acórdão impugnado, circunstância que impede a manifestação desta Corte Superior sobre o tema, vedada a supressão de instância.
+    3. O Ministério Público recorreu pretendendo o restabelecimento da prisão preventiva do paciente. A Corte Estadual, de forma fundamentada e destacando os diversos julgados anteriores que já haviam reafirmado a necessidade da custódia cautelar, julgou procedente o pleito ministerial, todavia entendeu ser possível e suficiente, nos termos do art. 282, § 5º, do Código de Processo Penal, a aplicação das medidas cautelares alternativas à prisão prevista no art. 319 do referido Código. Dessa forma que não há que se falar em constrangimento ilegal ou julgamento extra petita por se tratar de hipótese expressamente prevista em lei. Precedentes.
+    4. Habeas corpus não conhecido.
+    Busca-se, em suma, a nulidade do julgamento do recurso em sentido estrito interposto pelo Ministério Público contra decisão que converteu a prisão preventiva do paciente em domiciliar, tendo em vista o não cabimento do referido recurso para a hipótese aventada.
+    É o relatório. Decido.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante na decisão atacada a justificar a concessão da liminar.
+    Outrossim, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirmou.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual indefiro a liminar. Após, abra-se vista à PGR.
+    Publique-se. Intime-se.
+    Brasília, 29 de junho de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
