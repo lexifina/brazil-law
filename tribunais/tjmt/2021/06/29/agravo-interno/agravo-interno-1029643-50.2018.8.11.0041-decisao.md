@@ -1,0 +1,49 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe – Processo Judicial eletrônico
+Recurso Especial no Agravo Interno, na Apelação Cível no 1029643-50.2018.811.0041
+Recorrente: SEGURADORA LÍDER DO CONSÓRCIO DO SEGURO DPVAT S/A
+Recorrido: WENDER SILVA ARAUJO
+Vistos.
+Trata-se de recurso especial (id. 85481494) interposto por SEGURADORA LÍDER DO CONSÓRCIO DO SEGURO DPVAT S/A, com fundamento no art. 105, III, alínea “a” e “c”, da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Privado, que negou provimento ao recurso de agravo interno em apelação cível, conforme a seguinte ementa (id. 81321494):
+“RECURSO DE AGRAVO INTERNO – APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO (DPVAT) – NULIDADE PROCESSUAL POR AUSÊNCIA DE CITAÇÃO E REPRESENTAÇÃO PROCESSAL DA SEGURADORA – DESCABIDA – CITAÇÃO VÁLIDA – INDENIZAÇÃO SECURITÁRIA – DEDUÇÃO DO VALOR ADIMPLIDO NA VIA ADMINISTRATIVA – AUSÊNCIA DE COMPROVAÇÃO DO PAGAMENTO – SUCUMBÊNCIA MÍNIMA DA SEGURADORA – HONORÁRIOS ADVOCATÍCIOS FIXADOS PELO CRITÉRIO EQUITATIVO – MANUTENÇÃO DA SENTENÇA – APELO DESPROVIDO – AUSÊNCIA DE ELEMENTOS NOVOS – DECISÃO UNIPESSOAL MANTIDA – AGRAVO DESPROVIDO.
+Não subsiste o argumento de ausência de citação pois, além de expedida a Carta de Citação e certificado nos autos o envio eletrônico à Seguradora, registra-se o comparecimento da empresa à audiência inaugural, devidamente representada pelo seu preposto e por dois advogados.
+Tendo em vista a ausência de documento que comprove o pagamento de indenização securitária ao Agravado, pela via administrativa, no valor de R$2.531,25 (dois mil, quinhentos e trinta e um reais e vinte e cinco centavos), não há falar em decote desta quantia, tal como requer a Seguradora.
+A condenação da Agravante ao pagamento de indenização securitária em quantia abaixo do pleiteado pela parte Autora não caracteriza sucumbência mínima, tampouco recíproca, haja vista que o quantum sofre variação conforme percentual da incapacidade quantificado na perícia judicial.
+Diante do caráter alimentar dos honorários advocatícios, quando a condenação é de pequena monta (R$ 4.725,00), o caminho é estipular a verba segundo os ditames do § 8o, artigo 85 do CPC, razão pela qual é imperioso manter a fixação dos honorários advocatícios em R$1.500,00 (um mil e quinhentos reais), tal como consta na decisão unipessoal vergastada.
+Inexistindo elementos novos capazes de infirmar decisão recorrida, deve ela prevalecer em todos os seus termos. (AgInt n° 1029643-50.2018.8.11.0041, SEGUNDA CÂMARA DE DIREITO PRIVADO, Rel. CLARICE CLAUDINO DA SILVA, j. em 22/03/2021)”.
+A recorrente alega em suas razões recursais:
+(i) a nulidade absoluta por ausência de citação válida da requerida/recorrente, salientando que o acórdão afrontou o art. 334, § 9°, do CPC, ao considerar válida a citação com o comparecimento em audiência inaugural de dois advogados e preposto, os quais sequer detinham poderes de representação em juízo; e
+(ii) divergência jurisprudencial nesse sentido.
+Recurso tempestivo (id. 87685512). Preparo recolhido (id. 87714456). Intimado, o recorrido deixou transcorre o prazo legal sem oferecer contrarrazões ao recurso (id. 91254476).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+A hipótese prevista no art. 105, III, letra “a” e “c” da Constituição Federal prescreve a apreciação, pelo STJ, de recurso especial oposto contra acórdão que, em única ou última instância, tenha contrariado lei federal ou negado sua vigência (“a”) e der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal (“c”).
+Entretanto, em que pesem as argumentações da recorrente, o recurso não pode alcançar o normal seguimento.
+Do reexame de matéria fática (Súmula 07 do STJ)
+Afere-se que o presente recurso almeja o reconhecimento de nulidade processual em decorrente da ausência de citação válida.
+Verifica-se que o acórdão deste Sodalício, ao decidir a questão concluiu pela regularidade da citação com os seguintes fundamentos:
+“Ao que se observa do extrato processual, em 21/01/2019 foi expedida a Carta de Citação (Id. 62799477) e, na mesma data, certificado pelo Juízo a quo o envio da citação à Seguradora por meio eletrônico (Id. 62799478).
+Ademais, verifica-se que a Seguradora, representada por seu preposto, acompanhado de dois advogados, compareceu à audiência inaugural que se realizou em 21/02/2019 às 8h 32min (Id. 62799480).
+Estes fatos, à toda evidência, perfectibilizam o ato citatório e afastam os motivos à nulidade pretendida pela Agravante” (grifei).
+Registre-se que, não obstante a juntada de carta de preposto e substabelecimento ainda que desacompanhado da cadeia de procuração que lhe dá origem, constou da ata de audiência a concessão de prazo para tanto. Ademais, com efeito, verifica-se que também no id. 62799486 consta Certidão no seguinte sentido:
+“Certifico que a parte Requerida, mesmo devidamente citada, deixou de manifestar no presente feito” (grifei).
+Portanto, rever o entendimento firmado demanda o necessário ingresso em premissas fático-probatória dos autos, o que atrai por si só o óbice da Súmula 07/STJ. A propósito, nesse sentido:
+“AGRAVO INTERNO NO RECURSO ESPECIAL. LOCAÇÃO DE IMÓVEL. REVISIONAL. INÉPCIA À INICIAL: PREJUÍZO SÓ À AUTORA. DESNECESSIDADE DE LAUDO PERICIAL. FUNDAMENTOS INATACADOS SUFICIENTES PARA MANUTENÇÃO DO ACÓRDÃO. SÚMULA No 283/STF. CITAÇÃO. VALIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA No 7/STJ. RITO PROCESSUAL. COGNIÇÃO MAIS AMPLA. NULIDADE. NECESSIDADE DE PREJUÍZO. SÚMULA No 83/SRJ. DECISÃO MANTIDA. 1(...) 2. A pretensão de verificar se válida a citação somente se processa mediante o reexame do conjunto probatório carreado aos autos, o que encontra óbice na Súmula no 7/STJ. (...) 4. Agravo interno não provido. (AgInt no REsp 1342007/SP, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, j. em 20/08/2019, DJe 23/08/2019)” (grifei).
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA. 1. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos a teor do que dispõe a Súmula n. 7 do STJ. 2. No caso concreto, a análise das razões apresentadas pela recorrente, quanto à ausência de preenchimento dos requisitos para a validade da citação, demandaria o reexame de matéria fática, o que é vedado em recurso especial. (...) 5. Agravo interno a que se nega provimento. (AgInt no AREsp 1451350/SP, Rel. Min. ANTONIO CARLOS FERREIRA, QUARTA TURMA, j. em 14/09/2020, DJe 22/09/2020)” (grifei).
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CITAÇÃO. OCORRÊNCIA. REEXAME DE PROVAS. SÚMULA 7/STJ. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. PROVIMENTO PARCIAL. 1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ). 2. Descabida a majoração de honorários advocatícios, porque a decisão alvo do recurso especial tem natureza interlocutória, não comportando o estabelecimento de verbas sucumbenciais. 3. Agravo interno parcialmente provido. (AgInt no AREsp 1300685/SP, Rel. Min. MARIA ISABEL GALLOTTI, QUARTA TURMA, j. em 20/02/2020, DJe 04/03/2020)” (grifei).
+Assim, insuscetível de revisão o entendimento firmado pelo Tribunal por demandar o reexame do conjunto fático-probatório, vedada está a análise da referida questão pelo STJ, razão pela qual a alegada negativa de vigência ao art. 334, § 9°, do CPC não enseja o juízo positivo de admissibilidade.
+Registre-se, por fim, que resta prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 07 do STJ. A propósito, o entendimento da Corte Superior é no sentido de que: “a incidência da Súmula 7 do STJ, prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte” (AgInt no REsp 1884179/PR, Rel. Min, NANCY ANDRIGHI, TERCEIRA TURMA, j. em 30/11/2020, DJe 02/12/2020).
+A Corte Superior de Justiça vem reiteradamente decidindo que quando houver negativa de seguimento do recurso especial pela alínea “a”, fica, de igual forma, obstado o seguimento do recurso interposto também pelo fundamento da alínea “c”. Nesse sentido:
+“PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE VENCIMENTOS. MILITAR. CONTRATO DE MÚTUO. INADIMPLEMENTO. CONSIGNAÇÃO EM FOLHA DE PAGAMENTO. SUPOSTA OFENSA AOS ARTS. 489 DO CPC/2015 E 14, § 3o, DA MP 2.215-10/2001. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. HISTÓRICO DA DEMANDA (...) IMPOSSIBILIDADE DE CONHECIMENTO DO RECURSO. (...). 7. Destaque-se que fica prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional. (...). Recurso Especial não conhecido. (REsp 1746018/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, j. em 16/06/2020, DJe 18/09/2020)” (grifei).
+Diante desse quadro, inviável também a admissão do recurso com base na alínea “c” do art. 105, III, da CF.
+Ante o exposto, nego seguimento ao recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
