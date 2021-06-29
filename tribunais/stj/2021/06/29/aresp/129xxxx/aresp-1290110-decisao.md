@@ -1,0 +1,49 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AÇÃO RESCISÓRIA. ICMS. DIFERENCIAL DE ALÍQUOTA. TRIBUNAL DE ORIGEM CONSIGNOU OCORRÊNCIA DE ERRO DE FATO NA SENTENÇA RESCINDENDA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356, AMBAS DO STF.ALTERAÇÃO DO JULGADO QUE DEMANDA REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. APLICAÇÃO DASÚMULA7/STJ .AGRAVO  EM  RECURSO  ESPECIAL  DA EMPRESA  A  QUE  SE  NEGA  PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu o Recurso Especial interposto por NO TROTE - CONFECÇÕES E CALÇADOS LTDA.,com fundamento no art. 105, inciso III, alínea a, da CF/1988, no qual se insurge contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul,assim ementado:
+AÇÃO RESCISÓRIA. DIREITO TRIBUTÁRIO. ICMS. DIFERENCIAL DE ALÍQUOTA. SIMPLES NACIONAL. JULGAMENTO DO PROCESSO DE ACORDO COM COISA JULGADA INEXISTENTE. ERRO DE FATO. ART. 966, VIII, CPC.
+Hipótese em que a sentença rescindenda incorreu em erro de fato, na forma do art.966, VIII do CPC, visto que se baseou em coisa julgada inexistente para declarar a inexistência de débito. Juízo rescidente julgado procedente.
+Quanto ao juízo rescisório, tem-se por legítima a cobrança de diferencial de alíquota prevista pela Lei Estadual n. 8.820/1989 em seu art. 24, § 8º, com a alteração dada pela Lei nº 12.741/2007, ainda que por empresas optantes do Simples Nacional. Há previsão legal expressa a este respeito no artigo 13, §1º, XIII, alíneas g e h, e §5º, todos da Lei Complementar 123/2006 e o entendimento acerca desta questão está consolidado na jurisprudência do STJ e deste Estado.
+AÇÃO RESCISÓRIA JULGADA PROCEDENTE. UNÂNIME(fl. 426).
+2.Nas razões do seu Recurso Especial (fls. 455/472), a parte ora agravante sustenta ter havido violação aoart. 966, VIII, do CPC/2015, asseverando que não cabe ação rescisória como substituição de recurso não recebido por intempestividade
+3. Defende a reforma do acórdão recorrido, a fim de que(a) julgue improcedente a ação rescisória manejada para desconstituir a sentença rescindenda; e (b) mantenha a procedência da ação declaratória n. 055/1.13.0001500-8 que declarou inexistente o crédito tributário decorrente dos ALs 0026197715 e 0026197774(fl. 471).
+4. Requer seja dado provimento recursal para determinar o prosseguimento do cumprimento de sentença com a inclusão do sócio-gerente da executada em seu polo passivo (fl. 96).
+5. Apresentadas as contrarrazões (fls. 532/542), o recurso foi inadmitido na origem (fls. 561/571), o que ensejou a interposição do presente Agravo (fls. 581/595).
+6. É o relatório.
+7. A irresignação não merece prosperar.
+8. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+9.  No  enfrentamento  da  matéria,  o  Tribunal  de  origem  lançou  os  seguintes  fundamentos:
+Tenho que a ação rescisória deve ser julgada procedente.
+Cumpre detalhar os autos.
+Na ação originária, o autor postulava a declaração de "inexistência de qualquer débito tributário decorrente dos autos de infração - AL 0026197715 e AL0026197774 - referentes ao recolhimentodo diferencial de alíquota do ICMS" (fl. 42). Esses autos de lançamento, como se verifica das fls. 79/89 e 91/103 da presente ação, consubstanciam débitos referentes ao diferencial de alíquota de ICMS, com vencimento nos exercícios de 2009 a 2012 (fls. 80 e 92/93, respectivamente).
+O pedido da ação foi julgado procedente com base na pressuposição de existência de coisa julgada, nos seguintes termos:
+Estão presentes as condições da ação, bem como os pressupostos necessários à constituição válida e regular do processo, motivo pelo qual inexiste óbice à apreciação do mérito.
+Cumpre destacar, além disso, o cabimento do julgamento antecipado da lide, visto que a matéria discutida nos autos é preponderantemente de direito e está embasada em prova documental suficiente (artigo 330, inciso I, do Código de Processo Civil).
+Inicialmente analiso o primeiro fundamento aventado pela autora para a impossibilidade de cobrança dos valores pretendidos pelo ERGS, qual seja, de que tal cobrança estaria vedada contra si em razão da sentença proferida no processo judicial de nº 001/1.06.0103303-9.
+Com efeito, razão assiste à autora, conforme se depreende da leitura da sentença de fls. 102/108 o julgador declarou o direito da autora em nãoser obrigada a comprovar o recolhimento da diferença entre a alíquota interestadual e a interna quando da entrada de mercadorias destinadas a revenda.
+Assim, ilícita a cobrança consubstanciada nos autos de infração impugnados, pois ofende a coisa julgada.
+Não prospera o argumento do demandado, conforme já explicitado na decisão de fl. 119, pois a alteração legislativa não altera o fundamento da decisão judicial, pois continua relegando a regulamentos expedidos pelo poder executivo o estabelecimento dos casos em que exigível o pagamento antecipado do imposto.
+Portanto, ofensiva a coisa julgada a lavratura dos autos de infração AL 0026197715 e AL 0026197774, sendo de rigor a declaração de sua inexigibilidade.
+Ante o exposto, confirmo a liminar concedida e julgo PROCEDENTE o pedido de NO TROTE - CONFECÇÕES E CALÇADOS LTDA em face do ESTADO DO RIO GRANDE DO SUL, para declarar inexistente o crédito tributário decorrente dos AL 0026197715 e AL 0026197774, extinguindo o feito, com resolução de mérito, fulcrado no art. 269, I do CPC.
+(..)
+Conforme se verifica, a ação foi julgada procedente sob o argumento que o autor teria adquirido nos autos do Mando de Segurança nº 001/1.06.0103303-9 o direito de não pagar o diferencial de alíquota, portanto, permitir a cobrança nos autos de infração impugnados caracterizaria ofensa à coisa julgada e ao direito adquirido.
+Ocorre que a decisão nos autos do Mandado de Segurança não havia transitado em julgado; não havia sido realizado o exame do recurso necessário previsto à época no art. 12 da Lei do nº 1.533/51.
+Com efeito, os autos vieram remetidos a esse Egrégio Tribunal de Justiça e a E. Desª. Marilene Bonzanini conquanto tenha decidido que a sentença deveria manter-se hígida, excecionou a possibilidade de cobrança do diferencial de alíquota por fatos geradores posteriores à vigência da Lei Estadual nº 12.741/2007. Eis a ementa do julgado:
+(..)
+Possível depreender-se, portanto, que a sentença da ação ordinária nº 055/113.000150-8, prolatada em 09/12/2014 (fl. 148), foi efetivamente fundamentada em fato inexistente - o trânsito em julgado da decisão do mandado de segurança nº 001/1.06.0103303-9.
+Dessa forma, a sentença incorreu em erro de fato, na forma do art. 966, VIII do CPC, impondo-se a procedência do pleito rescidente.
+Quanto à higidez dos autos de infração, recordo que os débitos que dão base aos AIS são referentes aos exercícios de 2009 a 2012 (fls. 80 e 92/93). Portanto, dizem respeito a fato gerador constituído na vigência da Lei Estadual nº 12.741/2007.
+Saliento, nesse aspecto, que a edição da referida Lei deu nova redação ao artigo 24 da Lei nº 8.820/89, permitido o recolhimentoantecipado do imposto e derrocando com o argumento anterior, de que tal regime não poderia ser instituído por mero decreto:
+Art. 24 - O imposto será pago em estabelecimento bancário credenciado, na forma e nos prazos previstos em regulamento.
+(..)
+§ 8º - O imposto será pago antecipadamente, total ou parcialmente, no momento da entrada das mercadorias relacionadas em regulamento no território deste Estado, se recebidas de outra unidade da Federação por estabelecimento que comercialize mercadorias.
+(..)
+Assim, perfeitamente legítima a antecipação prevista pela Lei Estadual n. 8.820/1989 em seu art. 24, § 8º, com a alteração dada pela Lei nº 12.741/2007, ainda que por empresas optantes do Simples Nacional. Há previsão legal expressa a este respeito, no artigo 13, §1º, XIII, alíneas g e h, e § 5º, todos da Lei Complementar 123/2006e o entendimento acerca desta questão está consolidado na jurisprudência do STJ e deste Estado. Neste sentido, exemplificativamente:
+(..)
+Desse modo, é possível a exigência do diferencial de alíquota de ICMS, mesmo se tratando de empresa optante do Simples Nacional.
+Por decorrência lógica, não deve ser provido o pedido da ação originária, devendo ser reconhecida a validade dos autos de infração de números 0026197715 e 0026197774(fls. 428/436, grifou-se).
+10. Ao que se observa, o tema referente ao descabimento de Ação Rescisória em substituição ao recurso de Apelação não recebido por intempestividade não foi debatido na origem, e tampouco houve interposição de Embargos de Declaração para sanar a omissão. Logo, é notória a ausência de prequestionamento, o que faz incidir o óbice das Súmulas 282 e 356, ambas do STF.
+11. Ademais, diante das circunstâncias específicas da causa, delineadas no acórdão recorrido, incabível o acolhimento do Apelo Nobre. Isto porque,para  acolher  a  pretensão  recursal,  a  fim  de  modificar  o  entendimento  firmado  no  acórdão  recorrido  demandaria,  necessariamente,  o  reexame  do  acervo  fático-probatório  dos  autos  ,  sendo  inviável  tal  discussão,  na  via  eleita,  ante  o  óbice  da  Súmula  7/STJ  .
+12. Pelas considerações expostas, nega-se provimento ao Agravo em Recurso Especial interposto pela empresa NO TROTE - CONFECÇÕES E CALÇADOS LTDA.
+13. Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+14.  Publique-se.  Intimações  necessárias.
