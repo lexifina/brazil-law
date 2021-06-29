@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REDISCUSSÃO DO MÉRITO. VIZIVALI. TEMA 928.DISTINGUISHING. INCABÍVEL.
+1. A retificação de acórdão só tem cabimento nas hipóteses de inexatidões materiais, erros de cálculo, omissão, contradição ou obscuridade.
+2. Não se verifica nenhuma das hipóteses ensejadoras de embargos de declaração. Se o acórdão decidiu contrariamente às pretensões da parte, não será na via dos embargos declaratórios que buscará reformar o decisum, sob pena de se lhes atribuir efeitos infringentes, hipótese só admitida excepcionalmente.
+3. O requerimento previsto no art. 1037, §§ 9º e 10º, do CPC/2015, chamado pela parte peticionante de "distinguishing", dirige-se aos casos de sobrestamento supostamente indevido do processo, não servindo ao objetivo de reformar decisões de negativa de seguimento ou de inadmissão de recurso excepcional, contra as quais, em atenção ao disposto no art. 1.030, §§ 1º e 2º, do mesmo Código, são cabíveis, respectivamente, agravo interno e agravo ao tribunal superior.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente alega, em síntese:
+(..)
+2.4. No caso, ao consignar que "o Juiz considerou que a atividade exercida pela autora não caracteriza o exercício do magistério" e que, "por outro lado a autora, em seu apelo não lança argumentos aptos a infirmar a conclusão do juízo", entendeu por bem manter a equiparação da parte autora à condição de estagiária, o que afronta o art. 1.022, II e III, e o art. 1.030, II, ambos do CPC, no que diz respeito ao errôneo enquadramento da autora como estagiária.
+2.5. Contudo, o caso dos autos diz respeito a "professor" que detinha vínculo formal com instituição pública ou privada, i.e., de responsabilidade exclusiva da UNIÃO, consoante Recurso Repetitivo, uma vez que, à época da matrícula no curso, a Embargada era atendente de creche/monitora (ev. 66, DECL3, do processo originário e ev. 204, EMBDECL1, do presente feito recursal) e, ainda por cima, detinha, desde 1999, habilitação plena para o exercício do magistério (ev. 01, OUT3, do processo originário).
+2.6. Dessa forma, resta comprovada a afronta ao art. 1.022, II e III, e ao art. 1.030, II, ambos do CPC, bem como dá ensejo ao dissenso jurisprudencial quanto aos REsp. nº 1.487.139/PR e 1.498.719/PR, julgados sob a sistemática de recurso repetitivo. Isso porque a Recorrente, já à época do início do Programa Especial, exercia atividades docentes, atuando como atendente de creche/monitora, mediante vínculo formal, celetista, inclusive com habilitação plena para o exercício do magistério.
+(..)
+O Ministério Público emitiu parecer assim ementado:
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS. DIVERGÊNCIA JURISPRUDENCIAL.ACÓRDÃO QUE ESTÁ DE ACORDO COM ORIENTAÇÃO CONSOLIDADA EM RECURSO REPRESENTATIVO DA CONTROVÉRSIA - TEMA 928/STJ. NECESSIDADE DE REEXAME DE FATOS E PROVAS.SÚMULA 7/STJ. NÃO CONHECIMENTO. AFRONTA AO ART. 1.022 DO CPC. DECISÃO QUE APRECIOU DE FORMA SUFICIENTE AS QUESTÕES PERTINENTES AO DESLINDE DA CAUSA. OFENSA INEXISTENTE.
+1. É inadmissível recurso especial interposto com fundamento na ocorrência de divergência jurisprudencial quando o acórdão recorrido está de acordo com o entendimento consolidado do Superior Tribunal de Justiça, em julgamento de recurso representativo da controvérsia (Tema 928/STJ).
+2. O Tribunal a quo, em juízo de retratação, aplicou a tese decidida nos Recursos Especiais nº 1.487.138/PR e nº 1.498.719/PR, no sentido de que, " I nexistindo ato regulamentar, seja do Conselho Nacional de Educação, seja do Conselho Estadual de Educação do Paraná, sobre a regularidade do Programa Especial de Capacitação de Docentes executado pela Fundação Faculdade Vizinhança Vale do Iguaçu relativamente a alunos estagiários, descabe falar em condenação dos aludidos entes, devendo a parte que entender prejudicada postular a indenização em face, tão somente, da instituição de ensino". Concluir de forma diversa, no sentido de que, no caso, monitora de creche equivaleria à atividade docente, e não de estagiária, seria necessário revolver o contexto fático- probatório, tarefa que é inadmissível na via estreita do apelo excepcional (Súmula 7/STJ).
+3. Inexiste violação ao art. 1.022 do CPC quando as questões relevantes para a solução da demanda são enfrentadas pelo Tribunal a quo, com exame satisfatório dos argumentos trazidos pelas partes, e a decisão é fundamentada, com efetiva entrega da prestação jurisdicional.
+4. Parecer pelo conhecimento do agravo, para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8.6.2021.
+O Tribunal de origem, ao decidir avexata quaestio,consignou:
+(..)
+A decisão objeto de retratação considerou a parte autora como estagiária e afastou a determinação de registro de diploma, mantendo a condenação ao pagamento de indenização por dano moral da Faculdade VIZIVALI e incluindo o Estado do Paraná, contudo, no valor que foi majorado para R$ 10.000,00.
+Ao decidir pela manutenção da condenação do Estado do Paraná, contrariou a tese firmada pelo STJ quanto ao Tema 928, no sentido de que, relativamente aos estagiários, descabe falar em condenação dos entes (União e Estado do Paraná), devendo a parte que entender prejudicada postular a indenização em face, tão somente, da instituição de ensino.
+É caso, portanto, de retratação do julgado, no sentido de adequá-lo ao entendimento do STJ para afastar a condenação do Estado do Paraná ao pagamento de indenização por dano moral e material.
+(..)
+Preliminarmente, constata-se que não se configuraofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, manifestando-se de forma clara no sentido de que a parte autora foi considerada estagiária, e não docente.
+Outrossim, extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, especialmente para reavaliar se a parte autora exercia a docência com vínculo formal e se possuía habilitação plena para o exercício do magistério, o que não se admite ante o óbice da Súmula 7/STJ.
+Por fim, aincidência da Súmula 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea "c" do permissivo constitucional, dadoque falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+Por tudo isso, conheço do Agravo para conhecer parcialmente do Recurso Especial, tão somente quanto à violação do art. 1.022 do CPC/2015, e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
