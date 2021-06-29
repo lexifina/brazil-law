@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial sob o fundamento de incidência da Súmula n. 7 do STJ (e-STJ fls. 586/594).
+O acórdão recorrido ficou assim ementado (e-STJ fl. 445):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. CUMPRIMENTO DE SENTENÇA. LEVANTAMENTO DE VALORES INCONTROVERSOS. DESCABIMENTO, NO CASO CONCRETO.
+1. No acórdão proferido pela 8ª Câmara Cível do Tribunal de Justiça do Rio de Janeiro, nos autos dos Embargos de Declaração opostos contra o acórdão proferido no Agravo de Instrumento nº 0034576-58.2016.8.19.0000, sob a Relatoria do Des. Cezar Augusto Rodrigues Costa, restou explicitado que: ".. a suspensão não atinge os valores espontaneamente depositados antes de 21/06/2016, com a finalidade de pagamento, bem como os valores objeto de constrição judicial cuja discussão da matéria tenha se esgotado, seja pelo trânsito em julgado dos embargos à execução, seja pela preclusão da decisão da impugnação, antes de 21/06/2016 , independentemente de certidão cartorária".
+2. No caso concreto, a ré opôs impugnação ao pedido de cumprimento de sentença em 05/10/2016, através da qual alegou que, embora a parte impugnada busque o recebimento de R$ 163.501,60, entende devido somente o valor de R$ 145.994,92. Outrossim, a penhora on line do valor apresentado pela parte credora como devido foi realizada em 18/08/2016, posteriomente à data admitida pela 8ª Câmara Cível do Tribunal de Justiça do Rio de Janeiro, como antes mencionado. Por esse motivo, descabido, neste momento, o levantamento de valores pela parte credora.
+AGRAVO DE INSTRUMENTO INTERPOSTO PELA RÉ PROVIDO. UNÂNIME.
+Os embargos declaratórios foram rejeitados (e-STJ fls. 461/464).
+No recurso especial (e-STJ fls. 474/484), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente apontou, além de divergência jurisprudencial, violação dos arts. 6º, caput, 49, 51, III, e 52, III, da Lei n. 11.101/2005 e 111 do CC/2002, sustentando, em síntese, a possibilidade de liberação dos valores incontroversos depositados a título de garantia do juízo, pois o reconhecimento do valor devido pela devedora e a consolidação da penhora ocorreram antes do ajuizamento do pedido de recuperação judicial.
+No agravo (e-STJ fls. 599/606), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Não foi apresentada contraminuta (e-STJ fls. 647/648).
+É o relatório.
+Decido.
+O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela impossibilidade de liberação dos valores, assim se pronunciando (e-STJ fl. 463):
+No caso em exame, não merece prosperar a alegação do embargante, na medida em que, não obstante a empresa tenha reconhecido expressamente como valor devido R$ 145.994,92, tal quantia tornou-se incontroversa apenas em 05/10/2016, quando oposta a impugnação ao cumprimento de sentença (fls. 332/342 dos autos do Agravo de Instrumento nº 70076950823) ou seja, posteriormente à data admitida pela 8ª Câmara Cível do Tribunal de Justiça do Rio de Janeiro, o que obsta o levantamento destes valores.
+Rever esse entendimento demandaria o reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/15. ALEGADA OMISSÃO. NÃO OCORRÊNCIA. COMPETÊNCIA EXCLUSIVA. FALTA DE PREQUESTIONAMENTO. RECUPERAÇÃO JUDICIAL. LEVANTAMENTO DE VALORES. REQUISITOS. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO. AGRAVO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1.022 CPC/15 quando a matéria alegadamente omissa, relativa à questão do preenchimento dos requisitos para o levantamento de valores, foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte agravante.
+2. A matéria relativa à alegação de competência exclusiva não foi apreciada pela Corte local, carecendo do indispensável prequestionamento.
+3. O exame da pretensão recursal de reforma do v. acórdão recorrido exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+4. "A jurisprudência deste Tribunal Superior firmou-se no sentido de que decisão monocrática proferida por Relator não é admitida para fins de comprovação do dissídio jurisprudencial, pois a manifestação unipessoal do relator não compreende o conceito coletivo de "tribunal" almejado pela Constituição Federal" (AgInt no REsp 1765964/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/12/2018, DJe 14/12/2018).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1815501/RS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/4/2021, DJe 3/5/2021.)
+Com relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a recorrente não se desincumbiu.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
