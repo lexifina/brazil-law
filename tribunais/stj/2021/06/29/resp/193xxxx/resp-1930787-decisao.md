@@ -1,0 +1,61 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que EDER MESQUISTA (EDER) ajuizou cumprimento de sentença, objetivando o recebimento de honorários sucumbenciais contra ROOZ DESIGN STÚDIO INDUSTRIA E COMÉRCIO DE PROTÓTIPO LTDA. (ROOZ).
+No curso da demanda, o d. Juízo da causa acolheu o pedido de desconsideração da personalidade jurídica feito por EDE, para incluir no polo passivo ROSSIN AUTOMOTIVA S/A (ROSSIN), SERGIO ROSSIN (SÉRGIO) e RICARDO APARECIDO PREMASI (RICARDO).
+Contra essa decisão, ROOZinterpôs agravo de instrumento, aduzindo, em síntese,o descabimento da desconsideração determinada, vez que não comprovados os requisitos necessários.
+O Tribunal de Justiça de São Paulo negou provimento ao recurso, nos termos do acórdão relatado pelo Des. MAURO CONTI MACHADO, assim ementado:
+Agravo de Instrumento Cumprimento de sentença Pedido de desconsideração da personalidade jurídica Artigo 50, do Código Civil A desconsideração da personalidade jurídica da empresa é medida grave que somente se justifica com a comprovação da prática de atos irregulares de seus administradores, que, agindo contrariamente às finalidades estatutárias ou abusando da personalidade jurídica da pessoa jurídica, venham a causar prejuízos a terceiros Ainda que as declarações apresentadas à autoridade fiscal informem aparente inatividade da empresa, impende esclarecer que a devedora, além de não ter averbado o formal encerramento da atividade na Junta Comercial, não se preocupou em liquidar previamente os débitos então existentes, tornando irregular dito encerramento - Havendo o fechamento irregular da empresa, que, diga-se, não possui qualquer patrimônio penhorável, bem como inequívoca a ausência de qualquer preocupação da devedora em quitar seus débitos, com os sócios apoiando-se na pessoa jurídica como escudo para se us patrimônios, afigura-se, de rigor, a desconsideração de sua personalidade jurídica Recurso a que se nega provimento (e-STJ, fl. 168).
+Irresignado, ROSSIN manejou recurso especial com fundamento no art.105, III, ada CF, alegando a violação doart. 50 do CC/02, aduzindo, em síntese, que não se fazem presentes os pressupostos de admissibilidade da desconsideração da personalidade jurídica.
+As contrarrazões foram apresentadas (e-STJ, fls. 185/190).
+O apelo nobre foi admitido o TJSP (e-STJ, fls. 191/192).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da desconsideração da personalidade jurídica
+ROSSIN aduzindo, nas razões da sua insurgência especialque não se fazem presentes os pressupostos de admissibilidade da desconsideração da personalidade jurídica.
+Quanto ao tema, os julgadores do Tribunal bandeirante assim consideraram:
+Como é sabido, o pedido de desconsideração da personalidade jurídica da empresa traduz medida grave que somente se justifica com a comprovação da prática de atos irregulares de seus administradores, que, agindo contrariamente às finalidades estatutárias ou abusando da personalidade jurídica da empresa, venham a causar prejuízos a terceiros.
+Por outras palavras, a desconstituição da personalidade jurídica será cabível quando a sociedade tenha sido utilizada com intuito fraudulento ou abusivo, nos termos do disposto no artigo 50, do Código Civil:
+"Em caso de abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial, pode o juiz decidir, a requerimento da parte, ou do Ministério Publico quando lhe couber intervir no processo, que os efeitos de certas e determinadas relações de obrigações sejam estendidos aos bens particulares dos administradores ou sócios da pessoa jurídica".
+O saudoso mestre Sílvio Rodrigues ensina que "quando se recorre à ficção da pessoa jurídica para enganar credores, para fugir à incidência da lei ou para proteger um ato desonesto, deve o juiz esquecer a ideia da personalidade jurídica para considerar os seus componentes como pessoas físicas e impedir que por meio do subterfúgio prevaleça o fraudulento" 1 .
+Nesse sentido segue a lição de Carlos Roberto Gonçalves:
+"Mas como ressalta Fábio Ulhoa Coelho, "ela (refere-se à confusão patrimonial) não exaure todas as hipóteses em que cabe a desconsideração, na medida em que nem todas as fraudes traduzem confusão patrimonial". Assiste razão ao mencionado autor quando, na seqüência, sustenta que a formulação objetiva da teoria da desconsideração deve ser adotada "como o critério para circunscrever a moldura de situações em que cabe aplicá-la, ou seja, ela é a mais ajustada à teoria da desconsideração. A formulação objetiva, por sua vez, deve auxiliar na facilitação da prova pelo demandante. Quer dizer, deve-se presumir a fraude na manipulação da autonomia patrimonial da pessoa jurídica se demonstrada a confusão entre os patrimônios dela e de um ou mais de seus integrantes, mas não se deve deixar de desconsiderar a personalidade jurídica da sociedade, somente porque o demandado demonstrou ser inexistente qualquer tipo de confusão patrimonial, se caracterizada, por outro modo, a fraude. Nessa linha, têm os tribunais determinado a desconsideração da personalidade jurídica nos casos em que a promiscuidade patrimonial é demonstrada, autorizando a penhora de bem dos sócios, pois trata de eloqüente indicativo de fraude. É possível reconhecer-se o abuso da personalidadejurídica, e aplicar a disregard doctrine, no processo de execução, sem necessidade de processo autônomo, quando não encontrados bens do devedor e estiverem presentes os pressupostos que autorizam a sua invocação, requerendo-se a penhora diretamente em bens do sócio (ou da sociedade, em caso de desconsideração inversa). O redirecionamento da ação exige, contudo, citação do novo executado, se não participou da lide".
+2 No caso em tela, ainda que as declarações apresentadas à autoridade fiscal informem aparente inatividade da empresa (fl. 143/147), impende esclarecer que a devedora, além de não ter averbado o formal encerramento da atividade na Junta Comercial (fl. 13, dos autos originais do processo eletrônico), não se preocupou em liquidar previamente os débitos então existentes, tornando irregular dito encerramento.
+Destarte, havendo o fechamento irregular da empresa, que, diga-se, não possui qualquer patrimônio penhorável, bem como inequívoca a ausência de qualquer preocupação da devedora em quitar seus débitos, com os sócios apoiando-se na pessoa jurídica como escudo para seus patrimônios, afigura- se, de rigor, a desconsideração de sua personalidade jurídica (e-STJ, fls. 169/171, sem destaques no original).
+Nesse contexto, oTJSP, após análise do conjunto fático-probatório dos autos, concluiu pelo encerramento irregular da empresa ROOZ, justificando-se a desconsideração da personalidade jurídica.
+Dessa forma, para se chegar a conclusão diversa da que chegou o Tribunal bandeirantes, seria inevitável o revolvimento de matéria fática, procedimento sabidamente inviável na instância especial, a teor da Súmula nº 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ART. 50 DO CÓDIGO CIVIL. REQUISITOS. AUSÊNCIA. SÚMULA Nº 7/STJ. NÃO INCIDÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O entendimento do Superior Tribunal de Justiça é no sentido de que a desconsideração da personalidade jurídica a partir da Teoria Maior (art. 50do Código Civil) exige a comprovação de abuso, caracterizado pelo desvio de finalidade ou pela confusão patrimonial, pelo que a mera inexistência de bens penhoráveis ou eventual encerramento irregular das atividades da empresa não justifica o deferimento de tal medida excepcional.
+3. A falta de integralização do capital da sociedade limitada também não pode ser considerada como fundamento suficiente para a desconsideração da personalidade jurídica.
+4. Não há falar em incidência da Súmula nº 7/STJ porque a solução da controvérsia cinge-se a discutir aqualificação jurídica dos fatos delineados no acórdão recorrido.
+5. Agravo interno não provido.
+(AgInt no AgInt no ARESP n. 1593637/SP, Rel. MinistroRICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 1/6/2021,DJe 17/6/2021, sem destaques no original).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA DA AGRAVANTE.
+1.  .. .
+2. A revisão dos fundamentos que ensejaram a conclusão pela instância ordinária de que estão presentes os requisitos para a desconsideração da personalidade jurídica da empresa ré e a inclusão dos sócios no polo passivo da execução, ante a existência de fraude e de confusão patrimonial, exigiria reapreciação do conjunto probatório, o que é vedado em recurso especial, ante o teor da Súmula 7 do STJ. Precedentes.
+2.1 Prescindibilidade de prévia citação dos sócios atingidos pela mencionada medida constritiva excepcional, a qual pode ser deferida de forma incidental, nos termos do CPC/73, garantindo-se aos executados o exercício diferido do direito ao contraditório e à ampla defesa. Incidência do enunciado contido na Súmula 83/STJ.
+3. Esta Corte Superior de Justiça tem entendimento no sentido de que a incidência do óbice contido na Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1366286/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, j.em 30/03/2020, DJe 01/04/2020).
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), NÃO CONHEÇO do recurso especial.
+Inaplicável a majoração dos honorários advocatícios.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS.
+FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS.
+APLICAÇÃO DA SÚMULA Nº 284 DO STF, POR ANALOGIA.
+TRATAMENTO MÉDICO. MODALIDADE HOME CARE.
+NECESSIDADE CARACTERIZADA. REFORMA DO JULGADO.
+ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..  3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.818.249/SP, de minha relatoria, TERCEIRA TURMA, julgado em 18/5/2021, DJe 20/5/2021) O recurso, portanto, não merece ser conhecido quanto ao ponto.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL. RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. OMISSÃO.INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. AUSÊNCIA DOS REQUISITOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS.
+INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.RECURSO ESPECIAL NÃO CONHECIDO.
