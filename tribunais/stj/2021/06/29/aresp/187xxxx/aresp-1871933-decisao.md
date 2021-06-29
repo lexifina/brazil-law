@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência das Súmulas n.282 e 356 do STF (e-STJ fls. 442/445).
+O acórdão do Tribunal de origem está assim ementado (e-STJ fl. 389):
+EMENTA -AGRAVO DE INSTRUMENTO - EXPURGOSINFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - Matériasaduzidas cm sede de impugnação- Agravo em que se apresentamnas razões recursais as mesmas matérias anteriormente debatidasem recurso interposto pelo próprio agravante - Impossibilidade derepetição de matérias.
+AGRAVO DE INSTRUMENTO - EXPURGOSINFLACIONÁRIOS - AÇÀO CIVIL PÚBLICA - Compensaçãode valores - Diferença pretendida pelo agravado - Discussãodescabida cm virtude do manto da coisa julgada que sobre o temarecaiu - índices envolvidos que igualmente já foram anteriormentedefinidos - Índices sobre os quais cabia alguma consideração queficarão na forma estabelecida neste julgado.
+AGRAVO DE INSTRUMENTO - EXPURGOSINFLACIONÁRIOS - ACÀO CIVIL PÚBLICA - Litigância demá-fé - Ocorrência - Agravante que insiste em querer debaterquestões já definidas, com tentativa de induzir o juízo a ERRO eutilizando-se do recurso de modo protelatório - Pagamento demulta no importe de 9,9% do valor corrigido da causa -Inteligência dos art. 80, inc.II e VII,e 81,ambos do CPC.
+AGRAVO DE INSTRUMENTO - EXPURGOSINFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - EXECUÇÃOINDIVIDUAL - HONORÁRIOS ADVOCAI ÍCIOS - Pretendidaexclusão - Decisão agravada, contudo, que não arbitrou talcondenação - Ausência de interesse recursal - Não conhecimento.Recurso conhecido em parte e,na parte conhecida, desprovido.
+Nas razões do recurso especial (e-STJ fls. 394/430), fundamentado no art. 105, III, "a", da CF, o recorrente aduziu violação:
+(a) dos arts. 17, 485, VI,1.035 e 1.036 do CPC/2015, alegando que: (i)"não sendo a Recorrida beneficiária da sentença civil pública prolatada pelo Juízo de Direito da 6ª Vara da Fazenda Pública do Foro Central de São Paulo, sob o n. 0403263-60.1993.8.26.0053 (053.93.403263-9), carece ela de título líquido, certo e exigível que ampare o cumprimento de sentença deflagrada em face do Banco, conforme impõe o artigo 783, do Código de Processo Civil" (e-STJ fl. 406) e(ii) o processo deveria ser suspenso, ante a decisão proferida pelo STJ no REsp n. 1.438.236/SP (e-STJ fls. 400/406),
+(b) dos arts. 627 do CC/2002 e1.265 do CC/1916, porque o termo final dos juros remuneratórios, caso considerados devidos, seria a data de encerramento da conta-poupança (e-STJ fls. 409/411),
+(c) dos arts. 485, VI, e 783 do CPC/2015 e 16 da Lei n. 7.347/1985,uma vez que,"não sendo a Recorrida beneficiária da sentença civil pública prolatada pelo Juízo de Direito da 6a Vara da Fazenda Pública do Foro Central de São Paulo, sob o n. 0403263-60.1993.8.26.0053 (053.93.403263-9). carece ela de título líquido, certo e exigível que ampare o cumprimento de sentença deflagrada em face do Banco, conforme impõe o artigo 783, do Código de Processo Civil" (e-STJ fl. 413),
+(d)dos arts. 240 do CPC/2015 e 405 do CC/2002, pois o termo inicial dos juros de mora seria a citação no cumprimento de sentença, não na ação civil pública (e-STJ fls. 416/418),
+(e) dos arts. 95, 97 e 98 do CDC e 509, II, do CPC/2015, por entender que a sentença proferida na ação civil pública ajuizada pelo IDEC, por ser genérica e tratar de direitos individuais homogêneos, exigiria prévia liquidação por artigos, não bastando meros cálculos aritméticos para definir a titularidade do crédito e o valor devido (e-STJ fls. 418/425), e
+(f) do art. 1º, § 2º, da Lei n. 6.899/1981, sustentando que "a Tabela Prática do TJ não se presta à atualização de débito da natureza do pretendido na presente ação (cobrança de diferença creditada a menor em conta de depósito de caderneta de poupança em razão do advento do Plano Verão) uma vez que o caso dos autos possui critério próprio e específico de remuneração" (e-STJ fl. 426).
+Alegou que:
+(a) seria necessário suspender o processo, em atenção ao art. 1.036do CPC/2015, ante a decisão de afetação exarada pelo STJ no REsp n. 1.438.263/SP, sobre o tema (e-STJ fls. 398/399),
+(b) os juros remuneratórios teriam incidência única no mês de fevereiro de 1989 (e-STJ fls. 406/409), e
+(c) seria manifestamente incabível a condenação do recorrente por litigância de má-fé (e-STJ fls. 427/428).
+Sem contrarrazões (e-STJ fl. 441).
+No agravo (e-STJ fls. 448/486), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 495).
+É o relatório.
+Decido.
+Súmula n. 284/STF
+Nas razões recursais, o recorrente não indicou a legislação federal objeto de afronta pela Corte de origem ao argumentar sobre a incidência única dos juros remuneratórios no mês de fevereiro de 1989 (e-STJ fls. 406/409)e sobrea impossibilidade de ser condenado nas penas porlitigância de má-fé (e-STJ fls. 427/428).
+Ausente citada providência, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF como óbice ao recurso.
+A propósito: "No recurso interposto pela alínea "a" do permissivo constitucional é imprescindível a individualização do artigo de lei federal tido por violado, sem o que incide, por analogia, a Súmula 284 do STF" (AgInt no AREsp n. 623.110/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/9/2017, DJe 2/10/2017).
+Súmulas n. 282, 283 e 356 do STF
+O TJSP não examinou as teses apresentadas pelo recorrente no agravo de instrumento ao reconhecer a existência de preclusão para discutir tais matérias anteriormente suscitadas na impugnação ao cumprimento de sentença e que se encontram cobertas pelo manto da coisa julgada, assentando que (e-STJ fl. 390):
+Primeiramente, deixe-se assentado que o agravante ao apresentar razõesrecursais o faz para reeditar matérias que aduziu em sede de impugnação e foram todasrejeitadas, inclusive em sede de agravo de instrumento.Ora, como ocorreu desta forma, não pode agora o agravante pretenderretroceder no tempo para ver sua argumentação, oportuna e regularmente afastada,reapreciada, pelo simples fato que sobreveio sobre os temas decididos, preclusão.
+No que toca à verba honorária, falta ao agravante interesse recursal, namedida em que a decisão agravada não lhe impôs o pagamento de aludida condenação.
+Com relação a não ser devida a diferença pretendida pelo agravado nãohá o que se discutir, uma vez que este tema central da lide existente entre as partes já foidebatido amplamente pelas partes na fase instrutória do processo, e definitivamenteequacionado na sentença proferida na Ação Civil Pública, decisão essa última, inclusive,com trânsito em julgado, sendo absurdamente descabida a tentativa de vir a discutir oagravante questão coberta pelo manto da coisa julgada, conduta que qualifica má-fé, pelaqual merece sanção.
+A respeito de tal razão de decidir, suficiente para manter o acórdão impugnado, o recorrente não se manifestou, incidindo,por analogia, oóbice da Súmula n. 283/STF.
+Além disso, por falta de debate prévio das teses apresentadas no recurso especial e sem a oposição de aclaratórios para suscitar os temas, ausente está o prequestionamento e por isso aplicam-se as Súmulas n. 282 e 356 do STF como óbice ao exame do recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
