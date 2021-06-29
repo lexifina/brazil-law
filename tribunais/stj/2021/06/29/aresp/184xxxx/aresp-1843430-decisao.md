@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de Agravo interposto contra decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF/1988) no qual se impugna acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+PREVIDENCIÁRIO: APOSENTADORIA POR IDADE. TRABALHADOR RURAL. INÍCIO DE PROVA MATERIAL INSUFICIENTE. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. RESP REPETITIVO 1352721/SP. HONORÁRIOS ADVOCATÍCIOS.
+1. A ausência de prova material apta a comprovar o exercício da atividade rural caracteriza carência de pressuposto de constituição e desenvolvimento válido do processo a ensejar a sua extinção sem exame do mérito.
+2. Revogada a tutela antecipada, devendo eventual devolução dos valores recebidos a este título ser analisada e decidida em sede de execução, nos termos do artigo 302, I, e parágrafo único, do CPC/2015, e de acordo com o que restar decidido no julgamento do Tema 692, pelo C. Superior Tribunal de Justiça.
+3. Honorários de advogado a cargo da autora, que deu causa à extinção do processo sem resolução do mérito, observada a gratuidade da Justiça deferida nos autos.
+4. De ofício, processo extinto sem resolução de mérito. Apelação prejudicada.
+Nas razões do apelo especial, a parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 11, VII, 106 e 143 da Lei 8.213/1991.
+Sustenta, em suma, que, "subsistindo nos autos início de prova material, e tendo a via testemunhal confirmado o trabalho rural desenvolvido pela ora segurada (de modo a possibilitar o alargamento do período constante da documentação, suprindo a carência prevista no art. 142 da Lei n.º 8.213/91), faz jus a parte autora da ação ao benefício postulado" (fl. 133, e-STJ).
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 7 de junho de 2021.
+A irresignação não merece prosperar.
+Para melhor elucidação da matéria, cumpre transcrever, no que interessa, o voto condutor do acórdão objurgado:
+Para a obtenção da aposentadoria por idade, deve o requerente comprovar o preenchimento dos seguintes requisitos: (i) idade mínima e (ii) efetivo exercício da atividade rural, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, por tempo igual ao da carência exigida para a sua concessão, sendo imperioso observar o disposto nos artigos 142 e 143, ambos da Lei nº 8.213/91.
+Feitas essas considerações, no caso concreto, a idade mínima exigida para a obtenção do benefício restou comprovada pela documentação trazida aos autos, onde consta que a parte autora nasceu em 05/03/1952 implementando o requisito etário em 2007.
+E para a comprovação do exercício da atividade rural, a parte autora apresentou cópias de seus documentos pessoais, notas fiscais de produtos agrícolas emitidas em nome do genitor e cópia da escritura do imóvel rural recebido de herança do espólio de seu pai - Antonio José Machado - em 2011, onde está qualificada como "do lar" e seu marido como "construtor".
+Emerge dos autos que o conjunto probatório é insuficiente à comprovação do efetivo exercício pela parte autora da atividade rural pelo período de carência exigido.
+Com efeito, a parte autora deveria ter comprovado o labor rural, mesmo que de forma descontínua, no período imediatamente anterior ao implemento da idade, ao longo de, ao menos, 156 meses, conforme determinação contida no art. 142 da Lei nº 8.213/91.
+E, no caso, ela não logrou acostar nenhum documento capaz em seu nome de caracterizar início de prova material do trabalho rural no período de carência.
+A seu turno, a prova testemunhal não é capaz de, por si só, comprovar o labor campesino no período de carência.
+Lembre-se que a comprovação do tempo de serviço em atividade rural, seja para fins de concessão de benefício previdenciário ou para averbação de tempo de serviço, deve ser feita mediante a apresentação de início de prova material, conforme preceitua o artigo 55, § 3º, da Lei de Benefícios, não sendo admitida prova exclusivamente testemunhal, entendimento cristalizado na Súmula nº 149, do C. STJ: " A prova exclusivamente testemunhal não basta à comprovação da atividade rurícola, para efeito de obtenção do benefício previdenciário".
+Considerando que o conjunto probatório foi insuficiente à comprovação da atividade rural pelo período previsto em lei, seria o caso de se julgar improcedente a ação, não tendo a parte autora se desincumbido do ônus probatório que lhe cabe, ex vi do art. 373, I, do CPC/2015.
+Entretanto, o entendimento consolidado pelo C. STJ, em julgado proferido sob a sistemática de recursos repetitivos, conforme art. 543-C, do CPC/1973 é no sentido de que a ausência de conteúdo probatório eficaz a instruir a inicial, implica a carência de pressuposto de constituição e desenvolvimento válido do processo, impondo a sua extinção sem o julgamento do mérito propiciando à parte autora intentar novamente a ação caso reúna os elementos necessários.
+(..)
+Revogo a tutela antecipada, determinando que a eventual devolução dos valores recebidos a este título seja analisada e decidida em sede de execução, nos termos do artigo 302, I, e parágrafo único, do CPC/2015, e de acordo com o que restar decidido no julgamento do Tema 692, pelo C. Superior Tribunal de Justiça.(fls. 114-116, e-STJ).
+Portanto, nesse contexto, descabe ao Superior Tribunal de Justiça (STJ), neste momento processual, iniciar qualquer juízo valorativo para alterar a referida conclusão, porquanto tal providência demanda reexame de provas, o que encontra óbice da Súmula 7/STJ.A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. ATIVIDADE RURAL. BOIA-FRIA. ATIVIDADE NO PERÍODO DE CARÊNCIA. PREMISSA FÁTICA. INVERSÃO. DESCABIMENTO.
+1. A Primeira Seção, em julgamento proferido sob o rito do art. 543-C do CPC/73, assentou a compreensão de que o trabalhador denominado "boia-fria", em razão das dificuldades inerentes à natureza de seu labor  desprovido de qualquer vínculo formal e, por conseguinte, de documentação específica  pode ter reconhecida sua atividade rural por meio de um início de prova material, em parte do período postulado, desde que corroborado por testemunhos idôneos, colhidos em juízo.
+2. Hipótese em que o Tribunal de origem não reconheceu a pretensão da autora após constatar a ausência de comprovação do exercício de atividade rural no período de carência, de modo que a revisão do julgado demandaria o reexame de prova, inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1858793/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 17/12/2020).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. REQUISITOS LEGAIS. COMPROVAÇÃO. INÍCIO DE PROVA MATERIAL, COMPLEMENTADA POR PROVA TESTEMUNHAL. POSSIBILIDADE. SÚMULAS 7 E 83/STJ. APLICAÇÃO.
+1. Procede o pedido de aposentadoria rural por idade quando atendidos os requisitos previstos nos artigos 11, VII, 48, § lº, e 142 da Lei 8.213/1991.
+2. Comprovados o implemento da idade mínima (60 anos para homens e 55 anos para mulheres) e o exercício de atividade rural por tempo igual ao número de meses correspondente à carência exigida, ainda que a comprovação seja feita de forma descontínua, é devido o benefício de aposentadoria rural por idade à parte autora.
+3. Para o reconhecimento do tempo rural não é necessário que o início de prova material seja contemporâneo a todo o período de carência exigido, desde que a sua eficácia probatória seja ampliada pela prova testemunhal colhida nos autos (REsp 1.650.963/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe 20.4.2017).
+4. Dessume-se que o acórdão recorrido está em sintonia com o atual posicionamento do STJ, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+5. É inviável, ainda, analisar a tese defendida no Recurso Especial de que "o exercício de atividade rural não ficou comprovado, pois se valeu unicamente de documentos em nome do cônjuge, que exerceu atividade urbana", pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido de que "os documentos juntados consubstanciam robusta prova material, corroborada pela testemunhal, do labor rural da autora". Aplica-se o óbice da Súmula 7/STJ.
+6. Agravo conhecido para não conhecer do Recurso Especial .
+(AREsp 1539221/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/10/2019)
+Por fim, consigne-se que a incidência da referida súmula é óbice também para o exame da divergência jurisprudencial, o que inviabiliza o conhecimento do Recurso Especial pela alínea "c" do permissivo constitucional.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
