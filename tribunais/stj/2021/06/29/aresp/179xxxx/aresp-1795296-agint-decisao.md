@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interno interposto por GRD INDÚSTRIA E COMÉRCIO DE PLÁSTICOS LTDA.contra decisão em que a Presidência do STJ rejeitou os embargos de declaração apresentados pela agravante diante da inexistência de vícios na decisão às e-STJ fls. 309/316, pela qual o recurso especial interposto pela Fazenda Nacional foi parcialmente conhecido e improvido.
+A agravante alega, em síntese, que não foi alcançado o percentual máximo de 20% (vinte por cento) estabelecido no CPC/2015, de modo que deve haver a majoração dos honorários advocatícios percentuais.
+Sustenta que "o TRF da 4ª Região majorou em 10% o montante dos honorários advocatícios "fixados anteriormente. Com isso, percebam Eminentes Ministros, que não houve uma majoração do percentual fixado anteriormente, e sim uma majoração do montante dos honorários já fixados" (e-STJ fl. 365).
+Não foi apresentada impugnação pelo agravado (e-STJ fl. 376).
+Pois bem.
+Ao analisar o agravo interno, entendo que a decisão agravada deve ser reconsiderada.
+Compulsando os autos, verifica-se que a verba honorária de sucumbência foi arbitrada, na primeira instância, em10% (dez por cento) sobre o valor da condenação (e-STJ fl. 101); percentualmajorado, na segunda instância, em 10% (dez por cento) (e-STJ fl. 159), o que resultouem honorários de 11% (onze por cento) sobre a mesma base de cálculo (ovalor da condenação).
+Vê-se, portanto, que não foi atingido o limite de 20% (vinte por cento) previsto no § 2º do art. 85 do CPC/2015, tal como tratado na decisão ora agravada (e-STJ fls. 358/359). Assim, considerando o disposto no§ 11do mesmo dispositivo legal, eles (os honorários) hãode ser majorados nesta instância especial, de modo a serem fixadosem12% (doze por cento) sobre o valor da condenação, percentual que entendo adequado ao caso dos autos.
+Anteo exposto, com fundamento no art. 259,caput, do RISTJ, RECONSIDERO a decisão agravada, às e-STJ fls. 358/359, para acolher os embargos de declaração, com efeitos modificativos, a fim demajorara verba honorária de sucumbência, para fixá-laem 12% (doze por cento) sobre o valor da condenação, respeitados os limites e os critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Publique-se. Intimem-se.
