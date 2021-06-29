@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 14, p. 14-15):
+    “AÇÃO CIVIL PÚBLICA AMBIENTAL - DEVASTAÇÃO DE ÁREA DE PRESERVAÇÃO PERMANENTE - MARGEM DE RESRVATÓRIO - FAIXA DE CEM METROS DE ACORDO COM O ART. 2° DO CÓDIGO FLORESTAL E ART. 3°, II e 5° DA RESOLUÇÃO CONAMA 04/85 - LAUDOS PERICIAIS EM DESFAVOR DO PROPRIETÁRIO - RESPONSABILIDADE OBJETIVA DO INFRATOR EM REPARAR O DANO CAUSADO - INTELIGÊNCIA DO § 3°, DO ART. 225, DA CF, E DO § 1°, DO ART. 14, DA LEI FEDERAL N° 6.938/81 - APELO DO RÉU DESPROVIDO E APELO DO MINISTÉRIO PÚBLICO PROVIDO.
+    DIREITO AMBIENTAL - COMPETÊNCIA NORMATIVA - LIMITES DA ÁREA DE PRESERVAÇÃO PERMANENTE NO ENTORNO DE RESERVATÓRIO - RESOLUÇÃO 04/85 DO CONAMA - COMPETÊNCIA DO ÓRGÃO AMBIENTAL CONFERIDA PELOS ARTS. 6°, II, E 8°, VII, AMBOS DA LEI FEDERAL N° 6.938/81 - PRECEDENTES DO STJ E DA CÂMARA RESERVADA AO MEIO AMBIENTE DO TJSP - APELO DO RÉU DESPROVIDO e APELO DO MINISTÉRIO PÚBLICO PROVIDO, COM OBSERVAÇÃO DAS POSSIBILIDADES DE COMPENSAÇÃO AMBIENTAL E ADEQUAÇÃO DO IMÓVEL MEDIANTE ESTRITA CONCORDÂNCIA DO MINISTÉRIO PÚBLICO, A CONSAGRAR A EFETIVIDADE DA TUTELA AMBIENTAL E A VOCAÇÃO DA CÂMARA ESPECIAL DO MEIO AMBIENTE DO TJSP.
+    Apelo do Réu desprovido e apelo do Ministério Público provido, com observação.
+    A tutela ambiental foi enfatizada e fortalecida com o advento da Constituição de 1988 e disso decorre a adequação do papel do CONAMA ao regulamentar preceitos do Código Florestal, editado em 1965, muito antes da consciência ecológica absorvida pelo constituinte.”
+    Os embargos de declaração foram rejeitados (eDOC 19, p. 6).
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, LIV e LV e 93, IX, da Carta da República.
+    Nas razões do recurso, a parte agravante busca demonstrar sua ilegitimidade “tendo em vista não ser o proprietário do terreno autuado, conforme devidamente comprovado através das certidões expedidas pelo Cartório de Registro de Imóveis da Comarca de Bragança Paulista/SP, bem como pelas fotos juntadas e que mostram as exatas divisões dos terrenos e consequentemente os reais proprietários da área que supostamente cometeram atos danosos ao meio ambiente, estes, foram cerceados para defender-se nos autos.” (eDOC 1, p. 14)
+    Sustenta, ainda, a ausência de fundamentação do acórdão impugnado.
+    Os autos retornaram a esta Corte após a determinação de devolução ao Tribunal de origem (eDOC 64).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Conforme se depreende dos fundamentos do acórdão de origem, eventual divergência em relação ao entendimento adotado pelo Colegiado local em relação à propriedade dos terrenos em questão demandaria o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo em virtude da vedação contida na Súmula 279 do STF.
+    Ademais, o acórdão recorrido está devidamente fundamentado, ainda que vá de encontro aos interesses do recorrente.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão .
+    No que diz respeito à ofensa ao art. 5º, LIV e LV, da Constituição, verifico que no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013, Tema 660, o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, do direito adquirido, do ato jurídico perfeito e da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Carta da República, como no caso dos autos.
+    Ante o exposto, nego seguimento ao recurso, nos termos dos arts. 932, IV, b , do CPC e 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de junho de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
