@@ -1,0 +1,71 @@
+DECISÃO
+1. Cuida-se de agravo interposto por OTICON DO BRASIL COMÉRCIO E DISTRIBUIÇÃO DE EQUIPAMENTOS MÉDICOS LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+AGRAVO INTERNO. Apelação cível. Ação monitória. Sentença de improcedência ao fundamento de inexistência de prova escrita mínima a embasar o pleito.Insurgência da parte autora. Monitória fundada em notas fiscais. Não comprovação da existência de relação jurídica entre a empresa autora e a antiga empresa da parte ré. Inexistência de qualquer documento que demonstre a comprovação da entrega das mercadorias, da realização dos pedidos ou qualquer outro documento hábil a comprovar a aludida relação jurídica entre as partes. Inocorrência de cerceamento de defesa. Decisão monocrática mantida. RECURSO IMPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nosartigos 1.022, 489, inciso IV, 240, § 1º, 417 e 421, do CPC de2015; 206, § 5º, inciso I e 1.194, do CC.
+Alega, em síntese, que o TJRJ "efetivamente não enfrentou o fato de que, ao indeferir a perícia em contabilidade requerida, o juízo de primeiro grau não permitiu que a recorrente pudesse comprovar a entrega das mercadorias". Assim, o Tribunal de origem"deixou de se manifestar sobre o cerne da questão, qual seja, a existência de prova escrita que respalde a pretensão autoral".
+No mais, defende a ocorrência de cerceamento de defesa, pois foi impedida de produzir provapericial essencialao deslinde da controvérsia, que teria como objetivo demonstrar que as mercadorias foram recebidas pela recorrida, que, inclusive, as inseriu em sua escrituração.
+Aduz que "oempresário e a sociedade empresária possuem a obrigação legal de conservar em boa guarda todos os documentos concernentes à sua atividade, enquanto não ocorrer a prescrição ou a decadência".Nesse contexto, cabe lembrar que o despacho que ordena a citação produz efeito interruptivo da prescrição retroativamente à data da propositura da ação.
+E continua:
+50. Com efeito, a presente ação monitória é fundada em notas fiscais com vencimentos a partir de 18 de março de 2013. Sendo assim, considerando a natureza de dívida líquida constante de documento particular, revela-se aplicável ao caso a prescrição quinquenal prevista no art. 206, § 5º, inc. I, do Código Civil.
+51. Nesse contexto, tendo o recorrente ajuizado a ação em 27 de fevereiro de 2014, não há que se falar em prescrição, uma vez que a demanda foi proposta dentro do prazo de cinco anos previsto no Código Civil.
+52. Se assim é e efetivamente o é, o recorrido não poderia descartar os documentos contábeis no curso de ação, na qual são discutidas obrigações registradas contabilmente, justamente porque a propositura de ação interrompe o prazo de prescrição.
+É o relatório.DECIDO.
+2. Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 1.022 do Código de Processo Civil de 2.015. Isso porque, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+3. Também não se verifica a alegada vulneração do artigo 489do Código de Processo Civil de 2015, por ausência de fundamentação no acórdão, o qual apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas.
+O teor do acórdão recorrido resulta de exercício lógico, ficando mantida a pertinência entre os fundamentos e a conclusão. Ao contrário, verifica-se mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo e o eventual provimento do recurso nessa parte.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO DE DANOS MORAIS. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. VIOLAÇÃO DO ART. 489, § 1º, IV E VI, DO CPC/2015. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. Indicação do dispositivo legal violado. Ausente. Súmula 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+ .. .
+3. Inexiste afronta ao art. 489, § 1º, IV, do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+4. A ausência de decisão acerca dos argumentos invocados pelo agravante em suas razões recursais, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O recurso especial não pode ser conhecido quando a indicação expressa do dispositivo legal violado está ausente.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1665837/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/06/2017, DJe 23/06/2017) - g.n.
+4.As matérias referentes aos artigos 240, § 1º, do CPC de 2015; 206, § 5º, inciso I, do CC.não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 282/STF).
+5. No mais, ao afastar o alegado cerceamento de defesa e as demais alegações da parte agravante relacionadas à produção probatória, o Tribunal de origem entendeu que o pedido de produção de prova pericial, além de tardio, seria inócuo, assim consignando:
+6. Assim, restou devidamente consignado na monocrática alvejada que o pedido de perícia contábil nos livros empresariais somente foi feito em março/2019 (fls.1.210/1.211) e indeferido pelo juízo (fl. 1.213), não se mostrando razoável no presente caso, até mesmo porque a parte ré já adiantou não possuí-los.
+7. Certo é que o art. 1.194 do CC/02 dispõe sobre o prazo de guarda dos livros até que se prescreva ou decaia odireito fundado nos atos ali prenotados, de modo que em 2019 não mais haveria tal obrigação para a parte ré em relação a atos do ano de 2013. No mais, seria questão a dar pano a discussões e diligências inócuas no presente feito.
+8. No mais, reitero a decisão monocrática de minha lavra, a cujos fundamentos me reporto nesta oportunidade, conforme as razões já esposadas, com as quais corroboram a jurisprudência dessa E. Corte de Justiça.
+A decisão monocrática, por sua vez, frisou que:
+3. Em seu apelo, a parte autora aferra-se à alegação de cerceamento de defesa em razão do indeferimento do pedido de produção de prova pericial contábil nos livros empresariais que estariam em posse da parte ré. Contudo, o exame atento dos autos afasta tal alegação.
+4. A melhor jurisprudência sobre o tema em foco preconiza que notas fiscais e outros títulos sem aceite, assinatura do devedor ou comprovação de recebimento são hábeis a lastrear ação monitória desde que se comprove a existência da relação obrigacional por quaisquer outros meios:
+ .. .
+5. Os Códigos de Ritos nunca pretenderam trazer um rol das provas escritas, mesmo porque o procedimento monitório não trabalha com um juízo de certeza, mas sim um juízo de probabilidade, pelo que a sorte da demanda dependerá do caso concreto, vale dizer, se suficientemente capaz de convencer o juiz da existência de um direito de crédito.
+6. No caso em tela inexiste nos autos documento que comprove a contratação da empresa autora, então denominada Aura Comércio e Distribuição de Equipamentos Médicos Ltda., pela extinta empresa individual da parte ré, Digiaudio do Brasil Ltda..
+7. Com efeito, o que restou demonstrado é que a Digiaudio mantinha contrato de franquia com Centro AuditivoTelex S.A., outra empresa do mesmo grupo econômico da empresa autora, que, por certo, dela se distingue.
+8. Aqui, cabe reproduzir trecho extraído da réplica da empresa autora aos embargos monitórios (fl. 1.129): "as pessoas jurídicas que compõem um determinado grupo econômico são diferentes entre si, possuindo personalidade jurídica própria, tratando-se apenas de uma relação interempresarial formalizada."
+9. Acrescente-se que, como admitido à inicial, inexiste também prova quanto ao aceite das notas, tampouco qualquer documento que demonstre a realização dos pedidos das mercadorias e de sua entrega.
+10. Outrossim, não há que se falar em cerceamento de defesa, mesmo em razão do tempo dispendido na instrução probatória, que a princípio deveria ser célere no procedimento monitório.
+11. Quanto ao pedido de perícia contábil nos livros empresariais, feito somente em março/2019 (fls. 1.210/1.211) e indeferido pelo juízo (fl. 1.213), não se mostra razoável nopresente caso, mesmo porque a parte ré já adiantou não possuir os mesmos.
+12. Certo é que o art. 1.194 do CC/02 dispõe sobre o prazo de guarda dos livros até que se prescreva ou decaia o direito fundado nos atos ali prenotados, de modo que em 2019 não mais haveria tal obrigação para a parte ré em relação a atos do ano de 2013. No mais, seria questão a dar pano a discussões e diligências inócuas no presente feito.
+13. Pois estes fundamentos, forçoso concluir no mesmo sentido que o juízo de piso, de que não há prova mínima escrita que respalde a pretensão.
+Com efeito, não configura o cerceamento de defesa o julgamento da causa sem a produção da pretendida prova, quando a Corte local entender que o feito foi corretamente instruído, declarando a existência de provas suficientes para o seu convencimento.
+Hão de ser levados em consideração o princípio da livre admissibilidade da prova e do livre convencimento do juiz, que permitem ao julgador determinar as provas que entende necessárias à instrução do processo, bem como o indeferimento daquelas que considerar inúteis ou meramente protelatórias.
+A par disso, rever os fundamentos que levaram a concluir pela ausência de cerceamento de defesa demandaria o reexame do conjunto fático-probatório, o que é vedado na instância especial, segundo o enunciado da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ARTIGO 544 DO CPC/1973) - AÇÃO DE COBRANÇA DE TAXA CONDOMINIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS.
+1. Instâncias ordinárias que apreciando as circunstâncias de fato da causa e os documentos constantes dos autos, concluíram pela desnecessidade de prova pericial e por inocorrência de cerceamento de defesa, em virtude de a controvérsia ser afeta a questão eminentemente de direito. Incidência do óbice da súmula 7/STJ.
+2. A ausência de enfrentamento das teses relacionadas aos princípios da isonomia e boa-fé, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito do prequestionamento, nos termos da súmula 211 do STJ.
+3. Nos termos do art. 1.336, inciso I, do Código Civil, é dever do condômino "contribuir para as despesas do condomínio, na proporção das suas frações ideais, salvo disposição em contrário da convenção".
+4. Consoante a jurisprudência desta Corte, é obrigatória a observância do critério de rateio das despesas condominiais expressamente previsto na respectiva convenção do condomínio, especialmente quando o critério eleito é justamente aquele previsto como regra geral para as hipóteses em que ausente tal estipulação.
+Precedentes.
+5. Estando o acórdão recorrido em harmonia com a jurisprudência do Superior Tribunal de Justiça, incide a Súmula nº 83 desta Corte, aplicável por ambas as alíneas autorizadoras.
+6. Agravo interno desprovido.
+(AgInt no AREsp 816.278/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/11/2016, DJe 18/11/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA POR INDEFERIMENTO DE PRODUÇÃO DE PROVA TÉCNICA. INCIDÊNCIA DA SÚMULA 7/STJ. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO DESPROVIDO.
+1. A revisão da conclusão a que chegou o Tribunal de origem sobre a ausência de cerceamento de defesa no indeferimento do pedido de produção de prova pericial esbarra no óbice da Súmula 7 deste Tribunal, porquanto demandaria o reexame do acervo fático probatório.
+2. O agravante não trouxe no presente agravo interno razões suficientes para a reconsideração da decisão monocrática.
+3. Agravo interno desprovido.
+(AgInt no AREsp 951.337/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/10/2016, DJe 14/11/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM AÇÃO INDENIZATÓRIA. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 128 E 460 DO CPC. NÃO CONFIGURADA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. SÚMULA Nº 7/STJ.
+1. Não verificada, na hipótese dos autos, a suposta violação dos arts. 128 e 460 do CPC, uma vez que o Tribunal de origem corretamente consignou que houve pedido expresso acerca da liberação das ações na petição inicial.
+2. Não configura cerceamento de defesa o julgamento antecipado da lide, devidamente fundamentado, sem a produção das provas tidas por desnecessárias pelo juízo, uma vez que cabe ao magistrado dirigir a instrução e deferir a produção probatória que considerar necessária à formação do seu convencimento.
+3. Rever o acórdão que afastou o cerceamento de defesa implicaria o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula nº 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 183.149/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 12/8/2015)
+6. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
