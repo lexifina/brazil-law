@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+TÍTULO EXTRAJUDICIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DA QUANTIA DEPOSITADA EM CADERNETA DE POUPANÇA ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS. ART. 833, INCISO X, DO CPC. GARANTIA AO MÍNIMO EXISTENCIAL DO DEVEDOR. PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA. IMPENHORABILIDADE DOS VALORES ATÉ 40 SALÁRIOS MÍNIMOS DEPOSITADOS EM CADERNETA DE POUPANÇA, CONTA CORRENTE OU FUNDO DE INVESTIMENTO OU MANTIDOS EM PAPEL-MOEDA. INTERPRETAÇÃO EXTENSIVA. ENTENDIMENTO CONSOLIDADO NO STJ. RECURSO DESPROVIDO.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta a agravante violação dos artigos 489, 833 e 1.022 do Código de Processo Civil; 1.662 e 1.663 do Código Civil, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração, sem suprimento das omissões referentes ao casal devedor responder com todo seu patrimônio pelo débito inadimplido.
+Sustenta que pelos devedores deterem patrimônio comum, o limite do valor impenhorável não pode ser considerado individualmente.
+Defende a penhorabilidade do numerário encontrado em conta bancária, por não compor a poupança da executada.
+Assim delimitada a controvérsia, passo a decidir.
+Quanto à preliminar, não observo omissão no acórdão, senão julgamento contrário aos interesses daagravante, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, havendo fundamentação quanto à não existência de conta conjunta sob a titularidade dos devedores, revelando que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+Dessa forma, não há que falar, no caso, em negativa de prestação jurisdicional, visto que a Câmara julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes.
+No tocante à aventada dívida comum do casal, verifica-se que não houve debate na origem acerca da garantia fidejussória dada pelos executados tenha se revertido em benefício da família.
+De modo que as razões do recurso especial não são convincentes, já que nele não está indicado trecho ou passagem do acórdão recorrido em que tenha havido a abordagem da matéria controvertida, merecendo, assim, a aplicação das Súmulas 282 e 356 do STF, visto que ausente o indispensável prequestionamento com referência a essa questão ventilada no recurso especial, do qual não estão isentas sequer as questões de ordem pública.
+De igual teor:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. PENHORA DE ATIVOS FINANCEIROS DE AVALISTA CASADO SOB REGIME DE COMUNHÃO UNIVERSAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. GARANTIA DA MEAÇÃO DO CÔNJUGE. POSSIBILIDADE. CONSTATAÇÃO, NAS INSTÂNCIAS ORDINÁRIAS, DE QUE NÃO HOUVE DEMONSTRAÇÃO DE QUE A DÍVIDA SE REVERTEU EM BENEFÍCIO DA FAMÍLIA. REVERSÃO DO JULGADO. IMPOSSIBILIDADE. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. O tema inserto nos arts. 1.668 e 1.669 do Código Civil, referente aos bens que são excluídos da meação por expressa disposição legal, não foi debatido pelo Tribunal de origem, tampouco foi suscitado em sede de Embargos de Declaração.
+Carece, portanto, de prequestionamento, requisito indispensável ao acesso às instâncias excepcionais. Aplicáveis, assim, as Súmulas 282 e 356 do STF.
+2. No mais, trata-se de dívida decorrente de aval em cédula rural pignoratícia, cabendo ao credor o ônus da prova de que a obrigação não reverteu em favor da família, consoante entendimento consagrado nesta Corte Superior: AgRg no AREsp. 259.338/PE, Rel. Min. OLINDO MENEZES, DJe 14.9.2015; REsp. 440.771/PR, Rel. Min. HUMBERTO GOMES DE BARROS, DJ 21.6.2004.
+3. Outrossim, tendo o Tribunal a quo afirmado expressamente que não houve demonstração de que a dívida foi revertida em benefício da entidade familiar, para se concluir diversamente seria necessário uma nova incursão no material probatória da causa, o que é defeso nesta seara recursal.
+4. Agravo Interno da UNIÃO a que se nega provimento.
+(AgInt no AREsp 598.255/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 21/8/2019)
+Com efeito, o Tribunal local assim dirimiu a controvérsia (fls. 114-115, e-STJ):
+16. Ademais, importante destacar também que, nessa mesma linha de raciocínio, as sobras salariais, que perdem a proteção de impenhorabilidade pelo inciso IV, do artigo 649 do CPC/73, não passam a ter penhorabilidade automática, porque o inciso X do mesmo artigo garante ao devedor uma reserva financeira de quarenta salários mínimos, independente de onde esse dinheiro estiver.
+18. Observa-se, assim, ser irrelevante o fato de haver movimentação constante da conta poupança, com saques e depósito recorrentes. Exigir que a parte comprove a destinação da conta exclusivamente para poupar valores, sem a movimentação financeira constante, é criar um requisito que a lei não estabelece.
+(..)
+20. Além do mais, no presente caso, as contas bancárias de titularidade dos agravados são pessoais e individuais, ou seja, não se trata de conta poupança conjunta a justificar que a soma das duas contas supera 40 salários mínimos. Ressalte-se que a lei protege a conta poupança de cada indivíduo e não do casal, pois conforme já afirmado a lei pretende assegurar a dignidade da pessoa humana.
+21. Dessa maneira, no caso concreto, a manutenção da impenhorabilidade sobre as verbas constritas via sistema Bacen-Jud é medida que se impõe, até porque se existisse outra reserva monetária em nome dos executados o sistema eletrônico teria indicado.
+Verifico que a fundamentação da origem está em consonância com o entendimento desta Casa, que prevê que, salvo nos casos de fraude ou abuso, a quantia de até 40 (quarenta) salários mínimos é impenhorável, esteja ela depositada em conta corrente, poupança ou outras aplicações financeiras.
+A saber:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.
+CONTA BANCÁRIA HÍBRIDA (CONTA-CORRENTE E POUPANÇA). LIMITE DE 40 (QUARENTA) SALÁRIOS-MÍNIMOS. IMPENHORABILIDADE. DECISÃO MANTIDA.
+1. "Reveste-se (..) de impenhorabilidade a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta-corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto (inciso X)." (REsp 1230060/PR, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/08/2014, DJe 29/08/2014).
+2. Agravo interno desprovido.
+(AgInt no REsp 1876987/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 14/12/2020)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
