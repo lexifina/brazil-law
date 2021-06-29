@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOSE ALEXANDRE RODRIGUES DA SILVA em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que (fls. 427/429):
+A súmula 284/STF é aplicada no STJ por analogia, ao recurso especial. Ela dispõe que é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Destarte, observa-se do RESP que, com base no dissídio processual trazido à baila, e devidamente delimitado naquele recurso por meio das diversas jurisprudências carreadas, RESTOU CLARA A COMPREENSÃO DA CONTROVÉRSIA.
+O não apontamento do dispositivo legal tido por violado, nas razões do recurso especial interposto com base na alínea "c", PODE OU NÃO significar, portanto, insuficiência de fundamentação do recurso, que, por isso, se torna passível de não conhecimento.
+Ressalta-se que o acórdão contra o qual se interpôs o recurso especial encontra-se em situação de divergência quanto à interpretação dada ao mesmo dispositivo de lei federal por outro tribunal, em outro acórdão, em caso de similitude fático-jurídica, o que, indica preenchimento do requisito da alínea "c" do inciso III do art. 105 da CF/88.
+Ainda, frisa-se constar das razões do recurso especial o "cotejo analítico", no recurso especial interposto pela alínea "c", devendo ser conhecido por suficiência de fundamentação (Súmula 284/STF).
+(..)
+Posto isto, com base no Princípio da Instrumentalidade das Formas, verifica-se que o Recurso Especial, independentemente de ter mencionado pontualmente o dispositivo vergastado, atingiu o seu objetivo, ao passo que deixou claro o Dissídio Jurisprudencial existente.
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente um dos fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: ausência de indicação de artigo de lei federal violado - Súmula 284/STF (Lei Complementar n. 116/2003).
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que inadmite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
