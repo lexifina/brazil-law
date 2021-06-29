@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “RECURSO INOMINADO. CONCURSO PÚBLICO. EDITAL Nº 022/2010 – PRORH. UNIVERSIDADE ESTADUAL DE LONDRINA – UEL. OFICAL DE MANUTENÇÃO – PEDREIRO. FIM DO PRAZO DE VALIDADE VINCULANTE APENAS À ADMINISTRAÇÃO. CANDIDATO APROVADO DENTRO DO NÚMERO DE VAGAS PREVISTAS EM EDITAL APÓS AMPLIAÇÃO DE VAGAS E DESISTÊNCIA DA CANDIDATOS EM POSIÇÕES SUPERIORES. EDITAIS Nº 131/2013 E 251/2013. AUSÊNCIA DE DISCRICIONARIEDADE DA ADMINISTRAÇÃO QUANDO EXPIRADO O PRAZO DO CERTAME. DIREITO SUBJETIVO IMEDIATO À NOMEAÇÃO. VAGAS PREVISTAS EM EDITAL QUE PRESSUPÕE DISPONIBILIDADE ORÇAMENTÁRIA. RECURSO CONHECIDO E DESPROVIDO.
+    1. O recorrente se insurge de sentença que o condenou na obrigação de fazer consistente na nomeação da parte autora ao cargo de Oficial de Manutenção – Pedreiro, para o qual foi aprovada em 17º lugar.
+    2. Sustenta a impossibilidade de nomeação do candidato, uma vez que o concurso regido pelo Edital nº 022/2010 teve seu prazo expirado. E, ainda, que não há direito subjetivo a nomeação, pois logrou aprovação fora das vagas previstas no edital inaugural, e que, por tal motivo, não há disponibilidade orçamentária para a nomeação. Contudo, as teses não socorrem o recorrente.
+    3. O fim do prazo de validade do concurso é apenas vinculante à Administração Pública, que não poderá mais, sponte sua, proceder nomeações. Todavia, não impede que o Judiciário, ao corrigir eventuais ilegalidades constatadas no certame, tome providências que poderão implicar a nomeação do candidato. Nessa perspectiva, há interesse processual na propositura da demanda. Neste sentido: TJPR - 4ª Turma Recursal dos Juizados Especiais - 0026267-34.2017.8.16.0182 - Curitiba - Rel.: Manuela Tallão Benke - J. 28.02.2018.
+    4. Houve aprovação dentro das vagas previstas após ampliação através dos editais nº 131/2013 e 251/2013 (mov. 1.9 e 1.10) e desistência de candidatos em posições superiores, o que garante ao candidato direito á nomeação. Precedente: STF - RE: 1152758 TO - TOCANTINS 0002377-24.2017.8.27.0000, Relator: Min. ROBERTO BARROSO, Data de Julgamento: 21/08/2018, Data de Publicação: DJe-174 24/08/2018.
+    5. Logo, logrou êxito em demonstrar que se encontra dentro das vagas previstas no em edital. No mais, o direito subjetivo imediato à nomeação é evidente, pois o prazo de validade do certame já findou, encerrando com a discricionariedade da Administração quanto ao momento para nomeação dos candidatos que se classificaram dentro das vagas existentes durante a vigência do certame, conforme Tema 161/STF.
+    6. A tese de indisponibilidade orçamentária não prospera, uma vez que o número de vagas previstas em edital pressupõe a criação por lei, e logo, previsão orçamentária para tanto. Não obstante, as alegações são destituídas de prova.
+    7. Recurso conhecido e desprovido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, III, da CF.
+    Decido.
+    O Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia posta nos autos (Tema 683 - “Reconhecimento de direito à nomeação de candidato preterido, quando ajuizada a ação após o prazo de validade do concurso.”).
+    Diante do exposto, com base no art. 1.036 do CPC/2015 e no art. 328, parágrafo único, do RI/STF, determino a devolução dos autos à origem a fim de que seja aplicada a sistemática da repercussão geral (Tema 683).
+    Publique-se.
+          Brasília, 29 de junho de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
