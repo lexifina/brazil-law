@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado de próprio punho por AILTON ARAUJO ROCHA, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Narra-se nos autos que o paciente ""SE ENCONTRA EM RISCO DE VIDA  ..  EXISTE UMA GUERRA DE FACÇÕES E QUE POSSUI PROBLEMAS ENVOLVENDO GRUPOS DE SÃO PAULO  ..  NÃO COMETEU CRIME NO ESTADO DE SÃO PAULO, PORÉM, CUMPRE EXECUÇÃO POR MANDADOS EXPEDIDOS NOS ESTADOS DO PARÁ, TOCANTINS E MARANHÃO, O QUE REFORÇA O PEDIDO DE TRANSFERÊNCIA PARA A UNIDADE LOCALIZADA NA CIDADE DE MARABÁ-PA, PARA QUE POSSA CUMPRIR SUA PENA DE FORMA SEGURA E COM DEVIDO APOIO DE SEUS FAMILIARES, PRINCIPALMENTE EM MOMENTO DA PANDEMIA CAUSADA PELO COVID 19"" (e-STJ, fl. 3).
+Às fls. 13/14, indeferi a liminar.
+Em 29/04/2021, o Juízo de Direito da Unidade Regional de Departamento Estadual de Execução Criminal - DEECRIM 2ª RAJ - da Comarca de Araçatuba/SP prestou informações (e-STJ fl. 28), esclarecendo ter determinado a extração de cópia integral do Incidente n. 0008365-58.2021.8.26.0050 (Petição Criminal) para ser cadastrado como Pedido de Providências junto ao fluxo da Seção de Corregedoria dos Presídios, visto que as transferências interestaduais trata-se de matéria afeta ao Juízo de Direito da Unidade Regional do DEECRIM da 9ª RAJ  São José dos Campos/SP, onde as demais providências serão adotadas.
+Em 5/5/2021, a Defensoria Pública de São Paulo se manifestou, afirmando que, diante das informações prestadas pelo Juízo da Comarca de Araçatuba, "ao que tudo indica, o paciente está sendo atendido" (e-STJ fl. 38).
+Às fls. 48/49, foi juntada aos autos decisão do Juízo de Direito da Comarca de Araçatuba/SP, datada de 17/06/2021, na qual se lê:
+In casu, foi solicitado o recambiamento do sentenciado àquele estado, por despacho proferido no processo nº 0000508-82.2018.8.10.0026 da 4ª Vara da Comarca de Balsas/MA, e já autorizado por decisão proferida pelo Juiz da Unidade Regional do DEECRIM da 9ª RAJ  São José dos Campos (página 35).
+Assim, considerando que já houve decisão autorizando a remoção do sentenciado AILTON ARAÚJO ROCHA, MTR: 1.151.240, atualmente preso na Penitenciária I "Nestor Canoa" de Mirandópolis, bem como diante das manifestações apresentadas pelas partes, este Juízo NÃO SE OPÕE a sua transferência para Unidade Prisional da malha penitenciária do Estado do Maranhão.
+Instado a se manifestar sobre a controvérsia, o órgão do Ministério Público Federal que atua perante esta Corte opinou pela perda de objeto da impetração, em parecer assim ementado:
+HABEAS CORPUS. EXECUÇÃO PENAL. EXAME DO PEDIDO DE TRANSFERÊNCIA DE UNIDADE PRISIONAL. PROMOÇÃO POR QUE SE JULGUE PREJUDICADO O WRIT, ANTE A PERDA SUPERVENIENTE DE SEU OBJETO.
+É o relatório. Passo a decidir.
+Com razão da Defensoria Pública e o Parquet Federal.
+Tendo sido autorizada a transferência do paciente da Penitenciária I, Nestor canoa de Mirandópolis/SP, na qual alegava correr risco de vida, em virtude de guerra de facções para presídio em outro Estado, assim como o seu recambiamento, em recente decisão de 17/06/2021, não remanesce interesse na controvérsia posta nos autos.
+Ante o exposto, com amparo no art. 34, XI e XX, do Regimento Interno do STJ, não conheço do presente habeas corpus, ante a perda superveniente de seu objeto.
+Intimem-se.
