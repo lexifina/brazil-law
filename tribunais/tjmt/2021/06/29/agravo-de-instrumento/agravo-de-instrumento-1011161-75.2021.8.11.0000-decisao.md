@@ -1,0 +1,19 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1011161-75.2021.8.11.0000 - CLASSE 202 - CNJ - RONDONÓPOLIS
+Agravante: BANCO BRADESCO S.A.
+Agravado : LUIZ FLÁVIO RITA LOPES
+Número do Protocolo: 1011161-75.2021.8.11.0000
+Cuida-se de Recurso de AGRAVO DE INSTRUMENTO interposto por BANCO BRADESCO S.A. contra a r. decisão proferida pelo MM. Juiz de Direito da 1a Vara Cível da Comarca de Rondonópolis/MT, que nos autos da ação de “Execução de Título Extrajudicial Contra Devedor Solvente” (Proc. no 1006289-47.2017.8.11.0003), ajuizada pelo agravante contra LUIZ FLÁVIO RITA LOPES, indeferiu pedido de arresto “on line” de ativos financeiros em nome do executado/agravado por entender que “a realização dos atos expropriatórios antes da instauração do contraditório é medida excepcional, aplicada somente depois de esgotadas todas as tentativas de encontrar a parte executada para que esta tenha a possibilidade de efetuar o pagamento”, o que, segundo o juiz, não ocorreu no caso (cf. Id. no 57079170 dos autos de origem).
+O Banco/agravante afirma que “não há óbice ao acolhimento do pedido formulado perante o juízo de piso para realização do arresto antes da pesquisa de endereço”, notadamente porque “a parte executada, ciente da pendência de obrigação contratual que possui para com o agravante, se furta à ação da Justiça ao não informar ao credor sua mudança de domicílio” e porque, “como processo de execução de título extrajudicial possui caráter dinâmico o artigo 830 do CPC prevê o arresto como passo seguinte quando não se encontra a parte executada” (sic – cf. Id. no 92018997 - pág. 5/6).
+Pede, sob esses fundamentos, reforma da decisão agravada, para que seja deferido o pedido de arresto de valores, inclusive em sede de antecipação da pretensão recursal.
+É o breve relatório.
+No caso, não enxergo necessidade de imediato pronunciamento jurisdicional sobre o acerto ou desacerto técnico da decisão recorrida ao indeferir pedido de arresto “on line” de ativos financeiros em nome do executado antes de sua citação, e, muito menos, que a manutenção da decisão agravada poderá acarretar danos irreparáveis ao agravante, ou, então, que, caso mantida até ulterior julgamento da questão, caracterizará risco de perecimento fatal ao direito pleiteado, até porque a ação de execução já tramita na origem há quase quatro anos.
+Aliás, nem mesmo o Banco/agravante soube precisar qual seria o dano e qual seria o risco ao resultado útil do processo; comumente, diríamos aqui que a parte se restringiu a alegações imprecisas e genéricas, mas, no caso, nem mesmo isso ocorreu, pois a esse trabalho não se deu o recorrente, que sequer menciona as expressões “perigo da demora”, “risco de dano”, “resultado útil do processo” ou qualquer sinonímica.
+Não há nem mesmo argumentação cíclica e redundante de que o perigo de dano é o simples prosseguimento da tramitação do feito sem acolhimento do seu pedido, argumentação reflexiva essa que, relembro, é insuficiente para a finalidade colimada, porque, do contrário, haveria atribuição indiscriminada de efeito suspensivo a todo e qualquer recurso interposto contra toda sorte de determinação judicial.
+Pelo exposto, à míngua dos requisitos à concessão de efeito suspensivo ao recurso ou à antecipação da pretensão recursal (CPC, arts. 300 e 995, p.ú.), apenas recebo o Agravo de Instrumento nos termos do art. 1.019 do CPC, mas INDEFIRO o pedido antecipatório (CPC, art. 1.019, I), ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se o agravado, na forma do art. 1.019, II, do CPC, para que responda no prazo de 15 dias.
+Expeça-se o necessário.
+Cuiabá, 29 de junho de 2021.
+Des. JOÃO FERREIRA FILHO
+Relator
