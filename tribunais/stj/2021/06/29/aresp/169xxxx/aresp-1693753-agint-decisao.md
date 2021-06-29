@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de Agravo Interno, interposto por SUPERMERCADOS IRMÃOS LOPES S/A, em face de decisão de fls. 648/652e que conheceu do Agravo para conhecer, em parte, do Recurso Especial, e nessa extensão, negar-lhe provimento.
+Alega a parte agravante, em síntese, que não se aplicam, no caso dos autos, os óbices das Súmulas 7/STJ e 126/STJ.
+Por fim, requer a reforma da decisão, para que "seja provido o recurso especial, a fim de que seja afastada a litispendência do Mandado de Segurança nº 0001912-90.2017.4.03.6119 (feito de origem) com o Mandado de Segurança nº 0009603-10.2007.4.03.6119" (fls. 662/676e).
+Assiste razão ao agravante.
+Portanto, reconsidero a decisão impugnada e passo a nova análise do Agravo em Recurso Especial.
+Trata-se de Agravo em Recurso Especial, interposto por SUPERMERCADOS IRMÃOS LOPES S.A., contra decisão do Tribunal Regional Federal da 3ª Região, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. DECISÃO PARCIAL DE MÉRITO. LITISPENDÊNCIA. ART. 337 §1º DO CPC. RECURSO NÃO PROVIDO.
+- Apesar das alegações da agravante, forçoso reconhecer que a mesma não se desincumbiu do ônus de comprovar o desacerto da decisão agravada.
+- Nesse sentido, é possível notar pelas cópias de doc. n. 713406 que os pedidos de exclusão do ICMS da base de cálculo do PIS e da COFINS, efetuados no MS n. 0009603-10.2007.4.03.6119 e n. 0001912-90.2017.4.03.6119, baseiam-se na alegação de que o ICMS não compõe o faturamento das contribuições sociais. Deflui disso que, sendo reconhecida tal alegação no processo mais recente, o mais antigo teria decisão idêntica, máxime porque a Lei n. 12.973/14 não ocasionou nenhuma alteração no contexto relativo a base de cálculo do PIS e COFINS.
+- Esse entendimento foi assentado pela Segunda Seção desta Corte nos autos dos Embargos Infringentes n. 0012173-11.2007.4.03.6105. Somente se a Lei n. 12.973/14 houvesse realizado alterações na aludida base de cálculo, então seria possível reconhecer divergências entre os pedidos efetuados pelo agravante nas ações supracitadas.
+- Inafastável a litispendência reconhecida.
+- Agravo de instrumento não provido" (fl. 514e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 522/528e), os quais restaram rejeitados, nos seguintes termos:
+"DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. AUSÊNCIA DE OMISSÃO. EMBARGOS REJEITADOS.
+- A teor do disposto no art. 1.022 do CPC, somente têm cabimento nos casos de obscuridade ou contradição (inc. I), de omissão (inc. II) e de erro material (inc. III).
+- Não se presta ao manejo dos declaratórios, hipótese na qual o embargante pretenda rediscutir matéria já decidida, emprestando-lhe caráter infringente, ou sua pretensão para que sejam respondidos, articuladamente, quesitos formulados.
+- Mesmo que opostos os embargos de declaração objetivando ao prequestionamento, não há como se afastar o embargante de evidenciar a presença dos requisitos de que trata o artigo 1.022 do CPC.
+- Há no acórdão embargado, expressa manifestação quanto aos fundamentos que levaram ao não provimento do recurso, abordando os dispositivos legais pertinentes e as questões levantadas pela recorrente.
+- Apesar das insurgências da embargante, não se prestam os embargos de declaração a rediscussão da matéria apreciada. Noutro passo, é preciso ressaltar que o v. acórdão embargado abordou todas as questões apontadas pela embargante, inexistindo nele, pois, qualquer contradição, obscuridade ou omissão.
+- Frise-se que a decisão do Supremo Tribunal Federal no RE nº 574.706/PR reconheceu que o valor arrecadado a título de ICMS não se incorpora ao patrimônio do contribuinte, não podendo dessa forma, integrar a base de cálculo das contribuições, por não ser considerado faturamento. Ora, uma vez excluído o ICMS da base de cálculo do PIS e da COFINS, pela reconhecida inconstitucionalidade dessa inclusão, independentemente da lei
+que a institua, qual seja, Lei n59.718/1998, 10.637/2002, 10.833/2003 ou 12.973/2014, está a decisão do STF a determinar tal exclusão.
+- Dessa forma, não é possível concluir que a ausência de decisão específica sobre a Lei 12.973/2014 inviabilize o exercício do direito da impetrante.
+- Ora, o STF declarou a inconstitucionalidade da inclusão do tributo ICMS na base de cálculo do PIS e da COFINS. A matéria é constitucional e não legal.
+- O próprio embargante admite que as ações n. 0009603-10.2007.4.03.6119 e n. 0001912-90.2017.4.03.6119 possuem a mesma finalidade, qual seja, o direito líquido e certo de excluir da base de cálculo do PIS e da COFINS os valores correspondentes ao ICMS incidentes sobre suas operações, de modo que o pedido posterior constitui apenas desdobramento do primeiro.
+- Embargos rejeitados" (fls. 546/547e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III,a,da Constituição Federal, a parte ora agravante aponta violação aos arts. 17, 37, §§ 1º e 3º, 485, V, e 1.022, II, do CPC/2015, sustentando omissão não suprida em Embargos de Declaração, eis que "o v. acórdão deixou de se manifestar sobre o justo receio da Recorrente de que, vencedora nos autos do Mandado de Segurança impetrado em momento anterior à edição da Lei 12.973/2014, haja óbice para a efetiva aplicação deste título judicial para os períodos posteriores" (fl. 564e).
+Afirma, ainda, que "são distintos os pedidos e as causas de pedir das lides, pelo que não se pode empregar a consequência da litispendência ao presente caso" (fl. 565e); que "deve o feito retornar à origem para que seja julgado o mérito do pleito relativo à exclusão do ICMS das base de cálculo do PIS/COFINS para os fatos ocorridos sob a égide da Lei nº 12.973/2014, oportunidade em que deverá ser suspensa a exigibilidade dos débitos tributários" (fl. 569e).
+Contrarrazões, a fls. 574/578e.
+Inadmitido o Recurso Especial (fls. 579/582e), foi interposto o presente Agravo (fls. 585/600e).
+Contraminuta, a fls. 603/607e.
+A irresignação não merece prosperar.
+Inicialmente, em relação ao art. 1.022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra DIVA MALERBI (Desembargadora Federal convocada/TRF 3ª Região), SEGUNDA TURMA, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/04/2016.
+No mais,oacórdão do Tribunal de origem concluiu que
+"Frise-se que a decisão do Supremo Tribunal Federal no RE nº574.706/PRreconheceu que o valor arrecadado a título de ICMS não se incorpora ao patrimônio docontribuinte, não podendo dessa forma, integrar a base de cálculo das contribuições, pornão ser considerado faturamento. Ora, uma vez excluído o ICMS da base de cálculo doPIS e da COFINS, pela reconhecida inconstitucionalidade dessa inclusão,independentemente da lei que a institua, qual seja, Lei nº9.718/1998, 10.637/2002,10.833/2003 ou 12.973/2014, está a decisão do STF a determinar tal exclusão.
+Dessa forma, não é possível concluir que a ausência de decisão específicasobre a Lei 12.973/2014 inviabilize o exercício do direito da impetrante.
+Ora, o STF declarou a inconstitucionalidade da inclusão do tributo ICMS nabase de cálculo do PIS e da COFINS. A matéria é constitucional e não legal.
+O próprio embargante admite que as ações n. 0009603-10.2007.4.03.6119 e
+n. 0001912-90.2017.4.03.6119 possuem a mesma finalidade, qual seja, o direito líquido ecerto de excluir da base de cálculo do PIS e da COFINS os valores correspondentes ao ICMS incidentes sobre suas operações, de modo que o pedido posterior constitui apenas desdobramento do primeiro" (fls. 544/545e).
+Nesse contexto, verifica-se que a controvérsia foi dirimida, pelo Tribunal de origem, sob enfoque eminentemente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+Dessa forma, é inviável o exame da insurgência, tal como posta, em sede de Recurso Especial, que se restringe à uniformização da legislação infraconstitucional.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ACÓRDÃO COM FUNDAMENTAÇÃO CONSTITUCIONAL. REVISÃO. IMPOSSIBILIDADE. INADEQUAÇÃO DA VIA RECURSAL.
+1. Nos termos do art. 105, III, da Constituição Federal, o recurso especial não é via recursal adequada à revisão de acórdão cuja conclusão se apoia em fundamentação constitucional.
+2. No caso dos autos, o Tribunal Regional Federal da 4ª Região, ao entender que o regramento da Lei n. 12.973/2014 prejudicaria o entendimento firmado pelo Supremo Tribunal Federal, no RE 574.706/PR, o fez com base em fundamentação constitucional, de tal sorte que esse Tribunal não é competente para a revisão do acórdão recorrido.
+3. Agravo interno não provido"(STJ, AgInt no REsp 1.864.391/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 17/09/2020).
+Ademais, ainda que não fosse o caso de se aplicar o referido óbice, o entendimento do Superior Tribunal de Justiça é no sentido de que a superveniência da Lei 12.473/2014 não altera o entendimento firmado pelo STF, na análise do Tema 69/STF. De modo que é inafastável a litispendência reconhecida.
+Nesse sentido:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ICMS. EXCLUSÃO DA BASE DE CÁLCULO DO PIS E DA COFINS. TESE FIRMADA EM SEDE DE REPERCUSSÃO GERAL. TEMA 69/STF. ALTERAÇÃO NORMATIVA INTRODUZIDA PELA LEI 12.973/2014, QUE NÃO ALTERA O ENTENDIMENTO FIRMADO PELO STF. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. A parte agravante não apresentou qualquer fundamento capaz de reverter as conclusões alcançadas no julgamento monocrático.
+2. Com efeito, a solução adotada na decisão vergastada se amolda à jurisprudência desta Corte de Justiça, segundo a qual, na esteira do entendimento do Supremo Tribunal Federal, o valor arrecadado a título de ICMS não se incorpora ao patrimônio do contribuinte e, dessa forma, não pode integrar a base de cálculo do PIS e da Cofins.
+Precedentes: REsp. 1.825.159/PE, Rel. Min. HERMAN BENJAMIN, DJe 19.12.2019 e AgInt no REsp. 1.724.645/PE, Rel. Min. MAURO CAMPBELL MARQUES, DJe 15.3.2019.
+3. A axiologia da ratio decidendi não tem o condão de permitir a inclusão do ICMS na base de cálculo do PIS e da COFINS, eis que a mutação normativa operada pela Lei 12.973/2014 não reflete no resultado firmado pelo STF em sede de repercussão geral - RE 574.706/PR.
+4. Agravo Interno da FAZENDA NACIONAL a que se nega provimento"(STJ, AgInt no AREsp 1.508.814/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de04/06/2020).
+Pelo exposto, reconsidero a decisão de fls. 648/652e, e, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do Agravo, para conhecer em parte do Recurso Especial, e, nessa extensão, negar-lhe provimento.
+I.
