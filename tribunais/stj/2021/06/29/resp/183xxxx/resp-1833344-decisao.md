@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado do Paraná com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 2ª Região, assim ementado (fl. 214/215):
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. EFEITOSUSPENSIVO. ASSISTENTE LITISCONSORCIAL. DIREITO AOSHONORÁRIOS SUCUMBENCIAIS.
+1. O assistente qualificado ou litisconsorcial é considerado comoverdadeiro litisconsorte - art. 54 do CPC/1973 e art. 124 doCPC/2015 -, o que significa dizer que está sujeito às regras desucumbência aplicáveis às partes principais. Com efeito, opagamento e a destinação da verba honorária devem observaro disposto no art. 23 do CPC/73 (art. 87 do CPC/2015),segundo o qual "concorrendo diversos autores ou diversos réus,os vencidos respondem pelas despesas e honorários emproporção" (STJ, 2ª Turma, REsp 1415876/DF, julgado em18/06/2015).
+2. No tocante à qualidade do trabalho desempenhado pelosprocuradores do Estado e o grau de zelo despendido no tratoda lide, eventual deficiência ou insuficiência de atuação deveriater sido sopesada no momento do arbitramento da verbahonorária, inclusive na perspectiva do princípio da causalidade,não podendo o juízo a quo, em cumprimento de sentença,revisar o que fora decidido, sob pena de afronta à coisa julgadae à segurança jurídica
+3. Embora a destinação de verba honorária para fins diversosda remuneração de advogado possa ser questionada, dada suanatureza específica, mantém-se a decisão agravada em relaçãoà parcela devida ao MPF, porquanto atende ao interesse públicoe conta com sua expressa anuência.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo509, §4º do CPC/15e art. 23 da Lei n. 8.906/94, "a fim de seracolhida a exceção de pré-executividade reconhecendo que a verba honorária fixada na sentençaexequenda pertence apenas aos procuradores do Estado e da União, determinando-se que o MPFrestitua os valores levantados a título de honorários sucumbenciais" (fl. 331)
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 397.
+É o relatório. Passo a decidir.
+É cediço no Superior Tribunal de Justiça ser condição imprescindível ao conhecimento do recurso especial que tenham sido ventilados, ainda que implicitamente, no contexto do acórdão combatido, os dispositivos legais indicados como malferidos, emitindo-se, sobre cada um deles, juízo de valor, interpretando-se-lhes o sentido e a compreensão, de modo que se possa reconhecer qual norma direcionou o decisum objurgado.
+Todavia, no caso em exame, tal circunstância não se concretizou. Com efeito, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Por fim, ocorre que a recorrente não impugna afundamentação do acórdãorecorrido que afirmou que "O assistente qualificado ou litisconsorcial é considerado como verdadeirolitisconsorte - art. 54 do CPC/1973 e art. 124 do CPC/2015 -, o que significadizer que está sujeito às regras de sucumbência aplicáveis às partesprincipais."(fls. 210)nas razões do recurso especial que, por sisó, assegura o resultado do julgamento ocorrido na Corte de origem e tornainadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula283/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ASSISTENTE LITISCONSORCIAL. DIREITO AOS HONORÁRIOS SUCUMBENCIAIS. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF.FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF.RECURSO NÃO CONHECIDO.
