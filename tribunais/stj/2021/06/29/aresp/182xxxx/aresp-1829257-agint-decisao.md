@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interno interposto porFUNDAÇÃO ATLÂNTICO DE SEGURIDADE SOCIALcontra decisão prolatada pela Presidência desta Corte Superior (e-STJ, fls. 339-341), que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nas razões do recurso, a agravante sustenta a inaplicabilidade da Súmula 284/STF.
+Afirma ter demonstrado todos os fundamentos necessários para a compreensão da violação ao art. 1.022 do CPC/2015.
+Sendo assim, requer a reconsideração da decisão agravada.
+Não foi apresentada impugnação (e-STJ, fl. 351).
+Diante dos argumentos apresentados, constata-se assistir razão à agravante.
+Assim, mediante juízo de retratação, nos termos do art. 259 do RISTJ, reconsidero a decisão de fls.339-341 (e-STJ) e passo a novo exame do agravo em recurso especial (e-STJ, fls. 316-325).
+Cuida-se de agravo interposto porFUNDAÇÃO ATLÂNTICO DE SEGURIDADE SOCIALcontra decisão que inadmitiu recurso especial (e-STJ, fls. 293-303)proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 209):
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. FUNDAÇÃO FCRT. RESGATE PARCIAL DE RESERVA DE TRANSFERÊNCIA COM CORREÇÃO MONETÁRIA. LIQUIDAÇÃO DE SENTENÇA. REDISCUSÃO DOS CRITÉRIOS ESTABELECIDOS NO TÍTULO EXECUTIVO JUDICIAL. DESCABIMENTO. A própria fundamentação da agravante evidencia a sua tentativa de, a pretexto de apontar excesso executivo, rediscutir questões de mérito, próprias da fase de conhecimento, já acobertadas pela coisa julgada. Inteligência do art. 509, § 4º, do Código de Processo Civil, Na fase de liquidação de sentença não há como se buscar a modificação dos critérios estabelecidos no título executivo judicial, sob pena de se incorrer em ofensa à coisa julgada material, a teor do que estabelece o art. 508 do Código de Processo Civil. No caso em exame, trata-se de mero cálculo aritmético, tomando como parâmetro as definições da sentença proferida nos autos. Os indexadores já foram definidos na sentença, e o acordão nada dispôs em contrário, e tal foi observado pelo perito em laudo pericial técnico, com demonstração da metodologia aplicada e devidamente fundamentado, em especial quanto aos parâmetros de cálculo da reserva matemática, ainda que a agravante, instada a juntar documentos em três oportunidades, tenha em todas elas se quedado inerte. Manutenção da multa por litigância de má-fé, forte no art. 80, II e V, e; 81, por ter a agravante reaberto discussão sobre questões já decididas, acobertadas pelo manto da coisa julgada, o que intenta contra a boa-fé e a lealdade processuais. Procedência da liquidação. Decisão agravada mantida. AGRAVO DE INSTRUMENTO DESPROVIDO. UNÂNIME.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 245):
+EMBARGOS DE DECLARAÇÃO. DIREITO TRIBUTÁRIO. ITPU. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. ART. 1.022 DO CPC. Não havendo obscuridade, contradição, omissão ou erro material na decisão, não há que se acolherem os embargos de declaração, nos termos do art. 1.022 do CPC.
+PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE.
+Os embargos de declaração não se destinam à rediscussão da matéria já decidida pelo colegiado, nem à modificação da decisão. EMBARGOS DE DECLARAÇÃO DESACOLHIDOS.
+Nas razões do recurso especial, a recorrente, com basena alínea a do permissivo constitucional, alegou violação aoart. 1.022, I e II, do CPC/2015.
+Sustentou a existência de omissão no acórdão recorrido, argumentando que o Tribunal de origem deixou de se manifestar a respeito dos excessos nocálculoapresentadopelos peritos e da inexistência de má-fé em sua conduta.
+Apontou também contradição no aresto impugnado, especificamente acerca da divergência nos valores executados e da necessidade de produção de prova pericial.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls.293-303).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 316-325).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nas razões do agravo, a agravante apontou ter cumprido com todos os requisitos exigidos para conhecimento e julgamento do recurso especial. Constatados os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+No apelo excepcional, a primeira tese defendida pela recorrente refere-se à existência de omissão no acórdão impugnado.
+A respeito do tema, é preciso esclarecer que os embargos de declaração possuem fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo, por isso, natureza infringente.
+Nesse sentido, a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte (REsp 1.730.535/ES, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 16/10/2018, DJe 19/10/2018).
+Desse modo, tendo o Tribunal a quo motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há que se afirmar que a Corte estadual omitiu-se apenas pelo fato de ter o aresto impugnado decidido em sentido contrário à pretensão da parte.
+Analisando os autos, observa-se que o aresto recorrido apresentou suficiente fundamentação acerca de todos os pontos acima elencados.
+Confira-se trecho do acórdão recorrido (e-STJ, fls. 213-216):
+Buscou o autor-agravado, na presente demanda, condenação da ré-agravante ao pagamento dos expurgos inflacionários sobre os valores recebidos a título de incentivo à migração ao plano BrTPREV.
+ ..
+Instaurada a fase de liquidação de sentença, foram elaborados dois laudos periciais - o segundo, complementar -, os quais foram impugnados pela ora agravante, sob o fundamento de que o perito teria aplicado de forma incorreta a metodologia da reserva matemática, além de não observar a opção do autor pelo resgate da reserva da poupança e o resgate de 10% da reserva matemática no momento da migração.
+Pois bem.
+A própria fundamentação da agravante evidencia a sua tentativa de, a pretexto de apontar excesso executivo, rediscutir questões de mérito, próprias da fase de conhecimento, já acobertadas pela coisa julgada.
+Com efeito, nos termos do art. 509, § 4º, do Código de Processo Civil, "na liquidação é vedado discutir de novo a lide ou modificar a sentença que a julgou."
+Ou seja, na fase de liquidação de sentença não há como se buscar a modificação dos critérios estabelecidos no título executivo judicial, sob pena de se incorrer em ofensa à coisa julgada material, a teor do que estabelece o art. 508 do Código de Processo Civil.
+No caso em exame, trata-se de mero cálculo aritmético, tomando como parâmetro as definições da sentença proferida nos autos.
+Os indexadores já foram definidos na sentença, e o acordão nada dispôs em contrário, e tal foi observado pelo perito em laudo pericial técnico, com a demonstração da metodologia aplicada e devidamente fundamentado, em especial quanto aos parâmetros de cálculo da reserva matemática, ainda que a agravante, instada a juntar documentos em três oportunidades, tenha em todas elas se quedado inerte (fls. 158- 185).
+Na verdade, o debate proposto pela agravante, bem assim o pedido de perícia atuarial, deveria ter sido realizado no momento oportuno, qual seja: o processo de conhecimento.
+Se a agravante não arguiu sua tese ou se esta não foi acolhida, não cabe agora trazê-la ao debate, nesta fase processual, a qual se destina única e exclusivamente a liquidar e, posteriormente, cumprir a sentença.
+Correta a sentença, ainda, quanto à imposição de multa por litigância de má-fé, forte no art. 80, II e V, e; 81, ambos do CPC, por entender que, ao reabrir discussão sobre questões já decididas, acobertadas pelo manto da coisa julgada, a agravante intenta contra a boa-fé e a lealdade processuais.
+A questão foi bem analisada na sentença proferida pelo Juiz de Direito Dr. Alexandre Kreutz, razão, pela qual peço vênia para transcrever parte dos seus fundamentos, adotando-os como parte das razões de decidir:
+Portanto, apresentando o Tribunal originário os fundamentos pelos quais chegou à conclusão dos fatos expostos nos autos, inexiste violação ao art. 1.022 do CPC/2015.
+Ante o exposto, mediante juízo de reconsideração, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. EXECUÇÃO. OMISSÃO. CONTRADIÇÃO. INEXISTÊNCIA. DECISÃO DA PRESIDÊNCIA DO STJ RECONSIDERADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
