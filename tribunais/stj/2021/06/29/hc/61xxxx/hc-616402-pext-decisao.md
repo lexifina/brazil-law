@@ -1,0 +1,16 @@
+DECISÃO
+ISMAEL DE OLIVERIA ONOFRE apresenta pedido de extensão da decisão que reconheceu ao corréu DENILSON DE OLIVEIRA o direito responder ao processo em liberdade, mediante o cumprimento de medidas cautelares previstas no art. 319, I, IV e IX, do CPP, sem prejuízo da fixação, de forma fundamentada, de outras medidas alternativas pelo Juízo do processo.
+Emsuas razões, alega que integra a mesma ação penal de origem do corréu DENILSON DE OLIVEIRA, mas foi condenado ao cumprimento de pena menor que a do paradigma.
+Ressalta que o fundamento da impetração é de exclusiva matéria processual (víciode fundamentação),o que deve gerar efeitos iguais para todos os envolvidos na ação penal de origem.
+Requer a extensão dos efeitos da concessão da decisão de fls. 91-94.
+É o relatório. Decido.
+O pedido de extensão, nos termos do art. 580 do CPP, é direcionado aos casos em que há concurso de agentes e identidade fático-processual, ou seja, os motivos da decisão que beneficiou uma das partesnão podem ser de caráter exclusivamente pessoal para que possa haver o compartilhamento da concessão da ordem.
+Segundo o entendimento do Superior Tribunal de Justiça,a extensão do benefício de um dos corréus aos demais fica condicionada à identidade das situações fático-processuais e à inexistência de circunstância de caráter eminentemente pessoal (HC n. 447.378/SC, relator Ministro Jorge Mussi, DJede 17/10/2018; e HC n. 398.278/MG, relator Ministro Ribeiro Dantas, DJe de 15/8/2018).
+No caso, verifica-seque o requerente encontra-se em situaçãofático-processual idêntica à do correu beneficiado com a revogaçãoda prisão preventiva, nos termos do art. 580 do CPP.
+De fato,a condição que determinou o relaxamento da prisão preventiva do corréu não é de caráter exclusivamente pessoal. É uma condição objetiva, de cunho estritamente processual. Contrariando entendimento do Superior Tribunal de Justiça e do Supremo Tribunal Federal, o Tribunal a quo decretou a preventiva com base exclusivamente no quantum de pena aplicado na sentença condenatória, nada discorrendo sobre os elementos concretos justificadores da medida ou sobre os requisitos aplicáveis à espécie.
+Da mesma forma, não foi levado em consideração que os acusados (requerente e paradigma)responderam a toda a persecução penal em liberdade, cooperando com as exigências judiciais.
+Ressalte-se que o requerente eo paradigma foram presos preventivamente, em razão damesma decisão judicial. A diferença entre as penas a eles aplicadas não é substancial queimpeça a concessão da ordem.
+Desse modo, éviável a extensão do benefício ao requerente, tendo em vista asimilitude fática entre a situação dele e a do corréu.
+Ante o exposto, defiro o pedido para estender aISMAEL DE OLIVERIA ONOFREos efeitos da decisão que, de ofício,concedeu a ordemem favor de DENILSON DE OLIVEIRA, para determinar a expedição de alvará de soltura se por outro motivo não estiverpreso, a fim de que possaresponder ao processo em liberdade, desde que cumpra as medidas cautelares previstas no art. 319, I, IV e IX, do CPP, sem prejuízo dafixação, de forma fundamentada, de outras medidas alternativas pelo Juízo do processo.
+Comunique-se com urgência ao Tribunal de origem e ao Juízo competente para aadoção de medidas necessárias ao cumprimento da presente decisão.
+Publique-se. Intimem-se.
