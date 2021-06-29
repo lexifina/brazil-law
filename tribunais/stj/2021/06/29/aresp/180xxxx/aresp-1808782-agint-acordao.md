@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO.IMPUGNAÇÃO. DEFICIÊNCIA.
+1. Éinviávelo conhecimento do recurso especial quandosuas razões encontram-se dissociadas dos temas discutidosno acórdão impugnado e, também, quando o dispositivo de lei federal supostamente violado não contém comando normativocapaz de infirmar o fundamento do acórdão atacado, incidindo, nesses casos, o óbice contido na Súmula 284 do STF, por evidente deficiência da fundamentação.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelaGSA GAMA SUCOS E ALIMENTOS LTDA. contra decisão da Presidência desta Corte Superior, em que se conheceu do agravo para não se conhecer de recurso especial, no qual foialegadaa existência de vício de integração no acórdão e a impossibilidade de autuação por presunção, com base na Súmula 284 do STF.
+A parte agravante sustenta, em síntese, quenão há falar no óbice da Súmula 284 do STF, uma vez que, no apelo excepcional,apresentou argumentaçãoclara e suficiente para impugnar o acórdão recorrido e amparar as alegaçõesde vício de integração e denulidade de lançamento de tributo em operação presumida, em desacordo com as provas dos autos.
+Contraminuta apresentada às e-STJ fls. 441/447.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO.IMPUGNAÇÃO. DEFICIÊNCIA.
+1. Éinviávelo conhecimento do recurso especial quandosuas razões encontram-se dissociadas dos temas discutidosno acórdão impugnado e, também, quando o dispositivo de lei federal supostamente violado não contém comando normativocapaz de infirmar o fundamento do acórdão atacado, incidindo, nesses casos, o óbice contido na Súmula 284 do STF, por evidente deficiência da fundamentação.
+2. Agravo interno desprovido.
+VOTO
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser mantida, ainda que por outros fundamentos.
+Como assinalado na decisão agravada, orecurso especial tem origemem ação declaratória de nulidade de lançamento tributário em que se discute a notificação de lançamento de circulação presumida.
+Alega o autor, ora agravante, queteria solicitado ao ESTADO DO MATO GROSSO guia de trânsito de mercadorias originárias e destinadas a outros entes federados. Entretanto, por uma falha na aposição de carimbo de saída das mercadorias do território do ESTADO, teria sido lavrado auto de infração e lançado o crédito decorrente da multa aplicada em razão da por presunção de que as mercadorias teriam circulados naquele ente federado sem recolhimento do tributo.
+O recorrente defende a existência de provas concretas de que as mercadorias não teriam circulado dentro do território do ESTADO DO MATO GROSSO, juntando aos autos os documentos do ESTADO de destino (ACRE) que comprovariam a sua entrada em seu território, motivo pelo que defende que a presunção de circulação no ESTADO de trânsito (MATO GROSSO) para fins de lançamento do ICMS seja desconstituída e o auto de infração e lançamento desfeitos.
+O magistrado de primeiro grau julgou improcedentes os pedidos autorais, com amparo nasnormas do ESTADO DO MATO GROSSO que autorizam a prática do FISCO de lavratura de auto de infração, uma vez que não tenha sido dada a aposição de carimbo de saída das mercadorias na guia de transporte. Registrou, então,que a prova de que as mercadorias chegaram ao seu destino, no ESTADO DO ACRE, não afastavam o descumprimento da obrigação acessória (com aplicação da pena de multa), motivo pelo queseria hígido e válido o auto de infração e, consequentemente, o lançamento.
+Em sede de apelação, o Tribunal a quo manteve os fundamentos da sentença, acrescendo apenas a validade da multa fixada pelo auto de infração com basena legislação estadual e em patamar não confiscatório.
+Opostos embargos de declaração, foram eles acolhidos para dirimir erro material e reconhecer não se tratar de autuação com fundamento em nota fiscal inidônea e sim de nota fiscal irregular, sem alteração do julgado.
+Em seu recurso especial, o particular alega violação do art. 1.022 do CPC e art. 204 do CTN. Sustenta, em síntese, que: (a) há omissão e erro material no acórdão recorrido que desconsiderou as provas e os elementos fáticos incontroversos descritos nos autos e adotados pela Corte a quo, e manteve a higidez de notificação de infração pela falta de recolhimento do tributo com fundamento exclusivo na falta de cumprimento de obrigação acessória; e (b) havendo provas concretas de que a circulação presumida não aconteceu, deveria ser afastado o auto de infraçãoe desconstituído o lançamento sob pena de se aceitar um lançamento de tributo sobre fato não ocorrido com fundamento exclusivo na presunção decorrente da falta de cumprimento de obrigação acessória.
+O recurso especial foi inadmitido por aplicação dos óbices das Súmulas 7 do STJ e 284 do STF.
+Agravo interposto impugnouesses fundamentos.
+Na decisão monocrática atacada, ficou consignado não ser possível conhecer do recurso especial na parte que apontavício de integração por deficiência de sua fundamentação, nos termos da Súmula 284 do STF,e, nomérito, aplicou-se o mesmo óbice por terem sido apresentadasrazões dissociadas da realidade dos autos.
+No que concerne à alegação de erro material no acórdão recorrido aensejar a violação do art. 1.022 do CPC, tenho que, de fato, deve ser aplicado o óbice da Súmula 284 do STF, mas por motivo diverso.
+Com efeito, a deficiência de fundamentação não se verifica em decorrência da faltade indicação de qual seria o vício de integração não dirimido pela Cortea quo, mas em razão de acontrovérsia discutida nos autos, como se extrai do contexto fático descrito na sentença e acórdão, não se referirà lavratura de auto de infração por descumprimento de obrigação principal (falta recolhimento do tributo), e simde acessória (ausência de aporte de carimbo na guia de transporte a comprovar a saída da mercadoria do território do ESTADO).
+Nessa medida, a deficiência de fundamentação no recurso, no tópico,decorre da dissociação entre as razões recursais eoque foi decidido nos autos.
+Na parte relativa à indigitada violação do art. 204 do CTN, a aplicação do óbice sumular deriva da ausência de comando normativocapaz de infirmar o fundamento do acórdão atacado, porquanto não induzao direito pleiteado, o que atrai a aplicação daSúmula 284 do STF:"É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual nãodeveseraplicadaa multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
