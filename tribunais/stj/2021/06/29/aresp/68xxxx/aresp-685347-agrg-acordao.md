@@ -1,0 +1,55 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AOS ARTS. 384 E 419, AMBOS DO CPP. TESES NÃO SUSCITADAS NAS RAZÕES DA APELAÇÃO CRIMINAL, MAS APENAS POR OCASIÃO DOS EMBARGOS DE DECLARAÇÃO. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. Não tendo o acórdão recorrido analisado a incidência dos dispositivos tidos por violados, fica obstado o julgamento do recurso por ausência de prequestionamento, nos termos da Súmula n. 211 do STJ.
+2. "Não há falar em adoção do prequestionamento ficto, haja vista sua inaplicabilidade quando a parte suscita a matéria apenas em embargos de declaração. Deveras, o art. 1.015 do CPC, aplicável analogicamente ao processo penal, tem o intuito de permitir à Corte ad quem sanar o vício de omissão, contradição ou obscuridade apontado pela parte e não apreciado pelo órgão a quo, mesmo quando opostos embargos declaratórios. Na espécie, a tese defensiva não foi formulada perante o Tribunal estadual em apelação, mas apenas nos aclaratórios, em evidente inovação recursal" (AgRg no HC n. 608.585/SC, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/12/2020, DJe 15/12/2020).
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por JERRI GILBERTO TEIXEIRA contra decisão monocrática, de minha lavra, que negou provimento ao agravo em recurso especial (e-STJ fls. 762/764).
+Depreende-se dos autos que o agravante foi condenado, pelo crime de lesões corporais, à pena de 5 anos e 4 meses de reclusão, a ser cumprida inicialmente no regime semiaberto.
+Contra o édito condenatório insurgiram-se a defesa e a acusação.
+O colegiado local negou provimento ao recurso defensivo e deu provimento à irresignação do Ministério Público, a fim de redimensionar a sanção do réu a 6 anos, 4 meses e 24 dias de reclusão, mantidas as demais disposições da sentença.
+Opostos embargos de declaração, foram acolhidos para reduzir a reprimenda do acusado para 5 anos e 4 meses de reclusão.
+Daí a interposição do recurso especial, no qual sustentou o recorrente ofensa aos arts. 384 e 419, ambos do Código de Processo Penal.
+O Tribunal de Justiça do Estado de São Paulo negou seguimento ao inconformismo, tendo em vista os óbices previstos nos enunciados 282 da Súmula do Supremo Tribunal Federal e 7 da Súmula desta Casa.
+Inconformada, a defesa interpôs agravo buscando o conhecimento e provimento do recurso especial.
+No Superior Tribunal de Justiça, a Vice-Presidência negou seguimento à irresignação, tendo em vista o disposto no enunciado n. 115 da Súmula desta Corte.
+No agravo regimental de e-STJ fls. 737/741, sublinhou a defesa que o recorrente, "desde o nascedouro da ação penal, confiou sua defesa ao Dr. João Castilho, quem, após árduo trabalho, nos deu a honra de sucedê-lo na defesa do pobre carpinteiro" (e-STJ fls. 737/741).
+Na decisão de e-STJ fls. 762/764, reconsiderei a decisão proferida pela Vice-Presidência desta Casa e neguei provimento ao inconformismo.
+Daí o presente agravo regimental, no qual sustenta a defesa que as instâncias de origem se pronunciaram sobre os temas expostos no recurso especial, não havendo se falar em ausência de prequestionamento. Diante disso, pede seja reformada a decisão monocrática, com o consequente conhecimento e provimento do recurso especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Conforme esclareci na decisão monocrática combatida, em suas razões, sustentou o recorrente que, após a desclassificação da conduta narrada na denúncia para o crime de lesão corporal seguida de morte, não foi garantido à defesa a oportunidade de apresentar novas alegações finais. Destacou, nesse contexto, a ofensa aos princípios do contraditório e da ampla defesa.
+Entretanto, tais teses somente foram ventiladas em tema de embargos de declaração, em evidente inovação recursal.
+Nas razões de apelação, limitou-se a defesa a suscitar "que a respeitável sentença merece reforma, sob o argumento de que ele agiu em legítima defesa. Mencionou sua inimizade com a vítima, alegando que ela possuía péssimo comportamento social. Requer, assim, o reconhecimento da aludida excludente de ilicitude" (e-STJ fl. 555).
+Desse modo, pareceu-me patente a falta de prequestionamento.
+Aplicável à hipótese, portanto, o disposto no enunciado 211 da Súmula desta Casa, segundo o qual é "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ilustrativamente, colecionei os seguintes precedentes:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO. DOSIMETRIA. CONFISSÃO E REINCIDÊNCIA. COMPENSAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. RESP N. 1341370/MT. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. AGRAVO NÃO PROVIDO.
+1. A tese acerca da incidência da atenuante da confissão e sua posterior compensação com a agravante da reincidência não foi objeto de debate pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incide ao caso a Súmula n. 282 do STF.
+ ..
+3. Agravo regimental não provido. Ordem de habeas corpus concedida de ofício para determinar a compensação da agravante da reincidência com a atenuante da confissão, redimensionando a pena para 9 anos, 7 meses e 6 dias de reclusão e 19 dias-multa, mantidos os demais termos da condenação. (AgRg no REsp 1778141/RO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/03/2019, DJe 25/03/2019.)
+PROCESSUAL PENAL. AGRAVOS REGIMENTAIS NO AGRAVO EM RECURSO ESPECIAL. ART. 16, CAPUT, DA LEI 10.826/03, ART. 288, PARÁGRAFO ÚNICO, DO CP, ART. 157, § 2, I, II E V, DO CP E ART. 155, § 4º, II E IV, DO CP. AGRAVO DE A. M. DA S. S. SUSTENTAÇÃO ORAL NO AGRAVO REGIMENTAL. IMPOSSIBILIDADE. INTEMPESTIVIDADE. DECISÃO MANTIDA. CONTINUIDADE DELITIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AUMENTO NA TERCEIRA ETAPA DA DOSIMETRIA PELO NÚMERO DE MAJORANTES DO CRIME DE ROUBO. ILEGALIDADE FLAGRANTE. SÚMULA 443/STJ. REDUZIDA AS PENAS. AGRAVO IMPROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+ ..
+5. Carece o recurso especial de A. G. DE J e S. C. DA S. do indispensável requisito do prequestionamento quanto ao reconhecimento da continuidade delitiva. Incidência das Súmulas 282 e 356/STF.
+ ..
+7. Agravos regimentais improvidos e habeas corpus concedido, de ofício, para reduzir as penas dos agravantes relacionadas aos crimes de roubo, ante a inobservância da Súmula 443/STJ, mantido o regime fechado. (AgRg no REsp 1668610/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 13/12/2018, DJe 04/02/2019.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. FIXAÇÃO DA PENA. ERRO MATERIAL NO ACÓRDÃO RECORRIDO. SÚMULAS 282 E 356 DO STF. ART. 33, § 4º, DA LEI 11.343/2006. INAPLICABILIDADE. SÚMULA 7/STJ. REGIME SEMIABERTO. ART. 33, § 2º, "b", e § 3º, DO CP. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A suposta existência de erro material na fixação da reprimenda não foi tratada pelo acórdão recorrido e tampouco foram opostos embargos de declaração para sanar o suposto defeito. Aplica-se, por analogia, as Súmulas 282 e 356 do STF.
+ ..
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 980.386/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/03/2017, DJe 17/03/2017.)
+Com efeito, entende "esta Corte que o prequestionamento ficto é possível até mesmo na esfera penal, desde que no recurso especial tenha o recorrente apontado violação ao art. 619 do CPP (dispositivo do CPP correspondente ao art. 1.022 do CPC), a fim de permitir que o órgão julgador analise a (in)existência do vício assinalado e, acaso constatado, passe desde então ao exame da questão suscitada, suprimindo a instância inferior, se necessário, consoante preleciona o art. 1.025 do CPC" (AgRg no REsp n. 1.669.113/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/4/2018, DJe 11/5/2018).
+No entanto, "não há falar em adoção do prequestionamento ficto, haja vista sua inaplicabilidade quando a parte suscita a matéria apenas em embargos de declaração. Deveras, o art. 1.015 do CPC, aplicável analogicamente ao processo penal, tem o intuito de permitir à Corte ad quem sanar o vício de omissão, contradição ou obscuridade apontado pela parte e não apreciado pelo órgão a quo, mesmo quando opostos embargos declaratórios. Na espécie, a tese defensiva não foi formulada perante o Tribunal estadual em apelação, mas apenas nos aclaratórios, em evidente inovação recursal" (AgRg no HC n. 608.585/SC, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/12/2020, DJe 15/12/2020).
+Nesse sentido também é a jurisprudência ao afirmar que "não manifesta a hipótese do art. 1.025 do CPC/2015 (prequestionamento ficto) quando o tema é arguido apenas nos embargos de declaração, em inovação recursal, e a parte não o indica para fins de violação do art. 1.022 do CPC/2015" (AgInt no REsp n. 1.703.367/SC, relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 2/12/2019, DJe 6/12/2019).
+No mesmo caminhar, destaco este precedente:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. NOVAS TESES TRAZIDAS NOS EMBARGOS DE DECLARAÇÃO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Este Tribunal Superior possui entendimento pacificado no sentido de que a alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade (REsp 1.439.866/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/04/2014, DJe 6/5/2014).
+2. Os embargos de declaração interpostos após a formação do acórdão, com o escopo de prequestionar tema não veiculado anteriormente no processo, não caracterizam prequestionamento, mas pós-questionamento. Incidência da Súmula nº 211 do STJ. (AgRg no Ag n. 705.169/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 21/09/2009).
+3. Agravo regimental improvido. (AgRg no AREsp 982.366/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 01/03/2018, DJe 12/03/2018)
+Ante o exposto, ratifico os termos da decisão de e-STJ fls. 762/764 e nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
