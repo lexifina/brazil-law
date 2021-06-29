@@ -1,0 +1,31 @@
+Decisão: Trata-se de reclamação, com pedido de medida liminar, ajuizada em favor de Gabriel Felipe Batista de Siqueira contra ato do Juiz de Direito da Unidade Regional de Departamento Estadual de Execução Criminal – DEECRIM 4º RAJ, da Comarca de Campinas, por alegada violação à Súmula Vinculante 56 do STF.
+    O reclamante foi condenado à pena de 5 (cinco) anos de reclusão, em regime inicial fechado, em razão de condenação no artigo 33, caput, da Lei nº 11.343/2006.
+    Afirma que cumpriu o requisito objetivo para progressão ao regime semiaberto, mas ainda aguarda a remoção para estabelecimento adequado à sua condição processual desde 2.6.21.
+    Alega que “o reclamante cumpre pena no superlotado Centro de Detenção Provisória de Limeira. Com capacidade para 823 presos, e com população atual de 1557 homens. A taxa de ocupação está 100% acima do limite, sem equipe mínima de saúde. Um acinte ao Estado de Direito.”(eDOC 1, p. 3)
+    Acrescenta que “Conforme informações atuais da SAP (Secretaria da Administração Penitenciária) o Estado de São Paulo já conta com 50 mortes de detentos confirmadas por COVID-19, 2232 casos confirmados com exame PCR, 11387 casos positivos em testes rápidos e outros 3150 casos suspeitos.”(eDOC 1, p. 5).
+    Requer, portanto, a transferência para regime domiciliar ou em regime aberto. (eDOC 1).
+    Solicitadas informações (eDOC 6), o reclamado se pronunciou. (eDOCs 9)
+    É o relatório.
+    Decido.
+    No caso, verifica-se que o apenado encontra-se em estabelecimento prisional mais gravoso do que aquele a quem tem direito, em violação à súmula vinculante 56 e que prescreve que “a falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS.”
+    Verifica-se que o precedente paradigma da citada súmula vinculante foi o tema 423 da repercussão geral, cuja tese firmada restou assim ementada:
+    “I - A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso;
+    II - Os juízes da execução penal poderão avaliar os estabelecimentos destinados aos regimes semiaberto e aberto, para qualificação como adequados a tais regimes. São aceitáveis estabelecimentos que não se qualifiquem como colônia agrícola, industrial (regime semiaberto) ou casa de albergado ou estabelecimento adequado (regime aberto) (art. 33, § 1º, alíneas b e c);
+    III - Havendo déficit de vagas, deverá determinar-se: (i) a saída antecipada de sentenciado no regime com falta de vagas; (ii) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; (iii) o cumprimento de penas restritivas de direito e/ou estudo ao sentenciado que progride ao regime aberto. Até que sejam estruturadas as medidas alternativas propostas, poderá ser deferida a prisão domiciliar ao sentenciado”.
+    Esta Corte reconheceu a ilegitimidade do cumprimento de pena em regime mais grave que o imposto na sentença, em razão da ausência de vaga em estabelecimento prisional adequado a seu regime. Entretanto, estipulou uma série de medidas a serem observadas antes do deferimento da prisão domiciliar ao sentenciado, posicionada no último lugar entre as opções disponíveis.
+    O Juízo reclamado apresentou informações. Declarou que, de fato, o reclamante faz jus ao regime semiaberto. Entretanto, as transferências não são realizadas de forma instantânea no Estado de São Paulo. Acrescentou, nesse sentido:
+    ”O executado cumpre pena de 5 anos de reclusão, em regime inicial fechado, em razão de condenação no artigo 33, caput, da Lei nº 11.343/2006, conforme processo de execução nº 0017322-21.2019.8.26.0502.
+    Em 2 de junho de 2021 foi concedida a progressão ao regime semiaberto.
+    Em 9 de junho de 2021, a Defensoria Pública pugnou pela concessão de saída antecipada.
+    O Ministério Público manifestou-se desfavoravelmente.
+    Por decisão proferida em 21 de junho de 2021, houve indeferimento do pedido formulado pela Defesa, uma vez que o reeducando foi progredido ao regime semiaberto em data recentíssima e mesmo em situação de normalidade, as transferências não são realizadas de forma instantânea no Estado de São Paulo, de modo que para o período de pandemia, porque a SAP, por óbvio, segue adotando medidas que visam a não disseminação da COVID-19 no sistema prisional, razoável aguardar-se ao menos até esgotado o prazo de 60 dias.
+    Ressalte-se que em decorrência do crescente número de processos, do acúmulo excessivo de serviços e da escassez de servidores, adotou-se um critério de equidade que pudesse atender a todos os jurisdicionados desta circunscrição, impondo, desta forma, rigorosa ordem cronológica no processamento dos feitos, no intuito de evitar paralisações de processos daqueles que não têm condições de constituir defesa. Assim, sem qualquer preferência de processos que apresentem pedidos de benefícios, cingiu a postura da ordem cronológica promovendo andamento em todos os processos, indistintamente, enobrecendo a justiça entre os iguais, em corolário aos princípios fundamentais, garantidos por nossa Constituição. ”(eDOC 9)
+    Da leitura do excerto acima, fica evidenciado o direito do reclamante ao regime semiaberto, eis que adimpliu os requisitos objetivo e subjetivo para a progressão de regime.
+    Sendo assim, sua manutenção em regime mais gravoso vai de encontro ao que estabelece a Súmula Vinculante 56 e aos critérios fixados no Recurso Extraordinário 641.320, de modo que deve o Executivo providenciar a imediata inserção do reclamante no regime a que tem direito.
+    Ressalta-se que o reclamante é réu primário e o crime não foi cometido com violência ou grave ameaça. (eDOC 3, p. 4).
+    Ante o exposto, com base no artigo 161, parágrafo único, do RI/STF, julgo procedente a presente reclamação para determinar ao reclamado que insira o reclamante no regime semiaberto, no prazo máximo de (10) dez dias e, na sua falta, seja realizada a transferência para regime domiciliar ou ao regime aberto até o surgimento da vaga no regime intermediário.
+    Publique-se. Comunique-se.
+    Brasília, 29 de junho de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
