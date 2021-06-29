@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de Recurso Ordinário em Mandado de Segurança (arti. 105, inciso II, alínea "b", da Constituição Federal) interposto contra acórdão do Tribunal de Justiça do estado de Minas Gerais cuja ementa é a seguinte:
+MANDADO DE SEGURANÇA ORIGINÁRIO - AGENTE DE SEGURANÇA PENITENCIÁRIO - PROMOÇÃO POR ESCOLARIDADE ADICIONAL - INSTITUIÇÃO PELA LEI N.º 14.695/2003 - REGULAMENTAÇÃO - DECRETO N.º 44.769/2008 - EXTRAPOLAÇÃO DO PODER REGULAMENTAR - ESTIPULAÇÃO DE CONDIÇÕES NÃO PREVISTAS EM LEI - IMPOSSIBILIDADE - IRDR N.º 1.0000.16.049047- 0/001 - LIMITAÇÕES TEMPORAIS AFASTADAS - PREENCHIMENTO DOS DEMAIS REQUISITOS - NÃO COMPROVAÇÃO - AUSÊNCIA DE DIREITO LÍQUIDO E CERTO - SEGURANÇA DENEGADA.
+- A promoção por escolaridade adicional devida aos agentes de segurança penitenciários foi instituída pela Lei n.º 14.695/2003 e regulamentada pelo Decreto n.º 44.769/2008, tendo este criado limites à concessão do benefício, extrapolando seu poder regulamentar, conforme reconhecido em tese firmada no julgamento do IRDR n.º 1.0000.16.049047-0/001.
+- Os obstáculos imotivadamente criados pelo Decreto, que deveria simplesmente regulamentar o que previsto na Lei n.º 14.695/2003, são antijurídicos por violarem o princípio da isonomia, prejudicando o servidor que, embora preencha os requisitos dispostos na lei, não pode obter a promoção pelo fato de não ter cumprido os limites por ele impostos.
+- Nos termos da norma regulamentadora, a concessão da promoção por escolaridade depende da comprovação da correlação entre o título acadêmico apresentado com a natureza e complexidade do cargo ocupado, bem como da análise e aprovação pela Câmara de Coordenação Geral, Planejamento, Gestão e Finanças, motivo pelo qual, não tendo esses requisitos sido comprovados pelo impetrante, não se há de falar em direito líquido e certo à promoção.
+A parte recorrente, em seu Recurso Ordinário, basicamente reitera os fundamentos já apresentados na exordial domandamus,no tocante ao direito líquido e certo de ser promovidano cargo público ocupado.
+Contrarrazões às fls. 259-274, e-STJ.
+O Ministério Público Federal não opinou no presente feito:
+RECURSO EM MANDADO DE SEGURANÇA.ADMINISTRATIVO. SERVIDOR PÚBLICO. DIREITO INDIVIDUAL DISPONÍVEL. INEXISTÊNCIA DE (I) INTERESSE PÚBLICO OU SOCIAL, (II) INTERESSE DE INCAPAZ OU (III) LITÍGIOS COLETIVOS PELA POSSE DE TERRA RURAL OU URBANA.PRESCINDIBILIDADE DA INTERVENÇÃO DO MINISTÉRIO PÚBLICO COMO FISCAL DA LEI.EXEGESE DOS ARTS. 127 DA CF DE 1988, C/C 178, I, II E III, E PARÁGRAFO ÚNICO, DO CPC DE 2015.RESTITUIÇÃO DOS AUTOS SEM APRECIAÇÃO DO MÉRITO DA CAUSA.
+É orelatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 4.6.2021.
+1. Histórico da demanda
+Cuida-se de irresignação contra a decisão do Tribunal de origem que denegou a ordem em Mandado de Segurança para fins de promoção por escolaridade adicional ao exigido para seu cargo.
+Em suas razões recursais, a parte recorrente sustenta, em síntese, que foi aprovadaem concurso público para o cargo de Analista de Defesa Social.
+Aduz que requereu a concessão do adicional de escolaridade, uma vez que preenche todos os requisitos, entre eles a conclusão dePós-Graduação em Saúde Coletiva.
+2. Previsão normativa
+O art. 17da Lei Estadual 15.301/2004 normativa a progressão ou promoção por escolaridade adicional ao exigido para o cargo de Analista de Defesa Social.
+Nesse dispositivo, observa-se a necessidade de o curso ter pertinência com as atribuições desenvolvidas no cargo.Confira-se:
+Art. 17 - Haverá progressão ou promoção por escolaridade adicional, nos termos de decreto, após aprovação da Câmara de Coordenação Geral, Planejamento, Gestão e Finanças, aplicando-se fator de redução ou supressão do interstício necessário e do quantitativo de avaliações periódicas de desempenho individual satisfatórias para fins de progressão ou promoção, na hipótese de formação complementar ou superior àquela exigida para o nível em que o servidor estiver posicionado, relacionada com a natureza e a complexidade da respectiva carreira.
+Parágrafo único - Os títulos apresentados para aplicação do disposto no "caput" deste artigo poderão ser utilizados uma única vez, sendo vedado seu aproveitamento para fins de concessão de qualquervantagem pecuniária, salvo para concessão do Adicional de Desempenho - ADE.
+Contudo, o Tribunal de origem não reconheceu o direito líquido e certo à progressão justamente por falta de comprovação da compatibilidade entre as funções da ora recorrente e a formação acadêmica por ela concluída, além de ausência deaprovação pela Câmara de Coordenação Geral, Planejamento, Gestão e Finanças.
+3. Posicionamento do Tribunal de origem
+Seguemtrechos do acórdãoa quo(fl. 203, e-STJ):
+Quanto ao requisito da comprovação da aprovação da promoção pela Câmara de Coordenação Geral, Planejamento, Gestão e Finanças, estou em que também representa óbice à pretensão inicial.
+O art. 4º, inc. VI, do Decreto n.º 44.769/2008, assim como o art.17 da Lei 15.301/2004, condiciona a concessão da promoção por escolaridade adicional ao encaminhamento de relatório para a Câmara, informando o impacto financeiro decorrente da promoção e a relação nominal de servidores aptos para sua obtenção, a fim de se verificar a disponibilidade orçamentária. Destarte, a promoção somente é concedida após a aprovação pela Câmara de Coordenação Geral, Planejamento, Gestão e Finanças.
+No caso em comento, o impetrante, de fato, não comprovou essa aprovação, assim como não demonstrou a correlação do título acadêmico apresentado com as funções do cargo; este último requisito, inclusive, ao meu modesto inteligir, demandaria discussão aprofundada em ação ordinária, com dilação probatória.
+Portanto, o impetrante não possui direito líquido e certo à promoção por escolaridade adicional, tendo em vista que a concessão do benefíciodepende da demonstração de correlação entre o título acadêmico apresentado e a natureza e complexidade do cargo exercido, bem como da análise e aprovação da Câmara de Coordenação Geral, Planejamento, Gestão e Finanças; deve, todavia, ser reconhecida a ilegalidade das limitações temporais previstas no art. 4, V, do Decreto n.º 44.769/2008, o que impõe a anulação do ato administrativo impugnado.
+4. Ausência de direito líquido e certo
+O Mandado de Segurança visa proteger direito líquido e certo, ou seja, é pressuposto que o impetrante traga aos autos prova pré-constituída e irrefutável da certeza do direito a ser tutelado, capaz de ser comprovado de plano por documento inequívoco.
+Logo, somente aqueles direitos plenamente verificáveis, sem a necessidade de qualquer dilação probatória, é que ensejam a impetração do Mandado de Segurança, não se admitindo, para tanto, os direitos de existência duvidosa ou decorrentes de fatos ainda não determinados.
+Desta feita, evidencia-se a ausência de um dos requisitos ensejadores da impetração doWrit of Mandamus, qual seja, a comprovação do direito líquido e certo da parte impetrante por meio de prova pré-constituída, motivo que leva à denegação da segurança deste remédio heróico, sem prejuízo de a autora buscar por outros meios a satisfação do seu bem da vida.
+5. Precedentes
+Assim, entende o STJ queo Mandado de segurança não é instrumento processual adequado à realização de atividade instrutória.
+Nesse sentido, o seguinte precedente do Superior Tribunal de Justiça em hipótese semelhante ao caso dos autos:
+ADMINISTRATIVO EPROCESSUAL CIVIL.RECURSO ORDINÁRIO. AGENTE PENITENCIÁRIO. LEI ESTADUAL 14.695/2003.PROMOÇÃO. DILAÇÃO PROBATÓRIA INADMISSÍVEL EM MANDADO DE SEGURANÇA.
+1. Perquirir se a graduação em Serviço Social ostenta correlação com as funções desempenhadas por ocupante do cargo de Agente Penitenciário demanda dilação probatória, o que não é possível em Mandado de Segurança, via processual na qual se exige prova documental pré-constituída.
+2. Recurso Ordinário não provido.
+(RMS 54.118/MG, Rel.Ministro HERMAN BENJAMIN, Segunda Turma, DJe 12/9/2017)
+No mesmo sentido:
+ADMINISTRATIVOE PROCESSUAL CIVIL.AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. AGENTE PENITENCIÁRIO.GRADUAÇÃO EM CIÊNCIAS CONTÁBEIS.PROMOÇÃO POR ESCOLARIDADE ADICIONAL.ART. 11, § 3º, DA LEI ESTADUAL 14.695/2003.DECRETO ESTADUAL 44.769/2008. REQUISITOS.FORMAÇÃO RELACIONADA COM A NATUREZA E A COMPLEXIDADE DA CARREIRA. NÃO CUMPRIMENTO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. SEGURANÇA DENEGADA.DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE, NA VIA DO MANDADO DE SEGURANÇA. AGRAVO INTERNO IMPROVIDO.
+I. In casu, trata-se de Mandado de segurança, impetrado por servidor público estadual, ocupante do cargo de Agente de Segurança Penitenciário, contra suposto ato ilegal do Secretário de Estado de Defesa Social de Minas Gerais, objetivando a concessão da promoção por escolaridade adicional, anteriormente indeferida, por entender que preenche todos os requisitos previstos no art. 11 da Lei estadual 14.695/2003.
+II. O art. 11, § 3º, da Lei estadual 14.695/2003 - que criou a carreira de Agente de Segurança Penitenciário e deu outras providências -, com redação dada pela Lei estadual 15.788/2005, assegurou o direito, aos integrantes da carreira, à promoção/progressão por escolaridade adicional, consignando, expressamente, que, mediante decreto regulamentador, a progressão ou promoção em análise, entre outros requisitos, perfaz-se quando a formação complementar ou superior está "relacionada com a natureza e a complexidade da respectiva carreira".
+III. É pacífica a jurisprudência desta Corte no sentido de que "o Mandado de Segurança detém entre seus requisitos a demonstração inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré- constituída, inexistindo espaço para dilação probatória na célere via do mandamus" (STJ, RMS 45.989/PB, Rel.Ministro HERMAN BENJAMIN, Segunda Turma, DJe de 06/04/2015).
+IV. Na forma da jurisprudência, "perquirir se a graduação (..) ostenta correlação com as funções desempenhadas por ocupante do cargo de Agente Penitenciário demandariadilação probatória, o que não é possível em sede de mandado de segurança, via processual na qual se exige prova documental pré-constituída" (STJ, AgInt no RMS 52.261/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 18/10/2017).
+(..).
+V. Agravo interno improvido.
+(AgInt no RMS 54.204/MG, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, DJe 28/6/2018)
+Pelo exposto,nega-se provimento ao Recurso Ordinário, ressalvado ao impetrante o acesso às vias ordinárias.
+Publique-se.
+Intimem-se.
