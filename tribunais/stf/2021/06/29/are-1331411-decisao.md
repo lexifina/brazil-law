@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quinta Turma do Superior Tribunal de Justiça, assim ementado:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME DE ESTELIONATO. RETROATIVIDADE DO ART. 171. § 5º, DO CÓDIGO PENAL, ACRESCENTADO PELA LEI N. 13.964/2019. INOCORRÊNCIA. DENÚNCIA OFERECIDA ANTES DA VIGÊNCIA DA LEI NOVA. ENTENDIMENTO DA QUINTA TURMA DO STJ E DA PRIMEIRA TURMA DO STF. ACORDO ENTRE AS PARTES. EFEITOS DIVERSOS DA ABSOLVIÇÃO. RECURSO NÃO PROVIDO.
+    1. Como é de conhecimento, a Quinta Turma do STJ firmou jurisprudência no sentido de que a retroatividade da representação da vítima no crime de estelionato não alcança aqueles processos cuja denúncia já foi oferecida. Na hipótese, a denúncia foi oferecida antes das alterações promovidas pela Lei n. 13.964/2019, conhecida como "Pacote Anticrime".
+    2. No mesmo sentido, a Primeira Turma do Supremo Tribunal Federal, no julgamento do HC n. 187.341, da relatoria do E. Ministro ALEXANDRE DE MORAES, decidiu, por unanimidade de votos, que é inaplicável a retroatividade do § 5º do art. 171 do Código Penal às hipóteses em que o Ministério Público tiver oferecido a denúncia antes da entrada em vigor da Lei n. 13.964/2019.
+    3. Por fim, o acordo entre as partes (vítima e autora do suposta fato criminoso), realizado antes do recebimento da denúncia resulta, no tocante ao crime de estelionato na sua forma fundamental, na aplicação do art. 16 do Código Penal (arrependimento posterior), não gerando o efeito de trancar a ação penal ou de absolver o acusado (HC-279.805/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª Turma, DJe de 10/11/2014). Caso a reparação do dano ocorra após o recebimento da denúncia, aplica-se o art. 65 do CP (circunstância atenuante).
+    4. Recurso ordinário em habeas corpus não provido.”
+    No recurso extraordinário, sustenta-se violação do artigo 5º, inciso XL, da Constituição Federal, eis que deveria ser reconhecida a aplicação retroativa do § 5º do art. 171 do Código Penal, com a redação da Lei n. 13.964/2019, reconhecendo-se a extinção da punibilidade ante a prática de ato incompatível com a representação, considerado o acordo firmado entre a partes.
+    Decido.
+    A irresignação não merece prosperar.
+    O acórdão recorrido decidiu que o § 5º do art. 171, com a redação dada pela Lei nº 13.964/19 (Pacote Anticrime), que condiciona a ação penal por crime de estelionato à representação da vítima, não deve retroagi na hipótese em exame, pois, quando da entrada em vigor da referida alteração, já havia sido oferecida denúncia contra a recorrente.
+    Esse entendimento não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, quando da apreciação do HC nº 187.341/SP, Relator o Ministro Alexandre de Moraes. O acórdão desse julgamento ficou assim ementado:
+    “HABEAS CORPUS. ESTELIONATO. AÇÃO PENAL PÚBLICA CONDICIONADA A PARTIR DA LEI N. 13.964/19 ("PACOTE ANTICRIME"). IRRETROATIVIDADE NAS HIPÓTESES DE OFERECIMENTO DA DENÚNICA JÁ REALIZADO. PRINCÍPIOS DA SEGURANÇA JURÍDICA E DA LEGALIDADE QUE DIRECIONAM A INTERPRETAÇÃO DA DISCIPLINA LEGAL APLICÁVEL. ATO JURÍDICO PERFEITO QUE OBSTACULIZA A INTERRUPÇÃO DA AÇÃO. AUSÊNCIA DE NORMA ESPECIAL A PREVER A NECESSIDADE DE REPRESENTAÇÃO SUPERVENIENTE. INEXISTÊNCIA DE ILEGALIDADE. HABEAS CORPUS INDEFERIDO.
+    1.Excepcionalmente, em face da singularidade da matéria, e de sua relevância, bem como da multiplicidade de habeas corpus sobre o mesmo tema e a necessidade de sua definição pela PRIMEIRA TURMA, fica superada a Súmula 691 e conhecida a presente impetração.
+    2. Em face da natureza mista (penal/processual) da norma prevista no §5º do artigo 171 do Código Penal, sua aplicação retroativa será obrigatória em todas as hipóteses onde ainda não tiver sido oferecida a denúncia pelo Ministério Público, independentemente do momento da prática da infração penal, nos termos do artigo 2º, do Código de Processo Penal, por tratar-se de verdadeira “condição de procedibilidade da ação penal” .
+    3. Inaplicável a retroatividade do §5º do artigo 171 do Código Penal, às hipóteses onde o Ministério Público tiver oferecido a denúncia antes da entrada em vigor da Lei 13.964/19; uma vez que, naquele momento a norma processual em vigor definia a ação para o delito de estelionato como pública incondicionada, não exigindo qualquer condição de procedibilidade para a instauração da persecução penal em juízo.
+    4. A nova legislação não prevê a manifestação da vítima como condição de prosseguibilidade quando já oferecida a denúncia pelo Ministério Público.
+    5. Inexistente, no caso concreto, de ilegalidade, constrangimento ilegal ou teratologia apta a justificar a excepcional concessão de Habeas Corpus. INDEFERIMENTO da ordem.” (Primeira Turma, DJe de 4/11/20).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 29 de junho de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
