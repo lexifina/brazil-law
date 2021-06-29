@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por estar em conformidade com a jurisprudência do STJ (e-STJ fls. 343/345).
+O acórdão recorrido traz a seguinte ementa (e-STJ fls. 276/277):
+EMENTA: APELAÇÃO CÍVEL. DIREITO CIVIL E DO CONSUMIDOR.CONTRATO DE COMPRA E VENDA DE IMÓVEL. DESISTÊNCIA DO COMPRADOR APELADO. PLEITO DE RESTITUIÇÃO DOS VALORES PAGOS.SENTENÇA QUE RECONHECEU O DIREITO DA CONSTRUTORA APELANTE À RETENÇÃO DE 25% DAS QUANTIAS PAGAS. DESCONTO DAS DESPESAS COM CORRETAGEM. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.HONORÁRIOS RECURSAIS. NÃO CABIMENTO. SENTENÇA QUE FIXOU HONORÁRIOS DE SUCUMBÊNCIA NO LIMITE MÁXIMO DE 20%. LITIGÂNCIA DE MÁ-FÉ. AUSÊNCIA DE DEMONSTRAÇÃO.
+1. No caso de rescisão de contrato de compra e venda por iniciativa do comprador, a construtora faz jus à retenção parcial dos valores pagos, a fim de fazer frente às despesas administrativas por esta suportadas (Súmula nº 543 do STJ e art. 475 do CC/2002). O percentual de retenção pela construtora, contudo, não pode ser irrisório ao ponto de trazer-lhe prejuízo com a desistência do comprador, estimulando, inclusive, a especulação imobiliária por parte de investidores, e tampouco exorbitante, de modo a colocar o consumidor em desvantagem exagerada, transferindo-lhe os riscos do empreendimento. Oentendimento dominante em sede do STJ é no sentido de considerar razoável e adequada a retenção, pelo vendedor, de percentual entre 10% e 25%, a depender das peculiaridades do caso concreto. Fixação do percentual de 25% na sentença recorrida, que deve ser mantido.
+2. Para que seja válida a transferência do ônus de pagar a comissão de corretagem ao comprador, é necessária a informação prévia e clara no contrato, com o destaque do valor da comissão no valor do preço total do negócio jurídico.
+REsp Repetitivo nº 1599511/SP. Abusividade de tal repasse no caso concreto.
+3. Não cabe a majoração dos honorários de sucumbência em sede recursal quando estes já tenham sido fixados em sentença no limite máximo de 20% sobre o valor da condenação (art. 85, §11, do CPC/2015).
+4. A má-fé processual pressupõe conduta ardilosa no intuito de postergar indevidamente o feito ou induzir o juízo a erro, sendo ônus de quem alega comprovar o comportamento artificioso da parte adversa.
+No especial (e-STJ fls. 300/311), fundamentado no artigo 105, inciso III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial,afronta ao art. 51, II e IV, do CDC,sustentando a validade da cláusula contratual que estipula o pagamento da comissão de corretagem pelo promitente comprador e a ausência de ofensa ao dever de informação.
+No agravo (e-STJ fls. 362/375), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 387/401).
+É o relatório.
+Decido.
+Quantoà comissão de corretagem, a jurisprudência desta Corte, no julgamento do REsp n. 1.599.511/SP, submetido ao rito dos recursos especiais repetitivos (art. 543-C do CPC/1973), consolidou o entendimento no sentido da validade da cláusula contratual que transfere ao promitente comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda de unidade autônoma, em regime de incorporação imobiliária, desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da comissão de corretagem. Confira-se:
+RECURSO ESPECIAL REPETITIVO. DIREITO CIVIL E DO CONSUMIDOR. INCORPORAÇÃO IMOBILIÁRIA. VENDA DE UNIDADES AUTÔNOMAS EM ESTANDE DE VENDAS. CORRETAGEM. CLÁUSULA DE TRANSFERÊNCIA DA OBRIGAÇÃO AO CONSUMIDOR. VALIDADE. PREÇO TOTAL. DEVER DE INFORMAÇÃO. SERVIÇO DE ASSESSORIA TÉCNICO-IMOBILIÁRIA (SATI). ABUSIVIDADE DA COBRANÇA.
+I - TESE PARA OS FINS DO ART. 1.040 DO CPC/2015:
+1.1. Validade da cláusula contratual que transfere ao promitente-comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda de unidade autônoma em regime de incorporação imobiliária, desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da comissão de corretagem.
+1.2. Abusividade da cobrança pelo promitente-vendedor do serviço de assessoria técnico-imobiliária (SATI), ou atividade congênere, vinculado à celebração de promessa de compra e venda de imóvel.
+II - CASO CONCRETO:
+2.1. Improcedência do pedido de restituição da comissão de corretagem, tendo em vista a validade da cláusula prevista no contrato acerca da transferência desse encargo ao consumidor. Aplicação da tese 1.1.
+2.2. Abusividade da cobrança por serviço de assessoria imobiliária, mantendo-se a procedência do pedido de restituição. Aplicação da tese 1.2.
+III - RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+(REsp n. 1599511/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 24/8/2016, DJe 6/9/2016.)
+No caso, ao concluir pela abusividade da cobrança dacomissão de corretagem, assim se manifestou o acórdão recorrido (e-STJ fls. 274/275):
+No caso dos autos, cotejando as cláusulas especiais do contrato de compra e venda firmado entre as partes (ID 3602627), observo que a Cláusula 3, que prevê o preço do negócio jurídico, não possui qualquer destaque ou menção ao valor da comissão de corretagem, somente estando previsto o valor total do negócio jurídico (R$ 530.000,00).
+Portanto, considerando que a comissão de corretagem é despesa negociada diretamente entre a construtora e a corretora, sem qualquer participação do consumidor, bem como que não restou devidamente destacado de forma clara e expressa no contrato o valor de tal comissão (em relação ao valor total do contrato), entendo que não compete à apelante repassar tal despesa à apelada.
+Para alterar tais fundamentos e concluir que não houve ofensa ao dever de informação, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários em favor da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, pois, na origem, a verba honorária foi estabelecida no percentual legal máximo.
+Publique-se e intimem-se.
