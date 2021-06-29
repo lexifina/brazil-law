@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de Embargos de Divergência em Recurso Especial interpostos contra acórdão da Primeira Turma do Superior Tribunal de Justiça assim ementado (fls. 321 e-STJ):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DECLARAÇÃO DE HIPOSSUFICIÊNCIA. PRESUNÇÃO RELATIVA. INDEFERIMENTO NA INSTÂNCIA ORDINÁRIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. Não há falar em violação dos artigos 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A aplicação do direito ao caso, ainda que por meio de solução jurídica diversa da requerida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+2. A afirmação de pobreza, para fins de obtenção da gratuidade da Justiça, goza de presunção relativa de veracidade, podendo o magistrado, de ofício, indeferir ou revogar o benefício, havendo fundadas razões acerca da condição econômico-financeira da parte de fazer frente às custas e/ou despesas processuais, pois "é dever do magistrado, na direção do processo, prevenir o abuso de direito e garantir às partes igualdade de tratamento" (AgInt no REsp 1.630.945/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 2/2/2017).
+3. Na espécie, a decisão mantida pelo Tribunal de origem indeferiu o pedido de assistência judiciária gratuita analisando a situação fático-probatória dos autos. Revela-se, assim, não ser possível o reexame de tal conclusão, encontrando óbice no teor da Súmula 7/STJ.
+4. A inadmissão do recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+5. Agravo interno não provido.
+Embargos de Declaração rejeitados (fl. 356, e-STJ).
+A parte embargante afirma existir divergência entre o acórdão recorrido e a decisão proferida pela Segunda Turma do Superior Tribunal de Justiça que, ao julgar o AREsp 1.664.505/RS, manifestou-se no sentido de que "o critério que observa apenas a remuneração líquida da parte, adotado pelo Tribunal de origem como parâmetro para o indeferimento do benefício vindicado não encontra amparo na Lei 1.060/1950, além de consistir em critério objetivo".
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 10/6/2021.
+O recurso não merece conhecimento, pois a parte embargante não comprovou a divergência entre o aresto embargado e o paradigma, limitando-se a transcrever a ementa dos julgados, sem realizar o necessário cotejo analítico, nos termos do art. 1.043, § 4º, do CPCe do art. 266, caput, do RISTJ.
+Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. PROGRESSÃO FUNCIONAL POR ESCOLARIDADE. INSTAURAÇÃO DE PROCEDIMENTO ADMINISTRATIVO DENTRO DO PRAZO DO ART. 54 DA LEI 9.784/1999. DECADÊNCIA. NÃO OCORRÊNCIA. INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA. REQUISITOS PARA DEMONSTRAÇÃO DA DIVERGÊNCIA. ARTIGOS 1.043, § 3º, DO CPC/2015, E 266, § 4º, DO RISTJ. DESCUMPRIMENTO.
+(..)
+3. Com efeito, os embargos de divergência têm por objetivo uniformizar a jurisprudência do Tribunal ante a adoção de teses conflitantes pelos seus órgãos fracionários na decisão de casos similares. Para tanto, faz-se necessária a demonstração da divergência atual mediante as circunstâncias que assemelhem ou identifiquem os casos confrontados, com a realização do cotejo analítico entre eles, nos termos do art. 1.043, § 4º, do CPC de 2015 e do art. 266, caput, do RISTJ.
+4. Além disso, esta Corte Superior, nos termos do § 4º do art. 1.043 do CPC/2015 e o artigo 266, § 4º, do RISTJ, entende que é pressuposto indispensável para a comprovação ou configuração da alegada divergência jurisprudencial a adoção pela parte recorrente, na petição dos embargos de divergência, de uma das seguintes providências, quanto aos paradigmas indicados: (a) certidões; (b) apontados; (c) credenciado nos quais eles se achem publicados, inclusive em mídia eletrônica; e (d) de computadores, com a indicação da respectiva fonte na Internet. Precedentes: AgInt nos EDcl nos EAREsp n. 1.121.421/RS, Corte Especial, Rel. Min. Jorge Mussi, DJe de 2/9/2019; AgInt nos EDcl nos EAREsp 1.448.596/DF, Rel. Ministro Felix Fischer, Corte Especial, DJe 14/9/2020.
+5. No caso dos autos, de fato, a parte embargante, no momento da interposição dos embargos de divergência, limitou-se a citar número de diversos processos paradigmas e a transcrever as referidas ementas, deixando de cumprir com regra técnica do presente recurso.
+6. Agravo interno não provido.
+(AgInt nos EREsp 1.814.155/MG, Rel. Min. Benedito Gonçalves, Corte Especial, DJe 12/2/2021)
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. INDEFERIMENTO LIMINAR. RECURSO ESPECIAL. NÃO CONHECIDO. SÚMULA 315 DO STJ. ÓBICE AO CONHECIMENTO DO RECURSO UNIFORMIZADOR. COTEJO ANALÍTICO. AUSÊNCIA. DISSÍDIO NÃO COMPROVADO. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. Ademais, o conhecimento dos embargos de divergência impõe a demonstração efetiva do dissídio entre o aresto impugnado e o acórdão paradigma, através do denominado cotejo analítico, no qual se deverá explicitar as circunstâncias que identifiquem ou assemelhem os casos confrontados, tendo eles, porém, tido pronunciamentos judiciais diametralmente opostos.
+4. Nesse contexto, não é suficiente a mera transcrição da ementa e/ou trechos do voto do julgado paradigma, sem se observar as prescrições legais e regimentais aplicáveis à espécie.
+5. Na espécie, das razões recursais deduzidas nos embargos de divergência, observa-se que o agravante tão somente transcreveu a ementa do acórdão tido por paradigma, deixando de efetuar o devido cotejo analítico entre os arestos confrontados, requisito indispensável para o conhecimento do recurso uniformizador.
+6. Agravo interno desprovido.
+(AgInt nos EAREsp 1.602.705/MG, Rel. Min. Jorge Mussi, Corte Especial, DJe 17/2/2021)
+Ademais, a decisão embargada não conheceu do Recurso Especial, aplicando ao caso a Súmula 7/STJ, por considerar que "a alteração das conclusões adotadas pela Corte regional acerca do indeferimento do pleito de concessão do benefício da justiça gratuita, considerando a existência de elementos de prova aptos a afastar a alegação de hipossuficiência, tal como colocadas as questões nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório" (fl. 329, e-STJ).
+Nesse passo, cumpre relembrar que os Embargos de Divergência não tem por objetivo reestabelecer a correção ou a justiça do caso concreto, mas uniformizar a interpretação da legislação federal. Incide, portanto, a Súmula 315/STJ.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL - ACÓRDÃO EMBARGADO QUE NÃO SE PRONUNCIOU ACERCA DO MÉRITO DO RECURSO ESPECIAL POR ÓBICE DA SÚMULA N.º 182/STJ - INVIABILIDADE DOS EMBARGOS DE DIVERGÊNCIA - SÚMULAS N.º 315 E 316/STJ. INSURGÊNCIA DA EMBARGANTE.
+1. É inadmissível o manejo de embargos de divergência contra acórdão que não se pronunciou sobre o mérito do recurso especial, nos termos das Súmulas n.º 315 e 316/STJ. Precedentes.
+2. Agravo interno desprovido.
+(AgInt nos EAREsp 1.526.570/RS, Rel. Min. Marco Buzzi, Segunda Seção, DJe 4/6/2021)
+PROCESSUAL CIVIL. TRIBUTÁRIO. IPVA. INEXIGIBILIDADE DE DÉBITO. PLURALIDADE DE DOMICÍLIOS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA 182/STJ. DESCABIMENTO DOS EMBARGOS DE DIVERGÊNCIA. ART. 1.043, I E II, DO CPC/2015. REGRA TÉCNICA DE ADMISSIBILIDADE RECURSAL. IMPOSSIBILIDADE DE REVISÃO. INCIDÊNCIA DA SÚMULA 315/STJ.
+(..)
+II - Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da da incidência da Súmula 182/STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+III - Agravo interno improvido. Julgo prejudicada petição de fls. 666-669, e-STJ.
+(AgInt nos EAREsp 1.435.693/SP, Rel. Min. Francisco Falcão, Corte Especial, DJe 28/5/2021)
+Ante o exposto, não conheço dos Embargos de Divergência.
+Publique-se.
+Intimem-se.
