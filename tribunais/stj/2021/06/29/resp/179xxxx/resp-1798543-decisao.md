@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão assim ementado:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ- EXECUTIVIDADE ACOLHIDA. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIOS DA SUCUMBÊNCIA E DA CAUSALIDADE. PROVEITO ECONÔMICO. VALOR DA EXECUÇÃO. ART. 85, § 2º, C/C §3º, I E II, DO CPC.
+1. A extinção da execução fiscal, ainda que parcial, em decorrência do acolhimento de exceção de pré-executividade autoriza a condenação da Fazenda Pública em honorários advocatícios, na medida em que a parte excipiente se viu compelida a contratar advogado para representá-la em juízo.A condenação se fundamenta no princípio da sucumbência, norteado pelo princípio da causalidade.
+2. No caso, não há se falar em baixo valor da causa, tampouco em inestimável ou irrisório proveito econômico, não sendo o caso, portanto, de fixação da verba mediante apreciação equitativa (art. 85, § 8º).
+3. Por outro lado, embora não haja condenação, é possível identificar facilmente o "proveito econômico", estando este diretamente relacionado com o valor da execução, uma vez que, caso mantidos no polo passivo, os bens dos executados/agravados estariam sujeitos à constrição até o limite do montante exequendo.
+4. Havendo devedores solidários, a estipulação do proveito econômico - exclusivamente para fins de sucumbência - deve considerar que cada executado responde proporcionalmente pelo valor devido.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente alega violação do art. 85, caput e parágrafos, e 1.022 do CPC/2015.
+É o relatório.
+Decido.
+O acórdão recorrido consignou:
+Não há dúvidas, portanto, de que o IBAMA deve ser condenado ao pagamento da verba advocatícia, não havendo falar em enriquecimento sem causa.
+No que tange ao valor, deve-se atentar ao disposto no art. 85 e seus parágrafos, do NCPC:(..)
+Como se vê, o novo Código de Processo Civil estabeleceu uma sistemática objetiva e concreta para a fixação dos honorários de sucumbência.
+Nas causas em que a Fazenda Pública for parte, a base de cálculo da verba honorária será o valor da condenação ou do proveito econômico (art. 85, § 3º).
+Por sua vez, a hipótese de apreciação equitativa só tem cabimento quando for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo (art. 85, § 8º).
+No caso, não há falar em baixo valor da causa, tampouco em inestimável ou irrisório proveito econômico, não sendo o caso, portanto, de fixação da verba mediante apreciação equitativa (art. 85, § 8º). Por outro lado, embora não haja condenação, é possível identificar facilmente o "proveito econômico", estando este diretamente relacionado com o valor da execução da qual os executados/agravados foram excluídos por ilegitimidade passiva, uma vez que, caso contrário, os bens dos executados estariam sujeitos à constrição até o limite do montante exequendo.
+No caso dos autos, tendo sido acolhida a exceção de pré-executividade quanto à ilegitimidade passiva dos executados, excluídos, portanto, do polo passivo do feito, a base de cálculo dos honorários advocatícios, consequentemente, deve ser o proveito econômico.
+Por outro lado, nos casos em que há pluralidade de executados, como ocorre na hipótese em exame, há que se ponderar que o credor não pode ser condenado a pagar os percentuais legalmente previstos sobre todo o valor da causa, sob pena de afigurar-se exagerada a condenação em honorários advocatícios, eventualmente até superior ao valor executado, o que não é razoável.
+Nessa linha, não se pode perder de vista que, ainda que a relação entre os co-devedores seja de solidariedade, o que viabiliza o pagamento integral do débito por apenas um deles, haverá direito de regresso por aquele que pagou em relação aos demais. Evidencia-se, assim, um critério objetivo a limitar o prejuízo que poderia, em tese, ser suportado por cada devedor.
+Assim, tenho entendido que, em casos tais, deve-se considerar - exclusivamente para fins de fixação da sucumbência - que cada executado responde proporcionalmente pelo valor devido, de modo que, havendo dois executados, por exemplo, o percentual do honorários deve ser aplicado sobre a metade do valor executado.
+Concretamente, portanto, considerando que há dois executados (Pontes Lavagem e Lubrificação de Veículos Ltda-EPP e Bruno Rodrigues de Moraes), e que os dois restaram excluídos da execução, o proveito econômico é o valor integral da execução fiscal nº 50403345720154047100 (metade para cada executado), sobre o qual deverá incidir o percentual de 10% fixado na decisão recorrida, com atualização monetária pelo IPCA-e. (fls. 29-31,e-STJ)
+E no julgamentos dos Aclaratórios constou:
+Cabem embargos de declaração contra qualquer decisão judicial para: a) esclarecer obscuridade ou eliminar contradição; b) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; c) corrigir erro material (CPC/2015, art. 1.022, incisos I a III). Em hipóteses excepcionais, admite a jurisprudência emprestar-lhes efeitos infringentes.
+A parte embargante sustenta que a decisão recorrida foi omissa, devendo ser revista.
+Não antevejo na espécie, porém, qualquer das hipóteses legais de admissibilidade dos embargos de declaração em face do aresto, em cuja fundamentação há manifestação expressa acerca da matéria questionada no recurso, verbis:
+A extinção da execução fiscal, ainda que parcial, em decorrência do acolhimento de exceção de pré-executividade autoriza a condenação da Fazenda Pública em honorários advocatícios, na medida em que a parte viu- se compelida a contratar advogado para representá-la em juízo. A condenação se fundamenta no princípio da sucumbência, norteado pelo princípio da causalidade, segundo o qual aquele que deu causa à propositura da demanda deve responder pelas despesas daí decorrentes. Nesse sentido:(..)
+Não há dúvidas, portanto, de que o IBAMA deve ser condenado ao pagamento da verba advocatícia, não havendo falar em enriquecimento sem causa.
+(..)
+Diante desse cenário, emerge a conclusão de que pretende o embargante reabrir a discussão acerca de matéria que já foi apreciada e julgada no acórdão, sem que esteja ele eivado de quaisquer dos vícios sanáveis através dos aclaratórios.
+A rejeição dos embargos, portanto, é medida que se impõe. (fls. 50-51, e-STJ)
+Não se configurou ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal a quo julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+In casu, fica claro que não há vícios a serem sanados e que os Aclaratórios veiculam mero inconformismo com o conteúdo do decisum embargado, que foi desfavorável à parte recorrente. Recorde-se, ademais, de que o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+O recurso não pretende aferir a interpretação das normas legais, mas a reanálise do conjunto fático-probatório dos autos.
+É evidente que alterar as conclusões adotadas pela Corte Regional - quanto ao entendimento de que o IBAMA deve ser condenado pelo principio da causalidade e de que a base de cálculo dos honorários advocatícios deve ser o proveito econômico - demanda novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, conheço parcialmente do Recurso Especial, somente com relação à preliminar de violação do art. 1.022 do CPC/2015, e, nessa extensão, nego-lhe provimento.
+Publique-se.Intimem-se.
