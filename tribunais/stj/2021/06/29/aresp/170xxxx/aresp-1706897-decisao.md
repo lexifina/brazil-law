@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto pelaEDITORA JORNAL DE BRASILIA LTDA. contra decisão doTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, quenão admitiu recurso especial, fundadona alínea "a" do permissivo constitucional, o qualdesafia acórdão assim ementado (e-STJ fl.80):
+DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. VERBA HONORÁRIA.RECOLHIMENTO DE CUSTAS. DISTRITO FEDERAL. ISENÇÃO. "HONORÁRIOSRECURSAISDESCABIDOS.
+I. De acordo com os artigos 1º do Decreto-Lei 500/1969 e 4º, inciso I, da Lei 9.289/1996, a isenção dorecolhimento das custas processuais não está adstrita à natureza do direito material deduzidojudicialmente, mas à presença do Distrito Federal ou de suas autarquias e fundações na relaçãoprocessual.
+II. Se não se objeta a legitimidade, ordinária ou extraordinária, do Distrito Federal para pleitear ocumprimento de sentença que tem por objeto honorários de sucumbência, deve ser assegurada a isençãoque está assentada, única e exclusivamente, na sua participação como parte da relação processual.
+III. Se a decisão recorrida não contempla honorários advocatícios, descabe cogitar da majoração previstano artigo 85, § 11, da Lei Processual Civil.
+IV. Recurso conhecido e provido. Agravo Interno prejudicado.
+Embargos de declaração rejeitados (e-STJ fl. 122).
+No recurso especial obstaculizado, a parte apontouviolaçãodos arts. 489, § 1º e1.022 do CPC/2015, por negativa de prestação jurisdicional, e, no mérito, doart. 1.034 do CPC/2015, do art. 4º, I, daLei n. 9.289/1996 e daSúmula 456 do STF, argumentando que o Tribunal de origem não pode conferir interpretação ampliada da Lei para abarcar os membros integrantes do Sistema Jurídico do Distrito Federal e afirma a existência de legitimidade concorrente, bem como que a verba em discussão nos autos possui naturezaprivada.
+Contrarrazõesàs e-STJ fls. 159/164.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Apretensão não merece prosperar.
+No tocante à alegada violação daSúmula 456 do STF, a pretensão recursal não comporta conhecimento, porquanto tal ato normativo não se enquadra no conceito de tratado ou lei federal de que cuida o artigo 105, III,"a", da Constituição Federal de 1988.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE NULIDADE DE CERTIDÃO DE DÍVIDA ATIVA QUE EMBASOU A EXECUÇÃO. REQUISITOS DA CDA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ALEGAÇÃO DE OFENSA A ENUNCIADO SUMULAR. DESCABIMENTO DE APRECIAÇÃO EM RESP. DISSÍDIO JURISPRUDENCIAL. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+ ..
+3. No tocante à violação da Súmula 373/STJ e da Súmula Vinculante 21/STF, esclareço que o apelo nobre não constitui via adequada para a análise de eventual contrariedade a enunciado sumular, por não estar este compreendido na expressão "lei federal", constante da alínea "a" do inciso III do artigo 105 da Constituição Federal.
+ ..
+6. Agravo Interno não provido. (AgInt no AREsp 934.693/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/12/2016, DJe 19/12/2016)
+Em relação à alegada ofensa dos arts.489, § 1º e 1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+Já o teor do art. 1.034 do CPC/2015, tido por violado no apelo extremo não foi alvo de debate no julgado impugnado, nem citado nos embargos de declaração na origem, o que denota a falta do indispensável prequestionamento e faz incidir, por analogia, o óbice da Súmula 282 do STF (AgInt no AREsp 905.798/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/08/2016, DJe 19/08/2016, e AgRg no REsp 1.408.130/AL, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 04/08/2015, DJe 14/08/2015).
+Não bastasse isso, quanto aos argumentos de que (a) o Tribunal de origem não pode conferir interpretação ampliada da Lei para abarcar os membros integrantes do Sistema Jurídico do Distrito Federal, (b) deve ser reconhecida aexistência de legitimidade concorrente e (c)a verba em discussão nos autos possui natureza privada,observa-se que o art.4º, I, da Lei n. 9.289/1996não possuicomando normativo apto a infirmar a tese adotada pelo acórdão recorrido, motivo pelo qual incide a Súmula 284 do STF.
+Leia-se, a propósito, a seguinte ementa:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FALTA DE PREQUESTIONAMENTO DOS ARTS. 3º, 113 E 128 DO CÓDIGO TRIBUTÁRIO NACIONAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. MULTA DO ART. 1.026 DO CPC. APLICAÇÃO NÃO ADEQUADA NA ESPÉCIE.
+ ..
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+ ..
+VII - Agravo Interno improvido. (AgInt no REsp 1.714.321/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 1º/06/2018).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
