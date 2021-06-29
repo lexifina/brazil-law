@@ -1,0 +1,19 @@
+DECISÃO
+RECLAMAÇÃO – AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE Nº 16 – ACÓRDÃO – INOBSERVÂNCIA – PEDIDO – PROCEDÊNCIA.
+    1. O assessor Eduardo Lasmar Prado Lopes prestou as seguintes informações:
+    O Município de São Bernardo do Campo afirma haver a Quarta Turma do Tribunal Regional do Trabalho da 2ª Região, no processo nº 1001087-38.2017.5.02.0473, inobservado o verbete vinculante nº 10 e o decidido na ação declaratória de constitucionalidade nº 16 e, sob a sistemática da repercussão geral, no recurso extraordinário nº 760.931 – Tema nº 246.
+    Narra estar em debate a responsabilidade subsidiária da Administração Pública quanto a encargos trabalhistas devidos a empregado de prestadora de serviços. Salienta mantida, em sede de recurso ordinário, a obrigação. Noticia interpostos agravos de instrumento e, após, interno, sem sucesso.
+    Diz proclamada, no processo objetivo, a validade do artigo 71, § 1º, da Lei nº 8.666/1993. Salienta fixada, no julgamento do recurso extraordinário nº 760.931, tese a revelar que o inadimplemento de encargos trabalhistas dos empregados do contratado não implica, automaticamente, transferência de responsabilidade, em caráter solidário ou subsidiário, ao ente contratante. Evoca jurisprudência. Sustenta transferido, sem comprovação de negligência na fiscalização, o pagamento das verbas. Realça contrariado o verbete vinculante nº 10, uma vez afastado, sem observância da cláusula de reserva de plenário, o mencionado artigo 71, § 1º, a dispor sobre a proibição da transferência, para o ente estatal, dos encargos.
+    Requereu, no campo precário e efêmero, a suspensão dos efeitos do ato impugnado. Busca, alfim, a cassação do pronunciamento atacado.
+    Vossa Excelência, em 10 de fevereiro de 2021, deferiu a liminar.
+    O Tribunal, em informações, relata o histórico processual. Transcreve trecho da decisão reclamada.
+    A interessada não apresentou contestação.
+    O Ministério Público Federal opina pelo não conhecimento da reclamação ante a impossibilidade de reanalisar fatos e provas. Diz reconhecida a omissão, pela Administração Pública, do dever de fiscalizar o cumprimento de obrigações trabalhistas, a revelar responsabilidade do ente público pelo adimplemento.
+    2. Tendo em conta o verbete nº 331 da Súmula do Tribunal Superior do Trabalho, partiu-se para a responsabilidade automática do Poder Público, observado preceito que não a versa, uma vez inexistente ato do agente público a causar prejuízo a terceiros, que são os trabalhadores. Mostra-se descabida a pretensão de reconhecimento de obrigação subsidiária do Poder Público quando arregimenta mão de obra, mediante prestadores de serviços, em razão do inadimplemento da contratada. Esse é o entendimento do Supremo, firmado no julgamento da ação declaratória de constitucionalidade nº 16, possuidor de eficácia vinculante. A óptica foi reiterada, sob o ângulo da repercussão geral, na apreciação do recurso extraordinário nº 760.931, redator do acórdão ministro Luiz Fux, Diário da Justiça eletrônico de 11 de setembro de 2017. Após examinar o precedente, o Pleno fixou, em 26 de abril de 2017, a seguinte tese:
+    O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93.
+    Frise-se que a falta de fiscalização do tomador dos serviços é estranha aos parâmetros subjetivos da relação jurídica regida pela Consolidação das Leis do Trabalho.
+    3. Julgo procedente o pedido formulado, para cassar o acórdão a Quarta Turma do Tribunal Regional do Trabalho da 2ª Região, no processo nº 1001087-38.2017.5.02.0473, no tocante à admissão de responsabilidade subsidiária do ente público.
+    4. Publiquem.
+Brasília, 29 de junho de 2021.
+Ministro MARCO AURÉLIO
+Relator
