@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. CRÉDITO TRIBUTÁRIO - AUTO DE INFRAÇÃO. ILEGALIDADE DA APLICAÇÃO DA PAUTA FISCAL. NÃO COMPROVADA. REDUÇÃO DA ALÍQUOTA DA CERVEJA SEM ÁLCOOL NÃO DIFERE DA CERVEJA COM ALCÓOL - AUSÊNCIA DE ESSENCIALIDADE. CARACTERISTICAS DE PRODUTOS SUPERFLÚOS. LEGITIMIDADE DO AUTO DE INFRAÇÃO. RECURSO IMPROVIDO. SENTENÇA MANTIDA.
+- Imperioso reconhecer que o MM. Juiz sentenciante laborou escorreitamente ao proferir a sentença nos limites legais e consoante à jurisprudência deste Egrégio Tribunal de Justiça que ao julgar Ação Direta de Inconstitucionalidade nº 0015908-51.2015.827.0000, reconheceu que não há como atribuir ao chope e à cerveja sem álcool características próprias de essencialidade que os distingam de produtos meramente supérfluos, pela natureza intrínseca à sua destinação.
+- In casu, inexiste em elementos para a fixação de alíquotas menores para a cerveja e o chope sem álcool, devendo ser mantido a sentença guerreada, haja vista que a Fazenda Pública tem o dever de buscar a satisfação do crédito tributário inadimplido como restou demonstrado no presente feito consubstanciado em Lei Estadual.
+- Recurso ao qual se nega provimento, para manter incólume a sentença de primeiro grau.
+Aponta a parte recorrente, em Recurso Especial, violação, em preliminar, dos arts. 489 e 1.022 do CPC; e, no mérito, dos arts. 3º e 97, I e II, do CTN. Aduz que na aludida Lei Estadual não há previsão para tributação de cervejas sem álcool, cumprindo, assim, a aplicação da alíquota de 17% para situações comuns, e não a de 25% destinada às operações de bebidas alcoólicas, conforme claramente disposto na lei estadual em comento.
+É o relatório.
+Decido.
+Os autos foram recebidos neste gabinete em 15 de junho de 2021.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Tribunal a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Observo, ainda,que o Tribunal local não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados.
+O Superior Tribunal de Justiça entende ser inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal de origem, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Não se pode conhecer da irresignação contra a ofensa a dispositivos legais que não foram analisados pela instância de origem, ainda que se trate de matéria de ordem pública, como a prescrição.
+Ressalto que, mesmo nos casos em que a instância ordinária acolhe os Embargos de Declaração "para efeito de prequestionamento", não é satisfeita a exigência. Isso porque, para que se tenha por atendido esse requisito, não basta que a Corte a quo dê por prequestionado o dispositivo, sendo indispensável também a emissão de juízo de valor sobre a matéria.
+Ausente, destarte, o requisito do prequestionamento.
+No mérito, para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (e-STJ, fls. 406-407):
+Extrai-se dos autos, que o Apelante opôs embargos contra a execução, referente a CDA A1645/2007, originária do Auto de infração nº 2005/0962, por ter recolhido a menor o valor da alíquota do ICMS, considerando aplicável a alíquota interna geral de 17%, porque entende que o art. 27, I, alínea "h" da Lei Estadual 1.287/01 dispõe que a alíquota específica de 25% é aplicável a bebidas alcoólicas, e não a cervejas sem álcool.
+Na r. sentença, objurgada o Magistrado a quo julgou improcedente o pedidos da embargante/apelante, fundamentado de que a aplicação do princípio da legalidade indica que a alíquota a ser aplicada deve ser a de 25 %, porquanto a mercadoria objeto da tributação é a cerveja, que possui na norma indigitada, a expressa previsão na alínea "h" do inciso I do art. 27 da Lei de Regência, não autorizando, nesse contexto, outra interpretação que afaste a incidência normativa da norma especializante.
+Com relação à alegada violação da legislação estadual, registre-se que a sua análise é obstada em Recurso Especial, por analogia, nos termos da Súmula 280/STF: "Por ofensa a direito local não cabe Recurso Extraordinário."
+Nesse sentido:
+PROCESSUAL CIVIL. PREQUESTIONAMENTO. AUSÊNCIA. APLICAÇÃO DAS SÚMULAS 282 E 356/STF. OFENSA AO ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO MANIFESTA. AUSÊNCIA. CONCLUSÃO LÓGICO-SISTEMÁTICA DO DECISUM. PRECEDENTES. INADEQUAÇÃO DA VIA ELEITA. LEI LOCAL. SÚMULA 280/STF. AGRAVO INTERNO DESPROVIDO.
+(..)
+IV - O manejo do recurso especial reclama violação ao texto infraconstitucional federal, sendo defeso ao Superior Tribunal de Justiça reexaminar a aplicação de legislação local, a teor do verbete Sumular 280/STF.
+V- Agravo interno desprovido.
+(AgRg no Ag 715.367/SP, Rel. Ministro GILSON DIPP, QUINTA TURMA, DJ 13/3/2006, p. 361)
+No mais, nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça. Afasta-se, assim, a ideia de simples valoração da prova, ante a incidência, no caso, da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, conheço do Agravo paranão conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
