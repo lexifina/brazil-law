@@ -1,0 +1,14 @@
+DECISÃO
+PAULO DIOSIFER ALUPP DO AMARAL, acusado por furto qualificado, alega sofrer constrangimento ilegal em razão de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, que denegou a ordem impetrada naquela Corte, na qual pretendia a revogação de medida cautelar imposta em primeiro grau.
+Neste writ, a defesa reitera o pedido formulado na origem, consubstanciado na desconstituição da medida cautelar de proibição de frequentar bares, boates e estabelecimentos semelhantes, imposta ao paciente, por considerar que não foi indicada motivação idônea.
+Indeferida a liminar (fls. 210-211) e prestadas as informações (fls. 215-219), foram os autos ao Ministério Público Federal, que se manifestou pelo não conhecimento do habeas corpus (fls. 224-227).
+Decido.
+Conforme orientação desta Corte, "a decisão judicial que estabelece medidas cautelares deve demonstrar, à luz do que dispõe o art. 282 do CPP, a necessária presença de exigência cautelar a justificar a medida" (HC n. 610.935/RJ, Rel. Ministro Rogerio Schietti, DJe 19/10/2020, destaquei), o que foi feito no caso.
+Deveras, depreende-se dos autos, que o Magistrado de primeiro grau, ao impor a medida cautelar ora impugnada, destacou o seguinte (fl. 62, grifei):
+ ..
+Analisando os autos, verifica-se que o custodiado furtou o veículo Fiat/Palio/Ed, placas CHB 3170. E, apesar do contido nas certidões de antecedentes criminais (evento 3) e da lesividade moral da conduta ilícita do flagrado, não há registros de maiores danos à vítima, já que o bem lhe foi restituído e o crime não foi praticado com violência, de modo que, a concessão da liberdade provisória é medida que se impõe.
+A afirmação feita pelo juiz no decisum, quanto aos antecedentes, é corroborada pelas informações de fls. 46-53 (folha de antecedentes), as quais indicam que o paciente responde por diversos crimes. Por isso, observo que há, na referida decisão, fundamentação mínima que justifica considerar a necessidade da adoção de alguma medida acautelatória, de modo que não há falar em falta de cautelaridade.
+Sob distinta angulação, reputo irrretocáveis as considerações feitas pelo acórdão de que "os fatos apurados aparentemente ocorrem durante a madrugada, a corroborar a pertinência do recolhimento noturno do paciente, notadamente no que tange à proibição de frequentar lugares após o horário estabelecido" (fl. 198).
+De fato, em razão das características do ilícito que foram devidamente expostas, das condições pessoais do acusado - que ostenta diversas passagens - e do critério do menor sacrifício necessário às exigências cautelares do processo, entendo pertinente e adequada a medida ora impugnada, de modo que não há constrangimento ilegal a ser corrigido.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
