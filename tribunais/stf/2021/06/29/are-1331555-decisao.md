@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    "ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. ADICIONAL NOTURNO. IMPOSSIBILIDADE. INTELIGÊNCIA DA LEI Nº 11.890/2008 C/C LEI Nº 13.464/2017. RECURSO DA PARTE AUTORA IMPROVIDO. SENTENÇA DE IMPROCEDÊNCIA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. ART. 46 DA LEI Nº 9.099/95."
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação dos arts. 7º, IX, e 39, §3º, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    "A Lei nº 11.890/2008, oriunda de conversão da MP nº 440/2008, incluiu o artigo 2º -A à Lei nº 10.910/2004, determinando que, a partir de 1º/07/2008, que todos os integrantes das Carreiras de Auditoria da Receita Federal do Brasil passassem a ser remunerados exclusivamente por subsídio, fixado em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória, restando absorvidas, então, as vantagens que porventura tivessem.
+    (...)
+    Posteriormente, os servidores da carreira voltaram a ter seus padrões remuneratórios regulados por vencimento básico, ao qual se poderiam adicionar as parcelas previstas em lei, nos termos da Lei nº 13.464/2017:
+    (...)
+    Note-se que, não tendo a Lei nº 13.464/2017 revogado o art. 2º-C da Lei nº 11.890/2008, entendo ainda subsistir a vedação ao pagamento do adicional noturno. Tal regra inscreve-se dentro de um marco legal remuneratório típico dos cargos dos servidores da Receita Federal, cuja especialidade afasta a incidência das normas invocadas pelo autor – mais especificamente o art. 75 da Lei nº 8.112/90, por dizer respeito a categorias gerais do funcionalismo. Reporto-me ao entendimento consolidado na jurisprudência do STF de que o servidor público não possui direito adquirido a regime jurídico de vencimentos, desde que preservada a irredutibilidade destes."
+    Desse modo, verifica-se que a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Ademais, o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência da Súmula nº 279 desta Corte. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Servidor público. Adicional noturno. Legislação infraconstitucional. Análise. Impossibilidade. Precedentes. 1. Inviável, em recurso extraordinário, a análise da legislação infraconstitucional. Incidência da Súmula nº 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.176.456-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli (Presidente), DJe de 15/4/19).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. ADICIONAL NOTURNO. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO LOCAL: SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL/2015, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.126.128/CE-AgR, Tribunal Pleno, Rel. Min. Cármen Lúcia (Presidente), DJe de 17/9/18).
+    No mesmo sentido: ARE nº 979.996/RJ-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 26/10/16; ARE nº 918.938/MS-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 24/10/16.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 29 de junho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
