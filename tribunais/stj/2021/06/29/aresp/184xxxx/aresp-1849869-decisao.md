@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante afalta de comprovação do dissídio jurisprudencial(e-STJ fls. 253/254).
+O acórdão do TJAC traz a seguinte ementa (e-STJ fls. 210/211):
+APELAÇÃO CÍVEL. AÇÃO DE CANCELAMENTO DE HIPOTECA COMBINADA COM ADJUDICAÇÃO DE IMÓVEL. LEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA. BENEFICIÁRIA DA GARANTIA. QUITAÇÃO COMPROVADA. LIBERAÇÃO DEVIDA. INCIDÊNCIA DA SÚMULA 308 DO STJ. HONORÁRIOS DE SUCUMBÊNCIA. VALOR. REDUÇÃO. RECURSO PARCIALMENTE PROVIDO.
+1. Uma vez se confirmando a procedência do pedido inicial, qual seja, a outorga da escritura pública com a baixa no gravame da hipoteca, obviamente que o Banco apelante, na condição de credor hipotecário, estará sujeito aos seus efeitos, e nesta condição deve compor o polo passivo da presente demanda;
+2. Não se revelando válida perante o autor/apelado a hipoteca firmada entre o banco apelante e a construtora, bem como diante da expedição do "habite- se" e quitação integral do bem, deve ser mantida aconstrutora, bem como diante da expedição do "habite- se" e quitação integral do bem, deve ser mantida a sentença que determinou, entre outra coisa, a desconstituição da hipoteca;
+3. Sopesando o trabalho realizado pelo procurador da parte adversa; a baixa complexidade do causa; aausência de necessidade de deslocamento do
+advogado para prestação dos serviços, já que a demanda se desenvolveu nesta Comarca de Rio Branco, bem como diante da duração do feito, que foi
+julgado em menos de um ano, entende-se razoável que os honorários sucumbenciais fixados na sentença sejam reduzidos para 10% sobre o valor da causa;
+4. Recurso parcialmente provido.
+Nas razões do recurso especial (e-STJ fls. 225/235), interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, o recorrenteaduziudissídio jurisprudencial e violação:
+(i) do art. 188, I, do CC/2002, pois"não há nenhuma irregularidade na conduta do réu em efetuar a cobrança de um debito, devendo-se ressaltar, principalmente, que as formas e condições de pagamento foram acordadas no momento da contratação.Ademais, o poder judiciário não pode intervir nas relações privadas de forma arbitrária a ponto de declarar, modificar um negócio jurídico perfeitamente válido e ausente de qualquer vício" (e-STJ fl. 230),
+(ii) dos arts. 6º da LINDB e 927 e 944 do CC/2002, porque "acontratação ocorreu devidamente. Então, a presente ação encontra-se desmotivada, já que a parte recorrida discute sobre um crédito solicitado e inadimplido.Não houve nenhuma irregularidade nos contratos concedidos, tanto que, apesar das alegações do autor, nenhum indício de irregularidade se demonstrou.Sendo assim, apenas pode-se concluir que nenhuma conduta ilícita ou ilegal pode ser constatada no Banco, sendo certo que não compete a este nenhum ônus.O acórdão proferido viola o Código Civil já que impõe ao Recorrente o cancelamento de um débito em que o Recorrido se encontra inadimplente" (e-STJ fl. 231),
+(iii) dos arts. 330, II, e 485, VI, doCPC/2015, argumentando que "pela observância dos fatos narrados pela parte autora e dos documentos ora acostados, não restam dúvidas que o Banco do Brasil S/A não é parte legítima para responder e suportar os efeitos da sentença a ser proferida nesta mesma ação. Isto, considerando que ele, o Banco, não falhou em momento algum com a parte autora" (e-STJ fl; 232), e
+(iv) dos arts. 1.419, 1.485, 1.498,1.499, I, II, III, IV, V e VI, do CC/2002 e 21 e 64 do Decreto-lei n. 167/1967,defendendo a eficácia da hipoteca, "uma vez que o valor do contrato em questão ainda não foi pago, e a parte recorrida não prova sua adimplência, a obrigação em si continua a existir, e o acessório, que é a hipoteca, segue o principal" (e-STJ fl. 233).
+Foram apresentadas contrarrazões, requerendo a condenação do recorrente ao pagamento de multa por litigância de má-fé, assim como o arbitramento de honorários recursais(e-STJ fls. 246/252).
+No agravo (e-STJ fls. 256/267), afirmaa presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada, reiterando os pedidos das contrarrazões(e-STJ fls. 273/285).
+É o relatório.
+Decido.
+A Corte local não se manifestou quanto aos arts. 188, I,927, 944,1.419, 1.485, 1.498, 1.499, I, II, III, IV, V e VI, do CC/2002,6º da LINDB e 21 e 64 do Decreto-lei n. 167/1967. Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios, as matérias contidas em tais dispositivos carecem de prequestionamento e sofrem,por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O Tribunal a quo reconheceu a legitimidade passiva ad causam do banco, tendo em vista que (e-STJ fls. 215/216):
+No caso em tela, uma vez se confirmada a procedência do pedido inicial, qual seja, a outorga da escritura pública com a baixa no gravame da hipoteca, obviamente que o Banco apelante, na condição de credor hipotecário, estará sujeito aosseus efeitos, e nesta condição deve compor o polo passivo da presente demanda.
+Não há como ultrapassar as conclusões da Corte local, para declarar a ilegitimidade passiva do recorrente nesta instância recursal. Para acolher tal pretensão, seria necessária nova análise das cláusulas do instrumento contratual discutido, além do revolvimento do conjunto fático-probatório dos autos, providências vedadas nesta sede recursal, a teor das Súmulas n. 5 e 7 do STJ.
+A esse respeito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDEDONCPC. CONTRATO DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE CANCELAMENTO DEHIPOTECA.IMÓVEL QUITADO.
+DETERMINAÇÃO DE BAIXADOGRAVAME E OUTORGA DA ESCRITURA DEFINITIVA LIVRE DE ÔNUS. INEFICÁCIA DAHIPOTECA,A TEOR DA SÚMULA Nº 308DOSTJ. ACÓRDÃO RECORRIDO DE ACORDO COM A JURISPRUDÊNCIA PACÍFICA DESTA CORTE. SÚMULA Nº 568DOSTJ. ILEGITIMIDADE PASSIVADO BANCONÃO CONFIGURADA. HONORÁRIOS RECURSAIS DEVIDOS. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. Ahipotecafirmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentesdoimóvel (Súmula nº 308doSTJ).
+3. Ultrapassar a conclusão firmada na Corte bandeirante acerca dalegitimidadepassivado Bancopara responder pela baixa dahipotecaque recaiu sobre o imóvel adquirido pela parte autora, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, e das cláusulasdocontrato de promessa de compra e venda entabulado entre as partes, incidindo, na espécie, o óbice contido nas Súmulas nºs 5 e 7 desta Corte:
+(..)
+5. Agravo interno não provido.
+(AgInt no AREsp n.1.411.290/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 1º/6/2020, DJe 4/6/2020.)
+A eficácia da hipoteca em relação ao comprador, ora recorrido, foi afastada pelo Tribunal de origem, nos seguintes termos (e-STJ fls. 217/218):
+Da análise dos autos, adiante-se que inexistem motivos para a reforma
+da sentença hostilizada. Vejamos.
+Como cediço, a hipoteca havida entre a instituição bancária (apelante) e
+a construtora (segunda ré) não tem eficácia alguma em relação aos adquirentes do imóvel, a teor da Súmula 308 do Superior Tribunal de Justiça, ao enunciar que "A hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel.
+Tal se deve ao fato de que o adquirente de unidade habitacional somente é responsável pelo pagamento integral da dívida relativa ao imóvel que adquiriu, não podendo sofrer constrição patrimonial em razão do eventual inadimplemento da empresa construtora perante o banco financiador do empreendimento.
+Na espécie, verifica-se que o autor/apelante celebrou promessa de compra e venda de unidade autônoma condominial com a ré CONSÓRCIO
+ALBUQUERQUE LA RESERVE SPE LTDA (fls. 17/27). Esta, por sua vez, celebrou como Banco, ora apelante, contrato de financiamento para construção do empreendimento, tendo dado em hipoteca à instituição financeira o terreno e todas as unidades do empreendimento, entre as quais se destaca a do autor a/apelante.
+De acordo com a notificação de fls. 41, a hipoteca seria liberada após a conclusão da obra, com a averbação do "habite-se" no Serviço de Registro de Imóveis, e quitados os valores devidos correspondentes à unidade.
+Contudo, observa-se que, mesmo após a expedição do habite-se (fls. 29-32) e quitação integral da dívida relativa ao referido imóvel pelo autor/apelado (fls. 53) isso não ocorreu.
+Nessas condições, ou seja, não se revelando válida perante o autor/apelado a hipoteca firmada entre o banco apelante e a construtora, bem como diante da expedição do "habite-se" e quitação integral do bem, deve ser mantida a sentença que determinou, entre outra coisa, a desconstituição da hipoteca.
+A respeito de tais razões de decidir, o recorrente não se manifestou.Assim, não estando impugnados fundamentos suficientes para manter o acórdão recorrido, aplicável a Súmula n. 283/STF.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais o recorrentenão se desincumbiu.
+Rejeito o pedido de condenação do recorrente à multa por litigância de má-fé, visto que não ficou demonstrada conduta maliciosa ou temerária a justificar tal sanção, pois a parte tão somente intentava a reforma da decisão que lhe foi desfavorável.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
