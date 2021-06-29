@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interno interposto por Aerovias Del Continente Americano S.A. - Avianca contra a decisão de fls. 598-600 (e-STJ), da Presidência desta Corte, que não conheceu do agravo em recurso especial, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, haja vista a ausência de impugnação a todos os fundamentos da decisão agravada.
+Nas razões do agravo, a parte insurgente alega que refutou especificamente todos os fundamentos da decisão que inadmitiu o seu apelo especial.
+No caso, cabe observar que a decisão do Tribunal de origem que inadmitiu o recurso especial foi impugnada pelaagravante, ainda que sucintamente, motivo pelo qual, com base no art. 259 do RISTJ, reconsidero a decisão agravada, tendo em vista a inaplicabilidade da Súmula n. 182 do STJ, a fim de proceder ao exame do agravo em recurso especial.
+Desse modo, passo ao exame do mérito recursal.
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Aerovias Del Continente Americano S.A. - Avianca, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 470):
+INDENIZAÇÃO POR DANO MORAL. TRANSPORTE AÉREO. Cancelamento de voo nacional, que ocasionou atraso de doze horas para a chegada do autor ao destino final. Má prestação do serviço caracterizada. Autor que ao invés de ser realocado em voomais próximo, teve que aguardar doze horas no saguão do aeroporto, sem assistência com alimentação. Opção pelo transporte aéreo se relaciona justamente com a rapidez prometida. Dano moral caracterizado. "Quantum" indenizatório fixado emR$10.000,00, com base nos princípios da razoabilidade e proporcionalidade. Sentença reformada. RECURSO PROVIDO.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 536):
+EMBARGOS DE DECLARAÇÃO. Apelação. Indenização por dano moral. Acórdão que reformou a sentença para condenar a empresa aérea embargante ao pagamento de indenização por dano moral, decorrente de cancelamento de voo nacional. Alegação de omissão quanto à preliminar de ilegitimidade passiva "ad causam", arguida nas contrarrazões. Responsabilidade objetiva que atinge a todos os fornecedores que participam da cadeia de prestação de serviço. Preliminar afastada. Objetivo de acesso a recursos aos Tribunais Superiores. EMBARGOS REJEITADOS.
+Em suas razões de recurso especial (e-STJ, fls. 479-489), a agravante alegou violação aos arts. 485, § 3º, 508 e 1.022 do Código de Processo Civil de 2015 e 6º da Lei n. 9.447/1997, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que o acórdão recorrido foi omisso, pois não se manifestou a respeito da sua ilegitimidade para compor o polo passivo da relação, sendo a Oceanair quem tem legitimidade para figurar como ré na ação.
+Asseverou, ainda, que não é parte legítima na ação, pois opera somente em voos internacionais, sendo que a Oceanair Linhas Aéreas S.A. é quem opera em voos domésticos.
+Foram apresentadas contrarrazões (e-STJ, fls. 511-527).
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor agravo.
+Contraminuta apresentada (e-STJ, fls. 564-577).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Sobre a ilegitimidade alegada, o Tribunal de origem, no julgamento dos aclaratórios, consignou o seguinte (e-STJ, fls. 537-538):
+A preliminar de ilegitimidade passiva "ad causam", alegada nas contrarrazões recursais, deve ser rejeitada.
+Consta nos bilhetes aéreos de fls. 20 e 23, que o voo seria operado por Avianca Brasil, sem que houvesse identificação específica que seria operado pela Oceanair Linhas Aereas S/A.
+Observa-se que a embargante Aerovias Del Continente Americano S. A. Avianca e a Oceanair Linhas Aéreas S/A ao celebrarem contrato de uso da marca "Avianca", passaram a estar indissociavelmente interligadas, e integrar a cadeia de consumo, de modo que são solidariamente responsáveis pelos danos causados por uma delas aos consumidores, em decorrência dos defeitos na prestação dos serviços, nos termos dos artigos 7º 1 , parágrafo único, 25 2 , §1º, e 34 3 do Código de Defesa do Consumidor.
+( )
+Desse modo, uma vez reconhecido que a empresa aérea embargante é parte legitima para constar no polo passivo da demanda, inexiste violação ao disposto no art. 17, do Código de Processo Civil, objeto de prequestionamento expresso.
+Diante das informações acima extraídas, para desconstituir a convicção formada pelo Colegiado a quo, entendendo pela ilegitimidade da agravante, seria indispensável o reexame de fatose provas, providência inadmitida na via extraordinária, ante o óbice doenunciado n. 7 da Súmula do STJ.
+Com relação à existência de divergência jurisprudencial, em virtude da aplicação do enunciado sumular supratranscrito, fica prejudicado o exame do dissídio apontado.
+Ante o exposto, em juízo de reconsideração, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUÍZO DE RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. INDENIZAÇÃO POR DANO MORAL. TRANSPORTE AÉREO. ILEGITIMIDADE PASSIVA AFASTADA. REVISÃO DAS CONCLUSÕES DO ARESTO IMPUGNADO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. EM JUÍZO DE RETRATAÇÃO, AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
