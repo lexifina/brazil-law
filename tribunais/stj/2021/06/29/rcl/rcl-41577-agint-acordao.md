@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Paulo de Tarso Sanseverino, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze, Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. JUIZADO ESPECIAL. RESOLUÇÃO STJ N. 3/2016.
+1. A Resolução STJ/GP n. 3/2016 dispõe que a competência para processar e julgar as reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal estadual ou do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça cabe às Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça. Revogada a Resolução n. 12/2009 do STJ para os processos distribuídos a partir de 08 de abril de 2016.
+2. Oinsucesso dereclamação anterior pelo Tribunal estadualnão rende ensejo à propositura de uma nova reclamação com os mesmos fundamentos à esta Corte, devendo-se coibir sua utilização como sucedâneo recursal, sendo defesa a pretensão de,por via reflexa, ver analisada por esta Corte Superiora reclamação contra uma decisão de mérito proferida por Juízo do JuizadoEspecial Cível.
+3. Agravo interno não provido.
+RELATÓRIO
+1. Trata-se de agravo interno interposto contra decisão desta relatoria que não conheceu da reclamação, integrada por decisão proferida em embargos de declaração, assim ementada:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+2. O insucesso de reclamação anterior pelo Tribunal estadual não rende ensejo à propositura de uma nova reclamação com os mesmos fundamentos à esta Corte, devendo-se coibir sua utilização como sucedâneo recursal, sendo defesa a pretensão de, por via reflexa, ver analisada por este Tribunal Superior a reclamação contra uma decisão de mérito proferida por Juízo do Juizado Especial Cível.
+3. Embargos de declaração rejeitados.
+Defende a falta de fundamentação da decisão agravada e repisa a agravante que "a distribuição da Reclamação na instância inferior não foi conhecida, por isso o manejo da presente Reclamação. Não se questiona, neste feito, decisão do Juizado Especial Cível, mas decisão emanada do Tribunal de Justiça do Estado de São Paulo (Órgão Especial), para preservar a autoridade da decisão desta Corte Superior, entretanto, inexistiu manifestação judicial nesse ponto, estando plenamente caracterizada a omissão!" (fl. 902).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. JUIZADO ESPECIAL. RESOLUÇÃO STJ N. 3/2016.
+1. A Resolução STJ/GP n. 3/2016 dispõe que a competência para processar e julgar as reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal estadual ou do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça cabe às Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça. Revogada a Resolução n. 12/2009 do STJ para os processos distribuídos a partir de 08 de abril de 2016.
+2. Oinsucesso dereclamação anterior pelo Tribunal estadualnão rende ensejo à propositura de uma nova reclamação com os mesmos fundamentos à esta Corte, devendo-se coibir sua utilização como sucedâneo recursal, sendo defesa a pretensão de,por via reflexa, ver analisada por esta Corte Superiora reclamação contra uma decisão de mérito proferida por Juízo do JuizadoEspecial Cível.
+3. Agravo interno não provido.
+VOTO
+2. Consoante consignado com clareza hialina na decisão agravada,a reclamação foi "ajuizada contra decisão do Tribunal de Justiça de São Paulo que não conheceu da reclamação ajuizada contra decisão oriunda da Turma Recursal do Juizado Especial do Estado de São Paulo", o qual, apesar de reconhecer a sua competência para julgar as reclamações ajuizadas contra decisãoda Turma de Uniformização,no caso, não a conheceu por falta de cabimento da medida, consoante se infere da própria ementado acórdão do Tribunal local objeto da reclamação (fls. 785-791):
+RECLAMAÇÃO. Irresignação em face da decisão proferida pela Turma de Uniformização dos Juizados Especiais deste E. Tribunal de Justiça, que não conheceu da reclamação apresentada naquela sede. Inadmissibilidade. A despeito de ser possível ao Órgão Especial proceder ao julgamento das reclamações contra decisões da Turma de Uniformização, a reclamatória não se amolda às hipóteses de cabimento previstas do art. 988, CPC e art. 38 da Resolução nº 759/2016, deste Órgão Especial. A decisão reclamada nem sequer chegou a apreciar o mérito, tendo sido negado seguimento, de modo que há que se falar em afronta a acórdão proferido em julgamento de demandas repetitivas(especificamente ao tema 938 do STJ). Ausência de demonstração acerca da medida em que a decisão de não conhecimento da Turma de Uniformização teria afrontado precedentes deste Órgão Especial. Reclamação não conhecida.
+É manifesta, portanto, a pretensão de, por via reflexa, ver admitida, analisada e provida a reclamação ajuizada contra uma decisãoproferida por Juízo do JuizadoEspecial Cível, o que não é admitido.
+3. Ante o exposto, nego provimento ao agravo interno.
+É o voto.
