@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por PENASUL ALIMENTOS LTDA, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+"TRIBUTÁRIO. SISTEMÁTICA NÃO-CUMULATIVA DO PIS E DA COFINS. DESPESAS-FINANCEIRAS. ARTS. 30, V,. DAS LEIS NOS 10.637/2002 E 10.833/2003. APROVEITAMENTO. REVOGAÇÃO.DEPRECIAÇÃO DE BENS DO ATIVO IMOBILIZADO. CREDITAMENTO.ART. 31 DA LEI Nº 10.865/2004. INCONSTITUCIONALIDADE.
+1. É legítima a revogação posterior dos beneficias instituídospelos arts. 30, V, das Leis nºs 10.637/2002 e 10.833/2003 pelos arts. 21 e 37 da Lei no 10.865/2004.
+2. A Corte Especial do Tribunal Regional Federal da 48 Região, no julgamento da Incidente de Arguição de inconstitucionalidade na AMS n0 2005.70.00.000594-0/PR, declarou a inconstitucionalidade da art. 31, "caput", da Lei nd 10.865/2004.
+N- 1 2. Os bens passíveis de gerarem créditos pela depreciação são os adquiridos na vigência da não-cumulatividade, sem a limitação temporal da caput da art. 31 da Lei nº 10.865/2004.
+3. Inviabilizado o aproveitamento dos créditos da depreciação de bens incorporados ao ativo imobilizado à época própria por óbice imposto pelo Fisco, incide correção monetária pela Taxa SELIC"(fl. 208e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 247/263e), os quais foram assim decididos:
+"EMBARGOS DE DECLARAÇÃO. TRIBUTÁRIO.SISTEMÁTICA NÃO-CUMULATIVA DO PIS E DA COFINS.DESPESAS FINANCEIRAS. ARTS. 30, V, DAS LEIS NOS 10.637/2002 E 10.833/2003. APROVEITAMENTO.REVOGAÇÃO. DEPRECIAÇÃO DE BENS DO ATIVO IMOBILIZADO. CREDITAMENTO. ART. 31 DA LEI Nº 10.865/2004. INCONSTITUCIONALIDADE. OMISSÃO INEXISTENTE. PREQUESTIONAMENTO.
+1. Não houve omissão ou contradição no acórdão, haja vista que a questão foi adequadamente enfrentada, embora a solução da controvérsia tenha merecido tratamento jurídico diverso daquele preconizado pelo embargante.
+2. Incabível a reapreciação da lide em sede de embargos dedeclaração, sendo admitida a sua análise, com caráter infringente, tão-somente em situações excepcionais, o que não é o caso dos autos.
+3. Considerando o rigorismo das Contes superiores quanto aos requisitos de admissibilidade dos recursos, consubstanciados nas Súmulas n 282 e 356 do STF, embargos acolhidos apenas para efeito de prequestionamento dos dispositivos aventados pela embargante, mantida a conclusão.
+4. Embargos de declaração acolhidos em parte" (fl. 267e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente apontaviolação aoart. 3º, IV, § 1º, III, das Leis 10.637/2002 e 10.833/2003, sustentando, em síntese, que, "ainda que afastada a limitação trazida pelo Art. 31 § 3º da lei 10.865/04, restou sensivelmente prejudicada as ora Recorrentes com a interpretação feita pelo M.D. Relator no que tange a vedação de aproveitamento dos créditos decorrentes das depreciações em andamento quando do regime da cumulatividade" (fls. 217/218e) e que, "como essas leis não impuseram nenhuma limitação expressa aos bens cuja depreciação poderia ser- aproveitada, o entendimento mais correto é que as depreciações em andamento, de aquisições anteriores, também geram direito ao crédito" (fl. 218e). Defende que, "afastada a limitação imposta pela Lei 10.865/04, deve ser respeitada a forma de creditamento estabelecida pelas Leis 10.637/02 e 10.833/03, art.3º, VI, parágrafo 1º,III, inclusive em relação as depreciações já em andamento,referentes ao ativo imobilizado existente anteriormente à mudança de sistemática(cumulatividade/não cumulatividade)" (fl. 219e).
+Por fim, requer "seja recebido e processado o presente Recurso Especial para, considerando a negativa de vigência/contrariedade ao art. 3º, inciso IV, § 1º, inciso III da Lei 10.637/02 e artigo 3º, inciso IV, § 1º, inciso III da Lei 10.833/03, dando-se provimento ao mesma, de forma a garantir o direito das Recorrentes em aproveitarem integralmente os créditos de PIS/COFINS decorrentes da depreciação em andamento, (de máquinas, equipamentos e outros bens incorporados ao ativo imobilizado, adquiridos parautilização na produção de bens destinados à venda e em relação às edificações e benfeitorias em Imóveis próprios ou de terceiros, utilizados nas atividades da empresa) em relação ao ativo imobilizado existente anteriormente a edição dessas leis por inexistir qualquer restrição neste sentido" (fl. 219e).
+Contrarrazões, a fls. 317/320e.
+O Recurso Especial foi admitido, pelo Tribunal de origem (fls. 390/391e).
+A irresignação não merece conhecimento.
+No que interessa à espécie, o Tribunal decidiu consoante os seguintes fundamentos:
+"Restrição temporal do art. 31 da Lei nº 10.865/2004.
+A Conte Especial deste Tribunal, no julgamento do Incidente de Arguição de inconstitucionalidade na AMS nº2005.70.00.000594-0/PR, em que foi relator o Desembargador Otávio Roberto Pamplona, declarou a inconstitucionalidade do art. 31, caput, da Lei nº 10.865/2004 (D.E. de 14/7/2008). Eis a ementa do julgado:
+(..)
+A teor do art. 151 do RITRF 4ª Região, as decisões da. Corte Especial que declaram a inconstitucionalidadede lei vinculam os órgãos fracionários em hipóteses idênticas.
+É de reconhecer o direito àrepetição dos valores indevidamente recolhidos.
+Cumpre salientar que osbens passíveis de gerarem créditos pela depreciação são os adquiridos na vigência da não-cumulatividade, sem a limitação temporal do caput do art. 31 da Lei nº 10.865/2004.
+Os créditos deverão ser corrigidos pela Taxa SELIC, nos termos do § 4º do art. 39 da Lei nº 9.250/95, tendo em vista que a inviabilidade de aproveitamento dos créditos dadepreciação de bens incorporados ao ativoimobilizado à época própriadecorreu deóbice ilegitimamenteimposto pelo Fisco" (fls. 186/187e).
+Ao que se tem, as razões do Recurso Especial encontram-se dissociadas da fundamentação do acórdão recorrido,apresentando fundamentos outros, não relacionados ao decidido, razão pela qualtêm incidência, na espécie, por analogia, as Súmulas 283 e 284 do STF.
+Nesse sentido:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. (..). ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. (..).
+(..)
+II - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+(..)
+V - Agravo Interno improvido" (STJ: AgInt no AREsp 691.628/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 29/06/2016).
+"PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. FALTA DE FUNDAMENTAÇÃO. RAZÕES DISSOCIADAS. SÚMULAS N. 283 E 284 DO STF.
+(..)
+2. Incidem as Súmulas n. 283 e 284 do STF nos casos em que a parte recorrente deixa de impugnar a fundamentação do julgado, limitando-se a apresentar alegações que não guardam correlação com o decidido nos autos.
+3. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento" (STJ, RCD no AREsp 456.659/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 03/11/2015).
+Ademais,verifica-se que a controvérsia foi dirimida, pelo Tribunal de origem, sob enfoque eminentemente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+Dessa forma, é inviável o exame da insurgência, tal como posta, em sede de Recurso Especial, que se restringe à uniformização da legislação infraconstitucional. Ilustrativamente:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. PIS E COFINS SOBRE RECEITA FINANCEIRA. ARTIGOS 21 E 37 DA LEI N.º 10.865/04 NO ARTIGO 3º, INCISO V, DAS LEI N.º 10.637/02 E 10.833/03. DEDUÇÃO DO CRÉDITO. MATÉRIA CONSTITUCIONAL. NÃO CUMULATIVIDADE DO PIS E DA COFINS. ART. 195, § 12, DA CONSTITUIÇÃO FEDERAL.
+(..)
+3. No que tange à alegada possibilidade de aproveitamento de créditos decorrentes do "restabelecimento" da alíquota do PIS e da COFINS na hipótese, melhor sorte não assiste à recorrente, tendo em vista que a possibilidade ou não de concessão de crédito de PIS e COFINS, ou de concessão de crédito parcial, conforme o caso, decorre do § 12 do art. 195 da Constituição Federal que estabeleceu sistemática diversa daquela prevista para a não cumulatividade do ICMS e do IPI. Dessa forma, igualmente não é possível a esta Corte conhecer do recurso especial no ponto, haja vista a índole constitucional que envolve o tema, cuja análise é da competência do Supremo Tribunal Federal.
+4. Recurso Especial não conhecido"(STJ, REsp 1.760.126/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 23/05/2019).
+"TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PIS E COFINS. CRÉDITOS PRESUMIDOS. RESSARCIMENTO OU COMPENSAÇÃO. IMPOSSIBILIDADE. ART. 8º DA LEI 10.925/2004. SISTEMÁTICA DE NÃO-CUMULATIVIDADE. SETORES DE ATIVIDADE ECONÔMICA ABRANGIDOS. ACÓRDÃO A QUO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL.
+(..)
+2. O acórdão recorrido afastou a pretensão da recorrente, de que detém o direito ao aproveitamento de créditos de PIS e Cofins na forma estabelecida na Lei 10.833/2003, sob fundamentos eminentemente constitucionais, sendo inviável a análise da matéria em recurso especial.
+3. Agravo regimental não provido"(STJ, AgRg no REsp 1.492.351/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 28/08/2015).
+"PROCESSUAL CIVIL. TRIBUTÁRIO. APROVEITAMENTO DOS CRÉDITOS DE PIS E COFINS DECORRENTES DA DEPRECIAÇÃO DOS BENS NACIONAIS E IMPORTADOS QUE COMPÕEM O ATIVO IMOBILIZADO ADQUIRIDOS ATÉ 30/4/2004. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL.
+O acórdão recorrido, ao afastar as restrições introduzidas pela Lei n. 10.865/04 ao aproveitamento dos créditos de PIS e de COFINS, decorrentes de aquisição de bens para o ativo permanente imobilizado no exterior, baseou-se em fundamento eminentemente constitucional, qual seja, observância ao direito adquirido, o que impede a sua revisão por esta Corte, sob pena de invadir a competência do Supremo Tribunal Federal.
+Agravo regimental improvido"(STJ, AgRg no REsp 1.358.085/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA,DJe de 03/02/2015).
+"TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.PIS E COFINS. APROVEITAMENTO DE CRÉDITOS. CORREÇÃO MONETÁRIA. FALTA DE INTERESSE EM RECORRER DO ENTE PÚBLICO. TEMA DE FUNDO DE ÍNDOLE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE PELO STJ. AGRAVO NÃO PROVIDO.
+(..)
+2. A questão atinente à não-cumulatividade do PIS e da COFINS, bem como o reaproveitamento dos créditos daí decorrentes foram baseados em fundamento eminentemente constitucional, impossibilitando a revisão por esta Corte, sob pena de se usurpar da competência constitucional do STF.
+3. Agravo regimental não provido"(STJ, AgRg no REsp 1.248.119/SC, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA,DJe de 05/03/2013).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
