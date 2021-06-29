@@ -1,0 +1,11 @@
+DECISÃO
+1. Trata-se de recurso especial interposto por NIVALDO RODRIGUES DE OLIVEIRA, com fulcro no art. 105, III, alínea a, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 269):
+APELAÇÃO PLANO DE SAÚDE FUNCIONÁRIO INATIVO Pretensão de manutenção de contrato coletivo extinto em razão da falência da empresa estipulante Inviável a manutenção do autor como beneficiário único de apólice coletiva porquanto extinto o contrato coletivo a que vinculado - Oferta pela operadora ré de migração para plano de saúde individual ou familiar, sem o cumprimento de novos prazos de carência Inexistência do direito de manutenção do mesmo valor das mensalidades Inteligência do artigo 26, III, da Resolução 279/2011 da ANS e artigo 1º da Resolução CONSU nº 19/1999 Mantida a sentença de improcedência NEGARAM PROVIMENTO AO RECURSO.
+2. O presente recurso discute, dentre outras matérias, as condições assistenciais e de custeio do plano de saúde que devem ser mantidas a beneficiários inativos, nos termos do art. 31 da Lei n. 9.656/1998. A questão de direito foi afetada para julgamento sob o rito dos recursos repetitivos (tema 1.034), nos autos dos Recursos Especiais nº 1.818.487-SP, nº 1.816.482-SP e 1.829.862-SP.
+3. Dessa forma, a devolução dos autos ao eg. Tribunal de Origem para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015 é medida que se impõe, conforme determinação prevista no art. 256-L do Regimento Interno desta Corte Superior, que assim dispõe:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Destarte, a devolução dos autos à origem é medida que se impõe.
+4. Ante o exposto, determino a devolução dos autos ao Tribunal de Origem, com a devida baixa nesta Corte, para que o recurso permaneça suspenso até a publicação do acórdão paradigma, nos termos do art. 1.037, inciso II, do CPC, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC.
+Intimem-se. Cumpra-se.
