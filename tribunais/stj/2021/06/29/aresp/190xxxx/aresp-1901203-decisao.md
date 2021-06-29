@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por CENTRO DE ESTUDOS JURÍDICOS DA DEFENSORIA PÚBLICA GERAL DO ESTADO DO RIO DE JANEIRO, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL. DIREITO À SAÚDE.SENTENÇA DE PROCEDÊNCIA.CONDENAÇÃO APENAS DO MUNICÍPIO/RÉU AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. INCONFORMISMO DA DEFENSORIA PÚBLICA PUGNANDO PELA CONDENAÇÃO DO ESTADO DO RIO DE JANEIRO AO PAGAMENTO DA VERBA HONORÁRIA, BEM COMO A SUA MAJORAÇÃO. DESPROVIMENTO DO RECURSO.
+1. Inconformismo da Defensoria Pública com os honorários fixados em favor de seu Centro de Estudos no valor de R$300,00, a serem pagos apenas pelo Município de Nova Friburgo.
+2. Postula o apelante a majoração da verba honorária e a imposição de tal condenação também ao Estado do Rio de Janeiro.
+3. Não se pode impor ao Estado condenação nos honorários em favor do CEJUR/DPGE, já que a Defensoria Pública é órgão integrante do Estado do Rio de Janeiro. Instituto da confusão previsto no artigo 381 do Código Civil. O tema, aliás, restou sedimentado nas Súmulas n º 80 deste TJRJ e n º 421 do STJ.
+4. Saúde que é bem inestimável, atraindo a incidência do art. 85, § 8º, do CPC.
+5. Desprovimento do recurso" (fls. 215/216e).
+Nas razões do Recurso Especial (fls. 248/257e), interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante apontaviolação aoart. 85, §§ 3º, 4º, do CPC/2015, sustentando que o valor arbitrado a título de honorários sucumbenciais é irrisório.
+O Tribunal de origem, ao julgar o recurso de apelação, consignou o seguinte (fls. 223/224e):
+"No que tange ao pedido de majoração da verba honorária, com adevida vênia, não parece razoável condenar um município do interior, sem grande expressão econômica, ao pagamento de honorários de R$ 1.350,00 (o valor da causa é igual a R$ 13.500,00).
+Além disso, apesar de ser importante causa, procedimento cirúrgico de Ureterorrenolitotripsia flexível a laser com implante de novo cateter duplo, se trata de demanda de baixa complexidade, com soluções já definidas pela jurisprudência, tanto que nem o Município nem o Estado recorreram da sentença.
+E são muitas as ações patrocinadas pela nobre Defensoria Pública, o que se traduz, no conjunto, em bom valor de honorários para o seu Centro de Estudos Jurídicos.
+No mais, a saúde da autora é algo inestimável.
+Por isso, tem aplicação ao caso o disposto no art. 85, § 8º, do CPC, permitindo a fixação dos honorários por apreciação equitativa.
+Outrossim, embora destinada a relevante finalidade institucional, de custear estudos jurídicos, a verba honorária no presente caso não tem o colorido alimentar que é peculiar aos honorários percebidos pelo profissional liberal".
+Ocorre que a matéria recursal relativa à "possibilidade de fixação de honorários advocatícios com fundamento em juízo de equidade, nos termos do art. 85, §§ 2º e 8º, do Código de Processo Civil de 2015" foi afetada, nesta Corte, para julgamento segundo o rito dos recursos representativos de controvérsia, previsto no art. 1.036 e seguintes do CPC/2015, nos Recursos Especiais 1.812.301/SC e 1.822.171/SC, todos de relatoria do Ministro Raul Araújo, sob o tema 1.046.
+Dessa maneira, em razão de economia processual e para se evitar a prolação, pelo STJ, de provimentos jurisdicionais em desconformidade com o que vier a ser definitivamente decidido por esta Corte, conveniente que a apreciação do presente Recurso Especial fique sobrestada até o exaurimento da competência do Tribunal de origem, que ocorrerá com o juízo de retratação ou de conformação a ser realizado pela instância ordinária após o julgamento do recurso representativo da controvérsia.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que o processo permaneça suspenso até a publicação do acórdão do Recurso Especial Representativo da Controvérsia na vigência do novo CPC, a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformidade.
+I.
