@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especial (CPC/2015, art. 1.029) interposto contra acórdão do TJSP assim ementado (e-STJ fl. 344):
+* EXTINÇÃO PELA SATISFAÇÃO DA OBRIGAÇÃO - Inocorrência - Depósito efetuado para garantia do juízo - Oferecimento da competente impugnação ao cumprimento da sentença - Discussão acerca do quantum exequendum - Julgado proferido com manifesta violação ao devido processo legal, previsto no inciso LV, do artigo 5º da Carta Magna - Nulidadecaracterizada - Recurso provido.
+*INTERESSES TRÀNSINDIVIDUAIS - EXECUÇÃO INDIVIDUAL - Julgamento com fulcro no parágrafo 3º, do artigo 1.013 do Novo Estatuto Adjetivo Civil - Eficácia erga omnes da r. sentença proferida na ação coletiva - O credor pode promover o cumprimento do julgado no foro da comarca do seu domicílio - Legitimidade ativa caracterizada - Desnecessidade da comprovação da associação do poupador ao IDEC - Prescrição nãoconfigurada - Aplicação da Súmula nº 150 do Supremo Tribunal Federal e do informativo nº 0484 do Superior Tribunal de Justiça - Existência de ação cautelar de protesto interruptivo do lapso prescricional - A apuração do quantum debeatur depende de meros cálculos aritméticos -Incidência dos juros moratórios a partir da citação nos autos da ação civil pública - Inteligência do artigo 405 do Código Civil Brasileiro - Aplicação da Tabela Prática do Tribunal de Justiça do Estado de São Paulo para a correção monetária do débito - Incidência do percentual de 10,14% para o mês de fevereiro de 1989 - Inocorrência do equívoco no cálculo da diferença da correção monetária devida - Necessidade da inclusão dos índices de atualização monetária atinentes aos expurgos inflacionários posteriores para a recomposição exata do valor da moeda - Possibilidade do arbitramento dos
+honorários advocatícios - Subsunção à Súmula nº 517 doSuperior Tribunal de Justiça - Juros remuneratórios - Encargonão incluído no cálculo da dívida - Recurso provido, para os fins de desconstituir a r. sentença e julgar improcedente a impugnação ao cumprimento da sentença *
+No recurso especial (e-STJ fls. 365/383), fundamentado no art. 105, III, "a", da CF, o recorrente aduz violação:
+(a)doart. 485, VI, do CPC/2015, porque a parte recorrida, sem provar sua filiação ao IDEC à época da propositura da ação coletiva, não deteria legitimidade para oferta do cumprimento individual de sentença, à luz do entendimento firmado pelo STF no julgamento, sob o rito dos recursos repetitivos, do RE n. 612.043/PR (e-STJ fls. 367/369),
+(b) dos arts. 509, caput,e 523 do CPC/2015, defendendo que seria devido extinguir o cumprimento da sentença coletiva - contendo obrigação ilíquida e genérica- instaurado sem prévia liquidação(e-STJ fls. 369/373), afirmando existir dissídio jurisprudencial (e-STJ fls. 372/376),
+(c) dos arts.240 do CPC/2015 e 405 do CC/2002, visto que os juros de mora incidiriam a partir de sua citação no cumprimento de sentença, não da ação civil pública (e-STJ fls. 376/381), e
+(d) doart. 503 do CPC/2015, asseverando quea atualização monetária do débito por índices diferentes daqueles aplicados para a correção da poupança violaria a coisa julgada,sendo por essa razão, vedado o uso da Tabela Prática do Tribunal de origem para tal finalidade (e-STJ fls. 381/382).
+Foram apresentadas contrarrazões (e-STJ fls. 392/396).
+O recurso especial foi admitido na origem (e-STJ fls. 414/416).
+É o relatório.
+Decido.
+Cuidam os autos de execução de sentença proferida pelo JUÍZO DA 12ª VARA CÍVEL DA CIRCUNSCRIÇÃO ESPECIAL JUDICIÁRIA DE BRASÍLIA - DF na Ação Civil Pública n. 1998.01.1.016798-9, ajuizada pelo IDEC contra o Banco do Brasil S.A.
+Súmula n. 284 do STF
+A fim de defender que o cumprimento de sentença coletiva, por ser genérica, instaurado sem prévia liquidação deveria ser extinto (e-STJ fls. 369/373), o recorrente apontou tão somente afronta aos arts. 509,caput, e 523 do CPC/2015.
+Os referidos dispositivos estabelecem que:
+Art. 509. Quando a sentença condenar ao pagamento de quantia ilíquida, proceder-se-á à sua liquidação, a requerimento do credor ou do devedor:
+Art. 523. No caso de condenação em quantia certa, ou já fixada em liquidação, e no caso de decisão sobre parcela incontroversa, o cumprimento definitivo da sentença far-se-á a requerimento do exequente, sendo o executado intimado para pagar o débito, no prazo de 15 (quinze) dias, acrescido de custas, se houver.
+Os artigos de lei apontados isoladamentenão possuemalcance normativo suficiente para amparar a tese, porque nada dispõe a respeito do título executivo proferido em ações coletivas ser genérico.
+Além disso, orecorrente tão somente aponta afronta ao art. 503 do CPC/2015 para sustentar quea atualização monetária do débito por índices diferentes daqueles aplicados para a correção da poupança violaria a coisa julgada, sendo por essa razão, vedado o uso da Tabela Prática do Tribunal de origem para tal finalidade (e-STJ fls. 381/382).
+Referido ato normativo nada dispõe a respeito da correção monetária, não possuindo, por si só, alcance normativo capaz de amparar a tese sustentada, porque apenas determina que a decisão que julgar total ou parcialmente o mérito tem força de lei nos limites da questão principal expressamente decidida.
+Dessa forma, a fundamentação recursal, em tais pontos, mostra-se deficiente, atraindo a aplicação, por analogia, da Súmula n. 284/STF, como óbice ao recurso. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR. EXCEÇÃO DE INCOMPETÊNCIA. 1. FORO DE ELEIÇÃO. COMPETÊNCIA FIRMADA PELO TRIBUNAL LOCAL COM BASE NA ANÁLISE DA EXORDIAL, NA TROCA DE CORRESPONDÊNCIA ELETRÔNICA ENTRE AS PARTES E NOS TERMOS DO CONTRATO. CONTROVÉRSIA DOS AUTOS QUE SE RELACIONA À LIQUIDAÇÃO DAS OBRIGAÇÕES DO DISTRATO. SÚMULAS 5 E 7 DO STJ. 2. INVOCAÇÃO DE VIOLAÇÃO DOS ARTS. 87 E 263 DO CPC/1973. AUSÊNCIA DE PERTINÊNCIA COM O OBJETO DA LIDE. SÚMULA 284 DO STF. 3. AGRAVO IMPROVIDO.
+(..)
+2. Os comandos normativos dos arts. 87 e 263 do CPC/1973 não guardam pertinência com o tema da controvérsia. Incide, portanto, a Súmula 284 do STF.
+3. Agravo improvido.
+(AgInt no AREsp n. 1.069.872/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/8/2017, DJe 1º/9/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. DESPESAS COM DEPÓSITO E ESTADIA DE VEÍCULOS. CONSTRIÇÃO JUDICIAL. DISPOSITIVO LEGAL QUE NÃO AMPARA A TESE SUSTENTADA PELA INSURGENTE. INCIDÊNCIA DA SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Alegação de incidência de dispositivos legais que não se referem à matéria tratada nos autos. A indicação de dispositivo legal que não ampara a pretensão recursal atrai a incidência da Súmula 284/STF.
+(..)
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 616.268/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 4/8/2015, DJe 17/8/2015.)
+Legitimidade ativa
+A Justiça de origem, ao reconhecer a legitimidade ativa da parte recorrida para a propositura do cumprimento de sentença, independentemente de prova de sua filiação ao IDEC, decidiu conforme o entendimento firmado pela Segunda Seção do STJ no REsp n. 1.391.198/RS, julgado sob o rito do art. 543-C do CPC/1973, a respeito do tema. Confira-se:
+AÇÃO CIVIL PÚBLICA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. SENTENÇA PROFERIDA PELO JUÍZO DA 12ª VARA CÍVEL DA CIRCUNSCRIÇÃO ESPECIAL JUDICIÁRIA DE BRASÍLIA/DF NA AÇÃO CIVIL COLETIVA N. 1998.01.1.016798-9 (IDEC X BANCO DO BRASIL). EXPURGOS INFLACIONÁRIOS OCORRIDOS EM JANEIRO DE 1989 (PLANO VERÃO). EXECUÇÃO/LIQUIDAÇÃO INDIVIDUAL. FORO COMPETENTE E ALCANCE OBJETIVO E SUBJETIVO DOS EFEITOS DA SENTENÇA COLETIVA. OBSERVÂNCIA À COISA JULGADA.
+1. Para fins do art. 543-C do Código de Processo Civil: a) a sentença proferida pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva n. 1998.01.1.016798-9, que condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal;
+b) os poupadores ou seus sucessores detêm legitimidade ativa - também por força da coisa julgada -, independentemente de fazerem parte ou não dos quadros associativos do Idec, de ajuizarem o cumprimento individual da sentença coletiva proferida na Ação Civil Pública n. 1998.01.1.016798-9, pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF.
+2. Recurso especial não provido.
+(REsp n. 1.391.198/RS, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/8/2014, DJe 2/9/2014.)
+Aplica-se a Súmula n. 83/STJ.
+Termo inicial dos juros de mora
+A Corte Especial do STJ firmou, no julgamento do REsp n. 1.370.899/SP, sob o rito do art. 543-C do CPC/1973, o entendimento de que "os juros de mora incidem a partir da citação do devedor na fase de conhecimento da Ação Civil Pública, quando esta se fundar em responsabilidade contratual, sem que haja configuração da mora em momento anterior" (Ministro SIDNEI BENETI, julgado em 21/5/2014, REPDJe 16/10/2014, DJe 14/10/2014).
+No mesmo sentido: "Os juros de mora incidem a partir da citação do devedor na fase de conhecimento da ação civil pública, quando esta se fundar em responsabilidade contratual, sem que haja configuração da mora em momento anterior" REsp n. 1.370.899/SP e REsp n. 1.361.800/SP - Recursos especiais julgados pelo rito dos recursos repetitivos" (AgInt no AREsp n. 1.316.210/MS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/5/2019, DJe 13/6/2019).
+Sobre tal assunto, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA. PRESCRIÇÃO. LIQUIDAÇÃO. MINISTÉRIO PÚBLICO. PRAZO PRESCRICIONAL. INTERRUPÇÃO. JUROS DE MORA. TERMO INICIAL. CITAÇÃO DO DEVEDOR. FASE DE CONHECIMENTO.
+(..)
+3. Esta Corte firmou o entendimento de que os juros de mora incidem a partir da citação do devedor na fase de conhecimento da ação civil pública, quando esta se fundar em responsabilidade contratual.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.294.213/MS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 9/12/2019, DJe 11/12/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE AÇÃO COLETIVA. 1. PRESCRIÇÃO. LIQUIDAÇÃO APRESENTADA POR LEGITIMADO EXTRAORDINÁRIO. INTERRUPÇÃO DO PRAZO. OCORRÊNCIA. SÚMULA 83/STJ. 2. JUROS DE MORA. DATA DA CITAÇÃO DO DEVEDOR NA AÇÃO DE CONHECIMENTO COMO TERMO INICIAL DOS JUROS MORATÓRIOS. PRECEDENTE FIRMADO SOB O RITO DOS RECURSOS REPETITIVOS. 3. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. 4. AGRAVO INTERNO DESPROVIDO.
+1. O ajuizamento de ação de execução coletiva pelo legitimado extraordinário interrompe a contagem do prazo prescricional, não havendo que se falar em inércia dos credores individuais. Precedentes.
+2. O Recurso Especial 1.361.800/SP, julgado sob o rito dos recursos repetitivos, consolidou a seguinte tese: "Os juros de mora incidem a partir da citação do devedor na fase de conhecimento da Ação Civil Pública, quando esta se fundar em responsabilidade contratual, sem que haja configuração da mora em momento anterior" (Relator p/ Acórdão Ministro Sidnei Beneti, Corte Especial, DJe 14/10/2014).
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.346.972/MS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/3/2019, DJe 22/3/2019.)
+A Justiça local assentou que, tratando-se de pedido atinente às diferenças da correção monetária das cadernetas de poupança relativas ao Plano Verão, os juros de mora incidiam a partir da citação na demanda de conhecimento (e-STJ fls. 341/342).
+Estando o acórdão em harmonia com o entendimento desta Corte, aplica-se a Súmula n. 83 do STJ, como óbice ao recurso.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
