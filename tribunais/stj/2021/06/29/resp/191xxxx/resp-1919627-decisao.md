@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALLYSON PEREIRA SANTOS, contra acórdão assim ementado (fl. 235):
+COMPRA E VENDA DE IMOVEL Taxa de despachante Sentença procedente que determinou a devolução dos valores pagos a este título. Inconformismo da ré Taxa que não se confunde com a taxa SATI. Precedentes desta Câmara Ausência de abusividade.
+Serviços efetivamente contratados e prestados Reembolso indevido Sentença reformada RECURSO PROVIDO.
+Em suas razões, o recorrente alega afronta ao art. 51, IV, do Código de Defesa do Consumidor, bem como dissídio jurisprudencial, afirmando que abusiva a "cobrança pelo promitente-vendedor do serviço de assessoria técnico-imobiliária (SATI), ou atividade congênere, vinculado à celebração de promessa de compra e venda de imóvel" (fl. 243) e que "Querem fazer crer tratar "despachante" uma cobrança que, em sua essência, foi tida abusiva pelo Colendo STJ" (fl. 245).
+Passo a decidir.
+O Tribunal de origem, ao julgar a apelação, concluiu que a parte ora recorrente deveriaser responsável pelo pagamento da taxa em discussão, assim se pronunciando (fls. 237/238):
+Afirma o autor que foi compelido a pagar R$ 800,00 a título de prestação de serviços de assessoria no registro.
+A apelante/ré alega que os serviços prestados e cobrados refere- se, somente, a serviços de despachante ou cobrança de taxas de serviços cartorários, o que não se confunde com a taxa SATI Serviço de Assessoria Técnico-Imobiliária, podendo ser cobrados, já que consta do contrato.
+Em que pese meu entendimento anterior, passo a aderir ao entendimento desta C. Câmara, que entende que o valor cobrado pela ré não se confunde com a taxa SATI.
+Observa-se dos autos que os serviços de despachante foram efetivamente contratados entre as partes, que celebraram termo aditivo (fls. 34/35), prevendo a prestação dos serviços de assessoria e intermediação consistentes em:
+"Os serviços ora contratados consistirão em providenciar a emissão da guia de ITBI junto às respectivas Prefeituras, após a assinatura do contrato de financiamento junto ao Agente Financeiro; promover o Registro do Contrato de Financiamento no respectivo Cartório de Registro de Imóveis; outras providências necessárias ao registro do contrato junto ao Cartório" (fls. 34).
+Assim, pelos serviços efetivamente prestados, a ré faz jus ao recebimento do preço acordado, não havendo qualquer abusividade na referida transação, pois o consumidor teve conhecimento prévio dos termos da avença. Se o demandante não leu referido aditivo quando subscreveu o instrumento, certamente tal omissão só lhes pode ser imputada.
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte.
+Acrescente-se que a conclusão acima reproduzida está em perfeita harmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, no sentido de que "A abusividade da SATI não deve implicar enriquecimento sem causa do consumidor de modo que eventual serviço específico prestado ao consumidor, como eventuais serviços de despachante ou a cobrança de taxas de serviços cartorários, podem ser efetivados. Precedente (AgInt no REsp 1920357/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 1º/6/2021, DJe 7/6/2021). Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM RESTITUIÇÃO DE QUANTIAS PAGAS. SERVIÇOS DE DESPACHANTE OU A COBRANÇA DE TAXAS DE SERVIÇOS CARTORÁRIOS. LEGALIDADE. SÚMULA 568/STJ.
+REEXAME DE FATOS E PROVAS. NOVA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação declaratória de inexigibilidade de débito cumulada com restituição de quantias pagas.
+2. A abusividade da SATI não deve implicar enriquecimento sem causa do consumidor de modo que eventual serviço específico prestado ao consumidor, como eventuais serviços de despachante ou a cobrança de taxas de serviços cartorários, podem ser efetivados. Precedente.
+Ante o entendimento do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+3. Alterar o decidido no acórdão impugnado, no que se refere à conclusão de que o recorrente teria se comprometido, expressamente, a pagar pelos serviços de despachante, que não se confundiria com a taxa SATI, exige o reexame de fatos e provas e a renovada interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7/STJ.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo interno no agravo em recurso especial não provido. (AgInt no AREsp 1730937/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/03/2021, DJe 03/03/2021)
+Ainda nessa direção: REsp n. 1.867.635/SP, Relator Ministro MARCO BUZZI, DJe de 27/11/2020; e AgIntAREsp 1.688.865/SP, de minha relatoria, DJe de 08/09/2020.
+Não há o que se reformar no ponto. O acórdão recorrido está em consonância com a orientação desta Corte, esbarrando o presente recurso no óbice da Súmula 83/STJ.
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso especial e, nos termos do art. 85, § 11, do Código de Processo Civil/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensas as exigibilidades em caso deassistência judiciária gratuita.
+Intimem-se.
