@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da Constituição) interposto contra acórdão assim ementado (fl. 95, e-STJ):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PEQUENA PROPRIEDADE RURAL. IMPENHORABILIDADE. ART. 833, VIII, CPC.
+Considerando-se que a dimensão do imóvel não ultrapassa quatro módulos fiscais, caracterizando-se como pequena propriedade rural, bem como haver prova de que é cultivado pela família, o que não foi impugnado pelo exequente, deve ser mantida a decisão que reconheceu a impenhorabilidade.
+Embargos de Declaração rejeitados (fls. 121-122, e-STJ).
+Nas razões do Recurso Especial, o IBAMA diz que houve afronta aos arts. 1.022 do CPC e 4º, § 2º, da Lei 8.009/1990. Aponta, ainda, dissídio jurisprudencial.
+Sem contrarrazões.
+Parecer do Ministério Público Federal pelo parcial conhecimento do recurso e, na extensão conhecida, pelo não provimento (fls. 170-173, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8/6/2021.
+A irresignação não merece prosperar.
+Inicialmente, cumpre afastar a suposta afronta ao art. 1.022 do CPC. Em síntese, a autarquia sustenta que o acórdão recorrido não se pronunciou sobre a aplicação do art. 4º, § 2º, da Lei 8.009/1990 c/c art. 797, 829, 830, 831, 833, 835, V, c/c 843, todos do CPC.
+Contudo, não é o Tribunal obrigado a se pronunciar sobre cada um dos dispositivos indicados pela recorrente, especialmente quando não há demonstração da sua relevância para julgamento da demanda.
+In casu, o TRF da 4ª Região decidiu nos seguintes termos:
+Observa-se que o bem objeto da controvérsia é o descrito na certidão de matrícula como "terreno rural com área total de 312.897,25 m , representado pela Gleba B da planta do imóvel, situado na Linha Cará, km12", no município de Caçador/SC. O executado é proprietário da parte ideal correspondente a 50% do bem (R2 da matrícula, evento 101, OUT2), aproximadamente 15,5 hectares.
+Considerando que o módulo fiscal no município é de 18 hectares (http://www.incra.gov.br/sites/default/files/uploads/estrutura-fundiaria/regularizacao-zundiaria/indices-cadastrais/indices_basicos_2013_por_municipio.pdf), tenho, em juízo perfunctório, diante da existência de entendimento jurisprudencial no sentido de que o imóvel rural com tamanho entre 1 e 4 módulos fiscais, que sirva ao trabalho do proprietário, é impenhorável, que o reconhecimento da impenhorabilidade deve ser mantido.
+(..)
+Por fim, acrescento que, quanto à propriedade rural ser trabalhada pela família, que a decisão agravada analisou corretamente a controvérsia.
+Verifica-se que o Tribunal julgou integralmente a lide e solucionou a controvérsia. Recorde-se que o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Precedentes: AgInt nos EDcl no AREsp 1.290.119/RS, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 30/8/2019; AgInt no REsp 1.675.749/RJ, Rel. Min. Assusete Magalhães, Segunda Turma, DJe de 23/8/2019; REsp 1.817.010/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 20/8/2019; AgInt no AREsp 1.227.864/RJ, Rel. Min. Gurgel de Faria, Primeira Turma, DJe de 20/11/2018.
+Não constatada violação ao art. 1.022 do CPC, resta prejudicada a interposição embasada na alínea "c" do permissivo constitucional, cujo objetivo é tão somente afastar eventual inadmissão do Apelo Especial por ausência de prequestionamento.
+Quanto à questão de fundo, a segunda instância, citando a decisão de primeiro grau, consignou que o "executado logrou demonstrar que sua pequena propriedade rural é de fato o meio de sustento da entidade familiar, que depende da atividade explorada na área" (fl. 100, e-STJ).
+Assim, o acórdão impugnado está em harmonia com a jurisprudência desta Corte Superior, segundo a qual "o imóvel que se enquadra como pequena propriedade rural, indispensável à sobrevivência do agricultor e de sua família, é impenhorável, consoante disposto no parágrafo 2º do artigo 4º da Lei n. 8.009/1990, norma cogente e de ordem pública que tem por escopo a proteção do bem de família, calcado no direito fundamental à moradia" (EDcl nos EDcl no AgRg no AREsp 222.936/SP, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe de 26/2/2014).
+Portanto, além de estar o julgado de acordo com a orientação jurisprudencial firmada pelo STJ sobre a matéria, o que atrai o não conhecimento pela incidência da Súmula 83/STJ, infirmar as conclusões a que chegou o Tribunal a quo acerca da impenhorabilidade do imóvel rural demanda reexame das provas carreadas aos autos, o que é vedado pela Súmula 7/STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PEQUENA PROPRIEDADE RURAL TRABALHADA PELA FAMÍLIA. IMPENHORABILIDADE CONSTATADA PELO TRIBUNAL DE PISO. SÚMULA 83/STJ. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A irresignação não comporta conhecimento.
+2. Nos termos da jurisprudência assente do STJ, "o imóvel que se enquadra como pequena propriedade rural, indispensável à sobrevivência do agricultor e de sua família, é impenhorável, consoante disposto no parágrafo 2o do artigo 4o da Lei n. 8.009/1990, norma cogente e de ordem pública que tem por escopo a proteção do bem de família, calcado no direito fundamental à moradia" (EDcl nos EDcl no AgRg no AREsp 222.936/SP, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe de 26/2/2014).
+3. No caso em análise, o Tribunal regional ratificou a decisão de primeira instância, expressando que, "se trata de imóvel com área de 12 hectares e que o módulo fiscal no município é de 22 hectares", dentro, portanto, do limite legal de 4 (quatro) módulos fiscais. A Corte assentou também que, "denota-se a existência de tal prova  terra trabalhada pela família , conforme comprovantes de compra de sementes e adubo, assim como a venda de milho" (fl. 649, e-STJ).
+4. Dessa forma, além de o aresto recorrido encontrar apoio na orientação jurisprudencial firmada pelo STJ sobre a matéria, o que atrai o não conhecimento pela incidência da Súmula 83/STJ, infirmar as conclusões a que chegou o Tribunal de origem acerca da impenhorabilidade do imóvel rural demanda reexame das provas carreadas aos autos, o que é vedado pela Súmula 7/STJ.
+5. Recurso Especial não conhecido.
+(REsp 1.756.066/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe 11/3/2019)
+RECURSO ESPECIAL. DIREITO CIVIL. IMPENHORABILIDADE. PEQUENA PROPRIEDADE RURAL. REQUISITOS E ÔNUS DA PROVA.
+1. A proteção da pequena propriedade rural ganhou status Constitucional, tendo-se estabelecido, no capítulo voltado aos direitos fundamentais, que a referida propriedade, "assim definida em lei, desde que trabalhada pela família, não será objeto de penhora para pagamento de débitos decorrentes de sua atividade produtiva, dispondo a lei sobre os meios de financiar o seu desenvolvimento" (art. 5º, XXVI). Recebeu, ainda, albergue de diversos normativos infraconstitucionais, tais como: Lei nº 8.009/90, CPC/1973 e CPC/2015.
+2. O bem de família agrário é direito fundamental da família rurícola, sendo núcleo intangível - cláusula pétrea -, que restringe, justamente em razão da sua finalidade de preservação da identidade constitucional, uma garantia mínima de proteção à pequena propriedade rural, de um patrimônio mínimo necessário à manutenção e à sobrevivência da família.
+3. Para fins de proteção, a norma exige dois requisitos para negar constrição à pequena propriedade rural: i) que a área seja qualificada como pequena, nos termos legais; e ii) que a propriedade seja trabalhada pela família.
+4. É ônus do pequeno proprietário, executado, a comprovação de que o seu imóvel se enquadra nas dimensões da pequena propriedade rural.
+5. No entanto, no tocante à exigência da prova de que a referida propriedade é trabalhada pela família, há uma presunção de que esta, enquadrando-se como diminuta, nos termos da lei, será explorada pelo ente familiar, sendo decorrência natural do que normalmente se espera que aconteça no mundo real, inclusive, das regras de experiência (NCPC, art. 375).
+6. O próprio microssistema de direito agrário (Estatuto da Terra; Lei 8.629/1993, entre outros diplomas) entrelaça os conceitos de pequena propriedade, módulo rural e propriedade familiar, havendo uma espécie de presunção de que o pequeno imóvel rural se destinará à exploração direta pelo agricultor e sua família, haja vista que será voltado para garantir sua subsistência.
+7. Em razão da presunção juris tantum em favor do pequeno proprietário rural, transfere-se ao exequente o encargo de demonstrar que não há exploração familiar da terra, para afastar a hiperproteção da pequena propriedade rural.
+8. Recurso especial não provido.
+(REsp 1.408.152/PR, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 2/2/2017)
+Ante o exposto, conheço em parte do Recurso Especial, tão somente quanto à alegada afronta ao art. 1.022 do CPC, para, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
