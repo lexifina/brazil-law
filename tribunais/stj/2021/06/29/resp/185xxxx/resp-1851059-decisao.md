@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por Ana Laura de Souza Coelho, noqual se alega violação doart. 833, IV, do Código de Processo Civil.O acórdão recorridoestá retratadona seguinte ementa (fl. 112):
+AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - CUMPRIMENTO DE SENTENÇA - Decisão de Primeiro Grau que manteve penhora "on line" de valores em contas bancárias da executada - Alegação de impenhorabilidade do valor provento de aposentadoria - Impossibilidade da penhora de aposentadoria, a qualquer título, nos termos do art. 833, inc. IV do novo CPC - Interpretação restritiva do dispositivo legal conferida pelo julgamento dos Embargos de Divergência em REsp nº 1.330.567, do Colendo STJ, que considerou impenhorável qualquer verba de natureza salarial, com relação ao último mês de salário percebido, limitado ao teto constitucional de remuneração de Ministro do STF - Valor bloqueado na conta corrente que não é oriundo do salário percebido no mês anterior, de modo que deve ser mantida a contrição, com a ressalva de que devem ser preservados os valores mensais depositados - Recurso parcialmente provido.
+Os embargos de declaração opostos pela recorrente foram rejeitados, conforme a seguinte ementa(fl. 136):
+EMBARGOS DE DECLARAÇÃO - Alegação de omissão - Acórdão que apreciou os pontos expostos pela parte em sua peça recursal, dando parcial provimento ao recurso - Embargante que busca, na verdade, a reforma do julgado, emprestando efeitos infringentes a estes embargos, que não se prestam a tal finalidade - Embargos rejeitados.
+Sustenta a recorrente que são impenhoráveis os proventos de aposentadoria, bem como o numerário previsto em caderneta de poupança.
+Argumenta, ainda, que não podem ser penhorados os valores inferiores a 40 (quarenta) salários mínimos depositados em conta bancária.
+Assim posta a questão, passo a decidir.
+Verifico que o acórdão recorrido está em consonância com a jurisprudência do STJ, que firmou o entendimento de quea remuneração protegida pela regra da impenhorabilidade é a última percebida - a do último mês vencido - e, mesmo assim, sem poder ultrapassar o teto constitucional referente à remuneração de Ministro do Supremo Tribunal Federal, sendo que, após esse período, eventuais sobras perdem tal proteção. A propósito, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL.PENHORA DE SALÁRIO. ALCANCE. APLICAÇÃO FINANCEIRA. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 (QUARENTA) SALÁRIOS MÍNIMOS.
+1. A Segunda Seção pacificou o entendimento de que a remuneração protegida pela regra da impenhorabilidade é a última percebida - a do último mês vencido - e, mesmo assim, sem poder ultrapassar o teto constitucional referente à remuneração de Ministro do Supremo Tribunal Federal. Após esse período, eventuais sobras perdem tal proteção.
+2. É possível ao devedor poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda.
+3. Admite-se, para alcançar o patamar de quarenta salários mínimos, que o valor incida em mais de uma aplicação financeira, desde que respeitado tal limite.
+4. Embargos de divergência conhecidos e providos.
+(EREsp 1.330.567/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 10.12.2014, DJe de 19.12.2014)
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
