@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto por POSTO TRÊS ESTRELAS LTDA. com fulcro no art. 105, inciso III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+"DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REITERADOS PEDIDOS DA PARTE. RETRATAÇÃO DO JUÍZO. RECURSO CONHECIDO E IMPROVIDO.
+1. Entendo que agiu bem o juízo de primeiro grau ao deferir o incidente de desconsideração da personalidade da pessoa jurídica por diversas vezes solicitado pelo executante/agravado.
+2. No caso em tela, a situação fática indica que não ocorreu ingênuo ou simples fechamento da empresa, mas uma velada intenção do devedor/agravante em embaralhar a execução da sentença e frustrar/postergar a satisfação do crédito pelo executante/agravado. Na informação prestada às fls. 377, uma Certidão expedida pela Junta Comercial do Pará (JUCEPA), não consta nem o endereço físico onde o agravado realmente funcionava. Ainda, no endereço achado no INFOJUD não há estabelecimento algum, conforme certidão do meirinho.
+3. Vale salientar que a decisão do juízo está correta, posto que atendeu os pressupostos do art. 133 do CPC/2015.
+4. Não é porque o juízo a quo proferiu decisão sucinta - e contrária aos interesses da agravante - que a interlocutória falhou na fundamentação. Com efeito, o livre convencimento do magistrado se pautou nos elementos probatórios dos autos, os quais o convenceram da presença irrefutável dos pressupostos instauradores do referido incidente.
+5. Recurso conhecido e negado provimento. Agravo Interno prejudicado" (fl. 504, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 526/529, e-STJ).
+No especial, a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 11, 489, § 1º, 371, 133, do Código de Processo Civil de 2015 e 50 do Código Civil, argumentando, em síntese, que: (i) "a decisão que julgou o agravo interno se limitou a sustentar que decisão que concedeu a desconsideração da personalidade jurídica apenas foi sucinta, baseada no livre convencimento do juiz. Entretanto, o juízo a quo determinou a instauração do incidente, de desconsideração da personalidade jurídica sem gastar uma só palavra para justificar a decisão, sustentando, somente, que vislumbrou a existência de confusão patrimonial e o abuso personalidade jurídica" (fl. 544, e-STJ); (ii) o incidente foi instaurado de ofício, sem o requerimento do recorrido; (iii) a desconsideração da personalidade jurídica foi realizada sem haver provas do abuso da personalidade jurídica, visto que inexistente desvio de finalidade ou confusão patrimonial; (iv) "não houve qualquer diligência a fim de apurar se há desvio de finalidade da personalidade jurídica. Pelo contrário, o juízo aplicou a desconsideração da personalidade jurídica com base apenas em supostos indícios de desvio de finalidade, sem ter feito qualquer pesquisa que fosse capaz de apurar a sua existência ou não" (fl. 552, e-STJ).
+Não foram apresentadas contrarrazões.
+O recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+Analisando os documentos carreados aos autos, verifico que o agravante procurou dificultar o trabalho da justiça ao evanescer do habitual endereço de funcionamento e, quando forçado a informar o endereço atualizado ao juízo, limitou-se a entregar documento com fins de desviar o foco do cumprimento de sentença. Diante dessa violação, o juízo de piso aplicou-lhe multa por litigância de má-fé (documento LIBRA 20150238332698) no valor equivalente a 1% (um por cento) sobre o valor da causa.
+Desta maneira, entendo que agiu bem o juízo de piso ao deferir o incidente de desconsideração da personalidade da pessoa jurídica por diversas vezes solicitado pelo executante/agravado.
+No caso em tela, a situação fática indica que não ocorreu ingênuo ou simples fechamento da empresa, mas uma velada intenção do devedor/agravante em embaralhar a execução da sentença e frustrar/postergar a satisfação do crédito pelo executante/agravado, o que deve ser melhor apurado na instância ordinária.
+Por exemplo, na informação prestada às fls. 377, uma Certidão expedida pela Junta Comercial do Pará (JUCEPA), não consta nem o endereço físico onde o agravado realmente funcionava. Ainda, no endereço achado no INFOJUD não há estabelecimento algum, conforme certidão do meirinho.
+Ademais, vale salientar que a decisão do juízo está correta e fundamentada, e escorou-se nos pressupostos do art. 133 do CPC/2015, verbis:
+"(..)
+Dessa maneira, já tendo este juízo, bem como a parte Exequente, diligenciado no que lhe cabiam, a fim de tentar localizar bens do Devedor passíveis de penhora, sem, porém, obter êxito, vislumbro indício de existência de confusão patrimonial e, portanto, abuso da sua personalidade jurídica, motivo pelo qual, na forma do que dispõe o art. 50 do CC entendo cabível a desconsideração da personalidade jurídica da parte Executada.
+Ante o exposto, chamo o feito à ordem para tornar sem efeito a Decisão prolatada às fls. 351 nos autos e determinar a instauração do incidente de desconsideração da personalidade jurídica do Posto Três Estrelas, ora Executado, na conformidade do que dispõe o art. 133 do CPC/2015, ficando o presente feito suspenso, na forma do art.134, §3º do CPC.(..)"
+Não é porque o juízo a quo proferiu decisão sucinta - e contrária aos interesses da agravante - que a interlocutória falhou na fundamentação.
+Com efeito, o livre convencimento do magistrado se pautou nos elementos probatórios dos autos, os quais o convenceram da presença irrefutável dos pressupostos instauradores do referido incidente" (fls. 503/504, e-STJ - grifou-se).
+De início, no tocante à violação dos arts. 11, 489, § 1º, do Código de Processo Civil de 2015, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A respeito da desconsideração da personalidade jurídica, diante das premissas fáticas estabelecidas no acórdão, a reforma do aresto demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL E CIVIL. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. IMPOSSIBILIDADE. AUSÊNCIA DOS REQUISITOS DO ART. 50 DO CC. MODIFICAÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A desconsideração da personalidade jurídica, embora seja medida de caráter excepcional, é admitida quando ficar caracterizado desvio de finalidade ou confusão patrimonial, nos termos do art. 50 do Código Civil de 2002.
+2. Na hipótese, o Tribunal de origem concluiu que não foi caracterizado o desvio de finalidade ou confusão patrimonial, inviabilizando a desconsideração da personalidade jurídica pleiteada. A modificação de tal entendimento demandaria revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+3. Inviável também conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+4. Agravo interno desprovido" (AgInt no REsp 1.873.770/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/11/2020, DJe 17/12/2020).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DIREITO CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. SIMULAÇÃO, PRESENÇA DE CONFUSÃO PATRIMONIAL E DE DESVIO DE FINALIDADE. CIRCUNSTÂNCIAS ATESTADAS PELA CORTE DE ORIGEM. SÚMULAS 7 E 83 DO STJ. AGRAVO IMPROVIDO.
+1. De fato, "a desconsideração da personalidade jurídica é admitida em situações excepcionais, devendo as instâncias ordinárias, fundamentadamente, concluir pela ocorrência do desvio de sua finalidade ou confusão patrimonial desta com a de seus sócios, requisitos sem os quais a medida torna-se incabível" (REsp n.
+1.311.857/RJ, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/5/2014, DJe 2/6/2014).
+2. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. Precedentes.
+3. No caso, para refutar as conclusões fáticas alcançadas pela Corte estadual, a respeito da caracterização dos requisitos para a desconsideração da personalidade jurídica da empresa e do esgotamento dos bens dos executados, seria necessário o reexame de provas, providência vedada nesta instância especial, em razão do óbice da Súmula n. 7 do STJ.
+4. Agravo improvido" (AgInt no AREsp 1.183.050/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/06/2018, DJe 28/06/2018).
+Por fim, consoante iterativa jurisprudência desta Corte, a necessidade de reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. DANOS MORAIS NÃO CONFIGURADOS. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+(..)
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo interno não provido" (AgInt no REsp 1.889.218/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020).
+Ante o exposto, nego provimento ao recurso especial.
+Deixa-se de tratar dos honorários recursais (art. 85, § 11, do Código de Processo Civil de 2015), visto que o recurso especial é oriundo de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
