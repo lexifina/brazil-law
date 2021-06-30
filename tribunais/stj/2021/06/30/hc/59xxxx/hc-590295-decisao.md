@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido de liminar, impetrado em favor de PAULO RICARDO RODRIGUES, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo em execução defensivo, em acórdão assim ementado:
+"PROGRESSÃO PARA O REGIME ABERTO - Indeferimento - - Detento reincidente, cumprindo pena pela prática de crimes de furto qualificado e roubos majorados, o último deles praticado durante cumprimento de pena, retornando o sentenciado ao regime fechado e interrompendo-se o lapso temporal para fins de progressão - Necessidade de cumprimento do requisito temporal de 1/6, após preenchido o requisito objetivo para progressão ao regime semiaberto, o que ocorrerá apenas em 02.09.2021 - Requisito objetivo ausente - Decisão mantida - Agravo improvido (voto 42203)." (e-STJ, fl. 12).
+Neste writ, a impetrante aponta constrangimento ilegal no indeferimento do pedido de progressão do paciente ao regime aberto. Alega, em síntese, que, de acordo com o Boletim Informativo, os requisitos objetivo e subjetivo foram cumpridos. Requer, a concessão da ordem para a promoção do reeducando ao regime aberto.
+Prestadas as informações (e-STJ, fls. 44-49), os autos foram encaminhados ao Ministério Público Federal, que opinou pelo não conhecimento do habeas corpus (e-STJ, fls. 51-54).
+É o relatório.
+Decido.
+É manifesta a superveniente ausência de interesse de agir que atingiu este mandamus e consequente perda de seu objeto, pois, de acordo com informações extraídas do SEEU, a situação fática do reeducando foi alterada, em razão de ter sido o paciente colocado em prisão domiciliar pelo Juízo da Execução, em 19/6/2020, por força da ordem concedida em habeas corpus lá impetrado.
+Ante o exposto, julgo prejudicado este habeas corpus.
