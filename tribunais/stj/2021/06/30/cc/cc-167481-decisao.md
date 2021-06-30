@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido liminar,suscitado por TOLOMEU NEGÓCIOS E PARTICIPAÇÕES LTDA. E NAFTALI NEGÓCIOS E PARTICIPAÇÕES LTDA.emface do JUÍZO DE DIREITO DA1ª VARA CÍVEL DE SÃO SEBASTIÃO - SP, doJUÍZO DA VARA DO TRABALHO DE SÃO SEBASTIÃO - SP, do JUÍZO DE DIREITO DA10ª VARA CÍVEL DO FORO CENTRAL DE SÃO PAULO - SP e do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Ação em trâmite no Juízo da1ª Vara Cível deSão Sebastião: recuperação judicial das suscitantes (n. 1000374-57.2018.8.26.0587).
+Ação em trâmite no Juízo da10ª Vara Cível de São Paulo: execução de título extrajudicial (n. 0219983-12.2011.8.26.0100).
+Ação em trâmite na Justiça do Trabalho: execução trabalhista, movidaem face das suscitantes (n. 0010311-82.2013.5.15.0121).
+Conflito de competência: alega, em síntese, que, nos termos dajurisprudência do STJ, o juízo onde tramita o processo recuperacional é oúnico competente para dirimir questões que afetem o patrimônio dasociedade empresária devedora, sob pena de violação do princípio dapreservação da empresa.
+Tutela antecipada: deferida às fls. 96/97, e-STJ, a fim de suspender a prática, pelo Juízo Laboral, de atos que impliquem constrição ao patrimônio das suscitantes, extendendo-se posteriormente osefeitos do decisumà execução de título extrajudicial (fls. 120/121 e-STJ).
+Informações prestadas pelo Juízo do Trabalho: mencionou que não foram praticados atos de expropriação relacionados ao imóvel da suscitante, mas apenas houve a ordem de reavaliação do imóvel constrito (e-STJ, fls. 158/163).
+Informações prestadas pelo Juízo da execução cível: afirmou que o imóvel controverso foi alvo de declaração de fraude à execução,o que permitiu a sua avaliação e encaminhamento para hasta(e-STJ, fl. 343/344).
+Parecer do MPF: manifestou-se pelo não conhecimento do conflito decompetência.
+RELATADO O PROCESSO, DECIDE-SE.
+Observa-se, inicialmente, que a suscitante objetiva o reconhecimento de que adecisão exaradapelo Juízo da Vara do Trabalho de São Sebastião/SP, nos autos da Execução Trabalhista n.0010311-82.2013.5.15.0121, bem como aquela proferida pelo Juízo da10ª Vara Cível de São Paulo,no bojo da Execução de Título Extrajudicial n.0219983-12.2011.8.26.0100, teriam adentrado indevidamente na competência do Juízo da recuperação judicial.
+Conforme entendimento da Segunda Seção do STJ, em hipóteses envolvendo execuções contra empresas em recuperação judicial, a caracterização do conflito de competência ocorre quando houver decisões conflitantes proferidas pelos juízos apontados como suscitados (AgInt no CC 170.346/GO, DJe 25/8/2020), o que não ocorreu no caso.
+Com efeito, quanto à execução trabalhista, verifica-se que o Juízo Laboral, ao prestar informações, esclareceu que "não foram praticados atos de expropriação relacionados ao imóvel da suscitante, mas apenas houve ordem de avaliação do imóvel constrito" (e-STJ, fls. 160/162).
+Já no tocanteà Execução de Título Extrajudicial, também não ficou caracterizado o conflito de competência. Isso porque o Juízo da10ª Vara Cível de São Paulo afirmou que a venda realizada pela suscitante, reconhecidamente em fraude à execução, tornou-se ineficaz somente em relação à execução, e, assim, o bem imóvel objeto da execução deixou de integrar o patrimônio da suscitante, desde a data da venda,ao passo que o Juízo da1ª Vara Cível de São Sebastiãomanteve o regular processamento da recuperação judicial das empresasTOLOMEU NEGÓCIOS E PARTICIPAÇÕES LTDA. E NAFTALI NEGÓCIOS E PARTICIPAÇÕES LTDA.
+Nesse contexto, todos os juízos suscitados exerceram jurisdição em suas respectivas esferas de competência, não tendo sido demonstrada, até o momento, a existência de decisões conflitantes entre eles.
+Forte nessas razões, NÃO CONHEÇO do conflito de competência e revogo a liminar anteriormente deferida, além de julgarprejudicado o agravo interno de fls. 164/174, interposto contra a decisãoliminar.
+Publique-se. Intimem-se. Comunique-se aos juízos suscitados.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. EXECUÇÃO TRABALHISTA E RECUPERAÇÃO JUDICIAL. EXECUÇÃO CÍVEL E RECUPERAÇÃO JUDICIAL. AUSÊNCIA DE DECISÕES CONFLITANTES.
+1. Há conflito de competência quando dois ou mais juízos se consideram competentes ou incompetentes para processar e julgar a mesma demanda. Situação que não ocorre na presente hipótese, visto que não há decisões conflitantes entre os suscitados.
+2. Conflito de competência não conhecido, com a revogação da liminar, tendo-se por prejudicada a análise do agravo interno interposto contra a decisãoliminar.
