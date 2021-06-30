@@ -1,0 +1,60 @@
+RECLAMAÇÃO. RE 638.115-RG (TEMA 395). DESCUMPRIMENTO DE DECISÃO PROFERIDA EM SEDE DE REPERCUSSÃO GERAL. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. NÃO CABIMENTO. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. NEGATIVA DE SEGUIMENTO.
+    Vistos etc.
+    1. Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada por Luiz Pereira Neto e Maria Jeusdênia Teodoro de Oliveira Casimiro, contra acórdão da 2ª Turma do Tribunal Regional Federal da 5ª Região nos autos da Ação Rescisória nº 0802893-90.2016.4.05.8202, à alegação de infringência à autoridade da decisão deste Supremo Tribunal Federal exarada no RE 638.115-RG (Tema 395 da sistemática da repercussão geral).
+    2. Quanto ao contexto fático e decisório de origem, emerge da inicial que o Instituto Federal de Educação, Ciência e Tecnologia do Estado da Paraíba – IFPB propôs ação rescisória contra os ora reclamantes, visando à desconstituição do acórdão nos Embargos Infringentes na Apelação Cível nº 418.830.
+    Os reclamantes narram reconhecido, no acórdão rescindendo, o direito dos servidores à incorporação, em seus vencimentos, de parcelas de quintos decorrentes do exercício de função comissionada no período de 08.4.1998 até 04.9.2001.
+    Reportam julgado procedente o pedido na ação rescisória, para desconstituir o acórdão rescindendo e, em juízo rescisório, dar provimento aos Embargos Infringentes na Apelação Cível nº 418.830.
+    Contra o acórdão, noticiam interposto recurso extraordinário, ao qual negado seguimento, com fulcro no art. 1.030, I, “a”, do CPC, sob o fundamento de que a matéria está de acordo com a decisão desta Suprema Corte prolatada no RE 638.115-RG (Tema 395). Em face dessa decisão, relatam manejado agravo, que pende de apreciação pela Corte de origem.
+    Sustentam que este Supremo Tribunal Federal, no RE 638.115-RG, acolheu embargos de declaração, a fim de reconhecer indevida a cessação imediata do pagamento de quintos quando fundado em decisão judicial transitada em julgado. Articulam que a modulação de efeitos deve ser aplicada à espécie, uma vez que transitado em julgado o título judicial que conferiu direito aos ora reclamantes antes da decisão proferida no RE 638.115-RG.
+    Requerem a concessão de medida liminar, para “suspender os efeitos da ação rescisória, mantendo-se o pagamento das parcelas dos quintos aos reclamantes”. No mérito, postulam seja cassada a decisão reclamada, ou determinada ao Tribunal Regional Federal da 5ª Região que realize a adequação ao julgado paradigmático.
+    3. Prestadas informações pela autoridade reclamada.
+    4. Apresentada contestação pelo Instituto Federal de Educação, Ciência e Tecnologia do Estado da Paraíba – IFPB, em que defende inadequado o uso da via da reclamação como sucedâneo de recurso. Acresce que a modulação de efeitos definida pelo Supremo Tribunal Federal no RE 638.115-RG se aplica apenas aos casos de servidores que continuavam recebendo a verba até a data do julgamento dos últimos embargos de declaração no aludido parâmetro (18.12.2019).
+    5. Parecer do Ministério Público Federal, da lavra do Subprocurador-Geral da República Wagner Natal Batista, pelo não conhecimento da reclamação, porque não exauridas as vias ordinárias.
+    É o relatório.
+    Decido.
+    1. A reclamação prevista nos arts. 102, I, l e 103-A, § 3º, ambos da Constituição Federal, é cabível nos casos de usurpação da competência do Supremo Tribunal Federal, descumprimento de autoridade de decisão proferida no exercício de controle abstrato de constitucionalidade ou em controle difuso, desde que, neste último caso, se cuide da mesma relação jurídica e das mesmas partes, ou desobediência à súmula vinculante.
+    2. Como causa de pedir desta reclamação, os reclamantes apontam afronta ao quanto decidido por este Supremo Tribunal no RE 638.115-RG (Tema 395 da sistemática de repercussão geral). Nesse julgamento paradigmático, esta Suprema Corte firmou a seguinte tese: “Ofende o princípio da legalidade a decisão que concede a incorporação de quintos pelo exercício de função comissionada no período de 8/4/1998 até 4/9/2001, ante a carência de fundamento legal”.
+    3. Ao julgamento de embargos de declaração no aludido parâmetro, este Supremo Tribunal Federal acolheu parcialmente os aclaratórios, para reconhecer indevida a cessação imediata do pagamento dos quintos quando fundado em decisão judicial transitada em julgado, ressalvado o cabimento de ação rescisória para rediscutir o tema.
+    4. O art. 988 do CPC/2015 assim disciplina o instituto da reclamação:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    IV garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência;
+    (…)
+    § 5º É inadmissível a reclamação:
+    I – proposta após o trânsito em julgado da decisão reclamada;
+    II – proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+    (...)”
+    5. Emerge do preceito supra transcrito – art. 988, § 5º, II, do CPC –, que admissível, a contrario sensu, a reclamação para garantir a observância de acórdão proferido em recurso extraordinário com repercussão geral reconhecida, desde que haja o esgotamento das instâncias ordinárias.
+    6. A jurisprudência desta Suprema Corte vem se firmando no sentido de que o esgotamento da instância ordinária somente se concretiza após o percurso de todo o íter recursal cabível antes do acesso à Suprema Corte. Ou seja, se a decisão reclamada ainda comportar reforma por via de recurso a algum tribunal, inclusive a tribunal superior, não se permitirá acesso à Suprema Corte por via de reclamação (Rcl 24.686-ED-AgR/RJ, Rel. Min. Teori Zavascki, Segunda Turma, DJe 11.4.2017). Nesse mesmo sentido: Rcl 26.775-AgR/DF, Rel. Min. Celso de Mello, Segunda Turma, DJe 31.8.2020; Rcl 29.505-AgR/MT, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 06.8.2018; Rcl 30.068-AgR/RJ, Rel. Min. Marco Aurélio, Primeira Turma, DJe 15.5.2020; Rcl 32.277-AgR/RS, Rel. Min. Roberto Barroso, Primeira Turma, DJe 13.12.2018; Rcl 39.305-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma, DJe 23.4.2020.
+    7. Inviável, portanto, a provocação do Supremo Tribunal Federal para garantir a autoridade de acórdão em recurso extraordinário com repercussão geral reconhecida por meio da presente reclamação, tendo em vista se tratar o ato reclamado de decisão passível de reforma pela interposição dos recursos pertinentes.
+    8. Nessa linha, trago à colação, ainda, as seguintes decisões, cujas justificações adoto como razão de decidir:
+    “AGRAVO INTERNO. RECLAMAÇÃO CONSTITUCIONAL. ALEGAÇÃO DE DESCUMPRIMENTO DE DECISÃO PROFERIDA EM SEDE DE REPERCUSSÃO GERAL. ARE 721.001-RG (TEMA 635). AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS.
+    1. A teor do art. 988, § 5º, II, do CPC, admissível, a contrario sensu, a reclamação, para garantir a observância de acórdão proferido em recurso extraordinário com repercussão geral reconhecida, desde que haja o esgotamento das instâncias ordinárias.
+    2. O esgotamento da instância ordinária somente se concretiza após o percurso de todo itinerário recursal antecedente à instauração da jurisdição desta Suprema Corte, sendo indispensável, desse modo, a impossibilidade, pela via recursal, de reforma do ato reclamado por qualquer Tribunal.
+    3. A ausência de interposição de todos os recursos cabíveis demonstra a ausência de esgotamento das vias ordinárias, inviabilizando o manejo da reclamação.
+    4. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor arbitrado à causa, se unânime a votação”
+    (Rcl 45.958-AgR/MG, de minha relatoria, Primeira Turma, DJe 14.6.2021).
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. NÃO CABIMENTO DO USO COMO SUCEDÂNEO RECURSAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    1. O esgotamento da instância ordinária, previsto no art. 988, § 5º, II, do CPC, exige a impossibilidade de reforma da decisão reclamada por nenhum tribunal, inclusive por tribunal superior.
+    2. Agravo regimental a que se nega provimento”
+    (Rcl 30.479-AgR/PR, Rel. Min. Edson Fachin, Segunda Turma, DJe 06.11.2019).
+    9. Consabido que o instituto processual da reclamação não se destina ao atropelamento da marcha processual, indevida a sua utilização como técnica per saltum de acesso a esta Corte Suprema, a substituir ou complementar os meios de defesa previstos na legislação processual. Nesse sentido (grifei):
+    “AGRAVO INTERNO. RECLAMAÇÃO CONSTITUCIONAL. ALEGAÇÃO DE DESCUMPRIMENTO DE DECISÃO PROFERIDA EM SEDE DE REPERCUSSÃO GERAL. RE 596.832-RG (TEMA 228). AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS.
+    1. A teor do art. 988, § 5º, II, do CPC, admissível, a contrario sensu, a reclamação, para garantir a observância de acórdão proferido em recurso extraordinário com repercussão geral reconhecida, desde que haja o esgotamento das instâncias ordinárias.
+    2. O esgotamento da instância ordinária somente se concretiza após o percurso de todo itinerário recursal antecedente à instauração da jurisdição desta Suprema Corte, sendo indispensável, desse modo, a impossibilidade, pela via recursal, de reforma do ato reclamado por qualquer Tribunal.
+    3. A ausência de interposição de todos os recursos cabíveis demonstra a ausência de esgotamento das vias ordinárias, inviabilizando o manejo da reclamação.
+    4. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor arbitrado à causa, se unânime a votação.” (Rcl 44.758 ED- AgR, da minha lavra, Primeira Turma, DJe 14.6.2021).
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. NÃO CABIMENTO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    1. O esgotamento da instância ordinária, previsto no art. 988, § 5º, II, do CPC, pressupõe a impossibilidade de reforma da decisão reclamada por meio de recurso à instância superior, inclusive por tribunal superior.
+    2. Agravo regimental a que se nega provimento”(Rcl 32.186 AgR, Rel. Edson Fachin, Segunda Turma, DJe 23.02.2021).
+    “CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. NÃO EXAURIMENTO DAS INSTÂNCIAS RECURSAIS ORDINÁRIAS. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUBSTITUTIVO DE RECURSOS DE NATUREZA ORDINÁRIA OU EXTRAORDINÁRIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+    1. Contra o acórdão reclamado, foram interpostos Recursos Especial e Extraordinário, ambos admitidos no Tribunal de origem. Segundo informações obtidas no sítio eletrônico do Superior Tribunal de Justiça, contra a decisão que não conheceu do Recurso Especial foi interposto o respectivo agravo interno, que ainda pende de julgamento naquela Corte Superior.
+    2. Dessa forma, não houve o pleno exaurimento das instâncias recursais na origem, o que inviabiliza o ajuizamento desta ação, uma vez que, nos termos do art. 988, § 5º, inciso II, do CPC, o esgotamento dos meios recursais a quo é pressuposto para o cabimento da Reclamação, quando tem por fundamento a exigência de respeito a precedente julgado por esta SUPREMA CORTE, em regime de Repercussão Geral.
+    3. Recurso de agravo a que se nega provimento.” (Rcl 38.196 AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 20.3.2020)
+    10. Ante o exposto, com fundamento no art. 21, § 1º, do RISTF, nego seguimento à reclamação, prejudicado o pedido de medida liminar.
+    Publique-se.
+    Brasília, 30 de junho de 2021.
+Ministra Rosa Weber
+Relatora
