@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto porTG SÃO PAULO EMPREENDIMENTOS IMOBILIÁRIOS S.A. contra a decisão que inadmitiu recurso especial. Oapelo extremo com fulcro no art. 105, inciso III, "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"RESCISÃO DE CONTRATO C. C. DEVOLUÇÃO DE VALORES - Parcial procedência para reconhecer a abusividade da retenção pretendida pela requerida, e condená-la a restituir aos autores a quantia correspondente a 80% de tudo quanto pagaram, possibilitada a dedução da quantia paga a título de comissão de corretagem - Insurgência da vendedora/requerida Descabimento Nulidade da sentença e falta de interesse de agir afastadas Diante da existência de prévia rescisão contratual por inadimplência dos autores, a sentença determinou a devolução de parte das parcelas pagas - Cláusula inserida no contrato, no tocante à restituição, que se mostrava abusiva Artigo 53 do CDC Determinação de restituição de 80% do montante adimplido pela parte autora que se mostra adequado e suficiente para indenizar a alienante pelo desfazimento do negócio Lei do Distrato (n. 13.786, de 27 de dezembro de 2018), inaplicável ao caso, visto que somente se aplica aos contratos firmados posteriormente à sua vigência - Sentença mantida - Recurso da requerida não provido(fl. 171e-STJ).
+No especial, a recorrente aponta violação dos arts. 485, VI, e 11 do Código de Processo Civil de 2015; 63 da Lei nº 4.591/1964; 1º da Lei nº 4.864/1965; e 104, 474 e 476 do Código Civil, argumentando, em síntese: (i) carência da ação por falta de interesse de agir, pois houve a rescisão contratual com a constituição em mora dos recorridos pela ausência de pagamento das parcelas, tendo sido notificado para purgar a mora; (ii) "o E. Tribunal a quo deixou de apreciar questões de máxima relevância ao deslinde da causa, suscitadas por ocasião do recurso de apelação, cuja análise provocaria, de maneira inarredável, outro resultado que não a manutenção do pedido de rescisão com devolução de valores pagos" (fl. 199e-STJ); (iii) é regular a rescisão contratual operada em virtude da inadimplência dos recorridos, que foi procedida de notificação e, não tendo purgado a mora, o imóvel foi levado a leilão; e (iv) houve desrespeito ao acordo entabulado que previa a execução da cláusula resolutiva, que fixou a retenção de 20% sobre o saldo apurado e não sobre o valor do contrato.
+Apresentadas contrarrazões (fls. 211/216e-STJ), o recurso foi inadmitido na origem.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+De início, descabido falar-se em nulidade da sentença pela falta de apreciação da preliminar de carência de ação (falta de interesse deagir).
+Isto porque, tal preliminar foi analisada e afastada na origem, com o reconhecimento de que o contrato já se encontrava rescindido pela inadimplência dos autores, conforme trecho a seguir:
+"Destarte, embora rescindido o contrato, não se realizou a apuração de haveres, sendo necessária a devolução de parcelas pagas."
+Afastada tal preliminar, passo a analisar o mérito.
+Segundo consta nos autos, os autores foram constituídos em mora, pela inadimplência, por meio de notificação pessoal para purgar a mora, nos termos do contrato, firmado sob a égide da Lei nº 4.591/64.Decorrido o prazo sem pagamento, o contrato foi resolvido de pleno direito.
+Anoto que na sentença que não foi decretada a rescisão do instrumento, mas o reconhecimento de sua prévia existência, diante da inadimplência dos autores, com a determinação de restituição de parte das parcelas pagas.
+A restituição dos valores pagos, é perfeitamente cabível, seja à luz do disposto no artigo 53 do CDC, seja diante da redação das Súmulas 1 e 2 da Seção de Direito deste E. Tribunal de Justiça e ainda, Súmula 543 do C. STJ (..)" (e-STJ fls. 173/174).
+No tocante à alegada carência da ação por falta de interesse de agir, extrai-se das razões recursais que a recorrente não refutou o fundamento adotado pela Corte local, segundo o qual mesmo ocorrendo a rescisão do contrato não houve a apuração de haveres.
+Assim, havendo fundamento suficiente no julgado que não foi objeto de impugnação pela recorrente, aplica-se, no ponto, o óbice da Súmula nº 283/STF, por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A respeito da alegada violação dos artigos11 do Código de Processo Civil de 2015; 63 da Lei nº 4.591/1964; 1º da Lei nº 4.864/1965; 104, 474 e 476 do Código Civil,constata-se que o tribunal de origem não apreciou os referidos dispositivos legais.
+Observa-se, ainda, que a recorrente não opôs embargos de declaração na origem a fim de possibilitar o exame da questão pelo tribunal local e sanar a omissão.
+Portanto, verifica-se a ausência de prequestionamento da matéria objeto do recurso, atraindo a aplicação do óbice disposto na Súmula nº 282/STF.
+Ante o exposto, nego provimento ao recurso especial.
+Na origem, os honorários advocatícios foram fixados em 12% (dozepor cento) sobre o valor atualizado da condenação, os quais devem ser majorados para 15% (quinze por cento) em favor do advogado dos recorridos, observada a assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
