@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus, sem pedido de liminar, interposto porLARA LINDA PASCOARELLI DE SOUZAcontra acórdão proferidopelo Tribunal de Justiça do Estado de São Paulo, tombados na origem comoHC n.2156191-44.2020.8.26.0000.
+Consta nos autos que foi decretada a prisão temporária da Recorrente em 22/04/2020. Posteriormente, em 08/06/2020, foi decretada a sua prisão preventiva.A denúncia foi recebida com a imputação dos crimes previstos nos arts. 33 e 35, ambos da Lei de Drogas.
+Em consulta ao sítio eletrônico da Corte local, constata-se que na denúncia é relatado que:
+"no dia 20 de setembro de 2019, MATEUS e LARA, além de outras pessoas, foram abordados por policiais militares na casa de "Magrão", conhecido usuário de drogas deste município. Com MATEUS foi encontrada considerável quantia de dinheiro, enquanto LARA trazia consigo duas porções de cocaína";"no dia 30 de novembro de 2019  .. , nesta cidade e comarca de Ouroeste,  ..  foi encontrada 01 (uma) porção de crack, com peso líquido de 0,2g (vinte centigramas)"; "no dia 14 de abril de 2020,  ..  no município de Indiaporã-SP, nesta comarca de Ouroeste,  ..  foi localizada 01 (uma) porção de Cannabis sativa L. (maconha) com peso líquido de 0,72g (setenta e duas centigramas)"; "o dia 11 de maio de 2020,  ..  no município de Fernandópolis-SP, LARA foi surpreendida transportando 10 porções de maconha, totalizando 400g (quatrocentos gramas)""
+Inconformada, a Defesa impetrouhabeas corpus, cuja ordem foi denegada pela Corte local.
+Neste recurso, a Recorrentealega, em síntese: a) a ausência derequisitos e de fundamentos idôneos para a decretação da prisão preventiva; b) as suas condições pessoais favoráveis; e c) o cabimento da prisão domiciliar, poisé genitora de criança de 4 (quatro) anos de idade.
+Requer, liminarmente e no mérito, a revogação daprisão preventiva ou, subsidiariamente, a concessão da prisão domiciliar.
+Não foi formulado pedido liminar.
+O Ministério Público Federal opinou pelo não conhecimento do recurso por prejudicialidade (fls. 94-95).
+É o relatório.Decido.
+No HC n. 606.705/SP, distribuídoà minha relatoria em 19/08/2020, foi formulada idêntica pretensão em favor daora Recorrente. Este recurso, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambas o mesmo acórdão e a mesma matéria.
+Ocorre que não podem ser processados nesta Corte, concomitantemente, habeas corpus e recurso ordinário em habeas corpus nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir.
+Assim, concluo pela inadmissibilidade do recurso, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte" (AgRg no HC 286.354/AC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 15/05/2014, DJe 23/05/2014). No mesmo sentido, v.g.: RCD no HC 423.298/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 28/11/2017, DJe 04/12/2017; AgRg no HC 404.890/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/11/2017, DJe 27/11/2017.
+Outrossim, por oportuno, no HC n. 606.705/SP foi concedida parcialmente a ordem de habeas corpus para "substituir a prisão processual imposta à Paciente por prisão domiciliar, nos termos dos arts. 318, inciso V, do Código de Processo Penal, se por outro motivo não estiver presa, sem prejuízo da aplicação pelo Juízo de primeiro grau de medidas cautelares previstas no art. 319 do Código de Processo Penal, conforme previsto no art. 318-B do mesmo Código".
+Ante o exposto, NÃO CONHEÇO do recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 606.705/SP. RECURSO NÃO CONHECIDO.
