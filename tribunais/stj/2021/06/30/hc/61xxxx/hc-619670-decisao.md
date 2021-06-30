@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de PAULO CÉSAR FERREIRA DE CARVALHO, apontando como autoridade coatora o Tribunal de Justiça de São Paulo, que negou provimento ao agravo em execução defensivo.
+Consta dos autos que o reeducando cumpre pena de 35 anos e 5 meses de reclusão pela prática de homicídios, furto e tráfico de entorpecentes, com término de pena previsto para 5/7/2039.
+O Juízo da Execução negou a progressão ao regime semiaberto, considerando a ausência do requisito subjetivo, eis que que o sentenciado não ostenta bom comportamento carcerário.
+Neste writ, o impetrante aponta constrangimento ilegal no indeferimento do benefício ao paciente, alegando que estão preenchidos os requisitos legais. Requer, ao final, "seja relaxada a prisão do paciente, pois áspero e presente a ilegalidade e constrangimento a seus status libertatis, com a imediata expedição de alvará de soltura em favor de PAULO CESAR FERREIRA DE CARVALHO, tornando sem efeito a decisão contra a qual se insurge, pedindo-se assim a concessão da progressão de regime em favor do paciente eis que, quando do HC, já preenchia todos os requisitos" (e-STJ, fl. 12).
+Indeferida a liminar (e-STJ, fl. 65) e prestadas as informações (e-STJ, fls. 71-73 e 76-89), os autos foram encaminhados ao Ministério Público Federal, que opinou pelo não conhecimento do habeas corpus e, se conhecido, pela denegação da ordem (e-STJ, fls. 91-94).
+É o relatório.
+Decido.
+É manifesta a ausência de interesse de agir e a consequente perda do objeto deste mandamus, pois, de acordo com informações extraídas do SEEU, a situação fática do reeducando foi alterada, uma vez que, apresentado novo pedido de progressão de regime no Juízo da Execução, este foi indeferido, desta feita, sob outro fundamento relativo a exame criminológico desfavorável. Cabe ressaltar que a defesa apresentou agravo em execução desse decisum e, no momento, aguardam sua remessa ao Tribunal Estadual.
+Ante o exposto, julgo prejudicado este habeas corpus.
