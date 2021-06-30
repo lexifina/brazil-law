@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de ISRAEL DE ARAUJO BARBOSAcontra acórdão do Tribunal de Justiça do Estado da Paraíba proferido naApelação Criminal n. 0800111-77.2018.4.05.8201.
+Consta dos autos que oPaciente, em primeiro grau de jurisdição, foi condenadoà pena reclusiva total de 36 (trinta e seis) anos, no regime inicial fechado, mais 1.365 (um miltrezentos e sessenta e cinco) dias-multa, como incurso nos arts.157, caput, § 2.º, incisos I e II, duas vezes, do Código Penal; 2.º,§ 2.º, da Lei n. 12.850/2013;15 e 16 da Lei n. 10.826/2003. Isso porque, juntamente com outras pessoas e portando armas de fogo de uso restrito, arrombou a entrada principal do estabelecimento comercial Shopping Partage, situado em Campina Grande/PB, subtraindo a importância de R$ 419.903,00 (quatrocentos e dezenove mil, novecentos e três reais) dos terminais de autoatendimento da Caixa Econômica Federal. Na mesma oportunidade, o grupo subtraiu vinte e quatro relógios de uma joalheria.
+O recurso de apelação interposto peloSentenciadofoi desprovido pelo Tribunal estadual, conforme acórdão acostado às fls. 194-215.
+Na presente insurgência, a Parte Impetrante aduz que subsiste flagrante ilegalidade no processo de dosimetria das penas, pois inidônea a valoração negativa "da conduta social, personalidade e circunstâncias do crime, aferidas com atecnia e desproporcionalidade, além disso há violação da Súmula 443 do colendo STJ, porquanto o Juízo sentenciante não motivou a necessidade de aplicação da majorante no grau máximo, incorrendo em injustiça na fixação da reprimenda" (fls. 3-4).
+Requer, no mérito, o redimensionamento dapena-base, excluindo os vetores da conduta social, personalidade e circunstâncias do crime; e, na terceira fase, seja aplicada a fração mínima de aumento.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 257-259).
+É o relatório.
+Decido.
+Da atenta leitura do acórdão impugnado, constato que o Paciente, nas razões do seu recurso de apelação, limitou-se a aduzir a inexistência de "provas da autoria delitiva em relação aos delitos objeto de sua condenação" (fl. 198), bem como a aplicação "do princípio da consunção quanto ao crime de disparo em via pública" (ibidem).
+O Tribunal de origem, por sua vez, examinou tão somente a matéria deduzida na apelação, sem, no entanto, emitir pronunciamento sobre as questões ora deduzidas pela ParteImpetrante,o que inviabiliza a apreciação da matéria por esta Corte Superior de Justiça, sob pena de indevida supressão de instância.
+Nesse sentido,mutatis mutandis:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.DECISÃO MONOCRÁTICA. ROUBO MAJORADO. FRAÇÃO DE AUMENTO NA TERCEIRAFASE DA DOSIMETRIA EM RAZÃO DA EXISTÊNCIA DE MAJORANTES. MATÉRIA NÃOLEVANTADA NA RAZÕES DO APELO, POR CONSEGUINTE, NÃO ENFRENTADA PELACORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE NOVOSARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVOREGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravoregimental deve trazer novos argumentos capazes de alterar oentendimento anteriormente firmado, sob pena de ser mantida a r.decisão vergastada pelos próprios fundamentos.
+II - O presente writ investe contra r. decisum proferido em sede deapelação criminal interposta contra sentença condenatória e,verificando o v. acórdão combatido que a matéria ora suscitada nãofoi levantada nas razões da defesa, por conseguinte, não foienfrentada pela eg. Corte de origem.
+III - Considerando que a Corte de origem não se pronunciou sobre otema exposto na presente impetração, este Tribunal Superior ficaimpedido de se debruçar sobre a matéria, sob pena de incorrer emindevida supressão de instância.
+IV - A toda evidência, o decisum agravado, ao confirmar o arestoimpugnado, rechaçou as pretensões da defesa por meio de judiciososargumentos, os quais encontram amparo na jurisprudência desteSodalício.
+Agravo regimental desprovido."(AgRg no HC 639.001/SP, Rel.Ministro FELIX FISCHER,DJe 29/03/2021.)
+Ante o exposto, NÃO CONHEÇO do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS.ROUBO MAJORADO, ORGANIZAÇÃO CRIMINOSA, DISPARO DE ARMA DE FOGO, USO DE ARMA DE FOGO DE USO RESTRITO E UTILIZAÇÃO DE ARTEFATO EXPLOSIVO. DOSIMETRIA DA PENA.MATÉRIA NÃO ANALISADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PEDIDO DE HABEAS CORPUSNÃO CONHECIDO.
