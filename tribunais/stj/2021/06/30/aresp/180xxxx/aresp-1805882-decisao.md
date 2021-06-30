@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por FAZENDA NACIONALcontra decisão que negou seguimento a recurso especial, fundamentadonas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 20/07/2020.
+Concluso ao gabinete em: 16/03/2021.
+Ação: recuperação judicial das empresas TB SUL INDÚSTRIA E COMÉRCIO DE REVESTIMENTOS S.A., TB NORDESTE INDÚSTRIA E COMÉRCIO DE REVESTIMENTOS S.A., CERÂMICA CEDISA LTDA., MINERAÇÃO LOGHI LTDA., MINERAÇÃO TUBARÃO LTDA., TB COMÉRCIO ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA., SPE ITAFENIX ADMINISTRADORA DE IMÓVEIS LTDA. E TB SUL INDÚSTRIA E COMÉRCIO DE REVESTIMENTOS S.A., na qual houve o ingresso da União, na condição de interessada.
+Decisão interlocutória: afastou a exigência da apresentação de certidões negativas de débitos tributários, como condição para o deferimento da recuperação judicial e, em outra oportunidade, concedeu a recuperação judicial. Contra tais decisões foi interposto agravo de instrumento pela recorrente, o qual não foi conhecido por intempestividade quanto à decisão que dispensou a apresentação de certidões negativas e julgado prejudicado em relação à decisão concessiva da recuperação judicial, diante do provimento parcial do agravo de instrumento n. 4030391-13.2018.8.24.0900, para afastar a homologação do plano e, assim, a concessão da recuperação judicial.
+Acórdão: negou provimento ao agravo interno interposto pela recorrente, nos termos da seguinte ementa:
+AGRAVO INTERNO. ARTIGO 1.021 DO CÓDIGO DE PROCESSO CIVIL DE 2015. DECISÃO MONOCRÁTICA DO RELATOR QUE NÃO CONHECEU DO RECURSO POR SER INTEMPESTIVO. DECISÃO MANTIDA. RECURSO DESPROVIDO. (e-STJ, fl. 582)
+Recurso especial: alegaviolação dos arts. 183, caput e § 1º; 188; 219; 246, § 1º; 270; 272, § 8º; 277; 280;281; 507; 932, III; 1.003, § 5º; e 1.050 todos do CPC; 5º, caput e §§ 4º e 6º; e 6º da Lei n. 11.419/2006; e 20 da Lei n. 11.033/2004, por ofensa à prerrogativa de intimação pessoal.
+Aduz que, "não havendo regular intimação pessoal da União, não há como se ter iniciado o prazo recursal  ..  bem como não se pode atribuir-lhe a consequência jurídica da preclusão manifestada pela suposta perda do prazo de trinta dias para a interposição do agravo de instrumento" (e-STJ, fl. 612).
+Acentuaque arguiu a nulidade na primeira oportunidade que teve para falar nos autos e que a intimação por e-mail não cumpriu a função de comunicação processual, porquea caixa postal eletrônica pfn.sc@pgfn.gov.br é de caráter institucional e, assim, não possui qualquer valia em termos processuais.
+Acrescenta a obrigatoriedade da apresentação de certidão de regularidade fiscal para a concessão de recuperação judicial, para o que afirma ofensa aos arts. 191-A do CTN; 47, 57 e 68 da Lei 11.101/05; e 10-A da Lei 10.522/02.
+Por fim, afirma que deve ser afastada "a aplicação que o acórdão recorrido deu aosarts. 507 e 1.021, § 1º,do CPC/15" (e-STJ, fl. 620) e defende o cabimento do agravo interno para reformar a decisão monocrática que se mostra equivocada.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/15.
+- Da ausência de prequestionamento
+Inicialmente, observa-se que o acórdão recorrido, proferido em agravo interno,restringiu-se emmanter a decisão singular, que não conheceu do agravo de instrumento interposto na origem pela recorrente. Consignou,para tanto, o seguinte:
+A insurgência não merece provimento. Primeiro, porque o artigo 932, inciso III, do Código de Processo Civil de 2015, autoriza o relator a não conhecer de recurso inadmissível. Segundo, porque a agravante foi cientificada da decisão de fls. 153/138, por intermédio do Ofício n.0300460-44.2017.8.24.0075-0015, encaminhado ao endereço eletrônico "pfn.sc@pgfn.gov.br", em data de 17.11.2017. Terceiro, porque o recurso deagravo de instrumento foi protocolado em 16.11.2018 e, portanto, após o prazo previsto nos artigos 183, 219 e 1.003, § 5º, todos do Código de Processo Civil de 2015. Quarto, porque os temas abordados neste recurso (nulidade da intimação da decisão de fls. 4.007/4012 e a legitimidade da Procuradoria Geral da Fazenda Nacional para atuar em causas que envolvam interesses do FGTS) já foram objeto dos embargos de declaração anteriormente apostos. Quinto, porque a regra prevista no artigo 507 do Código de Processo Civil de 2015 proíbe a apreciação de questões decididas sobre as quais operou-se a preclusão. (e-STJ, fls. 583/584)
+Assim, o acórdão recorrido não decidiu acerca dos argumentos invocados pela recorrente em seu recurso especial, quanto à inobservância daprerrogativa de intimação pessoal, tampouco em relação aobrigatoriedade da apresentação de certidão de regularidade fiscal para a concessão de recuperação judicial ou mesmo no tocante ao cabimento doagravo interno.
+Com efeito, houve o reconhecimento de que a recorrente foi cientificada da decisão objeto de insurgência, sem qualquer discussão acerca da alegação de que a intimação por e-mail não cumpriu a função de comunicação processual ou de que a arguição da nulidade se deu no primeiro momento em que a recorrente teve para falar nos autos.
+Ademais, o reconhecimento da preclusão pelo Tribunal de origem se deu independentemente de qualquer análise dos argumentos suscitados pela recorrente, sendo que não foram opostos embargos de declaração para viabilizar o exame da matéria, o que inviabiliza ojulgamento do recurso especial. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da divergência jurisprudencial
+A falta do cotejo analítico, requisito indispensável à demonstração da divergência, inviabiliza a análise do dissídio.
+Ademais, ausência de prequestionamento do tema que se supõe divergente,impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no AREsp 353947/SC, 3ª Turma, DJe de 31/03/2014 e EDcl no Ag 1162355/MG, 4ª Turma, DJe de 03/09/2013.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF.DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO.AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE.
+1. Recuperação judicial.
+2. A ausência de decisão acerca dos argumentos invocados pelo recorrente em suas razões recursais impede o conhecimento do recurso especial.
+3.O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+5.Agravo conhecido. Recurso especial não conhecido.
