@@ -1,0 +1,8 @@
+DECISÃO
+PROCESSUAL CIVIL. ALEGAÇÃO DE PERDA SUPERVENIENTE DE OBJETO DO RECURSO ESPECIAL, POR TER SIDO RECONHECIDO, NA ORIGEM, OBJETO PROCESSUAL PRETENDIDO NESTA CORTE SUPERIOR. INEXISTÊNCIA DE ÓBICE A QUE SE PROCLAME A FINALIZAÇÃO PROCESSUAL, NOS TERMOS REQUERIDOS PELA PARTE RECORRENTE. RECURSO PREJUDICADO, NOS TERMOS DO ART. 34, XI, DO RISTJ.
+1. Trata-se de Agravo Interno de BLAIRO BORGES MAGGI, interposto contra decisão que negou provimento ao Recurso Especial, para manter incólume o julgamento da Corte Mato-Grossense, que reputou inexistente a conexão entre processos para efeito de distribuição por prevenção a Órgão Julgador.
+2. Por intermédio da petição de fls. 447/473, a parte informa que o objeto processual vindicado no recurso apresentado a esta Corte Superior foi alcançado pela decisão de Primeiro Grau, que, a seu turno - e de modo superveniente - considerou que era existente a pretendida conexão entre causas.
+3. Não cabe a esta Corte Superior emitir juízo de valor acerca dodocumento produzido na esfera do processo de origem, para atestar se, de fato, a reunião das causas num mesmo juízo tem aptidão paragerar os efeitos processuais pretendidos pela parte implicada (distribuição por prevenção de Órgão Julgador em recursos).
+4. O fato é que o ora agravante assinalou a perda superveniente de objetopor reconhecimento, pelo Magistrado de Primeiro Grau, do tópico submetido a recurso na origem e, sendo o demandadoa parte que ora recorre, não há óbice algum que se proclame a finalização recursal, nos termos requeridos.
+5. Mercê do exposto, julga-se prejudicado o recurso, nos termos do art. 34, XI, do Regimento Interno do STJ.
+6. Publique-se. Intimações necessárias.
