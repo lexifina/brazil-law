@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo interposto por CARLOS DE OLIVEIRA PENTEADO JÚNIOR contra decisão que inadmitiu o recurso especial. O apelo extremo, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Ação rescisória. Pretensão de desconstituição do v. acórdão que manteve sentença proferida em ação de cobrança. Fatos iniciais que não se amoldam às hipóteses nas quais o ordenamento jurídico permite o ajuizamento da ação rescisória. Demanda que não se presta à reanálise das provas, tampouco pode ser utilizada como sucedâneo recursal. Carência da ação, por falta de interesse de agir. Indeferimento da inicial e extinção do processo sem resolução do mérito" (fl. 2.861e-STJ).
+Nas razões recursais (fls. 2.872/2.891e-STJ), o agravante alegouviolação dos arts. 330, III, 485, VIe 966do Código de Processo Civil de 2015.
+Sustentou, em síntese, que o acórdão recorrido
+"(..)
+Ao acatar como fundamento de decidir laudo inconclusivo, julgando antecipadamente a demanda, sem o exaurimento da fase instrutória, viola norma jurídica (artigo 966, V do CPC).
+Portanto a sentença mantida pelo acórdão é nula e inexequível, pois não delimitou a responsabilidade do recorrente, nem tampouco deixa claro quais os valores são por ele eventualmente devidos e viola os artigos 966, V, VI e VII do CPC e de forma reflexa os artigos 489, 491 e 492 do mesmo diploma legal" (fl. 2.875 e-STJ).
+Mencionou que o "acórdão profere uma sentença extra petita, pois não condicionado ao pedido da Reconvenção" (fl. 2.884 e-STJ).
+Afirmou que imprescindível, na hipótese, o deferimento da prova pericial para fazer prova da falsa perícia, que serviu como único fundamento do acórdão que manteve a sentença proferida na primeira instância, pois
+"(..)
+A constatação pericial foi realizada em objeto diferente do que o da demanda, pois a edificação periciada sofreu modificações do seu estado fático realizadas pelos réus reconvintes após o início do processo.
+O Recorrente confirmou através de laudo da Engesat demonstrando que o imóvel que a Perita deveria periciar é mostrado na foto datada de 2009 e o imóvel que a mesma periciou é retratado na foto de 2014.
+São espantosas as diferenças entre as duas situações apresentadas, portanto pouca coisa precisaria ser acrescentada para comprovar a falta de correspondência entre o conteúdo do laudo pericial e a realidade que deveria ser apurada e relatada.
+Por outro, lado os diversos documentos obtidos na Prefeitura Municipal de Jundiaí atestam que o imóvel periciado tem área construída de 320 m2 e não os 244,31 m2 constantes do projeto aprovado e expressos no Alvará de Construção emitido por aquela municipalidade, provando também o aumento da área construída ocorrido entre 2012 e 2014.
+Assim como ficou provado que houveram modificações no imóvel periciado e a Perita fez a constatação pericial no imóvel nas condições em que ele se encontrava na data da perícia não é possível descobrir a autoria de qualquer parte da obra e sendo assim menos ainda atribuir responsabilidade ao autor reconvindo por eventuais vícios construtivos simplesmente por ruptura do nexo causal"(fl. 2.888 e-STJ).
+Por fim, asseverou que
+"(..)
+o Tribunal de Justiça não analisou os fundamentos essenciais levantados pelo recorrente na ação rescisória, no sentido de que por força do artigo 966, V, VI e VII do CPC, estão presentes os requisitos de processamento da ação rescisora demonstrando os vícios do acórdãorescindendo, violando assim a Lei Federal, artigo 330, III e 485, VI do CPC e via reflexa o artigo 966, V, VI e VII do mesmo diploma legal"(fls. 1.030/1.032 e-STJ).
+Sem as contrarrazões, orecurso foi inadmitido na origem (fls. 2.895/2.897 e-STJ).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A pretensão recursal não merece acolhida.
+Quanto à alegada nulidade da prova pericial,verifica-se que as conclusões da corte local acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+Após o regular trâmite processual, a ação de cobrança foi julgada improcedente e a reconvenção procedente. Na sentença, o magistrado a quo julgou desnecessária a prova oral, eis que não iria contribuir para o deslinde da causa, porque a comprovação dos fatos dependia de robusta prova documental e técnica. Baseando-se na prova pericial produzida, conclui pela ausência de autorização dos réus para qualquer alteração no projeto e no orçamento, acrescentando que, de todo modo, o autor não comprovou os alegados gastos extras, bem como que a obra contratada não foi finalizada, embora os valores contratados tenham sido integralmente quitados (fls. 683/694).
+Sobreveio apelação do autor, na qual ele insiste, em suma, na nulidade da prova técnica produzida. Ao recurso, distribuído à 33ª Câmara de Direito Privado, ao Des. Mario A. Silveira, foi negado provimento. Transcrevam-se, por oportuno, os fundamentos do v. acórdão rescindendo (fls. 695/704):
+(..)
+Concluído o breve relato dos fatos, constata-se que os fundamentos da pretensão rescisória (dolo da parte vencedora em detrimento da parte vencida, manifesta violação da norma jurídica, prova cuja falsidade venha a ser demonstrada na própria ação rescisória, prova cuja existência ignorava, erro de fato verificável do exame dos autos) não estão configurados no presente caso. Isto porque a r. sentença condenatória, confirmada por esta E. Corte, está bem fundamentada nos elementos reunidos nos autos e na legislação aplicável à espécie.
+Anote-se que a discordância da parte em relação ao entendimento e à valoração da prova adotados pela E. Câmara prolatora do acórdão rescindendo não implica a falsidade da perícia. A questão da nulidade da perícia foi analisada detidamente no julgado, entendendo os julgadores que o laudo técnico era convincente e bastante elucidativo, tendo esclarecido de forma suficiente os fatos, o que realmente se verifica nos autos.
+Sem dúvidas, o acórdão rescindendo não merece qualquer reparo. Os questionamentos ora trazidos pelo autor, inclusive no que se refere à modificação da edificação, já foram esclarecidos satisfatoriamente e considerados pela perita, a qual respondeu aos quesitos da parte, explicando, por meio do seu conhecimento técnico, as conclusões a que chegou. A perita, inclusive, quando intimada, prestou esclarecimentos ao juízo, contribuindo com a elucidação dos fatos.
+Nesse contexto, não havia óbice para que o julgamento do feito tivesse por fundamento os elementos extraídos do minucioso laudo pericial. O fato da prova técnica ser contrária aos interesses e ao entendimento do autor não autoriza a propositura da ação rescisória, não sendo requisito para o ajuizamento.
+Cabe registrar, ainda, ao contrário do que quer fazer crer o autor, a prova pericial produzida nos autos, elaborada por profissional de confiança do juízo, equidistante das partes, sem interesse na resolução do feito e com regular inscrição no CREA, não induziu os julgadores a erro. Na verdade, percebe-se, claramente, que o autor é quem almeja confundir os julgadores, trazendo repetitivos argumentos, em extensa petição inicial sem qualquer objetividade (fls. 01 a 153), que veio acompanhada de inúmeros documentos, a maioria deles também repetidos e juntados de forma desorganizada aos autos (fls. 155 a 2.850).
+Consigne-se que a ação rescisória não se destina a suprir eventual inconformismo da parte com decisão que lhe foi desfavorável. Não se presta à reanálise das provas, tampouco configura sucedâneo recursal. Trata-se de ação desconstitutiva com requisitos próprios e excepcionalíssimos, dada a necessidade de manutenção da segurança jurídica.
+Fica evidente, no caso em exame, que a ação rescisória expressa única e simplesmente a discordância do autor acerca do resultado do julgamento, que almeja a prolação de nova decisão, incabível por esta via.
+Assim, diante da manifesta impertinência e inviabilidade da demanda, de rigor a extinção do processo em resolução do feito.
+Ante o exposto, indefiro a inicial e julgo o processo extinto, por falta de interesse de agir, com fundamento nos artigos 330, III, e 485, inciso VI, do CPC. Sem condenação ao pagamento dos ônus da sucumbência, dada a ausência de citação dos réus"(fls. 2.864/2.869 e-STJ - grifou-se).
+Nesse contexto, para o acolhimento da tese pleiteada pela parte agravante, imprescindível exceder os fundamentos do acórdão impugnado para adentrar no reexame das provas, a teor da Súmula nº 7/STJ.
+Ademais, no que se refere ao argumento de que a ação rescisóriareúne os pressupostos de admissibilidade, conclui-se que o acolhimento da pretensão recursal, nos termos em que posta, demandaria, novamente, o reexame de matéria fática e das demais provas constantes dos autos, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Confira-se, nesse sentido:
+"ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PROMOÇÃO RETROATIVA. ERRO DE FATO. REQUISITOS PARA A RESCISÃO. SÚMULAS 7 DO STJ E 284 DO STF.
+(..)
+2. Não cabe ao Superior Tribunal de Justiça, em recurso especial, alterar o entendimento da Corte local, que reconheceu a inexistência dos requisitos do art. 485 do CPC/1973, para prevalecer os argumentos apresentados pelo recorrente em sentido contrário, pois implicaria o revolvimento do conteúdo fático-probatório dos autos, providência incabível nessa via, consoante a Súmula 7/STJ.
+(..)
+4. Agravo interno a que se nega provimento" (AgInt no REsp 1.300.491/RS, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 1º/6/2020, DJe 4/6/2020).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AUTOR.
+1. Modificar a conclusão estadual acerca da ausência do preenchimento dos requisitos para o ajuizamento da ação rescisória demandaria, necessariamente, o reexame do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto na Súmula 7/STJ.
+(..)
+4. Agravo interno desprovido" (AgInt no AREsp 1.370.107/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 2/4/2019, DJe 5/4/2019).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 (ART. 535 DO CPC/1973). NÃO OCORRÊNCIA. REVISÃO DA CONCLUSÃO DO TRIBUNAL LOCAL ACERCA DA AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS PARA A PROCEDÊNCIA DA AÇÃO RESCISÓRIA. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+(..)
+2. No presente caso, observa-se que a convicção a que chegou o acórdão decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal no que se refere ao preenchimento dos requisitos para a procedência da ação rescisória (existência de dolo processual, violação à artigo de lei e erro de fato), demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+3. Agravo interno não provido" (AgInt no AREsp 1.022.588/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 16/3/2017, DJe 28/3/2017).
+Por fim, no que tange à ofensa aos arts. 489, 491 e 492 do CPC/2015, verifica-se que a matéria versada nos dispositivos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente. Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Sobre o tema:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO QUINQUENAL. ALCANCE DAS PARCELAS VENCIDAS ANTERIORMENTE AO QUINQUÊNIO QUE PRECEDE O AJUIZAMENTO DA AÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo interno não provido" (AgInt no AREsp 1.097.857/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/11/2017 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios, conforme determina o artigo 85, § 11, do CPC/2015, haja vista que estes não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
