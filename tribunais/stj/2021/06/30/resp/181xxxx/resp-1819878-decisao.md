@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por MADGA APARECIDA MAGE PANTAROTTO, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Pauloassim ementado:
+"ALIENAÇÃO FIDUCIÁRIA LIMINAR DE BUSCA E APREENSÃO - AFASTAMENTO DO DIREITO À PURGAÇÃO DA MORA - DESCABIMENTO - DECISÃO QUE RECONHECEU O DEPÓSITO DA INTEGRALIDADE DO CRÉDITO INDICADO NA PETIÇÃO INICIAL - DEVOLUÇÃO DO VEÍCULO SOB PENA DE MULTA DIÁRIA - IMPOSSIBILIDADE - COMPROVAÇÃO DE VENDA DO BEM - OBRIGAÇÃO DE FAZER CONVERTIDA EM PERDAS E DANOS A SEREM APURADAS NOS PRÓPRIOS AUTOS. RECURSO PARCIALMENTE PROVIDO." (e-STJ fl. 168).
+Os embargos de declaração opostos foram acolhidos sem efeitos modificativos(fls. 182/185e-STJ).
+Em suas razões (fls. 188/209e-STJ), arecorrente aponta a violação dos arts. 3º, §§1º e 2º do Decreto nº 911/1969,dos arts. 77, IV, VI e §2º, e do art. 80, I, II e VII do Código de Processo Civil de 2015.
+Sustenta, em síntese, o seu direito à execução da multa cominatória fixadana decisão interlocutória que determinou a restituição do veículo apreendido, tendo em vista a purgação da mora dentro do prazo legalmente estabelecido.
+Defende, ainda, que o recorrido litigou de má-fé, cometendoato atentatório à Justiça.
+Sem a apresentação das contrarrazões, o recurso foi admitido por força do provimento do AREsp nº 1.445.873/SP, para melhor exame da controvérsia.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Inicialmente, em relação ao art. 3º do Decreto nº 911/1969,a linha argumentativa desenvolvida no apelo extremo é incapaz de evidenciar aofensa alegada.
+Isso porque, ao contrário do alegado, não foi verificado o descumprimento do aludido dispositivo pelo Tribunal de origem. De fato, a Corte estadual reconheceu, concretamente, a impossibilidade de se restituir o bem à devedora fiduciária, ora recorrente, determinando a conversão da obrigação em perdas e danos.
+Paralelamente, observa-se que o conteúdo normativo contido no dispositivo de lei tido por violado (art. 3º do Dec. 911/1969) não oferece suporte à tese de que a impossibilidade de devolução do bem, na hipótese, implicaria a possibilidade da cobrança da multa cominatória fixada na decisão interlocutória.
+Além disso, tratando-se de decisão interlocutória, de natureza sabidamente precária, que foi cassada pelo Tribunal estadual, não se vislumbra a base jurídica para a manutenção da incidência da multa imposta.
+Nesse contexto, a fundamentação recursal é absolutamente deficiente, o que atrai a incidência doóbicecontidonaSúmulanº 284/STF.
+Paralelamente, tendo o Tribunal de origem afastado a existência do dolo, elemento imprescindível à configuração da litigância de má-fé, bem como afastado a existência de prova em relação ao suposto cometimento, pela parte adversa, de ato atentatório à Justiça, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, conforme dispõe oenunciado da Súmula nº 7 deste Superior Tribunal.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA 284/STF. COMPROVAÇÃO DA CELEBRAÇÃO DO CONTRATO DE EMPRÉSTIMO CONSIGNADO E LIBERAÇÃO DE VALORES EM FAVOR DO AGRAVANTE. LITIGÂNCIA DE MÁ-FÉ. SÚMULA 7/STJ.PRECEDENTES. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na eg. Instância a quo.
+2. No caso, o Tribunal de Justiça, com base no acervo fático-probatório carreado aos autos, concluiu não configurados os danos morais, em virtude de ter sido comprovada a validade da relação jurídica entre as partes, pois os documentos apresentados pelo recorrido fazem prova da contratação de empréstimo, além de não ter ocorrido nenhum desconto, no benefício previdenciário da parte autora, oriundo do contrato em comento.
+3. A pretensão de alterar tal entendimento demandaria reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, a teor da Súmula 7/STJ.
+4. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o simples fato de haver o litigante feito uso de recurso previsto em lei não significa litigância de má-fé" (AgRg no REsp 995.539/SE, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 12/12/2008). "Isso, porque a má-fé não pode ser presumida, sendo necessária a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo, nos termos do art. 80 do Código de Processo Civil de 2015" (EDcl no AgInt no AREsp 844.507/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/10/2019, DJe de 23/10/2019).
+5. Na hipótese, a Corte estadual aplicou a sanção pela litigância de má-fé, tendo em vista a conduta maliciosa da parte recorrente, traduzida na propositura da presente demanda, em evidente tentativa de locupletamento ilícito sustentando uma fraude inexistente, de modo a denotar efetivamente a deslealdade processual. A revisão desse entendimento fica obstada pela Súmula 7/STJ.
+6. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial."(AgInt no AREsp 1647493/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 31/08/2020, DJe 23/09/2020 -grifou-se)
+Ante o exposto, não conheço do recurso especial.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois o recurso tem origem em decisão interlocutória sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
