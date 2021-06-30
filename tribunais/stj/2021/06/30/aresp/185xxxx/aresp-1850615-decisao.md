@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por NORIVAL TAVARES DA SILVA contra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recurso especial, fundado naalínea"a" do permissivo constitucional, o qualdesafia acórdão assim ementado (e-STJ fl. 37):
+AGRAVO DE INSTRUMENTO - Precatórios - Cessão de 80% dos créditos a terceiro, com reserva de 20% para pagamento de honorários advocatícios contratuais - Alienação total do crédito - Cessionários aos quais não se aplica o depósito prioritário, segundo o art. 100, § 13, da CF - Decisão que indefere pleito de prioridade mantida. RECURSO NÃO PROVIDO.
+Embargos de declaração rejeitados (e-STJ fls. 51/54).
+No recurso especial obstaculizado, a parte apontou,além de dissídio pretoriano,violação dos arts. 288 e654, § 1º, do Código Civil e da Súmula Vinculante n. 47 do STF, argumentando que "o acórdão recorrido considerou o advogado como cessionário do crédito, quando sequer foi parte no instrumento particular de cessão de direitos" (e-STJ fl. 56) e indicando como paradigma o acórdão proferido noprocesso AI n.2106047-66.2020.8.26.0000, da 13º Câmara de Direito Privado do Tribunal de Justiça de São Paulo.
+Afirma também que,"para que uma cessão de direitos se aperfeiçoe necessária a declaração de vontade do cedente e do cessionário, e neste caso o advogado não foi parte naquele instrumento de cessão de direitos, não podendo ser qualificado como cessionário.  ..  Ora, o advogado não declarou sua vontade quanto a suposta cessão dos 20%, que na verdade foram excluídos da cessão pelas partes contratantes, conforme se verifica da Cláusula Quinta do instrumento particular de cessão (fls. 81/85, do processo originário)"(e-STJ fls.60/61).
+Aduz que tem direito a prioridade no pagamento do precatório, nos termos do art. 100, § 2º, da Constituição Federal.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Primeiramente, é inviável o conhecimento do dissídio jurisprudencial, na hipótese em que oacórdãoalçadocomo paradigmas tenhasido proferidopelo mesmo Tribunal cujo julgamento se desafia. Logo, aplica-se o disposto na Súmula 13 do STJ, quanto ao ponto.
+Noutra quadra, o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+Destaque-se também que, nos termos da Súmula 518 do STJ, inviável o conhecimento de eventual contrariedade àSúmula Vinculante n. 47 do STF, enunciadoque, para os fins do art. 105, III, "a", da Constituição Federal, não se enquadra no conceito de lei federal.
+Quanto à alegada ofensa aosarts.288 e 654, § 1º, do Código Civil, observa-se que o Tribunal a quo não emitiu juízo de valor sobre os referidos dispositivos, embora suscitados nos embargos de declaração, carecendo o apelo nobre do requisito constitucional do prequestionamento. Incidena espécieo óbice da Súmula 211 do STJ.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
