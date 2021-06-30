@@ -1,0 +1,42 @@
+DECISÃO
+Estes autos foram a mim redistribuídos por prevenção do processo HC n. 622.112/SP (fl. 566).
+Trata-se de agravo interposto por Amauri Ramos Gabriel contra a decisão proferida pelo Tribunal de Justiça de São Paulo, que, em juízo de admissibilidade, não admitiu o recurso especial por ele apresentado, com fundamento no art. 105, III, a e c, da Constituição Federal, em que impugnava o acórdão prolatado na Apelação Criminal n. 0039279-76.2019.8.26.0050, assim ementado (fls. 495/496):
+Ementa:
+1-) Apelação criminal. Parcial provimento do recurso defensivo, para compensar a confissão e a reincidência, com redução da pena.
+2-) Materialidade delitiva e autoria estão comprovadas pela prova oral e documentos existentes nos autos. Pode-se atribuir a receptação ao apelante.
+3-) A pena sofrerá pequena modificação. Na primeira fase, a pena-base pode ficar no mínimo, inexistem circunstâncias judiciais desfavoráveis, tendo-se um (1) ano de reclusão e dez (10) dias-multa. Na segunda fase, ele é reincidente, processo nº 102438/2010, da 11ª Vara Criminal da Capital (fls. 126/127 e 273), todavia, na fase de investigação, confessou o crime, logo, compensa-se a agravante com a atenuante e a pena fica no mesmo patamar. Na terceira fase, não há causas de diminuição e de aumento. A pena é final, pois mais nada a altera. Cada dia-multa fica no mínimo legal, pela condição insatisfatória econômica.
+4-) O regime inicial da pena corporal é o semiaberto. Ele se mostra perigoso, tendente à prática delitiva, ousado e com personalidade desvirtuada. Dessa forma, retribui- se pela conduta delituosa; previne-se que não ocorra mais e proporciona-se que reflita sobre seu ato, voltando ao convívio em sociedade em harmonia, com respeito aos princípios ético- jurídicos vigentes, "viver honestamente" e "não lesar outrem".
+5-) Com a nova redação do art. 387, parágrafo 2º, do Código de Processo Penal, na detração, pode ser feita escolha do regime. No caso, o tempo de prisão, suas condições objetivas e subjetivas, já comentadas, são sopesadas, deixando-se no regime eleito; acrescente- se que se houvesse execução, provisória ou definitiva, esse juízo seria feito, necessariamente, sob pena de ter-se apenas uma operação aritmética, que não convém.
+6-) Não pode haver a substituição da pena corporal por restritiva de direitos. O apelante é reincidente em crime doloso (art. 44, inciso II, do Código Penal). Sua culpabilidade, antecedentes, conduta social e personalidade não mostram que a substituição será proveitosa para recuperar-se e voltar à convivência com terceiros (art. 44, inciso III).
+7-) Expeça-se mandado de prisão em seu desfavor após o trânsito em julgado da condenação. Cumprido, oficie-se à COESPE para transferência.
+Nas razões do especial, apontou a Defensoria Pública, além de divergência jurisprudencial, contrariedade ao art. 44, § 3º, do Código Penal, contestando, em suma, a não substituição da pena corporal por restritivas de direitos (fls. 517/521).
+Apresentadas contrarrazões (fls. 532/537), o recurso especial não foi admitido por ausência de prequestionamento da matéria e pela não comprovação do dissídio jurisprudencial (fls. 540/541).
+Daí o presente agravo (fls. 547/551). Instado a se manifestar, o Ministério Público Federal opinou pelo conhecimento do agravo para não se conhecer do recurso especial, mediante os seguintes fundamentos (fls. 568/569):
+AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO.
+IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. CONHECIMENTO. RECURSO ESPECIAL.
+ALEGADA VIOLAÇÃO AO ART. 44, § 3º, DO CÓDIGO PENAL.
+SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. AUSÊNCIA DE PREQUESTIONAMENTO DA TESE ARGUIDA. SÚMULAS 282/STF E 356/STF. INVERSÃO DO ENTENDIMENTO DO TRIBUNAL DE ORIGEM. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. SIMILITUDE FÁTICA NÃO DEMONSTRADA.
+NÃO CONHECIMENTO.
+1. Foram atacados, específica e explicitamente, todos os fundamentos da decisão agravada, razão pela qual o agravo é de ser conhecido.
+2. In casu, a defesa alega que deve ser substituída a pena privativa de liberdade por restritivas de direitos, mormente porque o recorrente não ostenta reincidência específica. Nessa quadra, realmente, não houve o prequestionamento da matéria, nos termos da tese arguida, atraindo a aplicação das Súmulas 282/STF e 356/STF.
+3. O Tribunal de origem não substituiu a pena privativa de liberdade por restritivas de direitos, tendo em vista que o recorrente é reincidente em crime doloso, bem como entendeu que a substituição não se mostra proveitosa à recuperação e à convivência social. Dessa forma, para a inversão do julgado em relação à vedação da substituição da pena privativa de liberdade por restritivas de direitos, analisando o preenchimento ou não dos requisitos do art. 44 do Código Penal, exige-se o revolvimento do conjunto fático-probatório, esbarrando no óbice da Súmula 7/STJ.
+4. Quanto ao alegado dissídio jurisprudencial apontado no recurso especial, o recorrente não demostra a similitude fático- jurídica entre o aresto recorrido e o paradigma. Assim, não se desincumbe de realizar o indispensável cotejo analítico, o que obsta o conhecimento do recurso especial interposto pela alínea "c" do permissivo constitucional.
+5. Parecer pelo conhecimento do agravo, para não se conhecer do recurso especial.
+É o relatório.
+Presentes os requisitos de admissibilidade, o recurso merece ser conhecido.
+Todavia, a pretensão não merece acolhida.
+Na sentença, afirmou o Juízo a quo que a reincidência é incompatível com a possibilidade de substituição da pena privativa por restritiva de direitos ou mesmo com a concessão do sursis (fl. 440).
+Por sua vez, consignou o Tribunal de origem (fls. 501/502 - grifo nosso):
+ ..  Não pode haver a substituição da pena corporal por restritiva de direitos.
+O apelante é reincidente em crime doloso (art. 44, inciso II, do Código Penal).
+Sua culpabilidade, antecedentes, conduta social e personalidade não mostram que a substituição será proveitosa para recuperar-se e voltar à convivência com terceiros.  ..
+De um lado, verifica-se que a tese defensiva (reincidência não específica e condenação ocorrida no ano de 2016) não teve o competente juízo de valor aferido no caso concreto pela Corte local, sendo inevitável, com isso, o reconhecimento da ausência do indispensável prequestionamento, com incidência da Súmula 282/STF.
+Afora isso, em se tratando de réu reincidente em crime doloso, inviável a substituição da reprimenda corporal por restritiva de direitos, nos termos do art. 44, II, e § 3º, do Código Penal, inexistindo ilegalidade na negativa pelas instâncias ordinárias no que tange àconclusão de que a medida não se mostra recomendável.
+Tal entendimento encontra amparo na jurisprudência desta Corte: AgRg no AREsp n. 1.761.481/RJ, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe 11/6/2021; AgRg no HC n. 653.162/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/4/2021; AgRg no REsp n. 1.911.442/PR, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/3/2021; AgRg no HC n. 618.438/SC, de minha relatoria, Sexta Turma, DJe 23/10/2020; HC n. 487.841/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 19/3/2019; AgInt no REsp n. 1.593.300/RR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 14/3/2018; dentre outros.
+Desse modo, entendendo o Tribunal local, de forma motivada, não ser socialmente recomendável a modificação da pena corporal por restritiva de direitos, para infirmar tal conclusão seria necessário revolvimento fático-comprobatório dos autos, o que é defeso na via eleita pelo óbice da Súmula 7/STJ. Confira-se o AgRg no REsp n. 1.914.087/PB, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe 18/6/2021.
+Ante o exposto, com fundamento no art. 253, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. ART. 180, CAPUT, DO CP. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. ART. 44, § 3º, DO CP. TESE NÃO PREQUESTIONADA. REINCIDÊNCIA EM CRIME DOLOSO. ÓBICE DO ART. 44, II, DO CP. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. MEDIDA NÃO RECOMENDÁVEL. REVISÃO. DESCABIMENTO. SÚMULA 7/STJ.
+Agravo conhecido para negar provimento ao recurso especial.
