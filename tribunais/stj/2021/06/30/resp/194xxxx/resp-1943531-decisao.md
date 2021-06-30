@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO SANTANDER (BRASIL) S.A., fundamentado no artigo 105, inciso III, alíneas "a"e "c", da Constituição Federal, contra acórdão proferido peloTribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"APELAÇÃO. CONSUMIDOR. AÇÃO INDENIZATÓRIA. SALDO NEGATIVO EM CONTA CORRENTE. DEMANDAS EXECUTIVAS PROPOSTAS PELO BANCO. ALEGADO REFINANCIAMENTO DA DÍVIDA. DANO MATERIAL E MORAL. IMPROCEDÊNCIA DOS PEDIDOS, EM JULGAMENTO ANTECIPADO. MANUTENÇÃO DO DECISUM.
+Empresa autora que pretende ser ressarcida pelos danos causados supostamente pelo banco réu, em razão de execuções para a cobrança de valores alegadamente pagos. Improcedência dos pedidos em julgamento antecipado. Preliminar de cerceamento de defesa, que não restou evidenciada. Sendo o juiz o destinatário da prova, cabe a ele deferir somente as provas que entender pertinentes, existindo nos autos outros elementos que possibilitem a compreensão da controvérsia, sem que tal medida importe cerceamento de defesa, pelo julgamento antecipado da lide. Mérito. Relação de consumo. CDC que estabelece objetivamente a distribuição da carga probatória em desfavor do fornecedor - inversão ope legis - na forma do §3º, do art. 14, que somente não será responsabilizado se provar que o defeito inexiste, ou a culpa exclusiva do consumidor ou de terceiros. Elementos dos autos demonstrando de forma suficiente que os acordos celebrados entre as partes ocorreram após a propositura das demandas executivas, pelo que não há falar em abusividade, restando comprovado que o alegado defeito inexiste. Sentença mantida. Recurso desprovido. Condenação da recorrente em honorários recursais (art. 85, §11, do CPC)" (e-STJ fl. 1.041).
+Os embargos de declaração opostos pela parte recorrida foram acolhidos para fixar os honorários advocatícios, por equidade, no valor de R$ 50.000,00 (cinquenta mil reais) (e-STJ fls. 1.081/1.085).
+Já os opostos pelo recorrente foram rejeitados (e-STJ fls. 1.117/1.121).
+No recurso especial (e-STJ fls. 1.170/1.187), além de divergência jurisprudencial, ainstituição financeira alega violação do artigo 85, §§ 1º, 2º e8º, do Código de Processo Civil de 2015.
+Aduz ocabimento defixação de honorários advocatícios por equidade apenas nos casos em que o valor da causa é baixo ou o proveito econômico é inestimável ouirrisório, o que não é a hipótese dos presentes autos.
+Sustenta que o valor dado a causa representa a somatória dos pedidos formulados na inicial.
+Ao final, requer o provimento do recurso.
+Sem as contrarrazões (e-STJ fl. 1.232), orecurso foi inadmitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A controvérsia a respeito da "possibilidade de fixação de honorários advocatícios com fundamento em juízo de equidade, nos termos do art. 85, §§ 2º e 8º, do Código de Processo Civil de 2015" foi afetada a julgamento sob o sistema de recursos repetitivos (Tema 1.046), conforme julgados da relatoria do Ministro Raul Araújo, proferidos nos Recursos Especiais 1.812.301/SC e 1.822.171/SC, em 26/03/2020.
+Diante disso, em observância à economia processual e ao art. 256-L do Regimento Interno do Superior Tribunal de Justiça, os recursos que tratam da mesma controvérsia no Superior Tribunal de Justiça devem aguardar o desfecho da questão no Tribunal de origem, a quem incumbe realizar o juízo de conformação atualmente disciplinado pelos arts. 1.039 e 1.040 do Código de Processo Civil de 2015.
+Ante o exposto, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que o processo permaneça suspenso até a publicação do acórdão dos recursos especiais repetitivos, observando-se, em seguida, os procedimentos previstos nos arts. 1.039 e 1.040 do Código de Processo Civil de 2015.
+Publique-se.
+Intimem-se.
