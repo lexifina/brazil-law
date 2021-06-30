@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de VINICIUS EDUARDO ALMEIDA NEVES no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 1501394-42.2020.8.26.0559).
+Depreende-se dos autos que o paciente foi condenado, como incurso no art. 157, § 2º, II, e § 2º-A, I, c/c o art. 14, II, do Código Penal, à pena de 4 anos de reclusão, no regime inicial fechado.
+Interposta apelação pela defesa, foi negado provimento ao recurso em acórdão assim ementado (e-STJ fl.15):
+Apelação Tentativa de roubo majorado pelo concurso de pessoas e emprego de arma de fogo Materialidade e autoria demonstradas Confissão dos acusados - Prova oral apta a justificar o édito condenatório Condenação mantida Penas adequadamente fixadas e bem fundamentadas - Regime inicial fechado de rigor Recursos desprovidos.
+Alega a defesa, na presente impetração, ser indevida a fixação do regime fechado, revelando-se mais adequado, considerando-se a pena aplicada, que seja estabelecido o regime inicial aberto.
+É, em síntese, o relatório.
+Condenado o paciente àpena de 4 anos de reclusão, e tendo sido consideradas favoráveis as circunstâncias judiciais, o que ensejou a fixação da pena-base no mínimo legal, foi estipulado o regime inicial fechado nos seguintes termos: "os réus deverão iniciar o cumprimento da pena em regime fechado, na forma do art. 33 do Código Penal, observando-se que o crime foi cometido mediante grave ameaça, bem como pela reincidência específica do acusado Marco. Pelos mesmos motivos, incabível a substituição da pena privativa de liberdade por pena restritiva de direitos, bem como o benefício da suspensão condicional da pena, destacando que o réu Marco é reincidente" (e-STJ fl. 24).
+O Tribunal de origem, ao negar provimento ao recurso de apelação, manteve o regime inicial fechado. Confira-se (e-STJ fl. 19):
+Diante das circunstâncias fáticas em que o delito foi praticado mediante concurso de pessoas e emprego de arma de fogo e concurso de agentes -, além do acusado Marco ser reincidente, o regime fechado há de ser preservado, nos termos do artigo 33, § 3º, do Código Penal.
+O quantum de pena aplicada não autoriza, por si só, a fixação de regime mais brando, quando outros elementos referentes ao crime praticado e condições pessoais dos condenados, devidamente avaliados pelo Juízo da condenação, recomendam o cumprimento inicial da pena em regime mais severo, como é o caso dos autos.
+A leitura dosfundamentos acima expostos evidencia assistir razão à defesa.
+O paciente é primário e sua pena final não ultrapassa 4 anos de reclusão.
+Neste caso, o regime adequado é o aberto. Em tese, seria cabível a fixação de regime mais gravoso, no caso o semiaberto, desde que houvesse fundamentação concreta para tanto, situação inocorrente na espécie.
+A pena-base, como já destacado, foi fixada no mínimo legal e não foram declinados dados concretos que justificassema imposição de regime mais gravoso.
+Vale destacar que, "nos termos da orientação jurisprudencial desta Corte, a fixação do regime prisional mais gravoso requer fundamentação idônea, não se prestando a tal o fato de se tratar de delito praticado mediante concurso de agentes e emprego de arma de fogo, porquanto inerente ao delito praticado"(AgRg no REsp n. 1.913.786/SP, RelatorMinistro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), Sexta Turma, julgado em 11/5/2021, DJe 17/5/2021).
+Na mesma linha:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA.CÚMULO DE CAUSAS DE AUMENTO DE PENA. INTERPRETAÇÃO DO ART. 68, PARÁGRAFO ÚNICO, DO CP. POSSIBILIDADE DE APLICAÇÃO CONCORRENTE DAS CAUSAS DE AUMENTO. PLEITO DE APLICAÇÃO APENAS DA MAJORANTE DE MAIOR VALOR. IMPROCEDÊNCIA. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO ABSTRATA. PENA INFERIOR À 8 ANOS. CONSTRANGIMENTO ILEGAL.OCORRÊNCIA. APLICAÇÃO DO REGIME SEMIABERTO. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. A teor do art. 68, parágrafo único, do Código Penal, é possível, de forma concretamente fundamentada, aplicar cumulativamente as causas de aumento de pena previstas na parte especial, não estando obrigado o julgador somente a fazer incidir a causa que aumente mais a pena, excluindo as demais.
+2. Tendo sido o crime de roubo praticado com o efetivo emprego de arma de fogo e ainda mediante concurso de três agentes, correta foi a incidência separada e cumulativa das duas causas de aumento, não havendo manifesta ilegalidade.
+4. Não tendo sido indicado elementos concretos diversos das elementares do delito para a fixação do regime fechado, o agravo deve ser parcialmente provido para a fixação do regime semiaberto, pois a pena-base foi fixada no mínimo legal em face de réu primário e a reprimenda foi definitivamente estabelecida em patamar inferior a oito anos (5 anos e 11 meses e 3 dias de reclusão).
+5. Agravo regimental parcialmente provido, apenas para fixar o regime semiaberto para o cumprimento de pena.
+(AgRg no HC 644.572/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/03/2021, DJe 15/03/2021)
+Ante o exposto, concedo liminarmente a ordem para fixar o regime inicial aberto ao paciente.
+Publique-se. Intimem-se.
