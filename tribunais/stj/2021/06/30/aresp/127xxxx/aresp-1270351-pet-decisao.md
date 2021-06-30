@@ -1,0 +1,4 @@
+DECISÃO
+Por meio da Petição nº 586.591/2021 (fls. 1.222/1.238 e-STJ), a agravante RAJÁ REPRESENTAÇÕES LTDA. informa que, anteriormente ao desentranhamento daPetição nº 566.513/2021 e de seus anexos (fls. 1.204/1.216 e-STJ), já havia protocolizado outrowrit, de igual teor, perante esta Corte, que foi autuado sob o nº MS 27.827/DF,distribuído e despachado pela Presidência deste Tribunal Superior.
+Nesse contexto, observado que o despacho de fl. 1.218 e-STJ, de minha lavra, foi integralmente cumprido, e játendo havido aautuação e a distribuição do MS nº 27.843/DF, determino, por cautela, a extração, por cópia, da presente petição e a sua anexação ao aludido mandado de segurança (27.843/DF), para conhecimento e posterior deliberaçãodo e. Relator, MinistroFrancisco Falcão.
+Escoado o prazo recursal, certifique-se o trânsito em julgado do presente agravo, providenciando-se a baixa dos presentes autos.
