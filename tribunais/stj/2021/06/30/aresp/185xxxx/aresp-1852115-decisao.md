@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por ERNANI IORIS contra decisão que inadmitiu o recurso especial. O apelo extremo, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado:
+"EMENTA: Agravo de Instrumento. Cumprimento de sentença. Plano Collor. Correção monetária cobrada no período de março a abril de 1990 com base na Lei nº 8.088/1990. Estorno comprovado. Comprovado pelo banco agravado que a redução para o patamar de 74,60%, disciplinada pelo art. 6º, da Lei 8.088/1990, foi efetivada no caso concreto, deve prevalecer a conclusão de que o percentual de correção monetária cobrado pelo banco credor no mês de março/1990, incidente no final do referido mês e início do mês seguinte (abril), foi de 74,60%. Portanto, escorreita a decisão debatida que determinou a realização dos cálculos considerando o valor estornado pelo Banco do Brasil, ora agravado, à época do Plano Collor, com base na Lei nº 8.088/1990. II. Atualização do valor devido. É pacífico que a repetição de indébito, deve incindir a correção monetária pelo INPC desde a época do efetivo prejuízo (pagamento indevido), uma vez que sua finalidade é a recomposição do poder aquisitivo da moeda corroída pela inflação e juros de mora de 1% (um por cento) ao mês, a partir da citação. Porém, correto está o magistrado singular ao determinar a incidência dos juros de mora em 0,5% para o período anterior à vigência do atual Código Civil, por se tratar de mera adequação do percentual legal. Agravo de Instrumento conhecido e desprovido" (fls. 45/48 e-STJ).
+Os embargos declaratórios opostos foram rejeitados (fls. 81/89 e-STJ).
+Nas razões do especial (fls. 97/110 e-STJ), o recorrente aduz violação do art. 373, incisos I e II, do Código de Processo Civil de 2015, art. 884 do Código Civil e art. 6º, inciso VIII, do Código de Defesa do Consumidor. Sustenta, em síntese, que
+"(..) a violação ao artigo 373, I, do CPC ocorre porque, ao contrário do asseverado no Aresto objurgado, o Autor cumpriu o dever legal de demonstrar os fatos consolidadores de seu Direito, eis que com a Exordial de cumprimento de Sentença juntou planilhas de cálculos, Cédula Rural e fez seus cálculos em conformidade aos encargos contratados, chegando ao saldo da dívida que liquidou em 14.09.1990 sem o desconto alegado pelo Recorrido porque a disposição que o previa (art. 6º, da Lei 8.088/90 estava vetado pela Presidência da República).
+(..)
+(..) o Recorrido limitou-se a apresentar planilha de cálculos com campo de assinatura em branco, desacompanhada do microfilme de extrato original da dívida e, mais grave, alegando um estorno/desconto que não fez (..).
+(..)
+(..) quando o Aresto mantém a decisão agravada deixou de atender o pedido de inversão do ônus da prova para erroneamente validar uma planilha de cálculo unilateral do recorrido, donde a decisão guerreada recusar acesso à verdade real, em violação ao artigo 373, II, do CPC e lesão ao dever de inversão do ônus da prova (artigo 6º, VIII, do CDC), nisso negando a devida prestação jurisdicional"(fls. 104/107 e-STJ).
+Alega, ainda, enriquecimento ilícito da instituição financeira.
+Contrarrazões às fls. 119/122 (e-STJ).
+O recurso foi inadmitido na origem (fls. 125/126 e-STJ).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De início, no tocante à alegada violação do art. 884 do Código Civil e art. 6º, inciso VIII, do Código de Defesa do Consumidor, verifica-se que não foram objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e embora opostos embargos de declaração com a finalidade de sanar omissão porventura existente, não indicou a parte recorrente a contrariedade ao art. 1.022 do Código de Processo Civil de 2015.
+Nessa circunstância, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+A propósito:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. ART. 397 DO CÓDIGO CIVIL. SÚMULA 211 DO STJ.
+1. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do STJ.
+2. Persistindo a omissão no julgado, cabe ao recorrente alegar, nas razões do recurso especial, violação ao art. 535 do CPC/1973 (art. 1.022 do CPC/2015), a fim de que não haja supressão de instância.
+3. Agravo interno a que se nega provimento" (AgInt no AREsp 875.774/SC, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 4/10/2016, DJe 7/10/2016).
+Além disso, verifica-se que as conclusões da corte a quo decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+Na hipótese, aplicando-se o artigo 373 do Digesto Processual Civil Brasileiro, acima transcrito, percebe-se que o requisito contido em seu inciso II restou devidamente preenchido, porquanto a parte executada/agravada comprovou, de forma clara e inequívoca, ter sido realizado um estorno na conta bancária do agravante no período de março a abril de 1990 - Plano Collor, estorno este decorrente da Lei nº 8.088/1990, que previa a incidência do percentual de 74,60% para realização do cálculo da correção monetária durante o Plano Collor.
+(..)
+Consta claramente do extrato bancário da conta do agravante, evento nº 21 - arquivo 04, uma amortização do débito, efetivada no dia 14/09/1990, com devolução de parte do valor para aquela conta bancária, com base na Lei Federal nº 8.088/1990. Portanto entendo que, para fins de realização do débito exequendo o perito nomeado deve finalizar os cálculos levando em consideração que, de fato, ocorreu o estorno, ao contrário do que afirma o exequente/agravante, e, portanto, deve ser observada a diferença entre 74,60% e 41,28% e não 84,32% e 41,28%, como pretende o agravante, no mês de março de 1990.
+(..)
+Ante tais considerações, denota-se que restou comprovado pelo agravado que a redução para o patamar de 74,60%, disciplinada pelo art. 6º, da Lei 8.088/1990, foi efetivada no caso concreto, devendo prevalecer a conclusão de que o percentual de correção monetária cobrado pelo banco credor no mês de março/1990 incidente no final do referido mês e início do mês seguinte (abril) foi de 74,60%.
+Portanto, escorreita a decisão debatida, que determinou a realização dos cálculos considerando o valor estornado pelo Banco do Brasil, ora agravado, à época do Plano Collor, com base na Lei nº 8.088/1990" (fls. 52/53 e-STJ).
+Rever tais conclusões demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de fixar os honorários recursais (art. 85, § 11, do Código de Processo Civil de 2015), haja vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
