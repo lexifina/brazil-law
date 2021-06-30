@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por MARTIM AMANCIO TEIXEIRA contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. DESCONTO INDEVIDO DE VALORES NO BENEFÍCIO DE APOSENTADORIA DO AUTOR (PARCELAS DE R$ 30,60 NO PERÍODO DE DEZ MESES). DANO MORAL. VALOR DA CONDENAÇÃO, R$ 2.000,00, FIXADO DE ACORDO COM A REALIDADE DOS AUTOS. RECURSO IMPROVIDO" (fl. 169, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 196/205, e-STJ).
+No especial, o recorrente aponta, além de divergência jurisprudencial, violação dos arts. 1.022, II, do Código de Processo Civil de 2015 e 186 e 944 do Código Civil, argumentando, em síntese: (i) que houve negativa de prestação jurisdicional quanto aos parâmetros para o arbitramento da indenização; e (ii) que os danos morais foram fixados no valor ínfimo de R$ 2.000,00 (dois mil reais), sendo desproporcional ao porte da recorrida e ao dano causado.
+Apresentadas contrarrazões às fls. 320/329 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+Como visto, cinge-se a pretensão do autor/apelante à majoração do valor da condenação por danos morais.
+A demanda indenizatória buscou reparação de danos materiais e morais decorrente de descontos indevidos no benefício de aposentadoria do autor, em razão de empréstimo firmado mediante fraude, sem anuência do aposentado.
+A fixação do dano moral, por não significar uma perda material, deve ser feita seguindo o prudente arbítrio do julgador, de forma que não signifique um injustificado enriquecimento para a parte, mas que não perca sua função inibitória, desestimulando outras práticas semelhantes, tudo isto sem perder de vista o art. 944 do Código Civil, para se ter sempre em conta a extensão do dano.
+Nesse passo, a moderna doutrina e a jurisprudência dominante consagram a hegemonia do juiz para afixação do quantum indenizatório do dano moral, conquanto não possa este prescindir da consideração de aspectos de ordem objetiva (conceito e posição social das partes, a repercussão e a gravidade da ofensa, a intenção e o ânimo de ofender).
+No caso sob julgamento, bem examinadas as circunstâncias que envolvem o caso - desconto indevido de valores (parcelas de R$ 30,60 - de março a dezembro de 2014, num total de R$ 300,60) do benefício de aposentadoria do autor (aposentado), tenho que o quantum indenizatório fixado à título de danos morais, R$ 2.000,00 (dois mil reais), é razoável para o banco réu reparar o dano moral sofrido pelo apelante.
+Não caracteriza um injustificado enriquecimento e não perde sua função inibitória" (fl. 172, e-STJ).
+De início, no tocante à violação do art. 1.022, II, do Código de Processo Civil de 2015, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Quanto ao mérito, verifica-se inviável a pretensão recursal de majorar o valor arbitrado a título de indenização por danos morais.
+O Superior Tribunal de Justiça firmou entendimento no sentido de que o exame do valor fixado a título de danos morais somente é admissível em hipóteses excepcionais, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido: AgRg no REsp 971.113/SP, Quarta Turma, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 8/3/2010; AgRg no REsp 675.950/SC, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 3/11/2008; AgRg no Ag 1.065.600/MG, Terceira Turma, Rel. Min. MASSAMI UYEDA, DJe de 20/10/2008.
+Inexistem, entretanto, tais circunstâncias no presente caso, em que não se pode afirmar desarrazoado o arbitramento da indenização pelos danos morais no valor de R$ 2.000,00 (dois mil reais).
+Não se pode dizer que a referida quantia destoa dos parâmetros adotados por esta Corte em precedentes análogos, ao revés, revela-se perfeitamente adequada diante das especificidades do caso concreto, sendo inarredável, assim, a aplicação à espécie do óbice inserto no mencionado verbete sumular nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL POR ATO ILÍCITO. DANOS MORAIS. DESCONTO INDEVIDO DE EMPRÉSTIMO CONSIGNADO EM BENEFÍCIO PREVIDENCIÁRIO. QUANTUM DO DANO MORAL. VALOR RAZOÁVEL. AGRAVO INTERNO NÃO PROVIDO.
+1. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante.
+2. No caso, o montante fixado em R$ 3.000,00 (três mil reais) não se mostra exorbitante nem desproporcional aos danos causados à vítima, que sofreu desconto indevido de parcelas que totalizaram R$ 287,30 (duzentos e oitenta e sete reais e trinta centavos).
+3. Agravo interno a que se nega provimento" (AgInt no AREsp 1.623.846/PB, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/06/2020, DJe 05/08/2020).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO, CUMULADA COM REPETIÇÃO DE INDÉBITO E CONDENAÇÃO POR DANOS MORAIS. PROCEDÊNCIA. PRETENSÃO DE MAJORAR VALOR FIXADO A TÍTULO DE DANOS MORAIS. IMPOSSIBILIDADE. QUANTUM QUE, CONSIDERADAS AS PARTICULARIDADES DO CASO, NÃO REVELA IRRISÃO OU EXORBITÂNCIA. RECONHECIMENTO. DESCONTOS MENSAIS INDEVIDOS, SEM OCORRÊNCIA DE PROTESTO INDEVIDO OU INCLUSÃO NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. ENUNCIADO N. 7 DA SÚMULA DO STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. AGRAVO INTERNO IMPROVIDO.
+1. A hipótese dos autos, conforme corretamente delimitado pelo Tribunal de origem, centra-se na indevida realização de descontos, pela instituição financeira, no benefício previdenciário, de prestações mensais no valor de R$ 9,58 (nove reais e cinquenta e oito centavos) - num total de 36 (trinta e seis vezes), decorrentes de contrato de mútuo inexistente. Não há, na exordial, nenhuma alegação de que a cobrança indevida teria ensejado o apontamento creditício desabonador em relação à pessoa da demandante, o que, por si, obsta a adoção de julgados alegadamente paradigmáticos, como parâmetro a ser adotado na fixação do quantum indenizatório.
+2. Não havendo outras repercussões, é de se reconhecer que o quantum indenizatório fixado pelo Tribunal estadual, atento às particularidades do caso, em especial a de que a recorrente, em ações similares à presente, já percebeu substancial valor, a título de indenização, não desbordou dos parâmetros de razoabilidade e de proporcionalidade, a autorizar a intervenção excepcional desta Corte de Justiça.
+3. Rever, assim, o entendimento, para se chegar à conclusão de que o arbitramento afigura-se irrisório, implica indevido revolvimento de matéria fático-probatória, proceder vedado pelo enunciado n. 7 da Súmula do STJ. De igual modo, em relação ao alegado dissídio jurisprudencial, além de não ter a parte insurgente efetuado o cotejo analítico entre o acórdão recorrido e os arestos reputados paradigmas, os quais, como visto, nem sequer guardam similitude fática ao caso dos autos, o enunciado n. 7 da Súmula do STJ também obsta o conhecimento do recurso, no ponto.
+4. Agravo interno improvido" (AgInt no AREsp 1.520.609/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019).
+Por fim, consoante iterativa jurisprudência desta Corte, a necessidade de reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. DANOS MORAIS NÃO CONFIGURADOS. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+(..)
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo interno não provido" (AgInt no REsp 1.889.218/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixa-se de majorar os honorários sucumbenciais, conforme determina o art. 85, § 11, do Código de Processo Civil de 2015, haja vista a ausência de condenação da parte em honorários nas instâncias ordinárias.
+Publique-se.
+Intimem-se.
