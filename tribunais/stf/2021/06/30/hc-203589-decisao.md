@@ -1,0 +1,46 @@
+Decisão: Trata-se de habeas corpus impetrado por Marcelo Coelho Pereira em favor de Ruben Dario Lizcano Mogollon contra decisão monocrática do Superior Tribunal de Justiça que não conheceu da impetração, nos autos do HC 671.488/TO.
+    Adoto o relatório do ato coator:
+    “Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Ruben Dario Lizcano Mogollon contra decisão proferida pelo Desembargador do Tribunal Regional Federal da 1.ª Região que indeferiu o pedido urgente apresentado no HC n. 1014449- 43.2021.4.01.0000.
+    Consta dos autos que, acatando a representação ofertada pela Autoridade Policial, em razão da deflagração da assim chamada "Operação Flak", foi decretada a prisão preventiva do Paciente, em 13/02/2019, sendo posteriormente denunciado, pela suposta prática dos crimes previstos nos arts. 2.º da Lei n. 12.850/2013 e 35, caput, da Lei n. 11.343/2006 (fls. 823-1039).
+    Conforme as investigações, há indícios de que a organização criminosa da qual supostamente o Acusado integra foi responsável pelo tráfico internacional de inúmeras toneladas de cocaína, sendo o Paciente, em tese, integrante do "núcleo varejista" (fl. 943).
+    Em razão da não localização do Réu, foi decretada, em 02/02/2021, a sua citação por edital (fl. 789).
+    O mandado de prisão do Paciente foi cumprido na Colômbia, em 22/04/2021 (fl. 689).
+    Inconformada com a segregação cautelar, a Defesa impetrou habeas corpus perante o Tribunal de origem. O Desembargador Relator indeferiu o pedido liminar (fls. 784-785)
+    No presente writ, o Impetrante alega, inicialmente, que há excesso de prazo para o julgamento do habeas corpus originário, o qual foi distribuído junto à Corte a quo em 29/04/2021.
+    Nega, ademais, a participação do Paciente nos delitos investigados. Afirma que o Acusado "é estrangeiro de nacionalidade Colombiana e até a presente data não tinha conhecimento de que seu nome foi envolvido na presente operação" (fl. 19), destacando, ainda, que "dentre as mais de 3.000 páginas de investigação policial da citada operação Flak, inclusive divididas em numerações processuais distintas, há somente uma conduta imputada ao paciente, e surpreendentemente ignorada pelo MM. Juiz Federal" (fl. 20).
+    Assevera que o Paciente se encontra "com seu nome no Sistema de Difusão Vermelha da Interpol como foragido, algo que não pode prosperar" (fl. 23).
+    Sustenta, outrossim, a falta de fundamentação idônea do decreto prisional, pois não individualiza a suposta conduta criminosa do Paciente, além da ausência dos requisitos para a decretação da prisão preventiva.
+    Ressalta, no ponto, que "a prisão cautelar além de despicienda se revela extemporânea, visto que a única conduta do acusado supostamente criminosa - ocorreu em 23 de março de 2017, distante 02 anos da decretação da Prisão preventiva e não há nenhuma migalha que evidencie possível reiteração desde então" (fl. 31).
+    Aduz, ainda, ser possível a extensão da liberdade provisória concedida pelo Tribunal de origem ao Corréu João Soares Rocha, suposto chefe da organização criminosa.
+    Argumenta, também, que não foi observado o disposto no art. 316, parágrafo único, do Código de Processo Penal, "pois o decreto prisional persiste ao longo de 2 (dois) anos" (fl. 48).
+    Defende, assim, que o Acusado possui todas as condições pessoais favoráveis para permanecer em liberdade, além de ser o único responsável pelo sustento de sua família, sendo suficientes as medidas cautelares dispostas no art. 319 do Código de Processo Penal.
+    Salienta, por fim, que o Paciente pode ser injustamente extraditado a qualquer momento, motivo pelo qual pugna "que os atos instrutórios sejam realizados na Colômbia, seu país de origem, nos termos do que dispõe o acordo de cooperação jurídica internacional firmado entre os dois países, evitando assim a sua condução coercitiva ao distrito da culpa" (fl. 50).
+    Requer, liminarmente, o deferimento da liberdade provisória ao Paciente, com ou sem a aplicação de medidas cautelares alternativas, a serem cumpridas em seu país de origem, bem como que os atos instrutórios sejam realizados na Colômbia. No mérito, a) seja confirmada a revogação da prisão preventiva; b) o deferimento da "extensão dos efeitos da decisão do Egrégio Tribunal Regional Federal da 1ª Região – TRF1 que concedeu habeas corpus ao então investigado João Soares Rocha [...]" (fl. 58) e c) a revogação da decisão que determinou a inclusão do nome do Acusado "no Sistema de Difusão Vermelha da Interpol, expedindo-se os ofícios de praxe" (fl. 59).
+    Subsidiariamente, pleiteia a concessão da ordem "para que seja determinado ao TRF1 – 4ª Turma para que coloque imediatamente em julgamento na próxima sessão o Habeas Corpus nº 1014449-43.2021.4.01.0000 da 4ª Turma Federal Criminal do e. Tribunal Regional Federal da 1ª. Região - DF" (fl. 59). Pugna, ainda, pela intimação para a realização de sustentação oral”. (eDOC 34, p. 1)
+    Em consulta ao portal eletrônico do STJ, constato que o ato coator foi publicado em 11.6.2021 e transitou em julgado no dia 21 seguinte.
+    Nesta Corte o impetrante insiste na tese e nos pedidos formulados à autoridade inquinada como coatora. (eDOC 1)
+    É o relatório.
+    Decido.
+    Trata-se de writ contra decisão monocrática do Superior Tribunal de Justiça que não conheceu de habeas corpus contra decisão monocrática do Tribunal Federal da 1ª Região, que indeferiu a liminar em HC.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça e ausente prévia manifestação colegiada das instâncias inferiores, a apreciação do pedido da defesa implica dupla supressão de instância, o que não é admitido. Nesse sentido: HC 190.012 AgR, rel. Roberto Barroso, Primeira Turma, DJe 5.10.2020; HC 190.258 AgR, rel. Cármen Lúcia, Segunda Turma, DJe 16.10.2020.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (CF, art. 5º, XXXV), a aplicação desse entendimento jurisprudencial pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder, o que, todavia, não é o caso dos autos.
+    Reporto-me à fundamentação do decreto prisional, como transcrita no ato coator:
+    “d) Núcleo varejista
+    O núcleo varejista abrange alvos identificados como produtores ou compradores de cocaína, os quais contratam os serviços do núcleo logístico para o transporte e a distribuição do produto ilícito transnacionalmente.
+    d1) Núcleo Varejista: Ruben Dario Lizcano Mogollon
+    Trata-se de cidadão colombiano com forte envolvimento no tráfico internacional de drogas, tendo negociado com a organização investigada em nome de Luiz Carlos Da Rocha, vulgo Cabeça Branca. A mando dele, efetuou pagamento a João Soares Rocha no valor de U$ 130.000,00 (Informação 09/2017).
+    Para tanto, teria realizado diversos encontros com João Rocha (Informação 09/2017; pág. 19 a 23).
+    Destaca-se que atua intensivamente na fronteira entre o Brasil e o Paraguai (Rel. Análise 04/2017; pág. 131 e Rel. Análise 05/2017; pág. 02).
+    Por fim, realiza diversas negociações de fretes e de compra e venda de aeronaves com a organização. Em troca de mensagens, Ruben (vulgo 'Santiago Peres') negocia com João (vulgo 'Nestor') a realização de um frete (Rel. Análise 03/2017; págs. 95 a 98): […]
+    Considerando as circunstâncias e as condutas individualizadas expostas em epígrafe, bem como a documentação carreada aos autos, verifica-se que há fortes elementos de convicção para se concluir pelo envolvimento dos investigados supramencionados nos crimes investigados”. (eDOC 34, p. 4)
+    Esta Corte tem considerado legítimos os decretos prisionais fundamentados na extensão, organização e capacidade de intimidação da associação criminosa a que pertenceria o réu, de modo que não se vislumbra constrangimento ilegal pela motivação adotada. Confira-se, a propósito, os precedentes:
+    “PRISÃO PREVENTIVA – PERICULOSIDADE – VIABILIDADE. Decorrendo a custódia de integração a organização criminosa, a teor de conversas telefônicas, tem-se atendido o figurino legal. PRISÃO PREVENTIVA – RENOVAÇÃO – PRAZO – EXCESSO – AUSÊNCIA. Renovada a ordem de prisão, observado o período de 90 dias entre os pronunciamentos judiciais, fica afastado constrangimento ilegal”. (HC 198.858, rel. Marco Aurélio, Primeira Turma, DJe 14.6.2021)
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DE TRIBUNAL SUPERIOR. INADMISSÍVEL SUPRESSÃO DE INSTÂNCIA. IDONEIDADE DA PRISÃO PREVENTIVA DECRETADA EM DESFAVOR DE SUPOSTO INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA. HABEAS CORPUS NÃO CONHECIDO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. (HC 198.049 AgR, rel. Nunes Marques, Segunda Turma, DJe 23.4.2021)
+    Ademais, aponta-se que o paciente foi citado por edital em razão da sua não localização. O mandado de prisão foi cumprido na Colômbia, em 22.4.2021.
+    Por fim, não vislumbro morosidade na tramitação de pedido de habeas corpus que, distribuído em abril, ainda não tenha tido seu mérito apreciado pelo colegiado.
+    Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 30 de junho de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
