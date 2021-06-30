@@ -1,0 +1,39 @@
+Decisão
+    Trata-se de Agravo contra acórdão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 49, Doc. 1):
+    “CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. LITISCONSÓRCIO ATIVO FACULTATIVO. LIMITAÇÃO. POLO ATIVO. SINDICATO. SUBSTITUIÇÃO PROCESSUAL. CABIMENTO.
+    1. A limitação do litisconsórcio ativo tem a finalidade de facilitar a condução da causa. Cabe ao juiz, segundo preconiza a Lei Processual, ordenar a limitação do litisconsórcio facultativo quando este comprometer a rápida solução do litígio ou dificultar a defesa.
+    2. Já se encontra consolidada a jurisprudência dos tribunais superiores pela ampla legitimidade dos sindicatos para defender os interesses individuais e coletivos dos integrantes da categoria profissional por ele representada, abrangendo a liquidação e a execução dos créditos dos substituídos (STF, 2ª Turma, ARE 751500 ED, Relator Min. RICARDO LEWANDOWSKI, julgado em 05/08/2014, DJe-157 DIVULG 14/08/2014 PUBLIC 15/08/2014).
+    3. Assim, deve ser reconhecido ser cabível a permanência do SINDSERF no polo ativo do cumprimento de sentença.”
+    Opostos Embargos de Declaração pelas partes (fls. 68-75 e 77-82, Doc. 1), foram rejeitados (fls. 90-93, Doc. 1).
+    No apelo extremo (fls. 128-146, Doc. 1), com fundamento no art. 102, III, ‘a’, a recorrente alega ter o acórdão recorrido violado os arts. 8º, III; 5º XXXV, LV e LXXVIII; e 93, IX, da Constituição. Sustenta, preliminarmente, a nulidade do acórdão que rejeitou os Embargos de Declaração opostos na origem pelo recorrente por ofensa aos princípios da inafastabilidade da prestação jurisdicional, do contraditório, da ampla defesa, da celeridade, economia processual e da motivação dos atos decisórios.
+    Quanto ao mérito, defende que o art. 8º, III, da Carta Magna, conferiu ampla liberdade às entidades sindicais para atuarem na defesa dos direitos e interesses individuais e coletivos de toda a categoria, em sede judicial ou administrativa. Assim, “ao contrário do que entendeu o acórdão recorrido, o cumprimento de sentença foi proposto em regime de substituição processual, e não em litisconsórcio facultativo. Por essa razão, deve ser observado o entendimento consolidado nos Tribunais Superiores no sentido de que a possibilidade de limitação de litigantes para o feito executivo se restringe ao caso de litisconsórcio facultativo, não podendo ser aplicada quando a ação é proposta por entidade de classe na defesa dos interesses dos seus associados, em regime se substituição processual – como é o caso concreto.” (fl. 140, Doc. 1).
+    O Tribunal de origem negou seguimento ao Recurso Extraordinário relativamente à alegada ofensa aos artigos 5º, XXXV e LV, e 93, IX, da Constituição Federal, aplicando a jurisprudência desta SUPREMA CORTE firmada no julgamento dos Tema 660 e 339 da Repercussão Geral. Quanto à matéria remanescente, inadmitiu o apelo extremo, ao argumento de que eventual ofensa à Carta Magna seria meramente indireta ou reflexa (fls. 174-176, Doc. 1).
+    No Agravo (fls. 213-220, Doc. 1), a parte recorrente reiterou a argumentação recursal, no sentido de que houve ofensa direta à Constituição Federal.
+    É o relatório. Decido.
+    Eis os fundamentos do acórdão recorrido (fls. 52-53, Doc. 1):
+    “Quanto à limitação do litisconsórcio facultativo, o art.113, §1º, do NCPC, prevê que o juiz poderá limitar o litisconsórcio facultativo quanto ao número de litigantes, objetivando não comprometer a rápida solução do litígio. Tal dispositivo está em consonância com o direito fundamental à razoável duração do processo e à celeridade processual (art. 5º, LXXVIII, CF).
+    Além disso, o art. 11 da Resolução n.º 17, de 26.03.2010, do TRF da 4ª Região, que regulamenta o processo judicial eletrônico - e-Proc - no âmbito da Justiça Federal da 4ª Região, por sua vez, dispõe que 'As ações no e-Proc, preferencialmente, evitarão a formação de litisconsórcio facultativo (...)'.
+    A limitação do litisconsórcio ativo tem a finalidade de facilitar a condução da causa. Cabe ao juiz, segundo preconiza a Lei Processual, ordenar a limitação do litisconsórcio facultativo quando este comprometer a rápida solução do litígio ou dificultar a defesa.
+    Nesse sentido:
+    […]
+    Portanto, mantenho a decisão recorrida no ponto em que determinou a limitação do litisconsórcio ativo facultativo.
+    Passo ao exame da permanência do SINDISERF no polo ativo.
+    Já se encontra consolidada a jurisprudência dos tribunais superiores pela ampla legitimidade dos sindicatos para defender os interesses individuais e coletivos dos integrantes da categoria profissional por ele representada, abrangendo a liquidação e a execução dos créditos dos substituídos (STF, 2ª Turma, ARE 751500 ED, Relator Min. RICARDO LEWANDOWSKI, julgado em 05/08/2014, DJe-157 DIVULG 14/08/2014 PUBLIC 15/08/2014).
+    Assim, deve ser reconhecido ser cabível a permanência do sindicato no polo ativo do cumprimento de sentença.
+    Deixo de conhecer do recurso quanto ao pedido constante do item b.1, de afastar a determinação de juntada de contratos firmados individualmente pelos substituídos, eis que inexiste tal exigência na decisão agravada.
+    Portanto, o presente recurso deve ser parcialmente provido para que seja permitida a permanência do SINDISERF no polo ativo.”
+    Verifica-se, portanto, que a matéria está situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Mesmo que fosse possível superar todos esses graves óbices, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+    Por fim, o Plenário do SUPREMO TRIBUNAL FEDERAL, no julgamento do RE 883.642-RG (Rel. Min. RICARDO LEWANDOWSKI, Tema 823), examinou a repercussão geral da questão constitucional relativa à legitimidade extraordinária dos sindicatos para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam. Confiram-se a ementa do acórdão:
+    RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ART. 8º, III, DA LEI MAIOR. SINDICATO. LEGITIMIDADE. SUBSTITUTO PROCESSUAL. EXECUÇÃO DE SENTENÇA. DESNECESSIDADE DE AUTORIZAÇÃO. EXISTÊNCIA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DE JURISPRUDÊNCIA. I Repercussão geral reconhecida e reafirmada a jurisprudência do Supremo Tribunal Federal no sentido da ampla legitimidade extraordinária dos sindicatos para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos.
+    O acórdão recorrido seguiu essa orientação, razão pela qual não merece reparos.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Ficam AMBAS AS PARTES advertidas de que:
+    - a interposição de recursos manifestamente inadmissíveis ou improcedentes, ou meramente protelatórios, acarretará a imposição das sanções cabíveis;
+    - decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem.
+    Publique-se.
+    Brasília, 30 de junho de 2021.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
