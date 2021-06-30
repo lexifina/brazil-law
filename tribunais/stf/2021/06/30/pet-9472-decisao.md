@@ -1,0 +1,21 @@
+DECISÃO:
+EMENTA: Direito Administrativo. Ação Popular. Incompetência originária do Supremo Tribunal Federal.
+1. O Supremo Tribunal Federal não é competente para processar e julgar, originariamente, ações populares constitucionais.
+2. Declínio de competência.
+    1. Trata-se de ação popular, com pedido de tutela de urgência, autuada como petição, ajuizada por Everton Canha Barbosa, com fundamento no art. 5º, LXXIII, da CF e na Lei 4.717/65, em face do Deputado Federal Arthur César Pereira de Lira, sob alegação de proteção ao patrimônio público, à moralidade administrativa e contra o abuso de poder.
+    2. Inicialmente o autor alega conexão com o Inq 4.781, que tramita nesta Corte, requerendo distribuição por prevenção. Alega que a PEC nº 3/2021 tem por objetivo aumentar a imunidade parlamentar, e é medida casuística, ante a abertura do Inq 4.781, que investiga a propagação de notícias falsas, caluniosas e ameaças contra os membros do Supremo Tribunal Federal (STF). Afirma que essa PEC obsta a possibilidade de prisão de parlamentares que cometeram crimes, e cria mecanismos que esvaziam o texto constitucional. Requer a suspensão e anulação da tramitação da PEC 03/2021, e que sejam proibidos futuros projetos similares, em respeito ao princípio da moralidade administrativa.
+    3. É breve o relatório. Decido.
+    4. De início, o fundamento de conexão entre as ações não se sustenta. A ação popular tem por objeto direitos difusos e coletivos que não tenham natureza penal. O Inq 4.781, por sua vez, investiga prática criminosa consolidada na propagação de notícias falsas, caluniosas e ameaças proferidas contra os membros desta Corte. Com efeito, são ações de esferas distintas, com pedidos e causas de pedir distintos.
+    5. Ademais, a jurisprudência do STF firmou-se no sentido de que o rol das competências originárias da Corte é taxativo e, no que aqui interessa, o julgamento das ações populares constitucionais não se incluem nas suas competências originárias. Nesse sentido, destaco o julgamento na AO 859/AP-QO, sob a relatoria da Ministra Ellen Gracie:
+    “AÇÃO ORIGINÁRIA. QUESTÃO DE ORDEM. AÇÃO POPULAR. COMPETÊNCIA ORIGINÁRIA DO SUPREMO TRIBUNAL FEDERAL: NÃO-OCORRÊNCIA. PRECEDENTES.
+    1. A competência para julgar ação popular contra ato de qualquer autoridade, até mesmo do Presidente da República, é, via de regra, do juízo competente de primeiro grau. Precedentes.
+    2. Julgado o feito na primeira instância, se ficar configurado o impedimento de mais da metade dos desembargadores para apreciar o recurso voluntário ou remessa obrigatória, ocorrerá a competência do Supremo Tribunal Federal, com base na letra n do inciso I, segunda parte, do artigo 102 da Constituição Federal.
+    3. Resolvida a Questão de Ordem para estabelecer a competência de um dos juízes de primeiro grau da Justiça do Estado do Amapá’.” (AO 859/AP-QO, Tribunal Pleno, Redator para o acórdão o Ministro Maurício Corrêa)
+    6. Nessa mesma linha, destacou o Ministro Sepúlveda Pertence, no julgamento da Pet. 3.152/PA-AgR4: “não é da competência originária do STF conhecer de ações populares, ainda que o réu seja autoridade que tenha na Corte o seu foro por prerrogativa de função para os processos previstos na Constituição”.
+    7. Dito isso, nos termos da jurisprudência deste Tribunal e da disciplina do art. 5º, § 1º, da Lei 4.717/1965, é manifesta a incompetência do STF para processar e julgar ações populares constitucionais.
+    8. Advirto, por fim, que o uso de meios processuais manifestamente inadmissíveis gera efeitos danosos à prestação jurisdicional, consumindo tempo e recursos escassos desta Corte. Desse modo, a reiteração da conduta implicará a imposição de multa por litigância de má-fé (art. 80 e ss. do CPC).
+    9. Diante do exposto, com base no art. 21, § 1º, do RI/STF, reconheço a incompetência originária do Supremo Tribunal Federal para julgar a causa. Na forma do art. 64, § 3º, do CPC/2015, transitada em julgado esta decisão, remetam-se os autos ao juízes federais de competência da Subseção Judiciária do domicílio do autor (Londrina/PR), a quem couber por distribuição.
+    Publique-se. Intimem-se.
+          Brasília, 30 de junho de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
