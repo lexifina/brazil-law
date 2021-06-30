@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especialinterposto por COSTA E TAVARES PAES SOCIEDADE DE ADVOGADOS, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal,contra acórdãoproferido pelo Tribunal de Justiça do Distrito Federal assim ementado:
+"PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DECISÃO INTERLOCUTÓRIA. REJEIÇÃO DO PEDIDO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. FIXAÇÃO. DESCABIMENTO. ART. 85, §1º DO CPC. ROL TAXATIVO. PREVISÃO DE HONORÁRIOS ADVOCATÍCIOS EM SEDE DE INCIDENTE. INTERPRETAÇÃO EXTENSIVA. IMPOSSIBILIDADE. VERBA. FIXAÇÃO. PRESERVAÇÃO. VEDAÇÃO. MAJORAÇÃO. IMPOSSIBILIDADE. VERBA REFORMATIO IN PEJUS. HONORÁRIA DE SUCUMBÊNCIA. DESTINATÁRIO. PATRONO DA PARTE VENCEDORA. SOCIEDADE DE ADVOGADOS. LEGITIMIDADE PARA RECORRER. INEXISTÊNCIA (LEI AGRAVO DE INSTRUMENTO DESPROVIDO. Nº 8.906/94, ART. 23; CPC, ART. 85, §§14 E 15).
+1. De acordo com o marco legal inaugurado pelo artigo 23 do Estatuto da Advocacia - Lei nº8.906/94 -, corroborado pelo novo estatuto processual - CPC, art. 85, §§ 14 e 15 -, os honorários de sucumbência constituem direito autônomo do advogado e têm natureza remuneratória, podendo ser executados em nome próprio ou nos mesmos autos da ação em que tenha atuado o causídico, implicando que, em sendo o destinatário da verba, está legitimado para recorrer, em nome próprio, visando sua majoração, prerrogativa que se estende à sociedade de advogados que integra e figurara como outorgada no correlato instrumento de mandato.
+2. Diante da ausência de disciplina específica preceituando o cabimento de honorários advocatícios ao ser resolvido o incidente de desconsideração da personalidade jurídica, pois ausente essa previsão no dispositivo que dispõe genericamente sobre os honorários sucumbenciais, fixando que são devidos apenas em sede de ação, reconvenção, no cumprimento de sentença, provisório ou definitivo, na execução, resistida ou não, e nos recursos interpostos cumulativamente (CPC, art. 85, §1º), e na seção quetrata especificamente do incidente (CPC, arts 133 e segs.), inexorável a constatação de que são descabidos, inclusive porque a resolução do incidente materializa-se via de decisão interlocutória (art.136, CPC).
+3. A ausência de recurso implica a assimilação pela parte do decidido, ensejando oaperfeiçoamento, conforme a natureza do provimento, da preclusão ou trânsito em julgado, quanto à sua pessoa, resultando que, veiculado agravo de instrumento pela parte que se sagrara exitosa ao ser resolvido incidente processual de desconsideração da personalidade jurídica, o tribunal, em deferência ao princípio que veda a , está impedido de promover a reforma do em seu desfavor e em reformatio in pejus decisum prol do litigante que, não se irresignando contra a solução adotada na instância de origem, conformara-secom o resolvido.
+4. Agravo conhecido e desprovido. Preliminar rejeitada. Unânime" (fls. 1.558/1.559 e-STJ).
+Nas razões recursais, orecorrente sustenta, além da divergência jurisprudencial, violação dos artigos85, § 1º, 133, 135 e 136 do Código de Processo Civil de 2015.
+Aduz que "a condenação da parte sucumbente ao pagamento de honorários advocatícios sucumbenciais é decorrência lógica da resolução do mérito da lide incidental" (fl. 1.591e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De fato, ajurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de não ser cabível a fixação de honorários advocatícios nos incidentes processuais, como é o caso do agravo de instrumento interposto contra decisão que deferiu a desconsideração da personalidade jurídica.
+Exceção é feitaapenas nos casos que são capazes de extinguir ou alterar substancialmente o próprio processo principal, o que não se verifica na hipótese.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA.REQUISITOS. SÚMULA 7/STJ. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO.
+1. Ação de execução por quantia certa fundada em título extrajudicial. Incidente de desconsideração da personalidade jurídica.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Não é cabível a condenação de honorários advocatícios em incidente processual, ressalvados os casos excepcionais.
+4. Tratando-se de incidente de desconsideração da personalidade jurídica, o descabimento da condenação nos ônus sucumbenciais decorre da ausência de previsão legal excepcional, sendo irrelevante se apurar quem deu causa ou foi sucumbente no julgamento final do incidente.
+4. Agravo interno no agravo em recurso especial não provido"
+(AgInt no AREsp 1.707.782/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/3/2021, DJe 25/3/2021).
+"AGRAVO INTERNO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA JULGADO PREJUDICADO EM RAZÃO DA RECUPERAÇÃO JUDICIAL DA DEVEDORA - HONORÁRIOS ADVOCATÍCIOS - IMPOSSIBILIDADE - PRECEDENTES.
+1. Não é cabível a condenação em honorários advocatícios em incidente processual, ressalvados os casos excepcionais.Precedentes.
+2. Na hipótese, também não há como aferir se houve sucumbência no incidente, porquanto foi extinto em razão da decisão que homologou a recuperação judicial da empresa devedora, como se constata da situação processual contida nas razões de decidir do acórdão ora recorrido.
+3. Agravo interno, após a retificação do voto do relator, provido para negar provimento ao recurso especial."(AgInt no REsp 1828724/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2020, DJe 14/08/2020, grifou-se)
+"AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL.AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO. CUMPRIMENTO DE SENTENÇA.DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS AUSENTES.DISSOLUÇÃO IRREGULAR E AUSÊNCIA DE BENS PENHORÁVEIS. INSUFICIÊNCIA.HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO.
+1. A jurisprudência do STJ firmou o entendimento no sentido de que não são cabíveis honorários advocatícios nos incidentes processuais, exceto nos casos em que estes são capazes de extinguir ou alterar substancialmente o próprio processo principal, o que não se verificou na espécie.
+2. Agravo interno a que se nega provimento."(AgInt nos EDcl no AREsp 1475592/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/06/2020, DJe 17/06/2020, grifou-se)
+Ante o exposto, negoprovimento ao recurso especial.
+Deixo de aplicar o art. 85, § 11, do CPC/2015 tendo em vista que o acórdão recorrido é oriundo de agravo de instrumento sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
