@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário constitucional em habeas corpus, sem pedido liminar, interposto por PEDRO HENRIQUE SILVA DE OLIVEIRA contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro proferido no HC 0059833-46.2019.8.19.0000.
+Na causa principal, na origem, apura-se "a prática dos delitos tipificados nos artigos 155, §4º, I e IV e 288, ambos do Código Penal, ocorridos em 11 de agosto do corrente ano" (fl. 57).
+Nas presentes razões o Recorrente pretende, liminarmente e no mérito, revogar a prisão preventiva decretada no Processo n. 0168690-86.2020.8.19.0001, sob a alegação, em síntese, de que os requisitos da medida mais gravosa não estão configurados.
+Parecer do Ministério Público Federal à fl. 201, pelo desprovimento.
+É o relato do necessário, considerada a instrução deficiente do feito.
+Passo a decidir.
+O pedido é incognoscível.
+Inicialmente, vale referir que, nos termos do art. 486 do Código de Processo Civil, " o pronunciamento judicial que não resolve o mérito não obsta a que a parte proponha de novo a ação". Ou seja, a decisão por intermédio da qual indeferi liminarmente a petição inicial do HC 632.059/RJ, Rel. Ministra LAURITA VAZ (DJe 15/12/2020), impetrado em favor do Paciente, não induz litispendência (ou seja, não impede a presente interposição, por reiteração de pedido).
+Todavia, a pretensão ora formuladaigualmente nãopode ser conhecida, pois a documentação trazida aos presentes autos continua incompleta. Isso porqueo Recorrente deixou de trazer aos autos peça essencial, qual seja, acópia da decisão que decretou a prisão preventiva, o título prisional que ora justifica a segregação cautelar do Paciente.
+Ocorre que, como se sabe, "a adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ" (STF, HC 16.6543-AgR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 29/04/2019, DJe de 07/05/2019).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Nesse contexto, a petição recursal deve ser liminarmente indeferida, porque a Defesa não se desincumbiu do seu ônus de instruir adequadamente os autos.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; e RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019; AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020.
+Ressalto, no mais, que não há óbice ao manejo dewrit para a devida análise da controvérsia, desde que seja juntada a documentação faltante.
+Ante o exposto, NÃO CONHEÇO do pedido recursal.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO CONSTITUCIONAL EM HABEAS CORPUS.INSTRUÇÃO DEFICIENTE DO FEITO. AUSÊNCIA DE DOCUMENTAÇÃO ESSENCIAL À ANÁLISE DA CONTROVÉRSIA. PEDIDO RECURSAL NÃO CONHECIDO.
