@@ -1,0 +1,19 @@
+Decisão: : Trata-se de recurso extraordinário interposto em face de acórdãos do Tribunal de Justiça do Estado de São Paulo assim ementados (eDOC 1, p. 25 e 119):
+    “ANULATÓRIA CUMULADA COM REPETIÇÃO DO INDÉBITO - Julgamento de procedência para afastar a cobrança das Taxas de Limpeza Pública, de Conservação de Vias e Logradouros - Município de Jaú - Taxa de Limpeza Pública cujo fato gerador está limitado à coleta e remoção de lixo domiciliar - Exigibilidade - Súmulas vinculantes 19 e 29 do STF - Taxa de Conservação de Vias e Logradouros Hipótese de não atendimento dos requisitos de especificidade e divisibilidade sendo, portanto, indevida Recurso parcialmente provido.”
+    “EMBARGOS DE DECLARAÇÃO — Omissão — Ocorrência em parte — Acórdão que deixou de se manifestar sobre os índices de juros e correção monetária — Juros moratórios devidos como previsto no art. 161, parágrafo único do Código Tributário Nacional, a partir do trânsito em julgado (art. 167, parágrafo único do CTN) - Correção monetária devida a partir do recolhimento indevido, conforme Súmula 162 do Superior Tribunal de Justiça e calculada de acordo com a Tabela Prática deste Tribunal - Embargos acolhidos em parte para sanar a omissão, mantendo no mais o Acórdão tal como lançado.”
+    No recurso extraordinário, interposto com base no permissivo constitucional do art. 102, III, a e b, aponta-se ofensa aos arts. 97 e 145, II e §2º, a, do Texto Constitucional.
+    Nas razões recursais, alega a constitucionalidade da taxa de conservação de vias e logradouros públicos identificada nos autos, bem como o desrespeito a cláusula de reserva de plenário, ao afastar a aplicação do art. 5º da Lei 11.960/2009.
+    O Presidente da Seção de Direito Público do Tribunal a quo, em juízo de admissibilidade do extraordinário, entendeu por negar seguimento ao recurso com fundamento no art. 1030, I, b, do CPC, no que diz respeito as alegações envolvendo a taxa em discussão, uma vez que está de acordo com o que decidido no julgamento do RE 576.321, Tema 146 da Repercussão Geral. No que se refere a aplicação do art. 5º da Lei 11.960/2009, admitiu o recurso (eDOC 2, p. 44-46).
+    É o relatório. Decido.
+    De início, observo que o conhecimento do presente recurso é inviável em relação a alegação de constitucionalidade da taxa de conservação de vias e logradouros públicos, uma vez que foi proferida, por ocasião da realização do juízo de admissibilidade no Tribunal a quo, decisão de negativa de seguimento com aplicação de entendimento firmado em regime de repercussão geral.
+    Passo ao exame da parte do recurso que não ficou prejudicada.
+    A irresignação não merece prosperar.
+    É que eventual violação ao art. 97 da Constituição e até mesmo a aplicação do art. 5º da Lei 11.960/2009 não foram objeto de debate no acórdão recorrido e tampouco foram opostos embargos de declaração visando sanar possível omissão nesse ponto. Falta-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356 do STF), tornando inviável o apelo extremo.
+    Ressalte-se que os embargos de declaração opostos pelo ora recorrente foram acolhidos ante o reconhecimento de omissão pela Corte de origem na definição dos juros e correção monetária na devolução dos recolhimentos indevidos. No entanto, uma vez definido os índices com fundamento no Código Tributário Nacional, nada se argumentou em relação a Lei 11.960/2009 pelo recorrente.
+    Ante o exposto, nego provimento ao recurso extraordinário, nos termos do art. 932, IV, a e b, do Código de Processo Civil e art. 21, §1º, do RISTF.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 30 de junho de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
