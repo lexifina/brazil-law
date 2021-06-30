@@ -1,0 +1,24 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado por José Ricardo Soler dos Santos em favor de Gustavo Henrique de Souza contra acórdão do Superior Tribunal de Justiça no HC 650.523/SP, assim ementado:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO DE SENTENÇA DEFINITIVA EM REGIME SEMIABERTO POR CRIME EQUIPARADO A HEDIONDO (TRÁFICO DE DROGAS). PRISÃO DOMICILIAR EM RAZÃO DA PANDEMIA CAUSADA PELO COVID-19 – PACIENTE QUE SOFRE DE HIPERTENSÃO E DE BRONQUITE ASMÁTICA. POSSIBILIDADE DE REALIZAÇÃO DO TRATAMENTO ADEQUADO NO ESTABELECIMENTO PRISIONAL. ART. 5-A DA RECOMENDAÇÃO 62/2020, DO CNJ (INCLUÍDO PELA RECOMENDAÇÃO 78/2020, DO CNJ). AGRAVO REGIMENTAL IMPROVIDO”. (eDOC 7, p. 1)
+    O impetrante narra (eDOC 1) que o paciente foi condenado pela prática dos crimes dos arts. 33, caput, e 35 da Lei 11.343/2006, à pena de 12 anos e 3 meses de reclusão, em regime inicialmente fechado, e pelo crime do art. 180 do Código Penal à pena de 1 ano, 4 meses e 10 dias, em regime aberto.
+    Afirma que o paciente já foi progredido para o regime semiaberto, e pede para que cumpra o restante de sua pena em prisão domiciliar, para evitar a contaminação pela Covid-19.
+    Alega que o paciente pertenceria ao grupo de risco, por ser diabético e hipertenso, e que estaria recolhido a presídio superlotado, o CPP de Mongaguá, que contaria com o dobro da capacidade de detentos.
+    Pleiteia o cumprimento de pena em prisão domiciliar.
+    É o relatório.
+    Decido.
+    Trata-se de habeas corpus substitutivo de recurso ordinário contra acórdão do Superior Tribunal de Justiça que não conheceu de habeas corpus substitutivo de recurso ordinário contra acórdão do Tribunal de Justiça de São Paulo, que denegou o HC.
+    No julgamento do Habeas Corpus 188.820 MC, de caráter coletivo, a 2ª Turma desta Corte consolidou sua orientação jurisprudencial quanto aos parâmetros especiais de encarceramento motivados pela pandemia da Covid-19. Nele, a Turma aderiu, por unanimidade, ao voto do rel. Min. Edson Fachin, que reconheceu a atribuição do juízo de origem para verificar a situação do preso diante dos critérios relevantes para o sopesamento entre o direito individual à integridade física e o direito coletivo à segurança pública. Transcrevo o excerto relevante do voto:
+    “Afora a exclusão de determinados crimes cometidos sem violência ou grave ameaça à pessoa por força de comandos constitucionais e compromissos internacional pelo País, entendo que a concessão de medidas alternativas deve partir de uma análise individualizada a ser verificada pelo juízo competente, que está mais próximo do caso concreto.
+    Primeiro, porque há a necessidade de se aferir se o condenado ou preso provisório insere-se dentro dos parâmetros fixados na presente decisão. A par de aferir esses requisitos, é preciso a comprovação médica de que o detento pertence a grupo de risco para a Covid-19. A aferição da presença dos requisitos para a concessão das medidas alternativas ao cárcere, dentre elas, a comprovação de que o detento faz parte de grupo de risco, inegavelmente, terá de ser feita no juízo de origem em processo próprio no qual se assegure o contraditório e a ampla defesa”. (p. 21)
+    Assentada essa premissa, transcrevo a fundamentação do acórdão que negou o primeiro pedido de habeas corpus:
+    “Extrai-se das informações prestadas pela autoridade apontada como coatora que o paciente cumpre pena privativa de liberdade em regime fechado, e que houve o indeferimento do pleito de concessão da prisão domiciliar, ante a insuficiência de provas quanto ao estado de saúde do paciente e a existência de atendimento médico adequado na unidade prisional.
+    De fato, em relação à suposta saúde fragilizada do paciente, não constam dos autos documentos comprobatórios de tal circunstância há tão somente o relatório médico lavrado em 10 de agosto de 2020, relatando que o paciente informou ser portador de hipertensão arterial e que faz uso de medicação anti-hipertensiva, estando em bom estado geral e recebendo regularmente a medicação fornecida pela unidade prisional.
+    O médico consignou ainda que o paciente relatou ser portador de bronquite asmática, porém, no momento, sem sinais e sintomas da patologia.
+    Deste modo, inexistem evidências de que ele apresente comorbidades que o tornem especialmente suscetível à Covid-19”. (eDOC 6, p. 4)
+    Sendo assim, para se entender de forma diversa, seria necessário o revolvimento do acervo fático-probatório de modo amplo a ponto de ensejar um novo juízo, providência inviável na via estreita do habeas corpus. Precedentes: (HC-AgR 131.570, rel. Luiz Fux, Primeira Turma, DJe 19.6.2017; e RHC 126.336, rel. Teori Zavascki, Segunda Turma, DJe 10.3.2015).
+    Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 30 de junho de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
