@@ -1,0 +1,75 @@
+DECISÃO
+ANDRÉ NASCIMENTO DOS SANTOSagrava de decisão que não admitiu seu recurso especial, interpostocom fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido peloTribunal de Justiça do Estado do Acrena Apelação Criminal n. 0003562-25.2014.8.01.0001.
+Nas razões do recurso especial, a defesa apontouviolação dos arts. 59do Código Penal e 593, III, "c" e "d", do Código de Processo Penal, por entender que o Conselho de Sentença julgou contrariamente às provas dos autos, pois "não restou comprovado, a partir da prova testemunhal coligidas aos autos, que o Recorrente foi o autor dos disparos de arma de fogo que ceifaram a vida de Márcio" (fl.814).
+Também, sustentou não ter sido idônea a motivação para o incremento da pena-base eque foi desproporcional o aumento operado. Por fim,ponderou que as instâncias ordinárias foram incongruentes, pois afirmaram ser o réu portador de bons antecedentes e, na segunda etapa da dosimetria reconheceram a reincidência.
+Requereu a absolvição do acusado ou o redimensionamento da pena-base.
+O especial foi inadmitido pela Corte estadual ante a incidência daSúmulan. 7 do STJ.
+O agravante assere não ser necessário o reexame do contexto fático-probatório dos autos, pois sempre se assinalou que houve má valoração das provas pelo Conselho de Sentença.
+O Ministério Público Federal manifestou-se pelonão provimento do agravo.
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e infirmou todos os fundamentos dodecisumatacado.
+O recurso especial, por sua vez, comporta apenas parcial conhecimento, porquanto o pleito de absolvição demanda o reexame das provas do processo. Também, a apontada incongruência ligada ao reconhecimento da reincidência carece do necessário prequestionamento, como se verá.
+II. Contextualização
+Segundo os autos, o recorrente, submetido a julgamento pelo Tribunal do Júri, foi condenado a 18 anos de reclusão em regime fechado, por incursão no art. 121, § 2º, I e IV, do CP. A pena-base foi dosada em 15 anos de reclusão ante a valoração negativa das circunstâncias do crime, "porquanto a vítima estava na residência de sua namorada, na companhia desta e de amigos, quando teve sua vida ceifada" (fl. 719).
+A Corte estadual negou provimento ao apelo defensivo. Quanto aos assuntos em análise, assentou (fls. 777-795):
+No que se refere a autoria, as declarações das testemunhas prestadas em Plenário a comprovam. Ei-las:
+ ..  Logo em seguidachegou o irmão do Jefferson invadindo a minha casa, sacou a arma, foi em direção ao "Coquinho" e nós deitamos no chão.  ..  No dia dos fatos a gente estava se preparando para fazer um churrasco, quando o André chegou no quintal, estavam eu, Jeovanna, meu irmão e o Márcio. A vítima estava de frente para rua, eu também estava de frente para rua. Na verdade, o "Coquinho" ia pagar ao Jefferson um dinheiro que ele estava devendo, mas na noite anterior eles discutiram. Depois que o Jefferson fez sinal para vítima esperar, o André chegou em seguida na moto e já foi apontando a arma e disse: "corre não que é bala". O "Coquinho" me empurrou e ele foi para cima do "Coquinho". Eu vi quem deu os disparos, foi o André, que é irmão do Jefferson.  ..  (Taynan Martins Melo).
+ ..
+A testemunha Renato de Oliveira Araújo, policial que atendeu a ocorrência, relatou em Juízo que quando chegou no local, já encontrou Márcio da Silva do Nascimento no chão, agonizando. Logo em seguida, chegou a namorada da vítima e na ocasião esta informou que um indivíduo conhecido por Jefferson, entrou no quintal da sua residência e efetuou vários disparos contra a mesma. No momento que ela estava relatando a situação para a guarnição, os familiares a levaram para dentro de casa, dando a entender que ela foi orientada a não falar sobre o ocorrido, com medo de represálias por parte do próprio assassino, vez que ela foi testemunha ocular do crime.
+As declarações prestadas pelas testemunhas, demonstram que o apelante e Jefferson Barbosa dos Santos foram os autores do crime.
+Segundo foi apurado, o apelante era irmão de Jefferson Barbosa dos Santos. Antes dos fatos, a vítima juntamente com Jefferson furtaram uma mesa de sinuca, ficando acordado que o dinheiro da venda do objeto furtado seria divido entre ambos. O acordo não foi cumprido e por essa razão o apelante e seu irmão efetuaram vários disparos de arma de fogo contra Márcio da Silva do Nascimento, que morreu ainda no local.
+O conjunto probatório existente nos autos abriga a versão acolhida pelo Conselho de Sentença. De acordo com essa vertente, o apelante efetivamente concorreu para a prática do crime de homicídio qualificado contra a vítima Márcio da Silva do Nascimento.
+A opção feita pelos jurados não foi arbitrária. Como se observa, a prova oral agasalha a versão acolhida pelo Conselho de Sentença. Isto é, a Decisão não está dissociada da prova existente nos autos. O Tribunal do Júri no exercício da soberania que lhe dá a Constituição Federal, optou por uma das versões apresentadas, não sendo cabível o argumento sustentado pelo apelante.
+ ..
+Verifico que o Juiz singular julgou deforma desfavorável as circunstâncias do crime, tendo como fundamento a maior ousadia do réu, que invadiu a residência da namorada da vítima, efetuando vários disparos contra a mesma, colocando em risco a vida das pessoas que estavam reunidas no local, fatos que reputam maior gravidade na forma de execução do crime.
+ ..
+Na segunda fase da dosimetria, presentes as agravantes do recurso que dificultou a defesa da vítima e da reincidência, razão pela qual, a pena foi aumentada em um quinto, fixada nessa fase em dezoito anos de reclusão. Na terceira fase, ausentes causas de aumento e diminuição, a pena foi fixada concreta e definitiva em dezoito anos de reclusão. Portanto, a fixação da pena privativa de liberdade está devidamente fundamentada, sendo possível perceber que não houve nenhum exagero por parte do Juiz singular, já que foi aplicada dentro dos limites estabelecidos no tipo penal imputado ao apelante.
+III. Condenação contrária às provas dos autos- Incidência da Súmula n. 7 do STJ
+A decisão tomada pelos jurados, ainda que eventualmente possa não ser a mais justa ou a mais harmônica com a jurisprudência dominante, é soberana, de acordo com o disposto no art. 5º, XXXVIII, "c", da CF/1988.
+Tal qual a tradição deste Tribunal, o veredito dos jurados não é motivado, como indicam as circunstâncias do julgamento -a votação é sigilosa, a sala onde se recolhem os votos é secreta e a comunicação entre os jurados é vedada -, o que denota que a aferição das provas e o julgamento do réu ocorrem em conformidade com a íntima convicção dos juízes populares.
+Tal princípio é mitigado quando os jurados proferem decisão de forma teratológica, em manifesta contrariedade às provas colacionadas nos autos, caso em que a sentença deve ser anulada pela instância revisora, de modo a submeter o réu a novo julgamento perante seus pares.
+Conclui-se, por conseguinte, que, nessa hipótese de insurgência - decisão manifestamente contrária à prova dos autos -, ao órgão recursal se permite, apenas, a realização de um juízo de constatação acerca da existência de suporte probatório para a decisão tomada pela Corte popular. Somente se admite a cassação do veredito se flagrantemente desprovido de elementos mínimos de prova capazes de sustentá-lo. Caso contrário, deve ser preservado o juízo feito pelos jurados, no exercício da sua soberana função constitucional, como ocorreu na espécie.
+No caso, a Corte estadual entendeuque "a prova oral agasalha a versão acolhida pelo Conselho de Sentença" (fl. 792).
+Para tanto, foramreproduzidos no acórdão trechos de testemunhos prestados em Plenário, nos quais o acusado é apontado como sendo um dos participantes do crime. Veja-se (fls. 788 e790):
+"Eu vi quem deu os disparos, foi o André, que é irmão do Jefferson".
+"No dia foram os que deram os disparos, primeiro foi o Jefferson e depois o André"
+Embora a defesa insista em afirmar que os jurados não valoraram ou mal valoraram as provas dos autos, o Tribunal a quo demonstrouque a decisão dos juízes leigos encontraguarida no conteúdo probatório do feito, em especial, nos testemunhos prestados.
+Logo, para infirmar tal conclusão e decidir pela absolvição do réu- sob a alegação de quea condenação se deu em manifesta contrariedade à prova dos autos-,seria necessário o revolvimento do contexto fático do processo, providência incabível em recurso especial. Nesse sentido é a pacífica jurisprudência desta Corte Superior:
+ ..
+3. A revisão do julgado estadual, com o fim de reconhecer que não haveria provas para sustentar a condenação ou para demonstrar a presença das circunstâncias qualificadoras, exigiria amplo reexame do conjunto fático-probatório, o que encontra óbice na Súmula n.º 7/STJ.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.480.030/BA, Rel. MinistraLaurita Vaz, 6ª T., DJe 23/6/2020)
+ ..
+2. Quando o recurso de apelação é interposto contra a sentença proferida pelo Tribunal do Júri, sob o fundamento desta ter sido manifestamente contrária à prova dos autos, ao órgão julgador é possível apenas a realização da análise acerca da existência ou não de suporte probatório para a decisão tomada pelos jurados integrantes do Conselho de Sentença, somente se admitindo a cassação do veredicto caso este seja manifestamente contrário à prova dos autos.
+3. Alterar as conclusões consignadas no acórdão recorrido, como requer o recorrente, no sentido de que não há elementos nos autos a respaldar o decreto condenatório proferido pelo Tribunal do Júri, exigiria a incursão no conjunto fático-probatório e nos elementos de convicção dos autos, o que não é possível, em razão do óbice disposto no enunciado 7 da súmula de jurisprudência desta Corte. 4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.191.885/AC, Rel. MinistroReynaldo Soares da Fonseca, 5ª T., DJe 2/4/2018)
+IV. Erro na dosimetria- não ocorrência
+Afixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal,59 e seguintes do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito oquantumde sanção a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro da discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto. Cumpre-lhe, na primeira etapa do procedimento trifásico, guiar-se pelas circunstânciasrelacionadas nocaputdo art. 59 do Código Penal, as quais não deve se furtar de analisar individualmente: culpabilidade, antecedentes, conduta social, personalidade do agente, motivos, circunstâncias e consequências do crime e comportamento da vítima.
+Não obstante as considerações da defesa, observo que a Corteestadual aduziu motivação idônea para manter a avaliação desfavorável das circunstâncias do crime.
+Importante consignar que é possível que o Tribunal de origem - a quem se devolveu o conhecimento da causa por força de apelação interposta pelas partes - emita sua própria e mais apurada fundamentação para manter a decisão de primeira instância, sobre as circunstâncias judiciais do art. 59 do Código Penal, sem agravamento da situação dos réus, como no caso.
+Nesse sentido: "A ampla devolutividade do recurso de apelação permite ao juízo ad quem o acréscimo de fundamentos diversos dos declinados no decisum primevo. Em tais hipóteses, contanto que não se eleve a reprimenda imposta, ou agrave a situação do apenado, não há falar em reformatio in pejus" (AgRg no HC n. 484.928/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 2/9/2019).
+Assim, o fato de o réu haver invadido a casa da namorada da vítima e lá feito vários disparos contra ela, de modo a colocar em risco a vida das pessoas que estavam reunidas no local, justifica concretamente o incremento da pena-base. Exemplificativamente:
+ ..
+9. A prática do crime no local de trabalho da vítima - posto de saúde -, colocando em risco a vida de outras pessoas, serve à negativação das circunstâncias do crime.
+ ..
+(AgRg no AREsp n. 1.361.583/MS, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 21/5/2019)
+No tocante ao incremento da pena-base, ressalto que, conforme reiterados julgados, a ponderação das circunstâncias judiciais do art. 59 do Código Penal não é uma operação aritmética, com pesos determinados a cada uma delas, extraídos de simples cálculo matemático. Nesse sentido:
+ ..
+III - Segundo a jurisprudência desta Corte Superior, a definição do quantum de aumento da pena-base, em razão de circunstância judicial desfavorável, está dentro da discricionariedade juridicamente vinculada e deve observar os princípios da proporcionalidade, razoabilidade, necessidade e suficiência à reprovação e prevenção ao crime. Não se admite a adoção de um critério puramente matemático, baseado apenas na quantidade de circunstâncias judiciais desfavoráveis, até porque de acordo com as especificidades de cada delito e também com as condições pessoais do agente, uma dada circunstância judicial desfavorável poderá e deverá possuir maior relevância (valor) do que outra no momento da fixação da pena-base, em obediência aos princípios da individualização da pena e da própria proporcionalidade.
+ ..
+(HC n. 437.157/RJ, Rel. MinistroFelix Fischer, 5ª T., DJe 20/4/2018)
+Sob essas premissas,não se mostra desproporcional a exasperação da reprimendana primeira etapa do processo dosimétrico em 3 anos por um vetor considerado em prejuízo ao réu. Confira-se:
+ ..
+4. A pena para o delito de homicídio qualificado é de reclusão de 12 a 30 anos. Como a diferença entre a pena mínima e a máxima para o delito praticado é de 18 anos, é proporcional o aumento para cada circunstância negativada em até 3 anos (1/6 de 18 anos).
+5. A jurisprudência deste Superior Tribunal firmou-se no sentido de que a exasperação da basal, pela negativação de circunstâncias judiciais, deve seguir o parâmetro de 1/6 (um sexto) para cada circunstância valorada, fração que se firmou em estrita observância aos princípios da razoabilidade e da proporcionalidade.
+6. O Magistrado sentenciante majorou a pena básica em 10 anos, ante a negativação de quatro circunstâncias judiciais. Cada circunstância, portanto, representou um aumento de 2 anos e 6 meses na pena, quantum inferior ao considerado proporcional por esta Corte.
+7. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 559.940/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 17/8/2020)
+Por fim, cabe ressaltar que o acórdão não discutiu a tese de incongruência ante a inexistência de maus antecedentes e o reconhecimento da reincidência. Assim, o especial carece do necessário prequestionamento nesse ponto, o que impede o conhecimento da questão.
+V. Dispositivo
+À vista do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se e intimem-se.
