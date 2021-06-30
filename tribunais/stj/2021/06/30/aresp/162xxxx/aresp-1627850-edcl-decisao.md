@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por KATIA DERLANGE FARAY SANTOS e MÁRIO DE SENA BRAGA JUNIOR à decisão de fls. 684/685 (e-STJ)que determinou a remessa dos autos ao tribunal de origem a fim de que o processo permaneça suspenso até o julgamento do Tema 1.046 por esta Corte.
+Nas suas razões, osembargantes aduzem o seguinte:
+"(..)
+Cabe esclarecer e integrar o presente decisório, que a presente demanda, a ser sobrestada deve atingir tão somente a tese tratada quanto a fixação dos honorários advocatícios, com fundamento em juízo de equidade, nos termos do art. 85, §§ 2º e 8º, do Código de Processo Civil
+(..)" (fl. 693e-STJ).
+Impugnação às fls. 699/701 (e-STJ).
+É o relatório.
+DECIDO.
+Não prospera a inconformidade veiculada nos presentes aclaratórios.
+Verifica-se desde logo que a decisão embargada não padece de nenhum dos vícios ensejadores dosembargosde declaração, enumerados no art. 1.022 do Código de Processo Civil de 2015: obscuridade, contradição,omissãoou erro material. A controvérsia foi devidamente solucionada com a utilização do direito cabível à hipótese, inexistindo contradição a ser sanada.
+Eis, por oportuno, excerto do referido julgado:
+"(..)
+Trata-se de agravo interno em recurso especial, no qual se discute, dentre outros temas, a legalidade a legalidade da fixação de honorários advocatícios com base na equidade.
+A controvérsia a respeito da "possibilidade de fixação de honorários advocatícios com fundamento em juízo de equidade, nos termos do art. 85, §§ 2º e 8º, do Código de Processo Civil de 2015"foi afetada a julgamento sob o sistema de recursos repetitivos (Tema 1.046), conforme julgados da relatoria do Ministro Raul Araújo, proferidos nos Recursos Especiais 1.812.301/SC e 1.822.171/SC, em 26/03/2020.
+Diante disso, em observância à economia processual e ao art. 256-L do Regimento Interno do Superior Tribunal de Justiça, os recursos que tratam da mesma controvérsia no Superior Tribunal de Justiça devem aguardar o desfecho da questão no Tribunal de origem, a quem incumbe realizar o juízo de conformação atualmente disciplinado pelos arts. 1.039 e 1.040 do Código de Processo Civil de 2015.
+(..)" (fls. 684e-STJ).
+De acordo com a jurisprudência desta Corte, havendo o reconhecimento de repercussão geral, ou afetação para julgamento comorepetitivode recurso especial, é de rigor a devolução dos autos ao Tribunal de origem para que se aguarde o julgamento da matéria paradigma. Nesse sentido: AgInt nosEDclno AREsp 1.131.306/SP, SEGUNDA TURMA, DJe 15/2/2019; AgInt no REsp 1.615.887/PR, PRIMEIRA TURMA, DJe 12/2/2019.
+Ainda, a exemplo desse entendimento:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. TEMA VEICULADO EM RECURSO ESPECIAL COM REPERCUSSÃO GERAL RECONHECIDA PELO STF. DEVOLUÇÃO DO PROCESSO AO TRIBUNAL DE ORIGEM PARA FINS DE JUÍZO DE CONFORMAÇÃO. ATO DE SOBRESTAMENTO DESTITUÍDO DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO CONHECIDO, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do EnunciadoAdministrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no NCPC (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.2. Segundo o entendimento pacificado desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte local, a fim de que lá seja exercido o competente juízo de retratação (conformação) (arts. 1.040 e 1.041 do NCPC), não possui carga decisória, por isso se trata de provimento irrecorrível.3. Em razão da improcedência do presente recurso, e da anterior advertência em relação a incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.4. Agravo interno não conhecido, com imposição de multa." (AgInt nos EDcl no AREsp 1.505.344/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/11/2019, DJe 27/11/2019).
+"PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE DETERMINA O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM, PARA AGUARDAR JULGAMENTO DE RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA REPETITIVA, PARA OPORTUNA APLICAÇÃO DOS ARTIGOS 1.040 E 1.041DO CPC/2015. AUSÊNCIA DE PREJUÍZO. IRRECORRIBILIDADE. PRECEDENTES. RECURSO MANIFESTAMENTE INADMISSÍVEL. AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DA MULTA DO ART. 1.021, § 4º, DO CPC/2015." (AgInt nos EDcl no AREsp 631.318/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j.14/2/2017, DJe 17/2/2017)
+Ressalte-se ainda que, esta decisão é irrecorrível, por não gerar nenhum prejuízo para a parte, e eventual argumentação de distinguish também pode ser formulada no juízo a quo.
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir aomissão,afastar a obscuridade, eliminar a contradição ou corrigir algum erro material, mas, sim, reformar o julga do por via inadequada.
+Ante o exposto, rejeito osembargosde declaração.
+Publique-se.
+Intimem-se.
