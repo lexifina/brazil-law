@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Agravo Interno interposto por Mercado Villas EIRELI, contra a decisãoda presidência dessa Corte que nãoconheceu do agravo em recurso especialpor ausência de impugnação dos fundamentos da decisão deinadmissibilidade.
+Nas razões do agravo, sustenta-se que todos os fundamentosforamdevidamente impugnados no agravo.
+É o relatório.
+Necessário consignar que o presente recurso atrai aincidênciadoEnunciado Administrativo 3/STJ: "Aos recursos interpostoscomfundamentono CPC/2015 (relativos a decisões publicadas a partir de 18demarço de2016) serão exigidos os requisitos de admissibilidade recursalnaforma donovo CPC".
+Com razão a agravante porquanto impugnados a contento todososfundamentosque lastrearam a inadmissão do especial.
+No caso, foi interposto recurso especial com fundamento naalínea"a"dopermissivo constitucional, contra acórdão do Tribunal de Justiça doEstado de São Paulo, assim ementado:
+Agravo de instrumento. Suspensão da exigibilidade de crédito tributário e dos efeitos de protesto de certidão da dívida ativa. Depósito do montante integral para obtenção desse provimento de urgência que não se verificou. Inteligência do artigo 151, II, do Código Tributário Nacional e da Súmula 112 do Superior Tribunal de Justiça. Hipótese prevista no artigo 151, V, do supradito diploma que é aplicável a situações excepcionais em que demonstrada a ilegalidade. Sem embargo, correção da dívida em relação aos juros de mora que se impõe. Inconstitucionalidade da Lei Estadual 13.198/2009 declarada pelo E. Órgão Especial deste Tribunal. Alteração dos respectivos índices, porém, que não retira a liquidez e a exigibilidade da certidão da dívida ativa. Ao menos emprincípio, documento que atende aos requisitos legais previstos nos artigos 2o, parágrafo 5o, da Lei 6.830/1980 e 202, III, do Código Tributário Nacional. Contudo, dada a irregularidade constante no título, sustação dos efeitos do protesto da certidão de dívida ativa 1267664304 que se confere. Portanto, recurso conhecido em parte e, nesse âmbito de cognição, parcialmente provido.
+Opostos embargos de declaração, foram eles rejeitados.
+Nas razões de recurso especial, aponta a parte recorrente ofensa ao art. 151, V, do Código Tributário Nacional, sustentando necessidade de suspensão da exigibilidade do crédito tributário sem a oferta de caução.
+Não houve contrarrazões.
+Passo a decidir.
+Cuida-se, na origem, de acórdão que julgou o agravo de instrumentocontra decisão quenão deferiu pedido para suspensão da exigibilidade do crédito tributário e dos efeitos do protesto da Certidão de Dívida Ativa em decorrência da aplicação dos índices inconstitucionais previstos na Lei Estadual n. 13.918/2009 em relação aos juros da mora.
+No presente, a parte argumenta possibilidade de suspensão da exigibilidade sem a oferta de caução.
+A insurgência não comporta acolhida.
+Isso porque, no ponto, o acórdão recorrido fundamentou que (e-STJ fls. 224/225):
+Em relação ao mérito, ora não se acolhe em integralidade o alegado pela ora agravante motivo de descrição resumida no relatório deste voto -, porque não preenchidos os requisitos previstos no artigo 300 do Códigode Processo Civil2para a conferência também da objetivada suspensão da exigibilidade do crédito tributário.
+Com efeito, em conformidade a esse dispositivo, para a concessão do provimento de urgência é imprescindível que estejam atendidos os seguintes pressupostos: demonstração de elementos relacionados à verossimilhança do alegado pela parte, risco de dano irreparável ou de difícil reparação em razão da demora na prestação jurisdicional e reversibilidade dosefeitos dessa decisão.
+Na hipótese ora sob exame, porém, não há elementos relativos ao preenchimento dos supracitados requisitos em relação a essepleito.
+Assim, acolher a pretensão recursal e a argumentação no sentido deque foi demonstrada a existência de periculum in mora efumus boniiuris exigiria, necessariamente, o revolvimento do acervo fático-probatório dos autos.
+O conhecimento do apelo especial esbarra no óbice da Súmula n. 7/STJ.
+No mesmo sentido, cito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. TUTELA DE URGÊNCIA. DEFERIMENTO. NATUREZA PRECÁRIA E PROVISÓRIA DO DECISUM.REAVALIAÇÃO. INADMISSIBILIDADE.
+1. O Superior Tribunal de Justiça, em sintonia com o disposto na Súmula 735 do STF, firmou o entendimento de que, via de regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito" (STJ, AgRg no AREsp n. 438.485/SP, rel. Ministro Humberto Martins, DJe de 17/02/2014).
+2. O juízo de mérito desenvolvido em sede liminar, fundado na mera verificação da ocorrência do periculum in mora e da relevância jurídica da pretensão deduzida pela parte interessada, não enseja o requisito constitucional do esgotamento das instâncias ordinárias, indispensável ao cabimento dos recursos extraordinário e especial, conforme exigido expressamente na Constituição Federal - "causas decididas em única ou última instância".
+3. Esta Corte de Justiça admite a mitigação do referido Enunciado, especificamente quando a própria medida importar em ofensa direta à lei federal que disciplina a tutela provisória (art. 300 do CPC/2015).
+4. Hipótese em que o Tribunal a quo, nos autos de incidente de desconsideração da personalidade jurídica, analisou os requisitos do art. 300 do CPC/2015 e, com base no suporte fático-probatório constante nos autos, considerou "que os elementos fáticos que levaram o juiz de origem a liminarmente reconhecer o Grupo Econômico e decretar a indisponibilidade de bens (bacenjud, renajud e CNIB), no âmbito do incidente de desconsideração da personalidade jurídica, estão assentados em fundamentos bastante plausíveis".
+5. A desconstituição do entendimento adotado pelo acórdão recorrido demandaria o revolvimento do arcabouço probatório, providência incompatível com a via do recurso especial em virtude do óbice da Súmula 7 do STJ.
+6. Agravo interno desprovido.
+(AgInt no REsp 1848826/PE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 26/04/2021, DJe 12/05/2021)
+Ante o exposto, com fulcro no art. 1.021, § 2º, do CPC/2015 c/c oart.259do RISTJ, conheço do agravo interno para, em juízo de retratação,reconsiderar a decisão agravada, a fim de conhecer do agravo paranãoconhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSOESPECIAL.ENUNCIADOADMINISTRATIVO N. 3/STJ. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. REQUISITOS DO ART. 300 DO CPC. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.AGRAVO INTERNO CONHECIDO PARA, EM JUÍZODE RETRATAÇÃO,CONHECER DO AGRAVO PARA NÃO CONHECERDO RECURSOESPECIAL.
