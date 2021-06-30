@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em favor de BRUNO ROGÉRIO GOLÇALVES DA SILVA contra decisão monocrática que julgou prejudicado o agravo regimental interposto (e-STJ, fls. 131/132).
+Nestes aclaratórios, a Defensoria Pública aponta erro material na decisão embargada, alegando que o agravo em execução na origem ainda não foi julgado, sendo que apenas foio despacho de abertura de vista ao Ministério Público estadual.
+Em vista disso, que sejam conhecidos e providos os presentes embargos de declaração, com o fim de suprir o erro material apontado, para a consequente apreciação do writ e a concessão da ordem requerida.
+É o relatório. Decido.
+Dispõe o Código de Processo Penal:
+Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão.
+Os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, os aclaratórios, para revisão do julgado no caso de mero inconformismo da parte.
+Nesse sentido, julgado desta Corte:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INJÚRIA RACIAL. SÚMULA 7/STJ. OFENSA A DISPOSITIVOS CONSTITUCIONAIS E TRATADOS INTERNACIONAIS QUE NÃO DIZEM RESPEITO À CONTROVÉRSIA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. SIMPLES PRETENSÃO DE REVISÃO DO JULGADO. EMBARGOS REJEITADOS. 1. A ora embargante faz alusão a artigos da Constituição Federal e a tratados internacionais que não dizem respeito à controvérsia tratada nos autos, cuja análise refoge à competência desta Corte. Ademais, carecem do indispensável prequestionamento.  ..  3. Os embargos de declaração são recurso com fundamentação vinculada. Dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal, o que não logrou fazer a embargante. Destarte, a mera irresignação com o entendimento apresentado no acórdão, visando à reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios. 4. Embargos declaratórios rejeitados. (EDcl no AgRg no AREsp 669.505/RN, de minha relatoria, QUINTA TURMA, DJe 25/8/2015.)
+O embargante impugna a seguinte decisão (e-STJ, fls. 131/132):
+Em consulta ao site do Tribunal de Justiça do Estado de São Paulo (Agravo em Execução n.º 0006997-86.2021.8.26.0996), verifiquei que o recurso adequado, interpostona origem (agravo em execução), já foi julgado, tendo sido publicado no dia 23/6/2021. Assim, o objeto deste recurso, em que se pleiteava a análise do mérito diretamente por esta Corte, ficou prejudicado. Ante o exposto, julgo prejudicado o presente agravo regimental.
+Assiste razão àdefesa.
+De fato, novamente, em consulta ao site do Tribunal de Justiça do Estado de São Paulo(Agravo em Execução n.º 0006997-86.2021.8.26.0996), verifiquei que em 28/6/2021, o processo foi encaminhado para parecer ministerial, não havendo, ainda, portanto, julgamento do agravo em execução interposto. Assim, não está, efetivamente,prejudicado o agravo regimental interposto.
+Ante o exposto, acolho os presentes embargos de declaração, para, sanandoo erro material constatado, determinar o prosseguimento do recurso.
+Intimem-se.
+Após, voltem-me os autos para julgamento do agravo regimental.
