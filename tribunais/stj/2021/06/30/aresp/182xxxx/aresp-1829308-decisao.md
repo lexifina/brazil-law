@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por FABIO ANTONIO GUIMARÃES, contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO. Ação de Regresso. Sentença que condenou o devedor a ressarcir o comprador do imóvel, das despesas pagas a título de IPTU, com previsão expressa no contrato. Inconformismo da parte ré. Alegação de que a dívida fiscal estava prescrita. Nos termos do artigo 882 do Código Civil, não se pode repetir o que se pagou para solver dívida prescrita. Sentença mantida. Recurso não provido" (fl. 102, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 166/173, e-STJ).
+No especial, o recorrente aponta violação dos arts. 1.022, II, e 489, § 1º, IV, 320, 434 e 373, I, do Código de Processo Civil de 2015; 320 e 934 do Código Civil e 156, V, e 174 do Código Tributário Nacional, argumentando, em síntese: (i) haver omissão no acórdão recorrido; (ii) que a inicial da ação de regresso não foi instruída com a prova do pagamento da dívida; e (iii) que é indevido o pagamento de tributo prescrito, porquanto a prescrição extingue o crédito tributário.
+Não foram apresentadas contrarrazões.
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+Como bem obtemperado na sentença, não pode ser ignorado que, em se tratando de compra e venda de imóvel, é conduta exigível do homem médio a obtenção de certidão negativa de débitos municipais. Isso se dá, sobretudo, pela natureza propter rem da dívida de IPTU, o que vincula o próprio imóvel à garantia de pagamento, mesmo na hipótese de alienação do domínio.
+No contrato firmado entre as partes, há expressa ressalva em relação aos débitos fiscais, que incidissem sobre o imóvel, até a data da outorga da escritura.
+O apelante foi notificado, extrajudicialmente, sobre a existência de uma dívida relativa ao imóvel, que atingia o montante de R$ 53.060,92. Todavia, não há prova nos autos, no sentido de que tenha feito uma contranotificação, no sentido de que as parcelas estavam prescritas, e que tomaria as providências necessárias à regularização, junto à Municipalidade, de modo que não mais constasse qualquer dívida fiscal sobre o imóvel. Mas, o vendedor, ora apelante, quedou-se inerte.
+O artigo 421, do Código Civil, dispõe que: "A liberdade de contratar será exercida em razão dos limites da função social do contrato". No âmbito da função social do contrato, localiza-se o princípio da solidariedade, de fundamento constitucional (artigo 3º, inciso I, da Constituição Federal), estabelece orientação solidarista do direito, e impõe a necessidade de se observar os reflexos da atuação individual, perante a sociedade. E, "os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios de probidade e boa-fé" (artigo 422, do Código Civil).
+Diante da inércia do apelante, o apelado, resolveu regularizar a situação do imóvel perante o Fisco, e firmou um acordo com a Prefeitura de Ubatuba, em 21/07/2015 (fls. 62/63), para pagamento da dívida, de forma parcelada, mas resolveu quitar o débito de uma só vez, no montante de R$ 34.218,92 (fls. 50). E, por óbvio, faz jus ao ressarcimento deste valor, acrescido dos consectários.
+É de se observar, que nos termos do compromisso de compra e venda, restou consignado que o vendedor, ora apelante, se responsabilizava por eventuais débitos fiscais junto à Municipalidade, que pudessem incidir sobre o imóvel.
+(..)
+Ao contrário do que alega a parte ora apelante, o apelado tem todo o direito de postular o ressarcimento do montante pago a título de IPTU, ainda que estivesse prescrito.
+(..)
+Cuida a presente ação de ressarcimento de valores. A r. Sentença, ora guerreada, julgou procedente o pedido para condenar o réu, ora apelante, a reembolsar os valores pagos pelo autor, correspondentes à dívida de IPTU, que incidisse sobre o imóvel em análise, até a data da outorga da escritura" (fls. 103/105, e-STJ - grifou-se).
+De início, no tocante à violação dos arts. 1.022, II, e 489, § 1º, IV, do Código de Processo Civil de 2015, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Quanto ao mérito, extrai-se das razões recursais que o recorrente não refutou o fundamento adotado pela Corte local, segundo o qual "não há prova nos autos, no sentido de que tenha feito uma contranotificação, no sentido de que as parcelas estavam prescritas, e que tomaria as providências necessárias à regularização, junto à Municipalidade".
+Assim, havendo fundamento suficiente no julgado que não foi objeto de impugnação pelo recorrente, aplica-se, no ponto, o óbice da Súmula nº 283/STF, por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANO MORAIS. CONTRATO DE EMPRÉSTIMO CONSIGNADO COM DESCONTO EM BENEFÍCIO PREVIDENCIÁRIO. QUANTUM INDENIZATÓRIO. ENRIQUECIMENTO ILÍCITO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recurso especial que não impugna fundamento do acórdão recorrido sufi ciente para mantê-lo não deve ser admitido, a teor da Súmula nº 283 do STF. Precedentes.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido" (AgInt no AREsp 1.701.796/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/11/2020, DJe 27/11/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. FALHA NA PRESTAÇÃO DE SERVIÇO DE DESPACHANTE. DISPONIBILIZAÇÃO DO PRODUTO PELO FABRICANTE. DANO SOFRIDO PELO CONSUMIDOR. AUSÊNCIA DE NEXO DE CAUSALIDADE. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+3. Agravo interno a que se nega provimento" (AgInt no REsp 1.528.136/RR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/11/2020, DJe 20/11/2020).
+Ademais, diante das premissas fáticas estabelecidas no acórdão, a reforma do aresto demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. DESFAZIMENTO CONTRATUAL POR INTERESSE DO VENDEDOR. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DA NORMA FEDERAL (LEI Nº 13.786/2018). FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284 DO STF. CARÊNCIA DA AÇÃO. FALTA DE INTERESSE DE AGIR. SÚMULA Nº 7 DO STJ. RESCISÃO POR CULPA DOS AGRAVADOS. RETENÇÃO. 20% DOS VALORES PAGOS. PERDIMENTO DO SINAL. ARRAS CONFIRMATÓRIAS. IMPOSSIBILIDADE. APLICAÇÃO DAS PENALIDADES CONTRATUAIS. SÚMULA Nº 284 DO STF. INDENIZAÇÃO POR FRUIÇÃO DO IMÓVEL. SÚMULA Nº 7 DO STJ. DESPESAS TRIBUTÁRIAS E CONDOMINIAIS. TERMO INICIAL. IMISSÃO NA POSSE DO IMÓVEL. COMPENSAÇÃO DE VALORES. INVIABILIDADE. CORREÇÃO MONETÁRIA DEVIDA. MERA RECOMPOSIÇÃO DA MOEDA. PRECEDENTES. DISTRIBUIÇÃO DA SUCUMBÊNCIA. NECESSIDADE DE REVISÃO DOS FATOS DA CAUSA. SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. O tema relativo a alegada falta de comprovação dos pagamentos do imóvel foi analisado e decidido com base nos fatos da causa, de modo que não há como rever o entendimento alcançado no Tribunal estadual em virtude do óbice contido na Súmula nº 7 do STJ.
+(..)
+13. Agravo interno não provido" (AgInt nos EDcl no REsp 1.881.812/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/05/2021, DJe 28/05/2021).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Em observância ao art. 85, § 11, do Código de Processo Civil de 2015, deixo de majorar os honorários advocatícios, haja vista que, na origem, já foram estipulados no patamar máximo (20% sobre valor da condenação).
+Publique-se.
+Intimem-se.
