@@ -1,0 +1,28 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus (eDOC 3, p. 104-120) interposto contra acórdão, proferido no âmbito do Superior Tribunal de Justiça, assim ementado (AgRg no HC 628.940/MS - eDOC 3, p. 91-92):
+    PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. DOSIMETRIA. CONFISSÃO NÃO UTILIZADA NO DECRETO CONDENATÓRIO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. VIOLAÇÃO DO ART. 158 DO CPP. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+    I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+    II - A via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+    III - A insurgência acerca da confissão não foi objeto de irresignação na apelação, a qual foi trazida à discussão somente em sede de aclaratórios, o que caracteriza inovação recursal. De outro lado, a Corte a quo, bem consignou que o magistrado processante não utilizou a confissão do paciente, para formar a sua convicção, em consonância com o enunciado n. 545/STJ.
+    IV - A jurisprudência deste Tribunal Superior é assente no sentido de que o exame de corpo de delito é indispensável nas infrações que deixam vestígios, de modo que, somente nos casos de desaparecimento dos elementos probatórios, a perícia poderá ser suprida pela prova testemunhal. Destarte, se era possível a realização da perícia, mas esta não ocorreu, a prova testemunhal e o boletim de ocorrência não suprem a sua ausência, nos termos do art. 158, do Estatuto Repressivo.
+    V - De outro lado," A ausência de laudo pericial no local do delito não impede o reconhecimento da qualificadora do rompimento de obstáculo quando realizada perícia indireta, além do mais as fotografias e filmagens juntadas aos autos comprovam o modus operandi da ação" (AgRg no REsp n. 1.715.910/RS, Quinta Turma, Min. Ribeiro Dantas, DJe de 25/6/2018).
+    VI - In casu, inexiste constrangimento legal a ser sanado, uma vez que a Corte a quo, em consonância com o entendimento jurisprudencial, consignou que o rompimento de obstáculo teria sido comprovado pelo laudo pericial indireto, in verbis: "de acordo com o laudo pericial de fls. 53-5 feito de forma indireta, apurou-se que. "segundo o material enviado a exame, houve arrombamento (rompimento de obstáculo) da grade e janela da residência (modus operandi): força física e instrumento sólido".
+    Agravo regimental desprovido.
+    Busca o recorrente, em suma, seja aplicada ao condenado a atenuante de confissão espontânea (art. 65, III, ‘d’, do CP), bem como o afastamento da qualificadora referente ao rompimento de obstáculo.
+    A Procuradoria-Geral da República opinou pelo não conhecimento do recurso, em parecer assim ementado (eDOC 6):
+    EMENTA: RECURSO ORDINÁRIO EM HABEAS CORPUS CONTRA ACÓRDÃO QUE MANTEVE DECISÃO DE NÃO CONHECIMENTO DO HC IMPETRADO NO STJ. AUSÊNCIA DE DECISÃO DENEGATÓRIA DA ORDEM A JUSTIFICAR A INTERPOSIÇÃO DE RHC. ART. 102, II, “A”, DA CF. INOBSERVÂNCIA. INCOMPETÊNCIA DO STF PARA ANÁLISE DO PRESENTE RECURSO. PLEITO DE RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. INVIABILIDADE. AUSÊNCIA DE CONFISSÃO PERANTE A AUTORIDADE COMPETENTE. PARECER PELO NÃO CONHECIMENTO DO RECURSO EM HABEAS CORPUS.
+    É o relatório. Decido.
+    1. Cabimento do habeas corpus:
+    A Corte compreende que, ordinariamente, o recurso ordinário em habeas corpus não se presta a rescindir provimento condenatório acobertado pelo manto da coisa julgada, daí a impossibilidade de figurar como sucedâneo de revisão criminal. Acerca do tema:
+    “O Supremo Tribunal Federal não admite a utilização do habeas corpus em substituição à ação de revisão criminal.” (HC 128693 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 04/08/2015, grifei)
+    “O habeas corpus não pode ser utilizado como sucedâneo de revisão criminal.” (HC 123430, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 14/10/2014, grifei)
+    “(...) habeas corpus não pode ser utilizado, em regra, como sucedâneo de revisão criminal, a menos que haja manifesta ilegalidade ou abuso no ato praticado pelo tribunal superior.” (HC 86367, Relator(a): Min. ELLEN GRACIE, Segunda Turma, julgado em 30/09/2008, grifei)
+    No caso concreto, por contrariar frontalmente a jurisprudência do Supremo Tribunal Federal, o recurso ordinário em habeas corpus não merece conhecimento, na medida em que funciona como sucedâneo de revisão criminal.
+    2. Análise da possibilidade de concessão da ordem de ofício no caso concreto:
+    Devido ao caráter excepcional da superação da jurisprudência da Corte, a concessão da ordem de ofício configura providência a ser tomada tão somente em casos absolutamente aberrantes e teratológicos, em que a ilegalidade deve ser cognoscível de plano, sem a necessidade de produção de quaisquer provas ou colheita de informações, o que, no caso concreto, não se verifica.
+    Destarte, como não se trata de decisão manifestamente contrária à jurisprudência do STF ou de flagrante hipótese de constrangimento ilegal, não é o caso de concessão da ordem de ofício.
+    3. Diante do exposto, com fulcro no art. 21, § 1º, do RISTF, nego seguimento ao recurso ordinário em habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 30 de junho de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
