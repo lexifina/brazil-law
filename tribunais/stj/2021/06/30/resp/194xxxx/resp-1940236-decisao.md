@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão que deu parcial provimento ao apelo defensivo.
+Sustenta o Ministério Público violação do art. 157,§2º-A, I, do Código Penal e arts. 155, 156, 158, 167 e 564, III, "b", todos do Código de Processo Penal.
+Defende a incidência da causa de aumento pelo emprego de arma, ressaltando ser desnecessária a apreensão e perícia.
+Requer o provimento do recurso, a fim de que seja redimensionada a pena.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+Quanto à majorante prevista noart. 157,§2º-A, I, do Código Penal, o acórdão recorrido assim fundamentou a questão (fls. 339/340):
+Observe-se que, uma vez não tendo sido apreendida, e subsequentemente submetida à perícia, a pretendida arma de fogo, de modo a se estabelecer com a devida certeza a respectiva natureza como artefato vulnerante, não se mostrou suficiente à manutenção da correspondente circunstanciadora do emprego daquela, a mera, genérica e lacônica assertiva das vítimas de que tiveram contra si empunhado algo que por elas foi identificado como sendo um objeto que ostentava tais características. Destarte, descarta-se, no caso concreto, a incidência de tal exacerbadora.
+O acórdão recorrido encontra-se em dissonância com o entendimento firmado no âmbito da Terceira Seção desta Corte, no julgamento do EREsp 961.863/RS, no sentido da prescindibilidade da apreensão e perícia da arma de fogo para a aplicação da causa de aumento prevista no art. 157, §2º-A, I, do Código Penal, desde que comprovada a sua utilização por outros meios de prova, tal como a palavra da vítima, o que ocorreu no presente caso. Confira-se a ementa do referido julgado:
+CRIMINAL. EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. ROUBO. EMPREGO DE ARMA. DESNECESSIDADE DE APREENSÃO E REALIZAÇÃO DE PERÍCIA. UTILIZAÇÃO DE OUTROS MEIOS DE PROVA. INCIDÊNCIA DA MAJORANTE. EMBARGOS CONHECIDOS E REJEITADOS.
+I - Para a caracterização da majorante prevista no art. 157, § 2º, inciso I, do Código Penal, prescinde-se da apreensão e realização de perícia em arma utilizada na prática do crime de roubo, se por outros meios de prova restar evidenciado o seu emprego. Precedentes do STF.
+II - Os depoimentos do condutor, da vítima, das testemunhas, bem como qualquer meio de captação de imagem, por exemplo, são suficientes para comprovar a utilização de arma na prática delituosa de roubo, sendo desnecessária a apreensão e a realização de perícia para a prova do seu potencial de lesividade e incidência da majorante.
+III - A exigência de apreensão e perícia da arma usada na prática do roubo para qualificá-lo constitui exigência que não deflui da lei resultando então em exigência ilegal posto ser a arma por si só - desde que demonstrado por qualquer modo a utilização dela - instrumento capaz de qualificar o crime de roubo.
+IV - Cabe ao imputado demonstrar que a arma é desprovida de potencial lesivo, como na hipótese de utilização de arma de brinquedo, arma defeituosa ou arma incapaz de produzir lesão.
+V - Embargos conhecidos e rejeitados, por maioria (EREsp 961.863/RS, Rel. Ministro CELSO LIMONGI (DESEMBARGADOR CONVOCADO DO TJ/SP), Rel. p/ Acórdão Ministro GILSON DIPP, TERCEIRA SEÇÃO, julgado em 13/12/2010, DJe 06/04/2011).
+Cabível, portanto, o redimensionamento das penas.
+Quanto ao crime de roubo majorado consumado, adotando os mesmos critérios da Corte de origem, fixa-se a pena-base em 4 anos de reclusão e 10 dias-multa, sendo inalterado, na segunda etapa, diante da ausência de circunstâncias atenuante e agravante.
+Contudo, na terceira etapa, dada a incidência dacausade aumento pelo concurso de pessoas, preserva-se a fração de 1/3e ainda restabelecida nesta Corte a majoração de 2/3 peloemprego de arma de fogo, ficaa reprimenda em 8 anos, 10 meses e 20 dias reclusão e 21dias-multa.
+Em relação ao delito de roubo na forma tentada, estabelecendo os mesmos parâmetros da dosimetria do crime anterior e preservada a diminuição em 1/3 pela tentativa, torna-se a sanção fixada em 5 anos, 11 meses e 3 dias de reclusão, mais 14 dias-multa.
+Reconhecido na origem o concurso formal, conserva-se a fração de 1/6 pelo delito mais grave, qual seja, roubo consumado, ficando a sanção definitiva em 10 anos, 4 meses e 13 dias de reclusão, além do pagamento de 24 dias-multa, no regime fechado,nos termos do art. 33, § 2º, "a", do CP.
+Ante o exposto, dou provimento ao recurso especial para restabelecer a majorante do crime de roubo, prevista no inciso I do §2º-A do art. 157 do CP, majorando a sanção para 10 anos, 4 meses e 13 dias de reclusão, além do pagamento de 24 dias-multa, no regime fechado.
+Publique-se.
+Intimem-se.
