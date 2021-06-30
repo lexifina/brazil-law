@@ -1,0 +1,44 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social, com fundamento na alínea "a" do inciso III do art. 105 da CF/88, contra acórdão do Tribunal Regional Federal da 5ª Regiãoassim ementado (e-STJfl. 254):
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RESTABELECIMENTO DE AUXÍLIO-DOENÇA OU CONCESSÃO DE APOSENTADORIA POR INVALIDEZ. PRESCRIÇÃO DO FUNDO DE DIREITO. INOCORRÊNCIA. PARCELAS DE TRATO SUCESSIVO. PRESCRIÇÃO QUINQUENAL. QUALIDADE DE SEGURADO E DEFICIÊNCIA COMPROVADAS. PROCEDÊNCIA DO PEDIDO.CORREÇÃO MONETÁRIA E JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS.
+1. Caso em que se pretende o restabelecimento de auxílio-doença ou a concessão de aposentadoria por invalidez, tendo o juiz singular deferido aquele último, sob o fundamento de que existiria incapacidade laborativa permanente;
+2. Nas relações jurídicas de trato sucessivo, a prescrição não incide sobre o fundo de direito, atingindo apenas as prestações vencidas antes do quinquênio anterior à propositura da ação. Os benefícios previdenciários não estão sujeitos à prescrição do fundo de direito. A Lei 8.213/91, em seu art. 103, "caput" prevê apenas a decadência do direito de questionar os atos de concessão, não havendo previsão de decadência em relação aos atos de indeferimento;
+3. Dado que a condição de segurado do demandante não restara impugnada pelo INSS, considerando que a cessação do benefício fora decorrente de ausência de incapacidade, tal fato tornara-se incontroverso;
+4. Demonstrada, através de perícia médica judicial, que o autor é portador de esquizofrenia (F20) desde 2007, que enseja incapacidade total e permanente para o exercício de atividade laborativa, necessitando, ainda, de vigilância e auxílio para hábitos de higiene e alimentação, é de se manter a sentença que deferiu a aposentadoria por invalidez, desde 13.02.2009, em face da prescrição quinquenal, com acréscimo de 25%;
+5. Sobre as parcelas devidas, aplica-se o critério de atualização previsto no Manual de Cálculos da Justiça Federal, a contar do débito e juros de mora de 0,5% ao mês, a partir da citação;
+6. Honorários advocatícios majorados no importe de R$ 2.000,00 (dois mil reais), pois, ainda que vencida a Fazenda Pública, tal condenação não deve representar quantia aviltante ao trabalho realizado pelo advogado, mesmo sendo causa de menor complexidade, nos termos do § 4º, do art. 20, do CPC de 1973; Ressalvado o entendimento do Desembargador Federal Ivan Lira no sentido de que deve ser observado o novo CPC;
+Apelação do INSS desprovida, remessa oficial parcialmente provida e apelação do particular provida.
+Os embargos de declaração (e-STJ, fls. 267/273) tiveram provimento negado, nos termos da decisão de e-STJ, fls. 290/292.
+O recorrente alega que foram violados os arts. 103 da Lei n. 8.213/1991; 1º do Decreto n. 20.910/1932; 1º-F da Lei n. 9.494/1997.
+Defende a ocorrência da prescrição do fundo de direito, uma vez que a parte autora teve o benefício cessado em 30/6/2008 e somente em 13/2/2014, após mais de 5 anos do ato que cessou o benefício, ajuizou a ação.
+Sustenta a aplicabilidade do art. 5º da Lei11.960/2009 relativo ao critério de correção monetária e de juros de mora aos benefícios previdenciários.
+Admitido o recurso especial na origem (e-STJ, fl. 423), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+Decido.
+O Tribunal de origem reconheceu a concessão da aposentadoria por invalidez e a prescrição quinquenal sob a seguinte fundamentação (e-STJ, fls. 251/252):
+De logo, não se há falar de prescrição do fundo do direito. Nas relações jurídicas de trato sucessivo, a prescrição não incide sobre o fundo de direito, atingindo apenas as prestações vencidas antes do quinquênio anterior à propositura da ação. É que os benefícios previdenciários não estão sujeitos à prescrição do fundo de direito. A Lei 8.213/91, em seu art. 103, "caput" prevê apenas a decadência do direito de questionar os atos de concessão, não havendo previsão de decadência em relação aos atos de indeferimento.
+ ..
+Por outro lado, no que diz respeito à incapacidade para o exercício de atividades laborativas, constata-se que o autor foi submetido à perícia médica judicial (fls. 150/156), em que ficou constatado que a patologia de que padece, esquizofrenia (F20) desde 2007, incapacita-o total e permanentemente para o exercício de atividade laborativa, necessitando, ainda, de vigilância e auxílio para hábitos de higiene e alimentação.
+Assim, preenchidos os requisitos necessários à concessão do benefício, correta a sentença que que deferiu a aposentadoria por invalidez, desde 13.02.2009, em face da prescrição quinquenal, com acréscimo de 25%.
+Nesse contexto, verifica-se que a assertiva do acórdão recorrido não foi devidamente impugnada pelo recorrente, nas razões do recurso especial, o que, por si só, mantém incólume o acórdão combatido.
+A não impugnação específica de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. QUANTIA DE ATÉ 40 SALÁRIOS MÍNIMOS.IMPENHORABILIDADE. CADERNETA DE POUPANÇA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+III - É pacífico o entendimento no Superior Tribunal de Justiça no sentido de que a impenhorabilidade da quantia de até quarenta salários mínimos poupada alcança não somente a aplicação em caderneta de poupança, mas, também, a mantida em fundo de investimento, em conta-corrente ou guardada em papel-moeda, ressalvado eventual abuso, má-fé ou fraude.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp 1.858.456/RO, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 15/6/2020, DJe 18/6/2020).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. DIREITO AUTÔNOMO DE EXECUÇÃO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. INCOMUNICABILIDADE. DESERÇÃO. SÚMULAS 182 E 187/STJ; 280 E 283/STF. APLICAÇÃO.
+1. O Recurso Especial pedindo a condenação do Estado em honorários advocatícios foi declarado deserto em virtude de a assistência judiciária gratuita não aproveitar aos causídicos. Houve impugnação ao despacho, sem, contudo, se comprovar o pagamento do preparo.
+2. O Superior Tribunal de Justiça entende que o benefício da gratuidade de justiça é direito personalíssimo e, portanto, intransferível ao procurador da parte, (REsp 903.400/SP, Rel. Min.Eliana Calmon, Segunda Turma, DJe 6.8.2008).
+3. A parte recorrente não realizou o devido preparo, mesmo após o indeferimento do pedido e a concessão do prazo de cinco dias para sua regularização. Dessa forma, não há como conhecer do Recurso Especial ante a ocorrência de deserção (Súmula 187/STJ).
+4. A fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre o ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+5. Recurso Especial não conhecido.
+(REsp 1.814.349/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/11/2019, DJe 19/12/2019).
+Por outro lado, no tocante aos juros moratórios, devem incidir os índices da caderneta de poupança, nos moldes do art. 1º-F da Lei n. 9.494/1997, alterado pelo art. 5º da Lei n. 11.960/2009, a partir de sua vigência.
+Já quanto a correção monetária, devem adotar o INPC como índice, a partir da vigência da Lei n. 11.430/2006, que incluiu o art. 41-A na Lei n. 8.213/91.
+Ante o exposto, com fulcro no art. 932, III e V, do CPC/2015, c/c o art. 255, § 4º, I e III, do RISTJ e na Súmula 568/STJ, conheço em parte do recurso especial e, nessa extensão, dou-lhe parcial provimento para restabelecer a sentença quanto aos juros e correção monetária.
+Publique-se. Intimem-se.
