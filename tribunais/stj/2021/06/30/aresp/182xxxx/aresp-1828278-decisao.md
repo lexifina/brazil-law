@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por ROGÉIRO MENEGUETTI e OUTROS de decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 23):
+AGRAVO DE INSTRUMENTO - Impugnação ao cumprimento de sentença - Lei 11.960/09 - Excesso de execução - Insurgência quanto à correção monetária - Decisão agravada proferida de acordo com o quanto decidido pelo C. STF no julgamento do Recurso Extraordinário 870.947/SE, Tema 810 da repercussão geral - Nova sistemática, porém, que se aplica apenas a partir da entrada em vigor da Lei nº 11.960/09 - Desnecessidade do trânsito em julgado - Decisão de inconstitucionalidade produz efeito vinculante e eficácia erga omnes desde a publicação da ata de julgamento - Decisão mantida Recurso improvido.
+A esse acórdão foram opostos embargos de declaração por ambas as partes litigantes, tendo sido rejeitados os aclaratórios da FAZENDA PÚBLICA DO ESTADO DE SÃO PAULO (fls. 53/57) e acolhidos os da parte ora agravante, sem efeitos modificativos (fls. 108/112).
+Sustenta a parte agravante, no recurso inadmitido, além de dissídio jurisprudencial, violação ao art. 85, §§ 1º e 11 do CPC, uma vez que (fls. 120/122):
+17. Ora, o direito ou não aos honorários recursais previstos no artigo 85, § 11º do Diploma Processual Civil só nasce quando do julgamento do recurso pelo Tribunal.
+18. Assim, tendo sido negado provimento ao Agravo de Instrumento da recorrida, para manter a r. decisão de 1º Grau que rejeitou a Impugnação à Execução, com a condenação da requerida no ônus da sucumbência, por obvio, era desnecessário qualquer recurso dos recorrentes para pleitear os honorários recursais, que só surgiriam quando do julgamento do recurso pelo Tribunal de Justiça.
+19. Consequentemente, decorre da própria norma processual que os honorários recursais somente e eventualmente surgem quando do julgamento do recurso pelo Tribunal, não havendo que se cogitar em impugnação antes do nascimento do direito.
+20. Por outro lado, considerando que houve impugnação da execução pela recorrida, que fora julgada improcedente, legitimo a condenação da executada não só nos honorários advocatícios de 1º Grau, mas também nos recursais.
+21. De fato, reza o artigo 85 do Código de Processo Civil vigente na época da prolação dar, decisão de 1º Grau e do v. aresto:
+ ..
+22. Analisando a nova disciplina processual, verifica-se que somente serão devidos honorários advocatícios na fase de cumprimento de sentença quando houver impugnação por parte da Fazenda Pública, exatamente o que ocorreu no caso vertente.
+23. Não há na norma legal qualquer restrição se a Impugnação foi acolhida ou parcialmente ou ainda não conhecida. Inexistente a restrição, com a devida vênia, seriam devidos os honorários nos termos do § 7º do artigo 85 do Código de Processo Civil.
+24. A interpretação do v. acórdão que somente seria devida a condenação da recorrida do ônus da sucumbência se a Impugnação à Execução tivesse sido rejeitada  mas não quando não é conhecida  cria restrição não prevista em lei (§ 7º do artigo 85 do Código de Processo Civil), não podendo prevalecer.
+25. Ademais, é inaplicável ao caso a Súmula 519 do C. Superior Tribunal de Justiça, eis com a vigência do novo Código de Processo Civil, os honorários advocatícios em execuções contra a Fazenda Pública somente sãodevidos em caso de eventual Impugnação, o que exatamente ocorreu, e assim, não poderia Enunciado  incompatível com o atual sistema legal - afastar expressa disposição do Diploma Processual.
+26. Assim, sendo, considerando que o v. acórdão negou provimento ao recurso da ora recorrida, para manter ar. decisão de 1 º Grau que rejeitou a Impugnação ao Cumprimento de Sentença, com a condenação da executada no ônus da sucumbência, legitimo seria o E. Tribunal "a quo" ter majorado os honorários advocatícios em favor dos patronos dos ora recorrentes, nos termos do artigo 85, § 11 do Código de Processo Civil, vigente na época da prolação da r. sentença e do v. aresto:
+ ..
+27. De acordo com a redação do artigo 85, § 11 º do atual Código de Processo Civil, ao julgar o recurso o Tribunal majorará os honorários advocatícios.
+28. A disposição legal é impositiva, e portanto, independente do "trabalho adicional", se pouco ou muito, como houve labor dos patronos dos recorrentes com apresentação de contrarrazões, devem ser assegurados aos patronos dos recorrentes os honorários recursais.
+Daí ter requerido o provimento do apelo nobre "para o fim de deferir os honorários recursais em favor dos patronos dos recorrentes, que se o caso, poderão ser arbitrados em fase de cumprimento de sentença (artigo 85, § 1º e § 11º do C. P. C.), com o que estará fazendo" (fl. 127).
+Nas razões do agravo, aduz que os pressupostos de admissibilidade do recurso especial encontram-se presentes, repisando seus argumentos.
+Contraminuta às fls. 157/163.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Presentes os pressupostos de admissibilidade do agravo, examino o próprio recurso especial.
+In casu, verifica-se que a despeito da oposição de embargos de declaração o Tribunal de origem não emitiu nenhum juízo de valor acerca da tese de cabimento de honorários advocatícios recursais em decorrência do não provimento do subjacente agravo de instrumento, o que caracteriza ausência de prequestionamento, nos termos da Súmula 282/STF.
+ANTE O EXPOSTO, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
