@@ -1,0 +1,32 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo peloMINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIROcontra decisão que inadmitiu o recurso especial com base nos seguintes fundamentos: a) não violação doart. 535 do CPC/1973 e b) incidência da Súmula 7/STJ (e-STJ, fls. 1.467-1.471).
+A parte agravante sustenta que houve omissão, o que justifica aadmissão do recurso pela afronta ao art. 535, II do CPC, e que não seria a hipótesede incidência da Súmula 7/STJ, pois não se objetiva a reanálise de fatos, e sim a atribuição de nova qualificação jurídica dada aos fatos estabelecidos nos autos (e-STJ, fls. XXX).
+Contraminuta às e-STJfls. 1.524-1.530.
+Parecer pelo conhecimento do agravo e seu provimento(e-STJ, fls. 1.594-1.602).
+É o relatório.
+Atendidos os requisitos de conhecimento do presente agravo, passo a examinar o apelo nobre(e-STJ, fls. 1.306-1.331).
+Trata-se de recurso especial manejado, com amparo na alínea ado inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIROassim ementado (e-STJ, fl. 1.265):
+Ação Civil Pública ajuizada pelo M. P. visando à realização de obras em área de risco. Comunidade Dona Francisca - Árvore Seca. Sentença de improcedência. Recurso de Apelação. MANUTENÇÃO, pois embora possa o Judiciário intervir na esfera de outro Poder em situações excepcionais, no caso presente já foram adotadas as medidas possíveis para reduzir o risco, não sendo possível o atendimento simultâneo de 196 frentes de obras exigidas. Situação econômico-financeira e crise que assola o país. Providências tomadas pelos réus que desvirtuam a alegada inércia sustentada pelo M. P. Validade do decreto de improcedência. Parecer do MP pelo provimento do apelo. DESPROVIMENTO DO RECURSO.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 1.296-1.301).
+Defende o insurgente, em síntese: i) violação do art. 535 do CPC/1973, pois o acórdão recorrido foi omisso no tocante ànão realização pelo Município das obras de intervenção na localidade objeto da lide e no tocante à não imposição de prazo para realização de obras e cominação de multa; ii) ofensa aos arts. 3º-A e 3º-B da Lei n. 12.340/2010; 2º, VI, h, da Lei n. 10.257/2001; e 14, § 1º, da Lei n. 6.938/1981, visto que é dever do Poder Público a adoção de medidas concretas para prevenir desastres naturais, promovendo, no que couber, adequado ordenamento territorial, mediante planejamento e controle do uso, do parcelamento e da ocupação do solo urbano.
+Apresentadas contrarrazões (e-STJ, fls. 1.362-1.463).
+Decido.
+Inicialmente, registro que não prospera a tese de afronta ao art. 535 do CPC/1973, porquanto o julgado combatido fundamentou, de forma clara, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pelo recorrente, elegendo fundamentos diversos daqueles por ele propostos, não configura omissão nem outra causa passível de exame mediante a oposição de embargos de declaração.
+O apelo nobre não merece conhecimento acerca da matéria de fundo, em face da resolução do mérito pelo Tribunal de origem, a saber(e-STJ, fls. 1.272-1.273):
+Restou demonstrado que dentro da medida do possível foram tomadas providências para minorar os riscos, não havendo omissão na execução das inúmeras obras reclamadas pelo M. P. a justificar a intervenção requerida, até porque haverá necessidade de políticas governamentais por parte de futurosdirigentes a serem escolhidos democraticamente, dado o gigantesco vulto dos pleitos.
+Perquirir nos requisitos que levaram o Tribunal a quo a concluir pela omissão municipal, implicaria reexame de matéria fático-probatória, providência vedada pelaSúmula 7/STJ, não sendo o caso de revaloração das provas.
+No aspecto:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 2/STJ. AGRAVO REGIMENTAL DO MUNICÍPIO DO RIO DE JANEIRO. AÇÃO CIVIL PÚBLICA. MEDIDAS DESTINADAS A COMBATER DESLIZAMENTO DE ENCOSTAS. COMUNIDADE SÍTIO DO PAI JOÃO. RECONHECIMENTO, NO CASO CONCRETO, DE OMISSÃO DO PODER PÚBLICO. ALEGAÇÕES DO RECORRENTE QUE NÃO SÃO PASSÍVEIS DE CONHECIMENTO EM SEDE DE RECURSO ESPECIAL.
+1. Conforme consta do acórdão recorrido, o Ministério Público do Estado do Rio de Janeiro ajuizou mais de cem ações civis públicas objetivando solucionar problemas decorrentes das ocupações de áreas de risco no Município do Rio de Janeiro; e, ainda, que cada localidade objeto de ação civil pública guarda a sua peculiaridade fática.
+2. Assim, perfeitamente possível que o Tribunal de origem reconheça que em determinada localidade está configurada omissão do Poder Público, ao contrário do ocorrido em outras localidades - daí porque os precedentes da Segunda Turma formado em recursos interpostos pelo MP/RJ não têm o condão de vincular o exame do presente recurso especial, interposto pelo município em questão.
+3. O acórdão recorrido assentou enfaticamente que a petição inicial do MP/RJ reúne condições técnicas de ser processada, razão pela qual o óbice da Súmula 7/STJ impede o exame da alegação de inépcia da petição inicial, a qual supõe novo exame de peças processuais.
+4. O óbice da Súmula 7/STJ também incide na parte em que alegado cerceamento de defesa, pois o Tribunal de origem, soberano no exame do acervo fático-probatório dos autos, assentou a desnecessidade de produção de prova pericial.
+5. Não houve prequestionamento do tema do julgamento extra petita, motivo pelo qual incide no ponto o óbice da Súmula 211/STJ.
+6. As alegações da linha de que não pode o Poder Judiciário intervir em política pública não podem ser examinadas no presente recurso especial, uma vez que apresentadas no contexto do princípio da separação dos poderes (CF/1988, art. 2º).
+7. O exame da alegação de que houve formação de título judicial impossível de ser cumprido esbarra na Súmula 7/STJ, tendo em vista que o Tribunal de origem, ao avaliar as consequências do que decidido na sentença, consignou que as medidas nela impostas, na realidade, facilitam o seu cumprimento.
+8. Agravo regimental não provido.
+(AgInt no REsp 1.473.996/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 7/12/2017, DJe 14/12/2017).
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
