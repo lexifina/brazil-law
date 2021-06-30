@@ -1,0 +1,19 @@
+DECISÃO
+MATHEUS HENRIQUE DE CAMARGO DOS SANTOSalega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grossodo Sul(Apelação Criminal n. 0000569-18.2019.8.12.0004).
+Consta dos autos que o paciente foi condenado à pena de 2anos e 11meses de reclusão, em regime inicial aberto, por infração ao art. 33, caput e § 4º, c/c art. 40, V, ambos da Lei n. 11.343/2006, substituída a pena privativa de liberdade por restritivas de direito.
+A defesa requer a aplicação da minorante no patamar máximo.
+Não houve pedido de liminar. OMinistério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+Segundo o disposto no § 4º do art. 33 da L ei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Assim, observa-se que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nela prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+A propósito, confira-se o seguinte julgado: AgRg no REsp n. 1.429.866/MT, de Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/6/2015.
+Nos autos em exame, a Corte de origem entendeu pela incidência doredutor na fração de 1/2, nos termos seguintes (fl. 286, grifei):
+Quanto ao percentual atribuído à causa de diminuição de pena prevista no parágrafo 4º do artigo 33 da Lei n.º 11.343/06, resta dizer que o referido dispositivo legal estabelece um intervalo entre 1/6 e 2/3 para a aplicação da causa de diminuição, sendo a interpretação mais adequada para essa hipótese a de que os critérios necessários para a determinação da fração estão nas circunstâncias judiciais do art. 59 do Código Penal e do art. 42 da Lei n.º 11.343/06.
+Conforme se extrai dos autos, o juiz de origem reduziu a pena no patamar de 1/2 (fl. 87) certamente, em razão das circunstâncias do caso concreto.
+Assim, diante da quantidade considerável de droga transportada pelo apelante, ou seja, 21,3 Kg de maconha, entendo que deve ser mantido este patamar de redução, o qual se mostra necessário e suficiente para a prevenção e reprovação do delito.
+Veja-se, portanto, que o Tribunal a quo fundamentou concretamente a aplicação do privilégio previsto no § 4º do art. 33 da Lei de Drogas na fração de 1/2e salientou, para tanto, condiçãoentre as estabelecidas no art. 42 da Lei de Drogas, qualseja, quantidade dadrogaapreendida (21,3 kg de maconha).
+Ainda, destaco que, segundo entendimento consolidado no Supremo Tribunal Federal, "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias" (HC n. 122.184/PE, Rel. Ministra Rosa Weber, 1ª T., DJe 5/3/2015), situação que não reputocaracterizada nos autos.
+Assim, não identifico a contrariedade ao § 4º do art. 33 da Lei n.11.343/2006.
+À vista do exposto, denegoa ordem.
+Publique-se e intimem-se.
