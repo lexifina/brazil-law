@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por RONEI MEDINA DOS SANTOS - preso cautelarmente pela suposta prática do crime de homicídio qualificado - contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul (1415459-52.2020.8.12.0000).
+Na ação originária, a defesa alegou constrangimento ilegal decorrente da ausência de intérprete para os atos processuais ede laudo antropológico. O Tribunal estadual, contudo, denegou a ordem, recebendo o acórdão a seguinte ementa (e-STJ fl. 621):
+EMENTA - HABEAS CORPUS - HOMICÍDIO QUALIFICADO - NULIDADE DA INSTRUÇÃO PROCESSUAL POR AUSÊNCIA DE INTERPRETE E REALIZAÇÃO DE LAUDO ANTROPOLÓGICO - ANÁLISE QUE DEMANDARIA DILAÇÃO PROBATÓRIA - INVIÁVEL DE VERIFICAÇÃO NESTA VIA ESTRITA - WRIT NÃO CONHECIDO. O pedido de declaração de nulidade do processo, pela ausência de nomeação de intérprete e de realização de laudo antropológico - não deve ser conhecido, pois tal pedido demandaria análise probatória, o que é inadmissível em habeas corpus. Não se verificando, de pronto, a ocorrência de qualquer vício absoluto e insanável, não há como ser a presente ordem conhecida. Contra o parecer, não conheço da pretensão deduzida no presente "habeas corpus".
+Nas razões do presente recurso, a Defensoria Pública reitera a alegação de nulidade por ausência de laudo antropológico e de intérprete para assistir o recorrente nos autos processuais, porquanto seria umindígena, razão pela qualpede seja nomeado profissional para todos os atos processuais, bem como a realização do exame antropológico.
+Previamente ouvido, o Ministério Público Federal manifestou pelo não provimento do recurso, em parecer assim resumido (e-STJ fl. 676):
+PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. NULIDADEDA INSTRUÇÃO PROCESSUAL POR AUSÊNCIA DE INTÉRPRETEE REALIZAÇÃO DE EXAME ANTROPOLÓGICO. RÉU QUE SE DIZPERTENCER A TRIBO INDÍGENA. CIRCUNSTÂNCIASCONCRETAS QUE INDICAM SUA TOTAL INTEGRAÇÃO ÀCOLETIVIDADE, CONCLUSÃO QUE SÓ PODE SER AFASTADAMEDIANTE INCURSÃO NO CONJUNTO FÁTICO-PROBATÓRIO.
+- PELO NÃO PROVIMENTO.
+É o relatório, decido.
+Não há mais interesse processual no presente recurso. Isso porque, consoante informações colhidas do site do Tribunal de Justiça do Estado de Mato Grosso do Sul, o recorrente foi pronunciado,julgado pelo Tribunal do Júri em 14/12/2020 eabsolvido. Na mesma data de 14/12/2020 foiexpedido o alvará de soltura e certificado o trânsito em julgado da sentença no dia 2/2/2021.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, julgo prejudicado o recurso em habeas corpus.
+Intimem-se.
