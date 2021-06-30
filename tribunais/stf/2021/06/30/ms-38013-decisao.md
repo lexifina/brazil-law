@@ -1,0 +1,39 @@
+D E C I S Ã O
+    Cuida-se de Mandado de Segurança, com pedido de liminar, impetrado por Jersonita Montalvão da Cunha, contra ato do Plenário do Conselho Nacional de Justiça – CNJ, proferido nos autos da Representação por Excesso de Prazo nº 0010738-76.2020.2.00.0000.
+    Alega a impetrante que apresentou representação por excesso de prazo (Processo nº 0010738-76.2020.2.00.0000) contra o Juiz de Direito da 3ª Vara de Família e Sucessões da Comarca de Anápolis/GO.
+    Informa que foi proferida decisão pelo arquivamento do feito e delegação de apreciação à Corregedoria-Geral de Justiça do Estado de Goiás, em face da qual apresentou recurso administrativo. Acrescenta que o Plenário do CNJ negou provimento ao recurso.
+    Afirma inexistir previsão legal no sentido de que deve haver esgotamento das funções da Corregedoria do Tribunal de Justiça de Goiás para, somente depois, acionar o CNJ. Soma que, após a devolução dos autos para o Tribunal de Justiça Estadual, nenhum ato foi levado a efeito com vistas a dar início à apuração da responsabilidade do magistrado.
+    Requer, ao final:
+    “1) os benefícios da justiça gratuita;
+    2) a prioridade de tramitação do feito, por ser a impetrante idosa (art. 71, Caput, § 1º, da Lei nº 10.741/03);
+    3) o deferimento de medida liminar, por estarem presentes os requisitos para tanto, para determinar ao CNJ que conheça da Representação por Excesso de Prazo nº 0010738-76.2020.2.00.0000, analisando o pedido de liminar, e, se for o caso, o respectivo processo administrativo, com vistas à aplicação de sanção disciplinar cabível ao magistrado;
+    4) a citação do Juiz de Direito da 3ª Vara de Família e Sucessões da Comarca de Anápolis/GO, como litisconsorte passivo necessário;
+    5) a confirmação da medida liminar e a consequente concessão da segurança, bem como a intimação do Ministério Público Federal para intervir nos autos e apurar o abuso de poder, arbítrio, corporativismo e parcialidade do CNJ.”
+    É o relatório. Decido.
+    Inicialmente, defiro o pedido de justiça gratuita.
+    No caso, a segurança deve ser denegada.
+    O ato apontado como coator trata-se de decisão proferida pelo Plenário do CNJ, que negou provimento ao recurso administrativo interposto em face de decisão prolatada pela Corregedora Nacional de Justiça, que determinara o arquivamento sumário da Representação por Excesso de Prazo nº 0010738-76.2020.2.00.0000, cuja ementa ficou assim redigida:
+    “REPRESENTAÇÃO POR EXCESSO DE PRAZO. COMPETÊNCIA ORIGINAL, AUTÔNOMA E CONCORRENTE DO CNJ PARA APURAÇÃO, A QUAL SE COADUNA COM A DELEGAÇÃO À CORREGEDORIAS LOCAIS.
+    1. O Supremo Tribunal Federal já assentou em duas oportunidades (AgRg no MS n. 36.055/2019 e MS n. 28.513/2015) que a competência do CNJ é original, autônoma e concorrente, no que respeita a procedimentos apuratórios e disciplinares.
+    2. Essa competência, quando delegada às Corregedorias locais, em especial sob controle e fiscalização da Corregedoria Nacional de Justiça, respeita a natureza constitucional que foi explicitada pelo STF e não traz qualquer prejuízo aos representantes, os quais podem, inclusive, voltar a demandar o CNJ, se assim se fizer necessário.”
+ACÓRDÃO
+    O Conselho, por unanimidade, negou provimento ao recurso, nos termos do voto da Relatora.
+    Vê-se, assim, que o CNJ decidiu pelo arquivamento sumário da representação por excesso de prazo, em razão de caber à corregedoria estadual, ao qual está vinculado o magistrado, apurar os fatos atribuídos a ele e tidos por imorais, antes de se acionar o CNJ.
+    Nesse contexto, a impetração volta-se contra deliberação negativa do CNJ.
+    Ocorre que o Supremo Tribunal Federal possui entendimento no sentido de que as deliberações negativas do CNJ não estão sujeitas à apreciação pela via do mandado de segurança.
+    Nesse sentido:
+    “Direito processual civil. Agravo interno em mandado de segurança. Conselho Nacional de Justiça. Arquivamento sumário de reclamação disciplinar contra atos jurisdicionais. Ausência de injuridicidade ou manifesta irrazoabilidade. 1. Agravo interposto em face de decisão monocrática que negou seguimento a mandado de segurança impetrado contra decisão do Corregedor Nacional de Justiça, que determinou o arquivamento sumário da Reclamação Disciplinar nº 0004156-94.2019.2.00.0000, formalizada perante o Conselho Nacional de Justiça. 2. O arquivamento da reclamação disciplinar teve por fundamento o fato de a reclamante se limitar a questionar o conteúdo de atos jurisdicionais. Ausência de injuridicidade ou manifesta irrazoabilidade no ato coator, na medida em que o Conselho Nacional de Justiça somente tem competência para exercer o controle da atuação administrativa do Poder Judiciário, nos termos do art. 103-B, § 4º, da Constituição Federal. Precedentes. 3. Agravo a que se nega provimento por manifesta improcedência, com aplicação de multa de 2 (dois) salários mínimos, ficando a interposição de qualquer recurso condicionada ao prévio depósito do referido valor, em caso de decisão unânime (CPC/2015, art. 1.021, §§ 4º e 5º, c/c art. 81, § 2º).”
+    (MS 36704 AgR, Relator(a): ROBERTO BARROSO, Primeira Turma, julgado em 24/02/2021, PROCESSO ELETRÔNICO DJe-039 DIVULG 02-03-2021 PUBLIC 03-03- -2021)
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. ACÓRDÃO DO CONSELHO NACIONAL JUSTIÇA. ARQUIVAMENTO SUMÁRIO DE RECLAMAÇÃO DISCIPLINAR CONTRA MAGISTRADO. IMPUTAÇÕES QUE ENVOLVEM ATOS DE NATUREZA JURISDICIONAL, E NÃO ADMINISTRATIVA. OBSERVÂNCIA DA COMPETÊNCIA ESTABELECIDA NO ART. 103-B, § 4º, DA CF/88. ILEGALIDADE. INOCORRÊNCIA. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. RECURSO DE AGRAVO A QUE SE NEGA PROVIMENTO. 1. O ato questionado não violou direito líquido e certo dos impetrantes, uma vez que não comprovada a ilegalidade decorrente da decisão que determinou o arquivamento sumário da Reclamação Disciplinar 0000912-94.2018.2.00.0000, sob o fundamento de que o Conselho Nacional de Justiça não serve como instância recursal, estando sua atribuição adstrita ao âmbito administrativo do Poder Judiciário, em fiel observância ao art. 103-B, § 4º, da CF/88. 2. O CNJ atuou conforme suas prerrogativas constitucionais e de acordo com o previsto em seu Regimento Interno, não incorrendo em qualquer ilegalidade ou abuso de poder, ao extinguir liminarmente a reclamação disciplinar. 3. Essa atuação está em consonância com as diretrizes lançadas pela jurisprudência desta SUPREMA CORTE, consolidadas no sentido de que como regra geral, o controle dos atos do CNJ pelo STF somente se justifica nas hipóteses de (i) inobservância do devido processo legal; (ii) exorbitância das competências do Conselho; e (iii) injuridicidade ou manifesta irrazoabilidade do ato impugnado (MS 33.690 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 18/2/2016). 4. Agravo interno a que se nega provimento.”
+    (MS 36139 AgR-2ºJULG, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 21/12/2020, PROCESSO ELETRÔNICO DJe-040 DIVULG 03-03-2021 PUBLIC 04-03-2021)
+    Na mesma linha: MS 37975, Relator Ministro Dias Toffoli, e MS 36010-ED-AgR-ED, Relator Ministro Gilmar Mendes.
+    O que pretende o impetrante, por vias transversas, é transformar esta Corte em instância recursal das decisões administrativas do CNJ, no regular exercício de suas atribuições constitucionais (MS 36716, Relator Ministro Luiz Fux), o que não pode ser admitido.
+    Ante o exposto, denego a segurança (art. 6º, § 5º, da Lei 12.016/2009), prejudicado o pedido de liminar.
+    Ao amparo do art. 71 da Lei 10.741, de 1º de outubro de 2003, retifique-se a autuação para dela fazer constar a prioridade na tramitação do feito, porquanto a impetrante possui idade superior a 60 (sessenta) anos.
+    Custas legais.
+    Sem honorários advocatícios.
+    Preclusas as vias impugnatórias, arquivem-se.
+    Publique-se.
+    Brasília, 30 de junho de 2021.
+Ministro NUNES MARQUES
+Relator
