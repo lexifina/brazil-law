@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRF da 3ª Região, assim ementado (fl. 278):
+PROCESSUAL CIVIL.. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. ATIVIDADES ESI"ECIAIS. TEMPO SUFICIENTE PARA CONCESSÃO DE APOSENTADORIA I"ROPORCIONAL. DIB NA CITAÇÃO. CORREÇÃO MONETÁRIA. JUROS DE MORA. VERBA HONORÁRIA. REMESSA NECESSÁRIA E APELAÇÃO DO INSS PARCIALMENTE PROVIDAS.
+O recorrente sustenta, além de divergência jurisprudencial, ofensa aos artigos 103 e 41-A, §5º da Lei n. 8.213/1991. Defende, em síntese, que o requerimento administrativoé a data inicial para marco da ação judicial e não a citação como consignadono acórdão. Ainda, argumenta que "a inércia do recorrenteem buscar o judiciário causa o efeito da prescrição dos créditos, inerentes ao pedido, e não a decadência do pedido, ou postergar o pleito para a citação, ousamos discordar do acórdão guerreado." (fls.293).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 355.
+É o relatório. Passo a decidir.
+No que diz respeito aos artigos mencionados como violados, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Ainda que assim não fosse, verifica-se que os artigos não contém comando normativo para infirmar o entendimento exposto no acórdão recorrido, além de dissociados. O que atrai a incidência das Súmulas 283 e284/STF.
+Por fim, segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, não conheço do recurso especial. Nos termos do art. 85, §11, do Código de Processo Civil, majoro os honorários advocatícios em 5% acrescido ao valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, e eventual deferimento da Assistência Judiciária Gratuita
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. APOSENTADORIA ESPECIAL. TERMO INICIAL.AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF.AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVOS INDICADO E FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULAS 283 E 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO NÃO CONHECIDO.
