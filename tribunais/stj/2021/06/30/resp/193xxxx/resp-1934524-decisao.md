@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial manejado por FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS EMPÍRICA SSPI PRECATÓRIOS FEDERAIS E OUTRO, com fundamento no art. 105, III, c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 236):
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. CESSÃO DE CRÉDITO. IMPOSSIBILIDADE.
+O art. 114 da Lei 8.213/91 veda expressamente a cessão de créditos previdenciários, afigurando-se nula qualquer cláusula que disponha de modo diverso.
+Opostos embargos de declaração, foram rejeitados (fls. 288/291).
+Nas razões do recurso especial, aponta o recorrente divergência jurisprudencial acerca da interpretação dos arts. 100, §§ 13 e 14, da CF/88 e 114, da Lei 8.213/91.
+Sustenta, em síntese, que não há qualquer vedação legal à cessão de créditos alimentares, ainda que de origem previdenciária.
+Aduz, ainda, que ".. a jurisprudência já pacificada deste Colendo Superior Tribunal de Justiça, que prevê a possibilidade de cessão de crédito de natureza alimentar a terceiros, com base no artigo 100, § 13º e §14º, da Constituição Federal, introduzido no ordenamento jurídico pela EC nº 62/09, restando superada qualquer interpretação no sentido pela aplicabilidade da vedação à realização de cessão de créditos de natureza previdenciária prevista no artigo 114 da Lei nº 8213/91 estendendo-a aos precatórios judiciais." (fl. 332).
+Nestes termos, defende também que "É certo que o artigo 114 da Lei Federal nº 8.213/91, veda apenas e tão somente a cessão do benefício previdenciário ativo e não afeta a cessão de créditos realizada nos moldes do artigo 100, §13º e 14º, da Constituição." (fl. 332).
+Contrarrazões não apresentadas (fl. 798).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+A irresignação não comporta êxito.
+De início, em recurso especial não cabe invocar dissídio jurisprudencialacerca de norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aoart. 100, §§ 13 e 14,da Constituição Federal.
+No mais, verifica-se que o Tribunal de origem decidiu em total sintonia com a jurisprudência do STJ, firmada no sentido de que, nos termos do art. 114, da Lei 8.213/91, é proibida a cessão de créditos previdenciários, sendo nula qualquer cláusula contratual que a este respeito disponha de modo diverso.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. CESSÃO DE CRÉDITO PREVIDENCIÁRIO. ART. 114 DA LEI 8.213/91. IMPOSSIBILIDADE. SÚMULA 83 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO RECORRIDA. SÚMULA 182 DO STJ.
+1. De acordo com o que dispõem o art. 1.021, § 1º, do CPC/2015 a parte deve infirmar, nas razões do Agravo Interno, todos os fundamentos da decisão atacada, sob pena de não se conhecer de seu recurso. Na hipótese dos autos, os recorrentes não se desincumbiram do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada, tendo em vista que se limitaram a repetir os argumentos do Recurso Especial. Incide, no caso, a Súmula 182 do STJ: "É inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+2. Os artigos tidos por afrontados (art. 286 e 778, do CPC/15) não foram ventilados no aresto atacado e, embora tenham sido opostos Embargos Declaratórios para a manifestação sobre os citados dispositivos, o órgão julgador não emitiu juízo de valor sobre as teses a eles referentes.
+3. O STJ possui o entendimento de que não basta a oposição de Embargos de Declaração para a configuração do prequestionamento ficto admitido no art. 1.025 do CPC/2015, sendo imprescindível que a parte alegue, nas razões do Recurso Especial, a violação do art. 1.022 do mesmo diploma legal, para que, assim, o Superior Tribunal de Justiça esteja autorizado a examinar eventual ocorrência de omissão no acórdão recorrido e, caso constate a existência do vício, venha a deliberar sobre a possibilidade de julgamento imediato da matéria, conforme facultado pelo legislador.
+4. O art. 114 da Lei 8.213/91 veda, expressamente, a cessão de créditos previdenciários, afigurando-se nula qualquer cláusula que disponha de modo diverso. Precedentes: EDcl no REsp 456.494/RJ, Rel. Ministra ALDERITA RAMOS DE OLIVEIRA (Desembargadora convocada do TJ/PE), SEXTA TURMA, julgado em 19/02/2013, DJe 12/03/2013; EREsp 436.682/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, TERCEIRA SEÇÃO, julgado em 22/02/2006, DJ 28/06/2006; EREsp n.º 477.654/RJ, Rel. Min. Paulo Gallotti, Terceira Seção, DJ de 12/12/2005.
+5. O Tribunal a quo decidiu de acordo com a jurisprudência deste STJ, incidindo, na espécie, o óbice da Súmula 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida."
+6. Agravo Interno não conhecido.
+(AgInt nos EDcl no REsp 1849130/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/03/2021, DJe 16/03/2021)
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSUAL CIVIL. PROCURAÇÃO OUTORGADA POR SEGURADO A ENTIDADE DE PREVIDÊNCIA PRIVADA. CLÁUSULA PREVENDO CESSÃO DE CRÉDITOS DE NATUREZA PREVIDENCIÁRIA. ARTIGO 114 DA LEI N.º 8.213/91. NULIDADE. PRECEDENTES.
+1. A cessão de créditos previdenciários, prevista na procuração outorgada pelo segurado a entidade de previdência privada, é vedada pelo art. 114 da Lei n.º 8.213/91. Precedentes da eg. 3ª Seção.
+2. Somente o segurado tem legitimidade para pleitear o pagamento de diferenças resultantes de erro de cálculo da renda mensal inicial de seus benefícios, ainda que supridas essas diferenças pela entidade de previdência privada, uma vez que esta não possui vínculo jurídico com a autarquia previdenciária. Precedentes da 3ª Seção.
+3. Embargos de declaração acolhidos com efeitos modificativos.
+(EDcl no REsp 456.494/RJ, Rel. Ministra ALDERITA RAMOS DE OLIVEIRA (DESEMBARGADORA CONVOCADA DO TJ/PE), SEXTA TURMA, julgado em 19/02/2013, DJe 12/03/2013).
+Por conseguinte, não se verifica a apontada violação, sendo certo que não merece reparo o aresto combatido, pois se encontra em alinhamento à jurisprudência desta Corte Superior.
+ANTE O EXPOSTO, conheço parcialmente do recurso especial para, nesta parte, negar-lhe provimento.
+Publique-se.
