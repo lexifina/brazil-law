@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO. HONORÁRIOS ADVOCATÍCIOS. QUANTUM. IRRISORIEDADE CONFIGURADA. NECESSIDADE DE MAJORAÇÃO. CRITÉRIOS DO ART. 20, §§ 3º E 4º, DO CPC/1973. RECURSO ESPECIAL PROVIDO EM PARTE.
+O embargante aponta contradição no decisum afirmando que seu pleito foi acolhido in totum, "circunstância esta que não se reflete no dispositivo do julgado, onde contraditoriamente o Ilustre Relator afirmou ter dado parcial acolhimento ao recurso, contudo, sem indicar em que ponto o mesmo teria sido rejeitado. Identificada à contradição interna, deve a mesma ser eliminada, pois o integral acolhimento do Recurso Especial, interposto já na vigência da Lei nº13.105/15, exige sejam majorados os honorários fixados anteriormente, levando em conta o trabalho adicional realizado em grau recursal, nos moldes do §11 do art. 85" (fl. 805).
+Afirma, ainda, que a decisão agravada é omissa porque "deixou de declinar por quais motivos o montante restou fixado no patamar considerando minimamente aceitável por esta c. Corte  ..  também não esclareceu a razão pela qual, tendo optado pela utilização do valor da causa como base de cálculo da verba honorária, descurou-se dos limites percentuais fixados pelo legislador infraconstitucional no §3ºdo art. 20 do CPC/15, entre o mínimo de10%(dez por cento)e o máximo de 20%(vinte por cento), vez que a condenação trouxe evidente proveito econômico à sua constituinte passível de mensuração, o qual não se apresenta ínfimo ou excessivo, afastando a necessidade de apreciação equitativa"(fls. 806/807).
+Sem impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Deve o embargante, portanto, ao apontar a existência de erro, contradição, obscuridade ou omissão, indicar, de forma fundamentada, clara e balizada, o ponto em que a decisão embargada incorreu no vício alegado, não bastando a mera alegação de existência de vício do art. 1.022 do CPC/2015, com base no inconformismo diante da decisão proferida.
+No caso dos autos, a decisão embargada não contém os vícios de integração que a parte embargante indica.
+De fato, o provimento do recursonão enseja a majoração de verba honorária recursal (gInt nos EAREsp 762.075/MT, Rel. p/ Acórdão Ministro Herman Benjamin, Corte Especial, julgado em 19/12/2018, DJe 07/03/2019).
+Relativamente à contradição, a que autoriza embargos de declaração é aquela interna ao julgado, ou seja, o que autoriza embargos de declaração para solver contradição é a contradição entre os fundamentos da decisão e a conclusão a que se chegou.
+A este respeito, é pacífica a orientação deste Superior Tribunal de Justiça, como se verifica, dentre inúmeros outros, do julgado assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. INOCORRÊNCIA.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+2. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art.
+535 do CPC/1973).
+3. O vício que autoriza os embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, nem menos entre este e o que ficara decidido na instância a quo, ou entre ele e outras decisões do STJ. (EDcl no AgRg nos EAREsp 252.613/MG, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 05/08/2015, DJe 14/08/2015).
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1221142/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 10/10/2017, DJe 14/12/2017)
+O embargante, a toda evidência não demonstrou a existência de contradição interna do julgado, limitando-se apenas a afirmar que seu pleito foi acolhido in totum, "circunstância esta que não se reflete no dispositivo do julgado, onde contraditoriamente o Ilustre Relator afirmou ter dado parcial acolhimento ao recurso". Contudo, o recurso foi provido para fixar averba honorária em 1% sobre o valor atualizado da causa, percentual inferior ao que foi postulado no recurso especial.
+A embargante alega, ainda, a existência de omissão por não ter sido declinado por quais motivos o montante dos honorários de advogado foi fixado no patamar considerado. Como se nota, a decisão embargada resolveu a controvérsia, com base em jurisprudência desta Corte Superior, que é firme no sentido de que, considerando as peculiaridades do caso concreto, não configura desproporcionalidadea fixação dos honorários advocatícios no percentual de 1% do valor atualizado da causa
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VÍCIOS DE INTEGRAÇÃO. INEXISTÊNCIA. EMBARGOS DECLARATÓRIOS REJEITADOS
