@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por GEILSON DO NASCIMENTO PAULO contra decisão do Tribunal de Justiça do Estado do Maranhão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, manifestado contra o acórdão prolatado na Apelação Criminal n. 0815716-83.2020.8.10.0000.
+Segundo os autos, concluído o procedimento disciplinar instaurado para apurar a participação do Agravante em movimento para subversão da ordem e da disciplina (rebelião e destruição da grade da cela), o Juiz de Direito da Vara de Execuções Penais da Comarca de Imperatriz julgou caracterizada a falta grave, alterou a data base para concessão de benefícios prisionais, bem como declarou a perda dos dias remidos (fl. 191).
+Inconformado, o Apenado interpôs agravo em execução perante o Tribunal de origem, que negou provimento ao recurso. O acórdão foi assim ementado (fl. 190):
+"Processual Penal. Agravo em Execução. Falta grave. Comprovação. Processo Administrativo Disciplinar. Observância do contraditório e da ampla defesa. Absolvição. Impossibilidade. Nulidade. Inocorrência.
+I - Não há que se falar em nulidade da decisão que homologou a falta grave imputada ao agravante, tampouco em absolvição, se, no processo administrativo disciplinar devidamente observados os princípios do contraditório e da ampla defesa, bem como suficientemente comprovada a autoria do apenado na falta disciplinar se lhe imputada.
+Recurso improvido. Unanimidade."
+Nas razões do recurso especial, o Apenado alega ofensa ao art. 45, § 3.º, da Lei de Execução Penal, sob o argumento de que "a condenação se fundou apenas no fato dos detentos habitarem a mesma cela, ensejando uma sanção de caráter coletivo" (fl. 208).
+Ainda, sustenta haver ofensa ao art. 386, VII, do Código de Processo Penal, pois, na sua perspectiva, "a instrução probatória não revelou elementos suficientes para sustentar o decreto condenatório" (fl. 204).
+As contrarrazões foram apresentadas às fls. 214-224.
+O Recurso especial não foi admitido na origem (fls. 226-231).
+Interposto o agravo em recurso especial (fls. 232-235), o Parquet registrou ciência sem apresentar contraminuta (fl. 242).
+O Ministério Público Federal manifestou-se às fls. 253-255, opinando pelo desprovimento do agravo em recurso especial.
+É o relatório. Decido.
+O agravo é tempestivo e impugnou os fundamentos da decisão agravada, razão pela qual passo ao exame do recurso especial.
+O Tribunal estadual manteve o reconhecimento da falta grave, nos seguintes termos (fl. 192, sem grifos no original):
+"Com efeito, quanto às alegações se nos apresentadas, tenho que imerecedoras de melhor sorte, na medida em que, diferentemente do sustentado pela defesa, pelo depoimento das testemunhas Renato Dourado de Oliveira (agente penitenciário) e Amaro da Costa Danda Neto (agente penitenciário), devidamente comprovada a participação do agravante nos atos de desordem e agitação, atentado contra a disciplina e segurança, com destruição da estrutura física da cela em que custodiado, como que, cela 05 (cinco) do Pavilhão "A" da Penitenciária de Imperatriz, evento esse culminou na sanção consistente na alteração da data-base para a obtenção de novos benefícios prisionais ao agravante e perda de 1/3 (um terço) dos dias eventualmente remidos."
+Como se observa, não houve, no caso, sanção coletiva. Com efeito, o Tribunal de origem individualizou a conduta do Apenado, destacando sua participação "nos atos de desordem e agitação, atentado contra a disciplina e segurança, com destruição da estrutura física da cela em que custodiado".
+Ademais, esta Corte Superior compreende que "não se pode confundir "sanção coletiva" com "autoria coletiva". A primeira de fato é vedada pelo ordenamento jurídico. A segunda, entretanto, se configura quando é devidamente apurada a falta e reconhecida a responsabilização de vários apenados na autoria de conduta que configura falta grave e, diante das circunstâncias da infração, acarreta a punição individualizada de todos os envolvidos (AgRg no HC 444.930/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/6/2018)" (AgRg no HC 550.514/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/02/2020, DJe 05/03/2020; sem grifos no original).
+No mais, para alterar a conclusão a que chegaram as instâncias ordinárias, no sentido de que se deve aplicar, na espécie, a falta grave, demandaria, a toda evidência, inevitável aprofundamento no arcabouço fático-probatório, providência que encontra óbice no Enunciado n. 7 da Súmula d esta Corte, do seguinte teor: "a pretensão de simples reexame de prova não enseja recurso especial."
+Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM EXECUÇÃO PENAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. INCIDÊNCIA. FUGA DE PENITENCIÁRIA. FALTA GRAVE. REGRESSÃO DE REGIME. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+ ..
+2. Para alterar a conclusão a que chegou as instâncias ordinárias, no sentido de que se deve aplicar, no caso, a falta grave, demandaria, necessariamente, revolvimento do acervo fático-probatório delineado nos autos, procedimento que encontra óbice na Súmula 7/STJ, que dispõe: "a pretensão de simples reexame de prova não enseja recurso especial."
+3. Agravo regimental não provido." (AgRg no AREsp 182.272/DF, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/10/2015, DJe 09/11/2015)
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. ALEGADA VIOLAÇÃO AO ART. 619 DO CPP. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. FALTA GRAVE. ANÁLISE ACERCA DA CONFIGURAÇÃO DA FUGA. INVIABILIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULAS 7/STJ E 279/STJ.
+ ..
+II - O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias no âmbito dos recursos extraordinários. (Súmula 07/STJ e Súmula 279/STF).
+Agravo regimental desprovido." (AgRg no AREsp 355.528/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/05/2015, DJe 18/05/2015)
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. FALTA GRAVE. INEXISTÊNCIA DE SANÇÃO COLETIVA. CONDUTA INDIVIDUALIZADA. FUNDAMENTAÇÃO CONCRETA. INSUFICIÊNCIA PROBATÓRIA DA AUTORIA. ENUNCIADO N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
