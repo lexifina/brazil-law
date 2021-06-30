@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de agravo interposto por INSTITUTO OSWALDO CRUZ DE SEGURIDADE SOCIALcontra a decisão que inadmitiu o recurso especial. O apelo extremo fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal desafia o acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro e assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C REPETIÇÃO DO INDÉBITO E INDENIZATÓRIA. PLANO DE PREVIDÊNCIA FECHADA. INSTITUTO OSWALDO CRUZ DE SEGURIDADE SOCIAL (FIOPREV). DESLIGAMENTO DO PLANO COM RESGATE DAS PARCELAS . CONTRATO QUE ENGLOBA EXPRESSAMENTE A SUPLEMENTAÇÃO DE APOSENTADORIA POR VELHICE, POR TEMPO DE SERVIÇO E ESPECIAL. A RÉ NÃO FAZ PROVA DE QUE AS ALTERAÇÕES NO REGULAMENTO FORAM PROMOVIDAS DE FORMA LEGÍTIMA ANEXOS QUE ALTERARAM SUBSTANCIALMENTE A NATUREZA DO PRÓPRIO CONTRATO. AO MANTER, COMO BENEFÍCIOS CUSTEADOS PELOS PARTICIPANTES, APENAS AQUELES CLASSIFICADOS COMO "DE RISCO", O CONTRATO FIRMADO COM ESTES DEIXOU DE TER NATUREZA DE PREVIDÊNCIA COMPLEMENTAR PARA TORNAR -SE, NA REALIDADE, UM CONTRATO DE SEGURO - COM COBERTURA PARA MORTE E INVALIDEZ DIREITO AO RESGASTE DAS PARCELAS PAGAS, RECONHECIDO NO ART. 14, INCISO III, DA LC 109/01. SÚMULA 289 STJ. INEXISTÊNCIA DE DANO MORAL. SENTENÇA REFORMADA. PARCIAL PROVIMENTO DO RECURSO. PRECEDENTES"(fl. 628, e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No especial, a recorrente aponta além de dissídio jurisprudencial, violação dos arts. 1º, 75 da Lei Complementar nº 109/2001; 489, II, § 1º, IV e 1.022, II, do Código de Processo Civil de 2015; 178, 421 e 422, do Código Civil/2002.
+Sustenta em síntese, a ocorrência do prazo prescricional quinquenal para restituição de valores vertidos ao Plano de Previdência FIOPREV. Além disso, afirma que as contribuições dos participanteseram vertidas única e exclusivamente para o custeio dos benefícios de risco, tais como a suplementação de aposentadoria proporcional por invalidez e pecúlio por morte, de modo que nunca houve alteração no plano de custeios dos benefícios previstos e muito menos da natureza das contraprestações.
+Afirma que os benefícios de risco não perdem sua natureza previdenciária pelo simples fato de não formarem reserva de poupança, pois, como aludido anteriormente, são espécie do gênero benefício previdenciário.
+Alega que as contribuições efetuadas pelo recorrido no percentual de 1% não formam reservas pessoais de poupança e são destinadas para cobertura dos riscos assumidos no decorrer do contrato e, desta maneira, tais valores não podem ser objetos de resgate, conforme exposto expressamente no regulamento do plano (fls. 671/697).
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De início, no que tange à alegada negativa de prestação jurisdicional - violação do artigo 1.022 do Código de Processo Civil de 2015 -, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. EFEITOS INFRINGENTES PRETENDIDOS. INVIABILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração de METHANEX CHILE S.A. (e-STJ fls. 2.379/2.385) rejeitados" (EDcl no REsp 1.596.081/PR, Rel. Min. RICARDO VILLAS BÔAS CUEVA, Segunda Seção, julgado em 22/8/2018, DJe de 24/8/2018).
+Registra-se que, mesmo à luz do novel art. 489 do Código de Processo Civil/2015, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre aqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV).
+A motivação contrária ao interesse da parte ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador não autoriza o acolhimento dos embargos declaratórios.
+Acerca da prescrição, cumpre assinalar que o caso dos autos não se refere à ação de cobrança para revisão de parcelas já recebidas pelo beneficiário ou de anulação de negócio jurídico. O acórdão destaca, que o recorrido pretendeé a rescisão do contrato, portantode natureza pessoal.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA.ADMISSIBILIDADE. RESTITUIÇÃO DAS CONTRIBUIÇÕES PAGAS.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. DANO MORAL.CONFIGURAÇÃO. DIVERGÊNCIA NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. RESCISÃO CONTRATUAL. RELAÇÃO OBRIGACIONAL. PRESCRIÇÃO VINTENÁRIA.
+1. Ausente o prequestionamento, até mesmo de modo implícito, de dispositivos apontados como violados no recurso especial, incide o disposto na Súmula nº 211/STJ.
+2. A demonstração do dissídio jurisprudencial pressupõe a ocorrência de similitude fática entre o acórdão atacado e os paradigmas.
+3. Na hipótese de ação de rescisão do contrato firmado com a entidade de previdência privada, uma vez configurada relação obrigacional de natureza pessoal, incide a prescrição vintenária, prevista no art. 177 do Código Civil de 1916, vigente à época dos fatos.
+4. Agravo regimental não provido"(AgRg no AREsp 375924/RJ, Rel. Min. RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/08/2014, DJe 28/08/2014)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DE RESCISÃO CONTRATUAL. PRESCRIÇÃO. RELAÇÃO OBRIGACIONAL. APLICAÇÃO DO ART. 177 DO CÓDIGO CIVIL DE 1916 VIGENTE À ÉPOCA DOS FATOS.
+1. A prescrição da ação de cobrança deparcelasdevidas por planos de previdência privada é quinquenal, consoante entendimento cristalizado na Súmula nº 291/STJ.
+2. Na hipótese de ação de rescisão do contrato firmado com a entidade de previdência privada, uma vez configurada relação obrigacional de natureza pessoal, incide a prescrição vintenária, prevista no art. 177 do Código Civil de 1916, vigente à época dos fatos.
+3. O participante do plano de previdência privada tem direito à restituição da totalidade das contribuições pessoais vertidas ao plano, atualizado monetariamente, quando do seudesligamento,sob pena de enriquecimento ilícito da entidade contratada.
+4. Agravo regimental não provido. (AgRg no REsp 623855/RS, Rel. Min. RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 07/03/2013, DJe 13/03/2013)
+E ainda: AgRg no AREsp 104452/MS, Rel. Min. Luis Felipe Salomão, Quarta Turma, julgado em 05/09/2013, DJe 20/09/2013; e AgRg no REsp 1285643/DF, Rel. Min. Antonio Carlos Ferreira, Quarta Turma, julgado em 16/05/2013, DJe 29/05/2013.
+Incidência, nesse ponto, do óbice da Súmula nº 83/STJ.
+Cumpre assinalar que a jurisprudência do Superior Tribunal de Justiça preleciona não ser possível a restituição de valores pagos a título de pecúlio por invalidez ou morte, pois decorre de contrato aleatório, com natureza jurídica semelhante ao contrato de seguro.
+A esse respeito:
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PLANO DE PECÚLIO. EX-ASSOCIADO. RESGATE DE VALORES. INADMISSIBILIDADE. CONTRATO ALEATÓRIO. GARANTIA DO RISCO. NATUREZA DE SEGURO. PREVIDÊNCIA PRIVADA NÃO CARACTERIZADA. 1. A Segunda Seção deste Tribunal Superior pacificou o entendimento de não serem passíveis de restituição os valores pagos por ex-associado a título de pecúlio por invalidez, morte ou renda por velhice por se tratar de contrato aleatório, em que a entidade correu o risco, possuindo a avença natureza de seguro e não de previdência privada. 2. Agravo regimental não provido. (AgRg no AgRg no AREsp 426437/PR, Rel. MinistroRICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 04/11/2014, DJe 10/11/2014)
+No caso dos autos, cuida-se de Plano de Previdência e não de seguro, razão pela qual o acórdão atacadopermitiua restituição das parcelas vertidas ao Instituto.
+É o que se extrai do seguinte trechodo acórdão recorrido.
+"(..)
+Em tese, portanto, seriam válidas as alterações no Regulamento realizadas após a contratação e antes do implemento, pelo participante, das condições necessárias à percepção do benefício contratado.
+No caso em tela, contudo, a ré não faz prova de que as alterações no Regulamento foram promovidas de forma legítima. Não junta aos autos a sua aprovação pelo órgão regulador dos planos de previdência privada, nem sua publicação.
+O ponto mais relevante é que os Anexos em questão alteraram substancialmente a natureza do próprio contrato, em flagrante afronta ao apregoado aos participantes quando da contratação.
+Ao manter, como benefícios custeados pelos participantes, apenas aqueles classificados como "de risco", o contrato firmado com estes deixou de ter natureza de previdência complementar para tornar-se, na realidade, um contrato de seguro - com cobertura para morte e invalidez.
+(..)
+Considerando que o contrato é denominado de Plano de Previdência, e não de seguro, a exclusão de seu objeto justamente das prestações que integram sua natureza, de previdência complementar (as suplementações de aposentadoria e consequente reserva de poupança para estas) deve ser devidamente informada aos participantes, dando-lhes a opção de não permanecerem no contrato, eis que facultativo, por força do art. 202 da Constituição Federal.
+Deste modo, assiste razão ao autor em seu pleito.
+Se o mesmo optou por não integrar um contrato substancialmente modificado, tem direito à rescisão e à restituição da integralidade das contribuições que verteu, sob pena de enriquecimento sem causa da ré.
+Também não se poderia obrigar a autora a manter-se associada, sob pena de violação ao art. 52 , inciso XX, da Constituição Federal.
+Assim, ao modificar a natureza de previdência complementar para contrato de risco com cobertura apenas para morte e invalidez, este se tornou um contrato de seguro, o que impede os participantes de implementarem os requisitos para recebimento da complementação de aposentadoria, conforme inicialmente contratado.
+O autor/apelado aderiu ao Plano BD-RJU em julho de 1993 (índex 26 e 277).
+Depreende-se da documentação apresentada pela parte autora, em especial as planilhas do índex 26, que este contribuiu com a previdência complementar, fazendo jus, portanto, à restituição integral dos valores que despendeu, independentemente de qualquer previsão regulamentar, pois com o rompimento do vínculo contratual, o participante não irá usufruir de qualquer benefício proporcionado pela entidade de previdência privada, não se justificando, assim, a sua retenção. (fls. 635/636 - grifou-se)
+Todavia, observa-se que orecorrente não impugnou de forma objetiva a tais fundamentos doacórdão recorrido, o que denota a deficiência da fundamentação recursal, haja vista que o agravante se apegou a considerações secundárias, o que faz atrair o óbice daSúmulanº 283/STF .
+Confira o julgado:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA DE AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES. VALOR DO CONTRATO. RADIOGRAFIA. DOCUMENTO UNILATERAL. LIMITE DOS RENDIMENTOS. TRÂNSITO EM JULGADO. TRANSFORMAÇÕES ACIONÁRIAS. INCLUSÃO DEVIDA. ART. 535, II, DO CPC/1973. AUSÊNCIA DE OMISSÕES. SÚMULA 284 DO STF. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO. SÚMULAS 283 E 284 DO STF. MATÉRIAS QUE DEMANDAM REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se pode conhecer da apontada violação do art. 535, II, do antigo CPC/1973, pois as alegações que a fundamentaram são genéricas, sem discriminação específica dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais teria incorrido o acórdão impugnado. Incide, no caso, por analogia, a Súmula 284/STF.
+2. No caso, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido nesse ponto, o que denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+3. A decisão que rejeitou a impugnação ao cumprimento de sentença amparou-se nos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7-STJ) e impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+4. Agravo interno não provido"
+(AgInt no AgInt no AREsp 932.983/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 24/2/2017 - grifou-se).
+Não bastasse isso, ressalta-se que ultrapassar e infirmar a conclusão alcançada pelo acórdão recorrido demandaria o reexame da relação contratual estabelecida e dos fatos e das provas presentes no processo, procedimentos inviáveis na estreita via especial em virtude dos óbices das Súmulas nºs 5 e 7/STJ.
+Nessa linha:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DOAÇÃO. REINTEGRAÇÃO DE POSSE. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. NÃO IMPUGNAÇÃO. SÚMULA Nº 283/STF. REEXAME. CONJUNTO FÁTICO-PROBATÓRIO E CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula nº 283/STF.
+3. Acolher a tese pleiteada pela agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido"
+(AgInt no AREsp 1.509.609/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 28/10/2019, DJe 7/11/2019).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, considerando a sucumbência recíproca, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da causa, ficando cada parte responsável pelo pagamentoao seu respectivo advogado.
+Dessa forma, fixo os honorários recursais em 1% (um por cento) sobre o valor da causa, a ser pago pelo recorrente ao advogado do recorrido, mantendo-se, no mais, a verba honorária na forma determinada na origem.
+Publique-se.
+Intimem-se.
