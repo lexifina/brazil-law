@@ -1,0 +1,43 @@
+Trata-se de reclamação com pedido liminar proposta pelo Município de São José dos Campos/SP contra decisão proferida pelo Tribunal Superior do Trabalho – TST, nos autos do Processo AIRR – 10893-10.2017.5.15.0132, que teria violado o entendimento proferido na ADC 16/DF e no RE 760.931-RG/DF, Tema 246 da Repercussão Geral (documento eletrônico 1).
+    O reclamante narra, em suma, o seguinte:
+    “Trata-se, em resumo, de demanda trabalhista, por meio do qual reivindica a parte autora todas as verbas laborais que entende de direito.
+    Para tanto, indica o Município como um dos integrantes do polo passivo da relação trabalhista em questão, sob o fundamento de haver responsabilidade subsidiária com a primeira reclamada naqueles autos, com supedâneo no Enunciado da Súmula nº 331 do TST.
+    Regulamente citado, o Município ofertou contestação sustentando, preliminarmente, a inépcia da inicial. No mérito, sustentou a inexistência de responsabilidade subsidiária ante a fiscalização realizada do contrato administrativo. Impugnou, ainda, todas as verbas trabalhistas pleiteadas na exordial. Pugnou, ao final, pela improcedência do pedido.
+    A r. sentença prolatada pelo MM. Juízo a quo julgou procedente em parte o pedido formulado e condenou subsidiariamente o Município de São José dos Campos, com espeque na Súmula nº. 331 do TST.
+    O TRT da 15ª Região, por sua vez, manteve a referida sentença.
+    Não se conformando com o v. Acórdão, o Município apresentou recurso de revista, haja vista que a combatida decisão oriunda do TRT da 15ª Região, ao condenar o Município de forma subsidiária divergiu do disposto na parte final do item V da Súmula 331 deste Colendo TST, afrontou os termos do artigo 71, §1º, da Lei Federal nº 8.666/93 e artigo 818, inciso I, da CLT e ofendeu direta e literalmente o artigo 5º, inciso II, da Constituição Federal.
+    Tendo sido negado seguimento ao Recurso de Revista do Município pelo TRT da 15ª Região, foi apresentado o competente recurso de agravo de instrumento pela Municipalidade.
+    Sobreveio, então, o v. Acórdão oriundo da Oitava Turma Julgadora do C. TST, o qual, com efeito, conheceu o Agravo de Instrumento em recurso de revista do Município e, no mérito, negou-lhe provimento, mantendo- e a condenação subsidiária do Município de São José dos Campos, cujo julgado foi assim ementado: [...]” (pág. 2 da petição inicial, grifos no original).
+    Nesse contexto, sustenta que
+    “[...] a imputação da culpa in vigilando ou in elegendo à Administração Pública, por suposta deficiência na fiscalização da fiel observância das normas trabalhistas pela empresa contratada, somente pode acontecer nos casos em que se tenha a efetiva comprovação da ausência de fiscalização.
+    […]
+    Nesses termos, é possível que a Administração Pública responda pelas dívidas trabalhistas contraídas pela empresa contratada e que não foram pagas, desde que o reclamante comprove, com elementos concretos de prova, que houve falha concreta do Poder Público na fiscalização do contrato, o que, contudo, não ocorreu na hipótese dos autos.
+    Data maxima venia, não é preciso muito esforço para se perceber que o v. Acórdão proferido pela Oitava Turma do C. TST afrontou diretamente a tese fixada pelo STF em sede de repercussão geral no bojo do RECURSO EXTRAORDINÁRIO nº. 760.931, por entender indevidamente ‘ser do ente público o encargo probatório de demonstrar a regular observância das exigências legais no tocante à fiscalização da prestadora dos serviços quanto ao cumprimento das obrigações trabalhistas’.
+    Em outros termos, a referida decisão contraria o entendimento proferido por esta Corte no julgamento da ADC 16, que julgou constitucional o art. 71, § 1º, da Lei 8.666/93, e, consequentemente, do RE nº. 760.931, paradigma da repercussão geral. Isto porque, como explicado, a presunção de culpa in vigilando ou in eligendo vai de encontro ao entendimento firmado nos citados paradigmas” (págs. 4-5 do documento eletrônico 1 – grifos no original).
+    Justifica o pedido de concessão da liminar da seguinte forma:
+    “[...] 2. Evidencia-se o fumus boni juris porquanto demonstrado o desrespeito à autoridade deste C. STF consubstanciada no Tema 246 (RE nº. 760.931).
+    3. Igualmente, resta evidente o periculum in mora, consistente no risco de dano ao interesse público” (pág. 7 do documento eletrônico 1, grifos no original).
+    Ao final, requer
+    “[...] c) seja esta julgada totalmente procedente para cassar todas as decisões proferidas nos autos dos processos nº. 0010893- 0.2017.5.15.0132 (Reclamação Trabalhista), porque em desacordo com o Tema 246 (RE nº. 760.931), desse C. STF, procedendo essa Corte, pela Turma competente, o julgamento do pedido, afastando-se a responsabilidade subsidiária indevidamente fixada por pela Justiça do Trabalho por presunção de culpa; [...]” (pág. 8 da inicial, grifos no original).
+    É o relatório necessário. Decido o pedido liminar.
+    Inicialmente, destaco que a reclamação perante o Supremo Tribunal Federal será sempre cabível para: (i) preservar a competência do Tribunal; (ii) garantir a autoridade de suas decisões; e (iii) garantir a observância de enunciado de Súmula Vinculante e de decisão desta Corte em controle concentrado de constitucionalidade, nos termos do art. 988 do Código de Processo Civil/2015.
+    Quanto ao pedido liminar, faz-se necessária a análise de seus requisitos autorizadores, quais sejam, a plausibilidade jurídica do pedido (fumus boni iuris) e a verificação de que a demora na prestação jurisdicional possa gerar prejuízo de difícil reparação ao requerente ( periculum in mora ).
+    Observo, em exame perfunctório, próprio dessa fase processual, assistir razão ao reclamante quanto ao pedido liminar, porquanto presentes os mencionados requisitos.
+    Isso porque este Tribunal, no julgamento da ADC 16/DF, de relatoria do Ministro Cezar Peluso, declarou a constitucionalidade do art. 71 da Lei 8.666/1993, e considerou que a mera inadimplência do contratado não tem o condão de transferir à administração pública a responsabilidade pelo pagamento dos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da execução do contrato.
+    Em 26/4/2017, esta Corte, confirmando o entendimento adotado na ADC 16/DF, concluiu o julgamento do RE 760.931/DF, Redator para o acórdão Ministro Luiz Fux, fixando a seguinte tese de repercussão geral:
+    “O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93.”
+    Importante ressaltar que, no julgamento da ADC 16/DF, este Tribunal reconheceu que eventual omissão da administração pública no dever de fiscalizar as obrigações do contratado poderia gerar essa responsabilidade, caso efetivamente demonstrada a culpa in vigilando do ente público.
+    No caso, o Tribunal reclamado entendeu que o ente público não se desincumbiu do seu ônus de demonstrar a efetiva fiscalização do contrato administrativo, conforme demonstra o seguinte trecho:
+    “[...]
+    Nesse contexto, a conclusão adotada pelo Tribunal de origem revela-se irrepreensível, pois a condenação subsidiária atribuída ao ente público não foi automática, mas decorreu da configuração da sua conduta culposa, porquanto não produziu nenhuma prova de que tenha fiscalizado a empresa contratada, ônus que lhe incumbia. Por conseguinte, não há falar em inobservância do referido leading case” (págs. 9 do documento eletrônico 13).
+    Assim, em uma análise superficial, verifico que o Juízo trabalhista, aparentemente, não comprovou a culpa in vigilando imputada ao ente público, violando a autoridade do que decidido nos paradigmas elencados.
+    Outrossim, vislumbro risco de irreversibilidade dos atos que serão praticados por consequência do ato reclamado.
+    A meu ver, portanto, sem prejuízo de nova apreciação da matéria quando houver o julgamento definitivo desta reclamação, estão presentes o fumus boni juris e o periculum in mora .
+    Isso posto, defiro a liminar para suspender os efeitos da decisão reclamada até o julgamento do mérito da presente reclamação (art. 989, II, do CPC/2015).
+    Comunique-se, com urgência, transmitindo-se cópia desta decisão, ao TST e ao TRT15.
+    Requisitem-se informações, conforme o art. 989, I, do CPC/2015.
+    Cite-se a beneficiária (pág. 8 do documento eletrônico 1) para, querendo, contestar a reclamação no prazo de 15 dias (art. 989, III, do CPC/2015).
+    Publique-se.
+    Brasília, 30 de junho de 2021.
+Ministro Ricardo Lewandowski
+Relator
