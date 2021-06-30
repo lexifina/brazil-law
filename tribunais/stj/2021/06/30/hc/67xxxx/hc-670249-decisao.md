@@ -1,0 +1,28 @@
+DECISÃO
+CLAUDIO BARBOSA DA SILVA alega sofrer constrangimento ilegal diante de acórdão proferido peloTribunal de Justiça do Estado de São Paulona Apelação n. 1500152-66.2019.8.26.0047.
+Nestewrit, a defesa sustenta não haver fundamento idôneo a justificar a análise negativa das circunstâncias do crime nem a imposição do regime mais gravoso. Considera, também,ser recomendável a substituição da pena privativa de liberdade por restritiva de direitos.
+Requer a fixação da reprimenda básica no mínimo legal, o estabelecimento do regime aberto para cumprimento da pena e a substituição da reprimenda.
+A liminar foi indeferidaeo Ministério Público Federal opinou pelo não conhecimento do writ e, se conhecido, pela denegação da ordem.
+Decido.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal, e todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito oquantumde sanção a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+Assim, consoante entendimento deste Superior Tribunal, não se presta o remédio heroico à revisão da dosimetria das penas estabelecidas pelas instâncias ordinárias, exceto quando for manifesta a violação aos critérios dos arts. 59 e 68, ambos do Código Penal, sob o aspecto da ilegalidade ou, ainda, em caso de ausência ou deficiência da fundamentação. Nesse sentido:HC n. 147.925/DF, Rel. MinistroNefi Cordeiro, 6ª T., DJe 11/5/2015.
+Consta dos autos que o paciente foi condenado a 6 meses de detençãomais multa, bem como à suspensão da Carteira Nacional de Habilitação por 2 meses, por incursãono art. 306 da Lei n. 9.503/1997.
+Diferentemente do declarado pela defesa, a pena-base foi estabelecida em 1/6 acima do mínimo legal diante dos maus antecedentes do acusado. A sanção foi reduzida em função da atenuante da confissão espontânea e se concretizou em 6 meses de detenção.
+O Juízo de primeiro grau impôs o modo intermediário para início do cumprimento da reprimenda e negou a substituição da pena privativa de liberdade por restritiva de direitosante a existência de maus antecedentes.
+O apelo do réu foi parcialmente provido pela Corte de origem com o intuito de se adequar a pena de multa. Na ocasião, o referido Tribunal manteve o reconhecimento dos maus antecedentes, haja vista que o período depurador é relativo à reincidência. Quanto aos demais pleitos em comento, assentou (fl. 29):
+Fica mantido o regime prisional semiaberto para início de cumprimento de pena, vez que o acusado ostenta maus antecedentes, nos termos do artigo 33, § 3º, do Código Penal.
+Por fim, impossível a substituição da pena privativa de liberdade por restritivas de direitos, pois trata-se de condenado que ostenta maus antecedentes, o que não permite tal benesse, nos termos do artigo 44, inciso III, do Código Penal.
+Embora a defesa não haja acostado aos autos a folha de registros criminais do insurgente, a existência de condenação transitada em julgado em desfavor do réu enseja o incremento da sanção básica.
+A despeito das considerações do impetrante, o fato de havercircunstância judicial avaliada em prejuízo do acusadoautoriza a imposição do regime mais gravoso e a negativa da substituição da pena privativa de liberdade por restritiva de direito. Confiram-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EMBRIAGUEZ AO VOLANTE. ART. 306, § 1º, INCISO II, DO CÓDIGO DE TRÂNSITO BRASILEIRO. DOSIMETRIA.PENA-BASE. CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO VÁLIDA. PENA INFERIOR A 4 ANOS DE RECLUSÃO. REGIME SEMIABERTO E NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. AGRAVO IMPROVIDO.
+1. Na hipótese, as circunstâncias do delito foram consideradas desfavoráveis em razão das particularidades do caso, que desbordam as elementares do tipo penal, não havendo ilegalidade a ser reconhecida quanto ao ponto.
+2. Consoante entendimento deste Tribunal Superior, reconhecida a existência de circunstâncias judiciais desfavoráveis, correta a fixação do regime inicial mais gravoso - semiaberto -, bem como a negativa da substituição da pena privativa de liberdade por restritiva de direitos, nos termos dos arts. 33, § 3º, e 44, III, c/c o art. 59, todos do Código Penal.
+3. Agravo regimental improvido.
+(AgRg no HC n. 620.699/SC, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 27/11/2020)
+ ..
+2. É pacífica nesta Corte Superior a orientação segundo a qual a fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais dispostas no art. 59 do Código Penal - CP ou de outro dado concreto que demonstre a extrapolação da normalidade do tipo. No mesmo sentido, são os enunciados n. 440 da Súmula desta Corte e n. 718 e 719 da Súmula do STF.
+No caso dos autos, a pena-base foi fixada acima do mínimo legal em razão de serem consideradas desfavoráveis as circunstâncias judiciais da culpabilidade e das consequências do crime, o que justifica a segregação inicial em regime mais gravoso, no caso o semiaberto - pena de 3 anos e 6 meses de detenção -, consoante dispõe o art. 33, §§ 2º e 3º, do CP, bem como a vedação à substituição da pena por restritiva de direitos, conforme dispõe o art. 44, inc. III, do CP e de acordo com a jurisprudência desta Corte de Justiça.
+Habeas corpus não conhecido.
+(HC n. 434.422/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 15/6/2018)
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
