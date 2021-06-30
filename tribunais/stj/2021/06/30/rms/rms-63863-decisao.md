@@ -1,0 +1,31 @@
+DECISÃO
+ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA.SERVIDOR APOSENTADO. AGENTE FAZENDÁRIO. PROGRESSÃO NA CARREIRA. SÚMULA 283 DO STF.RECURSO ORDINÁRIO DESPROVIDO.
+1.  Trata-se  de  recurso  ordinário  em  Mandado  de  Segurança  interposto  por SILVIO BATISTA DOS SANTOS,  com  fundamento  no  art.  105,  inciso II,  alínea  b,  da  CF/1988,  contra  acórdão  proferido  pelo  egrégio  TJGO,  assim  ementado:
+EMENTA: MANDADO DE SEGURANÇA. ILEGITIMIDADE. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. PRELIMINARES AFASTADAS. SERVIDOR APOSENTADO. AGENTE FAZENDÁRIO. PROGRESSÃO NA CARREIRA. LEIS Nº 13.738/2000 E 19.569/2016. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO
+1 - O Secretário da Fazenda é parte legítima para figurar no polo passivo do mandamus, cujo objeto éo reposicionamento na carreira de Agente Fazendário, nos termos do art. 13 e art.22, da Lei nº 13.738/2000.
+2 -Encontrando nos autos toda a documentação necessária para o esclarecimento da questão, não há se falar em ausência de prova pré-constituída.
+3 - Para obter a progressão funcional na carreira de Agente Fazendário, deve o servidor público preencher os requisitos contidos nos §§1º e 5º, do art. 23-A, da Lei nº13.738/2000, acrescentado pela Lei nº 19.569/2016, e, principalmente, estar no exercício do cargo, conforme entendimento adotado pela jurisprudência, no sentido de que a progressão e a promoção funcionais são institutos aplicáveis exclusivamente aos servidores em atividade.
+4 - Inexistindo ofensa a direito líquido e certo, a denegação da segurança é medida que se impõe. Segurança denegada  (fls.  78).
+2. Os embargos de declaração opostos foram rejeitados (fls. 117/118).
+3. Nas razões do seu recurso (fls. 147/155), a parte recorrente sustenta que (a)os inativos podem mudar de classe e nível, ainda que aposentados ou pensionistas; (b)não se trata de progressão ou promoção.Mas de mera adequação do cargo em que se deu a aposentadoria para as atualizações legislativas cujas vantagens remuneratórias legítimas e de caráter geral foram conferidas a determinada carreira. Nesses casos, a extensão alcança os servidores que tenham ingressado no serviço público antes da publicação das ECs 20/1998 e 41/2003 e se aposentado ou adquirido o direito à aposentadoria antes da EC 41/2003 (fls. 152).
+4. O Ministério Público Federal, em parecer, opinou pelo restituição dos autos sem análise do mérito da controvérsia.
+5.  É  o  relatório.
+6. A irresignação não merece prosperar.
+7. Trata-se de Mandado de Segurança, no quala parte alega ser servidor público aposentado no cargo de Agente Fazendário II, Nível 6, do Quadro de Apoio Fiscal Fazendário da Secretaria da Fazenda do Estado de Goiás, desde 24/07/1990, possuindo direito adquirido à paridade com os ativos, conforme orientação do Supremo Tribunal Federal.
+8. O Tribunal de origem denegou a segurança, sob o fundamento de que,para a progressão funcional, deve o servidor preencher os requisitose, acima de tudo, estar no exercício do cargo, consoante entendimento adotado pela jurisprudência, no sentido de que a progressão e a promoção funcionais são institutos aplicáveis exclusivamente aos servidores em atividade, conforme extrai-se dos seguintes excertos do acórdão recorrido:
+Pois bem. Nos termos do art. 23-A, da Lei13.738/2000, acrescentado pela Lei 19.569/2016, a progressão funcional é a passagem do servidor fazendário do padrão a que pertence para o imediatamente superior dentro da uma mesma classe.
+Note-se que os §§ 1o. e 5o. do mencionado dispositivo contemplam duas regras para a progressão, quais sejam, a automática, direcionada aos servidores que completarem o transcurso de 730 (setecentos e trinta) dias de efetivo exercício da Secretaria da Fazenda, e a regra que abarca os servidores que optaram pela Lei 19.569/2016 e que possuíam mais de 30 (trinta) anos de serviço público estadual.
+Assim, para obter a progressão funcional, deve o servidor preencher os requisitos supramencionados e, acima de tudo, estar no exercício do cargo, consoante entendimento adotado pela jurisprudência, no sentido de que a progressão e a promoção funcionais são institutos aplicáveis exclusivamente aos servidores em atividade.
+(..).
+Logo, inexiste afronta a direito líquido e certo do impetrante, uma vez que posicionamento de servidores ativos em outro nível da carreira não alcança os aposentados(fls. 76/77).
+9. Verifica-se que o argumento trazido pelo Tribunal de origem, autônomo e suficiente à manutenção do aresto recorrido, não foi impugnado nas razões do Recurso Ordinário, permanecendo, portanto, incólume. Dessa forma, aplicável, na espécie, por analogia, a Súmula 283/STF. Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ACÓRDÃO RECORRIDO. FUNDAMENTO NÃO IMPUGNADO. APLICABILIDADE DA SÚMULA 283/STF.
+1. A jurisprudência do STJ é pacífica quanto à aplicabilidade da Súmula 283/STF nos julgamentos de Recursos Ordinários em Mandado de Segurança.
+2. Hipótese na qual o Tribunal a quo denegou a Segurança, por entender que a verba controvertida possui natureza de gratificação de caráter temporário e que a incorporação desse tipo de parcela remuneratória aos proventos de aposentadoria passou a ser vedada pelo art. 7o. da LC Estadual 64/2002.
+3. Por seu turno, o recorrente não combateu especificamente o fundamento autônomo relativo ao art. 7º da LC 64/2002, o que atrai o incidência da Súmula 283/STF, aplicável por analogia: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+4. Agravo Regimental não provido (AgRg no RMS 45.594/MG, Rel. Min. HERMAN BENJAMIN, DJe 20.3.2015).
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. FUNDAMENTO AUTÔNOMO E SUFICIENTE NÃO ATACADO. INCIDÊNCIA ANALÓGICA DO VERBETE SUMULAR 283/STF. RECURSO NÃO PROVIDO.
+1. Nos termos do enunciado sumular 283/STF, de aplicação analógica ao recurso ordinário, deve o recorrente impugnar especificamente todos os fundamentos do pronunciamento judicial que pretende reverter, sob pena de, não o fazendo, vê-lo mantido.
+2. Recurso ordinário não provido (RMS 37.941/SP, Rel. Min. ARNALDO ESTEVES LIMA, DJe 4.2.2013).
+10. Ante o exposto, nega-se provimento ao Recurso Ordinário do servidor.
+11. Publique-se. Intimações necessárias.
