@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de RODRIGO FERREIRA MEMORIA contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, proferido no julgamento do Agravo em Execução n. 0748021-96.2020.8.07.0000,ementado nos seguintes termos:
+"EXECUÇÃO PENAL. RECURSO DE AGRAVO. PRETENSÃO DEFENSIVA DE APLICAÇÃO RETROATIVA DA LEI N. 13.964/2019. REJEIÇÃO. REINCIDÊNCIA. CONDIÇÃO PESSOAL DO ACUSADO. IRRADIAÇÃO DOS EFEITOS PARA TODAS AS EXECUÇÕES PENAIS EM CURSO APÓS A UNIFICAÇÃO. RECURSO CONHECIDO E DESPROVIDO.
+1. Conforme entendimento jurisprudencial, após a unificação das penas, a condição de reincidente, por ser uma condição pessoal do apenado, se alastra para a totalidade da pena a ser por ele cumprida.
+2. Recurso conhecido e desprovido."
+Na presente impetração, a defesa sustenta que "a conclusão de que a avaliação do pleito de aplicação retroativa da Lei 13.964/2019 deve se dar individualmente às execuções em curso, considerando-se a reincidência (verificada ou não) à época da formação do título condenatório".
+Aduz que, superado o entendimento de que areincidênciaconfigura condição pessoal do apenado, especialmente em razão das alterações promovidas pela Lei n. 13.964/2019, negar ao recorrido a retroatividade da Lei n. 13.964/2019 se consubstancia em um patente constrangimento ilegal, dado que o percentual por ela estabelecido é inferior à fração exigida sob a perspectiva dareincidênciacomo condição pessoal do apenado.
+Requer, assim, a concessão de ordem de habeas corpus, a fim de que seja cassado o acórdão atacado e determinada a aplicação retroativa da Lei nº 13.964/2019,individualmente às execuções em curso, considerando-se a reincidência (verificada ou não) à época da formação do título condenatório.
+Parecer ministerial de fls. 670/677pela denegação da ordem.
+É o relatório. Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida. Porém, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+Ao que se tem o TJDFT manteve o indeferimento da aplicação retroativa da Lei n. 13.964/2019 (Pacote Anticrime) na execução penal do ora paciente escorado na orientação jurisprudencial desteSuperior Tribunal de Justiça, no sentido de que areincidência,por se tratar de condição pessoal, acompanha o apenado durante toda a execução da pena, não se limitando apenas no processo de fixação de pena pelo magistrado sentenciante. Deve, pois, no advento da unificação de penas,a reincidênciadeve ser observada sobre a totalidade daspenas,sendo incabível a aplicação de percentuais diferentes para cada condenação.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. BENEFÍCIOS PRISIONAIS. REINCIDÊNCIA. UNIFICAÇÃO DE PENAS. FRAÇÕES DIFERENCIADAS. IMPOSSIBILIDADE. CONDIÇÃO PESSOAL DO ORA AGRAVANTE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É firme a jurisprudência desta Corte Superior de Justiça, no sentido de que a "condição de reincidente, uma vez adquirida pelo sentenciado, estende-se sobre a totalidade das penas somadas, não se justificando a consideração isolada de cada condenação e tampouco a aplicação de percentuais diferentes para cada uma das reprimendas" (HC 307.889/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 10/9/2015.
+2. Agravo regimental desprovido."(AgRg no HC n. 476.422/MG, da minha relatoria, Quinta Turma, DJe 8/3/2019).
+Mais recentes são os seguintes precedentes: HC 675.251/DF, relator MinistroSEBASTIÃO REIS JUNIOR, DJe 24/06/2021 eHC 673.596/DF, relator Ministro ROGERIO SCHIETTI, DJe 24/06/2021.
+Nessa ordem de ideias, no caso concreto, o paciente, consoante consta do aresto hostilizado, é reincidente específico na prática de crimes hediondos ou equiparados, pelo que inviável a aplicação do percentual equivalente ao que é previsto para o primário - 40% para fins de progressão.
+Dessa forma, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Diante do exposto, não conheço da impetração.
+Publique-se.
