@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de agravo interposto por SYLVIA MARIA MOREIRA FERREIRA DA GAMA contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"APELAÇÃO CÍVEL. INDENIZATÓRIA PROPOSTA EM FACE DE HOSPITAL PARTICULAR E LABORATÓRIO. CONSUMIDOR. EXAME DE IMAGEM E HISTOPATOLÓGICO. ALEGAÇÃO DE ERRO DE DIAGNOSTICO. INOCORRÊNCIA.
+1. Cuida-se de ação indenizatória, na qual a autora pretende indenização por dano moral e material, em virtude de alegado erro de diagnóstico.
+2. Responsabilidade civil para o prestador do serviço prevista no artigo 14 do Código de Defesa do Consumidor, no caso o hospital, limita-se aos serviços relacionados ao estabelecimento empresarial, tais como a estadia do paciente (internação e alimentação), as instalações, os equipamentos e os serviços auxiliares (enfermagem, exames, radiologia), cujo defeito independe da atuação, cautelosa ou não, do profissional.
+3. Os laboratórios, na prestação de serviço de exames médicos, possuem obrigação de resultado, a implicar sua responsabilidade objetiva em caso de diagnóstico incorreto. O erro de diagnóstico configura falha na prestação do serviço, nos termos do art. 14 do CDC, apto a caracterizar a responsabilidade do laboratório.
+4. Na hipótese, a autora recebeu diagnóstico de inicial foi de "Glioma de baixo grau (oligodendroglioma grau II da OMS)", sendo a modificação de diagnostico clínico para encefalomielite aguda desmielinizante, ADEM), com base no novo laudo histopatológico, ensejou a propositura da presente demanda.
+5. Realização de duas perícias, sendo aquela realizada pelo médico anatomopatologista complementar ao laudo confeccionado pelo expert de confiança do juízo, que foram categóricos em afirmar que não houve erro de diagnóstico.
+6. As informações clínicas e dos exames de imagem, anteriores à biopsia, indicaram tratar-se de uma lesão expansiva frontoparietal de característica tumoral, o que, diante dos achados histopatológicos, sugeriu o diagnóstico de oligodendroalioma de baixo grau, ou seja, diagnóstico plenamente compatível com os dados clínicos conhecidos na época do primeiro diagnóstico.
+7. O primeiro diagnóstico foi dado diante das imagens, em conjunto com a análise histopatológicas e dados clínicos existentes à época, certo que a lesão da autora teve uma apresentação incomum, tendo os réus atuado conforme os protocolos que regulam a prática médica em caso como o dos autos.
+8. Não obstante a modificação do diagnóstico clínico da paciente, não há que se falar em erro de diagnóstico, ou erro/falha/omissão nos procedimentos adotados, nem mesmo em eventual culpa - em sentido amplo - dos prepostos dos réus.
+9. Ausente um dos requisitos caracterizadores da responsabilidade civil (defeito no serviço), não há que se falar em dever de indenizar pelos réus.
+10. Honorários sucumbenciais arbitrados em observância à lei, e no mínimo legal, valendo destacar o considerável período de trâmite do feito (quase 12 anos), a importância da causa, inclusive com realização de duas perícias, o trabalho e tempo exigidos pelos patronos.
+11. Sentença mantida.
+12. Desprovimento do recurso" (fls. 1.179/1.181, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 1.271/1.276, e-STJ).
+No especial, a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 1.022, II, do Código de Processo Civil de 2015 e 14 do Código de Defesa do Consumidor, argumentando, em síntese: (i) haver omissão no acórdão quanto à ciência prévia dos recorridos de que a recorrente é portadora de doença de crohn, dado clínico indispensável para a correção do diagnóstico, que não foi considerado pelos peritos; e (ii) que houve defeito na prestação do serviço em virtude de a recorrente ter sido erroneamente diagnosticada com câncer e encaminhada a radioterapia.
+Apresentadas contrarrazões às fls. 1.382/1.408 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+A modificação do diagnóstico clínico da paciente (de glioma de baixo grau para encefalomielite aguda desmielinizante, ADEM), com base no novo laudo histopatológico, ensejou a propositura da presente demanda, com fundamento em erro de diagnóstico.
+Na presente hipótese, fora deferida realização de prova pericial, que culminou na elaboração de dois laudos, um subscrito por médico anatomopatologista e o outro pelo expert indicado pelo juízo, aptos a formarem a convicção desta magistrada, e que foram categóricos em afirmar que não houve erro de diagnóstico.
+(..)
+Observou o especialista que os diagnósticos patológicos foram realizados em conformidade com os demais achados semiológicos, esclarecendo, ainda, que o exame histopatológico é considerado um "exame complementar, pois sua realização e resultado sempre derivam de estudos clínicos, laboratoriais (Análises Clínicas: exames de sangue, urina, etc.) ou de imagem (Radiologia, Ultrassonografia, Ressonância, etc.) anteriores e, necessariamente, de uma hipótese (uma ou mais) diagnóstica clínica prévia".
+Indagado se o procedimento adotado pelo laboratório na análise histopatológica foi o correto, respondeu que, se o procedimento a que se refere a parte autora é a realização do exame histopatológico e seu diagnóstico, a resposta é positiva
+(..)
+No que tange aos quesitos formulados pelo juízo, afirmou que, à vista dos sintomas apresentados pela autora, os exames foram adequados, bem como que o tratamento sugerido e aplicado à autora, em face do diagnóstico estava correto.
+Esclareceu, ainda, que não seria de praxe requerer um segundo exame para confirmar diagnóstico, tendo o hospital atuado conforme os protocolos que regulam a prática médica em caso como o dos autos, e que é possível a regressão de lesão, de forma que alguns tumores regridem sem cirurgia, afirmando que "existem alguns tumores que podem regredir mediante ao uso de corticoide, são chamados de Ghost Tumors, e alguns deles estão ligados a certas doenças infecciosas também" (fls. 755).
+O expert deixou claro, ademais, que não houve divergência de conduta entre os médicos que atenderam a autora, certo que a conduta do Dr. Paulo Niemeyer Filho foi de aguardar a evolução para indicar radioterapia.
+Respondeu que a evolução e comportamento de uma massa tumoral pode influir no diagnóstico final sugerindo alternativas de pesquisa histológica, assim como o comportamento inesperado de uma massa tumoral pode sugerir mudança de critério de avaliação histopatológica.
+Concluiu, portanto, que não houve em toda esta prestação de Serviço Médico nenhuma evidência que desabone a conduta preconizada pelo Réu 1 e 2.
+Cabe destacar que o Dr. Paulo Niemeyer, de pronto, não descartou a lesão tumoral, apenas desaconselhou a radioterapia naquele momento, manteve a medicação dada pelo preposto do réu, e indicou nova avaliação dentro de um determinado tempo, com exames de imagem, e somente quando retornou foi verificado que a lesão havia regredido, o que ensejou a revisão das laminas, à luz de novas informações clínicas.
+De acordo com o especialista, "as informações clínicas e dos exames de imagem, anteriores à biopsia, indicaram tratar-se de uma lesão expansiva frontoparietal de característica tumoral, o que, diante dos achados histopatológicos, sugeriu o diagnóstico de oligodendroalioma de baixo grau" (fls. 593).
+Destarte, de acordo com a perícia realizada, a neoplasia de oligodendrócitos era diagnóstico plenamente compatível com os dados clínicos conhecidos na época do primeiro diagnóstico.
+Quanto a estes, cabe consignar, por oportuno, que não há nos autos nenhuma informação sobre doença de Cronh nos documentos médicos adunados ao feito, consoante constatado pela perícia, apenas histórico de tabagismo, fibromialgia, depressão e gastrite crônica.
+Nota-se, quanto à utilização do método de "luxol fast blue", que o perito especialista esclareceu que não estão habitualmente disponíveis na maioria dos laboratórios, e sua utilização, naquele primeiro momento, não se mostrava necessária, tendo o procedimento de exame das lâminas seguido a rotina, sendo, pois, adequado o procedimento do exame histopatológico, destacando, ainda, que não se pode fazer diagnostico diferencial de uma doença que não se suspeita.
+(..)
+Portanto, não obstante a modificação do diagnóstico clínico da paciente, não há que se falar em erro de diagnóstico, ou erro/falha/omissão nos procedimentos adotados, nem mesmo em eventual culpa - em sentido amplo - dos prepostos dos réus.
+Isto porque, como visto, à exaustão, o primeiro diagnóstico foi dado diante das imagens, em conjunto com a análise histopatológicas e dados clínicos existentes à época, certo que a lesão da autora teve uma apresentação incomum, tendo os réus atuado conforme os protocolos que regulam a prática médica em caso como o dos autos.
+Registre-se inexistirem quaisquer outros elementos aptos a afastarem os laudos periciais subscritos por especialistas, realizados sob o crivo do contraditório.
+(..)
+Em que pese a responsabilidade ser objetiva, não se exime a parte autora da prova do fato constitutivo do seu direito, ou seja, o defeito no serviço, os danos e o nexo causal entre aqueles. Logo, ausente um dos requisitos caracterizadores da responsabilidade civil (defeito no serviço), não há que se falar em dever de indenizar pelos réus" (fls. 1.191/1.198, e-STJ - grifou-se).
+De início, no tocante à violação do art. 1.022, II, do Código de Processo Civil de 2015, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Quanto ao mérito, diante das premissas fáticas estabelecidas no acórdão, a reforma do aresto demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PRESTAÇÃO DE SERVIÇOS LABORATORIAIS. ALEGADO ERRO NO DIAGNÓSTICO. DANOS MORAIS. SUPOSTA AFRONTA AOS ARTIGOS 3º, 4º, 6º, 14, 22, 39, 47 E 51, DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282/STF. AUSÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO. DANOS MORAIS NÃO CONFIGURADOS. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As matérias referentes aos arts. 3º, 4º, 6º, 14, 22, 39, 47 e 51, do CDC não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula n. 282/STF).
+2. Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. O acolhimento da pretensão recursal, a fim de verificar a alegada ocorrência de danos morais, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ, e impede o conhecimento do recurso por ambas as alíneas do dispositivo constitucional.
+4. Agravo interno não provido" (AgInt no AREsp 1.592.677/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/08/2020, DJe 26/08/2020).
+"CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS, MATERIAIS E ESTÉTICOS. IMPROCEDÊNCIA. ALEGAÇÃO DE ERRO EM DIAGNÓSTICO QUE RESULTOU EM PROCEDIMENTO CIRÚRGICO DIVERSO. CONJUNTO PROBATÓRIO QUE AFASTA A ALEGADA MÁ PRESTAÇÃO DO SERVIÇO. REFORMA DO JULGADO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.
+1. O Tribunal local, com base no acervo fático-probatório dos autos, houve por bem manter a sentença que reconheceu a inexistência de ato ilícito sujeito à indenização por danos morais, materiais e/ou estéticos. A reforma de tal entendimento se mostra inviável, em razão do óbice contido na Súmula nº 7 desta Corte.
+2. Decisão mantida por seus próprios fundamentos.
+3. Agravo regimental não provido" (AgRg no AgRg no AREsp 663.707/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 28/04/2015, DJe 12/05/2015).
+Por fim, consoante iterativa jurisprudência desta Corte, a necessidade de reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. DANOS MORAIS NÃO CONFIGURADOS. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+(..)
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo interno não provido" (AgInt no REsp 1.889.218/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários advocatícios foram fixados em 11% (doze por cento) sobre o valor atualizado da causa, os quais devem ser majorados para 15% (quinze por cento) em favor do advogado dos recorridos, observada a assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
