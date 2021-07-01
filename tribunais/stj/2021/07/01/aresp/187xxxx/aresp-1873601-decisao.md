@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por KATIA MARIA PINTO DINIZ PEREIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL PROCESSO CIVIL EXCEÇÃO DE CONTRATO NÃO CUMPRIDO ARGUIDA POR AMBAS AS PARTES TRÍPLICE IDENTIDADE ENTRE OS ELEMENTOS DE AMBAS AS DEMANDAS LITISPENDÊNCIA DESPROVIMENTO DO RECURSO 1 AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE SOB O FUNDAMENTO DE INADIMPLÊNCIA DA PARTE ADVERSA 2 SENTENÇA QUE JULGOU O FEITO EXTINTO COM RESOLUÇÃO DO MÉRITO NA FORMA DO ARTIGO 485 V DO CPC 3 TRÍPLICE IDENTIDADE ENTRE OS ELEMENTOS DAS DEMANDAS 4 IMPOSITIVA MANUTENÇÃO DA SENTENÇA QUE RECONHECEU A EXISTÊNCIA DE LITISPENDÊNCIA 5 DESPROVIMENTO DO RECURSO
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 55, § 1º, 58 e 337, §1º, 2º e 3º do CPC, no que concerne à inocorrência de litispendência, trazendo os seguintes argumentos:
+21. Isto porque, repita-se, em que pese tratarem-se das mesmas partes e o mesmo objeto, ou seja, imóvel, o pedido das ações em comento é diverso, visto que a presente pretende a rescisão do contrato com a reintegração de posse e a outra uma obrigação de fazer, consistente no desmembramento do terreno.
+22. Sendo assim, não é o caso de extinção por litispendência, eis que não há repetição de ações (§1º e 3º, do art. 337, do CPC), nem de pedidos (§2º, do art. 337, do CPC), muito menos de condenação em honorários de sucumbência.
+23. Há, no máximo, hipótese de conexão entre as ações, o que ensejaria o declínio de competência à 7ª Vara Cível Regional da Barra da Tijuca.
+24. Tal situação configura, sem sombra de dúvida, a violação aos dispositivos legais prequestionados.
+25. Salta aos olhos, portanto, a necessidade de revisão da decisão recorrida, diante da flagrante violação ao texto da Lei (fls. 591/592).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No cotejo do material probatório apresentado, depreende-se que as ações possuem as mesmas partes e a causa de pedir consiste no cumprimento dos termos do instrumento particular ajustado.
+Ora, ambas as partes arguem a tese de exceção de contrato não cumprido e imputam mutuamente a culpa pela não execução do ajuste.
+Resta evidenciada, portanto, a tríplice identidade entre os elementos da presente demanda e da anteriormente ajuizada pela ré, o que resulta no reconhecimento da litispendência, bem como da prevenção do juízo em que a primeira ação fora distribuída (fl. 566).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
