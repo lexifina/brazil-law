@@ -1,0 +1,28 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por SÃO RAFAEL ADMINISTRAÇÃO E LOCAÇÃO DE BENS S.Acontra decisão do Tribunal de Justiça do Estado de São Pauloque não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, fl. 212):
+LOCAÇÃO DE IMÓVEL - Acolhimento de ação proposta para cobrança de aluguéis e acessórios - Insurgência de caucionante contra a sua condenação solidária - Ilegitimidade passiva que se evidencia - Contrato de locação que previa dupla garantia (caução em imóvel e fiança ), estipulação defesa no art. 37, parágrafo único, da Lei do Inquilinato - Nulidade da segunda estipulação - Prevalecimento da garantia de caução, ainda que não averbada no registro imobiliário - Impossibilidade jurídica de se admitir exoneração desta garantia, por simples comunicação verbal - Preliminar de cerceamento de defesa afastada Recurso provido, para afastar os caucionantes da condenação solidária, feita observação.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: arts. 336 e 342 do CPC.
+Sustenta pela impossibilidade de inovação quanto asquestões arguidas após a apresentação da contestação, pois isso resultaria em supressão de instâncias.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, registro que o acórdão recorrido foi publicado já sob avigência da Lei 13.105/2015, razão por que o juízo de admissibilidade érealizado na forma deste novo édito, conforme Enunciado Administrativo nº3/STJ.
+Extrai-se do acórdão recorrido que "no caso, não houve inovação em sede de apelação, mas sim o provimento do recurso por ótica diferenciada, não tendo que se falar em violação aos diversos dispositivos citados. A prevalência de uma única garantia, com a declaração de nulidade de outra, era matéria expressamente regulada pela Lei do Inquilinato" - fl. 226.
+Assim, para rever o entendimento esposado pela Corte local e entender, como quer a parte recorrente, que houve inovação recursal no julgamento da apelação demandaria o revolvimento do acervo fático-probatórios dos autos, o que encontra óbice na Súmula 7/STJ.
+Nesse sentido:
+CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO ANULATÓRIA. OCORRÊNCIA DE INOVAÇÃO RECURSAL NA APELAÇÃO. IMPOSSIBILIDADE DE AFERIÇÃO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. INAFASTÁVEL A INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.PRETENSÃO DE ANULAÇÃO DE VENDA ENTRE ASCENDENTE E DESCENDENTE. ART.496 DO CC/02. NEGÓCIO JURÍDICO ANULÁVEL. TERMO INICIAL, A CONCLUSÃO DO ATO. PRECEDENTES. APLICAÇÃO DA SÚMULA Nº 568 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração da conclusão do acórdão recorrido, de que a petição inicial se fundamentou na pretensão anulatória do art. 496 do CC/02 e sem mencionar a prática de simulação ou do uso de interposta pessoa, exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. A jurisprudência desta eg. Corte Superior já proclamou que a natureza do vício da venda direta de ascendente a descendente sem o consentimento dos demais descendentes é de hipótese de anulabilidade do ato jurídico e não de nulidade de pleno direito e o prazo para o exercício da ação anulatória é de 2 (dois) anos, a contar da conclusão do ato. Precedentes. Incidência da Súmula nº 568 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no REsp 1707751/MT, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/08/2020, DJe 26/08/2020)
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que o Tribunal de origem fixou a verba honorária em 10% sobre o valor da causa(e-STJ fl. 215), em benefício do patrono da parte recorrida, a majoração dos honorários devidos pela parte ora recorrente para 12% sobre o valor da causa é medida adequada ao caso, observada a eventual anterior concessão da gratuidade judiciária.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, com majoração de honorários.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. COBRANÇA DE ALUGUÉIS CUMULADO COM DESPEJO.OCORRÊNCIA DE INOVAÇÃO RECURSAL NA APELAÇÃO. IMPOSSIBILIDADE DE AFERIÇÃO EM RECURSO ESPECIAL. NECESSIDADE DE REEXAME DE FATOS E PROVAS.SÚMULA Nº 7 DO STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO.
