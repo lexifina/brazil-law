@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por NOVA LINDÓIA HOTÉIS E TURISMO S/A, à decisão de fls. 373/374, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Conforme verifica-se no presente Agravo, foi DEVIDAMENTE juntada procuração e substabelecimento atualizados com os nomes dos procuradores, principalmente o de Gláucia Guimarães Corrêa-OAB/SP 254.304, qual está CLARAMENTE constituída e representada através dos devidos instrumentos, inclusive com assinatura válida da outorgante na procuração e do Dr. Fabio Forti no substabelecimento, nas fls. (367/370): (fl. 376).
+ ..
+Ocorre que, o r. aresto prolatado por esse Douto Tribunal foi, s.m.j., totalmente OMISSO E CONTRADITÓRIO, o que trouxe sérios prejuízos à Agravante, pois:
+OMITIU a) deixando de apreciar de forma extremamente nítida, a clara juntada de procuração e substabelecimentos, informando em seu esclarecimento que: "a parte recorrente não procedeu à juntada da procuração e ou substabelecimento conferindo poderes à subscritora, Dra. Gláucia Guimarães Corrêa e que mesmo intimada não regularizou a juntada: (fl. 378).
+ ..
+A Agravante juntou sim documentos regulatórios de procuração e substabelecimento com o nome De Gláucia Guimarães Corrêa e assinatura válida da agravante normalmente, conforme claramente constatados nas fls. (367/370) e relatado acima.
+Portanto, nitidamente omissa a não análise por este juízo da devida juntada de procuração e substabelecimento, devendo tal vício de omissão ser sanado, pois trata-se de equívoco grave!
+DA CONTRADIÇÃO O juízo além de informar em seu v. aresto de forma equivocada que a Agravante não juntou a procuração, ainda CONTRADIZ, INFORMANDO QUE OCORREU SIM A JUNTADA DA PROCURAÇÃO INCLUSIVE CITANDO-A ESTAR NAS FLS. 368, MAS, RELATANDO QUE A MESMA NÃO POSSUI PODERES PARA OS OUTORGADOS PELA OUTORGANTE! UM ABSURDO! VEJA: (fl. 379).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes à subscritora do agravo e do recurso especial, Dra. Glaucia Guimarães Corrêa.
+Entretanto, o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo codex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Dessa forma, nos termos do art. 76, c/c o art. 932, parágrafo único, ambos do Código de Processo Civil, foi intimada a parte recorrente para regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, uma vez que a parte juntou procuração (fl. 368), onde não é possível identificar o outorgante que a assina e se ele realmente possui poderes para representar a pessoa jurídica NOVA LINDÓIA HOTÉIS E TURISMO S/A.
+Registre-se que, no caso, sendo a agravante pessoa jurídica, ente evidentemente abstrato, se faz representar por pessoas físicas que compõem seus quadros dirigentes, conforme previsão do art. 75, VIII do CPC.
+Veja-se que não se desconhece da procuração juntada à fl. 368. No entanto, a mesma não pode ser aceita para o fim de regularizar a representação processual em razão de haver irregularidade, no sentido de não constar o nome do representante da pessoa jurídica recorrente, conforme fundamentação exposta acima.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se,
