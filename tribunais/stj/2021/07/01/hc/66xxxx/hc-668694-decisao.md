@@ -1,0 +1,35 @@
+DECISÃO
+MAIKON DOS SANTOS BELTRAMOalega sofrer constrangimento ilegal no seu direito alocomoçãoem decorrência de acórdão do Tribunal de Justiça do Estado de São Paulono HC n. 2041869-74.2021.8.26.0000.
+O paciente foi presoem flagrante, em 27/2/2021, por suposta prática do delito doart. 33da Lei n. 11.343/2006. A custódia foi convolada em prisão preventiva pelo Juízo da Comarca de Ourinhos- SP.
+O impetrante indica aausência dos requisitos necessários à decretação da custódia, bem como de fundamentação idônea. Aduz"inexistirem quaisquer provas contundentes sobre a autoria do crime supostamente cometido pelo Paciente" (fl. 5).
+Pleiteia a revogação do decreto prisionalou asua substituição por medidas cautelares diversas.
+O Ministério Público Federal, em parecer do Subprocurador-Geral da República Roberto dos Santos Ferreira, às fls. 214-219, opinou pelo não conhecimento do habeas corpus.
+Decido.
+I. Contextualização
+Conforme já relatado, opaciente foipreso em flagrante, em 27/2/2021, por suposta prática do delito do art. 33 da Lei n. 11.343/2006, consoante os fundamentos a seguir explicitados(fls. 112-113,grifei):
+ ..
+No caso dos autos, estão presentes os requisitos do artigo 312, caput, do CPP, para a prisão preventiva.
+Há prova da existência do delito e indícios suficientes de autoria, conforme se verifica nos depoimentos dos policiais militares.
+O policial militar Carlos Alexandre Cornélio disse ter recebidos denúncias anônimas de que o indiciado HARRITON JÚNIO DE OLIVEIRA CAMILO iria buscar drogas com MAIKON DOS SANTOS BELTRAMO, no bar de propriedade deste denominado "bar do maikon". Informa, ainda, que há várias denúncias de que Maikon praticava traficância, mas em diligências nunca lograram êxito em localizar droga no local.
+Assim sendo, em operação policial, posicionaram policiais à paisana perto da residência de Harriton e em frente ao bar. Assim, na data de 27/02/2021, o policial FERNANDO DO NASCIMENTO OLIVEIRA viu Harriton adentrar ao bar, conversar com Maikon e obter dele uma sacola plástica que foi colada em sua pochete. Ao sair do bar, o policial Carlos Alexandre perseguiu o indiciado Harriton que obteve êxito em ingressar em sua residência e tentou fugir pelo telhado vizinho, mas acabou caindo e jogando a sacola plástica dentro da residência do vizinho. Em diligência os policiais localizaram a sacola, em que continha 200 gramas de cocaína. Na residência de HARRITON JÚNIO DE OLIVEIRA CAMILO foi localizado ainda R$ 1.860,00 e sacos ziplocks. No bar do Maikon foi localizado uma balança de precisão, R$ 1.795,00 e uma maquininha que supostamente seria utilizada para o jogo de bicho.
+O indiciado HARRITON JÚNIO DE OLIVEIRA CAMILO reconhece a posse da droga, mas nega ter obtido o produto no bar do Maikon. Informou que foi buscar a droga em um terreno.
+O indiciado MAIKON DOS SANTOS BELTRAMO também nega a traficância. Revela já ter sido preso em 2010, mas parou com a atividade ilícita e que hoje possui o bar para sustentar sua família e seus dois filhos menores.
+Ambos os acusados apresentam antecedentes criminais justamente pela prática do tráfico de entorpecentes e, não obstante as negativas declinadas pelos acusados, a diligência policial levada a efeito deu conta da prática da traficância por ambos os acusados.
+Tendo a vista a gravidade do crime ora imputado aos acusados, com bem delineado no parecer exarado pelo Digno Representante do MP, necessária a conversão da prisão em flagrante em preventiva vez que presentes os motivos determinantes para a custódia cautelar do acusado diante do enorme mal social causado em decorrência da distribuição de drogas ilícitas, somado aos crimes violentos ligados ao tráfico de entorpecentes, devendo prevalecer a garantia da ordem pública e social na análise de delitos tal como o constante dos autos.
+II. Preventiva - fundamentação concreta
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Em que pese a conduta imputada não haver sido praticada mediante violência e grave ameaça, o acórdão impugnadofez referência à gravidade do ilícitoem razão especialmente da quantidade de drogaapreendida(200 g de cocaína).
+Destacou ainda o histórico delitivo do acusado - condenação definitiva pelo crime de tráfico de entorpecentes-como indícioda habitualidade criminal. Essassãoevidências concretas do periculum libertatis e justificam, de forma idônea, a custódia preventiva doinvestigadopara a garantia da ordem pública.
+Oportuno colacionar:
+ ..
+2. A decisão que decretou a custódia preventiva destacou a quantidade de droga apreendida - 276 eppendorfs de cocaína (461 g) - e indícios de habitualidade delitiva (relatos de traficância via disque-denúncia). Tais circunstâncias evidenciam o periculum libertatis e inviabilizam a substituição da custódia por medidas cautelares diversas.
+3. Ordem denegada(HC n. 493.390/SP, Rel. Ministro Rogerio Schietti, 6ª T.,DJe 6/6/2019).
+ ..
+1. No caso, a prisão cautelar foi imposta em razão das circunstâncias em que se deu a prisão (apreensão de 151,80 g de maconha, valores em dinheiro, balança de precisão, munição calibre .32 e uma televisão objeto de furto, isso durante cumprimento de mandado de busca e apreensão determinado em outro processo). O Magistrado também invocou o risco concreto de reiteração delitiva, pois o paciente, apesar de possuir apenas 20 anos de idade, ostenta condenação pelo crime de roubo majorado tentado e responde a outras ações penais. Considerado, portanto, o histórico delitivo, é inequívoco, o risco de que, solto, perpetre novas condutas ilícitas ..
+4. Ordem denegada (HC n. 592.578/RS, Rel. Ministro Sebastião Reis Júnior, 6ª T.,DJe 9/10/2020, destaquei).
+Portanto, são suficientes os motivos invocados na instância de origem e chancelados pelo Tribunal a quo a fim de embasar a ordem de prisão doora paciente, pois foram contextualizados, em dados concretos dos autos, conforme os vetores contidos no art. 312 do Código de Processo Penal.
+A gravidade concreta da conduta praticada e aevidência de envolvimento aprofundado na prática de ilícitos, entre eleso tráfico, indicam que as medidas cautelares alternativas à prisão não se mostram adequadas e bastantes para acautelamento da ordem pública.
+Por fim, importante ressaltar que é inviável, no âmbito do habeas corpus, a alegada fragilidade da prova no tocante à autoria delitiva. Identifico haver indícios suficientes a autorizar a medida cautelar. A cognição definitiva é competência do Juízo de primeira instância ao final dainstrução processual.
+III. Dispositivo
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
