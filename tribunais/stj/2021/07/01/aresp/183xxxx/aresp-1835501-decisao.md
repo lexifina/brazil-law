@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto pela União, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+PREVIDENCIÁRIO. REVISÃO. CPTM. LEGITIMIDADE. COMPLEMENTAÇÃO. EX-FERROVIÁRIO. DECRETO-LEI  4.682/23. DECRETO-LEI N.º 956/69. LEI  10.478/2002. DEVIDO. JUROS DE MORA. CORREÇÃO MONETÁRIA.
+1. Companhia Paulista de Trens Metropolitanos CPTM, por ser subsidiária da RFFSA e a última empregadora do requerente, deve permanecer no polo passivo da demanda.
+2. A complementação da aposentadoria do ex-ferroviário (diferença entre o valor da aposentadoria paga pelo INSS e a remuneração do cargo correspondente ao do pessoal em atividade na RFFSA), por meio do Decreto-Lei nº 4.682/23, decorre das estradas de ferro do País, das Caixas de Aposentadoria e Pensões da qual os ferroviários eram contribuintes obrigatórios.
+3. Tanto os ferroviários que se aposentaram até a edição do Decreto-lei n.º 956/69, quanto aqueles que foram admitidos até outubro de 1969, em face da superveniência da Lei n.º 8.186/91. sob qualquer regime, possuem direito à complementação da aposentadoria prevista no Decreto-Lei n.º 956/69.
+4. Com o advento da Lei nº 10.478/2002, foi estendida a complementarão da aposentadoria aos ferroviários admitidos Rede Ferroviária Federal até 21/05/1991,
+5. levando-se em consideração o disposto no art. 462 do CPC e tendo em vista que o demandante ingressou na Rede Ferroviária Federal anteriormente a maio de 1991, faz ele jus à complementação de sua aposentadoria.
+6. Quanto à correção monetária e juros de mora, no julgamento das ADIs 4.357 e 4.425, foi objeto de declaração de inconstitucionalidade por arrastamento o art. 1º-F da lei 9.494/97, mas limitado apenas à parte em que o texto legal eslava vinculado ao art. 100, § 12, da CF, incluído pela EC 62/2009, o qual se refere tão somente à atualização de valores de requisitórios.
+7. No tocante à atualização monetária das condenações impostas à Fazenda Pública até a expedição do requisitório, o art. 1º-F da Lei 9.494/97, com a redação dada pela Lei 11.960/09, ainda não foi objeto de pronunciamento expresso pelo colendo Supremo Tribunal Federal, no tocante à constitucionalidade, de sorte que continua em pleno vigor.
+8. Impõe-se determinar a adoção dos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança, para fins de atualização monetária, remuneração do capital e compensação da mora, nos moldes do art. 5º da Lei 11.960/2009, a partir de sua vigência (30/6/2009).
+Preliminar rejeitada. Apelação da CPTM desprovida. Reexame necessário, apelações do INSS e da União Federal parcialmente providos.
+Os Embargos de Declaração opostos pela CPTM foram acolhidos com efeitos infringentes (fls. 549-554, e-STJ):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES.
+1. Nos termos do artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis nos casos de obscuridade, contradição ou omissão da decisão impugnada, bem como para fins de correção de erro material.
+2. Segundo consta da petição inicial, a parte autora foi admitida em 28/13/1998 pela Rede Ferroviária Federal S/A. Posteriormente (28/05/1994), passou a integrar o Quadro de Pessoal da COMPANHIA PAULISTA DE TRENS METROPOLITANOS - CPTM.
+3. Alega que manteve contrato de trabalho ativo junto à CPTM, sucessora da primeira empregadora até 19/03/1996, tendo sido aposentado por tempo de serviço em 20/12/1995, bem como que tem direito à complementação de aposentadoria, por paridade salarial, nos termos do Decreto- lei 956/69 e da Lei 8.186/91.
+4. O direito à complementação é incontroverso, nos termos do art. 1º da Lei 10.478/2002, e com o acolhimento do pedido formulado pelo autor, cabe à União custear o valor referente à complementação e ao INSS executar diretamente o pagamento ao segurado. Decorre, portanto, ser imprescindível a presença de ambas as entidades no polo passivo da lide, na qualidade de litisconsortes passivos necessários, a teor do artigo 47 do Código de Processo Civil/1973.
+5. Desta forma, em que pese a CPTM, seja subsidiária da RFFSA e última empregadora do autor, deve ser excluída do polo passivo da lide e, consequentemente, da condenação solidária ao pagamento dos valores aqui pleiteados, eis que a responsabilidade pelo pagamento da parcela é do INSS, observado o repasse da União.
+6. Embargos de declaração acolhidos, com efeitos infringentes.
+Em suas razões recursais, a União aponta ofensa aos arts. 1º, 2º, 3º e 5º da Lei 8.186/1991, argumentando que "caberia à própria CPTM ou, ainda, à Fazenda do Estado de São Paulo o custeio de eventual complementação de aposentadoria do autor" (fl. 528, e-STJ). Aduz ainda que estão prescritas as parcelas vencidas anteriormente a 28/4/1993.
+Não houve contrarrazões.
+O Apelo foi inadmitido na origem (fls. 567-568, e-STJ), o que deu ensejo ao presente Agravo (fls. 570-574, e-STJ).
+Sem contraminuta.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 9 de junho de 2021.
+A irresignação não merece prosperar.
+O Recurso Especial foi inadmitido na origem em razão da ausência de ratificação do recurso após o acolhimento dos Embargos de Declaração com efeitos infringentes.
+Sobre o tema, a Corte Especial do Superior Tribunal de Justiça, ao analisar a Questão de Ordem no julgamento do REsp 1.129.215/DF, de relatoria do Ministro Luis Felipe Salomão, firmou o entendimento de que "a única interpretação cabível para o enunciado da súmula 418/STJ é aquela que prevê o ônus da ratificação do recurso interposto na pendência de embargos declaratórios apenas quando houver alteração na conclusão do julgamento anterior" (REsp 1.129.215/DF, Relator Ministro Luis Felipe Salomão, Corte Especial, DJe 3/11/2015).
+Com a alteração legislativa do direito processual civil pátrio, esta Corte de Justiça cancelou o verbete sumular 418/STJ e aprovou a Súmula 579, nos seguintes termos: "Não é necessário ratificar o recurso especial interposto na pendência do julgamento dos Embargos de Declaração quando inalterado o julgamento anterior."
+No presente caso, o Tribunal de origem acolheu os Embargos Declaratórios da CPTM com efeitos infringentes para excluí-la da lide, reconhecendo sua ilegitimidade passiva ad causam.
+O acolhimento dos Aclaratórios alterou o resultado do acórdão recorrido, no ponto que acentuou a que "a Companhia Paulista de Trens Metropolitanos CPTM, por ser subsidiária da RFFSA e a última empregadora do requerente, deve permanecer no polo passivo da demanda".
+Nesse contexto, afigura-se necessária a posterior ratificação do Recurso Especial interposto antes do julgamento dos Aclaratórios, por aplicação da Súmula 579/STJ: "Não é necessário ratificar o recurso especial interposto na pendência do julgamento dos embargos de declaração, quando inalterado o resultado anterior".
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES PAGOS. APELAÇÃO INTERPOSTA APÓS O JULGAMENTO, MAS ANTES DA PUBLICAÇÃO DA SENTENÇA DOS EMBARGOS DE DECLARAÇÃO. SENTENÇA DE EMBARGOS QUE NÃO ALTEROU A SENTENÇA ORIGINAL EM PONTO PERTINENTE ÀQUILO QUE É OBJETO DA APELAÇÃO. EXTEMPORANEIDADE RECONHECIDA PELO TRIBUNAL A QUO. EXTEMPORANEIDADE AFASTADA. AGRAVO INTERNO A QUE SE DÁ PROVIMENTO.
+1. Impõe-se a necessidade de ratificação do recurso especial interposto na pendência do julgamento dos embargos de declaração se, da sentença dos aclaratórios, resultar alteração da decisão originária naquilo que for objeto da apelação. Inteligência da Súmula 579/STJ ("Não é necessário ratificar o recurso especial interposto na pendência do julgamento dos embargos de declaração, quando inalterado o resultado anterior").
+2. Agravo interno a que se dá provimento. (AgInt no REsp 1.728.186/SP, Relator Min. Lázaro Guimarães (Desembargador Convocado), Quarta Turma, DJe 15/8/2018)
+PROCESSUAL CIVIL E ADMINISTRATIVO. DECISÃO DE ORIGEM QUE INADMITIU RECURSOESPECIAL. JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. RATIFICAÇÃO DO RECURSOESPECIAL. DESNECESSIDADE. ENTENDIMENTO DO STJ. INCIDÊNCIA DA SÚMULA579/STJ.
+1. A Corte de origem entendeu pela inadmissibilidade do Recurso Especial interposto com fundamento na Súmula 579/STJ.
+2. A agravante sustenta ser desnecessária a ratificação do Recurso Especial após o julgamento dos Embargos de Declaração. Com razão.
+3. A Corte Especial do Superior Tribunal de Justiça, ao analisar a Questão de Ordem no julgamento do REsp 1.129.215/DF, de relatoria do Ministro Luis Felipe Salomão, firmou o entendimento de que "a única interpretação cabível para o enunciado da súmula 418/STJ é aquela que prevê o ônus da ratificação do recurso interposto na pendência de embargos declaratórios apenas quando houver alteração na conclusão do julgamento anterior" (REsp1.129.215/DF, Relator Ministro Luis Felipe Salomão, Corte Especial, DJe3.11.2015).
+4. Com a alteração legislativa do direito processual civil pátrio, esta Corte de Justiça cancelou o verbete sumular 418/STJ, e aprovou a Súmula579, nos seguintes termos: "Não é necessário ratificar o recurso especial interposto na pendência do julgamento dos Embargos de Declaração quando inalterado o julgamento anterior."
+5. Assentada esta premissa, de pronto afasta-se a necessidade de ratificação do Recurso Especial, visto que não houve alteração dos fundamentos do acórdão recorrido, mas somente correção de erro material.
+6. Agravo em Recurso Especial provido para determinar o retorno dos autos à Corte de origem, para que se profira novo juízo de admissibilidade. (AREsp 1.600.302/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 25/6/2020).
+Correta, portanto, a decisão ora agravada que inadmitiu o Recurso Especial por ausência de ratificação.
+Diante do exposto, nego provimento ao Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
