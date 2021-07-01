@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo interno interposto por FUNDAÇÃO VALE DO RIO DOCE DE SEGURIDADE SOCIAL - VALIA, em face da decisão de fls. 36-38, de lavra deste signatário que, com amparo nos precedentes desta Segunda Seção, conheceu do presente conflito e declarou a competência do Juízo da 2.ª Vara do Trabalho de Governador Valadares/MG, nos limites de sua competência, consoante preconiza a Súmula n.º 170/STJ.
+Depreende-se dos autos que Maria Paulina dos Santos ajuizou reclamação trabalhista contra a VALE S.A. e a ora agravante objetivando receber o pagamento das diferenças decorrentes dos denominados "expurgos inflacionários", incidentes sobre abono de complementação de aposentadoria (fls. 02/17).
+O juízo trabalhista declinou de sua competência, sob os seguintes fundamentos (fl. 19):
+"O Plenário do Supremo Tribunal Federal, apreciando, no último dia 20 de Fevereiro, o Recurso Extraordinário 586453-SE, decidiu que cabe à Justiça Comum julgar processos decorrentes de contrato de previdência complementar privada. Como a matéria tivera repercussão geral reconhecida, o entendimento que prevaleceu na Corte passa a valer para todos os processos semelhantes que tramitam nas diversas instâncias do Poder Judiciário - sobretudo na Justiça do Trabalho.
+Tendo em vista, pelo que se depreende da petição inicial deste processo, que a pretensão autoral é a obtenção de provimento jurisdicional condenatório das reclamadas de diferenças decorrentes da, segundo ela, incorreta aplicação de índices de correção em planos econômicos que declinou, não há dúvidas de que, diante da decisão suso aludida, cabe à Justiça Estadual a apreciação do litígio.
+Isto posto, acatando o entendimento do Excelso Pretório, determino a remessa dos autos a uma das Varas Cíveis de Governador Valadares, a favor de quem declino da competência para processar e julgar, como de direito entender, a presente ação."
+Contudo, remetidos os autos ao Juízo Cível da Comarca de Governador Valadares/MG, o magistrado estadual declarou-se igualmente incompetente para processar e julgar a presente demanda. Em razão de seu objeto decorrer de relação de consumo, determinou a remessa do feito para uma das varas cíveis do foro do domicílio do autor - Comarca de João Neiva-ES (fl. 21).
+O Ministério Público Federal opinou pelo conhecimento do conflito e competência da Justiça especializada (fls. 30-34).
+O conflito foi conhecido, por decisão deste signatário, para declarar a competência do r. Juízo da 2.ª Vara do Trabalho de Governador Valadares-MG, nos limites de sua jurisdição, nos termos da Súmula n.º 170/STJ (fls. 36-38).
+Em suas razões recursais, sustenta a ora agravante que, inicialmente, "Diversamente do alegado pelo Ministério Público Federal a presente ação foi ajuizada tanto contra a ex-empregadora, quanto contra a Entidade de Previdência Privada a qual está vinculada a Agravada.". Assim sendo, reforça o argumento de que "(..) trata-se de uma ação puramente previdenciária, visto que, conforme já dito, o pleito da autora é a revisão da sua reserva de poupança com a incidência dos expurgos inflacionários", ressaltando a incompetência da justiça trabalhista para a causa (fls. 48-59).
+Diante disso, almeja a reforma da decisão recorrida a fim de que seja conhecido o presente incidente e declarada a competência do Juízo de Direito da Vara Única de João Neiva-ES, Juízo da recuperação judicial.
+É o relatório.
+Decide-se.
+1. Ante a interposição doagravo interno, reconsidera-se a decisão monocrática anteriormente proferida, sendo de rigor, portanto, nova apreciação do presente conflito de competência.
+2.Nos termos do art. 66 do NCPC, o conflito de competência se configura quando dois ou mais juízes declaram-se competentes ou consideram-se incompetentes para o processamento e julgamento de uma mesma demanda ou quando existir controvérsia acerca da união ou separação de processos entre duas ou mais autoridades judiciárias.
+A situação em análise, todavia, não se amolda às hipóteses previstas no referido dispositivo.
+Depreende-se dos autos que o r. Juízo da 2.ª Vara do Trabalho de Governador Valadares-MG declinou de sua competência para o r. Juízo de Direito da 1.ª Vara Cível de Governador Valadares-MG, que, por sua vez, remeteu os autos à Comarca de João Neiva-ES, por ser este o domicílio do autor (fls. 21-22), não se tendo notícia de que este Foro, por sua vez, tenha suscitado qualquer incidente acerca da competência em debate.
+Nesse contexto, não se afigura o perigo de serem proferidas decisões conflitantes, ensejador do incidente proposto pelo suscitante.
+A propósito, confiram-se os seguintes precedentes:
+DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. INEXISTÊNCIA DE MANIFESTAÇÕES DOS JUÍZOS SUSCITADOS HÁBEIS A CARACTERIZAR A EFETIVA EXISTÊNCIA DE CONFLITO DE COMPETÊNCIA ENTRE ELES.
+1. Nos termos do art. 115, I, do CPC, a configuração de conflito de competência, pressupõe que duas ou mais autoridades judiciárias, de esferas diversas, declarem-se competentes ou incompetentes para apreciar e julgar determinado feito, ou para praticar atos processuais na mesma causa.
+2. Na hipótese dos autos, contudo, não restou evidenciada a existência de manifestação dos juízos suscitados acerca de sua competência para o julgamento do pedido do suscitante, havendo, apenas, decisão do Tribunal de Justiça do Estado de São Paulo em sentido contrário àquela proferida pelo Tribunal de Justiça do Estado do Rio de Janeiro, o que não é suficiente para a caracterização da existência de conflito entre os referidos juízos.
+3. A agravante não trouxe argumentos capazes de afastar os termos da decisão agravada.
+4. Agravo regimental desprovido.
+(AgRg no CC 126.379/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 14/08/2013, DJe 21/08/2013)
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. PRIMEIRA E SEGUNDA SEÇÃO DO STJ. DECISÃO DE RELATOR. AUSÊNCIA DE MANIFESTAÇÃO DOS ÓRGÃOS SUSCITADOS. NÃO CONFIGURAÇÃO DAS HIPÓTESES PREVISTAS NO ART. 115 DO CPC. CONFLITO NÃO CONHECIDO.
+1. Para a caracterização de conflito de competência, é necessário que haja a manifestação de dois juízos, ambos declarando-se competentes ou incompetentes, ou ainda que entre eles surja controvérsia acerca da reunião ou separação de processos.
+2. Agravo regimental desprovido.
+(AgRg no CC 122.832/DF, Rel. Ministro JOÃO OTÁVIODE NORONHA, CORTE ESPECIAL, julgado em 17/04/2013, DJe 24/04/2013)
+Assim sendo, fica clara a ausência de elementos caracterizadores do conflito de competência, motivo pelo qual se revela inarredável o não conhecimento.
+3. Do exposto, com base no art. 66 do NCPC/2015, após reconsiderar a decisão agravada,não conhecer do presente conflito de competência.
+Julgo prejudicado o agravo interno de fls. 48-59, nos termos desta fundamentação.
+Publique-se. Intimem-se. Após, arquivem-se.
