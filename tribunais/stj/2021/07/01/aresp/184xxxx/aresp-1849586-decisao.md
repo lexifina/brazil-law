@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por MARCELO GOMES SALDANHAem facede decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO E AÇÃO DE IMISSÃO NA POSSE - DEMANDAS JULGADAS SIMULTANEAMENTE EM PRIMEIRO GRAU DE JURISDIÇÃO - IMISSÃO NA POSSE JULGADA IMPROCEDENTE - AÇÃO DE ANULAÇÃO JULGADA PARCIALMENTE PROCEDENTE.NECESSIDADE DE JULGAMENTO EM CONJUNTO - PREJUDICIALIDADE ENTRE AS AÇÕES.
+APELAÇÃO CÍVEL Nº 0023589-41.2016.8.16.0001
+IMISSÃO NA POSSE - APELAÇÃO CÍVEL - TERCEIROS QUE ADQUIRIRAM IMÓVEL DESIMPEDIDO, DO PROPRIETÁRIO ORIGINAL, QUE NÃO PODEM SER PREJUDICADOS POR EVENTUAL VÍCIO NO CONTRATO ENTRE O PROPRIETÁRIO E ANTIGO COMPRADOR INADIMPLENTE - NECESSIDADE DE PRESERVAÇÃO DOS DIREITOS DOS TERCEIROS - DEMORA NO CUMPRIMENTO DE ORDEM DE DESOCUPAÇÃO DO BEM - DANOS MATERIAIS DEVIDAMENTE COMPROVADOS - AÇÃO DE IMISSÃO NA POSSE QUE DEVE SER JULGADO PROCEDENTE - RECURSO DE APELAÇÃO CONHECIDO, A QUE SE DÁ PROVIMENTO.
+APELAÇÃO CÍVEL Nº 0019026-04.2016.8.16.0001
+AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO - INADIMPLEMENTO CONFESSO DO AUTOR - IMPOSSIBILIDADE DE REVERSÃO OU ANULAÇÃO DO NEGÓCIO REALIZADO ENTRE O RÉU E TERCEIROS DE BOA-FÉ - DEVEDOR FIDUCIANTE INADIMPLENTE QUE NÃO CONSEGUIU COMPROVAR NENHUM VÍCIO NA CONSOLIDAÇÃO DA PROPRIEDADE PELO CREDOR FIDUCIÁRIO - CONSOLIDAÇÃO DAPROPRIEDADE EM NOME DO CREDOR FIDUCIÁRIO QUE SE CONFIGURA EM ATO JURÍDICO PERFEITO - POSSIBILIDADE DE ALIENAÇÃO DO BEM APÓS A CONSOLIDAÇÃO DA PROPRIEDADE, EFETIVAMENTE REGISTRADO NA MATRÍCULA DO IMÓVEL - IMPROCEDÊNCIA DA AÇÃO DE ANULAÇÃO - RECURSO DE APELAÇÃO CONHECIDO, A QUE SE DÁ PROVIMENTO." (e-STJ, fls. 505/506)
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 553/556)
+Nas razões do apelo, oagravanteaponta, além de dissídio jurisprudencial, violação ao art. 27, §§ 2º-A e 2º-B da Lei 9.514/97, sustentando, em síntese que não foi intimado à respeito da realização dos leilões extrajudiciais, devendo ser anulada a consolidação da propriedade em nome do banco credor.
+É o relatório. Decido.
+Quanto à alegada violação do art. 27, da Lei 9.514/97, verifica-se que oconteúdo normativo do dispositivo invocado no apelo nobre não foiapreciado pelo Tribunal a quo, ainda que a parte ora recorrente tenhaoposto embargos de declaração a fim de sanar eventual irregularidade.
+Ressalte-se que esta eg. Corte de Justiça consagra orientação no sentidoda necessidade de prequestionamento dos temas ventilados no recursoespecial, não sendo suficiente a simples invocação da matéria na petiçãode embargos de declaração. Caberia à recorrente, na hipótese, alegarviolação ao art. 1.022do Código de Processo Civil de 2.015, providência,todavia, da qual não se desincumbiu. Dessa forma, à falta do indispensávelprequestionamento, incide, na espécie, a Súmula 211 do Superior Tribunalde Justiça.
+Incide, pois, na espécie, a Súmula 211 do Superior Tribunal de Justiça.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES.AÇÃO DE RESOLUÇÃO PARCIAL DE CONTRATO E RESTITUIÇÃO DE VALORES COM PEDIDODE ADIMPLEMENTO DE CONTRATO DE PLANTA COMUNITÁRIA. RECONHECIMENTO DODIREITO À RESTITUIÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ.ARTS. 538 E 884 DO CC. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E211 DO STJ. DECISÃO MANTIDA.
+1. O Tribunal de origem entendeu que "não tendo a demandada retribuído oinvestimento realizado pelo consumidor, conforme determinava a portariaque regulamentava a relação entabulada entre as partes à época, nadaimpede que o contratante postule e veja reconhecido seu direito em ver ovalor investido devidamente devolvido. Rever esta conclusão esbarraria noóbice das Súmulas 5 e 7 do STJ".
+2. A matéria referente ao art. 884 do CC não foi objeto de discussão noacórdão recorrido, apesar da oposição de embargos de declaração, não se
+configurando o prequestionamento, o que impossibilita a sua apreciação navia especial (Súmulas 282/STF e 211/STJ).
+O Superior Tribunal de Justiça não reconhece o prequestionamento pelasimples interposição de embargos de declaração. Persistindo a omissão, énecessária a interposição de recurso especial por afronta ao art. 535 doCódigo de Processo Civil, sob pena de perseverar o óbice da ausência deprequestionamento.
+3. Agravo regimental não provido."
+(AgRg no AREsp 663.279/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTATURMA, julgado em 20/08/2015, DJe 28/08/2015.)
+Diante do exposto, nos termos do art. 253, parágrafo único, I, do RISTJ,não conheço do agravo em recurso especial.
+Publique-se.
