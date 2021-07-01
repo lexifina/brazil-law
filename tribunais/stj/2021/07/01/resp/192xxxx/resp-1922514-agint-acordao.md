@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. REAJUSTE DE 3,17%. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL SOBRE O QUAL SUPOSTAMENTE RECAI A CONTROVÉRSIA. APLICAÇÃO DA SÚMULA 284/STF POR ANALOGIA. PRECEDENTES DO STJ.
+1. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+2. O desrespeito a esses requisitos legais e regimentais (art. 1.029, § 1º, do CPC/2015 e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+3. A propositura do recurso pela via da divergência jurisprudencial não dispensa a parte insurgente de apontar o dispositivo legal que teria sido objeto de interpretação divergente entre tribunais. A deficiência na fundamentação obsta o conhecimento do recurso fundamentado na alínea "c", razão pela qual incide, por analogia, a Súmula 284/STF.
+4. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra decisão (fls. 555-561, e-STJ) que não conheceu do Recurso Especial.
+As agravantes sustentam, em suma: "no eventual conflito entre a regularidade processual e a resolução de mérito de um determinado recurso, o segundo fator deve prevalecer. No caso em tela, o princípio da primazia na resolução do mérito recursal merece especial atenção, tendo em vista a natureza do acórdão paradigma, que foi julgado sob a sistemática de recursos repetitivos, cuja tese é de observância obrigatória em todos os juízos e tribunais, conforme inteligência do art. 927, III do CPC" (fl. 566, e-STJ).
+Pleiteiam, ao final, a reconsideração da decisão agravada ou o provimento, pelo colegiado, do Agravo Interno.
+Sem impugnação, conforme certidão de fl. 616, e-STJ.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. REAJUSTE DE 3,17%. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL SOBRE O QUAL SUPOSTAMENTE RECAI A CONTROVÉRSIA. APLICAÇÃO DA SÚMULA 284/STF POR ANALOGIA. PRECEDENTES DO STJ.
+1. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+2. O desrespeito a esses requisitos legais e regimentais (art. 1.029, § 1º, do CPC/2015 e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+3. A propositura do recurso pela via da divergência jurisprudencial não dispensa a parte insurgente de apontar o dispositivo legal que teria sido objeto de interpretação divergente entre tribunais. A deficiência na fundamentação obsta o conhecimento do recurso fundamentado na alínea "c", razão pela qual incide, por analogia, a Súmula 284/STF.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 21.5.2021.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+No tocante à divergência jurisprudencial, destaco que ela deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+O desrespeito a esses requisitos legais e regimentais (art. 1.029, § 1º, do CPC/2015 e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal. Confiram-se:
+(..) PROCESSUAL CIVIL. RECURSO ESPECIAL. (..) DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS E REGIMENTAIS. (..) RECURSO ESPECIAL NÃO CONHECIDO.
+I. Recurso Especial interposto, por ambas as alíneas do permissivo constitucional, contra acórdão publicado na vigência do CPC/2015.
+(..)
+VII. Nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, § 1º, do RISTJ, a divergência jurisprudencial exige comprovação - mediante a juntada de cópia dos acórdãos paradigma ou a citação do repositório oficial ou autorizado em que publicados - e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não bastando a simples transcrição de ementas, sem realizar o necessário cotejo analítico, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretação, tal como ocorreu, no caso.
+(..)
+XI. Recurso Especial não conhecido.
+(REsp 1.874.545/CE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 23/06/2020, DJe 29/06/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+III - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido. (AgRg no REsp 1.860.831/RS, Rel. Min. REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 3/9/2020)
+In casu, as agravantes restringiram-se a transcrever ementas e trechos de voto.
+Por fim, observo que o recurso encontra-se deficientemente fundamentado, porquanto as insurgentes não indicaram os dispositivos de lei federal porventura violados, o que atrai a incidência do verbete 284 da Súmula do STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia." A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. (..) ALEGAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL VIOLADO. SÚMULA N. 284/STF. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ.
+(..)
+II - Na interposição do recurso especial com base na alínea c do permissivo constitucional, é imperiosa a indicação do dispositivo federal sobre o qual recai a suposta divergência jurisprudencial, o que não ocorreu no caso em tela.
+III - Assim, não se pode conhecer do presente recurso especial, nos termos da Súmula n. 284/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia. Nesse mesmo sentido, destacam-se os seguintes precedentes: AgRg no AREsp 123.219/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2012; AgRg no AREsp 83.349/RJ, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 7/5/2012.
+(..)
+VI - Agravo interno improvido. (AgRg no REsp 1.861.998/RS, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 03/09/2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. (..) DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO DE EXATA SIMILITUDE FÁTICA ENTRE OS ARESTOS PARADIGMA E RECORRIDO. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL OBJETO DE INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+2. O desrespeito a esses requisitos legais e regimentais (art. 1.029, § 1º, do CPC/2015 e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+3. A propositura do recurso pela via da divergência jurisprudencial não dispensa o recorrente de apontar o dispositivo legal que teria sido objeto de interpretação divergente entre tribunais. A deficiência na fundamentação obsta o conhecimento do recurso fundamentado na alínea "c", razão pela qual incide a Súmula 284/STF. Precedentes do STJ.
+4. Agravo Interno não provido.
+(AgRg no REsp 1.861.343/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 09/09/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF.
+1. A jurisprudência desta Corte firmou-se no sentido de que a ausência de indicação do dispositivo legal objeto de interpretação divergente configura deficiência na argumentação recursal, o que impede o conhecimento do apelo nobre interposto com fundamento no artigo 105, III, c, da Constituição Federal. Incidência da Súmula 284/STF. Nesse sentido: AgInt no REsp 1.451.153/CE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 1º/4/2019; AgInt no REsp 1.751.624/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 19/3/2019; AgInt no AREsp 1.236.626/BA, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 15/2/2019.
+2. Agravo interno não provido.
+(AgRg no REsp 1.850.185/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 27/08/2020)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. (..). AUSÊNCIA DE INDICAÇÃO, NAS RAZÕES DO RECURSO ESPECIAL, INTERPOSTO COM FUNDAMENTO NO ART. 105, III, C, DA CF/88, DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE, PELO TRIBUNAL DE ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+(..)
+IV. A falta de particularização, no Recurso Especial - interposto, no caso, com fundamento no art. 105, III, c, da CF/88 -, dos dispositivos de lei federal que teriam sido objeto de interpretação divergente, pelo acórdão recorrido, consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe de 17/03/2014; AgRg no AREsp 732.546/MA, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 12/11/2015.
+V. Agravo interno parcialmente conhecido, e, nessa extensão, improvido. (AgRg no REsp 1.861.375/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 23/10/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. (..) DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. INCIDÊNCIA DA SÚMULA 284/STF.
+1. Na interposição do recurso especial com base na alínea c do permissivo constitucional, é imperiosa a indicação do dispositivo federal sobre o qual recai a suposta divergência jurisprudencial, o que não ocorreu no caso em tela. Assim, não pode ser conhecido o presente apelo nobre, nos termos da Súmula 284/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.". Nesse mesmo sentido, destacam-se os seguintes precedentes: AgRg no AREsp 123.219/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2012; AgRg no AREsp 83.349/RJ, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 7/5/2012.
+2. Agravo interno não provido
+(AgRg no AREsp 1.573.160/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 28/10/2020)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL. DISPOSITIVO VIOLADO. NÃO INDICAÇÃO. COTEJO ANALÍTICO. AUSÊNCIA.
+1. Esta Corte tem o entendimento de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais, incidindo na espécie a Súmula 284 do STF.
+2. Ausente o cotejo analítico, não há o cumprimento dos pressupostos específicos para a configuração do dissenso jurisprudencial, nos termos dos arts. 541, parágrafo único, do Código de Processo Civil e 255, §§ 1º e 2º, do RISTJ. 3. Agravo interno desprovido
+(AgRg no REsp 1.851.483/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 08/09/2020)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
