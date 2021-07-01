@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos porFUNDACAO CORSAN DOS FUNCIONARIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO - CORSAN - contra decisão, às fls. 418/421, quenegou provimento ao seu recurso especial.
+Nas razões dos embargos de declaração, sustenta a embargante que a decisão embargadacontém erro material, pois, alegou-senas razões do apelo especial a violação do art. 205 doCC, além da manifesta divergência jurisprudencial entre a Corte Estadual e esta Superior, para que seja reconhecida a prescrição incidente sobre os contratos firmados anteriormente ao decênio que antecede ao ajuizamento da ação revisional.
+Entende ser inaplicável a Súmula 83/STJà pretensão recursal, pois oSTJ,quando do exame de casos idênticos, no sentido de que o prazo prescricional à revisão contratual tem como marco inicial a data de assinatura de cada contrato, momento em que o tomador do empréstimo tem ciência de todos os encargos então assumidos, conforme se depreende dos recentíssimos precedentes das Turmas Terceira e Quartaque compõem a Segunda Seção desta Corte Superior, a saber:AgInt nos EDcl no AREsp 1717411/RS; Recurso Especial 1888677/RS; Recurso Especial 1897309/RS, dentre outros.
+Impugnação ao presente recurso apresentada às fls. 454/456.
+É o relatório. Passo a decidir.
+A irresignação não prospera, porque a decisão embargada delimitou corretamente a teses defendidas norecurso especial, não havendo erro, omissão, contradição ou obscuridade a serem sanados.
+Ademais, os precedentes citados nas razões dos presentes embargos de declaração são no mesmo sentido dos colacionados na decisão embargada, os quais definem que "otermo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato"(AgInt nos EDcl no REsp 1897309/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/3/2021, DJe de 18/3/2021).
+Ainda, em total consonância com o entendimento adotado no acórdão recorrido, que expressamente consignou: "em se tratando de ação revisional de contrato de empréstimo, aplica-se o prazo prescricional de 10 anos, previsto no art. 205 do CC, pois fundada em direito pessoal, cujo termo inicial é a data da assinatura de cada contrato (Apelação Cível, Nº 70083514612, Décima Sexta Câmara Cível, Tribunal de Justiça do RS, Relator: Deborah Coleto Assumpção de Moraes, Julgado em: 30-01-2020)", fl. 276.
+Nesse contexto, constata-se que os embargos de declaração demonstram descontentamentocom a sucumbência recursal estabelecida na decisão embargada, a qual deve ser mantida pelos seus íntegros fundamentos, não contendo quaisquer dos vícios normatizados no art. 1022 do CPC/2015.
+Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado. Portanto, inexistentes as hipóteses do art. 1.022, II, do CPC/2015, não merecem acolhimento os presentes embargos de declaração que têm nítido caráter infringente.
+Confiram-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COMPLEMENTAÇÃO DE PENSÃO POR MORTE. ENTIDADE DE PREVIDÊNCIA PRIVADA FECHADA. REGULARIDADE NA CONCESSÃO DO BENEFÍCIO. ANÁLISE DAS CLÁUSULAS DO REGULAMENTO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7, AMBAS DO STJ. FONTE DE CUSTEIO. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. VÍCIOS DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. RECURSO PROTELATÓRIO. APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. INTEGRATIVO REJEITADO. ..
+3. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente.
+4. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado. ..
+6. Diante da manifesta improcedência dos embargos, que buscaram, tão somente, o reexame dos argumentos anteriormente formulados e devidamente analisados por esta eg. Terceira Turma, está caraterizado o caráter manifestamente procrastinatório do recurso integrativo, razão pela qual se aplica aos embargantes a multa do art. 1.026, § 2º, do NCPC, fixada em 2% sobre o valor atualizado da causa.
+7. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl no AgInt no REsp 1694356/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/3/2021, DJe de 25/3/2021, g.n)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matérias devidamente examinadas e rejeitadas na decisão embargada, o que é incabível nos embargos declaratórios.
+3. A contradição que dá ensejo à oposição de embargos declaratórios deve ser interna, entre as proposições do próprio julgado impugnado.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1729157/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 1º/3/2021, DJe de 3/3/2021, g.n)
+Deveras, os embargos de declaração não são recurso apropriado para tentar rediscutir a controvérsia diante do inconformismo da parte com decisão contrária à sua pretensão recursal.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
