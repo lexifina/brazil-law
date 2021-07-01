@@ -1,0 +1,64 @@
+DECISÃO
+1. Trata-se de recurso especial interposto por IVAN GONCALVES DOS SANTOS, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 490):
+AGRAVO DE INSTRUMENTO Ação de Indenização por Danos Materiais Decisão que acolheu parcialmente a impugnação ao cumprimento de sentença, limitando a multa cominatória ao valor do imóvel objeto do contrato "sub judice" Inconformismo do exequente, postulando a manutenção das astreintes, cujo montante alcançou a cifra de R$ 10.912.000,00 (dez milhões e novecentos e doze mil reais) Descabimento Astreintes que se mostram elevadas, ferindo o princípio da razoabilidade e da vedação ao enriquecimento sem causa - Recurso desprovido.
+Opostos embargos de declaração pelo recorrente (fls. 498-503), foram rejeitados (fls. 504-508).
+Nas razões do recurso especial (fls. 511-545), além de divergência jurisprudencial, aponta a parte recorrente ofensa ao disposto nos arts. 337, § 5º, 373, I, 489, § 1º, IV, 1.013, e 1.022, II, do Código de Processo Civil.
+Em apertada síntese, além de apontar omissão no acórdão, alega que a decisão é extra petita, uma vez que a recorrida concordou em pagar a indenização relativa ao primeiro período dasastreintes.
+Pugna para que "a astreinte, que abrange o período todo do esbulho seja considerada válida, esse período do esbulho que se estende até a presente data, visto que nem a parte Recorrida requereu tampouco a juíza determinou a suspensão dos efeitos da liminar".
+Não foram apresentadas contrarrazões ao recurso especial (fl. 618).
+É o relatório.
+DECIDO.
+2. Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+3. Em relação à fundamentação do acórdão, observa-se que, mediante convicção formada do exame feito aos elementos fático-probatórios dos autos, o acórdão tratou de forma clara e suficiente a controvérsia apresentada, lançando fundamentação jurídica sólida para o desfecho da lide, apenas não foi ao encontro da pretensão da parte recorrente, o que está longe de significar violação ao art. 489 do CPC/15.
+4.De outra parte, observa-se que as matérias previstas nos arts. 337, § 5º, e 373, I, do Código de Processo Civil,não foram objeto de debate no acórdão recorrido, nem nos embargos de declaração opostos. A falta do necessário prequestionamento inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial. Ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios. Incidência na espécie da Súmula 211/STJ. Há ressaltar que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração.
+5. Em relação à alteração da multa cominatória, a Corte de origem assim dispôs (fls.491-492):
+É cediço que as astreintes têm por finalidade coagir a ré a cumprir a obrigação imposta, devendo, no entanto, observar a razoabilidade e a proporcionalidade no montante fixado.
+Com efeito, revelando-se exorbitante, hipóteseretratada nos autos, permite-se a redução do valor da multa por descumprimento de decisão judicial, nos termos do artigo 461, parágrafo 6º, do Código de Processo Civil, de modo a evitar o enriquecimento ilícito do credor, não havendo que se falar, portanto, em nulidade da decisão, pois, por cuidar-se de matéria de ordem pública, sua apreciação pode se dar, inclusive, de ofício.
+É pacífico nesta Corte Superior o entendimento de que a decisão sobre a multa cominatória (astreintes) não se submete aos efeitos da preclusão e da coisa julgada, podendo ser revista pelo magistrado a qualquer momento, seja para afastar ou alterar o seu valor, inclusive de ofício, nos termos do art. 461 do CPC/1973.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIALETICIDADE RECURSAL. OBSERVÂNCIA. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DECISÃO JUDICIAL. ALEGAÇÃO DE CUMPRIMENTO. INCIDÊNCIA DA SÚMULA 7/STJ. AUTOR COM CÂNCER NO CÓLON.
+REALIZAÇÃO DE PROCEDIMENTO. DETERMINAÇÃO. ASTREINTES. REVISÃO DO VALOR. PROPORCIONALIDADE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Deve ser afastada a inobservância à dialeticidade recursal quando a parte impugna especificamente os fundamentos da decisão recorrida.
+2. A negativa de prestação jurisdicional não foi configurada, pois o acórdão estadual examinou, de forma fundamentada, os pontos essenciais ao deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte recorrente.
+3. A alteração da conclusão do Tribunal a quo, no tocante ao descumprimento da obrigação de fazer, tal como requerida, demandaria, necessariamente, o reexame de matéria fática e probatória dos autos, providência vedada no recurso especial pela Súmula 7 do STJ.
+4. É pacífico nesta Corte o entendimento de que o valor ou a periodicidade da multa cominatória prevista no art. 537 do CPC/2015 pode ser alterado pelo magistrado a qualquer tempo, até mesmo de ofício, quando irrisório ou exorbitante.
+5. No caso, a multa pelo descumprimento da decisão que determinou ao plano de saúde que fornecesse o material descrito na inicial e realizasse o exame e procedimento requerido pelo autor foi fixada em R$ 1.000,00 (mil reais) por dia. O arbitramento da multa no total de R$ 54.000,00 (cinquenta e quatro mil reais) se deu em razão de reiterado descumprimento de decisão judicial pela agravante em atender o agravado, que foi diagnosticado com câncer no cólon sigmoide, cujo tratamento deve ser iniciado o mais rapidamente possível para que o paciente tenha maiores chances de cura, e não se mostra exorbitante ou desproporcional à obrigação imposta.
+6. Agravo interno provido para afastar a falta de dialeticidade recursal, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp 1661657/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/09/2020, DJe 20/10/2020)
+_____________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS.CUMPRIMENTO DE SENTENÇA. ASTREINTES. VALOR EXCESSIVO. REDUÇÃO.POSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. É pacífico nesta Corte o entendimento de que o valor da multa cominatória prevista no art. 461 do CPC/1973 (correspondente ao art.
+536 do CPC/2015) pode ser alterado pelo magistrado a qualquer tempo, até mesmo de ofício, quando irrisório ou exorbitante, não havendo falar em preclusão ou ofensa à coisa julgada.
+2. "O art. 537, § 1º, do Código de Processo Civil de 2015 não se restringe somente à multa vincenda, pois, enquanto houver discussão acerca do montante a ser pago a título da multa cominatória, não há falar em multa vencida" (AgInt no REsp 1.846.190/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/04/2020, DJe de 27/04/2020).
+3. Na hipótese, ficou caracterizada a exorbitância do valor executado a título de multa cominatória (R$ 84.500,00), diante das seguintes peculiaridades: a) o débito que originou a inscrição indevida nos órgãos de proteção ao crédito era de R$ 153,65 (cento e cinquenta e três reais e sessenta e cinco centavos); b) a obrigação principal resultou na condenação de R$ 5.000,00 (cinco mil reais) a título de danos morais, em razão da inscrição indevida em cadastros de inadimplentes. Daí o provimento do recurso especial da agravada para reduzir o montante executado para R$ 5.000,00 (cinco mil reais), tal como procedeu o Juízo de primeiro grau.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1625951/SE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/08/2020, DJe 26/08/2020)
+____________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATOS DE EMPRÉSTIMOS BANCÁRIOS. CUMPRIMENTO DE SENTENÇA. APLICAÇÃO DE MULTA COMINATÓRIA. ASTREINTE EXCESSIVA E DESPROPORCIONAL. COISA JULGADA.NÃO OCORRÊNCIA. POSSIBILIDADE DE REDIMENCIONAMENTO. ALTERAÇÃO POR ESTA CORTE. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que o artigo 461 do Código de Processo Civil de 1973 (correspondente ao art. 537 do NCPC) permite ao magistrado, de ofício ou a requerimento da parte, afastar ou alterar o valor da multa quando este se tornar insuficiente ou excessivo, mesmo depois de transitada em julgado a sentença, não havendo espaço para falar em preclusão ou em ofensa à coisa julgada. Precedentes.
+2. A alteração das astreintes, após o redimensionamento efetuado pela Corte a quo, com base nas peculiaridades do caso, encontra óbice no enunciado n. 7 da Súmula desta Casa.
+3. Agravo interno não provido.
+(AgInt no AREsp 1501420/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/10/2019, DJe 06/11/2019)
+____________
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - ASTREINTES FIXADAS POR DESCUMPRIMENTO DE DETERMINAÇÃO JUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. INSURGÊNCIA DA RÉ.
+1. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que o artigo 461 do Código de Processo Civil de 1973 (correspondente ao art. 537 do NCPC) permite ao magistrado, de ofício ou a requerimento da parte, afastar ou alterar o valor da multa quando este se tornar insuficiente ou excessivo, mesmo depois de transitada em julgado a sentença, não havendo espaço para falar em preclusão ou em ofensa à coisa julgada. Precedentes.
+2. O acórdão recorrido, ao reduzir o valor da multa diária de R$ 3.000,00 para R$ 500,00 agiu em consonância com o entendimento firmado nesta Corte Superior.
+3. A redução do valor atribuído às astreintes implica, como regra, revolvimento de fatos e circunstâncias da causa, o que encontra óbice na Súmula 7/STJ. Excepciona-se a incidência de tal verbete sumular apenas quando o valor arbitrado se revelar irrisório ou exorbitante, o que não se configura no presente caso.
+4. Agravo interno desprovido.
+(AgInt no REsp 1396065/PE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/02/2017, DJe 15/02/2017)
+__________
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. IMPOSIÇÃO DE MULTA COMINATÓRIA. IMPOSSIBILIDADE. PRECLUSÃO. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. Consoante jurisprudência desta Corte Superior, na ação de exibição de documentos não cabe a aplicação de multa cominatória (Súmula 372 do STJ).
+2. O entendimento desta eg. Corte pacificou-se no sentido de que o artigo 461 do Código de Processo Civil de 1973 permite ao magistrado, de ofício ou a requerimento da parte, afastar ou alterar o valor da multa quando este se tornar insuficiente ou excessivo, mesmo depois de transitada em julgado a sentença, não havendo espaço para falar em preclusão ou em ofensa à coisa julgada. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgInt no REsp 1402310/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/02/2017, DJe 16/02/2017)
+__________
+Portanto, o acórdão combatido encontra-se em harmonia com o entendimento desta Corte, o que atrai a aplicação da Súmula 83 do STJ.
+6. Ante o exposto, nego provimento ao recurso especial.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. MULTA COMINATÓRIA. VALOR. ALTERAÇÃO. POSSIBILIDADE.RECURSO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+2. É pacífico nesta Corte Superior o entendimento de que a decisão sobre a multa cominatória (astreintes) não se submete aos efeitos da preclusão e da coisa julgada, podendo ser revista pelo magistrado a qualquer momento, seja para afastar ou alterar o seu valor, inclusive de ofício, nos termos do art. 461 do CPC/1973 (correspondente ao art. 537 do NCPC) .
+3.Recurso especial não provido.
