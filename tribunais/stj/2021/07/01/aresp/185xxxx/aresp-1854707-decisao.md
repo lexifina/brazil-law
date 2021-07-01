@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIANE MORENO ROMERO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+GRATUIDADE DE JUSTIÇA Requisitos Declaração de pobreza firmada pelos requerentes do benefício Presunção de veracidade não corroborada com outros elementos de prova Verossimilhança não demonstrada - Decisão mantida RECURSO NÃO PROVIDO. (fl. 33)
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega a violação dos arts. 98 e 99, § 3º, do CPC, aduzindo que a recorrente comprovou a necessidade de concessão dos benefícios da justiça gratuita, trazendo os seguintes argumentos:
+Há violação aos artigos 98 e 99 do Código de Processo Civil, pois os dispositivos supramencionados determinam que a parte que comprove a necessidade de arcar com as custas tem direito à gratuidade.
+Com efeito, ao negar concessão do benefício de gratuidade diante da documentação que comprova tal necessidade, acabou, o v. acórdão por violar os artigos supra mencionados.
+No presente caso a parte comprovou tal situação, nos termos do constante do tópico de Justiça Gratuita, porém teve seus argumentos ignorados e negado seu direito de gratuidade.
+Portanto, nota-se que fora violado referidos dispositivos, vez que a recorrente é DESEMPREGADA DESDE 2010 (CTPS nos Autos), auferindo renda de venda informal de doces confeccionados pela mesma, sem qualquer renda fixa, sendo inclusive ISENTA de declarar Imposto de Renda!
+Não bastasse o acima exposto, o §3º do art. 99 do CPC dispõe expressamente que "Presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural".
+Portanto, se tratando exclusivamente de pessoa física e não existindo NENHUMA prova contrária a esta alegação nos Autos (pelo contrário, apenas provas que a corroboram), houve violação à mencionado dispositivo, pois fora ignorada a presunção legal constante de mencionado dispositivo.
+Nota-se que para análise da violação não é sequer necessária a análise da documentação constante dos Autos para que possa ser analisada a violação ocorrida, foi o artigo invocado dispõe que há previsão de veracidade da alegação, não havendo no v. acórdão nenhum elemento capaz de descaracterizar esta presunção.
+Não bastasse o acima exposto, se tratando de pessoa física, desempregada, que sobrevive de venda informal de doces através de perfis sociais, resta patentemente comprovada a insuficiência de recursos, portanto há violação ao art. 98 do CPC.
+Ora Excelência, no caso todos os fundamentos da parte restaram corroborados pela documentação apresentada, bem como pelo entendimento jurisprudencial que entende jurisprudência apontada
+ ..
+Portanto, ao não ser concedido o benefício da gratuidade à Recorrente (a qual comprovadamente não possui condições de arcar com as custas processuais), houve violação à mencionados dispositivos. (fls. 45/47)
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso dos autos, a agravante deixa de comprovar a alegada falta de condições financeiras. Aduz estar desempregada, contudo, não esclarece seus meios de vida, tampouco junta extratos bancários dos últimos meses, limitando-se a apresentar extrato do mês corrente e informe de rendimentos referente a 2018.
+Por fim, as informações de que não há declaração de imposto de renda na base de dado da Receita Federal não tem força sem a declaração de regularidade do CPF.
+Assim, analisadas as circunstâncias fáticas contidas nos autos, por ora, não há como corroborar a condição de miserabilidade pretendida pela agravante, razão pela qual fica mantida a decisão.
+Anote-se que a decisão que aprecia a questão relativa à justiça gratuita não faz coisa julgada material, por se tratar de matéria que pode ser revista a qualquer tempo pelo magistrado, desde que haja comprovação da modificação das condições econômico-financeiras da parte requerente. (fl. 35)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
