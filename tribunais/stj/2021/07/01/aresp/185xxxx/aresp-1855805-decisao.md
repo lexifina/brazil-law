@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. PRELIMINAR CONTRARRECURSAL DE OFENSA AO PRINCIPIO DA DIALETICIDADE REJEITADA. CONTRATO DE FORMAÇÃO DE CONSÓRCIO. MULTA IMPOSTA AO CONSÓRCIO POR FALHA NA PRESTAÇÃO DE SERVIÇO DA PARTE RÉ. CLÁUSULA PREVENDO A OBRIGAÇÃO SOLIDÁRIA. PEDIDO REGRESSIVO. No caso, restou comprovado que demandante arcou com despesas e com o pagamento da multa aplicada pelo descumprimento contratual causado pela requerida. Por força da cláusula sexta, parágrafo sexto, do contrato firmado entre as partes, ficou estabelecido que qualquer consorciado, poderá promover ação de regresso contra os demais, caso venha ser instada pela contratante ou terceiro a suportar os prejuízos advindos da inexecução de serviço que não era de sua responsabilidade e pelo não cumprimento do previsto nos parágrafos REJEITADA 1º , 2º e 3º desta cláusula. A PRELIMINAR CONTRARRECURSAL, NEGARAM PROVIMENTO AO RECURSO. UNÂNIME."
+(e-STJ, fl. 460)
+Nas razões do recurso especial, o agravante alega violação aos arts. 107, 393, 412, 413 e 884 todos do Código Civil de 2002, sustentando, em síntese, (a) que foi aplicada multa contratual e considerada confissão de dívida em valores exorbitantes, não podendo a cláusula penal superar a dívida principal e no caso a mesma corresponde a 325%, (b) que ocorreu atraso decorrente de caso fortuito e força maior, (c) que a confissão de dívida ocorreu sem sua participação ou sem sua anuência expressa.
+Foram apresentadas contrarrazões às fls. 496/521.
+É o relatório. Passo a decidir.
+Com relação à suposta violação aos arts. 107, 393, 412, 413 e 884 todos do Código Civil de 2002, tem-se que estes não se encontram contemplados no objeto da controvérsia resolvida pelo Tribunal de origem, tampouco foram objeto de embargos de declaração, não se vislumbrando o prequestionamento necessário para viabilizar a interposição do presente recurso especial
+Daí a inteligência do enunciado da Súmula nº 356 do Supremo Tribunal Federal, aplicada por analogia, a qual orienta que "o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 11% para 12% sobre o valor da condenação
+Publique-se.
