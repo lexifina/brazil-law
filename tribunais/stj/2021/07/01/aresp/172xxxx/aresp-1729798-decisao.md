@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo manejado por Ribeiro AR Construções e Projetos Eireli contra decisão da Vice-Presidência do Tribunal Regional Federal da 4ª Região que inadmitiu seu recurso especial ante a incidência da Súmula 284/STF, tendo em vista que "o dissídio não preenche os requisitos do artigo 1.029, § 1º, do Novo Código de Processo Civil, restringindo-se a parte recorrente a indicar julgados, sem, contudo, indicar o dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência" (fl. 282).
+A agravante defende que "está equivocado o juízo de admissibilidade a quo, vez que, com efeito, ao revés do consignado na r. decisão agravada, houve não somente a transcrição das ementas dos julgados confrontados, mas também o cotejo analítico exigido, por meio da indicação das circunstâncias que identificam os casos enfrentados, em total atendimento aos dispositivos legais" (fl. 295).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi impugnado o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial, qual seja, a incidência da Súmula 284/STF, tendo em vista que "o dissídio não preenche os requisitos do artigo 1.029, § 1º, do Novo Código de Processo Civil, restringindo-se a parte recorrente a indicar julgados, sem, contudo, indicar o dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência" (fl. 282).
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
