@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por SHOPPING PARK LAGOS S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. Execução. Shopping center. Decisão que acolheu parcialmente a exceção de pré-executividade e declarou nula a execução quanto à rubrica "condomínio", sob o argumento de que o título carece de liquidez no que tange tal a rubrica. Recurso interposto pela exequente. O contrato prevê que os encargos devidos por cada locatário seriam obtidos mediante Coeficiente de Rateio de Despesas - CRD. Art. 783 do CPC. Planilha apresentada pela exequente que não demonstra a origem dos débitos cobrados a título de "condomínio" e o respectivo CRD. A rubrica afastada pelo juízo, de fato, não pode integrar a execução, já que a documentação utilizada para a instrução desta não possui a força executiva necessária. Desfecho adequado. NEGADO PROVIMENTO AO RECURSO (fl. 92).
+Alega violação do art. 783 do CPC, no que concerne à possibilidade de execução do título executivo extrajudicial na espécie, posto que o mesmo é "certo, líquido e exigível" (fl. 122). Traz os seguintes argumentos:
+De forma equivocada, tanto a sentença de 1º grau quanto o Tribunal de Justiça reproduzem alegações não pertinentes e tampouco não condizentes com a realidade dos autos da ação de execução.
+Isto porque ao acolherem os argumentos da parte Recorrida IGNORAM que nos autos do processo o Recorrente constituiu adequadamente o débito de condomínio, vide planilhas de fls. 172/184, com ênfase nas folhas 174/181.
+Verdadeiramente não entende o Recorrente a razão para a manutenção do erro já que além da cobrança de despesas de condomínio encontrar previsão no contrato de locação ainda foi devidamente constituída e liquidada em planilha apresentada ao juízo.
+ .. .
+ ..  depreende-se que o título executivo em questão representa obrigação certa, líquida e exigível. No caso, há certeza, porque expressamente representada no título, o que não se confunde com a impossibilidade de impugnação.
+Há liquidez, porque dispensa qualquer elemento extrínseco para determinar o objeto, senão o mero cálculo aritmético. E há exigibilidade, porque em tese existe o direito à prestação e o dever de cumpri-la é atual, pois não sujeito a termo ou condição (fl. 123).
+ ..  a violação se demonstra na decisão, uma vez que os débitos estão devidamente constituídos e demonstrados através de planilha que não requer nenhuma perícia contábil, já que são simples cálculos aritméticos, não podendo a execução ser declarada parcialmente nula eis que contraria frontalmente o artigo 783 do CPC (fl. 124).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia posta, o Tribunal de origem se manifestou nos seguintes termos:
+ ..  a execução sobre a rubrica denominada "condomínio".
+A previsão contratual desta rubrica encontra-se na cláusula 12 do contrato de locação (i-24 e ss dos autos originários), bem como na cláusula onze das normas gerais complementares ao contrato de locação (i-60 e ss dos autos originários).
+Sendo assim, conforme previsto contratualmente, os encargos devidos por cada locatário seriam obtidos mediante Coeficiente de Rateio de Despesas - CRD.
+O executado, por sua vez, sustenta que a exequente não demonstrou a origem dos débitos cobrados a título de condomínio e o respectivo CRD.
+De fato, a planilha de i-73 e ss não identifica de forma detalhada a origem de cada débito (fl. 96, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
