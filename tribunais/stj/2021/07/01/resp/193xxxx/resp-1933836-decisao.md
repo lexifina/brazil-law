@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+Apelação cível. Contrato de cartão de crédito consignado. Reserva de Margem Consignável - RMC. Descontos legítimos. Recurso não provido. É válido o contrato de cartão de crédito com reserva de margem consignável, se demonstrada a contratação válida pelo consumidor.
+Alega-se violação dos artigos 39, IV, 46 e 52 do Código de Defesa do Consumidor e187, 421 e 422 do Código Civil, associada a dissídio jurisprudencial,sob o argumento de que não foi dada aorecorrente a devida informação acerca da espécie contratual e de suas consequências; que houve abuso de direito; e que não se observou a boa-fé objetiva.
+Assim delimitada a controvérsia, passo a decidir.
+Nenhum dos dispositivos legais foi objeto de exame pelo Tribunal de origem, a despeito da oposição de embargos de declaração, o que atrai a incidência dos enunciados n. 282 da Súmula do Supremo Tribunal Federal e 211 desta Casa.
+O Tribunal local, não fosse isso, concluiu ser "inconsistente a alegação deduzida pelo apelante de vício de consentimento na contratação, por falta de informações adequadas, ante a clareza dasexpressões constantes do termo de adesão e da autorização juntados aos autos, que dispensam qualquer esforço interpretativo, quanto a permitir à parte autora ter ciência de que estava ajustado um cartão de crédito consignado, com desconto em folha de pagamento, em que parcela de sua remuneração seria utilizada para pagamento do crédito liberado, circunstância esta que também afasta a aplicação do instituto da simulação" (e-STJ, fls. 537/538).
+A conclusão foi dada efetiva ciência dos termos e consequências contratuaisé, pois, de ordem fática e imune ao crivo do recurso especial, como ensinam os verbetes n. 5 e 7 da Súmula desta Casa.
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
