@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se derecurso em habeascorpus interposto porFILIPE GABRIEL SAMPAIO COELHO BARRETO contra acórdão do Tribunal de Justiçado Estado da Bahia (HC n. 8035039-09.2020.805.000).
+O recorrente encontra-se preso preventivamente, desde 7/11/2019, diante de representação da autoridade policial, por suposta prática do delito descrito no art. 157, § 2º, I e II, do CP (fl. 313).
+Alega que está sendo vítima de constrangimento ilegal em razão do excesso de prazo na formação da culpa, uma vez que se encontra preso há mais de 1 ano e 5 meses.
+Sustenta a ausência dos requisitos da prisão preventiva,sendo possível a substituição da prisão por outra medida menos gravosa (art. 319 do CPP), uma vez que é primário e possui condições sociais favoráveis (fl. 399).
+Requer a revogação da prisão preventiva ou suasubstituiçãopor medidas cautelares alternativas.
+O pedido de liminar foi indeferido (fls. 409-410).
+O Ministério Público Federal manifestou-se pelo provimento do recurso (fls. 514-521).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção dapreventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+A propósito, assim se manifestou o Tribunala quo(fls. 43-47):
+Pretende a impetração a concessão dowrit para assegurar ao Paciente o sagrado direito de ir e vir (locomoção), negado no Juízo de Primeiro Grau, devendo este Relator afirmar que, do compulsar dos autos, acertada foi a decisão indeferitória a quo, a saber:
+"Em relação ao requisito de prova da existência do crime e indícios da autoria, consta nos autos o depoimento das testemunhas, as quais não deixam dúvidas acerca da ocorrência do delito e dos indícios suficientes da autoria. "No que diz respeito ao requisito do perigo do estado de liberdade dos representados, estes igualmente se encontram presentes, visto que segundo consta nos autos, os representados são acusados de estando na posse de uma pistola, ter assaltado os passageiros de um ônibus escolar, além do que, conforme narrado nos autos" - ID. 11848390.(Decisão monocrática de folhas 49/54, em 06.06.2019)"
+In casu, observa-se que o Paciente não é um neófito em condutas aliadas à criminalidade porque, ao que tudo indica, por outra Acusação Penal nº também responde, na Comarca de Nazaré, como bem noticiou o douto Julgador0000747-62.2018.805.0176precedente - id. 12773261, sendo prudente, pois, (garantia da acautelar-se a sociedade ordem pública - risco de reiteração criminosa e gravidade delitiva).
+ ..
+Soma-se a isso, a porque o Paciente e comparsas, gravidade delitiva (modus)no total de 05 (cinco) adentraram em um ônibus escolar e munidos de pistolas renderam as vítimas desapossando-lhes de seus aparelhos celulares e de uma mochila.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível asubstituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Além disso, eventuais condições subjetivas favoráveis do recorrente, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação.
+Ademais, consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRgno RHC n. 123.274/RJ, relator MinistroAntonioSaldanha Palheiro,DJede 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma(fls. 376-379):
+Como visto o Paciente Filipe Gabriel Sampaio Coelho Barreto foi denunciado porque acusado de em 08/05/2019, por volta das 17h00min, ter em concurso de agentes (cinco denunciados no total) e utilizando-se de arma de fogo (pistolas), praticado o delito previsto no Art.157, § 2º, I e II, do CP, em um ônibus escolar, próximo ao entroncamento de Mar Grande/Itaparica, roubando 37 (trinta e sete) aparelhos de celular, (id. 11848223).
+ ..
+No tocante ao alegado recrudescido pelo risco da Pandemia, excesso prazal tem-se que o douto Magistrado a quo, em Informações (92971672), procedeu no sentido derealizar, Audiência por videoconferência (celeridade processual) não acontecendo porquestões técnicas e que enviou recentemente os autos para fins de migração ao sistema PJE, além do fato de o Paciente ter, no início da persecutio, permanecido foragido, o que ocasionou, inclusive, decisão a quo, no sentido de desmembrar tal Ação Penal, buscando ,com isso, dar maior impulso processual e não prejudicar os demais denunciados, portanto, sem sentido, aplicável aqui, data maxima venia, o Enunciado Sumular 64, doSTJ.
+No caso, observa-se que o feito tramita de forma regular, não havendo indícios de desídia estatal, pois a causa envolve pluralidade de réus, devendo ser considerada também a situação excepcional de pandemia.
+Inviáveis, portanto, as teses recursais suscitadas.
+Ante o exposto,com base no art. 34, XVIII,b, do RISTJ,nego provimento ao recurso ordinário em habeas corpus.
+Publique-se.Intimem-se.
