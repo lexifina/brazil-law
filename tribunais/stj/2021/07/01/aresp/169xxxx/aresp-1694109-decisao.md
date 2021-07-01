@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Protesto de CDA Lei Estadual nº 13.918/09 Decisão proferida pelo Colendo Órgão Especial deste Egrégio Tribunal de Justiça no julgamento da Arguição de Inconstitucionalidade nº 0170909-61.2012.8.26.0000 que determina que a taxa de juros a ser aplicada ao montante do imposto ou da multa não deve exceder aquela incidente na cobrança dos tributos federais (Taxa SELIC) Protesto que encontra guarida no ordenamento antes mesmo da introdução do artigo 1º, parágrafo único, na Lei nº 9.492/96, diante da definição de protesto conforme efetuada pela referida Lei e pela caracterização da CDA como título executivo extrajudicial Cancelamento do protesto da CDA nº 1.141.157.169 por iliquidez do título Recurso provido.
+Foi atribuído á causa o valor de R$ 13.837,86, em 04.03.2015.
+Os embargos de declaração foram rejeitados.
+No recurso especial, o recorrente aponta ofensa aos arts. 3º da Lei 6830/1980 e arts. 202, 203 e 204 do CTN.
+Sustentou, em síntese, que o protesto da CDA referente a débito de ICMSdeclarado enão pago, é o meio adequado para exigir o pagamento dos créditos tributários.
+Adiante, afirmou, em suma, que os títulos executivos (certidões da dívida ativa) permanecem hígidos, tendo em vista a possibilidade de, por simples operação aritmética, expurgar o montante eventualmente reconhecido como indevido.
+Pugnou ao final, em síntese, para que a parte ex-adversa fosse condenada em sucumbência na parte em que houve decaimento.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Primeiramente, no tocante à possibilidade de utilização do protesto como forma de cobrança de créditos tributários, verifica-se que o recurso especial apresenta a mesma tese abraçada pelo Tribunal a quo, se apresentando inócuo, por não haver contrariedade entre o arrazoado recursal e o acórdão recorrido. Incidência da súmula 2894/STF.
+Por outro lado, no tocante a higidez da CDA, o Tribunal a quo explicitou que o título deveria ser cancelado "em face do reconhecimento judicial de que tal título não se mostrava integralmente exigível". Observe-se que não se tratou da possibilidade de correção do título por simples cálculo aritmético, ou seja, não foi abordada a questão apresentada pelo recorrente, o que atraio comando sumular 282/STF a inviabilizar essa parcela recursal.
+Por outro lado, no tocante, à pleiteada distribuição nos ônus da sucumbência, verifica-se que o recorrente não vinculou dispositivo legal para fundamentar o pleito, o que implica na incidência da súmula 284/STF e, por outro lado, para examinar a necessidade a referida distribuição seria necessária revisão do conjunto probatório, o que é vedado no âmbito do recurso especial.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
