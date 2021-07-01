@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes, Mauro Campbell Marques, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU A CONTROVÉRSIA, ANTE A INCIDÊNCIA DA SÚMULA 7/STJ. NÃO CABIMENTO.
+1. Nos termos dos arts. 1.043 do Código de Processo Civil e 266 do Regimento Interno do Superior Tribunal de Justiça, são cabíveis embargos de divergência contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do Tribunal, "sendo os acórdãos, embargado ou paradigma, de mérito"; ou "sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia".
+2. Na espécie,o acórdão embargado não apreciou a controvérsia, porquanto reconheceu que "é assente a jurisprudência desta Corte de que a revisão da dosimetria das sanções aplicadas em ação de improbidade administrativa implica reexame do conjunto fático-probatório dos autos, encontrando óbice na Súmula 7/STJ, salvo se, da leitura do acórdão recorrido, exsurge a desproporcionalidade na aplicação das sanções, o que não é a hipótese dos autos".
+3. Agravo interno desprovido.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno interposto por José Ronaldo Leme e outros contra a decisão de fls. 1.101/1.102, por meio da qual o Ministro Presidente desta Corte Superior indeferiu liminarmente os embargos de divergência, assentando que incide, no caso, a Súmula 315/STJ, pois o acórdão embargado não apreciou o mérito da controvérsia.
+A parte agravante afirma que "o aresto, que julgou o agravo de José Ronaldo Leme, foi conhecido. O recurso especial não foi conhecido. Não se trata, portanto, de questão técnica processual" (fl. 1.109). Sustenta que o óbice sumular 315/STJ não é aplicável e que, "mesmo sem o reconhecimento formal, a d. Turma Julgadora apreciou a controvérsia, que reside na possibilidade ou não da revisão das sanções aplicadas em ação pela prática de ato de improbidade administrativa" (fl. 1.110).
+Devidamente intimado, o Ministério Público do Estado de São Paulo pugnou pelo desprovimento do agravo interno (fls. 1.122/1.127).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU A CONTROVÉRSIA, ANTE A INCIDÊNCIA DA SÚMULA 7/STJ. NÃO CABIMENTO.
+1. Nos termos dos arts. 1.043 do Código de Processo Civil e 266 do Regimento Interno do Superior Tribunal de Justiça, são cabíveis embargos de divergência contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do Tribunal, "sendo os acórdãos, embargado ou paradigma, de mérito"; ou "sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia".
+2. Na espécie, o acórdão embargado não apreciou a controvérsia, porquanto reconheceu que "é assente a jurisprudência desta Corte de que a revisão da dosimetria das sanções aplicadas em ação de improbidade administrativa implica reexame do conjunto fático-probatório dos autos, encontrando óbice na Súmula 7/STJ, salvo se, da leitura do acórdão recorrido, exsurge a desproporcionalidade na aplicação das sanções, o que não é a hipótese dos autos".
+3. Agravo interno desprovido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): Nos termos dos arts. 1.043 do Código de Processo Civil e 266 do Regimento Interno do Superior Tribunal de Justiça, são cabíveis embargos de divergência contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do Tribunal, "sendo os acórdãos, embargado ou paradigma, de mérito"; ou "sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia".
+Ora, na espécie, o acórdão objeto dos embargos de divergência não apreciou a controvérsia veiculada nas razões do recurso especial, porquanto reconheceu que "é assente a jurisprudência desta Corte de que a revisão da dosimetria das sanções aplicadas em ação de improbidade administrativa implica reexame do conjunto fático-probatório dos autos, encontrando óbice na Súmula 7/STJ, salvo se, da leitura do acórdão recorrido, exsurge a desproporcionalidade na aplicação das sanções, o que não é a hipótese dos autos".
+Nesse contexto, a decisão ora agravada, que aplicou o anteparo sumular 315/STJ e indeferiu liminarmente os embargos de divergência, deve ser mantida, como demonstram os seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. SÚMULA 7/STJ. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. SÚMULA 315/STJ.
+1. Indefiro o pedido de adiamento para entrega presencial de memoriais. A jurisprudência do Superior Tribunal de Justiça é de que o indeferimento de adiamento para apresentação de memoriais não configura cerceamento de defesa, porque tal peça não é ato substancial intrínseco à defesa. Ademais, no caso em exame, o causídico teve tempo suficiente para a entrega de memoriais, ainda que por meio virtual.
+2. Trata-se de Agravo Interno contra decisão que indeferiu liminarmente os Embargos de Divergência ante a incidência da Súmula 315/STJ, pois o acórdão embargado concluiu pela impossibilidade de analisar o mérito do Recurso Especial em razão da incidência da Súmula 7/STJ.
+3. O acórdão embargado decidiu que, no caso concreto analisado, o exame do Recurso Especial é inviável pela ausência de prequestionamento, fato que impede o conhecimento dos Embargos de Divergência pela aplicação da Súmula 315/STJ.
+4. Embora o agravante defenda que o aresto embargado se manifestou quanto ao métito da controvérsia, verifica-se que ele não foi examinado pela incidência da Súmula 7/STJ.
+5. O CPC/2015 estabeleceu o cabimento de Embargos de Divergência contra acórdão que, ao julgar Recurso Especial, tenha apreciado controvérsia relativa à aplicação do direito material ou do direito processual, o que não significa a admissão de Embargos de Divergência contra acórdão que não conheceu de Recurso Especial em virtude da ausência de requisito de admissibilidade.
+6. O Superior Tribunal de Justiça entende que não são cabíveis Embargos de Divergência para discutir aplicação de regra técnica de admissibilidade no caso concreto.
+7. Agravo Interno não provido.
+(AgInt nos EAREsp 1.641.937/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 09/03/2021, DJe 16/03/2021)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA QUANTO ÀS REGRAS TÉCNICAS DE ADMISSIBILIDADE DO RECURSO. EXAME. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 315/STJ. NÃO CUMPRIMENTO DOS REQUISITOS DO ART. 1043, §4º, DO CPC PARA INTERPOSIÇÃO DOS EMBARGOS.
+1. Revela-se inviável rever em embargos de divergência, a aplicação de regras técnicas de conhecimento do recurso especial, o que ocorre quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal. Aplicação a Súmula 315/STJ.
+2. O não atendimento dos requisitos insertos nos art. 1043, §4º, do CPC e 266, §4º, do CPC quando da interposição dos embargos de divergência, importa na sua rejeição.
+3. Agravo interno não provido.
+(AgInt nos EDcl nos EAREsp 1.359.454/PR, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 09/02/2021, DJe 17/02/2021)
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
