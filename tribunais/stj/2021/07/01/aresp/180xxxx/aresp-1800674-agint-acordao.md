@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTÊNCIA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO IMPUGNADO. APLICAÇÃO DAS SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não houve violação do art. 1.022 do CPC/2015, porquanto o acórdão combatido fundamentou, claramente, o posicionamento por ele assumido e analisou a única questão relevante para o deslinde do processo: a ilegitimidade da autora para a defesa de direitos coletivos lato sensu de uma comunidade de fornecedores.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso estão dissociadas do que decidido no acórdão questionado. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+3. Agravo Interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator) : Trata-se de Agravo Interno contra decisão do eminente Ministro Presidente do Superior Tribunal de Justiça que conheceu do Agravo para não conhecer do Recurso Especial, nos seguintes termos (fls. 672-679, e-STJ):
+No que concerne ao recurso apresentado, quanto à primeira controvérsia, na espécie, impende ressaltar que, nos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como a corrigir erro material. Nesse sentido, os seguintes arestos da Corte Especial: EDcl no AgInt no RE nos EDcl no AgInt no AREsp 475.819/SP, relator Ministro Humberto Martins, Corte Especial, DJe de 23/3/2018, e EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1491187/SC, relator Ministro Mauro Campbell Marques, Corte Especial, DJe de 23/3/2018.
+Quanto à segunda controvérsia, na espécie, o acórdão recorrido assim decidiu:
+(..)
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1637445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1647046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nas razões do Agravo Interno (fls. 682-699, e-STJ), a recorrente reitera a defesa da existência de omissão no decisum de segundo grau. Sustenta, em seguida, não ser o caso de aplicação da Súmula 284/STF.
+Parecer do Ministério Público Federal pelo desprovimento do Agravo Interno (fls. 707-709, e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTÊNCIA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO IMPUGNADO. APLICAÇÃO DAS SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não houve violação do art. 1.022 do CPC/2015, porquanto o acórdão combatido fundamentou, claramente, o posicionamento por ele assumido e analisou a única questão relevante para o deslinde do processo: a ilegitimidade da autora para a defesa de direitos coletivos lato sensu de uma comunidade de fornecedores.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso estão dissociadas do que decidido no acórdão questionado. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator) : Os autos foram recebidos neste Gabinete em 22.03.2021.
+A irresignação não merece prosperar.
+Na origem, a recorrente, pessoa jurídica de direito privado, ajuizou ação contra o Município de Magé pedindo o seguinte (fl. 14, e-STJ):
+Tudo exposto, a Autora requer a V.Exa., após o deferimento da tutela requerida nos item 16 acima, se digne ordenar a citação do réu, para que fique integrado no processo, CONFIANDO EM QUE, AO FINAL, SERÁ JULGADO PROCEDENTE o pedido aqui formulado, no sentido de condenar o Município de Magé a doravante observar, a cada novo pagamento feito a qualquer fornecedor, a regra da ordem cronológica de datas de exigibilidade de obrigações, tal qual estatuída no art. 5º da Lei nº 8.666/93, notadamente no que se refere aos serviços associados ao descarte de resíduos sólidos urbanos. (g. n.)
+O Tribunal de origem, confirmando a sentença, extinguiu o processo sem exame do mérito, ante a ilegitimidade da autora para defender interesses de uma coletividade de fornecedores do Município, pois não está inscrita entre os autorizados ao manejo da Ação Civil Pública e da Ação Popular (art. 1º da Lei 4.717/1965; art. 5º da Lei 7.347/1985).
+No Recurso Especial, a parte alega haver afronta aos arts. 1.022, 17 e 318 do CPC, bem como ao art. 5 º da Lei 8.666/1993. Defende que a suposta conduta ilícita do Município atinge sua esfera jurídica.
+O apelo especial foi inadmitido na origem, o que ensejou a interposição do Agravo de fls. 639-654, e-STJ.
+Em decisão monocrática, o eminente Ministro Humberto Martins conheceu do Agravo para não conhecer do Recurso Especial, ante a incidência da Súmula 284/STF.
+A decisão deve ser mantida.
+Com efeito, o Tribunal de Justiça do Estado do Rio de Janeiro extinguiu o processo sem exame do mérito ante a ausência de legitimidade da autora para defender direitos coletivos lato sensu.
+No Recurso Especial, quanto ao ponto, a parte se limita a defender sua legitimidade, porquanto seu direito vem sendo infringido pela conduta do Município, sem se atentar que, em verdade, ajuizou ação para tutelar direitos de "qualquer fornecedor", e não apenas para a defesa do seu direito individual. Acertada, então, a aplicação da Súmula 284/STF, por analogia. Nesse sentido: AgInt no REsp 1881879/SE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 10/12/2020; AgInt no REsp 1.581.014/SP, Relator Min. MARCO BUZZI, Quarta Turma, DJe 28.5.2018; AgInt no AREsp 1704307/SE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 17/12/2020; AgInt no AREsp 1605118/CE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 25/09/2020; AgInt no REsp 1839723/DF, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 25/06/2020; e AgInt no AREsp 1606785/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 27/08/2020.
+Quanto à suposta violação ao art. 1.022, do CPC, não há como acolher a alegada negativa de prestação jurisdicional, visto que a Corte de origem apreciou, de forma bem fundamentada, a única questão relevante para o deslinde da caso, qual seja, a ausência de legitimidade da autora para propor ação visando à tutela de direitos coletivos lato sensu. O acórdão de segundo grau não padece de qualquer omissão, contradição ou obscuridade.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
