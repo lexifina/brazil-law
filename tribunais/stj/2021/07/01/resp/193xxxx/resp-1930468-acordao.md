@@ -1,0 +1,41 @@
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. PENSÃO POR MORTE. RELATIVAMENTE INCAPAZ. MAIOR DE 16 ANOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. Não se pode conhecer da insurgência contra a ofensa aos arts. 5º e 6º da Lei 11.419/2006, pois os referidos dispositivos legais não foram analisados pela instância de origem. Dessa forma, não se pode alegar que houve prequestionamento nem ao menos implícito da questão. Ausente, portanto, esse requisito, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+2. O acórdão recorrido está em sintonia com o atual entendimento do Superior Tribunal de Justiça quando afirma que a DIB coincide com o óbito do segurado, não correndo a prescrição contra o absolutamente incapaz, no caso o menor de 16 anos, e que, com o implemento dos 21 anos, tornam-se automaticamente prescritas apenas as parcelas não reclamadas há mais de cinco anos, razão pela qual não merece prosperar a irresignação. Precedentes: REsp 1.405.909/AL, Rel. Min. Sérgio Kukina, Rel. p/Acórdão Min. Ari Pargendler, Primeira Turma, DJe 9.9.2014; AgRg no AREsp 269.887/PE, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 21.3.2014; REsp 1.354.689/PB, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 11.3.2014; REsp 1.513.977/CE, Rel. Min. Herman Benjamin, Segunda Turma, DJe 5.8.2015.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, conheceu em parte do recurso e, nessa parte, negou-lhe provimento, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto (art. 105, III, "a e c", da Constituição da República Federativa do Brasil) contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (fl. 204, e-STJ):
+PREVIDENCIÁRIO. PENSÃO POR MORTE DE GENITOR. FILHA RELATIVAMENTE INCAPAZ AO TEMPO DO REQUERIMENTO. HABILITAÇÃO TARDIA. BENEFÍCIO DEVIDO DESDE A DER.
+1. A concessão do benefício de pensão por morte depende da ocorrência do evento morte, da demonstração da qualidade de segurado do de cujus e da condição de dependente de quem objetiva a pensão.
+2. O termo inicial do benefício previdenciário de pensão por morte, em se tratando de dependente absolutamente incapaz, deve ser fixado na data do óbito do segurado, ainda que não postulado administrativamente no prazo de 30 (trinta) dias, pois não pode aquele ser prejudicado pela inércia de seu representante legal, até porque contra ele não corre prescrição.
+3. Na hipótese dos autos, a parte autora não era absolutamente incapaz na data do requerimento administrativo, que foi protocolado quando contava quase 17 anos de idade, não havendo notícia nos autos de qualquer moléstia ou outro fator que torne a autora absolutamente incapaz. O benefício, portanto, é devido a contar da DER.
+Não se interpuseram Embargos de Declaração.
+A parte recorrente alega haver violação aos arts. 5º e 6º da Lei 11.206/2006. Afirma que a prescrição não corre contra menores. Ademais, o Tribunal não teria observado os prazos previstos na legislação (fl. 230, e-STJ).
+Sem contrarrazões.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 7.4.2021.
+Não se pode conhecer da insurgência contra a ofensa aos arts. 5º e 6º da Lei 11.419/2006, pois os referidos dispositivos legais não foram analisados pela instância de origem. Dessa forma, não se pode alegar que houve prequestionamento nem ao menos implícito da questão. Ausente, portanto, esse requisito, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada." A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. SERVIÇO DE ÁGUA E ESGOTO. ART. 535, II, DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ALEGADA VIOLAÇÃO AOS ARTS. 43 DA LEI 11.445/2007, 6º, § 3º, I, DA LEI 8.987/95 E 81, III, DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ALEGAÇÃO DE REGULARIDADE DO FORNECIMENTO DE ÁGUA. REDUÇÃO DO VALOR DA INDENIZAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+II. Quanto à alegada ofensa ao art. 43 da Lei 11.445/2007, art. 6º, § 3º, I, da Lei 8.987/95 e art. 81, III, do CDC, não há como afastar o óbice da Súmula 282 do STF. Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto. Precedentes.
+(..)
+V. Agravo Regimental improvido.
+(AgRg no AREsp 499.237/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 1/7/2014).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. QUEDA DE PEDESTRE EM BUEIRO DESTAMPADO. OFENSA AO ART. 535, II, DO CPC NÃO CARACTERIZADA. VIOLAÇÃO AO ART. 393 DO CÓDIGO CIVIL DE 2002. AUSÊNCIA DE PREQUESTIONAMENTO. ALEGAÇÃO DE INEXISTÊNCIA DE ATO ILÍCITO E NEXO DE CAUSALIDADE. REEXAME DE MATÉRIA DE FATO. SÚMULA 7/STJ. CONTRARIEDADE AO ART. 333, I, DO CPC. NÃO OCORRÊNCIA. DANO MORAL IN RE IPSA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Corte de origem dirimiu, fundamentadamente, as matérias que lhe foram submetidas, motivo pelo qual o acórdão recorrido não padece de omissão, contradição ou obscuridade. Não se vislumbra, portanto, a afronta ao art. 535 do Código de Processo Civil.
+2. A questão amparada no art. 393 do Código Civil de 2002 não foi objeto de decisão pelo aresto impugnado, atraindo, por analogia, o óbice das Súmulas 282 e 356 do STF.
+(..)
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 316.532/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 1/8/2014).
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. VIOLAÇÃO DO ART. 1.245 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. EMBARGOS DE TERCEIRO. PROPRIEDADE DO BEM PENHORADO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A configuração do prequestionamento pressupõe debate e decisão prévios pelo colegiado, ou seja, emissão de juízo sobre o tema. Se o Tribunal de origem não adotou entendimento explícito a respeito do fato jurígeno veiculado nas razões recursais, inviabilizada fica a análise sobre a violação dos preceitos evocados pelo recorrente.
+2. Verifica-se que a Corte de origem não analisou, ainda que implicitamente, o art. 1.245 do Código Civil. Desse modo, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal. Incidência das Súmulas 282 e 356/STF.
+(..)
+Agravo regimental improvido.
+(AgRg no AREsp 500.308/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 27/6/2014).
+O acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior quando afirma que a DIB coincide com o óbito do segurado, não correndo a prescrição contra o absolutamente incapaz, no caso o menor de 16 anos, e que, com o implemento dos 21 anos, tornam-se automaticamente prescritas apenas as parcelas não reclamadas há mais de cinco anos, razão pela qual não merece prosperar a irresignação. Precedentes: REsp 1.405.909/AL, Rel. Min. Sérgio Kukina, Rel. p/Acórdão Min. Ari Pargendler, Primeira Turma, DJe 9.9.2014; AgRg no AREsp 269.887/PE, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 21.3.2014; REsp 1.354.689/PB, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 11.3.2014; REsp 1.513.977/CE, Rel. Min. Herman Benjamin, Segunda Turma, DJe 5.8.2015.
+Por tudo isso, conheço parcialmente do Recurso Especial, e, nessa parte, nego-lhe provimento.
+É como voto.
