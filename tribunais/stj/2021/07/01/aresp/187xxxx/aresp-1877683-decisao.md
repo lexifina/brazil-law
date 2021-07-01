@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por PROSPER S/A CORRETORA DE VALORES E CÂMBIO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+AGRAVO DE INSTRUMENTO.
+COBRANÇA EM FASE DE EXECUÇÃO DE SENTENÇA.
+DECISÃO QUE INDEFERIU A APREENSÃO DO PASSAPORTE E DA CARTEIRA NACIONAL DE HABILITAÇÃO DO DEVEDOR.
+INCONFORMISMO DO EXEQUENTE.
+1) AS MEDIDAS EXECUTIVAS ATÍPICAS ESTÃO PREVISTAS NO ART. 139, IV, DO C.P.C., PERMITINDO QUE O JUIZ DETERMINE "(..) TODAS AS MEDIDAS INDUTIVAS, COERCITIVAS, MANDAMENTAIS OU SUB-ROGATÓRIAS NECESSÁRIAS PARA ASSEGURAR O CUMPRIMENTO DE ORDEM JUDICIAL, INCLUSIVE NAS AÇÕES QUE TENHAM POR OBJETO PRESTAÇÃO PECUNIÁRIA".
+2) SEGUNDO JURISPRUDÊNCIA DO STJ, A APREENSÃO DE PASSAPORTE E DE CNH DO DEVEDOR SÃO MEDIDAS EXCEPCIONAIS QUE SÓ TEM LUGAR DEPOIS DE ESGOTADOS OS MEIOS ORDINÁRIOS DE TENTATIVA DE PENHORA DO PATRIMÔNIO DO DEVEDOR.
+3) CASO CONCRETO QUE NÃO AUTORIZA A EXCEPCIONALIDADE DAS PROVIDÊNCIAS REQUERIDAS. A EXECUÇÃO QUE DURA MAIS DE 11 ANOS, MAS O PRÓPRIO EXEQUENTE DEIXOU DE DAR ANDAMENTO AO FEITO, TENDO SIDO INTIMADO PARA TANTO, SOB PENA DE EXTINÇÃO. TAMBÉM NÃO ESGOTOU OS MEIOS ORDINÁRIOS PARA SATISFAÇÃO DE SEU CRÉDITO, SENDO POSSÍVEL A REALIZAÇÃO DE DILIGÊNCIAS PARA LOCALIZAÇÃO DE BENS DO DEVEDOR PASSÍVEIS DE PENHORA.
+4) DESPORPORCINALIDADE DA PROVIDÊNCIA PRETENDIDA NESSE MOMENTO PROCESSUAL.
+DESPROVIMENTO DO RECURSO.
+Quanto à controvérsia, alega violação do art. 139, IV, do CPC, relativo à concessão de medidas constritivas atípicas em processo de execução, trazendo os seguintes argumentos:
+36. No caso dos autos, o Recorrido é pessoa influente, que vive uma vida de alto padrão, possui uma dívida com o Recorrente desde 1995 oriunda de vultosos investimentos em bolsa de valores, mas se vale da ineficiência dos meios coercitivos adotados para a satisfação do crédito para descumprir a sentença executada.
+37. Ou seja, resta claro que, ao negar o pedido do Recorrente de apreensão do passaporte e suspensão da CNH do Recorrido, o v. acórdão recorrido deixou de aplicar corretamente o art. 139, IV, do CPC, violando-o. (fls. 89).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso concreto, apesar de a execução durar 11 anos, verifica-se que o próprio credor diligenciou poucas vezes a cada ano, deixando de dar andamento ao feito em algumas oportunidades, já tendo inclusive sido determinada sua intimação, sob pena de extinção do processo (fls. 1.166, dos autos de origem).
+Assim é que em se analisando o feito de origem, constata-se que baixados os autos para cumprimento de sentença em 11/12/2006, BANCO PROSPER S.A. deu início à execução somente em 09/11/2007, quase um ano depois (cf. fls. 903 e 913/919).
+Com efeito, deferida a penhora de numerário de titularidade do devedor depositado em instituições financeiras em 12/08/2008, a mesma restou infrutífera (cf. fls. 946/947 e 950/951), enquanto instado em outubro de 2008 a indicar bens do devedor passíveis de penhora, BANCO PROSPER S.A. em 16/01/2009 requereu a penhora de bens do endereço do executado (fls. 952 e 955), sendo certo que carta precatória de penhora de bens também foi infrutífera, tendo sido certificado pelo OJA em agosto de 2010 que o patrono do exequente não diligenciou a respeito, se limitando a solicitar se aguardasse o resultado de tentativa de composição que se encontrava em andamento (cf. fls. 1.025), vindo o exequente se manifestar novamente no feito apenas em 10/07/2012 (cf. fls. 1.061).
+Como se vê, BANCO PROSPER S.A. não esgotou os meios tradicionais para localização de bens de LUIS EULÁLIO DE BUENO VIDIGIAL NETO, mostrando-se desproporcional e desarrazoado o pedido de apreensão de passaporte e de CNH do devedor, medidas que não contribuem para a localização de bens passíveis de penhora, incumbindo ao credor buscar meios eficazes para satisfação do seu crédito (fls. 54, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O acórdão vergastado assentou que a medida de suspensão da CNH, no caso, não estaria pautada em razoabilidade e proporcionalidade.
+Alterar a conclusão do julgado para reconhecer a medida pleiteada como útil, razoável ou proporcional, exigiria incursão fático-probatória, em afronta à Súmula nº 7 do STJ." (AgInt no REsp 1.891.911/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe 27/11/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
