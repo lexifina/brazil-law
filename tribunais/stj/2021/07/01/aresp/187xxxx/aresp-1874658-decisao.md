@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por LEOMAR DALLA BERNARDINA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL C/C OBRIGAÇÃO DE FAZER. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA LETIGIMIDADE ATIVA E PASSIVA AD CAUSAM. TEORIA DA ASSERÇÃO. PUBLICAÇÃO EM REVISTA DE PROJETO DE MOTOCICLEA TEMÁTICA. AUTORIA ATRIBUÍDA A TERCEIRO. DANO MORAL CONFIGURADO. INDENIZAÇÃO MAJORADA. NECESSIDADE DE NOVA PUBLICAÇÃO MENCIONANDO A VERDADEIRA AUTORIA DO PROJETO. POSSIBILIDADE DE DETERMINAÇÃO DE PROVIDÊNCIA COM RESULTADO PRÁTICO EQUIVALENTE. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. MAJORAÇÃO. (fl. 749)
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega a violação do art. 944, caput e parágrafo único, do CC, aduzindo que deve ser majorado o valor irrisório fixado a título de indenização por dano moral, trazendo os seguintes argumentos:
+Diversamente do que ficou consignado no v. Acórdão recorrido, não houve observação aos princípios da razoabilidade e da proporcionalidade ao fixar a verba indenizatória no valor irrisório de R$ 15.000,00 (quinze mil reais).
+O v. Acórdão recorrido, pela fundamentação apresentada, violou terminantemente o artigo 944 do Código Civil e o seu parágrafo único
+ ..
+A violação ao artigo 944 do Código Civil resta evidenciada na medida em que o v. Acórdão recorrido não levou em consideração, em conformidade com os fatos ocorridos, a extensão do dano, nem muito menos a gravidade da culpa e o próprio dano.
+ ..
+Resta evidente, assim, que o valor fixado na condenação é, data vênia, injusto e desproporcional, devendo os Recorridos serem condenados a um quantum justo e legal, condizente com o casos dos autos. (fls. 894/898)
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Quanto ao valor da indenização, esta colenda Câmara, em julgamento sob minha relatoria, já decidiu que "o valor da indenização destinada a recompensar dano moral sofrido pela vitima não pode ser irrisório e nem abusivo, devendo o arbitramento ser uma construção valorativa, sem perder de vista as capacidades econômico-financeiras das partes (credor e devedor), de modo a atingir os objetivos pedagógico, punitivo e compensatório ("punitive damage)." (TJES, Apelação cível n. 48.04.014161-5, data do julgamento: 01-10-2013, data da publicação no Diário: 01-11-2013).
+Assim, tenho que o valor de R$15.000,00 (quinze mil reais) é razoável, considerando em especial a capacidade econômica da corré Abril Comunicações. (fl. 763)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
