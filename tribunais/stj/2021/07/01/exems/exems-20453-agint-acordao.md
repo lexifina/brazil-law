@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes, Mauro Campbell Marques, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNONA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. DISCUSSÃO DA VALIDADE DA PORTARIA ANISTIADORA EM MANDADO DE SEGURANÇA. prejudicialidade da questão debatida nesse writ em relação AO PRESENTE FEITO EXECUTIVO. manutenção DA SUSPENSÃO DO PAGAMENTO DO PRECATÓRIO EXPEDIDO até decisão definitiva NAQUELA AÇÃO MANDAMENTAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ÓBICE DA SÚMULA 182/STJ. NÃO OBSERVÂNCIA DO DISPOSTO NO ART. 1.021, § 1º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. É prudente que se aguarde o trânsito em julgado do MS 19.707/DF, no qual se discute a validade da portaria anistiadora, quando será assentada a conformidade da decisão ali proferida com a orientação firmada pelo Supremo Tribunal Federal no julgamento do RE 817.338/DF (Tema 839).
+2. É evidente, portanto, a prejudicialidade da questão debatida nesse writ em relação à presente execução, que se fundamenta na citada portaria de anistia, impondo-se a manutenção da suspensão do pagamento do precatório expedido até decisão definitiva naqueles autos.
+3. Ausente impugnação específica a fundamento autônomo da decisão agravada, tal situação implica o não conhecimento do agravo interno interposto por força do óbice contido na Súmula 182/STJ e do disposto no art. 1.021, § 1º, do CPC.
+4. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno de fls. 116-136 interposto por JOSÉ DOS SANTOS CORDEIRO contra decisão monocrática que, em sede de execução em mandado de segurança, determinou a manutenção da suspensão do pagamento do precatório expedido até que sobrevenha o trânsito em julgado no MS 19.707/DF (no qual se discute a validade da portaria anistiadora).
+O agravante alega, em síntese, que: (a) a decisão agravada "quer modificar a concessão da ordem, que ordenou imediato pagamento dos valores retroativos das portarias anistiadoras, quando determina a suspensão dos pagamentos dos precatórios"; (b) "é obrigatório o cumprimento da ordem mandamental concedida no presente caso, com base na Repercussão Geral no RE nº 553.710/DF"; (c) válido o ato de concessão da anistia, o que implica a necessidade de pagamento imediato dos valores retroativos devidos; (d) não se mostra possível a relativização da coisa julgada, que só poderá ser revista por meio dos instrumentos próprios, como, por exemplo, através da ação rescisória; e (e) "a possível e posterior anulação da portaria concessiva da anistia que embasou esta execução não retira a eficácia do título judicial transitado em julgado".
+Requer, por isso, seja provido o recurso.
+A agravada, por sua vez, pleiteia a manutenção da decisão agravada. Argumenta que: (a) o mandado de segurança objeto da execução "não discutiu a qualidade de anistiado do exequente, não tratou da legalidade ou ilegalidade da portaria, e nem poderia", pois se limitou a determinar o pagamento dos valores retroativos; e (b) aplicável o "entendimento da Suprema Corte acima transcrito  RE 817.338/DF (Tema 839) , para permitir a revisão do ato concessivo a qualquer tempo".
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNONA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. DISCUSSÃO DA VALIDADE DA PORTARIA ANISTIADORA EM MANDADO DE SEGURANÇA. prejudicialidade da questão debatida nesse writ em relação AO PRESENTE FEITO EXECUTIVO. manutenção DA SUSPENSÃO DO PAGAMENTO DO PRECATÓRIO EXPEDIDO até decisão definitiva NAQUELA AÇÃO MANDAMENTAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ÓBICE DA SÚMULA 182/STJ. NÃO OBSERVÂNCIA DO DISPOSTO NO ART. 1.021, § 1º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. É prudente que se aguarde o trânsito em julgado do MS 19.707/DF, no qual se discute a validade da portaria anistiadora, quando será assentada a conformidade da decisão ali proferida com a orientação firmada pelo Supremo Tribunal Federal no julgamento do RE 817.338/DF (Tema 839).
+2. É evidente, portanto, a prejudicialidade da questão debatida nesse writ em relação à presente execução, que se fundamenta na citada portaria de anistia, impondo-se a manutenção da suspensão do pagamento do precatório expedido até decisão definitiva naqueles autos.
+3. Ausente impugnação específica a fundamento autônomo da decisão agravada, tal situação implica o não conhecimento do agravo interno interposto por força do óbice contido na Súmula 182/STJ e do disposto no art. 1.021, § 1º, do CPC.
+4. Agravo interno não conhecido.
+VOTO
+Nos autos da presente execução, restou determinada a expedição do precatóriopara pagamento do valor nominal constante da portaria de anistia do exequente, ora agravante (tendo sido expedido para tanto o Prc 5265/DF).
+Contudo, a UNIÃO aludiu à existência do MS 19.707/DF, impetrado pelo agravante, no qual se discute a validade da portaria anistiadora. Nesse contexto, considerando que essa ação mandamental encontra-se pendente de decisão definitiva, a agravada ponderou a necessidade de suspensão do pagamento do precatório expedido até que sobrevenha o trânsito em julgado naqueles autos.
+Ainda, a propósito, o ente público agravado noticiou que fora atribuído efeito suspensivo ao recurso extraordinário, por ele interposto, no âmbito do mencionado MS 19.707/DF.
+Desta forma, é prudente que se aguarde o trânsito em julgado do referido mandado de segurança, quando será assentada a conformidade da decisão ali proferida com a orientação firmada pelo Supremo Tribunal Federal no julgamento do RE 817.338/DF (Tema 839).
+É evidente, portanto, a prejudicialidade da questão debatida nesse writ em relação à presente execução, que se fundamenta na citada portaria de anistia, impondo-se a manutenção da suspensão do pagamento do precatório expedido até decisão definitiva naqueles autos.
+Desse modo, ausente impugnação específica a fundamento da decisão agravada, tal situação implica o não conhecimento do agravo interno interposto por força do óbice contido na Súmula 182/STJ e do disposto no art. 1.021, § 1º, do CPC.
+Ilustrativamente:
+AGRAVO INTERNO NA AÇÃO RESCISÓRIA. RECURSO INCAPAZ DE ALTERAR O JULGADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ARTIGO 1.021, § 1º, DO CPC/2015.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, sob pena de não ser conhecido o agravo.
+2. Agravo interno não conhecido.
+(AgInt na AR 5.816/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 26/04/2017, DJe 02/05/2017)
+Em consequência, não merece reparo a decisão agravada.
+Ante o exposto, voto por não conhecer do agravo interno.
