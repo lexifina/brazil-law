@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de WILLIAM RODRIGUES BARBOSA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que "o paciente foi preso em flagrante, no dia 27 de Outubro de 2019, sendo, posteriormente, denunciado pela suposta prática do delito previsto no art. 129, §1º, III c/c art. 129, §10º do CP.Alega que, ao receber o Auto de Prisão em Flagrante, o il.Magistrado a quo concedeu a liberdade ao réu por entender pela impossibilidade da manutenção da custódia em razão do não recolhimento da fiança, impondo, na oportunidade, medidas cautelares diversas.Sustenta, no entanto, que, após alguns meses, o oficial de justiça deixou de intimar o acusado por não tê-lo localizado, concluindo, diante disso, que ele se encontrava em local incerto e não sabido, o que ensejou a decretação da sua prisão preventiva no dia 3 de Junho de 2020" (e-STJ fl. 14).
+Inconformada, a defesa impetrou préviowritnaCorte estadual, que denegou a ordem, nos termos da ementa ora transcrita (e-STJ fl. 13):
+HABEAS CORPUS - LESÃO CORPORAL DE NATUREZA GRAVE PERPETRADA NO ÂMBITO DOMÉSTICO - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - DECISÃO DEVIDAMENTE FUNDAMENTADA - PRESENÇA DOS REQUISITOS AUTORIZADORES DA PRISÃO PREVENTIVA DO PACIENTE - DESCUMPRIMENTO DAS MEDIDAS CAUTELARES ANTERIORMENTE IMPOSTAS - ORDEM DENEGADA. 1. Não merece ser acolhida a alegação de ausência de fundamentação se o il. Magistrado a quo decreta a prisão preventiva do paciente, ressaltando a necessidade da segregação para a garantia da ordem pública, após destacar a presença de prova da materialidade do crime e indícios suficientes de sua autoria. 2. Presentes os requisitos autorizadores da custódia cautelar, a manutenção da segregação provisória é medida que se impõe. 3. Nos termos do §1º do art. 312 do CPP, a prisão preventiva poderá ser restabelecida em decorrência do descumprimento das obrigações impostas por força de medidas cautelares, conforme se verifica in casu.
+A presente impetração funda-se na falta de fundamentação idônea para a decretação da segregação cautelar, pois ausentes os requisitos legais necessários para a sua imposição.
+Diante disso, pleiteia a defesa, em tema liminar e no mérito, o relaxamentoda prisão preventiva.
+O pedido deliminar foi indeferido às e-STJ fls. 238/239.
+Prestadas as informações pelas instâncias ordinárias (e-STJ fls. 243/307 e 314/316), oMinistério Público Federal exarou parecer opinando pela denegação da ordem(e-STJ fls. 309/310).
+É, em síntese, o relatório.
+Decido.
+Em consulta ao andamento processual da ação penal na origem, realizada pelo sítio eletrônico do Tribunal estadual, apurou-se a superveniência de expedição de alvará de solturaem favor do ora paciente.
+Assim, é forçoso o reconhecimento de perda de objeto da presente impetração.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça,julgo prejudicadoowrit.
+Publique-se. Intimem-se.
