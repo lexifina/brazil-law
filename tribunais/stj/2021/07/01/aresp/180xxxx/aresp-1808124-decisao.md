@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO SANTANDER S.A. contra decisão que negou seguimento a recurso especial, fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, em face de acórdão proferido pela Terceira Câmara Cível do Tribunal de Justiça do Estado do Amazonas, assim ementado (fl. 288):
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA DE BEM IMÓVEL. INADIMPLÊNCIA DO COMPRADOR. MORA. NOTIFICAÇÃO EXTRAJUDICIAL. NECESSIDADE. ARTIGO 26 DA LEI 9.514/1997. NOTIFICAÇÃO ENVIADA PARA ENDEREÇO DIVERSO DO INDICADO NO CONTRATO. AUSÊNCIA DE CONSTITUIÇÃO DA MORA. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+A instituição financeira agravante sustenta, nas razões de recurso especial, ofensa aos artigos 26 da Lei n. 9.514/97 e 427 do Código Civil, alegando que o contrato celebrado entre as partes deve t er cumprimento e a impossibilidade de purga da mora após a averbação da consolidação da propriedade em leilão extrajudicial.
+Assim delimitada a controvérsia, passo ao exame do recurso.
+Verifico que a sentença reconheceu a invalidade do leilão extrajudicial realizado sem a intimação pessoal da devedora, pelos seguintes fundamentos (fls. 204/207):
+A análise minuciosa dos documentos colacionados aos autos, notadamente as certidões lavradas pelo Registro de Imóveis (fls. 129/133), o telegrama de fls. 134/136 e os editais de fls. 137/139 denotam que não houve a intimação pessoal do devedor para purgar a mora, muito menos da data de realização do leilão extrajudicial.
+(..)
+Com efeito, havendo previsão legal de aplicação do artigo 36, parágrafo único, do Decreto-Lei nº 70 /66 ao procedimento previsto na Lei nº 9.514 /97, revela-se indubitável a necessidade de intimação pessoal da data do leilão extrajudicial, procedimento preterido pela instituição financeira.
+Dessa feita, ainda que se considerasse regular a notificação do devedor para purgar a mora, seria indispensável a sua renovação por ocasião da alienação extrajudicial do imóvel, o que não ocorreu na espécie.
+A notificação da autora deu-se diretamente por edital, sem prévio esgotamentos de outros meios de maneira pessoal. Ainda, a simples remessa de telegrama com a declaração de terceiro estranho como recebedor não é suficiente para satisfazer o requisito da pessoalidade.
+Embora se admita o recebimento por terceiros, os Correios não tem fé pública para declarar o recebedor. É imprescindível o comprovante de Aviso de Recebimento com a devida assinatura.
+(..)
+Assim, não há dúvida de eiva no procedimento de intimação pessoal da devedora acerca da data do leilão extrajudicial, oportunidade na qual poderia purgar a mora, sendo nula a intimação por edital quando não exauridas as tentativas de intimação pessoal.
+A respeito da purgação da mora, vale registrar que ao contrário do que defende o banco demandado, a consolidação da propriedade não impede a possibilidade de purgação da mora que na hipótese estende-se até a assinatura do auto de arrematação.
+(..)
+Nesse contexto, diversamente do que ocorre nos contratos de alienação fiduciária de bens móveis, é possível a purgação da mora na hipótese de bem imóvel quando já consolidada a propriedade em nome do credor fiduciário. Isso porque, no âmbito da alienação fiduciária de imóveis em garantia, o contrato não se extingue por força da consolidação da propriedade em nome do credor fiduciário, mas, sim, pela alienação em leilão público do bem objeto da alienação fiduciária, após a lavratura do auto de arrematação.
+Por isso, considerando-se que o credor fiduciário, nos termos do art. 27 da Lei nº 9.514/1997, não incorpora o bem alienado em seu patrimônio, o contrato de mútuo não se extingue com a consolidação da propriedade em nome do fiduciário, sendo admitida a purgação da mora até a arrematação, desde que cumpridas todas as exigências previstas no art. 34 do Decreto-Lei nº 70/1966.
+Por tais motivos, reconheço a invalidade do leilão extrajudicial realizado sem a intimação pessoal da devedora, ante a precipitada intimação por edital, instrumento que só deve ser adotado subsidiariamente, em situações tais que esgotados os meios de intimação pessoal.
+O Tribunal de origem, por sua vez, manteve a sentença, com as seguintes considerações (fls. 290/291):
+A controvérsia gravita em torno do cumprimento ou não dos requisitos previstos na Lei 9.514/94 pela parte apelante, uma vez que, no processo principal e nas contrarrazões de apelação, a parte apelada sustenta que não foi notificada para a purgação da mora.
+(..)
+A inadimplência atrai a consequência legalmente prevista no artigo 26 da Lei n.º 9.514/97, entretanto, a parte requerida, ora apelante, tem a responsabilidade de observar os requisitos previstos em lei para a constituição da mora e a consolidação do bem em seu favor, com o consequente leilão do imóvel.
+Nesse panorama, extrai-se dos documentos de fls. 129/133, 134/136 e 137/139 que não houve a intimação pessoal da devedora para purgar a mora. Isso porque, cotejando as informações de fls. 1 e 12, verifica-se o endereço indicado pela parte autora, ora apelada, no contrato é o mesmo declinado na inicial, porém a intimação do Cartório de Registro de Imóveis foi enviada para o endereço do imóvel adquirido.
+Por força da boa-fé objetiva, as partes tem deveres de conduta a serem observados na relação obrigacional, tais como cooperação, proteção e informação mútuos, tutelando-se a dignidade do devedor e o crédito do credor, tudo com o fito de zelar pelo cumprimento satisfatório dos interesses das partes.
+Assim, cabe ao devedor manter seu endereço atualizado até a extinção da obrigação contratual, permitindo ao credor cumprir seu dever de informação, previsto no artigo 6º, III, do Código de Defesa do Consumidor.
+Por outro lado, cabe ao credor enviar a notificação para o endereço previsto no contrato, o qual deve prevalecer para fins de comunicações a ele relativas, mormente quando não lhe foi comunicada eventual mudança de endereço do consumidor.
+Como se vê, o recurso não impugnou o fundamento do acórdão recorrido, no sentido de que não foi válida a notificação efetuada e, em consequência, declarou a invalidade do leilão extrajudicial. Não impugnado, e sendo o fundamento suficiente, por si só, para manter o julgado, aplica-se o enunciado n. 283 da Súmula do STF.
+Anoto, ademais, que a adoção de entendimento diverso por esta Corte quanto à irregularidade do procedimento na liquidação extrajudicial encontra óbice na Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO EXTRAJUDICIAL. LEI Nº 9.514/1997. ALIENAÇÃO FIDUCIÁRIA DE COISA IMÓVEL. LEILÃO EXTRAJUDICIAL. DEVEDOR FIDUCIANTE. NOTIFICAÇÃO PESSOAL. AUSÊNCIA. CIÊNCIA INEQUÍVOCA. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça se encontra consolidada no sentido da necessidade de intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, entendimento que se aplica aos contratos regidos pela Lei nº 9.514/1997.
+3. No caso concreto, rever a conclusão do tribunal de origem, que atestou a ciência inequívoca da parte devedora da data do leilão extrajudicial com a cautelar proposta com a finalidade de obstar sua realização, esbarra no óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
