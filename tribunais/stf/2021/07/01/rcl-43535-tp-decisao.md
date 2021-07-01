@@ -1,0 +1,43 @@
+Decisão:
+    Cuida-se de reclamação constitucional, com pedido liminar, ajuizada por Petrobras Distribuidora S.A. contra acórdão proferido pelo Tribunal Superior do Trabalho (TST), nos autos da Reclamação Trabalhista nº Ag-E-AIRR-100338-84.2016.5.01.0028, por desrespeito à autoridade do Supremo Tribunal Federal, à eficácia da Súmula Vinculante nº 10 e ao julgado na ADC nº 16/DF e à tese de repercussão geral firmada no RE 760.931/DF (Tema 246 RG).
+    A parte reclamante alega que, no contexto em que proferido o acórdão reclamado,
+    “é nítida a discordância de entendimentos entre o Tribunal Superior do Trabalho e o Supremo Tribunal Federal, já que enquanto este define que a condenação em responsabilidade subsidiária exige a comprovação da culpa da Administração Pública pelo descumprimento da legislação trabalhista, sendo vedada a inversão do ônus da prova; aquele entende que é do Ente Público, tomador de serviços, o ônus de demonstrar que fiscalizou de forma adequada o contrato de prestação de serviços e em não demonstrando, a responsabilidade recairia sobre ele automaticamente.” (eDoc. 1, p. 3)
+    Pondera que,
+    “tendo [...] interposto todos os recursos admissíveis em direito com o ensejo de reformar o v. acórdão que contrariou entendimento vinculante desse Excelso Tribunal, sem que o Tribunal de Origem tenha revisto sua equivocada decisão, considera-se, indubitavelmente, esgotadas as vias recursais ordinárias, não restando outra alternativa à Petrobras Distribuidora senão formular, através da presente reclamação, pedido de cassação da r. decisão proferida pelo c. Tribunal Superior do Trabalho”. (eDoc. 1, p. 3)
+    Narra que a sentença de primeiro grau julgou parcialmente procedente os pedidos efetuados na reclamação trabalhista “condenando a primeira reclamada e, subsidiariamente, a segunda reclamada, ora reclamante” ao pagamento das seguintes parcelas (eDoc. 1, p. 5):
+    “- diferenças em aviso prévio indenizado (33 dias, consoante disposto na Lei 12.506/11, como requerido, eis que só houve 1 ano completo de contrato);
+    - diferenças em férias proporcionais, acrescidas do terço constitucional;
+    - diferenças em décimos terceiros salários dos anos de 2015 e de 2016 (proporcional);
+    - diferenças em saldo de salário do mês de Dezembro (18 dias) de 2015;
+    - diferenças de FGTS, na forma requerida na petição inaugural, devendo-se observar os valores já efetivamente sacados;
+    - diferenças em indenização compensatória de 40% sobre todo o FGTS; - multa do art. 467, da CLT;
+    - multa do art. 477, da CLT;
+    - multa em favor do autor no importe de sua maior remuneração, consoante preceituado na convenção coletiva de 2015, em sua cláusula vigésima primeira;
+    - multa no valor de R$500,00 (quinhentos reais), convencionado na Cláusula quinquagésima nona da CCT de 2015; e
+    - honorários advocatícios fixados no percentual de 15% (quinze por cento) sobre o valor da condenação.”
+    Prossegue relatando que o recurso de revista foi negado pelos seguintes fundamentos:
+     “O v. acórdão revela que, em relação ao tema recorrido, o entendimento adotado pela Turma, de acordo com a prova produzida (Súmula 126 do TST), encontra-se em consonância com a notória jurisprudência do Tribunal Superior do Trabalho e consubstanciada, in casu, na Súmula 331, IV. Não seria razoável supor que o Regional, ao entender dessa forma, estaria violando os dispositivos apontados. Em razão dessa adequação (acórdão-jurisprudência iterativa do TST), o recurso não merece processamento, sequer no tocante ao dissenso jurisprudencial, a teor do artigo 896, alínea "c" e § 7º, da CLT c/c a Súmula 333 do TST.
+    Cabe destacar, por fim, que não se verifica afronta à reserva de plenário ou à Súmula Vinculante 10 do STF, porque o acórdão regional não declarou a inconstitucionalidade do art. 71, § 1º, da Lei 8.666/93, valendo anotar que a Súmula 331 resultou de deliberação do Pleno do TST .” (eDoc. 1, p. 5)
+    Contra essa decisão, a reclamante ajuizou agravo, também rejeitado, ao fundamento de que
+    “embora não haja responsabilidade automática da Administração Pública, em casos de contratação de empresas que inadimpliram verbas trabalhistas (nem, igualmente, culpa presumida em tais situações, segundo o STF), o encargo probatório para demonstrar que houve fiscalização do cumprimento dessas obrigações é da Administração Pública, pelo pelo princípio da aptidão para a prova, e que, no caso concreto, a Corte de origem foi clara ao consignar que ‘não há prova nos autos de que tenha havido efetiva fiscalização, pois os parcos documentos juntados pela segunda ré não se prestam a tal finalidade’”. (eDoc. 1, p. 8)
+    Requer, ao fim
+    “a) liminarmente, suspender, inaldita altera pars, nos termos do art. 158 do Regimento Interno desse E. STF, o curso da ação nº 0100338- 84.2016.5.01.0028, a fim de se aguardar a decisão de mérito da presente Reclamação;
+    [...]
+    d) ao final, ser julgada totalmente procedente a presente reclamação, com fulcro do art. 161 do Regimento Interno do STF, a fim de que seja cassado o v. acórdão prolatado no âmbito do c. TST, nos autos nº 0100338-84.2016.5.01.0028, ou que seja determinada a medida adequada para preservação da jurisdição e autoridade das decisões proferidas por este Excelso Tribunal.
+    É o relatório. Decido.
+    A tese firmada no representativo da controvérsia do Tema 246 RG tem como referência a discussão constitucional em torno da interpretação do art. 71, § 1º, da Lei nº 8.666/93 (anteriormente afetada ao STF na ADC nº 16/DF), cuja aplicação guarda consonância com o título normativo em que inserido, tendo a Suprema Corte assentado a tese nos seguintes termos:
+    “O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93.”
+    Destaca-se que a obrigatoriedade de fiscalização do contrato administrativo foi objeto de discussão no STF nos embargos declaratórios opostos no representativo da controvérsia (RE nº 760.931/DF-ED, DJe de 6/9/19), cuja ementa transcrevo na parte de interesse:
+    “[...] 2. Não se caracteriza obscuridade, pois, conforme está cristalino no acórdão e na respectiva tese de repercussão geral, a responsabilização subsidiária do poder público não é automática, dependendo de comprovação de culpa in eligendo ou culpa in vigilando, o que decorre da inarredável obrigação da administração pública de fiscalizar os contratos administrativos firmados sob os efeitos da estrita legalidade” (Rel. p/ o ac. Min. Edson Fachin, Plenário, DJe de 6/9/19).
+    Ante a subsistência e repetitividade do debate acerca da legitimidade da imputação de responsabilidade subsidiária ao poder público por encargos trabalhistas gerados pelo inadimplemento de empresa prestadora de serviço, sob a ótica do entendimento firmado no julgamento da ADC nº 16/DF (DJe de 9/9/11) e no Tema nº 246 da sistemática da repercussão geral (RE nº 760.931/DF, DJe de 12/9/17), reconheceu-se a repercussão geral no RE nº 1.298.647/SP-RG, oportunidade o Supremo Tribunal Federal irá analisar a seguinte temática:
+    “Ônus da prova acerca de eventual conduta culposa na"auxílio" fiscalização das obrigações trabalhistas de prestadora de serviços, para fins de responsabilização subsidiária da Administração Pública, em virtude da tese firmada no RE 760.931 (Tema 246).” (Tema nº 1118 da sistemática da repercussão geral)
+    Com a sistemática da repercussão geral, a competência do STF para julgar a matéria constitucional é exercida pelo Plenário no representativo da controvérsia (RE nº 1.298.647/SP-RG – Tema 1118), competindo aos demais órgãos do Poder Judiciário a concretização do precedente, mediante juízo de adequação da ratio decidendi do STF nos processos de matéria constitucional idêntica.
+    Dessa perspectiva, em juízo de delibação, entendo que permanece competência dessa Suprema Corte a ser preservada na via reclamatória a fim de produzir segurança jurídica compatível com a função do Poder Judiciário e a cultura de precedentes vinculantes reforçada com a edição da EC nº 45/2004 e a instituição da repercussão geral.
+    Ante o exposto, defiro o pedido liminar para suspender os efeitos da decisão reclamada relativamente à Patrobras.
+    Solicitem-se informações e comunique-se a autoridade reclamada acerca do deferimento da medida liminar.
+    Cite-se a parte beneficiária da decisão reclamada para apresentar contestação (CPC, art. 989, III).
+    Publique-se. Int..
+    Brasília, 1º de julho de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
