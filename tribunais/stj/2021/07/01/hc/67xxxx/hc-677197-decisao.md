@@ -1,0 +1,24 @@
+DECISÃO
+Trata-sedehabeas corpusimpetrado em benefício de JOÃO LENO AIRES contra ato de Desembargador Relator do Tribunal de Justiça do Estado de Santa Catarina (HC n.5032053-71.2021.8.24.0000).
+Extrai-se dos autos que o paciente foi condenado à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial semiaberto, pelo crime do art. 33 c/c 40, inciso V da Lei n.º 11.343/06. Foi indeferido o direito de recorrer em liberdade.
+Buscando tal benefício, a defesa impetrou a ordem originária, cuja liminar foi indeferida pelo Desembargador Relator (e-STJ fls. 82/83).
+No presentewrit, a defesa alega que o paciente foi condenado a pena em regime semiaberto, de modo que o indeferimento do direito de recorrer em liberdade seria desproporcional e excessivamente gravoso.
+Sustenta ser hipótese de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Requer, em liminar e no mérito, a revogação da custódia.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular, notadamente se considerado o que foi enfatizado pelo Desembargador Relator, o qual, ao indeferir a liminar, aduziu o seguinte (e-SJT fls. 19/20):
+DECIDO, quanto ao pedido de liminar.
+Sabe-se que a liminar em habeas corpus não tem previsão legal, tendo sido criada pela jurisprudência para casos em que a urgência, necessidade e relevância da medida se mostrem evidenciadas, de forma clara e percuciente, na própria impetração e nos elementos de prova que a acompanham.
+Ou seja, o deferimento liminar da ordem somente se justifica em face de situações em que presentes os requisitos específicos: a existência de plausibilidade jurídica (fumus boni júris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que se aperfeiçoem esses dois pressupostos, essenciais e cumulativos, nãose legitima a concessão da liminar.
+Não sobressai uma situação de perigo de grave lesão ou de difícil reparação, porque as razões que fundamentam a liminar são correlatas àquelas relativas ao mérito da impetração, causa bastante para que a apreciação se dê pelo Órgão Colegiado.
+Da análise petição inicial da presente impetração em cotejo com o contido nos autos do inquérito policial n.º 5000891-26.2020.8.24.0119 e da ação penal n.º 5001079-19.2020.8.24.0119, observo que a motivação e fundamentação que direcionaram a instância primeva a decretar a prisão preventiva do paciente contam com amparo jurídico.
+Importante destacar que, em sede de liminar, a celeuma é apreciada apenas de forma superficial, a fim de verificar a existência ou não dos requisitos necessários à concessão da medida postulada, sem, contudo, esvaziar a discussão da matéria, sob pena de se estar julgando antecipadamente o mérito das arguições.
+Ante o exposto, INDEFIRO a liminar.
+Nota-se que o Desembargador Relator considerou necessária avaliação mais detida da matéria, a ser efetivada pelo colegiado por ocasião do exame do mérito. Destacou que a prisão, em um exame preliminar, apresenta fundamentos idôneos que justificam, por ora sua manutenção.
+De fato, sem maiores incursões na matéria, verifica-se que o paciente respondeu preso àação penal, não havendo alterações a justificar a revogação - ao contrário, a modificação superveniente foi a própria condenação. Lado outro, em consulta à sentença, verifica-se que o magistrado determinou, em hipótese de recurso, a expedição de guia deexecução provisória da pena, de modo a possibilitar ao paciente seu recolhimento no regime adequado.
+Não há, portanto, constrangimento ilegal patente, cognoscível de plano, de modo quea questão demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
