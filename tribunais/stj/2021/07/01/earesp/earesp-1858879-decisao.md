@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por JOSIANE NOVELI BARRETO e JOSI FLOR COMÉRCIO DE CONFECCÇÕES LTDA, fundado no art. 105, III, alínea "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 698/699):
+APELAÇÃO CÍVEL 2 (EXEQUENTE). EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. TESE DEDUZIDA EM CONTRARRAZÕES.
+NÃO ACOLHIMENTO. CÉDULA DE CRÉDITO BANCÁRIO.
+PRESCRIÇÃO DA PRETENSÃO EXECUTIVA.
+VERIFICAÇÃO. CITAÇÃO TARDIA. INOBSERVÂNCIA DOS PRAZOS DO ART. 219, DO CPC/1973. INAPLICABILIDADE DA SÚMULA N.º 106, DO STJ. DESÍDIA DA PARTE EXEQUENTE COMPROVADA.
+1. Não há violação ao princípio da dialeticidade, quando a parte recorrente impugnar os fundamentos adotados na decisão recorrida.
+2. Se a demora para a citação do devedor provier unicamente da desídia do credor, o transcurso do prazo prescricional ocorrido antes da triangularização processual implica a prescrição da pretensão executiva.
+3. Apelação cível conhecida e não provida.
+APELAÇÃO CÍVEL 1 (EXECUTADAS). EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. HONORÁRIOS ADVOCATÍCIOS.
+FIXAÇÃO MEDIANTE APRECIAÇÃO EQUITATIVA.
+IMPOSSIBILIDADE. INCIDÊNCIA DA REGRA GERAL DO ART. 85, §2º, DO CPC/2015.
+1. Os honorários advocatícios devem ser fixados com base na regra geral do artigo 85, §2º, do Código de Processo Civil de 2015, exceto quando caracterizada alguma das hipóteses do §8º, do aludido dispositivo, que autorize a fixação mediante apreciação equitativa do magistrado.
+2. Apelação cível conhecida e provida.
+Opostos embargos de declaração às fls. 733/736 e 792/800; foram rejeitados às fls. 776/781 e 816/823.
+Nas razões do recurso especial, a agravante alega violação do art. 85, §2º do CPC/15. Para tanto, sustenta, em síntese, que os honorários sucumbenciais deveriam ser arbitrados sobre o valor do proveito econômico, e não sobre o valor da causa.
+Foram apresentadas contrarrazões às fls. 857/864.
+É o relatório.
+O eg. Tribunal de origem consigna, in verbis (fl. 715):
+"No caso em análise, não está presente situação que autorize a fixação de honorários de forma equitativa, notadamente porque à causa foi atribuído o valor de R$ 478.312,31 (quatrocentos e setenta e oito mil, trezentos e doze reais e trinta e um centavos - mov. 1.1 - 1º grau, f. 04).
+Destarte, nos termos do disposto no artigo 85, §2º, do Código de Processo Civil ,  3  o apelo merece ser provido, para fixar honorários advocatícios aos procuradores das apelantes em 10% (dez por cento) do valor da causa, a ser atualizado, montante condigno a remunerar o trabalho realizado, inclusive em grau recursal."
+Portanto, verifica-se que o acórdão recorrido está em conformidade com a orientação jurisprudencial da Segunda Seção do STJ, firmada por ocasião do julgamento do REsp 1.746.072/PR, acórdão desta relatoria, julgado em 13/2/2019, DJe 29/3/2019, no sentido de que "os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos percentuais e da ordem de gradação da base de cálculo estabelecida pelo art. 85, § 2º, do CPC/2015, nos seguintes termos: 1º) com base no valor da condenação; 2º) não havendo condenação ou não sendo possível valer-se da condenação, por exemplo, porque irrisória, com base no proveito econômico obtido pelo vencedor; ou 3º) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa." Ademais, a iterativa jurisprudência desta Corte firmou-se no sentido de que a fixação dos honorários de sucumbência, sob a égide do CPC/2015, sujeita-se à seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º) - REsp 1.746.072/PR, julgado em 13/02/2019.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO. AUSÊNCIA.FIXAÇÃO EQUITATIVA. NÃO CABIMENTO. LIMITES PERCENTUAIS.OBSERVÂNCIA NECESSÁRIA. VALOR DA CAUSA. BASE DE CÁLCULO. DECISÃO MANTIDA.
+1. Ressalvadas as exceções previstas nos §§ 3º e 8º do art. 85 do CPC/2015, na vigência da nova legislação processual o valor da verba honorária sucumbencial não pode ser arbitrado por apreciação equitativa ou fora dos limites percentuais fixados pelo § 2º do referido dispositivo legal. Precedentes da Terceira e Quarta Turmas e da Segunda Seção do STJ.
+2. Segundo dispõe o § 6º do art. 85 do CPC/2015, " o s limites e critérios previstos nos §§ 2º e 3º  do mesmo art. 85  aplicam-se independentemente de qual seja o conteúdo da decisão, inclusive aos casos de improcedência ou de sentença sem resolução de mérito".
+3. No caso concreto, à míngua de provimento condenatório e de se fazer possível aferir o proveito econômico obtido pela parte vencedora, a verba honorária foi arbitrada em percentual incidente sobre o valor da causa, estipulado pela própria agravante, no percentual mínimo previsto na lei processual.
+4. Agravo interno desprovido." (AgInt no REsp 1.711.273/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 02/06/2020, DJe de 12/06/2020)
+Nesse contexto, não sendo cabível aferir o proveito econômico da causa ante a prescrição da pretensão do direito postulado, a verba deve ser fixada com base no valor da causa, como se depreende da ementa a seguir:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO DE INDENIZAÇÃO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. FIXAÇÃO. 10% DO VALOR ATUALIZADO DA CAUSA.
+1. Cuida-se, na origem, de ação de rescisão contratual c/c pedido de indenização, ajuizada em razão de atraso na entrega de imóveis objeto de promessa de compra e venda.
+2. Com a ressalva do entendimento pessoal desta Relatora, a 2ª Seção do STJ definiu que a fixação dos honorários de sucumbência, sob a égide do CPC/2015, sujeita-se à seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+3. Hipótese em que o processo foi extinto com resolução do mérito, devido ao acolhimento da prejudicial de prescrição.
+4. Ausente condenação e, ainda, prévia quantificação do proveito econômico obtido pelo vencedor, os honorários advocatícios são fixados em 10% do valor atualizado da causa.
+5. Agravo interno não provido.
+(AgInt no REsp 1702073/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/02/2020, DJe 12/02/2020)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
