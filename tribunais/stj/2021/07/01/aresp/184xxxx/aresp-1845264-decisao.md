@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por HSBC BANK BRASIL S/A - BANCO MÚLTIPLO, contra decisão que não admitiu recurso especial (fls. 102/107, e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia o acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (fl. 33, e-STJ):
+EMENTA - AGRAVO DE INSTRUMENTO - LIQUIDAÇÃO DE SENTENÇA - COBRANÇA DE EXPURGOS INFLACIONÁRIOS - PEDIDO DE SUSPENSÃO DO FEITO COM BASE NO RECURSO ESPECIAL N. 1.438.263/SP E INCIDÊNCIA DOS JUROS MORATÓRIOS SOMENTE A PARTIR DA CITAÇÃO NA FASE DE LIQUIDAÇÃO - NÃO CONHECIDOS - CORREÇÃO MONETÁRIA NOS TERMOS DO STJ - HONORÁRIOS ADVOCATÍCIOS INDEVIDOS - DECISÃO MANTIDA - RECURSO NÃO PROVIDO.
+As questões afetas ao pedido de suspensão do feito com base no REsp n. 1.438.263/SP, e incidência dos juros de mora já foram decididas em outro recurso de agravo envolvendo as mesmas partes e processo, motivo pelo qual não podem ser conhecidas. "Na execução de sentença que reconhece o direito de poupadores aos expurgos inflacionários decorrentes do Plano Verão (janeiro de 1989), incidem os expurgos inflacionários posteriores a título de correção monetária plena do débito judicial, que terá como base de cálculo o saldo existente ao tempo do referido plano econômico, e não os valores de eventuais depósitos da época de cada plano subsequente" (STJ, Resp 1314478/RS, Rel. Ministro LUIS FELIPE SALOMÃO,SEGUNDA SEÇÃO, julgado em 13/05/2015, DJe 09/06/2015).
+A fase de liquidação de sentença não enseja fixação de honorários sucumbenciais Recurso conhecido e improvido.
+Nas razões do apelo extremo (fls. 80/89, e-STJ), o Recorrente aponta ofensa aos artigos 85, § 2º, 1022 do CPC/15, 397 do CC/02.Sustenta, em síntese: (i) negativa de prestação jurisdicional, pois o Tribunal de origem não se manifestou sobre os artigos legais suscitados; (ii) o marco inicial para a incidência dos juros de mora é a citação para a liquidação de sentença; e (iii)como houve acolhimento parcial da impugnação ao cumprimento de sentença devem ser arbitrados honorários advocatícios em seu favor.
+Sem contrarrazões (fl. 100, e-STJ),o apelo não foi admitido na origem (fls. 102/107, e-STJ), dando ensejo ao agravo (fls. 109/117, e-STJ), visando destrancar o processamento daquela insurgência, no qual o recorrenterefuta os óbices aplicados pela Corte estadual.
+É o relatório.
+Decido.
+O inconformismo merece parcial provimento.
+1. De início, "não há que se falar em negativa ou vício de prestação jurisdicional se o Tribunal de origem se pronuncia suficientemente ao deslinde da causa, notadamente em face da situação dos autos, em que os embargos de declaração opostos contra o acórdão recorrido buscavam o prequestionamento numérico e o rejulgamento da causa à luz dos argumentos da parte, pretensões para as quais não se presta a via integrativa eleita" (AgInt no REsp 1350603/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/12/2018, DJe 18/12/2018).
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. PRESCRIÇÃO. RESPONSABILIDADE EXTRACONTRATUAL. ART. 206, § 3º, V, DO CÓDIGO CIVIL. DANO MORAL. VALOR. ARBITRAMENTO. RAZOABILIDADE. DESPROVIMENTO.
+1. Não há que se falar em negativa ou vício de prestação jurisdicional se o Tribunal de origem se pronuncia suficientemente ao deslinde da causa, notadamente em face da situação dos autos, em que os embargos de declaração opostos contra o acórdão recorrido buscavam o prequestionamento numérico e o rejulgamento da causa à luz dos argumentos da parte, pretensões para as quais não se presta a via integrativa eleita.
+2. Tratando-se de pedido de indenização por ato ilícito extracontratual, o prazo aplicável é o do art. 206, § 3º, V, do Código Civil, de modo que a ação ajuizada em 13.4.2007 (e-STJ fl.
+3), ou seja, pouco menos de dois anos após o fato considerado indenizável, não está prescrita.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1350603/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/12/2018, DJe 18/12/2018)
+DIREITO PROCESSUAL CIVIL. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC/1973. AUSÊNCIA. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E PREMISSA FÁTICO-PROBATÓRIA. CONCLUSÕES DO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE.
+1. O entendimento desta Corte é pacífico no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Precedentes.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 74.629/ES, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. INEXISTÊNCIA DE OFENSA AO ART. 535, II, DO CPC/73. ISENÇÃO DO IMPOSTO DE RENDA SOBRE PROVENTOS DE INATIVIDADE PAGOS AOS JÁ ANISTIADOS POLÍTICOS. ISENÇÃO QUE PRESSUPÕE O REQUERIMENTO DE SUBSTITUIÇÃO DE TAIS PROVENTOS PELA REPARAÇÃO ECONÔMICA, SOB O REGIME DE PRESTAÇÃO MENSAL, PREVISTA NA LEI 10.559/2002. PRECEDENTES DO STJ.
+I. Não procede a alegação de ofensa ao art. 535, II, do CPC/73, pois os Embargos de Declaração têm como objetivo sanar eventual obscuridade, contradição ou omissão existentes na decisão recorrida. Não há omissão no acórdão recorrido quando o Tribunal de origem pronuncia-se, de forma clara e precisa, sobre a questão posta nos autos, assentando-se em fundamentos suficientes para embasar a decisão. Ademais, o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte. Nesse sentido: STJ, REsp 739.711/MG, Relator o Ministro LUIZ FUX, PRIMEIRA TURMA, DJU de 14/12/2006. Além disso, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Em tal sentido: STJ, REsp 801.101/MG, Relator Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+ ..
+IV. Recurso Especial provido.
+(REsp 1259387/CE, Relatora a Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 23/10/2014, DJe 04/11/2014)
+2. Quanto ao marco inicial dos juros de mora, constou no acórdão estadual "questão referente ao juros de mora também foi enfrentada no Agravo de Instrumento nº 1405711-35.2016.8.12.0000 em que figuram as mesmas partes e processo, tanto que no acórdão restou consignado:  .. Em função disso, também não pode ser conhecido novamente neste recurso." (fl. 36, e-STJ).
+Nesse sentido, como esse fundamento é suficiente por si só para manter a conclusão do julgado, o qual não foi atacado de forma específica nas razões do recurso especial, incide, à hipótese, o comando da Súmula 283 do Supremo Tribunal Federal, por aplicação analógica.
+3. Por fim, em relação à possibilidade de fixação dos honorários advocatícios em sede de liquidação de sentença, esta Corte tem entendimento que, em regra, não são devidos, salvo se a fase instauradaassumir cunho litigioso, como é o caso dos autos.
+Confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. PRECEDENTES. CARÁTER LITIGIOSO. FALTA DE PREQUESTIONAMENTO. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta eg. Corte entende que, como regra, não são devidos honorários advocatícios, em sede de liquidação de sentença.Excepcionalmente, serão arbitrados honorários advocatícios quando a fase de liquidação assumir nítido cunho litigioso. Precedentes.
+2. O caráter litigioso da liquidação realizada no presente feito não foi objeto de discussão pela Corte de origem, estando ausente, portanto, o prequestionamento do tema, tampouco foram opostos embargos de declaração para sanar omissão.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1589165/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/08/2019, DJe 11/09/2019)
+Portanto, presente o caráter litigioso, e acolhida em parte a impugnação, devem ser arbitrados honorários advocatícios.
+4. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para conhecer do recurso especial e dar-lhe parcial provimento a fim de, reformando parcialmente o acórdão recorrido, fixar os honorários advocatícios em 10% sobre o débito reconhecido como indevido.
+Publique-se. Intimem-se.
