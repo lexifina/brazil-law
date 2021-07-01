@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por CARLOS ALBERTO CAPELETTI, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+"AGRAVO DE INSTRUMENTO - EXECUÇÃO ENTREGA COISA INCERTACONVERSÃO PAGAMENTO EM QUANTIA CERTA-POSSIBILIDADE-NÃODEMONSTRAÇÃO DOS REQUISITOS NECESSÁRIOS À MODIFICAÇÃO DA DECISÃO-RECURSO DESPROVIDO.
+"(..) 2. No caso, conquanto o contrato previsse o pagamento em sacas de soja, játrazia o correspondente em reais. Os valores executados foram submetidos ao contraditório, tendohavido a oposição de embargos à execução. 3. Não demonstrada a existência de prejuízo com a adoçãodo rito da execução por quantia, deve-se afastar a alegação de nulidade da execução em homenagem aosprincípios da instrumentalidade das formas e da economia processual. 4. Recurso especial não provido."(REsp 1377396/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgadoem 27/09/2016, DJe 07/10/2016)" (fls. 149/150)
+Os embargos de declaração opostos foram rejeitados (fls. 169)
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 809, 811 e 813do Código de Processo Civilde 2015, e divergência jurisprudencial, sustentando, em síntese, a extinção do feito, por inadequação da via eleita, uma vez queo título objeto da ação executiva contém obrigação de entrega de coisa incerta e foi ajuizada ação de execução por quantia certa.
+Não foram apresentadas contrarrazões (fl. 241).
+É o relatório.
+Ao concluir pela possibilidade de conversãoda execução deentrega de coisa certa empagamento de quantia certa, o Tribunal a quo expressamente consignou que havia expressa previsão contratual para que a obrigação fosse cumpridapor meio de pagamento de quantia certa.Leia-se, a propósito, o seguinte trecho do v. acórdão:
+"Os agravantes defendem a impossibilidade de penhora de valores tendo em vista que a obrigação prevista no contrato é de entrega de coisa certa e por isso, deve ser suspensa a decisão.
+O objeto da execução, conforme consta do contrato firmado entre as parte, prevê a seguinte obrigação:
+"CLÁUSULA TERCEIRA - DO PREÇO
+Por força deste instrumento e na melhor forma de direito, os PROMITENTESVENDEDORES contratam a venda aos PROMISSÁRIOS COMPRADORES do imóvel acima descrito, com todas as suas benfeitorias, pelo preço certo e previamente ajustado de R$ 11.400.000,00 (onze milhões e quatrocentos mil reais) o correspondente a quantia de 285.000 (duzentos e oitenta e cinco mil)sacas de soja de 60 (sessenta) quilos cada, comercial, em grãos, sem umidade, livre de impurezas, livre de royalties da Monsanto, padrão de qualidade tipo exportação padrão boa qualidade, a serem pagos da seguinte forma:
+(..)
+IV) a quarta parcela será paga até no dia 30 de março do ano de 2016, o equivalente a 59.375 (cinquenta e nove mil, trezentos e setenta e cinco) sacas de soja de 60 quilos, comercial, em grãos, sem umidade, livre de impurezas, livre de royalties da Monsanto, padrão de qualidade tipo exportação A, praticado na praça de Tapurah - MT, em nome dos PROMITENTESVENDEDORES na empresa AMAGGI, CARGIL ou outra indicada por estes até 30 (trinta) dias antes do vencimento;
+Parágrafo Único: A comissão será paga pelos PROMISSÁRIOSCOMPRADORES aos Corretores no patamar de 5% (cinco por cento).
+CLAUSULA QUARTA - DO PAGAMENTO
+Todo e qualquer pagamento de parcelas e prestações mencionadas na cláusula terceira, que forem efetuadas por meio de cheques, somente serão consideradas efetivamente quitadas, após a liquidação dos mesmos pelo Banco sacado."(Num. 813493).
+Como se vê, há expressa previsão de cumprimento de obrigação por meio de pagamento de quantia certa, isto é, "o equivalente a 59.375 (cinquenta e nove mil, trezentos e setenta e cinco) sacas de soja de 60 quilos, comercial, em grãos, sem umidade, livre de impurezas, livre de "royalties da Monsanto, padrão de qualidade tipo exportação A, praticado na praça de Tapurah - MT"
+Além da expressa previsão contratual, a jurisprudência é pacífica quanto a possibilidade de converter execução em entrega de coisa certa para pagamento de quantia certa." (fls. 153/154, g.n.)
+Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso II, alínea "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
