@@ -1,0 +1,12 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por ANTONIO CARLOS PELEGRINI, APARECIDO SALUSTRIANO, FERNANDO SIQUEIRA E SILVA, GABRIEL LUTF, JOSÉ LUIZ FURLAN SBORJA, JOSÉ MARTINS RODRIGUES, LOURENÇO COIRADAS eODILON JUVENAL DA CUNHA, em face de decisão que inadmitiu recurso especial, aviado pelas alíneas "a" e "c", inciso III, art. 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AÇÃO ORDINÁRIA - Restituição de contribuições feitas por beneficiários de complementação de aposentadoria - Prescrição trienal, considerada a regra do artigo 206, § 3ª, IV, do CC, cujo termo inicial é data da distribuição da ação, que alcança cada uma das parcelas destacadamente, pelo que não implica o perecimento do direito sobre as mais remotas, a prescrição das parcelas mais recentes - Tese da ilegitimidade passiva da Fundação CESP rejeitada - Benefício instituído pela Lei nº 4.819/58 - Descontos feitos a título de contribuição para o fundo denominado "Plano A", posteriormente transformado em "Plano 4.819", ambos instituídos pela Fundação CESP para custeio dos benefícios previstos na Lei nº 4.819/58 - Inadmissibilidade, à falta de causa legal, haja vista que os benefícios suplementares com os quais acena a Fundação, para justificar a contribuição de 2%, já estavam previstos na referida Lei, pelo que o desconto, indevido, configura enriquecimento sem causa - Responsabilidade da CTEEP que não se verifica, po is não se obrigou por fatos pretéritos, limitando-se a processar a folha de pagamento - Recurso da ré parcialmente provido. Recurso dos autores improvido.
+Opostos embargos de declaração, estes foram rejeitados (fls. e-STJ 1706/1709 E 1741/1743).
+Em seu recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, violação aos artigos 15, parágrafo único da LC nº 109/2001; 177 do CC/1916; 205 e 206, § 3º, IV, 2028 do CC e 85, §§ 2º, 3º, 4º, II e 8º do CPC, sustentando, em síntese, prescrição decenal e ausência de definição precisa acerca do percentual dos honorários advocatícios.
+É o relatório.
+Passo a decidir.
+Merece guarida a pretensão recursal.
+Com efeito, diante da relevância da questão suscitada, merece provimento o agravo para melhor analisar o recurso especial interpostos, procedendo-se à devida conversão.
+Ante o exposto, dou provimento ao agravo em recurso especial, procedendo-se à conversão.
+Intime-se.
