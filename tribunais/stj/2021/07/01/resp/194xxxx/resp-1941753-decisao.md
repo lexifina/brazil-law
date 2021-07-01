@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial, interposto por RONEI COSTA MARTINS e OUTROS, com amparo nasalíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 384, e-STJ):
+AGRAVO DE INSTRUMENTO -LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA -CÉDULA DE CRÉDITO RURAL -AÇÃO CIVIL PÚBLICA -DEVEDORES SOLIDÁRIOS -CHAMAMENTO AO PROCESSO -BANCO CENTRAL DO BRASIL E UNIÃO FEDERAL -DESLOCAMENTO DA COMPETÊNCIA -JUSTIÇA FEDERAL.
+É admissível o chamamento ao processo, requerido pelo réu, dos demais devedores solidários, quando o credor exigir de um ou de alguns o pagamento da dívida comum (art. 130, III do Código de Processo Civil). Por se tratar de condenação solidária entre Banco do Brasil, Banco Central do Brasil e União Federal, desloca-se a competência para processamento e julgamento de pedido para o foro competente. Compete aos juízes federais processar e julgar, as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho (artigo 109, I, da Constituição Federal). Indispensável o comparecimento do ente público federal nos autos do processo para que o juízo estadual decline da competência para o foro federal
+Opostos embargos de declaração, foram rejeitados (fls. 444/449, e-STJ).
+Em suas razões de recurso especial, os Recorrentes apontam, além de dissídio jurisprudencial, ofensa aosarts.275 do CC/02 e 131 do CPC/15. Sustentam, em síntese, que "como a condenação dos demais entes se deu de forma solidária, como destacado pelo acórdão recorrido, os Recorrentes não podem ser obrigados a litigarem contra a União Federal e o Banco Central do Brasil.A solidariedade, prevista pela Lei Civil, deve favorecer o credor que pode cobrar a dívida de um ou de alguns dos devedores, conforme facultado pelo art. 275, do Código Civil:" (fl. 465, e-STJ).
+Após a apresentação das contrarrazões (fls. 587/595, e-STJ), e após decisão de admissão do recurso especial (fls. 644/646, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decide-se.
+O inconformismo merece prosperar.
+1. Na hipótese, a Corte local entendeu que "é admissível o chamamento ao processo dos demais devedores solidários, requerido pelo agravado com a contestação, por expressa previsão no art. 130, III, do Código de Processo Civil." (fl. 390, e-STJ).
+No entanto, esta Corte tem entendimento no sentido de não ser cabível o chamamento ao processo em fase de execução.
+A propósito:
+COMERCIAL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. DUPLICATA. PROTESTO. ENTREGA DE MERCADORIA. EXIGIBILIDADE DO TÍTULO EXECUTIVO. INCIDÊNCIA DA SÚMULA Nº 7/STJ. RECURSO NÃO PROVIDO.
+1- Se a questão trazida à discussão foi dirimida, pelo Tribunal de origem, valendo-se de fundamentação idônea e suficiente à solução da controvérsia, deve ser afastada a alegada ofensa ao art. 535 do Código de Processo Civil.
+2- Este Superior Tribunal tem se posicionado no sentido de não ser cabível o chamamento ao processo em fase de execução. Precedentes do STJ.
+3- Honorários advocatícios fixados de forma razoável e de acordo com os parâmetros previstos no art. 20, §§ 3º e 4º, do CPC.
+4- Agravo regimental a que se nega provimento.
+(AgRg no Ag 703.565/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/11/2012, DJe 04/12/2012)
+Ademais, consoante entendimento do STJ "reconhecida a solidariedade entre União, Banco Central e o banco agravante, é possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários. É possível que a parte persiga seu crédito contra a instituição financeira com quem celebrou a avença, desde que não haja qualquer prova nos autos sobre a noticiada transferência do crédito à União." (AgInt no AREsp 1309643/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/04/2019, DJe 02/05/2019)
+Portanto, afastada a possibilidade de chamamento ao processo, bem como reconhecida a possibilidade de direcionamento do cumprimento de sentença individual contra qualquer dos devedores solidários, não há falar em deslocamento de competência.
+2. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do recurso especial paradar-lhe provimento a fim de, reformando o acórdão do Tribunal local,inadmitir o chamamento ao processo em sede de execução/liquidação/cumprimento de sentença e determinar o retorno dos autos ao juízo de piso estadual para o seu regular processamento.
+Publique-se. Intimem-se.
