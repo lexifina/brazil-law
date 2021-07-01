@@ -1,0 +1,38 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por ROGÉRIO MASSUD JÚNIORem face de decisão que inadmitiu recurso especial, aviado pelasalíneas "a" e "c", inciso III, art. 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (e-STJ, fl.994):
+EMENTA - AGRAVO DE INSTRUMENTO EM EMBARGOSDETERCEIRO- EFEITOSUSPENSIVONÃOATRIBUÍDO- RECONHECIMENTO DE FRAUDE À EXECUÇÃO - DESPROVIDO. A existência de provimento jurisdicional reconhecendo a ocorrênciade fraude à execução justifica o recebimento dos embargos de terceiro sem atribuição de efeito suspensivo.
+Opostos embargos de declaração, estes foram rejeitados, nos termos da seguinte síntese(fls. e-STJ 1.032-1.036):
+EMENTA - EMBARGOS DE DECLARAÇÃO EM AGRAVO DEINSTRUMENTO- OMISSÃOINEXISTENTE- INVIABILIDADEDEMANIFESTAÇÃO SOBRE FATOS E DOCUMENTOS NÃO ANALISADOS NAORIGEM - EMBARGOS REJEITADOS.É necessário o pronunciamento jurisdicional pelo juízo natural da causa sobre fatos e documentos apresentados como fundamentos da medidaexcepcional pleiteada, sendo vedado ao Tribunal suprir a instância primeva.
+Em seu recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, violação aos artigos300, 313 e 678 do CPC/15,sustentando, em síntese, que foi comprovada a presença de todos os requisitos necessários para concessão de efeito suspensivo aos Embargos de Terceiro.
+Afirma que o julgado Estadualmerecereforma por estarembasadoem jurisprudências que não se aplicam ao caso, uma vez que ainda se encontra em discussão a existência ou não da fraude em execução.
+Apresentadas as contrarrazões (e-STJ, fls.1.078-1.083), sobreveio juízo negativo de admissibilidade na origem, advindo, daí, o presente agravo.
+É o relatório.
+Passo a decidir.
+A pretensão recursal não merece prosperar.
+Com efeito, o Tribunal de origem indeferiu o pedido de concessão de efeito
+suspensivo aos embargos à execução, ao argumento de que ausentes os requisitos legais. Consignou o relator o seguinte (e-STJ, Fl.996):
+Constitui pressuposto da medida excepcional pleiteada pelorecorrente a presença em conjunto dos requisitos ensejadores, o fumus boni iuris e o periculum in mora, não vislumbrados nos presentes autos, conforme consignado na decisão de f. 981-984.
+A fumaça do bom direito é aferida quando se identifica que o direito defendido na ação guarda razoável possibilidade de êxito e, daí, mereça proteção até a sua análise em definitivo, por ocasião do julgamento dos embargos de terceiro a que se pretende conferir efeito suspensivo.
+Na hipótese, em que pese a vasta argumentação apresentada peloembargante, ora agravante, vislumbra-se que a r. decisão de primeiro grau se afigurou acertada ao não receber referidos embargos com efeito suspensivo, o que encontra suporte também no Resp n. 623.407 - SP, do Superior Tribunal de Justiça, qual seja:
+Embargos de terceiro. Art. 1.052 do Código de Processo Civil. Fraude de execução. Precedente da Corte. 1. Reconhecida judicialmente a fraude de execução, não se aplica o disposto no art. 1.052 do Código de Processo Civil, na linha de precedente desta Terceira Turma. 2. Recursoespecial não conhecido". (Resp n. 623.407-SP - Relator Ministro CarlosAlberto Menezes Direito).
+Assim, verifica-se que se operou a exceção à regra geral comumente aplicada quando opostos embargos de terceiro, uma vez que, na esteira do precedente aludido, fora reconhecida fraude à execução nos autos do processon. 0800066-81.2014.8.12.0054.
+Imperioso ressaltar que quase a totalidade das questões devolvidas pelo recorrente no presente recurso ainda não foram analisadas pelo juízo natural da causa, sendo vedado suprimir a atribuição conferida exclusivamente à instância originária, que, apenas e tão somente deixou de atribuir o efeito suspensivo aos embargos de terceiro opostos, em razão da existência de provimento jurisdicional reconhecendo a ocorrência de fraude à execução.
+Assim, verifica-se que a decisão ora combatida solveu a lide com base nos pressupostos fáticos, razão pela qual a reversão do entendimento exposto pelo Tribunal de origem, exigiria, necessariamente, o reexame de matéria fático-probatório dos autos, o que é inviável em sede de recurso especial, ante o óbice contido na Súmula n.º 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. AUSÊNCIA DOS REQUISITOS AUTORIZADORES DO EFEITO SUSPENSIVO - SÚMULA 7/STJ. DEMAIS MATÉRIAS NÃO PREQUESTIONADAS. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. Não assiste razão ao recorrente, quando defende a ocorrência de negativa de prestação jurisdicional, porquanto as questões relevantes para o momento processual (decisão sobre a concessão de efeito suspensivo) foram apreciadas pelo órgão julgador, com fundamentação clara, coerente e suficiente.
+2. Entendendo a Corte estadual pela presença dos requisitos ensejadores do efeito suspensivo aos embargos de terceiros, a revisão dessa conclusão esbarra no óbice da Súmula 7/STJ.
+3. No tocante aos argumentos recursais de nulidade da decisão, por inexistência de intimação prévia sobre o não conhecimento de parte do recurso; de cabimento da penhora, por renúncia à impenhorabilidade; de possibilidade de execução de bem indivisível, resguardando-se a quota-parte do cônjuge; de ilegitimidade ativa; e de falta de interesse de agir da Sra. Maria Lúcia, incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal, diante da ausência de prequestionamento, uma vez que tais teses não foram objeto de análise pela Corte local.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+(AgInt noAREsp 1391639/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRATURMA, julgado em 22/03/2020, DJe 30/03/2020);
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DEMOLITÓRIA. CONDOMÍNIO. APELAÇÃO. EFEITOS DEVOLUTIVO E SUSPENSIVO. TUTELA ANTECIPADA. RELEVÂNCIA DA FUNDAMENTAÇÃO. EFEITO SUSPENSIVO CONCEDIDO. REQUISITOS. REEXAMES DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO. 1. A jurisprudência desta Corte é firme no sentido de que, se o acórdão recorrido verificar situação que possa ensejar lesão grave e de difícil reparação, a atrair o efeito suspensivo à apelação, caberá a concessão de referido efeito, ainda que se trate de sentença que confirme antecipação de efeitos da tutela. Precedentes. 2. In casu, a modificação do entendimento lançado no acórdão recorrido, quanto aos requisitos para a concessão do efeito suspensivo deferido, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. 3. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1046083/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/09/2017, DJe 30/10/2017).
+Outrossim, quanto ao dissídio jurisprudencial,inviável se mostra o seu conhecimento, uma vez que, para além de não ter sido demonstrado nos moldes legais, o óbice da Súmula 7/STJ obsta a admissão do Recurso Especial tanto pela alínea "a" quanto pela "c" o permissivo constitucional.
+Prejudicado o pedido de efeito suspensivo ao presente recurso.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DECISÃO QUE INDEFERIU EFEITO SUSPENSIVO AOS EMBARGOS À EXECUÇÃO. AUSÊNCIA DOS REQUISITOS EXIGIDOS PELA LEI. REVISÃO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
