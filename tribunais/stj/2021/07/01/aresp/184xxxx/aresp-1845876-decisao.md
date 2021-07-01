@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO NORDESTE DO BRASIL S.A.contra decisão que negou seguimento a recurso especial manejadoem face de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (e-STJ, fl. 232):
+PROCESSO CIVIL. APELAÇÃO CÍVEL. CÉDULA DE CRÉDITO RURAL. JUROS REMUNERATÓRIOS. LIMITAÇÃO EM 12% A. A. CAPITALIZAÇÃO DE JUROS. PRESENÇA DE CLÁUSULA CONTRATUAL NESSE SENTIDO. POSSIBILIDADE DE COBRANÇA MENSAL. COMISSÃO DE PERMANÊNCIA. INCABÍVEL EM CÉDULA DE CRÉDITO. CARACTERIZAÇÃO DA MORA. RECURSO PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO. SENTENÇA REFORMADA EM PARTE.
+1. As cédulas de crédito rural são disciplinadas pelo Decreto-Lei nº. 167/67. Em seu art. 5º, o Decreto-lei nº 167/1967 dispõe que compete ao Conselho Monetário Nacional a fixação da taxa de juros no financiamento rural. Todavia, diante da inexistência de deliberação expressa desse Conselho, aplicável à espécie a limitação de juros remuneratórios no patamar de 12% ao ano, estabelecida no Decreto nº. 22.626/33 (Lei da Usura).
+2. De acordo com jurisprudência firmada neste Tribunal e no Superior Tribunal de Justiça, a incidência de capitalização de juros nos contratos firmados por instituições financeiras, seja na periodicidade anual ou na mensal, é permitida, desde que haja expressa pactuação nesse sentido. Na hipótese dos autos presença de pactuação expressa, logo sua prática mostra-se admissivel.
+3. Nas cédulas de crédito industrial, comercial e rural não se admite a cobrança de comissão de permanência em caso de inadimplência. Precedentes do STJ e deste Tribunal de Justiça.
+4. No caso em referência, pela análise dos pontos de irresignação recursal, não há se falar em abusividades nos juros remuneratórios e capitalização para o período da normalidade contratual, motivo pelo qual plenamente possível a caracterização da mora.
+5. Recurso parcialmente conhecido e parcialmente provido. Sentença reformada em parte.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, o recorrenteaponta aviolação do art. 1.022, I e II,do Código de Processo Civil de 2015 sob o fundamento de omissão do Tribunal de origem quanto àimpossibilidade de aplicação do art. 86, parágrafo único, do CPC/2015.
+Sustenta que não houve sucumbência recíproca, sendo indevida a fixação dos honorários advocatícios nos termos do art. 86do CPC/2015.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude da incidência do óbice da Súmula 7 do STJ.
+Nas razões deste agravo, o agravante afirma a inaplicabilidade do óbice sumular apontado e a possibilidade de reconhecimento da negativa de vigência do art. 86, do CPC/2015.
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que ele não merece ser provido, senão vejamos.
+No que se refere à preliminar de violação do art. 1.022 do CPC/2015, quanto à impossibilidade de fixação da sucumbência nos termos do art. 86do CPC/2015, não se há falar em omissão ou contradição no acórdão, mas apenas julgamento contrário aos interesses do recorrente, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Isso porque, ao solucionar a controvérsia, o Tribunal de origem consignou, no acórdão do julgamento dos embargos de declaração, quena ação houve a revisão do contrato e o afastamento do encargos que foi considerado abusivo, não sendo possível o afastamento da sucumbência recíproca. Confira-se:
+E, quanto ao argumento de que a parte embargada foi a sucumbente mínima, devendo assim, responder única e exclusivamente com o ônus da sucumbência, entendo que houve um equívoco na interpretação do embargante, posto que no presente caso foi aplicado as normas do CDC, houve a revisão do contrato, bem como o afastamento de um encargo que foi considerado abusivo, razão pela qual, não há o que mudar na decisão recorrida  ..
+Assim, apesar da rejeição dos embargos de declaração, não há como ser reconhecida a violação do art. 1.022 do CPC/15, porque não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento fundamentado acerca dos fatos controvertidos, o que se observa no presente caso, em que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido. Nesse sentido: EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/8/2016.
+No mérito, a pretensão de reconhecimento da violação do art. 86do CPC/2015 não pode ser analisada nessa fase de recurso porque, conforme entendimento pacífico do STJ, a revisão acerca doquantitativo em que autor e réu decaíram do pedido, para fins deaferição da ocorrência de sucumbência recíproca ou mínima, demanda o reexame de matéria fática.
+Nesse sentido, confira-se oseguinteprecedente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL ACÃO DE OBRIGAÇÃO DE FAZER DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+ ..
+3. "Os honorários na reconvenção são independentes daqueles fixados na ação principal, independentes, inclusive, do resultado e da sucumbência desta. Precedentes." (AgInt no AREsp 1109022/SP, Rel.Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/04/2019, DJe 02/05/2019). Incidência da Súmula 83/STJ.3.1.Outrossim, para alterar o valor em que fixados os honorários advocatícios, seria imprescindível derruir as afirmações do acórdão recorrido no ponto, o que demandaria reanálise dos elementos fáticos dos autos, inviável em sede de recurso especial ante o disposto na Súmula 7 desta Corte.
+4. Conforme entendimento pacífico do STJ, a revisão acerca do quantitativo em que autor e réu decaíram do pedido, para fins de aferição da ocorrência de sucumbência recíproca ou mínima, demanda o revolvimento de matéria fática, impossível na presente via, conforme dispõe a Súmula 7 do STJ. Precedentes.
+5. A incidência do referido óbice impede o conhecimento do recurso lastreado na alínea "c" do inciso III do art. 105 da Constituição Federal, ante a inexistência de similitude fática. Precedentes.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1850435/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/06/2021, DJe 17/06/2021)
+Incide, quanto ao ponto, o óbice da Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
