@@ -1,0 +1,23 @@
+DECISÃO
+Ação rescisória proposta por Odenilde de Assunção Maran contra Dow Corning Corporation visando à rescisão de acórdão desta Corte que, na ação indenizatória proposta por ela, deu provimento ao recurso especial da ré para reduzir o valor da indenização por dano moral para R$ 100.000,00 determinando a incidência da correção monetária a partir da data da conclusão do julgamento em 23/04/2007. (STJ, REsp 534.998/AL, Rel. Ministro ARI PARGENDLER, TERCEIRA TURMA, julgado em 24/04/2007, DJ 01/08/2007, p. 455.) (e-STJ Fls. 83-109.)
+Em 8 de abril de 2021, esta Corte "pronuncio u  a decadência do direito ao ajuizamento da presente ação rescisória, e, em consequência, julgoextinta a presente ação rescisória, com resolução do mérito. CPC 1973, art. 269, IV." (e-STJ Fls. 178-181.)
+A autora opôs embargos de declaração sustentando, em suma, a ocorrência de omissão, de contradição, de dúvida e de obscuridade na decisão embargada. (e-STJ Fls. 184-190.)
+Os embargos de declaração foram rejeitados com a imposição de multa por litigância de má-fé, " c onsiderando que esta é a terceira rescisória não admitida por esta Corte, em virtude da decadência,  donde ser  patente que a autora está ajuizando essas ações com "intuito manifestamente protelatório", o que caracteriza litigância de má-fé. CPC 2015, art. 80, VII." (e-STJ Fls. 194-197.) Em conformidade com essa fundamentação, esta Corte aplicou à autora "multa no valor equivalente a 10% sobre o valor da causa, devidamente atualizado desde o ajuizamento da ação (24/09/2014)." (e-STJ Fl. 197.)
+Agora, a autora requer a redução da multa aplicada ao limite previsto no art. 1.026, § 2º, do CPC 2015. (e-STJ Fls. 200-201.)
+I
+A. O Plenário do STJ, "em sessão administrativa em que se interpretou o art. 1.045 do novo Código de Processo Civil, decidiu, por unanimidade, que o Código de Processo Civil aprovado pela Lei n. 13.105/2015, entr ou  em vigor no dia 18 de março de 2016." (STJ, Enunciado Administrativo Nº 1.)
+Ademais, igualmente decidiu o Plenário do STJ:
+Enunciado administrativo n. 2
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+Enunciado administrativo n. 3
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Em consequência, a lei regente do recurso é a que está em vigor na data da publicação da decisão recorrida.
+B. No presente caso, a decisão impugnada foi prolatada na vigência do CPC 2015, sendo essa codificação, portanto, a lei processual regente deste recurso.
+II
+A. Nos termos do § 2º do art. 1.026 do CPC 2015, " q uando manifestamente protelatórios os embargos de declaração, o juiz ou o tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a dois por cento sobre o valor atualizado da causa."
+B. No entanto, como acima demonstrado, esta Corte impôs à autora multa por litigância de má-fé, " c onsiderando que esta é a terceira rescisória não admitida por esta Corte, em virtude da decadência,  donde ser  patente que a autora está ajuizando essas ações com "intuito manifestamente protelatório", o que caracteriza litigância de má-fé. CPC 2015, art. 80, VII." (e-STJ Fls. 194-197.)
+Assim sendo, a multa aplicada à autora não decorreu da oposição dos embargos de declaração, mas, sim, do "intuito manifestamente protelatório" demonstrado por ela ao ajuizar três ações rescisórias idênticas depois de ultrapassado o prazo decadencial aplicável. Por isso, esta Corte aplicou à autora a multa prevista no art. 80, VII, do CPC 2015, no percentual de 10%, o que está em consonância com o art. 81, caput, do CPC 2015, segundo o qual, " d e ofício ou a requerimento, o juiz condenará o litigante de má-fé a pagar multa, que deverá ser superior a um por cento e inferior a dez por cento do valor corrigido da causa, a indenizar a parte contrária pelos prejuízos que esta sofreu e a arcar com os honorários advocatícios e com todas as despesas que efetuou."
+Tendo em vista que a multa aplicada não decorreu da oposição dos embargos de declaração, mas, sim, da litigância de má-fé (CPC 2015, art. 80, VII) caracterizada no ajuizamento de três ações rescisórias idênticas, todas rejeitadas em virtude da ocorrência de decadência, é improcedente a pretensão à aplicação à espécie do disposto no art. 1.026, § 2º, do CPC 2015.
+III
+Em face do exposto, indefiro o pedido de redução do percentual da multa aplicada.
+Intimem-se.
