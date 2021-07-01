@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ALEXANDRE LOGETOcom fulcro nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 473, e-STJ):
+CONTRATO Compromisso de compra e vendaResolução Atraso na entrega da obra verificadoRestituição integral dos valores desembolsados peloautor determinada Pretensão à reparação pelos danosmatérias, com inversão da cláusula penalDescabimento Indenização por lucros cessantes que éincompatível com o pedido de rescisão do contratoAção improcedente, ainda que por fundamento diversoHonorários advocatícios Redução devida Recursoprovido em parte, com observação.
+Opostos embargos de declaração, esses foram rejeitados (fls. 570-587,e-STJ).
+Os segundos embargos de declaração também foram rejeitados (fls. 596-601, e-STJ).
+Em suas razões recursais (fls. 482-522 e 604-644, e-STJ), alegaaparterecorrente, além do dissidio jurisprudencial,a existência de violação aos arts. 489, 927, 928 e 1.037 do CPC/15 e arts. 4º, 6º, II eV, 51 do CDC, argumentando que o Tribunal de origem decidiu em desconformidade com a decisão dessa Corte Superior no Tema 971 quanto à inversão da clausula penal em favor do adquirente quando a resolução do contrato se deu por atraso da obra.
+Contrarrazões às fls. 695-702, e-STJ.
+Admitido o processamento do recurso na origem (fls. 703-705, e-STJ), ascenderam os autos a esta Corte.
+É o relatório.
+Decido.
+O inconformismo merece prosperar.
+1.Inicialmente, destaca-se haver no processo duas razões de recurso especial interpostos pela parte ora recorrente: (1) petição recebida na data de 27/10/2020às 21:55 fls. 482-522; (2) petição recebida na data de 27/10/2020 às 21:37, de fls. 604-644.
+Desse modo, em respeito ao princípio da unirrecorribilidade e da preclusão consumativa, não se conhece do recurso especial protocolados às fls. 482-522, e-STJ, passando à análise das razões de fls. 604-644, e-STJ.
+2. Cinge-se à controvérsia recursal no tocante a possibilidade de inversão da clausula penal em favor do comprador no caso de resolução do contrato em decorrência do atraso da obra.
+No particular, decidiu o Tribunal de piso (fls. 474, e-STJ):
+De imediato, cumpre ressaltar que resta discutir nesta sede somente a questão referente à indenização por danos materiais, com a aplicação inversa da cláusula penal.
+Cumpre ressaltar que a indenização por lucros cessantes reflete hipótese de recomposição patrimonial pelo atraso da entrega da unidade, tendo como pressuposto a manutenção do contrato.
+Não é, portanto, aplicável ao caso. Se rescindido o contrato retornam as partes ao "statu quo ante", não poderia compromissário comprador tirar qualquer proveito de imóvel que, em última análise, jamais integrou o seu patrimônio.
+É contraditório pretender, ao mesmo tempo, a rescisão do contrato e os benefícios que poderiam auferir no caso de manutenção da avença.
+Manifestou-se sobre o tema também no acórdão dos embargos (fl. 590, e-STJ):
+Segundo se nota, pretende o embargante a inversão das cláusulas 10.01, "c", e 10.03.02 do contrato celebrado pelas partes, previstas somente em favor da promitente vendedora.
+Cumpre ressaltar que a denominada "inversão", conforme tese fixada pelo Superior Tribunal de Justiça em sede de repetitivos (Tema 971), consiste no arbitramento, em favor do adquirente, de indenização pelo período de mora da promitente vendedora, a fim de solucionar o desequilíbrio contratual provocado pela cláusula penal estipulada unilateralmente.
+E referida indenização equipara-se aos lucros cessantes, tanto que do Acórdão, em que foi julgado o repetitivo (REsp n. 1614721/DF, 2a Seção do Superior Tribunal de Justiça, Rel. Min. Luis Felipe Salomão, em 22/5/19, DJe 25/6/19), consta que "(..) nos casos de obrigações de natureza heterogênea (por exemplo, obrigação de fazer e obrigação de dai), impõe-se sua conversão em dinheiro, apurando-se valor adequado e razoável para arbitramento da indenização pelo período de mora, vedada sua cumulação com lucros cessantes". Bem se vê que de erro material também não se cogita na espécie.
+Assim, como expressamente mencionado no Acórdão embargado, sendo hipótese de rescisão contratual, é indevida a indenização pretendida pelo embargante.
+Todavia, ajurisprudência do Superior Tribunal de Justiça orienta no sentido de considerar que a inexecução do contrato de compra e venda, consubstanciada na ausência de entrega do imóvel na data acordada, acarreta o pagamento de indenização por lucros cessantes, sendo presumido o prejuízo do promitente comprador. Dessa forma, imperioso o reconhecimento do prejuízo do recorrente, pois a inversão da cláusula penal possui a mesma finalidade dos lucros cessantes, qual seja, indenizar pelo atraso da entrega do imóvel adquirido.
+Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL.CHAVES. ATRASO NA DISPONIBILIZAÇÃO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM E PELA DECISÃO AGRAVADA.INEXISTÊNCIA DE AFRONTA AOS ARTS. 489, 1.013 E 1.022 DO CPC/2015.AUSÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284/STF.DANOS MORAIS. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS.SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. INADIMPLEMENTO CONTRATUAL. DESCARACTERIZAÇÃO.IMPOSSIBILIDADE. SÚMULA N. 7/STJ. LUCROS CESSANTES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N.83/STJ. ASTREINTES. AFASTAMENTO. REVISÃO DO VALOR DO ENCARGO.REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.SÚMULA N. 7/STJ. INEXISTÊNCIA DE IMPUGNAÇÃO A FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+ ..
+7. De acordo com a jurisprudência do STJ, "há presunção de prejuízo ao adquirente, em virtude da privação do uso do imóvel a partir da data contratualmente prevista para a entrega das chaves, sendo devida a condenação da empresa ao pagamento de indenização por lucros cessantes até à data da disponibilização das chaves" (AgInt no REsp n. 1.792.742/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 26/8/2019, DJe 308/2019), o que foi observado pela Corte local.
+8. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+ ..
+12. Agravo interno a que se nega provimento.
+(AgInt no REsp 1915980/RO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 31/05/2021, DJe 07/06/2021)
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM DEVOLUÇÃO DE QUANTIAS PAGAS E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ATRASO INJUSTIFICADO NA ENTREGA DA OBRA. DESFAZIMENTO DO NEGÓCIO JURÍDICO POR CULPA EXCLUSIVA DA PROMITENTE VENDEDORA. LUCROS CESSANTES. DEVIDOS DURANTE O PERÍODO DE MORA DO INCORPORADOR. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. As disposições do NCPC são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência desta Corte se firmou no sentido de ser cabível a condenação ao pagamento de lucros cessantes ainda que o contrato venha a ser resolvido por culpa do promitente vendedor/construtor.
+Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1886334/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 11/11/2020, DJe 16/11/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO DE INDENIZAÇÃO. COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL.  ..  2. Consonância entre o acórdão estadual e a jurisprudência desta Corte, no sentido de que o atraso na entrega do imóvel (objeto de compromisso de compra e venda), sobretudo após o esgotamento da prorrogação estipulada, enseja o pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador (EREsp 1.341.138/SP, Rel. Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 09.05.2018, DJe 22.05.2018).  ..  4. Agravo interno não provido. (AgInt no REsp 1813470/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/11/2019, DJe 12/11/2019)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO E INDENIZAÇÃO. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO IMÓVEL. LUCROS CESSANTES. AGRAVO INTERNO NÃO PROVIDO.
+1. De acordo com o entendimento sumulado desta Corte, "na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor" (Súmula 543/STJ).
+2. A jurisprudência desta Corte assinala "ser cabível, na hipótese de rescisão de promessa de compra e venda de imóvel por inadimplemento da promitente-vendedora, a condenação desta ao pagamento de indenização por lucros cessantes, sendo dispensável a prova desses" (AgInt nos EDcl no REsp 1.562.007/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em
+07/06/2018, DJe de 19/06/2018).
+3. A majoração de honorários de 12% (doze por cento) para 13% (treze por cento) encontra fundamento no art. 85, § 11, do CPC/2015, diante do preenchimento dos seus requisitos.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1482593/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/09/2019, DJe 21/10/2019)
+Portanto, necessária a reforma do acórdão do Tribunal de Origem afim de se adequar com a jurisprudência dessa Corte Superior e reconhecer como presumível os danos materiais decorrente do atraso na entrega do imóvel.
+3. Do exposto, dou provimento ao recurso especial para reconhecer serem devidos os lucros cessantes. Determino a inversãodos honorários sucumbenciais.
+Publique-se.
+Intimem-se.
