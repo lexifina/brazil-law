@@ -1,0 +1,18 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração interposto por CASSIANO CIRILO ANUNCIAÇÃO contra decisão que conheceu edeu provimento ao agravo interno da ora embargada para reconhecer a tempestividade do recurso especial e determinaro prosseguimento do feito.
+Nas razões dos embargos de declaração, a parte sustenta que,"como dito nas contrarrazões de fls. 322/324, o processo tramitou, na origem, sob o sistema E-SAJ, com publicações via Diário de Justiça Eletrônico e, jamais, como quer fazer crer a recorrente, pelo PJE, onde as publicações são disponibilizadas em painel próprio do advogado cadastrados" (e-STJ. fl. 343), portanto, não há que se falar em intimação pessoal ou mesmo tempestividade do recurso.
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese, pois todas as questões aduzidas em sede de especial foram devidamente analisadas.
+Reanalisando os autos é possível concluir queEgrégia Presidência desta Corte Superior, a quem foi distribuído inicialmente o agravo em recurso especial, computou o prazo recursal de 15 dias úteis a partir da data da publicação no DJe, 12/12/2019, concluindo, assim, pela intempestividade do agravo interposto no dia 5/2/2020.Contudo, é cediço na jurisprudência desta Corte que a intimação eletrônica do advogado se sobrepõe as publicações em diário oficial. O que ocorreu àfl. 226 do presente feito.
+Com essas razões, impõe-se a reforma da decisão agravada para afastar o óbice da intempestividade, pois, computando-se o prazo recursal de 15 dias úteis a partir de 16/12/2019, data da intimação tácita por meio eletrônico, mostra-se tempestivo o recurso especial interposto em 5/2/2020.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Ilustrativamente, veja-se o seguinte precedente: EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+2. Embargos de declaração rejeitados.
