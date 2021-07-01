@@ -1,0 +1,42 @@
+DECISÃO
+1. Cuida-se de recurso especial interposto por MARINALVA MOREIRA DA SILVA, com fundamento no art. 105, III, a, da Constituição da República, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS,assim ementado:
+"PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO DE APELAÇÃO INTEMPESTIVO. PRAZO PROCESSUAL. SISTEMA EPROC. MERAMENTE INFORMATIVO. CONTAGEM DE PRAZO PROCESSUAL. MISTER DO ADVOGADO. PRECEDENTES DOSTJ. AGRAVO REGIMENTAL CONHECIDO E IMPROVIDO.
+1- As informações prestadas via internet têm natureza meramente informativa, não possuindo, portanto, caráter oficial. Assim, eventual erro ocorrido na divulgação de informações não configura justa causa para efeito de reabertura de prazo.
+2- Não é crível desprezar as informações divulgadas pelos sistemas eletrônicos, como forma de preservar a boa-fé e a confiança das informações divulgadas. Contudo, viola a boa-fé objetiva e o dever de cooperação (Arts. 5º e 6º do CPC), o protocolo de recurso depois do prazo legal, tendo como desculpa a informação errônea, pelo sistema, do prazo final recursal, quando este mesmo sistema trás deforma clara, a data da intimação, o prazo e dia ad quem.
+3- As informações processuais fornecidas pelo sistema E-proc possuem natureza meramente informativa e não substitui a contagem processual dos prazos, e bem assim, não retira do procurador da parte o ônus de verificar efetivamente, o termo inicial e final do prazo processual.
+4- Tendo como base as informações referentes à data da intimação, à data inicial do prazo recursal, tenho que este se exauriu no dia21/07/2017, de modo que, tendo o recurso de apelação sido protocolado no dia 31/07/2017, a sua intempestividade é manifesta.
+5- Recurso conhecido e improvido." (fl. 321)
+Em suas razões recursais, aponta a parte recorrenteofensa ao disposto noart. 1.003, § 5º, do CPC
+Sustenta, em síntese, queoequívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente.
+Contrarrazões ao recurso especial às fls. 349-354.
+Crivo positivo de admissibilidade na origem (fls. 361-363).
+É o relatório.
+DECIDO.
+2.No caso, verifica-se que o eg. Tribunal de origem pressupõeequívoco no sistema eletrônico quanto ao lançamento do último dia do prazo; concluindo, porém, por sua irrelevância para aferição da tempestividade.
+Conforme consignado pela Corte local, o dever deobservância do prazo recursal pelas partes é intransponível,por se tratar de matéria de ordem pública,in verbis:
+"Pois bem. Conforme se depreende dos autos, a intimação do agravante sobre o teor da sentença singular proferida no evento 42 foi lançada no sistema processual eletrônico, no dia 20/06/2017 (evento 43 dos autos originários).
+A teor da disposição contida no artigo 5º, §§ 2º e 3º, da Lei n.º 11.419/2006, a consulta ao teor da intimação deve ser feita em até 10 dias corridos, contados da data do envio da intimação, sob pena de considerar-se a intimação automaticamente realizada na data do término desse prazo, sendo que, nos casos em que a consulta seja realizada em dia não útil, a intimação será considerada realizada no primeiro dia útil seguinte.
+No caso, como a intimação foi lançada no dia 20/06/2017 (evento 43 dos autos originários), sendo que a agravante foi considerada intimada (confirmação da intimação) no dia 30/06/2017 (evento 46), iniciando-se o prazo de 15 (quinze) dias úteis para a interposição do presente recurso no dia 03/07/2017 (segunda-feira).
+Deste modo, o termo final para a interposição do recurso de apelação recaiu no dia 21/07/2017. Entretanto, o referido recurso somente foi protocolizado em 31/07/2017 (evento 48 dos autos originários).
+Em que pese o sistema ter indicado o prazo final para a interposição do recurso como sendo o dia 31/07/2017, verifico que tal situação não tem o condão de afastar a aplicação do prazo legal, devidamente indicado no Código de Processo Civil, que é uma questão de ordem pública e que vincula os litigantes."  g.n.  (fl. 303)
+A orientação adotada destoa da jurisprudência do STJ, que consolidou o entendimento no sentido de que o equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente.
+Confiram-se:
+PROCESSUALCIVIL. EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. RECURSO ESPECIAL. INTERPOSIÇÃO FORA DO PRAZO RECURSAL.ERRODE INFORMAÇÃO PELO SISTEMA ELETRÔNICO DO TRIBUNAL. BOA-FÉPROCESSUAL.DEVER DE COLABORAÇÃO DAS PARTES E DO JUIZ. TEMPESTIVIDADE. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+1. A embargante defende a tempestividade de recurso especial interposto fora de seu prazo. Para tanto, não destaca a ocorrência de feriado local ou ausência de expediente forense, mas equívoco na contagem do prazo pelo sistema oficial (PJe) do Tribunal de origem.
+2. Não cabe às partes ou ao juiz modificar o prazo recursal, cuja natureza é peremptória. Porém, o caso dos autos não se trata de modificação voluntária do prazo recursal, mas sim deerrojudiciário.
+3. De fato, cabe ao procurador da parte diligenciar pela observância do prazo legal para a interposição do recurso. Porém, se todos os envolvidos no curso de um processo devem se comportar de boa-fé à luz do art. 5º do CPC/2015, o Poder Judiciário não se pode furtar dos erros procedimentais que deu causa.
+4. O equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente. Afinal, o procurador da parte diligente tomará o cuidado de conferir oandamentoprocedimental determinado pelo Judiciário e irá cumprir às ordens por esse emanadas nos termos do art. 77, IV, do CPC/2015.
+5. Portanto, o acórdão a quo deve ser reformado, pois conforme a Corte Especial já declarou: "A divulgação doandamento processualpelos Tribunais por meio da internet passou a representar a principal fonte de informação dos advogados em relação aos trâmites do feito. A jurisprudência deve acompanhar a realidade em que se insere, sendo impensável punir a parte que confiou nos dados assim fornecidos pelo próprio Judiciário" (REsp 1324432/SC, Rel. Ministro Herman Benjamin, Corte Especial, DJe 10/5/2013).
+6. Embargos de divergência providos.
+(EREsp 1805589/MT, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 18/11/2020, DJe 25/11/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃONO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. TRIBUTÁRIO. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. FALHA DO SISTEMA NO TRIBUNAL DE ORIGEM.JUSTA CAUSA RECONHECIDA. PRECEDENTES.
+A informação equivocadamente disponibilizada pelo Tribunal de origem pode ter induzido a erro a parte ora agravada , não sendo razoável que seja prejudicada por fato alheio a sua vontade.
+A Corte Especial no REsp 1.324.432/SCadmitiu o uso das informações constantes do andamento processual disponíveis no sítio eletrônico do Tribunal de origem para aferição da tempestividade quando constatado erro na informação divulgada, hipótese em que se faz presente a justa causa para prorrogação do prazo. Precedentes.
+Agravo interno não provido.
+(AgInt no AgInt nos EDcl no AREsp 1466536/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 01/06/2020, DJe 05/06/2020)
+3.Ante o exposto, dou provimento ao recurso especial para cassar o acórdão recorrido. Por conseguinte, determino que o eg. Tribunal de origem aprecie o recurso de apelação como entender de direito, afastada a preliminar de cabimento da tempestividade.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. RECURSO DE APELAÇÃO. CABIMENTO. SISTEMA EPROC. EQUÍVOCO NA INDICAÇÃO DO TERMO FINAL PARA INTERPOSIÇÃO. RELEVÂNCIA.ERRO DE INFORMAÇÃO PELO SISTEMA ELETRÔNICO DO TRIBUNAL. BOA-FÉ PROCESSUAL. DEVER DE COLABORAÇÃO DAS PARTES E DO JUIZ. TEMPESTIVIDADE. PROVIMENTO.
+1.O equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente. No caso, o Tribunal de origem pressupõe que o recurso teria sido interposto dentro do prazo indicado no sistema eletrônico correspondente, devendo ser conhecido, uma vez que interpostosem qualquer abuso da posição processual eapoucos dias de atrasoem relação ao prazo legal.
+2. Recurso especial provido.
