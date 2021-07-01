@@ -1,0 +1,40 @@
+DECISÃO
+WANDERSON ARIAN FERNANDES E SILVA alega sofrer coação ilegal, em decorrência da manutenção da prisão cautelar, em acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, nos autos do habeas corpus n. 009945-16.2020.8.11.0000.
+A defesa pretende a soltura do paciente - acusado pela prática do delito de homicídio qualificado - ou a aplicação do art. 319 do CPP, sob o argumento de ausência dos requisitos necessários à custódia cautelar, mormente por já ter sido pronunciado, não oferecendo, portanto, risco à instrução processual.
+Acrescenta que o cumprimento da pena só deve ocorrer após o trânsito em julgado da condenação e que não houve reexame da prisão no prazo de 90 dias.
+Decido.
+O Juízo de Direito, ao determinar a prisão preventiva do paciente, ofereceu os seguintes argumentos:
+ ..
+As investigações apuraram que no dia 23 de novembro de 2019, por volta das 22h40 min. a vítima IGOR CÉSAR MORAES DE SOUZA foi alvejado por disparos de arma de fogo nas mediações da Avenida Dom Aquino, Centro, em frente ao Mercado Tigrão, nesta urbe. A vítima estava na companhia da testemunha Antonio, quando se depararam com uma briga no local supra descrito, em que conheciam os envolvidos, ocasião em que resolveram parar para tentar apaziguar a confusão.
+Na oportunidade, a vitima e o representado teriam se desentendido, momento em que o suspeito sacou a arma de fogo que estava em sua cintura, e efetuou disparos em direção a vitima, que caiu ao chão em razão dos ferimentos. Os relatos das testemunhas dão conta que mesmo após a vitima ter caído ao solo, o representado efetuou mais disparos.
+A vitima foi socorrida pela testemunha Antonio, que o levou ao PAM.
+Em razão da gravidade dos ferimentos, a vítima foi posteriormente encaminhada ao PSM de Várzea Grande, local em que veio a óbito, em resultado das perfurações ocasionadas pelos disparos de arma de fogo.
+ ..
+Após a suposta prática do crime, o suspeito empreendeu fuga do local e nunca mais foi visto, ate o cumprimento do mandado de prisão temporária que se deu no dia 27 de fevereiro de 2020.
+ ..
+No caso dos autos, verifica-se que o réu encontrava-se em local incerto e não sabido até o cumprimento da ordem de prisão, deixando de se apresentar a Depol para prestar esclarecimentos, externando a ausência de intenção em colaborar com as investigações.
+ ..
+Aliado a isso, o investigado possui executivo de pena pelo cometimento do crime de porte ilegal de arma de fogo de uso permitido, que tramita sob o nº 3325-86.2018.8.11.0028. Assim, aplica-se ao caso também o inciso II do art. 313 do CPP.
+No que tange a possibilidade de substituição da segregação por medidas cautelares, estas seriam ineficazes ao caso em análise, uma vez que o suspeito encontrava-se foragido, sem qualquer intenção em colaborar com as investigações da Policia Civil, tomando a ultima ratio a única medida capaz de inibir nova prática delituosa.
+Insta salientar que nas imagens do circuito interno do prédio do Fórum da comarca de Poconé, e possível identificar a pratica do crime de homicídio, sendo que o investigado efetua mais de um disparo em direção a vitima, inclusive quando esta já estava calda ao chão.
+ ..
+Deflui dos autos a presença dos pressupostos da prisão preventiva - prova da existência do crime, indicias de autoria e perigo gerado peio estado de liberdade - previstos no artigo 312, in fine, do CPP, sendo a garantia da ordem pública e a conveniência da instrução penal, uma vez que o réu encontrava-se foragido desde a data da suposta prática do crime, impedindo a correta aplicação da lei penal, a fim de apurar a abominável conduta supostamente por ele cometida, sendo a prova da existência do crime o óbito da vitima lgoi César Moraes de Souza.
+O perigo de liberdade do acusado encontra-se embasado na prática de crime cometido com violência e lesão grave . a pessoa, demonstrando que sua liberdade causaria grave risco a sociedade e a ordem pública. (fls. 18-20, destaquei)
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente e concreta para decretar a prisão preventiva, ao salientar, que o delito foi praticado com violência grave a pessoa, que o paciente se evadiu do local dos fatos e ficou foragido quase 3 meses e que cometeu este delito no curso de execução da penal por outro crime.
+A acusação que pesa contra o réu é grave, ou seja, de homicídio qualificado, e denota periculosidade concreta acentuada, especialmente diante do modus operandi verificado, tendo em vista que o paciente efetuou mais de um disparo contra a vítima, mesmo ela já caída ao solo .
+Segundo a orientação desta Corte, a gravidade dos fatos concretamente considerados, evidenciada por deu modus operandi, justifica a constrição cautelar (HC n. 566.968/RJ, Rel. MinistroRogerio Schietti, DJe 17/6/2020).
+Nesse sentido é o entendimento do STJ:
+ ..
+4. No caso, as instâncias ordinárias destacaram elementos suficientes para justificar a prisão, em especial o modus operandi adotado, indicador da periculosidade do paciente e corréus, os quais, por motivo banal - discussão em festa -, perseguiram a vítima quando esta saiu do local e a executaram com disparos de arma de fogo, tendo o paciente, em tese, desferido o tiro derradeiro, na testa da vítima, quando esta já estava caída no solo.
+5. Com efeito, "se a conduta do agente - seja pela gravidade concreta da ação, seja pelo próprio modo de execução do crime - revelar inequívoca periculosidade, imperiosa a manutenção da prisão para a garantia da ordem pública, sendo despiciendo qualquer outro elemento ou fator externo àquela atividade" (HC n. 296.381/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, Quinta Turma, julgado em 26/8/2014, DJe 4/9/2014).
+ ..
+(HC 489.686/PB, Relator Ministro Reynaldo Soares Da Fonseca, 5ªT., DJe 30/4/2019, grifei)
+Ainda, reforça a necessidade de segregação o fato de que o acusado se evadiu do distrito da culpa após o suposto cometimento do crime, o que indica que a medida é necessária para garantir a aplicação da lei penal, tendo em vista que "determinadas condutas, como a não localização, ausência do distrito da culpa, a fuga (mesmo após o fato) podem demonstrar o intento do agente de frustrar o direito do Estado de punir" (HC 489.686/PB, Relator Ministro Reynaldo Soares Da Fonseca, 5ªT., DJe 30/4/2019).
+Saliento que o delito de homicídio qualificado foi praticado enquanto o réu cumpria pena por condenação anterior pelo crime de porte ilegal de arma de fogo, o que também aponta maior periculosidade em sua conduta e a necessidade de manutenção da cautelar para preservação da ordem pública.
+Está corte já decidiu que "ser o paciente reincidente, e que estava em cumprimento de pena quando voltou, em tese, a delinquir, demonstrando sua periculosidade, e que a prisão é necessária para assegurar a preservação da ordem pública. (HC 617.085/SP, Relator Ministro Reynaldo Soares Da Fonseca, 5ªT., DJe 26/10/2020)
+Nas hipóteses em que a dinâmica dos fatos e as demais circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são suficientes para demonstrar a necessidade de garantia da ordem pública e, por isso mesmo, constituem fundamento idôneo para a custódia provisória.
+Portanto, em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+Por fim, quanto à necessidade de revisão da cautelar, nos termos do art. 316, parágrafo único, do CPP, em consulta ao site eletrônico do Tribunal estadual quanto ao processo de origem (autos n. 727-91.2020.811.0028, Vara Única de Poconé/MT), verifica-se que foi analisada sua necessidade e mantida a preventiva em 17/05/2021, não havendo que se falar em ilegalidade.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
