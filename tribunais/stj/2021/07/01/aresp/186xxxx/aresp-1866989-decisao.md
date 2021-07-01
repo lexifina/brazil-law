@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por GILSON SILVA BRANCO, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Rio Grande do Sul assim ementado (e-STJ, fl. 136):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO ORDINÁRIA DE REPARAÇÃO DE DANOS MORAIS. INADIMPLEMENTO. LICITUDE DA INSCRIÇÃO DO NOME DO AUTOR EM ÓRGÃO CADASTRAL DE INADIMPLENTES. DANO MORAL NÃO CONFIGURADO. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS COMBASE NO § 11 DO ART. 85 DO CPC. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 149-152).
+No recurso especial, o recorrente apontou, além de divergência jurisprudencial, violação dos arts. 166, 167, 186 e 927 do Código Civil; 6º, VII e VIII, do 14, 22, parágrafo único,42, parágrafo único, 43, 51, 83, 84,§ 2º,do CDC; e 333, II, do CPC/2015.
+Esclareceu que se opôs ao acórdão que negou a ocorrência de danos morais.Afirmou que temdireito à reparação em razão dainscrição indevida de seu nome nos órgãos de proteção ao crédito.
+Alegou a ocorrência de falha na prestação de serviço, pois o apontamento negativo ocorreu em razão da devolução de cheque uma única vez. Referiu que o valor da indenização deve ser acrescido de juros moratórios a partir do evento danoso, nos termos da Súmula 54/STJ. Requereu a inversão da sucumbência e a manutenção do beneficio da gratuidade judiciária(e-STJ, fls. 159-167).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 199-208).
+Contraminuta nãoapresentada (e-STJ, fls. 209 e 211).
+Brevemente relatado, decido.
+O acórdão concluiu pela legitimidade do procedimento adotado pelo banco e que deu origem à inscrição negativa, portanto, não viável o acolhimento da pretensão do autor no tocante à ocorrência de danos. Estampou o aresto que a cártula foi apresentada em duas oportunidades, e não em apenas uma única vez, sendo que em ambas não ocorreu o pagamento.
+Veja-se (e-STJ, fls. 133-134):
+2. De pronto, destaco que a questão controvertida foi bem analisada na sentença recorrida, razão pela qual, à luz da técnica de motivação per relationem1, mantenho-a por seus próprios fundamentos fático-probatórios e jurídico-legais, verbis (evento 5):
+"Trata-se de demanda por meio da qual pretende o autor o cancelamento de registro decorrente de cheque devolvido por falta de provisão de fundos e reparação por danos morais. A controvérsia deve ser disciplinada de acordo com as regras do Código de Defesa do Consumidor, o que impõe ao réu a prova do cumprimento do procedimento devido antes da inscrição do cheque não compensado em cadastro negativo.
+A prova produzida pelo réu, assim, é suficiente e comprova que o cheque foi efetivamente apresentado em duas oportunidades para compensação, nos dias 20/03 e 06/05/2014, folhas 41-43.
+Os extratos são prova suficiente, não sendo razoável retirar dos documentos o poder de convencimento que eles merecem a partir da alegação de unilateralidade. Afinal, representam a movimentação de conta sob a administração do banco, não sendo possível compreender como seriam expedidos a partir de uma colaboração do correntista.
+Assim, cumpriria ao autor demonstrar o contrário, ainda que de forma mínima. Portanto, as alegações postas na inicial quanto a inexistência de uma segunda apresentação e devolução do cheque por falta de fundos na conta sacada não resistem à demonstração feita pelo banco, não se tratando, na hipótese. Assim, comprovada a legitimidade do procedimento adotado pelo banco e que deu origem à inscrição negativa, sendo ela legítima, a pretensão do autor deve ser rejeitada.
+Diante do exposto, julgo IMPROCEDENTE a ação ordinária ajuizada por Gilson Silva Branco contra o Banco do Estado do Rio Grande do Sul - Banrisul. Condeno o(a) autor(a) ao pagamento das custas processuais e honorários advocatícios, sendo estes fixados, na forma do art. 85, § 8º do Código de Processo Civil, em R$ 1.045,00, corrigidos monetariamente pelo IGP-M/FGV a contar da data da sentença.
+Suspendo a exigibilidade dos ônus de sucumbência devidos pelo(a) autor(a) na forma do artigo 98, § 3º, do Código de Processo Civil.
+"No caso, há pouco a acrescentar. Basta verificar nos autos integrados que o réu apresentou em duas oportunidades o cheque para compensação, tendo havido o estorno da cártula, por falta de saldo para o seu pagamento (evento 2; CONTEDOCS2 - fls. 41 e 43).
+Desta forma, comprovada a apresentação do cheque em duas oportunidades e havendo inadimplida a dívida pelo autor, não há falar em indenização por dano moral.
+Essas ponderações foram feitas com base em fatos e provas, atraindo a aplicação da Súmula 7/STJ, que incide sobre ambas as alíneas do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte ora recorrida em mais R$ 200,00 (duzentos reais), observada a gratuidade de justiça.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS. ENTENDIMENTO NO SENTIDO DA AUSÊNCIA DE DEVER REPARATÓRIO. ACÓRDÃO FIRMANDO A LEGALIDADE DO PROCEDIMENTO DO BANCO PARA VIABILIZAR A ANOTAÇÃO DO NOME DO INSURGENTE EM CADASTROS DE PROTEÇÃO AO CRÉDITO. INEXISTÊNCIA DE ATO ILÍCITO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
