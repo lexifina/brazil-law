@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo, interposto por PARTIDO DOS TRABALHADORES, em face de decisão que não admitiu recurso especial doora insurgente.
+O apelo nobre, fundamentado nas alíneas "a" e "c", do permissivo constitucional, em desafio ao acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 163, e-STJ):
+RESPONSABILIDADE CIVIL. Prestação de serviços(fornecimento e montagem de estrutura para eventos). Resíduo de inadimplemento do preço pactuado. Ação de cobrança. Juízo de parcial procedência. Apelo do réu. Desprovimento.
+Embargos de declaração rejeitados (fls. 177/179, e-STJ).
+Em sede de recurso especial, foi reconhecida a violação ao artigo 489 do CPC/15 e determinado o retorno dos autos à origem, para novo julgamento dos embargos de declaração, cuja decisão ficou assim ementada (fl. 261, e-STJ):
+EMBARGOS DECLARATORIOS. Inexistência de omissão, obscuridade ou contradição. Abordagem modificativa. Etapa de prequestionamento. Embargos rejeitados.
+Nas razões de recurso especial (fls. 264/271, e-STJ), oagravante aponta, além de dissídio jurisprudencial,ofensa aos artigos 11 e 489, §1º, do CPC/15, afirmando que o acórdão recorrido é nulo, por ausência de fundamentação sobre as questões por elesuscitadas.
+Sem contrarrazões.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 277/280, e-STJ), dando ensejo ao presente agravo (fls. 283/291, e-STJ), por meio do qual oagravantepretendea reforma da decisão impugnada e o processamento do apelo.
+É o relatório.
+Decido.
+A pretensão não merece prosperar.
+1. Verifica-se,que o insurgente se limitou a apontarofensa aos artigos11 e 489, §1º, do CPC/15, e afirmar que o acórdão recorrido não foi devidamente fundamentado.Contudo, não apontouespecificamente, em que consiste a mencionada deficiência na fundamentação, sobre qual tese a Corte de origem deixou de realizar a devida prestação jurisdicional.
+Assim, em prejuízo da compreensão da controvérsia, não foi demonstrada com clareza e precisão a necessidade de reforma da decisão, neste ponto, incidindo no óbice previsto na Súmula 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, precedentes desta Corte:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA Nº 284/STF.  ..  REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. 1. O recurso especial que indica violação do artigo 535 do Código de Processo Civil, mas traz somente alegação genérica de negativa de prestação jurisdicional, é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal. 2. Considera-se deficiente de fundamentação o recurso especial que, apesar de apontar os preceitos legais tidos por violados, não demonstra, de forma clara e precisa, de que modo o acórdão recorrido os teria contrariado, circunstância que atrai, por analogia, a Súmula nº 284/STF.  ..  6. Agravo regimental não provido. (AgRg no REsp 1193892/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/02/2014, DJe 24/02/2014)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. CRT E CELULAR CRT. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO A LEI FEDERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO ESPECIAL. SÚMULA 284/STF.  ..  1. A jurisprudência desta Corte é pacífica no sentido de que a violação genérica de lei federal não enseja a abertura da via especial, aplicando-se, por analogia, a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."  ..  4. Agravo regimental a que se nega provimento. (AgRg no AREsp 550.524/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/05/2015, DJe 11/06/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. LIQUIDAÇÃO DE SENTENÇA. VIOLAÇÃO AO ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA N.º 284 DO STF, POR ANALOGIA.  ..  1. Não se pode conhecer da violação ao artigo 535 do CPC, pois as alegações que fundamentaram a pretensa ofensa são genéricas, sem discriminação dos pontos efetivamente omissos, contraditórios ou obscuros. Incide, no caso, a Súmula n.º 284 do STF, por analogia.  ..  4. Agravo regimental não provido. (AgRg no AREsp 281.953/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/02/2013, DJe 05/03/2013)
+Inafastável, portanto, o teor da Súmula 284 do STF.
+2. Do exposto, nega-se provimento ao agravo.
+Publique-se.
+Intimem-se.
