@@ -1,0 +1,28 @@
+DECISÃO
+1. Cuida-se de agravo interno interposto por NILSIMAR NUNES SILVA, JOÃO PAULO AVEIRO, sob a vigência do Novo Código de Processo Civil, contra decisão deste relator, que deu provimento ao recurso especial por ela interposto, para restabelecer a sentença de piso quanto à condenação da parte ré ao pagamento de pensão à esposa do falecido segurado, no importe de 2/3 do salário mínimo, até que ela atinja 65 anos de idade.
+Além disso, foi determinada a incidência de correção monetária sobre os valores da apólice desde a data da celebração do contrato até o dia do efetivo pagamento do seguro.
+Inconformada, a parte ora agravante, em apertada síntese, "os agravantes não se conformam o termo final do período do pagamento da pensão deferida ser até que a apelante atinja 65 anos de idade se pediu no recurso especial que fosse de forma vitalícia ou, ao menos, até a idade estimada de expectativa de vida do falecido de 76,4 pelo IBGE (e-STJ Fl.554), uma vez que essa tem sido a jurisprudência desta Col. Corte, conforme citado na própria r. Decisão agravada"(fls. 681-693).
+Contrarrazões ao agravo interno às fls. 696-701 e 702-705.
+É o relatório.
+DECIDO.
+2. De fato, a decisão recorrida merece ser parcialmente reconsiderada.
+Isso porque, assiste razão à parte recorrente no sentido de que, segundo o entendimento desta Corte, a obrigação de pagamento de pensão mensal por morte de cônjuge, resultante da prática de ato ilícito, tem como termo final a data em que a vítima do evento danoso atingiria idade correspondente à expectativa média de vida do brasileiro prevista no momento de seu óbito, segundo a tabela do IBGE, ou até o falecimento do beneficiário, se tal fato vier a ocorrer primeiro.
+A propósito, confira:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. PENSIONAMENTO CIVIL POR ATO ILÍCITO. CONCOMITÂNCIA COM PENSÃO PREVIDENCIÁRIA. ORIGEM DIVERSA. POSSIBILIDADE. TERMO FINAL. EXPECTATIVA DE VIDA SEGUNDO A TABELA DO IBGE OU FALECIMENTO DO BENEFICIÁRIO. AGRAVO INTERNO NÃO PROVIDO.
+1. O pensionamento por ilícito civil não se confunde com o pago pela Previdência Social, por ter origem diversa, de sorte que possível a concomitância entre ambos, não ficando eximido o causador do sinistro se, porventura, a vítima ou seus beneficiários percebem pensão paga pelo INSS. Precedentes.
+2. Segundo o entendimento desta Corte, a obrigação de pagamento de pensão mensal por morte de cônjuge, resultante da prática de ato ilícito, tem como termo final a data em que a vítima do evento danoso atingiria idade correspondente à expectativa média de vida do brasileiro prevista no momento de seu óbito, segundo a tabela do IBGE, ou até o falecimento do beneficiário, se tal fato vier a ocorrer primeiro. Precedentes.
+3. Tratando-se a hipótese dos autos de litisconsórcio unitário, em que há uma relação jurídica única ou incindível e a necessidade de uniformidade de decisão para todos os litisconsortes, aplica-se a regra geral prevista no art. 1.005 do CPC, que dispõe que "o recurso interposto por um dos litisconsortes a todos aproveita, salvo se distintos ou opostos a seus interesses."
+4. Agravo interno não provido.
+(AgInt no REsp 1795855/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/05/2021, DJe 07/06/2021)
+______________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. PENSÃO MENSAL AO CÔNJUGE SOBREVIVENTE. DOIS TERÇOS DA REMUNERAÇÃO DO DE CUJUS. EXPECTATIVA DE VIDA VERIFICADA NA DATA DO ÓBITO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM O ENTENDIMENTO DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. Não configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+3. O pensionamento por morte de familiar deve limitar-se a 2/3 (dois terços) dos rendimentos auferidos pela falecida vítima, presumindo-se que 1/3 (um terço) desses rendimentos eram destinados ao seu próprio sustento. Precedentes.
+4. Segundo o entendimento desta Corte, a obrigação de pagamento de pensão mensal por morte de cônjuge, resultante da prática de ato ilícito, tem como termo final a data em que a vítima do evento danoso atingiria idade correspondente à expectativa média de vida do brasileiro prevista no momento de seu óbito, segundo a tabela do IBGE, ou até o falecimento do beneficiário, se tal fato vier a ocorrer primeiro. Precedentes.
+5. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp 1713056/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/10/2020, DJe 24/11/2020)
+No caso em análise, o óbito ocorreu em 17/11/2017, e, conforme informações colhidas no site do IBGE, a expectativa média do brasileiro nesse ano era de 76 anos.
+Portanto, o pensionamento deve ocorrer até a idade estimada de expectativa de vida do falecido de 76 anos pelo IBGE, ouaté o falecimento dobeneficiário, se tal fato vier a ocorrer primeiro.
+3. Ante o exposto, reconsidero parcialmente a decisão agravada, apenas para determinarqueo pensionamento deverá ocorrer até a idade estimada de expectativa de vida do falecido de 76 anos pelo IBGE, ou até o falecimento do beneficiário, se tal fato vier a ocorrer primeiro.
+Publique-se. Intimem-se.
