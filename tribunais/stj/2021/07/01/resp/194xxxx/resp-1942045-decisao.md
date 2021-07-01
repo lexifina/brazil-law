@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial interposto por TELEFÔNICA BRASIL S/A, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 11/09/2020.
+Concluso ao gabinete em: 25/06/2021.
+Ação: despejo, ajuizada por HELDER ANIBAL CAMILO CHICA e FRANCISCO MANUEL CAMILO FERNANDES, em face de TELEFÔNICA BRASIL S/A.
+Sentença: julgou procedente a pretensão formulada, declarando rescindido o contrato de locação e decretando o despejo do imóvel, ficando assegurado o prazo de 90 (noventa) dias para a desocupação voluntária. Determinou, ainda, a expedição de mandado de notificação/despejo, devendo a recorrente ser notificada para a desocupação voluntária em 90 (noventa) dias, sob pena de despejo. Assim, condenou a recorrente nas despesas processuais e nos honorários, estes fixados em R$ 2.500,00.
+Acórdão: negou provimento à Apelação interposta pela recorrente, nos termos da seguinte ementa:
+"Apelação Cível. Ação de Despejo por Denúncia Vazia. Contrato de locação não residencial, para a instalação de uma Estação Rádio Base (ERB) da companhia telefônica da ré, com prazo de 60 (sessenta) meses, o qual foi automaticamente renovado por 03 (três) vezes, por igual período. Sentença de procedência do pedido. Inconformismo da demandada. Na espécie, os autores demonstraram que denunciaram o contrato dentro do prazo acordado entre as partes, não tendo a ora recorrente, no entanto, desocupado o bem. Com relação à alegação da ré de que deveria ser aplicada a proteção ao fundo de comércio, a mesma deveria ser arguida em demanda renovatória, de cujo direito ela decaiu, por não ter ajuizado a respectiva ação dentro do prazo previsto no § 5º do artigo 51 da Lei de Locações. Com relação ao prazo para desocupação voluntária, fixado na sentença, cabe observar que os autores cumpriram com a concessão dos 180 (cento e oitenta) dias, estipulados em contrato, para que a ré promovesse a desinstalação dos seus equipamentos e buscasse novo local, a contar do fim da terceira renovação da avença. Desse modo, em que pese a essencialidade do serviço prestado pela apelante, o prazo estipulado na sentença para desocupação voluntária, a saber: 90 (noventa) dias, não deve ser estendido, tendo em vista que a demandada já dispôs de tempo mais do que suficiente para se fixar em outro local. Manutenção do decisum que se impõe. Recurso a que se nega provimento, majorando-se os honorários advocatícios em 5% (cinco por cento) sobre o quantum fixado pelo Juízo a quo, na forma do § 11 do artigo 85 do Código de Processo Civil." (e-STJ fl. 344/345)
+Embargos de Declaração: opostos, pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 1.142, CC/02, 52, I, II, §§ 1º, 2º, 3º, Lei 8.245/91. Sustenta que o acórdão recorrido entendeu que os locadores poderiam se opor à renovação apenas com a notificação vazia, sem qualquer fundamento apto a justificar a retomada do bem imóvel.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 1.142, CC/02, 52, I, II, §§ 1º, 2º, 3º, Lei 8.245/91, indicados como violados, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível.
+Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "os recorridos demonstraram que denunciaram o contrato dentro do prazo de 180 (cento e oitenta) dias de antecedência acordado entre as partes, conforme se observa do documento de fls. 36/37, que, na verdade, foi confeccionado 360 (trezentos e sessenta) dias antes do término da terceira renovação automática, que ocorreria em 18 de novembro de 2016", bem como de que "com relação à alegação de que deveria ser aplicada a proteção ao fundo de comércio, a mesma deveria ser arguida em demanda renovatória, de cujo direito decaiu a recorrente, por não ter ajuizado a respectiva ação dentro do prazo previsto no § 5º do artigo 51 da Lei de Locações", além de que "em que pese a essencialidade do serviço prestado pela recorrente, o prazo estipulado na decisão guerreada não deve ser, mais uma vez, estendido, tendo em vista que a demandada já dispôs de tempo mais do que suficiente para promover a desinstalação dos seus aparelhos e se fixar em outro local", exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 2.625,00 (e-STJ fls. 347) para R$ 4.500,00.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE DESPEJO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de despejo.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Recurso especial não conhecido.
