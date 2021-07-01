@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MARIA KAROLLINE DA SILVA SANTOSem face de decisão de inadmissibilidade de recurso especial.
+O apelo extremo manejado com fundamento no artigo 105, inciso III, alínea"a", da Constituição Federal, desafia acórdão do Tribunal de Justiçado Estado de São Paulo, assim ementado (fl. 1129, e-STJ):
+AGRAVO DE INSTRUMENTO. MANDATO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. EMBARGOS À EXECUÇÃO RECEBIDOS SEM EFEITO SUSPENSIVO. AUSÊNCIA DOS ELEMENTOS AUTORIZADORES PARA A CONCESSÃO DA TUTELA DE EVIDÊNCIA PARA ATRIBUIÇÃO DE EFEITO SUSPENSIVO. DECISÃO AGRAVADA MANTIDA. Agravo de instrumento improvido, nos termos do acórdão.
+Opostos embargos de declaração (fls. 1136/1148, e-STJ), esses foram rejeitados.
+Em suas razões recursais (fls. 1168/1197, e-STJ), a parte insurgenteapontou violação aos artigos 39 e 51 do Código de Defesa do Consumidor; 113, 884, 885 e 886 do Código Civil;300, 919, 1022, e 1029do Código de ProcessoCivil/15. Sustentou, em síntese: i) negativa de prestaçãojurisdicional,por não terem sido supridas as omissões suscitadas nos aclaratórios emrelação ao enfrentamento adequado da questão relativa à nomeação de perito para avaliação dos bens oferecidos para a garantia do juízo; ii) a concessão do efeito suspensivo, tendo em vista o preenchimento dos requisitos.
+Contrarrazões às fls. 1201/1210, e-STJ).
+Em juízo de admissibilidade (fls. 1211/1213, e-STJ), negou-se oprocessamento do recurso especial, sob os seguintes fundamentos: i) não restou demonstrada a alegada vulneração aos dispositivos arrolados; ii)incidência da Súmula7 do STJ.
+Daí o agravo (fls. 1216/1258, e-STJ), buscando destrancar o processamentodaquela insurgência, no qual a insurgente refutou os óbices aplicados pelaCorte estadual.
+Contraminuta às fls. 1261/1270, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Com efeito, no que tange à alegada violação ao artigo 1.022 do CPC/15,não merece acolhimento a insurgência, porquanto clara e suficiente afundamentação adotada pelo Tribunal de origem.
+Aduz a ora agravante a ocorrência de negativa de prestaçãojurisdicional,ao argumento de que o Tribunal de origem teria sido omisso em relação aoenfrentamento da questão relativaà nomeação de perito para avaliação dos bens oferecidos para a garantia do juízo.
+Contudo, da leitura dos autos, constata-se que referida tese foiexpressamente examinada pela Corte a quo, consoante se denota dosseguintes trechos (fl. 1161, e-STJ):
+Da leitura da peça de interposição destes embargos declaratórios, observa-se que a embargante faz jogo de palavras, atribuindo leitura estrábica ao acórdão embargado a fim de justificar a sua interposição sob a alegação de ter havido omissão e contradição.
+A embargante não convenceu a Turma Julgadora da suficiência dos bens ofertados em garantia para a concessão do efeito suspensivo reclamado (fls. 1062/1068, 1070 e 1081/1083 do apenso), na forma do art. 919, §2º do CPC, que prevê essa possibilidade quando a execução estiver garantida por penhora, depósito ou caução suficientes. Logo, ao contrário do alegado pela embargante, desnecessária a nomeação de perito para apuração de valor dos bens dados em garantia porque a C. Turma Julgadora não teve dúvida quanto à insuficiência dos bens ofertados, considerando o fato de que um bem se encontra alienado fiduciariamente (fls. 1065/1068) e o outro é do ano de 2007, cujo valor pela tabela FIPE é de R$21.820,00 (fls. 1082/1083), que não cobre o valor perseguido pelo credor R$29.533,70 (fls. 1121 do apenso).
+Por outro lado, observa-se que a embargante repete os mesmos argumentos constantes da petição inicial do agravo de instrumento, dela constituindo cópia literal, com poucas modificações, sendo o presente recurso, na verdade, cópia da minuta do recurso de agravo de instrumento ("Ctrl C, Ctrl V " ).
+Desta forma, considerando que a questão trazida à discussão foi dirimida pelo Tribunal de origem de forma fundamentada e sem omissões ou contradições, merece ser afastada a alegada negativa de prestação jurisdicional.
+2. Tribunal de local, ao analisar a controvérsia, assim decidiu acerca daconcessão do efeito suspensivo (fls. 1131/1133, e-STJ):
+Cuida-se de embargos à execução interpostos em ação de execução de título extrajudicial ajuizada contra World Carrier, Maísa, Denis e Maria, ora agravante, pelo não pagamento de honorários advocatícios contratados entres as partes (fls. 11/33).
+Por ora, não se observa hipótese de excepcional atribuição de efeito suspensivo no recebimento dos embargos à execução interpostos pela agravante. Segundo a regra disposta no art. 739-A do CPC/73, os embargos à execução somente suspenderiam a execução se houvesse decisão expressa nesse sentido, na hipótese de preenchimento dos requisitos mencionados na norma processual; ou seja, o efeito suspensivo não é mais automático como o era antes do advento da Lei nº 11.382/2006.
+(..)
+Assim, no caso concreto, denota-se que os bens oferecidos pela agravante(fls. 1064/1070 e 1082/1082) não são suficientes para garantia do juízo, assim como também foi observado na contraminuta (fls. 1120/121). Nesse sentido:
+Com efeito, nos termos da jurisprudência desta Corte, aferir a existênciados requisitos necessários à concessão de efeitosuspensivo aos embargos àexecução implica reexame de matéria fático probatória, o que atrai o óbiceda Súmula 7/STJ.
+Nesse sentido, precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA DESTA CORTE. RECONSIDERAÇÃO. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. ART. 919, § 1º, DO CPC/2015. AUSÊNCIA DE GARANTIA DO JUÍZO. DESCABIMENTO. SUMULA N. 83/STJ. REQUISITOS NÃO VERIFICADOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1."O art. 919, § 1º, do CPC/2015 prevê que o magistrado poderá atribuir efeito suspensivo aos embargos à execução quando presentes, cumulativamente, os seguintes requisitos: (a) requerimento do embargante; (b) relevância da argumentação; (c) risco de dano grave de difícil ou incerta reparação; e (d) garantia do juízo" (AgInt no REsp n. 1.651.168/MT, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/3/2017, DJe 18/4/2017).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, a análise das razões apresentadas pela recorrente, quanto à existência dos requisitos para a concessão de efeito suspensivo aos embargos à execução, demandaria o exame do conjunto fático-probatório, o que é vedado em sede de recurso especial.
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp 1793307/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 03/05/2021, DJe 06/05/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. ART. 919, § 1º, DO CPC/2015. AUSÊNCIA DE GARANTIA DO JUÍZO E DO FUMUS BONI IURIS.DESCABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O art. 919, § 1º, do CPC/2015 prevê que o magistrado poderá atribuir efeito suspensivo aos embargos à execução quando presentes, cumulativamente, os seguintes requisitos: (a) requerimento do embargante; (b) relevância da argumentação; (c) risco de dano grave de difícil ou incerta reparação; e (d) garantia do juízo.
+2. Na hipótese, Tribunal a quo, após o exame acurado dos autos e do acervo fático-probatório, concluiu que não se encontram presentes os requisitos necessários à concessão do excepcional efeito suspensivo aos embargos à execução, tendo em vista a inexistência de qualquer garantia do juízo da execução, bem como da presença do fumus boni iuris.
+3. Nos termos da jurisprudência consolidada desta Corte, "É condição sine qua non para a concessão do efeito suspensivo aos embargos do devedor a garantia do juízo por penhora, depósito ou caução suficientes" (REsp 1.803.247/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 12/11/2019, DJe de 21/11/2019).
+4. A modificação da conclusão do Tribunal de origem sobre a presença dos requisitos para atribuição de efeito suspensivo esbarra no óbice da Súmula 7 do Superior Tribunal de Justiça.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1672219/GO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/09/2020, DJe 21/10/2020)
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c a Súmula 568/STJ,negoprovimento ao agravo.
+Publique-se.
+Intimem-se.
