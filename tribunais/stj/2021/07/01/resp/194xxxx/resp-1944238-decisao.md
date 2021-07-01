@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais cuja ementa é a seguinte (fl. 598, e-STJ):
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DE REINTEGRAÇÃO NO CARGO - REVELIA. E PRESCRIÇÃO AFASTADAS - COISA JULGADA - CONFIGURAÇÃO - NOVO FUNDAMENTO - ESTABILIDADE SINDICAL - INAPLICABILIDADE - SENTENÇA REFORMADA - PEDIDO JULGADO IMPROCEDENTE. A despeito de não verificar ser o Estado de Minas Gerais revel nos autos, é de se registrar que não se aplica ao ente público o efeito material da revelia, presunção de veracidade dos fatos alegados, uma vez que, embora de caráter patrimonial, a demanda acaba por envolver o interesse coletivo de manutenção do Erário, o que atrai a exceção contida no inciso lI do art. 344 do CPCIIS (art. 320, II, do CPCI73). 2. Não se configura a prescrição quando o prazo é interrompido pela interposição de processo administrativo que ainda não foi solucionado. 3. Não se aplica ao detentor de mera função pública a estabilidade sindical prevista no artigo 80, VIII, da Carta da República, por força da precariedade do cargo. 4. Rejeitar a preliminar, dar parcial provimento ao recurso e julgar improce dente o pedido.
+Os Embargos de Declaração foram rejeitados (fl. 736, e-STJ).
+Opuseram-se novos Aclaratórios, os quais foram desprovidos, com aplicação de multa (fl. 782, e-STJ).
+A recorrente, nas razões do Recurso Especial, alega que houve violação dos arts. 489, IV, e 1.022, II, do CPC. Afirma que houve negativa de prestação jurisdicional. Defende, em suma, que ocorreu o cerceamento do seu direito de defesa, porquanto o TJMG não analisou as provas indicadas pela parte autora. Aduz que "a autora teria o direito de trazer aos autos os documentos comprobatórios da igualdade de situação fática e jurídica em relação aos demais dirigentes anistiados" (fl. 808, e-STJ). Ao final, requer "a reintegração da autora ao Estado, com o pagamento e cumprimento de todos os direitos correspondentes ao período de afastamento" (fl. 889, e-STJ) ou a declaração de nulidade das decisões proferidas na origem.
+Contrarrazões apresentadas às fls. 905-909, e-STJ.
+Decisão de admissibilidade do recurso às fls. 912-913, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 23.6.2021.
+A irresignação não merece prosperar.
+Trata-se, na origem, de "Ação de Conhecimento, pelo rito ordinário com pretensões de reintegração e/ou indenização" (fl. 591, e-STJ) ajuizada por Marla de Fátima Almeida dos Reis Corrêa contra o Estado de Minas Gerais.
+Inicialmente, constato que não se configura a alegada ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015.
+O Tribunal de origem, ao dirimir a controvérsia, concluiu que a parte autora era mera detentora de função pública, sendo inaplicável a estabilidade sindical. Asseverou (fl. 610, e-STJ):
+No caso em análise, após a leitura da confusa exordial manejada pela autora, é possível extrair que passou a exercer as funções de defensora pública, sem concurso, e por ser vinculada a uma Estatal Credireal Serviços Gerais e construções S.A." tendo sido dispensada, segundo alega, sem motivação válida, no ano de 1996, voltando ao serviço por força de liminar deferida em sede de mandado de segurança, sendo novamente dispensada por denegação da ordem, tendo postulado, na seara administrativa, pela anistia e consequente readmissão, o que se encontraria até os dias de hoje sem solução.
+(..) Neste aspecto, a questão referente a reintegração da autora ao cargo que ocupava restou amplamente analisada no Mandado de Segurança impetrado, que fulminou na denegação da ordem, tendo em vista a impossibilidade diante do fato de que não era servidora estável e, portanto, impossível se mostrava a reintegração em cargo público, para o qual, é necessário concurso público.
+(..) Todavia, ainda que se alegue que após o transito em julgado da denegação da ordem, a requerente promoveu processo administrativo, no ano de 1999, que, consoante provas acostadas aos autos encontra-se até os dias atuais sem decisão administrativa, a fim de postular a anistia quanto ao pedido de desligamento, o que configuraria um novo fundamento, tenho que tal requerimento afasta a configuração da prescrição, mas não enseja a procedência do pedido.
+Com efeito, no que se refere ao alegado direito de reintegração ao cargo, tendo em vista que a dispensa foi motivada no fato de ser dirigente sindical, sendo que os outros servidores dispensados por serem dirigentes sindicais foram readmitidos, é de se dizer que, de fato, o Decreto nº 40.403199 anulou as penas de desligamento do serviço público aplicadas aos dirigentes sindicais Afrânio Braga, Reinaldo Nunes da Silva, David Rodrigues da Silva, José Magela Alves Pereira e Carlos Augusto de Aguiar Silveira (fls. 42).
+Quanto ao tal fato, tem-se, primeiramente, que servidores que foram anistiados não foram desligados do serviço público pelos mesmos motivos que ensejaram o desligamento da autora, visto que não constam da lista elencada às fls. 36, até porque ocupavam cargos diametralmente diversos do da requerente.
+(..) Dessa feita, por qualquer ângulo que se analise a demanda, verifica-se ser caso de improcedência do pedido.
+Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatória.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. VERIFICAÇÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. AVENTADA QUITAÇÃO DE OBRIGAÇÕES CONTRATUAIS. BOA-FÉ OBJETIVA. PREMISSAS FÁTICAS QUE COLIDEM COM O TEOR DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA 7/STJ.
+1. O Superior Tribunal de Justiça possui entendimento no sentido de que o juízo acerca da necessidade ou não da produção de prova é uma faculdade do magistrado, a quem caberá decidir se há nos autos elementos e provas suficientes para formar sua convicção. O juiz, com base em seu convencimento motivado, pode indeferir a produção de provas que julgar impertinentes, irrelevantes ou protelatórias para o regular andamento do processo, o que não configura, em regra, cerceamento de defesa.
+2. Na hipótese dos autos, o Sodalício estadual foi categórico ao afirmar que houve fundamentação adequada a respeito da inexistência do cerceamento de defesa, sendo esclarecido que incumbe ao magistrado o juízo de valor acerca da utilidade e conveniência das provas em cada caso concreto.
+3. A alteração do que foi decidido na origem demandaria reincursão no contexto fático-probatório dos autos, o que não se admite em recurso especial, ante o óbice da Súmula 7/STJ.
+(..)
+9. Agravo Interno não provido.
+(AgInt no REsp 1798093/RO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/10/2020, DJe 12/11/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO DO ART. 535 DO CPC/1973. INEXISTÊNCIA. ATOS DE IMPROBIDADE. REVISÃO. SÚMULA 7 DO STJ. DOSIMETRIA DAS SANÇÕES. ÓBICE DA SÚMULA 7 DO STJ. CERCEAMENTO DE DEFESA. REVISÃO PROBATÓRIA. IMPOSSIBILIDADE. (..) NÃO COMPROVADO.
+1. Não há contrariedade ao art. 535 do CPC/1973, porquanto o acórdão proferido pela Corte local fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+(..)
+6. É assente a jurisprudência desta Corte de que a revisão da dosimetria das sanções aplicadas em ação de improbidade administrativa implica reexame do conjunto fático-probatório dos autos, encontrando óbice na Súmula 7/STJ, salvo se, da leitura do julgado recorrido, exsurge a desproporcionalidade na aplicação das sanções, o que não é a hipótese dos autos. Precedentes: AgRg no REsp 1.307.843/PR, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 10/8/2016; REsp 1.445.348/CE, Rel. Min. Sergio Kukina, Primeira Turma, DJe 11/5/2016; AgInt no REsp 1.488.093/MG, Rel. Min. Benedito Gonçalves, Primeira Turma, Dje 17/3/2017.
+(..)
+13. Agravo interno a que se nega provimento.
+(AgInt no REsp 1702930/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/10/2020, DJe 20/10/2020)
+Na hipótese dos autos, o acórdão recorrido expressamente consignou que "os servidores que foram anistiados não foram desligados do serviço público pelos mesmos motivos que ensejaram o desligamento da autora, visto que não constam da lista elencada às fls. 36, até porque ocupavam cargos diametralmente diversos do da requerente" (fl. 610, e-STJ).
+Por outro lado, a recorrente sustenta ter "direito de trazer aos autos os documentos comprobatórios da igualdade de situação fática e jurídica em relação aos demais dirigentes anistiados" (fl. 808, e-STJ)
+Nesse panorama, é evidente que alterar as conclusões adotadas pela Corte de origem, como defendido nas razões recursais, demanda novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+Os fatos são aqui recebidos tal como estabelecidos pela instância ordinária, senhora da análise probatória. Se a violação dos dispositivos legais invocados perpassa pela necessidade de fixar premissa fática diversa da que consta do acórdão impugnado, inviável o apelo nobre.
+Nessa linha:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL  AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO  DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Alterar as premissas fáticas em que se lastreou o acórdão recorrido para concluir pela clareza e precisão no contrato, revelar-se-ia necessário incursionar sobre o acervo probatório constante dos autos, bem como as cláusulas contratuais, inviável na presente esfera processual, ante os óbices contidos nas Súmulas 5 e 7/STJ.
+2. Agravo interno desprovido.
+(AgInt nos EDcl nos EDcl no REsp 1781059/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/05/2021, DJe 28/05/2021)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. (..) REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+(..)
+4. Na hipótese, rever as premissas adotadas pelo tribunal de origem, que, a partir das circunstâncias fático-probatórias dos autos, concluiu que houve a demonstração da condição de bem de família do imóvel penhorado, encontra o óbice da Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1741794/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/05/2021, DJe 07/05/2021)
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE. IRREGULARIDADES EM PAGAMENTOS E PROCESSOS LICITATÓRIOS. AUSÊNCIA DE PRONUNCIAMENTO DO TRIBUNAL DE ORIGEM SOBRE O ELEMENTO SUBJETIVO EM SUA MODALIDADE CULPOSA. VERIFICAÇÃO EM RECURSO ESPECIAL. IMPOSSIBILIDADE.
+1. Na origem, o Ministério Público Federal ajuizou Ação de Improbidade Administrativa, narrando o desvio de recursos públicos transferidos ao Instituto Oceanus, para a execução do Projeto de Desenvolvimento da Maricultura Sustentável no litoral de Alagoas.
+(..)
+10. É inviável, no caso dos autos, analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+11. Recursos Especiais não conhecidos.
+(REsp 1851499/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/03/2021, DJe 12/04/2021)
+Diante do exposto, nego provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
