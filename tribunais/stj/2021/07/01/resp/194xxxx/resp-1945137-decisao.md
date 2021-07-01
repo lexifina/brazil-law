@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal) interposto contra acórdão do Tribunal Regional Federal da 1ª Região assim ementado (fl. 354, e-STJ):
+ADMINISTRATIVO. DEPARTAMENTO NACIONAL DE COMBUSTÍVEIS - DNC. AUTO DE INFRAÇÃO. IMPOSIÇÃO DE MULTA COM ILEGALIDADE.BASE NA PORTARIA N. 843/90 DO MINFRA.
+1. O auto de infração vergastado está fundamentado na Portaria n. 843/90 do MINFRA.
+2. Portaria, como ato administrativo hierarquicamente inferior, não se presta ao preenchimento de lacunas e omissões da lei e, assim, não pode acrescentar conteúdo material à norma regulamentada, devendo restringir-se ao fim de facilitar a aplicação e execução da lei que disciplina a matéria.
+3. Sendo a multa administrativa fundada apenas em portaria, resta insubsistente o auto de infração lavrado, bem como os atos administrativos dele decorrentes.
+4. Precedentes deste TRF/la Região: AC 1999.01.00.009537-1/MG, Rel.
+Desembargadora Federal Eliana Calmon; AC 1998.01.00.034038-5/DF, Rel. Juiz Federal Vallisney de Souza Oliveira (Conv.); AC 1998.01.00.034554-5/DF, Rel. Juiz Federal Mark Yshida Brandão (Conv.).
+5. Considerando o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e a importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, não se pode ter por aviltante o valor de R$ 500,00 (quinhentos reais) fixado na sentença, a título de honorários advocaticios.
+6. Apelações e remessa oficial improvidas.
+Os Embargos de Declaração foram rejeitados.
+A recorrente sustenta que houve violação dos arts. 535 do Código de Processo Civil/1973 e2º, I e II e 8º, inc. I, XIII e XV da Lei 9478/99. Aduz:
+No presente caso, o v. acórdão proferido no julgamento do recurso negou-lhe provimento sem, entretanto, se manifestar sobre a incidência, na presente hipótese, das disposições do Decreto Lei 358/58.
+O v. Acórdão também não se manifestou acerca da violação aos arts. os arts. 2º , I e II e art. 8º, inc. I, XIII e XV da Lei 9478/99. A análise de tais dispositivos legais é fundamental para a comprovação da tese da recorrente, pois esclarecem o fundamento de validade das Portarias nas quais se fundamentaram os autos de infração impugnados na presente demanda (fl. 383, e-STJ).
+Contrarrazões às fls. 392-398, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos em 28.6.2021.
+A irresignação merece parcial acolhida.
+Transcrevo as alegações apresentadas nos Embargos Declaratórios (fl. 360, e-STJ):
+Caberia ao Tribunal fundamentar a improcedência do recurso de apelação, vez que contrariou a Lei nº 9.478/97 que prevê, sem restrições, poderes à ANP para autorizar o exercício pelos os agentes econômicos de atividades pertencentes à idústria do petróleo.
+Ademais, o acórdão deixou de apreciar os art. 174, art. 177, I a IV e art. 238 da Constituição Federal, apesar deste último está expressamente mencionado no recurso de Apelação. Essa norma constitucional é o fundamento de validade de todos os atos normativos inferiores que regulam a indústria do petróleo, portanto, não caberia ao acórdão contrariar o art. 238 da Constituição Federal.
+Ressalte-se que, se as normas decorrentes dos dispositivos constitucionais e legais destacados não foram objeto de apreciação pelo V. Acórdão embargado, deixar, no presente momento, de apresentar  e acolher - os Embargos Declaratórios, manifestados com notório propósito de prequestionamento, significaria fechar as portas do Egrégio Supremo Tribunal Federal e do Colendo Superior Tribunal de Justiça à ANP, principalmente quando essas Cortes vêm demonstrando rigor em cumprimento ao requisito em questão, exigindo, inclusive, prequestionamento explícito como se confere de Acórdãos recentes:
+(..)
+O Tribunal de origem negou provimento aos Embargos, fazendo constar do voto (fls. 371-372, e-STJ):
+Da simples análise da petição, observa-se que não merece prosperar referido recurso.
+Para que sejam opostos embargos de declaração, o embargante deve apontar, objetivamente, os pontos do acórdão em que há omissão, contradição ou obscuridade.
+(..)
+Por sua vez, o magistrado não está obrigado a se manifestar sobre todas as alegações das partes e/ou embasamentos legais/constitucionais pertinentes ao tema em questão. Com efeito, fundamentado o decisum com a argumentação que entenda cabível à solução da lide, dá-se a consumação do ofício jurisdicional.
+(..)
+Ademais, a questão dos autos diz respeito aos limites do poder regulamentar, não havendo que se falar em violação ou mesmo mitigação dos dispositivos constitucionais apontados pela embargante.
+O acórdão foi suficientemente claro ao aplicar à hipótese o princípio da reserva legal, segundo o qual a tipificação da infração administrativa, bem como a sanção correspondente, devem estar previstas em lei formal.
+Verifica-se que, apesar de a Corte Regional ter se pronunciado novamente, não apreciou, por mais uma vez, matérias que deveriam ter sido, sim, objeto de expressa análisee que podem alterar o resultado do julgamento, pois, caso seja reconhecido que a Portaria em questão está fundada nos dispositivos ventilados pela recorrente, mas não considerados pelas instâncias ordinárias, na espécie, poderia haver reforma da sentença, com a manutenção do auto de infração.
+Ressalte-se que este Tribunal Superior determinou que, no rejulgamento dos aclaratórios, deveria ser enfrentada "a existência de leis em sentido estrito, a dar suporte à aplicação da multa", o que - repita-se - não ocorreu. Como consequência, impõe-se seja proferido novo julgamento dos Embargos, examinando-se, desta vez, o tópico apresentado pela insurgente.A propósito:
+(..) OFENSA AOS ART. 1.022, II, E 489, § 1º, DO CPC/15. OMISSÕES. (..) AUSÊNCIA DE PRONUNCIAMENTO QUANTO A ASPECTOS ENVOLVENDO MATÉRIA FÁTICO-PROBATÓRIA RELEVANTE. DEVOLUÇÃO DOS AUTOS À ORIGEM. NECESSIDADE. PRECEDENTES.
+(..)II - De acordo com o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e iii) corrigir erro material.
+III - A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento. Considera-se omissa, ainda, a decisão que incorra em qualquer uma das condutas descritas no art. 489, § 1º, do CPC/15. (..)
+VI - Extrai-se dos julgados deste Superior Tribunal sobre a matéria que o reconhecimento de eventual violação ao art. 1.022 do CPC/15 dependerá da presença concomitante das seguintes circunstâncias processuais: i) oposição de embargos de declaração, na origem, pela parte interessada; ii) alegação de ofensa a esse dispositivo, nas razões do recurso especial, de forma clara, objetiva e fundamentada, acerca da mesma questão suscitada nos aclaratórios; iii) publicação do acórdão dos embargos sob a vigência do CPC/15; e iv) os argumentos suscitados nos embargos declaratórios, alegadamente não examinados pela instância a quo, deverão: iv.i) ser capazes de, em tese, infirmar as conclusões do julgado; e iv.ii) versar questão envolvendo matéria fático-probatória essencial ao deslinde da controvérsia.
+VII - In casu, verifica-se a ausência de pronunciamento da Corte de origem a respeito de matéria fática relevante. VIII - Recurso especial provido para determinar o retorno dos autos à origem, nos termos da fundamentação.
+(REsp 1.670.149/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 22/03/2018)
+PROCESSUAL CIVIL (..). OMISSÃO VERIFICADA. AUSÊNCIA DE ENFRENTAMENTO DA TESE PELO TRIBUNAL LOCAL. NECESSIDADE DE NOVO JULGAMENTO DOS DECLARATÓRIOS. (..)
+1. Assiste razão à parte recorrente no que tange às afrontas aos artigos 11, 489, §1º, 1.022, I, II, III, todos do CPC/2015 pelo Tribunal local.
+2. O acórdão atacado manteve a sentença de piso que julgou improcedente o pedido da recorrente, que, em suma, almejava o direito de utilizar "créditos tributários calculados sobre produtos químicos relacionados á higienização e desinfecção de máquinas e equipamentos do processo industrial" (fl. 199, e-STJ).
+3. A Corte mineira adotou a Instrução Normativa 01/1986, que define o "conceito do produto intermediário, para efeito do direito de crédito do ICMS" (fls. 200-202, e-STJ).
+4. Não obstante, vê-se que um dos argumentos centrais da recorrente - e ventilado já na Apelação - é o da possível inconstitucionalidade e ilegalidade da mesma Instrução Normativa aplicada pela Corte estadual, a qual teria, contra os ditames da LC 87/1996 e do art. 155, XII, "c", da Constituição Federal, mantido "a exigência quanto à necessidade de os produtos intermediários serem consumidos no processo de industrialização, ou integrarem o produto final" (fls. 131-132, e-STJ).
+5. Após alegar tal omissão, o Tribunal mineiro se limitou a dizer que "o julgado objurgado reconheceu a legalidade das leis e atos normativos que regem a espécie, aplicando-as. Considerou-se que as normas infralegais apenas completavam o sentido da norma constitucional, em nada confrontando-a" (fl. 229, e-STJ).
+6. Na verdade, observa-se que o colegiado estadual não apreciou efetivamente a tese exposta pela parte, pois somente mencionou que a Carta Magna não impediu o legislador ordinário de regulamentar o regime de compensação do ICMS de forma mais benéfica ao contribuinte.
+7. Falhou, portanto, o Tribunal mineiro, pois se omitiu em sua decisão, na medida em que não enfrentou a tese de ilegalidade e inconstitucionalidade da Instrução Normativa 01/1986 em relação à LC 87/1996 e ao art. 155, XII, "c", da Constituição Federal. Análise do dissídio jurisprudencial prejudicada.
+8. Recurso Especial provido, determinando-se o retorno dos autos à Corte de origem, para que, em novo julgamento dos Embargos de Declaração, manifeste-se expressamente quanto à possível ilegalidade e inconstitucionalidade da Instrução Normativa 01/1986 no que toca à LC 87/1996 e ao art. 155, XII, "c", da Constituição Federal.
+(REsp 1.780.149/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/03/2019)
+Diante do exposto, dou parcial provimento ao Recurso Especial, a fim de anular o aresto proferido nos Embargos de Declaração e determinar o retorno dos autos ao Tribunal de origem para que proceda a novo julgamento, esclarecendo a alegação da embargante de que "a Lei nº 9.478/97 que prevê, sem restrições, poderes à ANP para autorizar o exercício pelos os agentes econômicos de atividades pertencentes à idústria do petróleo" (fl. 360, e-STJ).
+Publique-se.
+Intimem-se
