@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE SÃO PAULO contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal.
+Na origem, o contribuinte ajuizou a ação judicial, a qual atribuiu o valor de R$ 30.000,00 (trinta mil reais), objetivando a repetição do indébito de ISSQN pago a maior.
+Após sentença que julgou procedente o pleito elaborado na exordial, foi interposta apelação pelo Município de São Paulo, que teve seu provimento parcialmente concedido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, ficando consignado o entendimento de que o contribuinte faz jus a repetição do indébito referente ao recolhimento a maior de ISSQN, ante a comprovação da ausência de repasse do prejuízo financeiro.
+O referido acórdão foi assim ementado, in verbis:
+ISS  REPETIÇÃO DE INDÉBITO - Ação de repetição de indébito - Sentença de procedência da ação - Apelação: - Valores pagos a maior que deverão ser restituídos, com juros e correção monetária, respeitada eventual prescrição qüinqüenal  Inteligência dos artigos 165, 166 e 167 do CTN.
+RECURSO DE OFICIO - Valor que ultrapassa o limite estabelecido pelo artigo 475, § 21, do CPC.
+VERBA HONORÁRIA - Fixação que deve seguir os parâmetros do art. 20, §§ 30 e 40, do CPC  Redução que se faz necessária. Recursos parcialmente providos.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, o MUNICÍPIO DE SÃO PAULO interpôs recurso especial, apontando violação dos arts. 535 do CPC/1973; 166 do CTN e 1º-F da Lei n. 9.494/1997.
+Inicialmente, em seu recurso especial, o recorrente aduziu que o Tribunal de origem, a despeito da oposição dos aclaratórios, não se manifestou acerca dos dispositivos legais invocados como violados.
+Em seguida, ainda em suas razões de insurgência, o recorrente sustentou que (i) é indevida a concessão de repetição de indébito ao contribuinte, tendo em vista a ausência de comprovação de inexistência de repasse do valor recolhido a maior e que (ii) os juros moratórios devem corresponder ao percentual aplicado na caderneta de poupança.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que negou seguimento ao recurso especial, na parcela referente ao índice aplicável aos juros moratórios, e inadmitiu o recurso especial, na parte atinente à comprovação da ausência de repasse, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Primeiramente, diante da negativa de seguimento à parcela recursal referente à violação do art. 1º-F da Lei n. 9.494/1997, em virtude do entendimento firmado no Tema n. 905/STJ, pelo juízo de admissibilidade realizado no Tribunal de origem, deve-se frisar que a presente decisãoversará apenas acerca da parcela remanescente, qual seja, a análise acerca da ofensa dos arts. 535 do CPC/1973 e 166 do CTN.
+Em relação à alegada violação do art. 535 do CPC/1973, verifica-se que o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca dos dispositivos legais apresentados nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar de que forma houve a alegada violação, pelo Tribunal de origem, dos dispositivos legais indicados pelo recorrente. Incidência da Súmula n. 284/STF.
+Nesse diapasão, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO ESTADUAL. VIOLAÇÃO AO ARTIGO 535 DO CPC/1973. AUSÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE ANÁLISE NA VIA RECURSAL ELEITA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há violação do art. 535, inc. II, do CPC/1973 quando o aresto recorrido adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os argumentos apresentados pelos litigantes.
+2. O Superior Tribunal de Justiça não tem a missão constitucional de interpretar dispositivos da Lei Maior, cabendo tal dever ao Supremo Tribunal Federal.
+3. A ausência de impugnação de fundamento autônomo apto, por si só, para manter o acórdão recorrido, atrai o disposto na Súmula n. 283/STF.
+4. A simples legação de violação genérica de preceitos infraconstitucionais, desprovida de fundamentação que demonstre de que maneira eles foram violados pelo Tribunal de origem, não é suficiente para fundar recurso especial, atraindo a incidência da Súmula n. 284/STF.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 960.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2016, DJe 19/12/2016.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 165, 458 e 515, § 1º, E 535 DO CPC/73. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. VIOLAÇÃO A DISPOSITIVOS DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. COMPETÊNCIA DO STF. CRÉDITOS RELATIVOS AO EMPRÉSTIMO COMPULSÓRIO SOBRE A ENERGIA ELÉTRICA. CONVERSÃO EM AÇÕES. ABUSO DE DIREITO NÃO CONFIGURADO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - A jurisprudência desta Corte considera que, quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - O recurso especial possui fundamentação vinculada, não constituindo instrumento processual destinado a examinar possível ofensa à norma Constitucional.
+IV - Esta Corte firmou posicionamento, em recurso repetitivo, segundo o qual é cabível a conversão dos créditos relativos ao empréstimo compulsório sobre energia elétrica em ações pelo valor patrimonial, e não pelo de mercado, sendo legítimo o critério de fixação do valor da ação no momento de sua conversão (art. 3º do Decreto-lei n. 1.512/76 e no art. 4º da Lei n. 7.181/83).
+V - A possibilidade de a Eletrobrás converter os créditos de empréstimo compulsório em ações tem amparo em expressa autorização legal, sendo, portanto, incabível falar em abuso de direito.
+VI - A parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de trechos dos julgados.
+VII - Recurso especial conhecido em parte e improvido.
+(REsp n. 1.274.167/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 20/10/2016, DJe 9/11/2016.)
+Por outro lado, o Tribunal de origem, ao analisar o conteúdo fático e probatório colacionado aos autos, consignou expressamente que "restou comprovado que a autora arcou com os encargos oriundos da ocorrência do fato gerador do tributo discutido, na medida em que apresentou as guias com o pagamento a maior do imposto.".
+Nesse contexto, a jurisprudência desta Corte Superior é pacífica ao afirmar que é inviável, na via estreita do recurso especial, analisar a comprovação da inexistência de repasse ao contribuinte de fato do valor de ISSQN recolhido a maior, em virtude do óbice previsto na Súmula n. 7 do STJ. In verbis:
+TRIBUTÁRIO. PROCESSO CIVIL. ISS. REPETIÇÃO DO INDÉBITO. PROVA DO REPASSE. ACÓRDÃO RECORRIDO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. FUNDAMENTAÇÃO CONSTITUCIONAL.
+1. A alteração das conclusões adotadas pela Corte de origem de que restou comprovado não ter havido o repasse do tributo ao contribuinte de fato, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. O Tribunal a quo decidiu a controvérsia à luz de fundamentos prevalentemente constitucionais (imunidade tributária da ECT), matéria insuscetível de ser examinada em sede de recurso especial.
+3. Agravo interno não provido.
+(AgInt no REsp 1709307/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 10/08/2020, DJe 17/08/2020)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
