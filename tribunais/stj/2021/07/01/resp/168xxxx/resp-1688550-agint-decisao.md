@@ -1,0 +1,14 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interno manejado por Gilmar Sanches Cardozo contra decisão que deu provimento ao recurso especial para reconhecer a ilegitimidade do pensionista ao recebimento de valores não reconhecidos em vida ao segurado.
+O agravante defende que a questão discutida é apenas o pagamento de valores atrasados não reclamados pelo segurado instituidor e não o direito de revisão, o que configura em julgamento ultra petita.
+Sustenta o direito à revisão do benefício originário, bem como o direito às diferenças resultantes da revisão, contadas do primeiro pagamento e não do benefício derivado.
+Aduz, ainda, a possibilidade de suspensão do processo quanto à divergência jurisprudencial, especialmente sobre as diferenças devidas e não pagas em vida ao beneficiário original.
+É o relatório.
+Reexaminando o feito, a irresignação apresentada no agravo interno merece acolhimento.
+Nesse contexto, exercendo o juízo de retratação facultado pelo art. 259 do RISTJ, reconsidero a decisão agravada de fls. 512/515, tornando-a sem efeito, e passo à nova análise do processo.
+Verifica-se que a questão jurídica objeto do presente recurso - direta ou indiretamente - constitui tema dos Recursos Especiais n. 1.856.967/ES, n. 1.856.968/ES e n. 1.856.969/RJ (Tema 1.057 - Possibilidade do reconhecimento da legitimidade ativa "ad causam" de pensionistas e sucessores para, em ordem de preferência, propor, em nome próprio, a falta de requerimento do segurado em vida, ação revisional da aposentadoria do "de cujus", com o objetivo de redefinir a renda mensal da pensão por morte - quando existente -, e, por conseguinte, receber, além das diferenças resultantes do recálculo do eventual pensionamento, os valores devidos e não pagos pela administração ao instituidor quando vivo, referentes à readequação do benefício originário, consoante o disposto no art. 112 da Lei n. 8.213/1991), de relatoria da Ministra Regina Helena Costa, submetido ao rito dos recursos repetitivos, estabelecido pelo disposto no art. 1.036, § 5º, do CPC/2015.
+Assim, o julgamento imediato do recurso especial seria prematuro.
+De outra parte, a admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos recursos interpostos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia, o recurso especial tenha seguimento negado, na hipótese de o julgamento recorrido estar em conformidade com a orientação firmada pelo STJ, ou para que seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado neste Superior Tribunal, nos termos dos art. 1.040 e 1.041 do CPC/2015.
+Publique-se. Intimem-se.
