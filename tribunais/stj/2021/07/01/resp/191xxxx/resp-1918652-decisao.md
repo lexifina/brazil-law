@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJSC assim ementado (e-STJ fls. 780/781):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO (SFH). DECISÃO QUE REJEITOU A IMPUGNAÇÃO APRESENTADA PELA EXECUTADA.
+INSURGÊNCIA DA SEGURADORA EXECUTADA/IMPUGNANTE.
+ALEGADA INCOMPETÊNCIA DA JUSTIÇA ESTADUAL EM FACE DO INTERESSE DA CAIXA ECONÔMICA FEDERAL. COMPETÊNCIA PARA O CUMPRIMENTO DE SENTENÇA DO MESMO JUÍZO DA FASE COGNITIVA. (ART. 475-P, EXEGESE CPC/73). FEDERAL. DO ART. 516, II, DO CPC/15 INVIABILIDADE DE REMESSA À JUSTIÇA
+"O juiz da ação é o juiz da execução (art. 475-P e art. 575, II do CPC). Transitado em julgado o édito do processo de conhecimento, perante a Justiça Comum Estadual, mesmo com a Caixa Econômica Federal - CEF no pólo ativo da demanda, lá deverá ser executada Gonçalves)" a sentença" (CC 108.576/PB, Min. Fernando (TJSC, AI n. Luiz 4015724-74.2016.8.24.0000, de Criciúma, rel. Des. Cézar Medeiros, Quinta Câmara de Direito Civil, j. em 14-3-2017)" (AI n. 4006629-49.2018.8.24.0000, rel. Des. Fernando Carioni, j. em 28.08.2018). EXCESSO DE EXECUÇÃO.
+(I) ALEGADA IMPOSSIBILIDADE DE INCLUSÃO DE JUROS DE MORA SOBRE A MULTA DECENDIAL. INACOLHIMENTO. APLICAÇÃO DA SÚMULA 16 DO TRIBUNAL DE JUSTIÇA DE SANTA CATARINA. PENALIDADE POSSIBILIDADE DE INCIDÊNCIA DA CONTRATUAL SOBRE O VALOR DA CONDENAÇÃO ACRESCIDO DOS ENCARGOS LEGAIS.
+"A multa cominatória a que se referiam os artigos 916 e seguintes do Código Civil revogado (objeto dos artigos 408 e seguintes do Novo Código Civil), incide sobre o valor da obrigação principal corrigido, acrescido dos juros impostos na sentença, quando o litígio versar sobre seguro habitacional" (Súmula 16, TJSC).
+(II) ALEGADA INCLUSÃO INDEVIDA DOS HONORÁRIOS DO ASSISTENTE TÉCNICO NO CÁLCULO EXEQUENDO. INACOLHIMENTO. É DEVER DO VENCIDO O PAGAMENTO DAS DESPESAS ANTECIPADAS PELO VENCEDOR. ART. 82, §2º do CPC. RECURSO CONHECIDO E DESPROVIDO. PEDIDO DE CONDENAÇÃO DA AGRAVANTE NAS PENAS DE LITIGÂNCIA DE MÁ-FÉ DEDUZIDO EM CONTRARRAZÕES. NÃO CONFIGURAÇÃO.
+No recurso especial (e-STJ fls. 834/843), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alega ofensaao art. 412do CC/2002, bem como dissídio jurisprudencial, pois a multa decendial não pode ultrapassar o valor da obrigação principal (e-STJ fl. 840), tendo em vista que:
+ ..  o valor principal compreende apenas o valor efetivo da recomposição física dos imóveis,assim, os juros moratórios não podem ser computados no cálculo da multa decendial, tendo em vista que não fazem parte da obrigação principal,porque a própria multa já decorre da mora.
+Busca, em suma, o provimento do recurso especial (e-STJ fl. 843):
+(..)de modo a reformar integralmente o v. acórdão recorrido, posto a clara violação ao art. 1º, da Lei 12.409/2011, alterada e melhorada pela Lei 13.000/2014, operacionalizada pela Resolução 364 do CCFCVS, bem como ao artigo 525, § 1º (art. 475-L do CPC/73) considerando a legitimidade da Caixa e a competência da Justiça Federal para julgar a presente demanda;
+(..)de modo a reformar integralmente o v. Acórdão recorrido, posto a clara violação ao art. 412 10.406/02 (Código Civil), condenando os exequentes em honorários advocatícios, sobre o excesso apurado.
+Os recorridos apresentaram contrarrazões (e-STJ fls. 891/894).
+O recurso foi admitido na origem (e-STJ fls. 897/900).
+É o relatório.
+Decido.
+Acerca dos pedidos que envolvem a legitimidade da Caixa Econômica Federal e a competência da Justiça Federal, verifica-se que a recorrente apresentou os pleitos desacompanhados das razões recursais. Relacionar dispositivos legaisem quesupostamente o Tribunal de origem deveria sobre eles se pronunciar, sem explicitar a relevância dos mesmos para o deslinde da controvérsia, caracteriza deficiência de fundamentação recursal, que atrai a incidência da Súmula n. 284/STF. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PRESTAÇÃO DE SERVIÇOS. ARTS. 489 E 1.022 DO CPC/2015. VIOLAÇÃO. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284/STF. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DO DIREITO DE DEFESA. REEXAME. SÚMULA Nº 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. O recurso especial que indica violação dos artigos 489 e 1.022 do Código de Processo Civil de 2015, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.
+(..) 5. Agravo interno não provido.
+(AgInt no AREsp 1140214/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/11/2017, DJe 20/11/2017.)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - CUMPRIMENTO DE SENTENÇA DE AÇÃO DE INDENIZAÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA EXECUTADA.
+1. A alegação de afronta ao artigo 535 do CPC/73 (art. 1.022, CPC/15) de forma genérica impede o conhecimento do recurso especial ante a deficiência na fundamentação. Incidência da Súmula 284 do STF, por analogia.
+2. A falta de impugnação a fundamento autônomo do acórdão recorrido inviabiliza o exame da pretensão recursal, em razão da incidência da Súmula 283/STF.
+3. Na hipótese dos autos, o Tribunal de origem, com base nas provas carreadas aos autos e na interpretação dos acordos celebrados, concluiu ser obrigação da recorrente realizar o pagamento das despesas processuais. Alterar tal conclusão demandaria nova interpretação de cláusulas contratuais, além de reexame de fatos e provas, providências inviáveis em sede de recurso especial, a teor do disposto nas Súmulas 5 e 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 313.149/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/06/2017, DJe 01/08/2017.)
+Quanto ao pedido de condenação dos exequentes em honorários advocatícios, sobre o excesso apurado, não houve pronunciamento do Tribunal a quo sobre essa questão, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas ao caso as Súmulas n. 282 e 356 do STF.Sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282 E 356/STF. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+2. O Tribunal de origem consigna a legitimidade somente de quem transferiu a posse e o domínio da coisa, para responder pelos riscos da evicção, nos termos do art. 453 c/c 1.219 do CC. Assim, salienta que a responsabilidade solidária daquele de quem o devedor direto adquiriu o bem alienado para o evicto não existirá sem prova de conluio e má-fé ou de responsabilidade pelo vício, hipóteses não configuradas no caso vertente. Outrossim, destaca que ante a ausência de erro ou vício no processo de registro, a conduta do oficial do cartório de registro não causou, tampouco contribuiu de forma relevante para o dano. A reforma do aresto, nestes aspectos, demanda reexame do acervo fático-probatório soberanamente delineado perante as instâncias ordinárias, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.142.635/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/5/2018, DJe 14/5/2018.)
+Acerca damulta decendial, o entendimento do STJé de que ela está limitada ao valor da condenação principal, excluídos, portanto, a correção monetária e os juros moratórios. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. JUROS MORATÓRIOS SOBRE MULTA DECENDIAL. DESCABIMENTO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. Precedentes.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.383.622/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/04/2019, DJe 23/04/2019.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO. MULTA DECENDIAL LIMITADA AO VALOR DA OBRIGAÇÃO PRINCIPAL. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. O atraso no pagamento da indenização securitária, em contratos de seguro habitacional vinculados ao Sistema Financeiro de Habitação, enseja o pagamento de multa decendial, limitada ao valor da obrigação principal. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.552.094/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/02/2019, DJe 14/02/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.AÇÃO DE INDENIZAÇÃO SECURITÁRIA. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA.JUROSMORATÓRIOS SOBREMULTA DECENDIAL.DESCABIMENTO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. Precedentes.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1383622/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/04/2019, DJe 23/04/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO.MULTA DECENDIAL.NÃO INCIDÊNCIA SOBRE A CORREÇÃO MONETÁRIA EJUROSMORATÓRIOS. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO DESPROVIDO.
+1. O entendimento deste Tribunal Superior é de que amulta decendialestá limitada ao valor da condenação principal, excluídos, portanto, a correção monetária e osjurosmoratórios.
+2. Deixaram os agravantes de demonstrar a inaplicabilidade dos precedentes colacionados na decisão monocrática, os quais demonstram o entendimento desta Corte sobre a matéria.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1343101/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/12/2018, DJe 19/12/2018 - grifei.)
+Aplica-se ao caso a Súmula n. 568 do STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial, para excluir do cômputo damulta decendiala incidência dejurosde mora ecorreção monetária.
+Publique-se e intimem-se.
