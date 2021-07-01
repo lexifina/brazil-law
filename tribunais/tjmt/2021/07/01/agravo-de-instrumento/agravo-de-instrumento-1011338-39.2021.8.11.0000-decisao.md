@@ -1,0 +1,18 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto pela UNIMED DE LONDRINA COOPERATIVA DE TRABALHO MÉDICO, com o fito de suspender a decisão que, nos autos da Ação de Obrigação de Fazer de no 1019861-14.2021.8.11.0041, ajuizada por CAMILA SALES PEREIRA, deferiu o pedido de tutela de urgência e determinou que a operadora de plano de saúde forneça à agravada uma bomba infusora de insulina, conforme prescrito por profissional médico.
+Para tanto, aduz a agravante que, nesta fase processual prematura, além da ausência de cobertura contratual e legal para o fornecimento do material pleiteado, inexiste prova de que o tratamento por meio de bomba de insulina é essencial e imprescindível à saúde da agravada.
+Alega, ainda, estar sendo compelida a prestar serviços, sem, contudo, coexistir previsão contratual para o custeio do equipamento indicado para tratamento da patologia do paciente, ou qualquer obrigatoriedade emanada da Agência Nacional de Saúde Suplementar – ANS.
+Assim, diante do risco de sofrer lesão grave e de difícil reparação pelos efeitos da decisão hostilizada, pede providência liminar para suspender a eficácia da decisão de base.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição de efeito suspensivo ao Recurso de Agravo de Instrumento se sujeita aos pressupostos que lhe são próprios, nem sempre consentâneos com aqueles que, por outro lado, tocam à decisão combatida.
+Em outras palavras, a obtenção de efeito suspensivo depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+Como já dizia Nelson Nery Júnior:
+Atuação do relator. O relator do agravo deve analisar a situação concreta, podendo ou não conceder o efeito suspensivo ao recurso. Se verificar que a execução da decisão agravada pode trazer perigo de dano irreparável (periculum in mora) e se for relevante o fundamento do recurso (fumus boni iuris), deve dar efeito suspensivo ao agravo. (Código de processo civil comentado e legislação extravagante. 9 ed. São Paulo: Revista dos Tribunais, 2006, P. 819).
+Apesar do esforço da agravante, por ora, não há nada que convença da liminar pleiteada.
+É que, em análise sumária, não se vislumbra qualquer desacerto na decisão combatida, pois estão presentes os requisitos autorizadores da tutela jurisdicional, dispostos no artigo 300 do Código de Processo Civil, quais sejam, o grau de probabilidade do direito invocado e a urgência da medida, consubstanciados na patologia da paciente, ora agravada, e na necessidade de imediata assistência médica, conforme laudo médico (id no 57036746).
+Pelo que se extrai dos Autos, a agravada foi diagnosticada com Diabetes Melitus, sendo necessário o imediato tratamento para atuar na fisiologia do Pâncreas, com equipamentos e tratamentos prescritos por profissional médico.
+Dessa feita, a operadora de plano de saúde agravante deve dispor de tratamento eficaz e fornecer os equipamentos necessários, em caráter urgente para que não haja maior comprometimento da saúde da agravada.
+Assim, é possível concluir, desde logo, que a negativa do tratamento e fornecimento de equipamentos prescritos por profissional médico habilitado colocaria em risco a saúde da agravada, o que revela a adequação da decisão que compeliu a operadora de plano de saúde, ora agravante, a autorizar o tratamento indicado.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
