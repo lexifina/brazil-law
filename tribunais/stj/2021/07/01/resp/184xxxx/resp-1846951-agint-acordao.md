@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO COLETIVA. MANDADO DE SEGURANÇA. INTERRUPÇÃO DA PRESCRIÇÃO. VALORES ATRASADOS. PRESCRIÇÃO QUINQUENAL. IMPOSSIBILIDADE DE ANÁLISE DO CONTEÚDO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Na origem, trata-se de ação de cobrança proposta por policiais militares inativos e pensionistas contra a SPPrev e a Fazenda do Estado de São Paulo, na qual buscam o pagamento das parcelas vencidas, referentes ao Adicional de Local de Exercício, no quinquênio anterior à impetração do Mandado de Segurança coletivo, ação na qual foi reconhecido o direito da categoria, representada pela respectiva associação, à incorporação da vantagem aos proventos de aposentadoria e pensões.
+2. O Tribunal a quo não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos arts. 1 e 9º do Decreto 20.910/1932. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+3. Ademais, ainda que superado tal óbice, para acolher a tese de ocorrência de prescrição e, consequentemente, contrariar a conclusão alcançada pelo Tribunal de origem, seria preciso analisar o acervo fático-probatório dos autos, porquanto não ficaram incontroversas as datas para aferir a decorrência do prazo prescricional. Incide, nesse ponto, o óbice da Súmula 7/STJ.
+4. Nos termos da jurisprudência do STJ, "a impetração do Mandado de Segurança interrompe a fluência do prazo prescricional de modo que tão somente após o trânsito em julgado da decisão nele proferida é que voltará a fluir a prescrição da Ação Ordinária para cobrança das parcelas referentes ao quinquênio que antecedeu a propositura do writ." (AgRg no AREsp 122.727/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11/9/2012).
+5. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra decisão monocrática (fls. 602-608, e-STJ) que negou provimento ao recurso das agravantes, e deu provimento ao recurso dos particulares.
+As agravantes alegam:
+Portanto, sendo inequívoca a prescrição da pretensão formulada na ação de cobrança em exame, em relação aos valores pretéritos à impetração, requer-se a reforma do decisum agravado, e, ato contínuo, o provimento do recurso especial consoante as razões acima, sendo declarada prejudicada a pretensão recursal aduzida pelo Agravado.
+Com a devida vênia, a matéria recursal concernente à prescrição foi devidamente prequestionada pelo acórdão recorrido, conforme consta da fundamentação de fls. 275-276 (e-STJ), devendo tal capítulo do recurso especial ser conhecido por esse e. STJ. Inaplicável, portanto, a Súmula n. 211/STJ à espécie.
+Pleiteiam a reconsideração do decisum ou a submissão do feito à Turma.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO COLETIVA. MANDADO DE SEGURANÇA. INTERRUPÇÃO DA PRESCRIÇÃO. VALORES ATRASADOS. PRESCRIÇÃO QUINQUENAL. IMPOSSIBILIDADE DE ANÁLISE DO CONTEÚDO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Na origem, trata-se de ação de cobrança proposta por policiais militares inativos e pensionistas contra a SPPrev e a Fazenda do Estado de São Paulo, na qual buscam o pagamento das parcelas vencidas, referentes ao Adicional de Local de Exercício, no quinquênio anterior à impetração do Mandado de Segurança coletivo, ação na qual foi reconhecido o direito da categoria, representada pela respectiva associação, à incorporação da vantagem aos proventos de aposentadoria e pensões.
+2. O Tribunal a quo não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos arts. 1 e 9º do Decreto 20.910/1932. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+3. Ademais, ainda que superado tal óbice, para acolher a tese de ocorrência de prescrição e, consequentemente, contrariar a conclusão alcançada pelo Tribunal de origem, seria preciso analisar o acervo fático-probatório dos autos, porquanto não ficaram incontroversas as datas para aferir a decorrência do prazo prescricional. Incide, nesse ponto, o óbice da Súmula 7/STJ.
+4. Nos termos da jurisprudência do STJ, "a impetração do Mandado de Segurança interrompe a fluência do prazo prescricional de modo que tão somente após o trânsito em julgado da decisão nele proferida é que voltará a fluir a prescrição da Ação Ordinária para cobrança das parcelas referentes ao quinquênio que antecedeu a propositura do writ." (AgRg no AREsp 122.727/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11/9/2012).
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 19.3.2021.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme consignado no decisum agravado, o Tribunal a quo não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos arts. 1 e 9º do Decreto 20.910/1932.
+O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. INFRAÇÃO ADMINISTRATIVA. AUSÊNCIA DE NULIDADE DE AUTO DE INFRAÇÃO. COMPETÊNCIA DO DNIT PARA APLICAR MULTAS DE TRÂNSITO.
+AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA.
+1. Não se conhece da violação a dispositivos infraconstitucionais quando a questão não foi enfrentada pelo acórdão recorrido, carecendo o recurso especial do necessário prequestionamento (Súmula 211/STJ).
+2. Ao persistir a omissão no acórdão recorrido, após o julgamento dos embargos de declaração, imprescindível a alegação de violação do art. 535 do Código de Processo Civil por ocasião da interposição do recurso especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1596787/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/09/2016, DJe 23/09/2016).
+Ademais para acolher a tese de ocorrência de prescrição e, consequentemente, contrariar a conclusão alcançada pelo Tribunal de origem, seria preciso analisar o acervo fático-probatório dos autos, porquanto não ficaram incontroversas as datas para aferir decorrência do prazo prescricional. Incide, nesse ponto, o óbice da Súmula 7/STJ.
+Por fim esclareço que, nos termos da jurisprudência desta Corte, "a impetração do Mandado de Segurança interrompe a fluência do prazo prescricional de modo que tão somente após o trânsito em julgado da decisão nele proferida é que voltará a fluir a prescrição da Ação Ordinária para cobrança das parcelas referentes ao quinquênio que antecedeu a propositura do writ." (AgRg no AREsp 122.727/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11/9/2012).
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
