@@ -1,0 +1,30 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    “RECURSO INOMINADO. SERVIDORA PÚBLICA INATIVA EXTRANUMERÁRIA. ESTADO DO RIO GRANDE DO SUL. TRANSFORMAÇÃO DO CARGO EM QUE SE DEU A APOSENTADORIA. LEI ESTADUAL N° 14.668/14. REAJUSTE DOS PROVENTOS. POSSIBILIDADE. SENTENÇA DE PARCIAL PROCEDÊNCIA MANTIDA. RECURSO DESPROVIDO”.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 37, inciso XIII, 154, incisos I, II, III, e § 2º, e 169, § 1º, incisos I e II, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    “(...)
+    No entanto, a par dos judiciosos argumentos recursais, tenho que a sentença hostilizada, com precisa e acertada fundamentação, outorgou a correta tutela jurisdicional que a causa reclamava, razão pela qual a mantenho pelos seus próprios fundamentos (art. 46 da Lei n° 9.099/99), cujas razões de decidir passam a integrar o julgado. Transcrevo:
+     ‘ (...) Restou demonstrado pela autora que foi concedida sua aposentadoria através da Portaria nº 77 de 1º de fevereiro de 1999 (fl. 19), ou seja, em período anterior à Emenda Constitucional nº 41/03, de modo que poderia passar para a inatividade recendo proventos integrais, corresponde à totalidade da remuneração inerente ao cargo em que se der a aposentadoria.
+    Em que pese conste que no Resumo Funcional da autora que sua aposentadoria se deu no cargo de Auxiliar de Pesquisa (fl. 49), fato é que a remuneração percebida pela autora já na inatividade correspondia à quantia percebida pelos integrantes do cargo de Assessor Jurídico, classe R-1, consoante se extrai da informação extraída do portal transparência (fl. 21), do contracheque da autora (fl. 22) e da informação trazida pelo próprio réu, onde todos constam o valor básico de R$ 6.324,58 para o cargo mencionado.
+    Tem-se, deste modo, que os proventos da autora estavam em situação de equivalência com o cargo de Assessor Jurídico R-1. Se assim não fosse, cabia ao réu, nos termos do art. 373, II, do CPC/15, juntar aos autos o Resumo Funcional completo da parte autora para verificar a existência de anotação quanto as regras de sua aposentadoria, ou mesmo demonstrar a qual cargo os seus vencimentos estavam vinculados, o que não consta nos autos.
+    Não basta simples alegação de que o cargo de Assessor Jurídico foi criado posteriormente à aposentadoria da autora para afastar a equivalência remuneratória, até mesmo porque já demonstrado que os valores percebidos pela autora são os mesmos indicados para o referido cargo.
+    Desta forma, cabe analisar se assiste razão à parte autora quanto ao direito alegado.
+    Superada a discussão sobre o cargo ao qual os vencimentos da autora eram equivalentes, convém analisar a Lei nº 14.668/14, que teve por finalidade Reorganizar o Quadro de Pessoal dos Serviços Auxiliares da Procuradoria-Geral do Estado do Rio Grande do Sul instituído pela Lei nº 13.380/10. O seu art. 4º assim dispõe:
+    (...)
+    Extrai-se que o cargo de Assessor Jurídico foi transformado em Analista Jurídico, havendo a extinção da Classe R, com consequente reenquadramento ao grau A, ficando respeitado o nível a que se encontrava anteriormente, qual seja, o nível I. Assim, o cargo de Assessor Jurídico R-I passou a ser Analista Jurídico A-I.
+     Considerando que o próprio réu demonstrou a existência de diferença remuneratória no vencimento básico entre os cargos, sendo o de Assessor Jurídico R-I de R$ 6.324,58 e o de Analista Jurídico A-I de R$ 7.652,74, conforme informação de fl. 58, entendo que merece acolhida o pedido deduzido na inicial, reconhecendo o direito da parte autora em receber seus proventos em equivalência ao cargo de Analista Jurídico A-I da PGE, inclusive com reflexos nas vantagens, sendo devida a diferença dos valores não repassados desde a publicação da Lei nº 14.668/14, ou seja, de 31/12/2014.’”
+         Desse modo, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+         Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJede 26/3/2018)
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJede 9/10/2020)
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 1º de julho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
