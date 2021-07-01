@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15), interposto por JAIR OLIVEIRA FREITAS contra decisão que negou seguimento ao recurso especial do insurgente.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do dispositivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins, assim ementado (fl. 502, e-STJ):
+APELAÇÃO. AÇÃO DE RESCISÃO DE CONTRATO. DEMANDAS CONEXAS. INEXISTÊNCIA DE OBRIGATORIEDADE DE JULGAMENTO CONJUNTO. AUSÊNCIA DE DECISÕES CONFLITANTES. NULIDADE AFASTADA. ACORDO VERBAL EXTRAJUDICIAL ENTRE OS LITIGANTES. NÃO COMPROVAÇÃO. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO. 1. Trata-se de demanda visando a rescisão de contrato de compra e venda de um estabelecimento hoteleiro por inadimplência do requerido/comprador. 2. O objetivo da norma inserta no art. 55 e 59 do CPC, é evitar a coexistência de decisões contraditórias sobre a mesma matéria, porém, não obriga ao magistrado, necessariamente, proceder ao julgamento simultâneo das demandas. Ainda que as demandas não tenham sido julgadas em conjunto, não se verifica qualquer nulidade ao feito, mesmo porque inexistem quaisquer inconsistências entre as conclusões, pois, convergentes. 3. Alega o apelante/Jair Oliveira Freitas que o magistrado singular, em ambos os processos, não observou a existência do acordo verbal extrajudicial firmado entre os litigantes, o qual, inclusive, já foi integralmente adimplido pelo recorrente. 4. O que se extrai dos autos é que o apelante apenas informou ao Juízo que a recorrida/Aparecida Regina o procurou, sem a presença do respectivo advogado, para celebração de um acordo verbal extrajudicial, o qual encerraria o conflito discutido nos processo. Contudo, a prova de tal pactuação não compôs o acervo dos autos. 5. Recurso conhecido e não provido.
+Sem oposição de embargos de declaração.
+Nas razões de recurso especial (fls. 526-534, e-STJ), orecorrente apontou violação ao art. 55, CPC/15, sustentando que as ações deveriam ter sido julgadas em conjunto.
+Contrarrazões às fls. 543-547, e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 566-568, e-STJ), o Tribunal de origem inadmitiu o reclamo, dando ensejo ao presente agravo (fls. 577-592, e-STJ).
+Contraminuta às fls. 596-601, e-STJ.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Cinge-se a controvérsia recursal quanto à necessidade de julgamento em conjunto das ações por se tratarem de ações conexas.
+No particular, decidiu o Tribunal de piso (fls. 505-506,e-STJ):
+No caso particular, verifica-se que as pretensões expostas nas demandas são distintas, uma vez que nos autos nº 5000031-52.1998.827.2725, ação ajuizada pelo recorrente/Jair oliveira Freitas em desfavor da apelada/Aparecida Regina da Silva
+Carvalho, aquele busca a anulação do contrato com fundamento de vício de consentimento e dolo da apelada/vendedora em fraudar informações de receita do estabelecimento transacionado.
+Enquanto nos autos nº 5000030-67.1998.827.2725 (originário), ação ingressada pela apelada/Aparecida Regina da Silva Carvalho em desfavor do recorrente/Jair Oliveira Freitas, busca a rescisão do contrato de compra e venda em razão da inadimplência do comprador/apelante, além de requerer as demais cominações avençadas na própria transação.
+Conseguinte, das sentenças exaradas nos supracitados processos (evento 16 dos autos nº 5000031-52.1998.827.2725 e evento 30 dos autos nº 5000030-67.1998.827.2725) não se denota qualquer discordância ou incoerência nas conclusõesalcançadas pelos magistrados sentenciantes. Apenas para melhor elucidar, nos autos nº 5000031-52.1998.827.2725 o magistrado entendeu pela improcedência da pretensão inicial do apelante/Jair, ante a inexistência de qualquer prova de vício de consentimento levantado, enquanto nos autos nº 5000030-67.1998.827.2725, onde foram apresentados os mesmos fatos, fundamentos e provas pelos litigantes, o Juízo originário deu provimento aos pedidos da apelada/Aparecida Regina, ante a inadimplência do recorrente/Jair, para declarar rescindido o contrato e condenar este nas penalidades contratualmente estabelecidas.
+ ..
+Portanto, ainda que as demandas não tenham sido julgadas em conjunto, não se verifica qualquer prejudicialidade/nulidade ao feito, mesmo porque inexistem quaisquer inconsistências entre as conclusões, pois, convergentes, devendo-se contemplar o brocado jurídico de que não há nulidade sem prejuízo demonstrado (pas de nullité sans grief):
+Contudo, o ora recorrente não se desimcubiu do ônus de impugnar os referidos fundamentos, como manda o princípio da dialeticidade, apenas cingindo-se a insistir nos argumentos veiculados em sede de agravo de instrumento e embargos de declaração, de sua vez dissociados dos fundamentos do acórdão recorrido, incidindo, na espécie, por analogia, as Súmula 283 e 284 do STF.
+Em outras palavras, verifica-se que a parte recorrente deixou de infirmar fundamentos do acórdão recorrido - suficientes para sua manutenção -; incidindo, na espécie, por analogia, a Súmula 283 do STF, in verbis: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Conforme já decidiu o STJ, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP).
+Ademais, resta caracterizada a deficiência na fundamentação do apelo extremo no que tange à violação do dispositivo apontado, pois apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa do óbice contido na Súmula 284 do STF, que se estende sobre a alegada divergência jurisprudencial.
+Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA DEMANDADA.
+ ..
+5. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+6. Agravo interno desprovido.
+(AgInt no REsp 1656284/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/11/2019, DJe 19/11/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDO DE REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO. PRECARIEDADE NA COMPROVAÇÃO DO INADIMPLEMENTO. AUSÊNCIA DE COMPROVAÇÃO DA CONSTITUIÇÃO DO DÉBITO. NEGÓCIO REALIZADO EM 1999, COM AS PRIMEIRAS PROVIDÊNCIAS PARA COBRANÇA REALIZADAS APENAS EM 2013. INCIDÊNCIA DA SUPRESSIO. FUNDAMENTOS NÃO ATACADOS. SÚMULAS 283 E 284 DO STF. CONCLUSÃO ACERCA DA APLICAÇÃO DA SUPRESSIO. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. Ao examinar o feito, o Tribunal local concluiu que, diante da precariedade de provas da constituição do débito, do longo decurso de tempo entre o suposto inadimplemento e a tomada de providências para cobrança dos réus, ocasionaram a incidência da "supressio". Todavia, tais fundamentos autônomos e suficientes para a manutenção do acórdão recorrido não foram rebatidos pelo recorrente em seu apelo especial. Desse modo, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, o que denota a deficiência da fundamentação recursal, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+ ..
+(AgInt no AREsp 1500950/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2019, DJe 12/11/2019)
+Inafastável, no ponto os óbices das Súmulas 283 e 284 do STF, por analogia.
+2. Do exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
