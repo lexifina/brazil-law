@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso ordinárioem habeas corpus com pedido de liminar interposto por VELOCINDA DA SILVA MEDINE contra acórdão do Tribunal Regional Federal da 4ª Região (HC n. 5046354-82.2019.4.04.0000/PR).
+A recorrente teve homologado em primeiro grau acordo de suspensão condicional do processo. Em razão da notícia de prática de crime posterior, o benefício foi revogado pelo Juízocondutor do feito.
+Impetrado préviowrit, o Tribunal Regional Federalnão conheceu do recurso.
+No Superior Tribunal de Justiça, arecorrente pleiteia, liminarmente e no mérito, o reconhecimento da ilegalidade da revogação em primeira instância, visto que os fatos que ensejaram a perda do benefício não foram praticados durante o período de prova, mas em momento anterior à homologação do acordo.
+É o relatório.
+Decido.
+Ao que se extrai dos autos, apesar de provocado acerca da suspensão do benefício anteriormente concedido à recorrente,o Tribunal de origemdeixou de apreciar o pleitoao argumento de impropriedade da via eleita.
+Ora, como cediço, o Superior Tribunal de Justiça consolidou o entendimento de que:"é bem verdade que o STJ não mais tem admitido a impetração de habeas corpus quando substitutivo de recursos próprios. Todavia, tal posicionamento não tem o condão subtrair do magistrado a verificação quanto à existência de ilegalidade flagrante, caso em que deverá conceder habeas corpus de ofício. Inteligência do art. 654, § 2º, do CPP"(HC n. 301.883/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/10/2014, DJe 10/11/2014).
+No mesmo sentido:
+PROCESSUAL PENAL. HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ORDINÁRIO. TRÁFICO ILÍCITO DE ENTORPECENTES. HABEAS CORPUS ORIGINÁRIO NÃO CONHECIDO PELO TRIBUNAL DE ORIGEM POR SUPOSTA INADEQUAÇÃO DA VIA ELEITA. QUESTÃO DE DIREITO QUE INDEPENDE DA ANÁLISE FÁTICO-PROBATÓRIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. RETORNO DOS AUTOS À ORIGEM. NÃO CONHECIMENTO. ORDEM DE OFÍCIO.
+1. O Superior Tribunal de Justiça não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, agravo em execução, recurso especial), tampouco à revisão criminal, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+2. Hipótese em que o Tribunal de origem não conheceu da impetração originária - versando sobre a legalidade na imposição do regime inicial fechado -, por suposta inapropriação da via eleita. Não tendo havido o exaurimento da matéria pelas instâncias de origem, inviável a apreciação por esta Corte Superior de Justiça, sob pena de supressão de instância.
+3. Tratando-se de matéria exclusivamente de direito, não demandando revolvimento fático-probatório, inexiste óbice à análise do pedido formulado no habeas corpus originário, ainda que de ofício, nos termos do art. 654, §2º, do CPP. Precedentes.
+4. Writ não conhecido. Ordem concedida, de ofício, para determinar, o retorno da impetração ao Tribunal de 2º Grau para que este examine o mérito do Habeas Corpus originário, decidindo como entender de direito, mormente quanto à possibilidade de concessão da ordem, de ofício.
+(HC 349.445/SP, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 12/04/2016, DJe 22/04/2016)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO CRIMINAL. INDEFERIMENTO DE PROGRESSÃO DE REGIME PRISIONAL. IMPOSSIBILIDADE DE EXAME NESTA CORTE. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE PRÉVIO EXAME DA MATÉRIA PELO TRIBUNAL A QUO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. RECURSO PRÓPRIO QUE NÃO IMPEDE A APRECIAÇÃO DAS QUESTÕES DE DIREITO NA VIA DO HABEAS CORPUS. ILEGALIDADE PATENTE. RECURSO DESPROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3.- Tratando-se de questão de direito, e não de fato, cumpre ao Tribunal, embora não conhecendo do writ substitutivo de recurso, processar o habeas corpus, e, a final, examinar o mérito das alegações, a fim de verificar acerca da existência ou não de ilegalidade flagrante, decidindo como entender de direito, mormente no que respeita à possibilidade de concessão, de ofício, da ordem.
+4.- Agravo Regimental improvido.
+5.- Conceder a ordem de ofício a fim de determinar ao Tribunal de origem que aprecie o mérito do habeas corpus lá impetrado, como entender de direito.
+(AgRg no HC 301.901/SP, relator Ministro WALTER DE ALMEIDA GUILHERME, DESEMBARGADOR CONVOCADO DO TJSP, QUINTA TURMA, julgado em 07/10/2014, DJe 24/10/2014)
+Assim, a ausência de manifestação do Tribunal Regional Federal da 4ª Região acerca do pedido formulado na impetração originária configura indevida negativa de prestação jurisdicional, principalmente considerando que a análise do aventado constrangimento ilegal não necessita de revolvimento de matéria probatória, envolvendo apenas questão de direito.
+No mesmo sentidoa manifestação ministerial (e-STJ fl. 109):
+No mérito, há constrangimento ilegal a ser reconhecido, em menor extensão, apto a ensejar a concessão da ordem de habeas corpus de ofício.
+Diz-se isto, porque não é cabível o exame do mérito do presente recurso interposto com vistas ao restabelecimento da decisão que concedeu a suspensão condicional do processo (art. 89 da Lei nº 9.099/95), porque o e. Tribunal a quo não se manifestou sobre o ponto nodal. Logo, a manifestação desse C. STJ configuraria indevida supressão de instância.
+Noutro norte, porém, tem-se que "as medidas despenalizadoras previstas na Lei 9.099/1995 têm por finalidade evitar a imposição de pena privativa de liberdade ao agente, devendo, contudo, observar os critérios da necessidade e suficiência, bem como observar os aspectos repressivo e preventivo da sanção penal." (STJ - HC 370.032/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 18/04/2017, DJe 27/04/2017).
+E como a revogação do benefício da suspensão condicional do processo coloca em risco a liberdade ambulatória da ora recorrente, o caso é de conceder a ordem, de ofício, e em menor extensão, para que o Tribunal a quo se manifeste quanto ao mérito do writ lá impetrado, como melhor entender.
+O caso é, pois, de concessão da ordem de habeas corpus, de ofício, em menor extensão, apenas para determinar que o TRF da 1ª Região se manifeste quanto ao mérito do writ lá impetrado.
+Nesse contexto, tratando-se de questão relevante de direito, deve a Corte a quoanalisar a matéria suscitada nowritoriginário.
+Ante o exposto,não conheço do recurso ordinário emhabeas corpus.Contudo, de ofício, determino que o Tribunal de origem analise o mérito do HC n. 5046354-82.2019.4.04.0000/PR,como entender de direito.
+Comunique-se, com urgência, ao Tribunal impetrado.
+Publique-se. Intimem-se.
