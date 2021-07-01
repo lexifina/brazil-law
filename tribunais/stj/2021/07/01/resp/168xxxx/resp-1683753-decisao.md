@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pela PETRÓLEO BRASILEIRO S/A - PETROBRÁS, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado, in verbis:
+APELAÇÃO EM AÇÃO DE RITO ORDINÁRIO. PRETENSÃO À DECLARAÇÃO DA VALIDADE DE PAGAMANENTOS DO PASEP E DO DESCABIMENTO DA MULTA INCIDENTE PELO DESCUMPRIMENTO DE OBRIGAÇÃO ACESSÓRIA. PAGAMENTO CENTRALIZADO NA MATRIZ DA AUTORA, MAS SEM A NECESSÁRIA AUTORIZAÇÃO PARA ISSO. EXIGÊNCIA DE NOVO PAGAMENTO DO TRIBUTO E IMPOSIÇÃO DE MULTA PELA INOBSERVÂNCIA NA FORMA DO RECOLHIMENTO. "BIS IN IDEM" QUE CONFIGURA ENRIQUECIMENTO ILÍCITO DA FAZENDA PÚBLICA. CABIMENTO APENAS DA PENALIDADE PREVISTA PARA O DESCUMPRIMENTO DA OBRIGAÇÃO ACESSÓRIA. ART. 113, §§ 2º E 3º DO CÓDIGO TRIBUTÁRIO NACIONAL.
+1. Controvérsia em torno da validade dos pagamentos realizados pela autora a título de PASEP, referentes ao período de 03/93 a 05/94, recolhidos de forma centralizada em sua matriz, bem como a exoneração da multa de 75% sobre o mesmo valor.
+2. Indiscutível que a impetrante não cumpriu a obrigação acessória prevista pela IN 128/2002, que obrigava a apresentação de Declaração de Recolhimento Centralizado para que pudesse continuar realizando os pagamento de PASEP em sua matriz.
+3. Todavia, revela-se flagrante a caracterização do bis in idem ao se desconsiderar os pagamentos comprovadamente realizados a título de PASEP no período de 03/93 a 05/94.
+4. Se o contribuinte recolheu o tributo, não cabe exigi-lo novamente, sob pena de enriquecimento ilícito da Fazenda Pública.
+5. A inobservância de obrigação tributária acessória justifica a imposição das penalidades previstas para isso, mas não autoriza a reincidência da cobrança do principal, nos termos dos §§ 2º e 3º do art. 113 do CTN.
+6. Conversão em rendas da União Federal do valor relativo à multa por descumprimento de obrigação tributária acessória, franqueando-se à autora o remanescente de depósito judicial.
+7. Direito da autora à obtenção da certidão prevista no art. 206 do CTN.
+8. Apelação parcialmente provida.
+Foi atribuído à causa o valor de R$ 1.000,00.
+Os embargos de declaração opostos foram rejeitados.
+No seu recurso especial a recorrente aponta contradição e omissão, com ofensa ao art. 535, do CPC/1973, alegando, em síntese, que não foram tratados os temas relacionados aos arts. 128, 293, 460 e 515, do CPC/1973, sob a alegação de julgamento extra petita.
+Adiante, indicou o malferimento dos arts. 44, inciso I, da Lei no 9.430/96, 128, 293, 460 e 515, todos do CPC/1973, sob o argumento de não se sustentar a manutenção da multa que lhe foi imposta, observada que a sanção "em momento algum foi alegada pelo descumprimento de obrigação acessória, ensejando julgamento extra petita.
+É o relatório. Decido.
+Assiste razão ao recorrente, no que toca à alegada violação ao art. 535 do CPC/1973.
+De fato, o recorrente apresentou questão jurídica relevante, qual seja, a ocorrência de alegada decisão extra petita. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+Nesse contexto, diante da referida omissão, apresenta-se violado o referido dispositivo legal, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Com o mesmo diapasão, destaco os seguintes precedentes, in verbis:
+AMBIENTAL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA. MULTA ADMINISTRATIVA. PLATAFORMA DE PRODUÇÃO E ESCOAMENTO DE PETRÓLEO E GÁS NATURAL. RENOVAÇÃO DE LICENÇA. CONTROVÉRSIA ACERCA DA APLICABILIDADE DA RESOLUÇÃO 237/97 DO CONAMA. ALEGADAS OMISSÕES. OFENSA AO ART. 535 DO CPC/73 CARACTERIZADA. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/73.
+II. Na origem, trata-se de ação anulatória, ajuizada por Petrobrás - Petróleo Brasileiro S/A contra o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA, objetivando a declaração de nulidade do auto de infração 352363-D e da multa administrativa que lhe fora aplicada pela autarquia. O Tribunal de origem manteve a sentença de procedência da ação.
+III. Constata-se a omissão quando o Tribunal deixa de apreciar questões relevantes para o julgamento, suscitadas pelas partes ou examináveis de ofício, ou quando deixa de se pronunciar acerca de algum tópico da matéria submetida à sua cognição, em causa de sua competência originária ou obrigatoriamente sujeita ao duplo grau de jurisdição.
+IV. Nesse contexto, não tendo sido apreciadas, no acórdão dos Embargos Declaratórios opostos, em 2º Grau, pelo ora agravado, as alegações por ele expendidas sobre matéria relevante à solução da controvérsia, merece ser mantida a decisão agravada, que reconheceu a ofensa ao art. 535 do CPC/73, entendendo necessária a anulação do acórdão recorrido, determinando o retorno dos autos ao Tribunal de origem, para que profira nova decisão, com a análise das alegações da parte ora agravada.
+V. Agravo interno improvido.
+(AgInt no REsp 1537418/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 08/06/2020, DJe 10/06/2020)
+PROCESSUAL CIVIL. AUSÊNCIA DE ANÁLISE PELO TRIBUNAL DE ORIGEM. QUESTÕES RELEVANTES PARA A SOLUÇÃO DA LIDE. OFENSA AO ART. 1.022 DO CPC/2015 CONFIGURADA.
+1. No que tange à alegada violação do art. 1.022 do CPC, merece acolhida o apelo nobre.
+2. Compulsando-se os autos, verifica-se que foram opostos Embargos de Declaração para sanar omissão, e a Corte de origem, apesar de instada a se manifestar sobre o tema, manteve-se silente.
+3. Caracteriza-se ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem deixa de se pronunciar acerca de matéria veiculada pela parte e sobre a qual era imprescindível manifestação expressa.
+4. Agravo conhecido para dar parcial provimento ao Recurso Especial, quanto à violação do art. 1.022 do CPC/2015, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração em que se analisem as seguintes matérias apresentadas na petição dos aclaratórios: diante da constituição definitiva dos débitos em 8 de dezembro de 1997, por ocasião da ciência, pela recorrente, do respectivo Termo Complementar ao Auto de Infração e, considerando a existência de pagamento parcial de PIS, aplicável ao caso dos autos o artigo 150, § 4º, do CTN. Estão, consequentemente, decaídos os "fatos geradores" ocorridos entre janeiro de 1989 e novembro de 1992, não podendo, por isso, em qualquer hipótese subsistir a exigência fiscal ora combatida.
+(AREsp 1562331/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/11/2019, DJe 19/12/2019)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo a fim de que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+Publique-se. Intimem-se.
