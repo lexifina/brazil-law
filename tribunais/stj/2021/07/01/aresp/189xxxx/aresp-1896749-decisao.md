@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por BANCO DO BRASIL S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim resumido:
+APELAÇÃO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. EXECUÇÃO AJUIZADA SOB A ÉGIDE DO CPC/73. INÉRCIA DO EXEQUENTE. EXTINÇÃO DA DEMANDA. SENTENÇA MANTIDA. 1. Admite-se a ocorrência da prescrição intercorrente nos casos em que o próprio titular da pretensão permanece inerte, não realizando ato ou diligência que lhe incumbia durante o processo. 2. Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002. 3. A eternização de demandas não é compatível com as garantias constitucionais, tais como a duração razoável do processo, a segurança jurídica e da solução dos litígios, e no presente caso, os autos ficaram parados sem qualquer impulso pela parte Exequente por onze anos. 4. Recurso improvido. Sentença mantida.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 85, § 2º, do CPC, no que concerne ao descabimento de condenação em honorários, uma vez que não tem culpa de não ter localizado bens para a satisfação do débito. Alternativamente, requer ainda, a redução do valor fixado a título de honorários, trazendo os seguintes argumentos:
+Não há que se falar em condenação do Banco Recorrente ao pagamento de quaisquer importâncias referentes às custas processuais e honorários advocatícios, nos termos do artigo 86, parágrafo único, do Código de Processo Civil.
+O princípio da sucumbência, adotado pelo art. 85 do CPC, encontra-se contido no da causalidade, segundo o qual, aquele que deu causa à instauração do processo deve arcar com as despesas dele decorrentes.
+Desse modo, entende-se que o referido artigo do CPC, foi violado, motivo pelo qual o presente recurso especial deve ser admitido.
+Assim sendo, é cabível a aplicação do princípio da causalidade no presente caso, pois foi o réu, com seu procedimento irregular e desídia em quitar as obrigações assumidas perante ao Banco, que ensejou a propositura da demanda, tendo o autor de recorrer ao Poder Judiciário para ver resguardado o seu direito.
+Neste sentido, já decidiu estes Tribunais:
+ ..
+O d. Juízo a quo condenou o Recorrente ao pagamento de 20% do valor da causa.
+O Banco Recorrente manifesta sua expressa discordância do referido pedido pelos fatos e fundamentos abaixo aduzidos.
+A referida decisão afronta o CPC, já que condena o Recorrente ao pagamento de um valor superior ao permitido em lei, sendo a decisão totalmente ilegal.
+Não se mostra razoável que o Recorrente venha arcar com o percentual fixado pelo Juízo a quo quanto as verbas de sucumbência, sendo que foi o Recorrido que não cumpriu suas obrigações e deu causa à propositura da ação.
+ ..
+O Recorrente não tem culpa de não ter localizado bens para a satisfação do débito, tendo a inexistência de bens dado causa à paralização do feito, o que acarretou a prescrição intercorrente.
+ ..
+Logo, na remota hipótese de manutenção do entendimento esposado no Acórdão recorrido, o valor fixado não atende à legislação vigente, bem como aos princípios da proporcionalidade e razoabilidade, sendo certo que causará dano ao Recorrente, vez que estará obrigado ao pagamento de quantia notadamente injusta, incorrendo, inclusive em enriquecimento sem causa (em relação apenas ao percentual excedente) ao respeitável patrono da parte adversa (fls. 501/506).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no AREsp n. 1.779.940/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 3/5/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
