@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interno interposto por SADILA NAIARA BRITO PEREIRA contra decisão mediante a qual a Presidência desta Corte negou provimento a seu agravo em recurso especial, ao fundamento de que a aplicação da Súmula 7/STJ não teria sido impugnada na minuta do agravo.
+Em face das razões de fls. 404/409, reconsidero a decisão agravada.
+Com efeito, a aplicação do referido enunciado da Súmula foi impugnada pelo agravo em recurso especial, mormente a partir da fl. 384, em que a agravante expôs as razões pelas quais, em seu entender, o óbice não incide sobre o caso. Não se aplica, portanto, a regra dos artigos 932, III, do Código de Processo Civil de 2015 e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, nem a Súmula 182/STJ.
+Procedo, portanto, a nova análise do agravo em recurso especial.
+Trata-se deagravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+COMPRA E VENDA DE IMÓVEL. VAGA DE GARAGEM. ALEGAÇÃO QUE A ÁREA REAL QUE NÃO CORRESPONDE À ÁREA ADQUIRIDA. Pedido de indenização por danos materiais com base na relação entre percentual da área discrepante e preço pago que equivale à pretensão de abatimento no preço. Ação "quanti minoris" do art. 500 do CC. Direito que se sujeita a prazo decadencial ânuo (art. 501 do CC). Inaplicabilidade do prazo prescricional de reparação civil (art. 206, § 3º, V, do CC). Decadência verificada. Extinção do processo com resolução do mérito (art. 487, II, do CPC). Recurso não provido.
+Nas razões de recurso especial, a parte agravante alega violação do artigo 205 do Código Civil, além de divergência jurisprudencial. Sustenta que a prescrição da pretensão da reparação pecuniária que busca no caso é de dez anos.
+Assim posta a questão, verifico não assistir razão à agravante.
+Com efeito, em sua petição inicial pleiteia o ressarcimento pecuniário do valor pago a maior pela sua vaga de garagem. Alegou que a área do imóvel media 2,18 m2 a menos do que a área objeto do contrato.
+Ocorre que, conforme consta de forma incontroversa nestes autos, a agravante recebeu a chave do imóvel em 3 de fevereiro de 2015. A ação foi ajuizada em 22 de abril de 2019, ou seja, mais de quatro anos após o recebimento das chaves.
+A agravante entende aplicar-se ao caso o prazo prescricional de dez anos. Argumenta tratar-se de inadimplemento de contrato, o que faria incidir sobre o caso a regra do artigo 205 do Código Civil. Há, porém, disposição específica sobre a matéria, tratada nos artigos 500 e 501 do Código Civil:
+Art. 500. Se, na venda de um imóvel, se estipular o preço por medida de extensão, ou se determinar a respectiva área, e esta não corresponder, em qualquer dos casos, às dimensões dadas, o comprador terá o direito de exigir o complemento da área, e, não sendo isso possível, o de reclamar a resolução do contrato ou abatimento proporcional ao preço.
+§ 1 o Presume-se que a referência às dimensões foi simplesmente enunciativa, quando a diferença encontrada não exceder de um vigésimo da área total enunciada, ressalvado ao comprador o direito de provar que, em tais circunstâncias, não teria realizado o negócio.
+§ 2 o Se em vez de falta houver excesso, e o vendedor provar que tinha motivos para ignorar a medida exata da área vendida, caberá ao comprador, à sua escolha, completar o valor correspondente ao preço ou devolver o excesso.
+§ 3 o Não haverá complemento de área, nem devolução de excesso, se o imóvel for vendido como coisa certa e discriminada, tendo sido apenas enunciativa a referência às suas dimensões, ainda que não conste, de modo expresso, ter sido a venda ad corpus .
+Art. 501. Decai do direito de propor as ações previstas no artigo antecedente o vendedor ou o comprador que não o fizer no prazo de um ano, a contar do registro do título.
+A agravante pede exatamente o abatimento proporcional do preço em razão da área entregue ser, como alega, inferior à área contratada. Cuida-se, portanto, de prazo decadencial, que é de um ano a partir do registro do título.
+Ressalte-se que a própria agravante, em suas razões de recurso especial, destaca o seguinte (e-STJ, fl. 347, negrito no original):
+Ademais, importante destacar que no campo da prescrição/decadência em que é nítida a restrição de direitos, a interpretação não pode se dar por analogia. Ou há regra especial de prescrição para cada tipo de ação elencada no art. 206 do Código Civil ou se aplica a regra geral contida no art. 205.
+No caso, há regra especial, a qual só não está elencada no artigo 206 porque tal artigo trata de prazos prescricionais, ao passo em que o caso concreto versa sobre prazo decadencial.
+Por essa razão, não se aplica à hipótese os precedentes desta Corte Superior segundo os quais o prazo prescricional em caso de inadimplemento de contratos é de dez anos. Em nenhum desses precedentes, ressalte-se, cuidou-se de complementação de área, de ação estimatória.
+A alegação de contrariedade ao artigo 205 do Código Civil, portanto, é manifestamente improcedente.
+E, pelos mesmos motivos, não há que se falar em dissídio jurisprudencial, pois não há similitude entre os casos confrontados.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
