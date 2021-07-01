@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado em face de acórdão assim ementado (fl. 986):
+Habeas corpus Cerceamento de defesa Alegação de inocorrência da intimação do defensor dativo quanto à datada sessão de julgamento Apelação julgada por esta Colenda 8ª Câmara de Direito Criminal Impetração que visa ao reconhecimento da nulidade do v. Acórdão Impossibilidade de conhecimento do writ contra ato próprio Competência constitucional do Colendo Superior Tribunal de Justiça Ordem indeferida liminarmente Determinação de remessa dos autos àquele sodalício, afastada a hipótese de constrangimento ilegal a ser reconhecida in limine.
+Consta dos autos que a paciente PATRÍCIA CRISTINA JESUS SANTOSfoi condenada como incursano artigo157, § 2º, inciso II, artigo 159, § 1º, e artigo 288, caput, na forma do artigo 69, todos do Código Penal,às penas de 23 anos e 4 meses de reclusão, em regime inicial fechado e ao pagamento de 13 dias-multa.
+O impetrante assevera que a paciente não foi convidada a comparecer em delegacia de polícia, foi citada por edital e, sem ter comparecido a nenhum ato do processo foi condenada, sendo tal condenação confirmada pelo Tribunal de Justiça. Ressalta que a condenação foi feita com base exclusivamente em reconhecimento fotográfico, que não foi repetido em juízo, violando-se o art. 226 do CP. Destaca que 13 anos após os fatos a fotografia não foi juntada aos autos. Destaca que não possui nenhuma tatuagem, além de ter a paciente negado todos os fatos.
+Ressalta que foi surpreendida e presaem 4/5/2021 no Poupatempo, para retirar um documento, pois está trabalhando com carteira assinada.
+Requer a concessão da ordem liminar para, reconhecendo-se a ilegalidade do acórdão prolatado pelo TJSP, suspender os efeitos da condenação até julgamento final dowrite, no mérito, concedida ou não a liminar, seja reconhecida a ilegalidade do acórdão impugnado.
+Em consulta ao sistema processual eletrônico desta Corte Superior, verificou-se que o presente writ é mera reiteração do habeas corpus 668.814/SP, distribuído em 24/5/2021, no bojo do qual a liminar foi indeferidaem 27/5/2021.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
