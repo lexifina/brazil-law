@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSE GOMES MACIELcontra decisão que inadmitiu orecurso especial.
+O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a" e "c",da Constituição Federal, por sua vez desafia acórdão prolatado peloTribunal de Justiça do Estado da Paraíba, assim ementado (fls. 298/302, e-STJ):
+APELAÇÃO. AÇÃO MONITÓRIA. CONTRATO DE ABERTURA DE CRÉDITO. DESCUMPRIMENTO. COBRANÇA DE VALOR. OPOSIÇÃO DE EMBARGOS MONITÓRIOS. REJEIÇÃO. INSURREIÇÃO DO EMBARGANTE. PRELIMINAR DE CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADODA LIDE. ART. 370, DO CÓDIGO DE PROCESSO CIVIL. POSSIBILIDADE. PREJUDICIAL DE PRESCRIÇÃO. INCIDÊNCIA QUINQUENAL. DESACOLHIMENTO. INADEQUAÇÃO DA VIA ELEITA. CREDOR TITULAR DE TÍTULO EXECUTIVO EXTRAJUDICIAL. INTERPOSIÇÃO DE AÇÃO MONITÓRIA. ADMISSIBILIDADE. INTELIGÊNCIA DO ART. 785 DO CÓDIGO DE PROCESSO CIVIL. REJEIÇÃO. MÉRITO. CONTRATO DE ABERTURA DE CRÉDITO. ATIVIDADE EMPRESARIAL. NÃO INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. JUROS REMUNERATÓRIOS. COBRANÇA ACIMA DE 12% AO ANO. ADMISSIBILIDADE. AUSÊNCIA DE DEMONSTRAÇÃO DE EXCESSO EM RELAÇÃO À TAXA MÉDIA PRATICADA NO MERCADO. ABUSIVIDADE NÃO CONFIGURADA. CAPITALIZAÇÃO MENSAL DE JUROS. PACTUAÇÃO EXPRESSA. LEGALIDADE. SENTENÇA INTOCADA. DESPROVIMENTO.
+- Nos termos do art. 355, do Código de Processo Civil, é permitido ao julgador, após a formação do seu convencimento, proceder com o imediato julgamento do processo, desde que os elementos trazidos aos autos sejam suficientes para a devida apreciação da controvérsia discutida em juízo, sem que tal proceder implique em cerceamento do direito de defesa.
+- O art. 206, §5º, I, do Código de Processo Civil, estabelece que "prescreve em cinco anos, a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular".
+- É firme o entendimento do Superior Tribunal de Justiça, sedimentado pela nova sistemática processual, com a redação do art. 785, no sentido de que à parte é permitido optar pelo processo de conhecimento, mesmo quando existente título executivo extrajudicial em seu favor- Considerando que o título executado na presente ação, trata-se de Contrato de Abertura de Crédito, firmado por pessoa jurídica, com o propósito de incentivar sua atividade negocial, não se pode qualificá-la como destinatária final, conforme exige o art. 2º do Código de Defesa do Consumidor, razão pela qual, sobre a relação estabelecida entre as partes, não incide as normas protetivas do Código de Defesa do Consumidor.
+- Nos termos da Lei nº 4.495/64 e da Súmula nº 596 do Supremo Tribunal Federal, a limitação dos juros a 12%(doze por cento) ao ano constante do Decreto nº 22.626/33deve ser afastada, haja vista a aludida norma não incidir sobre as operações realizadas por instituições do SistemaFinanceiro Nacional.
+- É dever da parte a quem aproveita, demonstrar que o índice de juros aplicado no contrato, a deixa em excessiva desvantagem com relação àqueles habitualmente aplicados no mercado à época da celebração do negócio jurídico em discussão.
+- No que diz respeito à capitalização de juros, a MP nº1.963-17/2000, reeditada sob o nº 2.170-30/2001, passou a admiti-la nos contratos firmados posteriormente à sua vigência, desde que haja expressa previsão contratual.
+- A jurisprudência do Superior Tribunal de Justiça considerou dotada de clareza e precisão para se aferir a pactuação expressa da capitalização dos juros, a exposição numérica, no instrumento contratual, da taxa anual superior ao duodécuplo da taxa mensal, situação verificada no instrumento contratual em debate.
+Opostos embargos de declaração (fl. 335/346, e-STJ), esses foram rejeitados.
+Em suas razões recursais (fls. 368/386, e-STJ), a insurgente apontou, alémde dissídio jurisprudencial, violação aos artigos 357, 7º, 9º e 10 doCódigo deProcesso Civil/15.Sustentou, emsíntese, cerceamento de defesa em razão do indeferimento da produção daprova pericial requerida.
+Contrarrazões às fls. 435/440, e-STJ.
+Em juízo de admissibilidade (fls. 457/463, e-STJ), negou-se oprocessamento do recurso especial, em razão da incidência das Súmulas 282 e 356 do STF e 7 do STJ.
+Daí o agravo (fls. 466/478, e-STJ), buscando destrancar o processamentodaquela insurgência, no qual a insurgente refutou os óbices aplicados pelaCorte estadual.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. No tocante ao alegado cerceamento de defesa ante o indeferimento daprodução da prova pericial, o Tribunal local assim concluiu (fls. 302/304,e-STJ):
+Inicialmente cumpre apreciar as preliminares arguidas nas razões de recurso, quais sejam, o cerceamento do direito de defesa, a prescrição e o descabimento da Ação Monitória. Passo a analisá-las uma a uma.
+Com relação ao cerceamento do direito de defesa, entendo que não merece guarida, posto que de uma simples análise do contrato colacionado aos autos, é possível atestar a incidência dos tipos de encargos incidentes sobres as prestações do ajuste negocial, de modo que se revela desnecessária a realização de uma perícia técnica oficial.
+Tanto é que, a própria apelante, em suas razões recursais ,insurgiu-se com especificidade em face das cláusulas constantes no contrato, e que, em seu entender, lhe colocavam em situação de desvantagem.
+Nesse trilhar, por comportar a presente hipótese questão meramente de direito a reclamar o julgamento antecipado da lide, demonstra-se dispensável a produção probatória, não se traduzindo, sob qualquer aspecto, em cerceamento do direito de defesa, tampouco implicando em encerramento precoce da instrução probatória.
+(..)
+Ademais, nos moldes do art. 370, do Código de Processo Civil, é facultado ao julgador, interromper a marcha processual, e, portanto, indeferiras provas que refutar inúteis, sempre que a questão controvertida já esteja devidamente esclarecida, situação evidenciada na espécie.
+Logo, desnecessário a realização de prova pericial contábil, para elaboração dos cálculos a fim de aferir o real débito existente no contrato, uma vez que a matéria trazida aos autos é eminentemente de direito, inexistindo qualquer comprometimento à higidez do presente feito.
+Como se vê, o acórdão recorrido está em consonância com a jurisprudênciadesta Corte, no sentido de que cabe ao juiz decidir sobre a produção deprovas necessárias, ou indeferir aquelas que tenha como inúteis ouprotelatórias, de acordo com o art. 370, CPC/15, não implicandocerceamento de defesa o indeferimento da dilação probatória, notadamentequando as provas já apresentadas pelas partes sejam suficientes para aresolução da controvérsia.
+O Tribunal local, após a análise do conjunto probatório constante dosautos, considerou que se insere no poder de livre apreciação da prova domagistrado decidir sobre a necessidade da produção de provas. Rever talentendimento demandaria o reexame do contexto fático probatório dos autos,o que é vedado pela Súmula 7 do STJ.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇO DEAUDITORIA FINANCEIRA. AÇÃO MONITÓRIA. HONORÁRIOS AD EXITUM. PRODUÇÃO DEPROVAS. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DEDEFESA. ANÁLISE.IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Segundo jurisprudência do STJ, ao juiz, como destinatário da prova,cabe indeferir as que entender impertinentes, sem que tal impliquecerceamento de defesa. Incidência da Súmula 7 do STJ.
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp1.044.194/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgadoem 19/10/2017, DJe 27/10/2017).
+2. Por fim, importante consignar que esta Corte de Justiça tementendimento no sentido de que a incidência da Súmula 7/STJ impede o examede dissídio jurisprudencial, na medida em que falta identidade entre osparadigmas apresentados e os fundamentos do acórdão, tendo em vista asituação fática do caso concreto, com base na qual deu solução a causa aCorte de origem.
+A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA. DANOSMORAIS E MATERIAIS. CONCLUSÃO ESTADUAL NO SENTIDO DA OCORRÊNCIA. MATÉRIAFÁTICO-PROBATÓRIA E TERMOS CONTRATUAIS. SÚMULAS 5 E 7/STJ. DISSÍDIOJURISPRUDENCIAL. IMPOSSIBILIDADE DE APRECIAÇÃO DADA A INCIDÊNCIA DA SÚMULA7/STJ. HONORÁRIOS RECURSAIS. AGRAVO INTERNO. NÃO CABIMENTO. AGRAVO INTERNODESPROVIDO.
+(..)
+3. Ademais, consoante iterativa jurisprudência desta Corte, aincidência da Súmula n. 7 do STJ impede o conhecimento do recursolastreado, também, pela alínea c do permissivo constitucional, uma vez quefalta identidade entre os paradigmas apresentados e os fundamentos doacórdão, tendo em vista a situação fática de cada caso.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1309907/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRATURMA, julgado em 08/10/2018, DJe 10/10/2018)
+3. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, negoprovimento ao agravo e, com base no art. 85, § 11, do CPC/2015, majoro em10% (dez por cento) o valor dos honorários sucumbenciais fixados peloTribunal de origem.
+Publique-se.
+Intimem-se.
