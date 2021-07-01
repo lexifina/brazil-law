@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AFRONTA AO ART. 1.022 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AFASTAMENTO DA MULTA APLICADA AOS EMBARGOS DE DECLARAÇÃO QUALIFICADOS NAS INSTÂNCIAS DE ORIGEM COMO PROTELATÓRIOS. SÚMULA 7/STJ.
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 1.022 do CPC quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+2. Ao abrir tópico específico para sustentar a tese de omissão, a argumentação da agravante foi genérica, conforme se verifica nas seguintes expressões utilizadas no Recurso Especial: "O v. acórdão é nulo por erro de procedimento pelo fato de ter deixado de se manifestar sobre questões relevantes da demanda trazidas aos autos pela RECORRENTE", "o v. acórdão recorrido restou omisso com relação à análise da violação a dispositivos legais e constitucionais", e"a não apreciação pelo E. Tribunal a quo de todos os pedidos e questões de mérito essenciais suscitadas pela RECORRENTE caracteriza negativa de prestação jurisdicional e ofende os artigos indicados" (fls. 397-398, e-STJ).
+3. O Tribunal de origem aplicou multa por considerar protelatórios os Embargos de Declaração, ao argumento de que reiteraram pedido de análise de matéria já enfrentada e rechaçada anteriormente. A revisão desse entendimento é obstada pelo enunciado da Súmula 7/STJ.
+4. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que não conheceu do Recurso Especial.
+A agravante impugna a aplicação da Súmula 284/STF. Afirma que indicou, nos Embargos de Declaração opostos na Corte estadual, ter ocorrido violação do art. 1.022 do CPC, diante da ausência de análise a respeito do adicional de alíquota para financiamento dos Fundos Estaduais de Combate à Pobreza (FECP). A demonstração da omissão, acima indicada, seria suficiente, também, para mostrar a necessidade de afastamento da multa aplicada nas instâncias de origem, pois o recurso integrativo não pode ser considerado protelatório.
+Foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AFRONTA AO ART. 1.022 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AFASTAMENTO DA MULTA APLICADA AOS EMBARGOS DE DECLARAÇÃO QUALIFICADOS NAS INSTÂNCIAS DE ORIGEM COMO PROTELATÓRIOS. SÚMULA 7/STJ.
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 1.022 do CPC quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+2. Ao abrir tópico específico para sustentar a tese de omissão, a argumentação da agravante foi genérica, conforme se verifica nas seguintes expressões utilizadas no Recurso Especial: "O v. acórdão é nulo por erro de procedimento pelo fato de ter deixado de se manifestar sobre questões relevantes da demanda trazidas aos autos pela RECORRENTE", "o v. acórdão recorrido restou omisso com relação à análise da violação a dispositivos legais e constitucionais", e "a não apreciação pelo E. Tribunal a quo de todos os pedidos e questões de mérito essenciais suscitadas pela RECORRENTE caracteriza negativa de prestação jurisdicional e ofende os artigos indicados" (fls. 397-398, e-STJ).
+3. O Tribunal de origem aplicou multa por considerar protelatórios os Embargos de Declaração, ao argumento de que reiteraram pedido de análise de matéria já enfrentada e rechaçada anteriormente. A revisão desse entendimento é obstada pelo enunciado da Súmula 7/STJ.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 4 de maio de 2021.
+Não procede a irresignação da agravante.
+Com efeito, a menção ao ponto omisso foi feita em parágrafo isolado do Recurso Especial. Ao abrir tópico específico para sustentar a tese de omissão, a argumentação da agravante foi genérica, conforme se verifica na transcrição abaixo (fls. 397-398, e-STJ):
+O v. acórdão é nulo por erro de procedimento pelo fato de ter deixado de se manifestar sobre questões relevantes da demanda trazidas aos autos pela RECORRENTE, não obstante a oposição de embargos de declaração para esta finalidade.
+Isso porque, conforme demonstrado nas razões dos embargos de declaração opostos pela RECORRENTE, o v. acórdão recorrido restou omisso com relação à análise da violação a dispositivos legais e constitucionais que dão suporte às razões e pedidos formulados pela RECORRENTE.
+(..)
+Portanto, nele está compreendida a entrega da prestação jurisdicional da forma mais completa e convincente possível.
+Assim, omisso o provimento jurisdicional, em que pese a interposição de embargos de declaração, persistindo o vício de procedimento, forçoso é configurar a nulidade do julgado.
+(..)
+Como se vê, a não apreciação pelo E. Tribunal a quo de todos os pedidos e questões de mérito essenciais suscitadas pela RECORRENTE caracteriza negativa de prestação jurisdicional e ofende os artigos indicados.
+Por tais razões, deve ser considerado nulo o v. acórdão recorrido, a fim de que seja proferido outro, com a análise de todos os fundamentos apresentados pela RECORRENTE e a solução da controvérsia relativa, sem os vícios apontados naqueles embargos de declaração oportunamente opostos.
+Como se verifica, em momento algum a parte agravante especificou quais seriam as "questões relevantes", ou os "dispositivos legais e constitucionais", sendo importante esclarecer que a argumentação necessária não se limita a identificar os pontos reputados omissos, mas sim desenvolver argumentação descritiva a respeito da relevância desses pontos para a solução da lide.
+A rigor, cumpre observar que, segundo o relatório do acórdão hostilizado, a tese de inexigibilidade do adicional de alíquota para o FECP encontrava-se apoiada apenas na premissa de que não seria devido o chamado "imposto principal" (fl. 345, e-STJ). Como o Tribunal de origem entendeu constitucional a exigibilidade do imposto principal, tem-se que, em tese, estaria prejudicada a discussão a respeito do adicional de alíquota para o FECP. Tal circunstância, por si só, reforça a necessidade, não atendida pela agravante, de apresentar argumentação sólida, descritiva a respeito da suposta omissão apontada no acórdão recorrido.
+Em relação à multa aplicada pelo Tribunal a quo com base no art. 1.026 do CPC, igualmente deve ser mantida a decisão agravada, pois, nas circunstâncias do caso concreto, o seu afastamento somente seria possível se reconhecida a existência de omissão no julgado, o que não ocorreu. Assim, reitera-se que o Tribunal de Justiça do Estado de Minas Gerais de origem expressamente admitiu a utilização dos Embargos de Declaração para fins de prequestionamento, e, nessa hipótese, acrescentou que não aplica multa pela utilização de recurso protelatório. Entretanto, na hipótese em tela, fundamentou a imposição de multa ao fundamento de que o recurso integrativo apenas reiterou matéria já deduzida e rechaçada, o que evidencia que o ponto não comporta exegese da legislação federal, mas superação de premissa fática, vedada nos termos da Súmula 7/STJ.
+Com essas considerações, nego provimento ao Agravo Interno.
+É como voto.
