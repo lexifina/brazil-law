@@ -1,0 +1,30 @@
+DECISÃO
+1. Com efeito,o recorrente sustenta que o crédito exequendo é concursal e e deve ser submetido aos termos do plano de recuperação judicial. Defende, para tanto, que o critério para averiguar a submissão do crédito à recuperação judicial é a data do trânsito em julgado da ação de conhecimento.
+No dia 09/12/2020 a Segunda Seção deste Tribunal Superior, no julgamento do REsp 1842911/RS, submetido à sistemática dos recursos repetitivos, firmou a seguinte tese quanto ao tema:
+"Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador."
+Eis a ementa do julgado:
+RECURSO ESPECIAL REPETITIVO. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO. EXISTÊNCIA. SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. ART. 49, CAPUT, DA LEI Nº 11.101/2005. DATA DO FATO GERADOR.
+1. Recurs o especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ação de obrigação de fazer, cumulada com reparação de danos e devolução dos valores pagos indevidamente. Discussão acerca da sujeição do crédito aos efeitos da recuperação judicial.
+3. Diante da opção do legislador de excluir determinados credores da recuperação judicial, mostra-se imprescindível definir o que deve ser considerado como crédito existente na data do pedido, ainda que não vencido, para identificar em quais casos estará ou não submetido aos efeitos da recuperação judicial.
+4. A existência do crédito está diretamente ligada à relação jurídica que se estabelece entre o devedor e o credor, o liame entre as partes, pois é com base nela que, ocorrido o fato gerador, surge o direito de exigir a prestação (direito de crédito).
+5. Os créditos submetidos aos efeitos da recuperação judicial são aqueles decorrentes da atividade do empresário antes do pedido de soerguimento, isto é, de fatos praticados ou de negócios celebrados pelo devedor em momento anterior ao pedido de recuperação judicial, excetuados aqueles expressamente apontados na lei de regência.
+6. Em atenção ao disposto no art. 1.040 do CPC/2015, fixa-se a seguinte tese: Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.
+7. Recurso especial provido. (REsp 1.842.911/RS, Rel. Min. RICARDO VILAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 09/12/2020, DJe 17/12/2020)
+Portanto, nos termos dos arts. 1.040, II e 1.041, do CPC/15, determino o retorno dos autos ao Juízo de origem, para análise de eventual juízo de retratação.
+2. Por oportuno, salientoque o despacho que determina a baixa dos autos ao Tribunal de origem, para observância da sistemática do 1.040 e 1.041 do Código de Processo Civil de 2015, carece de conteúdo decisório, razão pela qual é irrecorrível.
+Nesse sentido, os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS À ORIGEM PARA A OBSERVÂNCIA DA SISTEMÁTICA DOS RECURSOS REPETITIVOS. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Conforme entendimento jurisprudencial adotado por esta Colenda Corte, a decisão que determina o retorno dos autor para origem, a fim de que seja observada a sistemática dos recursos repetitivos (juízo de conformação) é irrecorrível, por não se revelar capaz de gerar prejuízo às partes. Precedentes.
+2. Agravo interno não conhecido. (AgInt no REsp 1614945/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/04/2018, DJe 18/04/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. DESPACHO QUE DETERMINA REMESSA AO TRIBUNAL DE ORIGEM PARA REEXAME CONFORME ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO, NOS TERMOS DO ART. 1.040, II, DO CPC/2015. AUSÊNCIA DE CONTEÚDO DECISÓRIO. IRRECORRIBILIDADE. AGRAVO INTERNO NÃO CONHECIDO.
+1. A jurisprudência do STJ é pacífica no sentido de que o despacho que determina a baixa dos autos ao Tribunal de origem, para observância da sistemática do art. 543-C, § 7º, do CPC, carece de conteúdo decisório, razão pela qual é irrecorrível.
+2. Agravo interno não conhecido. (AgInt no REsp 1554716/PE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/03/2017, DJe 20/04/2017, grifado)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO QUE DETERMINA O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA, APÓS O JULGAMENTO DE RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA REPETITIVA, EFETIVAR O JUÍZO DE CONFORMIDADE DA CONTROVÉRSIA. ARTS. 1.039 E 1.040 DO CPC/2015. AUSÊNCIA DE PREJUÍZO NO SOBRESTAMENTO. IRRECORRIBILIDADE. PRECEDENTES. ART. 265-L DO REGIMENTO INTERNO DO STJ (EMENDA REGIMENTAL N. 24 DE 28/9/2016). AGRAVO INTERNO NÃO CONHECIDO.
+1. Não se deve conhecer do recurso de agravo interno impugnando a decisão que determinou a devolução dos autos ao Tribunal de origem para que observe a sistemática prevista nos arts. 1.040 e 1.041 do Código de Processo Civil de 2015, tendo em vista que o aludido sobrestamento não é capaz de gerar nenhum prejuízo às partes, motivo pelo qual é irrecorrível.
+2. Agravo interno não conhecido. (AgInt no REsp 1594317/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/09/2018, DJe 20/09/2018)
+PROCESSUAL CIVIL. MATÉRIA OBJETO DE RECURSO ESPECIAL REPETITIVO. DEVOLUÇÃO AO TRIBUNAL A QUO.
+1. Julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos sobre a mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõem os arts. 1.040 do CPC/2015 e 34, XXIV, do RISTJ.
+2. Agravo interno não conhecido. (AgInt no AREsp 729.327/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/11/2017, DJe 05/02/2018, grifado)
+3. Ante o exposto, determino a restituição dos autos à origem, devendo ser realizada a devida baixa nesta Corte Superior, para eventual exercício de juízo de retratação, conforme a sistemática dos arts. 1.040, II e 1.041, ambos do Código de Processo Civil de 2015.
+Publique-se. Intimem-se.
