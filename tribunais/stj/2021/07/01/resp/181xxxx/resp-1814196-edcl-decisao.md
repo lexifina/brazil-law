@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ELISEU DE LEMOS DIAS em face da r. decisãomonocrática de fls. 316/319-eSTJ, que conheceu do agravo,interposto por BANCO DE BRASIL SA,para dar provimento ao recurso especial, determinando a integral suspensão do cumprimento provisório de sentença em curso, até o julgamento dos embargos de divergência ou a eventual cassação do efeito suspensivo que lhe foi atribuído (EREsp 1.319.232/DF).
+No presente recurso, a parte embargante alega, em síntese, que, " in casu, NÃO se trata de cumprimento provisório de sentença, mas sim de cumprimento DEFINITIVO de sentença, formulado nos termos do art. 475-J do CPC/1973, atual art. 523, § 1º do CPC/2015, porquanto o título executivo objeto da lide é a decisão condenatória proferida por esta Corte Superior no julgamento do REsp. nº 1.331.819/RS que julgou procedente a ação ordinária individual (processo nº 001/1.09.0361027-6) ajuizada apenas contra o banco executado/recorrente e que transitou em julgado em 13/08/2014. " (fl. 323).
+Afirma, também, que "a presente demanda NÃO tem relação alguma com a Ação Civil Pública proposta pelo Ministério Público Federal contra o Banco do Brasil, Bacen e União, visto que se trata de ação ordinária individual, cujo título exequendo é a decisão prolatada por esta Corte no julgamento do REsp. nº 1.331.819/RS, que transitou em julgado em 13/08/2014 e fez coisa julgada, a teor do art. 502, 503, 505, 506, 507 e 508 do vigenteCPC, razão pela qual a suspensão é incabível no caso sob enfoque, tendo em vista que o que restou decidido na fase cognitiva não pode mais ser alterado." (fls. 328/329)
+A parte contrária apresentou impugnação às fls. 333/342.
+É o relatório. Passo a decidir.
+De uma leitura atenta das razões recursais, observo que se revelamplausíveis as alegações apresentadas pelo embargante.
+Compulsando os autos, verifica-se que, de fato, o feito não se trata de cumprimento provisório da sentença proferida nos autos da Ação Civil Pública n. 94.008514-1, mas, sim, cumprimento de sentença definitiva de processo envolvendo apenas as duas partes, que transitou em julgado em 08/2014.
+Em razão do erro material/contradição apontada, torno sem efeito a decisão de fls.316/319, restando prejudicadas as demais alegações.
+Diante do exposto, acolho os presentem embargos de declaração e torno semefeito a decisão de fls. 316/319(e-STJ)
+Após, retornem os autos conclusos para apreciação do recurso especial defls. 225/236.
+Publique-se. Intimem-se.
