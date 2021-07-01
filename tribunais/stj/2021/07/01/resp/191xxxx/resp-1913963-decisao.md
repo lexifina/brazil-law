@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto pela União (Fazenda Nacional), com fundamento no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido Tribunal Regional Federal da 4ª Região assim ementado:
+MANDADO DE SEGURANÇA. PEDIDO ADMINISTRATIVO DE RESSARCIMENTO DE CRÉDITOS. PROCEDIMENTO ESPECIAL. PORTARIA MF Nº 348, DE 2010. ANTECIPAÇÃO DE VALORES. PAGAMENTO EM 30 DIAS. DEMORA NA APRECIAÇÃO. CORREÇÃO MONETÁRIA. TAXA SELIC. TERMO INICIAL. COMPENSAÇÃO DE OFÍCIO. EXIGIBILIDADE SUSPENSA.
+1. De acordo com a Portaria MF nº 348, de 2010, no prazo máximo de 30 (trinta) dias, contados da data do Pedido de Ressarcimento dos créditos, o órgão fiscal deverá efetuar o pagamento de 50% (cinquenta por cento) do valor pleiteado por pessoas jurídicas, desde que atendidos os requisitos especificados.
+2. Apurada a mora do Fisco no pagamento da antecipação, deve ser aplicada a Taxa SELIC a partir do final do prazo estabelecido para conclusão do pedido, observado o atual entendimento do Superior Tribunal de Justiça.
+3. É indevida a compensação de ofício dos créditos reconhecidos administrativamente com débitos do contribuinte que estejam com a exigibilidade suspensa, ainda que sem garantia, considerado o reconhecimento da inconstitucionalidade do do parágrafo único do art. 73 da Lei nº 9.430, de 1996, incluído pela Lei nº 12.844, de 2013, pela Corte Especial deste Tribunal no julgamento da Argüição de Inconstitucionalidade n. 5025932-62.2014.404.0000.
+Foi atribuído à causa o valor de R$ 124.231,65 em 09 de julho de 2018.
+Os embargos de declaração opostos contra o acórdão supracitado foram rejeitados.
+No presente recurso especial, a parte recorrente indica a violação do art. 24 da Lei 11.457/2007, afirmando, em síntese, que a correção monetária deve incidir após a fluência do prazo de 360 dias, contados do protocolo dos pedidos.
+Adiante afirma, em resumo, que as portarias 348 de 2010 e 348 de 2014, ambas do Ministro de Estado da Fazenda instituíram procedimento especial para o ressarcimento de créditos da contribuição para o PIS, COFINS e IPI, consistindo, no adiantamento de 70% ou 50% do valor pleiteado, atendidas determinadas condições, no prazo de 30 dias contados da data do pedido de ressarcimento, mas tal procedimento não deslustra o ter do art. 24 da Lei 11457/2007, que fixa o prazo de 360 dias para decisão administrativa do pedido do contribuinte.
+Pleiteia a aplicação do entendimento sufragado no tema 1003 do STJ.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O presente feito não é cognoscível.
+É que o Tribunal a quo ao julgar a controvérsia, além de analisar outras questões não impugnadas no presente recurso especial, aplicou exatamente a tese defendida pelo recorrente, no sentido da aplicação do tema 1.003/STJ, conforme se observa do seguinte excerto do acórdão recorrido, in verbis:
+Por outro lado, no que se refere à correção monetária, é orientação pacificada no âmbito das turmas com competência tributária do STJ, a qual ora adoto, que incide correção monetária sobre os créditos objeto de pedido de ressarcimento, quando há oposição ao seu aproveitamento decorrente de resistência ilegítima do Fisco, devendo utilizar-se a taxa SELIC ((AgRg no REsp 1468055/PR, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 19/05/2015, DJe 26-05-2015).
+Quanto ao seu termo inicial, adoto a orientação consolidada no âmbito do Superior Tribunal de Justiça (STJ), no julgamento do Tema nº 1.003 dos recursos repetitivos, mediante acórdão assim sintetizado: (..)
+Nesse panorama, verifica-se que no recurso especial a recorrente, a despeito de não ter impugnado outras questões, não vai de encontro à manifestação encimada - aplicação do tema 1003 do STJ -, ao contrário, chancela o referido entendimento, restando portanto deficiente sua peça recursal pela impossibilidade de compreensão da controvérsia.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
