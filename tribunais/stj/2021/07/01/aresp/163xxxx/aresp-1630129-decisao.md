@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALONSO OLEGARIO DOS SANTOS FILHOcontra a decisão proferida pelo Tribunal de Justiça do Estado de Minas Gerais que não admitiu seu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 396/400, in verbis:
+Trata-se de agravo em recurso especial interposto por Alonso Olegario dos Santos Filho contra decisão da Terceira Vice-Presidência do Tribunal de Justiça do Estado de Minas Gerais, que negou seguimento ao recurso especial por ele manejado.
+Consta dos autos que o agravante foi condenado à pena de 9 anos, 8 meses e 20 dias de reclusão, em regime inicial fechado, e a 972 dias-multa, pela prática do crime de tráfico interestadual de drogas (artigo 33 c/c art. 40-V da Lei 11.343/06).
+Inconformado, o agravante interpôs recurso de apelação, ao qual a Corte estadual concedeu parcial provimento nos termos da seguinte ementa:
+ ..
+Foram opostos, ainda, embargos de declaração e embargos infringentes, que foram rejeitados.
+Neste recurso especial, com fundamento no art. 105-III-a da Constituição, a defesa afirma terem sido contrariados os artigos 59 do Código Penal e 42 da Lei 11.343/06, uma vez que a pena-base para o crime de tráfico de drogas foi fixada em patamar muito superior ao mínimo legal com base no desabono de apenas duas circunstâncias judiciais, a saber, os antecedentes criminais e a quantidade do entorpecente apreendido, o que seria exagerado e desproporcional. Requer, assim, o conhecimento e o provimento do recurso, a fim de que a fração de aumento da pena-base seja reduzida para 1/6 em relação a cada vetorial negativa, (fls. 339/347)
+Contrarrazões às fls. 353/357.
+O recurso foi inadmitido na origem com fundamento na Súmula 7/STJ (e-STJ fls. 359/363).
+Nas razões do agravo em recurso especial, a defesa sustenta "que não se pretende, de forma alguma, reavaliar as provas ou pressupostos fáticos já produzidos nos autos e devidamente apreciados tanto em primeira quanto em segunda instância. Na verdade, a fundamentação do recurso especial e o pedido nele constante giram em torno,exclusivamente, de questões de direito." (e-STJ fl. 369)
+Contraminuta à fl. 379/382.
+O Parquet opinou pelo provimento do recurso especial.
+É o relatório.
+Decido.
+A primeira etapa de fixação da reprimenda, como é cediço, tem como objetivo estabelecer a pena-base, partindo do preceito secundário simples ou qualificado do tipo incriminador, sobre o qual incidirão as circunstâncias judiciais descritas no art. 59 do Código Penal. As circunstâncias judiciais são valores positivos; para inverter essa polaridade, é imperioso ao prolator da sentença apresentar elementos concretos de convicção presentes no bojo do processo. Sendo assim, é inadmissível o aumento da pena-base com fundamento em meras suposições ou em argumento de autoridade. Não atende à exigência do art. 93, inciso IX, da Constituição Federal a simples menção aos critérios enumerados no art. 59 do Código Penal, sem anunciar os dados objetivos e subjetivos que a eles se amoldam, ou a invocação de fórmulas imprecisas em prejuízo do condenado.
+No que diz respeito ao quantum de aumento da pena-base, segundo a jurisprudência desta Corte, em razão da inexistência de determinação legal específica, é razoável e proporcional a fração de 1/6 (um sexto) calculada com base na pena mínima abstratamente prevista para cada vetorial negativa. O aumento superior a tal quantum necessita de fundamentação concreta.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO TENTADO. RES FURTIVA. VALOR SUPERIOR AO SALÁRIO MÍNIMO. RECONHECIMENTO DO PRIVILÉGIO DO ARTIGO 155, § 2º, DO CP. IMPOSSIBILIDADE. INAPLICABILIDADE DA SÚMULA Nº 511 DO STJ. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO DESPROPORCIONAL. APLICAÇÃO DA FRAÇÃO USUAL DE 1/6. CABIMENTO. PRECEDENTES. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR DUAS RESTRITIVAS DE DIREITOS. PRESTAÇÃO DE SERVIÇOS À COMUNIDADE E PRESTAÇÃO PECUNIÁRIA. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+ ..
+IV - A jurisprudência dominante desta Corte firmou-se no sentido de que, na falta de razão especial para afastar esse parâmetro prudencial, a exasperação da pena-base, pela existência de circunstâncias judiciais negativas, deve obedecer à fração de 1/6 para cada circunstância judicial negativa, fração que se firmou em observância aos princípios da razoabilidade e proporcionalidade. O aumento de pena superior a esse quantum, para cada vetorial desfavorecida, deve apresentar fundamentação adequada e específica, a qual indique as razões concretas pelas quais a conduta do agente extrapolaria a gravidade inerente ao teor da circunstância judicial.
+V - Na hipótese, na primeira fase da dosimetria, foi aplicado o acréscimo à pena-base em fração superior a 1/6 apenas pelo emprego da qualificadora do rompimento de obstáculo para fundamentar a negativação da vetorial circunstância do crime, sendo necessária a redução da exasperação, para se adequar aos parâmetros usualmente utilizados pela jurisprudência desta Corte.
+ ..
+Agravo regimental parcialmente provido apenas para aplicar o aumento da pena-base na fração de 1/6 (um sexto), em razão da presença de circunstância judicial desfavorável, e redimensionar a pena do agravante para 1 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão, mais pagamento de 9 (nove) dias-multa, mantidos os demais termos da condenação.
+(AgRg no HC 471.157/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 27/11/2018, DJe 3/12/2018, grifei.)
+Na hipótese, imperioso redimensionar a pena-base.
+Sendo assim, seguindo o referido parâmetro e as demais diretrizes traçadas pelas instâncias ordinárias, a pena definitivaestabelece-se em 6 anos, 5 meses e 23 dias de reclusão.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de redimensionar a pena para6 anos, 5 meses e 23 dias de reclusão.
+Publique-se. Intimem-se.
