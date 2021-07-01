@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interposto por CARLOS KLEBER ANDRADE ARIMATEA contra decisão proferida pela Vice-Presidência do Tribunal de Justiça do Estado do Ceará(e-STJ, fls. 190-193) que negou seguimentoao recurso especial apresentado,com base na conformidade do acórdão recorrido com as teses firmadas para os Temas 52, 246 e 247 dos Recursos Repetitivos, sobre a validade dacobrança de comissão de permanênciae dacapitalização de juros, respectivamente.
+Nas razões do presente agravo (e-STJ, fls. 195-203), a parte agravante alega a vedação à capitalização de juros, ainda que expressamente convencionada, nos termos do art. 4º doDecreto 22.626/1963 e daSúmula 121/STF.
+Contraminuta apresentada às fls. 207-213 (e-STJ).
+É o relatório. Decido.
+Segundo a orientação jurisprudencial desta Corte Superior, é incabível a interposição do agravo do agravo em recurso especial contra decisão denegatória de seguimento do recurso especial fundamentada em recurso repetitivo e proferida após a vigência do CPC/2015 (18/3/2016), pois o único recurso cabível é o agravo interno dirigido ao próprio Tribunal de origem, nos termos dos arts. 1.030, § 2º, e 1.042,caput, do CPC/2015 (v.g.AREsp 959.991/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/8/2016, DJe 26/8/2016; AgInt no AREsp 1.053.970/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/4/2017, DJe 12/5/2017; e AgInt no AREsp 982.074/PR, Rel. MINISTRA MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 25/10/2016, DJe 17/11/2016).
+Desse modo, considerando que a decisão agravada publicada em 5/11/2020 (e-STJ, fl. 194) está fundamentada na conformidade do acórdão recorrido com precedentes firmados em julgamentos de recursos repetitivos,não é possível o conhecimento do presente agravo acerca da validade da cobrança de capitalização de juros, tópicoobjeto danegativa de seguimento do recurso especial.
+Diante do exposto,não conheço do agravo em recurso especial.
+Publique-se.
