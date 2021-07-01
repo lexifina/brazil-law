@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MAURÍCIO DAL AGNOL em face de decisão de fls. 572/574.
+Em suas razões, a parte embargante questiona"a NÃO APLICAÇÃO DA TAXA SELIC (juros de mora), a qual por já trazer embutida em seus percentuais uma parte equivalente a correção monetária" (fl. 584).Acrescenta que a "não cumulatividade de tal taxa com outra correção monetária é a consequência da aplicação da lei, mas não é o ponto nodal da insurgência do presente recurso" (fl. 584).
+Intimada à fl. 599, não houve impugnação da parte embargada (fl. 600).
+O recurso não merece prosperar.
+Da leitura dos autos, não identificado, na decisão embargada, nenhum dos vícios necessários ao conhecimento dos embargos declaratórios, a teor do art. 1.022 do Código de Processo Civil/2015, adstrito à correção de omissão, contrariedade, obscuridade ou, ainda, erro material. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO. REITERAÇÃO DO MANEJO DE RECURSO DE CARÁTER MANIFESTAMENTE PROTELATÓRIO. PROCESSUAL CIVIL. OMISSÃO, CONTRADIÇÃO, ERRO MATERIAL OU OBSCURIDADE. INEXISTÊNCIA, AUSÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. RECURSO DE CARÁTER MERAMENTE INFRINGENTE. MANIFESTA INADEQUAÇÃO DA VIA RECURSAL ELEITA, A TORNAR INARREDÁVEL A MAJORAÇÃO DA MULTA ARBITRADA.
+1. Como dito no acórdão ora embargado, está expressamente consignado no acórdão do recurso especial que, à luz da própria causa de pedir dos embargos à execução e das decisões prolatadas pelas instâncias ordinárias, não há pertinência temática entre o tema controvertido e as atribuições do Banco Central e do CARF, que a recorrida pretendia fossem convidados a participar como amicus curiae. Por outro lado, ponderou-se que o art. 138 do novo CPC deixa claro que o Relator poderá, "por decisão irrecorrível", solicitar ou admitir a participação daquele que detém representatividade adequada, tendo sido, pelo motivo mencionado, indeferido o pedido/sugestão de inclusão de novos amici curiae.
+2. Salientou-se que o conteúdo das razões expostas nos primeiros aclaratórios revelam mero inconformismo, hipótese que não enseja a oposição de embargos de declaração.
+3. Embargos de declaração rejeitados, com aplicação da multa prevista no §3º do art. 1026 do Novo Código de Processo Civil. (EDcl nos EDcl no REsp 1726161/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/11/2019, DJe 03/12/2019)
+Observe-se que em sua petição a parte embargante, sequer, demonstra omissão, obscuridade ou contradição no julgado embargado, fazendo arguições genéricas e sem similitude com o disposto no art. 1.022 do Código de Processo Civil/2015.
+A decisão embargada abordou, expressamente, as questões que se pretenderam discutidas no especial, estando assim redigida (fls. 572/574):
+Trata-se de recurso especial interposto por MAURÍCIO DAL AGNOL contra acórdão assim ementado (fl. 434):
+APELAÇÃO SEGUNDA JURÍDICOS JUDICIAIS, CÍVEL. FASE. PELO AÇÃO DE EXIGIR DE CONTAS. SERVIÇOS PRESTAÇÃO DEMANDADO EM AÇÕES VISANDO A RECUPERAÇÃO DE TRIBUTOS RECOLHIDOS INDEVIDAMENTE PELOS CLIENTES DA PARTE AUTORA. PERCENTUAL QUE DEVERIA SER REPASSADO À AUTORA, RETIDO INDEVIDAMENTE PELO RÉU.
+HOMOLOGAÇÃO DA CONTA APRESENTADA PELO RÉU, ONDE RECONHECE A EXISTÊNCIA DE SALDO EM FAVOR DA PARTE AUTORA. INSURGÊNCIA APENAS EM RELAÇÃO AO TERMO INICIAL DOS JUROS MORATÓRIOS FIXADOS NA SENTENÇA. INCIDÊNCIA A CONTAR DO LEVANTAMENTO DO ALVARÁ. DEFINIDA MANUTENÇÃO, CONTUDO, DA DATA NA SENTENÇA, PARA EVITAR A REFORMATIO IN PEJUS. HONORÁRIOS DE SUCUMBÊNCIA DEVIDOS NA SEGUNDA FASE DA PRESTAÇÃO DE CONTAS.
+RECURSO DESPROVIDO.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 402/407).
+Em suas razões, o recorrente alega violação dos arts. 405 e 406 do Código Civil, bem como dissídio jurisprudencial, aduzindo que "os juros legais de mora têm como termo a quo a citação válida ocorrida na presente demanda" (fl. 466). Afirma, ainda, que "havendo decisão condenatória de pagamento ou indenização ou ressarcimento, a taxa SELIC será aplicada, SEM A CUMULAÇÃO com qualquer outro índice de correção monetária e sem qualquer outra taxa de juros" (fl. 475).
+Passo a decidir.
+O Tribunal de origem, ao julgar a apelação, manteve o decidido na sentença, assim se pronunciando (fl. 438):
+Destaco que os juros moratórios devem incidir desde o levantamento dos valores, por força do disposto no artigo 670 do Código Civil, porquanto se trata de retenção indevida de valores em proveito próprio.
+Entretanto, considerando o reconhecimento da incidência, pelo julgador a quo, a contar da data em que o réu prestou contas extrajudicialmente dos valores recebidos (fl. 307), deve ser mantida a sentença, para evitar a reformatio in pejus.
+Quanto aos juros de mora e correção, incidentes sobre os danos materiais, arbitrados em vista da retenção indevida de valores em contrato de mandato, a decisão recorrida está em consonância com a jurisprudência desta Corte, que possui entendimento no sentido de que "os juros moratórios devem incidir a partir do momento que o recorrente deveria ter repassado ao recorrido os valores recebidos durante o cumprimento do mandato" (AgRg no Ag n. 1152602/RS, Relator Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 22/9/2009, DJe 19/10/2009.).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AÇÃO DE PRESTAÇÃO DE CONTAS. MANDATO.
+ADVOGADO. OBRIGATORIEDADE. SALDO CREDOR APURADO NA SEGUNDA FASE. CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. INCIDÊNCIA ARTS.
+1.301 E 1.303, DO CÓDIGO CIVIL/1916. SÚMULA 43/STJ.
+(..) - Comete ilícitos contratuais o mandatário que não presta contas ao mandante e não lhe entrega o que recebeu em nome desse. Exegese dos arts. 1.301 e 1.303, ambos do Código Civil/1916 - Se o advogado não presta contas ao cliente por quantias recebidas no processo e é condenado em ação de prestação de contas, a correção monetária e os juros moratórios sobre o saldo credor devem incidir a partir do momento que deveria ter repassado ao cliente os valores recebidos durante o cumprimento do mandato. Incidência da Súmula n.º 43 do STJ e do art.
+1.303 do Código Civil/1916.
+- Incide correção monetária em todos os débitos judiciais, inclusive sobre o saldo credor apurado em sentença da segunda fase de ação de prestação de contas.
+Recurso especial não conhecido. (REsp n. 687.101/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 6/4/2006, DJ 2/5/2006)
+MANDATO. Juros. Termo inicial. Os juros devidos pelo mandatário que desvia o numerário devido ao mandante fluem desde a data do abuso, e não da interpelação ou da citação. Art. 1303 do CCivil.
+Recurso conhecido e provido. (REsp n. 249.382/RS, Relator Ministro RUY ROSADO DE AGUIAR, QUARTA TURMA, julgado em 18/5/2000, DJ 26/6/2000) Em relação à correção monetária também não há o que se reformar, pois, "Na linha dos precedentes desta Corte, a pactuação do IGPM como índice de correção monetária não encerra ilegalidade ou abusividade"(AgRg no REsp 1217531/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 12/5/2015, DJe 19/5/2015).
+Na mesma direção: REsp n. 1.921.41/RS, Relator Ministro LUIS FELIPE SALOMÃO, DJe de 16.3.2021.
+O acórdão recorrido em consonância com a orientação desta Corte, esbarrando o presente recurso no óbice da Súmula 83/STJ.
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso especial e, nos termos do art. 85, § 11, do Código de Processo Civil/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
+Em face do exposto, não configurado vício no julgado ora embargado, rejeito os embargos de declaração.
+Intimem-se.
