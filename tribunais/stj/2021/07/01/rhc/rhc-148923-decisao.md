@@ -1,0 +1,25 @@
+DECISÃO
+Neste recurso, que se volta contra o acórdão denegatório proferido pelo Tribunal de Justiça de Alagoasno HC n. 0800491-05.2020.8.02.9002(fls. 77/84), pretende-se a imediata revogação da prisão preventiva decretada em desfavor de Carlos Daniel Paulo Tavaresno Processo n. 0700534-58.2020.8.02.0069, pela suposta prática do crime descrito no art. 157, § 2º, II, do Código Penal, sob osargumentos, em suma, de nulidade dodecisumem razão da não realização deaudiência de custódia, por haver sido decretada de ofício, e dafalta de fundamentação idônea do decreto de prisão preventiva.
+À fl. 114, assim despachei:
+Antes de tomar qualquer decisão neste recurso, solicitem-se informações pormenorizadas ao Juízo de Direito da 5ª Vara Criminal da comarca de Arapiraca/ALsobre os fatos alegados na inicial, sobretudo se a prisão do recorrente Carlos Daniel Paulo Tavares foi decretada de ofício, no prazo de 72 horas, a serem prestadas, preferencialmente, pela Central do Processo Eletrônico - CPE do STJ, juntando-se documentos pertinentes.
+A solicitação deverá ser acompanhada da petição de fls. 90/97.
+Após, devolvam-se os autos para apreciação do pleito liminar.
+Em 21/6/2021, o Juízo de Direito da 5ª Vara da comarca de Arapiraca/ALprestou estas informações (fls. 116/117):
+ ..
+Versam os autos sobre Ação Penal Pública Incondicionada proposta pelo Ministério Público Estadual em face do paciente CARLOS DANIEL PAULO TAVARES, pela suposta prática do crime de Roubo Majorado, nos termos do artigo 157, § 2º, II do Código Penal, fato ocorrido em 26 de dezembro de 2020, na cidade de Feira Grande/AL.
+Em decisão de págs. 46/52 o flagrante foi homologado e convertida a prisão em flagrante em preventiva pelo Juízo Plantonista.
+Este Juízo da 5ª Vara de Arapiraca/Criminal (pág. 112- datado de 11 de janeiro de 2021) declinou a competência para julgar o feito para Comarca de Feira Grande/AL, uma vez que a infração consumou-se na zona rural da cidade de Feira Grande (visto depoimento prestado pela vítima à fl. 70).
+Verifica-se, em consulta ao sistema SAJ, que o Ministério Público, atuante na Comarca de Feira Grande/AL, ofertou denúncia às págs. 01/03, datada de 26 de janeiro de 2021.
+Consta, ainda, que o processo foi devidamente instruído pelo Juízo da Comarca de Feira Grande/AL, tendo sido proferida sentença condenatória em desfavor do paciente no dia 18 de abril de 2021, inclusive mantida a prisão preventiva do paciente (págs. 215/223).
+Houve interposição de recurso de apelação pela Defesa do paciente (págs. 226/235), tendo sido recebido pelo Juízo da Comarca de Feira Grande/AL (pág. 237) e, após apresentação de contrarrazões de recurso pelo Ministério Público (págs. 256/259), os autos foram encaminhados ao Egrégio Tribunal de Justiça de Alagoas no dia 17/05/2021.
+CONSTATA-SE QUE O JUÍZO COMPETENTE PARA JULGAR O FEITO, BEM COMO PRESTAR AS INFORMAÇÕES DO PRESENTE HC, É O JUÍZO DE FEIRA GRANDE/AL, CONTUDO, EM CONSULTA AO SISTEMA SAJ, NESTE MOMENTO O PROCESSO ENCONTRA-SE AGUARDANDO O JULGAMENTO DO RECURSO DE APELAÇÃO INTERPOSTO PELA DEFESA.
+ ..
+Conquanto devessem os presentes autos retornar a este Gabinetepara devido exame do pleito liminar, por equívoco, foram diretamente remetidos ao Ministério Público Federal, que, na oportunidade, opinou pelo desprovimento do recurso (fls. 120/123).
+É o relatório.
+As informações obtidas no endereço eletrônico do Tribunal a quodão conta de que, em 21/4/2021 (posteriormente àpresente interposição recursal), foi proferida sentença no Processo n. 0700534-58.2020.8.02.0069, condenando Carlos Daniel Paulo Tavaresa cumprir a pena de 6 anos e 4mesesde reclusão, em regime inicial fechado, e ao pagamento de 146dias-multa, como incurso noart. 157, § 2º, II, do Código Penal. Na oportunidade, negou-lhe o recurso em liberdade.
+Desse modo, na linha da jurisprudência desta Corte, fica prejudicado o pedido de análise dos fundamentos da prisão preventiva, uma vez que a custódia decorre, agora, de título diverso, consubstanciado em novo fundamento:osefeitos da condenação (cumprimento de pena e regime prisional aplicado), cujo requisito específico, desafia, portanto, impugnação própria perante o Tribunal de origem. Nesse sentido, os seguintes julgados: AgRg no RHC n. 112.178/SP, Ministra Laurita Vaz, Sexta Turma, DJe 15/6/2020; AgRg no RHC n. 92.522/AL, da minha relatoria, Sexta Turma, DJe 16/3/2020; eAgRg no RHC n. 110.729/MA, da minha relatoria, Sexta Turma, DJe 20/2/2020.
+Tal o contexto, julgo prejudicado o presente recurso em habeas corpus (arts.38 da Lei n. 8.038/1990 e 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIMEDESCRITONOART. 157, § 2º, II, DO CP. CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO FUNDAMENTO. EFEITOS DA CONDENAÇÃO (QUANTIDADE DA PENA E REGIME DE CUMPRIMENTO APLICADO). NOVO TÍTULO JUDICIAL LEGITIMADOR DA CONSTRIÇÃO CAUTELAR, QUE DEVE SER ANTES SUBMETIDO À ANÁLISE DO TRIBUNAL A QUO. PRECEDENTES DESTA CORTE SUPERIOR. PERDA DE OBJETO.
+Recurso prejudicado.
