@@ -1,0 +1,31 @@
+Decisão:
+    Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada por Miguel dos Santos Veloso contra decisão do Superior Tribunal de Justiça (STJ), por alegada “usurpa[ção d]a competência do Plenário do STF […] para ampliar o limite e alcance do Enunciado 343 da Súmula do STF”, de acordo com os arts. 7º, VII e 102, do RISTF; bem como por “negar vigência à legislação federal, atraindo a aplicação ao Enunciado 10º da Súmula Vinculante do STF” (sic).
+    O reclamante informa que o STJ não conheceu da Reclamação nº 35529, ajuizada naquela Corte para preservar sua competência “para alterar formalmente o Verbete da 214 Súmula do STJ e, ao mesmo tempo, garantir a autoridade do Enunciado 214 da Súmula do STJ”.
+    No ponto, pondera que a Reclamação nº 35529 está fundamentada “na doutrina dos professores Fred Didier e Leonardo Carneiro da Cunha […] que […] defendem a possibilidade de reclamação interna para manutenção da coerência, integridade e estabilidade da jurisprudência, nos termos dos artigos 926/927 do CPC”.
+    Miguel dos Santos Veloso sustenta que, na análise da Reclamação nº 35529, o STJ deixou de observar “mandamento expresso do §1°, do art. 988 do CPC, que autoriza a reclamação interna para a preservação da competência de ‘órgão’ tribunal”.
+    Alega que
+    “[o] próprio STJ já esclareceu que NUNCA a Súmula 214/STJ autorizou a confusão entre aditamento temporal e prorrogação contratual, devendo prevalecer o art. 1500 do CC/16 ou o art. 835 do CC/02 (Vide RESP 821953).
+    9. Negar vigência ao Código Civil (art. 835 CC) e ao CPC (Artigos 926/927 do CPC) é uma declaração velada de inconstitucionalidade que contraria a Súmula Vinculante 10 do STF. [...]
+    10. Como explicado pelo próprio STJ (Ex: RESP 821953) é inaplicável a Súmula 214/STJ ao caso, devendo prevalecer a norma secular do Código Civil (art. 1500 CC/16 atual art. 835 do CC/02). A 3ª Turma do STJ esvaziou a norma do art. 835 do CC, que obriga o fiador até sua exoneração.”
+    O reclamante requer que seja julgada procedente a presente ação “
+    “para cassar o acórdão reclamado que usurpa a competência constitucional do STF e afronta a Súmula Vinculante 10, uma vez que há evidente contrariedade aos precedentes das Súmulas 343/STF e 214/STJ, negando vigência aos artigos 926/927 do CPC e 835 do CC.”
+    É o relato do necessário. Decido.
+    A presente ação constitucional volta-se contra decisão do STJ, nos autos de reclamação (Pet nº 14291) para questionar decisão no REsp nº 1.557.381/MG.
+    A Pet nº 14291 não foi conhecida pela autoridade reclamada, aplicando-se iterativa jurisprudência do STJ no sentido do não cabimento de reclamação para questionar decisão da própria Corte.
+    Miguel dos Santos Veloso propõe a presente ação constitucional, renovando irresignação apresentada na Pet nº 14291 quanto à solução dada ao REsp nº 1.557.381/MG, cuja ementa transcrevo:
+    “AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. DISPOSIÇÃO DE LEI. VIOLAÇÃO. NÃO OCORRÊNCIA. INTERPRETAÇÃO CONTROVERTIDA. SÚMULA Nº 343/STF. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ). 2. Não cabe ação rescisória por ofensa a literal disposição de lei quando a decisão rescindenda tiver se baseado em texto legal de interpretação controvertida nos tribunais (Súmula nº 343/STF). 3. Agravo interno não provido"
+    Da extensa e confusa peça vestibular, bem como da análise dos documentos juntados aos autos e do acesso às decisões do Superior Tribunal de Justiça na Pet nº 14291, depreende-se que Miguel dos Santos Veloso não se conforma com o não cabimento de ação rescisória por si ajuizada tendo como objeto decisão sobre controvérsia relacionada a fiança locatícia, cuja solução apoiou-se em entendimento consubstanciado na Súmula nº 214/STJ, com a seguinte redação:
+    “O fiador na locação não responde por obrigações resultantes de aditamento ao qual não anuiu.”
+    O que se tem é que a Corte Superior de Justiça assentou, no REsp nº 1.557.381/MG, o não cabimento da pretensão de Miguel dos Santos Veloso porquanto, ao tempo em que proferida a decisão rescindenda, o texto legal de referência (art. 835 do CC) era controvertido nos tribunais.
+    A temática decidida pelo STJ tem natureza estritamente infraconstitucional, não havendo qualquer usurpação da competência do Supremo Tribunal Federal quando aquela Corte, para reforço de seu entendimento, faz referência à Sumula nº 343/STF.
+    Também não há que se falar em negativa de vigência ao art. 835 do CC ou ao arts. 926 e 927 do CPC (com violação à Súmula Vinculante nº 10), tampouco superação ou alteração da Súmula nº 343/STF (com alegada usurpação da competência do STF) pelo Superior Tribunal de Justiça ao assentar o não cabimento da Pet nº 14291 para questionar decisão da própria Corte no REsp nº 1.557.381/MG.
+    O Superior Tribunal de Justiça atuou na Pet nº 14291 nos estritos limites de sua competência para decidir reclamação proposta naquela Corte.
+    Ante o exposto, neo seguimento à reclamação constitucional (RISTF, art. 21, § 1º).
+    Observo ainda que o reclamante não cumpriu integralmente os requisitos da petição inicial, deixando de indicar o valor da causa, a parte beneficiária da decisão apontada como reclamada e o endereço no qual deverá ser citada para integrar a presente reclamação (arts. 291 e 989, III c/c art. 319, incisos II e V, do CPC/2015).
+    Deixo de determinar sua emenda (art. 321 do CPC) ante o indeferimento liminar da inicial. Entretanto, na eventualidade de interposição de recurso desta decisão, seu conhecimento fica condicionado ao saneamento dos defeitos juntamente com a peça recursal, oportunidade em se procederá à análise a correção do valor da causa e eventual juízo de adequação (CPC/2015, art. 292, §3º).
+    Considerando que o uso de meios processuais manifestamente inadmissíveis gera efeitos danosos à prestação jurisdicional, as reclamantes ficam também advertidas, na hipótese de recurso dessa decisão, da possibilidade de aplicação ipso facto da multa processual prevista no art. 1.021, §4º, do CPC/2015.
+    Publique-se. Int..
+    Brasília, 1º de julho de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
