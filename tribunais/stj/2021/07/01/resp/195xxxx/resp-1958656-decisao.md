@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+"DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. ARROLAMENTO SUMÁRIO. FORMAL DE PARTILHA. EXPEDIÇÃO. COMPROVAÇÃO DE QUITAÇÃO DASOBRIGAÇÕES TRIBUTÁRIAS. DESNECESSIDADE. ARTIGO 659, § 2º, DO CPC. ARTIGO 192DO CTN. INEXISTÊNCIA DE OFENSA AO ARTIGO 146, III, DA CONSTITUIÇÃOFEDERAL. DECISÃO MANTIDA.1. Nos termos do artigo 659, § 2º, do CPC, "transitada em julgado a sentença de homologação de partilha ou adjudicação, será lavrado o formal de partilha ou elaborada a carta de adjudicação e, em se seguida, serão expedidos os alvarás referentes aos bens e às rendas por ele abrangidos, intimando-se o fisco para lançamento administrativo do imposto de transmissão e outros tributos porventura incidentes, conforme dispuser a legislação tributária, nos termos do § 2º do art. 662."Assim, no arrolamento sumário é desnecessário comprovar o pagamento dos tributos relativos aos bens e rendas do espólio.
+2. O artigo 659, § 2º, do Código de Processo Civil está em sintonia com o disposto no artigo 146, III, da Constituição Federal, por não ter conteúdo de natureza tributária e sim, processual.
+3. Apelação conhecida, mas não provida. Unânime". (e-STJ, fl. 224)
+Nas razões do recurso especial, o DISTRITO FEDERAL alega violação aos arts.192 do CTN, 31 da Lei 6.830/80, 663 e 664, §§ 4º e 5º do CPC/15, sustentando, em síntese, que não se podepermitira expedição dos formais de partilha e documentos necessários ao inventário sem a prévia comprovação de quitação de débitos tributários eventualmente devidos pelo espólio, em especial o ITCD.
+É o relatório. Passo a decidir.
+A questão tratada nos presentes autos refere-se ao momento de recolhimento tributário.
+Nos termos do art. 9º, caput, do RISTJ, a competência das Seções e das respectivas turmas do Superior Tribunal de Justiça é fixada em função da natureza da relação jurídica litigiosa.
+Assim, tratando-se de discussão que versa sobre tributos de modo geral, verifica-se que a competência para apreciar o recurso é de uma das turmas integrantes da Primeira Seção desta Corte.
+Desse modo, determino a redistribuição do feito a um dos Ministros das Turmas que compõem a aludida Seção (art. 9º, § 1º, IX, do RISTJ).
+Publique-se.
