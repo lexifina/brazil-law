@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por LEONILDA DE OLIVEIRA, contra decisão que não admitiu recurso especial.
+O apelo nobre, amparado naalínea"a", do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, cujo teor ficou assim sintetizado (fl. 282, e-STJ):
+APELAÇÕES CÍVEIS - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E RECONVENÇÃO - PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO DA AUTORA ARGUIDA EM CONTRARRAZÕES PELO REQUERIDO - AFASTADA - OFENSA À DIALETICIDADE NÃO IDENTIFICADA - MÉRITO - ACIDENTE DE TRÂNSITO - ÔNUS DA PROVA - ENCARGO NÃO CUMPRIDO PELA AUTORA - BOLETIM DE OCORRÊNCIA QUE POSSUI PRESUNÇÃO RELATIVA DE VERACIDADE - CULPA DO REQUERIDO NÃO COMPROVADA - PEDIDO INICIAL IMPROCEDENTE - RECONVENÇÃO- IMPROCEDÊNCIA MANTIDA - AUSÊNCIA DE PROVA DO ALEGADO ATO ILÍCITO - SENTENÇA MANTIDA - RECURSOS NÃO PROVIDOS.
+Rejeita-se a preliminar de contrarrazões, referente a ofensa ao princípio da dialeticidade, porquanto os argumentos lançados no reclamo se voltam contra a fundamentação da sentença.
+O Boletim de Ocorrência possui presunção relativa de veracidade das informações nele constantes. Não tendo a autora comprovado a tese de que a culpa do acidente de trânsito foi do requerido, não há como prosperar o pedido condenatório.
+Na reconvenção, compete ao requerido comprovar o fato constitutivo de seu direito. Não havendo prova de que a autora tenha praticado ato ilícito, improcede o pedido indenizatório formulado pelo réu.
+Opostos embargos de declaração (fls. 291/297, e-STJ), esses foramrejeitados.
+Em suas razões recursais (fls. 315/329, e-STJ), a parte insurgenteapontou violação aos artigos 489 e 1022 do Código de ProcessoCivil/15; 28 e 175 do Código de Transito Brasileiro; 186 e 927 do Código Civil.Sustentou, em síntese: i) negativa de prestaçãojurisdicional,por não terem sido supridas as omissões suscitadas nos aclaratórios emrelação ao enfrentamento adequado da questão relativa aos cuidados e cautelas (dirigir em alta velocidade, não respeitar o sinal de pare, adentra a preferencia sem observar as regras de sinalização), ao dirigir o veiculo envolvido no acidente; ii) fazer jus a indenização, visto que o motorista do ônibus quem deu causa ao acidente.
+Contrarrazões às fls. 335/339, e-STJ).
+Em juízo de admissibilidade (fls. 341/345, e-STJ), negou-se oprocessamento do recurso especial, sob ofundamento deincidência das Súmulas 7 e 83 do STJ.
+Daí o agravo (fls. 347/359, e-STJ), buscando destrancar o processamentodaquela insurgência, no qual a insurgente refutou os óbices aplicados pelaCorte estadual.
+Sem contraminuta (fl. 363, e-STJ).
+Por decisão monocrática de fls. 371/372, e-STJ,oMinistroPresidente deste Superior Tribunal de Justiça, que não conheceu do agravo em recurso especial por considerar intempestivo o recurso especial.
+Às fls. 376/380, e-STJ, a ora agravante opôsembargos de declaração sustentando a tempestividade do recurso especial.
+Em decisão monocrática de fls. 383/384, e-STJ, o Ministro Presidente deste Superior Tribunal de Justiça, acolheu os embargos de declaração de fls. 376/380, e-STJ,conferindo-lhes efeitos infringentes, para tornar sem efeito a decisão embargada,determinando a distribuição do feito.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Com efeito, no que tange à alegada violação aos artigos 489 e 1.022 do CPC/15,não merece acolhimento a insurgência, porquanto clara e suficiente afundamentação adotada pelo Tribunal de origem.
+Aduz a ora agravante a ocorrência de negativa de prestaçãojurisdicional,ao argumento de que o Tribunal de origem teria sido omisso em relação aoenfrentamento da questão relativaao dever decuidadoe decautelado ora agravado ao dirigir o veículo envolvido no acidente.
+Contudo, da leitura dos autos, constata-se que referida tese foiexpressamente examinada pela Corte a quo, consoante se denota dosseguintes trechos (fl. 207, e-STJ):
+As provas contidas nos autos não são suficientes para atribuir ao requerido a responsabilidade pelo evento danoso.
+O Boletim de Ocorrência relatada que o ônibus, conduzido pelo requerido, trafegava pela rua Favero, sentido Sul/Norte quando, no cruzamento com a rua Buriti, teve sua lateral esquerda colidida pela frontal da motocicleta, conduzida por Gustavo Ingarti, com quem estaria Milena de Oliveira Tokuda, filha da autora. Conforme relatos do requerido, este visualizou a motocicleta com longa distância e, quando terminando de cruzar a via, aconteceu a colisão; que a motocicleta estaria e malta velocidade, fato que fez com que não fosse possível atravessar a via sem haver colisão, sendo que esta ocorrera na parte traseira do veículo.
+Portanto, ainda que comprovado o acidente de trânsito, bem como o fato de que a motocicleta estaria na via preferência, não é possível afirmar que o motorista do ônibus foi responsável pelo evento, já que não há provas de que este desrespeitou a sinalização de pare e que a motocicleta não estaria em velocidade incompatível com o local.
+O Boletim de Ocorrência goza de presunção relativa de veracidade e, somente com prova robusta, é possível afastar a declaração nele contida, ainda que seja uma declaração prestada de forma unilateral.
+Outrossim, nenhuma testemunha arrolada aos autos presenciou o acidente; somente o requerido, em seu depoimento pessoal, relatou a dinâmica do acidente, destacando que, no momento dos fatos, ao prestar os esclarecimentos às autoridades policiais, a conclusão de que se chegou acerca da causa do acidente seria o excesso de velocidade empreendida pela motocicleta.
+Logo, como tal situação não foi elidida pela requerente e não restam dúvidas de que o ponto de colisão da motocicleta foi na parte traseira do veículo, prevalece o entendimento contido na sentença, ou seja, de que a presunção contida no boletim de ocorrência não restou refutada pela parte autora.
+Logo, a improcedência do pedido inicial deve ser mantida,
+Desta forma, considerando que a questão trazida à discussão foi dirimidapelo Tribunal de origem de forma fundamentada e sem omissões oucontradições, merece ser afastada a alegada negativa de prestaçãojurisdicional.
+2. O Tribunal de origem, soberano na análise das provas dos autos,julgou improcedente o pedido de indenização por danos morais, porentender que não há nos autos provas suficientes a responsabilizar ocondutor do veículo,consoante se denotados seguintes trechos do acórdão recorrido (fls. 287/288, e-STJ):
+As provas contidas nos autos não são suficientes para atribuir ao requerido a responsabilidade pelo evento danoso.
+(..)
+Outrossim, é certo que o pedido do requerido em reconvenção para receber indenização por danos morais da parte autora não tem qualquer condão de prosperar. Como constou na sentença, o requerido não logrou êxito em identificar qual a ação ou omissão da parte autora que lhe teria acarretado qualquer dano moral. Ora, o simples exercício do direito de ação, direito garantido constitucionalmente, não tem o condão de provocar o abalo moral alegado. Ademais, nada há nos autos no sentido de que tenha havido qualquer participação da parte autora no acidente narrado nos autos, que lhe possa ser atribuída conduta ilícita apta a lhe ser atribuída responsabilidade por danos causados pelo requerido.
+Sequer a alegação de que estaria sendo acusado levianamente de ter provocado a morte de uma pessoa não restou comprovada nos autos.
+Sendo assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ACIDENTE DE TRÂNSITO. MORTE DA VÍTIMA.AUSÊNCIA DE VIOLAÇÃO DO ART. 489 DO CPC/2015. CULPA EXCLUSIVA DA VÍTIMA NÃO COMPROVADA. REEXAME DE PROVAS. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. O Tribunal de origem, com fundamento nas provas documentais trazidas aos autos, consignou a inexistência de comprovação de culpa exclusiva da vítima e a responsabilidade do recorrente pelo acidente de trânsito, pois demonstrado que este invadiu a contramão de direção e colidiu com o veículo da vítima.
+2. A modificação do entendimento lançado no v. acórdão recorrido demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp 1783943/GO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/05/2021, DJe 09/06/2021)
+3. Do exposto, nego provimento ao agravo e, com fulcro no artigo 85, § 11, NCPC, majoro em 10% (dez por cento) o valor dos honorários sucumbenciais fixados pelo Tribunal de origem, observados, porém, os efeitos do deferimento da gratuidade de justiça.
+Publique-se.
+Intimem-se.
