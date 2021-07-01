@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por MÔNICA CORTADA FIORI GOMES DA COSTA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO - AÇÃO DE INVENTÁRIO - PRESTAÇÃO DE CONTAS EM PERIODICIDADE ANUAL - POSSIBILIDADE - REAJUSTE NO VALOR DAS DESPESAS E AUTORIZAÇÃO DE SUBSTITUIÇÃO DE VEÍCULO - RAZOÁVEIS - IMPOSSIBILIDADE DE ANTECIPADO DE BEM IMÓVEL - RECURSO CONHECIDO E IMPROVIDO
+Quanto à controvérsia, alega violação dos arts. 10 e 619 do CPC, relativo à necessidade de intimação dos herdeiros sobre questões afetas ao andamento do inventário, trazendo os seguintes argumentos:
+Isso porque a decisão agravada, sem ouvir os demais herdeiros, concedeu à inventariante o direito de aumento da pensão, de 10 para 30 mil reais mensais; de realizar prestações de contas anuais ao invés de bimestrais, majorando ainda o limite de gasto mensal do espólio, de R$ 25.000,00 para R$ 100.000,00, bem como autorizou a troca do veículo que a inventariante utiliza para atender a fazenda.
+Há que se destacar a alta litigiosidade que envolve o processo de inventário de origem. Note-se que vários dos herdeiros possuem patronos distintos, de modo que a concessão de pedidos relevantíssimos como esses deveria ter observado rigorosamente a regra processual dos artigos 10 e 619, do CPC. (fls. 414).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem, quando do julgamento dos aclaratórios opostos às fls. 370-372, se manifestou nos seguintes termos:
+No caso dos autos, de fácil verificação que toda matéria foi objeto de apreciação no acórdão embargado, de modo que inexistem quaisquer dos vícios do art. 1.022 do CPC.
+Quanto à ocorrência da contradição alegada, no sentido de que a agravada não devolve valores ao espólio, a decisão consignou o seguinte:
+"Verifica-se dos autos que restou devidamente justificado pela magistrada que a prestação de contas em periodicidade bimestral, neste caso específico, vinha causando alvoroço processual, eis que cada prestação de contas demandava a citação de todos os herdeiros, o que acabava tumultuando o processo.
+Além disso, tal questão estará sujeita a realização de perícia posterior, a fim de verificar a exatidão das contas prestadas pelo inventariante.
+Destarte, a agravante não demonstra fato concreto a respeito de sua suposta preocupação com relação à prestação de contas.
+Assim, a decisão deve ser mantida neste ponto." (fls. 363)
+(..)
+"Por fim, quanto à petição de fls. 333-339, assevera-se que este agravo se insurge contra decisão proferida nos autos de Inventário às fls.
+3465. Referida decisão nada trata a respeito do acerto da prestação de contas, o que está ocorrendo em autos apartados. Portanto, é absolutamente incabível que estes autos de Agravo fiquem suspensos até realização de perícia do processo apenso.
+Ao que tudo indica, a perícia somente será realizada ao final do processo de Inventário, quando então se verificará o acerto da prestação de contas.
+Ademais, a interessada, embora pudesse ter assim agido, não interpôs o recurso com sua irmã, portanto, a petição trata de mero pedido de terceira interessada.
+Se a inventariante tem gastado quantia maior do que lhe é permitido, caberá ao juiz do inventário decidir quanto à matéria, e não a este julgador em segundo grau, afinal de contas o condutor do inventário é o magistrado de primeiro grau e não há notícias de que este fato tenha sido alegado na origem, importando em inovação recursal.
+Outrossim, os irmãos não precisam ser intimados, eis que o recurso se insurge contra decisão que favorece o Espólio."
+Portanto, foi decidido que a inventariante deverá prestar contas oportunamente, com realização de perícia, não havendo contradição conforme alegado.
+Ainda, no que se refere à ofensa aos artigos do CPC, ao revés do que sustenta a embargante, o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivos suficientes para proferir sua decisão. Destarte, consigna-se que os referidos artigos não impõem uma obrigação de intimação das partes anteriormente à decisão de várias questões afetas ao andamento do inventário, como ocorreu. A magistrada inclusive descreveu que era desnecessária a intimação por se tratar somente de decisão que atualizaria as verbas já defasadas pelo tempo, fixadas há muitos anos.
+A propósito, com a vigência do novo Código de Processo Civil, não cabem embargos de declaração contra decisão que não teria se pronunciado sobre determinado argumento, principalmente quanto incapaz de infirmar a conclusão adotada, conforme assim dispõe o art. 489 do CPC (fls. 405-406, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
