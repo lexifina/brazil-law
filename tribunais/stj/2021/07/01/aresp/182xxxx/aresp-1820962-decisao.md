@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+PROMESSA DE COMPRA E VENDA - INDENIZAÇÃO - ATRASO - Prazo de tolerância de 180 dias que não é abusivo - Súmula 164-TJSP e tese jurídica aprovada no IRDR nº 0023203-35.2016.8.26.0000 (tema 01), transitado em julgado em 01/12/2017 - Chaves entregues após o prazo de tolerância - Pretensão da autora de restituição dos juros de obra - Previsão contratual - Ausência de ilegalidade na cobrança, que só pode ocorrer durante a construção e até o prazo previsto para a entrega da obra - Precedentes jurisprudenciais - No caso, o extrato emitido pela CEF comprova que não houve a cobrança desse encargo após o prazo contratual, mas apenas na fase de construção - Pedido desacolhido - Danos morais não configurados no caso em tela - Atraso de menos de três meses que é insuficiente para causar os abalos psicológicos narrados pela autora - Sentença mantida - Honorários recursais devidos - RECURSO DESPROVIDO.
+Não foram opostos embargos de declaraçãos.
+No recurso especial, a recorrente sustenta que "o atraso na entrega do primeiro imóvel da recorrente acarreta dano de ordem moral pelo lapso temporal que supera o prazo de tolerância até o efetivo recebimento das chaves, vez que abalou psicologicamente a recorrente e desestruturou seus planos para uma moradia própria, cuja declaração de mero aborrecimento ofende o artigo 6º, VI, artigo 18, ambos do CDC; e artigos 186 e 927 do Código Civil; e artigo 44 da Lei 4.591/64".
+Contrarrazões apresentadas.
+O recurso especial não foi admitido na origem.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil/2015, conforme Enunciado Administrativo 3/2016 desta Corte.
+O recurso não merece prosperar.
+Ao solucionar a controvérsia, o Tribunal de origemassim dispôs:
+Relata a autora que as chaves só foram entregues em 11/10/2013, fazendo jus, portanto, à reparação dos danos reclamados na inicial, postulando, ainda, seja declarada a abusividade da cláusula que estabelece o prazo de tolerância.
+Todavia, não lhe assiste razão, na medida em que a jurisprudência tem admitido a tolerância de prazo de 180 dias para a entrega de imóvel, sem incidência de penalidades à promitente vendedora, quando prevista em cláusula contratual, dada a complexidade e a possibilidade da ocorrência de imprevistos durante a realização da obra.
+Assim, a cláusula que estabelece o prazo de tolerância não é abusiva, pois embora se trate de contrato de adesão, sua redação é clara e inteligível, e o comprador teve prévio conhecimento sobre o seu conteúdo (artigo 46 e 54, parágrafo 3º do CDC).
+ ..
+Por fim, no que concerne aos danos morais, o recurso também não comporta acolhimento, pois o decurso de menos de três meses não é suficiente para causar abalos psicológicos passíveis de indenização.
+Vale ressaltar que não há indenização sem prejuízo, não cabendo a conduta reputada ilícita civil ser punida, por si só, quando não haja repercussão danosa na esfera de direito do postulante.
+Com efeito, o recurso especial esbarra no óbice das Súmulas 5, 7/STJ e 83/STJ, porquanto o acórdão recorrido está em consonância com a jurisprudência do STJ, e para a sua modificaçãoseria necessária a reinterpretação do contrato, bem como o reexamedas provas, e dos fatos já analisados, providência vedada em sede de recurso especial. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA UNIDADE IMOBILIÁRIA. DANO MORAL.
+DESCUMPRIMENTO CONTRATUAL. NÃO OCORRÊNCIA. PRECEDENTES. 1. Nos termos da jurisprudência do STJ, o simples inadimplemento contratual, em regra, não configura dano indenizável, devendo haver consequências fáticas capazes de ensejar o dano moral. Precedentes. 2. Agravo interno a que se nega provimento. (AgInt no AREsp 1699501/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 07/12/2020).
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL NA PLANTA. DANO MORAL NÃO CONFIGURADO. INEXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL QUE JUSTIFIQUE A INDENIZAÇÃO. RECURSO NÃO PROVIDO.  ..  2. O mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. 3. Agravo interno não provido. (AgInt no AREsp 1284628/AM, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 25/6/2021).
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
