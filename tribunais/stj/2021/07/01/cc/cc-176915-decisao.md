@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de conflito de competência suscitado por AC Agro Mercantil S.A. e outras, todas em recuperação judicial, apontando como suscitados o Juízo de Direito da 1ª Vara Cível de Araxá - MG e o Juízo da Vara do Trabalho de Paracatu - MG.
+Colhe-se dos autos que, em 7 de janeiro de 2020, as suscitantes, todas integrantes do Grupo AC, protocolizaram pedido de recuperação judicial perante o Juízo de Direito da 1ª Vara Cível de Araxá/MG, tendo o processo sido autuado sob o n. 5000028-22.2020.8.13.0040, sendo que, em 23 de janeiro de 2020, foi proferida a decisão de deferimento da recuperação.
+Não obstante a decisão de processamento da recuperação tenha determinado a suspensão de todas as execuções promovidas em desfavor das suscitantes, o Juízo da Vara do Trabalho de Paracatu - MG, nos autos da Reclamação Trabalhista n. 0010073-03.2019.5.03.0084, negou a liberação de valores anteriormente bloqueados.
+Assim, asseveram que o Juízo laboral não é competente para deliberar sobre o seu patrimônio, cabendo unicamente ao Juízo Universal autorizar o pagamento de créditos concursais.
+Desse modo, pugnam, liminarmente, para que "seja determinado o sobrestamento da reclamação trabalhista nº 0010073.03.2019.5.03.0084 em trâmite perante o MM Juízo da Vara do Trabalho de Paracatu/MG, com a consequente determinação de transferência de toda e qualquer quantia constrita para conta à disposição do Juízo da Recuperação Judicial, nomeando-se, assim, o MM. Juízo da 1ª Vara Cível da Comarca deAraxá/MG como o único competente para resolver, em caráter provisório, as medidas urgentes, nos termos do art. 955, caput, do CPC"(e-STJ, fls. 18-19), e, no mérito, seja reconhecida a competência do Juízo Recuperacional.
+A liminar foi deferida parcialmente pelo Presidente do STJ às fls. 365-368 (e-STJ).
+As informações foram prestadas às fls. 376-383 (e-STJ).
+Instado a se manifestar, o Ministério Público Federal opinou pela competência do Juízo Universal, em parecer assim resumido:
+DIREITO EMPRESARIAL. CONFLITO POSITIVO DE COMPETÊNCIA.
+RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. PROSSEGUIMENTO. ATOS DE CONSTRIÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+- A orientação firmada no âmbito do Superior Tribunal de Justiça é de que, após o deferimento da recuperação judicial, é do juízo recuperacional a competência para o prosseguimento dos atos de execução relacionados com reclamações trabalhistas movidas contra a empresa.
+- Parecer pela declaração de competência do Juízo de Direito da 1ª Vara Cível de Araxá/MG.
+Brevemente relatado, decido.
+De acordo com a jurisprudência desta Corte, compete à Justiça do Trabalho apreciar e julgar os pedidos formulados em ações versando sobre apuração dos créditos individuais trabalhistas promovidos contra empresas falidas ou em recuperação judicial - Lei 11.101/2005. Ultrapassada, no entanto, a fase de apuração e liquidação dos referidos créditos trabalhistas, os montantes apurados deverão ser habilitados nos autos da falência ou da recuperação judicial para posterior pagamento.
+Nesse sentido:
+PROCESSUAL CIVIL. CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DE DIREITO E JUÍZO DO TRABALHO. RECUPERAÇÃO JUDICIAL. PROCESSAMENTO DEFERIDO. NECESSIDADE DE SUSPENSÃO DAS AÇÕES E EXECUÇÕES. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. PRECEDENTES.
+1. Uma vez deferido o processamento da recuperação judicial, ao Juízo Laboral compete tão-somente a análise da matéria referente à relação de trabalho, vedada a alienação ou disponibilização do ativo em ação cautelar ou reclamação trabalhista.
+2. É que são dois valores a serem ponderados, a manutenção ou tentativa de soerguimento da empresa em recuperação, com todas as conseqüências sociais e econômicas dai decorrentes - como, por exemplo, a preservação de empregos, o giro comercial da recuperanda e o tratamento igual aos credores da mesma classe, na busca da "melhor solução para todos" -, e, de outro lado, o pagamento dos créditos trabalhistas reconhecidos perante a justiça laboral.
+(..)
+4. Conflito conhecido para declarar a competência do Juízo de Direito da Vara de Falências e Recuperações Judiciais do Distrito Federal."
+(CC n. 112.799/DF, Relator o Ministro Luis Felipe Salomão, DJe de 22/3/2011)
+CONFLITO POSITIVO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. JUÍZO UNIVERSAL. EXECUÇÕES TRABALHISTAS. PROSSEGUIMENTO. IMPOSSIBILIDADE. AÇÕES DE CONHECIMENTO PROPOSTAS PERANTE A JUSTIÇA DO TRABALHO. PROSSEGUIMENTO ATÉ A APURAÇÃO DO CRÉDITO.
+1. Há de prevalecer, na recuperação judicial, a universalidade, sob pena de frustração do plano aprovado pela assembléia de credores, ainda que o crédito seja trabalhista.
+2. "Com a edição da Lei n. 11.101/05, respeitadas as especificidades da falência e da recuperação judicial, é competente o respectivo Juízo para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros órgãos judiciais, inclusive trabalhistas, ainda que tenha ocorrido a constrição de bens do devedor" (CC 90.160/RJ, DJ de 05.06.2009).
+3. As ações de conhecimento em trâmite na Justiça do Trabalho devem prosseguir até a apuração dos respectivos créditos. Em seguida, serão processadas no juízo universal da recuperação judicial as respectivas habilitações.
+4. Conflito de competência conhecido para declarar - com as devidas ressalvas concernentes às ações de conhecimento trabalhistas - a competência do Juízo de Direito da 1ª Vara de Falências e Recuperações Judiciais de São Paulo - SP.
+(CC n. 103.025/SP, Relator o Ministro Fernando Gonçalves, DJe de 5/11/2009)
+Há que se deixar assente, ainda, que também é reconhecido como interesse da recuperanda os valores relativos a depósitos recursais, devendo o levantamento ser decidido pelo Juízo recuperacional.
+A esse respeito, destaca-se:
+CONFLITO DE COMPETÊNCIA - JUSTIÇA TRABALHISTA E JUÍZO FALIMENTAR - EXECUÇÃO DE CRÉDITO TRABALHISTA - DEPÓSITO RECURSAL - LEVANTAMENTO - POSSÍVEL PREJUÍZO AOS DEMAIS CREDORES HABILITADOS - CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR A COMPETÊNCIA DO R. JUÍZO UNIVERSAL DA FALÊNCIA.
+1. A decretação da falência carreia ao juízo universal da falência a competência para distribuir o patrimônio da massa falida aos credores conforme as regras concursais da lei falimentar, inclusive, decidir acerca do destino dos depósitos recursais feitos no curso da reclamação trabalhista, ainda que anteriores à decretação da falência.
+2. Por essa razão, após a quebra, é inviável o prosseguimento de atos de expropriação patrimonial em reclamações trabalhistas movidas contra a falida perante a Justiça do Trabalho.
+3. Conflito conhecido para declarar a competência do r. juízo falimentar.
+(CC 101477/SP, Relator o Ministro Massami Uyeda, Segunda Seção, DJe de 12/5/2010)
+Na hipótese dos autos, constata-se que o Juízo trabalhista deferiu a liberação dos valores decorrentes de depósito recursal, resultando em inequívoca decisão acerca de interesse patrimonial titularizado pelas recuperandas, o que desborda do entendimento perfilhado pelo STJ, na esteira da jurisprudência acima destacada.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 1ª Vara Cível de Araxá/MG, para decidir sobre todos os atos de constrição no patrimônio das suscitantes, nos autos da referida reclamação trabalhista, inclusive acerca do destino de eventuais depósitos recursais ou outros valores bloqueados.
+Dê-se ciência aos Juízos suscitados.
+Publique-se.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO DE BENS QUE INTEGRAM O PATRIMÔNIO DA EMPRESA REALIZADAS POR JUÍZO DIVERSO DE ONDE SE PROCESSA O PEDIDO DE SOERGUIMENTO. IMPOSSIBILIDADE. COMPETÊNCIA DO JUÍZO RECUPERACIONAL.
