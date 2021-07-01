@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por CARLOS ALEXANDRE DOS SANTOS FERRANDO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, proferido no julgamento do HC n. 0054800-70.2020.8.21.7000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 28/4/2020, convertida em prisão preventiva, tendo sido denunciado por ter supostamente praticado o delito tipificado no art. 33, caput, da Lei n. 11.343/06 (tráfico de drogas).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. MANUTENÇÃO As circunstâncias do caso concreto demonstram a probabilidade de o paciente. sendo solto, voltar a traficar, o que fundamenta a segregação excepcional na garantia de ordem pública. PREVALENCIA DO DIREITO PUBLICO SOBRE O DIREITO INDIVIDUAL. A necessidade de resguardar a segurança coletiva se sobrepõe à presunção de inocência e ao devido processo legal, que não são violados pela prisão preventiva. PREDICADOS PESSOAIS INSUFICIÊNCIA PARA ENSEJAR SOLTURA. ORDEM DENEGADA UNÂNIME"(fl. 79).
+No presente recurso, o recorrente sustenta que a conduta que lhe foi imputada não tem gravidade suficiente para justificar a prisão, consideradas as condições pessoais.
+Assegura que não foi conduzido à audiência de custódia, contrariando determinação legal em vigor. Aponta que o direito de liberdade não deve ser obstaculizado por mera probabilidade de delinquência.
+Requer, assim, a revogação da custódia cautelar ou asubstituição da prisão por medidas cautelares previstas no art. 319 do CPP.
+Indeferida a liminar (fls. 124/125), as informações foram prestadas (fls. 131/145 e 146/166) e o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 168/170).
+É o relatório.
+Decido.
+O presente recurso encontra-se prejudicado.
+Isso porque, em consulta ao sítio eletrônico do Tribunal de origem, verifica-se que foi proferida sentença no processo em novembro de 2020, apresentadas as razões de apelação em 1/12/2020(Ação Penal n. 0000394-06.2020.8.21.0144). Todavia, não foi disponibilizado o teor do julgado.
+É cediço que a egrégia Quinta Turma desta Corte Superior firmou posicionamento no sentido de que a manutenção da custódia cautelar por ocasião de sentença condenatória superveniente não possui o condão de tornar prejudicado o writ em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo. Nesse sentido: RHC 53.194/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016.
+O entendimento revela-se substancialmente claro: a superveniência de sentença condenatória que mantém a prisão cautelar constitui título novo, que substitui - e supera - o decreto prisional impugnado mediante habeas corpus/recurso em habeas corpus, exceto se o Magistrado sentenciante não adota fundamentos novos e diversos daqueles apresentados por ocasião da decretação da segregação preventiva.
+Todavia, não há como aferir se a segregação antecipada foi mantida sem a adoção de novos e diversos fundamentos para a cautela - requisito indispensável ao prosseguimento do recurso em habeas corpus que busca revogá-la -, diante da notícia da produção de novo título judicial que examinou a necessidade de manutenção da constrição.
+Tratando-se o recurso em habeas corpus de rito célere, no qual não se admite a dilação probatória e cuja devida instrução compete ao recorrente, a este incumbiria, diante da superveniência de fato novo, a diligência de acostar aos autos o novo título judicial produzido no feito principal, a fim de demonstrar que o aludido julgado não tem o condão de afastar, no caso concreto, a impugnabilidade da decisão combatida pelo presente recurso em habeas corpus.
+Constatado o silêncio do recorrente quanto a aludida sentença que foi proferida, afigura-se forçoso entender pela perda de objeto do presente recurso em habeas corpus, diante da prolação de novo título.
+Por adotar idêntico raciocínio, faço menção à decisão prolatada nos autos do RHC n. 63.337/MG, Rel. Ministro GURGEL DE FARIA, Quinta Turma, DJe 5/2/2016.
+Ante o exposto, com fundamento no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
