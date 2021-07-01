@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Transbrasiliana Encomendas e Cargas Ltda., com amparo nas alíneas "a" e "c" do inciso III do art. 105 da CF/88, contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios assim ementado (e-STJ, fls. 252-253):
+CIVIL E PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. APELAÇÃO. AÇÃO DECLARATÓRIA. COMPENSAÇÃO DE CRÉDITO DE ICMS. TRANSPORTADORA DE CARGAS. INSUMOS. VINCULAÇÃO À ATIVIDADE-FIM DO ESTABELECIMENTO. LC 87/96. MERCADORIAS DESTINADAS AO USO OU CONSUMO. OBSERVÂNCIA DA LEI KANDIR (LC 138/2010). LIMITAÇÃO TEMPORAL. SENTENÇA MANTIDA.
+1. De acordo com o art. 20, da LC 87/96 (Lei Kandir), é possível o creditamento, para fins de compensação de ICMS, "do imposto anteriormente cobrado em operação de que tenha resultado a entrada de mercadoria, real ou simbólica, no estabelecimento, inclusive a destinada ao seu uso ou consumo ou ao ativo permanente". 1.1 Especificamente quanto aos insumos, o § 1º, do mesmo dispositivo, restringe a compensação aos bens que tenham vinculação à atividade-fim do estabelecimento.
+2. Mercadorias destinadas ao uso ou consumo da empresa estão sujeitas ao limite temporal previsto no art. 33 da Lei Kandir, inserido pela LC 138/2010, de forma que somente serão compensáveis as entradas a partir de 1º de janeiro de 2020.
+3. Na atividade de transporte e entrega de encomendas e cargas, peças, pneumáticos, lubrificantes e combustíveis integram o conceito de insumo e estão relacionados à atividade-fim da empresa, de forma que são compensáveis, segundo o art. 20 da LC 87/96, sem a limitação temporal do artigo 33.
+4. Impossibilidade de compensação, imediata, de bens destinados ao uso ou consumo, como carrocerias, ônibus, água mineral, material de limpeza e assemelhados. 4.1. Compensação diferida, para entradas a partir de 1º de janeiro de 2020, segundo limitação temporal imposta pelo art. 33 da Lei Kandir.
+5. Recursos conhecidos e improvidos.
+Os embargos de declaração opostos pela contribuinte foram rejeitados.
+Em suas razões, a interessada levanta prefacial de ofensa ao art. 535 do CPC/1973, aduzindo omissão quanto à questão da inexistência de relação jurídica que a obrigue ao recolhimento do diferencial de alíquota nas aquisições de peças, pneumáticos, lubrificantes e combustíveis utilizados na prestação dos serviços de transporte de cargas.
+No mérito, acusa violação dos arts. 19, 20, § 1º, e 33da Lei Complementar n. 87/1996, além de divergência jurisprudencial.
+Contrarrazões recursais apresentadas às e-STJ, fls. 444-452.
+Inadmitido o recurso especial na origem, subiram os autos a esta Corte por força do provimento doagravo.
+É o relatório.
+Observa-se haver, de fato, a apontada violação do art. 535 do CPC/1973, na medida em que a Corte a quo não respondeu acerca do pedido referente ao diferencial de alíquota do tributo em questão.
+É do próprio relatório dos embargos declaratórios da contribuinte a seguinte passagem (e-STJ, fl. 305):
+A Transbrasiliana Transportes e Turismo Ltda, por sua vez, em suas razões de embargos (fls. 259/264), informa que a presente interposição decorre da necessidade, segundo as súmulas 282 e 356 do STF e 98 e 211 do STJ, de prequestionar todas as quaestiones iures arguidas nos autos, bem como para que seja sanada a omissão, a contradição e a obscuridade do r. acórdão embargado. Alega que a r. decisão embargada deixou de analisar a questão da inexistência de relação jurídica que obrigue a embargante a recolher o diferencial de alíquota nas aquisições de peças, pneumáticos, lubrificantes e combustíveis na prestação dos serviços de transporte de cargas.
+Nota-se, portanto, que o Tribunal de origem foi provocado acerca dos temas, não tendo, contudo, exarado consideração alguma sobre a parte do pedido da contribuinte relacionada ao diferencial de alíquota do ICMS na aquisição dos referidos insumos.
+Desse modo, tendo o acórdão combatido deixado de analisar matéria de relevância para o deslinde da controvérsia, inviabilizando o conhecimento do apelo especial, em flagrante violação do art. 535, II, do CPC/1973, impõe-se o reconhecimento de sua nulidade.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, assim como na Súmula 568/STJ, dou provimento ao recurso especial para anular o acórdão dos embargos de declaraçãoedetermino o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, acerca do quanto alegado nosdeclaratórios.
+Publique-se. Intimem-se.
