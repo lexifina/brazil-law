@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial, por incidência das Súmulas n. 7 e 83 do STJ.
+A decisão colegiada recorrida apresenta a seguinte ementa (e-STJ fl. 353):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DENULIDADE C/C OBRIGAÇÃO DE FAZER - PRELIMINAR DE INOVAÇÃO DALIDE - MATÉRIA QUE SE CONFUNDE COM O MÉRITO - PLANO DE SAÚDECOLETIVO EMPRESARIAL COM MENOS DE 30 BENEFICIÁRIOS - RESCISÃOUNILATERAL IMOTIVADA PELA OPERADORA - IMPOSSIBILIDADE -SENTENÇA REFORMADA - RECURSO CONHECIDO E PROVIDO.
+Consoante entendimento jurisprudencial do Superior Tribunal deJustiça, é possível a resilição unilateral do contrato de plano de saúde coletivoempresarial com menos de 30 (trinta) usuários, desde que haja motivação idônea.
+Considerando que a requerida não apresentou motivação idôneapara a rescisão unilateral do contrato, deve ser mantido o vínculo contratual firmado.
+Os embargos de declaração foram rejeitados (e-STJ fls. 379/385).
+Sobreveio o recurso especial (e-STJ fls. 387/396), fundamentado no art. 105, III, "a", da CF, no qual a recorrente sustentou, além de divergência jurisprudencial,afronta aos arts. 4º, II, da Lei n. 9.961/1990, 13 e 35-G da Lei n. 9.656/1998, sob o fundamento de que a rescisão unilateral do plano de saúde coletivo foi legítima, ante a correção da cláusula estipulada no contrato.
+No agravo (e-STJ fls. 422/426), afirma a presença dos requisitos de admissibilidade do recurso especial.
+É o relatório.
+Decido.
+Ao reconhecer a invalidade da rescisão unilateral, entendeu o TJMSque, apesar de as partes terem firmado contrato coletivo, seria aplicável, no caso, a Lei n. 9.656/1998, no ponto em que veda a rescisão unilateral imotivada (art. 13), pois a recusa seria infundada e o contrato havido entre as partes beneficiaria poucos titulares (e-STJ fls. 353/358).
+A recorrente pretende o afastamento do art. 13 da Lei n. 9.656/1998, mesmo tratando-se de plano de saúde coletivo com menos de 30 (trinta) beneficiários.
+Constata-se que o recurso contraria a jurisprudência do STJ, segundo a qual "A regulamentação dos planos coletivos empresariais (Lei n. 9.656/98, art. 16, VII) distingue aqueles com menos de trinta usuários, cujas bases atuariais se assemelham às dos planos individuais e familiares, impondo sejam agrupados com a finalidade de diluição do risco de operação e apuração do cálculo do percentual de reajuste a ser aplicado em cada um deles (Resoluções 195/2009 e 309/2012 da ANS). Nesses tipos de contrato, em vista da vulnerabilidade da empresa estipulante, dotada de escasso poder de barganha, não se admite a simples rescisão unilateral pela operadora de plano de saúde, havendo necessidade de motivação idônea" (REsp n. 1.776.047/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/4/2019, DJe 25/4/2019). Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. RESCISÃO UNILATERAL E SEM MOTIVAÇÃO. CONTRATO COLETIVO COM POUCOS BENEFICIÁRIOS. FATO JURÍDICO RELEVANTE. QUEBRA DA BOA-FÉ OBJETIVA, OFENSA À FUNÇÃO SOCIAL DO CONTRATO E AO PRINCÍPIO DA RAZOABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Consoante a jurisprudência desta Corte, "a rescisão do contrato por conduta unilateral da operadora em face de pessoa jurídica com até trinta beneficiários deve apresentar justificativa idônea para ser considerada válida, dada a vulnerabilidade desse grupo de usuários, em respeito aos princípios da boa-fé e da conservação dos contratos" (REsp n. 1.708.317/RS, Relatora a Ministra Nancy Andrighi, DJe de 20/4/2018). Incidência da Súmula 83/STJ.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.763.223/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/3/2019, DJe 11/4/2019.)
+Ainda nesse sentido, julgado da Segunda Seção do STJ:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. CATEGORIA. MENOS DE 30 (TRINTA) BENEFICIÁRIOS. RESCISÃO UNILATERAL. PLANO INDIVIDUAL E COLETIVO. CARACTERÍSTICAS HÍBRIDAS. APLICAÇÃO DO CDC. VULNERABILIDADE CONFIGURADA. MOTIVAÇÃO IDÔNEA. NECESSIDADE. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+1. As avenças coletivas com número pequeno de usuários possuem natureza híbrida, pois ostentam valores similares aos planos individuais, já que há reduzida diluição do risco, além de possuírem a exigência do cumprimento de carências e, em contrapartida, estão sujeitos à rescisão unilateral pela operadora e possuem reajustes livremente pactuados, o que lhes possibilita a comercialização no mercado por preços mais baixos e atraentes.
+2. Inquestionável a vulnerabilidade dos planos coletivos com quantidade inferior a 30 (trinta) beneficiários, cujos estipulantes possuem pouco poder de negociação diante da operadora, sendo maior o ônus de mudança para outra empresa caso as condições oferecidas não sejam satisfatórias.
+3. Não se pode transmudar o contrato coletivo empresarial com poucos beneficiários para plano familiar a fim de se aplicar a vedação do art. 13, parágrafo único, II, da Lei n. 9.656/1998, porém, a rescisão deve ser devidamente motivada, incidindo a legislação consumerista.
+4. Embargos de divergência providos.
+(EREsp 1.692.594/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 12/2/2020, DJe 19/2/2020.)
+Diantedo exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
