@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por GK ADMINISTRAÇÃO DE BENS S/S LTDA., fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 541):
+CONDOMÍNIO. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS C.C. INDENIZAÇÃO POR DANOS MORAIS.
+AUTOR QUE FOI COBRADO (AÇÃO DE COBRANÇA E PROTESTO) POR DÍVIDA JÁ QUITADA. AÇÃO DE PARCIAL PROCEDÊNCIA COM CONDENAÇÃO SOLIDÁRIA DO CONDOMÍNIO-RÉU E DA ADMINISTRADORA DO CONDOMÍNIO (DENUNCIADA).
+RECURSO INTERPOSTO PELA DENUNCIADA.
+ALEGAÇÃO DE ILEGITIMIDADE PASSIVA.
+DESCABIMENTO. RECONHECIDA FALHA NA PRESTAÇÃO DE SERVIÇO PARA A QUAL FOI CONTRATADA A MANDATÁRIA, EIS QUE RESPONSÁVEL PELO ENVIO DA LISTA DE INADIMPLENTES AOS PATRONOS DO CONDOMÍNIO, O QUE CAUSOU OS PREJUÍZOS ALEGADOS NA INICIAL.
+MANDANTE QUE TEM DIREITO DE REGRESSO EM FACE DA MANDATÁRIA. INTELIGÊNCIA DOS ARTS. 667 E 679, AMBOS DO CC. SENTENÇA MANTIDA.
+APLICAÇÃO DA MAJORAÇÃO DA VERBA HONORÁRIA NOS TERMOS DO ART. 85, § 11, DO CPC/15.
+Apelação improvida, com determinação.
+Opostos embargos de declaração, restaram rejeitados às fls. 554/557, 564/567 e 573/580.
+Nas razões do recurso especial, a agravante alega violação aos arts. 485, VI do CPC/15; 653 e 940 do CC, bem como a configuração de dissídio jurisprudencial. Para tanto, sustenta, em síntese, além da negativa de prestação jurisdicional, que: (i) "os atos praticados pela administradora são realizados por ordem de seu mandante, podendo ela responder apenas se comprovada a má-fé ou o excesso de mandato, situação que não se observa "in casu" - (fl. 595); (ii) é "de rigor o afastamento do decreto de legitimidade da administradora recorrente, dada a sua incontroversa condição de mera mandatária" - (fl. 597).
+Foram apresentadas contrarrazões às fls. 612/617 e 619/622.
+É o relatório.
+De início, em relação à alegada ofensa ao art. 489 do CPC, verifica-se que o recorrente fez apenas alegação genérica de sua vulneração, apresentando uma fundamentação deficiente que impede a exata compreensão da controvérsia. Incide, na hipótese, a Súmula 284/STF.
+Nesse sentido, salienta o Ministro SIDNEI BENETI, que "a ausência de demonstração de como ocorreu a ofensa ao art. 535, do CPC é deficiência, com sede na própria fundamentação da insurgência recursal, que impede a abertura da instância especial, a teor do enunciado 284 da Súmula do Supremo Tribunal Federal, aplicável por analogia, também ao Recurso Especial" (AgRg no Ag 1.162.073/MG, Terceira Turma, DJe de 12/5/2010).
+Quanto à questão de fundo, a Corte de origem, com base na análise do lastro probatório, observou que, em que pese a condição de mandatária, a recorrente incorreu em falha na prestação de serviços, incorrendo na hipótese do artigo 667 do CC, o qual consigna pela sua responsabilização, como se depreende do trecho do acórdão a seguir (fls. 545/546):
+(..) Ocorre que, in casu, a denunciação da lide à apelante se deu por suposta falha na prestação de seus serviços, ao enviar ao referido escritório de advocacia lista equivocada de inadimplentes, dentre eles o autor.
+Neste ponto, importante ressaltar que a falha na prestação de serviço pela mandatária ou o excesso do mandato, dá ao mandante direito de regresso em face da mandatária, conforme estabelecido pela segunda parte do art. 679 e pelo art. 667, ambos do CC, in verbis:
+(..)
+Deste modo, uma vez que o condomínio réu imputa à administradora- apelante a responsabilidade pelos prejuízos causados ao autor por falha na prestação de seus serviços (encaminhamento da listagem de inadimplentes para os patronos do condomínio), justificada está a denunciação à lide, não havendo que se falar em reconhecimento da sua ilegitimidade passiva.
+O d. Magistrado a quo afastou a alegação de ilegitimidade da ora apelante pelas mesmas razões. Fundamentou a r. sentença: "Afasto, outrossim, a alegação de ilegitimidade passiva pela denunciada, vez que expressamente confessa que encaminhava a lista com os inadimplentes para os patronos do condomínio".
+Assim, resta verificar se restou demonstrada a má-prestação de serviço pela denunciada-apelante.
+Pois bem, como acima já afirmado, a própria denunciada confirma que era a responsável por enviar a lista de inadimplentes aos patronos do condomínio; portanto, deveria zelar pelo seu fiel cumprimento de suas obrigações, ou seja, verificando de forma correta as unidades inadimplentes, antes de enviar o relatório ao patrono do condomínio.
+E, conforme constatado pelo documento de fls. 266, a ora apelante, em 26.11.2015, emitiu "Relatório de Débito" em que impõe ao autor a inadimplência dos débitos vencidos em 05.10.2013 e em 05.11.2014, os quais já haviam sido por ele quitados em 07.04.2014 (fls. 129, 131, 136) e 10.11.2014 (fls. 313), respectivamente.
+Anote-se que não há qualquer documento nos autos que possa infirmar referido documento e, consequentemente, a falha no cumprimento da obrigação da apelante na administração das contas do condomínio. Ora, deixou a apelante de demonstrar que o equívoco cometido (informação de inadimplência do autor) tenha lhe sido repassado pelo condomínio ou por administração anterior. Mera alegação, neste sentido, não a desincumbe do ônus da prova."
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido para aferir a responsabilização da mandatária ante a falha na prestação de serviços demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Por fim, a incidência da Súmula 7/STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio - por ser inviável a aferição de similitude fática entre os julgados -, e impede o seguimento do presente recurso pela alínea "c" do permissivo constitucional. Nessa linha, observam-se os seguintes precedentes:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO - ALEGADA NÃO COMPROVAÇÃO DA CAUSA PARA EMISSÃO DE DUPLICATAS - SENTENÇA E ACÓRDÃO QUE RECONHECERAM A VALIDADE DOS TÍTULOS - DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DO DEMANDANTE.
+1. Demonstrado que o acolhimento das razões do recurso especial torna imprescindível o reexame do conjunto fático-probatório dos autos, incide o enunciado nº 7 da Súmula do STJ.
+2. A incidência do enunciado nº 7 da Súmula do STJ impede o conhecimento do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+3. O dissídio jurisprudencial deve ser minuciosamente demonstrado por meio do cotejo analítico entre o acórdão recorrido e os acórdãos apontados como paradigmas, procedimento não observado pela parte insurgente.
+4. Agravo regimental desprovido." (AgRg no REsp 1137530/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/06/2014, DJe 24/06/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de R$ 1.700,00 (mil e setecentos reais) para R$ 1.870,00 (mil oitocentos e setenta reais).
+Publique-se.
