@@ -1,0 +1,67 @@
+DECISÃO
+1. Trata-se de recurso especial interposto por COFCO BRASIL S.A, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 555-556):
+COMPRA E VENDA. EMBARGOS À EXECUÇÃO.AÇÃO DE EXECUÇÃO POR QUANTIA CERTA.AUSÊNCIA DA INDICAÇÃO DO ÍNDICE DE CORREÇÃO MONETÁRIA ADOTADO. UTILIZAÇÃO DAQUELE CONSTANTE DA TABELA PRÁTICA DESTE TRIBUNAL DE JUSTIÇA EM AMBAS AS PLANILHAS DE DÉBITOS APRESENTADAS PELAS PARTES. EXTINÇÃO DO PROCESSO AFASTADA.ANÁLISE DO MÉRITO, NOS TERMOS DO ART.1013, § 3º, I, DO NCPC. CUMULAÇÃO DE MULTA MORATÓRIA E MULTA COMPENSATÓRIA/INDENIZATÓRIA SOBRE A MESMA BASE DE CÁLCULO.INADMISSIBILIDADE. JUROS DE MORA DEVIDOS A PARTIR DA CITAÇÃO. A embargante apesar de alegar a inépcia da inicial em razão de ausência do índice de correção monetária adotado, ao apresentar a planilha de débitos judiciais utilizou-se daquele constante da tabela prática deste Tribunal de Justiça, concordando, assim, com a sua aplicação, pelo que nenhuma providência deveria ter sido tomada pelo juiz a respeito, menos ainda ter extinguido o processo. Embora possa o contrato estipular ambas as multas, moratória e compensatória, somente a primeira pode ser incluída na discriminação do débito, sendo vedada a cumulação. Isso porque ambas decorrem do mesmo fato gerador (inadimplência do vendedor e, consequentemente, resilição do contratopor culpa dele), pelo que deve a multa indenizatória ser afastada, sob pena de ocorrência de bis in idem. Os juros moratórios, uma vez convertida a obrigação principal de entrega de coisa incerta em pecúnia, devem ser contados a partir da citação. Recurso provido.
+Opostos embargos de declaração pelas partes (fls. 562-567 e 568-570), foram todos rejeitados (fls. 577-581).
+Nas razões do recurso especial (fls. 584-595), além de divergência jurisprudencial, aponta a parte recorrente ofensa ao disposto no art. 1.022, I, do Código de Processo Civil, art. 410 do Código Civil,
+Em apertada síntese, sustenta a possibilidade de cumulação das multas moratória e compensatória, aduzindo que "não há fundamento que justifique o afastamento da multa compensatória convencionada, apta a remunerar adequadamente os danos sofridos pela ora recorrente."
+Alega divergência jurisprudencial em relação a multa que deve ser afastada, argumentando que "enquanto o TJ/SP, ante ao conflito entre as duas multas, determinou a manutenção da moratória, outros tribunais do país defendem justamente o posicionamento oposto: isso é, o de que devendo ser afastada uma das multas, em razão de decorrerem do mesmo fato gerador e portanto, potencialmente configurar-se o bis in idem, deverá prevalecer a multa compensatória."
+Não foram apresentadas contrarrazões ao recurso especial (fl. 665).
+É o relatório.
+DECIDO.
+2. A jurisprudência desta Corte é no sentido de que"Conquanto seja possível a cumulação das multas moratória e compensatória, é indispensável para tanto que ambas estejam previstas no contrato e tenham fatos geradores distintos. Precedentes." (AgRg no REsp 1280274/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015).
+No caso em apreço, restou consignado no acórdão recorrido (fls. 558-559):
+Assim, superada a questão acima, passo à análise do mérito dos embargos à execução, conforme art.1013, §3º, I, do NCPC, que se restringe à alegação de impossibilidade de cumulação das multas moratória e compensatória/indenizatória sobre a mesma base de cálculo e de aplicação de juros de mora sobre a obrigação convertida em perdas e danos.
+A multa moratória constitui punição pela inadimplência total ou parcial do vendedor da soja e deve ser incluída no demonstrativo do débito apresentado pelo exequente.
+Já "A multa compensatória ensina FRANCISCO ROCHA DE BARROS -, é a cláusula penal estipulada no contrato para a inexecução completa da obrigação ou de alguma cláusula ou para punir infração legal ou contratual (CC, 917). Representa prefixação das perdas e danos (CC, arts. 918 e 919) e dispensa o credor de alegar prejuízo(CC, art. 927). Pode ser, conforme o caso, proporcionalmente reduzida pelo juiz (CC, arts. 924 e 4º desta lei, para a hipótese de devolução do imóvel durante o prazo de vigência do contrato)." (Comentários à Lei do Inquilinato", Ed. Saraiva, 1.995, p. 354) Portanto, embora possa o contrato estipular ambas as multas, moratória e compensatória, somente a primeira pode ser incluída na discriminação do débito, sendo vedada a cumulação, segundo entendimento pacífico na jurisprudência (RTs 545/151, 547/148, 605/137, JTA"s 94/309, 107/405, 108/291, LEX-JTA 147/287). Isso porque ambas decorrem do mesmo fato gerador (inadimplência do vendedor e, consequentemente, resilição do contrato por culpa dele), pelo que deve a multa indenizatória ser afastada, sob pena de ocorrência de bis in idem.
+Logo, o entendimento do Tribunal de origem encontra-se em perfeita consonância com a jurisprudência desta Corte.
+Outrossim, para reforma do acórdão recorrido no ponto, seria necessário derruir a afirmação de que as multas moratória e compensatória cobradas pelo exequente têm o mesmo fato gerador,o que é inviável em sede de recurso especial ante o disposto nas Súmulas 5 e7 desta Corte.
+Sobre o tema, confira-se ainda:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DESCUMPRIMENTO CONTRATUAL. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. MULTAS MORATÓRIA E COMPENSATÓRIA. FATO GERADOR. IDENTIDADE. CUMULAÇÃO. IMPOSSIBILIDADE. REVISÃO. SÚMULAS NºS 7 E 5/STJ. DIVERGÊNCIA JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA.
+ ..
+3. A jurisprudência desta Corte entende que, para a cumulação das multas moratória e compensatória, é indispensável que ambas estejam previstas no contrato e tenham fatos geradores distintos.
+4. É inviável rever o entendimento do tribunal de origem, de que as multas moratória e compensatória cobradas pela exequente têm o mesmo fato gerador, sem a incursão nos aspectos fático-probatórios dos autos e de cláusulas contratuais, o que atrai a incidência das Súmulas nºs 5 e 7/STJ.
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp 1743530/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PLANO ODONTOLÓGICO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MULTAS MORATÓRIA E COMPENSATÓRIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA E REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO DESPROVIDO.
+ ..
+2. De fato, a jurisprudência desta Corte manifesta-se no sentido de que, "conquanto seja possível a cumulação das multas moratória e compensatória, é indispensável para tanto que ambas estejam previstas no contrato e tenham fatos geradores distintos" (AgRg no REsp 1.280.274/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/6/2015, DJe de 30/6/2015).
+3. No caso em apreço, a reforma das conclusões contidas no julgado e o acolhimento do inconformismo recursal, no que tange à rediscussão da natureza dos institutos e de seus fatos geradores, ensejaria a análise de cláusulas contratuais e o revolvimento de matéria fático-probatória, providências vedadas na via estreita do recurso especial, ante os óbices estabelecidos pelas Súmulas 5 e 7 desta Corte.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 486.555/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/10/2019, DJe 19/11/2019)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO.
+TÍTULO EXECUTIVO EXTRAJUDICIAL. CONTRATO DE LOCAÇÃO. EXECUÇÃO DE MULTA CONTRATUAL EM RAZÃO DA RESCISÃO ANTECIPADA DO CONTRATO.
+CUMULAÇÃO DE MULTAS COMPENSATÓRIAS. INVIABILIDADE. REEXAME DE MATÉRIA CONTRATUAL E FÁTICA DA LIDE. SÚMULAS 5 E 7/STJ. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. HONORÁRIOS ADVOCATÍCIOS. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. NÃO PROVIMENTO.
+ ..
+2. Inviável a análise do recurso especial quando dependente de reexame de cláusulas contratuais e de prova (Súmulas 5 e 7 do STJ).
+3. "Conquanto seja possível a cumulação das multas moratória e compensatória, é indispensável para tanto que ambas estejam previstas no contrato e tenham fatos geradores distintos" (AgRg no REsp 1280274/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/6/2015, DJe 30/6/2015) 4. O Tribunal de origem julgou nos moldes da jurisprudência desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+ ..
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 720.037/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 03/05/2016, DJe 11/05/2016)
+LOCAÇÃO. PROCESSUAL CIVIL. RECURSO ESPECIAL. MULTAS MORATÓRIA E COMPENSATÓRIA. FATOS GERADORES IDÊNTICOS. CUMULAÇÃO. IMPOSSIBILIDADE. REVISÃO DO ACÓRDÃO RECORRIDO. INVIABILIDADE NA VIA DO ESPECIAL. SÚMULA N.º 07 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+ ..
+2. Conquanto, seja possível a cumulação das multas moratória e compensatória, é indispensável para tanto que ambas estejam previstas na avença locatícia e tenham fatos geradores distintos.
+3. O Tribunal a quo, soberano na análise das circunstâncias fáticas da causa concluiu que as multas compensatória e moratória possuem o mesmo fato gerador, o que afastaria a possibilidade de cumulação pretendida e, portanto, a inversão do julgado implicaria o reexame das provas carreadas aos autos, o que atrai o óbice da Súmula n.º 07 do Superior Tribunal de Justiça.
+4. Recurso especial desprovido.
+(REsp 844.882/RJ, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 21/09/2010, DJe 11/10/2010)
+DIREITO CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. LOCAÇÃO. ALUGUÉIS E OUTROS ENCARGOS LOCATÍCIOS. AÇÃO DE COBRANÇA AJUIZADA CONTRA A FIADORA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282/STF E 211/STJ. MULTA COMPENSATÓRIA. CUMULAÇÃO COM A MULTA MORATÓRIA. IMPOSSIBILIDADE. MESMO FATO GERADOR. BIS IN IDEM. PRECEDENTE DO STJ. NÃO-OCORRÊNCIA. SEGURO-FIANÇA. PRÊMIO. INADIMPLÊNCIA. ADIANTAMENTO PELA LOCADORA. RESTITUIÇÃO PELA FIADORA. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SÚMULA 83/STJ. RECURSO ESPECIAL CONHECIDO E IMPROVIDO.
+ ..
+2. Embora as multas moratórias e compensatórias possam ser cumuladas quando seus respectivos fatos geradores forem diversos, não é esta a hipótese dos autos, uma vez que o despejo da locatária-afiançada decorreu justamente de seu inadimplemento, de sorte que a imposição da multa compensatória importaria em verdadeiro bis in idem. Precedente do STJ.
+ ..
+4. "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida" (Súmula 83/STJ).
+5. Recurso especial conhecido e improvido.
+(REsp 998.359/RS, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 04/12/2008, DJe 02/02/2009)
+3. Por outro lado, merece acolhida a irresignação recursal no que se refere ao pedidosubsidiário de substituição da condenação ao pagamento da multa moratória pela compensatória.
+À vista disso, cabe explicar as duas espécies de cláusula penal ou multa contratual: a compensatória e a moratória. A compensatória visa antecipar o montante da indenização por prejuízos decorrentes da inadimplência absoluta do contrato, ou seja, quando não há mais interesse na continuidade das prestações e contraprestações. A moratória visa coagir a parte em mora, isto é, que não cumpre as prestações como pactuado, a seguir o acordo. Nesse caso, ainda há interesse na avença.
+No caso sub judice, verifica-se que houve oinadimplemento absoluto da obrigação de entregar coisa incerta (entrega de um milhão de quilos de soja), tendo aação de execução sido convertida em execução por quantia certa,e não a simples mora no cumprimento de cláusula contratual, o que atrai a aplicação da multa compensatória.
+Desse forma,o recurso merece provimento apenas para substituir a multamoratória pela multa compensatória.
+4. Ante o exposto, dou parcial provimento ao recurso especial,para substituir a multa moratória pela multa compensatória pactuada no contrato celebrado entre as partes.
+Ficam mantidos os ônus sucumbenciais conforme determinado na origem.
+Prejudicadas as demais alegações.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DESCUMPRIMENTO CONTRATUAL. MULTAS MORATÓRIA E COMPENSATÓRIA. FATO GERADOR. IDENTIDADE. CUMULAÇÃO. IMPOSSIBILIDADE. REVISÃO. SÚMULAS NºS 7 E 5/STJ. INADIMPLEMENTO ABSOLUTO DA OBRIGAÇÃO.PREVALÊNCIA DA MULTA COMPENSATÓRIA. SUBSTITUIÇÃO. POSSIBILIDADE. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1.A jurisprudência desta Corte entende que, para a cumulação das multas moratória e compensatória, é indispensável que ambas estejam previstas no contrato e tenham fatos geradores distintos.
+2. É inviável rever o entendimento do tribunal de origemde que as multas moratória e compensatória cobradas pelo exequente têm o mesmo fato gerador, sem a incursão nos aspectos fático-probatórios dos autos e de cláusulas contratuais, o que atrai a incidência das Súmulas nºs 5 e 7/STJ.
+3.No caso sub judice, verifica-se que houve o inadimplemento absoluto da obrigação de entregar coisa incerta (entrega de um milhão de quilos de soja), tendo a ação de execução sido convertida em execução por quantia certa, e não a simples mora no cumprimento de cláusula contratual, o que atrai a aplicação da multa compensatória.
+4. Recurso especial parcialmente provido.
