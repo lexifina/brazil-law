@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo de MARCIO PERES PEREIRA contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"EMENTA: LOCAÇÃO DE IMÓVEL. DESPEJO POR FALTA DE PAGAMENTO C.C. COBRANÇA. 1. O locatário é responsável pelo pagamento do IPTU, conforme disposto no contrato de locação. 2. Em decorrência do princípio da causalidade aquele que deu causa à propositura da ação deve responder pelas custas do processo, inclusive pelos honorários advocatícios da parte autora. Sentença mantida. Recurso desprovido." (e-STJ fl. 148)
+Nas razões do recurso especial, o agravante alega ofensa ao § 2º do art. 85 e art. 376, I do CPC, sustentando que: 1) em caso de sucumbência recíproca, deve haver fixação proporcional das custas e honorários advocatícios e, no caso dos autos, a sentença reduziu o valor da dívida em R$ 41.558,17, sendo de rigor a condenação dos recorridos nos honorários de sucumbência, tendo como base o valor afastado da cobrança (proveito econômico obtido pelo recorrente) e 2) o recorrente não pode ser compelido a pagar por despesas de IPTU que não foram comprovadas nos autos, não servindo para tal fim a simples "listagem" pelos recorridos.
+Alega haver divergência jurisprudencial sobre os temas acima.
+É o relatório. Decido.
+Quantoà alegação de que o recorrente não pode ser compelido a pagar por despesas de IPTU que não foram comprovadas nos autos, não servindo para tal fim a simples "listagem" pelos recorridos, a Corte de origem assim decidiu:
+"O apelante não nega sua inadimplência, pretendendo apenas a exclusão dos valores cobrados pelos locadores em relação ao Imposto Territorial Urbano IPTU.
+Alega o recorrente que os autores não comprovaram que há cobrança do IPTU sobre o imóvel locado.
+Entretanto, o contrato de locação é expresso ao dispor em sua cláusula 6ª que todos os impostos, especialmente o IPTU (Imposto Territorial Urbano) será de responsabilidade integral do locatário (fls. 14).
+A alegação de que os locadores não comprovaram a existência do mencionado imposto é totalmente descabida, na medida em que o apelante anuiu com a obrigação de arcar com o pagamento do mesmo.
+Nesse sentido bem observou o ilustre magistrado sentenciante nos seguintes termos:
+"No contrato os réus obrigaram-se ao pagamento de verbas acessórias, cláusula 6ª, fls.14, entre as quais IPTU e prêmio pertinente ao seguro contra incêndio.
+O pagamento do imposto é devido, não há qualquer abuso na atribuição ao locatário da obrigação de pagamento desta verba.
+Trata-se de regra a versar sobre direito disponível, válida e eficaz. Outrossim, cabia ao locatário o pagamento do imposto ao credor, a obrigação não é de ressarcimento, portanto, irrelevante não terem os autores demonstrado a existência da dívida, cabia aos réus, indicado na inicial o valor e o período devido, apresentar a prova do adimplemento." (fls. 97)
+Portanto, se o apelante anuiu com a obrigação, deve arcar com o pagamento do IPTU.
+Além disso, é evidente que o recorrente efetuou os pagamentos do IPTU antes do início de sua inadimplência já que o contrato foi celebrado em 2011 e os débitos se referem a partir do ano de 2017.
+Observa-se na planilha de débitos apresentada pelos autores que a inadimplência teve início no mês de maio/2017, constando o débito da parcela 04/10 do IPTU/2017.
+Ora, não é crível que o apelante arcou anteriormente com os pagamentos das parcelas 01 a 03 do IPTU/2017, por exemplo, e não efetuou nenhuma reclamação ou solicitação junto aos locadores.
+Assim, sem qualquer guarida a pretensão de exclusão do IPTU do débito devido pelo apelante." (e-STJ fl. 150/151)
+Como visto, a Corte de origem expressamente consignou que o recorrente assumiu a obrigação contratual de pagar o IPTU do imóvel por ele alugado e que vinha pagando as parcelas referentes ao imposto regularmente, até tornar-se inadimplente, razão pela qual não há que se falar em ausência de comprovação do débito.
+Contudo, tais fundamentos - autônomos e suficientes à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Neste sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. NÃO IMPUGNAÇÃO ESPECÍFICA DAS RAZÕES DO ACÓRDÃO ESTADUAL. INCIDÊNCIA DO VERBETE Nº 283/STF.EXECUÇÃO. CÉDULA RURAL. ARGUIÇÃO DE EXCESSO DE COBRANÇA. ANÁLISE. SÚMULAS 5 E 7/STJ.
+1. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplica-se, por analogia, o óbice da Súmula nº 283, do STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 687.997/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/11/2018, DJe 13/11/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA. PLANO DE SAÚDE COLETIVO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO ATACADOS. SÚMULA 283/STF. RESCISÃO UNILATERAL. BENEFICIÁRIO EM TRATAMENTO MÉDICO. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. Não obstante o plano de saúde coletivo possa ser rescindido unilateralmente, mediante prévia notificação do usuário, esta Corte reconhece ser abusiva a rescisão do contrato durante o tratamento médico garantidor da sobrevivência e/ou incolumidade física, como no caso em apreço, no qual a segurada diagnosticada com câncer se encontra em tratamento oncológico.
+3. Agravo interno não provido.
+(AgInt no AREsp 1298878/SP, de minha Relatoria, QUARTA TURMA, julgado em 23/10/2018, DJe 31/10/2018)
+Quanto à distribuição da sucumbência, a Corte de origem assim consignou:
+"Quanto à distribuição do ônus da sucumbência, restou incontroverso a necessidade da propositura da ação para o fim de obter a rescisão do contrato de locação, com a consequente ordem de despejo e cobrança do valores devidos.
+Logo, é certo que cabe aos réus o pagamento integral dos encargos sucumbenciais, incluindo honorários advocatícios da advogada dos locadores/autores, tendo em vista que a necessidade do ajuizamento da ação decorreu do comportamento do locatário." (e-STJ fl. 152)
+A sentença, mantida integralmente pelo acórdão recorrido consignou:
+"Houve sucumbência reciproca, mas os autores sucumbiram em muito menor extensão, razão pela qual condeno os réus ao pagamento das despesas processuais, custas e honorários advocatícios que arbitro em 10% do valor da condenação, à luz do disposto no artigo 85, § 2º do Código de Processo Civil, observado o artigo 98, § 3º do mesmo Código, ao correu Márcio Peres Pereira." (e-STJ fl. 98) (grifei)
+Nos termos da jurisprudência desta Corte Superior, é inviável, no caso, a revisão do quantitativo em que autor e ré decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fática, providência inviável no recurso especial, a teor do disposto na Súmula 7 do STJ. Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AÇÃO DE OBRIGAÇÃO DE FAZER. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONCORRÊNCIA DESLEAL CONFIGURADA. HONORÁRIOS ADVOCATÍCIOS. COMPENSAÇÃO. SUCUMBÊNCIA RECÍPROCA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A data da prolação da sentença é o marco temporal para a aplicação do Código de Processo Civil de 1973 ou do CPC/2015. No caso, a sentença foi prolatada na vigência do CPC/1973. Desse modo, apesar do Tribunal de origem ter reformado a decisão sob a égide do CPC/2015, incidem, quanto à fixação dos honorários advocatícios, as regras do diploma processual anterior. Portanto, é permitida a compensação da verba honorária. Precedentes.
+2. "A sucumbência recíproca ou em parte mínima, estabelecida pelo Tribunal de origem, envolve contexto fático-probatório, cuja análise e revisão revelam-se interditadas a esta Corte Superior, em face do óbice contido na Súmula 7 do STJ" (EDcl no AgRg no AREsp 151.072/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/08/2018, DJe de 11/09/2018).
+3. Agravo interno não provido.
+(AgInt no AREsp 1560925/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2020, DJe 02/02/2021)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% para 11% sobre o valor da condenação, suspensa a exigibilidade no caso de prévio deferimento da gratuidade da justiça.
+Publique-se.
