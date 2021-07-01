@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por FUNDAÇÃO NACIONAL DO ÍNDIO - FUNAI,contra decisão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"PROCESSO CIVIL. DIREITO ADMINISTRATIVO. AÇÃO RESCISÓRIA. IMPROBIDADEADMINISTRATIVA. VIOLAÇÃO LITERAL A TEXTO DE LEI. INOCORRÊNCIA. ERRO DE FATO. INEXISTÊNCIA. MATÉRIA DEBATIDA NO DECISUM RESCINDENDO. DECISÃO ADMINISTRATIVA. NÃO APROVEITAMENTO EM SEDE JUDICIAL. PERDA DO CARGO PÚBLICO OCUPADO À ÉPOCA DO ATO ÍMPROBO. ART. 12, INC. II, DA LEI 8.492/92.
+1. A rescisória é ação excepcional que tem como objetivo a desconstituição de decisão transitada em julgado e a prolação de novo decisum somente nas hipóteses taxativas prevista em lei, qual seja, o art. 485 do CPC. A presente ação não configura mais uma instância recursal à disposição das partes e em desprestígio a autoridade da coisa julgada.
+2. O erro de fato hábil a ser admitido como causa de rescisão de julgado é aquele resultante de atos ou de documentos da causa, conforme dicção do art. 485, inc. IX, do CPC. Inexistente o alegado erro de fato, porquanto foram enfrentadas e rebatidas as alegações das partes.
+3. A decisão administrativa emanada pelo IBAMA não guarda nenhuma relação com a condenação judicial imposta no decisum impugnado, que teve como fundamento as disposições contidas na Lei 8.429/92.
+4. A perda da função pública, sanção prevista no art. 12, inc. II, da Lei 8.429/92, refere-se ao cargo ocupado à época dos fatos tido por ímprobos. A única função pública exercida pelo ora autor, na ocasião, era a de prefeito municipal de Tocantinópolis/TO.
+5. Ação rescisória a que se dá parcial provimento para, ratificando a liminar anteriormente deferida, suspender os efeitos da decisão rescindenda no que tange à determinação da perda do cargo da parte autora de Procurador Federal do Quadro de Pessoal ida Procuradoria Geral Federal.
+6. Honorários advocatícios fixados, com fulcro no art. 20, § 4º, do CPC, no percentual de 20% (vinte por cento) sobre o valor da causa." (fl. 1.226e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 1.231-1.234e), os quais restaram rejeitados, nos seguintes termos:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 535, I E II, DO CPC. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. ACÓRDÃO PROFERIDO EM CONSONÂNCIA COM A CONSOLIDADA JURISPRUDÊNCIA DESTA CORTE. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Não existe omissão, contradição ou obscuridade no acórdão impugnado a ser sanada em embargos de declaração. O julgado embargado apreciou, fundamentadamente, por completo e de modo coerente, todas as questões necessárias ao deslinde da controvérsia, dando-lhes solução jurídica diversa da pretendida pela parte ora embargante.
+2. Os embargos de declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+3. A tese esposada pela parte embargante  existência de contradição no julgado  não se verifica no caso vertente, tendo em vista que a fundamentação do acórdão embargado expressamente consignou que "em relação à sanção  perda da função pública  prevista no art. 12, II, pela literalidade do dispositivo verifica-se que faz referência ao cargo ocupado à época dos fatos tidos por ímprobos, daí porque, conforme fundamentado na decisão que deferiu parcialmente a liminar requestada, a única função pública exercida, de fato, pelo réu, na ocasião, era a de prefeito municipal de Tocantinópolis/TO".
+4. Esse entendimento foi corroborado no parecer da Procuradoria Regional da República da i a .
+Região, ofertado em sede de ação rescisória, no qual asseverou: "não há como estender tal punição ao cargo público efetivo que ocupa, pois, em primeiro lugar, nos termos do inciso II do art.
+38 da CF, a investidura como Prefeito implica o imediato afastamento do cargo público eventualmente exercido e, segundo lugar, a perda de cargo público efetivo ocorre por atos praticados no exercício da respectiva função".
+Mesmo para fins de prequestionamento, os embargos de declaração devem se ajustar a uma das hipóteses previstas no art. 535 do CPC.
+5. Embargos de declaração do FUNAI rejeitados." (fl. 1.275-1.276e).
+Nas razões do Recurso Especial (fls. 1.306-1.312e), interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aoart. 12, II e parágrafo único, da Lei n. 8.429/1992.
+Sustentou que tanto o voto da Relatoria como a ementa se referem expressamente à sanção de perda da função pública, devendo ser extinto qualquer vínculo com a administração e não apenas o ocupado à época dos fatos tidos por improbos.
+Contrarrazões a fls. 1.315-1.319e.
+Inadmitido o Recurso Especial (fl. 1.330-1.331e), foi interposto o presente Agravo (fls. 1.348-1.352e).
+A irresignaçãomerece prosperar.
+O Tribunal de origem, ao julgar o recurso, consignou o seguinte (fl. 1.224e):
+Por fim, em relação à sanção  perda da função pública  prevista no art. 12, inc. II, pela literalidade do dispositivo verifica-se que faz referência ao cargo ocupado à época dos fatos tido por ímprobos, daí porque, conforme fundamentado na decisão que deferiu parcialmente a liminar requestada, a única função pública exercida, de fato, pelo réu, na ocasião, era a de prefeito municipal de Tocantinópolis/TO.
+Ante o exposto, ratificando a liminar anteriormente deferida, julgo parcialmente procedente o pedido formulado na ação rescisória, tão-somente para suspender os efeitos da decisão rescindenda no que tange à determinação da perda do cargo de Procurador Federal do Quadro de pessoal da Procuradoria Geral Federal por José Bonifácio Gomes de Sousa.
+Dessa forma, o acórdão recorrido julgou em desconformidade com o entendimento desta Corte, conforme se verifica no seguinte julgado:
+"ADMINISTRATIVO. IMPROBIDADE. PERDA DO CARGO. ALCANCE. INTERPRETAÇÃO. PRIMEIRA SEÇÃO DO STJ. MATÉRIA PACIFICADA. EFEITO VINCULANTE. OBSERVÂNCIA.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista.
+(Enunciado Administrativo n. 3).
+2. A despeito do entendimento pessoal do relator no sentido de que a sanção da perda da função pública, prevista entre aquelas do art. 12 da Lei n. 8.429/1992, não está relacionada ao cargo ocupado pelo agente ímprobo ao tempo do trânsito em julgado da sentença condenatória, mas sim àquele (cargo) que serviu de instrumento para a prática da conduta ilícita, a eg. Primeira Seção do STJ pacificou a interpretação de que de tal penalidade alcança todo e qualquer cargo ocupado pelo infrator por ocasião da condenação em definitivo, sendo essa decisão de eficácia vinculante, de modo que há de ser respeitada.
+3. Agravo interno provido."
+(AgInt no RMS 55.270/AP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 06/10/2020, DJe 21/10/2020)
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, c, do RISTJ, conheço do Agravo, para darprovimento ao Recurso Especial, a fim de definir que a penalidade de perda do cargo público a que se refere o art. 12, II, da Lei n. 8.429/1992 alcança todo e qualquer cargo ocupado pelo infrator por ocasião da condenação em definitivo.
+I.
