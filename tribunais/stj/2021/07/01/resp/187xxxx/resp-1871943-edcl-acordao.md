@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. DESERÇÃO DO RECURSO ESPECIAL. INOVAÇÃO RECURSAL. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015.
+2. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+3. Sob pena de invasão da competência do STF, descabe analisar questão constitucional em Recurso Especial, ainda que para viabilizar a interposição de Recurso Extraordinário.
+4. Hipótese em que, pela primeira vez no STJ, a parte embargante (somente após o julgamento monocrático do Recurso Especial e o colegiado do subsequente Agravo Interno) alega que o Recurso Especial não é deserto em virtude da inexigibilidade do porte de remessa e de retorno dos autos. Ocorre que a alegação poderia ter sido apresentada no Agravo Interno, e não o foi, razão pela qual se considera indevido o argumento, por configurar inovação recursal.
+5. Embargos de Declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração opostos contra acórdão da Segunda Turma do STJ cuja ementa é a seguinte:
+PROCESSUAL CIVIL. AGRAVO INTERNO CONTRA DECISÃO DA PRESIDÊNCIA DO STJ. PREPARO. COMPROVANTE DE PAGAMENTO ILEGÍVEL. GUIA DE RECOLHIMENTO. PREENCHIMENTO COM NÚMERO INCORRETO DO PROCESSO NA ORIGEM. DESERÇÃO. PRECEDENTE DA CORTE ESPECIAL.
+1. Hipótese em que a decisão agravada consignou (fls. 538-539, e-STJ): "Mediante análise do recurso de SANTA LUIZA AGRO PECUÁRIA LTDA e OUTRO, apesar ter sido juntado, o comprovante de pagamento das custas processuais encontra-se ilegível, impossibilitando a verificação da regularidade do preparo. O Superior Tribunal de Justiça consolidou o entendimento "no sentido de que os recursos dirigidos a esta Corte Superior devem estar acompanhados das guias de recolhimento e dos respectivos comprovantes de pagamento, de forma visível e legível, no momento de sua interposição, sob pena de deserção" (AgRg no AREsp 731.504/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 05/10/2017). Dessa forma, "não se conhece do recurso especial instruído com o comprovante de pagamento das custas processuais ilegível, pois impossível aferir a regularidade do preparo" (AgInt no AREsp n. 927.009/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 3/10/2016). Assim, incide na espécie o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso".
+2. É possível atestar que os comprovantes juntados pelas agravantes no ato da interposição do Agravo Interno se referem ao pagamento das guias de preparo do Recurso Especial de fls. 248-249, e-STJ, o que poderia permitir a análise da tese de suprimento do defeito da ilegibilidade dos comprovantes juntados quando da interposição do Recurso Especial.
+3. Todavia, a guia de recolhimento de fl. 248, e-STJ, está gravada com número de referência diverso do processo originário, razão pela qual o defeito da deserção persiste.
+4. A Corte Especial do Superior Tribunal de Justiça orienta-se no sentido de que, "a partir da edição da Resolução n. 20/2004, além do recolhimento dos valores relativos ao porte de remessa e retorno em rede bancária, mediante preenchimento da Guia de Recolhimento da União (GRU) ou de Documento de Arrecadação de Receitas Federais (DARF), com a anotação do respectivo código de receita e a juntada do comprovante nos autos, passou a ser necessária a indicação do número do processo respectivo" (AgRg no REsp 924.942/SP, Rel. Ministro Mauro Campbell Marques, julgado em 3.2.2010, DJe de 18/3/2010).
+6. Inaplicável a concessão de prazo para retificação, nos termos do art. 1.007, § 7º, do CPC/2015, pois o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/1973, de modo que os requisitos de admissibilidade devem ser analisados com base na jurisprudência relativa a este último, consoante o Enunciado Administrativo 2/STJ.
+7. Agravo Interno não provido.
+Nos Aclaratórios, as embargantes sustentam, em suma, que a deserção do Recurso Especial deve ser afastada em razão de não ser exigível o porte de remessa e de retorno dos autos quando o apelo foi interposto. Além disso, buscam rever a conclusão do acórdão recorrido na parte em que concluiu ter havido erro no preenchimento da guia de preparo da fl. 248, e-STJ.
+Transcorreu in albis o prazo para resposta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. DESERÇÃO DO RECURSO ESPECIAL. INOVAÇÃO RECURSAL. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015.
+2. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+3. Sob pena de invasão da competência do STF, descabe analisar questão constitucional em Recurso Especial, ainda que para viabilizar a interposição de Recurso Extraordinário.
+4. Hipótese em que, pela primeira vez no STJ, a parte embargante (somente após o julgamento monocrático do Recurso Especial e o colegiado do subsequente Agravo Interno) alega que o Recurso Especial não é deserto em virtude da inexigibilidade do porte de remessa e de retorno dos autos. Ocorre que a alegação poderia ter sido apresentada no Agravo Interno, e não o foi, razão pela qual se considera indevido o argumento, por configurar inovação recursal.
+5. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 12 de setembro de 2019.
+O acórdão embargado negou provimento ao Agravo Interno em virtude da deserção do Recurso Especial, considerando que uma das guias foi preenchida com número do processo de forma equivocada.
+Inovando na causa, a parte embargante alega ser indevido o pagamento da guia sobre a qual a controvérsia recai. Todavia tal alegação poderia ter sido apresentada no Agravo Interno, e não o foi, razão pela qual se considera indevido o argumento, por configurar inovação recursal. Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCURSO PÚBLICO. EDITAL. AGRAVO INTERNO IMPROVIDO. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO. INEXISTENTE.
+I - Trata-se de embargos de declaração opostos contra acórdão que desproveu agravo interno.
+II - Conforme entendimento pacífico desta Corte: "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016)"
+III - É vedado a esta Corte, na via especial, apreciar eventual ofensa à matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes: EDcl nos EDcl no AgRg no AREsp 575.787/DF, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/12/2017, DJe 19/12/2017; AgInt nos EDcl nos EDcl no REsp 1.677.316/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 5/12/2017, DJe 14/12/2017; EDcl no AgInt no REsp 1.294.078/DF, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 28/11/2017, DJe 5/12/2017.
+IV - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+V - Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.196.863/DF, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 18/3/2019).
+Quanto à pretensão de que seja revista a conclusão do acórdão recorrido de que houve erro no preenchimento da guia de preparo de fl. 248, e-STJ, os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC/2015.
+Cumpre salientar que, ao contrário do que afirmam as embargantes, não há omissão no decisum embargado. Suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de suprir omissão, contradição ou obscuridade.
+Além disso, é de conhecimento geral que os Aclaratórios não se prestam a rever a matéria julgada. Com esse entendimento:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. APRECIAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. Incabíveis embargos de declaração se inexiste omissão relativa à matéria infraconstitucional, não sendo o STJ competente para apreciar matéria constitucional, inclusive para fins de prequestionamento.
+3. É nítido o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do valor corrigido da causa.
+4. Embargos de declaração rejeitados. (EDcl no AgRg no Ag 936.404/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/09/2008, DJe 14/10/2008)
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito a multa prevista no Código de Processo Civil.
+É como voto.
