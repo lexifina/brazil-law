@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto porDAVID RODRIGUES DE MIRANDAcom respaldona alínea "a" do permissivo constitucionalcontra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOassim ementado (e-STJ fl. 77):
+AGRAVO DE INSTRUMENTO - AÇÃO ACIDENTÁRIA - DECISÃO QUE FIXOU A VERBA HONORÁRIA SUCUMBENCIAL - IRRESIGNAÇÃO DO AUTOR - CABIMENTO EM PARTE - LIQUIDAÇÃO DO JULGADO QUE DEVE ANTECEDER AO ARBITRAMENTO DOS HONORÁRIOS ADVOCATÍCIOS - SÚMULAN. 111 DO STJ QUE É COMPATÍVEL COM AS DISPOSIÇÕES DO ATUAL CPC - PRECEDENTES DO C. STJ E DESTA C. CÂMARA - DECISÃO REFORMADA.
+Recurso provido em parte.
+Em suas razões, a parte recorrente aponta negativa de vigência ao art. 85, §§ 2º e 3º, do CPC/2015,ao argumento de ser inaplicável a Súmula 111 do STJna vigência do novo Código de Processo Civil.
+Semc  ontrarrazões (e-STJ fl. 99).Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 100/101.
+Passo a decidir.
+A respeito do termo final doshonoráriosadvocatícios, a orientação jurisprudencial do Superior Tribunal de Justiça é a de que deve ser fixado na data do julgamento favorável à concessão do benefício pleiteado, excluindo-se as parcelas vincendas, conforme determina aSúmula 111desta Corte.
+Nesse sentido:
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL. HONORÁRIOS ADVOCATÍCIOS.INCIDÊNCIA DA SÚMULA 111/STJ.
+1. A questão trazida neste recurso se subsume ao disposto na Súmula 111/STJ, verbis: "Oshonoráriosadvocatícios, nas ações previdenciárias, não incidem sobre as prestações vencidas após asentença." 2. Assim, são devidoshonoráriosadvocatícios sobre o valor da condenação, considerando-se, para fins de cálculo dessa verba, apenas as parcelas vencidas até a prolação da decisão que reconheceu o direito do segurado, excluindo-se as vincendas.
+3. Agravo regimental provido. (AgRg no AREsp 271.963/AL, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 13/05/2014, DJe 19/05/2014).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APOSENTADORIA RURAL POR IDADE.HONORÁRIOSADVOCATÍCIOS.TERMO FINAL PARA APURAÇÃO DA BASE DE CÁLCULO. OBSERVÂNCIA DA SÚMULA 111/STJ. AGRAVO NÃO PROVIDO.
+1. Nos termos daSúmula n. 111do Superior Tribunal de Justiça, o marco final da verbahonoráriadeve ser o decisum no qual o direito do segurado foi reconhecido, que no caso corresponde ao acórdão proferido pelo Tribunal a quo.
+2. No caso em tela, o direito somente foi reconhecido com a prolação da decisão ora agravada, razão pela qual o marco final da verbahonoráriase deu com a decisão que ora se questiona, nos termos da Súmula 111/STJ.
+3. Agravo regimental não provido. (AgRg no REsp 1.557.782/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/12/2015, DJe 18/12/2015).
+Ressalte-se que o CPC/2015 não inovou em relação aos critérios para a fixação da verba honorária sucumbencial estabelecidos no § 2º do art. 85. Na realidade, a referida norma consubstancia-se em repetição da legislação anterior (art. 20, § 3º, do CPC/1973).
+Por outro lado, a própria natureza da tutela previdenciária (dirigida a suprir os segurados, ou seus dependentes, em caso de idade avançada, doença e morte, ou os assistidos da Previdência Social, em situação de vulnerabilidade), aliada ao princípio da efetividade, evidenciam a necessidade de adoção de instrumentos que assegurem a duração razoável do processo.
+Nesse contexto, permanece inalterado a finalidade da Súmula 111 do STJ, de modo a evitar possível conflito de interesses entre o patrono e seu representado, conforme se lê de um dos precedentes que originaram o citado enunciado sumular, in verbis:
+Nas ações previdenciárias, os honorários advocatícios devem ser fixados com exclusão das prestações vincendas, considerando-se apenas as prestações vencidas até o momento da prolação da sentença.  ..  Tomando-se o marco final das prestações vencidas como o trânsito em julgado da decisão, tem-se uma situação inusitada, na qual a morosidade no término do processo reverte em maiores ganhos ao patrocinador do segurado. (EREsp 195520/SP, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 22/09/1999, DJ 18/10/1999, p. 207).
+No caso concreto, o Tribunal de origem solveu a controvérsia em consonância com a jurisprudência mencionada.Dessa forma, incide o óbice da Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", cabível mesmo quando o recurso especial é interposto com base na alínea "a" do permissivo constitucional.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
