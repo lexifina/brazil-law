@@ -1,0 +1,16 @@
+DECISÃO
+1. Cuida-se de agravo interposto por PORTO SEGURO COMPANHIA DE SEGUROS GERAISem face de decisão que não admitiu o seu recurso especial.
+2. A irresignação não merece prosperar.
+A parte agravante não rebate, de forma específica, clara e fundamentada, os fundamentos da decisão agravada, notadamente o seguintes:
+"Dessa forma, em análise ao caso concreto, observa-se que a Secretaria certificou no id 68299994 que indigitada multa não foi paga, informando que "(..) para efetuar o recolhimento da multa aplicada a Recorrente deverá observar o procedimento com a emissão da guia de depósito judicial emitida no sitio deste Tribunal em SISCONDJ e juntando aos autos acompanhada de comprovante de pagamento bancário.".
+Neste ponto, convém salientar que desde 27/12/2001, com a edição da Lei Estadual n. 7.603/2001, o recolhimento das despesas e custas dos processos judiciais, relativos às atividades desenvolvidas pelos órgãos do Poder Judiciário do Estado de Mato Grosso devem ser recolhidos por meio de guias.
+Com efeito, dispõe o parágrafo único do art. 1º da referida lei, com alteração dada pela Lei n. 11.077/2020, que "o recolhimento dos valores relativos aos atos praticados no Foro Judicial, previstos no art. 1º desta Lei, será feito por meio de Guia do Poder Judiciário do Estado de Mato Grosso, vinculado ao respectivo processo, em qualquer instituição financeira".
+Com fundamento nessa Lei, o Tribunal de Justiça de Mato Grosso editou a Resolução n. 011/014/TP, cujo art. 4º dispôs que "o procedimento para emissão de guia de depósito judicial é público, devendo ser emitida exclusivamente através do acesso, via internet. Ao link Depósitos Judiciais ( http://siscondpjmt.jus.br ), disponibilizado na página do TJMT ( www.tjmt.jus.br )".
+Diante desse quadro, evidencia-se, portanto, de acordo com a certidão de id 68299994, que a Recorrente não comprovou o regular pagamento da multa, com a emissão da guia devida, o que caracteriza o descumprimento do dever descrito no § 5º do art. 1.021 do CPC.
+____ .
+Essa circunstância obsta, por si só, a pretensão recursal, pois à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida.
+Era esse o entendimento segundo a inteligência do disposto no inciso I, do § 4º, do art. 544 do Código de Processo Civil de 1.973, incluído pela Lei nº 12.322/2010, que tratava da sistemática dos agravos contra os despachos denegatórios dos recursos dirigidos a esta Corte e consigna ser dever do agravante atacar especificamente os fundamentos da decisão agravada, sob pena de não conhecimento de sua irresignação. Nesse sentido: AgRg no Ag 1270282/RS, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, DJe 17/02/2012 e AgRg no Ag 1327361/MG, Rel. Ministra Maria Isabel Gallotti, Quarta Turma.
+E continua a ser esse o entendimento na vigência do Novo Código de Processo Civil, ao estipular que o relator não deve conhecer de recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, Novo CPC).
+Ressalte-se que o art. 253, parágrafo único, I, do RISTJ também estabelece como ônus do agravante a impugnação a todos os fundamentos da decisão recorrida, sob pena de ver o seu agravo não conhecido.
+3. Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
