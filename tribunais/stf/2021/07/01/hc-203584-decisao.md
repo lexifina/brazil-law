@@ -1,0 +1,22 @@
+DECISÃO:
+EMENTA: Processual Penal. Habeas Corpus. Porte ilegal de arma de fogo de uso permitido. Regime inicial. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdãos unânimes da Sexta Turma do Superior Tribunal de Justiça (STJ), da Relatoria do Ministro Sebastião Reis Júnior, assim ementados:
+    “AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. 1. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Rel. p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018. 2. No caso, a defesa do agravante não impugnou, de forma suficiente, todos os fundamentos da decisão que inadmitiu o recurso especial na origem. 3. Agravo regimental improvido.”
+    “AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA JULGAMENTO PROFERIDO PELO COLEGIADO. RECURSO MANIFESTAMENTE INCABÍVEL. ERRO GROSSEIRO.
+    1. O agravo regimental é cabível somente contra decisões monocráticas, constituindo erro grosseiro a sua interposição contra julgamento proferido por órgão colegiado desta Corte Superior.
+    2. Segundo a orientação jurisprudencial desta Corte Superior, a interposição de agravo interno contra decisão colegiada configura-se erro grosseiro, sendo absolutamente incabível, nem interrompendo nem suspendendo o prazo para a interposição do recurso cabível, como, de fato, ocorreu na espécie. Nesse sentido, mutatis mutandis, o AgRg no AgRg no RE nos EDcl no AgRg nos EAREsp n. 822.343/MG, relator Ministro Humberto Martins, Corte Especial, DJe de 22/8/2018 e o AgInt no AREsp n. 1.199.970/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 20/8/2018 (AgInt nos EDcl no RMS n. 63.233/GO, Ministro Francisco Falcão, Segunda Turma, DJe 18/11/2020).
+    3. É manifestamente incabível o agravo regimental contra decisão colegiada, conforme dispõem os arts. 258 e 259 do Regimento Interno do Superior Tribunal de Justiça. [...] Nos termos da orientação jurisprudencial desta Corte Superior, o manejo do recurso de agravo contra acórdão constitui erro grosseiro, que inviabiliza a incidência do princípio da fungibilidade recursal (AgRg no HC n. 574.739/CE, Ministro Rogério Schietti Cruz, Sexta Turma, DJe 4/8/2020).
+    4. Agravo regimental não conhecido.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 2 anos de reclusão, em regime inicial semiaberto, pelo crime previsto no art. 14, caput, da Lei 10.826/03.
+    3. O Tribunal de Justiça do Estado de São Paulo (TJ/SP) negou provimento à apelação da defesa.
+    4. Na sequência, a defesa interpôs recurso especial. O Ministro João Otávio de Noronha, no exercício da Presidência do STJ, não conheceu do agravo. Contra essa decisão, foram interpostos, sucessivamente, dois agravos regimentais: o primeiro não foi provido e o segundo não foi conhecido.
+    5. Neste habeas corpus, a parte impetrante alega ausência de fundamentação idônea para a imposição de regime inicial mais gravoso. Daí o pedido de concessão da ordem a fim de que seja fixado o regime inicial aberto.
+    6. Decido.
+    7. O habeas corpus não deve ser concedido.
+    8. Inicialmente, verifico que as alegações da defesa não foram sequer apreciadas pelo STJ. Fato que impede o imediato exame da matéria pelo Supremo Tribunal Federal (STF), sob pena de supressão de instância.
+    9. Não bastasse isso, reconheço que a “imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea” (Súmula 719/STF). Mas o fato é que, no caso, o regime intermediário foi fixado com apoio em dados empíricos idôneos, extraídos da prova judicialmente colhida, notadamente em razão da existência de circunstância judicial desfavorável (reincidência).
+    10. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 1º de julho de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
