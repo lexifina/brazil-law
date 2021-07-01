@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE SÃO PAULO contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal.
+Na origem, o contribuinte interpôs agravo de instrumento em face de decisão que rejeitou a exceção de pré-executividade, recurso que teve seu provimento concedido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, ficando consignado o entendimento de que o credor fiduciário não possui legitimidade para figurar no polo passivo da execução fiscal que visa a cobrança de débito relativo ao IPTU de 2017.
+O referido acórdão foi assim ementado, in verbis:
+AGRAVO EXECUÇÃO FISCAL IPTU de 2017 Exceção de pré-executividade - Município de São Paulo Contrato de alienação fiduciária registrado na Matrícula em 2015, tendo por objeto o imóvel tributado Ilegitimidade passiva ad causam do credor fiduciário, que tem apenas a propriedade resolúvel e posse indireta do bem tributado Precedentes desta Câmara - RECURSO PROVIDO para excluir o recorrente do polo passivo da execução.
+Contra a decisão cuja ementa se encontra acima transcrita, o MUNICÍPIO DE SÃO PAULO interpôs recurso especial, apontando violação dos arts. 123, 1.359 e 1.360 do Código Civil e 117 do CTN.
+Sustenta, em síntese, que o contribuinte, na qualidade de credor fiduciário, é responsável pelo pagamento de IPTU.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial, com base na Súmula n. 7 do STJ, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que o debate acerca da exigibilidade de IPTU em face do credor fiduciário possui natureza eminentemente constitucional, sendo inviável a sua apreciação por meio da interposição de recurso especial. In verbis:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. BANCO BRADESCO S/A. ALIENAÇÃO FIDUCIÁRIA. ILEGITIMIDADE PASSIVA. IPTU. RESPONSABILIDADE DO FIDUCIANTE. ANÁLISE DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE.
+1. A controvérsia versa sobre a legitimidade passiva do Banco Bradesco S/A, como credor fiduciário, em execução fiscal de IPTU.
+2. A apreciação sobre a possibilidade de lei ordinária determinar quem é o contribuinte do IPTU refere-se a questão constitucional, prevista no artigo 146 da CF. Conforme dispõe o art. 105 da CF, a competência do Superior Tribunal de Justiça restringe-se à interpretação e à uniformização do direito infraconstitucional federal, impossibilitando-se o exame de eventual violação a dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao STF.
+3. Com efeito, das próprias razões do Recurso Especial é possível depreender o caráter constitucional da demanda, no qual o recorrente sustenta a tese de que lei ordinária não poderia alterar disposições de lei complementar. Por outro lado, o Tribunal de origem, ao decidir tal questão, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido.
+4. Agravo conhecido para não conhecer do Recurso Especial.
+(AREsp 1600392/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/03/2020, DJe 12/05/2020)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. IPTU. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO PREVISTA NO ART. 27, § 8º. DA LEI 9.514/1997. ALEGAÇÃO DE CONFRONTO COM OS ARTS. 34 E 123 DO CTN. MATÉRIA DE NATUREZA EMINENTEMENTE CONSTITUCIONAL. USURPAÇÃO DA COMPETÊNCIA DA SUPREMA CORTE. AGRAVO INTERNO DO MUNICÍPIO DE JUNDIAÍ A QUE SE NEGA PROVIMENTO.
+1. Embora alegue ofensa a dispositivo de lei federal, da análise do Apelo Nobre, no qual o recorrente sustenta violação do art. 146, inc. III da CF/1988 e que uma Lei Ordinária (Lei 9.514/1997) não pode contrariar uma disposição reservada a Lei Complementar (Código Tributário Nacional), verifica-se o caráter constitucional da demanda.
+2. Ademais, ao concluir que a posse apta a ensejar a incidência do IPTU seria aquela qualificada pelo animus domini, o acórdão recorrido amparou-se em dispositivo constitucional (art. 156, inc. I da CF/1988), cujo exame é inviável nesta seara recursal.
+3. Posta a controvérsia nestes termos, percebe-se que não se trata de hipótese de cabimento de Recurso Especial, sob pena de usurpação da competência, por esta Corte Superior, do Supremo Tribunal Federal, consoante pacífica jurisprudência do STJ. Precedentes: AgInt no REsp. 1.676.282/SP, Rel. Min. ASSUSETE MAGALHÃES, DJe 4.10.2017; AgInt no REsp. 1.591.034/SP, Rel. Min. OG FERNANDES, DJe 28.9.2017 e REsp. 1.670.295/SP, Rel. Min. HERMAN BENJAMIN, DJe 13.9.2017.
+4. Agravo Interno do MUNICÍPIO DE JUNDIAÍ a que se nega provimento.
+(AgInt no REsp 1676250/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/02/2019, REPDJe 26/02/2019, DJe 25/02/2019)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
