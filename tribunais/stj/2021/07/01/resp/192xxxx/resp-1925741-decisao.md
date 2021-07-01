@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESPÓLIO DE ROLANDO SOLTO com fundamento no art. 105, III, a e c, da Constituição Federal.
+Na origem, o contribuinte interpôs agravo de instrumento contra decisão que determinou o redirecionamento do feito executivo, avaliado em R$ 55.597,87 (cinquenta e cinco mil, quinhentos e noventa e sete reais e oitenta e sete centavos), em desfavor do espólio do de cujos.
+O mencionado recurso teve seu provimento negado pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, ficando consignado o entendimento de que é devido o redirecionamento da execução fiscal em face do espólio do falecido, mesmo que ausente a efetiva citação do executado.
+O referido acórdão foi assim ementado, in verbis:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. FALECIMENTO DO EXECUTADO ANTES DA EFETIVAÇÃO DA CITAÇÃO. ESPÓLIO. RESPONSABILIZAÇÃO.
+Ajuizada regularmente a execução e determinada a citação do devedor, seu posterior falecimento, antes da efetivação da citação, não impede o redirecionamento do feito ao espólio, responsável pelos débitos tributários do de cujus, na forma do art. 131, III, do CTN.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, o contribuinte interpôs o presente recurso especial, apontando violação dos arts. 1.022 do CPC/2015 e 2º da Lei de Execuções Fiscais.
+Sustenta, em síntese, que é devido o reconhecimento de nulidade do presente feito executivo, tendo em vista que é inviável o redirecionamento da execução fiscal ao espólio do falecido, ante à ausência de citação do de cujos.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que somente é possível o redirecionamento da execução fiscal em face do espólio quando o falecimento do contribuinte ocorrer após ele ter sido devidamente citado nos autos da execução, o que não ocorreu no caso dos autos. In verbis:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. FALECIMENTO DO EXECUTADO ANTES DA PROPOSITURA DA AÇÃO. REDIRECIONAMENTO AO ESPÓLIO. INVIABILIDADE. SÚMULA 83/STJ. REEXAME PROBATÓRIO VEDADO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. MULTA PREVISTA NO ART. 1021, §4º, DO CPC/2015 REVOGADA.
+1. Ao dirimir a controvérsia, a Corte estadual ratificou a sentença de piso desta forma (fls. 88-91, e-STJ, grifou-se): "Os autos noticiam que os débitos fazendários reclamados pelo Fisco originaram-se em fatos ocorridos nos exercícios de 1999 a 2001. O titulo executivo foi emitido em 10.06.2003 e a execucional deflagrada em 22.09.2003 (fl. 01). Contudo o executado faleceu em 13 de janeiro de 2001 (fl. 09), ou seja, antes mesmo do ajuizamento do feito e, notadamente, nessa hipótese, não há como redirecionar a execucional ao espólio como pretende o exequente. (..) Do mesmo modo, está assentado na jurisprudência do Superior Tribunal de Justiça, em sede de julgamento submetido ao rito dos repetitivos, o entendimento que corrobora a impossibilidade de redirecionamento da execução nos casos em que o falecimento do executado tenha ocorrido em momento anterior a sua devida citação nos autos da execução fiscal (..)".
+2. De fato, corretamente o acórdão reiterou a sentença, pois o STJ possui o entendimento pacífico de que o redirecionamento da execução contra o espólio só é admitido quando o falecimento do contribuinte ocorrer depois de ele ter sido devidamente citado nos autos da execução fiscal, o que não é o caso dos autos, já que o devedor apontado faleceu antes do ajuizamento da demanda. Aplica-se a Súmula 83/STJ.
+3. Outrossim, avaliar os fatos processuais dos autos e as datas de suas ocorrências - como a da constituição do tributo e a morte do devedor - implica reexame probatório vedado pela Súmula 7/STJ.
+4. A imposição de multa, todavia, pelo Tribunal local é descabida, pois a parte não ingressou com recurso manifestamente protelatório, ou improcedente. De fato, como já foi realçado na admissibilidade, "a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, não é automática por não se tratar de mera decorrência lógica da rejeição do agravo interno, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação (fl. 245, e-STJ).
+5. Recurso Especial parcialmente conhecido, somente quanto ao pedido de anulação da multa processual, e, nesse ponto, dou-lhe provimento.
+(REsp 1835711/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/11/2019, DJe 18/11/2019)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXECUTADO FALECIDO NO CURSO DA EXECUÇÃO, ANTES DA CITAÇÃO. REDIRECIONAMENTO. IMPOSSIBILIDADE.
+1. Conforme o entendimento do Superior Tribunal de Justiça, somente é possível o redirecionamento da execução fiscal em face do espólio quando o falecimento do contribuinte ocorrer após ele ter sido devidamente citado nos autos da execução, o que não ocorreu no caso dos autos.
+2. Recurso especial a que se nega provimento.
+(REsp 1832608/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/09/2019, DJe 24/09/2019)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para reconhecer a nulidade do presente feito executivo.
+Publique-se. Intimem-se.
