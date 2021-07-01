@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos porCAVICON INDÚSTRIA E COMÉRCIO DE MATERIAIS DE CONSTRUÇÃO EIRELI - EM RECUPERAÇÃO JUDICIALcontra decisão unipessoal que conheceudorecurso especial, masnegou-lhe provimento.
+Em suas razões, a embargantealega que a decisão impugnada contraria a coisa julgada, na medida em que foi dada solução diversa em outro caso semelhante a esse, também com recurso interposto em face da mesma decisão de homologação do plano de recuperação judicial da embargante e com o mesmo objeto - cláusula de supressão de garantias fidejussórias.
+Defende, assim, que a Terceira Turma proferiu "decisões conflitantes e contraditórias em casos com identidade de interesse e causa de agir e objeto" (e-STJ, fl. 399), devendo "vigorar o acórdão prolatado no REsp 1.850.287/SP, com trânsito em julgado na data de 24.02.2021" (e-STJ, fl. 400).
+É O BREVE RELATÓRIO.
+A questão suscitada pela embargantenão constitui omissão interna do julgado, é dizer, aquela constatada entre a fundamentação e a conclusão a que chegou a decisão recorrida sobre a eficácia da cláusula do plano de recuperação judicial que prevê a supressão de garantias, mas mero inconformismo com o julgado.
+Ademais, observa-se que a alegação de ocorrência de coisa julgada não procede. Isso porque, apesar de o REsp 1.850.287/SP ter como pano de fundo a decisão que homologou o plano de recuperação judicial da embargante,é proveniente do Agravo de Instrumento n. 2022110-95.2019.826.0000, interposto na origem por CPFL - Companhia Paulista de Força e Luz, ao passo que o presente REsp 1.849.408/SP se voltou contra o Agravo de Instrumento n. 2022124-79.2019.8.26.0000, manejadopor Itaú Unibanco S.A.Tratam-se, portanto, de partes diferentes e, assim, não há falar em coisa julgada.
+Noutro vértice, observa-se que a anterior divergência de entendimento existente no âmbito da Terceira Turma a respeito da matéria foi superada com o julgamento, pela Segunda Seção do STJ, na sessão de julgamento do dia 12/5/2021, dos Recursos Especiais ns.1.885.536/MT e REsp 1.794.209/SP, em que ficou pacificada a orientaçãodeque a anuência do titular de garantia, real ou fidejussória, é indispensável para que o plano de recuperação judicial possa estabelecer sua supressão ou substituição.
+Para o colegiado, a cláusula supressiva apenas gera efeitos aos credores que aprovaram o plano de recuperação sem ressalvas quanto a ela, não sendo eficaz, portanto, em relação àqueles que não participaram da assembleia, que se abstiveram de votar ou que se posicionaram contra tal disposição.
+Portanto, o entendimento firmado pelo colegiado composto pelas Turmas de Direito Privado (Terceira e Quarta Turmas) prevalece sobre a anterior orientação isolada da Terceira Turma, não merecendo acolhida, portanto, as alegações da embargante a esse respeito.
+Assim, dissociadoo pleitode qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. IMPOSSIBILIDADE.
+1. Rejeitam-se os embargos de declaração quando ausentes omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração no recurso especial rejeitados.
