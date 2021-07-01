@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. CONFLITO NEGATIVO DE COMPETÊNCIA INSTAURADO ENTRE JUÍZOS ESTADUAL E FEDERAL. DEMANDA PROPOSTA CONTRA INSTITUIÇÕES PRIVADAS DE ENSINO SUPERIOR PARA FINS DE DECLARAÇÃO DE VALIDADE DE DIPLOMA, BEM ASSIM PARA O SEU DEFINITIVO REGISTRO. CONTROVÉRSIA ENTRE PARTICULARES. COMPETÊNCIA DA JUSTIÇA ESTADUAL, NAS CIRCUNSTÂNCIAS DO CASO.
+1. Na hipótese dos autos, o acórdão embargado foi bastante claro ao estabelecer que a ausência de validação do diploma da autora da ação originária, a priori, não decorre da ausência de credenciamento da instituição de ensino superior pelo Ministério da Educação, o que afasta o interesse jurídico da União no feito, a ensejar a competência da Justiça Federal.
+2. Outrossim, o decisum objurgado também evidenciou que, pelo que se extrai da inicial, o contexto em que se deu o cancelamento do registro do diploma não teve atuação direta do Ministério da Educação, e sim má interpretação de determinação - posteriormente revogada - de suspensão da autonomia universitária da UNIG, o que atingira a atividade de registro de diplomas. Não se evidenciando interesse da União no presente caso, até porque não se discute o credenciamento da universidade particular, deve ser a demanda processada e julgada na Justiça Estadual.
+3. O recurso foi desprovido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado.
+4. Os argumentos da parte embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+5. Embargos de Declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques, Assusete Magalhães, Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ, com a seguinte ementa:
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA INSTAURADO ENTRE JUÍZOS ESTADUAL E FEDERAL. DEMANDA PROPOSTA CONTRA INSTITUIÇÕES PRIVADAS DE ENSINO SUPERIOR PARA FINS DE DECLARAÇÃO DE VALIDADE DE DIPLOMA, BEM ASSIM PARA O SEU DEFINITIVO REGISTRO. CONTROVÉRSIA ENTRE PARTICULARES. COMPETÊNCIA DA JUSTIÇA ESTADUAL, NAS CIRCUNSTÂNCIAS DO CASO.
+1. Na hipótese dos autos, constata-se que a ausência de validação do diploma da autora da ação originária, a priori, não decorre da ausência de credenciamento da instituição de ensino superior pelo Ministério da Educação, o que afasta o interesse jurídico da União no feito, a ensejar a competência da Justiça Federal.
+2. Com efeito, pelo que se extrai da inicial, o contexto em que se deu o cancelamento do registro do diploma não teve atuação direta do Ministério da Educação, e sim má interpretação de determinação - posteriormente revogada - de suspensão da autonomia universitária da UNIG, o que atingira a atividade de registro de diplomas. Não se evidenciando interesse da União no presente caso, até porque não se discute o credenciamento da universidade particular, deve ser a demanda processada e julgada na Justiça Estadual.
+3. Agravo Interno não provido.
+Em síntese, o embargante alega:
+(..)
+Em apertada síntese, o pedido da parte autora é a declaração de validade do registro do diploma de graduação. O simples fato de a instituição de ensino superior ser mantida ou administrada por pessoas físicas ou jurídicas de direito privado basta à sua caracterização como instituição de ensino privada, e, por conseguinte, sujeitas ao Sistema Federal de Ensino conforme a Lei 9.394/96 (Lei de Diretrizes e Bases da Educação Nacional).
+Portanto, não houve manifestação isolada da Recorrente, mas sim cumprimento de determinação expressa do Ministério da Educação para que fossem cancelados os registros dos diplomas expedidos pela FALC em desconformidade com os atos de credenciamento.
+(..)
+Houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. CONFLITO NEGATIVO DE COMPETÊNCIA INSTAURADO ENTRE JUÍZOS ESTADUAL E FEDERAL. DEMANDA PROPOSTA CONTRA INSTITUIÇÕES PRIVADAS DE ENSINO SUPERIOR PARA FINS DE DECLARAÇÃO DE VALIDADE DE DIPLOMA, BEM ASSIM PARA O SEU DEFINITIVO REGISTRO. CONTROVÉRSIA ENTRE PARTICULARES. COMPETÊNCIA DA JUSTIÇA ESTADUAL, NAS CIRCUNSTÂNCIAS DO CASO.
+1. Na hipótese dos autos, o acórdão embargado foi bastante claro ao estabelecer que a ausência de validação do diploma da autora da ação originária, a priori, não decorre da ausência de credenciamento da instituição de ensino superior pelo Ministério da Educação, o que afasta o interesse jurídico da União no feito, a ensejar a competência da Justiça Federal.
+2. Outrossim, o decisum objurgado também evidenciou que, pelo que se extrai da inicial, o contexto em que se deu o cancelamento do registro do diploma não teve atuação direta do Ministério da Educação, e sim má interpretação de determinação - posteriormente revogada - de suspensão da autonomia universitária da UNIG, o que atingira a atividade de registro de diplomas. Não se evidenciando interesse da União no presente caso, até porque não se discute o credenciamento da universidade particular, deve ser a demanda processada e julgada na Justiça Estadual.
+3. O recurso foi desprovido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado.
+4. Os argumentos da parte embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+5. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 9.4.2021.
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Na hipótese dos autos, o acórdão embargado foi bastante claro ao estabelecer que a ausência de validação do diploma da autora da ação originária, a priori, não decorre da ausência de credenciamento da instituição de ensino superior pelo Ministério da Educação, o que afasta o interesse jurídico da União no feito, a ensejar a competência da Justiça Federal.
+Outrossim, o decisum objurgado também evidenciou que. pelo que se extrai da inicial, o contexto em que se deu o cancelamento do registro do diploma não teve atuação direta do Ministério da Educação, e sim má interpretação de determinação - posteriormente revogada - de suspensão da autonomia universitária da UNIG, o que atingira a atividade de registro de diplomas. Não se evidenciando interesse da União no presente caso, até porque não se discute o credenciamento da universidade particular, deve ser a demanda processada e julgada na Justiça Estadual.
+Cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissão no decisum embargado. Suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+Além disso, é de conhecimento geral que os Aclaratórios não se prestam a rever a matéria julgada, nem a prequestionar dispositivos constitucionais. Com esse entendimento:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. APRECIAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. Incabíveis embargos de declaração se inexiste omissão relativa à matéria infraconstitucional, não sendo o STJ competente para apreciar matéria constitucional, inclusive para fins de prequestionamento.
+3. É nítido o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do valor corrigido da causa.
+4. Embargos de declaração rejeitados. (EDcl no AgRg no Ag 936.404/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/09/2008, DJe 14/10/2008)
+Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração.
+É como voto.
