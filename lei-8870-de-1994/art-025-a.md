@@ -1,0 +1,4 @@
+Art. 25A. As contribuições de que tratam os incisos I e II do art. 22 da Lei no 8.212, de 24 de julho de 1991, serão devidas pelos cooperados, na forma do art. 25 desta Lei, se pessoa jurídica, e do art. 25 da Lei nº 8.212, de 24 de julho de 1991, se pessoa física, quando a cooperativa de produção rural contratar pessoal, exclusivamente, para colheita de produção de seus cooperados.
+§ 1º Os encargos decorrentes da contratação de que trata o caput serão apurados separadamente dos relativos aos empregados regulares da cooperativa, discriminadamente por cooperados, na forma do regulamento.
+§ 2º A cooperativa de que trata o caput é diretamente responsável pelo recolhimento da contribuição previdenciária de que trata o art. 20 da Lei nº 8.212, de 24 de julho de 1991.
+§ 3º Não se aplica o disposto no § 9º do art. 25 da Lei nº 8.212, de 24 de julho de 1991, à contratação realizada na forma deste artigo.
