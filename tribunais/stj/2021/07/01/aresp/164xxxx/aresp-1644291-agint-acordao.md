@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. HORAS EXTRAS. OFENSA AOSARTTS. 489 E 1.022 DO CPC/2015 NÃO CARACTERIZADA. REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ.ALEGADA OMISSÃO ACERCA DE LEGISLAÇÃO LOCAL E MATÉRIA CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE.
+1. Inexiste a alegada violação aos arts. 489 e 1.022 do CPC/2015, visto que a Corte de origem julgou integralmente a lide e solucionou, de maneira clara e amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado, não podendo o acórdão ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. É inviável analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+3. Ademais, não cabe ao STJ analisar omissão quanto a teses e dispositivos constitucionais, nem mesmo por suposta afronta do art. 1.022 do CPC/2015, sob pena de usurpar a competência do Supremo Tribunal Federal.
+4. Ressalta-se ainda que é impossível, nesta via recursal, manifestação acerca de suposta omissão em torno da legislação local. Para concluir a esse respeito, seria necessária a interpretação da referida norma, providência inadmitida na forma da Súmula 280/STF.
+5. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto pelo Estado do Rio de Janeiro contra decisão (fls. 309-311, e-STJ) que conheceu do Agravo para negar provimento ao Recurso Especial.
+O agravante sustenta:
+3. De início, registre-se que não há qualquer matéria fática a ser reexaminada pelo Superior Tribunal de Justiça, simplesmente porque a omissão que se pretendeu sanar com a apresentação de embargos de declaração ao acórdão que anulou a sentença proferida em primeira instância, foi relativa a inconstitucionalidade da norma invocada no referido acórdão como base para a concessão do beneficio remuneratório pleiteado pelo autor, aqui recorrido.
+4. Com efeito, embora o acórdão prolatado pelo Tribunal de Justiça do Rio de Janeiro tenha anulado, e não reformado, a sentença que julgara improcedentes os pleitos contidos na peça vestibular, para que fossem trazidos aos autos a escala de trabalho do autor, o fez já antecipando sua visão acerca da Questão de direito, ou seja. afirmando que existiria previsão legal de contraprestação pelas horas extras exercidas por policial militar.
+5. Em outras palavras, não houve, ali, naquele julgado, apreciação de qualquer questão fática, tanto que a sentença foi anulada para que. em primeira instância, fosse produzida a prova pretendida pelo autor, mas, por outro lado, pretendeu o acórdão proferido pela Corte de Justiça estadual balizar o entendimento a ser adotado pelo juízo de piso, o fazendo através de invocação de norma já julgada inconstitucional pelo próprio Tribunal de Justiça.
+6. De toda sorte, o que se verifica é que não há matéria fática a ser revolvida, e portanto, descabe falar-se em incidência da Súmula 7 STJ.
+7. Quanto à a ofensa aos arts. 489 e 1.022 do Código de Processo Civil, ainda que aparentemente o Tribunal de origem tenha julgado a lide c solucionado a controvérsia, é certo que ele fez invocando norma declarada inconstitucional, em controle concentrado, pelo próprio Órgão Especial daquela Corte de Justiça estadual (Representação por Inconstitucionalidade nº 34/92 - 1992.007.00034).
+8. Ora, solucionar a lide mediante aplicação de uma não-norma (uma vez que a norma invocada foi extirpada do ordenamento jurídico, com eficácia vinculante), mormente quando jura novit curia, significa não entregar a prestação jurisdicional por inteiro, donde se extrai a violação aos arts. 489 e 1.022 do CPC/2015.
+9. De resto, quanto às demais normas invocadas, regulam outra situação (regime adicional de serviços) que não a compensação por horas extraordinárias. De sorte que, para que a prestação jurisdicional se fizesse por inteiro, e porque o processo deverá retornar à primeira instância para ser reapreciado, necessário seria que a Corte de Justiça fluminense examinasse as omissões apontadas nos embargos declaratórios de fls. 191/197.
+10. Não o fazendo, violados estão o artigo 1022 do CPC/2015, e em especial o artigo 489, § 1º, IV, do mesmo diploma legal, eis que a consideração de que a norma invocada pelo Tribunal de Justiça do Estado do Rio de Janeiro é inconstitucional poderia infirmar a conclusão por ele adotada na apelação. (fls. 316-317, e-STJ).
+Pleiteia, ao final, o provimento do presente recurso.
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. HORAS EXTRAS. OFENSA AOS ARTTS. 489 E 1.022 DO CPC/2015 NÃO CARACTERIZADA. REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ. ALEGADA OMISSÃO ACERCA DE LEGISLAÇÃO LOCAL E MATÉRIA CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE.
+1. Inexiste a alegada violação aos arts. 489 e 1.022 do CPC/2015, visto que a Corte de origem julgou integralmente a lide e solucionou, de maneira clara e amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado, não podendo o acórdão ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. É inviável analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+3. Ademais, não cabe ao STJ analisar omissão quanto a teses e dispositivos constitucionais, nem mesmo por suposta afronta do art. 1.022 do CPC/2015, sob pena de usurpar a competência do Supremo Tribunal Federal.
+4. Ressalta-se ainda que é impossível, nesta via recursal, manifestação acerca de suposta omissão em torno da legislação local. Para concluir a esse respeito, seria necessária a interpretação da referida norma, providência inadmitida na forma da Súmula 280/STF.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 20 de maio de 2021.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme consignou a decisão agravada, não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Ao dirimir a controvérsia, o Tribunal de origem consignou:
+Na réplica (fls. 63/69), o Autor reitera as provas postuladas na inicial, ou seja, a exibição pelo Réu da escala de trabalho para demonstração do excesso de horas trabalhadas.
+No entanto, esse requerimento foi ignorado, embora a prova fosse imprescindível para o deslinde da causa, a fim de comprovar se, efetivamente, o Autor trabalhou além das horas previstas em lei e se houve a alegada compensação.
+Considerando que a sentença julgou improcedente o pedido sob o fundamento de que "a parte autora não produziu prova capaz de afastar a presunção que se reconhece em favor do ERJ, no sentido de que já é beneficiado com jornada de trabalho inferior a 40 horas semanais, bem como pela existência de "banco de horas"", fica caracterizado o cerceamento de defesa, a ensejar a anulação da sentença.
+(..)
+Não há que se falar em especialidades próprias do cargo, sendo certo que existe previsão legal do Decreto nº 43.538/2012 quanto a carga horária máxima, bem como o valor a ser recebido por cada hora excedida, a ser cumprida mensalmente pelo militar, o que se coaduna com a legislação infraconstitucional.
+Outrossim, o artigo 48, inciso VII da Lei nº 443/1981 (Estatuto dos Policiais Militares do Estado do Rio de Janeiro) prevê o direito à remuneração do serviço extraordinário, in verbis:
+Art. 48 - São direitos dos policiais militares:
+(..)
+VII - A remuneração do serviço extraordinário, no mínimo, em cinqüenta por cento a do normal.
+Estabelece o artigo 3º, § 1º do Decreto nº 43.538/2012 também prevê que:
+Art. 3º - O emprego do policial civil, policial militar, bombeiro militar ou agente penitenciário nos programas de que trata este Decreto consistirá na realização de turnos adicionais de serviço com duração de no mínimo 06 (seis) e no máximo 12 (doze) horas efetivas de trabalho.
+§ 1º - Quando o policial civil, policial militar, bombeiro militar ou agente penitenciário estiver trabalhando regime de escala, só serão considerados turnos adicionais aqueles que, tomando-se em conta o mês com duração de 30 (trinta) dias, excederem a 144 (cento e quarenta e quatro) horas mensais efetivas de turnos regulares.
+§ 2º - Quando o policial civil, policial militar, bombeiro militar ou agente penitenciário estiver trabalhando sob regime de expediente só serão considerados turnos adicionais aqueles que excederem a 40 (quarenta) horas semanais efetivas de expedientes regulares.
+Destarte, mesmo havendo previsão legal para a compensação de banco de horas, não se pode presumir que o procedimento foi efetivamente cumprido, impondo-se a apresentação da escala de trabalho pelo Réu, já que se trata de documento inacessível para o Autor.
+Registre-se que as informações prestadas através de oficio (fls. 159/160) a pedido da PGEi e juntada em sede recursal não tem o condão de substituir a apresentação da escala de trabalho na aferição da compensação das horas trabalhadas.
+Ante o exposto, voto no sentido de conhecer e dar provimento ao recurso, a fim de anular a sentença e determinar o retorno dos autos ao Juízo de origem para o devido prosseguimento do feito.
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte a quo examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Ademais, seria inviável analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+Acrescento que não cabe ao STJ analisar omissão quanto a teses e dispositivos constitucionais, nem mesmo por suposta afronta ao art. 1.022 do CPC/2015, sob pena de usurpar a competência do Supremo Tribunal Federal.
+Ressalta-se ainda que também é impossível, nesta via recursal, manifestação acerca de suposta omissão em torno da legislação local (Lei Estadual 443/1981 e Decreto Estadual 43.538/2012). Para concluir a esse respeito, seria necessária a interpretação das referidas normas, providência inadmitida na forma da Súmula 280/STF. Nessa linha:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. ALEGADA OMISSÃO ACERCA DE MATÉRIA CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE. VIOLAÇÃO DO ART. 535, II, DO CPC. NÃO OCORRÊNCIA. EX-CELETISTA. TRANSPOSIÇÃO PARA O REGIME ESTATUTÁRIO. VANTAGEM ANTERIORMENTE INCORPORADA, POR FORÇA DE SENTENÇA TRANSITADA EM JULGADO, NA JUSTIÇA DO TRABALHO. INEXISTÊNCIA DE DIREITO ADQUIRIDO. AGRAVO REGIMENTAL IMPROVIDO.
+I. Na forma da jurisprudência, ""não cabe ao Superior Tribunal de Justiça, a pretexto de examinar suposta ofensa ao art. 535, II, do CPC, aferir a existência de omissão do Tribunal de origem acerca de matéria constitucional, sob pena de usurpar a competência reservada ao Supremo Tribunal Federal" (AgRg no REsp 1198002/SE, Rel. Min. Arnaldo Esteves Lima, Primeira Turma, julgado em 18/9/2012, DJe 21/9/2012)" (STJ, AgRg no AREsp 528.055/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 26/08/2014).
+II. Como cediço, "inexiste violação ao art. 535, II, do CPC, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que a embasam" (STJ, AgRg no REsp 1.303.516/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/11/2014).
+III.(..)
+IV. Agravo Regimental improvido. (AgRg no REsp 1.255.019/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 28/9/2015).
+De todo o exposto, conclui-se que o Recurso Especial não merece conhecimento, devendo ser mantida a decisão agravada.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
