@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por MATHEUS ABBARI, em face de decisão que não admitiu recurso especial (fls. 506-510, e-STJ).
+O apelo nobre, de sua vez, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 456-460, e-STJ):
+DECLARATÓRIA C/C OBRIGAÇÃO DE FAZER E NÃO FAZER E INDENIZATÓRIA.1. As partes foram casadas, realizando diversos negócios entre si e com terceiros. E desde que se separaram, diversas foram as ações ajuizadas para tentar solucionar problemas de cunho patrimonial. 2. Em uma das ações, a varoa reconheceu que as doações realizadas ao então marido teriam o objetivo de lesar credores, sendo declaradas em fraude. 3. Em outra, teve rejeitado o pedido de anulação de tais doações. 4. Numa terceira, o varão buscou comprovar que os empréstimos tomados junto à ex-esposa teriam sido quitados mediante a dação em pagamento de um automóvel Hyundai Tucson, originariamente pertencente a ela (mas doado a ele).5. Aqui, ele pretendeu compelir a ré a arcar com os custos da manutenção do veículo, mas proibi-la de usá-lo, ao argumento de que ela estaria cometendo infrações de trânsito que estariam sendo registradas no prontuário dele perante o Detran; que fosse reconhecida a responsabilidade dela pelas infrações e eventuais danos que vierem a ser causados a terceiros na condução do automóvel; que ela pague indenização pelo tempo em que estiver usando o bem em seu nome; que o Detran seja informado da existência de litigiosidade sobre o bem.6. Ocorre que as obrigações de fazer e não fazer pleiteadas pelo autor são incompatíveis entre si; ações envolvendo multas de trânsito e pontuações de carteira de habilitação devem ter a Fazendo do Estado no polo passivo; a ré demonstrou ter sofrido uma única multa de trânsito, por ela mesma quitada, bem como estar arcando com o IPVA do bem; a anotação no prontuário do veículo seria inócua, enquanto persistir a situação em que o veículo se encontra na posse da ré e registrado em nome do autor, por intransigência das partes. 7. Por fim, despicienda a discussão acerca da manutenção da "ação declaratória incidental" pelo novo Código de Processo Civil, uma vez ser irrelevante a nomenclatura que a parte confere à sua ação. Recurso não provido.
+Opostos embargos de declaração (fls. 462, e-STJ), esses foram acolhidos, tão somente para majorar os honorários advocatícios sucumbenciais (fls. 474-476, e-STJ).
+Nas razões do recurso especial (fls. 479-496, e-STJ), a recorrente, além de dissídio jurisprudencial, aponta violação aos seguintes artigos:
+(i) 1022 do CPC/2015, na medida em que não era possível haver majoração da verba honorária já que a parte recorrida não apelo de tal ponto da sentença;
+Não foram apresentadas contrarrazões (fls. 503, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob os fundamentos de que: a) não houve negativa de prestação jurisdicional; b) a simples transcrição de dispositivo de lei não autoriza o conhecimento de recurso especial; c) incidiria ao caso o enunciado nº 7 da Súmula do STJ; d) não restou comprovado o dissídio jurisprudencial.
+Irresignada, aduz a agravante, em suma, que o reclamo merece trânsito, uma vez que os supracitados óbices não subsistiriam.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. No que toca à alegada ofensa ao art. 1022 do CPC/2015, razão não assiste à insurgente.
+Em seu arrazoado, defende a recorrente, em suma, que "v. acórdão violou flagrantemente o art. 1.022 e incisos do CPC, pois, sem caráter excepcional, não poderia haver majoração da verba honorária, mesmo porque a recorrida não apelou desta parte da sentença que fixara a honorária em 10%" (fl. 491, e-STJ).
+Nota-se, contudo, que o dispositivo legal apontado como violado - art. 1022 do CPC/2015 - não possui carga normativa apta a sustentar a tese defendida no especial, na medida em que disciplina, tão somente, a existência de omissões, contradições e obscuridades em provimentos jurisdicionais.
+Nesse contexto, de rigor a aplicação da Súmula 284/STF à presente questão, dada a deficiência de fundamentação observada no apelo extremo. Precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. ART. 513 DO CPC/1973. FALTA DE PERTINÊNCIA TEMÁTICA COM A TESE DO ESPECIAL. SÚMULA N. 284/STF. DECISÃO DE RELATOR. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. DECISÃO MANTIDA.
+(..)
+2. O art. 513 do CPC/1973 não possui carga normativa para sustentar a tese de cerceamento de defesa, o que inviabiliza o conhecimento da insurgência, nos termos da Súmula n. 284/STF.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1091409/BA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/03/2018, DJe 02/04/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. LIMITAÇÃO DOS DESCONTOS A TÍTULO DE PARCELAS DE EMPRÉSTIMOS BANCÁRIOS. POSSIBILIDADE. PEDIDOS DE DANO MORAL E DE DEVOLUÇÃO DOS VALORES JÁ DESCONTADOS JULGADOS IMPROCEDENTES. DISPOSITIVOS LEGAIS SEM CARGA NORMATIVA PARA SUSTENTAR A POSTULAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Os dispositivos indicados como violados não têm aptidão para ensejar a reforma do acórdão recorrido quanto à improcedência de parte dos pedidos, porquanto os arts. 649, IV, do CPC/73, 4º, 6º, V e VI, e 51, IV, do Código de Defesa do Consumidor não têm carga normativa para sustentar o pedido de dano moral, nem a devolução dos valores descontados além do percentual de 30%. Tal situação determina a incidência, por analogia, da Súmula 284 do STF.
+(..)
+(AgInt no REsp 1588500/RJ, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 12/12/2017, DJe 18/12/2017)
+AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO DE NULIDADE DE TESTAMENTO - INOBSERVÂNCIA DA LEGISLAÇÃO - FORMALISMO QUE NÃO PODE SE OPOR À VONTADE DA TESTADORA - ALEGAÇÃO DE VÍCIO NO CONSENTIMENTO - INEXISTÊNCIA.
+(..)
+3. No que concerne à impossibilidade de ser a mesma pessoa testemunha, testamenteiro e inventariante, nota-se que o recurso especial encontra-se deficiente, porquanto esta Corte Superior entende que o dispositivo legal tido como violado deve conter carga normativa suficiente a alterar o julgado hostilizado. Na hipótese vertente, o insurgente aponta ofensa à regra jurídica incapaz de exercer modificação no provimento jurisdicional atacado, razão pela qual o apelo extremo é deficiente, nos termos da Súmula n. 284 do STF. Ainda que assim não fosse, o aresto hostilizado está fundado na regra do art. 990, V, do Código de Processo Civil, que não fora objeto de impugnação pelo apelo extremo, motivo pelo qual incide por analogia a Súmula n. 283 do STF.
+4. Agravo regimental desprovido.
+(AgRg no AgRg no REsp 1230609/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/09/2013, DJe 02/10/2013)
+2. Salienta-se, outrossim, que a recorrente também não logrou comprovar, de forma adequada, o dissídio pretoriano suscitado.
+Verifica-se que, ao longo de seu arrazoado, a recorrente tão somente transcreve ementas de julgados, sem realizar o devido cotejo analítico entre as particularidades do caso em tela e aquelas identificadas nos precedentes paradigmas invocados. Assim, não demonstra, de modo inequívoco, que, a situações fáticas análogas, foram aplicados entendimentos jurídicos conflitantes.
+Nesse cenário, tem-se que o apelo nobre não atende às exigências dispostas nos arts. 1.029, § 1º, do CPC e 255, §1º, do RISTJ, o que inviabiliza seu conhecimento. Precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS DE CONTRATO DE EMPRÉSTIMO BANCÁRIO. 1. DECISÃO QUE DEFERIU A ANTECIPAÇÃO DA TUTELA. VERIFICAÇÃO DOS REQUISITOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. 2. VIOLAÇÃO DO ART. 831 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. 3. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DE COTEJO ANALÍTICO. 4. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+3. A simples transcrição de ementas, trechos ou inteiro teor dos precedentes colacionados, sem o necessário cotejo analítico entre os casos confrontados, não viabiliza o conhecimento do recurso especial pelo dissídio, ante a inobservância dos requisitos dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 654.042/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 28/04/2015, DJe 22/05/2015)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE COBRANÇA DE CLÁUSULA PENAL - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE RÉ.
+(..)
+3. É entendimento pacífico do STJ que a parte deve proceder ao cotejo analítico entre os julgados confrontados e transcrever trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente a mera transcrição de ementas.
+4. Agravo interno desprovido.
+(AgInt no AREsp 945.538/AL, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/11/2017, DJe 20/11/2017)
+3. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, nego provimento ao agravo. Por conseguinte, nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor dos honorários advocatícios arbitrados na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC/2015.
+Publique-se.
+Intimem-se.
