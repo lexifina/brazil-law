@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpusajuizado em benefício deWesley Luiz Souza de Rezende, apontando-secomo autoridade coatora o Tribunal de Justiça de São Paulo, ante o acórdão proferido no Agravo de Execução Penal n.0001741-65.2021.8.26.0996, cuja ementa é a seguinte (fls. 49/50):
+PENAL. AGRAVO EM EXECUÇÃO.PROGRESSÃO AO REGIME SEMIABERTO. INDEFERIMENTO.RECURSO DEFENSIVO.
+Pretendido deferimento da benesse por alegada presença dos requisitos legais.Parcial cabimento.
+Conquanto não demonstrada de imediato a presença do requisito de ordem subjetiva para a progressão ao regime semiaberto, necessário se faria, ainda, aprofundamento da instrução, para melhor verificação de real mérito para a benesse, com realização de imprescindível, no caso, exame criminológico. Apesar da gravidade dos crimes pelos quais cumpre pena e da longa pena a cumprir, bem como por comportamento anterior desfavorável, o certo é que, passado algum tempo, com realização de atividade laborativa, conveniente avaliação mais eficaz sobre possibilidade, efetiva, de adaptação ao regime intermediário pretendido. Decisão cassada, com uma nova devendo ser proferida, porém, precedida de exame criminológico.
+Parcial provimento.
+Requer-se, em liminar e no mérito, a concessão da progressão de regime ao paciente na Execução n. 0002331-81.2017.8.26.0996, afastando-se a necessidade de realização do exame criminológico.
+Para tanto, argumenta-se queas razões trazidas na decisão são genéricas e se pautam exclusivamente na gravidade em abstrato dos delitos, na quantidade de pena pendente de cumprimento e na possibilidade de reiteração criminosa, não justificando adequadamente a necessidade do exame com base nas circunstâncias do caso em análise(fl. 5), devendo ser considerado que a Lei n. 13.964/2019fixou o prazo de um ano para a reabilitação do comportamento para fins de progressão de regime(fl. 7).
+É o relatório.
+No caso, não se evidencia o dito constrangimento ilegal capaz de justificar o prosseguimento deste feito.
+Ora, aprática de falta disciplinar, ainda que de natureza média, justificaa exigência de exame criminológico para futura progressão de regime, não se aplicando limite temporal à análise desse pressuposto.
+Com efeito, segundo nossos julgados, deve ser analisado todo o período de execução, a fim de se averiguar o mérito do apenado, e a eventual circunstância de ele já haver se reabilitado - pela passagem do tempo ou pela aplicação de sanção -, desde o cometimento dafalta, não impede que se invoque o histórico de infrações praticados no curso da execução penal.
+A propósito, confiram-se estes julgados: AgRg no HC n. 577.446/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/8/2020; eHC n. 556.422/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 23/3/2020.
+E, conforme destacado pelo Tribunal paulista,trata-se de penitente, primário, em cumprimento de pena privativa de liberdade de 31 (trinta e um) anos e 1 (um) dia de reclusão, oriunda de uma condenação por prática de roubos majorados .. ,com registro de uma falta disciplinar de natureza média (desobediência, em 12/9/2019)(fl. 51),não existindo notícias de atividade laborativa após essa data. Expôs o Relator que há, aparentemente,pouca assimilação dos ditames da terapêutica penal aplicada, sem desenvolvimento de freios inibitórios, vez que perpetrou falta disciplinar de natureza média, não parecendo se sentir intimidado com a censura aplicada dentro dos limites legais (fl. 54 - grifo nosso).
+À vista do exposto,indefiro liminarmenteo pedido dehabeas corpus,nos termos do art. 210 do RISTJ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO DA PENA. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. FALTA DISCIPLINAR DE NATUREZA MÉDIA. EXIGÊNCIA DO EXAME CRIMINOLÓGICO. TRANSCURSO DE MAIS DE 12 MESES DA OCORRÊNCIA. IRRELEVÂNCIA. ACÓRDÃO IMPUGNADO ALINHADO À JURISPRUDÊNCIA DO STJ. INEVIDENTE ILEGALIDADE.
+Writ indeferido liminarmente.
