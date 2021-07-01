@@ -1,0 +1,51 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 32 DA LEI 9.656/98. TUNEP. LEGALIDADE. PRESCRIÇÃO. NÃO OCORRÊNCIA. RESP. INADMISSÃO. SÚMULAS 5, 7 E 83/STJ. INCIDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. APLICAÇÃO.
+1. Trata-se de Agravo Interno contra decisão da Presidência do Superior Tribunal de Justiça, que não conheceu do Agravo em Recurso Especial por ausência de impugnação à consonância do acórdão recorrido com jurisprudência do STJ, fazendo incidir sua Súmula 182.
+2. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do Agravo Interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ. AgInt na Pet 10.274/DF, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 19.12.2017.
+3. In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao Recurso Especial. Deveria a parte rebater todos os fundamentos do decisum.
+4. A decisão que não admite o Recurso Especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, portanto, capítulos autônomos e deve ser impugnada em sua integralidade (EAREsp 701.404/SC, Corte Especial, Rel. Min. João Otávio de Noronha, Rel. p/ Acórdão Min. Luis Felipe Salomão, DJe de 30.11.2018).
+5. Agravo Interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão da Presidência do Superior Tribunal de Justiça, que não conheceu do Agravo em Recurso Especial por ausência de impugnação à consonância do acórdão recorrido com jurisprudência do STJ, fazendo incidir a Súmula 182/STJ.
+A causa teve origem em Embargos à Execução opostos por Unimed de Bebedouro Cooperativa de Trabalho Médico, contra execução fiscal movida pela ANS - Agência Nacional de Saúde Suplementar, referente à cobrança de verbas destinadas ao ressarcimento do SUS. A sentença julgou improcedentes os Embargos.
+O acórdão negando provimento à Apelação foi assim ementado:
+ADMINISTRATIVO. OPERADORAS DE PLANO DE SAÚDE. ART. 32 DA LEI 9.656/98. RESSARCIMENTO AO SISTEMA ÚNICO DE SAÚDE - SUS. CONSTITUCIONALIDADE. TABELA TUNEP. LEGALIDADE. PRESCRIÇÃO. NÃO OCORRÊNCIA.
+1. O Superior Tribunal de Justiça firmou entendimento no sentido de ser aplicável o prazo prescricional de cinco anos previsto no Decreto 20.910/32, e não o disposto no Código Civil, a demandas que envolvam pedido de ressarcimento ao Sistema Único de Saúde na hipótese do art. 32 da Lei 9.656/98.
+2. A Lei 9.656/98, destinada à regulamentação dos planos e seguros privados de assistência à saúde, atribuiu às operadoras de planos privados de assistência à saúde a obrigação de restituir aos Cofres Públicos os valores despendidos pelo SUS com o atendimento de seus usuários.
+3. Ao promover ações de cobrança em face das operadoras de planos privados de saúde, a ANS age sob o amparo do princípio da legalidade, bem assim, do poder-dever de controle e fiscalização do setor econômico de saúde.
+4. A lei não eximiu o Estado da obrigação consubstanciada no acesso universal e igualitário às ações e serviços de promoção, proteção e recuperação da saúde, porquanto o pilar de sustentação da obrigação contida no art. 32 da Lei 9.656/98 fora construído sob o ideário da vedação ao enriquecimento ilícito.
+5. Devida a indenização ao Poder Público em razão de valores despendidos pelos cofres com serviços para cuja execução as instituições privadas já se mostravam prévia e contratualmente obrigadas.
+6. O Supremo Tribunal Federal, por ocasião do julgamento do Recurso Extraordinário 597.064, pela sistemática da repercussão geral, assentou o entendimento no sentido de ser constitucional o ressarcimento previsto no art. 32 da Lei 9.656/98.
+7. Os valores constantes da Tabela Única Nacional de Equivalência de Procedimentos (TUNEP) foram fixados a partir de processo participativo, que contou inclusive com o envolvimento das operadoras de planos de saúde, encontrando-se dentro dos parâmetros fixados no art. 32, § 8º da Lei nº 9.656/98, portanto, não se revelando desarrazoados ou arbitrários.
+8. A cobrança do ressarcimento não depende da data em que celebrado o contrato com a operadora de plano de saúde, mas sim da data do atendimento prestado pelo SUS ao beneficiário, que deve ser posterior à vigência da Lei 9.656/98.
+9. Honorários recursais no percentual de 1% sobre o valor da causa, a serem acrescidos aos fixados pelo Juízo de primeiro grau.
+10. Apelação a que se nega provimento.
+Unimed de Bebedouro Cooperativa de Trabalho Médico afirma que houve, além de divergência jurisprudencial, ofensa aos arts. 206 do CC e 32 da Lei 9.656/1998. Sustenta que o prazo prescricional a ser aplicado decorrente de obrigação civil é de três anos em razão da natureza da dívida. Requer o afastamento da utilização da Tabela Única Nacional de Equivalência de Procedimentos (TUNEP), porquanto em montante superior aos valores efetivamente despendidos pelo Sistema Único de Saúde (SUS), bem como a nulidade da cobrança.
+Contrarrazões às fls.307-310, e-STJ.
+O juízo de admissibilidade entendeu pela incidência das Súmulas 5, 7 e 83/STJ.
+Em seu Agravo em Recurso Especial, Unimed de Bebedouro Cooperativa de Trabalho Médico defendeu que foram prequestionadas várias disposições legais não analisadas no julgado e conclui que "todos os pressupostos de admissão do Recurso Especial estão presentes, não sendo o caso de reexame de provas ou interpretação de clausula contratual. Os artigos foram devidamente prequestionados, sendo que estes foram abordados e, com o máximo respeito, contrariados pelo v. acórdão".
+Defende no Agravo Interno que não há falar em inadmissão do Recurso Especial pela observância à súmula 5 e 7/STJ, e prossegue defendendo a prescrição trienal e inadequação da Tabela Única Nacional de Equivalência de Procedimentos (TUNEP).
+O Ministério Público Federal opina pelo não conhecimento do Agravo Interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 32 DA LEI 9.656/98. TUNEP. LEGALIDADE. PRESCRIÇÃO. NÃO OCORRÊNCIA. RESP. INADMISSÃO. SÚMULAS 5, 7 E 83/STJ. INCIDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. APLICAÇÃO.
+1. Trata-se de Agravo Interno contra decisão da Presidência do Superior Tribunal de Justiça, que não conheceu do Agravo em Recurso Especial por ausência de impugnação à consonância do acórdão recorrido com jurisprudência do STJ, fazendo incidir sua Súmula 182.
+2. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do Agravo Interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ. AgInt na Pet 10.274/DF, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 19.12.2017.
+3. In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao Recurso Especial. Deveria a parte rebater todos os fundamentos do decisum.
+4. A decisão que não admite o Recurso Especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, portanto, capítulos autônomos e deve ser impugnada em sua integralidade (EAREsp 701.404/SC, Corte Especial, Rel. Min. João Otávio de Noronha, Rel. p/ Acórdão Min. Luis Felipe Salomão, DJe de 30.11.2018).
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 20 de abril de 2021.
+A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do Agravo Interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ. AgInt na Pet 10.274/DF, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 19.12.2017.
+In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao Recurso Especial. Deveria a parte rebater todos os fundamentos do decisum, quais sejam:
+O acórdão recorrido encontra-se em consonância com a jurisprudência do STJ, o que enseja inadmissão do recurso excepcional.
+(..)
+este Tribunal julgou regular as quantias exigidas, bem como reconheceu a legitimidade dos valores constantes na tabela TUNEP, de modo que a alteração do julgamento, como pretende a parte recorrente, demanda revolvimento do conjunto fático-probatório dos autos, defeso em sede de recurso especial, a teor das Súmulas 7 e 5 do C. STJ.
+A decisão que não admite o Recurso Especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, portanto, capítulos autônomos, e deve ser impugnada em sua integralidade (EAREsp 701.404/SC, Corte Especial, Rel. Min. João Otávio de Noronha, Rel. p/ Acórdão Min. Luis Felipe Salomão, DJe de 30.11.2018).
+Ademais, a impugnação tardia dos fundamentos da decisão que não admitiu o Recurso Especial, por ocasião do manejo de Agravo Interno, além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, em virtude da ocorrência de preclusão consumativa.
+Sem motivos para reconsiderar o decisum presidencial, que não conheceu do Agravo em Recurso Especial por ausência de impugnação específica ao juízo prelibatório.
+Por todo o exposto nego provimento ao Agravo Interno.
+É como voto.
