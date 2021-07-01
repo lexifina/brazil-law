@@ -1,0 +1,14 @@
+DECISÃO
+Montaury Pimenta Machado & Vieira de Mello Advogados e outro interpõem agravo interno contra a decisão de fls. 525/528, na qual neguei provimento ao agravo em recurso especial.
+Sustentam os agravantes a violação do art. 85, § 2º, I e IV, do Código de Processo Civil.
+A parte contrária apresentou impugnação (fls. 543/561).
+Diante dos fundamentos expostos nas razões do agravo interno, reconsidero
+a decisão ora agravada e passo à análise do recurso.
+Trata-se deagravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 397):
+HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS - Ação indenizatória julgada improcedente - Fixação da honorária por equidade - Inadmissibilidade - Hipótese reservada às causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo - Honorários que devem observar os valores mínimos previstos no art. 85, § 2º, do CPC/2015 - Precedente da 2ª Seção do STJ - Sentença reformada para fixar os honorários sucumbenciais no valor correspondente a 10% do valor atualizado da causa: 10% sobre R$ 1.149.694,10, com atualização monetária desde a data do ajuizamento da ação - Recurso provido.
+Os agravantes sustentam a violação dos arts. 85, § 2º, I e IV, do Código de Processo Civil e 884 do Código Civil, sob o fundamento de que os honorários advocatícios devem ser arbitrados por equidade.
+Ocorre que a definição sobre"Apossibilidade de fixação de honorários advocatícios com fundamento em juízo de equidade, nos termos do art. 85, §§ 2º e 8º, do Código de Processo Civil de 2015"foi afetada ao rito dos recursos Representativos de Controvérsia nos autos dos recursos especiais n. 1.822.171/SC e1.812.301/SC (Tema 1.046), ainda não julgados.
+Em que pese o referido órgão julgador ter decidido pela não suspensão do processamento dos feitos que versem sobre idêntica questão em tramitação no território nacional, é possível ao relator, levando em consideração razões de economicidade processual, aprecie o recurso especial apenas quando exaurida a competência das instâncias ordinárias, na forma do art. 1.040, II e III, do Código de Processo Civile 34, XXIV, do Regimento Interno do Superior Tribunal de Justiça.
+Desse modo, caracterizada a identidade de questão de direito submetida à sistemática dos recursos repetitivos, a devolução dos autos ao Tribunal de origem é medida que se impõe, nos termos do art. 256, L, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Em face do exposto, nos termos do inciso II do art. 1.037 do Código de Processo Civil,determino a devolução destes autos ao Tribunal de origem, com a respectiva baixa, para nele permanecerem sobrestados até o julgamento do mérito dos recursos recebidos como representativos da controvérsia, e, após, que se proceda em conformidade com os comandos dos arts.1.040 e 1.041 do Código de Processo Civil.
+Intimem-se.
