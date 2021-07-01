@@ -1,0 +1,46 @@
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. SENTENÇA TERMINATIVA. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA.
+1. Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC/2015.
+2. A suposta contradição alegada funda-se no argumento de que houve efetivo prequestionamento no caso concreto, diferentemente do que foi julgado no acórdão; não se subsume, portanto, no conceito de contradição endoprocessual passível de correção via Aclaratórios, mas de irresignação contra o mérito decisório.
+3. Ademais, é de se reiterar que o dispositivo legal invocado no Recurso Especial não foi previamente questionado pela parte no Tribunal de origem, o que apenas é reforçado pelos excertos colacionados pela Embargante, na medida em que revelam que o tema apenas foi brevemente mencionado, e no relatório (fl. 578, e-STJ), nada mais. Logo, ratifica-se a ausência de efetiva emissão de juízo de valor sobre a matéria, o que culmina na ausência de prequestionamento, conforme as Súmulas 211/STJ e 282/STF.
+4. E, como não houve alegação, no Apelo Nobre, de ofensa ao art. 1.022 do CPC/2015, mostra-se incabível o reconhecimento de prequestionamento ficto, pois, conforme o STJ, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei." (REsp 1.639.314/MG, Rel. Ministra Nancy Andrigui, Terceira Turma, DJe 10/04/2017).
+5. A pretensão recursal não trata de contradição, mas sim de inconformismo direto com o resultado da decisão.
+6. Embargos de Declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Aclaratórios interpostos contra acórdão da Segunda Turma que deu provimento ao Agravo Interno da parte ora Embargante nos seguintes moldes (fls. 1.881-1.888, e-STJ):
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. SENTENÇA TERMINATIVA. PRINCÍPIO DA CAUSALIDADE. FAZENDA PÚBLICA EXEQUENTE. HONORÁRIOS SUCUMBENCIAIS DEVIDOS.
+1. Apesar do que consignou a decisão monocrática da Presidência, a parte Agravante efetivamente impugnou (fls. 635-636, e-STJ) o único óbice da admissão - "ausência de afronta a dispositivo legal" -, razão pela qual o Agravo Interno procede.
+2. Nas razões do Recurso Especial, a parte aponta violação do art. 535, III, IV, do CPC/2015, defendendo, em suma, a inexigibilidade do título executado e da obrigação nele consubstanciada (fls. 591-607, e-STJ).
+3. Da irresignação todavia não se pode conhecer. O dispositivo legal invocado no Recurso Especial não foi previamente questionado pela parte no Tribunal de origem. Logo, não houve manifestação acerca do tema, o que culmina na ausência do necessário prequestionamento, conforme as Súmulas 211/STJ e 282/STF.
+4. Além disso, incabível o reconhecimento de prequestionamento ficto neste caso. Conforme o STJ, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei." (REsp 1.639.314/MG, Rel. Ministra Nancy Andrigui, Terceira Turma, julgado em 04/04/2017, DJe 10/04/2017).
+5. Agravo Interno provido para se conhecer do ARESp e não se conhecer do Recurso Especial.
+A parte requer a reforma da decisão anterior, alegando contradição (fls. 676-682, e-STJ).
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. SENTENÇA TERMINATIVA. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA.
+1. Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC/2015.
+2. A suposta contradição alegada funda-se no argumento de que houve efetivo prequestionamento no caso concreto, diferentemente do que foi julgado no acórdão; não se subsume, portanto, no conceito de contradição endoprocessual passível de correção via Aclaratórios, mas de irresignação contra o mérito decisório.
+3. Ademais, é de se reiterar que o dispositivo legal invocado no Recurso Especial não foi previamente questionado pela parte no Tribunal de origem, o que apenas é reforçado pelos excertos colacionados pela Embargante, na medida em que revelam que o tema apenas foi brevemente mencionado, e no relatório (fl. 578, e-STJ), nada mais. Logo, ratifica-se a ausência de efetiva emissão de juízo de valor sobre a matéria, o que culmina na ausência de prequestionamento, conforme as Súmulas 211/STJ e 282/STF.
+4. E, como não houve alegação, no Apelo Nobre, de ofensa ao art. 1.022 do CPC/2015, mostra-se incabível o reconhecimento de prequestionamento ficto, pois, conforme o STJ, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei." (REsp 1.639.314/MG, Rel. Ministra Nancy Andrigui, Terceira Turma, DJe 10/04/2017).
+5. A pretensão recursal não trata de contradição, mas sim de inconformismo direto com o resultado da decisão.
+6. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos retornaram ao Gabinete em 5.4.2021.
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC/2015.
+A suposta contradição alegada funda-se no argumento de que houve efetivo prequestionamento no caso concreto, diferentemente do que foi julgado no acórdão; não se subsume, portanto, no conceito de contradição endoprocessual passível de correção via Aclaratórios, mas de irresignação contra o mérito decisório.
+Ademais, é de se reiterar que o dispositivo legal invocado no Recurso Especial não foi previamente questionado pela parte no Tribunal de origem, o que apenas é reforçado pelos excertos colacionados pela Embargante, na medida em que revelam que o tema apenas foi brevemente mencionado, e no relatório (fl. 578, e-STJ), nada mais.
+Logo, ratifica-se a ausência de efetiva emissão de juízo de valor sobre a matéria, o que culmina na ausência de prequestionamento, conforme as Súmulas 211/STJ e 282/STF.
+E, como não houve alegação, no Apelo Nobre, de ofensa ao art. 1.022 do CPC/2015, mostra-se incabível o reconhecimento de prequestionamento ficto, pois, conforme o STJ, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017).
+Dessarte, como se observa de forma clara, a pretensão recursal não trata da existência de contradição, mas sim de inconformismo direto com o resultado da decisão, o que não enseja Embargos de Declaração.
+Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. HIPÓTESES DO ART. 1.022, I e II, DO CPC. AUSÊNCIA.
+1. Os embargos de declaração apenas são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido, admitindo-se também esse recurso para correção de eventuais erros materiais constantes do pronunciamento jurisdicional.
+2. No caso, inexiste omissão ou contradição a ser sanada, porquanto a presente oposição revela tão somente o inconformismo da embargante sobre o decidido, o que não é possível na estreita via aclaratória.
+3. Inviável, por revelar nítida inovação recursal, a análise de questão que não tenha sido objeto de insurgência nas contrarrazões ao recurso especial interposto pela parte adversa.
+4. Embargos de declaração rejeitados. (EDcl no AgInt nos EDcl no REsp 1.446.326/PR, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 7/6/2018, DJe 13/6/2018)
+Ante o exposto, rejeito os Embargos de Declaração.
+Por derradeiro, convém advertir que ajuizar novo recurso protelatório ensejará reconhecimento de litigância de má-fé e aplicação das multas previstas no art. 81 e no art. 1.026, § 2º e § 3º, do CPC/2015.
+É como voto.
