@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A função jurisdicional do STJ em relação ao julgamento do Recurso Especial (art. 105, III, da CF/1988) é dar a interpretação uniformizadora, em última instância, de dispositivos infraconstitucionais, daí decorrendo requisitos e restrições do Recurso Especial como a necessidade de prequestionamento e a impossibilidade de infirmar as premissas fáticas fixadas na segunda instância.
+2. É imprescindível, pois, que a parte recorrente aponte a norma jurídica que entende incorretamente interpretada pelo Tribunal de origem, ônus do qual não se desincumbiu a parte ora agravante em seu Recurso Especial.
+3. A simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do apelo nobre, como é o caso dos autos, não supre a exigência de fundamentação adequada do Recurso Especial. Incide a vedação de admissibilidade preceituada na Súmula 284/STF no ponto recursal, segundo a qual: "É inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+4. Ademais, ainda que não incidisse ao caso o óbice da Súmula 284/STF, observa-se do acórdão recorrido que o Tribunal de origem decidiu sobre a forma de cobrança e enquadramento nas faixas de tarifas de consumo com base no exame das provas constantes dos autos, o que atrai a incidência da Súmula 7/STJ.
+5. Agravo Interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão monocrática (fls. 439-441, e-STJ) que não conheceu o Recurso Especial.
+A parte agravante sustenta, em suma (fl. 446-459, e-STJ):
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma julgadora.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A função jurisdicional do STJ em relação ao julgamento do Recurso Especial (art. 105, III, da CF/1988) é dar a interpretação uniformizadora, em última instância, de dispositivos infraconstitucionais, daí decorrendo requisitos e restrições do Recurso Especial como a necessidade de prequestionamento e a impossibilidade de infirmar as premissas fáticas fixadas na segunda instância.
+2. É imprescindível, pois, que a parte recorrente aponte a norma jurídica que entende incorretamente interpretada pelo Tribunal de origem, ônus do qual não se desincumbiu a parte ora agravante em seu Recurso Especial.
+3. A simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do apelo nobre, como é o caso dos autos, não supre a exigência de fundamentação adequada do Recurso Especial. Incide a vedação de admissibilidade preceituada na Súmula 284/STF no ponto recursal, segundo a qual: "É inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+4. Ademais, ainda que não incidisse ao caso o óbice da Súmula 284/STF, observa-se do acórdão recorrido que o Tribunal de origem decidiu sobre a forma de cobrança e enquadramento nas faixas de tarifas de consumo com base no exame das provas constantes dos autos, o que atrai a incidência da Súmula 7/STJ.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 26.3.2021.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme já disposto no decisum combatido, a função jurisdicional do STJ em relação ao julgamento do Recurso Especial (art. 105, III, da CF/1988) é dar a interpretação uniformizadora, em última instância, de dispositivos infraconstitucionais, daí decorrendo requisitos e restrições do Recurso Especial como a necessidade de prequestionamento e a impossibilidade de infirmar as premissas fáticas fixadas na segunda instância.
+É imprescindível, pois, que a parte recorrente aponte a norma jurídica que entende incorretamente interpretada pelo Tribunal de origem, ônus do qual não se desincumbiu a parte ora agravante em seu Recurso Especial.
+A simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do apelo nobre, como é o caso dos autos, não supre a exigência de fundamentação adequada do Recurso Especial.
+Incide a vedação de admissibilidade preceituada na Súmula 284/STF no ponto recursal, segundo a qual: "É inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia." Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. FGTS. EXECUÇÃO DE SENTENÇA. TERMO INICIAL DA INCIDÊNCIA DE CORREÇÃO MONETÁRIA.
+1. A admissibilidade do recurso especial exige a clara indicação dos dispositivos supostamente violados, bem como em que medida teria o acórdão recorrido afrontado cada um dos artigos atacados ou a eles dado interpretação divergente da adotada por outro tribunal, o que não se verifica na hipótese dos autos. A deficiência na fundamentação do recurso no pertinente ao afastamento de multa por litigância de má-fé inviabiliza a exata compreensão da controvérsia, atraindo, portanto, a Súmula n. 284 do STF.
+2. No pertinente ao alegado excesso de execução, registro que não há necessidade de revolvimento de datas ou fatos, mas apenas de se definir o marco temporal da atualização monetária do débito exequendo. Portanto, a questão é estritamente jurídica e não demanda o revolvimento das premissas fáticas adotadas pelo órgão colegiado da instância de origem, o que afasta o óbice da Súmula 7/STJ.
+3. O termo inicial de incidência da correção monetária deve ser fixado no momento em que originado o débito, ou seja, a partir da data em que os expurgos inflacionários deveriam ter sido aplicados no cálculo da atualização monetária dos saldos das contas vinculadas do FGTS, e não a partir da citação. Isso porque, segundo preceito consolidado pela jurisprudência desta Corte, a correção monetária não é um plus, mas sim mero mecanismo de preservação de valor real do débito aviltado pela inflação.
+4. Recurso especial parcialmente conhecido e, nesta parte, não provido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 08/2008.
+(REsp 1112413/AL, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 01/10/2009).
+Ademais, ainda que não incidisse ao caso o óbice da Súmula 284/STF, observa-se do acórdão recorrido que o Tribunal de origem decidiu sobre a forma de cobrança e enquadramento nas faixas de tarifas de consumo com base no exame das provas constantes dos autos, o que atrai a incidência da Súmula 7/STJ.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
