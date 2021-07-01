@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ADRIANO RICARDO BADOTTI BITTENCOURT, contra a decisão proferida às fls. 484/490 (e-STJ), dalavra deste signatário, a qual rejeitou a alegação de negativa deprestação jurisdicional e, à luz das razões deduzidas no apelo extremo, concluiu não ter a parte recorrente logrado comprovar a ocorrência de dissenso pretoriano, nos termos do art. 255, § 1º, do RISTJ.
+Em suas razões de fls. 492/495 (e-STJ), oembargantesustentaaocorrência de omissão a macular o decisum recorrido, porquanto teriadeixado de apreciar, de maneira fundamentada, a alegada negativa de prestação jurisdicional, notadamente no que diz respeito ao"desvio de finalidade do contrato, pois o empréstimo pessoal deve ser redigido pelas normas instituídas pela política monetária da Lei nº 4.595/64"(fl. 494, e-STJ).
+Sem impugnação (certidão de fl.499, e-STJ).
+É o breve relatório.
+Decido.
+Não há omissão a ser sanada.
+1. Segundo entendimento consolidado desta Corte Superior, configuraomissão relevante e impugnável por meio de embargos de declaração a nãoapreciação, pela manifestação jurisdicional, de tese ou matériaexpressamente suscitada pela parte processual e cujo exame, se fosserealizado, poderia alterar o resultado da controvérsia.
+2. Na espécie, a decisão recorrida não padece de tal vício, tendo sidoclara quanto à pretensão voltada para análise da indigitada negativa de prestação jurisdicional.
+Conforme destacado nodecisumembargado,oinsurgente aponta ofensa ao artigos 489, caput, § 1º, IV, do CPC/15, sustentando deficiência de fundamentação pelo Tribunal de origem, em analisar teses tidas como relevantes ao deslinde da controvérsia, quais sejam, a natureza jurídica do contrato firmado entre as partes, incidência das normas inerentes à proteção e defesa do consumidor, com inversão dos ônus da prova e cerceamento de direito de defesaante o indeferimento de pedido de produção de prova pericial.
+Todavia, constata-se, da leitura do aresto recorrido, que a apontada ofensa não se configura, na medida em que a Corte Estadual, ao apreciar o recurso interposto pela parte, dirimiu a controvérsia e decidiu as questões postas à apreciação de forma ampla e fundamentada, expondo os motivos para o desprovimento do recurso interposto pela parte ora insurgente, consoante seguintes trechos do julgado (fls. 400/403, e-STJ):
+Da Nulidade da Sentença por Cerceamento de Defesa
+Alega a apelante a ocorrência de cerceamento de defesa, em razão do indeferimento do pedido de produção de prova pericial e de apresentação de documentos relativos aos contratos pretéritos por parte da CEF.
+Quanto ao ponto, vale lembrar que o cerceamento de defesa não resta configurado quando é desnecessária a produção da prova pretendida pela parte, sendo perfeitamente cabível o julgamento antecipado da lide em que se controverte apenas sobre matéria de direito, em obediência aos princípios da economia e da celeridade processuais. No mesmo sentido é a jurisprudência do e. STJ (REsp 797. 184/DF, Rel. Ministro Luiz Fux, Primeira Turma, DJ 09/04/2008; REsp 897.499/SP, Rel. Ministro João Otávio de Noronha, Segunda Turma, DJ 20/04/2007) e desta Corte:
+(..)
+Tem o magistrado o poder-dever de julgar antecipadamente a lide ao constatar que o acervo documental é suficiente para nortear e instruir seu entendimento. É do seu livre convencimento o deferimento de pedido para a produção de quaisquer provas que entender pertinentes ao julgamento da lide.
+No caso dos autos, verifico que a questão a qual se pretende aclarar por meio da prova pericial diz respeito à questões relativas à matéria de direito, o que não impõe a necessidade de perícia técnica para sua demonstração.
+Destarte, não há falar em cerceamento de defesa, pois este somente vai se caracterizar quando a prova requerida mostre potencial para demonstrar os fatos alegados, bem como se mostre indispensável à solução da controvérsia. Portanto, uma vez confrontada a prova requerida, com o conjunto probatório e não se mostrando absolutamente necessária, não há cerceamento de defesa.
+Por fim, quanto à possibilidade de determinação à CEF para que exiba os contratos, a jurisprudência do STJ, no julgamento do REsp nº 1.349.453/MS, sob o rito dos recursos repetitivos, consolidou entendimento no sentido de que, até mesmo no caso de ação cautelar de exibição de documentos, é necessário a comprovação do prévio pedido à instituição financeira não atendido em prazo razoável e o pagamento do custo do serviço. Transcrevo a ementa do do referido julgado:
+(..)
+Nesse contexto, cabe ainda registrar que esta Corte tem entendido que ajuntada de aviso de recebimento não se presta para comprovar a existência de prévio requerimento administrativo, na medida em que a CEF não tem obrigação de fornecer extratos da conta corrente e/ou cópia do contrato por correspondência em resposta a eventual notificação extrajudicial que tenha recebido.
+(..)
+Ademais, segundo o entendimento deste Tribunal, é devido o pagamento detarifas para o fornecimento de 2ª via de contratos e/ou extratos de conta corrente, não havendo motivo para, onerando as instituições financeiras, dispensar o pagamento na via judicial. Tal circunstância em nada se altera pela aplicação do Código de Defesa do Consumidor. Nesse sentido, os seguintes precedentes:
+(..)
+No caso dos autos, verifico que, em sede da petição inicial (evento 1, Petição Inicial 1) a autora limitou-se a requer a juntada pela CEF dos contratos pactuados entre as partes, sem apresentar a comprovação do prévio requerimento não atendido em prazo razoável, nem tampouco do pagamento devido a tal fim. Assim, nego provimento ao apelo no ponto.
+Aplicabilidade do CDC e Inversão do ônus da prova
+Conforme disposto na Súmula nº. 297 do Superior Tribunal de Justiça, "O código de defesa do consumidor é aplicável às instituições financeiras", razão pela qual incide a aplicação do CDC à relação contratual objeto dos presentes autos.
+Contudo, o fato de ser aplicável o código de defesa do consumidor às relações contratuais firmadas com instituições financeiras não acarreta, de forma imediata e automática, a aplicação do instituto da inversão do ônus da prova. Para tal desiderato, faz-se necessária a comprovação dos requisitos previstos no diploma consumerista, notadamente em seu art. 6º, VIII, tais como a condição de hipossuficiência, bem como a plausibilidade da tese defendida.
+Desta forma, tem-se que a incidência do Código de Defesa do Consumidor não implica, necessariamente, no prévio reconhecimento da necessidade de inversão do ônus da prova, devendo tal necessidade ser apreciada no âmbito do caso concreto.
+Ademais, o só fato de o contrato ser de natureza adesiva não o inquina de nulidade, sendo necessária a demonstração de abusividade e excessiva onerosidade. Nesse sentido:
+(..)
+No caso dos autos, todavia, não restou comprovada nenhuma das situações acima elencadas, de modo que não cabe falar em inversão do ônus da prova.
+Assim, nego provimento ao apelo no ponto.
+Depreende-se, portanto, que longe de apontar vícios de fundamentação no decisum embargado, pretende a parte embargante, em verdade, rediscutir o acerto da decisão recorrida, não se revelando os embargos declaratórios meio processual adequado para tanto.
+Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC/2015, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+3. Do exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
