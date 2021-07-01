@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial manifestado em face de acórdão assim ementado:
+EMBARGOS DE DECLARAÇÃO. INOCORRÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. PREQUESTIONAMENTO.
+1. Não há omissão, contradição ou obscuridade que justifique o provimento dos presentes embargos de declaração.
+2. Oacórdão embargado contém o exame de toda a matéria trazida à apreciação do Colegiado, o qual foi claro ao afirmar que " n o caso, a juntada do mandado de intimação da Defensoria Pública da União, na condição de curadora da ré, citada por edital, para oferecer defesa ocorreu em 21/09/2005 e, contando-se o prazo em dobro para responder  30 dias  nos termos do art. 44, I, da Lei Complementar 80/94  Lei da Defensoria Pública da União, esse expirou em 21/10/2005"
+3. Afirmou, ainda, o acórdão, que tendo sido os embargos monitórios apresentados apenas em 18/11/2005, não merece reparos a decisão que os rejeitou liminarmente, por intempestividade, julgou procedente o pedido inicial e reconheceu o crédito cobrado pela Caixa, convertendo o mandado de pagamento em mandado executivo.
+4. Oacórdão também foi expresso ao declarar que a embargante não logrou comprovar o alegado obstáculo em retirar os autos do cartório da vara de origem no prazo legal de que dispunha para cumprir o seu múnus público de promover a defesa da ré.
+5. É pacifico o entendimento jurisprudencial de que o juiz não está obrigado a analisar e rebater todas as alegações da parte, bem como todos os argumentos sobre os quais suporta a pretensão deduzida em juízo, bastando apenas que indique os fundamentos suficientes à compreensão de suas razões de decidir, cumprindo, assim, o mandamento constitucional insculpido no art. 93, IX, da Lei Fundamental.
+6. Cabe enfatizar, por oportuno, a impropriedade dos embargos de declaração para suscitar nova discussão da lide. São eles, na verdade, apelos de integração e não de substituição (EARES n.281.170/RN, Rel. Min. Humberto Gomes de Barros, DJ de 01/08/2005, p. 297).
+7. Tem-se por prequestionada matéria constitucional e/ou infraconstitucional tão somente pela agitação do tema nos embargos, sem necessidade de reexame dos fundamentos do voto condutor do aresto ou de provimento dos embargos declaratórios para se alcançar tal fim (AI 648.760 AgR/SP, Primeira Turma, Rel. Ministro Ricardo Lewandowski, DJ de 30/11/2007, p. 068).
+8. Embargos de declaração rejeitados.
+Opostos os embargos de declaração, esses foram rejeitados.
+Em suas razões do recurso, a parte agravante sustenta violação dos arts. 508 do Código de Processo Civil; 26 da Lei n. 8.038 e 44, I, da LC n. 80/94.Afirma que "Com efeito, o termo a quo para a contagem do prazo para a interposição do presente recurso deve ser considerado o dia útil subsequente à ciência do acórdão vergastado pela Defensoria Pública da União.Portanto, inegável a tempestividade do recurso" (fl. 376).
+Alega que "é dever legal a intimação pessoal com o envio dos autos para à DPU, a fim de se iniciar aí a contagem de prazo para que se manifeste e requeira aquilo que achar oportuno para os interesses do assistido" (fl. 380).
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal estadual, ao dirimir a controvérsia, concluiu que o termo inicial para contagem do prazo para a apresentação da defesa pela Defensoria Pública é a partir do mandado de citação, conforme se colhe dos excertos do aresto recorrido (e-STJ, fls. 352-353):
+A Caixa Econômica Federal ajuizou a presente ação monitória contra Julimar Campos Lopes visando à cobrança de valores decorrentes de contrato de abertura de crédito rotativo em conta corrente.
+Deferida, de plano, a expedição de mandado de pagamento, nos termos do art. 1.102-B do CPC (fl. 58), a requerida não foi localizada (fl. 59). Efetuada a citação por edital (fls.83/86), não houve resposta à citação editalícia (fl. 93), o que levou o juízo de primeiro grau a nomear a Defensoria Pública da União como curadora especial da ré (fl. 94).
+Devidamente intimada, por mandado (fl. 95), a Defensoria Pública da União apresentou os competentes embargos monitórios (fls. 99/109), que foram, entretanto, liminarmente rejeitados, por intempestividade (fls. 106/107).
+Inconformada, a DPU apelou, alegando, em síntese, que existe prova nos autos de que tentara obter carga do processo em 16/09/2005, tão logo recebida a intimação para apresentar defesa, mas lhe fora negada naquela data, vindo os autos à DPU apenas em 26/10/2005, e, tendo em vista o prazo em dobro para a apresentação dos embargos monitórios, este somente pode ser considerado a partir de 27/10/2005, estendendo-se até 25/11/2005, data na qual a defesa já havia sido efetivamente apresentada, eis que o seu protocolo se deu em 18/11/2005.
+Nos termos do art. 241, inciso II, do CPC, "começa a correr o prazo, quando a citação ou intimação for por oficial de justiça, da data de juntada aos autos do mandado cumprido".
+No caso, a despeito do quanto alegado pela embargante, o certo é que a juntada do mandado de intimação do curador da ré (DPU) para oferecer defesa (fl. 95) ocorreu no dia 21/09/2005 (fl. 94) e, contando-se o prazo em dobro (30 dias), nos termos do art. 44, I, da Lei Complementar n. 80/94 (Lei da Defensoria Pública da União), esse veio a expirar em 21/10/2005.
+Tendo sido os embargos monitórios apresentados apenas no dia 18/11/2005, não merece reparos a decisão que os rejeitou liminarmente, por intempestividade, julgou procedente o pedido inicial e reconheceu o crédito cobrado pela Caixa, convertendo o mandado de pagamento em mandado executivo.
+Por outro lado, a embargante não logrou comprovar o alegado obstáculo em retirar os autos do cartório da vara de origem no prazo legal de que dispunha para cumprir o seu múnus público de promover a defesa da ré.
+Verifica-se que o acórdão recorrido decidiu em consonância com a jurisprudência desta Corte no sentido de que o prazo em dobro para contestar é contado na forma do disposto no artigo 241 do CPC/1973, e não da intimação pessoal do Defensor Público. Inafastável, no caso em tela, a incidência da Súmula 83/STJ, aplicável também aos recursos especiais interpostos pela alínea a do permissivo constitucional, segundo iterativa jurisprudência deste Tribunal.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REPRESENTAÇÃO PELA DEFENSORIA PÚBLICA. PRAZO EM DOBRO PARA CONTESTAR. TERMO INICIAL. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. É entendimento assente na jurisprudência do STJ que o prazo em dobro para contestar é contado na forma do disposto do artigo 241 do CPC/73, e não da intimação pessoal do Defensor Público. Precedentes desta Corte.
+2. Agravo interno não provido.
+(AgInt no Resp n. 1.588.994/ES. Relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 27/6/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. PREQUESTIONAMENTO. AUSÊNCIA. DEFENSORIA PÚBLICA. CONTESTAÇÃO. CONTAGEM DO PRAZO. DATA DA JUNTADA DO MANDADO DE CITAÇÃO. AGRAVO NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento.
+2. O ato citatório é personalíssimo, realizado na pessoa do réu, de maneira que o prazo para contestar é contado da data da juntada do mandado de citação, não de intimação pessoal do Defensor Público.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 832.445/MG. Relator Ministro Raul Araújo, Quarta Turma, DJe 27/4/2017.)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. RÉU REPRESENTADO PELA DEFENSÓRIA PÚBLICA. PRAZO EM DOBRO PARA CONTESTAÇÃO. TERMO INICIAL. DECISÃO AGRAVADA CONFIRMADA. IMPROVIMENTO.
+1.- A jurisprudência desta Corte se firmou no sentido de que "o prazo em dobro para contestar é contado na forma do disposto no artigo 241 do CPC, e não da intimação pessoal do Defensor Público" (AgRg no REsp 1.183.788/AM, Rel. Min. HAROLDO RODRIGUES, DJe 6.9.2010).
+2.- Agravo Regimental improvido.
+(AgRg no REsp n. 1.121.151/DF. Relator Ministro Sidnei Beneti, Terceira Turma, DJe 29/10/2012.)
+Em face do exposto, nego provimento ao agravo.
+Havendo sucumbência recíproca na origem, deixo de proceder à majoração dos honorários advocatícios.
+Intimem-se.
