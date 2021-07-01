@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Carlos Alberto Braga Fonseca interpõe agravo contra a decisão que não admitiu recurso extraordinário manejado contra acórdão proferido pela 5ª Câmara Criminal do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “EMBARGOS DE DECLARAÇÃO CRIMINAL - PRAZO DE DOIS DIAS - INTEMPESTIVIDADE - NÃO CONHECIMENTO. De acordo com o art. 619 do CPP, o prazo para a oposição dos embargos de declaração é de 02 (dois) dias contados da publicação do acórdão, sendo certo que, apresentados além de tal termo, são intempestivos.”
+    Opostos segundos aclaratórios, foram rejeitados.
+    Sustenta o recorrente contrariedade ao artigo 93, inciso IX, da Constituição Federal.
+    Requer, em síntese, seja afastada a intempestividade do recurso perante a Corte a quo, anulado o acórdão recorrido.
+    Examinados os autos, decido.
+    Anote-se que não procede a alegada violação do artigo 93, inciso IX, da Constituição, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Ressalte-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10 - Tema 339).
+    Ademais, verifica-se que o acolhimento da pretensão recursal não prescinde da análise da legislação infraconstitucional pertinente (Código de Processo Penal).
+    Assim, a afronta ao dispositivo constitucional suscitado no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Nesse sentido:
+    “DIREITO PENAL E PROCESSUAL PENAL. CRIMES CONTRA O SISTEMA FINANCEIRO NACIONAL. ART. 4º, CAPUT, DA LEI 7.492/1986. GESTÃO FRAUDULENTA DE INSTITUIÇÃO FINANCEIRA. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. NULIDADE. INOCORRÊNCIA. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO JURISDICIONAL. ALEGAÇÃO DE OFENSA AO ART. 5º, XXXVIII, LII, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. JUIZ NATURAL, CONTRADITÓRIO E AMPLA DEFESA. DEVIDO PROCESSO LEGAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO A RECURSO ESPECIAL. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DE CORTE DIVERSA. AUSÊNCIA DE REPERCUSSÃO GERAL. DECISÃO AGRAVADA EM CONSONÂNCIA COM A JURISPRUDÊNCIA CRISTALIZADA DO SUPREMO TRIBUNAL FEDERAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. AUSÊNCIA DE ELEMENTOS SUFICIENTES AO RECONHECIMENTO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. Inexiste violação do art. 93, IX, da Constituição Federal. A jurisprudência do Supremo Tribunal Federal é no sentido de que o referido dispositivo constitucional exige a explicitação, pelo órgão jurisdicional, das razões do seu convencimento. Enfrentadas todas as causas de pedir veiculadas pela parte e capazes de, em tese, influenciar no resultado da demanda, desnecessário o exame detalhado de cada argumento suscitado, considerada a compatibilidade entre o que alegado e o entendimento fixado pelo órgão julgador.
+    2. O entendimento adotado na decisão agravada reproduz a jurisprudência firmada no Supremo Tribunal Federal. O exame da alegada ofensa ao art. 5º, XXXVII, LIII, LIV e LV, da Lei Maior, observada a estreita moldura com que devolvida a matéria à apreciação desta Suprema Corte, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, bem como do revolvimento do quadro fático delineado na origem, o que refoge à competência jurisdicional extraordinária prevista no art. 102 da Magna Carta.
+    3. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    4. Agravo interno conhecido e não provido.” (ARE nº 678.976-AgR/DF, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 19/12/17).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 1º de julho de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
