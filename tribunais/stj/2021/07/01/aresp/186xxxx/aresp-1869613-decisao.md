@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 NCPC), interposto por INSTITUTO METODISTA DE ENSINO SUPERIOR, contra decisão que não admitiu recurso especial. O apelo nobre desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+EXTINÇÃO DO PROCESSO Execução de título extrajudicial Instrumento particular de confissão de dívida assinada pelo devedor e duas testemunhas Determinação de retirada e protocolo da carta precatória Inércia do exequente Extinção do processo por presunção de pagamento (art. 924, II, do CPC) Descabimento Ausência de pressuposto de constituição e de desenvolvimento válido e regular do processo (art. 485, inc. IV, do CPC) Desnecessidade de intimação pessoal do exequente para efetuar a providência, no prazo de 05 dias, sob pena de extinção Extinção mantida por outro fundamento - Art. 485, IV, do CPC) Recurso improvido.
+Opostos os embargos de declaração, restaram rejeitados (fls. 253/259, e-STJ)
+Em suas razões de recurso especial, a recorrente aponta ofensa aos artigos 1.022, inciso II, 319, 321, 485, III e IV, todos do CPC/15.
+Sustenta, em suma:
+a) negativa de prestação jurisdicional;
+b) ausência de indicação, pelo juízo a quo, da irregularidade existente na petição inicial para que o recorrente tivesse a oportunidade de regularizar e viabilizar o prosseguimento do feito;
+c) que "tomou todas as providencias necessárias para garantir o andamento do feito com o cumprimento da liminar, não havendo que se falar de ausência de pressupostos de constituição e de desenvolvimento do processo"( fls. 279, e-STJ);
+d) queo feito deveria ser extinto pelo art. 485, III, o que levaria a necessidade de intimação pessoal para dar prosseguimento antes da extinção; e
+e) não observância do principio da cooperação judicial e a possibilidade de aproveitamento do feito.
+Sem contrarrazões.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, o que justificou a interposição do presente reclamo.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Inicialmente, cabe consignar que não se pode conhecer da apontada violação dos art1.022 do NCPC, pois as alegações que a fundamentaram são genéricas, sem discriminação dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais tenha incorrido o acórdão estadual ora impugnado. Com efeito, os recorrentes não apontaram efetivamente no que consiste a tese defensiva de negativa de prestação jurisdicional no intuito de assim combater o tratamento meritório dado na hipótese pelo órgão julgador. Incide, no caso, por analogia, a Súmula 284 do STF, dado o caráter genérico da alegação.
+2. No tocante ao vício formal que deu ensejo à extinção da ação, o Tribunal de origem assim dirimiu a controvérsia (fls. 244-245, e-STJ):
+Em 23.01.2018 o exequente-apelante foi intimado para se manifestar acerca da carta de citação negativa de fls. 166,sobrevindo requerimento de nova diligência naquele endereço, desta vez por mandado (fls. fls. 166/169).
+Intimado para recolher a diligência do oficial de justiça (fls. 170/171), o exequente providenciou o recolhimento de R$77,10, sobrevindo a r. sentença de fls. 175/177, que julgou extinto o feito sem resolução de mérito, nos termos do art. 485, IV, do CPC, em razão do recolhimento ter sido efetuado de modo insuficiente. Interposta apelação (fls. 179/191), o provimento sobreveio pelo v. acórdão de fls. 201/204, que determinou o regular prosseguimento do feito. Após o retorno à origem e recolhida a complementação de R$79,59 (fls. 210/211), a carta precatória foi expedida (fls. 212/214) e o apelante foi intimado para providenciar a respectiva impressão, protocolo e distribuição no prazo de 20 dias, sob pena de extinção "em caso de procedimento comum/especial" ouextinção por presunção de pagamento "em caso de execução de título extrajudicial (art. 924, II, do CPC)" (fls. 215).
+Em razão do decurso do prazo sem qualquer manifestação (fls. 217), o MM. Juízo singular julgou extinta a execução em razão da presunção de pagamento, nos termos do art. 924, II, do CPC (fls. 218/219), rendendo ensejo à apelação que ora se examina (fls.221/232).
+De feito, o desfecho que melhor se adequa à hipótese examinada é a extinção do processo sem resolução de mérito por ausência de pressuposto de constituição e de desenvolvimento válido e regular do processo (art. 485, inc. IV, do CPC), já que o apelante deixou de atender o comando judicial de retirar e protocolar a carta precatória, ato indispensável a citação da apelada.
+O que se vislumbra, na hipótese, é negligência na condução do processo e não desinteresse do credor por suposto pagamento que, in casu, não pode ser presumido (inclusive, o apelante aduziu expressamente que ainda tem interesse em perseguir o crédito que alega fazer jus).
+Por outro lado, afigura-se desnecessária a intimação pessoal do recorrente para o cumprimento da r. decisão de fls. 215(retirada da carta precatória), eis que a extinção do feito não se deu por abandono (art. 485, incs. II e III, do CPC) mas por ausência de pressuposto indispensável, qual seja, promover atos visando a citação da executada e o desenvolvimento válido da relação jurídica processual.
+Considerando a moldura fática delineada pelo Tribunal de origem, não houve violação ao princípio da não surpresa, bem como, verifico que o acórdão recorrido se encontra em harmonia com a jurisprudência pacífica deste Superior Tribunal de Justiça, como se depreende dos seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. INÉRCIA DA PARTE PARA PROMOVER A CITAÇÃO. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO. DESNECESSIDADE DE INTIMAÇÃO PESSOAL. ART. 485, IV, DO CPC/2015. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte possui entendimento no sentido de ser desnecessária a intimação pessoal da parte autora para extinção do feito sem resolução do mérito, com amparo no art. 485, IV, do CPC/2015.
+2. A intimação pessoal da parte é exigida nos casos de extinção do feito por abandono (art. 485, §1º do CPC/2015). Hipótese diversa da dos autos, em que a parte autora não procedeu as medidas necessárias para a citação, não obstante ter sido intimada para tanto.
+3. Agravo interno não provido. (AgInt no AREsp 1480641/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 23/8/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. FALTA DE CITAÇÃO. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. AUSÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO REGULAR E VÁLIDO DA LIDE. INTIMAÇÃO PESSOAL. DESCABIMENTO. AGRAVO DESPROVIDO.
+1. A falta de citação do réu configura ausência de pressuposto de validade da relação processual, ensejando sua extinção sem exame de mérito, prescindindo da intimação prévia do autor. Precedentes.
+2. Agravo interno ao qual se nega provimento. (AgInt no REsp 1737948/RO, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe 26/9/2018)
+3. Ademais , contrariar a conclusão da Corte de origem demandaria o reexame do caderno processual e acervo probatório, providência que esbarra no óbice Sumular nº 7/STJ.
+4. Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
