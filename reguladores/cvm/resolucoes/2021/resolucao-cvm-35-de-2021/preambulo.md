@@ -1,0 +1,4 @@
+Resolução CVM nº 35, de 2021
+Estabelece normas e procedimentos a serem observados na intermediação de operações realizadas com valores mobiliários em mercados regulamentados de valores mobiliários e revoga a Deliberação CVM nº 105, de 22 de janeiro de 1991, e as Instruções CVM nº 51, de 9 de junho de 1986, CVM nº 333, de 6 de abril de 2000, CVM nº 505, de 27 de setembro de 2011, Instrução CVM nº 526, de 21 de setembro de 2012; Instrução CVM nº 581, de 29 de setembro de 2016; Instrução CVM nº 612, de 21 de agosto de 2019; e Instrução CVM nº 618, de 28 de janeiro de 2020.
+O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS – CVM torna público que o Colegiado, em reunião realizada em 25 de maio de 2021, tendo em vista o disposto nos arts. 8º, I, 15, §1º, 16 e 18, II, alíneas “a” e “c”, da Lei nº 6.385, de 7 de dezembro de 1976, bem como nos arts. 5º e 14 do Decreto nº 10.139, de 28 de novembro de 2019, APROVOU a seguinte Resolução:
+CAPÍTULO I – ÂMBITO E FINALIDADE
