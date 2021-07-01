@@ -1,0 +1,23 @@
+Decisão:
+    Cuida-se de reclamação constitucional, com pedido liminar, ajuizada por Orbenk Administração e Serviços Ltda. em face de decisão proferida pela 2ª Vara do Trabalho de Florianópolis que, nos autos do Processo nº 0000306-68.2020.5.12.0014, teria desobedecido a ordem de suspensão nacional de processos exarada pelo Ministro Gilmar Mendes, nos autos do ARE 1.121.633/GO (Tema 1.046 de repercussão geral).
+    O reclamante informa que é demandado em ação trabalhista a pagar o adicional de insalubridade calculado em grau máximo a seus empregados. Aduz, entretanto, que o direito ao referido adicional está regulamentado em convenção coletiva de trabalho, que fixa o índice de “20%, calculado sobre o piso salarial normativo proporcional do empregado”.
+    Relata que requereu o sobrestamento do feito na origem, com fundamento na ordem de suspensão nacional de processos exarada no representativo da controvérsia do Tema 1046 RG, o qual foi indeferido pela autoridade reclamada por entender que:
+    “as negociações das quais tratam o presente feito não estão suprimindo ou limitando direitos trabalhistas, mas apenas prevendo o enquadramento do grau de insalubridade dos cargos da categoria, não sendo sua validade, objeto de discussão, portanto.”
+    Argumenta que, não obstante o status constitucional do adicional remuneratório pleiteado, “o pagamento da parcela é devido em razão do grau da insalubridade, estando este assegurado na CLT (art. 192), ou seja, na legislação infraconstitucional”, estando essa disciplina sujeita a negociação coletiva, a qual
+    “detém fundamento direto na Constituição da República, assumindo a natureza de lei em sentido material e especial (CF, arts. 7º, XXVI, 8º, VI e 22, I), [e], por consequência, prevalece sobre as leis ordinárias de caráter geral, e não o inverso, de acordo com o princípio da especialidade.
+    Ademais, ao reconhecer a negociação coletiva como direito fundamental do trabalhador, a Constituição da República assegura que as normas coletivas são criadas para serem efetivamente cumpridas, não para que as suas cláusulas sejam isoladamente confrontadas à legislação de natureza geral e, tampouco, a um modelo econômico-trabalhista discricionariamente eleito como ideal e atemporal.”
+    Defende que o indeferimento do pedido de sobrestamento do Processo nº 0000306-68.2020.5.12.0014 constitui violação à autoridade do STF, razão pela qual requer que seja julgada procedente a reclamação para determinar a suspensão da lide na origem até que seja fixada a tese no Tema 1046 da repercussão geral pelo STF.
+    É o relatório. Decido.
+    Prefacialmente, consigno que a ordem de suspensão nacional exarada pelo Ministro Gilmar Mendes em 1/8/2019 tem por objeto aqueles processos que versem sobre a validade de pactos coletivos que restrinjam ou limitem direitos trabalhistas não assegurados constitucionalmente, baliza que orienta este juízo preliminar de enquadramento.
+    Em juízo de delibação, entendo que a controvérsia nos autos em referência nesta reclamatória é concernente à definição, mediante convenção coletiva de trabalho, do percentual incidente à remuneração para fins de pagamento do adicional de insalubridade, considerada a função desempenhada pelo trabalhador e a exposição aos agentes prejudiciais à saúde.
+    O direito ao adicional de insalubridade tem assento no art. 7º, inciso XXIII da Constituição Federal, enquanto a gradação percentual da verba, bem como seus critérios de fixação estão regulados no art. 192 e seguintes da CLT. Não obstante a futura tese de repercussão geral não abarcar a validade de pactos coletivos que afetem o patamar civilizatório constitucionalmente assegurado, a sua hierarquia com relação aos indicadores legais desses direitos trabalhistas pertence ao escopo da matéria debatida no ARE nº 1.121.633/GO-RG.
+    Dessarte, em análise preliminar, entendo existir aderência da espécie com o paradigma invocado.
+    Verifico que, embora não haja informações detalhadas na página do TRT 12 que permitam verificar todo o conteúdo dos autos, é certo que a autoridade reclamada deu andamento ao feito de origem após a determinação de suspensão nacional exarada com fulcro no art. 1.035, §5º, do CPC. Portanto, está configurado o descumprimento.
+    Ante o exposto, defiro o pedido liminar para suspender o Processo nº 0000306-68.2020.5.12.0014.
+    Notifique-se a autoridade reclamada para que preste as informações.
+    Cite-se a parte beneficiária da decisão reclamada para apresentar contestação (CPC, art. 989, III).
+    Publique-se. Int..
+    Brasília, 1º de julho de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
