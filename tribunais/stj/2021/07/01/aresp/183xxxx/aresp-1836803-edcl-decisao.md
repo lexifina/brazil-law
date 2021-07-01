@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em face da decisão de fls. 394/398, e-STJ, por meio da qual neguei provimento ao agravo em recurso especial e, nos termos do art. 85, § 11 do Código de Processo Civil de 2015, majorei em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+A parte embargante, em suas razões, sustentou que a decisão recorrida foi omissa, por ter desconsiderado que a parte é beneficiária da justiça gratuita. Argumentou que a decisão deveria indicar a suspensão da exigibilidade dos ônus sucumbenciais.
+A parte embargada, regularmente intimada, apresentou contrarrazões de fls. 407/410, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Não há omissão a ser sanada.
+Com efeito, nos termos da jurisprudência deste Superior Tribunal de Justiça, "deferido o benefício da gratuidade da justiça nas instâncias ordinárias e não havendo comprovação de que tenha decaído do direito à gratuidade, desnecessária a renovação do pedido, porquanto a concessão abrange todos os atos do processo, inclusive nas instâncias superiores" (EDcl nos EDcl no AgRg nos EDcl no REsp 1511977/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/2/2017, DJe 24/2/2017).
+Assim, deferido o referido benefício pelas instâncias ordinárias e não tendo ocorrido alteração alguma nessa situação até o momento, a concessão abarca todos os atos do processo. Nesse sentido, é desnecessária, como pretendido pelo embargante, a menção específica, na decisão recorrida, de que o novo valor dos honorários - com a majoração por mim determinada - está albergado pela suspensão a que se refere o art. 98, § 3º do CPC/15.
+Verifico que a parte embargante pretende, na verdade, sob o pretexto de existência de omissão, o rejulgamento da causa. Os embargos de declaração não se prestam ao rejulgamento ou, simplesmente, ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte, deveriam guiar ou conduzir a solução do litígio. Eles servem para suprimento de omissões e esclarecimento de dúvidas e contradições do julgado, de tal forma que, se existentes tais vícios, sua correção venha, eventualmente, a prequestionar os pontos levantados pela parte.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
