@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ARTS. 85, §§ 11 E 14, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.ACOLHIMENTO DA PRETENSÃO VEICULADA, AINDA QUE PARCIAL. MAJORAÇÃO. INVIABILIDADE.
+1. O Tribunal a quo não se manifestou sobre os dispositivos infraconstitucionais tidos por violados em seu Recurso Especial (arts. 85, §§ 11 e 14, do CPC/2015), motivo pelo qual, à falta do prequestionamento, não se poderia conhecer do Recurso Especial nesse ponto, sendo aplicável ao caso o princípio estabelecido na Súmula 282/STF. Ressalte-se que nem sequer foram opostos Embargos de Declaração pela parte visando suprir eventual omissão.
+2. Ainda que superasse tal óbice, cumpre registrar que, de acordo com a jurisprudência da Corte Especial do STJ, "é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EAREsp 762.075/MT, Relator p/ Acórdão Min. Herman Benjamin, Corte Especial, DJe 7.3.2019).
+3. Assim, não é cabível a majoração de honorários recursais em hipótese de acolhimento da pretensão veiculada, ainda que parcial.
+4. Manutenção da decisão agravada por outros fundamentos.
+5. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra decisão (fls. 223-225, e-STJ) que deu parcial provimento ao seu Recurso Especial apenas para fixar o termo inicial do pagamento do benefício previdenciário.
+A parte agravante sustenta, em suma:
+O Acórdão proferido de forma monocrática reconheceu acerca do termo inicial do benefício, quando se tem prévio requerimento administrativo, do qual não se pode fixar na juntada do laudo a DIB deste. Contudo, de maneira surpresa e de oficio, o Ínclito Ministro Relator adentrou em tema não debatido em Recurso Especial. Ou seja, a reforma do julgado da Turma Recursal quanto a base de honorários de sucumbência e sua limitação pela Súmula 111 do STJ.
+Diante disso, o que se busca no presente Agravo é que a Segunda Turma julgue que tal matéria não está inserta no rol de matérias de ordem pública, da qual podem ser decidida de oficio.
+Ademais, estar-se-á diante do ferimento do princípio da não surpresa.
+E como a Ministra Nancy Andrighi no julgamento do REsp 1.178.562, revisitou seu voto no REsp 963.977, do qual "o processo civil muito comumente vem sendo distorcido de forma a prestar enorme desserviço ao Estado Democrático de Direito, deixando de ser instrumento da justiça para se tornar terreno incerto, recheado de armadilhas e percalços, onde só se aventuram aqueles que não têm mais nada a perder".
+E continua: "A razoabilidade deve ser aliada do Poder Judiciário nessa tarefa, de forma que se alcance efetiva distribuição de justiça. Não se devem impor surpresas processuais, pois estas só prejudicam a parte que tem razão no mérito da disputa".
+Vejam nobres Ministros, no que concerne a matérias passíveis de cognição de ofício estão inseridas no artigo 485 do CPC. E as circunstâncias quanto aos honorários de sucumbência não estão disciplinadas neste normativo legal (fls. 228-229, e-STJ).
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ARTS. 85, §§ 11 E 14, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ACOLHIMENTO DA PRETENSÃO VEICULADA, AINDA QUE PARCIAL. MAJORAÇÃO. INVIABILIDADE.
+1. O Tribunal a quo não se manifestou sobre os dispositivos infraconstitucionais tidos por violados em seu Recurso Especial (arts. 85, §§ 11 e 14, do CPC/2015), motivo pelo qual, à falta do prequestionamento, não se poderia conhecer do Recurso Especial nesse ponto, sendo aplicável ao caso o princípio estabelecido na Súmula 282/STF. Ressalte-se que nem sequer foram opostos Embargos de Declaração pela parte visando suprir eventual omissão.
+2. Ainda que superasse tal óbice, cumpre registrar que, de acordo com a jurisprudência da Corte Especial do STJ, "é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EAREsp 762.075/MT, Relator p/ Acórdão Min. Herman Benjamin, Corte Especial, DJe 7.3.2019).
+3. Assim, não é cabível a majoração de honorários recursais em hipótese de acolhimento da pretensão veiculada, ainda que parcial.
+4. Manutenção da decisão agravada por outros fundamentos.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 5 de maio de 2021.
+Primeiramente, esclareço que dei parcial provimento ao Recurso Especial do ora agravante tão somente quanto à data inicial do pagamento do benefício previdenciário em discussão (auxílio-acidente), tendo em vista que, nos termos da jurisprudência do STJ, o termo a quo para a concessão de benefício previdenciário é a data do requerimento administrativo e, na sua ausência deste, a partir da citação.
+Naquela oportunidade, explicou-se ainda que o laudo pericial não serve como parâmetro para fixar termo inicial de aquisição de direitos, mas apenas norteia o livre convencimento do juiz quanto aos fatos alegados pelas partes.
+No mais, não obstante os argumentos expendidos, o inconformismo do agravante não merece guarida, ainda que por outros fundamentos.
+No que concerne ao honorários advocatícios, verifica-se que o Tribunal a quo não se manifestou acerca dos dispositivos infraconstitucionais tidos por violados em seu Recurso Especial (arts. 85, §§ 11 e 14, do CPC/2015), motivo pelo qual, à falta do prequestionamento, não se poderia conhecer do Recurso Especial nesse ponto, sendo aplicável ao caso o princípio estabelecido na Súmula 282/STF.
+Ressalte-se que nem sequer foram opostos Embargos de Declaração pela parte visando suprir eventual omissão.
+Registro que, nos termos da reiterada jurisprudência deste Tribunal Superior, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate, à luz da legislação federal indicada, com a imprescindível manifestação da Corte de origem, a qual deverá emitir juízo de valor sobre os dispositivos legais, ao decidir pela sua adoção ou seu afastamento em relação a cada caso concreto, o que não se deu na espécie.
+Ainda que se superasse tal óbice, cumpre registrar que, de acordo com a jurisprudência da Corte Especial do STJ, "é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EAREsp 762.075/MT, Relator p/ Acórdão Min. Herman Benjamin, Corte Especial, DJe 7/3/2019) (Grifei).
+Assim, não é cabível a majoração de honorários recursais em hipótese de acolhimento da pretensão veiculada, ainda que parcial.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
