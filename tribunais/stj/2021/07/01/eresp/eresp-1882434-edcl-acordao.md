@@ -1,0 +1,115 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaraÃ§Ã o, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OMISSÃO. AUSÊNCIA DE VÍCIOS.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+III - Embargos de declaração rejeitados.
+RELATÓRIO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+FERNANDA MENDES AMORIM MONTEIRO e AIRTON NOTARO DA CUNHA PEDROSAopõemembargos de declaração contra o acórdão proferido em sede de agravo internoque, por unanimidade, negou-lheprovimento(fls. 646/647e), cuja ementa transcrevo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. INTEMPESTIVIDADE DO RECURSO ESPECIAL. ARTS. 219, 1.003, § 5º, E 1.070 DO CÓDIGO DE PROCESSO CIVIL DE 2015. INAPLICABILIDADE DA EXCEÇÃO ESTABELECIDA PELA CORTE ESPECIAL DESTE TRIBUNAL SUPERIOR. JUÍZO PRÉVIO DE ADMISSIBILIDADE PELA CORTE DE ORIGEM. NÃO VINCULAÇÃO. PRECEDENTES. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - É intempestivo o Recurso Especial interposto fora do prazo de quinze dias, previsto nos arts. 219, 1.003, § 5º, e 1.070 do estatuto processual civil de 2015.
+III - Nos termos do art. 1.003, § 6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, não se admitindo a comprovação posterior. Precedentes da Corte Especial e das Turmas componentes da 1ª e 2ª Seção.
+IV - Conforme definido pela Corte Especial, em 03.02.2020, ao analisar a Questão de Ordem no Recurso Especial n. 1.813.684/SP, revela-se possibilitada a posterior comprovação apenas do feriado local de segunda-feira de Carnaval, em recursos interpostos até a data da publicação do acórdão no mencionado feito (18.11.2019), não se entendendo aos demais feriados.
+V - É pacífica a jurisprudência do Superior Tribunal de Justiça segundo a qual o juízo prévio de admissibilidade do Recurso Especial realizado na instância de origem não vincula esta Corte.
+VI - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido.
+Sustentam, em síntese, que o acórdão padece de omissão (art. 1.022, II, do CPC), porquanto:
+No respeitável acórdão, não houve qualquer manifestação a questão da base temporal as informações oficiais apresentadas pelo site do Tribunal Regional Federal da 5ª Região quando da protocolização do Recurso Especial.
+Mesmo que fosse intempestivo o recurso especial, há de se destacar que o Recurso Especial manejado pelos Recorrentes teve como base temporal as informações oficiais apresentadas pelo site do Tribunal Regional Federal da 5ª Região.
+A divulgação do andamento processual pelos Tribunais por meio da internet passou a representar a principal fonte de informação dos advogados em relação aos trâmites do feito.
+A jurisprudência deve acompanhar a realidade em que se insere, sendo impensável punir a parte que CONFIOU nos dados assim fornecidos pelo próprio Judiciário.
+Ainda que não se afirme que o prazo correto é aquele disponibilizado no site do Tribunal Regional Federal da 5ª Região (que não é o caso dos autos), desarrazoado frustrar a boa-fé que deve orientar a relação entre os litigantes e o Judiciário.
+Transcorreu in albis o prazo para a FAZENDA NACIONAL apresentar impugnação (certidão de fl. 679e).
+Os embargos foram opostos tempestivamente.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OMISSÃO. AUSÊNCIA DE VÍCIOS.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+III - Embargos de declaração rejeitados.
+VOTO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Sustentam osEmbargantes que há omissãoa ser suprida, nos termos do art. 1.022,II, do Código de Processo Civil.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e iii) corrigir erro material.
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Código de Processo Civil considera, ainda, omissa a decisão que incorra em qualquer uma das condutas descritas no art. 489, § 1º, no sentido de não se considerar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e, vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Sobreleva notar que o inciso IV do art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento pelo julgador dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Nesse sentido, confira-se a doutrina de Nelson Nery Junior e Rosa Nery:
+Não enfrentamento, pela decisão, de todos os argumentos possíveis de infirmar a conclusão do julgador. Para que se possa ser considerada fundamentada a decisão, o juiz deverá examinar todos os argumentos trazidos pelas partes que sejam capazes, por si sós e em tese, de infirmar a conclusão que embasou a decisão. Havendo omissão do juiz, que deixou de analisar fundamento constante da alegação da parte, terá havido omissão suscetível de correção pela via dos embargos de declaração. Não é mais possível, de lege lata, rejeitarem-se, por exemplo, embargos de declaração, ao argumento de que o juiz não está obrigado a pronunciar-se sobre todos os pontos da causa. Pela regra estatuída no texto normativo ora comentado, o juiz deverá pronunciar-se sobre todos os pontos levantados pelas partes, que sejam capazes de alterar a conclusão adotada na decisão.
+(Código de Processo Civil Comentado, 18ª ed., São Paulo, Revista dos Tribunais, 2019, p. 1.178-1.179, destaque no original).
+Esposando tal entendimento, precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA ORIGINÁRIO. INDEFERIMENTO DA INICIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art.489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+3. No caso, entendeu-se pela ocorrência de litispendência entre o presente mandamus e a ação ordinária n. 0027812-80.2013.4.01.3400, com base em jurisprudência desta Corte Superior acerca da possibilidade de litispendência entre Mandado de Segurança e Ação Ordinária, na ocasião em que as ações intentadas objetivam, ao final, o mesmo resultado, ainda que o polo passivo seja constituído de pessoas distintas.
+4. Percebe-se, pois, que o embargante maneja os presentes aclaratórios em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil, a inquinar tal decisum.
+5. Embargos de declaração rejeitados.
+(EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI -DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO, PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AUSÊNCIA DE FUNDAMENTAÇÃO. INEXISTÊNCIA. FAIXA DE DOMÍNIO DE RODOVIA SOB CONCESSÃO. COBRANÇA EM DESFAVOR DE CONCESSIONÁRIA DE SERVIÇO DE TELEFONIA. POSSIBILIDADE.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A prescrição trazida pelo art. 489 do CPC/2015, na esteira interpretativa sufragada no Superior Tribunal de Justiça, significa que o julgador deve enfrentar apenas as questões capazes de infirmar a conclusão adotada na decisão recorrida, hipótese aqui não verificada (EDcl no MS n. 21315/DF, Primeira Seção, DJe 15/06/2016).
+3. A Primeira Seção desta Corte firmou o entendimento de que o poder concedente, com respaldo no art. 11 da Lei n. 8.987/1995 (Lei de Concessões e Permissões), pode autorizar a concessionária a efetuar cobrança pela utilização de faixas de domínio de rodovia, mesmo de outra concessionária de serviços públicos, desde que haja previsão no contrato de concessão da rodovia, como verificado na hipótese.
+4. A Primeira Turma desta Corte tem reconhecido o caráter manifestamente inadmissível ou improcedente do agravo interno, a ensejar a aplicação da sanção prevista no art. 1.021, § 4º, do CPC/2015 quando a decisão agravada está fundamentada em precedente julgado sob o regime da repercussão geral, sob o rito dos recursos repetitivos ou com base em jurisprudência pacífica de ambas as Turmas da 1ª Seção.
+5. Agravo interno desprovido, com aplicação de multa.
+(AgInt no AREsp 1.079.824/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 06/02/2018, DJe 07/03/2018)
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO NO ACÓRDÃO RECORRIDO. INEXISTENTE. ACÓRDÃO QUE ENFRENTOU TODAS AS QUESTÕES NECESSÁRIAS. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Conforme pacífico entendimento desta Corte, o órgão julgador não é obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A determinação contida no art. 489 do CPC/2015 "veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+II - A corte de origem analisando o contexto fático-probatório dos autos concluiu (fl. 270): "Neste caso, ainda que houvesse buracos no asfalto e ainda que a pista apresentasse irregularidades, é certo que o acidente que vitimou fatalmente  ..  somente ocorreu por culpa do motociclista que invadiu a contramão da via em alta velocidade".
+III - Para alterar tais conclusões seria necessário o reexame fático-probatório, vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual: " pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido
+(AgInt no AREsp 1.037.131/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/11/2017, DJe 22/11/2017).
+No caso, osEmbargantes apontam que o acórdão padeceria de omissão, pois não teria se manifestado acercadas informações apresentadas pelo site do tribunal de origemquando da protocolização do Recurso Especial.
+Entretanto, não assiste razão aos Embargantes, porquanto restou consignado no acórdão ora embargado que o recurso especial foi interposto fora do prazo de 15 (quinze) dias úteis estabelecidos no estatuto processual civil (fls. 650e e 653/655e):
+ ..
+In casu, a efetiva intimação eletrônica do acórdão ocorreu em 08.01.2020 (quarta-feira) (fls. 514/515e), pelo que o prazo para interposição do Recurso Especial iniciou-se em 21.01.2020 (terça-feira), com termo final em 10.02.2020 (segunda-feira).
+Assim, revela-se intempestivo o recurso interposto somente em 11.02.2020 (terça-feira) (fl. 524e).
+Esclareço que a intimação eletrônica ocorreu em 22.12.2019, contudo, de acordo com o § 2º do art. 5º da Lei n. 11.419/2006, como a referida data não foi dia útil, considera-se que a consulta foi feita no dia útil seguinte, isto é, em 07.01.2020.
+Portanto, efetivamente intimada a parte recorrente no dia 08.01.2020, consoante o art.
+231, V, do Código de Processo Civil de 2015.
+Ressalto, ainda, que, considerando a regra estabelecida pelo art. 220 do estatuto processual civil, os prazos processuais são suspensos entre os dias 20 de dezembro a 20 de janeiro. Desse modo, o primeiro dia da efetiva contagem do prazo ocorreu em 21.01.2019.
+ ..
+De outra parte, cumpre destacar, ainda, que é pacífica a jurisprudência do Superior Tribunal de Justiça segundo a qual o juízo prévio de admissibilidade do Recurso Especial realizado na instância de origem não vincula esta Corte.
+Nessa linha:
+PROCESSUAL CIVIL. ADMINISTRATIVO. DESAPROPRIAÇÃO. RECURSO ESPECIAL. ADMISSIBILIDADE PELO TRIBUNAL DE ORIGEM. NÃO VINCULAÇÃO DESTA CORTE. EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS E CORREÇÃO MONETÁRIA. MATÉRIAS DEFINIDAS NA SENTENÇA DE CONHECIMENTO E PROTEGIDAS PELA COISA JULGADA.
+1. O exame de admissibilidade que se realiza no pórtico do recurso especial nesta Corte não está vinculado ao juízo de admissibilidade realizado no tribunal de origem, seja para admitir ou para inadmitir o recurso, conforme reiterada jurisprudência.
+(..)
+5. Agravo regimental desprovido.
+(AgRg no REsp 1225228/SE, Rel. Ministro OLINDO MENEZES - DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO, PRIMEIRA TURMA, julgado em 04/02/2016, DJe 15/02/2016)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE NÃO INFIRMA A DECISÃO AGRAVADA. INCIDÊNCIA DO VERBETE SUMULAR 182/STJ. MATÉRIA DE ORDEM PÚBLICA. AUSÊNCIA DE PREQUESTIONAMENTO. INEXISTÊNCIA DOS VÍCIOS PREVISTOS NO ART. 535 DO CPC. INCONFORMISMO DA EMBARGANTE. EMBARGOS REJEITADOS.
+1. O pressuposto de admissibilidade dos embargos de declaração, nos termos do art. 535 do Código de Processo Civil, é a existência de obscuridade, contradição ou omissão de algum ponto que deveria ser pronunciado no acórdão, o que não ocorreu no presente caso.
+2. O recurso especial é submetido ao duplo juízo de admissibilidade, não ficando o Superior Tribunal de Justiça vinculado ao controle realizado no Tribunal de origem.
+3. O conhecimento do recurso especial, ainda que se trate de questão de ordem pública, apreciável de ofício nas instâncias ordinárias, exige o requisito do prequestionamento.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 9.885/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 20/10/2011, DJe 09/11/2011)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. REDISCUSSÃO DA CAUSA. IMPOSSIBILIDADE. AFERIÇÃO DA TEMPESTIVIDADE DO RECURSO ESPECIAL. IMPOSSIBILIDADE. PROTOCOLO ILEGÍVEL. IRRELEVÂNCIA DA CERTIDÃO DE TEMPESTIVIDADE LAVRADA NA ORIGEM. PRECEDENTES. NÃO VINCULAÇÃO DO STJ AO JUÍZO DE ADMISSIBILIDADE REALIZADO PELO TRIBUNAL A QUO.
+(..)
+3. A orientação desta Corte é no sentido de que a certidão lavrada por servidor público nos autos do processo, atestando apenas a tempestividade do recurso, não impede o reexame desse requisito pelo STJ, eis que o juízo de admissibilidade realizado na instância ordinária não vincula esta instância especial. Nesse sentido: AgRg no REsp 1.122.406/RJ, Rel. Ministro Sidnei Beneti, Terceira Turma, DJe 01/07/2010, AgRg no Ag 1.135.540/RJ, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 28/06/2010, AgRg nos EDcl no AgRg no REsp 1.058.829/RN, Rel. Ministro Hamilton Carvalhido, Primeira Turma, DJe 19/05/2010, AgRg no REsp 770.786/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 08/03/2010.
+4. A comprovação da data do pagamento do preparo não é suficiente, por si só, para atestar a tempestividade da interposição do recurso especial, sobretudo quando ilegível a data do protocolo da petição recursal. Por fim, os documentos juntados aos autos pelo ora embargante não podem ser analisados para fins de aferição da tempestividade do recurso, haja vista a ocorrência da preclusão consumativa.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no Ag 1339832/CE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/02/2011, DJe 14/02/2011)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO BANCÁRIO. REVISIONAL. FALTA DE PREQUESTIONAMENTO. AUSÊNCIA DE INDICAÇÃO DE OFENSA AO ART. 535 DO CPC. SÚMULAS 282/STF E 211/STJ. DUPLO JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. INEXISTÊNCIA DE VINCULAÇÃO DO STJ AO PRIMEIRO JUÍZO DE ADMISSIBILIDADE, REALIZADO PELO TRIBUNAL DE ORIGEM. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+1. Não tendo sido a matéria decidida na instância ordinária à luz do preceito legal indicado pela parte (arts. 319 e 332 do CPC; 39, V, do CDC), mesmo tendo sido opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados 282 da Súmula do Supremo Tribunal Federal e 211 da Súmula do STJ. Ademais, os recorrentes não aduziram nas razões do recurso especial ofensa ao art. 535 do CPC.
+2. O Superior Tribunal de Justiça, ao emitir o segundo juízo de admissibilidade do recurso especial, não está vinculado nem limitado à decisão proferida pelo Tribunal de origem.
+3. Agravo interno improvido.
+(AgInt no REsp 1.482.892/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/09/2016, DJe 10/10/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INEXISTÊNCIA DE ASSINATURA DO ADVOGADO. RECURSO APÓCRIFO. PRECEDENTES. ART. 13 DO CPC. REGULARIZAÇÃO PROCESSUAL. IMPOSSIBILIDADE. INSTÂNCIA ESPECIAL. PRECEDENTES. NÃO VINCULAÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA AO JUÍZO DE ADMISSIBILIDADE REALIZADO PELO TRIBUNAL ESTADUAL. FALHA ADMINISTRATIVA NO PROCESSAMENTO DO RECURSO ESPECIAL. MERA ALEGAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é pacífica no sentido de considerar inexistente o recurso apócrifo, por falta de pressuposto de admissibilidade, não sendo cabível a regularização processual nesta instância. Nesse sentido: AgRg nos EREsp 1.262.187/ES, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 19/6/2013, DJe de 1º/7/2013.
+2. O Superior Tribunal de Justiça não está vinculado ao juízo de admissibilidade realizado pela Corte Estadual.
+3. A mera alegação de que houve falha administrativa (extravio) do Tribunal a quo no processamento do recurso especial não se mostra apta a remover o óbice para conhecimento do apelo nobre.
+4. Agravo regimental não provido.
+(AgRg no AREsp 466.239/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/03/2016, DJe 06/04/2016)
+Ademais, ojulgador não fica obrigado a responder um a um os questionamentos da parte se já encontrou motivação suficiente para fundamentar a decisão, sobretudo se notório o caráter de infringência, consoante demonstra o julgado assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, DE OBSCURIDADE E DE CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. EMBARGOS DE DECLARAÇÃO DOS PARTICULARES REJEITADOS.
+ ..
+4. Com efeito, o acórdão embargado consignou, claramente, a inviabilidade de manejo de Embargos de Divergência para discussão acerca de admissibilidade de Recurso Especial, tal como ocorre com a aplicação das Súmulas 211 e 7 do STJ. Não tendo o Recurso Unificador ultrapassado o juízo de conhecimento, descabe analisar o mérito da controvérsia.
+5. Destaca-se, ainda, que, tendo encontrado motivação suficiente para fundar a decisão, não fica o órgão julgador obrigado a responder, um a um, a todos os questionamentos suscitados pelas partes, mormente se notório seu caráter de infringência do julgado.
+6. Embargos de Declaração dos Particulares rejeitados.
+(EDcl no AgInt nos EREsp 703.188/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 10/09/2019, DJe 17/09/2019)
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro material do julgado.
+Posto isso, REJEITO OS EMBARGOS DE DECLARAÇÃO.
