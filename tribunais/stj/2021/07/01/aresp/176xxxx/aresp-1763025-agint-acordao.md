@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM -DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE AGRAVANTE.
+1.Na via especial não é cabível, em regra, a revisão do valor fixado a título de astreintes, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7/STJ. A jurisprudência deste Sodalício admite, excepcionalmente, que o montante arbitrado seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não é a hipótese dos autos.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BRADESCO SAUDE S/A contra decisão monocrática de fls. 338/341, e-STJ, da lavra da Presidência do STJ, que negou provimento ao agravo em recurso especial manejado pela ora agravante.
+O apelo extremo, a seu turno, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 227, e-STJ):
+AGRAVO DE INSTRUMENTO PLANO DE SAÚDE CUMPRIMENTO DE SENTENÇA - Impugnação ao cumprimento de sentença rejeitado, mantendo, o valor fixado a título de astreintes Atraso no cumprimento da obrigação de fornecimento de medicamento quimioterápico que restou incontroverso Seguradora que cingiu-se a pugnar por dilação de prazo para a entrega do medicamento, entregue com atraso de 12 dias - Valor das astreintes bem fixados Recurso não provido
+Nas razões do recurso especial (fls. 234/8244, e-STJ), a insurgente apontou violação dos arts. 537, § 1º, do CPC/15 e 884 do CC, defendendo a exorbitância das astreintes, pois fixadas em dissonância com as provas dos autos "que comprovaram que o atraso no fornecimento do medicamento só ocorreu em razão das complicações impostas pelos laboratórios". Acrescenta, ainda, que o valor da referida multa se mostra dissociada do valor da obrigação principal, o que autoriza sua redução.
+Contrarrazões às fls. 257/271, e-STJ.
+Inadmitido o apelo nobre, adveio agravo (art. 1.042 do CPC/15), desprovido pela Presidência desta Corte ante a incidência da Súmula 7/STJ.
+No presente agravo interno (fls. 837/847, e-STJ), a parte insurgente sustenta, em síntese: i) verificar a desproporcionalidade do valor fixado a título de astreintes não encontra óbice na Súmula 7/STJ; ii) a condenação ao pagamento da multa cominatória destoa com as provas dos autos as quais "comprovaram o efetivo cumprimento liminar, ainda que com pequeno atraso"; iii) é imperiosa a redução da multa, já que em desconformidade com o valor da causa, o que demonstra sua exorbitância.
+Impugnação às fls. 852/866 (e-STJ), na qual a parte agravada requer, além da manutenção do julgado, a aplicação da multa prevista no art. art. 1.021, §4º do CPC/15.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM -DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE AGRAVANTE.
+1.Na via especial não é cabível, em regra, a revisão do valor fixado a título de astreintes, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7/STJ. A jurisprudência deste Sodalício admite, excepcionalmente, que o montante arbitrado seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não é a hipótese dos autos.
+2. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de derruir a fundamentação expedida no decisum monocrático.
+1. A parte pretende o reconhecimento da ofensa aos arts. 537, § 1º, do CPC/15 e 884 do CC, defendendo a exorbitância das astreintes, pois fixadas em dissonância com as provas dos autos "que comprovaram que o atraso no fornecimento do medicamento só ocorreu em razão das complicações impostas pelos laboratórios". Acrescenta, ainda, que o valor da referida multa se mostra dissociada do valor da obrigação principal, o que autoriza sua redução.
+Na presente hipótese, a Corte a quo rejeitou a tese de exorbitância das astreintes adotando os fundamentos a seguifr: i) a seguradora não se desincumbiu do ônus de comprovar o cumprimento da decisão judicial a contento, ressaltando que o fármaco fora recebido pela parte ora agravada após o falecimento do segurado; ii) a multa alcançou o valor de R$ 60.000,00, em razão da desídia da insurgente.
+Por oportuno, destaca-se os seguintes trechos do acórdão recorrido, in verbis:
+6. Entendo que a cominação de multa pelo descumprimento da r. decisão agravada, visa tão somente dar efetividade à decisão,com a finalidade de compelir a agravante ao fornecimento do medicamento quimioterápico outrora prescrito à falecida segurada em tempo hábil para o início do ciclo de quimioterapia.
+7. É certo, ainda, que a agravante não se desincumbiu, minimamente, de comprovar o cumprimento a contento da obrigação que lhe foi imputada, causando prejuízo, à autora, que não pôde iniciar seu último ciclo de quimioterapia antes de seu óbito, que se deu 3 (três) dias depois do recebimento do fármaco, devidamente devolvido por sua família à operadora de plano de saúde.
+8. Muito pelo contrário, a agravante, quando instada a se manifestar acerca do descumprimento da obrigação que foi imposta cingiu-se a pugnar pela dilação de prazo de 15 dias para tal finalidade.
+9. Com efeito, entendo que o valor da astreinte deve ser fixado em montante suficiente para coagir o devedor ao cumprimento da obrigação, entretanto, compartilho com o entendimento de que o valor da multa cominatória deve ser arbitrado dentro dos parâmetros da razoabilidade e proporcionalidade, de forma a evitar-se o enriquecimento sem causa.
+ ..
+12. E, no caso sub judice, a multa diária, cominada no valor de R$ 5.000,00, limitada a R$ 240.000,00 não se mostrou, a princípio, excessiva, e apenas alcançou o quantum impugnado (R$ 60.000,00) em virtude da desídia da agravante não havendo que se falar, portanto, na pretendida redução.
+No caso dos autos, não vislumbro exorbitância no valor das astreintes, tendo em vista a conduta da ora agravante que não trouxe provas do cumprimento a contento da decisão (como afirmado em suas petições recursais). Ao revés, consta dos autos que a obrigação foi cumprida após o óbito do requerente, o que evidencia a recalcitrância da parte no cumprimento da determinação judicial.
+Dessa forma, a redução da multa diária demandaria o reexame de fatos e provas, prática vedada pela Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. MULTA DIÁRIA. ORDEM JUDICIAL. DESCUMPRIMENTO. REDUÇÃO. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O recurso especial que indica violação do artigo 1.022 do Código de Processo Civil de 2015, mas traz somente alegação genérica de negativa de prestação jurisdicional, é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284/STF, aplicada por analogia.
+3. A multa diária apresenta caráter inibitório, visando justamente impedir a violação de um direito, de modo que a sua fixação deve ser de tal monta que não frustre os seus objetivos.
+4. O entendimento do Superior Tribunal de Justiça é no sentido de que apenas em casos excepcionais, em que exorbitante o valor ou em virtude da flagrante impossibilidade de cumprimento da medida, é possível a alteração, em recurso especial, da multa diária.
+5. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias, para reduzir o valor imposto pelo julgador a título de multa diária, demandaria a análise de fatos e de provas dos autos, procedimento inviável em recurso especial devido ao óbice da Súmula nº 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp 1384829/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/05/2020, DJe 26/05/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REVISÃO DE CLÁUSULAS CONTRATUAIS - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE REQUERIDA.
+ ..
+2. Na via especial não é cabível, em regra, a revisão do valor fixado a título de astreintes, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7/STJ. A jurisprudência deste Sodalício admite, excepcionalmente, que o montante arbitrado seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não é a hipótese dos autos.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp 1500702/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/11/2019, DJe 21/11/2019)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISPOSITIVOS LEGAIS APONTADOS COMO VIOLADOS. AUSÊNCIA DE MANIFESTAÇÃO PELA CORTE DE ORIGEM. EMBARGOS DE DECLARAÇÃO REJEITADOS. PREQUESTIONAMENTO. INDISPENSABILIDADE. SÚMULA 211/STJ. ASTREINTES. QUANTUM. EXORBIT NCIA NÃO DEMONSTRADA. MODIFICAÇÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. CONTEXTO FÁTICO. REEXAME. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+ ..
+3. Quanto às astreintes, cabe ressaltar que na via especial não é cabível, em regra, a revisão do valor estabelecido pelas instâncias ordinárias a título de multa diária por descumprimento da obrigação de fazer, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7/STJ. 4. Contudo, a jurisprudência desta Corte admite, em caráter excepcional, que o quantum arbitrado seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade.
+5. Na espécie, tendo em vista que o valor estabelecido a título de astreintes veio ancorado no contexto fático delineado nos autos, e a parte agravante não foi capaz de demonstrar afronta aos princípios da razoabilidade e da proporcionalidade, incide o óbice previsto na Súmula 7/STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1469658/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/10/2019, DJe 24/10/2019)
+Ademais, a alegação de que o valor final da multa por descumprimento da obrigação de fazer supera o da obrigação principal, por si só, não é suficiente para a caracterização de sua excessividade. Isso porque a aferição da razoabilidade e da proporcionalidade das astreintes deve levar em conta o valor no momento da fixação, em vez de comparar com o total alcançado frente à obrigação principal, sob pena de se prestigiar a recalcitrância do devedor em cumprir a ordem judicial, além de estimular a interposição de recursos a esta Corte para a redução da sanção, em total desprestígio à atividade jurisdicional das instâncias ordinárias. Nesse sentido: AgInt no REsp 1785548/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 09/09/2019, DJe 11/09/2019; AgInt no AREsp 1517002/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/12/2019, DJe 18/12/2019; AgInt no REsp 1770205/CE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/02/2019, DJe 21/02/2019.
+2. Rejeita-se, por fim, o pedido formulado em sede de impugnação ao agravo interno para aplicação de multa por agravo manifestamente inadmissível
+Consoante já deliberado pela Segunda Seção deste Tribunal: "A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada." (AgInt nos EREsp 1120356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016).
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
