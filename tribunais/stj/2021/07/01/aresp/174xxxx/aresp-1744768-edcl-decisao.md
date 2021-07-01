@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração, opostos por ESPÓLIO DE JOSÉ NELSON DISSENHA e SUZETTE CONTIN DISSENHA, em face de decisão monocrática da lavra deste signatário, acostada às fls. 1301-1308 (e-STJ), que negou provimento ao reclamo em razão da incidência da Súmula 7/STJ.
+Irresignados, os ora embargantes sustentam, em síntese, omissão quanto ao fato de que os requisitos referentes ao justo título e boa-fé são secundários e prescindíveis à configuração da usucapião prevista no art. 1238 do Código Civil, e que, no caso, os requisitos essenciais (posse com animus domni; lapso temporal de mais de 20 anos; posse ininterrupta e sem oposição) foram preenchidos.
+Sem impugnação.
+É o relatório.
+Decido.
+A irresignação não merece ser acolhida.
+1. Nos estreitos lindes do art. 1.022, incisos I, II e III, do Código de Processo Civil, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão.
+No caso, as razões dos embargos revelam tão somente o intuito de reapreciação da causa e a sua insatisfação com o resultado da decisão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Nesse sentido, precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARATER PROTELATÓRIO. MAJORAÇÃO DA MULTA. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Inexistentes as hipóteses do art. 535 do CPC/73, e 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. Inexistindo a alegada omissão no acórdão embargado, mostra-se incabível o acolhimento dos aclaratórios. Precedentes.
+4. Embargos de declaração rejeitados. (EDcl no AgRg na PET no CC 133.509/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/05/2016, DJe 18/05/2016)  grifou-se
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. REITERAÇÃO DE EMBARGOS DECLATÓRIOS ADUZINDO AS MESMAS TESES, JÁ APRECIADAS. ELEVAÇÃO DA MULTA APLICADA E CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. POSSIBILIDADE. EMBARGOS REJEITADOS. MULTA.
+1. Depreende-se do art. 535, I e II, do CPC que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador. Eles não se prestam, portanto, ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso, inexistem omissões ou contradições a serem sanadas, pois todas as teses da parte já foram apreciadas. O que se observa é o resistente inconformismo com a decisão exarada, contrária aos interesses da parte, circunstância a justificar a certificação do trânsito em julgado e a elevação da multa aplicada nos termos do art. 538 do CPC para 5%, ante a insistente oposição de embargos declaratórios aduzindo as mesmas questões.
+3. Embargos de declaração rejeitados, com aplicação de multa e determinação de certificação do trânsito em julgado. (EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015)  grifou-se
+Com efeito, não há qualquer omissão a ser sanada.
+A decisão embargada foi suficientemente clara nas suas razões ao negar provimento ao recurso afastando a suposta ofensa ao art. 489 do CPC/15 e aplicando a Súmula 7/STJ, tendo em vista que o Tribunal de origem constatou a ausência de posse ad usucapionem em qualquer dos períodos alegados e asseverou expressamente que "os embargantes exerciam mera detenção sobre a área", razão pela qual os requisitos necessários à configuração da usucapião não teriam sido preenchidos.
+Assim constou da decisão ora embargada (e-STJ, fl. 1303-1304):
+2. A apontada violação ao art. 489 do CPC/15 não se configura, haja vista o Tribunal estadual ter dirimido clara e integralmente a controvérsia, inclusive se manifestando sobre a ausência de posse ad usucapionem em qualquer dos períodos alegados pelos recorrentes. Assim constou do acórdão (fl. 1167, e-STJ):
+Assim, da leitura do trecho acima, verifica -se que restou evidente que os requisitos necessários à aquisição do domínio não foram preenchidos, visto que a posse exercida pelos embargantes era precária e clandestina. A presença de outros requisitos, como ausência de oposição e decurso do tempo, torna -se irrelevante, na medida em que, do conjunto fático -probatório, restou demonstrado que os embargantes não exerciam posse ad usucapionem. Por outro lado, restou consignado que não se configurou a transmudação da posse. O simples ajuizamento de ação de usucapião não altera a natureza da posse. Na verdade, é fato que a posse permaneceu injusta mesmo após o ajuizamento da ação de usucapião nº 4 -39.1993, em 03.12.1993, visto que tanto na sentença (24.10.2011) quanto no acórdão proferido em sede de Apelação Cível nº 931.748 - 6 (12.12.2012) confirmaram que os embargantes exerciam mera detenção sobre a área, de modo que, em qualquer "período" como querem os embargantes, não há que se falar em posse passível de aquisição do domínio.
+Deste modo, não se vislumbrando quaisquer das máculas do artigo 1.022 do CPC/15, cuidando-se o presente reclamo de mera irresignação da parte quanto à solução adotada, é de rigor a rejeição do apelo.
+2. Do exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
