@@ -1,0 +1,17 @@
+DECISÃO
+CARLOS GABRIEL MELO BAPTISTA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0005313-29.2021.8.26.0996.
+Busca o impetrante o restabelecimento da decisão do Magistrado da execução, que deferiu ao paciente a progressão ao regime semiaberto, independentemente da realização de exame criminológico, ao argumento que o a gravidade abstrata do delito e a duração da pena, fundamentos utilizados pelo Tribunal estadual,não seriam idôneos para tal finalidade.
+Na hipótese, a Corte de origem, ao determinar a elaboração do exame criminológico, ressaltou:"diante da gravidade do crime perpetrado pelo sentenciado, não encontro motivos para justificar uma progressão ao regime semiaberto simplesmente amparado no bom comportamento do sentenciado baseado no "Boletim Informativo", visto que demonstra ser indivíduo perigoso para a sociedade" (fl. 76, grifei)). Acrescentou que " a condição do sentenciado de ostentar uma longa pena com TCP para 05/04/2026 não pode ser desconsiderada .. , comprovando, assim, que não sucumbirá ao crime" (fls. 76-77, destaquei).
+A preocupação em torno da readaptação do indivíduo censurado circunda, antes mesmo da execução penal, a própria dosimetria da reprimenda imposta, a qual se considera necessária à satisfação de uma concepção preventiva da pena. "Para as teorias relativas a pena se justifica, não para retribuir o fato delitivo cometido, mas, sim, para prevenir a sua prática.  ..  a pena deixa de ser concebida como um fim em si mesmo,  ..  e passa a ser concebida como meio para o alcance de fins futuros e a estar justificada pela sua necessidade:a prevenção de delitos"(BITTENCOURT, Cezar Roberto. Tratado de direito penal: parte geral. 17. ed. rev., ampl. e atual. São Paulo: Saraiva, 2012, p. 141).
+A esse respeito, destaco que a gravidade em abstrato dos delitos pelos quais foi condenado o paciente, bem como a longa pena a cumprir, sem maiores detalhamentos, não justificam a negativa da benesse ou a produção de prova pericial, uma vez que não refletem a avaliação do efetivo cumprimento da pena pelo condenado.
+Confira-se:
+ ..
+3. A gravidade dos delitos pelos quais o paciente foi condenado (roubo), bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal. Precedentes.
+ ..
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Juízo das Execuções novamente analise o pedido de livramento condicional, afastada a fundamentação anteriormente adotada.
+(HC n. 508.784/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 22/8/2019, destaquei)
+Portanto, o que se percebe é que foi indeferida a benesse sem a devida fundamentação, a impor ao paciente patente constrangimento ilegal, dado o preenchimento dos requisitos legais.
+Por fim, ante a crise mundial do coronavírus e, especialmente, a iminente gravidade do quadro nacional, intervenções e atitudes mais ousadas são demandadas das autoridades, inclusive do Poder Judiciário, o que encontra respaldo na Recomendação n. 62 de 17 de março de 2020 do Conselho Nacional de Justiça, mormente diante de paciente que preenche todos os requisitos para obtenção do benefício pleiteado.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo, in limine, a ordem postulada paradeterminara imediata inserção do paciente no regime semiaberto.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
