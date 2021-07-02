@@ -40,6 +40,8 @@ SEÇÃO II
 Das Cláusulas Abusivas
 SEÇÃO III
 Dos Contratos de Adesão
+CAPÍTULO VI-A
+DA PREVENÇÃO E DO TRATAMENTO DO SUPERENDIVIDAMENTO
 CAPÍTULO VII
 Das Sanções Administrativas
 TÍTULO II
@@ -54,6 +56,8 @@ CAPÍTULO III
 Das Ações de Responsabilidade do Fornecedor de Produtos e Serviços
 CAPÍTULO IV
 Da Coisa Julgada
+CAPÍTULO V
+DA CONCILIAÇÃO NO SUPERENDIVIDAMENTO
 TÍTULO IV
 Do Sistema Nacional de Defesa do Consumidor
 TÍTULO V
