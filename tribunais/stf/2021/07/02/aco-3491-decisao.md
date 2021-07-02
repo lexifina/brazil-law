@@ -1,0 +1,24 @@
+DECISÃO
+AÇÃO CÍVEL ORIGINÁRIA. LEI N. 14.017/2020. AÇÕES EMERGENCIAIS. SETOR CULTURAL. PANDEMIA. MEDIDA PROVISÓRIA N. 1.019/2020. PRORROGAÇÃO DE PRAZO PARA APRESENTAÇÃO DE RELATÓRIO DE GESTÃO FINAL E DE EXECUÇÃO DOS PROJETOS AO MINISTÉRIO DO TURISMO. LEI N. 14.150/2021. PRORROGAÇÃO DO PRAZO. MANIFESTAÇÃO DA PARTE PELO PREJUÍZO. PERDA SUPERVENIENTE DO OBJETO. AÇÃO CÍVEL ORIGINÁRIA EXTINTA SEM RESOLUÇÃO DE MÉRITO.
+Relatório
+    1. Ação cível originária, com requerimento de tutela provisória, ajuizada pelo Maranhão em 6.4.2021, distribuída por prevenção (caput do art. 69 do Regimento Interno do Supremo Tribunal Federal) em razão da Ação Cível Originária n. 3.484, contra a União, objetivando seja prorrogado o prazo para apresentação do Relatório de Gestão Final e o de execução dos projetos ao Ministério do Turismo e o afastamento de quaisquer ônus ou penalidades para o Maranhão ou para os agentes culturais apoiados com recursos da Lei n. 14.017/2020.
+    O autor requereu “tutela provisória de urgência antecipada, inaudita altera pars, para que sejam prorrogados até o final do ano corrente os prazos que lhe foram concedidos para executar (empenhar, liquidar e pagar) os recursos que lhe foram repassados por meio da Lei Aldir Blanc, bem como seja autorizado a apresentar o relatório de gestão final em até 180 (cento e oitenta) dias após o encerramento do exercício de 2021, afastando-se quaisquer ônus ou penalidades para o Estado do Maranhão ou para os agentes culturais apoiados com recursos da Lei nº 14.017/2020
+    b) Subsidiariamente, a concessão, inaudita altera pars, da tutela provisória de urgência antecipada para que o prazo para apresentação do Relatório de Gestão Final ao Ministério de Turismo relativo aos recursos repassados por meio da Lei nº 14.017/2020 seja contado a partir do término do período de liquidação e pagamento dos recursos, isto é, a partir do final do ano de 2021, sem nenhum ônus ou penalidades para o Estado do Maranhão, servidores públicos ou para os agentes culturais apoiados” (fl. 18, e-doc. 1).
+    No mérito, pediu “a integral procedência da ação, convolando-se em definitivas todas as medidas requeridas em sede de tutela antecipada” (fl. 18, e-doc. 1).
+    2. Em 12.4.2021, deferi “a tutela de urgência para prorrogar o prazo até o julgamento de mérito da presente ação, para apresentação do Relatório de Gestão Final de execução dos projetos ao Ministério de Turismo, sem ônus para o Maranhão ou para os agentes culturais” (e-doc. 7).
+    Contra essa decisão a União interpôs agravo regimental (e-doc. 21).
+    3. A União contestou (e-doc. 17).
+    4. Em 30.6.2021, o Maranhão apresentou contrarrazões (e-doc. 25).
+    Sustentou que “a previsão de utilização dos recursos até o final do exercício de 2021 foi expressamente contemplada pela lei 14.150/2021 que fora acrescentado pela derrubada do veto publicada no Diário Oficial da União no dia 11/06/2021.
+    Nesse sentido, não mais remanesce interesse jurídico a justificar o julgamento de mérito da demanda, tendo em vista que todos os requerimentos do Estado do Maranhão foram abarcados por modificações normativas supervenientes” (fl. 4, e-doc. 25).
+    Assevera “a necessidade de condenação do ente federal em honorários advocatícios em observância ao princípio da causalidade, eis que assente nesta Suprema Corte que a perda superveniente de interesse de agir gera ônus à parte que deu causa à instauração do processo” (fl. 4, e-doc. 25).
+    Pede o “não conhecimento do Agravo Regimental, bem como a extinção do feito sem resolução de mérito, nos termos do artigo 485, VI do CPC, tendo em vista o esvaziamento do conteúdo da presente ante Ação Cível Originária ante o atendimento integral dos pedidos constantes na exordial face a inovações normativas posteriores ao ajuizamento da lide, bem como seja a União condenada em honorários advocatícios” (fl. 5, e-doc. 25).
+    5. O autor atribuiu à causa o valor de R$ 10.000,00 (dez mil reais).
+    6. O ônus da sucumbência deve recair sobre aquele que deu causa à propositura da ação, mesmo quando julgada extinta sem análise de mérito.
+    No § 10 do art. 85 do Código de Processo Civil se estabelece que, “Nos casos de perda do objeto, os honorários serão devidos por quem deu causa ao processo”.
+    7. Pelo exposto, alteradas as condições jurídico-processuais na espécie, julgo extinta a ação, sem solução de mérito, pela perda superveniente do objeto (inc. VI do art. 485 do Código de Processo Civil e inc. IX do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicado o agravo regimental (e-doc. 21).
+    Condeno a União em honorários advocatícios, que fixo em 10% (dez por cento) do valor atualizado da causa (§§ 3º, 6º e 10 do art. 85 do Código de Processo Civil).
+    Publique-se.
+    Brasília, 2 de julho de 2021.
+Ministra CÁRMEN LÚCIA
+Relatora
