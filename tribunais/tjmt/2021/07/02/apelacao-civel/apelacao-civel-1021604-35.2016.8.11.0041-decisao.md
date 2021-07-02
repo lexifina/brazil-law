@@ -1,0 +1,29 @@
+RECURSO DE APELAÇÃO CÍVEL – AUTOS No 1021604-35.2016.11.0041 – COMARCA DE CUIABÁ/MT
+Apelante: Estado de Mato Grosso
+Apelada: Ambev S.A.
+Visto.
+Trata-se de recurso de apelação interposto pelo Estado de Mato Grosso contra a sentença proferida pelo Juízo da Vara Especializada de Execução Fiscal da Comarca da Capital/MT, que, nos autos de ação anulatória de débito fiscal movida por Companhia de Bebidas das Américas - Ambev S.A., julgou extinto o feito, tendo em vista a quitação da dívida em sede de acordo de parcelamento firmado na forma do Programa Regularize, celebrado nos termos da Lei Estadual n. 10.579/2017 e regulamentado pelo Decreto n. 1285/2017, com a condenação em honorários advocatícios em R$ 800,00 (oitocentos reais).
+Em suas razões, o apelante sustenta que o arbitramento dos honorários advocatícios fixados está em dissonância com o que preceitua o art. 85, § 3o, inciso III, do CPC, afirmando que referida verba deve ser fixada entre 8% a 10% do valor do proveito econômico.
+Afirma que a fixação de honorários advocatícios de forma equitativa apenas deve vigorar quando o valor do proveito econômico for inestimável ou irrisório, o que não é o caso, cujo valor da causa superava a importância de R$ 4.000.000,00 (quatro milhões de reais).
+Em outro viés, pretende, com fundamento no princípio da razoabilidade e proporcionalidade a majoração da verba honorária tendo-se em vista o valor da causa e o longo tempo de batalha judicial até o momento da desistência.
+Com essas considerações, pugna pelo provimento do apelo, para que sejam majorados os honorários sucumbenciais pelo juízo singular entre 5% a 8% do valor da causa (proveito econômico), ou, subsidiariamente, majorados para um valor compatível com o interesse econômico posto em jogo e longo tempo de batalha judicial.
+Em contrarrazões, o apelado pugnou pelo desprovimento do apelo e subsidiariamente, que os honorários advocatícios fossem (id. 91008495).
+Desnecessária a intervenção da Procuradoria-Geral de Justiça.
+É o relatório.
+Decido.
+Inicialmente, pontue-se que, de acordo com o artigo 932 do Código de Processo Civil, o relator poderá julgar monocraticamente, desprovendo ou provendo um recurso, a fim de conferir maior coesão e celeridade ao sistema de julgamento monocrático, com base em precedentes dos tribunais, sumulados ou derivados de enunciados de julgamentos de casos repetitivos, jurisprudência pacificada ou dominante acerca do tema.
+A hipótese vertente se enquadra justamente na possibilidade preconizada no preceptivo legal encimado, dado o entendimento deste Sodalício em casos com certa semelhança ao objeto recorrido, razão pela qual dispensável é o julgamento Colegiado do recurso.
+A controvérsia se restringe em saber se é devida ou não a majoração dos honorários advocatícios fixados em favor da Fazenda Pública ante à extinção do feito, em razão da quitação da dívida em sede de acordo de parcelamento firmado na forma do Programa Regularize, celebrado nos termos da Lei Estadual n. 10.579/2017 e regulamentado pelo Decreto n. 1285/2017.
+No acordo administrativo (id. 91008479, p. 7-8), não há comprovação de que foi incluído no parcelamento firmado entre os demandantes a importância de 10% do valor débito a título de honorários, cobrado na via administrativa, por meio de FUNJUS – Fundo de Aperfeiçoamento dos Serviços Jurídicos da Procuradoria-Geral do Estado.
+Nessa medida, inexistindo prova em contrário, cabível a condenação do contribuinte ao pagamento de honorários sucumbenciais, ainda que a renúncia dos direitos pleiteados na ação anulatória se der para viabilizar a adesão ao programa de parcelamento de crédito, dada a ausência de inclusão de cobrança de FUNJUS.
+De fato, uma vez que a ação anulatória de débito se trata de uma ação autônoma, a questão relativa à distribuição dos ônus sucumbenciais será resolvida pelas normas da legislação processual e pelo princípio da causalidade, ainda que nela esteja sendo discutida a exigibilidade de débito tributário objeto de parcelamento, porquanto os honorários incluídos neste referem-se apenas à ação de execução fiscal.
+No caso, somente após a citação e apresentação de contestação pelo apelante, que a apelada aderiu ao programa de parcelamento, reconhecendo, no âmbito administrativo, a obrigação de quitação do débito cobrado. Portanto, o pedido formulado nos autos, de extinção do processo, deve ser entendido como desistência da ação, devendo a requerente arcar com o pagamento dos ônus sucumbenciais, nos termos do art. 90, do CPC/2015:
+“Art. 90. Proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu.”
+Ao ajuizar a presente demanda a apelada movimentou a máquina judiciária, bem como motivou o trabalho do Procurador do Estado com o objetivo de combater os argumentos expostos, e tendo desistido da demanda pela realização de parcelamento administrativo, tem a obrigação de responder pelas custas processuais e honorários advocatícios sucumbenciais, conforme estabelecido na sentença.
+Não obstante, diante da extinção prematura do processo pelo pagamento da dívida, a fixação dos honorários no valor de R$ 800,00 (oitocentos reais) não se justifica, pelo que a verba deve ser majorada para 8% do valor atualizado da causa, nos moldes do que disciplina o art. 85, § 3o, inciso II, do CPC, a fim de que se torne mais condizente com a realidade fática delineada nos autos.
+Ante o exposto, com fulcro no artigo 932 do CPC, dou provimento ao recurso, para reformar, em parte, a sentença, a fim de majorar os honorários advocatícios então fixados, arbitrando-os em 8% (oito por cento) do valor da causa.
+Transcorrido in albis o prazo recursal, certifique-se o trânsito em julgado e, em seguida, baixem os autos à comarca de origem, com as cautelas de praxe.
+Às providências.
+Cuiabá-MT, 30 de junho de 2021.
+Alexandre Elias Filho
+Relator Convocado
