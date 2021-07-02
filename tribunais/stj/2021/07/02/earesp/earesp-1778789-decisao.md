@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL interpostos por SILVIO ROBERTO SEIXAS REGO com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em razão da divergência com os seguintes julgados:
+a) HC n. 51.465/SP, proferido pela Sexta Turma, no sentido de que "Não é mal injusto a ameaça de ingressarem advogados com ações judiciais ou de cumprirem eles ordem judicial após vigente, mas exercício de direito que, mesmo abusivo, não configura o crime de extorsão" (fl. 1.908);
+b) REsp n. 24.544/SP, proferido pela Quinta Turma, ao entendimento de que a conduta do advogado que faz advertência a testemunha no sentido de retratar-se para que não seja processada por falso testemunho não caracteriza o crime de coação no curso do processo;
+c) RHC n. 88.177/RJ, proferido pela Sexta Turma, concluindo que para a ocorrência do crime de coação no curso do processo "Não basta à consumação desse delito a grave ameaça, é preciso mais, que o comportamento da vítima, eventualmente amedrontada, resulte em algum benefício para o agente no processo judicial" (fl. 1.914);
+d) RHC n. 16.993/PR, proferido pela Sexta Turma, no sentido de que "o crime de usurpação de função pública só se efetiva se o agente atua com dolo e para obter benefício próprio. Se o benefício é exclusivo da Administração, não ocorre o delito" (fl. 1.915); e
+e) AgInt no REsp n. 1.494.266/RO, proferido pela Terceira Turma e AgInt na Rcl n. 38.994/SP, acerca da não incidência da Súmula 7/STJ quando se tratar da revaloração jurídica dos fatos reconhecidos pelas instâncias ordinárias.
+A título de reforço argumentativo a parte embargante também aponta outros julgados desta Corte Superior.
+Requer, desse modo, o provimento dos embargos de divergência.
+Verificou-se que o recurso de embargos de divergência não foi instruído com a guia de custas e o respectivo comprovante de pagamento, razão pela qual concedi, às fls. 2.015/2.016, prazo para regularizar o vício apontado, retornando os autos conclusos com a petição de fls. 2.018/2.022.
+É, no essencial, o relatório. Decido.
+Inicialmente, tendo em vista a juntada correta do comprovante de recolhimento das custas processuais, prossigo na análise dos demais pressupostos e constato que os embargos não reúnem condições de serem processados.
+Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula 7/STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido apreciado o mérito do recurso especial, atraindo, por analogia, o teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+No mesmo sentido é a jurisprudência consolidada neste Superior Tribunal de Justiça:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO APRECIAÇÃO DO MÉRITO DO APELO ESPECIAL. INTELIGÊNCIA DO ENUNCIADO 315 DA SÚMULA DESTA CORTE. MULTA POR LITIGÂNCIA DE MÁ-FÉ. INAPLICABILIDADE. RECURSO NÃO PROVIDO.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ.
+2. Não se verifica, no caso, abuso no direito de recorrer a autorizar a imposição de multa por litigância de má-fé.
+3. Agravo interno não provido.
+(AgInt nos EDcl nos EDv nos EREsp 1615774/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020.)
+Mencionem-se, ainda, dentre inúmeros outros, os seguintes julgados desta Corte: EDcl no AgInt nos EAREsp 1.315.422/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 12/11/2020; AgInt nos EREsp 1.768.953/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 10/9/2020; AgInt nos EAREsp 682.226/PR, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 8/5/2020.
+Quanto aos paradigmas HC n. 51.465/SP, RHC n. 88.177/RJ e RHC n. 16.993/PR, cabe ressaltar que o Superior Tribunal de Justiça firmou entendimento no sentido de que, em sede de embargos de divergência, não se admite como paradigma acórdão proferido em ações que possuem natureza de garantia constitucional como habeas corpus, recurso ordinário em habeas corpus, mandado de segurança, recurso ordinário em mandado de segurança, habeas data e mandado de injunção.
+Ressalte-se que mesmo sob a vigência do novo Código de Processo Civil, os arts. 1043, § 1º, do CPC e 266, § 1º, do Regimento Interno do Superior Tribunal de Justiça delimitaram o confronto de teses jurídicas objeto dos embargos de divergência àquelas decorrentes do julgamento de recursos e ações de competência originária. Não podem, pois, servir como paradigma, os julgados relativos a ações constitucionais.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. INDICAÇÃO DE ARESTO PROFERIDO EM SEDE DE HABEAS CORPUS. DESCABIMENTO. ART. 1.043, § 1º, DO CPC. INDICAÇÃO DE NOVOS PRECEDENTES NO REGIMENTAL. IMPOSSIBILIDADE. INOVAÇÃO. PRECLUSÃO CONSUMATIVA.
+1. É pacífico o entendimento desta Corte de que acórdãos paradigmas oriundos de ações que possuem natureza jurídica de garantia constitucional, tais como habeas corpus, recurso ordinário em habeas corpus, mandado de segurança, recurso ordinário em mandado de segurança, habeas data e mandado de injunção, não servem para comprovação da divergência. Interpretação corroborada pelo art. 1.043, § 1º, do Código de Processo Civil. Precedentes.
+2. Não é cabível, por ocasião da interposição do agravo regimental, a indicação de novos precedentes para embasarem as razões dos embargos de divergência, de modo a sanar os vícios existentes por ocasião da interposição do recurso, porquanto já operada a preclusão consumativa. Precedente.
+3. Agravo regimental improvido.
+(AgRg nos EREsp 1844293/AL, Rel. Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 26/08/2020, DJe 01/09/2020)
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
