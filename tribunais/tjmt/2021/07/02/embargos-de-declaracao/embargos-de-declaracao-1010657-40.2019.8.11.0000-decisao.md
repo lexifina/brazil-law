@@ -1,0 +1,31 @@
+ED 1010657-40.2019.8.11.0000
+EMENTA
+EMBARGOS DE DECLARAÇÃO. DECISÃO QUE INDEFERIU PEDIDO DE EFEITO SUSPENSIVO. CONTRADIÇÃO. VÍCIO INEXISTENTE. DECISÃO MANTIDA. EMBARGOS COM PROPÓSITO DE REDISCUTIR A MATÉRIA. EMBARGOS REJEITADOS.
+1. “[...] conforme vários precedentes desta Corte Superior, a contradição que autoriza a oposição de aclaratórios é aquela interna ao julgado, existente entre fundamentação e a conclusão, ocasionando uma incoerência entre elas. Na hipótese em exame, não se observa ter havido qualquer incongruência entre os fundamentos adotados e o dispositivo da decisão colegiada.[...]” (EDcl no RMS 31.121/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/12/2015, DJe 02/02/2016)
+2. “Os embargos de declaração não se coadunam com o propósito de rejulgamento da matéria posta nos autos, na medida em que sua finalidade se restringe à complementação da decisão, quando omissa a respeito de ponto fundamental, à eliminação de contradição verificada entre os próprios termos do decisum, ou de obscuridade nas razões desenvolvidas pelo juízo, ou ainda, quando houver no julgado erro material. Excepcionalmente, poderão ter efeitos infringentes quando a modificação do julgado decorrer de alguma das irregularidades elencadas pela legislação de regência” (STJ, EDcl nos EDcl no AgRg no REsp 1320114/MT, 4a Turma, Rel. Min. Marco Buzzi, julgamento em 03/05/2016, DJe de 12/05/2016).
+3. Se não há, no acórdão, omissão, contradição, obscuridade ou erro material, mas o mero inconformismo do embargante com o julgamento que lhe foi desfavorável, não há outro caminho senão o desprovimento dos embargos de declaração. Não existindo qualquer das hipóteses previstas no artigo 1.022 do Código de Processo Civil, os embargos devem ser rejeitados.
+4. Embargos rejeitados.
+Vistos,
+Recurso de Embargos de Declaração (Id. 89434952) opostos por Claudio Schecheli contra decisão que indeferiu o pedido de efeito suspensivo nos Embargos de Declaração no 1010657-40.2019.8.11.0000 opostos em face do acórdão que rejeitou os embargos de declaração anteriormente opostos e revogou o efeito suspensivo concedido (Id. 85009497).
+A parte Embargante argumenta que há contradição entra a decisão embargada e às provas dos autos.
+Requer o acolhimento destes embargos para o fim de sanar a contradição apontada e conceder efeitos infringentes ao recurso.
+Sem contrarrazões (Id. 91028968).
+DECIDO
+Consoante o §2o art. 1.024 do CPC “quando os embargos de declaração forem opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal, o órgão prolator da decisão embargada decidi-los-á monocraticamente.”, de forma que passo ao julgamento monocrático destes embargos de declaração:
+Pois bem, para o acolhimento do Recurso de Embargos faz-se necessária a demonstração de alguma das hipóteses elencadas no art. 1.022 do CPC, quais sejam: obscuridade, contradição, omissão ou erro material.
+Como sabido, o recurso de Embargos serve ao esclarecimento/aclaramento de questões postas na decisão, não se prestando à reanálise ou rediscussão da matéria já decidida, de forma que o mero inconformismo da parte não tem o condão de gerar a reconsideração da decisão eis que: “Não são cabíveis os embargos de declaração cujo objetivo é ver reexaminada a controvérsia”. (EDcl no REsp 1435687/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/06/2015, DJe 30/06/2015)
+Da simples leitura das ponderações do recurso, já se afigura nítido o intuito do embargante de ver reexaminada a controvérsia. Assim sendo, “revelam-se incabíveis os embargos de declaração, quando inexistentes os vícios que caracterizam os pressupostos legais de embargabilidade (CPC, art. 535) tal recurso, com desvio de sua específica função jurídico-processual, vem a ser utilizado com a finalidade de instaurar, indevidamente, uma nova discussão sobre a controvérsia jurídica já apreciada pelo Tribunal” (STF, AI 466.622 AgR-ED-ED-ED-ED/SP, Segunda Turma, Rel. Min. Celso de Mello, DJe 28/11/2012).
+A parte Embargante argumenta que há contradição entra a decisão embargada e às provas dos autos.
+Malgrado os argumentos deduzidos não há como reconhecer a contradição aventada.
+Ocorre que, a contradição que autoriza os Embargos de Declaração é a chamada contradição interna, aquela existente na própria decisão, verificada entre a fundamentação e a conclusão/dispositivo, que não é caso o acórdão embargado e não aquela existente entre o acórdão e dispositivo de lei. Confira-se o entendimento do Superior Tribunal de Justiça:
+“EMBARGOS DE DECLARAÇÃO. RECURSO EM MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO DISCIPLINAR. MAGISTRADO. LEI ORGÂNICA DA MAGISTRATURA NACIONAL - LOMAN. PENA DE DISPONIBILIDADE COM VENCIMENTOS PROPORCIONAIS. PRETENSÃO DE EXAME DO MÉRITO DA DECISÃO IMPUGNADA. AUSÊNCIA DOS VÍCIOS ELENCADOS NO ARTIGO 535 E INCISOS DO CPC.
+(...)
+5. Ademais, conforme vários precedentes desta Corte Superior, a contradição que autoriza a oposição de aclaratórios é aquela interna ao julgado, existente entre fundamentação e a conclusão, ocasionando uma incoerência entre elas. Na hipótese em exame, não se observa ter havido qualquer incongruência entre os fundamentos adotados e o dispositivo da decisão colegiada.
+6. Embargos de declaração rejeitados.” (EDcl no RMS 31.121/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/12/2015, DJe 02/02/2016) (Destaquei)
+Vale ressaltar que a contradição que vicia o julgamento do ponto de vista formal é aquela interna, ou seja, entre as proposições do julgamento ou entre suas proposições e a respectiva conclusão, comprometendo a idoneidade do ato decisório em si mesmo, com abstração da conclusão a que haja chegado. Não, obviamente, a “contradição” como contrariedade à dispositivo de lei, jurisprudência ou ao que a parte esperava ver julgado, aspecto natural e inerente a toda e qualquer decisão que venha a desfavorecer um dos litigantes.
+Desta feita, não há falar, no caso, na presença de qualquer das hipóteses previstas no artigo 1.022, do Código de Processo Civil, e nem de erro material o acórdão, o que mostra a total impertinência do recurso aviado, razão pela qual, os embargos, mesmo quando para efeito de prequestionamento, devem ser rejeitados.
+Com essas considerações, REJEITO este Recurso de Embargos de Declaração.
+Intime-se.
+Cumpra-se.
+Des. Sebastião Barbosa Farias
+Relator
