@@ -1,0 +1,30 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+     APELAÇÃO CÍVEL. PREVIDENCIÁRIO. PENSÃO POR MORTE. BENEFICIÁRIA ASCENDENTE DA FALECIDA. PRELIMINAR DE AUSÊNCIA DE REGULARIDADE FORMAL. REJEITADA. RECONHECIMENTO DE DEPENDÊNCIA ECONÔMICA DOS PAIS. POST MORTEM. DESNECESSIDADE DE PRÉVIA INSCRIÇÃO DE DEPENDENTE. INCIDÊNCIA DE JUROS DE MORA. A PARTIR DE CITAÇÃO VÁLIDA. SÚMULA N.° 204/STJ. RECURSOS CONHECIDOS E, NO MÉRITO, RECURSO DO ESTADO DO AMAZONAS PARCIALMENTE PROVIDO. RECURSO DA AMAZONPREV NÃO PROVIDO.
+    - Embora reconheça a reiteração dos argumentos sustentados no Juízo de Piso, entendo que eles, por si só, combatem também a r. Sentença que ora se recorre. Isso porque ela mostrouse totalmente procedente aos pleitos iniciais, de forma que, ao meu ver, consequentemente o arrazoado seria idêntico em uma nova tentativa de não provimento da ação em sede de instância recursal, o que ocorreu no caso. Recurso do Estado do Amazonas conhecido, em dissonância com o Parecer Ministerial.
+    - Restando comprovado os requisitos legais, entendo, salvo melhor juízo, ser plenamente possível o reconhecimento posterior da condição de dependente dos genitores, não sendo a inexistência de prévia inscrição, como alegado pelos Apelantes, impedimento para tal reconhecimento, tendo em vista que seria um tratamento desigual entre dependentes obrigatórios e facultativos.
+    - A obrigatoriedade de inscrição prévia de dependente econômico, especificamente os pais, também já foi enfrentada pela Quinta Turma do Superior Tribunal de Justiça, que concluiu que tal disposição tem o condão de facilitar o trâmite burocrático previdenciário, mas jamais poderia ser óbice à concessão de pensão a beneficiário com previsão legal, se presente a condição de dependência econômica.
+    - É entendimento pacificado na Jurisprudência Nacional, sendo, inclusive, sumulado pelo colendo Tribunal da Cidadania, que nos casos de ações relativas a benefícios previdenciários, a incidência dos juros de mora se dá a partir da citação, nos exatos termos da Súmula n.° 204 do STJ - Recursos conhecidos e, no mérito, Recurso da Amazonprev não provido e Recurso do Estado do Amazonas parcialmente provido, em dissonância com o Parecer Ministerial (p. 252/261).
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 2°, caput; 5°, caput; 37, caput; e 195, § 5°, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    (...)
+    Trata-se de Ação Ordinária com Pedido de Antecipação de Tutela proposta por Suely Lemos de Souza, sendo a Apelada genitora da assistente social da SUSAM, July Simonr Lemos de Souza, falecida no ano de 2010, ex-segurado da Amazonprev e que não possuía qualquer dependente cadastrado nos quadros do Órgão Previdenciário, motivo pelo qual a Apelada requereu sua inscrição como dependente da mesma.
+    Ab initio, o benefício da pensão por morte está regulado pela Lei Complementar n.° 30/2001, a qual dispõe sobre o Regime Próprio de Previdência do Estado do Amazonas. O art. 2.° da referida lei dispõe acerca dos beneficiários e o art. 4.° prevê a hipótese de inscrição dos dependentes facultativos:
+    (...)
+    Com efeito, restando comprovado os requisitos legais, entendo, salvo melhor juízo, ser plenamente possível o reconhecimento posterior da condição de dependente dos genitores, não sendo a inexistência de prévia inscrição, como alegado pelos Apelantes, impedimento para tal reconhecimento, tendo em vista que seria um tratamento desigual entre dependentes obrigatórios e facultativos.
+    (...)
+    É, portanto, a situação dos autos, de onde se verifica que a falecida tinha responsabilidades econômicas perante sua mãe, a quem ajudava financeiramente, sendo, ainda, solteira e sem notícia de que tivesse constituído prole ou outros beneficiários, conforme pode-se comprovar através da oitiva de testemunhas (p. 148/150).
+         Desse modo, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+         Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJede 26/3/2018)
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJede 9/10/2020)
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 5 de julho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
