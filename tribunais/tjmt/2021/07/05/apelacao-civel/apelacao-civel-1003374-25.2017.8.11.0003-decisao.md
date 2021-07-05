@@ -1,0 +1,11 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE APELAÇÃO CÍVEL No 1003374-25.2017.8.11.0003
+APELANTE: NILVA RIBEIRO SANTOS.
+APELADA: NEWLLA GABRIELLY APARECIDA RIBEIRO SANTOS.
+Vistos.
+Considerando a necessidade de análise da matéria discutida em audiência, bem como que as mídias juntadas nos Id’s no 84699482, 84699483, 84699484, 84699485, 84699486, 84699487, 84699488, 84699489, 84699490, 84699491, 84699492 e 84699493 estão corrompidas, requisite-se cópias das mídias retro indicadas.
+Às providências.
+Desembargador DIRCEU DOS SANTOS
+RELATOR
