@@ -1,0 +1,26 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional. O acórdão recorrido ficou assim ementado:
+    AÇÃO ANULATÓRIA. Auto de infração e imposição de multa. Municipalidade de São José dos Campos. Penalidade decorrente de ausência de limpeza de terreno. Alegada abusividade na aplicação da multa. Inexistência quanto à primeira autuação que observou a Lei Municipal nº 6.354/2003, alterada pela Lei Municipal nº 7.911/2009. Apelante que não se mostrou inerte no cumprimento da determinação legal. Celebrou contratos para saneamento e limpeza do terreno. Abusividade da segunda autuação, uma vez que não levou em consideração a complexidade do caso concreto. Observância do princípio da razoabilidade. Sentença parcialmente modificada. Recurso conhecido e parcialmente provido.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 37, caput; e 150, IV, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    Verifica-se dos autos que foi decretada falência da apelante (autos nº 0713297-16.1989.8.26.0100), proprietária da área de 1.379.200 m2, situada no Município de São José dos Campos -SP, na Estrada do Imperador, s/n, conhecida como "Pinheirinho", a qual foi ocupada no período de fevereiro de 2004 até janeiro de 2012, por aproximadamente 6.000 pessoas, com mais de 2.000 edificações irregulares, residências e estabelecimentos comerciais, quando finalmente ocorreu o início da reintegração de posse em 22.01.2012, por meio do processo nº 0273059-82.2005.0577.
+    Após vinte dias do início da desocupação a apelante recebeu em 02.02.2012 uma notificação preliminar da apelada, determinando providências para limpeza do imóvel no prazo de 15 dias (fl. 33).
+    Em 06.03.2012 a autoridade reiterou a notificação preliminar e concedeu o prazo de um dia para que a apelante providenciasse a limpeza e higiene do imóvel (fl. 34).
+    Finalmente, em 29.03.2012, a autoridade municipal lavrou o Auto de Infração nº 000.398.383 (Aviso nº 000491) no valor de R$9.171.680,00 (fl. 35), nos termos do art. 14, II, da Lei Municipal nº 6.354/2003, alterado pela Lei Municipal nº 7.911/2009, que prescreve:
+    "Art. 14 - Aos infratores das disposições desta Lei, serão aplicadas as multas abaixo:
+    II - para capina, limpeza ou roçamento de quintais, pátios e terreno urbano a multa será aplicada no valor de R$ 5,66 (cinco reais e sessenta e seis centavos) a cada metro quadrado."
+    Verifica-se que o valor da multa de R$9.171.680,00 (fl. 35) está correto, uma vez que foi calculada com base na lei supramencionada. Não assiste razão a apelante ao alegar a aplicabilidade da Lei nº 6.354/031, pois esta já havia sido revogada pela Lei nº 7.911/2009 quando da lavratura do auto de infração.
+    No mais, não há que se falar em abusividade do referido auto de infração, uma vez que a Municipalidade apenas cumpriu a determinação legal, sendo que ainda deixou transcorrer 56 dias entre a notificação preliminar (02/02/2012) e o auto de infração (29.03.2012) para que a parte, ao menos, pudesse tomar providências iniciais para a limpeza de seu terreno, o que foi feito.
+    Desse modo, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário, DJe de 26/3/2018)
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 9/10/2020)
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 5 de julho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
