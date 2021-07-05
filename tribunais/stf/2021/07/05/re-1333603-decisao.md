@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de recurso extraordinário com base no art. 102, inciso III, da Constituição Federal.
+    O acórdão recorrido ficou assim ementado:
+    "Guarda Municipal – Município de Holambra – Ilegalidade da jornada 12x36 – Ausência de previsão legal – Horas Extras no que superar a 8ª hora diária – Serviço extraordinário deve ser remunerado sobre o salário base e adicional de risco de vida – Verbas habituais - Remuneração pela hora extraordinária superior em, no mínimo, 50% à da hora normal – Inteligência do artigo 7º, inciso XVI, e do artigo 39, §3º, ambos da CF/88 – Recálculo do adicional noturno indevido – Prejudicado o pedido de uso do divisor 180, ante o reconhecimento da ilegalidade da jornada 12x36 – Renúncia do valor excedente a sessenta salários mínimos – Art. 3º da Lei 10.259/01 c.c art. 3º, §3º, da Lei nº 9.099/95 – Recurso provido para reformar a sentença e julgar parcialmente procedente a ação, condenando o Município a fazer incluir na base de cálculo das horas extras o salário base e o adicional de risco de vida, observada a prescrição quinquenal, bem como ao pagamento de horas extras no que exceder a 8ª hora diária, com remuneração acrescida de 50%, tudo com os devidos reflexos, com juros e correção monetária nos termos do Tema nº 810 do STF."
+    No recurso extraordinário sustenta-se violação dos arts. 5º, II; 7º, XIII e XVI; 37, caput e XIV; e 39, caput, § 2º, § 3º, e § 5º, II, da Constituição Federal.
+    Decido.
+         Analisados os autos, verifica-se que o órgão judiciário de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+         Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário, DJe de 26/3/2018)
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 9/10/2020)
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 5 de julho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
