@@ -1,0 +1,21 @@
+DECISÃO
+HABEAS CORPUS – ADEQUAÇÃO.
+HABEAS CORPUS – ATO DE INTEGRANTE DO SUPREMO – INFORMAÇÕES.
+LIMINAR – APRECIAÇÃO – COLEGIADO.
+    1. O assessor Edvaldo Ramos Nobre Filho prestou as seguintes informações:
+    O ministro Alexandre de Moraes, no inquérito nº 4.781/DF, determinou a prisão em flagrante do paciente, deputado federal Daniel Lúcio da Silveira, ocorrida em 16 de fevereiro de 2021, considerados os crimes dos artigos 17 (tentar mudar, com emprego de violência ou grave ameaça, a ordem, o regime vigente ou o Estado de Direito), 18 (tentar impedir, com emprego de violência ou grave ameaça, o livre exercício de qualquer dos Poderes da União ou dos Estados), 22, incisos I e IV (fazer, em público, propaganda de processos violentos ou ilegais para alteração da ordem política ou social e de qualquer dos crimes previstos nesta Lei), 23, incisos I, II e IV (incitar a subversão da ordem política ou social, a animosidade entre as Forças Armadas, destas com as classes sociais ou as instituições civis ou a prática de qualquer dos crimes versados na Lei de Segurança Nacional), e 26 (caluniar ou difamar o Presidente do Supremo Tribunal Federal) da Lei nº 7.170/1983.
+    Na petição nº 9.456/DF, em 14 de março último, substituiu a custódia por cautelares alternativas, consistentes em recolhimento domiciliar com monitoramento eletrônico, proibição de ter contato com investigados nos inquéritos nº 4.781/DF e 4.828/DF, acessar redes sociais – YouTube, Facebook, Instagram e Twitter –, receber visitas e conceder entrevista sem prévia autorização judicial.
+    O Pleno, ao receber a denúncia, referendou a decisão, mantendo as medidas.
+    Em 9 de junho de 2021, o ministro Alexandre de Moraes, atendendo a requerimento da Procuradoria-Geral da República, determinou, em cumulação às cautelares, o recolhimento de fiança. Realçou o descumprimento, principalmente no período de 5 abril a 24 de maio último, de obrigações alusivas ao monitoramento – violação de áreas de inclusão, descarregamento da bateria e rompimento de cinta do dispositivo. Impôs a quantia de R$ 100.000,00, destacando a remuneração percebida – R$ 33.763,00 – pelo cargo ocupado. Reportou-se aos artigos 325 e 326 do Código de Processo Penal. Fixou o prazo de 48 horas para a satisfação.
+    Restabeleceu, em 24 de junho último, a prisão do paciente, ocorrida no mesmo dia, considerado o não recolhimento da fiança.
+    O impetrante aponta constrangimento ilegal decorrente da manutenção custódia, embora recolhida a fiança em 29 de junho último. Diz caber ao Presidente do Supremo a apreciação do articulado, ante período de recesso forense e urgência envolvida, aludindo ao versado no artigo 13, inciso VIII, do Regimento Interno.
+    Requer, no campo precário e efêmero, a expedição de alvará de soltura e, sucessivamente, a observância de cautelares alternativas. No mérito, busca a confirmação da providência.
+    Consulta, em 5 de julho de 2021, ao sítio do Supremo revelou haver o ministro Alexandre de Moraes determinado, à Caixa Econômica Federal, o fechamento, em 25 de junho último, de conta judicial, ante o decurso do prazo para o depósito do valor referente à fiança.
+    2. Mediante o Ofício nº 33/2021-GBMA, de 30 de junho último, esclareci ao Presidente do Supremo, ministro Luiz Fux, que permanecerei no exercício pleno da jurisdição até o dia anterior a 12 de julho de 2021, quando alcançarei a idade-limite para a aposentadoria compulsória. Não surge adequado acionar o artigo 13, inciso VIII, do Regimento Interno.
+    Cumpre reiterar o convencimento sobre a envergadura ímpar da ação constitucional voltada à preservação da liberdade de ir e vir – o habeas corpus. Este não sofre qualquer peia. É admissível ainda que o ato atacado emane de Ministro do Supremo. Incumbe ao Colegiado, no que está acima dos integrantes do Tribunal, analisar, nessa situação, o pedido de implemento de liminar. Fora isso, entender cabível a atuação individual do Relator do habeas corpus é implantar a autofagia.
+    3. Solicitem informações ao Relator do inquérito nº 4.781/DF e da petição nº 9.456/DF, ministro Alexandre de Moraes.
+    4. Colham parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 5 de julho de 2021.
+Ministro MARCO AURÉLIO
+Relator
