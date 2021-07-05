@@ -1,0 +1,19 @@
+Decisão: Trata-se de embargos de declaração (eDOC 26) opostos em face da decisão monocrática em que dei provimento ao recurso, com a consequente reintegração da Recorrente ao cargo do qual foi exonerada, tendo em vista que não há acumulação vedada pela Constituição Federal.
+    Alega-se que a decisão embargada se omitiu quanto ao pedido de pagamento dos salários e vantagens desde a exoneração da embargante, tampouco fixou o pagamento das verbas honorárias de acordo com os critérios estabelecidos no artigo 85, § 11, do CPC. Pretende-se, no ponto, a a majoração, bem como a mudança da base de cálculo dos honorários advocatícios, tendo em vista que o pedido formulado na inicial foi de fixação dos honorários sobre o valor da condenação.
+    A parte embargada, devidamente intimada, não apresentou manifestação (eDOC 29).
+    É o relatório. Decido.
+    De início, registro que, nos termos do art. 1.024, § 2º, do CPC/15, “Quando os embargos de declaração forem opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal, o órgão prolator da decisão embargada decidi-los-á monocraticamente”.
+    Verifico que assiste parcial razão à causídica embargante, no que se refere à necessidade de majoração dos honorários arbitrados na origem.
+    Diante da identificação da fixação de honorários em sentença (eDoc 10, p. 12), nos termos do disposto no art. 85, § 11, do CPC, passo a dispor sobre a majoração da verba honorária.
+    Sem embargo, convém ressaltar que este juízo atua dentro dos limites do art. 85, § 11, do CPC, expresso em vedar a modificação do parâmetro de fixação de honorários adotado na origem, nos seguintes termos:
+    “O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento.”
+    Desse modo, é devida a majoração dos honorários no montante de ¼ sobre a verba já fixada na origem.
+    No que tange ao pedido de pagamento de salários no período de afastamento, observo que o embargante, nas suas razões recursais, de fato requereu a reintegração ao cargo anteriormente ocupado, bem como o recebimento dos salários e vantagens desde a sua exoneração, devidamente corrigidos na forma da lei (eDOC 14, p. 22).
+    Todavia, diante do desprovimento da apelação, essa questão não foi examinada pelo Tribunal de origem. Assim, haja vista que este Tribunal decidiu a causa nos termos em que posta a questão constitucional, reconheço a existência de omissão na decisão embargada, uma vez que há necessidade de manifestação expressa da Corte a quo sobre o pedido de pagamento dos salários durante o período de afastamento, sob pena de supressão de instância.
+    Nesse quadro, acolho parcialmente os embargos de declaração para, suprindo as omissões apontadas, determinar que a parte dispositiva da decisão monocrática embargada fique assim redigida:
+    “Ante o exposto, dou provimento ao recurso, com fundamento no art. 932, V, b, do CPC, para cassar o acórdão recorrido e determinar o retorno dos autos ao Tribunal de origem, a fim de que seja observada a premissa de que que não há, in casu, acumulação vedada pela Constituição Federal, sendo de rigor a reintegração da autora e, também, para que sejam examinadas as demais questões remanescentes. Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo”.
+    Publique-se.
+    Brasília, 05 de julho de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
