@@ -1,0 +1,33 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS PELO PROVIMENTO DO RECURSO. IMPOSSIBILIDADE. AUSÊNCIA DE OMISSÃO OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+Relatório
+    1. Em 16.6.2021, o recurso extraordinário com agravo e o recurso extraordinário interpostos por Tim S/A foram providos nos termos da seguinte ementa:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E ADMINISTRATIVO. INSTALAÇÃO DE ANTENA TRANSMISSORA DE TELEFONIA CELULAR. SERVIÇOS DE TELECOMUNICAÇÕES. COMPETÊNCIA LEGISLATIVA PRIVATIVA DA UNIÃO. JULGADO RECORRIDO DIVERGENTE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL: PRECEDENTES. RECURSO EXTRAORDINÁRIO COM AGRAVO E RECURSO EXTRAORDINÁRIO PROVIDOS” (e-doc. 38).
+    2. Publicada essa decisão no DJe de 18.6.2021, Tim S/A opõe, tempestivamente, embargos de declaração (e-doc. 39).
+    Argumenta que “a r. decisão monocrática ora embargada foi omissa acerca da fixação dos honorários recursais estabelecidos pelo artigo 85, § 11, do Código de Processo Civil, limitando-se em inverter os ônus sucumbenciais” (fl. 2, e-doc. 39).
+    Pede “sejam estes embargos de declaração recebidos e providos para que, sanada a omissão apontada, seja determinada a majoração dos honorários advocatícios recursais, em conformidade com o artigo 85, § 11, do Código de Processo Civil” (fl. 2, e-doc. 39).
+    3. Em contrarrazões, o Município de São Paulo pede “sejam rejeitados os presentes embargos de declaração” (fl. 3, e-doc. 42).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste à embargante quanto à omissão apontada nos embargos de declaração.
+    Consta do dispositivo da decisão embargada:
+    “Pelo exposto, dou provimento ao recurso extraordinário com agravo e ao recurso extraordinário (al. b do inc. V do art. 932 do Código de Processo Civil e § 2º do art. 21 do Regimento Interno do Supremo Tribunal Federal), para, nos termos do pedido formulado, ‘julgar procedentes os pedidos iniciais’ (fl. 25, e-doc. 22), declarar a nulidade dos Autos de Infração ns. 08-270.618-2, 08-270.836-3, 08-270.980-7 e 08-271.436-3 (fl. 34, e-doc. 1), invertidos os ônus de sucumbência” (e-doc. 38).
+    Este Supremo Tribunal assentou que, quando o recurso extraordinário for provido e invertidos os ônus sucumbenciais no julgado embargado, não há majoração dos honorários advocatícios antes fixados. Assim, por exemplo:
+    “EMBARGOS DE DECLARAÇÃO EM DECISÃO MONOCRÁTICA. DIREITO PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO SOB A ÉGIDE DO CPC/2015. PROVIMENTO. INVERSÃO DOS ÔNUS DA SUCUMBÊNCIA. PLEITO DE MAJORAÇÃO DE HONORÁRIOS. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS. (…) Nos termos do art. 85, § 11, do Código Processual em vigor, ‘o tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento’. Na espécie, contudo, o recurso extraordinário – conhecido e provido no julgado embargado – foi interposto pela ora embargante, de forma que não há falar, até o momento, em ‘trabalho adicional realizado em grau recursal’ por parte do advogado que a representa. Com efeito, ao ser provido o apelo extremo, determinei a inversão dos ônus sucumbenciais, medida, por si só, apta à remuneração do trabalho desenvolvido pelo representante da parte vencedora” (RE n. 1.219.133-ED, Relatora a Ministra Rosa Weber, decisão monocrática, DJe 4.9.2019).
+    Tem-se, por exemplo, na decisão do Ministro Gilmar Mendes no julgamento do Recurso Extraordinário com Agravo n. 1.203.417-ED:
+    “De fato, observo que não houve a inversão de honorários, não obstante tenha se dado provimento ao RE.
+    Portanto, é de rigor se acolher os aclaratórios para sanar omissão nesse ponto. (…)
+    Quanto à majoração, somente será devida no caso de eventual interposição de recurso pela parte adversa contra a decisão monocrática do eDOC 40 integrada pela presente decisão.
+    Ante o exposto, acolho os embargos de declaração apenas para determinar a inversão do valor da verba honorária” (DJe 26.3.2020).
+    Confira-se também, por exemplo, a decisão monocrática proferida no Recurso Extraordinário com Agravo n. 1.319.574, DJe 1º.6.2021.
+    5. Diferente do alegado pela embargante, não há omissão, contradição, obscuridade ou erro material na decisão embargada.
+    É pacífico o entendimento de os embargos de declaração não se prestarem para provocar a reforma da decisão embargada, salvo no ponto em que tenha sido omissa, contraditória ou obscura ou para corrigir erro material, nos termos do art. 1.022 do Código de Processo Civil, o que não se tem na espécie.
+    O exame da petição recursal é suficiente para constatar não se pretender provocar o esclarecimento de qualquer ponto obscuro, omisso ou contraditório nem corrigir erro material, mas modificar o julgado para fazer prevalecer a tese da embargante.
+    6. A pretensão da embargante é rediscutir a matéria. Este Supremo Tribunal assentou serem incabíveis os embargos de declaração quando, “a pretexto de esclarecer uma inexistente situação de obscuridade, omissão ou contradição, [a parte] vem a utilizá-los com o objetivo de infringir o julgado e de, assim, viabilizar um indevido reexame da causa” (RTJ n. 191/694-695, Relator o Ministro Celso de Mello).
+    Confiram-se também, por exemplo, os seguintes julgados:
+    “EMENTA: EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. MODULAÇÃO DE EFEITOS. JURISPRUDÊNCIA CONSOLIDADA: IMPOSSIBILIDADE. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS” (RE n. 1.171.699-ED-ED, de minha relatoria, Plenário, DJe 7.6.2021).
+    “EMENTA Embargos de declaração no segundo agravo regimental no recurso extraordinário. Ausência de omissão, contradição, obscuridade ou erro material. 1. A Primeira Turma enfrentou adequadamente todos os pontos colocados em debate, nos limites necessários ao deslinde do feito. Inexiste, portanto, qualquer dos vícios previstos no art. 1.022 do Código de Processo Civil. 2. Embargos de declaração rejeitados” (RE n. 390.960-AgR-segundo-ED, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 20.5.2021).
+    7. Pelo exposto, rejeito os embargos de declaração (§ 5º do art. 1.024 do Código de Processo Civil).
+    Publique-se.
+    Brasília, 5 de julho de 2021.
+Ministra CÁRMEN LÚCIA
+Relatora
