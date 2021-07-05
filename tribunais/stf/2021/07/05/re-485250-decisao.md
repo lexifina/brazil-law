@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. Afasto a suspensão anteriormente determinada.
+    2. Eis a síntese do acórdão recorrido:
+    MANDADO DE SEGURANÇA - TRIBUTÁRIO - TAXA SUPLEMENTAR DE SAÚDE - LEI N° 9.691/2000 - CONSTITUCIONALIDADE.
+    1. Constatado o efetivo exercício do poder de polícia consubstanciado na ação fiscalizatória da ANS, justifica-se a exigência da Taxa de Saúde Suplementar.
+    2. Representando o número de usuários dos planos de saúde o esforço dispensado pelo Poder Público na atividade fiscalizatória, legítima a base de cálculo fixada no artigo 20, I, da Lei 9.961/2000.
+    3.Apenas se reserva à lei complementar a instituição de impostos, e não de taxas (artigo 146, III, a, da CF)
+    4. Somente se reconhece a isenção tributária aos atos caracterizados como cooperados, eis que vinculados à atividade básica da associação cooperativa, sujeitando-se os atos não cooperados à incidência de tributos de qualquer espécie.
+    5. De Acordo com o entendimento do STF, medida provisória é instrumento hábil para a instituição de tributos, sento o termo inicial do prazo de anterioridade a data de sua primitiva edição.
+    6. Apelação improvida.
+    No extraordinário, o recorrente aponta a violação dos artigos 5º, incisos II e XXXV, 93, inciso IX, 145, inciso II e § 2º, 146, inciso III, alínea “a”, 150, incisos I e III, alínea “b”, 154, inciso I, da Constituição Federal. Alega inconstitucionalidade da taxa de saúde suplementar, instituída pelo artigo 20, incisos I e II, da Lei nº 9.961/00. Sustenta nulidade do acórdão recorrido. Afirma ofensa ao princípio da anterioridade. Diz não haver correspondência entre a base de cálculo eleita pelo legislador e o exercício do poder de polícia praticado pela ANS.
+    De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    O acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Ambas as Turmas já se manifestaram quanto à natureza infraconstitucional do debate envolvendo a legitimidade da taxa de saúde suplementar. Confiram-se os seguintes pronunciamentos:
+     AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TAXA DE SAÚDE SUPLEMENTAR. LEI Nº 9.961/2000. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. REEXAME FÁTICO. SÚMULA 279/STF. O acórdão recorrido considerou legítima a Taxa de Saúde Suplementar instituída pela Lei nº 9.961/2000. A jurisprudência do Supremo Tribunal Federal fixou entendimento no sentido de que o deslinde da controvérsia depende previamente do exame de legislação infraconstitucional. Precedentes. Não obstante a ausência de repercussão constitucional imediata, o acolhimento da pretensão importaria o revolvimento de fatos e provas para concluir pela inexistência de fiscalização ou inexistência de aparato administrativo apto a realizar a atividade de polícia em concreto. Agravo regimental a que se nega provimento.
+    (Agravo regimental no recurso extraordinário nº 601.105, relatoria ministro Roberto Barroso, Primeira Turma, acórdão publicado no Diário da Justiça de 17 de junho de 2014).
+    Agravo regimental em recurso extraordinário. 2. Direito Tributário. 3. Taxa de Saúde Suplementar. 4. Matéria infraconstitucional. Precedentes. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.
+    (Segundo agravo regimental no recurso extraordinário nº 551.881, relator o ministro Gilmar Mendes, Segunda Turma, acórdão publicado no Diário da Justiça de 28 de fevereiro de 2019).
+    Relativamente à aludida ofensa ao princípio da anterioridade tributária, o Tribunal de origem decidiu em consonância com a jurisprudência do Supremo, segundo a qual “a medida provisória não apreciada pelo Congresso Nacional podia, até a Emenda Constitucional 32/2001, ser reeditada dentro do seu prazo de eficácia de trinta dias, mantidos os efeitos de lei desde a primeira edição”, a teor do verbete nº 651 da Súmula do Supremo. No caso, tendo a Medida Provisória nº 1.928/1999 sido reeditada nas Medidas de nº 2.003/2000 e 2.012/2000, sendo esta última convertida na Lei nº 9.961/2000, o termo inicial do prazo da anterioridade tributária será a data da publicação da Medida Provisória original.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 5 de julho de 2021.
+ Ministro MARCO AURÉLIO
+Relator
