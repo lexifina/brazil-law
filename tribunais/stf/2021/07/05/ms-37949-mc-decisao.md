@@ -1,0 +1,21 @@
+DECISÃO
+MANDADO DE SEGURANÇA – TRIBUNAL DE CONTAS DA UNIÃO – LIMINAR – INDEFERIMENTO.
+    1. A assessora Isabela Leão Monteiro prestou as seguintes informações:
+    Flávio David Barra insurge-se contra o acórdão nº 121/2021 do Tribunal de Contas da União, por meio do qual desconsiderada a personalidade jurídica de Andrade Gutierrez Engenharia S.A. e determinada a citação para apresentação de defesa ou recolhimento, aos cofres da Eletronuclear S.A., dos valores decorrentes de superfaturamento na execução de obra na Usina Termonuclear Angra 3 – Contrato NCO nº 223/1983, aditivos 23, 24, 26, 27 e 27-A.
+    Afirma a prescrição da pretensão punitiva e de ressarcimento, uma vez transcorridos cinco anos do último ato sob fiscalização. Realça ter sido desligado da sociedade em 2 de setembro de 2015. Evoca a tese adotada no Tema nº 899 da repercussão geral, segundo a qual é prescritível a pretensão de restituição ao erário fundada em decisão de Órgão de Contas. Cita precedentes.
+    Requer, no campo precário e efêmero, a suspensão da tomada de contas especial nº 014.889/2018-8 e de qualquer outro procedimento de fiscalização relacionado aos fatos versados no acórdão nº 121/2021. Busca, no mérito, a confirmação, declarando-se a prescrição e a nulidade da decisão que implicou a citação.
+    Este mandado de segurança foi distribuído a Vossa Excelência por prevenção, considerado o de nº 35.953, formalizado por José Eduardo Brayner Costa Mattos em face do acórdão nº 874/2018, mediante o qual determinada a instauração de tomada de contas especial para análise de supostas irregularidades relacionadas à construção da Unidade 3 da Central Nuclear Almirante Álvaro Alberto – Angra 3. Vossa Excelência, na sessão da Primeira Turma realizada em 27 de outubro de 2020, indeferiu a ordem. O ministro Alexandre de Moraes pediu vista.
+    O Tribunal de Contas da União sustenta ausente interesse de agir, ante pronunciamento limitado a determinar a citação. Diz da impertinência de impetração para, prematuramente, paralisar atividade de controle externo. Frisa a aplicação prospectiva do entendimento no sentido da prescritibilidade da pretensão de ressarcimento, restrito à fase de execução. Evoca decisões das Turmas nos mandados de segurança nº 32.201, relator ministro Luís Roberto Barroso, e 36.067, relator ministro Ricardo Lewandowski, acórdãos publicados em 7 de agosto de 2017 e 29 de outubro de 2019. Realça, em relação à multa imposta, a observância do prazo prescricional previsto no Código Civil. Aponta como termo inicial 19 de agosto de 2015 – dia em que cessado o ilícito. Diz sustado o curso ante a ordem de citação – 27 de janeiro de 2021. Enfatiza que, consideradas as causas interruptivas, não decorreram cinco anos.
+    2. Há interesse de agir, tendo em conta citação para defesa em processo a revelar eventual pretensão prescrita.
+    Ante a organicidade do Direito, deve-se conferir interpretação conjugada aos artigos 1º e 2º, inciso II, da Lei nº 9.873/1999, a estabelecer prazo para o exercício de ação punitiva pela Administração Pública federal:
+    Art. 1º Prescreve em cinco anos a ação punitiva da Administração Pública Federal, direta e indireta, no exercício do poder de polícia, objetivando apurar infração à legislação em vigor, contados da data da prática do ato ou, no caso de infração permanente ou continuada, do dia em que tiver cessado.
+    Art. 2º Interrompe-se a prescrição da ação punitiva:
+    […]
+    II – por qualquer ato inequívoco, que importe apuração do fato;
+    Conforme esclareceu o Órgão de controle, após a prática das irregularidades imputadas ao impetrante no período de 30 de outubro de 2013 a 19 de agosto de 2015, houve fiscalização, sobrevindo, em 2018, dados a indicarem a necessidade de abertura de tomada de contas especial, presentes indícios de irregularidades. Com o ato impugnado, de 27 de janeiro de 2021, foi determinada a citação dos responsáveis. O quadro é revelador de atos inequívocos a importarem a apuração do fato – artigo 2º, inciso II, da Lei nº 9.873/1999.
+    3. Indefiro a liminar.
+    4. Deem ciência à Advocacia-Geral da União. Em seguida, colham parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 5 de julho de 2021.
+Ministro MARCO AURÉLIO
+Relator
