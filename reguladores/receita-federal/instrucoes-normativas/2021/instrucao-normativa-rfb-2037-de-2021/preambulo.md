@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2037, de 1º de julho de 2021
+Altera a Instrução Normativa RFB nº 1.817, de 20 de julho de 2018, que dispõe sobre o Registro Especial de Controle de Papel Imune de que tratam os arts. 1º e 2º da Lei nº 11.945, de 4 de junho de 2009.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto nos arts. 1º e 2º da Lei nº 11.945, de 4 de junho de 2009, resolve:
