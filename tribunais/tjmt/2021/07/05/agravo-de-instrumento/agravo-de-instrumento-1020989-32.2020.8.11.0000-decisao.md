@@ -1,0 +1,45 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe – Processo Judicial eletrônico
+Recurso Especial no Agravo de Instrumento no 1020989-32.2020.811.0000
+Recorrente: JOAQUIM ROBERTO DE ALMEIDA LEITE NETO
+Recorrida: ALTERNATIVA DEFENSIVOS AGRICOLAS LTDA – ME
+Vistos.
+Trata-se de recurso especial (id. 87164964) interposto por JOAQUIM ROBERTO DE ALMEIDA LEITE NETO, com fundamento no art. 105, III, alíneas “a” e “c”, da Constituição Federal, contra acórdão da Primeira Câmara de Direito Privado deste Sodalício, o qual negou provimento ao seu recurso de agravo de instrumento, conforme a seguinte ementa (id. 75422471):
+“AGRAVO DE INSTRUMENTO – AÇÃO DE EXECUÇÃO PARA ENTREGA DE COISA CONVERTIDA EM QUANTIA CERTA – NÃO CARACTERIZADA OFENSA AO CONTRADITÓRIO – DECISÃO MANTIDA – RECURSO DESPROVIDO.
+Argumenta que há risco em decorrência dos atos expropriatórios, ocorre que existe todo um trâmite processual até a consecução efetiva desses atos em si, bem como na oportunidade poderá contestar os valores que alegam não serem o correto apresentado pela agravada.
+Não há ofensa ao contraditório nesse caso, haja vista que a conversão é em decorrência da previsão legal, sendo que no decorrer será oportunizado ao agravante sua defesa. (RAI n° 1020989-32.2020.811.0000, Rel. NILZA MARIA POSSAS DE CARVALHO, PRIMEIRA CÂMARA DE DIREITO PRIVADO, j. em 02/02/2021)”.
+Interpostos embargos de declaração, estes foram rejeitados, conforme acórdão lançado no id. 84417474.
+O recorrente sustenta em suas razões: (i) violação aos arts. 9o; 10 e 809 do CPC, ao argumento de que a conversão do procedimento de execução para entrega de coisa em execução por quantia certa violou os princípios do contraditório e ampla defesa. Sustenta que o feito se trata de execução para entrega de coisa fungível (274.860 kg de feijão-soja, em grãos), mas houve a conversão pra quantia certa ao total de R$ 1.059.163,88 (hum milhão, cinquenta e nove mil, cento e sessenta e três reais e oitenta e oito centavos) e que os dispositivos legais tidos por violados consagram a vedação da decisão surpresa em especial no caso dos autos em que o recorrente não teve a oportunidade se manifestar sobre a pretensão e (ii) divergência jurisprudencial nesse sentido.
+Recurso tempestivo (id. 87240496). Devidamente preparado (id. 87403456). Intimada, a recorrida deixou transcorrer o prazo legal, sem oferecer contrarrazões ao recurso (id. 90906956).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+A hipótese prevista no art. 105, III, letra “a” e “c” da Constituição Federal prescreve a apreciação, pelo STJ, de recurso especial oposto contra acórdão que, em única ou última instância, tenha contrariado lei federal ou negado sua vigência (“a”) e der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal (“c”).
+Entretanto, em que pesem as argumentações da recorrente, o recurso não pode alcançar o normal seguimento.
+Do reexame de matéria fática (Súmula 07 do STJ)
+Nos termos do art. 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não se mostrando possível que se examine matéria fático-probatória, ante o teor da Súmula 07 do STJ:
+“Súmula 07/STJ. A pretensão de simples reexame de prova não enseja recurso especial”.
+O caso dos autos trata de análise quanto ao alegado cerceamento de defesa e decisão surpresa em vista da conversão do procedimento de execução para entrega de coisa em execução por quantia certa.
+O órgão fracionário deste Sodalício ponderou a questão no seguinte sentido:
+“(...) o agravante não pode utilizar da estreita via do agravo de instrumento, como substitutivo das defesas ordinárias previstas na legislação civil, as quais poderão ser realizadas no curso do processo, portanto, não evidenciado de plano o prejuízo.
+Ademais, a título elucidativo, em análise ao histórico instrutório da lide, verifica-se que a ação tramita desde 2004, ou seja, há mais de 15 (quinze) anos, sendo certo que o agravante vem buscado “defeitos processuais” para se furtar do adimplemento.
+Não há ofensa ao contraditório nesse caso, haja vista que a conversão é em decorrência da previsão legal, sendo que no decorrer será oportunizado ao agravante sua defesa”. (grifei).
+Em que pese a recorrente pretender em suas razões a reforma do julgado para que seja reconhecido o cerceamento de defesa, tem-se que o recurso não comporta o juízo positivo de admissibilidade, eis que para rever o entendimento de que no caso inexiste ofensa ao contraditório e que a defesa processual poderá ser exercida no decorrer dos autos e na devida oportunidade, seria imprescindível o reexame de premissas fático-probatórias, o que esbarra no óbice da Súmula 07/STJ.
+A propósito, nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO PARA ENTREGA DE COISA INCERTA. VIOLAÇÃO AOS ARTS. 131,165, 458, II, E 535 DO CPC. NÃO OCORRÊNCIA. CONVERSÃO PARA AÇÃO DE EXECUÇÃO POR QUANTIA CERTA. CRITÉRIOS. SÚMULAS 5 E 7/STJ. . RECURSO NÃO PROVIDO. (...). 2. A análise acerca dos motivos para a conversão para ação de execução por quantia certa demanda o reexame do conjunto fático-probatório. Incidência da Súmula 7/STJ. 3. Ao repisar os fundamentos do recurso especial, a parte agravante não trouxe, nas razões do agravo regimental, argumentos aptos a modificar a decisão agravada, que deve ser mantida por seus próprios e jurídicos fundamentos. 4. Agravo regimental não provido. (AgRg no AREsp 505.141/GO, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, j. em 20/11/2014, DJe 01/12/2014)” (grifei).
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS C/C INEXIGIBILIDADE DE TÍTULO. 1. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 2. MULTA DO ART. 1.021, § 4o, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. 3. AGRAVO INTERNO DESPROVIDO. 1. O Tribunal estadual, ao dirimir a controvérsia, concluiu pela ausência de cerceamento de defesa. Reverter a conclusão do Tribunal local, para acolher a pretensão recursal, quanto à inexistência de cerceamento de defesa, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça. 2. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4o, do NCPC, devendo ser analisado caso a caso. 3. Agravo interno desprovido. (AgInt no AREsp 1792666/SP, Rel. Min. MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, j. em 10/05/2021, DJe 13/05/2021)” (grifei).
+Diante desse quadro, a alegada ofensa aos arts. 9o; 10 e 809 do CPC, ao argumento de que houve prejuízo à defesa do recorrente, não permite o juízo positivo de admissibilidade.
+Registre-se, por fim, que resta prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 07 do STJ. A propósito, o entendimento da Corte Superior é no sentido de que: “a incidência da Súmula 7 do STJ, prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte” (AgInt no REsp 1884179/PR, Rel. Min, NANCY ANDRIGHI, TERCEIRA TURMA, j. em 30/11/2020, DJe 02/12/2020).
+A Corte Superior de Justiça vem reiteradamente decidindo que quando houver negativa de seguimento do recurso especial pela alínea “a”, fica, de igual forma, obstado o seguimento do recurso interposto também pelo fundamento da alínea “c”. Nesse sentido:
+“PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE VENCIMENTOS. MILITAR. CONTRATO DE MÚTUO. INADIMPLEMENTO. CONSIGNAÇÃO EM FOLHA DE PAGAMENTO. SUPOSTA OFENSA AOS ARTS. 489 DO CPC/2015 E 14, § 3o, DA MP 2.215-10/2001. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. HISTÓRICO DA DEMANDA (...) IMPOSSIBILIDADE DE CONHECIMENTO DO RECURSO. (...). 7. Destaque-se que fica prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional. (...). Recurso Especial não conhecido. (REsp 1746018/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, j. em 16/06/2020, DJe 18/09/2020)” (grifei).
+Diante desse quadro, inviável também a admissão do recurso com base na alínea “c” do art. 105, III, da CF.
+Ante o exposto, nego seguimento ao recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
