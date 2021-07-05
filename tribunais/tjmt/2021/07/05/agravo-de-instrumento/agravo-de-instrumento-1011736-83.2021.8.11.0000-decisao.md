@@ -1,0 +1,27 @@
+Vistos, etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por SINVAL GUEDES DOS SANTOS, em face de decisão prolatada pelo Juízo da 1a Vara Cível da Comarca de Várzea Grande/MT, nos autos da Ação de Obrigação de Fazer c/c Reparação por Dano Moral n. 1017241-49.2021.8.11.0002, ajuizada em desfavor de SAFRAPAY CREDENCIADORA LTDA e outro, que indeferiu o pedido de antecipação de tutela de urgência.
+O agravante aduz, em síntese, que a demanda advém de bloqueio indevido de sua conta bancária, “por mera suspeita de ilicitude na origem do numerário depositado, sem prévia comunicação”, sendo ato ilícito de extremo abuso e falha de prestação de serviço, motivando o registro de boletim de ocorrência.
+Sustenta que os “o bloqueio das contas bancárias, sem haver um prévio aviso ou mesmo uma ordem judicial determinando a indisponibilidade dos valores lá constantes, configura medida exagerada, pois coloca em risco a subsistência do Consumidor, dada a sua natureza alimentar, pois é de lá onde retira o seu sustento e de sua família”.
+Consigna que a origem dos valores é legal, ante a comprovada apresentação dos extratos da conta, pois os valores provem das vendas a cartão de crédito, proveniente de uma transação licita e o bloqueio já perdura por 228 dias. Aponta que o banco agravado justificou o bloqueio por transações atípicas.
+Explana que os valores são referentes a pagamento de dívida pretérita recebida nos valores de R$ 5.100,00, R$ 4.900,00 e R$ 5.200,00, totalizando R$ 15.200,00 efetuados via cartão de credito de titularidade de Paulo Otavio Aldaves dos Santos Guedes, que é filho do Agravante, com fatura já quitada.
+Afirma que bloqueio indevido da conta está impedindo que o agravante realize a movimentações, pagamentos de dívidas e obrigações, como aquisição de mercadorias, para que possa se manter no ramo de venda de lanches, já que passamos uma situação de retração na economia.
+Destaca que buscou solucionar a questão por diversas vezes, na companhia de seu filho, junto aos agravados, bem como no PROCON, todas sem sucesso. Relata que mesmo com a conta bloqueada permanece a cobrança de mensalidade, referente à máquina de cartão de crédito adquirida junto aos agravados, sem que possa utilizá-la.
+Com essas considerações, requer a concessão de efeito ativo, para determinar o desbloqueio dos valores de titularidade e propriedade do agravante, sob pena de multa. No mérito, pugna pelo provimento do recurso, para reformar o decisum, confirmando a liminar concedida.
+É o relatório.
+DECIDO
+Para a concessão do efeito pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos arts. 300 e 1.019, I, do Código de Processo Civil de 2015:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão (...)”.
+Pois bem.
+No que se refere a medida vindicada, ao analisar os argumentos apresentados pelo Agravante, não identifico como relevantes os fundamentos, a ensejar a concessão da medida requerida.
+Isso porque dos argumentos vertidos na peça inaugural, em que pese relevantes, tenho que o caso não comporta o efeito pretendido, sendo consistentes os argumentos do Juízo a quo:
+“(...) Neste sentido, cumpre registrar que embora sensível aos argumentos da autora no tocante à antecipação da tutela para determinar o desbloqueio dos valores depositados em sua conta, entendo que tal medida deságua na inexorável barreira da irreversibilidade do art. 300, § 3o, do CPC.
+Ademais, entendo ser prudente aguardar o aperfeiçoamento da relação processual e da instrução do processo, sob pena de uma decisão arbitrária.” (...) (ID. 92932498 - Pág. 3).
+Ressalta-se que em sede na audiência, realizada em 16/02/2021, junto ao PROCON o banco agravado apontou que o bloqueio na conta bancária do agravante é proveniente de “processo de monitoração e investigação de transação realizada na máquina, e por este motivo, o acesso à conta e a agenda financeira permanece retida pelo período de até 180 dias úteis ou até conclusão dos fatos de acordo as regras das bandeiras e acordo da Baseleia, procedimentos de Prevenção à Fraude e Lavagem de Dinheiro.” (ID. 92947450 - Pág. 1).
+Importante pontuar que o bloqueio perdura por mais de 240 dias, de modo que prudente aguardar as informações trazidas pelos agravados, para melhor elucidar a questão.
+Dessa forma, sem prejuízo de uma análise mais acurada após as informações do Juízo a quo e resposta dos agravados, INDEFIRO a almejado efeito ativo, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Comunique-se a decisão ao Juízo “a quo”, facultando-lhe prestar informações.
+Intimem-se os agravados, na forma do art. 1.019, inciso II, do NCPC, para que responda, no prazo de 15 (quinze) dias.
+Des. Sebastião BARBOSA FARIAS
+Relator
