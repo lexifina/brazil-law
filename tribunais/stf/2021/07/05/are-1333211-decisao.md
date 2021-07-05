@@ -1,0 +1,40 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    APELAÇÃO. REEXAME NECESSÁRIO. AÇÃO DE COBRANÇA. PRECATÓRIO SUSPENSO. PRESCRIÇÃO NÃO RECONHECIDA. RESTITUIÇÃO AO ERÁRIO DEVIDA.
+    1. Reexame necessário e apelação interposta em face de sentença que julgou extinta a ação de cobrança, ante o reconhecimento da prescrição da pretensão.
+    2. No caso em análise, o demandado e mais cinco litisconsortes ajuizaram ação de rito ordinário pleiteando o pagamento do reajuste de 11,98%. Transitada em julgado decisão a eles favorável, iniciaram execução relativa à cobrança de juros e correção monetária. A União opôs embargos à execução, tendo o juízo determinado a expedição de precatório em favor dos exequentes, ressalvando, todavia, a possibilidade de eventual bloqueio eletrônico. Após resposta da embargante, foi proferido novo despacho em 18.1.2008 e publicado em 24.1.2008, determinando a suspensão dos precatórios expedidos e a expedição de ofício ao setor de pagamento competente para que fosse informado eventual pagamento administrativo de juros sobre a diferença de 11,98%.
+    3. Apesar da ordem judicial, o valor do precatório foi levantado pelo ora apelado em 28.1.2008, mesmo após ser intimado por meio de publicação acerca da suspensão do precatório. Diante dos fatos narrados, foi instaurado processo administrativo, no qual se concluiu que o interessado já havia recebido administrativamente valores relativos a juros e correção monetária. Deste modo, o então Presidente do Tribunal Regional Federal da 2ª Região determinou a citação do interessado para que devolvesse os valores recebidos no precatório.
+    4. O art. 37, § 5º, da Constituição determina que “a lei estabelecerá os prazos de prescrição para ilícitos praticados por qualquer agente, servidor ou não, que causem prejuízos ao erário, ressalvadas as respectivas ações de ressarcimento”. Todavia, em apreciação do RE 669.069, o Supremo Tribunal Federal firmou a tese de que “é prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil”, fixando-se, para tanto, prazo quinquenal de prescrição, nos moldes do Decreto 20.910/32.
+    5. O caso em apreço versa sobre levantamento indevido de precatório suspenso, mesmo após o servidor ter sido devidamente intimado. Assim, não há que se cogitar da inaplicabilidade da regra do art. 37, § 5º, da Constituição à espécie, uma vez que o débito em cobrança tem por origem conduta fraudulenta, a qual, por evidente, não se enquadra no conceito de ilícito civil delineado pelo STF no RE 669.069.
+    6. No mérito, o STF tem se manifestado reiteradamente no sentido de que a reposição ao erário dos valores percebidos pelos servidores torna-se desnecessária, quando houver, concomitantemente, (i) a presença de boa-fé do servidor; (ii) a ausência, por parte do servidor, de influência ou interferência para a concessão da vantagem impugnada; e (iii) existência de dúvida plausível sobre a interpretação, validade ou incidência da norma infringida, no momento da edição do ato que autorizou o pagamento da vantagem impugnada. Precedente: STF, Tribunal Pleno, MS 25.641, Rel. Min. EROS GRAU, DJe 22.2.2008.
+    7. Não há que se falar em recebimento de boa-fé, pois comprovado que a parte recebeu valores em juízo após o pagamento administrativo e após publicada decisão judicial que suspendia o pagamento de precatório. Nesse sentido: TRF2, 5ª Turma Especializada, AC 00115224020094025101, e-DJF2R 24.7.2017.
+    8. Impõe-se a inversão da condenação em honorários advocatícios que foram fixados em 5% (cinco por cento) do valor da causa.
+    9. Apelação e reexame necessário providos.
+    Opostos os embargos de declaração, foram acolhidos em parte para “suprir a omissão acerca da aplicação dos juros e correção monetária”.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 37, § 5º, da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se a deficiência na fundamentação da repercussão geral. Não basta a simples afirmação genérica de que o tema tem repercussão geral; faz-se necessária a fundamentação adequada que supra as exigências do disposto no artigo 1.035, § 2º, do Código de Processo Civil e no artigo 327, § 1º, do Regimento Interno do STF.
+    In casu, a parte recorrente não demonstrou a existência de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos da causa.
+    O Supremo Tribunal Federal, ao julgar a Questão de Ordem no Agravo de Instrumento 664.567, Rel. Min. Sepúlveda Pertence, DJ de 6/9/2007, fixou o seguinte entendimento:
+    “I. Questão de ordem. Recurso extraordinário, em matéria criminal e a exigência constitucional da repercussão geral.
+    (...)
+    II. Recurso extraordinário: repercussão geral: juízo de admissibilidade: competência.
+    1. Inclui-se no âmbito do juízo de admissibilidade - seja na origem, seja no Supremo Tribunal - verificar se o recorrente, em preliminar do recurso extraordinário, desenvolveu fundamentação especificamente voltada para a demonstração, no caso concreto, da existência de repercussão geral (C.Pr.Civil, art. 543-A, § 2º; RISTF, art. 327).
+    2. Cuida-se de requisito formal, ônus do recorrente, que, se dele não se desincumbir, impede a análise da efetiva existência da repercussão geral, esta sim sujeita ‘à apreciação exclusiva do Supremo Tribunal Federal’ (Art. 543-A, § 2º).
+    III. Recurso extraordinário: exigência de demonstração, na petição do RE, da repercussão geral da questão constitucional: termo inicial.
+    (...)
+    4. Assim sendo, a exigência da demonstração formal e fundamentada, no recurso extraordinário, da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007, data da publicação da Emenda Regimental n. 21, de 30 de abril de 2007.”
+    Insta ressaltar que a intimação do acórdão ora recorrido deu-se, no caso sub examine, em data posterior à fixada no citado julgamento.
+    Demais disso, cabe salientar que a jurisprudência desta Corte firmou-se no sentido de que é exigível a demonstração de repercussão geral, devidamente fundamentada, mesmo na hipótese da existência de repercussão geral presumida. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS. AUSÊNCIA DE PRELIMINAR. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I - Nos termos do art. 327, caput, do Regimento Interno do STF, com a redação dada pela Emenda Regimental 21/2007, os recursos que não apresentem preliminar de repercussão geral serão recusados. Exigência que também se aplica às hipóteses de repercussão geral presumida ou já reconhecida pelo Supremo Tribunal Federal. Precedentes.
+    II - Agravo regimental a que se nega provimento.”(ARE 791.424-AgR, Rel. Min. Ricardo Lewandowski, Plenário, DJe de 18/11/2014).
+    Cite-se, ainda, os seguintes julgados: RE nº 569.476/SC-AgR, Tribunal Pleno, Rel. Min. Ellen Gracie, DJe de 25/4/08; ARE nº 1.163.658/AP-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 14/12/18; ARE nº 1.138.998/PE-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 6/12/18; ARE nº 1.166.618/ES-AgR, Rel. Min. Roberto Barroso, DJe de 7/12/18.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 5 de julho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
