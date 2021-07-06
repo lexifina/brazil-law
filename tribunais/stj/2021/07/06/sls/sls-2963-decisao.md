@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de suspensão de liminar e de sentença proposta pelo MUNICÍPIO DE ANORI (AM) contradecisão do Presidente doTribunal de Justiça do Estado do Amazonas(TJAM), nos autos do Precatório n.0006490-94.2016.8.04.0000,que determinou a penhoraon-line, via SISBAJUD, no valor de R$ 1.682.660,20 (um milhão, seiscentos e oitenta e dois mil, seiscentos e sessenta reais e vinte centavos) na conta do município.
+O município requerenteatravessa petiçãoàs fls. 531-538, a fim de informar que houve decisãonos autos da Suspensão de Liminarn. 1.457, peloMinistro Luiz Fux, Presidente do Supremo Tribunal Federal,deferindo o pleitopara sustar os efeitos do decisum prolatadonos autos do Precatório n.0006490-94.2016.8.04.0000, que determinou o sequestro de valores das contas da Municipalidade.
+É, no essencial, o relatório. Decido.
+Conforme se extrai do site do Supremo Tribunal Federal, em 1/7/2021foi proferida decisão naSuspensão de Liminarn. 1.457/STF, tambémproposta pelo Município de Anori/AM contra decisão do Presidente do TJAM, nos autos do Precatório n. 0006490-94.2016.8.04.0000, cuja ementa transcrevo:
+MEDIDA CAUTELAR DE SUSPENSÃO DE LIMINAR. PRECATÓRIO. INADIMPLEMENTO. DECISÃO DE ORIGEM QUE DETERMINA O SEQUESTRO DE VALORES PÚBLICOS. ALEGAÇÃO DE RISCO À ORDEM E À ECONOMIA PÚBLICAS. FUMUS BONI IURIS. INOCORRÊNCIA DE QUEBRADA ORDEM CRONOLÓGICA. ART. 100, §6º DA CF. PERICULUM IN MORA. PRESSÃO ORÇAMENTÁRIA QUE DECORRE DA PANDEMIA DA COVID-19. CHEIAS HISTÓRIAS DOS RIOS AMAZÔNICOS. MEDIDA CAUTELAR DEFERIDA.
+A superveniente alteração do quadro fático conduz à configuração de típica hipótese de prejudicialidade, por perda superveniente do interesse processual (STF, RMS n. 28.199/DF e STP n. 480).
+Nesse contexto, julgo prejudicada a presente suspensão por superveniente perda de objeto.
+Publique-se. Intimem-se.
