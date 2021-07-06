@@ -1,0 +1,16 @@
+Vistos, etc.
+Compulsando os autos, observa-se que a Apelante, LUIZE DA SILVA CAMPOS, ao recorrer da sentença na presente Ação Declaratória c/c Indenização por Danos Materiais com pedido de Tutela Provisória de Urgência , pugnou pela concessão dos benefícios da justiça gratuita em grau recursal.
+É cediço que a concessão da gratuidade pressupõe que a parte não possa custear as despesas do processo sem prejuízo do sustento próprio ou da família.
+Sabe-se, também, que tal benefício foi instituído pela Lei no 1.060/50, e deve ser concedido a todo cidadão que, ao se socorrer do Poder Judiciário, declarar sua condição de necessitado, nos termos dos arts. 2o e 4o.
+No entanto, a Constituição Federal, em seu artigo 5o, inciso LXXIV preceitua que o Estado prestará assistência judiciária integral e gratuita aos que comprovarem insuficiência de recursos. Ou seja, o texto constitucional é expresso ao prever a necessidade de comprovação da hipossuficiência daqueles que buscam o benefício.
+Nesse sentido, a jurisprudência é pacífica, conforme aresto que trago à colação:
+'AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. COMPROVAÇÃO DA NECESSIDADE. SERVIDORA PÚBLICA. A presunção que deflui da declaração de pobreza prevista no artigo 4o da lei 1060/50 é meramente relativa. Possibilidade da exigência de comprovação da necessidade, nos termos do art. 5o, inciso LXXIV, da Constituição Federal. Análise de contracheque. Patamar de rendimentos que não indica situação de pobreza no sentido jurídico. Decisão mantida. AGRAVO INTERNO PROVIDO. NEGADO SEGUIMENTO AO AGRAVO DE INSTRUMENTO POR MANIFESTA IMPROCEDÊNCIA.' (TJRS, Agravo Interno na. 70040109035, Relator: José Luiz Reis de Azambuja, Data de Julgamento: 09/02/2011, Quarta Câmara Cível, Data de Publicação: 28/02/2011).
+In casu, a apelante pleiteou os benefícios da assistência judiciária gratuita em grau recursal, sem juntar qualquer prova quanto às suas condições econômicas, fundada unicamente na declaração unilateral de hipossuficiência, some-se a isso o fato de que a recorrente é funcionária publica estadual percebendo aproximadamente R$6.000,00, líquidos por mes (ID:86464504); destaco ainda que, quando ensejada a comprovação de sua necessidade do beneficio em primeiro grau, não o fez apenas pagando as custas no prazo concedido naquela oportunidade, e em grau recursal também nada comprovou quanto a sua real necessidade do beneficio.
+Assim, em que pese às alegações contidas no apelo, de que não dispõe de capital para arcar com o pagamento das despesas processuais, a ausência de qualquer indício neste sentido afasta a procedência do pedido.
+Portanto, conclui-se que, se por um lado a lei não exige que o requerente se encontre em situação de miserabilidade, mas sim em momento onde não possa efetuar o pagamento dos emolumentos sem prejuízo do próprio negocio, por outro, a sua alegação de pobreza deve guardar um mínimo de razoabilidade, situação que não se enquadra à hipótese.
+Nesses termos, indefiro o pedido de assistência gratuita.
+Intime-se o apelante para, no prazo de 10 (dez) dias, efetuar o pagamento do preparo recursal, sob pena de não conhecimento do recurso por deserção.
+Após, conclusos.
+Cumpra-se.
+Desembargador SEBASTIÃO DE MORAES FILHO
+Relator
