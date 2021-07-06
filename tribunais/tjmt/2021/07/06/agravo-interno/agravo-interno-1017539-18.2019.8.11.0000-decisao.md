@@ -1,0 +1,32 @@
+Recurso de Agravo Interno no 1017539-18.2019.8.11.0000 interposto no Agravo de Instrumento de mesma numeração – Rondonópolis
+Agravante: Banco Sistema S.A.
+Agravado: Camponesa Agropecuária Ltda. e outros
+VISTOS.
+Trata-se de Agravo Interno interposto pelo Banco Sistema S.A. em face de decisão monocrática da Relatora à época Desa. Antônia Siqueira Gonçalves que indeferiu o efeito suspensivo da tutela antecipada recursal.
+Para melhor compreensão, faço uma breve síntese dos atos processuais.
+O Banco Sistema S.A. interpôs o recurso de agravo de instrumento, contra a decisão proferida pelo Juízo da Primeira Vara Cível da Comarca de Rondonópolis, que, nos autos da Execução de Título Extrajudicial n. 4504-97.1999.811.0003, movida em desfavor da Camponesa Agropecuária Ltda. e Outros, deferiu, parcialmente, os pedidos formulados pelos Executados, para determinar a sua reintegração na posse do imóvel denominado Fazenda Santa Emília, assinalando o dever de efetivação, se for o caso, em regime de plantão, ao fundamento de que a medida seria consequência lógica do efeito suspensivo atribuído pelo Colendo Superior Tribunal de Justiça, ao Recurso Especial n. 1732365/MT, interposto por Marcos Wurzius. Determinou, ainda, o sobrestamento da tramitação da ação executiva de base, bem como daquela em que se pretende a anulação do leilão e da arrematação do imóvel em referência, feitos que se encontram apensados.
+Inconformado, o recorrente sustenta que a decisão agravada representa clara usurpação de competência, praticada pela Juíza de Primeira Instância, uma vez não lhe caberia, mas à Terceira Câmara de Direito Privado, falar sobre a extensão daquele decisum proferido no citado Recurso Excepcional.
+O recorrente alega que a situação em apreço tomou proporções extraprocessuais, haja vista que os seus prepostos e funcionários da empresa de segurança responsável pela fiscalização da área estão sendo alvo de ameaças, inclusive de morte.
+No plantão, o Des. Márcio Vidal, entendeu por prudência, sustar a decisão objeto da irresignação, até a análise da Desa. Antônia Siqueira Gonçalves Rodrigues (id. 24343992)
+A parte agravada apresentou contraminuta (id. 24353960).
+A Desa. Antônia Siqueira Gonçalves decidiu que:
+“No meu entender, cabe a este órgão julgador analisar apenas a aplicação extensiva da decisão do STJ ao agravo de instrumento que diz respeito a ação de nulidade da arrematação que, conforme alegado pelo agravado, poderá refletir no julgamento do mérito daquele recurso, o que será feito, oportunamente, naqueles autos. Nego o efeito suspensivo pleiteado.” (id. 24685450).
+O Banco Sistema S.A. interpôs o recurso de agravo interno, com pedido de reconsideração monocrática, pleiteando a suspensão dos efeitos da decisão agravada até que a extensão da liminar concedida pelo Min. Raul Araújo (id. 24830455).
+Novamente, o Banco Sistema S.A. peticionou requerendo o reconhecimento de que a decisão de primeiro grau parte de premissa inequivocamente falsa, considerando que o próprio Exmo. Min. Raul Araújo, prolator da decisão interpretada, foi claro ao afirmar que “a reintegração de posse foi requerida mas não foi deferida nesta instância extraordinária” (id. 25514966)
+De outra banda, a Camponesa Agropecuária Ltda. apresentou petição impugnando a pretensão do Banco (id. 25644453).
+O Banco Sistema S.A. juntou nos autos a informação de que impetrou o Mandado de Segurança sob no. 1017783-44.2019.8.11.0000 contra ato coator praticado pela Desa. Antônia Siqueira Gonçalves (id. 25636498).
+A Relatora indeferiu o pedido de reconsideração (id. 26064983).
+Houve a juntada da liminar concedida no MS no 1017783-44.2019.8.11.0000, concedendo o efeito suspensivo neste agravo de instrumento (id. 26993463).
+Após apresentação da contraminuta da Camponesa no recurso de agravo interno (id. 28580970), a Relatora determinou a suspensão dos autos até o desfecho do Mandado de Segurança (id. 39281457).
+A Relatora, em razão do Incidente de Assunção de Competência suscitado pelo Banco Sistema no RAI 1004258-92.2019.8.11.0000 proferiu a seguinte decisão no id. 55684450:
+“O objeto do IAC é fixar entendimento vinculante a respeito de relevante questão de direito, com grande repercussão social, qual seja: a natureza jurídica da ação autônoma prevista no art. 903, §4o, do CPC/15. Sob esse prisma, não tenho dúvidas de que a conclusão, caso admitido pelo órgão fracionário, refletirá sobre todos os recursos que se encontram sob a minha relatoria e que decorrem tanto da Ação Autônoma para Anulação de Arrematação c/c Anulação de Hipoteca e Penhora com Pedido de Liminar para Suspensão dos Efeitos da Arrematação e Manutenção/Reintegração de Posse no 1533-41.2019.811.0003 (Cód. 919756), como da Ação de Execução no 4504-97.1999.811.0003 (Código 93052), que tramitam pela 1a Vara Cível da Comarca de Rondonópolis, haja vista que a matéria gravita em torno dos atos que culminaram com a expropriação do bem imóvel de propriedade da empresa Camponesa.
+Por essa razão, ante a relevância da questão de direito que o permeia, entendo prudente suspender o julgamento do presente recurso até a análise da admissibilidade do Incidente de Assunção de Competência suscitado no RAI n. 1004258-92.2019.8.11.0000, devendo os autos aguardar em secretaria até o desfecho.” (negritei)
+Na sequência, o Banco Sistema S.A. requereu que seja imediatamente respondido o ofício remetido pelo Juízo da Comarca de Chapada dos Guimarães, determinando -se o imediato cancelamento da ordem de reintegração enquanto não analisada a admissibilidade do IAC instaurado pelo Banco, além do julgamento imediato do agravo interno (id. 57497951).
+A Camponesa Agropecuária segue defendendo na petição id. 57528990, o indeferimento do pedido do Banco.
+No id. 91127457 a Desa. Antônia Siqueira Gonçalves declarou a suspeição por motivo superveniente e determinou a redistribuição dos autos.
+Pois bem. Em que pese o pedido de julgamento do agravo interno pelo Banco Sistema S.A., verifico que não há fato novo que possa modificar a decisão proferida no id. 55684450, que suspendeu análise do presente recurso.
+Com intuito de evitar maior tumulto processual, diante das incontáveis manifestações que as partes apresentam no processo, mantenho a decisão que sobrestou a tramitação do presente recurso, até que advenha determinação final no incidente de Assunção de Competência suscitado no RAI n. 1004258-92.2019.8.11.0000, devendo permanecer na secretaria.
+P. I.
+Cuiabá, de de 2021.
+CARLOS ALBERTO ALVES DA ROCHA
+Relator
