@@ -1,0 +1,35 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NOS AUTOS DO RECURSO DE APELAÇÃO CRIMINAL No 0012553-72.2020.8.11.0042
+RECORRENTE: VITOR GABRIEL SILVA MORAES
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos.
+Trata-se de recurso especial interposto por VITOR GABRIEL SILVA MORAES, com fundamento no art. 105, III, alínea “a” da Constituição Federal, contra o acórdão da Primeira Câmara Criminal do Tribunal de Justiça do Estado de Mato Grosso que, por unanimidade, negou provimento ao recurso, nos termos da seguinte ementa (Id. 85124456):
+“APELAÇÃO CRIMINAL – TRÁFICO DE ENTORPECENTES E POSSE DE MUNIÇÃO DE ARMA DE USO PERMITIDO – ARTIGO 33, CAPUT, DA LEI N. 11.343/06 C/C ARTIGO 12, DA LEI N. 10.826/03. PRELIMINAR – NULIDADE DECORRENTE DA VIOLAÇÃO DE DOMICÍLIO – REJEIÇÃO – INGRESSO FORÇADO EM DOMICÍLIO DEVIDAMENTE JUSTIFICADO PELAS CIRCUNSTÂNCIAS DO CASO CONCRETO – INOCORRÊNCIA DE NULIDADE. MÉRITO – PEDIDO DE DESCLASSIFICAÇÃO DA CONDUTA DE TRÁFICO PARA A DE USO DE ENTORPECENTES – INADMISSIBILIDADE – TESTEMUNHOS DE AGENTES POLICIAIS SOB O CRIVO DO CONTRADITÓRIO, CIRCUNSTÂNCIAS DA PRISÃO EM FLAGRANTE E VARIEDADE DE ENTORPECENTES APREENDIDOS – TRANSPORTAR E TRAZER CONSIGO DROGAS COM FINALIDADE DE MERCANCIA – CRIME DE AÇÃO MÚLTIPLA – CONDENAÇÃO NO TRÁFICO MANTIDA – RECURSO NÃO PROVIDO.
+Não há nulidade das provas se a Polícia, mediante fundada suspeita acerca do cometimento de delito de natureza permanente, adentra domicílio do suspeito e, embora o art. 5o, inciso XI, da Constituição da República estabeleça que a casa é asilo inviolável, traz, como uma das exceções, o flagrante delito, como no caso do crime de tráfico de drogas que, por ser permanente, o estado de flagrância se protrai no tempo.
+“A condição de usuário não elide a responsabilização do agente pelo tráfico de drogas, pois é comum a figura do traficante-usuário ou usuário-traficante, o qual vende entorpecente para sustentar o próprio vício” (N.U 0003750-59.2018.8.11.0046, CÂMARAS ISOLADAS CRIMINAIS, FRANCISCO ALEXANDRE FERREIRA MENDES NETO, Primeira Câmara Criminal, Julgado em 23/07/2019, Publicado no DJE 23/07/2019)
+Não é necessária a comprovação da mercancia para a consumação do crime de tráfico ilícito de entorpecentes, sendo suficiente que uma das condutas descritas na norma penal incriminadora em epígrafe ocorra para a consumação do fato criminoso. Precedentes do STJ.”
+Nas razões do recurso especial (Id. 91320971), o recorrente sustenta violação aos artigos 157 e 157, § 1o, ambos do Código de Processo Penal, ao argumento de “ilegalidade da busca domiciliar sem mandado judicial ou fundadas razões e consequentemente a mácula de todas as provas colhidas através deste ato ilícito.”
+Assim, o recorrente pugna que seja:"1) Declarada NULA a busca domiciliar realizada na casa do réu, posto que absolutamente desprovida de fundamentos e legalidade; 2) Por consequência, declarada a nulidade de todas as provas colhidas, em respeito ao art. 157, §1o do Código de Processo Penal e à Teoria dos Frutos da Árvore Envenenada; 3) Que seja declarada a consequente absolvição dos réus, por absoluta falta de provas do delito imputado, nos termos do Art. 386, II do CPP.”
+Recurso tempestivo (Id. 91469475).
+Contrarrazões (Id. 92370984).
+É o relatório.
+Passo ao juízo de admissibilidade.
+Do exame dos autos, observa-se que o recurso especial atende aos pressupostos genéricos de admissibilidade, quais sejam: tempestividade, legitimidade e interesse em recorrer.
+Da sistemática de recursos repetitivos
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Pressupostos satisfeitos.
+O órgão fracionário desta Corte, ao negar provimento ao recurso defensivo, consignou que:
+“No caso dos autos, o Policial Militar João Paulo Moura de Arruda, em versão corroborado pelos demais policiais que participaram da diligência declarou que: “na data do fato, nós estávamos em patrulhamento tático pelo bairro São Gonçalo e, ao passar pela casa 22, ele visualizou a equipe policial e correu para o interior da residência, que foi quando a gente fez a abordagem; Que anterior a casa, ele dispensou a droga; Que foi localizado já no quarto, entorpecente, prato, e 30 (trinta) ou 31 (trinta e uma) munições de .40; (...) Que foi encontrado dinheiro também; (...) Que era uma porção de cocaína e uma de pasta base, se eu não me recordo; (...) Que não me recordo se tinha maconha; (...) Que uma ele dispensou e o restante da droga estava dentro do quarto dele”.
+No contexto fático delineado pelos agentes policiais, a fundada suspeita para ingresso no domicílio consistiu na tentativa do réu em se desfazer da porção de cocaína, que estava em sua posse, no momento em que fugia para o interior da residência, onde outras porções de entorpecentes, além de munições e apetrechos utilizados na preparação das drogas foram posteriormente encontrados.
+Portanto, conclui-se que o ingresso forçado em domicílio se dera mediante fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, em especial o fato de o acusado ao avistar os policiais, tentar empreender fuga, tentando se desfazer de uma porção de cocaína.
+Em caso análogo ao dos autos, no HC n. 629.141/SP, julgado em 16/03/2021, o eminente Relator, Min. Joel Ilan Paciornik, julgou inexistente a nulidade das provas obtidas por meio de buscas no interior do domicílio sem mandado judicial, consignando que a suspeita ao perceber a aproximação da polícia dispensou seis porções de entorpecentes e, somente após esta conduta, houve o ingresso no domicílio.” (Id. 87979994).
+Nesse contexto, ao apontar violação aos artigos 157 e 157, § 1o, do Código de Processo Penal, alega o recorrente ausência de qualquer diligência investigativa policial apta a embasar a situação de flagrância e de fundada suspeita legitimante do ato, visto que "não houve qualquer tipo de diligência investigativa anterior que concedesse aos policiais a ciência da suposta prática criminosa, somente a fuga e a dispensa de material", tornando nula tanto a busca domiciliar quanto as provas derivadas do ato, consoante a teoria do fruto da árvore envenenada.
+No caso, observa-se que a matéria acima mencionada, além de ter sido discutida no aresto impugnado, o que impede a incidência das Súmulas 211 do STJ, 282 e 356, do STF, é exclusivamente de direito, porquanto não se pretende reexaminar fatos e provas, (não aplicação da Súmula 7 do STJ), não incidindo, também, no caso concreto, nenhuma outra súmula impeditiva.
+Ante o exposto, preenchidos os requisitos específicos de admissibilidade, admito o recurso especial com fundamento no art. 1.030, V, da Código de Processo Civil.
+Publique-se. Cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
