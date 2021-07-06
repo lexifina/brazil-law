@@ -1,0 +1,26 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    RECURSO INOMINADO. SERVIDOR PÚBLICO DO MUNICÍPIO DE PARANAGUÁ. HORAS EXTRAS. LEIS MUNICIPAIS Nº 48/2006 E Nº 46/2006. CARGA HORÁRIA LEGAL DE TRABALHO DE 40 HORAS SEMANAIS. APLICAÇÃO DO DIVISOR 200. SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. Recurso conhecido e desprovido.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, II; 7º, XIII e XIV; e 37, caput, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    No mérito, em análise aos elementos contidos nos autos, entendo que não mereça prosperar a alegação do recorrente. Registre-se que a autora tomou posse no cargo de auxiliar de serviços gerais em regime de 40 horas semanais.
+    Sobre o estabelecimento da carga horária, o Regime Jurídico Estatutário dos Servidores do Município de Paranaguá previsto pela Lei nº 46/2006, dispõe: Art. 224. O quadro de cargos públicos de provimento efetivo da Prefeitura Municipal de Paranaguá, regido por este Estatuto, passa a ser o abaixo descrito, readequando-se nas quantidades, carga horária, denominações: Cargo |Carga Horária semanal AUXILIAR DE SERVIÇOS GERAIS | 40h|
+    Ademais, as fichas funcionais acostadas pela recorrida (mov. 1.6) também comprovam correspondência da carga laboral de 40 horas semanais. Quanto ao divisor aplicável, tem-se que, conforme concluiu a sentença, sobre o regime de 40 horas semanais de carga horária laboral deve incidir o divisor 200.
+    O Município réu alega que a Lei Municipal Complementar Lei nº 46/2006 é omissa em relação ao divisor utilizado, por isso fere o artigo 37 da Constituição da República. Ao mesmo tempo, faz analogia com o caput do artigo 64, CLT para caracterização do salário-hora e, por consequência, do divisor em questão.
+    Sobre o princípio da legalidade invocado, esse rege os atos da Administração Pública que, junto a demais princípios, instruem, limitam e vinculam as atividades administrativas, ficando esta adstrita em atuar somente conforme a lei.
+    Por essa razão a argumentação do ente público parece incoerente, pois não se mostra possível a viabilidade da interpretação analógica das disposições da Consolidação das Leis do Trabalho e, como resultado, a aplicação do artigo 64 da CLT.
+    Além disso, a Lei Complementar nº 46/2006 no seu artigo 88 estabelece regime distinto para o cálculo da hora extra trabalhada no sábado (acréscimo de 50%) e domingo (acréscimo de 100%). Ora, se de fato o sábado fosse considerado descanso semanal remunerado, é certo que haveria tratamento idêntico para as horas extras trabalhadas em ambos os dias, o que não ocorre.
+    Desta via, incontroverso nos autos que para a jornada de trabalho dos servidores municipais que perfazem 40 horas semanais, tem-se um divisor de seis (dias), incluindo sábado, descontando o repouso semanal remunerado. Obtém-se, assim, o quociente de 6, que multiplicado por trinta dias, apresentada resultado de 200 horas.
+    Dessarte, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 280 desta Corte. Sobre o tema, a propósito:
+    RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL. A apreciação do recurso extraordinário faz-se considerada a Constituição Federal, não cabendo interpretar normas locais visando concluir pelo enquadramento no inciso III do artigo 102 da Lei Maior. (RE 597.603-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 19/02/2020).
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. PRESCRIÇÃO. DECRETO 20.910/1932. LEI DISTRITAL 7.515/1986. LEI LOCAL. SÚMULA 280. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Nos termos da orientação sedimentada na súmula 280 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação infraconstitucional pertinente à matéria em discussão. 2. Agravo Regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC. Mantida a decisão agravada quanto aos honorários advocatícios, eis que já majorados nos limites do art. 85, §§ 2º e 3º, do CPC. (ARE 1.127.544 AgR, Segunda Turma, Rel. Min. Edson Fachin, Segunda Turma, DJe de 27/02/2020)
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 6 de julho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
