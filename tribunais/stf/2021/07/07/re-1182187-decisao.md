@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. Extraio o seguinte trecho do acórdão recorrido:
+    No caso concreto, a lei ordinária, apesar de empregar o termo receita bruta, restringiu a base de incidência da exação; na verdade, ela não extrapolou o conceito de faturamento, conforme definição da Suprema Corte.
+    Eis o teor do referido dispositivo (§ 6º, do art. 22, da Lei nº 8.212/91):
+    "A contribuição empresarial da associação desportiva que mantém equipe de futebol profissional destinada à Seguridade Social, em substituição à prevista nos incisos I e II deste artigo, corresponde a cinco por cento da receita bruta, decorrente dos espetáculos desportivos de que participem em todo território nacional em qualquer modalidade desportiva, inclusive jogos internacionais, e de qualquer forma de patrocínio, licenciamento de uso de marcas e símbolos, publicidade, propaganda e de transmissão de espetáculos desportivos ".
+    No referido dispositivo, ao contrário do que defende a impetrante, o conceito de receita bruta equivale ao de faturamento, por se referir às entradas operacionais, decorrentes da atividade principal da empresa.
+    Também foi refutado pela sentença o argumento da impetrante de que, por se tratar de entidade sem fins lucrativos cuja atividade preponderante é a promoção do esporte em si, não teria faturamento; a exploração econômica constituiria atividade apenas acessória. Transcrevo trecho daquela peça:
+    "Este potencial econômico não pode ser dissociado da atividade do futebol profissional. A associação pode não ter fins lucrativos, mas sua atividade envolve, sim, e inevitavelmente, receita ordinária diretamente vinculada ao esporte ".
+    Não vejo como afastar da receita operacional da impetrante os valores decorrentes de espetáculos desportivos, como patrocínio, licenciamento de uso de marcas e símbolos, publicidade, propaganda e de transmissão.
+    Embargos de declaração foram acolhidos sem efeitos modificativos.
+    No extraordinário, o recorrente aponta violados os artigos 146, inciso III, 154 e 195 da Constituição Federal. Articulando com a ausência de previsão constitucional de incidência de contribuição previdenciária sobre a receita bruta antes da entrada em vigor da Emenda Constitucional nº 20/1998, sustenta inconstitucional a substituição da base de cálculo promovida pela Lei nº 9.528/1997. Conforme argumenta, o móvel legislativo deveria ser lei complementar, aplicando-se a previsão do § 4º do artigo 195 da Carta Magna. Afirma serem distintos os conceitos de receita e faturamento, asseverando descabida a criação de contribuição social sobre a receita por meio de lei ordinária com fundamento na redação originária do inciso I do artigo 195 da Constituição Federal. Diz inviável a adoção da mesma base de cálculo da contribuição para o PIS. Pontua inobservar o princípio da igualdade a interpretação adotada, aludindo à existência de entendimentos jurisprudenciais a seu favor.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce revelar o acórdão impugnado mediante o extraordinário a interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 7 de julho de 2021.
+Ministro MARCO AURÉLIO
+Relator
