@@ -1,0 +1,27 @@
+Vistos, etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por UNIMED CUIABA COOPERATIVA DE TRABALHO MÉDICO, em face de decisão prolatada pelo Juízo da 8a Vara Cível da Comarca da Cuiabá/MT, nos autos da Ação de Obrigação de Fazer no 1022282-74.2021.8.11.0041, ajuizada por E. V. A. T. representada por ALINY DE ALMEIDA ARAUJO LIMA, que concedeu a tutela de urgência e determinou à agravante que autorize o tratamento de saúde da Agravada conforme indicação médica de maneira integral e contínua.
+Alega, em síntese, que Agravada é beneficiaria do plano oferecido pela UNIMED Cuiabá, diagnosticada com Paralisia Cerebral do tipo Tetraplégica e Epilepsia Estrutural, bem como Hemiplegia espastica esquerda e lhe foi indicado pela médica os tratamentos com: fisioterapia motora intensiva pelo conceito neuroevolutivo bobath (4 vezes por semana); fonoterapia pelo conceito neuroevolutivo bobath (4 vezes por semana – 1 hora por sessão); e terapia ocupacional com ênfase em integração sensorial (2 vezes por semana – 1 hora por sessão).
+Sustenta ser descabida a concessão da tutela pleiteada na inicial dos autos de origem, por inexistência de requisitos para tanto, em especial o perigo da demora, bem como pelo risco de irreversibilidade.
+Defende a legalidade da negativa de cobertura, em razão de exclusão expressa no contrato e ainda por não estar o tratamento pelo protocolo Bobath e Terapia Ocupacional incluso no Rol de Procedimentos Obrigatórios elaborado pela ANS, sendo considerado tratamento experimental.
+Afirma que as terapias pelo método Bobath não devem ser privilegiadas em detrimento de outros tratamentos disponibilizados à agravada, ainda mais quando não consta dos autos, nenhuma informação de que tenha sido submetida a tratamentos convencionais que não tenha apresentado efeitos positivos.
+Consigna que a utilização de serviços contratualmente impedidos, por não estarem previstos no Rol de Procedimentos e Eventos em Saúde da ANS, configura a hipótese do enriquecimento ilícito, destacando a necessidade de manutenção do equilíbrio contratual e prejuízos estes que podem acabar por impactar na prestação de serviços a outros clientes e consumidores.
+Com essas considerações, requer seja concedido o efeito suspensivo, para sobrestar os efeitos da decisão agravada. No mérito, pugna pelo provimento do recurso, para revogar a decisão que concedeu a tutela antecipada nos autos de origem.
+É o relatório.
+DECIDO
+Para a concessão do efeito pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos arts. 300 e 1.019, I, do Código de Processo Civil de 2015:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão (...)”.
+Pois bem.
+No que se refere a medida vindicada, ao analisar os argumentos apresentados pela Agravante, não identifico como relevantes os fundamentos, a ensejar a concessão da medida requerida.
+Isso porque dos argumentos vertidos na peça inaugural, tenho que o caso não comporta o efeito suspensivo pretendido, uma vez que os argumentos do Juízo a quo são consistentes:
+“(...) Conforme se depreende do documento juntado no Id 58508532, embora a ré afirme que não está negando o tratamento indicado, a mesma nega a disponibilização de profissionais que apliquem o método indicado, aduzindo que referido método está fora do Rol da Agência Nacional de Saúde. Em que pese a certeza de que os profissionais credenciados pela ré sejam capacitados, de acordo com o Laudo Médico, para um melhor e eficaz resultado, se faz imprescindível que a quantidade de sessões e os métodos recomendados sejam rigorosamente observados, restando demonstrada, portanto, a presença do perigo da demora, uma vez que não sendo realizadas as terapias conforme prescritas poderá a autora sofrer consequências irreversíveis.
+Do mesmo modo, resta evidente a probabilidade do alegado direito, eis que beneficiário do plano de saúde e cumpridor de suas obrigações de pagamento.
+É certo que as operadoras de planos de saúde podem regular as doenças que terão cobertura pelo plano, mas não podem restringir a forma e/ou material a ser utilizado para o tratamento, uma vez que esta esfera é atribuída ao médico responsável pelo paciente.
+Portanto, em respeito ao princípio da dignidade da pessoa humana, que é o bem maior do ser, o deferimento da tutela se impõe. (...). (ID. 93007458 - Pág. 33/34).
+Com essas considerações, sem prejuízo de uma análise mais acurada após as informações do Juízo a quo e resposta da agravada, INDEFIRO a almejado efeito suspensivo.
+Comunique-se a decisão ao Juízo “a quo”, facultando-lhe prestar informações.
+Intime-se a agravada, na forma do art. 1.019, inciso II, do NCPC, para que responda, no prazo de 15 (quinze) dias.
+Após, remetam-se os autos à Douta Procuradoria de Justiça.
+Des. Sebastião BARBOSA FARIAS
+Relator
