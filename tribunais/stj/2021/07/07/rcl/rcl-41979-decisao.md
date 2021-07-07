@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de reclamação com pedido de liminar formulada por CARLOS ALBERTO DA SILVA BELO, com fundamento no art. 105, I, f, da Constituição Federal, contra decisão da JUSTIÇA FEDERAL 1ª INSTÂNCIA DO RIO DE JANEIRO que indeferiu o pedido de liminar formulado na peça exordial.
+Na origem, o reclamante propôs ação contra a EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS com o objetivo de transferência para o Município do Rio de Janeiro em decorrência do estado de saúde de sua esposa.
+Inconformado com a negativa judicial da liminar pleiteada, ingressou com a presente reclamação.
+É, no essencial, o relatório. Decido.
+Consoante art. 988 do CPC, o Superior Tribunal de Justiça é competente para processar e julgar reclamação que visa preservar a competência e garantir a autoridade das decisões desta Corte Superior, assim como para garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de assunção de competência.
+O regime jurídico processual aplicável ao caso (art. 988, § 5º, do CPC/2015) admite a propositura da reclamação na hipótese de decisão contrária a julgamento proferido no rito dos repetitivos, desde que tenha havido o prévio esgotamento das instâncias ordinárias, vedando assim a utilização do instituto como sucedâneo de recurso, bem como a supressão de instância.
+Por conseguinte, firmou-se jurisprudência nesta Corte de que não caberá ao Superior Tribunal de Justiça avaliar, em sede de reclamação, o acerto das decisões proferidas pelas instâncias de origem, quando não esgotados os recursos cabíveis.
+Não está caracterizada, dessa forma, nenhuma usurpação de competência desta Corte, mas sim, na verdade, a reclamação está sendo utilizada como sucedâneo recursal, não podendo, portanto, servir de atalho processual ao exame do conteúdo da questão meritória principal da demanda originária, sob pena de desvirtuamento de seu regime jurídico.
+Importa ressaltar que, conforme sólido entendimento deste Superior Tribunal, "a reclamação é uma medida excepcional, sendo inadmissível a sua utilização como sucedâneo recursal" (Rcl n. 34.065/SP, relatorMinistro Jorge Mussi, DJe de 20/6/2018). Nesse sentido, trago à colação recente decisão proferida pela Primeira Seção do Superior Tribunal de Justiça:
+AGRAVO INTERNO NA RECLAMAÇÃO. PROCESSUAL CIVIL. SUCEDÂNEO RECURSAL. NÃO CABIMENTO.
+1. É incabível reclamação proposta como sucedâneo recursal,2. A Corte Especial do STJ, na Rcl 36.476/SP, concluiu ser inadmissível reclamação para controlar a aplicação de tese firmada em recurso repetitivo.
+3. Agravo interno a que se nega provimento.(AgInt na Rcl n. 37.006/ES, relator Ministro Og Fernandes, Primeira Seção, DJe de 17/6/2021, grifo meu.)
+Ante o exposto, não conheço da reclamação e extingoo processo sem resolução do mérito.
