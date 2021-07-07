@@ -1,0 +1,14 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinícius Machado Calixto prestou as seguintes informações:
+    Iara Heise Henrique de Oliveira Sayeg afirma haverem o Juízo da Primeira Vara Cível de Itapevi, o Tribunal de Justiça do Estado de São Paulo, nos processos nº 0008682-97.2006.8.26.0271 e 2232456-58.2018.8.26.0000, e o Superior Tribunal de Justiça, no recurso especial nº 1.601.640, inobservado o decidido no recurso extraordinário nº 432.106, julgado sob a sistemática da repercussão geral, e na ação direta de inconstitucionalidade nº 1.706.
+    Narra figurar como ré em ação de cobrança de taxa associativa ajuizada por Associação dos Amigos do Vila Verde. Destaca a procedência do pedido. Com o trânsito em julgado, esclarece iniciada a fase de cumprimento da sentença. Informa rejeitada exceção de pré-executividade. Diz da extinção de mandado de segurança sem julgamento do mérito, mantido, em sede de agravo, o entendimento. Sobrevieram recursos especial e extraordinário, ambos com sequência indeferida.
+    Sustenta indevidas a cobrança da taxa e a determinação de penhora de bem imóvel, apontando ofensa aos artigos 5º, sobretudo os incisos II e XX, e 6º da Constituição Federal, bem assim à Lei nº 8.009/1990. Frisa ausente a condição de associada, uma vez localizado o imóvel em loteamento, e não condomínio. Salienta a plenitude da propriedade, sobre a qual inexiste restrição. Articula com a impenhorabilidade do bem de família, afirmando tratar-se do único possuído, no qual reside. Alude à segurança jurídica. Menciona precedentes do Supremo. Sublinha não transitados em julgado os títulos em cumprimento provisório.
+    Requereu, no campo precário e efêmero, a suspensão dos efeitos das decisões atacadas. Busca a cassação.
+    2. Este processo somente serve à sobrecarga da máquina judiciária, hoje suportada pelo Tribunal, que se encontra, no tocante à celeridade, inviabilizado. O manuseio da medida é excepcional. Pressupõe a usurpação da competência do Supremo, o desrespeito a decisão por si proferida ou a verbete dotado de eficácia vinculante. A parte não demonstrou, na inicial, o preenchimento de nenhum desses requisitos.
+    O mandado de segurança impetrado em face de ato por meio do qual deferida a penhora do imóvel foi extinto sem resolução do mérito, em razão do não atendimento dos requisitos pertinentes, a inépcia da inicial, a ausência de interesse de agir e a existência da coisa julgada. Recurso especial teve a sequência indeferida porquanto evidenciada a falta de impugnação específica. Nota-se não debatida, nos pronunciamentos atacados, a impenhorabilidade do bem de família. Inexiste identidade material com o decidido nos precedentes evocados.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 7 de julho de 2021.
+Ministro MARCO AURÉLIO
+Relator
