@@ -1,0 +1,11 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE APELAÇÃO CÍVEL No 0011635-13.2016
+APELANTE: BANCO BMG S. A.
+APELADO: NILCE CASTRILLON DO CARMO.
+Vistos.
+Proceda-se com a juntada da mídia\cópia da Audiência de Instrução e Julgamento (id. 64930951).
+Às providências.
+Desembargador DIRCEU DOS SANTOS
+RELATOR
