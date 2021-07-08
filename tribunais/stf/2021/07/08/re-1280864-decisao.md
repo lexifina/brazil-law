@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Superior Tribunal de Justiça, assim ementado (eDOC 3, p. 182):
+    AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. FUNDAMENTAÇÃO PER RELACIONEM. POSSIBILIDADE. AUSÊNCIA DE FUNDAMENTOS PRÓPRIOS DO ÓRGÃO JULGADOR. VIOLAÇÃO AO POSTULADO DA FUNDAMENTAÇÃO DAS DECISÕES JUDICIAIS. AGRAVO DESPROVIDO.
+    1. Nos termos do entendimento assente nesta Corte Superior, a técnica da fundamentação per relationem, na qual o magistrado faz referência à decisões anteriores ou a pareceres do Ministério Público como razão de decidir, atende à exigência constitucional prevista no art. 93, inciso IX.
+    2. Entretanto, não se pode olvidar que o órgão julgador, ao utilizar a referida técnica de decidir, deve apresentar também fundamentos próprios para afastar as pretensões da parte, sob pena de incorrer em violação à exigência constitucional de fundamentação das decisões judiciais, conforme jurisprudência desta Corte Superior.
+    3. No caso em apreço, o Tribunal de origem limitou-se a transcrever integralmente o parecer ministerial, sem apresentar um fundamento próprio sequer para corroborar o entendimento contido na manifestação do Parquet, de modo que deve ser mantida a declaração de nulidade do acórdão recorrido.
+    4. Insurgência desprovida.
+    Não foram opostos embargos de declaração..
+    No recurso extraordinário (eDOC 3, p. 202-219), interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se violação ao art. 93, IX, da Constituição Federal.
+    Sustenta o recorrente, em síntese, que, não obstante tenha se reportado integralmente ao parecer ministerial como razões de decidir, o acórdão anulado pelo STJ atende ao princípio da fundamentação das decisões judiciais, uma vez que “todas as teses defensivas foram devidamente apreciadas e repelidas com argumentação idônea, restando exaustivamente motivada a conclusão pela manutenção da sentença condenatória e do apenamento fixado”.
+    A Procuradoria-Geral da República manifestou-se pelo não conhecimento do recurso e, no mérito, por seu desprovimento, em parecer assim ementado (eDOC 7):
+    Processo penal. RE do MP/RS. Acórdão do TJ/RS que se utilizou apenas da técnica de motivação per relationem para manter a condenação penal imposta aos réus. Recurso especial provido, com a anulação do acórdão. Suposta contrariedade ao art. 93, IX, da CF/88. 1. Tendo o Supremo Tribunal Federal já decidido a matéria em regime de repercussão geral (Tema 339), caberia ao Tribunal a quo a aplicação do entendimento firmado pela Suprema Corte, nos exatos termos do art. 1.030 do CPC. 2. A técnica de fundamentação per relationem é admitida tanto pelo Superior Tribunal de Justiça quanto pelo Supremo Tribunal Federal, mas é necessário que, mesmo de forma sucinta, o órgão prolator da decisão apresente suas razões de decidir, sem prejuízo de que incorpore fundamentos apresentados em outras peças do processo. 3. Pelo não conhecimento do recurso extraordinário e, se conhecido, pelo seu desprovimento.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Supremo Tribunal Federal já se manifestou acerca da matéria invocada, sob a sistemática da repercussão geral.
+    No tocante à obrigatoriedade de fundamentação das decisões judiciais, o Supremo Tribunal Federal já se manifestou sobre o tema invocado no julgamento do AI-QO-RG 791.292, de relatoria do Min. Gilmar Mendes, DJe 13.08.2010. O Plenário desta Corte assentou a repercussão geral do Tema 339, referente à negativa de prestação jurisdicional por ausência de fundamentação, e reafirmou a jurisprudência segundo a qual “o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    Ante o exposto, não conheço do recurso extraordinário e determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 1.030 do CPC.
+    Publique-se.
+    Brasília, 8 de julho de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
