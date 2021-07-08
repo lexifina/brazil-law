@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de PAULO HENRIQUE SILVA JUNIORem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(HC n. 2144639-48.2021.8.26.0000).
+Opaciente cumpre pena de 4 anos e 10 meses de reclusão pela prática do crime detráfico de drogas, previsto no art.33, § 4º, c/c art. 40, caput, I, ambos da Lei n. 11.343/2006.
+Oimpetrante sustenta que o paciente faz parte do grupo de risco da covid-19, pois é portador de asma.Além disso, afirma que o estabelecimento prisional no qual está recolhido estaria superlotado.
+Efetuado pedido de antecipação de progressão de regime de cumprimento de pena, o pleito foi indeferido pelo Juízo das Execuções. Impetrado prévio writ na origem, a liminar foi indeferida.
+Requer, liminarmente, queseja deferido ao paciente o direito de progredir antecipadamente ao regimeao aberto de cumprimento de pena,em consonância com a determinação do Supremo Tribunal Federal no Habeas Corpus coletivo n.188.820/DF.
+No mérito, pugna pela concessão da ordem para que seja ratificada a liminar.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19.GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA.INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido. (AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, ressalte-se que o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o paciente preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à Covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, o impetrante não demonstrou a flagrante ilegalidade da decisão atacada, principalmente porque o magistrado, na origem, expôs o seguinte (fls. 49-50):
+Pois bem, o reeducando está em unidade que está a cumprir protocolos rígidos e eficazes de combate ao COVID-19. Da mesma forma, não se fala,no local, de surto de COVID-19, a despeito de a situação extramuros evidenciar verdadeira situação de guerra. O reeducando, no mais, está medicado, devidamente assistido, e "assintomático e sem queixas", conforme relatório de fls. 112 e 114, não estando evidenciado que, em regular cumprimento da pena que lhe foi imposta, corre risco de morte. Eis a situação atual. Nesse contexto, não se vê aplicação da ordem concedida de forma coletiva ao reeducando.
+ ..
+Outrossim, não obstante a maioria dos estabelecimentos penais da região sabidamente esteja em situação de superlotação, no caso dos autos, refriso que nenhuma notícia há no sentido que a condição de saúde do executado esteja comprometida ou que o ambiente carcerário específico esteja em piores condições que o externo. Vale apontar, quanto às condições da unidade, que a situação no sistema prisional paulista é boa, tanto que em menos de dois meses os reeducandos dos estado todo, inclusive da unidade em que o executado está custodiado, gozaram de duas Saídas Temporária. Evidentemente, esse dado bem reflete as boas condições das unidades prisionais paulistas no que se refere ao combate da pandemia.
+Não se verifica, portanto, em juízo sumário, o desrespeito à Recomendação CNJ n. 62/2020.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
