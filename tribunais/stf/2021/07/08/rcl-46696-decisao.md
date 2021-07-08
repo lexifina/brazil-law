@@ -1,0 +1,19 @@
+DECISÃO
+RECLAMAÇÃO – AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE Nº 16 – ACÓRDÃO – INOBSERVÂNCIA – PEDIDO – PROCEDÊNCIA.
+    1. O assessor Eduardo Lasmar Prado Lopes prestou as seguintes informações:
+    O Estado de Goiás afirma haver a Segunda Turma do Tribunal Superior do Trabalho, no processo nº 10788- 95.2015.5.18.0010, inobservado o verbete vinculante nº 10 e o decidido na ação declaratória de constitucionalidade nº 16 e, sob a sistemática da repercussão geral, no recurso extraordinário nº 760.931 Tema nº 246.
+    Narra estar em debate a responsabilidade subsidiária da Administração Pública quanto a encargos trabalhistas devidos à empregada de prestadora de serviços. Salienta mantida, em sede de recurso ordinário, a obrigação. Afirma interposto agravo de instrumento em recurso de revista, sem sucesso. Noticia suspenso recurso extraordinário.
+    Diz proclamada, no processo objetivo, a validade do artigo 71, § 1º, da Lei nº 8.666/1993. Sublinha fixada, no julgamento do extraordinário de nº 760.931, tese a revelar que o inadimplemento de encargos trabalhistas dos empregados da contratada não implica, automaticamente, a responsabilidade, em caráter solidário ou subsidiário, do ente contratante. Evoca jurisprudência. Destaca transferido, sem comprovação de negligência na fiscalização, o pagamento das verbas. Argumenta ser do trabalhador o ônus de demonstrar a falha. Realça contrariado o verbete vinculante nº 10, uma vez afastado, sem observância da cláusula de reserva de plenário, o § 1º do artigo 71 da Lei nº 8.666/1993.
+    Requer, no campo precário e efêmero, a suspensão do processo. No mérito, busca a cassação do ato atacado.
+    Vossa Excelência, em 20 de abril de 2021, deferiu a liminar.
+    O Órgão reclamado, nas informações, relata o histórico processual.
+    O interessado não se manifestou.
+    O Ministério Público Federal opina pela inadmissão da reclamação. Sublinha inexistente o interesse processual, uma vez pendente de exame o recurso extraordinário nº 760.931. Frisa manuseada a medida como sucedâneo recursal.
+    2. Tendo em conta o verbete nº 331 da Súmula do Tribunal Superior do Trabalho, partiu-se para a responsabilidade automática do Poder Público, considerado preceito que não a versa, uma vez ausente ato do agente público a causar prejuízo a terceiros, que são os trabalhadores. Mostra-se descabida a pretensão de reconhecimento de obrigação subsidiária do Poder Público quando arregimenta mão de obra, por meio de prestadores de serviços, em virtude do inadimplemento da contratada. Esse é o entendimento do Supremo, firmado no julgamento da ação declaratória de constitucionalidade nº 16, possuidor de eficácia vinculante. Embora sem eficácia maior, a respaldar o manuseio da reclamação mediante queima de etapas, a óptica foi reiterada, sob o ângulo da repercussão geral, na apreciação do extraordinário de nº 760.931, redator do acórdão o ministro Luiz Fux, Diário da Justiça eletrônico de 11 de setembro de 2017. Após analisar o precedente, o Pleno fixou, na sessão do dia 26 de abril de 2017, a tese:
+    O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93.
+     Frise-se que a falta de fiscalização do tomador dos serviços é estranha aos parâmetros subjetivos da relação jurídica regida pela Consolidação das Leis do Trabalho.
+    3. Julgo procedente o pedido formulado, para cassar o acórdão formalizado pela Segunda Turma do Tribunal Superior do Trabalho, no processo nº 10788-95.2015.5.18.0010, no tocante à admissão de responsabilidade subsidiária do ente público.
+    4. Publiquem.
+Brasília, 8 de julho de 2021.
+Ministro MARCO AURÉLIO
+Relator
