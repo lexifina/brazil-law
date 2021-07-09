@@ -1,0 +1,34 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO N. 1010178-76.2021.8.11.0000
+AGRAVANTE: BANCO BRADESCO S.A.
+AGRAVADO: BERNARDO PEREIRA PADILHA
+Vistos.
+Trata-se de recurso de agravo de instrumento interposto por BANCO BRADESCO S.A., em face da decisão interlocutória proferida pelo Juízo da 4a Vara Cível da Comarca de Várzea Grande/MT, Dra. Silvia Renata Anffe Souza, nos autos da Ação Declaratória de Inexistência de Débito c/c Indenização por Danos Morais e Pedido de Antecipação de Tutela em Caráter Liminar no. 1014129-72.2021.8.11.0002, proposta por BERNARDO PEREIRA PADILHA, que deferiu a tutela provisória para determinar que a instituição agravante proceda com a com a suspensão dos descontos/cobranças realizados em sua conta, consoante requerido na inicial, no prazo de 24 (vinte e quatro horas), sob pena de multa-diária fixada em R$500,00 (quinhentos reais), limitada a 20 (vinte) dias-multa.
+Nas razões recursais, juntadas no Id 82985514, o banco agravante limita-se em questionar apenas o capítulo do decisum que lhe impôs a obrigação de pagamento das astreintes pelo eventual descumprimento da ordem judicial, justificando, em suma, que seu valor se mostra exorbitante, por entender que viola flagrantemente o princípio constitucional da proporcionalidade e o artigo 884 do Código Civil.
+Além disso, afirma que “a pena pecuniária cominada a título de astreintes não têm caráter indenizatório pelo inadimplemento de determinada obrigação de fazer ou de não fazer, mas, sim, o de meio coativo para cumprimento de determinada obrigação” (sic).
+Diz, ainda, que o prazo assinalado para o efetivo cumprimento se mostra exíguo, assinalando, para tanto, tratar-se de “uma instituição financeira de grande porte e que realiza uma quantidade avassaladora de transações e negócios jurídicos diariamente, obedecendo a um rígido regimento interno, ditado pelo Banco Central e disciplinado pela Política Monetária Nacional” (sic), e que por possuir milhares de correntistas, inviabiliza o sucesso do cumprimento da decisão agravada em tão curto prazo.
+Por tais fundamentos, requer a concessão de efeito suspensivo quanto à multa fixada, e no mérito, pede pelo provimento deste recurso.
+Preparo recolhido no Id 90564452.
+É o relatório. Decido.
+Por tempestivo e próprio, recebo o recurso na forma do art. 1.015, inc. I c/c art. 1.017, ambos do CPC.
+Cuida-se de agravo de instrumento no qual se objetiva a suspensão da eficácia da decisão a quo, que fixou multa diária por dia de descumprimento da ordem judicial que determinou à instituição financeira que se abstenha de efetuar a cobrança das parcelas incidentes na conta corrente do autor, ora agravado.
+A valer, nos termos § único, do art. 995 do CPC/15, a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade do direito vindicado.
+Ressalta-se que referidos requisitos devem ser examinados nos autos considerando-se a profundidade de cognição típica deste momento processual.
+Assim é que, num juízo de cognição perfunctório, não vislumbro a presença dos pressupostos processuais indispensáveis à concessão da tutela recursal initio litis.
+Isto porque, a imposição de multa diária possui previsão legal, constante dos artigos 497 e 537, ambos do Código de Processo Civil, que estabelecem a possibilidade, nas ações que há obrigação de fazer ou não fazer, como sói o caso, se assim achar necessário, de o magistrado fixar astreintes, a fim de assegurar o resultado prático ou a efetivação da tutela específica.
+Logo, a fixação da multa diária não tem por objetivo o seu pagamento, como questiona, e sim garantir a efetividade da prestação jurisdicional, incidindo, apenas, se não efetivada a obrigação imposta.
+Se demonstrada a impossibilidade de cumprimento no tempo aprazado, como alega o agravante, esta não incidira, já que não houve recalcitrância.
+Outrossim, à primeira vista, o valor de R$500,00 (quinhentos reais) a título de multa cominatória não se afigura excessivo, inclusive se considerarmos as condições financeiras do agravante, até mesmo porque o julgador pode, inclusive de ofício, revisar o valor, caso verifique que este se tornou insuficiente ou excessivo.
+Desse modo, não me convenço da necessidade de suspender a astreintes.
+Nesse sentido, o entendimento jurisprudencial desta Corte, em caso análogo, vejamos:
+“AGRAVO DE INSTRUMENTO - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS - CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL (RMC) - ANTECIPAÇÃO DE TUTELA DEFERIDA - SUSPENSÃO DOS DESCONTOS EM FOLHA DE PAGAMENTO - PRESENÇA DOS REQUISITOS DO ART. 300 DO CPC - MULTA COMINATÓRIA DIÁRIA - REDUÇÃO DO VALOR E AUMENTO DO PRAZO - IMPOSSIBILIDADE - SOB PENA DE RETIRAR O CARÁTER COERCITIVO - EXPEDIÇÃO DE OFÍCIO AO ÓRGÃO PAGADOR - PROVIDÊNCIA QUE INCUMBE À INSTITUIÇÃO BANCÁRIA - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+Presentes as condições para o deferimento da tutela de urgência, mostra-se acertada a decisão que determina ao banco requerido suspender os descontos de parcelas referentes aos empréstimos consignados na modalidade de cartão de crédito, ao que se evidencia, não contratados pela parte autora.
+Mostra-se pertinente manter a imposição da multa diária, fixada em valor e prazo razoáveis, a fim de conferir efetividade à decisão judicial, sobretudo ao se considerar que é faculdade do magistrado a aplicação de medidas coercitivas em caso de descumprimento de ordem judicial.
+Não é caso de expedição de ofício ao órgão pagador, porquanto incumbe à instituição financeira proceder às medidas cabíveis para cumprir a decisão judicial.” (N.U 1026137-24.2020.8.11.0000, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, GUIOMAR TEODORO BORGES, Quarta Câmara de Direito Privado, Julgado em 17/03/2021, Publicado no DJE 17/03/2021)
+De outra feita, no que tange ao prazo para cumprimento da obrigação de fazer – 24h (vinte e quatro horas), contado da intimação –, não obstante o inconformismo da parte agravante, não há nos autos nenhum dado que ateste que a decisão recorrida foi proferida em dissonância com os princípios da proporcionalidade e razoabilidade, ainda mais considerando que a mesma não demonstrou qualquer impossibilidade de cumprir a decisão no prazo assinado pelo juízo a quo, não sendo motivo justificante a mera alegação de que possui elevado número de correntistas.
+À vista do exposto, ausentes os requisitos legais (fumus boni iuris e periculum in mora), NÃO CONCEDO o efeito suspensivo pretendido.
+Intime-se a parte agravada para apresentar resposta no prazo de 15 (quinze) dias, onde poderá juntar a documentação que entender conveniente, nos termos do artigo 1.019, inciso II, do CPC.
+Intime-se. Cumpra-se.
+Cuiabá/MT, 09 de julho de 2021.
+Desa. Antônia Siqueira Gonçalves
+Relatora
