@@ -1,0 +1,18 @@
+DECISÃO
+AÇÕES DIRETAS DE INCONSTITUCIONALIDADE Nº 4.357/DF E 4.425/DF – ACÓRDÃOS – INOBSERVÂNCIA – PEDIDO – PROCEDÊNCIA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    O Instituto de Previdência do Estado do Rio Grande do Sul afirma haver o Tribunal de Justiça, no processo nº 0094858-18.2020.8.21.7000, inobservado o decidido nas ações diretas de inconstitucionalidade nº 4.357 e 4.425.
+    Esclarece que, expedido requisitório, em momento anterior a 25 de março de 2015, as partes credoras postularam o adimplemento dos valores remanescentes, referindo-se a erronia na utilização do parâmetro de atualização monetária. Indeferido o pedido, a óptica acabou reformada em agravo de instrumento. Sobreveio recurso extraordinário, cuja sequência foi impedida ante o proclamado no de nº 870.947 – Tema nº 810 da repercussão geral. Desprovido agravo, embargos declaratórios aguardam apreciação.
+    Sustenta irrelevante o julgamento relativo ao Tema nº 810, apontando que o entendimento firmado nesse último diz respeito à correção de créditos em momento anterior ao da requisição. Argumenta que o Pleno, nas ações diretas, modulou a eficácia da declaração de inconstitucionalidade, assentando, no tocante aos créditos inscritos, adequada a correção monetária mediante a utilização da Taxa Referencial até 25 de março de 2015, cabendo, a partir daí, o Índice de Preços ao Consumidor Amplo Especial – IPCA-E. Cita jurisprudência.
+    Sob o ângulo do risco, alude à iminência de pagamento indevido.
+    Requereu, no campo precário e efêmero, a suspensão do ato. Pretende, no mérito, a cassação.
+    Vossa Excelência deferiu o pedido de concessão de liminar em 20 de abril de 2021.
+    O Órgão reclamado, nas informações, esclarece o histórico processual.
+    Olinda Lentz da Silva, em contestação, argui não atendido o requisito do esgotamento das instâncias ordinárias – artigo 988, § 5º, inciso II, do Código de Processo Civil.
+    2. É imprópria a preliminar de inadequação. Em jogo apontada contrariedade ao decidido em processos objetivos. Considerado o preconizado no artigo 988, § 5º, inciso II, do Código de Processo Civil, mostra-se irrelevante exigir o prévio esgotamento das instâncias ordinárias quando arguido desrespeito a acórdãos de processos objetivos.
+    Conforme fiz ver ao implementar a tutela provisória, a problemática atinente à atualização monetária de condenações da Fazenda Pública, em momento posterior à requisição do pagamento, foi objeto das ações diretas de inconstitucionalidade nº 4.357 e 4.425. Ao apreciar questão de ordem, o Pleno declarou a pertinência do artigo 1º-F da Lei nº 9.494/1997, na redação conferida pela de nº 11.960/2009, mantendo o índice oficial de remuneração básica da caderneta de poupança, para fins de correção, até 25 de março de 2015, cabendo observar, a partir daí, o Índice de Preços ao Consumidor Amplo Especial – IPCA-E. Ao adotar parâmetro diverso, o Tribunal de Justiça não levou em conta o decidido nos processos objetivos, impedindo o processamento do recurso extraordinário com base em precedente – Tema 810 – sem relação com o caso.
+    3. Julgo procedente o pedido formulado nesta reclamação, para cassar o acórdão da Câmara de Funções Delegadas dos Tribunais Superiores do Tribunal de Justiça do Estado do Rio Grande do Sul, no processo nº 0094858-18.2020.8.21.7000, determinando a remessa, ao Supremo, para apreciação do recurso extraordinário formalizado.
+    4. Publiquem.
+Brasília, 9 de julho de 2021.
+Ministro MARCO AURÉLIO
+Relator
