@@ -1,0 +1,18 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por ANA LUCIA RICARTE, com o fito de suspender a decisão que, nos autos do Pedido de Tutela Provisória de Urgência de Natureza Cautelar de n. 1016557-12.2018.8.11.0041, ajuizada em face de SINDICATO DOS SERVIDORES PÚBLICOS DA SAÚDE DO ESTADO DE MATO GROSSO - SISMA/MT e OUTRO(S), acolheu a impugnação ao valor da causa e determinou à autora, ora agravante, que esclareça o valor da indenização pretendida e corrija o valor da causa.
+Para tanto, a agravante alega que “a obrigação de fazer não detém valor expresso, sendo necessário quantificar apenas para fins de distribuição; a reparação moral também não exige expressa valoração, tendo em vista que o pleito se dá por mera sugestão e; por fim, o pleito reparatório material se mostra de impossível precisão na inicial e ainda neste momento, porquanto os efeitos nocivos dos atos dos requeridos ainda estejam sendo sentidos pela autora”
+Pondera que, caso não seja concedida a medida pleiteada, terá que levantar vultosa quantia, de imediato, o que acarretará em mais uma punição, além da que já sofre pelos inúmeros danos perpetrados pelos agravados.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Pois bem, ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Na espécie, sem maiores esforços, verifica-se que foram demonstrados os requisitos da liminar recursal pretendida.
+É que, de acordo com a decisão recorrida, o magistrado singular determinou a emenda da inicial para a adequação do valor da causa e o recolhimento da diferença das custas, no prazo de 10 (dez) dias, sob pena de indeferimento da inicial.
+Assim, faz-se prudente a concessão da liminar de efeito suspensivo, para que, até o exame do mérito do agravo, não sejam causados danos irremediáveis à agravante.
+Ante o exposto, CONCEDO a liminar para suspender os efeitos da decisão de base que determinou que a agravante esclareça o valor da indenização pretendido e corrija o valor da causa, recolhendo a diferença das custas processuais.
+Publique-se e intime-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
