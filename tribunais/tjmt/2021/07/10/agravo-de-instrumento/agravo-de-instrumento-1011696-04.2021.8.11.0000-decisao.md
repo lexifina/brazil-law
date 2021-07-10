@@ -1,0 +1,17 @@
+Visto.
+Trata-se de recurso de agravo de instrumento interposto por MARTINELLI & DUTRA ADVOGADOS ASSOCIADOS, com o fito de reformar a decisão que, nos Autos do Cumprimento de Sentença de Honorários Sucumbenciais no 1012866-36.2020.8.11.0003, proposta em face de HSBC BANK BRASIL S.A. - BANCO MÚLTIPLO, julgou procedente o recurso de embargos de declaração e, via de consequência, determinou à contadoria judicial, que compute a correção monetária do valor dado à causa na Ação de Execução no 000298-54.2010.811.0003, em tramite neste juízo, a partir de seu ajuizamento e, os juros de mora, da data da intimação do devedor para o pagamento dos honorários advocatícios.
+Para tanto, aduz o agravante que a decisão recorrida violou a coisa julgada material ao fixar parâmetros de cálculo para apuração dos honorários advocatícios sucumbenciais que destoam do acórdão proferido por este e. Tribunal quando do julgamento do Agravo de Instrumento n. 1001055-88.2020.8.11.0000, em que houve a condenação da Agravada ao pagamento daquela verba.
+Esclarece que patrocinou exceção de pré-executividade, a qual foi manejada por José Luiz Soares de Mendonça, tendo sido reconhecida a prescrição e, por consequência, sua exclusão do polo passivo da execução, sendo o exequente condenado ao pagamento de honorários em 10% sobre o valor atualizado da causa.
+Assevera que, erroneamente, o Juízo de origem acatou a impugnação da instituição financeira agravada, para que o valor dos honorários fosse apurado mediante a aplicação de 10% sobre o valor original atribuído à causa e, em seguida, corrigido monetariamente pelo INPC/IBGE.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição de efeito suspensivo ao Recurso de Agravo de Instrumento se sujeita aos pressupostos que lhe são próprios, nem sempre consentâneos com aqueles que, por outro lado, tocam à decisão combatida.
+Em outras palavras, a obtenção de efeito suspensivo depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+Como já dizia Nelson Nery Júnior:
+Atuação do relator. O relator do agravo deve analisar a situação concreta, podendo ou não conceder o efeito suspensivo ao recurso. Se verificar que a execução da decisão agravada pode trazer perigo de dano irreparável (periculum in mora) e se for relevante o fundamento do recurso (fumus boni iuris), deve dar efeito suspensivo ao agravo. (Código de processo civil comentado e legislação extravagante. 9 ed. São Paulo: Revista dos Tribunais, 2006, P. 819)
+Na espécie, da análise cuidadosa das alegações do presente recurso, não se observa a presença dos requisitos legais para a concessão da medida liminar pleiteada.
+No caso, as razões de recurso não apontam prejuízo de difícil ou incerta reparação, que exija o deferimento da medida liminar neste momento processual, sobretudo porque o exame exauriente da questão atinente aos honorários advocatícios, não causará prejuízo à pretensão do causídico, podendo a resolução da questão, portanto, aguardar o julgamento do mérito pelo colegiado.
+Assim, com base nessas considerações, impõe-se o indeferimento da liminar pleiteada.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se o agravado do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
