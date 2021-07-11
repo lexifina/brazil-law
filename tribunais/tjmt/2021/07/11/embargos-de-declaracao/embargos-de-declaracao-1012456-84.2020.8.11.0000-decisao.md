@@ -1,0 +1,26 @@
+EMBARGOS DE DECLARAÇÃO N.o 1014367-34.2020.8.11.0000
+Vistos etc.
+Trata-se de Embargos de Declaração opostos pela Instituição Educacional Mato-grossense – IEMAT, objetivando sanar vícios na decisão monocrática (ID. 78009507) que indeferiu a petição inicial e julgo extinta, sem resolução do mérito, a Reclamação apresentada pela instituição de ensino, dada a ausência de interesse processual, com fulcro no artigo 485, incisos I e VI, do CPC.
+A Embargante sustenta omissão no decisum pois afirma ter demonstrado a divergência entre o acórdão da 2.a Turma Recursal com os precedentes consolidados no Superior Tribunal de Justiça no que se refere a legalidade de cobrança de valores não abarcados pelos FIES e suspensão da ação de origem em virtude da tramitação da ação coletiva ajuizada pelo centro acadêmico de medicina.
+Ressalta, com isso, a inobservância da autoridade das decisões proferidas por esta Corte Estadual e, portanto, o cabimento da Reclamação apresentada.
+Sob esses argumentos, requer o provimento dos Aclaratórios para que seja acolhido o pedido de sobrestamento temporário do feito, até a decisão final da Ação Coletiva no 1005518 - 09.2016.8.11.0002 e, também, para que seja conhecida a Reclamação com o seu regular processamento e julgamento.
+A Embargada Jamylle Souza Lara apresentou contraminuta no ID. 88752469.
+Eis o relatório. DECIDO.
+De proêmio, imperioso salientar que o Recurso de Embargos de Declaração, consoante dicção do art. 1.022 do CPC, é oponível para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual deveria se pronunciar o Juiz de ofício ou a requerimento e/ou corrigir erro material.
+Nesse prisma, considera-se omissa a decisão que deixa de apreciar ponto ou questão relevante, inclusive no tocante às matérias que deva conhecer de ofício.
+A contradição, por sua vez, ocorre quando a decisão que traz proposições inconciliáveis entre si, de forma que a afirmação de uma logicamente significará a negação de outra.
+De acordo com as ilações da Embargante, a decisão unipessoal incorreu em contradição acerca do sobrestamento da ação de origem.
+Melhor sorte, todavia, não socorre à Embargante pois consignado na decisão combatida que esta medida somente é possível quando a ação individual tiver sido ajuizada antes da ação coletiva.
+Nesse viés, está registrado que a Ação Civil Pública no 1005518-09.2016.8.11.0002 foi ajuizada pelo Centro Acadêmico XII de Agosto Medicina (CADAM) em 07/12/2016, ao passo que a Ação Declaratória de Inexistência de Débito n.o 8019293-67.2019.8.11.0001, sobre a qual versa esta Reclamação, foi ajuizada pela discente Jamylle Souza Lara no ano de 2019, ou seja, posteriormente à actio coletiva.
+Nota-se, sem maiores delongas, que não há proposições inconciliáveis entre si a respeito da questão. Portanto, ausente o vício de contradição.
+A Embargante alega, noutro ponto que o decisum é omisso, já que demonstrou a divergência entre o acórdão da 2.a Turma Recursal com os precedentes consolidados no Superior Tribunal de Justiça no que se refere a legalidade de cobrança de valores não abarcados pelos FIES.
+Necessário ressaltar, contudo, que não foi demonstrado pela Embargante qualquer divergência entre acórdão prolatado por Turma Recursal Estadual e a jurisprudência do STJ. Da leitura da Exordial e da Emenda a Inicial observa-se que a instituição de ensino defende o entendimento perfilhado neste Tribunal nos processos n.o 1001671-91.2019.8.11.0002, de Relatoria da Desa. Antônia Siqueira Gonçalves; n.o 1004469-93.2017.8.11.0002, de Relatoria do Des. Rubens de Oliveira Santos Filho e no. 1002524-03.2019.811.0002 de Relatoria do Des. Guiomar Teodoro Borges, os quais foram proferidos no sentido de reconhecer a legalidade da cobrança dos valores das mensalidades que ultrapassam a cobertura do FIES.
+Cinge dizer, nesse viés, que para o ajuizamento da Reclamação Constitucional não basta a simples existência de julgados deste Tribunal em sentido contrário ao aresto invectivado, sendo imprescindível que haja ofensa a precedente em incidente de resolução de demandas repetitivas ou assunção de competência, acórdão em julgamento de recursos extraordinário e especial repetitivos ou enunciados de Súmula do STF ou STJ, o que não foi demonstrado no caso concreto.
+Conforme consignado na decisão unipessoal, a reforma do acórdão para reconhecer a existência dos débitos cobrados da aluna e o direito à cobrança é assunto que não se enquadra em quaisquer das hipóteses de cabimento da Reclamação Constitucional, eis que pretende a rediscussão do julgado da Turma Recursal Temporária como sucedâneo recursal, hipótese não admitida tanto pelo STJ, quanto por este Sodalício em matéria idêntica.
+Portanto, não entrevejo vício de contradição a ser sanado; o que se tem, na verdade, é o inconformismo da Embargante com o resultado do julgamento.
+Vale salientar que os Aclaratórios têm natureza peculiar, cujo objetivo é esclarecer o real sentido de decisão eivada de obscuridade, contradição, omissão ou erro material e, em casos excepcionais, é admitido para sanar julgamento proferido com base em premissa equivocada, o que não é o caso.
+Feitas essas considerações, rejeitos os Embargos de Declaração.
+Publique-se. Intime-se.
+Cuiabá, 10 de julho de 2021.
+Des.a Clarice Claudino da Silva
+Relatora
