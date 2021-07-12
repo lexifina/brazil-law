@@ -1,0 +1,26 @@
+Trata-se de recurso extraordinário interposto contra acórdão no qual se concluiu que a impetrante preencheu os requisitos legais pertinentes para incorporar a Gratificação de Representação de Titularidade aos seus proventos.
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, violação dos arts. 5°; 24, XII; e 40, §§ 2° e 3°, da mesma Carta, sob o argumento de que a Gratificação de Representação de Titularidade, por não compor a remuneração do cargo efetivo, não se incorpora aos proventos de inatividade e só é paga àqueles que exercem cargo em comissão ou função de confiança de direção de serventia.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem, amparado na interpretação das Leis 3.893/2002, 4.477/2001, 4.620/2005, 5.352/2008, 6.471/2013 e 6.963/2015 do Estado do Rio de Janeiro, concluiu que a impetrante faz jus à incorporação da Gratificação de Representação de Titularidade aos seus proventos.
+    Nesse contexto, para divergir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessária a reanálise das normas locais referidas, o que é vedado pela Súmula 280/STF. Com esse entendimento, cito os seguintes julgados desta Corte:
+    “Ementa: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO E PREVIDENCIÁRIO. SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO ESPECIAL DE EDUCAÇÃO. INCORPORAÇÃO AOS PROVENTOS. LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+    1. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional local (Súmula 280 do STF), tampouco para o reexame dos fatos e das provas constantes dos autos (Súmula 279 do STF).
+    2. Agravo interno DESPROVIDO, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação.
+    3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (ARE 1.298.973-AgR/PR, Rel. Min. Presidente, Tribunal Pleno).
+    “Ementa: DIREITO PREVIDENCIÁRIO. INCORPORAÇÃO DE GRATIFICAÇÃO AOS PROVENTOS DE INATIVIDADE. NATUREZA DAS VERBAS. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 25.3.2010.
+    As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário.
+    A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Agravo regimental conhecido e não provido” (RE 637.805-AgR/PR, Rel. Min. Rosa Weber, Primeira Turma).
+    Outrossim, este Tribunal, no julgamento do RE 1.223.164-RG/SP (Tema 1.089), rejeitou a repercussão geral da controvérsia relativa à definição da natureza jurídica de gratificações ou outras vantagens remuneratórias concedidas aos servidores ativos estaduais, municipais ou distritais para fins de incorporação aos proventos de servidores inativos e pensionistas.
+    Por fim, o Tribunal de origem ainda entendeu pela manutenção da incorporação da Gratificação de Representação de Titularidade, tendo em vista que, em outro processo (MS 0024758-53.2014.8.19.0000), já foi assegurado o referido direito à ora recorrida.
+    O recorrente, contudo, não impugnou esse fundamento, suficiente para a manutenção do acórdão recorrido, o que atrai a incidência da Súmula 283 desta Corte. Nessa linha, destaco julgados de ambas as Turmas deste Tribunal:
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDORES ESTADUAIS. PROGRAMA DE DEMISSÃO VOLUNTÁRIA. LEI ESTADUAL Nº 4.051/1987. SÚMULAS 279, 280 E 283 DO STF.
+    1. É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Precedentes.
+    2. Para se chegar à conclusão diversa daquela a que chegou o juízo a quo, seria necessário o reexame de fatos e provas e o da legislação local aplicável à espécie, possibilidade obstada pelas Súmulas 279 e 280 do STF.
+    3. Agravo regimental a que se nega provimento” (ARE 800.097-AgR/PI, Rel. Min. Edson Fachin, Primeira Turma – grifei).
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTO AUTÔNOMO E SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO RECORRIDO: SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA PROVIMENTO (RE 696.966-AgR/DF, Rel. Min. Cármen Lúcia, Segunda Turma – grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 12 de julho de 2021.
+Ministro Ricardo Lewandowski
+Relator
