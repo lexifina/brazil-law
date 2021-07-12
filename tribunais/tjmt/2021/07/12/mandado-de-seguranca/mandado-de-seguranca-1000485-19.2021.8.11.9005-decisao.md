@@ -1,0 +1,29 @@
+MANDADO DE SEGURANÇA: 1000485-19.2021.8.11.9005 – PJE (FEITO NA ORIGEM: 0066431-11.2015.811.0001 – PROJUDI
+COMARCA DE ORIGEM: JUIZADO DO TERCEIRO JUIZADO DA CAPITAL
+IMPETRANTE: VALERIA DIAS CARDOSO
+IMPETRADO: MAGISTRADO DO TERCEIRO JUIZADO CAPITAL – DR. WALTER PEREIRA DE SOUZA
+LITISCONSORTE: MARCO AURÉLIO RIBEIRO
+JUIZ RELATOR: MARCELO SEBASTIÃO PRADO DE MORAES
+DECISÃO MONOCRÁTICA
+Vistos, etc.
+Trata-se de mandado de segurança vaiado por VALERIA DIAS CARDOSO contra o magistrado do 3o Juizado Especial Cível da Capital, apontando a ilegalidade do magistrado em tentar ouvir testemunha, de onde a parte impetrante aponta que não sabe o motivo pelo qual o juiz de 1o grau tenta ouvir testemunha de forma desnecessária, sendo relação jurídica que não depende de prova testemunhal, sendo o réu confesso, segundo sua ótima. Pugna pela liminar para que ocorra a suspensão de audiência marcada para o dia 13/07/2021.
+É o relatório.
+FUNDAMENTO E DECIDO.
+Após a devida verificação dos autos na origem, calha o registro que, anteriormente houve uma sentença de forma antecipada, que foi objeto de recurso inominado de número 0066431-11.2015.8.11.0001, invocando o cerceamento de defesa e ainda da necessidade da instrução para a demonstração da causa debendi da cártula emitida, tese que foi acatada pela Turma Recursal à época.
+Então a afirmação de que não se sabe o motivo pelo qual o juiz insiste na oitiva da testemunha, isto não condiz que o que existe nos autos, de onde, o magistrado já explicou por mais de uma vez que, estaria a cumprir a decisão da Turma Recursal, que determinou a realização da audiência de instrução.
+E a causa de pedir deste mandado de segurança é exatamente essa, da desnecessidade da oitiva de testemunha e que o magistrado de primeiro grau quer ouvir a mesma de forma desnecessária, de onde, sendo apenas estas as alegações, não se tem como dar sequência ao presente mandado de segurança que, observa-se pelo cumprimento de determinação anterior proferida pela Turma Recursal.
+Eventual suposta revelia, não cabe a análise por este relator e nem mesmo determinação ao magistrado de 1o grau acerca do seu reconhecimento pelo fato de que, a audiência não se realizou de qualquer forma, audiência esta que era para se ouvir a testemunha da qual se insurge neste momento, às vésperas de sua aguardada realização, bem como, pelo fato de que, ambas as partes, inclusive a impetrante teve problemas na conexão da aludida audiência, com justificativas de ambas as partes nos autos.
+Por outro lado, aponto que a conduta da parte reclamada / litisconsorte nos autos, deve ser devidamente balizada, sendo que, observa-se que a testemunha arrolada pela parte reclamada nunca é encontrada em local algum, sendo que a última tentativa de intimação via mandado pelo Oficial de Justiça, consta certidão de que a aludida testemunha mora no endereço e não tem hora para voltar, segundo informado por uma vizinha, mas a testemunha em si mesma, não estava em casa, como se retira no evento 303 dos autos.
+Cabe a parte interessada também ajudar em relação à sua testemunha, bem como, ao magistrado, caso suspeite que esta está se ocultando tomar eventuais medidas pertinentes para coibir tal ação, e, se intimada e não participar da audiência, lançar mão dos institutos de repressão a tal conduta previstos na legislação.
+O presente feito se arrasta há mais de 06 anos, sem a parte interessada que seja ouvida a testemunha mova uma palha sequer de colaboração no processo, indicando locais onde não se encontrava esta, causando atrasos / redesignações de audiências, causando um gasto no processo, pois apesar de ser “gratuita” sua conduta, o Poder Judiciário paga pela “gratuidade’” concedida de forma absurda pela Lei dos Juizados, o que se espera que seja em breve revista essa legislação.
+Apesar de entender que, nesse momento o ato do magistrado não se reveste de qualquer ilegalidade e / ou teratologia, visto que cumprindo acórdão anterior, nada obsta ao magistrado de 1o grau, que, acaso venha a ser provocado venha a decidir, de forma fundamentada, pela não oitiva da testemunha justamente pela falta de colaboração da própria parte interessada e / ou dificuldade causada pela própria testemunha, acaso as condutas de falta de intimação da testemunha persistam nos autos, pois o feito não pode ficar indefinidamente aguardando uma solução, ainda mais que agora a audiência está sendo realizada de forma virtual, não justificando a ausência de ninguém, exceto em situações excepcionais.
+A conduta do magistrado, neste momento, não se reveste de ilegalidade e / ou teratologia, de onde, observa-se incabível o mandado de segurança, visto existir para proteger direito líquido e certo, inexistentes neste momento, sendo o caso de indeferimento / denegação da segurança, nos moldes do artigo 10 da Lei 12.016/2009.
+Aplicável ainda a aplicação do artigo 485, VI do NCPC, de onde prevê ainda a extinção sem resolução do mérito no caso de falta de interesse processual, que lastreado em dois pilares: necessidade e adequação, ambos ainda apoiados na utilidade do processo, o que não se observa neste momento.
+ISTO POSTO, nos moldes do artigo 10 da Lei 12.016/2009, c/c 485, VI do NCPC, indefiro a peça inicial, e, como consequência, denegada a segurança, nos moldes do artigo 6o, § 5o do mesmo diploma legal.
+Sem condenação ao pagamento de custas processuais e / ou honorários advocatícios, ante a ausência de previsão legal para a cobrança de ambas.
+COMUNIQUE-SE ao magistrado de 1o grau, tido como autoridade coatora, para que tome ciência da presente decisão e encarte nos autos de origem a cópia da mesma.
+DESENECESSÁRIA a remessa dos autos ao representante do Ministério Público, nos termos do Ofício 85/2015.
+Após o trânsito em julgado, ao arquivo com as baixas pertinentes.
+P.R.I.
+Marcelo Sebastião Prado de Moraes
+Juiz de Direito - Relator
