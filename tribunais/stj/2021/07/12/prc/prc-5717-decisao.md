@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de requisição de pagamento oriunda da ExeMS 7386 (201401030651),expedida em favor de MANOEL VALENTE DOS SANTOS, MARCELO LAVOCAT GALVAO ePAULO SERGIO CUNHA, estes beneficiários de destaque de honorários advocatícios contratuais.
+Intimadaacerca da regularidade formal, a UNIÃOmanifestou-se favoravelmente, porém ressaltou que em razão do óbito deMANOEL VALENTE DOS SANTOS "o valor deve ficar bloqueado até que se cumpram as exigência do art. 3º, §§ 6º e 7º da IN STJ/GP N. 17 DE 7 DE OUTUBRO DE 2019".
+Em parecer, oMinistério Público Federal também opinou pelo bloqueio da quantia.
+Certidão da Seção de Precatórios e RPV indicando a disponibilidade de verba para liquidação deste precatório.
+É, no essencial, o relatório. Decido.
+De início, convém esclarecer queo depósito em conta não implica necessariamente em disponibilização da quantia a quem de direito. Em caso de falecimento do beneficiário originário, o levantamento de valores fica condicionado à prévia partilha do crédito perante o juízo sucessório ou na forma prevista no art. 610, § 1º, do CPC. Já tendo sido finalizado o inventário, deve ser dado início a procedimento de sobrepartilha.
+Caso seja mais conveniente, também é possível que o valor seja colocado à disposição do juízo responsável pelo inventário, nos termos do art. 19 da Instrução Normativa STJ/GP n. 3/2014:
+Art. 19. No depósito de valores de precatórios e RPVs cujos credores originais já tiverem falecido, o crédito deverá ser apresentado pelos respectivos herdeiros em processo de arrolamento ou inventário, ou, no caso de estarem esses concluídos, em procedimento de sobrepartilha, cuja partilha será decidida pelo juízo competente em favor dos herdeiros ou do cônjuge sobrevivente, e deverá ser levantado mediante alvará expedido por essa autoridade judicial.
+Ante o exposto, determino o pagamento desta requisição condicionado à existência de disponibilidade financeira, mediante abertura de conta remunerada em nome do(s) beneficiário(s) em instituição financeira conveniada, reservados os recursos das requisições anteriores pendentes de pagamento (art. 12 da Instrução Normativa STJ n. 3/2014).
+Tendo em vista a notícia de falecimento de MANOEL VALENTE DOS SANTOS, ressalto que o pagamento do valor principal deverá ser realizado em conta a ser aberta em favor do espólio, ficando o levantamento condicionado à partilha do crédito.
+Publique-se. Intimem-se.
