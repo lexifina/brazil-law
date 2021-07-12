@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de petição com pedido de tutela de urgência formulado por JOSE VILLARINO CORTES.
+Pleiteiaseja concedida liminar cautelar, atribuindo-se efeito suspensivoao acórdão prolatado nos autos do Agravo de Instrumento n. 2272326-42.2020.8.26.0000, que tramita pela 1ª Câmara Reservada de Direito Empresarial do TJ/SP, até que o recurso especial que será interposto sejajulgado, o qual buscará a anulação do julgado pelo evidente cerceamento de defesa praticado ao não oportunizar-se àrequerida sustentação oral pleiteada por este espólio, com o objetivo de evitar-se a sua indevida produção de efeitos.
+É, no essencial, o relatório. Decido.
+Nos termos dos arts. 1.027, § 2º, 1.028, §§ 2º e 3º, e 1.029, § 5º, III, do Código de Processo Civil, a competência para apreciar o pedido de tutela provisória para suspender o processo na origem somente se transfere ao Superior Tribunal de Justiça após o processamento do recurso especial pelo Tribunal de origem.
+O STJ admite o abrandamento da incidência das Súmulas n. 634 e 635 do STF e, por conseguinte, o processamento das tutelas cautelares relativas a recursos especiais pendentes de juízo de admissibilidade na origem para coibir a eficácia de decisão teratológica ou em manifesta contrariedade à jurisprudência assentada pela Corte (AgInt na Pet n. 13.316/MT, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/8/2020).
+A parte agravante não comprovou o risco de dano irreparável ou de difícil reparação, pois apenas fez o pedido de liminar de concessão de efeito suspensivo apenas com argumentos genéricos, sem especificação ou individualização do caso concreto.
+Dessa forma, não houve a demonstração de como o possível erro no julgamento proferido pelo Tribunal de origem reclamaria intervenção urgente, a fim de se evitar "dano grave, de difícil ou impossível reparação" (AgInt no TP n. 851/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 28/5/2018).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, indefiro opedido.
+Publique-se. Intimem-se.
