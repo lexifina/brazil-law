@@ -12,6 +12,6 @@ VI - remuneração adequada do capital investido pelos prestadores dos serviços
 VII - estímulo ao uso de tecnologias modernas e eficientes, compatíveis com os níveis exigidos de qualidade, continuidade e segurança na prestação dos serviços;
 VIII - incentivo à eficiência dos prestadores dos serviços.
 § 2º Poderão ser adotados subsídios tarifários e não tarifários para os usuários que não tenham capacidade de pagamento suficiente para cobrir o custo integral dos serviços.
-§ 3º As novas edificações condominiais adotarão padrões de sustentabilidade ambiental que incluam, entre outros procedimentos, a medição individualizada do consumo hídrico por unidade imobiliária, nos termos da Lei nº 13.312, de 12 de julho de 2016.
+§ 3º As novas edificações condominiais adotarão padrões de sustentabilidade ambiental que incluam, entre outros procedimentos, a medição individualizada do consumo hídrico por unidade imobiliária.
 § 4º Na hipótese de prestação dos serviços sob regime de concessão, as tarifas e preços públicos serão arrecadados pelo prestador diretamente do usuário, e essa arrecadação será facultativa em caso de taxas.
 § 5º Os prédios, edifícios e condomínios que foram construídos sem a individualização da medição até a entrada em vigor da Lei nº 13.312, de 12 de julho de 2016, ou em que a individualização for inviável, pela onerosidade ou por razão técnica, poderão instrumentalizar contratos especiais com os prestadores de serviços, nos quais serão estabelecidos as responsabilidades, os critérios de rateio e a forma de cobrança.
