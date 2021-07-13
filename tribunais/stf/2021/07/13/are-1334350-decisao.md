@@ -1,0 +1,32 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    “AÇÃO DECLARATÓRIA DE ISENÇÃO/IMUNIDADE, INEXISTÊNCIA DE DÉBIDO, CUMULADA COM REPETIÇÃO DE INDÉBITO TRIBUTÁRIO - Imposto Sobre Serviço - ISS - Inexistência de nulidades na sentença Inexistência de julgamento “citra petita” - Questões de fato que não podem ser arguidas somente em razões de recurso, sob pena de supressão de grau de jurisdição - Recurso não provido.”
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 150, VI, alíneas “a” e "b", § 4º, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    “A respeitável sentença deve ser mantida por seus próprios, jurídicos, e bem deduzidos fundamentos, que em momento algum foram abalados pelos argumentos do recurso interposto, não existindo, ainda, motivos para o deferimento de tutela antecipada, senão vejamos.
+    Inicialmente, anoto que quanto ao argumento da recorrente para a anulação da sentença recorrida, por prestação jurídica inadequada e julgamento além do que consta dos autos, a rigor, não merece ser acatado, pois as questões suscitadas foram devidamente apreciadas e decididas com base nos documentos e diligências até então apresentados.
+    Da leitura da sentença, verifica-se que o juízo singular observou a causa de pedir constante da inicial, decidiu a lide nos limites do pedido formulado, e indicou motivo suficiente para demonstrar a razão de seu convencimento e para o julgamento de parcial procedência da ação.
+    Ademais, não colhe a alegação de ausência dos requisitos para o julgamento antecipado da lide, posto que há nos autos elementos suficientes para a solução da demanda, permitindo o pronto julgamento no estado em que se encontra, sendo pacífica a jurisprudência pátria de que “em matéria de julgamento antecipado da lide, predomina a prudente discrição do Magistrado, no exame da necessidade ou não da realização de prova em audiência, ante as circunstâncias de cada caso concreto e a necessidade de não ofender o princípio basilar do pleno contraditório” (STJ, REsp n. 3.047, 4ª Turma, j. 21-08-1990, rel. Min. Athos Carneiro).
+    Merece registro, ainda, a particularidade dos processos dos Juizados Especiais serem norteados pelos princípios da oralidade, simplicidade, informalidade, economia processual e celeridade, conforme preconiza o artigo 2º, da Lei nº 9.099/95, de sorte que estando o feito apto ao julgamento, pode e deve o julgador proferir a sentença, conforme ocorreu.
+    A requerente, ora recorrente, postulou a concessão da restituição do Imposto sobre Serviço (ISS), argumentando que não teria dado ensejo ao fato gerador do tributo, pois a construção do templo se deu por meio de mão de obra voluntária das pessoas que frequentam a entidade religiosa, sem qualquer contratação de pessoas terceirizadas.
+    Com efeito, o entendimento jurisprudencial pátrio é no sentido de que a construção de templo com mão-de-obra voluntária em regime de mutirão, sem a contratação de serviço de terceiros, caracteriza hipótese de não incidência de ISS.
+    Entretanto, tais alegações e documentos juntados às págs. 332/409, não merecem aqui ser analisados, pois deveriam ter sido apresentados em juízo a quo, antes da prolação da sentença de primeiro grau, para não incorrer em supressão de grau na apreciação de referidas provas.
+    Se não bastasse, da análise das fotografias apresentadas em grau de recurso (págs. 332/407) não há como comprovar de forma cabal que a obra tenha sido realizada por sistema de mutirão. Aliás, pouco crível que mão de obra não qualificada poderia ter realizado tal construção, inclusive com a colocação de estrutura metálica.
+    Não se afasta a possibilidade de ajudas eventuais perante trabalho não qualificado em citada obra. Porém, sua execução na integralidade por mão de obra não qualificada, em sistema de mutirão, se mostra improvável.
+    Enfim, a prova da realização da obra em regime de mutirão, deveria ter sido realizada pela recorrente no momento adequado, estando preclusa, não se justificando o inconformismo recursal.
+    O patrono da requerente, caso fosse mais zeloso quanto à produção e demonstração de suas provas constituídas, as teria juntado dentro do prazo legal. Não foi, e deseja agora inovar, trazendo informações e fatos não alegados anteriormente. Assim, não procede seu inconformismo e sua forma de atuar dentro do processo, no qual existem regras claras quanto à impugnação específica e o momento processual adequado para fazer prova dos fatos ocorridos, sob pena de preclusão.
+    É certo que, por força do disposto no artigo 1.014 do Código de Processo Civil, questões fáticas não deduzidas no juízo singular só podem ser suscitadas em grau de recurso se a parte demonstrar que deixou de fazê-lo por motivo de força maior.
+    (...)
+    A recorrente, em sua exordial ou réplica à contestação, não deduziu tais questões fáticas perante o juízo singular. Tampouco demonstrou a impossibilidade de fazê-lo por razão de força maior. Por conseguinte, o seu revolvimento em sede recursal implicaria ofensa ao artigo supracitado e supressão de instância.
+    (...)
+    Outrossim, considerando que a matéria alegada no presente recurso não foi suscitada na decisão singular mencionada, insta salientar que sua apreciação tão-somente nesta instância violaria também o princípio do duplo grau de jurisdição, o que não deve ser admitido.”
+    Desse modo, verifica-se que para dissentir do que decidido pelo Tribunal a quo, necessário o reexame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279 desta Corte, a qual dispõe: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 13 de julho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
