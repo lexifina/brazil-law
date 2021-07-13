@@ -1,0 +1,1 @@
+Art. 18-A. Os atos administrativos praticados no Estado do Tocantins, decorrentes de sua instalação, entre 1º de janeiro de 1989 e 31 de dezembro de 1994, eivados de qualquer vício jurídico e dos quais decorram efeitos favoráveis para os destinatários ficam convalidados após 5 (cinco) anos, contados da data em que foram praticados, salvo comprovada má-fé.
