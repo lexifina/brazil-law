@@ -1,0 +1,8 @@
+Art. 4º-E A concessionária de serviço público de distribuição de energia elétrica que adquirir prestadora de serviço público de distribuição de energia elétrica com mercado próprio inferior a 700 GWh/ano (setecentos gigawatts por ano), da qual é supridora, total ou parcialmente, terá direito, pelo prazo de 10 (dez) anos, a:
+I - 25% (vinte e cinco por cento) do valor da subvenção de que trata o inciso XIII do caput do art. 13 da Lei nº 10.438, de 26 de abril de 2002, recebida pela prestadora de serviço público de distribuição de energia elétrica adquirida; ou
+II - 55% (cinquenta e cinco por cento) do ganho econômico proporcionado aos consumidores atendidos pela prestadora de serviço público de distribuição de energia elétrica adquirida.
+§ 1º O ganho econômico de que trata o inciso II do caput deste artigo corresponde ao resultado da multiplicação do mercado anual da prestadora de serviço público de distribuição de energia elétrica adquirida pela diferença entre a sua tarifa média de fornecimento e a tarifa média, considerando todo o País, de fornecimento das concessionárias do serviço público de distribuição de energia elétrica.
+§ 2º Os valores de que tratam os incisos I e II do caput deste artigo serão:
+I - apurados no ano em que ocorrer a aquisição; e
+II - corrigidos pela variação média anual das tarifas, considerando todo o País, de fornecimento de energia elétrica praticadas pelas concessionárias do serviço público de distribuição de energia elétrica.
+§ 3º O incentivo de que trata este artigo é condicionado ao agrupamento das outorgas na forma do art. 4º-B desta Lei.
