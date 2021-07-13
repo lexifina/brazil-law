@@ -1,2 +1,19 @@
-Art. 2º-B. Na contratação da geração distribuída prevista na alínea a do inciso II do § 8º do art. 2º, a Aneel autorizará o repasse integral dos custos de aquisição de energia elétrica pelos agentes de distribuição para a tarifa de seus consumidores finais, até o maior valor entre o Valor Anual de Referência - VR e o Valor Anual de Referência Específico - VRES.
-Parágrafo único. O Valor Anual de Referência Específico - VRES será calculado pela Empresa de Pesquisa Energética - EPE, considerando condições técnicas e fonte da geração distribuída, e será aprovado pelo Ministério de Minas e Energia.
+Art. 2º-B Na contratação da geração prevista na alínea a do inciso II do § 8º do art. 2º desta Lei, para fins de repasse de custo devem ser observados os Valores Anuais de Referência Específicos (VRES) definidos pelo Ministério de Minas e Energia e a regulação da Aneel, não podendo a concessionária ou permissionária de distribuição contratar nessa modalidade mais que 10% (dez por cento) da sua necessidade de expansão anual.
+§ 1º O VRES será calculado pela Empresa de Pesquisa Energética (EPE), considerados as condições técnicas, os preços de mercado e as características de cada fonte de geração, e será aprovado pelo Ministério de Minas e Energia.
+§ 2º O VRES será definido para cada fonte de geração, entre as quais as seguintes:
+I - biogás;
+II - biomassa dedicada;
+III - biomassa residual;
+IV - cogeração a gás natural;
+V - eólica;
+VI - pequenas centrais hidrelétricas e centrais geradoras hidrelétricas;
+VII - resíduos sólidos; e
+VIII - solar fotovoltaica.
+§ 3º A Aneel, para fins de repasse dos custos de aquisição de energia elétrica prevista na alínea a do inciso II do § 8º do art. 2º desta Lei, estabelecerá regulação específica, considerado o preço resultante da chamada pública.
+§ 4º A contratação da geração pelo agente de distribuição ao qual está conectado o empreendimento deverá ser efetuada por meio de chamada pública, observadas:
+I - a competição entre empreendimentos instalados em qualquer local na área de concessão ou permissão da distribuidora;
+II - a possibilidade de escolha das fontes de geração concorrentes;
+III - a definição do preço-teto do certame em conformidade com o disposto nos §§ 2º e 3º deste artigo; e
+IV - a atualização monetária do contrato com base no Índice Nacional de Preços ao Consumidor Amplo (IPCA) ou em outro índice que vier a substituí-lo.
+§ 5º Para fins do disposto no inciso III do § 4º deste artigo, será considerado o VRES vigente no ano de realização da chamada pública.
+§ 6º O preço resultante da chamada pública será atualizado monetariamente nos termos do inciso IV do § 4º deste artigo, até a data de início de suprimento.
