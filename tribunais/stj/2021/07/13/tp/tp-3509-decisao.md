@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de tutela de urgência apresentada por E. G. P. DA R. em que se requer a concessão de efeito suspensivo à decisão proferida pelo Desembargador Relator do Tribunal de Justiça do Estado de São Paulo, no Agravo de Instrumento n. 3003584-92.2021.8.26.0000.
+Alega quea criança é portadorade transtorno do espectro autista e transtorno do déficit de atenção e hiperatividade, e que foi deferida a tutela antecipada para determinar ao Município de Franca e ao Estado de São Paulo que iniciassem o fornecimento, de forma solidária, de sessões do tratamento intensivo multidisciplinar mediante "Análise Aplicada do Comportamento" (Terapia ABA).
+O Tribunal de Justiça do Estado de São Paulo assim decidiu no agravo de instrumento em foco (fl. 217):
+Por tais razões, defiro o efeito suspensivo almejado, para sustar a eficácia da r. decisão combatida até final julgamento do presente agravo de instrumento, ficando determinada a realização de exame pericial, junto ao Instituto de Medicina Social e de Criminologia de São Paulo IMESC.
+É, no essencial, o relatório. Decido.
+Nos termos dos arts. 1.027, § 2º, 1.028, §§ 2º e 3º, e 1.029, § 5º, III, do Código de Processo Civil, a competência para apreciar o pedido de tutela provisória para suspender o processo na origem somente se transfere ao Superior Tribunal de Justiça após o processamento do recurso especial pelo tribunal de origem, e, destaque-se, quenem sequer houve a menção nos autos de que isso foi feito, tampouco o julgamento do recurso de agravo de instrumento pelo Tribunal de origem.
+O STJ somente admite o abrandamento da incidência das Súmulas n. 634 e 635 do STF e, por conseguinte, o processamento das tutelas cautelares relativas a recursos especiais pendentes de juízo de admissibilidade na origem para coibir a eficácia de decisão teratológica ou em manifesta contrariedade à jurisprudência assentada pela Corte, o que não é o caso dos autos.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, indefiro o pedido.
+Publique-se. Intimem-se.
