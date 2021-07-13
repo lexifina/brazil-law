@@ -1,0 +1,11 @@
+Decisão: As decisões proferidas em 30.06.2021 e 05.07.2021, sem qualquer inovação jurisprudencial no tema, amparam-se nos inúmeros precedentes do Supremo Tribunal Federal sobre a aplicação das garantias constitucionais processuais penais no âmbito das Comissões Parlamentares de Inquérito.
+    Com efeito, a não autoincriminação tem assento constitucional, instaurando direito subjetivo, a ser exercido por qualquer cidadão, de não produzir prova contra si mesmo. Por óbvio, o primeiro juízo sobre o conteúdo desse direito compete ao seu próprio titular, a quem cabe a avaliação inicial sobre os impactos da produção de determinada informação sobre a sua própria esfera jurídica. Nesse sentido, é o titular do direito quem exterioriza a primeira manifestação de vontade em relação ao exercício da não autoincriminação.
+    Por outro lado, nenhum direito fundamental é absoluto, muito menos pode ser exercido para além de suas finalidades constitucionais. Nesse ponto, às Comissões de Parlamentares de Inquérito, como autoridades investidas de poderes judiciais, recai o poder-dever de analisar, à luz de cada caso concreto, a ocorrência de alegado abuso do exercício do direito de não-incriminação. Se assim entender configurada a hipótese, dispõe a CPI de autoridade para a adoção fundamentada das providências legais cabíveis.
+    Nos estreitos limites da matéria posta no presente habeas corpus, ação constitucional que não comporta revolvimento de matéria fático-probatória, não compete ao Supremo Tribunal Federal se imiscuir no conteúdo do depoimento do Paciente, muito menos supervisionar previamente o exercício das atribuições jurisdicionais exclusivas da Comissão Parlamentar de Inquérito. Outrossim, compete à CPI fazer cumprir os regramentos legais e regimentais, estabelecendo, para tanto, as balizas necessárias para que investigados, vítimas e testemunhas possam exercer, nos limites próprios, seus direitos fundamentais, inclusive o direito da não autoincriminação.
+    Ex positis, reafirmando os termos das decisões monocráticas proferidas em 30.06.2021 e 05.07.2021, acolho parcialmente os embargos de declaração para os esclarecimentos acima expostos.
+    Encaminhem-se os autos à Eminente Ministra Relatora.
+    Publique-se. Int..
+    Brasília, 13 de julho de 2021.
+Ministro Luiz Fux
+Presidente
+Documento assinado digitalmente
