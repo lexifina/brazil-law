@@ -1,0 +1,34 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado por Glaucio Dalponte Mattioli, em favor de Tiago Aparecido Granada, contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça, nos autos do HC 455.238/SP.
+    Colho da decisão impugnada:
+    “Com a alegação de ausência de fundamentação idônea a amparar a custódia cautelar de Tiago Aparecido Granada – pronunciado pela suposta prática dos crimes inscritos no art. 121, § 2º, I, III, IV e V, do Código Penal –, impetrou-se este habeas corpus contra o acórdão proferido pelo Tribunal de Justiça de São Paulo no HC n. 2072878-59.2018.8.26.0000.
+    Sustenta-se que os corréus foram absolvidos pelo Tribunal do Júri, sendo que não há conduta isolada do paciente e a denúncia é homogênea. Postula-se a possibilidade de aplicação do art. 580 do CPP, no que diz respeito à obrigatoriedade de os deslindes processuais serem idênticos em casos como o dos autos.
+    Ressalta-se, ainda, que o colendo Tribunal de Justiça manteve a prisão preventiva do paciente, fundamentando pela gravidade abstrata do delito, não fazendo qualquer referência a drástica alteração fática (fl. 7).
+    Requer-se, assim, inclusive em liminar, a concessão da ordem para que seja revogada a prisão preventiva ou a liberdade provisória mediante a aplicação das medidas cautelares alternativas. (eDOC 34)
+    No STJ, a ordem foi denegada. Interposto agravo regimental, aguarda-se seu julgamento.
+    Nesta Corte, a defesa reitera o pedido para que a prisão preventiva seja revogada.
+    Solicitadas informações, o Juízo de primeiro grau as prestou em 22.6.2021. O STJ, em 24.6.2021.
+    Pedido de reconsideração em 22.6.2021.
+    Nova manifestação em 30.6.2021.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo colegiado do Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em supressão de instância.
+    É que, ausente pronunciamento colegiado naquele Tribunal, não houve lá esgotamento da instância. Sem o esgotamento da instância, a análise por esta Corte resulta em sua supressão. Cito precedentes:
+    “Agravo regimental no habeas corpus. 2. Habeas corpus que impugna decisão monocrática de mérito proferida por Ministro do Superior Tribunal de Justiça. Supressão de instância. Ausência de pronunciamento colegiado. Necessidade de interposição de agravo regimental. 3. Superação do óbice possível apenas nos casos de flagrante ilegalidade. Não ocorrência no caso concreto. 4. Agravo não provido”. (AgR no HC 184.614, de minha relatoria, Segunda Turma, DJe 16.6.2020)
+    “Agravo regimental no habeas corpus. 2. Habeas corpus impetrado contra decisão monocrática proferida por Ministro de Tribunal Superior. Supressão de instância. Não há manifesta ilegalidade no caso concreto a autorizar a concessão da ordem. 3. Abrandamento de regime e substituição da pena privativa de liberdade por restritiva de direitos. Impossibilidade. Reincidência inespecífica. Irrelevância ao caso concreto. 4. Fixação de regime mais gravoso e negativa de substituição da pena corporal devidamente fundamentadas. 5 Agravo improvido”. (AgR no HC 180.489, de minha relatoria, Segunda Turma, DJe 14.4.2020)
+    É bem verdade que, em casos de manifesta e grave ilegalidade, tais entendimentos podem ser flexibilizados, inclusive por meio da concessão da ordem de ofício, o que não é o caso dos autos.
+    Observem-se trechos do ato impugnado:
+    “Verifica-se da leitura das peças que compõem estes autos que a prisão cautelar está devidamente amparada em elementos concretos para a garantia da ordem pública, notadamente em razão da periculosidade do agente (que, agindo previamente ajustado e com unidade de propósitos juntamente aos demais corréus, por motivo torpe, com emprego de meio cruel - 35 facadas - e mediante recurso que dificultou a defesa da vítima, matou Carlos Alberto Joaquim - fl. 25).
+    Não foi outra a opinião da Subprocuradora-Geral da República Maria Hilda Marsiaj Pinto, para quem não há ilegalidades a serem sanadas e, quanto à alegação de alteração fática e necessidade de observância do art. 580 do CPP, tem-se que tal matéria não foi discutida no Habeas Corpus originário impetrado no Tribunal de Justiça/SP. Dessa forma, a análise das pretensões do impetrante nessa instância implicaria indevida supressão de instância com o consequente desprezo das normas constitucionais delimitadoras da competência entre os órgãos do Poder Judiciário (fl. 264) (eDOC 34)
+    A prisão preventiva, assim, foi decretada para acautelar a ordem pública, diante das particularidades do caso concreto.
+    Por oportuno, destaco precedentes desta Corte, no sentido de ser idônea a prisão decretada para resguardo da ordem pública. (HC 122.894/PR, de minha relatoria, Segunda Turma, DJe 1º.9.2014; HC-AgR 125.290/MG, rel. Min. Cármen Lúcia, Segunda Turma, DJe 19.12.2014; HC 119.715/TO, rel. Min. Teori Zavascki, Segunda Turma, DJe 29.5.2014; HC 127.488/SP, de minha relatoria, Segunda Turma, DJe 1º.7.2015; e HC 127.043/MG, de minha relatoria, Segunda Turma, DJe 7.5.2015).
+    Quanto ao excesso de prazo, a jurisprudência desta Corte é firme no entendimento de que a configuração do excesso de prazo a justificar a revogação da prisão não se verifica a partir, tão somente, do requisito temporal. É preciso apurar se há, inclusive, circunstâncias que exigem uma elasticidade da marcha processual, como o número de réus. Cito recentes precedentes: HC 170.778, DJe 3.5.2019; RHC 170.836, DJe 10.5.2019; HC 171.205, DJe 16.5.2019; HC 154.645, DJe 17.5.2019; HC 171.072, DJe 20.5.2019, todos de minha relatoria.
+    Na espécie, conforme registrado pelo Juízo de primeiro grau, “foi julgada PROCEDENTE a ação penal para CONDENAR o acusado TIAGO APARECIDO GRANADA a cumprir a pena de 16 (dezesseis) anos de reclusão, a ser cumprida inicialmente no regime fechado, como incurso nas penas do artigo 121 §2º, incisos I, III, e IV do Código Penal” (eDOC 27), a demonstrar a regularidade da marcha processual.
+    Ademais, afirmei, no HC 158.279: “o período de cinco anos de prisão cautelar pode estar justificado em um processo e, em outro, não. Cito precedentes: RHC 140.840, Rel. Min. Luix Fuz, DJe 3.3.2017; e HC 132.172, de minha relatoria, DJe 11.2.2016.”
+    Não há, portanto, manifesta ilegalidade a reclamar a concessão da ordem.
+    Penso, todavia, ser prudente recomendar ao STJ celeridade na apreciação do recurso interposto pelo paciente.
+    Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1º, RISTF), mas recomendo ao eminente Ministro Relator do AREsp 1.624.622, que, dentro dos critérios de razoabilidade, diligencie seu julgamento.
+    Publique-se.
+    Brasília, 13 de julho de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
