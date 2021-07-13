@@ -16,12 +16,15 @@ XII - prover recursos para pagamento de valores relativos à administração e m
 XIII - prover recursos para compensar o impacto tarifário da reduzida densidade de carga do mercado de cooperativas de eletrificação rural, concessionárias ou permissionárias, em relação à principal concessionária de distribuição supridora, na forma definida pela Aneel.
 XIII-A - prover recursos, exclusivamente por meio de encargo tarifário, e permitir a amortização de operações financeiras vinculadas a medidas de enfrentamento dos impactos no setor elétrico decorrentes do estado de calamidade pública, reconhecida na forma prevista no art. 65 da Lei Complementar nº 101, de 4 de maio de 2000;
 XIV - prover recursos para o custeio das isenções e do desconto de que tratam as disposições da lei resultante da conversão da Medida Provisória nº 1.010, de 25 de novembro de 2020.
+XV - prover recursos para fins de modicidade tarifária no Ambiente de Contratação Regulada (ACR) por meio de créditos em favor das concessionárias e permissionárias de distribuição de energia elétrica;
+XVI - promover incentivo ao agrupamento de outorgas de que trata o art. 4º-E da Lei nº 9.074, de 7 de julho de 1995.
 § 1º Os recursos da CDE serão provenientes:
 I - das quotas anuais pagas por todos os agentes que comercializem energia com consumidor final, mediante encargo tarifário incluído nas tarifas de uso dos sistemas de transmissão ou de distribuição ou cobrado diretamente dos consumidores pela CCEE, conforme regulamento da Aneel;
 II - dos pagamentos anuais realizados a título de uso de bem público;
 III - das multas aplicadas pela Aneel a concessionárias, a permissionárias e a autorizadas; e
 IV - dos créditos da União de que tratam os arts. 17 e 18 da Lei nº 12.783, de 11 de janeiro de 2013.
-V - das quotas anuais pagas por concessionárias de geração de energia elétrica cuja obrigação esteja prevista nos respectivos contratos de concessão de que trata a Medida Provisória nº 1.031, de 23 de fevereiro de 2021.
+V - das quotas anuais pagas por concessionárias de geração de energia elétrica cuja obrigação esteja prevista nos respectivos contratos de concessão de que trata a lei resultante da conversão da Medida Provisória nº 1.031, de 23 de fevereiro de 2021;
+VI - (VETADO).
 § 1º-A. É a União autorizada a destinar os recursos oriundos do pagamento de bonificação pela outorga de que trata o § 7º do art. 8º da Lei nº 12.783, de 11 de janeiro de 2013, à CDE, exclusivamente para cobertura dos usos de que tratam os incisos IX e X do caput deste artigo.
 § 1º-B. Os pagamentos de que tratam os incisos IX e X do caput são limitados à disponibilidade de recursos de que trata o § 1º-A, destinados a esse fim.
 § 1º-C. O ativo constituído de acordo com o inciso IX do caput é limitado à disponibilidade de recursos de que trata o § 1º-B, destinados a esse fim, vedados o repasse às quotas anuais e a utilização dos recursos de que trata o § 1º.
@@ -58,3 +61,4 @@ II - deverá descontar, para cada beneficiário, o estoque de carvão mineral cu
 § 12. As receitas e as despesas da CDE deverão ser publicadas mensalmente em sítio da internet, com informações relativas aos beneficiários das despesas cobertas pela CDE e os respectivos valores recebidos.
 § 13. A CDE cobrirá as despesas assumidas relacionadas à amortização de operações financeiras vinculadas à indenização por ocasião da reversão das concessões e para atender à finalidade de modicidade tarifária, nas condições, nos valores e nos prazos em que essas obrigações foram atribuídas à CDE.
 § 14. Na aplicação dos recursos de que tratam os incisos VII e XIII do caput, as concessionárias de serviço público de distribuição cujos mercados próprios sejam inferiores a 500 GWh/ano e que sejam cooperativas de eletrificação rural terão o mesmo tratamento conferido às cooperativas de eletrificação rural enquadradas como permissionárias de distribuição de energia elétrica.
+§ 15. Os recursos de que trata o inciso V do § 1º deste artigo somente poderão ser destinados à finalidade especificada no inciso XV do caput deste artigo, na forma do § 2º do art. 4º da lei resultante da conversão da Medida Provisória nº 1.031, de 23 de fevereiro de 2021.

@@ -32,7 +32,7 @@ III - (VETADO).
 § 8º No atendimento à obrigação referida no caput deste artigo de contratação da totalidade do mercado dos agentes, deverá ser considerada a energia elétrica:
 I - contratada pelas concessionárias, pelas permissionárias e pelas autorizadas de distribuição de energia elétrica até a data de publicação desta Lei; e
 II - proveniente de:
-a) geração distribuída, observados os limites de contratação e de repasse às tarifas, baseados no valor de referência do mercado regulado e nas respectivas condições técnicas;
+a) geração oriunda de empreendimentos concessionários, permissionários, autorizados e aqueles de que trata o art. 8º da Lei nº 9.074, de 7 de julho de 1995, conectados no sistema elétrico da distribuidora compradora, observados, nos termos definidos em regulamento, as condições técnicas, as formas de contratação e os limites de repasse às tarifas;
 b) usinas que produzam energia elétrica a partir de fontes eólicas, pequenas centrais hidrelétricas e biomassa, enquadradas na primeira etapa do Programa de Incentivo às Fontes Alternativas de Energia Elétrica - PROINFA; ou
 c) Itaipu Binacional; ou
 d) Angra 1 e 2, a partir de 1º de janeiro de 2013.
