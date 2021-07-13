@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de MARCOS DURVAL TORRES COSTAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2067702-94.2021.8.26.0000).
+Opaciente, "reincidente, cumpre pena de 13 anos, 06 meses e 24 dias, atualmente, no regime semiaberto, e foi condenado pela prática de crimes uso de documento falso, inúmeros estelionatos e usos de documento falso, com término de cumprimento previsto para 24/01/2029" (fl. 141).
+A parteimpetrante sustenta que o paciente sofre constrangimento ilegal, visto que necessita de "saída temporária de urgência para realização de cirurgia e tratamento médico, mesmo comprovada a necessidade extrema, inclusive com data marcada para realização do procedimento, como se verá a seguir" (fl. 3).
+Requer, liminarmente e no mérito, a concessão da saída temporária para fins de se submeter a tratamento odontológico.
+É, no essencial, o relatório. Decido.
+A matéria de fundo não foi apreciada no acórdão impugnado, visto que, nas razões do acórdão, fora destacado que a pretensão configurava supressão de instância (fl. 154):
+Com efeito, verifica-se nos autos digitais nº0021368-07.2020.8.26.0506 que, em 11.03.2021, o paciente pleiteou autorização de saída para realização de cirurgia e convalescimento pelo prazo de 60 dias (fls. 397 autos nº 0021368-07.2020.8.26.0506), sendo que, em 18.03.2021, o MM Juízo da Execução Criminal assim deliberou: "Como bem observado pelo Ministério Público, trata-se de matéria de cunho administrativo, de competência do Diretor da Unidade Prisional, devendo tal pedido ser endereçado a este. Em caso de negativa administrativa, tal pedido pode ser apreciado pelo Juízo Corregedor da Unidade Prisional, no presente caso o DEECRIM 3. Assim, por ser incompetente, deixo de apreciar tal pedido."(sic fl. 402 autos nº 0021368-07.2020.8.26.0506 grifos nossos).
+Não há notícia nos autos do processo de execução de que tal providência administrativa tenha sido adotada, consoante dispõe o artigo 120 da Lei de Execução Penal, não se olvidando que eventual indeferimento administrativo deverá ser submetido ao MM Juízo das Execuções Criminais.
+E como o d. juízo das execuções penais não proferiu decisão acerca do pleito aqui tratado, não cabe sua discussão nessa via, sob pena de notória supressão de instância.
+Assim, o Superior Tribunal de Justiça não pode dela conhecer, sob pena de indevida supressão de instância. Confira-se precedente sobre a questão:
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.(AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
