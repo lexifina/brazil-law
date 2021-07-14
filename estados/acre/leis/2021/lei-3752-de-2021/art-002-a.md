@@ -1,0 +1,1 @@
+Art. 2º-A Será permitido à pessoa com fibromialgia e lúpus estacionar o veículo em que conduza ou encontre-se transportado, em vagas já destinadas a deficientes ( Incluído pela Lei nº 4.128, de 11/07/2023 )
