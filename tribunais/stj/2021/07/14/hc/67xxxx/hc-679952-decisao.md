@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de ARIVANIO GOMES DA SILVAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Opaciente foi condenado à pena de 3 anos de reclusão em regime inicialaberto,pela prática dos delitos descritos no art. 14 da Lei n. 10.826/2003 e no art. 180 do Código Penal.
+Oimpetrante sustenta que, "entre a sentença condenatória de primeiro grau, proferida em 21 de fevereiro de 2014 (trânsito em julgado para a acusação em 21 de março de 2014), e o início do cumprimento da pena em 04 de outubro de 2018, passaram-se mais de 4 (quatro) anos, prazo este superior ao exigível no caso concreto para o reconhecimento da prescrição da pretensão executória do Estado" (fl. 8).
+Requer, liminarmente e no mérito, seja reconhecida "a extinção da punibilidade do paciente, (..) reconhecendo-se desde já a prescrição da pretensão executória do Estado, tendo em vista o lapso temporal percorrido entre a publicação da sentença condenatória e o início do cumprimento da pena do ora paciente" (fl. 10).
+É, no essencial, o relatório. Decido.
+Insurge-se a impetração contra a expedição de "mandado de prisão definitiva em desfavor do ora paciente, em virtude de condenação exarada pelo Juízo da 8ª Vara Criminal da comarca de Fortaleza/CE, exarada nos autos do processo nº 0680927-39.2012.8.06.0001" (fl. 4).
+Preliminarmente, percebe-se a manifesta incompetência do Superior Tribunal de Justiça para análise do presente mandamus, uma vez que impetrado contra decisão de autoridade não constante do rol taxativo previsto art. 105, inciso I, alínea c, da Constituição da República.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO QUE APONTA COMO AUTORIDADE COATORA JUIZ DE 1º GRAU QUE MANTEVE A PRISÃO CAUTELAR DO PACIENTE. INCOMPETÊNCIA ABSOLUTA DESTA CORTE SUPERIOR DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. Tratando-se de insurgência voltada contra ato de Juízo de primeiro grau, é flagrante a incompetência desta Corte Superior de Justiça para processar e julgar originariamente este habeas corpus, ante a não incidência do disposto no art. 105, inciso I, alínea "c", da Constituição Federal. 2. Agravo regimental a que se nega provimento (AgRg no HC 621817 / SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 17/11/2020, Dje 23/11/2020).
+Ante o exposto, com fundamento no art. 21-E, inciso IV, do Regimento Interno do Superior Tribunal de Justiça, declaro a incompetência do STJ para processar o presente writ, determinando a remessa dos autos ao Tribunal de Justiça do Estado do Ceará, independentemente da publicação, para que adote as providências pertinentes.
+Publique-se. Intimem-se.
