@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de LORENA ELIZABETH ACOSTAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL(HC n. 5105184-15.2021.8.21.7000).
+A paciente teve a prisão preventiva decretada e, posteriormente, foi denunciada pela suposta prática do delito tipificado no art. 121,§ 2º, incisos II e IV, c/c os arts. 14, inciso II, 29 e 61, inciso II, alínea j, todos do Código Penal.
+O impetrante sustenta a inépcia da denúncia e o cerceamento de defesa, uma vez que não teriam sido individualizados os fatos em tese praticados pela acusada e, ainda, não teria havido oportunidadede entrevista da ré com os advogados.
+Alega queo decreto preventivo não teria indicado concretamente nenhum dos requisitos descritos no art. 312 do Código de Processo Penal, o que afastaria a possibilidade de prisão processual.
+Informa que a paciente teria sofrido transplante de pulmão em 2005, integrando, por isso, o grupo de risco para acovid-19.
+Requer, liminarmente, a revogação da prisão preventiva ou, alternativamente, a concessão da prisão domiciliar.No mérito, pugna pela superação da Súmula n. 691 do STF econcessão da ordem para que seja trancada a ação penal.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19. GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA. INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido. (AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete.
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, ressalte-se que o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o paciente preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento prisional do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, a parte impetrante não demonstrou a flagrante ilegalidade da decisão atacada, principalmente porque o relator na origem expôs o seguinte (fl. 38-39):
+Não há demonstração de que os apenados, caso infectados, não estejam recebendo tratamento adequado ou que o estabelecimento prisional não possua condições de atendê-los e isolá-los, uma vez que é direito dos apenados receber adequado tratamento médico.
+Acrescento que, de mais a mais, ainda que a paciente possa fazer parte do grupo de risco, tal situação não justifica, neste momento, sua soltura ou a concessão de prisão domiciliar; ao contrário: havendo apenados positivados, é recomendável que permaneça em isolamento no estabelecimento prisional a fim de preservar-se e também à população. Ademais, há dois valores a serem considerados, ambos de grande relevância: o risco à saúde da paciente e o risco à segurança coletiva, sendo que, no confronto entre ambos, adotados os critérios de razoabilidade e proporcionalidade, para o caso concreto prevaleceria esse último.
+É que o fato de vir a ser positivada para a covid-19 - repito, não há provas de que a paciente esteja infectada, não significa que não obterá socorro médico; pelo contrário, como qualquer outro paciente da rede pública ou particular de saúde, poderá o indivíduo segregado, caso infectado, ser encaminhado a um nosocômio onde possa receber atendimento.
+Não se verifica, portanto, em juízo sumário, o desrespeito à Recomendação CNJ n. 62/2020.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
