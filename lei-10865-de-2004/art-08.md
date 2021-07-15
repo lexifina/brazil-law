@@ -74,6 +74,16 @@ XL - produtos classificados no Ex 01 do código 8503.00.90 da Tipi, exceto pás 
 I - o disposto no § 10 deste artigo; e
 II - a utilização do benefício da alíquota zero de que tratam os incisos I a VII, XVIII a XXI e XXIV a XXXVIII do § 12.
 § 14. Ficam reduzidas a 0 (zero) as alíquotas das contribuições incidentes sobre o valor pago, creditado, entregue, empregado ou remetido à pessoa física ou jurídica residente ou domiciliada no exterior, referente a aluguéis e contraprestações de arrendamento mercantil de máquinas e equipamentos, embarcações e aeronaves utilizados na atividade da empresa.
+§ 15. Na importação de etano, propano e butano, destinados à produção de eteno e pr openo; de nafta petroquímica e de condensado destinado a centrais petroquímicas; bem como na importação de eteno, propeno, buteno, butadieno, orto-xileno, benzeno, tolueno, isopreno e paraxileno, quando efetuada por indústrias químicas, as alíquotas da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação são de, respectivamente:
+I - 0,18% (dezoito centésimos por cento) e 0,82% (oitenta e dois centésimos por cento), para os fatos geradores ocorridos nos anos de 2013, 2014 e 2015;
+II - 0,54% (cinquenta e quatro centésimos por cento) e 2,46% (dois inteiros e quarenta e seis centésimos por cento), para os fatos geradores ocorridos no ano de 2016;
+III - 0,90% (noventa centésimos por cento) e 4,10% (quatro inteiros e dez centésimos por cento), para os fatos geradores ocorridos no ano de 2017; e
+IV - 1% (um por cento) e 4,6% (quatro inteiros e seis décimos por cento), para os fatos geradores ocorridos nos anos de 2018 a 2020 e nos meses de janeiro a junho de 2021;
+V - 1,13% (um inteiro e treze centésimos por cento) e 5,2% (cinco inteiros e dois décimos por cento), para os fatos geradores ocorridos nos meses de julho a dezembro de 2021;
+VI - 1,26% (um inteiro e vinte e seis centésimos por cento) e 5,8% (cinco inteiros e oito décimos por cento), para os fatos geradores ocorridos no ano de 2022;
+VII - 1,39% (um inteiro e trinta e nove centésimos por cento) e 6,4% (seis inteiros e quatro décimos por cento), para os fatos geradores ocorridos no ano de 2023; e
+VIII - 1,52% (um inteiro e cinquenta e dois centésimos por cento) e 7% (sete por cento), para os fatos geradores ocorridos no ano de 2024.
+§ 16. Na hipótese da importação de etano, propano e butano de que trata o § 15 deste artigo, não se aplica o disposto no § 8º deste artigo.
 § 17. O disposto no § 14 deste artigo não se aplica aos valores pagos, creditados, entregues, empregados ou remetidos, por fonte situada no País, à pessoa física ou jurídica residente ou domiciliada no exterior, em decorrência da prestação de serviços de frete, afretamento, arrendamento ou aluguel de embarcações marítimas ou fluviais destinadas ao transporte de pessoas para fins turísticos.
 § 18. O disposto no § 17 deste artigo aplicar-se-á também à hipótese de contratação ou utilização da embarcação em atividade mista de transporte de cargas e de pessoas para fins turísticos, independentemente da preponderância da atividade.
 § 19. A importação de álcool, inclusive para fins carburantes, é sujeita à incidência da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação com alíquotas de, respectivamente, 2,1% (dois inteiros e um décimo por cento) e 9,65% (nove inteiros e sessenta e cinco centésimos por cento), independentemente de o importador haver optado pelo regime especial de apuração e pagamento referido no art. 5º da Lei nº 9.718, de 27 de novembro de 1998.
@@ -93,4 +103,5 @@ XVIII - 5004.00.00, 5005.00.00, 5006.00.00, 50.07, 5104.00.00, 51.05, 51.06, 51.
 XIX - (VETADO);
 XX - (VETADO).
 § 22. A utilização do benefício de alíquota zero de que tratam os incisos XIX a XXXVIII do § 12 deste artigo cessará quando houver oferta de mercadorias produzidas no Brasil em condições similares às das importadas quanto ao padrão de qualidade, conteúdo técnico, preço ou capacidade produtiva, conforme regulamentação editada pelo Poder Executivo.
+§ 23. Aplica-se ao condensado destinado a centrais petroquímicas o disposto nos arts. 56 e 57 da Lei nº 11.196, de 21 de novembro de 2005.
 § 24. (VETADO).
