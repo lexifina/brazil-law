@@ -8,7 +8,7 @@ II - as seguradoras, as corretoras de seguros e as entidades de previdência com
 III - as administradoras de cartões de credenciamento ou cartões de crédito, bem como as administradoras de consórcios para aquisição de bens ou serviços;
 IV - as administradoras ou empresas que se utilizem de cartão ou qualquer outro meio eletrônico, magnético ou equivalente, que permita a transferência de fundos;
 V - as empresas de arrendamento mercantil (leasing), as empresas de fomento comercial (factoring) e as Empresas Simples de Crédito (ESC);
-VI - as sociedades que efetuem distribuição de dinheiro ou quaisquer bens móveis, imóveis, mercadorias, serviços, ou, ainda, concedam descontos na sua aquisição, mediante sorteio ou método assemelhado;
+VI - as sociedades que, mediante sorteio, método assemelhado, exploração de loterias, inclusive de apostas de quota fixa, ou outras sistemáticas de captação de apostas com pagamento de prêmios, realizem distribuição de dinheiro, de bens móveis, de bens imóveis e de outras mercadorias ou serviços, bem como concedam descontos na sua aquisição ou contratação;
 VII - as filiais ou representações de entes estrangeiros que exerçam no Brasil qualquer das atividades listadas neste artigo, ainda que de forma eventual;
 VIII - as demais entidades cujo funcionamento dependa de autorização de órgão regulador dos mercados financeiro, de câmbio, de capitais e de seguros;
 IX - as pessoas físicas ou jurídicas, nacionais ou estrangeiras, que operem no Brasil como agentes, dirigentes, procuradoras, comissionárias ou por qualquer forma representem interesses de ente estrangeiro que exerça qualquer das atividades referidas neste artigo;
