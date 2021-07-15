@@ -1,0 +1,17 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE AGRAVO DE INSTRUMENTO No 1012138-67.2021
+AGRAVANTE: GAVILON DO BRASIL COMÉRCIO DE PRODUTOS AGRÍCOLAS LTDA.
+AGRAVADOS: ÉRICO PIANA PINTO PEREIRA E OUTROS
+TERCEIRO INTERESSADO: DUX ADMINISTRAÇÃO JUDICIAL - MATO GROSSO - LTDA. - ME
+CUSTOS LEGIS: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos.
+Não existindo qualquer pedido realizado em caráter de urgência, notifique-se o ilustre Juízo de origem para que preste as informações que entender necessárias, inclusive se a parte agravante cumpriu a obrigação estabelecida pelo art. 1.018 do CPC.
+Após, intimem-se as partes agravadas para, querendo, dentro do prazo recursal legal, apresentarem contraminuta, facultando-lhes a juntada de documentação que entenderem necessária.
+Intimem-se, também, os terceiros interessados para, caso queiram, se manifestarem nos autos.
+Após, vistas ao MP.
+Ao final, retornem os autos conclusos.
+Às providências necessárias.
+Des. DIRCEU DOS SANTOS
+RELATOR
