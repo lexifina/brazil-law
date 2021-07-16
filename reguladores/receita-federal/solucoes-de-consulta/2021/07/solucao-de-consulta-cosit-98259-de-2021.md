@@ -1,0 +1,9 @@
+Solução de Consulta Cosit nº 98259, de 8 de julho de 2021
+Assunto: Classificação de Mercadorias
+Código NCM: 8537.20.90
+Mercadoria: Subestação isolada a gás (Gas Insulated Switchgear - GIS) para tensão de até 40,5 kV, também denominada painel de média tensão com isolamento a gás, utilizada para distribuição em média tensão de energia elétrica proveniente de transformadores de potência ou usinas de geração, além da proteção e controle de linhas, transformadores, capacitores, reatores, unidades retificadoras, etc., apresentada em corpo único, constituída essencialmente por chave seccionadora de três posições como seccionador do barramento, chave de aterramento da derivação, disjuntor tripolar de média tensão com interruptores a vácuo, aterramento com capacidade de fechamento através do disjuntor a vácuo, barramentos isolados a gás em invólucro metálico unipolar, conexão de cabos com sistema de ligação cone interior ou para conectar barramentos com isolação a gás ou sólidos, transformadores de corrente toroidais instalados ao redor do invólucro, transformadores de potencial com enrolamento primário conectado à parte de potência por meio de conector plug-in, e gás isolante SF6 (hexafluoreto de enxofre em sistema de pressão hermeticamente fechado conforme IEC 62271-1).
+Dispositivos Legais: RGI 1 (texto da posição 85.37), RGI 6 (texto da subposição de 1º nível 8537.20) e RGC 1 (texto do item 8537.20.90) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 8 de fevereiro de 2018, e alterações posteriores.
+SC Cosit nº 98259-2021
+[arquivo anexo: SC Cosit nº 98.259-2021 .pdf]
+DANIELLE CARVALHO DE LACERDA
+Presidente da 3ª Turma
