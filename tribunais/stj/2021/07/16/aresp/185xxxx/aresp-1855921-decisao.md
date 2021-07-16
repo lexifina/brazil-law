@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por HOMERO DORNELLES SCHIMITT contra a decisão que não admitiu seu recurso especial.
+O apelo nobrefundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL LOCAÇÃO FASE DE CUMPRIMENTO DE SENTENÇA EXCESSO DE EXECUÇÃO EXTINÇÃO
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do arts. 489 e 1022, II do CPC, no que concerne à omissão do acórdão recorrido quanto aos argumentos apresentados na apelação do recorrente, trazendo o(s) seguinte(s) argumento(s):
+Contudo, nas razões de apelação há argumentos em que se discorre sobre o titulo executivo judicial, qual seja, o acordo homologado à fl. 43, capazes de infirmar a decisão adotada no acórdão, razão pelo que se faz necessário o pronunciamento do Egrégio Tribunal de Justiça do Estado do Rio Grande do Sul das questões veiculadas no recurso, o que não aconteceu na ocasião do julgamento.
+O recorrente ainda opôs embargos de declaração com o objetivo de que o Tribunal a quo se pronunciasse sobre a omissão do ponto (não enfrentamento das razões de apelação), ponto crucial para o julgamento. (fls. 614).
+É, no essencial, o relatório. Decido.
+Na espécie, impende ressaltar que, nos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração tem fundamentação vinculada, destinando-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como a corrigir erro material.
+Nesse sentido, os seguintes arestos da Corte Especial: EDcl no AgInt no RE nos EDcl no AgInt no AREsp 475.819/SP, relator Ministro Humberto Martins, Corte Especial, DJe de 23/3/2018.
+No caso em exame, o Tribunal de origem se manifestou nos seguintes termos:
+Com base em tais considerações, ressalta-se, que no cálculo elaborado pela parte exequente/apelante, não foi cumprido o disposto no acordo homologado de fl. 43, estando englobado, no cálculo que embasou o cumprimento de sentença (fls. 72/73), tal como os subsequentes, parcelas que suplantam o título executivo judicial (fl. 43), ao passo que incluem valores referentes aos aluguéis da casa 7 (objeto da ação 001/1.08.0152613-6) e, ainda, parcelas do acordo com vencimento posterior a novembro de 2009, ou seja, desrespeitando as determinações impostas pelo titulo.
+Assim, tem-se como inviável a alegação da recorrente, impondo-se a manutenção da sentença que extinguiu o feito por excesso de execução. (fls. 585).
+Assim, a alegada afronta do art. 1.022 do CPC não merece prosperar, porque o Tribunal de origem examinou devidamente a controvérsia dos autos, fundamentando suficientemente e com clareza sua convicção, não havendo se falar em negativa de prestação jurisdicional porque inocorrentes omissões ou obscuridade no acórdão recorrido, não se prestando os declaratórios para o reexame da prestação jurisdicional ofertada satisfatoriamente pelo Tribunal a quo.
+Confiram-se, nesse sentido: AgInt no AREsp n. 1.652.952/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt no AREsp n. 1.606.785/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
