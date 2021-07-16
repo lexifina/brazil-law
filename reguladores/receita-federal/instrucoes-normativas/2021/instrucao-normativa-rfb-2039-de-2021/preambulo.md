@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2039, de 14 de julho de 2021
+Prorroga o prazo de transmissão da Escrituração Contábil Fiscal (ECF) referente ao ano-calendário de 2020.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no § 3º do art. 11 da Lei nº 8.218, de 29 de agosto de 1991, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no art. 2º do Decreto nº 6.022, de 22 de janeiro de 2007, e no art. 3º da Instrução Normativa RFB nº 2.004, de 18 de janeiro de 2021, resolve:
