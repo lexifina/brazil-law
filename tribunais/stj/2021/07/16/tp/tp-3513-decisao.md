@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de pedido de tutela provisória incidental formulado por COMPANHIA EXCELSIOR DE SEGUROSem que defende a necessidade de reforma da decisão que inadmitiu o recurso especial interposto pela ora requerente.
+Sustenta que "o v. acórdão recorrido violou, frontalmente, os artigos 757, 759 e 760 do Código Civil, uma vez que contratos de seguro firmados com a CEC garantiam, única e exclusivamente, os contratos de exportação de castanhas celebrados entre a CEC e a KANCHAN COMMODITIES INC. ("KANCHAN"), sem fazer qualquer menção ao financiamento obtido junto ao BRJ"(fl. 4).
+Pede o deferimento da medida liminar para que se determine a suspensão dos efeitos do aresto impugnado e, consequentemente, a execução provisória contra ela promovida (proc. nº 0002634-68.2017.8.19.0001), até o julgamento do mérito do recurso" (fl. 15).
+É, no essencial, o relatório. Decido.
+De acordo com o art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Ou seja, o deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido, e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Na espécie, não está evidenciado o periculum in mora, na medida em que o que existe nos autossão argumentações genéricas quanto àpossibilidade de cumprimento provisório da sentença.Observo que o documento juntado como prova do risco de perecimento do direito data de 22 de junho de 2020, não sendo informada, no entanto, a atual situação do feito.
+Ante o exposto, indefiro o pedido de tutela provisória de urgência.
+Publique-se. Intimem-se.
