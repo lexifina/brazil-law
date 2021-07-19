@@ -1,0 +1,41 @@
+AGRAVO DE INSTRUMENTO N. 1005979-11.2021.8.11.0000
+AGRAVANTE:
+Barão de Serro Azul Transporte Ltda
+AGRAVADO:
+Estado de Mato Grosso
+Decisão monocrática
+Vistos.
+Trata-se de recurso de Agravo de Instrumento, com pedido de efeito suspensivo, interposto por Barão de Serro Azul Transporte Ltda, em face da decisão proferida pelo Juízo da 5a Vara Especializada da Fazenda Pública de Cuiabá que, nos autos da Ação Anulatória no 1006660-52.8.11.0041, indeferiu o pedido de tutela provisória para suspender a exigibilidade do crédito tributário.
+Em suas razões recursais, a parte Agravante alega que ajuizou ação anulatória, tendo em vista que teve lavrado contra si TAD n. 1146861-1; TAD n. 1146652-3; TAD n. 1146538-3 e TAD n. 1146157-4, nos termos dos artigos 35-A e 35-B da Lei do ICMS n. 7.098/98 e art. 952, §1o, I do RICMS/MT, o qual lhe exige o pagamento de ICMS.
+Com base nesses fundamentos, defende que é assegurado ao contribuinte realizar traslado interestadual de sua mercadoria entre estabelecimentos da mesma empresa sem ser compelida a recolher o ICMS antecipado. É assegurado, ainda, que os bens do contribuinte não sejam apreendidos injustamente como meio coercitivo ao recolhimento do tributo, em consonância com as Súmulas do STF n. 70, n. 323 e n. 547.
+Com essas razões, postulou a concessão da liminar de tutela de evidência, a fim de que:
+“a) a agravada se abstenha de apreender carga como meio coercitivo da cobrança de ICMS antecipado, nas operações de transferência de mercadorias entre as unidades da empresa agravante, nos termos das Súmula 166 do STJ e Sumula 323 do STF;
+b) de suspender a exigibilidade do crédito tributário referente à antecipação do ICMS, cobrado no translado interestadual, nos termos das Súmula 166 do STJ e Recurso Repetitivo RESP.”
+O pedido liminar foi indeferido por este relator (id. 84278490).
+Contrarrazões pelo desprovimento do recurso ao id. 86311026.
+A Procuradoria-Geral de Justiça manifestou ausência de interesse capaz de justificar a intervenção ministerial (id. 90375492).
+Esse é o breve relatório.
+DECIDO.
+O art. 932, incisos IV e V do Código de Processo Civil, estabelece que o relator, monocraticamente, poderá dar ou negar provimento ao recurso, quando houver entendimento dominante acerca do tema pelo Supremo Tribunal Federal, pelo Superior Tribunal de Justiça ou pelo próprio tribunal.
+Ao compulsar os autos, verifica-se que a situação em análise, dispensa o julgamento do Colegiado, visto que se encontra pacificado nos Tribunais Superiores à discussão acerca da legalidade da apreensão de mercadorias pelo fisco, quando a finalidade da retenção constitui providência destinada a fazer cessar a infração material de caráter permanente, qual seja, circulação de mercadorias com irregularidades nas notas fiscais.
+De início, destaco que, em sede de recurso de agravo de instrumento, não cabe a análise do mérito da demanda ajuizada perante o juiz natural, porquanto a natureza do agravo restringe-se à análise da decisão agravada, de forma a verificar se há elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo, nos termos do artigo 300 do Código de Processo Civil, capaz de ensejar a concessão da liminar vindicada.
+Dessa forma, é apenas sob esse ângulo que será analisado o recurso instrumental, sob pena de decidir matéria ainda não apreciada pelo juízo de primeiro grau, incorrendo, assim, em supressão de Instância.
+Em análise aos elementos e circunstâncias que envolvem a controvérsia, tenho que o recurso não comporta provimento.
+Pois bem. O Juízo de Primeira Instância indeferiu a liminar afirmando que:
+“Como relatado, busca a parte Autora a concessão da tutela provisória de evidência para que seja declarada a inexistência de fato gerado da regra matriz tributária de incidência de ICMS em operações de transferência de mercadorias entre os estabelecimentos da mesma empresa, bem como que o Requerido se abstenha de apreender mercadorias da Requerente destinadas a outras unidades da empresa acobertada por documentação fiscal.
+Em que pese seja louvável a argumentação despendida pela parte Autora, entendo que não se mostram presentes os requisitos necessários para a concessão da medida pleiteada.
+ISTO POSTO, consoante fundamentação supra, e ante a ausência de fundamento relevante que o caso denota, INDEFIRO A TUTELA PROVISÓRIA DE EVIDÊNCIA vindicada”.
+A irresignação do Agravante é no sentido de que é legalmente assegurado ao contribuinte realizar o traslado interestadual de sua mercadoria, entre os estabelecimentos da mesma empresa, sem ser compelida a recolher o ICMS antecipado, eis que descabido a incidência do supramencionado imposto e ainda é assegurado que os bens do contribuinte não sejam apreendidos indevidamente, a fim de compelir ao recolhimento do tributo e ao pagamento da multa.
+Nessa lógica, a questão discutida nos autos restou pacificada por este Egrégio Tribunal de Justiça por meio do julgamento, de relatoria do DES. José Zuquim Nogueira, em 19/09/2019, do Incidente de Resolução de Demandas Repetitivas no 1012269-81.2017.8.11.0000, que fixou as seguintes teses, como se vê:
+“DIREITO TRIBUTÁRIO - INCIDENTE DE RESOLUÇÃO DE DAMANDAS REPETITIVAS (IRDR) – LEGALIDADE NA APREENSÃO DE MERCADORIA QUANDO NÃO TIVER POR FINALIDADE A COBRANÇA DE DÉBITOS PRETÉRITOS – AUSÊNCIA DE OFENSA À SÚMULA 323/STF – PROCEDÊNCIA DO PEDIDO – MODULAÇÃO. 1- O entendimento compendiado na Súmula 323/STF, visa impedir a imposição das chamadas “sanções políticas” como meio de coagir contribuintes em débito ao pagamento de tributos, razão pela qual somente deve ser aplicada quando a apreensão estiver sendo utilizada a fim de forçar o contribuinte a recolher aquilo que deve em função de outras operações, ou seja, como meio coercitivo de cobrança de tributos pretéritos, não relacionados às mercadorias apreendidas. 2 - Desde que estritamente relacionada à operação fiscalizada e sem a intenção de cobrança de valores pretéritos, inexiste ilegalidade na apreensão de mercadoria que visa coibir infração material de caráter continuado, seja: a) por ausência de documentação fiscal; b) por estar a mercadoria desacompanhada do recolhimento do diferencial de alíquota quando o destinatário for contribuinte do ICMS; c) pelo não recolhimento do ICMS em razão do regime especial a que esteja submetido o contribuinte, conforme legislação estadual. 3 - A teor do que dispõe os incisos I e II do art. 985 do CPC, a tese jurídica fixado no IRDR será aplicada, desde já, a todos os processos individuais ou coletivos que versem sobre idêntica questão de direito e que tramitem na área de jurisdição do tribunal, inclusive àqueles que tramitem nos juizados especiais, bem como aos casos futuros que versem idêntica questão de direito e que venham a tramitar no território de competência do tribunal, salvo revisão na forma do art. 986.” G.n.
+Logo, observa-se que as notas fiscais apresentadas pela agravante foram consideradas inidôneas pelo fisco em razão de situação irregular da mercadoria ou serviço, nos termos dos artigos 35-A e 35-B, incisos I, II e VII, da Lei n. 7.098/98, bem como Art. 2o, Art. 3o, Art. 4o, Art. 72 e Art. 95 do RICMS-MT.
+Entrementes, verifica-se que o TAD no 1146861-1 (id. 82874547 p. 78), expressamente destaca:
+“O benefício fiscal da isenção prevista no artigo 85 do anexo IV do RICMS/MT (Zona franca de Manaus), abaixo reproduzido, não se aplica para saída de produtos primários para comercialização, e para industrialização de produtos primários de produção mato-grossense tem que ter o protocolo de intenção entre os estados, conforme previsto no § 6o”.
+E nestes termos, o art. 35-A, estabelece que: “As mercadorias e serviços, em qualquer hipótese, deverão estar sempre acompanhadas de documentos fiscais idôneos”.
+Isto posto, a súmula 323 apenas deve ser aplicada quando a apreensão de mercadoria for utilizada como meio coercitivo de cobrança de tributos anteriores, o que não é o caso em análise.
+Portanto, ao menos nessa análise superficial da documentação acostada, cabível em sede de agravo de instrumento, mostra-se viável a manutenção da decisão que indeferiu o pedido liminar.
+Ante o exposto, nego provimento ao recurso.
+Intime-se. Cumpra-se.
+Cuiabá, 19 de julho de 2021.
+Alexandre Elias Filho
+Relator Convocado
