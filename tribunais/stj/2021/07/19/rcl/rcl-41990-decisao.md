@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de reclamação com pedido de liminar formulada pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 105, I, "f", da Constituição Federal, e no art. 988, inciso II, do Código de Processo Civil, contra acórdão proferido pela 1ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, nos autos da Apelação Crime n.70070976543, que negou provimento ao apelo do Ministério Público, mantendo hígida a decisão que impronunciou o réu NÍLSON SILVA DA SILVA e, na sequência, desacolheu os embargos de declaração opostos pelo parquet.
+Em suas razões, o reclamante alega que foi descumpridadecisão proferida pelo Superior Tribunal de Justiça no julgamento do Agravo em Recurso Especial n.1.302.972/RS, que deu parcial provimento ao recurso, para cassar o acórdão recorrido e determinar novo julgamento dos embargos de declaração, com a devida fundamentação.
+Sustenta que, na nova decisão, a Corte Estadual persiste em negar vigência ao art. 121, caput, do Código Penal, e aos arts. 74, § 1º, 155 e 413, caput, todos do Código de Processo Penal, bem como em contrariar o art. 414 do Código de Processo Penal, deixando de atender à determinação externada pelo Superior Tribunal de Justiça no dispositivoda decisão do Recurso Especial n. 1.302.972/RS.
+Requer, liminarmente,seja cassadoo acórdão recorrido, determinando-se que outro seja proferido em seu lugar, com o enfrentamento da matéria suscitada pelo reclamante, nos temos da decisão da Corte Superior.No mérito, pugna pela procedência da presente reclamação, confirmando-se o pedido liminar.
+Foram prestadas informações pela autoridade reclamada às fls. 871-873.
+É, no essencial, o relatório. Decido.
+Em juízo de cognição sumária, verifica-se que inexiste flagrante ilegalidade que justifique o deferimento do pleito liminar em regime de plantão, porquanto, em princípio, não se visualiza o descumprimento da decisão proferidano Recurso Especial n. 1.302.972/RS,especialmente porque o relator na origem expôs o seguinte, quando do novo julgamento dos embargos de declaração (fl. 842):
+Na realidade, por ocasião desse segundo julgamento, dei cumprimento à decisão da Superior Instância, embora tenha mantido a negativa de provimento do apelo ministerial, apenas agregando dois fundamentos ao voto anteriormente lançado.
+Cabe ainda transcrever a ementa do referido julgado:
+EMBARGOS DE DECLARAÇÃO. DECISÃO DE IMPRONÚNCIA. APELO MINISTERIAL DESPROVIDO. RECURSO ESPECIAL. DECISÃO MONOCRÁTICA PROFERIDA NO STJ. APLICAÇÃO DO ART. 155 DO CPP ÀS DECISÕES DE PRONÚNCIA. NOVO JULGAMENTO COM O MESMO RESULTADO, COM O ACRÉSCIMO DE DOIS FUNDAMENTOS À MOTIVAÇÃO DO ARESTO ANTERIORMENTE PROFERIDO. ALEGAÇÃO DE DESCUMPRIMENTO DA DECISÃO SUPERIOR. IMPROCEDÊNCIA. ACUSAÇÃO INJUSTA, ALÉM DE DESELEGANTE, DE RECALCITRÂNCIA DESTA 1ª CÂMARA CRIMINAL. APARENTE RECALCITRÂNCIA DO MINISTÉRIO PÚBLICO, AO PRETENDER UMA DECISÃO DE PRONÚNCIA QUE SE AFIGURA INVIÁVEL.
+Embargos declaratórios desacolhidos.
+Ademais, considerando que o pedido se confunde com o próprio mérito da reclamação, deve-se reservar ao órgão competente a análise mais aprofundada da matéria por ocasião do julgamento definitivo.
+Ante o exposto, indefiro o pedido de liminar.
+Dê-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
