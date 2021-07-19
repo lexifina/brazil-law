@@ -1,0 +1,14 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+Gabinete do Desembargador Luiz Ferreira da Silva
+GABINETE DO DES. LUIZ FERREIRA DA SILVA
+RECURSO EM SENTIDO ESTRITO (426)
+1012656-57.2021.8.11.0000
+RECORRENTE: SAMUEL ALVES DOS SANTOS
+RECORRIDO: MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO
+Vistos.
+À Procuradoria-Geral de Justiça para emissão de parecer.
+Cumpra-se.
+Cuiabá, 19 de julho de 2021.
+Desembargador LUIZ FERREIRA DA SILVA
+Relator
