@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por DOMINGOS MARCANTE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - PRELIMINARES DE CONTRARRAZÕES - PRECLUSÃO - ACOLHIDA - INOVAÇÃO RECURSAL - RECONHECIDA - NO MÉRITO - A DIVISIBILIDADE DO IMÓVEL EM RELAÇÃO A SUA UTILIDADE E ATIVIDADE DESENVOLVIDA - POSSIBILIDADE - DECISÃO MANTIDA - RECURSO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO.
+Verificado que a questão da divisão cômoda do imóvel rural foi definida em decisão interlocutória anterior que não enfrentou recurso, deve ser reconhecida a preclusão da matéria.
+Não deve ser conhecido o recurso fundamentado em questão nova, não apresentada e decidida pelo juízo de origem. Inovação recursal configurada.
+Comprovado por meio de laudo pericial que a divisão do imóvel não afetará a atividade de psicultura desenvolvida na localidade, não existe afronta, risco ou prejuízo à utilidade e produtividade do bem.
+Quanto à controvérsia, alega violação do art. 65 da Lei n. 4.504/64 e dos arts. 182, § 2º, e 186, I a IV, da CF/88, relativo à impossibilidade de divisão de imóvel em extensão inferior ao módulo rural, trazendo, em síntese, os seguintes argumentos:
+71. O reconhecimento de área inferior ao módulo rural é de ordem pública e merece ser apreciada a qualquer tempo, portanto, não há que se falar em inovação recursal.
+ ..
+74. Assim, demonstrado que a área a ser destacada é menor do que o módulo previsto para a Comarca de Dourados, MS, há que se entender pela impossibilidade de se destacar parte ideal do imóvel, conforme pretendido pelo Recorrido. (fl. 96).
+É, no essencial, o relatório. Decido.
+Na espécie, é incabível o recurso especial quando visa discutir violação de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ademais, incidem os óbices das Súmulas n. 282/STF e 356/STF, porquanto, a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Destarte: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+A propósito: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
