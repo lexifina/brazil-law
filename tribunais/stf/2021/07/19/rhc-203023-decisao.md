@@ -1,0 +1,29 @@
+Recurso ordinário em habeas corpus. Crimes de sonegação ou destruição de correspondência e falsificação de documento particular. Alegada prescrição da pretensão punitiva. Inocorrência. Reexame de fatos e provas. Impossibilidade. Manifesta ilegalidade ou teratologia não identificadas. Negativa de seguimento.
+    Vistos etc.
+    Trata-se de recurso ordinário em habeas corpus interposto por Jose Luis Vargas contra acórdão do Superior Tribunal de Justiça, da lavra do Ministro Antônio Saldanha Palheiro, que negou provimento ao agravo regimental no HC 615.420/SC.
+    O Recorrente foi condenado, no regime inicial aberto, às pena de 03 (três) anos, 08 (oito) meses e 11 (onze) dias de detenção pela prática dos crimes de sonegação ou destruição de correspondência (art. 40, § 1°, da Lei 6.538/78) e 01 (um) ano e 08 (oito) meses de detenção, pela prática do delito de falsificação de documento particular (art. 298, do Código Penal).
+    Extraio do acórdão recorrido:
+    “PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 298 DO CÓDIGO PENAL. PRESCRIÇÃO. INTERRUPÇÃO. CRIMES CONEXOS.
+    1. O comando legal do art. 117, § 1º, in fine, do Código Penal revela-se imperativo ao determinar que, em se tratando de crimes conexos, submetidos ao mesmo processo, eventual causa interruptiva que incida quanto a um deles – in casu, a sentença condenatória quanto ao crime previsto na Lei de Licitações – estender-se-á aos demais delitos integrantes da denúncia.
+    2. Agravo regimental desprovido.”
+    No presente recurso ordinário, afirma o Recorrente, em síntese, a ocorrência da prescrição da pretensão punitiva estatal referente ao crime do art. 298 do Código Penal, porquanto transcorrido o lapso de 3 (três) anos, previsto no art. 109, inciso VI, do Código Penal, entre o recebimento da denúncia (16.12.2014) e a publicação do acórdão condenatório (16.8.2018). Requer, no mérito, seja declarada a ‘prescrição da pretensão punitiva quanto ao delito do art. 298 do Código Penal’.
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Alcides Martins, opina pelo não provimento do presente recurso ordinário em habeas corpus (evento 7).
+    É o relatório.
+    Decido.
+    O Tribunal de Justiça de Santa Catarina assentou que ‘[c]onforme positivado no art. 117, § 1°, do Código Penal, "nos crimes conexos, que sejam objeto do mesmo processo, estende-se aos demais a interrupção [do prazo prescricional] relativa a qualquer deles". Embora o Agravante José Luis Vargas tenha sido absolvido, em Primeira Instância, da imputação referente ao delito previsto no art. 298 do Código Penal, ele foi condenado, por sentença publicada em 4.8.16, por infração ao disposto nos arts. 96, V, da Lei 8.666/93; 342 do Código Penal; e 40, § 1°, da Lei 6.538/78 (fls. 29-77 do PEP)’
+    Outra não foi a conclusão a que chegou, no âmbito do Superior Tribunal de Justiça, o Ministro Antônio Saldanha Palheiro, em cujo acórdão – ora impugnado – deixou registrado que ‘[t]endo sido o agravante condenado em primeiro grau por delito conexo, há a interrupção da prescrição em relação a todos os delitos descritos na denúncia, pouco importando a absolvição em relação a qualquer deles, como no caso em exame’.
+    Nesse prisma, as decisões das instâncias anteriores encontram-se em harmonia com a jurisprudência desta Suprema Corte, cujos precedentes orientam-se no sentido de que ‘[a] teor do disposto na segunda parte do § 1º do artigo 117 do Código Penal, nos crimes conexos, que sejam objeto no mesmo processo, estende-se aos demais a interrupção concernente a qualquer deles’ (HC 71.983/SP, Rel. Min. Marco Aurélio, Segunda Turma, DJ 31.5.1996).
+    No mesmo sentido:
+    ”AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. HABEAS CORPUS. PENAL. FALSIDADE IDEOLÓGICA, USO DE DOCUMENTO FALSO E CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. ALEGAÇÃO DE PRESCRIÇÃO DA PRETENÇÃO PUNITIVA. PEDIDO MANIFESTAMENTE CONTRÁRIO À JURISPRUDÊNCIA DOMINANTE: PRECEDENTES. DECISÃO AGRAVADA MANTIDA. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+    1. A jurisprudência deste Supremo Tribunal Federal é firme no sentido de que nos crimes conexos, que sejam objeto no mesmo processo, estende-se aos demais a interrupção concernente a qualquer deles. Precedentes.
+    2. Os marcos prescricionais interruptivos que se verificaram tanto na sentença penal condenatória, que condenou o Agravante tão-somente pelo primeiro delito conexo, quanto no acórdão proferido pela Tribunal Regional Federal da 4ª Região, que também condenou o Agravante pelo segundo crime conexo, servem para afastar a prescrição da pretensão punitiva.
+    3. Agravo regimental ao qual se nega provimento.
+    (HC 130.227-AgR/PR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 15.6.2016)
+    Nesse sentido, ressaltou o parecer ministerial que ‘o acórdão recorrido apenas conferiu aplicação ao disposto no art. 117, § 1º, do Código Penal’.
+    Paralelamente, para concluir em sentido diverso, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Esta Suprema Corte já assentou que ´ação de habeas corpus de caráter sumaríssimo constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise aprofundada da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos indiciários e/ou coligidos no procedimento penal (HC 92.887/GO, Rel. Min. Celso de Mello, 2ª Turma, DJe 19.12.2012).
+    Inexistente, pois, manifesta ilegalidade ou arbitrariedade no ato hostilizado passível de correção na presente via.
+    Ante o exposto, nego seguimento ao presente recurso ordinário em habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 19 de julho de 2021.
+Ministra Rosa Weber
+Relatora
