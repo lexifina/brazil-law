@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de reclamação com pedido de liminar ajuizada por LEONARDO SOUZA SANTANA contra decisão do JUIZ DE DIREITO DA VARA DE EXECUÇÃO CRIMINAL DE PRESIDENTE PRUDENTE - SP na Execução Provisória n. 0003730-52.2017.8.26.0154.
+O reclamante alega que "o Ilustre Juiz, indeferiu o pedido de progressão ao regime semiaberto, com fundamento único e exclusivo de que o reeducando não cumpriu o requisito subjetivo, devido a gravidades dos crimes e a pena longa a cumprir" (fl. 4), contrariandoo entendimento jurisprudencial já pacificado no STJ.
+Sustenta queatingiu o lapso temporalpara fins do direito a progressão de regime semiaberto e cumpriu também o requisito subjetivo, devendo ser deferido o direito a progressão ao regime semiaberto.
+Requer, liminarmente,seja provida a presente reclamação para sustar os efeitos da decisão que contraria frontalmente orientação judicialdeste Tribunal Superior, para concessão da progressão de regime semiaberto, ou para que o juízo revise a decisão sem levar em consideração a pena longa e a gravidade dos delitos. Subsidiariamente, pleiteia que sejaconcedido habeas corpus de ofício.
+É, no essencial, o relatório. Decido.
+A reclamação prevista no art. 105, I,f, da Constituição Federal é garantia constitucional destinada à preservação da competência do Superior Tribunal de Justiça ou para garantir a autoridade de suas decisões em caso de descumprimento ou de cumprimento em desacordo com os limites do julgado aqui proferido.
+Contudo, o pleitonão se enquadra em nenhuma das hipóteses de cabimento de reclamação, uma vez que inexiste decisão desta Corte proferida no caso concreto e sendo descumprida.
+Importa asseverar que, conforme jurisprudência do STJ, não é possível a interposição de reclamação como sucedâneo recursal para dirimir divergência jurisprudencial:
+A reclamação constitucional não é a via adequada para preservar a jurisprudência do STJ, mesmo que firmada em recurso repetitivo, mas sim a autoridade de suas decisões tomadas no próprio caso concreto.(AgRg na Rcl n. 25.299/SP, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 4/12/2015.)
+A reclamação constitucional não é instrumento útil para adequar os julgados do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, mesmo que proferidos em sede de recurso repetitivo. Tal procedimento se destina a fazer cumprir decisão proferida em caso concreto que envolva as partes postas no litígio do qual oriundo a reclamação.(AgRg na Rcl n. 22.505/SP, Segunda Seção, relator Ministro Ricardo Villas Bôas Cueva, DJe de 15/4/2015).
+Assim, inexistindo acórdão do Superior Tribunal de Justiça no caso concreto, não há falar em admissibilidade da reclamação em análise, por ausência de pressuposto formal da ação.
+Ante o exposto, indefiro liminarmente a reclamação.
+Publique-se e intime-se.
