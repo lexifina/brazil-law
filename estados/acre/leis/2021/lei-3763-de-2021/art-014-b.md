@@ -1,0 +1,1 @@
+Art. 14-B. Verificado algum impedimento, o Deputado proponente poderá requerer à Comissão de Orçamento e Finanças a alteração da destinação da destinação do respectivo valor. (Incluído pela Lei nº 3.910, de 19/01/2022)
