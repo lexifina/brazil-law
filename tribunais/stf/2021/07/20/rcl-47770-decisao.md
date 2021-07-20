@@ -1,0 +1,17 @@
+RECLAMAÇÃO. TERCEIRIZAÇÃO. REALIZAÇÃO DE SERVIÇOS DA ATIVIDADE-FIM. ADPF Nº 324. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE 10. ART. 25, § 1º, DA LEI 8.987/95. HOMOLOGAÇÃO DE ACORDO FIRMADO ENTRE AS PARTES NA ORIGEM. PERDA SUPERVENIENTE DO OBJETO. RECLAMAÇÃO PREJUDICADA.
+    Vistos etc.
+    1. Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada por AeC Centro de Contatos S/A, com fulcro no art. 102, I, “l”, da Constituição Federal, nos arts. 988 e seguintes do CPC e nos arts. 156 e seguintes do RISTF, contra acórdão proferido pelo Tribunal Regional do Trabalho da 3ª Região nos autos do processo nº 0001204- 46.2014.5.03.0013, à alegação de afronta à Súmula Vinculante 10 e às decisões deste Supremo Tribunal Federal exaradas na ADPF 324/DF e no RE 958.252-RG (Tema 725 da sistemática da repercussão geral).
+    2. A reclamante sustenta que a Corte reclamada, embora tenha consignado a ocorrência de terceirização lícita da atividade-fim, reconheceu à empregada o direito à isonomia com os empregados da tomadora de serviços. Explica que, dessa forma, o resultado do julgamento dos embargos de declaração equivale à negativa de vigência ao art. 25, § 1º, da Lei nº 8.987/1995 e ao art. 94, II, da Lei 9.472/1997, sem, contudo, declarar a inconstitucionalidade dos mencionados dispositivos, em vulneração à Súmula Vinculante 10.
+    Defende, ainda, que o acolhimento da tese obreira infringiu a autoridade das decisões desta Suprema Corte exaradas tanto na ADPF 324/DF quanto no RE 958.252-RG, segundo as quais é lícita a terceirização da atividade-fim do tomador de serviços.
+    3. A medida liminar foi deferida para suspender os efeitos da decisão impugnada até a decisão final na presente reclamação.
+    4. A autoridade reclamada prestou informações, nas quais assinala que houve a celebração de acordo entre as partes.
+    É o relatório.
+    Decido.
+    1. Extraio das informações prestadas pela autoridade reclamada que, posteriormente à concessão da medida liminar nesta reclamação, houve celebração de acordo entre as partes. Consoante registra a autoridade reclamada, “o acordo judicial em comento foi bastante amplo, uma vez que as partes outorgaram quitações recíprocas pelo objeto do pedido, pela extinção do contrato de trabalho e pela relação jurídica havida entre as partes, inclusive com extensão à empresa Claro S.A. Vale destacar que dele também constou expressamente a desistência em relação ao recurso interposto pela AeC Centro de Contatos S.A. e a perda de objeto do recurso aviado pela Claro S.A”.
+    2. O pedido formulado na inicial colimava a adequação da decisão reclamada ao entendimento desta Casa proferido ao julgamento da ADPF nº 324 e do RE 958.252-RG, bem como afastar a violação da Súmula Vinculante nº 10.
+    3. Diante do acordo celebrado na origem não mais subsiste o ato reclamado apontado na inicial, a implicar a perda de objeto da presente reclamação. Nesse sentido, entre outros: Rcl 36760, da minha lavra, DJe 16.6.2020; Rcl 25526, da minha lavra, DJe 02.12.2016; Rcl 11197, rel. Min. Cármen Lúcia, DJe 18.2.2011; Rcl 7396, rel. Min. Dias Toffoli, DJe 27.10.2011; e Rcl 3802, rel. Min. Gilmar Mendes, DJ 29.3.2006.
+    4. Ante o exposto, forte no art. 21, IX, do RISTF, assento o prejuízo da reclamação, extinguindo o processo sem resolução de mérito, com a insubsistência da liminar deferida.
+    Intimem-se. Publique-se.
+    Brasília, 20 de julho de 2021.
+Ministra Rosa Weber
+Relatora
