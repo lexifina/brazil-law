@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de JOÃO RIBEIRO DE OLIVEIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Habeas Corpus n. 0160751-21.2021.8.19.0001).
+O paciente, denunciado pela prática, em tese, do crime previsto no art. 2º, caput, § 2º e § 4º, II e IV, da Lei n. 12.850/2013, encontra-se preso preventivamente para garantia da ordem pública, da aplicação da lei penal e por conveniência da instrução criminal, uma vez que, consoante o decreto prisional, as circunstâncias dos fatos apurados demonstram inequívoca gravidade em concreto, notadamente pela natureza, complexidade e estrutura da organização criminosa desarticulada, havendo, ainda, a necessidade de interromper a atividade ilícita, de evitar a reiteração e de preservar a incolumidade física de testemunhas.
+Os impetrantes sustentam a inidoneidade dos fundamentos apresentados para justificar o encarceramento provisório do paciente, sobretudo por falta de suficiente amparo fático-probatório.
+Alegam que o decreto prisional ampara-se em simples presunção de que, solto, o paciente representa risco aos bens jurídicos tutelados pelo art. 312 do Código de Processo Penal.
+Afirmam a possibilidade de substituição da prisão pelas medidas cautelares diversas do art. 319 do CPP, aduzindo que o paciente possui condições pessoais favoráveis.
+Por fim, asseveram que, também, é possível substituir a prisão preventiva por prisão domiciliar, levando-se em consideração o atual estado de saúde do paciente, recém operado para a desobstrução coronariana e colocação destents, acometido, ainda, de complicações pré e pós-operatórias.
+Aduzem a necessidade de aplicação das diretrizes estabelecidas na Recomendação CNJ n. 62/2020.
+Requerem, liminarmente, a liberdade provisória do paciente, ainda que mediante medidas cautelares diversas da prisão,com a expedição do alvará de soltura. No mérito, pugna pela concessão da ordem para que seja confirmada a liminar ou, de forma alternativa, a substituição da prisão preventiva por prisão domiciliar.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA.FUNDAMENTAÇÃO. INDEFERIMENTO DA LIMINAR NO WRIT ORIGINÁRIO. SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL - STF. DOMICILIAR. PAI DE CRIANÇA. AUSÊNCIA DE DEMONSTRAÇÃO DOS REQUISITOS PREVISTOS NO ART.318, VI, DO CÓDIGO DE PROCESSO PENAL - CPP. AUSÊNCIA DE ILEGALIDADE PATENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos expostos na decisão agravada, não se constata nos autos constrangimento ilegal patente, apto a justificar a superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal - STF.
+2. Quanto ao pleito de prisão domiciliar, conforme consta da decisão proferida pelo Tribunal de origem, sequer ficou demonstrado que o paciente seria o único guardião da criança, não estando supridas as exigências do art. 318, VI, do CPP.
+3. Agravo regimental desprovido.
+(AgRg no HC 672.703/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/06/2021, DJe 24/06/2021)
+Confira-se, também, a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, sobretudo porque, conforme aduzido na decisão impetrada, "o quadro de saúde apresentado pelo denunciado, por si só, não se presta à tal desiderato, haja vista que o laudo médico então colacionado não indica, de forma pormenorizada, risco iminente à sua integridade física, cuja comprovação, em primeira análise, demanda maior dilação probatória, incompatível com a via eleita, lembrando, ainda, que pleito sequer chegou a ser analisado pelo Juízo competente" (e-STJ fl. 397).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
