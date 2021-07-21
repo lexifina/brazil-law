@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. SERVIDORA PÚBLICA DA UERJ. ADICIONAL NOTURNO. ART. 7º, IX e 39, § 3º DA CRFB/88. NORMAS DE EFICÁCIA PLENA. OMISSÃO LEGISLATIVA QUE NÃO IMPEDE O RECONHECIMENTO DO DIREITO AO ADICIONAL. APLICAÇÃO DO PERCENTUAL DE 20% PREVISTO NA CLT, CONFORME DECIDIDO PELO ÓRGÃO ESPECIAL EM MANDADO DE INJUNÇÃO SOBRE O TEMA. COMPATIBILIDADE COM O REGIME DE PLANTÃO. SUM. 213 DO STF. PRECEDENTES DO STJ E DO TJRJ. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. APLICAÇÃO DO §11º, ARTIGO 85, DO CPC. NEGADO PROVIMENTO AO RECURSO” (pág. 1 do documento eletrônico 5).
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, violação dos arts. 2°; 37, caput; 39, § 3°; 61, § 1°, II, c; e 169, § 1°, da mesma Carta, sob o argumento de que
+    “[...] o pagamento do adicional noturno aos servidores do Estado do Rio de Janeiro depende da edição de lei regulamentadora estadual – ainda inexistente – já que o comando constitucional que prevê o seu pagamento possui eficácia limitada e não cabe o pagamento de quaisquer vantagens remuneratórias a servidores públicos sem prévia dotação em lei orçamentária e prévia autorização específica na lei de diretrizes orçamentárias” (pág. 5 do documento eletrônico 7).
+    A pretensão recursal merece acolhida.
+    Isso porque o acórdão recorrido diverge da jurisprudência desta Corte firmada no sentido de que cabe à legislação infraconstitucional, com observância das regras de competência de cada ente federado, a disciplina da extensão aos servidores públicos civis dos direitos sociais estabelecidos no art. 7° do Texto Constitucional. Com essa orientação, sobre a mesma questão ora em exame, destaco julgados de ambas as Turmas deste Tribunal cujas ementas transcrevo a seguir:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. ADICIONAL NOTURNO. NECESSIDADE DE LEI QUE REGULAMENTE A MATÉRIA. PRECEDENTES.
+    1. O entendimento do Supremo Tribunal Federal (STF) orienta-se no sentido de que cabe à legislação infraconstitucional, com observância das regras de competência de cada ente federado, a disciplina da extensão aos servidores públicos civis dos direitos sociais estabelecidos no art. 7º do Texto Constitucional. Precedentes.
+    2. A Súmula Vinculante 37 veda ao Poder Judiciário a majoração de vencimentos de servidores públicos, com base no princípio da isonomia.
+    3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. Com a ressalva do deferimento da assistência judiciária gratuita, nos termos do art. 98, § 3º, do CPC/2015.
+    4. Agravo interno a que se nega provimento” (RE 630.918 AgR-segundo/RJ, Rel. Min. Roberto Barroso, Primeira Turma) .
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDORES PÚBLICOS DA UNIVERSIDADE ESTADUAL DO RIO DE JANEIRO – UERJ. ADICIONAL NOTURNO. EXTENSÃO DE DIREITOS SOCIAIS A SERVIDORES PÚBLICOS. NECESSIDADE DE LEGISLAÇÃO INFRACONSTITUCIONAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1.308.791-AgR/RJ, Rel. Min. Cármen Lúcia, Segunda Turma).
+    Isso posto, conheço do recurso extraordinário e dou-lhe provimento. Invertidos os ônus da sucumbência.
+    Publique-se.
+    Brasília, 21 de julho de 2021.
+Ministro Ricardo Lewandowski
+Relator
