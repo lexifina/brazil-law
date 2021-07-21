@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de JAZON HENRIQUE FERNANDES TEIXEIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA (HC n. 0805608-25.2021.8.22.0000).
+O paciente foi preso preventivamente pela suposta prática do crime previsto no art. 16 da Lei n. 10.826/2003.
+Oimpetrantesustentaausência de necessidade da prisão cautelar do acusado, por se tratar de crime de menor potencial ofensivo, cuja ação penal segue trâmite regular.
+Alega que os predicados pessoais do paciente lhe permitiriam responder ao processo em liberdade.
+Requer, liminarmente e no mérito, a revogação da custódia cautelar do paciente.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. APREENSÃO DE QUASE 3kg DE MACONHA. WRIT IMPETRADO CONTRA DECISÃO QUE
+INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a prisão preventiva foi decretada em razão da periculosidade social do agravante, evidenciada a partir das circunstâncias concretas colhidas do flagrante, notadamente pela apreensão de expressiva quantidade de droga - quase 3kg de maconha.Precedentes. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+3. Agravo regimental desprovido.(AgRg no HC 629.203/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020;sem grifos no original)
+Confira-se, também, a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto a autoridade impetrada, ao indeferir a liminar nomandamusoriginário, fundamentou suficientemente a manutenção da custódia do pacientenos seguintes termos (fl. 22):
+Como se sabe, nesta fase processual, frente a natureza excepcional da medida cautelar, para a concessão do pedido liminar, requer-se relevante convencimento por meio das circunstâncias fáticas que devem ser capazes de conduzir à concessão de forma inconteste, vedada a análise acurada de provas, consoante assentado solidamente pela jurisprudência (STF HC 103142).
+Colhe-se dos autos que em 11/06/2021, ao dar cumprimento à mandado de busca e eventual apreensão autos n. 000005-32.2021.8.22.0023, foi localizado na residência do paciente, localizada na Av. Alcides Linhares, n. 348, casa de madeira, bairro Cidade Alta, próximo ao Detran em Seringueiras, foram apreendidas: 01 (uma) mira holográfica (assessório armamento); 01 (um)cartucho deflagrado de munição calibre .32; 03 (três) cartuchos deflagrados de munição calibre .28;01(um) cartucho intacto calibre .762; 04 (quatro) cartuchos intactos calibre .22; 01 (uma) espingarda de cano duplo sem marca e numeração aparente calibre .28; 01 (uma) garrucha cano duplo, calibre.32, sem marca sem numeração aparente; apetrechos para carregar cartuchos; e 01 (um) adaptador para espingarda calibre .36 deflagrar munição calibre .22.
+O paciente foi preso em flagrante em 11/06/2021 e convertida em preventiva em 12/06/2021,quando da realização de audiência de custódia, sob o fundamento de necessidade de garantia da ordem pública.
+Assim, pelo menos em juízo de cognição sumária, o caso noticiado nos autos não se enquadra nas hipóteses excepcionais passíveis de deferimento do pedido em caráter de urgência, por não se verificar situação configuradora de abuso de poder ou de manifesta ilegalidade, razão pela qual, indefiro o pedido de liminar, ressalvando melhor juízo quando do julgamento do mérito do habeas corpus.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
