@@ -1,0 +1,41 @@
+RAI n. 1012926.81.2021.811.0000
+Vistos, etc...
+Trata-se de Recurso de Agravo de Instrumento com pedido liminar interposto por ELSIO CARLOS GAZONI, em face da decisão proferida pelo Juízo de Direito da 2a Vara Cível da Comarca de Comodoro/MT, que nos autos da Ação de Execução de Título Extrajudicial no 0000840-06.2011.811.0046, Código: 36145, 174-2011 (12557511), rejeitou a pretensão na exceção de pré-executividade.
+Sustenta o agravante que no caso em questão, houve perda da pretensão executiva, visto que transcorreu o prazo prescricional de 3 (três) anos, eis que o título executivo venceu em 15.06.2007, em virtude do vencimento antecipado da primeira parcela do aditivo de retificação e ratificação; bem como, a ação foi autuada em 27.12.2010.
+Assevera acerca da ausência de juntada de documentos imprescindíveis para o deslinde da ação e, da não apresentação do recálculo e demonstrativo de débito atualizado, sendo que o Agravado apenas juntou à fls. 58 um simples e breve resumo de cálculo, o qual não encontra-se pormenorizado e com o demonstrativo de todo o cálculo para obter o valor final, ora R$ 298.906,36 (duzentos e noventa e oito mil novecentos e seis reais e trinta e seis centavos), devendo ser indeferida a inicial.
+Argumenta que, detidamente explicitado em exceção de pré-executividade, à fl. 39 da Carta Precatória de no 0801373-69.2018.8.12.0009, o Agravante não fora intimado da penhora e avaliação, visto que o mesmo encontrava-se em viagem e o mandado estava com carga vencida para o oficial de justiça; o que configura cerceamento de defesa visto que este pressupõe obstáculo que o juiz, ou outra autoridade, opõe ao litigante para impedir que pratique, ou sejam praticados, atos que lhe deem guarida aos seus interesses na lide.
+Aduz que, a cédula de crédito rural deve ser considerada nula, em razão da ausência de outorga uxória.
+Por fim, argumenta que fora alegado que o contrato entabulado entre as partes não se refere à relação de consumo, vez que a relação jurídica havida entre o mesmo não se reveste das características existentes entre fornecedor e consumidor final. No entanto, a Súmula no 297 é clara ao afirmar que o Código de Defesa do Consumidor é aplicável às instituições financeiras; portanto, deve ser declarado como foro competente para esta ação o da Comarca de Costa Rica/MS, domicílio do Agravante, restabelecendo o equilíbrio contratual e zelando pelos princípios da boa-fé, equidade e função social dos contratos.
+Requer seja atribuído efeito suspensivo ao presente Agravo de Instrumento, ante as provas inequívocas dos fatos alegados, para modificar a r. decisão que rejeitou a pretensão posta na exceção de pré executividade, para o fim de: declarar a prescrição trienal do débito, em razão do vencimento antecipado da dívida; impelir o Agravado a apresentar demonstrativo atualizado do débito; declarar nula a cédula rural de crédito, em virtude de ausência de outorga uxória; declarar como foro competente para esta ação o da Comarca de Costa Rica/MS, por tratar-se de domicílio do Agravante e declarar nula a penhora e avaliação realizada, haja vista a ausência de intimação do Agravante; ao final pelo provimento do presente recurso, a fim de confirmar o efeito suspensivo ativo, para que seja modificada a r. decisão de fls. 373-374, com o intuito de que seja acolhida as teses da exceção de pré-executividade trazidas no pedido acima.
+É o relatório.
+Decido.
+A concessão do efeito suspensivo condiciona-se à relevância da fundamentação formulada pelo agravante, bem como à possibilidade de lesão grave e de difícil reparação, nos termos dos artigos 995, § único, do Código de Processo Civil:
+“Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão”;
+Assim, a concessão da antecipação da tutela recursal ou a suspensão do processo, prevista no artigo 1.019, inciso I, do Novo Código de Processo Civil, exige a prova inequívoca do alegado, além dos requisitos mencionados no artigo 300, do Novo Diploma Processual.
+Pois bem. É incontestável a relevância das argumentações da Agravante, todavia, para fins de apreciação preliminar, há que se ater aos termos e fundamentação adotada pela decisão interlocutória combatida, destacando-se a seguinte parte da decisão que, a meu viso, “a priori”, justifica a medida tomada pelo Juízo singular:
+“(...)Da Prescrição.
+Conforme se verifica na cédula de crédito rural objeto da presente execução, o vencimento da última parcela ocorrera em 15/06/2011, e a execução, em contrapartida, fora ajuizada no dia 21/03/2011, ou seja, sem que tenha havido o decurso do prazo prescricional trienal.
+Da inépcia da inicial.
+Conforme consta dos autos, a carta precatória encaminhada para penhora, avaliação restou frutífera, entretanto a intimação do executado não foi efetivada de imediato, em razão de o mesmo estar em viagem, conforme págs. 294/299.
+Não obstante, não houve qualquer ato expropriatório até o momento, de forma que não há prejuízo ao executado.
+Ressalto que, diante da apresentação posterior ao ato da penhora por advogado constituído pelo próprio executado, reputo como intimado da penhora o executado, de forma que validado o ato judicial.
+Da ausência de outorga uxória.
+Igualmente improcede tal pleito, uma vez que a ausência de outorga uxória não é suficiente para provocar a nulidade da cédula de crédito rural, ainda que ofertado bem em garantia, vez que nos termos do artigo 1.650 do Código Civil, a decretação da invalidade dos atos praticados sem a outorga só poderá ser demandada pelo cônjuge a quem cabia concedê-la.
+Ademais, o executado sequer comprovou seu regime de casamento para então, trazer aos autos tal alegação, sendo incumbência exclusiva do Excipiente trazer aos autos a prova constitutiva do seu direito, considerando que há regime de casamento que dispensa a outorga.
+Da nulidade da cláusula de foro de eleição.
+Em se tratando de competência territorial que é, de regra, relativa, nos termos do art. 111, do CPC, tenho que a incompetência do juízo só pode ser arguida pelo réu, por meio de exceção, como foi no caso dos autos nos termos do art. 112, do mesmo Códex. Indevida, portanto, a declarar ação de ofício, nos termos da Súmula 33, do STJ, que assim dispõe: “A incompetência relativa não pode ser declarada de ofício”.
+O contrato entabulado entre as partes não se refere à relação de consumo, vez que a relação jurídica havida entre reconvinte e reconvindo não se reveste das características existentes entre fornecedor e consumidor final.
+Ademais, a súmula 335 do Excelso STF é clara quanto à eficácia da cláusula de eleição de foro em contratos:
+[...] “É válida a cláusula de eleição do foro para os processos oriundos do contrato” (grifos nossos).
+Sendo modificável a competência territorial por vontade das partes, inserta em cláusula contratual, há de prevalecer o que foi convencionado.
+Isso posto, REJEITO a pretensão posta na exceção de pré-executividade. (...)”.
+Assim, não considero preenchidos os requisitos necessários ao deferimento liminar do pedido, notadamente no que se refere à relevância da fundamentação.
+Posto isso, ausentes os requisitos necessários para a sua concessão, INDEFIRO, pois, o efeito almejado, ficando assim acertado, até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, possa decidir com certeza e segurança sobre o mérito do recurso.
+Comunique-se o juízo a quo, facultando-lhe prestar informações.
+Intime-se a parte agravada para, querendo, no prazo legal, apresentar contrarrazões ao recurso.
+Cumpra-se.
+Des. Sebastião BARBOSA FARIAS
+Relator
