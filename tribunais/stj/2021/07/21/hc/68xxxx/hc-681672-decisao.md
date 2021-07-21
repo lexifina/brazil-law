@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de DOUGLAS ALBERTO TEIXEIRA DA SILVA e JONATAN LUIZ BERNARDO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (HC n. 5037805-24.2021.8.24.0000/SC).
+Os pacientes foram presos em flagrante como incursos nos arts. 33 e35, da Lei n. 11.343/2006, tendo a custódia sido convertida em preventiva.
+As impetrantes sustentam a necessidade de flexibilização da Súmula 691 do Supremo Tribunal Federal, diante do constrangimento ilegal que os pacientes vêm sofrendo, decorrente da ausência de justa causa para a manutenção da segregação cautelar.
+Realçam as condições pessoais favoráveis dos pacientes e alegam que o decreto constritivo careceria de fundamentação idônea, tendo sido embasado apenas na gravidade abstrata do delito, reputando ausentes os requisitos previstos no art. 312 do Código de Processo Penal.
+Requerem, liminarmente e no mérito, a concessão da ordem para que seja revogada a prisão preventiva dos pacientes, com a expedição de alvará de soltura, para que possam responder ao processo em liberdade.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência deste Sodalício firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. APREENSÃO DE QUASE 3kg DE MACONHA. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO.SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a prisão preventiva foi decretada em razão da periculosidade social do agravante, evidenciada a partir das circunstâncias concretas colhidas do flagrante, notadamente pela apreensão de expressiva quantidade de droga - quase 3kg de maconha.
+Precedentes. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+3. Agravo regimental desprovido.
+(AgRg no HC 629.203/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020)
+Confira-se, também, a Súmula n. 691 do Supremo Tribunal Federal: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+E, no caso, em juízo sumário, não visualizo manifesta ilegalidade queautorize o afastamento do mencionado verbete, porquanto a autoridade impetrada, ao indeferir a liminar no writ originário, fundamentou suficientemente a manutenção da custódia dos pacientes nos seguintes termos (e-STJ fls. 62/63):
+"Constata-se dos autos originários que a Magistrada a quo, depois de colhidas as manifestações da defesa (Evento 15, PET1, e Evento 17, PET1) e do órgão do Ministério Público (Evento 20, PROMOÇÃO1), justificou a conversão da prisão em flagrante em preventiva, apontando o preenchimento de seus pressupostos legais, notadamente a existência de prova da materialidade e indícios suficientes da autoria, e a necessidade de salvaguardar a ordem pública e a aplicação da lei penal (Evento 21, DESPADEC1).
+Para tanto, ponderou a gravidade concreta das condutas, reveladora do risco de reiteração criminosa, dada a apreensão de grande quantidade de drogas (13,5kg de maconha), além de R$ 3.599,00 em espécie e um coldre de arma de fogo, e os indicativos da prática associada e estável da mercancia proscrita. Destacou, ainda, que os pacientes poderiam obstar a responsabilização penal, uma vez que tentaram fugir durante a abordagem policial.
+Já no curso da ação penal, o pedido de revogação foi indeferido em virtude da inexistência de alteração fática e persistência dos requisitos autorizadores (Evento 74,DESPADEC1, dos autos n. 5011132-89.2021.8.24.0033).
+Com efeito, em uma análise perfunctória, não se vislumbra flagrante ilegalidade a justificar a concessão liminar do pedido de ordem, porquanto a fundamentação exposta aparentemente atende aos pressupostos do art. 312 do Código de Processo Penal.
+Vale lembrar que, consoante o Superior Tribunal de Justiça, "as circunstâncias fáticas do crime, como a grande quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade" (RHC n. 139.897/SP, rel. Min. Reynaldo Soares da Fonseca, j. em 2/2/2021).
+Logo, não há constrangimento ilegal que possa ser reconhecido de pronto.
+III Pelo exposto, INDEFERE-SE a liminar".
+Ante o exposto, com fundamento no art. 21, inciso XIII, alínea c, c/c o art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
