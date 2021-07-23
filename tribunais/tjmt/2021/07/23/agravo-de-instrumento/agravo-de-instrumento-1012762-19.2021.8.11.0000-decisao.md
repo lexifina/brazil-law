@@ -1,0 +1,29 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO (202) No 1012762-19.2021.8.11.0000
+AGRAVO DE INSTRUMENTO no 1012762-19.2021.8.11.0000
+AGRAVANTE: MA INVESTIMENTOS E PARTICIPAÇÕES LTDA.
+AGRAVADO: JOSÉ SALGUEIRO LOURENÇO, ALICE ANDREONI LOURENÇO E VERCOM VERTENTE GRANDE AGROPECUÁRIA E CONSTRUTORA LTDA.
+Processo na Origem no 1001862-96.2021.8.11.0025.
+Comarca da Juína.
+Agravo de Instrumento interposto por MA INVESTIMENTOS E PARTICIPAÇÕES LTDA, de decisão que indeferiu a antecipação da tutela.
+AÇÃO: Ação Declaratória c/c Querela Nullitatis com pedido de antecipação de tutela (Proc. n° 1001862-96.2021.8.11.0025) que MA INVESTIMENTOS E PARTICIPAÇÕES LTDA propôs contra JOSÉ SALGUEIRO LOURENÇO, ALICE ANDREONI LOURENÇO E VERCOM VERTENTE GRANDE AGROPECUÁRIA E CONSTRUTORA LTDA.
+DECISÃO AGRAVADA: indeferiu o pedido de tutela requerida em caráter antecedente, por meio da qual buscava suspender o cumprimento da decisão de imissão na posse proferida na ação reivindicatória e que fosse expedido ofício ao INTERMAT para se abster de efetivar a averbação de memorial descritivo constante do Processo Administrativo no 492892/20 (ID 94621973 - Pág. 232/235).
+AGRAVO: MA INVESTIMENTOS E PARTICIPAÇÕES LTDA alega que adquiriu, em julho de 2020, uma área rural com 2,780 ha na GLEBA POLESE e, após a formalização da compra e venda, teve conhecimento de que na ação reivindicatória no 58. 58.1994.811.0025, código 3574, proposta por JOSÉ ANTONIO MIGUEL NETO e ROSIMARA MARIA BOTELHO ANDRADE MIGUEL, havia sido determinada a imissão na posse do lote de terras denominado “Presidente Juscelino” com área de 9.999 hectares e 9.963m3, situado no Município de Juína, matriculado sob o no 50.641 no 6o Ofício de Registro de Imóveis de Cuiabá, além de determinar o cancelamento dos georreferenciamentos feitos anteriormente junto ao INCRA/MT, além do cancelamento do requerimentos de regularização fundiária junto ao INTERMAT, o que afeta o imóvel por ela adquirido e lhe causa prejuízo. Argumenta que a ação reivindicatória é nula porque não houve a citação do ESTADO DE MATO GROSSO, por meio do INTERMAT, para integrar o polo passivo da demanda na qualidade de litisconsorte necessário unitário. Defende a probabilidade do direito, representada pela demonstração inequívoca de vício processual transrescisório e vício material na perícia judicial, e o risco de dano, representado pelo cumprimento da imissão de posse deferida na ação reivindicatória, expedido e cumprido sobre 361has de propriedade da agravante, bem como a iminente averbação do memorial descritivo produzido pela perícia realizada naquela ação, objeto de pedido administrativo formulado pelos agravados junto ao INTERMAT. Pugna pela concessão da tutela antecipatória para suspender ou revogar a decisão de imissão na posse, proferida na ação reivindicatória. No mérito, pugna pela reforma da decisão para conceder a antecipação da tutela na ação declaratória de nulidade.
+É o relatório.
+Decido.
+A agravante MA INVESTIMENTOS E PARTICIPAÇÕES LTDA relata que adquiriu, em julho de 2020, uma área rural com 2,780 ha na denominada GLEBA POLESE, no município de Juína, cujas matrículas imobiliárias são no 14.917, em nome de AIRES POLESE e esposa, e no 14.918, em processo de regularização fundiária junto ao INTERMAT, ambos registrados no CRI de Juína.
+Esclarece que, após a formalização da compra e venda, teve conhecimento da ação reivindicatória no 58. 58.1994.811.0025, código 3574, proposta por JOSÉ ANTONIO MIGUEL NETO e ROSIMARA MARIA BOTELHO ANDRADE MIGUEL que buscavam reaver um lote de terras denominado “Presidente Juscelino” com área de 9.999 hectares e 9.963m3, situado no Município de Juína, matriculado sob o no 50.641 no 6o Ofício de Registro de Imóveis de Cuiabá, já sentenciada. Iniciado o cumprimento de sentença, os autores da reivindicatória buscam o cancelamento de georreferenciamentos junto ao INCRA/MT e o cancelamento de requerimentos de regularização fundiária junto ao Instituto de Terras de Mato Grosso – INTERMAT.
+A agravante propôs a ação com o objetivo de anular a sentença proferida na ação reivindicatória em razão da ausência de citação do ESTADO DE MATO GROSSO, por meio da INTERMAT, para compor o polo passivo da ação na condição de litisconsorte necessário, e porque também seria nulo o laudo pericial que alterou os marcos do georreferenciamento da área.
+Pleiteou, em sede de antecipação de tutela, a suspensão da decisão proferida na ação reivindicatória que determinou a imissão dos agravados na posse da área, bem como que seja enviado ofício ao INTERMAT para que se abstenha de averbar o memorial descritivo resultante do laudo pericial que reputa nulo, o que foi indeferido e constitui a decisão ora agravada.
+Pois bem. Busca a agravante a concessão da tutela antecipatória para determinar a suspensão da decisão que determinou a imissão dos agravados na posse da área, bem como para que seja enviado ofício ao INTERMAT para que se abstenha de averbar o memorial descritivo resultante do laudo pericial que reputa nulo.
+A tutela cujos efeitos se antecipam é aquela que mesmo à luz de um exame sumário, mostra-se marcadamente vocacionada a se tornar definitiva por ocasião do exame da matéria pelo mérito.
+Para a concessão então, constitui ônus de quem a postula demonstrar os requisitos que lhe são próprios, ou seja, a probabilidade do direito e o perigo que resulta, se reservado seu exame apenas para o final.
+No caso, não se verifica a probabilidade do direto da agravante que, apesar de alegar que a nulidade se deu quanto à ausência de citação, tal “vicio” não se refere à ausência de citação de nenhum dos réus, ora agravados, ou mesmo de terceiros interessados no resultado da demanda.
+Posto isso, indefere-se o pedido de tutela antecipatória.
+Intimem-se os agravados para oferecimento da contraminuta.
+Cuiabá, 22 de julho de 2021.
+Des. Guiomar Teodoro Borges.
+Relator
+6
