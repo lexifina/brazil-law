@@ -1,0 +1,37 @@
+Agravo de Instrumento n. 1012875-70.2021.8.11.0000 – Tabaporã
+Visto.
+Trata-se de recurso de agravo de instrumento interposto por Joel Ponzio e Avelina da Conceição Bezerra Ponzio em face da decisão proferida pelo MM. Juiz de Direito da Vara Única da Comarca de Tabaporã, na ação de execução de título extrajudicial movida por Carmen Maria Castaldo, julgou improcedente a tese de impenhorabilidade do imóvel “Fazenda Santa Maria”, firmada na exceção de pré-executividade.
+Alegam os agravantes, em suma, que não restou correta a interpretação formada pelo douto magistrado, arguindo a nulidade, vez que não oportunizou a parte manifestar-se sobre a impugnação à execução de pré-executividade, inclusive em relação aos documentos juntados, violando o princípio do contraditório e a garantia da igualdade processual.
+Tecem sobre a impenhorabilidade do imóvel rural, asseverando que se trata de pequena propriedade e serve de moradia, onde é desenvolvida atividade agrícola imprescindível para a subsistência de sua família, e por isso, deve ser reconhecido como impenhorável.
+Justificam que indicaram endereço urbanos por entenderem ser menos gravoso, mas que nem por isso, residem em tais imóveis, posto que possuem como única residência a Fazenda Santa Maria. Salientam sobre as faturas de consumo de energia elétrica no imóvel, e que o simples fato de ocorrer oscilações sazonais na energia consumida no imóvel não possui o condão de afastar a impenhorabilidade do bem.
+Seguem defendendo que a Ata Notarial realizada pelo tabelião é meio de prova para atestar o endereço dos executados e de que extraem sua subsistência, bem como os documentos que comprovam o exercício da atividade rural na Fazenda Santa Maria.
+Ao final, pugnam pelo efeito suspensivo da tutela antecipada recursal.
+É o relatório.
+Decido.
+Ab initio, faz-se necessário analisar o preenchimento dos requisitos de admissibilidade do presente recurso.
+Como se sabe, para cada tipo de decisão corresponde um recurso cabível, observando-se que a inadequação da via eleita acarreta a inadmissibilidade deste, em consonância ao princípio da taxatividade recursal.
+Da interpretação da legislação retro mencionada, verifica-se que o Novo Código de Processo Civil diferentemente do Codex anterior, prevê taxativamente as hipóteses de cabimento do recurso de agravo de Instrumento, de modo que este se enquadra no parágrafo único, do art. 1.015, do NCPC.
+Dito isso, para a concessão da antecipação da tutela recursal prevista no art. 1.019, inc. I do NCPC, faz-se necessária a presença dos requisitos previstos no art. 300, do aludido diploma processual, quais sejam, a probabilidade de suas alegações e o perigo de dano.
+Os agravantes pleiteiam, em síntese, análise da tese de impenhorabilidade do imóvel denominado Fazenda Santa Maria alegado na exceção de pré-executividade.
+Observo que a tese sustentada pelos agravantes está intimamente ligada ao mérito da questão, de modo que a concessão imediata do pedido atuará de modo satisfativo, com a possibilidade de revogação futura causar maior prejuízo ao feito e às próprias partes contendoras.
+Ademais, sobre o teor da decisão objurgada observo que o magistrado analisou a tese de impenhorabilidade do imóvel rural, vejamos:
+Para fins de impenhorabilidade é imprescindível que a pequena propriedade rural seja indispensável à sobrevivência da família, não bastando que suas dimensões estejam atentas ao disposto em Lei.
+Nesse cenário, o exequente não comprova que se enquadra como agricultor familiar e empreendedor familiar (art. 3o, incisos, da Lei n. 11.236/06), sendo a propriedade rural trabalhada por sua família e fonte de sua atividade econômica.
+De largada anote-se que o objeto da presente execução é um contrato de parceria pecuária, mais especificamente 200 novilhas de 13 arrobas de carne e 60 fêmeas desmamas para serem restituídas após cinco anos, ou seja, em agosto do ano de 2010, o total de 400 novilhas de 13 arrobas e mais 120 fêmeas desmamas, não sendo este o único débito do executado, que conta com um outro arresto anotado na matrícula do imóvel em 07/07/2010, também inerente a negociação de arrendamento de gado.
+No mais, o executado sempre foi localizado em seu endereço urbano constante nos autos, qual seja, Rua José Felix Neves, n. 58, Centro, consoante certidão de citação de Id. n. 47045388 – pág.:22, no entanto, em sede de defesa sustenta que reside no imóvel.
+Aludido endereço na zona urbana é o mesmo constante no decorrer dos autos, inclusive na qualificação registral da matrícula atualizada do imóvel, cuidando a exequente de comprovar que, por força de um decreto municipal de n. 3.717/2018, datado em 13/11/2018, a executada Alvelina da Conceição Bezerra indicou outro endereço, também na zona urbana desta Comarca, sendo nomeada como representante da associação de mulheres empreendedoras de Tabaporã/MT (documento em Id. n. 47045389 – pág.: 58).
+Ainda, cuidou a exequente em comprovar que a média das faturas do consumo de energia elétrica no imóvel constante na propriedade rural penhora, no período que perfaz os meses de novembro de 2019 e, fevereiro, abril e junho do ano de 2020, tem a média de consumo correspondente a R$ 18,52 (dezoito reais e cinquenta e dois centavos).
+Ora, aludido consumo de energia elétrica, de fato, não se caracteriza como sendo de uma residência habitada e cuja atividade econômica da família se instalou.
+Ocorre que, no mês anterior ao que fora lavrada a ata, ou seja, em janeiro do ano de 2020, os executados cuidaram de anexar fatura com consumo correspondente a R$ 146,43 (cento e quarenta e seis reais e quarenta e três centavos), não retratando a realidade que perdurou nos meses anteriores, bem como, no mês de novembro do ano de 2020, tal como alhures fundamentado.
+Em que pese conste na ata notarial que o endereço dos executados é no imóvel em comento, tal constatação se faz com base em alegações dos próprios executados ao Sr. Tabelião, e não ressoa dos andamentos e intimações registradas nos autos, sobretudo quando considerados os documentos juntados pela exequente quando instada à se manifestar.
+De igual modo, o fato de laborar exclusivamente no imóvel como fonte de subsistência não se comprova pela ata notarial lavrada com base nas alegações dos executados e fotografias da propriedade rural, apesar de refletir a realidade dos produtos cultivados no local, por si só não comprova as alegações dos executados.
+Cabia aos executados a prova pré-constituída do labor campesino hábil a ensejar a impenhorabilidade que aventa nos autos.” (id. 57603035)
+De mais a mais, o Superior Tribunal de Justiça considera que o ônus da prova é do executado de que o bem se qualifique como pequena propriedade rural, nos termos da lei, bem como de que é trabalhando pela família (REsp. 1913236/MT)
+Desse modo, entendo, em princípio e por prudência, não conceder a antecipação almejada para suspender os efeitos da decisão, devendo aguardar a manifestação do douto magistrado a quo, bem como da contraminuta que poderá trazer elementos que possibilitem a melhor análise da questão agravada.
+Diante do exposto, indefiro a tutela antecipada recursal almejada.
+Intime-se a agravada para, querendo, apresentar resposta no prazo de 15 (quinze) dias, nos termos do inc. II, do art. 1.019, do NCPC.
+Oficie-se o douto juiz a quo e solicite-se informações.
+P.I.
+Cuiabá, 23 de julho de 2021.
+CARLOS ALBERTO ALVES DA ROCHA
+Relator
