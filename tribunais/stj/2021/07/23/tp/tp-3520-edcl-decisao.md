@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por AMMA TODOS OS SANTHOS DIVISÃO BRASIL INDÚSTRIA E COMÉRCIO LTDA., DIEGO BADARÓ BERTOLINI, FREDERICK LEE SCHILLING e OUTRO, com relação à decisão de fls. 1592-1593, que indeferiu o pedido de liminar em regime de plantão.
+Sustenta a parte embargante, em suma, que (fl. 1607):
+Entretanto, partiu a r. decisão de premissa fática totalmente equivocada, data vênia, uma vez que não se coaduna com a realidade dos autos, pois não há que se falar em POSSIBILIDADE de cumprimento de sentença, pois como bem demonstrado no pedido de tutela, bem como na síntese da demanda dos presentes Embargos de Declaração, o cumprimento de sentença JÁ existe, não se tratando de uma mera possibilidade.
+Requer o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto (EDcl no AgInt nos EREsp n. 1.806.207/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 24/3/2021).
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+De toda sorte, ressalte-se que, não obstante a fundamentação sustentada pela requerente, o fato é que seu exame encontra-se atrelado ao próprio mérito do recurso, e, diante da natureza satisfativa do pleito, sua análise pormenorizada compete ao Colegiado, não sendo, pois, passível de exame/concessão em sede de cognição sumária. Outrossim, não obstante a alegação de ocorrência de atos de execução do julgado, tal argumentação não se mostra suficiente para a configuração de risco de dano jurídico irreversível (nesse sentido: RCD na AR 5.879/SE, de minha relatoria, PRIMEIRA SEÇÃO, julgado em 26/10/2016, DJe 08/11/2016).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Remetam-se os autos diretamente ao ministro relator.
+Publique-se. Intimem-se.
