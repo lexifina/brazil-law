@@ -1,0 +1,18 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto pela ASSOCIAÇÃO DE BENEFÍCIOS MÚTUOS DO BRASIL - ASTEP, com o fito de suspender a decisão que, nos autos do Cumprimento de Sentença de no 1011779-45.2020.8.11.0003, manejado por JOVERCINA RAMOS FERREIRA, MARIA APARECIDA DA SILVA, DJALMA RAMOS DA SILVA, ODAIR CARLOS DA SILVA, JAIR CARLOS DA SILVA, rejeitou a respectiva impugnação e, ato contínuo, determinou a penhora sobre as contas bancárias da parte executada.
+Para tanto, aduz a agravante que, no Acórdão do Recurso de Apelação Cível manejado em face da sentença de procedência em favor dos agravados, foi prolatada decisão no sentido de limitar sua responsabilidade solidária com o Sr. José Ricardo de Lima aos limites da apólice de seguro.
+Argumenta que a execução busca efetivar o pagamento de danos materiais e morais, sendo que o contrato apenas prevê o pagamento de danos materiais.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Pois bem, ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+A discussão em tela gravita em torno do montante requestado em face da parte executada, a qual alega ser indevida, por força de decisão deste Sodalício, que decotou da obrigação, o pagamento de valores não previstos no contrato de seguro firmado entre o demandado e os agravados.
+Assim, infere-se da decisão recorrida, que o magistrado singular determinou a penhora nas contas bancárias da associação agravante (litisdenunciada), por meio do sistema SisbanJud, no valor total de R$ 101.138,37 (cento e um mil, cento e trinta e oito reais e trinta e sete centavos), concernente aos danos morais e materiais.
+A recorrente alega que sua obrigação está limitada apenas ao pagamento de danos materiais, razão pela qual, mostra-se prudente a suspensão da decisão, em razão de eventuais medidas expropriatórias desnecessárias e irreversíveis.
+Ante o exposto, CONCEDO a liminar para obstar o levantamento de valores ou qualquer medida expropriatória em face da agravante, concernente à lide em exame.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
