@@ -1,0 +1,20 @@
+Decisão: Trata-se de habeas corpus impetrado por Vinícius Jahn Vargas em favor de Vanderlei Machado contra acórdão do Superior Tribunal de Justiça no HC 131.548/RS, assim ementado:
+          “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS TENTADOS. ROUBOS MAJORADOS. RECEPTAÇÃO. ADULTERAÇÃO DE SINAL DE VEÍCULO AUTOMOTOR. PORTE ILEGAL DE ARMA DE FOGO. ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. IMPUGNAÇÃO QUANTO À MANUTENÇÃO DA CUSTÓDIA CAUTELAR. FUNDAMENTAÇÃO CONCRETA. CIRCUNSTÂNCIAS DO DELITO. MODUS OPERANDI. REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONTEMPORANEIDADE DA CUSTÓDIA. SUPRESSÃO DE INSTÂNCIA. REFORMATIO IN PEJUS. INEXISTÊNCIA. RECURSO DESPROVIDO”. (eDOC 12, p. 1)
+    O impetrante narra (eDOC 1) que o paciente, preso em flagrante em 17.3.2017, foi denunciado pela prática dos crimes dos arts. 157, §2º, I, II e V (três vezes); 121, § 2º, V e VII, na forma do art. 14, II (três vezes); 180 (duas vezes); 311; e 288 do Código Penal, e do art. 14 da Lei 10.826/03.
+    Afirma que a prisão preventiva teria sido decretada sobre razões genéricas, com base na gravidade do crime em abstrato, sem atenção às circunstâncias do caso concreto, e que teria havido acréscimo de fundamentação pelas instâncias superiores. (p. 6)
+    Alega que, na decisão de “reavaliação da necessidade da prisão preventiva, deve o julgador atender à fundamentação da medida cautelar em fatos novos e contemporâneos que justifiquem a necessidade de sua manutenção naquele momento processual para fins de resguardar essa mesma ordem pública” (p. 7), e que “os fundamentos utilizados para justificar a proteção processual da ordem pública em março de 2017 (…) não podem servir para manter esse recolhimento provisório do paciente à prisão no tempo presente”. (p. 8)
+    Pleiteia a concessão da ordem de habeas corpus para que a prisão preventiva do paciente seja substituída por medidas cautelares diversas.
+    É o relatório.
+    Decido.
+    Trata-se de habeas corpus substitutivo de recurso ordinário contra acórdão do Superior Tribunal de Justiça que denegou a ordem em habeas corpus substitutivo de recurso ordinário contra acórdão do Tribunal de Justiça do Rio Grande do Sul, que denegou o HC.
+    Ao denegar a ordem no HC 193.616, tirado contra a decisão monocrática mantida pelo acórdão ora impugnado, apontei que não padeceria de ilegalidade a decisão que determinara a prisão preventiva, diante da gravidade concreta do delito. Já analisado esse fundamento em writ anterior, não cabe nova análise nesta sede.
+    Em relação à tese de que os fundamentos primevos do decreto prisional não seriam aptos a manter a custódia cautelar por ocasião da reavaliação, mormente após o transcurso de anos, verifico que milita em sentido contrário ao que tomou a jurisprudência deste Tribunal. Nesse sentido, confira-se:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE TRÁFICO INTERNACIONAL DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO, LAVAGEM DE CAPITAIS E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO PER RELATIONEM. IDONEIDADE. RÉU PRESO DURANTE TODA A INSTRUÇÃO CRIMINAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. MANUTENÇÃO DA CUSTÓDIA. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS”. (HC 177.003 AgR, rel. Rosa Weber, Primeira Turma, DJe 26.4.2021)
+    “PRISÃO PREVENTIVA – FLAGRANTE – PERICULOSIDADE. Precedida a prisão preventiva de flagrante, tem-se sinalizada periculosidade e viável a custódia provisória. PRISÃO PREVENTIVA – RENOVAÇÃO – PRAZO – EXCESSO – AUSÊNCIA. Apresentada motivação suficiente à manutenção da prisão, observado o prazo de 90 dias entre os pronunciamentos judiciais, fica afastado constrangimento ilegal”. (HC 189.194, rel. Marco Aurélio, Primeira Turma, DJe 7.12.2020)
+    Logo, reputo inexistente ilegalidade manifesta ou constrangimento ilegal passível de correção pela via estreita do mandamus.
+    Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 26 de julho de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
