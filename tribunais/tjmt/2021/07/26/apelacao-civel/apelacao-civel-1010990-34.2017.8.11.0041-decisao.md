@@ -1,0 +1,11 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE APELAÇÃO CÍVEL No 1010990-34.2017.8.11.0041
+APELANTE: UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO.
+APELADA: GABRIELY VITORIA SOARES DA SILVA DE OLIVEIRA, representada por Jana Benedita Soares da Silva.
+Vistos.
+Em cumprimento ao disposto no artigo 178 do CPC, colha-se o parecer da d. Procuradoria Geral de Justiça.
+Às providências.
+Des. DIRCEU DOS SANTOS
+Relator
