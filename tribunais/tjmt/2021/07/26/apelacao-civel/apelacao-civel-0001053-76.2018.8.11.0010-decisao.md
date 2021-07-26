@@ -1,0 +1,59 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe – Processo Judicial eletrônico
+Recurso Especial na Apelação Cível no 0001053-76.2018.811.0010
+Recorrente: CARLOS RAMOS DA FONSECA
+Recorridas: VIAÇÃO VERONESE LTDA e OUTRAS
+Vistos.
+Trata-se de recurso especial (id. 90582964) interposto por CARLOS RAMOS DA FONSECA, com fundamento no art. 105, III, alíneas “a” e “c”, da Constituição Federal, contra acórdão da Terceira Câmara de Direito Privado deste Sodalício, o qual negou provimento ao seu recurso de apelação cível, conforme a seguinte ementa (id. 80032476):
+“AÇÃO DE REPARAÇÃO CIVIL – RESPONSABILIDADE CIVIL – ACIDENTE DE TRÂNSITO – CULPA DO MOTORISTA – ATO ILÍCITO NÃO COMPROVADO – VALORAÇÃO DAS PROVAS ESCORREITA – SENTENÇA MANTIDA – RECURSO DESPROVIDO.
+O ato ilícito deve restar devidamente comprovado, nos termos do art. 927, do C. Civil, porque a responsabilidade indenizatória está diretamente a ele vinculada.
+O ônus da prova recai sobre o autor a fim de que, ao menos, demonstre em juízo a verossimilhança das suas alegações, comprovando a existência do ato por ela descrito na inicial como ensejador do seu direito, obrigação da qual não se desincumbiu.. (RAC n° 0001053-76.2018.811.0010, Rel. CARLOS ALBERTO ALVES DA ROCHA, TERCEIRA CÂMARA DE DIREITO PRIVADO, j. em 17/03/2021)”.
+Interpostos embargos de declaração, estes foram rejeitados, conforme acórdão lançado no id. 88693988.
+A recorrente sustenta em suas razões:
+(i) violação aos arts. 489, § 1o, IV e 1.022, II, do CPC, ao argumento de que o acórdão, pois não se manifestou em relação aos argumentos apresentados no apelo, fundamentando a decisão de forma genérica; e
+(ii) divergência jurisprudencial no que atine a incidência do arts. 29, § 2° e 44, da Lei 9.503/97, em razão de cautela necessária ao cruzar via preferencial.
+Recurso tempestivo (id. 90680954).
+Isento de preparo, ante a gratuidade de justiça (Certidão de id. 90618490).
+Contrarrazões (id. 93645984 e 93702988).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+A hipótese prevista no art. 105, III, letra “a” e “c” da Constituição Federal prescreve a apreciação, pelo STJ, de recurso especial oposto contra acórdão que, em única ou última instância, tenha contrariado lei federal ou negado sua vigência (“a”) e der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal (“c”).
+Entretanto, em que pesem as argumentações da recorrente, o recurso não pode alcançar o normal seguimento.
+Da suposta violação aos arts. 489, § 1°, IV, e 1.022, II, do CPC.
+A partir da suposta ofensa aos arts. 489 § 1°, IV, e 1.022, II, do CPC, o recorrente alega que o acórdão não se manifestou em relação aos argumentos apresentados no apelo, fundamentando a decisão de forma genérica.
+Na hipótese dos autos, o juízo singular julgou improcedente a pretensão indenizatória em razão de que o autor/recorrente não se desincumbiu do ônus de comprovar satisfatoriamente a culpa do motorista da empresa ré.
+Do exame do acórdão hostilizado, verifica-se a o órgão fracionário manteve a decisão de primeiro grau consignando que “não se mostra indevida a valoração dada às provas pelo juízo a quo”. Ainda que não ignorada a interpretação diversa dada a dinâmica do acidente pelo recorrente, afere-se que a decisão levou em conta a incerteza dos depoimentos e a divergência entre as informações colhidas aliado a ausência de outros elementos probatórios.
+Merece destaque o trecho da sentença (transcrito no acórdão) em que se resalta:
+“Pelo arquivo de vídeo juntado aos autos, no qual foi registrado o interior do veículo da parte ré no momento do acidente, é possível ver que o motorista do ônibus parou no cruzamento, olhou para ambos os lados e seguiu adiante, certamente confiando que qualquer veículo que trafegasse em sentido contrário efetuaria a parada, no local da sinalização.
+Importante mencionar que a única testemunha ocular foi contraditada em audiência, haja vista ser filha da vítima e também mover ação indenizatória em desfavor das requeridas, pelos mesmos fatos narrados na presente ação.
+Assim, imperioso faz-se notar a dinâmica probandi, uma vez que é dever daquele que alega trazer material probatório capaz de sustentar o direito ventilado, sob o viso, de não tropeçar em meras alegações.
+[...]
+No caso, as provas acerca da dinâmica do acidente não corroboram o sustentado na inicial, razão pela qual, não é possível imputar às requeridas a culpa pela ocorrência do evento danoso de modo que muito embora seja incontroverso o fato, não se pode deduzir que as mesmas tenham sido o responsável pelo sinistro, não se podendo admitir culpa por presunção, já que vedado.
+Neste diapasão, apesar de o acidente ser incontroverso, não se pode deduzir que o réu tenha motivado a sua ocorrência, de tal modo que atribuí-lo qualquer responsabilização seria admitir presumidamente sua culpa, o que é vedado pelo ordenamento jurídico”. (grifei).
+Prossegue o acórdão concluindo o seguinte:
+“(...) embora o recorrente alegue que a d. magistrada não se ateve ao conjunto probatório produzido nos autos, face o cumprimento do que preceitua o art. 373, do CPC, destaco que nos termos do art. 371, do mesmo codex, “O juiz apreciará a prova constante dos autos, independentemente do sujeito que a tiver promovido, e indicará na decisão as razões da formação de seu convencimento”. (grifei).
+Ao julgar os embargos de declaração, ainda consignou-se que:
+“(...) o conjunto probatório produzido nos autos foi devidamente analisado, ficando suficientemente claro, repiso, que não houve prova satisfatória da dinâmica do acidente, a ponto de imputar a culpa do sinistro a suposta conduta imprudente do motorista do veículo da embargada Viação Veronese Ltda.
+Na verdade, ainda que o embargante alegue que o boletim de ocorrência e as imagens da BR-364 são supostas provas cabais de suas alegações, o certo é que em nenhum momento há a afirmação, no referido documento, de que o veículo da embargada invadiu a pista principal e nem da certeza absoluta da dinâmica do acidente, ao passo que o laudo pericial trazido à baila foi produzido de forma unilateral, não havendo que se falar na existência de um conjunto probante apto a atribuir a culpa do aludido acidente aos embargados.
+De igual modo, repiso que as provas produzidas nos autos também não denotam o descumprimento, pelos embargados, do quanto disposto nos arts 29, §2o e 44, ambos do CTB, de modo que a sua aplicabilidade no caso vertente é totalmente descabida”. (grifei).
+Diante desse quadro, não há evidência de violação aos arts. 489 § 1°, IV, e 1.022, II, do CPC, o que conduz à inadmissão do recurso neste ponto.
+Do reexame de matéria fática (Súmula 07 do STJ)
+Nos termos do art. 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não se mostrando possível que se examine matéria fático-probatória, ante o teor da Súmula 07 do STJ:
+“Súmula 07/STJ. A pretensão de simples reexame de prova não enseja recurso especial”.
+A alegada divergência jurisprudencial em razão da exegese dos arts. 29, § 2° e 44, da Lei 9.503/97, dada a necessidade de cautela ao cruzar via preferencial demonstra o simples interesse do recorrente em reverter o julgado ao seu favor. Todavia, para tanto, seria imprescindível o revolvimento das premissas fático-probatórias que conduziram à conclusão diversa da pretendia pelo recorrente, o que esbarra no óbice da Súmula 07/STJ.
+No caso, a análise de arquivo de vídeo do momento do sinistro evidenciou a cautela necessária do motorista da recorrida, o que por si só colocou “em xeque” a tese recursal.
+Assim, insuscetível de revisão o entendimento firmado pelo Tribunal por demandar necessariamente o reexame de premissas fático-probatórias carreada aos autos, o que encontra óbice ante o disposto na Súmula 07/STJ. A propósito, nesse sentido:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO. IMPROCEDÊNCIA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 2. VIOLAÇÃO AOS ARTS. 9o, 10 E 492 DO CPC/2015 NÃO CARACTERIZADA. VALORAÇÃO DE PROVAS PELO MAGISTRADO. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. PRECEDENTES. SÚMULA 83/STJ. 3. FALTA DE ELEMENTOS SUFICIENTES NOS AUTOS PARA CONCLUIR DE QUEM TERIA SIDO A CULPA PELO ACIDENTE. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 4. BOLETIM DE OCORRÊNCIA. PRESUNÇÃO JURIS TANTUM. VERACIDADE NÃO CORROBORADA PELAS DEMAIS PROVAS DOS AUTOS. 5. AGRAVO IMPROVIDO. 1. Não ficou configurada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. 2. Com efeito, o Superior Tribunal de Justiça possui firme jurisprudência no sentido de que o Magistrado não está obrigado a julgar a questão posta a seu exame de acordo com o entendimento das partes, mas sim conforme sua orientação, utilizando-se de provas, fatos e aspectos pertinentes ao tema. Nesse contexto, não configura violação aos arts. 9o, 10 e 492 do CPC/2015 quando o julgador, entendendo substancialmente instruído o feito, motiva a sua decisão na existência de elementos suficientes para formação da sua convicção, conforme o princípio do livre convencimento motivado ou da persuasão racional, tal como feito na hipótese. Incidência, no ponto, da Súmula 83/STJ. 3. Na hipótese, constata-se que o TJPR concluiu que não foi possível elucidar de quem teria sido a culpa pelo acidente levando em consideração não somente o boletim de ocorrência, mas também as demais provas colacionadas nos autos. Da mesma forma, não se pôde precisar a causa primária do acidente para então afirmar que o veículo conduzido pelo recorrido teria invadido a pista contrária, de maneira que, embora o boletim de ocorrência tenha, a princípio, presunção juris tantum, constatou-se também ser inconclusivo. Sendo assim, não foi ele o fator determinante para a improcedência do pedido autoral, e a revisão desses aspectos fáticos da lide atraem a incidência do enunciado n. 7 da Súmula do Superior Tribunal de Justiça. 4. Além disso, a jurisprudência desta Corte possui entendimento no sentido de que, conquanto o boletim de ocorrência possua presunção juris tantum, a veracidade precisa ser corroborada pelas demais provas presentes nos autos, como na espécie. 5. Agravo interno a que se nega provimento. (AgInt no AREsp 1751891/PR, Rel. Min. MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, j. em 15/06/2021, DJe 21/06/2021)” (grifei).
+Portanto, fica prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 07 do STJ. A propósito, o entendimento da Corte Superior é no sentido de que: “a incidência da Súmula 7 do STJ, prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte” (AgInt no REsp 1884179/PR, Rel. Min, NANCY ANDRIGHI, TERCEIRA TURMA, j. em 30/11/2020, DJe 02/12/2020).
+Diante desse quadro, inviável também a admissão do recurso com base na alínea “c” do art. 105, III, da CF.
+Ante o exposto, nego seguimento ao recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
