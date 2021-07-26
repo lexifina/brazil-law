@@ -1,0 +1,60 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe – Processo Judicial eletrônico
+Recurso Especial na Apelação Cível no 0003530-21.2004.811.0024
+Recorrente: AURI IVO WEBER
+Recorrida: APIACÁS ENERGIA S/A
+Vistos.
+Trata-se de recurso especial (id. 89869966) interposto por AURI IVO WEBER, com fundamento no art. 105, III, alínea “a”, da Constituição Federal, contra acórdão da Terceira Câmara de Direito Privado deste Sodalício, o qual negou provimento ao seu recurso de apelação cível, com a seguinte ementa (id. 69113463):
+“APELAÇÃO CÍVEL – REIVINDICATÓRIA – REQUISITOS – PROVA DO DOMÍNIO – PROPRIEDADE – CONTRATO – IMÓVEL – REGISTRO – COMPROVAÇÃO – POSSE INJUSTA DO OCUPANTE – DIREITO DO PROPRIETÁRIO DE REAVER O BEM – PRESCRIÇÃO AQUISITIVA – REQUISITIVO TEMPORAL – ANIMUS DOMINI – NÃO DEMONSTRADO – SENTENÇA DE PARCIAL PROCEDÊNCIA MANTIDA – RECURSO DESPROVIDO.
+“Almejada a retomada do imóvel especificado na peça de intróito forte no título dominial que sobre ele detém, adequada, portanto, a via processual eleita pelos autores. Logo, não há que se cogitar de sua impropriedade. Não há falar-se em prescrição aquisitiva se não decorrido o lapso temporal previsto na lei civilista, bem como o animus domini para a aquisição por usucapião. (...) (TJ-MT - APL: 01224176020098110000 122417/2009, Relator: DES. GUIOMAR TEODORO BORGES, Data de Julgamento: 17/03/2010, SEXTA CÂMARA CÍVEL, Data de Publicação: 30/03/2010). (RAC n° 0003530-21.2004.811.0024, Rel. ANTONIA SIQUEIRA GONÇALVES, TERCEIRA CÂMARA DE DIREITO PRIVADO, j. em 02/12/2020)”.
+Interpostos embargos de declaração, estes foram rejeitados, conforme acórdão lançado no id. 86985030.
+O recorrente sustenta em suas razões violação ao art. 1.022, II, do CPC, ao argumento de omissão quanto ao fato novo e superveniente concernente a inexistência de identidade física na matrícula de n° 1.992, razão pela quão não há falar-se em sobreposição de área reivindicada.
+Aduz omissão a respeito de questão autônoma, consistente na sentença extraída dos autos 1121-05.2015.811.0051, processada e julgada pelo juízo da 1a Vara da Comarca de Campo Verde/MT. Assim, sustenta o erro no julgamento pois, segundo a exegese do art. 493 do CPC, era dever do julgador levar em consideração a existência de fato novo, de maneira a concluir que a área de posse e de fato explorada pelo ora recorrente, não coincide e não está inserida na Matrícula 1.992.
+Recurso tempestivo (id. 89879485).
+Preparo recolhido (Certidão de id. 89901459).
+Contrarrazões pelo não seguimento do recurso (id. 93329495).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+A hipótese prevista no art. 105, III, letra “a”, da Constituição Federal prescreve a apreciação, pelo STJ, de recurso especial oposto contra acórdão que, em única ou última instância, tenha contrariado lei federal ou negado sua vigência.
+Entretanto, em que pesem as argumentações dos recorrentes, o recurso não pode alcançar o normal seguimento.
+Da suposta violação ao arts. 493 e 1.022, II, do CPC
+A partir da suposta ofensa aos arts. 493 e 1.022, II, do CPC, o recorrente alega que o órgão fracionário deste Tribunal manteve-se omisso quanto a análise de que a área de posse e de fato explorada pelo ora recorrente, não coincide e não está inserida na Matrícula 1.992, sendo isso fato novo e supervenientes, o qual não foi levando em conta pelo órgão julgador.
+No entanto, ao examinar o acórdão hostilizado, verifica-se que restou ponderado o seguinte:
+“Desse modo, incontroverso nos autos a propriedade da área da apelada e a ocupação área pelo apelante, o qual não apresentou qualquer título dominial capaz de colocar em xeque o pudesse confrontar àquele apresentado pela parte autora, limitando-se a defender que são possuidores da área de terras de 1.002,45 ha, cuja posse teria sido adquirida de KATOJI OISHI e CARMOZINA PEREIRA OISHI, em 29/09/2003, sendo ela parte integrante de uma área maior registrada e matriculada sob o no. 1.992 do CRI de Chapada dos Guimarães, cuja área originária seria de propriedade de KATOJI OISHI, CARMOZINA PEREIRA OISHI, CARLOS FRANCISCO PEREIRA e MARIA DE FÁTIMA DA CRUZ PEREIRA.
+Todavia, não há qualquer documento apto a comprovar tal alegação.
+Quanto a validade da posse discutida nos autos da ação que tramita na Comarca de Campo Verde, a fim de evitar tautologia, trago a baila à conclusão do magistrado de primeiro grau:
+“(...) Como se não bastasse, a legitimidade do domínio de Katoji Oishi e Carmozina Pereira Oishi, de onde parte a suposta validade da posse dos requeridos, é discutida no bojo dos Autos Código: 3925, em trâmite na Comarca de Campo Verde/MT (1.137/1.167), de modo que, se for o caso, eventual apuração e discussão acerca de sobreposição de títulos deve se dar nas vias ordinárias.
+Aí se denota, então, a posse injusta por parte do requerido. Isso porque, como já se acenou, não possui justo título da área em questão, além de que a posse adquirida se origina de uma matrícula objeto de anulação judicial. Ou seja, reconhecida a anulação do negócio jurídico que originou a Matrícula n. 1.992, cuja posse de parte da área ali descrita fora adquirida pela parte ré, carece de posse justa a parte demandada.
+E a injustiça está exatamente assentada na circunstância de que na origem de todas as situações de posse levantadas pelos réus, está o recebimento ou a negociação da área por meio de quem não detinha a efetiva propriedade.
+No mais, com relação à individualização da área, mais uma vez o laudo pericial fora suficiente para esclarecer a questão, notadamente por afirmar, de forma categórica, que a área ocupada pela parte requerida corresponde ao croqui/planta indicados na exordial. (...)”. (grifei).
+Ademais, o STJ já se pronunciou no seguinte sentido:
+“PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. 1. "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". 2. Inexiste violação dos arts. 489, § 1o, IV, 1.013 e 1.022 do Código de Processo Civil de 2015 quando o Tribunal de origem enfrenta os vícios alegados nos embargos de declaração e emite pronunciamento fundamentado, ainda que contrário à pretensão da recorrente. 3. Agravo interno desprovido. (AgInt no AREsp 1431978/SP, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, j. em 09/09/2019, DJe 20/09/2019)”
+Diante desse quadro, não há evidência de violação aos arts. 493 e 1.022, II, do CPC, o que conduz à inadmissão do recurso neste ponto.
+Necessidade de se impugnar todos os fundamentos da decisão (Súmula 283 do STF)
+Na interposição do recurso especial é necessário que nas razões recursais sejam impugnados todos os fundamentos do acórdão recorrido, quando um ou mais forem suficientes para a manutenção da decisão recorrida, conforme disposto na Súmula 283 do STF, aplicada analogicamente ao caso em exame:
+“Súmula no 283/STF. É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”.
+A propósito, nesse sentido:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANOS MATERIAIS E MORAIS. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE MONITORAMENTO POR CÂMERA. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO ATACADOS. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO. INTERPRETAÇÃO DE CLÁUSULA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF. (...). 5. Agravo interno a que se nega provimento. (AgInt no AREsp 1655295/SP, Rel. Min. RAUL ARAÚJO, QUARTA TURMA, j. em 07/12/2020, DJe 01/02/2021)” (grifei).
+“AGRAVO REGIMENTAL NO RECURSO ESPECIAL – AÇÃO DE COBRANÇA – DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DO AUTOR. (...). 3. Ausente impugnação específica aos fundamentos do acórdão recorrido quanto à não ocorrência de interrupção da prescrição. Aplicação, por simetria, das Súmulas 283 e 284 do STF. 4. Agravo regimental desprovido. (AgRg no REsp 1303756/SP, Rel. Min. MARCO BUZZI, QUARTA TURMA, j. em 22/11/2016, DJe 29/11/2016)” (grifei).
+Não obstante a alegação de violação ao arts. 493 e 1.022, II, do CPC, afere-se dos autos que o órgão fracionário deste Sodalício concluiu pela manutenção da decisão de primeiro grau, ancorado na presença dos requisitos do art. 1.228 do CC (propriedade do reivindicante, posse injusta d e individualização do imóvel reivindicado e inexistência de prescrição ou usucapião pelo ora recorrente) à autorizar a demanda reivindicatória; o que não restou suficientemente impugnando pelas razões recursais, já que estas se limitam a abordar a sua posse não seria injusta, mas sim legítima.
+O órgão fracionário deste Sodalício levou em consideração que:
+“(...) o artigo 1.228 do Código Civil consagra o direito de propriedade, através do qual o proprietário tem o direito de usar, gozar, dispor e até reivindicar o imóvel, de quem injustamente o possua, se isso for necessário, de modo que, como bem aventado pelo magistrado de primeiro grau, faz-se necessário o preenchimento de três requisitos, quais sejam: (I) a propriedade atual do reivindicante; (II) posse injusta; e (III) a individualização do imóvel ou móvel reivindicado, o que foi devidamente observado.
+Isso porque, os documentos que acompanham a inicial comprovam a aquisição da área impugnada, sendo um lote de terras, com área de 323,00 ha e 3.705 m2, destacados de uma área maior de 3.262 ha, imóvel no qual a parte requerida teria se apossado injustamente.
+Acerca do segundo requisito – posse injusta – o laudo pericial de fls. 244/304, ao descrever os imóveis e responder aos quesitos apresentados pelas partes, consignou:
+(...) “6.15 O Senhor Perito pode esclarecer se, realmente, o Requerido invadiu e se apropriou de área pertencente à CEMAT? Explique e fundamente.
+Resposta: O Requerido está de posse de toda área de propriedade da CEMAT, na Matrícula 1.992, Folha n. 065, do Livro 2-M, o Requerido tem 2.981,00 Hás, no levantamento georreferenciado desta matrícula a área é de 2.121,4723 Hás, portanto tem uma falta de 859,5277 Hás. (...)”
+Desse modo, incontroverso nos autos a propriedade da área da apelada e a ocupação área pelo apelante, o qual não apresentou qualquer título dominial capaz de colocar em xeque o pudesse confrontar àquele apresentado pela parte autora, limitando-se a defender que são possuidores da área de terras de 1.002,45 ha, cuja posse teria sido adquirida de KATOJI OISHI e CARMOZINA PEREIRA OISHI, em 29/09/2003, sendo ela parte integrante de uma área maior registrada e matriculada sob o no. 1.992 do CRI de Chapada dos Guimarães, cuja área originária seria de propriedade de KATOJI OISHI, CARMOZINA PEREIRA OISHI, CARLOS FRANCISCO PEREIRA e MARIA DE FÁTIMA DA CRUZ PEREIRA.
+Todavia, não há qualquer documento apto a comprovar tal alegação” (grifei).
+Portanto, o recorrente deixou de contrapor o fundamento utilizado pelo acórdão, cujo trecho acima revela questão suficiente, por si só, à manutenção do “decisum” e que não foi contraposta pelas razões recursais.
+Diante desse quadro, como o fundamento acima (não atacado) por ser autônomo e suficiente para a manutenção do acórdão recorrido, é o caso de se aplicar o óbice da Súmula 283/STF, o que impede a admissão do recurso.
+Ante o exposto, nego seguimento ao recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
