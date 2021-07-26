@@ -1,0 +1,48 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Especial no Agravo de Instrumento n. 1025456-54.2020.8.11.0000
+RECORRENTE: HELBOR EMPREENDIMENTOS S/A
+RECORRIDO: LORENA BEZERRA TELES DE FIGUEIREDO
+Vistos.
+Trata-se de Recurso Especial (id 89906473) interposto por HELBOR EMPREENDIMENTOS S/A com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Quarta Câmara de Direito Privado, a qual desproveu o recurso da recorrente e manteve a decisão monocrática que deferiu a tutela de urgência, mantendo a recorrida na posse do imóvel comercial objeto do litígio, conforme ementa adiante destacada (id 79480964):
+AGRAVO DE INSTRUMENTO – AÇÃO CAUTELAR COM PEDIDO DE TUTELA DE URGÊNCIA EM CARÁTER ANTECEDENTE INAUDITA ALTERA PARTES – TUTELA DE DEFERIDA PARA PARTE REQUERIDA SE ABSTER DE IMPEDIR A ENTRADA DA AUTORA NO IMÓVEL OBJETO DA LIDE CONDICIONADA AO DEPÓSITO DA QUANTIA REMANESCENTE DO SALDO DEVEDOR – REQUISITOS DA MEDIDA DA URGÊNCIA CONFIGURADOS – DECISÃO QUE DEFERIU A TUTELA ANTECIPADA E CONCEDEU A JUSTIÇA GRATUITA – MANTIDA – RECURSO DESPROVIDO.
+No caso, o material probatório anexado aos autos da ação originária se mostra suficiente e adequado, ao menos no momento processual inicial, a provar a existência de prejuízo de difícil ou incerta reparação que exija o deferimento da medida antecipatória pleiteada, para determinar que a parte requerida, aqui agravante, se abstenha de proibir a entrada da autora, aqui agravada no imóvel, mormente considerados o pagamento de grande parte do contrato, a posse e intenção da demandada de revisar as cláusulas contratuais. Mantido o deferimento da justiça gratuita.
+(TJMT – Quarta Câmara de Direito Privado – AI n. 1025456-54.2020.8.11.0000, Relator Desembargador Guiomar Teodoro Borges, j. em 10.03.2021)”.
+Opostos Embargos de Declaração, estes foram rejeitados no acórdão de id. 86752998.
+A recorrente alega violação aos artigos 1.022 incisos I e II, e 300, caput, do CPC, bem como aos artigos 1o, incisos VI e VII, da Lei n. 4.864/65, e artigos 52 e 63 da Lei n. 4.591/64, amparada nas seguintes teses:
+a) Negativa de prestação jurisdicional, ao argumento de que a recorrida nunca esteve na posse do imóvel, bem como de que é confessa sua inadimplência frente ao compromisso de compra e venda celebrado para aquisição do imóvel desde o ano de 2016, fatos ignorados pelo órgão fracionário recorrido “afrontando direito desta Recorrente e terceiro de boa-fé, que adquiriu o imóvel e tomou posse, conforme os respetivos termos colacionado aos autos” (ID.89906473);
+b) O órgão fracionário deste Sodalício não observou “a ilícita posse concedida pelo juízo de piso a Recorrente, que na verdade trata-se de verdadeiro esbulho possessório, posto que fora apresentada toda a documentação que demonstra o regular distrato por responsabilidade exclusiva da Recorrida, sendo promovida a sua notificação judicial e extrajudicial, as quais estão comprovadas nos autos (89906473 - Pág. 6); e
+c) Ausência dos elementos previstos no artigo 300 do CPC, ressaltando que “inexiste a presença do requisito da plausibilidade do direito da Recorrida; assim como o perigo de dano ou risco ao resultado útil do processo que resta incontroverso que houve o distrato entre a Recorrente e ela, assim como ser incontroverso que a unidade foi vendida a terceiro de boa fé, que legalmente foi imitido na posse do imóvel, logo requer se seja reconhecida a afronta ao art. 300 do Código de Processo Civil, devendo o acordão ser modificado, cassando a tutela de urgência deferida e mantida, reestabelecendo -se a posse ao seu regular possuidor”(ID 89906473 - Pág. 28).
+Recurso tempestivo (id 91516974) e preparado (id 91493992).
+Contrarrazões pelo não seguimento do recurso, conforme id 93656477.
+É o relatório.
+Decido.
+1- Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Violação aos artigos 1.022, caput, inciso I e II, do CPC – ausência de omissão.
+A partir da suposta ofensa ao artigo e 1.022, incisos I e II, do CPC, a recorrente alega que o acordão recorrido não analisou as provas constantes nos autos que atestam que a recorrida nunca esteve na posse do imóvel, bem como é confessa a sua inadimplência frente ao contrato, razão pela qual foi rescindido e o imóvel vendido à terceiro de boa-fé.
+No entanto, do exame do acórdão recorrido, verifica-se que a Câmara julgadora esteve atenta à circunstância fática em questão, fundamentando de forma adequada a controvérsia diante de um cenário de deliberação provisório, como se observa da transcrição abaixo (id 85042476):
+“a princípio, as alegações trazidas pela Recorrente não são aptas para desconstituir os fundamentos da decisão recorrida de que a autora tem a posse do imóvel desde a assinatura do contrato, ocorrida no ano de 2014.
+Anota-se que, embora a Agravante alegue histórico de que foram realizadas notificações judiciais e extrajudiciais, leilões e venda do imóvel, essa questão não desconstitui, em tese, a posse da autora.
+Realça-se que, em sede de análise preliminar, o conjunto probatório até então produzido não corrobora as alegações da Recorrente de que a Agravada não tinha mais acesso à sala comercial desde o ano de 2016.
+Frisa-se, assim, que no caso, o material probatório anexado aos autos da ação originária se mostra suficiente e adequado, ao menos no momento processual inicial, a provar a existência de prejuízo de difícil ou incerta reparação que exija o deferimento da medida antecipatória pleiteada, para determinar que a parte requerida, aqui agravante, se abstenha de proibir a entrada da autora, aqui agravada no imóvel, mormente considerados o pagamento de grande parte do contrato, a posse e intenção da demandada de revisar as cláusulas contratuais.”
+Diante desse quadro, não há evidência de violação ao artigo 1.022, incisos I e II, ambos do CPC, o que conduz à inadmissão do recurso neste ponto.
+Frise-se, por oportuno, que o julgador não está obrigado a apreciar todos os argumentos e dispositivos invocados pelas partes no processo, mas sim analisar o núcleo central das questões colocadas em debate e relevantes para a decisão.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL – AÇÃO CONDENATÓRIA – DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO E NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS AUTORES. 1. Violação aos artigos 489, § 1o, IV, e 1022, II, do CPC/15, não configurada. Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissão. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio. Precedentes. (...).” (AgInt no AREsp 1521129/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/03/2020, DJe 01/04/2020)” (g.n.).
+2- Da violação aos artigos 300 do CPC; 1o, incisos VI e VII, da Lei n. 4.864/65; e 52 e 63 da Lei n. 4.591/64 - Súmula 735 do STF.
+Nos termos do artigo 105, inciso III, da Constituição Federal, compete ao Superior Tribunal de Justiça a aplicação e a uniformização da interpretação de normas infraconstitucionais, não sendo possível o cabimento de Recurso Especial contra acórdão proferido em sede de tutela provisória, ante o caráter precário da decisão.
+In casu, o órgão fracionário deste Sodalício negou provimento ao recurso da agravante, ora recorrente, que pretendia a cassação da liminar que concedeu o direito da agravada em permanecer na posse do imóvel objeto do litígio.
+Neste caso, a decisão é provisória, incidindo, por analogia, a Súmula n. 735/STF, segundo a qual, “não cabe recurso extraordinário contra acórdão que defere medida liminar”. Confira-se:
+“PROCESSUAL CIVIL. TUTELA ANTECIPADA. INDEFERIMENTO. NATUREZA PRECÁRIA E PROVISÓRIA DO DECISUM. REAVALIAÇÃO. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 7 DO STJ E 735 DO STF.
+1. O Superior Tribunal de Justiça, em sintonia com o disposto na Súmula 735 do STF, firmou o entendimento de que, via de regra, ‘não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito’ (STJ, AgRg no AREsp n. 438.485/SP, Rel. Ministro Humberto Martins, DJe de 17/02/2014).
+2. O juízo de mérito desenvolvido em sede liminar, fundado na mera verificação da ocorrência do periculum in mora e da relevância jurídica da pretensão deduzida pela parte interessada, não enseja o requisito constitucional do esgotamento das instâncias ordinárias, indispensável ao cabimento dos recursos extraordinário e especial, conforme exigido expressamente na Constituição Federal – ‘causas decididas em única ou última instância’. (...)
+6. Agravo interno desprovido”. (AgInt no AREsp 743.894/SP, Rel. Ministro GURGEL DE FARIA, Primeira Turma, julgado em 22/8/2017, DJe 4/10/2017).
+Portanto, no tocante à aventada violação aos artigos 300 do CPC e artigos 1o, incisos VI e VII, da Lei n. 4.864/65 e artigos 52 e 63 da Lei n. 4.591/64, do CPC, inadmissível o recurso, face ao óbice da Súmula 735/STF.
+Ante o exposto, com fundamento no artigo 1.030, V, do CPC, inadmito o recurso especial.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
