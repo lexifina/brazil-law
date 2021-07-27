@@ -1,0 +1,48 @@
+AGRAVANTE(S):
+JACIR VALCIR MALACARNE e DEBORA MAURA MALACARNE
+AGRAVADO(S):
+ESTADO DE MATO GROSSO
+Protocolo: 1012700-76.2021.8.11.0000
+Visto:
+Trata-se de agravo de instrumento interposto por JACIR VALCIR MALACARNE e DEBORA MAURA MALACARNE contra decisão proferida pelo Juízo da Vara Especializada do Meio Ambiente da Comarca de Cuiabá-MT, nos autos da Ação Ordinária de Restituição de Bem Apreendido no 1018963-98.2021.8.11.0041, que indeferiu a tutela de urgência pleiteada para determinar a restituição dos bens de propriedade dos requerentes apreendidos no termo de apreensão no 194970 (um trator de Pneu, marca New Holland, TL53, no de série B1N463679, um trator de Pneu, marca Case 80P/AF650, sem número de série, e uma camionete F-1000, cor preta, Placa JYL9539, ano/marca 1987, Renavan no 00575175613), ou alternativamente que fosse nomeada a segunda Agravante (Débora Maura Malacarne) como fiel depositária.
+Aduzem que são pequenos produtores rurais que atuam em regime de agricultura familiar em Assentamento Rural de Projeto de Reforma Agrária e não têm condições de arcar com as custas do processo, sem prejuízo de seu sustento, motivo pelo qual entendem que deve ser deferido o benefício da justiça gratuita.
+Sustentam que os bens apreendidos estavam na propriedade do autuado e vizinho (JACIR VALCIR MALACARNE) em razão de comodato, sendo que é a Agravante (DEBORA MAURA MALACARNE) a legitima proprietária desses bens.
+Asseveram que os bens foram apreendidos indevidamente, pois não havia no local a prática de atividade ilícita ambiental, uma vez que se trata de área rural consolidada.
+Asseguram que os referidos bens não são utilizados para pratica de infração ambiental, de modo que a restituição à proprietária não coloca em risco o meio ambiente.
+Arguem que a jurisprudência tem entendido pela impossibilidade de terceiros de boa-fé responderem e terem os bens apreendidos por danos ambientais praticados por outrem.
+Pontuam que a legislações Federal e Estadual autorizam a nomeação do proprietário como fiel depositário do bem apreendido.
+Verberam que os bens foram apreendidos em 29 de abril de 2021 e até o momento não houve a instauração de processo administrativo para lavratura do auto de infração, impossibilitando a interposição de defesa extrajudicial.
+Ponderam que a legislação e a jurisprudência não têm admitido a apreensão de maquinários quando ele é utilizado para agricultura familiar em pequena propriedade inserida em assentamento rural com cultivo para subsistência.
+Afirmam que se encontram presentes os requisitos necessários para o deferimento da tutela de urgência pleiteada nos autos originários.
+Com base nestes fundamentos, pugnam pelo deferimento do benefício da justiça gratuita, bem como pela concessão da tutela antecipada recursal para determinar a restituição dos bens de propriedade dos requerentes apreendidos no termo de apreensão no 194.970 ou, alternativamente, nomear o recorrente segunda Agravante (Débora Maura Malacarne) como fiel depositária dos bens apreendidos por meio do Termo de Apreensão no 194970. No mérito requer que seja dado provimento ao recurso, para deferir a tutela de urgência na forma como pleiteada na exordial.
+No entanto, antes de analisar a tutela antecipada recursal pleiteada no presente recurso, mister se faz a apreciação do pedido de concessão dos benefícios da justiça gratuita requerido pelos Recorrentes, uma vez que o preparo constitui requisito de admissibilidade recursal.
+Pois bem. A concessão ou não da assistência judiciária gratuita deve ser analisada em cada caso específico, em conformidade com os elementos existentes no processo e com amparo no Código de Processo Civil atual e na Constituição Federal, a qual objetiva a facilitação do acesso à justiça.
+Os artigos 98 e 99 do Código de Processo Civil atual dispõem:
+“Art. 98. A pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios tem direito à gratuidade da justiça, na forma da lei.
+[...]
+Art. 99. O pedido de gratuidade da justiça pode ser formulado na petição inicial, na contestação, na petição para ingresso de terceiro no processo ou em recurso.
+§ 1o Se superveniente à primeira manifestação da parte na instância, o pedido poderá ser formulado por petição simples, nos autos do próprio processo, e não suspenderá seu curso.
+§ 2o O juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, devendo, antes de indeferir o pedido, determinar à parte a comprovação do preenchimento dos referidos pressupostos.
+§ 3o Presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural.
+§ 4o A assistência do requerente por advogado particular não impede a concessão de gratuidade da justiça.
+§ 5o Na hipótese do § 4o, o recurso que verse exclusivamente sobre valor de honorários de sucumbência fixados em favor do advogado de beneficiário estará sujeito a preparo, salvo se o próprio advogado demonstrar que tem direito à gratuidade.
+§ 6o O direito à gratuidade da justiça é pessoal, não se estendendo a litisconsorte ou a sucessor do beneficiário, salvo requerimento e deferimento expressos.
+§ 7o Requerida a concessão de gratuidade da justiça em recurso, o recorrente estará dispensado de comprovar o recolhimento do preparo, incumbindo ao relator, neste caso, apreciar o requerimento e, se indeferi-lo, fixar prazo para realização do recolhimento”.
+Entretanto, em que pese o artigo 99, §2o, do sobredito regramento legal estabeleça que o Magistrado somente pode indeferir o pedido de justiça gratuita se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, o mesmo texto estabelece que para o seu deferimento necessário se mostra o preenchimento dos pressupostos legais para a sua concessão.
+Na mesma vertente o inciso LXXIV, do art. 5o da Constituição Federal, disciplina em seu texto legal que “o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos”.
+Veja-se, portanto, que o texto constitucional é expresso ao prever a necessidade de comprovação da hipossuficiência daqueles que buscam o benefício da justiça gratuita.
+Sob esse aspecto, cabe ao magistrado formular o seu entendimento a respeito da questão, analisando caso a caso, para que a aplicação indiscriminada da norma benéfica não desvirtue sua finalidade, que é garantir o acesso à justiça àqueles que de fato necessitam do benefício.
+Portanto, verifica-se, que no caso em comento, a parte Recorrente não cumpriu a exigência legal de demonstrar que necessita da gratuidade da justiça visto que o seu pedido não veio amparado em documentos que demonstram sua hipossuficiência financeira.
+Para o reconhecimento da hipossuficiência, seria necessário seria que a parte Recorrente apresentasse além declaração de hipossuficiência, declarações de imposto de renda, extrato bancário, documentos que demonstrem que os seus bens se encontram penhorados, que está com seu nome inscrito no cadastro de proteção ao credito ou protestado no cartório, existência de várias execuções e outros documentos que comprovem a precariedade financeira que impossibilite de arcar com o preparo recursal no valor de R$ 330,72 (trezentos e trinta reais e setenta e dois centavos).
+Para corroborar tal entendimento, eis as jurisprudências:
+“AGRAVO DE INSTRUMENTO – AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO C/C REVISIONAL – PEDIDO DE CONCESSAO DE JUSTIÇA GRATUITA - INICIAL INSTRUÍDA COM DEMONSTRATIVO DE RENDA MENSAL E DECLARAÇAO DE HIPOSSUFICIÊNCIA - DOCUMENTOS QUE EVIDENCIAM SUA INCAPACIDADE FINANCEIRA - BENESSE QUE DEVE SER CONCEDIDA – RECURSO CONHECIDO E PROVIDO – DECISÃO REFORMADA. O benefício da justiça gratuita pode ser concedido à pessoa física ou jurídica, desde que comprovada a necessidade da benesse. No caso concreto, a agravante demonstra sua impossibilidade de arcar com as despesas do processo, devendo ser concedido o benefício, consoante estabelecido pelo art. 4o da Lei no 1.060/50”. (TJMT, AI 29804/2015, DES. SEBASTIÃO DE MORAES FILHO, SEGUNDA CÂMARA CÍVEL, Julgado em 1/7/2015, Publicado no DJE 6/7/2015) (Grifei)
+Outrossim, importante consignar que a assistência judiciária gratuita é de caráter restritivo, destinada a possibilitar o acesso ao Judiciário pelas classes menos favorecidas da sociedade, sob pena de desvirtuamento da lei, devendo ser deferida de modo excepcional, quando comprovada a hipossuficiência, o que não se verifica no presente caso.
+Destarte, não preenchido os requisitos necessários para a concessão da justiça gratuita, deve a parte Recorrente providenciar o recolhimento preparo alusivo ao processamento do presente recurso, uma vez que se trata de pressuposto de admissibilidade recursal, cuja ausência impõe a sua deserção, nos temos dos artigos 1.007 c/c 932, do Código de Processo Civil, in verbis:
+“Art. 1.007. No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção”.
+" Art. 932: (...)
+Parágrafo único. Antes de considerar inadmissível o recurso, o relator concederá o prazo de 5 (cinco) dias ao recorrente para que seja sanado vício ou complementada a documentação exigível." (destaquei)
+Diante do exposto, INDEFIRO O BENEFÍCIO DA GRATUIDADE DE JUSTIÇA na seara recursal e oportunizo ao Agravante o recolhimento do preparo no prazo de 05 (cinco) dias, sob pena de deserção, nos termos dos artigos 932 c/c 1.007, do Código de Processo Civil.
+Após, conclusos.
+Cumpra-se.
+Des. MARIO ROBERTO KONO DE OLIVEIRA
+Relator
