@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de mandado de segurança impetrado por JOÃO PAULO PEREIRA DA SILVA, com pedido de liminar, contra suposto ato ilegal do COMANDANTE DO 1º BATALHÃO DE OPERAÇÕES RIBEIRINHAS, objetivando o reconhecimento de ilegalidade de sua exclusão do concurso público para o curso de formação de Fuzileiro Naval.
+Aduz que não houve respeito ao devido processo legal, sendo violado o exercício da ampla defesa e do contraditório.
+Requer, em suma (fls. 3-16):
+Ocorre, Excelência, no BONO Especial de nº 368 datado de 12/04/2021 constava seu nome na listagem dos aptos (aprovados) para realização da prova, de modo que o Impetrante iniciou seus estudos para subir de posto e alcançar seus objetivos. Porém, para surpresa do Impetrante o Processo seletivo BONO de nº 588 de 22/06/2021, teve seu nome excluído, não autorizando o mesmo a realizar o exame para promoção de posto (doc.anexo).
+ ..
+O objeto do presente pleito, conforme se demonstrará, é a necessidade de o Impetrante na participação do provimento de cargo, promovido pela incorporação MARINHA DO BRASIL, em Avaliação e Seleção de prova interna e assim, cursar CB - Curso de Fuzileiro Naval.
+ ..
+Menciona que, no BONO Especial nº 368, de 12/04/2021, ao ser divulgado o resultado dos aprovados, seu nome constava entre os aptos a proceder na participação do provimento de cargo, de modo que o impetrante iniciou seus estudos para fazer a prova e alcançar seus objetivos. Ocorre excelência, que, no dia 22/06/2021, foi imitido novo processo seletivo- BONO ESPECIAL GERAL de nº 588, pela Diretoria de Comunicações e Tecnologia em Informação da Marinha do Brasil, pois bem, nesse Processo Seletivo divulgado, não contava mais o nome Impetrante entre os demais candidatos, além do mais, com parecer não favorável para a prova. (doc.anexo)
+ ..
+Consta ainda, que, ora Impetrante foi considerado APTO pela Comissão Coordenadora do BONO Especial de nº 368 datado de 12/04/2021 no concurso para Formação de Fuzileiro Naval CB, sendo, porém, de forma discriminatória e indevida foi excluído do BONO nº 588 de 22/06/2021. Sob tais argumentos, a Comissão alegou que o candidato, ora Impetrante, não pôde participar do certame pois infringiu regras específicas tendo praticado contravenção disciplinar, de 02 (dois) atrás, que teve como punição à época a prisão do Impetrante, sendo este o fator de exclusão do militar no processo seletivo. Entretanto, a alegação que motiva a apelação por meio de mandado de segurança é o fato de o apelante considerar que a sua pena já foi cumprida, não sendo possível a dupla punição pelo mesmo fato.
+É, no essencial, o relatório. Decido.
+Segundo o art. 105, I, b, da Constituição Federal, que demanda interpretação restritiva, o Superior Tribunal de Justiça é competente para processar e julgar, originariamente, os mandados de segurança impetrados contra ato de ministro de Estado, dos comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal, não se enquadrando o presente caso concreto à competência definida constitucionalmente.
+Ante o exposto, com fundamento no art. 212 do RISTJ, indefiro liminarmente este mandado de segurança em face da incompetência absoluta do Superior Tribunal de Justiça.
+Sem condenação em honorários (Súmula n. 105 do STJ).
+Publique-se. Intimem-se.
