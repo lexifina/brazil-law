@@ -1,0 +1,77 @@
+DESPACHO
+Relatório
+    1. Habeas corpus, com requerimento de medida liminar, impetrado por Carlo Velho Masi e outra, advogados, em benefício de Eliane Vargas de Lima, contra decisão do Ministro Ribeiro Dantas, do Superior Tribunal de Justiça, pela qual, em 4.6.2021, indeferido liminarmente o Habeas Corpus n. 671.403. O objeto deste é o indeferimento da medida liminar no Habeas Corpus n. 0025394-67.2021.8.21.7000 pela Desembargadora Rosaura Marques Borba, do Tribunal de Justiça do Rio Grande do Sul.
+  O caso
+    2. Consta dos autos que a paciente foi condenada a uma pena total de onze anos, dois meses e vinte dias de reclusão, cumprindo a reprimenda, inicialmente, no regime fechado, tendo ainda a cumprir mais de dez anos de reclusão.
+    A condenada foi beneficiada com a concessão de prisão domiciliar em razão da pandemia do COVID-19 em 19.3.2020, prorrogada até 17.08.2020.
+    Em 6.8.2020, o juízo da 2ª Vara de Execução Penal de Porto Alegre determinou a realização de estudo social e laudo médico atualizado, antes de analisar novo pedido de prorrogação.
+    Foi apresentada petição da condenada, informando ter tido problemas de saúde no final da gravidez, o que a levou a mudar de cidade. Foi trazido aos autos novo endereço, a saber, Rua Ruth Pereira, n. 573, sobrado 9, Praia dos Ingleses, Florianópolis/SC. Justificou, com tais informações, o equívoco da crença na suposta “fuga” constante no sistema, apresentando documentos (fl. 90/111, e-doc. 2).
+    Foi reiterada a determinação de estudo social pelo juízo da Execução Penal em 8.9.2020.
+    A justificativa apresentada pela defesa não foi acolhida pelo magistrado de primeiro grau, que revogou a prisão domiciliar e, 14.10.2020, com a seguinte decisão:
+    “A apenada foi condenada a uma pena total de 11 anos, 02 meses e 20 dias de reclusão, cumprindo a reprimenda, inicialmente, no regime fechado, tendo um saldo de pena de 10 anos, 04 meses e 11 dias.
+    Foi deferida prisão domiciliar humanitária por conta da pandemia do Coronavírus em por 60 dias a contar do final do prazo anteriormente 19.03.2020 pelo prazo de 90 dias, sendo prorrogada fixado, mantidas as mesmas condições antes estabelecidas, consoante decisão do sequencial 16.1, segundo a Recomendação 62 do CNJ.
+    A reeducanda encontra-se foragida desde o dia 17/08/2020.
+    Os autos vieram conclusos para apreciação da documentação aportada nos sequenciais 67.1 e seguintes.
+    É o breve relatório.
+    Passo a decidir.
+    Considerando que a apenada desatendeu as condições impostas, e sendo esta uma medida de caráter excepcional, revogo de plano a prisão domiciliar humanitária.
+    Expeça-se mandado de prisão com cumprimento no regime fechado e validade até 16/08/2032” (fl. 49, e-doc. 3).
+    3. Contra essa decisão, a defesa protocolizou, no Tribunal de Justiça do Rio Grande do Sul, o Habeas Corpus n. 0106629-90.2020.8.21.7000. Em 20.10.2020, a Relatora, Desembargadora Rosaura Marques Borba, indeferiu a medida liminar requerida.
+    4. Essa decisão foi objeto do Habeas Corpus n. 623.539, impetrado no Superior Tribunal de Justiça. Em 29.10.2020, o Ministro Humberto Martins, do Superior Tribunal de Justiça, indeferiu liminarmente essa impetração, com fundamento na Súmula n. 691 deste Supremo Tribunal.
+    5. Contra essa decisão, impetrou-se, em 17.11.2020, o Habeas corpus n. 194.217 neste Supremo Tribunal. Deferi a medida liminar em 1.12.2020 e, em 11.12.2020, concedi a ordem monocraticamente, para “a) restabelecer a prisão domiciliar da paciente nos termos determinados pelo juízo da execução penal, suspensa a obrigação de comparecimento em juízo até que se analise e delibere sobre o pedido de transferência de cumprimento da prisão domiciliar para Santa Catarina; b) determinar ao juízo do Primeiro Juizado da Segunda Vara de Execuções Criminais de Porto Alegre/RS examine, com urgência, a situação processual da paciente, analisando a justificativa apresentada pela defesa, o estudo social juntado aos autos e o pedido de transferência do cumprimento da prisão domiciliar para Santa Catarina, motivando a sua decisão”. Determinei fosse oficiado o juízo do Primeiro Juizado da Segunda Vara de Execuções Criminais de Porto Alegre/RS, com urgência, dando-lhe ciência desta decisão para o devido cumprimento.
+    Na ordem concedida, consignei:
+    “(...) Embora a situação da paciente não se enquadre naquelas alcançadas pela decisão do Habeas Corpus coletivo n. 143.641, por ser presa definitiva e ter sido condenada por crime praticado com violência ou grave ameaça (roubo majorado), tem-se que a prisão domiciliar foi excepcionalmente concedida pelo juízo da execução penal, considerando ser a custodiada diabética, integrante de grupo de risco para o novo coronavírus e mãe de cinco filhos, entre os quais uma jovem com deficiência e uma recém nascida em idade de aleitamento materno.
+    12. Os impetrantes juntaram aos autos estudo social do Segundo Juizado da Segunda Vara de Execuções Penais da Comarca de Porto Alegre/RS, realizado com a paciente Eliane de Lima Vargas em 11.9.2020.
+    Nele se aponta como endereço da sentenciada Rua Ruth Pereira n. 573, Ingleses, Florianópolis/SC e constam as seguintes informações:
+    “No dia 11 de setembro de 2020, a fim de realizar estudo social, conforme determinado à mov. 56 foi entrevistada a paciente ELIANE DE LIMA VARGAS (39). ELIANE atualmente reside à Rua Ruth Pereira 573, Ingleses, Florianópolis/SC com seu companheiro CRISTOFER (45) e sua sogra SONIA (70).
+    Esta é mãe de cinco filhos, sendo que quatro deles são menores de doze anos, sendo um deles bebê e um deles jovem com deficiência.
+    Quais sejam: ANTONELLA (1 MÊS); HELENA (5 ANOS); RITHIELY (18); THAYSSA (17); RYAN (9). A certidão das crianças, jovens e adolescentes estão em anexo. Além da multiplicidade de filhos, o grupo familiar apresenta vulnerabilidade somada em razão de RITHIELY (18) ser pessoa com deficiência em razão de CIDS HIDROCEFALIA E RETARDO MENTAL (anexo) ao nascimento, EPILEPSIA (anexo) e Deficiência tipo DISTÚRBIO NEUROLÓGICO PERMANENTE. Para tanto, a jovem realiza atendimento em saúde regular com equipe multidisciplinar através do SUS, conforme documentos em anexo. Citamos documentos médicos anexos: Paciente com quadro de sequela de PC?? Com alterações de comportamento e epilepsia; (...) Andou com +- 4 anos; Não fala normal; Controle esfincteriano +- 8 anos de idade.(...) Apresenta microcefalia.
+    A responsável pelo acompanhamento de RITHIELY aos serviços de saúde é ELIANE DE LIMA VARGAS, sua mãe. A genitora é, também, responsável por realizar cuidados assistenciais diferenciais em face da filha, considerando que esta é pessoa com deficiência.
+    4. Parecer técnico:
+    Considerando que ELIANE DE LIMA VARGAS cinco filhos, sendo que quatro deles são menores de doze anos, sendo um deles bebê e um deles é jovem com deficiência tipo DISTÚRBIO NEUROLÓGICO PERMANENTE, indicamos pela manutenção do direito a prisão domiciliar da paciente; Visto tanto a multiplicidade de filhos menores de doze anos, a presença de um bebê em fase de aleitamento, a de uma jovem com deficiência e, portanto, o cuidado assistencial dispendido e necessário por parte de ELIANE em face do grupo familiar, no que concerne o acompanhamento em serviços de saúde, bem como cuidados assistenciais realizados em domicílio.
+    Anexamos a este relatório também exame laboratorial que aponta que a paciente apresenta condição DIABÉTICA, o que a inclui no grupo de risco da covid 19” (e-doc. 9).
+    13. A decisão de revogação da prisão domiciliar deferida à paciente é de 14.10.2020 e informa que “a reeducanda encontra-se foragida desde o dia 17/08/2020” (fl. 49, e-doc. 3).
+    Naquela manifestação judicial, entretanto, não se tem referência à justificativa apresentada pela paciente para a mudança de endereço e o não comparecimento em juízo.
+    Às fls. 90-92 do e-doc. 2, o advogado da paciente apresentou ao juízo da execução penal informações de que a paciente teria obtido melhor assistência médica na rede pública em Santa Catarina, juntando documentos que comprovariam o parto e o atendimento médico naquele Estado, declarou o novo endereço como Rua Ruth Pereira, n. 573, ap. 09, Praia dos Ingleses, Florianópolis/SC, afirmando que a nova casa pertenceria à sogra da paciente. A petição foi apresentada em 8.9.2020.
+    Não se tem análise e decisão sobre o pedido da defesa de cumprimento da prisão domiciliar em Florianópolis/SC, tampouco referência ao estudo social datado de 11.9.2020.
+    Anote-se que aquele estudo social foi posterior à data da apontada fuga da condenada, e nele já foi apontado o novo endereço da sentenciada em Florianópolis, o que pode ser motivo para se superar a alegação de que a paciente estaria foragida. Foi ela encontrada pelo Estado para a realização da entrevista sem que se tenha afirmação de dificuldade para tanto.
+    Ademais, no estudo social juntado ao e-doc. 9, recomenda-se a continuidade da prisão domiciliar deferida à paciente, considerando ser mãe de uma jovem com deficiência (distúrbio neurológico permanente), de uma bebê em fase de aleitamento e de mais três filhos menores de idade.
+    Requisitadas informações ao juízo de origem sobre a revogação da prisão domiciliar concedida à paciente, a autoridade judicial descumpriu a requisição.
+    As razões expendidas na decisão judicial tida como coatora (fl. 49, edoc. 3) afastam-se do estudo social do e-doc. 9 e da documentação apresentada pela defesa, pela qual se comprova ter havido comunicação ao juízo da alteração de endereço, o que afastaria o argumento de fuga da sentenciada.
+    14. Na espécie, a paciente foi beneficiada pela prisão domiciliar por determinação do juízo da execução penal, por ser diabética, integrante de grupo de risco para o novo coronavírus e mãe de uma jovem com deficiência e de outras três crianças menores de doze anos. O benefício foi revogado apenas sob a justificativa de fuga, que, pelos elementos trazidos aos autos, não parece se sustentar, seja porque apresentada justificativa pela defesa não analisada na instância de origem, seja porque a paciente foi localizada pelo setor de assistência social judicial, responsável pela confecção do laudo juntado no e-doc. 9, não tendo sido examinado pelo juízo de primeiro grau.
+    Cabível é o restabelecimento da prisão domiciliar antes decretada se se mantiverem os motivos que determinaram a adoção daquela medida cautelar, o que, entretanto, haverá de ser examinado pelo juízo de origem.
+    Mantida ou revogada aquela decisão deverá ser ela necessariamente motivada, nos termos constitucionalmente estabelecidos (inc. X do art. 93 da Constituição do Brasil)”.
+    Essa decisão transitou em julgado em 2.2.2021.
+    6. Após a concessão do Habeas corpus n. 194.217, em 10.5.2021, sobreveio, na Execução Penal, a seguinte decisão:
+    “Vistos.
+    Fora deferida prisão domiciliar humanitária por conta da pandemia do Coronavírus em 19.03.2020 pelo prazo de 90 dias, sendo prorrogada por 60 dias a contar do final do prazo anteriormente fixado, mantidas as mesmas condições anteriormente estabelecidas, consoante decisão do sequencial 16.1, segundo a Recomendação 62 do CNJ.
+    Contudo, a apenada descumpriu as condições impostas.
+    Passou para condição de foragida desde o dia 17 de agosto de 2020.
+    À época, fora revogada a prisão domiciliar humanitária em razão do desatendimento das condições impostas (seq. 78.1).
+    Expedido mandado de prisão em desfavor da apenada, com validade até 16.08.32, para cumprimento em regime fechado.
+    Prosseguiu a presente execução, como se verifica nos demais sequenciais.
+    É o sucinto relatório.
+    Cuida-se de pedido defensivo de reconsideração de prisão domiciliar humanitária (seq. 116.1).
+    Com vista dos autos, o Ministério Público opinou pelo indeferimento (seq. 123.1).
+    Vieram os autos conclusos para apreciação.
+    Decido.
+    Considerando que a sentenciada possui 10 anos 06 meses e 07 dias de pena remanescente, bem como empreendeu fuga em 17.08.20, acolho o parecer do Parquet e INDEFIRO o pedido defensivo.
+    Intimem-se” (f. 672, e-doc. 2).
+    Tem-se no parecer do Ministério Público mencionado pelo Juízo da Execução Penal que, “Tendo em vista que a prisão domiciliar foi revogada, conforme decisão da seq. 78.1, manifesta-se o Ministério Público pelo indeferimento do pedido da seq. 115.1” (f. 668, e-doc. 2).
+    7. A defesa impetrou novo Habeas Corpus, sob n. 0025394-67.2021.8.21.7000, no Tribunal de Justiça do Rio Grande do Sul, tendo sido indeferida a medida liminar em 21.5.2021 (fl. 682-683, e-doc. 2).
+    8. Pelo indeferimento da medida liminar no Tribunal estadual, foi impetrado novo Habeas Corpus no Superior Tribunal de Justiça, n. 671.403, indeferido liminarmente pelo Ministro Ribeiro Dantas em 4.6.2021, com aplicação da Súmula n. 691 deste Supremo Tribunal.
+    9. Contra essa decisão impetrou-se o presente Habeas Corpus realçando, além das circunstâncias mencionadas na impetração antes analisada, o descumprimento da decisão proferida no Habeas Corpus n. 194.217, pois “o magistrado do 1º Juizado da 2ª VEC de Porto Alegre não analisou a justificativa baseada em circunstâncias concretas dos autos, tal como determinado pelo STF”.
+    Assevera não ter sido apreciada a justificativa apresentada pela defesa, o estudo social e o pedido de transferência do cumprimento da prisão domiciliar, como expressamente determinado no Habeas Corpus n. 194.217.
+    Afirma que “ a Autoridade Coautora, em liminar, igualmente deixou de analisar a situação excepcional da paciente, limitando-se apenas em ‘’reforçar’’ o entendimento genérico do Tribunal Estadual.
+    De fato, a prisão da paciente em regime diverso da prisão domiciliar foi baseada numa fuga de comarca que não ocorreu, visto que a paciente apenas buscou atendimento médico hospital em outra Capital, pois, como já explicado, não recebeu pronto-atendimento na cidade de Porto Alegre/RS.
+    Salienta-se, novamente, as condições particulares da paciente, bem como os motivos que foram utilizados para fundamentar a prisão de Eliane em unidade prisional”.
+    Estes os requerimentos e o pedido:
+    “a) A concessão de liminar, para o fim de acolher a justificativa da Paciente e mantê-la em prisão domiciliar, ante as peculiaridades do caso concreto;
+    b) No mérito, a procedência da ação e a confirmação da ordem, a fim de garantir que a Paciente possa dar seguimento ao cumprimento de sua pena recolhida em regime domiciliar, em sua residência em Viamão/RS, onde mora com os filhos menores e com sua filha deficiente, ao menos durante o período de duração da pandemia de COVID-19”.
+    10. Em 15.6.2021 deferi a medida liminar “para manter a paciente em prisão domiciliar nos autos da Execução Penal n. 0125051-71.2014.8.21.0001, suspendendo a decisão de 10.5.2021 do Juízo do Primeiro Juizado da Segunda Vara de Execuções Criminais de Porto Alegre/RS (f. 672, e-doc. 2)”. Na mesma decisão, requisitei informações ao juízo de primeiro grau, determinando, na sequência, a remessa dos autos à Procuradoria Geral da República.
+    11. Inexplicavelmente, não tendo vindo as informações (e-doc. 10), a Secretaria Judiciária não cumpriu o despacho no qual determinei envio direto à Procuradoria Geral da República.
+    12. Cumpra-se a determinação de vista à Procuradoria Geral da República.
+    Publique-se.
+    Brasília, 27 de julho de 2021.
+Ministra CÁRMEN LÚCIA
+Relatora
