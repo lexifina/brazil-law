@@ -1,0 +1,22 @@
+Vistos, etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por CERENGE ENGENHARIA LTDA e outro, em face de decisão prolatada pelo Juízo da 1a Vara Cível da Comarca de Barra do Garças/MT, nos autos da Ação de Reintegração de Posse com Pedido Liminar no 1005738-25.2021.8.11.0004, ajuizada em desfavor de ELCIO MENDES DA SILVA, que indeferiu o pedido de tutela de urgência.
+Os Agravantes aduzem, em síntese, que são proprietários do imóvel situado na zona urbana desta cidade de Barra do Garças – MT, no loteamento denominado “Sítio Recreio Águas Quentes”, localizado na quadra 14, designado área de comércio, medindo 6.531m2, matrícula no 32.724 do CRI local, adquirido em 21/10/2004 e 26/11/2014, respectivamente pelo primeiro e segundo agravante.
+Sustentam que ao adquirirem o mencionado imóvel tomaram posse e efetuaram reparos, pois, efetivamente a área é toda cercada e delimitada e a parte da área invadida trata-se de área de preservação permanente com nascente.
+Consignam que em 25/06/2020 perceberem que estavam construindo uma cerca invadindo parte da área de preservação permanente, numa área de 922,00m2, mesmo local em que houve tentativa de invasão em setembro/2017 pelo agravado, oportunidade em que houve registro de ocorrência e realização de laudo pericial de crime ambiental, pela derrubada de árvores e cessada a invasão ao tomar conhecimento das medidas.
+Defendem o equívoco da decisão agravada, vez que inexistem dúvidas quanto a posse de longa data, muito menos, que são possuidores e proprietários do referido bem imóvel, bem como demonstrado o esbulho por parte do agravado e desconsideradas as provas que acompanharam a exordial.
+Asseveram que caso o juiz não se convença das provas juntadas, quanto ao cumprimento dos requisitos para a concessão da liminar pleiteada, designará audiência de justificação.
+Com essas considerações, requerem seja concedido o efeito ativo, com o deferimento da liminar pleiteada na origem. No mérito, pugna pelo provimento do recurso, para reformar a decisão agravada e confirmar a liminar deferida. Alternativamente, requesta seja determinada a designação de audiência de justificação prévia.
+É o relatório.
+DECIDO
+Para a concessão do efeito pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos arts. 300 e 1.019, I, do Código de Processo Civil de 2015:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão (...)”.
+No que se refere a medida vindicada, ao analisar os argumentos apresentados pelos Agravantes não identifico como relevantes os fundamentos, a ensejar a concessão da medida requerida.
+Isso porque, não obstantes os argumentos dos agravantes acerca da posse, não se depreende, ao menos por ora, demonstração contundente do exercício da posse na área, sendo recomendável melhor elucidar a questão à luz do contraditório.
+Consigna-se ainda, em sede de cognição sumária, que não há evidência de danos que exija o deferimento da medida neste momento, vez que os argumentos de conclusão da construção da cerca na área objeto da demanda e a derrubada de árvores vieram desacompanhados de demonstração, não sendo laudo pericial anexado contemporâneo aos fatos.
+Dessa forma, sem prejuízo de uma análise mais acurada após as informações do Juízo a quo e resposta do agravado, INDEFIRO o almejado efeito ativo, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Comunique-se a decisão ao Juízo “a quo”, facultando-lhe prestar informações.
+Intime-se o agravado, na forma do art. 1.019, inciso II, do NCPC, para que responda, no prazo de 15 (quinze) dias.
+Des. Sebastião BARBOSA FARIAS
+Relator
