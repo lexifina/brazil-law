@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de JOÃO BATISTA MONTEIRO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HCn. 1.0000.21.118042-7/000).
+Narra o impetrante que, devido a suposta falta grave cometida,foi aplicada ao paciente a penalidade de regressãoderegime de cumprimento da pena para o fechado.
+Ocorre, segundo defende, a decisão que aplicou a referida penalidade não merece subsistir, pois a imposição de regime mais gravoso do que o fixado na sentença penal condenatória consubstanciaria patente afronta à coisa julgada.
+Destaca que o STF, nojulgamento do HC n.93761/RS, firmou entendimento no sentido de que a prática de falta grave pelo apenado,em regime inicial semiaberto, com sentença transitada em julgado e que não tenha alcançado a progressão do regime prisional, não implica a regressão de regime para o fechado, mas apenas a perda dos dias remidos (fl. 5).
+Requer, liminarmente e no mérito, a revogação da decisão que regrediu o paciente ao fechado.
+É, no essencial, o relatório. Decido.
+A matéria de fundo não foi apreciada no acórdão impugnado. Assim, o Superior Tribunal de Justiça não pode dela conhecer, sob pena de indevida supressão de instância. Confira-se precedente sobre a questão:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ILEGALIDADE DO MANDADO DE BUSCA E APREENSÃO. AUSÊNCIA DE LAUDO PRELIMINAR TOXICOLÓGICO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. TEMAS NÃO DEBATIDOS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA.  ..  RECURSO NÃO PROVIDO. 1. As teses relativas à invalidade do mandado de busca e apreensão domiciliar, à ausência de laudo químico preliminar e à aplicação do princípio da insignificância não foram debatidas no acórdão impugnado, o que impede o conhecimento delas diretamente por este Tribunal Superior, sob pena de indevida supressão de instância. Precedentes.  ..  5. Agravo regimental não provido. (AgRg no RHC 123.461/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 03/11/2020, DJe 12/11/2020).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus. Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
