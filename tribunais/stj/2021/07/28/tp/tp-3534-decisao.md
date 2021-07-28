@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de pedido de tutela de urgência deduzido por MARIA DE FATIMA FERREIRA DOMINGOS eFRANCISCO CARLOS DOMINGOS ENCARNACIONpara que seja deferido o efeito suspensivo ao agravo em recurso especial, de modo a impedir a realização do leilão designado para o dia 28/07/2021.
+Para tanto, afirmam que o imóvel, oferecido como garantia em contrato de alienação fiduciária, é bem de famíliae que o crédito oriundo da referida avença foi direcionado à empresa, não tendo revertido em prol da entidade familiar.
+Ressaltam que deve ser afastada a excussão de imóvel residencial dos sócios da empresa devedora, mormentequando o valor tomado não se reverteu em proveito da família.
+Requerem, por fim, seja atribuído efeito suspensivo ao agravo em recurso especial.
+É o relato do necessário. Decido.
+Na dicção do art. 300 do CPC, a tutela de urgência será deferida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+A concessão da medida pressupõe a constatação da presença simultânea dos requisitos autorizadores, vale dizer, o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido, e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico, objeto da pretensão resistida.
+No caso posto, verifica-se que a fundamentação apresentada no acórdão recorrido quanto ao tema se harmoniza com o entendimento desta Corte, conforme se infere do seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CONSOLIDAÇÃO DA PROPRIEDADE. 1. VIOLAÇÃO AO ART. 1.022, II, DO CPC/2015. NÃO OCORRÊNCIA. 2. ALIENAÇÃO FIDUCIÁRIA.CONSOLIDAÇÃO DA PROPRIEDADE. PRECEDENTES. 3. INTIMAÇÃO PESSOAL.REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 4. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. 5. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia.O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Com efeito, o acórdão recorrido encontra-se em consonância com a jurisprudência prevalente desta Corte Superior segundo a qual "sendo a alienante pessoa dotada de capacidade civil, que livremente optou por dar seu único imóvel, residencial, em garantia a um contrato de mútuo favorecedor de pessoa diversa, empresa jurídica da qual é única sócia, não se admite a proteção irrestrita do bem de família se esse amparo significar o alijamento da garantia após o inadimplemento do débito, contrariando a ética e a boa-fé, indispensáveis em todas as relações negociais" (REsp 1559348/DF, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 5/8/2019).
+2.1. Ademais, em relação à impenhorabilidade do bem de família, esta Corte Superior, objetivando prestigiar a boa-fé, já afastou tal garantia no caso em que o devedor fiduciante alienou fiduciariamente o bem de família, o qual sabidamente era de residência familiar, por caracterizar comportamento contraditório.
+3. Modificar o entendimento do Tribunal local, a fim de reconhecer a nulidade da intimação, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+4. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+5. Agravo interno improvido.
+(AgInt no AREsp 1809343/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/06/2021, DJe 07/06/2021, grifos acrescidos.)
+.
+Aliado a tal realidade, asdecisõesde inadmissibilidade do recurso (e-STJ fls. 423-426 e 427-429) ostentam fundamentação idôneae, portanto, tem o condão de demonstrar a ausência da fumaça do bom direito, requisito essencial para a concessão da tutela de urgência.
+Nesse contexto, em que pese o esforço argumentativo deduzido pelos requerentes quanto ao periculum in mora, a ausência de um dos requisitos obsta, por si só, a concessão da medida liminar.
+A propósito:
+PROCESSO CIVIL. AGRAVO INTERNO. PEDIDO DE TUTELA PROVISÓRIA. CONCESSÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. FUMAÇA DO BOM DIREITO. PERIGO DA DEMORA. REQUISITOS CUMULATIVOS. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. GRUPO ECONÔMICO. CONFUSÃO PATRIMONIAL. SÚMULAS 7 E 568 DO STJ. POSSIBILIDADE DE ÊXITO RECURSAL. AUSÊNCIA. PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL INDEFERIDO.
+1. Em hipóteses excepcionais, é possível a atribuição de efeito suspensivo a recurso especial, para tanto, porém, é necessária a demonstração do perigo da demora e a caracterização da fumaça do bom direito.
+2. A ausência da fumaça do bom direito basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica do perigo da demora, que deve se fazer presente cumulativamente.
+3. A jurisprudência do STJ é no sentido de que "reconhecido o grupo econômico e verificada confusão patrimonial, é possível desconsiderar a personalidade jurídica de uma empresa para responder por dívidas de outra, inclusive em cumprimento de sentença, sem ofensa à coisa julgada" (AgRg no AREsp 441.465/PR, 3ª Turma, DJe de 03/08/2015). No mesmo sentido: AgInt no ARESP 1.270.256/SC, 4ª Turma, DJe de 17/12/2018.
+4. Rever o entendimento do TJMS acerca da confusão patrimonial entre as empresas na hipótese em julgamento, demandaria o reexame de fatos e provas, o que não se permite na via especial.
+5. Agravo interno na petição não provido. (AgInt na Pet 13.400/MS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 24/08/2020, DJe 27/08/2020, grifos acrescidos.)
+Ante o exposto, indefere-se o pedido de tutela provisória de urgência.
+Publique-se. Intimem-se.
