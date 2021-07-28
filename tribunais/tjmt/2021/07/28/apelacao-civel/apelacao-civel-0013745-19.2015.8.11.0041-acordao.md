@@ -1,0 +1,76 @@
+INTERESSADO/APELANTE:
+ESTADO DE MATO GROSSO
+INTERESSADO/APELADO:
+ADEMAR SILVERIO DE FARIAS
+
+Número do Protocolo: 23494/2017
+Data de Julgamento: 28-07-2021
+
+E M E N T A
+
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA – AÇÃO DE COBRANÇA C/C REPETIÇÃO DE INDÉBITO – SERVIDOR PÚBLICO MILITAR – ISENÇÃO DE CONTRIBUIÇÃO IMPOSTO DE RENDA – REQUISITOS LEGAIS – MOLÉSTIA GRAVE – PARKINSON - COMPROVAÇÃO – HONORÁRIOS SUCUMBENCIAIS – REDUÇÃO – POSSIBILIDADE –ATUALIZAÇÃO MONETÁRIA – APLICAÇÃO DO TEMA 905 DO STJ – RECURSO CONHECIDO E PROVIDO – SENTENÇA RETIFICADA EM REEXAME NECESSÁRIO.
+1. O portador de moléstia grave, como cardiopatia grave, tem direito à isenção de imposto de renda de pessoa física e de contribuição previdenciária, desde que atenda a dois requisitos: que se trate de aposentadoria, pensão ou reserva/reforma (militares) e que o contribuinte apresente uma das enfermidades previstas no artigo 6º, XIV, da Lei nº 7.713/88.
+2. Quanto aos juros de mora e a correção monetária, devem incidir em observância ao tema 905 do STJ.
+3. Nos termos do artigo 85, §4º, não sendo liquida a sentença, a definição do percentual fixado a título de honorários advocatícios, somente ocorrerá quando liquidado o julgado.
+4. Recurso conhecido e provido.
+5. Sentença retificada em reexame necessário.
+
+INTERESSADO/APELANTE:
+ESTADO DE MATO GROSSO
+INTERESSADO/APELADO:
+ADEMAR SILVERIO DE FARIAS
+
+R E L A T Ó R I O
+EXMO. SR. DR. YALE SABO MENDES
+Egrégia Câmara:
+Cuida-se de Remessa Necessária e recurso de Apelação Cível interposto pelo ESTADO DO MATO GROSSO contra sentença proferida pelo juízo da 5ª Vara Especializada da Fazenda Pública da Comarca de Cuiabá-MT, M.M. Roberto Teixeira Seror, nos autos de Ação de Cobrança c/c Repetição de Indébito Tributário n.º 0013745-19.2015.8.11.0041, proposta por ADEMAR SILVERIO DE FARIAS, que julgou procedente o pleito inicial para condenar o Apelante ao pagamento dos valores indevidamente recolhidos diretamente da fonte pagadora a título de Imposto de Renda durante o período de fevereiro/2012 a abril/2014, devendo tais valores serem apurados em liquidação de sentença, devendo incidir juros no percentual estabelecido pela caderneta de poupança, e correção monetária pela taxa SELIC por se tratar de natureza tributária, forte no artigo 487, I, do Código de Processo Civil.
+Condenou ainda, o Apelante ao pagamento dos honorários advocatícios, fixado no percentual de 20% (vinte por cento) sobre o valor da causa, nos termos do §2º, §3º e §8º do artigo 85, do Código de Processo Civil.
+Irresignado, o Estado de Mato Grosso interpôs recurso de Apelação Cível, apresentando como causa de pedir recursal, a redução dos honorários sucumbenciais fixados em 20% sobre o valor da causa, devendo ser reduzida de modo a evitar o enriquecimento sem causa da parte contrária, ainda mais quando o valor em questão será paga com recursos do erário, ao final, pugna pela reforma favorável da sentença – fls. 87/88.
+O Apelado apresentou contrarrazões, combatendo pontualmente os argumentos defensivos, e pugnando pelo improvimento do apelo interposto, mantendo incólume e irretocável a sentença de primeiro grau – fls. 90/93.
+A Procuradoria-Geral de Justiça não se manifestou nos autos.
+É o relatório.
+
+V O T O
+EXMO. SR. DR. YALE SABO MENDES (RELATOR)
+Egrégia Câmara:
+Conforme explicitado no relatório, cuida-se de Remessa Necessária e recurso de Apelação Cível contra sentença que julgou procedente o pleito inicial para condenar o Apelante ao pagamento dos valores indevidamente recolhidos diretamente da fonte pagadora a título de Imposto de Renda durante o período de fevereiro/2012 a abril/2014.
+Consigno que se encontram presentes os requisitos extrínsecos, quais sejam, tempestividade, regularidade formal e preparo, bem como os intrínsecos, entre eles, cabimento, legitimidade, interesse recursal e ausência de fato extintivo ou impeditivo de recorrer, que autorizam reconhecer a admissibilidade e a apreciação da pretensão recursal.
+Extrai-se dos autos que Ademar Silvério de Farias ajuizou a presente “Ação de Cobrança” em desfavor do Estado de Mato Grosso, objetivando o recebimento de dos valores recolhidos diretamente da fonte pagadora a título de Imposto de Renda durante o período de fevereiro/2012 a abril/2014.
+Feitas estas considerações, passo à análise conjunta do recurso de Apelação e da Remessa Necessária.
+O Apelante Estado de Mato Grosso insurge-se apenas na redução do percentual de 20% em relação a fixação dos honorários advocatícios de sucumbência, inexistindo a discussão quanto ao direito de restituição a título de Imposto de Renda durante o período de fevereiro/2012 a abril/2014.
+Consta dos Autos que, o Autor/Apelado relata que, após sua transferência para a reserva remunerada no cargo de Segundo Tenente da PMMT, foi diagnosticado com doença de Parkinson (CID 10 G20) no mês de fevereiro de 2012, sendo submetido a uma cirurgia neurológica para instalação de sistema para estimulação cerebral profunda (DBS) em junho de 2012.
+Relata ainda que, após o diagnóstico, comunicou a sua enfermidade à Secretaria de Estado de Administração do Estado de Mato Grosso – SAD/MT, a qual instaurou um processo administrativo para averiguar a veracidade de suas informações, sendo que foi constatada após perícia médica a sua doença.
+Pontua que, muito embora a perícia médica tenha constado a sua enfermidade, os seus proventos de aposentadoria permaneceram com os descontos a título de Imposto de Renda durante o período de fevereiro de 2012 a abril de 2014.
+Pois bem. A Lei nº 7.713/88, a qual altera a legislação do imposto de renda e dá outras providências, dispõe em seu art. 6º, XIV, in verbis:
+“Art. 6º Ficam isentos do imposto de renda os seguintes rendimentos percebidos por pessoas físicas:
+(...)
+XIV – os proventos de aposentadoria ou reforma motivada por acidente em serviço e os percebidos pelos portadores de moléstia profissional, tuberculose ativa, alienação mental, esclerose múltipla, neoplasia maligna, cegueira, hanseníase, paralisia irreversível e incapacitante, cardiopatia grave, doença de Parkinson, espondiloartrose anquilosante, nefropatia grave, hepatopatia grave, estados avançados da doença de Paget (osteíte deformante), contaminação por radiação, síndrome da imunodeficiência adquirida, com base em conclusão da medicina especializada, mesmo que a doença tenha sido contraída depois da aposentadoria ou reforma;
+(...)” – Negritei.
+Conforme o dispositivo legal transcrito, somente serão considerados como rendimentos isentos do Imposto de Renda àqueles que forem pagos a título de aposentadoria ou reforma às pessoas portadoras das enfermidades alhures mencionadas.
+No caso em testilha, em análise do escorço fático e da malha documental acostada com a exordial, verifica-se o Autor/Apelado é portador de doença de Parkinson (CID 10 G20) desde o mês de fevereiro de 2012, sendo submetido a procedimento cirúrgico visando à melhora de seu quadro clínico em junho do mesmo ano.
+Nesta toada, resta plenamente demonstrado que o Autor/Apelado faz jus à benesse de isenção do Imposto de Renda retido diretamente na fonte, uma vez que os documentos acostados aos autos, em especial o Atestado Médico de lavra do Dr. Jony Soares Ramos – CRM 3099 (fls. 20) e o Laudo Pericial proferido pela SAD/MT de lavra do Dr. Mário Toshio Ishitani – CRM 1290 (fls. 25), atestam que o Autor/Apelado é portador da enfermidade ora em comento, a qual está inserida no rol taxativo descrito no art. 6º, XIV da Lei nº 7.713/88.
+Este é o entendimento deste sodalício;
+
+MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. APOSENTADORIA POR INVALIDEZ. MAL DE PARKINSON. ISENÇÃO DO IMPOSTO DE RENDA. PROVA PERCIAL OFICIAL. LEI Nº 7.713/88. SEGURANÇA CONCEDIDA. 1. A aposentadoria por invalidez decorrente de enfermidade grave e incurável é causa de isenção do imposto de renda. 2. Presença dos requisitos: rendimentos relativos a aposentadoria e pessoa física portadora de uma das doenças ali elencadas, o que é o caso em apreço já que o impetrante é portador da "doença de Parkinson". 3. A finalidade da isenção é conferir maior dignidade aos cidadãos portadores de moléstias graves. (N.U 0103274-80.2012.8.11.0000, JUVENAL PEREIRA DA SILVA, TURMA DE CÂMARAS CÍVEIS REUNIDAS DE DIREITO PÚBLICO E COLETIVO, Julgado em 06/06/2013, Publicado no DJE 01/07/2013).
+Em relação a redução dos valor fixado em honorários sucumbenciais. É sabido que quando a parte vencida for a Fazenda Pública é plenamente permitida a fixação de honorários em valores mais comedidos para que assim não onere demasiadamente o erário e, consequentemente, não viole o interesse público envolvido.
+Assim, entendo que a quantia arbitrada pelo juízo de primeiro grau, no importe de 20% (vinte por cento) sob o valor da causa, perfaz quantia vultosa, devendo, portanto, ser sopesados os critérios legais e, observadas as peculiaridades da causa, notadamente quanto ao tempo de tramitação, desnecessidade prática de atos complexos e importância do trabalho desenvolvido.
+Nesse sentido já se pronunciou o Superior Tribunal de Justiça:
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. VALOR EXCESSIVO. CARACTERIZAÇÃO. REDUÇÃO. 1. Os julgados do STJ têm firmado a compreensão de que a quantificação dos honorários arbitrados, no recurso especial, só pode ser modificada quando se mostrar irrisória ou exorbitante (excessiva). Fora disso seria necessário revolver o contexto fático-probatório, o que é vedado pela Súmula 7 ("A pretensão de simples reexame de prova não enseja recurso especial"). 2. A quantificação de valores relativos a honorários deve ser vista em cada caso, a despeito dos preceitos legais que regem a espécie. De toda forma, devem ser levados em conta o grau de zelo profissional, o lugar da prestação do serviço, a natureza e importância da causa, dentre outros fatores pertinentes. 3. A Primeira Seção, por ocasião do julgamento do REsp 1.155.125, MG, Relator Ministro Castro Meira, submetido ao regime dos recursos repetitivos, reafirmou a orientação de que, vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade. 4. Na hipótese, a sentença declarou nulo o Processo Administrativo nº 109/88, do CADE, e, por esse motivo, desconstituiu multa aplicada em valor econômico significativo, que emprestara à causa o valor R$ 1.000.000,00, fixando os honorários advocatícios em 10% sobre referido valor (R$ 100.000,00), valor que o Tribunal de origem reduziu para R$ 20.000,00 (vinte mil reais). 5. A decisão agravada, ao fundamento de que o arbitramento do Tribunal de origem fora irrisório em face do valor atribuído à causa, restabeleceu os honorários fixados pela sentença, que, em verdade, também se mostram excessivos em face dos princípios da razoabilidade e proporcionalidade, que aconselham a redução para 5% sobre o valor da causa, ou seja, R$ 50.000,00 (cinquenta mil reais). 6. Agravo regimental parcialmente provido. (AgRg no REsp 1412783/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, julgado em 05/11/2015, DJe 19/11/2015).
+Portanto, em face dos princípios da razoabilidade e proporcionalidade, levando-se em consideração o grau de zelo profissional, o lugar da prestação do serviço, a natureza e importância da causa, dentre outros fatores pertinentes, quais sejam, a elaboração da petição inicial e impugnação pelo advogado, o montante dos honorários advocatícios devem ser reduzidos.
+Assim sendo, mostra-se adequada a redução da verba honorária para 10% (dez por cento) sob o valor da condenação, quantia que melhor se ajusta ao trabalho desempenhado, remunerando o advogado de forma justa e proporcional, sem constituir ônus excessivo à Fazenda, e condizentes com os parâmetros traçados para casos semelhantes julgados nesta egrégia Câmara de Direito Público e pelo Superior Tribunal de Justiça em casos análogos.
+A propósito:
+APELAÇÃO – AÇÃO DE COBRANÇA – IRRESIGNAÇÃO DO MUNICÍPIO – HONORÁRIOS SUCUMBENCIAIS – REDUÇÃO – POSSIBILIDADE – HONORÁRIOS FIXADOS EM VALOR EXCESSIVO – CONDENAÇÃO AO PAGAMENTO DAS CUSTAS PROCESSUAIS – ISENÇÃO – RECURSO PROVIDO. Na forma do artigo 20, §§ 3º e 4º, do CPC/73, sendo parte a Fazenda Pública, hipótese dos autos, o valor dos honorários sucumbenciais deve ser fixado consoante os critérios estabelecidos legalmente. Na hipótese, mostra-se adequada a redução da verba honorária para 10% (dez por cento) sob o valor da condenação, quantia que melhor se ajusta ao trabalho desempenhado, remunerando o advogado de forma justa e proporcional, sem constituir ônus excessivo à Fazenda, e condizentes com os parâmetros traçados para casos semelhantes julgados nesta egrégia Segunda Câmara de Direito Público e pelo Superior Tribunal de Justiça em casos análogos. Nas condenações contra a Fazenda Pública aplica a isenção do pagamento das custas e despesas processuais (artigo 3º, inciso I, da Lei Estadual n. 7.603/2001). (N.U 0003186-85.2014.8.11.0025, ANTÔNIA SIQUEIRA GONÇALVES, SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 11/12/2018, Publicado no DJE 19/12/2018).
+Imperiosa também a adequação do julgado, conforme orientação do Supremo Tribunal Federal em sistemática de repercussão geral, tratada no RE Nº. 870.9477 (TEMA 810) e entendimento firmando em recurso repetitivo RESP Nº. 1.495.146/MG (TEMA 905), que trata da questão associada as atualização dos valores de acordo com a natureza da condenação imposta à Fazenda Pública.
+Sendo assim, os índices de correção serão fixados em liquidação de sentença, observando-se a decisão do Superior Tribunal Justiça no julgamento do Tema nº 905.
+Neste prisma, no que concerne aos honorários advocatícios, é certo que o juízo a quo agiu com acerto, posto que o artigo 85, §4º do Código de Processo Civil, estabelece que, não sendo líquida a sentença, a definição do percentual a ser fixado a título de honorários advocatícios, somente ocorrerá quando liquidado o julgado.
+Ante o exposto, conheço do Recurso de Apelação e DOU PROVIMENTO, ao recurso para reduzir o montante fixado a título de honorários sucumbenciais para a quantia de 10% (dez por cento) sob o valor da causa, bem como para determinar que a correção monetária incida pela variação do INPC, acrescidos de juros moratórios aplicados à caderneta de poupança, a partir da citação, em observância ao Tema 905 do STJ, em remessa necessária RETIFICO a sentença vindicada, em reexame.
+É como voto. .
+
+A C Ó R D Ã O
+Vistos, relatados e discutidos os autos em epígrafe, a PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO do Tribunal de Justiça do Estado de Mato Grosso, sob a Presidência do DES. MARIO ROBERTO KONO DE OLIVEIRA, por meio da Câmara Julgadora, composta pelo DR. YALE SABO MENDES (Relator), DR. GILBERTO LOPES BUSSIKI (1º Vogal convocado) e DES. MARIO R. KONO DE OLIVEIRA (2º Vogal convocado), proferiu a seguinte decisão: À UNANIMIDADE, PROVERAM O RECURSO E RETIFICARAM A SENTENÇA, NOS TERMOS DO VOTO DO RELATOR.
+
+Cuiabá, 28 de julho de 2021.
+
+-------------------------------------------------------------------------------------------
+DOUTOR YALE SABO MENDES - RELATOR
