@@ -1,0 +1,61 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1002199-59.2018.8.11.0003
+RECORRENTE: JÚLIO CESAR SPERANZA
+RECORRIDO: AYMORE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A
+Vistos.
+Trata-se de Recurso Especial (ID 88254976) interposto por JÚLIO CESAR SPERANZA, com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Privado, assim ementado (ID 85155956):
+AGRAVOS INTERNOS EM RECURSOS DE APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS – PARCIAL PROCEDÊNCIA – DECISÃO MONOCRÁTICA – APELO DA REQUERIDA DESPROVIDO E RECURSO DO AUTOR PARCIALMENTE PROVIDO PARA APLICAÇÃO DE MULTA POR DESCUMPRIMENTO – DECISÃO FUNDAMENTADA – AUSÊNCIA DE ELEMENTOS NOVOS CAPAZES DE MODIFICAR O DECISUM – RECURSOS DESPROVIDOS.
+Hão de ser desprovidos os agravos internos se a decisão recorrida encontra-se devidamente fundamentada e não há nos autos elementos novos capazes de modificar o entendimento que negou provimento ao recurso de apelação cível da parte requerida e, em sede de embargos de declaração, deu parcial provimento ao apelo do autor para aplicar multa por descumprimento de ordem judicial, fixada em R$ 10.000,00 (dez mil reais. (TJMT, ApCiv no 1002199-59.2018.8.11.0003, Segunda Câmara de Direito Privado, Rel. Desa. Marilsen Andrade Addario, j.28.04.2021).
+Na espécie, o recurso foi interposto contra o aresto que, em sede de Agravo interno, aviado por JÚLIO CESAR SPERANZA manteve a decisão monocrática da emitente relatora, a qual, nos autos de Ação Declaratória de Inexistência de Débito c/c Danos deu parcial provimento ao recurso do recorrente para reconhecer o seu direito ao recebimento da multa por descumprimento da ordem judicial, fixada em R$ 10.000,00 (dez mil reais).
+O recorrente alega violação aos artigos 497 e 537 do Código de Processo Civil, além de dissídio jurisprudencial, argumentando que o acordão recorrido reconheceu que a ordem judicial para retirada dos dados do consumidor do Serasa/SPC foi descumprida por 111 (cento e onze dias).
+Inobstante a este fato, a Câmara entendeu que a fixação de multa no importe arbitrado em primeira instância (multa diária no valor de R$ 500,00 reais) superaria a obrigação principal, tornando-se desproporcional, motivo pelo qual a limitou ao valor da condenação em danos morais (R$ 10.000,00).
+Prossegue dissertando que os artigos 497 e 537 do CPC preveem expressamente que a multa por astreintes objetiva coagir a parte a cumprir com a obrigação imposta, tendo o juízo a liberdade de fixá-la em patamar suficiente para tanto.
+Sustenta que “não é plausível o entendimento de que a multa em discussão atingiu patamares desproporcionais, uma vez que esta sequer foi capaz de atingir seu objetivo de compelir a Recorrida ao cumprimento da obrigação” (ID 88254976 - Pág. 8).
+Argumenta que a recorrida procedeu a duas negativações referente ao mesmo contrato questionado em juízo, acarretando em inquestionável descumprimento da medida liminar, e embora a segunda delas não tenha sido lançada no mesmo valor da primeira restrição (R$ 58.202,92), mas sim de R$ 3.947,12 (três mil, novecentos e quarenta e sete reais e doze centavos), não há que se falar em desproporcionalidade da multa diária de R$ 500,00 (quinhentos reais), eis que completamente justificável e razoável para o fim a que se destinava.
+Arremata que é entendimento sedimentado do Superior Tribunal de Justiça que “o critério mais justo e eficaz para a aferição da proporcionalidade de razoabilidade da multa consiste em comparar o valor da multa diária, no momento de sua fixação, com a expressão econômica da prestação que deve ser cumprida pelo devedor” e que “ o simples fato do valor desta, ao fim, ser superior ao valor da obrigação principal não a torna desproporcional, desarrazoada ou injusta, uma vez que apenas alcançou tal patamar em razão da resistência da parte em cumpri-la (ID 88254976 - Pág. 9/10).
+Por fim, por entender que os critérios basilares para fixação da multa diária foram desrespeitados, requer a reforma do julgado para que seja arbitrada em seu valor integral, correspondente aos 111 (cento e onze) dias descumprimento, atingindo o patamar de R$ 55.500,00 (cinquenta e cinco mil e quinhentos reais).
+Recurso tempestivo (ID 88351995) e preparado (ID 88273475)
+Contrarrazões pelo não seguimento do recurso, conforme ID. 90895491.
+É o relatório.
+Decido.
+1- Da não aplicação da sistemática de recursos repetitivos.
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, incidindo, portanto, a regra do artigo 1.030, V, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+2- Pressupostos satisfeitos
+A partir da provável ofensa aos artigos 497 e 537 do Código de Processo Civil, o recorrente sustenta que as balizas para arbitramento da multa diária não foram observadas pelo órgão fracionário recorrido, o que motivou a fixação em valor insuficiente.
+Constata-se que a matéria acima mencionada, além de ter sido discutida no aresto impugnado, o que impede a incidência das Súmulas 211 do STJ, 282 e 356, do STF, é exclusivamente de direito, porquanto não se pretende reexaminar fatos e provas.
+Quanto a este último ponto (eventual reexame de fatos e provas) o óbice é superado porque as premissas fáticas estão delineados no aresto recorrido, em especial: (a) a negativação dos dados do recorrente por duas vezes em virtude do contrato sub judice, com os seus respectivos valores; (b) o descumprimento da decisão judicial que determinou a retirada do apontamento por 111 (cento e onze dias); (c) o valor da obrigação principal.
+Nesta perspectiva, é possível ao Superior Tribunal de Justiça analisar o feito sob o ângulo de revaloração da prova, não incidindo, também, no caso concreto, nenhuma outra súmula impeditiva.
+Por fim, ressalte-se que a parte recorrente fez o correto cotejo analítico entre o aresto objurgado e a apelação cível no 0003481-13.2007.8.19.0004, originária do Estado do Rio de Janeiro, acerca de matéria retratada nestes autos, pelo fato de que o aresto paradigma considerou que “ deve-se perquirir se o valor das astreintes, no momento de sua fixação, obedece aos critérios da proporcionalidade e razoabilidade em relação ao da obrigação principal, e não o valor total alcançado por manifesta recalcitrância do devedor – que sequer justificou a demora”, ao passo que o aresto objurgado entendeu que “caso fosse aplicada a multa na forma fixada, ou seja, de R$ 500,00 (quinhentos reais) diários por 111 dias, o valor da astreinte seria muito superior ao da obrigação principal, inclusive levando-se em conta a indenização por danos morais, no importe de R$ 10.000,00 (dez mil reais)”.
+A respeito do tema, traz-se à colação jurisprudência do STJ no sentido de que fixação da multa considerando tão-somente o valor final alcançado pelas astreintes “poderia implicar em estímulo à recalcitrância do devedor, além de desprestígio à atividade jurisdicional das instâncias ordinárias.
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER.
+PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. RECUSA DE COBERTURA DE PLANO DE SAÚDE.
+MEDICAMENTO OFF LABEL. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA No 568 DO STJ. MULTA DIÁRIA APLICADA. EXORBITÂNCIA NÃO CONFIGURADA. REDUÇÃO DO VALOR.
+IMPOSSIBILIDADE. SÚMULA No 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo no 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não há que se falar em omissão ou negativa de prestação jurisdicional, na medida em que o Tribunal gaúcho, clara e fundamentadamente, dirimiu as questões que lhe foram submetidas.
+3. Esta Corte já se posicionou no sentido de que não há vedação legal ao uso de medicamentos off label, se há evidências clínicas que amparam a prescrição médica.
+4. A apuração da razoabilidade e da proporcionalidade do valor da multa diária deve ser verificada no momento da sua fixação, em relação ao da obrigação principal, uma vez que a redução do montante fixado a título de astreinte, quando superior ao valor da obrigação principal, acaba por prestigiar a conduta de recalcitrância do devedor em cumprir a decisão judicial e estimula a interposição de recursos a esta Corte para a redução da sanção, em total desprestígio da atividade jurisdicional das instância ordinárias.
+Precedente.
+5. Esta Corte firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, na hipótese em que o dissenso é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula no 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+6. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido.
+7. Agravo interno não provido.
+(AgInt no AREsp 1517002/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/12/2019, DJe 18/12/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. ASTREINTES. FUNDAMENTO NÃO IMPUGNADO. SÚMULA No 283 DO STF. MULTA DIÁRIA. VALOR FIXADO. EXORBITÂNCIA. INEXISTÊNCIA. IMPOSSIBILIDADE DE REVISÃO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA No 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo no 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O acórdão recorrido afirmou que as astreintes foram confirmadas no julgamento da apelação e que a multa diária seria um meio de coação, de maneira que seu afastamento retiraria a força da atuação do Poder Judiciário. Fundamentos não impugnados. Súmula no 283 do STF.
+3. O STJ, sensível a situações em que é manifesta a superveniência de valor excessivo resultante, em maior parcela das vezes, da reiteração do descumprimento da obrigação imposta, passou a viabilizar a revisão da multa diária em recurso especial, nos casos em que se atingissem valores evidentemente exagerados, importando em enriquecimento sem causa, ou ínfimos, insuficientes para manter a carga coercitiva da ordem judicial. Precedentes.
+4. A Terceira Turma é uníssona no sentido de que a razoabilidade e a proporcionalidade das astreintes deve ser verificada no momento em que fixadas, levando em conta o seu valor inicial, e não em relação ao valor da obrigação principal ou do montante consolidado pela desobediência do devedor. Precedentes.
+5. O acórdão vergastado assentou que o valor da multa cominatória não era excessivo, mostrando-se adequado à carga coercitiva da obrigação imposta. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta a Súmula no 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp 1207823/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/08/2020, DJe 27/08/2020)
+Ante o exposto, dou seguimento ao recurso, com fundamento no artigo 1.030, V, “a”, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
