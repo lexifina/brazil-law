@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de JAQUELINE MACIEL DA SILVAemque se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (HC n. 5115963-29.2021.8.21.7000).
+A paciente foi presa em flagrante no dia 15/7/2021, pela suposta prática do crime previsto no art. 33, caput,da Lei n. 11.343/2006. Posteriormente sua prisão convertida em preventiva.
+O impetrante alega a ausência de fundamentação a justificar a segregação cautelar imposta ao paciente, reputando não atendidos os requisitos autorizadores da medida extrema, insculpidos no art. 312 do Código de Processo Penal.
+Aduz, ainda, que a paciente foi presa por crime sem violência ou grave ameaça, é mãe de dois filhos menores de idade, Lucas Maciel da Silva Lopes, de 3 anos, nascido em 13/3/2018, e Kevin Gian Maciel da Rosa, de 14 anos, nascido em 6/5/2007, que dependem dos seus cuidados, e por não haver fundamento idôneo para a segregação cautelar, deveria responder em liberdade,nos termos da Recomendação CNJ n. 62/2020.
+Requer, liminarmente e no mérito, a concessão da ordem com a imediata expedição de alvará de soltura da paciente ou, subsidiariamente, a substituição do cárcere por providências cautelares mais brandas previstas no art. 319 do Código de Processo Penal.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada colegiadamente pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. 1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.
+ ..  (HC n. 486.900/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2019.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+Ademais, como bem enfatizou o desembargador relator, ao negar a liminar:
+ ..
+Verifica-se, assim, que a decisão hostilizada está devidamente fundamentada, apontando a necessidade da prisão preventiva para garantia da ordem pública e conveniência da instrução criminal, motivo pelo qual, por ora, vai mantida.
+ ..
+A primariedade da paciente, que tem 34 anos de idade, e a existência de condições pessoais favoráveis, além do filho menor de 12 anos de idade, por si só, não possuem o condão de revogar prisão preventiva devidamente fundamentada.
+Ademais, não restou demonstrado que o filho menor depende única e exclusivamente da mãe. A prisão da paciente se deu quando os policiais foram informados pelo setor de inteligência de que havia o descarregamento de grande quantidade de entorpecentes no local para o qual se dirigiram os policiais. Aochegarem no local, os policiais avistaram os corréus descarregando as drogas dos veículos e levando para dentro da casa. Realizaram a abordagem e prenderam a paciente organizando as drogas dentro da sua residência. Foram apreendidos 271,6kg de maconha com a paciente e com os quatro corréus.
+Veja-se que diante dos fatos constantes no Inquérito Policial estão preenchidos o fumus comissi delicti, bem como o periculum libertatis, eis que se trata de grande quantidade de entorpecentes e que envolvem outros quatro corréus. Obviamente que a participação ou não da paciente no ato ilícito demanda uma dilação probatória que não cabe no âmbito do remédio constitucional.
+O que é necessário no habeas corpus é verificar ilegalidades, bem como se estão preenchidos os requisitos da segregação preventiva e, conforme apontado acima, verifica-se no presente caso que está devidamente fundamentada o decreto da preventiva, não há ilegalidades no procedimento, bem como estão preenchidos os requisitos da preventiva.
+Ressalte-se que já há Denúncia contra a paciente e os corréus no processo autuado sob o nº 5077854-88.2021.8.21.0001.
+Cumpre destacar que a prisão preventiva não ofende o princípio constitucional da presunção de inocência, nem se trata de execução antecipada de pena. A Constituição Federal prevê, no seu art. 5º, inciso LXI, a possibilidade de prisão, desde que decorrente de ordem escrita e fundamentada.
+A decisão hostilizada está devidamente fundamentada, apontando a necessidade da prisão preventiva para garantia da ordem pública e conveniência da instrução criminal, motivo pelo qual, por ora, vai mantida.
+Neste cenário, a prisão preventiva justifica-se como forma de evitar a possível prática de infrações penais, nos termos do artigo 282, inciso I, parte final, do Código de Processo Penal.
+Deste modo, não vislumbro a ocorrência de constrangimento ilegal capaz de justificar a concessão da liminar, devendo a reavaliação da necessidade da prisão ser submetida a julgamento pelo Colegiado, em observância à regra disposta no parágrafo único do artigo 316 do Código de Processo Penal.
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular.
+Ante o exposto, com fundamento no art. 21, XIII,c, c/c o art. 210 do RISTJ, indefiro liminarmente o presentehabeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
