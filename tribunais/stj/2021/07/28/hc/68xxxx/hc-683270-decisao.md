@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de RODRIGO DUARTE DOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (HC n. 5116494-18.2021.8.21.7000).
+O paciente foi preso em flagrante, acusado pela prática dosdelitos previstos no art. 33, caput,e no art. 35, caput, da Lei n. 11.343/06, tendo a custódia sido convertida em preventiva.
+O impetrante sustentaa nulidade da prisão em flagrante ante a não realização da audiência de custódia, defendendo a imprescindibilidade de tal ato.
+Aduz que a prisão preventiva careceria de fundamentação idônea, não estando presentes os requisitos necessários para a sua decretação, previstos no art. 312 do Código de Processo Penal.
+Alega que o paciente é primário, ostenta bons antecedentes, possui endereço fixo e ocupação lícita, predicados que denotariam a desproporcionalidade de sua manutenção no cárcere.
+Afirma que, na hipótese, seria possível a substituição da medida extrema por providências cautelares alternativas, nos termos do art. 319 do Código de Processo Penal.
+Defende o cabimento de prisão domiciliar com monitoramento eletrônico, a teor do disposto na Recomendação CNJ n. 62/2020.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente ou, subsidiariamente, a substituição do cárcere por recolhimento domiciliar.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeascorpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. APREENSÃO DE QUASE 3kg DE MACONHA. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a prisão preventiva foi decretada em razão da periculosidade social do agravante, evidenciada a partir das circunstâncias concretas colhidas do flagrante, notadamente pela apreensão de expressiva quantidade de droga - quase 3kg de maconha. Precedentes. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+3. Agravo regimental desprovido.
+(AgRg no HC 629.203/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020; sem grifos no original)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto a autoridade impetrada, ao indeferir a liminar no mandamus originário, fundamentou suficientemente a manutenção da custódia do paciente nos seguintes termos (e-STJ fls. 228-230):
+Com efeito, encontram-se presentes os requisitos do artigo 312 do CPP, para adecretação da prisão cautelar. quais sejam, o fumus comissi delicti e o periculum libertatis.O fumus comissi delicti vem consubstanciado na prisão em flagrante do acusado. Nocaso, os agentes policiais, ao abordarem veículo automotor, que tentou fugir do local, dando ré ecolidindo em um caminhão parado, foram surpreendidos por disparos de arma de fogo, efetuadospor um dos ocupantes, que conseguiu empreender fuga. Realizada a abordagem dos demaisocupantes do veículo, um deles sendo o ora paciente, foi localizada, em seu colo, umamochila contendo 15 quilos desubstância similar a maconha consoante auto de prisão emflagrante (Ev. 01 - P FLAGRANT11 - fl. 05, dos autos do processo de origem).
+ ..
+Outrossim, presente também o periculum libertatis, mostrando-se necessária amanutenção da segregação cautelar para garantir a ordem pública e a aplicação da lei penal.Evidenciadas a gravidade concreta dos delitos imputados ao paciente e a sua
+periculosidade, haja vista a expressiva quantidade de substância ilícita apreendida com osflagrados, revelando, a priori, o envolvimento aprofundado com o crime perpetrado.Isso porque, conforme bem salientado pela magistradas quo quando da decretação dacustódia cautelar, "somente aquele indivíduo que está atuando dentro de uma organizaçãocriminosa e que ostenta uma função específica na empreitada delitiva poderia ter acesso a maisde 10 quilos de maconha ".Ademais, conforme remansoso entendimento do Superior Tribunal de Justiça, aquantidade de drogas é, em tese, motivo suficiente para a manutenção da prisão preventiva.Outrossim, o paciente apresenta extensa lista de antecedentes criminais, inclusivecondenações transitadas em julgado acerca do mesmo delito de tráfico de drogas:
+ ..
+Por fim, constatada a necessidade da prisão, inviável a adoção de medidas cautelares alternativas que na espécie, não se mostrariam suficientes ou eficazes para a garantia da ordem pública, haja vista a periculosidade do paciente demonstrada pela sua clara tendência à reiteração delitiva.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
