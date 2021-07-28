@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de ARIELSON SERRA MOTA e de JAILSON AMORIM DA SILVAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ (HC n. 0807446-25.2021.8.14.0000).
+Os pacientes foram presos preventivamente e denunciados como incursos no art. 121, § 2º, incisos III e IV, do Código Penal.
+Sustenta o impetrante a necessidade de afastamento da Súmula 691 do Supremo Tribunal Federal, porquanto seria manifesto o constrangimento ilegal sofrido pelos acusados, tendo em vista a sucessão de ilegalidades que teriam ocorrido.
+Afirma que os pacientes não foram flagrados cometendo o crime e que o interrogatório na delegacia afrontou o art. 18 da Lei n. 13.869/2019.
+Aduz a inépcia da denúncia, pois os fatos narrados não guardariam relação com o que foi apurado no inquérito policial.
+Alega que o pedido de prisão foi alicerçado em depoimentos obtidos de forma ilegal ea segregação cautelar foi decretada e mantida sem a manifestação do Ministério Público.
+Destaca as condições pessoais favoráveis dos pacientes e argumenta que o decreto constritivo careceria de fundamentação idônea, não estando presentes os requisitos necessários para a segregação antecipada, previstos no art. 312 do Código de Processo Penal.
+Requer, liminarmente, a suspensão do processo originário até o julgamento final do presente writ, com a revogação das prisões e a imediata expedição de alvará de soltura em favor dos pacientes. No mérito, pugna pelo reconhecimento das nulidades aventadas, "em especial da nulidade da inquirição dos pacientes, por ocasião da fase policial  .. , e em consequência o seu desentranhamento do processo originário, bem como a anulação de todos os atos oriundos, que mencionaram e se fundamentaram naqueles documentos, bem como pela inépcia da denúncia, e falta de fundamentação concreta na decisão de manutenção da prisão dos pacientes" (e-STJ fls. 13 e 14). Ainda no mérito, pleiteia a manutenção da liberdade dos acusados, com aaplicação de medidas cautelares diversas.
+Postula, por fim, a intimação da defesa para a realização de sustentação oral.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. APREENSÃO DE QUASE 3kg DE MACONHA. WRIT IMPETRADO CONTRA DECISÃO QUE
+INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a prisão preventiva foi decretada em razão da periculosidade social do agravante, evidenciada a partir das circunstâncias concretas colhidas do flagrante, notadamente pela apreensão de expressiva quantidade de droga - quase 3kg de maconha. Precedentes. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+3. Agravo regimental desprovido.(AgRg no HC 629.203/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020;sem grifos no original)
+Confira-se, também, a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto a autoridade impetrada, ao indeferir a liminar nomandamusoriginário, fundamentou suficientemente a manutenção da custódia dos pacientes nos seguintes termos (e-STJ fl. 21):
+"Neste compasso, conforme a decisão do Juízo a quo, este considerou a manutenção das prisões dos pacientes diante das situações fáticas e jurídicas que levaram esse Juízo a decretar as prisões preventivas, ou seja, diante da necessidade de manutenção da ordem pública, da garantia da aplicação da lei penal e conveniência da instrução criminal, situação que será revista, obrigatoriamente, após a instrução do processo.
+Ademais no caso em análise, deve ser destacado que os pacientes estão sendo acusados de homicídio qualificado, cometido por motivação fútil, diante de razão banal, consistente em irritação pela vítima cantar uma música que os paciente não gostavam.
+Outrossim, observa-se na decisão, que o Magistrado levou em conta, também, que os pacientes não se entregaram espontaneamente e somente foram levados à polícia porque foram encontrados escondidos em mata fechada, já em outra Comunidade, aguardando um meio de evadir-se do distrito da culpa.
+Dessa forma, não vislumbro, prima facie, flagrante ilegalidade, apta a gerar a concessão da ordem, especialmente considerando a indicação pelo magistrado, em sua recente decisão, da necessidade da decretação da prisão preventiva.
+Diante do exposto, ausentes os requisitos indispensáveis à concessão da liminar requerida em regime de plantão, quais sejam, fumus boni iuris e o periculum in mora, razão pela qual a indefiro".
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
