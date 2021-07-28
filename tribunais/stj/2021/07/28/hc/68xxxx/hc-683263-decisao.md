@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de RENATO HENRIQUE RIBEIRO LEAL em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO(Habeas Corpus n. 0012561-42.2021.8.17.9000).
+O paciente, denunciado pelaprática em tese das infraçõesprevistas no art. 121, § 2º, I, III e IV,c/c os arts. 29, caput, 61, II, e, e 62, I,todos do Código Penal,teve decretada a prisão preventiva para a garantia da ordem pública, haja vista a gravidade concreta do fato delitivo e a periculosidade do agente, bem como para assegurar a aplicação da lei penal e por conveniência da instrução criminal.
+Os impetrantes sustentam a ilegalidade da prisão preventiva, ao argumento de que não estão presentes os pressupostos do art. 312 do Código de Processo Penal. Afirmam que o paciente possui condições pessoais favoráveis, não tem a intenção de se furtar da aplicação da lei penale que o decreto prisional encontra-se embasado em fundamentação genérica, calcada na gravidade abstrata do crime. Defendem a aplicação de medidas cautelares diversas da prisão.
+Requerem, liminarmente, a revogaçãoda ordem de prisão preventiva. No mérito, pugnam pela concessão da ordem para que seja confirmada a medida liminar.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDEFERIMENTO DA LIMINAR NO WRIT ORIGINÁRIO. SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL - STF. DOMICILIAR. PAI DE CRIANÇA. AUSÊNCIA DE DEMONSTRAÇÃO DOS REQUISITOS PREVISTOS NO ART. 318, VI, DO CÓDIGO DE PROCESSO PENAL - CPP. AUSÊNCIA DE ILEGALIDADE PATENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos expostos na decisão agravada, não se constata nos autos constrangimento ilegal patente, apto a justificar a superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal - STF.
+2. Quanto ao pleito de prisão domiciliar, conforme consta da decisão proferida pelo Tribunal de origem, sequer ficou demonstrado que o paciente seria o único guardião da criança, não estando supridas as exigências do art. 318, VI, do CPP.
+3. Agravo regimental desprovido.
+(AgRg no HC 672.703/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/06/2021, DJe 24/06/2021)
+Confira-se, também, a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, sobretudo porque, conforme aduzido no decreto prisional (e-STJ fl. 65):
+Verifica-se, ainda, no delito em comento, que a prisão cautelar em desfavor do representado se mostra suficientemente motivada para a preservação da ordem pública, verificada pelo modus operandi mediante o qual foi praticado o delito.
+Note-se que a conduta do réu revela periculosidade e despreparo para a convivência social, pois, além de ter matado a vítima, seu próprio pai por aparente motivo banal (ficar com a herança do pai), a análise preliminar do fato demonstra que o acusado agiu sem qualquer receio, planejando e orientando os executores do crime. Além disso, as orientações dadas por RENATO (mandante) aos executores do crime (todos menores de idade), indica provável premeditação do crime.
+Desse modo, a conduta perpetrada pelo réu denota frieza e periculosidade, sendo altamente reprovável e afetando de sobremaneira a ordem pública.
+Inegável, também, a necessidade de assegurar a credibilidade do Poder Judiciário, para que a impunidade não gere a sensação de impunidade na sociedade, hordiernamente, abalada pelo desenfreamento da criminalidade.
+A prisão do réu RENATO HENRIQUE RIBEIRO LEAL também é substanciada na garantia da aplicação da lei penal e da instrução processual, pois, segundo se observa dos autos, após o crime, o réu evadiu-se do denominado distrito da culpa, tomando destino ignorado, o que certamente prejudicará a conclusão das investigações, além de demonstrar clara intenção de se furtar à aplicação da lei penal. (Original sem destaques)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
