@@ -1,0 +1,16 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+PRESIDÊNCIA
+RECURSO ORDINÁRIO NO MANDADO DE SEGURANÇA N. 1000042-20.2021.8.11.0000
+RECORRENTE: SINDICATO DOS SERVIDORES DO DEPARTAMENTO ESTADUAL DE TRÂNSITO
+Vistos, etc.
+Trata-se de Recurso Ordinário (Id. 96116996), com pedido de efeito ativo, interposto por SINDICATO DOS SERVIDORES DO DEPARTAMENTO ESTADUAL DE TRÂNSITO, com fundamento no art. 105, II, “b”, da Constituição Federal, contra acórdão da Turma de Câmaras Cíveis Reunidas de Direito Público e Coletivo deste Sodalício, assim ementado (Id. 87842980):
+“MANDADO DE SEGURANÇA – PROCESSO SELETIVO PÚBLICO PARA LOTAÇÃO DE SERVIDORES PÚBLICOS ESTADUAIS NAS UNIDADES DE CORREIÇÃO DO SISTEMA DE CORREIÇÃO DO DETRAN/MT – APROVAÇÃO DENTRO DO NÚMERO DE VAGAS INICIALMENTE OFERTADAS – NÃO EXPIRADO O PRAZO DE VALIDADE DO SELETIVO – ALEGADA PRETERIÇÃO – RECUSA DA ADMINISTRAÇÃO PÚBLICA AO DIREITO SUBJETIVO À NOMEAÇÃO PELO JUÍZO DE CONVENIÊNCIA E OPORTUNIDADE – SITUAÇÃO EXCEPCIONAL – ESSENCIALIDADE DAS FUNÇÕES QUE DESEMPENHAM OS SERVIDORES NA SUA LOTAÇÃO FUNCIONAL ATUAL – NÃO DESCARTADA A POSSIBILIDADE DE POSTERIOR NOMEAÇÃO DENTRO DO PRAZO DE VALIDADE DO CERTAME – AUSÊNCIA DE ATO ILEGAL – VIOLAÇÃO À DIREITO LÍQUIDO E CERTO NÃO CONFIGURADA – ORDEM DENEGADA. 1. Encontrando-se o processo seletivo dentro do seu prazo de validade, sem que tenha sequer havido a prorrogação deste por mais dois anos, não há falar em direito automático à nomeação dos candidatos aprovados. 2. “A recusa da Administração Pública ao direito público subjetivo de nomeação em favor do candidato classificado dentro do número de vagas ofertadas no edital de concurso público somente se justifica se obedecidas integralmente as condicionantes previstas no RE 598.099/MS, que constitui o marco jurisprudencial regulatório desse direito”. (RMS 57.565/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 20/08/2018). 3. Tendo a administração pública justificado a essencialidade da manutenção dos servidores nas funções atualmente desempenhadas no órgão em que ocupam, sem descartar a eventual possibilidade de serem convocados para o cargo em que foram classificados, resta motivada sua decisão, em benefício do interesse público. 4. Não tendo a Administração Pública descartado a possibilidade dos servidores aprovados no processo seletivo serem nomeados, não há falar em violação a direito líquido e certo.” (MS 1000042-20.2021.8.11.0000, DR. ALEXANDRE ELIAS FILHO, TURMA DE CÂMARAS CÍVEIS REUNIDAS DE DIREITO PÚBLICO E COLETIVO, Julgado em 01/07/2021)
+Nos termos do §3o do art.1.028 do CPC, “Findo o prazo referido no § 2o, os autos serão remetidos ao respectivo tribunal superior, independentemente de juízo de admissibilidade.” (destaquei)
+Consequentemente, e com vistas a evitar a extrapolação dos limites da competência da Vice-Presidência, o pedido de liminar, consistente na determinação à Autoridade Coatora para a imediata nomeação dos candidatos substituídos, será apreciado pelo Superior Tribunal de Justiça.
+Destarte, intime-se a parte Recorrida para apresentar contrarrazões e, na sequência, encaminhem-se os autos à Instância Superior.
+Cumpra-se.
+Cuiabá/MT, 29 de julho de 2021.
+Desa. MARIA HELENA G. PÓVOAS,
+Presidente do Tribunal de Justiça.
