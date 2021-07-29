@@ -1,0 +1,33 @@
+Vistos, etc.
+Dispensado o relatório, atendido o disposto no art. 38 da Lei n.o 9.099/95.
+Trata-se de recurso de Embargos de Declaração opostos em face da decisão por esta Turma Recursal abaixo ementada:
+RECURSO INOMINADO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITOS. SERVIÇOS DE FORNECIMENTO DE ENERGIA ELÉTRICA. NEGATIVA DE CONTRATAÇÃO. PEDIDO DE GRATUIDADE DA JUSTIÇA DEFERIDO. PRESCRIÇÃO AFASTADA. NEGATIVAÇÃO. RELAÇÃO JURÍDICA NÃO COMPROVADA. DANOS MORAIS CONFIGURADOS. INSCRIÇÃO INDEVIDA EM ÓRGÃO DE PROTEÇÃO AO CRÉDITO – NÃO INCIDÊNCIA DA SÚMULA 385/STJ – EXISTÊNCIA DE INSCRIÇÃO POSTERIOR - SENTENÇA PARCIALMENTE REFORMADA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. Tendo em vista que a parte Autora/Recorrente demonstrou sua carência econômica, mostra-se devido o deferimento do pedido de gratuidade da justiça para o processamento do seu recurso.
+2. No presente caso, o prazo prescricional tem como termo a quo não a data da negativação, mas a data em que o consumidor tomou ciência de sua existência, ou seja, o dia em que retirou o extrato do SCPC, que ocorreu em 31.12.2016 (id. 71938516), portanto, afasto a prejudicial de mérito aventada.
+3. Trata-se de ação indenizatória em que a parte autora ANDERSON JOSE RONSON DA SILVA, postula declaração de inexistência de relação jurídica e a inexigibilidade do débito no valor de R$ 47,82 (quarenta e sete reais e oitenta e dois centavos), inserida em 31.12.2016, além de reparação por danos morais, em razão de seu nome ter sido inscrito indevidamente nos órgãos de proteção ao crédito por débito que alega desconhecer.
+4. A recorrida afirma que, a negativação é devida, contudo, não anexou nenhum documento capaz de comprovar suas alegações.
+5. As telas sistêmicas isoladamente não são provas hábeis a comprovarem a contratação do serviço. Sendo que, cumpria a Recorrida comprovar a origem do débito, bem como, ter sido efetivamente realizado pelo Recorrente, nos termos do art. 373, II, do CPC, ônus que não se desincumbiu.
+6. Sentença de mérito que julgou inexigível os débitos, contudo, julgou improcedente dano moral em razão de prescrição trienal, merece parcial reforma.
+7. É sedimentado na jurisprudência pátria que a negativação indevida configura danos morais na modalidade in re ipsa, e a fixação do montante da condenação a título de danos morais, deve-se atender a uma dupla finalidade: reparação e repressão. Portanto, há que se observar a capacidade econômica da atingida, mas também a do ofensor, com vistas a evitar o enriquecimento injustificado, e garantir o viés pedagógico da medida, desestimulando-se a repetição do ato ilícito.
+8. Quantum indenizatório em razão da negativação indevida deve ser fixado no valor de R$ 500,00 (quinhentos reais), considerando que o Recorrente possui cinco negativações posterior, adequando-se o valor do dano extrapatrimonial aos critérios da razoabilidade e proporcionalidade.
+9. Sentença parcialmente reformada somente para afastar a prescrição e condenar em danos morais.
+10. Recurso do reclamante conhecido e provido.
+A parte embargante insurgiu contra o julgado aduzindo a existência de contradição, pois a conclusão do voto em apreço dispõe:
+“Posto isso, CONHEÇO do recurso interposto por ANDERSON JOSÉ RONDON DA SILVA, ante ao preenchimento dos requisitos intrínsecos e, no mérito, DOU-LHE PROVIMENTO para reformar parcialmente a sentença de origem, apenas para afastar a prescrição e condenar a recorrida ENERGISA MATO GROSSO – DISTRIBUIDORA DE ENERGIA S.A., ao pagamento em danos morais, no importe de R$ R$ 500,00 (quinhentos reais), corrigido monetariamente a partir do arbitramento - INPC, e acrescido de juros de 1% (um por cento) ao mês, a partir do evento danoso/data da inscrição – responsabilidade extracontratual, mantendo no mais, a sentença de primeiro grau.
+Sem custas processuais e honorários advocatícios, em razão do resultado do julgamento, nos termos do que dispõe o artigo 55, caput, da Lei n.o 9.099/95”.
+É como voto.
+JORGE ALEXANDRE MARTINS FERREIRA
+Juiz de Direito Relator
+Dessa forma, alega que há contradição, em razão, do voto ter arbitrado o valor de R$ 5.000,00 (cinco mil reais) em relação aos danos morais, posto que na conclusão do voto ter sido estipulado o valor de R$ 500,00 (quinhentos reais) referente aos danos morais.
+Sendo assim, a parte embargante enseja que seja estipulado o valor de R$ 5.000,00 (cinco mil reais) na conclusão do voto.
+Ao final, pugnam pelo acolhimento dos embargos de declaração para sanar o vício apontado.
+É o que merece registro.
+Pois bem, Cabem embargos de declaração quando na sentença/acórdão houver obscuridade, contradição, omissão, dúvida e erro material, consoante dispõe o artigo 48 da Lei 9.099/95 e artigo 1.022 do Código de Processo Civil.
+Todavia, no mérito, tenho que não assiste razão a parte Embargante, posto que os Embargos Declaratórios têm a finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições, não tendo, pois, caráter substitutivo, mas sim integrativo ou aclamatório, conforme preconiza o artigo 1.022 do Código de Processo Civil.
+No caso dos autos, a conclusão do voto e a ementa não vislumbram a presença de nenhum dos pressupostos legais - omissão, contradição ou obscuridade - a dar ensejo ao acolhimento dos presentes embargos, pois na conclusão do voto e na ementa foi estipulado o valor no importe de R$ 500,00 (quinhentos reais, conforme decisão do julgado.
+Logo, evidente que a parte embargante pretende a obtenção de nova decisão ou interpretação sobre questões de fato presentes nos autos, para amoldá-lo aos seus próprios interesses, o que não é permitido pela via estreita dos embargos declaratórios.
+Isto Posto, CONHEÇO dos presentes Embargos Declaratórios, contudo, REJEITO-OS, ante a ausência dos requisitos reclamados pelo artigo 1.022 do Código de Processo Civil e artigo 48 da Lei 9.099/95, mantendo-se inalterados os termos do acórdão objurgado.
+Contudo, CORRIJO de ofício, a redação do resultado acordão contado constante no id. 78577981 para fazer constar “A eficácia da contrapartida pecuniária está na aptidão para proporcionar tal satisfação em justa medida, de modo que não signifique um enriquecimento sem causa para a vítima e produza impacto bastante na causadora do mal, a fim de, dissuadi-la de novo atentado, o que entendo pertinente arbitrar na proporção de R$ 500,00 (quinhentos reais), considerando as negativações posterior e valor negativado”.
+Por fim, vale ressaltar que eventual oposição de embargos de declaração, com caráter protelatório, haverá a incidência da multa prevista no art. 1.026, §§ 2o ou 3o, do Código de Processo Civil.
+JORGE ALEXANDRE MARTINS FERREIRA
+Juiz de Direito Relator
