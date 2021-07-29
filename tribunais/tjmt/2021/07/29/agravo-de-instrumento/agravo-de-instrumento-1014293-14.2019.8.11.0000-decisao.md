@@ -1,0 +1,38 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial no Agravo de Instrumento n. 1014293-14.2019.8.11.0000
+Recorrente: Ide Gonsalves Guimarães
+Recorridos: Emanoel Rosa de Oliveira Junior e outros
+Vistos.
+Trata-se de recurso especial (id 88582453) interposto por Ide Gonsalves Guimarães, com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado, assim ementado (id 78016980):
+“AGRAVO DE INSTRUMENTO – AÇÃO ANULATÓRIA DE ATO JURÍDICO - DEFERIMENTO PARCIAL DA TUTELA VINDICADA - DETERMINAÇÃO DE SUSPENSÃO DOS EFEITOS DA REUNIÃO DOS SÓCIOS QUE ALTEROU O CONTRATO SOCIAL DA EMPRESA, RETORNANDO AO STATUS QUO ANTE – PERTINÊNCIA DA MANUTENÇÃO DA DECISÃO NO PONTO – NOMEÇÃO DE ADMINISTRADOR JUDICIAL NO PROCESSO DE ORIGEM – INTERPOSIÇÃO DE AGRAVO INTERNO EM QUE FOI NOMEADA OUTRA ADMINISTRADORA DO GRUPO EMPRESARIAL COM ANUÊNCIA DA AGRAVANTE EM SUBSTITUIÇÃO AO ANTIGO ADMINISTRADOR – SITUAÇÃO QUE AFASTA OS REQUISITOS DO ARTIGO 300, CAPUT DO CPC – RECURSO DESPROVIDO.
+Pertinente se revela a manutenção da decisão de suspensão da realização e efeitos de reunião societária que alterou o contrato social da empresa, se é objeto de outras demandas e em razão da prolação de sentenças de reconhecimento do direito a herança de herdeiros com a restituição de suas partes no acervo patrimonial e serão objetos de julgamento de recursos de apelação interpostos pela ora agravante.
+Inexiste a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo (artigo 300, caput do CPC), consistente na pretensão de afastamento de administrador judicial nomeado no feito de origem, se outra administradora judicial é nomeada, em substituição àquele, inclusive com a anuência da agravante”. (TJMT – Primeira Câmara de Direito Privado – RAI n. 1014293-14.2019.8.11.0000, Relatora: Desembargadora Nilza Maria Possas de Carvalho, j. 23/02/2021, p. 05/03/2021).
+Opostos embargos de declaração (id 79386990), estes foram rejeitados no acórdão de id 85582456.
+Na espécie, o presente recurso foi interposto contra o aresto que negou provimento ao agravo de instrumento proposto por Idê Gonsalves Guimarães e Camila Nunes Guimarães, e manteve a decisão exarada pela MM.a Juíza de Direito da 11a Vara Cível da Comarca de Cuiabá, em ação anulatória de ato jurídico (Autos no 1017807-46.2019.811.0041) proposta por Emanoel Rosa de Oliveira Júnior (agravado) contra as agravantes, que deferiu parcialmente a tutela vindicada, mediante o pagamento da primeira parcela das custas judiciais; determinação de suspensão dos efeitos da reunião dos sócios realizada no dia 21 de março de 2019, que alterou o contrato social da empresa Reical Indústria e Comércio de Calcário Ltda., retornando ao status quo ante e de deferimento do pedido de id 19752955 e nomear o Sr. Eduardo Rabelo de Miranda, da empresa MEDIAPE, localizada na Avenida Isaac Póvoas, no 586, sala 1-B, bairro Centro Norte, Cuiabá/MT, para exercer a função de administrador judicial para a empresa Reical Indústria e Comércio de Calcário Ltda., com a finalidade de se preservar o patrimônio de todos os envolvidos, resguardados os direitos dos sócios e herdeiros, o qual deverá cumprir o encargo independente de termo de compromisso (art. 466, do Código de Processo Civil), enquanto perdurar a ordem, nos exatos termos já decididos nos autos no 1024507-09.2017.8.11.0041.
+A parte recorrente alega violação aos artigos 489, II, e § 1o, IV, e 1.022, II, do Código de Processo Civil, ante a suposta omissão e carência de fundamentação do julgado.
+Recurso tempestivo (id 88642982) e preparado (id 88705456).
+O pleito de efeito suspensivo foi indeferido na decisão id 88878473.
+Contrarrazões no id 92874992.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da suposta violação aos artigos 489, II, e § 1o, IV, e 1.022, II, do CPC
+A partir da suposta ofensa aos artigos 489, II, e §1o, IV, e 1.022, II, do CPC, a parte recorrente alega que o órgão fracionário deste Tribunal não analisou matéria afeta à reunião societária, mas apenas limitou-se a fundamentar que “a questão que envolve a reunião societária, como dito, é matéria de outras demandas, inclusive é atingida pela prolação da sentença nas petições de herança ajuizadas por Camila e Emanuel, que serão objetos de julgamento de recursos de apelação interpostos pela ora agravante. Assim, a decisão permanece inalterada no ponto, até o pronunciamento final nas ações específicas que visam a nulidade da reunião ou nos apelos já interpostos”. (id 78016980 - p. 7)
+Assevera que a referida conclusão é vaga, pois refere-se “a sentenças que tratam de litígios diversos e não possuem sequer um parágrafo versando sobre a reunião societária do dia 23/03/2019, conforme cópias anexas (doc. 03 e doc. 04), tanto que a Nobre Relatora não destacou e muito menos reproduziu parte em que houve incursão nessa matéria, ferindo frontalmente o art. 1022, II, do CPC”.
+Afirma que “e a peça vestibular do Agravo incursionou nessa discussão sobre a validade do ato e, por conseguinte, exigia posicionamento explícito em virtude da tentativa de discutir a mesma matéria em lides que não tinha como pedido e causa de pedir pretensão relativa à reunião societária em questão”.
+Argumenta que não foi analisado, igualmente, a arguição de que as sócias participantes da reunião do dia 21/03/2019 possuíam o quórum de mais da metade do capital social respeitado para a destituição de sócia da administração das empresas, respeitando-se, assim, o disposto no § 1o do artigo 1.063 do Código Civil.
+Salientam, nesse sentido, que “ainda que se leve em conta o bloqueio de 25% (vinte e cinco por cento) das quotas de todas as empresas, as sócias IDE GONSALVES GUIMARÃES e CAMILA NUNES GUIMARÃES detinham mais de 50% das quotas, o que, por força do artigo 1.063, §1o, do Código Civil, já as garantiria o poder de destituir a então sócia -administradora ADRIANA GONÇALVES GUIMARÃES, conforme proporções demonstradas no tópico anterior”.
+Nesse contexto, pondera que seria necessário o exame acerca da assertiva de que a decisão proferida na ação de petição de herança, movida pelo ora recorrido, limitou-se a bloquear as quotas da empresa, não tendo determinado a sua transferência, de modo que tal circunstância não influiria na deliberação da alteração social.
+Pontua, por fim, que “releva -se contraditória a afirmação de que não poderia ser realizada a reunião societária por força da decisão proferida no “ID 28749050 da Petição de Herança no 1006153 -62 -2019.811.0041” quando tal decisão teve seus efeitos suspensos em liminar concedida no Agravo de Instrumento no 1004184 - 38.2019.8.11.0000, no 1004668 -53.2019.811.0000 e no 1003530 -51.2019.8.11.0000 e no 1003540 -95.2019.0000”.
+Em exame do aresto impugnado, constata-se, a princípio, que o órgão julgador não teria se manifestado sobre os pontos descritos acima, os quais foram devidamente suscitados nas razões do agravo de instrumento, e bem como dos embargos de declaração, os quais se apresentam, s.m.j., imprescindíveis para a solução da controvérsia.
+Dessa forma, dou seguimento ao recurso, com fundamento no artigo 1.030, V, “a”, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
