@@ -1,0 +1,39 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    APELAÇÃO CÍVEL. PRELIMINAR DE CERCEAMENTO DE DEFESA. REJEITADA. CONSTRUÇÃO IRREGULAR. DEMOLIÇÃO. OCUPAÇÃO DE ÁREA PÚBLICA. AUSÊNCIA DE LICENCIAMENTO. IMPOSSIBILIDADE DE REGULARIZAÇÃO. LEGALIDADE DO EXERCÍCIO DO PODER DE POLÍCIA. PREVALÊNCIA DO INTERESSE COLETIVO. INDENIZAÇÃO. AUSÊNCIA DE DIREITO. SÚMULA 619 DO STJ. SENTENÇA MANTIDA.
+    1. Não há cerceamento ao direito de defesa de pedido de realização de provas pericial e oral se o fato a ser comprovado pelo recorrente demandar prova documental, havendo nos autos provas suficientes para formar a convicção do julgador. Preliminar rejeitada.
+    2. O artigo 30, inciso VIII, da Constituição Federal incumbe ao Poder Público, em decorrência do poder de polícia, a responsabilidade de promover o adequado ordenamento territorial, mediante planejamento e controle do uso, do parcelamento e da ocupação do solo urbano.
+    3. O Código de Edificações do Distrito Federal (Lei Distrital nº 2.105/98) dispõe que, em caso de obra irregular em área pública, deve a Administração, no exercício do poder de polícia, demoli-la, realizando as medidas necessárias para tanto.
+    4. A ocupação de área pública por particular sem observância das regras específicas de ocupação de bem público viola o preceito da legalidade, disciplinador da atuação da Administração Pública, e constitui benefício injustificado de um particular em desfavor dos demais administrados.
+    5. Não há qualquer pecha a inquinar a atuação da autarquia, quanto ao ato demolitório, pois a mesma agiu em conformidade com a lei e limitou-se ao exercício do poder de polícia.
+    6. Mostra-se correta a atuação fiscalizadora impugnada, que impôs, obrigação de demolir a edificação em desconformidade com a legislação em vigor. A medida exarada pelo ente público é justificada pela ausência de licenciamento ou alvará que permite a edificação.
+    7. O direito à moradia (artigo 6º da Constituição Federal) cede lugar à adequada ordenação territorial urbana em casos de ocupação indevida de área pública, interesse público que não pode ser afastado quando em confronto com o proveito particular.
+    8. A ocupação irregular de área pública não gera qualquer direito de indenização. Súmula 619 do STJ.
+    9. Recurso conhecido e improvido.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 1º, inciso III; 5º, inciso XXIII, e; 6º, caput, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    In casu, a autora tenta sustentar seu direito de permanecer no imóvel com base em pretensa regularização da área, mas é incontroverso que está em zoneamento rural sensível à questão ambiental.
+    A par deste quadro, resta incontroverso que a construção erigida pela Autora/Apelante foi em área pública, fato bem observado pelo Magistrado sentenciante, quando manifestou-se nos seguintes termos, verbis:
+    “(...) A região de Capão Comprido é tipicamente de zoneamento rural, o que agrava o fato do evidente parcelamento criminoso do solo, com características tipicamente urbanas. Acrescente-se a isto o fato de a área ser de especial sensibilidade ambiental, repleta de nascentes, sendo que a degradação de regiões com tais características é também fato inerentemente ilícito que não pode ser admitido, em decorrência do princípio da precaução. Tais peculiaridades afastam até mesmo a insensatez da interpretação do novo Código de Obras e Edificações, posto que a estrita necessidade de remoção de todas as edificações ilegais erguidas clandestinamente na zona rural de proteção ambiental provém diretamente da diretriz constitucional de exigência de preservação ambiental. (...)” (Id. 21826227)
+    (...)
+    Não há, portanto, qualquer vício na atuação demolitória perpetrada pelo Réu/Apelado, lembrando que o ato administrativo goza da presunção de legitimidade e legalidade. E, no caso, o conjunto probatório confirma a legalidade, legitimidade e a proporcionalidade do ato.
+    Não fosse o suficiente, certo é que o acolhimento da pretensão autoral afrontaria o princípio da igualdade, pois a ocupação de área pública por particular, sem observância das regras específicas de ocupação de bem público, violaria o preceito da legalidade, disciplinador da atuação da Administração Pública, e constituiria benefício injustificado de um particular em desfavor dos demais administrados.
+    Não obstante o artigo 178, da Lei nº 2.105/98 (Código de Edificações do Distrito Federal), permitir uma possível alteração de projeto arquitetônico, para adequação à legislação vigente, evitando a demolição total ou parcial da obra, o parágrafo primeiro, deste artigo, esclarece que se a construção ocorrer em área pública caberá ação imediata do Poder Público, com o objetivo de preservar o interesse público e a ordem urbanística, no exercício do poder de polícia,
+    (...)
+    Logo, não há qualquer pecha a inquinar a atuação da autarquia, pois a mesma agiu em conformidade com a lei e limitou-se ao exercício do poder de polícia, mostrando-se correta a atuação fiscalizadora impugnada, que impôs obrigação de demolir a construção em desconformidade com a legislação em vigor. A medida exarada pelo ente público é justificada pela ausência de licenciamento ou alvará que permite a edificação.
+    Frise-se que o fato de a ocupação perdurar por mais de cinco anos não garante à apelante o direito de se estabelecer no local, tampouco a omissão do Poder Público representa ato expresso de concessão de direito subjetivo aos ocupantes para permanecerem no imóvel.
+    (...)
+    Também não há que se falar em direito a qualquer indenização frente ao disposto na Súmula 619 do Superior Tribunal de Justiça, segundo a qual a ocupação indevida de bem público não gera qualquer direito de retenção ou indenização por benfeitorias.
+    Desse modo, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/3/2018)
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 9/10/2020)
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 30 de julho de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
