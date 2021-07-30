@@ -1,0 +1,43 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe – Processo Judicial eletrônico
+Recurso Especial na Apelação Cível no 1003072-30.2016.811.0003
+Recorrente: REJANE BISOGNIN – ME
+Recorrida: BRADESCO AUTO/RE COMPANHIA DE SEGUROS
+Vistos.
+Trata-se de recurso especial (id. 89917985) interposto por REJANE BISOGNIN – ME, com fundamento no art. 105, III, alíneas “a” e “c”, da Constituição Federal, contra acórdão da Quarta Câmara de Direito Privado deste Sodalício, que deu parcial provimento ao recurso de apelação da recorrida, conforme a seguinte ementa (id. 86809961):
+“RECURSO DE APELAÇÃO CÍVEL – AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM LUCROS CESSANTES – PROPOSTA DE ENDOSSO – RECUSA NO PRAZO DE 15 (QUINZE) DIAS – NÃO COMPROVADO – ACEITAÇÃO TÁCITA – CANCELAMENTO DA PROPOSTA POR DESÍDIA DA AUTORA – INDEMONSTRADO – LUCROS CESSANTES – INOCORRÊNCIA – SENTENÇA PARCIALMENTE REFORMADA – RECURSO PARCIALMENTE PROVIDO. I – Embora insista que a proposta de endosso, datada de 16.12.2015, estava cancelada, fato é que, da análise dos documentos carreados aos autos, extrai-se que a ré, ora apelante, não comprovou que a supramencionada proposta de endosso, a teor do artigo 2o, caput, da Circular Susep de no 251/2004, teria sido recusada no prazo de 15 (quinze) dias. II – Ou seja, não comprovando a ré, ora apelante, que no prazo estabelecido no artigo acima mencionado tenha recusado a proposta de endosso que lhe foi encaminhada, no caso, deve ser reconhecida sua aceitação tácita, nos termos do § 6o do artigo 2o da Circular Susep de no 251/2004. III – Independentemente da vistoria do semirreboque, placa OAY-5180, ter sido realizada um dia após o prazo de 05 (cinco) dias estipulado no manual do corretor, não há de se falar que a proposta estava cancelada, haja vista que, nos autos, não foi comprovado que o atraso ocorreu por desídia da autora, ora apelada. IV – Já no que tange ser indevido os lucros cessantes, assiste razão à ré, ora apelante, eis que, como a autora, ora apelada, possui uma frota de veículos e consequentemente mais de um semirreboque, competia-lhe provar que, em razão do semirreboque, placa OAY-5180, estar parado na oficina, deixou efetivamente de realizar qualquer serviço de transporte de cargas contratado ou que dispensou sua contratação, o que, no caso, não demonstrou. (RAC n° 1003072-30.2016.8.11.0003, Rel. SERLY MARCONDES ALVES, QUARTA CÂMARA DE DIREITO PRIVADO, j. em 12/05/2021)”.
+A recorrente sustentam em suas razões:
+(i) violação aos arts. 186, 927 e 402 do CC, ao argumento de que o descumprimento do contrato pela seguradora, causando danos adicionais ao segurado, impossibilitando este último de retomar suas atividades normais, enseja a condenação em lucros cessantes; e
+(ii) dissídio jurisprudencial nesse sentido.
+Recurso tempestivo (id. 91516968).
+Devidamente preparado (id. 91493991).
+Contrarrazões ao recurso (id. 94572970).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+A hipótese prevista no art. 105, III, letra “a” e “c” da Constituição Federal prescreve a apreciação, pelo STJ, de recurso especial oposto contra acórdão que, em única ou última instância, tenha contrariado lei federal ou negado sua vigência (“a”) e der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal (“c”).
+Entretanto, em que pesem as argumentações da recorrente, o recurso não pode alcançar o normal seguimento.
+Do reexame de matéria fática (Súmula 07 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não se mostrando possível, pois, o exame de matéria fático-probatória, ante o teor da Súmula 07 do STJ:
+“Súmula 07/STJ. A pretensão de simples reexame de prova não enseja recurso especial”.
+As alegadas violações aos arts. 186; 927 e 402, do CC demonstram o nítido interesse da recorrente em reverter o julgado ao seu favor, mormente quando há simples argumento de que os lucros cessantes seriam devidos em razão do descumprimento do contrato pela seguradora, o que teria causando danos adicionais à recorrente, impossibilitando-a de retomar suas atividades normais.
+Contudo, o acórdão entendeu não ter havido comprovação nesse sentido, assim ponderando:
+“(...) no que tange ser indevido os lucros cessantes, assiste razão à ré, ora apelante, eis que, como a autora, ora apelada, possui uma frota de veículos e consequentemente mais de um semirreboque, competia-lhe provar que, em razão do semirreboque, placa OAY-5180, estar parado na oficina, deixou efetivamente de realizar qualquer serviço de transporte de cargas contratado ou que dispensou sua contratação, o que, no caso, não demonstrou”. (grifei).
+Rever o entendimento firmado no acórdão demandaria o necessário ingresso na seara fático-probatória carreada aos autos, o que atrai por si só o óbice sumular acima mencionado.
+A jurisprudência do STJ está consolidada no sentido de que a análise da configuração (ou não) do ato ilícito demanda o reexame de fatos e provas, o que é vedado em recurso especial pelo óbice da Súmula 07/STJ. A propósito, nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. SEGURO. INCÊNDIO. LUCROS CESSANTES. AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. COMPROVAÇÃO. RECONSIDERAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. NÃO INDICAÇÃO DE ARTIGOS VIOLADOS. SÚMULA 284/STF. AGRAVO PROVIDO. (...) 3. O Tribunal de origem concluiu que a parte recorrente não comprovou o que a sociedade empresária deixou de lucrar, afastando a pleiteada indenização por lucros cessantes. Nesse contexto, alterar as conclusões do acórdão recorrido implicaria reexame de fatos e provas, procedimento vedado em recurso especial, nos termos da Súmula 7/STJ. (...) 7. Agravo regimental provido para, reconsiderando a decisão agravada, conhecer do agravo para negar provimento ao recurso especial. (AgRg no AREsp 671.091/RS, Rel. Min. LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5a REGIÃO), QUARTA TURMA, julgado em 15/05/2018, DJe 21/05/2018)” (grifei).
+Dessa forma, insuscetível de revisão o entendimento firmado pelo Tribunal por demandar o reexame do conjunto fático-probatório; portanto, vedada está a análise da referida questão pelo STJ, razão pela qual, as alegadas violações aos arts. 186; 927 e 402, do CC não ensejam o juízo positivo de admissibilidade.
+Registre-se, por fim, que fica prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 07 do STJ. A propósito, o entendimento da Corte Superior é no sentido de que: “a incidência da Súmula 7 do STJ, prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte” (AgInt no REsp 1884179/PR, Rel. Min, NANCY ANDRIGHI, TERCEIRA TURMA, j. em 30/11/2020, DJe 02/12/2020).
+A Corte Superior de Justiça vem reiteradamente decidindo que quando houver negativa de seguimento do recurso especial pela alínea “a”, fica, de igual forma, obstado o seguimento do recurso interposto também pelo fundamento da alínea “c”. Nesse sentido:
+“PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE VENCIMENTOS. MILITAR. CONTRATO DE MÚTUO. INADIMPLEMENTO. CONSIGNAÇÃO EM FOLHA DE PAGAMENTO. SUPOSTA OFENSA AOS ARTS. 489 DO CPC/2015 E 14, § 3o, DA MP 2.215-10/2001. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. HISTÓRICO DA DEMANDA (...) IMPOSSIBILIDADE DE CONHECIMENTO DO RECURSO. (...). 7. Destaque-se que fica prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional. (...). Recurso Especial não conhecido. (REsp 1746018/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, j. em 16/06/2020, DJe 18/09/2020)” (grifei).
+Diante desse quadro, inviável também a admissão do recurso com base na alínea “c” do art. 105, III, da CF.
+Ante o exposto, nego seguimento ao recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
