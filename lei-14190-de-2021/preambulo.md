@@ -1,0 +1,2 @@
+Altera a Lei nº 14.124, de 10 de março de 2021, para determinar a inclusão como grupo prioritário no Plano Nacional de Operacionalização da Vacinação contra a Covid-19 de gestantes, puérperas e lactantes, bem como de crianças e adolescentes com deficiência permanente, com comorbidade ou privados de liberdade.
+O PRESIDENTE DA REPÚBLICA, Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
