@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se dehabeas corpus com pedido de liminar impetrado em favor de DIEGO SILVESTRE em que se aponta como autoridade coatora Desembargador do Tribunal de Justiça do Estado de São Paulo(HC n. 2171064-15.2021.8.26.0000).
+O paciente foi preso em flagrantepor suposta prática do delito descrito no art. 329, caput, do Código Penal, sendo a prisão em flagrante convertida em preventiva.A defesa impetrou préviowrit, cujo pedido liminar foi indeferido pelo desembargador relator.
+Oimpetrante sustentaa ilegalidade da segregação cautelardo paciente, em virtudeda carência de fundamentação idônea para sua decretação e manutenção, porquanto estariam ausentes os requisitos autorizadores da medida extrema previstos no art. 312 do Código de Processe Penal.
+Salienta que o paciente é primário, de bons antecedentes, com ocupação lícita e residência fixa.
+Requer, liminarmente e no mérito, seja concedida a liberdade ao paciente.
+É, no essencial, o relatório.
+Decido.
+Amatérianão podeser apreciadapelo Superior Tribunal de Justiça, pois não foiexaminadapelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. PRISÃO PREVENTIVA. SÚMULA N. 691 DO STF. AUSÊNCIA DE ILEGALIDADE MANIFESTA.VIOLAÇÃO DOS ARTS. 306, 310 E 316 DO CPP. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade. Incidência da Súmula n. 691 do STF.
+2. O não enfrentamento de matéria pelas instâncias originárias impede sua análise pelo STJ, sob pena de supressão de instância.
+3. Agravo regimental desprovido.
+(AgRg no HC 628.402/RN, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020)
+Confira-se também a Súmula n. 691 do STF:"Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, em especial, considerando-se o que consignou o relator ao indeferir o pleito liminar na origem (e-STJ fls. 693-694):
+Nesta estreita sede de cognição perfunctória, não verifico a presença dos requisitos necessários para a concessão da medida excepcional; com efeito, não se vislumbra ilegalidade manifesta ou probabilidade de dano irreparável que poderiam ensejara antecipação do writ.
+Não se olvide que predicados pessoais como a primariedade são critérios a serem sopesados, todavia, nãoafastam, de per si, a incidência da prisão processual.
+Ademais, a leitura da decisão aqui copiada às fls. 330/331 não se mostra ,DE PLANO, nesta sede de cognição sumaríssima de decisão vogal, ilegal, abusiva ou teratológica.
+Não bastasse, o atendimento do pleito liminar, em verdade, reveste-se de caráter satisfativo e constituiria violação, por via reflexa, do princípio da colegialidade consectário do princípio constitucional do duplo grau de jurisdição.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
