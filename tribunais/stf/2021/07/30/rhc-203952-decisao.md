@@ -1,0 +1,31 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus interposto por Douglas Messias Silva, contra acórdão proferido pelo STJ, nos autos do HC 643.808/PR.
+    Colho o relatório da decisão impugnada:
+    Ressai dos autos que o paciente foi condenado como incurso artigo 158, caput , por quatro vezes, à pena de 04 (quatro) anos e 08 (oito) meses de reclusão, a ser cumprida em regime inicial semiaberto, bem como ao pagamento de 11 (onze) diasmulta. Irresignada, a defesa interpôs recurso de apelação à Corte a quo, que negou provimento ao apelo, nos termos do acórdão juntado às fls. 17-28, com a seguinte ementa:
+    […]
+    Contra o julgado, a defesa opôs embargos de declaração , os quais foram rejeitados (fls. 14-16).
+    No presente writ, o impetrante sustenta que: "Resta evidente que não se trata de caso de habitualidade e reiteração criminosa, sendo que as provas e os fatos cabalmente demonstram a presença de todos os requisitos, objetivos e o subjetivo, para que se reconheça a continuidade delitiva entre as condutas."
+    Postula, ao final, a concessão da ordem, para reconhecer a continuidade delitiva nas condutas 1 e 2 descritas na denúncia (fls. 3-13). (eDOC 16)
+    No STJ, o habeas corpus não foi conhecido. Interposto agravo regimental, negou-se-lhe provimento.
+    Nesta Corte, a defesa reitera os pedidos formulados naquele Tribunal.
+    É o relatório.
+    Decido.
+    Para melhor compreensão da controvérsia, observem-se trechos do ato impugnado:
+    Quanto ao punctum saliens, o Tribunal de origem, quando do julgamento dos embargos, assim se pronunciou, in verbis:
+    "Analisando atentamente os termos do acordão embargado, contudo, não se verifica qualquer omissão, contradição, obscuridade, ou mesmo equívoco, pois as questões recursais foram adequadamente apreciadas e julgada por esta Egrégia Corte de Justiça, de conformidade com seus precedentes e ditames legais pertinentes à matéria.
+    A questão da existência de habitualidade delitiva e reiteração criminosa restou apreciada à exaustão pelo Acórdão embargado, concluindo esta colenda 4ª Câmara Criminal que a condição de reincidente em crimes dolosos e presença de antecedentes criminais (Autos nº 0001936-71.2010.8.16.0072,0000148- 78.2016.8.16.0050 e 0000249-49.2016.8.16.0072, com trânsito em julgado em 24/05/2012,01/02/2016 e 14/03/2017, respectivamente), bem como o reconhecimento do réu por parte do Policial Militar Mateus Cassemiro dos Santos por delitos anteriores (“Ele foi atrás de Douglas, reconhecendo-o pela prática de crimes anteriores.”) atestam a dedicação do embargante ao crime.
+    Em se tratando da suposta omissão quanto à inaplicabilidade do artigo 71 do Código Penal, se consignou que o entendimento jurisprudencial vigente afasta a possibilidade do crime continuando “’quando configurada habitualidade delitiva ou reiteração criminosa’. Precedentes: HC 262842/SP, Rel. Ministra Laurita Vaz, Quinta Turma, julgado em 08/05/2014, DJe 16/05/2014.”
+    Por fim, ressalte-se que, estando o pronunciamento judicial devidamente fundamentado, conforme prevê o artigo 93, inciso IX, da Constituição Federal, o Poder Judiciário não tem obrigação de responder a questionamentos ou fugir dos limites traçados nos incisos do art. 619 do CPP, ainda que a finalidade seja o prequestionamento no intuito de buscar modificação no julgado.
+    Diante do exposto, considerando que não há nenhuma omissão, contradição ou obscuridade na decisão embargada, voto no sentido de rejeitar os presentes embargos declaratórios, eis que a pretensão do embargante é de rediscussão de matéria devidamente examinada.
+    Sobre a continuidade delitiva, segundo a jurisprudência desta Corte Superior, a reiteração criminosa e a habitualidade delitiva afastam a possibilidade de reconhecimento do crime continuado.
+    Na hipótese, a alegação de que houve continuidade delitiva não se sustenta, diante do que foi esclarecido pela Corte de origem, oportunidade em que evidenciou a reiteração criminosa do agente, nos seguintes termos: "a condição de reincidente em crimes dolosos e presença de antecedentes criminais (Autos nº 0001936- 71.2010.8.16.0072,0000148-78.2016.8.16.0050 e 0000249-49.2016.8.16.0072, com trânsito em julgado em 24/05/2012,01/02/2016 e 14/03/2017, respectivamente), bem como o reconhecimento do réu por parte do Policial Militar Mateus Cassemiro dos Santos por delitos anteriores (“Ele foi atrás de Douglas, reconhecendo-o pela prática de crimes anteriores.”) atestam a dedicação do embargante ao crime."
+    Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.” (eDOC 16)
+    Da leitura dos excertos acima, verifico que não é possível acolher a tese defensiva.
+    A jurisprudência desta Corte condiciona o reconhecimento da continuidade delitiva prevista no art. 71 do Código Penal aos seguintes requisitos: (a) a pluralidade de condutas; (b) a pluralidade de crimes da mesma espécie; (c) que os crimes sejam praticados em continuação, tendo em vista as circunstâncias objetivas (mesmas condições de tempo, lugar, modo de execução e outras semelhantes); e, por fim, (d) a unidade de propósitos. Nesse sentido: HC 145634, Rel. Min. Alexandre de Moraes, DJe 9.10.2017; HC 70580, Rel. Min. Celso de Mello, Primeira Turma, DJe 4.9.2009; HC 108012, Rel. Min. Roberto Barroso, Primeira Turma, DJe 11.9.2014; HC 109971, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 6.2.2012; RHC 93144, Rel. Min. Menezes Direito, Primeira Turma, DJe de 9.5.2008.
+    A doutrina diz que ações concomitantes, contemporâneas ou simultâneas não podem ser havidas como continuidade delitiva, pois a lei é bastante clara ao exigir que as ações precisam ser subsequentes. Por isso, quando houver ações simultâneas, deve-se optar ou pelo delito único ou pelo concurso material, mas jamais pelo crime continuado. (Nucci. Código Penal Comentado, p. 378, 5ª edição, Editora Revista dos Tribunais, 2005, São Paulo).
+    No caso concreto, registrou-se a pluralidade de desígnios a afastar a tese de ocorrência de continuidade delitiva.
+    Ante o exposto, desprovejo o recurso.
+    Publique-se.
+    Brasília, 30 de julho de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
