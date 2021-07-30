@@ -1,0 +1,53 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NO AGRAVO DE EXECUÇÃO PENAL No 1000322-88.2021.8.11.0000
+RECORRENTE: LEANDRO CÉSAR TIDRE
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos.
+Trata-se de recurso especial interposto por LEANDRO CÉSAR TIDRE, com fundamento no art. 105, III, “a”, da Constituição Federal, contra o acórdão da Terceira Câmara Criminal do Tribunal de Justiça do Estado de Mato Grosso que, por unanimidade, negou provimento ao recurso, nos termos da seguinte ementa (Id. 85391464):
+“AGRAVO EM EXECUÇÃO PENAL – SOLTURA DO AGRAVANTE – INCONFORMISMO QUANTO AO DIES A QUO À CONCESSÃO DA PROGRESSÃO DE REGIME – DECISÃO QUE ADOTOU COMO DATA-BASE PARA FUTURA PROGRESSÃO A DATA DA ÚLTIMA PRISÃO – CONFORMIDADE COM A JURISPRUDÊNCIA DOS TRIBUNAIS SUPERIORES – RECURSO IMPROVIDO.
+Incabível a alteração da data-base para fins de progressão de pena, como decorrência de nova infração penal, após soltura condicionada, em relação ao primeiro fato.
+O agravante sem qualquer pretensão de demonstrar que já estava em condições de se ressocializar, ao contrário, aproveitou-se do período em que estava livre de forma condicionada e continuou na vida delitiva.”
+Nas razões do recurso especial (Id. 90661465), o recorrente sustenta a violação aos artigos 111, caput e parágrafo único e 112, inciso V, ambos da Lei de Execução Penal, ao argumento de que “(...) diante do princípio da humanidade que rege a execução penal, a data-base da primeira prisão – 04/03/12 – se harmoniza com as finalidades da LEP para que seja aproveitado para fins de cálculo de progressão de regime , a prisão provisória do recorrente no período de 04/03/12 a 07/08/14 e de 01/10/2017 até a presente data”.
+Recurso tempestivo (Id. 90713999).
+Contrarrazões (Id. 93377494).
+É o relatório.
+Passo ao juízo de admissibilidade.
+Do exame dos autos, observa-se que o recurso especial atende aos pressupostos genéricos de admissibilidade, quais sejam: tempestividade, legitimidade e interesse em recorrer.
+Da sistemática de recursos repetitivos
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+Pois bem, o recorrente pleiteia o cômputo do período da prisão provisória para o devido preenchimento do requisito objetivo para a progressão da pena, considerando-se que esteve preso no período compreendido entre 04/03/12 a 07/08/14 (prisão provisória) e de 01/10/2017 até a presente data.
+No acórdão impugnado restou consignado que:
+“Consta dos autos que o agravante possui duas sentenças condenatória: a primeira, nos autos da Ação Penal n. 222-32.2012.811.0109, que o condenou a uma pena de 05 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial semiaberto, pela prática do crime previsto no artigo 33, caput, c.c artigo 40, inciso III ambos da Lei n. 11.343/2006, com trânsito em julgado em 07/07/2014 e a segunda, nos autos da Ação Penal n. 01724-30.2017.8.11.0109, que o condenou a pena de 05 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, pela prática do crime previsto no artigo 33, caput, da Lei n. 11.343/2006.
+Em razão dos fatos delitivos referentes à ação penal no. 222-32.2012.811.0109 o agravante permaneceu preso preventivamente no período de 04/03/2012 a 08/08/2014.
+Ocorre que no dia 01/10/2017 o agravante foi preso em flagrante em razão dos fatos referentes aos autos no. 1724-50.2017.811.0109.
+Nesse contexto, verifica-se que o agravante foi colocado em liberdade em 08/08/2014 pelo primeiro fato, até que foi preso em 01/10/2017, por novo crime.
+Desse modo, não é possível tomar como base a data da primeira prisão como termo inicial para o cálculo do critério objetivo para o benefício da progressão penal, sob pena de se considerar como pena cumprida o período em que o agravante permaneceu solto [de 09/08/2014 a 30/09/2017], e por isso deve-se ser considerada para obtenção de futuros benefícios, a data da última prisão, que no caso se deu em 01/10/2017.
+Dessa forma, sem qualquer pretensão de demonstrar que já estava em condições de se ressocializar, ao contrário, aproveitou-se do período em que estava livre de forma condicionada e continuou na vida delitiva.
+Com efeito, diante da impossibilidade de aferição do cometimento da última falta grave do agravante, a data de sua última prisão deve ser considerada como data-base para progressão de regime, vez que o apenado não pode se beneficiar do tempo que não esteve cumprindo pena.” (Id. 82182483) (grifos no original)
+Observa-se, pois, que o entendimento do órgão fracionário deste Tribunal, que manteve inalterada a r. decisão proferida pelo d. Juízo da 3a Vara Criminal de Sinop/MT (execução penal), está em consonância com a jurisprudência pacífica do STJ, no sentido de que não é possível tomar como base a data da primeira prisão, considerando que o reeducando esteve solto por determinado período, devendo ser considerada, para obtenção de futuros benefícios carcerários, a data da última prisão, sob pena de se considerar como pena efetivamente cumprida o período em ele permaneceu em liberdade, senão vejamos:
+“AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS ATACADOS. SÚM. N. 182/STJ. NÃO INCIDÊNCIA. INVASÃO DE MÉRITO. INOCORRÊNCIA. VIOLAÇÃO DO ART. 619 DO CPP QUE NÃO SE VERIFICA. MARCO INICIAL PARA A CONCESSÃO DE BENEFÍCIOS EXECUTÓRIOS. DATA DA PRISÃO EM FLAGRANTE. IMPOSSIBILIDADE. DATA DA ÚLTIMA PRISÃO. AGRAVO REGIMENTAL PROVIDO PARA, AFASTADA A INCIDÊNCIA DA SÚM. N. 182/STJ, CONHECER DO AGRAVO, NEGANDO, TODAVIA, PROVIMENTO AO RECURSO ESPECIAL.
+1. Impugnado o fundamento da decisão recorrida, bem como os do despacho de inadmissibilidade impõe-se o afastamento da Súm. n. 182/STJ.
+2. Para que haja violação do art. 619 do CPP, é necessário demonstrar que o acórdão embargado efetivamente padece de um dos vícios listados - ambiguidade, obscuridade, contradição e omissão -, e que o Tribunal de origem, embora instado a se manifestar, manteve o vício.
+3. Na hipótese, diferentemente do que alega o recorrente, a Corte a quo examinou em detalhe a alegação defensiva acerca da data-base para fins de benefícios de execução. O fato de não ter sido acolhida a irresignação da parte, apresentando o Tribunal de origem fundamentação em sentido contrário, por certo não revela violação do art. 619 do CPP.
+4. Inexiste invasão de competência do STJ quando o Tribunal a quo analisa previamente a suposta violação da legislação federal no momento do exame de admissibilidade do recurso especial, pois tal procedimento está amparado pela Súmula n. 123/STJ, segundo a qual "a decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais e constitucionais".
+5. No caso, não se trata de unificação de penas, mas de crime único em que o sentenciado ficou preso provisoriamente no período compreendido entre 23.04.2014 a 24.09.2014, sendo colocado em liberdade posteriormente por meio de alvará de soltura. Após, foi preso aos 13.06.2019, quando deu início ao cumprimento da reprimenda definitiva, no importe de 14 (quatorze) anos e 06 (seis) meses, por infringência ao artigo 121, § 2o, inciso II, do Código Penal.
+6. Não é possível tomar como base a data da primeira prisão, já que o reeducando ficou solto por 5 meses, devendo, nesse caso, ser considerada, para obtenção de futuros benefícios carcerários, a data da última prisão, qual seja 13/06/2019, sob pena de se considerar como pena efetivamente cumprida o período em ele permaneceu em liberdade.
+7. Agravo regimental provido para, afastada a incidência da Súm. n. 182/STJ, conhecer do agravo, negando, todavia, provimento ao recurso especial.”
+(AgRg no AREsp 1810706/GO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/05/2021, DJe 01/06/2021)
+“PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MARCO INICIAL PARA A CONCESSÃO DE BENEFÍCIOS EXECUTÓRIOS. DATA DA PRISÃO EM FLAGRANTE. INVIABILIDADE. PRISÃO PROVISÓRIA. DATA DA ÚLTIMA PRISÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente caso, não se trata de unificação de penas, mas de crime único em que o sentenciado foi preso em flagrante delito no dia 12/7/2014, mas foi solto em 9/1/2015, sendo preso novamente em 19/9/2015.
+2. Não é possível tomar como base a data da primeira prisão, já que o reeducando ficou solto por mais de 8 meses, devendo, nesse caso, ser considerada para obtenção de futuros benefícios carcerários, a data da última prisão, qual seja 19/09/2015, sob pena de se proclamar como pena efetivamente cumprida o período em ele permaneceu em liberdade. Por conseguinte, o dia da última prisão - e não da primeira -, deve, efetivamente, ser considerado como data-base para efeitos de concessão de benefícios relativos à execução penal.
+3. O acórdão impugnado está em consonância com a jurisprudência desta Corte ao estabelecer a data da última prisão como marco temporal para a obtenção de benefícios da execução. É que a Terceira Seção desta Corte, no julgamento do REsp n. 1.557.461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, julgado em 22/02/2018, DJe 15/03/2018, alterou o anterior posicionamento jurisprudencial, passando a entender que a superveniência do trânsito em julgado da sentença condenatória não serve de novo parâmetro para fixação da data-base para concessão de benefícios à execução, não podendo, assim, ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave.
+4. Agravo regimental não provido.”
+(AgRg no REsp 1918296/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/04/2021, DJe 26/04/2021)
+Desta feita, deve ser aplicado o verbete sumular supracitado quanto à suposta ilegalidade apontada pela defesa, visto que o entendimento exposto no acórdão recorrido se encontra em sintonia com a orientação sedimentada no STJ, o que impede o seguimento do recurso.
+Ante o exposto, inadmito o recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
