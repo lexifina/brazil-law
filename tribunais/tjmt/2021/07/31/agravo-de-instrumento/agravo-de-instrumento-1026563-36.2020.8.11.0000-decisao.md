@@ -1,0 +1,16 @@
+Recurso de Agravo de Instrumento no 1026563-36.2020.8.11.0000 – Claudia
+Agravante: Cofco Brasil S.A.
+Agravada: Energisa Mato Grosso – Distribuidora de Energia S.A.
+V I S T O S.
+Trata-se de recurso de agravo de instrumento interposto pela Cofco Brasil S.A. em face da decisão proferida pela MMa Juíza de Direito da Vara Única da Comarca de Claudia, que nos autos da ação declaratória de inexistência de débito c/c obrigação de fazer que move contra Energisa Mato Grosso – Distribuidora de Energia S.A., indeferiu a tutela provisória de urgência, no sentido de suspender a cobrança no valor de R$ 11.189,46 (onze mil, cento e oitenta e nove reais e quarenta e seis centavos), além de determinar que a empresa ré exclua o nome dos órgãos de proteção ao crédito, se abstendo de suspender o fornecimento de energia elétrica da sua Unidade Consumidora.
+Em consulta ao andamento processual do feito principal (n. 1000246-86.2020.8.11.0101), no sítio eletrônico do PJE – 1o Grau deste Sodalício, constata-se que o douta magistrada a quo proferiu sentença, julgando o feito procedente, senão vejamos:
+“Ante o exposto, julgo PROCEDENTE o pedido, com resolução de mérito, nos termos do artigo 487, I do Código de Processo Civil, a fim de: a) DECLARAR INEXIGÍVEL a cobrança do valor de R$ 11.189,46 (onze mil, cento e oitenta e nove reais e quarenta e seis centavos), referente ao débito de recuperação de consumo, do mês de fevereiro/2019, retirada da unidade consumidora n. 6/2526766-7; b) DETERMINAR a abstenção de qualquer inserção do nome da parte autora nos cadastros de proteção ao crédito referente ao débito declarado inexigível, e caso tenha sido inserido, deverá retirá-lo, no prazo de 05 (cinco) dias, sob pena de cominação de multa diária na hipótese de descumprimento; c) DETERMINAR a abstenção de efetuar o corte do fornecimento de energia elétrica na unidade consumidora n. 6/2526766-7, em razão do débito acima apontado, sob pena de cominação de multa diária na hipótese de descumprimento.
+Condeno a parte Requerida ao pagamento das custas processuais e honorários advocatícios, os últimos arbitrados em 10% do valor atualizado da causa, nos termos do artigo 85, § 8o do Código de Processo Civil, face ao trabalho desenvolvido pelo causídico, o lugar da prestação, o zelo profissional, o tempo exigido, a natureza e a importância da demanda.” (id. 54197884 – autos de origem)
+Dessa forma, em razão da prolação de sentença que julgou o mérito do processo (análise exauriente), dando procedência ao pedido inicial da autora, ora agravante, verifico que o recurso perdeu o seu objeto, estando prejudicado seu seguimento.
+O professor Luiz Guilherme Marinoni é preciso ao tratar do tema, confira:
+“4. Não Conhecer. [...] Recurso prejudicado é recurso no qual a parte já não tem mais interesse processual, haja vista a perda de seu objeto – enquadrando-se, portanto, no caso de inadmissibilidade (ausência de requisito de admissibilidade recursal).” (Código de Processo Civil Comentado, 2a Ed., São Paulo: Editora Revista dos Tribunais, 2016 – negritei)
+Posto isso, julgo prejudicado o presente recurso e lhe NEGO SEGUIMENTO, em razão da perda do objeto, nos termos do art. 51, inciso I-B, do RITJMT e do art. 932, inc. III, do CPC.
+P. I.
+Cuiabá, 31 de julho de 2018.
+CARLOS ALBERTO ALVES DA ROCHA
+Relator
