@@ -1,0 +1,3 @@
+Art. 1º-A - (Revogado pelo inciso I do art. 18 da Lei Complementar nº 158, de 30/7/2021.)
+Dispositivo revogado:
+"Art. 1º-A - O Regime de Previdência Complementar de que trata esta lei complementar poderá ser oferecido aos servidores efetivos da administração pública direta e indireta dos demais entes da Federação, mediante prévia autorização do Conselho Deliberativo da Fundação de Previdência Complementar do Estado de Minas Gerais - Prevcom-MG -, por maioria absoluta, desde que firmado convênio de adesão e que venham a aderir a plano de benefício previdenciário complementar administrado pela referida entidade."
