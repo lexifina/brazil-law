@@ -1,0 +1,3 @@
+# Altera a Lei Complementar nº 132, de 7 de janeiro de 2014, que institui o Regime de Previdência Complementar para os servidores públicos titulares de cargos efetivos dos Poderes do Estado e membros de Poderes, do Ministério Público, do Tribunal de Contas e da Defensoria Pública do Estado de Minas Gerais, fixa o limite máximo para a concessão de aposentadorias e pensões de que trata o art. 40 da Constituição da República, autoriza a criação de entidade fechada de previdência complementar, na forma de fundação, e dá outras providências.
+O GOVERNADOR DO ESTADO DE MINAS GERAIS,
+O Povo do Estado de Minas Gerais, por seus representantes, decretou e eu, em seu nome, promulgo a seguinte lei complementar:
