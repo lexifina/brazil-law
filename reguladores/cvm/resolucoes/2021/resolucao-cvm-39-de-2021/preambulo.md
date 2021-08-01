@@ -1,0 +1,12 @@
+Resolução CVM nº 39, de 2021
+Resolução CVM nº 39, de 13 de julho de 2021
+Dispõe, de forma temporária e em caráter experimental, sobre o registro do Fundo de Investimento nas Cadeias Produtivas Agroindustriais.
+A PRESIDENTE EM EXERCÍCIO DA COMISSÃO DE VALORES MOBILIÁRIOS – CVM torna público que o Colegiado, em reunião realizada em 1º de julho de 2021, com fundamento no art. 2º, § 3º, da Lei nº 6.385, de 7 de dezembro de 1976, nos arts. 20-A e 20-B da Lei nº 8.668, de 25 de junho de 1993, no art. 1368-C, § 2º, da Lei nº 10.406, de 10 de janeiro de 2002, e no art. 17 da Portaria CVM/PTE nº 190, de 6 de novembro de 2019, e considerando que:
+a) a Lei nº 14.130, de 29 de março 2021, alterou a Lei nº 8.668, de 25 de junho de 1993, instituindo o Fundo de Investimento nas Cadeias Produtivas Agroindustriais – FIAGRO, condomínio de natureza especial destinado à aplicação nos ativos previstos no art. 20-A da referida lei;
+b) nos termos do art. 20-A, da Lei nº 8.668, de 1993, os FIAGRO podem investir em uma ampla variedade de ativos, tais como direitos creditórios, imóveis, valores mobiliários, ações ou cotas de sociedades, sempre no contexto das atividades integrantes da cadeia produtiva agroindustrial;
+c) a regulamentação dos fundos de investimento constituídos sob a forma de condomínio de natureza especial compete a esta Autarquia, nos termos do art. 1368-C, da Lei nº 10.406, de 10 de janeiro de 2002;
+d) a edição de uma norma específica para disciplinar a constituição e o funcionamento do FIAGRO em toda a extensão prevista em lei demandará estudos prévios e realização de audiência pública, o que não se estima ocorrer antes de 2022, tendo em vista que a agenda regulatória desta Autarquia para o exercício de 2021 não contempla a matéria;
+e) há diferentes categorias de fundos, já regulados por esta Autarquia, que permitem o investimento em direitos creditórios, imóveis, valores mobiliários e a aquisição de participação em sociedades;
+f) um regime transitório elaborado com fundamento no art. 20-B, parágrafo único, da Lei n° 8.668, de 1993, adotado em caráter experimental, viabiliza o imediato registro dos FIAGRO com segurança jurídica e previsibilidade, ainda que o funcionamento do fundo tenha que lidar com as limitações inerentes à adoção das regras de outras categorias de fundos; e
+g) a experiência com os FIAGRO que vierem a ser registrados certamente aumentará o conhecimento do regulador e dos participantes do mercado sobre esses fundos, de modo que será útil quando da elaboração da norma específica;
+APROVOU a seguinte Resolução:
