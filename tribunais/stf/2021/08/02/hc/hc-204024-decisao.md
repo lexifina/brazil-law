@@ -1,0 +1,26 @@
+DECISÃO:
+EMENTA: Processual Penal. Habeas Corpus. Latrocínio. Condenação transitada em julgado. Pedidos de absolvição e de desclassificação. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça (STJ), da Relatoria do Ministro Antonio Saldanha Palheiro, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. CONDENAÇÃO JÁ TRANSITADA EM JULGADO. REVISÃO CRIMINAL NÃO CONHECIDA. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVAS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    1. A Corte estadual, após toda a análise do conjunto fático-probatório amealhado aos autos, concluiu pela existência de elementos concretos e coesos que revelaram a participação da agravante no crime de latrocínio. Mostra-se inviável o pleito absolutório sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+    2. ‘No processo penal brasileiro vigora o princípio do livre convencimento, em que o julgador, desde que de forma fundamentada, pode decidir pela condenação, não cabendo na angusta via do writ o exame aprofundado de prova no intuito de reanalisar as razões e motivos pelos quais as instâncias anteriores formaram convicção pela prolação de decisão repressiva em desfavor do paciente’ (HC n. 267.027/DF, relator Ministro Jorge Mussi, Quinta Turma DJe 22/5/2013).
+    3. A prova da responsabilização penal não está adstrita exclusivamente à análise da simples ocorrência dos fatos, mas sim a uma análise pormenorizada de todos os elementos circunstanciais que envolvem o fato delituoso, o que foi observado no presente caso.
+    4. Se o Tribunal de origem, em cognição ampla e exauriente, concluiu pela induvidosa autoria e pela materialidade dos delitos, a condenação da agravante era medida que se impunha, não existindo, portanto, nenhuma ilegalidade ou teratologia a ser reparada.
+    5. Agravo regimental desprovido.”
+    2. Extrai-se dos autos que a paciente foi condenada à pena de 13 anos e 4 meses de reclusão, em regime inicial fechado, pelo crime previsto no art. 157, § 3º, segunda parte, c/c o art. 29, caput, do Código Penal.
+    3. O Tribunal de Justiça do Estado de São Paulo (TJ/SP) negou provimento à apelação da defesa.
+    4. Após o trânsito em julgado da condenação, a defesa ajuizou ação de revisão criminal no TJ/SP, não conhecida.
+    5. Em seguida, a defesa impetrou habeas corpus no STJ. O Relator do HC 631.618, Ministro Antônio Saldanha Palheiro não conheceu do writ. Contra essa decisão, foi interposto agravo regimental, não provido.
+    6. Neste habeas corpus, a parte impetrante sustenta que “não se vislumbra a presença de dolo direto atrelado à conduta atribuída à Paciente. Não restou clara a sua anuência frente o resultado criminoso e tampouco há que se cogitar a incidência de dolo na modalidade eventual, uma vez que a Paciente jamais poderia prever e/ou aceitar o desfecho delituoso da forma como se deu”. Afirma que “a Paciente, por ser namorada de um dos envolvidos, acabou por presenciar o planejamento do ilícito, todavia, sem indicar qualquer parcela de seu envolvimento”.
+    7. Prossegue a narrativa para alegar a aplicabilidade do art. 29, § 2º, do Código Penal, na medida em que a paciente teve uma participação de menor importância na empreitada criminosa. Por fim, destaca a possibilidade da desclassificação do crime de latrocínio (art. 157, § 3º, segunda parte, do CP) para o crime de favorecimento real (art. 349 do CP).
+    8. A defesa requer a concessão da ordem, a fim de absolver a acionante. Subsidiariamente, pleiteia a desclassificação do crime de latrocínio para o crime de favorecimento real.
+    9. Decido.
+    10. O habeas corpus não deve ser concedido.
+    11. A orientação jurisprudencial do Supremo Tribunal Federal (STF) é no sentido de que o “habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado” (HC 118.292-AgR, Rel. Min. Luiz Fux). Confiram-se, nessa mesma linha, os seguintes precedentes: HC 128.840-AgR, de minha Relatoria; RHC 116.108, Rel. Min. Ricardo Lewandowski; HC 117.762, Rel. Min. Dias Toffoli; HC 91.711, Relª. Minª. Cármen Lúcia.
+    12. Além disso, o entendimento do STF é no sentido de que “o habeas corpus não é, considerado o seu rito estreito, a via processual adequada ao reexame de fatos e provas para chegar-se à absolvição” (HC 107.550, Rel. Min. Luiz Fux. No mesmo sentido: HC 124.479, Rel. Min. Luiz Fux; RHC 122.183 e HC 122.436, Rel. Min. Dias Toffoli).
+    13. Da mesma forma, o STF já decidiu que “o pleito de desclassificação de crime não tem lugar na estreita via do habeas corpus por demandar aprofundado exame do conjunto fático-probatório da causa, e não mera revaloração” (RHC 120.417, Rel. Min. Ricardo Lewandowski).
+    14. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 02 de agosto de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
