@@ -1,0 +1,76 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por BLUEBUSS TRANSPORTES, TURISMO E LOCACAO LTDA em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+SENTENÇA Fundamentação Apresentação adequada das razões de fato e de direito Alegação de nulidade afastada.
+LEGITIMIDADE PASSIVA - Alegação de que o ônibus envolvido no acidente era de propriedade de terceiro - Não acolhimento - Identidade visual do veículo que impõe ao consumidor a pronta identificação da empresa requerida - aplicação da Teoria da Aparência - Alegação de ilegitimidade passiva afastada.
+RESPONSABILIDADE CIVIL - Transporte terrestre - Violação de cláusula de incolumidade - Dever de indenizar pelos danos morais sofridos em decorrência reconhecido - Indenização arbitrada em R$-5.000,00 para cada passageiro - Inteligência do art. 734 do Cód. Civil e inciso III do § 3º do art. 14 do CDC - Danos materiais, contudo, não demonstrados - Falta de documentação hábil a demonstrar os prejuízos materiais.
+SEGURO OBRIGATÓRIO - Pretensão de compensação entre os valores recebidos pelos passageiros a título de seguro obrigatório e a verba indenizatória fixada - Não acolhimento - Inaplicabilidade, no caso concreto da Súmula nº 246 do C. STJ, porquanto não houve fixação de indenização por danos materiais - Seguro obrigatório que se destina à cobertura de danos pessoais compreendidos por indenizações por morte, por invalidez permanente, total ou parcial, e por despesa sde assistência médica e suplementares - Inteligência do art. 3º da Lei nº 6.194/74 - Sentença mantida - Apelações improvidas.
+Opostos embargos de declaração, estes foram rejeitados.
+Nas razões do recurso especial a parte recorrente alega ofensa aos arts. 489, §1º, inciso IV, e 1.022, ambos do Código de Processo Civil, e ao art. 3º da Lei N. 6.194/74, sustentando, em síntese, omissão do v. acórdão quanto às provas documentais e aos fatos incontroversos que caracterizam a sua ilegitimidade passiva; a inviabilidade da teoria da aparência; bem como a "compensação entre os valores referentes ao Seguro Obrigatório (DPVAT) e aqueles arbitrados na demanda, a título de indenização".
+Apresentadas contrarrazões (e-STJ fls. 635-646).
+Às e-STJ fls. 709-711 o agravo em recurso especial foi provido para sua conversão em recurso especial.
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/2015, conforme Enunciado Administrativo Nº 3/STJ.
+Ato contínuo, percebe-se que a parte recorrente, em sede de recurso especial, alega ofensa aos arts. 489, §1º, inciso IV, e 1.022, ambos do Código de Processo Civil, e ao art. 3º da Lei N. 6.194/74, sustentando, em síntese, omissão do v. acórdão quanto às provas documentais e aos fatos incontroversos que caracterizam a sua ilegitimidade passiva; a inviabilidade da teoria da aparência; bem como a "compensação entre os valores referentes ao Seguro Obrigatório (DPVAT) e aqueles arbitrados na demanda, a título de indenização".
+O acórdão recorrido, por sua vez, assim assentou (e-STJ fls. 557-560):
+Apelações tiradas contra r. sentença proferida pelo MM. Juiz de Direito Dr. Pedro Luiz Alves de Carvalho que julgou parcialmente procedente ação indenizatória em razão de acidente sofrido em transporte coletivo de passageiros; não houve indenização por dano material e a indenização por dano moral foi arbitrada em R$-5.000,00 (cinco mil reais) para cada co-autor. (..)
+Igualmente comporta afastamento a alegação de ilegitimidade passiva da apelante requerida, uma vez que, como bem apontado pelo parecer do Ministério Público de fls. 381/404 e pelo MM Juízo de Primeiro Grau (fls. 264/265),o ônibus que transportava os passageiros acidentados é "todo caracterizado com a denominação "blue buss"", socorrendo os apelantes autores a teoria da aparência, isto é, vale como a prestadora de serviço se apresentou.
+Além disso, como bem apontou o douto representante do "parquet", não há motivo para presumir que o ônibus estivesse a serviço de outra empresa ou, ainda, que não mantivesse qualquer tipo de relação com a demandada. (..)
+Com efeito, tem-se responsabilidade objetiva na medida que a lei assim prevê em se tratando de transportadora de pessoas prestadora de serviço público (§6º do art. 37 da Constituição Federal, art. 734 do Cód. Civil e art. 14 do Cód. de Def. do Consumidor), registrado o fato de que todos esses diplomas legaisse entrelaçam no que tem de pertinentes com o caso concreto.
+Além disso, importante frisar que a única excludente de responsabilidade nos contratos de transporte de pessoas admitida pelo art. 734 do Cód. Civil é a ocorrência de motivo de força maior, isto é, de fenômeno natural"necessário, cujos efeitos não era possível evitar ou impedir" (parágrafo único do art. 393 do Cód. Civil), o que evidentemente não foi o caso do evento. (..)
+Prosseguindo, não há falar em compensação com indenização recebida do DPVAT, uma vez que não houve arbitramento de indenização por danos materiais, mas apenas pelos danos morais sofridos pelos passageiros, com o que não há falar em aplicação da Súmula nº 246 do C. Superior Tribunal de Justiça.
+Isso porque o seguro DPVAT cobre, nos termos do art. 3º da Lei nº 6.194/74, danos pessoais compreendidos pelas "indenizações por morte, por invalidez permanente, total ou parcial, e por despesas de assistência médica e suplementares, nos valores e conforme as regras que se seguem, por pessoa vitimada", e não dano moral.
+Com efeito, quanto à alegada ofensa aos arts. 489, §1º, inciso IV, e 1.022, ambos do Código de Processo Civil, vislumbra-se a não ocorrência de nulidade por contradição, omissão, obscuridade, ou erro material, tampouco de negativa de prestação jurisdicional, no acórdão que, em suma, conclui, de maneira integral e com fundamentação suficiente e clara, que, (a) "o ônibus que transportava os passageiros acidentados é "todo caracterizado com a denominação "blue buss"", socorrendo os apelantes autores a teoria da aparência, isto é, vale como a prestadora de serviço se apresentou"; bem como que (b) "não há motivo para presumir que o ônibus estivesse a serviço de outra empresa ou, ainda, que não mantivesse qualquer tipo de relação com a demandada".
+Destaca-se, ainda, que o juízo não está obrigado a se manifestar a respeito de todas as alegações e dispositivos legais suscitados pelas partes.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. 2. RESPONSABILIDADE PELOS SERVIÇOS PRESTADOS. INTERPRETAÇÃO DE CLÁUSULAS DA AVENÇA E REEXAME DE PROVAS. DESCABIMENTO. SÚMULAS 5 E 7 DO STJ. 3. PRINCÍPIOS DA CONGRUÊNCIA OU DA ADSTRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS. SÚMULAS N. 282 e 356 DO STF. 4. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. A revisão das conclusões estaduais (quanto à responsabilidade pelos serviços contratados) demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7 do STJ.
+3. Se o conteúdo normativo contido no dispositivo apresentado como violado não foi objeto de debate pelo Tribunal de origem, evidencia-se a ausência do prequestionamento, pressuposto específic o do recurso especial. Incide, na espécie, o rigor das Súmulas n. 282 e 356 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1487975/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020) - g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO INEXISTENTES. HONORÁRIOS. ARBITRAMENTO. CLÁUSULA CONTRATUAL. VALIDADE E EFICÁCIA DECLARADAS. PUBLICIDADE DO ATO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Afasta-se a violação dos arts. 489, § 1º, e 1.022 do CPC/2015 quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+3. A ausência de impugnação dos fundamentos do acórdão recorrido impede o conhecimento do recurso especial. Súmula nº 283/STF.
+4. Rever o posicionamento do tribunal de origem, que decidiu pelo não arbitramento dos honorários, encontra os óbices das Súmulas nºs 5 e 7/STJ.
+5. O reexame do conjunto fático-probatório da causa obsta a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+6. Agravo interno não provido.(AgInt no AREsp 1198828/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/09/2018, DJe 21/09/2018) - g.n.
+Ademais, quanto à pretensão relativa à Teoria da Aparência, importa salientar que razão não assiste à parte agravante, uma vez que, quanto a esta matéria específica, não há, na fundamentação do recurso, a indicação adequada do dispositivo de lei federal tido por violado, incidindo, na espécie, por analogia, o óbice da Súmula 284 do STF.
+É pacífico nesta Corte Superior o entendimento de que a ausência de indicação adequada, no recurso especial, dos dispositivos de lei federal tidos por infringidos configura deficiência na fundamentação recursal, o que atrai o óbice constante da Súmula 284 do Supremo Tribunal Federal, por analogia.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE OFENSA AOS ARTS. 467, 471 E 475-L, V, DO CPC/1973 E DO ART. 170, § 1º, DA LEI 6.404/76 E DA SÚMULA 371/STJ. DIVIDENDOS. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. VIOLAÇÃO DE ENUNCIADO DE SÚMULA. SÚMULA 284/STF. INCIDÊNCIA DA SÚMULA 518/STJ. VALOR PATRIMONIAL DA AÇÃO. DECISÃO TRANSITADA EM JULGADO. IMUTABILIDADE. AGRAVO NÃO PROVIDO.
+1. A ausência de indicação do dispositivo de lei federal supostamente violado impede a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal.
+2. "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula 518/STJ).
+3. Em respeito à coisa julgada, deve prevalecer o critério para cálculo do valor patrimonial das ações estabelecido no título exequendo. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 960.825/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/03/2017, DJe 07/04/2017, grifei)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ART. 535 DO CPC/1973. VIOLAÇÃO. INEXISTÊNCIA. REEXAME DE FATOS. SÚMULA Nº 7/STJ. DISPOSITIVO LEGAL. VIOLAÇÃO. INDICAÇÃO. AUSÊNCIA. SÚMULA Nº 284/STF.
+1. Não viola o artigo 535 do Código de Processo Civil de 1973, nem importa negativa de prestação jurisdicional, o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. Rever a conclusão do aresto impugnado encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça.
+3. Se nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal.
+4. Agravo interno não provido.
+(AgInt no AREsp 968.409/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/02/2017, DJe 13/02/2017, grifei)
+De outra parte, no que se refere à compensação entre os valores referentes ao Seguro Obrigatório (DPVAT) e aqueles arbitrados na demanda, a título de indenização, cabe ressaltar que a irresignação da parte recorrente merece guarida, em virtude de que o v. acórdão, ao concluir que "não há falar em compensação com indenização recebida do DPVAT, uma vez que não houve arbitramento de indenização por danos materiais, mas apenas pelos danos morais sofridos pelos passageiros", vai de encontro ao entendimento desta Corte Superior, veja-se:
+CONSUMIDOR E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS E MATERIAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DANO MORAL. AUSÊNCIA DOS REQUISITOS. NÃO CONFIGURADO. COMPENSAÇÃO DO SEGURO DPVAT. POSSIBILIDADE. SÚMULA N. 246/STJ.
+- Ação ajuizada em 12/01/2010. Recurso especial interposto em 18/11/2014 e distribuído a este Gabinete em 25/08/2016.
+- O reexame de fatos e provas em recurso especial é inadmissível.
+- Dano moral: agressão ou atentado aos direitos de personalidade.
+Fato do serviço não causa, por si, danos morais, mas será ensejador de danos morais quando desbordar da normal prestação do serviço.
+- Serviço de transporte urbano prestado de forma imprudente pode ser causador de dano moral.
+- É devida a compensação entre o valor do seguro obrigatório (DPVAT) e o montante fixado a título de indenização pelos danos sofridos. Súmula n. 246 do STJ.
+- Recurso especial parcialmente conhecido e, em parte, provido.
+(REsp 1513526/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/12/2016, DJe 14/12/2016) - g.n.
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. TRANSPORTE. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VIOLAÇÃO DO ART. 535, II, DO CPC. NÃO OCORRÊNCIA. DANOS MORAIS. COMPENSAÇÃO. DPVAT.
+POSSIBILIDADE. SÚMULA 246/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões deve ser afastada a alegada violação ao art. 535, II, do Código de Processo Civil.
+2. O valor do seguro obrigatório deve ser deduzido da indenização judicialmente fixada. (Súmula 246/STJ)
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 723.339/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/08/2015, DJe 14/08/2015) - g.n.
+Destarte, resta patente que o presente recurso mereceprovimento, tão somentepara determinar que o valor devido do seguro DPVAT seja deduzido da indenização fixada judicialmente.
+Ante o exposto, CONHEÇO PARCIALMENTE DO RECURSO ESPECIAL PARA, NESTA EXTENSÃO, DAR-LHE PROVIMENTO, TÃO SOMENTEPARA DETERMINAR A COMPENSAÇÃO ENTRE O VALOR REFERENTE AO SEGURO DPVAT E AQUELE ARBITRADO A TÍTULO DE INDENIZAÇÃO.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AÇÃO INDENIZATÓRIA. TRANSPORTE COLETIVO DE PASSAGEIROS. ACIDENTE. INDENIZAÇÃO. DANOS MORAIS CARACTERIZADOS.LEGITIMIDADE PASSIVA. TEORIA DA APARÊNCIA. SEGURO OBRIGATÓRIO - DPVAT. COMPENSAÇÃO. VIABILIDADE. ALEGADA OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. ACÓRDÃO RECORRIDO DIVERGENTE DO ENTENDIMENTO DESTA CORTE SUPERIOR.
+RECURSO ESPECIAL PARCIALMENTE CONHECIDO PARA, NESTA EXTENSÃO, DAR-LHE PROVIMENTO, TÃO SOMENTE PARA DETERMINAR A COMPENSAÇÃOENTRE O VALOR REFERENTE AO SEGURO DPVAT E AQUELE ARBITRADO A TÍTULO DE INDENIZAÇÃO.
