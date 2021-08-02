@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de PEDRO VIANA FROTA, contra suposta omissão do eg. Tribunal de Justiça do Estado do Rio de Janeiro.
+Daí o presente writ, no qual a d. Defesa explica que, "Conforme consta no processo de execução 5001399-94.2021.8.19.0500,conforme atestado de pena, o paciente faz jus a progressão ao regime aberto desde 27/09/2020, levando conta a condenação do juiz de primeira instância. Agora, com a redução da pena para 03 (três) anos de reclusão, o direito a progressão de regime passa a ser desde em 01/08/2020. Em 13de abril de 2021, o Dr. Defensor Público que atua na VEP/RJ, solicitou a concessão de PROGRESSÃO DE REGIME PARA O ABERTO E A CONVERSÃO EM PRISÃO ALBERGUE DOMICILIAR MONITORADA. Mesmo com a Manifestação do Ministério Público pelo deferimento da progressão ao regime aberto, uma vez que satisfeitos os requisitos legais, o presente caso não fora analisado até a presente data. Configurado o constrangimento imposto ao paciente com a manutenção do recolhimento ao presídio, posto que já decorridos mais de mais de 08 meses sem que a progressão, a qual faz jus, fosse analisada, ou fosse levada em consideração pelos senhores Desembargadores" (fl. 5).
+Requer, inclusive LIMINARMENTE, "que seja o paciente posto em liberdade, ante ao flagrante constrangimento imposto ao paciente com seu recolhimento ao presídio, uma vez que os eminentes Desembargadores mantiveram o regime semiaberto, visto ainda que já decorridos mais de 08 meses sem que a progressão, a qual faz jus, fosse analisada pela VEP/RJ..Que se dê prosseguimento ao feito para, ao final, conceder, de forma definitiva, a Ordem do presente writ, determinando assim a progressão de regime ao aberto" (fls. 6-7).
+É o relatório.
+Decido.
+O presente habeas corpus encontra-se prejudicado, em razão da perda superveniente de seu objeto.
+As informações de fls. 38-44 dão conta de que a ordem já foi concedida pela origem.
+Tudo o que impede a análise aqui posta, pois a manifestação a quo constitui novo título, que modifica drasticamente a situação jurídica e torna ineficaz qualquer manifestação desta eg. Corte Superior, até mesmo pela falta de dialeticidade das razões aqui apresentadas, em face do julgado superveniente.
+Ante o exposto, julgo prejudicado o presente mandamus, em razão da perda superveniente do objeto.
+P. I.
