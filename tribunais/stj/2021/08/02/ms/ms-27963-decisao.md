@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de mandado de segurança, com pedido de liminar, impetrado por ROBERTO MOTTA JUNIOR E OUTRO contra ato judicial praticado pelo Presidente do Superior Tribunal de Justiça.
+Aduz, em suma, que (fls. 3-20):
+Para que seja atingida a efetividade e eficácia da medida aqui pleiteada, faz-se necessário a suspensão liminar do trânsito em julgado da ação nº 0008976-38.2007.8.16.0031 para que possa ser dado início ao cumprimento de sentença de forma correta, incluindo o direito de reajuste do Plano Verão aos Impetrantes. A suspensão é medida de urgência, tendo em vista que se não concedida poderá haver o trânsito em julgado da ação, não podendo ser mais discutido seu mérito por meio desta via.
+ ..
+Posto isto, a liminar deve ser concedida para suspender o trânsito em julgado da ação, até que se analise o mérito do presente Mandado de Segurança, que se trata na aplicação do Plano Verão, devendo o banco Interessado anexar todos os extratos bancários em nome dos Impetrantes à época.
+É, no essencial, o relatório. Decido.
+Segundo o art. 105, I, b, da Constituição Federal, que demanda interpretação restritiva, o Superior Tribunal de Justiça é competente para processar e julgar, originariamente, os mandados de segurança impetrados contra ato de ministro de Estado, dos comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+Importa salientar que o entendimento desta Corte federal é no sentido de que o cabimento de mandado de segurança contra decisão judicial é admitido somente de forma excepcional, quando se tratar de ato manifestamente ilegal e/ou teratológico, se não houver instrumentos recursais próprios na via ordinária, previstos na legislação processual, de modo a impedir a lesão ou a ameaça de lesão a direito líquido e certo, cuja comprovação também dispensa instrução probatória, não sendo a hipótese dos autos, na qual há mera inconformidade com o resultado do julgado que lhe foi negativo, sendo utilizado o mandado de segurança, portanto, indevidamente como um sucedâneo recursal.
+Ressalte-se que a jurisprudência desta Corte federal é pacífica no sentido de que o mandado de segurança não pode ser utilizado como sucedâneo recursal, em decorrência do teor da Súmula 267 do STF, sob pena de desnaturação de sua essência constitucional.
+Segue transcrição de precedente: "O mandado de segurança contra ato judicial é medida excepcional, cabível somente em situações nas quais pode se verificar, de plano, ato judicial eivado de ilegalidade, teratologia ou abuso de poder, que importem ao paciente irreparável lesão ao seu direito líquido e certo" (AgInt no MS 24.230/DF, Corte Especial, Relator Ministro Felix Fischer, DJe de 13/09/2018).
+Ante o exposto, com fundamento no art. 212 do RISTJ, indefiro liminarmente o mandado de segurança em face da incompetência absoluta do Superior Tribunal de Justiça para dele conhecer e julgá-lo.
+Sem condenação a honorários (Súmula n. 105 do STJ).
+Publique-se. Intimem-se.
