@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeirocuja ementa é a seguinte:
+Apelação Cível. Execução Fiscal. Município de Japeri. Crédito tributário relativo aos exercícios de 2003 a 2006. Extinção do processo, pelo reconhecimento da prescrição. Inconformismo do exequente. Ocorre que, das sentenças de primeira instância proferidas em execuções de valor igual ou inferior a 50 (cinquenta) Obrigações Reajustáveis do Tesouro Nacional - ORTN"s, só se admitirão embargos infringentes e de declaração. Ademais, para se aferir o valor de alçada, não é cabível a soma do importe das execuções reunidas em um só feito. Assim, deve ser considerado cada crédito tributário isoladamente, ainda que a cobrança esteja sendo realizada no mesmo processo executivo. Na hipótese dos autos, a ação foi proposta em dezembro de 2007, objetivando a execução das quantias de R$ 203,90 (duzentos e três reais e noventa centavos), R$ 173,32 (cento e setenta e três reais e trinta e dois centavos), R$ 114,18 (cento e quatorze reais e dezoito centavos) e R$ 104,39 (cento e quatro reais e trinta e nove centavos), referentes aos exercícios de 2003, 2004, 2005 e 2006, respectivamente, enquanto que, na referida data, o valor de alçada correspondia a R$ 559,36 (quinhentos e cinquenta e nove reais e trinta e seis centavos). Incabível, portanto, a interposição de apelação, eis que há previsão legal específica de recurso diverso para impugnar o decisum ora atacado. Impõe-se, portanto, o reconhecimento da inadmissibilidade do apelo em comento. Recurso não conhecido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, o recorrente aponta ofensa ao art. 34 da Lei 6.830/80, c/c o art. 1.009 do CPC/2015, alegando, em síntese, que:
+Cuida-se, aqui, de EXECUÇÃO ÚNICA, com reunião de vários exercícios em única CDA - Certidão de Dívida Ativa. Na hipótese de eventual oferta de embargos à execução, no caso concreto, cuidaria-se de apenas 01 (um) embargos.
+Logo, o valor a ser considerado, por óbvio, é o valor da execução fiscal em si, o que ultrapassa a alçada como já salientado no "item 1" da Apelação quando se explicitou o cabimento do recurso de apelação, mencionando-se, inclusive o paradigmático REsp 1.168.625-MG, Rel. Min. Luiz Fux, , PRIMEIRA SEÇÃO, julgado em 09/06/2010, DJe 01/07/2010. Informativo 438-STJ.
+O recurso foi admitido pelo Tribunal de origem.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A orientaçãoCorte firmou-se no sentido de que o valor dealçada deve ser aferido no momento da propositura da execução, levando-se em conta o valor da causa.
+Nesse sentido:
+"PROCESSUAL CIVIL. EXECUÇÃO FISCAL. ART. 34 DA LEF. VALOR DE ALÇADA X VALOR DA CAUSA. CONFRONTO QUE DEVE SER REALIZADO NO MOMENTO DA DISTRIBUIÇÃO DA AÇÃO EXECUTIVA. ORTN. SUBSTITUIÇÃO, SUCESSIVAMENTE, PELOS ÍNDICES OTN, BTN E UFIR.
+1. Nos termos do art. 34, § 1º, da Lei de Execuções Fiscais, o cotejo entre os valores de alçada e da execução, para fins de determinação do cabimento ou não do recurso de apelação, deve ser realizado no momento da propositura da ação executiva.
+2. Os sucessivos índices a serem utilizados no cálculo do valor de alçada, em razão da extinção da ORTN em 1986, são a OTN, o BTN e a UFIR. Precedentes da 2ª Turma.
+3. Recurso especial provido" (STJ, REsp 602.179/SC, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, DJU de 27/03/2006).
+"PROCESSO CIVIL - EXECUÇÃO FISCAL - ALÇADA RECURSAL (ART. 34 DA LEI 6.830/80)
+1. Segundo o art. 34 da LEF, somente é cabível o recurso de apelação para as execuções fiscais de valor superior a 50 (cinqüenta) Obrigações Reajustáveis do Tesouro Nacional - ORTN.
+2. Com a extinção da ORTN, o valor de alçada deve ser encontrado a partir da interpretação da norma que extinguiu um índice e o substituiu por outro, mantendo-se a paridade das unidades de referência, sem efetuar a conversão para moeda corrente, para evitar a perda do valor aquisitivo.
+3. 50 ORTN = 50 OTN = 308,50 BTN = 308,50 UFIR = R$ 328,27 (trezentos e vinte e oito reais e vinte e sete centavos) a partir de janeiro/2001, quando foi extinta a UFIR e desindexada a economia.
+4. O valor de alçada deve ser auferido, observada a paridade com a ORTN, no momento da propositura da execução, levando em conta o valor da causa.
+5. Recurso especial provido em parte" (STJ, REsp 607.930/DF, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJU de 17/05/2004).
+Diante do exposto, com base no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ e a Súmula 568/STJ, dou provimento ao recurso especial, para determinar a devolução dos autos ao Tribunal de origem para que aprecie a apelação, como bem entender de direito, afastada a premissa de não cabimento do recurso.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EXECUÇÃO FISCAL. VALOR DE ALÇADA. APELAÇÃO. CABIMENTO. PRECEDENTES. RECURSO PROVIDO.
