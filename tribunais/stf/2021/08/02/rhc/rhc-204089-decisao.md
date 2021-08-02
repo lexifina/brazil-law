@@ -1,0 +1,31 @@
+Decisão:
+    Vistos.
+    Recurso ordinário em habeas corpus interposto por Reinaldo Custódio da Silva, contra decisão monocrática do Ministro Ribeiro Dantas, do Superior Tribunal de Justiça, que denegou a ordem no HC nº 665.348/SP.
+    Segundo os autos, o recorrente
+    “foi condenado pelo Juiz Federal da 1ª Vara Federal de Jales, como incurso no artigo 289, §1º, do Código Penal pelo suposto crime de moeda falsa, as penas de 07 (sete) anos, 05 (cinco) meses e 07 (sete) dias de reclusão, e 164 (cento e sessenta e quatro dias-multa), fixando o regime inicial fechado, para início de cumprimento da pena, bem como vedando o direito do recorrente apelar em liberdade.”
+    Para a defesa o recorrente sofre constrangimento ilegal derivado do excesso de prazo na formação da culpa, visto que aguarda preso o julgamento do seu recurso de apelação desde 26/3/19.
+    Esclarece, ainda, que
+     “o fato de o recorrente encontrar-se recluso cumprindo pena por outro delito, não se justifica o indeferimento da ordem, posto que não se altera em nada o manifesto constrangimento ilegal passível de ser reparado, em razão do excesso de prazo pela desídia do Poder Judiciário.”
+    Requer o provimento do recurso para que, concedida a ordem de habeas corpus, seja revogada a sua custódia preventiva.
+    Instado a se manifestar, o Ministério Público Federal, em parecer de lavra do Subprocurador-Geral da República Wagner Natal Batista, opinou pelo não conhecimento do recurso.
+    Examinados os autos, decido.
+    O recurso sequer merece que dele se conheça, uma vez que se volta, pelo que se depreende dos autos, contra decisão singular proferida pelo relator no bojo do HC nº 665.348/SP.
+    Consoante pacífica jurisprudência do Supremo Tribunal Federal, “não se conhece de recurso ordinário em habeas corpus contra decisão monocrática proferida no Superior Tribunal de Justiça” (RHC nº 108.877/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/10/11).
+    Segundo preconizado pela eminente relatora naquele julgado, “tratando-se de decisão monocrática, contra ela não poderia ser interposto o Recurso Ordinário em Habeas Corpus, porque o art. 102, II, a, da Constituição da República, condiciona a sua apresentação às situações em que se teve um pronunciamento colegiado”.
+    Perfilhando esse entendimento, destaco:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSO PENAL. DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO CABIMENTO. RECURSO INTEMPESTIVO. SUPRESSÃO DE INSTÂNCIA. REITERAÇÃO DE IMPETRAÇÃO ANTERIOR. AUSÊNCIA DE RISCO À LIBERDADE DE LOCOMOÇÃO” (RHC nº 121.834/SP, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 6/11/14);
+    “Agravo regimental no recurso ordinário em habeas corpus. Argumentos insuficientes para modificar a decisão ora agravada. Recurso ordinário manejado contra decisão monocrática proferida em sede de habeas corpus impetrado ao Superior Tribunal de Justiça. Não cabimento. Precedentes. Violação do princípio da colegialidade suscitada de forma inovadora no agravo regimental. Impossibilidade. Precedentes. Regimental não provido” (RHC nº 121.999-AgR/SP, Primeira Turma, de minha relatoria, DJe de 27/8/14);
+    “Penal e processual penal. Recurso ordinário em habeas corpus. Atentado violento ao pudor contra vulnerável menor de 4 anos de idade (CP, art. 214, c/c art. 224, a). Falsa declaração de pobreza. Ilegitimidade do Ministério Público para propor ação penal pública condicionada. Tema não suscitado no Tribunal local. Writ não conhecido, monocraticamente, no STJ. Não interposição de agravo regimental. Jurisdição não exaurida no âmbito do Tribunal a quo. Inobservância do princípio da colegialidade (artigo 102, inciso II, alínea a, da Constituição Federal). Supressão de instância. Pretensão de habeas corpus, de ofício. Reexame de fatos e provas. Inviabilidade” (RHC nº 11.935/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13).
+    Registre-se, ademais, que “a não interposição de agravo regimental no STJ e, portanto, a ausência da análise da decisão monocrática pelo colegiado, impede o conhecimento do habeas corpus por esta Corte” (HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14).
+    Perfilhando esse entendimento, destaco, da Primeira Turma, o RHC nº 111.395/DF, Relator o Ministro Luiz Fux, DJe de 30/9/13; e o HC nº 101.407/PR, de minha relatoria, DJe de 19/3/14.
+    De qualquer modo, é importante consignar a inexistência desídia atribuível às instâncias originárias apta a configurar ocorrência de excesso de prazo, pois, consoante se vislumbra da decisão questionada, a sentença condenatória foi proferida em 22/3/19 e o mandado de prisão cumprido em 26/3/19, sendo que os autos foram remetidos ao Tribunal Regional Federal da 3ª Região em 14/10/20 para trâmite recursal da apelação.
+    Segundo o entendimento deste Supremo Tribunal, a notícia de que o processo criminal tem regular processamento na origem afasta o alegado constrangimento ilegal por excesso de prazo (v.g. HC nº 127.457/BA, Segunda Turma, de minha relatoria, DJe de 1º/7/15; HC 129.889/AgR-SP, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 25/9/15).
+    Em linha de convergência: HC nº 111.755/ES, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe 14/9/12; HC nº 116.864/RR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe 15/10/13; HC nº 113.278/SP-ED, Primeira Turma, Relator o Ministro Roberto Barroso, DJe 14/10/14.
+    Outra não foi a compreensão da Procuradoria-Geral da República. Transcrevo do parecer:
+    “Ademais, considerando-se a pena imposta ao réu – 7 anos, 5 meses e 7 dias de reclusão –, a demora de 1 ano e 9 meses na tramitação do recurso de apelação no TRF3 não se mostra desarrazoada a ponto de justificar a revogação da prisão preventiva do réu, sobretudo considerando-se a complexidade do feito, com pluralidade de réus, bem como a periculosidade social do agente, que possui vasta ficha criminal.”
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente recurso ordinário.
+    Publique-se.
+    Brasília, 2 de agosto de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
