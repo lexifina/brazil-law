@@ -1,0 +1,32 @@
+D E C I S Ã O
+    Trata-se de recurso ordinário em habeas corpus interposto contra acórdão do Superior Tribunal de Justiça assim ementado:
+    “AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADMISSIBILIDADE. CRIME DE FURTO SIMPLES. MULTIRREINCIDÊNCIA ESPECÍFICA EM CRIMES CONTRA O PATRIMÔNIO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. DECISÃO MANTIDA.
+    1. É inadmissível habeas corpus em substituição ao recurso próprio, também à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada flagrante ilegalidade no ato judicial impugnado apta a ensejar a concessão da ordem de ofício.
+    2. A aplicação do princípio da insignificância, segundo a orientação do Supremo Tribunal Federal, demanda a verificação da lesividade mínima da conduta, apta a torná-la atípica, considerando-se: a) a mínima ofensividade da conduta do agente; b) a inexistência de periculosidade social na ação; c) o reduzido grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada. O Direito Penal não deve ocupar-se de condutas que, diante do desvalor do resultado produzido, não representem prejuízo relevante para o titular do bem jurídico tutelado ou para a integridade da própria ordem social.
+    3. A multirreincidência específica na prática de crimes contra o patrimônio evidencia a acentuada reprovabilidade do comportamento, situação incompatível com a aplicação do princípio da insignificância.
+    4. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada.
+    5. Agravo regimental desprovido.”
+    (HC 615.805-AgRg/SC, Ministro João Otávio de Noronha)
+    Em suas razões, a parte recorrente pretende, em síntese, a aplicação do princípio da insignificância e, em consequência, a absolvição.
+    O Ministério Público Federal apresentou contrarrazões em que requer o desprovimento do recurso ordinário em habeas corpus.
+    É o relatório. Decido.
+    O Supremo Tribunal Federal já firmou orientação no sentido da aplicabilidade do princípio da insignificância no sistema penal brasileiro desde que preenchidos, cumulativamente, os seguintes requisitos: a) a mínima ofensividade da conduta do agente, b) nenhuma periculosidade social da ação, c) o reduzidíssimo grau de reprovabilidade do comportamento e d) a inexpressividade da lesão jurídica provocada (HC 84.412/SP, Ministro Celso de Mello).
+    Desta forma, na presença desses quatro vetores objetivos, que estão relacionados ao fato e não às características pessoais do autor, tal princípio incidirá para afastar, no plano material, a própria tipicidade da conduta diante da ausência de lesão ou perigo de lesão ao bem jurídico tutelado.
+    Nesse contexto, importante transcrever o seguinte trecho do ato dito coator (com meus grifos):
+    “No presente caso, diante de precedente colacionado do Supremo Tribunal Federal, assim como da constatação de que o agravante é multirreincidente específico na prática de crimes contra o patrimônio, o que evidencia a acentuada reprovabilidade de seu comportamento, concluiu-se pela inviabilidade da aplicação do princípio da insignificância.
+    (...)
+    Ademais, em consulta ao SAJ (Sistema de Automação da Justiça), percebe-se que o apelante apresenta 4 (quatro) condenações anteriores e definitivas, todas pela prática do crime de furto, as quais são aptas ao reconhecimento de seus maus antecedentes e também revelam a sua condição de multirreincidente específico (autos n.0002313-24.2012.8.24.0048 - fl. 47 do evento 102; 0008995-50.2006.8.24.0033 - fl. 48 do evento 102; 0021386-03.2007.8.24.0033 - fls. 48/49 do evento 102; e 0014843-42.2011.8.24.0033 (fl. 49 do evento 102), sendo mais um indicativo de que o reconhecimento do crime bagatelar não se mostra razoável na presente hipótese.
+    Por último, convém registrar que Ronaldo Adriano de Andrade (gerente do "Mercado Verde Vale") e José Joventino dos Santos (preposto da pessoa jurídica vitimada) narraram de maneira uníssona e coerente que Osvaldo Rodrigues Filho já havia furtado o estabelecimento em ocasiões anteriores e, inclusive, apresentava comportamento violento, de modo que somente no dia dos fatos acionaram a Polícia Militar, contexto que demonstrar a assiduidade do ora apelante no cometimento de crimes patrimoniais, inviabilizando a aplicação do princípio da insignificância.”
+    No caso em apreço, a análise objetiva dos fatos conduz ao reconhecimento da inexistência de fato insignificante, porquanto além dos maus antecedentes, nota-se a contumácia delitiva em crimes contra o patrimônio.
+    Nesse mesmo sentido, cito a jurisprudência de ambas as Turmas desta Suprema Corte: HC 145..389-AgR/MG, Ministro Luiz Fux; HC 191.126/SP, Ministro Dias Toffoli; RHC 146.304/MS, Ministro Ricardo Lewandowski, todos em linha com o precedente que se segue:
+    “HABEAS CORPUS. CONSTITUCIONAL. PENAL. FURTO. PRETENSÃO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. EXISTÊNCIA DE ANTECEDENTES A DEMONSTRAR A CONTUMÁCIA DELITIVA: PRECEDENTES. ORDEM DENEGADA.
+    1. O Paciente foi denunciado pelo furto de dois rolos de tela de arame galvanizado avaliados em R$140,00 (cento e quarenta reais), valor superior a 22% do salário mínimo vigente à época dos fatos. Lesividade evidenciada. Contumácia delitiva constatada.
+    2. O criminoso contumaz, mesmo praticando crimes de pequena monta, não pode ser tratado pelo sistema penal como se tivesse adotado condutas irrelevantes, pois crimes considerados ínfimos quando analisados isoladamente, mas relevantes quando em conjunto, seriam transformados pelo infrator em ilícito meio de vida.
+    3. O princípio da insignificância não foi formulado para resguardar e legitimar constantes condutas juridicamente desvirtuadas, mas para impedir que desvios de conduta de mínima ofensividade, considerados isoladamente, sejam sancionados pelo direito penal, fazendo-se justiça no caso concreto. Comportamentos contrários à lei penal, mesmo insignificantes, quando constantes, devido à reprovabilidade, perdem a condição de configurar bagatela, devendo ser submetidos ao direito penal.
+    4. Ordem denegada.”
+    (HC 133.252/MG, Ministra Cármen Lúcia – com meus grifos)
+    Em face do exposto, nego provimento ao recurso em habeas corpus.
+    Intime-se. Publique-se.
+    Brasília, 02 de agosto de 2021.
+Ministro NUNES MARQUES
+Relator
