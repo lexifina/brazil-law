@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por WASLEY DOS SANTOS com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco na Apelação Criminal n. 0037275-10.2015.8.17.0001.
+Consta nos autos que oRecorrente foi condenado à pena de 15 (quinze) anos de reclusão, como incurso no art. 121, caput, do Código Penal(fls. 169-171).
+À apelação defensiva a Corte de origem deu parcial provimento, "reduzindo a pena arbitrada para o montante de 14 anos de reclusão, em regime inicialmente fechado"(fl. 218).
+Nas razões do recurso especial, pondera a Defesa que o"magistrado de piso considerou que o requerente apresentava maus antecedentes criminais, sob o fundamento de que o mesmo respondia outros crimes" (fl. 230; sem grifos no original).
+Outrossim, afirma que a valoração negativa da personalidade e daconduta social é inidônea, pois estaria amparada na asserçãogenérica de queo Recorrente écontumaz na prática de delitos.(fls. 231-232)
+Requer, assim,sejaredimensionadaa reprimenda (fls. 232-233).
+Foram apresentadas contrarrazões (fls. 239-245).
+O recurso especial foi admitido (fls. 248).
+O Ministério Público Federal apresentou parecer, opinando peloprovimento do recurso especial (fls. 259-263).
+É o relatório.
+Decido.
+O Juiz Presidente do Tribunal do Júri individualizou a pena do Recorrente nos seguintes termos (fls. 169-170):
+"Examinando-se as circunstâncias judiciais do art. 59, do Código Penal,aplicáveis à espécie, tem-se que o crime foi cometido com dolo intenso, vez que a vítima sofreu o golpe na região da cabeça, que lhe causou perfuração cranioencefálico, evidenciando a inquestionável vontade de matar. A culpabilidadeé plena, posto que o réu agiu de forma premeditada, com extrema frieza e com total consciência da ilicitude do fato, estando predeterminado na realização da conduta criminosa, sendo então merecedor de elevada censura.
+O réu tem péssimos antecedentes criminais, vez que respondea outros crimes de homicídio, tráfico de drogas e porte ilegal de arma, conforme documentação contida nos autos, de desnecessária transcrição.
+Vê-se, portanto, que os registros criminais são indicativos de sua elevada periculosidade social, desprezo à vida do semelhante, predisposição à violência e desrespeito às leis de convivência social.
+A sua conduta social e sua personalidade contra si depõem, já que contumaz na prática de ilícitos.
+As circunstâncias em queo crime ocorreu igualmente falam em desfavor do denunciado, pois agiu dentro de um ambiente prisional, onde se presume que os detentos deveriam estar ali refletindo sobre suas condutas - anteriores e adquirindo a consciência de cidadania.
+As consequênciasdo crime são negativas para o convívio entre os presos, pois faz recrudescer a sensação de intranquilidade dentro dos presídios, o que traz sérios traumas à administração desses estabelecimentos.
+Tudo considerado, e tendo em mente que o Conselho de Sentença não reconheceu a ocorrência da circunstância qualificadora, previstas no artigo 121, § 2.º , inciso III, do Código Penal Brasileiro, fixo a pena em 17 anos de reclusão.
+Considerando que na época do crime o acusado era menor de 21 anos, com fundamento no art. 65, inc. I, do CPB, reduzo a pena em 1 ano o que resulta a pena de 16 anos de reclusão.
+Tendo em vista, ainda, que réu confessou espontaneamente a autoria do crime, comfundamento no artigo 65, inciso III, alínea d, diminuo a pena em 1 ano, passando a pena final a ser de 15 anos de reclusão, que a torno definitiva e concreta por não haver circunstâncias atenuantes, tampouco agravantes, e por inexistir causas especiais de diminuição ou de aumento de pena, a considerar."
+No que interessa ao feito, o aresto atacado possui a seguinte fundamentação (fls. 216-217; sem grifos no original):
+"O cerne da questão consiste em verificar se a reprimenda imposta fora fixada de forma proporcional ao delito praticado pelo recorrente e se as circunstâncias judiciais da culpabilidade, da personalidade, dos motivos e das consequências do crime foram devidamente valoradas.
+Efetivamente, a dosimetria realizada na sentença não apresenta a melhor técnica, já que o juízo primevo fixou a basilar para o crime previsto no art. 121, caput, do CPB, em 17 (dezessete) anos de reclusão, considerando como negativas as circunstâncias judiciais da culpabilidade, dos antecedentes criminais, da conduta social, da personalidade, das circunstâncias e das consequências do crime.
+Com relação a culpabilidade, dizer que a mesma é plena, posto que o réu agiu de forma premeditada, com extrema frieza e com total consciência da ilicitude não é fundamento idôneo para considerar referida circunstância negativa ao recorrente. Extrai-se dos autos que o crime ocorreu após uma confusão entre acusado e vitima, tendo esta última desferido um soco no rosto do apelante, causando a briga posteriormente, o que deu ensejo à conduta desproporcional do acusado.
+Quanto às consequências do crime, muito embora a justificativa dada para considerá-la negativa seja idônea, não poderá ser utilizada em desfavor do recorrente, uma vez que já foi utilizada para valorar negativamente as circunstâncias do crime, sob pena de configuração do bis in idem.
+Diante dessas considerações, fixo a pena-base em 16 (dezesseis) anos de reclusão.
+Na segunda fase, tendo em vista incidência das atenuantes da confissão e da menoridade, mantenho a redução estipulada na sentença, para fixar a reprimenda em 14 (quatorze) anos de reclusão, a qual torno definitiva e concreta, por não existirem causas especiais de diminuição e de aumento de pena."
+No caso, o Juiz Presidente do Tribunal do Júri fixou a pena em 17 anos de reclusão diante das seguintes vetoriais negativas: culpabilidade, antecedentes criminais, conduta social, personalidade, circunstâncias e consequências do crime.O Tribunal a quo afastouas circunstâncias judiciais negativas relativas àculpabilidade eàs consequências do crime, assim, mantendo as demais eredimensionandoa básica para16 (dezesseis) anos de reclusão.
+Como se verifica na sentença, a negativação dos antecedentes teve por fundamento a existência de ações penais em andamento.Houve, portanto, ofensa flagrante à orientação doEnunciado n. 444 do Superior Tribunal de Justiça, do seguinte teor: "É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base."
+De igual maneira, a negativação das vetoriais daconduta social epersonalidade tiveram por lastro a afirmação genérica de que o Recorrente seria contumaz na prática delitiva, conclusão essa, pelo que se depreende, também retirada da existência de ações penais em andamento.
+Além do mais, no ponto,ajurisprudência desta Corte Superior passou a entender que as diversas condenações pretéritas devem ser atreladas apenas aos maus antecedentes, razão pela qual também deve ser afastaa valoração negativa da conduta social e da personalidade do réu, na primeira fase da dosimetria da pena. A propósito:AgRg no HC 377.016/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 04/12/2018(DJe 14/12/2018).
+Passo, assim, a readequar a pena do Recorrente.
+Art. 121, caput, do Código Penal - Pena: reclusão de 6 a 20 anos.
+Na primeira fase da dosimetria, excluo os maus antecedentes, a conduta social e a personalidade do agente como circunstâncias judiciaisdesfavoráveis. Assim, considerando a vetorial remanescente (circunstâncias do crime), fixo a pena base em 7(sete) anos de reclusão.
+Na segunda fase, reconhecida aconfissão espontâneae amenoridade relativa, retorno a pena ao mínimo legal, ou seja, 6 anos de reclusão.
+Na terceira etapa, ausentes causas modificadoras, a pena privativa de liberdade do Recorrente fica definitivamente quantificada em 6(seis) anos de reclusão, contudo, mantido o regime inicial fechado, em razão da existência de circunstância judicial desfavorável.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para, afastando os mausantecedentes, a conduta social e a personalidade do agente, redimensionar apenado Recorrente nos termos da decisão.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. HOMICÍDIO. DOSIMETRIA. PLEITO DE AFASTAMENTO DAS VETORIAIS DOS MAUS ANTECEDENTES, CONDUTA SOCIAL EPERSONALIDADE DO AGENTE. VALORAÇÃO NEGATIVA COM BASE EM PROCESSO EM CURSO E ABSTRAÇÕES. OFENSA AO ENUNCIADO N.º 444 DO SUPERIOR TRIBUNAL DE JUSTIÇA.RECURSO ESPECIALPROVIDO.
