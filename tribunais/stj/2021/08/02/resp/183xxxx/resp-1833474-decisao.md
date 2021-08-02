@@ -1,0 +1,20 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por JOSE MARCOS DE OLIVEIRA em face deacórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+EMPRÉSTIMOVIA CARTÃO DE CRÉDITO. EMPRÉSTIMOCONSIGNADO. NULIDADE. AUSÊNCIA. Não se impõe a nulidade dos termos da contratação tal como celebrada, face à ausência de elementos de prova do alegado vício de vontade, além e que não há qualquer irregularidade ou ilegalidade a ser reconhecida na contratação.V. V. O CDC impõe ao fornecedor a adoção de um deve de conduta, ou de comportamento positivo, de informar o consumidor a respeito das características, componentes e riscos inerentes ao produto ou serviço. Informação adequada implica em correção, clareza, precisão e ostensividade, sendo o silêncio, total ou parcial, do fornecedor, a respeito da utilização do serviço, uma violação do princípio da transparência que rege as relações de consumo.A indução do consumidor em erro, por acreditar que estava contratando empréstimo consignado em folha, quando, na realidade, se tratava da contratação via cartão de crédito, viola os princípios da probidade e boa-fé contratual. Dever de recalcular a dívida do autor, considerando os encargos próprios da modalidade de contratação requerida pelo consumidor. O desconto indevido de considerável número de parcelas dos proventos do consumidor, os quais não abatiam o débito, mas se tratavam apenas de quitação da parcela mínima da fatura de cartão de crédito, por ludibriar o consumidor, que se surpreendeu, anos depois, com uma dívida maior do que a contraída gera lesão a direito da personalidade. (fl. 299)
+Em suas razões, a parte recorrente alegou divergência jurisprudencial acerca do parâmetros de revisão da taxa de juros remuneratórios do cartão de crédito consignado, apontando que o Tribunal de origem teria adotado a taxa média de mercado para a modalidade de cartão de crédito, ao passo que o Tribunal de Justiça do Estado de Goiás, a taxa média do crédito consignado, em demanda na qual figurou em um dos polos processuais o mesmo banco ora recorrido.
+Argumentou que, "no presente caso, estaria em desacordo com o sistema de proteção ao consumidor (inciso XV), nos termos em que suas cláusulas dos juros serem excessivamente onerosas para o consumidor, considerando a natureza e conteúdo do contrato e o interesse das partes (§ 1º, inciso III, art. 51)" (fl. 333).
+Contrarrazões às fls. 368/76.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece ser conhecido.
+A divergência jurisprudencial apontada no presente recursotem como acórdão paradigma um julgado do Tribunal de Justiça do Estado de Goiás 1 , em que se entendeu pela revisão da média de juros do cartão de crédito consignado para a média das operações de crédito consignado, afastando-se assim o uso da média das operações de cartão de crédito como parâmetro de controle.
+Controvérsia idêntica à presente foi enfrentada recentemente pela TERCEIRA TURMA desta Corte Superior, no julgamento do REsp1.833.475/MG (julgado em 18/05/2021, acórdão pendente de publicação), no qual também foi apontado como paradigma um acórdão do TJGO,tendo-se concluído pela ausência de similitude fática entre os acórdãos confrontados, uma vez que a reserva demargem consignável no caso concreto é regidapor lei local específica, a Lei Estadual nº 19.490/2011, de modo que o acórdão paradigma, oriundo do Estado de Goiás, versou sobre lei diversa.
+Naquela ocasião, fiquei vencido quanto ao conhecimento do recurso, mas,doravante, passo a adotar o entendimento que sagrou-se vencedor, a bem da estabilidade da jurisprudência (art. 926, caput, do CPC/2015), com a ressalva do meu entendimento pessoal.
+Destarte, por ausência de similitude fática, o recurso especial não merece ser conhecido.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Advirta-se para o disposto nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CARTÃO DE CRÉDITO CONSIGNADO. PRETENSÃO DE REVISÃO DOS JUROS REMUNERATÓRIOS. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILUTUDE FÁTICA.
+RECURSO ESPECIAL NÃO CONHECIDO.
