@@ -1,0 +1,29 @@
+DECISÃO
+YOU INC INCORPORADORA E PARTICIPAÇÕES S.A. (YOU) ajuizou ação cominatória de rito ordinário cumulada com indenização por perdas e danos e pedido liminar de antecipação de tutela contra UNIFISA ADMINISTRADORA NACIONAL DE CONSÓRCIOS LTDA. (UNIFISA) alegando o uso indevido de marca.
+Em primeira instância, o pedido foi julgado improcedente, condenando-se YOU ao pagamento das custas e honorários, estes arbitrados em 15% do valor da causa.
+A apelação interposta por YOU não foiprovida pelo Tribunal de Justiça de São Paulo nos termos do acórdão de relatoria do Des. AZUMA NISHI, assim ementado:
+APELAÇÃO. AÇÃO COMINATÓRIA CUMULADA COM PLEITO INDENIZATÓRIO. DIREITO MARCÁRIO. PROPRIEDADE INDUSTRIAL. Sentença de improcedência. Pedido de abstenção de uso de marca devidamente registrada perante o INPI. Referência aoempreendimento da autora, em e-mails enviados pela ré, tão somente para oferecer a quitação do imóvel lá adquirido. Inexistência de conflito ou associação indevida perante os consumidores. Ramos de atuação das partes que são diversos. Ausência de comprovação de vinculação indevida ou confusão que pudesse caracterizar desvio de clientela e concorrência desleal, e, portanto, dever de reparação. SENTENÇA MANTIDA. RECURSO DESPROVIDO (e-STJ, fl. 298).
+Os embargos de declaração opostos por YOU foram rejeitados (e-STJ, fls. 316/319).
+Inconformada, YOU manejou recurso especial com fundamento no art. 105, III, a, da CF, alegando a violação dos arts. 489, IV, do NCPC, 130, III, e 195, XI e XII, da Lei de Propriedade Intelectual, sob os argumentos de que (1) nula a decisão que não enfrenta todos o argumentos trazidos aos autos e que poderiam influenciar na conclusão do julgamento, o que ocorreu em relação a existência dos atos de concorrência desleal pelo uso de dados confidenciais obtidos de forma ilícita ou fraudulenta; e (2) é crime de concorrência desleal a prática de divulgar, explorar ou utilizar, sem autorização, dados confidenciais, utilizáveis na indústria, comércio ou prestação de serviços, o que ficou configurado no envio de e-mails aos clientes, obtidos de forma ilícita, sendo certo que deve a parte zelar pela sua integridade e reputação. Foram apresentadas as contrarrazões (e-STJ, fls. 337/340).
+Não admitido na origem, o agravo que se seguiu foi conhecido para conhecer em parte do recurso especial e, nessa extensão,negar-lhe provimento,por decisão monocrática de minha lavra assim resumida:
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC. AÇÃO COMINATÓRIA. DIREITO MARCÁRIO. PROPRIEDADE INDUSTRIAL. FUNDAMENTAÇÃO DA DECISÃO. SUFICIÊNCIA. INEXISTÊNCIA DE OFENSA AO ART. 489 DO NCPC. CONCORRÊNICA DESLEAL. DECISÃO AMPARADA EM FUNDAMENTO CONSTITUCIONAL. REANÁLISE DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS Nº 7 E 126 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO(e-STJ, fl. 374).
+Na oportunidade, foi majorado em 5% o valor dos honorários advocatícios anteriormente fixados em favor de UNIFISA, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Nos presentes embargos, YOU alegaa existência de erro material, pois constou do relatório que suaapelaçãoteria sido parcialmente provida quando ela foi desprovida.O segundo erro materialseria em relação a majoração da verga honorária sucumbencial, pois o Tribunal estadual já havia majorado a verba de 15% para 20%, sendo esse o limite máximo (e-STJ, fls. 381/382).
+Não foi apresentada impugnação (e-STJ, fl. 387).
+DECIDO.
+Da ausência de violação do art. 1.022 do NCPC
+Nas razões dos presentes embargos de declaração,YOU alegoua existência de erro material, pois constou do relatório que a apelação de YOU teria sido parcialmente provida e, no entanto, ela foi desprovida. O segundo erro materialseria em relação a majoração da verga honorária sucumbencial, pois o Tribunal estadual já havia majorado a verba de 15% para 20%, sendo esse o limite máximo.
+Quanto àindicação do resultado daapelação, verifico que, de fato houve erro material no relatório da decisão monocrática embargada, pois referido recurso foi desprovida e não parcialmente provido. Essa circunstância, porém, nãointerfere no resultado do julgamento.
+No que se refere aos honorários, não há erro material, pois constou expressamente na monocrática que seriam eles limitados a 20%. Assim, essa especificação deverá ser observada no momento do pagamento da verba relacionada aos honorários sucumbenciais.
+Com efeito,os embargantes pretendem, na verdade, o rejulgamento da causa, o que não se pode admitir.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. EX-EMPREGADOS APOSENTADOS. PERMANÊNCIA NO PLANO DE SAÚDE COLETIVO. ART. 31 DA LEI N. 9.656/1988. CONDIÇÕES ASSISTENCIAIS E DE CUSTEIO. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca o simples rejulgamento da causa.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp 1.818.487/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Segunda Seção, DJe 20/4/2021)
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, ACOLHO em parteos embargos de declaração, sem efeitos infringentes, apenas para corrigir o erro material apontado.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO COMINATÓRIA. DIREITO MARCÁRIO. PROPRIEDADE INDUSTRIAL. HONORÁRIOS RECURSAIS. INEXISTÊNCIA DE ERRO MATERIAL.EMBARGOS DE PARCIALMENTE ACOLHIDOS, SEM EFEITOS INFRINGENTES, PARA CORREÇÃO DE ERRO MATERIAL.
