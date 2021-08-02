@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de YUDI SCHUINDT em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina.
+Colhe-se dos autos que o paciente, preso preventivamente, foi condenado à pena privativa de liberdade de 5 (cinco) anos de reclusão, em regime inicial semiaberto, pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006, ocasião em que foi decretada sua segregação cautelar.
+Neste writ, os impetrantes sustentam que: a) há "incompatibilidade entre o regime fixado pela o paciente (semiaberto) e a manutenção da prisão preventiva" (e-STJ, fl. 8); b) "desde a prolação da sentença  ..  em 21/10/2021 não há revisão da preventiva, na forma do artigo 316, parágrafo único do Código de Processo Penal, o que torna a prisão ilegal" (e-STJ, fl. 6); c) "o juízo de primeira instância proferiu a sentença e - sem mencionar fatos novos - negou ao Paciente o direito de recorrer em liberdade" (e-STJ, fl. 4); d) "os argumentos lançados na sentença - que negou recorrer em liberdade - são baseados nos mesmo lançados em decisões anteriores na mesma ação penal, descumprindo, por não ter fatos novos, o artigo 315, § 1º, do Código de Processo Penal" (e-STJ, fl. 13).
+Pleiteiam o relaxamento ou a revogação da custódia preventiva ou, ainda, a substituição dela por medidas cautelares diversas da prisão.
+É o relatório.
+Em consulta na base de dados processuais desta Corte, verifica-se que este habeas corpus traz pedido idêntico ao deduzido e já analisado no HC 658.417/SC.
+Desse modo, tratando-se de mera reiteração de outro pedido já deduzido nessa Corte, é o caso de não conhecimento.
+Confiram-se:
+" ..
+2. Não se constata, no caso, flagrante ilegalidade apta a ensejar a concessão de habeas corpus, de ofício, tendo em vista que o writ é mera reiteração de pedido anterior, cuja decisão já transitou em julgado, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos o mesmo acórdão.
+3. Agravo regimental improvido."
+(AgRg no HC 633.925/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 25/05/2021, DJe 04/06/2021).
+" ..
+II - No presente caso, não constatada nenhuma flagrante ilegalidade, tem-se que o presente habeas corpus não passa de mera reiteração de pedidos no HC n. 615.234/SC, inclusive, impetrado contra o mesmo acórdão e com os mesmos argumentos em geral.
+III - Assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017).
+IV - Não obstante, afastou-se a flagrante ilegalidade no caso concreto, pois o eg. Tribunal a quo bem explicou que havia sim a autorização judicial para o terminal que dialogou com o n.47988901439, mero terminal interlocutor, de terceira pessoa que não o agravante.
+ ..
+VI - No mais, a d. Defesa se limitou a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+VII - Nos termos do art. 159, IV, do RISTJ, não haverá sustentação oral no julgamento de agravo.
+Agravo regimental desprovido."
+(AgRg no HC 666.116/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 25/05/2021, DJe 31/05/2021).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
