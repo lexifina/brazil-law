@@ -1,0 +1,28 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. ACÚMULO DE APOSENTADORIAS. REGIMES GERAL E PRÓPRIO DE PREVIDÊNCIA SOCIAL. AGENTE PÚBLICO ADMITIDO ANTES DA LEI 8.112/90. PERÍODO CONSIDERADO PELO RGPS. IMPOSSIBILIDADE DE DUPLO APROVEITAMENTO. REMESSA NECESSÁRIA E APELAÇÃO PROVIDAS.
+    1. Trata-se de Remessa Necessária e Apelação Cível interposta contra Sentença que julgou parcialmente procedentes os pedidos autorias, para declarar o direito do Autor de acumular dois benefícios de aposentadoria diversos, um pago pelo RGPS e outro pelo RPPS, além de condenar a Ré a pagar as diferenças decorrentes de eventual suspensão ou redução dos proventos percebidos pelo Autor e que já tenha ocorrido administrativamente.
+    2. Em que pese a possibilidade de inscrição do segurado da Previdência Social (RGPS) decorrente de diversos contratos de trabalho, o vínculo de filiação é único, de modo que o salário de contribuição é considerado pela totalidade da remuneração por ele auferida (art. 28, inciso I, da Lei 8.212/90). Assim, o exercício concomitante de mais de uma atividade vinculada ao RGPS enseja a elevação do salário de contribuição e, por consequência, também do seu salário de benefício, não admitindo a legislação previdenciária que o mesmo período contributivo seja duplamente aproveitado (art. 96, inciso I, da Lei 8.213/90).
+    3. No caso de servidores públicos admitidos antes da Lei 8.112/90, então vinculados ao RGPS, tal período deve ser averbado perante o RPPS, de modo a haver a devida compensação financeira, a teor do que dispõe o art. 247 desse Diploma Legal. Sem a aludida compensação o período contributivo não poderá ser considerado no RPPS, sob pena de afronta ao disposto no art. 96, inciso III, da Lei 8.213/90.
+    4. In casu, o Autor, ora Apelado, prestou concurso público e ingressou no cargo de Professor de Magistério Superior, nos quadros da Universidade Federal do Espírito Santo (UFES), em 02/06/1980. Após prestar serviços por vários anos à referida instituição de ensino superior, postulou sua aposentadoria voluntária com proventos integrais, o que restou deferido no âmbito do Processo Administrativo nº 23068.005458/2015-61. Segundo o mapa de tempo de serviço juntado aos autos, foi considerado como tempo de contribuição o período de 02/06/1980 a 26/04/2015, computado em dobro o prazo de licenças prêmios não gozadas.
+    5. Posteriormente, o INSS informou à UFES ter concedido aposentadoria por tempo de contribuição ao Apelado, em 10/01/2002, tendo considerado, além de outras atividades por ele empreendidas no setor privado, também o período de contribuição compreendido entre 02/06/1980 a 11/12/1990, tendo havido duplo aproveitamento do mencionado período contributivo.
+    6. Em suma, como o período contributivo entre 02/06/1980 a 11/12/1990 não pode ser novamente considerado, o Apelado não implementou as condições para aposentar-se perante o RPPS.
+    7. Sendo constatada a legalidade da conduta da Administração Pública, não há que se falar no pagamento de indenização por danos morais no caso em tela.
+    8. Remessa Necessária e Apelação providas”.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, incisos II e XXXVI, 8º ,37 e 201, §9º, da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279 do STF. Sobre o tema, a propósito:
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. OFENSA CONSTITUCIONAL REFLEXA. REEXAME DE FATOS. SÚMULA 279/STF
+    1. (...)
+    4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 5. Agravo Interno a que se nega provimento”. (RE 1.237.969-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 12/2/2020).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas.3. Agravo regimental desprovido”. (ARE 1.165.382 – AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 3/3/20).
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA. O recurso extraordinário não é meio próprio ao revolvimento da prova”. (RE 1066713-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe 20/2/20).
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 2 de agosto de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
