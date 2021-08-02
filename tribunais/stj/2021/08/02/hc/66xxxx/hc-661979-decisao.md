@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de habeas corpusimpetrado contra acórdão do Tribunal de Justiça do Distrito Federal e Territóriosproferido no julgamento doAgravo em Execução Penal n. 0745988-36.2020.8.07.0000.
+Extrai-se dos autos que o paciente foi condenado como incurso no artigo 121, § 2º, incisos III e IV, do Código Penal (homicídio qualificado por uso de meio cruel mediante recurso que impossibilitou a defesa da vítima), à pena de 20 (vinte) anos de reclusão, no regime inicial fechado.
+Irresignada quanto ao cumprimento da pena, a defesa interpôs recurso de agravo em execução penal perante o Tribunal de origem, o qual desproveu o recurso nos termos do acórdão que restou assim ementado:
+"RECURSO DE AGRAVO EM EXECUÇÃO PENAL. LEI DE EXECUÇÃO PENAL. UNIFICAÇÃO DAS PENAS. REINCIDÊNCIA COMO CONDIÇÃO PESSOAL. EXTENSÃO DOS EFEITOS DA REINCIDÊNCIA PARA TODAS AS EXECUÇÕES. RECURSO DESPROVIDO.
+1. Conforme a jurisprudência dominante, a reincidência, seja ela genérica ou específica, é condição pessoal do condenado que se comunica a todas as condenações remanescentes no período da execução.
+2. De consequência, para a concessão de benefícios da execução penal, os efeitos da reincidência devem refletir sobre a totalidade das penas impostas e ainda a serem cumpridas pelo condenado, eis que o nosso sistema de execução é pela totalidade dos apenamentos remanescentes, isto é, de forma unificada; e, só por exceção de condenações consideradas isoladamente.
+3. Negado provimento ao recurso." (fl. 197)
+A seguir, interpostos embargos infringentes, restaram estes assim ementados:
+"EXECUÇÃO PENAL. EMBARGOS INFRINGENTES E DE NULIDADE DEFENSIVOS. RECURSO DE AGRAVO DESPROVIDO POR MAIORIA. PROGRESSÃO DE REGIME. REINCIDÊNCIA ESPECÍFICA. CONDIÇÃO PESSOAL DO APENADO. IRRADIAÇÃO DOS EFEITOS PARA TODAS AS EXECUÇÕES PENAIS EM CURSO APÓS A UNIFICAÇÃO. LEI 13.964/2019 (PACOTE ANTICRIME). PRETENSÃO DE APLICAÇÃO RETROATIVA REJEITADA. EMBARGOS CONHECIDOS E DESPROVIDOS.
+1. Conforme entendimento jurisprudencial dominante, após a unificação das penas, a reincidência, por ser uma condição pessoal do apenado, se alastra para a totalidade da pena a ser cumprida.
+2. "De consequência, para a concessão de benefícios da execução penal, os efeitos da reincidência devem refletir sobre a totalidade das penas impostas e ainda a serem cumpridas pelo condenado, eis que o nosso sistema de execução é pela totalidade dos apenamentos remanescentes, isto é, de forma unificada; e, só por exceção de condenações consideradas isoladamente" (Agravo em Execução Penal n. 0745988-36.2020.8.07.0000).
+3. Embargos infringentes conhecidos e desprovidos." (fl. 255)
+No presente writ, a defesa sustenta que não é cabível o argumento de quea reincidência posteriormente reconhecida irradia efeitos para toda a execução unificada.
+Assevera que a reincidênciaé atributo da condenação, não podendo ser considerada na hipótese, poisnão há como irradiar os efeitos da reincidência posterior à totalidade da execução.
+Pleiteia que "que seja cassado o acórdão atacado e determinada a aplicação retroativa da Lei n. 13.964/2019, individualmente às execuções em curso, considerando-se a reincidência (verificada ou não) à época da formação do título condenatório." (fl. 11)
+Prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem (fls. 347/348).
+É o relatório. Decido.
+O presente habeas corpus não merece ser conhecido, pois impetrado em substituição a recurso próprio.
+Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do ora paciente, capaz de justificar a concessão da ordem de ofício.
+A parte impetrante se insurge, em suma, quanto à consideração da reincidência na execução da pena, tendo a decisão destacado:
+"No caso, é forçoso reconhecer que, após a unificação das penas, a reincidência, por ser uma condição pessoal do apenado, se alastra para a totalidade da pena a ser por ele cumprida, mesmo em relação à(s) condenação(ões) anterior(es) proferida(s) enquanto era primário.
+Nesse passo, não cabe individualizar a fração para a progressão de regime, sob o argumento de que deve a reincidência ser considerada tão somente naquelas ações em que foi a agravante reconhecida. Cabe insistir que a reincidência é condição pessoal e irradia os seus efeitos sobre toda a pena unificada.
+No caso, o embargante LEONARDO é reincidente em crime hediondo / equiparado, segundo relatório de situação processual executória; logo a sua progressão de regime deve continuar tendo em vista a fração de 3/5." (fl. 260)
+Com efeito, o acórdão vergastadonão merece reforma eis que se encontra de acordo com o posicionamento deste Sodalício de que "tratando-se de sentença penal condenatória, o juízo da execução deve se ater ao teor do referido decisum, no tocante ao quantum de pena, ao regime inicial, bem como ao fato de ter sido a pena privativa de liberdade substituída ou não por restritivas de direitos. Todavia, as condições pessoais do paciente, da qual é exemplo a reincidência, devem ser observadas pelo juízo da execução para concessão de benefícios (progressão de regime, livramento condicional etc)" (AgRg no REsp 1.642.746/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 03/08/2017, DJe 14/08/2017)."(EREsp 1738968/MG, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO,DJe 17/12/2019).
+Também neste sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. EXECUÇÃO PENAL. REINCIDÊNCIA NÃO CONSIDERADA NA SENTENÇA. POSSIBILIDADE DE RECONHECIMENTO PELO JUÍZO DA EXECUÇÃO. NÃO OCORRÊNCIA DE AFRONTA À COISA JULGADA. INEXISTÊNCIA DE REFORMATIO IN PEJUS. ACÓRDÃO DO TRIBUNAL ESTADUAL EM CONSONÂNCIA COM PRECEDENTES DA SEXTA TURMA.INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+(..)
+2. As condições pessoais do paciente, da qual é exemplo a reincidência, devem ser observadas na execução da pena, independente de tal condição ter sido considerada na sentença condenatória, eis que também é atribuição do juízo da execução individualizar a pena (AgRg no HC n. 385.043/ES, de minha relatoria, Sexta Turma, DJe 21/11/2017).
+3. Em outras palavras, esta Corte já manifestou o entendimento de que, em caso de duas ou mais execuções penais, a reincidência do apenado deve ser levada em consideração, depois da unificação das penas, para a análise dos benefícios executórios, ainda que a sentença seja omissa nesse ponto.
+3. Não cabe ao Juiz da Execução rever a pena e o regime aplicados no título judicial a cumprir.
+Contudo, é de sua competência realizar o somatório das condenações (unificação das penas), analisar a natureza dos crimes (hediondo ou a ele equiparados) e a circunstância pessoal do reeducando (primariedade ou reincidência) para fins de fruição de benefícios da LEP (AgRg no AREsp n. 1.237.581/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/8/2018).
+4. Nessa perspectiva, inexiste patente constrangimento ilegal a ser reparado por meio de habeas corpus, se, como na espécie, o Tribunal estadual decidiu nos termos da jurisprudência desta Corte, afirmando que a não incidência da reincidência na fase de conhecimento não impede o reconhecimento dos seus efeitos na fase executória; não havendo falar em ofensa aos limites da coisa, julgada ou ao princípio da non reformatio in pejus.
+5. Agravo regimental improvido.
+(AgRg no HC 451.341/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 01/02/2019)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
