@@ -1,0 +1,28 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    "PENAL. ART. 22, PARÁGRAFO ÚNICO, DA LEI Nº 7.492/86. REQUISITOS ARTIGO 41 DO CPP. PREENCHIDOS. PRINCÍPIO PROCESSUAL IN DUBIO PRO SOCIETATE. APLICABILIDADE. MATERIALIDADE E AUTORIA. ELEMENTOS SUFICIENTES. REJEIÇÃO DA DENÚNCIA. IMPOSSIBILIDADE.
+    1. A denúncia ofertada preenche todos os requisitos do art. 41 do CPP, imputando ao recorrido a prática do delito tipificado no art. 22, parágrafo único, da Lei nº 7.492/86, diante da conduta consistente em promover a saída, não autorizada, de dinheiro para o exterior, partindo de Santana do Livramento/RS em direção ao Uruguai.
+    2. As informações constantes da prisão em flagrante informam que o acusado SOLISMAR trabalhava em uma padaria, na cidade de Guaíba/RS e recebia remuneração mensal de cerca de um salário mínimo, havendo indicativos de que os valores apreendidos não lhe pertenciam e tinham como destino terceiros, estabelecidos na China. A remessa de valores ao exterior ocorreu sem a necessária declaração às autoridades brasileiras, acerca da quantia que desejava remeter ao exterior.
+     3. Não há que se falar em inépcia da denúncia, quando a peça narra todos os fatos e circunstâncias, descreve a sistemática empregada na prática delitiva, os valores envolvidos e indica os elementos de prova constantes do inquérito policial, devendo ser recebida para que se instaure a ação penal, pois vigora nesta fase processual o princípio in dubio pro societate.
+    4. Provimento do recurso criminal em sentido estrito."
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, inciso XXXIX, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    "(...)
+    O Juiz Federal rejeitou a denúncia, entendendo que não haveria elementos objetivos e subjetivos de tipicidade da conduta imputada a SOLISMAR GUTERRES TEIXEIRA, sob a perspectiva de que os valores remetidos do Uruguai a China são, em parte, inferiores a R$ 10.000,00 (dez mil reais) e que não existiriam dados suficientes de que os recursos tenham sido evadidos do país na forma narrada na inicial acusatória.
+    Contudo, são suficientes os elementos apresentados com a denúncia para indicar a materialidade e a autoria do crime do o art. 22, parágrafo único, da Lei nº 7.492/86.
+    Com efeito, os principais elementos que embasam a denúncia são os documentos reunidos no curso do Inquérito Policial, em especial, o Auto de Apreensão nº 67/2015 (IPL evento 1- Apreensão02) indicando a captação de: a) R$ 50.000,00, correspondentes a 5 (cinco) blocos de R$ 10.000,00, em notas de R$ 50,00 e R$ 100,00; b) R$ 10.000,00, correspondentes a 2 (dois) blocos de R$ 5.000,00, em notas de R$ 50,00 e R$ 100,00 ; e c) 700,00, correspondentes a 1 (um) bloco contendo notas de R$ 50,00 (item 5).
+    (...)
+    O momento do recebimento da denúncia não comporta maiores digressões acerca do dolo das agentes, bastando a comprovação da materialidade do delito e a presença de indícios mínimos da autoria. Ao contrário do que é exigido para a condenação penal, quando vigente o princípio do in dubio pro reo, para o recebimento da denúncia é desnecessário um juízo de certeza acerca da autoria e do dolo dos denunciados, vigorando neste momento o princípio do in dubio pro societate. Nessa linha, seguem os julgados deste Corte revisora, verbis:
+    (...)"
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa Reflexa. Precedentes. 1. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos, tampouco para a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 2. Agravo regimental não provido” (ARE 1183314/CE - AgR, Tribunal Pleno, Rel. Min. Dias Toffoli (Presidente), DJe de 15/4/19).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas. 3. Agravo regimental desprovido” (ARE 1165382/SP - AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 4/3/20).
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – MATÉRIA PENAL – ALEGADA VIOLAÇÃO AO PRECEITO INSCRITO NO ART. 5º, LVII, DA CONSTITUIÇÃO DA REPÚBLICA – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – AGRAVO INTERNO IMPROVIDO” (ARE 1131709 AgR, Segunda Turma, Rel. Min. Celso de Mello, DJe de 30/10/18).
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 2 de agosto de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
