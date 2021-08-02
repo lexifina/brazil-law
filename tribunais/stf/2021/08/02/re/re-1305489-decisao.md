@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário interposto com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão proferido pela Turma Recursal de Jurisdição Exclusiva de Belo Horizonte, Betim e Contagem/MG, assim ementado:
+     “AÇÃO DE COBRANÇA DE FGTS – PEDIDO JULGADO PROCEDENTE – OS CONTRATOS FIRMADOS NÃO PADECEM DE NULIDADE CONCERNENTE AO TEMPO DE VIGÊNCIA, SENDO INDEVIDO, PORTANTO, O PERCEBIMENTO DE FGTS - SENTENÇA MANTIDA REFORMADA – RECURSO PROVIDO.”
+    Sustenta o recorrente violação dos arts. 37, incisos II e IX, e § 2º, da Constituição Federal.
+    Decido.
+    A irresignação não merecer prosperar.
+    O Tribunal a quo decidiu que é válido o contrato firmado pelas partes, sendo indevida a percepção pela parte recorrente do FGTS. Trago à colação trechos do acórdão proferido:
+    “Não obstante a inteligência e cultura jurídica de seu prolator, a sentença deve ser reformada.
+    É que as renovações contratuais, no caso vertente, não malferiram a legislação estadual, permanecendo íntegra a natureza administrativa dos contratos em questão.
+    Portanto, mantida incólume a natureza jurídica de direito administrativo do vínculo contratual que existiu entre a parte autora e a Fazenda Pública, impõe-se o reconhecimento da validade e legalidade dos contratos e a improcedência do pedido”.
+    Nessa conformidade, verifica-se que o acolhimento da pretensão da parte recorrente demandaria o necessário reexame do conjunto fático-probatório constante dos autos, bem como da legislação infraconstitucional aplicável à espécie, o que se mostra de inviável ocorrência no âmbito do recurso extraordinário, a teor do que dispõem as Súmulas nºs 279 e 280 desta Corte. Nesse sentido, confira-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. CONTRATAÇÃO TEMPORÁRIA. FGTS. NULIDADE DO CONTRATO. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos (Súmula 279/STF). 2. Agravo interno não provido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC). 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita”. (ARE nº 1.279.879/AgR, Tribunal Pleno, Rel. Min. Luiz Fux, DJe 06/11/2020).
+    “Agravo regimental em recurso extraordinário. 2. Direito Administrativo. 3. Servidor contratado temporariamente. Validade do contrato temporário. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmula 279 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Negado provimento ao agravo regimental, sem majoração da verba honorária” (RE nº 917.055/MG-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 06/11/2019).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTRATO TEMPORÁRIO. FGTS. LEI 8.036/1990 E LEI ESTADUAL 10.254/1990. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICOPROBATÓRIO DOS AUTOS. SÚMULAS 279 E 280 DO STF. HONORÁRIOS ADVOCATÍCIOS MAJORADOS. AGRAVO A QUE SE NEGA PROVIMENTO. I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamentam a decisão a quo. A afronta à Constituição, se ocorrente, seria indireta. II – Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF. III – Agravo regimental a que se nega provimento, com majoração dos honorários advocatícios (art. 85, § 11, do CPC)” (RE nº 965.893/MG-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 08/05/2017).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 2 de agosto de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
