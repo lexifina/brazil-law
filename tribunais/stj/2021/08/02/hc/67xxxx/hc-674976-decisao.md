@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSE LEILDO DA SILVA SALES, contra o indeferimento de idêntica medida na origem.
+Sustenta o impetrante que o paciente estaria sofrendo constrangimento ilegal diante de alegado excesso de prazo das medidas cautelares impostas.
+Postula, ao final, a superação do enunciado 691 da Súmula do c. STF para que seja revogada a medida cautelar de monitoração eletrônica.
+É o relatório.
+Decido.
+Os autos não versam sobre hipótese que admite a pretendida valoração antecipada da matéria, pois, pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra denegação de liminar. De fato, ressalvadas hipóteses excepcionais descabe o instrumento heróico em situação como a presente, sob pena de ensejar supressão de instância.
+A matéria, inclusive, já se encontra sumulada: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula nº 691/STF).
+O writ impetrado na origem teve o pedido liminar indeferido sob os seguintes fundamentos, verbis:
+" ..
+Em consulta aos autos, observo que a prisão se deu em 15/12/2018, tendo sido concedido medidas cautelares diversa da prisão, destas incluindo o monitoramento eletrônico, desde a data de 08/08/2019 (fls. 127/129 dos autos originários). Muito embora entenda que o período de duração da medida cautelar de monitoração eletrônica (art. 319, IX CPP) deve obedecer ao princípio da razoabilidade, observo constar outra decisão, objeto da insurgência desta ação constitucional, datada de 18/01/2021, inclusive, com semelhante conteúdo, ou seja, a aplicação das medidascautelares diversas da prisão e mais o monitoramento eletrônico. Nesse diapasão, convém, inicialmente, destacar que em sede de habeas corpus, para que haja concessão da medida liminar, as alegações devem encontrar respaldo factual e legal, em outras palavras, as provas devem ser incontestáveis e oferecidas de forma pré-constituída, o que não restou estabelecida nos autos. De toda forma, da efêmera análise dos autos não visualizo, em caráter perfunctório, a flagrante ilegalidade da custódia, já que não podem ser constatados os requisitos autorizadores da liminar, daí porque indefiro-a." (fls. 8-10).
+Na hipótese, portanto, não verifico a ocorrência de flagrante ilegalidade capaz de ensejar o afastamento do óbice contido no enunciado sumular referido.
+Assim o entendimento do Pretório Excelso: HC nº 103570, Primeira Turma, Rel. Min. Marco Aurélio, Rel. p/ acórdão Min. Rosa Weber, DJe de 22/8/2014; HC nº 121828, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 25/6/2014; HC nº 123549 AgR, Segunda Turma, Rel.ª Min. Cármen Lúcia, DJe de 4/9/2014.
+No âmbito desta Corte Superior, cito as seguintes decisões monocráticas: HC nº 392.348/RO, Sexta Turma, Rel. Ministro Nefi Cordeiro; HC nº 392.249/PR, Sexta Turma, Rel. Ministro Sebastião Reis Júnior; HC nº 392.316/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas; HC nº 391.936/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik; HCnº 392.187/SP, Sexta Turma, Relª. Ministra Maria Thereza de Assis Moura.
+Ante o exposto, com fulcro no art. 34, inciso XX, e art. 210, ambos do RISTJ, indefiro liminarmente o processamento do presente writ.
+P. e I.
