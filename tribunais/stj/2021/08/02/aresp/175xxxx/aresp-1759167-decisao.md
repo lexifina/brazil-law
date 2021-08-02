@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interposto por AMANDA CAROLINA DOS SANTOS contra a r. decisão de fls. 998/1000, da lavra da ilustre 1ª Vice-Presidência do eg. Tribunal de Justiça do Estado do Paraná,que não admitiu o recurso especial, a partir dos seguintes fundamentos: a) ausência de prequestionamento, no que se refere ao art. 1.228 do Código Civil e b) incidência do óbice da Súmula 83/STJ, tendo em vista que o acórdão impugnado encontra-se de acordo com a jurisprudênciado STJ, quanto à alegada violação do art. 6º, III e VIII, do CDC.
+É o relatório. Decido.
+O recurso não merece sequer conhecimento.
+Na hipótese, a parte agravante não rebateu, como lhe competia, todos os fundamentos da decisão que inadmitiu o apelo especial, deixando de impugnar especificadamente a incidência do óbice da Súmula 83/STJ.
+O princípio da dialeticidade, que rege os recursosprocessuais, impõe aorecorrente, como requisito para a própriaadmissibilidade do recurso, odever de demonstrar por que razão a decisão recorrida não deve sermantida, demonstrando o seu desacerto, seja doponto de vistaprocedimental (error in procedendo), seja do ponto de vista do própriojulgamento(error in judicando), porquanto não atende aoprincípio em telao recurso que se limita a tão só afirmar a tese jurídica interessante àsua pretensão, sem confrontar, de forma juridicamentebalizada, osfundamentos adotados na decisão que busca reformar, atraindo, na hipótese,o disposto no art. 932,III, do Código de Processo Civil de 2015.
+Ademais, nos termos do art. 253, parágrafo único, inciso I, do RegimentoInterno do Superior Tribunal de Justiça, não se conhecerá do agravoemrecurso especial que "não tenha impugnado especificamente todos osfundamentos da decisão recorrida".
+Assim, incide, na hipótese, por analogia, o princípio cristalizadonasúmula 182 do Superior Tribunal de Justiça, segundo a qual é inviável oagravo que deixa de atacar especificamente osfundamentos da decisãoagravada.
+Diante do exposto, nos termos do art. 253, parágrafo único, I, do RISTJ,não conheço do agravo em recurso especial.
+Publique-se.
