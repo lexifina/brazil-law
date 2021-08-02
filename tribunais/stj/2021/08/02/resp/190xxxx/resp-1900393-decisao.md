@@ -1,0 +1,73 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto porOI MÓVEL S.A - EM RECUPERAÇÃO JUDICIALcom fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição da República contra acórdão do Tribunal de Justiça do Estado da Paraíba :
+APELO. EXIBIÇÃO DE DOCUMENTO. CONTRATO DE TELEFONIA. CARÊNCIA DE INTERESSE DE AGIR. FALTA DE REQUERIMENTO ADMINISTRATIVO PRÉVIO.DESCABIMENTO. EFETIVA RESISTÊNCIA AO DIREITO PLEITEADO. REJEIÇÃO.ANULAÇÃO DA SENTENÇA. RETORNO DO PROCESSO AO MM. JUÍZO A QUO.INAPLICABILIDADE DO ART. 1.013, § 3º, CPC. SALUTAR PROSSEGUIMENTO DO FEITO. APELO PROVIDO.
+- A exigência de prévio requerimento administrativo não deve prevalecer de forma absoluta, sendo possível por outros elementos comprovar-se a resistência da seguradora quanto à pretensão do segurado. A esse respeito, revela-se descabido o reconhecimento da carência do interesse de agir, com fulcro na falta de prévio requerimento administrativo, quando a parte ré formula tese defensiva que não se limita a arguir tal questão preliminar, mas adentra o exame do mérito, buscando desconstituir a totalidade das arguições autorais ventiladas, em nítida resistência à pretensão indenizatória do autor.
+- Tendo havido indeferimento da exordial, sem a citação da parte promovida, resulta inaplicável a teoria da causa madura, consubstanciada no art. 1.013, § 3º, do CPC em vigor, sendo salutar o retorno dos autos ao MM. Juízo singular, para fins de regular processamento.
+Opostos embargos de declaração, estes restaram rejeitados nos seguintes termos:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. EXISTÊNCIA DE OMISSÃO NO JULGADO. AUSÊNCIA DE MANIFESTAÇÃO SOBRE TESE FIRMADA PELO STJ, EM RECURSOS REPETITIVOS. ACOLHIMENTO DOS ACLARATÓRIOS, PORÉM, SEM EFEITOS INFRINGENTES.
+- Nos termos do art. 1.022, II, do NCPC, "Cabem embargos de declaração contra qualquer decisão judicial para:  suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento", considerando-se, ainda, conforme parágrafo único, inciso I, de tal regra, " ..  omissa a decisão que:  deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento".
+Em suas razões de recurso especial, o recorrente alegou violação aos arts. 17, 373 e 1.022 do CPC, sustentado, em síntese, a existência de negativa de prestação jurisdicional, ausência de interesse de agir em razão de o pedido administrativo ter sido formulado após o ajuizamento da ação, não se perfectibilizando o requisito do prévio pedido administrativo. Requereu, por fim, o provimento do recurso especial.
+Não houve apresentação de contrarrazões.
+O recurso especial não foi admitido na origem, tendo a parte interposto agravo em recurso especial (fls. 191/201).
+No parecer de fls. 220/223, o Ministério Público Federal opinou pelo desprovimento do agravo.
+Na decisão de fls. 225/227, determinei a conversão do agravo em recurso especial para melhor exame da controvérsia.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece provimento.
+1. No que tange à negativa de prestação jurisdicional:
+Não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia. O Tribunal de origem julgou com fundamentação suficiente a matéria devolvida à sua apreciação, conforme se depreende do acórdão recorrido às fls. e-STJ 92/100.
+No caso, a parte recorrente pretendeu rediscutir, em sede de aclaratórios, matérias já apreciadas pelo Tribunal a quo, tendo havido o claro pronunciamento sobre as questões indispensáveis ao deslinde da controvérsia dos autos. Ademais, o juiz não está obrigado a responder, um a um, os argumentos levantados pelas partes.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. REAJUSTE DE 3,17%. LIMITAÇÃO TEMPORAL. MP 2.150-39/2001. FATO SUPERVENIENTE.POSSIBILIDADE. AUSÊNCIA DE VIOLAÇÃO À COISA JULGADA. OMISSÃO. NÃO OCORRÊNCIA.
+1. Afasta-se a ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+(..)
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1720973/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 18/02/2019, DJe 21/02/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182/STJ. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DOS ENUNCIADOS 5 E 7 DA SÚMULA DO STJ.NÃO PROVIMENTO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. Não havendo impugnação específica acerca de todos os fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula 182 deste Tribunal Superior.
+2. Não cabe, em recurso especial, reexaminar conteúdo contratual (Súmula 5/STJ), bem como matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1345223/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/02/2019, DJe 19/02/2019)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489, § 1º, IV, e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1330111/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/02/2019, DJe 14/02/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. ACIDENTE DE TRÂNSITO. DANOS MORAIS E ESTÉTICOS. RESPONSABILIDADE DA RECORRENTE. OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+(..)
+5. Agravo interno não provido.
+(AgInt no AREsp 1268364/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/12/2018, DJe 01/02/2019)
+2. No que tange ao interesse de agir:
+O Tribunal de Justiça do Estado da Paraíba, ao julgar o recurso de apelação, entendeu pela existência de uma pretensão resistida sob os seguintes fundamentos (fls.95/96):
+(..)
+Nessa esteira, adentrando-se na substância da tese firmada pelo STJ em recursos repetitivos, faz-se mister denotar a verificação, do requerimento administrativo de apresentação de documentos, bem assim da ausência de in casu, resposta em prazo razoável, eis que não comprovada, pela concessionária ré, a exibição do contrato no prazo informado ao consumidor.
+Com efeito, assevere-se que, ainda que constante do precedente arguido o pressuposto do requerimento administrativo "prévio", o critério temporal em apreço não deve ser interpretado a ponto de se admitir, apenas, aformulação do pedido extrajudicial em momento anterior à propositura da demanda, devendo-se flexibilizá-lo, reconhecendo, pois, a aceitação do pleito administrativo ocorrente nos autos, efetuado em momento inicial da lide e anterior ao julgamento do feito.
+Tal entendimento me parece mandamental, sobretudo porque, ainda a despeito da recepção do pedido administrativo pela empresa embargante, esta não fizera qualquer esforço, nos autos, em denotar a satisfação do requerimento no prazo de 2 (dois) dias úteis, originalmente informado ao polo consumerista, o que seria, destaque-se, seu ônus processual, conforme artigo 373, inciso II, do CPC.
+Entendo que o posicionamentoadotado pelo Tribunal de Justiça do Estado da Paraíba não merece reparos.
+A Segunda Seção do Superior Tribunal de Justiça, em julgamento submetido ao rito dos recursos repetitivos, sedimentou o entendimento de que é cabível a ação cautelar de exibição de documentos como medida preparatória a fim de instruir a ação principal, desde que haja a demonstração da existência de relação jurídica entre as partes, a comprovação de prévio pedido à instituição financeira não atendido em prazo razoável, e o pagamento do custo do serviço conforme previsão contratual e normatização da autoridade monetária.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. ACÓRDÃO LOCAL INDEFERE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REQUISITOS DA TUTELA ANTECIPADA. ART 300 DO CPC/2015. SÚMULA 735/STF. REEXAME DE PROVAS. SÚMULA 7/STJ. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. PEDIDO ADMINISTRATIVO PRÉVIO.NECESSIDADE. AUSÊNCIA DE INTERESSE DE AGIR. RECURSO ESPECIAL REPETITIVO 1.349.453/MS. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça, em consonância com o entendimento firmado pelo eg. Supremo Tribunal Federal na Súmula 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial de acórdão que decide sobre pedido de antecipação de tutela, admitindo-se, tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973), e não violação a norma que diga respeito ao mérito da causa. Precedentes.
+2. No caso, o Tribunal de origem, com base nos elementos fáticos e probatórios dos autos, conclui pela ausência dos requisitos autorizadores da tutela de urgência. Desse modo, a alteração das conclusões a que chegaram as instâncias ordinárias demanda o reexame do acervo fático-probatório dos autos, inviável em sede de recurso especial, em razão do óbice da Súmula 7/STJ.
+3. A Segunda Seção do Superior Tribunal de Justiça, em julgamento submetido ao rito dos recursos repetitivos, sedimentou o entendimento de que é cabível a ação cautelar de exibição de documentos como medida preparatória a fim de instruir a ação principal, desde que haja "a demonstração da existência de relação jurídica entre as partes, a comprovação de prévio pedido à instituição financeira não atendido em prazo razoável, e o pagamento do custo do serviço conforme previsão contratual e normatização da autoridade monetária" (REsp 1.349.453/MS, Relator Ministro Luis Felipe Salomão, julgado em 10/12/2014, DJe de 2/2/2015).
+4. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno a que se nega provimento.(AgInt no AREsp 1744755/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/04/2021, DJe 24/05/2021, g.n.)
+Entretanto, há posicionamento no âmbito do Superior Tribunal de Justiça no sentido da dispensa de requerimentoadministrativo quando se tratar de documento comum às partes.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATOS BANCÁRIOS. EXIBIÇÃO INCIDENTAL DE DOCUMENTOS. ART. 324 DO CPC/2015. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF.EXISTÊNCIA DE DOCUMENTO COMUM A AMBAS AS PARTES. FUNDAMENTO NÃO IMPUGNADO NAS RAZÕES RECURSAIS. SÚMULA 283/STF. DESNECESSIDADE DE REQUERIMENTO PRÉVIO. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+1. O art. 324 do CPC/2015 não foi objeto de análise pelo acórdão impugnado, não tendo sido sequer opostos embargos de declaração a fim de ver sanada a suposta omissão, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento. Incidência das Súmulas 282 e 356/STF.
+2. O Tribunal de origem ponderou que, por tratar-se de documentos comuns às partes, seria obrigatória a exibição de documentos pelo recorrente, aplicando inclusive a presunção e veracidade, independente da distribuição do ônus da prova. Todavia, conforme asseverado, o referido fundamento adotado pela Corte estadual não foi objeto de impugnação específica nas razões do recurso especial, limitando-se o recorrente a afirmar que era obrigação da parte adversa apresentar os documentos no momento da interposição da petição inicial. Dessa maneira, a manutenção de algum argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, permanecendo, assim, a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. Em relação à alegada necessidade de prévio pedido administrativo (aplicação do entendimento firmado no REsp n. 1.349.453/MS), verifica-se que esta Corte possui entendimento no sentido da dispensa de pedido administrativo quando tratar-se de documento comum às partes.
+4. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação na multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+5. Agravo interno improvido.(AgInt no AREsp 1664588/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/08/2020, DJe 01/09/2020, g.n.)
+E esse é o caso dos autos, porquanto busca o recorrido exatamente a exibição do contrato de cadastramento de linha móvel e o extrato dos pagamentos feitos, que são comuns entre as partes, dada a relação contratual de prestação de serviços de telefonia móvel.
+Ademais, a solução adotada pelo Tribunal de origem está em perfeita consonânciacom o princípio da economia processual, pois ainda que o pedido administrativo tenha se dado após o ajuizamento da ação, ele será considerado pedido prévio em nova ação ajuizada pela parte, já que passado tempo suficiente para se comprovar a negativa de resposta em prazo razoável.
+Ante o exposto, nego provimento ao recurso especial.
+Advirto as partes da multa prevista ao agravo interno manifestamente improcedente (art. 1.021, §4º, do CPC).
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INTERESSE RECURSAL. EXISTÊNCIA. PRETENSÃO RESISTIDA.
+RECURSO ESPECIAL DESPROVIDO.
