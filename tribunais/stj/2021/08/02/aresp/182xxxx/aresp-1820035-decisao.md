@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por VDM OPERAÇÕES LOGÍSTICAS EIRELI e ML OPERAÇÕES LOGÍSTICAS LTDA. EPP em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Goiás, assim ementado:
+"AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. REABERTURA DE PRAZO. IMPUGNAÇÃO. RELATIVIZAÇÃO. LISTA DE CREDORES. AUSÊNCIA DE FATO NOVO. 1. A relativização da norma jurídica é expediente admitido doutrinária e jurisprudencialmente em circunstâncias excepcionais. 2. Não tendo os agravantes confrontado adequadamente os fundamentos adotados pelo Julgador Singular e, por conseguinte, não os superados, por meio da demonstração de sua inidoneidade, não há falar em alteração do que foi decidido. 3. Inexistindo argumentos novos capazes de modificar a decisão unipessoal proferida, inviável o acolhimento da pretensão recursal. Agravo Interno conhecido e desprovido." (fl. 331)
+Nas razões do recurso especial, a parte ora agravante aponta violação do art. 8º da Lei n. 11.101/05, bem como divergência jurisprudencial, sustentando, em síntese, "a reabertura de prazo para apresentação de impugnação de crédito ao credor que constou da relação de credores, que deveria acompanhar o desenrolar processual até o ajuizamento da referida peça, é inviável, conforme entende o Egrégio Tribunal de Justiça do Estado de São Paulo, logo, devendo ser respeitado o prazo de 10 (dez) dias previsto pelo artigo 8º da Lei nº 11.101/05." (fl. 350)
+Não foram apresentadas contrarrazões ao apelo nobre (certidão de fl. 474).
+O Ministério Público Federal opina pelo não conhecimento do agravo (fls. 618-621)
+É o relatório.
+O eg. Tribunal de origem consigna a possibilidade de ser reaberto o prazo do recorrido para a impugnação da lista de credores, tendo em vista que a relativização da norma é expediente admitido doutrinária e jurisprudencialmente em circunstâncias excepcionais .
+A propósito, o seguinte trecho do acórdão recorrido:
+"Dentre os vários capítulos do ato decisório, consta que o magistrado indeferiu pretensão do Banco Bradesco S.A. de republicação do edital de credores e que deferiu a este a reabertura de prazo para impugnação da lista.
+Pertinente registrar que o Banco Bradesco S. A. apresentou petição, encartada no evento 03, arquivo 1 33, nos autos de origem (n.
+0337679.25.2013.8.09.0051), na qual noticia que as empresas em recuperação judicial apresentaram lista de credores declarando crédito em seu favor no montante de R$ 377.702,86 (trezentos e setenta e sete mil e setecentos e dois reais e oitenta e seis centavos), classe quirografária, a qual foi publicada no jornal Diário da Manhã (29.10.2013) e no Diário Oficial.
+Consta também da aludida petição que o valor foi impugnado perante o Administrador Judicial, para que constasse o importe de R$ 77.624,50 (setenta e sete mil e seiscentos e vinte quatro reais e cinquenta centavos), devendo ser excluídas as operações originárias da Cédula de Crédito Bancário  Empréstimo Capital de Giro n. 5.157950, e que o pleito não foi acolhido.
+Na petição, a Casa Bancária sustentou que a segunda relação de credores, mantendo o crédito no valor originário, foi publicada no jornal O Hoje, o que comprometeu o exercício da ampla defesa e do contraditório. Acrescentou que o objetivo principal da publicação dos editais é dar conhecimento, de forma ampla, dos atos praticados no processo de recuperação judicial aos credores e que a alteração da publicação para veículo de comunicação de menor alcance, sem justificativa, acarreta comprometimento ao objetivo.
+Diante disto, requereu a publicação do edital contendo a segunda relação de credores no Diário da Manhã ou, subsidiariamente, a devolução do prazo de impugnação.
+(..)
+Das razões do agravo interno, constata-se que os recorrentes insistem na aplicação cega de dispositivo legal que entendem correto sem, contudo, apontar a impertinência da relativização efetuada pelo juiz singular.
+Vale salientar que a decisão proferida na origem funda-se nas seguintes premissas: ausência de lei que preveja a publicação da lista de credores em jornais idênticos; nova publicação é desarrazoada, dada a vultuosidade da quantia a ser gasta com o ato; inexistir lei que impeça a devolução do prazo para impugnação; e existir outras impugnações pendentes de resolução.
+Além do alegado exaurimento do prazo para impugnação, por violação a dispositivo legal, os recorrentes consignam que a reabertura do prazo ao agravado acarretará prolongamento da demanda. Veja-se:
+31. Ainda, importante ressaltar que a reabertura do prazo ao Banco Agravado prolongará ainda mais a demanda, que por sua própria natureza se faz duradoura.
+Não é demais gizar que a relativização da norma jurídica pela autoridade judiciária é expediente admitido doutrinária e jurisprudencialmente, não importando inidoneidade na conduta." (fls. 327-329, g.n.)
+Todavia, o acórdão recorrido está em confronto com o posicionamento desta Corte de Justiça, qual interpreta que o prazo para a impugnação na recuperação judicial possui natureza peremptória, sendo inviável a sua prorrogação.
+Sobre o tema, confiram-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO, PARA NEGAR PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE AGRAVANTE.
+1. Segundo entendimento jurisprudencial adotado por este Superior Tribunal de Justiça, por veicular norma de aplicação cogente, por força de opção legislativa, não há como acolher a impugnação de créditos apresentada além do prazo peremptório de 10 (dez) dias, previsto no art. 8º, da Lei 11.101/05. Precedentes.
+2. Nos termos da orientação jurisprudencial firmada Corte, a Súmula 83 do
+STJ é aplicável ao recurso especial tanto pela alínea "a" como pela alínea
+"c" do permissivo constitucional.
+3. Agravo interno desprovido."
+(AgInt no AREsp 1298126/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/09/2020, DJe 24/09/2020, g.n.)
+"CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO NOS AUTOS DE RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO. PRAZO PEREMPTÓRIO. ARTS. 7º e 8º DA LEI Nº 11.101/2005. ACÓRDÃO EM CONFORMIDADE COM A ORIENTAÇÃO FIRMADA NESTA CORTE. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É intempestiva a impugnação de crédito apresentada fora do prazo de 10 dias previsto no caput do art. 8º da Lei nº 11.101/05. Referida norma contém regra de aplicação cogente, que revela, sem margem para dúvida acerca de seu alcance, a opção legislativa a incidir na hipótese concreta. Trata-se de prazo peremptório específico, estipulado expressamente pela lei de regência. (REsp nº 1.704.201/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, Terceira Turma, j. 7/5/2019, DJe 24/5/2019).
+3. Configura inovação recursal a alegação, em recurso especial, de matéria
+que deveria ter sido suscitada nos embargos de declaração. Precedente.
+4. Agravo interno não provido."
+(AgInt no REsp 1841893/MT, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/04/2020, DJe 23/04/2020, g.n.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de consignar a impossibilidade de reabertura do prazo para que o Banco Bradesco apresente impugnação.
+Publique-se.
