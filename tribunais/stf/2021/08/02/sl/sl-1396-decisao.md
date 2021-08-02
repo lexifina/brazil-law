@@ -1,0 +1,18 @@
+TUTELA PROVISÓRIA INCIDENTAL EM SUSPENSÃO DE LIMINAR. PEDIDO DE SUSPENSÃO JULGADO PROCEDENTE. PEDIDO DE DECLARAÇÃO DE INCOMPETÊNCIA DO JUÍZO DE ORIGEM. DESCABIMENTO. ESTREITO ÂMBITO DE COGNIÇÃO DOS INCIDENTES DE CONTRACAUTELA. PEDIDO QUE SE INDEFERE.
+    Decisão: Trata-se de pedido de tutela provisória incidental formulado por Conselho do Povo Tremembé do Engenho no presente pedido de suspensão (Pet. 29.729/2021 – doc. 126), por meio do qual se requer:
+    “a) Suspender a tramitação processual do Proc. nº de 0003976.65.2012.8.10.0058 da 1ª Vara Cível de São José de Ribamar/MA e do cumprimento de sentença nº 0805181.86.2018.8.10.0058, por competência absoluta da justiça federal para processar e julgar o feito, por cerceamento de defesa, inexistência de formação do litisconsórcio e de acesso à justiça ao povo requerente; e,
+    b) Determinar o sobrestamento do Recurso Especial nº 1864193, que tramita no Superior Tribunal de Justiça, sob a relatoria do Ministro Benedito, pelas mesmas razões do pedido anterior (“a”). No mérito, sejam confirmadas as liminares e que possa Vossa Excelência:
+    c) Declarar a nulidade, mesmo que de ofício, dos autos principais, por força da formação inadequada do litisconsórcio necessário e cerceamento da defesa do Povo Tremembé, por não ter permitindo o acesso à justiça ao ora requerente; e,
+    d) Subsidiariamente, caso não acolhido o pedido anterior (“c”), que seja declarado nulo o processo originário, mesmo que de ofício, no qual o presente incidente está vinculado, conferindo o declínio da competência da justiça comum estadual, para a justiça federal do Maranhão.
+    e) Com fulcro no artigo 104 do CPC, solicita ainda prazo para juntada do competente instrumento procuratório em decorrência das circunstâncias atuais ocasionadas pela pandemia do Covid-19”.
+    É o relatório. DECIDO.
+    Tal como assentado na decisão de procedência proferida no presente feito (doc.118), dada a natureza do instituto, a cognição do Presidente do Tribunal a quem compete a análise do incidente de contracautela deve se limitar à aferição da existência de risco de grave lesão ao interesse público, além de um juízo mínimo de plausibilidade do fundamento jurídico invocado, não cabendo-lhe a manifestação quanto ao mérito propriamente dito do que discutido no processo originário, eis que o mérito deverá ser oportunamente apreciado pelo Tribunal competente na via recursal própria.
+    Nestes termos, a análise acerca da competência para a apreciação do processo de origem há de ser realizada pelas vias recursais ordinárias e extraordinárias facultadas ao Ministério Público Federal e à entidade requerente, não podendo constituir o objeto precípuo do presente pedido de suspensão, que não se presta ao papel de sucedâneo recursal.
+    Saliento, por fim, que, de acordo com documento juntado aos autos (doc. 139), a Procuradoria-Geral da República oficiou o juízo de origem, solicitando esclarecimentos acerca do suposto descumprimento da decisão proferida nestes autos, ao que o juízo de origem informou ter realizado visita ao território disputado na tentativa de entabulação de acordo entre as partes e que interrompeu referidas tentativas após ciência da existência de ação semelhante em curso perante a Justiça Federal, de modo a não restar configurada a alegada inobservância de autoridade de decisão desta Corte e não haver presentemente risco ao direito do grupo representado pela entidade requerente.
+    Ex positis, INDEFIRO o pedido de tutela provisória incidental formulado.
+    À Secretaria, para que certifique o trânsito em julgado da decisão constante do doc. 118.
+    Publique-se.
+    Brasília, 02 de agosto de 2021.
+Ministro Luiz Fux
+Presidente
+Documento assinado digitalmente
