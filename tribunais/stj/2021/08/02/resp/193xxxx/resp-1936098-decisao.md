@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especialinterposto em face de acórdão do Tribunal Regional Federal da 1ª Regiãocuja ementa é a seguinte:
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL - DECISÃO MONOCRÁTICA DO RELATOR (ART. 557 DO CPC) CONFIRMADA - EXECUÇÃO FISCAL - EXCEÇÃO DE PRÉ- EXECUTIVIDADE ACOLHIDA PARCIALMENTE - PRESCRIÇÃO - DECADÊNCIA. 1. Primeiramente, vale destacar que não houve usurpação da competência colegiada desta Colenda 7ª Turma, mas, tão somente, a aplicação da norma processual vigente (art. 557 do CPC), havendo subsunção integral ao caso em apreço. 2. "O art. 557, caput, do Código de Processo Civil permite ao relator, de plano, negar seguimento ao recurso, sob o fundamento de se encontrar a decisão recorrida em confronto com a súmula ou jurisprudência predominante do Supremo Tribunal Federal ou de Tribunal Superior. Trata-se de mecanismo disponibilizado pela processualística que visa a conferir maior agilidade à marcha recursal. Portanto, presentes aludidas condições, caberá ao julgador apreciar o recurso de forma monocrática sem a necessidade do julgamento pelo colegiado. Para o caso em comento, é medida que se impõe." (AGA 0028152-39.2013.4.01.0000 / MG, Rel. JUIZ FEDERAL CARLOS AUGUSTO PIRES BRANDÃO (CONV.), PRIMEIRA TURMA, e-DJF1 p.203 de 10/09/2015. 3. A questão em tela já foi exaustivamente tratada, não havendo possibilidade de rediscussão pela via regimental. 4. Agravo Regimental não provido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base naalíneaa do permissivo constitucional, orecorrente aponta ofensa aos arts. 1º e 2º da Lei 9.873/99,alegando, em síntese, que:
+A violação de tais dispositivos legais é flagrante uma vez que a constituição definitiva dos créditos não tributários a finalização do procedimento administrativo, momento em que se inicia o prazo da prescrição.
+Isto se afirma, na medida em que a multa decorrente da autuação somente será exigível se o prazo para o exercício da pretensão punitiva e executória for devidamente respeitado (ampla defesa e contraditório).
+Sem deixar de considerar o princípio da legalidade, verifica- se que a Administração Pública é obrigada a cumprir todo o procedimento administrativo, sendo certo afirmar que somente após o trânsito em julgado desse processo é que o crédito estará definitivamente constituído.
+Em suas contrarrazões, o recorrido pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi admitido pelo Tribunal de origem.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 2, in verbis: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+É certo que,nos termos da Súmula 467/STJ, "prescreve em cinco anos, contados do término do processo administrativo, a pretensão da Administração Pública de promover a execução da multa por infração ambiental" (grifou-se).
+Contudo, no caso concreto, verifica-se que,para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado -e se afastar a prescrição, levando-se em consideração a intimação do devedor do término do processo administrativo como respectivo termo inicial -, é necessário o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+A corroborar esse entendimento, destaca-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. PRESCRIÇÃO. DEMORA NA CITAÇÃO DO DEVEDOR. CULPA EXCLUSIVA DO PODER JUDICIÁRIO. REVISÃO. CDA.REQUISITOS LEGAIS. VERIFICAÇÃO. REEXAME DE FATOS E PROVAS.IMPOSSIBILIDADE.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A orientação jurisprudencial firmada nesta Corte Superior, no julgamento do REsp 1.120.295/SP, repetitivo, é no sentido de que a interrupção do prazo prescricional só retroage à data da propositura da ação executiva quando a demora na citação é imputada exclusivamente ao Poder Judiciário, conforme hipótese prevista na Súmula 106 do STJ, sendo que, antes da vigência da LC 118/2005, somente a citação válida provocava o efeito interruptivo da prescrição, nos termos do art. 174, I, do CTN.
+3. Hipótese em que o recurso especial encontra óbice na Súmula 7 do STJ, pois, constatada a culpa da máquina judiciária pela demora na citação, o marco interruptivo retroagiu à data da propositura da ação.
+4. A verificação acerca do preenchimento dos requisitos de validade da Certidão de Dívida (CDA) pressupõe o reexame de matéria fático-probatória, o que é inviável no âmbito do recurso especial, ante o óbice da Súmula 7 do STJ. Precedentes.
+5. Agravo interno improvido.
+(AgInt no AREsp 1047382/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 31/05/2021, DJe 11/06/2021)
+Diante do exposto, com base no art. 932, III, do CPC/2015 c/c o art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ.EXECUÇÃO FISCAL. PRESCRIÇÃO. QUESTÃO ATRELADA AO REEXAME DE PROVA. ÓBICE DA SÚMULA 7/STJ.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2. Recurso especial não conhecido.
