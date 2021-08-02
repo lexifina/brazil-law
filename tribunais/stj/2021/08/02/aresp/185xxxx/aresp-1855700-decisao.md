@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão assim ementado:
+DOENÇA CORONARIANA E HIPERTENSÃO.ROSUVASTATINA, MONOCORDIL, VASTAREL MR, SELOZOK E DILTIAZEN CD. APELAÇÃO. MANDADO DE SEGURANÇA. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS A saúde é um direito de todos e um dever do Estado (art. 196 da CF). Direito à saúde assegurado, que compreende o fornecimento de tratamento específico, a quem dele necessita. Requisitos estabelecidos pelo e. STJ devem ser observados. Ausência de relatório médico fundamentado e circunstanciado. Ausência de hipossuficiência financeira.RECURSO NÃO PROVIDO.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente alega, em síntese:
+Quanto à probabilidade do direito invocado e tal como será melhor explanado mais adiante, tem-se que a E. Corte Bandeirante, embora não demonstrar desconhecimento quanto à tese 106 do C. STJ, vem relativizar sua aplicação, tudo de tal sorte a ASSEGURAR O DIREITO À SAÚDE, ESTE INSERIDO ENTRE OS DIREITOS E GARANTIAS FUNDAMENTAIS DO CIDADÃO, INERENTES AO PRINCÍPIO FUNDAMENTAL DA DIGNIDADE HUMANA, FUNDAMENTO DO ESTADO BRASILEIRO, BEM COMO DIREITO SOCIAL PREVISTO NO ARTIGO 196 DA CF!!
+Outrossim, adianta e reitera a agravante que o rigorismo dos elementos do indigitado tema 106, conquanto relativizados, somente vieram atingi-la quando da prolação da r. sentença recorrida, sendo certo que a ora agravante, notadamente para atingir a finalidade constitucional acima invocada, tencionou, ainda que em sede de declaratórios e com base na instrumentalidade das formas, a demonstração das noveis exigências que o Juízo de Origem entende pertinentes.
+Com efeito, aqui já se demonstra que o instrumento processual utilizado poderia muito bem atingir sua finalidade, até mesmo porque a liminar inicial foi concedida ah initio, sem ventilação de exigências tidas como pretorianas e advindas do malfadado tema 106 do STJ.
+Não se olvide, ainda, que os documentos carreados à inicial já permitiam não somente à concessão da liminar outrora deferida como a concessão da segurança vindicada, já que indicam a incapacidade financeira de a recorrente arcar com o custo de seu tratamento (aquisição de remédios), a imprescindibilidade dos medicamentos para o mesmo (recorrente acometida de grave moléstia:
+OBSTRUÇÃO SEVERA TRIARTERIAL), tudo com embasamento em documentos exigidos pelo Poder Público (Formulários Descritivos, Declarações de Isenção de Ânimo e/ou Interesse, Justificativa de Prescrição etc).
+Se isso já não bastasse, ainda que se entenda pelo rigorismo exacerbado imposto para o fornecimento de medicamentos que não são de alto custo para o Estado, mas de enorme dificuldade para agravante, tem-se que esta veio jungir documentos de seus registros na Anvisa e DECLARACÃO DE IMPOSTO DE RENDA atual do seu esposo (pessoa por que depende para sobreviver), o que afasta qualquer ilação de dilação probatória e permite aferição da PROVA CONSTITUÍDA pela recorrente.
+E se já não bastasse a probabilidade do provimento do apelo que se visa destrancar, os documentos constantes dos autos e a própria narrativa fático-processual, dadas suas RELEVÂNCIAS, já permitem se vislumbrar que a não concessão do efeito suspensivo vindicado e o restabelecimento da liminar outrora concedida causará à agravante DANO GRAVE OU DE DIFÍCIL REPARAÇÃO.
+O caso é este: a AGRAVANTE NECESSITA DOS MEDICAMENTOS REQUERIDOS PARA SEU TRATAMENTO CARDIOLÓGICO E PARA SUA PRÓPRIA SOBREVIVÊNCIA, fato comprovado por documentos médicos, além de não possuir condições financeiras de arcar com os mesmos.
+O Ministério Público emitiu parecer assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO.FORNECIMENTO DE MEDICAMENTO NÃO PADRONIZADO PELO SUS. NECESSIDADE DE CUMPRIMENTO DOS REQUISITOS ESTABELECIDOS NO RESP Nº 1.657.156/RJ, TEMA 106/STJ. NEGATIVA DE SEGUIMENTO DO ESPECIAL COM FULCRO NOS ARTS.1.030, I, B, E 1.040 DO CPC, POR ESTAR O ACÓRDÃO EM CONFORMIDADE COM O PARADIGMA PROFERIDO EM SEDE DE REPETITIVO. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. ERRO GROS- SEIRO. PELO NÃO CONHECIMENTO.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 9.6.2021.
+Na hipótese dos autos, o Tribunal de origem inadmitiu o Recurso Especial com fulcro no art. 1.030, I eV, do CPC/2015.
+De acordo com a jurisprudência do STJ, "é incabível agravo em recurso especial contra decisão que nega seguimento a apelo nobre na hipótese em que a matéria tenha sido julgada em harmonia com tese definida em recurso repetitivo, sendo cabível o agravo interno".
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA DO STJ. RECURSO ESPECIAL. SEGUIMENTO NEGADO.RECURSO REPETITIVO (CPC/2015, ART. 1.030, I, "B"). INTERPOSIÇÃO DO AGRAVO DO ART. 1.042 DO CPC/2015. ERRO INESCUSÁVEL. INSURGÊNCIA NÃO CONHECIDA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA.SÚMULA N. 182 DO STJ. DECISÃO MANTIDA.
+1. O CPC/2015, em seu art. 1.030, § 2º, prevê expressamente o cabimento de agravo interno contra decisão que nega seguimento a recurso especial com fundamento no inciso I do artigo mencionado.
+2. De acordo com a jurisprudência do STJ, "é incabível agravo em recurso especial contra decisão que nega seguimento a apelo nobre na hipótese em que a matéria tenha sido julgada em harmonia com tese definida em recurso repetitivo, sendo cabível o agravo interno" (AgInt no AREsp n. 1.703.829/PR, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/9/2020, DJe 24/9/2020), o que ocorreu.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.819.666/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 17/5/2021)
+AGRAVO INTERNO. PROCESSUAL CIVIL. DECISÃO QUE INADMITE RECURSO ESPECIAL COM BASE EM ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO.INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. ERRO GROSSEIRO. SUBIDA DO RECURSO ESPECIAL. INVIABILIDADE, A PATENTEAR A INEXISTÊNCIA DA FUMAÇA DO BOM DIREITO.
+1. A decisão que inadmite recurso especial com base em entendimento firmado em recurso repetitivo deve ser impugnada por meio de agravo interno (art.1.030, § 2º, do CPC/2015). A jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que, sob a égide do CPC/2015, a interposição de agravo em recurso especial com tal finalidade constitui erro grosseiro, inviabilizando a aplicação do princípio da fungibilidade (AgInt no AREsp 1479621/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/03/2020, DJe 26/03/2020).
+2. Agravo interno não provido.
+(AgInt no TP 2.849/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 3/5/2021)
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
