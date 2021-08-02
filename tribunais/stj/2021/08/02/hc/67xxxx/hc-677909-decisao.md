@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de DIEGO RANGEL ROMÃO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento do Agravo em Execução n. 0006642-76.2021.8.26.0996, que restou assim ementado:
+"Agravo em Execução - Roubo majorado - Progressão ao regime semiaberto - Deferida - Realização de exame criminológico - Possibilidade. Súmula 439, do Colendo Superior Tribunal de Justiça - Súmula Vinculante nº 26, do Supremo Tribunal Federal - No caso em exame, diante da gravidade dos crimes perpetrados pelo sentenciado, não encontro motivos para justificar uma progressão ao regime semiaberto simplesmente amparado no bom comportamento do sentenciado baseado no "Boletim Informativo", visto que demonstra ser indivíduo perigoso para a sociedade - A condição do sentenciado de ostentar uma longa pena com TCP para 24/11/2036 não pode ser desconsiderada e, somado ao fato de ele ostentar 03 faltas disciplinares de natureza grave, demanda a permanência do sentenciado em regime mais rigoroso para que possa refletir adequadamente sobre os atos que praticou e demonstrar, de forma inequívoca, que adquiriu senso de responsabilidade, disciplina, e que conseguirá conter seus instintos diante das inúmeras adversidades que enfrentará em uma nova etapa do resgate da pena em regime intermediário, comprovando, assim, que não sucumbirá ao crime - Necessidade de permanência no regime fechado para ser melhor observado - Decisão cassada, com a determinação do retorno do sentenciado ao regime intermediário e que seja realizado exame criminológico - Agravo provido." (fls. 66/67)
+Extrai-se dos autos que o paciente foi condenado à pena de 19 anos, 3 meses e 18 dias de reclusão, em regime fechado, pela prática de roubos majorados.
+A defesa alega que o paciente preencheu os requisitos objetivo e subjetivo para a progressão de regime , tendo em vista que, além do implemento do lapso temporal, possui bom comportamento carcerário.
+Argumenta, ainda, que "o juízo de primeira instância não logrou fundamentar a negativa, deixando de invocar elementos concretos, levando em conta apenas a gravidade dos delitos praticados" (fl. 8).
+Deste modo, pugna, em liminar e no mérito, pela cassação do acórdão impugnado e restabelecimento da decisão monocrática.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo , a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+No caso, ao menos em juízo perfunctório, não é possível identificar de plano o constrangimento ilegal aventado ou, ainda, a presença do fumus boni iuris e do periculum in mora, elementos autorizadores para a concessão da tutela de urgência.
+Por tais razões, indefiro o pedido de liminar.
+Suficientemente instruídos os autos, ouça-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
