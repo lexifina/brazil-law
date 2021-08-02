@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manejado pela União contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 56):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. CUMPRIMENTO DE JULGADO. NOVA EXPEDIÇÃO DE PRECATÓRIOS. POSSIBILIDADE. PRESCRIÇÃO.INEXISTÊNCIA. RECURSO DESPROVIDO. AGRAVO INTERNO PREJUDICADO.
+1. Trata-se de AGRAVO DE INSTRUMENTO interposto pela UNIÃO FEDERAL, com pedido de atribuição de efeito suspensivo, alvejando decisão que, nos autos de cumprimento de julgado, indeferiu a impugnação oferecida pela ora agravante, determinando a conclusão dos autos "para o envio dos requisitórios" .
+2. O presente recurso visa reformar a decisão agravada, para que seja reconhecida a "prescrição intercorrente da pretensão executória, extinguindo-se a execução com o julgamento do mérito, nos termos do artigo 487 inc. II do CPC", bem como "com base no princípio da eventualidade, requer a União que seja acolhida a impugnação aritmética ".
+3. Convém destacar a inocorrência da prescrição intercorrente. Nesse ponto, bem destacou o Magistrado a quo:"não há que se falar em prescrição intercorrente da exigibilidade da pretensão executória, seja porque satisfeita e extinta a referida pretensão, seja por ausência de previsão legal para o caso, eis que o dispositivo constante do art. 921 §4º do CPC/15 incide em execuções diversas daquela destinada à fazenda pública".
+4. Ademais, a quantia depositada pela União Federal, na forma do artigo 100, da CF/88, saiu definitivamente da esfera patrimonial do Ente Federal. Portanto, não se trata mais de exercício de pretensão executória contra a Fazenda, não havendo, portanto, que se falar em incidência de prescrição.
+5. Por sua vez, a Lei nº 13.463/2017 apenas instituiu a possibilidade do Poder Público administrar valores pagos por meio de requisitórios, não autorizando qualquer tentativa de retomada da quantia depositada, tendo em vista que tal ato configuraria confisco de valores pertencentes aos cidadãos.
+6. O próprio artigo 3º, da referida Lei admite que "cancelado o precatório ou a RPV, poderá ser expedido novo ofício requisitório, a requerimento do credor".
+Nestes termos, a nova expedição de precatórios está em conformidade com nosso ordenamento jurídico.
+7. Por fim, o feito originário encontra-se em fase processual em que não é mais cabível a manifestação defensiva, tendo em vista que já foi exercida durante o transcorrer do processo. A impugnação da União Federal não é cabível, no presente caso, não devendo prosperar a tese recursal.
+Opostos embargos declaratórios, foram rejeitados (fls. 70/77).
+Nas razões do recurso especial, a parte agravante apontaviolação aos arts. 332, 502, 505, 487, II e 1.022, I e II do CPC, 1º 8º e 9º do Decreto nº 20910/32 e 196 do CC. Sustenta, em síntese, negativa de prestação jurisdicional eque "permaneceu o feito completamente parado por mais de cinco anos (artigo 1º do Dec. 20.910/ 32 E SÚMULA 150 STF), após a expedição do RPV e liberação para saque em 09.10.2012 (fls. 158=168).Destaque-se que o fato do julgado ter permanecido completamente parado por mais de cinco anos é questão incontroversa, tendo sido inclusive reconhecida pelo v. acórdão (..)." (fl. 86)
+Aduz que"restando consumada a prescrição da pretensão executória também, já que o prazo volta a fluir em apenas dois anos e meio a partir do início da execução, valendo destacar que a prescrição ocorre, mesmo se se considerar o prazo cheio de 05 anos." (fl. 87)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa aoart.1.022, I e II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto ao mais, oinconformismo não merece acolhimento.
+Segundo a jurisprudência predominante no Superior Tribunal de Justiça, "inexiste prazo prescricional para que o credor solicite a reexpedição de precatório ou RPV cancelados com fundamento na Lei n. 13.463/2017, tendo em vista a ausência de previsão legal nesse sentido." (AgInt no REsp 1893168/RN, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 19/04/2021, DJe 23/04/2021)
+Nessa mesma linha, confiram-se:
+PROCESSUAL CIVIL. REQUISIÇÃO DE PEQUENO VALOR (RPV). CANCELAMENTO. LEI Nº 13.463/2017. REEXPEDIÇÃO. IMPRESCRITIBILIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. Ressalvado o entendimento do relator, a Primeira Turma do STJ, em recente julgamento colegiado, proferido no REsp n. 1.856.498/PE, sob a relatoria do Min. Napoleão Nunes Maia Filho, posicionou-se, por maioria, pela imprescritibilidade da pretensão à reexpedição da requisição de pequeno valor (RPV) cancelada nos termos da Lei n. 13.463/2017.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1742794/PB, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 26/04/2021, DJe 12/05/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PRECATÓRIO OU REQUISITÓRIO DE PEQUENO VALOR. LEI N. 13.462/2017. CANCELAMENTO APÓS DOIS ANOS DO DEPÓSITO. UTILIZAÇÃO DO DINHEIRO PELA UNIÃO. PRAZO PARA PEDIDO DE NOVO OFÍCIO REQUISITÓRIO. DIREITO POTESTATIVO. PRESCRIÇÃO.
+INEXISTÊNCIA. DISPOSITIVOS LEGAIS SEM COMANDO NORMATIVO APTO À ALTERAÇÃO DO ACÓRDÃO RECORRIDO. INADMISSIBILIDADE.
+1. Nenhum direito perece sem que haja previsão expressa do fenômeno apto a produzir esse resultado; portanto, não é lícito estabelecer-se, sem lei escrita, ou seja, arbitrariamente, uma causa inopinada de prescrição  (REsp 1.874.973/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 06/10/2020, DJe 13/10/2020).
+2. No caso dos autos, além de o acórdão recorrido estar em conformidade com esse entendimento, o conhecimento do recurso encontra óbice nas Súmulas 283 e 284 do STF.
+3. Agravo interno não provido.
+(AgInt no REsp 1864043/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/03/2021, DJe 25/03/2021)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
