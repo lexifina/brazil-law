@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial interposto (art. 105, III, "a" e "c", da Constituição da República) contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. SUBSTITUIÇÃO DO BEM PENHORADO. RECURSO DESPROVIDO.
+- A exequente não concordou com o pedido de substituição de penhora da executada, considerada grande devedora da Fazenda Nacional.
+- O princípio da menor onerosidade do devedor, insculpido no art. 620 do CPC/1973, não tem aplicação irrestrita, eis que a execução se dá também no interesse da satisfação do credor.
+- Obedecendo a penhora ou o arresto de bens a ordem enumerada no art. 11 da Lei nº 6.830/80, vê-se que a penhora recairá, preferencialmente, sobre o dinheiro, nos termos do inciso I, do dispositivo citado.
+- A recusa da nomeação à penhora pelo juízo da execução não configura violação ao princípio da menor onerosidade para o devedor, insculpido no art. 620 do CPC/1973 (disposição similar no art. 805 do novo CPC), devendo se levar em conta que a execução se dá também no interesse da satisfação do credor.
+- Agravo de Instrumento desprovido.
+Os Embargos de Declaração foram rejeitados.
+A parte agravante aponta, nas razões do Recurso Especial, além de divergência jurisprudencial, violação, em preliminar, dos arts. 535, II, do CPC/1973 e 1.022, II, do CPC/2015; e, no mérito, dos arts. 805, 829, 847 e 917, § 2º, do CPC/2015.
+Apresentadas as contrarrazões, sobreveio o juízo de admissibilidade negativo da instância de origem, o que deu ensejo à interposição do presente Agravo.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 15/6/2021.
+In casu, o Recurso Especial teve seguimento negado por estar o acórdão recorrido em harmonia com entendimento firmado no REsp 1.337.790/PR (Tema 578/STJ), submetido à sistemática dos recursos repetitivos, tendo a parte interposto, incontinenti, Agravo em Recurso Especial.
+Nos termos expressos do art. 1.030, I, "b", e § 2º, do CPC/2015, da decisão que inadmite o Recurso Especial interposto contra acórdão que esteja em conformidade com entendimento exarado no regime de julgamento de recursos repetitivos, caberá Agravo Interno.
+Assim, é manifestamente inadmissível a interposição de Agravo em Recurso Especial em tal hipótese, configurando erro grosseiro que inviabiliza a aplicação do princípio da fungibilidade recursal.
+Com efeito, o STJ entende que, "a interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno" (AREsp 959.991/RS, Rel. Min.Marco Aurélio Bellizze, Terceira Turma, DJe 26/8/2016).A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE NA ORIGEM. ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO. NÃO CABIMENTO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. IMPOSSIBILIDADE. ERRO GROSSEIRO. JURISPRUDÊNCIA DO STJ.
+AGRAVO INTERNO NÃO PROVIDO.
+1. Consoante a jurisprudência firmada no STJ, constitui erro grosseiro a interposição do recurso de agravo em recurso especial de decisão de inadmissibilidade fundamentada em entendimento firmado pela sistemática de recursos repetitivos. Precedente: (AgInt no AREsp 1.416.343/SP, Segunda Turma, Rel. Min. Assusete Magalhães, julgado em 23/5/2019, DJe 30/5/2019).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.509.834/BA, Rel. Min. Og Fernandes, Segunda Turma, DJe 23/3/2020)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DO TRIBUNAL DE ORIGEM COM BASE EM RECURSO REPETITIVO. NÃO CABIMENTO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE DÚVIDA OBJETIVA NA VIGÊNCIA DO CÓDIGO FUX. ERRO GROSSEIRO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Este Sodalício já sedimentou que a interposição de Agravo em Recurso Especial, ao invés de Agravo Interno, em face de decisão do Tribunal de origem que nega seguimento ao Apelo Nobre com base em recurso repetitivo configura erro grosseiro, uma vez que, ante a disposição expressa do art. 1.030, § 2º, do Código Fux, inexiste dúvida objetiva acerca da insurgência cabível, não sendo possível a aplicação da fungibilidade recursal ou instrumentalidade das formas. Nesse sentido: AgInt no AgInt no AREsp. 1.240.716/SP, Rel. Min. SÉRGIO KUKINA, DJe 6.11.2018; AgInt no AREsp. 1.300.845/MS, Rel. Min. OG FERNANDES, DJe 10.12.2018.
+2. Agravo Interno do Particular a que se nega provimento.
+(AgInt no AREsp 1.234.452/SP, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/4/2019)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. PUBLICAÇÃO NA VIGÊNCIA DO CPC/2015. INTERPOSIÇÃO DE AGRAVO INTERNO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. DESCABIMENTO.
+1. O Superior Tribunal de Justiça admite o princípio da fungibilidade recursal somente "quando houver dúvida objetiva sobre qual o recurso a ser interposto; quando o dispositivo legal for ambíguo; quando houver divergência doutrinária ou jurisprudencial quanto à classificação do ato processual recorrido e a forma de atacá-lo (..)" (AgInt no RO nos EDcl no AgRg no RE nos EDcl no AgRg no AREsp 617.933/SP, Relator Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe 14/10/2016).
+2. Conforme o art. 1030, § 2º, do CPC/2015, o recurso cabível contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo é o agravo interno, sendo admitido o agravo previsto no art. 1.042 do Novo Estatuto Processual na hipótese de o Tribunal de origem inadmitir o apelo nobre com fundamento no inciso V do referido dispositivo legal.
+3. Hipótese em que a Corte a quo, ao realizar o juízo de prelibação negativo do recurso especial, entendeu que a questão suscitada carece do devido prequestionamento, tendo a parte manejado agravo interno em vez de agravo em recurso especial, o que configura erro grosseiro, não dando ensejo tal situação à aplicação do princípio da fungibilidade.
+4. Agravo interno desprovido, com aplicação de multa.
+(AgInt no AREsp 1.259.849/CE, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 12/9/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL COM FUNDAMENTO NO ART. 1.030, I, B, DO CPC/2015. CABIMENTO DE AGRAVO INTERNO NOS TERMOS DO ART. 1.030, § 2º, DO CPC/2015. INTERPOSIÇÃO DO AGRAVO PREVISTO NO ART. 1.042 DO CPC/2015. ERRO GROSSEIRO.
+1. O artigo 1.042, caput, do Código de Processo Civil de 2015 ressalva o descabimento de agravo em recurso especial contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir o recurso especial quando fundada na aplicação de entendimento firmado em julgamento de recurso repetitivo.
+2. Nessa linha, a interposição do agravo previsto no artigo 1.042 do CPC/2015 constitui erro grosseiro, de modo que não há que se falar em princípio da fungibilidade recursal, tampouco no retorno dos autos à Corte de origem para que o aprecie como agravo interno, muito menos em princípio da primazia da decisão de mérito. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.255.905/SP, Rel. Min. Lázaro Guimarães, Quarta Turma, DJe 27/8/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO. INADMISSÃO COM BASE NO ART. 1.030, I, B, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. IMPOSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. AGRAVO INTERNO CONTRA DECISÃO A QUAL RECONHECEU A CONFIGURAÇÃO DE ERRO GROSSEIRO NA INTERPOSIÇÃO DE RECURSO. MANIFESTA INADMISSIBILIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. CABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Revela-se manifestamente inadmissível a interposição de Agravo em Recurso Especial para impugnar decisão mediante a qual o Recurso Especial teve seguimento negado (art. 1.030, I, b, do CPC/15) porque o acórdão recorrido estaria em consonância com o entendimento fixado em recurso repetitivo, porquanto cabível agravo interno.
+III - É inviável a determinação de retorno dos autos ao tribunal de origem, para que o agravo em recurso especial interposto seja apreciado como agravo interno, porquanto na sistemática vigente deixou de existir dúvida objetiva acerca do recurso cabível. Precedentes da 3ª e 6ª turmas desta Corte.
+IV - O Agravante não apresenta, no recurso, argumentos suficientes para desconstituir a decisão agravada.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação.
+VI - Caracterizada, in casu, a manifesta inadmissibilidade a ensejar a aplicação da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015.
+VII - Agravo Interno improvido, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(AgInt nos EDcl no AREsp 1.147.841/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 23/5/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM RECURSO REPRESENTATIVO DE CONTROVÉRSIA. NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL. IMPUGNAÇÃO POR AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. INVIABILIDADE.
+1. Nos termos do art.1.030, I, "b", e § 2º, do CPC/2015, da decisão que inadmite o Recurso Especial interposto contra acórdão que esteja em conformidade com entendimento exarado no regime de julgamento de recursos repetitivos, caberá Agravo Interno.
+2. É manifestamente inadmissível a interposição de Agravo em Recurso Especial em tal hipótese, configurando erro grosseiro que inviabiliza a aplicação do princípio da fungibilidade recursal. Precedentes do STJ.
+3. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do Recurso Especial Repetitivo 1.337.790/PR, firmou orientação no sentido de que cumpre ao devedor fazer a nomeação de bens à penhora observando a ordem legal estabelecida no art. 11 da Lei de Execução Fiscal, incumbindo-lhe demonstrar, se for o caso, a necessidade de afastá-la, não sendo suficiente a mera invocação genérica do art. 620 do CPC/1973.
+4. O acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação da agravante.
+5. Agravo Interno não provido.
+(AgInt no AREsp 1.236.758/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 23/11/2018)
+No mesmo sentido, recentes decisões monocráticas: AREsp 1.685.420/PE, Rel. Min. Herman Benjamin, DJe 5/5/2020; AREsp 1.675.439/MA, Rel. Min. Herman Benjamin, DJe 22/4/2020; AREsp 1.685.989/SP Rel. Min. Mauro Campbell Marques, DJe 8/5/2020;AREsp 1.152.788/BA, Rel. Min. Og Fernandes, DJe 24/3/2020.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, em 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Com essas considerações, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
