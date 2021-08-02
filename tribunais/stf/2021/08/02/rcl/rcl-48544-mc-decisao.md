@@ -1,0 +1,23 @@
+D E C I S Ã O
+    Trata-se de reclamação constitucional, com pedido de medida liminar, contra sentença proferida pelo Juízo da 23ª Vara Federal de Juizado Especial Cível da Seção Judiciária do Distrito Federa, nos autos do Processo nº 1024612-67.2021.4.01.3400, pela qual teria sido descumprida a decisão proferida pelo Ministro Roberto Barroso na Medida Cautelar na ADI nº 5.090/DF, que determinou a suspensão de todos os processos que discutam a rentabilidade dos depósitos do FGTS.
+    Sustenta que houve flagrante descumprimento da determinação cautelar na ADI 5090 pelo Juízo reclamado, quando optou por dar andamento ao processo e julgar a demanda, mesmo havendo determinação de suspensão.
+    Requer a concessão de liminar para determinar a imediata suspensão do processo, até o julgamento definitivo da ADI 5.090/DF.
+    É o relatório. Passo à análise do pedido liminar consistente na suspensão do curso do processo em tramitação na Justiça Federal.
+    Em decisão proferida pelo Ministro Roberto Barroso na ADI 5.090/DF, aos 06/09/2019, foi deferida a medida cautelar para suspender o trâmite de todos processos cujo objeto seja a discussão sobre índice de correção dos depósitos de FGTS, nos seguintes termos:
+    “Considerando: (a) a pendência da presente ADI 5090, que sinaliza que a discussão sobre a rentabilidade do FGTS ainda será apreciada pelo Supremo e, portanto, não está julgada em caráter definitivo, estando sujeita a alteração (plausibilidade jurídica); (b) o julgamento do tema pelo STJ e o não reconhecimento da repercussão geral pelo Supremo, o que poderá ensejar o trânsito em julgado das decisões já proferidas sobre o tema (perigo na demora); (c) os múltiplos requerimentos de cautelar nestes autos; e (d) a inclusão do feito em pauta para 12/12/2019, defiro a cautelar, para determinar a suspensão de todos os feitos que versem sobre a matéria, até julgamento do mérito pelo Supremo Tribunal Federal.”(DJe 09.09.2019)
+    Colhe-se dos autos (eDOC 2) que a controvérsia do processo de origem versa sobre a correção de saldo de conta vinculada ao FGTS por índice diverso ao legalmente previsto, conforme se verifica nos termos da sentença abaixo transcritos:
+    “É importante ressaltar, neste ponto, que o Supremo Tribunal Federal, no julgamento do leading case RE 226.855-7/RS, relator o Ministro Moreira Alves, assentou que, tendo o FGTS natureza estatutária e não contratual, incidem imediatamente as leis que, antes da data do crédito, alterem a forma de reajuste das respectivas contas vinculadas.
+    Anoto que, no caso em questão, o STF conheceu, em parte, e deu provimento ao citado recurso extraordinário, reconhecendo a ausência de violação a direito adquirido (CF, art. 5º, XXXVI) e, portanto, a validade constitucional de determinados atos normativos que estabeleceram novos critérios de reajuste para as contas vinculadas ao FGTS, dentre eles, a Lei 8.177/91, que estabeleceu que a correção das referidas contas deveria ser feita pela TRD.
+    Note-se que, já tendo o próprio STF declarado a constitucionalidade do critério de reajuste previsto pela Lei 8.177/91, não há mais o que se possa discutir no que diz respeito a esse assunto.
+    Vale destacar, ainda, que, seguindo essa mesma linha de raciocínio, o Superior Tribunal de Justiça, ao julgar o REsp 1.614.874/SC, no regime dos recursos repetitivos, já decidiu que é vedado ao Poder Judiciário substituir o índice de remuneração das contas vinculadas ao FGTS, que tem disciplina própria ditada por lei (REsp 1614874/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 11/04/2018, DJe 15/05/2018).
+    Assim, diante das decisões do STF e do STJ – sendo aquela proferida no REsp 1.614.874/SC, inclusive, de caráter vinculante (art. 1.040, III, NCPC) –, ainda que a TR não seja o índice que melhor reflete a inflação do período, não há como acatar a pretensão da parte autora.”
+    Verifico que o ato reclamado foi proferido em 11/05/2021, ou seja, posteriormente à determinação de suspensão nacional exarada na ADI nº 5.090/DF-MC, restando evidenciada a dissonância da decisão reclamada com o conteúdo do decisum cautelar.
+    Entendo que a fundamentação acima transcrita confere plausibilidade jurídica à tese autoral de que o Juízo reclamado contraria a decisão proferida na ADI 5.090-MC/DF.
+    Ante o exposto, defiro o pedido de medida liminar, em ordem a suspender a tramitação do Processo nº 1024612-67.2021.4.01.3400, até decisão final nesta reclamação.
+    Comunique-se.
+    Solicitem-se informações à autoridade reclamada (CPC, art. 989, I).
+    Cite-se a parte beneficiária (CEF) para apresentar contestação (CPC, art. 989, III).
+    Intime-se. Publique-se.
+    Brasília, 02 de agosto de 2021.
+Ministro NUNES MARQUES
+Relator
