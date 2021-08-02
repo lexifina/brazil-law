@@ -1,0 +1,8 @@
+DECISÃO
+01. Trata-se de memoriais apresentados às fls. 4.593/4.602, a respeito da questão de competência jurisdicional da 13ª Vara Federal de Curitiba para processar e julgar os casos relativos à Transpetro no âmbito da Operação Lava Jato, nos quais a Defesa sustenta que "(..) não há relação de conexão ou continência entre os casos que deram origem à operação, então vinculados à Petrobras, e aqueles que dizem respeito às empresas subsidiárias, como é o caso da TRANSPETRO." (fl. 4.594).
+No ponto, busca demonstrar que "(..) o próprio Juízo da 13ª Vara Federal de Curitiba, nas ações penais que ali ainda tramitavam, reconheceu sua incompetência, especialmente naquilo que tocava à empresa TRANSPETRO. Dentre esse universo de casos, consta a ação penal n. 5021793-77.2018.404.7000, a qual trata do mesmo contexto ora debatido no presente recurso, também sendo originada em supostos desvios praticados na gerência regional Norte-Nordeste da TRANSPETRO." (fl. 4.594). Pretende, pois, o reconhecimento da incompetência a jurisdicional da Seção Judiciária do Paraná para processar e julgar a ação penal n. 5054186-89.2017.404.7000.
+Instado a se manifestar, o Ministério Público Federal opinou (fls. 4.609/4.612) pela parcial procedência da Petição, para remeter a ação penal sob análise à 12ª da SJ/ DF - para que possa avaliar a competência (em face de conexão ou continência com o Inquérito nº 4.215).
+É o relatório.
+Decido.
+02. Acompanho o d. parecer e defiro o pedido do órgão ministerial a fim de determinar a remessa dos respectivos autos à Seção Judiciária do Distrito Federal, para que se possa verificar a possibilidade competência por conexão ou continência com o Inquérito n. 4.215/STF.
+03. Diligências necessárias.
