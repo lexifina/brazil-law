@@ -1,0 +1,24 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Seba Sociedade de Advogados e outros, com amparo nas alíneas "a" e "c" do inciso III do art. 105 da CF/88, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado(e-STJ, fls. 484-485):
+TRIBUTÁRIO E PREVIDENCIÁRIO. IMUNIDADE TRIBUTÁRIA. INSTITUIÇÃO BENEFICENTE DE ASSISTÊNCIA SOCIAL.REQUISITOS DE CONSTITUIÇÃO E FUNCIONAMENTO DA ENTIDADE.LEI ORDINÁRIA. ARTIGO 55 DA LEI Nº 8.212/91. ARTIGO 14 DO CTN.RE Nº 566.622/RS, EM REPERCUSSÃO GERAL, DETERMINANDO A OBSERBVÂNCIA DA LEI COMPLEMENTAR. COMPROVAÇÃO DOS REQUISITOS EXIGIDOS DO ARTIGO 14 DO CTN. BENEFÍCIO RECONHECIDO. COA DESCONSTITUIDA.
+1. Cabível, na espécie, a retratação a fim de adequar o v. acórdão recorrido aos termos da decisão proferida pelo C. STF em sede repercussão geral, a teor do disposto no artigo 543-B, §3º do CPC/73.
+2. O Supremo Tribunal Federal, no julgamento do RE nº 566.622, em sede de repercussão geral, firmou o entendimento no sentido de que "IMUNIDADE - DISCIPLINA - LEI COMPLEMENTAR. Ante a Constituição Federal, que a todos indistintamente submete, a regência de imunidade faz-se mediante lei complementar.".
+3. O e. Ministro-Relator Marco Aurélio consigna no voto que: "  .. Isso não significa que as entidades beneficentes não devam ser registradas em órgãos da espécie ou reconhecidas como de utilidade pública. O ponto é que esses atos, versados em lei ordinária, não podem ser, conforme o artigo 146, inciso 11, da Carta, constitutivos do direito à imunidade, nem pressupostos anteriores ao exercício deste.". 4. O STF entende que as entidades devem estar registradas em órgãos da espécie ou ser reconhecidas como de utilidade pública.
+5. No caso concreto, diante desse novel entendimento, ficou comprovado que a embargante encontra-se, há décadas, registrada no ConselhoNacional de Assistência Social do Ministério da Previdência Social, bem corno tem declaração municipal de utilidade pública, preenchendo. assim, o que preconiza o RE 566.622, decidido com repercussão geral. sendo suficientes para o reconhecimento do beneficio.
+6. Verba honorária cm favor da embargante no valor de R$ 2.000,00, corrigida desde a data do julgamento do acórdão.
+Os embargos de declaração opostos por ambas as partesforam rejeitados.
+Em suas razões, a parte recorrente levanta prefacial de ofensa ao art. 1.022, II, do CPC/2015, aduzindo omissão quanto aos critérios de fixação de honorários advocatícios a seu favor.
+No mérito, aponta violação doarts. 85, § 3º, do CPC/2015, aduzindo a impossibilidade de arbitramento da verba honorária por equidade quanto houver efetiva mensuração do valor da causa.
+Contrarrazões recursais apresentadas às e-STJ, fls. 609-613.
+Admitido o recurso especial na origem (e-STJ, fls. 615-619), subiram os autos a esta Corte.
+É o relatório.
+A parte recorrente aduz omissão no aresto impugnado, concernente aos critérios de fixação de honorários advocatícios em seu favor, tendo em vista ter sido vencedora da demanda.
+Dos autos, observa-se haver, de fato, a apontada contrariedade ao art. 1.022, II, do CPC/2015, na medida em que a Cortea quonão respondeu ao questionamento formulado pela então embargante.
+Sobre o tópico, assim registrou o acórdão que julgou o recurso de apelação da contribuinte: "Ante o exposto e, em juízo de retratação, na forma do disposto no artigo 543-13, §3º do CPC/73, dou provimento à apelação para desconstituir a CDA 31.913.060-6 (fl. 136), fixando a verba honorária em favor da embargante no valor de R$ 5.000,00 (cinco mil reais)" (e-STJ, fl. 399).
+Em seguida, é do próprio relatório dos embargos de declaração a seguinte passagem:
+Sustenta Febasp - Associação Civil, em síntese, que o acórdão apresentou obscuridade quanto ao diploma processual civil utilizado para parametrizar o valor arbitrado a titulo de honorários advocatícios sucumbenciais;omissão quanto à forma de sua quantificação e, erro material com relação à aplicação da norma contida no parágrafo 8º do artigo 85 do Código de Processo Civil de 2015 ao invés do parágrafo 3º do referido artigo.(e-STJ, fl. 453).
+Nota-se, portanto, que o Tribunal de origem foi provocado acerca do tema, não tendo, contudo, exarado consideração alguma acerca do questionamento levantado pela ora recorrente quanto aos critérios objetivos utilizados para fixação dos honorários advocatícios.
+Desse modo, tendo o acórdão combatido deixado de analisar matéria de relevância para o deslinde da controvérsia, impõe-se o reconhecimento de sua nulidade.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, assim como na Súmula 568/STJ, douprovimento ao recurso especial, nos termos da fundamentação, para anular o acórdão dos embargos de declaração e determinar o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, acerca do alegado.
+Publique-se. Intimem-se.
