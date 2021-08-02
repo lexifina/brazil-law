@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por HERNANI CARDOSOcontra acórdão da eg. Terceira Turma desta Corte, assim ementado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO.AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEVER DE INFORMAR.CORREÇÃO DE RUMOS DA ORIENTAÇÃO QUE VINHA SENDO ENDOSSADA POR ESTA TURMA. DEVER QUE SE AFIGURA EXCLUSIVAMENTE DO ESTIPULANTE, NA CONDIÇÃO DE REPRESENTANTE DO GRUPO DE SEGURADOS, POR OCASIÃO DA EFETIVA ADESÃO DO SEGURADO. DOENÇA OCUPACIONAL QUE NÃO SE COMPRAZ COM IFPD OU IFPA.
+1. Esta Corte Superior vinha reconhecendo que o dever de informação em relação às cláusulas dos seguros de vida em grupo seria também da seguradora.
+2. No entanto, recentemente, quando do julgamento do REsp 1.825.716/SC, este Colegiado levou a efeito uma correção de rumos nas decisões sobre a matéria, decidindo que, no contrato de seguro coletivo em grupo cabe exclusivamente ao estipulante, e não à seguradora, o dever de fornecer ao segurado (seu representado) ampla e prévia informação a respeito dos contornos contratuais, no que se inserem, em especial, as cláusulas restritivas." (REsp 1825716/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2020, DJe 12/11/2020) 3. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1844583/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 18/03/2021)
+A parte embargante sustenta que o acórdão embargado diverge dos arestos lavrados no julgamento doAgInt no REsp 1.842.559/SC, doAgInt no REsp 1848053/SC, doAgInt no REsp 1.835.185/SC e doAgInt no REsp 1822031/SC (nas fls. 456).
+Nesse passo, assegura que "a decisão proferida nestes autos, atribuindo o dever de informação unicamente à estipulante diverge diretamente das decisões acima mencionadas, bem como afrontam a Lei Federal, inclusive o artigo 801, §1º do CC", pois "os julgados da 4ª Turma, diferentemente do acordão recorrido, empregaramentendimento contrário do próprio artigo 801, § 1º do CC, apontando ainda que na forma do dispositivo acima, a estipulante não representa a seguradora, pelo contrário, representa o grupo segurado (no dever de cumprimento das obrigações contratuais) perante a operadora" (na fl. 456).
+Requer o acolhimento dos embargos de divergência para que seja aplicado o entendimento adotado pelos arestos paradigmas.
+É o relatório.
+Passo a decidir.
+Os embargos de divergência são manifestamente inadmissíveis.
+Com efeito,o embargante não realizou o necessário cotejo analítico entre o acórdao embargado e os arestos paradigmas, de modo a demonstrar a semelhança entre as circunstâncias fáticas dos acórdãos confrontados, bem como a identidade jurídica neles existente, o que demonstra o desatendimento de requisito formal de conhecimento dos embargos.
+Ante o exposto, com fulcro no art. 266-C, do RISTJ, indefiro liminarmente os embargos de divergência.
