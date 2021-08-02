@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso, com pedido liminar, impetrado em benefício de JOSE ROBERTO MORAIS DOS SANTOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA no julgamento do HC n. 8010080- 71.2020.8.05.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 26/12/2019, convertido em preventiva, e restou denunciado pela suposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (tráfico de entorpecentes).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem, com recomendação, nos termos do acórdãoassim ementado:
+"HABEAS CORPUS. TRÁFICO DE DROGAS (ART. 33, , DA LEI 11.343/06). CAPUT ALEGATIVAS DE AUSÊNCIA DE FUNDAMENTAÇÃO E DOS REQUISITOS DA PRISÃO PREVENTIVA, FAVORABILIDADE DAS CONDIÇÕES SUBJETIVAS E POSSIBILIDADE DE APLICAÇÃO DE CAUTELARES DIVERSAS. NÃO CONHECIMENTO. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA IMPRESCINDÍVEL PARA O EXAME DAS MATÉRIAS. ARGUIÇÃO DE RISCOS DECORRENTES DA PANDEMIA PROVOCADA PELO CORONAVÍRUS. IMPOSSIBILIDADE DE SE AFERIR SE A MATÉRIA FOI APRECIADA PELO JUÍZO DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. ALEGAÇÃO DE EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. INALBERGAMENTO. INCIDÊNCIA DO PRINCÍPIO DA RAZOABILIDADE. PRAZOS RELATIVIZADOS PELO CONTEXTO DA PANDEMIA. ORDEM PARCIALMENTE CONHECIDA E, NESTA EXTENSÃO, DENEGADA, recomendando ao Magistrado a quo que imprima celeridade na conclusão dofeito, bem como reavalie a constrição cautelar do paciente, nos termos do art. 316, parágrafo único, do CPP, além da determinação do TJBA e da Recomendação do CNJ, notadamente no que concerne à alegada existência de comorbidades que o incluam no grupo de risco da covid-19" (fls. 14/15).
+No presente writ, alega excesso de prazo para a formação da culpa, destacando que a prisão do paciente já dura quase 1 ano, sem que haja previsão de encerramento do feito. Aponta defesa não deu causa à demora observada nos autos.
+Afirma que a determinação de celeridade pelo Tribunal de origem não foi cumprida, visto que até a presente data não foi julgado o feito, nem tampouco reavaliada a prisão preventiva do paciente, nos termos do art. 316 do CPP.
+Ressalta as condições pessoais favoráveis do paciente e destaca a excepcionalidade da custódia antecipada. Afirma que o crime imputado não envolve violência ou grave ameaça e a quantidade da droga apreendida não justifica a custódia antecipada.
+Pondera que o paciente está inserido no grupo de risco de agravamento da COVID-19 e faz jus à prisão domiciliar, nos termos da Recomendação n. 62/2020 do CNJ.
+Indica ofensa ao art. 316 do CPP, afirmando não ter sido realizada a reavaliação da prisão preventiva do paciente, no prazo legal, visto que a prisão já dura mais de 311 dias, sem que tenha sido revista.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva, ainda que mediante imposição de medidas cautelares previstas no art. 319 do Código de Processo Penal, ou sua substituição por custódia domiciliar.
+A liminar foi indeferida às fls. 234/236. Informações prestadas às fls. 244/285. O Ministério Público Federal opinou pelo não conhecimento dowritem parecer acostado às fls. 291/297. Indeferidos os pedidos de reconsideração às fls. 298/299 e 313/314.
+É o relatório.
+Decido.
+O pedido está prejudicado.
+Isso porque, em consulta à página eletrônica do Tribunal de origem, verifica-se que, em 6/6/2021, na Ação Penal n. 0500007-32.2020.8.05.0126, o paciente foi condenado àpenade 1 anoe 8 meses de reclusão,em regime aberto, e pagamento de 90 dias-multa, pela prática dos delitos previstos no art. 33, caput,da Lei n. 11.343/2006, ocasião em que a reprimenda corporal foi substituída por duas restritivas de direito, tendo sido concedido o direito de recorrer em liberdade e determinada a expedição de alvará de soltura em seu favor.
+Desse modo, constata-se a perda superveniente do objeto do presente mandamus.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
