@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de pedido liminar em habeas corpus impetrado em benefício de HEBERTON VIEIRA GREGOL, em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+"EMENTA - HABEAS CORPUS - TRÁFICO DE DROGASPRETENSÃODERECORREREMLIBERDADECONTRASENTENÇACONDENATÓRIA QUE DECRETOU A PRISÃO PREVENTIVA - REITERAÇÃODE PEDIDO - PLEITOS IDÊNTICOS - INEXISTÊNCIA DE FATO NOVO - INADMISSIBILIDADE - WRIT NÃO CONHECIDO.
+A impetração de novo habeas corpus, com a mesma argumentação e sem a apresentação de fatos novos que pudessem implicar em modificação do entendimento anteriormente exarado, caracteriza-se como mera reiteração do pedido, sem possibilidade de ser analisado, razão pela qual, nessas circunstâncias, não se conhece do pedido" (fl. 20).
+Postula o impetrante em síntese:
+"- Que no início da lide, conceda a medida liminar em favor do paciente, para que CASSE O ARESTO e se suspenda a parte da sentença que determinou o recolhimento do réu para recorrer, expedindo-lhe o necessário salvo-conduto, até haver decisão definitiva a respeito deste "mandamus";
+- Que no mérito, digne-se em CONCEDER A IMPETRAÇÃO AQUI APRESENTADA, PARA O FIM DE SER DETERMINADA A CASSAÇÃO DO ARESTO e A SUSPENSÃO DA SENTENÇA NA PARTE QUE PROIBIU O PACIENTE DE RECOLHER EM LIBERDADE, assegurando-lhe o direito de recorrer em liberdade até decisão definitiva na ação, e assim possa progredir de regime;
+- Que lhe seja concedido o direito de progressão de regime conforme preceitua o art. 112, caput, da Lei de Execução Penal, que determina que a pena privativa de liberdade será executada em forma progressiva, com a consequente transferência para regime menos rigoroso, vez que o apenado já cumpriu 59% da pena que lhe foi imposta sendo que desde já se compromete a cumprir fielmente as condições que lhe forem impostas; -Que seja comunicado o Exmo Sr. Juiz da 1ª Vara de Execução Penal de Campo Grande Estado de Mato Grosso do Sul para cumprimento de transmissão de regime fechado para o menos gravoso semiaberto, com a imediata transferência para o Centro Penal Agroindustrial da Gameleira de Regime Semiaberto" (fl. 7).
+É o relatório.
+Decido.
+Verifica-se no v. acórdão impugnado que a questão aqui tratada não foi analisada pelo eg. Tribunal de origem, sob o fundamento de que "Em consulta ao Saj/TJMS, constata-se que o paciente, representado pela mesma advogada, já impetrou outro habeas corpus anterior, sendo a ordem denegada, com a seguinte ementa (HC 1415878-72.2020.8.12.0000, julgado em 08 de janeiro de 2021, pela 1ª Câmara Criminal" (fl. 22).
+Desta forma, se o eg. Tribunal a quo não se manifestou acerca da quaestio ventilada na presente impetração, fica impedida esta Corte de proceder à sua análise, sob pena de indevida supressão de instância.
+Nesse sentido é o entendimento das Turmas que compõem a Terceira Seção desta eg. Corte de Justiça, in verbis:
+"PROCESSUAL PENAL. HABEAS CORPUS. FALSIDADE IDEOLÓGICA. EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. SUSPENSÃO CONDICIONAL DO PROCESSO. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS DENAGADO.
+ ..
+5. A tese relativa à suspensão condicional do processo ainda não foi objeto de julgamento pelo Tribunal de origem, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância.
+6. Habeas corpus denegado." (HC 393.684/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 16/08/2017, grifei)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. AMEAÇA. FALTA DE JUSTA CAUSA. AUSÊNCIA DE AUDIÊNCIA DE CONCILIAÇÃO. NULIDADE PROCESSUAL. SUPRESSÃO DE INSTÂNCIA. SUBSTITUIÇÃO DA PENA. REINCIDÊNCIA. EXECUÇÃO IMEDIATA DA PENA. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As alegações de falta de justa causa para a ação penal relativas ao porte ilegal de arma de fogo de uso permitido e de nulidade processual, por não haver sido realizada audiência de conciliação para composição civil entre o réu e as vítimas, não foram analisadas pelo Tribunal estadual, de forma que seu exame diretamente por esta Corte Superior importaria em indevida supressão de instância.
+ .. 5. Agravo regimental não provido." (AgRg no HC 382.949/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 24/05/2017, grifei).
+Ante o exposto, com fulcro no art. 34, XX, e art. 210, ambos do RISTJ, indefiro liminarmente o processamento do presente writ.
+P. I.
