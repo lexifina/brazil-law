@@ -1,0 +1,36 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. CUMPRIMENTO DE SENTENÇA. PENHORA DE BEM DOS FIADORES. ALEGAÇÃO DE SE TRATAR DE BEM DE FAMÍLIA. REJEIÇÃO. PRECLUSÃO. REABERTURA DA DISCUSSÃO. DESCABIMENTO. AGRAVO DE INSTRUMENTO E AGRAVO INTERNO DESPROVIDOS. DECISÃO MANTIDA.
+    1. Nos termos dos arts. 505 e 507 do CPC, nenhum juiz decidirá novamente as questões já decididas relativas à mesma lide, sendo vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão.
+    1.2. No caso, a questão referente à impenhorabilidade do bem de família foi decidida em pronunciamento jurisdicional anterior e, uma vez que em manifestações processuais posteriores não foi suscitada tal matéria, a respeito desse ponto operou-se a preclusão.
+    1.3. Importante observar que mesmo as matérias de ordem pública se sujeitam à preclusão pro judicato, ou seja, caso o julgador tenha se manifestado sobre o tema, sobre o qual a parte não interpôs qualquer recurso, encerra-se a possibilidade de manifestação judicial acerca daquele assunto.
+    2. Agravo de instrumento e agravo interno desprovidos.
+    No recurso extraordinário sustenta-se violação do art. 6º da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    Cumpre observar, em primeiro lugar, que o presente pleito configura nítida tentativa de reapreciação de tema já enfrentado e decidido conforme decisão de 03 de agosto 2017 (ID 35237765 dos autos principais), tendo sido rejeitada a impugnação dos devedores acerca da sustentada e ora reiterada impenhorabilidade do bem.
+    De fato, assim restou registrado naquele decisum:
+    [...]
+    Após a publicação da decisão acima mencionada, os ora agravantes interpuseram embargos de declaração, alegando que a decisão seria omissa, uma vez que manteve a cobrança de valores não tratados na demanda e, “sobretudo, não englobados no acordo, que é alvo de cumprimento” (ID 35237768 dos autos principais).
+    De se ver que, nessa ocasião, não houve qualquer insurgência acerca de eventual impenhorabilidade decorrente da natureza de bem de família do imóvel constrito.
+    Os embargos de declaração foram desprovidos e, na sequência, a Secretaria da Vara certificou que a decisão embargada restou preclusa. Assim, foi determinada a expedição de mandado para renovação da diligência de avaliar o imóvel (ID 35237768 – p. 16).
+    Examinando-se os autos principais, contudo, constata-se que foi interposto agravo de instrumento, registrado sob nº 0712974-66.2017.8.07.0000, distribuído ao Des. Carlos Divino Vieira Rodrigues, que não concedeu efeito suspensivo ao recurso.
+    Sobre a matéria tratada no referido agravo de instrumento, assim consignou aquele Relator:
+    Em suas razões recursais, alegam que agravada busca o recebimento de valores que escapam do acordo homologado em juízo, que reconheceu a dívida em R$ 321.043,08. Defendem que os débitos vencidos após o acordo não podem ser alvo deste cumprimento de sentença e que a transação deve ser interpretada restritivamente, não englobando parcelas vincendas.
+    Sustentam que a transação implicou na novação da dívida e extinguiu a garantia pessoal, de modo que os dois primeiros agravantes passaram a figurar como devedores solidários e não mais como fiadores.
+    Logo, se observa que os ora agravantes não suscitaram qualquer alegação a respeito de se tratar de bem de família o imóvel penhorado, tendo tal argumentação, portanto, precluído.
+    Assim, a matéria apresentada configura nova e inoportuna tentativa de rediscussão de tema, em sede recursal, já sob o pálio da preclusão, na forma prevista nos artigos 505 e 507, do CPC, em nítida pretensão de rediscutir questões já superadas e sobre as quais não se mostra mais possível se debater.
+    Não é possível nova manifestação judicial sobre questão já decidida, ainda que se trate de matéria de ordem pública, em razão da ocorrência da preclusão pro judicato.
+    Como cediço, a preclusão apresenta-se como instituto fundamental para o bom desenvolvimento do processo, limitando o exercício abusivo dos poderes processuais das partes, para evitar o retrocesso e a insegurança jurídica, conforme estabelecem os artigos 505 e 507 do CPC.
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo e Previdenciário. Servidor estadual. Previdência complementar. Adesão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional, bem como do conjunto fático-probatório dos autos. Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.210.720/SP - AgR, Tribunal Pleno, Min. Rel. Dias Toffoli (Presidente), DJe de 18/09/19).
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 518.895/MG-AgR, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ de 15/4/5).
+    No mesmo sentido: RE nº 1.231.979/RJ - ED, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 18/12/19; RE nº 1.173.779/RS-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 31/5/19 e RE nº 832.960/DF-AgR, Primeira Turma, Rel. Min Luiz Fux, DJe de 21/5/19.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 2 de agosto de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
