@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por NUTRIMIX INDUSTRIA E COMERCIO DE ALIMENTOS LTDA, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão doSuperior Tribunal de Justiça, assim ementado (e-STJ fl. 469):
+ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. TRANSPORTE DE CARGA EM RODOVIAS FEDERAIS. EXCESSO DE PESO. PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS COLETIVOS. PRETENSÃO DA PARTE AUTORA QUE ENCONTRA GUARIDA NA JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Decorre o presente recurso de ação civil pública objetivando a condenação da ré à abstenção, definitiva, de promover a saída de mercadorias e veículos de carga de seus estabelecimentos comerciais, ou de estabelecimentos de terceiros, contratados a qualquer título, com excesso de peso, sob pena de cominação de multa, bem como a condenação da ré ao ressarcimento de danos materiais e morais.
+2. O acórdão recorrido laborou com as seguintes premissas: (i) não cabe condenação em obrigação de não fazer, pois a mesma conduta é regulada pelo Código de Trânsito Brasileiro; (ii) não há prova de danos materiais decorrentes do tráfego com excesso de peso; e (iii) não é cabível a reparação por danos materiais coletivos.
+3. Ao decidir nesses termos, a Corte de origem laborou em dissonância com a jurisprudência desta Corte, segundo a qual (i) é cabível ação civil pública objetivando a reparação danos materiais e morais coletivos, bem assim a imposição de obrigação de não fazer de trafegar com excesso de peso nas rodovias; e (ii) os danos são notórios, dispensando comprovação.
+4. Com o afastamento dos fundamentos do aresto recorrido, os autos devem retornar à Corte de origem para que prossiga no exame da causa, mormente porque inexistente nesse acórdão informações sobre o número de infrações atribuídas à ora agravante.
+5. Agravo interno não provido.
+Sustenta arecorrente que estariapresente a repercussão geral da questão tratada, dado que teria havidoviolação dos arts. 2º, caput,5º, incisos II e XXXIX, 22, inciso IX, e 37, caput,todos da Constituição Federal.
+Aponta que,ao fixarmultapelo tráfego com excesso de peso em rodovias federais, teria havidousurpação de competência do Poder Legislativo pelo Poder Judiciário, uma vezque já existem multas previstas para excesso de carga em veículos no Código de Trânsito Nacional, o que configurariabis in idem.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Contrarrazões às e-STJ fls. 511-518.
+É o relatório.
+Compulsando-se os autos, verifica-se que a controvérsia cinge-se à questão do cabimento de ação civil pública objetivando a reparação danos materiais e morais coletivos, além da imposição de obrigação de não fazer,estando o acórdão recorrido assim fundamentado (e-STJ fls. 473-480):
+Conforme pontuado na decisão agravada, as questões trazida pelo Ministério Público Federal são unicamente de direito, a saber: (i) cabimento de ação civil pública contra empresas que utilizam veículos com excesso de cargas, a despeito da sanção específica existente no Código de Trânsito Brasileiro; e (ii) necessidade de demonstrar que tal prática causa danos às estradas de rodagem.
+Nessas circunstâncias, não cabe falar na incidência da Súmula 7/STJ.
+Superada essa preliminar, o recurso foi provido porque o acórdão recorrido está em dissonância com a jurisprudência desta Corte de que é cabível ação civil pública objetivando a reparação danos materiais e morais coletivos, bem assim a imposição de obrigação de não fazer de trafegar com excesso de peso nas rodovias.
+Ademais, pontou-se que os danos decorrentes da circulação de veículos com excesso de peso são notórios, dispensando comprovação.
+Assim, afastou-se os fundamentos utilizados no acórdão recorrido para que a Corte de origem retome o julgamento das apelações interpostas, oportunidade em que será avaliado se o comportamento da empresa ora agravante efetivamente se mostra antijurídico.
+Como a parte agravante não trouxe argumentos suficientes para infirmar os fundamentos da decisão agravada, o seu teor deve ser reiterado:
+Quanto ao recurso especial, prospera a insurgência.
+Antes de entrar no mérito, deve ser afastada a preliminar de incidência da Súmula 7/STJ apresentada nas contrarrazões, pois os temas em discussão no recurso especial são exclusivamente de direito.
+Na sequência, cumpre esclarecer que não há necessidade de exame da violação ao art. 1.022 do CPC/2015, pois a matéria em discussão no recurso especial foi suficientemente prequestionada.
+Quanto ao mérito, temos que o acórdão recorrido laborou com as seguintes premissas: (a) não cabe condenação em obrigação de não fazer, pois a mesma conduta é regulada pelo Código de Trânsito Brasileiro; (b) não há prova de danos materiais decorrentes do tráfego com excesso de peso; e (c) não é cabível a reparação por danos materiais coletivos.
+Ao decidir nesses termos, a Corte de origem laborou em dissonância com a jurisprudência desta Corte, segundo a qual (i) é cabível ação civil públicaobjetivando a reparação danos materiais e morais coletivos, bem assim a imposição de obrigação de não fazer de trafegar com excesso de peso nas rodovias; e (ii) os danos são notórios, dispensando comprovação.
+ ..
+Considerando que o acórdão recorrido não informa o número de infrações por excesso de peso atribuídas à ora recorrida - circunstância que impede o completo julgamento das questões aqui trazidas -, é de se prover o recurso especial para reformar o acórdão recorrido, nos termos da Súmula 568/STJ, determinando-se o retorno dos autos à Corte de origem para que prossiga no exame dos recursos de apelação, como de direito.
+Desse modo, a análise da matéria ventilada depende do exame da Lei n. 7.347/1985, dos arts. 186, 187 e 927 do Código Civil e do Código de Trânsito Brasileiro, razão pela qual eventual ofensa à Constituição Federal, se houvesse, seria reflexa ou indireta, não legitimando a interposição do apelo extremo.
+Ademais, para afastar os pressupostos fáticos adotados no julgamento do recurso seria indispensável o reexame dos elementos de convicção existentes nos autos, o que não é permitido em recurso extraordinário, diante do óbice contido no enunciado 279 da Súmula do Supremo Tribunal Federal,in verbis:
+"Para simples reexame de prova não cabe recurso extraordinário."
+Em casos semelhantes, assim tem decidido a Corte Suprema:
+DIREITO ADMINISTRATIVO. SEGUNDO AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO CIVIL PÚBLICA. AUSÊNCIA DE QUESTAO CONSTITUCIONAL. SÚMULA 279/STF. 1. A resolução da controvérsia demanda a análise da legislação infraconstitucional aplicada ao caso, bem como o reexame de fatos e provas constantes dos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. Precedentes. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível condenação em honorários advocatícios (arts. 17 e 18 da Lei nº 7.347/1985). 3. Agravo interno a que se nega provimento.
+(ARE 1162069 AgR-segundo, Relator(a): ROBERTO BARROSO, Primeira Turma, julgado em 12/04/2019, PROCESSO ELETRÔNICO DJe-086 DIVULG 25-04-2019 PUBLIC 26-04-2019)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA AMBIENTAL. ASTREINTES. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(AI 745730 AgR, Relator(a): CÁRMEN LÚCIA, Primeira Turma, julgado em 21/06/2011, DJe-160 DIVULG 19-08-2011 PUBLIC 22-08-2011 EMENT VOL-02570-04 PP-00648)
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. AÇÃO CIVIL PÚBLICA. TRANSPORTE DE CARGA EM RODOVIAS FEDERAIS. EXCESSO DE PESO.INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS COLETIVOS.MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ENUNCIADO 279 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
