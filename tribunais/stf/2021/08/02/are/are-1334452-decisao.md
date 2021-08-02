@@ -1,0 +1,27 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    “ADMINISTRATIVO. LICITAÇÃO. PRESTAÇÃO DE SERVIÇOS POSTAIS. MONOPÓLIO ESTATAL. ECT. TRANSPORTE DE DOCUMENTOS E PEQUENAS CARGAS. ILEGALIDADE DO OBJETO CONTRATADO. MULTA DIÁRIA. APLICÁVEL SOMENTE EM CASO DE DEMORA INJUSTIFICADA NO CUMPRIMENTO DA OBRIGAÇÃO. DANOS MATERIAIS. NÃO COMPROVADOS. SUCUMBÊNCIA RECÍPROCA. APELAÇÕES E REMESSA NECESSÁRIA DESPROVIDAS.
+    1. Trata-se de ação ajuizada pela Empresa Brasileira de Correios e Telégrafos - ECT com o fito de obter a anulação do contrato decorrente do Pregão Eletrônico n° 03/2009 - referente à prestação de serviços de motofrete para o transporte de documentos e pequenas cargas - bem como a fixação de pena de multa em caso de descumprimento da decisão e a condenação ao ressarcimento de danos materiais.
+    2. O Decreto-lei n.° 509/69, recepcionado pela Constituição da República de 1988, que criou a Empresa Brasileira de Correios e Telégrafos - ECT, atribuiu-lhe a prestação dos serviços postais em território nacional, sob o regime de exclusividade (arts. 1° e 2°, inciso I).
+    3. No caso em apreço, a atividade licitada é sobremaneira ampla e irrestrita, alcançando as atividades que se encontram sobre o monopólio estatal, e que se inserem no conceito legal de carta, tal como previsto no artigo 47 da Lei n° 6.538/78.
+    4. O fato de os documentos serem transportados por moto não exclui a prestação do serviço em questão do campo de incidência da exclusividade postal da União, da mesma maneira, o edital não faz menção à agilidade na prestação do serviço por meio de motocicleta, de sorte que não ficou evidenciado que o serviço prestado pela ECT não atenda às necessidades da contratante.
+    5. Diante da ilegalidade do procedimento licitatório, é de rigor a anulação da contratação decorrente do Pregão Eletrônico n° 003/2009, realizado pela Fazenda Pública do Estado de São Paulo.
+    6. É cediço inexistir óbice à imposição de multa diária em face da Administração Pública, no entanto, a sua aplicação ocorrerá somente na hipótese de demora injustificada no cumprimento da obrigação.
+    7. Não há se falar em ressarcimento por danos materiais, pois a parte autora nada comprovou nos autos acerca de eventuais prejuízos por ela suportados.
+    8. Sucumbência recíproca.
+    9. Precedentes.
+    10. Apelações e remessa necessária desprovidas”.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 21, XXIII e 177, todos da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo e Previdenciário. Servidor estadual. Previdência complementar. Adesão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional, bem como do conjunto fático-probatório dos autos. Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.210.720/SP - AgR, Tribunal Pleno, Min. Rel. Dias Toffoli (Presidente), DJe de 18/09/19).
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 518.895/MG-AgR, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ de 15/4/5).
+    No mesmo sentido: RE nº 1.231.979/RJ - ED, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 18/12/19; RE nº 1.173.779/RS-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 31/5/19 e RE nº 832.960/DF-AgR, Primeira Turma, Rel. Min Luiz Fux, DJe de 21/5/19.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 2 de agosto de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
