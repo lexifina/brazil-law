@@ -1,0 +1,18 @@
+D E C I S Ã O
+    Trata-se de habeas corpus, com pedido de medida liminar, impetrado contra acórdão do Superior Tribunal de Justiça assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. ART. 1.º DA LEI N. 8.176/1991 C.C. O ART. 7.º, INCISO IV, DA LEI N. 8.137/1990. ACORDO DE NÃO PERSECUÇÃO PENAL. LEI N. 13.964/2019. DENÚNCIA RECEBIDA. APLICAÇÃO RETROATIVA DO ART. 28-A DO CÓDIGO DE PROCESSO PENAL. DESCABIMENTO. ALEGADA EXISTÊNCIA DE CONFISSÃO FORMAL DA PRÁTICA DELITUOSA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA. IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INEXISTÊNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+    1. O princípio da dialeticidade impõe ao Agravante o ônus de demonstrar o desacerto da decisão agravada. No caso, a Parte Agravante não impugnou os fundamentos da decisão agravada, pois se limitou a reiterar as alegações meritórias ventiladas nas razões do recurso ordinário, deixando, portanto, de demonstrar o desacerto do decidido monocraticamente, com elementos de fato e razões de direito, na medida da decisão ora impugnada.
+    2. Nos termos da jurisprudência desta Corte, "em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira clara, objetiva, específica e pormenorizada todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos (AgRg no AREsp 1.262.653/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/05/2018)" (AgRg no AREsp 618.056/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/06/2018, DJe 01/08/2018).
+    3. Segundo reiteradas manifestações deste Superior Tribunal, nos casos em que a decisão monocrática afasta a alegação com base na jurisprudência firmada desta Corte, deve a parte, no agravo regimental, indicar precedentes contemporâneos ou supervenientes aos referidos na decisão agravada para demonstrar que outra é a orientação jurisprudencial prevalente no Superior Tribunal de Justiça, ou mesmo, que cada um daqueles precedentes que embasaram a decisão não possuem pertinência com o caso posto em discussão.
+    4. Agravo regimental não conhecido.”
+    (RHC 145.495-AgRg/RJ, Ministra Laurita Vaz)
+    Em suas razões, a parte impetrante pretende, em síntese, “TRANCAR A AÇÃO PENAL PÚBLICA INCONDICIONADA, em face do denunciado MESAQUE DOS ANJOS, ante a ausência de JUSTA CAUSA, bem como pressuposto processual do INTERESSE PROCESSUAL, haja vista ter sido recebida a denúncia ministerial, em detrimento da aplicabilidade do acordo de não persecução penal , previsto no artigo 28 – A do CPP “.
+    De plano, insta destacar, que a matéria relativa à retroatividade do acordo de não persecução penal (ANPP), previsto no art.28-A do CPP, com a redação dada pela Lei nº 13.964/2019, encontra-se afetada ao Plenário desta Suprema Corte, nos autos do HC 185.913/DF, de relatoria do Ministro Gilmar Mendes.
+    Tal o contexto e abstendo-me de qualquer pronunciamento acerca do mérito do pedido, a mim me parecem ausentes os requisitos necessários à concessão da medida liminar pleiteada.
+    Em casos fronteiriços, Ministros desta Suprema Corte têm indeferido medidas liminares requeridas em habeas corpus com fundamento na carência de demonstração de probabilidade do direito invocado e de perigo da demora. Ilustram essa orientação as seguintes decisões: HC 190.587-MC/MG, Ministro Celso de Mello; HC 190.943-MC/PR, Ministro Edson Fachin; HC 191.847-MC/AC, Ministra Cármen Lúcia.
+    Em face do exposto, indefiro o pedido de medida liminar.
+    Vista ao Ministério Público Federal.
+    Intime-se. Publique-se.
+    Brasília, 02 de agosto de 2021.
+Ministro NUNES MARQUES
+Relator
