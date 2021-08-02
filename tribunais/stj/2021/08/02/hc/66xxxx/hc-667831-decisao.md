@@ -1,0 +1,2 @@
+DECISÃO
+Solicitem-se, com urgência e via telegrama, informações atualizadas e pormenorizadas ao d. juízo de primeiro grau, bem como aoeg. Tribunal de Justiça do Estado do Amapá -notadamente quanto ao andamento do habeas corpus originário -, com envio, ainda, de senha para consulta no sítio eletrônico da eg. Corte Estadual. Informaçõesa serem prestadas, preferencialmente, pela Central de Processo Eletrônico - CPE do STJ.
