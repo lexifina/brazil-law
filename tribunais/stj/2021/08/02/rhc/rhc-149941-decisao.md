@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por LUIS FERNANDO DA SILVA SOARES JUNIOR contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta nos autos que o recorrente teve sua prisão preventiva decretada em 25/10/2018, e denunciado, juntamente com outros 3 agentes, pela suposta prática dos delitos tipificados no art. 121, caput, I e IV, c/c o art. 14, II, e com o art. 29, caput, todos do Código Penal.
+A defesa impetrou habeas corpus perante o TJRS, que denegou a ordem em acórdão assim ementado:
+"HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO TENTADO. LEGALIDADE. EXCESSO DE PRAZO.
+A gravidade do fato cuja prática é imputada ao paciente (em razão de disputas envolvendo facções criminosas, autorizou que os corréus atentassem contra a vida da vítima, mediante disparos de arma de fogo) revela a índole violenta do agente e dos corréus, e a presença de concreto risco à ordem pública, a ensejarem a segregação cautelar.
+O risco de reiteração delitiva constitui fundamento idôneo à prisão cautelar, com o que, ostentando o paciente três condenações anteriores pela prática de tráfico de drogas e porte ilegal de arma de fogo e figurando como réu outras seis ações penais pela prática de homicídios qualificados, lavagem de dinheiro, organização criminosa e tráfico de drogas, além de integrar conhecida facção criminosa, resulta reforçada a essencialidade da prisão preventiva.
+Não obstante date a prisão de 30 de outubro de 2018, a complexidade do feito, a envolver homicídio tentado praticado por quatro agentes no âmbito de facção criminosa dedicada à narcotraficância, aliada à superveniência da pandemia da SARS-CoV-2, deixa antever que não se está diante de injustificada dilação de prazos processuais, não havendo cogitar de excesso de prazo na formação da culpa.
+ORDEM DENEGADA" (e-STJ, fl. 551).
+Neste recurso, a defesa alega, em síntese, a ausência de fundamentos para o decreto preventivo do réu, porquanto o acórdão atacado apenas reproduz as justificativas das decisões do primeiro grau, sem apresentar motivação específica quanto aos argumentos da impetração.
+Aduz a ausência de contemporaneidade dos motivos da prisão preventiva decretada inicialmente, que o recorrente está custodiado por este processo há 918 dias sem nenhum elemento recente que justifique a manutenção da sua prisão, destacando que ele está em cumprimento de pena ininterrupto desde 03/05/2018, sem cometimento de faltas e sem novos elementos que justifiquem sua permanência no cárcere.
+Aduz que a gravidade do delito por si só não pode servir indefinidamente de base para ao decreto preventivo por fato ocorrido em novembro de 2016.
+Assevera, ainda, a ocorrência de constrangimento ilegal decorrente do excesso de prazo, encontrando-se o recorrente custodiado há mais de dois anos e seis meses sem previsão de data para o encerramento do feito em razão da pendência de oitiva de nove testemunhas de acusação, defesa e interrogatórios e em virtude da pandemia.
+Ao final, requer o provimento do recurso, inclusive liminarmente, para que seja reconhecido o alegado excesso de prazo e determinado o relaxamento da custódia do recorrente ou sua substituição por medidas cautelares alternativas.
+É o relatório.
+Decido.
+Em consulta à base de dados processuais desta Corte, verifica-se que este recurso em habeas corpus traz pedido igual ao deduzido no HC 664.363/RS e se insurge contra o mesmo acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (HC 0113588-77.2020.8.21.7000).
+O referido writ, inclusive, já foi julgado, em 5/5/2021, não tendo sido conhecido o habeas corpus, com recomendação, de ofício, ao Juízo de Direito da 2ª Vara do Tribunal do Júri da Comarca de Porto Alegre - RS, para que reexamine a necessidade da segregação cautelar, tendo em vista o tempo decorrido e o disposto na Lei 13.964/19. Preconiza-se, igualmente, celeridade.
+Desse modo, tratando-se de reiteração de processo anteriormente impetrado perante esta Corte, nego seguimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
