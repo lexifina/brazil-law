@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração (fls. 658/668 ) apresentados contra acórdão sintetizado na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. INADMISSÃO DO RECURSO ESPECIAL COM FUNDAMENTO NO ART. 1030, INCISO I, ALÍNEA B, DO CPC/2015. RECURSO CABÍVEL. AGRAVO INTERNO NA ORIGEM. AGRAVO INTERNO NÃO PROVIDO. 1. Nos termos d o art. 1.030, § 2º, do CPC/2015, o recurso cabível contra a decisão de negativa de seguimento ao recurso especial amparada no fundamento de que o acórdão recorrido está alinhado a entendimento exarado pelo STF ou pelo STJ sob a sistemática dos repetitivos é o agravo interno para o próprio Tribunal de origem. 2. A falta de impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial inviabiliza o conhecimento do agravo em recurso especial. Incidência na espécie, por analogia, da Súmula 182/STJ.3. Agravo interno não provido.
+O embargante sustenta, em suma, que:
+Senhores Ministros, segundo posto nas razões do agravo em REsp, o reclamo especial (REsp) fora inadmitido também com fulcro na alínea "c" do artigo 105, inciso III, da Constituição da República Federativa do Brasil. Nesse ponto, segundo o v. acórdão, não há qualquer referência sobre a possibilidade de se receber o recurso especial com fulcro no precitado permissivo constitucional e prevalecer o entendimento do acórdão paradigma. Aqui, importante considerar, os acórdãos paradigmas foram publicados após o julgamento do REsp 1.141.990/PR -tema 290-STJ e após a edição da Lei Complementar de nº 118/2005, noutras palavras, ainda há cidadãos brasileiros sendo tratados de forma desigual nos Estados-membros da Federação.
+(..)
+Senhores Ministros, mui respeitosamente, vem provocar o debate sobre a possibilidade de interpretação da lei infraconstitucional, em especial ao artigo 1.030, § 2º, do CPC/2015, mencionado no v. acórdão, à luz do princípio constitucional da dignidade da pessoa humana, da proporcionalidade e da razoabilidade em situações excepcionalíssimas, por exemplo, as que ora se analisa.
+(..)
+Daí, faz-se de suma importância provocar a Vossas Excelências para se manifestarem, in casu, se o v. acórdão afronta ou não a dignidade da pessoa humana, eis que a perda do bem ocasionará ao embargante prejuízo de difícil reparação, comprometendo sensivelmente sua pouca renda e, via reflexa, o seu sustento e de sua família, eis aí o liame entre o precitado princípio e o v. acórdão,no qual se negou provimento ao recurso defensivo.
+(..)
+Daí, faz-se de suma importância provocar a Vossas Excelências para se manifestarem, in casu, se o v. acórdão afronta ou não a dignidade da pessoa humana, eis que a perda do veículo ocasionará ao embargante prejuízos de difícil reparação, comprometendo sensivelmente sua pouca renda e, via reflexa, o seu sustento e de sua família, eis aí o liame entre o precitado princípio e o v. acórdão.
+(..)
+Excelências, com a devida vênia e para o fim de prequestionar a matéria, é importante esclarecer, expressamente,se houve ofensa à Constituição da República,também nesta Corte Superior,em especial, ao artigo37, caput,(princípio da publicidade)por parte da Administração Federal, isso porque a presunção de fraude à execução em relação a bem transferido a terceiro de boa-fé somente favorece o devedor fiscal,já que o mesmo sonega o tributo, aliena o bem, recebe o valor do terceiro de boa-fé e sobre ele nada recai, senão a cobrança judicial inócua (eis que dissipado o seu patrimônio).
+(..)
+A pretensão do embargante está em consonância à Súmula 07 deste Colendo Superior Tribunal de Justiça porque a sustentação da tese preserva o direito de pessoas leigas e sem instrução jurídica no momento da feitura do negócio jurídico e o Poder Judiciário não pode deixar essas minorias desassistidas a mercê de suas próprias ignorâncias, esse evento social e jurídico não fora tema de debate no precitado recurso representativo de controvérsia e, partindo desse entendimento, fora peticionado, em sede de recurso de apelação, em REsp e em recurso de agravo em REsp, a realização da interpretação jurídica da norma e relativização de paradigmas inflexíveis para salvaguardara dignidade da pessoa humana, em especial, dos pobres, incultos, incautos e necessitados de proteção jurídica.
+Requer sejam acolhidos os embargos.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece prosperar.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No acórdão embargado, o agravo interno não foi provido nos seguintes termos:
+A Corte de origem inadmitiu o recurso especial sob o fundamento do art. 1.030, inciso II, alínea b, do CPC/2015. Ocorre que, nos termos do art. 1.030, § 2º, do CPC/2015, o recurso cabível contra a decisão de negativa de seguimento ao recurso especial amparada no fundamento de que o acórdão recorrido está alinhado a entendimento exarado pelo STF ou pelo STJ sob a sistemática dos repetitivos é o agravo interno para o próprio Tribunal de origem. Nesse sentido:
+(..)
+No mais, a parte agravante não se desincumbiu do ônus de impugnar especificamente o fundamento da decisão de inadmissibilidade do recurso especial no sentido de incidir à espécie a Súmula 7/STJ, eis que se limitou a trazer argumentação genérica e reiterar as razões do apelo nobre. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo em recurso especial. A respeito:
+Como se verifica, o aresto embargado contém fundamentação suficiente para demonstrar que, nos termos do art. 1.030, § 2º, do CPC/2015, o recurso cabível contra a decisão de negativa de seguimento ao recurso especial amparada no fundamento de que o acórdão recorrido está alinhado a entendimento exarado pelo STF ou pelo STJ sob a sistemática dos repetitivos é o agravo interno para o próprio Tribunal de origem, bem como que a parte agravante não se desincumbiu do ônus de impugnar especificamente o fundamento da decisão de inadmissibilidade do recurso especial no sentido de incidir à espécie a Súmula 7/STJ.
+Desse modo, a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Nesse sentido: EDcl no AgRg no Ag 1.218.989/SP, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.5.2010; EDcl no REsp 1.118.103/SP, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 20.4.2010.
+Diante do exposto, REJEITO os embargos de declaração.
+É o voto.
