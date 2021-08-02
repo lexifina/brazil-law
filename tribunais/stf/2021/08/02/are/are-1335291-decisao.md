@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C/ COBRANÇA DE VENCIMENTOS RETROATIVOS. APELO INTERPOSTO PELO AUTOR. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE VENCIMENTAL DECORRENTE DE REESTRUTURAÇÃO DA CARREIRA. REAJUSTE DE 25%. LEI Nº 2.163/2009. ISONOMIA. APELO CONHECIDO E PROVIDO. SENTENÇA REFORMADA.
+    1. A isonomia vencimental é consectário lógico do regime jurídico dos servidores do quadro estadual da Secretaria da Fazenda, que institui o tempo de serviço como único critério de posicionamento dos servidores para fins de enquadramento em cargos idênticos (Lei nº 1.855/2007 – Plano de Cargos, Carreiras e Subsídios dos Profissionais da Saúde do Estado do Tocantins).
+    2. In casu, o reajuste de 25%, reclamado pelo autor da ação (ora apelante), foi concedido em 6 de dezembro de 2007, alterando a tabela de vencimentos prevista na Lei nº 1.534/2004, que reestruturou o plano de cargos, carreiras e subsídios dos servidores. A reestruturação vencimental atingiu todos os cargos do quadro efetivo, indistintamente, incluindo o de Analista Técnico Jurídico, que veio a ser ocupado pelo autor da ação em 20/03/2013. Embora a lei do reajuste tenha sido revogada por nova lei (nº 1.868/2007), o Estado celebrou acordo com o sindicato da categoria e revigorou, por meio da Lei nº 2.163/2009 a aplicação do reajuste revogado.
+    3. Os efeitos da nova aplicação, não podem ser individualizados e se limitar aos servidores em exercício quando de sua entrada em vigor. Aplicam-se, em verdade, a todos aqueles que eventualmente venham ocupar os cargos do referido quadro, isto porque, a Lei é para todos e atinge direta e indistintamente os cargos públicos, não apenas seus eventuais ocupantes.
+    4. “Não podem a lei, o decreto, os atos regimentais ou instruções normativas, e muito menos acordo firmado entre partes, superpor-se a preceito constitucional, instituindo privilégios para uns em detrimento de outros, posto que além de odiosos e iníquos, atentam contra os princípios éticos e morais que precipuamente devem reger os atos relacionados com a Administração Pública.” (STF MS 22509).
+    5. Apelo conhecido e provido. Sentença reformada.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 37, incisos X e XIII, da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário. Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJede 26/3/2018)
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJede 9/10/2020)
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 2 de agosto de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
