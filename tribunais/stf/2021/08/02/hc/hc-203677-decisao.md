@@ -1,0 +1,22 @@
+DECISÃO:
+EMENTA: Execução penal. Habeas corpus. Livramento condicional. Supressão de instâncias. Ausência de ilegalidade flagrante ou abuso de poder.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça (STJ), da Relatoria da Ministra Laurita Vaz, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 594.464/SP, CUJA ORDEM FOI DENEGADA RECENTEMENTE. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. NÃO INFIRMADOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+    1. O princípio da dialeticidade, conforme se extrai do art. 932, inciso III, do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, impõe ao recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando direta e especificamente os fundamentos nela lançados para obstar sua pretensão.
+    2. No caso, a petição inicial do habeas corpus foi liminarmente indeferida em razão de se tratar de reiteração do pedido formulado no HC 594.464/SP. Contudo, nas razões do agravo regimental, o fundamento da decisão impugnada não foi especificamente infirmado, limitando-se o Agravante a repetir a argumentação referente ao mérito do habeas corpus.
+    3. Agravo regimental não conhecido.”
+    2. Extrai-se dos autos que o Juízo da 1ª Vara das Execuções Criminais da Comarca de Presidente Prudente/SP não conheceu do pedido de concessão de livramento condicional, formulado em favor do paciente.
+    3. Inconformada, a defesa interpôs agravo em execução, tendo o Tribunal de Justiça do Estado de São Paulo negado provimento ao recurso. Na sequência, sobreveio a impetração de habeas corpus no STJ (668.624). A Relatora, Ministra Laurita Vaz, indeferiu liminarmente o writ. Contra essa decisão, foi interposto agravo regimental, não provido.
+    4. Neste habeas corpus, a parte impetrante alega, em síntese, que “carece de fundamentação idônea a r. decisão impugnada, porquanto não apontou qualquer motivação concreta que demonstrasse o demérito do apenado, sendo certo que a gravidade abstrata do delito não se constitui fundamento suficiente para se negar a benesse ora pleiteada, sobretudo quando há atestado recente de bom comportamento carcerário”.
+    5. A defesa requer a concessão da ordem a fim de “determinar a inserção do paciente no regime mais brando, qual seja, o livramento condicional, porquanto presentes os requisitos objetivos e subjetivos essenciais às medidas”.
+    6. Decido.
+    7. As alegações da defesa não foram apreciadas pelo Superior Tribunal de Justiça. Fato que impede o imediato exame da matéria pelo STF, sob pena de supressão de instância.
+    8. As peças que instruem os autos não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício. Dou especial relevância às seguintes passagens do acórdão estadual:
+    “[...] em consulta ao sistema informatizado deste Tribunal, tem-se que o pedido aqui retratado já foi objeto de apreciação na origem, ocasião em que interposto recurso (Agravo em Execução nº 0005029-45.2020.8.26.0482), que restou desprovido. Ainda que assim não fosse, sem embargo da gravidade dos delitos levados a efeito pelo condenado (tráficos de drogas e furto qualificado fl. 27), e que lhe valeram considerável pena (16 anos, 04 meses e 26 dias de reclusão fl. 25), o simples fato de o condenado ter cumprido requisito de ordem objetiva, não lhe confere o direito de, por si só, ser colocado em liberdade, máxime se considerado o período remanescente de pena a cumprir (TCP para 04.01.2026 fl. 25).
+    O sentenciado, inclusive, durante a execução da pena, praticou duas faltas disciplinares de natureza grave (fl. 28), em total descompasso com sua finalidade reeducativa; tal circunstância faz ressumbrar personalidade avessa à lei, ao convívio social e à terapêutica penal.
+    Diante desse quadro, necessário bem averiguar sua evolução, mostrando-se prematuro colocá-lo em contato com a coletividade, considerado o período remanescente de pena a cumprir.”
+    9. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 02 de agosto de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                             Relator
