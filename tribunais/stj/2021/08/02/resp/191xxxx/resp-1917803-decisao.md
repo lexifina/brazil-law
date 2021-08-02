@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOÃO ANTÔNIO FERREIRA DOS SANTOS, com fundamento no art. 105, inciso III, alíneaa, da Constituição da República, contra o acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação n.1.0024.18.113274-7/001.
+Consta dos autos que o Parquet denunciou o Recorrente pela suposta prática do crime do art. 163, parágrafo único, inciso III, do Código Penal, em razão do rompimento e inutilizaçãoda tornozeleira eletrônica com a qual era monitorado.o Juízo de primeiro grau rejeitou a denúncia. Entendeu que as tornozeleiras, no Estado de Minas Gerais, não eram patrimônio público, mas pertenciam a empresa privada. Houve recurso em sentido estrito acusatório, o qual foi provido, em acórdão com a seguinte ementa (fl. 103):
+"EMENTA: RECURSO EM SENTIDO ESTRITO  PENAL  DANO QUALIFICADO  ROMPIMENTO DE TORNOZELEIRA ELETRÔNICA - IRRESIGNAÇÃO MINISTERIAL  BEM COM FINALIDADE PÚBLICA  RECEBIMENTO DA INICIAL - NECESSIDADE.  A tornozeleira eletrônica, embora pertencente a uma empresa privada, é bem destinado ao serviço público, custeado, a rigor, pelo Estado de Minas Gerais. Assim, o agente que a rompe pratica o crime previsto no art. 163, parágrafo único, inciso III, do CPB."
+Houve embargos de declaração defensivos, os quais foram rejeitados (fls. 119-112).
+Sustenta a Defensoria Pública, nas razões do apelo nobre, contrariedade ao art. 163, parágrafo único, inciso III, do Código Penal.
+Pondera que, para a caracterização do crime de dano qualificado imputado ao Réu, exige-se a demonstração de dolo específico de causar prejuízo ao patrimônio público, o que não ocorreu na hipótese dos autos.
+Foram apresentadas contrarrazões (fls. 139-141). O recurso especial foi admitido (fls. 143-145).
+O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Mario Ferreira Leite, manifesta-se pelo provimento do recurso especial (fls. 156-160).
+É o relatório.
+Decido.
+O acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 105-):
+"Prima facie, me cumpre destacar que é do meu entendimento que, para a caracterização do crime previsto no art. 163, parágrafo único, inciso III, do CPB é prescindível o animus nocendi. Apesar da controvérsia acerca do tema, tenho que é dispensável o dolo específico. A meu ver, a vontade de prejudicar está compreendida na própria ação criminosa."
+Como se vê, o entendimento adotado pela Corte a quo está em dissonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qualo crime tipificado no art. 163, parágrafo único, inciso III, do Código Penal, exige como elemento subjetivo o dolo específico, consistente na vontade deliberada de lesar o patrimônio público.
+Nesse sentido:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO.DANO QUALIFICADO. ABSOLVIÇÃO. EXCEPCIONALIDADE NA VIA DO WRIT.FLAGRANTE ILEGALIDADE EVIDENCIADA. DOLO ESPECÍFICO DE CAUSAR DANO AO PATRIMÔNIO PÚBLICO NÃO COMPROVADO. WRIT NÃO CONHECIDO E ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. Nos termos da jurisprudência desta Corte, para que se possa falar em crime de dano qualificado contra patrimônio da União, Estado ou Município, mister se faz a comprovação do elemento subjetivo do delito, qual seja, o animus nocendi, caracterizado pela vontade de causar prejuízo ao erário. Nesse passo, a destruição, deterioração ou inutilização das paredes ou grades de cela pelo detento, com vistas à fuga de estabelecimento prisional, ou, ainda, da viatura na qual o flagranteado foi conduzido à delegacia de polícia, demonstra tão somente o seu intuito de recuperar a sua liberdade, sem que reste evidenciado o necessário dolo específico de causar dano ao patrimônio público.
+4. Writ não conhecido e habeas corpus concedido, de ofício, para absolver o réu quanto ao crime de dano qualificado, nos autos da Ação Penal n. 0004267-14.2018.8.24.0075, em curso na 2ª Vara Criminal da Comarca de Tubarão/SC."(HC 503.970/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 30/05/2019, DJe 04/06/2019.)
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DIREITO PENAL. CRIME DE DANO QUALIFICADO. ART. 163, PARÁGRAFO ÚNICO, III, DO CP. DANO QUALIFICADO PRATICADO CONTRA PATRIMÔNIO PÚBLICO. DESTRUIÇÃO DE TORNOZELEIRA ELETRÔNICA PARA EVASÃO. AUSÊNCIA DE DOLO ESPECÍFICO. ANIMUS NOCENDI.AUSÊNCIA. PRECEDENTES.
+1. Para a caracterização do crime tipificado no art. 163, parágrafo único, III, do Código Penal, é imprescindível o dolo específico de destruir, inutilizar ou deteriorar coisa alheia, ou seja, a vontade do agente deve ser voltada a causar prejuízo patrimonial ao dono da coisa, pois, deve haver o animus nocendi.
+ ..
+3. Agravo regimental improvido."(AgRg no REsp 1.722.060/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 02/08/2018, DJe 13/08/2018.)
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE DANO QUALIFICADO PRATICADO CONTRA O PATRIMÔNIO PÚBLICO. TENTATIVA DE FUGA DO ESTABELECIMENTO PRISIONAL. AUSÊNCIA DE DOLO ESPECÍFICO (ANIMUS NOCENDI). NÃO CONFIGURAÇÃO DO DELITO.
+1 - Consoante jurisprudência desta Corte, para a configuração do crime de dano previsto no art. 163 do Código Penal, mostra-se imprescindível a presença do elemento subjetivo específico, qual seja, o animus nocendi, que consiste na vontade deliberada de causar prejuízo ao patrimônio alheio.
+2 - "A destruição de patrimônio público (buraco na cela) pelo preso que busca fugir do estabelecimento no qual encontra-se encarcerado não configura o delito de dano qualificado (art. 163, parágrafo único, inciso III do CP), porque ausente o dolo específico (animus nocendi), sendo, pois, atípica a conduta" (HC n. 260.350/GO, Relª. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 21/5/2014).
+3 - Agravo regimental desprovido." (AgRg no HC 409.417/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 24/10/2017, DJe de 06/11/2017.)
+"HABEAS CORPUS. CRIME DE DANO QUALIFICADO PRATICADO CONTRA O PATRIMÔNIO PÚBLICO ESTADUAL. 1. PRESO QUE SERRA AS GRADES DA CELA PARA EMPREENDER FUGA. AUSÊNCIA DE DOLO ESPECÍFICO (ANIMUS NOCENDI). 2. ORDEM CONCEDIDA.
+1. Consoante entendimento firmado por esta Corte, o delito de dano ao patrimônio público, quando praticado por preso para facilitar a fuga da prisão, exige o dolo específico (animus nocendi) de causar prejuízo ou dano ao bem público. Precedentes.
+2. Ordem concedida para declarar atípica a conduta do paciente." (HC 226021/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 21/06/2012, DJe de 28/06/2012.)
+Ante o exposto, DOU PROVIMENTO ao recurso especial para rejeitar a denúncia, nos termos do art. 395, inciso III, do Código de Processo Penal.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. DANO AO PATRIMÔNIO PÚBLICO. ART. 163, PARÁGRAFO ÚNICO, INCISO III, DO CÓDIGO PENAL. ELEMENTO SUBJETIVO. DOLO ESPECÍFICO. NECESSIDADE. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
