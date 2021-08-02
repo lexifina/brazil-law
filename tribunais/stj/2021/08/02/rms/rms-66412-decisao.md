@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de Recurso em Mandado de Segurança, interposto por ADEMIR FERREIRA LINO e OUTROS, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim ementado:
+"MANDADO DE SEGURANÇA  ALTERAÇÃO ALÍQUOTA PREVIDENCIÁRIA  MILITARES  MODIFICAÇÕES PROMOVIDAS APÓS A EMENDA CONSTITUCIONAL N. 103/2019 QUE ATRIBUIU À UNIÃO A COMPETÊNCIA PARA LEGISLAR SOBRE PENSÕES DE POLICIAIS MILITARES E CORPO DE BOMBEIROS MILITAR  AUSÊNCIA DE ATO ILEGAL PELA AUTORIDADE COATORA E, POR CONSEQUÊNCIA, DE DIREITO LÍQUIDO E CERTO  ORDEM DENEGADA.
+I) Até que sobrevenha eventual alteração da intelecção já firmada no âmbito do Supremo Tribunal Federal prevalece a orientação de que "a irredutibilidade da remuneração não é oponível à majoração da contribuição previdenciária"(STF, RE 647721 AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 25/08/2015, ACÓRDÃO ELETRÔNICO DJe-196 DIVULG 30-09-2015 PUBLIC 01-10-2015).
+II) Logo, definida a alíquota e a base de cálculo, em Lei de competência privativa da União, a todo e qualquer servidor de carreira militar, descabe ao ente público estadual a manutenção de parâmetro diferenciado de contribuição no âmbito do Estado de Mato Grosso do Sul, aplicando Lei Estadual superada, como objetivado pelos impetrantes.
+III) Segurança denegada com o parecer ministerial" (fl. 309e).
+Nas razões do Apelo, alegam os recorrentes que:
+"
+Os bombeiros e policiais militares do Estado de Mato Grosso do Sul, tinham seu regime previdenciário regido pela Lei Estadual nº 3.150/2005, a qual consolidou e atualizou a Lei nº 2.207/2000, que instituiu o regime de previdência social do Estado de Mato Grosso do Sul - MSPREV.
+A referida Lei, determina em seu artigo 22, os percentuais de contribuição mensal incidente sobre a remuneração, vejamos;
+(..)
+Entretanto, com o advento da Lei nº 13.954/2019 que alterou o Decreto-Lei 667/69, o qual asseverava que: "Os direitos, vencimentos, vantagens e regalias do pessoal, em serviço ativo ou na inatividade, das Polícias Militares constarão de legislação especial de cada Unidade da Federação,não sendo permitidas condições superiores às que, por lei ou regulamento, forem atribuídos ao pessoal das Forças Armadas. No tocante a cabos e soldados, será a permitida exceção no que se refere a vencimentos e vantagens, bem como à idade-limite para permanência no serviço ativo."
+Nota-se que antes da alteração, competia a cada ente federado legislar sobre a
+previdência e inatividade dos militares estaduais.
+Vejamos a nova redação do artigo 24-C do Decreto-Lei 667/69 introduzido pela Lei nº13.954/2019;
+(..)
+Dessa forma, a União invadiu a competência dos entes estatais e estabeleceu através da Lei 13.954/19 a cobrança da alíquota de 9,5%, sobre o valor integral dos proventos da inatividade e pensão dos militares estaduais, acarretando uma redução no valor dos proventos mensais dos militares estaduais.
+Ou seja, com o advento da Lei nº 13.954/2019, a alíquota passou a ser de 9,5% sobre o valor integral dos proventos da inatividade, posto que, o próprio Regime de Previdência Social do Estado de Mato Grosso do Sul não tributava a previdência até o teto do Regime Geral de Previdência Social.
+Veja que com essa nova sistemática, os militares estaduais com proventos de aposentadoria até o valor R$ 6.101,06 (RGPS), vão sofrer uma diminuição dos seus proventos na ordem de R$ 610,00 (10%), vez que, a Lei Estadual nº 3.150/05, não tributava a previdência daqueles que recebiam valores inferiores ao teto do Regime Geral de Previdência Social.
+Todas essas alterações e a consequente redução nos salários dos militares da reserva se deram em virtude da publicação da Emenda Constitucional nº 103/19, que alterou a redação do inciso XXI, do art. 22 da Constituição Federal que passou a vigorar nos seguintes termos:
+(..)
+Assim fica claro que os direitos e garantias individuais previstas no art. 5º da CF/88, não podem ser abolidos através de emenda constitucional por se tratar de cláusulas pétreas. Em relação à situação ora tratada, afirma Hugo Mazili que "havendo direito adquirido, o poder de
+emenda à CF e a ordem infraconstitucional devem-lhe respeito"
+(..)
+No que se refere a irredutibilidade do salário, importante salientar que referida garantia tem por escopo proteger a remuneração dos servidores públicos que podem ser alteradas por meio de lei, bem como a impedir alterações do limite remuneratório por meio da reformulação da própria norma constitucional do teto constitucional.
+Portanto, a redução dos proventos, a interferência da União na competência dos Estados membros, como caracterizado no caso dos Recorrentes, é uma afronta aos Princípios e Garantias Constitucionais.
+(..)
+Veja-se, que é nítida a redução dos proventos de aposentadoria dos Recorrentes, restando evidente um confisco na tributação previdenciária imposto pela Lei 13.954/19, vez que não houve qualquer estudo atuarial.
+Frisa-se ainda que os Autores passaram para reserva remunerada antes da referida alteração legislativa e nos termos da súmula 359/STF, "os proventos da inatividade regulam-se pela lei vigente ao tempo em que o militar, ou o servidor civil, reuniu os requisitos necessários."Ou seja, o direito à aposentadoria é regido pela lei vigente ao tempo da reunião dos requisitos da inatividade, inclusive quanto à carga tributária incidente sobre os proventos.
+Veja que o próprio Decreto 667/69 específica em seu art. 24-F, que os direitos adquiridos devem ser respeitados, desde que obedecidos os requisitos exigidos pela lei vigente do ente federativo, até o dia 31 de dezembro de 2019, vejamos:
+(..)
+Assim, resta evidente que a União extrapolou a competência para a edição de normas gerais sobre "inatividades e pensões das polícias militares e dos corpos de bombeiros militares" (art.22, XI, da Constituição, com a redação dada pela Emenda Constitucional n 2 103/2019), ocasionando sérios prejuízos nos subsídios dos militares estaduais impactando no sustento dos seus familiares" (fls. 341/347e).
+Por fim, requer "seja conhecido e provido o presente recurso ordinário, reformando a decisão que denegou a segurança do mandamus impetrado e determinando à autoridade coatora que para que o desconto da contribuição previdenciária do Impetrante se dênos termos da Lei Estadual nº 3.150/2005, afastando a aplicação da Lei Federal 13.954/2019" (fl. 348e).
+Contrarrazões a fls. 362/374e.
+A irresignação não merece prosperar.
+Na origem, trata-se de Mandado de Segurança impetrado pelos ora recorrentes contra suposto ato coator praticado pelo GOVERNADOR DO ESTADO DO MATO GROSSO DO SUL, objetivando "que o desconto da contribuição previdenciária dos Impetrantes se de nos termos da Lei Estadual nº 3.150/2005, afastando a aplicação da Lei Federal 13.954/2019" (fl. 12e).
+Pois bem. Nos termos da jurisprudência deste Superior Tribunal de Justiça,"nem o Secretário de Estado da Fazenda nem o Governador de Estado detêm legitimidade para figurar como autoridades coatoras em mandado de segurança em que se pretende evitar a prática de lançamentos fiscais, ainda que em caráter preventivo", sendo "inviável a pretensão de ver aplicada a teoria da encampação do ato pela autoridade apontada como coatora, pois, na linha jurisprudencial desta Corte, tal configuraria indevida ampliação da regra de competência absoluta insculpida na Constituição"(STJ, RMS 45.902/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/09/2016).
+No mesmo sentido:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ICMS. INSURGÊNCIA CONTRA A COBRANÇA DE TRIBUTO. ATO ATRIBUÍDO AO SECRETÁRIO DE ESTADO DE FAZENDA. ILEGITIMIDADE PASSIVA.
+1. O agravante defende a legitimidade do Governador de Estado do Ceará para figurar no pólo passivo do writ e a consequente aplicação da teoria da encampação.
+2. É firme a orientação no sentido da ilegitimidade da autoridade apontada como coatora, uma vez que não ostenta legitimidade para responder mandado de segurança impetrado contra atos concretos levados a efeito pelo fisco estadual. Precedentes: AgRg no RMS 38.355/MS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 25.6.2013, DJe 2.8.2013; AgRg no RMS 39.284/MS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 11.6.2013, DJe 24.6.2013.
+3. Inaplicável a teoria da encampação, pois afastada a legitimidade passiva ad causam, o Tribunal de Justiça local deixa de ser competente para o julgamento do feito.Agravo regimental improvido.(STJ, AgRg no RMS 38.034/CE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 10/12/2013).
+"TRIBUTÁRIO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AUTUAÇÃO FISCAL. AUTORIDADES COATORAS. GOVERNADOR E SECRETÁRIO DE ESTADO.ILEGITIMIDADE PASSIVA AD CAUSAM. ARGUMENTO DE QUE O MANDAMUS TEM POR OBJETO AS DISPOSIÇÕES DE DECRETO ESTADUAL. SÚMULA 266/STF.
+1. O Secretário de Estado da Fazenda de Santa Catarina não possui legitimidade passiva para figurar como autoridade coatora em Mandado de Segurança que discute o cumprimento de obrigações pertinentes ao regime de substituição tributária do ICMS incidente em operações interestaduais, na forma do Decreto estadual 2.870/2011, por empresa incluída no Simples Nacional.
+2. Com efeito, não compete a esse agente público a fiscalização do cumprimento de obrigações acessórias e a realização de lançamentos tributários (arts. 74 da Constituição do Estado de Santa Catarina;e 6º e 7º da Lei Complementar Estadual 381/2007).
+3. O simples fato de a exigência fiscal estar pautada em Decreto baixado por Governador ou Secretário de Estado não os torna legitimados passivos para os Mandados de Segurança que discutem ilegalidade de autuação (RMS 13.976/SP, Rel. Ministro Castro Meira, Segunda Turma, DJ 17/11/2003, p. 240); RMS 37.270/MS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 22/04/2013).
+4. Afastada a legitimidade passiva ad causam, o Tribunal de Justiça local deixa de ser competente para o julgamento do feito, consoante o art. 83, XI, "c", da Constituição Estadual, o que impossibilita a aplicação da Teoria da Encampação. Precedentes do STJ.
+5. O argumento de que o mandamus tem por objeto unicamente a legalidade do Decreto 2.870/2001 em nada favorece o contribuinte, uma vez que não cabe Mandado de Segurança contra norma geral e abstrata (Súmula 266/STF).
+6. Recurso Ordinário não provido"(STJ, RMS 43.553/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013).
+Ante o exposto, extingo o processo,sem resolução do mérito, nos termos do art. 485, VI, do CPC.
+Sem honorários.
+I.
