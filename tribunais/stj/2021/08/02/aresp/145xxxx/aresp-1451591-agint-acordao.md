@@ -1,0 +1,70 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO EM RAZÃO DA INTEMPESTIVIDADE DO RECURSO ESPECIAL.
+IRRESIGNAÇÃO DA PARTE AUTORA.
+1. É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias úteis previsto nos artigos 219 e 1.003, § 5º, do CPC/15.
+1.1. Esta Corte Superior entende que a simples menção, no bojo das razões recursais, da ocorrência do feriado local não é meio idôneo para a comprovação da suspensão do prazo processual, a teor do art. 1.003, § 6º, do CPC/15. Precedentes.
+1.2. Para efeito de tempestividade, a comprovação da ocorrência de feriados locais deve ser realizada por meio da apresentação de documento idôneo, no ato da interposição do recurso, de forma que a cópia de informações extraídas da internet, não é apta, por si só, a comprovar a tempestividade do recurso. Precedentes.
+1.3. No caso em tela, a parte insurgente interpôs recurso especial depois de escoado o prazo legal e não apresentou, no momento da interposição do reclamo, documentos hábeis a comprovar a excepcional suspensão de prazos processuais em virtude de greve de caminhoneiros, impondo-se a inadmissão do recurso.
+1.4. A Corte Especial, no julgamento do ARESP 1.481.810/SP, afetado pela Quarta Turma, reafirmou o entendimento de que é preciso comprovar a ocorrência de feriado local no ato de interposição do recurso, nos termos do § 6º do artigo 1.003 do CPC/15. Portanto, para os recursos sujeitos aos requisitos de admissibilidade do referido diploma processual, não se admite a comprovação posterior da suspensão do expediente forense em decorrência de feriado local.
+1.5. Segundo a modulação de efeitos determinada pela Corte Especial no REsp 1.813.684/SP, a possibilidade de comprovação da ocorrência de feriado local restringe-se apenas ao feriado de segunda-feira de carnaval, em recursos interpostos até a data da publicação do acórdão mencionado, que não é caso dos autos.
+2. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Trata-se de agravo interno, interposto por PAULO HENRIQUE SCHERER em face de decisão monocrática (fls. 553/554, e-STJ), da lavra da Presidência do STJ, que não conheceu do agravo (art. 1.042 do CPC/15) ante a intempestividade do recurso especial.
+Na petição de agravo interno (fls. 557/563, e-STJ) a parte defende, em síntese, ter comprovado a tempestividade recursal, mediante a juntada dos Provimentos 2.457/2017 e 2.486/2018 (fls. 544 e 545), os quais atestam a ausência de expediente forense nos dias 15/11, 16/11, 19/11 e 20/11.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO EM RAZÃO DA INTEMPESTIVIDADE DO RECURSO ESPECIAL.
+IRRESIGNAÇÃO DA PARTE AUTORA.
+1. É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias úteis previsto nos artigos 219 e 1.003, § 5º, do CPC/15.
+1.1. Esta Corte Superior entende que a simples menção, no bojo das razões recursais, da ocorrência do feriado local não é meio idôneo para a comprovação da suspensão do prazo processual, a teor do art. 1.003, § 6º, do CPC/15. Precedentes.
+1.2. Para efeito de tempestividade, a comprovação da ocorrência de feriados locais deve ser realizada por meio da apresentação de documento idôneo, no ato da interposição do recurso, de forma que a cópia de informações extraídas da internet, não é apta, por si só, a comprovar a tempestividade do recurso. Precedentes.
+1.3. No caso em tela, a parte insurgente interpôs recurso especial depois de escoado o prazo legal e não apresentou, no momento da interposição do reclamo, documentos hábeis a comprovar a excepcional suspensão de prazos processuais em virtude de greve de caminhoneiros, impondo-se a inadmissão do recurso.
+1.4. A Corte Especial, no julgamento do ARESP 1.481.810/SP, afetado pela Quarta Turma, reafirmou o entendimento de que é preciso comprovar a ocorrência de feriado local no ato de interposição do recurso, nos termos do § 6º do artigo 1.003 do CPC/15. Portanto, para os recursos sujeitos aos requisitos de admissibilidade do referido diploma processual, não se admite a comprovação posterior da suspensão do expediente forense em decorrência de feriado local.
+1.5. Segundo a modulação de efeitos determinada pela Corte Especial no REsp 1.813.684/SP, a possibilidade de comprovação da ocorrência de feriado local restringe-se apenas ao feriado de segunda-feira de carnaval, em recursos interpostos até a data da publicação do acórdão mencionado, que não é caso dos autos.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de derruir a fundamentação expedida no decisum monocrático.
+1. Na presente hipótese, a Presidência desta Corte reconheceu a intempestividade do recurso especial, pois o acórdão recorrido foi publicado em 09/05/2018, e o recurso, interposto somente em 08/06/2018, fora, portanto, do prazo de 15 (quinze) dias úteis previsto nos arts. 219, 994, VI, 1.003, § 5º e 1.029 do CPC/15.
+Acerca da tempestividade recursal na vigência do CPC/2015, a Corte Especial, ao apreciar o AgInt no AREsp 957.821/MS, consignou o seguinte: i) a comprovação do feriado local deve ocorrer no ato da interposição do recurso, nos termos do art. 1.003, § 6º, do CPC/2015; ii) o § 3º do art. 1.029 do CPC/2015 somente permite a correção de vício de recursos tempestivos; iii) a intempestividade é considerado vício grave, logo, insanável, motivo pelo qual é incabível a intimação da parte para sua regularização, tornando inaplicável a disposição do art. 932, parágrafo único, do CPC/2015; iv) a jurisprudência do STJ, firmada na égide do CPC/1973, que permitia a comprovação posterior do feriado local, não mais subsiste ao CPC/2015, ante a previsão expressa quanto a necessidade de comprovar o feriado no ato da interposição do recurso.
+Por oportuno, confira-se a ementa do aludido leading case:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido.
+(AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe 19/12/2017)
+2. Verifica-se que a parte junta, às fls. 512/513 (e-STJ), cópia de página da internet, a qual não é suficiente para para comprovar a ocorrência da suspensão do expediente forense, conforme entendimento pacífico desta Corte Superior.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. TEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO. CÓPIA DE NOTÍCIA EXTRAÍDA DA REDE MUNDIAL DE COMPUTADORES. DOCUMENTO INIDÔNEO. AGRAVO INTERNO DO ESTADO DA PARAÍBA A QUE SE NEGA PROVIMENTO.
+1. Os diversos órgãos fracionários deste Sodalício possuem o entendimento atual de que a cópia de página de notícias da internet não é suficiente para comprovar a ocorrência de feriado local (AgInt nos EDcl no AREsp. 1.019.960/SP, Rel. Min. GURGEL DE FARIA, DJe 22.10.2018). No mesmo sentido: AgRg no AREsp. 669.343/MA, Rel. Min.
+DIVA MALERBI, DJe 12.2.2016; AgInt no AREsp. 931.025/MG, Rel. Min.
+LUIS FELIPE SALOMÃO, DJe 04.11.2016; AgRg no AREsp. 725.389/SP, Rel.
+Min. MOURA RIBEIRO, DJe 21.6.2016.
+2. Agravo Interno do ESTADO DA PARAÍBA a que se nega provimento.
+(AgInt no AgInt no REsp 1625104/PB, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 01/04/2019, DJe 10/04/2019)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO. AGRAVO INTERNO. CPC/73. POSSIBILIDADE. DOCUMENTO IDÔNEO. INTERNET.
+INADMISSIBILIDADE. NÃO PROVIMENTO.
+ ..
+2. A ocorrência de feriado local, paralisação ou interrupção do expediente forense há de ser demonstrada por documento oficial ou certidão expedida pelo Tribunal de origem, capaz de evidenciar, no ato de sua interposição, a prorrogação do prazo do recurso que pretende seja conhecido por este Superior Tribunal, sob pena de preclusão consumativa, não servindo, para tanto, página extraída da rede mundial de computadores.
+ ..
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1030674/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/05/2018, DJe 01/06/2018)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL LOCAL. COMPROVAÇÃO POR DOCUMENTO IDÔNEO. AUSÊNCIA. TEMPESTIVIDADE NÃO EVIDENCIADA. CÓPIA EXTRAÍDA DA INTERNET. DADOS PROCESSUAIS. MERAMENTE INFORMATIVOS. DECISÃO MANTIDA.
+ ..
+3. A simples juntada de cópia de informações extraídas da internet não tem o condão, por si só, de comprovar a interposição tempestiva do recurso.
+4. Conforme a jurisprudência do STJ, os dados processuais disponibilizados pela internet são meramente informativos, de modo que eventuais omissões ou equívocos em relação ao andamento processual não configuram justa causa para devolução de prazos processuais, devendo o patrono da parte acompanhar as publicações oficiais.
+5. Agravo regimental não provido.
+(AgRg no AREsp 688.615/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 12/09/2017, DJe 25/09/2017)
+A adoção desse entendimento se justifica pelo fato de os documentos apresentados não mostrarem a integralidade das normas a que fazem referência, o que fica particularmente evidente às fls. 513-514 e-STJ em que o texto do comunicado citado pela página de internet não está reproduzido em sua integralidade, sendo impossível verificar a que dias se refere a suposta suspensão dos prazos.
+Ressalte-se, por fim, que não há como considerar os documentos mencionados pela parte no presente agravo interno, uma vez que não foram apresentados no momento da interposição do recurso especial documentos hábeis a comprovar a suspensão de prazos em virtude de greve de caminhoneiros, como mencionado às fl. 496 e-STJ do recurso especial.
+Com efeito, a Corte Especial, no julgamento do ARESP 1.481.810/SP, afetado pela Quarta Turma, reafirmou o entendimento de que é preciso comprovar a ocorrência de feriado local no ato de interposição do recurso, nos termos do § 6º do artigo 1.003 do CPC/15. Portanto, para os recursos sujeitos aos requisitos de admissibilidade do referido diploma processual - como na hipótese -, não se admite a comprovação posterior da suspensão do expediente forense em decorrência de feriado local.
+Logo, de rigor a manutenção da decisão agravada.
+2. Do exposto, nego provimento ao agravo interno.
+É como voto.
