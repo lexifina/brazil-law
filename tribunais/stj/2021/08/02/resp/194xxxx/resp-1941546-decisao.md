@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO RIO DE JANEIRO, com base no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ fl. 155):
+Agravo interno. Apelação cível. Ação de cobrança de benefício previdenciário. Sentença que julgou procedente o pedido exordial e condenou a parte ré a pagar a parte autora o benefício do pecúlio post morten correspondente a 5 (cinco) vezes o valor do último salário percebido pelo de cujus, nos termos do art. 45 da Lei Estadual nº 285/79, alterada pela Lei 1.488/89. Recurso referente a parte diversa dos autos e que não guarda relação com a sentença. Apelação que não impugnou a sentença constante dos autos. Recurso prejudicado. Matéria preclusa. Inovação recursal inviável em sede de agravo interno. RECURSO DESPROVIDO.
+Nas razões do recurso especial, o recorrente alega, em síntese, violação aos arts. 5º, XXXVI, 24, XII, § 4º, 40, § 12, 167 e 169, todos da Constituição Federal.
+Sustenta que "o artigo 5º, da Lei 9.717/98 (regras gerais da previdência do servidor público) impede, expressamente, o pagamento pelos sistemas previdenciários de cada entidade da Federação de benefício distinto daqueles pagos pelo INSS" (e-STJ fl. 169), e que "o pecúlio post mortem, como se sabe, não integra os benefícios taxativamente arrolados pelo artigo 18 da Lei Federal nº 8.213, de 1991, que dispõe sobre o plano de benefícios para o regime geral de previdência social" (e-STJ fl. 169).
+Aduz que "além de vedado o pagamento de pecúlio post mortem por ser contrário ao regramento constitucional (artigo 40, § 12 da CRFB/88) e às disposições da Lei Federal nº 9.717/98, o pagamento não tem a necessária base legal, uma vez que as disposições da Lei nº 285/79 estão com a sua eficácia suspensa desde a edição daquela lei federal, em 1998, por força do artigo 24, XII e §4º da CRFB/88" (e-STJ fl. 171).
+Ademais, alega que "a decisão violou os artigos 167 e 169, ambos da Constituição Federal, eis que não se deve permitir a realização de gastos não previstos na Lei Orçamentária, bem como não se pode extrapolar os limites de gastos com despesas de pessoal, sob pena de aplicação de penalidades com direta implicação no orçamento" (e-STJ fl. 172).
+Por fim, sustenta que houve violação ao art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, ao argumento de que "a atualização das dívidas da Fazenda Pública ainda não inscritas em precatório deve ser balizada pela regra estabelecida na Lei nº 11.960/09, neste ponto ainda está em pleno vigor" (e-STJ fl. 177).
+Sem contrarrazões ao recurso especial.
+O Tribunal de origem negou seguimento ao recurso especial quanto a suposta ofensa ao art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, por estar o acórdão recorrido de acordo com a tese firmada no Tema nº 905/STJ e no Tema nº 810/STF, admitindo-o em relação ao outro ponto suscitado, conforme decisão proferida em 20/03/2018 e juntada às e-STJ fls. 213/217.
+Decisão de sobrestamento proferida em 27/08/2019 (e-STJ fl. 267).
+Processo recebido nesta Corte Superior em 31/05/2021.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De igual forma, imperioso ressaltar que a alegada ofensa ao art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, não será objeto de análise, uma vez que o recurso especial foi, neste ponto, inadmitido pelo Tribunal de origem com base no art. 1040, I, do CPC/2015, pois o acórdão recorrido estaria de acordo com as teses firmadas no Tema nº 810/STF e no Tema nº 905/STJ.
+O recurso não comporta conhecimento.
+Quanto a suposta ofensa aos arts. 5º, XXXVI, 24, XII, § 4º, 40, § 12, 167 e 169, todos da Constituição Federal, importante destacar que o Superior Tribunal de Justiça não é competente para, em sede de recurso especial, manifestar-se sobre suposta violação de dispositivo constitucional sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+Nesse sentido os seguintes precedentes desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. VÍCIOS DO ART. 1.022 DO CPC/2015. AUSÊNCIA. ACLARATÓRIOS INSERVÍVEIS PARA FINS DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. MÁ-FÉ. APLICAÇÃO DE MULTA.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado.
+2. Inviáveis os presentes embargos, porque, a pretexto de sanar omissão e contradição, se busca viabilizar indevido reexame da causa, com a atribuição de efeitos infringentes em situação na qual não são cabíveis.
+3. O recurso especial não comporta a análise de possível ofensa a dispositivo constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Dá ensejo à aplicação de multa por litigância de má-fé a atitude da embargante de insistir na tese de aplicabilidade do novo Código de Processo Civil, mencionando como data de publicação do acórdão recorrido a da decisão que inadmitiu o apelo nobre.
+5. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl no AgInt no AREsp 1161235/ES, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 07/08/2018, DJe 14/08/2018)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IPTU. AÇÃO ANULATÓRIA. ACÓRDÃO RECORRIDO. ALEGADA OFENSA AO ART. 535, II, DO CPC/73. INEXISTÊNCIA. QUITAÇÃO DOS DÉBITOS. AUSÊNCIA DE PROVA. REEXAME DO MATERIAL FÁTICO. IMPOSSIBILIDADE. SÚMULA 7/STJ. APRECIAÇÃO DE ALEGADA VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE, NA VIA DE RECURSO ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. A análise de suposta ofensa a dispositivos constitucionais compete exclusivamente ao Supremo Tribunal Federal, nos termos do art. 102, inciso III, da Constituição da República, sendo defeso o seu exame, no âmbito do Recurso Especial, ainda que para fins de prequestionamento, conforme pacífica jurisprudência do STJ.
+VI. Agravo interno improvido.
+(AgInt no AREsp 1062783/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 22/05/2018, DJe 28/05/2018)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. PECÚLIO POST MORTEM. VIOLAÇÃO AOS ARTS. 5º, XXXVI, 24, XII, § 4º, 40, § 12, 167 e 169 DA CONSTITUIÇÃO FEDERAL. ANÁLISE. INVIABILIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO ESPECIAL NÃO CONHECIDO.
