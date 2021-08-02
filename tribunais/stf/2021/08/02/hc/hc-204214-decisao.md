@@ -1,0 +1,26 @@
+DECISÃO:
+EMENTA: Execução Penal. Habeas Corpus. Tráfico de drogas. Pedido de prisão domiciliar. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que denegou o HC 670.779, do Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que o paciente – atualmente cumprindo pena de 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, pelo crime previsto no art. 33, caput, da Lei 11.343/06 – requereu ao Juízo do Departamento Estadual de Execução Criminal da Comarca de Araçatuba/SP – DEECRIM 2ª RAJ o direito de cumprir o saldo remanescente da pena em prisão domiciliar. O pedido foi indeferido.
+    3. Inconformada, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo (TJ/SP). Denegada a ordem, sobreveio a impetração de HC no STJ. O Relator do HC 670.779, Ministro Antonio Saldanha Palheiro, denegou a ordem.
+    4. Neste habeas corpus, a parte impetrante afirma que o paciente se encontra no grupo considerado de risco da pandemia do Covid-19, tendo em vista que “possui tuberculose”. Alega que, “[i]nstaurada a pandemia decorrente do surto do corona vírus (Covid-19), e nos estritos limites da Recomendação CNJ n. 62/2020 e Súmula Vinculante n. 56, STF, e estando em regime fechado, sendo enfermo em situação de vulnerabilidade, pela inexistência de políticas públicas bastantes, orienta-se à excepcionalidade pela concessão da prisão domiciliar”.
+    5. A defesa requer a concessão da ordem a fim de que o paciente seja colocado “no REGIME ABERTO, ou prisão albergue domiciliar em residência particular”.
+    6. Decido.
+    7. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    8. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    9. Além disso, as peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício. Transcrevo, nesse sentido, as seguintes passagens da decisão do STJ:
+    “Como visto no relatório, a impetração funda-se na atual pandemia de Covid19.
+    Todavia, não verifico a existência do constrangimento ilegal alegado.
+    Confira-se, no que interessa, o que consta do acórdão impugnado (e- STJ fl. 190):
+    A análise da decisão acima aponta que, não obstante o paciente integre grupo de risco da COVID-19, uma vez que é portador de tuberculose, o relatório médico de fl. 148, recentemente elaborado em 12/04/2021, indica que ele possui bom estado geral de saúde e não apresentou queixas quanto ao tratamento da doença.
+    Sublinha-se, ainda, que a prisão do paciente decorre de cumprimento de sentença condenatória transitada em julgado, sendo ele reincidente e portador de maus antecedentes.
+    Como se vê, a aludida recomendação, no ponto, diz respeito aos presos em regime aberto e semiaberto, de modo que o paciente não se enquadra na excepcionalidade mencionada, já que se encontra no regime fechado, não podendo ser ignorado o asseverado pelo Tribunal de origem no sentido de ser ele reincidente e portador de maus antecedente e de que, ‘não obstante o paciente integre grupo de risco da COVID-19, uma vez que é portador de tuberculose, o relatório médico de fl. 148, recentemente elaborado em 12/04/2021, indica que ele possui bom estado geral de saúde e não apresentou queixas quanto ao tratamento da doença’ (e-STJ fl. 190).” (Grifos diferentes do original).
+    10. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 02 de agosto de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                             Relator
