@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminarimpetrado em favor de MARCIA REGINA PIRES, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo em Execução Penal n. 9000154-11.2020.8.26.0050).
+Após o cometimento de falta grave, posse de entorpecente, o Juízo da execução determinoua perda de 1/3 dos dias remidos e a regressão da pacienteao regime fechado. A decisão foi mantida pelo Tribunal de origem.
+A impetrante aponta constrangimento ilegal em se reconhecer a prática de falta grave visto que "Não é mais aplicada a pena privativa de liberdade (reclusão ou detenção) no caso de uso de drogas." (fl. 6).
+Alega desproporcionalidade por ser a conduta atípica e insignificante, pois não configuratráfico, e sim porte de droga para consumo próprio.
+Requera exclusão da falta grave e seus consectários legais.
+A liminar foi indeferida (fls. 36-37).
+Informações foram prestadas às fls. 42-59, e oMinistério Público Federal opinou peladenegação da ordem(fls. 63-64).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+No presente caso, o Juízo da execução penal reconheceu a falta gravenestes termos (fls. 26-28):
+Narra o comunicado de eventos que no dia dos fatos, ao ser realizada revista na sindicada, quando do retomo da saída temporária, foram localizados dois invólucros, nas solas dos pés, contendo sustância que aparentava ser entorpecente. Inquirida, a sindicada assumiu a propriedade do suposto ilícito (fls. 03).
+No mérito, a prova vocal demonstra, de forma inconteste, a falta disciplinar.
+A sentenciada Marcia, em sua declaração, admitiu a prática da conduta descrita no comunicado de eventos, alegando ser dependente química e que, ao retornar de saída temporária, portava dois invólucros com maconha colados na sola de seus pés. Foi surpreendida ao se submeter à revista, no scanner corporal. Assumiu a posse dos entorpecentes, dizendo que eram para seu consumo próprio (fls. 36/37).
+As funcionárias Anatália Borges de Souza e Thais Juliane da Silva Ribeiro Reule narraram, de forma harmônica, que repararam na sentenciada Márcia, a qual vestia meias, antes de passar pelo scanner corporal.
+Por esse motivo, solicitaram que ela retirasse aludido acessório dos pés. A sindicada, primeiramente, fez-se de desentendida, mas depois cedeu à ordem das servidoras, momento em que foram encontradas duas supostas porções de maconha na sola de seus pés. A sindicada afirmou ser dependente química (fis.85 e 86).
+Logo, percebe-se que os depoimentos das agentes penitenciárias são haunônicos e contam com a admissão da sindicada.
+De mais a mais, não se vislumbra qualquer motivação para as funcionárias pretenderem prejudicar especificamente a sentenciada, imputando-lhe falta grave que não tivesse cometido. Suas palavras, ao contrário, diante das circunstâncias, gozam de fé pública e credibilidade.
+Ainda, não é crível que algum funcionário fosse imputar falsamente a prática de crime à sentenciada, se esta não tinha qualquer desavença com funcionários e reeducandas do estabelecimento prisional.
+Ademais, realizado laudo pericial de exame químico - toxicológico, constatou-se a presença de THC, substância característica presente na maconha encontrada com a sentenciada (fls. 44/47).
+Desta fotina, com o objetivo de reeducar e preparar para o retorno à vida em sociedade, a sentenciada perderá 1/3 do tempo remido, referente a períodos anteriores à referida falta (art.127 da Lei 7.210/84, alterado pela Lei 12.433/11), medida esta que é perfeitamente legitima, pois, como se sabe, o direito à remição é um direito condicionai, ou seja, passível de revogação em caso de falta grave, não se tratando de direito adquirido.
+ ..
+Com efeito, justifica-se a perda do tempo remido no patamar máximo considerando a gravidade, natureza e circunstância da falta praticada, os critérios norteadores do artigo 57 da LEP e a ineficácia da perda em patamar menor, ressaltando-se que o processo de ressocialização pressupõe disciplina, não podendo haver risco de habitualidade de conduta terminantemente proibida à pessoa que se encontra cumprindo pena, ressaltando-se que a sindicada ostentá condenação 1 pelo crime de tráfico deentorpecentes e associação para o tráfico e foi surpreendida com maconha no estabelecimento prisional; a indicar que não está absorvendo a terapêutica penal.
+Ante o exposto, e considerando o mais que dos autos consta, determino a anotação da falta grave na FA da reeducanda e, por consequência, declaro a perda de 1/3 do tempo remido anteriormente à data da falta ou que a sentenciada teria direito a remir por dias trabalhados/estudados e não julgados, o que faço com fulcro nos artigo 127 da LEP.
+Ademais, determino a regressão da sindicada ao regime fechado, nos termos do artigo 118, I, da LEP (regime intermediário sustado às fls. 02).
+O Tribunal de origem negou provimento ao agravo da defesa, adotando os seguintes fundamentos (fls. 32-33):
+No mérito, o recurso não deve prosperar.
+O d. juízo, ao reconhecer a prática de falta grave, entendeu ter a agravante infringido o disposto no artigo 52 "caput" da Lei nº 7.210/84.
+Inquirida, a reeducanda admitiu os fatos e assumiu a propriedade das porções de maconha, afirmando que se destinavam ao seu próprio consumo (fls. 36/7).
+E o confesso acabou roborado pelos depoimentos coesos e harmônicos das agentes penitenciárias, que ratificaram o quanto descrito na comunicação do evento, dando conta de que, ao retornar da saída temporária, a sentenciada, ao passar pelo scanner corporal, foi surpreendida portando duas porções de maconha nas solas dos pés (fls. 85/6).
+Nesse contexto, não há que se duvidar das palavras das agentes do Estado, até porque assegurados os direitos da presa, que foi interrogada na presença de advogados da Funap (fls. 36/7), e ausentes indícios de falsa incriminação de inocente, descabendo falar-se em absolvição ou desclassificação.
+Também não colhe a tese da desproporcionalidade da medida, eis que, praticada falta que também configura crime doloso, como no caso, de rigor a aplicação das sanções nas duas esferas.
+Ainda, não vinga a assertiva de que a posse de drogas para uso próprio não configura crime, eis que o art. 28 da Lei 11.343/06 continua retratando crime doloso, a gerar, inclusive, reincidência.
+Realmente, a conduta da sentenciada caracteriza falta de natureza grave, nos termos do artigo 52 "caput" da Lei de Execução Penal, demonstrando, a reeducanda, desobediência, rebeldia e insubordinação, condutas inaceitáveis no ambiente carcerário, que exige extrema disciplina para garantir a estabilidade do local.
+O quadro que se instala diante da afronta de um preso à ordem, disciplina e segurança do presídio é de extrema gravidade, o que foi efetivamente comprovado, não se tratando de mera presunção.
+A regressão de regime e a perda dos dias remidos são consequências legais do reconhecimento da prática de falta grave (artigos 118, inciso I e 127 da LEP).
+Todavia, quanto à interrupção do lapso para os fins de benefícios, observa-se que silenciou o juízo a respeito, sucedendo que o exame da questão pode e deve ocorrer ao tempo oportuno, sob pena de supressão de instância.
+Diante do exposto, rejeitadas as preliminares, nega - se provimento ao agravo de MARCIA REGINA PIRES, decisão, por seus bem lançados fundamentos.
+A jurisprudência do STJ firmou-se no sentido de que a posse de entorpecentes para consumo próprio não resulta mais em pena privativa de liberdade, o que não implicadescriminalização da conduta. Portanto, ficouconfigurada a falta grave cometida pela paciente, consistente naposse de entorpecentepara consumo próprio.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. POSSE DE DROGA PARA CONSUMO PRÓPRIO. FALTA GRAVE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Apesar de o tipo não mais cominar pena privativa de liberdade, não houve descriminalização da conduta prevista no art. 28 da Lei n. 11.343/2006. Assim, a teor dos precedentes desta Corte, a posse de drogas no curso da execução, ainda que para uso próprio, constitui falta grave, nos moldes do art. 52 da LEP, pois o preso que pratica fato previsto como crime doloso durante o resgate das penas não demonstra comportamento adequado, apto a atrair os benefícios do sistema progressivo.
+2. Agravo regimental não provido.(AgRg no HC n. 528.947/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 29/11/2019.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. POSSE DE DROGAS PARA CONSUMO PRÓPRIO NO INTERIOR DO ESTABELECIMENTO PRISIONAL. ART. 28 DA LEI 11.343/2006. CONFIGURAÇÃO DE FALTA GRAVE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consolidou-se nesta Superior Corte de Justiça entendimento no sentido de que apesar de o tipo não mais cominar pena privativa de liberdade, não houve descriminalização da conduta prevista no art. 28 da Lei n. 11.343/2006. Assim, a posse de drogas no curso da execução, ainda que para uso próprio, constitui falta grave, nos moldes do art. 52 da LEP, pois o preso que pratica fato previsto como crime doloso durante o resgate das penas não demonstra comportamento adequado, apto a atrair os benefícios do sistema progressivo. - Em resumo, o STJ tem entendido que a prática da conduta de possuir drogas para consumo pessoal, prevista como crime no ordenamento, configura infração disciplinar de natureza grave no âmbito da execução penal. Precedentes.
+2. Na hipótese vertente, a materialidade da infração ficou devidamente demonstrada por meio de laudo toxicológico.
+3. Agravo regimental não provido.(AgRg no HC n.547.354/DF, relatorMinistroReynaldo Soares da Fonseca, Quinta Turma, DJe de13/2/2020.)
+Assim, não está configuradoconstrangimento ilegal apto a justificar a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
