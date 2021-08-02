@@ -1,0 +1,10 @@
+DECISÃO
+PAULO RICARDO DE OLIVEIRA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 0262457-18.2021.8.13.0000, em que foi mantida sua prisão preventiva.
+Cautelarmente segregado desde 11/2/2021 pela suposta prática do delito de furto, requer a revogação da medida cautelar máxima, visto que " o  magistrado de piso decretou a prisão preventiva do paciente de ofício. De fato, comunicada a prisão em flagrante ao juízo, não houve, em momento algum, representação pela prisão preventiva por parte da autoridade policial ou requerimento do Ministério Público" (fl. 200). Assere, ainda, a ausência de indicação de motivos idôneos que justifiquem a prisão preventiva.
+Consoante apontado pela Corte de origem, "no caso dos autos, o Juízo a quo não decretou de ofício a segregação cautelar do paciente, mas, sim, homologou a prisão em flagrante, convertendo-a em prisão preventiva" (fl. 174).
+Segundo ficou assentado pela Terceira Seção, ao apreciar o RHC n. 131.263/GO, em sessão realizada no dia 24/2/2021, as inovações veiculadas pela Lei n. 13.694/2019 (Pacote "Anticrime") não permitem ao magistrado, sem requerimento do Ministério Público ou representação da autoridade policial, converter em preventiva a prisão em flagrante.
+Embora minha compreensão pessoal, externada em voto escrito, tanto na Sexta Turma (em alguns julgados), quanto no julgamento do referido recurso ordinário, seja diversa daquela a que chegou o Colegiado, submeto-me à maioria, em nome da segurança jurídica e da fidelidade aos precedentes qualificados.
+No caso, portanto, não prospera a afirmação contida no acórdão impugnado de que, mesmo com o advento da referida lei, permaneceria hígida a possibilidade de conversão, de ofício, da prisão em flagrante em preventiva.
+À vista do exposto, dou provimento ao recurso para, confirmada a medida liminar, revogar a decisão que decretou a prisão preventiva do recorrente, sem prejuízo que outra seja proferida, desde que devidamente motivada e precedida de requerimento do Ministério Público ou de representação da autoridade policial
+Comunique-se, com urgência.
+Publique-se e intimem-se.
