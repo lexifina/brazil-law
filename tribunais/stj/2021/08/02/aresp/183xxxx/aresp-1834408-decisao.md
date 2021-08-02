@@ -1,0 +1,26 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por BANCO DO NORDESTE DO BRASIL SAcontra decisão do Tribunal de Justiça do Estado do Rio Grande do Norteque não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, fls. 645/646):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO INTERLOCUTÓRIA QUE, ACOLHENDO A RECUSA DO CREDOR, INDEFERE O PLEITO DA DEVEDORA PARA QUE A PENHORA RECAIA SOBRE LETRAS FINANCEIRAS DO TESOURO NACIONAL E DETERMINA A REALIZAÇÃO DE DEPÓSITO EM DINHEIRO. POSSIBILIDADE. BEM DE DIFÍCIL ALIENAÇÃO. AUSÊNCIA DE AFRONTA AO PRINCÍPIO DA MENOR ONEROSIDADE AO DEVEDOR. EXECUTADO DETENTOR DE RELEVANTE CAPACIDADE FINANCEIRA. PREVALÊNCIA DA PENHORA EMDINHEIRO. APLICAÇÃO DOS PRINCÍPIOS DA CELERIDADE EEFETIVIDADE. RECURSO CONHECIDO E DESPROVIDO. LITIGÂNCIA DE MÁ-FÉ. NÃO CONFIGURAÇÃO. DECISÃO AGRAVADA QUE NÃO FIXOU HONORÁRIOS SUCUMBENCIAIS, O QUE AFASTA A HIPÓTESE DE INCIDÊNCIA DO ARTIGO 85, § 11, DO CPC.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: art. 835 do CPC.
+Assevera ser possível "reconhecer a legalidade e autorizar seja realizada a garantia do juízoperfectibilizada através das Letras Financeiras do Tesouro, seguindo a ordem estabelecida no artigo 835 do vigente CPC, por se tratar de mera execução de Cumprimento Provisório de Sentença" - fl. 695.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, registro que o acórdão recorrido foi publicado já sob avigência da Lei 13.105/2015, razão por que o juízo de admissibilidade érealizado na forma deste novo édito, conforme Enunciado Administrativo nº3/STJ.
+Extrai-se dos autos que as Letras Financeiras do Tesouro não foram aceitas pela Corte de origemcomo garantia, pois "ainaptidão do mencionado título para fins assecuratórios do processo executivo é indiscutível, ante a dificuldade fática de suacomercialização, o que, no momento de eventual venda em hasta pública, implicará ausência de interessados em os adquirir por um preço suficiente ao pagamento do crédito da parte exequente, e a consequente frustração do propósito da demanda executória" - fls. 654/655.
+Verifica-se que o posicionamento adotado pela Corte Estadual está em conformidade com o entendimento desteSuperior Tribunal de Justiça, no sentido de que"em execução por quantia certa de valor não muito elevado, observadas as circunstâncias do caso, sendo a executada instituição financeira com solidez reconhecida, é de rigor que a penhora recaia sobre dinheiro, respeitadas apenas as reservas bancárias mantidas pelo Banco Central. Súmula n.º 328/STJ"(AREsp 233929, Relator(a) Ministra MARIA ISABEL GALLOTTI, Data da Publicação 14/02/2013)
+No mais, "o credor pode recusar os bens indicados à penhora pelo devedor quando forem de difícil alienação, em face da execução operar-se no interesse do credor.Na hipótese dos autos, Letras Financeiras do Tesouro - LFT, é lícito ao credor a não aceitação da nomeação à penhora desses títulos, pois a execução é feita no interesse do exequente e não do executado. Precedentes" (AgRg no Ag 972.303/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 04/08/2009, DJe de 19/08/2009)
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. OFERTA DE LETRAS FINANCEIRAS DO TESOURO NACIONAL - LFT. RECUSA PELO CREDOR. POSSIBILIDADE. BLOQUEIO REALIZADO PELO SISTEMA BACENJUD. OBSERVÂNCIA DA ORDEM DO ART. 655 DO CPC/73. AGRAVO NÃO PROVIDO.
+1. Consoante posicionamento desta Corte Superior, é lícita a recusa de Letras Financeiras do Tesouro - LFT indicadas à penhora pelo devedor, porquanto a execução é feita no interesse do credor.Precedentes.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AgRg no AREsp 634.814/CE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/06/2017, DJe 14/06/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SUBSTITUIÇÃO DA PENHORA POR LETRAS FINANCEIRAS DO TESOURO.IMPOSSIBILIDADE. TÍTULOS DE DIFÍCIL COMERCIALIZAÇÃO E DE DUVIDOSA LIQUIDEZ. PRECEDENTES ESPECÍFICOS DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83/STJ. MANUTENÇÃO PELOS SEUS PRÓPRIOS FUNDAMENTOS.AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no AREsp 342.714/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 04/12/2014, DJe 16/12/2014)
+Vale ressaltar quea Terceira Turma já decidiu que não ofende o princípio da menor onerosidade para o executado, insculpido no artigo 620 do Código de Processo Civil, a recusa em aceitar a indicação à penhora de títulos da dívida pública com baixa liquidez (AgRg no Ag 688.705/RS, Rel. Min. SIDNEI BENETI, DJe 23.9.2008).
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para, desde logo, conhecer do recurso especial e negar-lhe provimento.
+Intimem-se.
+EMENTA
+AGRAVO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SUBSTITUIÇÃO DA PENHORA POR LETRAS FINANCEIRAS DO TESOURO. IMPOSSIBILIDADE. TÍTULOS DE DIFÍCIL COMERCIALIZAÇÃO E DE DUVIDOSA LIQUIDEZ. PRECEDENTES ESPECÍFICOS DESTE SUPERIOR TRIBUNAL DE JUSTIÇA.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NEGAR PROVIMENTO AO RECURSO ESPECIAL.
