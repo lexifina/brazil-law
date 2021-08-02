@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus, com pedido liminar, interposto porROSENILTON SIQUEIRA DE MIRANDAcontra v. acórdão proferido peloeg.Tribunal de Justiça do Estado do ParánoHC n. 0811889-53.2020.8.14.0000.
+Depreende-se dos autos que o d. Juízo das execuçõesindeferiuo pleito defensivo de retificação do cálculo de penas do paciente (fls. 33-37).
+Inconformada, a Defesa impetrouhabeas corpusperante o eg. Tribunal de origem, que denegou a ordem, conforme v. acórdão de fls. 87-91assim ementado:
+"HABEAS CORPUS: EXECUÇÃO PENAL. IMPUGNAÇÃO AO CÁLCULO DE PENA INDEFERIDO. PROGRESSÃO DE REGIME. APENADO REINCIDENTE  WRIT INICIALMENTE NÃO CONHECIDO - DETERMINAÇÃO DO STJ PARA QUE O TRIBUNAL JULGUE O MÉRITO DA IMPETRAÇÃO.FUNDAMENTAÇÃO IDÔNEA. INTELIGÊNCIA DO ART. 112, VII DA LEP, ALTERADO PELA LEI Nº 13.964/2019. DENEGAÇÃO.
+1). Reapreciando a questão relacionada com a retificação de cálculo de penas para fins de progressão de regime, o Juízo indeferiu, de forma fundamentada, o pleito da defesa, fixando o entendimento de que a reincidência prevista pelo inciso VII do artigo 112 da LEP, alterado pela Lei nº 13.964/2019, incide tanto em relação a reincidência em crime comum quanto à específica em crime hediondo, ratificando no caso concreto o atestado de pena do SEEU, o qual aplica a fração de 3/5 para progressão de regime.
+2). Outrossim, o inciso V, do art. 112, da LEP, prevê, expressamente, que a fração de 40% da pena deverá ser observada quando o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário.
+Denegação. Unânime."
+No presente recurso, alega, em síntese, ser"inaplicável o percentual de 60% (3/5) ao Assistido/Apenado, vez que, não reincidente na prática de crime hediondo (específico), mas, como demonstrado  e reconhecido no acórdão reprochado - de reincidente genérico. Igualmente inaplicável o percentual de 50%, porque, nos termos da condenação, não se amolda o Apenado nas condições reclamadas nas alíneas do inciso VI do artigo 112, LEP"(fl. 103).
+Requer, ao final, liminarmente e no mérito, o conhecimento e provimento do recurso para"reformar o acórdão reprochado, a fim de, anulada a decisão de piso, reconhecer a ocorrência da novatio legis in medius, determinando seja refeito (art. 5", XL, CRFB) o cálculo de liquidação das penas, observando-se o quanto estatuído no inciso V do artigo 112, LEP, vez que, não reincidente o Apenado em crime hediondo ou equiparado"(fl. 107).
+O pedido liminar foi indeferido às fls. 114-115.
+Informações prestadas às fls. 119-158.
+O Ministério Público Federal, às fls. 163-170, manifestou-se pelo provimento do recurso, em parecer com a seguinte ementa:
+"RECURSO EM HABEAS CORPUS. DIREITO PENAL. EXECUÇÃO PENAL. PLEITO DE UTILIZAÇÃO DO PERCENTUAL DE 40 POR CENTO DE CUMPRIMENTO DE PENA COMO CONDIÇÃO TEMPORAL PARA A PROGRESSÃO DE REGIME, EM FACE DA VIGÊNCIA DA LEI Nº 13964/2019. POSSIBILIDADE. REVISÃO DE ENTENDIMENTO, NA MESMA LINHA DA JURISPRUDÊNCIA DAS DUAS TURMAS CRIMINAIS DESSE SUPERIOR TRIBUNAL DE JUSTIÇA. NECESSIDADE DE REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO PARA A INCIDÊNCIA DA MAIOR FRAÇÃO PARA PROGRESSÃO. PELO DESPROVIMENTO DO RECURSO ORDINÁRIO.
+1. A defesa entende que, em razão do recorrente não ser reincidente em crime hediondo, faria jus ao benefício do cumprimento de apenas 2/5 (40%) da pena total para progredir de regime, após a vigência da Lei nº 13.964/19.
+2. A 5ª Turma desse Superior Tribunal de Justiça, ao julgar os autos de nº HC 616.267/SP e nº HC 613.268/SP, alterou o seu entendimento no mesmo sentido da 6ª Turma desse STJ na linha de que: se a reincidência não for específica em crime hediondo, então ocorre uma lacuna legislativa que impõe ao intérprete que faça analogia in bonam partem (em favor do réu), razão pela qual deve ser aplicada a menor fração (40%),para fins de cálculo de progressão de regime do apenado.
+3. o Ministério Público Federal pugna pelo provimento do recurso ordinário em habeas corpus, para determinar que a transferência do recorrente para regime menos rigoroso observe, quanto ao requisito objetivo, o cumprimento do percentual de 40% (quarenta por cento) da pena, nos termos do art. 112, inciso V, da Lei de Execução Penal."
+É o relatório.
+Decido.
+O presentehabeas corpusencontra-seprejudicado.
+Das informações acostadas àfl. 121, constata-se que o d. Juízo da Vara das Execuções, para acompanhar o novo entendimento desta Corte,em juízo de retratação, procedeu àreanálise e considerou o percentual de 40% para progressão de regime, nos termos pleiteados defensivamente,a demonstraraperda superveniente do objetodo presentemandamus.
+Ante o exposto,julgo prejudicadoo presente recurso ordinário emhabeas corpus.
+P. I.
