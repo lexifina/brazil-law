@@ -1,0 +1,10 @@
+DECISÃO:
+    1. Trata-se de reclamação, com pedido liminar, ajuizada por Carneiro e Basso Ltda-ME em face de decisão proferida pelo Juízo da 2ª Vara Cível da Comarca de Araguari/MG nos autos do Mandado de Segurança nº 5000109-49.2021.8.13.0035, proposto pelo contribuinte para declarar a inconstitucionalidade incidental do diferencial de alíquota do ICMS, uma vez que é optante pelo Simples Nacional.
+    2. A parte reclamante alega afronta à ordem de suspensão nacional dos feitos (art. 1.035, § 5º, do CPC) determinada no paradigma do Tema 517 da repercussão geral (“Aplicação de diferencial de alíquota de ICMS à empresa optante pelo SIMPLES NACIONAL” - RE 970.821, Rel. Min. Edson Fachin). Pleiteia, em caráter liminar, a suspensão do ato reclamado e, ao final, a sua cassação.
+    3. Como base na referida ordem de suspensão nacional, determinei, em cognição sumária, a suspensão dos efeitos da decisão reclamada e da tramitação do Mandado de Segurança nº 5000109-49.2021.8.13.0035.
+    4. Ocorre que, em 14.05.2021, esta Corte concluiu o julgamento de mérito do RE 970.821, paradigma do Tema 517 da repercussão geral. O Plenário, por maioria, negou provimento ao recurso extraordinário e fixou a seguinte tese: “É constitucional a imposição tributária de diferencial de alíquota do ICMS pelo Estado de destino na entrada de mercadoria em seu território devido por sociedade empresária aderente ao Simples Nacional, independentemente da posição desta na cadeia produtiva ou da possibilidade de compensação dos créditos”. Em outras palavras, não subsiste a causa da irresignação. Nesse sentido: Rcl 4.195-AgR, sob a minha relatoria; Rcl 2.121, Rel. Min. Eros Grau; Rcl 11.042, Rel. Min. Dias Toffoli; Rcl 16.410 AgR-AgR, Rel. Min. Marco Aurélio; Rcl 42.971, Rel. Min. Edson Fachin; Rcl 42.742, Relª. Minª. Rosa Weber; Rcl 42.880, Rel. Min. Gilmar Mendes.
+    5. Diante do exposto, com fundamento no art. 21, IX, do RI/STF, revogo a medida cautelar e julgo prejudicada a reclamação. Sem honorários, pois não houve contraditório efetivo.
+    Publique-se. Comunique-se.
+          Brasília, 02 de agosto de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
