@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto contra acórdão assim ementado (fl. 968):
+AGRAVO REGIMENTAL. HABEAS CORPUS. SUBSTITUTIVO DE RECURSO CABÍVEL. IMPOSSIBILIDADE. ORDEM DENEGADA.
+1. Não é cabível o habeas corpus substitutivo de recurso legalmente previsto para a hipótese, salvo em casos excepcionais, quando existente flagrante ilegalidade no ato judicial que acarrete risco à liberdade de locomoção do paciente.
+2. Não se admite habeas corpus como emenda à apelação anteriormente imposta.
+3. Agravo Regimental desprovido.
+Consta dos autos que os recorrentes "foram condenados, em primeira instância, pela prática do delito previsto no art. 1º, inciso I, da Lei 8.137/90, à pena de 3 (três) anos de reclusão, em regime inicial aberto, sendo-lhes majorada a pena em 1 (um) ano em decorrência da causa de aumento prevista no artigo 12, inciso I, da Lei 8.137/90" (fl. 965).
+Interpostas apelaçõespelos réus, ora recorrentes, os recursos foramimprovidos por maioria (fl. 777). Interpostos embargos infringentes, foram estes, também, improvidos (fls. 879-880).
+Neste recurso, pugnam pelo reconhecimento da ilegalidadeda aplicação da causa de aumento prevista no art. 12, I, da Lei 8.137/90, imposta pela sentença, ante a ausência de correlação com a pretensão acusatória, e o consequente redimensionamento das penas.Manifestou-se o Ministério Público Federal pelo desprovimento recursal.
+Do acórdão recorrido, extrai-se (fls. 970-971 - com destaques):
+ ..
+Na via do agravo regimental, a controvérsia limita-se ao pedido de reconhecimento da possibilidade de o habeas corpus ser recebido como substitutivo de recurso cabível para rever a dosimetria da pena quando demonstrada flagrante ilegalidade.
+Reitero os argumentos expendidos por ocasião da prolação da decisão agravada, conforme transcrevo a seguir:
+"Trata-se de habeas corpus impetrado contra sentença proferida pelo juízo da 9ª Vara Criminal de São Paulo que condenou os pacientes à pena de 3 (três) anos de reclusão, em regime inicial aberto, tendo em vista majorante aplicada por ocasião da dosimetria da pena (art. 12, da Lei 8.137/90), a qual não foi requerida na inicial acusatória.
+Aduz que a questão não foi suscitada por ocasião da interposição da apelação interposta pela defesa dos pacientes, sendo cabível o habeas corpus para revisão da dosimetria da pena em razão da ilegalidade imposta que afeta o direito de liberdade.
+Com efeito, não é cabível o habeas corpus substitutivo de recurso legalmente previsto para a hipótese, salvo em casos excepcionais, quando existente flagrante ilegalidade no ato judicial que acarrete risco à liberdade de locomoção do paciente.
+Verifica-se da sentença proferida que os pacientes foram condenados à pena de 3 (três) anos de reclusão, em regime inicial aberto, sendo que a pena privativa de liberdade foi substituída por uma pena de prestação de serviços à comunidade ou entidade pública e uma pena de prestação pecuniária.
+Observa-se, ainda, que a Quinta Turma deste Tribunal, por maioria, negou provimento aos recursos defensivos dos pacientes, sendo que a Quarta Seção deste Tribunal negou provimento aos Embargos Infringentes e de Nulidades opostos, os quais se encontram pendentes de julgamento de Embargos de Declaração.
+Sob tais circunstâncias, entendo incabível a revisão da pena por este tribunal em sede de habeas corpus. A admissão da medida ora requerida equivaleria em tudo à concessão de possibilidade de uma emenda ao recurso de apelação, em completo atropelo ao sistema recursal legalmente previsto.
+De outro lado, não se mostra possível o processamento do feito como substitutivo da revisão criminal, em razão da falta de trânsito em julgado da sentença condenatória.
+Sob essa perspectiva, entendo prematura a eventual revisão da dosimetria da pena na via estreita do habeas corpus, vez que pendente o julgamento de recurso pelas instâncias ordinárias.
+Ante o exposto, indefiro liminarmente presente habeas corpus, nos termos do art. 188 do regimento interno desta corte.
+ ..
+Ante o exposto, nego provimento ao Agravo Regimental. ..
+Como se vê, concluiu o Tribunal local pelo não cabimento dohabeas corpus com o intuito de revisão da dosimetria da pena, uma vez que "equivaleria em tudo à concessão de possibilidade de uma emenda ao recurso de apelação, em completo atropelo ao sistema recursal legalmente previsto", acrescendo que "não se mostra possível o processamento do feito como substitutivo da revisão criminal, em razão da falta de trânsito em julgado da sentença condenatória".
+Ademais, como ressaltado pelos próprios recorrentes, a matéria referente à dosimetria da pena-ilegalidade da aplicação da causa de aumento prevista no art. 12, I, da Lei 8.137/90-não foiquestionada naapelação por eles interposta, "nem prequestionada nos embargos de declaração interpostos"(fl. 994), extraindo-se, quando do julgamento daquele recurso na origem, de igual modo, que " n ão houve insurgência quanto à dosimetria da pena" (fl. 765).
+Como se sabe, muito embora seja conferidoao recurso de apelação efeito devolutivo amplo, seu conhecimento é limitado ao que fora deduzido nas razões recursais ou nas contrarrazões, razão pelaqual, em habeas corpus impetrado nesta Corte, não se pode apreciar pretensão não contestada oportunamente no Tribunal local, sob pena de indevida supressão de instância. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. FURTO. TESE DE NULIDADE DA CITAÇÃO EDITALÍCIA. QUESTÃO NÃO DEBATIDA PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE ANÁLISE POR ESTA CORTE SUPERIOR, SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE ILEGALIDADE PATENTE APTA A ENSEJAR A CONCESSÃO DA ORDEM, DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO DESPROVIDO.
+1. O tema trazido nestes autos relativo à nulidade da citação não foi debatido pelo Tribunal de origem no acórdão impugnado, o que impede a análise originária da matéria por esta Corte Superior, sob pena de indevida supressão de instância.
+2. A despeito de se conferir ao recurso de apelação efeito devolutivo amplo, seu conhecimento é limitado ao que fora deduzido nas razões recursais ou nas contrarrazões, motivo pelo qual em habeas corpus impetrado nesta Corte não se pode apreciar pretensão não ventilada oportunamente nas instâncias antecedentes, sob pena de indevida supressão de instância.
+3. A jurisprudência desta Corte é firme no sentido de que, "em homenagem ao art. 563 do CPP, não se declara a nulidade do ato processual - seja ela relativa, seja absoluta - se a arguição do vício: a) não foi suscitada em prazo oportuno e b) em consonância com o princípio pas de nullité sans grief, não vier acompanhada da prova do efetivo prejuízo para a parte, hipótese destes autos" (HC n. 460.697/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe de 08/03/2019).
+4. As nulidades ocorridas no decorrer da ação penal devem ser arguidas até as alegações finais, sob pena de preclusão, nos termos do art. 571, inciso II, do Código de Processo Penal.
+5. Agravo regimental desprovido.(AgRg no HC 643.437/PR, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 13/04/2021, DJe 29/04/2021).
+Ante o exposto, e a despeito dos seus fundamentos, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
