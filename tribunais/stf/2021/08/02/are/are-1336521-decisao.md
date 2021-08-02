@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    “CONFLITO DE COMPETÊNCIA. INCIDENTE MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO TRABALHISTA. RECUPERAÇÃO JUDICIAL. ENCERRAMENTO. APELAÇÃO NÃO PROVIDA PELO TRIBUNAL LOCAL. SUSPENSÃO DO PROCESSO ATÉ O TRÂNSITO EM JULGADO DA DECISÃO. RAZOABILIDADE NÃO VERIFICADA. CONFLITO DE COMPETÊNCIA NÃO CONHECIDO.
+    1. A recuperação judicial tem por objetivo tornar efetiva a função social a ser exercida pela empresa e constitui processo ao qual podem se submeter empresários e sociedades empresárias que atravessam situação de crise econômico-financeira, mas cuja viabilidade de soerguimento, considerados os interesses de empregados e credores, se mostre plausível.
+    2. A extrapolação do prazo previsto no art. 6º, § 4º, da Lei 11.101/2005 não pode consistir em expediente que conduza à prorrogação genérica e indiscriminada do lapso temporal suspensivo para todo e qualquer processo relacionado com a empresa recuperanda, fazendo-se necessário analisar as circunstâncias subjacentes a cada caso.
+    3. A hipótese dos autos possui a peculiaridade de que, além do fato de o processo recuperacional ter sido encerrado por sentença, o decreto de encerramento foi mantido pelo Tribunal competente.
+    4. Destoa da razoabilidade admitir que o credor tenha de suportar o ônus da suspensão pleiteada pelo devedor diante do tempo transcorrido desde o ajuizamento da execução trabalhista (21/10/2015), o que resultaria em afronta ao princípio da efetividade da jurisdição.
+    5. Conflito de competência não conhecido”.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, inciso XXVI; 109, inciso I, 113 e 114, todos da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo e Previdenciário. Servidor estadual. Previdência complementar. Adesão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional, bem como do conjunto fático-probatório dos autos. Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.210.720/SP - AgR, Tribunal Pleno, Min. Rel. Dias Toffoli (Presidente), DJe de 18/09/19).
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 518.895/MG-AgR, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ de 15/4/5).
+    No mesmo sentido: RE nº 1.231.979/RJ - ED, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 18/12/19; RE nº 1.173.779/RS-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 31/5/19 e RE nº 832.960/DF-AgR, Primeira Turma, Rel. Min Luiz Fux, DJe de 21/5/19.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 2 de agosto de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
