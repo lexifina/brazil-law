@@ -1,0 +1,23 @@
+DECISÃO:
+EMENTA: Embargos de divergência contra acórdão proferido em sede de recurso ordinário em habeas corpus. Não cabimento.
+    1.  Trata-se de embargos de divergência contra acórdão da Primeira Turma do Supremo Tribunal Federal, assim ementado:
+    “Processual penal. Embargos declaratórios em recurso ordinário em habeas corpus recebidos como agravo regimental. Homicídio. Decisão de pronúncia. Jurisprudência do Supremo Tribunal Federal. Análise de fatos e provas. Excesso de prazo. Supressão de instância.
+    1. Tendo em vista o caráter infringente da pretensão formulada pela parte recorrente de ver reformada a decisão impugnada, os embargos de declaração devem ser recebidos como agravo regimental. Precedentes: HC 152.642-ED, Rel. Min. Luiz Fux; ARE 732.028-ED, Rel. Min. Celso de Mello; ARE 684.535-ED, Relª. Minª. Rosa Weber.
+    2. A jurisprudência do Supremo Tribunal Federal é no sentido de que “bastam a prova da materialidade e os indícios da autoria para levar o indivíduo a julgamento pelo tribunal do júri” e que “as dúvidas quanto à certeza do crime e da autoria deverão ser dirimidas durante o julgamento pelo Tribunal do Júri [...], já que a sentença de pronúncia não faz juízo definitivo sobre o mérito das imputações e sobre a eventual controvérsia do conjunto probatório” (HC 95.549, Relª. Minª. Cármen Lúcia).
+    3. Hipótese em que as instâncias de origem atestaram a presença de “indícios suficientes de autoria, vez que a prova testemunhal produzida nesta fase do iudicium accusationis indicou que o acusado Marcos teria participado da infração penal na forma imputada na denúncia”.
+    4. Para chegar a conclusão diversa das instâncias antecedentes, seria necessário o reexame do conjunto fático-probatório dos autos, o que não é possível na via processual restrita do habeas corpus. Nessa linha, veja-se o HC 194.162-AgR, Rel. Min. Alexandre de Moraes.
+    5. No que se refere à alegação de excesso de prazo na prisão cautelar, a matéria não foi analisada pelo Superior Tribunal de Justiça, o que impede o imediato exame pelo Supremo Tribunal Federal, sob pena de supressão de instância.
+    6. Embargos declaratórios recebidos como agravo regimental a que se nega provimento.”
+    2.  O embargante, além de reiterar os argumentos trazidos no recurso ordinário, aduz que “a magnitude do habeas corpus não pode sofrer nenhum obstáculo de natureza processual, haja vista ser até desnecessário a constituição de procurador para sua impetração, facultando ao paciente ele próprio assim fazê-lo”. Afirma que, “em incidente de desaforamento de nº 0009498- 86.2021.8.19.0000, interposto perante Esta Egrégia 4ª Câmara Criminal, foi julgado procedente o desaforamento, lastreado na existência única e exclusiva de delação premiada que foi desmentida posteriormente pelo delator André Luiz Pinto da Cruz”.
+    3. Decido.
+    4.  A jurisprudência do Supremo Tribunal Federal é firme no sentido de que não são cabíveis embargos de divergência de acórdão proferido em sede de recurso ordinário em habeas corpus, tendo em vista a ausência de previsão regimental. Nessa linha, Vejam-se o RHC 197.936-AgR-EDv, HC 120.017-EDv-AgR, Rel. Min. Dias Toffoli; e o HC 88.247-AgR-AgR, Rel. Min. Celso de Mello, assim ementado:
+    “HABEAS CORPUS – IMPETRAÇÃO CONTRA DECISÃO COLEGIADA DE TURMA DO SUPREMO TRIBUNAL FEDERAL – INADMISSIBILIDADE - EXTINÇÃO LIMINAR DO PROCESSO DE HABEAS CORPUS POR DECISÃO MONOCRÁTICA DO RELATOR DA CAUSA – LEGITIMIDADE – RECURSO DE AGRAVO IMPROVIDO .
+    - Não cabe, para o Plenário, impetração de habeas corpus contra decisão colegiada de qualquer das Turmas ( ou do próprio Pleno) do Supremo Tribunal Federal, ainda que resultante do julgamento de outros processos de habeas corpus ( Súmula 606/STF) ou proferida em sede de recursos em geral, inclusive aqueles de natureza penal ( RTJ 88/108 – RTJ 95/1053 – RTJ 126/175). Precedentes .
+    - Não se mostram admissíveis embargos infringentes contra decisão majoritária do Plenário (ou das Turmas) do Supremo Tribunal Federal, se tal decisão vem a ser proferida em causa diversa daquelas enunciadas , taxativamente , em rol exaustivo (numerus clausus), no art. 333 do RISTF. Precedentes .
+    - Não se revela viável a interposição de embargos de divergência contra acórdãos proferidos, pelo Supremo Tribunal Federal, quer em sede originária de habeas corpus, quer, ainda, no âmbito de recurso ordinário em habeas corpus. Precedentes.”
+    5.  Diante do exposto, com base no art. 21, §1º, do RI/STF, não conheço dos embargos de divergência.
+    Publique-se.
+    Arquivem-se os autos.
+          Brasília, 02 de agosto de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
