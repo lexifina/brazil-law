@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de EDUARDO LINS DE ALBUQUERQUE contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 000674897.2003.8.26.0081).
+Consta dos autos que o paciente foi condenado como incurso noart. 12, § 2º, inciso III, da Lei n. 6.368/1976, à pena de 15 anos de reclusão e 360 dias-multa; e no art. 14 da Lei n. 6.368/1976, à pena de 10 anos de reclusão;totalizando às penas em 25 anos de reclusão e 720 dias-multa, em regime fechado (e-STJ fls. 35/59).
+Inconformada, a defesa interpôs recurso de apelação, tendo o Tribunal local dado parcial provimento ao reclamo para redimensionar as penas para18 anos de reclusão e 150 dias-multa, preservado o valor unitário mínimo para as multas e o regime prisional fechado para o início do cumprimento das penas, dando-ocomo incursonos artigo 12, "caput", e 14, ambos da Lei n.6.368/76, mantendo-se, no mais, a r. sentença apelada(e-STJ fls. 14/26).
+No presentewrit(e-STJ fls. 3/13), o impetrante alega que o paciente está sofrendo constrangimento ilegal, uma vez que a pena-base fixada em razão do cometimento do delito do art. 14 da Lei n. 6.368/1976 foi arbitrada em patamar acima do máximo legal de 6 anos de reclusão.
+Argumenta que, não obstante o paciente tenha sido condenado pelo delito previsto no art. 14 da Lei n. 6.368/1976, a pena deve observar o previsto no art. 8º da Lei n. 8.072/1990, isto é, reclusão de 3 a 6 anos. Contudo, aponta queo eminente desembargador relator, ao dosar a sanção penal para o delito de associação para o tráfico, a fixou, ainda na primeira fase da dosimetria, em quantia superior ao máximo legal de 6 (seis) anos de reclusão, atribuindo ao paciente a pena de 9 (nove) anos de reclusão, quantia esta correspondente ao triplo do mínimo legal (e-STJ fl. 6).
+Afirma, ainda, que, segundo jurisprudência solidificada nesta Corte Superior, ao apreciar os Embargos de Divergência de n149.768/SP, da relatoria do ministro Felix Fischer (DJ de 17/5/1999) pacificou-se o entendimento de que a "associação de duas ou mais pessoas para o fim de praticar a conduta tipificada no art. 12 da Lei n. 6.368/1976 subsume-se ao tipo descrito no art. 14 da referida lei, com pena imposta pelo art. 8º da Lei n.8.072/1990 (e-STJ fls. 5/6).
+Dessa forma, requer, na liminar e no mérito, o redimensionamento da pena-base do delito do art. 14 da Lei n. 6.368/194.
+É o relatório.Decido.
+De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+No caso dos autos, ao menos em juízo de cognição sumária, não verifico manifesta ilegalidade apta a justificar o deferimento da medida de urgência, sendo necessário aprofundado exame dos autos para a aferição de eventual constrangimento ilegal.
+Ademais, o pedido liminar confunde-se com o próprio mérito da impetração, o qual deverá ser analisado em momento oportuno, por ocasião do julgamento definitivo do habeas corpus pelo colegiado.
+Ante o exposto, indefiro a liminar.
+Suficientemente instruída a impetração, dispenso informações.
+Dê-se vista dos autos ao Ministério Público Federal.
+Intimem-se
