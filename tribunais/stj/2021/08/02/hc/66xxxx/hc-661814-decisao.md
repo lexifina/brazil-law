@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ANA KLEBIA GOMES contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 1500575-76.2019.8.26.0483.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, mais o pagamento de 583 (quinhentos e oitenta e três) dias-multa, como incurso nas iras do art. 33, caput, c/c art. 40, III, da Lei n. 11.343/2006 (fls. 47-62).
+Inconformada, a defesa interpôs apelação perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao recurso, consoante voto condutor do v. acórdão de fls. 31-46.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois a paciente faz jus à aplicação do tráfico privilegiado.
+Sustenta a inexistência de provas a atestarem a dedicação à atividade delitiva ou a integração à organização criminosa.
+Aduz ser pequena a quantidade de droga apreendida.
+Defende a inexistência de fundamentação idônea a justificar a fixação de regime inicial fechado.
+Pugna pela substituição da pena privativa de liberdade por restritiva de direitos.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fl. 483).
+Informações prestadas às fls. 487-512.
+O Ministério Público Federal, à fl. 516, manifestou-se pelo não conhecimento do writ, em parecer sem ementa.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração: i) a aplicação do tráfico privilegiado; ii) a fixação de regime inicial mais brando; e iii) a substituição da pena privativa de liberdade por restritiva de direitos.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Data vênia, respeitado o entendimento trazido na razões recursais, não era mesmo o caso de aplicação do "redutor" de pena, eis que a acusada foi presa em flagrante com expressiva quantidade droga (297,60 gramas de maconha), sendo que as conversas obtidas em seu aparelho celular dão conta da relação de Ana Klebia Gomes com a criminalidade e dedicação às atividades criminosas.
+Em outras palavras, as circunstâncias do caso concreto indicam dedicação às atividades criminosas, o que impede a concessão do "redutor" de pena.
+ ..
+Foi fixado regime inicial fechado na r. sentença para ambos os acusados, o que deve ser mantido. De fato, o único regime compatível com o crime de tráfico de drogas é o inicial fechado, justamente pela gravidade concreta existente.
+Todo indivíduo que participa de narcotráfico revela extrema periculosidade. O crime em tela intranquiliza a população e vem crescendo, causa problemas gravíssimos ao bom convívio familiar. Essa difusão há de ser coibida pelo Estado-Juiz, o qual, ao impor regime mais rigoroso, não só retirará o malfeitor perigoso do convívio social, mas também evitará que ele continue a exercer suas atividades ilícitas, viciando pessoas e destruindo famílias.
+ ..
+No mais, diante da condenação dos acusados à pena superiora quatro anos e das circunstâncias demonstrarem a ineficácia da medida, incabível a substituição da pena privativa de liberdade por restritivas de direitos (art. 44, do Código Penal)" (fls. 43-45).
+Quanto ao pedido de incidência da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, frise-se que, na ausência de indicação pelo legislador das balizas para o percentual de redução previsto no art. 33, § 4º, da Lei n. 11.343/06, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante, quando evidenciarem a dedicação do agente ao tráfico de entorpecentes.
+In casu, há fundamentação concreta para o afastamento do tráfico privilegiado, consubstanciada na quantidade e na natureza da droga apreendida: 297,60 g de maconha.
+Assim, a Corte originária se convenceu de que o paciente se dedicava, efetivamente, às atividades criminosas, porque não se tratava de traficante ocasional.
+Ademais, rever o entendimento das instâncias ordinárias para fazer incidir a causa especial de diminuição demandaria, necessariamente, amplo revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus. Nesse sentido: HC n. 372.973/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 23/2/2017; e HC n. 379.203/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 10/2/2017.
+Em relação ao regime inicial, o col. Supremo Tribunal Federal, por ocasião do julgamento do HC n. 111.840/ES (Rel. Min. Dias Toffoli, DJe de 17/12/2013), declarou incidentalmente a inconstitucionalidade do § 1º do art. 2º da Lei n. 8.072/90, com redação dada pela Lei n. 11.464/07, afastando a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados.
+Seguindo tal orientação, firmou-se o entendimento nesta Corte segundo o qual o julgador deve observar o disposto no art. 33, §§ 2º e 3º, do Código Penal, quando da fixação do regime inicial de cumprimento da pena privativa de liberdade, independente de o crime ser hediondo ou equiparado.
+In casu, a quantidade e a natureza do entorpecente - 297,60 g de maconha - são elementos aptos a ensejar a aplicação do regime fechado, o que está em consonância com o entendimento desta Corte, ex vi do art. 33, § 2º, "a", e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/2006. Confira-se: HC n. 488.679/SP, Quinta Turma Rel. Min. Ribeiro Dantas, DJe 11/06/2019; e AgRg no HC n. 380.021/SC, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 22/3/2017.
+Mantido o quantum de pena aplicado, o pedido de substituição da pena privativa de liberdade por restritiva de direitos encontra óbice no art. 44, I, do Código Penal.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
