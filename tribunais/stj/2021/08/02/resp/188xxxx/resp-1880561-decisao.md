@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DO BRASIL S.A.com respaldo nas alíneas "a" e "c" do permissivo constitucionalcontra acórdão do Tribunal de Justiça do Distrito Federal e dos Territóriosassim ementado (e-STJ fl. 325):
+AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. CONTA VINCULADA AO PROGRAMA DE FORMAÇÃO DO PATRIMÔNIO DO SERVIDOR PÚBLICO (PASEP).CAUSA DE PEDIR FUNDADA EM SUPOSTA MÁ-GESTÃO DOS RECURSOS DEPOSITADOS.LEGITIMIDADE DO BANCO DO BRASIL. INCLUSÃO DA UNIAO A LIDE.DESNECESSIDADE. DECISÃO REFORMADA.
+1. Não são objeto de questionamento, por parte da autora/agravante, circunstâncias relacionadas a índices de cálculo ou ajustes contábeis ou financeiros, elementos estes cuja fixação compete ao Conselho Diretor do programa, e, caso tivessem sido deduzidos como causa de pedir, poderiam, em tese, legitimar a União a integrar o polo passivo da lide. 1.1. Os limites objetivos dos autos de origem compreendem, apenas e tão somente, a alegada má-administração pelo Banco do Brasil S/A do saldo havido na conta vinculada à parte autora, o que o torna parte legítima para compor o feito.
+2. Limitando-se a parte autora a discutir somente aspectos de administração destes recursos, o qual é feito pelo BANCO DO BRASIL S/A deve a instituição financeira recorrente figurar, de forma exclusiva, no , polo passivo da demanda. Precedentes.
+3. Agravo de Instrumento conhecido e provido.
+Nas suas razões, a parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 17,485, VI, do CPC/2015,4º-A da Lei Complementar n. 26/1975, 7º e 10 do Decreto n. 4.751/2003, sustentando sua ilegitimidade para o feito,a competência da Justiça Federal, carência de ação eimpossibilidadejurídica do pedido.
+Contrarrazões às e-STJ fls. 429/434.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 436/437.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+No que toca às teses decompetência da Justiça Federal, carência de ação e impossibilidade jurídica do pedido, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada. "
+Quanto ao mais, entendeu a Corte a quo pela legitimidade passiva da parte ora recorrente,em razão da pretensão deduzida na inicial,aos seguintes fundamentos (e-STJ fl. 333):
+A análise da pretensão autoral movida em face da instituição financeira, ora agravada, evidencia que a causa de pedir em que se fundamentam os pedidos refere-se, em suma, à má-prestação do serviço desempenhado na gestão dos depósitos realizados em sua conta do PASEP.
+A toda evidência, não são objeto de questionamento, por parte da recorrente, circunstâncias relacionadas a índices de cálculo ou ajustes contábeis ou financeiros, elementos estes cuja fixação compete ao Conselho Diretor do programa, e, caso tivessem sido deduzidos como causa de pedir, poderiam, em tese, legitimar a UNIÃO a integrar o polo passivo da lide.
+De fato, os limites objetivos da presente demanda compreendem, apenas e tão somente, a alegada má-administração pelo do saldo havido na conta vinculada à parte autora, o BANCO DO BRASIL S/A que o torna parte legítima para compor o feito.
+As razões do recurso especial, contudo, deixaram de impugnar a aludida fundamentação adotada pela Corte regional, tornando inviável o conhecimento do apelo nobre, nos termos da Súmula 284 do STF.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10%o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
