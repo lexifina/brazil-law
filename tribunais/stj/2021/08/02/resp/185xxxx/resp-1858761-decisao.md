@@ -1,0 +1,93 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DO BRASIL S.A., fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO INTERNO - MULTA PREVISTA NO ARTIGO 475-J DO CÓDIGO DE PROCESSO CIVIL DE 1973 - Existência do V. Acórdão proferido nos autos do Recurso Especial, representativo da controvérsia nº1.247.150/PR - O julgado não divergiu da orientação do Superior Tribunal de Justiça - Decisão que não aplicou a referida sanção - Necessidade da prévia liquidação - Matéria não afetada para os fins do artigo 1.036 do Novo Código de Processo Civil - Irrelevância do entendimento desta Câmara sobre a liquidez da r. sentença condenatória - Análise da controvérsia referente à Ação Civil Pública movida pela Apadeco contra o Banestado - Demanda coletiva diversa da objeto da presente execução - Posicionamento emanado pelo V. Acórdão mantido - Recurso improvido"  (fl. 498, e-STJ).
+Em suas razões, o recorrente apontaa violação dos "arts. 17, 875, 240, 332, § 1º, 485, VI, 1.035 do CPC e § 2º, do art. 1º da Lei 6.899/1981 e arts. 95. 97 e 98 da Lei 8078/90" (fl. 419, e-STJ), bem como ofensa ao art. 16 da Lei nº 7.347/1985.
+Postula, preliminarmente, a necessidade de suspensão de tramitação do feito por 24 (vinte e quatro) meses em virtudeda decisão proferida pelo Supremo Tribunal Federal no Recurso Extraordinário nº 632.212/SP.
+Sustenta, em síntese:
+(i) a prescrição quinquenal para o ajuizamento do cumprimento de sentença devido àilegitimidade e ausência de interesse do Ministério Público do Distrito Federal eTerritórios para interpor medida cautelar de protesto interruptivo de prescrição;
+(ii) a ilegitimidade ativa da parte adversa para o ajuizamento da demandacoletiva, visto que não demonstrousua filiação ao Instituto de Defesa do Consumidor - IDEC;
+(iii) a eficácia limitada da sentença coletiva proferida pelo Juízo de Direito da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF;
+(iv) a necessidade da liquidação de sentença devido aoseu caráter genérico ao argumento deque a supressão da fase de liquidação retira a liquidez do título, nos termos do art. 783do CPC(fl. 443);
+(v) os juros moratórios e o termo inicial de sua fluência correm a partir da citação no cumprimento de sentença,não da sentença coletiva, e
+(vi) ofensa ao art. 85, § 2º, do CPC/2015, alegando o não cabimento da fixação de honorários advocatícios, tendo em vista queos patronos das execuções individuais nãoatuaram na fase de conhecimento, por conseguinte, não podem se beneficiar dessa verba honorária.
+Após a apresentação das contrarrazões, o recurso foi admitido na origem, subindo os autos a esta Corte.
+Em despacho de fls. 552-554, o relator determinou a remessa dos autos ao Tribunal de origem em virtude da existência dematéria afetada a julgamento sob o rito dos recursos especiais repetitivos (Tema 1.033).
+O Tribunallocal, por meio do despacho de fls. 529-531, determinou a remessa do feito a esta Corte Superior, considerando que a matéria relativa à interrupção do prazo prescricionalnão foi prequestionada.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar parcialmente.
+Inicialmente, ressalta-se que não tem cabimento o pedido de suspensão do feito em virtude da decisão proferida no Recurso Extraordinário nº 632.212, publicada em 12/4/2019, e do entendimento firmado na Questão de Ordem apreciada pela Segunda Seção em 24/4/2019.
+Na ocasião, determinou-se o restabelecimento da tramitação regular dos processos que versarem acerca deexpurgos inflacionários, em fase de execução, liquidação e/ou cumprimento de sentença, nos quais a parte expressamente se manifeste pela não adesão ao acordo homologado pelo Supremo Tribunal Federal.
+Na espécie, observa-se que aparte recorrida se manifestou àfl. 514 (e-STJ) pelo desinteresse em aderir ao Acordo Nacional de Poupança.
+Por outro lado, não há falar na ocorrência do prazo prescricional, poisnão houve debate no Tribunal de origem acerca da ilegitimidade e da ausência de interesse do Ministério Público do Distrito Federal eTerritórios para propor medida cautelar de protesto interruptivo de prescrição.
+Desse modo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+A propósito:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. VIOLAÇÃO DO ART 535 DO CPC/1973. ARGUMENTOS GENÉRICOS. INCIDÊNCIA. SÚMULA 284/STF. 2. MÁ-FÉ NO PREENCHIMENTO DA DECLARAÇÃO DE SAÚDE. ALTERAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. 3. VIOLAÇÃO AOS ARTS. 130 E 332 DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 4. AGRAVO INTERNO IMPROVIDO.
+1. A suscitada violação do art. 535 do Código de Processo Civil de 1973 foi deduzida de modo genérico, o que justifica a aplicação da Súmula 284/STF.
+2. A revisão da conclusão a que chegou o Tribunal de origem, acerca da configuração da má-fé da segurada, em razão da omissão de doença preexistente à contratação, é vedada no âmbito do julgamento de recurso especial, ante o óbice inserto na Súmula 7/STJ.
+3. Incidem as Súmulas 282 e 356 do STF quando não verificada discussão pelo Tribunal de origem a respeito de tese ventilada no recurso especial (de contrariedade aos arts. 130 e 332 do CPC/1973), dada a ausência do indispensável prequestionamento.
+4. Agravo interno improvido"
+(AgInt no AgInt no AREsp 1.025.576/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/10/2017, DJe 24/10/2017).
+No tocante às alegações de ilegitimidade ativa e de incompetência do Juízo, a jurisprudência da Segunda Seção desta Corte de Justiça, no julgamento dos REsps nºs 1.243.887/PR e 1.391.198/RS, sob o rito dos recursos repetitivos, consolidou o entendimento de que a sentença proferida na ação civil públicaque determinou o pagamento das diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupançaé aplicável, indistintamente, a todos os poupadores da instituição financeira, independentemente de residirem ou estarem domiciliados no órgão prolator e de comprovarem a filiação ao IDEC para a habilitação individual.
+Os repetitivos receberam as seguintes ementas:
+"DIREITO PROCESSUAL. RECURSO REPRESENTATIVO DE CONTROVÉRSIA (ART. 543-C, CPC). DIREITOS META INDIVIDUAIS. AÇÃO CIVIL PÚBLICA. APADECO X BANESTADO. EXPURGOS INFLACIONÁRIOS. EXECUÇÃO/LIQUIDAÇÃO INDIVIDUAL. FORO COMPETENTE. ALCANCE OBJETIVO E SUBJETIVO DOS EFEITOS DA SENTENÇA COLETIVA. LIMITAÇÃO TERRITORIAL. IMPROPRIEDADE. REVISÃO JURISPRUDENCIAL. LIMITAÇÃO AOS ASSOCIADOS. INVIABILIDADE. OFENSA À COISA JULGADA.
+1. Para efeitos do art. 543-C do CPC:
+1.1. A liquidação e a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário, porquanto os efeitos e a eficácia da sentença não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido, levando-se em conta, para tanto, sempre a extensão do dano e a qualidade dos interesses meta individuais postos em juízo (arts. 468, 472 e 474, CPC e 93 e 103, CDC).
+1.2. A sentença genérica proferida na ação civil coletiva ajuizada pela Apadeco, que condenou o Banestado ao pagamento dos chamados expurgos inflacionários sobre cadernetas de poupança, dispôs que seus efeitos alcançariam todos os poupadores da instituição financeira do Estado do Paraná. Por isso descabe a alteração do seu alcance em sede de liquidação/execução individual, sob pena de vulneração da coisa julgada. Assim, não se aplica ao caso a limitação contida no art. 2º-A, caput, da Lei n. 9.494/97.
+2. Ressalva de fundamentação do Ministro Teori Albino Zavascki.
+3. Recurso especial parcialmente conhecido e não provido"
+(REsp1.243.887/PR, Relator Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/10/2011, DJe 12/12/2011).
+"AÇÃO CIVIL PÚBLICA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. SENTENÇA PROFERIDA PELO JUÍZO DA 12ª VARA CÍVEL DA CIRCUNSCRIÇÃO ESPECIAL JUDICIÁRIA DE BRASÍLIA/DF NA AÇÃO CIVIL COLETIVA N. 1998.01.1.016798-9 (IDEC X BANCO DO BRASIL). EXPURGOS INFLACIONÁRIOS OCORRIDOS EM JANEIRO DE 1989 (PLANO VERÃO). EXECUÇÃO/LIQUIDAÇÃO INDIVIDUAL. FORO COMPETENTE E ALCANCE OBJETIVO E SUBJETIVO DOS EFEITOS DA SENTENÇA COLETIVA. OBSERVÂNCIA À COISA JULGADA.
+1. Para fins do art. 543-C do Código de Processo Civil: a) a sentença proferida pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva n. 1998.01.1.016798-9, que condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal;b) os poupadores ou seus sucessores detêm legitimidade ativa - também por força da coisa julgada -, independentemente de fazerem parte ou não dos quadros associativos do Idec, de ajuizarem o cumprimento individual da sentença coletiva proferida na Ação Civil Pública n. 1998.01.1.016798-9, pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF.
+2. Recurso especial não provido"
+(REsp 1.391.198/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/8/2014, DJe 2/9/2014).
+Com relação ao termo inicial de incidência dos juros de mora, nojulgamento do REsp nº 1.361.800/SP, sob o rito do art. 543-C do CPC/1973, esta Corte firmou entendimento no sentido de que a contagem se dá a partir da citação do devedor na fase de conhecimento da ação civil pública, quando esta se fundar em responsabilidade contratual, salvo a configuração da mora em momento anterior.
+Eis aementa do referido aresto:
+"AÇÃO CIVIL PÚBLICA - CADERNETA DE POUPANÇA - PLANOS ECONÔMICOS - EXECUÇÃO- JUROS MORATÓRIOS A PARTIR DA DATA DA CITAÇÃO PARA A AÇÃO COLETIVA -VALIDADE - PRETENSÃO A CONTAGEM DESDE A DATA DE CADA CITAÇÃO PARA CADA EXECUÇÃO INDIVIDUAL - RECURSO ESPECIAL IMPROVIDO.
+1.- Admite-se, no sistema de julgamento de Recursos Repetitivos (CPC, art.543-C, e Resolução STJ 08/98), a definição de tese uniforme, para casos idênticos, da mesma natureza, estabelecendo as mesmas consequências jurídicas, como ocorre relativamente à data de início da fluência de juros moratórios incidentes sobre indenização por perdas em Cadernetas de Poupança, em decorrência de Planos Econômicos.
+2.- A sentença de procedência da Ação Civil Pública de natureza condenatória, condenando o estabelecimento bancário depositário de Cadernetas de Poupança a indenizar perdas decorrentes de Planos Econômicos, estabelece os limites da obrigação, cujo cumprimento, relativamente a cada um dos titulares individuais das contas bancárias, visa tão-somente a adequar a condenação a idênticas situações jurídicas específicas, não interferindo, portanto, na data de início da incidência de juros moratórios, que correm a partir da data da citação para a Ação Civil Pública.
+3.- Dispositivos legais que visam à facilitação da defesa de direitos individuais homogêneos, propiciada pelos instrumentos de tutela coletiva, inclusive assegurando a execução individual de condenação em Ação Coletiva, não podem ser interpretados em prejuízo da realização material desses direitos e, ainda, em detrimento da própria finalidade da Ação Coletiva, que é prescindir do ajuizamento individual, e contra a confiança na efetividade da Ação Civil Pública, o que levaria ao incentivo à opção pelo ajuizamento individual e pela judicialização multitudinária, que é de rigor evitar.
+3.- Para fins de julgamento de Recurso Representativo de Controvérsia(CPC, art. 543-C, com a redação dada pela Lei 11.418, de 19.12.2006),declara-se consolidada a tese seguinte: "Os juros de mora incidem a partir da citação do devedor na fase de conhecimento da Ação Civil Pública, quando esta se fundar em responsabilidade contratual, se que haja configuração da mora em momento anterior."
+4.- Recurso Especial improvido"
+(REsp nº 1.361.800/SP, Corte Especial, Relator o Ministro Raul Araújo, Rel. p/ acórdão Ministro Sidnei Beneti, DJe de 14/10/2014).
+Acerca donão cabimento da cobrança dehonorários advocatícios, o recurso também não merece acolhida.
+Ressalta-se queo aresto combatido está em conformidade com a jurisprudência dominante desta Corte no sentido de serpossível a fixação da verba honorária na fase de liquidação de sentença, desde que esta tenha assumido caráter contencioso.
+Confiram-se:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS DE SUCUMBÊNCIA EM LIQUIDAÇÃO DE SENTENÇA POR ARTIGOS. INCIDÊNCIA DO PARÁGRAFO 4º DO CPC/73. INEXISTÊNCIA DE CONDENAÇÃO.
+1. A jurisprudência desta Corte Superior orienta-se no sentido da possibilidade de fixação de honorários de sucumbência na fase de liquidação de sentença, nas hipóteses de litigiosidade excessiva.
+2. Por não haver condenação na fase de liquidação de sentença, os honorários de sucumbência nela fixados deverão atentar aos critérios estabelecidos no § 4º do CPC/73.
+3. Distinção entre as hipóteses de honorários de sucumbência fixados na fase de liquidação litigiosa da fase de cumprimento do título liquidado. (REsp 1.028.855/SC; Relª. Minª. NANCY ANDRIGHI, DJe 5.3.2009) .
+4. AGRAVO INTERNO DESPROVIDO"
+(AgInt no REsp 1.367.363/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 1º/9/2016, DJe 9/9/2016).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO DE EXECUÇÃO - DECISÃO MONOCRÁTICA NEGANDO SEGUIMENTO AO RECLAMO. IRRESIGNAÇÃO DA DEMANDANTE.
+1. Não se admite recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte de origem (Súmula 283 do STF).
+2. São cabíveis honorários advocatícios em sede de liquidação de sentença por arbitramento, quando houver resistência da parte ré.Precedentes.
+3. Agravo regimental desprovido"
+(AgRg no REsp 1.155.885/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/2/2016, DJe 24/2/2016).
+"EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. VÍCIOS DO ART. 535 DO CPC. LIQUIDAÇÃO CONTROVERTIDA. FATO GERADOR DOS HONORÁRIOS ADVOCATÍCIOS. OCORRÊNCIA. OMISSÃO CONFIGURADA. PROVIMENTO SEM EFEITOS INFRINGENTES.
+1. O art. 535 do CPC dispõe que: "Cabem embargos de declaração quando: I - houver, na sentença ou no acórdão, obscuridade ou contradição; II - for omitido ponto sobre o qual devia pronunciar-se o juiz ou tribunal".
+2. Com a modificação do julgado (parcial provimento do recurso), surge como seu consectário a necessidade de fixação das verbas de sucumbência, sendo que, nos termos da pacífica jurisprudência desta Corte, é cabível o arbitramento de honorários também na fase de liquidação de sentença quando se verificar, em relação ao quantum debeatur, caráter contencioso.
+3.Na fase liquidatória, a ora embargante, teve a pretensão vencedora em reduzir os valores arbitrados para, além de excluir a capitalização dos juros (nos termos do acórdão recorrido), adotar o termo inicial para contagem dos juros de mora como sendo a citação do réu no processo de conhecimento, surgindo daí, fato gerador para os honorários advocatícios.
+4. Embargos de declaração providos para, sanando a omissão, fixar honorários advocatícios na fase de liquidação"
+(EDcl no REsp 1.374.735/RTS, Relator Ministro LUIS FELIPE SALOMÃO, julgado em 16/9/2015, QUARTA TURMA, DJe de 22/2/2014 - grifou-se).
+Assim, verifica-se que o Tribunal de origem decidiu em conformidade com a jurisprudência deste Tribunal Superior, o que atrai a incidência da Súmula nº 568/STJ.
+Todavia, assiste razão ao recorrente quanto à alegada necessidade de liquidação de sentença.
+De fato, a jurisprudência desta Corte orienta que é necessária a liquidação da sentença genérica proferida em ação civil pública para a definição da titularidade do crédito e do valor devido.
+Sobre o tema:
+"AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. EXECUÇÃO (CUMPRIMENTO DE SENTENÇA) INDIVIDUAL. CONDENAÇÃO GENÉRICA. LIQUIDAÇÃO.
+1. O cumprimento de sentença coletiva demanda fase prévia de liquidação. Precedentes.
+2. Agravo interno a que se nega provimento"
+(AgInt no REsp 1.820.853/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/3/2020, DJe 2/4/2020).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COLETIVA. EXECUÇÃO INDIVIDUAL. LIQUIDAÇÃO PRÉVIA. NECESSIDADE. DIVERGÊNCIA JURISPRUDÊNCIA. AUSÊNCIA DE SIMILITUDE. SÚMULAS Nº 7/STJ E 284/STF.
+1. É necessária a liquidação sentença coletiva proferida em ação civil pública pelo particular que pretende executá-la, oportunidade em que se provará tanto a sua qualidade de credor quanto o valor do seu crédito.
+2. Os julgados trazidos como paradigmas solucionaram questão relacionada à possibilidade de conversão de ação individual em liquidação de sentença, quando julgada ação coletiva com o mesmo objeto, o que não se assemelha à pretensão recorrente, para que se converta execução individual de sentença coletiva em liquidação. Incidência das Súmulas nº 7/STJ e 284/STF.
+3. Agravo regimental não provido"
+(AgRg no AREsp 370.244/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/10/2015, DJe 23/10/2015).
+"DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO. SÚMULA 83/STJ. RECURSO NÃO PROVIDO.
+1. "A sentença proferida em ação civil pública, por si, não confere ao vencido o atributo de devedor de "quantia certa ou já fixada em liquidação" (art. 475-J do CPC), porquanto, "em caso de procedência do pedido, a condenação será genérica", apenas "fixando a responsabilidade do réu pelos danos causados"(art. 95 do CDC)" (REsp 1247150/PR, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/10/2011, DJe 12/12/2011).
+2. Agravo regimental não provido"
+(AgRg no AREsp 510.687/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/4/2015, DJe 5/5/2015).
+Ante o exposto, conheço do recurso especial e dou-lhe parcial provimento tão somente para determinar a prévia liquidação da sentença.
+Publique-se.
+Intimem-se.
