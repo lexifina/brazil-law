@@ -1,0 +1,12 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravomanejado porSELMA PENHA ROCHA E OUTROScontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado(e-STJ, fl. 15):
+RECURSO DE AGRAVO DE INSTRUMENTO EM AÇÃO ORDINÁRIA EM FASE DE CUM PRIM ENTO DE SENTENÇA.PROCESSUAL CIVIL. HONORÁRIOS. IMPUGNAÇÃO.
+Condenação ao pagamento de verba honorária advocatícia devida, pois com a apresentação de cálculos em valores excessivos, a agravante teve que apresentar impugnação. Princípio da causalidade e princípio da sucumbência, ou seja, aquele que deu causa a instauração do processo ou incidente deve arcar com os encargos decorrentes.
+Inteligência do disposto no artigo 85 §1º e 7º do Novo Código de Processo Civil. Decisão reformada. Recurso provido.
+A questão jurídica objeto do presente recurso constitui tema dosRecursosEspeciais n. 1.850.512/SP,1.877.883/SP e 1.906.623/SP, deminharelatoria, submetidos ao rito dos recursos repetitivos, Tema 1.076,cujoprocessamento se encontra pendente na Corte Especial.
+Há de se ressaltar que, emjulgamento realizado em 26/5/2021, a Primeira Seção, na questão de ordem suscitada nos EDcl na AR 4.971/MG, decidiu que devem ser sobrestados os processos nos quais a discussão seja estritamente relativa à aplicabilidade do art. 85, § 8º, do CPC/2015 eexorbitância da verba honorária.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, de modo que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se
