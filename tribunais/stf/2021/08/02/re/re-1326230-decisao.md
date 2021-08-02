@@ -1,0 +1,28 @@
+D E C I S Ã O
+    Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 1º Região que, confirmado em sede de juízo de retratação, está assim ementado (com meus grifos):
+    “JUÍZO DE ADEQUAÇÃO. PROCESSUAL CIVIL. CONSTITUCIONAL E TRIBUTÁRIO. EXECUÇÃO FISCAL. CONSELHO PROFISSIONAL. COBRANÇA DE MULTA POR INFRAÇÃO ADMINISTRATIVA. NATUREZA NÃO TRIBUTÁRIA. FIXAÇÃO/MAJORAÇÃO DO VALOR DAS MULTAS POR RESOLUÇÃO: POSSIBILIDADE. NATUREZA TRIBUTÁRIA DA CONTRIBUIÇÃO. JURISPRUDÊNCIA DO STJ. RECURSO EXTRAORDINÀRIO. REPERCUSSAO GERAL. MANUTENÇÃO DO JULGADO POR FUNDAMENTO DIVERSO.”
+    É o relatório do essencial. Decido.
+    O Tribunal de origem, ao apreciar a controvérsia, adotou fundamentação infraconstitucional e baseou-se no entendimento jurisprudencial do Superior Tribunal de Justiça para consignar que as multas administrativas aplicadas pelos conselhos profissionais, como objeto de infrações, possuem fundamento em preceitos de cunho administrativo, e, por não possuírem natureza tributária, podem ser majorados por meio de resoluções. Colho do acórdão recorrido o seguinte trecho elucidativo:
+    “No entanto, verifico que o objeto da presente execução fiscal não se trata da cobrança de anuidades. Ao contrario, refere-se às multas administrativas (disciplinares ou eleitorais) aplicadas por conselho profissional que por terem como objeto infrações a preceitos de cunho administrativo, não possuem natureza tributaria, não estando sujeitas ao principio da legalidade tributaria. Seus valores, portante, podem ser majorados por resolução, a teor do que já decidiu a 4ª Seção desta Corte:
+    (…)
+    …...................................................................................................
+    A jurisprudência do STJ é no mesmo sentido:
+    ‘PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRA TIVO 02/STJ. EXECUÇÃO FISCAL. MULTA ADMINISTRATIVA COBRADA POR CONSELHO PROFISSIONAL. NÃO INCIDÊNCIA DA REGRA PREVISTA NO ART. 8º DA LEI 12.514/2011. 1. Nos termos do art. 8º da Lei 12.514/2011, ‘os Conselhos não executarão judicialmente dividas referentes a anuidades inferiores a 4 (quatro) vezes o valor cobrado anualmente da pessoa física ou jurídica inadimplente’, sendo que tal regra ‘não limitada a realização de medidas administrativas de cobrança, a aplicação de sanções por violação da ética ou a suspensão do exercício profissional’. Como se percebe, o preceito lega/ referido trata de dividas decorrentes de anuidades. Em se tratando de norma que limita o exercício do direito de cobrança por parte dos conselhos profissionais, reveste-se de caráter excepcional, razão pela qual se impõe sua interpretação restritiva. 2. No caso, considerando que a execução fiscal refere-se a crédito decorrente de multa administrativa, não há falar em incidência do disposto no art. 8º da Lei 12.51412011. 3. Recurso especial provido. (REsp 1597524/SP, Rei. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/05/2016, DJe 23/0512016)’
+    …......….........................................................................................
+    Nesse contexto, as multas administrativas tanto anteriores quanto posteriores à Lei n. 12.514/2011 podem ser cobradas via EF.“
+    Em que pese a articulada vulneração a dispositivos constitucionais, dissentir de tais conclusões demandaria a reinterpretação da legislação de regência (Lei nº 12.514/2011), revelando a ausência de ofensa direta ao texto constitucional.
+    Nesse sentido cito precedente da Primeira Turma desta Suprema Corte: AI 739.941-AgR/SP, Ministro Dias Toffoli:
+    “Agravo regimental no agravo de instrumento. Administrativo. Órgão de fiscalização. Poder de polícia. Imposição de multa. Princípio da legalidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes.
+    1. O Tribunal de origem, analisando a Lei nº 5.966/73, concluiu que havia amparo legal para a imposição de multa pelo INMETRO à agravante, em decorrência de essa haver descumprido normas pertinentes à uniformidade e à racionalização das unidades de medida.
+    2. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional. Incidência da Súmulas nº 636/STF.
+    3. Agravo regimental não provido.”
+    Há, ainda, os seguintes precedentes monocráticos em casos análogos: ARE 1.092.960/RJ, Ministro Gilmar Mendes; ARE 1.097.465/RJ, Ministro Ricardo Lewandowski.
+    Saliento, por fim, na linha do entendimento consolidado deste Supremo, que a matéria tratada no caso em tela não possui semelhança com o decidido no RE 704.292/PR, Ministro Dias Toffoli, Tema nº 540/RG, vez que no aludido paradigma foi tratada a questão referente a possibilidade de fixação de anuidade por conselhos de fiscalização profissional e não a aplicação das multas administrativas por infração.
+    Honorários advocatícios recursais
+    Os honorários recursais, previstos no § 11 do art. 85 do Código de Processo Civil, não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo ao ônus estabelecido previamente, motivo porque, na hipótese de descabimento ou de ausência de fixação anterior como na espécie dos autos, a sua incidência é indevida.
+    Nesse sentido, entre muitos outros, os seguintes acórdãos proferidos no Superior Tribunal de Justiça: AgInt no REsp-1.341.886/SP, DJ de 30.5.2019; EDcl no REsp-1.731.612/RS, DJ de 23.4.2019; e AgInt no AREsp-1.167.338/DF, DJ de 26.3.2019.
+    Em face do exposto, com fundamento no inciso VIII do art. 932 do CPC c/c § 1º do art. 21 do RISTF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 02 de agosto de 2021.
+Ministro NUNES MARQUES
+Relator
