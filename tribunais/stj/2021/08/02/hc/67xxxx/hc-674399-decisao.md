@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado pela Defensoria Públicaem favor de CARLOS EDUARDO RODRIGUES DE MATOS,WILLIAN MATIAS DOS SANTOS e MICHEL MAICON DOS SANTOS NUNES,contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação n. 1500157-35.2020.8.26.0603.
+Na hipótese, o impetrante aponta constrangimento ilegal na negativa de absolvição dos pacientes quanto aocrime de adulteração de sinal identificador, bem como naexasperação das penas-base do réus, em razão das condenações fixadas nos seguintes termos:
+Carlos Eduardo ao cumprimento das penas de 09 (nove) anos e 04 (quatro) meses de reclusão, em regime inicial fechado, e 21 (vinte e um) dias-multa, fixados no mínimo legal, pela prática do crime previsto no artigo 157, § 2º, inciso II, c.c. o artigo 29, caput, na forma do artigo 71, parágrafo único, todos do Código Penal; e à pena de 03 (três) anos de reclusão, no regime inicialfechado, e pagamento de 10 (dez) dias-multa, fixados no mínimo legal, por infração ao artigo 311, caput, c.c. artigo 29, caput, ambos do Código Penal;
+Michel Maicon e William ao cumprimento das penas de 11 (onze) anos, 02 (dois) meses e 12 (doze) dias de reclusão, em regime inicial fechado, e 27 (vinte e sete) dias-multa, fixados no mínimo legal, pela prática do crime previsto no artigo 157, § 2º, inciso II, c.c. o artigo 29, caput, na forma do artigo 71, parágrafo único, todos do Código Penal; e à pena de 04 (quatro) anos e 01 (um) mês de reclusão, no regime inicial fechado, e pagamento de 12 (doze) dias-multa, fixados no mínimo legal, por infração ao artigo 311, caput, c.c. artigo 29, caput, ambos do Código Penal.
+E se requer, em caráterliminar e no mérito, a concessão da ordempara que seja determinada a absolvição dos pacientes em relação ao delito previsto no artigo 311, do CP, e a fixação da pena-base no mínimo legal.
+É o breve relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+No caso, ao menos em juízo perfunctório, não é possível identificar de plano o constrangimento ilegal aventado ou, ainda, a presença do fumus boni iuris e do periculum in mora, elementos autorizadores para a concessão da tutela de urgência.
+Confundindo-se com o mérito, a pretensão deve ser submetida à análise do órgão colegiado, oportunidade na qual poderá ser feito exame aprofundado das alegações relatadas após manifestação do Parquet.
+Por tais razões, indefiro o pedido de liminar.
+Solicitem-se, com urgência e via telegrama, informações atualizadas e pormenorizadas à autoridade indigitada de coatora, a serem prestadas, preferencialmente, pela Central de Processo Eletrônico - CPE do STJ.
+Após, abra-se vista ao Ministério Público Federal para parecer.
+P. e I.
