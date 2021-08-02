@@ -1,0 +1,12 @@
+DECISÃO:
+    1. Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Apelação Criminal Recurso Ministerial - Tráfico Ilícito de Entorpecentes Afastamento do redutor previsto no art. 33, §4º, da Lei nº 11.343/2006 Fixação do regime fechado e afastamento da substituição da pena privativa de liberdade por restritiva de direitos Recurso provido.”
+    2. O recurso busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega violação aos arts. 3º, I, III, e 5º, XLVI, da CF. Aduz que “a desproporção entre o valor mínimo de 500 dias multa e a renda nacional média é patente, demonstrando-se que a questão colocada não diz respeito a particularidade desta demanda, mas a matéria de grande relevância social, dado o fato de que a grande maioria dos indivíduos processados e condenados por tráfico de entorpecentes pertence às camadas sociais menos abastadas”.
+    3. O recurso é inadmissível, tendo em vista que a jurisprudência desta Corte é no sentido de que “cabe ao legislador ordinário a previsão e dosagem, qualitativa e quantitativa, da resposta penal. Em outras palavras, impende assinalar que o legislador detém ampla margem para selecionar quais condutas carregam repugnância suficiente a legitimar o tratamento penal mais gravoso” (ARE 1.305.785, Rel. Min. Edson Fachin). Ainda nessa linha, vejam-se: ARE 992.318, Rel. Min. Ricardo Lewandowski; RE 443.388, Relª. Minª. Ellen Gracie; ARE 1.291.306-AgR, Rel. Min. Alexandre de Moraes; e ARE 1.310.059-AgR, Relª. Minª. Cármen Lúcia, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. TRÁFICO DE DROGAS. MULTA. ALEGAÇÃO DE INCONSTITUCIONALIDADE. OPÇÃO LEGISLATIVA. IMPOSSIBILIDADE DE INTERFERÊNCIA DO PODER JUDICIÁRIO. PRECEDENTES. INDIVIDUALIZAÇÃO DA PENA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    4. E mais: a controvérsia relativa à individualização da pena passa necessariamente pelo exame prévio da legislação infraconstitucional. Nesse sentido, confiram-se: AI 797.666-AgR, Rel. Min Ayres Britto; AI 796.208-AgR, Rel Min. Dias Toffoli; RE 505.815-AgR, Rel. Min. Joaquim Barbosa; e ARE 1.075.559, Rel. Min. Luiz Fux.
+    5. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 02 de agosto de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
