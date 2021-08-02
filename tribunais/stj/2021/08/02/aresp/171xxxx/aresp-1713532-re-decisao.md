@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por L A L F, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 507):
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. PLANO DE SAÚDE.PROCEDIMENTO MÉDICO NÃO PREVISTO NO ROL DA ANS.COBERTURA. NÃO OBRIGATORIEDADE. EQUILÍBRIO FINANCEIRO E ATUARIAL. SISTEMA DE SAÚDE SUPLEMENTAR. MÉTODO ABA. NOTA TÉCNICA Nº 135 DO BANCO DE DADOS E-NATJUS DO CNJ. AUSÊNCIA DE SUPERIORIDADE TÉCNICA APTA A JUSTIFICAR A EXCEPCIONALIDADE DA COBERTURA.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. As operadoras de plano de saúde não estão obrigadas a custear tratamento médico não incluído no rol de procedimentos na ANS, em razão da necessidade de preservar o equilíbrio financeiro e atuarial do sistema suplementar de assistência à saúde (Quarta Turma, RESP 1.733.013/PR, DJe 20.2.2020).
+3. "No banco de dados E-natjus do CNJ, na linha da tese suscitada pela operadora do plano de saúde desde a contestação, consta a nota técnica 133 com conclusão não favorável ao Método ABA, por não haver evidências fortes de superioridade com relação às "terapias convencionais". E a mesma conclusão se extrai também da Nota Técnica n. 135, a evidenciar que, a par de ser questão de clara atribuição, conferida por lei, ao Poder Executivo, a exclusão dessa cobertura de alto custo, pela ótica da Ciência atual, nem sequer parece se mostrar desarrazoada." (AgInt no AREsp 1544749/SP, Rel.
+Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/12/2020, DJe 15/12/2020) 4. Agravo interno a que se nega provimento.
+Sustenta o recorrente violação dos arts. 5º,XXXII, 196, 200 e seus incisos e 227, § 1º, incisos I e II, todos da Constituição Federal.
+Questiona o acórdão desta Corte que entendeu quedeveria ser afastada a obrigatoriedade de custeio do tratamento pela operadora do plano de saúde, pois o tratamento médico não estaria previsto no contrato, tampoucono rol de procedimentos obrigatórios da ANS.
+Afirma que tal decisão ofende o direito à saúde eo direito do consumidor, bem como o princípio da dignidade da pessoa humana.
+Pugna pela concessão de tutela de urgência paraque o tratamento médico seja custeado pela operadora do plano de saúde nos termos do laudo médico juntado nos autos.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Apresentadas as contrarrazões (e-STJ fls. 536/546).
+É o relatório.
+Compulsando-se os autos, verifica-se que a controvérsia cinge-se à questão da não obrigatoriedade das operadoras de plano de saúde de prestarem tratamento médico não previsto no rol da ANS, estando o acórdão recorrido assim fundamentado (e-STJ fls. 511/516):
+"Observo que os argumentos desenvolvidos pelo agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Como salientado, anoto que a Quarta Turma deste Superior Tribunal de Justiça modificou o entendimento anteriormente adotado para considerar que "é inviável o entendimento de que o rol é meramente exemplificativo e de que a cobertura mínima, paradoxalmente, não tem limitações definidas".
+Isso porque a referida jurisprudência, além de constituir indevida interferência do Poder Judiciário no âmbito regulatório de competência do Executivo, inviabiliza a sobrevivência financeira das operadoras de plano de saúde, em virtude da necessidade de estrita observância às previsões atuariais, bem como representa ofensa à livre concorrência por ir de encontro às previsões legais que permitem a contratação das mais variadas coberturas, para além do plano-referência com seus procedimentos e eventos mínimos obrigatórios.
+A propósito, confiram o mencionado julgado, de Relatoria do Ministro Luis Felipe Salomão:
+ ..
+Ainda, saliento que "não se está a dizer que não possam existir situações pontuais em que o Juízo - munido de informações técnicas obtidas sob o crivo do contraditório, ou mesmo se valendo de nota técnica dos Nat-jus, em decisão racionalmente fundamentada - venha determinar o fornecimento de certa cobertura que constate ser efetivamente imprescindível, com supedâneo em medicina baseada em evidência (clínica)."( REsp 1733013/PR, Rel. Ministro LUIS FELIPE SALOMÃO).
+No caso dos autos, contudo, como destacado recentemente por esta Quarta Turma, no julgamento do AREsp. 1.544.749-SP, ocorrido no dia 10.12.2020, relator o Ministro Luis Felipe Salomão, "no banco de dados E-natjus do CNJ, na linha da tese suscitada pela operadora do plano de saúde desde a contestação, consta a nota técnica 133 com conclusão não favorável ao Método ABA, por não haver evidências fortes de superioridade com relação às "terapias convencionais". E a mesma conclusão se extrai também da Nota Técnica n. 135, a evidenciar que, a par de ser questão de clara atribuição, conferida por lei, ao PoderExecutivo, a exclusão dessa cobertura de alto custo, pela ótica da Ciência atual, nem sequer parece se mostrar desarrazoada." Confiram a ementa do citado acórdão:
+ ..
+Em face do exposto, nego provimento ao agravo interno.
+É o voto."
+Desse modo,a análise da matéria ventilada depende do exameda Lei n. 9.656/1998, razão pela qualeventual ofensa à Constituição Federal, se houvesse, seria reflexa ou indireta, não legitimando a interposição do apelo extremo.
+Ademais, para afastar os pressupostos fáticos adotados no julgamento do recurso seria indispensável o reexame dos elementos de convicção existentes nos autos, o que não é permitido em recurso extraordinário, diante do óbice contido no enunciado 279 da Súmula do Supremo Tribunal Federal,in verbis:
+"Para simples reexame de prova não cabe recurso extraordinário."
+Em casos semelhantes, assim tem decidido a Corte Suprema:
+EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL. TRATAMENTO INDISPENSÁVEL PARA A SAÚDE DO PACIENTE. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(ARE 1178771 AgR, Relator(a): CÁRMEN LÚCIA, Segunda Turma, julgado em 06/08/2019, PROCESSO ELETRÔNICO DJe-179 DIVULG 15-08-2019 PUBLIC 16-08-2019)
+EMENTA Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Assistência médico-hospitalar de servidor público. Tratamento. Cobertura de procedimento. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise da legislação infraconstitucional, tampouco para o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido. 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+(ARE 1264331 AgR, Relator(a): DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 22/05/2020, PROCESSO ELETRÔNICO DJe-162 DIVULG 26-06-2020 PUBLIC 29-06-2020)
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Prejudicado o pleito de concessão de tutela de urgência.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PROCEDIMENTO MÉDICO NÃO PREVISTO NO ROL DAANS. VIOLAÇÃO DOS ARTS. 5º, XXXII,196, 200 E 227 DA CARTA MAGNA. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL.REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ENUNCIADO 279 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL.RECURSO NÃO ADMITIDO.
