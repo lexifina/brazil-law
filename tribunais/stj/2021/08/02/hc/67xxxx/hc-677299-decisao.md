@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de PAULO CÉSAR DOS SANTOS, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo em execução interposto pela Defesa, nos termos do acórdão assim ementado:
+Agravo em execução - aplicação analógica de 40% reservada aos indivíduos primários - condenação posterior por crime comum - irrelevância - lei não faz distinção entre a reincidência comum ou específica - novel redação do artigo 112, inciso VII, da LEP, apesar de sofrível, contempla os mesmos casos do revogado artigo 2º, § 2º, da Lei nº 8.072/90 - interpretação do agravante que fere o princípio da continuação normativo-típica e individualização das penas, visto que a reincidência sempre agrava na segunda e terceira fase - ofensa ao princípio da isonomia, visto que para alguns exigir-se-ia a reincidência simples e para outros a específica, sem texto expresso em lei, que se exige para tal diferenciação - ofensa ao princípio da proporcionalidade - crime mais leves não exigiriam reincidência específica e hediondos e equiparados sim - uso da interpretação reductio ad absurdum e sistemática - inexistência de analogia in malam partem, que não existe lacuna e não se adota norma análoga - caso de interpretação do art. 112 da LEP - interpretação in claris cessat interpretativo superada - desarmonia com o restante do art. 112 da LEP - negado provimento ao recurso. (e-STJ, fl. 90).
+Neste writ, a defesa alega constrangimento ilegal sofrido pelo paciente, porquanto deveria ter sido aplicado, no Juízo das Execuções, o inciso V do art. 112 da LEP, e não o inciso VII do mesmo dispositivo legal, no cálculo das penas, a fim de constar o prazo de 40% (quarenta por cento) para a progressão de regime prisional.
+Assevera que o paciente é reincidente simples e, na falta de previsão expressa legislativa para o caso, deve-se interpretar a modificação trazida pela Lei n. 13.964/2019 de modo mais benéfico ao reeducando. Aduz que o lapso aplicável ao caso seria de 40% (quarenta por cento) para progressão de regime.
+Requer a retificação do cálculo de penas, "para que se passe a exigir do paciente para a progressão de regime de cumprimento de pena o cumprimento de 40% da pena remanescente" (e-STJ, fl. 12)
+É o relatório.
+Decido.
+Constata-se que a presente impetração constitui mera reiteração do pedido formulado no HC 677299/SP, e isto porque há identidade de partes e da causa de pedir, o que constitui óbice ao seu conhecimento.
+Nesse sentido, confiram-se:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. REITERAÇÃO DE OUTRO WRIT. ESTADO DE FLAGRÂNCIA. TRÁFICO. OBSERVÂNCIA DAS FORMALIDADES LEGAIS. PROTRAÇÃO DO FLAGRANTE NO TEMPO. ALEGAÇÃO DE EXCESSO DE PRAZO NO OFERECIMENTO DA DENÚNCIA. INOVAÇÃO RECURSAL. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1 - Tratando-se o recurso em habeas corpus de mera reiteração de mandamus impetrado anteriormente como Habeas Corpus 540.373/MG, distribuído em 16/10/2019, indefere-se liminarmente.
+ ..
+5 - Agravo regimental improvido" (AgRg no RHC 119.777/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/12/2019, DJe 09/12/2019)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente este habeas corpus.
+Publique-se. Intimem-se.
