@@ -1,0 +1,56 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especialinterposto por CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASILcontra decisão do Tribunal de Justiça do Estado de Sergipe que não admitiu recurso especial manejado contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. PREVI. DECISÃO INTERLOCUTÓRIA QUE DETERMINOU A REALIZAÇÃO DE PERÍCIA CONTÁBIL PARA APURAR OALEGADO EXCESSO EXECUTÓRIO - DESNECESSIDADE DE PERÍCIA ATUARIAL - CÁLCULOS DO QUANTUM DEBEATUR QUE JÁ FORAM REALIZADOS POR UM PERITO ESPECIALIZADO EM ATUÁRIA - APURAÇÃO DO SALDO REMANESCENTE APENAS POR CÁLCULOS ARITMÉTICOS - CASSAÇÃO DA DECISÃO AGRAVADA - AGRAVO PROVIDO - DECISÃO UNÂNIME.
+Nas razões do recurso especial, a parte recorrente alega ofensa aos arts. 6º, 7º, 18, 22, e 25, todos da LC N. 109/2001, ao art. 25 da Lei N. 9.295/1946, ao art. 5º do Decreto-Lei N. 806/1969, e aos arts. 467 e 468, ambos do Código de Processo Civil de 2015,sustentando, em síntese, a necessidade de realização de perícia atuarial na fase de cumprimento de sentença, sob pena de cerceamento de defesa.
+Aduz, ainda, que, "em se tratando de cálculo de revisão de proventos de aposentadoria privada, faz-se imperiosa a nomeaçãode um perito com qualificação técnica em atuária, a fim de que os cálculos a serem realizados observem todos os requisitos";que, eventual condenação ao pagamento de valores diversos daqueles previstos no Regulamento, ensejaria patente violação ao princípio do equilíbrio financeiro e atuarial; bem como dissídio jurisprudencial.
+Apresentadas contrarrazões (e-STJ fls. 139-164).
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/2015, conforme Enunciado Administrativo Nº 3/STJ.
+Ato contínuo, percebe-se que a irresignação não merece acolhida.
+A parte recorrente, em sede de recurso especial, alega ofensa aos arts. 6º, 7º, 18, 22, e 25, todos da LC N. 109/2001, ao art. 25 da Lei N. 9.295/1946, ao art. 5º do Decreto-Lei N. 806/1969, e aos arts. 467 e 468, ambos do Código de Processo Civil de 2015, sustentando, em síntese, a necessidade de realização de perícia atuarial na fase de cumprimento de sentença, sob pena de cerceamento de defesa;que, "em se tratando de cálculo de revisão de proventos de aposentadoria privada, faz-se imperiosa a nomeação de um perito com qualificação técnica em atuária, a fim de que os cálculos a serem realizados observem todos os requisitos"; que, eventual condenação ao pagamento de valores diversos daqueles previstos no Regulamento, ensejaria patente violação ao princípio do equilíbrio financeiro e atuarial; bem como dissídio jurisprudencial.
+O acórdão recorrido, por sua vez, assim assentou (e-STJ fls. 90-92):
+Tratam-se, os presentes autos, de recurso de Agravo de Instrumento em que a CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI/agravante se insurge contra a decisão interlocutória que determinou a realização de perícia contábil, ao invés da perícia atuarial, para apurar o alegado excesso executório. (..)
+A irresignação recursal cinge-se, conforme dito, à desnecessidade de realização da perícia atuarial a fim de apurar o excesso do saldo remanescente da quantia executada pelos agravados/exequentes.
+o Cumprimento de Sentença, objeto da presente Impugnação que ora se agrava, diz respeito à execução de saldo remanescente, decorrente dos valores não pagos da cesta-alimentação, do período de junho/2012 a fevereiro/2018, cujo quantum devido, a ser apurado, entendo desnecessária a perícia atuarial, uma vez que não está subordinada à conservação do equilíbrio econômico-financeiro e atuarial da entidade que suplementa os proventos de seus associados, sendo a perícia contábil para os valores não pagos, suficiente a averiguar se houve, ou não, o excesso alegado.
+Nesse sentido, a jurisprudência pátria, inclusive deste Tribunal de Justiça, já decidiu sobre a desnecessidade da perícia atuarial em sede de Liquidação ou Cumprimento de Sentença, nos seguintes termos: (..)
+Desta forma, a perícia contábil é o bastante para averiguar se houve, ou não, o excesso alegado pelo impugnante/executado.
+Com efeito, vislumbra-se que a irresignação da parte agravante não merece guarida, uma vez que o v. acórdão, ao concluirquanto à "desnecessidade da perícia atuarial em sede de Liquidação ou Cumprimento de Sentença", bem como que se mostra "desnecessária a perícia atuarial, uma vez que não está subordinada à conservação do equilíbrio econômico-financeiro e atuarial da entidade que suplementa os proventos de seus associados, sendo a perícia contábil para os valores não pagos, suficiente a averiguar se houve, ou não, o excesso alegado", vai ao encontro do entendimento desta Corte Superior, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. 1.CUMPRIMENTO PROVISÓRIO DE SENTENÇA. APURAÇÃO DE VALORES DEVIDOS.SIMPLES CÁLCULOS ARITMÉTICOS. DESNECESSIDADE DE REALIZAÇÃO DE PERÍCIA ATUARIAL. SÚMULAS N. 7 E 83 DO STJ. 2. RECURSO ESPECIAL IMPROVIDO.
+1. É pacífica a jurisprudência desta Corte no sentido de que, na hipótese em que se discute a necessidade da produção da prova pericial atuarial para aferir os valores devidos em virtude de decisão transitada em julgado, não se aplica o entendimento firmado pela Segunda Seção do STJ no julgamento do REsp 1.345.326/RS, que se refere à necessidade de perícia atuarial em processo de conhecimento.
+2. A conclusão a que chegou o Tribunal a quo, acerca da desnecessidade de perícia atuarial em razão da possibilidade de liquidação do julgado por simples cálculos aritméticos, decorreu da convicção formada em face da análise dos elementos fático-probatórios da lide, cuja revisão, no caso, implica o reexame de provas, o que é inviável em recurso especial, consoante dispõe a Súmula n. 7 do STJ.
+3. Agravo interno improvido.
+(AgInt no REsp 1798115/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/06/2019, DJe 25/06/2019) - g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA.COMPLEMENTAÇÃO DE BENEFÍCIO. REALIZAÇÃO DE PERÍCIA ATUARIAL NA FASE DE CUMPRIMENTO DE SENTENÇA. DESNECESSIDADE. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Na fase de cumprimento de sentença, é prescindível a perícia atuarial para o cálculo de complementação de benefício previdenciário. Inaplicabilidade do entendimento firmado pela Segunda Seção do STJ no julgamento REsp 1.345.326/RS, relativo à necessidade de perícia atuarial em processo de conhecimento.Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1409862/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/05/2019, DJe 13/06/2019) - g.n.
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PREVIDÊNCIA PRIVADA. AÇÃO DE COBRANÇA. EXPURGOS INFLACIONÁRIOS SOBRE A RESERVA DE POUPANÇA. EXECUÇÃO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PERÍCIA ATUARIAL. DESNECESSIDADE. SÚMULA Nº 83 DO STJ.DECISÃO MANTIDA.
+1. A entidade previdenciária não apresentou argumento novo capaz de modificar a conclusão adotada, que se apoiou em entendimento aqui consolidado para negar provimento ao agravo em recurso especial.
+2. Na hipótese em que se discute a necessidade da produção da prova pericial atuarial para aferir os valores devidos em virtude de decisão transitada em julgado, não se aplica o entendimento firmado pela Segunda Seção do STJ no julgamento do REsp nº 1.345.326/RS, que se refere à necessidade de perícia atuarial em processo de conhecimento (REsp nº 1.345.326/RS, Rel. Min. LUIS FELIPE SALOMÃO, Segunda Seção, DJe 8/5/2014). Inafastável a aplicação da Súmula nº 83 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 747.878/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/06/2016, DJe 01/07/2016) - g.n.
+Ademais,para infirmar a conclusão a que chegou o Tribunal de origem em relação à necessidade, ou não, de produção de perícia atuarial, seria necessário o reexame dos elementos fático-probatórios dos autos, soberanamente delineados pelas instâncias ordinárias, o que é defeso nesta fase recursal a teor da Súmula nº 7 desta Corte.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE BENEFÍCIO DE PREVIDÊNCIA COMPLEMENTAR. DUPLICIDADE DE RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA.CUMPRIMENTO DE SENTENÇA. REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL.PREJUDICADO.
+1. Ação de revisão de benefício de previdência complementar, em fase de cumprimento de sentença.
+2. Em harmonia com o princípio da unirrecorribilidade recursal, observada a prévia interposição de recurso contra a decisão recorrida, constata-se a preclusão consumativa em relação ao agravo interposto posteriormente.
+3. Alterar o decidido no acórdão impugnado, no que se refere a desnecessidade de realização de perícia atuarial, em sede de cumprimento de sentença, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo interno no agravo em recurso especial de e-STJ fls.436/452 não conhecido.
+6. Agravo interno no agravo em recurso especial de e-STJ fls.419/435 não provido.
+(AgInt no AREsp 1368925/SE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/04/2019, DJe 10/04/2019) - g.n.
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. PREVIDÊNCIA PRIVADA.REVISÃO DE BENEFÍCIO. CUMPRIMENTO DE SENTENÇA. PERÍCIA ATUARIAL.DESNECESSIDADE. CÁLCULO ARITMÉTICO. NÃO OCORRÊNCIA DE CERCEAMENTO DE DEFESA. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. BASES FÁTICAS DISTINTAS.
+1. Na fase de cumprimento de sentença, é desnecessária a produção de prova pericial atuarial para apurar valores cujos parâmetros já foram fixados na decisão exequenda.
+2. Segundo o princípio do livre convencimento motivado, consagrado no art. 130 do CPC, o juiz é livre para apreciar as provas produzidas e indeferir diligências que entenda inúteis ou meramente protelatórias, o que não caracteriza cerceamento de defesa.
+3. Revisar as razões pelas quais o Tribunal de origem decidiu pela negativa da produção de prova pericial demanda o reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula n. 7/STJ.
+4. Não se conhece da divergência jurisprudencial quando os julgados dissidentes tratam de situações fáticas diversas.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 705.585/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 01/09/2015, DJe 10/09/2015) - g.n.
+Destarte, melhor sorte não socorre à parte recorrente, inclusive quanto ao alegado dissídio pretoriano.
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nesta extensão, NEGAR-LHE PROVIMENTO.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PERÍCIA ATUARIAL. DESNECESSIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR.REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
