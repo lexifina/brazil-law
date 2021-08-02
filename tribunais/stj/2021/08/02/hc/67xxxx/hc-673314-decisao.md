@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em benefício de ADRIANO APARECIDO DIOMAZ(S)IO BATISTA, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 56-59):
+"HABEAS CORPUS. Pedido de aplicação da detração do tempo de prisão preventiva. Competência da Vara das Execuções Criminais. Inexistência de decisão em primeiro grau que inviabiliza a análise da questão por esta Turma Julgadora, sob pena de indevida supressão de instância. Não conhecimento do writ. Extinção do processo sem resolução de mérito."
+No presente habeas corpus, em suma, a d. Defesa explica que o fato ocorreu em "06/11/2008, sendo preso em flagrante e permanecendo no cárcere até a data de 14/04/2010, onde foi concedido o direito de responder ao processo em liberdade por força de uma ordem de Habeas Corpus, no qual permaneceu até a data de 20/05/2015" (fl. 4).
+Ainda, que "o paciente aguardou o resultado do recuso de apelação da sentença condenatória obtida no plenário do tribunal do Júri, cumprindo fielmente as medidas que lhe foram impostas pela autoridade judiciaria, tendo assim ficado privado de sua liberdade por um período de 2 (dois) anos e 7 (sete) meses e 07 (sete) dias conforme documentos comprobatórios em anexo" (fl. 9).
+Requer, inclusive LIMINARMENTE, "a) O conhecimento do presente writ, concedendo a medida liminar pretendida, com o propósito de que, no presente caso, seja aplicado o a aplicação da detração de 2 (dois) anos e 7 (sete) meses e 07 (sete) dias anos e das medidas cautelares até o julgamento desta ação, por estar documentalmente provada a plausibilidade jurídica da invocação, permitindo antever a probabilidade de concessão final da ordem (fumaça do bom direito), sendo evidente o perigo na mora da entrega da prestação jurisdicional se persistir a privação da liberdade de locomoção em regime mais severo que o devido; b) No mérito, requer-se a confirmação da medida liminar deferida, com a concessão definitiva da ordem, a fim de que, no presente caso, seja detração de 2 (dois) anos e 7 (sete) meses e 07 (sete) dias anos e das medidas cautelares; c) Caso o eminente Relator, não entenda pelo não conhecido do mandamus, diante a flagrante ilegalidade requer seja concedida a ordem ex officio" (fls. 54-55).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. Assim, incabível o presente mandamus, porquanto substitutivo de via própria.
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+No caso, o presente habeas corpus não comporta sequer conhecimento.
+Primeiro, porque, como dito, é substitutivo de via própria.
+Segundo, em razão da mera reiteração de pedidos noHC n. 669.864/SP.
+Terceiro, pois não se afigura nenhum constrangimento ilegal.
+Explico.
+Conforme se apreende dos autos, o v. acórdão aqui vergastado, de n.2078675-11.2021.8.26.0000, foi exatamente o mesmo atacado noprocessoacima indicado.
+A petição inicial também é tão semelhante que as páginas são correspondentes às do feito conexo.
+Em tempo, se esclarece que, no HC n. 669.864/SP, foi devidamente explicado que a matéria não foi apreciada pela origem (reconhecendo-se a indevida supressão de instância desde a origem).
+Sendo assim, a presente impetração, contra o mesmo v. acórdão e padecendo do mesmo vício de ausência de prévia manifestação do d. Juízo da Execução, necessariamente, deve ter o mesmo destino da primeira.
+Ainda, diante desse cenário, sobre a impossibilidade de conhecimento de habeas corpus, ou de seu recurso ordinário, quando configurada a mera reiteração de pedidos, confiram-se os seguintes julgados:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. MERA REITERAÇÃO DE RECURSO ORDINÁRIO ANTERIORMENTE INTERPOSTO. AGRAVO DESPROVIDO.
+1. Constatado que o presente recurso ordinário é mera reiteração de outro recurso ordinário interposto anteriormente perante esta Corte, com identidade de causas de pedir e de pedidos, não há como dar curso à irresignação.
+2. Ainda que haja documento da Secretaria de Administração Penitenciária atestando "não dispor  o Estado  de instalações compatíveis a "Sala de Estado Maior"", consoante afirma o agravante, é certo que tal documento não foi apreciado pela Corte de origem no writ originário, o que também impediria o conhecimento da presente irresignação, uma vez que a análise da matéria por esta Corte configuraria indevida supressão de instância e violação dos postulados do devido processo legal e do duplo grau de jurisdição.
+3. Agravo regimental a que se nega provimento." (AgRg no RHC 106.171/RJ, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe 1º/3/2019).
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DE PEDIDO FORMULADO EM OUTRO WRIT. IMPOSSIBILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Inexistindo fato superveniente, é incabível a impetração de habeas corpus com objeto idêntico a outro feito anteriormente examinado no âmbito desta Corte.
+2. No caso em exame, as causas de pedir expostas em ambas impetrações são idênticas, bem como os pedidos de suspensão da execução provisória da pena imposta ao agravante pelas instâncias ordinárias.
+3. Hipótese em que a defesa pretende a obtenção da mesma prestação jurisdicional nas duas vias de impugnação, circunstância que caracteriza ofensa ao princípio da unirrecorribilidade das decisões judiciais.
+4. Agravo regimental não provido." (AgRg no HC 478.216/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 19/2/2019).
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. REITERAÇÃO DE PEDIDO. AGRAVO DESPROVIDO.
+1. O recurso ordinário traz pedido idêntico ao formulado no HC 393.851/BA e em ambos se ataca acórdão do Tribunal de Justiça da Bahia no Habeas Corpus n. 0023373-89.2016.8.05.0000. Referida impetração teve seu mérito julgado em maio do corrente ano.
+2. Diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento do recurso ordinário.
+Agravo regimental desprovido." (AgRg no RHC 84.693/BA, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe 16/8/2017).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. MATÉRIA ANALISADA EM PRÉVIO RECURSO EM HABEAS CORPUS. REITERAÇÃO DE PEDIDO. EXCESSO DE PRAZO PARA JULGAMENTO DE RECURSO EM SENTIDO ESTRITO. RECURSO JÁ JULGADO. EVENTUAL DELONGA SUPERADA. RECURSO NÃO PROVIDO.
+1. Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto.
+2. "Julgado o Recurso em Sentido Estrito, resta superada a alegação de excesso de prazo para análise do mérito do referido recurso" (RHC n. 66.467/GO, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 9/3/2016).
+3. Agravo regimental não provido." (AgRg no HC 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 10/8/2017).
+No mesmo sentido, o col. Supremo Tribunal Federal:
+"Agravo regimental em recurso ordinário em habeas corpus. Processual Penal. Homicídio qualificado na modalidade tentada. Decisão de pronúncia. Alegada nulidade do acórdão que negou provimento ao recurso em sentido estrito. Excesso de linguagem. Não ocorrência. Excesso de prazo. Tema que se encontra em apreciação em outro habeas corpus impetrado na Corte. Reiteração. Precedentes. Regimental não provido.  ..  3. No tocante ao excesso de prazo da prisão do recorrente, registro que o tema encontra-se em apreciação em outro habeas corpus impetrado na Corte. Logo, não há razão para a análise da questão, visto que o recurso ordinário, neste ponto, é mera reiteração de impetração anterior. 4. Agravo regimental ao qual se nega provimento." (AgRg no RHC 147748, Segunda Turma, Rel. Min. Dias Tóffoli, DJe 4/4/2018, grifei).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+P. I.
