@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízode Direito da 6ª Vara Criminal de Campo Grande - MS, suscitante, em face do Juízo de Direito da 3ª Vara Criminal de Santo André - SP, orasuscitado, nos autos de inquérito policial instaurado para apurar aprática de suposto delito de estelionato, previsto no Artigo 171, caput,do Código Penal Brasileiro.
+Extrai-se dos autos,a investigação deprática de estelionato contra vítima que, em Campo Grande - MSefetuoutransferência/depósito bancária para conta corrente de titularidade de Ricardo Bomfim de Souza, localizada na Comarca de Santo André - SP.
+Diante disso, o Juízo de Direito da 3ª Vara Criminal de Santo André - SP, acolhendo parecer ministerial,declinou dacompetência para a Comarca de Campo Grande - MS, sob o fundamentode que o crime de estelionato se consuma no local onde ocorre o efetivo prejuízo à vítima. ou seja, na localidade da agência onde a vítima possuía conta bancária(fl. 51)
+Recebidos os autos, o Juízo de Direito da 6ª Vara Criminal de Campo Grande - MS, suscitou o presente conflito sob a alegação de que a competência, segundo jurisprudência do STJ, é do local da obtenção da vantagem econômica.(fl. 63)
+O Ministério Público Federal opinou no sentido de conhecer o conflito paradeclarar a competência do Juízo de Direito da 3ª Vara Criminal de Santo André - SP,o suscitado,consoante ementa a seguir transcrita:
+"PROCESSUAL PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. ESTELIONATO. TRANSFERÊNCIA OU DEPÓSITO BANCÁRIO. RECENTES PRECEDENTES DA TERCEIRA SEÇÃO. COMPETÊNCIA DO JUÍZO DO LOCAL DA AGÊNCIA BENEFICIÁRIA DO DEPÓSITO.
+1. Em recentes precedentes, a Terceira Seção do Superior Tribunal de Justiça estabeleceu que nas hipóteses em que o estelionato ocorre mediante falsificação ou adulteração de cheque, a consumação do delito se dá no banco sacado, no qual a vítima mantém a conta bancária, e, nos casos de estelionato mediante depósito ou transferência bancária, a consumação se dá na agência beneficiária do depósito ou da transferência. Precedentes.
+- Parecer pela competência do juízo da 3ª Vara Criminal da comarca de Santo André/SP"
+É o relatório.
+Decido.
+O conflito de competência ocorre quando duas ou mais autoridades se julgamcompetentes (positivo), incompetentes (negativo), ou quando houverdivergência sobre a junção de processos, nos termos do artigo 114 doCódigo de Processo Penal.
+No caso concreto, tem-se conflito negativo existente entre Juízosvinculados a Tribunais diversos, logo, deve ser dirimido por este SuperiorTribunal de Justiça, nos termos do art. 105, inciso I, alínea d, daConstituição Federal.
+O cerne do presente conflito cinge-se a verificar o juízo competente paraprocessar e julgar a suposta prática do crime de estelionato, previsto noartigo 171, caput, do Diploma Penal.
+Cumpre registrar inicialmente, que em se tratando de crime de estelionatocom transferência de valores, a Terceira Seção entendia ser competente oforo do local do efetivo prejuízo à vitima, onde estaria consumado odelito (CC 168.077/SP, Terceira Seção, Rel. Ministro Joel Ilan Paciornik,julgado em 23/10/2019, DJe 30/10/2019).
+Contudo, no julgamento do Conflito de Competência n. 169.053/DF, em19/12/2019, de relatoria do Ministro Sebastião Reis Júnior, a TerceiraSeção alterou o entendimento, no sentido de que nos crimes de estelionatoem que há transferência de valores a competência territorial para processoe julgamento do delito firmar-se-á observando a localidade da obtenção davantagem, haja vista que o referido crime só se consuma quando o valorefetivamente ingressa na esfera de disponibilidade dobeneficiário do crime.
+Confira-se a ementa do julgado:
+"CONFLITO NEGATIVO DE COMPETÊNCIA. ESTELIONATO. DISSENSO ACERCA DO LOCALDA CONSUMAÇÃO NA HIPÓTESE DE TRANSFERÊNCIA OU DEPÓSITO BANCÁRIO.DIVERGÊNCIA VERIFICADA ENTRE PRECEDENTES RECENTES DA TERCEIRA SEÇÃO.EQUACIONAMENTO DO TEMA. COMPETÊNCIA DO JUÍZO DO LOCAL DA AGÊNCIABENEFICIÁRIA DO DEPÓSITO.
+1. A jurisprudência da Terceira Seção desta Corte tem oscilado na soluçãodos conflitos que versam acerca de crime de estelionato no qual a vítima éinduzida a efetuar depósito ou transferência bancária em prol de contabancária do beneficiário da fraude.
+2. Deve prevalecer a orientação que estabelece diferenciação entre ahipótese em que o estelionato se dá mediante cheque adulterado oufalsificado (consumação no banco sacado, onde a vítima mantém a contabancária), do caso no qual o crime ocorre mediante depósito ou
+transferência bancária (consumação na agência beneficiária do depósito outransferência bancária).
+3. Se o crime de estelionato só se consuma com a efetiva obtenção davantagem indevida pelo agente ativo, é certo que só há falar emconsumação, nas hipóteses de transferência e depósito, quando o valorefetivamente ingressa na conta bancária do beneficiário do crime.
+4. No caso, considerando que a vantagem indevida foi auferida mediante odepósito em contas bancárias situadas em São Paulo/SP, a competênciadeverá ser declarada em favor daquele Juízo (suscitado).
+5. Conflito conhecido para declarar a competência do Juízo de Direito doForo Central Criminal da Barra Funda (DIPO 4) da comarca de São Paulo/SP,o suscitado. (CC 169.053/DF, Terceira Seção, Rel. Ministro Sebastião ReisJúnior, julgado em 11/12/2019, DJe 19/12/2019)"
+No caso, ao que se tem, o local da obtenção da vantagem indevida foi na Comarcade Santo André - SP.
+Ante o exposto, conheço do presente conflito para declarar a competência do Juízo de Direito da 3ª Vara Criminal de Santo André - SP, o suscitado.
+P. e I.
+EMENTA
+CONFLITO DE COMPETÊNCIA. ESTELIONATO. TRANSFERÊNCIADE VALORES OU DEPÓSITOBANCÁRIO. TERCEIRA SEÇÃO. MUDANÇA DE ENTENDIMENTO NOS AUTOS DO CC169.053/DF. CONSUMAÇÃO NO LOCAL DA OBTENÇÃO DA VANTAGEM PELO AGENTE ATIVO.COMPETÊNCIA DO JUÍZO SUSCITADO.
