@@ -1,0 +1,15 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Tráfico de drogas. Fuga do distrito da culpa. Reincidência. Reiteração de impetração anterior indeferida. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 675.178-SP, do Superior Tribunal de Justiça.
+    2. Colhe-se dos autos que foi decretada a prisão preventiva do paciente (e outros dois corréus) pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico.
+    3. Inconformada com a prisão, a defesa impetrou habeas corpus no TJ/SP. A ordem, contudo, foi denegada. Isso deu ensejo ao juizamento de HC no Superior Tribunal de Justiça. O Ministro Ribeiro Dantas não conheceu da impetração.
+    4. Neste habeas corpus, a defesa reitera a tese de ilegalidade da prisão processual do acionante, sobretudo pela falta de fundamentação idônea para a custódia, na forma do art. 312 do CPP. Argumenta que o fato de o paciente se ausentar do distrito da culpa não autoriza a decretação da prisão. Daí o pedido de concessão da ordem para suspender a ordem de prisão exarada contra o paciente, permitindo que o acionante responda aos termos da acusação, em liberdade.
+    5. Decido.
+    6. Do ponto de vista processual, o caso é de habeas corpus impetrado em substituição ao agravo regimental (cabível na origem). De modo que não há como deixar de reconhecer a inadequação da via eleita. Ademais, a orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a “mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus” (HC 118.043-AgR, Rel. Min. Celso de Mello). No caso, este habeas corpus configura mera reiteração dos pedidos formulados no HC 199.804, ao qual neguei seguimento, em 13.04.2021, por decisão transitada em julgado.
+    7. Não é caso de concessão da ordem de ofício.
+    8. A hipótese é de paciente denunciado, na companhia de outros dois corréus, por tráfico de drogas e associação para o tráfico, tendo em vista a apreensão de “1.029 ‘pinos’ com cocaína, pesando 346,21 g, e 676 porções de maconha, com peso líquido de 2271,96g, substâncias entorpecentes e causadoras de dependência química e psíquica”. Para além da informação de que o paciente fugiu do distrito da culpa, a decisão de primeiro grau também mencionou o fato de que o acusado “ostenta condenação definitiva pelo delito de tráfico de drogas, tudo a demonstrar a necessidade da medida para garantia da ordem pública e conveniência da instrução criminal e para evitar a reiteração criminosa e resgatar a estabilidade social”. De modo que não há teratologia, ilegalidade flagrante ou abuso de poder que autorize a revogação da prisão preventiva.
+    9. Diante do exposto, com base no art. 21, § 1º, do RI/STF, não conheço do habeas corpus.
+    Publique-se.
+          Brasília, 02 de agosto de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
