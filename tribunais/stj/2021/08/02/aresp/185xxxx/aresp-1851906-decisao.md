@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de Agravo em Recurso Especial interposto contra decisão monocrática do Desembargador Vice-Presidente do Tribunal Regional Federal da 2º Região que não admitiu o recurso, com base no enunciado da Súmulas 7 do STJ.
+A parte agravante afirma que do Recurso Especial se pode conhecer, pois não existe necessidade de reexaminar o conjunto fático-probatório produzido nos autos (fl. 490, e-STJ).
+Aduz, nas razões do Recurso Especial, que houve violação ao art. 14 do CTN, aos arts. 29, 30 e 31 da Lei 12.101/2009 e ao art. 46 do Decreto 8.242/2014. Ademais, salienta que"o direito à imunidade somente poderá ser exercido a partir da publicação da concessão da certificação" (fl. 430, e-STJ).
+A parte agravada apresentou contraminuta às fls. 505-508, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 7.6.2021.
+A irresignação merece conhecimento, contudo não prospera.
+Inicialmente, vale ressaltar que o Presidente ou Vice-presidente do Tribunal de origem pode julgar a admissibilidade do Recurso Especial, negando-lhe seguimento caso a pretensão do recorrente encontre óbice em alguma súmula do STJ, sem que haja violação à competência deste Tribunal.
+A parte recorrente não demonstrou como ocorreu especificamente a violação aos dispositivos legais citados nas razões do recurso pelo acórdão objurgado (arts. 14 do CTN, 30 da Lei 12.101/2009 e 46 do Decreto 8.242/2014), optando por fazer alegações genéricas. Portanto, considerando-se a deficiência das razões recursais do Recurso Especial, vê-se que incide sobre a hipótese, por analogia, o óbice constante da Súmula 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia." Cito precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AÇÃO CIVIL PÚBLICA. TRANSPORTE COLETIVO. CONCESSÃO. VIOLAÇÃO AO ART. 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 57, § 1º, 58, I, §§ 1º E 2º, E 65, II, d, DA LEI N. 8.666/1993, 9º, §§ 2º e 4º, DA LEI N. 8.987/1995, E ARTS. 884 E 944 DO CÓDIGO CIVIL. INCIDÊNCIA DA SÚMULA N. 211/STJ. REAJUSTE. TARIFAS. COMPETÊNCIA. MATÉRIA DIRIMIDA COM FUNDAMENTO NA CONSTITUIÇÃO DA REPÚBLICA. DANOS MORAIS COLETIVOS. NEXO CAUSAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+(..)
+VIII - Em regra, descabe a imposição da multa, prevista no art.
+1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IX - Agravo Interno improvido.
+(AgInt nos EDcl no REsp 1.539.186/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 28/4/2021).
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO AÇÃO DE RESTITUIÇÃO DE VALORES PAGOS A TÍTULO DE VRG DÍVIDA DECORRENTE DE CONTRATO DE ARRENDAMENTO MERCANTIL. DETERMINAÇÃO DE INCLUSÃO NO CÁLCULO DAS PARCELAS INADIMPLIDAS. CABIMENTO PRESCRIÇÃO DECENAL. ARGUMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. INCIDÊNCIA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83 DO STJ.
+INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de demonstração da violação aos dispositivos legais pelo acórdão recorrido implica deficiência de fundamentação, conforme pacífico entendimento deste STJ. Aplicação da Súmula 284 do STF.
+2. O entendimento da Corte local apresenta-se em harmonia com a jurisprudência desta Corte Superior de Justiça, o que atrai a inadmissibilidade do recurso especial pela incidência da Súmula 83 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1693622/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 26/4/2021).
+O Tribunal de origem consignou:
+Não pode, portanto, a ausência do CEBAS funcionar como óbice para o gozo da imunidade assegurada às entidades beneficentes de assistência social, à luz do art. 195, §7º, c/c o art. 146, 11, ambos da Constituição Cidadã, uma vez que a sua obtenção não consiste requisito previsto em Lei Complementar que discipline a matéria, vale dizer, atualmente, o CTN (art. 14), razão pela qual fica afastada a exigência contida no art. 31 da Lei 12.101/2009, que limita o direito da imunidade a contar da data da publicação da concessão do Certificado supracitado.
+Verifica-se que, apesar de terem sido invocados dispositivos legais, a instância ordinária dirimiu a controvérsia com fundamento constitucional (arts. 146 e 195 da CF/1988), o que afasta o conhecimento da matéria em Recurso Especial, em face da competência do STF. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. VIOLAÇÃO AOS ARTS. 144 E 492 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. FUNDAMENTOS CONSTITUCIONAIS.
+VIOLAÇÃO AO ART. 1.022 DO CPC NÃO COMPROVADA.
+1. Constata-se que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Não se pode conhecer da irresignação contra a ofensa aos arts. 141 e 492 do CPC, pois a tese legal apontada não foi analisada pelo acórdão hostilizado, o que atrai o óbice da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada." No mesmo sentido, os enunciados das Súmulas 211 do STJ e 356 do STF.
+3. Verifica-se que, apesar de terem sido invocados dispositivos legais, a instância ordinária dirimiu a controvérsia com fundamento constitucional (art. 226 da CF/1988), o que afasta o conhecimento da matéria em Recurso Especial, em face da competência do STF.
+4. Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+5. Agravo não provido.
+(AgInt no AREsp 1.745.195/MT, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 5/4/2021).
+PROCESSO CIVIL. ADMINISTRATIVO. CONCURSO. CONSELHO PROFISSIONAL. CARGA HORÁRIA E REMUNERAÇÃO. RECURSO ESPECIAL NÃO CONHECIDO. ÓBICES AOS CONHECIMENTO DO RECURSO. MANUTENÇÃO DA DECISÃO. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL. PRESENÇA DE RECURSO EXTRAORDINÁRIO NOS AUTOS.
+I - Na origem trata-se de mandado de segurança em que se pretende provimento jurisdicional que assegure a observância de edital de concurso quanto à remuneração e a carga horária para o cargo de técnico em radiologia. Na sentença concedeu-se a segurança. No Tribunal a quo, a sentença foi mantida. Nesta Corte, em decisão da Presidência, não se conheceu do recurso especial.
+II - A decisão agravada está amparada na jurisprudência dominante desta Corte, razão pela qual não há porque falar na inadmissibilidade do julgamento monocrático. Incidência da Súmula n.
+568/STJ e do art. 932, VIII, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ.
+III - Tal orientação não gera prejuízo às partes, porquanto está resguardada a possibilidade de interposição do agravo interno objetivando o exame da matéria pelo Colegiado competente. Nesse sentido: AgInt no REsp 1.630.561/MA, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 17/10/2017, DJe 20/10/2017; AgInt no AREsp 748.359/RS, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 7/11/2017, DJe 16/11/2017; AgInt no AREsp 947.903/SC, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 24/10/2017, DJe 30/10/2017; AgInt nos EDcl no REsp 1.268.982/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 7/3/2017, DJe 19/4/2017; AgInt no REsp 1.655.635/SE, Rel. Ministro Mauro Campbell Marques.
+IV - Não se conhece da alegação de violação de dispositivos constitucionais em recurso especial, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+V - Verifica-se que a controvérsia foi dirimida, pelo Tribunal de origem, sob enfoque eminentemente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Considerando que há recurso extraordinário interposto nos autos, é inviável a providência prevista no art. 1.032 do CPC/2015. Nesse sentido: AgInt no REsp 1.626.653/PE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 26/9/2017, DJe 6/10/2017; REsp 1.674.459/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/8/2017, DJe 12/9/2017.
+VI - Agravo interno improvido.
+(AgInt no AREsp 1.702.319/ES, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 28/5/2021).
+Com essas considerações, conheço do Agravo em Recurso Especial para não conhecer do Recurso Especial, com fulcro no art. 253, parágrafo único, II, "a", do RISTJ e no art. 1.042 do CPC.
+Publique-se.
+Intimem-se.
