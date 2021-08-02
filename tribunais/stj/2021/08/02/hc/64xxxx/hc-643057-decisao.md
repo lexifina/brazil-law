@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ALCEU HARTMANN apontando como autoridade coatora o Tribunal de Justiça do Estado do Paraná (HC n. 0048787-44.2018.8.16.0000).
+Depreende-se dos autos que o paciente está preso preventivamente pela suposta prática do crime tipificado no art. 121, § 2º-A, I, c/c o art. 14, II, ambos do Código Penal (homicídio tentado).
+Narram os autos que (e-STJ fls. 104/105):
+FATO 01 - HOMICÍDIO QUALIFICADO TENTADO
+No dia 01 de janeiro de 2020, por volta das 01h50min, na residência localizada na Avenida Paraná, nº 429, bairro Baixada Amarela, nesta cidade e Comarca de Santa Helena/PR, o denunciado ALCEU HARTMANN, com consciência e manifesta vontade de matar, efetuou 2 (dois) golpes de tesoura contra a vítima Marta Aparecida Ribeiro, sua ex-esposa, sendo que um deles atingiu a perna esquerda e outro o punho direito da vítima, não logrando êxito no seu intento criminoso por circunstâncias alheias a sua vontade, vez que os filhos da vítima, Roberto e Alex, conseguiram desarmar eafastar o agressor, bem como Marta logo foi encaminhada para o Pronto Atendimento 24 horas da cidade, local em que recebeu eficaz assistência e cuidados médicos.
+Impetrado habeas corpus na origem, o Tribunal de Justiça denegou a ordem, nos termos da seguinte ementa (e-STJ fls. 402):
+HABEAS CORPUS - HOMICÍDIO QUALIFICADO - FEMINICÍDIO - PRISÃO PREVENTIVA - ALEGAÇÃO DE RISCO DE CONTÁGIO POR CORONAVÍRUS (COVID-19) - AUSÊNCIA DE PROVAS DE QUE O PACIENTE INTEGRA GRUPO DE RISCO OU QUE A MANUTENÇÃO NA UNIDADE PRISIONAL AUMENTA A POSSIBILIDADE DE CONTÁGIO - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO - IMPETRAÇÃO NÃO CONHECIDA NA PARTE REFERENTE À ALEGADA FALTA DE FUNDAMENTAÇÃO E AUSÊNCIA DOS REQUISITOS PARA A SEGREGAÇÃO CAUTELAR - REITERAÇÃO DE IMPETRAÇÃO ANTERIOR - ORDEM PARCIALMENTE CONHECIDA E DENEGADA -
+No presente writ, afirmam os impetrantes, em síntese, que a decisão que decretou a prisão preventiva do paciente não estaria amparada em fundamentação idônea.
+Alegam que "o MM. Juízoestá se utilizando da gravidade em abstrato do delito, entendimento vedado, não há que se falar em prisão preventiva, uma vez que os fatos ocorreram acerca de 5 (cinco) meses do decreto prisional, essa medida é totalmente desproporcional, contrária a lei e aos direitos humanos" (e-STJ fl. 5).
+Sustentam que, "diante da Pandemia do COVID-19, as audiências em plenário do Júri estão suspensas por tempo indeterminado, sendo que se pronunciado for, ficará preso preventivamente por tempo indeterminado, o que acarretará o cumprimento antecipado da pena, situação vedada pela legislação e pela Constituição Federal de 1988, lembrando que o réu é pessoa com 55 (cinquenta e cinco) anos de idade, conforme documentos anexos, pessoa em tese do grupo de risco" (e-STJ fl. 15).
+Requerem, liminarmente, a suspensão dos efeitos do decreto constritivo.
+No mérito, pleiteiam a revogação da prisão preventiva, inclusive mediante a imposição de medidas cautelares.
+A liminar foiindeferida.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+Éo relatório.
+Decido.
+Inicialmente, com relação aos fundamentos da prisão preventiva, tem-se que a Corte de origem não se manifestou a respeito do temano acórdão impugnado.Assim, inviável a análise diretamente por esta Corte superior, sob pena de incorrer em indevida supressão de instâncias.
+No tocante ao pleito de fixação de medidas cautelares diversas da prisão, em razão da situação de pandemia causada pela Covid-19, tem-se que a Corte de origem destacou que (e-STJ fls. 403/404 - grifei):
+Sustentam os impetrantes que devem ser aplicadas ao ora paciente medidas cautelares diversas da prisão para evitar a sua contaminação pelo coronavirus.
+Contudo, a despeito do cenário atual em razão da pandemia que assombra a população mundial e das incertezas que decorrem deste quadro, a mera possibilidade de contaminação não pode ser admitida como justificante para afastar a responsabilidade penal, especialmente quando subsistem os requisitos da prisão preventiva e a conduta delituosa exige resposta repressiva para acautelamento do meio social como se verifica no caso dos autos.
+Com efeito, os elementos dos autos revelam indícios suficientes da autoria delitiva e está devidamente comprovada a materialidade do crime de tentativa de homicídio qualificado, subsistindo os elementos autorizadores da prisão preventiva como garantia da ordem pública.
+Neste contexto, a pretensão de liberdade provisória fundada na possibilidade de contaminação diante da pandemia não merece prosperar, uma vez que não restou demonstrado que o paciente está em perigo ou se enquadra em situação de fragilidade maior que a dos demais presos.
+Observa-se que o paciente não integra a faixa etária de risco e não há elementos indicativos de que está em condição de vulnerabilidade ou apresenta alguma comorbidade que exige maiores cuidados com a saúde que não podem ser adotados no ambiente carcerário.
+Ainda, não restou comprovado, nos termos do artigo 4º, inciso I, da supracitada Recomendação nº 62/2020 do Conselho Nacional de Justiça, que o paciente se encontra em estabelecimento penal que favoreça a proliferação do vírus.
+Além disso, estão sendo tomadas todas as medidas recomendadas para prevenção e proliferação do vírus e não há nada que indique que a manutenção da segregação cautelar do paciente causa aumento da possibilidade de contágio ou disseminação do vírus, inexistindo motivos concretos para a soltura do paciente.
+Portanto, a par da pandemia que assombra a população mundial, das formas de contágio e disseminação do vírus, os elementos fáticos que ensejaram a decretação da prisão preventiva se mantêm intactos e inexiste justo motivo para conceder medida cautelar diversa da prisão ao paciente, não se vislumbrando o alegado constrangimento ilegal no caso concreto.
+Destarte, impõe-se conhecer parcialmente e negar a ordem impetrada.
+Como se observa, a Corte de origem destacou que "o paciente não integra a faixa etária de risco e não há elementos indicativos de que está em condição de vulnerabilidade ou apresenta alguma comorbidade que exige maiores cuidados com a saúde que não podem ser adotados no ambiente carcerário".
+Além disso, "não restou comprovado  ..  que o paciente se encontra em estabelecimento penal que favoreça a proliferação do vírus", e, ainda, que "estão sendo tomadas as medidas recomendadas para prevenção eproliferação do vírus ".
+Assim, tem-se que não restou demonstrada a imprescindibilidade da revogação da prisão preventiva, em razão da pandemia causada pela Covid-19, ausente, portanto, ilegalidade a ser sanada por este Tribunal superior.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA.REITERAÇÃO DELITIVA. REINCIDÊNCIA ESPECÍFICA. OUTRAS ANOTAÇÕES CRIMINAIS. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. GRUPO DE RISCO DA PANDEMIA DE COVID-19. NÃO DEMONSTRADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. Não demonstrado que o agente pertence ao grupo de risco previsto na Recomendação n. 62 do Conselho Nacional de Justiça, não há falar em revogação da prisão preventiva ou concessão de prisão domiciliar em razão da pandemia causada pela Covid-19.
+6. Agravo regimental desprovido.(AgRg no HC 658.308/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 08/06/2021, DJe 18/06/2021)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO.TRÁFICO DE ENTORPECENTES. FLAGRANTE CONVERTIDO EM PRISÃO PREVENTIVA.REVOGAÇÃO DA CUSTÓDIA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA.EXPRESSIVA QUANTIDADE DA DROGA APREENDIDA. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA.MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. RISCO DE CONTAMINAÇÃO PELA COVID-19. RECOMENDAÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA  CNJ. NÃO COMPROVADA A DEFICIÊNCIA ESTRUTURAL DO PRESÍDIO. PROTOCOLOS DE SEGURANÇA ADOTADOS. DESPROPORCIONALIDADE ENTRE A SEGREGAÇÃO PREVENTIVA E PENA PROVÁVEL. INVIABILIDADE DE EXAME NA VIA ELEITA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+6. O risco trazido pela propagação da COVID-19 não é fundamento hábil a autorizar a revogação automática de toda custódia cautelar, sendo imprescindível, para tanto, que haja comprovação de que o réu encontra-se inserido na parcela mais suscetível à infecção, bem como, que haja possibilidade da substituição da prisão preventiva imposta.
+7. No caso, além de estar demonstrada a necessidade da prisão preventiva, não restou comprovada a deficiência estrutural do presídio em que o paciente se encontra, sendo certo que as autoridades sanitárias e de segurança pública têm agido para minimizar os riscos, não havendo, portanto, falar em liberdade provisória ou substituição da custódia por prisão domiciliar em razão da pandemia.
+ ..
+9. Habeas corpus não conhecido.(HC 665.044/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/06/2021, DJe 24/06/2021)
+Ademais, o delito foi praticado mediante emprego de violência/grave ameaça, circunstância que afasta a possibilidade de aplicação dos dizeres da Recomendação n. 62/2020 do Conselho Nacional de Justiça.
+Ante o exposto, conheço em partedo habeas corpuse, nessa extensão,denegoa ordem.
+Publique-se. Intimem-se.
