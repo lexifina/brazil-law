@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    AGRAVO. APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. DIREITO TRIBUTÁRIO. ICMS. CRÉDITO FISCAL PRESUMIDO. REQUISITOS NÃO ANTENDIDOS. NOTA 05 DO ART. 32 NO RICMS. DECRETO. LEGALIDADE. BENEFICIO FISCAL. DISCRICIONARIDADE. INTERPRETAÇÃO RESTRITIVA. LEGALIDADE.
+    A alteração introduzida através da NOTA 05 do art. 32 no RICMS, mediante decreto, atende o disposto no Convênio ICMS 20/08, que foi ratificado, nos termos da Lei Complementar n0 24/75 e da Lei no 8.820189, havendo lei específica para tanto, conforme exige o § 61 do art. 150 da Constituição Federal, estando de acordo com o ordenamento jurídico.
+    O crédito fiscal presumido é resultado de política fiscal, cuja incumbência é atribuída ao Legislativo e ao Executivo, não sendo cabível a pretensão da parte impetrante de se utilizar da via jurisdicional para alterar critério estabelecido no benefício fiscal, o que apenas pode ocorrer com novo ajuste ou ato legislativo, nos termos do art. 150, § 60, da Constituição Federal.
+    Ao ente tributante, quando se utiliza de mecanismos como o crédito fiscal presumido, com a finalidade de estimulo a atividades prioritárias ao desenvolvimento econômico, político e social, é facultado estabelecer requisitos para sua correspondente implementação para que, em nome do interesse público, subsidiando tais atividades, possa instituir correlatas restrições, resguardando um limite mínimo, a fim de que possa suportar as consequências advindas da tributação a menor pelo incentivo fiscal, não havendo violação no critério de eleição para tratamento desigual entre os contribuintes devedores e não devedores.
+    Acordo judicial é composição que não se confunde com parcelamento ou transação, mormente quando o contribuinte não oferece débito por depósito em dinheiro, fiança bancária, hipoteca ou penhora de bens imóveis devidamente registrada no Registro de Imóveis, encontrando-se garantido na maior parte por valores oriundos de precatórios.
+    Precedentes do TJRGS, STJ e STF.
+    Agravo desprovido.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 50, XXXV, 93, IX, 150, § 60, e 155, § 20, XII, "g', todos da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional local pertinente, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa. Incidência da Súmula 280 da Corte . Sobre o tema, a propósito:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ICMS. LEIS ESTADUAIS 4.220/2008 e 1.254/1996 E PORTARIA SF/DF 73/2012. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280/STF. HONORÁRIOS INCABÍVEIS EM MANDADO DE SEGURANÇA. MAJORAÇÃO DESCABIDA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de legislação infraconstitucional local que fundamenta a decisão a quo. Incidência da Súmula 280 desta Corte. Precedentes. II - Incabível a majoração de honorários, por tratar-se, na origem, de mandado de segurança. III - Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC. (RE nº 1.007.893/DF – AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 20/6/17).
+    Embargos de declaração em recurso extraordinário com agravo. 2. Decisão monocrática. Embargos de declaração recebidos como agravo regimental. 3. Direito Tributário. 4. A origem solucionou a controvérsia com base na interpretação da legislação local. Súmula 280. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento. (ARE nº 947.111/RS – ED, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 24/10/16)
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 2 de agosto de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
