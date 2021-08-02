@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    “REVISÃO DE APOSENTADORIA - PROFESSORA DA EDUCAÇÃO BÁSICA II, APOSENTADA POR INVALIDEZ PERMANENTE - Pretensão voltada ao recebimento de proventos integrais, com base nos últimos vencimentos, e insurgência com a média de horas-aulas utilizada para estabelecer os proventos - Improcedência - Inviabilidade de pagamento de proventos integrais nos moldes da última remuneração antes da inatividade - Exceção da integralidade pleiteada, admitida apenas na aposentadoria por invalidez por doença incapacitante prevista no rol taxativo da lei de regência - Art. 186, § 1º, da Lei Federal nº 8.112/90 - Não enquadramento do caso em comento - Reconhecido como legal na espécie o cálculo aritmético nos termos do art. 39 da LC nº 836/97, representado pela média apurada dos 60 últimos meses trabalhados anteriormente à aposentação - Inexistência de erro na média de 130 horas-aulas obtidas, consideradas as variações de 30 a 200 horas-aulas no período - Inexistente pedido de substituição de opção para melhor média, com fundamento no § 4º, no mencionado art. 39 da LC 836/97, ou qualquer documentação que possibilite a busca de média mais vantajosa através do cômputo de 84 meses de jornada ininterrupta - Improcedência mantida - Recurso desprovido.”
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, incisos II e XXXVI; 37, caput, inciso XV; e 40, § 1º, inciso III, alínea "a", e § 5º, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    “E restrita a análise às horas-aulas estabelecida como base para pagamento dos proventos, não se verifica erro na média aritmética apurada na conformidade com o “caput” do art. 39 da LC 836/97, eis que considerado no cômputo do período de 60 meses, variação de 30 a 200 horas-aulas mês, conforme documento de fls. 65.”
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar a legislação infraconstitucional local aplicável à espécie, bem como os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas 279 e 280 do STF. Sobre o tema, a propósito:
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. OFENSA CONSTITUCIONAL REFLEXA. REEXAME DE FATOS. SÚMULA 279/STF
+    1. (...)
+    4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 5. Agravo Interno a que se nega provimento.” (RE 1.237.969-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 12/2/2020).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas.3. Agravo regimental desprovido.” (ARE 1.165.382 – AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 3/3/20).
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA. O recurso extraordinário não é meio próprio ao revolvimento da prova.” (RE 1066713-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe 20/2/20).
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 2 de agosto de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
