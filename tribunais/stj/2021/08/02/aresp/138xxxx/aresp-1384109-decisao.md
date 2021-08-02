@@ -1,0 +1,85 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por RENATO FERNANDO DA SILVA - CONSTRUÇÕES - ME, em face de decisão que não admitiu recurso especial (fls. 662-664, e-STJ).
+O apelo nobre, de sua vez, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 430-434, e-STJ):
+Ação anulatória de leilão extrajudicial alienação fiduciária de imóvel ação julgada improcedente preliminar de nulidade da sentença por cerceamento de defesa rejeitada ausência de intimação da devedora sobre a realização do leilão extrajudicial que não a impediu de tomar ciência dele ausência, no caso concreto, de prejuízo à devedora, que dele tomou conhecimento inequívoco por meio do edital publicado preço vil não caracterizado leilão validamente designado sentença mantida apelação não provida, com observação.
+Opostos embargos de declaração (fls. 436-457 e 470-499, e-STJ), esses foram rejeitados (fls. 464-468 e 521-525, e-STJ).
+Nas razões do recurso especial (fls. 532-589, e-STJ), o recorrente, além de dissídio jurisprudencial, aponta violação aos seguintes artigos:
+(i) 535 e 458 do CPC/2015, na medida em que o acórdão recorrido seria omisso em relação aos seguintes pontos: a) possibilidade de emenda da purgação da mora; b) necessidade de intimação pessoal para a purga do atraso; c) caráter genérico da impugnação apresentada pelo credor; d) ausência de informação nos autos sobre o valor de complementação da purgação da mora; e) inexistência de prova de duas notificações pessoais direcionadas ao devedor; f) erro material quanto ao fato de que o recorrido assumiu a ausência de intimação para o leilão; g) nulidade do edital de intimação; h) ocorrência de preço vil; i) afastamento entre o conteúdo decisório e as provas produzidas nos autos; j) dever de uniformização de jurisprudência;
+(ii) 26, §§ 1o e 3o, e 39 da Lei 9514/97, 29 a 41 do Decreto-Lei 70/66 e 926 do CPC/2015, ao argumento de que é indispensável a intimação pessoal dos devedores sobre a data do leilão;
+(iii) 31 e 34 do Decreto-Lei 70/66 e 926 do CPC/2015, já que era devida a intimação do ora recorrente para a complementação da purgação da mora;
+(iv) 128, 267 e 301 do CPC/1973 e 35 da LOMAN, sob o fundamento de que é dever do juiz decretar de ofício nulidades processuais;
+(v) 515 e 517 do CPC/2015, pois as matérias de ordem pública podem ser conhecidas a qualquer momento;
+(vi) 1026, § 2o, do CPC/2015, na medida em que seria descabida a aplicação de multa por embargos declaratórios protelatórios;
+Contrarrazões às fls. 642-661, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob os fundamentos de que: a) não houve negativa de prestação jurisdicional; b) a simples transcrição de dispositivo de lei não autoriza o conhecimento de recurso especial; c) incidiria ao caso o enunciado nº 7 da Súmula do STJ; d) não restou comprovado o dissídio jurisprudencial.
+Irresignada, aduz a agravante, em suma, que o reclamo merece trânsito, uma vez que os supracitados óbices não subsistiriam.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Inicialmente, pontua-se que, consoante a jurisprudência deste Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Salienta-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que, em sua decisão, discorra sobre todas as questões fundamentais para a correta solução da controvérsia.
+No caso em tela, verifica-se que o Tribunal de origem, de modo expresso e fundamentado, consignou que a ora recorrente teve inequívoco conhecimento do leilão judicial, o que afastaria o prejuízo decorrente de qualquer vício em sua comunicação. Assentou que as alegações pertinentes à possibilidade de complementação da mora seriam descabidas, diante do ulterior julgamento acerca da regularidade do leilão. Por fim, apontou inexistir preço vil.
+Nota-se, portanto, que as alegações vertidas pela insurgente não denotam omissões, contradições ou obscuridades do aresto impugnado, mas tão somente traduzem seu inconformismo em relação ao acolhimento da tese jurídica defendida pela parte adversa.
+Assim, não há se falar em violação aos arts. 535 e 458 do CPC/1973 (atuais 489 e 1022 do CPC/2015), uma vez que a Corte local, de modo satisfativo e sólido, apreciou todos os pontos necessários para o julgamento do caso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NÃO OCORRÊNCIA DE VIOLAÇÃO AO ART. 489, § 1º, DO CPC/2015 E AO ART. 93, IX, DA CF/88. DECISÃO MONOCRÁTICA - ORA AGRAVADA - DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL QUE EXAMINOU OS PONTOS ESSENCIAIS AO DESLINDE DA CONTROVÉRSIA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 139, I, E 373, II, DO CPC/2015 E ART. 324 DO CÓDIGO CIVIL. PRETENSÃO DE REDISCUTIR MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Os vícios a que se refere o art. 1.022 do CPC/2015 - art. 535 do CPC/73 - são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, de modo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. Na espécie, deve ser rejeitada a violação ao art. 1.022 do CPC/2015, pois não existem vícios no v. acórdão estadual, que examinou os pontos essenciais ao desate da lide.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS DECORRENTE DE ACORDO JUDICIAL INADIMPLIDO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 20, §§ 3º E 4º, DO CPC/1973. CRITÉRIO DE EQUIDADE. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 4. AGRAVO IMPROVIDO.
+1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018)
+1.1. Destaque-se, por oportuno, que, no que tange à omissão pertinente ao suposto caráter genérico da impugnação apresentada pelo credor, não se descreve, de modo analítico, quais os fundamentos de fato ou de direito conduziriam a tal conclusão.
+Cuida-se, em verdade, de arguição genérica, que impede o conhecimento do recurso especial, nos termos da súmula 284/STF, assim redigida: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 535 DO CPC. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO. SÚMULA 284/STF. INOVAÇÃO RECURSAL EM AGRAVO INTERNO. IMPOSSIBILIDADE. SUPOSTA CONTRARIEDADE A DISPOSITIVOS DA CARTA MAGNA. COMPETÊNCIA DO STF. EXTINÇÃO DA OBRIGAÇÃO PELO PAGAMENTO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE FATOS E PROVAS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. A mera alegação de violação do art. 535 do CPC, com o argumento de que o Tribunal de origem não se manifestou acerca do alegado nos embargos, configura alegação genérica de violação, caso em comento, constituindo argumentação deficiente, a atrair a incidência, por analogia, do teor da Súmula 284/STF.
+(..)
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 317.596/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/03/2015, DJe 30/03/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. INDICAÇÃO GENÉRICA DE DISPOSITIVO DE LEI. SÚMULA N. 284/STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. MULTA. ART. 538, PARÁGRAFO ÚNICO, DO CPC. CABIMENTO. DECISÃO MANTIDA.
+1. Não se conhece do apelo especial que menciona genericamente os dispositivos legais tidos por violados sem comprovar a efetiva ofensa à lei (Súmula n. 284/STF).
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 194.897/MA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/12/2012, DJe 01/02/2013)
+2. No que toca às teses ligadas à aludida afronta aos artigos 26, §§ 1o e 3o, e 39 da Lei 9514/97, 29 a 41 do Decreto-Lei 70/66, 128, 267 e 301 do CPC/1973, 35 da LOMAN, 515, 517 e 926 do CPC/2015 e 31 e 34 do Decreto-Lei 70/66 melhor razão não assiste à insurgente.
+Sobre a primeira controvérsia, defende-se, em sede de recurso especial, a nulidade do leilão extrajudicial, sob o fundamento de que não teria sido realizada a notificação pessoal do devedor para a realização do ato. Pontua-se, ademais, que tais irregularidades, por constituírem matérias de ordem pública, devem ser declaradas de ofício pelo julgador.
+Nota-se, contudo, que o Tribunal local, ao apreciar a causa, pontuou que, não obstante o erro no procedimento de comunicação da parte, esta teve ciência inequívoca da praça, já que, antes de sua realização, ingressou com ação judicial que buscava anulá-lo. Veja-se (fls. 432-433, e-STJ):
+A autora moveu esta ação em 17.5.2016 para que fosse anulado leilão extrajudicial de imóvel dado em garantia de alienação fiduciária e que seria realizado nos dias 20 e 31.5.2016. O pedido de nulidade estava fundamentado nas alegações de que não teria sido intimada pessoalmente sobre os leilões e de que teria sido atribuído preço vil ao imóvel para o segundo leilão.
+Invocando o direito de purgar a mora até a data da assinatura do auto de arrematação, a autora depositou o valor das parcelas vencidas e vincendas, acrescidas de encargos contratuais e legais, dos gastos com ITBI e despesas com registro imobiliário e da notificação para consolidação da propriedade, no valor total de R$ 34.253,14, fls. 28.
+A sentença reconheceu com propriedade a necessidade de intimação pessoal da devedora a respeito das datas para realização do leilão, mas ressaltou que, no caso concreto, a falta dessa intimação não acarretou a nulidade do procedimento, pois a veiculação deles por edital possibilitou a ela tomar conhecimento de sua realização e pleitear, antes que eles ocorressem, a sua anulação.
+Como a intimação por edital permitiu, no caso concreto, que a devedora tomasse ciência tempestivamente das datas dos leilões, não se deve anular o ato por absoluta falta de prejuízo à parte.
+No que toca à aludida afronta aos artigos 31 e 34 do Decreto-Lei 70/66, defende a insurgente que o devedor deve ser intimado a complementar o pagamento da mora existente.
+Verifica-se, no entanto, que em relação à presente questão, consignou o Tribunal local que tal controvérsia restou prejudicada com a decisão que reputou válido o leilão. Veja-se (fls. 433-434, e-STJ):
+As alegações da autora com relação à insuficiência da purga da mora e a necessidade de sua intimação para complementação são irrelevantes para a verificação da nulidade do leilão, até mesmo porque ele se encontrava suspenso por força da liminar concedida a fls. 110. E, uma vez afastada a invocada nulidade do leilão, não cabe mais qualquer indagação a respeito da suficiência ou não da purgação da mora nestes autos.
+Constata-se, pois, que as razões invocadas pelo recorrente em seu apelo nobre estão dissociadas dos fundamentos de decidir invocados pelo Tribunal local, na medida em que não impugnam as linhas argumentativas utilizadas para o julgamento da controvérsia, quais sejam, a inexistência de prejuízo derivado da irregularidade narrada, bem como a inviabilidade de discussão do pedido de complementação do depósito após o julgamento que declarou lícito o leilão extrajudicial.
+Diante de tal vício de fundamentação, de rigor a aplicação ao caso, por analogia, das Súmulas 283 e 284 do STF. Precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+(..)
+3. A insuficiência das razões recursais, dissociadas dos fundamentos da decisão recorrida, impõem o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1342501/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/05/2019, DJe 31/05/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.EXTINÇÃO DE CONDOMÍNIO. ALTERAÇÃO DO POLO PASSIVO ANTES DA CITAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 356/STF. RAZÕES DISSOCIADAS. SÚMULAS 283 E 284/STF. INCLUSÃO DE PARTE NO POLO PASSIVO. DECLARAÇÃO DE OFÍCIO. LITISCONSÓRCIO NECESSÁRIO. SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+(..)
+2. A apresentação, no recurso especial, de razões dissociadas dos fundamentos do acórdão recorrido impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia.
+(..)
+5. Agravo interno não provido.
+(AgInt no AREsp 790.234/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 21/08/2018, DJe 24/08/2018)
+2.1. Destaque-se, outrossim, que ainda que assim não fosse, rever a consignada ciência inequívoca por parte do devedor acerca do leilão, bem como a aludida inexistência de prejuízo processual, demandaria a revisão do acervo probatório, providência vedada na presente instância recursal, por força da Súmula 7/STJ.
+3. Por fim, refuta-se a possibilidade de afastamento da sanção processual disposta no art. 1.026, § 2o, do CPC/2015.
+No ponto, a Corte local reconheceu o caráter protelatório dos segundos embargos de declaração apresentados pela parte, os quais tão somente repetiriam as alegações de omissões já afastadas no julgamento dos primeiros aclaratórios.
+Nesse contexto, tem-se que o provimento do pleito recursal demandaria que tal premissa fosse derruída. Para tanto, todavia, seria necessária a reanálise de matéria fático-probatória, providência vedada em sede de recurso especial, nos termos da Súmula 07 do STJ. Precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. LOCAÇÃO DE IMÓVEIS. EXONERAÇÃO DA FIANÇA.MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULAS 5 E 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. SÚMULA 83 DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. Esta Corte possui firme o entendimento no sentido de que: "A interpretação extensiva da fiança constitui em utilizar analogia para ampliar as obrigações do fiador ou a duração do contrato acessório, não o sendo a observância àquilo que foi expressamente pactuado, sendo certo que as causas específicas legais de extinção da fiança são taxativas" (REsp n. 1.253.411/CE, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 24/6/2015, DJe 4/8/2015) 3. Conforme demonstrado pelas instâncias ordinárias, "o acordo firmado entre o locador e o locatário não configurou moratória ou novação do débito, mas apenas o reconhecimento da dívida pelo locatário com a formulação de ajuste para o pagamento do débito em data posterior."; assim, só se cogitaria em revisão do decidido mediante reexame de provas e interpretação contratual, providências obstadas pelas Súmulas n. 5 e 7 desta Corte.
+4. A Corte local entendeu pela aplicação da multa do art. 1.026, § 2º, do CPC/15, pois os embargos declaratórios opostos pela ora agravante buscaram, em verdade, rediscutir matéria já enfrentada pelo julgado então embargado. A análise da alegada ausência do intuito protelatório dos embargos de declaração, demanda o reexame do conjunto fático dos autos, providência que esbarra no óbice da Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1627375/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/03/2021, DJe 23/03/2021)
+Logo, inviável o acolhimento do apelo, em relação à presente questão.
+4. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, nego provimento ao agravo. Por conseguinte, nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor dos honorários advocatícios arbitrados na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC/2015.
+Publique-se.
+Intimem-se.
+EMENTA
