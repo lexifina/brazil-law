@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado pela Defensoria Pública em favor de BRUNO HENRIQUE MARTINS SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação n. 0001332-79.2017.8.26.0010.
+Na hipótese, o impetrante aponta constrangimento ilegal na condenação do paciente em razão da ausência de provas da autoria do crime de receptação (art. 180, caput, do CP), que teve pena reduzida em grau de apelação para 1 ano de reclusão, em regime aberto, mais pagamento de 10 dias-multa, em caráter liminar e no mérito, a concessão da ordem para " .. reconhecer a nulidade da decisão proferida pelo E. Tribunal de Justiça, eis que manteve a condenação do réu com base em depoimentos colhidos na fase pré-processual, não corroborados em juízo por qualquer outro elemento de prova, bem como utilizou o teor do interrogatório do réu, interpretada como confissão, de forma isolada paraensejar um decreto condenatório, violentado os dispostos nos artigos 197 e 155, ambos do Código de Processo Penal. Reconhecida a nulidade e não havendo qualquer outra prova nos autos, pugna-se pela absolvição do réu, nos termos do artigo 386, inciso VII do Código de Processo Penal" (fls. 13-14).
+É o breve relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+No caso, ao menos em juízo perfunctório, não é possível identificar de plano o constrangimento ilegal aventado ou, ainda, a presença do fumus boni iuris e do periculum in mora, elementos autorizadores para a concessão da tutela de urgência.
+Confundindo-se com o mérito, a pretensão deve ser submetida à análise do órgão colegiado, oportunidade na qual poderá ser feito exame aprofundado das alegações relatadas após manifestação do Parquet.
+Por tais razões, indefiro o pedido de liminar.
+Solicitem-se, com urgência e via telegrama, informações atualizadas e pormenorizadas à autoridade indigitada de coatora, a serem prestadas, preferencialmente, pela Central de Processo Eletrônico - CPE do STJ.
+Após, abra-se vista ao Ministério Público Federal para parecer.
+P. e I.
