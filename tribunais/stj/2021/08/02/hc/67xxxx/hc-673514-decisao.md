@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JONATHAN RIBEIRO DA SILVA, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500676-33.2018.8.26.0618).
+Em primeiro grau, o paciente foi condenado às penas de 4anos, 10 meses e 10 dias dereclusão em regime inicial fechado e de 250dias-multa, pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006.
+O Tribunal de origem deu parcial provimento ao recurso de apelação interposto pela defesa e reduziu a pena do paciente a 4anos e 2meses de reclusão em regime inicial fechado e a 250dias-multa, pela prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006. A pena-base foi fixada no mínimo legal. Ausentes agravantes e atenuantes ena, terceira fase da dosimetria da pena, foi reconhecido o tráfico privilegiado, aplicando-se a fração de 1/6.
+Com fundamento nas Súmulas n.718 e 719 do STF, a defesa alega que o paciente estaria sofrendo constrangimento ilegal em face da imposição de regime inicial mais gravoso.
+Pondera que o paciente tem 24 anos, é primário e trabalha.
+Requer a concessão da ordem a fim de que seja deferido o regime semiaberto.
+O pedido de liminar foi indeferido (fls. 27-28).
+O Tribunal de Justiça do Estado de São Pauloapresentou as informações às fls. 32-37 e 38-64.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ(fls. 66-69).
+É o relatório. Decido.
+No caso, a condenação sofrida pelo paciente é definitiva, pois, conforme consulta ao site do Tribunal de origem, foi certificado o trânsito em julgado da sentença condenatória em 17/5/2021.
+Em consulta, verifica-se que não há no STJ julgamento de mérito passível de revisão criminal em relação a essa condenação.
+Assim, ocorrendo o trânsito em julgado de decisão condenatória nas instâncias de origem, não é dado à parte optar pela impetração de writ nesta instância superior, uma vez que a competência do STJ prevista no art. 105, I, e, da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+A propósito, confiram-se os seguintes precedentes: AgRg no HC n. 628.964/RS, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/2/2021; AgRg no HC n. 521.849/SC, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 19/8/2020; e AgRg no HC n. 632.467/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 18/12/2020.
+Todavia, ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, o pleito formulado no presente writ é dotado de plausibilidade jurídica, circunstância que autoriza a atuação ex officio.
+Com relação ao regime inicial de cumprimento de pena, o Juízo de primeiro grau fixou o fechado, nos seguintes termos (fl. 16):
+O regime de cumprimento de pena deve ser inicialmente fechado, considerando a gravidade do crime, natureza da droga apreendida e sua quantidade, na forma do artigo 33,§3º, do Código Penal.
+O Tribunal de origem manteve o regime fechado, sob os seguintes fundamentos (fls. 23-24):
+O montante fixado impede a concessão da benesse do CP, art. 44, sem se olvidar da reincidência específica de FELIPE e, mesmo que assim não fosse, ainda que a Resolução nº 5/2012, do Senado Federal ter suspendido a execução da expressão "vedada a conversão em penas restritivas de direitos" do § 4º do art. 33 da Lei de Drogas, declarada inconstitucional por decisão do STF no HC nº 97.256/RS, nesse caso, afigura-se inviável, porque não preenchido o requisito do CP, art. 44, III, tendo em vista a elevada culpabilidade, demonstrada na gravidade concreta da conduta social e porque não se mostraria socialmente recomendável e suficiente à prevenção e repressão do delito de tráfico, impulsionador de uma verdadeira série delitiva, assolando a sociedade de forma funesta, mercê da natureza destruidora da droga (crack), cujos dependentes, para garantir o consumo, na maioria das vezes, praticam crimes patrimoniais.
+Pelos mesmos motivos, correta a fixação do regime inicial fechado, ainda que não se ignore que o STF tenha reconhecido e declarado, incidentalmente, a inconstitucionalidade da Lei nº 8.072/90, art.2º, § 1º, que instituiu obrigatoriedade do início da pena no mais gravoso, nojulgamento do HC nº 111.840/ES, calcado na gravidade concreta da conduta- agentes que transportavam expressiva quantidade de entorpecentes -, inexistindo qualquer ofensa às Súmulas/STF, nºs 718 e 719 ou aos princípios da isonomia, razoabilidade e individualização.
+O art. 33, §§ 2º, a, b e c, e 3º, do Código Penal estabelece a regra geral para fixação do regime inicial de cumprimento da pena, pautando-se pela quantidade da reprimenda imposta ao final da dosimetria: a) fechado para a pena superior a 8 anos e, em casos de reincidência, para a pena igual ou inferior a 8 e superior a 4 anos; b) semiaberto para a pena igual ou inferior a 8 e superior a 4 anos, se primário o condenado; e c) aberto para a pena de até 4 anos.
+Ainda, nos termos da Súmula n. 269 do STJ, admite-se o regime semiaberto na hipótese de reincidente condenado a pena igual ou inferior a 4 anos, se a pena-base tiver sido fixada no mínimo legal.
+Destaque-se que a escolha do regime fechado com base na hediondez do delito não encontra mais respaldo na jurisprudência das cortes superiores, mormente após a declaração de inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990 pelo Supremo Tribunal Federal.
+O juiz pode fixar regime inicial mais gravoso do que aquele relacionado unicamente com o quantum da pena ao considerar a eventual existência de circunstâncias judiciais desfavoráveis, especialmente a natureza ou a quantidade da droga, até mesmo sua forma de acondicionamento, desde que fundamente a decisão (AgRg no HC n. 536.415/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19/8/2020).
+É incabível, todavia, a fixação de regime prisional mais gravoso com base apenas na gravidade abstrata do delito, especialmente quando a pena-base foi estabelecida no mínimo legal.
+A propósito, confira-se o enunciado da Súmula n. 440 do STJ:
+Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+O STF também possui orientação firmada no mesmo sentido. Vejam-se, respectivamente, as Súmulas n. 718 e 719:
+- A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+- A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+  No presente caso, a pena-base foi fixada no mínimo legal, trata-se de paciente primárioe a quantidade de drogas apreendida (99,89g de crack e 0,27g de cocaína) não se revela expressiva ao ponto de autorizar a imposição de regime mais gravoso, justificando-se a alteração para o semiaberto, nos termos do art. 33, § 2º, b, do Código Penal.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, mas concedo a ordemde ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, para estabelecer o regime semiaberto para o início de cumprimento da sanção imposta aopaciente.
+Comunique-se com urgência ao Juízo de primeira instância e ao Tribunal de origem para adotem as providências necessárias ao caso.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
