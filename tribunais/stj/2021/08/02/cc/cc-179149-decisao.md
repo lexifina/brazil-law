@@ -1,0 +1,13 @@
+DECISÃO
+CONFLITO DE COMPETÊNCIA. CUMPRIMENTO DE SENTENÇA. PAGAMENTO DE HONORÁRIOS DE ADVOGADO DATIVO, EM FACE DA UNIÃO. ART. 109, I, DA CF/1988. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. Trata-se de Conflito de Competência suscitado pelo JUÍZO FEDERAL DA 1a VARA DA SEÇÃO JUDICIÁRIA DE ARACAJU - SJ/SE em face do JUÍZO DA 15a ZONA ELEITORAL DE NEÓPOLIS/SE, em sede de cumprimento de sentença ajuizado por advogado dativo que pretende o pagamento dos honorários por parte da UNIÃO.
+2. Com efeito, esta Corte Superior de Justiça compreende queacompetênciapara o julgamento da demanda é fixada em razão da natureza da causa, que é definida pelo pedido e causadepedir deduzidos na exordial, consoante dispõe o art. 9º do RISTJ (acompetênciadas Seções e das respectivas Turmas é fixada em função da natureza da relação jurídica litigiosa).
+3.No caso, extrai-se da exordial que o pedido é, essencialmente, pela expedição de RPV para o pagamento dos honorários advocatícios constantesdetítulo executivo judicial, e a causadepedir consiste na sentença ter fixado honorários em favor da autora por ter atuado como advogada dativa em processo eleitoral.
+4. Verifica-se, desse modo, que a controvérsia não tem natureza eleitoral, assim não hácompetênciada especializada para processar e julgar a demanda.
+5. Nesse contexto, nos termos do art. 109, I, da CF/1988, em face da presença da União no polo passivo,atrai-se a competência da Justiça Federal,responsável pelo processamento e julgamento do feito. A propósito:
+COMPETÊNCIA. CONFLITO.JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. EXECUÇÃODEHONORÁRIOS.ADVOGADO DATIVO.CARÁTER ABSOLUTO (RATIONE PERSONAE) DACOMPETÊNCIADA JUSTIÇA FEDERAL. ART. 575-II, CPC.COMPETÊNCIARELATIVA. PREVALÊNCIA DA REGRA COMPETENCIAL CONSTITUCIONAL SOBRE A REGRA INFRACONSTITUCIONAL. PREVALÊNCIA DO CRITÉRIODEFIXAÇÃO DACOMPETÊNCIAABSOLUTA SOBRE O CRITÉRIODEFIXAÇÃO DACOMPETÊNCIARELATIVA.
+I- No confronto entre acompetênciado juiz que julgou a causa em primeiro grau, para a execução dos julgados que proferiu, e acompetênciaratione personae da Justiça Federal, fixada na Constituição, deve prevalecer esta última.
+II- Acompetênciada Justiça Federal é definida em sede constitucional em razão das pessoas que figuram na relação processual como autor, réu, assistente ou oponente, não logrando ser ampliada por qualquer razão.
+III- Conforme afirmou esta Seção no CC 16.397-7-RJ, por mim relatado, com suporte principalmente na doutrinadeAmílcardeCastro, somente na hipótese do inciso I acompetênciapara a execução, prevista no art. 575, CPC, é absoluta.(CC 17.897/SC, Rel. Min. SÁLVIODEFIGUEIREDO TEIXEIRA, DJ 2/8/1999, p. 127).
+6. Ante o exposto, conhece-se do conflito para declarar competente o Juízo Federal.
+7. Publique-se. Intimações necessárias.
