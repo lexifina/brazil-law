@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de THIAGO PEREIRA GARCIA, apontando-se como autoridade coatora o Desembargador Federal do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, o qualindeferiu o pedido liminar nos autos do HC n. 5026395-57.2021.4.04.0000/PR.
+Verifica-se dos autos que, após empreender fuga, o paciente foi preso em flagrante em 27/6/2021,em São Miguel do Iguaçu/PR,pela prática, em tese, do crime previsto no art.334-A do Código Penal, quando transportava mercadorias de origem estrangeira (100 caixas de cigarro), além de um rádio amador oculto. A prisão em flagrante foi homologada, sendo concedida liberdade provisória com a imposição de fiança no valor de R$ 50.000,00 (cinquenta mil reais)-IP n.5009606-26.2021.4.04.7002/PR.
+Requer-se, aqui(fl. 7):
+a) Seja superada a aplicação da Súmula nº 691 do STJ diante do constrangimento ilegal;
+b) Seja concedida a ordem liminarmente, fixando a liberdade provisória sem fiança, subsidiariamente, reduzida para o patamar máximo de 01 (um) salário mínimo nacional; convertida por outra medida cautelar diversa da prisão com fulcro nos artigos 5º, inciso LXVIII, da Constituição Federal, artigo 647 e artigo 648, I, ambos do Código de Processo Penal e, consequentemente, colocado em liberdade o paciente, postulando pela imediata expedição de alvará de soltura clausulado;
+c) Seja concedida a liberdade provisória sem fiança, com fulcro no artigo 310, III, do CPP e com base no HC 568.693/ES proferido pelo STJ;subsidiariamente; reduzida para o patamar máximo de 01 (um) salário mínimo nacional; convertida por outra medida cautelar diversa da prisão; ..
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula 691/STF, observado também por esta Corte, segundo o qual não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade, o que não ocorreu na hipótese em análise.
+Aparentemente, ao contrário do alegado, haveria motivos para a decretação da preventiva, considerando a reiteração criminosa (duas condenações pela prática do crime de contrabando), as particularidades do caso concreto e o fato de ter cumprido suas penashá pouco mais de um ano (22/4/2020), após o que já registrou outra prisão em flagrante, em 11/4/2021, pelos crimes de desacato e resistência, além de perturbação do sossego.
+Outrossim, não há nenhuma comprovação, no momento, de que ele não temcondições de arcar com o recolhimento da fiança, conta com defensor constituído, não é assistido pela Defensoria Pública, havendo menção -considerando o modus operandi adotado-depossível colaboração com organização criminosa voltada ao contrabando de cigarros, com disponibilidade de recursos financeiros e logística para a prática delitiva.
+Ressalto que, no presente caso, as questões trazidas na impetração não foram ainda enfrentadas pelo Colegiado competente, não se admitindo a pretendida supressão de instância. O Desembargador Federal Relator ainda teve o cuidado de afirmar que, nesse contexto, justifica-se, por ora, a imposição da medida cautelar de fiança, no valor fixado, sem prejuízo de nova avaliação pelo juiz da causa, se alterado o contexto fático-probatório, ou no julgamento Colegiado(fl. 14 - grifo nosso).
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS.LIMINAR INDEFERIDA EM PRÉVIO WRIT. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. SÚMULA 691/STF.
+Writ indeferido liminarmente.
