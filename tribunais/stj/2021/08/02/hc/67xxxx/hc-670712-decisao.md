@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpuscompedido de liminar impetrado em favor de IAGO LUAN DA ROSAem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo(Processo n. 2088842-87.2021.8.26.000).
+O paciente teve a prisão em flagrante convertida em preventiva(fls. 40-43)por suposta prática dosdelitos descritos nos arts. 33, caput, e 35 da Lei n. 11.343/2006.
+O decreto prisional fundou-se na quantidadee nocividade deentorpecenteapreendidoe na garantia da ordem pública.
+A defesa alega que a decretação da prisão preventiva carece de fundamentação eque não estão preenchidos os requisitos autorizadores da custódia cautelar.
+Pondera que a quantidade de entorpecente apreendida, por si só, não justifica a manutenção da prisão preventiva.
+Requer, liminarmente e no mérito,a revogação da prisão preventiva dopaciente, expedindo-se o alvará de soltura. Alternativamente, pleiteia a substituição da prisão pela imposição de medidas alternativas previstas no art. 319 do CPP, pois o caso se enquadra nas hipóteses referidas na Recomendação CNJ n. 62/2020.
+O Tribunal de Justiça do Estado de São Pauloapresentou informações às fls. 68-72 e 76-88.
+O Ministério Público Federalopinou pela denegação da ordem(fls. 90-92).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição a recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constataa existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretosquando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção dapreventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP,não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+A propósito, assim se manifestou o Tribunal a quo(fls. 50-51,destaquei):
+Extrai-se das informações prestadas pela autoridade coatora e da consulta ao feito de origem que o paciente e o investigado João Victor Corrêa de Camargo foram presos em flagrante delito em 18 de abril de 2021 pela suposta prática dos crimes de tráfico de drogas e associação para otráfico, pois em tese traziam com eles para a entrega a terceiros, meio "tijolo"de maconha, pesando 499 gramas, uma porção de haxixe, pesando 0,78gramas, e uma balança de precisão.
+Confira-se ainda excerto da decisão,mantida pelo Tribunal de origem, que, diantedas circunstâncias em que ocorria a prática delitiva, converteu a prisãoem flagrante em preventiva (fl. 41, destaquei):
+A manutenção da custódia é medida que se impõe, pois os autuados deram mostras que não se tratam de iniciantes no mundo do crime, haja vista a grande quantidade de entorpecente com ele apreendido (499 gramas de maconha), não se podendo olvidar sua conduta de vender o entorpecente por peso, utilizando balança de precisão, de modo que é possível concluir, em início de cognição, que se forem colocados em liberdade certamente voltarão a delinquir.
+No presente caso, a quantidade, a variedade e a nocividadedos entorpecentes encontrados com o paciente (499g de maconha e 0,78g de haxixe)e a apreensão de apetrechos relacionados ao tráfico de drogas foram consideradas pelo Tribunal de origem para a manutenção daprisão preventiva.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ressalte-se que a apreensão de instrumentos geralmente utilizados nas atividades relacionadas ao tráfico de entorpecentes (balança de precisão, embalagens, caderno de anotações), de expressiva quantidade de dinheiro e de elevada quantidade e variedade de drogas evidencia o envolvimento habitual do agente com a narcotraficância (AgRg no HC n. 594.158/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de27/11/2020).
+No que diz respeito àaplicação da Recomendação CNJ n. 62/2020, aquestãonão foi enfrentadapela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJede 14/9/2018).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
